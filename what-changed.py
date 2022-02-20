@@ -42,7 +42,7 @@ def clone_repo(repo_url: str) -> str:
 def print_log(pkg_attr: str, repo_url: str, from_rev: str):
     oup = open(output_file, 'a', encoding='utf-8')
     oup.write(
-        "\n\n" + rf"#### [{pkg_attr}]({repo_url}): [{from_rev} → HEAD]({repo_url}/compare/{from_rev}..HEAD)" + "\n\n\n\n")
+        "\n\n" + rf"#### [{pkg_attr}]({repo_url}): [{from_rev} → HEAD]({repo_url}/compare/{from_rev}...HEAD)" + "\n\n\n\n")
 
     repo = Repo(get_dirpath(repo_url))
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
