@@ -1,16 +1,16 @@
 # Line starts with '@' will be printed to the output file.
 # Blank line or line starts with '#' will be ignored.
 
-@## what-changed
+@# what-changed
 @
-@List of non-translation Pantheon changes which is *probably* not shipped by NixOS yet.
+@List of non-translation Pantheon changes which are *probably* not shipped by NixOS yet.
 @
 @**This is a generated file, please do not edit.**
 @
 
 # Lists of Pantheon packages (attrPath)
 
-@### apps
+@## apps
 pantheon.appcenter
 pantheon.elementary-calculator
 pantheon.elementary-calendar
@@ -29,7 +29,7 @@ pantheon.elementary-videos
 pantheon.sideload
 pantheon.switchboard
 
-@### apps/switchboard-plugs
+@## apps/switchboard-plugs
 pantheon.switchboard-plug-a11y
 pantheon.switchboard-plug-about
 pantheon.switchboard-plug-applications
@@ -49,14 +49,14 @@ pantheon.switchboard-plug-sharing
 pantheon.switchboard-plug-sound
 pantheon.switchboard-plug-wacom
 
-@### artwork
+@## artwork
 pantheon.elementary-gtk-theme
 pantheon.elementary-icon-theme
 pantheon.elementary-redacted-script
 pantheon.elementary-sound-theme
 pantheon.elementary-wallpapers
 
-@### desktop
+@## desktop
 pantheon.elementary-default-settings
 pantheon.elementary-greeter
 pantheon.elementary-onboarding
@@ -68,7 +68,7 @@ pantheon.gala
 pantheon.gnome-bluetooth-contract
 pantheon.wingpanel
 
-@### desktop/wingpanel-indicators
+@## desktop/wingpanel-indicators
 pantheon.wingpanel-applications-menu
 pantheon.wingpanel-indicator-a11y
 pantheon.wingpanel-indicator-bluetooth
@@ -81,10 +81,11 @@ pantheon.wingpanel-indicator-power
 pantheon.wingpanel-indicator-session
 pantheon.wingpanel-indicator-sound
 
-@### granite
+@## granite
+# TODO: update the attrPath when granite 7 is added
 pantheon.granite
 
-@### services
+@## services
 pantheon.contractor
 pantheon.elementary-capnet-assist
 pantheon.elementary-notifications
@@ -93,7 +94,7 @@ pantheon.pantheon-agent-geoclue2
 pantheon.pantheon-agent-polkit
 pantheon.xdg-desktop-portal-pantheon
 
-@### misc
+@## misc
 pantheon-tweaks
 touchegg
 vala-lint
