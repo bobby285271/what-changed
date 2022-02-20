@@ -1,0 +1,88 @@
+# apps
+pantheon.appcenter
+pantheon.elementary-calculator
+pantheon.elementary-calendar
+pantheon.elementary-camera
+pantheon.elementary-code
+pantheon.elementary-dock
+pantheon.elementary-feedback
+pantheon.elementary-files
+pantheon.elementary-mail
+pantheon.elementary-music
+pantheon.elementary-photos
+pantheon.elementary-screenshot
+pantheon.elementary-tasks
+pantheon.elementary-terminal
+pantheon.elementary-videos
+pantheon.sideload
+pantheon.switchboard
+
+# apps/switchboard-plugs
+pantheon.switchboard-plug-a11y
+pantheon.switchboard-plug-about
+pantheon.switchboard-plug-applications
+pantheon.switchboard-plug-bluetooth
+pantheon.switchboard-plug-datetime
+pantheon.switchboard-plug-display
+pantheon.switchboard-plug-keyboard
+pantheon.switchboard-plug-mouse-touchpad
+pantheon.switchboard-plug-network
+pantheon.switchboard-plug-notifications
+pantheon.switchboard-plug-onlineaccounts
+pantheon.switchboard-plug-pantheon-shell
+pantheon.switchboard-plug-power
+pantheon.switchboard-plug-printers
+pantheon.switchboard-plug-security-privacy
+pantheon.switchboard-plug-sharing
+pantheon.switchboard-plug-sound
+pantheon.switchboard-plug-wacom
+
+# artwork
+pantheon.elementary-gtk-theme
+pantheon.elementary-icon-theme
+pantheon.elementary-redacted-script
+pantheon.elementary-sound-theme
+pantheon.elementary-wallpapers
+
+# desktop
+pantheon.elementary-default-settings
+pantheon.elementary-greeter
+pantheon.elementary-onboarding
+pantheon.elementary-print-shim
+pantheon.elementary-session-settings
+pantheon.elementary-shortcut-overlay
+pantheon.file-roller-contract
+pantheon.gala
+pantheon.gnome-bluetooth-contract
+pantheon.wingpanel
+
+# desktop/wingpanel-indicators
+pantheon.wingpanel-applications-menu
+pantheon.wingpanel-indicator-a11y
+pantheon.wingpanel-indicator-bluetooth
+pantheon.wingpanel-indicator-datetime
+pantheon.wingpanel-indicator-keyboard
+pantheon.wingpanel-indicator-network
+pantheon.wingpanel-indicator-nightlight
+pantheon.wingpanel-indicator-notifications
+pantheon.wingpanel-indicator-power
+pantheon.wingpanel-indicator-session
+pantheon.wingpanel-indicator-sound
+
+# granite
+pantheon.granite
+
+# services
+pantheon.contractor
+pantheon.elementary-capnet-assist
+pantheon.elementary-notifications
+pantheon.elementary-settings-daemon
+pantheon.pantheon-agent-geoclue2
+pantheon.pantheon-agent-polkit
+pantheon.xdg-desktop-portal-pantheon
+
+# misc
+pantheon-tweaks
+touchegg
+vala-lint
+wingpanel-indicator-ayatana
