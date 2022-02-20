@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from curses import raw
 from urllib.parse import urljoin, quote_plus
 from git import Repo
 import os
@@ -19,9 +20,9 @@ ignored_keyphrases = [
 ]
 
 
-def contains_ignored_keyphrases(commit_message: str) -> bool:
+def startswith_ignored_keyphrases(commit_message: str) -> bool:
     for keyphrase in ignored_keyphrases:
-        if keyphrase in commit_message:
+        if commit_message.startswith(keyphrase):
             return True
     return False
 
@@ -39,6 +40,11 @@ def clone_repo(repo_url: str) -> str:
     Repo.clone_from(url=repo_url, to_path=get_dirpath(repo_url))
 
 
+def print_title(content: str):
+    oup = open(output_file, 'a', encoding='utf-8')
+    oup.write(content + "\n")
+
+
 def print_log(pkg_attr: str, repo_url: str, from_rev: str):
     oup = open(output_file, 'a', encoding='utf-8')
     oup.write(
@@ -47,7 +53,7 @@ def print_log(pkg_attr: str, repo_url: str, from_rev: str):
     repo = Repo(get_dirpath(repo_url))
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
         commit_message_oneline = commit.message.splitlines()[0]
-        if not contains_ignored_keyphrases(commit_message_oneline):
+        if not startswith_ignored_keyphrases(commit_message_oneline):
             oup.write(
                 rf"- [ ] [<code>{commit_message_oneline}</code>]({repo_url}/commit/{commit.hexsha})" + "\n")
 
@@ -58,13 +64,16 @@ def main():
     os.makedirs(work_dir)
     inp = open(input_file, 'r', encoding='utf-8')
     for pkg_attr in inp.readlines():
-        if pkg_attr[0] == '#' or not pkg_attr.strip():
+        pkg_attr = rf"{pkg_attr}".strip()
+        if not pkg_attr or pkg_attr[0] == '#':
             continue
-        pkg_attr = pkg_attr.strip()
-        repo_url = get_eval(rf"{pkg_attr}.src.meta.homepage")
-        from_rev = get_eval(rf"{pkg_attr}.src.rev")
-        clone_repo(repo_url)
-        print_log(pkg_attr, repo_url, from_rev)
+        elif pkg_attr[0] == '@':
+            print_title(pkg_attr[1:])
+        else:
+            repo_url = get_eval(rf"{pkg_attr}.src.meta.homepage")
+            from_rev = get_eval(rf"{pkg_attr}.src.rev")
+            clone_repo(repo_url)
+            print_log(pkg_attr, repo_url, from_rev)
 
 
 if __name__ == "__main__":
