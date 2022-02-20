@@ -19,11 +19,6 @@ ignored_keyphrases = [
 ]
 
 
-def multi_urljoin(*parts) -> str:
-    return urljoin(parts[0], "/".join(quote_plus(part.strip("/"), safe="/")
-                                      for part in parts[1:]))
-
-
 def contains_ignored_keyphrases(commit_message: str) -> bool:
     for keyphrase in ignored_keyphrases:
         if keyphrase in commit_message:
