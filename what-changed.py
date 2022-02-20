@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-from curses import raw
-from urllib.parse import urljoin, quote_plus
 from git import Repo
 import os
 import subprocess
