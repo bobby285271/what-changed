@@ -44,17 +44,28 @@ def print_title(content: str):
 
 
 def print_log(pkg_attr: str, repo_url: str, from_rev: str):
-    from_rev_for_display = from_rev[:16] # assuming length of version number wont exceed 16
+    # assuming length of version number wont exceed 16
+    from_rev_for_display = from_rev[:16]
     oup = open(output_file, 'a', encoding='utf-8')
     oup.write(
         "\n" + rf"### [{pkg_attr}]({repo_url}): [{from_rev_for_display} → HEAD]({repo_url}/compare/{from_rev}...HEAD)" + "\n\n\n\n")
 
     repo = Repo(get_dirpath(repo_url))
+    tagmap = {}
+    for tag in repo.tags:
+        tagmap.setdefault(repo.commit(tag), []).append(tag)
+
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
         commit_message_oneline = commit.message.splitlines()[0]
-        if not startswith_ignored_keyphrases(commit_message_oneline):
+        if commit in tagmap or not startswith_ignored_keyphrases(commit_message_oneline):
             oup.write(
-                rf"- [ ] [<code>{commit_message_oneline}</code>]({repo_url}/commit/{commit.hexsha})" + "\n")
+                rf"- [ ] [<code>{commit_message_oneline}</code>]({repo_url}/commit/{commit.hexsha})")
+            if commit in tagmap:
+                oup.write(rf" <sub>Tagged:")
+                for tag in tagmap.get(commit):
+                    oup.write(rf" <code>{tag}</code>")
+                oup.write(rf"</sub>")
+            oup.write("\n")
 
 
 def main():
