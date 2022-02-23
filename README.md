@@ -2,9 +2,6 @@
 
 List of non-translation Pantheon changes which are *probably* not shipped by NixOS yet.
 
-**This file (README.md) is a generated file, please do not edit.**
-
-- [View raw content of this file](https://raw.githubusercontent.com/bobby285271/what-changed/master/README.md)
 - [NixOS/nixpkgs Pantheon project board](https://github.com/NixOS/nixpkgs/projects/21)
 - [List of upstream project boards](https://github.com/orgs/elementary/projects?type=beta)
 - [View recent upstream releases and their change logs](https://releases.elementary.io/)
