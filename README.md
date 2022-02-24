@@ -407,6 +407,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#590)</code>](https://github.com/elementary/greeter/commit/a4b25244058fce794a9f13f6b22a8ff7735ebde9)
 - [ ] [<code>Add support for Mutter 42 (#593)</code>](https://github.com/elementary/greeter/commit/4c5314bd2110cfc9adc99328d74e9c5802fdeaea)
 - [ ] [<code>Update mutter-clutter-9.deps (#594)</code>](https://github.com/elementary/greeter/commit/0d7326d3f10114c619b957efe1fe739dc8fe4102)
+- [ ] [<code>Modifying the logged_in variable to be class private to allow access outside of the function it is allocated in (#598)</code>](https://github.com/elementary/greeter/commit/cbcfebc58429eeaba89b699b3fcdffdd512a4e04)
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
