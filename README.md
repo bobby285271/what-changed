@@ -689,8 +689,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SDK: add GTK4 packages (#89)</code>](https://github.com/elementary/seeds/commit/18f2df12c246ff3640f129a6f0422ce8cfd40091)
 - [ ] [<code>Pantheon: Noise → Music</code>](https://github.com/elementary/seeds/commit/c0c5a223d15735baa6facb5c2c9e05b33ac8b06d)
 
-### [github:elementary/os](https://github.com/elementary/os): [eaa1d5c9b608e74d → HEAD](https://github.com/elementary/os/compare/eaa1d5c9b608e74db95304e40c1e60c341358ec9...HEAD)
+### [github:elementary/os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
 
 
 
+- [ ] [<code>Stable config: remove `-rc` suffix (#586)</code>](https://github.com/elementary/os/commit/ecc36a32e1e648b94ea8fed58b9bb62eb6f44598)
+- [ ] [<code>Delete daily-6.1.yml (#599)</code>](https://github.com/elementary/os/commit/ce318bba8788628eedeee312c5985c60d1878fad)
+- [ ] [<code>Workflows: Rename ARM workflow for clarity (#600)</code>](https://github.com/elementary/os/commit/eaa1d5c9b608e74db95304e40c1e60c341358ec9)
 - [ ] [<code>Remove lupin-support from pool (#614)</code>](https://github.com/elementary/os/commit/a6fb13f66dcf19086b812cbedb0f06b89a0b5459)
