@@ -105,7 +105,7 @@ def main():
             repo_url = pkg_attr.split(' ')[0].replace(
                 "github:", "https://github.com/")
             from_rev = pkg_attr.split(' ')[1]
-            pkg_attr = repo_url.split('/')[-1]
+            pkg_attr = pkg_attr.split(' ')[0]
             clone_repo(repo_url)
             print_log_github(pkg_attr, repo_url, from_rev)
         # Track packages updates
