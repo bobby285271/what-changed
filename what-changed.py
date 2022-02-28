@@ -48,7 +48,7 @@ def print_title(content: str):
     oup.write(content + "\n")
 
 
-def print_log(pkg_attr: str, repo_url: str, from_rev: str):
+def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
     # `from_rev` can be either tag names or git commit hexsha. I assume
     # length of tag names won't exceed 16. Full git commit hexsha sounds
     # too long for me.
@@ -78,10 +78,10 @@ def print_log(pkg_attr: str, repo_url: str, from_rev: str):
             oup.write(
                 rf"- [ ] [<code>{commit_message_oneline}</code>]({repo_url}/commit/{commit.hexsha})")
             if commit in tagmap:
-                oup.write(rf" <sub>Tagged:")
+                oup.write(" <sub>Tagged:")
                 for tag in tagmap.get(commit):
                     oup.write(rf" <code>{tag}</code>")
-                oup.write(rf"</sub>")
+                oup.write("</sub>")
             oup.write("\n")
 
 
@@ -92,17 +92,29 @@ def main():
     inp = open(input_file, 'r', encoding='utf-8')
     for pkg_attr in inp.readlines():
         pkg_attr = rf"{pkg_attr}".strip()
+        # Ignore line starts with '#' and blank line
         if not pkg_attr or pkg_attr[0] == '#':
             continue
+        # Directly print line starts with '@' to output
         elif pkg_attr[0] == '@':
             print_title(pkg_attr[1:])
+        # Track repositories that has no corresponding
+        # packages in Nixpkgs, so far only GitHub repos
+        # are supported
+        elif 'github:' in pkg_attr:
+            repo_url = pkg_attr.split(' ')[0].replace(
+                "github:", "https://github.com/")
+            from_rev = pkg_attr.split(' ')[1]
+            pkg_attr = repo_url.split('/')[-1]
+            clone_repo(repo_url)
+            print_log_github(pkg_attr, repo_url, from_rev)
+        # Track packages updates
         else:
             repo_url = get_eval(rf"{pkg_attr}.src.meta.homepage")
-            # We don't use `{pkg_attr}.version` to make sure this
-            # works with unstable-YYYY-MM-DD version.
             from_rev = get_eval(rf"{pkg_attr}.src.rev")
             clone_repo(repo_url)
-            print_log(pkg_attr, repo_url, from_rev)
+            if "github.com" in repo_url:
+                print_log_github(pkg_attr, repo_url, from_rev)
 
 
 if __name__ == "__main__":
