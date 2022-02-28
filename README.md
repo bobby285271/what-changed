@@ -677,3 +677,20 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+
+## repos
+
+### [github:elementary/seeds](https://github.com/elementary/seeds): [31d60df70f3ae058 → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
+
+
+
+- [ ] [<code>Bump to jammy</code>](https://github.com/elementary/seeds/commit/92468e4c64cf4fe9634950d4ff22ff3509dce45f)
+- [ ] [<code>Desktop: Replace upstream File Roller with patched version (#87)</code>](https://github.com/elementary/seeds/commit/a85814e2e8831e759c40483a03ce723ce827f190)
+- [ ] [<code>SDK: add GTK4 packages (#89)</code>](https://github.com/elementary/seeds/commit/18f2df12c246ff3640f129a6f0422ce8cfd40091)
+- [ ] [<code>Pantheon: Noise → Music</code>](https://github.com/elementary/seeds/commit/c0c5a223d15735baa6facb5c2c9e05b33ac8b06d)
+
+### [github:elementary/os](https://github.com/elementary/os): [eaa1d5c9b608e74d → HEAD](https://github.com/elementary/os/compare/eaa1d5c9b608e74db95304e40c1e60c341358ec9...HEAD)
+
+
+
+- [ ] [<code>Remove lupin-support from pool (#614)</code>](https://github.com/elementary/os/commit/a6fb13f66dcf19086b812cbedb0f06b89a0b5459)
