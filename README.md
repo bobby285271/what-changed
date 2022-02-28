@@ -408,6 +408,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add support for Mutter 42 (#593)</code>](https://github.com/elementary/greeter/commit/4c5314bd2110cfc9adc99328d74e9c5802fdeaea)
 - [ ] [<code>Update mutter-clutter-9.deps (#594)</code>](https://github.com/elementary/greeter/commit/0d7326d3f10114c619b957efe1fe739dc8fe4102)
 - [ ] [<code>Modifying the logged_in variable to be class private to allow access outside of the function it is allocated in (#598)</code>](https://github.com/elementary/greeter/commit/cbcfebc58429eeaba89b699b3fcdffdd512a4e04)
+- [ ] [<code>Release 6.0.2 (#599)</code>](https://github.com/elementary/greeter/commit/2f83a9f86f1861fa91959b5fa27138880a7ef8b5) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
@@ -697,3 +698,4 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Desktop: Replace upstream File Roller with patched version (#87)</code>](https://github.com/elementary/seeds/commit/a85814e2e8831e759c40483a03ce723ce827f190)
 - [ ] [<code>SDK: add GTK4 packages (#89)</code>](https://github.com/elementary/seeds/commit/18f2df12c246ff3640f129a6f0422ce8cfd40091)
 - [ ] [<code>Pantheon: Noise → Music</code>](https://github.com/elementary/seeds/commit/c0c5a223d15735baa6facb5c2c9e05b33ac8b06d)
+- [ ] [<code>Prevent installation of budgie-desktop (#95)</code>](https://github.com/elementary/seeds/commit/ac9c506115c88812a04b2a851a7ce103802a0a82)
