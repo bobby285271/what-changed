@@ -375,6 +375,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Status: remove notification-audio-* (#1077)</code>](https://github.com/elementary/icons/commit/bccf95639b01a448878e480172b75decbdd95149)
 - [ ] [<code>FIletypes: Add extension at 128px (#1081)</code>](https://github.com/elementary/icons/commit/2ae68f4460192d438f3de6232f0967e7b606f6cb)
 - [ ] [<code>Filetypes: 16px Vala (#1083)</code>](https://github.com/elementary/icons/commit/b8458463f772e57270a002796760b95222703c99)
+- [ ] [<code>FileTypes: Use package metaphor for deb (#1080)</code>](https://github.com/elementary/icons/commit/e6210aa418ef57820c747cb67363adcbebb41a86)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -700,3 +701,4 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SDK: add GTK4 packages (#89)</code>](https://github.com/elementary/seeds/commit/18f2df12c246ff3640f129a6f0422ce8cfd40091)
 - [ ] [<code>Pantheon: Noise → Music</code>](https://github.com/elementary/seeds/commit/c0c5a223d15735baa6facb5c2c9e05b33ac8b06d)
 - [ ] [<code>Prevent installation of budgie-desktop (#95)</code>](https://github.com/elementary/seeds/commit/ac9c506115c88812a04b2a851a7ce103802a0a82)
+- [ ] [<code>jammy: Remove gnome-remote-desktop (#96)</code>](https://github.com/elementary/seeds/commit/d00c31a0b5f86a2926770cd335de9718233d18ef)
