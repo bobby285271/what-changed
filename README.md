@@ -401,16 +401,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
 
-### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.0.1 → HEAD](https://github.com/elementary/greeter/compare/6.0.1...HEAD)
+### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.0.2 → HEAD](https://github.com/elementary/greeter/compare/6.0.2...HEAD)
 
 
 
-- [ ] [<code>Update README.md (#587)</code>](https://github.com/elementary/greeter/commit/139ead321b56b7818499c45fb3c9e820d1108027)
-- [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#590)</code>](https://github.com/elementary/greeter/commit/a4b25244058fce794a9f13f6b22a8ff7735ebde9)
-- [ ] [<code>Add support for Mutter 42 (#593)</code>](https://github.com/elementary/greeter/commit/4c5314bd2110cfc9adc99328d74e9c5802fdeaea)
-- [ ] [<code>Update mutter-clutter-9.deps (#594)</code>](https://github.com/elementary/greeter/commit/0d7326d3f10114c619b957efe1fe739dc8fe4102)
-- [ ] [<code>Modifying the logged_in variable to be class private to allow access outside of the function it is allocated in (#598)</code>](https://github.com/elementary/greeter/commit/cbcfebc58429eeaba89b699b3fcdffdd512a4e04)
-- [ ] [<code>Release 6.0.2 (#599)</code>](https://github.com/elementary/greeter/commit/2f83a9f86f1861fa91959b5fa27138880a7ef8b5) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
