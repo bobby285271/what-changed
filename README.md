@@ -590,6 +590,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>appdata: Fix a typo for "correctly" (#582)</code>](https://github.com/elementary/granite/commit/e8e9f51c6dab1f7ddb827e3bacf6cd5ed6ad7e08)
 - [ ] [<code>Update post_install.py (#586)</code>](https://github.com/elementary/granite/commit/62e8a5c8d511513656f4bb69c9dafbb19acc233a)
 - [ ] [<code>AppData: Explicit namespace of the removed Settings (#583)</code>](https://github.com/elementary/granite/commit/fe1127e3cd8abe29e01ba9fdb4cbb7cddf8b7947)
+- [ ] [<code>System: remove unused functions (#581)</code>](https://github.com/elementary/granite/commit/231ed5680d99e305ed53a36a9859c0ef591d5047)
 
 ## services
 
