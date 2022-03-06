@@ -632,50 +632,6 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>make --verbose works (#50)</code>](https://github.com/elementary/portals/commit/569b81bf4870ade713a4e0e60f4c930b7ff27826)
 
-## misc
-
-### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.0.3 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.0.3...HEAD)
-
-
-
-- [ ] [<code>Update de.po (#140)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/091d96c8854f9bdb5e339309a17b66d6de567c9b)
-- [ ] [<code>Update Hungarian translation (#141)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/22e58c5f18f46a9a6a919ff48d2ada7fd9bfc0d4)
-- [ ] [<code>Use stable elementary image and latest checkout (#142)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3b90d3f4d8376f70654c816aa8582ae047c604e2)
-- [ ] [<code>README: Explicit the manual installation is for developers</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2cfde75663e49750b2aba60f59b50748ff0d40d5)
-- [ ] [<code>Update German translation (#146)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ad0720986ab0fd4c25b76398e7a9ad11024f69da)
-- [ ] [<code>Fix a typo: 'namaes' to 'names'</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3f60b29aa6a3a3072ae7b07e82c254e593ffb646)
-- [ ] [<code>Update Portuguese translation (#148)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2442701e2ec1de6a3f5da0842812c8391fbe7bcc)
-- [ ] [<code>Update Chinese Simplified translation (#150)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/189a3576109dd23ad346190f6a30b35b0f98ca2d)
-
-### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.13 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.13...HEAD)
-
-
-
-- [ ] [<code>Update COPR URL</code>](https://github.com/JoseExposito/touchegg/commit/ed9867e93efa33571f0364e2343a24d6bdccbf9e)
-- [ ] [<code>Typo</code>](https://github.com/JoseExposito/touchegg/commit/b1ef8b425f39f4b4dcbfcb0b70949043f6afc778)
-- [ ] [<code>Merge branch 'master' of https://github.com/JoseExposito/touchegg</code>](https://github.com/JoseExposito/touchegg/commit/ffd0af3d89801efeeb7393014defb3fa124e330f)
-- [ ] [<code>COPR test</code>](https://github.com/JoseExposito/touchegg/commit/70294067eb810ff82cf2231df3dbd2fab2c3b32b)
-- [ ] [<code>COPR test</code>](https://github.com/JoseExposito/touchegg/commit/4b6229590992ec534a45ed7e8b14b0e4800bf6fe)
-- [ ] [<code>COPR test</code>](https://github.com/JoseExposito/touchegg/commit/1266b014b87e457a25031c7ecfc095d9cfed1a9b)
-- [ ] [<code>Add .copr/Makefile</code>](https://github.com/JoseExposito/touchegg/commit/f59b56aa17c7d81071400b08e9700f649682ce90)
-- [ ] [<code>Remove accidentally created folder</code>](https://github.com/JoseExposito/touchegg/commit/9fb58008eabfa659ca78b6a8e187e2afb4f0a9cc)
-- [ ] [<code>COPR test</code>](https://github.com/JoseExposito/touchegg/commit/973d9802f3879e1817f60d32a7a973cc70ab5a23)
-- [ ] [<code>Install git</code>](https://github.com/JoseExposito/touchegg/commit/0db182cd05d70af2f4438464e2438cf20d04d3a3)
-- [ ] [<code>COPR: Change work directory to $(outdir)</code>](https://github.com/JoseExposito/touchegg/commit/851ab96cce4427a8b88bc75dcf39a46e3ecca994)
-- [ ] [<code>Update README.md</code>](https://github.com/JoseExposito/touchegg/commit/1f3fda214358d071c05da4bf17c070c33d67b5eb)
-- [ ] [<code>Use XRRGetScreenResourcesCurrent for performance</code>](https://github.com/JoseExposito/touchegg/commit/a066b0d6e010508875ec37e77236bb2c5902d1c8)
-
-### [vala-lint](https://github.com/vala-lang/vala-lint): [1eeb3538b2a71add → HEAD](https://github.com/vala-lang/vala-lint/compare/1eeb3538b2a71addd0d8adc9f53ffe80fdfb8ce0...HEAD)
-
-
-
-- [ ] [<code>Add tests for autofix functionality (#154)</code>](https://github.com/vala-lang/vala-lint/commit/2f8a970cbf41ac54d2b4124c9d7db64543031901)
-
-### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [5749f753ca64ce58 → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/5749f753ca64ce58232a46b9045949b3f8219827...HEAD)
-
-
-
-
 ## repos
 
 ### [github:elementary/os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
