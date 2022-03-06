@@ -110,14 +110,6 @@ pantheon.pantheon-agent-polkit
 pantheon.xdg-desktop-portal-pantheon
 
 @
-@## misc
-
-pantheon-tweaks
-touchegg
-vala-lint
-wingpanel-indicator-ayatana
-
-@
 @## repos
 
 github:elementary/os 6.1.0-rc4
