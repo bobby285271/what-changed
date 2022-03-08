@@ -613,6 +613,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Replace add with attach for Grid (#159)</code>](https://github.com/elementary/notifications/commit/640977df3f5fe322c3d81591751c1806b7060141)
 - [ ] [<code>Replace ButtonBox with Box (#161)</code>](https://github.com/elementary/notifications/commit/7296f56d167fbdc093d80e2dd5205f7b04cc50a7)
 - [ ] [<code>Move dark theme handling to the Application class (#166)</code>](https://github.com/elementary/notifications/commit/745abd0f643525f2cd7ee247a02fc3e8315e8409)
+- [ ] [<code>Improve style in places (#164)</code>](https://github.com/elementary/notifications/commit/6aab86336a48f3fee854911429f5849b8590cf62)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
 
