@@ -359,6 +359,12 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>GTK4/Entries: style password entry (#1166)</code>](https://github.com/elementary/stylesheet/commit/d9819d6339736e0ec891edacf0357ba51f36a6ab)
 - [ ] [<code>GTK4: fix link styles (#1164)</code>](https://github.com/elementary/stylesheet/commit/2b529447c3fe196cb22d1d69b839bb3f9716b5de)
 - [ ] [<code>GTK4: add Granite.Placeholder (#1154)</code>](https://github.com/elementary/stylesheet/commit/bad0dc2c68e71aed6300328a7f2b1312c9d55367)
+- [ ] [<code>Gtk4/osds (#1183)</code>](https://github.com/elementary/stylesheet/commit/86c924124a43392f83c5efee960813ab602f526a)
+- [ ] [<code>GTK4/Linked: fix RTL (#1175)</code>](https://github.com/elementary/stylesheet/commit/7b20c60bb05583ce46ad71b1d8577313bcc96994)
+- [ ] [<code>GTK4/Lists: support .rich-list and .separators (#1174)</code>](https://github.com/elementary/stylesheet/commit/1832d1427e2af2487ada10762dc71b3f9b208df5)
+- [ ] [<code>Windows: fix margins for maximized and tiled (#1169)</code>](https://github.com/elementary/stylesheet/commit/4acc7563c1d970c9f1c9c46a1e4eb27bba4e3018)
+- [ ] [<code>GTK4/Expanders: remove old style classes (#1168)</code>](https://github.com/elementary/stylesheet/commit/b5595f011abeea2651f42505aaaae1b78258a7f5)
+- [ ] [<code>Add buttonbox (#1181)</code>](https://github.com/elementary/stylesheet/commit/12fa3d4474a582e783e6a7d4a829467b53afc414)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
 
