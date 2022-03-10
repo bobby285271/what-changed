@@ -470,6 +470,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WindowClone: Remove Granite.CloseButtonPosition</code>](https://github.com/elementary/gala/commit/1a2109e57199a745d1ad62cb4cb1cd6d0dff8615)
 - [ ] [<code>Update bindings to latest Mutter</code>](https://github.com/elementary/gala/commit/cdcb87afcb4fb5729548a934885ba46b40a601ac)
 - [ ] [<code>Update meson.build</code>](https://github.com/elementary/gala/commit/6dec2707cd3aedf8fccbb34e7b6bd261056b57ea)
+- [ ] [<code>Remove redundant test</code>](https://github.com/elementary/gala/commit/e3a9953607e67ca6ab6947027ad1d682da766891)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -541,6 +542,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>New Horizontal scroll support (#204)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/654e11dec8456e36dd9eea167f2476a73ad5f1bd)
 - [ ] [<code>Hide brightness slider on desktop experience (#206)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7dbf88a3894adeb713ff65602fc09149dc3f5d41)
+- [ ] [<code>AppList: Don't add the header as a row (#225)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/908c2eff91c135a90c73a3c3032323911910d6e5)
 
 ### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
@@ -616,6 +618,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Replace ButtonBox with Box (#161)</code>](https://github.com/elementary/notifications/commit/7296f56d167fbdc093d80e2dd5205f7b04cc50a7)
 - [ ] [<code>Move dark theme handling to the Application class (#166)</code>](https://github.com/elementary/notifications/commit/745abd0f643525f2cd7ee247a02fc3e8315e8409)
 - [ ] [<code>Improve style in places (#164)</code>](https://github.com/elementary/notifications/commit/6aab86336a48f3fee854911429f5849b8590cf62)
+- [ ] [<code>Application: use startup and dbus_register instead of activate (#168)</code>](https://github.com/elementary/notifications/commit/035525a58c0422d433688048062f0ec318e3ce94)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
 
