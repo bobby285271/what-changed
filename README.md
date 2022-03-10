@@ -468,6 +468,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add support for Mutter 42</code>](https://github.com/elementary/gala/commit/7ce741413283e51509878df64149451b54dafbbb)
 - [ ] [<code>Update mutter-clutter-9.deps</code>](https://github.com/elementary/gala/commit/e7d1682cf68e642883d07a4fa5e3c99aaa4046a0)
 - [ ] [<code>WindowClone: Remove Granite.CloseButtonPosition</code>](https://github.com/elementary/gala/commit/1a2109e57199a745d1ad62cb4cb1cd6d0dff8615)
+- [ ] [<code>Update bindings to latest Mutter</code>](https://github.com/elementary/gala/commit/cdcb87afcb4fb5729548a934885ba46b40a601ac)
+- [ ] [<code>Update meson.build</code>](https://github.com/elementary/gala/commit/6dec2707cd3aedf8fccbb34e7b6bd261056b57ea)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
