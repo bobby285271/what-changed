@@ -543,6 +543,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>New Horizontal scroll support (#204)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/654e11dec8456e36dd9eea167f2476a73ad5f1bd)
 - [ ] [<code>Hide brightness slider on desktop experience (#206)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7dbf88a3894adeb713ff65602fc09149dc3f5d41)
 - [ ] [<code>AppList: Don't add the header as a row (#225)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/908c2eff91c135a90c73a3c3032323911910d6e5)
+- [ ] [<code>AppList: Don't show the power eater section if failed to get the app (#226)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0061d0c05de2d121a8224744a0472bcbc4a91a85)
 
 ### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
