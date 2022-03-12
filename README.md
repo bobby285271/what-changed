@@ -149,6 +149,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AudioObject: construct from uri (#696)</code>](https://github.com/elementary/music/commit/f9d018e398eaaa6419db6ed044e7f4f074ea0488)
 - [ ] [<code>Update music.appdata.xml.in</code>](https://github.com/elementary/music/commit/d4b51184bf1460f48ce952029c2c02b9734365bc)
 - [ ] [<code>SeekBar: remove outdated style class constant</code>](https://github.com/elementary/music/commit/6d1c12767d0c2cd8f391b7b2f067142c9fc875ca)
+- [ ] [<code>l10n: Correctly setup the locales (#699)</code>](https://github.com/elementary/music/commit/070103a63ef2e82d2534bd529a9594f225dbb995)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
