@@ -155,6 +155,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Fix build with vala 0.56 (#711)</code>](https://github.com/elementary/photos/commit/6594f1323726fb0d38519a7bdafe16f9170353cb)
 
 ### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
