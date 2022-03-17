@@ -61,6 +61,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use tilde (#1153)</code>](https://github.com/elementary/code/commit/446a52cf67ed3dc4dd82e6327bbd4898f4d593da)
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#1165)</code>](https://github.com/elementary/code/commit/a2607cce3a6b1bb62d02456456d3cbc3c6530bb0)
 - [ ] [<code>Search-bar enhancements (Regex Support) (#1170)</code>](https://github.com/elementary/code/commit/02f40c50a3beee935432a9be91b188c8dff1e027)
+- [ ] [<code>Fix occasional crash in SearchBar (#1174)</code>](https://github.com/elementary/code/commit/4d6767ff9601a910404f5715d05e364853f21579)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
