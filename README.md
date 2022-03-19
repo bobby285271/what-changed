@@ -31,6 +31,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Use assert_true instead of assert in tests (#747)</code>](https://github.com/elementary/calendar/commit/013338a1cf8216bc13d6773c9140ec732449626a)
 
 ### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.0.3 → HEAD](https://github.com/elementary/camera/compare/6.0.3...HEAD)
 
