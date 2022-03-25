@@ -63,6 +63,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#1165)</code>](https://github.com/elementary/code/commit/a2607cce3a6b1bb62d02456456d3cbc3c6530bb0)
 - [ ] [<code>Search-bar enhancements (Regex Support) (#1170)</code>](https://github.com/elementary/code/commit/02f40c50a3beee935432a9be91b188c8dff1e027)
 - [ ] [<code>Fix occasional crash in SearchBar (#1174)</code>](https://github.com/elementary/code/commit/4d6767ff9601a910404f5715d05e364853f21579)
+- [ ] [<code>Only focus the current document on open (#1177)</code>](https://github.com/elementary/code/commit/a4685230e577b0537b3998af2c0f3a1498ec7022)
+- [ ] [<code>Update appdata with recent changes (#1178)</code>](https://github.com/elementary/code/commit/9d840655c5c131809e9d2e5912121358c27c5944)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
