@@ -65,6 +65,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix occasional crash in SearchBar (#1174)</code>](https://github.com/elementary/code/commit/4d6767ff9601a910404f5715d05e364853f21579)
 - [ ] [<code>Only focus the current document on open (#1177)</code>](https://github.com/elementary/code/commit/a4685230e577b0537b3998af2c0f3a1498ec7022)
 - [ ] [<code>Update appdata with recent changes (#1178)</code>](https://github.com/elementary/code/commit/9d840655c5c131809e9d2e5912121358c27c5944)
+- [ ] [<code>Check fully for null doc in document change handler (#1146)</code>](https://github.com/elementary/code/commit/9db961ac3ebf32ab85837426540be2e964fc9791)
+- [ ] [<code>Fix logic for duplicating unselected line. (#1137)</code>](https://github.com/elementary/code/commit/e2990f709dbd46c5f50c63a0f95d8ff55ff572ff)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
