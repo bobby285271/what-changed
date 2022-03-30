@@ -246,6 +246,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Adding Multitasking View to Super Key Options (#400)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cf8f18ea56e222c09048bae6a7fe064f0b20260b)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -477,6 +478,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update bindings to latest Mutter</code>](https://github.com/elementary/gala/commit/cdcb87afcb4fb5729548a934885ba46b40a601ac)
 - [ ] [<code>Update meson.build</code>](https://github.com/elementary/gala/commit/6dec2707cd3aedf8fccbb34e7b6bd261056b57ea)
 - [ ] [<code>Remove redundant test</code>](https://github.com/elementary/gala/commit/e3a9953607e67ca6ab6947027ad1d682da766891)
+- [ ] [<code>Allow super key in multitasking view (#1393)</code>](https://github.com/elementary/gala/commit/edc3bfd09f44453d8fb6df77f40072c921578d9d)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
