@@ -67,6 +67,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update appdata with recent changes (#1178)</code>](https://github.com/elementary/code/commit/9d840655c5c131809e9d2e5912121358c27c5944)
 - [ ] [<code>Check fully for null doc in document change handler (#1146)</code>](https://github.com/elementary/code/commit/9db961ac3ebf32ab85837426540be2e964fc9791)
 - [ ] [<code>Fix logic for duplicating unselected line. (#1137)</code>](https://github.com/elementary/code/commit/e2990f709dbd46c5f50c63a0f95d8ff55ff572ff)
+- [ ] [<code>replace_home_with_tilde: use `substring()` to remove home directory (#1180)</code>](https://github.com/elementary/code/commit/e95da83ac9d336d9a74255aab8dea8d0825b4dfa)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
@@ -91,6 +92,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove references to Granite.Services.Logger (deprecated) (#1998)</code>](https://github.com/elementary/files/commit/a1ef156f517c22637d136b9fac76ef753c71d2d3)
 - [ ] [<code>Correctly add network plugin item (#2007)</code>](https://github.com/elementary/files/commit/a621f1c5622b6d2d46391a63cc625bf56b9a147a)
 - [ ] [<code>Make trash bookmark permanent (no remove option) (#2014)</code>](https://github.com/elementary/files/commit/e124ad85ec53ccf17d30e823cae01728fdf04ce5)
+- [ ] [<code>Drop unnecessary Config.TERMINAL_NAME check (#2019)</code>](https://github.com/elementary/files/commit/ecac4870807ee8256e68c2faed5d904edfed6b97)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
