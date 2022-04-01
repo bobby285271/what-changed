@@ -70,6 +70,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>replace_home_with_tilde: use `substring()` to remove home directory (#1180)</code>](https://github.com/elementary/code/commit/e95da83ac9d336d9a74255aab8dea8d0825b4dfa)
 - [ ] [<code>Include hyphen and underscore in word to match (#1160)</code>](https://github.com/elementary/code/commit/1e321b4153d8e9746f97600a70c854d25c46b23c)
 - [ ] [<code>Check commandline files, do not allow docs with null file (#1129)</code>](https://github.com/elementary/code/commit/ae3e081e38bd055f50f48e52761b106466e5a1ab)
+- [ ] [<code>SearchBar: Make the search count translatable (#1182)</code>](https://github.com/elementary/code/commit/ae319e69b59fd578e17493a02384e5892f828e24)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
