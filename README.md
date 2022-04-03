@@ -293,6 +293,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update power.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/eb125751d8f837230030dfe1b4ddebf4be13b7ce)
 - [ ] [<code>Move get_permission to MainView (#212)</code>](https://github.com/elementary/switchboard-plug-power/commit/ebdf7322ee7086e57495d9c692f4ccbbf66e18d4)
 - [ ] [<code>PowerSupply: subclass object (#211)</code>](https://github.com/elementary/switchboard-plug-power/commit/e34abfd9eec32280111c5eb9116fa566c422074f)
+- [ ] [<code>PowerModeButton: rewrite as radiobuttons (#209)</code>](https://github.com/elementary/switchboard-plug-power/commit/ef780d5030a48fe49c1a6fe7450a969ade6d300d)
 
 ### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.1.10 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.1.10...HEAD)
 
@@ -396,6 +397,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>FIletypes: Add extension at 128px (#1081)</code>](https://github.com/elementary/icons/commit/2ae68f4460192d438f3de6232f0967e7b606f6cb)
 - [ ] [<code>Filetypes: 16px Vala (#1083)</code>](https://github.com/elementary/icons/commit/b8458463f772e57270a002796760b95222703c99)
 - [ ] [<code>FileTypes: Use package metaphor for deb (#1080)</code>](https://github.com/elementary/icons/commit/e6210aa418ef57820c747cb67363adcbebb41a86)
+- [ ] [<code>Use rounded arrow on download folder (#1090)</code>](https://github.com/elementary/icons/commit/02fbeee0c5d69b0d59fdd6687033486819a92f49)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
