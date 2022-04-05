@@ -50,28 +50,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Take photo or video on secondary click (#204)</code>](https://github.com/elementary/camera/commit/19a9c09cfc9a41173ecdf2991047f968d6da8b16)
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/eb382a14f7e110684ae7d01136f54bdda794e39b)
 
-### [pantheon.elementary-code](https://github.com/elementary/code): [6.1.0 → HEAD](https://github.com/elementary/code/compare/6.1.0...HEAD)
+### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
 
 
-- [ ] [<code>863: Set window title to title of currently focused document. (#1139)</code>](https://github.com/elementary/code/commit/c56b9fb467ea38884d77e7666bdf628a4edbecb6)
-- [ ] [<code>Show hidden folders by default (#1154)</code>](https://github.com/elementary/code/commit/83877c09a299c594af4b4200a459f85ca0eef131)
-- [ ] [<code>1092 - Add location and count functionality  to Search and Replace (#1118)</code>](https://github.com/elementary/code/commit/fdebb1f2a7f31eb7106a417b995bad8f61f64378)
-- [ ] [<code>Rewrite word completion to play nice with other completion providers. (#1125)</code>](https://github.com/elementary/code/commit/3f2e7052cca176bf3e12081ff4519cd820c4f2a5)
-- [ ] [<code>MonitoredRepository: allow changing branch with untracked files (#1161)</code>](https://github.com/elementary/code/commit/a376b9bc81af48b1bed89e2cf1d95516ffb9347d)
-- [ ] [<code>Use tilde (#1153)</code>](https://github.com/elementary/code/commit/446a52cf67ed3dc4dd82e6327bbd4898f4d593da)
-- [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#1165)</code>](https://github.com/elementary/code/commit/a2607cce3a6b1bb62d02456456d3cbc3c6530bb0)
-- [ ] [<code>Search-bar enhancements (Regex Support) (#1170)</code>](https://github.com/elementary/code/commit/02f40c50a3beee935432a9be91b188c8dff1e027)
-- [ ] [<code>Fix occasional crash in SearchBar (#1174)</code>](https://github.com/elementary/code/commit/4d6767ff9601a910404f5715d05e364853f21579)
-- [ ] [<code>Only focus the current document on open (#1177)</code>](https://github.com/elementary/code/commit/a4685230e577b0537b3998af2c0f3a1498ec7022)
-- [ ] [<code>Update appdata with recent changes (#1178)</code>](https://github.com/elementary/code/commit/9d840655c5c131809e9d2e5912121358c27c5944)
-- [ ] [<code>Check fully for null doc in document change handler (#1146)</code>](https://github.com/elementary/code/commit/9db961ac3ebf32ab85837426540be2e964fc9791)
-- [ ] [<code>Fix logic for duplicating unselected line. (#1137)</code>](https://github.com/elementary/code/commit/e2990f709dbd46c5f50c63a0f95d8ff55ff572ff)
-- [ ] [<code>replace_home_with_tilde: use `substring()` to remove home directory (#1180)</code>](https://github.com/elementary/code/commit/e95da83ac9d336d9a74255aab8dea8d0825b4dfa)
-- [ ] [<code>Include hyphen and underscore in word to match (#1160)</code>](https://github.com/elementary/code/commit/1e321b4153d8e9746f97600a70c854d25c46b23c)
-- [ ] [<code>Check commandline files, do not allow docs with null file (#1129)</code>](https://github.com/elementary/code/commit/ae3e081e38bd055f50f48e52761b106466e5a1ab)
-- [ ] [<code>SearchBar: Make the search count translatable (#1182)</code>](https://github.com/elementary/code/commit/ae319e69b59fd578e17493a02384e5892f828e24)
-- [ ] [<code>Release 6.2.0 (#1181)</code>](https://github.com/elementary/code/commit/a580f6b6b0c7963333dd472f6ee9da2a7c602449) <sub>Tagged: <code>6.2.0</code></sub>
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
@@ -489,6 +471,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update meson.build</code>](https://github.com/elementary/gala/commit/6dec2707cd3aedf8fccbb34e7b6bd261056b57ea)
 - [ ] [<code>Remove redundant test</code>](https://github.com/elementary/gala/commit/e3a9953607e67ca6ab6947027ad1d682da766891)
 - [ ] [<code>Allow super key in multitasking view (#1393)</code>](https://github.com/elementary/gala/commit/edc3bfd09f44453d8fb6df77f40072c921578d9d)
+- [ ] [<code>Fix compile warnings (#1384)</code>](https://github.com/elementary/gala/commit/7a13e044bb4fb01685d056e664bd75b0464971c2)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
