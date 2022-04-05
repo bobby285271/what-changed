@@ -21,6 +21,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/1218e9eb2c80de41779b5103fd85bb2006d1d7dd)
 - [ ] [<code>Show try for free label  (#1820)</code>](https://github.com/elementary/appcenter/commit/7bcbc7d0c180570e8c569d2d9964bff4bc63ea46)
 - [ ] [<code>Client: Trigger auto-updates when opening the app (#1811)</code>](https://github.com/elementary/appcenter/commit/20da4901feacea8c14d1cd8bdb62c1b0f36db6b9)
+- [ ] [<code>AppInfoView: Set banner provider for context, not screen (#1692)</code>](https://github.com/elementary/appcenter/commit/7aebc80a66b41f2ce51adfd7a5b57e490ea5b2d4)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -79,6 +80,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Correctly add network plugin item (#2007)</code>](https://github.com/elementary/files/commit/a621f1c5622b6d2d46391a63cc625bf56b9a147a)
 - [ ] [<code>Make trash bookmark permanent (no remove option) (#2014)</code>](https://github.com/elementary/files/commit/e124ad85ec53ccf17d30e823cae01728fdf04ce5)
 - [ ] [<code>Drop unnecessary Config.TERMINAL_NAME check (#2019)</code>](https://github.com/elementary/files/commit/ecac4870807ee8256e68c2faed5d904edfed6b97)
+- [ ] [<code>Action match pointer (#1910)</code>](https://github.com/elementary/files/commit/3f897081e59c71c81dac311e641784f67d7b885c)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
