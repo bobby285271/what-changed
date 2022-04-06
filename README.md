@@ -211,6 +211,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add support for offline firmware updates (#244)</code>](https://github.com/elementary/switchboard-plug-about/commit/d9e86614953dad529586a9b6dca1692eff8266ad)
 - [ ] [<code>AppData: describe recent changes</code>](https://github.com/elementary/switchboard-plug-about/commit/e0d71e03e239115f808a78690dceef8676aaf9bd)
 - [ ] [<code>README: Update oem.conf documentation</code>](https://github.com/elementary/switchboard-plug-about/commit/746d6fe323bc9d8064e130ebde21c49454e7420b)
+- [ ] [<code>Release 6.1.0 (#247)</code>](https://github.com/elementary/switchboard-plug-about/commit/953cca72c0fa8877ed2f1c0d5f57394bdd8a6305) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -239,6 +240,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Adding Multitasking View to Super Key Options (#400)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cf8f18ea56e222c09048bae6a7fe064f0b20260b)
+- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c3ee201b7dfb75c151ee511bc079fb34a5da9451)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -264,6 +266,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>ImapDialog: add fetch interval setting (#238)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/71def566b0f1efa5f5b5de13b9189025a72a45e1)
+- [ ] [<code>Release 6.4.0 (#240)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/b27efe60a5dac83034b0bf6fa72fa133069c141e) <sub>Tagged: <code>6.4.0</code></sub>
 
 ### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.1.0...HEAD)
 
@@ -475,6 +478,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove redundant test</code>](https://github.com/elementary/gala/commit/e3a9953607e67ca6ab6947027ad1d682da766891)
 - [ ] [<code>Allow super key in multitasking view (#1393)</code>](https://github.com/elementary/gala/commit/edc3bfd09f44453d8fb6df77f40072c921578d9d)
 - [ ] [<code>Fix compile warnings (#1384)</code>](https://github.com/elementary/gala/commit/7a13e044bb4fb01685d056e664bd75b0464971c2)
+- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/46da45032355f5e9f76c2b67a81991e5f9735308)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
