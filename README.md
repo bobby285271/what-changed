@@ -436,6 +436,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>CI: remove Nix (#61)</code>](https://github.com/elementary/session-settings/commit/064adfe31abfeb8bfa1f92a435102d5c3fda224a)
 
 ### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
 
