@@ -158,6 +158,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Fix data/meson.build (#241)</code>](https://github.com/elementary/screenshot/commit/80a5d942e813dd098e1ef0f6629b81d2ccef05ae)
+- [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
 
 ### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.2.0 → HEAD](https://github.com/elementary/tasks/compare/6.2.0...HEAD)
 
@@ -197,21 +198,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#79)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/08db4b696128a6bf809da3403a818834fcd62b02)
 
-### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.0.1...HEAD)
+### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
 
 
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/switchboard-plug-about/commit/5b20866715b29eaf5b7de9cb6d710afd49e2bea7)
-- [ ] [<code>Avoid ugly (null) label on some rolling releases distributions (#238)</code>](https://github.com/elementary/switchboard-plug-about/commit/2791b1a6dbf424948271a8034d2799ce59309ca8)
-- [ ] [<code>Get LogoDark from /etc/oem.conf</code>](https://github.com/elementary/switchboard-plug-about/commit/ccddc1776e66341ac7282dd95ee0692aeef44e56)
-- [ ] [<code>Move logic to update manufacturer logo</code>](https://github.com/elementary/switchboard-plug-about/commit/21fa12a1e2a55793a45ec39a23afaadd6813070c)
-- [ ] [<code>React to dark mode</code>](https://github.com/elementary/switchboard-plug-about/commit/726d57eb1ba28d3063ce26a433d4d81badfeacd6)
-- [ ] [<code>Check if OEM is enabled</code>](https://github.com/elementary/switchboard-plug-about/commit/0b05e5fc293c88e29b15a1f842eb133232aa2e5f)
-- [ ] [<code>FirmwareView: Fix typo with "successful" (#242)</code>](https://github.com/elementary/switchboard-plug-about/commit/958b89bfe5a2adab21cf7268d28cbc9095617abc)
-- [ ] [<code>Add support for offline firmware updates (#244)</code>](https://github.com/elementary/switchboard-plug-about/commit/d9e86614953dad529586a9b6dca1692eff8266ad)
-- [ ] [<code>AppData: describe recent changes</code>](https://github.com/elementary/switchboard-plug-about/commit/e0d71e03e239115f808a78690dceef8676aaf9bd)
-- [ ] [<code>README: Update oem.conf documentation</code>](https://github.com/elementary/switchboard-plug-about/commit/746d6fe323bc9d8064e130ebde21c49454e7420b)
-- [ ] [<code>Release 6.1.0 (#247)</code>](https://github.com/elementary/switchboard-plug-about/commit/953cca72c0fa8877ed2f1c0d5f57394bdd8a6305) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -262,12 +252,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#83)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/2e0320aab62b6932e8ef5f941d02e244de381957)
 
-### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.3.0...HEAD)
+### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.4.0...HEAD)
 
 
 
-- [ ] [<code>ImapDialog: add fetch interval setting (#238)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/71def566b0f1efa5f5b5de13b9189025a72a45e1)
-- [ ] [<code>Release 6.4.0 (#240)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/b27efe60a5dac83034b0bf6fa72fa133069c141e) <sub>Tagged: <code>6.4.0</code></sub>
 
 ### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.1.0...HEAD)
 
@@ -301,15 +289,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#55)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/5219839738b79e3c5f039a811d96a40eb2644eab)
 
-### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.0...HEAD)
+### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
 
 
-- [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available</code>](https://github.com/elementary/switchboard-plug-sound/commit/10599f20dafb765e53e1c814ab6062b32085663c)
-- [ ] [<code>InputPanel: update placeholder text</code>](https://github.com/elementary/switchboard-plug-sound/commit/d0febe64293a9bcaf55bdd6ea6ab5afce30c615a)
-- [ ] [<code>OutputPanel: Make screen reader description translatable (#220)</code>](https://github.com/elementary/switchboard-plug-sound/commit/363fe74601bb9a1564c7ebddeb22aa85b569758a)
-- [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-sound/commit/fb5b5e53a5b238e9d9fea9bbdb11f3ad58271a61)
-- [ ] [<code>Release 2.3.1 (#224)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4fd27d0dc1a85e3a527632073644a66cec85e6fb) <sub>Tagged: <code>2.3.1</code></sub>
 
 ### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.0...HEAD)
 
