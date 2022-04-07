@@ -466,6 +466,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix compile warnings (#1384)</code>](https://github.com/elementary/gala/commit/7a13e044bb4fb01685d056e664bd75b0464971c2)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/46da45032355f5e9f76c2b67a81991e5f9735308)
 - [ ] [<code>Release 6.3.1 (#1398)</code>](https://github.com/elementary/gala/commit/14fbdf5e04c9c5d9c3676c5cd7cfcc8890950cbe) <sub>Tagged: <code>6.3.1</code></sub>
+- [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -478,6 +479,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Add support for Mutter 42 (#434)</code>](https://github.com/elementary/wingpanel/commit/b5e8f8b044a49da4621fdf044dfe21b1213edcde)
 - [ ] [<code>Update mutter-clutter-9.deps (#435)</code>](https://github.com/elementary/wingpanel/commit/0bb8396f7504feef6082a555123f1d733b4ed891)
+- [ ] [<code>Fallback to maximized style if Gala bus is unavailable (#445)</code>](https://github.com/elementary/wingpanel/commit/f186b6cabca403a62f97586fd0a5ce558dd0341e)
 
 ## desktop/wingpanel-indicators
 
