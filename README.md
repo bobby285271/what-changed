@@ -241,6 +241,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Adding Multitasking View to Super Key Options (#400)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cf8f18ea56e222c09048bae6a7fe064f0b20260b)
 - [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c3ee201b7dfb75c151ee511bc079fb34a5da9451)
+- [ ] [<code>Release 2.7.0</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/12283712b726ad7b3838fc1e5a5760246ebbad30) <sub>Tagged: <code>2.7.0</code></sub>
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -481,6 +482,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Allow super key in multitasking view (#1393)</code>](https://github.com/elementary/gala/commit/edc3bfd09f44453d8fb6df77f40072c921578d9d)
 - [ ] [<code>Fix compile warnings (#1384)</code>](https://github.com/elementary/gala/commit/7a13e044bb4fb01685d056e664bd75b0464971c2)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/46da45032355f5e9f76c2b67a81991e5f9735308)
+- [ ] [<code>Release 6.3.1 (#1398)</code>](https://github.com/elementary/gala/commit/14fbdf5e04c9c5d9c3676c5cd7cfcc8890950cbe) <sub>Tagged: <code>6.3.1</code></sub>
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -631,6 +633,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Improve style in places (#164)</code>](https://github.com/elementary/notifications/commit/6aab86336a48f3fee854911429f5849b8590cf62)
 - [ ] [<code>Application: use startup and dbus_register instead of activate (#168)</code>](https://github.com/elementary/notifications/commit/035525a58c0422d433688048062f0ec318e3ce94)
 - [ ] [<code>Remove old issue templates (#136)</code>](https://github.com/elementary/notifications/commit/9ec5d232eeb7267c720ad5e171e9250224ae92e7)
+- [ ] [<code>Release 6.0.1 (#171)</code>](https://github.com/elementary/notifications/commit/0377a167753192688bfad017b5e01f444527d41b) <sub>Tagged: <code>6.0.1</code></sub>
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
 
