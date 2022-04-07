@@ -307,6 +307,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available</code>](https://github.com/elementary/switchboard-plug-sound/commit/10599f20dafb765e53e1c814ab6062b32085663c)
 - [ ] [<code>InputPanel: update placeholder text</code>](https://github.com/elementary/switchboard-plug-sound/commit/d0febe64293a9bcaf55bdd6ea6ab5afce30c615a)
 - [ ] [<code>OutputPanel: Make screen reader description translatable (#220)</code>](https://github.com/elementary/switchboard-plug-sound/commit/363fe74601bb9a1564c7ebddeb22aa85b569758a)
+- [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-sound/commit/fb5b5e53a5b238e9d9fea9bbdb11f3ad58271a61)
+- [ ] [<code>Release 2.3.1 (#224)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4fd27d0dc1a85e3a527632073644a66cec85e6fb) <sub>Tagged: <code>2.3.1</code></sub>
 
 ### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.0...HEAD)
 
@@ -628,6 +630,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Move dark theme handling to the Application class (#166)</code>](https://github.com/elementary/notifications/commit/745abd0f643525f2cd7ee247a02fc3e8315e8409)
 - [ ] [<code>Improve style in places (#164)</code>](https://github.com/elementary/notifications/commit/6aab86336a48f3fee854911429f5849b8590cf62)
 - [ ] [<code>Application: use startup and dbus_register instead of activate (#168)</code>](https://github.com/elementary/notifications/commit/035525a58c0422d433688048062f0ec318e3ce94)
+- [ ] [<code>Remove old issue templates (#136)</code>](https://github.com/elementary/notifications/commit/9ec5d232eeb7267c720ad5e171e9250224ae92e7)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
 
