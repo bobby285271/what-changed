@@ -50,6 +50,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Ensure pipeline restarts and controls function after taking photo (#223)</code>](https://github.com/elementary/camera/commit/e43ca609e1083570839b5fcb93778625b14c2c87)
 - [ ] [<code>Take photo or video on secondary click (#204)</code>](https://github.com/elementary/camera/commit/19a9c09cfc9a41173ecdf2991047f968d6da8b16)
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/eb382a14f7e110684ae7d01136f54bdda794e39b)
+- [ ] [<code>Combine HeaderBar and MainWindow (#227)</code>](https://github.com/elementary/camera/commit/0e4102422fd9c7850d611a40859096c14b2368a2)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -619,6 +620,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Application: use startup and dbus_register instead of activate (#168)</code>](https://github.com/elementary/notifications/commit/035525a58c0422d433688048062f0ec318e3ce94)
 - [ ] [<code>Remove old issue templates (#136)</code>](https://github.com/elementary/notifications/commit/9ec5d232eeb7267c720ad5e171e9250224ae92e7)
 - [ ] [<code>Release 6.0.1 (#171)</code>](https://github.com/elementary/notifications/commit/0377a167753192688bfad017b5e01f444527d41b) <sub>Tagged: <code>6.0.1</code></sub>
+- [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
 
