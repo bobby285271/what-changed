@@ -355,6 +355,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Windows: fix margins for maximized and tiled (#1169)</code>](https://github.com/elementary/stylesheet/commit/4acc7563c1d970c9f1c9c46a1e4eb27bba4e3018)
 - [ ] [<code>GTK4/Expanders: remove old style classes (#1168)</code>](https://github.com/elementary/stylesheet/commit/b5595f011abeea2651f42505aaaae1b78258a7f5)
 - [ ] [<code>Add buttonbox (#1181)</code>](https://github.com/elementary/stylesheet/commit/12fa3d4474a582e783e6a7d4a829467b53afc414)
+- [ ] [<code>Fix SSD windows (#1189)</code>](https://github.com/elementary/stylesheet/commit/81ff0734836ff6fb48465b57ea366a15884f79cd)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
 
