@@ -226,13 +226,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.6.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.6.0...HEAD)
+### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
 
 
 
-- [ ] [<code>Adding Multitasking View to Super Key Options (#400)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cf8f18ea56e222c09048bae6a7fe064f0b20260b)
-- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c3ee201b7dfb75c151ee511bc079fb34a5da9451)
-- [ ] [<code>Release 2.7.0</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/12283712b726ad7b3838fc1e5a5760246ebbad30) <sub>Tagged: <code>2.7.0</code></sub>
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -443,31 +440,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.gala](https://github.com/elementary/gala): [6.3.0 → HEAD](https://github.com/elementary/gala/compare/6.3.0...HEAD)
+### [pantheon.gala](https://github.com/elementary/gala): [6.3.1 → HEAD](https://github.com/elementary/gala/compare/6.3.1...HEAD)
 
 
 
-- [ ] [<code>WindowSwitcher: Simplify the window indicator by handling directly its content</code>](https://github.com/elementary/gala/commit/cc83db8fe398feae9f3e4caa8352b65f0c8c96d4)
-- [ ] [<code>WindowSwitcher: Follow accent color</code>](https://github.com/elementary/gala/commit/92d3a735e50d9dfa267dd9ea66c3b193651df857)
-- [ ] [<code>WindowSwitcher: Clear indicator background</code>](https://github.com/elementary/gala/commit/cce53acffecba795b6cc48916d4621a47996d2c9)
-- [ ] [<code>Dialogs: add AccessDialog class (#1327)</code>](https://github.com/elementary/gala/commit/e1f3a151023ac93bfd9f7365ff59943de12c6692)
-- [ ] [<code>WindowManager: Rewrite display settings labels (#1329)</code>](https://github.com/elementary/gala/commit/a1fc426b42e875cae481c222b5bd713ab9055506)
-- [ ] [<code>switcher: fix container staying reactive in scene</code>](https://github.com/elementary/gala/commit/962accdf1a3529a7968b529ad6f35595252ff386)
-- [ ] [<code>Always subtract from nat_width the scaled padding over children count (#1336)</code>](https://github.com/elementary/gala/commit/eb70d6dbba70683b329aeb77d77f20f15d074dd0)
-- [ ] [<code>opacity transition on WindowIcons can be null on WM startup</code>](https://github.com/elementary/gala/commit/8a433d7030def055774f176747913ad629d8813c)
-- [ ] [<code>fix segfault if portal could not be acquired</code>](https://github.com/elementary/gala/commit/33cd59742f16994de79b06a5f4ac68bbf5f0dd8c)
-- [ ] [<code>some windows may report null for their titles, catch that case when assigning tooltips</code>](https://github.com/elementary/gala/commit/26ebdae58a6c42ce9a1cd60d12608ab9a1918389)
-- [ ] [<code>fix workspace clone not resizing on monitor geometry changes</code>](https://github.com/elementary/gala/commit/e43ae576caa5cefd17df8c7a4bf148efa387f2f7)
-- [ ] [<code>Add support for Mutter 42</code>](https://github.com/elementary/gala/commit/7ce741413283e51509878df64149451b54dafbbb)
-- [ ] [<code>Update mutter-clutter-9.deps</code>](https://github.com/elementary/gala/commit/e7d1682cf68e642883d07a4fa5e3c99aaa4046a0)
-- [ ] [<code>WindowClone: Remove Granite.CloseButtonPosition</code>](https://github.com/elementary/gala/commit/1a2109e57199a745d1ad62cb4cb1cd6d0dff8615)
-- [ ] [<code>Update bindings to latest Mutter</code>](https://github.com/elementary/gala/commit/cdcb87afcb4fb5729548a934885ba46b40a601ac)
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/gala/commit/6dec2707cd3aedf8fccbb34e7b6bd261056b57ea)
-- [ ] [<code>Remove redundant test</code>](https://github.com/elementary/gala/commit/e3a9953607e67ca6ab6947027ad1d682da766891)
-- [ ] [<code>Allow super key in multitasking view (#1393)</code>](https://github.com/elementary/gala/commit/edc3bfd09f44453d8fb6df77f40072c921578d9d)
-- [ ] [<code>Fix compile warnings (#1384)</code>](https://github.com/elementary/gala/commit/7a13e044bb4fb01685d056e664bd75b0464971c2)
-- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/46da45032355f5e9f76c2b67a81991e5f9735308)
-- [ ] [<code>Release 6.3.1 (#1398)</code>](https://github.com/elementary/gala/commit/14fbdf5e04c9c5d9c3676c5cd7cfcc8890950cbe) <sub>Tagged: <code>6.3.1</code></sub>
 - [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
@@ -596,6 +572,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update post_install.py (#586)</code>](https://github.com/elementary/granite/commit/62e8a5c8d511513656f4bb69c9dafbb19acc233a)
 - [ ] [<code>AppData: Explicit namespace of the removed Settings (#583)</code>](https://github.com/elementary/granite/commit/fe1127e3cd8abe29e01ba9fdb4cbb7cddf8b7947)
 - [ ] [<code>System: remove unused functions (#581)</code>](https://github.com/elementary/granite/commit/231ed5680d99e305ed53a36a9859c0ef591d5047)
+- [ ] [<code>OverlayBar: remove styles and cleanup (#560)</code>](https://github.com/elementary/granite/commit/562a7aca788b588d5e7237c731a8d3a010ac05bd)
+- [ ] [<code>Toast: subclass Widget, redo styles (#580)</code>](https://github.com/elementary/granite/commit/7bc1c61c12ef1f020d16b4827399972e8b6df61d)
 
 ## services
 
@@ -609,18 +587,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.0 → HEAD](https://github.com/elementary/notifications/compare/6.0.0...HEAD)
+### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
 
 
 
-- [ ] [<code>Revert "Fix #117: Show icons for daemons (#118)" (#122)</code>](https://github.com/elementary/notifications/commit/8a44793695889bcaa3d50991aa7498535f27d471)
-- [ ] [<code>Replace add with attach for Grid (#159)</code>](https://github.com/elementary/notifications/commit/640977df3f5fe322c3d81591751c1806b7060141)
-- [ ] [<code>Replace ButtonBox with Box (#161)</code>](https://github.com/elementary/notifications/commit/7296f56d167fbdc093d80e2dd5205f7b04cc50a7)
-- [ ] [<code>Move dark theme handling to the Application class (#166)</code>](https://github.com/elementary/notifications/commit/745abd0f643525f2cd7ee247a02fc3e8315e8409)
-- [ ] [<code>Improve style in places (#164)</code>](https://github.com/elementary/notifications/commit/6aab86336a48f3fee854911429f5849b8590cf62)
-- [ ] [<code>Application: use startup and dbus_register instead of activate (#168)</code>](https://github.com/elementary/notifications/commit/035525a58c0422d433688048062f0ec318e3ce94)
-- [ ] [<code>Remove old issue templates (#136)</code>](https://github.com/elementary/notifications/commit/9ec5d232eeb7267c720ad5e171e9250224ae92e7)
-- [ ] [<code>Release 6.0.1 (#171)</code>](https://github.com/elementary/notifications/commit/0377a167753192688bfad017b5e01f444527d41b) <sub>Tagged: <code>6.0.1</code></sub>
 - [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
