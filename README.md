@@ -400,6 +400,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>compositor: Add Wingpanel Background interface (#606)</code>](https://github.com/elementary/greeter/commit/b70d439769e9e6803ef61894c74eb358cb5c1c45)
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
