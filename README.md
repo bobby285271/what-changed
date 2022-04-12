@@ -147,6 +147,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update music.appdata.xml.in</code>](https://github.com/elementary/music/commit/d4b51184bf1460f48ce952029c2c02b9734365bc)
 - [ ] [<code>SeekBar: remove outdated style class constant</code>](https://github.com/elementary/music/commit/6d1c12767d0c2cd8f391b7b2f067142c9fc875ca)
 - [ ] [<code>l10n: Correctly setup the locales (#699)</code>](https://github.com/elementary/music/commit/070103a63ef2e82d2534bd529a9594f225dbb995)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/music/commit/a2700ee393c9a07ab12f455dccd27c9b4affa6df)
+- [ ] [<code>Update extra translation files</code>](https://github.com/elementary/music/commit/671abdfa221a5e956b377fc27b5d8cf8e6123e45)
+- [ ] [<code>CI: Use daily docker (#702)</code>](https://github.com/elementary/music/commit/7c1c90e114e6d33c5f7bb4704085b9f248a892e5)
+- [ ] [<code>CI: Add ARM (#703)</code>](https://github.com/elementary/music/commit/0eef5cf26d29a8d25a6144958e1eab1e443fc702)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
