@@ -27,6 +27,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Use GLib.Action for buttons (#224)</code>](https://github.com/elementary/calculator/commit/0663a36772352380240243c5973d8280e373c7e7)
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
