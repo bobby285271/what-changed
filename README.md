@@ -51,6 +51,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Take photo or video on secondary click (#204)</code>](https://github.com/elementary/camera/commit/19a9c09cfc9a41173ecdf2991047f968d6da8b16)
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/eb382a14f7e110684ae7d01136f54bdda794e39b)
 - [ ] [<code>Combine HeaderBar and MainWindow (#227)</code>](https://github.com/elementary/camera/commit/0e4102422fd9c7850d611a40859096c14b2368a2)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/camera/commit/8fff774d0fe6287e07298b128f842881a7a912e7)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
