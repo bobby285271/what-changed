@@ -56,6 +56,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
 
@@ -82,6 +83,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Make trash bookmark permanent (no remove option) (#2014)</code>](https://github.com/elementary/files/commit/e124ad85ec53ccf17d30e823cae01728fdf04ce5)
 - [ ] [<code>Drop unnecessary Config.TERMINAL_NAME check (#2019)</code>](https://github.com/elementary/files/commit/ecac4870807ee8256e68c2faed5d904edfed6b97)
 - [ ] [<code>Action match pointer (#1910)</code>](https://github.com/elementary/files/commit/3f897081e59c71c81dac311e641784f67d7b885c)
+- [ ] [<code>Ensure cursor follows selection with mouse (#1951)</code>](https://github.com/elementary/files/commit/7a3f8788bab8b980352d02a53f1237a113fdd5b9)
+- [ ] [<code>Disable view actions when renaming (#1962)</code>](https://github.com/elementary/files/commit/be5944b8bdd863c888dfe29efb974b337ee9e3be)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -450,6 +453,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
+- [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
