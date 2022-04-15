@@ -586,6 +586,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>System: remove unused functions (#581)</code>](https://github.com/elementary/granite/commit/231ed5680d99e305ed53a36a9859c0ef591d5047)
 - [ ] [<code>OverlayBar: remove styles and cleanup (#560)</code>](https://github.com/elementary/granite/commit/562a7aca788b588d5e7237c731a8d3a010ac05bd)
 - [ ] [<code>Toast: subclass Widget, redo styles (#580)</code>](https://github.com/elementary/granite/commit/7bc1c61c12ef1f020d16b4827399972e8b6df61d)
+- [ ] [<code>HyperTextView: Use Gtk.show_uri (#591)</code>](https://github.com/elementary/granite/commit/5c6b7d74339f2cb2a8f7ed511726589185e73f69)
 
 ## services
 
