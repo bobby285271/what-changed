@@ -587,6 +587,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>OverlayBar: remove styles and cleanup (#560)</code>](https://github.com/elementary/granite/commit/562a7aca788b588d5e7237c731a8d3a010ac05bd)
 - [ ] [<code>Toast: subclass Widget, redo styles (#580)</code>](https://github.com/elementary/granite/commit/7bc1c61c12ef1f020d16b4827399972e8b6df61d)
 - [ ] [<code>HyperTextView: Use Gtk.show_uri (#591)</code>](https://github.com/elementary/granite/commit/5c6b7d74339f2cb2a8f7ed511726589185e73f69)
+- [ ] [<code>SettingsSidebarRow: Use semantic icon names</code>](https://github.com/elementary/granite/commit/cd4a30459d47271d8cded0dc2a9492fd8c6ee3be)
+- [ ] [<code>Handle StatusType.NONE</code>](https://github.com/elementary/granite/commit/ea1407c53cbf66c5329d9cb36b0094ac2b63427c)
+- [ ] [<code>SwitchModelButton: ellipsize label at 25ch</code>](https://github.com/elementary/granite/commit/2c2765abdcee27f84dd13e3ccb685191c5cbd610)
+- [ ] [<code>SettingsSidebar: subclass Gtk.Widget (#593)</code>](https://github.com/elementary/granite/commit/01db721d142d836a054a04d2e5086815d8cdeb96)
+- [ ] [<code>GraniteDemo: fix pane resizing</code>](https://github.com/elementary/granite/commit/04e072f1f93e72f1b0c11b76b9c98b6e122c14e0)
 
 ## services
 
