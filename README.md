@@ -479,6 +479,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add support for Mutter 42 (#434)</code>](https://github.com/elementary/wingpanel/commit/b5e8f8b044a49da4621fdf044dfe21b1213edcde)
 - [ ] [<code>Update mutter-clutter-9.deps (#435)</code>](https://github.com/elementary/wingpanel/commit/0bb8396f7504feef6082a555123f1d733b4ed891)
 - [ ] [<code>Fallback to maximized style if Gala bus is unavailable (#445)</code>](https://github.com/elementary/wingpanel/commit/f186b6cabca403a62f97586fd0a5ce558dd0341e)
+- [ ] [<code>Styles: fix CSS syntax, remove extra class</code>](https://github.com/elementary/wingpanel/commit/6184480f94b466f78cae20bf2b134eb2ce545395)
+- [ ] [<code>IndicatorEntry: Remove hardcoded margin</code>](https://github.com/elementary/wingpanel/commit/e3d6123f422dc9d6d1417c7fbbb562246e883d4a)
+- [ ] [<code>Lib: Remove deprecated widgets (#450)</code>](https://github.com/elementary/wingpanel/commit/afa7e3cdbdacf0730961f015b045f037feccdc36)
 
 ## desktop/wingpanel-indicators
 
