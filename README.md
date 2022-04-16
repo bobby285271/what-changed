@@ -87,6 +87,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Action match pointer (#1910)</code>](https://github.com/elementary/files/commit/3f897081e59c71c81dac311e641784f67d7b885c)
 - [ ] [<code>Ensure cursor follows selection with mouse (#1951)</code>](https://github.com/elementary/files/commit/7a3f8788bab8b980352d02a53f1237a113fdd5b9)
 - [ ] [<code>Disable view actions when renaming (#1962)</code>](https://github.com/elementary/files/commit/be5944b8bdd863c888dfe29efb974b337ee9e3be)
+- [ ] [<code>Remove references to Granite (#2025)</code>](https://github.com/elementary/files/commit/9dd4c8eb7a79786bb8056ed8499acf5620968430)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -363,6 +364,14 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>GTK4/Expanders: remove old style classes (#1168)</code>](https://github.com/elementary/stylesheet/commit/b5595f011abeea2651f42505aaaae1b78258a7f5)
 - [ ] [<code>Add buttonbox (#1181)</code>](https://github.com/elementary/stylesheet/commit/12fa3d4474a582e783e6a7d4a829467b53afc414)
 - [ ] [<code>Fix SSD windows (#1189)</code>](https://github.com/elementary/stylesheet/commit/81ff0734836ff6fb48465b57ea366a15884f79cd)
+- [ ] [<code>Style SettingsPages (#1193)</code>](https://github.com/elementary/stylesheet/commit/5f5642756d1f3a83c7a3b899c8ab515ece8bdc2e)
+- [ ] [<code>Sidebars: style settingssidebar (#1192)</code>](https://github.com/elementary/stylesheet/commit/d769b4426b1979b5fec72b3488fc969c3f078544)
+- [ ] [<code>ModelButton: fix title-4 weight (#1191)</code>](https://github.com/elementary/stylesheet/commit/b6a5b278de11a615dd1bab240d06d43c0d467440)
+- [ ] [<code>Infobars: fix padding and update colors (#1190)</code>](https://github.com/elementary/stylesheet/commit/fed6dc9388cf8bc84087a317ff4065c3ae99697f)
+- [ ] [<code>Lists: also style listview</code>](https://github.com/elementary/stylesheet/commit/d0f04f72c551a52770a0d5713981287fac14c6c5)
+- [ ] [<code>Style Dropdowns (#1196)</code>](https://github.com/elementary/stylesheet/commit/ebc2e7bd32d6909cfc8496a81c1b7c5959fd290f)
+- [ ] [<code>Windows: support .aboutdialog (#1194)</code>](https://github.com/elementary/stylesheet/commit/dbd2adcfe1e8b1d434c0a3b722e420e95c3d0097)
+- [ ] [<code>Sidebars: right border except in paned (#1195)</code>](https://github.com/elementary/stylesheet/commit/5a3c6d854eae3ccfb009a2a2324a5f4018f0bba5)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
 
