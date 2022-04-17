@@ -495,6 +495,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/fb8412d56bc1c42b70e8ee41b837e8024e1297f7)
+- [ ] [<code>Remove wingpanel deprecations (#49)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/0480d77c0dc5d727749db6a2273fa3057491a74a)
 
 ### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
@@ -549,6 +550,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#162)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/e85032da8e923df4589dc75ccded10026b6c1cd7)
+- [ ] [<code>Indicator: replace OverlayIcon with Gtk.Image (#167)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/0ea9a3b3f5cc4da9c6c569f019393cb107692901)
 
 ### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
 
