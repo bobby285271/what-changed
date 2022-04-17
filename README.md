@@ -606,6 +606,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SwitchModelButton: ellipsize label at 25ch</code>](https://github.com/elementary/granite/commit/2c2765abdcee27f84dd13e3ccb685191c5cbd610)
 - [ ] [<code>SettingsSidebar: subclass Gtk.Widget (#593)</code>](https://github.com/elementary/granite/commit/01db721d142d836a054a04d2e5086815d8cdeb96)
 - [ ] [<code>GraniteDemo: fix pane resizing</code>](https://github.com/elementary/granite/commit/04e072f1f93e72f1b0c11b76b9c98b6e122c14e0)
+- [ ] [<code>SettingsSidebarRow: remove hardcoded styles (#595)</code>](https://github.com/elementary/granite/commit/246da3c769b93cdca14514fc6ff7e230a5941856)
 
 ## services
 
