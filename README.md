@@ -88,6 +88,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Ensure cursor follows selection with mouse (#1951)</code>](https://github.com/elementary/files/commit/7a3f8788bab8b980352d02a53f1237a113fdd5b9)
 - [ ] [<code>Disable view actions when renaming (#1962)</code>](https://github.com/elementary/files/commit/be5944b8bdd863c888dfe29efb974b337ee9e3be)
 - [ ] [<code>Remove references to Granite (#2025)</code>](https://github.com/elementary/files/commit/9dd4c8eb7a79786bb8056ed8499acf5620968430)
+- [ ] [<code>Directory.vala: Handle all FileMonitorEvents (#2026)</code>](https://github.com/elementary/files/commit/b34edd4c2e894dc2863bdfb3a44221cee3c2eb36)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
