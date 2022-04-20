@@ -89,6 +89,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Disable view actions when renaming (#1962)</code>](https://github.com/elementary/files/commit/be5944b8bdd863c888dfe29efb974b337ee9e3be)
 - [ ] [<code>Remove references to Granite (#2025)</code>](https://github.com/elementary/files/commit/9dd4c8eb7a79786bb8056ed8499acf5620968430)
 - [ ] [<code>Directory.vala: Handle all FileMonitorEvents (#2026)</code>](https://github.com/elementary/files/commit/b34edd4c2e894dc2863bdfb3a44221cee3c2eb36)
+- [ ] [<code>No access event struct (#2027)</code>](https://github.com/elementary/files/commit/f736c8cb2870c5b7fd1582bbe7c0c31310e0bc3a)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -608,6 +609,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SettingsSidebar: subclass Gtk.Widget (#593)</code>](https://github.com/elementary/granite/commit/01db721d142d836a054a04d2e5086815d8cdeb96)
 - [ ] [<code>GraniteDemo: fix pane resizing</code>](https://github.com/elementary/granite/commit/04e072f1f93e72f1b0c11b76b9c98b6e122c14e0)
 - [ ] [<code>SettingsSidebarRow: remove hardcoded styles (#595)</code>](https://github.com/elementary/granite/commit/246da3c769b93cdca14514fc6ff7e230a5941856)
+- [ ] [<code>AbstractSimpleSettingsPage: remove hardcoded styles (#596)</code>](https://github.com/elementary/granite/commit/672c1a3e4cd931310b4933c101a87a75bfc515d4)
 
 ## services
 
