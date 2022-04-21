@@ -90,6 +90,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove references to Granite (#2025)</code>](https://github.com/elementary/files/commit/9dd4c8eb7a79786bb8056ed8499acf5620968430)
 - [ ] [<code>Directory.vala: Handle all FileMonitorEvents (#2026)</code>](https://github.com/elementary/files/commit/b34edd4c2e894dc2863bdfb3a44221cee3c2eb36)
 - [ ] [<code>No access event struct (#2027)</code>](https://github.com/elementary/files/commit/f736c8cb2870c5b7fd1582bbe7c0c31310e0bc3a)
+- [ ] [<code>Access button child directly to set align (#2031)</code>](https://github.com/elementary/files/commit/0bc9968cac07f8eee90b286e2a1a27c4c30b9737)
+- [ ] [<code>Move key translation to a utility (#2028)</code>](https://github.com/elementary/files/commit/3e5e9ee8d08cf022180dd18dca59468d158e780e)
+- [ ] [<code>Check for null slot before mode change</code>](https://github.com/elementary/files/commit/80520873aeaec2ba04cda78242ac05e41a492b3d)
+- [ ] [<code>Ignore action view mode if no current tab</code>](https://github.com/elementary/files/commit/87f33f5dfb6ecc26f184c2b2275c3f6450f16961)
+- [ ] [<code>Remove unused function</code>](https://github.com/elementary/files/commit/b079a43a7ba025fb96193efe90016dd7e811d963)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -374,6 +379,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Style Dropdowns (#1196)</code>](https://github.com/elementary/stylesheet/commit/ebc2e7bd32d6909cfc8496a81c1b7c5959fd290f)
 - [ ] [<code>Windows: support .aboutdialog (#1194)</code>](https://github.com/elementary/stylesheet/commit/dbd2adcfe1e8b1d434c0a3b722e420e95c3d0097)
 - [ ] [<code>Sidebars: right border except in paned (#1195)</code>](https://github.com/elementary/stylesheet/commit/5a3c6d854eae3ccfb009a2a2324a5f4018f0bba5)
+- [ ] [<code>Create CONTRIBUTING.md</code>](https://github.com/elementary/stylesheet/commit/ae3415462a749d7e06fe95bd2c9bd1161bd5fb74)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/stylesheet/commit/14968aca19901c560e3d68f0b6ddbccd901d8e1c)
+- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/38cd44ca84b26b7558991f1b4165e098218aa188)
+- [ ] [<code>Style Paper element (#1200)</code>](https://github.com/elementary/stylesheet/commit/21458c9634ea2148a5271369d0e77bb146d2ddfc)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
 
@@ -392,6 +401,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Filetypes: 16px Vala (#1083)</code>](https://github.com/elementary/icons/commit/b8458463f772e57270a002796760b95222703c99)
 - [ ] [<code>FileTypes: Use package metaphor for deb (#1080)</code>](https://github.com/elementary/icons/commit/e6210aa418ef57820c747cb67363adcbebb41a86)
 - [ ] [<code>Use rounded arrow on download folder (#1090)</code>](https://github.com/elementary/icons/commit/02fbeee0c5d69b0d59fdd6687033486819a92f49)
+- [ ] [<code>Devices: rounder network squares (#1096)</code>](https://github.com/elementary/icons/commit/7ecc5a2e6118e28c85777416ed752304d694d503)
+- [ ] [<code>Categories: symlink gnome-power-manager (#1095)</code>](https://github.com/elementary/icons/commit/98d6ec67dda816eef9dba80a28381352114f6c22)
+- [ ] [<code>Invert updates arrow (#1097)</code>](https://github.com/elementary/icons/commit/b8e90695cc588bde1a4ae57fcc20bb4fb894d5f0)
+- [ ] [<code>Apps: rounder Terminal (#1099)</code>](https://github.com/elementary/icons/commit/09f0bf0f8fca26b05ffef3511ee6ac88c129b45f)
+- [ ] [<code>Status: remove unused network icons (#1098)</code>](https://github.com/elementary/icons/commit/0415d0c6404a9910b8df12ff6f836e3f33128d87)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
