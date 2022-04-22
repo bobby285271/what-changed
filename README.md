@@ -482,6 +482,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
 - [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
+- [ ] [<code>Update to latest mutter bindings and use Transition objects (#1406)</code>](https://github.com/elementary/gala/commit/60861a4c701d6318fcbed428988cf06f08c2b936)
+- [ ] [<code>Use Clutter.Grab with Mutter 42 (#1407)</code>](https://github.com/elementary/gala/commit/9641704ec7f8097adc96616b1ff2a64290023d32)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
