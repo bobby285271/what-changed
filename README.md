@@ -248,6 +248,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Shortcuts/List: move panel-main-menu to Schema.GALA</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/555e9650bb8f74a7664e2393c589fe6664954a88)
+- [ ] [<code>Workflows: bump to Jammy</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b0788c4c79b206c57be5b5527c35e4f7d2ebc22a)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -470,6 +472,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#113)</code>](https://github.com/elementary/shortcut-overlay/commit/130f78eb4b7770586ea98ba0a5fdbbf5bb116f3f)
 - [ ] [<code>Port to GTK4 (#112)</code>](https://github.com/elementary/shortcut-overlay/commit/baf2ad6b954b1cb6f5eb898b5ff642c9b51bfe9e)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/shortcut-overlay/commit/4cb09d073ac65460719f951f7ef4207ff67f3e35)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/shortcut-overlay/commit/d76d6baa1043be6df2135208408140d7fa41aef7)
+- [ ] [<code>ShorcutsView: use SCHEMA_GALA for panel-main-menu (#123)</code>](https://github.com/elementary/shortcut-overlay/commit/f2250d495e4646d41767933fa28b93c02d80a3dc)
 
 ### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -484,6 +488,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
 - [ ] [<code>Update to latest mutter bindings and use Transition objects (#1406)</code>](https://github.com/elementary/gala/commit/60861a4c701d6318fcbed428988cf06f08c2b936)
 - [ ] [<code>Use Clutter.Grab with Mutter 42 (#1407)</code>](https://github.com/elementary/gala/commit/9641704ec7f8097adc96616b1ff2a64290023d32)
+- [ ] [<code>WindowSwitcher: Fix missing focus on selected window upon release key with Mutter 42 (#1408)</code>](https://github.com/elementary/gala/commit/f9008e4f7a028b2f5fd4c09341a0af857b9759b6)
+- [ ] [<code>Move panel-main-menu schema in house (#1409)</code>](https://github.com/elementary/gala/commit/1e223b3027913e64e61278509390ed13bfe7affa)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
