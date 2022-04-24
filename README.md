@@ -250,6 +250,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Shortcuts/List: move panel-main-menu to Schema.GALA</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/555e9650bb8f74a7664e2393c589fe6664954a88)
 - [ ] [<code>Workflows: bump to Jammy</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b0788c4c79b206c57be5b5527c35e4f7d2ebc22a)
+- [ ] [<code>Read screenshot shortcuts from gala schema (#407)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6ebd57673b45cc64e1caf895134efc0d5f6cf2be)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -474,6 +475,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/shortcut-overlay/commit/4cb09d073ac65460719f951f7ef4207ff67f3e35)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/shortcut-overlay/commit/d76d6baa1043be6df2135208408140d7fa41aef7)
 - [ ] [<code>ShorcutsView: use SCHEMA_GALA for panel-main-menu (#123)</code>](https://github.com/elementary/shortcut-overlay/commit/f2250d495e4646d41767933fa28b93c02d80a3dc)
+- [ ] [<code>Read screenshot shortcuts from gala schema (#124)</code>](https://github.com/elementary/shortcut-overlay/commit/284fc15b0f1f3ac95c862ff4491dda0f44763924)
 
 ### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -490,6 +492,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use Clutter.Grab with Mutter 42 (#1407)</code>](https://github.com/elementary/gala/commit/9641704ec7f8097adc96616b1ff2a64290023d32)
 - [ ] [<code>WindowSwitcher: Fix missing focus on selected window upon release key with Mutter 42 (#1408)</code>](https://github.com/elementary/gala/commit/f9008e4f7a028b2f5fd4c09341a0af857b9759b6)
 - [ ] [<code>Move panel-main-menu schema in house (#1409)</code>](https://github.com/elementary/gala/commit/1e223b3027913e64e61278509390ed13bfe7affa)
+- [ ] [<code>Move screenshot shortcuts in-house (#1411)</code>](https://github.com/elementary/gala/commit/e86a9518c24b742118b8624e34f84cb0ef76c7bd)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
