@@ -640,6 +640,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>GraniteDemo: fix pane resizing</code>](https://github.com/elementary/granite/commit/04e072f1f93e72f1b0c11b76b9c98b6e122c14e0)
 - [ ] [<code>SettingsSidebarRow: remove hardcoded styles (#595)</code>](https://github.com/elementary/granite/commit/246da3c769b93cdca14514fc6ff7e230a5941856)
 - [ ] [<code>AbstractSimpleSettingsPage: remove hardcoded styles (#596)</code>](https://github.com/elementary/granite/commit/672c1a3e4cd931310b4933c101a87a75bfc515d4)
+- [ ] [<code>SimpleSettingsPage: Allow markup in description</code>](https://github.com/elementary/granite/commit/51cffc1f4ecfef2c664cf41821e8fa90e6867c2a)
 
 ## services
 
