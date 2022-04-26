@@ -386,6 +386,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/stylesheet/commit/14968aca19901c560e3d68f0b6ddbccd901d8e1c)
 - [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/38cd44ca84b26b7558991f1b4165e098218aa188)
 - [ ] [<code>Style Paper element (#1200)</code>](https://github.com/elementary/stylesheet/commit/21458c9634ea2148a5271369d0e77bb146d2ddfc)
+- [ ] [<code>Headerbars: Add fix for Ephy 42 titlebar (#1201)</code>](https://github.com/elementary/stylesheet/commit/d700f88c7357869368fb67e342cc4453a356987b)
+- [ ] [<code>Release 7.0.0 (#1198)</code>](https://github.com/elementary/stylesheet/commit/15363725675baf2e8284a48c4d82022624c24969) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
 
@@ -409,6 +411,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Invert updates arrow (#1097)</code>](https://github.com/elementary/icons/commit/b8e90695cc588bde1a4ae57fcc20bb4fb894d5f0)
 - [ ] [<code>Apps: rounder Terminal (#1099)</code>](https://github.com/elementary/icons/commit/09f0bf0f8fca26b05ffef3511ee6ac88c129b45f)
 - [ ] [<code>Status: remove unused network icons (#1098)</code>](https://github.com/elementary/icons/commit/0415d0c6404a9910b8df12ff6f836e3f33128d87)
+- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/5ccf23023e9032d827181810bb60a3daa5bce8d3)
+- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/6e56c7066b29c84faf04c14f61cb01f23d434234)
+- [ ] [<code>Release 7.0.0 (#1100)</code>](https://github.com/elementary/icons/commit/c52a16f4c5bb7b756db6ae965fe4b3d03b1003f6) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
