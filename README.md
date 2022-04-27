@@ -171,6 +171,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Fix build with vala 0.56 (#711)</code>](https://github.com/elementary/photos/commit/6594f1323726fb0d38519a7bdafe16f9170353cb)
+- [ ] [<code>Icon Redesign (#712)</code>](https://github.com/elementary/photos/commit/ba2b53ee9715488763e85f41efa85b38684ebe71)
 
 ### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -514,6 +515,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Styles: fix CSS syntax, remove extra class</code>](https://github.com/elementary/wingpanel/commit/6184480f94b466f78cae20bf2b134eb2ce545395)
 - [ ] [<code>IndicatorEntry: Remove hardcoded margin</code>](https://github.com/elementary/wingpanel/commit/e3d6123f422dc9d6d1417c7fbbb562246e883d4a)
 - [ ] [<code>Lib: Remove deprecated widgets (#450)</code>](https://github.com/elementary/wingpanel/commit/afa7e3cdbdacf0730961f015b045f037feccdc36)
+- [ ] [<code>Synchronize the .vapi with Gala (#453)</code>](https://github.com/elementary/wingpanel/commit/d12167bd77cec002af5222853b8919b14cd46e35)
 
 ## desktop/wingpanel-indicators
 
