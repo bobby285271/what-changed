@@ -22,6 +22,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Show try for free label  (#1820)</code>](https://github.com/elementary/appcenter/commit/7bcbc7d0c180570e8c569d2d9964bff4bc63ea46)
 - [ ] [<code>Client: Trigger auto-updates when opening the app (#1811)</code>](https://github.com/elementary/appcenter/commit/20da4901feacea8c14d1cd8bdb62c1b0f36db6b9)
 - [ ] [<code>AppInfoView: Set banner provider for context, not screen (#1692)</code>](https://github.com/elementary/appcenter/commit/7aebc80a66b41f2ce51adfd7a5b57e490ea5b2d4)
+- [ ] [<code>MainWindow: Reliably update on view change (#1831)</code>](https://github.com/elementary/appcenter/commit/491fe368dec5ddbe163a3d089568169a8a391fd3)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -101,6 +102,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>ComposerWidget: Make ACTION_ENTRIES private (#765)</code>](https://github.com/elementary/mail/commit/c3aa61d226f49147d7685cc00013469ff4df369a)
+- [ ] [<code>Round app icon (#780)</code>](https://github.com/elementary/mail/commit/5c2d0a2dddfe7a4d97d8016f9f263f10f2d4cadc)
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [5.1.1 → HEAD](https://github.com/elementary/music/compare/5.1.1...HEAD)
 
@@ -201,6 +203,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 
 ### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.0 → HEAD](https://github.com/elementary/switchboard/compare/6.0.0...HEAD)
 
@@ -209,6 +212,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppData typo: compatability → compatibility</code>](https://github.com/elementary/switchboard/commit/27f03604680a3eccd1a14ddc7e1a624a00d00933)
 - [ ] [<code>l10n: Correctly setup the locales (#214)</code>](https://github.com/elementary/switchboard/commit/8d6b5f4cbbaf134880252afbf1e25d70033e6402)
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#226)</code>](https://github.com/elementary/switchboard/commit/ecf2a6c42122946cc84150f6927ef69c1f67c909)
+- [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/9e4ad11b73b6f71e7d2ad10ca4a45f815ddbc488)
 
 ## apps/switchboard-plugs
 
@@ -683,6 +687,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/pantheon-agent-polkit/commit/8ccfe95381200185d8c8e0d7000f9a6975c1b81c)
+- [ ] [<code>Update agent-polkit.appdata.xml.in</code>](https://github.com/elementary/pantheon-agent-polkit/commit/832c366024b0ef685f1aed16ac96cf32b48d515a)
 
 ### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.1.0 → HEAD](https://github.com/elementary/portals/compare/1.1.0...HEAD)
 
