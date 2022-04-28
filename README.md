@@ -603,14 +603,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.4 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.4...HEAD)
+### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
 
 
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/pantheon-agent-polkit/commit/8ccfe95381200185d8c8e0d7000f9a6975c1b81c)
-- [ ] [<code>Update agent-polkit.appdata.xml.in</code>](https://github.com/elementary/pantheon-agent-polkit/commit/832c366024b0ef685f1aed16ac96cf32b48d515a)
-- [ ] [<code>Release 1.0.5</code>](https://github.com/elementary/pantheon-agent-polkit/commit/4b20b623f9eea97d7cbc711e3b09ac01152fbf4d)
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e570ef6bd434da4832490dce23d9805d8da9fcb3) <sub>Tagged: <code>1.0.5</code></sub>
 
 ### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.1.0 → HEAD](https://github.com/elementary/portals/compare/1.1.0...HEAD)
 
