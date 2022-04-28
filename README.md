@@ -23,6 +23,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Client: Trigger auto-updates when opening the app (#1811)</code>](https://github.com/elementary/appcenter/commit/20da4901feacea8c14d1cd8bdb62c1b0f36db6b9)
 - [ ] [<code>AppInfoView: Set banner provider for context, not screen (#1692)</code>](https://github.com/elementary/appcenter/commit/7aebc80a66b41f2ce51adfd7a5b57e490ea5b2d4)
 - [ ] [<code>MainWindow: Reliably update on view change (#1831)</code>](https://github.com/elementary/appcenter/commit/491fe368dec5ddbe163a3d089568169a8a391fd3)
+- [ ] [<code>Client: auto update non-native apps</code>](https://github.com/elementary/appcenter/commit/ca813c9ef5f92e7977172137f01803c57bc0b7e9)
+- [ ] [<code>UpdateManager: notify for unpaid apps</code>](https://github.com/elementary/appcenter/commit/20d72728224ce6a455a8978fcbd73b7b3a199ac6)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -76,6 +78,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/feedback/commit/080005153977a86d10099eff6a5b3e68f7b12847)
+- [ ] [<code>MainWindow: use extra_data_location functions</code>](https://github.com/elementary/feedback/commit/82008b8f476c23d098fb1d5f6531b5cc33404f96)
+- [ ] [<code>Bump actions to OS 7</code>](https://github.com/elementary/feedback/commit/d1f332f4ba138e46e07337dcbf277a72994e9fa6)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -327,98 +331,15 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 ## artwork
 
-### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [6.1.1 → HEAD](https://github.com/elementary/stylesheet/compare/6.1.1...HEAD)
+### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.0...HEAD)
 
 
 
-- [ ] [<code>Minimum support for GTK4 (#1108)</code>](https://github.com/elementary/stylesheet/commit/7698863b4db34c57c17706190cf252e0b6611f70)
-- [ ] [<code>GTK4: fix errors about invalid color (#1111)</code>](https://github.com/elementary/stylesheet/commit/78d0e44e6bc72b624f600410b1b396fbaaa0264c)
-- [ ] [<code>GTK4/Windows: remove decoration node (#1110)</code>](https://github.com/elementary/stylesheet/commit/5aa006f31ed345b4c2e1d0755ec72d0c3afc64d8)
-- [ ] [<code>Treeview: set title font-weight as bold (#1121)</code>](https://github.com/elementary/stylesheet/commit/df37637701b784a197dec6f5901f2e69fe45ed49)
-- [ ] [<code>ModelButtons: add margin between checks, radios, and labels (#1122)</code>](https://github.com/elementary/stylesheet/commit/fed04e7080b52804124196fc645a4f2a3cfac319)
-- [ ] [<code>GTK4/Entries: set placeholder color (#1115)</code>](https://github.com/elementary/stylesheet/commit/c4a29dda764054360442446d98cbb0c9cdb251e0)
-- [ ] [<code>GTK4/Icons: support IconSize (#1128)</code>](https://github.com/elementary/stylesheet/commit/574019ebf022ab913ef94775f1509ca5050cf07c)
-- [ ] [<code>GTK4/Progressbars: set min height/width (#1114)</code>](https://github.com/elementary/stylesheet/commit/67b10df90addacc1ac7f2a0ef0d7c9129faad214)
-- [ ] [<code>GTK4/Headerbars: .titlebutton → windowcontrols (#1112)</code>](https://github.com/elementary/stylesheet/commit/77f5324b4c1bbfd72b6e382eda2d389b0cc8e047)
-- [ ] [<code>GTK4/Expanders: remove arrow node (#1118)</code>](https://github.com/elementary/stylesheet/commit/832c31349a99cc7b19257a42d86c26e646c73c4c)
-- [ ] [<code>GTK4/Calendars: fix and imitate date-time indicator (#1131)</code>](https://github.com/elementary/stylesheet/commit/da9c6ab69718b687643a40fef210265366b68b8c)
-- [ ] [<code>GTK4/ColorChoosers: remove overlay margin (#1130)</code>](https://github.com/elementary/stylesheet/commit/3059848eed31a2c06230520b84b94dc5ea989e09)
-- [ ] [<code>GTK4/Entries: progress size and style (#1143)</code>](https://github.com/elementary/stylesheet/commit/13b07f202e22c6b766f69af810e17436b1f3e68a)
-- [ ] [<code>GTK4: add columnview (#1117)</code>](https://github.com/elementary/stylesheet/commit/6f5c7de07f5bad5ce9a531d1c075e0556cef0d98)
-- [ ] [<code>GTK4: Replace icon-effect with filter (#1124)</code>](https://github.com/elementary/stylesheet/commit/b9f82ae3d6b6f9550ffd36fb268617dce7ee734e)
-- [ ] [<code>GTK4/Windows,Headerbars: fix decorations for dialogs (#1113)</code>](https://github.com/elementary/stylesheet/commit/4b4b833583771549c7e2f134d8cbccedbb1723d6)
-- [ ] [<code>GTK4/Scrollbars: Remove unused properties (#1125)</code>](https://github.com/elementary/stylesheet/commit/916e64a0da45f6e450155a076d25ee6587186f2a)
-- [ ] [<code>GTK4/Scales: sliders to the end (#1129)</code>](https://github.com/elementary/stylesheet/commit/55bfd9ed215e84d4584f04884f1e6c6befef7588)
-- [ ] [<code>GTK4/Menubars: menuitem → item (#1127)</code>](https://github.com/elementary/stylesheet/commit/fd1271a7b70ab53ef94b9cf8597991d0d92ebaa5)
-- [ ] [<code>GTK/Popovers: remove menu, fix popover styles (#1126)</code>](https://github.com/elementary/stylesheet/commit/48e4448c01a7b2d6f421b1f6f970e86cd59c3b57)
-- [ ] [<code>GTK4/Windows: fix dialog button spacing (#1144)</code>](https://github.com/elementary/stylesheet/commit/bee72d8b98a8087b37bb6038e181e4b89fa55134)
-- [ ] [<code>Windows: add styles for dialogs (#1145)</code>](https://github.com/elementary/stylesheet/commit/3b9ea54395f7f648642a5cbfcf64886799f39c13)
-- [ ] [<code>GTK4: fix focus for entry, scale, switch (#1146)</code>](https://github.com/elementary/stylesheet/commit/cadd0d9096bf632366163b0d953f43241b181190)
-- [ ] [<code>GTK4: style accelerator node (#1147)</code>](https://github.com/elementary/stylesheet/commit/3fd57a51d8080343dadde8e26c12eaec4c368fc4)
-- [ ] [<code>GTK4/CheckButtons: fix size (#1149)</code>](https://github.com/elementary/stylesheet/commit/262488ce31a4578c4d7f7349c09f8abcb08155fb)
-- [ ] [<code>GTK4: add margin to fontbutton sep (#1151)</code>](https://github.com/elementary/stylesheet/commit/e0049d0995ac146f2f25798e05f123799ac693a3)
-- [ ] [<code>GTK4/Typography: support gtk title classes (#1116)</code>](https://github.com/elementary/stylesheet/commit/60754d505c244b8bb7199630b43986889d94ff95)
-- [ ] [<code>GTK4/Popovers: style button.menuitem (#1153)</code>](https://github.com/elementary/stylesheet/commit/e0c94138f9c8eb0212320d2c9ab972ed0ba26477)
-- [ ] [<code>GTK4/Tooltips: fix box shadow (#1155)</code>](https://github.com/elementary/stylesheet/commit/f89e6988d5edfc11939370c17dfbc1a802b41357)
-- [ ] [<code>GTK4: fix checkerboard (#1157)</code>](https://github.com/elementary/stylesheet/commit/e171ffd76218169382b345f3f38d6502ebf67b99)
-- [ ] [<code>GTK4/Entries: style date-picker and time-picker (#1159)</code>](https://github.com/elementary/stylesheet/commit/44a9851eb7baad4d6e82c7c56e1cb4144af70868)
-- [ ] [<code>GTK4/CheckButtons: fix styles for image-button (#1156)</code>](https://github.com/elementary/stylesheet/commit/d2cbb104e656b71463a6d0ea1b9a9a45e271574e)
-- [ ] [<code>GTK4/EmojiPickers: fix styles (#1150)</code>](https://github.com/elementary/stylesheet/commit/d3a649b9078d3b5e1bad7f119fba6ddb9f72fc73)
-- [ ] [<code>GTK4/Windows: dialog tweaks (#1158)</code>](https://github.com/elementary/stylesheet/commit/dc6c18f338a2ee8850a1984a1cee29dfe5f7b685)
-- [ ] [<code>GTK4/Spinbuttons: fix padding and active style (#1148)</code>](https://github.com/elementary/stylesheet/commit/d5137a65dc292bd93c1e66d77eb0c31f49e6860a)
-- [ ] [<code>GTK4: style ShortcutWindow (#1152)</code>](https://github.com/elementary/stylesheet/commit/40cfc2136ae33c4e300418addf23fd26667b17b1)
-- [ ] [<code>GTK4/Popovers: fix modelmenu styles (#1161)</code>](https://github.com/elementary/stylesheet/commit/2223628a7829f5adc9e9eb72965dc4b5c10d38c9)
-- [ ] [<code>GTK4: fix terminal styles (#1165)</code>](https://github.com/elementary/stylesheet/commit/50481a0b57cb10ac6c19555a9ad15c828eb1bd64)
-- [ ] [<code>GTK4/Entries: style password entry (#1166)</code>](https://github.com/elementary/stylesheet/commit/d9819d6339736e0ec891edacf0357ba51f36a6ab)
-- [ ] [<code>GTK4: fix link styles (#1164)</code>](https://github.com/elementary/stylesheet/commit/2b529447c3fe196cb22d1d69b839bb3f9716b5de)
-- [ ] [<code>GTK4: add Granite.Placeholder (#1154)</code>](https://github.com/elementary/stylesheet/commit/bad0dc2c68e71aed6300328a7f2b1312c9d55367)
-- [ ] [<code>Gtk4/osds (#1183)</code>](https://github.com/elementary/stylesheet/commit/86c924124a43392f83c5efee960813ab602f526a)
-- [ ] [<code>GTK4/Linked: fix RTL (#1175)</code>](https://github.com/elementary/stylesheet/commit/7b20c60bb05583ce46ad71b1d8577313bcc96994)
-- [ ] [<code>GTK4/Lists: support .rich-list and .separators (#1174)</code>](https://github.com/elementary/stylesheet/commit/1832d1427e2af2487ada10762dc71b3f9b208df5)
-- [ ] [<code>Windows: fix margins for maximized and tiled (#1169)</code>](https://github.com/elementary/stylesheet/commit/4acc7563c1d970c9f1c9c46a1e4eb27bba4e3018)
-- [ ] [<code>GTK4/Expanders: remove old style classes (#1168)</code>](https://github.com/elementary/stylesheet/commit/b5595f011abeea2651f42505aaaae1b78258a7f5)
-- [ ] [<code>Add buttonbox (#1181)</code>](https://github.com/elementary/stylesheet/commit/12fa3d4474a582e783e6a7d4a829467b53afc414)
-- [ ] [<code>Fix SSD windows (#1189)</code>](https://github.com/elementary/stylesheet/commit/81ff0734836ff6fb48465b57ea366a15884f79cd)
-- [ ] [<code>Style SettingsPages (#1193)</code>](https://github.com/elementary/stylesheet/commit/5f5642756d1f3a83c7a3b899c8ab515ece8bdc2e)
-- [ ] [<code>Sidebars: style settingssidebar (#1192)</code>](https://github.com/elementary/stylesheet/commit/d769b4426b1979b5fec72b3488fc969c3f078544)
-- [ ] [<code>ModelButton: fix title-4 weight (#1191)</code>](https://github.com/elementary/stylesheet/commit/b6a5b278de11a615dd1bab240d06d43c0d467440)
-- [ ] [<code>Infobars: fix padding and update colors (#1190)</code>](https://github.com/elementary/stylesheet/commit/fed6dc9388cf8bc84087a317ff4065c3ae99697f)
-- [ ] [<code>Lists: also style listview</code>](https://github.com/elementary/stylesheet/commit/d0f04f72c551a52770a0d5713981287fac14c6c5)
-- [ ] [<code>Style Dropdowns (#1196)</code>](https://github.com/elementary/stylesheet/commit/ebc2e7bd32d6909cfc8496a81c1b7c5959fd290f)
-- [ ] [<code>Windows: support .aboutdialog (#1194)</code>](https://github.com/elementary/stylesheet/commit/dbd2adcfe1e8b1d434c0a3b722e420e95c3d0097)
-- [ ] [<code>Sidebars: right border except in paned (#1195)</code>](https://github.com/elementary/stylesheet/commit/5a3c6d854eae3ccfb009a2a2324a5f4018f0bba5)
-- [ ] [<code>Create CONTRIBUTING.md</code>](https://github.com/elementary/stylesheet/commit/ae3415462a749d7e06fe95bd2c9bd1161bd5fb74)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/stylesheet/commit/14968aca19901c560e3d68f0b6ddbccd901d8e1c)
-- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/38cd44ca84b26b7558991f1b4165e098218aa188)
-- [ ] [<code>Style Paper element (#1200)</code>](https://github.com/elementary/stylesheet/commit/21458c9634ea2148a5271369d0e77bb146d2ddfc)
-- [ ] [<code>Headerbars: Add fix for Ephy 42 titlebar (#1201)</code>](https://github.com/elementary/stylesheet/commit/d700f88c7357869368fb67e342cc4453a356987b)
-- [ ] [<code>Release 7.0.0 (#1198)</code>](https://github.com/elementary/stylesheet/commit/15363725675baf2e8284a48c4d82022624c24969) <sub>Tagged: <code>7.0.0</code></sub>
 
-### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [6.1.0 → HEAD](https://github.com/elementary/icons/compare/6.1.0...HEAD)
+### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
 
 
-- [ ] [<code>Filetypes: Update office templates and symlinks (#1064)</code>](https://github.com/elementary/icons/commit/25b635480c2cb402c7f989b389e434b60ff39277)
-- [ ] [<code>Password entry (#1070)</code>](https://github.com/elementary/icons/commit/853b48f027e4e9f7f9cf6c04a7cffab1ee815501)
-- [ ] [<code>system-software-update: fix symbolic and 128px consistency (#1069)</code>](https://github.com/elementary/icons/commit/703e15c1a1330b8768d6a81a37af176294842d0d)
-- [ ] [<code>Redesign media-playlist-repeat-symbolic (#1072)</code>](https://github.com/elementary/icons/commit/f430c37c4f62c1e70d43b0d350ef84bd9e1c0f6f)
-- [ ] [<code>Status: update shuffle and consecutive (#1074)</code>](https://github.com/elementary/icons/commit/49f74c9d24ea9d7f2dcfcd6d10742312db0047cf)
-- [ ] [<code>Redesign package-x-generic (#1078)</code>](https://github.com/elementary/icons/commit/df3f144b3dfb885efc4555f2566b01b33d0c7059)
-- [ ] [<code>FileTypes: Add flatpak bundle (#1047)</code>](https://github.com/elementary/icons/commit/d09e766f4f3c42f993ac9330e66d6fa7962cbda0)
-- [ ] [<code>Remove apps/multimedia-photo-manager (#1061)</code>](https://github.com/elementary/icons/commit/079fd864186e835c6ee519a39b9b83b02c11489c)
-- [ ] [<code>Status: remove notification-audio-* (#1077)</code>](https://github.com/elementary/icons/commit/bccf95639b01a448878e480172b75decbdd95149)
-- [ ] [<code>FIletypes: Add extension at 128px (#1081)</code>](https://github.com/elementary/icons/commit/2ae68f4460192d438f3de6232f0967e7b606f6cb)
-- [ ] [<code>Filetypes: 16px Vala (#1083)</code>](https://github.com/elementary/icons/commit/b8458463f772e57270a002796760b95222703c99)
-- [ ] [<code>FileTypes: Use package metaphor for deb (#1080)</code>](https://github.com/elementary/icons/commit/e6210aa418ef57820c747cb67363adcbebb41a86)
-- [ ] [<code>Use rounded arrow on download folder (#1090)</code>](https://github.com/elementary/icons/commit/02fbeee0c5d69b0d59fdd6687033486819a92f49)
-- [ ] [<code>Devices: rounder network squares (#1096)</code>](https://github.com/elementary/icons/commit/7ecc5a2e6118e28c85777416ed752304d694d503)
-- [ ] [<code>Categories: symlink gnome-power-manager (#1095)</code>](https://github.com/elementary/icons/commit/98d6ec67dda816eef9dba80a28381352114f6c22)
-- [ ] [<code>Invert updates arrow (#1097)</code>](https://github.com/elementary/icons/commit/b8e90695cc588bde1a4ae57fcc20bb4fb894d5f0)
-- [ ] [<code>Apps: rounder Terminal (#1099)</code>](https://github.com/elementary/icons/commit/09f0bf0f8fca26b05ffef3511ee6ac88c129b45f)
-- [ ] [<code>Status: remove unused network icons (#1098)</code>](https://github.com/elementary/icons/commit/0415d0c6404a9910b8df12ff6f836e3f33128d87)
-- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/5ccf23023e9032d827181810bb60a3daa5bce8d3)
-- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/6e56c7066b29c84faf04c14f61cb01f23d434234)
-- [ ] [<code>Release 7.0.0 (#1100)</code>](https://github.com/elementary/icons/commit/c52a16f4c5bb7b756db6ae965fe4b3d03b1003f6) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -688,6 +609,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/pantheon-agent-polkit/commit/8ccfe95381200185d8c8e0d7000f9a6975c1b81c)
 - [ ] [<code>Update agent-polkit.appdata.xml.in</code>](https://github.com/elementary/pantheon-agent-polkit/commit/832c366024b0ef685f1aed16ac96cf32b48d515a)
+- [ ] [<code>Release 1.0.5</code>](https://github.com/elementary/pantheon-agent-polkit/commit/4b20b623f9eea97d7cbc711e3b09ac01152fbf4d)
+- [ ] [<code>Update meson.build</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e570ef6bd434da4832490dce23d9805d8da9fcb3) <sub>Tagged: <code>1.0.5</code></sub>
 
 ### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.1.0 → HEAD](https://github.com/elementary/portals/compare/1.1.0...HEAD)
 
