@@ -408,6 +408,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/shortcut-overlay/commit/d76d6baa1043be6df2135208408140d7fa41aef7)
 - [ ] [<code>ShorcutsView: use SCHEMA_GALA for panel-main-menu (#123)</code>](https://github.com/elementary/shortcut-overlay/commit/f2250d495e4646d41767933fa28b93c02d80a3dc)
 - [ ] [<code>Read screenshot shortcuts from gala schema (#124)</code>](https://github.com/elementary/shortcut-overlay/commit/284fc15b0f1f3ac95c862ff4491dda0f44763924)
+- [ ] [<code>MainWindow: Fix typo (#125)</code>](https://github.com/elementary/shortcut-overlay/commit/592f401a0151662f4381436bf0bd80f47b45bc5c)
 
 ### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
