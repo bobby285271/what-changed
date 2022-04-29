@@ -25,6 +25,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Reliably update on view change (#1831)</code>](https://github.com/elementary/appcenter/commit/491fe368dec5ddbe163a3d089568169a8a391fd3)
 - [ ] [<code>Client: auto update non-native apps</code>](https://github.com/elementary/appcenter/commit/ca813c9ef5f92e7977172137f01803c57bc0b7e9)
 - [ ] [<code>UpdateManager: notify for unpaid apps</code>](https://github.com/elementary/appcenter/commit/20d72728224ce6a455a8978fcbd73b7b3a199ac6)
+- [ ] [<code>Homepage: Only scroll carousel when banner is visible (#1836)</code>](https://github.com/elementary/appcenter/commit/d1505b7e5f0d1adee6b0cb0923dc713c7d341806)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
