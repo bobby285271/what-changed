@@ -26,6 +26,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Client: auto update non-native apps</code>](https://github.com/elementary/appcenter/commit/ca813c9ef5f92e7977172137f01803c57bc0b7e9)
 - [ ] [<code>UpdateManager: notify for unpaid apps</code>](https://github.com/elementary/appcenter/commit/20d72728224ce6a455a8978fcbd73b7b3a199ac6)
 - [ ] [<code>Homepage: Only scroll carousel when banner is visible (#1836)</code>](https://github.com/elementary/appcenter/commit/d1505b7e5f0d1adee6b0cb0923dc713c7d341806)
+- [ ] [<code>AppInfoView: new icon and copy for old runtimes (#1838)</code>](https://github.com/elementary/appcenter/commit/f4697bcb012d29f24641ef5d4be2a441971d458c)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -341,6 +342,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -572,6 +574,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SimpleSettingsPage: Allow markup in description</code>](https://github.com/elementary/granite/commit/51cffc1f4ecfef2c664cf41821e8fa90e6867c2a)
 - [ ] [<code>Remove AsyncImage (#600)</code>](https://github.com/elementary/granite/commit/34ec922ca720f4effe0b6e35d77574193d3af7c3)
 - [ ] [<code>Demo: Remove unused demos</code>](https://github.com/elementary/granite/commit/ad51d65147c03924b23094fc4527109d5a0b9b9a)
+- [ ] [<code>Remove Drawing (#603)</code>](https://github.com/elementary/granite/commit/9c50d60e9d003d28506b05e8699067e27b0b712a)
+- [ ] [<code>Dialog: set content area to vexpand</code>](https://github.com/elementary/granite/commit/3aba7bb9519683398dfc51b8e22cb4bef71c3459)
+- [ ] [<code>MessageDialog: set window title to primary text</code>](https://github.com/elementary/granite/commit/d13417e0d4580fee576d4e0a77903357e09138dd)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/b71ad733ee4f9f3125103089d8b02a95b6b4c226)
 
 ## services
 
