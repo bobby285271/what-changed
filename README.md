@@ -39,6 +39,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Use assert_true instead of assert in tests (#747)</code>](https://github.com/elementary/calendar/commit/013338a1cf8216bc13d6773c9140ec732449626a)
+- [ ] [<code>Modernize app icon (#750)</code>](https://github.com/elementary/calendar/commit/383d7976f17e2035ce73c1ed4b0b1871aff46744)
 
 ### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.0.3 → HEAD](https://github.com/elementary/camera/compare/6.0.3...HEAD)
 
@@ -312,6 +313,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>LockPanel: Add USB protection settings (#134)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/24d8ecf86c1ecd91a2cb41778bc5c528e3c50914)
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
@@ -578,6 +580,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Dialog: set content area to vexpand</code>](https://github.com/elementary/granite/commit/3aba7bb9519683398dfc51b8e22cb4bef71c3459)
 - [ ] [<code>MessageDialog: set window title to primary text</code>](https://github.com/elementary/granite/commit/d13417e0d4580fee576d4e0a77903357e09138dd)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/b71ad733ee4f9f3125103089d8b02a95b6b4c226)
+- [ ] [<code>Release 7.0.0 (#599)</code>](https://github.com/elementary/granite/commit/41020886ee56f0a489b977a389da10a6ba0cd131) <sub>Tagged: <code>7.0.0</code></sub>
 
 ## services
 
