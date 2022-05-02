@@ -27,6 +27,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>UpdateManager: notify for unpaid apps</code>](https://github.com/elementary/appcenter/commit/20d72728224ce6a455a8978fcbd73b7b3a199ac6)
 - [ ] [<code>Homepage: Only scroll carousel when banner is visible (#1836)</code>](https://github.com/elementary/appcenter/commit/d1505b7e5f0d1adee6b0cb0923dc713c7d341806)
 - [ ] [<code>AppInfoView: new icon and copy for old runtimes (#1838)</code>](https://github.com/elementary/appcenter/commit/f4697bcb012d29f24641ef5d4be2a441971d458c)
+- [ ] [<code>Homepage: more accurate navigation (#1837)</code>](https://github.com/elementary/appcenter/commit/75a41b78b47512ce76cf704ad4a8f426b25be41d)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -83,6 +84,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/feedback/commit/080005153977a86d10099eff6a5b3e68f7b12847)
 - [ ] [<code>MainWindow: use extra_data_location functions</code>](https://github.com/elementary/feedback/commit/82008b8f476c23d098fb1d5f6531b5cc33404f96)
 - [ ] [<code>Bump actions to OS 7</code>](https://github.com/elementary/feedback/commit/d1f332f4ba138e46e07337dcbf277a72994e9fa6)
+- [ ] [<code>MainWindow: Use Gtk.show_uri (#57)</code>](https://github.com/elementary/feedback/commit/ff494f974148200f312130c11771dbb3b0844748)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
