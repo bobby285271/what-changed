@@ -95,8 +95,8 @@ pantheon.wingpanel-indicator-sound
 @
 @## granite
 
-# TODO: update the attrPath when granite 7 is added
-pantheon.granite
+# pantheon.granite
+pantheon.granite7
 
 @
 @## services
