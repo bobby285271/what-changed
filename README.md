@@ -215,15 +215,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 
-### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.0 → HEAD](https://github.com/elementary/switchboard/compare/6.0.0...HEAD)
+### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.1 → HEAD](https://github.com/elementary/switchboard/compare/6.0.1...HEAD)
 
 
 
-- [ ] [<code>AppData typo: compatability → compatibility</code>](https://github.com/elementary/switchboard/commit/27f03604680a3eccd1a14ddc7e1a624a00d00933)
-- [ ] [<code>l10n: Correctly setup the locales (#214)</code>](https://github.com/elementary/switchboard/commit/8d6b5f4cbbaf134880252afbf1e25d70033e6402)
-- [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#226)</code>](https://github.com/elementary/switchboard/commit/ecf2a6c42122946cc84150f6927ef69c1f67c909)
-- [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/9e4ad11b73b6f71e7d2ad10ca4a45f815ddbc488)
-- [ ] [<code>Release 6.0.1 (#229)</code>](https://github.com/elementary/switchboard/commit/56c06f89cfc7a771e940685ed7af85fda0f32f82) <sub>Tagged: <code>6.0.1</code></sub>
 
 ## apps/switchboard-plugs
 
@@ -533,6 +528,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
 
 ## services
 
