@@ -202,6 +202,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#649)</code>](https://github.com/elementary/terminal/commit/15e3ace08cb25e53941249fa1ee680a1e2f871b4)
 - [ ] [<code>MainWindow: Switch tab with Alt+[1-9] when there are at least 2 tabs (#650)</code>](https://github.com/elementary/terminal/commit/f01998f6e5d28a635139dcb42e8127ebec13b736)
+- [ ] [<code>Added hotkey to close terminal (#658)</code>](https://github.com/elementary/terminal/commit/37176927807ec9ea7f3ae72be6c6c0a5304e2e7f)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.3 → HEAD](https://github.com/elementary/videos/compare/2.8.3...HEAD)
 
@@ -222,6 +223,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>l10n: Correctly setup the locales (#214)</code>](https://github.com/elementary/switchboard/commit/8d6b5f4cbbaf134880252afbf1e25d70033e6402)
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#226)</code>](https://github.com/elementary/switchboard/commit/ecf2a6c42122946cc84150f6927ef69c1f67c909)
 - [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/9e4ad11b73b6f71e7d2ad10ca4a45f815ddbc488)
+- [ ] [<code>Release 6.0.1 (#229)</code>](https://github.com/elementary/switchboard/commit/56c06f89cfc7a771e940685ed7af85fda0f32f82) <sub>Tagged: <code>6.0.1</code></sub>
 
 ## apps/switchboard-plugs
 
