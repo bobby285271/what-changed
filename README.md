@@ -60,6 +60,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/eb382a14f7e110684ae7d01136f54bdda794e39b)
 - [ ] [<code>Combine HeaderBar and MainWindow (#227)</code>](https://github.com/elementary/camera/commit/0e4102422fd9c7850d611a40859096c14b2368a2)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/camera/commit/8fff774d0fe6287e07298b128f842881a7a912e7)
+- [ ] [<code>Flatpak: bump to Platform 7 (#231)</code>](https://github.com/elementary/camera/commit/61da65568ed17029d6abcc41b2ea3d05b876a5bd)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -105,6 +106,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Check for null slot before mode change</code>](https://github.com/elementary/files/commit/80520873aeaec2ba04cda78242ac05e41a492b3d)
 - [ ] [<code>Ignore action view mode if no current tab</code>](https://github.com/elementary/files/commit/87f33f5dfb6ecc26f184c2b2275c3f6450f16961)
 - [ ] [<code>Remove unused function</code>](https://github.com/elementary/files/commit/b079a43a7ba025fb96193efe90016dd7e811d963)
+- [ ] [<code>Ignore rename with same name (#2038)</code>](https://github.com/elementary/files/commit/3c39cca72e996307029104049e9eb48d5e59e5fa)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -387,6 +389,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Switcher: Remove unused signal (#161)</code>](https://github.com/elementary/onboarding/commit/39a8066a5672b9bfeae4802ba4c3b558b3c841cc)
 - [ ] [<code>Prep for GTK4: Replace add with attach for Grids (#160)</code>](https://github.com/elementary/onboarding/commit/34d0991443911e00536de6b91a024195ecf09ca8)
 - [ ] [<code>Port to GTK4 (#152)</code>](https://github.com/elementary/onboarding/commit/efde244f3f04f72c067fb15b12375f802d1a3502)
+- [ ] [<code>Update carousel to latest LibAdwaita API (#165)</code>](https://github.com/elementary/onboarding/commit/cc82a4178c5bfe48a640347e10bdd4f0e00e79cc)
+- [ ] [<code>Update pot</code>](https://github.com/elementary/onboarding/commit/5f7cf900d3529ab2d27d3db52e24c6f9fa535182)
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
