@@ -34,6 +34,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Use GLib.Action for buttons (#224)</code>](https://github.com/elementary/calculator/commit/0663a36772352380240243c5973d8280e373c7e7)
+- [ ] [<code>MainWindow: connect to insert_text instead of key_press (#227)</code>](https://github.com/elementary/calculator/commit/7a816c6d6f1040543bfc34f8c285ff6fd4d153dd)
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
@@ -107,6 +108,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Ignore action view mode if no current tab</code>](https://github.com/elementary/files/commit/87f33f5dfb6ecc26f184c2b2275c3f6450f16961)
 - [ ] [<code>Remove unused function</code>](https://github.com/elementary/files/commit/b079a43a7ba025fb96193efe90016dd7e811d963)
 - [ ] [<code>Ignore rename with same name (#2038)</code>](https://github.com/elementary/files/commit/3c39cca72e996307029104049e9eb48d5e59e5fa)
+- [ ] [<code>Add next release appdata (#2039)</code>](https://github.com/elementary/files/commit/50109a48f6f22247dad9d2cee24429cbc3f45c98)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
