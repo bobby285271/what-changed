@@ -180,6 +180,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>CI: Use daily docker (#702)</code>](https://github.com/elementary/music/commit/7c1c90e114e6d33c5f7bb4704085b9f248a892e5)
 - [ ] [<code>CI: Add ARM (#703)</code>](https://github.com/elementary/music/commit/0eef5cf26d29a8d25a6144958e1eab1e443fc702)
 - [ ] [<code>Create Flatpak deploy actions (#701)</code>](https://github.com/elementary/music/commit/047a4633e7f4e979b9ca6da15f70d18666572e20)
+- [ ] [<code>Flatpak: bump runtime to 7 (#707)</code>](https://github.com/elementary/music/commit/5fd60209159625a144690fda9aac656091fc54e2)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
