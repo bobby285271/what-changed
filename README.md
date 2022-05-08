@@ -35,6 +35,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Use GLib.Action for buttons (#224)</code>](https://github.com/elementary/calculator/commit/0663a36772352380240243c5973d8280e373c7e7)
 - [ ] [<code>MainWindow: connect to insert_text instead of key_press (#227)</code>](https://github.com/elementary/calculator/commit/7a816c6d6f1040543bfc34f8c285ff6fd4d153dd)
+- [ ] [<code>Port to Gtk4 (#221)</code>](https://github.com/elementary/calculator/commit/9a8087a407fffccd6301834168617d0dc3370be9)
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
