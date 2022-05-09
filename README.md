@@ -28,6 +28,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Homepage: Only scroll carousel when banner is visible (#1836)</code>](https://github.com/elementary/appcenter/commit/d1505b7e5f0d1adee6b0cb0923dc713c7d341806)
 - [ ] [<code>AppInfoView: new icon and copy for old runtimes (#1838)</code>](https://github.com/elementary/appcenter/commit/f4697bcb012d29f24641ef5d4be2a441971d458c)
 - [ ] [<code>Homepage: more accurate navigation (#1837)</code>](https://github.com/elementary/appcenter/commit/75a41b78b47512ce76cf704ad4a8f426b25be41d)
+- [ ] [<code>Pull apt updates less frequently (#1790)</code>](https://github.com/elementary/appcenter/commit/3b11e7bd6d925829dc716582da1b74f0b11b4883)
+- [ ] [<code>Add a manual refresh button to update all caches (#1791)</code>](https://github.com/elementary/appcenter/commit/3585b0a7130a0d87b4ea2411681ce747b8144397)
+- [ ] [<code>MainWindow: misc menu fixes (#1842)</code>](https://github.com/elementary/appcenter/commit/0e210020ff12f1ea301cc7603e44b08ac52fdd54)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -36,6 +39,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use GLib.Action for buttons (#224)</code>](https://github.com/elementary/calculator/commit/0663a36772352380240243c5973d8280e373c7e7)
 - [ ] [<code>MainWindow: connect to insert_text instead of key_press (#227)</code>](https://github.com/elementary/calculator/commit/7a816c6d6f1040543bfc34f8c285ff6fd4d153dd)
 - [ ] [<code>Port to Gtk4 (#221)</code>](https://github.com/elementary/calculator/commit/9a8087a407fffccd6301834168617d0dc3370be9)
+- [ ] [<code>MainWindow: inline namespace (#228)</code>](https://github.com/elementary/calculator/commit/efdd7ee2b6c52943a5f0cdac77492b186279029b)
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
