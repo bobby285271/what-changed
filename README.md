@@ -194,6 +194,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Flatpak: bump runtime to 7 (#707)</code>](https://github.com/elementary/music/commit/5fd60209159625a144690fda9aac656091fc54e2)
 - [ ] [<code>AppData: update description</code>](https://github.com/elementary/music/commit/b02ab5c0a2adbb2c4222e5cb79b54aa33536bbce)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/music/commit/9fb45a1c5978205a721f46823545fd90d5bd0e72)
+- [ ] [<code>Save window size and paned position (#678)</code>](https://github.com/elementary/music/commit/b1b7c4d87b2c30f9b52b13a8507729dd5d8c01d0)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
