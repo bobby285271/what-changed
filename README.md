@@ -31,6 +31,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Pull apt updates less frequently (#1790)</code>](https://github.com/elementary/appcenter/commit/3b11e7bd6d925829dc716582da1b74f0b11b4883)
 - [ ] [<code>Add a manual refresh button to update all caches (#1791)</code>](https://github.com/elementary/appcenter/commit/3585b0a7130a0d87b4ea2411681ce747b8144397)
 - [ ] [<code>MainWindow: misc menu fixes (#1842)</code>](https://github.com/elementary/appcenter/commit/0e210020ff12f1ea301cc7603e44b08ac52fdd54)
+- [ ] [<code>AppListView: Don't sort native apps first in search (#1840)</code>](https://github.com/elementary/appcenter/commit/46359ef0444ee17b2334376aa6420bec10d7e4ad)
+- [ ] [<code>Core: fix appstream deprecations (#1835)</code>](https://github.com/elementary/appcenter/commit/03b1e31f49d09629ab45cabb56ddffda833404ea)
+- [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -40,6 +43,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: connect to insert_text instead of key_press (#227)</code>](https://github.com/elementary/calculator/commit/7a816c6d6f1040543bfc34f8c285ff6fd4d153dd)
 - [ ] [<code>Port to Gtk4 (#221)</code>](https://github.com/elementary/calculator/commit/9a8087a407fffccd6301834168617d0dc3370be9)
 - [ ] [<code>MainWindow: inline namespace (#228)</code>](https://github.com/elementary/calculator/commit/efdd7ee2b6c52943a5f0cdac77492b186279029b)
+- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/calculator/commit/c6393b6b62fc91eeb845bd769a6be0b516df0a29)
+- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/c9eafad763de1863457adf81827ecd0eb3d329cd)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/calculator/commit/9bb63129928a89756f1db00a4a8c5652330fbf98)
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
@@ -186,6 +192,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>CI: Add ARM (#703)</code>](https://github.com/elementary/music/commit/0eef5cf26d29a8d25a6144958e1eab1e443fc702)
 - [ ] [<code>Create Flatpak deploy actions (#701)</code>](https://github.com/elementary/music/commit/047a4633e7f4e979b9ca6da15f70d18666572e20)
 - [ ] [<code>Flatpak: bump runtime to 7 (#707)</code>](https://github.com/elementary/music/commit/5fd60209159625a144690fda9aac656091fc54e2)
+- [ ] [<code>AppData: update description</code>](https://github.com/elementary/music/commit/b02ab5c0a2adbb2c4222e5cb79b54aa33536bbce)
+- [ ] [<code>Update .pot</code>](https://github.com/elementary/music/commit/9fb45a1c5978205a721f46823545fd90d5bd0e72)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
@@ -218,6 +226,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Flatpak: bump to Platform 7 (#298)</code>](https://github.com/elementary/videos/commit/a0f0569f8b3bbc3b4ab5543ba434857ce97634a9)
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -272,6 +281,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Shortcuts/List: move panel-main-menu to Schema.GALA</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/555e9650bb8f74a7664e2393c589fe6664954a88)
 - [ ] [<code>Workflows: bump to Jammy</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b0788c4c79b206c57be5b5527c35e4f7d2ebc22a)
 - [ ] [<code>Read screenshot shortcuts from gala schema (#407)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6ebd57673b45cc64e1caf895134efc0d5f6cf2be)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/75a95f03e7a3ec9512f9df1d00173a60737f58bc)
+- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b45cb91ad5aacec8ba643de2158afa44c4b22ee3)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -384,6 +395,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>compositor: Add Wingpanel Background interface (#606)</code>](https://github.com/elementary/greeter/commit/b70d439769e9e6803ef61894c74eb358cb5c1c45)
+- [ ] [<code>Update greeter.appdata.xml.in</code>](https://github.com/elementary/greeter/commit/114930d9c86b88be29fe48647fcb84c6c1e530dc)
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
@@ -424,6 +436,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>ShorcutsView: use SCHEMA_GALA for panel-main-menu (#123)</code>](https://github.com/elementary/shortcut-overlay/commit/f2250d495e4646d41767933fa28b93c02d80a3dc)
 - [ ] [<code>Read screenshot shortcuts from gala schema (#124)</code>](https://github.com/elementary/shortcut-overlay/commit/284fc15b0f1f3ac95c862ff4491dda0f44763924)
 - [ ] [<code>MainWindow: Fix typo (#125)</code>](https://github.com/elementary/shortcut-overlay/commit/592f401a0151662f4381436bf0bd80f47b45bc5c)
+- [ ] [<code>Update shortcut-overlay.appdata.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/659f8e4ed03f6bb26ced6c9efb14244fb76aecd4)
+- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/shortcut-overlay/commit/3d8890af75cc46f0a668319d3f39228a78acd7ad)
+- [ ] [<code>Update .pot files</code>](https://github.com/elementary/shortcut-overlay/commit/4707a2d1ad71e5f79d683a5cfd37ff9a39062b3c)
+- [ ] [<code>Meson: remove Hdy from global args (#127)</code>](https://github.com/elementary/shortcut-overlay/commit/bc1231d336f7b619a8d8b6879bef10a511b61e23)
 
 ### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -553,6 +569,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Flatpak: bump to Platform 7 (#80)</code>](https://github.com/elementary/capnet-assist/commit/c575928d9a30f478425d8aec87cb85c2551f1461)
+- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/4766d9d1e63e194ed32cd3742f1b703a7caa11cc)
+- [ ] [<code>Update .pot</code>](https://github.com/elementary/capnet-assist/commit/90d94ca962a2d8650da4edea3c9885d18eb39616)
 
 ### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
 
