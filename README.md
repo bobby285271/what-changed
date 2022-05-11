@@ -34,6 +34,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppListView: Don't sort native apps first in search (#1840)</code>](https://github.com/elementary/appcenter/commit/46359ef0444ee17b2334376aa6420bec10d7e4ad)
 - [ ] [<code>Core: fix appstream deprecations (#1835)</code>](https://github.com/elementary/appcenter/commit/03b1e31f49d09629ab45cabb56ddffda833404ea)
 - [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
+- [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
 
@@ -46,6 +47,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/calculator/commit/c6393b6b62fc91eeb845bd769a6be0b516df0a29)
 - [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/c9eafad763de1863457adf81827ecd0eb3d329cd)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/calculator/commit/9bb63129928a89756f1db00a4a8c5652330fbf98)
+- [ ] [<code>Release 2.0.0 (#229)</code>](https://github.com/elementary/calculator/commit/ecaeaf8e0574f1efd5285e3f93d196256c849076) <sub>Tagged: <code>2.0.0</code></sub>
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
@@ -120,6 +122,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove unused function</code>](https://github.com/elementary/files/commit/b079a43a7ba025fb96193efe90016dd7e811d963)
 - [ ] [<code>Ignore rename with same name (#2038)</code>](https://github.com/elementary/files/commit/3c39cca72e996307029104049e9eb48d5e59e5fa)
 - [ ] [<code>Add next release appdata (#2039)</code>](https://github.com/elementary/files/commit/50109a48f6f22247dad9d2cee24429cbc3f45c98)
+- [ ] [<code>Remove faulty check blocking pre-selection (#2030)</code>](https://github.com/elementary/files/commit/34ace09c2676c6c46efd3745fb38df1ad62a8621)
+- [ ] [<code>Ensure view destroyed with associated slot (#2002)</code>](https://github.com/elementary/files/commit/ae140487be0334c440bb73acc4f1a4f271d642e7)
+- [ ] [<code>Fix reloading subdiredctories (#1988)</code>](https://github.com/elementary/files/commit/838fca24f7d4c3858361bc93fad700e5bf6aa7cd)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -284,6 +289,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Read screenshot shortcuts from gala schema (#407)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6ebd57673b45cc64e1caf895134efc0d5f6cf2be)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/75a95f03e7a3ec9512f9df1d00173a60737f58bc)
 - [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b45cb91ad5aacec8ba643de2158afa44c4b22ee3)
+- [ ] [<code>Release 3.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/aa46cfe474b054ffee902f674216812696d89a76) <sub>Tagged: <code>3.0.0</code></sub>
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -292,6 +298,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Clicking: drop support for old GNOME Settings Daemon</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ae526b1cddd72c853f1735c1e0c4820051995ecb)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/cf7528b6c83537973787569d81932c983a3b49a2)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5830fb3d10785426c01ee485e9d33e273bc052f)
+- [ ] [<code>Update io.elementary.switchboard.mouse-touchpad.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/27c9d2e457e3590a55ac6945cc797376df36f4da)
+- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e4e2befcca9112ae57e7a3f56cc2c2851de52a7b)
 
 ### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.2 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.2...HEAD)
 
@@ -397,6 +405,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>compositor: Add Wingpanel Background interface (#606)</code>](https://github.com/elementary/greeter/commit/b70d439769e9e6803ef61894c74eb358cb5c1c45)
 - [ ] [<code>Update greeter.appdata.xml.in</code>](https://github.com/elementary/greeter/commit/114930d9c86b88be29fe48647fcb84c6c1e530dc)
+- [ ] [<code>Release 6.1.0 (#608)</code>](https://github.com/elementary/greeter/commit/b4a35f592ab88c859cae1ec57fd56de48479bc52) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
@@ -412,6 +421,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Port to GTK4 (#152)</code>](https://github.com/elementary/onboarding/commit/efde244f3f04f72c067fb15b12375f802d1a3502)
 - [ ] [<code>Update carousel to latest LibAdwaita API (#165)</code>](https://github.com/elementary/onboarding/commit/cc82a4178c5bfe48a640347e10bdd4f0e00e79cc)
 - [ ] [<code>Update pot</code>](https://github.com/elementary/onboarding/commit/5f7cf900d3529ab2d27d3db52e24c6f9fa535182)
+- [ ] [<code>Add Updates View (#167)</code>](https://github.com/elementary/onboarding/commit/c329d25d80c13a03c9b75f4ec49d96ed8beeb34a)
+- [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/27e44679e1115ac3ea035bcfebec43b89e6cfa71)
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
