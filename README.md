@@ -36,18 +36,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
 - [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
 
-### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [1.7.2 → HEAD](https://github.com/elementary/calculator/compare/1.7.2...HEAD)
+### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
 
 
-- [ ] [<code>Use GLib.Action for buttons (#224)</code>](https://github.com/elementary/calculator/commit/0663a36772352380240243c5973d8280e373c7e7)
-- [ ] [<code>MainWindow: connect to insert_text instead of key_press (#227)</code>](https://github.com/elementary/calculator/commit/7a816c6d6f1040543bfc34f8c285ff6fd4d153dd)
-- [ ] [<code>Port to Gtk4 (#221)</code>](https://github.com/elementary/calculator/commit/9a8087a407fffccd6301834168617d0dc3370be9)
-- [ ] [<code>MainWindow: inline namespace (#228)</code>](https://github.com/elementary/calculator/commit/efdd7ee2b6c52943a5f0cdac77492b186279029b)
-- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/calculator/commit/c6393b6b62fc91eeb845bd769a6be0b516df0a29)
-- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/c9eafad763de1863457adf81827ecd0eb3d329cd)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/calculator/commit/9bb63129928a89756f1db00a4a8c5652330fbf98)
-- [ ] [<code>Release 2.0.0 (#229)</code>](https://github.com/elementary/calculator/commit/ecaeaf8e0574f1efd5285e3f93d196256c849076) <sub>Tagged: <code>2.0.0</code></sub>
 
 ### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
 
@@ -399,13 +391,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
 
-### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.0.2 → HEAD](https://github.com/elementary/greeter/compare/6.0.2...HEAD)
+### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
 
 
-- [ ] [<code>compositor: Add Wingpanel Background interface (#606)</code>](https://github.com/elementary/greeter/commit/b70d439769e9e6803ef61894c74eb358cb5c1c45)
-- [ ] [<code>Update greeter.appdata.xml.in</code>](https://github.com/elementary/greeter/commit/114930d9c86b88be29fe48647fcb84c6c1e530dc)
-- [ ] [<code>Release 6.1.0 (#608)</code>](https://github.com/elementary/greeter/commit/b4a35f592ab88c859cae1ec57fd56de48479bc52) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
