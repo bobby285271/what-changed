@@ -35,6 +35,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Core: fix appstream deprecations (#1835)</code>](https://github.com/elementary/appcenter/commit/03b1e31f49d09629ab45cabb56ddffda833404ea)
 - [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
 - [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
+- [ ] [<code>Core: set AppStream.FormatStyle to COLLECTION (#1845)</code>](https://github.com/elementary/appcenter/commit/4af89920e67a1d2784864d3fb20e6df02a320629)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -192,6 +193,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppData: update description</code>](https://github.com/elementary/music/commit/b02ab5c0a2adbb2c4222e5cb79b54aa33536bbce)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/music/commit/9fb45a1c5978205a721f46823545fd90d5bd0e72)
 - [ ] [<code>Save window size and paned position (#678)</code>](https://github.com/elementary/music/commit/b1b7c4d87b2c30f9b52b13a8507729dd5d8c01d0)
+- [ ] [<code>Release 7.0.0 (#708)</code>](https://github.com/elementary/music/commit/4367776cda2db16c19d543ddf981c79c6f321d26) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
 
@@ -292,6 +294,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5830fb3d10785426c01ee485e9d33e273bc052f)
 - [ ] [<code>Update io.elementary.switchboard.mouse-touchpad.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/27c9d2e457e3590a55ac6945cc797376df36f4da)
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e4e2befcca9112ae57e7a3f56cc2c2851de52a7b)
+- [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.2 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.2...HEAD)
 
@@ -366,6 +369,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
+- [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
+- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -412,6 +417,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update pot</code>](https://github.com/elementary/onboarding/commit/5f7cf900d3529ab2d27d3db52e24c6f9fa535182)
 - [ ] [<code>Add Updates View (#167)</code>](https://github.com/elementary/onboarding/commit/c329d25d80c13a03c9b75f4ec49d96ed8beeb34a)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/27e44679e1115ac3ea035bcfebec43b89e6cfa71)
+- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/ee598feb44f4eee4060adfbf4ad6d3289efc2fb6)
+- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/onboarding/commit/9cafa9644c259e7f77feb3a0fb0fd767b6de23e0)
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -441,6 +448,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/shortcut-overlay/commit/3d8890af75cc46f0a668319d3f39228a78acd7ad)
 - [ ] [<code>Update .pot files</code>](https://github.com/elementary/shortcut-overlay/commit/4707a2d1ad71e5f79d683a5cfd37ff9a39062b3c)
 - [ ] [<code>Meson: remove Hdy from global args (#127)</code>](https://github.com/elementary/shortcut-overlay/commit/bc1231d336f7b619a8d8b6879bef10a511b61e23)
+- [ ] [<code>Release 2.0.0 (#126)</code>](https://github.com/elementary/shortcut-overlay/commit/e5f206eea1b347a22ad1c74090fa9873693097d8) <sub>Tagged: <code>2.0.0</code></sub>
 
 ### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -458,6 +466,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WindowSwitcher: Fix missing focus on selected window upon release key with Mutter 42 (#1408)</code>](https://github.com/elementary/gala/commit/f9008e4f7a028b2f5fd4c09341a0af857b9759b6)
 - [ ] [<code>Move panel-main-menu schema in house (#1409)</code>](https://github.com/elementary/gala/commit/1e223b3027913e64e61278509390ed13bfe7affa)
 - [ ] [<code>Move screenshot shortcuts in-house (#1411)</code>](https://github.com/elementary/gala/commit/e86a9518c24b742118b8624e34f84cb0ef76c7bd)
+- [ ] [<code>Fix initial alt-tab switcher indicator visibility. (#1417)</code>](https://github.com/elementary/gala/commit/e0095415cdbfc369e6482e84b8aaffc6a04cafe7)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
