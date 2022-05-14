@@ -36,6 +36,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
 - [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
 - [ ] [<code>Core: set AppStream.FormatStyle to COLLECTION (#1845)</code>](https://github.com/elementary/appcenter/commit/4af89920e67a1d2784864d3fb20e6df02a320629)
+- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/94145a0c544663fd0c1ba140fbef5ed50190b352)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -338,6 +339,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>LockPanel: Add USB protection settings (#134)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/24d8ecf86c1ecd91a2cb41778bc5c528e3c50914)
+- [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/093c40067c39c8a1db9125b151a0bfd5e22a6cca)
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
@@ -371,6 +373,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
 - [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
+- [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
