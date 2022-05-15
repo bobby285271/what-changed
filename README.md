@@ -470,6 +470,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Move panel-main-menu schema in house (#1409)</code>](https://github.com/elementary/gala/commit/1e223b3027913e64e61278509390ed13bfe7affa)
 - [ ] [<code>Move screenshot shortcuts in-house (#1411)</code>](https://github.com/elementary/gala/commit/e86a9518c24b742118b8624e34f84cb0ef76c7bd)
 - [ ] [<code>Fix initial alt-tab switcher indicator visibility. (#1417)</code>](https://github.com/elementary/gala/commit/e0095415cdbfc369e6482e84b8aaffc6a04cafe7)
+- [ ] [<code>WorkspaceClone: draw stroke with Cairo (#1419)</code>](https://github.com/elementary/gala/commit/890f78d7f9b3d6a651e9b65641bd3762405ac6ae)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
