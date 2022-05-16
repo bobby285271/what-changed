@@ -301,6 +301,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Add WPA3 support (#334)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fc8e97e939b9ab1d392aacc84764ae8d0f311c6)
 
 ### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -471,6 +472,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Move screenshot shortcuts in-house (#1411)</code>](https://github.com/elementary/gala/commit/e86a9518c24b742118b8624e34f84cb0ef76c7bd)
 - [ ] [<code>Fix initial alt-tab switcher indicator visibility. (#1417)</code>](https://github.com/elementary/gala/commit/e0095415cdbfc369e6482e84b8aaffc6a04cafe7)
 - [ ] [<code>WorkspaceClone: draw stroke with Cairo (#1419)</code>](https://github.com/elementary/gala/commit/890f78d7f9b3d6a651e9b65641bd3762405ac6ae)
+- [ ] [<code>MultitaskingView: Remove key_focus_out override (#1418)</code>](https://github.com/elementary/gala/commit/fc838d7add2c42f8d7d9d4a09478688edce60b90)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -525,6 +527,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>AppData: Fix a typo (#242)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1d221a5c24b19df347a567c3de9a527fb213a3fa)
 - [ ] [<code>VpnMenuItem: Avoid to call method of a possibly null connection object (#243)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0a4ab109091519c325e3bcaa42725911ce0f9e11)
+- [ ] [<code>Add WPA3 support (#248)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b798147eec61cc1d62f37160a2fc610a84a62853)
 
 ### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
