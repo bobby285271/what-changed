@@ -351,6 +351,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>LockPanel: Add USB protection settings (#134)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/24d8ecf86c1ecd91a2cb41778bc5c528e3c50914)
 - [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/093c40067c39c8a1db9125b151a0bfd5e22a6cca)
+- [ ] [<code>TrackPanel: display correct OS name (#136)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/abb7a38e75a0917ac7d7cd5d70b749ae645f992a)
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
