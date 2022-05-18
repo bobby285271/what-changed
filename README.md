@@ -207,6 +207,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix build with vala 0.56 (#711)</code>](https://github.com/elementary/photos/commit/6594f1323726fb0d38519a7bdafe16f9170353cb)
 - [ ] [<code>Icon Redesign (#712)</code>](https://github.com/elementary/photos/commit/ba2b53ee9715488763e85f41efa85b38684ebe71)
 - [ ] [<code>Check for null and type before getting source properties (#691)</code>](https://github.com/elementary/photos/commit/69b3574f033b84d96c05001725f34f211ba1219c)
+- [ ] [<code>Release 2.7.5 (#714)</code>](https://github.com/elementary/photos/commit/5ff89409a5184a2a04b14eb863fadb71bc9f909b) <sub>Tagged: <code>2.7.5</code></sub>
 
 ### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -602,6 +603,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Flatpak: bump to Platform 7 (#80)</code>](https://github.com/elementary/capnet-assist/commit/c575928d9a30f478425d8aec87cb85c2551f1461)
 - [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/4766d9d1e63e194ed32cd3742f1b703a7caa11cc)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/capnet-assist/commit/90d94ca962a2d8650da4edea3c9885d18eb39616)
+- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in (#83)</code>](https://github.com/elementary/capnet-assist/commit/40c5b779ae1ad2e8db3b322135ec5252ad4d0db1)
 
 ### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
 
