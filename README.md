@@ -49,6 +49,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Use assert_true instead of assert in tests (#747)</code>](https://github.com/elementary/calendar/commit/013338a1cf8216bc13d6773c9140ec732449626a)
 - [ ] [<code>Modernize app icon (#750)</code>](https://github.com/elementary/calendar/commit/383d7976f17e2035ce73c1ed4b0b1871aff46744)
+- [ ] [<code>Release 6.1.1 (#752)</code>](https://github.com/elementary/calendar/commit/fcef19b3e62119308b059f7ab08c0b5b32ba9547) <sub>Tagged: <code>6.1.1</code></sub>
 
 ### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.0.3 → HEAD](https://github.com/elementary/camera/compare/6.0.3...HEAD)
 
@@ -95,6 +96,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Bump actions to OS 7</code>](https://github.com/elementary/feedback/commit/d1f332f4ba138e46e07337dcbf277a72994e9fa6)
 - [ ] [<code>MainWindow: Use Gtk.show_uri (#57)</code>](https://github.com/elementary/feedback/commit/ff494f974148200f312130c11771dbb3b0844748)
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/4b6dd75658e54b4b70b074d4df2abf688855e74e)
+- [ ] [<code>MainWindow: Create one app row per ID (#63)</code>](https://github.com/elementary/feedback/commit/8960fabdc74a0bc7a97e44f48e306d916ae84378)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -130,6 +132,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.mail.appdata.xml.in</code>](https://github.com/elementary/mail/commit/652d6895faf6bae710aeb550e63f551d4f5f3277)
 - [ ] [<code>Fix FolderThreadNode use after free crash (#770)</code>](https://github.com/elementary/mail/commit/3c331766b175cbb1c4d98c77e9b191e5d8ca76a6)
 - [ ] [<code>Fix #764: Mail Account Duplication (#769)</code>](https://github.com/elementary/mail/commit/9f4586f47d389658e934b1cc6261517d91f59cf9)
+- [ ] [<code>Flatpak: update to Platform 7 (#782)</code>](https://github.com/elementary/mail/commit/d883af8c76ebc615697c379d7094524d87200a7f)
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [5.1.1 → HEAD](https://github.com/elementary/music/compare/5.1.1...HEAD)
 
@@ -200,14 +203,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Save window size and paned position (#678)</code>](https://github.com/elementary/music/commit/b1b7c4d87b2c30f9b52b13a8507729dd5d8c01d0)
 - [ ] [<code>Release 7.0.0 (#708)</code>](https://github.com/elementary/music/commit/4367776cda2db16c19d543ddf981c79c6f321d26) <sub>Tagged: <code>7.0.0</code></sub>
 
-### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.4 → HEAD](https://github.com/elementary/photos/compare/2.7.4...HEAD)
+### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
 
 
 
-- [ ] [<code>Fix build with vala 0.56 (#711)</code>](https://github.com/elementary/photos/commit/6594f1323726fb0d38519a7bdafe16f9170353cb)
-- [ ] [<code>Icon Redesign (#712)</code>](https://github.com/elementary/photos/commit/ba2b53ee9715488763e85f41efa85b38684ebe71)
-- [ ] [<code>Check for null and type before getting source properties (#691)</code>](https://github.com/elementary/photos/commit/69b3574f033b84d96c05001725f34f211ba1219c)
-- [ ] [<code>Release 2.7.5 (#714)</code>](https://github.com/elementary/photos/commit/5ff89409a5184a2a04b14eb863fadb71bc9f909b) <sub>Tagged: <code>2.7.5</code></sub>
 
 ### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -229,6 +228,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Switch tab with Alt+[1-9] when there are at least 2 tabs (#650)</code>](https://github.com/elementary/terminal/commit/f01998f6e5d28a635139dcb42e8127ebec13b736)
 - [ ] [<code>Added hotkey to close terminal (#658)</code>](https://github.com/elementary/terminal/commit/37176927807ec9ea7f3ae72be6c6c0a5304e2e7f)
 - [ ] [<code>Appdata: Update for 6.0.2</code>](https://github.com/elementary/terminal/commit/6b256baa8ae9ca2e7d455ab7042c3bed7a4a091c)
+- [ ] [<code>Release 6.0.2 (#659)</code>](https://github.com/elementary/terminal/commit/2ad33d8ca37e91243fdba73db3efe7b838be46bc) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.3 → HEAD](https://github.com/elementary/videos/compare/2.8.3...HEAD)
 
@@ -316,12 +316,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#83)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/2e0320aab62b6932e8ef5f941d02e244de381957)
 
-### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.4.0...HEAD)
+### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
 
 
-- [ ] [<code>CalDAV: Offline support for newly configured accounts (#241)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/95ffd6e52b4a0d2c3892967129aee6e6fdadaa63)
-- [ ] [<code>Release 6.5.0 (#242)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/766f8c3d9217904a20c48554bdc51b73cab79db8) <sub>Tagged: <code>6.5.0</code></sub>
 
 ### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.1.0...HEAD)
 
@@ -339,6 +337,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>PowerModeButton: rewrite as radiobuttons (#209)</code>](https://github.com/elementary/switchboard-plug-power/commit/ef780d5030a48fe49c1a6fe7450a969ade6d300d)
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-power/commit/c15205f990e5d7446d1f06b8e02014c44c663bd3)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-power/commit/237b990696aa21c3a09c2a982339af2fc209bd82)
+- [ ] [<code>Release 2.7.0 (#216)</code>](https://github.com/elementary/switchboard-plug-power/commit/baebae823c522a3e1110be940a2baad4805332d6) <sub>Tagged: <code>2.7.0</code></sub>
 
 ### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.1.10 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.1.10...HEAD)
 
@@ -416,6 +415,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
 
@@ -504,6 +504,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Lib: Remove deprecated widgets (#450)</code>](https://github.com/elementary/wingpanel/commit/afa7e3cdbdacf0730961f015b045f037feccdc36)
 - [ ] [<code>Synchronize the .vapi with Gala (#453)</code>](https://github.com/elementary/wingpanel/commit/d12167bd77cec002af5222853b8919b14cd46e35)
 - [ ] [<code>Update wingpanel.appdata.xml.in</code>](https://github.com/elementary/wingpanel/commit/cdf7c19bce17e3854369ade4b54b6bb154b31e67)
+- [ ] [<code>Revert "Lib: Remove deprecated widgets" (#456)</code>](https://github.com/elementary/wingpanel/commit/a3c67cfbd4d94f52118f52cbf4dc18802561f85b)
 
 ## desktop/wingpanel-indicators
 
@@ -604,6 +605,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/4766d9d1e63e194ed32cd3742f1b703a7caa11cc)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/capnet-assist/commit/90d94ca962a2d8650da4edea3c9885d18eb39616)
 - [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in (#83)</code>](https://github.com/elementary/capnet-assist/commit/40c5b779ae1ad2e8db3b322135ec5252ad4d0db1)
+- [ ] [<code>Release 2.4.2 (#81)</code>](https://github.com/elementary/capnet-assist/commit/8b6813a8d81b175f5177de7fe2e163ffeeb0abae) <sub>Tagged: <code>2.4.2</code></sub>
 
 ### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
 
@@ -620,6 +622,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update settings-daemon.appdata.xml.in</code>](https://github.com/elementary/settings-daemon/commit/3e0149d5147fb5e209bce03a4f90452b2a435780)
 - [ ] [<code>Check downloads folder isn't home folder (#50)</code>](https://github.com/elementary/settings-daemon/commit/340ae9e2be515d34177b6ff99d430751dac9bdc2)
 - [ ] [<code>Update settings-daemon.appdata.xml.in</code>](https://github.com/elementary/settings-daemon/commit/84d95896a4983aa11177567485434b66d96184d3)
+- [ ] [<code>Release 1.2.0 (#53)</code>](https://github.com/elementary/settings-daemon/commit/273dfb4f22a1becf5964bb166954353393e1c2eb) <sub>Tagged: <code>1.2.0</code></sub>
 
 ### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
 
