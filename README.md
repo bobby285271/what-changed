@@ -377,6 +377,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -435,6 +436,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/27e44679e1115ac3ea035bcfebec43b89e6cfa71)
 - [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/ee598feb44f4eee4060adfbf4ad6d3289efc2fb6)
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/onboarding/commit/9cafa9644c259e7f77feb3a0fb0fd767b6de23e0)
+- [ ] [<code>StyleView: handle NO_PREFERENCE in switch (#172)</code>](https://github.com/elementary/onboarding/commit/78e72c0a0e40399376373f811279c08a7678ab6d)
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
