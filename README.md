@@ -97,6 +97,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Use Gtk.show_uri (#57)</code>](https://github.com/elementary/feedback/commit/ff494f974148200f312130c11771dbb3b0844748)
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/4b6dd75658e54b4b70b074d4df2abf688855e74e)
 - [ ] [<code>MainWindow: Create one app row per ID (#63)</code>](https://github.com/elementary/feedback/commit/8960fabdc74a0bc7a97e44f48e306d916ae84378)
+- [ ] [<code>Restore compatibility with AppStream < 0.15 (#65)</code>](https://github.com/elementary/feedback/commit/ab5d3ed4a8c94b7a4ec1c46c7314f5771234f38d)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -122,6 +123,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove faulty check blocking pre-selection (#2030)</code>](https://github.com/elementary/files/commit/34ace09c2676c6c46efd3745fb38df1ad62a8621)
 - [ ] [<code>Ensure view destroyed with associated slot (#2002)</code>](https://github.com/elementary/files/commit/ae140487be0334c440bb73acc4f1a4f271d642e7)
 - [ ] [<code>Fix reloading subdiredctories (#1988)</code>](https://github.com/elementary/files/commit/838fca24f7d4c3858361bc93fad700e5bf6aa7cd)
+- [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -133,6 +135,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix FolderThreadNode use after free crash (#770)</code>](https://github.com/elementary/mail/commit/3c331766b175cbb1c4d98c77e9b191e5d8ca76a6)
 - [ ] [<code>Fix #764: Mail Account Duplication (#769)</code>](https://github.com/elementary/mail/commit/9f4586f47d389658e934b1cc6261517d91f59cf9)
 - [ ] [<code>Flatpak: update to Platform 7 (#782)</code>](https://github.com/elementary/mail/commit/d883af8c76ebc615697c379d7094524d87200a7f)
+- [ ] [<code>Show recipient in Sent folder instead of sender (#771)</code>](https://github.com/elementary/mail/commit/88c90bb1509145134fae46746235ec118b28a9f6)
+- [ ] [<code>MainWindow: Use multiple headerbars (#776)</code>](https://github.com/elementary/mail/commit/2dc80b2ae321375469490c819061b7d2075f3112)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/mail/commit/007fcfe738526f910a6b12d4dbbaa57e5bdc75f2)
+- [ ] [<code>Actions: bump release to horus</code>](https://github.com/elementary/mail/commit/886dedc097bea5421e3ad1a1a46cf6603874bc0c)
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [5.1.1 → HEAD](https://github.com/elementary/music/compare/5.1.1...HEAD)
 
@@ -352,6 +358,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>LockPanel: Add USB protection settings (#134)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/24d8ecf86c1ecd91a2cb41778bc5c528e3c50914)
 - [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/093c40067c39c8a1db9125b151a0bfd5e22a6cca)
 - [ ] [<code>TrackPanel: display correct OS name (#136)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/abb7a38e75a0917ac7d7cd5d70b749ae645f992a)
+- [ ] [<code>Release 2.4.0 (#135)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/2565c6ab5cbd90c7506f3186469f657c517530e7) <sub>Tagged: <code>2.4.0</code></sub>
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
@@ -378,6 +385,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
+- [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -437,6 +445,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/ee598feb44f4eee4060adfbf4ad6d3289efc2fb6)
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/onboarding/commit/9cafa9644c259e7f77feb3a0fb0fd767b6de23e0)
 - [ ] [<code>StyleView: handle NO_PREFERENCE in switch (#172)</code>](https://github.com/elementary/onboarding/commit/78e72c0a0e40399376373f811279c08a7678ab6d)
+- [ ] [<code>Add Dark Schedule Preference (#170)</code>](https://github.com/elementary/onboarding/commit/4e3a4e6d3fb79a72ad2f0249c47793934f20cb5a)
+- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/64a35694924b6ddb2bc3bae0125f041206d3f71b)
+- [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/571d4c6739b59f0f19c825a5b80f82ebd843c463)
+- [ ] [<code>Meson: handy → adw (#169)</code>](https://github.com/elementary/onboarding/commit/b16a23ec5860f8faa00712050647000f39184783)
+- [ ] [<code>MainWindow: show all views when launching from Terminal (#173)</code>](https://github.com/elementary/onboarding/commit/6c29db2579401d49309da537a476cae11bac3900)
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
