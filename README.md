@@ -37,6 +37,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
 - [ ] [<code>Core: set AppStream.FormatStyle to COLLECTION (#1845)</code>](https://github.com/elementary/appcenter/commit/4af89920e67a1d2784864d3fb20e6df02a320629)
 - [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/94145a0c544663fd0c1ba140fbef5ed50190b352)
+- [ ] [<code>HumbleButton: move show_stripe_dialog here (#1847)</code>](https://github.com/elementary/appcenter/commit/a0b3d958f1979a5310f1c51df9d9c7b12a4b4aa5)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -98,6 +99,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/4b6dd75658e54b4b70b074d4df2abf688855e74e)
 - [ ] [<code>MainWindow: Create one app row per ID (#63)</code>](https://github.com/elementary/feedback/commit/8960fabdc74a0bc7a97e44f48e306d916ae84378)
 - [ ] [<code>Restore compatibility with AppStream < 0.15 (#65)</code>](https://github.com/elementary/feedback/commit/ab5d3ed4a8c94b7a4ec1c46c7314f5771234f38d)
+- [ ] [<code>MainWindow: get correct icon name for non-stock icons (#62)</code>](https://github.com/elementary/feedback/commit/2bb6df916a957bc4d1554855dea5cd488d7a73ea)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -124,6 +126,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Ensure view destroyed with associated slot (#2002)</code>](https://github.com/elementary/files/commit/ae140487be0334c440bb73acc4f1a4f271d642e7)
 - [ ] [<code>Fix reloading subdiredctories (#1988)</code>](https://github.com/elementary/files/commit/838fca24f7d4c3858361bc93fad700e5bf6aa7cd)
 - [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
+- [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
 
@@ -282,6 +285,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#100)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/a90639ed4f185f50d4ae448cd9503203dc24b3f4)
+- [ ] [<code>Fix scroll position of time zone city list. (#101)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/7107ffd25c83bae01b115d673ae954186a919208)
 
 ### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
@@ -395,6 +399,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
 - [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
+- [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -450,6 +455,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/571d4c6739b59f0f19c825a5b80f82ebd843c463)
 - [ ] [<code>Meson: handy → adw (#169)</code>](https://github.com/elementary/onboarding/commit/b16a23ec5860f8faa00712050647000f39184783)
 - [ ] [<code>MainWindow: show all views when launching from Terminal (#173)</code>](https://github.com/elementary/onboarding/commit/6c29db2579401d49309da537a476cae11bac3900)
+- [ ] [<code>Release 7.0.0 (#168)</code>](https://github.com/elementary/onboarding/commit/cffe635cec5bb6ec6d3a89bf7744fa6b5b0446e1) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -501,6 +507,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WorkspaceClone: draw stroke with Cairo (#1419)</code>](https://github.com/elementary/gala/commit/890f78d7f9b3d6a651e9b65641bd3762405ac6ae)
 - [ ] [<code>MultitaskingView: Remove key_focus_out override (#1418)</code>](https://github.com/elementary/gala/commit/fc838d7add2c42f8d7d9d4a09478688edce60b90)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/cce2c8878017c75f5477fc9fc87a83dcd42bd839)
+- [ ] [<code>Use preferences-desktop-workspaces icon from system (#1424)</code>](https://github.com/elementary/gala/commit/902d79ee9d1fa6ab123850dfd1c713cb527ecf40)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
