@@ -44,13 +44,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.0 → HEAD](https://github.com/elementary/calendar/compare/6.1.0...HEAD)
+### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
 
 
 
-- [ ] [<code>Use assert_true instead of assert in tests (#747)</code>](https://github.com/elementary/calendar/commit/013338a1cf8216bc13d6773c9140ec732449626a)
-- [ ] [<code>Modernize app icon (#750)</code>](https://github.com/elementary/calendar/commit/383d7976f17e2035ce73c1ed4b0b1871aff46744)
-- [ ] [<code>Release 6.1.1 (#752)</code>](https://github.com/elementary/calendar/commit/fcef19b3e62119308b059f7ab08c0b5b32ba9547) <sub>Tagged: <code>6.1.1</code></sub>
 
 ### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.0.3 → HEAD](https://github.com/elementary/camera/compare/6.0.3...HEAD)
 
@@ -229,15 +226,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.1 → HEAD](https://github.com/elementary/terminal/compare/6.0.1...HEAD)
+### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
 
 
 
-- [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#649)</code>](https://github.com/elementary/terminal/commit/15e3ace08cb25e53941249fa1ee680a1e2f871b4)
-- [ ] [<code>MainWindow: Switch tab with Alt+[1-9] when there are at least 2 tabs (#650)</code>](https://github.com/elementary/terminal/commit/f01998f6e5d28a635139dcb42e8127ebec13b736)
-- [ ] [<code>Added hotkey to close terminal (#658)</code>](https://github.com/elementary/terminal/commit/37176927807ec9ea7f3ae72be6c6c0a5304e2e7f)
-- [ ] [<code>Appdata: Update for 6.0.2</code>](https://github.com/elementary/terminal/commit/6b256baa8ae9ca2e7d455ab7042c3bed7a4a091c)
-- [ ] [<code>Release 6.0.2 (#659)</code>](https://github.com/elementary/terminal/commit/2ad33d8ca37e91243fdba73db3efe7b838be46bc) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.3 → HEAD](https://github.com/elementary/videos/compare/2.8.3...HEAD)
 
@@ -336,18 +328,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.6.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.6.0...HEAD)
+### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
 
 
-- [ ] [<code>Enable Power Profile Management (#192)</code>](https://github.com/elementary/switchboard-plug-power/commit/e0a1446bdd5d59cbadc6997350b89582b30d0c0f)
-- [ ] [<code>Update power.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/eb125751d8f837230030dfe1b4ddebf4be13b7ce)
-- [ ] [<code>Move get_permission to MainView (#212)</code>](https://github.com/elementary/switchboard-plug-power/commit/ebdf7322ee7086e57495d9c692f4ccbbf66e18d4)
-- [ ] [<code>PowerSupply: subclass object (#211)</code>](https://github.com/elementary/switchboard-plug-power/commit/e34abfd9eec32280111c5eb9116fa566c422074f)
-- [ ] [<code>PowerModeButton: rewrite as radiobuttons (#209)</code>](https://github.com/elementary/switchboard-plug-power/commit/ef780d5030a48fe49c1a6fe7450a969ade6d300d)
-- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-power/commit/c15205f990e5d7446d1f06b8e02014c44c663bd3)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-power/commit/237b990696aa21c3a09c2a982339af2fc209bd82)
-- [ ] [<code>Release 2.7.0 (#216)</code>](https://github.com/elementary/switchboard-plug-power/commit/baebae823c522a3e1110be940a2baad4805332d6) <sub>Tagged: <code>2.7.0</code></sub>
 
 ### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.1.10 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.1.10...HEAD)
 
@@ -400,6 +384,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
 - [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
 - [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
+- [ ] [<code>Add 128px prefs-desktop-workspaces</code>](https://github.com/elementary/icons/commit/91493a45bf75824ca90a18abefe06d20f46a2046)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -619,15 +604,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.1 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.1...HEAD)
+### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
 
 
 
-- [ ] [<code>Flatpak: bump to Platform 7 (#80)</code>](https://github.com/elementary/capnet-assist/commit/c575928d9a30f478425d8aec87cb85c2551f1461)
-- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/4766d9d1e63e194ed32cd3742f1b703a7caa11cc)
-- [ ] [<code>Update .pot</code>](https://github.com/elementary/capnet-assist/commit/90d94ca962a2d8650da4edea3c9885d18eb39616)
-- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in (#83)</code>](https://github.com/elementary/capnet-assist/commit/40c5b779ae1ad2e8db3b322135ec5252ad4d0db1)
-- [ ] [<code>Release 2.4.2 (#81)</code>](https://github.com/elementary/capnet-assist/commit/8b6813a8d81b175f5177de7fe2e163ffeeb0abae) <sub>Tagged: <code>2.4.2</code></sub>
 
 ### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
 
@@ -635,16 +615,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
 
-### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.1.0...HEAD)
+### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
 
 
-- [ ] [<code>SettingsPortal: add week-start-day-name to datetime (#43)</code>](https://github.com/elementary/settings-daemon/commit/614099ec66aa753f2b5a01d90b2f6cb32a88bb35)
-- [ ] [<code>Add left handed setting (#44)</code>](https://github.com/elementary/settings-daemon/commit/9aa4b731661114a90530cb6be92c488b6cec17c9)
-- [ ] [<code>Update settings-daemon.appdata.xml.in</code>](https://github.com/elementary/settings-daemon/commit/3e0149d5147fb5e209bce03a4f90452b2a435780)
-- [ ] [<code>Check downloads folder isn't home folder (#50)</code>](https://github.com/elementary/settings-daemon/commit/340ae9e2be515d34177b6ff99d430751dac9bdc2)
-- [ ] [<code>Update settings-daemon.appdata.xml.in</code>](https://github.com/elementary/settings-daemon/commit/84d95896a4983aa11177567485434b66d96184d3)
-- [ ] [<code>Release 1.2.0 (#53)</code>](https://github.com/elementary/settings-daemon/commit/273dfb4f22a1becf5964bb166954353393e1c2eb) <sub>Tagged: <code>1.2.0</code></sub>
 
 ### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
 
