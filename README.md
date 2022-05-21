@@ -610,6 +610,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
+- [ ] [<code>Remove Unused HeaderBar (#174)</code>](https://github.com/elementary/notifications/commit/c313a0d057714585819415700a84a1188ba1cb22)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
