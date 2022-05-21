@@ -339,14 +339,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#153)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3e2b01378cbb8e666d23daeef7f40fcaa90daa45)
 
-### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.3.0...HEAD)
+### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
 
 
-- [ ] [<code>LockPanel: Add USB protection settings (#134)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/24d8ecf86c1ecd91a2cb41778bc5c528e3c50914)
-- [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/093c40067c39c8a1db9125b151a0bfd5e22a6cca)
-- [ ] [<code>TrackPanel: display correct OS name (#136)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/abb7a38e75a0917ac7d7cd5d70b749ae645f992a)
-- [ ] [<code>Release 2.4.0 (#135)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/2565c6ab5cbd90c7506f3186469f657c517530e7) <sub>Tagged: <code>2.4.0</code></sub>
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
