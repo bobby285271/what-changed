@@ -38,6 +38,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Core: set AppStream.FormatStyle to COLLECTION (#1845)</code>](https://github.com/elementary/appcenter/commit/4af89920e67a1d2784864d3fb20e6df02a320629)
 - [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/94145a0c544663fd0c1ba140fbef5ed50190b352)
 - [ ] [<code>HumbleButton: move show_stripe_dialog here (#1847)</code>](https://github.com/elementary/appcenter/commit/a0b3d958f1979a5310f1c51df9d9c7b12a4b4aa5)
+- [ ] [<code>CategoryView: load packages async (#1851)</code>](https://github.com/elementary/appcenter/commit/7204fb681fd90bac688857fc3ae0a2e6763bf677)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -97,6 +98,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Create one app row per ID (#63)</code>](https://github.com/elementary/feedback/commit/8960fabdc74a0bc7a97e44f48e306d916ae84378)
 - [ ] [<code>Restore compatibility with AppStream < 0.15 (#65)</code>](https://github.com/elementary/feedback/commit/ab5d3ed4a8c94b7a4ec1c46c7314f5771234f38d)
 - [ ] [<code>MainWindow: get correct icon name for non-stock icons (#62)</code>](https://github.com/elementary/feedback/commit/2bb6df916a957bc4d1554855dea5cd488d7a73ea)
+- [ ] [<code>MainWindow: Get system entries from appstream (#64)</code>](https://github.com/elementary/feedback/commit/bd8a0a27acc436d4cd3dbe1e78868d291bb985c1)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -328,6 +330,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Appearance: re-layout to use more vertical space (#307)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/972febf33021b3f90cdef12005354b37c5081c71)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
