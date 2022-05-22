@@ -208,6 +208,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/music/commit/9fb45a1c5978205a721f46823545fd90d5bd0e72)
 - [ ] [<code>Save window size and paned position (#678)</code>](https://github.com/elementary/music/commit/b1b7c4d87b2c30f9b52b13a8507729dd5d8c01d0)
 - [ ] [<code>Release 7.0.0 (#708)</code>](https://github.com/elementary/music/commit/4367776cda2db16c19d543ddf981c79c6f321d26) <sub>Tagged: <code>7.0.0</code></sub>
+- [ ] [<code>PlaybackManager: Use file basename for fallback audio object title (#710)</code>](https://github.com/elementary/music/commit/97a437edc7652e0b85b7d3c6fd87089c14ec02e2)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
 
