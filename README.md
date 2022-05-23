@@ -493,6 +493,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MultitaskingView: Remove key_focus_out override (#1418)</code>](https://github.com/elementary/gala/commit/fc838d7add2c42f8d7d9d4a09478688edce60b90)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/cce2c8878017c75f5477fc9fc87a83dcd42bd839)
 - [ ] [<code>Use preferences-desktop-workspaces icon from system (#1424)</code>](https://github.com/elementary/gala/commit/902d79ee9d1fa6ab123850dfd1c713cb527ecf40)
+- [ ] [<code>Granite drawing removals (#1428)</code>](https://github.com/elementary/gala/commit/f74d8fdad56b9f1d8d4d8e6231078afb66596cf5)
+- [ ] [<code>hotcorners: Add a minimum time delay between trigger and re-trigger events(#1421)</code>](https://github.com/elementary/gala/commit/f09b95c564a0d07c4cb1de1ee427b680f2b596d8)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
