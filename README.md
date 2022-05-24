@@ -99,6 +99,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Restore compatibility with AppStream < 0.15 (#65)</code>](https://github.com/elementary/feedback/commit/ab5d3ed4a8c94b7a4ec1c46c7314f5771234f38d)
 - [ ] [<code>MainWindow: get correct icon name for non-stock icons (#62)</code>](https://github.com/elementary/feedback/commit/2bb6df916a957bc4d1554855dea5cd488d7a73ea)
 - [ ] [<code>MainWindow: Get system entries from appstream (#64)</code>](https://github.com/elementary/feedback/commit/bd8a0a27acc436d4cd3dbe1e78868d291bb985c1)
+- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/9e688cf401f8601e43a1a54dacdfcf9fc1677dc2)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -141,6 +142,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Use multiple headerbars (#776)</code>](https://github.com/elementary/mail/commit/2dc80b2ae321375469490c819061b7d2075f3112)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/mail/commit/007fcfe738526f910a6b12d4dbbaa57e5bdc75f2)
 - [ ] [<code>Actions: bump release to horus</code>](https://github.com/elementary/mail/commit/886dedc097bea5421e3ad1a1a46cf6603874bc0c)
+- [ ] [<code>Release 7.0.0 (#781)</code>](https://github.com/elementary/mail/commit/c18a5a551beb9cd7096e0d9c27e3a67456a818d4) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [5.1.1 → HEAD](https://github.com/elementary/music/compare/5.1.1...HEAD)
 
@@ -409,6 +411,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
+- [ ] [<code>Delete appcenter.hiddenapps (#268)</code>](https://github.com/elementary/default-settings/commit/8ed65c44e147ec8348cab10ab0341f2c7de35ebb)
 
 ### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
