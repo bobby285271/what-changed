@@ -128,21 +128,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
 - [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
 
-### [pantheon.elementary-mail](https://github.com/elementary/mail): [6.4.0 → HEAD](https://github.com/elementary/mail/compare/6.4.0...HEAD)
+### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
 
 
-- [ ] [<code>ComposerWidget: Make ACTION_ENTRIES private (#765)</code>](https://github.com/elementary/mail/commit/c3aa61d226f49147d7685cc00013469ff4df369a)
-- [ ] [<code>Round app icon (#780)</code>](https://github.com/elementary/mail/commit/5c2d0a2dddfe7a4d97d8016f9f263f10f2d4cadc)
-- [ ] [<code>Update io.elementary.mail.appdata.xml.in</code>](https://github.com/elementary/mail/commit/652d6895faf6bae710aeb550e63f551d4f5f3277)
-- [ ] [<code>Fix FolderThreadNode use after free crash (#770)</code>](https://github.com/elementary/mail/commit/3c331766b175cbb1c4d98c77e9b191e5d8ca76a6)
-- [ ] [<code>Fix #764: Mail Account Duplication (#769)</code>](https://github.com/elementary/mail/commit/9f4586f47d389658e934b1cc6261517d91f59cf9)
-- [ ] [<code>Flatpak: update to Platform 7 (#782)</code>](https://github.com/elementary/mail/commit/d883af8c76ebc615697c379d7094524d87200a7f)
-- [ ] [<code>Show recipient in Sent folder instead of sender (#771)</code>](https://github.com/elementary/mail/commit/88c90bb1509145134fae46746235ec118b28a9f6)
-- [ ] [<code>MainWindow: Use multiple headerbars (#776)</code>](https://github.com/elementary/mail/commit/2dc80b2ae321375469490c819061b7d2075f3112)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/mail/commit/007fcfe738526f910a6b12d4dbbaa57e5bdc75f2)
-- [ ] [<code>Actions: bump release to horus</code>](https://github.com/elementary/mail/commit/886dedc097bea5421e3ad1a1a46cf6603874bc0c)
-- [ ] [<code>Release 7.0.0 (#781)</code>](https://github.com/elementary/mail/commit/c18a5a551beb9cd7096e0d9c27e3a67456a818d4) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
 
@@ -348,6 +337,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
 - [ ] [<code>Delete appcenter.hiddenapps (#268)</code>](https://github.com/elementary/default-settings/commit/8ed65c44e147ec8348cab10ab0341f2c7de35ebb)
+- [ ] [<code>debian: Do not try to install things from /etc/io.elementary.appcenter</code>](https://github.com/elementary/default-settings/commit/df1215d72b365daad2298dc1d639fb1c6427e67a)
 
 ### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
