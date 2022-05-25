@@ -292,6 +292,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d2bb5364b2f8219fa73b4543b157407dba330eca)
 - [ ] [<code>l10n: Correctly setup the locales (#29)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2a7dee180d73ffb3521d806efb7028f5a71cb511)
+- [ ] [<code>Update io.elementary.switchboard.wacom.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9a0b941e88347af9b71e45b5092905361e922267)
+- [ ] [<code>README: Remove WIP (#28)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1bf7b5ccc6c683c5e5efb36e48e595fe8cf4bce7)
 
 ## artwork
 
@@ -425,6 +427,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Granite drawing removals (#1428)</code>](https://github.com/elementary/gala/commit/f74d8fdad56b9f1d8d4d8e6231078afb66596cf5)
 - [ ] [<code>hotcorners: Add a minimum time delay between trigger and re-trigger events(#1421)</code>](https://github.com/elementary/gala/commit/f09b95c564a0d07c4cb1de1ee427b680f2b596d8)
 - [ ] [<code>WindowManager: save/restore easing on workspace switch (#1430)</code>](https://github.com/elementary/gala/commit/1f94db16c627f73af5dc69714611815e4691b5e8)
+- [ ] [<code>WindowManager: set workspace switch duration directly (#1429)</code>](https://github.com/elementary/gala/commit/87547ef50f9db312b4ebec751b55d9617b0f8f91)
+- [ ] [<code>WindowClone: explicit namespace, make internal classes private (#1433)</code>](https://github.com/elementary/gala/commit/14cdefed9d7638fb608c5fc774d03f13efd6a63f)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
