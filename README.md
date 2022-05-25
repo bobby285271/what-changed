@@ -39,6 +39,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/94145a0c544663fd0c1ba140fbef5ed50190b352)
 - [ ] [<code>HumbleButton: move show_stripe_dialog here (#1847)</code>](https://github.com/elementary/appcenter/commit/a0b3d958f1979a5310f1c51df9d9c7b12a4b4aa5)
 - [ ] [<code>CategoryView: load packages async (#1851)</code>](https://github.com/elementary/appcenter/commit/7204fb681fd90bac688857fc3ae0a2e6763bf677)
+- [ ] [<code>AbstractAppContainer: Remove progress_grid (#1854)</code>](https://github.com/elementary/appcenter/commit/135c3e1fabe22095aeec081067a6d46ef17fc04f)
+- [ ] [<code>PackageKitBackend: don't load Ubuntu components with AppStream 0.15 (#1852)</code>](https://github.com/elementary/appcenter/commit/0a27acbfaf904d4b826a35304d4381e4a0e6c261)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -583,6 +585,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Delete daily-6.1.yml (#599)</code>](https://github.com/elementary/os/commit/ce318bba8788628eedeee312c5985c60d1878fad)
 - [ ] [<code>Workflows: Rename ARM workflow for clarity (#600)</code>](https://github.com/elementary/os/commit/eaa1d5c9b608e74db95304e40c1e60c341358ec9)
 - [ ] [<code>Remove lupin-support from pool (#614)</code>](https://github.com/elementary/os/commit/a6fb13f66dcf19086b812cbedb0f06b89a0b5459)
+- [ ] [<code>Issue Templates: point to contributor docs instead of github org (#619)</code>](https://github.com/elementary/os/commit/d796dde207ce3526ecd3db20dc99f905e8776e07)
 
 ### [github:elementary/seeds](https://github.com/elementary/seeds): [31d60df70f3ae058 → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
