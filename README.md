@@ -41,6 +41,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>CategoryView: load packages async (#1851)</code>](https://github.com/elementary/appcenter/commit/7204fb681fd90bac688857fc3ae0a2e6763bf677)
 - [ ] [<code>AbstractAppContainer: Remove progress_grid (#1854)</code>](https://github.com/elementary/appcenter/commit/135c3e1fabe22095aeec081067a6d46ef17fc04f)
 - [ ] [<code>PackageKitBackend: don't load Ubuntu components with AppStream 0.15 (#1852)</code>](https://github.com/elementary/appcenter/commit/0a27acbfaf904d4b826a35304d4381e4a0e6c261)
+- [ ] [<code>AppInfoView: move uninstall button here (#1855)</code>](https://github.com/elementary/appcenter/commit/2fddcb0fc649839962f2fbf5c65f6661e055b668)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -316,6 +317,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
 - [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
 - [ ] [<code>Add 128px prefs-desktop-workspaces</code>](https://github.com/elementary/icons/commit/91493a45bf75824ca90a18abefe06d20f46a2046)
+- [ ] [<code>Add 128px icons for initial-setup (#1082)</code>](https://github.com/elementary/icons/commit/7ec88ef977938d202334c1a29578791800d9692d)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
