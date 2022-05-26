@@ -42,6 +42,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AbstractAppContainer: Remove progress_grid (#1854)</code>](https://github.com/elementary/appcenter/commit/135c3e1fabe22095aeec081067a6d46ef17fc04f)
 - [ ] [<code>PackageKitBackend: don't load Ubuntu components with AppStream 0.15 (#1852)</code>](https://github.com/elementary/appcenter/commit/0a27acbfaf904d4b826a35304d4381e4a0e6c261)
 - [ ] [<code>AppInfoView: move uninstall button here (#1855)</code>](https://github.com/elementary/appcenter/commit/2fddcb0fc649839962f2fbf5c65f6661e055b668)
+- [ ] [<code>Release 3.10.0 (#1846)</code>](https://github.com/elementary/appcenter/commit/4587d57313237c3ce5d7ed121a6726deec31c01a) <sub>Tagged: <code>3.10.0</code></sub>
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
