@@ -104,6 +104,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: get correct icon name for non-stock icons (#62)</code>](https://github.com/elementary/feedback/commit/2bb6df916a957bc4d1554855dea5cd488d7a73ea)
 - [ ] [<code>MainWindow: Get system entries from appstream (#64)</code>](https://github.com/elementary/feedback/commit/bd8a0a27acc436d4cd3dbe1e78868d291bb985c1)
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/9e688cf401f8601e43a1a54dacdfcf9fc1677dc2)
+- [ ] [<code>Release 6.1.1 (#59)</code>](https://github.com/elementary/feedback/commit/f1cc92a62f31a248c35616747cb8dfcdea8d04c8) <sub>Tagged: <code>6.1.1</code></sub>
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
