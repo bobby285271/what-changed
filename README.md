@@ -8,41 +8,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 ## apps
 
-### [pantheon.appcenter](https://github.com/elementary/appcenter): [3.9.1 → HEAD](https://github.com/elementary/appcenter/compare/3.9.1...HEAD)
+### [pantheon.appcenter](https://github.com/elementary/appcenter): [3.10.0 → HEAD](https://github.com/elementary/appcenter/compare/3.10.0...HEAD)
 
 
 
-- [ ] [<code>Fix AppStream.PoolFlags being renamed (#1794)</code>](https://github.com/elementary/appcenter/commit/84bc6400713484aa9365f0ba73f59c495da3f08b)
-- [ ] [<code>Expose screenshot captions (#1801)</code>](https://github.com/elementary/appcenter/commit/53141e69c8f08b715692cfa2f21e0c9181db8ee8)
-- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/ddca03632a8c5e23983e549767793a1ff3febd74)
-- [ ] [<code>Make back button behaviour more consistant (#1752)</code>](https://github.com/elementary/appcenter/commit/d378eb5eedb4d7b0f59ffadb3a6fc4710696f55d)
-- [ ] [<code>Automatically install curated Flatpak updates (#1793)</code>](https://github.com/elementary/appcenter/commit/c94140e69afa8a12a7448baf19127b9f4a7e46bd)
-- [ ] [<code>AppInfoView: Warn about OS runtime mismatch (#1807)</code>](https://github.com/elementary/appcenter/commit/107ad2983aacd93ca9f4353aa5cb476f41bb0ad8)
-- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/1218e9eb2c80de41779b5103fd85bb2006d1d7dd)
-- [ ] [<code>Show try for free label  (#1820)</code>](https://github.com/elementary/appcenter/commit/7bcbc7d0c180570e8c569d2d9964bff4bc63ea46)
-- [ ] [<code>Client: Trigger auto-updates when opening the app (#1811)</code>](https://github.com/elementary/appcenter/commit/20da4901feacea8c14d1cd8bdb62c1b0f36db6b9)
-- [ ] [<code>AppInfoView: Set banner provider for context, not screen (#1692)</code>](https://github.com/elementary/appcenter/commit/7aebc80a66b41f2ce51adfd7a5b57e490ea5b2d4)
-- [ ] [<code>MainWindow: Reliably update on view change (#1831)</code>](https://github.com/elementary/appcenter/commit/491fe368dec5ddbe163a3d089568169a8a391fd3)
-- [ ] [<code>Client: auto update non-native apps</code>](https://github.com/elementary/appcenter/commit/ca813c9ef5f92e7977172137f01803c57bc0b7e9)
-- [ ] [<code>UpdateManager: notify for unpaid apps</code>](https://github.com/elementary/appcenter/commit/20d72728224ce6a455a8978fcbd73b7b3a199ac6)
-- [ ] [<code>Homepage: Only scroll carousel when banner is visible (#1836)</code>](https://github.com/elementary/appcenter/commit/d1505b7e5f0d1adee6b0cb0923dc713c7d341806)
-- [ ] [<code>AppInfoView: new icon and copy for old runtimes (#1838)</code>](https://github.com/elementary/appcenter/commit/f4697bcb012d29f24641ef5d4be2a441971d458c)
-- [ ] [<code>Homepage: more accurate navigation (#1837)</code>](https://github.com/elementary/appcenter/commit/75a41b78b47512ce76cf704ad4a8f426b25be41d)
-- [ ] [<code>Pull apt updates less frequently (#1790)</code>](https://github.com/elementary/appcenter/commit/3b11e7bd6d925829dc716582da1b74f0b11b4883)
-- [ ] [<code>Add a manual refresh button to update all caches (#1791)</code>](https://github.com/elementary/appcenter/commit/3585b0a7130a0d87b4ea2411681ce747b8144397)
-- [ ] [<code>MainWindow: misc menu fixes (#1842)</code>](https://github.com/elementary/appcenter/commit/0e210020ff12f1ea301cc7603e44b08ac52fdd54)
-- [ ] [<code>AppListView: Don't sort native apps first in search (#1840)</code>](https://github.com/elementary/appcenter/commit/46359ef0444ee17b2334376aa6420bec10d7e4ad)
-- [ ] [<code>Core: fix appstream deprecations (#1835)</code>](https://github.com/elementary/appcenter/commit/03b1e31f49d09629ab45cabb56ddffda833404ea)
-- [ ] [<code>AbstractAppContainer: Remove curated warning dialog (#1841)</code>](https://github.com/elementary/appcenter/commit/d6ae9d71c740584adc01c5f37e0cdcc7a4a0937a)
-- [ ] [<code>Homepage: remove unuseed page_loaded (#1843)</code>](https://github.com/elementary/appcenter/commit/2c300dbb9f775bc3550975a35ef296e4d44d18cd)
-- [ ] [<code>Core: set AppStream.FormatStyle to COLLECTION (#1845)</code>](https://github.com/elementary/appcenter/commit/4af89920e67a1d2784864d3fb20e6df02a320629)
-- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in</code>](https://github.com/elementary/appcenter/commit/94145a0c544663fd0c1ba140fbef5ed50190b352)
-- [ ] [<code>HumbleButton: move show_stripe_dialog here (#1847)</code>](https://github.com/elementary/appcenter/commit/a0b3d958f1979a5310f1c51df9d9c7b12a4b4aa5)
-- [ ] [<code>CategoryView: load packages async (#1851)</code>](https://github.com/elementary/appcenter/commit/7204fb681fd90bac688857fc3ae0a2e6763bf677)
-- [ ] [<code>AbstractAppContainer: Remove progress_grid (#1854)</code>](https://github.com/elementary/appcenter/commit/135c3e1fabe22095aeec081067a6d46ef17fc04f)
-- [ ] [<code>PackageKitBackend: don't load Ubuntu components with AppStream 0.15 (#1852)</code>](https://github.com/elementary/appcenter/commit/0a27acbfaf904d4b826a35304d4381e4a0e6c261)
-- [ ] [<code>AppInfoView: move uninstall button here (#1855)</code>](https://github.com/elementary/appcenter/commit/2fddcb0fc649839962f2fbf5c65f6661e055b668)
-- [ ] [<code>Release 3.10.0 (#1846)</code>](https://github.com/elementary/appcenter/commit/4587d57313237c3ce5d7ed121a6726deec31c01a) <sub>Tagged: <code>3.10.0</code></sub>
 - [ ] [<code>AbstractView: Replace Stack with Deck (#1769)</code>](https://github.com/elementary/appcenter/commit/02dda381b16703183cd2220dc4efde0562af42f7)
 - [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
 
@@ -82,7 +51,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
 
-### [pantheon.elementary-dock](https://github.com/elementary/dock): [5e4b5ba2eec3b522 → HEAD](https://github.com/elementary/dock/compare/5e4b5ba2eec3b522e107ad834a59c0f1271d4699...HEAD)
+### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
 
 
@@ -92,21 +61,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Load launchers from gsettings (#155)</code>](https://github.com/elementary/dock/commit/67dd5d6cf55a8f50661d332383a2ca2859fb4029)
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 
-### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.0 → HEAD](https://github.com/elementary/feedback/compare/6.1.0...HEAD)
+### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
 
 
 
-- [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/feedback/commit/080005153977a86d10099eff6a5b3e68f7b12847)
-- [ ] [<code>MainWindow: use extra_data_location functions</code>](https://github.com/elementary/feedback/commit/82008b8f476c23d098fb1d5f6531b5cc33404f96)
-- [ ] [<code>Bump actions to OS 7</code>](https://github.com/elementary/feedback/commit/d1f332f4ba138e46e07337dcbf277a72994e9fa6)
-- [ ] [<code>MainWindow: Use Gtk.show_uri (#57)</code>](https://github.com/elementary/feedback/commit/ff494f974148200f312130c11771dbb3b0844748)
-- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/4b6dd75658e54b4b70b074d4df2abf688855e74e)
-- [ ] [<code>MainWindow: Create one app row per ID (#63)</code>](https://github.com/elementary/feedback/commit/8960fabdc74a0bc7a97e44f48e306d916ae84378)
-- [ ] [<code>Restore compatibility with AppStream < 0.15 (#65)</code>](https://github.com/elementary/feedback/commit/ab5d3ed4a8c94b7a4ec1c46c7314f5771234f38d)
-- [ ] [<code>MainWindow: get correct icon name for non-stock icons (#62)</code>](https://github.com/elementary/feedback/commit/2bb6df916a957bc4d1554855dea5cd488d7a73ea)
-- [ ] [<code>MainWindow: Get system entries from appstream (#64)</code>](https://github.com/elementary/feedback/commit/bd8a0a27acc436d4cd3dbe1e78868d291bb985c1)
-- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/9e688cf401f8601e43a1a54dacdfcf9fc1677dc2)
-- [ ] [<code>Release 6.1.1 (#59)</code>](https://github.com/elementary/feedback/commit/f1cc92a62f31a248c35616747cb8dfcdea8d04c8) <sub>Tagged: <code>6.1.1</code></sub>
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
 
@@ -358,31 +316,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
 
-### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [6.1.0 → HEAD](https://github.com/elementary/onboarding/compare/6.1.0...HEAD)
+### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
 
 
-- [ ] [<code>l10n: Correctly setup the locales (#147)</code>](https://github.com/elementary/onboarding/commit/af19c3dbefd1c0e0ec18eddacc1f21cb991f5513)
-- [ ] [<code>Improve Code Style (#153)</code>](https://github.com/elementary/onboarding/commit/f3c0694fbea41e19fe715466a8572c45fffc0f5c)
-- [ ] [<code>MainWindow: Replace ButtonBox with Box (#158)</code>](https://github.com/elementary/onboarding/commit/d6c8c1a27701266b801244f6b5143f2d31ba5096)
-- [ ] [<code>Make Expand and Margin Properties more Specific for GTK4 Porting (#156)</code>](https://github.com/elementary/onboarding/commit/29885d86721d5ae1b2b20850fe6e3e2a90872c03)
-- [ ] [<code>DesktopEntry: NotShowIn Installer → OnlyShowIn Pantheon (#155)</code>](https://github.com/elementary/onboarding/commit/baca3e4da88bc79854b568beb1d4b509ce5173ea)
-- [ ] [<code>Switcher: Remove unused signal (#161)</code>](https://github.com/elementary/onboarding/commit/39a8066a5672b9bfeae4802ba4c3b558b3c841cc)
-- [ ] [<code>Prep for GTK4: Replace add with attach for Grids (#160)</code>](https://github.com/elementary/onboarding/commit/34d0991443911e00536de6b91a024195ecf09ca8)
-- [ ] [<code>Port to GTK4 (#152)</code>](https://github.com/elementary/onboarding/commit/efde244f3f04f72c067fb15b12375f802d1a3502)
-- [ ] [<code>Update carousel to latest LibAdwaita API (#165)</code>](https://github.com/elementary/onboarding/commit/cc82a4178c5bfe48a640347e10bdd4f0e00e79cc)
-- [ ] [<code>Update pot</code>](https://github.com/elementary/onboarding/commit/5f7cf900d3529ab2d27d3db52e24c6f9fa535182)
-- [ ] [<code>Add Updates View (#167)</code>](https://github.com/elementary/onboarding/commit/c329d25d80c13a03c9b75f4ec49d96ed8beeb34a)
-- [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/27e44679e1115ac3ea035bcfebec43b89e6cfa71)
-- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/ee598feb44f4eee4060adfbf4ad6d3289efc2fb6)
-- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/onboarding/commit/9cafa9644c259e7f77feb3a0fb0fd767b6de23e0)
-- [ ] [<code>StyleView: handle NO_PREFERENCE in switch (#172)</code>](https://github.com/elementary/onboarding/commit/78e72c0a0e40399376373f811279c08a7678ab6d)
-- [ ] [<code>Add Dark Schedule Preference (#170)</code>](https://github.com/elementary/onboarding/commit/4e3a4e6d3fb79a72ad2f0249c47793934f20cb5a)
-- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/64a35694924b6ddb2bc3bae0125f041206d3f71b)
-- [ ] [<code>Update .pot</code>](https://github.com/elementary/onboarding/commit/571d4c6739b59f0f19c825a5b80f82ebd843c463)
-- [ ] [<code>Meson: handy → adw (#169)</code>](https://github.com/elementary/onboarding/commit/b16a23ec5860f8faa00712050647000f39184783)
-- [ ] [<code>MainWindow: show all views when launching from Terminal (#173)</code>](https://github.com/elementary/onboarding/commit/6c29db2579401d49309da537a476cae11bac3900)
-- [ ] [<code>Release 7.0.0 (#168)</code>](https://github.com/elementary/onboarding/commit/cffe635cec5bb6ec6d3a89bf7744fa6b5b0446e1) <sub>Tagged: <code>7.0.0</code></sub>
 
 ### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
