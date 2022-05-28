@@ -43,6 +43,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>PackageKitBackend: don't load Ubuntu components with AppStream 0.15 (#1852)</code>](https://github.com/elementary/appcenter/commit/0a27acbfaf904d4b826a35304d4381e4a0e6c261)
 - [ ] [<code>AppInfoView: move uninstall button here (#1855)</code>](https://github.com/elementary/appcenter/commit/2fddcb0fc649839962f2fbf5c65f6661e055b668)
 - [ ] [<code>Release 3.10.0 (#1846)</code>](https://github.com/elementary/appcenter/commit/4587d57313237c3ce5d7ed121a6726deec31c01a) <sub>Tagged: <code>3.10.0</code></sub>
+- [ ] [<code>AbstractView: Replace Stack with Deck (#1769)</code>](https://github.com/elementary/appcenter/commit/02dda381b16703183cd2220dc4efde0562af42f7)
+- [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -182,6 +184,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Bundle app icon (#230)</code>](https://github.com/elementary/switchboard/commit/1010224a92c33c4a84dfb5bd737b99b930af193e)
 
 ## apps/switchboard-plugs
 
@@ -320,6 +323,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
 - [ ] [<code>Add 128px prefs-desktop-workspaces</code>](https://github.com/elementary/icons/commit/91493a45bf75824ca90a18abefe06d20f46a2046)
 - [ ] [<code>Add 128px icons for initial-setup (#1082)</code>](https://github.com/elementary/icons/commit/7ec88ef977938d202334c1a29578791800d9692d)
+- [ ] [<code>Add computer-fail color icons (#1107)</code>](https://github.com/elementary/icons/commit/af9b76f1cc3a845db09e0fc28c578268d5ef4ae0)
+- [ ] [<code>Square image missing (#1108)</code>](https://github.com/elementary/icons/commit/0415bc9ed034ffd66836af44e4db999e3d09e0c6)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
