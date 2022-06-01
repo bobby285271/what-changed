@@ -14,6 +14,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>AbstractView: Replace Stack with Deck (#1769)</code>](https://github.com/elementary/appcenter/commit/02dda381b16703183cd2220dc4efde0562af42f7)
 - [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
+- [ ] [<code>CategoryFlowBox: create Fun & Games (#1763)</code>](https://github.com/elementary/appcenter/commit/4a7a54290ec6330364dd8d844982340a15e7db82)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -44,6 +45,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Combine HeaderBar and MainWindow (#227)</code>](https://github.com/elementary/camera/commit/0e4102422fd9c7850d611a40859096c14b2368a2)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/camera/commit/8fff774d0fe6287e07298b128f842881a7a912e7)
 - [ ] [<code>Flatpak: bump to Platform 7 (#231)</code>](https://github.com/elementary/camera/commit/61da65568ed17029d6abcc41b2ea3d05b876a5bd)
+- [ ] [<code>Prepare CameraView for GTK4 (#233)</code>](https://github.com/elementary/camera/commit/78c25d334a0f1d9e47d8f56479480e1bc4d7ab24)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
