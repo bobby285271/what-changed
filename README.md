@@ -237,6 +237,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#153)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3e2b01378cbb8e666d23daeef7f40fcaa90daa45)
+- [ ] [<code>Fix notifier subscription callback (#159)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9e9f7883b8132db8d2f47fcf6e1e788be6fa133c)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
