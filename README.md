@@ -15,6 +15,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AbstractView: Replace Stack with Deck (#1769)</code>](https://github.com/elementary/appcenter/commit/02dda381b16703183cd2220dc4efde0562af42f7)
 - [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
 - [ ] [<code>CategoryFlowBox: create Fun & Games (#1763)</code>](https://github.com/elementary/appcenter/commit/4a7a54290ec6330364dd8d844982340a15e7db82)
+- [ ] [<code>Provide default case for switches (#1858)</code>](https://github.com/elementary/appcenter/commit/d5115cbe59e831e71ee92f73535a25d3483b619f)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -52,6 +53,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
+- [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
