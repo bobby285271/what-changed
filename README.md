@@ -47,6 +47,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/camera/commit/8fff774d0fe6287e07298b128f842881a7a912e7)
 - [ ] [<code>Flatpak: bump to Platform 7 (#231)</code>](https://github.com/elementary/camera/commit/61da65568ed17029d6abcc41b2ea3d05b876a5bd)
 - [ ] [<code>Prepare CameraView for GTK4 (#233)</code>](https://github.com/elementary/camera/commit/78c25d334a0f1d9e47d8f56479480e1bc4d7ab24)
+- [ ] [<code>Release 6.1.0 (#226)</code>](https://github.com/elementary/camera/commit/cd1ed71b750a020cf67fb70fa4837748255d8a49) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -135,6 +136,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Flatpak: bump to Platform 7 (#298)</code>](https://github.com/elementary/videos/commit/a0f0569f8b3bbc3b4ab5543ba434857ce97634a9)
+- [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/17e79e9b738af33ebd18ac3c30ec5e108326d454)
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -274,6 +276,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
+- [ ] [<code>Lists: fix .title-4 padding (#1208)</code>](https://github.com/elementary/stylesheet/commit/fbc805e5544ea4faf9add6d0f4d338bed0cb54ca)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -314,6 +317,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
 - [ ] [<code>Delete appcenter.hiddenapps (#268)</code>](https://github.com/elementary/default-settings/commit/8ed65c44e147ec8348cab10ab0341f2c7de35ebb)
 - [ ] [<code>debian: Do not try to install things from /etc/io.elementary.appcenter</code>](https://github.com/elementary/default-settings/commit/df1215d72b365daad2298dc1d639fb1c6427e67a)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/0b5923872f424404e2111098a52af627b9618fd5)
 
 ### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
