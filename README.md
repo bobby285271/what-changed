@@ -27,27 +27,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.0.3 → HEAD](https://github.com/elementary/camera/compare/6.0.3...HEAD)
+### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.1.0 → HEAD](https://github.com/elementary/camera/compare/6.1.0...HEAD)
 
 
 
-- [ ] [<code>HeaderBar: Fix Duplicated MenuButton declaration (#210)</code>](https://github.com/elementary/camera/commit/d573eadcd39b5a51fbd6441ba350b448d7648ec0)
-- [ ] [<code>Create Standalone application.css (#203)</code>](https://github.com/elementary/camera/commit/8e2a279e504eb0b816b3d550e6868ed93df1f60d)
-- [ ] [<code>Replace Grids with Box for GTK4 preparation (#209)</code>](https://github.com/elementary/camera/commit/8ce84d2aa280b32da28fa08c46b0c7df2c506edb)
-- [ ] [<code>Fix jpeg pipeline (#212)</code>](https://github.com/elementary/camera/commit/bb4c9e1eaef51469e562e6befce289b5822f281c)
-- [ ] [<code>Fix data/meson.build (#216)</code>](https://github.com/elementary/camera/commit/ead143b7e3246c5fa9bb37c95d491fb07cea9e04)
-- [ ] [<code>CameraView: Create the camera source using the GStreamer element (#217)</code>](https://github.com/elementary/camera/commit/17c8da76d141e441c4198c3cdeb5ab69ef16d713)
-- [ ] [<code>CameraView: Use GtkGLSink when possible (#218)</code>](https://github.com/elementary/camera/commit/1ec430abe08f2653bad45606def6622327ac5f9a)
-- [ ] [<code>CameraView: Add decodebin (#219)</code>](https://github.com/elementary/camera/commit/a713e4d4c8dcbc5feca20134aa6644c2de7e8634)
-- [ ] [<code>CameraView: limit the max rate to 30fps in the preview (#220)</code>](https://github.com/elementary/camera/commit/e391a729ff7d9162399280d13e674fd8c5775bae)
-- [ ] [<code>Ensure pipeline restarts and controls function after taking photo (#223)</code>](https://github.com/elementary/camera/commit/e43ca609e1083570839b5fcb93778625b14c2c87)
-- [ ] [<code>Take photo or video on secondary click (#204)</code>](https://github.com/elementary/camera/commit/19a9c09cfc9a41173ecdf2991047f968d6da8b16)
-- [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/eb382a14f7e110684ae7d01136f54bdda794e39b)
-- [ ] [<code>Combine HeaderBar and MainWindow (#227)</code>](https://github.com/elementary/camera/commit/0e4102422fd9c7850d611a40859096c14b2368a2)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/camera/commit/8fff774d0fe6287e07298b128f842881a7a912e7)
-- [ ] [<code>Flatpak: bump to Platform 7 (#231)</code>](https://github.com/elementary/camera/commit/61da65568ed17029d6abcc41b2ea3d05b876a5bd)
-- [ ] [<code>Prepare CameraView for GTK4 (#233)</code>](https://github.com/elementary/camera/commit/78c25d334a0f1d9e47d8f56479480e1bc4d7ab24)
-- [ ] [<code>Release 6.1.0 (#226)</code>](https://github.com/elementary/camera/commit/cd1ed71b750a020cf67fb70fa4837748255d8a49) <sub>Tagged: <code>6.1.0</code></sub>
+- [ ] [<code>Show error in case no camera device is available (#235)</code>](https://github.com/elementary/camera/commit/ccc3851b1ac63139ca279e1dceab626d9878dd0a)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
