@@ -32,6 +32,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Show error in case no camera device is available (#235)</code>](https://github.com/elementary/camera/commit/ccc3851b1ac63139ca279e1dceab626d9878dd0a)
+- [ ] [<code>Add image/jpeg caps to device filter to support MJPEG webcams (#237)</code>](https://github.com/elementary/camera/commit/2159d4142fb044f5724f883e8669726080da60ec)
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -493,6 +494,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
 - [ ] [<code>Remove Unused HeaderBar (#174)</code>](https://github.com/elementary/notifications/commit/c313a0d057714585819415700a84a1188ba1cb22)
+- [ ] [<code>AppData: Add stock icon (#175)</code>](https://github.com/elementary/notifications/commit/b1b36248eb189e9fa9565d4c4ae1c476553300fb)
+- [ ] [<code>Notification: set icon from icon name (#176)</code>](https://github.com/elementary/notifications/commit/a0f14daf7aef08b92a8f0294d4aa1ddadd2a2f50)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
