@@ -82,6 +82,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix reloading subdiredctories (#1988)</code>](https://github.com/elementary/files/commit/838fca24f7d4c3858361bc93fad700e5bf6aa7cd)
 - [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
 - [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
+- [ ] [<code>Add dialog to ask for overwrite (#1989)</code>](https://github.com/elementary/files/commit/b96171fec1c76589bc9107aed7b45fd1ea44b260)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -477,6 +478,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
+- [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
 
 ## services
 
