@@ -40,6 +40,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
 - [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
+- [ ] [<code>Fix DnD (#1194)</code>](https://github.com/elementary/code/commit/1ed7b590768ea9cb5b4658e27d9dc7ac224442ae)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
