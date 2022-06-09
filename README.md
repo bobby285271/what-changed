@@ -448,6 +448,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Clear notifications faster (#242)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a54648f396686a3e537d409e0fe22855cb650b03)
+- [ ] [<code>Load notifications without blocking (#241)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0d9914c3f78746aa347607661fa9ca648b296aae)
 
 ### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
