@@ -41,6 +41,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
 - [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
 - [ ] [<code>Fix DnD (#1194)</code>](https://github.com/elementary/code/commit/1ed7b590768ea9cb5b4658e27d9dc7ac224442ae)
+- [ ] [<code>Add flatpak build files to .gitignore (#1197)</code>](https://github.com/elementary/code/commit/8f4d1ae1fb4b579b9c811c0e855d4ea855b2914f)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -112,6 +113,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Auto refresh task lists and collections (#330)</code>](https://github.com/elementary/tasks/commit/e539366fd24b3f2430889c6979a430fb11de7c53)
+- [ ] [<code>CalDAV: Offline support for newly added task lists (#328)</code>](https://github.com/elementary/tasks/commit/249e6db403c55a12fc276528f4d8e45c3a5249ed)
 
 ### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
 
@@ -124,6 +127,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Flatpak: bump to Platform 7 (#298)</code>](https://github.com/elementary/videos/commit/a0f0569f8b3bbc3b4ab5543ba434857ce97634a9)
 - [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/17e79e9b738af33ebd18ac3c30ec5e108326d454)
+- [ ] [<code>Release 2.8.4 (#300)</code>](https://github.com/elementary/videos/commit/bda4afd47118e55913d8421a0a55ea275314c622) <sub>Tagged: <code>2.8.4</code></sub>
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -136,6 +140,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Bundle app icon (#230)</code>](https://github.com/elementary/switchboard/commit/1010224a92c33c4a84dfb5bd737b99b930af193e)
+- [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/8e2b22de107e1484269234caae1f3f0998fe7f61)
 
 ## apps/switchboard-plugs
 
@@ -313,6 +318,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
+- [ ] [<code>DBusAccelerator: Use the right prototype to expose the interface (#614)</code>](https://github.com/elementary/greeter/commit/16ee7f4dba15423dc60bf5a998fffc4eabf9c73b)
 
 ### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
@@ -375,6 +381,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WindowManager: save/restore easing on workspace switch (#1430)</code>](https://github.com/elementary/gala/commit/1f94db16c627f73af5dc69714611815e4691b5e8)
 - [ ] [<code>WindowManager: set workspace switch duration directly (#1429)</code>](https://github.com/elementary/gala/commit/87547ef50f9db312b4ebec751b55d9617b0f8f91)
 - [ ] [<code>WindowClone: explicit namespace, make internal classes private (#1433)</code>](https://github.com/elementary/gala/commit/14cdefed9d7638fb608c5fc774d03f13efd6a63f)
+- [ ] [<code>Dialogs: use computer-fail for force quit dialog (#1432)</code>](https://github.com/elementary/gala/commit/28954a6953d303f0a5aa05ed66202e4c5265ee3e)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -502,6 +509,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove Unused HeaderBar (#174)</code>](https://github.com/elementary/notifications/commit/c313a0d057714585819415700a84a1188ba1cb22)
 - [ ] [<code>AppData: Add stock icon (#175)</code>](https://github.com/elementary/notifications/commit/b1b36248eb189e9fa9565d4c4ae1c476553300fb)
 - [ ] [<code>Notification: set icon from icon name (#176)</code>](https://github.com/elementary/notifications/commit/a0f14daf7aef08b92a8f0294d4aa1ddadd2a2f50)
+- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/1ae5ead95dc784cb09636597e31aa2faf65f9c52)
+- [ ] [<code>Release 6.0.2</code>](https://github.com/elementary/notifications/commit/8f4c37ebfbbc7ee11d49f209deec293e6e1e7e93) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
