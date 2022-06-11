@@ -121,13 +121,15 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.3 → HEAD](https://github.com/elementary/videos/compare/2.8.3...HEAD)
+### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
 
 
-- [ ] [<code>Flatpak: bump to Platform 7 (#298)</code>](https://github.com/elementary/videos/commit/a0f0569f8b3bbc3b4ab5543ba434857ce97634a9)
-- [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/17e79e9b738af33ebd18ac3c30ec5e108326d454)
-- [ ] [<code>Release 2.8.4 (#300)</code>](https://github.com/elementary/videos/commit/bda4afd47118e55913d8421a0a55ea275314c622) <sub>Tagged: <code>2.8.4</code></sub>
+- [ ] [<code>Utils: Remove unused session manager interface (#307)</code>](https://github.com/elementary/videos/commit/ed6127e68507959d5ab0021b31b5032ed160149e)
+- [ ] [<code>Add SeekBar (#302)</code>](https://github.com/elementary/videos/commit/c6f7e065e0859f1db954a2ca1498817a5d64eb8d)
+- [ ] [<code>BottomBar: Remove get_preferred_width (#305)</code>](https://github.com/elementary/videos/commit/13e18c41d50fbe47f43c2c60b7d64387c7133325)
+- [ ] [<code>PlaylistItem: Grid → Box, and .menuitem (#304)</code>](https://github.com/elementary/videos/commit/f43a0305df2ac2cb6d8102ecfe670f8c8271e32c)
+- [ ] [<code>Combine SeekBar and TimeWidget (#309)</code>](https://github.com/elementary/videos/commit/fbc4f516140a16353eef9b48157a005d5805fccf)
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -141,6 +143,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Bundle app icon (#230)</code>](https://github.com/elementary/switchboard/commit/1010224a92c33c4a84dfb5bd737b99b930af193e)
 - [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/8e2b22de107e1484269234caae1f3f0998fe7f61)
+- [ ] [<code>AppData: Reorganize (#235)</code>](https://github.com/elementary/switchboard/commit/b7cff4648664eda9b70e22450523a7a9e6f1a001)
 
 ## apps/switchboard-plugs
 
@@ -336,6 +339,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>CI: remove Nix (#61)</code>](https://github.com/elementary/session-settings/commit/064adfe31abfeb8bfa1f92a435102d5c3fda224a)
+- [ ] [<code>Add systemd support (#55)</code>](https://github.com/elementary/session-settings/commit/ea1566a8d888c5e247a9ec76833973bec51461bb)
+- [ ] [<code>chore(deps): bump actions/checkout from 2 to 3 (#60)</code>](https://github.com/elementary/session-settings/commit/d71f5211ccdc4f83ee4ea06e2210ba73d32ceb97)
 
 ### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
 
@@ -501,16 +506,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.1 → HEAD](https://github.com/elementary/notifications/compare/6.0.1...HEAD)
+### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
 
 
 
-- [ ] [<code>Revert "Remove old issue templates (#136)" (#172)</code>](https://github.com/elementary/notifications/commit/95390b7a5faf7c2c418696425a4d1b8cba1a53c2)
-- [ ] [<code>Remove Unused HeaderBar (#174)</code>](https://github.com/elementary/notifications/commit/c313a0d057714585819415700a84a1188ba1cb22)
-- [ ] [<code>AppData: Add stock icon (#175)</code>](https://github.com/elementary/notifications/commit/b1b36248eb189e9fa9565d4c4ae1c476553300fb)
-- [ ] [<code>Notification: set icon from icon name (#176)</code>](https://github.com/elementary/notifications/commit/a0f14daf7aef08b92a8f0294d4aa1ddadd2a2f50)
-- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/1ae5ead95dc784cb09636597e31aa2faf65f9c52)
-- [ ] [<code>Release 6.0.2</code>](https://github.com/elementary/notifications/commit/8f4c37ebfbbc7ee11d49f209deec293e6e1e7e93) <sub>Tagged: <code>6.0.2</code></sub>
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
