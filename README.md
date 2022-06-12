@@ -130,6 +130,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>BottomBar: Remove get_preferred_width (#305)</code>](https://github.com/elementary/videos/commit/13e18c41d50fbe47f43c2c60b7d64387c7133325)
 - [ ] [<code>PlaylistItem: Grid → Box, and .menuitem (#304)</code>](https://github.com/elementary/videos/commit/f43a0305df2ac2cb6d8102ecfe670f8c8271e32c)
 - [ ] [<code>Combine SeekBar and TimeWidget (#309)</code>](https://github.com/elementary/videos/commit/fbc4f516140a16353eef9b48157a005d5805fccf)
+- [ ] [<code>Window: use more actions for keyboard shortcuts (#308)</code>](https://github.com/elementary/videos/commit/6347d6a787a7dae9ba9c26e58342ec45f5118582)
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
