@@ -131,6 +131,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>PlaylistItem: Grid → Box, and .menuitem (#304)</code>](https://github.com/elementary/videos/commit/f43a0305df2ac2cb6d8102ecfe670f8c8271e32c)
 - [ ] [<code>Combine SeekBar and TimeWidget (#309)</code>](https://github.com/elementary/videos/commit/fbc4f516140a16353eef9b48157a005d5805fccf)
 - [ ] [<code>Window: use more actions for keyboard shortcuts (#308)</code>](https://github.com/elementary/videos/commit/6347d6a787a7dae9ba9c26e58342ec45f5118582)
+- [ ] [<code>SeekBar: rewrite how progress and duration are set (#310)</code>](https://github.com/elementary/videos/commit/bde83038c729cc0468fd13f233949e0b707b1d61)
+- [ ] [<code>Git ignore flatpak build and temporary files (#311)</code>](https://github.com/elementary/videos/commit/51e832f7c13d6b200ce65c15f4e1ac8ca27ec5e6)
 
 ### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
