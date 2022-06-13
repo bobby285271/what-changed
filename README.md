@@ -344,6 +344,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>CI: remove Nix (#61)</code>](https://github.com/elementary/session-settings/commit/064adfe31abfeb8bfa1f92a435102d5c3fda224a)
 - [ ] [<code>Add systemd support (#55)</code>](https://github.com/elementary/session-settings/commit/ea1566a8d888c5e247a9ec76833973bec51461bb)
 - [ ] [<code>chore(deps): bump actions/checkout from 2 to 3 (#60)</code>](https://github.com/elementary/session-settings/commit/d71f5211ccdc4f83ee4ea06e2210ba73d32ceb97)
+- [ ] [<code>build: add systemduserunitdir option (#62)</code>](https://github.com/elementary/session-settings/commit/2a70f71f3013e360638acdf3fbb740989ac8940d)
 
 ### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
 
@@ -513,6 +514,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Appdata: Reorganize (#178)</code>](https://github.com/elementary/notifications/commit/32506dc6e054e4c12b9eb6b1410fa89d3e4ae779)
 
 ### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
