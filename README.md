@@ -85,6 +85,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
 - [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
 - [ ] [<code>Add dialog to ask for overwrite (#1989)</code>](https://github.com/elementary/files/commit/b96171fec1c76589bc9107aed7b45fd1ea44b260)
+- [ ] [<code>Paste into background folder by default (#1829)</code>](https://github.com/elementary/files/commit/a659cee8538adb00b2a9c1d0f91a32bffd677edd)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -96,6 +97,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>PlaybackManager: Use file basename for fallback audio object title (#710)</code>](https://github.com/elementary/music/commit/97a437edc7652e0b85b7d3c6fd87089c14ec02e2)
+- [ ] [<code>PlaybackManager: Skip invalid files instead of stopping playback. (#711)</code>](https://github.com/elementary/music/commit/88f332197d2131daeff3306ec2a484a28fa4db21)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
 
@@ -115,6 +117,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Auto refresh task lists and collections (#330)</code>](https://github.com/elementary/tasks/commit/e539366fd24b3f2430889c6979a430fb11de7c53)
 - [ ] [<code>CalDAV: Offline support for newly added task lists (#328)</code>](https://github.com/elementary/tasks/commit/249e6db403c55a12fc276528f4d8e45c3a5249ed)
+- [ ] [<code>Release 6.3.0 (#332)</code>](https://github.com/elementary/tasks/commit/c6316f17d31f75e9a9aee593ad0ada5137681d7a) <sub>Tagged: <code>6.3.0</code></sub>
 
 ### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
 
@@ -147,6 +150,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Bundle app icon (#230)</code>](https://github.com/elementary/switchboard/commit/1010224a92c33c4a84dfb5bd737b99b930af193e)
 - [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/8e2b22de107e1484269234caae1f3f0998fe7f61)
 - [ ] [<code>AppData: Reorganize (#235)</code>](https://github.com/elementary/switchboard/commit/b7cff4648664eda9b70e22450523a7a9e6f1a001)
+- [ ] [<code>Release 6.0.2</code>](https://github.com/elementary/switchboard/commit/84f2dbae45745692687ecca878d090edf9883246)
+- [ ] [<code>Update meson.build</code>](https://github.com/elementary/switchboard/commit/a38cb4fe0dafb35b57ad58aa45c81aa33b7bb34b) <sub>Tagged: <code>6.0.2</code></sub>
 
 ## apps/switchboard-plugs
 
