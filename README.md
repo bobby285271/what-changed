@@ -112,13 +112,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix data/meson.build (#241)</code>](https://github.com/elementary/screenshot/commit/80a5d942e813dd098e1ef0f6629b81d2ccef05ae)
 - [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
 
-### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.2.0 → HEAD](https://github.com/elementary/tasks/compare/6.2.0...HEAD)
+### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
 
 
-- [ ] [<code>Auto refresh task lists and collections (#330)</code>](https://github.com/elementary/tasks/commit/e539366fd24b3f2430889c6979a430fb11de7c53)
-- [ ] [<code>CalDAV: Offline support for newly added task lists (#328)</code>](https://github.com/elementary/tasks/commit/249e6db403c55a12fc276528f4d8e45c3a5249ed)
-- [ ] [<code>Release 6.3.0 (#332)</code>](https://github.com/elementary/tasks/commit/c6316f17d31f75e9a9aee593ad0ada5137681d7a) <sub>Tagged: <code>6.3.0</code></sub>
 
 ### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
 
@@ -144,15 +141,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 
-### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.1 → HEAD](https://github.com/elementary/switchboard/compare/6.0.1...HEAD)
+### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
 
 
-- [ ] [<code>Bundle app icon (#230)</code>](https://github.com/elementary/switchboard/commit/1010224a92c33c4a84dfb5bd737b99b930af193e)
-- [ ] [<code>Update io.elementary.switchboard.appdata.xml.in</code>](https://github.com/elementary/switchboard/commit/8e2b22de107e1484269234caae1f3f0998fe7f61)
-- [ ] [<code>AppData: Reorganize (#235)</code>](https://github.com/elementary/switchboard/commit/b7cff4648664eda9b70e22450523a7a9e6f1a001)
-- [ ] [<code>Release 6.0.2</code>](https://github.com/elementary/switchboard/commit/84f2dbae45745692687ecca878d090edf9883246)
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/switchboard/commit/a38cb4fe0dafb35b57ad58aa45c81aa33b7bb34b) <sub>Tagged: <code>6.0.2</code></sub>
 
 ## apps/switchboard-plugs
 
