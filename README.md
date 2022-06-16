@@ -86,6 +86,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
 - [ ] [<code>Add dialog to ask for overwrite (#1989)</code>](https://github.com/elementary/files/commit/b96171fec1c76589bc9107aed7b45fd1ea44b260)
 - [ ] [<code>Paste into background folder by default (#1829)</code>](https://github.com/elementary/files/commit/a659cee8538adb00b2a9c1d0f91a32bffd677edd)
+- [ ] [<code>Update appdata for next release (#2042)</code>](https://github.com/elementary/files/commit/5c878b11250783e016fb0bc7e63dae9cb4d334f7)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -247,6 +248,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#153)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3e2b01378cbb8e666d23daeef7f40fcaa90daa45)
 - [ ] [<code>Fix notifier subscription callback (#159)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9e9f7883b8132db8d2f47fcf6e1e788be6fa133c)
+- [ ] [<code>AddDialog: Show the supported language for each driver. (#158)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fb450db3cdfbb3ed029fb3a2f8b562b498ca769e)
+- [ ] [<code>Use newer add/remove list pattern (#165)</code>](https://github.com/elementary/switchboard-plug-printers/commit/d2dc37f2a996aca993b79228a5d3f923e9677343)
+- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/4531882390af399448c55244233e47eccd6fc521)
+- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/9983b37e5978446d0056154ae477ea595b903e75)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
