@@ -244,6 +244,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use newer add/remove list pattern (#165)</code>](https://github.com/elementary/switchboard-plug-printers/commit/d2dc37f2a996aca993b79228a5d3f923e9677343)
 - [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/4531882390af399448c55244233e47eccd6fc521)
 - [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/9983b37e5978446d0056154ae477ea595b903e75)
+- [ ] [<code>InkLevel: Add labels, modernize code (#166)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96109a358457d0145bff0b66186717825d2f1a07)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
@@ -279,6 +280,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
 - [ ] [<code>Lists: fix .title-4 padding (#1208)</code>](https://github.com/elementary/stylesheet/commit/fbc805e5544ea4faf9add6d0f4d338bed0cb54ca)
+- [ ] [<code>Headerbars: fix spacing (#1210)</code>](https://github.com/elementary/stylesheet/commit/1e9d2fb612417ec3ee29f28a6b0306e731632106)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -538,6 +540,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>make --verbose works (#50)</code>](https://github.com/elementary/portals/commit/569b81bf4870ade713a4e0e60f4c930b7ff27826)
+- [ ] [<code>Updates for ExternalWindow (#54)</code>](https://github.com/elementary/portals/commit/300563116bde8b33d92b1e312f35761d6bfb9e23)
 
 ## repos
 
