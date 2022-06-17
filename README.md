@@ -501,6 +501,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
 - [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
+- [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
 
 ## services
 
