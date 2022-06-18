@@ -87,6 +87,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add dialog to ask for overwrite (#1989)</code>](https://github.com/elementary/files/commit/b96171fec1c76589bc9107aed7b45fd1ea44b260)
 - [ ] [<code>Paste into background folder by default (#1829)</code>](https://github.com/elementary/files/commit/a659cee8538adb00b2a9c1d0f91a32bffd677edd)
 - [ ] [<code>Update appdata for next release (#2042)</code>](https://github.com/elementary/files/commit/5c878b11250783e016fb0bc7e63dae9cb4d334f7)
+- [ ] [<code>Release 6.1.3 (#2043)</code>](https://github.com/elementary/files/commit/b12cc4de4aedb6d671a57ad146f38a40bd582f44) <sub>Tagged: <code>6.1.3</code></sub>
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -295,6 +296,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add 128px icons for initial-setup (#1082)</code>](https://github.com/elementary/icons/commit/7ec88ef977938d202334c1a29578791800d9692d)
 - [ ] [<code>Add computer-fail color icons (#1107)</code>](https://github.com/elementary/icons/commit/af9b76f1cc3a845db09e0fc28c578268d5ef4ae0)
 - [ ] [<code>Square image missing (#1108)</code>](https://github.com/elementary/icons/commit/0415bc9ed034ffd66836af44e4db999e3d09e0c6)
+- [ ] [<code>Update Flatpak branding (#1114)</code>](https://github.com/elementary/icons/commit/97ae604ea404b772c06d7e9da8ce2e2072554d6b)
+- [ ] [<code>Actions: update squares for document-* (#1112)</code>](https://github.com/elementary/icons/commit/5b311c312767d49db834c8d3b9534c0a1c9bc1b7)
+- [ ] [<code>Categories: prefs-desktop-wallpaper → prefs-desktop (#1109)</code>](https://github.com/elementary/icons/commit/bc2afafaa0d4a3f05306440c4368944bcf3a9d92)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
