@@ -58,36 +58,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.2 → HEAD](https://github.com/elementary/files/compare/6.1.2...HEAD)
+### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.3 → HEAD](https://github.com/elementary/files/compare/6.1.3...HEAD)
 
 
 
-- [ ] [<code>Remove references to Granite.Services.Logger (deprecated) (#1998)</code>](https://github.com/elementary/files/commit/a1ef156f517c22637d136b9fac76ef753c71d2d3)
-- [ ] [<code>Correctly add network plugin item (#2007)</code>](https://github.com/elementary/files/commit/a621f1c5622b6d2d46391a63cc625bf56b9a147a)
-- [ ] [<code>Make trash bookmark permanent (no remove option) (#2014)</code>](https://github.com/elementary/files/commit/e124ad85ec53ccf17d30e823cae01728fdf04ce5)
-- [ ] [<code>Drop unnecessary Config.TERMINAL_NAME check (#2019)</code>](https://github.com/elementary/files/commit/ecac4870807ee8256e68c2faed5d904edfed6b97)
-- [ ] [<code>Action match pointer (#1910)</code>](https://github.com/elementary/files/commit/3f897081e59c71c81dac311e641784f67d7b885c)
-- [ ] [<code>Ensure cursor follows selection with mouse (#1951)</code>](https://github.com/elementary/files/commit/7a3f8788bab8b980352d02a53f1237a113fdd5b9)
-- [ ] [<code>Disable view actions when renaming (#1962)</code>](https://github.com/elementary/files/commit/be5944b8bdd863c888dfe29efb974b337ee9e3be)
-- [ ] [<code>Remove references to Granite (#2025)</code>](https://github.com/elementary/files/commit/9dd4c8eb7a79786bb8056ed8499acf5620968430)
-- [ ] [<code>Directory.vala: Handle all FileMonitorEvents (#2026)</code>](https://github.com/elementary/files/commit/b34edd4c2e894dc2863bdfb3a44221cee3c2eb36)
-- [ ] [<code>No access event struct (#2027)</code>](https://github.com/elementary/files/commit/f736c8cb2870c5b7fd1582bbe7c0c31310e0bc3a)
-- [ ] [<code>Access button child directly to set align (#2031)</code>](https://github.com/elementary/files/commit/0bc9968cac07f8eee90b286e2a1a27c4c30b9737)
-- [ ] [<code>Move key translation to a utility (#2028)</code>](https://github.com/elementary/files/commit/3e5e9ee8d08cf022180dd18dca59468d158e780e)
-- [ ] [<code>Check for null slot before mode change</code>](https://github.com/elementary/files/commit/80520873aeaec2ba04cda78242ac05e41a492b3d)
-- [ ] [<code>Ignore action view mode if no current tab</code>](https://github.com/elementary/files/commit/87f33f5dfb6ecc26f184c2b2275c3f6450f16961)
-- [ ] [<code>Remove unused function</code>](https://github.com/elementary/files/commit/b079a43a7ba025fb96193efe90016dd7e811d963)
-- [ ] [<code>Ignore rename with same name (#2038)</code>](https://github.com/elementary/files/commit/3c39cca72e996307029104049e9eb48d5e59e5fa)
-- [ ] [<code>Add next release appdata (#2039)</code>](https://github.com/elementary/files/commit/50109a48f6f22247dad9d2cee24429cbc3f45c98)
-- [ ] [<code>Remove faulty check blocking pre-selection (#2030)</code>](https://github.com/elementary/files/commit/34ace09c2676c6c46efd3745fb38df1ad62a8621)
-- [ ] [<code>Ensure view destroyed with associated slot (#2002)</code>](https://github.com/elementary/files/commit/ae140487be0334c440bb73acc4f1a4f271d642e7)
-- [ ] [<code>Fix reloading subdiredctories (#1988)</code>](https://github.com/elementary/files/commit/838fca24f7d4c3858361bc93fad700e5bf6aa7cd)
-- [ ] [<code>Sidebar.BookmarkRow: Explicitly highlight drop target (#1914)</code>](https://github.com/elementary/files/commit/1b1e53cfdce4f55dd6c36fc1aeb4a41d56fef629)
-- [ ] [<code>Stop breadcrumbs cancelling directory objects (#2001)</code>](https://github.com/elementary/files/commit/6754eecb6040e7f6263af678c6a729aba1b2399d)
-- [ ] [<code>Add dialog to ask for overwrite (#1989)</code>](https://github.com/elementary/files/commit/b96171fec1c76589bc9107aed7b45fd1ea44b260)
-- [ ] [<code>Paste into background folder by default (#1829)</code>](https://github.com/elementary/files/commit/a659cee8538adb00b2a9c1d0f91a32bffd677edd)
-- [ ] [<code>Update appdata for next release (#2042)</code>](https://github.com/elementary/files/commit/5c878b11250783e016fb0bc7e63dae9cb4d334f7)
-- [ ] [<code>Release 6.1.3 (#2043)</code>](https://github.com/elementary/files/commit/b12cc4de4aedb6d671a57ad146f38a40bd582f44) <sub>Tagged: <code>6.1.3</code></sub>
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
