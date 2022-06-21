@@ -16,6 +16,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
 - [ ] [<code>CategoryFlowBox: create Fun & Games (#1763)</code>](https://github.com/elementary/appcenter/commit/4a7a54290ec6330364dd8d844982340a15e7db82)
 - [ ] [<code>Provide default case for switches (#1858)</code>](https://github.com/elementary/appcenter/commit/d5115cbe59e831e71ee92f73535a25d3483b619f)
+- [ ] [<code>AppListUpdateView: move list population from InstalledView to here (#1860)</code>](https://github.com/elementary/appcenter/commit/3676d6687af2f097529dde88b8df2b28d740f636)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -225,6 +226,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
 
 ### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
@@ -480,6 +482,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
 - [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
 - [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
+- [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
 
 ## services
 
