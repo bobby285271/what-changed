@@ -275,6 +275,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update Flatpak branding (#1114)</code>](https://github.com/elementary/icons/commit/97ae604ea404b772c06d7e9da8ce2e2072554d6b)
 - [ ] [<code>Actions: update squares for document-* (#1112)</code>](https://github.com/elementary/icons/commit/5b311c312767d49db834c8d3b9534c0a1c9bc1b7)
 - [ ] [<code>Categories: prefs-desktop-wallpaper → prefs-desktop (#1109)</code>](https://github.com/elementary/icons/commit/bc2afafaa0d4a3f05306440c4368944bcf3a9d92)
+- [ ] [<code>Remove apps/office-address-book (#1117)</code>](https://github.com/elementary/icons/commit/04fafeee8d3582ae58af19acdbe6d97097cdc039)
+- [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
