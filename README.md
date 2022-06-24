@@ -280,6 +280,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove apps/office-address-book (#1117)</code>](https://github.com/elementary/icons/commit/04fafeee8d3582ae58af19acdbe6d97097cdc039)
 - [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
 - [ ] [<code>Mime links (#1115)</code>](https://github.com/elementary/icons/commit/bee5165a20028c86a3f28cf8f4467615edae9f7e)
+- [ ] [<code>FileTypes: Fix incorrect SVG symlink (#1124)</code>](https://github.com/elementary/icons/commit/eb811dc79f51e506d1e33cb2354741c88f010cf5)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
