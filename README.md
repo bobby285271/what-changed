@@ -221,6 +221,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/4531882390af399448c55244233e47eccd6fc521)
 - [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/9983b37e5978446d0056154ae477ea595b903e75)
 - [ ] [<code>InkLevel: Add labels, modernize code (#166)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96109a358457d0145bff0b66186717825d2f1a07)
+- [ ] [<code>Sync job status (#169)</code>](https://github.com/elementary/switchboard-plug-printers/commit/390904821f2b01c2be26312bc2b41246506682c9)
+- [ ] [<code>Simplify and use CUPSNotifier to update printer state (#168)</code>](https://github.com/elementary/switchboard-plug-printers/commit/905b088228f0706d8a4442b9c310e058c18b70fd)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
@@ -277,6 +279,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Categories: prefs-desktop-wallpaper → prefs-desktop (#1109)</code>](https://github.com/elementary/icons/commit/bc2afafaa0d4a3f05306440c4368944bcf3a9d92)
 - [ ] [<code>Remove apps/office-address-book (#1117)</code>](https://github.com/elementary/icons/commit/04fafeee8d3582ae58af19acdbe6d97097cdc039)
 - [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
+- [ ] [<code>Mime links (#1115)</code>](https://github.com/elementary/icons/commit/bee5165a20028c86a3f28cf8f4467615edae9f7e)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
