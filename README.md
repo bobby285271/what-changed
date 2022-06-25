@@ -223,6 +223,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>InkLevel: Add labels, modernize code (#166)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96109a358457d0145bff0b66186717825d2f1a07)
 - [ ] [<code>Sync job status (#169)</code>](https://github.com/elementary/switchboard-plug-printers/commit/390904821f2b01c2be26312bc2b41246506682c9)
 - [ ] [<code>Simplify and use CUPSNotifier to update printer state (#168)</code>](https://github.com/elementary/switchboard-plug-printers/commit/905b088228f0706d8a4442b9c310e058c18b70fd)
+- [ ] [<code>JobRow: Redesign and code clean (#171)</code>](https://github.com/elementary/switchboard-plug-printers/commit/111e39f956415d58b04feb1347ac2e81bc3def4f)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
