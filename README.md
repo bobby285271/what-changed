@@ -281,6 +281,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
 - [ ] [<code>Mime links (#1115)</code>](https://github.com/elementary/icons/commit/bee5165a20028c86a3f28cf8f4467615edae9f7e)
 - [ ] [<code>FileTypes: Fix incorrect SVG symlink (#1124)</code>](https://github.com/elementary/icons/commit/eb811dc79f51e506d1e33cb2354741c88f010cf5)
+- [ ] [<code>Categories: update preferences-desktop-keyboard (#1110)</code>](https://github.com/elementary/icons/commit/1a0968952ab13b8cc35622fc909c9c1ee89a5505)
+- [ ] [<code>Mimes sharedlib (#1119)</code>](https://github.com/elementary/icons/commit/5b201de87cfe5a7d167a4616f31ad9da1d007db3)
+- [ ] [<code>FileTypes: update markdown icon (#1120)</code>](https://github.com/elementary/icons/commit/b367d11740b68dcf2870844f07bebc4e1e30b557)
+- [ ] [<code>Status: add 16px process-completed (#1121)</code>](https://github.com/elementary/icons/commit/93e73327205ae9b606559efea1a2d020558a5339)
+- [ ] [<code>Status: add process-paused (#1122)</code>](https://github.com/elementary/icons/commit/1576a7d2b16ba2e8e71fad1e138a603e2eaa098a)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
