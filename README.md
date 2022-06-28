@@ -262,6 +262,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
 - [ ] [<code>Lists: fix .title-4 padding (#1208)</code>](https://github.com/elementary/stylesheet/commit/fbc805e5544ea4faf9add6d0f4d338bed0cb54ca)
 - [ ] [<code>Headerbars: fix spacing (#1210)</code>](https://github.com/elementary/stylesheet/commit/1e9d2fb612417ec3ee29f28a6b0306e731632106)
+- [ ] [<code>Button: inherited label properties (#1214)</code>](https://github.com/elementary/stylesheet/commit/bbc21c83de3d5fe89370f74b371b51a8c3dac689)
+- [ ] [<code>Infobars: fix button margin when no close (#1213)</code>](https://github.com/elementary/stylesheet/commit/cf94c760935ebb5614a0b10097feb9e3f132bd50)
+- [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -288,6 +291,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>FileTypes: update markdown icon (#1120)</code>](https://github.com/elementary/icons/commit/b367d11740b68dcf2870844f07bebc4e1e30b557)
 - [ ] [<code>Status: add 16px process-completed (#1121)</code>](https://github.com/elementary/icons/commit/93e73327205ae9b606559efea1a2d020558a5339)
 - [ ] [<code>Status: add process-paused (#1122)</code>](https://github.com/elementary/icons/commit/1576a7d2b16ba2e8e71fad1e138a603e2eaa098a)
+- [ ] [<code>FileTypes: Use new arrow shape (#1062)</code>](https://github.com/elementary/icons/commit/e738e71bc909239b9508d72c62d4f92d562456da)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
