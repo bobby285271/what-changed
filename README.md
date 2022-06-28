@@ -63,6 +63,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>IconRenderer: thumbnail backgrounds are always iconsize (#2056)</code>](https://github.com/elementary/files/commit/3a99cb0fddd4d9be8d3568f0be72873711e18ac5)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
