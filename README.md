@@ -98,6 +98,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Simplify handling of themes (#661)</code>](https://github.com/elementary/terminal/commit/c1f6419cd0f31919f653741b3357528ee84c9c6a)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -225,6 +226,11 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Sync job status (#169)</code>](https://github.com/elementary/switchboard-plug-printers/commit/390904821f2b01c2be26312bc2b41246506682c9)
 - [ ] [<code>Simplify and use CUPSNotifier to update printer state (#168)</code>](https://github.com/elementary/switchboard-plug-printers/commit/905b088228f0706d8a4442b9c310e058c18b70fd)
 - [ ] [<code>JobRow: Redesign and code clean (#171)</code>](https://github.com/elementary/switchboard-plug-printers/commit/111e39f956415d58b04feb1347ac2e81bc3def4f)
+- [ ] [<code>Allow pausing and canceling pending jobs (#174)</code>](https://github.com/elementary/switchboard-plug-printers/commit/c0972bed9b3bcf01b53f0b3e7ec1e71e9e5c9fdb)
+- [ ] [<code>InkLevel: use flowbox for ink levels (#173)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3c23550ae96f57c9a924cfde291f8f9fecfb7996)
+- [ ] [<code>Add button to clear queue (#163)</code>](https://github.com/elementary/switchboard-plug-printers/commit/6d07941000fc077aae6563f5a1faefeb32504965)
+- [ ] [<code>Move clear button into the queue (#175)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ae32a14cd2c59e3346c8c7667e9921e49c3171a1)
+- [ ] [<code>Pause before purge (#176)</code>](https://github.com/elementary/switchboard-plug-printers/commit/193c87418ddbb3e2721ff1d73777eaee32876680)
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
@@ -292,6 +298,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Status: add 16px process-completed (#1121)</code>](https://github.com/elementary/icons/commit/93e73327205ae9b606559efea1a2d020558a5339)
 - [ ] [<code>Status: add process-paused (#1122)</code>](https://github.com/elementary/icons/commit/1576a7d2b16ba2e8e71fad1e138a603e2eaa098a)
 - [ ] [<code>FileTypes: Use new arrow shape (#1062)</code>](https://github.com/elementary/icons/commit/e738e71bc909239b9508d72c62d4f92d562456da)
+- [ ] [<code>Update media stop icon (#1085)</code>](https://github.com/elementary/icons/commit/a3a78b5819b802ed254343f7aec5dc77459d8c1d)
+- [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
 
 ### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
