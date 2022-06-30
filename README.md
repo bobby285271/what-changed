@@ -231,6 +231,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add button to clear queue (#163)</code>](https://github.com/elementary/switchboard-plug-printers/commit/6d07941000fc077aae6563f5a1faefeb32504965)
 - [ ] [<code>Move clear button into the queue (#175)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ae32a14cd2c59e3346c8c7667e9921e49c3171a1)
 - [ ] [<code>Pause before purge (#176)</code>](https://github.com/elementary/switchboard-plug-printers/commit/193c87418ddbb3e2721ff1d73777eaee32876680)
+- [ ] [<code>Job: Trust CUPS regarding the reported mimetype (#178)</code>](https://github.com/elementary/switchboard-plug-printers/commit/25e5cb3f2513188d84cc0830aaf0383d14030682)
+- [ ] [<code>Release 2.2.0 (#170)</code>](https://github.com/elementary/switchboard-plug-printers/commit/f6ab2011f63f8cba37561c7abe330fc1897db35c) <sub>Tagged: <code>2.2.0</code></sub>
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
