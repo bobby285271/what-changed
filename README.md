@@ -212,27 +212,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.1.10 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.1.10...HEAD)
+### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
 
 
-- [ ] [<code>l10n: Correctly setup the locales (#153)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3e2b01378cbb8e666d23daeef7f40fcaa90daa45)
-- [ ] [<code>Fix notifier subscription callback (#159)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9e9f7883b8132db8d2f47fcf6e1e788be6fa133c)
-- [ ] [<code>AddDialog: Show the supported language for each driver. (#158)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fb450db3cdfbb3ed029fb3a2f8b562b498ca769e)
-- [ ] [<code>Use newer add/remove list pattern (#165)</code>](https://github.com/elementary/switchboard-plug-printers/commit/d2dc37f2a996aca993b79228a5d3f923e9677343)
-- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/4531882390af399448c55244233e47eccd6fc521)
-- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/9983b37e5978446d0056154ae477ea595b903e75)
-- [ ] [<code>InkLevel: Add labels, modernize code (#166)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96109a358457d0145bff0b66186717825d2f1a07)
-- [ ] [<code>Sync job status (#169)</code>](https://github.com/elementary/switchboard-plug-printers/commit/390904821f2b01c2be26312bc2b41246506682c9)
-- [ ] [<code>Simplify and use CUPSNotifier to update printer state (#168)</code>](https://github.com/elementary/switchboard-plug-printers/commit/905b088228f0706d8a4442b9c310e058c18b70fd)
-- [ ] [<code>JobRow: Redesign and code clean (#171)</code>](https://github.com/elementary/switchboard-plug-printers/commit/111e39f956415d58b04feb1347ac2e81bc3def4f)
-- [ ] [<code>Allow pausing and canceling pending jobs (#174)</code>](https://github.com/elementary/switchboard-plug-printers/commit/c0972bed9b3bcf01b53f0b3e7ec1e71e9e5c9fdb)
-- [ ] [<code>InkLevel: use flowbox for ink levels (#173)</code>](https://github.com/elementary/switchboard-plug-printers/commit/3c23550ae96f57c9a924cfde291f8f9fecfb7996)
-- [ ] [<code>Add button to clear queue (#163)</code>](https://github.com/elementary/switchboard-plug-printers/commit/6d07941000fc077aae6563f5a1faefeb32504965)
-- [ ] [<code>Move clear button into the queue (#175)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ae32a14cd2c59e3346c8c7667e9921e49c3171a1)
-- [ ] [<code>Pause before purge (#176)</code>](https://github.com/elementary/switchboard-plug-printers/commit/193c87418ddbb3e2721ff1d73777eaee32876680)
-- [ ] [<code>Job: Trust CUPS regarding the reported mimetype (#178)</code>](https://github.com/elementary/switchboard-plug-printers/commit/25e5cb3f2513188d84cc0830aaf0383d14030682)
-- [ ] [<code>Release 2.2.0 (#170)</code>](https://github.com/elementary/switchboard-plug-printers/commit/f6ab2011f63f8cba37561c7abe330fc1897db35c) <sub>Tagged: <code>2.2.0</code></sub>
 
 ### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
@@ -461,6 +444,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add WPA3 support (#248)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b798147eec61cc1d62f37160a2fc610a84a62853)
 - [ ] [<code>Fix tooltip showing stale disconnected lable on first boot (#249)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/375e8d3da6a9d3b268b46adbf19ca6c70ff2b4bd)
 - [ ] [<code>Update network.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/77defc66a59a46cce0d84c2573b691e4ca801aec)
+- [ ] [<code>Release 2.3.3</code>](https://github.com/elementary/wingpanel-indicator-network/commit/a7f300b77036fceb6c65b2fa4b7ca0ff3826ebb2)
+- [ ] [<code>Update meson.build</code>](https://github.com/elementary/wingpanel-indicator-network/commit/a6e16bdca06543b4563b6bc79510a7771c525014) <sub>Tagged: <code>2.3.3</code></sub>
 
 ### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
