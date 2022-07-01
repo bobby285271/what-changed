@@ -460,6 +460,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>VpnMenuItem: Avoid to call method of a possibly null connection object (#243)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0a4ab109091519c325e3bcaa42725911ce0f9e11)
 - [ ] [<code>Add WPA3 support (#248)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b798147eec61cc1d62f37160a2fc610a84a62853)
 - [ ] [<code>Fix tooltip showing stale disconnected lable on first boot (#249)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/375e8d3da6a9d3b268b46adbf19ca6c70ff2b4bd)
+- [ ] [<code>Update network.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/77defc66a59a46cce0d84c2573b691e4ca801aec)
 
 ### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
