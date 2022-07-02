@@ -206,6 +206,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Appearance: re-layout to use more vertical space (#307)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/972febf33021b3f90cdef12005354b37c5081c71)
+- [ ] [<code>Multitasking: redesign (#310)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/fae9ebf46689e63faa9ad63d405d2936407f65b0)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -435,17 +436,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>l10n: Correctly setup the locales (#110)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ea5df2f62a99a216ee5ed137268e710490a852a4)
 
-### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.2 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.2...HEAD)
+### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
 
 
-- [ ] [<code>AppData: Fix a typo (#242)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1d221a5c24b19df347a567c3de9a527fb213a3fa)
-- [ ] [<code>VpnMenuItem: Avoid to call method of a possibly null connection object (#243)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0a4ab109091519c325e3bcaa42725911ce0f9e11)
-- [ ] [<code>Add WPA3 support (#248)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b798147eec61cc1d62f37160a2fc610a84a62853)
-- [ ] [<code>Fix tooltip showing stale disconnected lable on first boot (#249)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/375e8d3da6a9d3b268b46adbf19ca6c70ff2b4bd)
-- [ ] [<code>Update network.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/77defc66a59a46cce0d84c2573b691e4ca801aec)
-- [ ] [<code>Release 2.3.3</code>](https://github.com/elementary/wingpanel-indicator-network/commit/a7f300b77036fceb6c65b2fa4b7ca0ff3826ebb2)
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/wingpanel-indicator-network/commit/a6e16bdca06543b4563b6bc79510a7771c525014) <sub>Tagged: <code>2.3.3</code></sub>
 
 ### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
