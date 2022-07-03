@@ -104,6 +104,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Simplify handling of themes (#661)</code>](https://github.com/elementary/terminal/commit/c1f6419cd0f31919f653741b3357528ee84c9c6a)
+- [ ] [<code>Perpetuate custom theme (#663)</code>](https://github.com/elementary/terminal/commit/2a81a7103799e96cf3d98f6831bfc31217dafa8a)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -196,6 +197,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Add WPA3 support (#334)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fc8e97e939b9ab1d392aacc84764ae8d0f311c6)
 - [ ] [<code>Update io.elementary.switchboard.network.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/b4e997ce0d1c2145c4c23799e19b34c4eb78f272)
+- [ ] [<code>Release 2.4.3 (#336)</code>](https://github.com/elementary/switchboard-plug-network/commit/ad47f912ea3faea86e9ec6f07a6c55a458e0f545) <sub>Tagged: <code>2.4.3</code></sub>
 
 ### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -215,6 +217,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Appearance: re-layout to use more vertical space (#307)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/972febf33021b3f90cdef12005354b37c5081c71)
 - [ ] [<code>Multitasking: redesign (#310)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/fae9ebf46689e63faa9ad63d405d2936407f65b0)
 - [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7d61c8e48a924daf57c8607fc1b88acdb0550e51)
+- [ ] [<code>Release 6.2.0 (#313)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/213fdac7b6c7d10a1baee4ed6a7dab9185362553) <sub>Tagged: <code>6.2.0</code></sub>
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
