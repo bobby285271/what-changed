@@ -34,6 +34,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Show error in case no camera device is available (#235)</code>](https://github.com/elementary/camera/commit/ccc3851b1ac63139ca279e1dceab626d9878dd0a)
 - [ ] [<code>Add image/jpeg caps to device filter to support MJPEG webcams (#237)</code>](https://github.com/elementary/camera/commit/2159d4142fb044f5724f883e8669726080da60ec)
+- [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6a24495fe2f399b7100184b08f9bdb2b4ae873b6)
+- [ ] [<code>Release 6.2.0 (#240)</code>](https://github.com/elementary/camera/commit/c1daf7f6401ebc169fe398fde53a3dc912086708) <sub>Tagged: <code>6.2.0</code></sub>
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -64,6 +66,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>IconRenderer: thumbnail backgrounds are always iconsize (#2056)</code>](https://github.com/elementary/files/commit/3a99cb0fddd4d9be8d3568f0be72873711e18ac5)
+- [ ] [<code>Fix getting scroll direction and deltas without accessing event struct (#2058)</code>](https://github.com/elementary/files/commit/7a6d706c0b20987e71205eabf880d0e62096b08b)
+- [ ] [<code>Release 6.1.4 (#2060)</code>](https://github.com/elementary/files/commit/ae96e39337bc570463010a8c7ede51432722d721) <sub>Tagged: <code>6.1.4</code></sub>
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -81,6 +85,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Add Photo Viewer icons (#716)</code>](https://github.com/elementary/photos/commit/80ac13731ea1ed32f90293929a08bc138fe4d111)
 
 ### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -118,6 +123,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
+- [ ] [<code>Icons: update to new Flatpak brand (#141)</code>](https://github.com/elementary/sideload/commit/44244a083e47deefde4991d4462136e100702335)
 
 ### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -189,6 +195,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Add WPA3 support (#334)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fc8e97e939b9ab1d392aacc84764ae8d0f311c6)
+- [ ] [<code>Update io.elementary.switchboard.network.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/b4e997ce0d1c2145c4c23799e19b34c4eb78f272)
 
 ### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -207,6 +214,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Appearance: re-layout to use more vertical space (#307)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/972febf33021b3f90cdef12005354b37c5081c71)
 - [ ] [<code>Multitasking: redesign (#310)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/fae9ebf46689e63faa9ad63d405d2936407f65b0)
+- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7d61c8e48a924daf57c8607fc1b88acdb0550e51)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
