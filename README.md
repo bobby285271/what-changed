@@ -28,14 +28,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.1.0 → HEAD](https://github.com/elementary/camera/compare/6.1.0...HEAD)
+### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
 
 
-- [ ] [<code>Show error in case no camera device is available (#235)</code>](https://github.com/elementary/camera/commit/ccc3851b1ac63139ca279e1dceab626d9878dd0a)
-- [ ] [<code>Add image/jpeg caps to device filter to support MJPEG webcams (#237)</code>](https://github.com/elementary/camera/commit/2159d4142fb044f5724f883e8669726080da60ec)
-- [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6a24495fe2f399b7100184b08f9bdb2b4ae873b6)
-- [ ] [<code>Release 6.2.0 (#240)</code>](https://github.com/elementary/camera/commit/c1daf7f6401ebc169fe398fde53a3dc912086708) <sub>Tagged: <code>6.2.0</code></sub>
 
 ### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -61,13 +57,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.3 → HEAD](https://github.com/elementary/files/compare/6.1.3...HEAD)
+### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
 
 
 
-- [ ] [<code>IconRenderer: thumbnail backgrounds are always iconsize (#2056)</code>](https://github.com/elementary/files/commit/3a99cb0fddd4d9be8d3568f0be72873711e18ac5)
-- [ ] [<code>Fix getting scroll direction and deltas without accessing event struct (#2058)</code>](https://github.com/elementary/files/commit/7a6d706c0b20987e71205eabf880d0e62096b08b)
-- [ ] [<code>Release 6.1.4 (#2060)</code>](https://github.com/elementary/files/commit/ae96e39337bc570463010a8c7ede51432722d721) <sub>Tagged: <code>6.1.4</code></sub>
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -191,13 +184,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e4e2befcca9112ae57e7a3f56cc2c2851de52a7b)
 - [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e) <sub>Tagged: <code>7.0.0</code></sub>
 
-### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.2 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.2...HEAD)
+### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
 
 
-- [ ] [<code>Add WPA3 support (#334)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fc8e97e939b9ab1d392aacc84764ae8d0f311c6)
-- [ ] [<code>Update io.elementary.switchboard.network.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/b4e997ce0d1c2145c4c23799e19b34c4eb78f272)
-- [ ] [<code>Release 2.4.3 (#336)</code>](https://github.com/elementary/switchboard-plug-network/commit/ad47f912ea3faea86e9ec6f07a6c55a458e0f545) <sub>Tagged: <code>2.4.3</code></sub>
 
 ### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -210,14 +200,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.1.0...HEAD)
+### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.2.0...HEAD)
 
 
 
-- [ ] [<code>Appearance: re-layout to use more vertical space (#307)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/972febf33021b3f90cdef12005354b37c5081c71)
-- [ ] [<code>Multitasking: redesign (#310)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/fae9ebf46689e63faa9ad63d405d2936407f65b0)
-- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7d61c8e48a924daf57c8607fc1b88acdb0550e51)
-- [ ] [<code>Release 6.2.0 (#313)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/213fdac7b6c7d10a1baee4ed6a7dab9185362553) <sub>Tagged: <code>6.2.0</code></sub>
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -254,6 +240,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>l10n: Correctly setup the locales (#29)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2a7dee180d73ffb3521d806efb7028f5a71cb511)
 - [ ] [<code>Update io.elementary.switchboard.wacom.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9a0b941e88347af9b71e45b5092905361e922267)
 - [ ] [<code>README: Remove WIP (#28)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1bf7b5ccc6c683c5e5efb36e48e595fe8cf4bce7)
+- [ ] [<code>Release 1.0.1 (#32)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/713085c2d57368e13e12e5df8c0392a3c34cf1bb) <sub>Tagged: <code>1.0.1</code></sub>
 
 ## artwork
 
@@ -468,6 +455,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Clear notifications faster (#242)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a54648f396686a3e537d409e0fe22855cb650b03)
 - [ ] [<code>Load notifications without blocking (#241)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0d9914c3f78746aa347607661fa9ca648b296aae)
+- [ ] [<code>Release 6.0.5 (#247)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c6257d53241c0838da4ecd330febc329ff12d896) <sub>Tagged: <code>6.0.5</code></sub>
 
 ### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
