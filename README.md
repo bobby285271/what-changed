@@ -232,15 +232,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
-### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.0...HEAD)
+### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
 
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d2bb5364b2f8219fa73b4543b157407dba330eca)
-- [ ] [<code>l10n: Correctly setup the locales (#29)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2a7dee180d73ffb3521d806efb7028f5a71cb511)
-- [ ] [<code>Update io.elementary.switchboard.wacom.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9a0b941e88347af9b71e45b5092905361e922267)
-- [ ] [<code>README: Remove WIP (#28)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1bf7b5ccc6c683c5e5efb36e48e595fe8cf4bce7)
-- [ ] [<code>Release 1.0.1 (#32)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/713085c2d57368e13e12e5df8c0392a3c34cf1bb) <sub>Tagged: <code>1.0.1</code></sub>
 
 ## artwork
 
@@ -449,13 +444,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>po: Remove en_US (#90)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a383f68eb0c97583509b47f28452f6a0f3cc9be4)
 - [ ] [<code>l10n: Correctly setup the locales (#91)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4e15f71ed958df3569b2f1e224b9fb18613281f1)
 
-### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.4 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.4...HEAD)
+### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.5 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.5...HEAD)
 
 
 
-- [ ] [<code>Clear notifications faster (#242)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a54648f396686a3e537d409e0fe22855cb650b03)
-- [ ] [<code>Load notifications without blocking (#241)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0d9914c3f78746aa347607661fa9ca648b296aae)
-- [ ] [<code>Release 6.0.5 (#247)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c6257d53241c0838da4ecd330febc329ff12d896) <sub>Tagged: <code>6.0.5</code></sub>
 
 ### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
