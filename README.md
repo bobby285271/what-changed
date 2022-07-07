@@ -98,6 +98,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Simplify handling of themes (#661)</code>](https://github.com/elementary/terminal/commit/c1f6419cd0f31919f653741b3357528ee84c9c6a)
 - [ ] [<code>Perpetuate custom theme (#663)</code>](https://github.com/elementary/terminal/commit/2a81a7103799e96cf3d98f6831bfc31217dafa8a)
+- [ ] [<code>Add a custom theme dialog (#662)</code>](https://github.com/elementary/terminal/commit/137bbc1355ae6aa10f2372ec05a0fc4dd5821dcd)
+- [ ] [<code>ColorPreferencesDialog: Use Granite.Dialog (#664)</code>](https://github.com/elementary/terminal/commit/21c98192ad7f75275e272d49fc5241c8b9828246)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
