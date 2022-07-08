@@ -56,6 +56,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
 
 ### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
 
@@ -102,6 +103,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>ColorPreferencesDialog: Use Granite.Dialog (#664)</code>](https://github.com/elementary/terminal/commit/21c98192ad7f75275e272d49fc5241c8b9828246)
 - [ ] [<code>GSchema: change custom theme default values to Solarized Dark (#667)</code>](https://github.com/elementary/terminal/commit/6363cd2504062db11769e644113185505d68c6c2)
 - [ ] [<code>MainWindow: Style color buttons from theme (#665)</code>](https://github.com/elementary/terminal/commit/dd7ea51b66ac81dcdf22e2e2d5313895dbc42cbf)
+- [ ] [<code>Dialogs/ColorPreferences: reset to default via gsettings (#669)</code>](https://github.com/elementary/terminal/commit/6d45a974b38344d6cedf6898b60a80349146b5b6)
+- [ ] [<code>Themes: Remove opacity from default themes (#670)</code>](https://github.com/elementary/terminal/commit/74efe445c958b9ae19559de29a1d9e0c9d709acf)
+- [ ] [<code>MainWindow: Update active color button on theme change (#671)</code>](https://github.com/elementary/terminal/commit/c5215f364231f3bebfa7208fa6e37dc86406406e)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
