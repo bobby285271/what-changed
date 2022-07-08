@@ -106,6 +106,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Dialogs/ColorPreferences: reset to default via gsettings (#669)</code>](https://github.com/elementary/terminal/commit/6d45a974b38344d6cedf6898b60a80349146b5b6)
 - [ ] [<code>Themes: Remove opacity from default themes (#670)</code>](https://github.com/elementary/terminal/commit/74efe445c958b9ae19559de29a1d9e0c9d709acf)
 - [ ] [<code>MainWindow: Update active color button on theme change (#671)</code>](https://github.com/elementary/terminal/commit/c5215f364231f3bebfa7208fa6e37dc86406406e)
+- [ ] [<code>Update Solarized Palette (#672)</code>](https://github.com/elementary/terminal/commit/873068fd20098ae0065473ce49c8b768e397091e)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
