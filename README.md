@@ -74,6 +74,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>PlaybackManager: Use file basename for fallback audio object title (#710)</code>](https://github.com/elementary/music/commit/97a437edc7652e0b85b7d3c6fd87089c14ec02e2)
 - [ ] [<code>PlaybackManager: Skip invalid files instead of stopping playback. (#711)</code>](https://github.com/elementary/music/commit/88f332197d2131daeff3306ec2a484a28fa4db21)
+- [ ] [<code>Enable the NEXT button if repeat mode is set to ALL or ONE. (#712)</code>](https://github.com/elementary/music/commit/3249e3ca247dfd5ff6b14f4feeeeed63b435bcb8)
 
 ### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
 
