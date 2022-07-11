@@ -459,6 +459,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Fix operation of Clear All button (#248)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/31fd53f4f00f9094c3367808780bd980523c59d8)
 
 ### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
