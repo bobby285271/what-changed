@@ -41,6 +41,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
 - [ ] [<code>Fix DnD (#1194)</code>](https://github.com/elementary/code/commit/1ed7b590768ea9cb5b4658e27d9dc7ac224442ae)
 - [ ] [<code>Add flatpak build files to .gitignore (#1197)</code>](https://github.com/elementary/code/commit/8f4d1ae1fb4b579b9c811c0e855d4ea855b2914f)
+- [ ] [<code>Ensure tab toggle label is always correct (#1145)</code>](https://github.com/elementary/code/commit/95f037b724acc7605e749073e6b440bb93495e72)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
