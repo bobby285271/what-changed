@@ -108,6 +108,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Themes: Remove opacity from default themes (#670)</code>](https://github.com/elementary/terminal/commit/74efe445c958b9ae19559de29a1d9e0c9d709acf)
 - [ ] [<code>MainWindow: Update active color button on theme change (#671)</code>](https://github.com/elementary/terminal/commit/c5215f364231f3bebfa7208fa6e37dc86406406e)
 - [ ] [<code>Update Solarized Palette (#672)</code>](https://github.com/elementary/terminal/commit/873068fd20098ae0065473ce49c8b768e397091e)
+- [ ] [<code>Add "Follow System Style" toggle (#666)</code>](https://github.com/elementary/terminal/commit/b283212064b536586dac888b454d629b58e540ce)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -157,6 +158,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>l10n: Correctly setup the locales (#182)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/031dd5660b4bcb0bb4e82ebe6d8bcdaa1791c385)
+- [ ] [<code>Inhibit application closing until discovery stopped (#195)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/f78b5a9a92056f518a09d6081f93bb6aba20198b)
 
 ### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -455,12 +457,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>po: Remove en_US (#90)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a383f68eb0c97583509b47f28452f6a0f3cc9be4)
 - [ ] [<code>l10n: Correctly setup the locales (#91)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4e15f71ed958df3569b2f1e224b9fb18613281f1)
 
-### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.5 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.5...HEAD)
+### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.6 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.6...HEAD)
 
 
 
-- [ ] [<code>Fix operation of Clear All button (#248)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/31fd53f4f00f9094c3367808780bd980523c59d8)
-- [ ] [<code>Release 6.0.6 (#249)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/d7457da374840466ae64af82157afe27fa6c7459) <sub>Tagged: <code>6.0.6</code></sub>
 
 ### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
