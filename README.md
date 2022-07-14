@@ -110,6 +110,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>MainWindow: Update active color button on theme change (#671)</code>](https://github.com/elementary/terminal/commit/c5215f364231f3bebfa7208fa6e37dc86406406e)
 - [ ] [<code>Update Solarized Palette (#672)</code>](https://github.com/elementary/terminal/commit/873068fd20098ae0065473ce49c8b768e397091e)
 - [ ] [<code>Add "Follow System Style" toggle (#666)</code>](https://github.com/elementary/terminal/commit/b283212064b536586dac888b454d629b58e540ce)
+- [ ] [<code>TerminalWidget: Connect specific settings to functions (#674)</code>](https://github.com/elementary/terminal/commit/8d05be192adf12a2dda7bf43ed02c782402368d2)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -393,6 +394,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WindowManager: set workspace switch duration directly (#1429)</code>](https://github.com/elementary/gala/commit/87547ef50f9db312b4ebec751b55d9617b0f8f91)
 - [ ] [<code>WindowClone: explicit namespace, make internal classes private (#1433)</code>](https://github.com/elementary/gala/commit/14cdefed9d7638fb608c5fc774d03f13efd6a63f)
 - [ ] [<code>Dialogs: use computer-fail for force quit dialog (#1432)</code>](https://github.com/elementary/gala/commit/28954a6953d303f0a5aa05ed66202e4c5265ee3e)
+- [ ] [<code>DBusAccelerator: Use the same version as in the greeter (#1437)</code>](https://github.com/elementary/gala/commit/6764d352394e244252859e5ef358b2ba0eabee31)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
