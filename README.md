@@ -43,6 +43,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add flatpak build files to .gitignore (#1197)</code>](https://github.com/elementary/code/commit/8f4d1ae1fb4b579b9c811c0e855d4ea855b2914f)
 - [ ] [<code>Ensure tab toggle label is always correct (#1145)</code>](https://github.com/elementary/code/commit/95f037b724acc7605e749073e6b440bb93495e72)
 - [ ] [<code>Add follow system style switch (#1202)</code>](https://github.com/elementary/code/commit/94fa089ceb8669847041ca73e3720127fc0f9e40)
+- [ ] [<code>Explicitly handle missing cases (#1199)</code>](https://github.com/elementary/code/commit/04ad197a43626ce829387aa5c22de31171a59d0e)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -69,6 +70,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
 
