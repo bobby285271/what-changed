@@ -4,12 +4,13 @@ from git import Repo
 import os
 import subprocess
 import shutil
+import sys
 
 # Pantheon updates always target the `master` branch
 nixpkgs_flakes = "github:NixOS/nixpkgs"
 work_dir = os.path.join(os.path.dirname(__file__), '.work')
-input_file = os.path.join(os.path.dirname(__file__), 'data', 'packages.list')
-output_file = os.path.join(os.path.dirname(__file__), 'README.md')
+input_file = os.path.join(os.path.dirname(__file__), 'data', rf'{sys.argv[1]}.list')
+output_file = os.path.join(os.path.dirname(__file__), rf'{sys.argv[1]}.md')
 
 # Note that we only check whether one of these strings is prefix
 # of the given commit message.
