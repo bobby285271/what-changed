@@ -7,7 +7,7 @@ import subprocess
 # Pantheon updates always target the `master` branch
 nixpkgs_flakes = "github:NixOS/nixpkgs"
 work_dir = os.path.join(os.path.dirname(__file__), '.work')
-input_file = os.path.join(os.path.dirname(__file__), 'packages.list')
+input_file = os.path.join(os.path.dirname(__file__), 'data', 'packages.list')
 output_file = os.path.join(os.path.dirname(__file__), 'README.md')
 
 # Note that we only check whether one of these strings is prefix
