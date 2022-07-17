@@ -1,7 +1,7 @@
 # Line starts with '@' will be printed to the output file.
 # Blank line or line starts with '#' will be ignored.
 
-@# what-changed
+@# What-changed (Pantheon)
 @
 @List of non-translation Pantheon changes which are *probably* not shipped by NixOS yet.
 @
