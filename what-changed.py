@@ -3,6 +3,7 @@
 from git import Repo
 import os
 import subprocess
+import shutil
 
 # Pantheon updates always target the `master` branch
 nixpkgs_flakes = "github:NixOS/nixpkgs"
@@ -86,6 +87,8 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
 
 
 def main():
+    if os.path.exists(work_dir):
+        shutil.rmtree(work_dir)
     if os.path.exists(output_file):
         os.remove(output_file)
     os.makedirs(work_dir)
