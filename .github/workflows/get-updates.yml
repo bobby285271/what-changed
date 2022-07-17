@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: 'master'
       - uses: cachix/install-nix-action@v16
       - run: sudo pip install GitPython
       - run: python3 what-changed.py ${{ matrix.pkgset }}
@@ -28,4 +30,4 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
-      - run: sleep 30
+      - run: sleep 10
