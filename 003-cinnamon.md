@@ -4,21 +4,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 ## cinnamon
 > For mint-artwork check updates manually.
 
-### [cinnamon.bulky](https://github.com/linuxmint/bulky): [1.9 → HEAD](https://github.com/linuxmint/bulky/compare/1.9...HEAD)
+### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.3 → HEAD](https://github.com/linuxmint/bulky/compare/2.3...HEAD)
 
 
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/c6f4ea3dec720b0615806e31e9c62af667a222a0)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/87d69fd5597a0fc384ab91e4791c8b0a7a286370)
-- [ ] [<code>2.0</code>](https://github.com/linuxmint/bulky/commit/10afad2f20d399f257564f7f063879a4d62ecc05) <sub>Tagged: <code>2.0</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/59d5ee9241aba9d1a001a74f33ab4b827b177746)
-- [ ] [<code>2.1</code>](https://github.com/linuxmint/bulky/commit/413f281ed458e2d76efd699629ffea9bfc0ced85) <sub>Tagged: <code>2.1</code></sub>
-- [ ] [<code>Fix issue #34 (#37)</code>](https://github.com/linuxmint/bulky/commit/bae3488fd6f6b347aef9dc09beea3de19a43814b)
-- [ ] [<code>Respect insert position when overwrite is enabled (#41)</code>](https://github.com/linuxmint/bulky/commit/594f3eb03904e6aa508a6556ae9c5ee7a8f0c7b6)
-- [ ] [<code>2.2</code>](https://github.com/linuxmint/bulky/commit/089fc2b9eb915256a4e1a21f8bf0403ed25456a1) <sub>Tagged: <code>2.2</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/3a3c854288bddb9becb6a7ca8be6f6108ac75a2c)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/ce1aaaacbf6a4510737cc42b09151a5983d23633)
-- [ ] [<code>2.3</code>](https://github.com/linuxmint/bulky/commit/8764d37c93421f855a0e6d31492069ba7be5c388) <sub>Tagged: <code>2.3</code></sub>
 
 ### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.2.0...HEAD)
 
@@ -244,7 +233,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>systray.js: Fix a couple of applets missed in bf2cce2e7016.</code>](https://github.com/linuxmint/cinnamon/commit/223ae370efb830c288d8762322f3e6396f5c2e38)
 - [ ] [<code>extensions: Allow an applet to assume more than one 'role'.</code>](https://github.com/linuxmint/cinnamon/commit/0530e1c74272c0ab5aac538d9455f144169726e1)
 - [ ] [<code>systray applet: Fix some issues when reloading icons after panel</code>](https://github.com/linuxmint/cinnamon/commit/b392b52569741a51778260d4e5e221393a4de6a8)
-- [ ] [<code>slider.js: Pass the proper arguments to _endDragging() from actor's</code>](https://github.com/linuxmint/cinnamon/commit/64d5ac65a1fd3ccc22f32d0be71a469d09338a9e) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>slider.js: Pass the proper arguments to _endDragging() from actor's</code>](https://github.com/linuxmint/cinnamon/commit/64d5ac65a1fd3ccc22f32d0be71a469d09338a9e)
+- [ ] [<code>Fix testsound volume</code>](https://github.com/linuxmint/cinnamon/commit/85d361b013bf05e2214224b20d7d065e0583fabd) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.2.0...HEAD)
 
@@ -299,13 +289,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix testsound positions in cinnamon-settings</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3bf1d7ea68e8db30e5506df6e135466813f2fa8e)
 - [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d1de49ddd5c5f41bb03e39564fd80b1fd6deb95) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
 
 
 
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-menus/commit/47275dffc81f93b6b8aa859fcf4ddb4eb61bb342)
-- [ ] [<code>Restore and update debian/ symbols file.</code>](https://github.com/linuxmint/cinnamon-menus/commit/0e337a960ca8160fd826383683375b2256891a42)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/245c7805575e2855460a0bea9ccb5f20bc3c57cc) <sub>Tagged: <code>5.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.2.0...HEAD)
 
@@ -330,13 +317,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>build: Try to find libxdo with pkgconfig, and use find_library()</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/7673a6c136ab66e3670919460a87f8887f0ba9b7)
 - [ ] [<code>Don't try to throw an error if libxdo can't be found - meson will</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/cfd87cb63316608e7f2a64f68eedcc09cc03d0da) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
 
 
-- [ ] [<code>Remove gconf code, disable docs, remove doc dependencies.</code>](https://github.com/linuxmint/cinnamon-session/commit/3b224d72bb1e2f4f9017365c124ad77b74637a5b) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-session/commit/9b488694b14e8b58f787a324a6ec0cdf7054fb40)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-session/commit/7c50001e0db8818292bf30be12abb8e4e573a021) <sub>Tagged: <code>5.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.2.0...HEAD)
 
@@ -361,18 +345,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>media keys: Get rid of deliberate delay when taking a screenshot</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/41ef633a83d6f0b2b21e5b5db9f5c4da32628977)
 - [ ] [<code>5.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4249121ab9945fccaab91c181d83ba248b53d223) <sub>Tagged: <code>5.4.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.1...HEAD)
 
 
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/fc5617b812314fd888318584605db7c8dc5a8b1e)
-- [ ] [<code>5.2.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/ca8470633589503cfab34839c5f9c86434164a17) <sub>Tagged: <code>5.2.1</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/76e5bb8ea0f323f45f4917181c6567ff412f5753)
-- [ ] [<code>5.2.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/4faa3d628821aed4388943bae276d040ee1720a9) <sub>Tagged: <code>5.2.2</code> <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-translations/commit/67fd687fa61e0d75a7cb6afa1b4e1982f2f65bb4)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/d1e63d7a7a8dbbeb19c93a3f0bf0bf4b01f217d2) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/60645febaa331ade6bf12180391122ce40ab1db0)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/46b76a40d46951288f5d6be73022715805e6fa13) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.2.0...HEAD)
 
@@ -493,24 +469,15 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>2.0.2</code>](https://github.com/linuxmint/mint-themes/commit/695285c7240c3ed63dd18562bbe169542b30c319)
 - [ ] [<code>All Cinnamon: Fix artifacts in Main menu scrollview</code>](https://github.com/linuxmint/mint-themes/commit/e7a3e06e08a29a373c7d991ac8db44e6932b9f10)
 
-### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [286eb4acdfc3e3c7 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/286eb4acdfc3e3c77572dfd0cd70ffd4208d3a35...HEAD)
+### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
 
 
-- [ ] [<code>1.6.4</code>](https://github.com/linuxmint/mint-x-icons/commit/4ab3c314db1b3751d87d5769629b28ac0ca3c671)
 
-### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [9489bd161e9503d0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/9489bd161e9503d071227dd36057386a34cfc0a3...HEAD)
-
+### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [6294c4538a08a2a6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/6294c4538a08a2a6c5fd68e223472d9c144ff8b0...HEAD)
 
 
-- [ ] [<code>src/render-apps-categories-bitmaps.py: Simplify parsing to work with non-Inkscape SVGs (#285)</code>](https://github.com/linuxmint/mint-y-icons/commit/351b0aa893a78b786a044eb3c62d51135634c45b)
-- [ ] [<code>Remove gradient on Firefox icon</code>](https://github.com/linuxmint/mint-y-icons/commit/e9a9058a3123e03d4b555b58e8a52c5a30545371)
-- [ ] [<code>Add generated icons for Joplin-desktop</code>](https://github.com/linuxmint/mint-y-icons/commit/60cd9a04c69ddc274795ce6bee6203da61d4503e)
-- [ ] [<code>1.5.9</code>](https://github.com/linuxmint/mint-y-icons/commit/36cdc3c1978dfd9d62469fdf8bf641b97742b7a7)
-- [ ] [<code>Fix rtl support for go-* arrow icons (#306)</code>](https://github.com/linuxmint/mint-y-icons/commit/e914a61999969783b44acfc2b643d7111497a659)
-- [ ] [<code>icons for patreon (web app) bitwarden and ask.fm (web app) (#300)</code>](https://github.com/linuxmint/mint-y-icons/commit/b5674a561863e1f1ca1ec269ee065cc370649e7b)
-- [ ] [<code>Add 3rd party app icons (#312)</code>](https://github.com/linuxmint/mint-y-icons/commit/d4d02e4e011d83468a5064d954a0da51e44fa2e7)
-- [ ] [<code>1.6.0</code>](https://github.com/linuxmint/mint-y-icons/commit/6294c4538a08a2a6c5fd68e223472d9c144ff8b0)
+
 
 ### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/5.2.0...HEAD)
 
@@ -575,116 +542,34 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>grabs: Fix restoration of window state when resize or move actions</code>](https://github.com/linuxmint/muffin/commit/de61d678c145b2702ec7416fc4e50e4a64d1b2a7)
 - [ ] [<code>window.c: If maximizing a tiled window via titlebar, use the window's</code>](https://github.com/linuxmint/muffin/commit/65e1dcd252d7332323a621eb837c2bde54b631b5)
 - [ ] [<code>compositor: Add a MetaSizeChange value for tiling.</code>](https://github.com/linuxmint/muffin/commit/c894eb8a593c68f49e04c6e030d3a313c920697e)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code></sub>
+- [ ] [<code>keybindings.c: Make sure we can tile before we attempt to (#624)</code>](https://github.com/linuxmint/muffin/commit/c3d2ef26e06ebe92486337a35670eb5c249d61ef) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.2.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.2.4...HEAD)
-
-
-
-- [ ] [<code>nemo-list-model.c: Fix crash/inconsistent model when expanding an</code>](https://github.com/linuxmint/nemo/commit/ae4049ec2bda2f3eb0a4e94b62a41bd555873038)
-- [ ] [<code>nemo-list-view.c: Use the original button-press coordinates when</code>](https://github.com/linuxmint/nemo/commit/c79ae8a014c9524588f59a5307759ea3fd56ce62)
-- [ ] [<code>nemo-action.c: Handle get_device_path() failing more gracefully.</code>](https://github.com/linuxmint/nemo/commit/1e270f8918b7f6ef68b194af86d32078a7ef8831)
-- [ ] [<code>nemo-window-manage-views.c: Only close a window when its location</code>](https://github.com/linuxmint/nemo/commit/4c09768b3ed574323d78b7ba320bf456199e637f)
-- [ ] [<code>progress handler: Tell the wm that the progress window is a</code>](https://github.com/linuxmint/nemo/commit/03666d769319636a591479d29fb482f15223604e)
-- [ ] [<code>menus: when activating File->New Window in a search results view,</code>](https://github.com/linuxmint/nemo/commit/1c99684a2b309ac8446069b19e01fae5f167ece4)
-- [ ] [<code>Don't allow toolbar buttons to gain input focus.</code>](https://github.com/linuxmint/nemo/commit/a731c11fd0a077178863e0d2368148f97fbeec89)
-- [ ] [<code>port from libnotify to GNotification</code>](https://github.com/linuxmint/nemo/commit/542313486ab56b1d2b5cb6813448da071442f555)
-- [ ] [<code>build: remove dependency on libnotify</code>](https://github.com/linuxmint/nemo/commit/4103e1177d9cfe9e4f593fcd4a8d0a62729e2c77)
-- [ ] [<code>Add !NEMO_IS_DESKTOP_WINDOW() guards to callbacks</code>](https://github.com/linuxmint/nemo/commit/214131ed02c66ba18d873e34ec9b3d50c5c6988d)
-- [ ] [<code>Add native exfat renaming support (#2967)</code>](https://github.com/linuxmint/nemo/commit/8ca3d47894222c1e848bd8fd7f2341d9209c6e43)
-- [ ] [<code>Sync sort-directories-first with gtk file chooser (#2971)</code>](https://github.com/linuxmint/nemo/commit/c271a6b32b322221808dd98f1615991ff5bfdce9)
-- [ ] [<code>Add option to disable or enable content type detection of mounted media. (#2913)</code>](https://github.com/linuxmint/nemo/commit/12081f4518d57e4cea64369af84b5d9c6fe4943e) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/nemo/commit/a9fe382e5c35c9888dd4e479e2f81e13268bd3ce)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/677fec0e201ae05f1407a399aab8cff362b73c31)
-- [ ] [<code>Add symbols file for the extension library.</code>](https://github.com/linuxmint/nemo/commit/d659e8c11284b3b18ca6bb8e15c32d4ebffd7411)
-- [ ] [<code>added nemo github url in THANKS</code>](https://github.com/linuxmint/nemo/commit/da8da684554631ba1bef0dd78d6fbf937b70214f)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/nemo/commit/1140fcf280d940c72798034046438f622ae380b4) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>Add epub search helper (#2867)</code>](https://github.com/linuxmint/nemo/commit/d5644adb7f6c163155db8cd14c91cb187296cc5e)
-- [ ] [<code>Fix installation of epub search helper.</code>](https://github.com/linuxmint/nemo/commit/84493b3a2d14e03eee9e12e4e04ef6fcf973762c)
-- [ ] [<code>icon-container: Don't free a pointer after it has already been freed</code>](https://github.com/linuxmint/nemo/commit/72f2fa785efc8fd432eb2bd843b75287ae1adc1c)
-- [ ] [<code>Actions: Escape tabs and newlines in paths</code>](https://github.com/linuxmint/nemo/commit/0d8a626e70c292a62e515bb24910a8b148e337fe)
-- [ ] [<code>Actions: Escape backslashes in paths</code>](https://github.com/linuxmint/nemo/commit/03a211ff11372d253d82087bf621c7e776b558e6)
-- [ ] [<code>Actions: Escape number signs in paths (#3022)</code>](https://github.com/linuxmint/nemo/commit/53a8f1e14040de725d642dd7707e747e1afcac58)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/nemo/commit/4d7db35b9b0c48a6a3495d0e60c9fd2896f730ee) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-
-### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.4 → HEAD](https://github.com/linuxmint/pix/compare/2.8.4...HEAD)
+### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.1...HEAD)
 
 
 
-- [ ] [<code>Add Downloads to the sidebar folder navigator.</code>](https://github.com/linuxmint/pix/commit/4c49677d94cc128cd88762df455842975946629a)
-- [ ] [<code>2.8.5</code>](https://github.com/linuxmint/pix/commit/dda7596511d0361c3e673c8600fac1efe2339206) <sub>Tagged: <code>2.8.5</code> <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/pix/commit/d42a21ba8ce42830f81ee31b580dfaa9efb6aa69)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/c32170cb66d4b81204e1f00beaaa71bfe4e05fdb)
-- [ ] [<code>2.8.6</code>](https://github.com/linuxmint/pix/commit/0f165f7bf9e81418a73ce8ac0bf165ddfe207f3b) <sub>Tagged: <code>2.8.6</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.5...HEAD)
+### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.6 → HEAD](https://github.com/linuxmint/pix/compare/2.8.6...HEAD)
 
 
 
-- [ ] [<code>prefs.py: don't assume every interface listed by lshw has a</code>](https://github.com/linuxmint/warpinator/commit/b472313095574d4841e8b634a724fe45d87aa6bc)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/4036d957bfaf62c0a77955c21a7becda9f3f1385)
-- [ ] [<code>1.2.6</code>](https://github.com/linuxmint/warpinator/commit/184697a32d3438af0331ebc5d8c46798793d56f7) <sub>Tagged: <code>1.2.6</code></sub>
-- [ ] [<code>network: Improve interface detection in the monitor and preferences.</code>](https://github.com/linuxmint/warpinator/commit/37e149953fc43b776ce71dc45305984b85ae6815)
-- [ ] [<code>1.2.7</code>](https://github.com/linuxmint/warpinator/commit/8d1740a482d5f826160ca479179b98d821af226a) <sub>Tagged: <code>1.2.7</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/dc504da534a48d4bf0c3e985642c89fa4068128b)
-- [ ] [<code>1.2.8</code>](https://github.com/linuxmint/warpinator/commit/daf7ddf96697b683810f32d560d2dd3570aed198) <sub>Tagged: <code>1.2.8</code></sub>
-- [ ] [<code>Add some flatpak build notes.</code>](https://github.com/linuxmint/warpinator/commit/836975bcf1485c562ac94659d770a1ffff061d99)
-- [ ] [<code>Transfers: Make transfers cancellable by the receiving computer</code>](https://github.com/linuxmint/warpinator/commit/069cf5f57e6e0933a520506e022af9ff20672d6c)
-- [ ] [<code>server.py: Fix regression from 2cd3b660c that was preventing</code>](https://github.com/linuxmint/warpinator/commit/cd0b33a0618b431642ef7abd806cadb9cb8fe935)
-- [ ] [<code>transfers: Improve on 069cf5f57e6 by creating a generator object</code>](https://github.com/linuxmint/warpinator/commit/1aebcc1d1761f61905d3d6f2ff3ac03f4dfc2b3f)
-- [ ] [<code>1.2.9</code>](https://github.com/linuxmint/warpinator/commit/6a0f2e4de63378682bdf79c2153c6dbac7f31441) <sub>Tagged: <code>1.2.9</code></sub>
-- [ ] [<code>Remove a comment that no longer applies.</code>](https://github.com/linuxmint/warpinator/commit/ad4aaae20401ac6b47859d561768ee67c8e55ec0)
-- [ ] [<code>auth.py: Limit the length of the zeroconf service name.</code>](https://github.com/linuxmint/warpinator/commit/9ba7467d54e4ce19830208856a8e478464976c10)
-- [ ] [<code>transfers: Don't try to set mtime or mode on symlinks, and fix</code>](https://github.com/linuxmint/warpinator/commit/47519aaafdecc396b0f5e16a74a67262595c1360)
-- [ ] [<code>Update readme.</code>](https://github.com/linuxmint/warpinator/commit/5ca879e0e5c1a511130adbd62a030dd336fa79a7)
-- [ ] [<code>make other platforms a bulleted list</code>](https://github.com/linuxmint/warpinator/commit/f328c4f0486c90561344c79932592c19d4c77a82)
-- [ ] [<code>Add some troubleshooting tips to the readme.</code>](https://github.com/linuxmint/warpinator/commit/e325bf4be8360a5368dc0851adaff417848a7347)
-- [ ] [<code>Fix network device name fetching</code>](https://github.com/linuxmint/warpinator/commit/fe75c3271c660546ba2ecb7351547f7ec0a27765)
-- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/99d080cd70b599a5990ef7b94f6ac8754f4f715a)
-- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/22c74eda86ef8e185837e33ef7d76bf45cf1f341)
-- [ ] [<code>build: Add an option to include grpc to workaround broken version</code>](https://github.com/linuxmint/warpinator/commit/3f93efadbe77a46e570dbd8afc13d1593d40af35)
-- [ ] [<code>Add keywords to .desktop file</code>](https://github.com/linuxmint/warpinator/commit/efb835ef0c38403df55721b660d661518f1bd1ac)
-- [ ] [<code>1.2.10</code>](https://github.com/linuxmint/warpinator/commit/1a7bdf2c24d97fac84aa38532d873d01663e79f0) <sub>Tagged: <code>1.2.10</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/78f27b2e8099b381f25f31dcd61ac0901ba4a93b)
-- [ ] [<code>1.2.11</code>](https://github.com/linuxmint/warpinator/commit/fa490a582ed7e8a440dd9848e53fa7193a11236e) <sub>Tagged: <code>1.2.11</code></sub>
-- [ ] [<code>UI: Add links to altinators</code>](https://github.com/linuxmint/warpinator/commit/aa5b44bf59e660c19b730d4fb603038767457395)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/cd170ed40695f3c10d737addee145543653bb334)
-- [ ] [<code>1.2.12</code>](https://github.com/linuxmint/warpinator/commit/ba80311afb5605b1651a7319ae94718cd70d0ab8) <sub>Tagged: <code>1.2.12</code></sub>
+
+### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.12 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.12...HEAD)
+
+
+
 - [ ] [<code>Add github link to the About dialog.</code>](https://github.com/linuxmint/warpinator/commit/7d303c77b5a03867841366258ce37967ed942d5f)
 
-### [cinnamon.xapps](https://github.com/linuxmint/xapps): [2.2.8 → HEAD](https://github.com/linuxmint/xapps/compare/2.2.8...HEAD)
+### [cinnamon.xapps](https://github.com/linuxmint/xapps): [2.2.13 → HEAD](https://github.com/linuxmint/xapps/compare/2.2.13...HEAD)
 
 
 
-- [ ] [<code>Implement scroll events with the fallback icon (GtkStatusIcon).</code>](https://github.com/linuxmint/xapps/commit/874b5241abcfc90b29e23e54b5c73a28e6e3d1c9)
-- [ ] [<code>sn-item.c: Handle Id property updates.</code>](https://github.com/linuxmint/xapps/commit/77e9133faa9797923da36a76fbe1d02d9f614150)
-- [ ] [<code>xapp-icon-chooser-dialog.c: Don't be case-sensitive when searching.</code>](https://github.com/linuxmint/xapps/commit/a233463626f4b00a14d84cdc169e3ffa715d3a2e)
-- [ ] [<code>2.2.9</code>](https://github.com/linuxmint/xapps/commit/4bfb32244541365f1dd5f71c44da73073ed4345e) <sub>Tagged: <code>2.2.9</code></sub>
-- [ ] [<code>Add a debian/ symbols file.</code>](https://github.com/linuxmint/xapps/commit/91af7362d4e32559511a189fd1b3aea8dbb3b455) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xapps/commit/b87df356337df3dd736ac5653baf4749669c28de)
-- [ ] [<code>2.2.10</code>](https://github.com/linuxmint/xapps/commit/9913e2dd38848b4dce2229554048440335a9e793) <sub>Tagged: <code>2.2.10</code></sub>
-- [ ] [<code>Update documentation</code>](https://github.com/linuxmint/xapps/commit/9af1858946b6264419c8bf0d604ee1252b425eb0)
-- [ ] [<code>CI: Fix target names</code>](https://github.com/linuxmint/xapps/commit/aee800138ed6c5f292ecaf19bc3a2af34f921d69)
-- [ ] [<code>Add a new icon xapp-edit-symbolic</code>](https://github.com/linuxmint/xapps/commit/daa0b71bbd83d5e2fa4d0b0920340da02d1e89ad)
-- [ ] [<code>2.2.11</code>](https://github.com/linuxmint/xapps/commit/dbd585afde9f26a6becbb99c06cf7dd43b50ef0c) <sub>Tagged: <code>2.2.11</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapps/commit/88e771e8bda107cef30f3ec637c9772b43d48401)
-- [ ] [<code>2.2.12</code>](https://github.com/linuxmint/xapps/commit/fc91726b2ad5ef7edb52ad595d219df267aeeff1) <sub>Tagged: <code>2.2.12</code></sub>
-- [ ] [<code>xapp-icon-chooser-dialog: Don't lower-case paths.</code>](https://github.com/linuxmint/xapps/commit/6fa9ca993482e57e550243a815ade449cf790665)
-- [ ] [<code>2.2.13</code>](https://github.com/linuxmint/xapps/commit/ecbba7d1dc83823acb5077ffaf0983666742b970) <sub>Tagged: <code>2.2.13</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.3.0 → HEAD](https://github.com/linuxmint/xreader/compare/3.3.0...HEAD)
+### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.1 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.1...HEAD)
 
 
 
-- [ ] [<code>Search: Add a close button (#550)</code>](https://github.com/linuxmint/xreader/commit/ab6ba8a31dfab9d23400e5ce5375e2aa544b2f29)
-- [ ] [<code>Search: Remove unnecessary tooltip</code>](https://github.com/linuxmint/xreader/commit/45af0feda19cb31783132c54740aff599601c41c) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xreader/commit/d825ce5b909d6dd72d295bb8fe9d9e24571dee30)
-- [ ] [<code>Fixes some of the warnings during build</code>](https://github.com/linuxmint/xreader/commit/016388b299b588a30122f730a68944d4a0c31a23)
-- [ ] [<code>Evince Backport:  Allow adding Highlight annotations from text selection (#493)</code>](https://github.com/linuxmint/xreader/commit/01b302c4fa159ded9a85bc39a30fe214773ae6b8)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xreader/commit/4f59fbed1d3af98d5fc6d347e5c4378ac4341a20)
-- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xreader/commit/3461f5eb65f837b298f0e0aa8fc6b7b0cc882fb3) <sub>Tagged: <code>3.4.0</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/669ad7cd9ba7203b6b4a8ccf8945105b472c975f)
-- [ ] [<code>3.4.1</code>](https://github.com/linuxmint/xreader/commit/f4dcf7393615d2ad44dcfc5a9494e11b1b1eb4d1) <sub>Tagged: <code>3.4.1</code></sub>
 - [ ] [<code>ev-jobs: Use the correct page-count results container for the</code>](https://github.com/linuxmint/xreader/commit/9c6022dcba442579568319a272ab9aea2310d365)
 - [ ] [<code>epub: Fix index loading for certain documents - look for epub:type</code>](https://github.com/linuxmint/xreader/commit/7689e36ee9941cce8e8ac75306bccdd91af58485) <sub>Tagged: <code>master.lmde5</code></sub>
 
@@ -790,28 +675,12 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Disable selection of the btrfs backend when there are no btrfs</code>](https://github.com/linuxmint/timeshift/commit/96f9f8134a84f2254a3f01fe17db07de9ee02a33)
 - [ ] [<code>22.06.4</code>](https://github.com/linuxmint/timeshift/commit/6ef4c70f9cb5367ee1498afb6fac8e590b601371) <sub>Tagged: <code>22.06.4</code></sub>
 
-### [xed-editor](https://github.com/linuxmint/xed): [3.2.2 → HEAD](https://github.com/linuxmint/xed/compare/3.2.2...HEAD)
+### [xed-editor](https://github.com/linuxmint/xed): [3.2.5 → HEAD](https://github.com/linuxmint/xed/compare/3.2.5...HEAD)
 
 
 
-- [ ] [<code>*backporting* the replace (all) shortcuts from gedit to xed - issue no. 509 (#510)</code>](https://github.com/linuxmint/xed/commit/9d7a78a3116280035f3c38d4760cd512536c8cd9)
-- [ ] [<code>xed-searchbar.ui: enable mnemonic accelerator behavior for previous</code>](https://github.com/linuxmint/xed/commit/87c8a4cabd2daaf4d6a01abd5bda69fb14be0d77)
-- [ ] [<code>Update packaging (#511)</code>](https://github.com/linuxmint/xed/commit/1a9a46862cefbab8f2a783f2ca433be279091a3d)
-- [ ] [<code>build: add install script for non-debian builds (#535)</code>](https://github.com/linuxmint/xed/commit/436d16f05c9cb7d4ed4a3c319abee478a8dbe2f2)
-- [ ] [<code>Update help file to better reflect current functionality (#523)</code>](https://github.com/linuxmint/xed/commit/b1c216d5010641fb5b642281e01bfe29637fc048) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xed/commit/941e3d7c12b9740ccea4ebbd3035db82ede16d82)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/ac24a7d9f32cb1b374bd176c5525668ce22b595a)
-- [ ] [<code>3.2.3</code>](https://github.com/linuxmint/xed/commit/24aa54dbbfebf00a1282e027ae555641e3c2e9ab) <sub>Tagged: <code>3.2.3</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/395ad70e26a181c9daee6f8d13c512861e124246)
-- [ ] [<code>3.2.4</code>](https://github.com/linuxmint/xed/commit/b0409113da3429400495edd1f19d819f5221a8d4) <sub>Tagged: <code>3.2.4</code></sub>
-- [ ] [<code>Update xed-time-plugin.c (#539)</code>](https://github.com/linuxmint/xed/commit/c536f08b4519a55e893a1fa4b9c6cd34c31db971)
-- [ ] [<code>3.2.5</code>](https://github.com/linuxmint/xed/commit/a8881dd92a37f536cd0b506051e32f40895ed4f8) <sub>Tagged: <code>3.2.5</code> <code>master.lmde5</code></sub>
 
-### [xplayer](https://github.com/linuxmint/xplayer): [2.4.2 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.2...HEAD)
+### [xplayer](https://github.com/linuxmint/xplayer): [2.4.3 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.3...HEAD)
 
 
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/454e7b5b5b4cbec2067880c6cf38060a9b293994)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/50f3bd9bc1ee19a691d936bf12668db2f0e6c5c7)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/3d7d5dc0e9b9d20e066afa90a7678dbcffff0aac)
-- [ ] [<code>2.4.3</code>](https://github.com/linuxmint/xplayer/commit/4499d95a5e7c2c468b8c0f0fe28c9217c56a48ed) <sub>Tagged: <code>2.4.3</code></sub>
