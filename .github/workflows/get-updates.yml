@@ -8,17 +8,21 @@ on:
 
 jobs:
   refresh:
+    strategy:
+      matrix:
+        include:
+          - pkgset: 000-test
+          - pkgset: 001-pantheon
+          - pkgset: 002-maintained
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: cachix/install-nix-action@v16
       - run: sudo pip install GitPython
-      - run: python3 what-changed.py
-      - run: cat README.md
+      - run: python3 what-changed.py ${{ matrix.pkgset }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'README: automatic updates'
-          file_pattern: 'README.md'
+          commit_message: "${{ matrix.pkgset }}: automatic updates"
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
