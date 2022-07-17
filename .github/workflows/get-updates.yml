@@ -9,6 +9,7 @@ on:
 jobs:
   refresh:
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - pkgset: 000-test
