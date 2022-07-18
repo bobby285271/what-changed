@@ -237,58 +237,15 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix testsound volume</code>](https://github.com/linuxmint/cinnamon/commit/85d361b013bf05e2214224b20d7d065e0583fabd)
 - [ ] [<code>theme: Fix artifacts in the menu applet when scrolling the applications</code>](https://github.com/linuxmint/cinnamon/commit/ff3882188eb798fd1a615aee3c3c75d23cda7853) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.4...HEAD)
 
 
 
-- [ ] [<code>wacom: Fix column layout in button-mapping dialog.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/cc55889f9ab56d5ca24fce4167e05c60c1f50100)
-- [ ] [<code>l10n: Generate files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/12ecbf6961514a200ed283a01435076ab04d2e2d)
-- [ ] [<code>5.2.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3fa19dea1f56df3d0ab8f7e1dc098c64205da8a9) <sub>Tagged: <code>5.2.1</code></sub>
-- [ ] [<code>network: Remove old workaround for openvpn widgets.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0f4d212874c4fbee18b860963d0a5c7bd54dcfd1)
-- [ ] [<code>Fix build so 'cinnamon-control-center' can one again be used for</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0cc14fbdd4e3ce13b3ed956316ef82b44b82ce49)
-- [ ] [<code>network: Add support for displaying IPv6 gateway and all IPv6 addresses (#275)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/87d962e17fdfa42ad45dc5223f3f09df7c325331)
-- [ ] [<code>cc-region-panel.c: Remove dead code (throws warning in cinnamon-</code>](https://github.com/linuxmint/cinnamon-control-center/commit/30728a0a142ac0deffde5267263c3b345f1c6556)
-- [ ] [<code>display module: Adapt to muffin 5.3 changes.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/1700e782731691f54d22a7f6b59bd851bfa54605)
-- [ ] [<code>[muffin 5.2-test] small debian improvements (#281)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a63cfb5979f57bb272375a02c1983175463d637e) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-control-center/commit/23d4fab13ac97da04a7aaeb2ebb7914664b139dd)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/88903b187c3037e24a6875fc6aa44cb87c49c0d5)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4d84b6e910fda5b83a257990211f95e0a22b8162)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5521e931c6fe59b2efaecd319d5fc529f93c6b7a) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>cc-display-config: Check other monitors' capabilities when deciding</code>](https://github.com/linuxmint/cinnamon-control-center/commit/52220ec0c7cad82a6f52d711fa7dc39eb19067ee)
-- [ ] [<code>display: Keep monitors visible when disabled.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4069c91f1ebef76d089ea36b35f81087c5ce21c0)
-- [ ] [<code>display: Select a different active monitor when the current</code>](https://github.com/linuxmint/cinnamon-control-center/commit/fca32292a317b6ab634bc6d6cfc30d07995c883c)
-- [ ] [<code>display: Clean up dead code.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c08d3864fc37234394543d7de5c3fd04277a1c1c)
-- [ ] [<code>makepot: Include some missed files in the network panel.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a421b4a0f27217c1298f55fd2c7a0c12d5741009)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b7e194407ba084493af27b9fc136dc5a7d74fc13)
-- [ ] [<code>network/panel-common.c: Use null-safe g_strdup.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/6641ee615bf1f228e009438ff022a4c4d6a05b20)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/6f430ad67cd21bfad72ffcda7bd030b11f95101b) <sub>Tagged: <code>5.4.1</code></sub>
-- [ ] [<code>packaging: Install correct desktop files to usr/share/applications</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5aa5fab4348de4496efe9ec0b5faa20be234d56e)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/cinnamon-control-center/commit/cdd45b2e7c6522c2ee3f19961c17852a4b99c47e) <sub>Tagged: <code>5.4.2</code></sub>
-- [ ] [<code>meson: fix installation of symlinks</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5d4eeb09309eb073235fec1418bc988306c99c98)
-- [ ] [<code>meson: reimplement the symlink creation install script using builtin features</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ca95ce7dfc4872ecef88b0074d2bee8f097d0394)
-- [ ] [<code>circleci: Fix mint21 build installation step.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f2628ddf2668591c1632a6e9661c5c9fe25a0453)
-- [ ] [<code>Fix desktop files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8111461df1f66bb78bbd45a975897801b93bccb1)
-- [ ] [<code>5.4.3</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53efc178744f727ae46822b1f35a885b8ceee7d8) <sub>Tagged: <code>5.4.3</code></sub>
-- [ ] [<code>meson: fix regression in installing with some panels disabled</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b965b813e8a0faf50426043d17b4ffe3e2938f7d)
-- [ ] [<code>small debian packaging improve (#286)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b8afcf6c412e4ebfb76011082d0f70dfc9a334cd)
-- [ ] [<code>5.4.4</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ae3793499c411f71a592865ce13bf875043a4ce1) <sub>Tagged: <code>5.4.4</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.1...HEAD)
 
 
 
-- [ ] [<code>gnome-desktop-thumbnailer.c: Make sure a thumbnailer's binary is</code>](https://github.com/linuxmint/cinnamon-desktop/commit/51fe36dae50d844cfb9b76774b87ff924edef20c)
-- [ ] [<code>5.2.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3828f6bcbd4bcbd9f825ec2a9467b310fe0258bc) <sub>Tagged: <code>5.2.1</code> <code>master.lmde4</code></sub>
-- [ ] [<code>Fix build warnings (#201)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/24e6eba969dd59ad8518c1f2db502027666e8644)
-- [ ] [<code>all: Changes for muffin 5.3+</code>](https://github.com/linuxmint/cinnamon-desktop/commit/096d728f8998f2400e060567b794852c7920e313)
-- [ ] [<code>Refresh Cvc</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6501be4983bcff152bb5a6b0b8b9ab7cf3c7c81c)
-- [ ] [<code>d/control: update build-deps</code>](https://github.com/linuxmint/cinnamon-desktop/commit/93a8aead6cd0def8f4d62c7c59863ea4a258a5fb)
-- [ ] [<code>Add debian/ symbol files for libcvc and libcinnamon-desktop.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9e229dae43532efeee2233d540c8c8db5f1607be) <sub>Tagged: <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-desktop/commit/56f4a35f83358de7fe95b5a6299411084b0f2f55)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a25a88e0ce67918a9664af049bee98f3f7699b73) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>libcvc/meson.build: fix building with alsa. (#207)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2dcdd64302ad3a30b3f4a508ab9431af73090166)
-- [ ] [<code>Fix testsound positions in cinnamon-settings</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3bf1d7ea68e8db30e5506df6e135466813f2fa8e)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d1de49ddd5c5f41bb03e39564fd80b1fd6deb95) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
 
@@ -307,48 +264,20 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
-### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.4.2...HEAD)
 
 
 
-- [ ] [<code>Fix MPRIS issues with disconnecting clients</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3e820059b5d7faf4e363efa5becb17d0e8526811)
-- [ ] [<code>csd-power-manager.c: Ensure that dbus message "g-properties-changed" is emitted in all relevant places (#364)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ec4da1142ef8067a6acc2006175700c22d432de5)
-- [ ] [<code>print notifications: Fix build warning.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1c8d7547b0a4f8dba9f6f5d397d9ad8ff16ad010)
-- [ ] [<code>csd-media-keys-manager.c: Fix volume level 5% snap (#362)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/65b4e97b400fb0fe83a0892bcbbfd2d10a2bf7e4) <sub>Tagged: <code>master.lmde4</code></sub>
-- [ ] [<code>increase version to 5.3.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7999ab9d1540842760df93856718bc748ad17451)
-- [ ] [<code>remove sound plugin</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dc5640d1123ae3b99ce0e8597389dd0f57393213)
-- [ ] [<code>Plugin changes and removals for muffin rebase.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bccb03b1a2a22340c17f399a7892fc7ea808a4f4)
-- [ ] [<code>[muffin-5.2-test] debian packaging improvements (#357)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fe09bc0403924c850c3488d628f297a0aa315b2d)
-- [ ] [<code>[muffin-5.2-test] debian: other fixes (#358)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/26604290ff78119aaf825ac03e4729f8912f7553)
-- [ ] [<code>Remove dh_dwz build warnings.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b4f0f87d758cc3ae6934ebe9817c7cd55613eae9)
-- [ ] [<code>datetime: Use Gio's dbus implementation.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/813790b734225c856b494a70da11147a4d890e0f) <sub>Tagged: <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/2aae022241021fe55d716ce146b6daee0ce2c652)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1a0601f291a45bb0150f52bb1f6f2b98a5e28875)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e68d2f10d7e450f1fd38091b7d3c3bd2bc56346b) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>csd-xsettings: Fix dbus names.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/745e720e1387c309703249a6ad70c273c6d9b105)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/afa84f27815509fb8dc5e18d909971224a514159) <sub>Tagged: <code>5.4.1</code></sub>
-- [ ] [<code>media keys: Get rid of deliberate delay when taking a screenshot</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/41ef633a83d6f0b2b21e5b5db9f5c4da32628977)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4249121ab9945fccaab91c181d83ba248b53d223) <sub>Tagged: <code>5.4.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.1...HEAD)
 
 
 
 
-### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.2.0...HEAD)
+### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.4.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.4.1...HEAD)
 
 
 
-- [ ] [<code>build: disable gir install via list to pacify meson >= 0.60.2 (#98)</code>](https://github.com/linuxmint/cjs/commit/a4f6cfc521094afc4acb349a77fee2f7b1ebf6e3)
-- [ ] [<code>Revert "build: disable gir install via list to pacify meson >= 0.60.2 (#98)" (#100)</code>](https://github.com/linuxmint/cjs/commit/66962c834e077dc43b4954b893592ec21232525d) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>Rebase off 1.70.0-4 (ubuntu 22.04)</code>](https://github.com/linuxmint/cjs/commit/028ccf6ae06da12b3cb90b5a1a6946c053aad6d7)
-- [ ] [<code>CI: Bring back config</code>](https://github.com/linuxmint/cjs/commit/2b364ebafe71aca89552ba6bd5f994fefdaf5fb9)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cjs/commit/d24c8366702486048cd5100b9b32e4a9ef197313) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>Remove some links from the README</code>](https://github.com/linuxmint/cjs/commit/3d471a35fedb61c94e7cba255912095f7cd4552f)
-- [ ] [<code>Don't use max threads for tests.</code>](https://github.com/linuxmint/cjs/commit/11be5ebfe0d5f775cea2f3bd8c351216612bc7c3)
-- [ ] [<code>testCommandLine.sh: Skip a Gio.Subprocess test when inside of a</code>](https://github.com/linuxmint/cjs/commit/e2b5671df42d7f89ef39ef949747e92b8ed821ba)
-- [ ] [<code>debian/rules: Limit number of threads for the build.</code>](https://github.com/linuxmint/cjs/commit/751e509675fcf2f91169e0015ca5d608ee3dd88f)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cjs/commit/4ad47c35432433b9367837ea7d14535f370aa0b9) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [695285c7240c3ed6 → HEAD](https://github.com/linuxmint/mint-themes/compare/695285c7240c3ed63dd18562bbe169542b30c319...HEAD)
 
@@ -366,70 +295,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
-### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/5.2.0...HEAD)
+### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.2 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.2...HEAD)
 
 
 
-- [ ] [<code>Fix window centering calculations, and now include the frame if</code>](https://github.com/linuxmint/muffin/commit/b3feb7f6933c443589c37c333885f2bdc1fd27c3)
-- [ ] [<code>constraints: Fix inability to drag c-s-d windows up beyond their</code>](https://github.com/linuxmint/muffin/commit/267240de5fc76995727b5cc8b43e065fc871a36e)
-- [ ] [<code>5.2.1</code>](https://github.com/linuxmint/muffin/commit/b9a6f3fe43e44e304f7b2f76e00603347e55f82d) <sub>Tagged: <code>5.2.1</code> <code>master.lmde4</code></sub>
-- [ ] [<code>Rebase onto mutter 3.36.0-0ubuntu0.20.04.1</code>](https://github.com/linuxmint/muffin/commit/8599127fa99dc285426fd84c2f53ed0ae8d60d3c)
-- [ ] [<code>Restore x root window backgrounds.</code>](https://github.com/linuxmint/muffin/commit/8309cc6add5cbc7b048b3033b002f3bab96a22ed)
-- [ ] [<code>Allow custom and mod-only keybindings.</code>](https://github.com/linuxmint/muffin/commit/eb2338b98ea407485f7a35b8e5a8776493497f65)
-- [ ] [<code>Reintroduce the bottom window group.</code>](https://github.com/linuxmint/muffin/commit/adbc6b3d9247be275cd510e1c37f34b4afe84fd7)
-- [ ] [<code>debian/control: restore something removed in 8dbf865</code>](https://github.com/linuxmint/muffin/commit/da49bc3aabaf4f0d3ff15b63e410c5a4c664b881)
-- [ ] [<code>debian/tests: mutter->muffin</code>](https://github.com/linuxmint/muffin/commit/d4e7e7b45320670b7a7fcd07fb236a493d7b82f6)
-- [ ] [<code>Make a couple of methods public to restore some old MetaScreen</code>](https://github.com/linuxmint/muffin/commit/5dd7bbc3e24c3208180748c00954f9f2de013260)
-- [ ] [<code>XApp themed icon names, progress.</code>](https://github.com/linuxmint/muffin/commit/9ddfc1acfc32008191f7a664cedfff5512f8b25a)
-- [ ] [<code>x11 backend: Don't let muffin reset the keyboard layout any time</code>](https://github.com/linuxmint/muffin/commit/e6bcb95cc2b005223c60e8b3157f0e9f1fb56d86)
-- [ ] [<code>Freeze the window actor during unminimize.</code>](https://github.com/linuxmint/muffin/commit/9d6caa9085f83328ef7248ca05bf5e5f2b845ae4)
-- [ ] [<code>Restore 'unredirect-fullscreen-windows'</code>](https://github.com/linuxmint/muffin/commit/b9bcd82f0b59f8b147bf338141ef3e2de9355b10)
-- [ ] [<code>Restore workspace wraparound.</code>](https://github.com/linuxmint/muffin/commit/ca4f4eaf0889f00886b9e30e55c458a1981888db)
-- [ ] [<code>Restore additional titlebar actions.</code>](https://github.com/linuxmint/muffin/commit/a5eef524d8695ab9698021abac63aafe80fc76b7)
-- [ ] [<code>Restore desktop zoom mousewheel handling.</code>](https://github.com/linuxmint/muffin/commit/aba10e75624c1f3506b0b3593aec304e665e357b)
-- [ ] [<code>Add MUFFIN_NO_SHADOWS support.</code>](https://github.com/linuxmint/muffin/commit/5eef3768ea7ebfe8c170a82c943925e31a9d6537)
-- [ ] [<code>Implement migration from old cinnamon-monitors.xml</code>](https://github.com/linuxmint/muffin/commit/25cba4014582c93e0d8d1691513c9f8469d048b2)
-- [ ] [<code>Enabled xrandr scaling by default.</code>](https://github.com/linuxmint/muffin/commit/20cfcbec5f0125864334fc86162e63fbd8a875e1)
-- [ ] [<code>Re-implement corner/top/bottom tiling.</code>](https://github.com/linuxmint/muffin/commit/b64b45747aa0697d73aa81da41c577b02e709bf4)
-- [ ] [<code>Disable ssd shadows when tiled, even without matching windows.</code>](https://github.com/linuxmint/muffin/commit/0a0a7e8985082901619fb81ca54c81a29a6df8bb)
-- [ ] [<code>window.c: Reduce the tile area along the top edge of the screen</code>](https://github.com/linuxmint/muffin/commit/b298ebe3acd40a02196eaa504252737db6da15c9)
-- [ ] [<code>Expose a window's tile mode. Fix tile zone calculation.</code>](https://github.com/linuxmint/muffin/commit/bc4a377e9a524b4dd0cbd3c73ea02453f056e8ef)
-- [ ] [<code>Fix random crash when clicking the frame of a tiled window.</code>](https://github.com/linuxmint/muffin/commit/c37259496644495ca26ffd6759f1f0f3399539fe)
-- [ ] [<code>Cleanup deps, build flags</code>](https://github.com/linuxmint/muffin/commit/a0ca0ec8bcde249a98759cdf6ad19d0d5fe353c5)
-- [ ] [<code>Work around an issue with nvidia sync waiting</code>](https://github.com/linuxmint/muffin/commit/96e389f2111a3acd5e3954da0d23f1222d21d450)
-- [ ] [<code>Manage stacking for the desklet and desktop actors in the</code>](https://github.com/linuxmint/muffin/commit/db3dcdbb784ecd94ce5bbbea008712a8f201993e)
-- [ ] [<code>x11 input settings: Fix middle click emulation setting not working right</code>](https://github.com/linuxmint/muffin/commit/5e385042d8f9fc5cb11ac8b0d036ffbc55b395a3)
-- [ ] [<code>Fix a couple of build warnings</code>](https://github.com/linuxmint/muffin/commit/10fd1144e735efc464f383db1651cbcf52ef85b9)
-- [ ] [<code>debian: restore kfreebsd support</code>](https://github.com/linuxmint/muffin/commit/d1978de2236fe71ee5a67adf939a3c9b9fbed314)
-- [ ] [<code>Don't terminate on a bad allocation.</code>](https://github.com/linuxmint/muffin/commit/ba04c3cae0c2f84f967484a9062917977dc28bb1)
-- [ ] [<code>x11 backend: Don't rebuild all keybindings every time a different</code>](https://github.com/linuxmint/muffin/commit/23aba56e6dd9cfb8778e093d9865fdb371806a2c)
-- [ ] [<code>Use cinnamon for interface names.</code>](https://github.com/linuxmint/muffin/commit/30c20e847a3357145c088e190e2f2db9db6cfeb6)
-- [ ] [<code>Remove some unused files, dependency.</code>](https://github.com/linuxmint/muffin/commit/f68bd821fd4768f4d11942ebc3195292a6bf16e9)
-- [ ] [<code>rules: disable dh_dwz (build warnings)</code>](https://github.com/linuxmint/muffin/commit/0cef1cbe5b74b0162c770bbea1d8836ada7bd5cb)
-- [ ] [<code>Catch gtk theme name changes instead of simply relying on monitored</code>](https://github.com/linuxmint/muffin/commit/71d1eac5287d0bb22a1ad4ac3c2221f46ae06864)
-- [ ] [<code>Move some keybindings, re-enable monitor switch, rotate.</code>](https://github.com/linuxmint/muffin/commit/2cabdbddd3e85b85bc8a2aba909f61c63d852895)
-- [ ] [<code>Add some api for the display applet.</code>](https://github.com/linuxmint/muffin/commit/6a7517421bc1e5d3c90dcd4e4c286642262b3dc2) <sub>Tagged: <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/muffin/commit/abf10a06704718e793b37d8742e4b088c49e4069)
-- [ ] [<code>Add debian/ symbols file.</code>](https://github.com/linuxmint/muffin/commit/a71b4bb1b0d8d09a82be95b7987b8148c8d20f39)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/muffin/commit/292749f44ba2dcf002ea66ca12fa255d459bcf90) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>Add ClutterTextureContent.</code>](https://github.com/linuxmint/muffin/commit/cf6598e9ede1d2accc4a01133bbfa1891fe2f247)
-- [ ] [<code>keybindings: Don't make custom shortcuts per-window.</code>](https://github.com/linuxmint/muffin/commit/548ab2e864b703a63a3ef8a9429e5554b0a9399c)
-- [ ] [<code>Suppress 'invisible' borders and theme shadows for maximized and</code>](https://github.com/linuxmint/muffin/commit/74d12057685b4be587e66f14040b087baeaeb34b)
-- [ ] [<code>bell: Restore configurability.</code>](https://github.com/linuxmint/muffin/commit/b5de3b0c259252146bbf9645bb796356e78da80a)
-- [ ] [<code>meta-input-settings.c (a11y): Don't handle togglekeys.</code>](https://github.com/linuxmint/muffin/commit/58ade1346ff2b85eb337727e95dc6d4eee4cf6dc)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/muffin/commit/abd397b49b6ef828bd871bd9d9156c0170d9e5cf) <sub>Tagged: <code>5.4.1</code></sub>
-- [ ] [<code>Fix placement of transient children of fullscreen windows</code>](https://github.com/linuxmint/muffin/commit/8961c35b8e5c7ad6eec8a9a2ebe34222b4fe622c)
-- [ ] [<code>frames.c: Re-implement directional maximization when double-clicking</code>](https://github.com/linuxmint/muffin/commit/632a165006bc74a907ae8b2d09b84cbc3e499829)
-- [ ] [<code>theme.c: Don't suppress the invisible border for non-tile/maximized</code>](https://github.com/linuxmint/muffin/commit/34c8a701ec46b7da7310095be5e5da56933d45f1)
-- [ ] [<code>Restore the 'bring windows which require attention to the current</code>](https://github.com/linuxmint/muffin/commit/8b059f6a9b96617753cf9074d7291a1f83d5fb97)
-- [ ] [<code>window.c: Make opacity a public property.</code>](https://github.com/linuxmint/muffin/commit/e711ae4aed3c02713c97eaac7163338edc1de4e3)
-- [ ] [<code>Fix "Center window in screen" behavior (#623)</code>](https://github.com/linuxmint/muffin/commit/c845b36ec718d9778a3c17ee1aba531cc54e2dc9)
-- [ ] [<code>frames.c: Fix calculations for determining resize zones in a tiled</code>](https://github.com/linuxmint/muffin/commit/cfb1b7a3638a1bd39548d8d6ba9d226be9949f1e)
-- [ ] [<code>tiling: re-maximize previously-maximized windows when dragging,</code>](https://github.com/linuxmint/muffin/commit/696c587dfef0fb643dd9770bfc69a8cc91b44985)
-- [ ] [<code>grabs: Fix restoration of window state when resize or move actions</code>](https://github.com/linuxmint/muffin/commit/de61d678c145b2702ec7416fc4e50e4a64d1b2a7)
-- [ ] [<code>window.c: If maximizing a tiled window via titlebar, use the window's</code>](https://github.com/linuxmint/muffin/commit/65e1dcd252d7332323a621eb837c2bde54b631b5)
-- [ ] [<code>compositor: Add a MetaSizeChange value for tiling.</code>](https://github.com/linuxmint/muffin/commit/c894eb8a593c68f49e04c6e030d3a313c920697e)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code></sub>
 - [ ] [<code>keybindings.c: Make sure we can tile before we attempt to (#624)</code>](https://github.com/linuxmint/muffin/commit/c3d2ef26e06ebe92486337a35670eb5c249d61ef)
 - [ ] [<code>tiling: Treat a maximized window as tiled for the purposes of</code>](https://github.com/linuxmint/muffin/commit/d30b0b0a77bae16fafa36aded46e9bc387af5fa9)
 - [ ] [<code>tiling: When tiling at the end of a grab, use the initial position</code>](https://github.com/linuxmint/muffin/commit/a35b0a05e541659cb97603be5fa8bba6a53c5e4e) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
