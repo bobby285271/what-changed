@@ -234,7 +234,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>extensions: Allow an applet to assume more than one 'role'.</code>](https://github.com/linuxmint/cinnamon/commit/0530e1c74272c0ab5aac538d9455f144169726e1)
 - [ ] [<code>systray applet: Fix some issues when reloading icons after panel</code>](https://github.com/linuxmint/cinnamon/commit/b392b52569741a51778260d4e5e221393a4de6a8)
 - [ ] [<code>slider.js: Pass the proper arguments to _endDragging() from actor's</code>](https://github.com/linuxmint/cinnamon/commit/64d5ac65a1fd3ccc22f32d0be71a469d09338a9e)
-- [ ] [<code>Fix testsound volume</code>](https://github.com/linuxmint/cinnamon/commit/85d361b013bf05e2214224b20d7d065e0583fabd) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Fix testsound volume</code>](https://github.com/linuxmint/cinnamon/commit/85d361b013bf05e2214224b20d7d065e0583fabd)
+- [ ] [<code>theme: Fix artifacts in the menu applet when scrolling the applications</code>](https://github.com/linuxmint/cinnamon/commit/ff3882188eb798fd1a615aee3c3c75d23cda7853) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.2.0...HEAD)
 
@@ -294,26 +295,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
-### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.2.0...HEAD)
+### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.4.1...HEAD)
 
 
 
-- [ ] [<code>Increase the inactivity-timeout from 10s to 30s and get the</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ee22e3993fae47df0dd8fb9a2c6671f656566d29)
-- [ ] [<code>logind: Request the session object path instead of guessing it.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/2faa89061c024ea19a9b2f4d0b1fc86c583f4a45)
-- [ ] [<code>5.2.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/2d0df7841ad996303732619fbeb65b782c07e887) <sub>Tagged: <code>5.2.1</code> <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f47816c0a766e6b80b59031321e23fcc481a41f0)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6ea13ef7f43711248d9ec8004713cef096b7de00) <sub>Tagged: <code>5.4.0</code></sub>
-- [ ] [<code>Improve signal handler tracking.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/75e7be8aa3c2e7c2f5d26a3095993fb2d09bc20c)
-- [ ] [<code>grabs: Use the original (cs-)event-grabber for everything, not just</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/c9da92c09d4aad7216ef2ece1eaeaf6a667763c7)
-- [ ] [<code>cs-auth-pam.c: Use GMainloop instead of Gtk.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/50d4c121a1e3293fa10f90f49eb55daf15ae8d78)
-- [ ] [<code>Cleanup, fix some build warnings.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e8492cb3607d570e76d7e5fa7091d6c3431d940d)
-- [ ] [<code>unlock: Don't listen to the AccountsService is-loaded after startup.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f7aac7a743fcd400102c9dacf40e4461eebb28da)
-- [ ] [<code>backup locker: Clean up quit sequence.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/89597dd749286bddbd7c12697168db89164700b0)
-- [ ] [<code>Rework screensaver refreshing during suspend, lock, user-switch</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/893dbe49bc75b7ac49c420d3fca873a972ac709c)
-- [ ] [<code>authentication: improve interaction between the main process and</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8942a70839b0c64f368fa17a2ddc68ab42ac92d9)
-- [ ] [<code>Use xdo to feed escape keycodes into the focused window prior to</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/4ae9f1da8aed493d1d1f02b43fcb51803573042d)
-- [ ] [<code>event-grabber: Better debugging.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/4c4fd856b8587be20611ce0e6d4808421e894252)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/23525ae18f0f9b0175c4126871f910e1433ee668) <sub>Tagged: <code>5.4.1</code></sub>
 - [ ] [<code>build: Try to find libxdo with pkgconfig, and use find_library()</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/7673a6c136ab66e3670919460a87f8887f0ba9b7)
 - [ ] [<code>Don't try to throw an error if libxdo can't be found - meson will</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/cfd87cb63316608e7f2a64f68eedcc09cc03d0da) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
@@ -365,108 +350,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>debian/rules: Limit number of threads for the build.</code>](https://github.com/linuxmint/cjs/commit/751e509675fcf2f91169e0015ca5d608ee3dd88f)
 - [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cjs/commit/4ad47c35432433b9367837ea7d14535f370aa0b9) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [a833fba6917043bf → HEAD](https://github.com/linuxmint/mint-themes/compare/a833fba6917043bf410dee4364c9a36af1ce4c83...HEAD)
+### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [695285c7240c3ed6 → HEAD](https://github.com/linuxmint/mint-themes/compare/695285c7240c3ed63dd18562bbe169542b30c319...HEAD)
 
 
 
-- [ ] [<code>Mint-Y: Tint the entire theme with the selected_bg_color</code>](https://github.com/linuxmint/mint-themes/commit/9696cb60b9d49c539d16bca99c2f044d5ce37ad6)
-- [ ] [<code>Mint-Y: Add rounded corners to the window borders</code>](https://github.com/linuxmint/mint-themes/commit/8f7ef21c956357c3a0a54ce78bf9a242a7528f33)
-- [ ] [<code>Mint-Y: Adjust csd window shadows again</code>](https://github.com/linuxmint/mint-themes/commit/5db29db47c2c9e670356660570deb7589f757f8d)
-- [ ] [<code>Mint-Y-Gtk3: Fix the hover color in the Nemo sidebar</code>](https://github.com/linuxmint/mint-themes/commit/85d35dcfd12f8f5aeaa07c2d07711b27ba42125a)
-- [ ] [<code>Mint-Y: Add a light 1px border around window frames</code>](https://github.com/linuxmint/mint-themes/commit/f6b0a84fe37dcf67de8cb95a12dff924cf8c16d8)
-- [ ] [<code>Mint-Y: Bump up the color mix a bit</code>](https://github.com/linuxmint/mint-themes/commit/4548b88099195fa68bbf934ef574feea99056085)
-- [ ] [<code>Mint-Y: Match up csd and non-csd window borders a bit better</code>](https://github.com/linuxmint/mint-themes/commit/a3442561920f26a513e19bc08f8028977213cfa7)
-- [ ] [<code>Mint-Y: Hide shadows on tiled csd windows</code>](https://github.com/linuxmint/mint-themes/commit/ff81bb997d2ff4ab50671ba6e50b1f2f50faf779)
-- [ ] [<code>Mint-Y: Improve the styling of the Caja filemanager</code>](https://github.com/linuxmint/mint-themes/commit/531b0d95ebd1860b7aca8fdd60c311721f48aca7)
-- [ ] [<code>Mint-Y: Update the styling of the Thunar sidebar</code>](https://github.com/linuxmint/mint-themes/commit/f9157fcda3f7836c983de9bce4ca95e67f337ab3)
-- [ ] [<code>Mint-Y: Fix the color of the Mate panel</code>](https://github.com/linuxmint/mint-themes/commit/4dded40203eb8295447ff381ba543dabd80760a4)
-- [ ] [<code>Mint-Y: Clean up the titlebar styling some more</code>](https://github.com/linuxmint/mint-themes/commit/f608adc7ca57d1e2e074f8e19fa53286bfeb8fb1)
-- [ ] [<code>Mint-Y: Fix the size of csd titlebuttons</code>](https://github.com/linuxmint/mint-themes/commit/91f33a16cb4947daa9ecee47a722de2ad9733e0f)
-- [ ] [<code>Mint-Y-Cinnamon: Adapt to the Cinnamon modal dialog theming changes</code>](https://github.com/linuxmint/mint-themes/commit/513e3d753c810b63208f591a8a4392447144d89c)
-- [ ] [<code>Mint-Y: Don't use the accent color in active buttons</code>](https://github.com/linuxmint/mint-themes/commit/23c4514d34033e368e1fb87ac9406ad0702d6094)
-- [ ] [<code>Mint-Y: Fix the color of focus outline on active buttons</code>](https://github.com/linuxmint/mint-themes/commit/85775ef4a8d3eac10d2590213ef08a62905add10)
-- [ ] [<code>Mint-Y: Don't use the accent color for active menuitems</code>](https://github.com/linuxmint/mint-themes/commit/91a7940ccfe672c993b9e224289b34286dc1c4fa)
-- [ ] [<code>Fix test script</code>](https://github.com/linuxmint/mint-themes/commit/cfab023eacf54876c8d561b9f7f392d9da514d94)
-- [ ] [<code>Mint-Y: Metacity, fix artefacts in close button.</code>](https://github.com/linuxmint/mint-themes/commit/b45a92f022e9cf77e28f1e26a4890109a5bc28aa)
-- [ ] [<code>Mint-Y: Don't special case sidebar scrollbars</code>](https://github.com/linuxmint/mint-themes/commit/1fabf827bb20c5680edc5f49ecb4bcb40ac3146d)
-- [ ] [<code>Mint-Y: Readapt the csd titlebuttons to match metacity</code>](https://github.com/linuxmint/mint-themes/commit/c3966b478aa2fbf570980f48b08561cf1b3f423f)
-- [ ] [<code>Mint-Y: Fix corner radius of ssd window decorations</code>](https://github.com/linuxmint/mint-themes/commit/d852ec5354da315274b61a692af8871e6d5b00b6)
-- [ ] [<code>Remove tint on green theme and base color</code>](https://github.com/linuxmint/mint-themes/commit/58ccea4d55caa3c7acabb038655b1b8cc29a28c1)
-- [ ] [<code>Mint-Y-Dark: Fix the label color of events in gnome calendar</code>](https://github.com/linuxmint/mint-themes/commit/d5300a1df6fb205e027d64dc26906568cf17aa83)
-- [ ] [<code>Mint-Y-Cinnamon: Add initial support for the reworked calendar applet</code>](https://github.com/linuxmint/mint-themes/commit/5527afb45998bb1e93546efa330bdd3094a3bece)
-- [ ] [<code>1.8.9</code>](https://github.com/linuxmint/mint-themes/commit/e4190b097d0a94ba8f6201e8f13f52afa3a36c98)
-- [ ] [<code>Mint-Y-Cinnamon: Don't allow the number of calendar events to affect</code>](https://github.com/linuxmint/mint-themes/commit/9872d228e25a4596c5213fbbd78734cde783f8d4)
-- [ ] [<code>Gtk2: Use generated assets</code>](https://github.com/linuxmint/mint-themes/commit/d0d95dfb74b9d4588520c8ebfb3dd81680801577)
-- [ ] [<code>Remove tint on all variations</code>](https://github.com/linuxmint/mint-themes/commit/3489a5f80d6e9bc50a8a8da8f78c574be8b2cb32)
-- [ ] [<code>Regenerate assets</code>](https://github.com/linuxmint/mint-themes/commit/eacd9fb31dd10dff9c6575bab78e64caa17a7bce)
-- [ ] [<code>Update Xfwm4 theme</code>](https://github.com/linuxmint/mint-themes/commit/c3dd76a6a3b5ab163ec1063e65e311addc5a197d)
-- [ ] [<code>Update variations</code>](https://github.com/linuxmint/mint-themes/commit/ad4e26c28ac61c93ac26aa122cc004da1ca61bf2)
-- [ ] [<code>1.9.0</code>](https://github.com/linuxmint/mint-themes/commit/7c8f5043e6f34d1b9d6226de8e6652ec769def25)
-- [ ] [<code>Add additional calendar/event support to Cinnamon themes.</code>](https://github.com/linuxmint/mint-themes/commit/ab3e920e49796452f9f72b5c5391a0177ab0fd9a)
-- [ ] [<code>xfwm4: Don't hardcode the button layout</code>](https://github.com/linuxmint/mint-themes/commit/5b19ff839fb1b7358ca17d75af122a3511e6161e)
-- [ ] [<code>Xfwm4: Use circle for shade and rivet for menu</code>](https://github.com/linuxmint/mint-themes/commit/d51f8f5c2d7ee7f4f4f23785ffd7a20229a6ba16)
-- [ ] [<code>Update assets</code>](https://github.com/linuxmint/mint-themes/commit/2eb6db02d3c4bb768ccc4ac8db5957094f2337d5)
-- [ ] [<code>1.9.1</code>](https://github.com/linuxmint/mint-themes/commit/448716d2e0d20538cce785225a85050e75c4c7c1)
-- [ ] [<code>Xfwm4: titlebar color fixes</code>](https://github.com/linuxmint/mint-themes/commit/d917a005b6252523fd2fa8953bf7b090e7d1eb22)
-- [ ] [<code>Xfwm4: Make bottom corners completely square</code>](https://github.com/linuxmint/mint-themes/commit/6e7195d23f9ceaa901f50576dcb3257706755884)
-- [ ] [<code>Generate asssets</code>](https://github.com/linuxmint/mint-themes/commit/09e1d2be832b7be3ae3ca40f1d42d73aea10e41e)
-- [ ] [<code>1.9.2</code>](https://github.com/linuxmint/mint-themes/commit/0ef5d02ff22758a5aaa9092582034a496c014f2d)
-- [ ] [<code>Mint-X cinnamon: Fix hover style of 'home date' button, change</code>](https://github.com/linuxmint/mint-themes/commit/eb98197446a0fb8d51de4f620c1db59f73e09d8f)
-- [ ] [<code>1.9.3</code>](https://github.com/linuxmint/mint-themes/commit/a6869229ac4c3f5ee798fea0dbc1ceddf8d317db)
-- [ ] [<code>Mint-X cinnamon: Add support for the no-events 'button' and improve</code>](https://github.com/linuxmint/mint-themes/commit/fbb280380d13db162520d416e8bcacddcb83885a)
-- [ ] [<code>mint-x cinnamon: Some cleanup.</code>](https://github.com/linuxmint/mint-themes/commit/71e1bf8cf4293a42fab4393c53af2835529c0c06)
-- [ ] [<code>Mint-Y cinnamon: Add support for the 'no events' button.</code>](https://github.com/linuxmint/mint-themes/commit/3412b8e27695038256e64db386ed54c6d7d6f7c8)
-- [ ] [<code>Mint-X cinnamon: Fix color of no-events calendar icon.</code>](https://github.com/linuxmint/mint-themes/commit/e2e03bd982f194540cff4f7135fe6a125f319bea)
-- [ ] [<code>Update the 'Linux Mint' cinnamon theme for calendar changes.</code>](https://github.com/linuxmint/mint-themes/commit/32815a8f5c05df28560004d4ede2355fa60a89e1)
-- [ ] [<code>1.9.4</code>](https://github.com/linuxmint/mint-themes/commit/2bff6044851e27fa6761f183cd9dcfe3b6599fae)
-- [ ] [<code>Mint-Y: Fix top and bottom clipping of the window close button in</code>](https://github.com/linuxmint/mint-themes/commit/08ac147633d436c92d412e27d3ea375f1347dfe8)
-- [ ] [<code>Mint-Y: Update metacity thumbnail</code>](https://github.com/linuxmint/mint-themes/commit/5c2fcfe106433fa0461d8caf2b04088070680aa3)
-- [ ] [<code>1.9.5</code>](https://github.com/linuxmint/mint-themes/commit/389b26d37dccda90468a88efdcbc282abcb1b202)
-- [ ] [<code>Mint-Y: compile sass to reflect 08ac147633d436c92d412</code>](https://github.com/linuxmint/mint-themes/commit/a4205ce27339dfc80b02b3bc16e2aa433c11bebf)
-- [ ] [<code>Update Mint-Y cinnamon thumbnails.</code>](https://github.com/linuxmint/mint-themes/commit/89ca146b023558608c1bf1d7a3ff42479fc9355d)
-- [ ] [<code>Mint-Y: Fix seahorse/libhandy headerbars when multiple are used.</code>](https://github.com/linuxmint/mint-themes/commit/2c0bc7fa564daf20aed41420b968d04ca1fdb71a)
-- [ ] [<code>Mint-Y: Make the mate panel separator the same color as cinnamon's.</code>](https://github.com/linuxmint/mint-themes/commit/91df7f2dbea8b989c3df8ca4cd622fdd3e0dae4e)
-- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-themes/commit/447703b2c08c9b632736be559fa47a6caa04d072) <sub>Tagged: <code>1.9.6</code></sub>
-- [ ] [<code>Mint-Y: Remove mate panel separators</code>](https://github.com/linuxmint/mint-themes/commit/7206384da57953d56562d8a46a431861ba723fbb)
-- [ ] [<code>1.9.7</code>](https://github.com/linuxmint/mint-themes/commit/40a1eefb412efa27e035c717efe042619d153977)
-- [ ] [<code>Cinnamon: Use em for spacing of the calendar dots</code>](https://github.com/linuxmint/mint-themes/commit/376c200a6ed2e8e9076022e7ba7a91360687163f)
-- [ ] [<code>Mint-Y-Gtk3: Fix hover color on Mate menus</code>](https://github.com/linuxmint/mint-themes/commit/1e95e68e7b9453574e93438972507ce1b2d3d55f)
-- [ ] [<code>1.9.8</code>](https://github.com/linuxmint/mint-themes/commit/5f5067c4dfff1ff4b6791ff99984ec7c78585b5d)
-- [ ] [<code>Linux Mint: Use em's for all font sizing</code>](https://github.com/linuxmint/mint-themes/commit/029cb0877c52a6e71b480dffcea8ed47e49b6e41)
-- [ ] [<code>Linux Mint: Use em's to space the dots in the calendar applet</code>](https://github.com/linuxmint/mint-themes/commit/001f009c9b5b81039a794a4f466a1e6d571ac879)
-- [ ] [<code>Mint-Y-Gtk2: Better match the menu to the gtk3 changes</code>](https://github.com/linuxmint/mint-themes/commit/0c6b13d435edb3a60393a8d7f579d0298406961a)
-- [ ] [<code>Mint-Y-Gtk3: Few more tweaks for gnome-calendar events</code>](https://github.com/linuxmint/mint-themes/commit/a3fe939d925ef2f9cf51aaf2e376449859790887)
-- [ ] [<code>Mint-Y-Metacity: Don't show the unmaximize icon when tiled</code>](https://github.com/linuxmint/mint-themes/commit/5cfff299173993625f1fa266a8e3d3dc431ab618)
-- [ ] [<code>Mint-Y: Set the correct icon theme in index.theme</code>](https://github.com/linuxmint/mint-themes/commit/1dd928ed5b16621690c66074398413c3dead0574)
-- [ ] [<code>Mint-Y: Match the mate-terminal background to gnome-terminal</code>](https://github.com/linuxmint/mint-themes/commit/9d0faeb062c0106e07bfa8ff79d502d6626c9993)
-- [ ] [<code>Mint-Y Cinnamon: add a fg color to the panel style, it's needed for setting</code>](https://github.com/linuxmint/mint-themes/commit/4e19d76771e78eaf1b0135716fe010e77ea61eb7)
-- [ ] [<code>modified:   src/Mint-Y/cinnamon/sass/_colors.scss</code>](https://github.com/linuxmint/mint-themes/commit/01aff583ac7814bc72678bd039042ad88b8fa421)
-- [ ] [<code>Update built file from previous commit</code>](https://github.com/linuxmint/mint-themes/commit/0c6f6fe8a18edf8da84367e26f0cffd8a124a25c)
-- [ ] [<code>Mint-Y-Gtk3: Fix some issues with gtk3 window borders</code>](https://github.com/linuxmint/mint-themes/commit/dcf7dc38c94dbfc139c75e17e7aabd4e315038b8)
-- [ ] [<code>Mint-Y-Cinnamon: Fix styling of the gwl number badge</code>](https://github.com/linuxmint/mint-themes/commit/aea689facd412345083b4511ed0b3f42676404a3)
-- [ ] [<code>1.9.9</code>](https://github.com/linuxmint/mint-themes/commit/ba401706e11587a8b5af7918bfc4107bb995b9f9)
-- [ ] [<code>Mint-Y-Cinnamon: Add radio button assets</code>](https://github.com/linuxmint/mint-themes/commit/f447a91c67e915c86be6b8fce6118d87878e8095)
-- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/mint-themes/commit/dc772a09b65fd4c4fa281294b8621ef793c20b42)
-- [ ] [<code>Mint-Y: Add initial support for Gtk4</code>](https://github.com/linuxmint/mint-themes/commit/67cf0fe0bb4ac42eb1c5f247571a1f08193538ed)
-- [ ] [<code>Mint-Y-Gtk3: Improve the styling of GtkCalendar</code>](https://github.com/linuxmint/mint-themes/commit/4d003b016bbc6b3f2521e1ca9fa839b825e0bbad)
-- [ ] [<code>Mint-Y-Xfwm: Better match csd and non-csd titlebar font colors</code>](https://github.com/linuxmint/mint-themes/commit/ed6302cd3fb89bfe3e6ac5fc3b16b5cef8913b41)
-- [ ] [<code>Mint-X-Gtk3: Remove the 1px margin on xfce panel buttons</code>](https://github.com/linuxmint/mint-themes/commit/82fb06126804bfb4f8f94de22483e48b96ddf0e1)
-- [ ] [<code>Mint-Y-Gtk3: Fix context menu label colors in Seahorse</code>](https://github.com/linuxmint/mint-themes/commit/2125d5e80c890f8d47c8bd10c7e9ee9b4141f8d2)
-- [ ] [<code>Mint-Y-Gtk3: Set a color for spinbuttons</code>](https://github.com/linuxmint/mint-themes/commit/cacadca2ba46790035a645c4e2fecff4c4d5793f)
-- [ ] [<code>Mint-Y-Gtk3: Fix the color of treeview grid and tree lines</code>](https://github.com/linuxmint/mint-themes/commit/1327db54521f78adbb63521df992da681097319b)
-- [ ] [<code>Mint-Y-Gtk2: Clean up an issue in Qt entries</code>](https://github.com/linuxmint/mint-themes/commit/c71c760709fed358c2c4f8010e8dc38a9c1f2d68)
-- [ ] [<code>Mint-X-Gtk3: Port the gtk3 theme to sass</code>](https://github.com/linuxmint/mint-themes/commit/173393d18f19591cc2764de49a25d4c62d8caf15)
-- [ ] [<code>Mint-X: Add initial support for Gtk4</code>](https://github.com/linuxmint/mint-themes/commit/b0f75c79c62b616754927a242fb13ef892a138dc)
-- [ ] [<code>Mint-Y: Remove deprecated block-progression property from assets</code>](https://github.com/linuxmint/mint-themes/commit/26cce68d9b10e5345dfad355ed03bc5a4a191fbc)
-- [ ] [<code>Mint-Y: Fix build with Inkscape 1.0</code>](https://github.com/linuxmint/mint-themes/commit/9edb77d43e6f07695e323501ce0556c9682fa718)
-- [ ] [<code>Mint-X-Gtk3: Fix up button padding a bit</code>](https://github.com/linuxmint/mint-themes/commit/a105bdda536b15298bfdaffe9ed8f0bd13843a03)
-- [ ] [<code>Mint-Y-Gtk3: Fix the caret color of caja entries in the dark theme</code>](https://github.com/linuxmint/mint-themes/commit/b41e1a2d6128f443b797a664312be508fde7d7b5)
-- [ ] [<code>Gtk3: Fix rounding of libhandy window borders</code>](https://github.com/linuxmint/mint-themes/commit/8a8e8ce16af21349612fd518cc8e1d1c629b9dbc)
-- [ ] [<code>Mint-X-Gtk3: A couple Thunar improvements</code>](https://github.com/linuxmint/mint-themes/commit/b5c2b3437d9b035165fd1f1a3af3df606838b091)
-- [ ] [<code>Mint-X-Xfwm: Better match headerbar and xfwm title colors</code>](https://github.com/linuxmint/mint-themes/commit/742616a190285e07add5f9a629cdeff1ae060dc3)
-- [ ] [<code>2.0.1</code>](https://github.com/linuxmint/mint-themes/commit/3149d5bee1f6facc070bdf81d51c3325e0233242)
-- [ ] [<code>Mint-Y-Gtk3: Better match spacing between ssd and non ssd titlebar buttons</code>](https://github.com/linuxmint/mint-themes/commit/4dc5b79e85af99bd910602fab8994ddec3cd4021)
-- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/mint-themes/commit/695285c7240c3ed63dd18562bbe169542b30c319)
 - [ ] [<code>All Cinnamon: Fix artifacts in Main menu scrollview</code>](https://github.com/linuxmint/mint-themes/commit/e7a3e06e08a29a373c7d991ac8db44e6932b9f10)
 
 ### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
@@ -543,7 +430,9 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>window.c: If maximizing a tiled window via titlebar, use the window's</code>](https://github.com/linuxmint/muffin/commit/65e1dcd252d7332323a621eb837c2bde54b631b5)
 - [ ] [<code>compositor: Add a MetaSizeChange value for tiling.</code>](https://github.com/linuxmint/muffin/commit/c894eb8a593c68f49e04c6e030d3a313c920697e)
 - [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code></sub>
-- [ ] [<code>keybindings.c: Make sure we can tile before we attempt to (#624)</code>](https://github.com/linuxmint/muffin/commit/c3d2ef26e06ebe92486337a35670eb5c249d61ef) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>keybindings.c: Make sure we can tile before we attempt to (#624)</code>](https://github.com/linuxmint/muffin/commit/c3d2ef26e06ebe92486337a35670eb5c249d61ef)
+- [ ] [<code>tiling: Treat a maximized window as tiled for the purposes of</code>](https://github.com/linuxmint/muffin/commit/d30b0b0a77bae16fafa36aded46e9bc387af5fa9)
+- [ ] [<code>tiling: When tiling at the end of a grab, use the initial position</code>](https://github.com/linuxmint/muffin/commit/a35b0a05e541659cb97603be5fa8bba6a53c5e4e) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.1...HEAD)
 
@@ -573,28 +462,10 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>ev-jobs: Use the correct page-count results container for the</code>](https://github.com/linuxmint/xreader/commit/9c6022dcba442579568319a272ab9aea2310d365)
 - [ ] [<code>epub: Fix index loading for certain documents - look for epub:type</code>](https://github.com/linuxmint/xreader/commit/7689e36ee9941cce8e8ac75306bccdd91af58485) <sub>Tagged: <code>master.lmde5</code></sub>
 
-### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.4...HEAD)
+### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.7 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.7...HEAD)
 
 
 
-- [ ] [<code>Port to meson</code>](https://github.com/linuxmint/xviewer/commit/90bd310fdb3d0f2d90e674ab37e9931438452059)
-- [ ] [<code>control: capitalize Xviewer in package desc</code>](https://github.com/linuxmint/xviewer/commit/6fadd45942c544853f71a60544f53c9a8999584e)
-- [ ] [<code>fix lintian warnings</code>](https://github.com/linuxmint/xviewer/commit/7427079200c643ef4e249b14a6f1ab7267197deb)
-- [ ] [<code>update AppStream metadata</code>](https://github.com/linuxmint/xviewer/commit/b9d59a72f44b32318bcc2a83313d6bd4d9df5260)
-- [ ] [<code>Use meson's i18n.merge_file (gettext)</code>](https://github.com/linuxmint/xviewer/commit/8c2142b41c2ea1035aa24bf9716aee9f6d928ecb)
-- [ ] [<code>Add README.md with general information and build steps</code>](https://github.com/linuxmint/xviewer/commit/86bee3ce810c2c4f0d0e39a39d0610bb96b91ec9)
-- [ ] [<code>build: add install scripts for non-debian builds (#158)</code>](https://github.com/linuxmint/xviewer/commit/7d8f88f38bb9f091a0d8d8065112232bf1de0367)
-- [ ] [<code>remove unused variables</code>](https://github.com/linuxmint/xviewer/commit/7b6cbb527a4f90ace29f3ac88142c5f7fcd5e05a)
-- [ ] [<code>fix misleading-indentation warnings</code>](https://github.com/linuxmint/xviewer/commit/ec80162c9340c8462dafa027e84036783d82bee3)
-- [ ] [<code>fix/add checked type casts</code>](https://github.com/linuxmint/xviewer/commit/82bb9d29db64a25ad4a2d9dbe358c033d29eaf39)
-- [ ] [<code>fix: move .typelib and .gir dirs into private dir</code>](https://github.com/linuxmint/xviewer/commit/d5ae53493441bb4702f54991f134881464fd2171)
-- [ ] [<code>Handle repeated prev and next keys (#164)</code>](https://github.com/linuxmint/xviewer/commit/b18cbd1934decf4024c2b175511cbaae7afd7282)
-- [ ] [<code>3.2.5</code>](https://github.com/linuxmint/xviewer/commit/2f7856742fb02c09beacc25a052cd09a60935d93) <sub>Tagged: <code>3.2.5</code> <code>master.lmde4</code> <code>master.mint20</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xviewer/commit/534ec033055036b28b7b4dd552f49d2c291fd538)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/ed859468a49cfe87dc43213284341520670cbf6c)
-- [ ] [<code>3.2.6</code>](https://github.com/linuxmint/xviewer/commit/9ae3e637c25459458faf90ce370cf51f3b7e0585) <sub>Tagged: <code>3.2.6</code></sub>
-- [ ] [<code>Add webp support.</code>](https://github.com/linuxmint/xviewer/commit/dfeaf7d6e757df64c554483fb5a336f551781295)
-- [ ] [<code>3.2.7</code>](https://github.com/linuxmint/xviewer/commit/bb4aa66075ccd0afba58a912d0318845e895c9eb) <sub>Tagged: <code>3.2.7</code> <code>master.lmde5</code></sub>
 ## random
 
 ### [blueberry](https://github.com/linuxmint/blueberry): [1.4.7 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.7...HEAD)
@@ -619,61 +490,15 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Port to meson (#3)</code>](https://github.com/linuxmint/xplayer-plparser/commit/600ec3dd3705e1968f219ff8ea96aada51ab2f04) <sub>Tagged: <code>master.lmde3</code> <code>master.mint18</code> <code>master.mint19</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
 
-### [sticky](https://github.com/linuxmint/sticky): [1.8 → HEAD](https://github.com/linuxmint/sticky/compare/1.8...HEAD)
+### [sticky](https://github.com/linuxmint/sticky): [1.10 → HEAD](https://github.com/linuxmint/sticky/compare/1.10...HEAD)
 
 
 
-- [ ] [<code>Fix instructions for non-Debain OSes</code>](https://github.com/linuxmint/sticky/commit/a1506c7c276917956b52a6711724265b46103dce)
-- [ ] [<code>Update control</code>](https://github.com/linuxmint/sticky/commit/cfe89ee8ad2748ca15d8d06e8600b50410464cb6)
-- [ ] [<code>Merge pull request #58 from SwampRabbit/master</code>](https://github.com/linuxmint/sticky/commit/996f1806163ec965bda8462f854e756147bffc42)
-- [ ] [<code>buffer: change the mouse cursor when hovering a check box</code>](https://github.com/linuxmint/sticky/commit/c2c3ee65eb04e1338d2087cd43a13a3adba26308)
-- [ ] [<code>Center confim dialog on parent window if set</code>](https://github.com/linuxmint/sticky/commit/bd89d06f03100431a314a655bdde5e26236456a5)
-- [ ] [<code>Skip confirm dialog when closing empty note.</code>](https://github.com/linuxmint/sticky/commit/1ca2563429d79fb01b6190cf8923492b68898d82)
-- [ ] [<code>Tweak conditions order</code>](https://github.com/linuxmint/sticky/commit/a8f286eced1f45d5e5246aff1bacf62cda050339)
-- [ ] [<code>Replace random color option with cycle colors</code>](https://github.com/linuxmint/sticky/commit/b54f836aea10f7c2a0e113c9bc01f60ace3faab7)
-- [ ] [<code>note_buffer.py: Fix a typo in a comment</code>](https://github.com/linuxmint/sticky/commit/3fe92243ac83b656ac8272aa8f1a6975d551eac8)
-- [ ] [<code>Note: add a 1-second delay before triggering an update for some changes</code>](https://github.com/linuxmint/sticky/commit/26a5084fcd6b7233bd06b96cb57d36065aa0b01c)
-- [ ] [<code>new note: adjust function call name for previous commit</code>](https://github.com/linuxmint/sticky/commit/735c77f4d20e577ed1656e9a42fe3758d1a9060b)
-- [ ] [<code>use get_char_count() not get_internal_markup() to check if note is empty</code>](https://github.com/linuxmint/sticky/commit/2fe1f2bc72065e30bc12a9fe6629b390822ebbc0)
-- [ ] [<code>Fix some grammar</code>](https://github.com/linuxmint/sticky/commit/afdfacfca9d4e38fa421d152dccf6f3c65a233bf)
-- [ ] [<code>Fix more grammar</code>](https://github.com/linuxmint/sticky/commit/5773bebd6e6a77b07d8f0d3c0cc28aed754eabe8)
-- [ ] [<code>Merge pull request #70 from Secret-chest/patch-1</code>](https://github.com/linuxmint/sticky/commit/776c3eb56b59b56cfc150add590f5e73da06aa56)
-- [ ] [<code>Buffer: rework get_internal_markup() to get around a memory leak in gtk.</code>](https://github.com/linuxmint/sticky/commit/a2dbc62ded2d87a2bb5ab7ead8ae7c52830381ee)
-- [ ] [<code>Note: cache the internal markup to increase performance on some updates.</code>](https://github.com/linuxmint/sticky/commit/7c4c069cb821cd59844a3e53f8a32f6217674423)
-- [ ] [<code>Add duplicate note functionality</code>](https://github.com/linuxmint/sticky/commit/985d95588913d184e905f85c30acda2cda509d2a)
-- [ ] [<code>checkbox: make sure to move the cursor window when the checkbox moves.</code>](https://github.com/linuxmint/sticky/commit/2f4fe834acf08dd08ad82ebbafb41873b860d679)
-- [ ] [<code>Restyle the status icon a bit</code>](https://github.com/linuxmint/sticky/commit/19b672f1d237b2e584f2c5a44864e44691763701)
-- [ ] [<code>Position new notes relative to their parent.</code>](https://github.com/linuxmint/sticky/commit/d0a4c8dffe1d8d9726dd6b4ddd66d9d490d9e3a0)
-- [ ] [<code>Add new note if empty on status clicked</code>](https://github.com/linuxmint/sticky/commit/459baeeba8773b506c53de45bc87231b6513018d)
-- [ ] [<code>Add preferences menuitem to status icon</code>](https://github.com/linuxmint/sticky/commit/8e66be7514676d94d4c571365dcc9012a1dfc6ff)
-- [ ] [<code>Fix new notes opening over another.</code>](https://github.com/linuxmint/sticky/commit/f799c43fba7ad6d69ae37537c2b0b72c635a361e)
-- [ ] [<code>note.get_info: also used cached height/width</code>](https://github.com/linuxmint/sticky/commit/f49a1d128295fa55578f5ae72a2a5c18931c01d6)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/sticky/commit/b1e874294378bea0bc07104d4ec7bc404751a3cd)
-- [ ] [<code>1.9</code>](https://github.com/linuxmint/sticky/commit/4b0f8cbfffe6ed2d6382979280fa3c77a47a8795) <sub>Tagged: <code>1.9</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/1322ab6c056014509371573a460a6645e7899b05)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/sticky/commit/b82477ca96b0dbed3827a99b03af6313bf2e7215)
-- [ ] [<code>1.10</code>](https://github.com/linuxmint/sticky/commit/9853590eb5da14ec1fc61519e1cbe8ff4992bc01) <sub>Tagged: <code>1.10</code></sub>
 
-### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [v22.06.1 → HEAD](https://github.com/linuxmint/timeshift/compare/v22.06.1...HEAD)
+### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.4 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.4...HEAD)
 
 
 
-- [ ] [<code>Fix various typos in the source</code>](https://github.com/linuxmint/timeshift/commit/59994abfcd221be21ed931e75f72eec70c83ead2)
-- [ ] [<code>Removes lines about paypal account.</code>](https://github.com/linuxmint/timeshift/commit/051972c38711328b7b25b63d1944ef67f6c19e4d)
-- [ ] [<code>Merge pull request #7 from luzpaz/typos</code>](https://github.com/linuxmint/timeshift/commit/e7341d351f213c1e14cb42cd253a592ee3ab2108)
-- [ ] [<code>Merge pull request #12 from icarter09/UpdateGithubTemplates</code>](https://github.com/linuxmint/timeshift/commit/fb7513286b5e4552ed46e3bd0a24398c58606d9f)
-- [ ] [<code>Remove donation window</code>](https://github.com/linuxmint/timeshift/commit/712aa213de77e51cd9501273f147b0330ee0d49e)
-- [ ] [<code>About: Update info and use a Gtk.AboutDialog</code>](https://github.com/linuxmint/timeshift/commit/d7d6edbdc1c8072e9c2215075d5906065be90f43)
-- [ ] [<code>SnapshotListBox: Fix distro name LinuxMint -> Linux Mint</code>](https://github.com/linuxmint/timeshift/commit/56183b0d71ada694a9a6feeace322fad5b854af6)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/72d27d8a7080f38c1de7f0b5913f5c2478c77ba1)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/timeshift/commit/326ca694552666c512ebae789bb4d4f8b5b68eed)
-- [ ] [<code>22.06.2</code>](https://github.com/linuxmint/timeshift/commit/2383721c0d68ef8b061682df6fdc1358ef0af5db) <sub>Tagged: <code>22.06.2</code></sub>
-- [ ] [<code>settings: Clear the initial snapshot size and file count when</code>](https://github.com/linuxmint/timeshift/commit/044b920a8299ba242e05815539289ec4e5763e3e)
-- [ ] [<code>rsync: Calculate required space before attempting to perform an (#19)</code>](https://github.com/linuxmint/timeshift/commit/22b0e16a265a0debf2227390520ada1954e3f093)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/4db05931a15533b2f3f4ba77a5f0489f2b670ef9)
-- [ ] [<code>22.06.3</code>](https://github.com/linuxmint/timeshift/commit/829c78aa072ac06bf04f1f0ae865b4fcf500bc7d) <sub>Tagged: <code>22.06.3</code></sub>
-- [ ] [<code>Disable selection of the btrfs backend when there are no btrfs</code>](https://github.com/linuxmint/timeshift/commit/96f9f8134a84f2254a3f01fe17db07de9ee02a33)
-- [ ] [<code>22.06.4</code>](https://github.com/linuxmint/timeshift/commit/6ef4c70f9cb5367ee1498afb6fac8e590b601371) <sub>Tagged: <code>22.06.4</code></sub>
 
 ### [xed-editor](https://github.com/linuxmint/xed): [3.2.5 → HEAD](https://github.com/linuxmint/xed/compare/3.2.5...HEAD)
 
