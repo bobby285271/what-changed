@@ -237,6 +237,7 @@
 - [ ] [<code>fix checkout</code>](https://github.com/stsdc/monitor/commit/9834dee662f7ed8249ff07844df20d7b012912e2)
 - [ ] [<code>.</code>](https://github.com/stsdc/monitor/commit/a1cfb0d3ceb585aa3c600f9a3b15d5ae5138a0fd)
 - [ ] [<code>Update pot. Update Russian translation. (#313)</code>](https://github.com/stsdc/monitor/commit/f4090417f61f5a0f937c797bf337417c7c194b3f)
+- [ ] [<code>Update Ukrainian translation</code>](https://github.com/stsdc/monitor/commit/37f7ca1e2ab1a6e1f85c519e8dd044cd4bfba9e9)
 
 ### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
