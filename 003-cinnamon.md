@@ -244,7 +244,11 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>systray.js: Fix a couple of applets missed in bf2cce2e7016.</code>](https://github.com/linuxmint/cinnamon/commit/223ae370efb830c288d8762322f3e6396f5c2e38)
 - [ ] [<code>extensions: Allow an applet to assume more than one 'role'.</code>](https://github.com/linuxmint/cinnamon/commit/0530e1c74272c0ab5aac538d9455f144169726e1)
 - [ ] [<code>systray applet: Fix some issues when reloading icons after panel</code>](https://github.com/linuxmint/cinnamon/commit/b392b52569741a51778260d4e5e221393a4de6a8)
-- [ ] [<code>slider.js: Pass the proper arguments to _endDragging() from actor's</code>](https://github.com/linuxmint/cinnamon/commit/64d5ac65a1fd3ccc22f32d0be71a469d09338a9e) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>slider.js: Pass the proper arguments to _endDragging() from actor's</code>](https://github.com/linuxmint/cinnamon/commit/64d5ac65a1fd3ccc22f32d0be71a469d09338a9e)
+- [ ] [<code>Fix testsound volume</code>](https://github.com/linuxmint/cinnamon/commit/85d361b013bf05e2214224b20d7d065e0583fabd)
+- [ ] [<code>theme: Fix artifacts in the menu applet when scrolling the applications</code>](https://github.com/linuxmint/cinnamon/commit/ff3882188eb798fd1a615aee3c3c75d23cda7853)
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon/commit/eadd69a2deb270325d27f155bba7cf07af2c5348)
+- [ ] [<code>windowManager.js: Fix workspace switching when only-on-primary is</code>](https://github.com/linuxmint/cinnamon/commit/8a3b76b42dde08b2ba6ba2e5a3d736f621effca3) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.2.0...HEAD)
 
@@ -280,7 +284,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>5.4.3</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53efc178744f727ae46822b1f35a885b8ceee7d8) <sub>Tagged: <code>5.4.3</code></sub>
 - [ ] [<code>meson: fix regression in installing with some panels disabled</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b965b813e8a0faf50426043d17b4ffe3e2938f7d)
 - [ ] [<code>small debian packaging improve (#286)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b8afcf6c412e4ebfb76011082d0f70dfc9a334cd)
-- [ ] [<code>5.4.4</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ae3793499c411f71a592865ce13bf875043a4ce1) <sub>Tagged: <code>5.4.4</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.4</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ae3793499c411f71a592865ce13bf875043a4ce1) <sub>Tagged: <code>5.4.4</code></sub>
+- [ ] [<code>build: add missing gio-unix-2.0 dependency (#294)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f5ba6e7a691547840f8482445c09c729e10a397) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.2.0...HEAD)
 
@@ -297,7 +302,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a25a88e0ce67918a9664af049bee98f3f7699b73) <sub>Tagged: <code>5.4.0</code></sub>
 - [ ] [<code>libcvc/meson.build: fix building with alsa. (#207)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2dcdd64302ad3a30b3f4a508ab9431af73090166)
 - [ ] [<code>Fix testsound positions in cinnamon-settings</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3bf1d7ea68e8db30e5506df6e135466813f2fa8e)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d1de49ddd5c5f41bb03e39564fd80b1fd6deb95) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d1de49ddd5c5f41bb03e39564fd80b1fd6deb95) <sub>Tagged: <code>5.4.1</code></sub>
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6896e229a9700d8161fcf4098e681d402c9afe93) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.2.0...HEAD)
 
@@ -305,7 +311,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-menus/commit/47275dffc81f93b6b8aa859fcf4ddb4eb61bb342)
 - [ ] [<code>Restore and update debian/ symbols file.</code>](https://github.com/linuxmint/cinnamon-menus/commit/0e337a960ca8160fd826383683375b2256891a42)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/245c7805575e2855460a0bea9ccb5f20bc3c57cc) <sub>Tagged: <code>5.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/245c7805575e2855460a0bea9ccb5f20bc3c57cc) <sub>Tagged: <code>5.4.0</code></sub>
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-menus/commit/f9d9a90597896db10592ac67b3a6c8a7b15bc789) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.2.0...HEAD)
 
@@ -328,7 +335,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>event-grabber: Better debugging.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/4c4fd856b8587be20611ce0e6d4808421e894252)
 - [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/23525ae18f0f9b0175c4126871f910e1433ee668) <sub>Tagged: <code>5.4.1</code></sub>
 - [ ] [<code>build: Try to find libxdo with pkgconfig, and use find_library()</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/7673a6c136ab66e3670919460a87f8887f0ba9b7)
-- [ ] [<code>Don't try to throw an error if libxdo can't be found - meson will</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/cfd87cb63316608e7f2a64f68eedcc09cc03d0da) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Don't try to throw an error if libxdo can't be found - meson will</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/cfd87cb63316608e7f2a64f68eedcc09cc03d0da)
+- [ ] [<code>libcscreensaver: add missing gio-unix-2.0 dependency (#411)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8d658e7f313879579322dce666551f132795540b) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.2.0...HEAD)
 
@@ -336,7 +344,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Remove gconf code, disable docs, remove doc dependencies.</code>](https://github.com/linuxmint/cinnamon-session/commit/3b224d72bb1e2f4f9017365c124ad77b74637a5b) <sub>Tagged: <code>master.lmde4</code> <code>master.mint20</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-session/commit/9b488694b14e8b58f787a324a6ec0cdf7054fb40)
-- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-session/commit/7c50001e0db8818292bf30be12abb8e4e573a021) <sub>Tagged: <code>5.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-session/commit/7c50001e0db8818292bf30be12abb8e4e573a021) <sub>Tagged: <code>5.4.0</code></sub>
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-session/commit/29fd37f6d8f94763c13b4f76cd91f047fbccbf81) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.2.0...HEAD)
 
@@ -359,7 +368,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>csd-xsettings: Fix dbus names.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/745e720e1387c309703249a6ad70c273c6d9b105)
 - [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/afa84f27815509fb8dc5e18d909971224a514159) <sub>Tagged: <code>5.4.1</code></sub>
 - [ ] [<code>media keys: Get rid of deliberate delay when taking a screenshot</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/41ef633a83d6f0b2b21e5b5db9f5c4da32628977)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4249121ab9945fccaab91c181d83ba248b53d223) <sub>Tagged: <code>5.4.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4249121ab9945fccaab91c181d83ba248b53d223) <sub>Tagged: <code>5.4.2</code></sub>
+- [ ] [<code>build: add missing gio-unix-2.0 dependency (#366)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/2a706f090b3b155d10c2e268382f3f145c7467c4) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.2.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.2.0...HEAD)
 
@@ -372,7 +382,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/cinnamon-translations/commit/67fd687fa61e0d75a7cb6afa1b4e1982f2f65bb4)
 - [ ] [<code>5.4.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/d1e63d7a7a8dbbeb19c93a3f0bf0bf4b01f217d2) <sub>Tagged: <code>5.4.0</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/60645febaa331ade6bf12180391122ce40ab1db0)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/46b76a40d46951288f5d6be73022715805e6fa13) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/46b76a40d46951288f5d6be73022715805e6fa13) <sub>Tagged: <code>5.4.1</code></sub>
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-translations/commit/ba129503cec76923f8ba16571bf1092fe89369b9) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.2.0...HEAD)
 
@@ -387,7 +398,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Don't use max threads for tests.</code>](https://github.com/linuxmint/cjs/commit/11be5ebfe0d5f775cea2f3bd8c351216612bc7c3)
 - [ ] [<code>testCommandLine.sh: Skip a Gio.Subprocess test when inside of a</code>](https://github.com/linuxmint/cjs/commit/e2b5671df42d7f89ef39ef949747e92b8ed821ba)
 - [ ] [<code>debian/rules: Limit number of threads for the build.</code>](https://github.com/linuxmint/cjs/commit/751e509675fcf2f91169e0015ca5d608ee3dd88f)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cjs/commit/4ad47c35432433b9367837ea7d14535f370aa0b9) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/cjs/commit/4ad47c35432433b9367837ea7d14535f370aa0b9) <sub>Tagged: <code>5.4.1</code></sub>
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cjs/commit/ec0a18fb4455e833300c55608edf25f48fcc82b9) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [a833fba6917043bf → HEAD](https://github.com/linuxmint/mint-themes/compare/a833fba6917043bf410dee4364c9a36af1ce4c83...HEAD)
 
@@ -575,7 +587,11 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>grabs: Fix restoration of window state when resize or move actions</code>](https://github.com/linuxmint/muffin/commit/de61d678c145b2702ec7416fc4e50e4a64d1b2a7)
 - [ ] [<code>window.c: If maximizing a tiled window via titlebar, use the window's</code>](https://github.com/linuxmint/muffin/commit/65e1dcd252d7332323a621eb837c2bde54b631b5)
 - [ ] [<code>compositor: Add a MetaSizeChange value for tiling.</code>](https://github.com/linuxmint/muffin/commit/c894eb8a593c68f49e04c6e030d3a313c920697e)
-- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.2</code>](https://github.com/linuxmint/muffin/commit/78c1ce268bd242f9eff5636090f89005a2816491) <sub>Tagged: <code>5.4.2</code></sub>
+- [ ] [<code>keybindings.c: Make sure we can tile before we attempt to (#624)</code>](https://github.com/linuxmint/muffin/commit/c3d2ef26e06ebe92486337a35670eb5c249d61ef)
+- [ ] [<code>tiling: Treat a maximized window as tiled for the purposes of</code>](https://github.com/linuxmint/muffin/commit/d30b0b0a77bae16fafa36aded46e9bc387af5fa9)
+- [ ] [<code>tiling: When tiling at the end of a grab, use the initial position</code>](https://github.com/linuxmint/muffin/commit/a35b0a05e541659cb97603be5fa8bba6a53c5e4e)
+- [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/muffin/commit/8de3ec3bdbf7e61c65853b9ef0ae5905cca43741) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.2.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.2.4...HEAD)
 
@@ -605,7 +621,9 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Actions: Escape tabs and newlines in paths</code>](https://github.com/linuxmint/nemo/commit/0d8a626e70c292a62e515bb24910a8b148e337fe)
 - [ ] [<code>Actions: Escape backslashes in paths</code>](https://github.com/linuxmint/nemo/commit/03a211ff11372d253d82087bf621c7e776b558e6)
 - [ ] [<code>Actions: Escape number signs in paths (#3022)</code>](https://github.com/linuxmint/nemo/commit/53a8f1e14040de725d642dd7707e747e1afcac58)
-- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/nemo/commit/4d7db35b9b0c48a6a3495d0e60c9fd2896f730ee) <sub>Tagged: <code>5.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.1</code>](https://github.com/linuxmint/nemo/commit/4d7db35b9b0c48a6a3495d0e60c9fd2896f730ee) <sub>Tagged: <code>5.4.1</code></sub>
+- [ ] [<code>Actions: Escape quoted content in paths (#3026)</code>](https://github.com/linuxmint/nemo/commit/b83bd6059e52f2067e60c80adc842beacc6a542f)
+- [ ] [<code>libnemo-private: add missing gio-unix-2.0 dependency (#3028)</code>](https://github.com/linuxmint/nemo/commit/7934751259b8536a656f33996a89421572156678) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.4 → HEAD](https://github.com/linuxmint/pix/compare/2.8.4...HEAD)
 
@@ -686,7 +704,9 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/669ad7cd9ba7203b6b4a8ccf8945105b472c975f)
 - [ ] [<code>3.4.1</code>](https://github.com/linuxmint/xreader/commit/f4dcf7393615d2ad44dcfc5a9494e11b1b1eb4d1) <sub>Tagged: <code>3.4.1</code></sub>
 - [ ] [<code>ev-jobs: Use the correct page-count results container for the</code>](https://github.com/linuxmint/xreader/commit/9c6022dcba442579568319a272ab9aea2310d365)
-- [ ] [<code>epub: Fix index loading for certain documents - look for epub:type</code>](https://github.com/linuxmint/xreader/commit/7689e36ee9941cce8e8ac75306bccdd91af58485) <sub>Tagged: <code>master.lmde5</code></sub>
+- [ ] [<code>epub: Fix index loading for certain documents - look for epub:type</code>](https://github.com/linuxmint/xreader/commit/7689e36ee9941cce8e8ac75306bccdd91af58485)
+- [ ] [<code>epub: Free the document when we leave early because of a bad toc</code>](https://github.com/linuxmint/xreader/commit/0fbcdb40755dcb1897b6ed420e103f9bb4db3800)
+- [ ] [<code>Revert "Evince Backport:  Allow adding Highlight annotations from text selection (#493)" (#556)</code>](https://github.com/linuxmint/xreader/commit/537c8db549aedefdb8cb4ed631a502913acedb3d) <sub>Tagged: <code>master.lmde5</code></sub>
 
 ### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.4...HEAD)
 
@@ -709,7 +729,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/ed859468a49cfe87dc43213284341520670cbf6c)
 - [ ] [<code>3.2.6</code>](https://github.com/linuxmint/xviewer/commit/9ae3e637c25459458faf90ce370cf51f3b7e0585) <sub>Tagged: <code>3.2.6</code></sub>
 - [ ] [<code>Add webp support.</code>](https://github.com/linuxmint/xviewer/commit/dfeaf7d6e757df64c554483fb5a336f551781295)
-- [ ] [<code>3.2.7</code>](https://github.com/linuxmint/xviewer/commit/bb4aa66075ccd0afba58a912d0318845e895c9eb) <sub>Tagged: <code>3.2.7</code> <code>master.lmde5</code></sub>
+- [ ] [<code>3.2.7</code>](https://github.com/linuxmint/xviewer/commit/bb4aa66075ccd0afba58a912d0318845e895c9eb) <sub>Tagged: <code>3.2.7</code></sub>
+- [ ] [<code>build: add missing gio-unix-2.0 dependency (#170)</code>](https://github.com/linuxmint/xviewer/commit/738f5f458dcec9c9aaec90c5307fa40cecdef139) <sub>Tagged: <code>master.lmde5</code></sub>
 ## random
 
 ### [blueberry](https://github.com/linuxmint/blueberry): [1.4.7 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.7...HEAD)
