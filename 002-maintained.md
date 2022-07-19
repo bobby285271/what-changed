@@ -316,6 +316,7 @@
 - [ ] [<code>README: Add install instructions for Fedora (official repo)</code>](https://github.com/JoseExposito/touchegg/commit/d39a9447615d42642360862448e377f9c8ed5c82)
 - [ ] [<code>added advice for starting service on fedora</code>](https://github.com/JoseExposito/touchegg/commit/43133ed982ea712a2b4cf10d90d42368d7e0473c)
 - [ ] [<code>undid formatting</code>](https://github.com/JoseExposito/touchegg/commit/1d3e8132f8430c498b1486d6589ecea8db811de1)
+- [ ] [<code>Warn about Wayland</code>](https://github.com/JoseExposito/touchegg/commit/4a59a8cf4e22ae44a3773d438b2428170337f5dc)
 
 ### [vala-lint](https://github.com/vala-lang/vala-lint): [2f8a970cbf41ac54 → HEAD](https://github.com/vala-lang/vala-lint/compare/2f8a970cbf41ac54d2b4124c9d7db64543031901...HEAD)
 
