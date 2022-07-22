@@ -426,6 +426,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Add unit testing to calculator plugin (#542)</code>](https://github.com/elementary/applications-menu/commit/53f93cf3dae1e49238cf9ed1efc2a19b223a2b61)
 
 ### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
