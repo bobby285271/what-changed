@@ -225,6 +225,8 @@
 - [ ] [<code>Completing command-line export support.</code>](https://github.com/phase1geo/minder/commit/58a07b818e9d0ea73ed3e736fefdaff3035baa51)
 - [ ] [<code>Merge branch 'cli'</code>](https://github.com/phase1geo/minder/commit/b78e8ccb07aec3957a1a2ce1e4cb253c9f3c3140)
 - [ ] [<code>Removing extraneous debug output.</code>](https://github.com/phase1geo/minder/commit/ed1767f1c401bdb7e626f166b62cb2f5e177d6ae)
+- [ ] [<code>feat(po/i18n): add zh_CN translated by potrans</code>](https://github.com/phase1geo/minder/commit/970b332a0bd7977b0b4456b893d9731a73774dbf)
+- [ ] [<code>Merge pull request #497 from QiE2035/master</code>](https://github.com/phase1geo/minder/commit/6305bcc43e01faac3ec02dbb4af48a3b360dd38c)
 
 ### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
