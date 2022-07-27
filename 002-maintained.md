@@ -117,6 +117,7 @@
 - [ ] [<code>Implement a Duplicate feature (#726)</code>](https://github.com/akiraux/Akira/commit/5097dbe739147f4e90558e1905f2d414a8ae93d9)
 - [ ] [<code>Implement layers groups (#729)</code>](https://github.com/akiraux/Akira/commit/651e9f4891035a72b01faae3614f5d6862539d2e)
 - [ ] [<code>Refactor Path Segment Representation (#708)</code>](https://github.com/akiraux/Akira/commit/5ca60251f8f9bd8c45720b7e52a07b4b03ffc68e)
+- [ ] [<code>Drop standalone usage Gdk.ModifierType in favor of boolean getters from the main canvas based on modifier intent. Fixes #730 (#731)</code>](https://github.com/akiraux/Akira/commit/d7e816deca6702d3812dfbea3e83a10d7acc8718)
 
 ### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
@@ -334,6 +335,9 @@
 - [ ] [<code>Removing extraneous debug output.</code>](https://github.com/phase1geo/minder/commit/ed1767f1c401bdb7e626f166b62cb2f5e177d6ae)
 - [ ] [<code>feat(po/i18n): add zh_CN translated by potrans</code>](https://github.com/phase1geo/minder/commit/970b332a0bd7977b0b4456b893d9731a73774dbf)
 - [ ] [<code>Merge pull request #497 from QiE2035/master</code>](https://github.com/phase1geo/minder/commit/6305bcc43e01faac3ec02dbb4af48a3b360dd38c)
+- [ ] [<code>Enhancing OrgMode exporter</code>](https://github.com/phase1geo/minder/commit/53de15bec48ee24a22d1af24d1ee41b55983985a)
+- [ ] [<code>Fixing issue with saving state of export switch values.</code>](https://github.com/phase1geo/minder/commit/3bd79b2c53c238173260b77cacf1bbe9014a0c20)
+- [ ] [<code>Merge branch 'org-mode-fixes'</code>](https://github.com/phase1geo/minder/commit/f4b855195a1081eefe57e24a2c346b9b7904797d)
 
 ### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
