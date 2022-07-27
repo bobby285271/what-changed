@@ -99,6 +99,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
 
 ### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
 
