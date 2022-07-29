@@ -18,6 +18,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Provide default case for switches (#1858)</code>](https://github.com/elementary/appcenter/commit/d5115cbe59e831e71ee92f73535a25d3483b619f)
 - [ ] [<code>AppListUpdateView: move list population from InstalledView to here (#1860)</code>](https://github.com/elementary/appcenter/commit/3676d6687af2f097529dde88b8df2b28d740f636)
 - [ ] [<code>AppInfoView: Wrap package_name instead of ellipsize (#1867)</code>](https://github.com/elementary/appcenter/commit/e7e2cf65a719fba1a04023e9eca5fe7f5e509276)
+- [ ] [<code>Disallow scrolling with mouse wheel on screenshot carousel (#1868)</code>](https://github.com/elementary/appcenter/commit/dcfa199d626e1f4cd1261f01d9551e2485aa1acc)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -73,6 +74,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
+- [ ] [<code>build: fix documentation build (#795)</code>](https://github.com/elementary/mail/commit/52a422cb1c5f061d8a683005e44da0a1c2195096)
 
 ### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
 
