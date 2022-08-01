@@ -119,6 +119,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update Solarized Palette (#672)</code>](https://github.com/elementary/terminal/commit/873068fd20098ae0065473ce49c8b768e397091e)
 - [ ] [<code>Add "Follow System Style" toggle (#666)</code>](https://github.com/elementary/terminal/commit/b283212064b536586dac888b454d629b58e540ce)
 - [ ] [<code>TerminalWidget: Connect specific settings to functions (#674)</code>](https://github.com/elementary/terminal/commit/8d05be192adf12a2dda7bf43ed02c782402368d2)
+- [ ] [<code>Require libvte >=0.59 (#675)</code>](https://github.com/elementary/terminal/commit/94b5ea931c88d4c67a24daddd5bca1278b1a5784)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
