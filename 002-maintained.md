@@ -338,6 +338,8 @@
 - [ ] [<code>Enhancing OrgMode exporter</code>](https://github.com/phase1geo/minder/commit/53de15bec48ee24a22d1af24d1ee41b55983985a)
 - [ ] [<code>Fixing issue with saving state of export switch values.</code>](https://github.com/phase1geo/minder/commit/3bd79b2c53c238173260b77cacf1bbe9014a0c20)
 - [ ] [<code>Merge branch 'org-mode-fixes'</code>](https://github.com/phase1geo/minder/commit/f4b855195a1081eefe57e24a2c346b9b7904797d)
+- [ ] [<code>Update pl.po</code>](https://github.com/phase1geo/minder/commit/3570665eff31f1c9de39dfcdc0d32a989a6f9852)
+- [ ] [<code>Merge pull request #502 from pyotr71/patch-1</code>](https://github.com/phase1geo/minder/commit/5c106f3972d7fde99fecf10c75d7f9792d6e110a)
 
 ### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
