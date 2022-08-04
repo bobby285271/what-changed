@@ -229,6 +229,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Use Hdy.Clamp to set page width (#314)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b09601a449772382c2600bac93bf1bd30554a3ca)
+- [ ] [<code>Propagate state_set event (#317)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5d281c5d4e8a24cb1f816960e0efccfe1bf896ff)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
