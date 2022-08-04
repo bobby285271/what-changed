@@ -140,6 +140,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 - [ ] [<code>Icons: update to new Flatpak brand (#141)</code>](https://github.com/elementary/sideload/commit/44244a083e47deefde4991d4462136e100702335)
+- [ ] [<code>Badge notification with app icon (#145)</code>](https://github.com/elementary/sideload/commit/646bc99717d5da44dac43434a89ed588c0b32243)
 
 ### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
