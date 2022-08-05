@@ -141,6 +141,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 - [ ] [<code>Icons: update to new Flatpak brand (#141)</code>](https://github.com/elementary/sideload/commit/44244a083e47deefde4991d4462136e100702335)
 - [ ] [<code>Badge notification with app icon (#145)</code>](https://github.com/elementary/sideload/commit/646bc99717d5da44dac43434a89ed588c0b32243)
+- [ ] [<code>Port to Gtk4 (#138)</code>](https://github.com/elementary/sideload/commit/4b536415d0b6d9a8edc3cec5a7f374ed66cdc32d)
 
 ### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -230,6 +231,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Use Hdy.Clamp to set page width (#314)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b09601a449772382c2600bac93bf1bd30554a3ca)
 - [ ] [<code>Propagate state_set event (#317)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5d281c5d4e8a24cb1f816960e0efccfe1bf896ff)
+- [ ] [<code>Use focus_in_event (#315)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9eae3122b44557d129b4ae79b09b2d02a48c570f)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
