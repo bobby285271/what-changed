@@ -165,6 +165,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Change keyfile error messages to debug.</code>](https://github.com/elementary/switchboard-plug-applications/commit/1d7318932a3356efa13ced2f4644dfa5963e883e)
 
 ### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -232,6 +233,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use Hdy.Clamp to set page width (#314)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b09601a449772382c2600bac93bf1bd30554a3ca)
 - [ ] [<code>Propagate state_set event (#317)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5d281c5d4e8a24cb1f816960e0efccfe1bf896ff)
 - [ ] [<code>Use focus_in_event (#315)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9eae3122b44557d129b4ae79b09b2d02a48c570f)
+- [ ] [<code>Add timestamp to filename (#321)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9760c59fad555c27b2181e3286b8089b29ad5afb)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -511,6 +513,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
 - [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
 - [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
+- [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
 
 ## services
 
