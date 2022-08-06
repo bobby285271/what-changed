@@ -29,6 +29,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>build: Drop libecal-1.2 support (#757)</code>](https://github.com/elementary/calendar/commit/e2c7c1e265ce571271933c934b86b01f9ebe2efb)
 
 ### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
