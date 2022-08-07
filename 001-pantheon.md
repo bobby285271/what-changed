@@ -412,6 +412,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>WindowClone: explicit namespace, make internal classes private (#1433)</code>](https://github.com/elementary/gala/commit/14cdefed9d7638fb608c5fc774d03f13efd6a63f)
 - [ ] [<code>Dialogs: use computer-fail for force quit dialog (#1432)</code>](https://github.com/elementary/gala/commit/28954a6953d303f0a5aa05ed66202e4c5265ee3e)
 - [ ] [<code>DBusAccelerator: Use the same version as in the greeter (#1437)</code>](https://github.com/elementary/gala/commit/6764d352394e244252859e5ef358b2ba0eabee31)
+- [ ] [<code>POTFILES: Add src/Dialogs.vala (#1450)</code>](https://github.com/elementary/gala/commit/f1e6c83d58d37062ee89393792ed5cb8370d51c5)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
