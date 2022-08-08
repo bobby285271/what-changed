@@ -22,8 +22,12 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>windowManager: Fix a missing default case, return early when</code>](https://github.com/linuxmint/cinnamon/commit/b908d1c2ce7db2a125c81a9aa761334b70e1631a)
 - [ ] [<code>signalManager: Make it slightly easier to debug signals and access-</code>](https://github.com/linuxmint/cinnamon/commit/227bfce0625d977e160a565de21140aa2fa8f7a9)
 - [ ] [<code>gwl: Disconnect size notify signals from actors when they become</code>](https://github.com/linuxmint/cinnamon/commit/9aff11cd26a3a8b2f135ba1076e3b5d3f8193d50)
-- [ ] [<code>windowManager.js: Fix gtk popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/414f93a8747f8e50475becfaed03fe17f65ac302) <sub>Tagged: <code>master.lmde5</code></sub>
-- [ ] [<code>5.4.9</code>](https://github.com/linuxmint/cinnamon/commit/3b8951121fd220481ae9d892101f90660f4e6e61) <sub>Tagged: <code>5.4.9</code> <code>master.mint21</code></sub>
+- [ ] [<code>windowManager.js: Fix gtk popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/414f93a8747f8e50475becfaed03fe17f65ac302)
+- [ ] [<code>5.4.9</code>](https://github.com/linuxmint/cinnamon/commit/3b8951121fd220481ae9d892101f90660f4e6e61) <sub>Tagged: <code>5.4.9</code></sub>
+- [ ] [<code>live previews: Use clones when valid, and static images in certain</code>](https://github.com/linuxmint/cinnamon/commit/2fe9ec9650f7d65462732e449107e498a1a72620)
+- [ ] [<code>windowAttentionHandler: Fix new window focus issue with Firefox.</code>](https://github.com/linuxmint/cinnamon/commit/dccfd2537f9c91cf6535a8ee2c7adb3589fd61d6)
+- [ ] [<code>keybindings.js: Use a js Map to track keybindings and handle</code>](https://github.com/linuxmint/cinnamon/commit/e88b1a999b97d524d45d64452c9a3ad0c8189330)
+- [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.4...HEAD)
 
