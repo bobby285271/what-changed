@@ -27,7 +27,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>live previews: Use clones when valid, and static images in certain</code>](https://github.com/linuxmint/cinnamon/commit/2fe9ec9650f7d65462732e449107e498a1a72620)
 - [ ] [<code>windowAttentionHandler: Fix new window focus issue with Firefox.</code>](https://github.com/linuxmint/cinnamon/commit/dccfd2537f9c91cf6535a8ee2c7adb3589fd61d6)
 - [ ] [<code>keybindings.js: Use a js Map to track keybindings and handle</code>](https://github.com/linuxmint/cinnamon/commit/e88b1a999b97d524d45d64452c9a3ad0c8189330)
-- [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8)
+- [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.4...HEAD)
 
@@ -75,7 +76,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>5.4.4</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a33cd01bc45e96bd165717be291e1dc9cea5d578) <sub>Tagged: <code>5.4.4</code></sub>
 - [ ] [<code>meson options: Set debug flag back to false.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cde270d2a41a750493b142cd721abbd3abcd3b83)
 - [ ] [<code>Fix broken rpath (#367)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/07b7a670ef6fb2d9cd2b80ee397c1f2de2f9ba0a)
-- [ ] [<code>wacom: Don't set an rpath for led helpers.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e06680ce2db03045c1030be66315a1e382b4a734) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>wacom: Don't set an rpath for led helpers.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e06680ce2db03045c1030be66315a1e382b4a734)
+- [ ] [<code>Small packaging improvements (#368)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/883ec8deca8d10cf1b2608969f415bb83949c84c) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.2...HEAD)
 
@@ -176,6 +178,7 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>buffer, do_insert_text: always reassign location text iter to former pos</code>](https://github.com/linuxmint/sticky/commit/155179fcaf0197dd5dc802541fb175e435010da4)
 
 ### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
