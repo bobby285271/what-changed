@@ -28,7 +28,9 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>windowAttentionHandler: Fix new window focus issue with Firefox.</code>](https://github.com/linuxmint/cinnamon/commit/dccfd2537f9c91cf6535a8ee2c7adb3589fd61d6)
 - [ ] [<code>keybindings.js: Use a js Map to track keybindings and handle</code>](https://github.com/linuxmint/cinnamon/commit/e88b1a999b97d524d45d64452c9a3ad0c8189330)
 - [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8)
-- [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97)
+- [ ] [<code>windowAttentionHandler: remove notification fallback, re-add all</code>](https://github.com/linuxmint/cinnamon/commit/718668673e171806cc30709af5366c029746ba34)
+- [ ] [<code>windowManager.js: get rid of (non-cinnamon) popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/e2157dfb7389bcc9044ad832c88e949fc21d76f2) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.4...HEAD)
 
