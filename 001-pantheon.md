@@ -19,6 +19,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppListUpdateView: move list population from InstalledView to here (#1860)</code>](https://github.com/elementary/appcenter/commit/3676d6687af2f097529dde88b8df2b28d740f636)
 - [ ] [<code>AppInfoView: Wrap package_name instead of ellipsize (#1867)</code>](https://github.com/elementary/appcenter/commit/e7e2cf65a719fba1a04023e9eca5fe7f5e509276)
 - [ ] [<code>Disallow scrolling with mouse wheel on screenshot carousel (#1868)</code>](https://github.com/elementary/appcenter/commit/dcfa199d626e1f4cd1261f01d9551e2485aa1acc)
+- [ ] [<code>AppInfoView: Make screenshot carousel full page width (#1572)</code>](https://github.com/elementary/appcenter/commit/dc063d9d78e3d3dad2c7ef1f8cdab5e672f6bea4)
 
 ### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -69,6 +70,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>Fix terminal critical warnings and possible crash when removing bookmark (#2062)</code>](https://github.com/elementary/files/commit/daa5ab244b45aafdd7be49eb0bd6f052ded5b5a7)
+- [ ] [<code>Show overlay bar only on selection  (#2034)</code>](https://github.com/elementary/files/commit/d44ef6fb7a4ce4c59e0deb836907f01c34776672)
 
 ### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -414,6 +416,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Dialogs: use computer-fail for force quit dialog (#1432)</code>](https://github.com/elementary/gala/commit/28954a6953d303f0a5aa05ed66202e4c5265ee3e)
 - [ ] [<code>DBusAccelerator: Use the same version as in the greeter (#1437)</code>](https://github.com/elementary/gala/commit/6764d352394e244252859e5ef358b2ba0eabee31)
 - [ ] [<code>POTFILES: Add src/Dialogs.vala (#1450)</code>](https://github.com/elementary/gala/commit/f1e6c83d58d37062ee89393792ed5cb8370d51c5)
+- [ ] [<code>Add support for Mutter 43 (#1451)</code>](https://github.com/elementary/gala/commit/0631debf0e2132de052c906e830eb23477251ea2)
 
 ### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -433,6 +436,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Synchronize the .vapi with Gala (#453)</code>](https://github.com/elementary/wingpanel/commit/d12167bd77cec002af5222853b8919b14cd46e35)
 - [ ] [<code>Update wingpanel.appdata.xml.in</code>](https://github.com/elementary/wingpanel/commit/cdf7c19bce17e3854369ade4b54b6bb154b31e67)
 - [ ] [<code>Revert "Lib: Remove deprecated widgets" (#456)</code>](https://github.com/elementary/wingpanel/commit/a3c67cfbd4d94f52118f52cbf4dc18802561f85b)
+- [ ] [<code>Create CONTRIBUTING.md (#461)</code>](https://github.com/elementary/wingpanel/commit/db8591ae708d4f4bebea474e0b99166b8126e905)
 
 ## desktop/wingpanel-indicators
 
