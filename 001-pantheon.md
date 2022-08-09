@@ -239,6 +239,8 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Use focus_in_event (#315)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9eae3122b44557d129b4ae79b09b2d02a48c570f)
 - [ ] [<code>Add timestamp to filename (#321)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9760c59fad555c27b2181e3286b8089b29ad5afb)
 - [ ] [<code>Add timestamp to filename in contract (#322)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c58cdb92d81c9247838d9badfd956382289a4c17)
+- [ ] [<code>Selected wallpaper check: follow accent color (#323)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9cece63bd3469df4900866ec500e5e38ba6b820f)
+- [ ] [<code>Fix accent color (#324)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/91de7b69cd82115e5fdcba93e1a6268587ec3fdf)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
