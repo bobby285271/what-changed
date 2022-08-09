@@ -353,6 +353,7 @@
 - [ ] [<code>.</code>](https://github.com/stsdc/monitor/commit/a1cfb0d3ceb585aa3c600f9a3b15d5ae5138a0fd)
 - [ ] [<code>Update pot. Update Russian translation. (#313)</code>](https://github.com/stsdc/monitor/commit/f4090417f61f5a0f937c797bf337417c7c194b3f)
 - [ ] [<code>Update Ukrainian translation</code>](https://github.com/stsdc/monitor/commit/37f7ca1e2ab1a6e1f85c519e8dd044cd4bfba9e9)
+- [ ] [<code>Update Portuguese translation (#323)</code>](https://github.com/stsdc/monitor/commit/8dd4f9a682e447d5d164404ce9992a1d3b281021)
 
 ### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
