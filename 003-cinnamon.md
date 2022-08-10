@@ -79,7 +79,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>meson options: Set debug flag back to false.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cde270d2a41a750493b142cd721abbd3abcd3b83)
 - [ ] [<code>Fix broken rpath (#367)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/07b7a670ef6fb2d9cd2b80ee397c1f2de2f9ba0a)
 - [ ] [<code>wacom: Don't set an rpath for led helpers.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e06680ce2db03045c1030be66315a1e382b4a734)
-- [ ] [<code>Small packaging improvements (#368)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/883ec8deca8d10cf1b2608969f415bb83949c84c) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Small packaging improvements (#368)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/883ec8deca8d10cf1b2608969f415bb83949c84c)
+- [ ] [<code>5.4.5</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6ccf37c4a6df93c809d17de5b90ec643e7146347) <sub>Tagged: <code>5.4.5</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.2...HEAD)
 
@@ -148,6 +149,7 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>ev-window.c: Don't try to handle keyboard events manually.</code>](https://github.com/linuxmint/xreader/commit/4362a3567245cde757d1fb2aca228470ccc8b392) <sub>Tagged: <code>master.lmde5</code></sub>
 
 ### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.9 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.9...HEAD)
 
