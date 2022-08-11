@@ -244,6 +244,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fix accent color (#324)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/91de7b69cd82115e5fdcba93e1a6268587ec3fdf)
 - [ ] [<code>Undo mechanism for trashing wallpapers (#327)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e0258718d49264360453df57e7f3149ea08513ed)
 - [ ] [<code>Load stylesheet once (#326)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc7de42e3e839448fcbbad859fdabe864a596af5)
+- [ ] [<code>Fallback to hardcoded path if required (#328)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/95007974173f41db95c0e0b6f2c205bcc061fb1f)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -581,6 +582,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Workflows: Rename ARM workflow for clarity (#600)</code>](https://github.com/elementary/os/commit/eaa1d5c9b608e74db95304e40c1e60c341358ec9)
 - [ ] [<code>Remove lupin-support from pool (#614)</code>](https://github.com/elementary/os/commit/a6fb13f66dcf19086b812cbedb0f06b89a0b5459)
 - [ ] [<code>Issue Templates: point to contributor docs instead of github org (#619)</code>](https://github.com/elementary/os/commit/d796dde207ce3526ecd3db20dc99f905e8776e07)
+- [ ] [<code>Add responsive light/dark mode logos to README.md (#622)</code>](https://github.com/elementary/os/commit/3a78a90d91d7a802798452a02453afbc3d218941)
 
 ### [github:elementary/seeds](https://github.com/elementary/seeds): [31d60df70f3ae058 → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
