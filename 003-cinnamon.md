@@ -30,7 +30,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8)
 - [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97)
 - [ ] [<code>windowAttentionHandler: remove notification fallback, re-add all</code>](https://github.com/linuxmint/cinnamon/commit/718668673e171806cc30709af5366c029746ba34)
-- [ ] [<code>windowManager.js: get rid of (non-cinnamon) popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/e2157dfb7389bcc9044ad832c88e949fc21d76f2) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>windowManager.js: get rid of (non-cinnamon) popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/e2157dfb7389bcc9044ad832c88e949fc21d76f2)
+- [ ] [<code>sound@cinnamon.org: Fix panel scrolling behavior.</code>](https://github.com/linuxmint/cinnamon/commit/bda9dc5dd959e8425189d044ed4bf686f32a4769) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.4...HEAD)
 
