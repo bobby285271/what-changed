@@ -20,7 +20,14 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97)
 - [ ] [<code>windowAttentionHandler: remove notification fallback, re-add all</code>](https://github.com/linuxmint/cinnamon/commit/718668673e171806cc30709af5366c029746ba34)
 - [ ] [<code>windowManager.js: get rid of (non-cinnamon) popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/e2157dfb7389bcc9044ad832c88e949fc21d76f2)
-- [ ] [<code>sound@cinnamon.org: Fix panel scrolling behavior.</code>](https://github.com/linuxmint/cinnamon/commit/bda9dc5dd959e8425189d044ed4bf686f32a4769) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>sound@cinnamon.org: Fix panel scrolling behavior.</code>](https://github.com/linuxmint/cinnamon/commit/bda9dc5dd959e8425189d044ed4bf686f32a4769)
+- [ ] [<code>windowManager.js: Complete the workspace switch immediately if</code>](https://github.com/linuxmint/cinnamon/commit/7dac334cf1ce4507718b00ef9c9ba0f26d8eb965)
+- [ ] [<code>panel.js: Don't create a (horizontal) panel barrier for a vertical</code>](https://github.com/linuxmint/cinnamon/commit/683b219b192891cb873fce519a1586be5baad5f1)
+- [ ] [<code>panel.js: No barriers when there is only a single monitor.</code>](https://github.com/linuxmint/cinnamon/commit/d9591fdeeb68953938b54013482b79fccbdc36a5)
+- [ ] [<code>panel.js: global.screen -> global.display</code>](https://github.com/linuxmint/cinnamon/commit/3d8843c29b6c8ab25ea2f5a8c280dbd8eb57f00c)
+- [ ] [<code>More issue templates, not everything is a bug report (#11011)</code>](https://github.com/linuxmint/cinnamon/commit/1859cc2a71fb368d34bc4e512342bccf7772b4c1)
+- [ ] [<code>Fix bug remplate, remove question template.</code>](https://github.com/linuxmint/cinnamon/commit/a43be26f1225a4e5c09744219ddec881e66ac5ca) <sub>Tagged: <code>master.lmde5</code></sub>
+- [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944) <sub>Tagged: <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -89,7 +96,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
-- [ ] [<code>fix spelling error spotted by lintian</code>](https://github.com/linuxmint/nemo/commit/67a335014749accd12eb187571a071504da04635) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>fix spelling error spotted by lintian</code>](https://github.com/linuxmint/nemo/commit/67a335014749accd12eb187571a071504da04635)
+- [ ] [<code>App chooser: Quote custom executable file paths (#3041)</code>](https://github.com/linuxmint/nemo/commit/f004f88b8daf9cd5504db98aa031e19f37b46011) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
