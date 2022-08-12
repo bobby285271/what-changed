@@ -48,6 +48,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Ensure tab toggle label is always correct (#1145)</code>](https://github.com/elementary/code/commit/95f037b724acc7605e749073e6b440bb93495e72)
 - [ ] [<code>Add follow system style switch (#1202)</code>](https://github.com/elementary/code/commit/94fa089ceb8669847041ca73e3720127fc0f9e40)
 - [ ] [<code>Explicitly handle missing cases (#1199)</code>](https://github.com/elementary/code/commit/04ad197a43626ce829387aa5c22de31171a59d0e)
+- [ ] [<code>Update io.elementary.code.appdata.xml.in</code>](https://github.com/elementary/code/commit/e5322f1fceb11bc6ce042eeff59788fab4fb86cf)
 
 ### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -124,6 +125,9 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add "Follow System Style" toggle (#666)</code>](https://github.com/elementary/terminal/commit/b283212064b536586dac888b454d629b58e540ce)
 - [ ] [<code>TerminalWidget: Connect specific settings to functions (#674)</code>](https://github.com/elementary/terminal/commit/8d05be192adf12a2dda7bf43ed02c782402368d2)
 - [ ] [<code>Require libvte >=0.59 (#675)</code>](https://github.com/elementary/terminal/commit/94b5ea931c88d4c67a24daddd5bca1278b1a5784)
+- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/e135fa4d5a93e5abd6014ae3cbbd32ec3d02417a)
+- [ ] [<code>AppData: update format and screenshots (#678)</code>](https://github.com/elementary/terminal/commit/b724ef4664fd4c20dbed4adc8b6490c82b3e4a9e)
+- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/095a11efd00a9681ab66d23f36ea0c957497f560)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -147,6 +151,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Badge notification with app icon (#145)</code>](https://github.com/elementary/sideload/commit/646bc99717d5da44dac43434a89ed588c0b32243)
 - [ ] [<code>Port to Gtk4 (#138)</code>](https://github.com/elementary/sideload/commit/4b536415d0b6d9a8edc3cec5a7f374ed66cdc32d)
 - [ ] [<code>Handle error on constructing flatpak bundle, fix error signalling (#143)</code>](https://github.com/elementary/sideload/commit/84d81971bf46ff135997d679574276cc71ff7de4)
+- [ ] [<code>Update POT</code>](https://github.com/elementary/sideload/commit/cd49e58e4ecb07f7a94f3ea88037a37af565ec65)
 
 ### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
