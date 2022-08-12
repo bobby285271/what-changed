@@ -257,6 +257,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Authenticate on demand for lid close settings (#218)</code>](https://github.com/elementary/switchboard-plug-power/commit/b4d3c8774b17ea218fda81294b8e544179240335)
 
 ### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
@@ -298,6 +299,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Button: inherited label properties (#1214)</code>](https://github.com/elementary/stylesheet/commit/bbc21c83de3d5fe89370f74b371b51a8c3dac689)
 - [ ] [<code>Infobars: fix button margin when no close (#1213)</code>](https://github.com/elementary/stylesheet/commit/cf94c760935ebb5614a0b10097feb9e3f132bd50)
 - [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
+- [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
 
 ### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
