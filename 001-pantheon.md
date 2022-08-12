@@ -128,6 +128,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/e135fa4d5a93e5abd6014ae3cbbd32ec3d02417a)
 - [ ] [<code>AppData: update format and screenshots (#678)</code>](https://github.com/elementary/terminal/commit/b724ef4664fd4c20dbed4adc8b6490c82b3e4a9e)
 - [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/095a11efd00a9681ab66d23f36ea0c957497f560)
+- [ ] [<code>Release 6.1.0 (#677)</code>](https://github.com/elementary/terminal/commit/3eb472010c7fe7a9174168ef2bb993caf7777b38) <sub>Tagged: <code>6.1.0</code></sub>
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -208,6 +209,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Release 3.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/aa46cfe474b054ffee902f674216812696d89a76) <sub>Tagged: <code>3.0.0</code></sub>
 - [ ] [<code>Shortcuts/List: use workspaces icon from system (#410)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/d3248bc0716293f0e958ac6bab11d03038e19149)
 - [ ] [<code>Replace Shortcut TreeView with a ListBox subclass</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c4988d9a3ed26e44fe61b3f09bb5dc071497ff4f)
+- [ ] [<code>Prepare for GTK4: Undepend from libgnomekbd (#413)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e55840b6ae272992aa12b7e5f44cef70f66c7210)
 
 ### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
