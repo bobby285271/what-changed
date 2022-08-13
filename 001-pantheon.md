@@ -129,6 +129,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>AppData: update format and screenshots (#678)</code>](https://github.com/elementary/terminal/commit/b724ef4664fd4c20dbed4adc8b6490c82b3e4a9e)
 - [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/095a11efd00a9681ab66d23f36ea0c957497f560)
 - [ ] [<code>Release 6.1.0 (#677)</code>](https://github.com/elementary/terminal/commit/3eb472010c7fe7a9174168ef2bb993caf7777b38) <sub>Tagged: <code>6.1.0</code></sub>
+- [ ] [<code>build: Drop unused ubuntu-bionic-patched-vte option (#679)</code>](https://github.com/elementary/terminal/commit/59726d0d5e32501c7ffe867ff5cf97d8b7e27e27)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -462,6 +463,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Add unit testing to calculator plugin (#542)</code>](https://github.com/elementary/applications-menu/commit/53f93cf3dae1e49238cf9ed1efc2a19b223a2b61)
 - [ ] [<code>Improve calculator plugin (#539)</code>](https://github.com/elementary/applications-menu/commit/d762f5a6ca05297885f56a0e5f3d834accec90dc)
 - [ ] [<code>Unit conversion plugin (#541)</code>](https://github.com/elementary/applications-menu/commit/771db040afe6355031889ce3968ed84eb5e6aaa6)
+- [ ] [<code>Use regex to parse conversion plugin input (#545)</code>](https://github.com/elementary/applications-menu/commit/e44d69828361104c3771c7c9ab415ab082c8ad08)
 
 ### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
