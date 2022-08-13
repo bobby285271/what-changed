@@ -108,27 +108,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 
 - [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
 
-### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.0.2 → HEAD](https://github.com/elementary/terminal/compare/6.0.2...HEAD)
+### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.0 → HEAD](https://github.com/elementary/terminal/compare/6.1.0...HEAD)
 
 
 
-- [ ] [<code>Simplify handling of themes (#661)</code>](https://github.com/elementary/terminal/commit/c1f6419cd0f31919f653741b3357528ee84c9c6a)
-- [ ] [<code>Perpetuate custom theme (#663)</code>](https://github.com/elementary/terminal/commit/2a81a7103799e96cf3d98f6831bfc31217dafa8a)
-- [ ] [<code>Add a custom theme dialog (#662)</code>](https://github.com/elementary/terminal/commit/137bbc1355ae6aa10f2372ec05a0fc4dd5821dcd)
-- [ ] [<code>ColorPreferencesDialog: Use Granite.Dialog (#664)</code>](https://github.com/elementary/terminal/commit/21c98192ad7f75275e272d49fc5241c8b9828246)
-- [ ] [<code>GSchema: change custom theme default values to Solarized Dark (#667)</code>](https://github.com/elementary/terminal/commit/6363cd2504062db11769e644113185505d68c6c2)
-- [ ] [<code>MainWindow: Style color buttons from theme (#665)</code>](https://github.com/elementary/terminal/commit/dd7ea51b66ac81dcdf22e2e2d5313895dbc42cbf)
-- [ ] [<code>Dialogs/ColorPreferences: reset to default via gsettings (#669)</code>](https://github.com/elementary/terminal/commit/6d45a974b38344d6cedf6898b60a80349146b5b6)
-- [ ] [<code>Themes: Remove opacity from default themes (#670)</code>](https://github.com/elementary/terminal/commit/74efe445c958b9ae19559de29a1d9e0c9d709acf)
-- [ ] [<code>MainWindow: Update active color button on theme change (#671)</code>](https://github.com/elementary/terminal/commit/c5215f364231f3bebfa7208fa6e37dc86406406e)
-- [ ] [<code>Update Solarized Palette (#672)</code>](https://github.com/elementary/terminal/commit/873068fd20098ae0065473ce49c8b768e397091e)
-- [ ] [<code>Add "Follow System Style" toggle (#666)</code>](https://github.com/elementary/terminal/commit/b283212064b536586dac888b454d629b58e540ce)
-- [ ] [<code>TerminalWidget: Connect specific settings to functions (#674)</code>](https://github.com/elementary/terminal/commit/8d05be192adf12a2dda7bf43ed02c782402368d2)
-- [ ] [<code>Require libvte >=0.59 (#675)</code>](https://github.com/elementary/terminal/commit/94b5ea931c88d4c67a24daddd5bca1278b1a5784)
-- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/e135fa4d5a93e5abd6014ae3cbbd32ec3d02417a)
-- [ ] [<code>AppData: update format and screenshots (#678)</code>](https://github.com/elementary/terminal/commit/b724ef4664fd4c20dbed4adc8b6490c82b3e4a9e)
-- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/095a11efd00a9681ab66d23f36ea0c957497f560)
-- [ ] [<code>Release 6.1.0 (#677)</code>](https://github.com/elementary/terminal/commit/3eb472010c7fe7a9174168ef2bb993caf7777b38) <sub>Tagged: <code>6.1.0</code></sub>
 - [ ] [<code>build: Drop unused ubuntu-bionic-patched-vte option (#679)</code>](https://github.com/elementary/terminal/commit/59726d0d5e32501c7ffe867ff5cf97d8b7e27e27)
 
 ### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
