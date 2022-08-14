@@ -43,3 +43,14 @@ def get_tagmap(repo: git.Repo) -> dict:
     for tag in repo.tags:
         tagmap.setdefault(repo.commit(tag), []).append(tag)
     return tagmap
+
+
+def get_changed_imp(commit: git.Commit, file: list) -> list:
+    ret = []
+    changed = commit.stats.files.keys()
+    for i in file:
+        for j in changed:
+            if os.path.basename(j) == i:
+                ret.append(i)
+                break
+    return ret
