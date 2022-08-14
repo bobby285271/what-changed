@@ -6,19 +6,26 @@
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
 - [ ] [<code>Major refactor to main (#635)</code>](https://github.com/akiraux/Akira/commit/70304ea144460ada2a4b2893aeb6a25b0d2c6ff5)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement solid transformation code (#636)</code>](https://github.com/akiraux/Akira/commit/1e46d4b6c0b21355803b5ad1228f32ee65ed4935)
 - [ ] [<code>Fix rotation issue (#637)</code>](https://github.com/akiraux/Akira/commit/36bfab14baea89e90ede9ef7c3d65b3a479cccd3)
 - [ ] [<code>More artboard code (#640)</code>](https://github.com/akiraux/Akira/commit/5554ebeca057c9fb2634ccfea3b942544854bb46)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix drawable bounding box (#643)</code>](https://github.com/akiraux/Akira/commit/d0324d598a745fe2f9c081c76566214df13fb796)
 - [ ] [<code>Remove item signals (#644)</code>](https://github.com/akiraux/Akira/commit/7cf5f1c949ed1add33eabcde05707429e1726b60)
 - [ ] [<code>Tiny cleanup removing vestigial check (#645)</code>](https://github.com/akiraux/Akira/commit/edc7bd51b5cc9cc410e4546f026bf85a5d479d5e)
 - [ ] [<code>Update the selected nob when resizing (#646)</code>](https://github.com/akiraux/Akira/commit/0e4f0de11343e2c1319e79f6df10acd1cad40052)
 - [ ] [<code>Several improvements (#647)</code>](https://github.com/akiraux/Akira/commit/fc7e6f107d096326a7af768ad7cd92b5fd7d7396)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement serializatino / deserializatino for Lib2 (#648)</code>](https://github.com/akiraux/Akira/commit/df38d73bcbf9784d43829f63cb65d2b557bc62eb)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>No goocanvas (#652)</code>](https://github.com/akiraux/Akira/commit/05a4317e7ca2348066721e41368e8ee929e2d2d1)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Enable Layers UI (#649)</code>](https://github.com/akiraux/Akira/commit/549513e7ea968bf7d7810cb57c3addf2593422af)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix paint_hover transform bug (#654)</code>](https://github.com/akiraux/Akira/commit/6b5a4f5d84892f0d60ba509a71924d745d29f7a8)
 - [ ] [<code>Buildsystem cleanup (#653)</code>](https://github.com/akiraux/Akira/commit/2c5565641b513111b6b3067b1fd099b7f7f43670)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Follow system theme color dark/light</code>](https://github.com/akiraux/Akira/commit/ac793d94b41efca8fec435b8c220633afa47eb62)
 - [ ] [<code>Fix Artboard and multiselection hitbox detection (#656)</code>](https://github.com/akiraux/Akira/commit/f4e0043d330ce86c9fce7bf9f8fcfb0349856e6b)
 - [ ] [<code>Remove toggle from settings and more</code>](https://github.com/akiraux/Akira/commit/0a646025ac316726909c37015649a4b67a097171)
@@ -29,14 +36,18 @@
 - [ ] [<code>Update SettingsDialog.vala</code>](https://github.com/akiraux/Akira/commit/256f6eab0aa58f948f7171366799613da7067574)
 - [ ] [<code>Update SettingsDialog.vala</code>](https://github.com/akiraux/Akira/commit/0fbc777320452f2f9c8f651e1d4ca4134531be37)
 - [ ] [<code>Promote Lib2 to Lib (#659)</code>](https://github.com/akiraux/Akira/commit/42b2565080e7c50654fed5dbd7683c8d2d5589e9)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Prevent ctrl_is_pressed from remaining true (#658)</code>](https://github.com/akiraux/Akira/commit/a57d1a67783e2e8ebf65605c64080dd9aeaf836b)
 - [ ] [<code>Fix `dark_theme` var not used on app start</code>](https://github.com/akiraux/Akira/commit/634e62f2b153720b198090301725cac4c674c9b9)
 - [ ] [<code>Merge branch 'update-theme' of https://github.com/Abdallah-Moh/Akira into Abdallah-Moh-update-theme</code>](https://github.com/akiraux/Akira/commit/edddb2b306e67aca44aaabfb7373df0c4e72838b)
 - [ ] [<code>Code and comment clean up</code>](https://github.com/akiraux/Akira/commit/719ce773f9bbcf6ac838eaf0dda6de86c8fe3894)
 - [ ] [<code>Merge branch 'Abdallah-Moh-update-theme' into main</code>](https://github.com/akiraux/Akira/commit/0d6f7dc26bbedb4d704aa7b4c3392bf8771e60a5)
 - [ ] [<code>Merge branch 'main' of github.com:akiraux/Akira into main</code>](https://github.com/akiraux/Akira/commit/fdac9c648afbb447e307aaa7cae24293af875c26)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Basic Paths Feature (#660)</code>](https://github.com/akiraux/Akira/commit/57eb02799db2c2dc4783188fdd530eea6cb8158d)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create PathPointItems and refactor existing code</code>](https://github.com/akiraux/Akira/commit/6b8c40f3b72e491974d0d083fa567c8c027061e5)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Refactor PathItemFactory to handle adding points</code>](https://github.com/akiraux/Akira/commit/1c9517a544c9a9348993a7be66c3797e1c91ba24)
 - [ ] [<code>Delete points on BackSpace key event</code>](https://github.com/akiraux/Akira/commit/08311233131b4f51dea5b0b4ef072badf9789396)
 - [ ] [<code>Fix serialize-deserialize ???</code>](https://github.com/akiraux/Akira/commit/738433ce538d958d80224220e614d3af0d422869)
@@ -46,7 +57,9 @@
 - [ ] [<code>Revert "Delete points on BackSpace key event"</code>](https://github.com/akiraux/Akira/commit/152b08afcbebc7f15507cfc290d47b6148b0ca69)
 - [ ] [<code>Revert "Refactor PathItemFactory to handle adding points"</code>](https://github.com/akiraux/Akira/commit/badd0677568552044fb1e19a58407604c9a20d4c)
 - [ ] [<code>Revert "Create PathPointItems and refactor existing code"</code>](https://github.com/akiraux/Akira/commit/147115738ef84a1d69817c378b0bf5793990a8dc)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create PathEditModel and refactor</code>](https://github.com/akiraux/Akira/commit/f5fd401cc10a4d5b39cbf946a1e031ebb8de3054)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Commands to represent type of path added</code>](https://github.com/akiraux/Akira/commit/1f5afe933cb24dcbe684c2d4244bf10aef05b3b7)
 - [ ] [<code>Basic curves functionality</code>](https://github.com/akiraux/Akira/commit/1ec0aa75cda78d1ca98b858fe8b9a9c1ad68826b)
 - [ ] [<code>Refactor and bug fixes in Curves</code>](https://github.com/akiraux/Akira/commit/046ee03bf42cffbb90a9bd5081bfeea2062629c5)
@@ -62,13 +75,18 @@
 - [ ] [<code>Deselect items when clicking on an empty area between selected items (#664)</code>](https://github.com/akiraux/Akira/commit/70745bc6d42cddb9b9039ecc798f2517d26d2fe3)
 - [ ] [<code>Changes as per review</code>](https://github.com/akiraux/Akira/commit/046404035dbce4caba287e802f5c3bd4a3785424)
 - [ ] [<code>Merge branch 'path-actions' of https://github.com/AshishS-1123/Akira into AshishS-1123-path-actions</code>](https://github.com/akiraux/Akira/commit/0226cc4d12a579d7f4cf2a3f1ba65b3e1c147239)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Nits code changes</code>](https://github.com/akiraux/Akira/commit/142730d1f28829705f885a9adcac7cd1c51f1124)
 - [ ] [<code>Merge branch 'AshishS-1123-path-actions' into main</code>](https://github.com/akiraux/Akira/commit/737e6ba9cd91b71ad5b2e7f79b898ad00e42d4e7)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create a virtual listbox widget (#665)</code>](https://github.com/akiraux/Akira/commit/4b05f59b634e6ca6115da8fbff003f44870c3fc9)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/akiraux/Akira/commit/f895adbe593d903987d1a01330531b517745b8d6)
 - [ ] [<code>New layers listbox selection (#671)</code>](https://github.com/akiraux/Akira/commit/f0a037004096ab005b13bcf4a050562b093ae2bd)
 - [ ] [<code>Layers list improvements (#672)</code>](https://github.com/akiraux/Akira/commit/e0c181bff66dbd79e3cdd39e04f23c4f8a389c32)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Selection alignment (#675)</code>](https://github.com/akiraux/Akira/commit/d4d699dd15d56f1b45e3156d83cfffc28aa8aba9)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fancy layers UI is fancy (#673)</code>](https://github.com/akiraux/Akira/commit/b2690baa0bfc7e02d4990ef99bbb73324b6b1307)
 - [ ] [<code>Fix vala 0.54 compilation (#677)</code>](https://github.com/akiraux/Akira/commit/ee33c883668328edacc6cfe7647954840d24cc3a)
 - [ ] [<code>Fix vertical grid layer lines (#678)</code>](https://github.com/akiraux/Akira/commit/c841c64d98ef55edb291c44d0da8501be988dabf)
@@ -79,48 +97,64 @@
 - [ ] [<code>More Layers UI features (#681)</code>](https://github.com/akiraux/Akira/commit/1ec2a019d652fae855c7d67f84550d030d3c7004)
 - [ ] [<code>Improve alert change for other compiled components (#687)</code>](https://github.com/akiraux/Akira/commit/b08478e160974f52bcb7e307819a488f79c4ebbd)
 - [ ] [<code>Add alignment panel, logic & anchor alignment (#683)</code>](https://github.com/akiraux/Akira/commit/f547a15e2991750b5df9ccd2ab705d69b118d9ef)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add a basic text item (#686)</code>](https://github.com/akiraux/Akira/commit/ba673f93e49fa31dd667d62cf6e9560dfcdb00a5)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add lock layer feature (#685)</code>](https://github.com/akiraux/Akira/commit/f497acf47add18cf08f74dc758174c98be4c0322)
 - [ ] [<code>Add multi selection by click and drag (#684)</code>](https://github.com/akiraux/Akira/commit/7355470e4b14e5f78742ed55ef2e9691966b204d)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Multi selection performance (#690)</code>](https://github.com/akiraux/Akira/commit/05952f9af2ec9810ff337a9989e10c21dbe34f5e)
 - [ ] [<code>Add quad hit test and use it for rotated shapes (#693)</code>](https://github.com/akiraux/Akira/commit/c793bdf6269621be576f701c149674c92065330c)
 - [ ] [<code>Simplify alignment buttons (#692)</code>](https://github.com/akiraux/Akira/commit/05f13fdf6c13613838c6c2e4e465bfc155c57b63)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Block UI and selection improvements (#694)</code>](https://github.com/akiraux/Akira/commit/4a2dbfdbd21aab080629012b7375b1d39520de51)
 - [ ] [<code>Use estimated bounding boxes for drawables (#695)</code>](https://github.com/akiraux/Akira/commit/390ba0c71663b6bdde25fbaf5422c18877dd3f5a)
 - [ ] [<code>Selection improvements (#696)</code>](https://github.com/akiraux/Akira/commit/933af100b17c436d2dab73c1dcd4c3999c8dc33f)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Improve subselection (#697)</code>](https://github.com/akiraux/Akira/commit/7f8b68496278821221351956d8a034a291a150ae)
 - [ ] [<code>Sub selection to anchor point update (#698)</code>](https://github.com/akiraux/Akira/commit/f60ed58ce72499ec66b9960bb7b70699882e530e)
 - [ ] [<code>Inefficient implementation of undo/redo (#699)</code>](https://github.com/akiraux/Akira/commit/13401b98d4cede3b2dc979dadd081e8ce7620910)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Modify Points in Vector Tool and Other Features (#668)</code>](https://github.com/akiraux/Akira/commit/0e5aefba979af7780e194c188857458cc34cc78d)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Modify Points in Vector Tool and Other Features (#668)</code>](https://github.com/akiraux/Akira/commit/1579c79507bf1fd67c2fbd89e98e0d048e0483ef)
 - [ ] [<code>Reimplement the boilerplate UI of the transform panel (#700)</code>](https://github.com/akiraux/Akira/commit/8502910657825d11a1f59a4565b99b8156e6ce3e)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Layers history (#703)</code>](https://github.com/akiraux/Akira/commit/3b76d90cd99b53f9363efb1181278003c1b0ecd9)
 - [ ] [<code>Let the artboard label follow the system themeing (#704)</code>](https://github.com/akiraux/Akira/commit/c57a28eebdd6fc609e3d09807e7af878c25a366b)
 - [ ] [<code>Regenerate layers list when restacking items (#706)</code>](https://github.com/akiraux/Akira/commit/4ba49c0a93c1e674eb032b61683ee1bd46eca9df)
 - [ ] [<code>Don't trigger unnecessary undos on some ops (#707)</code>](https://github.com/akiraux/Akira/commit/fde3b2bac4b9e15aecf61ab9113f1724324f113d)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add simple XRay implementation (#710)</code>](https://github.com/akiraux/Akira/commit/4b67f3888c3365011b32f92d9517b4cedaf635aa)
 - [ ] [<code>Initial implementation of the fills color panel (#709)</code>](https://github.com/akiraux/Akira/commit/dad81d12efa3a45ad318cfc8716f7ef4dba3b4d3)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix various typos (#711)</code>](https://github.com/akiraux/Akira/commit/83040020acede6e6d5d3d60b62f9e71fd718fc60)
 - [ ] [<code>Fix selection updates (#712)</code>](https://github.com/akiraux/Akira/commit/5e6cd5826d532972d06ee5674525cc64eef1ca4f)
 - [ ] [<code>Fix some pointer issues (#713)</code>](https://github.com/akiraux/Akira/commit/ac481877ba83d39ce80695285239285874db6b6f)
 - [ ] [<code>Simple ListBox for Borders and Fills panels (#714)</code>](https://github.com/akiraux/Akira/commit/07ed8a077b744d7c43b7e030ff4e7afb02adc34a)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix add border when empty and connect transform panel</code>](https://github.com/akiraux/Akira/commit/b4e883a6633cdfa548490d6f775c9340720ee252)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Lint fix</code>](https://github.com/akiraux/Akira/commit/a92e74c419dfc57b620e39f5316bf5d061e96867)
 - [ ] [<code>Merge branch 'transformed_rect'</code>](https://github.com/akiraux/Akira/commit/9a2be58a1ccdc1845d5cfb5734ab52ca9694559d)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Don't add border for Artboards (#720)</code>](https://github.com/akiraux/Akira/commit/05d9996672633032b41c29ea7c711a53726f8b48)
 - [ ] [<code>Fix title overflow (#721)</code>](https://github.com/akiraux/Akira/commit/23a92dcffb50a7fdb8b65c7de28955e66c51373b)
 - [ ] [<code>Improve SHIFT handling of Selection Manager (#728)</code>](https://github.com/akiraux/Akira/commit/96b2e4030b8c193fbe99ad393c6c29003c289497)
 - [ ] [<code>Implement a Duplicate feature (#726)</code>](https://github.com/akiraux/Akira/commit/5097dbe739147f4e90558e1905f2d414a8ae93d9)
 - [ ] [<code>Implement layers groups (#729)</code>](https://github.com/akiraux/Akira/commit/651e9f4891035a72b01faae3614f5d6862539d2e)
 - [ ] [<code>Refactor Path Segment Representation (#708)</code>](https://github.com/akiraux/Akira/commit/5ca60251f8f9bd8c45720b7e52a07b4b03ffc68e)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Drop standalone usage Gdk.ModifierType in favor of boolean getters from the main canvas based on modifier intent. Fixes #730 (#731)</code>](https://github.com/akiraux/Akira/commit/d7e816deca6702d3812dfbea3e83a10d7acc8718)
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
 - [ ] [<code>Fix translation is not loaded in Flatpak (#119)</code>](https://github.com/donadigo/appeditor/commit/d3f62e5162f3ec2ae49fb9d9c12915212efc6719)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create sv.po (#109)</code>](https://github.com/donadigo/appeditor/commit/49d28431f03d22271c3bc648fdde0d779ed370e8)
 - [ ] [<code>Remove constant</code>](https://github.com/donadigo/appeditor/commit/752d5081dbca698961ef38166cf1d82e56b02341)
 - [ ] [<code>Release 1.1.4</code>](https://github.com/donadigo/appeditor/commit/aeb0b13e5dfd2dfde951e8f18d9075eee5054f71)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
@@ -139,13 +173,19 @@
 - [ ] [<code>update po files</code>](https://github.com/alainm23/planner/commit/eb391f6b8acaba3c61c5328110ce18b43e504d5c)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/05674a13e02fea83d240dcb31a19337b3971fac0)
 - [ ] [<code>First commit Planner 3</code>](https://github.com/alainm23/planner/commit/9b98b425fea6998319d709738fb6edd5ab2ff91c)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix Lint</code>](https://github.com/alainm23/planner/commit/719c210f5d8bc079da4b711388dc6e083288ed91)
 - [ ] [<code>Next</code>](https://github.com/alainm23/planner/commit/b1a5ee8a32237d1d92d5ea48c915f67c99fe4d61)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>New sidebar</code>](https://github.com/alainm23/planner/commit/cc23e45f0afc117ad7bab19056d989727eb3f581)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Nuevos cambios</code>](https://github.com/alainm23/planner/commit/8caf14a7f8f1837d6b04ef4ec87eb7432c9f343f)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/836ccd314399105162d4d6c9bac1cde4aaebf9c5)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Update .gitignore</code>](https://github.com/alainm23/planner/commit/74e2b52662380b5d4c712e245ecbc792fe7087c9)
 - [ ] [<code>Merge pull request #844 from alainm23/next</code>](https://github.com/alainm23/planner/commit/e4847079ff71589352d014f401730e7986264b2c)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Create main.yml</code>](https://github.com/alainm23/planner/commit/32350d4ec86410b876ad67564b994541d74292de)
 - [ ] [<code>Delete lint.yml</code>](https://github.com/alainm23/planner/commit/1273c995f01985fd8f44cdceda261400d92ad2d8)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/331de374563a144ef611cbf1079d6aa6b20d406e)
@@ -157,6 +197,7 @@
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/77ff46721cea63e79343ce2a319b70b66a6ace01)
 - [ ] [<code>Update flatpak build</code>](https://github.com/alainm23/planner/commit/e7e9117090255672f0ce581ed82c17d78959e081)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/f1d0b1e6ff40e30fc5fa21fbab82ea37a075cae6)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/042982e33132e062887eb66902c93e207ab0b619)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/5bb27ebaf1ff35b4f09def37afae4f1e14f68df6)
   - <sub>Tagged: <code>3.0-beta1</code></sub>
@@ -164,40 +205,53 @@
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/6022c87315915ea10b68540c1008fd08890c5207)
   - <sub>Tagged: <code>3.0</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/b5dcf1b707beedcefb648bcebb6134257919fc5c)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/79eb825d91ba01bd44dcf3641877a8a1cc3b2b12)
   - <sub>Tagged: <code>3.0.1</code></sub>
 - [ ] [<code>Release 3.0.2</code>](https://github.com/alainm23/planner/commit/5a635cbed659abf23d96241312899cd04d6087c3)
   - <sub>Tagged: <code>3.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>j</code>](https://github.com/alainm23/planner/commit/bdb14ca11f42ddf458beff56c61ae0551152969b)
 - [ ] [<code>Release 3.0.3</code>](https://github.com/alainm23/planner/commit/3552f216e3fac8e750372502bbed4136d505adff)
   - <sub>Tagged: <code>3.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.4</code>](https://github.com/alainm23/planner/commit/2a6e4333a94a7845ba8ea9405be4faa1fbe7a14c)
   - <sub>Tagged: <code>3.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.4</code>](https://github.com/alainm23/planner/commit/73c9d245affe31869298a0f40eacd25d4ab012cf)
   - <sub>Tagged: <code>3.0.5</code></sub>
 - [ ] [<code>Add Shortcuts</code>](https://github.com/alainm23/planner/commit/d53a5826a891f03d6af0488b30dee2cb3c99f09a)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.6</code>](https://github.com/alainm23/planner/commit/67c86d0262bd9c7a560afbd32091afa166638019)
   - <sub>Tagged: <code>3.0.6</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/2c7813afe8c4b4bbced8305fc350c12c34bdad34)
 - [ ] [<code>Fix build with vala 0.56</code>](https://github.com/alainm23/planner/commit/87be3e27ccc8f9a1ef7fbeec9600459eb4569200)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/5a9d136a68b07cd832c3a223a78ea459b1a4658e)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #884 from bobby285271/vala</code>](https://github.com/alainm23/planner/commit/ba5a6fab4c9b20cf9b801a9afd1665af5cdaec98)
 - [ ] [<code>Caldav support tasklist</code>](https://github.com/alainm23/planner/commit/257d614109348c3c6a8420c1f501e6ef7a56e5c1)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Enable CalDAV priority</code>](https://github.com/alainm23/planner/commit/fa3d603885bb5f3f8bd8088ee980eec0cd781df7)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CalDAV support</code>](https://github.com/alainm23/planner/commit/703715b58fbc1fcbfbacfd16fd7faffa64e248b9)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use default setting theme</code>](https://github.com/alainm23/planner/commit/31299e582053b43e20c14fe1648003c8ac1a0601)
 - [ ] [<code>Use default setting theme</code>](https://github.com/alainm23/planner/commit/5387594605b45f46da0cbcfdd2457f7306174e67)
 - [ ] [<code>Support planner offline</code>](https://github.com/alainm23/planner/commit/a86fde6084ee399fd2243fc3b5942a3f996e8d58)
 - [ ] [<code>Support planner offline #891</code>](https://github.com/alainm23/planner/commit/668da1c92e2061b99269243482a17c36b35df363)
 - [ ] [<code>Improve sort task</code>](https://github.com/alainm23/planner/commit/fe715fbbe2f645b3e948708fac1cee00f8f16bb6)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.7</code>](https://github.com/alainm23/planner/commit/b0ee84d9e77cdb18026fdab8c032945b0fed4504)
   - <sub>Tagged: <code>3.0.7</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/6afe275f2245efa39a8a936fa7b9e6527e8a6114)
 - [ ] [<code>Release 3.0.8</code>](https://github.com/alainm23/planner/commit/b3c7b3dfbd4f89a0364bbd091975467df256f298)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixed grammar: addd -> add, hight -> high</code>](https://github.com/alainm23/planner/commit/980618c42eb169b68cee8e0644bbab010b9e6fd3)
 - [ ] [<code>Merge branch 'master' into patch-1</code>](https://github.com/alainm23/planner/commit/90ce75ba2c2efd8f7cf93152d646f6fa39d034ea)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #895 from CottageCabbage/patch-1</code>](https://github.com/alainm23/planner/commit/9d1c710e2b528c12fa4e28b84035a838d3153d05)
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/8e253df31f93a8e7853b07d5c1552203db449163)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/daf6aff3fd9cd2ad47c52312b8aeded905a65aea)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
@@ -232,6 +286,7 @@
 - [ ] [<code>Add French missing translaion</code>](https://github.com/artemanufrij/hashit/commit/7c943b60b4cfd162db1799fe33fd39febd99d9c7)
 - [ ] [<code>Update src/Application.vala</code>](https://github.com/artemanufrij/hashit/commit/af8fc7027e6dce3484814fa539d23c40ab6b1646)
 - [ ] [<code>Merge branch 'master' into update-fr</code>](https://github.com/artemanufrij/hashit/commit/cb4ab83f42077209260d0740e4fbfe99bb6e2f51)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #32 from NathanBnm/update-fr</code>](https://github.com/artemanufrij/hashit/commit/59c857206b957ee98f8df5e0f4cd95df41b07906)
 - [ ] [<code>Delete Config.vala.cmake</code>](https://github.com/artemanufrij/hashit/commit/0c62bcf474bd0b7ffeeea152d3c9be38148643dc)
 - [ ] [<code>Merge pull request #33 from NathanBnm/patch-1</code>](https://github.com/artemanufrij/hashit/commit/a81857d83fc720eee1d321f4326e98f7a8bf757d)
@@ -259,6 +314,7 @@
 - [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/cbfb7fee687dedd01d52002e06d9a358bd72ed84)
 - [ ] [<code>Update it.po (#116)</code>](https://github.com/lainsce/khronos/commit/1de562d0b92546f9a3568c35c3572a6585c33205)
 - [ ] [<code>3.7.1 - Adwaita-ification</code>](https://github.com/lainsce/khronos/commit/5983b1efa1d4a6d78c982e74cbc7d445d66aba51)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch 'main' of https://github.com/lainsce/khronos</code>](https://github.com/lainsce/khronos/commit/100867d15db64a7c6a0de5b08bae1716b21c8442)
 - [ ] [<code>upd gitignore</code>](https://github.com/lainsce/khronos/commit/f0b5e92c7d40183de474c674724bfa50aa11cdae)
 - [ ] [<code>small UI changes</code>](https://github.com/lainsce/khronos/commit/dc31ec10f8cff193dcf56db81837a3645372daa9)
@@ -287,6 +343,7 @@
 - [ ] [<code>Add flatpak permission for home folder access</code>](https://github.com/phase1geo/minder/commit/c2f468188a7c76f1d65d928381777415ac060e67)
 - [ ] [<code>Merge pull request #462 from SubhadeepJasu/patch-1</code>](https://github.com/phase1geo/minder/commit/a72f21a6d9f244410adac12bd532a61abfa99089)
 - [ ] [<code>Fixing syntax highlighting in note fields and enabling header font scaling.</code>](https://github.com/phase1geo/minder/commit/d96f64f1bc828c45c57e2a414f4aac6d64172732)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Changing note popup to display rendered text instead of literal text.</code>](https://github.com/phase1geo/minder/commit/5e8a9b6b8495dee396e46cc3dcb7532c1bb06ff9)
 - [ ] [<code>Fixing Edit Text node menu functionality.</code>](https://github.com/phase1geo/minder/commit/8eccb31313e3afee0f443b43517bbac85c0bb27a)
 - [ ] [<code>* Updating translation files.</code>](https://github.com/phase1geo/minder/commit/4eaf1b00be45fe13c0e2227cce0fca4763a20cad)
@@ -310,6 +367,7 @@
 - [ ] [<code>Fixing syntax issue.</code>](https://github.com/phase1geo/minder/commit/f91938db72343b708006c15070b01c3fc41eeda7)
 - [ ] [<code>Fixing segmentation fault issues with certain export types.</code>](https://github.com/phase1geo/minder/commit/8018a80a364a6538f4b47cd04de15f6c8b7bff07)
 - [ ] [<code>Updating translations</code>](https://github.com/phase1geo/minder/commit/a6c73127ab73e816dc778345aabe6a9f37d131f2)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/42f6fa30cf0615f75a89d3f0651d6c143fd776c3)
 - [ ] [<code>Merge pull request #490 from albanobattistella/patch-20</code>](https://github.com/phase1geo/minder/commit/4fb0711e1e8ba7edb9d50110dbc6c8bb0173d056)
 - [ ] [<code>Zoom to Selected Node enhancements</code>](https://github.com/phase1geo/minder/commit/28ac32c557264c6f7f884b8ac050e33d54885314)
@@ -358,6 +416,7 @@
 - [ ] [<code>182</code>](https://github.com/parnold-x/nasc/commit/31bcc912a7810198e5387a474f0238cee1e6908e)
 - [ ] [<code>#180</code>](https://github.com/parnold-x/nasc/commit/1550c820fa554911c95c950a03a8b3b9e88cc426)
 - [ ] [<code>Update meson.build</code>](https://github.com/parnold-x/nasc/commit/ee36e8906e7e228a08bd08c82a64084d2071e94b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [notes-up](https://github.com/Philip-Scott/Notes-up): [2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/2.0.6...HEAD)
 
@@ -377,6 +436,7 @@
 - [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
   - <sub>Tagged: <code>1.4.1</code></sub>
 - [ ] [<code>Merge pull request #86 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/25a3097e3ac6ceb31ba9f82b4148d7259cf01238)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #91 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/16f498768fd30da4b69174723dfbe590fb75f199)
   - <sub>Tagged: <code>1.5.1</code></sub>
 - [ ] [<code>Merge pull request #92 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/041391cefcaa7c504ea024324eb4776efe7e5432)
@@ -425,11 +485,16 @@
 - [ ] [<code>Update issue templates</code>](https://github.com/needle-and-thread/vocal/commit/cceb3eb5931119815eaa24a3cb4908be495d454a)
 - [ ] [<code>Update issue templates</code>](https://github.com/needle-and-thread/vocal/commit/5001b3efdd7cad3a0600b5b475338c8f1fd4cf42)
 - [ ] [<code>Feature: add test runner (#426)</code>](https://github.com/needle-and-thread/vocal/commit/979d76bd6c8735d883d96e17e96d8e75ff0cda4d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Downgrade Node.js to fix builds on Travis CI (#425)</code>](https://github.com/needle-and-thread/vocal/commit/9cc059f7af75b0579e7f474fa0e1ec2eaf9ff8db)
 - [ ] [<code>gpodder.net Integration (WIP) (#403)</code>](https://github.com/needle-and-thread/vocal/commit/033211f2434db85ef43bfe4967b2d73d133d5903)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>New playback bar (#429)</code>](https://github.com/needle-and-thread/vocal/commit/ba7a769aa1dcb187db7be7ab5aaecb7f9c41138e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fixed a couple issues from the merge of gpodder.net into master, and temporarily disabled the new tests.</code>](https://github.com/needle-and-thread/vocal/commit/d268b5f7a56a32d30f0407818eae4df251d69b79)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Removed an unused widget, fixed a couple strings, and regenerated the translations pot file</code>](https://github.com/needle-and-thread/vocal/commit/782f0456878f83f142c5df7d768c0c784464b2dd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Updated translation files from Transifex</code>](https://github.com/needle-and-thread/vocal/commit/e0556637302caf1a7ae46ab86990d20cbdc439ff)
 - [ ] [<code>Update database schema & primary keys. (#424)</code>](https://github.com/needle-and-thread/vocal/commit/b6f6c2b5c1457ee054276d869427585298e9ab65)
 - [ ] [<code>Fixed a bug where all downloaded episodes were deleted. Fixes #413</code>](https://github.com/needle-and-thread/vocal/commit/79555061d1199e7f8c3f2a25e655dbd6fd806d6e)
@@ -455,7 +520,9 @@
 - [ ] [<code>Full Russian translate (#471)</code>](https://github.com/needle-and-thread/vocal/commit/a7c4d799c9dac4ae5aad8084a8d5b9453bc7d005)
 - [ ] [<code>Added Italian (#491)</code>](https://github.com/needle-and-thread/vocal/commit/148a8aa4609930500e14e5764fcb3d83ba812809)
 - [ ] [<code>cmake to meson (#500)</code>](https://github.com/needle-and-thread/vocal/commit/1544141dc8e788f7c3854dada9a43aab7781ad97)
+  - <sub>Files: <code>meson.build</code> <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Initial port to GTK4/libadwaita</code>](https://github.com/needle-and-thread/vocal/commit/366d7b8f79c988f367666dcd36a64ded3507abcf)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/80c49f659dfb94bfb04043a4c39473e64a89f8d0)
 - [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/bbd171d5b8bf60eb1636c24fc44016071e247028)
 - [ ] [<code>Show size and duration of episodes. Fixes #29</code>](https://github.com/needle-and-thread/vocal/commit/454d7f7b8a53c22cf19fc3334525bac265060db3)
