@@ -22,8 +22,10 @@
 - [ ] [<code>More issue templates, not everything is a bug report (#11011)</code>](https://github.com/linuxmint/cinnamon/commit/1859cc2a71fb368d34bc4e512342bccf7772b4c1)
 - [ ] [<code>Fix bug remplate, remove question template.</code>](https://github.com/linuxmint/cinnamon/commit/a43be26f1225a4e5c09744219ddec881e66ac5ca)
 - [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>5.4.10</code>](https://github.com/linuxmint/cinnamon/commit/afdbb3d30bb13c1ab395d8c959d8e21600d58719)
   - <sub>Tagged: <code>5.4.10</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>keybindings.js: Use bindings.get() - this.bindings is a Map.</code>](https://github.com/linuxmint/cinnamon/commit/7724e4146baf8431bc1fb55dce60984e77adef5a)
 - [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9)
 - [ ] [<code>Reimplement the locate pointer functionality</code>](https://github.com/linuxmint/cinnamon/commit/b84524300937e4722283ec9d1cc5987067f656c6)
@@ -81,6 +83,7 @@
 - [ ] [<code>App chooser: Quote custom executable file paths (#3041)</code>](https://github.com/linuxmint/nemo/commit/f004f88b8daf9cd5504db98aa031e19f37b46011)
 - [ ] [<code>5.4.3</code>](https://github.com/linuxmint/nemo/commit/39e765de72d8b16895f318848a8b49374b6265a0)
   - <sub>Tagged: <code>5.4.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
@@ -95,12 +98,14 @@
 
 - [ ] [<code>libxapp: add missing gio-unix-2.0 dependency (#156)</code>](https://github.com/linuxmint/xapp/commit/052081f75d1c1212aeb6a913772723c81607bcb3)
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.3...HEAD)
 
 - [ ] [<code>ev-window.c: Don't try to handle keyboard events manually.</code>](https://github.com/linuxmint/xreader/commit/4362a3567245cde757d1fb2aca228470ccc8b392)
 - [ ] [<code>3.4.4</code>](https://github.com/linuxmint/xreader/commit/c103a1a6c6ad02161f997a2fe78b6c123e6a7e35)
   - <sub>Tagged: <code>3.4.4</code> <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
@@ -118,6 +123,7 @@
 - [ ] [<code>Add CI configuration</code>](https://github.com/linuxmint/xplayer-plparser/commit/507b84bd9c0dd7c80a0f7333ce2a859ec138956d)
 - [ ] [<code>Port to meson (#3)</code>](https://github.com/linuxmint/xplayer-plparser/commit/600ec3dd3705e1968f219ff8ea96aada51ab2f04)
   - <sub>Tagged: <code>master.lmde3</code> <code>master.mint18</code> <code>master.mint19</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.11 → HEAD](https://github.com/linuxmint/sticky/compare/1.11...HEAD)
