@@ -1,16 +1,7 @@
-# What-changed (Pantheon)
-
-List of non-translation Pantheon changes which are *probably* not shipped by NixOS yet.
-
-- [NixOS/nixpkgs Pantheon project board](https://github.com/NixOS/nixpkgs/projects/21)
-- [List of upstream project boards](https://github.com/orgs/elementary/projects?type=beta)
-- [View recent upstream releases and their change logs](https://releases.elementary.io/)
-
+# what-changed (Pantheon)
 ## apps
 
-### [pantheon.appcenter](https://github.com/elementary/appcenter): [3.10.0 → HEAD](https://github.com/elementary/appcenter/compare/3.10.0...HEAD)
-
-
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [3.10.0 → HEAD](https://github.com/elementary/appcenter/compare/3.10.0...HEAD)
 
 - [ ] [<code>AbstractView: Replace Stack with Deck (#1769)</code>](https://github.com/elementary/appcenter/commit/02dda381b16703183cd2220dc4efde0562af42f7)
 - [ ] [<code>AppListView → SearchView (#1859)</code>](https://github.com/elementary/appcenter/commit/8c90e8161d11673ce1fd99137347475bc950623a)
@@ -21,25 +12,17 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Disallow scrolling with mouse wheel on screenshot carousel (#1868)</code>](https://github.com/elementary/appcenter/commit/dcfa199d626e1f4cd1261f01d9551e2485aa1acc)
 - [ ] [<code>AppInfoView: Make screenshot carousel full page width (#1572)</code>](https://github.com/elementary/appcenter/commit/dc063d9d78e3d3dad2c7ef1f8cdab5e672f6bea4)
 
-### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
 
-
-
-### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
-
-
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
 
 - [ ] [<code>build: Drop libecal-1.2 support (#757)</code>](https://github.com/elementary/calendar/commit/e2c7c1e265ce571271933c934b86b01f9ebe2efb)
 
-### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
 
-
-
-### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
-
-
+#### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
 - [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
@@ -50,9 +33,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Explicitly handle missing cases (#1199)</code>](https://github.com/elementary/code/commit/04ad197a43626ce829387aa5c22de31171a59d0e)
 - [ ] [<code>Update io.elementary.code.appdata.xml.in</code>](https://github.com/elementary/code/commit/e5322f1fceb11bc6ce042eeff59788fab4fb86cf)
 
-### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
-
-
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
 - [ ] [<code>Let's roll</code>](https://github.com/elementary/dock/commit/f3fbb3c146a3ece984fbd15cd6a6e90b95d54c60)
 - [ ] [<code>Create LICENSE</code>](https://github.com/elementary/dock/commit/b469be80d1efbe015b8767ec3a3c5109aeefc558)
@@ -60,63 +41,45 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Load launchers from gsettings (#155)</code>](https://github.com/elementary/dock/commit/67dd5d6cf55a8f50661d332383a2ca2859fb4029)
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 
-### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
-
-
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
 
 - [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
 
-### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
-
-
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
 
 - [ ] [<code>Fix terminal critical warnings and possible crash when removing bookmark (#2062)</code>](https://github.com/elementary/files/commit/daa5ab244b45aafdd7be49eb0bd6f052ded5b5a7)
 - [ ] [<code>Show overlay bar only on selection  (#2034)</code>](https://github.com/elementary/files/commit/d44ef6fb7a4ce4c59e0deb836907f01c34776672)
 
-### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
-
-
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
 - [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
 - [ ] [<code>build: fix documentation build (#795)</code>](https://github.com/elementary/mail/commit/52a422cb1c5f061d8a683005e44da0a1c2195096)
 
-### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
-
-
+#### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
 
 - [ ] [<code>PlaybackManager: Use file basename for fallback audio object title (#710)</code>](https://github.com/elementary/music/commit/97a437edc7652e0b85b7d3c6fd87089c14ec02e2)
 - [ ] [<code>PlaybackManager: Skip invalid files instead of stopping playback. (#711)</code>](https://github.com/elementary/music/commit/88f332197d2131daeff3306ec2a484a28fa4db21)
 - [ ] [<code>Enable the NEXT button if repeat mode is set to ALL or ONE. (#712)</code>](https://github.com/elementary/music/commit/3249e3ca247dfd5ff6b14f4feeeeed63b435bcb8)
 - [ ] [<code>Application: hard code gtk styles (#723)</code>](https://github.com/elementary/music/commit/4e22268d38574e56eb3b42ae201c99cc98b510db)
 
-### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
-
-
+#### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
 
 - [ ] [<code>Add Photo Viewer icons (#716)</code>](https://github.com/elementary/photos/commit/80ac13731ea1ed32f90293929a08bc138fe4d111)
 
-### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
-
-
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
 - [ ] [<code>Fix data/meson.build (#241)</code>](https://github.com/elementary/screenshot/commit/80a5d942e813dd098e1ef0f6629b81d2ccef05ae)
 - [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
 
-### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
-
-
+#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
 - [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
 
-### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.0 → HEAD](https://github.com/elementary/terminal/compare/6.1.0...HEAD)
-
-
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.0 → HEAD](https://github.com/elementary/terminal/compare/6.1.0...HEAD)
 
 - [ ] [<code>build: Drop unused ubuntu-bionic-patched-vte option (#679)</code>](https://github.com/elementary/terminal/commit/59726d0d5e32501c7ffe867ff5cf97d8b7e27e27)
 
-### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
-
-
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
 - [ ] [<code>Utils: Remove unused session manager interface (#307)</code>](https://github.com/elementary/videos/commit/ed6127e68507959d5ab0021b31b5032ed160149e)
 - [ ] [<code>Add SeekBar (#302)</code>](https://github.com/elementary/videos/commit/c6f7e065e0859f1db954a2ca1498817a5d64eb8d)
@@ -127,9 +90,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>SeekBar: rewrite how progress and duration are set (#310)</code>](https://github.com/elementary/videos/commit/bde83038c729cc0468fd13f233949e0b707b1d61)
 - [ ] [<code>Git ignore flatpak build and temporary files (#311)</code>](https://github.com/elementary/videos/commit/51e832f7c13d6b200ce65c15f4e1ac8ca27ec5e6)
 
-### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
-
-
+#### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
 - [ ] [<code>Icons: update to new Flatpak brand (#141)</code>](https://github.com/elementary/sideload/commit/44244a083e47deefde4991d4462136e100702335)
@@ -138,93 +99,68 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Handle error on constructing flatpak bundle, fix error signalling (#143)</code>](https://github.com/elementary/sideload/commit/84d81971bf46ff135997d679574276cc71ff7de4)
 - [ ] [<code>Update POT</code>](https://github.com/elementary/sideload/commit/cd49e58e4ecb07f7a94f3ea88037a37af565ec65)
 
-### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
-
-
-
+#### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
 ## apps/switchboard-plugs
 
-### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#79)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/08db4b696128a6bf809da3403a818834fcd62b02)
 
-### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
 
-
-
-### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
-
-
+#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
 - [ ] [<code>Change keyfile error messages to debug.</code>](https://github.com/elementary/switchboard-plug-applications/commit/1d7318932a3356efa13ced2f4644dfa5963e883e)
 
-### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
-
-
+#### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#182)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/031dd5660b4bcb0bb4e82ebe6d8bcdaa1791c385)
 - [ ] [<code>Inhibit application closing until discovery stopped (#195)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/f78b5a9a92056f518a09d6081f93bb6aba20198b)
 
-### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#100)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/a90639ed4f185f50d4ae448cd9503203dc24b3f4)
 - [ ] [<code>Fix scroll position of time zone city list. (#101)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/7107ffd25c83bae01b115d673ae954186a919208)
 
-### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
 
-
-
-### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
 
 - [ ] [<code>Shortcuts/List: move panel-main-menu to Schema.GALA</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/555e9650bb8f74a7664e2393c589fe6664954a88)
 - [ ] [<code>Workflows: bump to Jammy</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b0788c4c79b206c57be5b5527c35e4f7d2ebc22a)
 - [ ] [<code>Read screenshot shortcuts from gala schema (#407)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6ebd57673b45cc64e1caf895134efc0d5f6cf2be)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/75a95f03e7a3ec9512f9df1d00173a60737f58bc)
 - [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b45cb91ad5aacec8ba643de2158afa44c4b22ee3)
-- [ ] [<code>Release 3.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/aa46cfe474b054ffee902f674216812696d89a76) <sub>Tagged: <code>3.0.0</code></sub>
+- [ ] [<code>Release 3.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/aa46cfe474b054ffee902f674216812696d89a76)
+  - <sub>Tagged: <code>3.0.0</code></sub>
 - [ ] [<code>Shortcuts/List: use workspaces icon from system (#410)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/d3248bc0716293f0e958ac6bab11d03038e19149)
 - [ ] [<code>Replace Shortcut TreeView with a ListBox subclass</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c4988d9a3ed26e44fe61b3f09bb5dc071497ff4f)
 - [ ] [<code>Prepare for GTK4: Undepend from libgnomekbd (#413)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e55840b6ae272992aa12b7e5f44cef70f66c7210)
 
-### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
 - [ ] [<code>Clicking: drop support for old GNOME Settings Daemon</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ae526b1cddd72c853f1735c1e0c4820051995ecb)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/cf7528b6c83537973787569d81932c983a3b49a2)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5830fb3d10785426c01ee485e9d33e273bc052f)
 - [ ] [<code>Update io.elementary.switchboard.mouse-touchpad.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/27c9d2e457e3590a55ac6945cc797376df36f4da)
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e4e2befcca9112ae57e7a3f56cc2c2851de52a7b)
-- [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e) <sub>Tagged: <code>7.0.0</code></sub>
+- [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e)
+  - <sub>Tagged: <code>7.0.0</code></sub>
 
-### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
-
-
-
-
-### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
 
+#### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#83)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/2e0320aab62b6932e8ef5f941d02e244de381957)
 
-### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
+#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
 
-
-
-### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.2.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.2.0...HEAD)
 
 - [ ] [<code>Use Hdy.Clamp to set page width (#314)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b09601a449772382c2600bac93bf1bd30554a3ca)
 - [ ] [<code>Propagate state_set event (#317)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5d281c5d4e8a24cb1f816960e0efccfe1bf896ff)
@@ -238,44 +174,29 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Fallback to hardcoded path if required (#328)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/95007974173f41db95c0e0b6f2c205bcc061fb1f)
 - [ ] [<code>Sort wallpapers (#325)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/eb99494546ee5e9646b0c16f34cbfcb491cded5f)
 
-### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
 - [ ] [<code>Authenticate on demand for lid close settings (#218)</code>](https://github.com/elementary/switchboard-plug-power/commit/b4d3c8774b17ea218fda81294b8e544179240335)
 
-### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
+#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
 
-
-
-### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
-
-
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
 - [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
 
-### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
-
-
+#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#55)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/5219839738b79e3c5f039a811d96a40eb2644eab)
 
-### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
+#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
 
-
-
-### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
-
-
-
+#### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
 ## artwork
 
-### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.0...HEAD)
-
-
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.0...HEAD)
 
 - [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
 - [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
@@ -286,9 +207,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
 - [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
 
-### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
-
-
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
 - [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
 - [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
@@ -315,26 +234,17 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update media stop icon (#1085)</code>](https://github.com/elementary/icons/commit/a3a78b5819b802ed254343f7aec5dc77459d8c1d)
 - [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
 
-### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
+#### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
 
+#### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
 
-### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
-
-
-
-
-### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [6.1.0 → HEAD](https://github.com/elementary/wallpapers/compare/6.1.0...HEAD)
-
-
-
+#### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [6.1.0 → HEAD](https://github.com/elementary/wallpapers/compare/6.1.0...HEAD)
 
 ## desktop
 
-### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
-
-
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
 
 - [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
@@ -342,36 +252,26 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>debian: Do not try to install things from /etc/io.elementary.appcenter</code>](https://github.com/elementary/default-settings/commit/df1215d72b365daad2298dc1d639fb1c6427e67a)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/0b5923872f424404e2111098a52af627b9618fd5)
 
-### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
-
-
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
 - [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
 - [ ] [<code>DBusAccelerator: Use the right prototype to expose the interface (#614)</code>](https://github.com/elementary/greeter/commit/16ee7f4dba15423dc60bf5a998fffc4eabf9c73b)
 
-### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
 
-
-
-### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
-
-
+#### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [6.0.0 → HEAD](https://github.com/elementary/session-settings/compare/6.0.0...HEAD)
-
-
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [6.0.0 → HEAD](https://github.com/elementary/session-settings/compare/6.0.0...HEAD)
 
 - [ ] [<code>CI: remove Nix (#61)</code>](https://github.com/elementary/session-settings/commit/064adfe31abfeb8bfa1f92a435102d5c3fda224a)
 - [ ] [<code>Add systemd support (#55)</code>](https://github.com/elementary/session-settings/commit/ea1566a8d888c5e247a9ec76833973bec51461bb)
 - [ ] [<code>chore(deps): bump actions/checkout from 2 to 3 (#60)</code>](https://github.com/elementary/session-settings/commit/d71f5211ccdc4f83ee4ea06e2210ba73d32ceb97)
 - [ ] [<code>build: add systemduserunitdir option (#62)</code>](https://github.com/elementary/session-settings/commit/2a70f71f3013e360638acdf3fbb740989ac8940d)
 
-### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
-
-
+#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
 
 - [ ] [<code>Fixed Margins (#111)</code>](https://github.com/elementary/shortcut-overlay/commit/b50a4c45ca6a08b2fbfb802261ac096bae4befed)
 - [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#113)</code>](https://github.com/elementary/shortcut-overlay/commit/130f78eb4b7770586ea98ba0a5fdbbf5bb116f3f)
@@ -385,16 +285,13 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/shortcut-overlay/commit/3d8890af75cc46f0a668319d3f39228a78acd7ad)
 - [ ] [<code>Update .pot files</code>](https://github.com/elementary/shortcut-overlay/commit/4707a2d1ad71e5f79d683a5cfd37ff9a39062b3c)
 - [ ] [<code>Meson: remove Hdy from global args (#127)</code>](https://github.com/elementary/shortcut-overlay/commit/bc1231d336f7b619a8d8b6879bef10a511b61e23)
-- [ ] [<code>Release 2.0.0 (#126)</code>](https://github.com/elementary/shortcut-overlay/commit/e5f206eea1b347a22ad1c74090fa9873693097d8) <sub>Tagged: <code>2.0.0</code></sub>
+- [ ] [<code>Release 2.0.0 (#126)</code>](https://github.com/elementary/shortcut-overlay/commit/e5f206eea1b347a22ad1c74090fa9873693097d8)
+  - <sub>Tagged: <code>2.0.0</code></sub>
 
-### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcf → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
-
-
-
-
-### [pantheon.gala](https://github.com/elementary/gala): [6.3.1 → HEAD](https://github.com/elementary/gala/compare/6.3.1...HEAD)
+#### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
+#### [pantheon.gala](https://github.com/elementary/gala): [6.3.1 → HEAD](https://github.com/elementary/gala/compare/6.3.1...HEAD)
 
 - [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
 - [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
@@ -418,14 +315,10 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>POTFILES: Add src/Dialogs.vala (#1450)</code>](https://github.com/elementary/gala/commit/f1e6c83d58d37062ee89393792ed5cb8370d51c5)
 - [ ] [<code>Add support for Mutter 43 (#1451)</code>](https://github.com/elementary/gala/commit/0631debf0e2132de052c906e830eb23477251ea2)
 
-### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d48 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
+#### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
 
-
-
-### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.2...HEAD)
-
-
+#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.2...HEAD)
 
 - [ ] [<code>Add support for Mutter 42 (#434)</code>](https://github.com/elementary/wingpanel/commit/b5e8f8b044a49da4621fdf044dfe21b1213edcde)
 - [ ] [<code>Update mutter-clutter-9.deps (#435)</code>](https://github.com/elementary/wingpanel/commit/0bb8396f7504feef6082a555123f1d733b4ed891)
@@ -437,49 +330,34 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Update wingpanel.appdata.xml.in</code>](https://github.com/elementary/wingpanel/commit/cdf7c19bce17e3854369ade4b54b6bb154b31e67)
 - [ ] [<code>Revert "Lib: Remove deprecated widgets" (#456)</code>](https://github.com/elementary/wingpanel/commit/a3c67cfbd4d94f52118f52cbf4dc18802561f85b)
 - [ ] [<code>Create CONTRIBUTING.md (#461)</code>](https://github.com/elementary/wingpanel/commit/db8591ae708d4f4bebea474e0b99166b8126e905)
-
 ## desktop/wingpanel-indicators
 
-### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
-
-
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
 
 - [ ] [<code>Add unit testing to calculator plugin (#542)</code>](https://github.com/elementary/applications-menu/commit/53f93cf3dae1e49238cf9ed1efc2a19b223a2b61)
 - [ ] [<code>Improve calculator plugin (#539)</code>](https://github.com/elementary/applications-menu/commit/d762f5a6ca05297885f56a0e5f3d834accec90dc)
 - [ ] [<code>Unit conversion plugin (#541)</code>](https://github.com/elementary/applications-menu/commit/771db040afe6355031889ce3968ed84eb5e6aaa6)
 - [ ] [<code>Use regex to parse conversion plugin input (#545)</code>](https://github.com/elementary/applications-menu/commit/e44d69828361104c3771c7c9ab415ab082c8ad08)
 
-### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/fb8412d56bc1c42b70e8ee41b837e8024e1297f7)
 - [ ] [<code>Remove wingpanel deprecations (#49)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/0480d77c0dc5d727749db6a2273fa3057491a74a)
 
-### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
+#### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
 
+#### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
 
-### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
-
-
-
-
-### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#110)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ea5df2f62a99a216ee5ed137268e710490a852a4)
 
-### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
 
-
-
-### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
 - [ ] [<code>Update POTFILES to fix build (#89)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/591919379414e9012316a033b5236a0f4fbe9392)
 - [ ] [<code>Revert "Deleted translation using Weblate (English (United States))"</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/bffdd46e9d6b879187bd56d8c87d1d2a465fd01a)
@@ -487,90 +365,62 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>po: Remove en_US (#90)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a383f68eb0c97583509b47f28452f6a0f3cc9be4)
 - [ ] [<code>l10n: Correctly setup the locales (#91)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4e15f71ed958df3569b2f1e224b9fb18613281f1)
 
-### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.6 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.6...HEAD)
+#### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.6 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.6...HEAD)
 
 
-
-
-### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
 - [ ] [<code>New Horizontal scroll support (#204)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/654e11dec8456e36dd9eea167f2476a73ad5f1bd)
 - [ ] [<code>Hide brightness slider on desktop experience (#206)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7dbf88a3894adeb713ff65602fc09149dc3f5d41)
 - [ ] [<code>AppList: Don't add the header as a row (#225)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/908c2eff91c135a90c73a3c3032323911910d6e5)
 - [ ] [<code>AppList: Don't show the power eater section if failed to get the app (#226)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0061d0c05de2d121a8224744a0472bcbc4a91a85)
 
-### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#162)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/e85032da8e923df4589dc75ccded10026b6c1cd7)
 - [ ] [<code>Indicator: replace OverlayIcon with Gtk.Image (#167)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/0ea9a3b3f5cc4da9c6c569f019393cb107692901)
 
-### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
-
-
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
 
 - [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available (#228)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1903612b29acf3af9488a59a867ed01f7d74aac5)
-
+- [ ] [<code>Animate switch (#235)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/61af5563cdbb8077e4c0ae791fec3f93049964b0)
 ## granite
 
-### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
-
-
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
 
 - [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
 - [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
 - [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
 - [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
 - [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
-
 ## services
 
-### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
+#### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
 
 
+#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
 
 
-### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
-
-
-
-
-### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
-
-
+#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
 
 - [ ] [<code>Appdata: Reorganize (#178)</code>](https://github.com/elementary/notifications/commit/32506dc6e054e4c12b9eb6b1410fa89d3e4ae779)
 
-### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
 
+#### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
 
 
-### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
+#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
 
-
-
-### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
-
-
-
-
-### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.1.0 → HEAD](https://github.com/elementary/portals/compare/1.1.0...HEAD)
-
-
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.1.0 → HEAD](https://github.com/elementary/portals/compare/1.1.0...HEAD)
 
 - [ ] [<code>make --verbose works (#50)</code>](https://github.com/elementary/portals/commit/569b81bf4870ade713a4e0e60f4c930b7ff27826)
 - [ ] [<code>Updates for ExternalWindow (#54)</code>](https://github.com/elementary/portals/commit/300563116bde8b33d92b1e312f35761d6bfb9e23)
-
 ## repos
 
-### [github:elementary/os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
-
-
+#### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
 
 - [ ] [<code>Stable config: remove `-rc` suffix (#586)</code>](https://github.com/elementary/os/commit/ecc36a32e1e648b94ea8fed58b9bb62eb6f44598)
 - [ ] [<code>Delete daily-6.1.yml (#599)</code>](https://github.com/elementary/os/commit/ce318bba8788628eedeee312c5985c60d1878fad)
@@ -579,9 +429,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Issue Templates: point to contributor docs instead of github org (#619)</code>](https://github.com/elementary/os/commit/d796dde207ce3526ecd3db20dc99f905e8776e07)
 - [ ] [<code>Add responsive light/dark mode logos to README.md (#622)</code>](https://github.com/elementary/os/commit/3a78a90d91d7a802798452a02453afbc3d218941)
 
-### [github:elementary/seeds](https://github.com/elementary/seeds): [31d60df70f3ae058 → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
-
-
+#### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
 - [ ] [<code>Bump to jammy</code>](https://github.com/elementary/seeds/commit/92468e4c64cf4fe9634950d4ff22ff3509dce45f)
 - [ ] [<code>Desktop: Replace upstream File Roller with patched version (#87)</code>](https://github.com/elementary/seeds/commit/a85814e2e8831e759c40483a03ce723ce827f190)
