@@ -5,5 +5,10 @@
         "Deleted translation using Weblate",
         "Update translation files",
         "Update translation template"
+    ],
+    "important_files": [
+        "meson.build",
+        "CMakeLists.txt",
+        "configure.ac"
     ]
 }
