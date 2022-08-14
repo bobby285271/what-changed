@@ -2,14 +2,15 @@
 
 import os
 import sys
-import src.utils as utils
-import src.printer as printer
 import json
 import collections
 
+import utils
+import printer
+
 flake = "local" if utils.debug else "github:NixOS/nixpkgs"
 
-base_dir = os.path.dirname(__file__)
+base_dir = os.path.join(os.path.dirname(__file__), os.pardir)
 data_dir = os.path.join(base_dir, 'data')
 work_dir = os.path.join(base_dir, 'work')
 
@@ -41,7 +42,7 @@ def main():
             i['attr_path'] = i['url'].split('/')[-1]
 
         utils.clone_repo(i['url'], utils.get_dirpath(work_dir, i['url']))
-        printer.print_logs(f"src.{i['kind']}", work_dir, i['attr_path'], i['url'],
+        printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
                            i['from_rev'], i['to_rev'], ignored_msg, out_file)
 
 

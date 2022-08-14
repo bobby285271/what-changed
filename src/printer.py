@@ -1,6 +1,7 @@
 import importlib
 import git
-import src.utils as utils
+
+import utils
 
 
 def print_trivial(txt: str, file: str):
