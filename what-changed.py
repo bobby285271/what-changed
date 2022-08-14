@@ -2,7 +2,6 @@
 
 from git import Repo
 import os
-import shutil
 import sys
 import src.utils as utils
 import src.github as github
@@ -27,10 +26,6 @@ ignored_keyphrases = [
 
 def get_dirpath(repo_url: str) -> str:
     return os.path.join(work_dir, repo_url.split('/')[-1])
-
-
-def clone_repo(repo_url: str):
-    Repo.clone_from(url=repo_url, to_path=get_dirpath(repo_url))
 
 
 def print_title(content: str):
@@ -61,11 +56,10 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
 
 
 def main():
-    if os.path.exists(work_dir):
-        shutil.rmtree(work_dir)
     if os.path.exists(output_file):
         os.remove(output_file)
-    os.makedirs(work_dir)
+    if not os.path.exists(work_dir):
+        os.makedirs(work_dir)
     inp = open(input_file, 'r', encoding='utf-8')
     for pkg_attr in inp.readlines():
         pkg_attr = rf"{pkg_attr}".strip()
@@ -83,14 +77,14 @@ def main():
                 "github:", "https://github.com/")
             from_rev = pkg_attr.split(' ')[1]
             pkg_attr = pkg_attr.split(' ')[0]
-            clone_repo(repo_url)
+            utils.clone_repo(repo_url, get_dirpath(repo_url))
             print_log_github(pkg_attr, repo_url, from_rev)
         # Track packages updates
         else:
             repo_url = utils.get_eval(
                 nixpkgs_flakes, f"{pkg_attr}.src.meta.homepage")
             from_rev = utils.get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
-            clone_repo(repo_url)
+            utils.clone_repo(repo_url, get_dirpath(repo_url))
             if "github.com" in repo_url:
                 print_log_github(pkg_attr, repo_url, from_rev)
 

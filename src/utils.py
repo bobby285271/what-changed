@@ -1,5 +1,7 @@
 import subprocess
 import git
+import os
+import shutil
 
 
 def contains_prefix(s: str, lst: list) -> bool:
@@ -12,6 +14,12 @@ def contains_prefix(s: str, lst: list) -> bool:
 def get_eval(flakes_url: str, attr_path: str):
     return subprocess.run(['nix', 'eval', '--raw', rf"{flakes_url}#{attr_path}"],
                           stdout=subprocess.PIPE, text=True).stdout
+
+
+def clone_repo(url: str, path: str):
+    if os.path.exists(path):
+        shutil.rmtree(path)
+    git.Repo.clone_from(url=url, to_path=path)
 
 
 def get_tagmap(repo: git.Repo) -> dict:
