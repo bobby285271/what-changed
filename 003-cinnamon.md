@@ -30,7 +30,9 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944)
 - [ ] [<code>5.4.10</code>](https://github.com/linuxmint/cinnamon/commit/afdbb3d30bb13c1ab395d8c959d8e21600d58719) <sub>Tagged: <code>5.4.10</code></sub>
 - [ ] [<code>keybindings.js: Use bindings.get() - this.bindings is a Map.</code>](https://github.com/linuxmint/cinnamon/commit/7724e4146baf8431bc1fb55dce60984e77adef5a)
-- [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9)
+- [ ] [<code>Reimplement the locate pointer functionality</code>](https://github.com/linuxmint/cinnamon/commit/b84524300937e4722283ec9d1cc5987067f656c6)
+- [ ] [<code>cs_sound.py: Add some more sound ids to ignore.</code>](https://github.com/linuxmint/cinnamon/commit/6c2306661ca5aa6f4c01a7ac336ac619f13a00ec) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -79,6 +81,7 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>Cinnamon: Add support for the cinnamon locate pointer</code>](https://github.com/linuxmint/mint-themes/commit/8d46df19f919bb5a871cfa8386a4a257aefdbec2)
 
 ### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
@@ -94,6 +97,7 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
+- [ ] [<code>prefs.c: Restore the locate pointer functionality</code>](https://github.com/linuxmint/muffin/commit/508a21328feaceccea183743ad33bd851690b640) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.2...HEAD)
 
