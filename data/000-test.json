@@ -9,7 +9,14 @@
             "from_rev": "66057f10fa3f2840dc764e9b48f475b5494becf0"
         },
         {
-            "attr_path": "snippetpixie"
+            "attr_path": "vocal",
+            "to_rev": "80c49f659dfb94bfb04043a4c39473e64a89f8d0"
+        },
+        {
+            "kind": "gitlab",
+            "attr_path": "contrast",
+            "from_rev": "0.0.2",
+            "to_rev": "0.0.3"
         }
     ]
 }
