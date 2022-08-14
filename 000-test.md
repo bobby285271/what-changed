@@ -9,6 +9,7 @@
 - [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
   - <sub>Tagged: <code>1.4.1</code></sub>
 - [ ] [<code>Merge pull request #86 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/25a3097e3ac6ceb31ba9f82b4148d7259cf01238)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #91 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/16f498768fd30da4b69174723dfbe590fb75f199)
   - <sub>Tagged: <code>1.5.1</code></sub>
 - [ ] [<code>Merge pull request #92 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/041391cefcaa7c504ea024324eb4776efe7e5432)
