@@ -24,28 +24,6 @@ ignored_keyphrases = [
 ]
 
 
-def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
-    # `from_rev` can be either tag names or git commit hexsha. I assume
-    # length of tag names won't exceed 16. Full git commit hexsha sounds
-    # too long for me.
-    from_rev_for_display = from_rev[:16]
-
-    # Not trying to replace `HEAD` with the actual git commit hexsha as
-    # I only want the output file to be updated when some non-tranlation
-    # commits are made or some tags are created.
-    github.print_title(pkg_attr, repo_url,
-                       from_rev_for_display, "HEAD", output_file)
-
-    repo = Repo(utils.get_dirpath(work_dir, repo_url))
-    tagmap = utils.get_tagmap(repo)
-
-    for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
-        commit_message_oneline = commit.message.splitlines()[0]
-        if commit in tagmap or not utils.contains_prefix(commit_message_oneline, ignored_keyphrases):
-            github.print_commit(repo_url, commit, output_file)
-            utils.print_commit_tags(tagmap, commit, output_file)
-
-
 def main():
     if os.path.exists(output_file):
         os.remove(output_file)
@@ -68,7 +46,8 @@ def main():
             from_rev = pkg_attr.split(' ')[1]
             pkg_attr = pkg_attr.split(' ')[0]
             utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
-            print_log_github(pkg_attr, repo_url, from_rev)
+            printer.print_logs("src.github", work_dir, pkg_attr, repo_url,
+                               from_rev, "HEAD", ignored_keyphrases, output_file)
         # Track packages updates
         else:
             repo_url = utils.get_eval(
@@ -76,7 +55,8 @@ def main():
             from_rev = utils.get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
             utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
             if "github.com" in repo_url:
-                print_log_github(pkg_attr, repo_url, from_rev)
+                printer.print_logs("src.github", work_dir, pkg_attr, repo_url,
+                                   from_rev, "HEAD", ignored_keyphrases, output_file)
 
 
 if __name__ == "__main__":
