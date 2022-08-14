@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-from git import Repo
 import os
 import sys
 import src.utils as utils
-import src.github as github
 import src.printer as printer
 
 nixpkgs_flakes = "local" if utils.debug else "github:NixOS/nixpkgs"
