@@ -4,6 +4,9 @@ import os
 import shutil
 
 
+debug = True
+
+
 def contains_prefix(s: str, lst: list) -> bool:
     for i in lst:
         if s.startswith(i):
@@ -19,6 +22,8 @@ def get_eval(flakes_url: str, attr_path: str):
 def clone_repo(url: str, path: str):
     if os.path.exists(path):
         shutil.rmtree(path)
+    if debug:
+        url = url.replace("github.com", "hub.0z.gs")
     git.Repo.clone_from(url=url, to_path=path)
 
 

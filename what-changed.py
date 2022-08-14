@@ -6,8 +6,7 @@ import sys
 import src.utils as utils
 import src.github as github
 
-# Pantheon updates always target the `master` branch
-nixpkgs_flakes = "github:NixOS/nixpkgs"
+nixpkgs_flakes = "local" if utils.debug else "github:NixOS/nixpkgs"
 work_dir = os.path.join(os.path.dirname(__file__), 'work')
 input_file = os.path.join(os.path.dirname(
     __file__), 'data', rf'{sys.argv[1]}.list')
