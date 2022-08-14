@@ -13,4 +13,4 @@ You don't need to run anything locally, all outputs are updated regularly by Git
 - [002-maintained.md](002-maintained.md): Random third-party packages, mostly Pantheon related.
 - [003-cinnamon.md](003-cinnamon.md): Linux Mint / Cinnamon packages.
 
-Copy the entries you need, paste them as an issue or a comment, then go though the list.
+Copy the entries you need, paste them as an issue or a comment, then go through the list.
