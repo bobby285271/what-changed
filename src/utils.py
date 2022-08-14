@@ -5,7 +5,7 @@ import shutil
 import json
 
 
-debug = True
+debug = False
 
 
 def get_ignored_msg(file: str):
