@@ -10,16 +10,8 @@ work_dir = os.path.join(os.path.dirname(__file__), 'work')
 input_file = os.path.join(os.path.dirname(
     __file__), 'data', rf'{sys.argv[1]}.list')
 output_file = os.path.join(os.path.dirname(__file__), rf'{sys.argv[1]}.md')
-
-# Note that we only check whether one of these strings is prefix
-# of the given commit message.
-ignored_keyphrases = [
-    'Translated using Weblate',
-    'Added translation using Weblate',
-    'Deleted translation using Weblate',
-    'Update translation files',
-    'Update translation template'  # Authored by @elementaryBot.
-]
+ignored_keyphrases = utils.get_ignored_msg(os.path.join(
+    os.path.dirname(__file__), 'data', 'constants.json'))
 
 
 def main():

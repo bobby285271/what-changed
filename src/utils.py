@@ -2,10 +2,16 @@ import subprocess
 import git
 import os
 import shutil
+import json
 
 
 debug = True
 
+
+def get_ignored_msg(file: str):
+    f = open(file, 'r', encoding='utf-8')
+    data = json.load(f)
+    return data['ignored_msg']
 
 def contains_prefix(s: str, lst: list) -> bool:
     for i in lst:
