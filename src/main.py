@@ -14,10 +14,9 @@ base_dir = os.path.join(os.path.dirname(__file__), os.pardir)
 data_dir = os.path.join(base_dir, 'data')
 work_dir = os.path.join(base_dir, 'work')
 
+const_file = os.path.join(data_dir, 'constants.json')
 in_file = os.path.join(data_dir, f'{sys.argv[1]}.json')
 out_file = os.path.join(base_dir, f'{sys.argv[1]}.md')
-
-ignored_msg = utils.get_ignored_msg(os.path.join(data_dir, 'constants.json'))
 
 
 def fill_data(i):
@@ -50,7 +49,7 @@ def main():
         fill_data(i)
         utils.clone_repo(i['url'], utils.get_dirpath(work_dir, i['url']))
         printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
-                           i['from_rev'], i['to_rev'], ignored_msg, out_file)
+                           i['from_rev'], i['to_rev'], const_file, out_file)
 
 
 if __name__ == "__main__":

@@ -11,12 +11,14 @@ def print_trivial(txt: str, file: str):
 
 
 def print_logs(kind: str, base: str, name: str, url: str,
-               from_rev: str, to_rev: str, igr_commit: list, file: str):
+               from_rev: str, to_rev: str, const_file: str, file: str):
     fmt = importlib.import_module(kind)
     fmt.print_title(name, url, from_rev, to_rev, file)
 
     repo = git.Repo(utils.get_dirpath(base, url))
     tagmap = utils.get_tagmap(repo)
+    igr_commit = utils.get_ignored_msg(const_file)
+
     for commit in repo.iter_commits(f"{from_rev}..{to_rev}", reverse=True):
         msg = commit.message.splitlines()[0]
         if commit in tagmap or not utils.contains_prefix(msg, igr_commit):
