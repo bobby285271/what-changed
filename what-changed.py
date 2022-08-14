@@ -5,6 +5,7 @@ import os
 import sys
 import src.utils as utils
 import src.github as github
+import src.printer as printer
 
 nixpkgs_flakes = "local" if utils.debug else "github:NixOS/nixpkgs"
 work_dir = os.path.join(os.path.dirname(__file__), 'work')
@@ -21,11 +22,6 @@ ignored_keyphrases = [
     'Update translation files',
     'Update translation template'  # Authored by @elementaryBot.
 ]
-
-
-def print_title(content: str):
-    oup = open(output_file, 'a', encoding='utf-8')
-    oup.write(content + "\n")
 
 
 def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
@@ -61,9 +57,8 @@ def main():
         # Ignore line starts with '#' and blank line
         if not pkg_attr or pkg_attr[0] == '#':
             continue
-        # Directly print line starts with '@' to output
         elif pkg_attr[0] == '@':
-            print_title(pkg_attr[1:])
+            printer.print_trivial(pkg_attr, output_file)
         # Track repositories that has no corresponding
         # packages in Nixpkgs, so far only GitHub repos
         # are supported
