@@ -8,10 +8,10 @@ import json
 debug = False
 
 
-def get_ignored_msg(file: str):
+def get_const(file: str, key: str):
     f = open(file, 'r', encoding='utf-8')
     data = json.load(f)
-    return data['ignored_msg']
+    return data[key]
 
 
 def contains_prefix(s: str, lst: list) -> bool:

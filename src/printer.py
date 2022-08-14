@@ -17,7 +17,7 @@ def print_logs(kind: str, base: str, name: str, url: str,
 
     repo = git.Repo(utils.get_dirpath(base, url))
     tagmap = utils.get_tagmap(repo)
-    igr_commit = utils.get_ignored_msg(const_file)
+    igr_commit = utils.get_const(const_file, "ignored_msg")
 
     for commit in repo.iter_commits(f"{from_rev}..{to_rev}", reverse=True):
         msg = commit.message.splitlines()[0]
