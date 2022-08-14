@@ -30,6 +30,7 @@
 - [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9)
 - [ ] [<code>Reimplement the locate pointer functionality</code>](https://github.com/linuxmint/cinnamon/commit/b84524300937e4722283ec9d1cc5987067f656c6)
 - [ ] [<code>cs_sound.py: Add some more sound ids to ignore.</code>](https://github.com/linuxmint/cinnamon/commit/6c2306661ca5aa6f4c01a7ac336ac619f13a00ec)
+- [ ] [<code>keybindings.js: Fix incorrect check.</code>](https://github.com/linuxmint/cinnamon/commit/fbafd39b07f4138a972a553c3e5424f99f8f3bba)
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
