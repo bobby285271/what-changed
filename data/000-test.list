@@ -1,7 +1,0 @@
-# Line starts with '@' will be printed to the output file.
-# Blank line or line starts with '#' will be ignored.
-
-@> Testing purpose only.
-
-github:elementary/gnome-bluetooth-contract 66057f10fa3f2840dc764e9b48f475b5494becf0
-snippetpixie

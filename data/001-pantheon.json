@@ -1,0 +1,267 @@
+{
+    "case": [
+        {
+            "kind": "markdown",
+            "content": "# what-changed (Pantheon)"
+        },
+        {
+            "kind": "markdown",
+            "content": "- [NixOS/nixpkgs Pantheon project board](https://github.com/NixOS/nixpkgs/projects/21)"
+        },
+        {
+            "kind": "markdown",
+            "content": "- [List of upstream project boards](https://github.com/orgs/elementary/projects?type=beta)"
+        },
+        {
+            "kind": "markdown",
+            "content": "- [View recent upstream releases and their change logs](https://releases.elementary.io/)"
+        },
+        {
+            "kind": "markdown",
+            "content": "## apps"
+        },
+        {
+            "attr_path": "pantheon.appcenter"
+        },
+        {
+            "attr_path": "pantheon.elementary-calculator"
+        },
+        {
+            "attr_path": "pantheon.elementary-calendar"
+        },
+        {
+            "attr_path": "pantheon.elementary-camera"
+        },
+        {
+            "attr_path": "pantheon.elementary-code"
+        },
+        {
+            "attr_path": "pantheon.elementary-dock"
+        },
+        {
+            "attr_path": "pantheon.elementary-feedback"
+        },
+        {
+            "attr_path": "pantheon.elementary-files"
+        },
+        {
+            "attr_path": "pantheon.elementary-mail"
+        },
+        {
+            "attr_path": "pantheon.elementary-music"
+        },
+        {
+            "attr_path": "pantheon.elementary-photos"
+        },
+        {
+            "attr_path": "pantheon.elementary-screenshot"
+        },
+        {
+            "attr_path": "pantheon.elementary-tasks"
+        },
+        {
+            "attr_path": "pantheon.elementary-terminal"
+        },
+        {
+            "attr_path": "pantheon.elementary-videos"
+        },
+        {
+            "attr_path": "pantheon.sideload"
+        },
+        {
+            "attr_path": "pantheon.switchboard"
+        },
+        {
+            "kind": "markdown",
+            "content": "## apps/switchboard-plugs"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-a11y"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-about"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-applications"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-bluetooth"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-datetime"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-display"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-keyboard"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-mouse-touchpad"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-network"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-notifications"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-onlineaccounts"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-pantheon-shell"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-power"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-printers"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-security-privacy"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-sharing"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-sound"
+        },
+        {
+            "attr_path": "pantheon.switchboard-plug-wacom"
+        },
+        {
+            "kind": "markdown",
+            "content": "## artwork"
+        },
+        {
+            "attr_path": "pantheon.elementary-gtk-theme"
+        },
+        {
+            "attr_path": "pantheon.elementary-icon-theme"
+        },
+        {
+            "attr_path": "pantheon.elementary-redacted-script"
+        },
+        {
+            "attr_path": "pantheon.elementary-sound-theme"
+        },
+        {
+            "attr_path": "pantheon.elementary-wallpapers"
+        },
+        {
+            "kind": "markdown",
+            "attr_path": "## desktop"
+        },
+        {
+            "attr_path": "pantheon.elementary-default-settings"
+        },
+        {
+            "attr_path": "pantheon.elementary-greeter"
+        },
+        {
+            "attr_path": "pantheon.elementary-onboarding"
+        },
+        {
+            "attr_path": "pantheon.elementary-print-shim"
+        },
+        {
+            "attr_path": "pantheon.elementary-session-settings"
+        },
+        {
+            "attr_path": "pantheon.elementary-shortcut-overlay"
+        },
+        {
+            "attr_path": "pantheon.file-roller-contract"
+        },
+        {
+            "attr_path": "pantheon.gala"
+        },
+        {
+            "attr_path": "pantheon.gnome-bluetooth-contract"
+        },
+        {
+            "attr_path": "pantheon.wingpanel"
+        },
+        {
+            "kind": "markdown",
+            "content": "## desktop/wingpanel-indicators"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-applications-menu"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-a11y"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-bluetooth"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-datetime"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-keyboard"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-network"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-nightlight"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-notifications"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-power"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-session"
+        },
+        {
+            "attr_path": "pantheon.wingpanel-indicator-sound"
+        },
+        {
+            "kind": "markdown",
+            "content": "## granite"
+        },
+        {
+            "attr_path": "pantheon.granite7"
+        },
+        {
+            "kind": "markdown",
+            "content": "## services"
+        },
+        {
+            "attr_path": "pantheon.contractor"
+        },
+        {
+            "attr_path": "pantheon.elementary-capnet-assist"
+        },
+        {
+            "attr_path": "pantheon.elementary-notifications"
+        },
+        {
+            "attr_path": "pantheon.elementary-settings-daemon"
+        },
+        {
+            "attr_path": "pantheon.pantheon-agent-geoclue2"
+        },
+        {
+            "attr_path": "pantheon.pantheon-agent-polkit"
+        },
+        {
+            "attr_path": "pantheon.xdg-desktop-portal-pantheon"
+        },
+        {
+            "kind": "markdown",
+            "content": "## repos"
+        },
+        {
+            "url": "https://github.com/elementary/os",
+            "from_rev": "6.1.0-rc4"
+        },
+        {
+            "url": "https://github.com/elementary/seeds",
+            "from_rev": "31d60df70f3ae058cdee07573b14819a71d359dd"
+        }
+    ]
+}
