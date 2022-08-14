@@ -6,18 +6,6 @@
         },
         {
             "kind": "markdown",
-            "content": "- [NixOS/nixpkgs Pantheon project board](https://github.com/NixOS/nixpkgs/projects/21)"
-        },
-        {
-            "kind": "markdown",
-            "content": "- [List of upstream project boards](https://github.com/orgs/elementary/projects?type=beta)"
-        },
-        {
-            "kind": "markdown",
-            "content": "- [View recent upstream releases and their change logs](https://releases.elementary.io/)"
-        },
-        {
-            "kind": "markdown",
             "content": "## apps"
         },
         {
@@ -150,7 +138,7 @@
         },
         {
             "kind": "markdown",
-            "attr_path": "## desktop"
+            "content": "## desktop"
         },
         {
             "attr_path": "pantheon.elementary-default-settings"

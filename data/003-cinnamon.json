@@ -1,0 +1,101 @@
+{
+    "case": [
+        {
+            "kind": "markdown",
+            "content": "# what-changed (Cinnamon)"
+        },
+        {
+            "kind": "markdown",
+            "content": "## cinnamon"
+        },
+        {
+            "kind": "markdown",
+            "content": "> For mint-artwork check updates manually."
+        },
+        {
+            "attr_path": "cinnamon.bulky"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-common"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-control-center"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-desktop"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-menus"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-screensaver"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-session"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-settings-daemon"
+        },
+        {
+            "attr_path": "cinnamon.cinnamon-translations"
+        },
+        {
+            "attr_path": "cinnamon.cjs"
+        },
+        {
+            "attr_path": "cinnamon.mint-themes"
+        },
+        {
+            "attr_path": "cinnamon.mint-x-icons"
+        },
+        {
+            "attr_path": "cinnamon.mint-y-icons"
+        },
+        {
+            "attr_path": "cinnamon.muffin"
+        },
+        {
+            "attr_path": "cinnamon.nemo"
+        },
+        {
+            "attr_path": "cinnamon.pix"
+        },
+        {
+            "attr_path": "cinnamon.warpinator"
+        },
+        {
+            "attr_path": "cinnamon.xapps"
+        },
+        {
+            "attr_path": "cinnamon.xreader"
+        },
+        {
+            "attr_path": "cinnamon.xviewer"
+        },
+        {
+            "kind": "markdown",
+            "content": "## random"
+        },
+        {
+            "attr_path": "blueberry"
+        },
+        {
+            "attr_path": "hypnotix"
+        },
+        {
+            "attr_path": "libxplayer-plparser"
+        },
+        {
+            "attr_path": "sticky"
+        },
+        {
+            "attr_path": "timeshift-unwrapped"
+        },
+        {
+            "attr_path": "xed-editor"
+        },
+        {
+            "attr_path": "xplayer"
+        }
+    ]
+}

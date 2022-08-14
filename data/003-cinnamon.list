@@ -1,16 +1,6 @@
-# Line starts with '@' will be printed to the output file.
-# Blank line or line starts with '#' will be ignored.
-
-@# What-changed (Cinnamon)
-@
-@List of non-translation Cinnamon changes which are *probably* not shipped by NixOS yet.
-
-# Lists of Cinnamon packages (attrPath)
-
-@## cinnamon
-
-@> For mint-artwork check updates manually.
-
+# What-changed (Cinnamon)
+## cinnamon
+> For mint-artwork check updates manually.
 cinnamon.bulky
 cinnamon.cinnamon-common
 cinnamon.cinnamon-control-center
@@ -21,7 +11,6 @@ cinnamon.cinnamon-session
 cinnamon.cinnamon-settings-daemon
 cinnamon.cinnamon-translations
 cinnamon.cjs
-# cinnamon.mint-artwork
 cinnamon.mint-themes
 cinnamon.mint-x-icons
 cinnamon.mint-y-icons
@@ -32,9 +21,7 @@ cinnamon.warpinator
 cinnamon.xapps
 cinnamon.xreader
 cinnamon.xviewer
-
-@## random
-
+## random
 blueberry
 hypnotix
 libxplayer-plparser
