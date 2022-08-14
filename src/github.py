@@ -4,7 +4,7 @@ import git
 def print_title(name: str, url: str, from_rev: str, to_rev: str, file: str):
     oup = open(file, 'a', encoding='utf-8')
     oup.write(
-        f"\n### [{name}]({url}): [{from_rev} → {to_rev}]({url}/compare/{from_rev}...{to_rev})\n\n")
+        f"\n#### [{name}]({url}): [{from_rev} → {to_rev}]({url}/compare/{from_rev}...{to_rev})\n\n")
     oup.close()
 
 
