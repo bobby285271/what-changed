@@ -8,6 +8,7 @@
     ],
     "important_files": [
         "meson.build",
+        "meson_options.txt",
         "CMakeLists.txt",
         "configure.ac"
     ]
