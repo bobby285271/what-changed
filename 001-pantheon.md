@@ -236,6 +236,7 @@ List of non-translation Pantheon changes which are *probably* not shipped by Nix
 - [ ] [<code>Undo mechanism for trashing wallpapers (#327)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e0258718d49264360453df57e7f3149ea08513ed)
 - [ ] [<code>Load stylesheet once (#326)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc7de42e3e839448fcbbad859fdabe864a596af5)
 - [ ] [<code>Fallback to hardcoded path if required (#328)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/95007974173f41db95c0e0b6f2c205bcc061fb1f)
+- [ ] [<code>Sort wallpapers (#325)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/eb99494546ee5e9646b0c16f34cbfcb491cded5f)
 
 ### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
