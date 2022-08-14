@@ -2,6 +2,13 @@ import subprocess
 import git
 
 
+def contains_prefix(s: str, lst: list) -> bool:
+    for i in lst:
+        if s.startswith(i):
+            return True
+    return False
+
+
 def get_eval(flakes_url: str, attr_path: str):
     return subprocess.run(['nix', 'eval', '--raw', rf"{flakes_url}#{attr_path}"],
                           stdout=subprocess.PIPE, text=True).stdout

@@ -25,13 +25,6 @@ ignored_keyphrases = [
 ]
 
 
-def startswith_ignored_keyphrases(commit_message: str) -> bool:
-    for keyphrase in ignored_keyphrases:
-        if commit_message.startswith(keyphrase):
-            return True
-    return False
-
-
 def get_dirpath(repo_url: str) -> str:
     return os.path.join(work_dir, repo_url.split('/')[-1])
 
@@ -62,7 +55,7 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
 
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
         commit_message_oneline = commit.message.splitlines()[0]
-        if commit in tagmap or not startswith_ignored_keyphrases(commit_message_oneline):
+        if commit in tagmap or not utils.contains_prefix(commit_message_oneline, ignored_keyphrases):
             github.print_commit(repo_url, commit, output_file)
             utils.print_commit_tags(tagmap, commit, output_file)
 
