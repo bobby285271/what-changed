@@ -64,12 +64,7 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
         commit_message_oneline = commit.message.splitlines()[0]
         if commit in tagmap or not startswith_ignored_keyphrases(commit_message_oneline):
             github.print_commit(repo_url, commit, output_file)
-            oup = open(output_file, 'a', encoding='utf-8')
-            if commit in tagmap:
-                oup.write("  - <sub>Tagged:")
-                for tag in tagmap.get(commit):
-                    oup.write(rf" <code>{tag}</code>")
-                oup.write("</sub>\n")
+            utils.print_commit_tags(tagmap, commit, output_file)
 
 
 def main():
