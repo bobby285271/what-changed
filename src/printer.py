@@ -20,4 +20,14 @@ def print_logs(kind: str, base: str, name: str, url: str,
         msg = commit.message.splitlines()[0]
         if commit in tagmap or not utils.contains_prefix(msg, igr_commit):
             fmt.print_commit(url, commit, file)
-            utils.print_commit_tags(tagmap, commit, file)
+            print_commit_tags(tagmap, commit, file)
+
+
+def print_commit_tags(tagmap: dict, commit: git.Commit, file: str):
+    oup = open(file, 'a', encoding='utf-8')
+    if commit in tagmap:
+        oup.write("  - <sub>Tagged:")
+        for tag in tagmap.get(commit):
+            oup.write(f" <code>{tag}</code>")
+        oup.write("</sub>\n")
+    oup.close()

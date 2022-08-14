@@ -36,13 +36,3 @@ def get_tagmap(repo: git.Repo) -> dict:
     for tag in repo.tags:
         tagmap.setdefault(repo.commit(tag), []).append(tag)
     return tagmap
-
-
-def print_commit_tags(tagmap: dict, commit: git.Commit, file: str):
-    oup = open(file, 'a', encoding='utf-8')
-    if commit in tagmap:
-        oup.write("  - <sub>Tagged:")
-        for tag in tagmap.get(commit):
-            oup.write(f" <code>{tag}</code>")
-        oup.write("</sub>\n")
-    oup.close()
