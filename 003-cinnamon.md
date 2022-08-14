@@ -26,8 +26,11 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 - [ ] [<code>panel.js: No barriers when there is only a single monitor.</code>](https://github.com/linuxmint/cinnamon/commit/d9591fdeeb68953938b54013482b79fccbdc36a5)
 - [ ] [<code>panel.js: global.screen -> global.display</code>](https://github.com/linuxmint/cinnamon/commit/3d8843c29b6c8ab25ea2f5a8c280dbd8eb57f00c)
 - [ ] [<code>More issue templates, not everything is a bug report (#11011)</code>](https://github.com/linuxmint/cinnamon/commit/1859cc2a71fb368d34bc4e512342bccf7772b4c1)
-- [ ] [<code>Fix bug remplate, remove question template.</code>](https://github.com/linuxmint/cinnamon/commit/a43be26f1225a4e5c09744219ddec881e66ac5ca) <sub>Tagged: <code>master.lmde5</code></sub>
-- [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944) <sub>Tagged: <code>master.mint21</code></sub>
+- [ ] [<code>Fix bug remplate, remove question template.</code>](https://github.com/linuxmint/cinnamon/commit/a43be26f1225a4e5c09744219ddec881e66ac5ca)
+- [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944)
+- [ ] [<code>5.4.10</code>](https://github.com/linuxmint/cinnamon/commit/afdbb3d30bb13c1ab395d8c959d8e21600d58719) <sub>Tagged: <code>5.4.10</code></sub>
+- [ ] [<code>keybindings.js: Use bindings.get() - this.bindings is a Map.</code>](https://github.com/linuxmint/cinnamon/commit/7724e4146baf8431bc1fb55dce60984e77adef5a)
+- [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -97,7 +100,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>fix spelling error spotted by lintian</code>](https://github.com/linuxmint/nemo/commit/67a335014749accd12eb187571a071504da04635)
-- [ ] [<code>App chooser: Quote custom executable file paths (#3041)</code>](https://github.com/linuxmint/nemo/commit/f004f88b8daf9cd5504db98aa031e19f37b46011) <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>App chooser: Quote custom executable file paths (#3041)</code>](https://github.com/linuxmint/nemo/commit/f004f88b8daf9cd5504db98aa031e19f37b46011)
+- [ ] [<code>5.4.3</code>](https://github.com/linuxmint/nemo/commit/39e765de72d8b16895f318848a8b49374b6265a0) <sub>Tagged: <code>5.4.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 ### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
@@ -121,7 +125,8 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 
-- [ ] [<code>ev-window.c: Don't try to handle keyboard events manually.</code>](https://github.com/linuxmint/xreader/commit/4362a3567245cde757d1fb2aca228470ccc8b392) <sub>Tagged: <code>master.lmde5</code></sub>
+- [ ] [<code>ev-window.c: Don't try to handle keyboard events manually.</code>](https://github.com/linuxmint/xreader/commit/4362a3567245cde757d1fb2aca228470ccc8b392)
+- [ ] [<code>3.4.4</code>](https://github.com/linuxmint/xreader/commit/c103a1a6c6ad02161f997a2fe78b6c123e6a7e35) <sub>Tagged: <code>3.4.4</code> <code>master.lmde5</code></sub>
 
 ### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
@@ -153,6 +158,7 @@ List of non-translation Cinnamon changes which are *probably* not shipped by Nix
 
 
 - [ ] [<code>buffer, do_insert_text: always reassign location text iter to former pos</code>](https://github.com/linuxmint/sticky/commit/155179fcaf0197dd5dc802541fb175e435010da4)
+- [ ] [<code>1.12</code>](https://github.com/linuxmint/sticky/commit/5d8143bc4ab18fc2d26d0dad6b3fe4613655e8bf) <sub>Tagged: <code>1.12</code></sub>
 
 ### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
