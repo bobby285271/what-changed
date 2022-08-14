@@ -24,10 +24,13 @@ def fill_data(i):
         i['kind'] = "github"
     if not "to_rev" in i:
         i['to_rev'] = "HEAD"
+
     if "attr_path" in i and not "url" in i:
         i['url'] = utils.get_eval(flake, f"{i['attr_path']}.src.meta.homepage")
     if "attr_path" in i and not "from_rev" in i:
         i['from_rev'] = utils.get_eval(flake, f"{i['attr_path']}.src.rev")
+
+    i['url'] = i['url'].rstrip('/')
     if "url" in i and not "attr_path" in i:
         i['attr_path'] = i['url'].split('/')[-1]
 
