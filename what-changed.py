@@ -23,10 +23,6 @@ ignored_keyphrases = [
 ]
 
 
-def get_dirpath(repo_url: str) -> str:
-    return os.path.join(work_dir, repo_url.split('/')[-1])
-
-
 def print_title(content: str):
     oup = open(output_file, 'a', encoding='utf-8')
     oup.write(content + "\n")
@@ -44,7 +40,7 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
     github.print_title(pkg_attr, repo_url,
                        from_rev_for_display, "HEAD", output_file)
 
-    repo = Repo(get_dirpath(repo_url))
+    repo = Repo(utils.get_dirpath(work_dir, repo_url))
     tagmap = utils.get_tagmap(repo)
 
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
@@ -76,14 +72,14 @@ def main():
                 "github:", "https://github.com/")
             from_rev = pkg_attr.split(' ')[1]
             pkg_attr = pkg_attr.split(' ')[0]
-            utils.clone_repo(repo_url, get_dirpath(repo_url))
+            utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
             print_log_github(pkg_attr, repo_url, from_rev)
         # Track packages updates
         else:
             repo_url = utils.get_eval(
                 nixpkgs_flakes, f"{pkg_attr}.src.meta.homepage")
             from_rev = utils.get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
-            utils.clone_repo(repo_url, get_dirpath(repo_url))
+            utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
             if "github.com" in repo_url:
                 print_log_github(pkg_attr, repo_url, from_rev)
 

@@ -19,6 +19,10 @@ def get_eval(flakes_url: str, attr_path: str):
                           stdout=subprocess.PIPE, text=True).stdout
 
 
+def get_dirpath(base: str, url: str) -> str:
+    return os.path.join(base, url.split('/')[-1])
+
+
 def clone_repo(url: str, path: str):
     if os.path.exists(path):
         shutil.rmtree(path)
