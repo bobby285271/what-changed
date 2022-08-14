@@ -39,4 +39,11 @@ def print_commit_tags(tagmap: dict, commit: git.Commit, file: str):
 
 def print_important_files(const_file: str, commit: git.Commit, file: str):
     oup = open(file, 'a', encoding='utf-8')
+    imp = utils.get_const(const_file, "important_files")
+    changed_imp = utils.get_changed_imp(commit, imp)
+    if changed_imp:
+        oup.write("  - <sub>Files:")
+        for f in changed_imp:
+            oup.write(f" <code>{f}</code>")
+        oup.write("</sub>\n")
     oup.close()
