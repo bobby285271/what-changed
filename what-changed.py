@@ -4,7 +4,8 @@ from git import Repo
 import os
 import shutil
 import sys
-from src.utils import get_eval
+import src.utils as utils
+import src.github as github
 
 # Pantheon updates always target the `master` branch
 nixpkgs_flakes = "github:NixOS/nixpkgs"
@@ -49,36 +50,26 @@ def print_log_github(pkg_attr: str, repo_url: str, from_rev: str):
     # length of tag names won't exceed 16. Full git commit hexsha sounds
     # too long for me.
     from_rev_for_display = from_rev[:16]
-    oup = open(output_file, 'a', encoding='utf-8')
+
     # Not trying to replace `HEAD` with the actual git commit hexsha as
     # I only want the output file to be updated when some non-tranlation
     # commits are made or some tags are created.
-    #
-    # Print 3 extra blank lines here so I can write something on
-    # these lines fast when the output is used in actual review.
-    oup.write(
-        "\n" + rf"### [{pkg_attr}]({repo_url}): [{from_rev_for_display} → HEAD]({repo_url}/compare/{from_rev}...HEAD)" + "\n\n\n\n")
+    github.print_title(pkg_attr, repo_url,
+                       from_rev_for_display, "HEAD", output_file)
 
     repo = Repo(get_dirpath(repo_url))
-    tagmap = {}
-    for tag in repo.tags:
-        tagmap.setdefault(repo.commit(tag), []).append(tag)
+    tagmap = utils.get_tagmap(repo)
 
     for commit in repo.iter_commits(rf"{from_rev}..HEAD", reverse=True):
         commit_message_oneline = commit.message.splitlines()[0]
         if commit in tagmap or not startswith_ignored_keyphrases(commit_message_oneline):
-            # Prefixed with `- [ ]` to make this a task list.
-            #
-            # Commit messages are put in <code></code> blocks simply
-            # because this is my personal preference.
-            oup.write(
-                rf"- [ ] [<code>{commit_message_oneline}</code>]({repo_url}/commit/{commit.hexsha})")
+            github.print_commit(repo_url, commit, output_file)
+            oup = open(output_file, 'a', encoding='utf-8')
             if commit in tagmap:
-                oup.write(" <sub>Tagged:")
+                oup.write("  - <sub>Tagged:")
                 for tag in tagmap.get(commit):
                     oup.write(rf" <code>{tag}</code>")
-                oup.write("</sub>")
-            oup.write("\n")
+                oup.write("</sub>\n")
 
 
 def main():
@@ -108,9 +99,9 @@ def main():
             print_log_github(pkg_attr, repo_url, from_rev)
         # Track packages updates
         else:
-            repo_url = get_eval(
+            repo_url = utils.get_eval(
                 nixpkgs_flakes, f"{pkg_attr}.src.meta.homepage")
-            from_rev = get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
+            from_rev = utils.get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
             clone_repo(repo_url)
             if "github.com" in repo_url:
                 print_log_github(pkg_attr, repo_url, from_rev)
