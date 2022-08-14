@@ -2,14 +2,15 @@
 
 from git import Repo
 import os
-import subprocess
 import shutil
 import sys
+from src.utils import get_eval
 
 # Pantheon updates always target the `master` branch
 nixpkgs_flakes = "github:NixOS/nixpkgs"
 work_dir = os.path.join(os.path.dirname(__file__), 'work')
-input_file = os.path.join(os.path.dirname(__file__), 'data', rf'{sys.argv[1]}.list')
+input_file = os.path.join(os.path.dirname(
+    __file__), 'data', rf'{sys.argv[1]}.list')
 output_file = os.path.join(os.path.dirname(__file__), rf'{sys.argv[1]}.md')
 
 # Note that we only check whether one of these strings is prefix
@@ -28,13 +29,6 @@ def startswith_ignored_keyphrases(commit_message: str) -> bool:
         if commit_message.startswith(keyphrase):
             return True
     return False
-
-
-def get_eval(attr: str) -> str:
-    # Probably need nix-command and flakes as experimental features, but they
-    # should be enabled by default already thanks to cachix/install-nix-action.
-    return subprocess.run(['nix', 'eval', '--raw', rf"{nixpkgs_flakes}#{attr}"],
-                          stdout=subprocess.PIPE, text=True).stdout
 
 
 def get_dirpath(repo_url: str) -> str:
@@ -114,8 +108,9 @@ def main():
             print_log_github(pkg_attr, repo_url, from_rev)
         # Track packages updates
         else:
-            repo_url = get_eval(rf"{pkg_attr}.src.meta.homepage")
-            from_rev = get_eval(rf"{pkg_attr}.src.rev")
+            repo_url = get_eval(
+                nixpkgs_flakes, f"{pkg_attr}.src.meta.homepage")
+            from_rev = get_eval(nixpkgs_flakes, f"{pkg_attr}.src.rev")
             clone_repo(repo_url)
             if "github.com" in repo_url:
                 print_log_github(pkg_attr, repo_url, from_rev)
