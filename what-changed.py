@@ -29,7 +29,6 @@ def main():
     data = json.load(inp, object_pairs_hook=collections.OrderedDict)
 
     for i in data['case']:
-        print(i)
         if i['kind'] == "markdown":
             printer.print_trivial(i['content'], out_file)
             continue
