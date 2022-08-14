@@ -432,6 +432,7 @@
 
 - [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available (#228)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1903612b29acf3af9488a59a867ed01f7d74aac5)
 - [ ] [<code>Animate switch (#235)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/61af5563cdbb8077e4c0ae791fec3f93049964b0)
+- [ ] [<code>Consistent margin (#234)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/51540fdb2edf353022ced251e64c5ba9f84e8382)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
