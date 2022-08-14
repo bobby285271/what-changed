@@ -4,6 +4,8 @@ import os
 import sys
 import src.utils as utils
 import src.printer as printer
+import json
+import collections
 
 flake = "local" if utils.debug else "github:NixOS/nixpkgs"
 
@@ -11,8 +13,8 @@ base_dir = os.path.dirname(__file__)
 data_dir = os.path.join(base_dir, 'data')
 work_dir = os.path.join(base_dir, 'work')
 
-in_file = os.path.join(data_dir, rf'{sys.argv[1]}.list')
-out_file = os.path.join(base_dir, rf'{sys.argv[1]}.md')
+in_file = os.path.join(data_dir, f'{sys.argv[1]}.json')
+out_file = os.path.join(base_dir, f'{sys.argv[1]}.md')
 
 ignored_msg = utils.get_ignored_msg(os.path.join(data_dir, 'constants.json'))
 
@@ -24,30 +26,24 @@ def main():
         os.makedirs(work_dir)
 
     inp = open(in_file, 'r', encoding='utf-8')
-    for line in inp.readlines():
-        line = f"{line}".strip()
+    data = json.load(inp, object_pairs_hook=collections.OrderedDict)
 
-        if not line or line[0] == '#':
+    for i in data['case']:
+        print(i)
+        if i['kind'] == "markdown":
+            printer.print_trivial(i['content'], out_file)
             continue
 
-        elif line[0] == '@':
-            printer.print_trivial(line, out_file)
-
-        elif line.startswith('github:'):
-            url = line.split(' ')[0].replace("github:", "https://github.com/")
-            from_rev = line.split(' ')[1]
-            line = line.split(' ')[0]
-            utils.clone_repo(url, utils.get_dirpath(work_dir, url))
-            printer.print_logs("src.github", work_dir, line, url,
-                               from_rev, "HEAD", ignored_msg, out_file)
-
+        if "attr_path" in i:
+            i['url'] = utils.get_eval(
+                flake, f"{i['attr_path']}.src.meta.homepage")
+            i['from_rev'] = utils.get_eval(flake, f"{i['attr_path']}.src.rev")
         else:
-            url = utils.get_eval(flake, f"{line}.src.meta.homepage")
-            from_rev = utils.get_eval(flake, f"{line}.src.rev")
-            utils.clone_repo(url, utils.get_dirpath(work_dir, url))
-            if "github.com" in url:
-                printer.print_logs("src.github", work_dir, line, url,
-                                   from_rev, "HEAD", ignored_msg, out_file)
+            i['attr_path'] = i['url'].split('/')[-1]
+
+        utils.clone_repo(i['url'], utils.get_dirpath(work_dir, i['url']))
+        printer.print_logs(f"src.{i['kind']}", work_dir, i['attr_path'], i['url'],
+                           i['from_rev'], i['to_rev'], ignored_msg, out_file)
 
 
 if __name__ == "__main__":
