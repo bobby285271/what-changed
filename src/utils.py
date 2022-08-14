@@ -13,6 +13,7 @@ def get_ignored_msg(file: str):
     data = json.load(f)
     return data['ignored_msg']
 
+
 def contains_prefix(s: str, lst: list) -> bool:
     for i in lst:
         if s.startswith(i):
