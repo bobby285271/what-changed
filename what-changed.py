@@ -6,12 +6,15 @@ import src.utils as utils
 import src.printer as printer
 
 nixpkgs_flakes = "local" if utils.debug else "github:NixOS/nixpkgs"
-work_dir = os.path.join(os.path.dirname(__file__), 'work')
-input_file = os.path.join(os.path.dirname(
-    __file__), 'data', rf'{sys.argv[1]}.list')
-output_file = os.path.join(os.path.dirname(__file__), rf'{sys.argv[1]}.md')
-ignored_keyphrases = utils.get_ignored_msg(os.path.join(
-    os.path.dirname(__file__), 'data', 'constants.json'))
+
+base_dir = os.path.dirname(__file__)
+data_dir = os.path.join(base_dir, 'data')
+work_dir = os.path.join(base_dir, 'work')
+
+input_file = os.path.join(data_dir, rf'{sys.argv[1]}.list')
+output_file = os.path.join(base_dir, rf'{sys.argv[1]}.md')
+
+ignored_msg = utils.get_ignored_msg(os.path.join(data_dir, 'constants.json'))
 
 
 def main():
@@ -37,7 +40,7 @@ def main():
             pkg_attr = pkg_attr.split(' ')[0]
             utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
             printer.print_logs("src.github", work_dir, pkg_attr, repo_url,
-                               from_rev, "HEAD", ignored_keyphrases, output_file)
+                               from_rev, "HEAD", ignored_msg, output_file)
         # Track packages updates
         else:
             repo_url = utils.get_eval(
@@ -46,7 +49,7 @@ def main():
             utils.clone_repo(repo_url, utils.get_dirpath(work_dir, repo_url))
             if "github.com" in repo_url:
                 printer.print_logs("src.github", work_dir, pkg_attr, repo_url,
-                                   from_rev, "HEAD", ignored_keyphrases, output_file)
+                                   from_rev, "HEAD", ignored_msg, output_file)
 
 
 if __name__ == "__main__":
