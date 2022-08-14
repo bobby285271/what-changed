@@ -1,10 +1,10 @@
 > Testing purpose only.
 
-### [github:elementary/gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [66057f10fa3f2840 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/66057f10fa3f2840...HEAD)
+#### [github:elementary/gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [66057f10fa3f2840dc764e9b48f475b5494becf0 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/66057f10fa3f2840dc764e9b48f475b5494becf0...HEAD)
 
 - [ ] [<code>Add gnome-bluetooth contract</code>](https://github.com/elementary/gnome-bluetooth-contract/commit/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c)
 
-### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
+#### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
 - [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
   - <sub>Tagged: <code>1.4.1</code></sub>
