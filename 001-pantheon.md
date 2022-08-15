@@ -217,6 +217,7 @@
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
+- [ ] [<code>Animate switches (#225)</code>](https://github.com/elementary/switchboard-plug-sound/commit/f093e716c84e154509ec1620a9f47a6c22ae5a0a)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
