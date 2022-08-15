@@ -5,27 +5,8 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.4 → HEAD](https://github.com/linuxmint/bulky/compare/2.4...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.9...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.10 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.10...HEAD)
 
-- [ ] [<code>live previews: Use clones when valid, and static images in certain</code>](https://github.com/linuxmint/cinnamon/commit/2fe9ec9650f7d65462732e449107e498a1a72620)
-- [ ] [<code>windowAttentionHandler: Fix new window focus issue with Firefox.</code>](https://github.com/linuxmint/cinnamon/commit/dccfd2537f9c91cf6535a8ee2c7adb3589fd61d6)
-- [ ] [<code>keybindings.js: Use a js Map to track keybindings and handle</code>](https://github.com/linuxmint/cinnamon/commit/e88b1a999b97d524d45d64452c9a3ad0c8189330)
-- [ ] [<code>osdWindow.js: Use correct allocation size for the fill level instead</code>](https://github.com/linuxmint/cinnamon/commit/98181340e9894fbe24c4321cbaa17caed0ea46e8)
-- [ ] [<code>Remove rtl workaround for the triangle arrow direction, (#10980)</code>](https://github.com/linuxmint/cinnamon/commit/f584c7974f858220785ce483849b7ba9a130fb97)
-- [ ] [<code>windowAttentionHandler: remove notification fallback, re-add all</code>](https://github.com/linuxmint/cinnamon/commit/718668673e171806cc30709af5366c029746ba34)
-- [ ] [<code>windowManager.js: get rid of (non-cinnamon) popup menu animations.</code>](https://github.com/linuxmint/cinnamon/commit/e2157dfb7389bcc9044ad832c88e949fc21d76f2)
-- [ ] [<code>sound@cinnamon.org: Fix panel scrolling behavior.</code>](https://github.com/linuxmint/cinnamon/commit/bda9dc5dd959e8425189d044ed4bf686f32a4769)
-- [ ] [<code>windowManager.js: Complete the workspace switch immediately if</code>](https://github.com/linuxmint/cinnamon/commit/7dac334cf1ce4507718b00ef9c9ba0f26d8eb965)
-- [ ] [<code>panel.js: Don't create a (horizontal) panel barrier for a vertical</code>](https://github.com/linuxmint/cinnamon/commit/683b219b192891cb873fce519a1586be5baad5f1)
-- [ ] [<code>panel.js: No barriers when there is only a single monitor.</code>](https://github.com/linuxmint/cinnamon/commit/d9591fdeeb68953938b54013482b79fccbdc36a5)
-- [ ] [<code>panel.js: global.screen -> global.display</code>](https://github.com/linuxmint/cinnamon/commit/3d8843c29b6c8ab25ea2f5a8c280dbd8eb57f00c)
-- [ ] [<code>More issue templates, not everything is a bug report (#11011)</code>](https://github.com/linuxmint/cinnamon/commit/1859cc2a71fb368d34bc4e512342bccf7772b4c1)
-- [ ] [<code>Fix bug remplate, remove question template.</code>](https://github.com/linuxmint/cinnamon/commit/a43be26f1225a4e5c09744219ddec881e66ac5ca)
-- [ ] [<code>Remove unused soup (#11002)</code>](https://github.com/linuxmint/cinnamon/commit/dad45bb7799d6deb9eded378492a9220df139944)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>5.4.10</code>](https://github.com/linuxmint/cinnamon/commit/afdbb3d30bb13c1ab395d8c959d8e21600d58719)
-  - <sub>Tagged: <code>5.4.10</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>keybindings.js: Use bindings.get() - this.bindings is a Map.</code>](https://github.com/linuxmint/cinnamon/commit/7724e4146baf8431bc1fb55dce60984e77adef5a)
 - [ ] [<code>Re-add soup 2.4 bindings as a runtime-only dependency, and add</code>](https://github.com/linuxmint/cinnamon/commit/76224fe409d074f8a44c70e4fd5e1289f92800b9)
 - [ ] [<code>Reimplement the locate pointer functionality</code>](https://github.com/linuxmint/cinnamon/commit/b84524300937e4722283ec9d1cc5987067f656c6)
@@ -79,13 +60,8 @@
 - [ ] [<code>prefs.c: Restore the locate pointer functionality</code>](https://github.com/linuxmint/muffin/commit/508a21328feaceccea183743ad33bd851690b640)
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.2...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
-- [ ] [<code>fix spelling error spotted by lintian</code>](https://github.com/linuxmint/nemo/commit/67a335014749accd12eb187571a071504da04635)
-- [ ] [<code>App chooser: Quote custom executable file paths (#3041)</code>](https://github.com/linuxmint/nemo/commit/f004f88b8daf9cd5504db98aa031e19f37b46011)
-- [ ] [<code>5.4.3</code>](https://github.com/linuxmint/nemo/commit/39e765de72d8b16895f318848a8b49374b6265a0)
-  - <sub>Tagged: <code>5.4.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
@@ -102,12 +78,8 @@
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.3...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.4 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.4...HEAD)
 
-- [ ] [<code>ev-window.c: Don't try to handle keyboard events manually.</code>](https://github.com/linuxmint/xreader/commit/4362a3567245cde757d1fb2aca228470ccc8b392)
-- [ ] [<code>3.4.4</code>](https://github.com/linuxmint/xreader/commit/c103a1a6c6ad02161f997a2fe78b6c123e6a7e35)
-  - <sub>Tagged: <code>3.4.4</code> <code>master.lmde5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
@@ -128,11 +100,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.11 → HEAD](https://github.com/linuxmint/sticky/compare/1.11...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
-- [ ] [<code>buffer, do_insert_text: always reassign location text iter to former pos</code>](https://github.com/linuxmint/sticky/commit/155179fcaf0197dd5dc802541fb175e435010da4)
-- [ ] [<code>1.12</code>](https://github.com/linuxmint/sticky/commit/5d8143bc4ab18fc2d26d0dad6b3fe4613655e8bf)
-  - <sub>Tagged: <code>1.12</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
