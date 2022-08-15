@@ -11,5 +11,10 @@
         "meson_options.txt",
         "CMakeLists.txt",
         "configure.ac"
+    ],
+    "supported_kind": [
+        "markdown",
+        "github",
+        "gitlab"
     ]
 }
