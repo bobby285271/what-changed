@@ -66,6 +66,7 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [73d6cfea807ea84a645f43424c60916cb6214693 → HEAD](https://github.com/linuxmint/mint-themes/compare/73d6cfea807ea84a645f43424c60916cb6214693...HEAD)
 
 - [ ] [<code>Cinnamon: Add support for the cinnamon locate pointer</code>](https://github.com/linuxmint/mint-themes/commit/8d46df19f919bb5a871cfa8386a4a257aefdbec2)
+- [ ] [<code>Mint-X: Always use green for suggested-action buttons</code>](https://github.com/linuxmint/mint-themes/commit/1fb897d4c4932b9eebc38495dc48ab11879b9080)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
