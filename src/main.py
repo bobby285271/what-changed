@@ -35,22 +35,33 @@ def fill_data(i):
         if not "attr_path" in i:
             i['attr_path'] = i['url'].split('/')[-1]
 
+    if not i['kind'] in utils.get_const(const_file, "supported_kind"):
+        exit(1)
+    if i['kind'] != "markdown":
+        if not "attr_path" in i or not "url" in i or not "from_rev" in i:
+            exit(1)
+    else:
+        if not "content" in i:
+            exit(1)
+
 
 def main():
+    inp = open(in_file, 'r', encoding='utf-8')
+    data = json.load(inp, object_pairs_hook=collections.OrderedDict)
+
+    for i in data['case']:
+        fill_data(i)
+
     if os.path.exists(out_file):
         os.remove(out_file)
     if not os.path.exists(work_dir):
         os.makedirs(work_dir)
-
-    inp = open(in_file, 'r', encoding='utf-8')
-    data = json.load(inp, object_pairs_hook=collections.OrderedDict)
 
     for i in data['case']:
         if "kind" in i and i['kind'] == "markdown":
             printer.print_trivial(i['content'], out_file)
             continue
 
-        fill_data(i)
         utils.clone_repo(i['url'], utils.get_dirpath(work_dir, i['url']))
         printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
                            i['from_rev'], i['to_rev'], const_file, out_file)
