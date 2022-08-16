@@ -198,6 +198,9 @@
 - [ ] [<code>Fallback to hardcoded path if required (#328)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/95007974173f41db95c0e0b6f2c205bcc061fb1f)
 - [ ] [<code>Sort wallpapers (#325)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/eb99494546ee5e9646b0c16f34cbfcb491cded5f)
 - [ ] [<code>WallpaperContainer: style selection check with CSS (#330)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/85522288262c24bf1eda4841dd44424dbafc88c1)
+- [ ] [<code>Release 6.3.0 (#329)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5f1a0ac0123f184eaa00e1aca0c5cb44186045fc)
+  - <sub>Tagged: <code>6.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
