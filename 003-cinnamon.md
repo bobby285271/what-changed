@@ -12,6 +12,7 @@
 - [ ] [<code>Reimplement the locate pointer functionality</code>](https://github.com/linuxmint/cinnamon/commit/b84524300937e4722283ec9d1cc5987067f656c6)
 - [ ] [<code>cs_sound.py: Add some more sound ids to ignore.</code>](https://github.com/linuxmint/cinnamon/commit/6c2306661ca5aa6f4c01a7ac336ac619f13a00ec)
 - [ ] [<code>keybindings.js: Fix incorrect check.</code>](https://github.com/linuxmint/cinnamon/commit/fbafd39b07f4138a972a553c3e5424f99f8f3bba)
+- [ ] [<code>screenshot.js: Improve button event handling, listen to stage</code>](https://github.com/linuxmint/cinnamon/commit/a109ce98cea71951e2ff6583bd3575c997651baf)
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
@@ -27,6 +28,9 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.4.2...HEAD)
 
+- [ ] [<code>stage: Use rgba visual.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/432d27825a22e8d59dc267765394bcc43fb0a5e4)
+- [ ] [<code>Add option to disable the backup locker.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d63140c9529d26f8c5e597761fee9dcf4a37b6d9)
+  - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
