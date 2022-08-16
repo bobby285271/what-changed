@@ -183,24 +183,8 @@
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.2.0...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.0...HEAD)
 
-- [ ] [<code>Use Hdy.Clamp to set page width (#314)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b09601a449772382c2600bac93bf1bd30554a3ca)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Propagate state_set event (#317)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5d281c5d4e8a24cb1f816960e0efccfe1bf896ff)
-- [ ] [<code>Use focus_in_event (#315)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9eae3122b44557d129b4ae79b09b2d02a48c570f)
-- [ ] [<code>Add timestamp to filename (#321)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9760c59fad555c27b2181e3286b8089b29ad5afb)
-- [ ] [<code>Add timestamp to filename in contract (#322)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c58cdb92d81c9247838d9badfd956382289a4c17)
-- [ ] [<code>Selected wallpaper check: follow accent color (#323)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9cece63bd3469df4900866ec500e5e38ba6b820f)
-- [ ] [<code>Fix accent color (#324)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/91de7b69cd82115e5fdcba93e1a6268587ec3fdf)
-- [ ] [<code>Undo mechanism for trashing wallpapers (#327)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e0258718d49264360453df57e7f3149ea08513ed)
-- [ ] [<code>Load stylesheet once (#326)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc7de42e3e839448fcbbad859fdabe864a596af5)
-- [ ] [<code>Fallback to hardcoded path if required (#328)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/95007974173f41db95c0e0b6f2c205bcc061fb1f)
-- [ ] [<code>Sort wallpapers (#325)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/eb99494546ee5e9646b0c16f34cbfcb491cded5f)
-- [ ] [<code>WallpaperContainer: style selection check with CSS (#330)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/85522288262c24bf1eda4841dd44424dbafc88c1)
-- [ ] [<code>Release 6.3.0 (#329)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/5f1a0ac0123f184eaa00e1aca0c5cb44186045fc)
-  - <sub>Tagged: <code>6.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
