@@ -84,6 +84,8 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.4 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.4...HEAD)
 
+- [ ] [<code>ev-window.c: Only disable custom event handling for web documents.</code>](https://github.com/linuxmint/xreader/commit/61c94aa919137bfbf657cc537e147389883bba43)
+  - <sub>Tagged: <code>master.lmde5</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
