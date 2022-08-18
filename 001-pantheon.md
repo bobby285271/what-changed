@@ -277,6 +277,7 @@
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
+- [ ] [<code>Bind number of days to setting (#176)</code>](https://github.com/elementary/onboarding/commit/288434a0c228afe5cc6b552ea7bb377b52c44850)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -387,6 +388,7 @@
 
 - [ ] [<code>l10n: Correctly setup the locales (#110)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ea5df2f62a99a216ee5ed137268e710490a852a4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix spelling; visibiity -> visibility (#114)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/c1db11ca97ffc63045339ea53d33222f0e2cd5ea)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
