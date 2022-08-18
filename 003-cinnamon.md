@@ -62,6 +62,7 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.5 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.5...HEAD)
 
 - [ ] [<code>prefs.c: Restore the locate pointer functionality</code>](https://github.com/linuxmint/muffin/commit/508a21328feaceccea183743ad33bd851690b640)
+- [ ] [<code>tiling: Skip the resize effect for tiled windows during user grabs.</code>](https://github.com/linuxmint/muffin/commit/a8068f3c1108f449dde7de7dd808de329bb13347)
   - <sub>Tagged: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
