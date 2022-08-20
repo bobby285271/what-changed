@@ -1,6 +1,6 @@
 > Testing purpose only.
 
-#### [gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [66057f10fa3f2840dc764e9b48f475b5494becf0 → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/66057f10fa3f2840dc764e9b48f475b5494becf0...HEAD)
+#### [gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [66057f10fa3f2840dc764e9b48f475b5494becf0 → 8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c](https://github.com/elementary/gnome-bluetooth-contract/compare/66057f10fa3f2840dc764e9b48f475b5494becf0...8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c)
 
 - [ ] [<code>Add gnome-bluetooth contract</code>](https://github.com/elementary/gnome-bluetooth-contract/commit/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c)
 
