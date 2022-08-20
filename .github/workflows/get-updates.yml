@@ -23,7 +23,7 @@ jobs:
           ref: 'master'
       - uses: cachix/install-nix-action@v16
       - run: sudo pip install GitPython
-      - run: python3 src/main.py ${{ matrix.pkgset }}
+      - run: python3 src/wc_main.py ${{ matrix.pkgset }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "${{ matrix.pkgset }}: automatic updates"
