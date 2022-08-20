@@ -6,10 +6,12 @@
         },
         {
             "url": "https://github.com/elementary/gnome-bluetooth-contract",
-            "from_rev": "66057f10fa3f2840dc764e9b48f475b5494becf0"
+            "from_rev": "66057f10fa3f2840dc764e9b48f475b5494becf0",
+            "to_rev": "8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c"
         },
         {
             "attr_path": "vocal",
+            "from_rev": "2.4.2",
             "to_rev": "80c49f659dfb94bfb04043a4c39473e64a89f8d0"
         },
         {
