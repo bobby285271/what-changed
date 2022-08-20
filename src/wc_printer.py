@@ -30,7 +30,7 @@ def print_logs(kind: str, base: str, name: str, url: str,
 def print_commit_tags(tagmap: dict, commit: git.Commit, file: str):
     oup = open(file, 'a', encoding='utf-8')
     if commit in tagmap:
-        oup.write("  - <sub>Tagged:")
+        oup.write("  - <sub>Tags:")
         for tag in tagmap.get(commit):
             oup.write(f" <code>{tag}</code>")
         oup.write("</sub>\n")
