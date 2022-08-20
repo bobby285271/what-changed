@@ -56,7 +56,10 @@ def get_important_files(commit: git.Commit, file: list) -> list:
     return ret
 
 
-def get_important_keywords(commit: git.Commit, file: list) -> list:
+def get_important_keywords(repo: git.Repo, commit: git.Commit, file: list) -> list:
     ret = []
-    # TODO
+    raw_diff = repo.git.show(commit.hexsha, '--format=oneline', '-U0')
+    for i in file:
+        if i in raw_diff:
+            ret.append(i)
     return ret

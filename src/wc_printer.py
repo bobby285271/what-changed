@@ -25,7 +25,7 @@ def print_logs(kind: str, base: str, name: str, url: str,
             fmt.print_commit(url, commit, file)
             print_commit_tags(tagmap, commit, file)
             print_important_files(const_file, commit, file)
-            print_important_keywords(const_file, commit, file)
+            print_important_keywords(const_file, repo, commit, file)
 
 
 def print_items(key: str, lst: list, file: str):
@@ -48,7 +48,7 @@ def print_important_files(const_file: str, commit: git.Commit, file: str):
     print_items("Files", important_files, file)
 
 
-def print_important_keywords(const_file: str, commit: git.Commit, file: str):
+def print_important_keywords(const_file: str, repo: git.Repo, commit: git.Commit, file: str):
     imp = wc_utils.get_const(const_file, "important_keywords")
-    important_keywords = wc_utils.get_important_keywords(commit, imp)
+    important_keywords = wc_utils.get_important_keywords(repo, commit, imp)
     print_items("Keywords", important_keywords, file)
