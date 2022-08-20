@@ -19,8 +19,11 @@
         "command",
         "commandline",
         "exec",
+        "subprocess",
         "dependency",
-        "require"
+        "find_package",
+        "org.gnome.desktop",
+        "org.gnome.system"
     ],
     "supported_kind": [
         "markdown",
