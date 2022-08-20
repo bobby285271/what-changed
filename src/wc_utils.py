@@ -45,7 +45,7 @@ def get_tagmap(repo: git.Repo) -> dict:
     return tagmap
 
 
-def get_changed_imp(commit: git.Commit, file: list) -> list:
+def get_important_files(commit: git.Commit, file: list) -> list:
     ret = []
     changed = commit.stats.files.keys()
     for i in file:
@@ -53,4 +53,10 @@ def get_changed_imp(commit: git.Commit, file: list) -> list:
             if os.path.basename(j) == i:
                 ret.append(i)
                 break
+    return ret
+
+
+def get_important_keywords(commit: git.Commit, file: list) -> list:
+    ret = []
+    # TODO
     return ret
