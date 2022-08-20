@@ -12,6 +12,9 @@
         "CMakeLists.txt",
         "configure.ac"
     ],
+    "important_keywords": [
+        "gnome-bluetooth"
+    ],
     "supported_kind": [
         "markdown",
         "github",
