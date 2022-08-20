@@ -13,7 +13,12 @@
         "configure.ac"
     ],
     "important_keywords": [
-        "gnome-bluetooth"
+        "/bin",
+        "/usr",
+        "path",
+        "command",
+        "exec",
+        "dependency"
     ],
     "supported_kind": [
         "markdown",
