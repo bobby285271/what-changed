@@ -58,6 +58,7 @@
 - [ ] [<code>Show overlay bar only on selection  (#2034)</code>](https://github.com/elementary/files/commit/d44ef6fb7a4ce4c59e0deb836907f01c34776672)
 - [ ] [<code>Get bookmark icon directly if not in corresponding Files.File (#2054)</code>](https://github.com/elementary/files/commit/72263bd75d51ebeb13e5758ea48df67dd287f8d4)
 - [ ] [<code>Fix logic for revealing infobar (#2074)</code>](https://github.com/elementary/files/commit/db88604e6f468dc7e6168dfdca7e0d1235249d76)
+- [ ] [<code>Improve startup when restored location is no longer connected (#2018)</code>](https://github.com/elementary/files/commit/b4679bc883d90c5e6aee40cc1f07fc875a9c0819)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -104,6 +105,8 @@
 - [ ] [<code>Window: use more actions for keyboard shortcuts (#308)</code>](https://github.com/elementary/videos/commit/6347d6a787a7dae9ba9c26e58342ec45f5118582)
 - [ ] [<code>SeekBar: rewrite how progress and duration are set (#310)</code>](https://github.com/elementary/videos/commit/bde83038c729cc0468fd13f233949e0b707b1d61)
 - [ ] [<code>Git ignore flatpak build and temporary files (#311)</code>](https://github.com/elementary/videos/commit/51e832f7c13d6b200ce65c15f4e1ac8ca27ec5e6)
+- [ ] [<code>Implement MPRIS (#306)</code>](https://github.com/elementary/videos/commit/0dff3128ebfb49ae32148df68abb5bc8b118ddff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -453,6 +456,8 @@
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
 
+- [ ] [<code>Geoclue2Dialog: Rewrite as Granite.MessageDialog (#42)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/fadbea58fcabac9162e61f17f92da26f0a353252)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
