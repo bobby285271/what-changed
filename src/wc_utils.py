@@ -3,9 +3,15 @@ import git
 import os
 import shutil
 import json
+import re
 
 
 debug = False
+
+
+def find_word(w):
+    # https://stackoverflow.com/a/5320179
+    return re.compile(r'\b({0})\b'.format(w), flags=re.IGNORECASE).search
 
 
 def get_const(file: str, key: str):
@@ -60,6 +66,6 @@ def get_important_keywords(repo: git.Repo, commit: git.Commit, file: list) -> li
     ret = []
     raw_diff = repo.git.show(commit.hexsha, '--format=oneline', '-U0')
     for i in file:
-        if i in raw_diff:
+        if find_word(i)(raw_diff):
             ret.append(i)
     return ret
