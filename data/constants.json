@@ -13,12 +13,14 @@
         "configure.ac"
     ],
     "important_keywords": [
-        "/bin",
-        "/usr",
+        "bin",
+        "usr",
         "path",
         "command",
+        "commandline",
         "exec",
-        "dependency"
+        "dependency",
+        "require"
     ],
     "supported_kind": [
         "markdown",
