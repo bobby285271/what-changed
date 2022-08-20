@@ -56,6 +56,8 @@
 
 - [ ] [<code>Fix terminal critical warnings and possible crash when removing bookmark (#2062)</code>](https://github.com/elementary/files/commit/daa5ab244b45aafdd7be49eb0bd6f052ded5b5a7)
 - [ ] [<code>Show overlay bar only on selection  (#2034)</code>](https://github.com/elementary/files/commit/d44ef6fb7a4ce4c59e0deb836907f01c34776672)
+- [ ] [<code>Get bookmark icon directly if not in corresponding Files.File (#2054)</code>](https://github.com/elementary/files/commit/72263bd75d51ebeb13e5758ea48df67dd287f8d4)
+- [ ] [<code>Fix logic for revealing infobar (#2074)</code>](https://github.com/elementary/files/commit/db88604e6f468dc7e6168dfdca7e0d1235249d76)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -424,6 +426,7 @@
 - [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available (#228)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1903612b29acf3af9488a59a867ed01f7d74aac5)
 - [ ] [<code>Animate switch (#235)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/61af5563cdbb8077e4c0ae791fec3f93049964b0)
 - [ ] [<code>Consistent margin (#234)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/51540fdb2edf353022ced251e64c5ba9f84e8382)
+- [ ] [<code>Bind volume step to gnome setting (#237)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f495b7af6476c505397ca24de7aab5d3942da464)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
