@@ -92,4 +92,4 @@
 - [ ] [<code>bump dbus-rs</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/288d66b800aa68548eae3626d87a6b301c09acc5)
 - [ ] [<code>Use a screenshot without devel class</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/cda9e5ad88b2f04ab359feddec987efb119032d7)
 - [ ] [<code>update release date & desc</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/e0c53403832f6d387efc5ad0b39190ab28eb73b3)
-  - <sub>Tagged: <code>0.0.3</code></sub>
+  - <sub>Tags: <code>0.0.3</code></sub>
