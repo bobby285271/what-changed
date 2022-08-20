@@ -5,11 +5,11 @@ import sys
 import json
 import collections
 
-import utils
-import printer
-import data
+import wc_utils
+import wc_printer
+import wc_data
 
-flake = "local" if utils.debug else "github:NixOS/nixpkgs"
+flake = "local" if wc_utils.debug else "github:NixOS/nixpkgs"
 
 base_dir = os.path.join(os.path.dirname(__file__), os.pardir)
 data_dir = os.path.join(base_dir, 'data')
@@ -25,8 +25,8 @@ def main():
     rdata = json.load(inp, object_pairs_hook=collections.OrderedDict)
 
     for i in rdata['case']:
-        data.fill_data(i, flake)
-        data.fail_fast_check(i, const_file)
+        wc_data.fill_data(i, flake)
+        wc_data.fail_fast_check(i, const_file)
 
     if os.path.exists(out_file):
         os.remove(out_file)
@@ -35,11 +35,11 @@ def main():
 
     for i in rdata['case']:
         if "kind" in i and i['kind'] == "markdown":
-            printer.print_trivial(i['content'], out_file)
+            wc_printer.print_trivial(i['content'], out_file)
             continue
 
-        utils.clone_repo(i['url'], utils.get_dirpath(work_dir, i['url']))
-        printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
+        wc_utils.clone_repo(i['url'], wc_utils.get_dirpath(work_dir, i['url']))
+        wc_printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
                            i['from_rev'], i['to_rev'], const_file, out_file)
 
 
