@@ -13,4 +13,5 @@ jobs:
       - uses: cachix/install-nix-action@v17
       - run: sudo pip install GitPython
       - run: python3 src/wc_main.py 000-test
+      - run: git diff
       - run: git diff --quiet
