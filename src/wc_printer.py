@@ -39,7 +39,7 @@ def print_items(key: str, lst: list, file: str):
 
 
 def print_commit_tags(tagmap: dict, commit: git.Commit, file: str):
-    print_items("Keys", tagmap.get(commit), file)
+    print_items("Tags", tagmap.get(commit), file)
 
 
 def print_important_files(const_file: str, commit: git.Commit, file: str):
