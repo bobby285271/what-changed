@@ -1,0 +1,16 @@
+name: Test
+
+on:
+  pull_request:
+  push:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: cachix/install-nix-action@v17
+      - run: sudo pip install GitPython
+      - run: python3 src/wc_main.py 000-test
+      - run: git diff --quiet
