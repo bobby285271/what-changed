@@ -17,7 +17,10 @@
 - [ ] [<code>screenshot.js: Improve button event handling, listen to stage</code>](https://github.com/linuxmint/cinnamon/commit/a109ce98cea71951e2ff6583bd3575c997651baf)
 - [ ] [<code>st-theme-node.c: Fix a leak when falling back to the default theme</code>](https://github.com/linuxmint/cinnamon/commit/2bf2942a05f7435ead30d49b2efa0bf3f5294789)
 - [ ] [<code>locatePointer: Only grab the keybinding if the feature is enabled.</code>](https://github.com/linuxmint/cinnamon/commit/aab79cc26d96ec3b393d46ca7eab8ceaa7121a79)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.11</code>](https://github.com/linuxmint/cinnamon/commit/232df05c3dff538d06f43c6061da5b6bd7f4cfde)
+  - <sub>Tags: <code>5.4.11</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -34,6 +37,10 @@
 
 - [ ] [<code>stage: Use rgba visual.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/432d27825a22e8d59dc267765394bcc43fb0a5e4)
 - [ ] [<code>Add option to disable the backup locker.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d63140c9529d26f8c5e597761fee9dcf4a37b6d9)
+- [ ] [<code>5.4.3</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/9a5ae10330b0d94a604194bb24140384a7f6a021)
+  - <sub>Tags: <code>5.4.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "stage: Use rgba visual."</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1f0eaa7583246e34413272256d76e58ad13947bb)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
@@ -68,7 +75,9 @@
 - [ ] [<code>prefs.c: Restore the locate pointer functionality</code>](https://github.com/linuxmint/muffin/commit/508a21328feaceccea183743ad33bd851690b640)
 - [ ] [<code>tiling: Skip the resize effect for tiled windows during user grabs.</code>](https://github.com/linuxmint/muffin/commit/a8068f3c1108f449dde7de7dd808de329bb13347)
 - [ ] [<code>clutter: Bail out and warn on reentry into mapping/unmapping cycle</code>](https://github.com/linuxmint/muffin/commit/aa64d2ec90f693d2f5f7f45016d6d5712d6f345e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.6</code>](https://github.com/linuxmint/muffin/commit/69a15a5fe6020ccf6293fae6fcff7aca361f1dce)
+  - <sub>Tags: <code>5.4.6</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
@@ -94,7 +103,9 @@
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.4 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.4...HEAD)
 
 - [ ] [<code>ev-window.c: Only disable custom event handling for web documents.</code>](https://github.com/linuxmint/xreader/commit/61c94aa919137bfbf657cc537e147389883bba43)
-  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>3.4.5</code>](https://github.com/linuxmint/xreader/commit/c432fa497e85f2c9ddb932aab2f2d472876969d4)
+  - <sub>Tags: <code>3.4.5</code> <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
