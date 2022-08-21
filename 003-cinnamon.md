@@ -114,7 +114,7 @@
 - [ ] [<code>Port to meson (#3)</code>](https://github.com/linuxmint/xplayer-plparser/commit/600ec3dd3705e1968f219ff8ea96aada51ab2f04)
   - <sub>Tags: <code>master.lmde3</code> <code>master.mint18</code> <code>master.mint19</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>path</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
