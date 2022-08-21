@@ -24,7 +24,7 @@
 
 - [ ] [<code>build: Drop libecal-1.2 support (#757)</code>](https://github.com/elementary/calendar/commit/e2c7c1e265ce571271933c934b86b01f9ebe2efb)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>path</code> <code>dependency</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
@@ -32,7 +32,6 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
 - [ ] [<code>Fix compiler warnings (#1056)</code>](https://github.com/elementary/code/commit/78c08213c3351241238b7c58870a0c1d9e4587ac)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>added code to keywords (#1195)</code>](https://github.com/elementary/code/commit/8d9370ae67e719ba697024a3aa75416e061da831)
 - [ ] [<code>Fix DnD (#1194)</code>](https://github.com/elementary/code/commit/1ed7b590768ea9cb5b4658e27d9dc7ac224442ae)
 - [ ] [<code>Add flatpak build files to .gitignore (#1197)</code>](https://github.com/elementary/code/commit/8f4d1ae1fb4b579b9c811c0e855d4ea855b2914f)
@@ -50,13 +49,13 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Load launchers from gsettings (#155)</code>](https://github.com/elementary/dock/commit/67dd5d6cf55a8f50661d332383a2ca2859fb4029)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>path</code> <code>subprocess</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
 
 - [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>path</code> <code>command</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
 
@@ -83,7 +82,7 @@
 
 - [ ] [<code>Add Photo Viewer icons (#716)</code>](https://github.com/elementary/photos/commit/80ac13731ea1ed32f90293929a08bc138fe4d111)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>path</code> <code>exec</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -169,10 +168,8 @@
   - <sub>Tags: <code>3.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Shortcuts/List: use workspaces icon from system (#410)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/d3248bc0716293f0e958ac6bab11d03038e19149)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Replace Shortcut TreeView with a ListBox subclass</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c4988d9a3ed26e44fe61b3f09bb5dc071497ff4f)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Prepare for GTK4: Undepend from libgnomekbd (#413)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e55840b6ae272992aa12b7e5f44cef70f66c7210)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
@@ -241,51 +238,31 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
 - [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
 - [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Add 128px prefs-desktop-workspaces</code>](https://github.com/elementary/icons/commit/91493a45bf75824ca90a18abefe06d20f46a2046)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Add 128px icons for initial-setup (#1082)</code>](https://github.com/elementary/icons/commit/7ec88ef977938d202334c1a29578791800d9692d)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Add computer-fail color icons (#1107)</code>](https://github.com/elementary/icons/commit/af9b76f1cc3a845db09e0fc28c578268d5ef4ae0)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Square image missing (#1108)</code>](https://github.com/elementary/icons/commit/0415bc9ed034ffd66836af44e4db999e3d09e0c6)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Update Flatpak branding (#1114)</code>](https://github.com/elementary/icons/commit/97ae604ea404b772c06d7e9da8ce2e2072554d6b)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Actions: update squares for document-* (#1112)</code>](https://github.com/elementary/icons/commit/5b311c312767d49db834c8d3b9534c0a1c9bc1b7)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Categories: prefs-desktop-wallpaper → prefs-desktop (#1109)</code>](https://github.com/elementary/icons/commit/bc2afafaa0d4a3f05306440c4368944bcf3a9d92)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Remove apps/office-address-book (#1117)</code>](https://github.com/elementary/icons/commit/04fafeee8d3582ae58af19acdbe6d97097cdc039)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Mime links (#1115)</code>](https://github.com/elementary/icons/commit/bee5165a20028c86a3f28cf8f4467615edae9f7e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>FileTypes: Fix incorrect SVG symlink (#1124)</code>](https://github.com/elementary/icons/commit/eb811dc79f51e506d1e33cb2354741c88f010cf5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Categories: update preferences-desktop-keyboard (#1110)</code>](https://github.com/elementary/icons/commit/1a0968952ab13b8cc35622fc909c9c1ee89a5505)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Mimes sharedlib (#1119)</code>](https://github.com/elementary/icons/commit/5b201de87cfe5a7d167a4616f31ad9da1d007db3)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>FileTypes: update markdown icon (#1120)</code>](https://github.com/elementary/icons/commit/b367d11740b68dcf2870844f07bebc4e1e30b557)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Status: add 16px process-completed (#1121)</code>](https://github.com/elementary/icons/commit/93e73327205ae9b606559efea1a2d020558a5339)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Status: add process-paused (#1122)</code>](https://github.com/elementary/icons/commit/1576a7d2b16ba2e8e71fad1e138a603e2eaa098a)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>FileTypes: Use new arrow shape (#1062)</code>](https://github.com/elementary/icons/commit/e738e71bc909239b9508d72c62d4f92d562456da)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Update media stop icon (#1085)</code>](https://github.com/elementary/icons/commit/a3a78b5819b802ed254343f7aec5dc77459d8c1d)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
   - <sub>Files: <code>meson.build</code></sub>
 
@@ -362,7 +339,6 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [6.3.1 → HEAD](https://github.com/elementary/gala/compare/6.3.1...HEAD)
 
 - [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
 - [ ] [<code>Update to latest mutter bindings and use Transition objects (#1406)</code>](https://github.com/elementary/gala/commit/60861a4c701d6318fcbed428988cf06f08c2b936)
 - [ ] [<code>Use Clutter.Grab with Mutter 42 (#1407)</code>](https://github.com/elementary/gala/commit/9641704ec7f8097adc96616b1ff2a64290023d32)
@@ -375,10 +351,8 @@
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/cce2c8878017c75f5477fc9fc87a83dcd42bd839)
 - [ ] [<code>Use preferences-desktop-workspaces icon from system (#1424)</code>](https://github.com/elementary/gala/commit/902d79ee9d1fa6ab123850dfd1c713cb527ecf40)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Granite drawing removals (#1428)</code>](https://github.com/elementary/gala/commit/f74d8fdad56b9f1d8d4d8e6231078afb66596cf5)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>hotcorners: Add a minimum time delay between trigger and re-trigger events(#1421)</code>](https://github.com/elementary/gala/commit/f09b95c564a0d07c4cb1de1ee427b680f2b596d8)
 - [ ] [<code>WindowManager: save/restore easing on workspace switch (#1430)</code>](https://github.com/elementary/gala/commit/1f94db16c627f73af5dc69714611815e4691b5e8)
 - [ ] [<code>WindowManager: set workspace switch duration directly (#1429)</code>](https://github.com/elementary/gala/commit/87547ef50f9db312b4ebec751b55d9617b0f8f91)
