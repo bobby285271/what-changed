@@ -332,6 +332,7 @@
 - [ ] [<code>Release 2.0.0 (#126)</code>](https://github.com/elementary/shortcut-overlay/commit/e5f206eea1b347a22ad1c74090fa9873693097d8)
   - <sub>Tags: <code>2.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Close window on Ctrl+Q (#130)</code>](https://github.com/elementary/shortcut-overlay/commit/688554757a26adf9c9da0a34b2fbd4c21ad7fd60)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
