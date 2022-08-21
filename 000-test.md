@@ -12,11 +12,10 @@
 - [ ] [<code>Added an option to keep Vocal from playing in the background when closed. (#395)</code>](https://github.com/needle-and-thread/vocal/commit/cb6ea34f0f6172e66df5f221ec8864e0df1cc200)
 - [ ] [<code>Added an infobar which now displays when updates are underway. (#400)</code>](https://github.com/needle-and-thread/vocal/commit/c67f68d960cbd9de8e0dfb7425b011d186d97838)
 - [ ] [<code>Fix crash on missing remote podcast artwork (#408)</code>](https://github.com/needle-and-thread/vocal/commit/8057a6261e6a8becfb5f2bea1176947dcacadb93)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Read response body data as text rather than stream in request_as_string. (#418)</code>](https://github.com/needle-and-thread/vocal/commit/d9583d08f72e21083078a8c743cc20eb53dd0a1f)
 - [ ] [<code>Fixed bug where the mark as played icon wouldn't change upon marking the episode as played or new (#407)</code>](https://github.com/needle-and-thread/vocal/commit/3772cd4b565e98aa47a717d6b3368b1d97565bc6)
 - [ ] [<code>RFC: Enforce elementary code style with vala-lint (#378)</code>](https://github.com/needle-and-thread/vocal/commit/66aae46577fc0d0d82b1c2eb2514225014dc1903)
-  - <sub>Keywords: <code>usr</code> <code>path</code> <code>exec</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Fixed a bug where the volume button was created twice, which overwrote the relief style. (#420)</code>](https://github.com/needle-and-thread/vocal/commit/f9a3af5f421f623faf2b53d155fa83fcd8897a29)
 - [ ] [<code>Fix minor errors with null download button and invalid GVariant format string. (#423)</code>](https://github.com/needle-and-thread/vocal/commit/c9464ea6a8b3cc7ffc2c0ef8d28710e1f047b324)
 - [ ] [<code>Create FUNDING.yml</code>](https://github.com/needle-and-thread/vocal/commit/856f2f44e19e86ea14579ef13ec3f55bcc79e37b)
@@ -29,7 +28,7 @@
 - [ ] [<code>Downgrade Node.js to fix builds on Travis CI (#425)</code>](https://github.com/needle-and-thread/vocal/commit/9cc059f7af75b0579e7f474fa0e1ec2eaf9ff8db)
 - [ ] [<code>gpodder.net Integration (WIP) (#403)</code>](https://github.com/needle-and-thread/vocal/commit/033211f2434db85ef43bfe4967b2d73d133d5903)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>path</code> <code>find_package</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>New playback bar (#429)</code>](https://github.com/needle-and-thread/vocal/commit/ba7a769aa1dcb187db7be7ab5aaecb7f9c41138e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fixed a couple issues from the merge of gpodder.net into master, and temporarily disabled the new tests.</code>](https://github.com/needle-and-thread/vocal/commit/d268b5f7a56a32d30f0407818eae4df251d69b79)
@@ -38,13 +37,12 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Updated translation files from Transifex</code>](https://github.com/needle-and-thread/vocal/commit/e0556637302caf1a7ae46ab86990d20cbdc439ff)
 - [ ] [<code>Update database schema & primary keys. (#424)</code>](https://github.com/needle-and-thread/vocal/commit/b6f6c2b5c1457ee054276d869427585298e9ab65)
-  - <sub>Keywords: <code>path</code> <code>exec</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fixed a bug where all downloaded episodes were deleted. Fixes #413</code>](https://github.com/needle-and-thread/vocal/commit/79555061d1199e7f8c3f2a25e655dbd6fd806d6e)
 - [ ] [<code>Fixed the URL used to check network connectivity. Fixes #428</code>](https://github.com/needle-and-thread/vocal/commit/4195b175bd2496e5921fcda9e1e5ae0daf3b6436)
 - [ ] [<code>Use iTunes image if available (#435)</code>](https://github.com/needle-and-thread/vocal/commit/d3d5f09dbc7685115ddc2129d6939de061541c53)
 - [ ] [<code>Fixed a couple issues related to resetting your library. Fixes #431.</code>](https://github.com/needle-and-thread/vocal/commit/1cba9e14a3a0c90f9aac541dff06041e3ffb50df)
 - [ ] [<code>Fixed some issues with the infobar, and fixed major stability bugs in the process. Fixes #432.</code>](https://github.com/needle-and-thread/vocal/commit/b41b1a7c778d02b1b5b1a42a06ceb8bcc3ae389f)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Fix Regex to properly ignore <a href tags (#446)</code>](https://github.com/needle-and-thread/vocal/commit/37a1bfcdffed1b7ab7b99901c6eef98c7ed684da)
 - [ ] [<code>Add gvfs to dependency list (#441)</code>](https://github.com/needle-and-thread/vocal/commit/c60f22c0307ce2c062786bb96275b9f0857d0db4)
   - <sub>Keywords: <code>dependency</code></sub>
@@ -61,17 +59,16 @@
 - [ ] [<code>Respect global dark theme preference (#453)</code>](https://github.com/needle-and-thread/vocal/commit/01bf7929cf27a36f820635248d5697269e62d692)
 - [ ] [<code>Support multiple datetime formats for episode pubdate (#468)</code>](https://github.com/needle-and-thread/vocal/commit/0d68a569a263d6c6fe84b261e7c5622d1c5be21c)
 - [ ] [<code>Show podcast description on info button (Search) (#454)</code>](https://github.com/needle-and-thread/vocal/commit/7ae3824682f66e918af5177a25700496ef56f39b)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>Fix build with vala 0.56 (#503)</code>](https://github.com/needle-and-thread/vocal/commit/6859a6c990aea95decc23bc32d1504c2078c0ce9)
 - [ ] [<code>update appcenter data (#498)</code>](https://github.com/needle-and-thread/vocal/commit/8653f878dfce1b65a29e565833d38d7ebe642097)
 - [ ] [<code>Full Russian translate (#471)</code>](https://github.com/needle-and-thread/vocal/commit/a7c4d799c9dac4ae5aad8084a8d5b9453bc7d005)
 - [ ] [<code>Added Italian (#491)</code>](https://github.com/needle-and-thread/vocal/commit/148a8aa4609930500e14e5764fcb3d83ba812809)
 - [ ] [<code>cmake to meson (#500)</code>](https://github.com/needle-and-thread/vocal/commit/1544141dc8e788f7c3854dada9a43aab7781ad97)
   - <sub>Files: <code>meson.build</code> <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>path</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
 - [ ] [<code>Initial port to GTK4/libadwaita</code>](https://github.com/needle-and-thread/vocal/commit/366d7b8f79c988f367666dcd36a64ded3507abcf)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>path</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/80c49f659dfb94bfb04043a4c39473e64a89f8d0)
 
 #### [contrast](https://gitlab.gnome.org/World/design/contrast): [0.0.2 → 0.0.3](https://gitlab.gnome.org/World/design/contrast/-/compare/0.0.2...0.0.3)
@@ -93,7 +90,6 @@
 - [ ] [<code>ci: use the sdk template</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/d22009f619f6b771032e4be2e3e7e13192567fe2)
 - [ ] [<code>misc: mention GNOME CoC instead</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/cc36f4ab3faab57ab16d904730661f87604fea53)
 - [ ] [<code>bump gtk-rs stack</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/414f3c768e8251045a5fc689543704bd8f2ffecc)
-  - <sub>Keywords: <code>path</code></sub>
 - [ ] [<code>make cargo clippy happy</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/c156a9d599405aff082d3ea40982734515307fc4)
 - [ ] [<code>refetch adwaita</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/de2a469d80e413ab14ce004625e29caf9ea25460)
 - [ ] [<code>clean my silly mistakes</code>](https://gitlab.gnome.org/World/design/contrast/-/commit/4b5ea8f984c20838d582690ba952c80b7a3d069e)
