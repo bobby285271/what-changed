@@ -173,6 +173,8 @@
 - [ ] [<code>Prepare for GTK4: Undepend from libgnomekbd (#413)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e55840b6ae272992aa12b7e5f44cef70f66c7210)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>New add/remove list pattern (#414)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e1373f58cc6d602c62ededa22228d3f703c97b44)
+- [ ] [<code>Make "Add Shortcut" translatable (#416)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/464a1f06b31b666d347ed9b9a5723838e367f972)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -234,6 +236,7 @@
 - [ ] [<code>Infobars: fix button margin when no close (#1213)</code>](https://github.com/elementary/stylesheet/commit/cf94c760935ebb5614a0b10097feb9e3f132bd50)
 - [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
 - [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
+- [ ] [<code>Gtk4/Scales: fix mark selector (#1221)</code>](https://github.com/elementary/stylesheet/commit/de257a1c5c4cddd262fefc94583784d88d0b13c6)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -333,6 +336,9 @@
   - <sub>Tags: <code>2.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Close window on Ctrl+Q (#130)</code>](https://github.com/elementary/shortcut-overlay/commit/688554757a26adf9c9da0a34b2fbd4c21ad7fd60)
+- [ ] [<code>Show on-screen keyboard shortcut (#128)</code>](https://github.com/elementary/shortcut-overlay/commit/9f810866438c4dc24e803edb4f29fb28f580830d)
+- [ ] [<code>Update pot</code>](https://github.com/elementary/shortcut-overlay/commit/494c8bfe3c2419df1c67979832c85b960cb296ae)
+- [ ] [<code>Replace header icon with button (#129)</code>](https://github.com/elementary/shortcut-overlay/commit/e76fb24aa76648acfe783009c15c8da0b4fa27bd)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
