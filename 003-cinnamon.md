@@ -18,9 +18,15 @@
 - [ ] [<code>st-theme-node.c: Fix a leak when falling back to the default theme</code>](https://github.com/linuxmint/cinnamon/commit/2bf2942a05f7435ead30d49b2efa0bf3f5294789)
 - [ ] [<code>locatePointer: Only grab the keybinding if the feature is enabled.</code>](https://github.com/linuxmint/cinnamon/commit/aab79cc26d96ec3b393d46ca7eab8ceaa7121a79)
 - [ ] [<code>5.4.11</code>](https://github.com/linuxmint/cinnamon/commit/232df05c3dff538d06f43c6061da5b6bd7f4cfde)
-  - <sub>Tags: <code>5.4.11</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.4.11</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>environment: Add an onUpdate parameter for easing.</code>](https://github.com/linuxmint/cinnamon/commit/f354e6f671de4776973375d35c1d6573e0ee6925)
+- [ ] [<code>Don't hide gwl when opening overview and expo.</code>](https://github.com/linuxmint/cinnamon/commit/a34e71d227aca19412701bd02c36c9f1b8bbd480)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>expo: Use unique pointer trackers for motion tracking.</code>](https://github.com/linuxmint/cinnamon/commit/058deafc84d25e4736dc881e95f4de057c1d0157)
+- [ ] [<code>expo: Fix opening transition.</code>](https://github.com/linuxmint/cinnamon/commit/ef74d195d12e969ca57dde48f77bb5328ff4948c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -41,7 +47,9 @@
   - <sub>Tags: <code>5.4.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "stage: Use rgba visual."</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1f0eaa7583246e34413272256d76e58ad13947bb)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.4</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/24eb3f7931e5bd73912b255c087f9fef7e44aca0)
+  - <sub>Tags: <code>5.4.4</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
@@ -63,6 +71,11 @@
 
 - [ ] [<code>Cinnamon: Add support for the cinnamon locate pointer</code>](https://github.com/linuxmint/mint-themes/commit/8d46df19f919bb5a871cfa8386a4a257aefdbec2)
 - [ ] [<code>Mint-X: Always use green for suggested-action buttons</code>](https://github.com/linuxmint/mint-themes/commit/1fb897d4c4932b9eebc38495dc48ab11879b9080)
+- [ ] [<code>Mint-Y-Gtk4: Fix rounded corners on maximized windows</code>](https://github.com/linuxmint/mint-themes/commit/3cb21a660829aa76e58eb0fbbb4f83aa35f9be37)
+- [ ] [<code>Mint-X-Gtk4: Fix the suggested_bg_color variable</code>](https://github.com/linuxmint/mint-themes/commit/3492e3a04a69e8d54dede11f2aeaa495954dc60b)
+- [ ] [<code>Mint-Y-Gtk4: Fix treeview line colors</code>](https://github.com/linuxmint/mint-themes/commit/895036c39d15452161248e4155e26a61ef112142)
+- [ ] [<code>Mint-Y-Gtk4: Improve dialog button styling</code>](https://github.com/linuxmint/mint-themes/commit/235f8732a2ad936f4e99d995dca35d9b3281452d)
+- [ ] [<code>2.0.5</code>](https://github.com/linuxmint/mint-themes/commit/3a202e401abca98623cd1dbc412221682081244c)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
