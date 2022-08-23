@@ -16,6 +16,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppInfoView: Make screenshot carousel full page width (#1572)</code>](https://github.com/elementary/appcenter/commit/dc063d9d78e3d3dad2c7ef1f8cdab5e672f6bea4)
+- [ ] [<code>InstalledPackageRowGrid: release notes in a dialog (#1875)</code>](https://github.com/elementary/appcenter/commit/60ee3b16e659430a788e0820d8fe71a20d2c288b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -175,6 +176,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>New add/remove list pattern (#414)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e1373f58cc6d602c62ededa22228d3f703c97b44)
 - [ ] [<code>Make "Add Shortcut" translatable (#416)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/464a1f06b31b666d347ed9b9a5723838e367f972)
+- [ ] [<code>Remove empty tooltip (#417)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4e8382059657eda322142197694ad76efa43e2ee)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -339,6 +341,7 @@
 - [ ] [<code>Show on-screen keyboard shortcut (#128)</code>](https://github.com/elementary/shortcut-overlay/commit/9f810866438c4dc24e803edb4f29fb28f580830d)
 - [ ] [<code>Update pot</code>](https://github.com/elementary/shortcut-overlay/commit/494c8bfe3c2419df1c67979832c85b960cb296ae)
 - [ ] [<code>Replace header icon with button (#129)</code>](https://github.com/elementary/shortcut-overlay/commit/e76fb24aa76648acfe783009c15c8da0b4fa27bd)
+- [ ] [<code>Re-show in Applications Menu (#131)</code>](https://github.com/elementary/shortcut-overlay/commit/25aa8d491a71c9b4d8fe6e95aa418977dd850228)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
