@@ -18,6 +18,9 @@
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
+- [ ] [<code>region panel: add keys removed from libgnomekbd's API (#297)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8cb73375e66b93da18f7bde728d4a832c07aada4)
+- [ ] [<code>display panel: fallback if no preferred mode is set (#298)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/216a759231709d7d23e074a76a3b8ff446efb6d3)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
@@ -78,9 +81,11 @@
 #### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.14 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.14...HEAD)
 
 - [ ] [<code>libxapp: add missing gio-unix-2.0 dependency (#156)</code>](https://github.com/linuxmint/xapp/commit/052081f75d1c1212aeb6a913772723c81607bcb3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>xapp-status-icon-monitor.c: Fix copy/paste error.</code>](https://github.com/linuxmint/xapp/commit/69ca4f166c49de909b4726974ea1cc22674d3484)
+- [ ] [<code>xapp-status-icon.c: Make XAppStatusIconState per-process.</code>](https://github.com/linuxmint/xapp/commit/33a0f45ead5c4f1d9ee27e8414fe0617d8b25536)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
