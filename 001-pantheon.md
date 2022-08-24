@@ -17,6 +17,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppInfoView: Make screenshot carousel full page width (#1572)</code>](https://github.com/elementary/appcenter/commit/dc063d9d78e3d3dad2c7ef1f8cdab5e672f6bea4)
 - [ ] [<code>InstalledPackageRowGrid: release notes in a dialog (#1875)</code>](https://github.com/elementary/appcenter/commit/60ee3b16e659430a788e0820d8fe71a20d2c288b)
+- [ ] [<code>Homepage: remove dead currently_viewed_category (#1876)</code>](https://github.com/elementary/appcenter/commit/4be483dfef4952ed077608b3b5ae2e6fc9543f78)
+- [ ] [<code>AppInfoView: create accent provider per-view (#1872)</code>](https://github.com/elementary/appcenter/commit/3dd1fed5206ba246dff7a130b4d339f17fe817af)
+- [ ] [<code>UpgradeFailDialog: avoid crash from null GLib.Error (#1877)</code>](https://github.com/elementary/appcenter/commit/d11139fb5c3d068007c6551bddaef2fbd7c10a6a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -270,6 +273,7 @@
 - [ ] [<code>Update media stop icon (#1085)</code>](https://github.com/elementary/icons/commit/a3a78b5819b802ed254343f7aec5dc77459d8c1d)
 - [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Apps: redesign application-default-icon (#1128)</code>](https://github.com/elementary/icons/commit/f5709670fd87485d9ba51e757dcd593e7d03a7d6)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -342,6 +346,7 @@
 - [ ] [<code>Update pot</code>](https://github.com/elementary/shortcut-overlay/commit/494c8bfe3c2419df1c67979832c85b960cb296ae)
 - [ ] [<code>Replace header icon with button (#129)</code>](https://github.com/elementary/shortcut-overlay/commit/e76fb24aa76648acfe783009c15c8da0b4fa27bd)
 - [ ] [<code>Re-show in Applications Menu (#131)</code>](https://github.com/elementary/shortcut-overlay/commit/25aa8d491a71c9b4d8fe6e95aa418977dd850228)
+- [ ] [<code>Use Gtk.EventControllerFocus (#132)</code>](https://github.com/elementary/shortcut-overlay/commit/d7d36c1bfc57171b3c3946d261123df4a243240c)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
