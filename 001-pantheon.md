@@ -20,6 +20,13 @@
 - [ ] [<code>Homepage: remove dead currently_viewed_category (#1876)</code>](https://github.com/elementary/appcenter/commit/4be483dfef4952ed077608b3b5ae2e6fc9543f78)
 - [ ] [<code>AppInfoView: create accent provider per-view (#1872)</code>](https://github.com/elementary/appcenter/commit/3dd1fed5206ba246dff7a130b4d339f17fe817af)
 - [ ] [<code>UpgradeFailDialog: avoid crash from null GLib.Error (#1877)</code>](https://github.com/elementary/appcenter/commit/d11139fb5c3d068007c6551bddaef2fbd7c10a6a)
+- [ ] [<code>Remove dead NonCuratedWarningDialog.css (#1879)</code>](https://github.com/elementary/appcenter/commit/f09b3e781c2c2c1f48eb0eb48d65eff3f0c54598)
+- [ ] [<code>AppInfoView: Add background and caption to screenshots (#1878)</code>](https://github.com/elementary/appcenter/commit/690f9d82b50f1f6a42c8410d5ab1eb9b9dde926b)
+- [ ] [<code>MainWindow: Use icons for view mode switcher and center search (#1873)</code>](https://github.com/elementary/appcenter/commit/f3659bbb8b65744e8eb33ec19ba4eb4d17b8a94f)
+- [ ] [<code>Use a single Hdy.Deck for navigation (#1874)</code>](https://github.com/elementary/appcenter/commit/1822178ead75a2bd20d7a960d53add7c3f58d8e6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Banner, AppInfoView: Use a single accent color, auto text color (#1880)</code>](https://github.com/elementary/appcenter/commit/3d74debafa295b3a77c9f0487e2391c919a46aac)
+- [ ] [<code>AppListUpdateView: Don't re-use cancellable (#1863)</code>](https://github.com/elementary/appcenter/commit/82c68ebc6cb03b6030336dba4707e4522b4fcdc9)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
