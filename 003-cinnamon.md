@@ -14,6 +14,15 @@
 - [ ] [<code>expo: Fix opening transition.</code>](https://github.com/linuxmint/cinnamon/commit/ef74d195d12e969ca57dde48f77bb5328ff4948c)
 - [ ] [<code>feature_request.md: Checklist is unnecessary.</code>](https://github.com/linuxmint/cinnamon/commit/40fac546661a7cab552d41052644152aaa92d43c)
 - [ ] [<code>Fix workspaces grid layout (#11094)</code>](https://github.com/linuxmint/cinnamon/commit/828665b59bca3faf1152041a5465fed0f86ccc4c)
+- [ ] [<code>grouped-window-list: Don't create a new clone each time</code>](https://github.com/linuxmint/cinnamon/commit/de39163f21ef74383c8aea7697e842a2961f6592)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowUtils: Use the window actor's texture instead of a cairo</code>](https://github.com/linuxmint/cinnamon/commit/952f7815af737f658e9b32e9ff4bd267c3048fda)
+- [ ] [<code>expo: Don't create monitor clones until the ExpoThumbnailBox is</code>](https://github.com/linuxmint/cinnamon/commit/a99133cbeae3f517e346688f28bd6b4ccd3ca0bb)
+- [ ] [<code>gwl: Redo the layout when switching workspaces.</code>](https://github.com/linuxmint/cinnamon/commit/01faeaa0103cbd3286b0ac6cc37198fe55a0ac5f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Fix a warning.</code>](https://github.com/linuxmint/cinnamon/commit/6d8a3c900a4f13bd5787becc6d4e5bb0074b178e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowManager.js: Filter out non-current-workspace windows when</code>](https://github.com/linuxmint/cinnamon/commit/f800711e14c307d91b6cf59e53228b59651489dc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
