@@ -35,6 +35,10 @@
 - [ ] [<code>Move NetworkInfoBar to MainWindow (#1888)</code>](https://github.com/elementary/appcenter/commit/fb547f0e6ff1d017cbef7d1b7768ea0d4d3d440f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Package: expose ComponentKind as property (#1887)</code>](https://github.com/elementary/appcenter/commit/0b1670783af442ca4910938398c9c47d11fe6323)
+- [ ] [<code>meson: require appstream >= 0.15.2 (#1893)</code>](https://github.com/elementary/appcenter/commit/886700fa279f6b017976b233ed8a6e1d85a39438)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move Deck to MainWindow (#1882)</code>](https://github.com/elementary/appcenter/commit/e90804998193ec4d8dc9cb1d8e5f1520ca16b88f)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -226,6 +230,8 @@
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
 - [ ] [<code>Authenticate on demand for lid close settings (#218)</code>](https://github.com/elementary/switchboard-plug-power/commit/b4d3c8774b17ea218fda81294b8e544179240335)
+- [ ] [<code>Smooth scrolling support (#219)</code>](https://github.com/elementary/switchboard-plug-power/commit/382d7919e15700adbc4d3dc8f7e79e13960747cf)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
@@ -444,6 +450,8 @@
 - [ ] [<code>l10n: Correctly setup the locales (#110)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ea5df2f62a99a216ee5ed137268e710490a852a4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix spelling; visibiity -> visibility (#114)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/c1db11ca97ffc63045339ea53d33222f0e2cd5ea)
+- [ ] [<code>Update codestyle and prepare for GTK4 (#116)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b2f4fa0af74d76c35d63b971acf6adf011ae9c5)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
