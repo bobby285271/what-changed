@@ -27,6 +27,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Banner, AppInfoView: Use a single accent color, auto text color (#1880)</code>](https://github.com/elementary/appcenter/commit/3d74debafa295b3a77c9f0487e2391c919a46aac)
 - [ ] [<code>AppListUpdateView: Don't re-use cancellable (#1863)</code>](https://github.com/elementary/appcenter/commit/82c68ebc6cb03b6030336dba4707e4522b4fcdc9)
+- [ ] [<code>Package: get branding from appstream (#1883)</code>](https://github.com/elementary/appcenter/commit/94bb160d037280c3967fe7e7cce7e1801367d4de)
+- [ ] [<code>MainWindow: remove window position code (#1885)</code>](https://github.com/elementary/appcenter/commit/48cf13971387abaac6096a751570f5da0261a61c)
+- [ ] [<code>Use explicit properties (#1889)</code>](https://github.com/elementary/appcenter/commit/8a93dd26a6daa00751b42ff74f5b99a4a454dbf2)
+- [ ] [<code>CategoryView: highlight recently updated apps (#1856)</code>](https://github.com/elementary/appcenter/commit/b94341d148dd932f1d20a8a7207b44f62d41aea1)
+- [ ] [<code>AppInfoView: use a flowbox for links (#1884)</code>](https://github.com/elementary/appcenter/commit/085f930e5e459f4cbae7ddb1bd415b17cb82dbae)
+- [ ] [<code>Move NetworkInfoBar to MainWindow (#1888)</code>](https://github.com/elementary/appcenter/commit/fb547f0e6ff1d017cbef7d1b7768ea0d4d3d440f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Package: expose ComponentKind as property (#1887)</code>](https://github.com/elementary/appcenter/commit/0b1670783af442ca4910938398c9c47d11fe6323)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
