@@ -599,6 +599,8 @@
 - [ ] [<code>Make queue look better.</code>](https://github.com/needle-and-thread/vocal/commit/642bc74f99d5b3d9b0111337f81afb9eae7c68eb)
 - [ ] [<code>Fixed searching to make results look better, to make results load faster, and to reset between searches.</code>](https://github.com/needle-and-thread/vocal/commit/fb8ad37dfc1a083697287074c014e309916699ba)
 - [ ] [<code>Make the remove from queue button work.</code>](https://github.com/needle-and-thread/vocal/commit/118c555d5a6b53392e130bdfd75aa06215ae530e)
+- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/ca2e4fe6662e63adb0dbae39dd2b006fd46234db)
+- [ ] [<code>Update FUNDING.yml</code>](https://github.com/needle-and-thread/vocal/commit/6c401a469e931cc82bb7409a87b7467438359d62)
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [5749f753ca64ce58232a46b9045949b3f8219827 → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/5749f753ca64ce58232a46b9045949b3f8219827...HEAD)
 
