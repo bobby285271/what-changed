@@ -23,7 +23,9 @@
 - [ ] [<code>gwl: Fix a warning.</code>](https://github.com/linuxmint/cinnamon/commit/6d8a3c900a4f13bd5787becc6d4e5bb0074b178e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>windowManager.js: Filter out non-current-workspace windows when</code>](https://github.com/linuxmint/cinnamon/commit/f800711e14c307d91b6cf59e53228b59651489dc)
+- [ ] [<code>gwl: Only monitor size-changed while using textures, along with</code>](https://github.com/linuxmint/cinnamon/commit/f7516fed151167924872edee31a64a503901ef19)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
