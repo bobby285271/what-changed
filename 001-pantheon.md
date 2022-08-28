@@ -39,6 +39,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Move Deck to MainWindow (#1882)</code>](https://github.com/elementary/appcenter/commit/e90804998193ec4d8dc9cb1d8e5f1520ca16b88f)
+- [ ] [<code>Replace Gtk.Grid with Gtk.Box (#1886)</code>](https://github.com/elementary/appcenter/commit/ba3ea3be80ddf65deeb5df710cfd32f721191e5d)
+- [ ] [<code>Package: use AppCenter origin in should_pay (#1892)</code>](https://github.com/elementary/appcenter/commit/99b4d36b826bbe4501dc5085a7d4858805703600)
+- [ ] [<code>Package: Remove should_nag_update (#1891)</code>](https://github.com/elementary/appcenter/commit/fc5b0428113ae07b74fecd5f5c67f189060fdbc5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -87,6 +90,8 @@
 - [ ] [<code>Get bookmark icon directly if not in corresponding Files.File (#2054)</code>](https://github.com/elementary/files/commit/72263bd75d51ebeb13e5758ea48df67dd287f8d4)
 - [ ] [<code>Fix logic for revealing infobar (#2074)</code>](https://github.com/elementary/files/commit/db88604e6f468dc7e6168dfdca7e0d1235249d76)
 - [ ] [<code>Improve startup when restored location is no longer connected (#2018)</code>](https://github.com/elementary/files/commit/b4679bc883d90c5e6aee40cc1f07fc875a9c0819)
+- [ ] [<code>Close slot early before mode change; cancel another timeout (#2079)</code>](https://github.com/elementary/files/commit/00c05c8fa315b775c37c034d4938ef1445e7514e)
+- [ ] [<code>Destroy overwrite dialog first (#2077)</code>](https://github.com/elementary/files/commit/b43c0c716f9baa2499cd8e4da67714996f9aec21)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -444,6 +449,7 @@
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
+- [ ] [<code>Update codestyle (#302)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/638a99085317966211a17cac7ed993349616c4e5)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
 
@@ -475,12 +481,14 @@
 - [ ] [<code>Hide brightness slider on desktop experience (#206)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7dbf88a3894adeb713ff65602fc09149dc3f5d41)
 - [ ] [<code>AppList: Don't add the header as a row (#225)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/908c2eff91c135a90c73a3c3032323911910d6e5)
 - [ ] [<code>AppList: Don't show the power eater section if failed to get the app (#226)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0061d0c05de2d121a8224744a0472bcbc4a91a85)
+- [ ] [<code>Update codestyle (#231)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/e632893bc64245d1f3e48d60ed6095d318dc9235)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#162)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/e85032da8e923df4589dc75ccded10026b6c1cd7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Indicator: replace OverlayIcon with Gtk.Image (#167)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/0ea9a3b3f5cc4da9c6c569f019393cb107692901)
+- [ ] [<code>Update codestyle (#169)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/b26e7f1dabfe554aff3d763f9c16972a35ab1e89)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
 
