@@ -42,6 +42,9 @@
 - [ ] [<code>Replace Gtk.Grid with Gtk.Box (#1886)</code>](https://github.com/elementary/appcenter/commit/ba3ea3be80ddf65deeb5df710cfd32f721191e5d)
 - [ ] [<code>Package: use AppCenter origin in should_pay (#1892)</code>](https://github.com/elementary/appcenter/commit/99b4d36b826bbe4501dc5085a7d4858805703600)
 - [ ] [<code>Package: Remove should_nag_update (#1891)</code>](https://github.com/elementary/appcenter/commit/fc5b0428113ae07b74fecd5f5c67f189060fdbc5)
+- [ ] [<code>CategoryView: don't subclass Gtk.FlowBox (#1895)</code>](https://github.com/elementary/appcenter/commit/69d60750fb5f6acc62aeee466cf9fc32181ff23f)
+- [ ] [<code>Homepage: absorb CategoryFlowBox (#1898)</code>](https://github.com/elementary/appcenter/commit/be58ed869c1084c51c557afe9c5ba27aedc3d5f7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -496,6 +499,7 @@
 - [ ] [<code>Animate switch (#235)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/61af5563cdbb8077e4c0ae791fec3f93049964b0)
 - [ ] [<code>Consistent margin (#234)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/51540fdb2edf353022ced251e64c5ba9f84e8382)
 - [ ] [<code>Bind volume step to gnome setting (#237)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f495b7af6476c505397ca24de7aab5d3942da464)
+- [ ] [<code>Update codestyle (#238)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/dd6b8e757b15a208802b48277bea188279322330)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
