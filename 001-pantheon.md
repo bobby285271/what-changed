@@ -234,6 +234,7 @@
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.0...HEAD)
 
+- [ ] [<code>Appearance: bind radios with mapping (#331)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/03b094e5b77dd24b45037c04699a529bad8c2ea8)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
