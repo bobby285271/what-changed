@@ -115,6 +115,7 @@
 - [ ] [<code>Add Photo Viewer icons (#716)</code>](https://github.com/elementary/photos/commit/80ac13731ea1ed32f90293929a08bc138fe4d111)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Copy image (#701)</code>](https://github.com/elementary/photos/commit/9323cc6a4a87a062f047ffd9fbbe56f9ab749817)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
