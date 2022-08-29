@@ -24,8 +24,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>windowManager.js: Filter out non-current-workspace windows when</code>](https://github.com/linuxmint/cinnamon/commit/f800711e14c307d91b6cf59e53228b59651489dc)
 - [ ] [<code>gwl: Only monitor size-changed while using textures, along with</code>](https://github.com/linuxmint/cinnamon/commit/f7516fed151167924872edee31a64a503901ef19)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Monitor clones, but only to update size.</code>](https://github.com/linuxmint/cinnamon/commit/a4d5c3071b4655e9425f3b39c076b06a25212106)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>environment.js: Fix is_finalized() check.</code>](https://github.com/linuxmint/cinnamon/commit/c7110ea25b03226eb974cb24d5b390e7ce61cdec)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
