@@ -45,6 +45,7 @@
 - [ ] [<code>CategoryView: don't subclass Gtk.FlowBox (#1895)</code>](https://github.com/elementary/appcenter/commit/69d60750fb5f6acc62aeee466cf9fc32181ff23f)
 - [ ] [<code>Homepage: absorb CategoryFlowBox (#1898)</code>](https://github.com/elementary/appcenter/commit/be58ed869c1084c51c557afe9c5ba27aedc3d5f7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SharePopover: code style and DRY (#1900)</code>](https://github.com/elementary/appcenter/commit/1e057a307cb7e5962ebb379c6a69a3f4d042ba3b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -116,6 +117,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Copy image (#701)</code>](https://github.com/elementary/photos/commit/9323cc6a4a87a062f047ffd9fbbe56f9ab749817)
+- [ ] [<code>Remove leftover temporary warnings (#722)</code>](https://github.com/elementary/photos/commit/3f137054840f8f707d47d8028bf7bae7f6a3f16a)
+- [ ] [<code>Add flatpak folders to gitignore (#720)</code>](https://github.com/elementary/photos/commit/04281c372f2c92f910c2a2a2697c686a481a7998)
+- [ ] [<code>Update appdata for next release (#721)</code>](https://github.com/elementary/photos/commit/1494d1ebe4ba52dac1c796115190e888547bd936)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -236,6 +240,7 @@
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.0...HEAD)
 
 - [ ] [<code>Appearance: bind radios with mapping (#331)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/03b094e5b77dd24b45037c04699a529bad8c2ea8)
+- [ ] [<code>Appearance: Reorder connection of signals (#334)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/989831cf085889b06a2e667a7a4e7fe270fb2384)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
