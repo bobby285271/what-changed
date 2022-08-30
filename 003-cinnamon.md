@@ -76,6 +76,10 @@
 
 - [ ] [<code>some fixes to debian packaging (#635)</code>](https://github.com/linuxmint/muffin/commit/6821ae37cb13e077fe08692be4767df694aa362b)
 - [ ] [<code>keybindings: Fix workspace navigation while dragging a window</code>](https://github.com/linuxmint/muffin/commit/df41516f39b3c2410026c9bffa1d9d49cb589692)
+- [ ] [<code>tiling: Try to tile to the default size if a match exists, but is</code>](https://github.com/linuxmint/muffin/commit/49df86b0322fa494654e1b0e5747b08def095239)
+- [ ] [<code>tiling: Fix tile top/maximize tests.</code>](https://github.com/linuxmint/muffin/commit/a5f0d56ab269ce7e5d599ba7d3ee61633c6b2ab5)
+- [ ] [<code>window.c: Remove unused code.</code>](https://github.com/linuxmint/muffin/commit/48fc420e9f48ddc6676fa5175ca097f19f4ff1b8)
+- [ ] [<code>tiling: Make it easier to debug.</code>](https://github.com/linuxmint/muffin/commit/433dc2c412eab482c245f83958331d4e16dfb62c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
