@@ -4,6 +4,10 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.4 → HEAD](https://github.com/linuxmint/bulky/compare/2.4...HEAD)
 
+- [ ] [<code>Fix infinite loop issue linuxmint/bulky#44 linuxmint/bulky#34 (#47)</code>](https://github.com/linuxmint/bulky/commit/207e6bcdc9a8f972e58cd96b04b7edb472206e32)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Simplify `insert_text(...)` logic, Fix linuxmint/bulky#45 (#46)</code>](https://github.com/linuxmint/bulky/commit/fd812b38a1378b87795916b64eb45b273735bc86)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.11 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.11...HEAD)
 
@@ -28,6 +32,7 @@
 - [ ] [<code>gwl: Monitor clones, but only to update size.</code>](https://github.com/linuxmint/cinnamon/commit/a4d5c3071b4655e9425f3b39c076b06a25212106)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>environment.js: Fix is_finalized() check.</code>](https://github.com/linuxmint/cinnamon/commit/c7110ea25b03226eb974cb24d5b390e7ce61cdec)
+- [ ] [<code>Fix 2 man pages</code>](https://github.com/linuxmint/cinnamon/commit/6d29765c9025ddbdba7889e37794bbcbc9c322b3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
