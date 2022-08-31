@@ -46,6 +46,8 @@
 - [ ] [<code>Homepage: absorb CategoryFlowBox (#1898)</code>](https://github.com/elementary/appcenter/commit/be58ed869c1084c51c557afe9c5ba27aedc3d5f7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SharePopover: code style and DRY (#1900)</code>](https://github.com/elementary/appcenter/commit/1e057a307cb7e5962ebb379c6a69a3f4d042ba3b)
+- [ ] [<code>AppInfoView: absorb ReleaseListBox (#1899)</code>](https://github.com/elementary/appcenter/commit/035b22d27d627d5077f25f8f70538066dcb4c2c5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
