@@ -48,6 +48,12 @@
 - [ ] [<code>SharePopover: code style and DRY (#1900)</code>](https://github.com/elementary/appcenter/commit/1e057a307cb7e5962ebb379c6a69a3f4d042ba3b)
 - [ ] [<code>AppInfoView: absorb ReleaseListBox (#1899)</code>](https://github.com/elementary/appcenter/commit/035b22d27d627d5077f25f8f70538066dcb4c2c5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>StripeDialog: code style and boxes (#1905)</code>](https://github.com/elementary/appcenter/commit/d9eaf0fc2b456cc1f0cffde05fe649f07175301a)
+- [ ] [<code>DBusServer: connect to uninstall_confirm response</code>](https://github.com/elementary/appcenter/commit/de52de653c13636da1e69e4ae2dfe7ed31deb225)
+- [ ] [<code>Application: installfaildialog present</code>](https://github.com/elementary/appcenter/commit/d65217b051daa37284168695092f95f313910839)
+- [ ] [<code>InstalledPackageRowGrid: ReleasesDialog subclass Granite.Dialog</code>](https://github.com/elementary/appcenter/commit/1d4b5676594046ed3ef89bd212d15ac24fa6c16c)
+- [ ] [<code>MainWindow: message_dialog.present</code>](https://github.com/elementary/appcenter/commit/65a6cdd2f13d6ae24b6a4b466db04be95dea48d4)
+- [ ] [<code>Arrow.css: fix blurry border (#1902)</code>](https://github.com/elementary/appcenter/commit/d76619b807cab89770a6c90d81610119fcbebd10)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -98,6 +104,8 @@
 - [ ] [<code>Improve startup when restored location is no longer connected (#2018)</code>](https://github.com/elementary/files/commit/b4679bc883d90c5e6aee40cc1f07fc875a9c0819)
 - [ ] [<code>Close slot early before mode change; cancel another timeout (#2079)</code>](https://github.com/elementary/files/commit/00c05c8fa315b775c37c034d4938ef1445e7514e)
 - [ ] [<code>Destroy overwrite dialog first (#2077)</code>](https://github.com/elementary/files/commit/b43c0c716f9baa2499cd8e4da67714996f9aec21)
+- [ ] [<code>Base ViewContainer on Box; expand content_box (#2080)</code>](https://github.com/elementary/files/commit/a34b310730393c453d09312fc44e04acdcacdd11)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
