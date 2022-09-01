@@ -33,6 +33,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>environment.js: Fix is_finalized() check.</code>](https://github.com/linuxmint/cinnamon/commit/c7110ea25b03226eb974cb24d5b390e7ce61cdec)
 - [ ] [<code>Fix 2 man pages</code>](https://github.com/linuxmint/cinnamon/commit/6d29765c9025ddbdba7889e37794bbcbc9c322b3)
+- [ ] [<code>layout.js: Connect to tracked actors' destroy signal.</code>](https://github.com/linuxmint/cinnamon/commit/43677cb30dd7eb284ac702519cd0dd9e855cd878)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
