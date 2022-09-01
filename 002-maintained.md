@@ -604,6 +604,7 @@
 - [ ] [<code>Reverted back to libsoup for streaming to fix issues with the new GIO implementation.</code>](https://github.com/needle-and-thread/vocal/commit/cf594670e3468def3da803d98b33b70bf26bcf89)
 - [ ] [<code>Save a smaller copy of the album art, which has huge performance benefits.</code>](https://github.com/needle-and-thread/vocal/commit/40cdd381a889155ac6694490896106170d71bff7)
 - [ ] [<code>Fix the max widths of the details label, and convert any HTML formatting to markdown.</code>](https://github.com/needle-and-thread/vocal/commit/b989830eec9ac1e86e5bbbcfcaba6438cc2b9711)
+- [ ] [<code>Enable gpodder.net support, and fix the async methods.</code>](https://github.com/needle-and-thread/vocal/commit/2fe7d7c720ffb4443c2f1f929e76a46ae0e4c705)
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [5749f753ca64ce58232a46b9045949b3f8219827 → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/5749f753ca64ce58232a46b9045949b3f8219827...HEAD)
 
