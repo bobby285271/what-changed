@@ -134,6 +134,14 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
+- [ ] [<code>Bump gmime dependency to version 3.0</code>](https://github.com/linuxmint/xplayer-plparser/commit/d788d588ad8d383ba82461ca84a52cd7f6e077e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/50b11ba676b6cb59197c8694a245d5615df112f3)
+- [ ] [<code>1.0.3</code>](https://github.com/linuxmint/xplayer-plparser/commit/088731a2d9e92dbe6df3a4f6bc910e41f3676155)
+  - <sub>Tags: <code>1.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
