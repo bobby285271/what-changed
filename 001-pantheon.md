@@ -54,6 +54,7 @@
 - [ ] [<code>InstalledPackageRowGrid: ReleasesDialog subclass Granite.Dialog</code>](https://github.com/elementary/appcenter/commit/1d4b5676594046ed3ef89bd212d15ac24fa6c16c)
 - [ ] [<code>MainWindow: message_dialog.present</code>](https://github.com/elementary/appcenter/commit/65a6cdd2f13d6ae24b6a4b466db04be95dea48d4)
 - [ ] [<code>Arrow.css: fix blurry border (#1902)</code>](https://github.com/elementary/appcenter/commit/d76619b807cab89770a6c90d81610119fcbebd10)
+- [ ] [<code>Application: use active_window (#1903)</code>](https://github.com/elementary/appcenter/commit/6543b352114e35f939b1e9e902578b199389ef50)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -289,6 +290,7 @@
 - [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
 - [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
 - [ ] [<code>Gtk4/Scales: fix mark selector (#1221)</code>](https://github.com/elementary/stylesheet/commit/de257a1c5c4cddd262fefc94583784d88d0b13c6)
+- [ ] [<code>HeaderBars: set large-icons size to 24px (#1222)</code>](https://github.com/elementary/stylesheet/commit/bd1cb779a24cf5620a58fbafa38760bf6adfa5e1)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
