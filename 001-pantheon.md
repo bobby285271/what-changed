@@ -55,6 +55,8 @@
 - [ ] [<code>MainWindow: message_dialog.present</code>](https://github.com/elementary/appcenter/commit/65a6cdd2f13d6ae24b6a4b466db04be95dea48d4)
 - [ ] [<code>Arrow.css: fix blurry border (#1902)</code>](https://github.com/elementary/appcenter/commit/d76619b807cab89770a6c90d81610119fcbebd10)
 - [ ] [<code>Application: use active_window (#1903)</code>](https://github.com/elementary/appcenter/commit/6543b352114e35f939b1e9e902578b199389ef50)
+- [ ] [<code>CategoryView: change append to add_package (#1908)</code>](https://github.com/elementary/appcenter/commit/8d913ad18d76d3b1758e4adc1df349b3fcfb5d18)
+- [ ] [<code>AbstractAppList: Remove list.add connect (#1909)</code>](https://github.com/elementary/appcenter/commit/85bf6b9a9d623287571ce97d646db8e1342c6493)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
