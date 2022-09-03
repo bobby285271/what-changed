@@ -57,6 +57,11 @@
 - [ ] [<code>Application: use active_window (#1903)</code>](https://github.com/elementary/appcenter/commit/6543b352114e35f939b1e9e902578b199389ef50)
 - [ ] [<code>CategoryView: change append to add_package (#1908)</code>](https://github.com/elementary/appcenter/commit/8d913ad18d76d3b1758e4adc1df349b3fcfb5d18)
 - [ ] [<code>AbstractAppList: Remove list.add connect (#1909)</code>](https://github.com/elementary/appcenter/commit/85bf6b9a9d623287571ce97d646db8e1342c6493)
+- [ ] [<code>Homepage categories (#1907)</code>](https://github.com/elementary/appcenter/commit/8ca31d592efeea38f0c49136d02ec91a5c9c73bb)
+- [ ] [<code>Move remove_package from AbstractAppList to AppListUpdateView (#1910)</code>](https://github.com/elementary/appcenter/commit/3ac08f63a1f40cdacac8e4bbe06204c8303eb37e)
+- [ ] [<code>AbstractAppList: Remove sort func (#1911)</code>](https://github.com/elementary/appcenter/commit/a33da427f6a3b5fa6a63a2d171f8a996c21864c7)
+- [ ] [<code>AbstractAppList: Remove add_package (#1913)</code>](https://github.com/elementary/appcenter/commit/6750ad057469adc1ad3bd75a987213d3eb270c37)
+- [ ] [<code>Package: assign icons for more componentkinds (#1914)</code>](https://github.com/elementary/appcenter/commit/8ab255da3fdd16214c68acd94eb133e5e8262ed5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
