@@ -62,6 +62,7 @@
 - [ ] [<code>AbstractAppList: Remove sort func (#1911)</code>](https://github.com/elementary/appcenter/commit/a33da427f6a3b5fa6a63a2d171f8a996c21864c7)
 - [ ] [<code>AbstractAppList: Remove add_package (#1913)</code>](https://github.com/elementary/appcenter/commit/6750ad057469adc1ad3bd75a987213d3eb270c37)
 - [ ] [<code>Package: assign icons for more componentkinds (#1914)</code>](https://github.com/elementary/appcenter/commit/8ab255da3fdd16214c68acd94eb133e5e8262ed5)
+- [ ] [<code>Move get_packages from AbstractAppList to AppListUpdateView (#1912)</code>](https://github.com/elementary/appcenter/commit/fcf693cfe76f424cf4e3ff0c1cfb8dcc2fb3bd2d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
