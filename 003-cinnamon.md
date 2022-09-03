@@ -129,24 +129,8 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [2.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/2.9...HEAD)
 
 
-#### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.2 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.2...HEAD)
+#### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
-- [ ] [<code>Remove hadess from MAINTAINERS</code>](https://github.com/linuxmint/xplayer-plparser/commit/a5380e43340952309f6771bc26de89847798dc8f)
-- [ ] [<code>Add CI configuration</code>](https://github.com/linuxmint/xplayer-plparser/commit/507b84bd9c0dd7c80a0f7333ce2a859ec138956d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Port to meson (#3)</code>](https://github.com/linuxmint/xplayer-plparser/commit/600ec3dd3705e1968f219ff8ea96aada51ab2f04)
-  - <sub>Tags: <code>master.lmde3</code> <code>master.mint18</code> <code>master.mint19</code></sub>
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/58682a70318ee304271b116d6660beb41ed90cc9)
-- [ ] [<code>Bump gmime dependency to version 3.0</code>](https://github.com/linuxmint/xplayer-plparser/commit/d788d588ad8d383ba82461ca84a52cd7f6e077e5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>CI: Update targets</code>](https://github.com/linuxmint/xplayer-plparser/commit/50b11ba676b6cb59197c8694a245d5615df112f3)
-- [ ] [<code>1.0.3</code>](https://github.com/linuxmint/xplayer-plparser/commit/088731a2d9e92dbe6df3a4f6bc910e41f3676155)
-  - <sub>Tags: <code>1.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
