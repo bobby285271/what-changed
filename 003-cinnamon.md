@@ -34,7 +34,9 @@
 - [ ] [<code>environment.js: Fix is_finalized() check.</code>](https://github.com/linuxmint/cinnamon/commit/c7110ea25b03226eb974cb24d5b390e7ce61cdec)
 - [ ] [<code>Fix 2 man pages</code>](https://github.com/linuxmint/cinnamon/commit/6d29765c9025ddbdba7889e37794bbcbc9c322b3)
 - [ ] [<code>layout.js: Connect to tracked actors' destroy signal.</code>](https://github.com/linuxmint/cinnamon/commit/43677cb30dd7eb284ac702519cd0dd9e855cd878)
+- [ ] [<code>cs_windows: Use 'bring-windows-to-current-workspace' in its new</code>](https://github.com/linuxmint/cinnamon/commit/7adcfe6c63d45132ab8abe4aed430d21a4ccd680)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -86,6 +88,7 @@
 - [ ] [<code>tiling: Fix tile top/maximize tests.</code>](https://github.com/linuxmint/muffin/commit/a5f0d56ab269ce7e5d599ba7d3ee61633c6b2ab5)
 - [ ] [<code>window.c: Remove unused code.</code>](https://github.com/linuxmint/muffin/commit/48fc420e9f48ddc6676fa5175ca097f19f4ff1b8)
 - [ ] [<code>tiling: Make it easier to debug.</code>](https://github.com/linuxmint/muffin/commit/433dc2c412eab482c245f83958331d4e16dfb62c)
+- [ ] [<code>Relocate bring-windows-to-current-workspace from org.cinnamon to</code>](https://github.com/linuxmint/muffin/commit/9411323596e47ded674328e0d3a19ceaf87a16d6)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
@@ -101,6 +104,8 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.13 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.13...HEAD)
 
+- [ ] [<code>grpc: Use 1.44 instead of 1.46 for now - there is a polling issue</code>](https://github.com/linuxmint/warpinator/commit/8fd5f86230bc0aee5b9fd736c94a186b84a51ab3)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.14 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.14...HEAD)
 
