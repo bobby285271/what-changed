@@ -35,8 +35,10 @@
 - [ ] [<code>Fix 2 man pages</code>](https://github.com/linuxmint/cinnamon/commit/6d29765c9025ddbdba7889e37794bbcbc9c322b3)
 - [ ] [<code>layout.js: Connect to tracked actors' destroy signal.</code>](https://github.com/linuxmint/cinnamon/commit/43677cb30dd7eb284ac702519cd0dd9e855cd878)
 - [ ] [<code>cs_windows: Use 'bring-windows-to-current-workspace' in its new</code>](https://github.com/linuxmint/cinnamon/commit/7adcfe6c63d45132ab8abe4aed430d21a4ccd680)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix: fix use of undeclared variable</code>](https://github.com/linuxmint/cinnamon/commit/4e42169d9eef36b53a8c940466760541a35a9417)
+- [ ] [<code>Fix getTabList in js.main</code>](https://github.com/linuxmint/cinnamon/commit/e4a802b378f3b3f957ae735f36b65928c913b055)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
@@ -58,6 +60,7 @@
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-session/commit/29fd37f6d8f94763c13b4f76cd91f047fbccbf81)
+- [ ] [<code>Accept Desktop Entry Specification v1.5 (#153)</code>](https://github.com/linuxmint/cinnamon-session/commit/586aa3b625b5039532dbdd3c839306ebff4f84c2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.4.5 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.4.5...HEAD)
