@@ -65,6 +65,8 @@
 - [ ] [<code>Move get_packages from AbstractAppList to AppListUpdateView (#1912)</code>](https://github.com/elementary/appcenter/commit/fcf693cfe76f424cf4e3ff0c1cfb8dcc2fb3bd2d)
 - [ ] [<code>AbstractAppList: Remove redundant package_changing (#1915)</code>](https://github.com/elementary/appcenter/commit/b7e42afd50ca8d2c6ecc407123fdc1e221339205)
 - [ ] [<code>AppListUpdateView: Fix typo in package row compare (#1917)</code>](https://github.com/elementary/appcenter/commit/7ba182a52596c272ebe3497c70beeb2882ef20b1)
+- [ ] [<code>Remove AbstractAppList (#1916)</code>](https://github.com/elementary/appcenter/commit/b2b164a83e199b39dc963d266bc0b4a313142ad9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -88,6 +90,7 @@
 - [ ] [<code>Add follow system style switch (#1202)</code>](https://github.com/elementary/code/commit/94fa089ceb8669847041ca73e3720127fc0f9e40)
 - [ ] [<code>Explicitly handle missing cases (#1199)</code>](https://github.com/elementary/code/commit/04ad197a43626ce829387aa5c22de31171a59d0e)
 - [ ] [<code>Update io.elementary.code.appdata.xml.in</code>](https://github.com/elementary/code/commit/e5322f1fceb11bc6ce042eeff59788fab4fb86cf)
+- [ ] [<code>Remove unused properties (#1205)</code>](https://github.com/elementary/code/commit/c6750d9721007dc432f5b84f217e52128104757b)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
