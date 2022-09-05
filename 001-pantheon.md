@@ -76,6 +76,7 @@
 - [ ] [<code>build: Drop libecal-1.2 support (#757)</code>](https://github.com/elementary/calendar/commit/e2c7c1e265ce571271933c934b86b01f9ebe2efb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add check for termination of by_day_array (#760)</code>](https://github.com/elementary/calendar/commit/f041aa385b1bece096a8b05b9be90014644563c5)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
