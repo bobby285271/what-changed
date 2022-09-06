@@ -413,6 +413,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge branch 'cli'</code>](https://github.com/phase1geo/minder/commit/b78e8ccb07aec3957a1a2ce1e4cb253c9f3c3140)
 - [ ] [<code>Removing extraneous debug output.</code>](https://github.com/phase1geo/minder/commit/ed1767f1c401bdb7e626f166b62cb2f5e177d6ae)
+- [ ] [<code>Checkpointing work on file system importer/exporter</code>](https://github.com/phase1geo/minder/commit/e7829d4fc5c32b6c7c1cd9f9025616703ed2c0ba)
+- [ ] [<code>Adding missing files</code>](https://github.com/phase1geo/minder/commit/bf23fd8e25ea17c4145a3c86dd2cd2595cb2deee)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>feat(po/i18n): add zh_CN translated by potrans</code>](https://github.com/phase1geo/minder/commit/970b332a0bd7977b0b4456b893d9731a73774dbf)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #497 from QiE2035/master</code>](https://github.com/phase1geo/minder/commit/6305bcc43e01faac3ec02dbb4af48a3b360dd38c)
@@ -421,6 +424,8 @@
 - [ ] [<code>Merge branch 'org-mode-fixes'</code>](https://github.com/phase1geo/minder/commit/f4b855195a1081eefe57e24a2c346b9b7904797d)
 - [ ] [<code>Update pl.po</code>](https://github.com/phase1geo/minder/commit/3570665eff31f1c9de39dfcdc0d32a989a6f9852)
 - [ ] [<code>Merge pull request #502 from pyotr71/patch-1</code>](https://github.com/phase1geo/minder/commit/5c106f3972d7fde99fecf10c75d7f9792d6e110a)
+- [ ] [<code>Merge branch 'file-system-exporter'</code>](https://github.com/phase1geo/minder/commit/5d326f5a51e5a55da7e186013b42629b2e9e8e44)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
