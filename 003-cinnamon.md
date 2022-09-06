@@ -140,6 +140,9 @@
 - [ ] [<code>Add Github action (#570)</code>](https://github.com/linuxmint/xreader/commit/13418f02a9ecfcc010eb2ff0e56ac0c48b6f1da0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove empty TODO file</code>](https://github.com/linuxmint/xreader/commit/66eeaaa9705f27f7059b415552e43279ee52f9c8)
+- [ ] [<code>Clean up README and INSTALL.</code>](https://github.com/linuxmint/xreader/commit/fadd0b95533e00f6ca8ca6b32749a4055fbb743e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix badge, formatting</code>](https://github.com/linuxmint/xreader/commit/5a3bb36bb431cc52e4eb6c8f5bae6673adbc610c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
