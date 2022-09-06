@@ -8,6 +8,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Simplify `insert_text(...)` logic, Fix linuxmint/bulky#45 (#46)</code>](https://github.com/linuxmint/bulky/commit/fd812b38a1378b87795916b64eb45b273735bc86)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.5</code>](https://github.com/linuxmint/bulky/commit/6c20b977963cc5a90b142aa93f0d35dd5ba5c1ce)
+  - <sub>Tags: <code>2.5</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.11 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.11...HEAD)
 
@@ -38,13 +40,19 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>fix: fix use of undeclared variable</code>](https://github.com/linuxmint/cinnamon/commit/4e42169d9eef36b53a8c940466760541a35a9417)
 - [ ] [<code>Fix getTabList in js.main</code>](https://github.com/linuxmint/cinnamon/commit/e4a802b378f3b3f957ae735f36b65928c913b055)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>systray applet: Don't continue processing an icon if it gets</code>](https://github.com/linuxmint/cinnamon/commit/ecce3a674199e20cca373067779a0527697abdb0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.4.12</code>](https://github.com/linuxmint/cinnamon/commit/f3ff7a7667022694126f287cd246491cee3b7a83)
+  - <sub>Tags: <code>5.4.12</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
 - [ ] [<code>region panel: add keys removed from libgnomekbd's API (#297)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8cb73375e66b93da18f7bde728d4a832c07aada4)
 - [ ] [<code>display panel: fallback if no preferred mode is set (#298)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/216a759231709d7d23e074a76a3b8ff446efb6d3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.7</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5c2666eb42c7ff7028f3802a23c112d51f2d6)
+  - <sub>Tags: <code>5.4.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
@@ -92,7 +100,9 @@
 - [ ] [<code>window.c: Remove unused code.</code>](https://github.com/linuxmint/muffin/commit/48fc420e9f48ddc6676fa5175ca097f19f4ff1b8)
 - [ ] [<code>tiling: Make it easier to debug.</code>](https://github.com/linuxmint/muffin/commit/433dc2c412eab482c245f83958331d4e16dfb62c)
 - [ ] [<code>Relocate bring-windows-to-current-workspace from org.cinnamon to</code>](https://github.com/linuxmint/muffin/commit/9411323596e47ded674328e0d3a19ceaf87a16d6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.4.7</code>](https://github.com/linuxmint/muffin/commit/a204c95e48c981d8ccec37606949dfdf92b5beed)
+  - <sub>Tags: <code>5.4.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
@@ -109,6 +119,9 @@
 
 - [ ] [<code>grpc: Use 1.44 instead of 1.46 for now - there is a polling issue</code>](https://github.com/linuxmint/warpinator/commit/8fd5f86230bc0aee5b9fd736c94a186b84a51ab3)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>1.2.14</code>](https://github.com/linuxmint/warpinator/commit/998983af10e0df6097640af34fd1d4ac96a113fc)
+  - <sub>Tags: <code>1.2.14</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.14 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.14...HEAD)
 
@@ -117,10 +130,17 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>xapp-status-icon-monitor.c: Fix copy/paste error.</code>](https://github.com/linuxmint/xapp/commit/69ca4f166c49de909b4726974ea1cc22674d3484)
 - [ ] [<code>xapp-status-icon.c: Make XAppStatusIconState per-process.</code>](https://github.com/linuxmint/xapp/commit/33a0f45ead5c4f1d9ee27e8414fe0617d8b25536)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>2.2.15</code>](https://github.com/linuxmint/xapp/commit/493bcde1dacaca0cdcef8a789a8e5c42e9f13792)
+  - <sub>Tags: <code>2.2.15</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
+- [ ] [<code>Add Github action (#570)</code>](https://github.com/linuxmint/xreader/commit/13418f02a9ecfcc010eb2ff0e56ac0c48b6f1da0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove empty TODO file</code>](https://github.com/linuxmint/xreader/commit/66eeaaa9705f27f7059b415552e43279ee52f9c8)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
