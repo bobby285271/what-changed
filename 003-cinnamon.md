@@ -2,62 +2,19 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.4 → HEAD](https://github.com/linuxmint/bulky/compare/2.4...HEAD)
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.5 → HEAD](https://github.com/linuxmint/bulky/compare/2.5...HEAD)
 
-- [ ] [<code>Fix infinite loop issue linuxmint/bulky#44 linuxmint/bulky#34 (#47)</code>](https://github.com/linuxmint/bulky/commit/207e6bcdc9a8f972e58cd96b04b7edb472206e32)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Simplify `insert_text(...)` logic, Fix linuxmint/bulky#45 (#46)</code>](https://github.com/linuxmint/bulky/commit/fd812b38a1378b87795916b64eb45b273735bc86)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.5</code>](https://github.com/linuxmint/bulky/commit/6c20b977963cc5a90b142aa93f0d35dd5ba5c1ce)
-  - <sub>Tags: <code>2.5</code></sub>
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.11 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.11...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.12 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.12...HEAD)
 
-- [ ] [<code>environment: Add an onUpdate parameter for easing.</code>](https://github.com/linuxmint/cinnamon/commit/f354e6f671de4776973375d35c1d6573e0ee6925)
-- [ ] [<code>Don't hide gwl when opening overview and expo.</code>](https://github.com/linuxmint/cinnamon/commit/a34e71d227aca19412701bd02c36c9f1b8bbd480)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>expo: Use unique pointer trackers for motion tracking.</code>](https://github.com/linuxmint/cinnamon/commit/058deafc84d25e4736dc881e95f4de057c1d0157)
-- [ ] [<code>expo: Fix opening transition.</code>](https://github.com/linuxmint/cinnamon/commit/ef74d195d12e969ca57dde48f77bb5328ff4948c)
-- [ ] [<code>feature_request.md: Checklist is unnecessary.</code>](https://github.com/linuxmint/cinnamon/commit/40fac546661a7cab552d41052644152aaa92d43c)
-- [ ] [<code>Fix workspaces grid layout (#11094)</code>](https://github.com/linuxmint/cinnamon/commit/828665b59bca3faf1152041a5465fed0f86ccc4c)
-- [ ] [<code>grouped-window-list: Don't create a new clone each time</code>](https://github.com/linuxmint/cinnamon/commit/de39163f21ef74383c8aea7697e842a2961f6592)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>windowUtils: Use the window actor's texture instead of a cairo</code>](https://github.com/linuxmint/cinnamon/commit/952f7815af737f658e9b32e9ff4bd267c3048fda)
-- [ ] [<code>expo: Don't create monitor clones until the ExpoThumbnailBox is</code>](https://github.com/linuxmint/cinnamon/commit/a99133cbeae3f517e346688f28bd6b4ccd3ca0bb)
-- [ ] [<code>gwl: Redo the layout when switching workspaces.</code>](https://github.com/linuxmint/cinnamon/commit/01faeaa0103cbd3286b0ac6cc37198fe55a0ac5f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>gwl: Fix a warning.</code>](https://github.com/linuxmint/cinnamon/commit/6d8a3c900a4f13bd5787becc6d4e5bb0074b178e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>windowManager.js: Filter out non-current-workspace windows when</code>](https://github.com/linuxmint/cinnamon/commit/f800711e14c307d91b6cf59e53228b59651489dc)
-- [ ] [<code>gwl: Only monitor size-changed while using textures, along with</code>](https://github.com/linuxmint/cinnamon/commit/f7516fed151167924872edee31a64a503901ef19)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>gwl: Monitor clones, but only to update size.</code>](https://github.com/linuxmint/cinnamon/commit/a4d5c3071b4655e9425f3b39c076b06a25212106)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>environment.js: Fix is_finalized() check.</code>](https://github.com/linuxmint/cinnamon/commit/c7110ea25b03226eb974cb24d5b390e7ce61cdec)
-- [ ] [<code>Fix 2 man pages</code>](https://github.com/linuxmint/cinnamon/commit/6d29765c9025ddbdba7889e37794bbcbc9c322b3)
-- [ ] [<code>layout.js: Connect to tracked actors' destroy signal.</code>](https://github.com/linuxmint/cinnamon/commit/43677cb30dd7eb284ac702519cd0dd9e855cd878)
-- [ ] [<code>cs_windows: Use 'bring-windows-to-current-workspace' in its new</code>](https://github.com/linuxmint/cinnamon/commit/7adcfe6c63d45132ab8abe4aed430d21a4ccd680)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>fix: fix use of undeclared variable</code>](https://github.com/linuxmint/cinnamon/commit/4e42169d9eef36b53a8c940466760541a35a9417)
-- [ ] [<code>Fix getTabList in js.main</code>](https://github.com/linuxmint/cinnamon/commit/e4a802b378f3b3f957ae735f36b65928c913b055)
-- [ ] [<code>systray applet: Don't continue processing an icon if it gets</code>](https://github.com/linuxmint/cinnamon/commit/ecce3a674199e20cca373067779a0527697abdb0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.4.12</code>](https://github.com/linuxmint/cinnamon/commit/f3ff7a7667022694126f287cd246491cee3b7a83)
-  - <sub>Tags: <code>5.4.12</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>workspacesView.js: Disconnect swipe handlers during destroy</code>](https://github.com/linuxmint/cinnamon/commit/59844f49691f1e723f08ea40d7aaaea93acd691b)
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon/commit/befde43be12b4294ec1a7b52ae5b3bc285ee4dfc)
 - [ ] [<code>messageTray.js: Don't assume the primary monitor is at index 0.</code>](https://github.com/linuxmint/cinnamon/commit/0219123db73a1d3a1d74b27a54fbe0f1407b5ae9)
 - [ ] [<code>modalDialog.js: Don't assume monitor 0 is the primary.</code>](https://github.com/linuxmint/cinnamon/commit/c209bab2cf58c663e92aaffcc565b38bb42a1f6b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
+#### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
-- [ ] [<code>region panel: add keys removed from libgnomekbd's API (#297)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8cb73375e66b93da18f7bde728d4a832c07aada4)
-- [ ] [<code>display panel: fallback if no preferred mode is set (#298)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/216a759231709d7d23e074a76a3b8ff446efb6d3)
-- [ ] [<code>5.4.7</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5c2666eb42c7ff7028f3802a23c112d51f2d6)
-  - <sub>Tags: <code>5.4.7</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix a spelling error</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3892f17ed4798000661dcd3073f3f5a8c1a040b4)
 - [ ] [<code>update and improve d/copyright</code>](https://github.com/linuxmint/cinnamon-control-center/commit/70abb36bf6a232c3a45f4e8a6f7df47339b2e5d1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
@@ -100,18 +57,8 @@
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [57d16eb85f2af40be17e2232d279bb65b689f5b7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/57d16eb85f2af40be17e2232d279bb65b689f5b7...HEAD)
 
 
-#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.6 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.6...HEAD)
+#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
-- [ ] [<code>some fixes to debian packaging (#635)</code>](https://github.com/linuxmint/muffin/commit/6821ae37cb13e077fe08692be4767df694aa362b)
-- [ ] [<code>keybindings: Fix workspace navigation while dragging a window</code>](https://github.com/linuxmint/muffin/commit/df41516f39b3c2410026c9bffa1d9d49cb589692)
-- [ ] [<code>tiling: Try to tile to the default size if a match exists, but is</code>](https://github.com/linuxmint/muffin/commit/49df86b0322fa494654e1b0e5747b08def095239)
-- [ ] [<code>tiling: Fix tile top/maximize tests.</code>](https://github.com/linuxmint/muffin/commit/a5f0d56ab269ce7e5d599ba7d3ee61633c6b2ab5)
-- [ ] [<code>window.c: Remove unused code.</code>](https://github.com/linuxmint/muffin/commit/48fc420e9f48ddc6676fa5175ca097f19f4ff1b8)
-- [ ] [<code>tiling: Make it easier to debug.</code>](https://github.com/linuxmint/muffin/commit/433dc2c412eab482c245f83958331d4e16dfb62c)
-- [ ] [<code>Relocate bring-windows-to-current-workspace from org.cinnamon to</code>](https://github.com/linuxmint/muffin/commit/9411323596e47ded674328e0d3a19ceaf87a16d6)
-- [ ] [<code>5.4.7</code>](https://github.com/linuxmint/muffin/commit/a204c95e48c981d8ccec37606949dfdf92b5beed)
-  - <sub>Tags: <code>5.4.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
@@ -124,25 +71,11 @@
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.13 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.13...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
 
-- [ ] [<code>grpc: Use 1.44 instead of 1.46 for now - there is a polling issue</code>](https://github.com/linuxmint/warpinator/commit/8fd5f86230bc0aee5b9fd736c94a186b84a51ab3)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>1.2.14</code>](https://github.com/linuxmint/warpinator/commit/998983af10e0df6097640af34fd1d4ac96a113fc)
-  - <sub>Tags: <code>1.2.14</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.14 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.14...HEAD)
+#### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
-- [ ] [<code>libxapp: add missing gio-unix-2.0 dependency (#156)</code>](https://github.com/linuxmint/xapp/commit/052081f75d1c1212aeb6a913772723c81607bcb3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>xapp-status-icon-monitor.c: Fix copy/paste error.</code>](https://github.com/linuxmint/xapp/commit/69ca4f166c49de909b4726974ea1cc22674d3484)
-- [ ] [<code>xapp-status-icon.c: Make XAppStatusIconState per-process.</code>](https://github.com/linuxmint/xapp/commit/33a0f45ead5c4f1d9ee27e8414fe0617d8b25536)
-- [ ] [<code>2.2.15</code>](https://github.com/linuxmint/xapp/commit/493bcde1dacaca0cdcef8a789a8e5c42e9f13792)
-  - <sub>Tags: <code>2.2.15</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
