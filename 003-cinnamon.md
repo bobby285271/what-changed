@@ -43,16 +43,25 @@
 - [ ] [<code>systray applet: Don't continue processing an icon if it gets</code>](https://github.com/linuxmint/cinnamon/commit/ecce3a674199e20cca373067779a0527697abdb0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>5.4.12</code>](https://github.com/linuxmint/cinnamon/commit/f3ff7a7667022694126f287cd246491cee3b7a83)
-  - <sub>Tags: <code>5.4.12</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.4.12</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>workspacesView.js: Disconnect swipe handlers during destroy</code>](https://github.com/linuxmint/cinnamon/commit/59844f49691f1e723f08ea40d7aaaea93acd691b)
+- [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon/commit/befde43be12b4294ec1a7b52ae5b3bc285ee4dfc)
+- [ ] [<code>messageTray.js: Don't assume the primary monitor is at index 0.</code>](https://github.com/linuxmint/cinnamon/commit/0219123db73a1d3a1d74b27a54fbe0f1407b5ae9)
+- [ ] [<code>modalDialog.js: Don't assume monitor 0 is the primary.</code>](https://github.com/linuxmint/cinnamon/commit/c209bab2cf58c663e92aaffcc565b38bb42a1f6b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.6 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.6...HEAD)
 
 - [ ] [<code>region panel: add keys removed from libgnomekbd's API (#297)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8cb73375e66b93da18f7bde728d4a832c07aada4)
 - [ ] [<code>display panel: fallback if no preferred mode is set (#298)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/216a759231709d7d23e074a76a3b8ff446efb6d3)
 - [ ] [<code>5.4.7</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5c2666eb42c7ff7028f3802a23c112d51f2d6)
-  - <sub>Tags: <code>5.4.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.4.7</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix a spelling error</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3892f17ed4798000661dcd3073f3f5a8c1a040b4)
+- [ ] [<code>update and improve d/copyright</code>](https://github.com/linuxmint/cinnamon-control-center/commit/70abb36bf6a232c3a45f4e8a6f7df47339b2e5d1)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
@@ -143,6 +152,7 @@
 - [ ] [<code>Clean up README and INSTALL.</code>](https://github.com/linuxmint/xreader/commit/fadd0b95533e00f6ca8ca6b32749a4055fbb743e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Fix badge, formatting</code>](https://github.com/linuxmint/xreader/commit/5a3bb36bb431cc52e4eb6c8f5bae6673adbc610c)
+- [ ] [<code>Change github workflow's file extension.</code>](https://github.com/linuxmint/xreader/commit/3012c60d1858d81ed68519da9c5d5e8eb3d870d5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
