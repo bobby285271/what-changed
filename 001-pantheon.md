@@ -92,6 +92,7 @@
 - [ ] [<code>Explicitly handle missing cases (#1199)</code>](https://github.com/elementary/code/commit/04ad197a43626ce829387aa5c22de31171a59d0e)
 - [ ] [<code>Update io.elementary.code.appdata.xml.in</code>](https://github.com/elementary/code/commit/e5322f1fceb11bc6ce042eeff59788fab4fb86cf)
 - [ ] [<code>Remove unused properties (#1205)</code>](https://github.com/elementary/code/commit/c6750d9721007dc432f5b84f217e52128104757b)
+- [ ] [<code>Change key to trigger rebuild completion word list (#1149)</code>](https://github.com/elementary/code/commit/17c0c835a207c10948560f5369d91cb13d033f51)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
