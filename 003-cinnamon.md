@@ -68,14 +68,24 @@
 - [ ] [<code>Fix .gitignore for builds (#154)</code>](https://github.com/linuxmint/pix/commit/a3ad8d8ea92bb577b5373798bc6f5f5d567e002e)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Build: Restore po/Makefile.in.in from previous commit - removing</code>](https://github.com/linuxmint/pix/commit/73f592ec6178b4d6e97886de4b3c34a0d46e9c58)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/pix/commit/ad811015d06442333ae44b06ec4fe4aa7b38ae42)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
 
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/warpinator/commit/d5b19368b01f6e4112c9d7498e7edd07841f3a85)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
+- [ ] [<code>Add missing build dependency.</code>](https://github.com/linuxmint/xapp/commit/1c9c55d6c6191258cd3662a6b5c40f05a75a9e44)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xapp/commit/7298fb0d7d9284165ec577c5d1c3fce22226b901)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
@@ -90,6 +100,9 @@
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
+- [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xviewer/commit/bb4dd391d64a5ddaf3254b178b2cc07c606868e3)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -97,6 +110,8 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [2.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/2.9...HEAD)
 
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/hypnotix/commit/067e90a14a1c28de5bd8ca4e2e9adb2f5f98c273)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -109,6 +124,9 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
+- [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xed/commit/39e5e1d79c05026b44428beb7137ba4f71c24aea)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
