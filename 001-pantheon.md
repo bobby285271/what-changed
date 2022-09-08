@@ -67,6 +67,8 @@
 - [ ] [<code>AppListUpdateView: Fix typo in package row compare (#1917)</code>](https://github.com/elementary/appcenter/commit/7ba182a52596c272ebe3497c70beeb2882ef20b1)
 - [ ] [<code>Remove AbstractAppList (#1916)</code>](https://github.com/elementary/appcenter/commit/b2b164a83e199b39dc963d266bc0b4a313142ad9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Show current job type in overlaybar (#1919)</code>](https://github.com/elementary/appcenter/commit/0a272694ec363c8d503bcf22ce7ccfc3bf52ec25)
+- [ ] [<code>MainWindow: don't rely selected_package (#1918)</code>](https://github.com/elementary/appcenter/commit/d06b5cf1525de827e71de3418958b517f02bcfdc)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -210,6 +212,11 @@
 - [ ] [<code>l10n: Correctly setup the locales (#182)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/031dd5660b4bcb0bb4e82ebe6d8bcdaa1791c385)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Inhibit application closing until discovery stopped (#195)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/f78b5a9a92056f518a09d6081f93bb6aba20198b)
+- [ ] [<code>Port to Gtk4 (#194)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/c8b32b002bf88818de47998004c87cf9de03ae42)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MainWindow: remove extra margin</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/8a17bd7699a37834610b4ee8e93526e659d058c9)
+- [ ] [<code>Update CI (#196)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/194a0d60012ba788b5ec76e4fd88504eb84814a3)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -251,6 +258,9 @@
 - [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to Gtk 4 (#201)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e646917bb96f2be48699779f6d356095defd3734)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
@@ -543,6 +553,7 @@
 - [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
 - [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
 - [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
+- [ ] [<code>SimpleSettingsPage: layout text smarter at small widths (#622)</code>](https://github.com/elementary/granite/commit/542342013244e7410e55730d86a04e07466929ab)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
