@@ -69,6 +69,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Show current job type in overlaybar (#1919)</code>](https://github.com/elementary/appcenter/commit/0a272694ec363c8d503bcf22ce7ccfc3bf52ec25)
 - [ ] [<code>MainWindow: don't rely selected_package (#1918)</code>](https://github.com/elementary/appcenter/commit/d06b5cf1525de827e71de3418958b517f02bcfdc)
+- [ ] [<code>AppListUpdateView: make update all header sticky (#1921)</code>](https://github.com/elementary/appcenter/commit/d52bc1acdd89a0fe8f2a3469a665e384fbf9b993)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -193,6 +195,19 @@
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
+- [ ] [<code>master → main</code>](https://github.com/elementary/switchboard/commit/3fcbfee54e6a3130585b160bb909ab28df99a62c)
+- [ ] [<code>Port to Gtk4 (#231)</code>](https://github.com/elementary/switchboard/commit/7678e94e6ac529ec27f8ec94ebdfc96aeb7321de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Lib: bump to libswitchboard-3 (#236)</code>](https://github.com/elementary/switchboard/commit/cb4d8c3c63c6997aa9f53b6b098c80d73e49a84d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Application: force use portals (#221)</code>](https://github.com/elementary/switchboard/commit/c821ff397a0a8253a942af35b82b678ff56f7884)
+- [ ] [<code>Application: Put everything in a WindowHandle (#237)</code>](https://github.com/elementary/switchboard/commit/b86b2e8a820c239651d26d2b5a3c8f1567d751c0)
+- [ ] [<code>SearchView: use clamp instead of width_chars (#238)</code>](https://github.com/elementary/switchboard/commit/b028a6c92d48f3025f5b4ea4fcc49cab6e8c39e7)
+- [ ] [<code>Application: center searchbox in categoryview (#239)</code>](https://github.com/elementary/switchboard/commit/97a29191ca759c3347616d85b669d1813c8a8ee7)
+- [ ] [<code>Application: don't allow leaflet to unfold (#240)</code>](https://github.com/elementary/switchboard/commit/40a18126c4959b4ec17b8665e0bc8a9f5b4984c7)
+- [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/c7e177a9f0ada7f01553e8fb3173b2a412b8f8c8)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
