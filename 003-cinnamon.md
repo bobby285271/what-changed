@@ -4,6 +4,7 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.5 → HEAD](https://github.com/linuxmint/bulky/compare/2.5...HEAD)
 
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/bulky/commit/0d02e3aaea649355d84095b81e0a00226367e1a0)
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.4.12 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.4.12...HEAD)
 
@@ -118,6 +119,7 @@
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/sticky/commit/a2dff0d469611c4d4a42c053c4d4927816ca87b6)
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
