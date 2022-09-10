@@ -13,6 +13,11 @@
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon/commit/befde43be12b4294ec1a7b52ae5b3bc285ee4dfc)
 - [ ] [<code>messageTray.js: Don't assume the primary monitor is at index 0.</code>](https://github.com/linuxmint/cinnamon/commit/0219123db73a1d3a1d74b27a54fbe0f1407b5ae9)
 - [ ] [<code>modalDialog.js: Don't assume monitor 0 is the primary.</code>](https://github.com/linuxmint/cinnamon/commit/c209bab2cf58c663e92aaffcc565b38bb42a1f6b)
+- [ ] [<code>remove trailing semicolons</code>](https://github.com/linuxmint/cinnamon/commit/cc90cd27cf2407a8e8486ed934f3edb7af4a3144)
+- [ ] [<code>remove trailing semicolons</code>](https://github.com/linuxmint/cinnamon/commit/9559f0da0eda1d73ef0010733185b66daa6cabd8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix inconsistent keyboard navigation in the Scale View and in the Expo View. (#11098)</code>](https://github.com/linuxmint/cinnamon/commit/f1e9887a81e41ceb5cf6a53782f1727b7cd66e87)
+- [ ] [<code>fix variable name (#11152)</code>](https://github.com/linuxmint/cinnamon/commit/b90b06ae1f41f67dee939cfb0cc026b7b5744b63)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
@@ -64,6 +69,8 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
+- [ ] [<code>Actions: Escape device paths also (#3057)</code>](https://github.com/linuxmint/nemo/commit/d54bf372e8dc476adc2c0338da9d1163465e9c14)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
@@ -78,6 +85,7 @@
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/warpinator/commit/d5b19368b01f6e4112c9d7498e7edd07841f3a85)
+- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/c28609cef4765a97a85ac1d8930a10324e00454b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
@@ -85,9 +93,10 @@
 - [ ] [<code>Add missing build dependency.</code>](https://github.com/linuxmint/xapp/commit/1c9c55d6c6191258cd3662a6b5c40f05a75a9e44)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xapp/commit/7298fb0d7d9284165ec577c5d1c3fce22226b901)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>xapp-sn-watcher: Use /dev/shm for temp files if it's available,</code>](https://github.com/linuxmint/xapp/commit/b0bc45f8e5cb2aa2afb1d76569589234feac33d6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
@@ -113,7 +122,9 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [2.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/2.9...HEAD)
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/hypnotix/commit/067e90a14a1c28de5bd8ca4e2e9adb2f5f98c273)
+- [ ] [<code>Fix error when the Content-Length header is missing (#241)</code>](https://github.com/linuxmint/hypnotix/commit/3190333b40dc7419f9767bf23465be8e84fb4c93)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
