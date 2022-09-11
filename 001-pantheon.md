@@ -276,6 +276,8 @@
 - [ ] [<code>Port to Gtk 4 (#201)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e646917bb96f2be48699779f6d356095defd3734)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Re-Namespace to io.elementary.settings.mouse-touchpad (#204)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b16f6825af410bfb3e76bd8b407119a24b9eded9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
@@ -331,6 +333,7 @@
 - [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
 - [ ] [<code>Gtk4/Scales: fix mark selector (#1221)</code>](https://github.com/elementary/stylesheet/commit/de257a1c5c4cddd262fefc94583784d88d0b13c6)
 - [ ] [<code>HeaderBars: set large-icons size to 24px (#1222)</code>](https://github.com/elementary/stylesheet/commit/bd1cb779a24cf5620a58fbafa38760bf6adfa5e1)
+- [ ] [<code>SimpleSettingsPage: adjust header layout and text size (#1226)</code>](https://github.com/elementary/stylesheet/commit/d4bb07555d4aedd2e479aefc6305efa461a74838)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
