@@ -70,7 +70,9 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
 - [ ] [<code>Actions: Escape device paths also (#3057)</code>](https://github.com/linuxmint/nemo/commit/d54bf372e8dc476adc2c0338da9d1163465e9c14)
+- [ ] [<code>Use Github actions instead of CircleCI.</code>](https://github.com/linuxmint/nemo/commit/5cea882d0fe20effdba2054c49af827ab8e1af01)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
