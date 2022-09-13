@@ -18,7 +18,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix inconsistent keyboard navigation in the Scale View and in the Expo View. (#11098)</code>](https://github.com/linuxmint/cinnamon/commit/f1e9887a81e41ceb5cf6a53782f1727b7cd66e87)
 - [ ] [<code>fix variable name (#11152)</code>](https://github.com/linuxmint/cinnamon/commit/b90b06ae1f41f67dee939cfb0cc026b7b5744b63)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>gwl: don't pass the wrong arguments to windowRemoved.</code>](https://github.com/linuxmint/cinnamon/commit/1f56454f0244049a1734d01ecc607f2a59465ee5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>expo: Update the window's starting position when an update is</code>](https://github.com/linuxmint/cinnamon/commit/ac47ff37c120b506ba67375e0334764bb8d8e14d)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>overrides: Make MetaWindowActor.get_workspace always return an</code>](https://github.com/linuxmint/cinnamon/commit/b207debc9f4344307c7246cc1eb0d7f71c3b0743)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
