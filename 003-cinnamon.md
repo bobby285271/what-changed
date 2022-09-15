@@ -21,44 +21,72 @@
 - [ ] [<code>gwl: don't pass the wrong arguments to windowRemoved.</code>](https://github.com/linuxmint/cinnamon/commit/1f56454f0244049a1734d01ecc607f2a59465ee5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>expo: Update the window's starting position when an update is</code>](https://github.com/linuxmint/cinnamon/commit/ac47ff37c120b506ba67375e0334764bb8d8e14d)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>overrides: Make MetaWindowActor.get_workspace always return an</code>](https://github.com/linuxmint/cinnamon/commit/b207debc9f4344307c7246cc1eb0d7f71c3b0743)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon/commit/95aa8f686472b4e7b22b9080bf896842e74a583f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>workflow: Fix dependency line.. maybe.</code>](https://github.com/linuxmint/cinnamon/commit/250d83d80a1b0104b0d5649fbda38cff9f133ddd)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>workflow: Go back to folded style.</code>](https://github.com/linuxmint/cinnamon/commit/04c3a212cf60b2ee901a79977c39b8cf95729fc4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
 - [ ] [<code>fix a spelling error</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3892f17ed4798000661dcd3073f3f5a8c1a040b4)
 - [ ] [<code>update and improve d/copyright</code>](https://github.com/linuxmint/cinnamon-control-center/commit/70abb36bf6a232c3a45f4e8a6f7df47339b2e5d1)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove cinnamon-settings-daemon as a dependency.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e5bebefbbe6b4880390720714a292131ce6aab3d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0422c8a407591f6b1be9652a27b0c66cb3c3de8e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
+- [ ] [<code>Fix some introspection problems.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2798e1904a9bef7e4c73f1ab2774d333c7339710)
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/134816e76a90c3a4f12f87b4365865ac95e938cf)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-menus/commit/f9d9a90597896db10592ac67b3a6c8a7b15bc789)
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5059e532c6eee0b6ef1ba26cabf054825dbaf089)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.4.4...HEAD)
 
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1311591c066e7d8a3996b51ac6993a62690aa1bf)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-session/commit/29fd37f6d8f94763c13b4f76cd91f047fbccbf81)
 - [ ] [<code>Accept Desktop Entry Specification v1.5 (#153)</code>](https://github.com/linuxmint/cinnamon-session/commit/586aa3b625b5039532dbdd3c839306ebff4f84c2)
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-session/commit/50c706e60476296b874852da0e6c6eb43309e7d7)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.4.5 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.4.5...HEAD)
 
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/23fd6c03f5cdb2d5772cf4f50d3f74ee3b4f1763)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.2...HEAD)
 
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-translations/commit/055a1fb3fed5a2210f24368803bfc6903d8da128)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.4.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.4.1...HEAD)
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cjs/commit/ec0a18fb4455e833300c55608edf25f48fcc82b9)
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cjs/commit/7235a06fe12bff39c8ab15788fe8c8618a45f163)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [3a202e401abca98623cd1dbc412221682081244c → HEAD](https://github.com/linuxmint/mint-themes/compare/3a202e401abca98623cd1dbc412221682081244c...HEAD)
 
@@ -71,6 +99,9 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
+- [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/muffin/commit/273a3a9bf82bee71f208bcf656f0c5b4412c1e11)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
@@ -95,7 +126,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/c28609cef4765a97a85ac1d8930a10324e00454b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.xapps](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
 - [ ] [<code>Add missing build dependency.</code>](https://github.com/linuxmint/xapp/commit/1c9c55d6c6191258cd3662a6b5c40f05a75a9e44)
   - <sub>Keywords: <code>dependency</code></sub>
