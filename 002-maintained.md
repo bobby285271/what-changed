@@ -426,6 +426,7 @@
 - [ ] [<code>Merge pull request #502 from pyotr71/patch-1</code>](https://github.com/phase1geo/minder/commit/5c106f3972d7fde99fecf10c75d7f9792d6e110a)
 - [ ] [<code>Merge branch 'file-system-exporter'</code>](https://github.com/phase1geo/minder/commit/5d326f5a51e5a55da7e186013b42629b2e9e8e44)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing image drop segfault</code>](https://github.com/phase1geo/minder/commit/40ec41e94fe0a8cf795f14cec633244ac62a87d3)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
@@ -516,6 +517,7 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [b5c22b3bce25837565a894ba1a91bc856b60c251 → HEAD](https://github.com/vala-lang/vala-lint/compare/b5c22b3bce25837565a894ba1a91bc856b60c251...HEAD)
 
+- [ ] [<code>Print summary at the end of output (#162)</code>](https://github.com/vala-lang/vala-lint/commit/37660284fd1317a445ecddbaf1acdd6fa6bbbcad)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
