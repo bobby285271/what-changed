@@ -515,9 +515,8 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Warn about Wayland</code>](https://github.com/JoseExposito/touchegg/commit/4a59a8cf4e22ae44a3773d438b2428170337f5dc)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [b5c22b3bce25837565a894ba1a91bc856b60c251 → HEAD](https://github.com/vala-lang/vala-lint/compare/b5c22b3bce25837565a894ba1a91bc856b60c251...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [37660284fd1317a445ecddbaf1acdd6fa6bbbcad → HEAD](https://github.com/vala-lang/vala-lint/compare/37660284fd1317a445ecddbaf1acdd6fa6bbbcad...HEAD)
 
-- [ ] [<code>Print summary at the end of output (#162)</code>](https://github.com/vala-lang/vala-lint/commit/37660284fd1317a445ecddbaf1acdd6fa6bbbcad)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
