@@ -517,6 +517,7 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [37660284fd1317a445ecddbaf1acdd6fa6bbbcad → HEAD](https://github.com/vala-lang/vala-lint/compare/37660284fd1317a445ecddbaf1acdd6fa6bbbcad...HEAD)
 
+- [ ] [<code>Implement ignoring specified patterns, defaulting to those in .gitignore (#161)</code>](https://github.com/vala-lang/vala-lint/commit/923adb5d3983ed654566304284607e3367998e22)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
