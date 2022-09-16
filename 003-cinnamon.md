@@ -27,7 +27,9 @@
 - [ ] [<code>workflow: Fix dependency line.. maybe.</code>](https://github.com/linuxmint/cinnamon/commit/250d83d80a1b0104b0d5649fbda38cff9f133ddd)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>workflow: Go back to folded style.</code>](https://github.com/linuxmint/cinnamon/commit/04c3a212cf60b2ee901a79977c39b8cf95729fc4)
+- [ ] [<code>settings: Make use of cinnamon-driver-manager shortcut</code>](https://github.com/linuxmint/cinnamon/commit/6c76516c9e107f0ec0c0e24fa7722350c0c2dcfc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -58,8 +60,10 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.4.4...HEAD)
 
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1311591c066e7d8a3996b51ac6993a62690aa1bf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Clean up readme.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/004bd3bdff2ba849a82bb986995dc2a9f99392bd)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
