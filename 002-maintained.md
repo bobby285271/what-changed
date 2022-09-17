@@ -427,6 +427,15 @@
 - [ ] [<code>Merge branch 'file-system-exporter'</code>](https://github.com/phase1geo/minder/commit/5d326f5a51e5a55da7e186013b42629b2e9e8e44)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing image drop segfault</code>](https://github.com/phase1geo/minder/commit/40ec41e94fe0a8cf795f14cec633244ac62a87d3)
+- [ ] [<code>Checkpointing changes for URL link color changes</code>](https://github.com/phase1geo/minder/commit/8e8c9dc2e40f8d6894ee5e1ad9db4fd81e95c06e)
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/97cc6b400da17a626f7c01d9597b45f0e3e27b53)
+- [ ] [<code>Adding support for enable-ui-animations setting</code>](https://github.com/phase1geo/minder/commit/d3324807ec6517929672c3991ec0b53b0f6dbb89)
+- [ ] [<code>Merge branch '510-disabling-animations-of-property-sid'</code>](https://github.com/phase1geo/minder/commit/4ed4ae425d0b2d42be4d87252844f1d81eb2f2b9)
+- [ ] [<code>Removing debug output</code>](https://github.com/phase1geo/minder/commit/b1a2cf5973e274a507ba922c13faf017eb869dcf)
+- [ ] [<code>Fixing segmentation fault with node grouping root nodes.</code>](https://github.com/phase1geo/minder/commit/5fe1fc75730b133b6b92f252f43d470a19ad167e)
+- [ ] [<code>Merge branch '509-segfaults-on-groupping'</code>](https://github.com/phase1geo/minder/commit/58eb2a8a253291f1076455b4deaefc582881534a)
+- [ ] [<code>Enhancing image exports</code>](https://github.com/phase1geo/minder/commit/63c787b7567e0ba6d493399caebe2f4b31e22e6e)
+- [ ] [<code>Merge branch '506-option-to-ignore-markdown-control-ch'</code>](https://github.com/phase1geo/minder/commit/48df28d43eb8d0f070e2eda2aa2a9c7069c6bb80)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
