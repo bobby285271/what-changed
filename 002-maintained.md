@@ -523,6 +523,8 @@
 - [ ] [<code>undid formatting</code>](https://github.com/JoseExposito/touchegg/commit/1d3e8132f8430c498b1486d6589ecea8db811de1)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Warn about Wayland</code>](https://github.com/JoseExposito/touchegg/commit/4a59a8cf4e22ae44a3773d438b2428170337f5dc)
+- [ ] [<code>Add TOUCHEGG_DEVICE_TYPE environment variable to RUN_COMMAND</code>](https://github.com/JoseExposito/touchegg/commit/c828d4f94475ef3c6a3043c0afdda3d075db795d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [37660284fd1317a445ecddbaf1acdd6fa6bbbcad → HEAD](https://github.com/vala-lang/vala-lint/compare/37660284fd1317a445ecddbaf1acdd6fa6bbbcad...HEAD)
 
