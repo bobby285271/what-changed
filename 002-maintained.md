@@ -436,6 +436,7 @@
 - [ ] [<code>Merge branch '509-segfaults-on-groupping'</code>](https://github.com/phase1geo/minder/commit/58eb2a8a253291f1076455b4deaefc582881534a)
 - [ ] [<code>Enhancing image exports</code>](https://github.com/phase1geo/minder/commit/63c787b7567e0ba6d493399caebe2f4b31e22e6e)
 - [ ] [<code>Merge branch '506-option-to-ignore-markdown-control-ch'</code>](https://github.com/phase1geo/minder/commit/48df28d43eb8d0f070e2eda2aa2a9c7069c6bb80)
+- [ ] [<code>Fixing issue with text colors when theme is changed</code>](https://github.com/phase1geo/minder/commit/836b28ec8d93bce2aa6e99fec3b705b0aa967e7d)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
@@ -526,9 +527,8 @@
 - [ ] [<code>Add TOUCHEGG_DEVICE_TYPE environment variable to RUN_COMMAND</code>](https://github.com/JoseExposito/touchegg/commit/c828d4f94475ef3c6a3043c0afdda3d075db795d)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [37660284fd1317a445ecddbaf1acdd6fa6bbbcad → HEAD](https://github.com/vala-lang/vala-lint/compare/37660284fd1317a445ecddbaf1acdd6fa6bbbcad...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
-- [ ] [<code>Implement ignoring specified patterns, defaulting to those in .gitignore (#161)</code>](https://github.com/vala-lang/vala-lint/commit/923adb5d3983ed654566304284607e3367998e22)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
