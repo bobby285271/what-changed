@@ -232,6 +232,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>MainWindow: remove extra margin</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/8a17bd7699a37834610b4ee8e93526e659d058c9)
 - [ ] [<code>Update CI (#196)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/194a0d60012ba788b5ec76e4fd88504eb84814a3)
+- [ ] [<code>Re-namespace to io.elementary.settings (#197)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2f657e653f3130d199ae914dcfa0907f9ccbec9b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update po</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d917ca40bd5609e9aaec2d94872be1ba5bdecd2b)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -286,6 +289,10 @@
 
 - [ ] [<code>l10n: Correctly setup the locales (#83)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/2e0320aab62b6932e8ef5f941d02e244de381957)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update CI (#90)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/b9c3e5a9611db75477113589d604b57ab81b4734)
+- [ ] [<code>Port to GTK4 (#89)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/8f21383af8f0f33ca057d50cc7db48c9bfe5fe27)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
