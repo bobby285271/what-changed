@@ -128,6 +128,10 @@
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/warpinator/commit/d5b19368b01f6e4112c9d7498e7edd07841f3a85)
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/c28609cef4765a97a85ac1d8930a10324e00454b)
+- [ ] [<code>transfers: Don't allow a received file to be saved outside of the</code>](https://github.com/linuxmint/warpinator/commit/5244c33d4c109ede9607b9d94461650410e2cddc)
+- [ ] [<code>transfers: Use g_file_query_exists() instead of g_file_test().</code>](https://github.com/linuxmint/warpinator/commit/f4907ef6a17a189d56ab0a9da4b53190b061ad75)
+- [ ] [<code>transfers: Always remove existing files before beginning a transfer.</code>](https://github.com/linuxmint/warpinator/commit/8bfd2f8b3f1b0c0f0a5a6d275702d107b9e08a94)
+- [ ] [<code>transfers: Use Pathlib.Path instead of GFile for path safety check.</code>](https://github.com/linuxmint/warpinator/commit/95124fd4468683dd69ddd7b3da0e9906ce6beae2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
