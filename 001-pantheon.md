@@ -214,6 +214,9 @@
 
 - [ ] [<code>l10n: Correctly setup the locales (#79)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/08db4b696128a6bf809da3403a818834fcd62b02)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to Gtk4 (#80)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/958983ec88fd16cc3482ab5f01cdd8e77e2c06b6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
