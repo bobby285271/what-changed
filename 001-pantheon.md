@@ -244,6 +244,9 @@
 - [ ] [<code>l10n: Correctly setup the locales (#100)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/a90639ed4f185f50d4ae448cd9503203dc24b3f4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix scroll position of time zone city list. (#101)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/7107ffd25c83bae01b115d673ae954186a919208)
+- [ ] [<code>Port to GTK4 (#102)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3f8aa1cd65b5dddbfc01c8afdb51212b406a8c4d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
@@ -310,6 +313,9 @@
 - [ ] [<code>Authenticate on demand for lid close settings (#218)</code>](https://github.com/elementary/switchboard-plug-power/commit/b4d3c8774b17ea218fda81294b8e544179240335)
 - [ ] [<code>Smooth scrolling support (#219)</code>](https://github.com/elementary/switchboard-plug-power/commit/382d7919e15700adbc4d3dc8f7e79e13960747cf)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Port to Gtk4 (#217)</code>](https://github.com/elementary/switchboard-plug-power/commit/c5e6b8b7b37eaaaaf2668437847919e88716e136)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
