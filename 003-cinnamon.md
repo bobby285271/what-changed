@@ -132,6 +132,9 @@
 - [ ] [<code>transfers: Use g_file_query_exists() instead of g_file_test().</code>](https://github.com/linuxmint/warpinator/commit/f4907ef6a17a189d56ab0a9da4b53190b061ad75)
 - [ ] [<code>transfers: Always remove existing files before beginning a transfer.</code>](https://github.com/linuxmint/warpinator/commit/8bfd2f8b3f1b0c0f0a5a6d275702d107b9e08a94)
 - [ ] [<code>transfers: Use Pathlib.Path instead of GFile for path safety check.</code>](https://github.com/linuxmint/warpinator/commit/95124fd4468683dd69ddd7b3da0e9906ce6beae2)
+- [ ] [<code>Add a script to allow testing the preferences window directly.</code>](https://github.com/linuxmint/warpinator/commit/2a489693d647990dda9093bedacca765b29e85a8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Don't allow incoming transfers to fill the disk.</code>](https://github.com/linuxmint/warpinator/commit/ac0d08df3fa22f9198c4735e46e0ffc2fea1d798)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
