@@ -62,7 +62,7 @@
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1311591c066e7d8a3996b51ac6993a62690aa1bf)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Clean up readme.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/004bd3bdff2ba849a82bb986995dc2a9f99392bd)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code> <code>refs/heads/suspend-config-hidpi-fixes.lmde5</code> <code>refs/heads/suspend-config-hidpi-fixes.mint21</code> <code>suspend-config-hidpi-fixes.lmde5</code> <code>suspend-config-hidpi-fixes.mint21</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
