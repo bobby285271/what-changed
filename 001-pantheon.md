@@ -489,6 +489,7 @@
 - [ ] [<code>Add support for Mutter 43 (#1451)</code>](https://github.com/elementary/gala/commit/0631debf0e2132de052c906e830eb23477251ea2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/gala/commit/40bd02c621696c90287959260116d981039b9a57)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
