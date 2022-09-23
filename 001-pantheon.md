@@ -224,6 +224,9 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
 - [ ] [<code>Change keyfile error messages to debug.</code>](https://github.com/elementary/switchboard-plug-applications/commit/1d7318932a3356efa13ced2f4644dfa5963e883e)
+- [ ] [<code>Port to GTK4 (#173)</code>](https://github.com/elementary/switchboard-plug-applications/commit/47c66875e1d431347bb5602d2140d05a156d0921)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
