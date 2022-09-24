@@ -411,6 +411,13 @@
 - [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
 - [ ] [<code>DBusAccelerator: Use the right prototype to expose the interface (#614)</code>](https://github.com/elementary/greeter/commit/16ee7f4dba15423dc60bf5a998fffc4eabf9c73b)
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Synchronize the .vapi with Gala</code>](https://github.com/elementary/greeter/commit/11dadd1315da0e62e6e95f64081c60317efa1e7f)
+- [ ] [<code>Add support for Mutter 43</code>](https://github.com/elementary/greeter/commit/6318ee489e8aead4ec02c3da965ac2be278e82b1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Dialogs: add AccessDialog class</code>](https://github.com/elementary/greeter/commit/770bb572ed5de5038ab50f9106b4726f9b61926e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/greeter/commit/4972c1b7a07e0141eceeae3c24cc1baba921a83e)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
@@ -512,6 +519,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Create CONTRIBUTING.md (#461)</code>](https://github.com/elementary/wingpanel/commit/db8591ae708d4f4bebea474e0b99166b8126e905)
+- [ ] [<code>Add support for Mutter 43 (#465)</code>](https://github.com/elementary/wingpanel/commit/60e344fdfe698a05c113cf664a7f5889c51cf603)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
