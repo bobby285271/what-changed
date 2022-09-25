@@ -111,8 +111,11 @@
 
 - [ ] [<code>Actions: Escape device paths also (#3057)</code>](https://github.com/linuxmint/nemo/commit/d54bf372e8dc476adc2c0338da9d1163465e9c14)
 - [ ] [<code>Use Github actions instead of CircleCI.</code>](https://github.com/linuxmint/nemo/commit/5cea882d0fe20effdba2054c49af827ab8e1af01)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Actions: Escape path spaces when they are unquoted</code>](https://github.com/linuxmint/nemo/commit/2c0ed660fd95f96442d97202283cae2e91ab344d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>eel: Merge shell character escape functions</code>](https://github.com/linuxmint/nemo/commit/2f68abd5f1651bef0405d0104b9c09ef2908f9da)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
