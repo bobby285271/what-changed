@@ -208,6 +208,7 @@
 - [ ] [<code>Application: center searchbox in categoryview (#239)</code>](https://github.com/elementary/switchboard/commit/97a29191ca759c3347616d85b669d1813c8a8ee7)
 - [ ] [<code>Application: don't allow leaflet to unfold (#240)</code>](https://github.com/elementary/switchboard/commit/40a18126c4959b4ec17b8665e0bc8a9f5b4984c7)
 - [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/c7e177a9f0ada7f01553e8fb3173b2a412b8f8c8)
+- [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/aa6bc2e5ff81c3440ebab47ce1e77ed3ec8a9cd2)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -592,6 +593,7 @@
 - [ ] [<code>Consistent margin (#234)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/51540fdb2edf353022ced251e64c5ba9f84e8382)
 - [ ] [<code>Bind volume step to gnome setting (#237)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f495b7af6476c505397ca24de7aab5d3942da464)
 - [ ] [<code>Update codestyle (#238)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/dd6b8e757b15a208802b48277bea188279322330)
+- [ ] [<code>PulseAudioManager: fallback to fd.o icon name (#239)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ad97e2457e3b87ceb0ab4422f63768848ad8f613)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
