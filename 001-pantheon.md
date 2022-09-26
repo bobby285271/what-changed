@@ -71,6 +71,9 @@
 - [ ] [<code>MainWindow: don't rely selected_package (#1918)</code>](https://github.com/elementary/appcenter/commit/d06b5cf1525de827e71de3418958b517f02bcfdc)
 - [ ] [<code>AppListUpdateView: make update all header sticky (#1921)</code>](https://github.com/elementary/appcenter/commit/d52bc1acdd89a0fe8f2a3469a665e384fbf9b993)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ReleaseRow: cleanup and design update</code>](https://github.com/elementary/appcenter/commit/077a1250caba0baf90c94326956dacf53ff08d59)
+- [ ] [<code>AppInfoView: get newest releases in this class</code>](https://github.com/elementary/appcenter/commit/a75b72d9f27eab4f17ca5ee6b53e2e849c11782f)
+- [ ] [<code>Remove redundant null check</code>](https://github.com/elementary/appcenter/commit/d31f59eea5c85838efff339b901f0c7aab2b6883)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -386,6 +389,9 @@
 - [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Apps: redesign application-default-icon (#1128)</code>](https://github.com/elementary/icons/commit/f5709670fd87485d9ba51e757dcd593e7d03a7d6)
+- [ ] [<code>status: round location icons (#1131)</code>](https://github.com/elementary/icons/commit/ced8680a29313c8044543cecabd0bf0664d5072e)
+- [ ] [<code>Update symbolic tags (#1130)</code>](https://github.com/elementary/icons/commit/cb4ef316fb81fe81dc6db00cc3b92c2f8815afd5)
+- [ ] [<code>Update symbolic bookmark icons (#1129)</code>](https://github.com/elementary/icons/commit/76ef13390a1c54b0d2f1e43d6720eccc8b9b5a84)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
