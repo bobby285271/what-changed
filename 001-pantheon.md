@@ -74,6 +74,7 @@
 - [ ] [<code>ReleaseRow: cleanup and design update</code>](https://github.com/elementary/appcenter/commit/077a1250caba0baf90c94326956dacf53ff08d59)
 - [ ] [<code>AppInfoView: get newest releases in this class</code>](https://github.com/elementary/appcenter/commit/a75b72d9f27eab4f17ca5ee6b53e2e849c11782f)
 - [ ] [<code>Remove redundant null check</code>](https://github.com/elementary/appcenter/commit/d31f59eea5c85838efff339b901f0c7aab2b6883)
+- [ ] [<code>ReleaseRow: support issues tag (#1931)</code>](https://github.com/elementary/appcenter/commit/4f0756c59b7b2ffb01f552b443d9691d1a3f5140)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -100,6 +101,7 @@
 - [ ] [<code>Update io.elementary.code.appdata.xml.in</code>](https://github.com/elementary/code/commit/e5322f1fceb11bc6ce042eeff59788fab4fb86cf)
 - [ ] [<code>Remove unused properties (#1205)</code>](https://github.com/elementary/code/commit/c6750d9721007dc432f5b84f217e52128104757b)
 - [ ] [<code>Change key to trigger rebuild completion word list (#1149)</code>](https://github.com/elementary/code/commit/17c0c835a207c10948560f5369d91cb13d033f51)
+- [ ] [<code>Global search selected (#1049)</code>](https://github.com/elementary/code/commit/8e1453442375226cb4a3fc5a92de8190d4a60dbd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -254,6 +256,7 @@
 - [ ] [<code>Port to GTK4 (#102)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3f8aa1cd65b5dddbfc01c8afdb51212b406a8c4d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Redesign (#103)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/4eb077229721fdd57eda653fd6a0f26d2a2d9b84)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
@@ -323,6 +326,7 @@
 - [ ] [<code>Port to Gtk4 (#217)</code>](https://github.com/elementary/switchboard-plug-power/commit/c5e6b8b7b37eaaaaf2668437847919e88716e136)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
@@ -504,6 +508,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/gala/commit/40bd02c621696c90287959260116d981039b9a57)
+- [ ] [<code>Fix multitasking view allocation assertions (#1463)</code>](https://github.com/elementary/gala/commit/23c7edeb0ee9b0ff0aa48c1d19fbd1739df7af78)
+- [ ] [<code>WindowClone: Always add the click action (#1464)</code>](https://github.com/elementary/gala/commit/d9ebac365ca5d1f427070ac99d255024b18026a7)
+- [ ] [<code>Option to dim wallpapers when dark style is active (#1462)</code>](https://github.com/elementary/gala/commit/16492b1f7103e7d2fb89e13eeaf69880f2885247)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
