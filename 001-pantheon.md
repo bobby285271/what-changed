@@ -214,6 +214,7 @@
 - [ ] [<code>Application: don't allow leaflet to unfold (#240)</code>](https://github.com/elementary/switchboard/commit/40a18126c4959b4ec17b8665e0bc8a9f5b4984c7)
 - [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/c7e177a9f0ada7f01553e8fb3173b2a412b8f8c8)
 - [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/aa6bc2e5ff81c3440ebab47ce1e77ed3ec8a9cd2)
+- [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/70271ff6ea5f4d7927a679f981198ae54b3141fa)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -396,6 +397,7 @@
 - [ ] [<code>status: round location icons (#1131)</code>](https://github.com/elementary/icons/commit/ced8680a29313c8044543cecabd0bf0664d5072e)
 - [ ] [<code>Update symbolic tags (#1130)</code>](https://github.com/elementary/icons/commit/cb4ef316fb81fe81dc6db00cc3b92c2f8815afd5)
 - [ ] [<code>Update symbolic bookmark icons (#1129)</code>](https://github.com/elementary/icons/commit/76ef13390a1c54b0d2f1e43d6720eccc8b9b5a84)
+- [ ] [<code>Status: add 48px changes-prevent symlink</code>](https://github.com/elementary/icons/commit/5c5150ba5e1fcee1cfbe320121e5351ae3249e9e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
