@@ -124,8 +124,10 @@
 - [ ] [<code>Build: Restore po/Makefile.in.in from previous commit - removing</code>](https://github.com/linuxmint/pix/commit/73f592ec6178b4d6e97886de4b3c34a0d46e9c58)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/pix/commit/ad811015d06442333ae44b06ec4fe4aa7b38ae42)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>gth-browser.c: Don't continuously reload a single image.</code>](https://github.com/linuxmint/pix/commit/a9a46ce4266fb82b9e6ef0db5dc65aac99e4ce50)
+- [ ] [<code>Disable 'fast' content detection by default.</code>](https://github.com/linuxmint/pix/commit/93ca9b62a6323e17da5463432028cbb105fd2b5f)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
 
@@ -192,8 +194,9 @@
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
 - [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xed/commit/39e5e1d79c05026b44428beb7137ba4f71c24aea)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>minimap: Use a smaller font size.</code>](https://github.com/linuxmint/xed/commit/a506f7c302bba953f83ce2690276731ce227f8be)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
