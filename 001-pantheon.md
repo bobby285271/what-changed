@@ -623,6 +623,7 @@
 - [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
 - [ ] [<code>SimpleSettingsPage: layout text smarter at small widths (#622)</code>](https://github.com/elementary/granite/commit/542342013244e7410e55730d86a04e07466929ab)
 - [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/9821b17ac027d64dd4fca5c531ba76db49fa8c13)
+- [ ] [<code>Constants: add large-icons (#621)</code>](https://github.com/elementary/granite/commit/d154288006d816f767c4141eace39f120a7f5748)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
