@@ -362,6 +362,7 @@
 - [ ] [<code>Gtk4/Scales: fix mark selector (#1221)</code>](https://github.com/elementary/stylesheet/commit/de257a1c5c4cddd262fefc94583784d88d0b13c6)
 - [ ] [<code>HeaderBars: set large-icons size to 24px (#1222)</code>](https://github.com/elementary/stylesheet/commit/bd1cb779a24cf5620a58fbafa38760bf6adfa5e1)
 - [ ] [<code>SimpleSettingsPage: adjust header layout and text size (#1226)</code>](https://github.com/elementary/stylesheet/commit/d4bb07555d4aedd2e479aefc6305efa461a74838)
+- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/2d691cc0ebc35dbeb5cbbe643b0decf623b668f8)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -398,6 +399,7 @@
 - [ ] [<code>Update symbolic tags (#1130)</code>](https://github.com/elementary/icons/commit/cb4ef316fb81fe81dc6db00cc3b92c2f8815afd5)
 - [ ] [<code>Update symbolic bookmark icons (#1129)</code>](https://github.com/elementary/icons/commit/76ef13390a1c54b0d2f1e43d6720eccc8b9b5a84)
 - [ ] [<code>Status: add 48px changes-prevent symlink</code>](https://github.com/elementary/icons/commit/5c5150ba5e1fcee1cfbe320121e5351ae3249e9e)
+- [ ] [<code>AppData: update release notes for 7.1.0</code>](https://github.com/elementary/icons/commit/67c2a41915e873d09ca7d3b81a9bf0fbe1f7c827)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -620,6 +622,7 @@
 - [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
 - [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
 - [ ] [<code>SimpleSettingsPage: layout text smarter at small widths (#622)</code>](https://github.com/elementary/granite/commit/542342013244e7410e55730d86a04e07466929ab)
+- [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/9821b17ac027d64dd4fca5c531ba76db49fa8c13)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
