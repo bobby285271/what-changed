@@ -190,6 +190,7 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
+- [ ] [<code>Update README.md to include build dependencies and instructions (#45)</code>](https://github.com/linuxmint/timeshift/commit/b0f745031b6eea5e7eafa0aa6aaebc051ea26e3f)
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
