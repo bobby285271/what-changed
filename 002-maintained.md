@@ -166,6 +166,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Drop standalone usage Gdk.ModifierType in favor of boolean getters from the main canvas based on modifier intent. Fixes #730 (#731)</code>](https://github.com/akiraux/Akira/commit/d7e816deca6702d3812dfbea3e83a10d7acc8718)
+- [ ] [<code>Fix unit tests for model (#736)</code>](https://github.com/akiraux/Akira/commit/85f83ee2af68c0d5d34cfc10aabb8c21c1382506)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
