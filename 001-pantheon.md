@@ -400,6 +400,9 @@
 - [ ] [<code>Update symbolic bookmark icons (#1129)</code>](https://github.com/elementary/icons/commit/76ef13390a1c54b0d2f1e43d6720eccc8b9b5a84)
 - [ ] [<code>Status: add 48px changes-prevent symlink</code>](https://github.com/elementary/icons/commit/5c5150ba5e1fcee1cfbe320121e5351ae3249e9e)
 - [ ] [<code>AppData: update release notes for 7.1.0</code>](https://github.com/elementary/icons/commit/67c2a41915e873d09ca7d3b81a9bf0fbe1f7c827)
+- [ ] [<code>Categories: symlink preferences-desktop-wallpaper (#1134)</code>](https://github.com/elementary/icons/commit/f7dc5864ed03ff136f6208f684602d41d6990aa5)
+- [ ] [<code>Rounded audio-volume (#1043)</code>](https://github.com/elementary/icons/commit/4ec55c473ddca42f662d205f96db3600d2dc1958)
+- [ ] [<code>Round actions/document-* symbolic (#1132)</code>](https://github.com/elementary/icons/commit/a4c4c0f9d8a29409595a71d4365299d4eeb1f864)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
