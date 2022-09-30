@@ -605,6 +605,8 @@
 - [ ] [<code>AppList: Don't add the header as a row (#225)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/908c2eff91c135a90c73a3c3032323911910d6e5)
 - [ ] [<code>AppList: Don't show the power eater section if failed to get the app (#226)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0061d0c05de2d121a8224744a0472bcbc4a91a85)
 - [ ] [<code>Update codestyle (#231)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/e632893bc64245d1f3e48d60ed6095d318dc9235)
+- [ ] [<code>Better smooth scrolling (#232)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/571872353b98d316253c5ef1d264a5777cc8f677)
+- [ ] [<code>FIx last separator revealer (#233)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c368327494013bc08868c2b38abafb83b69e4b20)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
@@ -621,6 +623,7 @@
 - [ ] [<code>Bind volume step to gnome setting (#237)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f495b7af6476c505397ca24de7aab5d3942da464)
 - [ ] [<code>Update codestyle (#238)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/dd6b8e757b15a208802b48277bea188279322330)
 - [ ] [<code>PulseAudioManager: fallback to fd.o icon name (#239)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ad97e2457e3b87ceb0ab4422f63768848ad8f613)
+- [ ] [<code>PulseAudioManager: fall back to device form factor when icon name unavailable (#240)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/76173b6661de4c64f7d95b7d3ad6b748dfda5073)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
