@@ -75,6 +75,7 @@
 - [ ] [<code>AppInfoView: get newest releases in this class</code>](https://github.com/elementary/appcenter/commit/a75b72d9f27eab4f17ca5ee6b53e2e849c11782f)
 - [ ] [<code>Remove redundant null check</code>](https://github.com/elementary/appcenter/commit/d31f59eea5c85838efff339b901f0c7aab2b6883)
 - [ ] [<code>ReleaseRow: support issues tag (#1931)</code>](https://github.com/elementary/appcenter/commit/4f0756c59b7b2ffb01f552b443d9691d1a3f5140)
+- [ ] [<code>UpdateManager: count updates size, flatpak, unpaid (#1924)</code>](https://github.com/elementary/appcenter/commit/cf8af4baa7937a8aad9160df93f6a57e71898228)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -363,6 +364,8 @@
 - [ ] [<code>HeaderBars: set large-icons size to 24px (#1222)</code>](https://github.com/elementary/stylesheet/commit/bd1cb779a24cf5620a58fbafa38760bf6adfa5e1)
 - [ ] [<code>SimpleSettingsPage: adjust header layout and text size (#1226)</code>](https://github.com/elementary/stylesheet/commit/d4bb07555d4aedd2e479aefc6305efa461a74838)
 - [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/2d691cc0ebc35dbeb5cbbe643b0decf623b668f8)
+- [ ] [<code>Gtk4/Popovers: style completion-entry (#1229)</code>](https://github.com/elementary/stylesheet/commit/c040f2b338b5ba4be03a2989dca4db3d54ab017d)
+- [ ] [<code>CheckButtons: set margin on check/radio element (#1231)</code>](https://github.com/elementary/stylesheet/commit/41d5ac23a6d3132c5d1af8210e4bd23bcf23b92f)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -403,6 +406,8 @@
 - [ ] [<code>Categories: symlink preferences-desktop-wallpaper (#1134)</code>](https://github.com/elementary/icons/commit/f7dc5864ed03ff136f6208f684602d41d6990aa5)
 - [ ] [<code>Rounded audio-volume (#1043)</code>](https://github.com/elementary/icons/commit/4ec55c473ddca42f662d205f96db3600d2dc1958)
 - [ ] [<code>Round actions/document-* symbolic (#1132)</code>](https://github.com/elementary/icons/commit/a4c4c0f9d8a29409595a71d4365299d4eeb1f864)
+- [ ] [<code>Status: Update headphones symbolic (#1137)</code>](https://github.com/elementary/icons/commit/34da46ddd2114d6c2d1185d9bff85eaf6e020878)
+- [ ] [<code>Modernize 128px application-x-executable (#1135)</code>](https://github.com/elementary/icons/commit/f7ede701309ffbc473420076e9c87d9e97e96f76)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -544,6 +549,7 @@
 - [ ] [<code>Add support for Mutter 43 (#465)</code>](https://github.com/elementary/wingpanel/commit/60e344fdfe698a05c113cf664a7f5889c51cf603)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Listen to smooth scroll events (#466)</code>](https://github.com/elementary/wingpanel/commit/ea73ce711371b128763b6de23b86b27d6a7900d9)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
