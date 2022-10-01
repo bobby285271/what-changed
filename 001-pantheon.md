@@ -144,6 +144,8 @@
 - [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
 - [ ] [<code>build: fix documentation build (#795)</code>](https://github.com/elementary/mail/commit/52a422cb1c5f061d8a683005e44da0a1c2195096)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Docs: Add curiously omitted dependency on meson to the readme (#803)</code>](https://github.com/elementary/mail/commit/31973b403dbb0ce378d2754a9b44ec192ee4a394)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
 
@@ -657,6 +659,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
 
+- [ ] [<code>Docs: Add missing 'cd build' instruction to the readme (#86)</code>](https://github.com/elementary/capnet-assist/commit/0fd243417d72f35e60317cf18b09aa9c33b292d8)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
 
