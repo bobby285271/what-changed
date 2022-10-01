@@ -76,6 +76,11 @@
 - [ ] [<code>Remove redundant null check</code>](https://github.com/elementary/appcenter/commit/d31f59eea5c85838efff339b901f0c7aab2b6883)
 - [ ] [<code>ReleaseRow: support issues tag (#1931)</code>](https://github.com/elementary/appcenter/commit/4f0756c59b7b2ffb01f552b443d9691d1a3f5140)
 - [ ] [<code>UpdateManager: count updates size, flatpak, unpaid (#1924)</code>](https://github.com/elementary/appcenter/commit/cf8af4baa7937a8aad9160df93f6a57e71898228)
+- [ ] [<code>Update pot files</code>](https://github.com/elementary/appcenter/commit/236bc1d5ebdd31e516c813f119f0ea9f17fecb86)
+- [ ] [<code>gettext: Set the next version as action runner</code>](https://github.com/elementary/appcenter/commit/ba26ff55da8026c95525450551200418c36a108a)
+- [ ] [<code>Revert "gettext: Set the next version as action runner"</code>](https://github.com/elementary/appcenter/commit/981ab2837141198594b986fbbd03fe174907449d)
+- [ ] [<code>gettext: Use next branch by default</code>](https://github.com/elementary/appcenter/commit/9af40937b2979336fbd01c4d791e51472d35c259)
+- [ ] [<code>gettext: use ubuntu 22.04</code>](https://github.com/elementary/appcenter/commit/9ba8f3d4ad864ef28fcc75f3191b59d07125c463)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -132,6 +137,7 @@
 - [ ] [<code>Destroy overwrite dialog first (#2077)</code>](https://github.com/elementary/files/commit/b43c0c716f9baa2499cd8e4da67714996f9aec21)
 - [ ] [<code>Base ViewContainer on Box; expand content_box (#2080)</code>](https://github.com/elementary/files/commit/a34b310730393c453d09312fc44e04acdcacdd11)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Double click option (#1981)</code>](https://github.com/elementary/files/commit/558a523f347880beb408349481ce7f8f4d47ac0c)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -216,6 +222,7 @@
 - [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/c7e177a9f0ada7f01553e8fb3173b2a412b8f8c8)
 - [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/aa6bc2e5ff81c3440ebab47ce1e77ed3ec8a9cd2)
 - [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/70271ff6ea5f4d7927a679f981198ae54b3141fa)
+- [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/46aa059e9eee383b25e31384b4c93754ed662721)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -366,6 +373,8 @@
 - [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/2d691cc0ebc35dbeb5cbbe643b0decf623b668f8)
 - [ ] [<code>Gtk4/Popovers: style completion-entry (#1229)</code>](https://github.com/elementary/stylesheet/commit/c040f2b338b5ba4be03a2989dca4db3d54ab017d)
 - [ ] [<code>CheckButtons: set margin on check/radio element (#1231)</code>](https://github.com/elementary/stylesheet/commit/41d5ac23a6d3132c5d1af8210e4bd23bcf23b92f)
+- [ ] [<code>Headerlabels (#1228)</code>](https://github.com/elementary/stylesheet/commit/a37de7ac98ea2a648d77b613f18ab90babaf1b70)
+- [ ] [<code>Update pot files</code>](https://github.com/elementary/stylesheet/commit/7d423497e100200cead1e106f6e56b76da506adf)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -408,6 +417,7 @@
 - [ ] [<code>Round actions/document-* symbolic (#1132)</code>](https://github.com/elementary/icons/commit/a4c4c0f9d8a29409595a71d4365299d4eeb1f864)
 - [ ] [<code>Status: Update headphones symbolic (#1137)</code>](https://github.com/elementary/icons/commit/34da46ddd2114d6c2d1185d9bff85eaf6e020878)
 - [ ] [<code>Modernize 128px application-x-executable (#1135)</code>](https://github.com/elementary/icons/commit/f7ede701309ffbc473420076e9c87d9e97e96f76)
+- [ ] [<code>Status slashies (#1138)</code>](https://github.com/elementary/icons/commit/f4697eaeade0c9cb82f3da4d555771bc478962ec)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -636,6 +646,10 @@
 - [ ] [<code>SimpleSettingsPage: layout text smarter at small widths (#622)</code>](https://github.com/elementary/granite/commit/542342013244e7410e55730d86a04e07466929ab)
 - [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/9821b17ac027d64dd4fca5c531ba76db49fa8c13)
 - [ ] [<code>Constants: add large-icons (#621)</code>](https://github.com/elementary/granite/commit/d154288006d816f767c4141eace39f120a7f5748)
+- [ ] [<code>HeaderLabel: add optional body text (#624)</code>](https://github.com/elementary/granite/commit/2a940f1537cac26b866e968cee0c5a69a2d5a30c)
+- [ ] [<code>Appdata: mention headerlabel secondary_text</code>](https://github.com/elementary/granite/commit/c8fef6f1fd844ab49c1ad71c57f0e50e2107100a)
+- [ ] [<code>Update pot files</code>](https://github.com/elementary/granite/commit/7fb53b9fb4058115c8aca5a8cf92eb4e77668d39)
+- [ ] [<code>Re-enable gettext action</code>](https://github.com/elementary/granite/commit/8459e91a049c3f256340c939d922f4fa6e5a7235)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
