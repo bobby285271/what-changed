@@ -492,6 +492,8 @@
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
+- [ ] [<code>Update libgda-5.0.vapi (#343)</code>](https://github.com/Alecaddd/sequeler/commit/0b02ddbe8a788b34207de6296d78a5c71ab6bab1)
+- [ ] [<code>Sort table list alphabetically (#373)</code>](https://github.com/Alecaddd/sequeler/commit/dbda4e75ed5a2f2d962003d7df5513ee9e5584ef)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
