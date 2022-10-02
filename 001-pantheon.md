@@ -237,6 +237,7 @@
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
+- [ ] [<code>Handle Ryzen CPU and AMD GPU vendor string and break on first regex match (#250)</code>](https://github.com/elementary/switchboard-plug-about/commit/bd38ffcd2f4a6eb1f3c931b6665fe11330c7105c)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
