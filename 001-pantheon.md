@@ -454,6 +454,7 @@
 - [ ] [<code>Dialogs: add AccessDialog class</code>](https://github.com/elementary/greeter/commit/770bb572ed5de5038ab50f9106b4726f9b61926e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/greeter/commit/4972c1b7a07e0141eceeae3c24cc1baba921a83e)
+- [ ] [<code>disable login again while connecting (#581)</code>](https://github.com/elementary/greeter/commit/2e9a2f22ad669bcbcd0a442c91589921cfc9ada4)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
@@ -582,6 +583,9 @@
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
+- [ ] [<code>Bluetooth sharing (#130)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/853408b6e2307e71794505f024ff3fc7c80c7f91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
