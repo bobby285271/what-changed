@@ -81,6 +81,7 @@
 - [ ] [<code>Revert "gettext: Set the next version as action runner"</code>](https://github.com/elementary/appcenter/commit/981ab2837141198594b986fbbd03fe174907449d)
 - [ ] [<code>gettext: Use next branch by default</code>](https://github.com/elementary/appcenter/commit/9af40937b2979336fbd01c4d791e51472d35c259)
 - [ ] [<code>gettext: use ubuntu 22.04</code>](https://github.com/elementary/appcenter/commit/9ba8f3d4ad864ef28fcc75f3191b59d07125c463)
+- [ ] [<code>fix: Segfault from error message being freed in dialogs (#1936)</code>](https://github.com/elementary/appcenter/commit/da68394052c8a04135aff02ea24e53933b55abfc)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
