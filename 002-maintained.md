@@ -532,6 +532,8 @@
 - [ ] [<code>Warn about Wayland</code>](https://github.com/JoseExposito/touchegg/commit/4a59a8cf4e22ae44a3773d438b2428170337f5dc)
 - [ ] [<code>Add TOUCHEGG_DEVICE_TYPE environment variable to RUN_COMMAND</code>](https://github.com/JoseExposito/touchegg/commit/c828d4f94475ef3c6a3043c0afdda3d075db795d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Linter: Fix & alignment</code>](https://github.com/JoseExposito/touchegg/commit/377afd003698d0bc00e01eaa095420935330c13c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
