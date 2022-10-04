@@ -150,7 +150,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>xapp-sn-watcher: Use /dev/shm for temp files if it's available,</code>](https://github.com/linuxmint/xapp/commit/b0bc45f8e5cb2aa2afb1d76569589234feac33d6)
+- [ ] [<code>Add XAppVisibilityGroup.</code>](https://github.com/linuxmint/xapp/commit/d605433acd02f6f17d47c5350d338179770fb3d6)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
