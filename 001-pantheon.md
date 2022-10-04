@@ -82,6 +82,7 @@
 - [ ] [<code>gettext: Use next branch by default</code>](https://github.com/elementary/appcenter/commit/9af40937b2979336fbd01c4d791e51472d35c259)
 - [ ] [<code>gettext: use ubuntu 22.04</code>](https://github.com/elementary/appcenter/commit/9ba8f3d4ad864ef28fcc75f3191b59d07125c463)
 - [ ] [<code>fix: Segfault from error message being freed in dialogs (#1936)</code>](https://github.com/elementary/appcenter/commit/da68394052c8a04135aff02ea24e53933b55abfc)
+- [ ] [<code>Fix CI (#1937)</code>](https://github.com/elementary/appcenter/commit/d6fb2444bced9b0bde27fe774ad2c24c13fc8d62)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -139,6 +140,7 @@
 - [ ] [<code>Base ViewContainer on Box; expand content_box (#2080)</code>](https://github.com/elementary/files/commit/a34b310730393c453d09312fc44e04acdcacdd11)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Double click option (#1981)</code>](https://github.com/elementary/files/commit/558a523f347880beb408349481ce7f8f4d47ac0c)
+- [ ] [<code>Fix Gettext Action (#2086)</code>](https://github.com/elementary/files/commit/479b6c40ea4821cc99c9ec1bed861a3d77042f2d)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -207,6 +209,8 @@
 - [ ] [<code>Handle error on constructing flatpak bundle, fix error signalling (#143)</code>](https://github.com/elementary/sideload/commit/84d81971bf46ff135997d679574276cc71ff7de4)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update POT</code>](https://github.com/elementary/sideload/commit/cd49e58e4ecb07f7a94f3ea88037a37af565ec65)
+- [ ] [<code>Fix Gettext Action (#147)</code>](https://github.com/elementary/sideload/commit/628b5ab98eb71d1059ba2397a2f56fa4d8020733)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/sideload/commit/b22ef8cc3d3219713ef9d6f860c3d6ec35690a14)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -235,6 +239,7 @@
 - [ ] [<code>Port to Gtk4 (#80)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/958983ec88fd16cc3482ab5f01cdd8e77e2c06b6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Gettext Action (#82)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/f4d60b144675de26422fb7bb6e3db22515a332a6)
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
@@ -246,6 +251,7 @@
 - [ ] [<code>Port to GTK4 (#173)</code>](https://github.com/elementary/switchboard-plug-applications/commit/47c66875e1d431347bb5602d2140d05a156d0921)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Gettext Action (#175)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d3436601da48435faceadc3b5127ea9e3bcc70fa)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -260,6 +266,7 @@
 - [ ] [<code>Re-namespace to io.elementary.settings (#197)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2f657e653f3130d199ae914dcfa0907f9ccbec9b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update po</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d917ca40bd5609e9aaec2d94872be1ba5bdecd2b)
+- [ ] [<code>Fix Gettext Action (#199)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/288826d9b9d1886af527e273aadf8527bf91fd47)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -270,6 +277,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Redesign (#103)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/4eb077229721fdd57eda653fd6a0f26d2a2d9b84)
+- [ ] [<code>Fix Gettext Action (#105)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/7bd714434a5d8f23897131be460b9df6cb9469fd)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
@@ -293,6 +301,7 @@
 - [ ] [<code>New add/remove list pattern (#414)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e1373f58cc6d602c62ededa22228d3f703c97b44)
 - [ ] [<code>Make "Add Shortcut" translatable (#416)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/464a1f06b31b666d347ed9b9a5723838e367f972)
 - [ ] [<code>Remove empty tooltip (#417)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4e8382059657eda322142197694ad76efa43e2ee)
+- [ ] [<code>Fix Gettext Action (#422)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7eb962d2164aca43f47f927deb06208bf53bd4f5)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -310,6 +319,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Re-Namespace to io.elementary.settings.mouse-touchpad (#204)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b16f6825af410bfb3e76bd8b407119a24b9eded9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix Gettext Action (#207)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/fe8a8a46bfe2d49ee72feb0115e8e68ddb9db204)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
@@ -322,6 +332,7 @@
 - [ ] [<code>Port to GTK4 (#89)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/8f21383af8f0f33ca057d50cc7db48c9bfe5fe27)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Gettext Action (#92)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/b7ee2e93b000ac0fc487a88cf54a84e82ed91d67)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
@@ -340,6 +351,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
+- [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/b8ae5af4477d23dc5553a8cccebf7cab5bcdde3d)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
@@ -456,10 +468,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/greeter/commit/4972c1b7a07e0141eceeae3c24cc1baba921a83e)
 - [ ] [<code>disable login again while connecting (#581)</code>](https://github.com/elementary/greeter/commit/2e9a2f22ad669bcbcd0a442c91589921cfc9ada4)
+- [ ] [<code>Fix CI (#622)</code>](https://github.com/elementary/greeter/commit/a877bceecad4acedf653e7c4c04fd19942784ad4)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
 
 - [ ] [<code>Bind number of days to setting (#176)</code>](https://github.com/elementary/onboarding/commit/288434a0c228afe5cc6b552ea7bb377b52c44850)
+- [ ] [<code>Update pot files</code>](https://github.com/elementary/onboarding/commit/8612cb52ec7eb23ab36717034c96d9bd2dfbb803)
+- [ ] [<code>ci: Use gettext action for Horus (#178)</code>](https://github.com/elementary/onboarding/commit/af6ad03f6203d698729c6cff335317383c18ba6d)
+- [ ] [<code>Update main.yml (#179)</code>](https://github.com/elementary/onboarding/commit/eb9bf5e78dafd806f016c24ded59b66950895fd4)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -475,6 +491,8 @@
 - [ ] [<code>build: add systemduserunitdir option (#62)</code>](https://github.com/elementary/session-settings/commit/2a70f71f3013e360638acdf3fbb740989ac8940d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>systemd: also pull in GSD targets (#63)</code>](https://github.com/elementary/session-settings/commit/b807ea60161294958c08cb8d53e5be82308a7f5e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
 
@@ -503,6 +521,7 @@
 - [ ] [<code>Replace header icon with button (#129)</code>](https://github.com/elementary/shortcut-overlay/commit/e76fb24aa76648acfe783009c15c8da0b4fa27bd)
 - [ ] [<code>Re-show in Applications Menu (#131)</code>](https://github.com/elementary/shortcut-overlay/commit/25aa8d491a71c9b4d8fe6e95aa418977dd850228)
 - [ ] [<code>Use Gtk.EventControllerFocus (#132)</code>](https://github.com/elementary/shortcut-overlay/commit/d7d36c1bfc57171b3c3946d261123df4a243240c)
+- [ ] [<code>Fix Gettext Action (#133)</code>](https://github.com/elementary/shortcut-overlay/commit/76f90799eeaa1beb18cce93bde77e900d582ac72)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -575,6 +594,9 @@
 - [ ] [<code>Unit conversion plugin (#541)</code>](https://github.com/elementary/applications-menu/commit/771db040afe6355031889ce3968ed84eb5e6aaa6)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use regex to parse conversion plugin input (#545)</code>](https://github.com/elementary/applications-menu/commit/e44d69828361104c3771c7c9ab415ab082c8ad08)
+- [ ] [<code>Fix Gettext Action (#550)</code>](https://github.com/elementary/applications-menu/commit/c99974cba20c125fe2ae602631f08e7a102be847)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/applications-menu/commit/7d6b45d17cb556e7a0cea1c47c50fb5e3621f432)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
@@ -658,6 +680,7 @@
 - [ ] [<code>Appdata: mention headerlabel secondary_text</code>](https://github.com/elementary/granite/commit/c8fef6f1fd844ab49c1ad71c57f0e50e2107100a)
 - [ ] [<code>Update pot files</code>](https://github.com/elementary/granite/commit/7fb53b9fb4058115c8aca5a8cf92eb4e77668d39)
 - [ ] [<code>Re-enable gettext action</code>](https://github.com/elementary/granite/commit/8459e91a049c3f256340c939d922f4fa6e5a7235)
+- [ ] [<code>AppData: fix typo</code>](https://github.com/elementary/granite/commit/3251b1b1e52d227793dd4c5f4ead2a5d10a70ec5)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
