@@ -244,6 +244,9 @@
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
 
 - [ ] [<code>Handle Ryzen CPU and AMD GPU vendor string and break on first regex match (#250)</code>](https://github.com/elementary/switchboard-plug-about/commit/bd38ffcd2f4a6eb1f3c931b6665fe11330c7105c)
+- [ ] [<code>Better memory and storage info (#251)</code>](https://github.com/elementary/switchboard-plug-about/commit/fc4cdcf205d8c49601bcd5dea16007fd07bffa5a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -584,6 +587,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Listen to smooth scroll events (#466)</code>](https://github.com/elementary/wingpanel/commit/ea73ce711371b128763b6de23b86b27d6a7900d9)
+- [ ] [<code>Delete meson.build.rej</code>](https://github.com/elementary/wingpanel/commit/09d41831cddc18fb5a8b4c797596d6519a293e15)
+  - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
@@ -597,6 +602,7 @@
 - [ ] [<code>Fix Gettext Action (#550)</code>](https://github.com/elementary/applications-menu/commit/c99974cba20c125fe2ae602631f08e7a102be847)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/applications-menu/commit/7d6b45d17cb556e7a0cea1c47c50fb5e3621f432)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Switch to launching with Gdk.AppLaunchContext (#549)</code>](https://github.com/elementary/applications-menu/commit/08b4f82391ae2a829c3a0b35f9a3a4be87229390)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
@@ -647,6 +653,7 @@
 - [ ] [<code>Update codestyle (#231)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/e632893bc64245d1f3e48d60ed6095d318dc9235)
 - [ ] [<code>Better smooth scrolling (#232)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/571872353b98d316253c5ef1d264a5777cc8f677)
 - [ ] [<code>FIx last separator revealer (#233)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c368327494013bc08868c2b38abafb83b69e4b20)
+- [ ] [<code>Don't attach last separator when not in session (#234)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/24d0ce8aba8eed1b9f88a4b58c30b7c7f2c92945)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.0 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.0...HEAD)
 
