@@ -28,6 +28,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>workflow: Go back to folded style.</code>](https://github.com/linuxmint/cinnamon/commit/04c3a212cf60b2ee901a79977c39b8cf95729fc4)
 - [ ] [<code>settings: Make use of cinnamon-driver-manager shortcut</code>](https://github.com/linuxmint/cinnamon/commit/6c76516c9e107f0ec0c0e24fa7722350c0c2dcfc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: fix reload dragging pinned apps when group windows setting is disabled (#11191)</code>](https://github.com/linuxmint/cinnamon/commit/087efed237d720a0555ad6d055ab0e188e591aab)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>replace deprecated use of GObject.SIGNAL_RUN_FIRST by GObject.SignalFlags.RUN_FIRST (#11128)</code>](https://github.com/linuxmint/cinnamon/commit/9ace2c4416b131f7d35728d168f8d91d12978e3c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_windows.py: Properly import CDesktopEnums (#10844)</code>](https://github.com/linuxmint/cinnamon/commit/3d4e67e952adf50ed1549027b05f32fdf98cd62f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -163,7 +169,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Fix badge, formatting</code>](https://github.com/linuxmint/xreader/commit/5a3bb36bb431cc52e4eb6c8f5bae6673adbc610c)
 - [ ] [<code>Change github workflow's file extension.</code>](https://github.com/linuxmint/xreader/commit/3012c60d1858d81ed68519da9c5d5e8eb3d870d5)
+- [ ] [<code>build/i18n: migrate from intltool to gettext (#552)</code>](https://github.com/linuxmint/xreader/commit/bbac5966d1de91452033b3800c0a29a24e3a31a5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
@@ -179,6 +188,10 @@
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/hypnotix/commit/067e90a14a1c28de5bd8ca4e2e9adb2f5f98c273)
 - [ ] [<code>Fix error when the Content-Length header is missing (#241)</code>](https://github.com/linuxmint/hypnotix/commit/3190333b40dc7419f9767bf23465be8e84fb4c93)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fixed disabling osc via MPV options (#240) (#242)</code>](https://github.com/linuxmint/hypnotix/commit/d080f27af5226e27d20a30713f80b31e3f826c56)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update common.py (#244)</code>](https://github.com/linuxmint/hypnotix/commit/8f5e38c850a0fcab2e07856b0f915ad4ad62088c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
