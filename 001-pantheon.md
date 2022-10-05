@@ -110,6 +110,9 @@
 - [ ] [<code>Remove unused properties (#1205)</code>](https://github.com/elementary/code/commit/c6750d9721007dc432f5b84f217e52128104757b)
 - [ ] [<code>Change key to trigger rebuild completion word list (#1149)</code>](https://github.com/elementary/code/commit/17c0c835a207c10948560f5369d91cb13d033f51)
 - [ ] [<code>Global search selected (#1049)</code>](https://github.com/elementary/code/commit/8e1453442375226cb4a3fc5a92de8190d4a60dbd)
+- [ ] [<code>Move strip trailing whitespace into main code; remove plugin (#1151)</code>](https://github.com/elementary/code/commit/c5908dbdb2bc1aa3391dfb0f1e5c5eeb05b45e20)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -671,6 +674,7 @@
 - [ ] [<code>Update codestyle (#238)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/dd6b8e757b15a208802b48277bea188279322330)
 - [ ] [<code>PulseAudioManager: fallback to fd.o icon name (#239)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ad97e2457e3b87ceb0ab4422f63768848ad8f613)
 - [ ] [<code>PulseAudioManager: fall back to device form factor when icon name unavailable (#240)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/76173b6661de4c64f7d95b7d3ad6b748dfda5073)
+- [ ] [<code>PulseAudioManager: add more form factor icon fallbacks (#241)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6e47ddf9ae8eac2f32e57bb4aade5a076406128c)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
