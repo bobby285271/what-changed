@@ -145,6 +145,9 @@
 - [ ] [<code>Double click option (#1981)</code>](https://github.com/elementary/files/commit/558a523f347880beb408349481ce7f8f4d47ac0c)
 - [ ] [<code>Fix Gettext Action (#2086)</code>](https://github.com/elementary/files/commit/479b6c40ea4821cc99c9ec1bed861a3d77042f2d)
 
+#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
+
+
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
 - [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
