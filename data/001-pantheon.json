@@ -33,6 +33,9 @@
             "attr_path": "pantheon.elementary-files"
         },
         {
+            "attr_path": "pantheon.elementary-iconbrowser"
+        },
+        {
             "attr_path": "pantheon.elementary-mail"
         },
         {
