@@ -34,6 +34,10 @@
 - [ ] [<code>replace deprecated use of GObject.SIGNAL_RUN_FIRST by GObject.SignalFlags.RUN_FIRST (#11128)</code>](https://github.com/linuxmint/cinnamon/commit/9ace2c4416b131f7d35728d168f8d91d12978e3c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_windows.py: Properly import CDesktopEnums (#10844)</code>](https://github.com/linuxmint/cinnamon/commit/3d4e67e952adf50ed1549027b05f32fdf98cd62f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes.py: Don't print an error if metadata.json is missing</code>](https://github.com/linuxmint/cinnamon/commit/dabf4d31aab341714061541383bac77343077aab)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_themes.py: Separate light/dark/darker themes</code>](https://github.com/linuxmint/cinnamon/commit/71351625223b98f88e54e25f733c81f436d1f0c5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -100,6 +104,8 @@
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [3a202e401abca98623cd1dbc412221682081244c → HEAD](https://github.com/linuxmint/mint-themes/compare/3a202e401abca98623cd1dbc412221682081244c...HEAD)
 
+- [ ] [<code>GTK-4 directory and assets added in update-variations.py script (#401)</code>](https://github.com/linuxmint/mint-themes/commit/9c84c32a8fcd487ab81c4da5e02c702cda1cbe2e)
+- [ ] [<code>Remove Mint-Y-Colors directory</code>](https://github.com/linuxmint/mint-themes/commit/db49287a2274c951201f2ede232ea0e315d400c2)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
