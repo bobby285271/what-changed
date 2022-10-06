@@ -567,6 +567,7 @@
 - [ ] [<code>WindowClone: Always add the click action (#1464)</code>](https://github.com/elementary/gala/commit/d9ebac365ca5d1f427070ac99d255024b18026a7)
 - [ ] [<code>Option to dim wallpapers when dark style is active (#1462)</code>](https://github.com/elementary/gala/commit/16492b1f7103e7d2fb89e13eeaf69880f2885247)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Don't animate workspaces behind multitasking view (#1466)</code>](https://github.com/elementary/gala/commit/a12c1a1c475e394960f5c96faa3b9905490ba622)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -695,6 +696,7 @@
 - [ ] [<code>Update pot files</code>](https://github.com/elementary/granite/commit/7fb53b9fb4058115c8aca5a8cf92eb4e77668d39)
 - [ ] [<code>Re-enable gettext action</code>](https://github.com/elementary/granite/commit/8459e91a049c3f256340c939d922f4fa6e5a7235)
 - [ ] [<code>AppData: fix typo</code>](https://github.com/elementary/granite/commit/3251b1b1e52d227793dd4c5f4ead2a5d10a70ec5)
+- [ ] [<code>SettingsSidebarRow.vala - Fix status label showing but empty (#628)</code>](https://github.com/elementary/granite/commit/694be994a66f91052106527f66a2bc064d6f6a02)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
