@@ -357,6 +357,8 @@
 - [ ] [<code>small UI changes</code>](https://github.com/lainsce/khronos/commit/dc31ec10f8cff193dcf56db81837a3645372daa9)
 - [ ] [<code>Some more stuff</code>](https://github.com/lainsce/khronos/commit/d33940261390dd645c09737e4ad1d0bea77f6c18)
 - [ ] [<code>Update flatpak.yml</code>](https://github.com/lainsce/khronos/commit/676ffa0573e0c15477d3e6513cad95a676240c92)
+- [ ] [<code>Add Turkish translation (#120)</code>](https://github.com/lainsce/khronos/commit/e185813e1419d390407c65dd958047612199272f)
+- [ ] [<code>Add Czech translations (#117)</code>](https://github.com/lainsce/khronos/commit/f1c037bd28cafda026db182267b02895f6fe19c5)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
