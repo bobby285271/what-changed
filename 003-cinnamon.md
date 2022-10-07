@@ -127,6 +127,7 @@
 - [ ] [<code>Actions: Escape path spaces when they are unquoted</code>](https://github.com/linuxmint/nemo/commit/2c0ed660fd95f96442d97202283cae2e91ab344d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>eel: Merge shell character escape functions</code>](https://github.com/linuxmint/nemo/commit/2f68abd5f1651bef0405d0104b9c09ef2908f9da)
+- [ ] [<code>icon view: don't highlight selected icons</code>](https://github.com/linuxmint/nemo/commit/fdd47db7a7399ae12e21912fa33bd81cd1ba0eac)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
