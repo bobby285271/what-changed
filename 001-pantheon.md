@@ -405,52 +405,8 @@
 - [ ] [<code>Fix heading label padding in lists (#1233)</code>](https://github.com/elementary/stylesheet/commit/2de392248d24447b6f925c85e5b7d9aeebed58ed)
 - [ ] [<code>Scales: correctly style mark labels (#1234)</code>](https://github.com/elementary/stylesheet/commit/1efde1df631c46d51cb5e472fa160f6c150bd5ec)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
 
-- [ ] [<code>preferences-desktop: round square, remove screws (#1102)</code>](https://github.com/elementary/icons/commit/98589ee469b7d58c9ac559f24438b9625d3b74cb)
-- [ ] [<code>Redesign Night Light (#1104)</code>](https://github.com/elementary/icons/commit/91e01e3f6d798f8f77236f085b171a5c4f866902)
-- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/27486795f6d1184fb43c624cb72473dd591d4380)
-- [ ] [<code>Add preferences-desktop-theme (#1105)</code>](https://github.com/elementary/icons/commit/c1126e1873475c3579b9b84374abc3e76bd82ca2)
-- [ ] [<code>Clean up prefs-desktop-workspaces (#1106)</code>](https://github.com/elementary/icons/commit/cc7424c4c89acfe3be1a9014a26fee2ece2180b6)
-- [ ] [<code>Add 128px prefs-desktop-workspaces</code>](https://github.com/elementary/icons/commit/91493a45bf75824ca90a18abefe06d20f46a2046)
-- [ ] [<code>Add 128px icons for initial-setup (#1082)</code>](https://github.com/elementary/icons/commit/7ec88ef977938d202334c1a29578791800d9692d)
-- [ ] [<code>Add computer-fail color icons (#1107)</code>](https://github.com/elementary/icons/commit/af9b76f1cc3a845db09e0fc28c578268d5ef4ae0)
-- [ ] [<code>Square image missing (#1108)</code>](https://github.com/elementary/icons/commit/0415bc9ed034ffd66836af44e4db999e3d09e0c6)
-- [ ] [<code>Update Flatpak branding (#1114)</code>](https://github.com/elementary/icons/commit/97ae604ea404b772c06d7e9da8ce2e2072554d6b)
-- [ ] [<code>Actions: update squares for document-* (#1112)</code>](https://github.com/elementary/icons/commit/5b311c312767d49db834c8d3b9534c0a1c9bc1b7)
-- [ ] [<code>Categories: prefs-desktop-wallpaper → prefs-desktop (#1109)</code>](https://github.com/elementary/icons/commit/bc2afafaa0d4a3f05306440c4368944bcf3a9d92)
-- [ ] [<code>Remove apps/office-address-book (#1117)</code>](https://github.com/elementary/icons/commit/04fafeee8d3582ae58af19acdbe6d97097cdc039)
-- [ ] [<code>Mimes: remove Flash (#1116)</code>](https://github.com/elementary/icons/commit/fc808a02a973e787b7a2b22764d86f64117d1d9e)
-- [ ] [<code>Mime links (#1115)</code>](https://github.com/elementary/icons/commit/bee5165a20028c86a3f28cf8f4467615edae9f7e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>FileTypes: Fix incorrect SVG symlink (#1124)</code>](https://github.com/elementary/icons/commit/eb811dc79f51e506d1e33cb2354741c88f010cf5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Categories: update preferences-desktop-keyboard (#1110)</code>](https://github.com/elementary/icons/commit/1a0968952ab13b8cc35622fc909c9c1ee89a5505)
-- [ ] [<code>Mimes sharedlib (#1119)</code>](https://github.com/elementary/icons/commit/5b201de87cfe5a7d167a4616f31ad9da1d007db3)
-- [ ] [<code>FileTypes: update markdown icon (#1120)</code>](https://github.com/elementary/icons/commit/b367d11740b68dcf2870844f07bebc4e1e30b557)
-- [ ] [<code>Status: add 16px process-completed (#1121)</code>](https://github.com/elementary/icons/commit/93e73327205ae9b606559efea1a2d020558a5339)
-- [ ] [<code>Status: add process-paused (#1122)</code>](https://github.com/elementary/icons/commit/1576a7d2b16ba2e8e71fad1e138a603e2eaa098a)
-- [ ] [<code>FileTypes: Use new arrow shape (#1062)</code>](https://github.com/elementary/icons/commit/e738e71bc909239b9508d72c62d4f92d562456da)
-- [ ] [<code>Update media stop icon (#1085)</code>](https://github.com/elementary/icons/commit/a3a78b5819b802ed254343f7aec5dc77459d8c1d)
-- [ ] [<code>FileTypes: Add symlinks for PGP files (#1125)</code>](https://github.com/elementary/icons/commit/12e23aeba5675a4554a1ac32cabcc4c6e2c8d5f2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Apps: redesign application-default-icon (#1128)</code>](https://github.com/elementary/icons/commit/f5709670fd87485d9ba51e757dcd593e7d03a7d6)
-- [ ] [<code>status: round location icons (#1131)</code>](https://github.com/elementary/icons/commit/ced8680a29313c8044543cecabd0bf0664d5072e)
-- [ ] [<code>Update symbolic tags (#1130)</code>](https://github.com/elementary/icons/commit/cb4ef316fb81fe81dc6db00cc3b92c2f8815afd5)
-- [ ] [<code>Update symbolic bookmark icons (#1129)</code>](https://github.com/elementary/icons/commit/76ef13390a1c54b0d2f1e43d6720eccc8b9b5a84)
-- [ ] [<code>Status: add 48px changes-prevent symlink</code>](https://github.com/elementary/icons/commit/5c5150ba5e1fcee1cfbe320121e5351ae3249e9e)
-- [ ] [<code>AppData: update release notes for 7.1.0</code>](https://github.com/elementary/icons/commit/67c2a41915e873d09ca7d3b81a9bf0fbe1f7c827)
-- [ ] [<code>Categories: symlink preferences-desktop-wallpaper (#1134)</code>](https://github.com/elementary/icons/commit/f7dc5864ed03ff136f6208f684602d41d6990aa5)
-- [ ] [<code>Rounded audio-volume (#1043)</code>](https://github.com/elementary/icons/commit/4ec55c473ddca42f662d205f96db3600d2dc1958)
-- [ ] [<code>Round actions/document-* symbolic (#1132)</code>](https://github.com/elementary/icons/commit/a4c4c0f9d8a29409595a71d4365299d4eeb1f864)
-- [ ] [<code>Status: Update headphones symbolic (#1137)</code>](https://github.com/elementary/icons/commit/34da46ddd2114d6c2d1185d9bff85eaf6e020878)
-- [ ] [<code>Modernize 128px application-x-executable (#1135)</code>](https://github.com/elementary/icons/commit/f7ede701309ffbc473420076e9c87d9e97e96f76)
-- [ ] [<code>Status slashies (#1138)</code>](https://github.com/elementary/icons/commit/f4697eaeade0c9cb82f3da4d555771bc478962ec)
-- [ ] [<code>Devices: add audio-subwoofer-symbolic (#1140)</code>](https://github.com/elementary/icons/commit/406efd8a04fbc56786a7c5bab7f10de44cf0f00f)
-- [ ] [<code>Release 7.1.0 (#1133)</code>](https://github.com/elementary/icons/commit/9b5b27167e4211e76a2ae04223fbc6462e67afbd)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
