@@ -83,6 +83,7 @@
 - [ ] [<code>gettext: use ubuntu 22.04</code>](https://github.com/elementary/appcenter/commit/9ba8f3d4ad864ef28fcc75f3191b59d07125c463)
 - [ ] [<code>fix: Segfault from error message being freed in dialogs (#1936)</code>](https://github.com/elementary/appcenter/commit/da68394052c8a04135aff02ea24e53933b55abfc)
 - [ ] [<code>Fix CI (#1937)</code>](https://github.com/elementary/appcenter/commit/d6fb2444bced9b0bde27fe774ad2c24c13fc8d62)
+- [ ] [<code>AppData: add 4.0.0 release notes (#1938)</code>](https://github.com/elementary/appcenter/commit/494355ca237b1ccbaa4c11932102e10531cdf3dc)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -377,6 +378,7 @@
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
 - [ ] [<code>Animate switches (#225)</code>](https://github.com/elementary/switchboard-plug-sound/commit/f093e716c84e154509ec1620a9f47a6c22ae5a0a)
+- [ ] [<code>PulseAudioManager: add device form factor icon fallbacks (#228)</code>](https://github.com/elementary/switchboard-plug-sound/commit/34fd8e0ed3abe12bd27b967dab5d2c876994ac93)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -400,6 +402,8 @@
 - [ ] [<code>CheckButtons: set margin on check/radio element (#1231)</code>](https://github.com/elementary/stylesheet/commit/41d5ac23a6d3132c5d1af8210e4bd23bcf23b92f)
 - [ ] [<code>Headerlabels (#1228)</code>](https://github.com/elementary/stylesheet/commit/a37de7ac98ea2a648d77b613f18ab90babaf1b70)
 - [ ] [<code>Update pot files</code>](https://github.com/elementary/stylesheet/commit/7d423497e100200cead1e106f6e56b76da506adf)
+- [ ] [<code>Fix heading label padding in lists (#1233)</code>](https://github.com/elementary/stylesheet/commit/2de392248d24447b6f925c85e5b7d9aeebed58ed)
+- [ ] [<code>Scales: correctly style mark labels (#1234)</code>](https://github.com/elementary/stylesheet/commit/1efde1df631c46d51cb5e472fa160f6c150bd5ec)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.0.0 → HEAD](https://github.com/elementary/icons/compare/7.0.0...HEAD)
 
@@ -443,6 +447,11 @@
 - [ ] [<code>Status: Update headphones symbolic (#1137)</code>](https://github.com/elementary/icons/commit/34da46ddd2114d6c2d1185d9bff85eaf6e020878)
 - [ ] [<code>Modernize 128px application-x-executable (#1135)</code>](https://github.com/elementary/icons/commit/f7ede701309ffbc473420076e9c87d9e97e96f76)
 - [ ] [<code>Status slashies (#1138)</code>](https://github.com/elementary/icons/commit/f4697eaeade0c9cb82f3da4d555771bc478962ec)
+- [ ] [<code>Devices: add audio-subwoofer-symbolic (#1140)</code>](https://github.com/elementary/icons/commit/406efd8a04fbc56786a7c5bab7f10de44cf0f00f)
+- [ ] [<code>Release 7.1.0 (#1133)</code>](https://github.com/elementary/icons/commit/9b5b27167e4211e76a2ae04223fbc6462e67afbd)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -568,6 +577,9 @@
 - [ ] [<code>Option to dim wallpapers when dark style is active (#1462)</code>](https://github.com/elementary/gala/commit/16492b1f7103e7d2fb89e13eeaf69880f2885247)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Don't animate workspaces behind multitasking view (#1466)</code>](https://github.com/elementary/gala/commit/a12c1a1c475e394960f5c96faa3b9905490ba622)
+- [ ] [<code>DnD: Stop using captured_event in Mutter 42 (#1468)</code>](https://github.com/elementary/gala/commit/47c4e8346b99cd07ff9477da5259f4de3c21a719)
+- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d536ce1618ae9abccaa2324b5c12265e7eab23d9)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/f54d0860f80d04cab75b108061b56bf426450a6e)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -610,6 +622,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/applications-menu/commit/7d6b45d17cb556e7a0cea1c47c50fb5e3621f432)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Switch to launching with Gdk.AppLaunchContext (#549)</code>](https://github.com/elementary/applications-menu/commit/08b4f82391ae2a829c3a0b35f9a3a4be87229390)
+- [ ] [<code>ci: Run the tests (#551)</code>](https://github.com/elementary/applications-menu/commit/dc38f698c0a5786e32fe14dcf67e538ae533e668)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.0...HEAD)
 
@@ -622,6 +635,7 @@
 - [ ] [<code>Bluetooth sharing (#130)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/853408b6e2307e71794505f024ff3fc7c80c7f91)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Add Bluetooth sharing files to POTFILES (#173)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/669b13278355e16881520ca2e95ae4aed6c991ba)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
@@ -739,6 +753,7 @@
 - [ ] [<code>Remove lupin-support from pool (#614)</code>](https://github.com/elementary/os/commit/a6fb13f66dcf19086b812cbedb0f06b89a0b5459)
 - [ ] [<code>Issue Templates: point to contributor docs instead of github org (#619)</code>](https://github.com/elementary/os/commit/d796dde207ce3526ecd3db20dc99f905e8776e07)
 - [ ] [<code>Add responsive light/dark mode logos to README.md (#622)</code>](https://github.com/elementary/os/commit/3a78a90d91d7a802798452a02453afbc3d218941)
+- [ ] [<code>Add safe graphics option to boot menu (#627)</code>](https://github.com/elementary/os/commit/73d4076b1fc1425b4ecd685d0bea1562e24cca3e)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
