@@ -359,6 +359,7 @@
 - [ ] [<code>Update flatpak.yml</code>](https://github.com/lainsce/khronos/commit/676ffa0573e0c15477d3e6513cad95a676240c92)
 - [ ] [<code>Add Turkish translation (#120)</code>](https://github.com/lainsce/khronos/commit/e185813e1419d390407c65dd958047612199272f)
 - [ ] [<code>Add Czech translations (#117)</code>](https://github.com/lainsce/khronos/commit/f1c037bd28cafda026db182267b02895f6fe19c5)
+- [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/d4f7e1ea314ba4197fafdb310bb1c04cc5d450ef)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
