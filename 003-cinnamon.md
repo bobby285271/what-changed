@@ -116,8 +116,10 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/muffin/commit/273a3a9bf82bee71f208bcf656f0c5b4412c1e11)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tooltips: ensure tooltips are viewable.</code>](https://github.com/linuxmint/muffin/commit/d7d44599ac2c535104ad9f036f5fb0982e3c7ec8)
+- [ ] [<code>window-props: Change a warning to a debug message.</code>](https://github.com/linuxmint/muffin/commit/1220f469193958148aa998bbc040971d1b3330ee)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
