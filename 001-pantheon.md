@@ -593,6 +593,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Add Bluetooth sharing files to POTFILES (#173)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/669b13278355e16881520ca2e95ae4aed6c991ba)
+- [ ] [<code>Bluetooth: Fix gettext format (#175)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ae30fb399fe1defd7a9d7c91028136e204b8924c)
+- [ ] [<code>Bluetooth: Improve translatability (#176)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/132859639fad85c930aa673708f2f3c36da9b8f5)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
