@@ -190,6 +190,8 @@
 
 - [ ] [<code>build: Drop unused ubuntu-bionic-patched-vte option (#679)</code>](https://github.com/elementary/terminal/commit/59726d0d5e32501c7ffe867ff5cf97d8b7e27e27)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>Use fc to get previous command (#690)</code>](https://github.com/elementary/terminal/commit/c69fc3c85e82a1b2b63f6b05a97daaa6dcd21fed)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -313,6 +315,7 @@
 - [ ] [<code>Make "Add Shortcut" translatable (#416)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/464a1f06b31b666d347ed9b9a5723838e367f972)
 - [ ] [<code>Remove empty tooltip (#417)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4e8382059657eda322142197694ad76efa43e2ee)
 - [ ] [<code>Fix Gettext Action (#422)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7eb962d2164aca43f47f927deb06208bf53bd4f5)
+- [ ] [<code>Add ibus-rime to InstallList (#424)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/dd58fe24bc7c991a7c26496c3dae1496c6f032b7)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
