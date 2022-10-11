@@ -94,6 +94,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add check for termination of by_day_array (#760)</code>](https://github.com/elementary/calendar/commit/f041aa385b1bece096a8b05b9be90014644563c5)
+- [ ] [<code>GridDay: Fix day in month in grid with GLib 2.73.1+ (#763)</code>](https://github.com/elementary/calendar/commit/20b0983c85935bedef065b786ec8bbca55ba7d9e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
@@ -114,6 +115,8 @@
 - [ ] [<code>Move strip trailing whitespace into main code; remove plugin (#1151)</code>](https://github.com/elementary/code/commit/c5908dbdb2bc1aa3391dfb0f1e5c5eeb05b45e20)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix meson warning for run_command (#1207)</code>](https://github.com/elementary/code/commit/0410f335cc516510a9f3d00895d886e15009361a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -149,6 +152,7 @@
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
 
+- [ ] [<code>Update for Icons 7.1.0 (#26)</code>](https://github.com/elementary/iconbrowser/commit/ea167a72d36000293aa56bfdc791b33386636be8)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -408,6 +412,10 @@
 - [ ] [<code>Update pot files</code>](https://github.com/elementary/stylesheet/commit/7d423497e100200cead1e106f6e56b76da506adf)
 - [ ] [<code>Fix heading label padding in lists (#1233)</code>](https://github.com/elementary/stylesheet/commit/2de392248d24447b6f925c85e5b7d9aeebed58ed)
 - [ ] [<code>Scales: correctly style mark labels (#1234)</code>](https://github.com/elementary/stylesheet/commit/1efde1df631c46d51cb5e472fa160f6c150bd5ec)
+- [ ] [<code>Release 7.0.1 (#1230)</code>](https://github.com/elementary/stylesheet/commit/5fbc525f2f3b0e8dd15298401516a9fae96dbe63)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
 
@@ -540,6 +548,7 @@
 - [ ] [<code>DnD: Stop using captured_event in Mutter 42 (#1468)</code>](https://github.com/elementary/gala/commit/47c4e8346b99cd07ff9477da5259f4de3c21a719)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d536ce1618ae9abccaa2324b5c12265e7eab23d9)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/f54d0860f80d04cab75b108061b56bf426450a6e)
+- [ ] [<code>WindowClone: Make sure that the clone is setup before using it (#1470)</code>](https://github.com/elementary/gala/commit/2743c44285358737bed3ab56d7f1194125fa30eb)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -604,6 +613,7 @@
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.0...HEAD)
 
 - [ ] [<code>Update codestyle (#302)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/638a99085317966211a17cac7ed993349616c4e5)
+- [ ] [<code>GridDay: Do not connect to the notify signal for the property (#305)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/845ac1345124571fe995ab7138d5dfe4d29847e9)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
 
@@ -675,6 +685,10 @@
 - [ ] [<code>Re-enable gettext action</code>](https://github.com/elementary/granite/commit/8459e91a049c3f256340c939d922f4fa6e5a7235)
 - [ ] [<code>AppData: fix typo</code>](https://github.com/elementary/granite/commit/3251b1b1e52d227793dd4c5f4ead2a5d10a70ec5)
 - [ ] [<code>SettingsSidebarRow.vala - Fix status label showing but empty (#628)</code>](https://github.com/elementary/granite/commit/694be994a66f91052106527f66a2bc064d6f6a02)
+- [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/17c20f30bfa90041afadcd04f790bcae0ff5bb31)
+- [ ] [<code>Release 7.1.0 (#626)</code>](https://github.com/elementary/granite/commit/d79db0b7132eca09319c3481befdf8bc241445a9)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
