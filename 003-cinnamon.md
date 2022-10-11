@@ -72,8 +72,14 @@
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1311591c066e7d8a3996b51ac6993a62690aa1bf)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Clean up readme.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/004bd3bdff2ba849a82bb986995dc2a9f99392bd)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code> <code>refs/heads/suspend-config-hidpi-fixes.lmde5</code> <code>refs/heads/suspend-config-hidpi-fixes.mint21</code></sub>
+  - <sub>Tags: <code>refs/heads/suspend-config-hidpi-fixes.lmde5</code> <code>refs/heads/suspend-config-hidpi-fixes.mint21</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Improve event grabber debugging info.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/484c3c03cd076057305696c3e7f638065a8c82b6)
+- [ ] [<code>Rework behavior surrounding sleep, display changes, fractional</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d23d1ea63fc2e9b2a635413d2a3d88a9dbf99715)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Rework stack management, separate backup locker lifecycle from main</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0fb83ef0baf7969a4e15e0cc33617c66f0d481e9)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
@@ -166,8 +172,15 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>xapp-sn-watcher: Use /dev/shm for temp files if it's available,</code>](https://github.com/linuxmint/xapp/commit/b0bc45f8e5cb2aa2afb1d76569589234feac33d6)
 - [ ] [<code>Add XAppVisibilityGroup.</code>](https://github.com/linuxmint/xapp/commit/d605433acd02f6f17d47c5350d338179770fb3d6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-debug: Print the topic name in logging output.</code>](https://github.com/linuxmint/xapp/commit/ad9ba32d53981fd5cb610fe35e57224332a42bb5)
+- [ ] [<code>sn-item: Don't update the icon name if the tooltip was also updated.</code>](https://github.com/linuxmint/xapp/commit/fb2fec6c272a43edff22e8f690850f53a65711f8)
+- [ ] [<code>sn-item: Don't update the id property unless it has changed.</code>](https://github.com/linuxmint/xapp/commit/74a2ef054c95f24be8626cbe536b181392a5dcb8)
+- [ ] [<code>xapp-status-icon.c: Update all icons when we lose or regain our</code>](https://github.com/linuxmint/xapp/commit/8d0a712fba65e71b1bc0fd226c8b99af4b730ed8)
+- [ ] [<code>xapp-sn-watcher: Add a debug key to specify flags.</code>](https://github.com/linuxmint/xapp/commit/11f2ad9141dbb6444daa511f4ea6853894c56059)
+- [ ] [<code>sn-item: Silence warning caused when an app exits without notice.</code>](https://github.com/linuxmint/xapp/commit/bdafe1c1436e633792e6a335f03e864762568329)
+- [ ] [<code>Use G_LOG_LEVEL_MESSAGE for debugging messages.</code>](https://github.com/linuxmint/xapp/commit/3fba699d5bae1d0b44fc1d111e9304f5d54ce435)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
