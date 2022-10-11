@@ -179,6 +179,7 @@
 - [ ] [<code>Remove leftover temporary warnings (#722)</code>](https://github.com/elementary/photos/commit/3f137054840f8f707d47d8028bf7bae7f6a3f16a)
 - [ ] [<code>Add flatpak folders to gitignore (#720)</code>](https://github.com/elementary/photos/commit/04281c372f2c92f910c2a2a2697c686a481a7998)
 - [ ] [<code>Update appdata for next release (#721)</code>](https://github.com/elementary/photos/commit/1494d1ebe4ba52dac1c796115190e888547bd936)
+- [ ] [<code>Fix empty Open with context submenus (#723)</code>](https://github.com/elementary/photos/commit/b0521d570294d62bfa404bc10ee081a276099759)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -549,6 +550,9 @@
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d536ce1618ae9abccaa2324b5c12265e7eab23d9)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/f54d0860f80d04cab75b108061b56bf426450a6e)
 - [ ] [<code>WindowClone: Make sure that the clone is setup before using it (#1470)</code>](https://github.com/elementary/gala/commit/2743c44285358737bed3ab56d7f1194125fa30eb)
+- [ ] [<code>App: Implement Applications Management (#1241)</code>](https://github.com/elementary/gala/commit/7c540a2a0669fb7de84ed1071f85f5d331398040)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
