@@ -393,29 +393,8 @@
 
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.1 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.1...HEAD)
 
-- [ ] [<code>Update stylesheet.appdata.xml.in (#1206)</code>](https://github.com/elementary/stylesheet/commit/bfd1152f519fe9db7c8737f7afbc562774bd6f55)
-- [ ] [<code>Update .pot</code>](https://github.com/elementary/stylesheet/commit/5db43a8e33c7ce9f1c2b192b3b423cb7dc8a1bfb)
-- [ ] [<code>Lists: fix .title-4 padding (#1208)</code>](https://github.com/elementary/stylesheet/commit/fbc805e5544ea4faf9add6d0f4d338bed0cb54ca)
-- [ ] [<code>Headerbars: fix spacing (#1210)</code>](https://github.com/elementary/stylesheet/commit/1e9d2fb612417ec3ee29f28a6b0306e731632106)
-- [ ] [<code>Button: inherited label properties (#1214)</code>](https://github.com/elementary/stylesheet/commit/bbc21c83de3d5fe89370f74b371b51a8c3dac689)
-- [ ] [<code>Infobars: fix button margin when no close (#1213)</code>](https://github.com/elementary/stylesheet/commit/cf94c760935ebb5614a0b10097feb9e3f132bd50)
-- [ ] [<code>Index: make checkerboard much more subtle (#1215)</code>](https://github.com/elementary/stylesheet/commit/112877a4539344580c08917beb8ec8d871b7b92a)
-- [ ] [<code>Menus/Popovers: dim disabled arrows, not shrink (#1220)</code>](https://github.com/elementary/stylesheet/commit/ce49cc8aadb1d920cb631c485d479294b1557aea)
-- [ ] [<code>Gtk4/Scales: fix mark selector (#1221)</code>](https://github.com/elementary/stylesheet/commit/de257a1c5c4cddd262fefc94583784d88d0b13c6)
-- [ ] [<code>HeaderBars: set large-icons size to 24px (#1222)</code>](https://github.com/elementary/stylesheet/commit/bd1cb779a24cf5620a58fbafa38760bf6adfa5e1)
-- [ ] [<code>SimpleSettingsPage: adjust header layout and text size (#1226)</code>](https://github.com/elementary/stylesheet/commit/d4bb07555d4aedd2e479aefc6305efa461a74838)
-- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/2d691cc0ebc35dbeb5cbbe643b0decf623b668f8)
-- [ ] [<code>Gtk4/Popovers: style completion-entry (#1229)</code>](https://github.com/elementary/stylesheet/commit/c040f2b338b5ba4be03a2989dca4db3d54ab017d)
-- [ ] [<code>CheckButtons: set margin on check/radio element (#1231)</code>](https://github.com/elementary/stylesheet/commit/41d5ac23a6d3132c5d1af8210e4bd23bcf23b92f)
-- [ ] [<code>Headerlabels (#1228)</code>](https://github.com/elementary/stylesheet/commit/a37de7ac98ea2a648d77b613f18ab90babaf1b70)
-- [ ] [<code>Update pot files</code>](https://github.com/elementary/stylesheet/commit/7d423497e100200cead1e106f6e56b76da506adf)
-- [ ] [<code>Fix heading label padding in lists (#1233)</code>](https://github.com/elementary/stylesheet/commit/2de392248d24447b6f925c85e5b7d9aeebed58ed)
-- [ ] [<code>Scales: correctly style mark labels (#1234)</code>](https://github.com/elementary/stylesheet/commit/1efde1df631c46d51cb5e472fa160f6c150bd5ec)
-- [ ] [<code>Release 7.0.1 (#1230)</code>](https://github.com/elementary/stylesheet/commit/5fbc525f2f3b0e8dd15298401516a9fae96dbe63)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
@@ -673,26 +652,8 @@
 - [ ] [<code>PulseAudioManager: add more form factor icon fallbacks (#241)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6e47ddf9ae8eac2f32e57bb4aade5a076406128c)
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.0.0 → HEAD](https://github.com/elementary/granite/compare/7.0.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
 
-- [ ] [<code>README: Update required GTK version (#612)</code>](https://github.com/elementary/granite/commit/5872270d557661adc20290a00bb151a4ce04ff7e)
-- [ ] [<code>Constants: Add STYLE_CLASS_RICH_LIST (#614)</code>](https://github.com/elementary/granite/commit/b9db5a93ecd9555a444951255b12bcd0b8fcf5b9)
-- [ ] [<code>MessageDialog: Fix large height bug (#616)</code>](https://github.com/elementary/granite/commit/28e9b60fc8257b2d8e76412518e96a7e03efc6e4)
-- [ ] [<code>Added missing style constants (sidebar + background) (#618)</code>](https://github.com/elementary/granite/commit/1d8cee173a97d35e952d3d6940c4b74860939f97)
-- [ ] [<code>Make Toast Wrap (#613)</code>](https://github.com/elementary/granite/commit/6167af53065f510baec6da127b878366dc9c4136)
-- [ ] [<code>SimpleSettingsPage: layout text smarter at small widths (#622)</code>](https://github.com/elementary/granite/commit/542342013244e7410e55730d86a04e07466929ab)
-- [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/9821b17ac027d64dd4fca5c531ba76db49fa8c13)
-- [ ] [<code>Constants: add large-icons (#621)</code>](https://github.com/elementary/granite/commit/d154288006d816f767c4141eace39f120a7f5748)
-- [ ] [<code>HeaderLabel: add optional body text (#624)</code>](https://github.com/elementary/granite/commit/2a940f1537cac26b866e968cee0c5a69a2d5a30c)
-- [ ] [<code>Appdata: mention headerlabel secondary_text</code>](https://github.com/elementary/granite/commit/c8fef6f1fd844ab49c1ad71c57f0e50e2107100a)
-- [ ] [<code>Update pot files</code>](https://github.com/elementary/granite/commit/7fb53b9fb4058115c8aca5a8cf92eb4e77668d39)
-- [ ] [<code>Re-enable gettext action</code>](https://github.com/elementary/granite/commit/8459e91a049c3f256340c939d922f4fa6e5a7235)
-- [ ] [<code>AppData: fix typo</code>](https://github.com/elementary/granite/commit/3251b1b1e52d227793dd4c5f4ead2a5d10a70ec5)
-- [ ] [<code>SettingsSidebarRow.vala - Fix status label showing but empty (#628)</code>](https://github.com/elementary/granite/commit/694be994a66f91052106527f66a2bc064d6f6a02)
-- [ ] [<code>Update granite.appdata.xml.in</code>](https://github.com/elementary/granite/commit/17c20f30bfa90041afadcd04f790bcae0ff5bb31)
-- [ ] [<code>Release 7.1.0 (#626)</code>](https://github.com/elementary/granite/commit/d79db0b7132eca09319c3481befdf8bc241445a9)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
