@@ -532,6 +532,9 @@
 - [ ] [<code>App: Implement Applications Management (#1241)</code>](https://github.com/elementary/gala/commit/7c540a2a0669fb7de84ed1071f85f5d331398040)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Release 6.3.2 (#1422)</code>](https://github.com/elementary/gala/commit/75fd668ac96d20258b9656852ea40298f8c9093a)
+  - <sub>Tags: <code>6.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -559,6 +562,11 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Listen to smooth scroll events (#466)</code>](https://github.com/elementary/wingpanel/commit/ea73ce711371b128763b6de23b86b27d6a7900d9)
 - [ ] [<code>Delete meson.build.rej</code>](https://github.com/elementary/wingpanel/commit/09d41831cddc18fb5a8b4c797596d6519a293e15)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update wingpanel.appdata.xml.in</code>](https://github.com/elementary/wingpanel/commit/66483f8c9b0c149c634eb176603c167b7510cbcc)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel/commit/90a617b38d6de07e5c7f3f40c4efa71ee3556b44)
+- [ ] [<code>Meson: include Posix dep (#469)</code>](https://github.com/elementary/wingpanel/commit/8be50d17eb10458f89a6c5e029c81e6f3042c6f9)
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
