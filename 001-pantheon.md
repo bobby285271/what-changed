@@ -535,6 +535,7 @@
 - [ ] [<code>Release 6.3.2 (#1422)</code>](https://github.com/elementary/gala/commit/75fd668ac96d20258b9656852ea40298f8c9093a)
   - <sub>Tags: <code>6.3.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add posix to the list of Vala dependencies (#1472)</code>](https://github.com/elementary/gala/commit/fe1d3d031f6a85e25d82c72441ddcf0b8c248324)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
