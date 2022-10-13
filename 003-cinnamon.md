@@ -40,6 +40,11 @@
 - [ ] [<code>cs_themes.py: Separate light/dark/darker themes</code>](https://github.com/linuxmint/cinnamon/commit/71351625223b98f88e54e25f733c81f436d1f0c5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add new cornerbar applet</code>](https://github.com/linuxmint/cinnamon/commit/ce770e3749d1f480a55825cf3ffa6d2a598fd6c1)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Panel: Replace show-desktop with cornerbar</code>](https://github.com/linuxmint/cinnamon/commit/cd47f9aef5c383a108c5f77098d3c602b2e0bc86)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/58d3c7935ae0494fe753ca3d33091fb377ff80e8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
