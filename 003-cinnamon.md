@@ -38,13 +38,16 @@
 - [ ] [<code>cs_themes.py: Don't print an error if metadata.json is missing</code>](https://github.com/linuxmint/cinnamon/commit/dabf4d31aab341714061541383bac77343077aab)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_themes.py: Separate light/dark/darker themes</code>](https://github.com/linuxmint/cinnamon/commit/71351625223b98f88e54e25f733c81f436d1f0c5)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add new cornerbar applet</code>](https://github.com/linuxmint/cinnamon/commit/ce770e3749d1f480a55825cf3ffa6d2a598fd6c1)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Panel: Replace show-desktop with cornerbar</code>](https://github.com/linuxmint/cinnamon/commit/cd47f9aef5c383a108c5f77098d3c602b2e0bc86)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/58d3c7935ae0494fe753ca3d33091fb377ff80e8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>corner-bar: Don't track_hover on the bar actor.</code>](https://github.com/linuxmint/cinnamon/commit/b60a8f9ed008ecdd0a41e25b6fc41d0cce3d92fc)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -123,6 +126,14 @@
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [57d16eb85f2af40be17e2232d279bb65b689f5b7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/57d16eb85f2af40be17e2232d279bb65b689f5b7...HEAD)
 
+- [ ] [<code>user-desktop: Flip icon vertically</code>](https://github.com/linuxmint/mint-y-icons/commit/7bf9877363ed6afbe1dfdcce7794639bd30c4838)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>render-apps: Fix script compatibility with new inkscape</code>](https://github.com/linuxmint/mint-y-icons/commit/13ee6e172371217cb0d0d1e3c5a2248116e34db6)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>cs-desktop: Flip vertically</code>](https://github.com/linuxmint/mint-y-icons/commit/fdfdc83598a988b934fa78dadaa3cee33dc2b0ae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>user-desktop-symbolic: Flip vertically</code>](https://github.com/linuxmint/mint-y-icons/commit/dcc3d92c0ef910dee759ee183d4df4892584d4d0)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
@@ -141,7 +152,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>eel: Merge shell character escape functions</code>](https://github.com/linuxmint/nemo/commit/2f68abd5f1651bef0405d0104b9c09ef2908f9da)
 - [ ] [<code>icon view: don't highlight selected icons</code>](https://github.com/linuxmint/nemo/commit/fdd47db7a7399ae12e21912fa33bd81cd1ba0eac)
+- [ ] [<code>nemo-desktop: Rename new-launcher -> 90_new-launcher</code>](https://github.com/linuxmint/nemo/commit/6b52c2714bb71ac096165d9b5db0dbd61cf1c8ce)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nemo-desktop: Add Desktop Settings action</code>](https://github.com/linuxmint/nemo/commit/79519dfe2c30ea1d0d106449579ea71f3962a11a)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Update POT and files</code>](https://github.com/linuxmint/nemo/commit/b69cd628ffe49c4b521936b8c36d06fe6abfbfc3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
