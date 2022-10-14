@@ -420,6 +420,8 @@
 - [ ] [<code>debian: Do not try to install things from /etc/io.elementary.appcenter</code>](https://github.com/elementary/default-settings/commit/df1215d72b365daad2298dc1d639fb1c6427e67a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/0b5923872f424404e2111098a52af627b9618fd5)
+- [ ] [<code>Plank: add Files dock item (#271)</code>](https://github.com/elementary/default-settings/commit/810e55ecc114d23270320606068bc0a5b3018953)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
@@ -569,6 +571,7 @@
 - [ ] [<code>Meson: include Posix dep (#469)</code>](https://github.com/elementary/wingpanel/commit/8be50d17eb10458f89a6c5e029c81e6f3042c6f9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update CI (#467)</code>](https://github.com/elementary/wingpanel/commit/bfac55a34ed6745a4845109f85b0713712177d2c)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
