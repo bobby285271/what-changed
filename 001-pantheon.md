@@ -409,6 +409,8 @@
 
 #### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [6.1.0 → HEAD](https://github.com/elementary/wallpapers/compare/6.1.0...HEAD)
 
+- [ ] [<code>Add Photo of Valley (#172)</code>](https://github.com/elementary/wallpapers/commit/2ac5b9856e967677e0ba34ef6e5d5f540a7570bb)
+- [ ] [<code>Remvoe Jonas Nilsson Lee (#171)</code>](https://github.com/elementary/wallpapers/commit/2486baee93f91c819e4d60977a9460804cff22ca)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
@@ -444,6 +446,7 @@
 - [ ] [<code>Update pot files</code>](https://github.com/elementary/onboarding/commit/8612cb52ec7eb23ab36717034c96d9bd2dfbb803)
 - [ ] [<code>ci: Use gettext action for Horus (#178)</code>](https://github.com/elementary/onboarding/commit/af6ad03f6203d698729c6cff335317383c18ba6d)
 - [ ] [<code>Update main.yml (#179)</code>](https://github.com/elementary/onboarding/commit/eb9bf5e78dafd806f016c24ded59b66950895fd4)
+- [ ] [<code>Use Gtk.Box for ImageLinkButton (#181)</code>](https://github.com/elementary/onboarding/commit/ec17c0213fc9efdc05d970f05a4c0decea0e33fb)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -538,6 +541,11 @@
   - <sub>Tags: <code>6.3.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add posix to the list of Vala dependencies (#1472)</code>](https://github.com/elementary/gala/commit/fe1d3d031f6a85e25d82c72441ddcf0b8c248324)
+- [ ] [<code>AppSystem: make wmclass nullable</code>](https://github.com/elementary/gala/commit/ea26a61029194f3a464fe1f241f6f3e7c990f1cd)
+- [ ] [<code>PiP: Fix window resizing on Mutter 42</code>](https://github.com/elementary/gala/commit/08b2930c52f45c8b44d26ddfe3801c0633156242)
+- [ ] [<code>Simplify</code>](https://github.com/elementary/gala/commit/38eddf28ea6415e8707477f9a64067e0c9c903f2)
+- [ ] [<code>DnD: Ignore clicks on destination-only actors</code>](https://github.com/elementary/gala/commit/9e3b506d8faead047aae1486c45c905a0f2c59fa)
+- [ ] [<code>Appdata: Add release notes for 6.3.3</code>](https://github.com/elementary/gala/commit/1909f820d60a7311fb9cf240196691102ec89b8a)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -593,6 +601,7 @@
 - [ ] [<code>l10n: Correctly setup the locales (#48)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/fb8412d56bc1c42b70e8ee41b837e8024e1297f7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove wingpanel deprecations (#49)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/0480d77c0dc5d727749db6a2273fa3057491a74a)
+- [ ] [<code>Update a11y.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/fb8254b880cd13a494312bb9a848ffc53caa8fdf)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
@@ -609,6 +618,7 @@
 
 - [ ] [<code>Update codestyle (#302)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/638a99085317966211a17cac7ed993349616c4e5)
 - [ ] [<code>GridDay: Do not connect to the notify signal for the property (#305)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/845ac1345124571fe995ab7138d5dfe4d29847e9)
+- [ ] [<code>Update datetime.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/47309e16f828b6c4f8aa4ad71500d5af3bc61bfd)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
 
@@ -617,9 +627,11 @@
 - [ ] [<code>Fix spelling; visibiity -> visibility (#114)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/c1db11ca97ffc63045339ea53d33222f0e2cd5ea)
 - [ ] [<code>Update codestyle and prepare for GTK4 (#116)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b2f4fa0af74d76c35d63b971acf6adf011ae9c5)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update keyboard.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/3a1f09010b39afebda5094a3eb6a7eaa4fa9a22d)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
+- [ ] [<code>Update network.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/fdbe6437237c78229fd2e5e0d4765c703ae862ff)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
@@ -629,9 +641,11 @@
 - [ ] [<code>po: Remove en_US (#90)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a383f68eb0c97583509b47f28452f6a0f3cc9be4)
 - [ ] [<code>l10n: Correctly setup the locales (#91)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4e15f71ed958df3569b2f1e224b9fb18613281f1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update nightlight.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/370456f74ba4f20f33d4ae0e9f7220784921dad6)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.6 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.6...HEAD)
 
+- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0319f744be628e130a1aa4933f92c8f6d99e7dba)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
@@ -651,6 +665,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Indicator: replace OverlayIcon with Gtk.Image (#167)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/0ea9a3b3f5cc4da9c6c569f019393cb107692901)
 - [ ] [<code>Update codestyle (#169)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/b26e7f1dabfe554aff3d763f9c16972a35ab1e89)
+- [ ] [<code>Update session.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-session/commit/b1fef445c574c9c24859684f6c784143024b1c2d)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
 
