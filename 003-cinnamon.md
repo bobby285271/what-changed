@@ -38,7 +38,6 @@
 - [ ] [<code>cs_themes.py: Don't print an error if metadata.json is missing</code>](https://github.com/linuxmint/cinnamon/commit/dabf4d31aab341714061541383bac77343077aab)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_themes.py: Separate light/dark/darker themes</code>](https://github.com/linuxmint/cinnamon/commit/71351625223b98f88e54e25f733c81f436d1f0c5)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add new cornerbar applet</code>](https://github.com/linuxmint/cinnamon/commit/ce770e3749d1f480a55825cf3ffa6d2a598fd6c1)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
@@ -46,8 +45,12 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/58d3c7935ae0494fe753ca3d33091fb377ff80e8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>corner-bar: Don't track_hover on the bar actor.</code>](https://github.com/linuxmint/cinnamon/commit/b60a8f9ed008ecdd0a41e25b6fc41d0cce3d92fc)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>desklets: Allow desklets to be locked in place.</code>](https://github.com/linuxmint/cinnamon/commit/cb3a06df46889e5b6bbaa1c82ed060e0169c2979)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>remove trailing semicolons</code>](https://github.com/linuxmint/cinnamon/commit/24d660af46ed3b7cdef9980f5991de466645a8e6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -183,6 +186,7 @@
 - [ ] [<code>Add a script to allow testing the preferences window directly.</code>](https://github.com/linuxmint/warpinator/commit/2a489693d647990dda9093bedacca765b29e85a8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Don't allow incoming transfers to fill the disk.</code>](https://github.com/linuxmint/warpinator/commit/ac0d08df3fa22f9198c4735e46e0ffc2fea1d798)
+- [ ] [<code>Added instructions for Arch Linux via pacman (#144)</code>](https://github.com/linuxmint/warpinator/commit/0d8fb86283226576bb94e3248f4aa11b2140d906)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
