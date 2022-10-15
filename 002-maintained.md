@@ -444,6 +444,10 @@
 - [ ] [<code>Enhancing image exports</code>](https://github.com/phase1geo/minder/commit/63c787b7567e0ba6d493399caebe2f4b31e22e6e)
 - [ ] [<code>Merge branch '506-option-to-ignore-markdown-control-ch'</code>](https://github.com/phase1geo/minder/commit/48df28d43eb8d0f070e2eda2aa2a9c7069c6bb80)
 - [ ] [<code>Fixing issue with text colors when theme is changed</code>](https://github.com/phase1geo/minder/commit/836b28ec8d93bce2aa6e99fec3b705b0aa967e7d)
+- [ ] [<code>Adding group note support</code>](https://github.com/phase1geo/minder/commit/f242f3885fb79ad6940e7b163568a64b07cd701b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch '516-add-note-to-a-group'</code>](https://github.com/phase1geo/minder/commit/7e7c81dc484d108fa3065a80a8b5f9139ab5e01c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
