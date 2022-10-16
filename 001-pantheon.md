@@ -197,6 +197,7 @@
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>Use fc to get previous command (#690)</code>](https://github.com/elementary/terminal/commit/c69fc3c85e82a1b2b63f6b05a97daaa6dcd21fed)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update POTFILES (#693)</code>](https://github.com/elementary/terminal/commit/08c7067d547eb689da9eb5338c1c7f4358de57cf)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
