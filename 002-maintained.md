@@ -496,6 +496,7 @@
 - [ ] [<code>Update German translation (#160)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ae98cd4e922ebfe2c8385a7f32648094f138e829)
 - [ ] [<code>Update Italian translation (#162)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/34f2f2944b9d1cc9f569908293c57320369b9b37)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/204063e9909841a99551bc17ee96f3983ca5395b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
