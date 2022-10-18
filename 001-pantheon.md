@@ -547,6 +547,9 @@
 - [ ] [<code>Simplify</code>](https://github.com/elementary/gala/commit/38eddf28ea6415e8707477f9a64067e0c9c903f2)
 - [ ] [<code>DnD: Ignore clicks on destination-only actors</code>](https://github.com/elementary/gala/commit/9e3b506d8faead047aae1486c45c905a0f2c59fa)
 - [ ] [<code>Appdata: Add release notes for 6.3.3</code>](https://github.com/elementary/gala/commit/1909f820d60a7311fb9cf240196691102ec89b8a)
+- [ ] [<code>Release 6.3.3 (#1480)</code>](https://github.com/elementary/gala/commit/34f7c03779478f70e533e7cd44511782b0392901)
+  - <sub>Tags: <code>6.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
