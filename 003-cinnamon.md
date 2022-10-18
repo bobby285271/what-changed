@@ -49,6 +49,16 @@
 - [ ] [<code>desklets: Allow desklets to be locked in place.</code>](https://github.com/linuxmint/cinnamon/commit/cb3a06df46889e5b6bbaa1c82ed060e0169c2979)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>remove trailing semicolons</code>](https://github.com/linuxmint/cinnamon/commit/24d660af46ed3b7cdef9980f5991de466645a8e6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs-info: Add system icon (#11090)</code>](https://github.com/linuxmint/cinnamon/commit/30a8144c7ab832cd3b26198561ae5f711fcc802c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_info: Keep system image a reasonable size.</code>](https://github.com/linuxmint/cinnamon/commit/0b32933489c796ffc468f8160ec9e97fbe7a4c21)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>debian/control: Add missing dependency.</code>](https://github.com/linuxmint/cinnamon/commit/106ac24f8fe788d55c035c812c6fc0635c231e4e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>data/icons/meson.build: Silence a build warning.</code>](https://github.com/linuxmint/cinnamon/commit/4229af950cbacf3a33e48c0300fd8f75bc9d5186)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move spices download cache to `XDG_CACHE_HOME` directory (#11176)</code>](https://github.com/linuxmint/cinnamon/commit/74c26ab74e7ae0a46c134c62ac2e537d4ec427e6)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
@@ -254,6 +264,7 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/22.06.5...HEAD)
 
 - [ ] [<code>Update README.md to include build dependencies and instructions (#45)</code>](https://github.com/linuxmint/timeshift/commit/b0f745031b6eea5e7eafa0aa6aaebc051ea26e3f)
+- [ ] [<code>Changes man page to GROFF format (#73)</code>](https://github.com/linuxmint/timeshift/commit/baeae70c7a19d32931ce4939484e8f3de19d84cf)
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
