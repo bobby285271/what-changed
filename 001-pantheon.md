@@ -750,6 +750,8 @@
 - [ ] [<code>Issue Templates: point to contributor docs instead of github org (#619)</code>](https://github.com/elementary/os/commit/d796dde207ce3526ecd3db20dc99f905e8776e07)
 - [ ] [<code>Add responsive light/dark mode logos to README.md (#622)</code>](https://github.com/elementary/os/commit/3a78a90d91d7a802798452a02453afbc3d218941)
 - [ ] [<code>Add safe graphics option to boot menu (#627)</code>](https://github.com/elementary/os/commit/73d4076b1fc1425b4ecd685d0bea1562e24cca3e)
+- [ ] [<code>pinebookpro: Update to latest ap6256-firmware git repository</code>](https://github.com/elementary/os/commit/288efe21ade712f561c21975f12315d677811ff0)
+- [ ] [<code>workflows: Update all the action dependencies</code>](https://github.com/elementary/os/commit/c1ef466e1ccf131ded323d3b1fc422cd00ce36ce)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
