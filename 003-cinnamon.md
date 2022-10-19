@@ -197,6 +197,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Don't allow incoming transfers to fill the disk.</code>](https://github.com/linuxmint/warpinator/commit/ac0d08df3fa22f9198c4735e46e0ffc2fea1d798)
 - [ ] [<code>Added instructions for Arch Linux via pacman (#144)</code>](https://github.com/linuxmint/warpinator/commit/0d8fb86283226576bb94e3248f4aa11b2140d906)
+- [ ] [<code>Check number of files received against the original request.</code>](https://github.com/linuxmint/warpinator/commit/b5aeb8a4b903f200470974d6c83664274d9448e1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
