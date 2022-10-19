@@ -585,6 +585,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update CI (#467)</code>](https://github.com/elementary/wingpanel/commit/bfac55a34ed6745a4845109f85b0713712177d2c)
+- [ ] [<code>Release 3.0.3 (#455)</code>](https://github.com/elementary/wingpanel/commit/f8b98a59d4d5cecd13f1c1a71f4700aeb006cc21)
+  - <sub>Tags: <code>3.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
@@ -607,6 +610,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove wingpanel deprecations (#49)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/0480d77c0dc5d727749db6a2273fa3057491a74a)
 - [ ] [<code>Update a11y.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/fb8254b880cd13a494312bb9a848ffc53caa8fdf)
+- [ ] [<code>Release 1.0.1 (#51)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/554441740cb806a4b4bf32afd45fc4c3dd11179b)
+  - <sub>Tags: <code>1.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
@@ -624,6 +630,9 @@
 - [ ] [<code>Update codestyle (#302)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/638a99085317966211a17cac7ed993349616c4e5)
 - [ ] [<code>GridDay: Do not connect to the notify signal for the property (#305)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/845ac1345124571fe995ab7138d5dfe4d29847e9)
 - [ ] [<code>Update datetime.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/47309e16f828b6c4f8aa4ad71500d5af3bc61bfd)
+- [ ] [<code>Release 2.4.1 (#306)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/80b746494c9a36ea4b6fc3de3a140716e17abbd9)
+  - <sub>Tags: <code>2.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
 
@@ -637,6 +646,9 @@
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.3 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.3...HEAD)
 
 - [ ] [<code>Update network.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/fdbe6437237c78229fd2e5e0d4765c703ae862ff)
+- [ ] [<code>Release 2.3.4 (#253)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/799af503f73ec927e91031aea77e6c585dd808d8)
+  - <sub>Tags: <code>2.3.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.0...HEAD)
 
@@ -647,10 +659,16 @@
 - [ ] [<code>l10n: Correctly setup the locales (#91)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4e15f71ed958df3569b2f1e224b9fb18613281f1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update nightlight.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/370456f74ba4f20f33d4ae0e9f7220784921dad6)
+- [ ] [<code>Release 2.1.1 (#93)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/0296cfd13420ca686b2b7cab66d0fe4add19a3ec)
+  - <sub>Tags: <code>2.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.6 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.6...HEAD)
 
 - [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0319f744be628e130a1aa4933f92c8f6d99e7dba)
+- [ ] [<code>Release 6.0.7 (#250)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/219af018e13312de47b5d65d3ab7a2a440fe8c66)
+  - <sub>Tags: <code>6.0.7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.1.0...HEAD)
 
@@ -671,6 +689,9 @@
 - [ ] [<code>Indicator: replace OverlayIcon with Gtk.Image (#167)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/0ea9a3b3f5cc4da9c6c569f019393cb107692901)
 - [ ] [<code>Update codestyle (#169)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/b26e7f1dabfe554aff3d763f9c16972a35ab1e89)
 - [ ] [<code>Update session.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-session/commit/b1fef445c574c9c24859684f6c784143024b1c2d)
+- [ ] [<code>Release 2.3.1 (#170)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/ade43580559fb7dff8c2ae725677c700482d661c)
+  - <sub>Tags: <code>2.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
 
