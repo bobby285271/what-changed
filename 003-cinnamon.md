@@ -59,8 +59,12 @@
 - [ ] [<code>data/icons/meson.build: Silence a build warning.</code>](https://github.com/linuxmint/cinnamon/commit/4229af950cbacf3a33e48c0300fd8f75bc9d5186)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move spices download cache to `XDG_CACHE_HOME` directory (#11176)</code>](https://github.com/linuxmint/cinnamon/commit/74c26ab74e7ae0a46c134c62ac2e537d4ec427e6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_keyboard: Add an entry to allow type-to-search shortcut names.</code>](https://github.com/linuxmint/cinnamon/commit/75a53a803edffabcab8177f16944a9055a33e7f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Don't require themes to support Gtk 2 any longer</code>](https://github.com/linuxmint/cinnamon/commit/4c54812ce6461eab5e7d382dbee129f3b4db0d46)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -229,9 +233,10 @@
 - [ ] [<code>Fix badge, formatting</code>](https://github.com/linuxmint/xreader/commit/5a3bb36bb431cc52e4eb6c8f5bae6673adbc610c)
 - [ ] [<code>Change github workflow's file extension.</code>](https://github.com/linuxmint/xreader/commit/3012c60d1858d81ed68519da9c5d5e8eb3d870d5)
 - [ ] [<code>build/i18n: migrate from intltool to gettext (#552)</code>](https://github.com/linuxmint/xreader/commit/bbac5966d1de91452033b3800c0a29a24e3a31a5)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add missing requires for the typelib</code>](https://github.com/linuxmint/xreader/commit/b74c567b743acdca5c286c9a0a8fa776400b316f)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
