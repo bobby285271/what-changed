@@ -158,6 +158,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>tooltips: ensure tooltips are viewable.</code>](https://github.com/linuxmint/muffin/commit/d7d44599ac2c535104ad9f036f5fb0982e3c7ec8)
 - [ ] [<code>window-props: Change a warning to a debug message.</code>](https://github.com/linuxmint/muffin/commit/1220f469193958148aa998bbc040971d1b3330ee)
+- [ ] [<code>meta-input-settings: Re-apply settings once the display is</code>](https://github.com/linuxmint/muffin/commit/48b8252afc77eccb0e0388bb7abe3386648be8e3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
@@ -202,6 +203,7 @@
 - [ ] [<code>Don't allow incoming transfers to fill the disk.</code>](https://github.com/linuxmint/warpinator/commit/ac0d08df3fa22f9198c4735e46e0ffc2fea1d798)
 - [ ] [<code>Added instructions for Arch Linux via pacman (#144)</code>](https://github.com/linuxmint/warpinator/commit/0d8fb86283226576bb94e3248f4aa11b2140d906)
 - [ ] [<code>Check number of files received against the original request.</code>](https://github.com/linuxmint/warpinator/commit/b5aeb8a4b903f200470974d6c83664274d9448e1)
+- [ ] [<code>transfers: Change method used to check relative paths.</code>](https://github.com/linuxmint/warpinator/commit/dbada84f6f10112547632b1351e54caa831c747c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
