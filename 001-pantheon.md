@@ -87,6 +87,8 @@
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
+- [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/calculator/commit/47432b3ec2815e143f45cb34f83dc41245b9d453)
+- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
 
@@ -98,6 +100,7 @@
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
+- [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6bde4dfc98873f0b16dd624e63a81aeadccc6fec)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -134,6 +137,7 @@
 
 - [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
 
@@ -188,6 +192,7 @@
 - [ ] [<code>Fix data/meson.build (#241)</code>](https://github.com/elementary/screenshot/commit/80a5d942e813dd098e1ef0f6629b81d2ccef05ae)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
+- [ ] [<code>Update screenshot.appdata.xml.in</code>](https://github.com/elementary/screenshot/commit/01dede54a700f3469500b9de7f4c80a1d0224978)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -200,6 +205,9 @@
 - [ ] [<code>Use fc to get previous command (#690)</code>](https://github.com/elementary/terminal/commit/c69fc3c85e82a1b2b63f6b05a97daaa6dcd21fed)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update POTFILES (#693)</code>](https://github.com/elementary/terminal/commit/08c7067d547eb689da9eb5338c1c7f4358de57cf)
+- [ ] [<code>TerminalWidget: Fix terminal freeze when closing with GLib 2.73.2+ (#691)</code>](https://github.com/elementary/terminal/commit/22c0577a1a5706b6e88847ba6210c524019bcea0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -215,6 +223,7 @@
 - [ ] [<code>Git ignore flatpak build and temporary files (#311)</code>](https://github.com/elementary/videos/commit/51e832f7c13d6b200ce65c15f4e1ac8ca27ec5e6)
 - [ ] [<code>Implement MPRIS (#306)</code>](https://github.com/elementary/videos/commit/0dff3128ebfb49ae32148df68abb5bc8b118ddff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
 
@@ -229,6 +238,7 @@
 - [ ] [<code>Update POT</code>](https://github.com/elementary/sideload/commit/cd49e58e4ecb07f7a94f3ea88037a37af565ec65)
 - [ ] [<code>Fix Gettext Action (#147)</code>](https://github.com/elementary/sideload/commit/628b5ab98eb71d1059ba2397a2f56fa4d8020733)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/sideload/commit/b22ef8cc3d3219713ef9d6f860c3d6ec35690a14)
+- [ ] [<code>Update AppData for 6.1 (#148)</code>](https://github.com/elementary/sideload/commit/29b3e94d86e04bb80cb426ed65085bb7bc4df19c)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -302,6 +312,7 @@
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
+- [ ] [<code>Update display.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-display/commit/3c47e49b0f6d1c0fcef5809900694a4d6def936b)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
 
@@ -324,6 +335,9 @@
 - [ ] [<code>Remove empty tooltip (#417)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4e8382059657eda322142197694ad76efa43e2ee)
 - [ ] [<code>Fix Gettext Action (#422)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7eb962d2164aca43f47f927deb06208bf53bd4f5)
 - [ ] [<code>Add ibus-rime to InstallList (#424)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/dd58fe24bc7c991a7c26496c3dae1496c6f032b7)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1c01fb6c07c74febfc021a33b931d3fa0b5d03a8)
+- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/278cb34a587ec39bf9372d20f6435f6852b26817)
+- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bd511a5ae7e84172e7946688733bc85a226f6370)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -345,6 +359,7 @@
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
 
+- [ ] [<code>Update io.elementary.switchboard.network.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/9eccc4cb7c019c49a3c9f1bd6b043a9f0edf1ae8)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -358,11 +373,14 @@
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
 
+- [ ] [<code>Update onlineaccounts.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/9d016a01913420b375a0e3db1f6e77598e7fe407)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.0...HEAD)
 
 - [ ] [<code>Appearance: bind radios with mapping (#331)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/03b094e5b77dd24b45037c04699a529bad8c2ea8)
 - [ ] [<code>Appearance: Reorder connection of signals (#334)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/989831cf085889b06a2e667a7a4e7fe270fb2384)
+- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c34a9196c4336b14b3968e5bd48902f6048c7bd7)
+- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3852fc98f38028b032aecb801bdf3982c88dde08)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -377,15 +395,18 @@
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
 
+- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/fb2ea993f57d8db20bf0da113283cada9a041da4)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
 - [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
+- [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c9033db5346daa5652c440e10e1f0244eb6c7f09)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
 
 - [ ] [<code>l10n: Correctly setup the locales (#55)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/5219839738b79e3c5f039a811d96a40eb2644eab)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update sharing.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/364cb493e95e0138fed7e5d8e0602a3ad4fcf3f1)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
@@ -451,6 +472,8 @@
 - [ ] [<code>ci: Use gettext action for Horus (#178)</code>](https://github.com/elementary/onboarding/commit/af6ad03f6203d698729c6cff335317383c18ba6d)
 - [ ] [<code>Update main.yml (#179)</code>](https://github.com/elementary/onboarding/commit/eb9bf5e78dafd806f016c24ded59b66950895fd4)
 - [ ] [<code>Use Gtk.Box for ImageLinkButton (#181)</code>](https://github.com/elementary/onboarding/commit/ec17c0213fc9efdc05d970f05a4c0decea0e33fb)
+- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/150d5c277aa6ce516495af3a3a9d0c978addd8b0)
+- [ ] [<code>StyleView: use prefs-desktop-theme (#171)</code>](https://github.com/elementary/onboarding/commit/363c16cea4320976b67efa8b0d6e2f608da71840)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -592,17 +615,8 @@
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
 
-#### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.0 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.0...HEAD)
+#### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
-- [ ] [<code>l10n: Correctly setup the locales (#110)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ea5df2f62a99a216ee5ed137268e710490a852a4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix spelling; visibiity -> visibility (#114)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/c1db11ca97ffc63045339ea53d33222f0e2cd5ea)
-- [ ] [<code>Update codestyle and prepare for GTK4 (#116)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b2f4fa0af74d76c35d63b971acf6adf011ae9c5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update keyboard.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/3a1f09010b39afebda5094a3eb6a7eaa4fa9a22d)
-- [ ] [<code>Release 2.4.1 (#118)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f9f58967e7f407949a6d631d068b2a61dcd4e4b0)
-  - <sub>Tags: <code>2.4.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.4 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.4...HEAD)
 
@@ -625,6 +639,9 @@
 - [ ] [<code>FIx last separator revealer (#233)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c368327494013bc08868c2b38abafb83b69e4b20)
 - [ ] [<code>Don't attach last separator when not in session (#234)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/24d0ce8aba8eed1b9f88a4b58c30b7c7f2c92945)
 - [ ] [<code>Add 6.2.0 release notes to AppData (#235)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1dd4bbb7b59aa6121596944c6fe3a5efe6558090)
+- [ ] [<code>Release 6.2.0 (#236)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c61eefd2cddd69ccd400a15b2cb518e8b88636f3)
+  - <sub>Tags: <code>6.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -657,6 +674,8 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
 
 - [ ] [<code>Appdata: Reorganize (#178)</code>](https://github.com/elementary/notifications/commit/32506dc6e054e4c12b9eb6b1410fa89d3e4ae779)
+- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/5a4f41773cf22c64d167624c6655b24a09a126b4)
+- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/8c1f67e1835fd1a7f35fb22973693ad40d2bb418)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
@@ -666,6 +685,7 @@
 - [ ] [<code>Geoclue2Dialog: Rewrite as Granite.MessageDialog (#42)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/fadbea58fcabac9162e61f17f92da26f0a353252)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update io.elementary.desktop.agent-geoclue2.appdata.xml.in</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/8888ea75737fb705670e1def547781048b2185dd)
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
