@@ -611,6 +611,8 @@
 - [ ] [<code>Bluetooth: Improve translatability (#176)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/132859639fad85c930aa673708f2f3c36da9b8f5)
 - [ ] [<code>Use GLib.Markup.printf_escaped when possible (#177)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/366475e866d946db93c4c8a55a317c7aad53f685)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Application: simplify contract creation (#178)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/0d88940af8c9358ffa993c8c971cb11911a6f89e)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
