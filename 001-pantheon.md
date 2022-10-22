@@ -362,12 +362,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix Gettext Action (#207)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/fe8a8a46bfe2d49ee72feb0115e8e68ddb9db204)
 
-#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.3 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.3...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
-- [ ] [<code>Update io.elementary.switchboard.network.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/9eccc4cb7c019c49a3c9f1bd6b043a9f0edf1ae8)
-- [ ] [<code>Release 2.4.4 (#340)</code>](https://github.com/elementary/switchboard-plug-network/commit/6ed4527fdf1d422689f5b3be31523d93b9407247)
-  - <sub>Tags: <code>2.4.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -379,22 +375,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Gettext Action (#92)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/b7ee2e93b000ac0fc487a88cf54a84e82ed91d67)
 
-#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.0...HEAD)
+#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
 
-- [ ] [<code>Update onlineaccounts.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/9d016a01913420b375a0e3db1f6e77598e7fe407)
-- [ ] [<code>Release 6.5.1 (#245)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/1e9c0fc90d5ae8c420883516f1bef02be06150f7)
-  - <sub>Tags: <code>6.5.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.0...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
-- [ ] [<code>Appearance: bind radios with mapping (#331)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/03b094e5b77dd24b45037c04699a529bad8c2ea8)
-- [ ] [<code>Appearance: Reorder connection of signals (#334)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/989831cf085889b06a2e667a7a4e7fe270fb2384)
-- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c34a9196c4336b14b3968e5bd48902f6048c7bd7)
-- [ ] [<code>Update io.elementary.switchboard.pantheon-shell.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3852fc98f38028b032aecb801bdf3982c88dde08)
-- [ ] [<code>Release 6.3.1 (#337)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ca815e955786d3a8adbc773190c25d7fd752cd95)
-  - <sub>Tags: <code>6.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -407,26 +392,16 @@
 - [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
 - [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/b8ae5af4477d23dc5553a8cccebf7cab5bcdde3d)
 
-#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.0...HEAD)
+#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
-- [ ] [<code>Update printers.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/fb2ea993f57d8db20bf0da113283cada9a041da4)
-- [ ] [<code>Release 2.2.1 (#181)</code>](https://github.com/elementary/switchboard-plug-printers/commit/cf3bf32e4a7699d0027900b4ee81b4df73b6b742)
-  - <sub>Tags: <code>2.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
 
 - [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
 - [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c9033db5346daa5652c440e10e1f0244eb6c7f09)
 
-#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.5 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.5...HEAD)
+#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
-- [ ] [<code>l10n: Correctly setup the locales (#55)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/5219839738b79e3c5f039a811d96a40eb2644eab)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update sharing.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/364cb493e95e0138fed7e5d8e0602a3ad4fcf3f1)
-- [ ] [<code>Release 2.1.6 (#57)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/5d2b063e86d4ea46ba6d5681fe9d398cd6c6a96f)
-  - <sub>Tags: <code>2.1.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.1...HEAD)
 
@@ -485,18 +460,8 @@
 - [ ] [<code>disable login again while connecting (#581)</code>](https://github.com/elementary/greeter/commit/2e9a2f22ad669bcbcd0a442c91589921cfc9ada4)
 - [ ] [<code>Fix CI (#622)</code>](https://github.com/elementary/greeter/commit/a877bceecad4acedf653e7c4c04fd19942784ad4)
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.0 → HEAD](https://github.com/elementary/onboarding/compare/7.0.0...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
-- [ ] [<code>Bind number of days to setting (#176)</code>](https://github.com/elementary/onboarding/commit/288434a0c228afe5cc6b552ea7bb377b52c44850)
-- [ ] [<code>Update pot files</code>](https://github.com/elementary/onboarding/commit/8612cb52ec7eb23ab36717034c96d9bd2dfbb803)
-- [ ] [<code>ci: Use gettext action for Horus (#178)</code>](https://github.com/elementary/onboarding/commit/af6ad03f6203d698729c6cff335317383c18ba6d)
-- [ ] [<code>Update main.yml (#179)</code>](https://github.com/elementary/onboarding/commit/eb9bf5e78dafd806f016c24ded59b66950895fd4)
-- [ ] [<code>Use Gtk.Box for ImageLinkButton (#181)</code>](https://github.com/elementary/onboarding/commit/ec17c0213fc9efdc05d970f05a4c0decea0e33fb)
-- [ ] [<code>Update onboarding.appdata.xml.in</code>](https://github.com/elementary/onboarding/commit/150d5c277aa6ce516495af3a3a9d0c978addd8b0)
-- [ ] [<code>StyleView: use prefs-desktop-theme (#171)</code>](https://github.com/elementary/onboarding/commit/363c16cea4320976b67efa8b0d6e2f608da71840)
-- [ ] [<code>Release 7.0.1 (#183)</code>](https://github.com/elementary/onboarding/commit/de9771a90907fd36fa8f4c3e2f51c7f89ee3d094)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -692,15 +657,8 @@
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
 
-#### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.5...HEAD)
+#### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
-- [ ] [<code>Geoclue2Dialog: Rewrite as Granite.MessageDialog (#42)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/fadbea58fcabac9162e61f17f92da26f0a353252)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update io.elementary.desktop.agent-geoclue2.appdata.xml.in</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/8888ea75737fb705670e1def547781048b2185dd)
-- [ ] [<code>Release 1.0.6 (#55)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/996250b8bb0743a339019dd474f2ef6aeedd724f)
-  - <sub>Tags: <code>1.0.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
