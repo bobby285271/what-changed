@@ -467,6 +467,7 @@
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
+- [ ] [<code>Use LinkButton for AppCenter button (#180)</code>](https://github.com/elementary/onboarding/commit/81690d6e1788af70b5185896df3824dae63e51d4)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -640,6 +641,7 @@
 - [ ] [<code>PulseAudioManager: add more form factor icon fallbacks (#241)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6e47ddf9ae8eac2f32e57bb4aade5a076406128c)
 - [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/9c9719583bdcd37c9d98139a5d6261a7f662436d)
 - [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/416d7869d7ec8d6ce45a8082a93f6db238e34958)
+- [ ] [<code>Fix switch animation on first open (#243)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/deca421e9a4f3f7e0946b7fa1b34484880770bc8)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
