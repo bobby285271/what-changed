@@ -120,6 +120,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix meson warning for run_command (#1207)</code>](https://github.com/elementary/code/commit/0410f335cc516510a9f3d00895d886e15009361a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add custom elementary syntax styles (#1076)</code>](https://github.com/elementary/code/commit/b5d84a12700d8a8761b5139c3be0df93643f84ac)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Hide non-active documents when project manually chosen (#1114)</code>](https://github.com/elementary/code/commit/91eebdbc5d916c73b3f02545aece233c37cb994f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
