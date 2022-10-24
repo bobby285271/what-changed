@@ -151,6 +151,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>user-desktop-symbolic: Flip vertically</code>](https://github.com/linuxmint/mint-y-icons/commit/dcc3d92c0ef910dee759ee183d4df4892584d4d0)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>"sed -i 's/block-progression:tb;//g' *" (deprecated and unneeded CSS property) (#322)</code>](https://github.com/linuxmint/mint-y-icons/commit/a13093c079a9774e6b8d8ed375efc0a8b65e5576)
+- [ ] [<code>modified:   src/render_places.py (--export-png -> --export-filename) (#323)</code>](https://github.com/linuxmint/mint-y-icons/commit/a2cc86d644f36d26bef1f08a744fbe05e56c271f)
+- [ ] [<code>some packaging improvements (#315)</code>](https://github.com/linuxmint/mint-y-icons/commit/f898ec844ac445d42ae56f5f20ac2f1287c4c6f0)
+- [ ] [<code>Adding a few more icons (#313)</code>](https://github.com/linuxmint/mint-y-icons/commit/0bf99368095e1c530087bfafab3c5aa5764668af)
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
