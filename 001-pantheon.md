@@ -611,6 +611,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Application: simplify contract creation (#178)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/0d88940af8c9358ffa993c8c971cb11911a6f89e)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update Application.vala (#181)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/178a0dba827b496703384bb2966c10729c7d887d)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -633,22 +634,8 @@
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
 
-#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.1...HEAD)
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
 
-- [ ] [<code>PulseAudioManager: Provide a fallback icon in case none is available (#228)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1903612b29acf3af9488a59a867ed01f7d74aac5)
-- [ ] [<code>Animate switch (#235)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/61af5563cdbb8077e4c0ae791fec3f93049964b0)
-- [ ] [<code>Consistent margin (#234)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/51540fdb2edf353022ced251e64c5ba9f84e8382)
-- [ ] [<code>Bind volume step to gnome setting (#237)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f495b7af6476c505397ca24de7aab5d3942da464)
-- [ ] [<code>Update codestyle (#238)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/dd6b8e757b15a208802b48277bea188279322330)
-- [ ] [<code>PulseAudioManager: fallback to fd.o icon name (#239)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ad97e2457e3b87ceb0ab4422f63768848ad8f613)
-- [ ] [<code>PulseAudioManager: fall back to device form factor when icon name unavailable (#240)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/76173b6661de4c64f7d95b7d3ad6b748dfda5073)
-- [ ] [<code>PulseAudioManager: add more form factor icon fallbacks (#241)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6e47ddf9ae8eac2f32e57bb4aade5a076406128c)
-- [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/9c9719583bdcd37c9d98139a5d6261a7f662436d)
-- [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/416d7869d7ec8d6ce45a8082a93f6db238e34958)
-- [ ] [<code>Fix switch animation on first open (#243)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/deca421e9a4f3f7e0946b7fa1b34484880770bc8)
-- [ ] [<code>Release 6.0.2 (#242)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c9b97e8479430a6bbaf51c6eaae14caaccd5eab8)
-  - <sub>Tags: <code>6.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
