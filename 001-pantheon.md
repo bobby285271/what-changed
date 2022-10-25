@@ -84,6 +84,7 @@
 - [ ] [<code>fix: Segfault from error message being freed in dialogs (#1936)</code>](https://github.com/elementary/appcenter/commit/da68394052c8a04135aff02ea24e53933b55abfc)
 - [ ] [<code>Fix CI (#1937)</code>](https://github.com/elementary/appcenter/commit/d6fb2444bced9b0bde27fe774ad2c24c13fc8d62)
 - [ ] [<code>AppData: add 4.0.0 release notes (#1938)</code>](https://github.com/elementary/appcenter/commit/494355ca237b1ccbaa4c11932102e10531cdf3dc)
+- [ ] [<code>UpgradeFailDialog: offer refresh option (#1942)</code>](https://github.com/elementary/appcenter/commit/a69a7756cdd73c823d00a64d755343180055de72)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -246,6 +247,9 @@
 - [ ] [<code>Fix Gettext Action (#147)</code>](https://github.com/elementary/sideload/commit/628b5ab98eb71d1059ba2397a2f56fa4d8020733)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/sideload/commit/b22ef8cc3d3219713ef9d6f860c3d6ec35690a14)
 - [ ] [<code>Update AppData for 6.1 (#148)</code>](https://github.com/elementary/sideload/commit/29b3e94d86e04bb80cb426ed65085bb7bc4df19c)
+- [ ] [<code>Release 6.0.3 (#139)</code>](https://github.com/elementary/sideload/commit/2c7bd2a9c9b6bbdb3939e203adc9c3f55a12ada5)
+  - <sub>Tags: <code>6.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -642,6 +646,9 @@
 - [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/9c9719583bdcd37c9d98139a5d6261a7f662436d)
 - [ ] [<code>Update sound.appdata.xml.in</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/416d7869d7ec8d6ce45a8082a93f6db238e34958)
 - [ ] [<code>Fix switch animation on first open (#243)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/deca421e9a4f3f7e0946b7fa1b34484880770bc8)
+- [ ] [<code>Release 6.0.2 (#242)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c9b97e8479430a6bbaf51c6eaae14caaccd5eab8)
+  - <sub>Tags: <code>6.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
