@@ -155,6 +155,11 @@
 - [ ] [<code>modified:   src/render_places.py (--export-png -> --export-filename) (#323)</code>](https://github.com/linuxmint/mint-y-icons/commit/a2cc86d644f36d26bef1f08a744fbe05e56c271f)
 - [ ] [<code>some packaging improvements (#315)</code>](https://github.com/linuxmint/mint-y-icons/commit/f898ec844ac445d42ae56f5f20ac2f1287c4c6f0)
 - [ ] [<code>Adding a few more icons (#313)</code>](https://github.com/linuxmint/mint-y-icons/commit/0bf99368095e1c530087bfafab3c5aa5764668af)
+- [ ] [<code>src/apps: Fix filenames for audible/pinterest</code>](https://github.com/linuxmint/mint-y-icons/commit/b3dafa10ffc6e3edcf1f9e3e001e7c752770c555)
+- [ ] [<code>src/render-apps-categories-bitmaps.py: Identify incorrect icon names</code>](https://github.com/linuxmint/mint-y-icons/commit/9b687af816d18d6da63f70696d5a2cfbe8119862)
+- [ ] [<code>apps: Fix incorrect icon names</code>](https://github.com/linuxmint/mint-y-icons/commit/4266174ea1388af8cd7d677b9c41c6acde30628f)
+- [ ] [<code>Regenerate app icons</code>](https://github.com/linuxmint/mint-y-icons/commit/1962ac6889a54167020bf2288374a29013318880)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
