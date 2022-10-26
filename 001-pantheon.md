@@ -233,23 +233,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
 
-#### [pantheon.sideload](https://github.com/elementary/sideload): [6.0.2 → HEAD](https://github.com/elementary/sideload/compare/6.0.2...HEAD)
+#### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
-- [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/bea2aabe791f1bf83987ab78e8c280e1db97f693)
-- [ ] [<code>Icons: update to new Flatpak brand (#141)</code>](https://github.com/elementary/sideload/commit/44244a083e47deefde4991d4462136e100702335)
-- [ ] [<code>Badge notification with app icon (#145)</code>](https://github.com/elementary/sideload/commit/646bc99717d5da44dac43434a89ed588c0b32243)
-- [ ] [<code>Port to Gtk4 (#138)</code>](https://github.com/elementary/sideload/commit/4b536415d0b6d9a8edc3cec5a7f374ed66cdc32d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Handle error on constructing flatpak bundle, fix error signalling (#143)</code>](https://github.com/elementary/sideload/commit/84d81971bf46ff135997d679574276cc71ff7de4)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update POT</code>](https://github.com/elementary/sideload/commit/cd49e58e4ecb07f7a94f3ea88037a37af565ec65)
-- [ ] [<code>Fix Gettext Action (#147)</code>](https://github.com/elementary/sideload/commit/628b5ab98eb71d1059ba2397a2f56fa4d8020733)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/sideload/commit/b22ef8cc3d3219713ef9d6f860c3d6ec35690a14)
-- [ ] [<code>Update AppData for 6.1 (#148)</code>](https://github.com/elementary/sideload/commit/29b3e94d86e04bb80cb426ed65085bb7bc4df19c)
-- [ ] [<code>Release 6.0.3 (#139)</code>](https://github.com/elementary/sideload/commit/2c7bd2a9c9b6bbdb3939e203adc9c3f55a12ada5)
-  - <sub>Tags: <code>6.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
