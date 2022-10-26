@@ -468,6 +468,8 @@
 - [ ] [<code>Update Japanese translation (#331)</code>](https://github.com/stsdc/monitor/commit/fc88096613f5d8346946a8f375aeba14b4b58310)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/42ea138264daac95da955ed0f8d93ada2ba56a9e)
+- [ ] [<code>Fix segfault for issue 327</code>](https://github.com/stsdc/monitor/commit/ebaff832e8c74ae119880154361281cc9391cd2a)
+- [ ] [<code>Simplify the fix assuming size is always non zero</code>](https://github.com/stsdc/monitor/commit/600684e838323743d67ebdf9f3ccead388c91eb5)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
