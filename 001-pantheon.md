@@ -309,6 +309,9 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
 
 - [ ] [<code>Update display.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-display/commit/3c47e49b0f6d1c0fcef5809900694a4d6def936b)
+- [ ] [<code>Release 2.3.3 (#334)</code>](https://github.com/elementary/switchboard-plug-display/commit/a7a6b597e04074ee9ef7993aa3ada0886be284d6)
+  - <sub>Tags: <code>2.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
 
@@ -393,6 +396,9 @@
 
 - [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
 - [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c9033db5346daa5652c440e10e1f0244eb6c7f09)
+- [ ] [<code>Release 2.4.1 (#140)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8d30ede20a01f1197aa9b5ccc0d135b1c122124a)
+  - <sub>Tags: <code>2.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -503,6 +509,7 @@
 - [ ] [<code>Re-show in Applications Menu (#131)</code>](https://github.com/elementary/shortcut-overlay/commit/25aa8d491a71c9b4d8fe6e95aa418977dd850228)
 - [ ] [<code>Use Gtk.EventControllerFocus (#132)</code>](https://github.com/elementary/shortcut-overlay/commit/d7d36c1bfc57171b3c3946d261123df4a243240c)
 - [ ] [<code>Fix Gettext Action (#133)</code>](https://github.com/elementary/shortcut-overlay/commit/76f90799eeaa1beb18cce93bde77e900d582ac72)
+- [ ] [<code>Update shortcut-overlay.appdata.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/c4b4f20665ae02908b23a1f171e0a75322a49e1f)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -656,6 +663,7 @@
 - [ ] [<code>Updates for ExternalWindow (#54)</code>](https://github.com/elementary/portals/commit/300563116bde8b33d92b1e312f35761d6bfb9e23)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update portals.appdata.xml.in</code>](https://github.com/elementary/portals/commit/e682081e608f55b875547c1d8a8d93ec089ba837)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
