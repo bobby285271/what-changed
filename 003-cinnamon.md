@@ -63,8 +63,12 @@
 - [ ] [<code>cs_keyboard: Add an entry to allow type-to-search shortcut names.</code>](https://github.com/linuxmint/cinnamon/commit/75a53a803edffabcab8177f16944a9055a33e7f4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes: Don't require themes to support Gtk 2 any longer</code>](https://github.com/linuxmint/cinnamon/commit/4c54812ce6461eab5e7d382dbee129f3b4db0d46)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowMenu.js: Implement mnemonic accelerators.</code>](https://github.com/linuxmint/cinnamon/commit/325eeb1f332d82b45f33392040213a2d3c73c1ed)
+- [ ] [<code>makepot: Collect comments from js files.</code>](https://github.com/linuxmint/cinnamon/commit/e471ac1aa376a35f8f14a96e0b8f7ca3f09401c7)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>harvester.py: cache_folder should be a pathlib.Path.</code>](https://github.com/linuxmint/cinnamon/commit/7c884631de90802b1a74f55c0d05f6af4c6bcd7c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -267,8 +271,9 @@
 - [ ] [<code>Fixed disabling osc via MPV options (#240) (#242)</code>](https://github.com/linuxmint/hypnotix/commit/d080f27af5226e27d20a30713f80b31e3f826c56)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update common.py (#244)</code>](https://github.com/linuxmint/hypnotix/commit/8f5e38c850a0fcab2e07856b0f915ad4ad62088c)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>d/control: Depends:  add python3-requests</code>](https://github.com/linuxmint/hypnotix/commit/6a99271b811d218af1eadc6998e4b8812361be56)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
