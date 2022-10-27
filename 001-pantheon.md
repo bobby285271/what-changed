@@ -85,6 +85,8 @@
 - [ ] [<code>Fix CI (#1937)</code>](https://github.com/elementary/appcenter/commit/d6fb2444bced9b0bde27fe774ad2c24c13fc8d62)
 - [ ] [<code>AppData: add 4.0.0 release notes (#1938)</code>](https://github.com/elementary/appcenter/commit/494355ca237b1ccbaa4c11932102e10531cdf3dc)
 - [ ] [<code>UpgradeFailDialog: offer refresh option (#1942)</code>](https://github.com/elementary/appcenter/commit/a69a7756cdd73c823d00a64d755343180055de72)
+- [ ] [<code>Release 4.0.0 (#1939)</code>](https://github.com/elementary/appcenter/commit/708306914ca12a7db14ed3e59510c787e4f398f8)
+  - <sub>Tags: <code>4.0.0</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -204,6 +206,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
 - [ ] [<code>Update screenshot.appdata.xml.in</code>](https://github.com/elementary/screenshot/commit/01dede54a700f3469500b9de7f4c80a1d0224978)
+- [ ] [<code>Redesign icon (#184)</code>](https://github.com/elementary/screenshot/commit/5a5b1c9564291a7220e3b0f9349c07b5499a7c02)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -236,6 +239,7 @@
 - [ ] [<code>Implement MPRIS (#306)</code>](https://github.com/elementary/videos/commit/0dff3128ebfb49ae32148df68abb5bc8b118ddff)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
+- [ ] [<code>Square icon (#299)</code>](https://github.com/elementary/videos/commit/1ec265d9160e40e6221d203becf8f73537c826db)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
