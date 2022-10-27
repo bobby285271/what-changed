@@ -68,6 +68,7 @@
 - [ ] [<code>makepot: Collect comments from js files.</code>](https://github.com/linuxmint/cinnamon/commit/e471ac1aa376a35f8f14a96e0b8f7ca3f09401c7)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>harvester.py: cache_folder should be a pathlib.Path.</code>](https://github.com/linuxmint/cinnamon/commit/7c884631de90802b1a74f55c0d05f6af4c6bcd7c)
+- [ ] [<code>windowMenu.js: Never allow more than one menu at a time.</code>](https://github.com/linuxmint/cinnamon/commit/e49a997d60c23921eec879ca3cb44ba2177be39d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
