@@ -126,6 +126,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Hide non-active documents when project manually chosen (#1114)</code>](https://github.com/elementary/code/commit/91eebdbc5d916c73b3f02545aece233c37cb994f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Show symbol outline pane on right of document (#1048)</code>](https://github.com/elementary/code/commit/9cf6b746c3e0e00bc97b8b3bc74f11461c056b3b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -216,6 +219,7 @@
 - [ ] [<code>TerminalWidget: Fix terminal freeze when closing with GLib 2.73.2+ (#691)</code>](https://github.com/elementary/terminal/commit/22c0577a1a5706b6e88847ba6210c524019bcea0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppData: 6.1.1 release notes (#694)</code>](https://github.com/elementary/terminal/commit/69e48f9314107dd36c6421610f2947657ecfc2b0)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -306,12 +310,8 @@
 - [ ] [<code>Redesign (#103)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/4eb077229721fdd57eda653fd6a0f26d2a2d9b84)
 - [ ] [<code>Fix Gettext Action (#105)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/7bd714434a5d8f23897131be460b9df6cb9469fd)
 
-#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.2...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.3...HEAD)
 
-- [ ] [<code>Update display.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-display/commit/3c47e49b0f6d1c0fcef5809900694a4d6def936b)
-- [ ] [<code>Release 2.3.3 (#334)</code>](https://github.com/elementary/switchboard-plug-display/commit/a7a6b597e04074ee9ef7993aa3ada0886be284d6)
-  - <sub>Tags: <code>2.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
 
@@ -392,13 +392,8 @@
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
 
-#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.0...HEAD)
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...HEAD)
 
-- [ ] [<code>AppChooser: cleanup (#139)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/52cd64d4d4f19721f26f29d6ba61054baee03b5b)
-- [ ] [<code>Update io.elementary.switchboard.security-privacy.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c9033db5346daa5652c440e10e1f0244eb6c7f09)
-- [ ] [<code>Release 2.4.1 (#140)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8d30ede20a01f1197aa9b5ccc0d135b1c122124a)
-  - <sub>Tags: <code>2.4.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -407,6 +402,7 @@
 
 - [ ] [<code>Animate switches (#225)</code>](https://github.com/elementary/switchboard-plug-sound/commit/f093e716c84e154509ec1620a9f47a6c22ae5a0a)
 - [ ] [<code>PulseAudioManager: add device form factor icon fallbacks (#228)</code>](https://github.com/elementary/switchboard-plug-sound/commit/34fd8e0ed3abe12bd27b967dab5d2c876994ac93)
+- [ ] [<code>AppData: 2.3.2 release notes (#230)</code>](https://github.com/elementary/switchboard-plug-sound/commit/29357e04b8f9bbdbe7fb9cd910dcf1c950533a15)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -510,6 +506,9 @@
 - [ ] [<code>Use Gtk.EventControllerFocus (#132)</code>](https://github.com/elementary/shortcut-overlay/commit/d7d36c1bfc57171b3c3946d261123df4a243240c)
 - [ ] [<code>Fix Gettext Action (#133)</code>](https://github.com/elementary/shortcut-overlay/commit/76f90799eeaa1beb18cce93bde77e900d582ac72)
 - [ ] [<code>Update shortcut-overlay.appdata.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/c4b4f20665ae02908b23a1f171e0a75322a49e1f)
+- [ ] [<code>Release 2.0.1 (#135)</code>](https://github.com/elementary/shortcut-overlay/commit/0e749dfbf8424bffa71d26917a10dd0a9833fd50)
+  - <sub>Tags: <code>2.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -646,6 +645,8 @@
 - [ ] [<code>Appdata: Reorganize (#178)</code>](https://github.com/elementary/notifications/commit/32506dc6e054e4c12b9eb6b1410fa89d3e4ae779)
 - [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/5a4f41773cf22c64d167624c6655b24a09a126b4)
 - [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/8c1f67e1835fd1a7f35fb22973693ad40d2bb418)
+- [ ] [<code>Release 6.0.3 (#181)</code>](https://github.com/elementary/notifications/commit/ac4a171d98b3da6d6fea29554c932c1fc78cb40c)
+  - <sub>Tags: <code>6.0.3</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
