@@ -87,6 +87,8 @@
 - [ ] [<code>UpgradeFailDialog: offer refresh option (#1942)</code>](https://github.com/elementary/appcenter/commit/a69a7756cdd73c823d00a64d755343180055de72)
 - [ ] [<code>Release 4.0.0 (#1939)</code>](https://github.com/elementary/appcenter/commit/708306914ca12a7db14ed3e59510c787e4f398f8)
   - <sub>Tags: <code>4.0.0</code></sub>
+- [ ] [<code>Update meson.build</code>](https://github.com/elementary/appcenter/commit/0d206ac564becd7646d408003d3fa8e9663a86fa)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -223,6 +225,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppData: 6.1.1 release notes (#694)</code>](https://github.com/elementary/terminal/commit/69e48f9314107dd36c6421610f2947657ecfc2b0)
+- [ ] [<code>Release 6.1.1 (#695)</code>](https://github.com/elementary/terminal/commit/f46c93ece24cdeb160568581dcefc2def654a95f)
+  - <sub>Tags: <code>6.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -407,6 +412,9 @@
 - [ ] [<code>Animate switches (#225)</code>](https://github.com/elementary/switchboard-plug-sound/commit/f093e716c84e154509ec1620a9f47a6c22ae5a0a)
 - [ ] [<code>PulseAudioManager: add device form factor icon fallbacks (#228)</code>](https://github.com/elementary/switchboard-plug-sound/commit/34fd8e0ed3abe12bd27b967dab5d2c876994ac93)
 - [ ] [<code>AppData: 2.3.2 release notes (#230)</code>](https://github.com/elementary/switchboard-plug-sound/commit/29357e04b8f9bbdbe7fb9cd910dcf1c950533a15)
+- [ ] [<code>Release 2.3.2 (#231)</code>](https://github.com/elementary/switchboard-plug-sound/commit/35837b527c9f217a5b58b7305fe9b739417a2295)
+  - <sub>Tags: <code>2.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -607,6 +615,7 @@
 - [ ] [<code>Application: simplify contract creation (#178)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/0d88940af8c9358ffa993c8c971cb11911a6f89e)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Update Application.vala (#181)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/178a0dba827b496703384bb2966c10729c7d887d)
+- [ ] [<code>BtSender: Provide feedback when transfer blocked (#182)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ecfc5793aabda457d161ff9cdbdaa27a565b331d)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -644,13 +653,8 @@
 
 - [ ] [<code>Docs: Add missing 'cd build' instruction to the readme (#86)</code>](https://github.com/elementary/capnet-assist/commit/0fd243417d72f35e60317cf18b09aa9c33b292d8)
 
-#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.2 → HEAD](https://github.com/elementary/notifications/compare/6.0.2...HEAD)
+#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
-- [ ] [<code>Appdata: Reorganize (#178)</code>](https://github.com/elementary/notifications/commit/32506dc6e054e4c12b9eb6b1410fa89d3e4ae779)
-- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/5a4f41773cf22c64d167624c6655b24a09a126b4)
-- [ ] [<code>Update notifications.appdata.xml.in</code>](https://github.com/elementary/notifications/commit/8c1f67e1835fd1a7f35fb22973693ad40d2bb418)
-- [ ] [<code>Release 6.0.3 (#181)</code>](https://github.com/elementary/notifications/commit/ac4a171d98b3da6d6fea29554c932c1fc78cb40c)
-  - <sub>Tags: <code>6.0.3</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
@@ -669,6 +673,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update portals.appdata.xml.in</code>](https://github.com/elementary/portals/commit/e682081e608f55b875547c1d8a8d93ec089ba837)
+- [ ] [<code>Release 1.2.0 (#57)</code>](https://github.com/elementary/portals/commit/fda6400b1ba48754518d7160c76b2903d009740a)
+  - <sub>Tags: <code>1.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
