@@ -69,7 +69,10 @@
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>harvester.py: cache_folder should be a pathlib.Path.</code>](https://github.com/linuxmint/cinnamon/commit/7c884631de90802b1a74f55c0d05f6af4c6bcd7c)
 - [ ] [<code>windowMenu.js: Never allow more than one menu at a time.</code>](https://github.com/linuxmint/cinnamon/commit/e49a997d60c23921eec879ca3cb44ba2177be39d)
+- [ ] [<code>appSwitcher.js: Account for alt-tab reverse actions in the window.</code>](https://github.com/linuxmint/cinnamon/commit/af3361847cb9a0944a7b7ac15299dab918e56a9f)
+- [ ] [<code>cs_keyboard: Add missing switch-panels and switch-panels-backward</code>](https://github.com/linuxmint/cinnamon/commit/1877d2feead01506dfb2c6615d8514c65b4ba27b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -87,8 +90,9 @@
 
 - [ ] [<code>Fix some introspection problems.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2798e1904a9bef7e4c73f1ab2774d333c7339710)
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/134816e76a90c3a4f12f87b4365865ac95e938cf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Keybindings: Add a default keybinding for 'switch-panels-backward'.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/df0b3b943613391cbe1d27c0f4ec7c7a4bd08b08)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
 
