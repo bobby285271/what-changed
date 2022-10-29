@@ -118,6 +118,7 @@
 - [ ] [<code>Add flatpak folders to gitignore (#720)</code>](https://github.com/elementary/photos/commit/04281c372f2c92f910c2a2a2697c686a481a7998)
 - [ ] [<code>Update appdata for next release (#721)</code>](https://github.com/elementary/photos/commit/1494d1ebe4ba52dac1c796115190e888547bd936)
 - [ ] [<code>Fix empty Open with context submenus (#723)</code>](https://github.com/elementary/photos/commit/b0521d570294d62bfa404bc10ee081a276099759)
+- [ ] [<code>Resources: use fd.o icon name for calendar (#724)</code>](https://github.com/elementary/photos/commit/939df61b2e43358dfd7b88a4b0c9f95f72a79720)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
