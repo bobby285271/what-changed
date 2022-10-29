@@ -61,6 +61,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
+- [ ] [<code>Launcher: launch with current time to fix workspace switching</code>](https://github.com/elementary/dock/commit/d87da45cbd89d30790f7e81f07151379874cb1b2)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
 
