@@ -470,6 +470,10 @@
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/42ea138264daac95da955ed0f8d93ada2ba56a9e)
 - [ ] [<code>Fix segfault for issue 327</code>](https://github.com/stsdc/monitor/commit/ebaff832e8c74ae119880154361281cc9391cd2a)
 - [ ] [<code>Simplify the fix assuming size is always non zero</code>](https://github.com/stsdc/monitor/commit/600684e838323743d67ebdf9f3ccead388c91eb5)
+- [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/37c2e3ad8712e2163a40f9b86802919a1c8e0d9c)
+- [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/737da6979d877e923b488025847d23efa5af81dc)
+- [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/6d8e6487136b0b9560a1dae7c0873b2f587899cf)
+- [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/9d4c8d9601cc36c30f77fcd1846e138dd39ab5c8)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -548,6 +552,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Linter: Fix & alignment</code>](https://github.com/JoseExposito/touchegg/commit/377afd003698d0bc00e01eaa095420935330c13c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Config: remove two finger pinch for firefox</code>](https://github.com/JoseExposito/touchegg/commit/34e947181d84620021601e7f28deb1983a154da8)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
