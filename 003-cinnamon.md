@@ -71,8 +71,9 @@
 - [ ] [<code>windowMenu.js: Never allow more than one menu at a time.</code>](https://github.com/linuxmint/cinnamon/commit/e49a997d60c23921eec879ca3cb44ba2177be39d)
 - [ ] [<code>appSwitcher.js: Account for alt-tab reverse actions in the window.</code>](https://github.com/linuxmint/cinnamon/commit/af3361847cb9a0944a7b7ac15299dab918e56a9f)
 - [ ] [<code>cs_keyboard: Add missing switch-panels and switch-panels-backward</code>](https://github.com/linuxmint/cinnamon/commit/1877d2feead01506dfb2c6615d8514c65b4ba27b)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#11143)</code>](https://github.com/linuxmint/cinnamon/commit/2a42b80a4f106de3ea3f3ce4a8d3695d96fb224c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -92,6 +93,8 @@
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/134816e76a90c3a4f12f87b4365865ac95e938cf)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Keybindings: Add a default keybinding for 'switch-panels-backward'.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/df0b3b943613391cbe1d27c0f4ec7c7a4bd08b08)
+- [ ] [<code>gvc-channel-map.c: Fix return with a value in a void function.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/cd0bad265ecbe871cd3d50d5949e24f0b1c26e87)
+- [ ] [<code>gnome-wall-clock.c: Fix a gi scanner warning.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/27c8b4ae9f3e76641b7dddab26951336c21ca36c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
@@ -177,6 +180,7 @@
 - [ ] [<code>tooltips: ensure tooltips are viewable.</code>](https://github.com/linuxmint/muffin/commit/d7d44599ac2c535104ad9f036f5fb0982e3c7ec8)
 - [ ] [<code>window-props: Change a warning to a debug message.</code>](https://github.com/linuxmint/muffin/commit/1220f469193958148aa998bbc040971d1b3330ee)
 - [ ] [<code>meta-input-settings: Re-apply settings once the display is</code>](https://github.com/linuxmint/muffin/commit/48b8252afc77eccb0e0388bb7abe3386648be8e3)
+- [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#638)</code>](https://github.com/linuxmint/muffin/commit/01f88614f08f19f548ccce9a191ab5edd911c05a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
