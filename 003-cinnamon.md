@@ -197,8 +197,10 @@
 - [ ] [<code>nemo-desktop: Add Desktop Settings action</code>](https://github.com/linuxmint/nemo/commit/79519dfe2c30ea1d0d106449579ea71f3962a11a)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>l10n: Update POT and files</code>](https://github.com/linuxmint/nemo/commit/b69cd628ffe49c4b521936b8c36d06fe6abfbfc3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>search: Perform deep counts on a search directories full file list,</code>](https://github.com/linuxmint/nemo/commit/6a0362f6e2e5bd93f300208e7c3b2bffb7f0ba1f)
+- [ ] [<code>nemo-search-directory-file.c: Add a missing NemoDirectory method.</code>](https://github.com/linuxmint/nemo/commit/74ca1a5fe3e53a55c5f2dee2a3aff0c6a97d0046)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
