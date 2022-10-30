@@ -173,6 +173,7 @@
 - [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/aa6bc2e5ff81c3440ebab47ce1e77ed3ec8a9cd2)
 - [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/70271ff6ea5f4d7927a679f981198ae54b3141fa)
 - [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/46aa059e9eee383b25e31384b4c93754ed662721)
+- [ ] [<code>SamplePlug: Remove show_all for GTK 4 (#251)</code>](https://github.com/elementary/switchboard/commit/9fdfb025cc8e83c0251f020d242d952f587c3808)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
