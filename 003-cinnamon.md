@@ -73,7 +73,11 @@
 - [ ] [<code>cs_keyboard: Add missing switch-panels and switch-panels-backward</code>](https://github.com/linuxmint/cinnamon/commit/1877d2feead01506dfb2c6615d8514c65b4ba27b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#11143)</code>](https://github.com/linuxmint/cinnamon/commit/2a42b80a4f106de3ea3f3ce4a8d3695d96fb224c)
+- [ ] [<code>cs_info: There should be no image set by default.</code>](https://github.com/linuxmint/cinnamon/commit/f8c09b013cf0938df6ad2825598a75a81992c6f6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs-info: Don't fail with the default system-icon-path value (#11245)</code>](https://github.com/linuxmint/cinnamon/commit/be4ed1632ef4f640b5e35c087fe8279b18c1d6a9)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
