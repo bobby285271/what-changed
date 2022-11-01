@@ -86,6 +86,8 @@
 - [ ] [<code>FileOperations: Prepare the move to Vala-generated structures (#2091)</code>](https://github.com/elementary/files/commit/0d5dffb851c8a31d8158dac5f46cfeb010164a0a)
 - [ ] [<code>More work towards the Vala port (#2092)</code>](https://github.com/elementary/files/commit/53983bde62c45d3c10557a50ee7ae982e0c53abd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.2.0 (#2093)</code>](https://github.com/elementary/files/commit/952bd67ac1b0f9ca65daf956368c9b9db71b1ab9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
 
@@ -174,6 +176,7 @@
 - [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/70271ff6ea5f4d7927a679f981198ae54b3141fa)
 - [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/46aa059e9eee383b25e31384b4c93754ed662721)
 - [ ] [<code>SamplePlug: Remove show_all for GTK 4 (#251)</code>](https://github.com/elementary/switchboard/commit/9fdfb025cc8e83c0251f020d242d952f587c3808)
+- [ ] [<code>Plug: Remove unused category other (#252)</code>](https://github.com/elementary/switchboard/commit/2d10bdfa2ba8caa48ab24e8c0cdc07c0f96db7eb)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -536,6 +539,7 @@
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
+- [ ] [<code>appdata: move <issues> out of <description> to make AppData valid again (#237)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f46f10795a424552a3084b4d1520443b4c2a2b9f)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
