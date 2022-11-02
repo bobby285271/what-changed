@@ -76,8 +76,14 @@
 - [ ] [<code>cs_info: There should be no image set by default.</code>](https://github.com/linuxmint/cinnamon/commit/f8c09b013cf0938df6ad2825598a75a81992c6f6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs-info: Don't fail with the default system-icon-path value (#11245)</code>](https://github.com/linuxmint/cinnamon/commit/be4ed1632ef4f640b5e35c087fe8279b18c1d6a9)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add support for key bindings to Inhibit Applet</code>](https://github.com/linuxmint/cinnamon/commit/4a921f45d80d461290f01bb0ecead8db5a5dbff0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Cleanup whitespace</code>](https://github.com/linuxmint/cinnamon/commit/18d2377f8839c842232e096570d7b25a46953f39)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/cinnamon/commit/dd334a6a05a626fca2ff401ec3bb48f6570c8eca)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -99,6 +105,7 @@
 - [ ] [<code>Keybindings: Add a default keybinding for 'switch-panels-backward'.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/df0b3b943613391cbe1d27c0f4ec7c7a4bd08b08)
 - [ ] [<code>gvc-channel-map.c: Fix return with a value in a void function.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/cd0bad265ecbe871cd3d50d5949e24f0b1c26e87)
 - [ ] [<code>gnome-wall-clock.c: Fix a gi scanner warning.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/27c8b4ae9f3e76641b7dddab26951336c21ca36c)
+- [ ] [<code>fix a null pointer deref scan-build found</code>](https://github.com/linuxmint/cinnamon-desktop/commit/92d13a882e59f410900faf1ce339898f9408105b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
