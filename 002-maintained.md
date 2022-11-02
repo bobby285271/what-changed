@@ -479,6 +479,10 @@
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/1965e0a6f1b4191c75bb660e0f014974b27d0f36)
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/30940805358ed6c9bd3ad987c4e5bf8ea2701c84)
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/ce97464acaafeef15d4490ead548ef6f8fd4db98)
+- [ ] [<code>Adding first test #329</code>](https://github.com/stsdc/monitor/commit/06c458ba853f12a65ec8efaf80adc278094620e4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>publish on Launchpad only on release</code>](https://github.com/stsdc/monitor/commit/d5a99ffd337e966120c8bdbb82bb60981fbdf738)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
