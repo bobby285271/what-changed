@@ -93,6 +93,7 @@
 
 - [ ] [<code>Update for Icons 7.1.0 (#26)</code>](https://github.com/elementary/iconbrowser/commit/ea167a72d36000293aa56bfdc791b33386636be8)
 - [ ] [<code>Fix missing `device=dri` flatpak permission (#27)</code>](https://github.com/elementary/iconbrowser/commit/0b1eed5def53352ac3719f240731099fe3172eb3)
+- [ ] [<code>Update iconbrowser.appdata.xml.in</code>](https://github.com/elementary/iconbrowser/commit/7871f8e5fe5baea29a961e20bf7cf7e97d604add)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -194,6 +195,8 @@
 - [ ] [<code>Better memory and storage info (#251)</code>](https://github.com/elementary/switchboard-plug-about/commit/fc4cdcf205d8c49601bcd5dea16007fd07bffa5a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Reboot to Firmware Setup (#253)</code>](https://github.com/elementary/switchboard-plug-about/commit/45f9360a51c328877c0654d715fc94e94a349ee5)
+- [ ] [<code>FirmwareView: Add missing ellipsis</code>](https://github.com/elementary/switchboard-plug-about/commit/d7f1640c5d3c8cb80fc1e8f0754452dd70f3a236)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
