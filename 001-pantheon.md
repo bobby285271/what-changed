@@ -590,6 +590,7 @@
 - [ ] [<code>pinebookpro: Update to latest ap6256-firmware git repository</code>](https://github.com/elementary/os/commit/288efe21ade712f561c21975f12315d677811ff0)
 - [ ] [<code>workflows: Update all the action dependencies</code>](https://github.com/elementary/os/commit/c1ef466e1ccf131ded323d3b1fc422cd00ce36ce)
 - [ ] [<code>update readme with new ci badges and smaller icon (#629)</code>](https://github.com/elementary/os/commit/64526111511e4f29b0400dde9eb95ef61f62e261)
+- [ ] [<code>Enable security repositories (#631)</code>](https://github.com/elementary/os/commit/bb2bc02b4e50431c39f3fc62874a2663dcac50cc)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
