@@ -516,6 +516,7 @@
 - [ ] [<code>Update Italian translation (#162)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/34f2f2944b9d1cc9f569908293c57320369b9b37)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/204063e9909841a99551bc17ee96f3983ca5395b)
+- [ ] [<code>CI: Use checkout v3 (#165)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/519c83b20ae15487a508fd772c48565b0d27a8e2)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
