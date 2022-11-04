@@ -211,6 +211,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>search: Perform deep counts on a search directories full file list,</code>](https://github.com/linuxmint/nemo/commit/6a0362f6e2e5bd93f300208e7c3b2bffb7f0ba1f)
 - [ ] [<code>nemo-search-directory-file.c: Add a missing NemoDirectory method.</code>](https://github.com/linuxmint/nemo/commit/74ca1a5fe3e53a55c5f2dee2a3aff0c6a97d0046)
+- [ ] [<code>location bar: Add an option to always switch back to the pathbar</code>](https://github.com/linuxmint/nemo/commit/7ed6889706b24297cf8dfdfe01ada3d64583372a)
+- [ ] [<code>Prevent interactive search from interfering with keystrokes</code>](https://github.com/linuxmint/nemo/commit/910ccd64c64e48982bd90bd3ba12bbf3b5390487)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
