@@ -600,3 +600,4 @@
 - [ ] [<code>Pantheon: Noise → Music</code>](https://github.com/elementary/seeds/commit/c0c5a223d15735baa6facb5c2c9e05b33ac8b06d)
 - [ ] [<code>Prevent installation of budgie-desktop (#95)</code>](https://github.com/elementary/seeds/commit/ac9c506115c88812a04b2a851a7ce103802a0a82)
 - [ ] [<code>jammy: Remove gnome-remote-desktop (#96)</code>](https://github.com/elementary/seeds/commit/d00c31a0b5f86a2926770cd335de9718233d18ef)
+- [ ] [<code>Install elementary apps via apt (#98)</code>](https://github.com/elementary/seeds/commit/479da8bfa754c5f84c14bfeb8935f22f044d7455)
