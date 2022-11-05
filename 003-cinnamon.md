@@ -82,6 +82,16 @@
 - [ ] [<code>Cleanup whitespace</code>](https://github.com/linuxmint/cinnamon/commit/18d2377f8839c842232e096570d7b25a46953f39)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/cinnamon/commit/dd334a6a05a626fca2ff401ec3bb48f6570c8eca)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: Actually use `XDG_DATA_HOME` to store themes and icons instead of home (#11175)</code>](https://github.com/linuxmint/cinnamon/commit/0fc32e2047ec9e451034ebd87a50caeb240eb6c4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Use XDG_CONFIG_HOME to store background config files instead of .cinnamon (#11177)</code>](https://github.com/linuxmint/cinnamon/commit/c0986743cad1f3daa39425b5a125b22d7b6f1daa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use XDG_CONFIG_HOME to primarily store spices configs in (#11182)</code>](https://github.com/linuxmint/cinnamon/commit/f3729147cb652b2e13969a76fb861a276e602ee3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: use XDG_DATA_HOME to store custom launchers, also fix launcher desklet (#11185)</code>](https://github.com/linuxmint/cinnamon/commit/844493a8279bb326c4ff79490d8f39c0d539960d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use `XDG_STATE_HOME` for logfiles instead of `~/.cinnamon` (#11186)</code>](https://github.com/linuxmint/cinnamon/commit/323b5aa3f3070168956c46cbb0ba140fe66215e8)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
@@ -213,6 +223,7 @@
 - [ ] [<code>nemo-search-directory-file.c: Add a missing NemoDirectory method.</code>](https://github.com/linuxmint/nemo/commit/74ca1a5fe3e53a55c5f2dee2a3aff0c6a97d0046)
 - [ ] [<code>location bar: Add an option to always switch back to the pathbar</code>](https://github.com/linuxmint/nemo/commit/7ed6889706b24297cf8dfdfe01ada3d64583372a)
 - [ ] [<code>Prevent interactive search from interfering with keystrokes</code>](https://github.com/linuxmint/nemo/commit/910ccd64c64e48982bd90bd3ba12bbf3b5390487)
+- [ ] [<code>debian/control(nemo-dbg): priority extra->optional</code>](https://github.com/linuxmint/nemo/commit/3bf56f3850b459887477955617cf63581d76e7d0)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
