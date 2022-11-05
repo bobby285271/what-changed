@@ -88,6 +88,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 6.2.0 (#2093)</code>](https://github.com/elementary/files/commit/952bd67ac1b0f9ca65daf956368c9b9db71b1ab9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.2.0 (#2094)</code>](https://github.com/elementary/files/commit/366df1158862c052cf90c329290d0294bbc38c81)
+  - <sub>Tags: <code>6.2.0</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
 
@@ -134,6 +136,7 @@
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
 - [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
+- [ ] [<code>Square icon design (#335)</code>](https://github.com/elementary/tasks/commit/dbf8ae726111bb5359c5c7cbbaf0ef91d7c2b242)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -334,6 +337,7 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
+- [ ] [<code>Update white tile icons (#1144)</code>](https://github.com/elementary/icons/commit/367c69b604ce957537ffc0c5565fadaa23d23f67)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -601,3 +605,4 @@
 - [ ] [<code>Prevent installation of budgie-desktop (#95)</code>](https://github.com/elementary/seeds/commit/ac9c506115c88812a04b2a851a7ce103802a0a82)
 - [ ] [<code>jammy: Remove gnome-remote-desktop (#96)</code>](https://github.com/elementary/seeds/commit/d00c31a0b5f86a2926770cd335de9718233d18ef)
 - [ ] [<code>Install elementary apps via apt (#98)</code>](https://github.com/elementary/seeds/commit/479da8bfa754c5f84c14bfeb8935f22f044d7455)
+- [ ] [<code>Actions: use checkout v3</code>](https://github.com/elementary/seeds/commit/25a3ba2adc91c3e632fb01baf9d70e3aed365f6e)
