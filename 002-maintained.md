@@ -484,6 +484,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>publish on Launchpad only on release</code>](https://github.com/stsdc/monitor/commit/d5a99ffd337e966120c8bdbb82bb60981fbdf738)
+- [ ] [<code>add simple scale to choose refresh rate</code>](https://github.com/stsdc/monitor/commit/9a397926c7ad84fcf7cf1ebc72ad01b1fdf20340)
+- [ ] [<code>read time update value from settings #325</code>](https://github.com/stsdc/monitor/commit/7dfabb0e4886009bfe505eaf8f1d7ce9256f9d5f)
+- [ ] [<code>Save update time to settings #325</code>](https://github.com/stsdc/monitor/commit/e9d1210dbbb37a7477e1cf9ec6147d1dc0bcf6cc)
+- [ ] [<code>uncomment and remove debug</code>](https://github.com/stsdc/monitor/commit/d266fe292b3bc0f3368a0c919a6454e2cdb2993e)
+- [ ] [<code>fix linting</code>](https://github.com/stsdc/monitor/commit/192552589effa5d6d75ea963bf3795a969c94ea9)
+- [ ] [<code>Respect update time setting #235</code>](https://github.com/stsdc/monitor/commit/145f06e19e298e1d16c72a196c50cc4ecc5130cb)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
