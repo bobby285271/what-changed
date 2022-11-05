@@ -69,27 +69,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.1.4 → HEAD](https://github.com/elementary/files/compare/6.1.4...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.0 → HEAD](https://github.com/elementary/files/compare/6.2.0...HEAD)
 
-- [ ] [<code>Fix terminal critical warnings and possible crash when removing bookmark (#2062)</code>](https://github.com/elementary/files/commit/daa5ab244b45aafdd7be49eb0bd6f052ded5b5a7)
-- [ ] [<code>Show overlay bar only on selection  (#2034)</code>](https://github.com/elementary/files/commit/d44ef6fb7a4ce4c59e0deb836907f01c34776672)
-- [ ] [<code>Get bookmark icon directly if not in corresponding Files.File (#2054)</code>](https://github.com/elementary/files/commit/72263bd75d51ebeb13e5758ea48df67dd287f8d4)
-- [ ] [<code>Fix logic for revealing infobar (#2074)</code>](https://github.com/elementary/files/commit/db88604e6f468dc7e6168dfdca7e0d1235249d76)
-- [ ] [<code>Improve startup when restored location is no longer connected (#2018)</code>](https://github.com/elementary/files/commit/b4679bc883d90c5e6aee40cc1f07fc875a9c0819)
-- [ ] [<code>Close slot early before mode change; cancel another timeout (#2079)</code>](https://github.com/elementary/files/commit/00c05c8fa315b775c37c034d4938ef1445e7514e)
-- [ ] [<code>Destroy overwrite dialog first (#2077)</code>](https://github.com/elementary/files/commit/b43c0c716f9baa2499cd8e4da67714996f9aec21)
-- [ ] [<code>Base ViewContainer on Box; expand content_box (#2080)</code>](https://github.com/elementary/files/commit/a34b310730393c453d09312fc44e04acdcacdd11)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Double click option (#1981)</code>](https://github.com/elementary/files/commit/558a523f347880beb408349481ce7f8f4d47ac0c)
-- [ ] [<code>Fix Gettext Action (#2086)</code>](https://github.com/elementary/files/commit/479b6c40ea4821cc99c9ec1bed861a3d77042f2d)
-- [ ] [<code>Prevent unexpected file activation after navigation with double-click (#2089)</code>](https://github.com/elementary/files/commit/77030a2c1a9a303373cdc713b232d5b9655dca97)
-- [ ] [<code>FileOperations: Prepare the move to Vala-generated structures (#2091)</code>](https://github.com/elementary/files/commit/0d5dffb851c8a31d8158dac5f46cfeb010164a0a)
-- [ ] [<code>More work towards the Vala port (#2092)</code>](https://github.com/elementary/files/commit/53983bde62c45d3c10557a50ee7ae982e0c53abd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.2.0 (#2093)</code>](https://github.com/elementary/files/commit/952bd67ac1b0f9ca65daf956368c9b9db71b1ab9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.2.0 (#2094)</code>](https://github.com/elementary/files/commit/366df1158862c052cf90c329290d0294bbc38c81)
-  - <sub>Tags: <code>6.2.0</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
 
