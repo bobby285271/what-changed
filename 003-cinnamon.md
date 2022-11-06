@@ -92,7 +92,14 @@
 - [ ] [<code>fix: use XDG_DATA_HOME to store custom launchers, also fix launcher desklet (#11185)</code>](https://github.com/linuxmint/cinnamon/commit/844493a8279bb326c4ff79490d8f39c0d539960d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use `XDG_STATE_HOME` for logfiles instead of `~/.cinnamon` (#11186)</code>](https://github.com/linuxmint/cinnamon/commit/323b5aa3f3070168956c46cbb0ba140fe66215e8)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>remove unused imports harvester.py</code>](https://github.com/linuxmint/cinnamon/commit/9150b4d0299dc3a2fc65120baee787b7c8a1a533)
+- [ ] [<code>remove unused imports updates.py</code>](https://github.com/linuxmint/cinnamon/commit/75af79b7770abc057478083308655e4ba0a672ee)
+- [ ] [<code>use @staticmethod in Spices.py (#11257)</code>](https://github.com/linuxmint/cinnamon/commit/86cda6c584190830722d7f08a1b22ddc10786778)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix python docstring style (#11258)</code>](https://github.com/linuxmint/cinnamon/commit/4c5deb0a2bd152badee72935122d4d1154874590)
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
@@ -322,6 +329,9 @@
 
 - [ ] [<code>Update README.md to include build dependencies and instructions (#45)</code>](https://github.com/linuxmint/timeshift/commit/b0f745031b6eea5e7eafa0aa6aaebc051ea26e3f)
 - [ ] [<code>Changes man page to GROFF format (#73)</code>](https://github.com/linuxmint/timeshift/commit/baeae70c7a19d32931ce4939484e8f3de19d84cf)
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/timeshift/commit/c43657e769ced4239a4e8676d46e3c88464f0d55)
+- [ ] [<code>Clean up debian/control, appdata, build file.</code>](https://github.com/linuxmint/timeshift/commit/4fbedd573625a08b1240642381bf8fcfff40c5c2)
+- [ ] [<code>debian/control: Restore newline.</code>](https://github.com/linuxmint/timeshift/commit/e8edf174dc01536ab056c8594f92ee8a5ef14d96)
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
