@@ -96,11 +96,17 @@
 - [ ] [<code>remove unused imports harvester.py</code>](https://github.com/linuxmint/cinnamon/commit/9150b4d0299dc3a2fc65120baee787b7c8a1a533)
 - [ ] [<code>remove unused imports updates.py</code>](https://github.com/linuxmint/cinnamon/commit/75af79b7770abc057478083308655e4ba0a672ee)
 - [ ] [<code>use @staticmethod in Spices.py (#11257)</code>](https://github.com/linuxmint/cinnamon/commit/86cda6c584190830722d7f08a1b22ddc10786778)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>fix python docstring style (#11258)</code>](https://github.com/linuxmint/cinnamon/commit/4c5deb0a2bd152badee72935122d4d1154874590)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>simplify boolean check in cs_default</code>](https://github.com/linuxmint/cinnamon/commit/7669cbecdbf16ae26ca78e1153f03cdcff08cfef)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>remove redundant parentheses (#11259)</code>](https://github.com/linuxmint/cinnamon/commit/50a88f5b0fcf0f03a349b554ddd359e5bfed9a6d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Use a custom actor for the uiGroup.</code>](https://github.com/linuxmint/cinnamon/commit/6577feb68ab42fd651617295066269475a25138d)
+- [ ] [<code>cs_backgrounds: Use font-size instead of font-scale to reduce the</code>](https://github.com/linuxmint/cinnamon/commit/60fde9403e5ece1932b031a9fdbabd9ef278cf5c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
