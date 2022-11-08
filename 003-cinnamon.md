@@ -105,8 +105,14 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Use a custom actor for the uiGroup.</code>](https://github.com/linuxmint/cinnamon/commit/6577feb68ab42fd651617295066269475a25138d)
 - [ ] [<code>cs_backgrounds: Use font-size instead of font-scale to reduce the</code>](https://github.com/linuxmint/cinnamon/commit/60fde9403e5ece1932b031a9fdbabd9ef278cf5c)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Fix some hardcode path issues (#11244)</code>](https://github.com/linuxmint/cinnamon/commit/b881ad787c6d59554b69bc61ca8f4a7f51827d73)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/cinnamon/commit/f195cf1d7bdcd3e1ef29d47d2a1dfe8e93f3b777)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>removed unused variable check-js</code>](https://github.com/linuxmint/cinnamon/commit/d0982692983bd7d304b0f919578dd978d8047cf5)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -338,6 +344,15 @@
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/timeshift/commit/c43657e769ced4239a4e8676d46e3c88464f0d55)
 - [ ] [<code>Clean up debian/control, appdata, build file.</code>](https://github.com/linuxmint/timeshift/commit/4fbedd573625a08b1240642381bf8fcfff40c5c2)
 - [ ] [<code>debian/control: Restore newline.</code>](https://github.com/linuxmint/timeshift/commit/e8edf174dc01536ab056c8594f92ee8a5ef14d96)
+- [ ] [<code>#939, #937: Fix crash on ArchLinux and Ubuntu 22.10 Kinetic</code>](https://github.com/linuxmint/timeshift/commit/22216d6acbb15dc24689d3349239fe5f40d13c63)
+- [ ] [<code>Don't show message when unmounting temporary mount points</code>](https://github.com/linuxmint/timeshift/commit/12791a98ecfa598a7f8d70e111ef826653797409)
+- [ ] [<code>Remove some unused code and functions</code>](https://github.com/linuxmint/timeshift/commit/b481c2e532f9bcf30c6f08df05199766e6e4ea99)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use -Os for compilation instead of -O3</code>](https://github.com/linuxmint/timeshift/commit/1fd2f2df0cd4681f8acd09d2d191a8237d0ff865)
+- [ ] [<code>Update timeshift-gtk.desktop</code>](https://github.com/linuxmint/timeshift/commit/f7c82b8997a7c0d29e3d45f97aea31a706123db7)
+- [ ] [<code>Fix typo in timeshift-gtk.desktop</code>](https://github.com/linuxmint/timeshift/commit/717060bacb026b6988b3a055f4bc73ba204e9488)
+- [ ] [<code>Fix some file permissions.</code>](https://github.com/linuxmint/timeshift/commit/92ad80cb0fba0520846108b021022dfbfd807335)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
