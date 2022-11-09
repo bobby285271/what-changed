@@ -112,7 +112,9 @@
 - [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/cinnamon/commit/f195cf1d7bdcd3e1ef29d47d2a1dfe8e93f3b777)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>removed unused variable check-js</code>](https://github.com/linuxmint/cinnamon/commit/d0982692983bd7d304b0f919578dd978d8047cf5)
+- [ ] [<code>GWL: Move nemo shortcut to the left</code>](https://github.com/linuxmint/cinnamon/commit/a7588374bb099efe16be4b0db90478306c6d67e1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -243,6 +245,10 @@
 - [ ] [<code>location bar: Add an option to always switch back to the pathbar</code>](https://github.com/linuxmint/nemo/commit/7ed6889706b24297cf8dfdfe01ada3d64583372a)
 - [ ] [<code>Prevent interactive search from interfering with keystrokes</code>](https://github.com/linuxmint/nemo/commit/910ccd64c64e48982bd90bd3ba12bbf3b5390487)
 - [ ] [<code>debian/control(nemo-dbg): priority extra->optional</code>](https://github.com/linuxmint/nemo/commit/3bf56f3850b459887477955617cf63581d76e7d0)
+- [ ] [<code>Remove custom btime (creation time) code.</code>](https://github.com/linuxmint/nemo/commit/5fdbc5fcc166b54633309ee3481c40a1b581fe6b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add support for file creation time via GFileInfo.</code>](https://github.com/linuxmint/nemo/commit/b0d084290317d854946dc3a50d0cd538d1286dbf)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
@@ -290,6 +296,7 @@
 - [ ] [<code>xapp-sn-watcher: Add a debug key to specify flags.</code>](https://github.com/linuxmint/xapp/commit/11f2ad9141dbb6444daa511f4ea6853894c56059)
 - [ ] [<code>sn-item: Silence warning caused when an app exits without notice.</code>](https://github.com/linuxmint/xapp/commit/bdafe1c1436e633792e6a335f03e864762568329)
 - [ ] [<code>Use G_LOG_LEVEL_MESSAGE for debugging messages.</code>](https://github.com/linuxmint/xapp/commit/3fba699d5bae1d0b44fc1d111e9304f5d54ce435)
+- [ ] [<code>favorites: Try to use a file's display name from file attributes</code>](https://github.com/linuxmint/xapp/commit/02d53d6e1f0ec61ccf242666295427f347c4f394)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
