@@ -72,13 +72,8 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.0 → HEAD](https://github.com/elementary/files/compare/6.2.0...HEAD)
 
 
-#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.0.0...HEAD)
+#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
-- [ ] [<code>Update for Icons 7.1.0 (#26)</code>](https://github.com/elementary/iconbrowser/commit/ea167a72d36000293aa56bfdc791b33386636be8)
-- [ ] [<code>Fix missing `device=dri` flatpak permission (#27)</code>](https://github.com/elementary/iconbrowser/commit/0b1eed5def53352ac3719f240731099fe3172eb3)
-- [ ] [<code>Update iconbrowser.appdata.xml.in</code>](https://github.com/elementary/iconbrowser/commit/7871f8e5fe5baea29a961e20bf7cf7e97d604add)
-- [ ] [<code>Release 2.1.1 (#28)</code>](https://github.com/elementary/iconbrowser/commit/da3c35f5aa12fc24d0310fdbce1d44586c751364)
-  - <sub>Tags: <code>2.1.1</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
