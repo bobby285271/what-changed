@@ -321,6 +321,7 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
 - [ ] [<code>Update white tile icons (#1144)</code>](https://github.com/elementary/icons/commit/367c69b604ce957537ffc0c5565fadaa23d23f67)
+- [ ] [<code>Redesign system-file-manager (#1147)</code>](https://github.com/elementary/icons/commit/da35e07766d56a889887489cac6bb4ef8b826c3d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
