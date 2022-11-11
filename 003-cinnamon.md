@@ -297,6 +297,11 @@
 - [ ] [<code>sn-item: Silence warning caused when an app exits without notice.</code>](https://github.com/linuxmint/xapp/commit/bdafe1c1436e633792e6a335f03e864762568329)
 - [ ] [<code>Use G_LOG_LEVEL_MESSAGE for debugging messages.</code>](https://github.com/linuxmint/xapp/commit/3fba699d5bae1d0b44fc1d111e9304f5d54ce435)
 - [ ] [<code>favorites: Try to use a file's display name from file attributes</code>](https://github.com/linuxmint/xapp/commit/02d53d6e1f0ec61ccf242666295427f347c4f394)
+- [ ] [<code>favorite-vfs-file.c: Fix memory leak.</code>](https://github.com/linuxmint/xapp/commit/6cb60f0134542cba60aeff6034ffa3f95afa0ec0)
+- [ ] [<code>build: Use gnome.mkenums_simple() to generate enum types.</code>](https://github.com/linuxmint/xapp/commit/b649bc9cb88bcda36d4ddb17afe1afae898817e6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>sn-item.c: Clean up temp files when finalizing.</code>](https://github.com/linuxmint/xapp/commit/c486cbcfe418360160648c78ea36b19f73c398d6)
+- [ ] [<code>sn-item.c: Don't unref the menu during cleanup.</code>](https://github.com/linuxmint/xapp/commit/403fa1e2df0e3a6c82d46002d89709da81551c31)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
