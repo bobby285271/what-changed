@@ -10,6 +10,7 @@
 
 - [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/calculator/commit/47432b3ec2815e143f45cb34f83dc41245b9d453)
 - [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
+- [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
 
@@ -71,6 +72,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.0 → HEAD](https://github.com/elementary/files/compare/6.2.0...HEAD)
 
+- [ ] [<code>FileOperations: Fix crash creating new empty file (#2099)</code>](https://github.com/elementary/files/commit/19410682f84a252a223d783d8837619fd1e53015)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
