@@ -5,6 +5,7 @@
 
 - [ ] [<code>Update meson.build</code>](https://github.com/elementary/appcenter/commit/0d206ac564becd7646d408003d3fa8e9663a86fa)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PackageKitBackend: resolve addons in appstream pool (#1946)</code>](https://github.com/elementary/appcenter/commit/ebf4c36f64d62158a18708adfeb2440589cfba8e)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
