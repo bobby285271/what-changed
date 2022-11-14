@@ -525,6 +525,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/204063e9909841a99551bc17ee96f3983ca5395b)
 - [ ] [<code>CI: Use checkout v3 (#165)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/519c83b20ae15487a508fd772c48565b0d27a8e2)
+- [ ] [<code>Update Russian translation (#167)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71c10f03c77988f3f7f6d9f31730dfcce1b545ae)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
