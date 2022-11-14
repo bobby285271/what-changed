@@ -249,6 +249,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add support for file creation time via GFileInfo.</code>](https://github.com/linuxmint/nemo/commit/b0d084290317d854946dc3a50d0cd538d1286dbf)
+- [ ] [<code>Add ability to display date columns in a monospaced font.</code>](https://github.com/linuxmint/nemo/commit/0686ec5f75c0456c140c79169607cf6b5ef44175)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
