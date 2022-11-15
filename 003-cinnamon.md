@@ -113,6 +113,24 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>removed unused variable check-js</code>](https://github.com/linuxmint/cinnamon/commit/d0982692983bd7d304b0f919578dd978d8047cf5)
 - [ ] [<code>GWL: Move nemo shortcut to the left</code>](https://github.com/linuxmint/cinnamon/commit/a7588374bb099efe16be4b0db90478306c6d67e1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add a setting for notification duration (#11202)</code>](https://github.com/linuxmint/cinnamon/commit/b2e1490fc8d92e3d4cdb36d4f4fd90faa5cc471b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rename "Preferences" to "Applet preferences" in applets where it might be confusing (#11216)</code>](https://github.com/linuxmint/cinnamon/commit/f9267d558335082f9d11c1b9d03a9cc4ec8568a5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Categorize default applications (#11287)</code>](https://github.com/linuxmint/cinnamon/commit/89c7722b2e90f6fd01bf6d5bf1aa91d55075c38c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_default: Fix a typo, and set a default height to prevent the</code>](https://github.com/linuxmint/cinnamon/commit/efdd025f9500dc7e1f6b8598511dc04a1b402c13)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add key bindings to move window to workspace up/down (#11264)</code>](https://github.com/linuxmint/cinnamon/commit/b1893114ad1b5e9d1fae8e2bf976e58b38fef0cd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_keyboard: Improve a few keybinding descriptions.</code>](https://github.com/linuxmint/cinnamon/commit/6a7f3a637e6792f872c93be0b55bcfe85cf25ed0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>The middle click toggles the sound and places the microphone in the same state. #11255 (#11256)</code>](https://github.com/linuxmint/cinnamon/commit/c575a29d9d96735056412d0b09feb7f5fdf3512a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_default.py: Add entry for terminal exec-arg</code>](https://github.com/linuxmint/cinnamon/commit/d6d8f3453c847e1e59803ea564ebedc5c1b0f096)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Improve presentation of terminal args.</code>](https://github.com/linuxmint/cinnamon/commit/eca601febd67536863548f5de23743bb0e23a969)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -125,8 +143,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0422c8a407591f6b1be9652a27b0c66cb3c3de8e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n: respect localedir option from meson again</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f07587c02302b1a41e999f7bfb520f36ae7e364)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
@@ -137,6 +157,7 @@
 - [ ] [<code>gvc-channel-map.c: Fix return with a value in a void function.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/cd0bad265ecbe871cd3d50d5949e24f0b1c26e87)
 - [ ] [<code>gnome-wall-clock.c: Fix a gi scanner warning.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/27c8b4ae9f3e76641b7dddab26951336c21ca36c)
 - [ ] [<code>fix a null pointer deref scan-build found</code>](https://github.com/linuxmint/cinnamon-desktop/commit/92d13a882e59f410900faf1ce339898f9408105b)
+- [ ] [<code>Add a setting for notification duration (#215)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/97f12712e91f57c9e51c49be1420d69c6622a9a9)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
@@ -158,6 +179,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Rework stack management, separate backup locker lifecycle from main</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0fb83ef0baf7969a4e15e0cc33617c66f0d481e9)
+- [ ] [<code>logging: Skip buffering for most log output, clean up debug logging.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/3e0a14fcebd8e7cc4a96b71a672308d27e2fb5f3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
