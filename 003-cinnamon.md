@@ -245,6 +245,7 @@
 - [ ] [<code>window-props: Change a warning to a debug message.</code>](https://github.com/linuxmint/muffin/commit/1220f469193958148aa998bbc040971d1b3330ee)
 - [ ] [<code>meta-input-settings: Re-apply settings once the display is</code>](https://github.com/linuxmint/muffin/commit/48b8252afc77eccb0e0388bb7abe3386648be8e3)
 - [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#638)</code>](https://github.com/linuxmint/muffin/commit/01f88614f08f19f548ccce9a191ab5edd911c05a)
+- [ ] [<code>Revert renaming of the X11 atoms wm_name and gnome_wm_keybindings</code>](https://github.com/linuxmint/muffin/commit/cfaaa4a2e7d3bf6f2ba57e84c4818d7d53614ade)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
