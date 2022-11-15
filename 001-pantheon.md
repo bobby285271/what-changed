@@ -480,6 +480,7 @@
 - [ ] [<code>Release 6.3.3 (#1480)</code>](https://github.com/elementary/gala/commit/34f7c03779478f70e533e7cd44511782b0392901)
   - <sub>Tags: <code>6.3.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Reload animated wallpapers when timezone changes (#1461)</code>](https://github.com/elementary/gala/commit/2c6aa503b6b7886db1b8acf0e6c60dff8ed9ae14)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
