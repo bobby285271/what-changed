@@ -164,8 +164,10 @@
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-menus/commit/f9d9a90597896db10592ac67b3a6c8a7b15bc789)
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5059e532c6eee0b6ef1ba26cabf054825dbaf089)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/0b01bf1b3ebbf97cb24a50f5638dd1ed5b8df1f8)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.4.4 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.4.4...HEAD)
 
@@ -326,7 +328,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>sn-item.c: Clean up temp files when finalizing.</code>](https://github.com/linuxmint/xapp/commit/c486cbcfe418360160648c78ea36b19f73c398d6)
 - [ ] [<code>sn-item.c: Don't unref the menu during cleanup.</code>](https://github.com/linuxmint/xapp/commit/403fa1e2df0e3a6c82d46002d89709da81551c31)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>2.4.0</code>](https://github.com/linuxmint/xapp/commit/e72ac73ffa32ec24b03538c66cf9885131508159)
+  - <sub>Tags: <code>2.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
