@@ -6,6 +6,7 @@
 - [ ] [<code>Update meson.build</code>](https://github.com/elementary/appcenter/commit/0d206ac564becd7646d408003d3fa8e9663a86fa)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PackageKitBackend: resolve addons in appstream pool (#1946)</code>](https://github.com/elementary/appcenter/commit/ebf4c36f64d62158a18708adfeb2440589cfba8e)
+- [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -51,6 +52,9 @@
 - [ ] [<code>Show symbol outline pane on right of document (#1048)</code>](https://github.com/elementary/code/commit/9cf6b746c3e0e00bc97b8b3bc74f11461c056b3b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>POTFILES: Remove strip-trailing plugin</code>](https://github.com/elementary/code/commit/96d6fb92b25d3e4f41cdb1b6da002b166382b662)
+- [ ] [<code>POTFILES: Update symbol outline paths</code>](https://github.com/elementary/code/commit/a7db70bdcbfa28ddb97951375241a0de7dd83198)
+- [ ] [<code>plugins POTFILES: Remove strip-trailing and outline</code>](https://github.com/elementary/code/commit/58276be9b8ca4b52273ddd1abcbd8fb0390d5da7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -74,6 +78,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.0 → HEAD](https://github.com/elementary/files/compare/6.2.0...HEAD)
 
 - [ ] [<code>FileOperations: Fix crash creating new empty file (#2099)</code>](https://github.com/elementary/files/commit/19410682f84a252a223d783d8837619fd1e53015)
+- [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2100)</code>](https://github.com/elementary/files/commit/371eded3b72a9e8c447d7bda801d7394c5625fcb)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -320,6 +325,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
 - [ ] [<code>Update white tile icons (#1144)</code>](https://github.com/elementary/icons/commit/367c69b604ce957537ffc0c5565fadaa23d23f67)
 - [ ] [<code>Redesign system-file-manager (#1147)</code>](https://github.com/elementary/icons/commit/da35e07766d56a889887489cac6bb4ef8b826c3d)
+- [ ] [<code>Redesign accessories-calculator (#1148)</code>](https://github.com/elementary/icons/commit/07fb7d6ff55d159ced9ae40b5f95720cb028f125)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -346,6 +352,9 @@
 - [ ] [<code>Plank: add Files dock item (#271)</code>](https://github.com/elementary/default-settings/commit/810e55ecc114d23270320606068bc0a5b3018953)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>GPLv3+ license added (#243)</code>](https://github.com/elementary/default-settings/commit/c228c2ea30f2382410e7d76b79136cfd853a0f06)
+- [ ] [<code>Release 7.0.0 (#272)</code>](https://github.com/elementary/default-settings/commit/2c03d1b076aac72ca2a6c346c4e247fc4c309c71)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
 
