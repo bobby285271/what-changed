@@ -573,6 +573,9 @@
 - [ ] [<code>Linter: Fix & alignment</code>](https://github.com/JoseExposito/touchegg/commit/377afd003698d0bc00e01eaa095420935330c13c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Config: remove two finger pinch for firefox</code>](https://github.com/JoseExposito/touchegg/commit/34e947181d84620021601e7f28deb1983a154da8)
+- [ ] [<code>Update to v2.0.15</code>](https://github.com/JoseExposito/touchegg/commit/e7577a22fbce1e42634c8a16c6cb2b39a377e0f6)
+  - <sub>Tags: <code>2.0.15</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
