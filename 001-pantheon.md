@@ -14,17 +14,8 @@
 - [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
 - [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
 
-#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.1 → HEAD](https://github.com/elementary/calendar/compare/6.1.1...HEAD)
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
-- [ ] [<code>build: Drop libecal-1.2 support (#757)</code>](https://github.com/elementary/calendar/commit/e2c7c1e265ce571271933c934b86b01f9ebe2efb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add check for termination of by_day_array (#760)</code>](https://github.com/elementary/calendar/commit/f041aa385b1bece096a8b05b9be90014644563c5)
-- [ ] [<code>GridDay: Fix day in month in grid with GLib 2.73.1+ (#763)</code>](https://github.com/elementary/calendar/commit/20b0983c85935bedef065b786ec8bbca55ba7d9e)
-- [ ] [<code>Metainfo: add 6.1.2 release notes (#767)</code>](https://github.com/elementary/calendar/commit/d90eb49404430f076155c82d7774ff92b8450411)
-- [ ] [<code>Release 6.1.2 (#768)</code>](https://github.com/elementary/calendar/commit/7ade6132c099e0f594ff318b2eaab5a90da45176)
-  - <sub>Tags: <code>6.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
@@ -82,13 +73,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.0 → HEAD](https://github.com/elementary/files/compare/6.2.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
-- [ ] [<code>FileOperations: Fix crash creating new empty file (#2099)</code>](https://github.com/elementary/files/commit/19410682f84a252a223d783d8837619fd1e53015)
-- [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2100)</code>](https://github.com/elementary/files/commit/371eded3b72a9e8c447d7bda801d7394c5625fcb)
-- [ ] [<code>Release 6.2.1 (#2101)</code>](https://github.com/elementary/files/commit/7b94267be19a472bafaa097aa69083368346bc38)
-  - <sub>Tags: <code>6.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -109,20 +95,8 @@
 - [ ] [<code>Application: hard code gtk styles (#723)</code>](https://github.com/elementary/music/commit/4e22268d38574e56eb3b42ae201c99cc98b510db)
 - [ ] [<code>Metainfo: Use branding tag and screenshot caption (#724)</code>](https://github.com/elementary/music/commit/2080271c8627eaf781b6548d79f9ae3dec22c7e6)
 
-#### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.7.5 → HEAD](https://github.com/elementary/photos/compare/2.7.5...HEAD)
+#### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
-- [ ] [<code>Add Photo Viewer icons (#716)</code>](https://github.com/elementary/photos/commit/80ac13731ea1ed32f90293929a08bc138fe4d111)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Copy image (#701)</code>](https://github.com/elementary/photos/commit/9323cc6a4a87a062f047ffd9fbbe56f9ab749817)
-- [ ] [<code>Remove leftover temporary warnings (#722)</code>](https://github.com/elementary/photos/commit/3f137054840f8f707d47d8028bf7bae7f6a3f16a)
-- [ ] [<code>Add flatpak folders to gitignore (#720)</code>](https://github.com/elementary/photos/commit/04281c372f2c92f910c2a2a2697c686a481a7998)
-- [ ] [<code>Update appdata for next release (#721)</code>](https://github.com/elementary/photos/commit/1494d1ebe4ba52dac1c796115190e888547bd936)
-- [ ] [<code>Fix empty Open with context submenus (#723)</code>](https://github.com/elementary/photos/commit/b0521d570294d62bfa404bc10ee081a276099759)
-- [ ] [<code>Resources: use fd.o icon name for calendar (#724)</code>](https://github.com/elementary/photos/commit/939df61b2e43358dfd7b88a4b0c9f95f72a79720)
-- [ ] [<code>Release 2.8.0 (#729)</code>](https://github.com/elementary/photos/commit/7261606a05d1f41116aba5c86b62d1f739419ed1)
-  - <sub>Tags: <code>2.8.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -373,24 +347,8 @@
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.0 → HEAD](https://github.com/elementary/greeter/compare/6.1.0...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
-- [ ] [<code>AppData: Change name (#609)</code>](https://github.com/elementary/greeter/commit/5c5f00bfd2d5da8b808c3a9c4db96f9ce38b942b)
-- [ ] [<code>DBusAccelerator: Use the right prototype to expose the interface (#614)</code>](https://github.com/elementary/greeter/commit/16ee7f4dba15423dc60bf5a998fffc4eabf9c73b)
-  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>Synchronize the .vapi with Gala</code>](https://github.com/elementary/greeter/commit/11dadd1315da0e62e6e95f64081c60317efa1e7f)
-- [ ] [<code>Add support for Mutter 43</code>](https://github.com/elementary/greeter/commit/6318ee489e8aead4ec02c3da965ac2be278e82b1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Dialogs: add AccessDialog class</code>](https://github.com/elementary/greeter/commit/770bb572ed5de5038ab50f9106b4726f9b61926e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/greeter/commit/4972c1b7a07e0141eceeae3c24cc1baba921a83e)
-- [ ] [<code>disable login again while connecting (#581)</code>](https://github.com/elementary/greeter/commit/2e9a2f22ad669bcbcd0a442c91589921cfc9ada4)
-- [ ] [<code>Fix CI (#622)</code>](https://github.com/elementary/greeter/commit/a877bceecad4acedf653e7c4c04fd19942784ad4)
-- [ ] [<code>Metainfo: add 6.1.1 release notes (#625)</code>](https://github.com/elementary/greeter/commit/cd7b6cea7a731317a7d5af532feb25f1624e7027)
-- [ ] [<code>Release 6.1.1 (#626)</code>](https://github.com/elementary/greeter/commit/93bbca3f65e84a1c1a1eadc146df18de9eb2d5a6)
-  - <sub>Tags: <code>6.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -510,23 +468,8 @@
 
 ## desktop/wingpanel-indicators
 
-#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.10.2 → HEAD](https://github.com/elementary/applications-menu/compare/2.10.2...HEAD)
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.0 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.0...HEAD)
 
-- [ ] [<code>Add unit testing to calculator plugin (#542)</code>](https://github.com/elementary/applications-menu/commit/53f93cf3dae1e49238cf9ed1efc2a19b223a2b61)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Improve calculator plugin (#539)</code>](https://github.com/elementary/applications-menu/commit/d762f5a6ca05297885f56a0e5f3d834accec90dc)
-- [ ] [<code>Unit conversion plugin (#541)</code>](https://github.com/elementary/applications-menu/commit/771db040afe6355031889ce3968ed84eb5e6aaa6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use regex to parse conversion plugin input (#545)</code>](https://github.com/elementary/applications-menu/commit/e44d69828361104c3771c7c9ab415ab082c8ad08)
-- [ ] [<code>Fix Gettext Action (#550)</code>](https://github.com/elementary/applications-menu/commit/c99974cba20c125fe2ae602631f08e7a102be847)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/applications-menu/commit/7d6b45d17cb556e7a0cea1c47c50fb5e3621f432)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Switch to launching with Gdk.AppLaunchContext (#549)</code>](https://github.com/elementary/applications-menu/commit/08b4f82391ae2a829c3a0b35f9a3a4be87229390)
-- [ ] [<code>ci: Run the tests (#551)</code>](https://github.com/elementary/applications-menu/commit/dc38f698c0a5786e32fe14dcf67e538ae533e668)
-- [ ] [<code>Metainfo: add release notes for 2.11.0 (#554)</code>](https://github.com/elementary/applications-menu/commit/0fbcf1e1d5edb4769c05870edcad32ff90f9f760)
-- [ ] [<code>Release 2.11.0 (#555)</code>](https://github.com/elementary/applications-menu/commit/c7a7a1256692d9130a62c05529931e7b3f63df56)
-  - <sub>Tags: <code>2.11.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
