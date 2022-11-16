@@ -561,22 +561,8 @@
 #### [torrential](https://github.com/davidmhewitt/torrential): [2.0.1 → HEAD](https://github.com/davidmhewitt/torrential/compare/2.0.1...HEAD)
 
 
-#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.14 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.14...HEAD)
+#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
-- [ ] [<code>README: Add install instructions for Fedora (official repo)</code>](https://github.com/JoseExposito/touchegg/commit/d39a9447615d42642360862448e377f9c8ed5c82)
-- [ ] [<code>added advice for starting service on fedora</code>](https://github.com/JoseExposito/touchegg/commit/43133ed982ea712a2b4cf10d90d42368d7e0473c)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>undid formatting</code>](https://github.com/JoseExposito/touchegg/commit/1d3e8132f8430c498b1486d6589ecea8db811de1)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Warn about Wayland</code>](https://github.com/JoseExposito/touchegg/commit/4a59a8cf4e22ae44a3773d438b2428170337f5dc)
-- [ ] [<code>Add TOUCHEGG_DEVICE_TYPE environment variable to RUN_COMMAND</code>](https://github.com/JoseExposito/touchegg/commit/c828d4f94475ef3c6a3043c0afdda3d075db795d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Linter: Fix & alignment</code>](https://github.com/JoseExposito/touchegg/commit/377afd003698d0bc00e01eaa095420935330c13c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Config: remove two finger pinch for firefox</code>](https://github.com/JoseExposito/touchegg/commit/34e947181d84620021601e7f28deb1983a154da8)
-- [ ] [<code>Update to v2.0.15</code>](https://github.com/JoseExposito/touchegg/commit/e7577a22fbce1e42634c8a16c6cb2b39a377e0f6)
-  - <sub>Tags: <code>2.0.15</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
