@@ -491,6 +491,7 @@
 - [ ] [<code>fix linting</code>](https://github.com/stsdc/monitor/commit/192552589effa5d6d75ea963bf3795a969c94ea9)
 - [ ] [<code>Respect update time setting #235</code>](https://github.com/stsdc/monitor/commit/145f06e19e298e1d16c72a196c50cc4ecc5130cb)
 - [ ] [<code>Add Docker icon</code>](https://github.com/stsdc/monitor/commit/50c5101b1204dd09b12f2ca850d6ac28a11c4962)
+- [ ] [<code>using harmonic mean to calculate frequency values</code>](https://github.com/stsdc/monitor/commit/169fa73ac3d9a4c1279f7d0b16180264080a382c)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
