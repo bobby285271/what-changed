@@ -21,6 +21,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add check for termination of by_day_array (#760)</code>](https://github.com/elementary/calendar/commit/f041aa385b1bece096a8b05b9be90014644563c5)
 - [ ] [<code>GridDay: Fix day in month in grid with GLib 2.73.1+ (#763)</code>](https://github.com/elementary/calendar/commit/20b0983c85935bedef065b786ec8bbca55ba7d9e)
+- [ ] [<code>Metainfo: add 6.1.2 release notes (#767)</code>](https://github.com/elementary/calendar/commit/d90eb49404430f076155c82d7774ff92b8450411)
+- [ ] [<code>Release 6.1.2 (#768)</code>](https://github.com/elementary/calendar/commit/7ade6132c099e0f594ff318b2eaab5a90da45176)
+  - <sub>Tags: <code>6.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
@@ -55,6 +59,9 @@
 - [ ] [<code>POTFILES: Remove strip-trailing plugin</code>](https://github.com/elementary/code/commit/96d6fb92b25d3e4f41cdb1b6da002b166382b662)
 - [ ] [<code>POTFILES: Update symbol outline paths</code>](https://github.com/elementary/code/commit/a7db70bdcbfa28ddb97951375241a0de7dd83198)
 - [ ] [<code>plugins POTFILES: Remove strip-trailing and outline</code>](https://github.com/elementary/code/commit/58276be9b8ca4b52273ddd1abcbd8fb0390d5da7)
+- [ ] [<code>ProjectFolderItem: Fix wrong ngettext syntax</code>](https://github.com/elementary/code/commit/096e158652f159bc107513c465f6a2d04828fa57)
+- [ ] [<code>Redesign app icon as a tile (#1211)</code>](https://github.com/elementary/code/commit/1d4907070dbbe45eedaf714f83f36a4fad944eb1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -79,6 +86,9 @@
 
 - [ ] [<code>FileOperations: Fix crash creating new empty file (#2099)</code>](https://github.com/elementary/files/commit/19410682f84a252a223d783d8837619fd1e53015)
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2100)</code>](https://github.com/elementary/files/commit/371eded3b72a9e8c447d7bda801d7394c5625fcb)
+- [ ] [<code>Release 6.2.1 (#2101)</code>](https://github.com/elementary/files/commit/7b94267be19a472bafaa097aa69083368346bc38)
+  - <sub>Tags: <code>6.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -110,6 +120,9 @@
 - [ ] [<code>Update appdata for next release (#721)</code>](https://github.com/elementary/photos/commit/1494d1ebe4ba52dac1c796115190e888547bd936)
 - [ ] [<code>Fix empty Open with context submenus (#723)</code>](https://github.com/elementary/photos/commit/b0521d570294d62bfa404bc10ee081a276099759)
 - [ ] [<code>Resources: use fd.o icon name for calendar (#724)</code>](https://github.com/elementary/photos/commit/939df61b2e43358dfd7b88a4b0c9f95f72a79720)
+- [ ] [<code>Release 2.8.0 (#729)</code>](https://github.com/elementary/photos/commit/7261606a05d1f41116aba5c86b62d1f739419ed1)
+  - <sub>Tags: <code>2.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
 
@@ -123,6 +136,10 @@
 
 - [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
 - [ ] [<code>Square icon design (#335)</code>](https://github.com/elementary/tasks/commit/dbf8ae726111bb5359c5c7cbbaf0ef91d7c2b242)
+- [ ] [<code>Create release notes for 6.3.1 (#343)</code>](https://github.com/elementary/tasks/commit/3067f80765e56734d4f3a4680ea9cc01853acff7)
+- [ ] [<code>Release 6.3.1 (#344)</code>](https://github.com/elementary/tasks/commit/de5bad0f4e9802454e537a77022fd100984f6000)
+  - <sub>Tags: <code>6.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -370,6 +387,10 @@
 - [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/greeter/commit/4972c1b7a07e0141eceeae3c24cc1baba921a83e)
 - [ ] [<code>disable login again while connecting (#581)</code>](https://github.com/elementary/greeter/commit/2e9a2f22ad669bcbcd0a442c91589921cfc9ada4)
 - [ ] [<code>Fix CI (#622)</code>](https://github.com/elementary/greeter/commit/a877bceecad4acedf653e7c4c04fd19942784ad4)
+- [ ] [<code>Metainfo: add 6.1.1 release notes (#625)</code>](https://github.com/elementary/greeter/commit/cd7b6cea7a731317a7d5af532feb25f1624e7027)
+- [ ] [<code>Release 6.1.1 (#626)</code>](https://github.com/elementary/greeter/commit/93bbca3f65e84a1c1a1eadc146df18de9eb2d5a6)
+  - <sub>Tags: <code>6.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -502,6 +523,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Switch to launching with Gdk.AppLaunchContext (#549)</code>](https://github.com/elementary/applications-menu/commit/08b4f82391ae2a829c3a0b35f9a3a4be87229390)
 - [ ] [<code>ci: Run the tests (#551)</code>](https://github.com/elementary/applications-menu/commit/dc38f698c0a5786e32fe14dcf67e538ae533e668)
+- [ ] [<code>Metainfo: add release notes for 2.11.0 (#554)</code>](https://github.com/elementary/applications-menu/commit/0fbcf1e1d5edb4769c05870edcad32ff90f9f760)
+- [ ] [<code>Release 2.11.0 (#555)</code>](https://github.com/elementary/applications-menu/commit/c7a7a1256692d9130a62c05529931e7b3f63df56)
+  - <sub>Tags: <code>2.11.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
