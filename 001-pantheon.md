@@ -94,6 +94,9 @@
 - [ ] [<code>Enable the NEXT button if repeat mode is set to ALL or ONE. (#712)</code>](https://github.com/elementary/music/commit/3249e3ca247dfd5ff6b14f4feeeeed63b435bcb8)
 - [ ] [<code>Application: hard code gtk styles (#723)</code>](https://github.com/elementary/music/commit/4e22268d38574e56eb3b42ae201c99cc98b510db)
 - [ ] [<code>Metainfo: Use branding tag and screenshot caption (#724)</code>](https://github.com/elementary/music/commit/2080271c8627eaf781b6548d79f9ae3dec22c7e6)
+- [ ] [<code>Metainfo improvements (#728)</code>](https://github.com/elementary/music/commit/8de8adea5d5ff4f0ef2cee78cd67b3d9e5845641)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Add Gettext to Merge</code>](https://github.com/elementary/music/commit/da93a26d96fbf580a50788119ba3e779d086e41b)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -329,6 +332,7 @@
 - [ ] [<code>Add Photo of Valley (#172)</code>](https://github.com/elementary/wallpapers/commit/2ac5b9856e967677e0ba34ef6e5d5f540a7570bb)
 - [ ] [<code>Remvoe Jonas Nilsson Lee (#171)</code>](https://github.com/elementary/wallpapers/commit/2486baee93f91c819e4d60977a9460804cff22ca)
 - [ ] [<code>Update wallpapers.appdata.xml.in</code>](https://github.com/elementary/wallpapers/commit/c6d6cd27a74576f4b4fc8b07fedac4d32f18b1cf)
+- [ ] [<code>Metainfo: use preferences-desktop-wallpaper icon</code>](https://github.com/elementary/wallpapers/commit/4f1ccc61c182ff70d7f6cd7e1ed1588e0ca66cde)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
