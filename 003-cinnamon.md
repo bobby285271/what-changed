@@ -131,8 +131,11 @@
 - [ ] [<code>cs_default.py: Add entry for terminal exec-arg</code>](https://github.com/linuxmint/cinnamon/commit/d6d8f3453c847e1e59803ea564ebedc5c1b0f096)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Improve presentation of terminal args.</code>](https://github.com/linuxmint/cinnamon/commit/eca601febd67536863548f5de23743bb0e23a969)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>layout.js: Actually change actor visibility on fullscreen monitors.</code>](https://github.com/linuxmint/cinnamon/commit/1deb0ff03652f0613a564e86c8090f7f007eb970)
+- [ ] [<code>Restore set_skip_paint method for the uiGroup.</code>](https://github.com/linuxmint/cinnamon/commit/c7ecb6dfeeaaada5877ae2136778b9b96af50a40)
+- [ ] [<code>appletManager.js: Fix typo.</code>](https://github.com/linuxmint/cinnamon/commit/c8ed2ed330871b312275145f3364da41762f92bb)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -145,8 +148,14 @@
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0422c8a407591f6b1be9652a27b0c66cb3c3de8e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>l10n: respect localedir option from meson again</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f07587c02302b1a41e999f7bfb520f36ae7e364)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Desktop files: Fix keywords translations</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5a8f817355702c8c5348b4291d5a8293da9da7d1)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e8114393e89d8bb055f5edee0a8058a940235947)
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/18d03ddf523f352c4703dcdccd333715e3b80bf1)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.4.2...HEAD)
 
@@ -182,27 +191,37 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Rework stack management, separate backup locker lifecycle from main</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0fb83ef0baf7969a4e15e0cc33617c66f0d481e9)
 - [ ] [<code>logging: Skip buffering for most log output, clean up debug logging.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/3e0a14fcebd8e7cc4a96b71a672308d27e2fb5f3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>remove trailing semicolons (#419)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/55f950b9bdb1e5c390f8dac9035fba68907eba9a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>replace equality None check with identity None check (#420)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/35fe7f1386bfc4d58fd0d5cea3140cf6a2cf986e)
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/020b33ff3b386cc42fbad972f61ee836ad6fbaea)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cinnamon-session/commit/29fd37f6d8f94763c13b4f76cd91f047fbccbf81)
 - [ ] [<code>Accept Desktop Entry Specification v1.5 (#153)</code>](https://github.com/linuxmint/cinnamon-session/commit/586aa3b625b5039532dbdd3c839306ebff4f84c2)
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-session/commit/50c706e60476296b874852da0e6c6eb43309e7d7)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-session/commit/455a8aa6e64e2473835289392b8c841b13568adc)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.4.5 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.4.5...HEAD)
 
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/23fd6c03f5cdb2d5772cf4f50d3f74ee3b4f1763)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f31da8c20eae9dea9844062aa30dd6d8405d935d)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.4.2...HEAD)
 
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cinnamon-translations/commit/055a1fb3fed5a2210f24368803bfc6903d8da128)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/0e425cbd3824250206091b51f65682624a9c83f9)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.4.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.4.1...HEAD)
 
@@ -275,6 +294,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add support for file creation time via GFileInfo.</code>](https://github.com/linuxmint/nemo/commit/b0d084290317d854946dc3a50d0cd538d1286dbf)
 - [ ] [<code>Add ability to display date columns in a monospaced font.</code>](https://github.com/linuxmint/nemo/commit/0686ec5f75c0456c140c79169607cf6b5ef44175)
+- [ ] [<code>nemo-file-operations.c: Fix null pointer error.</code>](https://github.com/linuxmint/nemo/commit/b9953e61f61724f46740ac77317720549cdf6005)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
@@ -329,9 +349,13 @@
 - [ ] [<code>sn-item.c: Clean up temp files when finalizing.</code>](https://github.com/linuxmint/xapp/commit/c486cbcfe418360160648c78ea36b19f73c398d6)
 - [ ] [<code>sn-item.c: Don't unref the menu during cleanup.</code>](https://github.com/linuxmint/xapp/commit/403fa1e2df0e3a6c82d46002d89709da81551c31)
 - [ ] [<code>2.4.0</code>](https://github.com/linuxmint/xapp/commit/e72ac73ffa32ec24b03538c66cf9885131508159)
-  - <sub>Tags: <code>2.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>2.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix typo</code>](https://github.com/linuxmint/xapp/commit/6688a913154d5744183de5a6c6a1ef44e5e9bfcf)
+- [ ] [<code>2.4.1</code>](https://github.com/linuxmint/xapp/commit/6450abc27ec17a631e9fe39e1cc70047a5e039a6)
+  - <sub>Tags: <code>2.4.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.4.5 → HEAD](https://github.com/linuxmint/xreader/compare/3.4.5...HEAD)
 
@@ -346,7 +370,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Add missing requires for the typelib</code>](https://github.com/linuxmint/xreader/commit/b74c567b743acdca5c286c9a0a8fa776400b316f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Revert "build/i18n: migrate from intltool to gettext (#552)"</code>](https://github.com/linuxmint/xreader/commit/3604d80a7dd483669470656fd7bf3b7f536e8064)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>3.6.0</code>](https://github.com/linuxmint/xreader/commit/2a7cd0e1e856576dd943be883519f184513d2700)
+  - <sub>Tags: <code>3.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
