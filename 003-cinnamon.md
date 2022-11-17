@@ -135,6 +135,7 @@
 - [ ] [<code>layout.js: Actually change actor visibility on fullscreen monitors.</code>](https://github.com/linuxmint/cinnamon/commit/1deb0ff03652f0613a564e86c8090f7f007eb970)
 - [ ] [<code>Restore set_skip_paint method for the uiGroup.</code>](https://github.com/linuxmint/cinnamon/commit/c7ecb6dfeeaaada5877ae2136778b9b96af50a40)
 - [ ] [<code>appletManager.js: Fix typo.</code>](https://github.com/linuxmint/cinnamon/commit/c8ed2ed330871b312275145f3364da41762f92bb)
+- [ ] [<code>layout.js: Fix picking in fullscreen.</code>](https://github.com/linuxmint/cinnamon/commit/736b2e1452b5164965cf9d129063a08c6d7952e3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
@@ -167,7 +168,9 @@
 - [ ] [<code>gnome-wall-clock.c: Fix a gi scanner warning.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/27c8b4ae9f3e76641b7dddab26951336c21ca36c)
 - [ ] [<code>fix a null pointer deref scan-build found</code>](https://github.com/linuxmint/cinnamon-desktop/commit/92d13a882e59f410900faf1ce339898f9408105b)
 - [ ] [<code>Add a setting for notification duration (#215)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/97f12712e91f57c9e51c49be1420d69c6622a9a9)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/28006f9607029f7049f8314c41f5d2b46a566e0d)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.4.0...HEAD)
 
@@ -267,7 +270,10 @@
 - [ ] [<code>meta-input-settings: Re-apply settings once the display is</code>](https://github.com/linuxmint/muffin/commit/48b8252afc77eccb0e0388bb7abe3386648be8e3)
 - [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#638)</code>](https://github.com/linuxmint/muffin/commit/01f88614f08f19f548ccce9a191ab5edd911c05a)
 - [ ] [<code>Revert renaming of the X11 atoms wm_name and gnome_wm_keybindings</code>](https://github.com/linuxmint/muffin/commit/cfaaa4a2e7d3bf6f2ba57e84c4818d7d53614ade)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/muffin/commit/fac8bad7fa1bba4208dc2cbbb32b256f73757082)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
 
@@ -295,6 +301,7 @@
 - [ ] [<code>Add support for file creation time via GFileInfo.</code>](https://github.com/linuxmint/nemo/commit/b0d084290317d854946dc3a50d0cd538d1286dbf)
 - [ ] [<code>Add ability to display date columns in a monospaced font.</code>](https://github.com/linuxmint/nemo/commit/0686ec5f75c0456c140c79169607cf6b5ef44175)
 - [ ] [<code>nemo-file-operations.c: Fix null pointer error.</code>](https://github.com/linuxmint/nemo/commit/b9953e61f61724f46740ac77317720549cdf6005)
+- [ ] [<code>nemo-file-operations.c: Handle a couple more potential problems</code>](https://github.com/linuxmint/nemo/commit/33c37a82e88a8e6b289b3b0d2010ce0caece4bdb)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
