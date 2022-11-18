@@ -136,6 +136,9 @@
 - [ ] [<code>Restore set_skip_paint method for the uiGroup.</code>](https://github.com/linuxmint/cinnamon/commit/c7ecb6dfeeaaada5877ae2136778b9b96af50a40)
 - [ ] [<code>appletManager.js: Fix typo.</code>](https://github.com/linuxmint/cinnamon/commit/c8ed2ed330871b312275145f3364da41762f92bb)
 - [ ] [<code>layout.js: Fix picking in fullscreen.</code>](https://github.com/linuxmint/cinnamon/commit/736b2e1452b5164965cf9d129063a08c6d7952e3)
+- [ ] [<code>python: optimize lists (#11281)</code>](https://github.com/linuxmint/cinnamon/commit/9d4543bfe319944d821c819bd20dd6ba80f0810a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Depend on libcjs0</code>](https://github.com/linuxmint/cinnamon/commit/3494866f0691f4e4a0cceb92656a1d69723ce3a2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
@@ -230,8 +233,18 @@
 
 - [ ] [<code>Fix .gitignore for builds</code>](https://github.com/linuxmint/cjs/commit/ec0a18fb4455e833300c55608edf25f48fcc82b9)
 - [ ] [<code>Use github instead of circleci.</code>](https://github.com/linuxmint/cjs/commit/7235a06fe12bff39c8ab15788fe8c8618a45f163)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>remove d/control.in and add override about it in d/rules</code>](https://github.com/linuxmint/cjs/commit/7e44276b0c682a56e37e8cb6ca7d0f36966c7800)
+- [ ] [<code>libcjs0f->libcjs0g, missed from gjs 1.70.0-4 rebase</code>](https://github.com/linuxmint/cjs/commit/2715fe1f16b92f670da3eb1ac572ad13ac98e01a)
+- [ ] [<code>d/control: remove duplicate build-dep</code>](https://github.com/linuxmint/cjs/commit/e4917b58e51fe146cc794cc8347300a1d1dbcdb0)
+- [ ] [<code>try to merge tests from debian package</code>](https://github.com/linuxmint/cjs/commit/c2774cc74f0a2708f133f1d69deb33ddeac3770f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>d/control: update build-dep min versions</code>](https://github.com/linuxmint/cjs/commit/efbb4dabb39cab7c9a66bed559f629eb74bb33ac)
+- [ ] [<code>Rename libcj0g -> libcjs0</code>](https://github.com/linuxmint/cjs/commit/24ee687f2971e000e93acf84e41880a5201be00d)
+- [ ] [<code>Merge pull request #109 from linuxmint/deb-improvements</code>](https://github.com/linuxmint/cjs/commit/d9b375cc7204779f5f7b4a3673444aaafca5a79f)
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cjs/commit/cae27a354cead52ad8e8605b4505c0d5918fc62d)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [3a202e401abca98623cd1dbc412221682081244c → HEAD](https://github.com/linuxmint/mint-themes/compare/3a202e401abca98623cd1dbc412221682081244c...HEAD)
 
@@ -270,9 +283,8 @@
 - [ ] [<code>meta-input-settings: Re-apply settings once the display is</code>](https://github.com/linuxmint/muffin/commit/48b8252afc77eccb0e0388bb7abe3386648be8e3)
 - [ ] [<code>Support multiple key bindings for 'locate-pointer-key' (#638)</code>](https://github.com/linuxmint/muffin/commit/01f88614f08f19f548ccce9a191ab5edd911c05a)
 - [ ] [<code>Revert renaming of the X11 atoms wm_name and gnome_wm_keybindings</code>](https://github.com/linuxmint/muffin/commit/cfaaa4a2e7d3bf6f2ba57e84c4818d7d53614ade)
-  - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>5.6.0</code>](https://github.com/linuxmint/muffin/commit/fac8bad7fa1bba4208dc2cbbb32b256f73757082)
-  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code></sub>
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.4.3...HEAD)
@@ -302,6 +314,9 @@
 - [ ] [<code>Add ability to display date columns in a monospaced font.</code>](https://github.com/linuxmint/nemo/commit/0686ec5f75c0456c140c79169607cf6b5ef44175)
 - [ ] [<code>nemo-file-operations.c: Fix null pointer error.</code>](https://github.com/linuxmint/nemo/commit/b9953e61f61724f46740ac77317720549cdf6005)
 - [ ] [<code>nemo-file-operations.c: Handle a couple more potential problems</code>](https://github.com/linuxmint/nemo/commit/33c37a82e88a8e6b289b3b0d2010ce0caece4bdb)
+- [ ] [<code>list view: Do show dates in monospace font by default</code>](https://github.com/linuxmint/nemo/commit/9fc6e715f2c2c6f498c33b3e91bc8aa97955c2b0)
+- [ ] [<code>Change location entry/pathbar behavior.</code>](https://github.com/linuxmint/nemo/commit/0ac19c02e9225372291ea2a01370eb415b557956)
+- [ ] [<code>Fix build on LMDE.</code>](https://github.com/linuxmint/nemo/commit/0905b9963db2eba058c46d4d86cf460dc95dcb16)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
