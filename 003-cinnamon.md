@@ -139,7 +139,19 @@
 - [ ] [<code>python: optimize lists (#11281)</code>](https://github.com/linuxmint/cinnamon/commit/9d4543bfe319944d821c819bd20dd6ba80f0810a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Depend on libcjs0</code>](https://github.com/linuxmint/cinnamon/commit/3494866f0691f4e4a0cceb92656a1d69723ce3a2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/16a8fad69f002c43bd67c6da637aceab814a3025)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon/commit/6bf29ed3a207d08d237086eac1d24bb91c00329c)
+  - <sub>Tags: <code>5.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>cs_info: Fix cosmetic issues with system icon</code>](https://github.com/linuxmint/cinnamon/commit/aae720d00fec3aaf0e3cd76c13fbbf203101b669)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_default: Fix small issues</code>](https://github.com/linuxmint/cinnamon/commit/6fb5c5d35f42ff5fc7f3eda457ab66d9b5a53dfc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/cinnamon/commit/e8138c320320b127b1595f13fc658a8895a27983)
+  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
@@ -317,6 +329,8 @@
 - [ ] [<code>list view: Do show dates in monospace font by default</code>](https://github.com/linuxmint/nemo/commit/9fc6e715f2c2c6f498c33b3e91bc8aa97955c2b0)
 - [ ] [<code>Change location entry/pathbar behavior.</code>](https://github.com/linuxmint/nemo/commit/0ac19c02e9225372291ea2a01370eb415b557956)
 - [ ] [<code>Fix build on LMDE.</code>](https://github.com/linuxmint/nemo/commit/0905b9963db2eba058c46d4d86cf460dc95dcb16)
+- [ ] [<code>Toolbar: Use actions to control the location/path bar switching.</code>](https://github.com/linuxmint/nemo/commit/c0fe6ecd8579ab24ed6dd0052e9a99c7c21ef1a3)
+- [ ] [<code>toolbar: Hide the location entry toggle when not needed, and limit</code>](https://github.com/linuxmint/nemo/commit/ae4262094804c396e22dd9a227b2297f7e27fe7a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
