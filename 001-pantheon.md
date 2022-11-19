@@ -522,6 +522,9 @@
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
 
+- [ ] [<code>Add icon and use it (#629)</code>](https://github.com/elementary/granite/commit/1c51d311013a9c3fabd68426864295fa187d288d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
