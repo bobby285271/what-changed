@@ -218,7 +218,9 @@
 - [ ] [<code>muffinClient.py: Fix behavior when muffin isn't available,</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/a6e86dd7d08084369f05e468fe901e51aaa7824a)
 - [ ] [<code>fix a typing error</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/94dcc6aa5918aa1bd1c0cee44af29dace95ac451)
 - [ ] [<code>muffinClient.py: Remove leftover debugging line.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/959e8600022973cec0da50472d0b54aef9fce714)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f86bd80bf9ad5e22b7d0fd5691cc303bc205c482)
+  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
@@ -259,7 +261,11 @@
 - [ ] [<code>Rename libcj0g -> libcjs0</code>](https://github.com/linuxmint/cjs/commit/24ee687f2971e000e93acf84e41880a5201be00d)
 - [ ] [<code>Merge pull request #109 from linuxmint/deb-improvements</code>](https://github.com/linuxmint/cjs/commit/d9b375cc7204779f5f7b4a3673444aaafca5a79f)
 - [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cjs/commit/cae27a354cead52ad8e8605b4505c0d5918fc62d)
-  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian: other small packaging improvements (#110)</code>](https://github.com/linuxmint/cjs/commit/26358cc6b1d97cab036ab253eb963e51eae1f9b9)
+- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/cjs/commit/597e3fb79d8177604f7e0eadac6019edc34c019f)
+  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [3a202e401abca98623cd1dbc412221682081244c → HEAD](https://github.com/linuxmint/mint-themes/compare/3a202e401abca98623cd1dbc412221682081244c...HEAD)
@@ -336,7 +342,9 @@
 - [ ] [<code>Toolbar: Use actions to control the location/path bar switching.</code>](https://github.com/linuxmint/nemo/commit/c0fe6ecd8579ab24ed6dd0052e9a99c7c21ef1a3)
 - [ ] [<code>toolbar: Hide the location entry toggle when not needed, and limit</code>](https://github.com/linuxmint/nemo/commit/ae4262094804c396e22dd9a227b2297f7e27fe7a)
 - [ ] [<code>pathbar/entry: Fix a couple of issues when changing pathbar/entry</code>](https://github.com/linuxmint/nemo/commit/ccee05ade3379856c1e68c88eb239cd136f4d2fc)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.6.0</code>](https://github.com/linuxmint/nemo/commit/4bc5c6c888b176d4a79c582414c55981c47b51fb)
+  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
 
@@ -438,7 +446,8 @@
 - [ ] [<code>Update common.py (#244)</code>](https://github.com/linuxmint/hypnotix/commit/8f5e38c850a0fcab2e07856b0f915ad4ad62088c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>d/control: Depends:  add python3-requests</code>](https://github.com/linuxmint/hypnotix/commit/6a99271b811d218af1eadc6998e4b8812361be56)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>3.0</code>](https://github.com/linuxmint/hypnotix/commit/3744bfb08abc48b27fab4df58698eab0748db6f0)
+  - <sub>Tags: <code>3.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -470,7 +479,10 @@
 - [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xed/commit/39e5e1d79c05026b44428beb7137ba4f71c24aea)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>minimap: Use a smaller font size.</code>](https://github.com/linuxmint/xed/commit/a506f7c302bba953f83ce2690276731ce227f8be)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>minimap: Use wide size by default</code>](https://github.com/linuxmint/xed/commit/53de508e6bac91b2333c3111ee4a5879bb60f272)
+- [ ] [<code>3.2.8</code>](https://github.com/linuxmint/xed/commit/67dee48f356b0996549f02ce20703504d64cd071)
+  - <sub>Tags: <code>3.2.8</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
