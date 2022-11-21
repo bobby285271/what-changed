@@ -333,6 +333,8 @@
 - [ ] [<code>Remvoe Jonas Nilsson Lee (#171)</code>](https://github.com/elementary/wallpapers/commit/2486baee93f91c819e4d60977a9460804cff22ca)
 - [ ] [<code>Update wallpapers.appdata.xml.in</code>](https://github.com/elementary/wallpapers/commit/c6d6cd27a74576f4b4fc8b07fedac4d32f18b1cf)
 - [ ] [<code>Metainfo: use preferences-desktop-wallpaper icon</code>](https://github.com/elementary/wallpapers/commit/4f1ccc61c182ff70d7f6cd7e1ed1588e0ca66cde)
+- [ ] [<code>Set default to Photo of Valley (#174)</code>](https://github.com/elementary/wallpapers/commit/026f4b7765013adf75fe17b7806478b35a4f7260)
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
@@ -566,6 +568,7 @@
 - [ ] [<code>Install elementary apps via apt (#632)</code>](https://github.com/elementary/os/commit/d285bf426e23950e2aa1d812d073bdb337547341)
 - [ ] [<code>Switch mode to debian (#635)</code>](https://github.com/elementary/os/commit/62e266e55d4f305f3d6db751b53747209d6e957a)
 - [ ] [<code>Update stable conf for building 7.0 rc (#633)</code>](https://github.com/elementary/os/commit/0c98f60ef573d80e1599590e35f6a3ae9d63ec3a)
+- [ ] [<code>ARM: don't fail whole workflow if one config fails (#637)</code>](https://github.com/elementary/os/commit/b16149f630a9d91068e37941c7bb3dcd0252c9c2)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
