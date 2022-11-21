@@ -213,8 +213,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>replace equality None check with identity None check (#420)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/35fe7f1386bfc4d58fd0d5cea3140cf6a2cf986e)
 - [ ] [<code>5.6.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/020b33ff3b386cc42fbad972f61ee836ad6fbaea)
-  - <sub>Tags: <code>5.6.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>muffinClient.py: Fix behavior when muffin isn't available,</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/a6e86dd7d08084369f05e468fe901e51aaa7824a)
+- [ ] [<code>fix a typing error</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/94dcc6aa5918aa1bd1c0cee44af29dace95ac451)
+- [ ] [<code>muffinClient.py: Remove leftover debugging line.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/959e8600022973cec0da50472d0b54aef9fce714)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.4.0...HEAD)
 
@@ -331,6 +335,7 @@
 - [ ] [<code>Fix build on LMDE.</code>](https://github.com/linuxmint/nemo/commit/0905b9963db2eba058c46d4d86cf460dc95dcb16)
 - [ ] [<code>Toolbar: Use actions to control the location/path bar switching.</code>](https://github.com/linuxmint/nemo/commit/c0fe6ecd8579ab24ed6dd0052e9a99c7c21ef1a3)
 - [ ] [<code>toolbar: Hide the location entry toggle when not needed, and limit</code>](https://github.com/linuxmint/nemo/commit/ae4262094804c396e22dd9a227b2297f7e27fe7a)
+- [ ] [<code>pathbar/entry: Fix a couple of issues when changing pathbar/entry</code>](https://github.com/linuxmint/nemo/commit/ccee05ade3379856c1e68c88eb239cd136f4d2fc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.7 → HEAD](https://github.com/linuxmint/pix/compare/2.8.7...HEAD)
