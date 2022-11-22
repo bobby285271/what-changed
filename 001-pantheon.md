@@ -569,6 +569,8 @@
 - [ ] [<code>Switch mode to debian (#635)</code>](https://github.com/elementary/os/commit/62e266e55d4f305f3d6db751b53747209d6e957a)
 - [ ] [<code>Update stable conf for building 7.0 rc (#633)</code>](https://github.com/elementary/os/commit/0c98f60ef573d80e1599590e35f6a3ae9d63ec3a)
 - [ ] [<code>ARM: don't fail whole workflow if one config fails (#637)</code>](https://github.com/elementary/os/commit/b16149f630a9d91068e37941c7bb3dcd0252c9c2)
+- [ ] [<code>ARM: Downgrade CI to ubuntu:20.04</code>](https://github.com/elementary/os/commit/54e3e27fb6d4e9720416593c00c8c39b16e99258)
+- [ ] [<code>README: Use same image used by CI</code>](https://github.com/elementary/os/commit/b6fd81ae4eb12e8d8400e50538aab6507f3fff7b)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
