@@ -356,7 +356,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>gth-browser.c: Don't continuously reload a single image.</code>](https://github.com/linuxmint/pix/commit/a9a46ce4266fb82b9e6ef0db5dc65aac99e4ce50)
 - [ ] [<code>Disable 'fast' content detection by default.</code>](https://github.com/linuxmint/pix/commit/93ca9b62a6323e17da5463432028cbb105fd2b5f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>2.8.8</code>](https://github.com/linuxmint/pix/commit/5d753e48fa153b986695adef026778f4b8f8931b)
+  - <sub>Tags: <code>2.8.8</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
 
@@ -429,8 +431,11 @@
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.10...HEAD)
 
 - [ ] [<code>Use github actions for CI builds.</code>](https://github.com/linuxmint/xviewer/commit/bb4dd391d64a5ddaf3254b178b2cc07c606868e3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Handle repeated prev/next keys  (#172)</code>](https://github.com/linuxmint/xviewer/commit/ae6a379c7f80fdcc27da492c1f63ec2b4addc571)
+- [ ] [<code>3.2.11</code>](https://github.com/linuxmint/xviewer/commit/a7e7647aa9878dff3312ad6daa532e72769beebc)
+  - <sub>Tags: <code>3.2.11</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -472,6 +477,12 @@
 - [ ] [<code>Update timeshift-gtk.desktop</code>](https://github.com/linuxmint/timeshift/commit/f7c82b8997a7c0d29e3d45f97aea31a706123db7)
 - [ ] [<code>Fix typo in timeshift-gtk.desktop</code>](https://github.com/linuxmint/timeshift/commit/717060bacb026b6988b3a055f4bc73ba204e9488)
 - [ ] [<code>Fix some file permissions.</code>](https://github.com/linuxmint/timeshift/commit/92ad80cb0fba0520846108b021022dfbfd807335)
+- [ ] [<code>Delete the empty 'timeshift-wiki' folder</code>](https://github.com/linuxmint/timeshift/commit/ca62c61332614b99124fcf32f678cb35cb9f5108)
+- [ ] [<code>Remove mention of installer in README; Remove config file for installer</code>](https://github.com/linuxmint/timeshift/commit/24570e8f787370a20ec089141b11f4eb25556e9f)
+- [ ] [<code>Remove config file for old GitHub pages site</code>](https://github.com/linuxmint/timeshift/commit/ce558891f1d085cb8fdd17605e6a44b61c819d24)
+- [ ] [<code>Remove empty NOTES file</code>](https://github.com/linuxmint/timeshift/commit/cb4b53b7ca6cc331cebbd652cafb9ca8658d8a60)
+- [ ] [<code>Remove BUILD_CONFIG</code>](https://github.com/linuxmint/timeshift/commit/af6fda55608cea8ea4bf5f8dba5a20da98c7d0a5)
+- [ ] [<code>Restore btrfs qgroups size & unshared size columns</code>](https://github.com/linuxmint/timeshift/commit/54cb3a3784acc858b2cccd51ac98c04a5474a4ea)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
