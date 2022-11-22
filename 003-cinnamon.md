@@ -483,6 +483,7 @@
 - [ ] [<code>Remove empty NOTES file</code>](https://github.com/linuxmint/timeshift/commit/cb4b53b7ca6cc331cebbd652cafb9ca8658d8a60)
 - [ ] [<code>Remove BUILD_CONFIG</code>](https://github.com/linuxmint/timeshift/commit/af6fda55608cea8ea4bf5f8dba5a20da98c7d0a5)
 - [ ] [<code>Restore btrfs qgroups size & unshared size columns</code>](https://github.com/linuxmint/timeshift/commit/54cb3a3784acc858b2cccd51ac98c04a5474a4ea)
+- [ ] [<code>Main.vala: Don't continue to try to get btrfs quota info if it</code>](https://github.com/linuxmint/timeshift/commit/bc2dc19994cf8a3a20ea206da5507b0bcc7a9db4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
