@@ -295,6 +295,22 @@
 - [ ] [<code>apps: Fix incorrect icon names</code>](https://github.com/linuxmint/mint-y-icons/commit/4266174ea1388af8cd7d677b9c41c6acde30628f)
 - [ ] [<code>Regenerate app icons</code>](https://github.com/linuxmint/mint-y-icons/commit/1962ac6889a54167020bf2288374a29013318880)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to papirus inspired places</code>](https://github.com/linuxmint/mint-y-icons/commit/7f804620de2955d7d91e60ddfa1bdfb1fcd967b0)
+- [ ] [<code>Regenerate icons</code>](https://github.com/linuxmint/mint-y-icons/commit/e078f63b658dafb29d31f5bd4cf07341609d1951)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Aqua, Orange, Purple, Red, Sand, Teal</code>](https://github.com/linuxmint/mint-y-icons/commit/7a3324a2d8c3c6c68c16d291544b43e8776a4c53)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Blue and Grey</code>](https://github.com/linuxmint/mint-y-icons/commit/44833977a47d396cefe37dd37f637fa4a955255a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Run multiple jobs at once in render_places.py.</code>](https://github.com/linuxmint/mint-y-icons/commit/890bcac01c28bfa3db09b261880e25c701cf258d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Pixel align folder icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/bb5a38b84ed46e29875f9be9cd5a50c74a9a61ce)
+- [ ] [<code>Update Green</code>](https://github.com/linuxmint/mint-y-icons/commit/8353c04b65dc95febb0cefcc6663d5428ec9e004)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Tune colors</code>](https://github.com/linuxmint/mint-y-icons/commit/b6747278aa2bdff2ff97e1e737a06d1b35c1473e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.2</code>](https://github.com/linuxmint/mint-y-icons/commit/3f82a78884fd8c5729890cd68b77cf135bbc8118)
+  - <sub>Tags: <code>1.6.2</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
@@ -374,7 +390,9 @@
 - [ ] [<code>Added instructions for Arch Linux via pacman (#144)</code>](https://github.com/linuxmint/warpinator/commit/0d8fb86283226576bb94e3248f4aa11b2140d906)
 - [ ] [<code>Check number of files received against the original request.</code>](https://github.com/linuxmint/warpinator/commit/b5aeb8a4b903f200470974d6c83664274d9448e1)
 - [ ] [<code>transfers: Change method used to check relative paths.</code>](https://github.com/linuxmint/warpinator/commit/dbada84f6f10112547632b1351e54caa831c747c)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>1.2.15</code>](https://github.com/linuxmint/warpinator/commit/c32eafb0d1da77065d1489f840f2a4f39cb3db6f)
+  - <sub>Tags: <code>1.2.15</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
@@ -484,7 +502,8 @@
 - [ ] [<code>Remove BUILD_CONFIG</code>](https://github.com/linuxmint/timeshift/commit/af6fda55608cea8ea4bf5f8dba5a20da98c7d0a5)
 - [ ] [<code>Restore btrfs qgroups size & unshared size columns</code>](https://github.com/linuxmint/timeshift/commit/54cb3a3784acc858b2cccd51ac98c04a5474a4ea)
 - [ ] [<code>Main.vala: Don't continue to try to get btrfs quota info if it</code>](https://github.com/linuxmint/timeshift/commit/bc2dc19994cf8a3a20ea206da5507b0bcc7a9db4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>22.11.1</code>](https://github.com/linuxmint/timeshift/commit/3e0b78586012c87ef70cd30258f21016893f56a3)
+  - <sub>Tags: <code>22.11.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
