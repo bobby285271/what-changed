@@ -296,6 +296,7 @@
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
+- [ ] [<code>Update POTFILES (#184)</code>](https://github.com/elementary/switchboard-plug-printers/commit/bd058a72922472da179656f582edbb573cd66fee)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...HEAD)
 
