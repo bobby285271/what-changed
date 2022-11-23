@@ -376,23 +376,8 @@
   - <sub>Tags: <code>2.8.8</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.14 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.14...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.15 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.15...HEAD)
 
-- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/warpinator/commit/d5b19368b01f6e4112c9d7498e7edd07841f3a85)
-- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/c28609cef4765a97a85ac1d8930a10324e00454b)
-- [ ] [<code>transfers: Don't allow a received file to be saved outside of the</code>](https://github.com/linuxmint/warpinator/commit/5244c33d4c109ede9607b9d94461650410e2cddc)
-- [ ] [<code>transfers: Use g_file_query_exists() instead of g_file_test().</code>](https://github.com/linuxmint/warpinator/commit/f4907ef6a17a189d56ab0a9da4b53190b061ad75)
-- [ ] [<code>transfers: Always remove existing files before beginning a transfer.</code>](https://github.com/linuxmint/warpinator/commit/8bfd2f8b3f1b0c0f0a5a6d275702d107b9e08a94)
-- [ ] [<code>transfers: Use Pathlib.Path instead of GFile for path safety check.</code>](https://github.com/linuxmint/warpinator/commit/95124fd4468683dd69ddd7b3da0e9906ce6beae2)
-- [ ] [<code>Add a script to allow testing the preferences window directly.</code>](https://github.com/linuxmint/warpinator/commit/2a489693d647990dda9093bedacca765b29e85a8)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Don't allow incoming transfers to fill the disk.</code>](https://github.com/linuxmint/warpinator/commit/ac0d08df3fa22f9198c4735e46e0ffc2fea1d798)
-- [ ] [<code>Added instructions for Arch Linux via pacman (#144)</code>](https://github.com/linuxmint/warpinator/commit/0d8fb86283226576bb94e3248f4aa11b2140d906)
-- [ ] [<code>Check number of files received against the original request.</code>](https://github.com/linuxmint/warpinator/commit/b5aeb8a4b903f200470974d6c83664274d9448e1)
-- [ ] [<code>transfers: Change method used to check relative paths.</code>](https://github.com/linuxmint/warpinator/commit/dbada84f6f10112547632b1351e54caa831c747c)
-- [ ] [<code>1.2.15</code>](https://github.com/linuxmint/warpinator/commit/c32eafb0d1da77065d1489f840f2a4f39cb3db6f)
-  - <sub>Tags: <code>1.2.15</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
