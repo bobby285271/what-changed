@@ -150,7 +150,20 @@
 - [ ] [<code>cs_default: Fix small issues</code>](https://github.com/linuxmint/cinnamon/commit/6fb5c5d35f42ff5fc7f3eda457ab66d9b5a53dfc)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>5.6.1</code>](https://github.com/linuxmint/cinnamon/commit/e8138c320320b127b1595f13fc658a8895a27983)
-  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.6.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cs_themes: Place legacy themes at the bottom</code>](https://github.com/linuxmint/cinnamon/commit/3486983746fc4a7d992d37fa1d6d2ff5af246fe7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme: Update cinnamon thumbnails</code>](https://github.com/linuxmint/cinnamon/commit/a44101dbe5f21dc5c0f4179ada9cb2e10c6141ef)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Reorder sections</code>](https://github.com/linuxmint/cinnamon/commit/48a523b3260863d06300093108296551dffb644f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Update cursor thumbnails</code>](https://github.com/linuxmint/cinnamon/commit/f3bf1281724b699d19a82761247425138b2aa5bb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Sort cursor themes alphabetically</code>](https://github.com/linuxmint/cinnamon/commit/7b5457daa840ac017448d6400bf59e552b437b04)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.6.2</code>](https://github.com/linuxmint/cinnamon/commit/be1ad26562230f0d17587e67ed5c74b98e6cec5e)
+  - <sub>Tags: <code>5.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
@@ -272,6 +285,31 @@
 
 - [ ] [<code>GTK-4 directory and assets added in update-variations.py script (#401)</code>](https://github.com/linuxmint/mint-themes/commit/9c84c32a8fcd487ab81c4da5e02c702cda1cbe2e)
 - [ ] [<code>Remove Mint-Y-Colors directory</code>](https://github.com/linuxmint/mint-themes/commit/db49287a2274c951201f2ede232ea0e315d400c2)
+- [ ] [<code>Remove hardcoded hover and pressed colors</code>](https://github.com/linuxmint/mint-themes/commit/09a111c8365757224b7169895149fdabead8a795)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Rebuild generated files</code>](https://github.com/linuxmint/mint-themes/commit/d13ee18b297aeb8c8ec83734f2c59a1b4a16c451)
+- [ ] [<code>Soften light Cinnamon colors</code>](https://github.com/linuxmint/mint-themes/commit/9342158cb4a0ab9e64d8496428dd2f512af2177f)
+- [ ] [<code>Remove accents in parts of the Cinnamon theme</code>](https://github.com/linuxmint/mint-themes/commit/bf41546342fe4554a17fea546ca0eb59f41a61a4)
+- [ ] [<code>Generate CSS</code>](https://github.com/linuxmint/mint-themes/commit/1c94784cd3668e6d3f19cb9dbb1a428e5ddc5437)
+- [ ] [<code>Update Pink</code>](https://github.com/linuxmint/mint-themes/commit/5b119efe61d0a0ae4467e210f5a7611544aede41)
+- [ ] [<code>Update Aqua, Orange, Purple, Red, Sand, Teal</code>](https://github.com/linuxmint/mint-themes/commit/a0ee0e472d0b228e8de0caeb83cc8d8fdcab9ad9)
+- [ ] [<code>Update Blue and Grey</code>](https://github.com/linuxmint/mint-themes/commit/205b28a5e518202e1f5d5b54c883f9c8be85b136)
+- [ ] [<code>Update Green</code>](https://github.com/linuxmint/mint-themes/commit/c9e6182daced53ac618ef81878b4547f58712b2c)
+- [ ] [<code>Update Gtk3 thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/e7e069513321c2bca3c69452749d1043c0537698)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update dark Gtk3 thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/57c197d958746143050e775160ce02187fd64469)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Gtk2: Remove menubar-toolbar asset overrides</code>](https://github.com/linuxmint/mint-themes/commit/9f3709f58fbfe1041e17f3eef302dbf99d9b1d8b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Cinnamon thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/16c7dee28528449dc919f6955958dcacada51dbb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-X: Update Cinnamon thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/64cba23c028d6ca4e80ee0a54735c7124d2e0373)
+- [ ] [<code>Linux Mint: Update cinnamon thumbnail</code>](https://github.com/linuxmint/mint-themes/commit/e83b0868557a24b64487070e4541e2893a78d155)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Gtk3 thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/12fa9ab23082e9d7e3700ab717060370f85d21da)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/mint-themes/commit/1d88b0c228d42cabdbaf5410f17ff97efd9e73b1)
+  - <sub>Tags: <code>2.0.6</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
@@ -311,6 +349,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.2</code>](https://github.com/linuxmint/mint-y-icons/commit/3f82a78884fd8c5729890cd68b77cf135bbc8118)
   - <sub>Tags: <code>1.6.2</code></sub>
+- [ ] [<code>Remove Yellow Mint-Y theme</code>](https://github.com/linuxmint/mint-y-icons/commit/41fcdb33cd845861e14ab595d0c27259b50459b9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.3</code>](https://github.com/linuxmint/mint-y-icons/commit/0087b6d3e41af185aec3bb1b97f271a49a040f68)
+  - <sub>Tags: <code>1.6.3</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
@@ -488,7 +530,9 @@
 - [ ] [<code>Restore btrfs qgroups size & unshared size columns</code>](https://github.com/linuxmint/timeshift/commit/54cb3a3784acc858b2cccd51ac98c04a5474a4ea)
 - [ ] [<code>Main.vala: Don't continue to try to get btrfs quota info if it</code>](https://github.com/linuxmint/timeshift/commit/bc2dc19994cf8a3a20ea206da5507b0bcc7a9db4)
 - [ ] [<code>22.11.1</code>](https://github.com/linuxmint/timeshift/commit/3e0b78586012c87ef70cd30258f21016893f56a3)
-  - <sub>Tags: <code>22.11.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>22.11.1</code></sub>
+- [ ] [<code>Main.vala: Turn the initial btrfs quota error into a message if we</code>](https://github.com/linuxmint/timeshift/commit/02240c189895a93aa8b3f1ed473968cf74040564)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.7 → HEAD](https://github.com/linuxmint/xed/compare/3.2.7...HEAD)
 
