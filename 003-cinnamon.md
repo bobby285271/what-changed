@@ -163,8 +163,20 @@
 - [ ] [<code>cs_themes: Sort cursor themes alphabetically</code>](https://github.com/linuxmint/cinnamon/commit/7b5457daa840ac017448d6400bf59e552b437b04)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>5.6.2</code>](https://github.com/linuxmint/cinnamon/commit/be1ad26562230f0d17587e67ed5c74b98e6cec5e)
-  - <sub>Tags: <code>5.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.6.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cs_themes: Make mouse cursor size configurable</code>](https://github.com/linuxmint/cinnamon/commit/c9f05658cd1f926a9d4fee1b26171cf8e9509e3f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/2e631b36456ab42c1e3e4da391b9c124f2564a3f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.6.3</code>](https://github.com/linuxmint/cinnamon/commit/c60e26cff6362d42fdd96145162db201798c2796)
+  - <sub>Tags: <code>5.6.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "cs_themes: Make mouse cursor size configurable"</code>](https://github.com/linuxmint/cinnamon/commit/de39c5c08e2aec0124bc30f159ca31b844ac9759)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Add thumbnails for Bibata Original</code>](https://github.com/linuxmint/cinnamon/commit/cb508bc8105d5a03e9eea88a8bf100a474518571)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.4.7 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.4.7...HEAD)
 
