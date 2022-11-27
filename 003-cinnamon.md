@@ -322,6 +322,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>2.0.6</code>](https://github.com/linuxmint/mint-themes/commit/1d88b0c228d42cabdbaf5410f17ff97efd9e73b1)
   - <sub>Tags: <code>2.0.6</code></sub>
+- [ ] [<code>Cinnamon: Add support for the cornerbar applet.</code>](https://github.com/linuxmint/mint-themes/commit/532363a8d256d4042d33113928106d809ed83413)
+- [ ] [<code>Cinnamon: Don't use the accent color for the panel-launcher hover</code>](https://github.com/linuxmint/mint-themes/commit/3aba33316fa2c28f93580f4315225d00a63e63cb)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
