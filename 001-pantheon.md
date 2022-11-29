@@ -247,6 +247,7 @@
 - [ ] [<code>Release 3.1.0 (#425)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/48b3fbe389ee2c7f4d47ef898d367b0486167ffd)
   - <sub>Tags: <code>3.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Gresource windows category icon (#428)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7b72d850c4659484027f9d4d4eb863ddafb28fcb)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
