@@ -7,6 +7,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PackageKitBackend: resolve addons in appstream pool (#1946)</code>](https://github.com/elementary/appcenter/commit/ebf4c36f64d62158a18708adfeb2440589cfba8e)
 - [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
+- [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
 
@@ -108,6 +109,7 @@
 - [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
 - [ ] [<code>Update screenshot.appdata.xml.in</code>](https://github.com/elementary/screenshot/commit/01dede54a700f3469500b9de7f4c80a1d0224978)
 - [ ] [<code>Redesign icon (#184)</code>](https://github.com/elementary/screenshot/commit/5a5b1c9564291a7220e3b0f9349c07b5499a7c02)
+- [ ] [<code>Update runtime to version 7 (#250)</code>](https://github.com/elementary/screenshot/commit/2a64f06d5ecf64dc17bee79f36648eb659f4112d)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -360,6 +362,7 @@
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
 - [ ] [<code>Use LinkButton for AppCenter button (#180)</code>](https://github.com/elementary/onboarding/commit/81690d6e1788af70b5185896df3824dae63e51d4)
+- [ ] [<code>MainWindow: warn about daily builds (#184)</code>](https://github.com/elementary/onboarding/commit/003a4c887ae662bf6f7efcb21f6ce4cd4c3d5b1c)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
