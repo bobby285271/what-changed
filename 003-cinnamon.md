@@ -324,6 +324,8 @@
   - <sub>Tags: <code>2.0.6</code></sub>
 - [ ] [<code>Cinnamon: Add support for the cornerbar applet.</code>](https://github.com/linuxmint/mint-themes/commit/532363a8d256d4042d33113928106d809ed83413)
 - [ ] [<code>Cinnamon: Don't use the accent color for the panel-launcher hover</code>](https://github.com/linuxmint/mint-themes/commit/3aba33316fa2c28f93580f4315225d00a63e63cb)
+- [ ] [<code>2.0.7</code>](https://github.com/linuxmint/mint-themes/commit/48dc7b21fd58be707d5f4839ae24555ce6d2c747)
+  - <sub>Tags: <code>2.0.7</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [4ab3c314db1b3751d87d5769629b28ac0ca3c671 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/4ab3c314db1b3751d87d5769629b28ac0ca3c671...HEAD)
 
@@ -367,6 +369,15 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.3</code>](https://github.com/linuxmint/mint-y-icons/commit/0087b6d3e41af185aec3bb1b97f271a49a040f68)
   - <sub>Tags: <code>1.6.3</code></sub>
+- [ ] [<code>Adjust folder color tones</code>](https://github.com/linuxmint/mint-y-icons/commit/a9bbd3426dca4be6bd4b368705179db00436ed0e)
+- [ ] [<code>Generate files</code>](https://github.com/linuxmint/mint-y-icons/commit/d48811d138311d95e430d1e99e0313b9a9b455a4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.4</code>](https://github.com/linuxmint/mint-y-icons/commit/7ad635b250fc82b7b5af05e0e18777300ad5311f)
+  - <sub>Tags: <code>1.6.4</code></sub>
+- [ ] [<code>Remove obsolete Mint-Y-Dark-Yellow</code>](https://github.com/linuxmint/mint-y-icons/commit/51f9d45f1776ebb830ca4e38ca4b9c3246c1a263)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.5</code>](https://github.com/linuxmint/mint-y-icons/commit/66c06a209f1981b3cdb5a6d50b4f1cafe0727bab)
+  - <sub>Tags: <code>1.6.5</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.4.7 → HEAD](https://github.com/linuxmint/muffin/compare/5.4.7...HEAD)
 
@@ -434,6 +445,10 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.2.15 → HEAD](https://github.com/linuxmint/warpinator/compare/1.2.15...HEAD)
 
+- [ ] [<code>Rework group code presentation and enforcement in preferences.</code>](https://github.com/linuxmint/warpinator/commit/9f17136d4490b0089bb82a7f71f51acd0e9fff8b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.2.15 → HEAD](https://github.com/linuxmint/xapp/compare/2.2.15...HEAD)
 
