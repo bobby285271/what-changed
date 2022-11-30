@@ -543,6 +543,7 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
+- [ ] [<code>Allow control of unlisted applications. (#182)</code>](https://github.com/elementary/notifications/commit/cc514a616976a9f29aa5c76b15278efe9201f9fd)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
