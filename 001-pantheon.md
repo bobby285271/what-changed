@@ -110,6 +110,10 @@
 - [ ] [<code>Update screenshot.appdata.xml.in</code>](https://github.com/elementary/screenshot/commit/01dede54a700f3469500b9de7f4c80a1d0224978)
 - [ ] [<code>Redesign icon (#184)</code>](https://github.com/elementary/screenshot/commit/5a5b1c9564291a7220e3b0f9349c07b5499a7c02)
 - [ ] [<code>Update runtime to version 7 (#250)</code>](https://github.com/elementary/screenshot/commit/2a64f06d5ecf64dc17bee79f36648eb659f4112d)
+- [ ] [<code>Validate file name (#247)</code>](https://github.com/elementary/screenshot/commit/3776e829d543923be3d4487d972baa8ce44ee3cd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SaveDialog: redesign (#252)</code>](https://github.com/elementary/screenshot/commit/9c0bef8826090c705f9ead23cfe59f7b4083fcb4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -248,6 +252,7 @@
   - <sub>Tags: <code>3.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gresource windows category icon (#428)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7b72d850c4659484027f9d4d4eb863ddafb28fcb)
+- [ ] [<code>ShortcutListBox: only add ShortcutRow when schema key is valid (#427)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4426499594f274bd092a603ba9a53e2840848288)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -509,6 +514,7 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.4 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.4...HEAD)
 
+- [ ] [<code>Add airplane mode switch to popover; add middle-click tooltip (#235)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1c19314a1911648a76321fef7acca834e32da37a)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
