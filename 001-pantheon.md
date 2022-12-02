@@ -76,6 +76,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
+- [ ] [<code>Ensure special user directory icon used for bookmark (#2106)</code>](https://github.com/elementary/files/commit/00b1c2a975aeab378ed6eb1d90c8988f82596add)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -478,6 +479,7 @@
   - <sub>Tags: <code>6.3.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Reload animated wallpapers when timezone changes (#1461)</code>](https://github.com/elementary/gala/commit/2c6aa503b6b7886db1b8acf0e6c60dff8ed9ae14)
+- [ ] [<code>Temporary workaround for crash when a notification expires while we are switching workspaces (#1497)</code>](https://github.com/elementary/gala/commit/8842e576e3e8643a018d506605f80d152e3f5cec)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -527,6 +529,7 @@
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
 - [ ] [<code>appdata: move <issues> out of <description> to make AppData valid again (#237)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f46f10795a424552a3084b4d1520443b4c2a2b9f)
+- [ ] [<code>Don't call Refresh() on UPower.Device (#238)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/73725c6bf7f6f2590ee6293baf98b3360048356d)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
