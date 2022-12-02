@@ -21,6 +21,9 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.1...HEAD)
 
+- [ ] [<code>Fix makepot for the backup locker, don't translate its command-line</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/dc4e45436649f721bf8d3cf10becd59789503293)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -78,7 +81,9 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/sticky/commit/a2dff0d469611c4d4a42c053c4d4927816ca87b6)
+- [ ] [<code>checkbox: Fix cursor not changing on hover when checkboxes are 1st added</code>](https://github.com/linuxmint/sticky/commit/4a2705e23d55fada21233fa0a39539653de6dbdc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.1 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.1...HEAD)
 
