@@ -126,6 +126,7 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
+- [ ] [<code>MainWindow: Update context menu on menu key press (#697)</code>](https://github.com/elementary/terminal/commit/44951117023635ce2bc00fe9ff8f4f0814b28901)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
 
@@ -290,6 +291,7 @@
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
+- [ ] [<code>Meta: use preferences-desktop for icon (#312)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d74914815cc8f70e3e3c521d5f23279cff8887e3)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
