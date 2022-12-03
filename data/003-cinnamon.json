@@ -86,6 +86,9 @@
             "attr_path": "libxplayer-plparser"
         },
         {
+            "attr_path": "lightdm-slick-greeter"
+        },
+        {
             "attr_path": "sticky"
         },
         {
