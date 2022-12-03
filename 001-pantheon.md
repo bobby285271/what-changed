@@ -14,6 +14,7 @@
 - [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/calculator/commit/47432b3ec2815e143f45cb34f83dc41245b9d453)
 - [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
 - [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
+- [ ] [<code>Update Flatpak runtime to 7.1 (#233)</code>](https://github.com/elementary/calculator/commit/72b5214b9e9d0561ef8a279a13cd77b330a7371e)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -74,6 +75,7 @@
 - [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
+- [ ] [<code>Fetch all addons for settings and panel (#23)</code>](https://github.com/elementary/feedback/commit/c3d33108c2305f72836bd835f9f1adf376d7e915)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
