@@ -109,22 +109,8 @@
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.2 → HEAD](https://github.com/elementary/screenshot/compare/6.0.2...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
-- [ ] [<code>Fix data/meson.build (#241)</code>](https://github.com/elementary/screenshot/commit/80a5d942e813dd098e1ef0f6629b81d2ccef05ae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>README: Fix libhandy-1 package name (#246)</code>](https://github.com/elementary/screenshot/commit/e1ab16a85bbec5dfcbbfa8c6513d8f2d83f2008b)
-- [ ] [<code>Update screenshot.appdata.xml.in</code>](https://github.com/elementary/screenshot/commit/01dede54a700f3469500b9de7f4c80a1d0224978)
-- [ ] [<code>Redesign icon (#184)</code>](https://github.com/elementary/screenshot/commit/5a5b1c9564291a7220e3b0f9349c07b5499a7c02)
-- [ ] [<code>Update runtime to version 7 (#250)</code>](https://github.com/elementary/screenshot/commit/2a64f06d5ecf64dc17bee79f36648eb659f4112d)
-- [ ] [<code>Validate file name (#247)</code>](https://github.com/elementary/screenshot/commit/3776e829d543923be3d4487d972baa8ce44ee3cd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>SaveDialog: redesign (#252)</code>](https://github.com/elementary/screenshot/commit/9c0bef8826090c705f9ead23cfe59f7b4083fcb4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update runtime to 7.1 (#254)</code>](https://github.com/elementary/screenshot/commit/2eb043cd5b33cfa44b50a5499f7ced8f8223533e)
-- [ ] [<code>Release 6.0.3 (#249)</code>](https://github.com/elementary/screenshot/commit/ece167084327bdbd474f62410f26d51448175d15)
-  - <sub>Tags: <code>6.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
