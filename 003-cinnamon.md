@@ -101,6 +101,16 @@
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.5.9 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.5.9...HEAD)
+
+- [ ] [<code>Set our own cursor theme and size internally via GtkSettings.</code>](https://github.com/linuxmint/slick-greeter/commit/97f9f54b686303dec81918d3056194bff2a3163c)
+- [ ] [<code>cursor size: Use 24 as a default size instead of 0.</code>](https://github.com/linuxmint/slick-greeter/commit/8eead9377b525ba3ae6213248a58b269738791a0)
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/d4623f04d23e681cca9f390c37098bc743315937)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>1.6.0</code>](https://github.com/linuxmint/slick-greeter/commit/169c995860c7ce5d2a93ef4ba6cb16c39002e8d1)
+  - <sub>Tags: <code>1.6.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+
 #### [sticky](https://github.com/linuxmint/sticky): [1.12 → HEAD](https://github.com/linuxmint/sticky/compare/1.12...HEAD)
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/sticky/commit/a2dff0d469611c4d4a42c053c4d4927816ca87b6)
