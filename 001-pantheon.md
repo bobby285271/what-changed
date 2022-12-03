@@ -21,6 +21,7 @@
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
 
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6bde4dfc98873f0b16dd624e63a81aeadccc6fec)
+- [ ] [<code>Update Flatpak runtime to 7.1 (#248)</code>](https://github.com/elementary/camera/commit/f69633e433a32dbc388350569f4d2cb06ac9c904)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -77,9 +78,11 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
 - [ ] [<code>Ensure special user directory icon used for bookmark (#2106)</code>](https://github.com/elementary/files/commit/00b1c2a975aeab378ed6eb1d90c8988f82596add)
+- [ ] [<code>CommonJob: Continue the port to Vala (#2097)</code>](https://github.com/elementary/files/commit/6d615b1242169a446c094b49a9d5bbd905044f8e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
+- [ ] [<code>Update Flatpak Runtime to 7.1 (#30)</code>](https://github.com/elementary/iconbrowser/commit/d5239a0f5fdd978dd48525b55a2db445f6896fbd)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
 
@@ -99,6 +102,7 @@
 - [ ] [<code>Metainfo improvements (#728)</code>](https://github.com/elementary/music/commit/8de8adea5d5ff4f0ef2cee78cd67b3d9e5845641)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Add Gettext to Merge</code>](https://github.com/elementary/music/commit/da93a26d96fbf580a50788119ba3e779d086e41b)
+- [ ] [<code>Update Flatpak runtime to 7.1 (#729)</code>](https://github.com/elementary/music/commit/073387ea12e799e6089b393ea6ab28229c6a4d71)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -114,6 +118,10 @@
 - [ ] [<code>Validate file name (#247)</code>](https://github.com/elementary/screenshot/commit/3776e829d543923be3d4487d972baa8ce44ee3cd)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SaveDialog: redesign (#252)</code>](https://github.com/elementary/screenshot/commit/9c0bef8826090c705f9ead23cfe59f7b4083fcb4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update runtime to 7.1 (#254)</code>](https://github.com/elementary/screenshot/commit/2eb043cd5b33cfa44b50a5499f7ced8f8223533e)
+- [ ] [<code>Release 6.0.3 (#249)</code>](https://github.com/elementary/screenshot/commit/ece167084327bdbd474f62410f26d51448175d15)
+  - <sub>Tags: <code>6.0.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
