@@ -51,6 +51,7 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.7...HEAD)
 
 - [ ] [<code>fix header bar size, e.g. for disk tool (#411)</code>](https://github.com/linuxmint/mint-themes/commit/3a5312196d6cbd0b56ca37c65668e177cc718886)
+- [ ] [<code>Fix corner bar - only highlight the bar, not the applet, give it</code>](https://github.com/linuxmint/mint-themes/commit/93d1ad8b9cb26606e3983bc2bc92cf1d6f0657ac)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
