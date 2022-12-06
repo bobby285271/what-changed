@@ -7,6 +7,8 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.4...HEAD)
 
+- [ ] [<code>Fix old cache folder (#11318)</code>](https://github.com/linuxmint/cinnamon/commit/a53596d7d5a56009d0560c6100e455778a956579)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -37,6 +39,7 @@
 - [ ] [<code>fix header bar size, e.g. for disk tool (#411)</code>](https://github.com/linuxmint/mint-themes/commit/3a5312196d6cbd0b56ca37c65668e177cc718886)
 - [ ] [<code>Fix corner bar - only highlight the bar, not the applet, give it</code>](https://github.com/linuxmint/mint-themes/commit/93d1ad8b9cb26606e3983bc2bc92cf1d6f0657ac)
 - [ ] [<code>Fix GtkScale value position and mark length.</code>](https://github.com/linuxmint/mint-themes/commit/0218c73bb6ba888a696db21c746b7630adb02257)
+- [ ] [<code>Mint-X - gtk3: Restore :disabled state to infobar buttons.</code>](https://github.com/linuxmint/mint-themes/commit/558df456c54b9441da3dc2139c69a6557c04af98)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
