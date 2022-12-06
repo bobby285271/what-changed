@@ -23,6 +23,9 @@
 
 - [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6bde4dfc98873f0b16dd624e63a81aeadccc6fec)
 - [ ] [<code>Update Flatpak runtime to 7.1 (#248)</code>](https://github.com/elementary/camera/commit/f69633e433a32dbc388350569f4d2cb06ac9c904)
+- [ ] [<code>Release 6.2.1 (#245)</code>](https://github.com/elementary/camera/commit/b85ecd6e174c764edc1e6e69666ce8f27ca4593d)
+  - <sub>Tags: <code>6.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -144,6 +147,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
 - [ ] [<code>Square icon (#299)</code>](https://github.com/elementary/videos/commit/1ec265d9160e40e6221d203becf8f73537c826db)
+- [ ] [<code>Update Flatpak Runtime to 7.1 (#317)</code>](https://github.com/elementary/videos/commit/3bebdd6b91a0d0e5cc43164454a3c7a2f9a22750)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
