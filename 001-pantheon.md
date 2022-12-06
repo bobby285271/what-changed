@@ -76,6 +76,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
 - [ ] [<code>Fetch all addons for settings and panel (#23)</code>](https://github.com/elementary/feedback/commit/c3d33108c2305f72836bd835f9f1adf376d7e915)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/d059125439a9c2333fdd636e5216c8b5e910d257)
+- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/5cdb67ac52c1fe3f05090a20dd440d5ac6b5a92e)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -105,6 +107,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Add Gettext to Merge</code>](https://github.com/elementary/music/commit/da93a26d96fbf580a50788119ba3e779d086e41b)
 - [ ] [<code>Update Flatpak runtime to 7.1 (#729)</code>](https://github.com/elementary/music/commit/073387ea12e799e6089b393ea6ab28229c6a4d71)
+- [ ] [<code>Update music.metainfo.xml.in (#730)</code>](https://github.com/elementary/music/commit/ba87a1b1c3420205b452c72c9590a0fb61820ce8)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -584,6 +587,7 @@
 - [ ] [<code>ARM: don't fail whole workflow if one config fails (#637)</code>](https://github.com/elementary/os/commit/b16149f630a9d91068e37941c7bb3dcd0252c9c2)
 - [ ] [<code>ARM: Downgrade CI to ubuntu:20.04</code>](https://github.com/elementary/os/commit/54e3e27fb6d4e9720416593c00c8c39b16e99258)
 - [ ] [<code>README: Use same image used by CI</code>](https://github.com/elementary/os/commit/b6fd81ae4eb12e8d8400e50538aab6507f3fff7b)
+- [ ] [<code>archives: Use https link for the PPAs (#641)</code>](https://github.com/elementary/os/commit/29a2926295048beff743f2053e8de3345064275c)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
