@@ -8,7 +8,9 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.4...HEAD)
 
 - [ ] [<code>Fix old cache folder (#11318)</code>](https://github.com/linuxmint/cinnamon/commit/a53596d7d5a56009d0560c6100e455778a956579)
+- [ ] [<code>cs_mouse: Fix range labels for touchpad speed widget</code>](https://github.com/linuxmint/cinnamon/commit/b92a48873a8e5be8309418037cbadbbe85ce6cf3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
