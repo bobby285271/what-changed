@@ -15,17 +15,13 @@
 - [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
 - [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
 - [ ] [<code>Update Flatpak runtime to 7.1 (#233)</code>](https://github.com/elementary/calculator/commit/72b5214b9e9d0561ef8a279a13cd77b330a7371e)
+- [ ] [<code>Changed HeaderBar Style to Granite.STYLE_CLASS_FLAT (#213)</code>](https://github.com/elementary/calculator/commit/e1529855097f4af2d44311e0ee31bdf4e7b33917)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.0 → HEAD](https://github.com/elementary/camera/compare/6.2.0...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
-- [ ] [<code>Update io.elementary.camera.appdata.xml.in</code>](https://github.com/elementary/camera/commit/6bde4dfc98873f0b16dd624e63a81aeadccc6fec)
-- [ ] [<code>Update Flatpak runtime to 7.1 (#248)</code>](https://github.com/elementary/camera/commit/f69633e433a32dbc388350569f4d2cb06ac9c904)
-- [ ] [<code>Release 6.2.1 (#245)</code>](https://github.com/elementary/camera/commit/b85ecd6e174c764edc1e6e69666ce8f27ca4593d)
-  - <sub>Tags: <code>6.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -81,6 +77,9 @@
 - [ ] [<code>Fetch all addons for settings and panel (#23)</code>](https://github.com/elementary/feedback/commit/c3d33108c2305f72836bd835f9f1adf376d7e915)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/d059125439a9c2333fdd636e5216c8b5e910d257)
 - [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/5cdb67ac52c1fe3f05090a20dd440d5ac6b5a92e)
+- [ ] [<code>Release 6.1.2 (#70)</code>](https://github.com/elementary/feedback/commit/35e4f0492de81c15f9614d365e9abfefe405440a)
+  - <sub>Tags: <code>6.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
