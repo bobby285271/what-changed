@@ -361,6 +361,7 @@
 - [ ] [<code>Add Czech translations (#117)</code>](https://github.com/lainsce/khronos/commit/f1c037bd28cafda026db182267b02895f6fe19c5)
 - [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/d4f7e1ea314ba4197fafdb310bb1c04cc5d450ef)
 - [ ] [<code>Update README.md</code>](https://github.com/lainsce/khronos/commit/c97c3c2cd4e9bf941b186f64aaf5cee1d886fcaa)
+- [ ] [<code>Update pot file (#123)</code>](https://github.com/lainsce/khronos/commit/ea95297d98641f1937ba9980a94550cf5a860cc0)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
