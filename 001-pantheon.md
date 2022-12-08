@@ -16,6 +16,10 @@
 - [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
 - [ ] [<code>Update Flatpak runtime to 7.1 (#233)</code>](https://github.com/elementary/calculator/commit/72b5214b9e9d0561ef8a279a13cd77b330a7371e)
 - [ ] [<code>Changed HeaderBar Style to Granite.STYLE_CLASS_FLAT (#213)</code>](https://github.com/elementary/calculator/commit/e1529855097f4af2d44311e0ee31bdf4e7b33917)
+- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/2deca6e5f937528b133fc92aa133e5f8ac502fd0)
+- [ ] [<code>Release 2.0.1 (#230)</code>](https://github.com/elementary/calculator/commit/c998066a2a3af0f96a5a8c3c8366012563056194)
+  - <sub>Tags: <code>2.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -69,17 +73,8 @@
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 - [ ] [<code>Launcher: launch with current time to fix workspace switching</code>](https://github.com/elementary/dock/commit/d87da45cbd89d30790f7e81f07151379874cb1b2)
 
-#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.1 → HEAD](https://github.com/elementary/feedback/compare/6.1.1...HEAD)
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.2 → HEAD](https://github.com/elementary/feedback/compare/6.1.2...HEAD)
 
-- [ ] [<code>Remove Flatpak (#69)</code>](https://github.com/elementary/feedback/commit/20bfe3f5f07d90de8149d28e91395df9274f0aaa)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/71cde9b6103b8ff4933d46654590e94b3bbdcbed)
-- [ ] [<code>Fetch all addons for settings and panel (#23)</code>](https://github.com/elementary/feedback/commit/c3d33108c2305f72836bd835f9f1adf376d7e915)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/d059125439a9c2333fdd636e5216c8b5e910d257)
-- [ ] [<code>Update feedback.appdata.xml.in</code>](https://github.com/elementary/feedback/commit/5cdb67ac52c1fe3f05090a20dd440d5ac6b5a92e)
-- [ ] [<code>Release 6.1.2 (#70)</code>](https://github.com/elementary/feedback/commit/35e4f0492de81c15f9614d365e9abfefe405440a)
-  - <sub>Tags: <code>6.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -334,6 +329,8 @@
 - [ ] [<code>Update white tile icons (#1144)</code>](https://github.com/elementary/icons/commit/367c69b604ce957537ffc0c5565fadaa23d23f67)
 - [ ] [<code>Redesign system-file-manager (#1147)</code>](https://github.com/elementary/icons/commit/da35e07766d56a889887489cac6bb4ef8b826c3d)
 - [ ] [<code>Redesign accessories-calculator (#1148)</code>](https://github.com/elementary/icons/commit/07fb7d6ff55d159ced9ae40b5f95720cb028f125)
+- [ ] [<code>FileTypes: symlink extension to application-x-xpinstall (#1156)</code>](https://github.com/elementary/icons/commit/99cee8898fa290cdbbdcfc8dc7585df366f0c5f5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -553,6 +550,9 @@
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
 
 - [ ] [<code>Docs: Add missing 'cd build' instruction to the readme (#86)</code>](https://github.com/elementary/capnet-assist/commit/0fd243417d72f35e60317cf18b09aa9c33b292d8)
+- [ ] [<code>Update Flatpak Runtime to 7.1 (#88)</code>](https://github.com/elementary/capnet-assist/commit/265599873308af6a1f0c8fcc21a5331b9a66a4ed)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
