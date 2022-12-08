@@ -20,6 +20,7 @@
 - [ ] [<code>Release 2.0.1 (#230)</code>](https://github.com/elementary/calculator/commit/c998066a2a3af0f96a5a8c3c8366012563056194)
   - <sub>Tags: <code>2.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/calculator/commit/ca382d8723e3a31b08dc6e30036154eae595efd1)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -363,6 +364,8 @@
 - [ ] [<code>Release 7.0.0 (#272)</code>](https://github.com/elementary/default-settings/commit/2c03d1b076aac72ca2a6c346c4e247fc4c309c71)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Music Dockitem: Point to var/lib/flatpak (#274)</code>](https://github.com/elementary/default-settings/commit/7a9f1e629ba9cdc9e3f3cd8fbc237b5b678792e8)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
