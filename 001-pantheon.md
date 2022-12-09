@@ -9,18 +9,10 @@
 - [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
 - [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.0 → HEAD](https://github.com/elementary/calculator/compare/2.0.0...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
-- [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/calculator/commit/47432b3ec2815e143f45cb34f83dc41245b9d453)
-- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/f0384ee6fee18de8d2eebb472772628e769fc08a)
-- [ ] [<code>Redesign app icon (#232)</code>](https://github.com/elementary/calculator/commit/e20c6c204a70327f00904c6d1fa97c0d87d95c12)
-- [ ] [<code>Update Flatpak runtime to 7.1 (#233)</code>](https://github.com/elementary/calculator/commit/72b5214b9e9d0561ef8a279a13cd77b330a7371e)
-- [ ] [<code>Changed HeaderBar Style to Granite.STYLE_CLASS_FLAT (#213)</code>](https://github.com/elementary/calculator/commit/e1529855097f4af2d44311e0ee31bdf4e7b33917)
-- [ ] [<code>Update io.elementary.calculator.appdata.xml.in</code>](https://github.com/elementary/calculator/commit/2deca6e5f937528b133fc92aa133e5f8ac502fd0)
-- [ ] [<code>Release 2.0.1 (#230)</code>](https://github.com/elementary/calculator/commit/c998066a2a3af0f96a5a8c3c8366012563056194)
-  - <sub>Tags: <code>2.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/calculator/commit/ca382d8723e3a31b08dc6e30036154eae595efd1)
+- [ ] [<code>Update screenshot filename in README.md (#235)</code>](https://github.com/elementary/calculator/commit/a339efca6361b3c7daba8156744f52040a660920)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -556,6 +548,8 @@
 - [ ] [<code>Update Flatpak Runtime to 7.1 (#88)</code>](https://github.com/elementary/capnet-assist/commit/265599873308af6a1f0c8fcc21a5331b9a66a4ed)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/8d043076fba27d34548e0a99ce1741c3cfeddf85)
+- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/c53ae7f7740b631bc4f84e3795ffb01d5cb761c6)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
