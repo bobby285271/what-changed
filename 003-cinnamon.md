@@ -23,6 +23,8 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.2...HEAD)
 
+- [ ] [<code>manager.py:  Don't try to access self.grab_helper if it was never</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b032c8df529653a13d937360076ce76dd20d2e61)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
