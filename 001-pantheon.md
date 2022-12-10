@@ -136,6 +136,10 @@
 - [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
 - [ ] [<code>Square icon (#299)</code>](https://github.com/elementary/videos/commit/1ec265d9160e40e6221d203becf8f73537c826db)
 - [ ] [<code>Update Flatpak Runtime to 7.1 (#317)</code>](https://github.com/elementary/videos/commit/3bebdd6b91a0d0e5cc43164454a3c7a2f9a22750)
+- [ ] [<code>Release 2.9.0 (#315)</code>](https://github.com/elementary/videos/commit/1689be73dc765b8df41c86d992ca566a7014abc1)
+  - <sub>Tags: <code>2.9.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Application: store repeat state in an Action (#318)</code>](https://github.com/elementary/videos/commit/b81565b6428a783893741adc572e47a0f7f8e3fb)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -551,6 +555,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/8d043076fba27d34548e0a99ce1741c3cfeddf85)
 - [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/c53ae7f7740b631bc4f84e3795ffb01d5cb761c6)
+- [ ] [<code>Release 2.4.3 (#90)</code>](https://github.com/elementary/capnet-assist/commit/47dd7038f812a00ed15dea3a43a9b7001e0d7242)
+  - <sub>Tags: <code>2.4.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
