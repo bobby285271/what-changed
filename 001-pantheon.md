@@ -8,6 +8,7 @@
 - [ ] [<code>PackageKitBackend: resolve addons in appstream pool (#1946)</code>](https://github.com/elementary/appcenter/commit/ebf4c36f64d62158a18708adfeb2440589cfba8e)
 - [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
 - [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
+- [ ] [<code>Fix visual issues with category icons (#1954)</code>](https://github.com/elementary/appcenter/commit/09edce06723182ea2f25a3f3e21cd4eb699b1cbd)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
