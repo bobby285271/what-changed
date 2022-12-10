@@ -53,6 +53,8 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.1...HEAD)
 
+- [ ] [<code>Disable automaximize by default.</code>](https://github.com/linuxmint/muffin/commit/ad8487cea441f646eea9d0bbd9a6a62f8bfd26e7)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.0 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.0...HEAD)
 
