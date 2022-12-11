@@ -123,26 +123,8 @@
 
 - [ ] [<code>MainWindow: Update context menu on menu key press (#697)</code>](https://github.com/elementary/terminal/commit/44951117023635ce2bc00fe9ff8f4f0814b28901)
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.8.4 → HEAD](https://github.com/elementary/videos/compare/2.8.4...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
-- [ ] [<code>Utils: Remove unused session manager interface (#307)</code>](https://github.com/elementary/videos/commit/ed6127e68507959d5ab0021b31b5032ed160149e)
-- [ ] [<code>Add SeekBar (#302)</code>](https://github.com/elementary/videos/commit/c6f7e065e0859f1db954a2ca1498817a5d64eb8d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>BottomBar: Remove get_preferred_width (#305)</code>](https://github.com/elementary/videos/commit/13e18c41d50fbe47f43c2c60b7d64387c7133325)
-- [ ] [<code>PlaylistItem: Grid → Box, and .menuitem (#304)</code>](https://github.com/elementary/videos/commit/f43a0305df2ac2cb6d8102ecfe670f8c8271e32c)
-- [ ] [<code>Combine SeekBar and TimeWidget (#309)</code>](https://github.com/elementary/videos/commit/fbc4f516140a16353eef9b48157a005d5805fccf)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Window: use more actions for keyboard shortcuts (#308)</code>](https://github.com/elementary/videos/commit/6347d6a787a7dae9ba9c26e58342ec45f5118582)
-- [ ] [<code>SeekBar: rewrite how progress and duration are set (#310)</code>](https://github.com/elementary/videos/commit/bde83038c729cc0468fd13f233949e0b707b1d61)
-- [ ] [<code>Git ignore flatpak build and temporary files (#311)</code>](https://github.com/elementary/videos/commit/51e832f7c13d6b200ce65c15f4e1ac8ca27ec5e6)
-- [ ] [<code>Implement MPRIS (#306)</code>](https://github.com/elementary/videos/commit/0dff3128ebfb49ae32148df68abb5bc8b118ddff)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update io.elementary.videos.appdata.xml.in</code>](https://github.com/elementary/videos/commit/6739d122bf703844c02279d72fcc41efa9b1b67c)
-- [ ] [<code>Square icon (#299)</code>](https://github.com/elementary/videos/commit/1ec265d9160e40e6221d203becf8f73537c826db)
-- [ ] [<code>Update Flatpak Runtime to 7.1 (#317)</code>](https://github.com/elementary/videos/commit/3bebdd6b91a0d0e5cc43164454a3c7a2f9a22750)
-- [ ] [<code>Release 2.9.0 (#315)</code>](https://github.com/elementary/videos/commit/1689be73dc765b8df41c86d992ca566a7014abc1)
-  - <sub>Tags: <code>2.9.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Application: store repeat state in an Action (#318)</code>](https://github.com/elementary/videos/commit/b81565b6428a783893741adc572e47a0f7f8e3fb)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
@@ -559,17 +541,8 @@
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
 
 
-#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.2 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.2...HEAD)
+#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.3 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.3...HEAD)
 
-- [ ] [<code>Docs: Add missing 'cd build' instruction to the readme (#86)</code>](https://github.com/elementary/capnet-assist/commit/0fd243417d72f35e60317cf18b09aa9c33b292d8)
-- [ ] [<code>Update Flatpak Runtime to 7.1 (#88)</code>](https://github.com/elementary/capnet-assist/commit/265599873308af6a1f0c8fcc21a5331b9a66a4ed)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/8d043076fba27d34548e0a99ce1741c3cfeddf85)
-- [ ] [<code>Update io.elementary.capnet-assist.appdata.xml.in</code>](https://github.com/elementary/capnet-assist/commit/c53ae7f7740b631bc4f84e3795ffb01d5cb761c6)
-- [ ] [<code>Release 2.4.3 (#90)</code>](https://github.com/elementary/capnet-assist/commit/47dd7038f812a00ed15dea3a43a9b7001e0d7242)
-  - <sub>Tags: <code>2.4.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
