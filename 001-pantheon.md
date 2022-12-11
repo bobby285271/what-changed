@@ -99,6 +99,10 @@
 - [ ] [<code>Actions: Add Gettext to Merge</code>](https://github.com/elementary/music/commit/da93a26d96fbf580a50788119ba3e779d086e41b)
 - [ ] [<code>Update Flatpak runtime to 7.1 (#729)</code>](https://github.com/elementary/music/commit/073387ea12e799e6089b393ea6ab28229c6a4d71)
 - [ ] [<code>Update music.metainfo.xml.in (#730)</code>](https://github.com/elementary/music/commit/ba87a1b1c3420205b452c72c9590a0fb61820ce8)
+- [ ] [<code>Release 7.0.1 (#731)</code>](https://github.com/elementary/music/commit/9072b41e932c94441dab1402dfb1748d17d8e431)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PlaybackManager: use GLib.Once (#732)</code>](https://github.com/elementary/music/commit/45ca47bbba19a0c0e6e824749d76d467ae569fd2)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -329,6 +333,8 @@
 - [ ] [<code>Redesign accessories-calculator (#1148)</code>](https://github.com/elementary/icons/commit/07fb7d6ff55d159ced9ae40b5f95720cb028f125)
 - [ ] [<code>FileTypes: symlink extension to application-x-xpinstall (#1156)</code>](https://github.com/elementary/icons/commit/99cee8898fa290cdbbdcfc8dc7585df366f0c5f5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update categories/applications-development (#1155)</code>](https://github.com/elementary/icons/commit/efe6ac3293fafee8a5e07d7c34569209600d2719)
+- [ ] [<code>Remove internet-web-browser (#1141)</code>](https://github.com/elementary/icons/commit/4ada31129546e7d03c29945ce05056d6ec541865)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -363,6 +369,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Music Dockitem: Point to var/lib/flatpak (#274)</code>](https://github.com/elementary/default-settings/commit/7a9f1e629ba9cdc9e3f3cd8fbc237b5b678792e8)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Release 7.0.1 (#275)</code>](https://github.com/elementary/default-settings/commit/0bdd8621e6564057adb576713f5ec98c2cab9f8d)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
@@ -489,6 +498,9 @@
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.0 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.0...HEAD)
 
+- [ ] [<code>Move panel-main-menu to Gala schema (#556)</code>](https://github.com/elementary/applications-menu/commit/975edd009b912e0414ad69dd9a6f8e7950e0b57c)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>AppData: Remove old releases</code>](https://github.com/elementary/applications-menu/commit/7aa2211ea099499bcb32a0232641797e1a268d5f)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
