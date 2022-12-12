@@ -87,21 +87,8 @@
 - [ ] [<code>Docs: Add curiously omitted dependency on meson to the readme (#803)</code>](https://github.com/elementary/mail/commit/31973b403dbb0ce378d2754a9b44ec192ee4a394)
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.0 → HEAD](https://github.com/elementary/music/compare/7.0.0...HEAD)
+#### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
-- [ ] [<code>PlaybackManager: Use file basename for fallback audio object title (#710)</code>](https://github.com/elementary/music/commit/97a437edc7652e0b85b7d3c6fd87089c14ec02e2)
-- [ ] [<code>PlaybackManager: Skip invalid files instead of stopping playback. (#711)</code>](https://github.com/elementary/music/commit/88f332197d2131daeff3306ec2a484a28fa4db21)
-- [ ] [<code>Enable the NEXT button if repeat mode is set to ALL or ONE. (#712)</code>](https://github.com/elementary/music/commit/3249e3ca247dfd5ff6b14f4feeeeed63b435bcb8)
-- [ ] [<code>Application: hard code gtk styles (#723)</code>](https://github.com/elementary/music/commit/4e22268d38574e56eb3b42ae201c99cc98b510db)
-- [ ] [<code>Metainfo: Use branding tag and screenshot caption (#724)</code>](https://github.com/elementary/music/commit/2080271c8627eaf781b6548d79f9ae3dec22c7e6)
-- [ ] [<code>Metainfo improvements (#728)</code>](https://github.com/elementary/music/commit/8de8adea5d5ff4f0ef2cee78cd67b3d9e5845641)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Add Gettext to Merge</code>](https://github.com/elementary/music/commit/da93a26d96fbf580a50788119ba3e779d086e41b)
-- [ ] [<code>Update Flatpak runtime to 7.1 (#729)</code>](https://github.com/elementary/music/commit/073387ea12e799e6089b393ea6ab28229c6a4d71)
-- [ ] [<code>Update music.metainfo.xml.in (#730)</code>](https://github.com/elementary/music/commit/ba87a1b1c3420205b452c72c9590a0fb61820ce8)
-- [ ] [<code>Release 7.0.1 (#731)</code>](https://github.com/elementary/music/commit/9072b41e932c94441dab1402dfb1748d17d8e431)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PlaybackManager: use GLib.Once (#732)</code>](https://github.com/elementary/music/commit/45ca47bbba19a0c0e6e824749d76d467ae569fd2)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
