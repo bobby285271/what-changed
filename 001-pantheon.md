@@ -113,6 +113,9 @@
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
 - [ ] [<code>Application: store repeat state in an Action (#318)</code>](https://github.com/elementary/videos/commit/b81565b6428a783893741adc572e47a0f7f8e3fb)
+- [ ] [<code>Create PlaybackManager (#319)</code>](https://github.com/elementary/videos/commit/05fca05da046f1ad0afcb37150845e2371262bc9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -473,6 +476,7 @@
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
+- [ ] [<code>Appdata: Add icon (#52)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/7d20cd820f55d74f3c97d6703be2e50c657375e0)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
