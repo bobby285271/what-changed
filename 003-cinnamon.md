@@ -58,6 +58,8 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.0 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.0...HEAD)
 
+- [ ] [<code>pathbar/entry: Give entry-preferred mode the same persistent behavior</code>](https://github.com/linuxmint/nemo/commit/003e516cdaadd9a7d5ce0031c0280f2e51b779e0)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.8 → HEAD](https://github.com/linuxmint/pix/compare/2.8.8...HEAD)
 
