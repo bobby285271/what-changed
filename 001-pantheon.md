@@ -74,6 +74,8 @@
 
 - [ ] [<code>Ensure special user directory icon used for bookmark (#2106)</code>](https://github.com/elementary/files/commit/00b1c2a975aeab378ed6eb1d90c8988f82596add)
 - [ ] [<code>CommonJob: Continue the port to Vala (#2097)</code>](https://github.com/elementary/files/commit/6d615b1242169a446c094b49a9d5bbd905044f8e)
+- [ ] [<code>FileOperations: Continue the port to Vala (#2109)</code>](https://github.com/elementary/files/commit/7e6762c9e7bb5be8bdd182da851c24a9730b8af1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
