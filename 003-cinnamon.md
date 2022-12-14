@@ -9,8 +9,10 @@
 
 - [ ] [<code>Fix old cache folder (#11318)</code>](https://github.com/linuxmint/cinnamon/commit/a53596d7d5a56009d0560c6100e455778a956579)
 - [ ] [<code>cs_mouse: Fix range labels for touchpad speed widget</code>](https://github.com/linuxmint/cinnamon/commit/b92a48873a8e5be8309418037cbadbbe85ce6cf3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>python-updater: Download thumbs only during a 'full' update, make</code>](https://github.com/linuxmint/cinnamon/commit/108b77756b64620241f842622231a3412f6eeb28)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -44,6 +46,8 @@
 - [ ] [<code>Fix corner bar - only highlight the bar, not the applet, give it</code>](https://github.com/linuxmint/mint-themes/commit/93d1ad8b9cb26606e3983bc2bc92cf1d6f0657ac)
 - [ ] [<code>Fix GtkScale value position and mark length.</code>](https://github.com/linuxmint/mint-themes/commit/0218c73bb6ba888a696db21c746b7630adb02257)
 - [ ] [<code>Mint-X - gtk3: Restore :disabled state to infobar buttons.</code>](https://github.com/linuxmint/mint-themes/commit/558df456c54b9441da3dc2139c69a6557c04af98)
+- [ ] [<code>2.0.8</code>](https://github.com/linuxmint/mint-themes/commit/eaa3139f5e58d0f0d13a8f51569917fb81047008)
+  - <sub>Tags: <code>2.0.8</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -54,12 +58,16 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.1...HEAD)
 
 - [ ] [<code>Disable automaximize by default.</code>](https://github.com/linuxmint/muffin/commit/ad8487cea441f646eea9d0bbd9a6a62f8bfd26e7)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.6.2</code>](https://github.com/linuxmint/muffin/commit/8c1cb88373e1af1023c8a642da05040e7d83829d)
+  - <sub>Tags: <code>5.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.0 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.0...HEAD)
 
 - [ ] [<code>pathbar/entry: Give entry-preferred mode the same persistent behavior</code>](https://github.com/linuxmint/nemo/commit/003e516cdaadd9a7d5ce0031c0280f2e51b779e0)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/nemo/commit/12c2c10b1c2e929322ff62f0f1bf186e11b3181f)
+  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.8 → HEAD](https://github.com/linuxmint/pix/compare/2.8.8...HEAD)
 
