@@ -35,6 +35,8 @@
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.0...HEAD)
 
+- [ ] [<code>fixed a spelling error spotted with lintian</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cda0ce4e663ae5796b71c389aa7895422e8931ff)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.0...HEAD)
 
