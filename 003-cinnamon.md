@@ -12,8 +12,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>python-updater: Download thumbs only during a 'full' update, make</code>](https://github.com/linuxmint/cinnamon/commit/108b77756b64620241f842622231a3412f6eeb28)
 - [ ] [<code>gwl: Update instances correctly when the monitor configuration</code>](https://github.com/linuxmint/cinnamon/commit/54bf167110b67b0784c959b05b520a417fbc93b2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>python updater: Reduce json update timeout to 15s.</code>](https://github.com/linuxmint/cinnamon/commit/6399136ad928c9d03677f5093eede6f1b3fed319)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -50,19 +51,11 @@
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
 
 
-#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.1...HEAD)
+#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.2...HEAD)
 
-- [ ] [<code>Disable automaximize by default.</code>](https://github.com/linuxmint/muffin/commit/ad8487cea441f646eea9d0bbd9a6a62f8bfd26e7)
-- [ ] [<code>5.6.2</code>](https://github.com/linuxmint/muffin/commit/8c1cb88373e1af1023c8a642da05040e7d83829d)
-  - <sub>Tags: <code>5.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.0 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.0...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.1...HEAD)
 
-- [ ] [<code>pathbar/entry: Give entry-preferred mode the same persistent behavior</code>](https://github.com/linuxmint/nemo/commit/003e516cdaadd9a7d5ce0031c0280f2e51b779e0)
-- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/nemo/commit/12c2c10b1c2e929322ff62f0f1bf186e11b3181f)
-  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.8 → HEAD](https://github.com/linuxmint/pix/compare/2.8.8...HEAD)
 
@@ -75,6 +68,12 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.0 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.0...HEAD)
 
+- [ ] [<code>ev-view.c: Clear view->focus_annotation when removing the currently</code>](https://github.com/linuxmint/xreader/commit/7b4d8ab503647ceeb9c43d3c4fceaac57382a1a1)
+- [ ] [<code>3.6.1</code>](https://github.com/linuxmint/xreader/commit/0095cdc9cd9642ccaf3bb4ca2c9dd768e84f8ed7)
+  - <sub>Tags: <code>3.6.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ev-view.c: Check if there is a focused annotation before trying</code>](https://github.com/linuxmint/xreader/commit/b4b3a3ca2d95d0e9272517234085a4f0cf73baea)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.11...HEAD)
 
