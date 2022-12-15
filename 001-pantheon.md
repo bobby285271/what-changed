@@ -107,6 +107,9 @@
 - [ ] [<code>Release 6.3.1 (#344)</code>](https://github.com/elementary/tasks/commit/de5bad0f4e9802454e537a77022fd100984f6000)
   - <sub>Tags: <code>6.3.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>flatpak: Use 7.1 runtime (#345)</code>](https://github.com/elementary/tasks/commit/22e0d18693932e9eea3d2a22329f845575ce26e6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -309,6 +312,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update categories/applications-development (#1155)</code>](https://github.com/elementary/icons/commit/efe6ac3293fafee8a5e07d7c34569209600d2719)
 - [ ] [<code>Remove internet-web-browser (#1141)</code>](https://github.com/elementary/icons/commit/4ada31129546e7d03c29945ce05056d6ec541865)
+- [ ] [<code>Remove system-os-install (#1152)</code>](https://github.com/elementary/icons/commit/593523acf136a5906b976fc7f6f5929c45644d02)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
