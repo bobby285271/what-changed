@@ -69,6 +69,11 @@
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.2 → HEAD](https://github.com/elementary/feedback/compare/6.1.2...HEAD)
 
+- [ ] [<code>Load components async (#71)</code>](https://github.com/elementary/feedback/commit/61e2f5f5d7b0d7c29cd356b04a69ad3edf947a90)
+- [ ] [<code>Prep for Gtk4 (#74)</code>](https://github.com/elementary/feedback/commit/b73349e6a5a54d895bb3d69eee73c311edcccf72)
+- [ ] [<code>DesktopEntry: modernize, remove nodisplay (#75)</code>](https://github.com/elementary/feedback/commit/277a5cc84fb191ad40d166b5bfdfa81bf5acae2a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Application: use startup (), cleanup active window handling (#73)</code>](https://github.com/elementary/feedback/commit/f01b4f8c929b68637bc030b8a475eabf5441b613)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
