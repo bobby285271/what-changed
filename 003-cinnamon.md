@@ -14,7 +14,11 @@
 - [ ] [<code>gwl: Update instances correctly when the monitor configuration</code>](https://github.com/linuxmint/cinnamon/commit/54bf167110b67b0784c959b05b520a417fbc93b2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>python updater: Reduce json update timeout to 15s.</code>](https://github.com/linuxmint/cinnamon/commit/6399136ad928c9d03677f5093eede6f1b3fed319)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Menu applet: Don't use start-here icon</code>](https://github.com/linuxmint/cinnamon/commit/25bccf65a3cac0a6f7fc787ca8df0211ad915247)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.6.5</code>](https://github.com/linuxmint/cinnamon/commit/a9dffad432297e826b7991e9c1ecec2a22eb36e9)
+  - <sub>Tags: <code>5.6.5</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -75,7 +79,9 @@
   - <sub>Tags: <code>3.6.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ev-view.c: Check if there is a focused annotation before trying</code>](https://github.com/linuxmint/xreader/commit/b4b3a3ca2d95d0e9272517234085a4f0cf73baea)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>3.6.2</code>](https://github.com/linuxmint/xreader/commit/cd99a66201cbb8e116cf9a93e238eabd70654232)
+  - <sub>Tags: <code>3.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.11...HEAD)
 
