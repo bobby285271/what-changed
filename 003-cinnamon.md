@@ -5,20 +5,8 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.6 → HEAD](https://github.com/linuxmint/bulky/compare/2.6...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.4...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.5...HEAD)
 
-- [ ] [<code>Fix old cache folder (#11318)</code>](https://github.com/linuxmint/cinnamon/commit/a53596d7d5a56009d0560c6100e455778a956579)
-- [ ] [<code>cs_mouse: Fix range labels for touchpad speed widget</code>](https://github.com/linuxmint/cinnamon/commit/b92a48873a8e5be8309418037cbadbbe85ce6cf3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>python-updater: Download thumbs only during a 'full' update, make</code>](https://github.com/linuxmint/cinnamon/commit/108b77756b64620241f842622231a3412f6eeb28)
-- [ ] [<code>gwl: Update instances correctly when the monitor configuration</code>](https://github.com/linuxmint/cinnamon/commit/54bf167110b67b0784c959b05b520a417fbc93b2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>python updater: Reduce json update timeout to 15s.</code>](https://github.com/linuxmint/cinnamon/commit/6399136ad928c9d03677f5093eede6f1b3fed319)
-- [ ] [<code>Menu applet: Don't use start-here icon</code>](https://github.com/linuxmint/cinnamon/commit/25bccf65a3cac0a6f7fc787ca8df0211ad915247)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.6.5</code>](https://github.com/linuxmint/cinnamon/commit/a9dffad432297e826b7991e9c1ecec2a22eb36e9)
-  - <sub>Tags: <code>5.6.5</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -72,16 +60,8 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.0 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.0...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.2...HEAD)
 
-- [ ] [<code>ev-view.c: Clear view->focus_annotation when removing the currently</code>](https://github.com/linuxmint/xreader/commit/7b4d8ab503647ceeb9c43d3c4fceaac57382a1a1)
-- [ ] [<code>3.6.1</code>](https://github.com/linuxmint/xreader/commit/0095cdc9cd9642ccaf3bb4ca2c9dd768e84f8ed7)
-  - <sub>Tags: <code>3.6.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ev-view.c: Check if there is a focused annotation before trying</code>](https://github.com/linuxmint/xreader/commit/b4b3a3ca2d95d0e9272517234085a4f0cf73baea)
-- [ ] [<code>3.6.2</code>](https://github.com/linuxmint/xreader/commit/cd99a66201cbb8e116cf9a93e238eabd70654232)
-  - <sub>Tags: <code>3.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.11...HEAD)
 
