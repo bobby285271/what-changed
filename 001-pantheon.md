@@ -74,6 +74,10 @@
 - [ ] [<code>DesktopEntry: modernize, remove nodisplay (#75)</code>](https://github.com/elementary/feedback/commit/277a5cc84fb191ad40d166b5bfdfa81bf5acae2a)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Application: use startup (), cleanup active window handling (#73)</code>](https://github.com/elementary/feedback/commit/f01b4f8c929b68637bc030b8a475eabf5441b613)
+- [ ] [<code>AppEntries: include Feedback, Fonts, and Shortcuts (#72)</code>](https://github.com/elementary/feedback/commit/fc2d9a98fddd36d37eb08861e6e2a9f63a5a8cf1)
+- [ ] [<code>Metainfo: modernize (#76)</code>](https://github.com/elementary/feedback/commit/6c3dbadabcabce8c1f2f9f30965e32c7bcd8ae61)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainWindow: set and activate default (#78)</code>](https://github.com/elementary/feedback/commit/c650f86d2d01fc17ca0abe901e84d9d94cac55b5)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
