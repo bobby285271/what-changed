@@ -4,12 +4,22 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.6 → HEAD](https://github.com/linuxmint/bulky/compare/2.6...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/3f35ea766d23e6c41f1e6137419f14a1510dcaba)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/c079d53611adeec9663e19c35ec54abdad1d9c6e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.7</code>](https://github.com/linuxmint/bulky/commit/27b470fed0ab37def8193b928ea2baff96c205bd)
+  - <sub>Tags: <code>2.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.5...HEAD)
 
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/100958de8ac80c3556fc4046f42ede0e6dbe2ede)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/07073777adaf6a6f2b00d7147c7b931b9ecd98e0)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.0...HEAD)
 
@@ -50,12 +60,23 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.1...HEAD)
 
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/abd3db87a6c5bca6cb916e865ef42a38452f3ef0)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.8 → HEAD](https://github.com/linuxmint/pix/compare/2.8.8...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/4722bc311b01356a19a2c23704d9a234259ce7c6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>2.8.9</code>](https://github.com/linuxmint/pix/commit/0c336dd4e5df27ec8853a46ae9a8bef2783cb7d0)
+  - <sub>Tags: <code>2.8.9</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/3a0a2a3f1038649da54146316c8f81fe6c8326ec)
+- [ ] [<code>1.4.3</code>](https://github.com/linuxmint/warpinator/commit/1773127d1f7fd5fca20610ed655df104e25177a4)
+  - <sub>Tags: <code>1.4.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
