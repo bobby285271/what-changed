@@ -34,14 +34,8 @@
 - [ ] [<code>fixed a spelling error spotted with lintian</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cda0ce4e663ae5796b71c389aa7895422e8931ff)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.0...HEAD)
+#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/3c013450f00ad0a49545feea037811f4df897017)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/f80c84db768a1f1e6f03f1421121d63fe7d53731)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>5.6.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/00765d231d986ea46490d0150420ac52bbcaef7b)
-  - <sub>Tags: <code>5.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.6.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.6.1...HEAD)
 
