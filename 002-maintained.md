@@ -362,6 +362,7 @@
 - [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/d4f7e1ea314ba4197fafdb310bb1c04cc5d450ef)
 - [ ] [<code>Update README.md</code>](https://github.com/lainsce/khronos/commit/c97c3c2cd4e9bf941b186f64aaf5cee1d886fcaa)
 - [ ] [<code>Update pot file (#123)</code>](https://github.com/lainsce/khronos/commit/ea95297d98641f1937ba9980a94550cf5a860cc0)
+- [ ] [<code>Translated for Chinese (Simplified) (#124)</code>](https://github.com/lainsce/khronos/commit/3ce1d93c564bd8d5d1060dbe242e00d0d792670d)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
