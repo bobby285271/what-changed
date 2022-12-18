@@ -322,6 +322,7 @@
 - [ ] [<code>Update categories/applications-development (#1155)</code>](https://github.com/elementary/icons/commit/efe6ac3293fafee8a5e07d7c34569209600d2719)
 - [ ] [<code>Remove internet-web-browser (#1141)</code>](https://github.com/elementary/icons/commit/4ada31129546e7d03c29945ce05056d6ec541865)
 - [ ] [<code>Remove system-os-install (#1152)</code>](https://github.com/elementary/icons/commit/593523acf136a5906b976fc7f6f5929c45644d02)
+- [ ] [<code>Update border radius of preferences-system-sharing (#1159)</code>](https://github.com/elementary/icons/commit/58c9892060a5133744bd3d6dbe4bf33794e98db6)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
