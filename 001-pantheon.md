@@ -78,6 +78,7 @@
 - [ ] [<code>Metainfo: modernize (#76)</code>](https://github.com/elementary/feedback/commit/6c3dbadabcabce8c1f2f9f30965e32c7bcd8ae61)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainWindow: set and activate default (#78)</code>](https://github.com/elementary/feedback/commit/c650f86d2d01fc17ca0abe901e84d9d94cac55b5)
+- [ ] [<code>Wrap labels, disallow hscroll, expand listbox (#81)</code>](https://github.com/elementary/feedback/commit/d1dfac97195cc5390472af754a28e06ca94f84c9)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
