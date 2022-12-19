@@ -453,6 +453,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adding support for cut/copy shortcuts when multiple nodes selected</code>](https://github.com/phase1geo/minder/commit/65e9200c7a33a9dfdf7f4d79604f88161f87b6cc)
 - [ ] [<code>Merge branch '524-ctrlc-and-ctrlx-dont-work-with-multi'</code>](https://github.com/phase1geo/minder/commit/29d530c9cd5a5f918eaf38387a9321e156c24cad)
+- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/d2a84a6a82e0171f670e3e2627d88983a9eb5885)
+- [ ] [<code>Merge pull request #526 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/9e7a76291d0bf76891791acb2190e5d289a7e82d)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
