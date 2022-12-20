@@ -13,7 +13,9 @@
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/07073777adaf6a6f2b00d7147c7b931b9ecd98e0)
+- [ ] [<code>Fix build when the color panel is disabled.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/65fb97ead94f7d531491ca6e59f2acff0192023f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.0...HEAD)
 
