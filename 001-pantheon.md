@@ -275,6 +275,7 @@
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
 
+- [ ] [<code>Update icons (#246)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/88ef3adbc384cfb6f0bf29dd5393ed75cf0274bf)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -290,6 +291,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
 - [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/b8ae5af4477d23dc5553a8cccebf7cab5bcdde3d)
+- [ ] [<code>Remove unused power-mode-automatic icon (#224)</code>](https://github.com/elementary/switchboard-plug-power/commit/f85cd814c2d2be481611e867973b908b9a736e88)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -324,6 +326,12 @@
 - [ ] [<code>Remove internet-web-browser (#1141)</code>](https://github.com/elementary/icons/commit/4ada31129546e7d03c29945ce05056d6ec541865)
 - [ ] [<code>Remove system-os-install (#1152)</code>](https://github.com/elementary/icons/commit/593523acf136a5906b976fc7f6f5929c45644d02)
 - [ ] [<code>Update border radius of preferences-system-sharing (#1159)</code>](https://github.com/elementary/icons/commit/58c9892060a5133744bd3d6dbe4bf33794e98db6)
+- [ ] [<code>Appdata: Add Icon (#1165)</code>](https://github.com/elementary/icons/commit/d090a62458a079ac77629d250662279dca15e619)
+- [ ] [<code>Update border radius of preferences-desktop-applications (#1164)</code>](https://github.com/elementary/icons/commit/5376406f2ae438f996f11af78a68ac352996db76)
+- [ ] [<code>Update border radius of notification-disabled (#1163)</code>](https://github.com/elementary/icons/commit/2e07652989e612d33139ddccd9d8c67b019c7ba4)
+- [ ] [<code>Update border radius of application-x-firmware (#1161)</code>](https://github.com/elementary/icons/commit/b635d2230c451a574d3bd4157c401233e6d7df8d)
+- [ ] [<code>Normalize width of key in input-keyboard icon (#1162)</code>](https://github.com/elementary/icons/commit/8126cbe62ae0f6ddde7a953581993546a1a08841)
+- [ ] [<code>Update border radius of preferences-system-parental-controls (#1160)</code>](https://github.com/elementary/icons/commit/528b6bc001f7d35c385ad9746aefc7541baebeee)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -490,10 +498,14 @@
 - [ ] [<code>Move panel-main-menu to Gala schema (#556)</code>](https://github.com/elementary/applications-menu/commit/975edd009b912e0414ad69dd9a6f8e7950e0b57c)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>AppData: Remove old releases</code>](https://github.com/elementary/applications-menu/commit/7aa2211ea099499bcb32a0232641797e1a268d5f)
+- [ ] [<code>Release 2.11.1 (#557)</code>](https://github.com/elementary/applications-menu/commit/98bf930d5ab9f18411da0f397304137730211706)
+  - <sub>Tags: <code>2.11.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
 - [ ] [<code>Appdata: Add icon (#52)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/7d20cd820f55d74f3c97d6703be2e50c657375e0)
+- [ ] [<code>Set correct text size on startup (#53)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/6322aa1e459618f03a2bec3b7626882db903f5ea)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
