@@ -8,7 +8,9 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.5...HEAD)
 
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/100958de8ac80c3556fc4046f42ede0e6dbe2ede)
+- [ ] [<code>cinnamon-settings themes: Check both new and legacy theme folders</code>](https://github.com/linuxmint/cinnamon/commit/7a8fb6c5873f5df31aa82018fdb964a2d4055b6e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
