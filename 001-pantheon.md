@@ -9,6 +9,7 @@
 - [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
 - [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
 - [ ] [<code>Fix visual issues with category icons (#1954)</code>](https://github.com/elementary/appcenter/commit/09edce06723182ea2f25a3f3e21cd4eb699b1cbd)
+- [ ] [<code>Flatpak Runtimes (#1956)</code>](https://github.com/elementary/appcenter/commit/345d5dc0dc410badbdf64bb0756250d920d1b8c1)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -332,6 +333,7 @@
 - [ ] [<code>Update border radius of application-x-firmware (#1161)</code>](https://github.com/elementary/icons/commit/b635d2230c451a574d3bd4157c401233e6d7df8d)
 - [ ] [<code>Normalize width of key in input-keyboard icon (#1162)</code>](https://github.com/elementary/icons/commit/8126cbe62ae0f6ddde7a953581993546a1a08841)
 - [ ] [<code>Update border radius of preferences-system-parental-controls (#1160)</code>](https://github.com/elementary/icons/commit/528b6bc001f7d35c385ad9746aefc7541baebeee)
+- [ ] [<code>Status: update 48px do-not-disturb (#1166)</code>](https://github.com/elementary/icons/commit/b31b92e71bbe098f954ef5aac0e4ee6815d1e7c5)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
