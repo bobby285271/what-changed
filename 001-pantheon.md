@@ -10,6 +10,7 @@
 - [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
 - [ ] [<code>Fix visual issues with category icons (#1954)</code>](https://github.com/elementary/appcenter/commit/09edce06723182ea2f25a3f3e21cd4eb699b1cbd)
 - [ ] [<code>Flatpak Runtimes (#1956)</code>](https://github.com/elementary/appcenter/commit/345d5dc0dc410badbdf64bb0756250d920d1b8c1)
+- [ ] [<code>Size information for Runtime Updates (#1957)</code>](https://github.com/elementary/appcenter/commit/aea1c13f6f19a51e6d9b5ea10ae7f23f0ffa0b6c)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -487,6 +488,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Reload animated wallpapers when timezone changes (#1461)</code>](https://github.com/elementary/gala/commit/2c6aa503b6b7886db1b8acf0e6c60dff8ed9ae14)
 - [ ] [<code>Temporary workaround for crash when a notification expires while we are switching workspaces (#1497)</code>](https://github.com/elementary/gala/commit/8842e576e3e8643a018d506605f80d152e3f5cec)
+- [ ] [<code>ShadowEffect: let Clutter know the shadow's size (#1500)</code>](https://github.com/elementary/gala/commit/34a208e26d2ee0bf4a1689c8ad6ddfc06c540ff8)
+- [ ] [<code>Fix awkward two-finger scroll in multitasking view (#1499)</code>](https://github.com/elementary/gala/commit/c175d2662dd05e940a5b3311cc9dc285242b7fc5)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
