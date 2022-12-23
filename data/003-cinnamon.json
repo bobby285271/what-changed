@@ -10,7 +10,7 @@
         },
         {
             "kind": "markdown",
-            "content": "> For mint-artwork check updates manually."
+            "content": "> For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python."
         },
         {
             "attr_path": "cinnamon.bulky"
@@ -43,6 +43,9 @@
             "attr_path": "cinnamon.cjs"
         },
         {
+            "attr_path": "cinnamon.folder-color-switcher"
+        },
+        {
             "attr_path": "cinnamon.mint-themes"
         },
         {
@@ -56,6 +59,9 @@
         },
         {
             "attr_path": "cinnamon.nemo"
+        },
+        {
+            "attr_path": "cinnamon.nemo-python"
         },
         {
             "attr_path": "cinnamon.pix"
