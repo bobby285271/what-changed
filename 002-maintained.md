@@ -170,6 +170,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement group hover and selection (#734)</code>](https://github.com/akiraux/Akira/commit/09a62716bff43f55b3cd0f4036f0140bfe568177)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Various selection fixes (#737)</code>](https://github.com/akiraux/Akira/commit/ae56060395f41208ee4446ff669f636b41af103c)
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
@@ -288,6 +289,7 @@
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/8e253df31f93a8e7853b07d5c1552203db449163)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/daf6aff3fd9cd2ad47c52312b8aeded905a65aea)
+- [ ] [<code>fix #940  #934 #927 #926 #924</code>](https://github.com/alainm23/planner/commit/0b4ee9149a11d255d7c2dc1ddcf106d2862cda6d)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
