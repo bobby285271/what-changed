@@ -490,6 +490,11 @@
 - [ ] [<code>Temporary workaround for crash when a notification expires while we are switching workspaces (#1497)</code>](https://github.com/elementary/gala/commit/8842e576e3e8643a018d506605f80d152e3f5cec)
 - [ ] [<code>ShadowEffect: let Clutter know the shadow's size (#1500)</code>](https://github.com/elementary/gala/commit/34a208e26d2ee0bf4a1689c8ad6ddfc06c540ff8)
 - [ ] [<code>Fix awkward two-finger scroll in multitasking view (#1499)</code>](https://github.com/elementary/gala/commit/c175d2662dd05e940a5b3311cc9dc285242b7fc5)
+- [ ] [<code>Don't reconfigure hot corners on monitors_changed event when there are no monitors</code>](https://github.com/elementary/gala/commit/1487660812a343e6a6178881e6e7b25c2405cece)
+- [ ] [<code>Fix zoom</code>](https://github.com/elementary/gala/commit/b9c5c9c79a045c3eef7695f74f82d851438ba7e2)
+- [ ] [<code>Remove space</code>](https://github.com/elementary/gala/commit/49d3ddae5b631027466ff528c2935e05a8f5dc3f)
+- [ ] [<code>Update src/Zoom.vala</code>](https://github.com/elementary/gala/commit/0121541fcaaa806e42476f6da7e1de88afcdbdea)
+- [ ] [<code>Fixes</code>](https://github.com/elementary/gala/commit/45126e4c2d3736e872c05941a2047a54788cd011)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
