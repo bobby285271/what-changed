@@ -1,6 +1,6 @@
 # what-changed (Cinnamon)
 ## cinnamon
-> For mint-artwork check updates manually.
+> For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python.
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
 
@@ -11,6 +11,9 @@
 - [ ] [<code>cinnamon-settings themes: Check both new and legacy theme folders</code>](https://github.com/linuxmint/cinnamon/commit/7a8fb6c5873f5df31aa82018fdb964a2d4055b6e)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>startupAnimation.js: Make sure the shroud actor remains the size</code>](https://github.com/linuxmint/cinnamon/commit/6ff0149f8b3be41bbdb0e1e5aa004564dff89bae)
+- [ ] [<code>systray applet: Use the correct panel size when reloading icons.</code>](https://github.com/linuxmint/cinnamon/commit/fa4960a6e8070ac44643f56934b674091d2ab4c4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>PanelManager: Keep track of the number of monitors.</code>](https://github.com/linuxmint/cinnamon/commit/4b2713dac582b85dffa1160f09eee3d2a45e7484)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
@@ -45,6 +48,9 @@
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.6.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.6.1...HEAD)
 
 
+#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5e0b768b3a5bf88a828a2489b9428997b797c1ed → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5e0b768b3a5bf88a828a2489b9428997b797c1ed...HEAD)
+
+
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.8...HEAD)
 
 
@@ -60,7 +66,14 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.1...HEAD)
 
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/abd3db87a6c5bca6cb916e865ef42a38452f3ef0)
+- [ ] [<code>nemo-places-sidebar.c: Get the expander width from the current</code>](https://github.com/linuxmint/nemo/commit/b12c7b497a7a19ead93b808be0716acc04a7b791)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
+
+- [ ] [<code>nemo-fileroller: Use NemoFileInfo's activation uri</code>](https://github.com/linuxmint/nemo-extensions/commit/d078c742a655e8250342f30366b3777d74d8449a)
+- [ ] [<code>nemo-fileroller 5.6.1</code>](https://github.com/linuxmint/nemo-extensions/commit/2468cc5c62ddf93c26a0052bd5c7826024eabde2)
+  - <sub>Tags: <code>nemo-fileroller-5.6.1</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
