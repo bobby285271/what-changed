@@ -495,6 +495,7 @@
 - [ ] [<code>Remove space</code>](https://github.com/elementary/gala/commit/49d3ddae5b631027466ff528c2935e05a8f5dc3f)
 - [ ] [<code>Update src/Zoom.vala</code>](https://github.com/elementary/gala/commit/0121541fcaaa806e42476f6da7e1de88afcdbdea)
 - [ ] [<code>Fixes</code>](https://github.com/elementary/gala/commit/45126e4c2d3736e872c05941a2047a54788cd011)
+- [ ] [<code>Improve multitasking view animation performance (#1498)</code>](https://github.com/elementary/gala/commit/2d43311d7e4b28bc228dda0f428e00ea786e62bf)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
