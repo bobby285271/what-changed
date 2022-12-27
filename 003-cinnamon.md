@@ -14,7 +14,9 @@
 - [ ] [<code>systray applet: Use the correct panel size when reloading icons.</code>](https://github.com/linuxmint/cinnamon/commit/fa4960a6e8070ac44643f56934b674091d2ab4c4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>PanelManager: Keep track of the number of monitors.</code>](https://github.com/linuxmint/cinnamon/commit/4b2713dac582b85dffa1160f09eee3d2a45e7484)
+- [ ] [<code>ChooserButtonWidgets: Fix button and menu images in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/89c8dafe4ff5501050cd30a1d2a9f5bbec503d61)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -67,6 +69,8 @@
 
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/abd3db87a6c5bca6cb916e865ef42a38452f3ef0)
 - [ ] [<code>nemo-places-sidebar.c: Get the expander width from the current</code>](https://github.com/linuxmint/nemo/commit/b12c7b497a7a19ead93b808be0716acc04a7b791)
+- [ ] [<code>nemo-action: readlink before populate</code>](https://github.com/linuxmint/nemo/commit/9d6ca4196f08dea804dbf1b7e9dbbe42af25997b)
+- [ ] [<code>nemo-script-config-widget: monitor correct path for setup-dir-monitors</code>](https://github.com/linuxmint/nemo/commit/f0245bb7640302df93b4ef86a4e59b1956d52654)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -74,6 +78,9 @@
 - [ ] [<code>nemo-fileroller: Use NemoFileInfo's activation uri</code>](https://github.com/linuxmint/nemo-extensions/commit/d078c742a655e8250342f30366b3777d74d8449a)
 - [ ] [<code>nemo-fileroller 5.6.1</code>](https://github.com/linuxmint/nemo-extensions/commit/2468cc5c62ddf93c26a0052bd5c7826024eabde2)
   - <sub>Tags: <code>nemo-fileroller-5.6.1</code></sub>
+- [ ] [<code>meson: simplify gpgme dependency lookup</code>](https://github.com/linuxmint/nemo-extensions/commit/601374dab4506c0e791cfbd1ecf5e9f1451c1660)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
@@ -89,6 +96,8 @@
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.11...HEAD)
 
+- [ ] [<code>Use upper case names for boolean constants (False -> FALSE, True -> TRUE). Not all distros support not-upper case variant (#178)</code>](https://github.com/linuxmint/xviewer/commit/9f05d7e36b32fec487d0af502059674373111ccc)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -96,6 +105,9 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.1 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.1...HEAD)
 
+- [ ] [<code>fixed work with API ver. 2 (#254)</code>](https://github.com/linuxmint/hypnotix/commit/4c9efe422c0f5146ceaa44533fbd2144d8c9d7c2)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
