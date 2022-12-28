@@ -11,6 +11,7 @@
 - [ ] [<code>Fix visual issues with category icons (#1954)</code>](https://github.com/elementary/appcenter/commit/09edce06723182ea2f25a3f3e21cd4eb699b1cbd)
 - [ ] [<code>Flatpak Runtimes (#1956)</code>](https://github.com/elementary/appcenter/commit/345d5dc0dc410badbdf64bb0756250d920d1b8c1)
 - [ ] [<code>Size information for Runtime Updates (#1957)</code>](https://github.com/elementary/appcenter/commit/aea1c13f6f19a51e6d9b5ea10ae7f23f0ffa0b6c)
+- [ ] [<code>Install PackageKit based Operating System Updates as Offline Updates (#1943)</code>](https://github.com/elementary/appcenter/commit/73ac7e626b241b0162a7c99f5ef7ffcf4c10588e)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
