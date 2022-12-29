@@ -15,8 +15,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>PanelManager: Keep track of the number of monitors.</code>](https://github.com/linuxmint/cinnamon/commit/4b2713dac582b85dffa1160f09eee3d2a45e7484)
 - [ ] [<code>ChooserButtonWidgets: Fix button and menu images in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/89c8dafe4ff5501050cd30a1d2a9f5bbec503d61)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix reverse mouse scroll in the app switcher.</code>](https://github.com/linuxmint/cinnamon/commit/7dd753cfb8add9eb2a012182b52ccd0c6823db7e)
+- [ ] [<code>window list: Ignore smooth scroll events when mousewheel cycling is</code>](https://github.com/linuxmint/cinnamon/commit/bf451d682cea65b153dd820c29fc2e82066c5072)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -74,6 +77,7 @@
 - [ ] [<code>nemo-places-sidebar.c: Get the expander width from the current</code>](https://github.com/linuxmint/nemo/commit/b12c7b497a7a19ead93b808be0716acc04a7b791)
 - [ ] [<code>nemo-action: readlink before populate</code>](https://github.com/linuxmint/nemo/commit/9d6ca4196f08dea804dbf1b7e9dbbe42af25997b)
 - [ ] [<code>nemo-script-config-widget: monitor correct path for setup-dir-monitors</code>](https://github.com/linuxmint/nemo/commit/f0245bb7640302df93b4ef86a4e59b1956d52654)
+- [ ] [<code>nemo-window-pane.c: Use the button-release event for showing the</code>](https://github.com/linuxmint/nemo/commit/4bc1a3ba572cfacf23aeb1d2c5da4ba31e05ebf3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -120,6 +124,11 @@
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.13 → HEAD](https://github.com/linuxmint/sticky/compare/1.13...HEAD)
 
+- [ ] [<code>Buffer: fix an issue where pasted text sometimes gets jumbled</code>](https://github.com/linuxmint/sticky/commit/bb95af8c6774e11851b47f3eaef05eec658dea41)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Buffer: only override the view's motion handler when not selecting text</code>](https://github.com/linuxmint/sticky/commit/3140c112bf775ada3bdb0bc4ad974c131c752589)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.1 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.1...HEAD)
 
