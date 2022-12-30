@@ -70,6 +70,8 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.2...HEAD)
 
+- [ ] [<code>compositor: Fix possible crash when restarting Cinnamon (#655)</code>](https://github.com/linuxmint/muffin/commit/1a941ec603a1565dbd2f943f7da6e877d1541bcb)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.1...HEAD)
 
