@@ -290,6 +290,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/daf6aff3fd9cd2ad47c52312b8aeded905a65aea)
 - [ ] [<code>fix #940  #934 #927 #926 #924</code>](https://github.com/alainm23/planner/commit/0b4ee9149a11d255d7c2dc1ddcf106d2862cda6d)
+- [ ] [<code>Update com.github.alainm23.planner.appdata.xml.in</code>](https://github.com/alainm23/planner/commit/ca60ace26e13bfb2b43fbcfac9b6497d79c48c5e)
+- [ ] [<code>Update com.github.alainm23.planner.appdata.xml.in</code>](https://github.com/alainm23/planner/commit/c8959777160198b2cd84c8383f426197be25d917)
+- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planner/commit/6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
