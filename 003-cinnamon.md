@@ -31,6 +31,7 @@
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.0...HEAD)
 
 - [ ] [<code>Add a settings key for the gtk-enable-primary-paste GtkSetting.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a573e21850723edbe5ab149ef2c1265d16f0bf02)
+- [ ] [<code>touchpad: Enable tap-to-click by default.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/c11b48c8b451c446c9a02db467ad978deb09e710)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
@@ -123,6 +124,11 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.6.0 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.6.0...HEAD)
 
+- [ ] [<code>Allow wayland sessions to pass validation</code>](https://github.com/linuxmint/slick-greeter/commit/e6a649d20b926e9b82ea21af384c997636a90c9e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add github workflow, remove .circleci.</code>](https://github.com/linuxmint/slick-greeter/commit/4e17fe203fcf82b35f5a741cb86590b5a76ce7a5)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.13 → HEAD](https://github.com/linuxmint/sticky/compare/1.13...HEAD)
 
