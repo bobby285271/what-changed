@@ -18,15 +18,20 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix reverse mouse scroll in the app switcher.</code>](https://github.com/linuxmint/cinnamon/commit/7dd753cfb8add9eb2a012182b52ccd0c6823db7e)
 - [ ] [<code>window list: Ignore smooth scroll events when mousewheel cycling is</code>](https://github.com/linuxmint/cinnamon/commit/bf451d682cea65b153dd820c29fc2e82066c5072)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>makepot: Include comments from js files.</code>](https://github.com/linuxmint/cinnamon/commit/bf8fb4f426225a82fc1347960c336d7b94088783)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Populate desktop files with new/changed translations.</code>](https://github.com/linuxmint/cinnamon/commit/c2870ef146a3f462cfd72d9a10789fee50ebf9cd)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/07073777adaf6a6f2b00d7147c7b931b9ecd98e0)
 - [ ] [<code>Fix build when the color panel is disabled.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/65fb97ead94f7d531491ca6e59f2acff0192023f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations in desktop files.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e1b899a8cad19b72b109bd97fa6f313b543e5b2d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.0...HEAD)
 
@@ -81,7 +86,9 @@
 - [ ] [<code>nemo-action: readlink before populate</code>](https://github.com/linuxmint/nemo/commit/9d6ca4196f08dea804dbf1b7e9dbbe42af25997b)
 - [ ] [<code>nemo-script-config-widget: monitor correct path for setup-dir-monitors</code>](https://github.com/linuxmint/nemo/commit/f0245bb7640302df93b4ef86a4e59b1956d52654)
 - [ ] [<code>nemo-window-pane.c: Use the button-release event for showing the</code>](https://github.com/linuxmint/nemo/commit/4bc1a3ba572cfacf23aeb1d2c5da4ba31e05ebf3)
+- [ ] [<code>Run generate_additional_file to populate desktop/action files with</code>](https://github.com/linuxmint/nemo/commit/4e730b05223677352604bdec9267bd0571b8b979)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
