@@ -13,6 +13,8 @@
 - [ ] [<code>Size information for Runtime Updates (#1957)</code>](https://github.com/elementary/appcenter/commit/aea1c13f6f19a51e6d9b5ea10ae7f23f0ffa0b6c)
 - [ ] [<code>Install PackageKit based Operating System Updates as Offline Updates (#1943)</code>](https://github.com/elementary/appcenter/commit/73ac7e626b241b0162a7c99f5ef7ffcf4c10588e)
 - [ ] [<code>Pretty output Flatpak package origins (#1962)</code>](https://github.com/elementary/appcenter/commit/089144d6c8137d64f56223f5c75c02e22f34e3f3)
+- [ ] [<code>Warn running in Demo Mode (#1963)</code>](https://github.com/elementary/appcenter/commit/4c755a41ddd155f03f9b2d94d184f7c8571c88c7)
+- [ ] [<code>Show Operating System Updates and Runtime Updates only if available (#1960)</code>](https://github.com/elementary/appcenter/commit/8cb5b1d4289ca82d8fb48efb011dab25be29463b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -337,6 +339,8 @@
 - [ ] [<code>Normalize width of key in input-keyboard icon (#1162)</code>](https://github.com/elementary/icons/commit/8126cbe62ae0f6ddde7a953581993546a1a08841)
 - [ ] [<code>Update border radius of preferences-system-parental-controls (#1160)</code>](https://github.com/elementary/icons/commit/528b6bc001f7d35c385ad9746aefc7541baebeee)
 - [ ] [<code>Status: update 48px do-not-disturb (#1166)</code>](https://github.com/elementary/icons/commit/b31b92e71bbe098f954ef5aac0e4ee6815d1e7c5)
+- [ ] [<code>FileTypes: Update text to fd.o name (#1169)</code>](https://github.com/elementary/icons/commit/61871ca23f0131d249d99c0bc3e62785e1ff3326)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -560,6 +564,7 @@
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
+- [ ] [<code>Hide user settings in Demo Mode (#172)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/7f4dd5967c99d98d71414267dc295883008c1ac7)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
 
