@@ -85,6 +85,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainWindow: set and activate default (#78)</code>](https://github.com/elementary/feedback/commit/c650f86d2d01fc17ca0abe901e84d9d94cac55b5)
 - [ ] [<code>Wrap labels, disallow hscroll, expand listbox (#81)</code>](https://github.com/elementary/feedback/commit/d1dfac97195cc5390472af754a28e06ca94f84c9)
+- [ ] [<code>Metainfo: Add release info for 7.0.0 (#84)</code>](https://github.com/elementary/feedback/commit/b52ae63ba4b34bdcf3ba997352df5ca3f66e9685)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -247,6 +248,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gresource windows category icon (#428)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7b72d850c4659484027f9d4d4eb863ddafb28fcb)
 - [ ] [<code>ShortcutListBox: only add ShortcutRow when schema key is valid (#427)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4426499594f274bd092a603ba9a53e2840848288)
+- [ ] [<code>Add release notes for 3.1.1 (#431)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/be2413b2bf4a288e14ec0e0a4819b9fbea885e15)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -356,6 +358,7 @@
 - [ ] [<code>Metainfo: use preferences-desktop-wallpaper icon</code>](https://github.com/elementary/wallpapers/commit/4f1ccc61c182ff70d7f6cd7e1ed1588e0ca66cde)
 - [ ] [<code>Set default to Photo of Valley (#174)</code>](https://github.com/elementary/wallpapers/commit/026f4b7765013adf75fe17b7806478b35a4f7260)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Reduce contrails in Photo of Valley.jpg (#176)</code>](https://github.com/elementary/wallpapers/commit/f4081c5f97275034b7c1b32a9c659cd03f6d90f0)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
@@ -503,6 +506,7 @@
 - [ ] [<code>Fixes</code>](https://github.com/elementary/gala/commit/45126e4c2d3736e872c05941a2047a54788cd011)
 - [ ] [<code>Improve multitasking view animation performance (#1498)</code>](https://github.com/elementary/gala/commit/2d43311d7e4b28bc228dda0f428e00ea786e62bf)
 - [ ] [<code>Fix workspace switching in multitasking view</code>](https://github.com/elementary/gala/commit/0d8a4a87afd337f6cc588ba4247d3d3abdfdd5b4)
+- [ ] [<code>6.4.0 Release notes (#1509)</code>](https://github.com/elementary/gala/commit/8dd412ab28570480667d4e1586b379a67705ea51)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
