@@ -77,6 +77,11 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.2...HEAD)
 
 - [ ] [<code>compositor: Fix possible crash when restarting Cinnamon (#655)</code>](https://github.com/linuxmint/muffin/commit/1a941ec603a1565dbd2f943f7da6e877d1541bcb)
+- [ ] [<code>tiling: Skip the resize effect for tiled windows during user grabs.</code>](https://github.com/linuxmint/muffin/commit/87572f7626fa26074dc91b7202ffca417cfc4fef)
+- [ ] [<code>tiling: Remove unnecessary update_edge_constraints().</code>](https://github.com/linuxmint/muffin/commit/cc58982e8079c24a9c76cc867d973683729288e2)
+- [ ] [<code>Add tilix and qterminal to the new-window focus list.</code>](https://github.com/linuxmint/muffin/commit/0e957e1868cb81a140770dada464ff52d7ff26e4)
+- [ ] [<code>window activation: Detect a couple of conditions that might cause</code>](https://github.com/linuxmint/muffin/commit/cd5ed89dcafd4ed0f84ea30f801213590814d761)
+- [ ] [<code>window.c: Improve the test for checking if an 'above' window may</code>](https://github.com/linuxmint/muffin/commit/06633cab85473019a120b0bb31f00fdedcb12921)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.1...HEAD)
