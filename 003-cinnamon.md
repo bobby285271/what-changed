@@ -22,8 +22,10 @@
 - [ ] [<code>makepot: Include comments from js files.</code>](https://github.com/linuxmint/cinnamon/commit/bf8fb4f426225a82fc1347960c336d7b94088783)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Populate desktop files with new/changed translations.</code>](https://github.com/linuxmint/cinnamon/commit/c2870ef146a3f462cfd72d9a10789fee50ebf9cd)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>harvester.py: See if any spices are installed before going online</code>](https://github.com/linuxmint/cinnamon/commit/d1e96176a3a087ce3d5de562171b1d737c9712c4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -147,6 +149,8 @@
 - [ ] [<code>Buffer: fix an issue where pasted text sometimes gets jumbled</code>](https://github.com/linuxmint/sticky/commit/bb95af8c6774e11851b47f3eaef05eec658dea41)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Buffer: only override the view's motion handler when not selecting text</code>](https://github.com/linuxmint/sticky/commit/3140c112bf775ada3bdb0bc4ad974c131c752589)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Buffer: On insert, don't continue a link through a link-ending character</code>](https://github.com/linuxmint/sticky/commit/bb771688cb882aa65170e84b909f77483819bdac)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
