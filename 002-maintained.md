@@ -171,6 +171,8 @@
 - [ ] [<code>Implement group hover and selection (#734)</code>](https://github.com/akiraux/Akira/commit/09a62716bff43f55b3cd0f4036f0140bfe568177)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Various selection fixes (#737)</code>](https://github.com/akiraux/Akira/commit/ae56060395f41208ee4446ff669f636b41af103c)
+- [ ] [<code>Re-implement the Export Tool (#740)</code>](https://github.com/akiraux/Akira/commit/212c923cb775697afbd7ef1a61bdde657ff0ea26)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
