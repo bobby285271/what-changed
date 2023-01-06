@@ -15,11 +15,14 @@
 - [ ] [<code>Pretty output Flatpak package origins (#1962)</code>](https://github.com/elementary/appcenter/commit/089144d6c8137d64f56223f5c75c02e22f34e3f3)
 - [ ] [<code>Warn running in Demo Mode (#1963)</code>](https://github.com/elementary/appcenter/commit/4c755a41ddd155f03f9b2d94d184f7c8571c88c7)
 - [ ] [<code>Show Operating System Updates and Runtime Updates only if available (#1960)</code>](https://github.com/elementary/appcenter/commit/8cb5b1d4289ca82d8fb48efb011dab25be29463b)
+- [ ] [<code>Make loading updates async from main AppCenter window (#1964)</code>](https://github.com/elementary/appcenter/commit/e5dbee5d21dc038cb9d3bf1070e8edfe520a42bf)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
 - [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/calculator/commit/ca382d8723e3a31b08dc6e30036154eae595efd1)
 - [ ] [<code>Update screenshot filename in README.md (#235)</code>](https://github.com/elementary/calculator/commit/a339efca6361b3c7daba8156744f52040a660920)
+- [ ] [<code>Application: use startup () and clean up (#237)</code>](https://github.com/elementary/calculator/commit/b6a8535f12c0db03f9336ce7ec568559e5a1b5be)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -86,6 +89,9 @@
 - [ ] [<code>MainWindow: set and activate default (#78)</code>](https://github.com/elementary/feedback/commit/c650f86d2d01fc17ca0abe901e84d9d94cac55b5)
 - [ ] [<code>Wrap labels, disallow hscroll, expand listbox (#81)</code>](https://github.com/elementary/feedback/commit/d1dfac97195cc5390472af754a28e06ca94f84c9)
 - [ ] [<code>Metainfo: Add release info for 7.0.0 (#84)</code>](https://github.com/elementary/feedback/commit/b52ae63ba4b34bdcf3ba997352df5ca3f66e9685)
+- [ ] [<code>Release 7.0.0 (#85)</code>](https://github.com/elementary/feedback/commit/3605ab2599a5be416c1dfe0c02a5416c4abcc613)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -249,6 +255,11 @@
 - [ ] [<code>Gresource windows category icon (#428)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7b72d850c4659484027f9d4d4eb863ddafb28fcb)
 - [ ] [<code>ShortcutListBox: only add ShortcutRow when schema key is valid (#427)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4426499594f274bd092a603ba9a53e2840848288)
 - [ ] [<code>Add release notes for 3.1.1 (#431)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/be2413b2bf4a288e14ec0e0a4819b9fbea885e15)
+- [ ] [<code>Release 3.1.1 (#432)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/16547c5be46d7016287f695f2b398cce577eda90)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/41c50c257a307914cf28d514ed5235aadf446087)
+- [ ] [<code>Release 3.1.1 (#433)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/96abd3006fc8ecea6b90fc64fb758bf335bbdb9c)
+  - <sub>Tags: <code>3.1.1</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -343,6 +354,8 @@
 - [ ] [<code>Status: update 48px do-not-disturb (#1166)</code>](https://github.com/elementary/icons/commit/b31b92e71bbe098f954ef5aac0e4ee6815d1e7c5)
 - [ ] [<code>FileTypes: Update text to fd.o name (#1169)</code>](https://github.com/elementary/icons/commit/61871ca23f0131d249d99c0bc3e62785e1ff3326)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update icons.appdata.xml.in (#1171)</code>](https://github.com/elementary/icons/commit/21e57eeb420933696d871c46c02a9a7c9f979c7b)
+- [ ] [<code>Categories: remove unused and non-fd.o names (#1154)</code>](https://github.com/elementary/icons/commit/5c0694cd72db1218ad56e66930fa2ef32457596e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -350,15 +363,11 @@
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
 
-#### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [6.1.0 → HEAD](https://github.com/elementary/wallpapers/compare/6.1.0...HEAD)
+#### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [7.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/7.0.0...HEAD)
 
-- [ ] [<code>Add Photo of Valley (#172)</code>](https://github.com/elementary/wallpapers/commit/2ac5b9856e967677e0ba34ef6e5d5f540a7570bb)
-- [ ] [<code>Remvoe Jonas Nilsson Lee (#171)</code>](https://github.com/elementary/wallpapers/commit/2486baee93f91c819e4d60977a9460804cff22ca)
-- [ ] [<code>Update wallpapers.appdata.xml.in</code>](https://github.com/elementary/wallpapers/commit/c6d6cd27a74576f4b4fc8b07fedac4d32f18b1cf)
-- [ ] [<code>Metainfo: use preferences-desktop-wallpaper icon</code>](https://github.com/elementary/wallpapers/commit/4f1ccc61c182ff70d7f6cd7e1ed1588e0ca66cde)
-- [ ] [<code>Set default to Photo of Valley (#174)</code>](https://github.com/elementary/wallpapers/commit/026f4b7765013adf75fe17b7806478b35a4f7260)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Reduce contrails in Photo of Valley.jpg (#176)</code>](https://github.com/elementary/wallpapers/commit/f4081c5f97275034b7c1b32a9c659cd03f6d90f0)
+- [ ] [<code>Build Early Access wallpaper (#178)</code>](https://github.com/elementary/wallpapers/commit/268ec78b208f722336e1d52bfa2ce9173c8827c3)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
@@ -507,6 +516,12 @@
 - [ ] [<code>Improve multitasking view animation performance (#1498)</code>](https://github.com/elementary/gala/commit/2d43311d7e4b28bc228dda0f428e00ea786e62bf)
 - [ ] [<code>Fix workspace switching in multitasking view</code>](https://github.com/elementary/gala/commit/0d8a4a87afd337f6cc588ba4247d3d3abdfdd5b4)
 - [ ] [<code>6.4.0 Release notes (#1509)</code>](https://github.com/elementary/gala/commit/8dd412ab28570480667d4e1586b379a67705ea51)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/9ed0472dbe29f93683e3388ff8ae6bb5c6f892ff)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/gala/commit/9ca6c585c59a0c0c98a934ed44cb0c773f4e3c1c)
+- [ ] [<code>Update CI for Horus/Jammy (#1511)</code>](https://github.com/elementary/gala/commit/6aac733cec606f6977784aa39886e117e80821f5)
+- [ ] [<code>Release 7.0.0 (#1510)</code>](https://github.com/elementary/gala/commit/5392f693e61d781c0eb0f708ed5ccbd560bf7dce)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
