@@ -24,8 +24,9 @@
 - [ ] [<code>Populate desktop files with new/changed translations.</code>](https://github.com/linuxmint/cinnamon/commit/c2870ef146a3f462cfd72d9a10789fee50ebf9cd)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>harvester.py: See if any spices are installed before going online</code>](https://github.com/linuxmint/cinnamon/commit/d1e96176a3a087ce3d5de562171b1d737c9712c4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>appSwitcher: ignore smooth scrolling</code>](https://github.com/linuxmint/cinnamon/commit/d1dd7b1a10364d94efafccc9ef3b46a0b01e2f9d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -130,8 +131,9 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.1 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.1...HEAD)
 
 - [ ] [<code>fixed work with API ver. 2 (#254)</code>](https://github.com/linuxmint/hypnotix/commit/4c9efe422c0f5146ceaa44533fbd2144d8c9d7c2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.2</code>](https://github.com/linuxmint/hypnotix/commit/059cc04a2941d9219e57a2e77f470083a38d6a76)
+  - <sub>Tags: <code>3.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -151,8 +153,9 @@
 - [ ] [<code>Buffer: only override the view's motion handler when not selecting text</code>](https://github.com/linuxmint/sticky/commit/3140c112bf775ada3bdb0bc4ad974c131c752589)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Buffer: On insert, don't continue a link through a link-ending character</code>](https://github.com/linuxmint/sticky/commit/bb771688cb882aa65170e84b909f77483819bdac)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.14</code>](https://github.com/linuxmint/sticky/commit/8b8bf3025370be11a45b553db20e7cf193807a4a)
+  - <sub>Tags: <code>1.14</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.1 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.1...HEAD)
 
