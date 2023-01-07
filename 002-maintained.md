@@ -173,6 +173,8 @@
 - [ ] [<code>Various selection fixes (#737)</code>](https://github.com/akiraux/Akira/commit/ae56060395f41208ee4446ff669f636b41af103c)
 - [ ] [<code>Re-implement the Export Tool (#740)</code>](https://github.com/akiraux/Akira/commit/212c923cb775697afbd7ef1a61bdde657ff0ea26)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Implement export area selection (#742)</code>](https://github.com/akiraux/Akira/commit/c2b4c76d330c66bc3e046aea43bca8473a3e3710)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
 
@@ -542,6 +544,12 @@
 - [ ] [<code>CI: Use checkout v3 (#165)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/519c83b20ae15487a508fd772c48565b0d27a8e2)
 - [ ] [<code>Update Russian translation (#167)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71c10f03c77988f3f7f6d9f31730dfcce1b545ae)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Actions: Set DESTDIR variable</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f79869c9972a948ebe370b5c6336eba5c6d4e301)
+- [ ] [<code>TerminalPane: Remove background color preference (#171)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e83d9475cb9c266b41c21b599c69c991c18c6056)
+- [ ] [<code>Metainfo: Rename and prepare for 1.0.5</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1f866c43cc005e3511535d2e038b96de83d0b12f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c9378691c1efecfe3170ffa443628d7a314886af)
+- [ ] [<code>Actions: Fix build failing (#172)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f2372c1ef78cc67713456c6e4c88355aba6b3e36)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
