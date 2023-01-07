@@ -76,22 +76,8 @@
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 - [ ] [<code>Launcher: launch with current time to fix workspace switching</code>](https://github.com/elementary/dock/commit/d87da45cbd89d30790f7e81f07151379874cb1b2)
 
-#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [6.1.2 → HEAD](https://github.com/elementary/feedback/compare/6.1.2...HEAD)
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
-- [ ] [<code>Load components async (#71)</code>](https://github.com/elementary/feedback/commit/61e2f5f5d7b0d7c29cd356b04a69ad3edf947a90)
-- [ ] [<code>Prep for Gtk4 (#74)</code>](https://github.com/elementary/feedback/commit/b73349e6a5a54d895bb3d69eee73c311edcccf72)
-- [ ] [<code>DesktopEntry: modernize, remove nodisplay (#75)</code>](https://github.com/elementary/feedback/commit/277a5cc84fb191ad40d166b5bfdfa81bf5acae2a)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Application: use startup (), cleanup active window handling (#73)</code>](https://github.com/elementary/feedback/commit/f01b4f8c929b68637bc030b8a475eabf5441b613)
-- [ ] [<code>AppEntries: include Feedback, Fonts, and Shortcuts (#72)</code>](https://github.com/elementary/feedback/commit/fc2d9a98fddd36d37eb08861e6e2a9f63a5a8cf1)
-- [ ] [<code>Metainfo: modernize (#76)</code>](https://github.com/elementary/feedback/commit/6c3dbadabcabce8c1f2f9f30965e32c7bcd8ae61)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>MainWindow: set and activate default (#78)</code>](https://github.com/elementary/feedback/commit/c650f86d2d01fc17ca0abe901e84d9d94cac55b5)
-- [ ] [<code>Wrap labels, disallow hscroll, expand listbox (#81)</code>](https://github.com/elementary/feedback/commit/d1dfac97195cc5390472af754a28e06ca94f84c9)
-- [ ] [<code>Metainfo: Add release info for 7.0.0 (#84)</code>](https://github.com/elementary/feedback/commit/b52ae63ba4b34bdcf3ba997352df5ca3f66e9685)
-- [ ] [<code>Release 7.0.0 (#85)</code>](https://github.com/elementary/feedback/commit/3605ab2599a5be416c1dfe0c02a5416c4abcc613)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -617,6 +603,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.2.0 → HEAD](https://github.com/elementary/portals/compare/1.2.0...HEAD)
 
+- [ ] [<code>AppChooser: Make primary text translatable (#59)</code>](https://github.com/elementary/portals/commit/861436e7f9d660b303428b300dc57c51cc97345a)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
