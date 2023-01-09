@@ -26,7 +26,11 @@
 - [ ] [<code>harvester.py: See if any spices are installed before going online</code>](https://github.com/linuxmint/cinnamon/commit/d1e96176a3a087ce3d5de562171b1d737c9712c4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>appSwitcher: ignore smooth scrolling</code>](https://github.com/linuxmint/cinnamon/commit/d1dd7b1a10364d94efafccc9ef3b46a0b01e2f9d)
+- [ ] [<code>cs_keyboard: Remove stray print line.</code>](https://github.com/linuxmint/cinnamon/commit/9e870f26144e7b30b1d4497232e1bee15b9a2639)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_default: Don't use translated strings as dictionary keys.</code>](https://github.com/linuxmint/cinnamon/commit/fce8b5e5d56b8298b333c2e4dfcace63fae81d25)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.0...HEAD)
 
@@ -145,12 +149,8 @@
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
 
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.1 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.1...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.2...HEAD)
 
-- [ ] [<code>fixed work with API ver. 2 (#254)</code>](https://github.com/linuxmint/hypnotix/commit/4c9efe422c0f5146ceaa44533fbd2144d8c9d7c2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.2</code>](https://github.com/linuxmint/hypnotix/commit/059cc04a2941d9219e57a2e77f470083a38d6a76)
-  - <sub>Tags: <code>3.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -165,16 +165,8 @@
   - <sub>Tags: <code>1.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.13 → HEAD](https://github.com/linuxmint/sticky/compare/1.13...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
-- [ ] [<code>Buffer: fix an issue where pasted text sometimes gets jumbled</code>](https://github.com/linuxmint/sticky/commit/bb95af8c6774e11851b47f3eaef05eec658dea41)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Buffer: only override the view's motion handler when not selecting text</code>](https://github.com/linuxmint/sticky/commit/3140c112bf775ada3bdb0bc4ad974c131c752589)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Buffer: On insert, don't continue a link through a link-ending character</code>](https://github.com/linuxmint/sticky/commit/bb771688cb882aa65170e84b909f77483819bdac)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.14</code>](https://github.com/linuxmint/sticky/commit/8b8bf3025370be11a45b553db20e7cf193807a4a)
-  - <sub>Tags: <code>1.14</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.1 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.1...HEAD)
 
