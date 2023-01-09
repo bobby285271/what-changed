@@ -16,6 +16,7 @@
 - [ ] [<code>Warn running in Demo Mode (#1963)</code>](https://github.com/elementary/appcenter/commit/4c755a41ddd155f03f9b2d94d184f7c8571c88c7)
 - [ ] [<code>Show Operating System Updates and Runtime Updates only if available (#1960)</code>](https://github.com/elementary/appcenter/commit/8cb5b1d4289ca82d8fb48efb011dab25be29463b)
 - [ ] [<code>Make loading updates async from main AppCenter window (#1964)</code>](https://github.com/elementary/appcenter/commit/e5dbee5d21dc038cb9d3bf1070e8edfe520a42bf)
+- [ ] [<code>actions/checkout@v3 (#1966)</code>](https://github.com/elementary/appcenter/commit/39fdabf898ad9ff8ce1f0410328dab97859b25c3)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -85,6 +86,7 @@
 - [ ] [<code>CommonJob: Continue the port to Vala (#2097)</code>](https://github.com/elementary/files/commit/6d615b1242169a446c094b49a9d5bbd905044f8e)
 - [ ] [<code>FileOperations: Continue the port to Vala (#2109)</code>](https://github.com/elementary/files/commit/7e6762c9e7bb5be8bdd182da851c24a9730b8af1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add action to Paste Into menu item (#2118)</code>](https://github.com/elementary/files/commit/c26478562db4c86debb283e65f02dc55f25a74a4)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -318,6 +320,7 @@
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.1 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
+- [ ] [<code>actions/checkout@v3 (#1238)</code>](https://github.com/elementary/stylesheet/commit/a735bfea795f7c348d2e264ba6f4f006891e5d66)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
 
@@ -342,6 +345,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update icons.appdata.xml.in (#1171)</code>](https://github.com/elementary/icons/commit/21e57eeb420933696d871c46c02a9a7c9f979c7b)
 - [ ] [<code>Categories: remove unused and non-fd.o names (#1154)</code>](https://github.com/elementary/icons/commit/5c0694cd72db1218ad56e66930fa2ef32457596e)
+- [ ] [<code>FileTypes: Add 16px video-x-generic (#1175)</code>](https://github.com/elementary/icons/commit/1fc88d0706bd8d303a9082cc9944045aa09092a0)
+- [ ] [<code>Update Actions (#1176)</code>](https://github.com/elementary/icons/commit/fe11c509fdfb1a4e1426928ad84e68c2fbcdb08d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
