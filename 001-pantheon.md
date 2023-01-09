@@ -24,6 +24,7 @@
 - [ ] [<code>Update screenshot filename in README.md (#235)</code>](https://github.com/elementary/calculator/commit/a339efca6361b3c7daba8156744f52040a660920)
 - [ ] [<code>Application: use startup () and clean up (#237)</code>](https://github.com/elementary/calculator/commit/b6a8535f12c0db03f9336ce7ec568559e5a1b5be)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Hardcode elementary styles, set empty title label (#238)</code>](https://github.com/elementary/calculator/commit/f7536e36615924a5aede5097131bba19f8182010)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
