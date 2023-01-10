@@ -46,6 +46,9 @@
             "attr_path": "cinnamon.folder-color-switcher"
         },
         {
+            "attr_path": "cinnamon.mint-cursor-themes"
+        },
+        {
             "attr_path": "cinnamon.mint-themes"
         },
         {
