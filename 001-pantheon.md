@@ -17,6 +17,10 @@
 - [ ] [<code>Show Operating System Updates and Runtime Updates only if available (#1960)</code>](https://github.com/elementary/appcenter/commit/8cb5b1d4289ca82d8fb48efb011dab25be29463b)
 - [ ] [<code>Make loading updates async from main AppCenter window (#1964)</code>](https://github.com/elementary/appcenter/commit/e5dbee5d21dc038cb9d3bf1070e8edfe520a42bf)
 - [ ] [<code>actions/checkout@v3 (#1966)</code>](https://github.com/elementary/appcenter/commit/39fdabf898ad9ff8ce1f0410328dab97859b25c3)
+- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in (#1967)</code>](https://github.com/elementary/appcenter/commit/a2bd85dd34ca9f7f0238e5d5c914759269074571)
+- [ ] [<code>Gettext: install git (#1968)</code>](https://github.com/elementary/appcenter/commit/16be4364160efa9f2ba40608c2870cce2f9032ef)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/0c111cf69aea6c243677b4a37cb7f30b970a8401)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/5ba8a75fb5aef1f10d5efa6acea580a84a1bfbc5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -31,6 +35,7 @@
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#252)</code>](https://github.com/elementary/camera/commit/6120adc3bec6a63038c35afe97eadaf45a0374f6)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -80,6 +85,7 @@
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#86)</code>](https://github.com/elementary/feedback/commit/e2be4db44eff06c3abb41dd86c7e861f833a4ed7)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
@@ -157,6 +163,7 @@
 - [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/46aa059e9eee383b25e31384b4c93754ed662721)
 - [ ] [<code>SamplePlug: Remove show_all for GTK 4 (#251)</code>](https://github.com/elementary/switchboard/commit/9fdfb025cc8e83c0251f020d242d952f587c3808)
 - [ ] [<code>Plug: Remove unused category other (#252)</code>](https://github.com/elementary/switchboard/commit/2d10bdfa2ba8caa48ab24e8c0cdc07c0f96db7eb)
+- [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/b013b28bd18703812857e443b6791756e00f3498)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -176,6 +183,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Reboot to Firmware Setup (#253)</code>](https://github.com/elementary/switchboard-plug-about/commit/45f9360a51c328877c0654d715fc94e94a349ee5)
 - [ ] [<code>FirmwareView: Add missing ellipsis</code>](https://github.com/elementary/switchboard-plug-about/commit/d7f1640c5d3c8cb80fc1e8f0754452dd70f3a236)
+- [ ] [<code>actions/checkout@v3 (#256)</code>](https://github.com/elementary/switchboard-plug-about/commit/0c23f6eefa01199f6087a55f6f3594e78b9e796d)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -270,6 +278,7 @@
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#345)</code>](https://github.com/elementary/switchboard-plug-network/commit/39a30fbbb1bcf7b942c903fb8ab3b87761dd8f43)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -288,6 +297,7 @@
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
 - [ ] [<code>Meta: use preferences-desktop for icon (#312)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d74914815cc8f70e3e3c521d5f23279cff8887e3)
+- [ ] [<code>actions/checkout@v3 (#339)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/1051335b03d0f2043f71bedabb813439d26c07b0)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -304,15 +314,18 @@
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
 - [ ] [<code>Update POTFILES (#184)</code>](https://github.com/elementary/switchboard-plug-printers/commit/bd058a72922472da179656f582edbb573cd66fee)
+- [ ] [<code>actions/checkout@v3 (#185)</code>](https://github.com/elementary/switchboard-plug-printers/commit/31a0fc48608c19db9ab364460812ef55dfcda2a3)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...HEAD)
 
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#58)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/801a02b50e895437f80c4336281424014382dd1b)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#233)</code>](https://github.com/elementary/switchboard-plug-sound/commit/b84b7cc2b2547acd505eb0e9c2ba0820ef736e44)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -385,6 +398,7 @@
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#631)</code>](https://github.com/elementary/greeter/commit/6fc56a995e1e5114a26961e3414eb78cf03df767)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -535,6 +549,7 @@
 
 - [ ] [<code>Appdata: Add icon (#52)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/7d20cd820f55d74f3c97d6703be2e50c657375e0)
 - [ ] [<code>Set correct text size on startup (#53)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/6322aa1e459618f03a2bec3b7626882db903f5ea)
+- [ ] [<code>actions/checkout@v3 (#54)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/91c17a749eddb379653387464c9812fabd218fb6)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
 
@@ -551,19 +566,23 @@
 - [ ] [<code>Update Application.vala (#181)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/178a0dba827b496703384bb2966c10729c7d887d)
 - [ ] [<code>BtSender: Provide feedback when transfer blocked (#182)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ecfc5793aabda457d161ff9cdbdaa27a565b331d)
 - [ ] [<code>dialog active (#180)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/62853a2e1fe4c423779e1109ab0e4a8feff5d18c)
+- [ ] [<code>actions/checkout@v3 (#185)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ace7bcc56b9591205e82c837bb5a92e4ee61e6a8)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#120)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d4f944158d02f6ee51dc94d7e5d2230583f212ae)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.4 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.4...HEAD)
 
 - [ ] [<code>Add airplane mode switch to popover; add middle-click tooltip (#235)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1c19314a1911648a76321fef7acca834e32da37a)
+- [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8349de590e34a19c9d542e75e595f9c8cd8439a5)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#94)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/af086a7225af3f4ec2887a3539597a0927d997a1)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.7 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.7...HEAD)
 
@@ -572,6 +591,7 @@
 
 - [ ] [<code>appdata: move <issues> out of <description> to make AppData valid again (#237)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f46f10795a424552a3084b4d1520443b4c2a2b9f)
 - [ ] [<code>Don't call Refresh() on UPower.Device (#238)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/73725c6bf7f6f2590ee6293baf98b3360048356d)
+- [ ] [<code>actions/checkout@v3 (#241)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ba00ddd123073383db818113ec731f8727c3ece2)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -579,6 +599,7 @@
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#245)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/60788558e3d3b889bc2a9e5c2f57a097b31ecafc)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
@@ -586,6 +607,7 @@
 - [ ] [<code>Add icon and use it (#629)</code>](https://github.com/elementary/granite/commit/1c51d311013a9c3fabd68426864295fa187d288d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>actions/checkout@v3 (#630)</code>](https://github.com/elementary/granite/commit/fe41ada7b9c9bd5b43bbee36a00bf27d20b7ce96)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -603,6 +625,7 @@
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#56)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/4e4e0b1e168f241059e8ee82fe989cbb99cccaa6)
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
