@@ -69,6 +69,8 @@
 - [ ] [<code>ProjectFolderItem: Fix wrong ngettext syntax</code>](https://github.com/elementary/code/commit/096e158652f159bc107513c465f6a2d04828fa57)
 - [ ] [<code>Redesign app icon as a tile (#1211)</code>](https://github.com/elementary/code/commit/1d4907070dbbe45eedaf714f83f36a4fad944eb1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Put the ProjectChooserButton inside the sidebar (#1217)</code>](https://github.com/elementary/code/commit/d7e592fc9e81ff26591edbda25a48731b42cc8bf)
+- [ ] [<code>HeaderBar: put find actions in menu (#1219)</code>](https://github.com/elementary/code/commit/0758bb24f11dc1d6c932ee7cfb5a903ddcbf5d85)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -113,6 +115,7 @@
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#731)</code>](https://github.com/elementary/photos/commit/4227b966535ab1fef68ca31763cda48605d16122)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
@@ -275,6 +278,7 @@
 - [ ] [<code>Re-Namespace to io.elementary.settings.mouse-touchpad (#204)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b16f6825af410bfb3e76bd8b407119a24b9eded9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix Gettext Action (#207)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/fe8a8a46bfe2d49ee72feb0115e8e68ddb9db204)
+- [ ] [<code>actions/checkout@v3 (#209)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/74d317e70020a1e76bc863996dbc8c490fb28d09)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
@@ -293,6 +297,7 @@
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
 
 - [ ] [<code>Update icons (#246)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/88ef3adbc384cfb6f0bf29dd5393ed75cf0274bf)
+- [ ] [<code>actions/checkout@v3 (#247)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f38f705042d70fe49c8a737b1dbaeb81c1d7bf57)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -395,6 +400,8 @@
 - [ ] [<code>Release 7.0.1 (#275)</code>](https://github.com/elementary/default-settings/commit/0bdd8621e6564057adb576713f5ec98c2cab9f8d)
   - <sub>Tags: <code>7.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>actions/checkout@v3 (#276)</code>](https://github.com/elementary/default-settings/commit/85bcbae0f1c69e6cb9d6551e8aaaa929e6ee09af)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
@@ -619,6 +626,7 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
 - [ ] [<code>Allow control of unlisted applications. (#182)</code>](https://github.com/elementary/notifications/commit/cc514a616976a9f29aa5c76b15278efe9201f9fd)
+- [ ] [<code>actions/checkout@v3 (#183)</code>](https://github.com/elementary/notifications/commit/cd8429849f2b0f9ac499f211cb144fb06ab6646b)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
