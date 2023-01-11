@@ -44,6 +44,8 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.3...HEAD)
 
+- [ ] [<code>Prioritize Playing Audio over other players. (#428)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/efb75ed1bc178a2fb3552c5b16ad2106701e4c0a)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -58,6 +60,9 @@
 
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5e0b768b3a5bf88a828a2489b9428997b797c1ed → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5e0b768b3a5bf88a828a2489b9428997b797c1ed...HEAD)
+
+
+#### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [e17f8a4620827235dabbe5221bd0ee8c44dad0d5 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/e17f8a4620827235dabbe5221bd0ee8c44dad0d5...HEAD)
 
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.8...HEAD)
