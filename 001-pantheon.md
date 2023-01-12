@@ -21,6 +21,7 @@
 - [ ] [<code>Gettext: install git (#1968)</code>](https://github.com/elementary/appcenter/commit/16be4364160efa9f2ba40608c2870cce2f9032ef)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/0c111cf69aea6c243677b4a37cb7f30b970a8401)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/5ba8a75fb5aef1f10d5efa6acea580a84a1bfbc5)
+- [ ] [<code>Gresource: mark OARS icons as scalable, scale all to 32px (#1970)</code>](https://github.com/elementary/appcenter/commit/2e714424bd7e912d6af85372dd45fca4509f8f25)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -72,6 +73,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Put the ProjectChooserButton inside the sidebar (#1217)</code>](https://github.com/elementary/code/commit/d7e592fc9e81ff26591edbda25a48731b42cc8bf)
 - [ ] [<code>HeaderBar: put find actions in menu (#1219)</code>](https://github.com/elementary/code/commit/0758bb24f11dc1d6c932ee7cfb5a903ddcbf5d85)
+- [ ] [<code>EditorConfig plugin overrides global settings for indent width and style (#1204)</code>](https://github.com/elementary/code/commit/895cccdb9f1174b22fee3eb643ed7a9f2a1338b0)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -304,6 +306,9 @@
 
 - [ ] [<code>Update icons (#246)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/88ef3adbc384cfb6f0bf29dd5393ed75cf0274bf)
 - [ ] [<code>actions/checkout@v3 (#247)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f38f705042d70fe49c8a737b1dbaeb81c1d7bf57)
+- [ ] [<code>Add support for evolution-data-server 3.45+ / libsoup-3 (#248)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/08faf7b4241547b7900596af12a03d816712a808)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -373,6 +378,7 @@
 - [ ] [<code>Categories: remove unused and non-fd.o names (#1154)</code>](https://github.com/elementary/icons/commit/5c0694cd72db1218ad56e66930fa2ef32457596e)
 - [ ] [<code>FileTypes: Add 16px video-x-generic (#1175)</code>](https://github.com/elementary/icons/commit/1fc88d0706bd8d303a9082cc9944045aa09092a0)
 - [ ] [<code>Update Actions (#1176)</code>](https://github.com/elementary/icons/commit/fe11c509fdfb1a4e1426928ad84e68c2fbcdb08d)
+- [ ] [<code>add latte palette (#963)</code>](https://github.com/elementary/icons/commit/68ef8ae9eeafdc38fd642f18a285e017695db8f7)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
