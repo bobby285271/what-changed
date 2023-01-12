@@ -29,6 +29,7 @@
 - [ ] [<code>Application: use startup () and clean up (#237)</code>](https://github.com/elementary/calculator/commit/b6a8535f12c0db03f9336ce7ec568559e5a1b5be)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Hardcode elementary styles, set empty title label (#238)</code>](https://github.com/elementary/calculator/commit/f7536e36615924a5aede5097131bba19f8182010)
+- [ ] [<code>actions/checkout@v3 (#239)</code>](https://github.com/elementary/calculator/commit/619f0e3e7a4654b46f1edc25ebc9c060eef02806)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -108,6 +109,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Docs: Add curiously omitted dependency on meson to the readme (#803)</code>](https://github.com/elementary/mail/commit/31973b403dbb0ce378d2754a9b44ec192ee4a394)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>actions/checkout@v3 (#811)</code>](https://github.com/elementary/mail/commit/16211125cfae46c43e854875b01f3c55d43c46e9)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -119,6 +121,7 @@
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/screenshot/commit/3a8cf0d5198ea60b46187153995d1b2f24f2cb51)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -131,6 +134,7 @@
 - [ ] [<code>flatpak: Use 7.1 runtime (#345)</code>](https://github.com/elementary/tasks/commit/22e0d18693932e9eea3d2a22329f845575ce26e6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>actions/checkout@v3 (#346)</code>](https://github.com/elementary/tasks/commit/a7b7897f7138de59859250ed98edd1ab7a7ed3de)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -142,6 +146,7 @@
 - [ ] [<code>Create PlaybackManager (#319)</code>](https://github.com/elementary/videos/commit/05fca05da046f1ad0afcb37150845e2371262bc9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>actions/checkout@v3 (#323)</code>](https://github.com/elementary/videos/commit/5b595929dd94145576597ef397acabe1ec7566c5)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -260,6 +265,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/41c50c257a307914cf28d514ed5235aadf446087)
 - [ ] [<code>Release 3.1.1 (#433)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/96abd3006fc8ecea6b90fc64fb758bf335bbdb9c)
   - <sub>Tags: <code>3.1.1</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1520cbccbb1de08f698780d3c87e6a8846d6a21a)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
 
@@ -315,6 +321,7 @@
 - [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
 - [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/b8ae5af4477d23dc5553a8cccebf7cab5bcdde3d)
 - [ ] [<code>Remove unused power-mode-automatic icon (#224)</code>](https://github.com/elementary/switchboard-plug-power/commit/f85cd814c2d2be481611e867973b908b9a736e88)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/fa92ac872a9133d73ae8087a78cc299aa68d7c78)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -622,6 +629,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.3 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.3...HEAD)
 
+- [ ] [<code>actions/checkout@v3 (#94)</code>](https://github.com/elementary/capnet-assist/commit/961fd577260e62e614496925b540a12fd9063897)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
