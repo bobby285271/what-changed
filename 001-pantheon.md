@@ -34,6 +34,9 @@
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
+- [ ] [<code>Add support for Evolution Data Server 3.46 (#758)</code>](https://github.com/elementary/calendar/commit/9c6308b2a1f3a57b1c5fffbbc2550a08fefe2cca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -74,6 +77,7 @@
 - [ ] [<code>Put the ProjectChooserButton inside the sidebar (#1217)</code>](https://github.com/elementary/code/commit/d7e592fc9e81ff26591edbda25a48731b42cc8bf)
 - [ ] [<code>HeaderBar: put find actions in menu (#1219)</code>](https://github.com/elementary/code/commit/0758bb24f11dc1d6c932ee7cfb5a903ddcbf5d85)
 - [ ] [<code>EditorConfig plugin overrides global settings for indent width and style (#1204)</code>](https://github.com/elementary/code/commit/895cccdb9f1174b22fee3eb643ed7a9f2a1338b0)
+- [ ] [<code>Make sidebar pane the toplevel container (#1218)</code>](https://github.com/elementary/code/commit/c721a7d82e5e7fc765f39eb7e54c8f75668b8821)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
