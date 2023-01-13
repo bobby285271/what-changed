@@ -5,33 +5,15 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.5...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.6...HEAD)
 
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/100958de8ac80c3556fc4046f42ede0e6dbe2ede)
-- [ ] [<code>cinnamon-settings themes: Check both new and legacy theme folders</code>](https://github.com/linuxmint/cinnamon/commit/7a8fb6c5873f5df31aa82018fdb964a2d4055b6e)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>startupAnimation.js: Make sure the shroud actor remains the size</code>](https://github.com/linuxmint/cinnamon/commit/6ff0149f8b3be41bbdb0e1e5aa004564dff89bae)
-- [ ] [<code>systray applet: Use the correct panel size when reloading icons.</code>](https://github.com/linuxmint/cinnamon/commit/fa4960a6e8070ac44643f56934b674091d2ab4c4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>PanelManager: Keep track of the number of monitors.</code>](https://github.com/linuxmint/cinnamon/commit/4b2713dac582b85dffa1160f09eee3d2a45e7484)
-- [ ] [<code>ChooserButtonWidgets: Fix button and menu images in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/89c8dafe4ff5501050cd30a1d2a9f5bbec503d61)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Fix reverse mouse scroll in the app switcher.</code>](https://github.com/linuxmint/cinnamon/commit/7dd753cfb8add9eb2a012182b52ccd0c6823db7e)
-- [ ] [<code>window list: Ignore smooth scroll events when mousewheel cycling is</code>](https://github.com/linuxmint/cinnamon/commit/bf451d682cea65b153dd820c29fc2e82066c5072)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>makepot: Include comments from js files.</code>](https://github.com/linuxmint/cinnamon/commit/bf8fb4f426225a82fc1347960c336d7b94088783)
+- [ ] [<code>makepot: Include Translators comments for JS</code>](https://github.com/linuxmint/cinnamon/commit/52eef87014e5858bcd5ed05bd41c9af29da5a86a)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Populate desktop files with new/changed translations.</code>](https://github.com/linuxmint/cinnamon/commit/c2870ef146a3f462cfd72d9a10789fee50ebf9cd)
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>harvester.py: See if any spices are installed before going online</code>](https://github.com/linuxmint/cinnamon/commit/d1e96176a3a087ce3d5de562171b1d737c9712c4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>appSwitcher: ignore smooth scrolling</code>](https://github.com/linuxmint/cinnamon/commit/d1dd7b1a10364d94efafccc9ef3b46a0b01e2f9d)
-- [ ] [<code>cs_keyboard: Remove stray print line.</code>](https://github.com/linuxmint/cinnamon/commit/9e870f26144e7b30b1d4497232e1bee15b9a2639)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs_default: Don't use translated strings as dictionary keys.</code>](https://github.com/linuxmint/cinnamon/commit/fce8b5e5d56b8298b333c2e4dfcace63fae81d25)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>windowMenu.js: Don't display for desktop windows.</code>](https://github.com/linuxmint/cinnamon/commit/a11a2661451bafab3c1f3ad7b2591b6010b85554)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/a27f63d5cc77055914f648aa4f6815185bc33673)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>layout.js: Fix for ES6 compatibility</code>](https://github.com/linuxmint/cinnamon/commit/20e51ac6950fac74509dfc0d633fb010bc42af59)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -52,6 +34,8 @@
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.1...HEAD)
 
+- [ ] [<code>xsettings: Round the Xft.dpi setting to an integer</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4e5191193b614f626484c5038b18f9b840b2e62a)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
@@ -76,6 +60,8 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.3...HEAD)
 
+- [ ] [<code>meta-gpu-xrandr: Account for the current user text scale factor</code>](https://github.com/linuxmint/muffin/commit/c3221924fdf409f820311c4e37ce9e6f912ff34b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.2...HEAD)
 
@@ -98,11 +84,8 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.2...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
-- [ ] [<code>ev-spectre (ps): Print any render error message before returning.</code>](https://github.com/linuxmint/xreader/commit/0cd1e713a74fdf7dd55ffd4f6d6c9051335c14b4)
-- [ ] [<code>ps backend: disable pdf export using libspectre.</code>](https://github.com/linuxmint/xreader/commit/e8b85fa7022d18967988be297d7215da457a266a)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
@@ -119,6 +102,8 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.6.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.6.1...HEAD)
 
+- [ ] [<code>power: Round battery power percentage</code>](https://github.com/linuxmint/slick-greeter/commit/2f43e0392f03fadbc76448abf733e61ab44daad9)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
