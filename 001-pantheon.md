@@ -78,6 +78,7 @@
 - [ ] [<code>HeaderBar: put find actions in menu (#1219)</code>](https://github.com/elementary/code/commit/0758bb24f11dc1d6c932ee7cfb5a903ddcbf5d85)
 - [ ] [<code>EditorConfig plugin overrides global settings for indent width and style (#1204)</code>](https://github.com/elementary/code/commit/895cccdb9f1174b22fee3eb643ed7a9f2a1338b0)
 - [ ] [<code>Make sidebar pane the toplevel container (#1218)</code>](https://github.com/elementary/code/commit/c721a7d82e5e7fc765f39eb7e54c8f75668b8821)
+- [ ] [<code>Use elementary styles when following system style (#1222)</code>](https://github.com/elementary/code/commit/beca59ffb1ee548d6710c88e441e85ed4b239b4d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
