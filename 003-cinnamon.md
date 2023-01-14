@@ -13,6 +13,8 @@
   - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>layout.js: Fix for ES6 compatibility</code>](https://github.com/linuxmint/cinnamon/commit/20e51ac6950fac74509dfc0d633fb010bc42af59)
+- [ ] [<code>windowManager.js: Fix traditional mapping effect.</code>](https://github.com/linuxmint/cinnamon/commit/d6c8697a3c46541857e84f978e7266d5267ab58a)
+- [ ] [<code>windowManager.js: Remove some unnecessary code.</code>](https://github.com/linuxmint/cinnamon/commit/990b582123fd2431d2cf378386eeb0ccd51750da)
   - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
@@ -103,6 +105,19 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.6.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.6.1...HEAD)
 
 - [ ] [<code>power: Round battery power percentage</code>](https://github.com/linuxmint/slick-greeter/commit/2f43e0392f03fadbc76448abf733e61ab44daad9)
+- [ ] [<code>keyboard: Add support for layout switching</code>](https://github.com/linuxmint/slick-greeter/commit/1aa6d5888df372c677cbc06a770e7ab2e4f0c8b6)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/slick-greeter/commit/7b291733d6211bac6b8eb485b7ddec11059f3ccc)
+- [ ] [<code>Fix unreachable catch clause</code>](https://github.com/linuxmint/slick-greeter/commit/d6958f429b8ee1792857c6bebfbdd08e4609f776)
+- [ ] [<code>orca: Fix wrong a11y text for username prompt</code>](https://github.com/linuxmint/slick-greeter/commit/dfe45aa7c7171ca58a35e6f337f805ad447c8906)
+- [ ] [<code>sessions: Make the list scrollable</code>](https://github.com/linuxmint/slick-greeter/commit/1480b029099ea24724d307943dc742a42fcd3159)
+- [ ] [<code>badges: Add pademelon</code>](https://github.com/linuxmint/slick-greeter/commit/2dbf7308961572ae730db83deb398d0045f31d91)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>badges: Add lxqt</code>](https://github.com/linuxmint/slick-greeter/commit/d6fcbd63919d9f301b65fbcfab956e69d686fbfc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboard: Update label when keymap changes</code>](https://github.com/linuxmint/slick-greeter/commit/003eceff49db4417a64d74b7856915941a1a6a89)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>sessions: Add a tooltip on the session badge</code>](https://github.com/linuxmint/slick-greeter/commit/cf3742cf155e0925904c7da86457deaea6a87885)
+- [ ] [<code>sessions: Close dialog on Escape</code>](https://github.com/linuxmint/slick-greeter/commit/aaa10cc2a080cf5fecc693bde7ba473ad87bbe96)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
