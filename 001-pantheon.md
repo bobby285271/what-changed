@@ -79,6 +79,15 @@
 - [ ] [<code>EditorConfig plugin overrides global settings for indent width and style (#1204)</code>](https://github.com/elementary/code/commit/895cccdb9f1174b22fee3eb643ed7a9f2a1338b0)
 - [ ] [<code>Make sidebar pane the toplevel container (#1218)</code>](https://github.com/elementary/code/commit/c721a7d82e5e7fc765f39eb7e54c8f75668b8821)
 - [ ] [<code>Use elementary styles when following system style (#1222)</code>](https://github.com/elementary/code/commit/beca59ffb1ee548d6710c88e441e85ed4b239b4d)
+- [ ] [<code>Change panel menu items to linkbutton (#1223)</code>](https://github.com/elementary/code/commit/3eb601c72503df55ff00d9c58fa0bdfdb2da880c)
+- [ ] [<code>FormatBar: use SwitchModelButton in tab popover (#1227)</code>](https://github.com/elementary/code/commit/6515f86dadee738b4ca12cc992faf82b4807111b)
+- [ ] [<code>Move Terminal to core (#1225)</code>](https://github.com/elementary/code/commit/7fe5ce87539af2058136371338ce9621a40713c6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Headerbar: remove sep before Revert (#1230)</code>](https://github.com/elementary/code/commit/fb130afbb067eff593495cc4ad85492b29dd37f6)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/e250a2980da9c67d5e702dc6e975a378b2ec8648)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/3ec3a349c8d7c6237fc833284df94544d3c0f0c5)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/code/commit/8b84d7bfd3b987cbda8e329e41b86729dea6a3c7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
