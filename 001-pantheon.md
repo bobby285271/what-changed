@@ -88,6 +88,12 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/e250a2980da9c67d5e702dc6e975a378b2ec8648)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/3ec3a349c8d7c6237fc833284df94544d3c0f0c5)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/code/commit/8b84d7bfd3b987cbda8e329e41b86729dea6a3c7)
+- [ ] [<code>FormatBar: use menubuttons instead of ToggleButtons (#1231)</code>](https://github.com/elementary/code/commit/e6804c5d9f42b9c60edbf4e4fd9da911fc89dd7a)
+- [ ] [<code>Sidebar: Remove minimum width (#1233)</code>](https://github.com/elementary/code/commit/f13690def5c7227e79cb18c2bb4bc645d9404891)
+- [ ] [<code>GSchema: follow system style by default (#1235)</code>](https://github.com/elementary/code/commit/645fcdad9c740a653b0f02f3a960dd84cdfdc1a6)
+- [ ] [<code>Only restore documents for first window. (#1239)</code>](https://github.com/elementary/code/commit/c607a1388e7ee78aa11077fcefb6b543d37cc44c)
+- [ ] [<code>Do not add duplicate project (#1238)</code>](https://github.com/elementary/code/commit/cdc1c60c569fb2cbe2a31d8a1dd0cef8dfcf0121)
+- [ ] [<code>Update ci.yml (#1242)</code>](https://github.com/elementary/code/commit/fb973a7d1e95b9b5c28cecb2527b8acb1cdf1135)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -669,6 +675,8 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.2.0 → HEAD](https://github.com/elementary/portals/compare/1.2.0...HEAD)
 
 - [ ] [<code>AppChooser: Make primary text translatable (#59)</code>](https://github.com/elementary/portals/commit/861436e7f9d660b303428b300dc57c51cc97345a)
+- [ ] [<code>Update Meson Files (#61)</code>](https://github.com/elementary/portals/commit/8b2b7999460e061b42d21050d163a6cbf30f43ae)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
