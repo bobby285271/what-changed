@@ -41,6 +41,7 @@
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#252)</code>](https://github.com/elementary/camera/commit/6120adc3bec6a63038c35afe97eadaf45a0374f6)
+- [ ] [<code>Replace Gtk.Menu with GLib.Menu (#250)</code>](https://github.com/elementary/camera/commit/5ddb1c78dbba863eb5c8b3a922675a8056bada66)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [6.2.0 → HEAD](https://github.com/elementary/code/compare/6.2.0...HEAD)
 
@@ -169,6 +170,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>actions/checkout@v3 (#323)</code>](https://github.com/elementary/videos/commit/5b595929dd94145576597ef397acabe1ec7566c5)
+- [ ] [<code>Move playback and pipeline to PlaybackManager (#321)</code>](https://github.com/elementary/videos/commit/adaa34fbcb707ad53c6f5b7868356b3d6a2e44da)
+- [ ] [<code>Objects.Video: remove unused properties, signals, functions (#322)</code>](https://github.com/elementary/videos/commit/31cc84af0290ebf0afda13b1721bd41d6bb62978)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -568,6 +571,7 @@
 - [ ] [<code>Release 7.0.0 (#1510)</code>](https://github.com/elementary/gala/commit/5392f693e61d781c0eb0f708ed5ccbd560bf7dce)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: Fix shadows (#1503)</code>](https://github.com/elementary/gala/commit/223fdb0135a1f046128e9906e87f40a21cca8fa6)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -632,6 +636,7 @@
 - [ ] [<code>appdata: move <issues> out of <description> to make AppData valid again (#237)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f46f10795a424552a3084b4d1520443b4c2a2b9f)
 - [ ] [<code>Don't call Refresh() on UPower.Device (#238)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/73725c6bf7f6f2590ee6293baf98b3360048356d)
 - [ ] [<code>actions/checkout@v3 (#241)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ba00ddd123073383db818113ec731f8727c3ece2)
+- [ ] [<code>Avoid using "Toggle" (#242)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/84b5a9c74c3b8ad1fec869cde03f128927a644e7)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
