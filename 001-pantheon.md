@@ -98,6 +98,9 @@
 - [ ] [<code>FormatBar: Set sensitivity of affected items, fix binding (#1236)</code>](https://github.com/elementary/code/commit/63167ea82efe387f1622d7bcf0e22ac140de1647)
 - [ ] [<code>PluginManager: Remove unused hooks (#1240)</code>](https://github.com/elementary/code/commit/a1674c94f35c6b7224fec6f400f20d40dd5c4e48)
 - [ ] [<code>Make Control-Scroll zooming controllable (#1245)</code>](https://github.com/elementary/code/commit/5ee9bd5d5ed7bdc6c04d559d101a07f99ab393a4)
+- [ ] [<code>Metainfo improvements (#1241)</code>](https://github.com/elementary/code/commit/724d44d47c53735658be7912526d19345d0a6b2d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
