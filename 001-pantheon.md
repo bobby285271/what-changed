@@ -95,6 +95,9 @@
 - [ ] [<code>Only restore documents for first window. (#1239)</code>](https://github.com/elementary/code/commit/c607a1388e7ee78aa11077fcefb6b543d37cc44c)
 - [ ] [<code>Do not add duplicate project (#1238)</code>](https://github.com/elementary/code/commit/cdc1c60c569fb2cbe2a31d8a1dd0cef8dfcf0121)
 - [ ] [<code>Update ci.yml (#1242)</code>](https://github.com/elementary/code/commit/fb973a7d1e95b9b5c28cecb2527b8acb1cdf1135)
+- [ ] [<code>FormatBar: Set sensitivity of affected items, fix binding (#1236)</code>](https://github.com/elementary/code/commit/63167ea82efe387f1622d7bcf0e22ac140de1647)
+- [ ] [<code>PluginManager: Remove unused hooks (#1240)</code>](https://github.com/elementary/code/commit/a1674c94f35c6b7224fec6f400f20d40dd5c4e48)
+- [ ] [<code>Make Control-Scroll zooming controllable (#1245)</code>](https://github.com/elementary/code/commit/5ee9bd5d5ed7bdc6c04d559d101a07f99ab393a4)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -572,6 +575,7 @@
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: Fix shadows (#1503)</code>](https://github.com/elementary/gala/commit/223fdb0135a1f046128e9906e87f40a21cca8fa6)
+- [ ] [<code>Allow KeyBindingAction.NONE in Multitasking View</code>](https://github.com/elementary/gala/commit/0cf4429676318b3b03dcd2f30b4318db6a854c28)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -682,6 +686,9 @@
 - [ ] [<code>AppChooser: Make primary text translatable (#59)</code>](https://github.com/elementary/portals/commit/861436e7f9d660b303428b300dc57c51cc97345a)
 - [ ] [<code>Update Meson Files (#61)</code>](https://github.com/elementary/portals/commit/8b2b7999460e061b42d21050d163a6cbf30f43ae)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to Gtk4 (#53)</code>](https://github.com/elementary/portals/commit/1c47d7a28d6c8acb0e5478de558e4a6465000dd0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
