@@ -15,8 +15,10 @@
 - [ ] [<code>windowManager.js: Fix traditional mapping effect.</code>](https://github.com/linuxmint/cinnamon/commit/d6c8697a3c46541857e84f978e7266d5267ab58a)
 - [ ] [<code>windowManager.js: Remove some unnecessary code.</code>](https://github.com/linuxmint/cinnamon/commit/990b582123fd2431d2cf378386eeb0ccd51750da)
 - [ ] [<code>classicSwitcher: Fix icon spacing when transitioning to the next</code>](https://github.com/linuxmint/cinnamon/commit/520ea05a6d8b157bd7c7499ab922cad6e298cb60)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>5.6.7</code>](https://github.com/linuxmint/cinnamon/commit/da1cdb2af8da8468de7d77efdb80313c3660f36c)
+  - <sub>Tags: <code>5.6.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -83,6 +85,9 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.3...HEAD)
 
+- [ ] [<code>transfers.py: Fix typo.</code>](https://github.com/linuxmint/warpinator/commit/a3795bc929c20382304a674c80a7091ef758ee6d)
+- [ ] [<code>transfers.py: Add missing import.</code>](https://github.com/linuxmint/warpinator/commit/1889a484820969d8e71418e03bf024ead22a1662)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
