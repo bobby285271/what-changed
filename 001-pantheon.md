@@ -101,6 +101,7 @@
 - [ ] [<code>Metainfo improvements (#1241)</code>](https://github.com/elementary/code/commit/724d44d47c53735658be7912526d19345d0a6b2d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Headerbar: code style, small fixes (#1234)</code>](https://github.com/elementary/code/commit/d2ef5f1531b2fbc3ea9901d6e5250f2fe3b0cbaf)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
