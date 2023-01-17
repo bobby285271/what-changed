@@ -586,6 +586,7 @@
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
+- [ ] [<code>dbus: Do not use abstract socket on FreeBSD</code>](https://github.com/JoseExposito/touchegg/commit/cc74aa88ec73e75d91bf6d4eecb5049bdd43fcb5)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
