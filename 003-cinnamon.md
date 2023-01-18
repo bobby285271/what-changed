@@ -56,6 +56,9 @@
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.8...HEAD)
 
+- [ ] [<code>slick-greeter: Set the entry white</code>](https://github.com/linuxmint/mint-themes/commit/6ade067286780114b6ec1d570f7e9605bea73d92)
+- [ ] [<code>2.0.9</code>](https://github.com/linuxmint/mint-themes/commit/01010d6c8313618050f9a64482ff6975236fa20c)
+  - <sub>Tags: <code>2.0.9</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -70,6 +73,8 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.2...HEAD)
 
+- [ ] [<code>nemo-window-menus.c: Recalculate extension/action items at an</code>](https://github.com/linuxmint/nemo/commit/deca73a55365ef6f7958cfc6ee3cc359fa8a5e42)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
@@ -124,6 +129,13 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>sessions: Add a tooltip on the session badge</code>](https://github.com/linuxmint/slick-greeter/commit/cf3742cf155e0925904c7da86457deaea6a87885)
 - [ ] [<code>sessions: Close dialog on Escape</code>](https://github.com/linuxmint/slick-greeter/commit/aaa10cc2a080cf5fecc693bde7ba473ad87bbe96)
+- [ ] [<code>keyboard navigation: Don't prevent left/right movement in Gtk.Entry</code>](https://github.com/linuxmint/slick-greeter/commit/d9d47171d4c00a7004a5548f7e170355c2ba1618)
+- [ ] [<code>a11y: Make the onboard layout configurable</code>](https://github.com/linuxmint/slick-greeter/commit/ae090039efff87ad8b9b856f3fe451f9f41d21be)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>entry: Support the ability to reveal the password</code>](https://github.com/linuxmint/slick-greeter/commit/2e8797c80a2d8febf8f89bf38e1040ccbf8be4e0)
+- [ ] [<code>slick-greeter-check-hidpi: Fix deprecations</code>](https://github.com/linuxmint/slick-greeter/commit/1fb20ba8665651307e6d498dc07009a2da26ab40)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>user-list: Allow hidden user visibility to be toggled</code>](https://github.com/linuxmint/slick-greeter/commit/ce8704c02498fef137908e36b315d0876300d2c2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
