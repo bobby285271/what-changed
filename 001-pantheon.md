@@ -698,6 +698,7 @@
 - [ ] [<code>Port to Gtk4 (#53)</code>](https://github.com/elementary/portals/commit/1c47d7a28d6c8acb0e5478de558e4a6465000dd0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Access: Minor Rework (#62)</code>](https://github.com/elementary/portals/commit/70a4c6c72f0cb1f111e95cea16aa673cf1f7ecdf)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
