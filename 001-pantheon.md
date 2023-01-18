@@ -22,6 +22,9 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/0c111cf69aea6c243677b4a37cb7f30b970a8401)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/5ba8a75fb5aef1f10d5efa6acea580a84a1bfbc5)
 - [ ] [<code>Gresource: mark OARS icons as scalable, scale all to 32px (#1970)</code>](https://github.com/elementary/appcenter/commit/2e714424bd7e912d6af85372dd45fca4509f8f25)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/6d937a051c284f4d37f384b507a439f0f90fe3ca)
+- [ ] [<code>Metainfo Improvements (#1972)</code>](https://github.com/elementary/appcenter/commit/ecb2fec8f3aa6806b41af12670cdfaba6a9757a3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -102,6 +105,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Headerbar: code style, small fixes (#1234)</code>](https://github.com/elementary/code/commit/d2ef5f1531b2fbc3ea9901d6e5250f2fe3b0cbaf)
+- [ ] [<code>Metainfo: Add 7.0.0 release notes (#1246)</code>](https://github.com/elementary/code/commit/c77372d99317e8cf7d0be3d15582ab7db5577355)
+- [ ] [<code>MetaInfo: update min-length</code>](https://github.com/elementary/code/commit/78b696c574aae1577e06f3bfb0f76cd56083b9ac)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
