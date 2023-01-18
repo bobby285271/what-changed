@@ -5,20 +5,8 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.6...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.7...HEAD)
 
-- [ ] [<code>makepot: Include Translators comments for JS</code>](https://github.com/linuxmint/cinnamon/commit/52eef87014e5858bcd5ed05bd41c9af29da5a86a)
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/a27f63d5cc77055914f648aa4f6815185bc33673)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>layout.js: Fix for ES6 compatibility</code>](https://github.com/linuxmint/cinnamon/commit/20e51ac6950fac74509dfc0d633fb010bc42af59)
-- [ ] [<code>windowManager.js: Fix traditional mapping effect.</code>](https://github.com/linuxmint/cinnamon/commit/d6c8697a3c46541857e84f978e7266d5267ab58a)
-- [ ] [<code>windowManager.js: Remove some unnecessary code.</code>](https://github.com/linuxmint/cinnamon/commit/990b582123fd2431d2cf378386eeb0ccd51750da)
-- [ ] [<code>classicSwitcher: Fix icon spacing when transitioning to the next</code>](https://github.com/linuxmint/cinnamon/commit/520ea05a6d8b157bd7c7499ab922cad6e298cb60)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>5.6.7</code>](https://github.com/linuxmint/cinnamon/commit/da1cdb2af8da8468de7d77efdb80313c3660f36c)
-  - <sub>Tags: <code>5.6.7</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
