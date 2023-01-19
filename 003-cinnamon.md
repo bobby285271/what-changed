@@ -38,15 +38,16 @@
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5e0b768b3a5bf88a828a2489b9428997b797c1ed → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5e0b768b3a5bf88a828a2489b9428997b797c1ed...HEAD)
 
+- [ ] [<code>nemo: Localize the plugin description</code>](https://github.com/linuxmint/folder-color-switcher/commit/68c148658743448afd6d0b2ae9412014f98afb74)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/folder-color-switcher/commit/8f9c34480e060bf4539808d57bef5fcc2cd688ce)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [e17f8a4620827235dabbe5221bd0ee8c44dad0d5 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/e17f8a4620827235dabbe5221bd0ee8c44dad0d5...HEAD)
 
 
-#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.8...HEAD)
+#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.9...HEAD)
 
-- [ ] [<code>slick-greeter: Set the entry white</code>](https://github.com/linuxmint/mint-themes/commit/6ade067286780114b6ec1d570f7e9605bea73d92)
-- [ ] [<code>2.0.9</code>](https://github.com/linuxmint/mint-themes/commit/01010d6c8313618050f9a64482ff6975236fa20c)
-  - <sub>Tags: <code>2.0.9</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -62,7 +63,10 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.2...HEAD)
 
 - [ ] [<code>nemo-window-menus.c: Recalculate extension/action items at an</code>](https://github.com/linuxmint/nemo/commit/deca73a55365ef6f7958cfc6ee3cc359fa8a5e42)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>nemo-extensions-list.c: Add a note regarding a memory leak.</code>](https://github.com/linuxmint/nemo/commit/910f662a75c9b39aad0d9cc630958c7d808aea0e)
+- [ ] [<code>5.6.3</code>](https://github.com/linuxmint/nemo/commit/c4bb86f9c8a7630ed77a8d9d3135a32ec755c4eb)
+  - <sub>Tags: <code>5.6.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
@@ -72,6 +76,13 @@
 - [ ] [<code>meson: simplify gpgme dependency lookup</code>](https://github.com/linuxmint/nemo-extensions/commit/601374dab4506c0e791cfbd1ecf5e9f1451c1660)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-emblems: Fix return type</code>](https://github.com/linuxmint/nemo-extensions/commit/2cdb7e7510170db6c2c217eb47d45dec6faaaacf)
+- [ ] [<code>nemo-emblems: localize plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/2604960d4c9d7001a7e27d117cda06825ff87e12)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nemo-python-object.c: Copy the string returned by PyUnicode_AsUTF8.</code>](https://github.com/linuxmint/nemo-extensions/commit/7a3bf0666869dad4a3656692ffb236195b76cfbb)
+- [ ] [<code>nemo-share: localize plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/25f76c4cba29321543cabf32401c558cbbc3f3cd)
+- [ ] [<code>nemo-fileroller: localize plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/d5303e7790b9b0b64ae29390ead325570ab9fbf3)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/818dba93e8d18ab1cebac108aaf8401d6cce1261)
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
