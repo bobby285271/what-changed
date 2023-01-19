@@ -124,6 +124,9 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#86)</code>](https://github.com/elementary/feedback/commit/e2be4db44eff06c3abb41dd86c7e861f833a4ed7)
+- [ ] [<code>Port to GTK4 (#54)</code>](https://github.com/elementary/feedback/commit/4c3bce363ed0747a19f6311a2f171094670eee98)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
 
