@@ -60,13 +60,8 @@
 - [ ] [<code>meta-gpu-xrandr: Account for the current user text scale factor</code>](https://github.com/linuxmint/muffin/commit/c3221924fdf409f820311c4e37ce9e6f912ff34b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.2...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.3...HEAD)
 
-- [ ] [<code>nemo-window-menus.c: Recalculate extension/action items at an</code>](https://github.com/linuxmint/nemo/commit/deca73a55365ef6f7958cfc6ee3cc359fa8a5e42)
-- [ ] [<code>nemo-extensions-list.c: Add a note regarding a memory leak.</code>](https://github.com/linuxmint/nemo/commit/910f662a75c9b39aad0d9cc630958c7d808aea0e)
-- [ ] [<code>5.6.3</code>](https://github.com/linuxmint/nemo/commit/c4bb86f9c8a7630ed77a8d9d3135a32ec755c4eb)
-  - <sub>Tags: <code>5.6.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
