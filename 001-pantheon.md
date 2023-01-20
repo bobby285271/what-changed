@@ -588,6 +588,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: Fix shadows (#1503)</code>](https://github.com/elementary/gala/commit/223fdb0135a1f046128e9906e87f40a21cca8fa6)
 - [ ] [<code>Allow KeyBindingAction.NONE in Multitasking View</code>](https://github.com/elementary/gala/commit/0cf4429676318b3b03dcd2f30b4318db6a854c28)
+- [ ] [<code>Dialogs: remove dbus timeout from AccessDialog call</code>](https://github.com/elementary/gala/commit/4bf55e76dbee7c6fd03f445c87c93c355ca83561)
+- [ ] [<code>WindowManager: confirm_display_change() fixes</code>](https://github.com/elementary/gala/commit/05dceba10dc25bee3df1f74defad8ef055a8ea3e)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
