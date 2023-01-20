@@ -98,9 +98,14 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
+- [ ] [<code>Add support for AI mimetype</code>](https://github.com/linuxmint/xreader/commit/aaf19b979c9469fd219e0048878f3ee913bd9eaf)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
+- [ ] [<code>Add AVIF and HEIF support.</code>](https://github.com/linuxmint/xviewer/commit/00eb314e23f48e74582d70623777d6740d14fe0d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
