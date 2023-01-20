@@ -551,6 +551,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c9378691c1efecfe3170ffa443628d7a314886af)
 - [ ] [<code>Actions: Fix build failing (#172)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f2372c1ef78cc67713456c6e4c88355aba6b3e36)
+- [ ] [<code>Update Russian translation (#173)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ed88a3f56be677ea83602940901fd902ff5754f1)
+- [ ] [<code>meson: Use newer syntax (#174)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/781ce35de0b5f16c8e66405f8acd6aaebca9c932)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshot</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1134467a6af329594643f9aefb5a579f1181fbe7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
