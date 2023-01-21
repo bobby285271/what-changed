@@ -7,6 +7,9 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.7...HEAD)
 
+- [ ] [<code>grouped-window-list: Make appGroup's flashButton sane, fix invalid</code>](https://github.com/linuxmint/cinnamon/commit/3779122e2b08a236273c37fdb922223051abf69b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
