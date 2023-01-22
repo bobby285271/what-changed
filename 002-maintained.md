@@ -509,6 +509,47 @@
 - [ ] [<code>Respect update time setting #235</code>](https://github.com/stsdc/monitor/commit/145f06e19e298e1d16c72a196c50cc4ecc5130cb)
 - [ ] [<code>Add Docker icon</code>](https://github.com/stsdc/monitor/commit/50c5101b1204dd09b12f2ca850d6ac28a11c4962)
 - [ ] [<code>using harmonic mean to calculate frequency values</code>](https://github.com/stsdc/monitor/commit/169fa73ac3d9a4c1279f7d0b16180264080a382c)
+- [ ] [<code>basic container list works</code>](https://github.com/stsdc/monitor/commit/4cd8ced25f27a665ae023e34a27e7da8aafca9d0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wip container support</code>](https://github.com/stsdc/monitor/commit/cc1fef086ab357cf3991932a64c22adba70f0e6e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>showing containers</code>](https://github.com/stsdc/monitor/commit/fc379fc7dc9dfeb5d92ec8bef46029f4b22ff29c)
+- [ ] [<code>make it work with < 1.6.0 of json-glib</code>](https://github.com/stsdc/monitor/commit/5980cc1789a2360e6534c8990c5d8ba181bd8037)
+- [ ] [<code>some wip</code>](https://github.com/stsdc/monitor/commit/d5988d759240822b311c7a793778abf241e4ece3)
+- [ ] [<code>memory calculation for container works</code>](https://github.com/stsdc/monitor/commit/2b50853aa8f99e063bd6597770e9c5c69059fcdf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add cgroup class to operate on cgroups fs</code>](https://github.com/stsdc/monitor/commit/7c1d4bea0bec84b65ed243cfb1160e71860ffc6c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add memory.stat struct</code>](https://github.com/stsdc/monitor/commit/441c5facd4a3997d3019e5fbd2eaf6801a12d201)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>calculate memory usage using Cgroup class</code>](https://github.com/stsdc/monitor/commit/3376e009d54df39476a6c50bcfbb1d6a951bf8f6)
+- [ ] [<code>get stats api working</code>](https://github.com/stsdc/monitor/commit/33cb259630dc870ec41c8b3b0bf9e8fe2d6ef4bb)
+- [ ] [<code>Move container related methods to container class</code>](https://github.com/stsdc/monitor/commit/65c64537b6a8f3a39842bd59c62032dde847368a)
+- [ ] [<code>get some memory</code>](https://github.com/stsdc/monitor/commit/25c6ec8db0b26bbf9138e72a16978ce153718cfc)
+- [ ] [<code>wip: mess, but having paned view with a list sidebar</code>](https://github.com/stsdc/monitor/commit/ad9d997effb2a8fdb8d43e41f725737413c14afc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>memory graph kinda updating</code>](https://github.com/stsdc/monitor/commit/b6c9bae476d69a6458fe77f18a4da7f8c66416a8)
+- [ ] [<code>[Container Support]: cpu graph updates</code>](https://github.com/stsdc/monitor/commit/645389d280189ff0acbef35532966edd13f5c0f2)
+- [ ] [<code>moving to treeview</code>](https://github.com/stsdc/monitor/commit/137c6c113ad98f9f838a1cfe1ce1284170e72da4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix memory calculation</code>](https://github.com/stsdc/monitor/commit/c8cb451df727a079353e470b2f1fa9df37506577)
+- [ ] [<code>adding container while running works</code>](https://github.com/stsdc/monitor/commit/2fae404e66f84c766edc98af9efd7e5f4e3dd00d)
+- [ ] [<code>some work on removing containers</code>](https://github.com/stsdc/monitor/commit/7001fb859c958453bf3764ea95e148c83f954957)
+- [ ] [<code>deleting container from treeview</code>](https://github.com/stsdc/monitor/commit/608c791a6e1abc5ef519eb91e4e226a0d5085df6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>show container image name</code>](https://github.com/stsdc/monitor/commit/08050ecc3ae47377bfc8457f78e537268b73d663)
+- [ ] [<code>Use collapsable rows to group services</code>](https://github.com/stsdc/monitor/commit/e5ab6b49e9d06a92e88b82d334cafbbda523ed0e)
+- [ ] [<code>Remove project if there are no more services</code>](https://github.com/stsdc/monitor/commit/2c8f654bb7071d5ec02b7c50829271c906456bec)
+- [ ] [<code>Add switch in preferences to show containers view</code>](https://github.com/stsdc/monitor/commit/6e01209c801fe42fd54ce6009d0515331b2ad9da)
+- [ ] [<code>fix ci</code>](https://github.com/stsdc/monitor/commit/59b5e5f62b4d684a41e3ca1a74cb61e976a0a50d)
+- [ ] [<code>rename dep</code>](https://github.com/stsdc/monitor/commit/b08f8769d0f5fe3d81f761aaaf12b66e6d8f5b8f)
+- [ ] [<code>dep</code>](https://github.com/stsdc/monitor/commit/f3bddd0fac03dcc5718da96df9f640f523633025)
+- [ ] [<code>fix stylesheet pathes</code>](https://github.com/stsdc/monitor/commit/bfac7ffb9238c7dd97485d1166a4b1efcbf84b00)
+- [ ] [<code>bit of cleanup</code>](https://github.com/stsdc/monitor/commit/676ba23165a28a1d8678e97eda494638750aee57)
+- [ ] [<code>fix meson file: remove non existant filepathes</code>](https://github.com/stsdc/monitor/commit/d191af7aa22d52406bf1142465784bca42102055)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adds GPU percentage in the Indicator #326</code>](https://github.com/stsdc/monitor/commit/ec3d8fb2c54e82bada8ae37438679c6a074e740d)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
