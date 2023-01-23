@@ -339,6 +339,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Gettext Action (#92)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/b7ee2e93b000ac0fc487a88cf54a84e82ed91d67)
+- [ ] [<code>Fix "Do Not Disturb" label (#94)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/717d50269cf6419abff499b2dd1bb025640d38c8)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
 
