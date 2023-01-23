@@ -469,6 +469,29 @@
 
 #### [monitor](https://github.com/stsdc/monitor): [0.14.0 → HEAD](https://github.com/stsdc/monitor/compare/0.14.0...HEAD)
 
+- [ ] [<code>Merge pull request #310 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/2317d91505bf7825445e31d1c4c9893b52424194)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add gpg-agent dep</code>](https://github.com/stsdc/monitor/commit/f70b096089ac9e524e2263aadabe541085f2c323)
+- [ ] [<code>uncapitalize labels</code>](https://github.com/stsdc/monitor/commit/311ef922ec4e3f56a18352a7fefea0d06a7e2ca3)
+- [ ] [<code>fix changelog datetime entry</code>](https://github.com/stsdc/monitor/commit/a2f84cccef428b0675f57202f318fd9aded9ee48)
+- [ ] [<code>improve command sanitazation: support python commands</code>](https://github.com/stsdc/monitor/commit/3341a30649a9d6ec8e27518333cf39ec4f02cf1b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>restores checks for  L2 and L3 cache</code>](https://github.com/stsdc/monitor/commit/78e44dce12105b1942c0035dabce99db45cddbea)
+- [ ] [<code>shows bash icon</code>](https://github.com/stsdc/monitor/commit/2c880ea071abf8c3ba65ec2a132699800e3f2f6d)
+- [ ] [<code>add 16x16 and 48x48 bash icons</code>](https://github.com/stsdc/monitor/commit/ab32c394f9e224e384a909cf4581aab70ce0ba68)
+- [ ] [<code>make bash icon more consistent with elementary style</code>](https://github.com/stsdc/monitor/commit/b5fd7fefa17636ce69f4f38066d5758c7f33b44d)
+- [ ] [<code>improve wording for disabling smooth lines option #298</code>](https://github.com/stsdc/monitor/commit/2a20948dcbbae2a50a7489d135e6e6f727edd110)
+- [ ] [<code>adds margin for the preventive action bar; fixes #304</code>](https://github.com/stsdc/monitor/commit/15476404b886393d07387ab69f812664a8fbfedd)
+- [ ] [<code>hide search bar when avtive view is not a ProcessView</code>](https://github.com/stsdc/monitor/commit/87b4ed617072de832a32b870796e3218b2ec9733)
+- [ ] [<code>render charts for more than 36 cores</code>](https://github.com/stsdc/monitor/commit/50d55861a77ce3c3edf7e57e080b2dc7967b9500)
+- [ ] [<code>little refactoring</code>](https://github.com/stsdc/monitor/commit/f3f171c9cb332253c033eddbcedaf94635a37ffe)
+- [ ] [<code>fixes #317: Sort list of opened files for easier reading</code>](https://github.com/stsdc/monitor/commit/53afe26aa9772bc7a96e97345336fe4fd3fb0f65)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix linting</code>](https://github.com/stsdc/monitor/commit/63b3636ea11c2e60c8745f4a62025356abb472b0)
+- [ ] [<code>update open files by process; cleanup</code>](https://github.com/stsdc/monitor/commit/09c4825c92cf6339927063d90aad49871ca7523e)
+- [ ] [<code>bump version and add changelogs</code>](https://github.com/stsdc/monitor/commit/ce8f248a0899ceec545cd65492753f69e46db198)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update release-launchpad.yml</code>](https://github.com/stsdc/monitor/commit/0d4658af891b408baf17a9c634a912d065d88967)
   - <sub>Tags: <code>0.14.0-ci0</code></sub>
 - [ ] [<code>add missing deps</code>](https://github.com/stsdc/monitor/commit/ecc803dccab922a5808a33bfec1c55650adf2df5)
@@ -550,6 +573,19 @@
 - [ ] [<code>fix meson file: remove non existant filepathes</code>](https://github.com/stsdc/monitor/commit/d191af7aa22d52406bf1142465784bca42102055)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adds GPU percentage in the Indicator #326</code>](https://github.com/stsdc/monitor/commit/ec3d8fb2c54e82bada8ae37438679c6a074e740d)
+- [ ] [<code>Removes transparency in cpu chart. Intends to fix #297</code>](https://github.com/stsdc/monitor/commit/b1bed246b88937b08e22754a0d92fd0b23d896a8)
+- [ ] [<code>Should fix segfaults connected with cmdline</code>](https://github.com/stsdc/monitor/commit/744cd9bd91b9a0b11eb3681f69213e193d485250)
+- [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/87dc5fd38426557710df5c6c4ab50d4eede67332)
+- [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/6884f91588b983d1399195462278cefdefcf932c)
+- [ ] [<code>A bit of fine tuning</code>](https://github.com/stsdc/monitor/commit/b1742f020bfbeffd54259720ac1a75c9e58a3f26)
+- [ ] [<code>Update screenshots</code>](https://github.com/stsdc/monitor/commit/0752d2ee71501725859dead7035d15ee80d336a2)
+- [ ] [<code>Merge branch 'dev' of github.com:stsdc/monitor into dev</code>](https://github.com/stsdc/monitor/commit/7dfdf0c66ddbb9d274c0198d2dbef55e4d24f789)
+- [ ] [<code>fix screenshot paths</code>](https://github.com/stsdc/monitor/commit/aa8aaa48d754002c2538f679357d63c592ed8ab3)
+- [ ] [<code>bump version to 0.15.0</code>](https://github.com/stsdc/monitor/commit/6096669c22d3bb0da71081766a30c0c75d97cd64)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge master</code>](https://github.com/stsdc/monitor/commit/8c7c6cfd61b8ab949db6c860bf33fe56d5e279d3)
+- [ ] [<code>Create changelog</code>](https://github.com/stsdc/monitor/commit/5e273286f497554018856886cfc8c23b66bbb2f3)
+  - <sub>Tags: <code>0.15.0</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
