@@ -25,6 +25,7 @@
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/6d937a051c284f4d37f384b507a439f0f90fe3ca)
 - [ ] [<code>Metainfo Improvements (#1972)</code>](https://github.com/elementary/appcenter/commit/ecb2fec8f3aa6806b41af12670cdfaba6a9757a3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Skip clearing components of visible category view (#1973)</code>](https://github.com/elementary/appcenter/commit/bb6a770ca20367379955c91b7cccd7298f7301ad)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -107,6 +108,8 @@
 - [ ] [<code>Headerbar: code style, small fixes (#1234)</code>](https://github.com/elementary/code/commit/d2ef5f1531b2fbc3ea9901d6e5250f2fe3b0cbaf)
 - [ ] [<code>Metainfo: Add 7.0.0 release notes (#1246)</code>](https://github.com/elementary/code/commit/c77372d99317e8cf7d0be3d15582ab7db5577355)
 - [ ] [<code>MetaInfo: update min-length</code>](https://github.com/elementary/code/commit/78b696c574aae1577e06f3bfb0f76cd56083b9ac)
+- [ ] [<code>Application: use built-in GLib functions in Activate (#1243)</code>](https://github.com/elementary/code/commit/96bc1ca156a322109272d09adccef3ab4ee0e377)
+- [ ] [<code>Inactivate find actions when no current doc (#1251)</code>](https://github.com/elementary/code/commit/9e9c3ef5d9e8799fbe2b5aab3aec47e2d83ca282)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -156,6 +159,7 @@
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#731)</code>](https://github.com/elementary/photos/commit/4227b966535ab1fef68ca31763cda48605d16122)
+- [ ] [<code>po/extra/zh_HK.po: Change charset to UTF-8 (#732)</code>](https://github.com/elementary/photos/commit/bda2e11353925b8c6d59285f0101f182e492c618)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
