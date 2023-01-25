@@ -26,6 +26,9 @@
 - [ ] [<code>Metainfo Improvements (#1972)</code>](https://github.com/elementary/appcenter/commit/ecb2fec8f3aa6806b41af12670cdfaba6a9757a3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Skip clearing components of visible category view (#1973)</code>](https://github.com/elementary/appcenter/commit/bb6a770ca20367379955c91b7cccd7298f7301ad)
+- [ ] [<code>Release 7.0.0 (#1971)</code>](https://github.com/elementary/appcenter/commit/2655456b71d6cfbbb69c5ca5352a842d62c7636a)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -110,6 +113,11 @@
 - [ ] [<code>MetaInfo: update min-length</code>](https://github.com/elementary/code/commit/78b696c574aae1577e06f3bfb0f76cd56083b9ac)
 - [ ] [<code>Application: use built-in GLib functions in Activate (#1243)</code>](https://github.com/elementary/code/commit/96bc1ca156a322109272d09adccef3ab4ee0e377)
 - [ ] [<code>Inactivate find actions when no current doc (#1251)</code>](https://github.com/elementary/code/commit/9e9c3ef5d9e8799fbe2b5aab3aec47e2d83ca282)
+- [ ] [<code>Fix startup warnings (#1250)</code>](https://github.com/elementary/code/commit/8b55723fddda6911647a5a7c4015d4389399bc6e)
+- [ ] [<code>Styles: misc refinements (#1226)</code>](https://github.com/elementary/code/commit/bcf9c3b4600b9dd8373e6ac841388343e7faad7e)
+- [ ] [<code>Release 7.0.0 (#1247)</code>](https://github.com/elementary/code/commit/789487b06acc31aa62527176a79fbd5b56632424)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -151,6 +159,9 @@
 - [ ] [<code>Docs: Add curiously omitted dependency on meson to the readme (#803)</code>](https://github.com/elementary/mail/commit/31973b403dbb0ce378d2754a9b44ec192ee4a394)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>actions/checkout@v3 (#811)</code>](https://github.com/elementary/mail/commit/16211125cfae46c43e854875b01f3c55d43c46e9)
+- [ ] [<code>build: support webkit2gtk-4.1 (#794)</code>](https://github.com/elementary/mail/commit/9e6eb73a8420c9bf327e59c25e7e6d8fa87d480a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -422,6 +433,10 @@
 - [ ] [<code>FileTypes: Add 16px video-x-generic (#1175)</code>](https://github.com/elementary/icons/commit/1fc88d0706bd8d303a9082cc9944045aa09092a0)
 - [ ] [<code>Update Actions (#1176)</code>](https://github.com/elementary/icons/commit/fe11c509fdfb1a4e1426928ad84e68c2fbcdb08d)
 - [ ] [<code>add latte palette (#963)</code>](https://github.com/elementary/icons/commit/68ef8ae9eeafdc38fd642f18a285e017695db8f7)
+- [ ] [<code>Unify view mode symbolics (#1157)</code>](https://github.com/elementary/icons/commit/3da107b345f2e34167c50046326b74538f15d701)
+- [ ] [<code>Release 7.2.0 (#1172)</code>](https://github.com/elementary/icons/commit/9634f970ce24dacb5f22d212a71305e0aab457e9)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -731,6 +746,7 @@
 - [ ] [<code>ARM: Downgrade CI to ubuntu:20.04</code>](https://github.com/elementary/os/commit/54e3e27fb6d4e9720416593c00c8c39b16e99258)
 - [ ] [<code>README: Use same image used by CI</code>](https://github.com/elementary/os/commit/b6fd81ae4eb12e8d8400e50538aab6507f3fff7b)
 - [ ] [<code>archives: Use https link for the PPAs (#641)</code>](https://github.com/elementary/os/commit/29a2926295048beff743f2053e8de3345064275c)
+  - <sub>Tags: <code>7.0.0-rc1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
