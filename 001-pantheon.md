@@ -1,34 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [4.0.0 → HEAD](https://github.com/elementary/appcenter/compare/4.0.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.0.0 → HEAD](https://github.com/elementary/appcenter/compare/7.0.0...HEAD)
 
-- [ ] [<code>Update meson.build</code>](https://github.com/elementary/appcenter/commit/0d206ac564becd7646d408003d3fa8e9663a86fa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>PackageKitBackend: resolve addons in appstream pool (#1946)</code>](https://github.com/elementary/appcenter/commit/ebf4c36f64d62158a18708adfeb2440589cfba8e)
-- [ ] [<code>po/remove author by request</code>](https://github.com/elementary/appcenter/commit/02852ac68282d53122ed292d371819558cdb5b11)
-- [ ] [<code>Gresource: add more category icons (#1948)</code>](https://github.com/elementary/appcenter/commit/3bb4adfa95fe419f82da544756647c83592067d2)
-- [ ] [<code>Fix visual issues with category icons (#1954)</code>](https://github.com/elementary/appcenter/commit/09edce06723182ea2f25a3f3e21cd4eb699b1cbd)
-- [ ] [<code>Flatpak Runtimes (#1956)</code>](https://github.com/elementary/appcenter/commit/345d5dc0dc410badbdf64bb0756250d920d1b8c1)
-- [ ] [<code>Size information for Runtime Updates (#1957)</code>](https://github.com/elementary/appcenter/commit/aea1c13f6f19a51e6d9b5ea10ae7f23f0ffa0b6c)
-- [ ] [<code>Install PackageKit based Operating System Updates as Offline Updates (#1943)</code>](https://github.com/elementary/appcenter/commit/73ac7e626b241b0162a7c99f5ef7ffcf4c10588e)
-- [ ] [<code>Pretty output Flatpak package origins (#1962)</code>](https://github.com/elementary/appcenter/commit/089144d6c8137d64f56223f5c75c02e22f34e3f3)
-- [ ] [<code>Warn running in Demo Mode (#1963)</code>](https://github.com/elementary/appcenter/commit/4c755a41ddd155f03f9b2d94d184f7c8571c88c7)
-- [ ] [<code>Show Operating System Updates and Runtime Updates only if available (#1960)</code>](https://github.com/elementary/appcenter/commit/8cb5b1d4289ca82d8fb48efb011dab25be29463b)
-- [ ] [<code>Make loading updates async from main AppCenter window (#1964)</code>](https://github.com/elementary/appcenter/commit/e5dbee5d21dc038cb9d3bf1070e8edfe520a42bf)
-- [ ] [<code>actions/checkout@v3 (#1966)</code>](https://github.com/elementary/appcenter/commit/39fdabf898ad9ff8ce1f0410328dab97859b25c3)
-- [ ] [<code>Update io.elementary.appcenter.appdata.xml.in (#1967)</code>](https://github.com/elementary/appcenter/commit/a2bd85dd34ca9f7f0238e5d5c914759269074571)
-- [ ] [<code>Gettext: install git (#1968)</code>](https://github.com/elementary/appcenter/commit/16be4364160efa9f2ba40608c2870cce2f9032ef)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/0c111cf69aea6c243677b4a37cb7f30b970a8401)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/5ba8a75fb5aef1f10d5efa6acea580a84a1bfbc5)
-- [ ] [<code>Gresource: mark OARS icons as scalable, scale all to 32px (#1970)</code>](https://github.com/elementary/appcenter/commit/2e714424bd7e912d6af85372dd45fca4509f8f25)
-- [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/6d937a051c284f4d37f384b507a439f0f90fe3ca)
-- [ ] [<code>Metainfo Improvements (#1972)</code>](https://github.com/elementary/appcenter/commit/ecb2fec8f3aa6806b41af12670cdfaba6a9757a3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Skip clearing components of visible category view (#1973)</code>](https://github.com/elementary/appcenter/commit/bb6a770ca20367379955c91b7cccd7298f7301ad)
-- [ ] [<code>Release 7.0.0 (#1971)</code>](https://github.com/elementary/appcenter/commit/2655456b71d6cfbbb69c5ca5352a842d62c7636a)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -118,6 +92,7 @@
 - [ ] [<code>Release 7.0.0 (#1247)</code>](https://github.com/elementary/code/commit/789487b06acc31aa62527176a79fbd5b56632424)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Ensure active project at startup (include non-git folders) (#1254)</code>](https://github.com/elementary/code/commit/1e75388b07c060cc10ecd612076f235b1833fab8)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
