@@ -230,7 +230,9 @@
 - [ ] [<code>slick-greeter-check-hidpi: Fix deprecations</code>](https://github.com/linuxmint/slick-greeter/commit/1fb20ba8665651307e6d498dc07009a2da26ab40)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>user-list: Allow hidden user visibility to be toggled</code>](https://github.com/linuxmint/slick-greeter/commit/ce8704c02498fef137908e36b315d0876300d2c2)
+- [ ] [<code>Enable touchpad tap-to-click</code>](https://github.com/linuxmint/slick-greeter/commit/85f83be9977faf2482d38d2cc289f0542b1c06a4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
