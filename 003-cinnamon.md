@@ -181,7 +181,9 @@
 - [ ] [<code>transfers.py: Fix typo.</code>](https://github.com/linuxmint/warpinator/commit/a3795bc929c20382304a674c80a7091ef758ee6d)
 - [ ] [<code>transfers.py: Add missing import.</code>](https://github.com/linuxmint/warpinator/commit/1889a484820969d8e71418e03bf024ead22a1662)
 - [ ] [<code>Notifications: re-enable actions in the flatpak version.</code>](https://github.com/linuxmint/warpinator/commit/2a48e80395aeb6c1412d71921134a9be3e797824)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>1.4.4</code>](https://github.com/linuxmint/warpinator/commit/34b18a19e4208da517668bf11f09c9e562f6ccc3)
+  - <sub>Tags: <code>1.4.4</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
