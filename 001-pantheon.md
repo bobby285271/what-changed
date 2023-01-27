@@ -55,6 +55,7 @@
 - [ ] [<code>FileOperations: Continue the port to Vala (#2109)</code>](https://github.com/elementary/files/commit/7e6762c9e7bb5be8bdd182da851c24a9730b8af1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add action to Paste Into menu item (#2118)</code>](https://github.com/elementary/files/commit/c26478562db4c86debb283e65f02dc55f25a74a4)
+- [ ] [<code>AbstractDirectoryView: Change double-click setting label (#2107)</code>](https://github.com/elementary/files/commit/9f2eb9338de5cfbaf488cb9bb9c2b49c132f48ae)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -156,6 +157,16 @@
 - [ ] [<code>Reboot to Firmware Setup (#253)</code>](https://github.com/elementary/switchboard-plug-about/commit/45f9360a51c328877c0654d715fc94e94a349ee5)
 - [ ] [<code>FirmwareView: Add missing ellipsis</code>](https://github.com/elementary/switchboard-plug-about/commit/d7f1640c5d3c8cb80fc1e8f0754452dd70f3a236)
 - [ ] [<code>actions/checkout@v3 (#256)</code>](https://github.com/elementary/switchboard-plug-about/commit/0c23f6eefa01199f6087a55f6f3594e78b9e796d)
+- [ ] [<code>Update io.elementary.switchboard.about.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-about/commit/524104676019393d28e35d47d075c379228547d2)
+- [ ] [<code>Add meson option for overlaying logo on wallpaper (#236)</code>](https://github.com/elementary/switchboard-plug-about/commit/bf5152a7edb58f087160c7e808baa950807bc4e1)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>HardwareView: Fix deprecation warnings</code>](https://github.com/elementary/switchboard-plug-about/commit/79f0700b131b65377d05a4bbf6103c6f9486b314)
+- [ ] [<code>Use /usr/lib/upstream-os-release instead of /etc/upstream-release/lsb-release (#259)</code>](https://github.com/elementary/switchboard-plug-about/commit/e0b8763777a6ea2e026343d482c13381c7fb346d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Custom layperson-friendly format size (#252)</code>](https://github.com/elementary/switchboard-plug-about/commit/aa359cd964bff23d5625069f1acbeafacf32e785)
+- [ ] [<code>Release 6.2.0 (#257)</code>](https://github.com/elementary/switchboard-plug-about/commit/b8608874d764551207bc11e266b2b27a47a802e6)
+  - <sub>Tags: <code>6.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -194,41 +205,8 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.3...HEAD)
 
 
-#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/2.7.0...HEAD)
+#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
-- [ ] [<code>Shortcuts/List: move panel-main-menu to Schema.GALA</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/555e9650bb8f74a7664e2393c589fe6664954a88)
-- [ ] [<code>Workflows: bump to Jammy</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b0788c4c79b206c57be5b5527c35e4f7d2ebc22a)
-- [ ] [<code>Read screenshot shortcuts from gala schema (#407)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6ebd57673b45cc64e1caf895134efc0d5f6cf2be)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/75a95f03e7a3ec9512f9df1d00173a60737f58bc)
-- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b45cb91ad5aacec8ba643de2158afa44c4b22ee3)
-- [ ] [<code>Release 3.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/aa46cfe474b054ffee902f674216812696d89a76)
-  - <sub>Tags: <code>3.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Shortcuts/List: use workspaces icon from system (#410)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/d3248bc0716293f0e958ac6bab11d03038e19149)
-- [ ] [<code>Replace Shortcut TreeView with a ListBox subclass</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c4988d9a3ed26e44fe61b3f09bb5dc071497ff4f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Prepare for GTK4: Undepend from libgnomekbd (#413)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e55840b6ae272992aa12b7e5f44cef70f66c7210)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>New add/remove list pattern (#414)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e1373f58cc6d602c62ededa22228d3f703c97b44)
-- [ ] [<code>Make "Add Shortcut" translatable (#416)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/464a1f06b31b666d347ed9b9a5723838e367f972)
-- [ ] [<code>Remove empty tooltip (#417)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4e8382059657eda322142197694ad76efa43e2ee)
-- [ ] [<code>Fix Gettext Action (#422)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7eb962d2164aca43f47f927deb06208bf53bd4f5)
-- [ ] [<code>Add ibus-rime to InstallList (#424)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/dd58fe24bc7c991a7c26496c3dae1496c6f032b7)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1c01fb6c07c74febfc021a33b931d3fa0b5d03a8)
-- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/278cb34a587ec39bf9372d20f6435f6852b26817)
-- [ ] [<code>Update io.elementary.switchboard.keyboard.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bd511a5ae7e84172e7946688733bc85a226f6370)
-- [ ] [<code>Release 3.1.0 (#425)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/48b3fbe389ee2c7f4d47ef898d367b0486167ffd)
-  - <sub>Tags: <code>3.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Gresource windows category icon (#428)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7b72d850c4659484027f9d4d4eb863ddafb28fcb)
-- [ ] [<code>ShortcutListBox: only add ShortcutRow when schema key is valid (#427)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4426499594f274bd092a603ba9a53e2840848288)
-- [ ] [<code>Add release notes for 3.1.1 (#431)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/be2413b2bf4a288e14ec0e0a4819b9fbea885e15)
-- [ ] [<code>Release 3.1.1 (#432)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/16547c5be46d7016287f695f2b398cce577eda90)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/41c50c257a307914cf28d514ed5235aadf446087)
-- [ ] [<code>Release 3.1.1 (#433)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/96abd3006fc8ecea6b90fc64fb758bf335bbdb9c)
-  - <sub>Tags: <code>3.1.1</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1520cbccbb1de08f698780d3c87e6a8846d6a21a)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
@@ -316,36 +294,8 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
 - [ ] [<code>actions/checkout@v3 (#1238)</code>](https://github.com/elementary/stylesheet/commit/a735bfea795f7c348d2e264ba6f4f006891e5d66)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.1.0 → HEAD](https://github.com/elementary/icons/compare/7.1.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/20930f247e28d78bf756dcc8c0fc183dfb0f605f)
-- [ ] [<code>Update white tile icons (#1144)</code>](https://github.com/elementary/icons/commit/367c69b604ce957537ffc0c5565fadaa23d23f67)
-- [ ] [<code>Redesign system-file-manager (#1147)</code>](https://github.com/elementary/icons/commit/da35e07766d56a889887489cac6bb4ef8b826c3d)
-- [ ] [<code>Redesign accessories-calculator (#1148)</code>](https://github.com/elementary/icons/commit/07fb7d6ff55d159ced9ae40b5f95720cb028f125)
-- [ ] [<code>FileTypes: symlink extension to application-x-xpinstall (#1156)</code>](https://github.com/elementary/icons/commit/99cee8898fa290cdbbdcfc8dc7585df366f0c5f5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update categories/applications-development (#1155)</code>](https://github.com/elementary/icons/commit/efe6ac3293fafee8a5e07d7c34569209600d2719)
-- [ ] [<code>Remove internet-web-browser (#1141)</code>](https://github.com/elementary/icons/commit/4ada31129546e7d03c29945ce05056d6ec541865)
-- [ ] [<code>Remove system-os-install (#1152)</code>](https://github.com/elementary/icons/commit/593523acf136a5906b976fc7f6f5929c45644d02)
-- [ ] [<code>Update border radius of preferences-system-sharing (#1159)</code>](https://github.com/elementary/icons/commit/58c9892060a5133744bd3d6dbe4bf33794e98db6)
-- [ ] [<code>Appdata: Add Icon (#1165)</code>](https://github.com/elementary/icons/commit/d090a62458a079ac77629d250662279dca15e619)
-- [ ] [<code>Update border radius of preferences-desktop-applications (#1164)</code>](https://github.com/elementary/icons/commit/5376406f2ae438f996f11af78a68ac352996db76)
-- [ ] [<code>Update border radius of notification-disabled (#1163)</code>](https://github.com/elementary/icons/commit/2e07652989e612d33139ddccd9d8c67b019c7ba4)
-- [ ] [<code>Update border radius of application-x-firmware (#1161)</code>](https://github.com/elementary/icons/commit/b635d2230c451a574d3bd4157c401233e6d7df8d)
-- [ ] [<code>Normalize width of key in input-keyboard icon (#1162)</code>](https://github.com/elementary/icons/commit/8126cbe62ae0f6ddde7a953581993546a1a08841)
-- [ ] [<code>Update border radius of preferences-system-parental-controls (#1160)</code>](https://github.com/elementary/icons/commit/528b6bc001f7d35c385ad9746aefc7541baebeee)
-- [ ] [<code>Status: update 48px do-not-disturb (#1166)</code>](https://github.com/elementary/icons/commit/b31b92e71bbe098f954ef5aac0e4ee6815d1e7c5)
-- [ ] [<code>FileTypes: Update text to fd.o name (#1169)</code>](https://github.com/elementary/icons/commit/61871ca23f0131d249d99c0bc3e62785e1ff3326)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update icons.appdata.xml.in (#1171)</code>](https://github.com/elementary/icons/commit/21e57eeb420933696d871c46c02a9a7c9f979c7b)
-- [ ] [<code>Categories: remove unused and non-fd.o names (#1154)</code>](https://github.com/elementary/icons/commit/5c0694cd72db1218ad56e66930fa2ef32457596e)
-- [ ] [<code>FileTypes: Add 16px video-x-generic (#1175)</code>](https://github.com/elementary/icons/commit/1fc88d0706bd8d303a9082cc9944045aa09092a0)
-- [ ] [<code>Update Actions (#1176)</code>](https://github.com/elementary/icons/commit/fe11c509fdfb1a4e1426928ad84e68c2fbcdb08d)
-- [ ] [<code>add latte palette (#963)</code>](https://github.com/elementary/icons/commit/68ef8ae9eeafdc38fd642f18a285e017695db8f7)
-- [ ] [<code>Unify view mode symbolics (#1157)</code>](https://github.com/elementary/icons/commit/3da107b345f2e34167c50046326b74538f15d701)
-- [ ] [<code>Release 7.2.0 (#1172)</code>](https://github.com/elementary/icons/commit/9634f970ce24dacb5f22d212a71305e0aab457e9)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -656,6 +606,8 @@
 - [ ] [<code>README: Use same image used by CI</code>](https://github.com/elementary/os/commit/b6fd81ae4eb12e8d8400e50538aab6507f3fff7b)
 - [ ] [<code>archives: Use https link for the PPAs (#641)</code>](https://github.com/elementary/os/commit/29a2926295048beff743f2053e8de3345064275c)
   - <sub>Tags: <code>7.0.0-rc1</code></sub>
+- [ ] [<code>Do not rely on the patched lsb_release</code>](https://github.com/elementary/os/commit/ca27d3aadd536d0abaf588f4433df6ef07a4500c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
