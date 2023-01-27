@@ -148,25 +148,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Gettext Action (#82)</code>](https://github.com/elementary/switchboard-plug-a11y/commit/f4d60b144675de26422fb7bb6e3db22515a332a6)
 
-#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.1.0...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.2.0...HEAD)
 
-- [ ] [<code>Handle Ryzen CPU and AMD GPU vendor string and break on first regex match (#250)</code>](https://github.com/elementary/switchboard-plug-about/commit/bd38ffcd2f4a6eb1f3c931b6665fe11330c7105c)
-- [ ] [<code>Better memory and storage info (#251)</code>](https://github.com/elementary/switchboard-plug-about/commit/fc4cdcf205d8c49601bcd5dea16007fd07bffa5a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Reboot to Firmware Setup (#253)</code>](https://github.com/elementary/switchboard-plug-about/commit/45f9360a51c328877c0654d715fc94e94a349ee5)
-- [ ] [<code>FirmwareView: Add missing ellipsis</code>](https://github.com/elementary/switchboard-plug-about/commit/d7f1640c5d3c8cb80fc1e8f0754452dd70f3a236)
-- [ ] [<code>actions/checkout@v3 (#256)</code>](https://github.com/elementary/switchboard-plug-about/commit/0c23f6eefa01199f6087a55f6f3594e78b9e796d)
-- [ ] [<code>Update io.elementary.switchboard.about.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-about/commit/524104676019393d28e35d47d075c379228547d2)
-- [ ] [<code>Add meson option for overlaying logo on wallpaper (#236)</code>](https://github.com/elementary/switchboard-plug-about/commit/bf5152a7edb58f087160c7e808baa950807bc4e1)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>HardwareView: Fix deprecation warnings</code>](https://github.com/elementary/switchboard-plug-about/commit/79f0700b131b65377d05a4bbf6103c6f9486b314)
-- [ ] [<code>Use /usr/lib/upstream-os-release instead of /etc/upstream-release/lsb-release (#259)</code>](https://github.com/elementary/switchboard-plug-about/commit/e0b8763777a6ea2e026343d482c13381c7fb346d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Custom layperson-friendly format size (#252)</code>](https://github.com/elementary/switchboard-plug-about/commit/aa359cd964bff23d5625069f1acbeafacf32e785)
-- [ ] [<code>Release 6.2.0 (#257)</code>](https://github.com/elementary/switchboard-plug-about/commit/b8608874d764551207bc11e266b2b27a47a802e6)
-  - <sub>Tags: <code>6.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
