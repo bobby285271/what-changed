@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.0.0 → HEAD](https://github.com/elementary/appcenter/compare/7.0.0...HEAD)
 
+- [ ] [<code>Show warnings when an app may not be localized (#1975)</code>](https://github.com/elementary/appcenter/commit/4438bb860cd3397986c5db31f880552e92c8c44e)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
