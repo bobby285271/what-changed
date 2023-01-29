@@ -4,6 +4,7 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.0.0 → HEAD](https://github.com/elementary/appcenter/compare/7.0.0...HEAD)
 
 - [ ] [<code>Show warnings when an app may not be localized (#1975)</code>](https://github.com/elementary/appcenter/commit/4438bb860cd3397986c5db31f880552e92c8c44e)
+- [ ] [<code>Fix warnings for native packages, OS and Runtime updates (#1977)</code>](https://github.com/elementary/appcenter/commit/37a734a891e367e023064ddf7f0178eb1a5f7f88)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -57,6 +58,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add action to Paste Into menu item (#2118)</code>](https://github.com/elementary/files/commit/c26478562db4c86debb283e65f02dc55f25a74a4)
 - [ ] [<code>AbstractDirectoryView: Change double-click setting label (#2107)</code>](https://github.com/elementary/files/commit/9f2eb9338de5cfbaf488cb9bb9c2b49c132f48ae)
+- [ ] [<code>pantheon-files-cloud: Avoid crashes when disconnecting the provider (#2122)</code>](https://github.com/elementary/files/commit/a6b56655b3785e61a72e63a05fbfef713ecfb07c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
