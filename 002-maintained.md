@@ -469,6 +469,23 @@
 
 #### [monitor](https://github.com/stsdc/monitor): [0.15.0 → HEAD](https://github.com/stsdc/monitor/compare/0.15.0...HEAD)
 
+- [ ] [<code>Merge pull request #340 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/dcd0d3ef1dc0cf891ab6c9dfe61dbf0462fd8116)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>try to fix libcurl dep</code>](https://github.com/stsdc/monitor/commit/0a9c108b8d4be48a923a2d48e742dd341876e421)
+  - <sub>Tags: <code>0.15.0-ci1</code></sub>
+- [ ] [<code>coma</code>](https://github.com/stsdc/monitor/commit/fb9ff0aea7b6b80f1a9b41b09418dad7b763d15d)
+  - <sub>Tags: <code>0.15.0-ci2</code></sub>
+- [ ] [<code>fix changelog creating</code>](https://github.com/stsdc/monitor/commit/7699288fb4ce5cf4f0325122cf069bbf8568a36c)
+  - <sub>Tags: <code>0.15.0-ci3</code></sub>
+- [ ] [<code>fix deps for debian package</code>](https://github.com/stsdc/monitor/commit/38624bb500c9b45c6e487872d56398ca8fff985e)
+  - <sub>Tags: <code>0.15.0-ci4</code></sub>
+- [ ] [<code>.</code>](https://github.com/stsdc/monitor/commit/9c280fb0474c6127d64ff4e2a87919c1f1e2bb27)
+  - <sub>Tags: <code>0.15.0-ci5</code></sub>
+- [ ] [<code>fix error when trying to get GPU percentage, but GPU is detected</code>](https://github.com/stsdc/monitor/commit/08deaa37113d1e1b2ead6b33db3d2436ee27e7ad)
+- [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/990a8b778a8df8a84b53229da9d23b394a359180)
+- [ ] [<code>bump version</code>](https://github.com/stsdc/monitor/commit/bffcaec19b5c87f5ffa1a17b52330ae36368077b)
+  - <sub>Tags: <code>0.15.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
