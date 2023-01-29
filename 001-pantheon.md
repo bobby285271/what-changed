@@ -1,12 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.0.0 → HEAD](https://github.com/elementary/appcenter/compare/7.0.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.1.0 → HEAD](https://github.com/elementary/appcenter/compare/7.1.0...HEAD)
 
-- [ ] [<code>Show warnings when an app may not be localized (#1975)</code>](https://github.com/elementary/appcenter/commit/4438bb860cd3397986c5db31f880552e92c8c44e)
-- [ ] [<code>Fix warnings for native packages, OS and Runtime updates (#1977)</code>](https://github.com/elementary/appcenter/commit/37a734a891e367e023064ddf7f0178eb1a5f7f88)
-- [ ] [<code>Release 7.1.0 (#1978)</code>](https://github.com/elementary/appcenter/commit/e6a18fb48d87e8ba070971245fcc1956115504f0)
-  - <sub>Tags: <code>7.1.0</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
