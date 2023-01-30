@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.1.0 → HEAD](https://github.com/elementary/appcenter/compare/7.1.0...HEAD)
 
+- [ ] [<code>AppListUpdateView: Rewrite with ListStore (#1979)</code>](https://github.com/elementary/appcenter/commit/67e5f63a7df8e02a174c2cd9d6e2f5a78edced6a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -591,6 +592,7 @@
 - [ ] [<code>archives: Use https link for the PPAs (#641)</code>](https://github.com/elementary/os/commit/29a2926295048beff743f2053e8de3345064275c)
   - <sub>Tags: <code>7.0.0-rc1</code></sub>
 - [ ] [<code>Do not rely on the patched lsb_release</code>](https://github.com/elementary/os/commit/ca27d3aadd536d0abaf588f4433df6ef07a4500c)
+  - <sub>Tags: <code>7.0.0-rc2</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
