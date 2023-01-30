@@ -299,6 +299,12 @@
 - [ ] [<code>Update com.github.alainm23.planner.appdata.xml.in</code>](https://github.com/alainm23/planner/commit/c8959777160198b2cd84c8383f426197be25d917)
 - [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planner/commit/6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/b0866c50a4acb7eab02560f3cf195b690fa32600)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/a7186e21899ff4060c4b3324384b1605caa559eb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
@@ -466,6 +472,8 @@
 - [ ] [<code>Merge branch '524-ctrlc-and-ctrlx-dont-work-with-multi'</code>](https://github.com/phase1geo/minder/commit/29d530c9cd5a5f918eaf38387a9321e156c24cad)
 - [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/d2a84a6a82e0171f670e3e2627d88983a9eb5885)
 - [ ] [<code>Merge pull request #526 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/9e7a76291d0bf76891791acb2190e5d289a7e82d)
+- [ ] [<code>Improve German translation</code>](https://github.com/phase1geo/minder/commit/2a0ed6375f72374c00a22801414ebbe4f8f0f9cc)
+- [ ] [<code>Merge pull request #531 from be-we/master</code>](https://github.com/phase1geo/minder/commit/a6b62afd070a4c4c8edfa94972ca5be40943645e)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.15.1 → HEAD](https://github.com/stsdc/monitor/compare/0.15.1...HEAD)
 
