@@ -4,6 +4,7 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.1.0 → HEAD](https://github.com/elementary/appcenter/compare/7.1.0...HEAD)
 
 - [ ] [<code>AppListUpdateView: Rewrite with ListStore (#1979)</code>](https://github.com/elementary/appcenter/commit/67e5f63a7df8e02a174c2cd9d6e2f5a78edced6a)
+- [ ] [<code>AppListUpdateView: Show when up to date (#1980)</code>](https://github.com/elementary/appcenter/commit/474346a565b9edbde2899e039fe2bf15eaf6baa4)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
