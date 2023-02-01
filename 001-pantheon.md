@@ -593,7 +593,7 @@
 - [ ] [<code>archives: Use https link for the PPAs (#641)</code>](https://github.com/elementary/os/commit/29a2926295048beff743f2053e8de3345064275c)
   - <sub>Tags: <code>7.0.0-rc1</code></sub>
 - [ ] [<code>Do not rely on the patched lsb_release</code>](https://github.com/elementary/os/commit/ca27d3aadd536d0abaf588f4433df6ef07a4500c)
-  - <sub>Tags: <code>7.0.0-rc2</code></sub>
+  - <sub>Tags: <code>7.0.0</code> <code>7.0.0-rc2</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
