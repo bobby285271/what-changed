@@ -474,6 +474,8 @@
 - [ ] [<code>Merge pull request #526 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/9e7a76291d0bf76891791acb2190e5d289a7e82d)
 - [ ] [<code>Improve German translation</code>](https://github.com/phase1geo/minder/commit/2a0ed6375f72374c00a22801414ebbe4f8f0f9cc)
 - [ ] [<code>Merge pull request #531 from be-we/master</code>](https://github.com/phase1geo/minder/commit/a6b62afd070a4c4c8edfa94972ca5be40943645e)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/c09a86fa780660f2a0e35c2aadfb3fd823e03cef)
+- [ ] [<code>Merge pull request #532 from albanobattistella/patch-21</code>](https://github.com/phase1geo/minder/commit/8d695c0cebf54756a6f1c2bd6f577a12e666797e)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.15.1 → HEAD](https://github.com/stsdc/monitor/compare/0.15.1...HEAD)
 
@@ -503,26 +505,8 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.0.4 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.0.4...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.0...HEAD)
 
-- [ ] [<code>Update Portuguese translation (#157)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1f43881b012b0393db2bd04e34e38a095a027f78)
-- [ ] [<code>Update German translation (#160)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ae98cd4e922ebfe2c8385a7f32648094f138e829)
-- [ ] [<code>Update Italian translation (#162)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/34f2f2944b9d1cc9f569908293c57320369b9b37)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/204063e9909841a99551bc17ee96f3983ca5395b)
-- [ ] [<code>CI: Use checkout v3 (#165)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/519c83b20ae15487a508fd772c48565b0d27a8e2)
-- [ ] [<code>Update Russian translation (#167)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71c10f03c77988f3f7f6d9f31730dfcce1b545ae)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Actions: Set DESTDIR variable</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f79869c9972a948ebe370b5c6336eba5c6d4e301)
-- [ ] [<code>TerminalPane: Remove background color preference (#171)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e83d9475cb9c266b41c21b599c69c991c18c6056)
-- [ ] [<code>Metainfo: Rename and prepare for 1.0.5</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1f866c43cc005e3511535d2e038b96de83d0b12f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c9378691c1efecfe3170ffa443628d7a314886af)
-- [ ] [<code>Actions: Fix build failing (#172)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f2372c1ef78cc67713456c6e4c88355aba6b3e36)
-- [ ] [<code>Update Russian translation (#173)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ed88a3f56be677ea83602940901fd902ff5754f1)
-- [ ] [<code>meson: Use newer syntax (#174)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/781ce35de0b5f16c8e66405f8acd6aaebca9c932)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update screenshot</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1134467a6af329594643f9aefb5a579f1181fbe7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -555,6 +539,18 @@
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [2.0.1 → HEAD](https://github.com/davidmhewitt/torrential/compare/2.0.1...HEAD)
 
+- [ ] [<code>Flatpak: update to latest platform (#166)</code>](https://github.com/davidmhewitt/torrential/commit/66a704a549b43dbb8faa83ddc3676864730e403c)
+- [ ] [<code>Update App Icons (#165)</code>](https://github.com/davidmhewitt/torrential/commit/26937110cdee5a8676d79eb14145a800f7674900)
+- [ ] [<code>Ellipsize torrent name (#147)</code>](https://github.com/davidmhewitt/torrential/commit/4a70b1d7e292766d81727a63aaddc23c0be03c46)
+- [ ] [<code>Enable legacy OpenSSL provider for Transmission</code>](https://github.com/davidmhewitt/torrential/commit/9eb27a37134f02b52c8b16f68519544e9eacb85a)
+- [ ] [<code>MultiInfoBar: use add_button (#170)</code>](https://github.com/davidmhewitt/torrential/commit/c76300c983a9f1a6ee59519989db2d3d2d0f25ea)
+- [ ] [<code>Mainwindow: use GLib.Menu (#171)</code>](https://github.com/davidmhewitt/torrential/commit/d5658209ee5582bb4f7205d792f6165a565e9391)
+- [ ] [<code>PreferencesWindow: code style, Gtk4 prep (#169)</code>](https://github.com/davidmhewitt/torrential/commit/d00e26519c4f3b6f27f01b05db13a0048630aff0)
+- [ ] [<code>MainWindow: ToolButton → Button, headerbar code style (#168)</code>](https://github.com/davidmhewitt/torrential/commit/90e149ac8d74679e11447ea10ed7234c5f81acc6)
+- [ ] [<code>tools: Build and install</code>](https://github.com/davidmhewitt/torrential/commit/222b488abcab0a57b271ee6cc6bd9fd2532cc298)
+- [ ] [<code>Granite.Settings → GLib.Settings (#167)</code>](https://github.com/davidmhewitt/torrential/commit/97e96947b5b1783aa0a94e6eb88543698569329c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>vapi: fix typos</code>](https://github.com/davidmhewitt/torrential/commit/04454f62223b6cda0b7cfac5d4db6be91b5f00d0)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
