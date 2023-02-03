@@ -507,6 +507,7 @@
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.0...HEAD)
 
+- [ ] [<code>Update Italian translation (#176)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/db7bc15bfae00bfdfddd46407f4d7192636da3bc)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -551,6 +552,14 @@
 - [ ] [<code>Granite.Settings → GLib.Settings (#167)</code>](https://github.com/davidmhewitt/torrential/commit/97e96947b5b1783aa0a94e6eb88543698569329c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>vapi: fix typos</code>](https://github.com/davidmhewitt/torrential/commit/04454f62223b6cda0b7cfac5d4db6be91b5f00d0)
+- [ ] [<code>Replace Grid with Box (#174)</code>](https://github.com/davidmhewitt/torrential/commit/faf261944a3677de79638ba2023160e70024218c)
+- [ ] [<code>Metainfo: modernize (#175)</code>](https://github.com/davidmhewitt/torrential/commit/e2e35587fe9f6661d0cea74a719781945e6a13b9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PreferencesWindow: Use Granite.HeaderLabel (#176)</code>](https://github.com/davidmhewitt/torrential/commit/07302c85a2fa456a4f8f2cee34fcfe4681ac81da)
+- [ ] [<code>MultiinfoBar: set self revealed (#173)</code>](https://github.com/davidmhewitt/torrential/commit/9d63c5de0991303bb418284c5ca574830501f733)
+- [ ] [<code>Application: use startup (#177)</code>](https://github.com/davidmhewitt/torrential/commit/eba92c62db26406905c2df50f085a2fea98c06fe)
+- [ ] [<code>TorrentListRow: cleanup, gtk4 prep (#179)</code>](https://github.com/davidmhewitt/torrential/commit/398d1731f7ca892c6d39a309c6f9e131fd720236)
+- [ ] [<code>Dialogs: connect to response, use present (#178)</code>](https://github.com/davidmhewitt/torrential/commit/b5f1aba5c001130036d50139b1b869e14f04b64a)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
