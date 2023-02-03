@@ -29,6 +29,7 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
 - [ ] [<code>Ensure active project at startup (include non-git folders) (#1254)</code>](https://github.com/elementary/code/commit/1e75388b07c060cc10ecd612076f235b1833fab8)
+- [ ] [<code>Restore old uri if Save As fails (#1262)</code>](https://github.com/elementary/code/commit/9c4a04aba77f67ddc72ff1b348570df30c4c629a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
