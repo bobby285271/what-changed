@@ -508,6 +508,7 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.0...HEAD)
 
 - [ ] [<code>Update Italian translation (#176)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/db7bc15bfae00bfdfddd46407f4d7192636da3bc)
+- [ ] [<code>README: Use visualized version table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/67f490f2c4cf0ff78beeee978718f314fde60ebc)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
