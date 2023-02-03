@@ -10,6 +10,13 @@
 - [ ] [<code>grouped-window-list: Make appGroup's flashButton sane, fix invalid</code>](https://github.com/linuxmint/cinnamon/commit/3779122e2b08a236273c37fdb922223051abf69b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-screenshot.c: Disable unredirection when taking a</code>](https://github.com/linuxmint/cinnamon/commit/4af7ab39ce7ef390d3ea952441bc62d5196da02a)
+- [ ] [<code>remove unused import cairo</code>](https://github.com/linuxmint/cinnamon/commit/1c667b7db0a9385a469b5aeb06a50c2e23c61229)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>use Gtk types in ChooserButtonWidgets instead of ints (#11296)</code>](https://github.com/linuxmint/cinnamon/commit/340ce7914b0c9857f1fffb2978fa43ecb6326e82)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>simplify boolean expressions (#11323)</code>](https://github.com/linuxmint/cinnamon/commit/8338042dcd78be1032fc9ef9c72a4d15b01681c7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>simplify DEBUG detection harvester.py (#11327)</code>](https://github.com/linuxmint/cinnamon/commit/80974731e558830efdf03034e77e7bc4451d9e14)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
@@ -24,7 +31,9 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.3...HEAD)
 
 - [ ] [<code>Prioritize Playing Audio over other players. (#428)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/efb75ed1bc178a2fb3552c5b16ad2106701e4c0a)
+- [ ] [<code>remove redundant parentheses (#427)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/578fc21945a6829fcdcee953f419372f0c57b401)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -32,6 +41,7 @@
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.1...HEAD)
 
 - [ ] [<code>xsettings: Round the Xft.dpi setting to an integer</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4e5191193b614f626484c5038b18f9b840b2e62a)
+- [ ] [<code>power: Fix free order</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fee772e084a2355780c22de30431ee0f225326a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
@@ -178,9 +188,22 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.4...HEAD)
 
+- [ ] [<code>Move default save folder to ~/Downloads/Warpinator.</code>](https://github.com/linuxmint/warpinator/commit/821a3b2d2e95384859e5db3e3bb509a46e3c26fb)
+- [ ] [<code>Only raise the window the first time it's noticed that the save</code>](https://github.com/linuxmint/warpinator/commit/3894392fa113a1672bbc7c4f95fcbdcaebd22f11)
+- [ ] [<code>remote_registration: Do not loop registration attempts.</code>](https://github.com/linuxmint/warpinator/commit/235837bf8c1bd961674feefd8d1ba9028857a6fb)
+- [ ] [<code>replace equality None check with identity None check (#152)</code>](https://github.com/linuxmint/warpinator/commit/3c08a37bd445cf0e16ed3c3983ed6ca3516fb685)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
+- [ ] [<code>favorite-vfs-file.c: Lock the settings object when modifying root</code>](https://github.com/linuxmint/xapp/commit/09fb7fc143bb3be65c3d8a314e81fbcee93c4085)
+- [ ] [<code>Fix ENABLE_DEBUG definition in the build.</code>](https://github.com/linuxmint/xapp/commit/020a040e374870e80a38ff95782175ebfa39af52)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-sn-watcher: Silence warnings from dbus-menu when not in debug</code>](https://github.com/linuxmint/xapp/commit/c1a98e9fe87df5a812f59dc5ebbc665b546d0745)
+- [ ] [<code>add missing gmodule depends (#161)</code>](https://github.com/linuxmint/xapp/commit/1cd6afd8d75c813c8fa001d054b500c544330f48)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -235,6 +258,8 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
 
+- [ ] [<code>Update Device.vala</code>](https://github.com/linuxmint/timeshift/commit/6d2599fc5278382710eef861f4ba20247d5a3953)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
