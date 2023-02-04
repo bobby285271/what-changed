@@ -60,6 +60,9 @@
 - [ ] [<code>Add action to Paste Into menu item (#2118)</code>](https://github.com/elementary/files/commit/c26478562db4c86debb283e65f02dc55f25a74a4)
 - [ ] [<code>AbstractDirectoryView: Change double-click setting label (#2107)</code>](https://github.com/elementary/files/commit/9f2eb9338de5cfbaf488cb9bb9c2b49c132f48ae)
 - [ ] [<code>pantheon-files-cloud: Avoid crashes when disconnecting the provider (#2122)</code>](https://github.com/elementary/files/commit/a6b56655b3785e61a72e63a05fbfef713ecfb07c)
+- [ ] [<code>Update appdata and meson.build for next release (#2127)</code>](https://github.com/elementary/files/commit/4e91dd958566218f2b15114c5f67c12ffefcc0e8)
+  - <sub>Tags: <code>6.2.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
