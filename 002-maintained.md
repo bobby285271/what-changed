@@ -561,6 +561,9 @@
 - [ ] [<code>Application: use startup (#177)</code>](https://github.com/davidmhewitt/torrential/commit/eba92c62db26406905c2df50f085a2fea98c06fe)
 - [ ] [<code>TorrentListRow: cleanup, gtk4 prep (#179)</code>](https://github.com/davidmhewitt/torrential/commit/398d1731f7ca892c6d39a309c6f9e131fd720236)
 - [ ] [<code>Dialogs: connect to response, use present (#178)</code>](https://github.com/davidmhewitt/torrential/commit/b5f1aba5c001130036d50139b1b869e14f04b64a)
+- [ ] [<code>MainWindow: make filter into a menu (#180)</code>](https://github.com/davidmhewitt/torrential/commit/aeeb56480849f2bfcb9902256a2b938c567818d6)
+- [ ] [<code>TorrentListBox: use GLib.Menu and Actions (#181)</code>](https://github.com/davidmhewitt/torrential/commit/fc98da262b1a70ff25237a0a66c3d3bfb7427e38)
+- [ ] [<code>MultiInfoBar: subclass box (#184)</code>](https://github.com/davidmhewitt/torrential/commit/cb5adadfc6ff18ddc457bb4e0f221293831a0595)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
