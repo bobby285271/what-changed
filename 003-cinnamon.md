@@ -82,7 +82,10 @@
 
 - [ ] [<code>nemo-view-dnd.c: Fix the check for a web link's title, and use the</code>](https://github.com/linuxmint/nemo/commit/5b6cc56124a26e18dcf4b1c5f8ab8d34992f06d6)
 - [ ] [<code>nemo-mime-actions.c: Prioritize an http link to open in a browser,</code>](https://github.com/linuxmint/nemo/commit/818d2fe789420bcff26c0564e197937a4071f36a)
+- [ ] [<code>nemo-file-management-properties.glade: Re-save under glade 3.38.</code>](https://github.com/linuxmint/nemo/commit/8bc351ee827237444e9eacb0907b14369940e6f8)
+- [ ] [<code>preferences: Allow displaying dates using the system's current</code>](https://github.com/linuxmint/nemo/commit/4ee50c85760f6b7c2566310510597e02484f9731)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
@@ -201,9 +204,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-sn-watcher: Silence warnings from dbus-menu when not in debug</code>](https://github.com/linuxmint/xapp/commit/c1a98e9fe87df5a812f59dc5ebbc665b546d0745)
 - [ ] [<code>add missing gmodule depends (#161)</code>](https://github.com/linuxmint/xapp/commit/1cd6afd8d75c813c8fa001d054b500c544330f48)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Remove a workaround for gdbus-codegen.</code>](https://github.com/linuxmint/xapp/commit/33050a750944f5b5788bde1e8971ae4a0fb36986)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>build: Update symbols file.</code>](https://github.com/linuxmint/xapp/commit/aed1ac25c60fbb043385f428dd525164510ad0ef)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
