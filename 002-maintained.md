@@ -479,6 +479,10 @@
 
 #### [monitor](https://github.com/stsdc/monitor): [0.15.1 → HEAD](https://github.com/stsdc/monitor/compare/0.15.1...HEAD)
 
+- [ ] [<code>update gitignore</code>](https://github.com/stsdc/monitor/commit/61b7bae53d68e7fa93d9ceed222dbc8cff04ef20)
+- [ ] [<code>update gitignore</code>](https://github.com/stsdc/monitor/commit/bac7a4f9283a7edcd0351837ad4076c7dd79aa7c)
+- [ ] [<code>fix publishing to copr</code>](https://github.com/stsdc/monitor/commit/24491aaa3ab680926b440602a25228567dc9cdde)
+- [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/79e3cff4e76867182ebc33fec724610769ae5438)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -564,6 +568,10 @@
 - [ ] [<code>MainWindow: make filter into a menu (#180)</code>](https://github.com/davidmhewitt/torrential/commit/aeeb56480849f2bfcb9902256a2b938c567818d6)
 - [ ] [<code>TorrentListBox: use GLib.Menu and Actions (#181)</code>](https://github.com/davidmhewitt/torrential/commit/fc98da262b1a70ff25237a0a66c3d3bfb7427e38)
 - [ ] [<code>MultiInfoBar: subclass box (#184)</code>](https://github.com/davidmhewitt/torrential/commit/cb5adadfc6ff18ddc457bb4e0f221293831a0595)
+- [ ] [<code>TorrentListBox: subclass box (#186)</code>](https://github.com/davidmhewitt/torrential/commit/bed40a75f98e43dc2ecd533bf322bf2aec283cbb)
+- [ ] [<code>PreferencesWindow: code style and cleanup (#188)</code>](https://github.com/davidmhewitt/torrential/commit/11a6ddf80267bbc61c93f460d1a3f341be42d2bc)
+- [ ] [<code>MainWindow: add_files takes SList<File> (#183)</code>](https://github.com/davidmhewitt/torrential/commit/0c53ace067f707d81b6529907e79337ec42ffcf3)
+- [ ] [<code>Torrentlistbox popovermenu (#187)</code>](https://github.com/davidmhewitt/torrential/commit/144c66591abae88dd03fd275490fa104c984b399)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
