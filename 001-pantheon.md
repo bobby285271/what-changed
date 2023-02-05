@@ -51,18 +51,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.1 → HEAD](https://github.com/elementary/files/compare/6.2.1...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.2 → HEAD](https://github.com/elementary/files/compare/6.2.2...HEAD)
 
-- [ ] [<code>Ensure special user directory icon used for bookmark (#2106)</code>](https://github.com/elementary/files/commit/00b1c2a975aeab378ed6eb1d90c8988f82596add)
-- [ ] [<code>CommonJob: Continue the port to Vala (#2097)</code>](https://github.com/elementary/files/commit/6d615b1242169a446c094b49a9d5bbd905044f8e)
-- [ ] [<code>FileOperations: Continue the port to Vala (#2109)</code>](https://github.com/elementary/files/commit/7e6762c9e7bb5be8bdd182da851c24a9730b8af1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add action to Paste Into menu item (#2118)</code>](https://github.com/elementary/files/commit/c26478562db4c86debb283e65f02dc55f25a74a4)
-- [ ] [<code>AbstractDirectoryView: Change double-click setting label (#2107)</code>](https://github.com/elementary/files/commit/9f2eb9338de5cfbaf488cb9bb9c2b49c132f48ae)
-- [ ] [<code>pantheon-files-cloud: Avoid crashes when disconnecting the provider (#2122)</code>](https://github.com/elementary/files/commit/a6b56655b3785e61a72e63a05fbfef713ecfb07c)
-- [ ] [<code>Update appdata and meson.build for next release (#2127)</code>](https://github.com/elementary/files/commit/4e91dd958566218f2b15114c5f67c12ffefcc0e8)
-  - <sub>Tags: <code>6.2.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -459,6 +449,8 @@
 - [ ] [<code>Allow KeyBindingAction.NONE in Multitasking View</code>](https://github.com/elementary/gala/commit/0cf4429676318b3b03dcd2f30b4318db6a854c28)
 - [ ] [<code>Dialogs: remove dbus timeout from AccessDialog call</code>](https://github.com/elementary/gala/commit/4bf55e76dbee7c6fd03f445c87c93c355ca83561)
 - [ ] [<code>WindowManager: confirm_display_change() fixes</code>](https://github.com/elementary/gala/commit/05dceba10dc25bee3df1f74defad8ef055a8ea3e)
+- [ ] [<code>Fix IconGroup close button animation (#1522)</code>](https://github.com/elementary/gala/commit/40c7b5b4caa66bc239d2da2c32cb4cb4d84e5ab1)
+- [ ] [<code>Better super key filter in multitasking view (#1523)</code>](https://github.com/elementary/gala/commit/bef947e1b99af3ba06d74267820c686ca7fa8c47)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
