@@ -204,14 +204,15 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-sn-watcher: Silence warnings from dbus-menu when not in debug</code>](https://github.com/linuxmint/xapp/commit/c1a98e9fe87df5a812f59dc5ebbc665b546d0745)
 - [ ] [<code>add missing gmodule depends (#161)</code>](https://github.com/linuxmint/xapp/commit/1cd6afd8d75c813c8fa001d054b500c544330f48)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Remove a workaround for gdbus-codegen.</code>](https://github.com/linuxmint/xapp/commit/33050a750944f5b5788bde1e8971ae4a0fb36986)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>build: Update symbols file.</code>](https://github.com/linuxmint/xapp/commit/aed1ac25c60fbb043385f428dd525164510ad0ef)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>build: Fix build for meson < 0.60</code>](https://github.com/linuxmint/xapp/commit/670cb669abf47137818e63a8eb5c9f08f20eed4e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
