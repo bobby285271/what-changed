@@ -572,6 +572,10 @@
 - [ ] [<code>PreferencesWindow: code style and cleanup (#188)</code>](https://github.com/davidmhewitt/torrential/commit/11a6ddf80267bbc61c93f460d1a3f341be42d2bc)
 - [ ] [<code>MainWindow: add_files takes SList<File> (#183)</code>](https://github.com/davidmhewitt/torrential/commit/0c53ace067f707d81b6529907e79337ec42ffcf3)
 - [ ] [<code>Torrentlistbox popovermenu (#187)</code>](https://github.com/davidmhewitt/torrential/commit/144c66591abae88dd03fd275490fa104c984b399)
+- [ ] [<code>Port to Gtk 4 (#172)</code>](https://github.com/davidmhewitt/torrential/commit/00a31a6fcecbc304cc4804de3543a21705cf1fe4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove listbox row on torrent removed</code>](https://github.com/davidmhewitt/torrential/commit/d5df98c09b9cfac043884611369fb9fddbe62f9f)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
 
