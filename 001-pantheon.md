@@ -53,6 +53,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.2 → HEAD](https://github.com/elementary/files/compare/6.2.2...HEAD)
 
+- [ ] [<code>Fix click above and below text in listview (#2121)</code>](https://github.com/elementary/files/commit/29d28c30e92c02717d80bca142cdbb1a4722e0be)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -451,6 +452,7 @@
 - [ ] [<code>WindowManager: confirm_display_change() fixes</code>](https://github.com/elementary/gala/commit/05dceba10dc25bee3df1f74defad8ef055a8ea3e)
 - [ ] [<code>Fix IconGroup close button animation (#1522)</code>](https://github.com/elementary/gala/commit/40c7b5b4caa66bc239d2da2c32cb4cb4d84e5ab1)
 - [ ] [<code>Better super key filter in multitasking view (#1523)</code>](https://github.com/elementary/gala/commit/bef947e1b99af3ba06d74267820c686ca7fa8c47)
+- [ ] [<code>ShadowEffect: inline namespace, copy to PIP (#1520)</code>](https://github.com/elementary/gala/commit/5bdfd5a1f2dbe9df80b49e243c9f0278689c01c3)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
