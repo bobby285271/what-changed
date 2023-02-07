@@ -578,13 +578,8 @@
 - [ ] [<code>Remove listbox row on torrent removed</code>](https://github.com/davidmhewitt/torrential/commit/d5df98c09b9cfac043884611369fb9fddbe62f9f)
 - [ ] [<code>TorrentListBox: make placeholder internal (#190)</code>](https://github.com/davidmhewitt/torrential/commit/2e22a8bceb3c70f18b68f8744b183fc541e1a9cb)
 
-#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.15 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.15...HEAD)
+#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.16 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.16...HEAD)
 
-- [ ] [<code>dbus: Do not use abstract socket on FreeBSD</code>](https://github.com/JoseExposito/touchegg/commit/cc74aa88ec73e75d91bf6d4eecb5049bdd43fcb5)
-- [ ] [<code>Add <cstdint> header to avoid compilation errors on GCC 13</code>](https://github.com/JoseExposito/touchegg/commit/a458bc89806dedc548761f8a04c6c2a910ae1b04)
-- [ ] [<code>Update to v2.0.16</code>](https://github.com/JoseExposito/touchegg/commit/ef2360ba8fba1a148d9e7c52df8c82dfa4f7648f)
-  - <sub>Tags: <code>2.0.16</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
