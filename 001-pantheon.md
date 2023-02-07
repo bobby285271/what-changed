@@ -5,6 +5,11 @@
 
 - [ ] [<code>AppListUpdateView: Rewrite with ListStore (#1979)</code>](https://github.com/elementary/appcenter/commit/67e5f63a7df8e02a174c2cd9d6e2f5a78edced6a)
 - [ ] [<code>AppListUpdateView: Show when up to date (#1980)</code>](https://github.com/elementary/appcenter/commit/474346a565b9edbde2899e039fe2bf15eaf6baa4)
+- [ ] [<code>Update flatpak.vapi (#1991)</code>](https://github.com/elementary/appcenter/commit/630bb71510c449821278d7bbe84d7c905ce02fb6)
+- [ ] [<code>Flatpak repair (#1983)</code>](https://github.com/elementary/appcenter/commit/0b55f8435004007ccea66416c833930202af596e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/af0b347011a91180dc497426c79fc67a1ab2c2e2)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -30,6 +35,7 @@
 
 - [ ] [<code>Ensure active project at startup (include non-git folders) (#1254)</code>](https://github.com/elementary/code/commit/1e75388b07c060cc10ecd612076f235b1833fab8)
 - [ ] [<code>Restore old uri if Save As fails (#1262)</code>](https://github.com/elementary/code/commit/9c4a04aba77f67ddc72ff1b348570df30c4c629a)
+- [ ] [<code>Flatpak: Use 7.1 Sdk, Update Dependencies (#1264)</code>](https://github.com/elementary/code/commit/90e44effeee7cf607d5250e7b5fb3e0101bc5cf7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -79,6 +85,7 @@
 
 - [ ] [<code>actions/checkout@v3 (#731)</code>](https://github.com/elementary/photos/commit/4227b966535ab1fef68ca31763cda48605d16122)
 - [ ] [<code>po/extra/zh_HK.po: Change charset to UTF-8 (#732)</code>](https://github.com/elementary/photos/commit/bda2e11353925b8c6d59285f0101f182e492c618)
+- [ ] [<code>Fix a few vala semantic issues with type-argmunents</code>](https://github.com/elementary/photos/commit/324581b9b1175c777cebeed311939fbc12a8123b)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
