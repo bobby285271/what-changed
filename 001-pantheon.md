@@ -10,6 +10,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/af0b347011a91180dc497426c79fc67a1ab2c2e2)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/65f7e2443fb58675deafce446fadf5d33ffb7f7f)
+- [ ] [<code>metainfo: Fix wrongly formated XML</code>](https://github.com/elementary/appcenter/commit/1d6757989e219e783e4bb0c6dadaf9107e56fb0f)
+- [ ] [<code>CategoryView: Fix crash (#1993)</code>](https://github.com/elementary/appcenter/commit/9f67463e5329ed71fa700c230d654e7a0ef5a497)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -76,6 +79,10 @@
 - [ ] [<code>build: support webkit2gtk-4.1 (#794)</code>](https://github.com/elementary/mail/commit/9e6eb73a8420c9bf327e59c25e7e6d8fa87d480a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Make a link containing '%' valid (#810) (#813)</code>](https://github.com/elementary/mail/commit/09743e85b6ca63654aa46adba064f252b6e602e3)
+- [ ] [<code>Update io.elementary.mail.appdata.xml.in</code>](https://github.com/elementary/mail/commit/020069c0c6d5243fb8a9f97091ad191cdea67911)
+- [ ] [<code>Metainfo Improvements (#821)</code>](https://github.com/elementary/mail/commit/00ab0a35f4b6a605b1a7828e351f8b13a857d651)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
