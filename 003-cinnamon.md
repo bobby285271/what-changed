@@ -21,6 +21,8 @@
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
+- [ ] [<code>Fix memleaks (#306)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/51010d2fd02ff6de1170e7e776905d73cc76b650)
+  - <sub>Tags: <code>master.lmde5</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.1...HEAD)
 
@@ -231,6 +233,9 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.2...HEAD)
 
+- [ ] [<code>Lint changes (#251)</code>](https://github.com/linuxmint/hypnotix/commit/217b97190a1db43cbb80d8ec614fc70785544dea)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
