@@ -86,8 +86,9 @@
 - [ ] [<code>nemo-mime-actions.c: Prioritize an http link to open in a browser,</code>](https://github.com/linuxmint/nemo/commit/818d2fe789420bcff26c0564e197937a4071f36a)
 - [ ] [<code>nemo-file-management-properties.glade: Re-save under glade 3.38.</code>](https://github.com/linuxmint/nemo/commit/8bc351ee827237444e9eacb0907b14369940e6f8)
 - [ ] [<code>preferences: Allow displaying dates using the system's current</code>](https://github.com/linuxmint/nemo/commit/4ee50c85760f6b7c2566310510597e02484f9731)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Reduce timeout delay for the click-to-rename feature.</code>](https://github.com/linuxmint/nemo/commit/6a6ad0a7d2f43e01bbf9a5e64e244698c8843c55)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
