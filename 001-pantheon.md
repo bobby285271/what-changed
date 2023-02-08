@@ -13,6 +13,7 @@
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/65f7e2443fb58675deafce446fadf5d33ffb7f7f)
 - [ ] [<code>metainfo: Fix wrongly formated XML</code>](https://github.com/elementary/appcenter/commit/1d6757989e219e783e4bb0c6dadaf9107e56fb0f)
 - [ ] [<code>CategoryView: Fix crash (#1993)</code>](https://github.com/elementary/appcenter/commit/9f67463e5329ed71fa700c230d654e7a0ef5a497)
+- [ ] [<code>Update appcenter.metainfo.xml.in (#1995)</code>](https://github.com/elementary/appcenter/commit/19c7d54f4b4b004547cabdb30f6db8eccaf2121d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -39,6 +40,7 @@
 - [ ] [<code>Ensure active project at startup (include non-git folders) (#1254)</code>](https://github.com/elementary/code/commit/1e75388b07c060cc10ecd612076f235b1833fab8)
 - [ ] [<code>Restore old uri if Save As fails (#1262)</code>](https://github.com/elementary/code/commit/9c4a04aba77f67ddc72ff1b348570df30c4c629a)
 - [ ] [<code>Flatpak: Use 7.1 Sdk, Update Dependencies (#1264)</code>](https://github.com/elementary/code/commit/90e44effeee7cf607d5250e7b5fb3e0101bc5cf7)
+- [ ] [<code>Make symbol outline aware of follow-system-style setting (#1265)</code>](https://github.com/elementary/code/commit/78e66a090233e93502742de34b92fe9cd3b9314f)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
