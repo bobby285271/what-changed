@@ -305,6 +305,7 @@
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/a7186e21899ff4060c4b3324384b1605caa559eb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix: improve schedule button</code>](https://github.com/alainm23/planner/commit/01341fe0f6a5f932ef4729ad053a5fe8ed0215c9)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
@@ -483,6 +484,7 @@
 - [ ] [<code>update gitignore</code>](https://github.com/stsdc/monitor/commit/bac7a4f9283a7edcd0351837ad4076c7dd79aa7c)
 - [ ] [<code>fix publishing to copr</code>](https://github.com/stsdc/monitor/commit/24491aaa3ab680926b440602a25228567dc9cdde)
 - [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/79e3cff4e76867182ebc33fec724610769ae5438)
+- [ ] [<code>Fix typos</code>](https://github.com/stsdc/monitor/commit/0dcfffe7714aebe9498ef70410bdb1c52fa25f44)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
