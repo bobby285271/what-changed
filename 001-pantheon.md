@@ -1,23 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.1.0 → HEAD](https://github.com/elementary/appcenter/compare/7.1.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.0 → HEAD](https://github.com/elementary/appcenter/compare/7.2.0...HEAD)
 
-- [ ] [<code>AppListUpdateView: Rewrite with ListStore (#1979)</code>](https://github.com/elementary/appcenter/commit/67e5f63a7df8e02a174c2cd9d6e2f5a78edced6a)
-- [ ] [<code>AppListUpdateView: Show when up to date (#1980)</code>](https://github.com/elementary/appcenter/commit/474346a565b9edbde2899e039fe2bf15eaf6baa4)
-- [ ] [<code>Update flatpak.vapi (#1991)</code>](https://github.com/elementary/appcenter/commit/630bb71510c449821278d7bbe84d7c905ce02fb6)
-- [ ] [<code>Flatpak repair (#1983)</code>](https://github.com/elementary/appcenter/commit/0b55f8435004007ccea66416c833930202af596e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/af0b347011a91180dc497426c79fc67a1ab2c2e2)
-- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/65f7e2443fb58675deafce446fadf5d33ffb7f7f)
-- [ ] [<code>metainfo: Fix wrongly formated XML</code>](https://github.com/elementary/appcenter/commit/1d6757989e219e783e4bb0c6dadaf9107e56fb0f)
-- [ ] [<code>CategoryView: Fix crash (#1993)</code>](https://github.com/elementary/appcenter/commit/9f67463e5329ed71fa700c230d654e7a0ef5a497)
-- [ ] [<code>Update appcenter.metainfo.xml.in (#1995)</code>](https://github.com/elementary/appcenter/commit/19c7d54f4b4b004547cabdb30f6db8eccaf2121d)
-- [ ] [<code>AppInfoView: inline namespace (#1996)</code>](https://github.com/elementary/appcenter/commit/4b5ab575c31bbbecc8685b52b4f8c0c217d4a037)
-- [ ] [<code>Release 7.2.0 (#1992)</code>](https://github.com/elementary/appcenter/commit/9a5ecce7f5ad24f79dfe912a40ffaafce8b50019)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
