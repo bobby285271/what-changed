@@ -14,6 +14,10 @@
 - [ ] [<code>metainfo: Fix wrongly formated XML</code>](https://github.com/elementary/appcenter/commit/1d6757989e219e783e4bb0c6dadaf9107e56fb0f)
 - [ ] [<code>CategoryView: Fix crash (#1993)</code>](https://github.com/elementary/appcenter/commit/9f67463e5329ed71fa700c230d654e7a0ef5a497)
 - [ ] [<code>Update appcenter.metainfo.xml.in (#1995)</code>](https://github.com/elementary/appcenter/commit/19c7d54f4b4b004547cabdb30f6db8eccaf2121d)
+- [ ] [<code>AppInfoView: inline namespace (#1996)</code>](https://github.com/elementary/appcenter/commit/4b5ab575c31bbbecc8685b52b4f8c0c217d4a037)
+- [ ] [<code>Release 7.2.0 (#1992)</code>](https://github.com/elementary/appcenter/commit/9a5ecce7f5ad24f79dfe912a40ffaafce8b50019)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
