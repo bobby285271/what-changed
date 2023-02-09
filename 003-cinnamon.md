@@ -214,8 +214,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>build: Update symbols file.</code>](https://github.com/linuxmint/xapp/commit/aed1ac25c60fbb043385f428dd525164510ad0ef)
 - [ ] [<code>build: Fix build for meson < 0.60</code>](https://github.com/linuxmint/xapp/commit/670cb669abf47137818e63a8eb5c9f08f20eed4e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Install xapp-sn-watcher to an arch-specific location.</code>](https://github.com/linuxmint/xapp/commit/f226c3c28a48150bff51ef0893527404c6555acf)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
