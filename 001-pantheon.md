@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.0 → HEAD](https://github.com/elementary/appcenter/compare/7.2.0...HEAD)
 
+- [ ] [<code>Update POTFILES (#2006)</code>](https://github.com/elementary/appcenter/commit/12893e8d61047a96045e17cd28ac6748d4cd2d23)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -78,6 +79,7 @@
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
 - [ ] [<code>PlaybackManager: use GLib.Once (#732)</code>](https://github.com/elementary/music/commit/45ca47bbba19a0c0e6e824749d76d467ae569fd2)
+- [ ] [<code>Handle dropped folder (#739)</code>](https://github.com/elementary/music/commit/9b7da47384cef1aac28754c70d3f032baf1217b6)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -105,6 +107,10 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
 - [ ] [<code>MainWindow: Update context menu on menu key press (#697)</code>](https://github.com/elementary/terminal/commit/44951117023635ce2bc00fe9ff8f4f0814b28901)
+- [ ] [<code>Add shortcuts Ctrl + PageUp and Ctrl + PageDown to switch between tabs (#700)</code>](https://github.com/elementary/terminal/commit/7f41498380776b3bbbcca6b31baaac11ad32ac40)
+- [ ] [<code>Update Meson Files (#701)</code>](https://github.com/elementary/terminal/commit/df0c9af7971bc8f7311cc3b53864dea7c1128397)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -458,6 +464,9 @@
 - [ ] [<code>Fix IconGroup close button animation (#1522)</code>](https://github.com/elementary/gala/commit/40c7b5b4caa66bc239d2da2c32cb4cb4d84e5ab1)
 - [ ] [<code>Better super key filter in multitasking view (#1523)</code>](https://github.com/elementary/gala/commit/bef947e1b99af3ba06d74267820c686ca7fa8c47)
 - [ ] [<code>ShadowEffect: inline namespace, copy to PIP (#1520)</code>](https://github.com/elementary/gala/commit/5bdfd5a1f2dbe9df80b49e243c9f0278689c01c3)
+- [ ] [<code>WindowClone: Remove custom WindowShadowEffect class (#1531)</code>](https://github.com/elementary/gala/commit/25d995079e43b24ee14f522eae2d83066a90292a)
+- [ ] [<code>WindowClone: Cleanup (#1532)</code>](https://github.com/elementary/gala/commit/5631c6bea37ed0565581397a0deb2dc29a401fdf)
+- [ ] [<code>Extend list of allowed keybindings in multitasking view (#1530)</code>](https://github.com/elementary/gala/commit/a1780c962336897142dfb1193df6a58be40b7f7a)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
