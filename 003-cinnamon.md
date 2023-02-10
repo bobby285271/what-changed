@@ -34,8 +34,10 @@
 
 - [ ] [<code>Prioritize Playing Audio over other players. (#428)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/efb75ed1bc178a2fb3552c5b16ad2106701e4c0a)
 - [ ] [<code>remove redundant parentheses (#427)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/578fc21945a6829fcdcee953f419372f0c57b401)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>utils.py: Add gdm3 to the switch user function.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/aeeb0795e5ab7b158f242fbe4a4778ace4874990)
+  - <sub>Tags: <code>master.lmde5</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
