@@ -291,21 +291,35 @@
 - [ ] [<code>Merge branch 'master' into patch-1</code>](https://github.com/alainm23/planner/commit/90ce75ba2c2efd8f7cf93152d646f6fa39d034ea)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge pull request #895 from CottageCabbage/patch-1</code>](https://github.com/alainm23/planner/commit/9d1c710e2b528c12fa4e28b84035a838d3153d05)
+- [ ] [<code>Created French Translation</code>](https://github.com/alainm23/planner/commit/099358f2319e9c16f89c701b0070c66bc68ddd2a)
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/8e253df31f93a8e7853b07d5c1552203db449163)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 3.0.9</code>](https://github.com/alainm23/planner/commit/daf6aff3fd9cd2ad47c52312b8aeded905a65aea)
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planner/commit/42538434fb1524c3bdf832b8ed071b602d75ad8a)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix #940  #934 #927 #926 #924</code>](https://github.com/alainm23/planner/commit/0b4ee9149a11d255d7c2dc1ddcf106d2862cda6d)
 - [ ] [<code>Update com.github.alainm23.planner.appdata.xml.in</code>](https://github.com/alainm23/planner/commit/ca60ace26e13bfb2b43fbcfac9b6497d79c48c5e)
 - [ ] [<code>Update com.github.alainm23.planner.appdata.xml.in</code>](https://github.com/alainm23/planner/commit/c8959777160198b2cd84c8383f426197be25d917)
 - [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planner/commit/6a8445fecbd39e4332e7ff2f45b4eee0c5284b2e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>pr-BR.po Teste</code>](https://github.com/alainm23/planner/commit/67e795ef482e9954d114ab648fd7c840c875888d)
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/b0866c50a4acb7eab02560f3cf195b690fa32600)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/a7186e21899ff4060c4b3324384b1605caa559eb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update fr_FR.po</code>](https://github.com/alainm23/planner/commit/ab9c1bf49d7c887049782fec1bb63bf6cb9cbafb)
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planner/commit/df9e0d7421d097aba34216add4759df85a9881d3)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planner/commit/c2515d2ef0b2f578a14ec9cc64db4779469f5582)
+- [ ] [<code>Update pt-BR.po</code>](https://github.com/alainm23/planner/commit/2f7fdb6892f0c9a99fc5800b89205fca3828198b)
 - [ ] [<code>fix: improve schedule button</code>](https://github.com/alainm23/planner/commit/01341fe0f6a5f932ef4729ad053a5fe8ed0215c9)
+- [ ] [<code>feat: repeated tasks by days of the week added</code>](https://github.com/alainm23/planner/commit/e23f74e273309c1f159f88dcb630ef8da26b3eca)
+- [ ] [<code>Merge pull request #899 from rene-coty/master</code>](https://github.com/alainm23/planner/commit/c389628f681a78eff5c4b8aecbc3a14695041a7d)
+- [ ] [<code>Merge pull request #965 from chclxds/master</code>](https://github.com/alainm23/planner/commit/23af20cd4aa8e77672fbb8c51c4f97cb5b15f0a1)
+- [ ] [<code>fix: translate files</code>](https://github.com/alainm23/planner/commit/af2f0e516b6d9d05de428a213d6a1cc33a8be953)
+- [ ] [<code>fix: update files translate</code>](https://github.com/alainm23/planner/commit/92fe469a6035a39da240c0bd98aad6e770df16b1)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
@@ -381,6 +395,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/lainsce/khronos/commit/c97c3c2cd4e9bf941b186f64aaf5cee1d886fcaa)
 - [ ] [<code>Update pot file (#123)</code>](https://github.com/lainsce/khronos/commit/ea95297d98641f1937ba9980a94550cf5a860cc0)
 - [ ] [<code>Translated for Chinese (Simplified) (#124)</code>](https://github.com/lainsce/khronos/commit/3ce1d93c564bd8d5d1060dbe242e00d0d792670d)
+- [ ] [<code>meta: Update .doap-file (#126)</code>](https://github.com/lainsce/khronos/commit/afc4a9eb6f0a69b6b9eb8b3d086fb68afa8427de)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
