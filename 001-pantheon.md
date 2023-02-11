@@ -31,6 +31,8 @@
 - [ ] [<code>Restore old uri if Save As fails (#1262)</code>](https://github.com/elementary/code/commit/9c4a04aba77f67ddc72ff1b348570df30c4c629a)
 - [ ] [<code>Flatpak: Use 7.1 Sdk, Update Dependencies (#1264)</code>](https://github.com/elementary/code/commit/90e44effeee7cf607d5250e7b5fb3e0101bc5cf7)
 - [ ] [<code>Make symbol outline aware of follow-system-style setting (#1265)</code>](https://github.com/elementary/code/commit/78e66a090233e93502742de34b92fe9cd3b9314f)
+- [ ] [<code>Show running branch if not master (#1258)</code>](https://github.com/elementary/code/commit/6d31b6be0968bb10397f318c4968f10db6035183)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -467,6 +469,7 @@
 - [ ] [<code>WindowClone: Remove custom WindowShadowEffect class (#1531)</code>](https://github.com/elementary/gala/commit/25d995079e43b24ee14f522eae2d83066a90292a)
 - [ ] [<code>WindowClone: Cleanup (#1532)</code>](https://github.com/elementary/gala/commit/5631c6bea37ed0565581397a0deb2dc29a401fdf)
 - [ ] [<code>Extend list of allowed keybindings in multitasking view (#1530)</code>](https://github.com/elementary/gala/commit/a1780c962336897142dfb1193df6a58be40b7f7a)
+- [ ] [<code>WorkspaceInsertThumb: Code style fixes (#1533)</code>](https://github.com/elementary/gala/commit/3652e9b5fd4cccf854eb02bf00c7059c4043b630)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
