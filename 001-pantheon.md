@@ -33,6 +33,7 @@
 - [ ] [<code>Make symbol outline aware of follow-system-style setting (#1265)</code>](https://github.com/elementary/code/commit/78e66a090233e93502742de34b92fe9cd3b9314f)
 - [ ] [<code>Show running branch if not master (#1258)</code>](https://github.com/elementary/code/commit/6d31b6be0968bb10397f318c4968f10db6035183)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/code/commit/268f19c18ad5ff08cc3146c6b226797f4139da13)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -113,6 +114,7 @@
 - [ ] [<code>Update Meson Files (#701)</code>](https://github.com/elementary/terminal/commit/df0c9af7971bc8f7311cc3b53864dea7c1128397)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/terminal/commit/f97f9bd31f36e6c17ce7fb77f155a3e2cf8500c1)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -470,6 +472,8 @@
 - [ ] [<code>WindowClone: Cleanup (#1532)</code>](https://github.com/elementary/gala/commit/5631c6bea37ed0565581397a0deb2dc29a401fdf)
 - [ ] [<code>Extend list of allowed keybindings in multitasking view (#1530)</code>](https://github.com/elementary/gala/commit/a1780c962336897142dfb1193df6a58be40b7f7a)
 - [ ] [<code>WorkspaceInsertThumb: Code style fixes (#1533)</code>](https://github.com/elementary/gala/commit/3652e9b5fd4cccf854eb02bf00c7059c4043b630)
+- [ ] [<code>Allow zoom keybindings in multitasking view (#1535)</code>](https://github.com/elementary/gala/commit/c917c6efba1a6e472a0201f969c671cff4358e48)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/gala/commit/fc08f7500c77bd7a4e8eb818b9d844464974da63)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -486,6 +490,7 @@
 - [ ] [<code>Release 2.11.1 (#557)</code>](https://github.com/elementary/applications-menu/commit/98bf930d5ab9f18411da0f397304137730211706)
   - <sub>Tags: <code>2.11.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/applications-menu/commit/3d2619e81d480517d9899101645d6d33a1aad765)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
