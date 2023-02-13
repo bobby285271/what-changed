@@ -58,6 +58,8 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.2 → HEAD](https://github.com/elementary/files/compare/6.2.2...HEAD)
 
 - [ ] [<code>Fix click above and below text in listview (#2121)</code>](https://github.com/elementary/files/commit/29d28c30e92c02717d80bca142cdbb1a4722e0be)
+- [ ] [<code>Add AppMenu button to headerbar (#2132)</code>](https://github.com/elementary/files/commit/917aa874875938e9400ebe8ae5dbd9c8aae36e66)
+- [ ] [<code>Update io.elementary.files.appdata.xml.in.in</code>](https://github.com/elementary/files/commit/4e5ea69e58c48f2f0651ec9a1efc42d2c496ae1f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -474,6 +476,9 @@
 - [ ] [<code>WorkspaceInsertThumb: Code style fixes (#1533)</code>](https://github.com/elementary/gala/commit/3652e9b5fd4cccf854eb02bf00c7059c4043b630)
 - [ ] [<code>Allow zoom keybindings in multitasking view (#1535)</code>](https://github.com/elementary/gala/commit/c917c6efba1a6e472a0201f969c671cff4358e48)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/gala/commit/fc08f7500c77bd7a4e8eb818b9d844464974da63)
+- [ ] [<code>Use explicit Clutter and Meta namespaces</code>](https://github.com/elementary/gala/commit/9d3adf507ecaa0b0392be0947063933851af1cc4)
+- [ ] [<code>Fix indentation</code>](https://github.com/elementary/gala/commit/c69171b5c6caba774d084b881409e17d22903fcb)
+- [ ] [<code>PIP: Fix log spam (#1521)</code>](https://github.com/elementary/gala/commit/37c3e8810b753f64db8cd8f9b95777759cc2894e)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
