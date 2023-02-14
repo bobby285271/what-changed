@@ -18,6 +18,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>simplify DEBUG detection harvester.py (#11327)</code>](https://github.com/linuxmint/cinnamon/commit/80974731e558830efdf03034e77e7bc4451d9e14)
 - [ ] [<code>trash@cinnamon.org: Refactor to use asynchronous methods entirely.</code>](https://github.com/linuxmint/cinnamon/commit/54897d0cefb2d854f7c4f9efecf1d7c5e6f3db1a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: load theme thumbnail from XDG_DATA_DIRS (#11497)</code>](https://github.com/linuxmint/cinnamon/commit/bbdfdadb80199a13c2f8e0eac7829c33df85ed0d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
