@@ -94,7 +94,9 @@
 - [ ] [<code>preferences: Allow displaying dates using the system's current</code>](https://github.com/linuxmint/nemo/commit/4ee50c85760f6b7c2566310510597e02484f9731)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Reduce timeout delay for the click-to-rename feature.</code>](https://github.com/linuxmint/nemo/commit/6a6ad0a7d2f43e01bbf9a5e64e244698c8843c55)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>thumbnails: Use multiple threads for generating thumbnails.</code>](https://github.com/linuxmint/nemo/commit/e54de9f713c8fbac2822c27dc05940b7022cdc2f)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
