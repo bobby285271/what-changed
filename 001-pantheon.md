@@ -534,6 +534,7 @@
 
 - [ ] [<code>Add airplane mode switch to popover; add middle-click tooltip (#235)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1c19314a1911648a76321fef7acca834e32da37a)
 - [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8349de590e34a19c9d542e75e595f9c8cd8439a5)
+- [ ] [<code>Use disambiguate_names from NM (#260)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/570bfd828e806b889875567e05ce34fab811416d)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
