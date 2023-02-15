@@ -4,6 +4,8 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.0 → HEAD](https://github.com/elementary/appcenter/compare/7.2.0...HEAD)
 
 - [ ] [<code>Update POTFILES (#2006)</code>](https://github.com/elementary/appcenter/commit/12893e8d61047a96045e17cd28ac6748d4cd2d23)
+- [ ] [<code>StripeDialog: Add translator comment (#2009)</code>](https://github.com/elementary/appcenter/commit/5a55486d9cfae0d1e8daec6d2556f671c1f630cb)
+- [ ] [<code>Fix positional printf comment</code>](https://github.com/elementary/appcenter/commit/ca2911da2e483fd39d4327a3e627e2bf698d904e)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -240,6 +242,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Gettext Action (#92)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/b7ee2e93b000ac0fc487a88cf54a84e82ed91d67)
 - [ ] [<code>Fix "Do Not Disturb" label (#94)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/717d50269cf6419abff499b2dd1bb025640d38c8)
+- [ ] [<code>Add search (#93)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/3d0c728d1293bc34afbf4a4d3865c3415a518883)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
 
@@ -545,6 +548,7 @@
 - [ ] [<code>Don't call Refresh() on UPower.Device (#238)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/73725c6bf7f6f2590ee6293baf98b3360048356d)
 - [ ] [<code>actions/checkout@v3 (#241)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ba00ddd123073383db818113ec731f8727c3ece2)
 - [ ] [<code>Avoid using "Toggle" (#242)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/84b5a9c74c3b8ad1fec869cde03f128927a644e7)
+- [ ] [<code>Adjust battery percent levels to be closer to icon levels (#240)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/68a96b269ee09926ab538a76643d39f1fd0b9ecd)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
