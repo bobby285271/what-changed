@@ -132,6 +132,7 @@
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
+- [ ] [<code>MainView: update copy (#151)</code>](https://github.com/elementary/sideload/commit/072bfa95a150e0e693556714c9ce9d922554a2d3)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -204,6 +205,7 @@
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.3...HEAD)
 
+- [ ] [<code>Prefer the resolution modes marked is_preferred (#337)</code>](https://github.com/elementary/switchboard-plug-display/commit/144c9cc5d79981939922a716eb2844eb7e231ebd)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -558,6 +560,8 @@
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#245)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/60788558e3d3b889bc2a9e5c2f57a097b31ecafc)
+- [ ] [<code>PlayerRow: use circle buttons (#248)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c6c69d66daa0a2e5eb88e545c390638e72e34b22)
+- [ ] [<code>PlayerRow.css: add disabled style</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e63337b567e0aa72473960d5c196e151297d9def)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
@@ -625,6 +629,7 @@
 - [ ] [<code>Do not rely on the patched lsb_release</code>](https://github.com/elementary/os/commit/ca27d3aadd536d0abaf588f4433df6ef07a4500c)
   - <sub>Tags: <code>7.0.0</code> <code>7.0.0-rc2</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update terraform.config to 7.0 (#656)</code>](https://github.com/elementary/os/commit/036e9d0537ff7f1f59bf2a42f8677dd2756bee5b)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
