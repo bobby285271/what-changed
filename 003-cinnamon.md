@@ -94,9 +94,9 @@
 - [ ] [<code>preferences: Allow displaying dates using the system's current</code>](https://github.com/linuxmint/nemo/commit/4ee50c85760f6b7c2566310510597e02484f9731)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Reduce timeout delay for the click-to-rename feature.</code>](https://github.com/linuxmint/nemo/commit/6a6ad0a7d2f43e01bbf9a5e64e244698c8843c55)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>thumbnails: Use multiple threads for generating thumbnails.</code>](https://github.com/linuxmint/nemo/commit/e54de9f713c8fbac2822c27dc05940b7022cdc2f)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>nemo-thumbnails: Restore compatibility with older glib versions,</code>](https://github.com/linuxmint/nemo/commit/083d4f5c9f21878b1a73b9082306ae84ba09a3d8)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
@@ -206,7 +206,9 @@
 - [ ] [<code>Only raise the window the first time it's noticed that the save</code>](https://github.com/linuxmint/warpinator/commit/3894392fa113a1672bbc7c4f95fcbdcaebd22f11)
 - [ ] [<code>remote_registration: Do not loop registration attempts.</code>](https://github.com/linuxmint/warpinator/commit/235837bf8c1bd961674feefd8d1ba9028857a6fb)
 - [ ] [<code>replace equality None check with identity None check (#152)</code>](https://github.com/linuxmint/warpinator/commit/3c08a37bd445cf0e16ed3c3983ed6ca3516fb685)
+- [ ] [<code>Update README.md firewall section, and update the ufw script.</code>](https://github.com/linuxmint/warpinator/commit/b600450a5071978b7d4eddd7ed57e54449271a5e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
