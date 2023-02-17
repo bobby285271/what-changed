@@ -62,6 +62,7 @@
 - [ ] [<code>Fix click above and below text in listview (#2121)</code>](https://github.com/elementary/files/commit/29d28c30e92c02717d80bca142cdbb1a4722e0be)
 - [ ] [<code>Add AppMenu button to headerbar (#2132)</code>](https://github.com/elementary/files/commit/917aa874875938e9400ebe8ae5dbd9c8aae36e66)
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in</code>](https://github.com/elementary/files/commit/4e5ea69e58c48f2f0651ec9a1efc42d2c496ae1f)
+- [ ] [<code>Update Undo/Redo button tooltips with operation type (#2137)</code>](https://github.com/elementary/files/commit/e721ffefeff3c1befec008d766fe6652c52bef52)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -537,6 +538,20 @@
 - [ ] [<code>Add airplane mode switch to popover; add middle-click tooltip (#235)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1c19314a1911648a76321fef7acca834e32da37a)
 - [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8349de590e34a19c9d542e75e595f9c8cd8439a5)
 - [ ] [<code>Use disambiguate_names from NM (#260)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/570bfd828e806b889875567e05ce34fab811416d)
+- [ ] [<code>WifiInterface: use NM.DeviceState (#264)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/66b7df7684a819569717d539a8999965bddec1b5)
+- [ ] [<code>Update NetworkManager vapi files (#265)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/2e9aa37e90d886617093fad002aef0ce3ff54802)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>vapi: Only allow to generate the vapi if the dependencies are found (#266)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c673cc1c24cad399f2ed16ab0bf02ec08f8ab01a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Indicator: get interfaces from list, not widget (#261)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/242921f97288ae60f2b5593f7ac516663f61c1cb)
+- [ ] [<code>PopoverWidget: get ifaces from list, not widget (#262)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/54e62cc2ebc66b58901ea8ee71e0e033b3d3e82e)
+- [ ] [<code>Use circular toggles for airplane mode and ethernet (#258)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5838409c7f4e968a01c5056bae6b0e3fc96434ce)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move classes from common (#259)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ef9e8035b7da0f02bcb738d55588912d1184418b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PopoverWidget: list VPNs above wifi (#267)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5d5591597b43c1f776346990fb0980b29d19d73)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
