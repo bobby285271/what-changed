@@ -63,6 +63,7 @@
 - [ ] [<code>Add AppMenu button to headerbar (#2132)</code>](https://github.com/elementary/files/commit/917aa874875938e9400ebe8ae5dbd9c8aae36e66)
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in</code>](https://github.com/elementary/files/commit/4e5ea69e58c48f2f0651ec9a1efc42d2c496ae1f)
 - [ ] [<code>Update Undo/Redo button tooltips with operation type (#2137)</code>](https://github.com/elementary/files/commit/e721ffefeff3c1befec008d766fe6652c52bef52)
+- [ ] [<code>HeaderBar: Remove defunct translator comments (#2139)</code>](https://github.com/elementary/files/commit/a844e311afb9c9af28f9d877ee298713ea466186)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
