@@ -36,6 +36,7 @@
 - [ ] [<code>Show running branch if not master (#1258)</code>](https://github.com/elementary/code/commit/6d31b6be0968bb10397f318c4968f10db6035183)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/code/commit/268f19c18ad5ff08cc3146c6b226797f4139da13)
+- [ ] [<code>appdata: Minor wording fixes in release notes (#1269)</code>](https://github.com/elementary/code/commit/7fe0a6115a9ad9e22efb5ebd975232f09c57bcad)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -89,12 +90,14 @@
 
 - [ ] [<code>PlaybackManager: use GLib.Once (#732)</code>](https://github.com/elementary/music/commit/45ca47bbba19a0c0e6e824749d76d467ae569fd2)
 - [ ] [<code>Handle dropped folder (#739)</code>](https://github.com/elementary/music/commit/9b7da47384cef1aac28754c70d3f032baf1217b6)
+- [ ] [<code>metainfo: Add translation field (#740)</code>](https://github.com/elementary/music/commit/b8ca6123cd2cc13ea0b83c99e437b716a66cc431)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#731)</code>](https://github.com/elementary/photos/commit/4227b966535ab1fef68ca31763cda48605d16122)
 - [ ] [<code>po/extra/zh_HK.po: Change charset to UTF-8 (#732)</code>](https://github.com/elementary/photos/commit/bda2e11353925b8c6d59285f0101f182e492c618)
 - [ ] [<code>Fix a few vala semantic issues with type-argmunents</code>](https://github.com/elementary/photos/commit/324581b9b1175c777cebeed311939fbc12a8123b)
+- [ ] [<code>Add translation field (#735)</code>](https://github.com/elementary/photos/commit/3141acca0d237313b30304a57778db5be8eae067)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
@@ -486,6 +489,7 @@
 - [ ] [<code>Use explicit Clutter and Meta namespaces</code>](https://github.com/elementary/gala/commit/9d3adf507ecaa0b0392be0947063933851af1cc4)
 - [ ] [<code>Fix indentation</code>](https://github.com/elementary/gala/commit/c69171b5c6caba774d084b881409e17d22903fcb)
 - [ ] [<code>PIP: Fix log spam (#1521)</code>](https://github.com/elementary/gala/commit/37c3e8810b753f64db8cd8f9b95777759cc2894e)
+- [ ] [<code>Dialogs: Improve force quit string (#1540)</code>](https://github.com/elementary/gala/commit/75a008fe4001c1cb8888ee31de60fb9660ef141e)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
