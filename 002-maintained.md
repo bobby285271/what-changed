@@ -500,6 +500,9 @@
 - [ ] [<code>fix publishing to copr</code>](https://github.com/stsdc/monitor/commit/24491aaa3ab680926b440602a25228567dc9cdde)
 - [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/79e3cff4e76867182ebc33fec724610769ae5438)
 - [ ] [<code>Fix typos</code>](https://github.com/stsdc/monitor/commit/0dcfffe7714aebe9498ef70410bdb1c52fa25f44)
+- [ ] [<code>Show all processes. Fix #215</code>](https://github.com/stsdc/monitor/commit/da111847a632eb7732c0b6e13270870369a7e741)
+- [ ] [<code>Merge branch 'dev' of github.com:stsdc/monitor into dev</code>](https://github.com/stsdc/monitor/commit/3ae181fe817d5cbea6d5899ef641079c110e5c9f)
+- [ ] [<code>Bit of cleanup</code>](https://github.com/stsdc/monitor/commit/3f98247f04a044db33f42fd68ceab301655d6605)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
