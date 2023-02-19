@@ -209,8 +209,10 @@
 - [ ] [<code>remote_registration: Do not loop registration attempts.</code>](https://github.com/linuxmint/warpinator/commit/235837bf8c1bd961674feefd8d1ba9028857a6fb)
 - [ ] [<code>replace equality None check with identity None check (#152)</code>](https://github.com/linuxmint/warpinator/commit/3c08a37bd445cf0e16ed3c3983ed6ca3516fb685)
 - [ ] [<code>Update README.md firewall section, and update the ufw script.</code>](https://github.com/linuxmint/warpinator/commit/b600450a5071978b7d4eddd7ed57e54449271a5e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>1.4.5</code>](https://github.com/linuxmint/warpinator/commit/7390641ca1a7b4b80eaa748af64fc0d9accb9857)
+  - <sub>Tags: <code>1.4.5</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
