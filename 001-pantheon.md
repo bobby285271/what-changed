@@ -494,6 +494,8 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>WindowClone: Add click action only in overview mode (#1542)</code>](https://github.com/elementary/gala/commit/7b8f13f76fdbe1f999a9edfa35fe83b93c523458)
 - [ ] [<code>Fix multitasking view animations (#1529)</code>](https://github.com/elementary/gala/commit/1ca12ac212a71c483e8fedb9a0d028c298dc9b62)
+- [ ] [<code>Fix PiP positioning offset (#1507)</code>](https://github.com/elementary/gala/commit/2473752de37fb0ad4273c2ef8724aed8cdeea541)
+- [ ] [<code>Fix PiP window being undraggable (#1506)</code>](https://github.com/elementary/gala/commit/37fea81035d061cb62687ea5a491bef9fdcba302)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
