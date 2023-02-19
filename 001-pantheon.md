@@ -490,6 +490,10 @@
 - [ ] [<code>Fix indentation</code>](https://github.com/elementary/gala/commit/c69171b5c6caba774d084b881409e17d22903fcb)
 - [ ] [<code>PIP: Fix log spam (#1521)</code>](https://github.com/elementary/gala/commit/37c3e8810b753f64db8cd8f9b95777759cc2894e)
 - [ ] [<code>Dialogs: Improve force quit string (#1540)</code>](https://github.com/elementary/gala/commit/75a008fe4001c1cb8888ee31de60fb9660ef141e)
+- [ ] [<code>Always use `private` keyword (#1543)</code>](https://github.com/elementary/gala/commit/e212898742e007ccaf831f0609081f365fcef0f8)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowClone: Add click action only in overview mode (#1542)</code>](https://github.com/elementary/gala/commit/7b8f13f76fdbe1f999a9edfa35fe83b93c523458)
+- [ ] [<code>Fix multitasking view animations (#1529)</code>](https://github.com/elementary/gala/commit/1ca12ac212a71c483e8fedb9a0d028c298dc9b62)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
