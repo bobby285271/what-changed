@@ -396,6 +396,7 @@
 - [ ] [<code>Update pot file (#123)</code>](https://github.com/lainsce/khronos/commit/ea95297d98641f1937ba9980a94550cf5a860cc0)
 - [ ] [<code>Translated for Chinese (Simplified) (#124)</code>](https://github.com/lainsce/khronos/commit/3ce1d93c564bd8d5d1060dbe242e00d0d792670d)
 - [ ] [<code>meta: Update .doap-file (#126)</code>](https://github.com/lainsce/khronos/commit/afc4a9eb6f0a69b6b9eb8b3d086fb68afa8427de)
+- [ ] [<code>Update Swedish Translation (#128)</code>](https://github.com/lainsce/khronos/commit/0d62e736511f094f328b18c7a986b84d7e93d8c9)
 
 #### [minder](https://github.com/phase1geo/minder): [1.14.0 → HEAD](https://github.com/phase1geo/minder/compare/1.14.0...HEAD)
 
@@ -503,6 +504,8 @@
 - [ ] [<code>Show all processes. Fix #215</code>](https://github.com/stsdc/monitor/commit/da111847a632eb7732c0b6e13270870369a7e741)
 - [ ] [<code>Merge branch 'dev' of github.com:stsdc/monitor into dev</code>](https://github.com/stsdc/monitor/commit/3ae181fe817d5cbea6d5899ef641079c110e5c9f)
 - [ ] [<code>Bit of cleanup</code>](https://github.com/stsdc/monitor/commit/3f98247f04a044db33f42fd68ceab301655d6605)
+- [ ] [<code>update some package info</code>](https://github.com/stsdc/monitor/commit/3506701426026608aaa5e5ebed6a6c8984c6798b)
+- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/c900d5d8094c9ee98980409e8e3b516ff51c8a26)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
