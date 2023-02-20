@@ -497,6 +497,8 @@
 - [ ] [<code>Fix PiP positioning offset (#1507)</code>](https://github.com/elementary/gala/commit/2473752de37fb0ad4273c2ef8724aed8cdeea541)
 - [ ] [<code>Fix PiP window being undraggable (#1506)</code>](https://github.com/elementary/gala/commit/37fea81035d061cb62687ea5a491bef9fdcba302)
 - [ ] [<code> WindowClone: Fix warnings in window overview (#1549)</code>](https://github.com/elementary/gala/commit/9443686190c12177bf33ffd03b462ebb962d6171)
+- [ ] [<code>WindowOverview: Cleanup (#1548)</code>](https://github.com/elementary/gala/commit/50bc99a5ee1dbe4e82e5580f39a414e0054edc4a)
+- [ ] [<code>PiP: Respect animations key (#1546)</code>](https://github.com/elementary/gala/commit/f2c2d438e292dae4c092b552b0782ab11418e9dc)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -589,6 +591,7 @@
 - [ ] [<code>actions/checkout@v3 (#245)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/60788558e3d3b889bc2a9e5c2f57a097b31ecafc)
 - [ ] [<code>PlayerRow: use circle buttons (#248)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c6c69d66daa0a2e5eb88e545c390638e72e34b22)
 - [ ] [<code>PlayerRow.css: add disabled style</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e63337b567e0aa72473960d5c196e151297d9def)
+- [ ] [<code>PlayerRow: keep labels consistent (#247)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6b9d60ae8bbbce01599799d683d50651b9b81a6d)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
