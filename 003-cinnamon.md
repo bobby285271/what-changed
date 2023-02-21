@@ -98,6 +98,14 @@
 - [ ] [<code>Reduce timeout delay for the click-to-rename feature.</code>](https://github.com/linuxmint/nemo/commit/6a6ad0a7d2f43e01bbf9a5e64e244698c8843c55)
 - [ ] [<code>thumbnails: Use multiple threads for generating thumbnails.</code>](https://github.com/linuxmint/nemo/commit/e54de9f713c8fbac2822c27dc05940b7022cdc2f)
 - [ ] [<code>nemo-thumbnails: Restore compatibility with older glib versions,</code>](https://github.com/linuxmint/nemo/commit/083d4f5c9f21878b1a73b9082306ae84ba09a3d8)
+- [ ] [<code>nemo-icon-container.c: Fix thumbnail prioritization in the icon,</code>](https://github.com/linuxmint/nemo/commit/c04c2a975c21d0492ee732534d79431b15cb7cd2)
+- [ ] [<code>Remove _prioritize_thumbnailing vfuncs in the icon containers.</code>](https://github.com/linuxmint/nemo/commit/40b5b71da73de3ac498eecdc0b0eb6adff8d390d)
+- [ ] [<code>Clean up nemo-thumbnails.c, add some thread/queue debugging.</code>](https://github.com/linuxmint/nemo/commit/2007e1b5200d09bbe19dad02a98452708eeb6701)
+- [ ] [<code>nemo-thumbnails.c: Use LIFO sort for the thumbnailing thread.</code>](https://github.com/linuxmint/nemo/commit/4b53dd47a3b4dec847573f77037e16771bbb683d)
+- [ ] [<code>nemo-thumbnails.c: Fix thread count when the setting is a positive</code>](https://github.com/linuxmint/nemo/commit/aaa63c0b247c0566a0fc64ef190114c76b31ea5b)
+- [ ] [<code>Fix for List View thumbnail scaling at HiDPI (#3187)</code>](https://github.com/linuxmint/nemo/commit/57a6a12d206994e2000a18dbd4d3fe29328132df)
+- [ ] [<code>thumbnails: Ignore operations if the thumbnailer isn't running.</code>](https://github.com/linuxmint/nemo/commit/a1eb6488424b7870b0a67ef34a9df5631136e413)
+- [ ] [<code>list-view: Scale the thumbnail correctly when applying emblems,</code>](https://github.com/linuxmint/nemo/commit/3161c3130f2a427b4f30d232fb2bf9b58a02b377)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -202,17 +210,8 @@
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.4...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.5...HEAD)
 
-- [ ] [<code>Move default save folder to ~/Downloads/Warpinator.</code>](https://github.com/linuxmint/warpinator/commit/821a3b2d2e95384859e5db3e3bb509a46e3c26fb)
-- [ ] [<code>Only raise the window the first time it's noticed that the save</code>](https://github.com/linuxmint/warpinator/commit/3894392fa113a1672bbc7c4f95fcbdcaebd22f11)
-- [ ] [<code>remote_registration: Do not loop registration attempts.</code>](https://github.com/linuxmint/warpinator/commit/235837bf8c1bd961674feefd8d1ba9028857a6fb)
-- [ ] [<code>replace equality None check with identity None check (#152)</code>](https://github.com/linuxmint/warpinator/commit/3c08a37bd445cf0e16ed3c3983ed6ca3516fb685)
-- [ ] [<code>Update README.md firewall section, and update the ufw script.</code>](https://github.com/linuxmint/warpinator/commit/b600450a5071978b7d4eddd7ed57e54449271a5e)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>1.4.5</code>](https://github.com/linuxmint/warpinator/commit/7390641ca1a7b4b80eaa748af64fc0d9accb9857)
-  - <sub>Tags: <code>1.4.5</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
