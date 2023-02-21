@@ -37,6 +37,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/code/commit/268f19c18ad5ff08cc3146c6b226797f4139da13)
 - [ ] [<code>appdata: Minor wording fixes in release notes (#1269)</code>](https://github.com/elementary/code/commit/7fe0a6115a9ad9e22efb5ebd975232f09c57bcad)
+- [ ] [<code>Fix styling when no documents (#1271)</code>](https://github.com/elementary/code/commit/3fb8fe53952cd84d182bdc8d6611b15f29b5efa2)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -304,6 +305,7 @@
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
+- [ ] [<code>Remove network-vpn icons (#1178)</code>](https://github.com/elementary/icons/commit/d1edf3f25651e6c3ba4124e743484b4f219bdb78)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -499,6 +501,7 @@
 - [ ] [<code> WindowClone: Fix warnings in window overview (#1549)</code>](https://github.com/elementary/gala/commit/9443686190c12177bf33ffd03b462ebb962d6171)
 - [ ] [<code>WindowOverview: Cleanup (#1548)</code>](https://github.com/elementary/gala/commit/50bc99a5ee1dbe4e82e5580f39a414e0054edc4a)
 - [ ] [<code>PiP: Respect animations key (#1546)</code>](https://github.com/elementary/gala/commit/f2c2d438e292dae4c092b552b0782ab11418e9dc)
+- [ ] [<code>Revert "Draft: Fix PiP window being undraggable" (#1553)</code>](https://github.com/elementary/gala/commit/aa96c72de7a3281e25efc89e4eb073d5a5241941)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -566,6 +569,10 @@
 - [ ] [<code>Move classes from common (#259)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ef9e8035b7da0f02bcb738d55588912d1184418b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PopoverWidget: list VPNs above wifi (#267)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5d5591597b43c1f776346990fb0980b29d19d73)
+- [ ] [<code>Show VPN as a FlowBox of ToggleButtons (#268)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b4123ebc5fdff0507c74cc2c48b272dd7a0d5c86)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1b43ca13c81e665fe21de40b432220b5e109a608)
+- [ ] [<code>Appdata updates (#277)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/83149037b1325265bd9c9e938eee3ea8bae54f49)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
