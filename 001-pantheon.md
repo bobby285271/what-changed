@@ -502,6 +502,10 @@
 - [ ] [<code>WindowOverview: Cleanup (#1548)</code>](https://github.com/elementary/gala/commit/50bc99a5ee1dbe4e82e5580f39a414e0054edc4a)
 - [ ] [<code>PiP: Respect animations key (#1546)</code>](https://github.com/elementary/gala/commit/f2c2d438e292dae4c092b552b0782ab11418e9dc)
 - [ ] [<code>Revert "Draft: Fix PiP window being undraggable" (#1553)</code>](https://github.com/elementary/gala/commit/aa96c72de7a3281e25efc89e4eb073d5a5241941)
+- [ ] [<code>Update appdata with fixed issues (#1556)</code>](https://github.com/elementary/gala/commit/57f7f292d3cd1c00b1d16bd1c08687b9bb2ec0d2)
+- [ ] [<code>build: require mutter 42 (#1496)</code>](https://github.com/elementary/gala/commit/6ab08256e0f3fe65d53ba789835584b3d41be41b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
