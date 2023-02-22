@@ -493,6 +493,8 @@
 - [ ] [<code>Merge pull request #531 from be-we/master</code>](https://github.com/phase1geo/minder/commit/a6b62afd070a4c4c8edfa94972ca5be40943645e)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/c09a86fa780660f2a0e35c2aadfb3fd823e03cef)
 - [ ] [<code>Merge pull request #532 from albanobattistella/patch-21</code>](https://github.com/phase1geo/minder/commit/8d695c0cebf54756a6f1c2bd6f577a12e666797e)
+- [ ] [<code>Fixing app script warning.</code>](https://github.com/phase1geo/minder/commit/fbf808e5b2b3d4e907f77405c5d236cba279252c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.15.1 → HEAD](https://github.com/stsdc/monitor/compare/0.15.1...HEAD)
 
