@@ -514,6 +514,11 @@
 - [ ] [<code>Remove some deprecations and fix compile warnings (#1544)</code>](https://github.com/elementary/gala/commit/4e00b82dd792c09792103cbd5abce587788d178f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: Make close button and title respect animations key (#1551)</code>](https://github.com/elementary/gala/commit/10e5a6dfde7cc2ad62f1c3398b74b90f1a40dc59)
+- [ ] [<code>IconGroup: Make close button respect animations key (#1554)</code>](https://github.com/elementary/gala/commit/8fa6f8a550df66d43d9ed59f1264041f61a9eeb3)
+- [ ] [<code>Cleanup after #1557 (#1559)</code>](https://github.com/elementary/gala/commit/b3e5d7af288c1d2a5791acfa5983f9b55b7b11bc)
+- [ ] [<code>DragDropAction: Activate click signal on release (#1560)</code>](https://github.com/elementary/gala/commit/3c98ecac06b6e2ae870b86d4db85209b54fc19a8)
+- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/b0b0f8025ab88219ce4c7b99b3e074bc88e4c62f)
+- [ ] [<code>WindowIcon: Cleanup (#1561)</code>](https://github.com/elementary/gala/commit/0605f63c49bebd42e35eee10f132559ddf2b18d3)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -585,6 +590,9 @@
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1b43ca13c81e665fe21de40b432220b5e109a608)
 - [ ] [<code>Appdata updates (#277)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/83149037b1325265bd9c9e938eee3ea8bae54f49)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GResource all the icons (#278)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/244367c3941264ca2e8f95319caf1877066b6574)
+- [ ] [<code>WifiMenuItem: use built-in activate signal (#275)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8536a41c8d0c3adca93a136608ccc281b1e44f1d)
+- [ ] [<code>WidgetNMInterface: remove is_device (#271)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0f1abb0ee67f40cb1ab9ffac706735724c193f63)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
