@@ -20,6 +20,10 @@
 - [ ] [<code>trash@cinnamon.org: Refactor to use asynchronous methods entirely.</code>](https://github.com/linuxmint/cinnamon/commit/54897d0cefb2d854f7c4f9efecf1d7c5e6f3db1a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes: load theme thumbnail from XDG_DATA_DIRS (#11497)</code>](https://github.com/linuxmint/cinnamon/commit/bbdfdadb80199a13c2f8e0eac7829c33df85ed0d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Fix typo.</code>](https://github.com/linuxmint/cinnamon/commit/b475c392f749d52524a90d6bc2408cfcf2c8d09b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: Clear the source ID in Seeker._timerCallback().</code>](https://github.com/linuxmint/cinnamon/commit/cce92b0db7e4fdd1826100a34ec5859edf37b7d8)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
