@@ -302,6 +302,10 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
 - [ ] [<code>actions/checkout@v3 (#1238)</code>](https://github.com/elementary/stylesheet/commit/a735bfea795f7c348d2e264ba6f4f006891e5d66)
+- [ ] [<code>HeaderBars: Style headerbars without .titlebar too</code>](https://github.com/elementary/stylesheet/commit/c0028159dd5a7767ead9a12e9a4cfb693159c823)
+- [ ] [<code>HeaderBars: Remove HdyWindow styles for gtk4</code>](https://github.com/elementary/stylesheet/commit/2b9aa7aabce8ab2656340de41f7d5194ddd62078)
+- [ ] [<code>Notebooks: Style AdwTabBar</code>](https://github.com/elementary/stylesheet/commit/88682d3e931fdd46682d3ac8f1f1e700e2514c56)
+- [ ] [<code>Windows: Support fullscreen</code>](https://github.com/elementary/stylesheet/commit/bb15232abc6167a305b4404467498d11901aea69)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -506,6 +510,10 @@
 - [ ] [<code>build: require mutter 42 (#1496)</code>](https://github.com/elementary/gala/commit/6ab08256e0f3fe65d53ba789835584b3d41be41b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix window maximize and unmaximize animations (#1557)</code>](https://github.com/elementary/gala/commit/d0abb9c0e76bfe41aaa35c1822530cd4ba870ce6)
+- [ ] [<code>Remove some deprecations and fix compile warnings (#1544)</code>](https://github.com/elementary/gala/commit/4e00b82dd792c09792103cbd5abce587788d178f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: Make close button and title respect animations key (#1551)</code>](https://github.com/elementary/gala/commit/10e5a6dfde7cc2ad62f1c3398b74b90f1a40dc59)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -644,6 +652,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Access: Minor Rework (#62)</code>](https://github.com/elementary/portals/commit/70a4c6c72f0cb1f111e95cea16aa673cf1f7ecdf)
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/portals/commit/63662182112b529e6d2cc9d0834d17fc5efed4e9)
+- [ ] [<code>Metainfo Improvements (#63)</code>](https://github.com/elementary/portals/commit/952b5796521f00f15137fe7ca4e7875cdd713419)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
