@@ -38,6 +38,8 @@
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/code/commit/268f19c18ad5ff08cc3146c6b226797f4139da13)
 - [ ] [<code>appdata: Minor wording fixes in release notes (#1269)</code>](https://github.com/elementary/code/commit/7fe0a6115a9ad9e22efb5ebd975232f09c57bcad)
 - [ ] [<code>Fix styling when no documents (#1271)</code>](https://github.com/elementary/code/commit/3fb8fe53952cd84d182bdc8d6611b15f29b5efa2)
+- [ ] [<code>Update code.metainfo.xml.in (#1273)</code>](https://github.com/elementary/code/commit/7183f799a719571f6c01c6df0abc6fd86bb22522)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -125,6 +127,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/terminal/commit/f97f9bd31f36e6c17ce7fb77f155a3e2cf8500c1)
+- [ ] [<code>Update io.elementary.terminal.appdata.xml.in (#705)</code>](https://github.com/elementary/terminal/commit/16c5d2bf5e83960869509bab33e0676d02060131)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -593,6 +597,10 @@
 - [ ] [<code>GResource all the icons (#278)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/244367c3941264ca2e8f95319caf1877066b6574)
 - [ ] [<code>WifiMenuItem: use built-in activate signal (#275)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8536a41c8d0c3adca93a136608ccc281b1e44f1d)
 - [ ] [<code>WidgetNMInterface: remove is_device (#271)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0f1abb0ee67f40cb1ab9ffac706735724c193f63)
+- [ ] [<code>Fix set_property deprecations (#273)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ffeb69379369ed57c084485296189b78b70e6c7)
+- [ ] [<code>Revert "WifiMenuItem: use built-in activate signal" (#280)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c16057136990aa15eb102e5e3d7d78d0f1ad1114)
+- [ ] [<code>libnm: Add more metadata overrides (#281)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/24e72ab5dae7dc30d3e42edae0c432f67bf91906)
+- [ ] [<code>WifiMenuItem: misc cleanup (#282)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/316aa94f3623b480ad2ba1b05c6559d673826433)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
@@ -627,6 +635,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>actions/checkout@v3 (#630)</code>](https://github.com/elementary/granite/commit/fe41ada7b9c9bd5b43bbee36a00bf27d20b7ce96)
+- [ ] [<code>Init: add ensure type (#632)</code>](https://github.com/elementary/granite/commit/2fa231174ce1b1b0113b5943ffeb7b6f186015a1)
+- [ ] [<code>Update granite.appdata.xml.in (#633)</code>](https://github.com/elementary/granite/commit/f1deeb71c1a79abd6857cb069e05fb365a337ac1)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -701,3 +711,4 @@
 - [ ] [<code>jammy: Remove gnome-remote-desktop (#96)</code>](https://github.com/elementary/seeds/commit/d00c31a0b5f86a2926770cd335de9718233d18ef)
 - [ ] [<code>Install elementary apps via apt (#98)</code>](https://github.com/elementary/seeds/commit/479da8bfa754c5f84c14bfeb8935f22f044d7455)
 - [ ] [<code>Actions: use checkout v3</code>](https://github.com/elementary/seeds/commit/25a3ba2adc91c3e632fb01baf9d70e3aed365f6e)
+- [ ] [<code>sdk: Add Granite 7</code>](https://github.com/elementary/seeds/commit/cc10bf5ff616c0897e8741a551078445acd89bea)
