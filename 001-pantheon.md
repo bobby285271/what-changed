@@ -314,6 +314,8 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
 - [ ] [<code>Remove network-vpn icons (#1178)</code>](https://github.com/elementary/icons/commit/d1edf3f25651e6c3ba4124e743484b4f219bdb78)
+- [ ] [<code>Drop exec bit from SVG files</code>](https://github.com/elementary/icons/commit/0e280a070732ffdd92578d332a753d12e30cf794)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
