@@ -68,6 +68,10 @@
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in</code>](https://github.com/elementary/files/commit/4e5ea69e58c48f2f0651ec9a1efc42d2c496ae1f)
 - [ ] [<code>Update Undo/Redo button tooltips with operation type (#2137)</code>](https://github.com/elementary/files/commit/e721ffefeff3c1befec008d766fe6652c52bef52)
 - [ ] [<code>HeaderBar: Remove defunct translator comments (#2139)</code>](https://github.com/elementary/files/commit/a844e311afb9c9af28f9d877ee298713ea466186)
+- [ ] [<code>Fix case sensitivity when providing completions for paths (#2059)</code>](https://github.com/elementary/files/commit/9ec58ab57227832223b95e0cceaa5df51f2524ca)
+- [ ] [<code>Rewrite overwrite prompt for link case (#2050)</code>](https://github.com/elementary/files/commit/a10e4e8bf8a6da638d91bbb643e7b8b4bf1d2f6e)
+- [ ] [<code>Fix browsing mtp/ptp devices with a colon in the device name (#1977)</code>](https://github.com/elementary/files/commit/6e8ea6e56a187ecaaeccda9bd3619294e4df9e15)
+- [ ] [<code>Focus FileChooser name entry when saving (#2125)</code>](https://github.com/elementary/files/commit/a1b9a28fe8c658f2ffb2994fcbdc8175796df04b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -316,6 +320,7 @@
 - [ ] [<code>Remove network-vpn icons (#1178)</code>](https://github.com/elementary/icons/commit/d1edf3f25651e6c3ba4124e743484b4f219bdb78)
 - [ ] [<code>Drop exec bit from SVG files</code>](https://github.com/elementary/icons/commit/0e280a070732ffdd92578d332a753d12e30cf794)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: Make merge.yml a valid GitHub Action (#1180)</code>](https://github.com/elementary/icons/commit/ce0393f19f3a5e1b9d1093c789a1f3b59903bb15)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
