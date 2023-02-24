@@ -6,6 +6,9 @@
 - [ ] [<code>Update POTFILES (#2006)</code>](https://github.com/elementary/appcenter/commit/12893e8d61047a96045e17cd28ac6748d4cd2d23)
 - [ ] [<code>StripeDialog: Add translator comment (#2009)</code>](https://github.com/elementary/appcenter/commit/5a55486d9cfae0d1e8daec6d2556f671c1f630cb)
 - [ ] [<code>Fix positional printf comment</code>](https://github.com/elementary/appcenter/commit/ca2911da2e483fd39d4327a3e627e2bf698d904e)
+- [ ] [<code>Release 7.2.1 (#2010)</code>](https://github.com/elementary/appcenter/commit/1e210fe79afe6a0a59e253ca54de92105dbd3efa)
+  - <sub>Tags: <code>7.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -182,6 +185,10 @@
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [6.2.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/6.2.0...HEAD)
 
+- [ ] [<code>HardwareView: Reuse translations from GLib (#260)</code>](https://github.com/elementary/switchboard-plug-about/commit/ef49ed7e718e4a81b226a26801f199e46ce9b67f)
+- [ ] [<code>HardwareView: Support GLib < 2.73 translation (#265)</code>](https://github.com/elementary/switchboard-plug-about/commit/f36d02fb5e711cbd29522214380294960fc30f6f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
