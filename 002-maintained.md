@@ -497,22 +497,8 @@
 - [ ] [<code>Fixing app script warning.</code>](https://github.com/phase1geo/minder/commit/fbf808e5b2b3d4e907f77405c5d236cba279252c)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [monitor](https://github.com/stsdc/monitor): [0.15.1 → HEAD](https://github.com/stsdc/monitor/compare/0.15.1...HEAD)
+#### [monitor](https://github.com/stsdc/monitor): [0.16.0 → HEAD](https://github.com/stsdc/monitor/compare/0.16.0...HEAD)
 
-- [ ] [<code>update gitignore</code>](https://github.com/stsdc/monitor/commit/61b7bae53d68e7fa93d9ceed222dbc8cff04ef20)
-- [ ] [<code>update gitignore</code>](https://github.com/stsdc/monitor/commit/bac7a4f9283a7edcd0351837ad4076c7dd79aa7c)
-- [ ] [<code>fix publishing to copr</code>](https://github.com/stsdc/monitor/commit/24491aaa3ab680926b440602a25228567dc9cdde)
-  - <sub>Tags: <code>0.15.1-1</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/79e3cff4e76867182ebc33fec724610769ae5438)
-- [ ] [<code>Fix typos</code>](https://github.com/stsdc/monitor/commit/0dcfffe7714aebe9498ef70410bdb1c52fa25f44)
-- [ ] [<code>Show all processes. Fix #215</code>](https://github.com/stsdc/monitor/commit/da111847a632eb7732c0b6e13270870369a7e741)
-- [ ] [<code>Merge branch 'dev' of github.com:stsdc/monitor into dev</code>](https://github.com/stsdc/monitor/commit/3ae181fe817d5cbea6d5899ef641079c110e5c9f)
-- [ ] [<code>Bit of cleanup</code>](https://github.com/stsdc/monitor/commit/3f98247f04a044db33f42fd68ceab301655d6605)
-- [ ] [<code>update some package info</code>](https://github.com/stsdc/monitor/commit/3506701426026608aaa5e5ebed6a6c8984c6798b)
-- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/c900d5d8094c9ee98980409e8e3b516ff51c8a26)
-- [ ] [<code>refresh icons</code>](https://github.com/stsdc/monitor/commit/7786ca34d6425068e7275468497109f6758e3f29)
-- [ ] [<code>Update publish-copr.yml</code>](https://github.com/stsdc/monitor/commit/446edda2c3b48818e50f03180c10650d6c9ea95b)
-- [ ] [<code>Update publish-copr.yml</code>](https://github.com/stsdc/monitor/commit/af01a2bf352dfde0ea25a343945b993896b45ee7)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
