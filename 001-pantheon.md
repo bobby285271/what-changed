@@ -1,14 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.0 → HEAD](https://github.com/elementary/appcenter/compare/7.2.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.1 → HEAD](https://github.com/elementary/appcenter/compare/7.2.1...HEAD)
 
-- [ ] [<code>Update POTFILES (#2006)</code>](https://github.com/elementary/appcenter/commit/12893e8d61047a96045e17cd28ac6748d4cd2d23)
-- [ ] [<code>StripeDialog: Add translator comment (#2009)</code>](https://github.com/elementary/appcenter/commit/5a55486d9cfae0d1e8daec6d2556f671c1f630cb)
-- [ ] [<code>Fix positional printf comment</code>](https://github.com/elementary/appcenter/commit/ca2911da2e483fd39d4327a3e627e2bf698d904e)
-- [ ] [<code>Release 7.2.1 (#2010)</code>](https://github.com/elementary/appcenter/commit/1e210fe79afe6a0a59e253ca54de92105dbd3efa)
-  - <sub>Tags: <code>7.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
