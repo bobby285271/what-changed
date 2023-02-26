@@ -69,6 +69,8 @@
 - [ ] [<code>Rewrite overwrite prompt for link case (#2050)</code>](https://github.com/elementary/files/commit/a10e4e8bf8a6da638d91bbb643e7b8b4bf1d2f6e)
 - [ ] [<code>Fix browsing mtp/ptp devices with a colon in the device name (#1977)</code>](https://github.com/elementary/files/commit/6e8ea6e56a187ecaaeccda9bd3619294e4df9e15)
 - [ ] [<code>Focus FileChooser name entry when saving (#2125)</code>](https://github.com/elementary/files/commit/a1b9a28fe8c658f2ffb2994fcbdc8175796df04b)
+- [ ] [<code>Update appdata 6.3.0 (#2147)</code>](https://github.com/elementary/files/commit/7281dbac328f1f651312cd4033a7b9520caf4431)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -645,6 +647,7 @@
 - [ ] [<code>actions/checkout@v3 (#630)</code>](https://github.com/elementary/granite/commit/fe41ada7b9c9bd5b43bbee36a00bf27d20b7ce96)
 - [ ] [<code>Init: add ensure type (#632)</code>](https://github.com/elementary/granite/commit/2fa231174ce1b1b0113b5943ffeb7b6f186015a1)
 - [ ] [<code>Update granite.appdata.xml.in (#633)</code>](https://github.com/elementary/granite/commit/f1deeb71c1a79abd6857cb069e05fb365a337ac1)
+- [ ] [<code>Add 'since' annotations to things added in 7.1 (#635)</code>](https://github.com/elementary/granite/commit/caf98fd6108416e6eb444b92879b15fb845035ee)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
