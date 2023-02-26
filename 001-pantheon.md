@@ -324,6 +324,7 @@
 - [ ] [<code>Drop exec bit from SVG files</code>](https://github.com/elementary/icons/commit/0e280a070732ffdd92578d332a753d12e30cf794)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>ci: Make merge.yml a valid GitHub Action (#1180)</code>](https://github.com/elementary/icons/commit/ce0393f19f3a5e1b9d1093c789a1f3b59903bb15)
+- [ ] [<code>Network removals (#1179)</code>](https://github.com/elementary/icons/commit/99bd6eb377caa348d813c3db6ecea5f99507bf6f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
