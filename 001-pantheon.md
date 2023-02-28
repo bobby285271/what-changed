@@ -650,6 +650,9 @@
 - [ ] [<code>Update granite.appdata.xml.in (#633)</code>](https://github.com/elementary/granite/commit/f1deeb71c1a79abd6857cb069e05fb365a337ac1)
 - [ ] [<code>Add 'since' annotations to things added in 7.1 (#635)</code>](https://github.com/elementary/granite/commit/caf98fd6108416e6eb444b92879b15fb845035ee)
 - [ ] [<code>Add since annotation to new public init method (#636)</code>](https://github.com/elementary/granite/commit/e23f83b0cc4720b362da5d5e278cd5d6c662d3af)
+- [ ] [<code>Release 7.2.0 (#634)</code>](https://github.com/elementary/granite/commit/e7447e373fa1d2906af4bfcebce30c6193ddaa8f)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
