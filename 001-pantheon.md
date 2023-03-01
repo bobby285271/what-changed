@@ -235,17 +235,8 @@
 
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1520cbccbb1de08f698780d3c87e6a8846d6a21a)
 
-#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [6.1.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/6.1.0...HEAD)
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
-- [ ] [<code>Clicking: drop support for old GNOME Settings Daemon</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ae526b1cddd72c853f1735c1e0c4820051995ecb)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/cf7528b6c83537973787569d81932c983a3b49a2)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5830fb3d10785426c01ee485e9d33e273bc052f)
-- [ ] [<code>Update io.elementary.switchboard.mouse-touchpad.appdata.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/27c9d2e457e3590a55ac6945cc797376df36f4da)
-- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e4e2befcca9112ae57e7a3f56cc2c2851de52a7b)
-- [ ] [<code>Release 7.0.0 (#200)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d9fc03e30b4b563f95b1adae84b88f65e7c35b6e)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Port to Gtk 4 (#201)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e646917bb96f2be48699779f6d356095defd3734)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -346,26 +337,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 ## desktop
 
-#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [6.0.2 → HEAD](https://github.com/elementary/default-settings/compare/6.0.2...HEAD)
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.0.1 → HEAD](https://github.com/elementary/default-settings/compare/7.0.1...HEAD)
 
-- [ ] [<code>Fix warnings introduced by Gnome 40+ and last versions of Epiphany (#263)</code>](https://github.com/elementary/default-settings/commit/83e5fff3732fc9bfaa31c053cb01244ae1378f8c)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/04de9ab28e74bc6c9c17960a67a9d88e06ab01b6)
-- [ ] [<code>Delete appcenter.hiddenapps (#268)</code>](https://github.com/elementary/default-settings/commit/8ed65c44e147ec8348cab10ab0341f2c7de35ebb)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>debian: Do not try to install things from /etc/io.elementary.appcenter</code>](https://github.com/elementary/default-settings/commit/df1215d72b365daad2298dc1d639fb1c6427e67a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/0b5923872f424404e2111098a52af627b9618fd5)
-- [ ] [<code>Plank: add Files dock item (#271)</code>](https://github.com/elementary/default-settings/commit/810e55ecc114d23270320606068bc0a5b3018953)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>GPLv3+ license added (#243)</code>](https://github.com/elementary/default-settings/commit/c228c2ea30f2382410e7d76b79136cfd853a0f06)
-- [ ] [<code>Release 7.0.0 (#272)</code>](https://github.com/elementary/default-settings/commit/2c03d1b076aac72ca2a6c346c4e247fc4c309c71)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Music Dockitem: Point to var/lib/flatpak (#274)</code>](https://github.com/elementary/default-settings/commit/7a9f1e629ba9cdc9e3f3cd8fbc237b5b678792e8)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Release 7.0.1 (#275)</code>](https://github.com/elementary/default-settings/commit/0bdd8621e6564057adb576713f5ec98c2cab9f8d)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>actions/checkout@v3 (#276)</code>](https://github.com/elementary/default-settings/commit/85bcbae0f1c69e6cb9d6551e8aaaa929e6ee09af)
   - <sub>Keywords: <code>bin</code></sub>
 
@@ -395,156 +368,14 @@
 - [ ] [<code>systemd: also pull in GSD targets (#63)</code>](https://github.com/elementary/session-settings/commit/b807ea60161294958c08cb8d53e5be82308a7f5e)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [1.2.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/1.2.1...HEAD)
+#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
-- [ ] [<code>Fixed Margins (#111)</code>](https://github.com/elementary/shortcut-overlay/commit/b50a4c45ca6a08b2fbfb802261ac096bae4befed)
-- [ ] [<code>Meson: remove positional arguments from i18n.merge_file (#113)</code>](https://github.com/elementary/shortcut-overlay/commit/130f78eb4b7770586ea98ba0a5fdbbf5bb116f3f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Port to GTK4 (#112)</code>](https://github.com/elementary/shortcut-overlay/commit/baf2ad6b954b1cb6f5eb898b5ff642c9b51bfe9e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/shortcut-overlay/commit/4cb09d073ac65460719f951f7ef4207ff67f3e35)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/shortcut-overlay/commit/d76d6baa1043be6df2135208408140d7fa41aef7)
-- [ ] [<code>ShorcutsView: use SCHEMA_GALA for panel-main-menu (#123)</code>](https://github.com/elementary/shortcut-overlay/commit/f2250d495e4646d41767933fa28b93c02d80a3dc)
-- [ ] [<code>Read screenshot shortcuts from gala schema (#124)</code>](https://github.com/elementary/shortcut-overlay/commit/284fc15b0f1f3ac95c862ff4491dda0f44763924)
-- [ ] [<code>MainWindow: Fix typo (#125)</code>](https://github.com/elementary/shortcut-overlay/commit/592f401a0151662f4381436bf0bd80f47b45bc5c)
-- [ ] [<code>Update shortcut-overlay.appdata.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/659f8e4ed03f6bb26ced6c9efb14244fb76aecd4)
-- [ ] [<code>Actions: bump release to Horus</code>](https://github.com/elementary/shortcut-overlay/commit/3d8890af75cc46f0a668319d3f39228a78acd7ad)
-- [ ] [<code>Update .pot files</code>](https://github.com/elementary/shortcut-overlay/commit/4707a2d1ad71e5f79d683a5cfd37ff9a39062b3c)
-- [ ] [<code>Meson: remove Hdy from global args (#127)</code>](https://github.com/elementary/shortcut-overlay/commit/bc1231d336f7b619a8d8b6879bef10a511b61e23)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 2.0.0 (#126)</code>](https://github.com/elementary/shortcut-overlay/commit/e5f206eea1b347a22ad1c74090fa9873693097d8)
-  - <sub>Tags: <code>2.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Close window on Ctrl+Q (#130)</code>](https://github.com/elementary/shortcut-overlay/commit/688554757a26adf9c9da0a34b2fbd4c21ad7fd60)
-- [ ] [<code>Show on-screen keyboard shortcut (#128)</code>](https://github.com/elementary/shortcut-overlay/commit/9f810866438c4dc24e803edb4f29fb28f580830d)
-- [ ] [<code>Update pot</code>](https://github.com/elementary/shortcut-overlay/commit/494c8bfe3c2419df1c67979832c85b960cb296ae)
-- [ ] [<code>Replace header icon with button (#129)</code>](https://github.com/elementary/shortcut-overlay/commit/e76fb24aa76648acfe783009c15c8da0b4fa27bd)
-- [ ] [<code>Re-show in Applications Menu (#131)</code>](https://github.com/elementary/shortcut-overlay/commit/25aa8d491a71c9b4d8fe6e95aa418977dd850228)
-- [ ] [<code>Use Gtk.EventControllerFocus (#132)</code>](https://github.com/elementary/shortcut-overlay/commit/d7d36c1bfc57171b3c3946d261123df4a243240c)
-- [ ] [<code>Fix Gettext Action (#133)</code>](https://github.com/elementary/shortcut-overlay/commit/76f90799eeaa1beb18cce93bde77e900d582ac72)
-- [ ] [<code>Update shortcut-overlay.appdata.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/c4b4f20665ae02908b23a1f171e0a75322a49e1f)
-- [ ] [<code>Release 2.0.1 (#135)</code>](https://github.com/elementary/shortcut-overlay/commit/0e749dfbf8424bffa71d26917a10dd0a9833fd50)
-  - <sub>Tags: <code>2.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [6.3.1 → HEAD](https://github.com/elementary/gala/compare/6.3.1...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [7.0.1 → HEAD](https://github.com/elementary/gala/compare/7.0.1...HEAD)
 
-- [ ] [<code>Dialogs: add CloseDialog (#1340)</code>](https://github.com/elementary/gala/commit/f0916a669bdb3c4b34870e4114466dc5bc320949)
-- [ ] [<code>Tooltip: Remove text size workaround for Mutter 10</code>](https://github.com/elementary/gala/commit/268a1976df2645b80d33fb18c8cd79833470a310)
-- [ ] [<code>Update to latest mutter bindings and use Transition objects (#1406)</code>](https://github.com/elementary/gala/commit/60861a4c701d6318fcbed428988cf06f08c2b936)
-- [ ] [<code>Use Clutter.Grab with Mutter 42 (#1407)</code>](https://github.com/elementary/gala/commit/9641704ec7f8097adc96616b1ff2a64290023d32)
-- [ ] [<code>WindowSwitcher: Fix missing focus on selected window upon release key with Mutter 42 (#1408)</code>](https://github.com/elementary/gala/commit/f9008e4f7a028b2f5fd4c09341a0af857b9759b6)
-- [ ] [<code>Move panel-main-menu schema in house (#1409)</code>](https://github.com/elementary/gala/commit/1e223b3027913e64e61278509390ed13bfe7affa)
-- [ ] [<code>Move screenshot shortcuts in-house (#1411)</code>](https://github.com/elementary/gala/commit/e86a9518c24b742118b8624e34f84cb0ef76c7bd)
-- [ ] [<code>Fix initial alt-tab switcher indicator visibility. (#1417)</code>](https://github.com/elementary/gala/commit/e0095415cdbfc369e6482e84b8aaffc6a04cafe7)
-- [ ] [<code>WorkspaceClone: draw stroke with Cairo (#1419)</code>](https://github.com/elementary/gala/commit/890f78d7f9b3d6a651e9b65641bd3762405ac6ae)
-- [ ] [<code>MultitaskingView: Remove key_focus_out override (#1418)</code>](https://github.com/elementary/gala/commit/fc838d7add2c42f8d7d9d4a09478688edce60b90)
-- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/cce2c8878017c75f5477fc9fc87a83dcd42bd839)
-- [ ] [<code>Use preferences-desktop-workspaces icon from system (#1424)</code>](https://github.com/elementary/gala/commit/902d79ee9d1fa6ab123850dfd1c713cb527ecf40)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Granite drawing removals (#1428)</code>](https://github.com/elementary/gala/commit/f74d8fdad56b9f1d8d4d8e6231078afb66596cf5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>hotcorners: Add a minimum time delay between trigger and re-trigger events(#1421)</code>](https://github.com/elementary/gala/commit/f09b95c564a0d07c4cb1de1ee427b680f2b596d8)
-- [ ] [<code>WindowManager: save/restore easing on workspace switch (#1430)</code>](https://github.com/elementary/gala/commit/1f94db16c627f73af5dc69714611815e4691b5e8)
-- [ ] [<code>WindowManager: set workspace switch duration directly (#1429)</code>](https://github.com/elementary/gala/commit/87547ef50f9db312b4ebec751b55d9617b0f8f91)
-- [ ] [<code>WindowClone: explicit namespace, make internal classes private (#1433)</code>](https://github.com/elementary/gala/commit/14cdefed9d7638fb608c5fc774d03f13efd6a63f)
-- [ ] [<code>Dialogs: use computer-fail for force quit dialog (#1432)</code>](https://github.com/elementary/gala/commit/28954a6953d303f0a5aa05ed66202e4c5265ee3e)
-- [ ] [<code>DBusAccelerator: Use the same version as in the greeter (#1437)</code>](https://github.com/elementary/gala/commit/6764d352394e244252859e5ef358b2ba0eabee31)
-- [ ] [<code>POTFILES: Add src/Dialogs.vala (#1450)</code>](https://github.com/elementary/gala/commit/f1e6c83d58d37062ee89393792ed5cb8370d51c5)
-- [ ] [<code>Add support for Mutter 43 (#1451)</code>](https://github.com/elementary/gala/commit/0631debf0e2132de052c906e830eb23477251ea2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Update to latest mutter-11 changes</code>](https://github.com/elementary/gala/commit/40bd02c621696c90287959260116d981039b9a57)
-- [ ] [<code>Fix multitasking view allocation assertions (#1463)</code>](https://github.com/elementary/gala/commit/23c7edeb0ee9b0ff0aa48c1d19fbd1739df7af78)
-- [ ] [<code>WindowClone: Always add the click action (#1464)</code>](https://github.com/elementary/gala/commit/d9ebac365ca5d1f427070ac99d255024b18026a7)
-- [ ] [<code>Option to dim wallpapers when dark style is active (#1462)</code>](https://github.com/elementary/gala/commit/16492b1f7103e7d2fb89e13eeaf69880f2885247)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Don't animate workspaces behind multitasking view (#1466)</code>](https://github.com/elementary/gala/commit/a12c1a1c475e394960f5c96faa3b9905490ba622)
-- [ ] [<code>DnD: Stop using captured_event in Mutter 42 (#1468)</code>](https://github.com/elementary/gala/commit/47c4e8346b99cd07ff9477da5259f4de3c21a719)
-- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d536ce1618ae9abccaa2324b5c12265e7eab23d9)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/f54d0860f80d04cab75b108061b56bf426450a6e)
-- [ ] [<code>WindowClone: Make sure that the clone is setup before using it (#1470)</code>](https://github.com/elementary/gala/commit/2743c44285358737bed3ab56d7f1194125fa30eb)
-- [ ] [<code>App: Implement Applications Management (#1241)</code>](https://github.com/elementary/gala/commit/7c540a2a0669fb7de84ed1071f85f5d331398040)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Release 6.3.2 (#1422)</code>](https://github.com/elementary/gala/commit/75fd668ac96d20258b9656852ea40298f8c9093a)
-  - <sub>Tags: <code>6.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add posix to the list of Vala dependencies (#1472)</code>](https://github.com/elementary/gala/commit/fe1d3d031f6a85e25d82c72441ddcf0b8c248324)
-- [ ] [<code>AppSystem: make wmclass nullable</code>](https://github.com/elementary/gala/commit/ea26a61029194f3a464fe1f241f6f3e7c990f1cd)
-- [ ] [<code>PiP: Fix window resizing on Mutter 42</code>](https://github.com/elementary/gala/commit/08b2930c52f45c8b44d26ddfe3801c0633156242)
-- [ ] [<code>Simplify</code>](https://github.com/elementary/gala/commit/38eddf28ea6415e8707477f9a64067e0c9c903f2)
-- [ ] [<code>DnD: Ignore clicks on destination-only actors</code>](https://github.com/elementary/gala/commit/9e3b506d8faead047aae1486c45c905a0f2c59fa)
-- [ ] [<code>Appdata: Add release notes for 6.3.3</code>](https://github.com/elementary/gala/commit/1909f820d60a7311fb9cf240196691102ec89b8a)
-- [ ] [<code>Release 6.3.3 (#1480)</code>](https://github.com/elementary/gala/commit/34f7c03779478f70e533e7cd44511782b0392901)
-  - <sub>Tags: <code>6.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Reload animated wallpapers when timezone changes (#1461)</code>](https://github.com/elementary/gala/commit/2c6aa503b6b7886db1b8acf0e6c60dff8ed9ae14)
-- [ ] [<code>Temporary workaround for crash when a notification expires while we are switching workspaces (#1497)</code>](https://github.com/elementary/gala/commit/8842e576e3e8643a018d506605f80d152e3f5cec)
-- [ ] [<code>ShadowEffect: let Clutter know the shadow's size (#1500)</code>](https://github.com/elementary/gala/commit/34a208e26d2ee0bf4a1689c8ad6ddfc06c540ff8)
-- [ ] [<code>Fix awkward two-finger scroll in multitasking view (#1499)</code>](https://github.com/elementary/gala/commit/c175d2662dd05e940a5b3311cc9dc285242b7fc5)
-- [ ] [<code>Don't reconfigure hot corners on monitors_changed event when there are no monitors</code>](https://github.com/elementary/gala/commit/1487660812a343e6a6178881e6e7b25c2405cece)
-- [ ] [<code>Fix zoom</code>](https://github.com/elementary/gala/commit/b9c5c9c79a045c3eef7695f74f82d851438ba7e2)
-- [ ] [<code>Remove space</code>](https://github.com/elementary/gala/commit/49d3ddae5b631027466ff528c2935e05a8f5dc3f)
-- [ ] [<code>Update src/Zoom.vala</code>](https://github.com/elementary/gala/commit/0121541fcaaa806e42476f6da7e1de88afcdbdea)
-- [ ] [<code>Fixes</code>](https://github.com/elementary/gala/commit/45126e4c2d3736e872c05941a2047a54788cd011)
-- [ ] [<code>Improve multitasking view animation performance (#1498)</code>](https://github.com/elementary/gala/commit/2d43311d7e4b28bc228dda0f428e00ea786e62bf)
-- [ ] [<code>Fix workspace switching in multitasking view</code>](https://github.com/elementary/gala/commit/0d8a4a87afd337f6cc588ba4247d3d3abdfdd5b4)
-- [ ] [<code>6.4.0 Release notes (#1509)</code>](https://github.com/elementary/gala/commit/8dd412ab28570480667d4e1586b379a67705ea51)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/9ed0472dbe29f93683e3388ff8ae6bb5c6f892ff)
-- [ ] [<code>Update main.yml</code>](https://github.com/elementary/gala/commit/9ca6c585c59a0c0c98a934ed44cb0c773f4e3c1c)
-- [ ] [<code>Update CI for Horus/Jammy (#1511)</code>](https://github.com/elementary/gala/commit/6aac733cec606f6977784aa39886e117e80821f5)
-- [ ] [<code>Release 7.0.0 (#1510)</code>](https://github.com/elementary/gala/commit/5392f693e61d781c0eb0f708ed5ccbd560bf7dce)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowClone: Fix shadows (#1503)</code>](https://github.com/elementary/gala/commit/223fdb0135a1f046128e9906e87f40a21cca8fa6)
-- [ ] [<code>Allow KeyBindingAction.NONE in Multitasking View</code>](https://github.com/elementary/gala/commit/0cf4429676318b3b03dcd2f30b4318db6a854c28)
-- [ ] [<code>Dialogs: remove dbus timeout from AccessDialog call</code>](https://github.com/elementary/gala/commit/4bf55e76dbee7c6fd03f445c87c93c355ca83561)
-- [ ] [<code>WindowManager: confirm_display_change() fixes</code>](https://github.com/elementary/gala/commit/05dceba10dc25bee3df1f74defad8ef055a8ea3e)
-- [ ] [<code>Fix IconGroup close button animation (#1522)</code>](https://github.com/elementary/gala/commit/40c7b5b4caa66bc239d2da2c32cb4cb4d84e5ab1)
-- [ ] [<code>Better super key filter in multitasking view (#1523)</code>](https://github.com/elementary/gala/commit/bef947e1b99af3ba06d74267820c686ca7fa8c47)
-- [ ] [<code>ShadowEffect: inline namespace, copy to PIP (#1520)</code>](https://github.com/elementary/gala/commit/5bdfd5a1f2dbe9df80b49e243c9f0278689c01c3)
-- [ ] [<code>WindowClone: Remove custom WindowShadowEffect class (#1531)</code>](https://github.com/elementary/gala/commit/25d995079e43b24ee14f522eae2d83066a90292a)
-- [ ] [<code>WindowClone: Cleanup (#1532)</code>](https://github.com/elementary/gala/commit/5631c6bea37ed0565581397a0deb2dc29a401fdf)
-- [ ] [<code>Extend list of allowed keybindings in multitasking view (#1530)</code>](https://github.com/elementary/gala/commit/a1780c962336897142dfb1193df6a58be40b7f7a)
-- [ ] [<code>WorkspaceInsertThumb: Code style fixes (#1533)</code>](https://github.com/elementary/gala/commit/3652e9b5fd4cccf854eb02bf00c7059c4043b630)
-- [ ] [<code>Allow zoom keybindings in multitasking view (#1535)</code>](https://github.com/elementary/gala/commit/c917c6efba1a6e472a0201f969c671cff4358e48)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/gala/commit/fc08f7500c77bd7a4e8eb818b9d844464974da63)
-- [ ] [<code>Use explicit Clutter and Meta namespaces</code>](https://github.com/elementary/gala/commit/9d3adf507ecaa0b0392be0947063933851af1cc4)
-- [ ] [<code>Fix indentation</code>](https://github.com/elementary/gala/commit/c69171b5c6caba774d084b881409e17d22903fcb)
-- [ ] [<code>PIP: Fix log spam (#1521)</code>](https://github.com/elementary/gala/commit/37c3e8810b753f64db8cd8f9b95777759cc2894e)
-- [ ] [<code>Dialogs: Improve force quit string (#1540)</code>](https://github.com/elementary/gala/commit/75a008fe4001c1cb8888ee31de60fb9660ef141e)
-- [ ] [<code>Always use `private` keyword (#1543)</code>](https://github.com/elementary/gala/commit/e212898742e007ccaf831f0609081f365fcef0f8)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>WindowClone: Add click action only in overview mode (#1542)</code>](https://github.com/elementary/gala/commit/7b8f13f76fdbe1f999a9edfa35fe83b93c523458)
-- [ ] [<code>Fix multitasking view animations (#1529)</code>](https://github.com/elementary/gala/commit/1ca12ac212a71c483e8fedb9a0d028c298dc9b62)
-- [ ] [<code>Fix PiP positioning offset (#1507)</code>](https://github.com/elementary/gala/commit/2473752de37fb0ad4273c2ef8724aed8cdeea541)
-- [ ] [<code>Fix PiP window being undraggable (#1506)</code>](https://github.com/elementary/gala/commit/37fea81035d061cb62687ea5a491bef9fdcba302)
-- [ ] [<code> WindowClone: Fix warnings in window overview (#1549)</code>](https://github.com/elementary/gala/commit/9443686190c12177bf33ffd03b462ebb962d6171)
-- [ ] [<code>WindowOverview: Cleanup (#1548)</code>](https://github.com/elementary/gala/commit/50bc99a5ee1dbe4e82e5580f39a414e0054edc4a)
-- [ ] [<code>PiP: Respect animations key (#1546)</code>](https://github.com/elementary/gala/commit/f2c2d438e292dae4c092b552b0782ab11418e9dc)
-- [ ] [<code>Revert "Draft: Fix PiP window being undraggable" (#1553)</code>](https://github.com/elementary/gala/commit/aa96c72de7a3281e25efc89e4eb073d5a5241941)
-- [ ] [<code>Update appdata with fixed issues (#1556)</code>](https://github.com/elementary/gala/commit/57f7f292d3cd1c00b1d16bd1c08687b9bb2ec0d2)
-- [ ] [<code>build: require mutter 42 (#1496)</code>](https://github.com/elementary/gala/commit/6ab08256e0f3fe65d53ba789835584b3d41be41b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix window maximize and unmaximize animations (#1557)</code>](https://github.com/elementary/gala/commit/d0abb9c0e76bfe41aaa35c1822530cd4ba870ce6)
-- [ ] [<code>Remove some deprecations and fix compile warnings (#1544)</code>](https://github.com/elementary/gala/commit/4e00b82dd792c09792103cbd5abce587788d178f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowClone: Make close button and title respect animations key (#1551)</code>](https://github.com/elementary/gala/commit/10e5a6dfde7cc2ad62f1c3398b74b90f1a40dc59)
-- [ ] [<code>IconGroup: Make close button respect animations key (#1554)</code>](https://github.com/elementary/gala/commit/8fa6f8a550df66d43d9ed59f1264041f61a9eeb3)
-- [ ] [<code>Cleanup after #1557 (#1559)</code>](https://github.com/elementary/gala/commit/b3e5d7af288c1d2a5791acfa5983f9b55b7b11bc)
-- [ ] [<code>DragDropAction: Activate click signal on release (#1560)</code>](https://github.com/elementary/gala/commit/3c98ecac06b6e2ae870b86d4db85209b54fc19a8)
-- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/b0b0f8025ab88219ce4c7b99b3e074bc88e4c62f)
-- [ ] [<code>WindowIcon: Cleanup (#1561)</code>](https://github.com/elementary/gala/commit/0605f63c49bebd42e35eee10f132559ddf2b18d3)
-- [ ] [<code>Unify move to workspace behaviour (#1562)</code>](https://github.com/elementary/gala/commit/0230b5bdaca6152024732d3826d4b6509574a0b2)
-- [ ] [<code>Release 7.0.1 (#1555)</code>](https://github.com/elementary/gala/commit/c56032e0ac12047f1f9c53d4d4e8524d1c2df723)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -553,14 +384,8 @@
 
 ## desktop/wingpanel-indicators
 
-#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.0 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.0...HEAD)
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
 
-- [ ] [<code>Move panel-main-menu to Gala schema (#556)</code>](https://github.com/elementary/applications-menu/commit/975edd009b912e0414ad69dd9a6f8e7950e0b57c)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>AppData: Remove old releases</code>](https://github.com/elementary/applications-menu/commit/7aa2211ea099499bcb32a0232641797e1a268d5f)
-- [ ] [<code>Release 2.11.1 (#557)</code>](https://github.com/elementary/applications-menu/commit/98bf930d5ab9f18411da0f397304137730211706)
-  - <sub>Tags: <code>2.11.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/applications-menu/commit/3d2619e81d480517d9899101645d6d33a1aad765)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
