@@ -71,6 +71,9 @@
 - [ ] [<code>Focus FileChooser name entry when saving (#2125)</code>](https://github.com/elementary/files/commit/a1b9a28fe8c658f2ffb2994fcbdc8175796df04b)
 - [ ] [<code>Update appdata 6.3.0 (#2147)</code>](https://github.com/elementary/files/commit/7281dbac328f1f651312cd4033a7b9520caf4431)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Release 6.3.0 (#2140)</code>](https://github.com/elementary/files/commit/aa42466c9ee69bd874e2fca81ba9b89ef9baa104)
+  - <sub>Tags: <code>6.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -132,6 +135,10 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/terminal/commit/f97f9bd31f36e6c17ce7fb77f155a3e2cf8500c1)
 - [ ] [<code>Update io.elementary.terminal.appdata.xml.in (#705)</code>](https://github.com/elementary/terminal/commit/16c5d2bf5e83960869509bab33e0676d02060131)
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Rework Application Class (#702)</code>](https://github.com/elementary/terminal/commit/7a60d50147df250bccc80126bb76d912aefe5dc5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Application: fix spelling mistake</code>](https://github.com/elementary/terminal/commit/8e11b9f08f0c3fef473e1b4edb24c8fe5906ca68)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -534,6 +541,10 @@
 - [ ] [<code>DragDropAction: Activate click signal on release (#1560)</code>](https://github.com/elementary/gala/commit/3c98ecac06b6e2ae870b86d4db85209b54fc19a8)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/b0b0f8025ab88219ce4c7b99b3e074bc88e4c62f)
 - [ ] [<code>WindowIcon: Cleanup (#1561)</code>](https://github.com/elementary/gala/commit/0605f63c49bebd42e35eee10f132559ddf2b18d3)
+- [ ] [<code>Unify move to workspace behaviour (#1562)</code>](https://github.com/elementary/gala/commit/0230b5bdaca6152024732d3826d4b6509574a0b2)
+- [ ] [<code>Release 7.0.1 (#1555)</code>](https://github.com/elementary/gala/commit/c56032e0ac12047f1f9c53d4d4e8524d1c2df723)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -612,6 +623,9 @@
 - [ ] [<code>Revert "WifiMenuItem: use built-in activate signal" (#280)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c16057136990aa15eb102e5e3d7d78d0f1ad1114)
 - [ ] [<code>libnm: Add more metadata overrides (#281)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/24e72ab5dae7dc30d3e42edae0c432f67bf91906)
 - [ ] [<code>WifiMenuItem: misc cleanup (#282)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/316aa94f3623b480ad2ba1b05c6559d673826433)
+- [ ] [<code>Release 7.0.0 (#270)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d45f9d0bf9913d52a438a5ce28aa03f4c99fa7a9)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
@@ -640,19 +654,8 @@
 - [ ] [<code>PlayerRow: keep labels consistent (#247)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6b9d60ae8bbbce01599799d683d50651b9b81a6d)
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.1.0 → HEAD](https://github.com/elementary/granite/compare/7.1.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.2.0 → HEAD](https://github.com/elementary/granite/compare/7.2.0...HEAD)
 
-- [ ] [<code>Add icon and use it (#629)</code>](https://github.com/elementary/granite/commit/1c51d311013a9c3fabd68426864295fa187d288d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>actions/checkout@v3 (#630)</code>](https://github.com/elementary/granite/commit/fe41ada7b9c9bd5b43bbee36a00bf27d20b7ce96)
-- [ ] [<code>Init: add ensure type (#632)</code>](https://github.com/elementary/granite/commit/2fa231174ce1b1b0113b5943ffeb7b6f186015a1)
-- [ ] [<code>Update granite.appdata.xml.in (#633)</code>](https://github.com/elementary/granite/commit/f1deeb71c1a79abd6857cb069e05fb365a337ac1)
-- [ ] [<code>Add 'since' annotations to things added in 7.1 (#635)</code>](https://github.com/elementary/granite/commit/caf98fd6108416e6eb444b92879b15fb845035ee)
-- [ ] [<code>Add since annotation to new public init method (#636)</code>](https://github.com/elementary/granite/commit/e23f83b0cc4720b362da5d5e278cd5d6c662d3af)
-- [ ] [<code>Release 7.2.0 (#634)</code>](https://github.com/elementary/granite/commit/e7447e373fa1d2906af4bfcebce30c6193ddaa8f)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -688,6 +691,9 @@
 - [ ] [<code>Access: Minor Rework (#62)</code>](https://github.com/elementary/portals/commit/70a4c6c72f0cb1f111e95cea16aa673cf1f7ecdf)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/portals/commit/63662182112b529e6d2cc9d0834d17fc5efed4e9)
 - [ ] [<code>Metainfo Improvements (#63)</code>](https://github.com/elementary/portals/commit/952b5796521f00f15137fe7ca4e7875cdd713419)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 7.0.0 (#64)</code>](https://github.com/elementary/portals/commit/ceb60df670565c70f9cb74a8b4c1716a69089cf9)
+  - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
