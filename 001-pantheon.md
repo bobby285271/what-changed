@@ -451,6 +451,10 @@
 - [ ] [<code>Release 7.0.0 (#270)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d45f9d0bf9913d52a438a5ce28aa03f4c99fa7a9)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use dbus_call for setting airplane mode (#285)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/cf513ce31540ac16e497ee04defe2fbaadf47538)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>VpnInterface: catch errors in activate_cb (#286)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/2387987e6d74909a75978c2480f5004a0afd7d3d)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
