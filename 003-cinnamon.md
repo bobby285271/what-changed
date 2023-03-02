@@ -24,6 +24,8 @@
 - [ ] [<code>gwl: Fix typo.</code>](https://github.com/linuxmint/cinnamon/commit/b475c392f749d52524a90d6bc2408cfcf2c8d09b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sound applet: Clear the source ID in Seeker._timerCallback().</code>](https://github.com/linuxmint/cinnamon/commit/cce92b0db7e4fdd1826100a34ec5859edf37b7d8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list: Fix signal name for tile notifications.</code>](https://github.com/linuxmint/cinnamon/commit/28bd0516248e532e209083b2d4b3968b772556d0)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -90,6 +92,8 @@
 - [ ] [<code>meta-gpu-xrandr: Account for the current user text scale factor</code>](https://github.com/linuxmint/muffin/commit/c3221924fdf409f820311c4e37ce9e6f912ff34b)
 - [ ] [<code>window.c: Allow meta_window_get_xwindow() to be used with</code>](https://github.com/linuxmint/muffin/commit/e44d231d547cb6503c09df449ac37d8fdf61decc)
 - [ ] [<code>Restore some global signals.</code>](https://github.com/linuxmint/muffin/commit/e78b8335f3113c38b7611193ae55ff3e14820961)
+- [ ] [<code>window.c: Restore property notify for the tile mode property.</code>](https://github.com/linuxmint/muffin/commit/e232f8e118176e03f42428b442ac4cab868240b9)
+- [ ] [<code>place.c: Add missing import.</code>](https://github.com/linuxmint/muffin/commit/63c7161bc0513db5727bc883269a356f64229572)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.3...HEAD)
