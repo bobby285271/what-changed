@@ -455,6 +455,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>VpnInterface: catch errors in activate_cb (#286)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/2387987e6d74909a75978c2480f5004a0afd7d3d)
+- [ ] [<code>Release 7.0.1 (#290)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/73e06927aec790c56b6d92f93df0e5ed0aa55788)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
