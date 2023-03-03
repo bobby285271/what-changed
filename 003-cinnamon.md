@@ -37,7 +37,10 @@
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.1...HEAD)
 
 - [ ] [<code>gnome-desktop-thumbnail.c: Use g_get_user_cache_dir() for thumbnail</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8247b2d146d76022d788db759ba688b335736d19)
+- [ ] [<code>privacy settings: Add some more for portal support.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ccc87fee3f7a97652313aabe6f92b56efaca6861)
+- [ ] [<code>Add new enums, settings key for xdg-desktop-portal color-scheme.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/d880133b38da46b22421f38639ddd384692002f0)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
 
