@@ -3,6 +3,8 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.1 → HEAD](https://github.com/elementary/appcenter/compare/7.2.1...HEAD)
 
+- [ ] [<code>Create AuthorView (#1997)</code>](https://github.com/elementary/appcenter/commit/a1ba75b0997c37d753638b78b6e6c1f194b799df)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -74,6 +76,7 @@
 - [ ] [<code>Release 6.3.0 (#2140)</code>](https://github.com/elementary/files/commit/aa42466c9ee69bd874e2fca81ba9b89ef9baa104)
   - <sub>Tags: <code>6.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add back mount option to unmounted VolumeRow. (#2145)</code>](https://github.com/elementary/files/commit/6d88de124296fb3889594c99fd43a13e1ce7f785)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -139,6 +142,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Application: fix spelling mistake</code>](https://github.com/elementary/terminal/commit/8e11b9f08f0c3fef473e1b4edb24c8fe5906ca68)
+- [ ] [<code>Escape '#' except when fragment identifier (#631)</code>](https://github.com/elementary/terminal/commit/4ee7da6e54e5ece15e22593b5e8d60ba208a6fb2)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -458,6 +462,8 @@
 - [ ] [<code>Release 7.0.1 (#290)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/73e06927aec790c56b6d92f93df0e5ed0aa55788)
   - <sub>Tags: <code>7.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4aa0e27729cac1332bf37551130157dda9700fc2)
+- [ ] [<code>PopoverWidget: fix flowbox child focus (#288)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/88db9004249334e1316321e0373a3065900fe6f1)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
