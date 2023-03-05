@@ -497,7 +497,7 @@
 - [ ] [<code>Fixing app script warning.</code>](https://github.com/phase1geo/minder/commit/fbf808e5b2b3d4e907f77405c5d236cba279252c)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [monitor](https://github.com/stsdc/monitor): [0.16.0 → HEAD](https://github.com/stsdc/monitor/compare/0.16.0...HEAD)
+#### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
