@@ -349,6 +349,25 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
 - [ ] [<code>actions/checkout@v3 (#631)</code>](https://github.com/elementary/greeter/commit/6fc56a995e1e5114a26961e3414eb78cf03df767)
+- [ ] [<code>ci: Switch to mutter-10</code>](https://github.com/elementary/greeter/commit/ddd8ea71da73b10172b7ddbf3869ff130edfb15f)
+- [ ] [<code>WindowManager: Cleanup</code>](https://github.com/elementary/greeter/commit/0dd13e61bc4c3eafec5bfaaefc62c13987751e2d)
+- [ ] [<code>Utils: Remove unused functions</code>](https://github.com/elementary/greeter/commit/f7618553bcb6e7503913d3bba237497f36ff9c8d)
+- [ ] [<code>Remove unused variables</code>](https://github.com/elementary/greeter/commit/f3fed5340a674d0614c28e3c8404b865e3bbcbb2)
+- [ ] [<code>AccessDialog: Copy changes from Gala</code>](https://github.com/elementary/greeter/commit/c05d6dad459280a751c41968b0743047794a3190)
+- [ ] [<code>WindowManager: confirm_display_change() Fixes</code>](https://github.com/elementary/greeter/commit/c25ec8284f2e95e1654bdc97d8a77fd3d1f57222)
+- [ ] [<code>vapi: Convert `elif` blocks to `if` blocks</code>](https://github.com/elementary/greeter/commit/a2cba5aa4207ee10b4b887c5d49ae82bf031bf5c)
+- [ ] [<code>build: Require mutter 3.38</code>](https://github.com/elementary/greeter/commit/167a7bb219eba048b540f79209943f2447279a58)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 40</code>](https://github.com/elementary/greeter/commit/5dd8b37abd27c4cb31b57670265230f38978bbfc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 41</code>](https://github.com/elementary/greeter/commit/a23605db4ec71611a175e00ff0c88cd8943fb6c8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 42</code>](https://github.com/elementary/greeter/commit/b00bb4dc4918a1735e855d6b85344e2069c3c8ef)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -380,6 +399,7 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [7.0.1 → HEAD](https://github.com/elementary/gala/compare/7.0.1...HEAD)
 
+- [ ] [<code>vapi: Sync with greeter (#1565)</code>](https://github.com/elementary/gala/commit/62e9f8d290cc3a023b04dd103e7131154e94a4b1)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
