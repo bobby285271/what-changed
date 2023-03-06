@@ -442,46 +442,8 @@
 
 - [ ] [<code>actions/checkout@v3 (#120)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d4f944158d02f6ee51dc94d7e5d2230583f212ae)
 
-#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [2.3.4 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/2.3.4...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.0.1...HEAD)
 
-- [ ] [<code>Add airplane mode switch to popover; add middle-click tooltip (#235)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1c19314a1911648a76321fef7acca834e32da37a)
-- [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8349de590e34a19c9d542e75e595f9c8cd8439a5)
-- [ ] [<code>Use disambiguate_names from NM (#260)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/570bfd828e806b889875567e05ce34fab811416d)
-- [ ] [<code>WifiInterface: use NM.DeviceState (#264)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/66b7df7684a819569717d539a8999965bddec1b5)
-- [ ] [<code>Update NetworkManager vapi files (#265)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/2e9aa37e90d886617093fad002aef0ce3ff54802)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>vapi: Only allow to generate the vapi if the dependencies are found (#266)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c673cc1c24cad399f2ed16ab0bf02ec08f8ab01a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Indicator: get interfaces from list, not widget (#261)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/242921f97288ae60f2b5593f7ac516663f61c1cb)
-- [ ] [<code>PopoverWidget: get ifaces from list, not widget (#262)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/54e62cc2ebc66b58901ea8ee71e0e033b3d3e82e)
-- [ ] [<code>Use circular toggles for airplane mode and ethernet (#258)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5838409c7f4e968a01c5056bae6b0e3fc96434ce)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Move classes from common (#259)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ef9e8035b7da0f02bcb738d55588912d1184418b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>PopoverWidget: list VPNs above wifi (#267)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5d5591597b43c1f776346990fb0980b29d19d73)
-- [ ] [<code>Show VPN as a FlowBox of ToggleButtons (#268)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b4123ebc5fdff0507c74cc2c48b272dd7a0d5c86)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1b43ca13c81e665fe21de40b432220b5e109a608)
-- [ ] [<code>Appdata updates (#277)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/83149037b1325265bd9c9e938eee3ea8bae54f49)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>GResource all the icons (#278)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/244367c3941264ca2e8f95319caf1877066b6574)
-- [ ] [<code>WifiMenuItem: use built-in activate signal (#275)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/8536a41c8d0c3adca93a136608ccc281b1e44f1d)
-- [ ] [<code>WidgetNMInterface: remove is_device (#271)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0f1abb0ee67f40cb1ab9ffac706735724c193f63)
-- [ ] [<code>Fix set_property deprecations (#273)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ffeb69379369ed57c084485296189b78b70e6c7)
-- [ ] [<code>Revert "WifiMenuItem: use built-in activate signal" (#280)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c16057136990aa15eb102e5e3d7d78d0f1ad1114)
-- [ ] [<code>libnm: Add more metadata overrides (#281)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/24e72ab5dae7dc30d3e42edae0c432f67bf91906)
-- [ ] [<code>WifiMenuItem: misc cleanup (#282)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/316aa94f3623b480ad2ba1b05c6559d673826433)
-- [ ] [<code>Release 7.0.0 (#270)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d45f9d0bf9913d52a438a5ce28aa03f4c99fa7a9)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use dbus_call for setting airplane mode (#285)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/cf513ce31540ac16e497ee04defe2fbaadf47538)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>VpnInterface: catch errors in activate_cb (#286)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/2387987e6d74909a75978c2480f5004a0afd7d3d)
-- [ ] [<code>Release 7.0.1 (#290)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/73e06927aec790c56b6d92f93df0e5ed0aa55788)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4aa0e27729cac1332bf37551130157dda9700fc2)
 - [ ] [<code>PopoverWidget: fix flowbox child focus (#288)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/88db9004249334e1316321e0373a3065900fe6f1)
 
@@ -539,21 +501,8 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [1.2.0 → HEAD](https://github.com/elementary/portals/compare/1.2.0...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.0.0 → HEAD](https://github.com/elementary/portals/compare/7.0.0...HEAD)
 
-- [ ] [<code>AppChooser: Make primary text translatable (#59)</code>](https://github.com/elementary/portals/commit/861436e7f9d660b303428b300dc57c51cc97345a)
-- [ ] [<code>Update Meson Files (#61)</code>](https://github.com/elementary/portals/commit/8b2b7999460e061b42d21050d163a6cbf30f43ae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Port to Gtk4 (#53)</code>](https://github.com/elementary/portals/commit/1c47d7a28d6c8acb0e5478de558e4a6465000dd0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Access: Minor Rework (#62)</code>](https://github.com/elementary/portals/commit/70a4c6c72f0cb1f111e95cea16aa673cf1f7ecdf)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/portals/commit/63662182112b529e6d2cc9d0834d17fc5efed4e9)
-- [ ] [<code>Metainfo Improvements (#63)</code>](https://github.com/elementary/portals/commit/952b5796521f00f15137fe7ca4e7875cdd713419)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 7.0.0 (#64)</code>](https://github.com/elementary/portals/commit/ceb60df670565c70f9cb74a8b4c1716a69089cf9)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
