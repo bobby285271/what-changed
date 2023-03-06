@@ -223,6 +223,31 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.5...HEAD)
 
+- [ ] [<code>build: Fix deprecation warning.</code>](https://github.com/linuxmint/warpinator/commit/d655bba8c3599dca3b805165fbed1bddd5a3b2a7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>notifications: Fix indentation.</code>](https://github.com/linuxmint/warpinator/commit/e78375529e676aa6264187ec4e813fdbf0c5d3fb)
+- [ ] [<code>Improve some logging.</code>](https://github.com/linuxmint/warpinator/commit/57c8c571ffa4f8de84905ee48ac6d1d4d53f6fce)
+- [ ] [<code>remote: Improve readability of rpc calls.</code>](https://github.com/linuxmint/warpinator/commit/c25e8af408facfc5eaa3cce987dc6190834683af)
+- [ ] [<code>Migrate group code and connect ids to gsettings.</code>](https://github.com/linuxmint/warpinator/commit/bed4cb236ab947d2d3fb17d7ab71826d14f18a05)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Include the python landlock module.</code>](https://github.com/linuxmint/warpinator/commit/8e4f62a29b9d78e429d28e87fa4344d013745bb3)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Implement incoming folder isolation.</code>](https://github.com/linuxmint/warpinator/commit/a4a0b0dfcc8175a006df888bd71b43793a99f5c5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Improve incoming file path validation.</code>](https://github.com/linuxmint/warpinator/commit/9aae768522b7bbb09c836419893802a02221d663)
+- [ ] [<code>Forbid some locations from being chosen as the save folder.</code>](https://github.com/linuxmint/warpinator/commit/985794e2f0ad66e79af2e8b2f04ad94bb2afae43)
+- [ ] [<code>Check if recents can be written to before attempting it.</code>](https://github.com/linuxmint/warpinator/commit/f7714a2a3a252b47229833b39e6e685e1f5bd362)
+- [ ] [<code>Move some util functions into a new file.</code>](https://github.com/linuxmint/warpinator/commit/8da5441f57d795662ffe30c6cca6f85c6f9235af)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add warpinator-send utility.</code>](https://github.com/linuxmint/warpinator/commit/1fb784f6e2942bdc7a7e68225969fd4de52001a1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>bubblewrap: Fixes for debian/lmde.</code>](https://github.com/linuxmint/warpinator/commit/c0a2998a21e429d29c02b12870b5da4341c2d074)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
