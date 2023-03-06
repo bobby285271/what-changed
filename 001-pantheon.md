@@ -77,6 +77,10 @@
   - <sub>Tags: <code>6.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add back mount option to unmounted VolumeRow. (#2145)</code>](https://github.com/elementary/files/commit/6d88de124296fb3889594c99fd43a13e1ce7f785)
+- [ ] [<code>Fix tab label disambiguation regression (#2081)</code>](https://github.com/elementary/files/commit/75e57b03e990a6dd02046acc07dd1f293f4ead8e)
+- [ ] [<code>Increase GLib minimal version</code>](https://github.com/elementary/files/commit/0b57471f54aca914b65cc7e3e7f8380e04db0418)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Avoid crash on other Linux due to ref counting issues in Directory cache (#2149)</code>](https://github.com/elementary/files/commit/6a0d16e819dea2d0cd2d622414257da9433afe2f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
