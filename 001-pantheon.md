@@ -469,6 +469,8 @@
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
 - [ ] [<code>Hide user settings in Demo Mode (#172)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/7f4dd5967c99d98d71414267dc295883008c1ac7)
+- [ ] [<code>Make action items into circle buttons (#174)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/e80999b554bcff1538ba04971bbf969044e8f760)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
 
