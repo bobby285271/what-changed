@@ -28,6 +28,11 @@
 - [ ] [<code>window-list: Fix signal name for tile notifications.</code>](https://github.com/linuxmint/cinnamon/commit/28bd0516248e532e209083b2d4b3968b772556d0)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Sound applet: added special case for Firefox icon. (#11314)</code>](https://github.com/linuxmint/cinnamon/commit/3a3d97c82529b42cdc6b30d32c7e98050b7ac10e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Stop using CinnamonScreen everywhere.</code>](https://github.com/linuxmint/cinnamon/commit/ae17305e08637fc77973dc17c01ef9e7d7160b0a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>overrides.js: Silently fail to install polyfills.</code>](https://github.com/linuxmint/cinnamon/commit/49567152ed8a813c8aeba5c4e0410c41bb06ec6f)
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -81,6 +86,7 @@
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.9...HEAD)
 
+- [ ] [<code>Fix for title bar buttons on unfocused windows (#410)</code>](https://github.com/linuxmint/mint-themes/commit/de03f669e1ea3d667d542435fff8615d0420f7d4)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -329,6 +335,7 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
 
 - [ ] [<code>Update Device.vala</code>](https://github.com/linuxmint/timeshift/commit/6d2599fc5278382710eef861f4ba20247d5a3953)
+- [ ] [<code>Update URLs to HTTPS</code>](https://github.com/linuxmint/timeshift/commit/a5676ca048321dff3dcb4150377bc8321f8b4f64)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
