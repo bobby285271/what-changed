@@ -61,22 +61,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.2.2 → HEAD](https://github.com/elementary/files/compare/6.2.2...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.3.0 → HEAD](https://github.com/elementary/files/compare/6.3.0...HEAD)
 
-- [ ] [<code>Fix click above and below text in listview (#2121)</code>](https://github.com/elementary/files/commit/29d28c30e92c02717d80bca142cdbb1a4722e0be)
-- [ ] [<code>Add AppMenu button to headerbar (#2132)</code>](https://github.com/elementary/files/commit/917aa874875938e9400ebe8ae5dbd9c8aae36e66)
-- [ ] [<code>Update io.elementary.files.appdata.xml.in.in</code>](https://github.com/elementary/files/commit/4e5ea69e58c48f2f0651ec9a1efc42d2c496ae1f)
-- [ ] [<code>Update Undo/Redo button tooltips with operation type (#2137)</code>](https://github.com/elementary/files/commit/e721ffefeff3c1befec008d766fe6652c52bef52)
-- [ ] [<code>HeaderBar: Remove defunct translator comments (#2139)</code>](https://github.com/elementary/files/commit/a844e311afb9c9af28f9d877ee298713ea466186)
-- [ ] [<code>Fix case sensitivity when providing completions for paths (#2059)</code>](https://github.com/elementary/files/commit/9ec58ab57227832223b95e0cceaa5df51f2524ca)
-- [ ] [<code>Rewrite overwrite prompt for link case (#2050)</code>](https://github.com/elementary/files/commit/a10e4e8bf8a6da638d91bbb643e7b8b4bf1d2f6e)
-- [ ] [<code>Fix browsing mtp/ptp devices with a colon in the device name (#1977)</code>](https://github.com/elementary/files/commit/6e8ea6e56a187ecaaeccda9bd3619294e4df9e15)
-- [ ] [<code>Focus FileChooser name entry when saving (#2125)</code>](https://github.com/elementary/files/commit/a1b9a28fe8c658f2ffb2994fcbdc8175796df04b)
-- [ ] [<code>Update appdata 6.3.0 (#2147)</code>](https://github.com/elementary/files/commit/7281dbac328f1f651312cd4033a7b9520caf4431)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Release 6.3.0 (#2140)</code>](https://github.com/elementary/files/commit/aa42466c9ee69bd874e2fca81ba9b89ef9baa104)
-  - <sub>Tags: <code>6.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add back mount option to unmounted VolumeRow. (#2145)</code>](https://github.com/elementary/files/commit/6d88de124296fb3889594c99fd43a13e1ce7f785)
 - [ ] [<code>Fix tab label disambiguation regression (#2081)</code>](https://github.com/elementary/files/commit/75e57b03e990a6dd02046acc07dd1f293f4ead8e)
 - [ ] [<code>Increase GLib minimal version</code>](https://github.com/elementary/files/commit/0b57471f54aca914b65cc7e3e7f8380e04db0418)
@@ -84,6 +70,7 @@
 - [ ] [<code>Avoid crash on other Linux due to ref counting issues in Directory cache (#2149)</code>](https://github.com/elementary/files/commit/6a0d16e819dea2d0cd2d622414257da9433afe2f)
 - [ ] [<code>Do not automatically select files created outside of application (#2023)</code>](https://github.com/elementary/files/commit/4f5cb2a7c5acd091ad2cae9980294481fb5a63bf)
 - [ ] [<code>Allow horizontal scrolling when necessary when columns resized in Column View (#2064)</code>](https://github.com/elementary/files/commit/32c4725bc6f16c5671c861f5196810e1ffd45b24)
+- [ ] [<code>Fix compile warning from UndoManager.vala (#2154)</code>](https://github.com/elementary/files/commit/f335560c141863dd57ae8b45dbf27d2729fd7914)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
