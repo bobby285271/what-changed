@@ -39,6 +39,7 @@
 - [ ] [<code>Fix styling when no documents (#1271)</code>](https://github.com/elementary/code/commit/3fb8fe53952cd84d182bdc8d6611b15f29b5efa2)
 - [ ] [<code>Update code.metainfo.xml.in (#1273)</code>](https://github.com/elementary/code/commit/7183f799a719571f6c01c6df0abc6fd86bb22522)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Ensure Replace button (and other search widget) states are mutually consistent  (#1278)</code>](https://github.com/elementary/code/commit/b847665de849caea53ab3678d1ef37aa814c839c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -81,6 +82,8 @@
 - [ ] [<code>Increase GLib minimal version</code>](https://github.com/elementary/files/commit/0b57471f54aca914b65cc7e3e7f8380e04db0418)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Avoid crash on other Linux due to ref counting issues in Directory cache (#2149)</code>](https://github.com/elementary/files/commit/6a0d16e819dea2d0cd2d622414257da9433afe2f)
+- [ ] [<code>Do not automatically select files created outside of application (#2023)</code>](https://github.com/elementary/files/commit/4f5cb2a7c5acd091ad2cae9980294481fb5a63bf)
+- [ ] [<code>Allow horizontal scrolling when necessary when columns resized in Column View (#2064)</code>](https://github.com/elementary/files/commit/32c4725bc6f16c5671c861f5196810e1ffd45b24)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
