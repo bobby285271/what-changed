@@ -33,6 +33,8 @@
 - [ ] [<code>Stop using CinnamonScreen everywhere.</code>](https://github.com/linuxmint/cinnamon/commit/ae17305e08637fc77973dc17c01ef9e7d7160b0a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>overrides.js: Silently fail to install polyfills.</code>](https://github.com/linuxmint/cinnamon/commit/49567152ed8a813c8aeba5c4e0410c41bb06ec6f)
+- [ ] [<code>added type hints to util.py (#11291)</code>](https://github.com/linuxmint/cinnamon/commit/b894e9189d235e8740fa9848724fc325de299fb3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -103,6 +105,7 @@
 - [ ] [<code>Restore some global signals.</code>](https://github.com/linuxmint/muffin/commit/e78b8335f3113c38b7611193ae55ff3e14820961)
 - [ ] [<code>window.c: Restore property notify for the tile mode property.</code>](https://github.com/linuxmint/muffin/commit/e232f8e118176e03f42428b442ac4cab868240b9)
 - [ ] [<code>place.c: Add missing import.</code>](https://github.com/linuxmint/muffin/commit/63c7161bc0513db5727bc883269a356f64229572)
+- [ ] [<code>display.c: Make meta_display_get_pointer_window() available to</code>](https://github.com/linuxmint/muffin/commit/1385e0d86f2bc9975173fcdc5708cda6300af91f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.3...HEAD)
@@ -123,6 +126,7 @@
 - [ ] [<code>Fix for List View thumbnail scaling at HiDPI (#3187)</code>](https://github.com/linuxmint/nemo/commit/57a6a12d206994e2000a18dbd4d3fe29328132df)
 - [ ] [<code>thumbnails: Ignore operations if the thumbnailer isn't running.</code>](https://github.com/linuxmint/nemo/commit/a1eb6488424b7870b0a67ef34a9df5631136e413)
 - [ ] [<code>list-view: Scale the thumbnail correctly when applying emblems,</code>](https://github.com/linuxmint/nemo/commit/3161c3130f2a427b4f30d232fb2bf9b58a02b377)
+- [ ] [<code>Fix memleaks (#3131)</code>](https://github.com/linuxmint/nemo/commit/c347e57626b4603dd02705f0878d53c694f4cfc1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
