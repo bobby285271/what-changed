@@ -394,6 +394,8 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [7.0.1 → HEAD](https://github.com/elementary/gala/compare/7.0.1...HEAD)
 
 - [ ] [<code>vapi: Sync with greeter (#1565)</code>](https://github.com/elementary/gala/commit/62e9f8d290cc3a023b04dd103e7131154e94a4b1)
+- [ ] [<code>Meson: Always add DwellClickTimer and PointerLocator (#1568)</code>](https://github.com/elementary/gala/commit/99be1ad223f8506201b230f226e9c40576b0d631)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -405,6 +407,7 @@
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
 
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/applications-menu/commit/3d2619e81d480517d9899101645d6d33a1aad765)
+- [ ] [<code>Introduce and use MatchType.CALCULATION and ResultType.CALCULATION (#540)</code>](https://github.com/elementary/applications-menu/commit/d59ed8b97ff87cdbcf0ef95e3beffe54257f6a3c)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
 
