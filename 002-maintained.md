@@ -499,6 +499,14 @@
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
+- [ ] [<code>Merge pull request #349 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/24f70ad079fdab13315e8b4e20ed35bd4b5d39e1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fixes segfault when can't get username via posix getpwuid</code>](https://github.com/stsdc/monitor/commit/8d7206c6f4c266455fb3a82e167f364bf858c1b6)
+- [ ] [<code>bump version 0.16.1</code>](https://github.com/stsdc/monitor/commit/06daa82f542c5a0217bafe351db36d15f39a8948)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix linting; fix bump version script</code>](https://github.com/stsdc/monitor/commit/536fc832204f52de037378f3289b276a25c53916)
+  - <sub>Tags: <code>0.16.1-0</code></sub>
+- [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/4a555e384ee808a2b50060fe14d829694c563566)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
