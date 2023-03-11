@@ -444,6 +444,7 @@
 - [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4aa0e27729cac1332bf37551130157dda9700fc2)
 - [ ] [<code>PopoverWidget: fix flowbox child focus (#288)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/88db9004249334e1316321e0373a3065900fe6f1)
 - [ ] [<code>WidgetNMInterface: remove update (#276)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b716dee18fc0fae4a3b3d783896a65d23f6ce0cb)
+- [ ] [<code>WifiInterface: avoid infinite recursive update</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5f08d3975c893abad7551645ff7c451d5912197)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
