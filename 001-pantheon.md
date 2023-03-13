@@ -14,6 +14,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Hardcode elementary styles, set empty title label (#238)</code>](https://github.com/elementary/calculator/commit/f7536e36615924a5aede5097131bba19f8182010)
 - [ ] [<code>actions/checkout@v3 (#239)</code>](https://github.com/elementary/calculator/commit/619f0e3e7a4654b46f1edc25ebc9c060eef02806)
+- [ ] [<code>Copy entry content on Ctrl+C (#244)</code>](https://github.com/elementary/calculator/commit/51dcc8bbb2249f053e1ee441c62055f12d658a2a)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -71,6 +72,8 @@
 - [ ] [<code>Do not automatically select files created outside of application (#2023)</code>](https://github.com/elementary/files/commit/4f5cb2a7c5acd091ad2cae9980294481fb5a63bf)
 - [ ] [<code>Allow horizontal scrolling when necessary when columns resized in Column View (#2064)</code>](https://github.com/elementary/files/commit/32c4725bc6f16c5671c861f5196810e1ffd45b24)
 - [ ] [<code>Fix compile warning from UndoManager.vala (#2154)</code>](https://github.com/elementary/files/commit/f335560c141863dd57ae8b45dbf27d2729fd7914)
+- [ ] [<code>Ensure overlay appears after rubberband selection in ListView (#2156)</code>](https://github.com/elementary/files/commit/75fe88ae8f35512f1ace8ebdb91dcfd79fa6bb8a)
+- [ ] [<code>Correctly handle ignored extensions (#2131)</code>](https://github.com/elementary/files/commit/e8f96797016f7c9843f24a190d5f4f4865ab6dc7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -91,6 +94,7 @@
 - [ ] [<code>Update io.elementary.mail.appdata.xml.in</code>](https://github.com/elementary/mail/commit/020069c0c6d5243fb8a9f97091ad191cdea67911)
 - [ ] [<code>Metainfo Improvements (#821)</code>](https://github.com/elementary/mail/commit/00ab0a35f4b6a605b1a7828e351f8b13a857d651)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix #814: Crash on setting a message flag</code>](https://github.com/elementary/mail/commit/c630f926196e44e086ddda6086cb8b9bdd3efc83)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -367,6 +371,7 @@
 
 - [ ] [<code>Use LinkButton for AppCenter button (#180)</code>](https://github.com/elementary/onboarding/commit/81690d6e1788af70b5185896df3824dae63e51d4)
 - [ ] [<code>MainWindow: warn about daily builds (#184)</code>](https://github.com/elementary/onboarding/commit/003a4c887ae662bf6f7efcb21f6ce4cd4c3d5b1c)
+- [ ] [<code>AppCenterView: make sideload more obvious and rework copy (#190)</code>](https://github.com/elementary/onboarding/commit/74444a8ccb80114a24c6d0a67b786c2feed69e82)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
