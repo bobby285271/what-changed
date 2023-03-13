@@ -15,6 +15,7 @@
 - [ ] [<code>Hardcode elementary styles, set empty title label (#238)</code>](https://github.com/elementary/calculator/commit/f7536e36615924a5aede5097131bba19f8182010)
 - [ ] [<code>actions/checkout@v3 (#239)</code>](https://github.com/elementary/calculator/commit/619f0e3e7a4654b46f1edc25ebc9c060eef02806)
 - [ ] [<code>Copy entry content on Ctrl+C (#244)</code>](https://github.com/elementary/calculator/commit/51dcc8bbb2249f053e1ee441c62055f12d658a2a)
+- [ ] [<code>Paste text into entry on Ctrl+V (#245)</code>](https://github.com/elementary/calculator/commit/2c5023e9c7f30e00ee29f8a84f45bd6a97de7b20)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
