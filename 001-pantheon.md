@@ -142,6 +142,8 @@
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Application: fix spelling mistake</code>](https://github.com/elementary/terminal/commit/8e11b9f08f0c3fef473e1b4edb24c8fe5906ca68)
 - [ ] [<code>Escape '#' except when fragment identifier (#631)</code>](https://github.com/elementary/terminal/commit/4ee7da6e54e5ece15e22593b5e8d60ba208a6fb2)
+- [ ] [<code>meson: Specify default test setup</code>](https://github.com/elementary/terminal/commit/d7d764c19624001fa9cc47bcaa26de337ae539ba)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -318,6 +320,7 @@
 - [ ] [<code>HeaderBars: Remove HdyWindow styles for gtk4</code>](https://github.com/elementary/stylesheet/commit/2b9aa7aabce8ab2656340de41f7d5194ddd62078)
 - [ ] [<code>Notebooks: Style AdwTabBar</code>](https://github.com/elementary/stylesheet/commit/88682d3e931fdd46682d3ac8f1f1e700e2514c56)
 - [ ] [<code>Windows: Support fullscreen</code>](https://github.com/elementary/stylesheet/commit/bb15232abc6167a305b4404467498d11901aea69)
+- [ ] [<code>GTK4: Support `.keyboard-activating` class for buttons (#1246)</code>](https://github.com/elementary/stylesheet/commit/a93cb4c4a8bc1941f860e473fd496eba2654fe5c)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -437,6 +440,7 @@
 - [ ] [<code>BtSender: Provide feedback when transfer blocked (#182)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ecfc5793aabda457d161ff9cdbdaa27a565b331d)
 - [ ] [<code>dialog active (#180)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/62853a2e1fe4c423779e1109ab0e4a8feff5d18c)
 - [ ] [<code>actions/checkout@v3 (#185)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ace7bcc56b9591205e82c837bb5a92e4ee61e6a8)
+- [ ] [<code>Keep list of active transfers and ensure device widgets show any ongoing transfers (#179)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/2e0f207a79759ebebcd16bd102480652c91ca006)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -451,6 +455,7 @@
 - [ ] [<code>PopoverWidget: fix flowbox child focus (#288)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/88db9004249334e1316321e0373a3065900fe6f1)
 - [ ] [<code>WidgetNMInterface: remove update (#276)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b716dee18fc0fae4a3b3d783896a65d23f6ce0cb)
 - [ ] [<code>WifiInterface: avoid infinite recursive update</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5f08d3975c893abad7551645ff7c451d5912197)
+- [ ] [<code>Fix focus style (#296)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3e7a3d40d4132edd189ec8e9da5e02c99fd0aac4)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...HEAD)
 
@@ -466,6 +471,8 @@
 - [ ] [<code>actions/checkout@v3 (#241)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ba00ddd123073383db818113ec731f8727c3ece2)
 - [ ] [<code>Avoid using "Toggle" (#242)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/84b5a9c74c3b8ad1fec869cde03f128927a644e7)
 - [ ] [<code>Adjust battery percent levels to be closer to icon levels (#240)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/68a96b269ee09926ab538a76643d39f1fd0b9ecd)
+- [ ] [<code>Fix compiler warning (#244)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/bade6f72fd0deda116d7910d08b42fc8d7f3df17)
+- [ ] [<code>Show hours instead of days (#243)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1e4e417c3496aeaf5af9c07859e815964590b294)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
