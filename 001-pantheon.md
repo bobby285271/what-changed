@@ -96,6 +96,7 @@
 - [ ] [<code>Metainfo Improvements (#821)</code>](https://github.com/elementary/mail/commit/00ab0a35f4b6a605b1a7828e351f8b13a857d651)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix #814: Crash on setting a message flag</code>](https://github.com/elementary/mail/commit/c630f926196e44e086ddda6086cb8b9bdd3efc83)
+- [ ] [<code>Update appdata</code>](https://github.com/elementary/mail/commit/c3970939cd88d578268f711cd05c3f9c78d3a2b1)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
