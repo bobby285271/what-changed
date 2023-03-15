@@ -26,7 +26,6 @@
 - [ ] [<code>sound applet: Clear the source ID in Seeker._timerCallback().</code>](https://github.com/linuxmint/cinnamon/commit/cce92b0db7e4fdd1826100a34ec5859edf37b7d8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>window-list: Fix signal name for tile notifications.</code>](https://github.com/linuxmint/cinnamon/commit/28bd0516248e532e209083b2d4b3968b772556d0)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Sound applet: added special case for Firefox icon. (#11314)</code>](https://github.com/linuxmint/cinnamon/commit/3a3d97c82529b42cdc6b30d32c7e98050b7ac10e)
   - <sub>Keywords: <code>usr</code></sub>
@@ -35,6 +34,9 @@
 - [ ] [<code>overrides.js: Silently fail to install polyfills.</code>](https://github.com/linuxmint/cinnamon/commit/49567152ed8a813c8aeba5c4e0410c41bb06ec6f)
 - [ ] [<code>added type hints to util.py (#11291)</code>](https://github.com/linuxmint/cinnamon/commit/b894e9189d235e8740fa9848724fc325de299fb3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cornerbar@cinnamon.org: added scroll-event from SW++@mohammad-sn (#11321)</code>](https://github.com/linuxmint/cinnamon/commit/98030f9dba92448778f2d0784388615430753a44)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -99,6 +101,8 @@
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
 
+- [ ] [<code>Added GoLand and PhpStorm icons (#333)</code>](https://github.com/linuxmint/mint-y-icons/commit/c13ce4cc856c4e463b1314fd6828c156647eaaa9)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.3...HEAD)
 
@@ -335,6 +339,8 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
 - [ ] [<code>Update sticky-symbolic.svg</code>](https://github.com/linuxmint/sticky/commit/5bcf46403f7fead082ca21f4215ebac3122eb3ed)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/sticky/commit/e209f19d5b308ba9a5c1ad461e75791b146debbf)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
