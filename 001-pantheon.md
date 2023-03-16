@@ -80,26 +80,13 @@
 
 - [ ] [<code>Update Flatpak Runtime to 7.1 (#30)</code>](https://github.com/elementary/iconbrowser/commit/d5239a0f5fdd978dd48525b55a2db445f6896fbd)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.0 → HEAD](https://github.com/elementary/mail/compare/7.0.0...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
 
-- [ ] [<code>MainWindow: Spelling: ellipsis (#791)</code>](https://github.com/elementary/mail/commit/b0763561908cb380aae23b91cee3fef6cd622246)
-- [ ] [<code>build: fix documentation build (#795)</code>](https://github.com/elementary/mail/commit/52a422cb1c5f061d8a683005e44da0a1c2195096)
+- [ ] [<code>Make SourceList internal (#827)</code>](https://github.com/elementary/mail/commit/b239dce55078cfa4bcb896e7481181ca40e77a61)
   - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Docs: Add curiously omitted dependency on meson to the readme (#803)</code>](https://github.com/elementary/mail/commit/31973b403dbb0ce378d2754a9b44ec192ee4a394)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>actions/checkout@v3 (#811)</code>](https://github.com/elementary/mail/commit/16211125cfae46c43e854875b01f3c55d43c46e9)
-- [ ] [<code>build: support webkit2gtk-4.1 (#794)</code>](https://github.com/elementary/mail/commit/9e6eb73a8420c9bf327e59c25e7e6d8fa87d480a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Make a link containing '%' valid (#810) (#813)</code>](https://github.com/elementary/mail/commit/09743e85b6ca63654aa46adba064f252b6e602e3)
-- [ ] [<code>Update io.elementary.mail.appdata.xml.in</code>](https://github.com/elementary/mail/commit/020069c0c6d5243fb8a9f97091ad191cdea67911)
-- [ ] [<code>Metainfo Improvements (#821)</code>](https://github.com/elementary/mail/commit/00ab0a35f4b6a605b1a7828e351f8b13a857d651)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix #814: Crash on setting a message flag</code>](https://github.com/elementary/mail/commit/c630f926196e44e086ddda6086cb8b9bdd3efc83)
-- [ ] [<code>Update appdata</code>](https://github.com/elementary/mail/commit/c3970939cd88d578268f711cd05c3f9c78d3a2b1)
-- [ ] [<code>Release 7.0.1 (#826)</code>](https://github.com/elementary/mail/commit/fd7ce1801b863823746a74cdb7c2f9cf3f7efbe1)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MessageListItem: avoid crashing on empty Mime (#828)</code>](https://github.com/elementary/mail/commit/7cb412dee4cc8c0bfab55057c47d5ecce6918788)
+- [ ] [<code>ci: Use JSON instead of YAML (#829)</code>](https://github.com/elementary/mail/commit/d040c5622a01faba1617d38b6298923f7b4cc2b6)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -333,6 +320,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>ci: Make merge.yml a valid GitHub Action (#1180)</code>](https://github.com/elementary/icons/commit/ce0393f19f3a5e1b9d1093c789a1f3b59903bb15)
 - [ ] [<code>Network removals (#1179)</code>](https://github.com/elementary/icons/commit/99bd6eb377caa348d813c3db6ecea5f99507bf6f)
+- [ ] [<code>Devices: Remove unused symlinks (#1182)</code>](https://github.com/elementary/icons/commit/1bc1d089b8faa1407ab3647ce66868cdc9b2d436)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -380,6 +368,7 @@
 - [ ] [<code>Use LinkButton for AppCenter button (#180)</code>](https://github.com/elementary/onboarding/commit/81690d6e1788af70b5185896df3824dae63e51d4)
 - [ ] [<code>MainWindow: warn about daily builds (#184)</code>](https://github.com/elementary/onboarding/commit/003a4c887ae662bf6f7efcb21f6ce4cd4c3d5b1c)
 - [ ] [<code>AppCenterView: make sideload more obvious and rework copy (#190)</code>](https://github.com/elementary/onboarding/commit/74444a8ccb80114a24c6d0a67b786c2feed69e82)
+- [ ] [<code>EarlyAccessView: use applications-development for icon (#185)</code>](https://github.com/elementary/onboarding/commit/2e62af2f74965346139c10d773ddcf811845f2b1)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
