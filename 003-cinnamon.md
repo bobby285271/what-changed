@@ -72,7 +72,10 @@
 - [ ] [<code>xsettings: Round the Xft.dpi setting to an integer</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4e5191193b614f626484c5038b18f9b840b2e62a)
 - [ ] [<code>power: Fix free order</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fee772e084a2355780c22de30431ee0f225326a)
 - [ ] [<code>xsettings: Override the active icon and gtk theme when 'high-contrast'</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b012dde801f53de5ddec3cf8c8d820f9d26a6566)
+- [ ] [<code>build: don't hardcode files install dir as / (#378)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e737c729af45bfe40c683e7a541a7bbe0957dfa6)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
@@ -112,6 +115,7 @@
 - [ ] [<code>window.c: Restore property notify for the tile mode property.</code>](https://github.com/linuxmint/muffin/commit/e232f8e118176e03f42428b442ac4cab868240b9)
 - [ ] [<code>place.c: Add missing import.</code>](https://github.com/linuxmint/muffin/commit/63c7161bc0513db5727bc883269a356f64229572)
 - [ ] [<code>display.c: Make meta_display_get_pointer_window() available to</code>](https://github.com/linuxmint/muffin/commit/1385e0d86f2bc9975173fcdc5708cda6300af91f)
+- [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.3...HEAD)
@@ -133,6 +137,7 @@
 - [ ] [<code>thumbnails: Ignore operations if the thumbnailer isn't running.</code>](https://github.com/linuxmint/nemo/commit/a1eb6488424b7870b0a67ef34a9df5631136e413)
 - [ ] [<code>list-view: Scale the thumbnail correctly when applying emblems,</code>](https://github.com/linuxmint/nemo/commit/3161c3130f2a427b4f30d232fb2bf9b58a02b377)
 - [ ] [<code>Fix memleaks (#3131)</code>](https://github.com/linuxmint/nemo/commit/c347e57626b4603dd02705f0878d53c694f4cfc1)
+- [ ] [<code>file info: Use generic methods for attributes that aren't guaranteed</code>](https://github.com/linuxmint/nemo/commit/05990082cf6b5fa6f6a15d00ea0e55e83ea3900a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -262,8 +267,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>bubblewrap: Fixes for debian/lmde.</code>](https://github.com/linuxmint/warpinator/commit/c0a2998a21e429d29c02b12870b5da4341c2d074)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>transfers.py: Use generic getter for file content type.</code>](https://github.com/linuxmint/warpinator/commit/efc9e5621cb335a54eed6728818e2a7a25b81ed4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
 
@@ -281,9 +287,10 @@
 - [ ] [<code>build: Fix build for meson < 0.60</code>](https://github.com/linuxmint/xapp/commit/670cb669abf47137818e63a8eb5c9f08f20eed4e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Install xapp-sn-watcher to an arch-specific location.</code>](https://github.com/linuxmint/xapp/commit/f226c3c28a48150bff51ef0893527404c6555acf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>favorites: Use generic getter for content type check.</code>](https://github.com/linuxmint/xapp/commit/bf90c156a3375ee27850671eddc8217e04a68347)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -341,8 +348,9 @@
 - [ ] [<code>Update sticky-symbolic.svg</code>](https://github.com/linuxmint/sticky/commit/5bcf46403f7fead082ca21f4215ebac3122eb3ed)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/sticky/commit/e209f19d5b308ba9a5c1ad461e75791b146debbf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>update license content to GPLv2 (#97)</code>](https://github.com/linuxmint/sticky/commit/2cb2742a597f2aa9b061d7be30fbebf726ed1dfc)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
 
@@ -352,6 +360,7 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
+- [ ] [<code>Save correct window size on exit (#570)</code>](https://github.com/linuxmint/xed/commit/efb1a66c52b97b856ff93244dfaf566db835ce40)
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
