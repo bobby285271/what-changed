@@ -21,6 +21,7 @@
 - [ ] [<code>Switch to GHCR container (#247)</code>](https://github.com/elementary/calculator/commit/096438e22634e08d6472df66c73ecf3d7451e71d)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/calculator/commit/c67dc392c357d2dde90d2f4482fa9f966c10458d)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#249)</code>](https://github.com/elementary/calculator/commit/18e018c39a972ad2d1bd4e3ae4677754a34af7ae)
+- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#248)</code>](https://github.com/elementary/calculator/commit/ff86e338159c936aafe56f9f211b0419d70187f9)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -198,6 +199,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/videos/commit/d20c81da6e00eefebe9e0c0bfc6e2375337d3397)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#327)</code>](https://github.com/elementary/videos/commit/d619fc45f4d621d0cf8c1adb4b84ed94631e17e0)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#326)</code>](https://github.com/elementary/videos/commit/dfcd8ac094fbdd6e9b20f4165ab7ea9455b5158d)
+- [ ] [<code>Switch to GHCR containers (#325)</code>](https://github.com/elementary/videos/commit/d7c6e6fb67877a238e99753027654fdbc3c1fcda)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -299,6 +301,7 @@
 
 - [ ] [<code>Prefer the resolution modes marked is_preferred (#337)</code>](https://github.com/elementary/switchboard-plug-display/commit/144c9cc5d79981939922a716eb2844eb7e231ebd)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/694e3249c18242e450a3b78f8fd2c9309507328d)
+- [ ] [<code>Bump actions/checkout from 1 to 3</code>](https://github.com/elementary/switchboard-plug-display/commit/bc57da0b74831c67d055aea4b73eb5fd6885648b)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -592,6 +595,7 @@
 - [ ] [<code>Switch to GHCR containers (#253)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2c958cbc808432f753a0e17a000e62814706f373)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7c22cee0496a4e74cce582157b0df64faa099ad9)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#254)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bd679fd2e81a6a795edbfaa0497fb78bbb9b68dd)
+- [ ] [<code>Add full markup support (#252)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/148519009c5f5a4816636783b7a13ad4b1133461)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
@@ -648,6 +652,7 @@
 - [ ] [<code>actions/checkout@v3 (#183)</code>](https://github.com/elementary/notifications/commit/cd8429849f2b0f9ac499f211cb144fb06ab6646b)
 - [ ] [<code>Switch to GHCR containers (#185)</code>](https://github.com/elementary/notifications/commit/a54b51baed1bf60cb67ac301e56b9a1d72054d63)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/notifications/commit/7705c32893985d9daeb62c876419d818fb28b082)
+- [ ] [<code>Add full markup support (#184)</code>](https://github.com/elementary/notifications/commit/bd159979dbe3dbe6f3f1da7acd8e0721cc20ef80)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
