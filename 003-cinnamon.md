@@ -290,6 +290,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>favorites: Use generic getter for content type check.</code>](https://github.com/linuxmint/xapp/commit/bf90c156a3375ee27850671eddc8217e04a68347)
+- [ ] [<code>sn-item.c: Don't set an empty dbusmenu widget when we receive</code>](https://github.com/linuxmint/xapp/commit/380fa81a1defccd5ab73e252bf9136cae992dc1d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
