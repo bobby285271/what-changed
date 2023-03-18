@@ -138,6 +138,7 @@
 - [ ] [<code>list-view: Scale the thumbnail correctly when applying emblems,</code>](https://github.com/linuxmint/nemo/commit/3161c3130f2a427b4f30d232fb2bf9b58a02b377)
 - [ ] [<code>Fix memleaks (#3131)</code>](https://github.com/linuxmint/nemo/commit/c347e57626b4603dd02705f0878d53c694f4cfc1)
 - [ ] [<code>file info: Use generic methods for attributes that aren't guaranteed</code>](https://github.com/linuxmint/nemo/commit/05990082cf6b5fa6f6a15d00ea0e55e83ea3900a)
+- [ ] [<code>Fix some more GFileInfo getter problems.</code>](https://github.com/linuxmint/nemo/commit/cfa437cb5b149792b432348c4471c07fc4d9f2a5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -239,8 +240,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>meson: fix version</code>](https://github.com/linuxmint/pix/commit/7457cb29b45ac67cf69cdd03030b66a4774cdd49)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add .gitignore.</code>](https://github.com/linuxmint/pix/commit/a6ac8f0e1eecf7dc75e358b5f6b7f9854513f8c7)
+- [ ] [<code>Use the generic getter for some fileinfo queries.</code>](https://github.com/linuxmint/pix/commit/576a7502650d62dbb4af2759bc77e41db070066f)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.5...HEAD)
 
@@ -291,6 +294,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>favorites: Use generic getter for content type check.</code>](https://github.com/linuxmint/xapp/commit/bf90c156a3375ee27850671eddc8217e04a68347)
 - [ ] [<code>sn-item.c: Don't set an empty dbusmenu widget when we receive</code>](https://github.com/linuxmint/xapp/commit/380fa81a1defccd5ab73e252bf9136cae992dc1d)
+- [ ] [<code>xapp-status-icon.c: Don't destroy the dummy event window too early.</code>](https://github.com/linuxmint/xapp/commit/3ef9861d6228c2061fbde2c0554be5ae6f42befa)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
