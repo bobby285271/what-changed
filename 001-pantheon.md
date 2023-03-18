@@ -22,6 +22,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/calculator/commit/c67dc392c357d2dde90d2f4482fa9f966c10458d)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#249)</code>](https://github.com/elementary/calculator/commit/18e018c39a972ad2d1bd4e3ae4677754a34af7ae)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#248)</code>](https://github.com/elementary/calculator/commit/ff86e338159c936aafe56f9f211b0419d70187f9)
+- [ ] [<code>Update flatpak actions to new namespace (#250)</code>](https://github.com/elementary/calculator/commit/9336425bd0e7354e4831a0657c2d0a243eab2da8)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -32,6 +33,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/calendar/commit/c5be4e36d7eaeb64f90fa45b7c9c9ac4b4c734e1)
 - [ ] [<code>Bump actions/checkout from 2 to 3 (#774)</code>](https://github.com/elementary/calendar/commit/6cef9903b73b323b1499a75cc304a4a4ce1ad9dc)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#773)</code>](https://github.com/elementary/calendar/commit/2fc3eee7e24df52943e11191abf1625e4d593735)
+- [ ] [<code>Update flatpak actions to new namespace (#775)</code>](https://github.com/elementary/calendar/commit/e429cb3c1c4e4ded9aec41949642f490be5d114c)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -41,6 +43,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/camera/commit/eefa4607595a6c3f399c0cea64b7bf40a873ed61)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#256)</code>](https://github.com/elementary/camera/commit/ab5450bc327a05ee7827be91df91851ce6f97a7f)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#257)</code>](https://github.com/elementary/camera/commit/cb50c39d9a4a007df0c3509a8a6a118f915bf2ab)
+- [ ] [<code>Update flatpak actions to new namespace (#258)</code>](https://github.com/elementary/camera/commit/e751f1d54fe20a1d3753c71dd43e544ff8bccbca)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -74,6 +77,8 @@
 - [ ] [<code>Animate launch with Gtk.CSS (#156)</code>](https://github.com/elementary/dock/commit/5e48a9d04caee309924702da10b141ad4a00d8ff)
 - [ ] [<code>Launcher: launch with current time to fix workspace switching</code>](https://github.com/elementary/dock/commit/d87da45cbd89d30790f7e81f07151379874cb1b2)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/dock/commit/4ee94e7150772052ee52eec334a3652d0bd965de)
+- [ ] [<code>Bump actions/checkout from 2 to 3 (#175)</code>](https://github.com/elementary/dock/commit/b189a18e14b0d395025a705729b075b915d807b3)
+- [ ] [<code>Switch to GHCR containers (#173)</code>](https://github.com/elementary/dock/commit/4401b06c51db59519d063ebf95375a330962c822)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
@@ -107,6 +112,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/iconbrowser/commit/14a377a039da93cb3b6bb8fa8e66084c63ab6b70)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#34)</code>](https://github.com/elementary/iconbrowser/commit/3ca853e172705d8d01e4d35a02fcbca04b6ca5a1)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#33)</code>](https://github.com/elementary/iconbrowser/commit/4ccb91044be13e2ea3a2400ce363cb0021bae243)
+- [ ] [<code>Update flatpak actions to new namespace (#35)</code>](https://github.com/elementary/iconbrowser/commit/a47ae8a801a809aa70094089761fde8339e543c7)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
 
@@ -119,6 +125,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/mail/commit/afa13157f3102377c964c6967e2b30cfc275b06f)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#833)</code>](https://github.com/elementary/mail/commit/3030bd207127e39342dd3d615f70a2ccb63e7884)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#832)</code>](https://github.com/elementary/mail/commit/6b6c903f30232d468f5d10bd626da10be03c7d1c)
+- [ ] [<code>Update flatpak actions to new namespace (#834)</code>](https://github.com/elementary/mail/commit/10678dc246a1267c90737695a5fb40583da063fc)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -131,6 +138,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#742)</code>](https://github.com/elementary/music/commit/adee813301cb2d3b572400508424cc9acf79a7aa)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#741)</code>](https://github.com/elementary/music/commit/a78873120325db10542f0f5134a2e2205bb964c8)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#743)</code>](https://github.com/elementary/music/commit/85d8b2321ecc8241fdad73bf809501b776684f1c)
+- [ ] [<code>Update flatpak actions to new namespace (#744)</code>](https://github.com/elementary/music/commit/2d166df3417d52a228fba0b956760fcd8bbc64bf)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -141,6 +149,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/photos/commit/bf8125094e005480599b466816a04d09c7eb9d6c)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#739)</code>](https://github.com/elementary/photos/commit/872ccf0168cafcad168123e162bd77a756336498)
 - [ ] [<code>Switch to GHCR containers (#738)</code>](https://github.com/elementary/photos/commit/a0749083c6e1e810dc8742311641342ceeaaf1ff)
+- [ ] [<code>Update flatpak actions to new namespace (#740)</code>](https://github.com/elementary/photos/commit/605a4d1376a7d0280ae89f924fae88e9eadb7838)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
@@ -149,6 +158,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/screenshot/commit/6221849606018dc4e4b7e8a91491b4af9646b4be)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#258)</code>](https://github.com/elementary/screenshot/commit/4fdaa14ae20505e79d356df7618ed09828b38076)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#257)</code>](https://github.com/elementary/screenshot/commit/dfb2e6bbcb4322fb8ac3d3362bcc0155d287129a)
+- [ ] [<code>Update flatpak actions to new namespace (#259)</code>](https://github.com/elementary/screenshot/commit/3da18f8329513df04fa53e4cd026baaf902cff95)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -163,6 +173,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>actions/checkout@v3 (#346)</code>](https://github.com/elementary/tasks/commit/a7b7897f7138de59859250ed98edd1ab7a7ed3de)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/tasks/commit/38ec325be6dd2a5bbe2f0765f33d63c62edd72f0)
+- [ ] [<code>flatpak: Update the dependencies (#350)</code>](https://github.com/elementary/tasks/commit/d65cb9337c409f68caaa73408cead604c0fcf5a3)
+- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#348)</code>](https://github.com/elementary/tasks/commit/e6d600044ffcd75e89c629ec89d1467d60f2eecd)
+- [ ] [<code>Update flatpak actions to new namespace (#351)</code>](https://github.com/elementary/tasks/commit/d31ce8cce28fcc243783f32c9268154f46e03533)
+- [ ] [<code>Switch to GHCR containers (#347)</code>](https://github.com/elementary/tasks/commit/5e07fb395f37df4cb0ebedf750c3f5694edc4855)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -200,6 +214,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#327)</code>](https://github.com/elementary/videos/commit/d619fc45f4d621d0cf8c1adb4b84ed94631e17e0)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#326)</code>](https://github.com/elementary/videos/commit/dfcd8ac094fbdd6e9b20f4165ab7ea9455b5158d)
 - [ ] [<code>Switch to GHCR containers (#325)</code>](https://github.com/elementary/videos/commit/d7c6e6fb67877a238e99753027654fdbc3c1fcda)
+- [ ] [<code>Update flatpak actions to new namespace (#328)</code>](https://github.com/elementary/videos/commit/36c2bdd8ff630e144dcfeaaec59db2833c8837c0)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -302,6 +317,7 @@
 - [ ] [<code>Prefer the resolution modes marked is_preferred (#337)</code>](https://github.com/elementary/switchboard-plug-display/commit/144c9cc5d79981939922a716eb2844eb7e231ebd)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/694e3249c18242e450a3b78f8fd2c9309507328d)
 - [ ] [<code>Bump actions/checkout from 1 to 3</code>](https://github.com/elementary/switchboard-plug-display/commit/bc57da0b74831c67d055aea4b73eb5fd6885648b)
+- [ ] [<code>Switch to GHCR containers (#344)</code>](https://github.com/elementary/switchboard-plug-display/commit/86b29d39b38f43d7a804e57ee4ce7332d15ca577)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -372,6 +388,7 @@
 - [ ] [<code>Remove unused power-mode-automatic icon (#224)</code>](https://github.com/elementary/switchboard-plug-power/commit/f85cd814c2d2be481611e867973b908b9a736e88)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/fa92ac872a9133d73ae8087a78cc299aa68d7c78)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/471b497127e721183fb5384ea12d30c0f23e82f6)
+- [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/641f72196acabf4881f0e2561151c43e8b8d7df8)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -383,6 +400,8 @@
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...HEAD)
 
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/052520b1e71922778fa5f60a38887b68c42f40ff)
+- [ ] [<code>Switch to GHCR containers (#146)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8791716c12d019309b2a8cfda83b10e2e2379908)
+- [ ] [<code>Bump actions/checkout from 1 to 3 (#147)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c68557e846badb66eb33da8016e009ce6e2ff355)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -399,6 +418,7 @@
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2107720791db1a1b19b98f0b91d9abc1ae931088)
+- [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.1 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.1...HEAD)
@@ -498,6 +518,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>systemd: also pull in GSD targets (#63)</code>](https://github.com/elementary/session-settings/commit/b807ea60161294958c08cb8d53e5be82308a7f5e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch to GHCR containers (#65)</code>](https://github.com/elementary/session-settings/commit/19c49ebde1352cf07afd394fcd7da88bf09eb285)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -645,6 +666,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/capnet-assist/commit/c61c716a6fd1c6878c91a74b24311be2d0c60e70)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#97)</code>](https://github.com/elementary/capnet-assist/commit/7073df2d4d29be53e4bb0614d6fb0ed648a2c702)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#96)</code>](https://github.com/elementary/capnet-assist/commit/b657abe96539956143c29726676bde37eb63724f)
+- [ ] [<code>Update flatpak actions to new namespace (#98)</code>](https://github.com/elementary/capnet-assist/commit/dcd9632491dfcb5491c4622cd40bd753d5a425b5)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
