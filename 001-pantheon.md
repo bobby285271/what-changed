@@ -63,6 +63,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/code/commit/5ea26b0feb552d2a50a4992165dd80b66468cd24)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#1286)</code>](https://github.com/elementary/code/commit/ed2389f3cd99126e02d9836552acb4ece4d5972b)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#1287)</code>](https://github.com/elementary/code/commit/c039e74003f319d25e642a1c530de7f33b778ab7)
+- [ ] [<code>Delay asking for save location if cannot determine write access (#1280)</code>](https://github.com/elementary/code/commit/598bbe99757eabb29aab7fbf8116d84beb609642)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
