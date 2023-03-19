@@ -537,6 +537,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/gala/commit/d717859719f17b7a0ca6eabb28cab121ac485dc1)
 - [ ] [<code>Switch to GHCR containers (#1576)</code>](https://github.com/elementary/gala/commit/c789d9118b1cb5bf605c5854955bf0136be82d66)
+- [ ] [<code>WindowClone: Don't calculate offset (#1567)</code>](https://github.com/elementary/gala/commit/b7139add2333e5419afd1c82c3790d85044c1f76)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
