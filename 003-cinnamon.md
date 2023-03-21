@@ -35,6 +35,18 @@
 - [ ] [<code>added type hints to util.py (#11291)</code>](https://github.com/linuxmint/cinnamon/commit/b894e9189d235e8740fa9848724fc325de299fb3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cornerbar@cinnamon.org: added scroll-event from SW++@mohammad-sn (#11321)</code>](https://github.com/linuxmint/cinnamon/commit/98030f9dba92448778f2d0784388615430753a44)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Add a simplified UI (#11548)</code>](https://github.com/linuxmint/cinnamon/commit/791ee48204a6752cf925fb65527341207ac2c247)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update applet.js (#11484)</code>](https://github.com/linuxmint/cinnamon/commit/eb3371a60ce1f64d5b8be2d1f71a9a545fb9aacd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Adding a setting to warp mouse pointer after Alt+Tab action completes</code>](https://github.com/linuxmint/cinnamon/commit/8b56f4d5ac49c3ec735481d4182686823249faa7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix whitespace</code>](https://github.com/linuxmint/cinnamon/commit/19fa83fb64c300a4a3ca22b5e42ff082fe260bae)
+- [ ] [<code>Add category hover style for Cinnamenu applet... (#11451)</code>](https://github.com/linuxmint/cinnamon/commit/92db06163182300346b7fc455202a47aabd38691)
+- [ ] [<code>feat(menu@cinnamon.org): Add Menu editor entry to applet context menu (#11561)</code>](https://github.com/linuxmint/cinnamon/commit/7a610d7822c5ca712a39f2558be417a1d25f738c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Add relief to simplified/advanced buttons</code>](https://github.com/linuxmint/cinnamon/commit/0ff2803fd9d820482c12d6ac099b31c88f47a594)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -59,10 +71,11 @@
 
 - [ ] [<code>Prioritize Playing Audio over other players. (#428)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/efb75ed1bc178a2fb3552c5b16ad2106701e4c0a)
 - [ ] [<code>remove redundant parentheses (#427)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/578fc21945a6829fcdcee953f419372f0c57b401)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>utils.py: Add gdm3 to the switch user function.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/aeeb0795e5ab7b158f242fbe4a4778ace4874990)
-  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>use Gio flags instead of ints (#432)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ed84ceb23001dabecf142db2b0f17cd4c6b4c066)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -96,10 +109,14 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.9...HEAD)
 
 - [ ] [<code>Fix for title bar buttons on unfocused windows (#410)</code>](https://github.com/linuxmint/mint-themes/commit/de03f669e1ea3d667d542435fff8615d0420f7d4)
+- [ ] [<code>Mint-Y: Don't generate index.theme files</code>](https://github.com/linuxmint/mint-themes/commit/74827202cca578115a5e49413ad9f0c273bcdabf)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
 - [ ] [<code>Add PIX icon</code>](https://github.com/linuxmint/mint-x-icons/commit/15e2d0db25382f21fe129f5f19587b95fa888ca5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Mint-X-Dark</code>](https://github.com/linuxmint/mint-x-icons/commit/824032be041985a1834f52cf5a0f1de697d8e4aa)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
@@ -243,6 +260,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add .gitignore.</code>](https://github.com/linuxmint/pix/commit/a6ac8f0e1eecf7dc75e358b5f6b7f9854513f8c7)
 - [ ] [<code>Use the generic getter for some fileinfo queries.</code>](https://github.com/linuxmint/pix/commit/576a7502650d62dbb4af2759bc77e41db070066f)
+- [ ] [<code>Fixed build with libraw 0.21 (#168)</code>](https://github.com/linuxmint/pix/commit/c8549cd28af2bf75ff19cd733bef5666da7dcf44)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.5...HEAD)
@@ -315,8 +333,10 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.2...HEAD)
 
 - [ ] [<code>Lint changes (#251)</code>](https://github.com/linuxmint/hypnotix/commit/217b97190a1db43cbb80d8ec614fc70785544dea)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Added shortcuts support to zap through channels (#232)</code>](https://github.com/linuxmint/hypnotix/commit/0d2808347ec7cbe8390d1b655a9d6a41dfb2fc75)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -361,6 +381,7 @@
 
 - [ ] [<code>Update Device.vala</code>](https://github.com/linuxmint/timeshift/commit/6d2599fc5278382710eef861f4ba20247d5a3953)
 - [ ] [<code>Update URLs to HTTPS</code>](https://github.com/linuxmint/timeshift/commit/a5676ca048321dff3dcb4150377bc8321f8b4f64)
+- [ ] [<code>README.md: fix a typo</code>](https://github.com/linuxmint/timeshift/commit/4c4d65044309f502adeb598910711935b8511f7e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
