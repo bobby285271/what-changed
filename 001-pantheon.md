@@ -178,6 +178,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#348)</code>](https://github.com/elementary/tasks/commit/e6d600044ffcd75e89c629ec89d1467d60f2eecd)
 - [ ] [<code>Update flatpak actions to new namespace (#351)</code>](https://github.com/elementary/tasks/commit/d31ce8cce28fcc243783f32c9268154f46e03533)
 - [ ] [<code>Switch to GHCR containers (#347)</code>](https://github.com/elementary/tasks/commit/5e07fb395f37df4cb0ebedf750c3f5694edc4855)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 4 to 5 (#352)</code>](https://github.com/elementary/tasks/commit/bbe44a1d07b0f02351b942b4914f6f1b66718a34)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -538,6 +539,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/gala/commit/d717859719f17b7a0ca6eabb28cab121ac485dc1)
 - [ ] [<code>Switch to GHCR containers (#1576)</code>](https://github.com/elementary/gala/commit/c789d9118b1cb5bf605c5854955bf0136be82d66)
 - [ ] [<code>WindowClone: Don't calculate offset (#1567)</code>](https://github.com/elementary/gala/commit/b7139add2333e5419afd1c82c3790d85044c1f76)
+- [ ] [<code>Map notification windows manually while switching workspace (#1577)</code>](https://github.com/elementary/gala/commit/97b33173e2ee8b4a4af3fe0513b6d264de9d9b2a)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
