@@ -394,6 +394,7 @@
 - [ ] [<code>README.md: fix a typo</code>](https://github.com/linuxmint/timeshift/commit/4c4d65044309f502adeb598910711935b8511f7e)
 - [ ] [<code>Added extra constraints to BTRFS mode in Supported System Configurations (#103)</code>](https://github.com/linuxmint/timeshift/commit/a551387f06f75a39b1ca811dd71d507e17a0cc92)
 - [ ] [<code>src/Utility: fix deprecated Thread.create usage (#151)</code>](https://github.com/linuxmint/timeshift/commit/240225d5471a186e21ef9f80666a9db53b06bd13)
+- [ ] [<code>AsyncTask: Use a mutex to guard access to AsyncTask.status_line.</code>](https://github.com/linuxmint/timeshift/commit/18cd48ddd48ea6adeed1a0ab433c7bc71494c43e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
