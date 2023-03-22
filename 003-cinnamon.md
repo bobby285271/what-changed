@@ -47,8 +47,12 @@
 - [ ] [<code>feat(menu@cinnamon.org): Add Menu editor entry to applet context menu (#11561)</code>](https://github.com/linuxmint/cinnamon/commit/7a610d7822c5ca712a39f2558be417a1d25f738c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes: Add relief to simplified/advanced buttons</code>](https://github.com/linuxmint/cinnamon/commit/0ff2803fd9d820482c12d6ac099b31c88f47a594)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use pseudo class 'hover' instead of class ... (#11473)</code>](https://github.com/linuxmint/cinnamon/commit/a56ecebbf9499da2db8020c17c31ccefda9e7cce)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Enables extensions marked to overide version check to be removed. (#11510)</code>](https://github.com/linuxmint/cinnamon/commit/e062391adc697ec1e39088bc3cca13306378d762)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -261,6 +265,8 @@
 - [ ] [<code>Add .gitignore.</code>](https://github.com/linuxmint/pix/commit/a6ac8f0e1eecf7dc75e358b5f6b7f9854513f8c7)
 - [ ] [<code>Use the generic getter for some fileinfo queries.</code>](https://github.com/linuxmint/pix/commit/576a7502650d62dbb4af2759bc77e41db070066f)
 - [ ] [<code>Fixed build with libraw 0.21 (#168)</code>](https://github.com/linuxmint/pix/commit/c8549cd28af2bf75ff19cd733bef5666da7dcf44)
+- [ ] [<code>Remove copyright notice from --version and About.</code>](https://github.com/linuxmint/pix/commit/50d5638b8f07f847c80ea8a29691c34969a562b5)
+- [ ] [<code>debian/control: Remove gnome-common (obsolete).</code>](https://github.com/linuxmint/pix/commit/5a5e1b3b085378d6c6e1aac96acd9b98a3270520)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.4.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.4.5...HEAD)
@@ -365,8 +371,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>user-list: Allow hidden user visibility to be toggled</code>](https://github.com/linuxmint/slick-greeter/commit/ce8704c02498fef137908e36b315d0876300d2c2)
 - [ ] [<code>Enable touchpad tap-to-click</code>](https://github.com/linuxmint/slick-greeter/commit/85f83be9977faf2482d38d2cc289f0542b1c06a4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Update debian compatibility and standards</code>](https://github.com/linuxmint/slick-greeter/commit/9bbbc41aa1ae927dfe798e59c0960d74de843fa6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
@@ -375,13 +383,17 @@
 - [ ] [<code>replace equality None check with identity None check</code>](https://github.com/linuxmint/sticky/commit/e209f19d5b308ba9a5c1ad461e75791b146debbf)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>update license content to GPLv2 (#97)</code>](https://github.com/linuxmint/sticky/commit/2cb2742a597f2aa9b061d7be30fbebf726ed1dfc)
+- [ ] [<code>remove redundant parentheses</code>](https://github.com/linuxmint/sticky/commit/7760fb135ccb2b10eb4f571bee9692a7e912e4cf)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
 
 - [ ] [<code>Update Device.vala</code>](https://github.com/linuxmint/timeshift/commit/6d2599fc5278382710eef861f4ba20247d5a3953)
 - [ ] [<code>Update URLs to HTTPS</code>](https://github.com/linuxmint/timeshift/commit/a5676ca048321dff3dcb4150377bc8321f8b4f64)
 - [ ] [<code>README.md: fix a typo</code>](https://github.com/linuxmint/timeshift/commit/4c4d65044309f502adeb598910711935b8511f7e)
+- [ ] [<code>Added extra constraints to BTRFS mode in Supported System Configurations (#103)</code>](https://github.com/linuxmint/timeshift/commit/a551387f06f75a39b1ca811dd71d507e17a0cc92)
+- [ ] [<code>src/Utility: fix deprecated Thread.create usage (#151)</code>](https://github.com/linuxmint/timeshift/commit/240225d5471a186e21ef9f80666a9db53b06bd13)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
