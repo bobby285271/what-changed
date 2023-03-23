@@ -5,7 +5,7 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.7...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.8...HEAD)
 
 - [ ] [<code>grouped-window-list: Make appGroup's flashButton sane, fix invalid</code>](https://github.com/linuxmint/cinnamon/commit/3779122e2b08a236273c37fdb922223051abf69b)
   - <sub>Keywords: <code>usr</code></sub>
@@ -84,7 +84,7 @@
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
 
-#### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.1...HEAD)
+#### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.2...HEAD)
 
 - [ ] [<code>xsettings: Round the Xft.dpi setting to an integer</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4e5191193b614f626484c5038b18f9b840b2e62a)
 - [ ] [<code>power: Fix free order</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fee772e084a2355780c22de30431ee0f225326a)
@@ -128,7 +128,7 @@
 - [ ] [<code>Added GoLand and PhpStorm icons (#333)</code>](https://github.com/linuxmint/mint-y-icons/commit/c13ce4cc856c4e463b1314fd6828c156647eaaa9)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.3...HEAD)
+#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
 
 - [ ] [<code>meta-gpu-xrandr: Account for the current user text scale factor</code>](https://github.com/linuxmint/muffin/commit/c3221924fdf409f820311c4e37ce9e6f912ff34b)
 - [ ] [<code>window.c: Allow meta_window_get_xwindow() to be used with</code>](https://github.com/linuxmint/muffin/commit/e44d231d547cb6503c09df449ac37d8fdf61decc)
@@ -139,7 +139,7 @@
 - [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.3...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.4...HEAD)
 
 - [ ] [<code>nemo-view-dnd.c: Fix the check for a web link's title, and use the</code>](https://github.com/linuxmint/nemo/commit/5b6cc56124a26e18dcf4b1c5f8ab8d34992f06d6)
 - [ ] [<code>nemo-mime-actions.c: Prioritize an http link to open in a browser,</code>](https://github.com/linuxmint/nemo/commit/818d2fe789420bcff26c0564e197937a4071f36a)
