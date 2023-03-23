@@ -7,6 +7,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch to GHCR containers (#2014)</code>](https://github.com/elementary/appcenter/commit/8a60ef9fa8d78ae05108c1ebd2a80fa6e2f8cd50)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/appcenter/commit/db475f8389028f794a5e247f2b9af9020475ec9f)
+- [ ] [<code>Show Flatpak permissions (#2007)</code>](https://github.com/elementary/appcenter/commit/4ba9a79c2b2e0479aa6d92d9b9a53ce03aae8f30)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -224,6 +226,8 @@
 - [ ] [<code>Switch to GHCR containers (#154)</code>](https://github.com/elementary/sideload/commit/83be40b986f582ac6abf5994ab56ae3a92b16d54)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/sideload/commit/ae2426d93dc973c62be03b1a63f33dd71249f3e1)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#155)</code>](https://github.com/elementary/sideload/commit/65a6471da8ffceff58c1367f9e8710dd5e717941)
+- [ ] [<code>Show flatpak permission warning (#153)</code>](https://github.com/elementary/sideload/commit/f5f338fab57a24ed151ec4897c9045c325eb709a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -446,6 +450,7 @@
 - [ ] [<code>Devices: Remove unused symlinks (#1182)</code>](https://github.com/elementary/icons/commit/1bc1d089b8faa1407ab3647ce66868cdc9b2d436)
 - [ ] [<code>Switch to GHCR containers (#1183)</code>](https://github.com/elementary/icons/commit/843709e62fd6c5f670fe0db9786dc9f490e44484)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/icons/commit/db7c2e657c4df1eba2dc98db1e97dcb4892e559a)
+- [ ] [<code>Add Adw icons (#1186)</code>](https://github.com/elementary/icons/commit/5b7ffe85cded2fa3ce682510706601c1289da004)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -540,6 +545,8 @@
 - [ ] [<code>Switch to GHCR containers (#1576)</code>](https://github.com/elementary/gala/commit/c789d9118b1cb5bf605c5854955bf0136be82d66)
 - [ ] [<code>WindowClone: Don't calculate offset (#1567)</code>](https://github.com/elementary/gala/commit/b7139add2333e5419afd1c82c3790d85044c1f76)
 - [ ] [<code>Map notification windows manually while switching workspace (#1577)</code>](https://github.com/elementary/gala/commit/97b33173e2ee8b4a4af3fe0513b6d264de9d9b2a)
+- [ ] [<code>Use ClickAction for FramedBackground and close buttons (#1579)</code>](https://github.com/elementary/gala/commit/79453b324d2e737ba32124212632e1269c6c9af1)
+- [ ] [<code>Update gala.appdata.xml.in (#1581)</code>](https://github.com/elementary/gala/commit/2e86e343b569802f8a9588c4f1f8439e35a2110c)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
