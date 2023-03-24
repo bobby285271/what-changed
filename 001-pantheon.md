@@ -66,6 +66,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#1286)</code>](https://github.com/elementary/code/commit/ed2389f3cd99126e02d9836552acb4ece4d5972b)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#1287)</code>](https://github.com/elementary/code/commit/c039e74003f319d25e642a1c530de7f33b778ab7)
 - [ ] [<code>Delay asking for save location if cannot determine write access (#1280)</code>](https://github.com/elementary/code/commit/598bbe99757eabb29aab7fbf8116d84beb609642)
+- [ ] [<code>Additional Search options in menu (#1276)</code>](https://github.com/elementary/code/commit/5fb97e26797f981bbb3a6f783846a58b6544f238)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -439,6 +440,14 @@
 - [ ] [<code>Switch to GHCR containers (#1247)</code>](https://github.com/elementary/stylesheet/commit/4c4a81b5b904d6dc5bd9fa37b372b4442a7bcc8c)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/stylesheet/commit/fe0de96ebc621d910510caa81ed5d10f7613ba8a)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/stylesheet/commit/c05b76f6f9e1ab7cae866a6b48d47bb845b6751a)
+- [ ] [<code>Support Adw.PreferencesWindow (#1245)</code>](https://github.com/elementary/stylesheet/commit/7754ec2bf2c9f1bb19807e9d0998c6201b740a95)
+- [ ] [<code>Add adw/AboutWindow</code>](https://github.com/elementary/stylesheet/commit/f03a9de314b3db30e944352292e5b5e6139082d7)
+- [ ] [<code>Popovers: slightly less specific row selector</code>](https://github.com/elementary/stylesheet/commit/449a3116d5d9513cb7ff6c58cc1168ac56723a2e)
+- [ ] [<code>Add Adw.StatusPage</code>](https://github.com/elementary/stylesheet/commit/8df928c8ea02656a1a2a9d10fc46de4277cd6f15)
+- [ ] [<code>Add release notes for 7.1.0 (#1249)</code>](https://github.com/elementary/stylesheet/commit/71ff2f42541f5d7e93bbf24686ae65cef7456d86)
+- [ ] [<code>Add searchbar styles</code>](https://github.com/elementary/stylesheet/commit/d5e9eb2fe7041b1a72d6f63a011b9816c8f05900)
+- [ ] [<code>Headerbars: add spacing between buttons</code>](https://github.com/elementary/stylesheet/commit/eec5d4711a3894fb5f36e925024a0e8cf4f71092)
+- [ ] [<code>TabBar: fix transparency issues</code>](https://github.com/elementary/stylesheet/commit/bd7f94ae13a30dc1c1088c84bc6d882d8a59d3b1)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
