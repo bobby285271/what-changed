@@ -448,6 +448,7 @@
 - [ ] [<code>Add searchbar styles</code>](https://github.com/elementary/stylesheet/commit/d5e9eb2fe7041b1a72d6f63a011b9816c8f05900)
 - [ ] [<code>Headerbars: add spacing between buttons</code>](https://github.com/elementary/stylesheet/commit/eec5d4711a3894fb5f36e925024a0e8cf4f71092)
 - [ ] [<code>TabBar: fix transparency issues</code>](https://github.com/elementary/stylesheet/commit/bd7f94ae13a30dc1c1088c84bc6d882d8a59d3b1)
+- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/27a9296e502eca4c5a0107da1ff292f4a6f65c06)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
