@@ -67,6 +67,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#1287)</code>](https://github.com/elementary/code/commit/c039e74003f319d25e642a1c530de7f33b778ab7)
 - [ ] [<code>Delay asking for save location if cannot determine write access (#1280)</code>](https://github.com/elementary/code/commit/598bbe99757eabb29aab7fbf8116d84beb609642)
 - [ ] [<code>Additional Search options in menu (#1276)</code>](https://github.com/elementary/code/commit/5fb97e26797f981bbb3a6f783846a58b6544f238)
+- [ ] [<code>Implement option to show files with unknown characters as new document (#1283)</code>](https://github.com/elementary/code/commit/5eba475f7fe6b8b87d5fcd7fb308f75f94d9b99e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
