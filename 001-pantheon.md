@@ -450,6 +450,9 @@
 - [ ] [<code>Headerbars: add spacing between buttons</code>](https://github.com/elementary/stylesheet/commit/eec5d4711a3894fb5f36e925024a0e8cf4f71092)
 - [ ] [<code>TabBar: fix transparency issues</code>](https://github.com/elementary/stylesheet/commit/bd7f94ae13a30dc1c1088c84bc6d882d8a59d3b1)
 - [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/27a9296e502eca4c5a0107da1ff292f4a6f65c06)
+- [ ] [<code>Release 7.1.0 (#1250)</code>](https://github.com/elementary/stylesheet/commit/a75a3c2b1af13201d8a867293beafccaab63c1b0)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -462,6 +465,8 @@
 - [ ] [<code>Switch to GHCR containers (#1183)</code>](https://github.com/elementary/icons/commit/843709e62fd6c5f670fe0db9786dc9f490e44484)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/icons/commit/db7c2e657c4df1eba2dc98db1e97dcb4892e559a)
 - [ ] [<code>Add Adw icons (#1186)</code>](https://github.com/elementary/icons/commit/5b7ffe85cded2fa3ce682510706601c1289da004)
+- [ ] [<code>Add GNOME UI icons to actions (#1185)</code>](https://github.com/elementary/icons/commit/1da6b6e6b8d6e5472b0309dd618a075c9f3f34bc)
+- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/00a1d571cfa23dd7ee974bd5f5a69f0fcafa5143)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -558,6 +563,7 @@
 - [ ] [<code>Map notification windows manually while switching workspace (#1577)</code>](https://github.com/elementary/gala/commit/97b33173e2ee8b4a4af3fe0513b6d264de9d9b2a)
 - [ ] [<code>Use ClickAction for FramedBackground and close buttons (#1579)</code>](https://github.com/elementary/gala/commit/79453b324d2e737ba32124212632e1269c6c9af1)
 - [ ] [<code>Update gala.appdata.xml.in (#1581)</code>](https://github.com/elementary/gala/commit/2e86e343b569802f8a9588c4f1f8439e35a2110c)
+- [ ] [<code>Remove texture.png (#1582)</code>](https://github.com/elementary/gala/commit/4957906bc64515024761d58bb31687f279997e26)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
