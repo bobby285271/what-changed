@@ -90,9 +90,10 @@
 - [ ] [<code>power: Fix free order</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fee772e084a2355780c22de30431ee0f225326a)
 - [ ] [<code>xsettings: Override the active icon and gtk theme when 'high-contrast'</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b012dde801f53de5ddec3cf8c8d820f9d26a6566)
 - [ ] [<code>build: don't hardcode files install dir as / (#378)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e737c729af45bfe40c683e7a541a7bbe0957dfa6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power: Allow the minimum display brightness to be overridden.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/85c0024c29bf0e5b8f49b91a5b0aaec0b18e0730)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
@@ -296,6 +297,15 @@
 - [ ] [<code>bubblewrap: Fixes for debian/lmde.</code>](https://github.com/linuxmint/warpinator/commit/c0a2998a21e429d29c02b12870b5da4341c2d074)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>transfers.py: Use generic getter for file content type.</code>](https://github.com/linuxmint/warpinator/commit/efc9e5621cb335a54eed6728818e2a7a25b81ed4)
+- [ ] [<code>build: Fix dh_python3 byte-compilation.</code>](https://github.com/linuxmint/warpinator/commit/471d78a6f1b16077645c2b33e4ce5e174f51e2bf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Simplify startup scripts.</code>](https://github.com/linuxmint/warpinator/commit/036de05c984ab83196b9943a53161426904e1530)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Remove some remnants of a previous grpc version.</code>](https://github.com/linuxmint/warpinator/commit/f1045ca3b42f2db797380e648fa8598b582e9f6a)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>free space monitor: Improve readability, comments.</code>](https://github.com/linuxmint/warpinator/commit/4cd477d5d6b94b51be0e2a0f4f7b1f0021fd5cb5)
+- [ ] [<code>free space: Don't run the monitor when only sending files.</code>](https://github.com/linuxmint/warpinator/commit/21b23bcae79bc89c1de8dead70d78b613b63d16b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
