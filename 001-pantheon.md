@@ -564,6 +564,7 @@
 - [ ] [<code>Use ClickAction for FramedBackground and close buttons (#1579)</code>](https://github.com/elementary/gala/commit/79453b324d2e737ba32124212632e1269c6c9af1)
 - [ ] [<code>Update gala.appdata.xml.in (#1581)</code>](https://github.com/elementary/gala/commit/2e86e343b569802f8a9588c4f1f8439e35a2110c)
 - [ ] [<code>Remove texture.png (#1582)</code>](https://github.com/elementary/gala/commit/4957906bc64515024761d58bb31687f279997e26)
+- [ ] [<code>Ignore autorepeat for some keybindings (#1583)</code>](https://github.com/elementary/gala/commit/aebe2d51394422ddc2e03518639a47663290fc63)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
