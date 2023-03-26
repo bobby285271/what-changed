@@ -429,30 +429,8 @@
 - [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.0.1 → HEAD](https://github.com/elementary/stylesheet/compare/7.0.1...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.1.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/stylesheet/commit/318964c94ecf00738a9b6ae56955c7a1a7f809f6)
-- [ ] [<code>actions/checkout@v3 (#1238)</code>](https://github.com/elementary/stylesheet/commit/a735bfea795f7c348d2e264ba6f4f006891e5d66)
-- [ ] [<code>HeaderBars: Style headerbars without .titlebar too</code>](https://github.com/elementary/stylesheet/commit/c0028159dd5a7767ead9a12e9a4cfb693159c823)
-- [ ] [<code>HeaderBars: Remove HdyWindow styles for gtk4</code>](https://github.com/elementary/stylesheet/commit/2b9aa7aabce8ab2656340de41f7d5194ddd62078)
-- [ ] [<code>Notebooks: Style AdwTabBar</code>](https://github.com/elementary/stylesheet/commit/88682d3e931fdd46682d3ac8f1f1e700e2514c56)
-- [ ] [<code>Windows: Support fullscreen</code>](https://github.com/elementary/stylesheet/commit/bb15232abc6167a305b4404467498d11901aea69)
-- [ ] [<code>GTK4: Support `.keyboard-activating` class for buttons (#1246)</code>](https://github.com/elementary/stylesheet/commit/a93cb4c4a8bc1941f860e473fd496eba2654fe5c)
-- [ ] [<code>Switch to GHCR containers (#1247)</code>](https://github.com/elementary/stylesheet/commit/4c4a81b5b904d6dc5bd9fa37b372b4442a7bcc8c)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/stylesheet/commit/fe0de96ebc621d910510caa81ed5d10f7613ba8a)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/stylesheet/commit/c05b76f6f9e1ab7cae866a6b48d47bb845b6751a)
-- [ ] [<code>Support Adw.PreferencesWindow (#1245)</code>](https://github.com/elementary/stylesheet/commit/7754ec2bf2c9f1bb19807e9d0998c6201b740a95)
-- [ ] [<code>Add adw/AboutWindow</code>](https://github.com/elementary/stylesheet/commit/f03a9de314b3db30e944352292e5b5e6139082d7)
-- [ ] [<code>Popovers: slightly less specific row selector</code>](https://github.com/elementary/stylesheet/commit/449a3116d5d9513cb7ff6c58cc1168ac56723a2e)
-- [ ] [<code>Add Adw.StatusPage</code>](https://github.com/elementary/stylesheet/commit/8df928c8ea02656a1a2a9d10fc46de4277cd6f15)
-- [ ] [<code>Add release notes for 7.1.0 (#1249)</code>](https://github.com/elementary/stylesheet/commit/71ff2f42541f5d7e93bbf24686ae65cef7456d86)
-- [ ] [<code>Add searchbar styles</code>](https://github.com/elementary/stylesheet/commit/d5e9eb2fe7041b1a72d6f63a011b9816c8f05900)
-- [ ] [<code>Headerbars: add spacing between buttons</code>](https://github.com/elementary/stylesheet/commit/eec5d4711a3894fb5f36e925024a0e8cf4f71092)
-- [ ] [<code>TabBar: fix transparency issues</code>](https://github.com/elementary/stylesheet/commit/bd7f94ae13a30dc1c1088c84bc6d882d8a59d3b1)
-- [ ] [<code>Update stylesheet.appdata.xml.in</code>](https://github.com/elementary/stylesheet/commit/27a9296e502eca4c5a0107da1ff292f4a6f65c06)
-- [ ] [<code>Release 7.1.0 (#1250)</code>](https://github.com/elementary/stylesheet/commit/a75a3c2b1af13201d8a867293beafccaab63c1b0)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
