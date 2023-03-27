@@ -543,6 +543,7 @@
 - [ ] [<code>Update gala.appdata.xml.in (#1581)</code>](https://github.com/elementary/gala/commit/2e86e343b569802f8a9588c4f1f8439e35a2110c)
 - [ ] [<code>Remove texture.png (#1582)</code>](https://github.com/elementary/gala/commit/4957906bc64515024761d58bb31687f279997e26)
 - [ ] [<code>Ignore autorepeat for some keybindings (#1583)</code>](https://github.com/elementary/gala/commit/aebe2d51394422ddc2e03518639a47663290fc63)
+- [ ] [<code>Minimze: Don't restore actor properties (#1585)</code>](https://github.com/elementary/gala/commit/ac73dfe0173a51ab1de08e079386c1c3f2c07fc1)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
