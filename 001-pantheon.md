@@ -46,6 +46,11 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#256)</code>](https://github.com/elementary/camera/commit/ab5450bc327a05ee7827be91df91851ce6f97a7f)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#257)</code>](https://github.com/elementary/camera/commit/cb50c39d9a4a007df0c3509a8a6a118f915bf2ab)
 - [ ] [<code>Update flatpak actions to new namespace (#258)</code>](https://github.com/elementary/camera/commit/e751f1d54fe20a1d3753c71dd43e544ff8bccbca)
+- [ ] [<code>editorconfig: increase max_line_length to 120</code>](https://github.com/elementary/camera/commit/100e367e32b76db77c3d4c96ff4ff1458cc52d26)
+- [ ] [<code>MainWindow: don't add resource path to IconTheme</code>](https://github.com/elementary/camera/commit/93c8c2c36bbe0b12dbd6697a4259416bcbfbb2ff)
+- [ ] [<code>Application: update copyright, use SPDX license header</code>](https://github.com/elementary/camera/commit/9a7af1eb946ebf1cac795cd2fa0740cf0c6ebed4)
+- [ ] [<code>Application: modernize</code>](https://github.com/elementary/camera/commit/70a0893649634b768e22f60a5d951e7fd107682e)
+- [ ] [<code>Application: implement startup()</code>](https://github.com/elementary/camera/commit/be89e54398591209d913ff3d74aa5481634a98f2)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -68,6 +73,9 @@
 - [ ] [<code>Delay asking for save location if cannot determine write access (#1280)</code>](https://github.com/elementary/code/commit/598bbe99757eabb29aab7fbf8116d84beb609642)
 - [ ] [<code>Additional Search options in menu (#1276)</code>](https://github.com/elementary/code/commit/5fb97e26797f981bbb3a6f783846a58b6544f238)
 - [ ] [<code>Implement option to show files with unknown characters as new document (#1283)</code>](https://github.com/elementary/code/commit/5eba475f7fe6b8b87d5fcd7fb308f75f94d9b99e)
+- [ ] [<code>Do not recreate SearchContext for same document (#1294)</code>](https://github.com/elementary/code/commit/a06e33ff377d3af06ec6f4fab72291f23110aebe)
+- [ ] [<code>Update code.metainfo.xml.in</code>](https://github.com/elementary/code/commit/00f30124dc92d14d7c8e7190db7e6a266e229baf)
+- [ ] [<code>Add ctrl + pageUp and pageDown for switching tabs (#1297)</code>](https://github.com/elementary/code/commit/aec73bd33d1eb642b201af08f4fdbdb72eab10ae)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -544,6 +552,7 @@
 - [ ] [<code>Remove texture.png (#1582)</code>](https://github.com/elementary/gala/commit/4957906bc64515024761d58bb31687f279997e26)
 - [ ] [<code>Ignore autorepeat for some keybindings (#1583)</code>](https://github.com/elementary/gala/commit/aebe2d51394422ddc2e03518639a47663290fc63)
 - [ ] [<code>Minimze: Don't restore actor properties (#1585)</code>](https://github.com/elementary/gala/commit/ac73dfe0173a51ab1de08e079386c1c3f2c07fc1)
+- [ ] [<code>Daemon: Workaround broken window menu for some apps (#1574)</code>](https://github.com/elementary/gala/commit/4c78a15883a01556e85906c4616223df290d5e12)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -663,6 +672,7 @@
 - [ ] [<code>Fix build with newer Vala (#637)</code>](https://github.com/elementary/granite/commit/9065ac67831022bb9482f9405254a18924c7332d)
 - [ ] [<code>Switch to GHCR containers (#640)</code>](https://github.com/elementary/granite/commit/6d0e7f317b632f20f3998e9a6f6e30f8ccceea1b)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/granite/commit/4a1ec52a010432adad5dd10d43ed44528b1e66d9)
+- [ ] [<code>settings: remove inappropriate ownership annotation (#642)</code>](https://github.com/elementary/granite/commit/637a51fe8d13a986ce55b35729f19bf50117c114)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -691,6 +701,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/settings-daemon/commit/9138dcc7efabfe5347d894c0133253145ab0b26a)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/63fecc12db4f084878061c9e246a2874ef416de3)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#59)</code>](https://github.com/elementary/settings-daemon/commit/d6614fb82121074321031509d2995a1175c41d86)
+- [ ] [<code>Portal: Support accent colors (#60)</code>](https://github.com/elementary/settings-daemon/commit/5fa356faa06c310e5ac1b4bbf00d3dfa92799f46)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
