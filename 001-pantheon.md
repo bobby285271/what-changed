@@ -139,6 +139,10 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#833)</code>](https://github.com/elementary/mail/commit/3030bd207127e39342dd3d615f70a2ccb63e7884)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#832)</code>](https://github.com/elementary/mail/commit/6b6c903f30232d468f5d10bd626da10be03c7d1c)
 - [ ] [<code>Update flatpak actions to new namespace (#834)</code>](https://github.com/elementary/mail/commit/10678dc246a1267c90737695a5fb40583da063fc)
+- [ ] [<code>ComposerWidget: replace grid/box, code style (#839)</code>](https://github.com/elementary/mail/commit/e0a3bc8b8ee95b327e10f58326b5f7952d427a53)
+- [ ] [<code>AttachmentBar: Update style classes, include dialog (#841)</code>](https://github.com/elementary/mail/commit/1db1a43b38dcff2bea5a2b63be762d9b60c27971)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Dialogs use present and response connect (#838)</code>](https://github.com/elementary/mail/commit/cbdd81cbbbb42ccfeaa7140690306f288c183efe)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -553,6 +557,7 @@
 - [ ] [<code>Ignore autorepeat for some keybindings (#1583)</code>](https://github.com/elementary/gala/commit/aebe2d51394422ddc2e03518639a47663290fc63)
 - [ ] [<code>Minimze: Don't restore actor properties (#1585)</code>](https://github.com/elementary/gala/commit/ac73dfe0173a51ab1de08e079386c1c3f2c07fc1)
 - [ ] [<code>Daemon: Workaround broken window menu for some apps (#1574)</code>](https://github.com/elementary/gala/commit/4c78a15883a01556e85906c4616223df290d5e12)
+- [ ] [<code>WindowOverview and WindowCloneContainer: Cleanup (#1587)</code>](https://github.com/elementary/gala/commit/f75159568aedd1bf584d6517d804d0d276aea114)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
