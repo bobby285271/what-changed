@@ -540,6 +540,7 @@
 - [ ] [<code>Add .editorconfig</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/52007d9869bdaf20c5fea9e67ab80bc934e542c5)
 - [ ] [<code>Actions: Fixed ubuntu version and use ghcr</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/33904593d1ec98b9f82778f7616d3c89c1a7bfcb)
 - [ ] [<code>dependabot: Create .github/dependabot.yml</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/384e7a7c128e4f3085f7de84e72a35677583658e)
+- [ ] [<code>Update portuguese (pt) translation (#177)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e183346f38fe8ce023f5cfd27348e4e1e6f8fcb4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
