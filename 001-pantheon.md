@@ -528,6 +528,8 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/onboarding/commit/8e02fc60e44aed94532cedbcd916f677d184ab8b)
 - [ ] [<code>EarlyAccess: use a list (#195)</code>](https://github.com/elementary/onboarding/commit/81b6c7fae41963f72b5aae62cad2f73f0bfa53b1)
 - [ ] [<code>Application: use startup () (#194)</code>](https://github.com/elementary/onboarding/commit/f132767bd5e0c0540929dd4d4b8f78455f826022)
+- [ ] [<code>Adjust layouts, spacing, and typography (#197)</code>](https://github.com/elementary/onboarding/commit/e68810ece6a9c7b99d92444765f765219694aa41)
+- [ ] [<code>WelcomeView: adjust button spacing, shorten title (#199)</code>](https://github.com/elementary/onboarding/commit/a1d85960d699e01207f17daf7268a07f5a9bf668)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -573,6 +575,11 @@
 - [ ] [<code>Daemon: Workaround broken window menu for some apps (#1574)</code>](https://github.com/elementary/gala/commit/4c78a15883a01556e85906c4616223df290d5e12)
 - [ ] [<code>WindowOverview and WindowCloneContainer: Cleanup (#1587)</code>](https://github.com/elementary/gala/commit/f75159568aedd1bf584d6517d804d0d276aea114)
 - [ ] [<code>Don't connect to Meta.Display.restacked (#1588)</code>](https://github.com/elementary/gala/commit/4f1084e011d63ae9b317a30ab377b19c221d79b2)
+- [ ] [<code>WindowSwitcher: Select a window on button release (#1590)</code>](https://github.com/elementary/gala/commit/4223141b4c542fdb9bc4a653c8730c15a19b887a)
+- [ ] [<code>Set keyboard layout using `lock_layout_group` (#1589)</code>](https://github.com/elementary/gala/commit/5b91f9156d0b199372a08b1960adcedfcaa255a9)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowTracker: Remove unused connection to notify["focus-window"] (#1592)</code>](https://github.com/elementary/gala/commit/e9d53701af848b7a35ea1ca97054472084253a74)
+- [ ] [<code>WindowOverview: Use `button_release_event` (#1593)</code>](https://github.com/elementary/gala/commit/726bf097bece8aced96217b82271ba2f002fef24)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
