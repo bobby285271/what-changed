@@ -76,6 +76,8 @@
 - [ ] [<code>Do not recreate SearchContext for same document (#1294)</code>](https://github.com/elementary/code/commit/a06e33ff377d3af06ec6f4fab72291f23110aebe)
 - [ ] [<code>Update code.metainfo.xml.in</code>](https://github.com/elementary/code/commit/00f30124dc92d14d7c8e7190db7e6a266e229baf)
 - [ ] [<code>Add ctrl + pageUp and pageDown for switching tabs (#1297)</code>](https://github.com/elementary/code/commit/aec73bd33d1eb642b201af08f4fdbdb72eab10ae)
+- [ ] [<code>Persist search settings (#1291)</code>](https://github.com/elementary/code/commit/9fce31693e86ccd0ace5278129a2ac029c8cd2ca)
+- [ ] [<code>Set search entry icon and styleclass according to results (#1285)</code>](https://github.com/elementary/code/commit/dc7b1a6d0de2179e7b2ae0b6d4800e7f8c2cf951)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -143,6 +145,7 @@
 - [ ] [<code>AttachmentBar: Update style classes, include dialog (#841)</code>](https://github.com/elementary/mail/commit/1db1a43b38dcff2bea5a2b63be762d9b60c27971)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Dialogs use present and response connect (#838)</code>](https://github.com/elementary/mail/commit/cbdd81cbbbb42ccfeaa7140690306f288c183efe)
+- [ ] [<code>MessageListBox: set action enabled directly (#840)</code>](https://github.com/elementary/mail/commit/84ecbf6e11082aee6b2d59b85ee3abd94e0cead6)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -218,6 +221,8 @@
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/terminal/commit/0ae1211748272ec11d01489376ec103881ad8e81)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#713)</code>](https://github.com/elementary/terminal/commit/2f0fb726bce6f5e3c475a4d8859436de347fe6b5)
+- [ ] [<code>Remove ctrl + shift + left / right for tab switching (#716)</code>](https://github.com/elementary/terminal/commit/cba335883af14364868059c5436fdad4d16f1bb7)
+- [ ] [<code>Add option to start minimized (#715)</code>](https://github.com/elementary/terminal/commit/a66db222d5f6845a66389e514c5936efb69991a2)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -242,6 +247,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#155)</code>](https://github.com/elementary/sideload/commit/65a6471da8ffceff58c1367f9e8710dd5e717941)
 - [ ] [<code>Show flatpak permission warning (#153)</code>](https://github.com/elementary/sideload/commit/f5f338fab57a24ed151ec4897c9045c325eb709a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/sideload/commit/a1f1bbd055591b29623ef64b8cff08e3bfbfc943)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -387,6 +393,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/ed391cbba5fc59a3f417088c68f12a55b7f54c70)
 - [ ] [<code>Switch to GHCR containers (#252)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/ff714d63ed009299725cc25e1948121936cfd4b9)
+- [ ] [<code>Use the entered IMAP credentials instead of the default value</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/619759d9cd3dd7e985f4cbc139c76e2c31787500)
+- [ ] [<code>Sync the text for the SMTP username to the IMAP username</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/25fd736d5235d223c2d91785ee0f69ccdd408069)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -514,6 +522,12 @@
 - [ ] [<code>ci: Switch to GHCR containers (#191)</code>](https://github.com/elementary/onboarding/commit/4fd6887178459a0ae0dedfe5c3deb7b24a340e76)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/onboarding/commit/1186ec40d7163cdccb8ba5f43462aaf6d546834a)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#192)</code>](https://github.com/elementary/onboarding/commit/63a66e4020e4eabbdacfb64591413a2eaebeaaad)
+- [ ] [<code>Metainfo: modernize (#193)</code>](https://github.com/elementary/onboarding/commit/bd341d49fd4910b505dbdac0663665a280b2e880)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update onboarding.metainfo.xml.in</code>](https://github.com/elementary/onboarding/commit/2baf97e79056f563c55289a94edb8c35d00e720c)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/onboarding/commit/8e02fc60e44aed94532cedbcd916f677d184ab8b)
+- [ ] [<code>EarlyAccess: use a list (#195)</code>](https://github.com/elementary/onboarding/commit/81b6c7fae41963f72b5aae62cad2f73f0bfa53b1)
+- [ ] [<code>Application: use startup () (#194)</code>](https://github.com/elementary/onboarding/commit/f132767bd5e0c0540929dd4d4b8f78455f826022)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -558,6 +572,7 @@
 - [ ] [<code>Minimze: Don't restore actor properties (#1585)</code>](https://github.com/elementary/gala/commit/ac73dfe0173a51ab1de08e079386c1c3f2c07fc1)
 - [ ] [<code>Daemon: Workaround broken window menu for some apps (#1574)</code>](https://github.com/elementary/gala/commit/4c78a15883a01556e85906c4616223df290d5e12)
 - [ ] [<code>WindowOverview and WindowCloneContainer: Cleanup (#1587)</code>](https://github.com/elementary/gala/commit/f75159568aedd1bf584d6517d804d0d276aea114)
+- [ ] [<code>Don't connect to Meta.Display.restacked (#1588)</code>](https://github.com/elementary/gala/commit/4f1084e011d63ae9b317a30ab377b19c221d79b2)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
