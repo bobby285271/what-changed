@@ -581,6 +581,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>WindowTracker: Remove unused connection to notify["focus-window"] (#1592)</code>](https://github.com/elementary/gala/commit/e9d53701af848b7a35ea1ca97054472084253a74)
 - [ ] [<code>WindowOverview: Use `button_release_event` (#1593)</code>](https://github.com/elementary/gala/commit/726bf097bece8aced96217b82271ba2f002fef24)
+- [ ] [<code>Use separate `notification_group` for notifications (#1598)</code>](https://github.com/elementary/gala/commit/cf2b835641442eccfa9ad3db5f90a31bf06bed0b)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
