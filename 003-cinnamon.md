@@ -140,7 +140,7 @@
 - [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.4...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
 
 - [ ] [<code>nemo-view-dnd.c: Fix the check for a web link's title, and use the</code>](https://github.com/linuxmint/nemo/commit/5b6cc56124a26e18dcf4b1c5f8ab8d34992f06d6)
 - [ ] [<code>nemo-mime-actions.c: Prioritize an http link to open in a browser,</code>](https://github.com/linuxmint/nemo/commit/818d2fe789420bcff26c0564e197937a4071f36a)
@@ -161,6 +161,7 @@
 - [ ] [<code>Fix memleaks (#3131)</code>](https://github.com/linuxmint/nemo/commit/c347e57626b4603dd02705f0878d53c694f4cfc1)
 - [ ] [<code>file info: Use generic methods for attributes that aren't guaranteed</code>](https://github.com/linuxmint/nemo/commit/05990082cf6b5fa6f6a15d00ea0e55e83ea3900a)
 - [ ] [<code>Fix some more GFileInfo getter problems.</code>](https://github.com/linuxmint/nemo/commit/cfa437cb5b149792b432348c4471c07fc4d9f2a5)
+- [ ] [<code>Stop "Searching..." pop-up button from disappearing when opening a file (#3177)</code>](https://github.com/linuxmint/nemo/commit/2540e4d43d0b223866e1993963a46d3ac82508c9)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -308,7 +309,7 @@
 - [ ] [<code>free space: Don't run the monitor when only sending files.</code>](https://github.com/linuxmint/warpinator/commit/21b23bcae79bc89c1de8dead70d78b613b63d16b)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.2...HEAD)
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
 - [ ] [<code>favorite-vfs-file.c: Lock the settings object when modifying root</code>](https://github.com/linuxmint/xapp/commit/09fb7fc143bb3be65c3d8a314e81fbcee93c4085)
 - [ ] [<code>Fix ENABLE_DEBUG definition in the build.</code>](https://github.com/linuxmint/xapp/commit/020a040e374870e80a38ff95782175ebfa39af52)
