@@ -146,6 +146,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Dialogs use present and response connect (#838)</code>](https://github.com/elementary/mail/commit/cbdd81cbbbb42ccfeaa7140690306f288c183efe)
 - [ ] [<code>MessageListBox: set action enabled directly (#840)</code>](https://github.com/elementary/mail/commit/84ecbf6e11082aee6b2d59b85ee3abd94e0cead6)
+- [ ] [<code>Replace unnecessary grids with boxes (#843)</code>](https://github.com/elementary/mail/commit/a0c2fab8f6b26da03d74fb805f71f4750b129066)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
