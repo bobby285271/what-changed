@@ -51,8 +51,11 @@
 - [ ] [<code>Use pseudo class 'hover' instead of class ... (#11473)</code>](https://github.com/linuxmint/cinnamon/commit/a56ecebbf9499da2db8020c17c31ccefda9e7cce)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Enables extensions marked to overide version check to be removed. (#11510)</code>](https://github.com/linuxmint/cinnamon/commit/e062391adc697ec1e39088bc3cca13306378d762)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Remove simple-system-monitor@ariel as a known conflict (#11591)</code>](https://github.com/linuxmint/cinnamon/commit/5f2d341cffe982056cafafbcaad4445610eb2bed)
+- [ ] [<code>Fix super+shift+number not disabling in grouped-window-list applet (#11464)</code>](https://github.com/linuxmint/cinnamon/commit/8dbb5bdc919cbe625bf44ebfee2abab490ef1c69)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -127,6 +130,14 @@
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
 
 - [ ] [<code>Added GoLand and PhpStorm icons (#333)</code>](https://github.com/linuxmint/mint-y-icons/commit/c13ce4cc856c4e463b1314fd6828c156647eaaa9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove fullcolor monochrome actions</code>](https://github.com/linuxmint/mint-y-icons/commit/901153794ff4c6894e114563cd768274077a8a1b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove dark icon themes</code>](https://github.com/linuxmint/mint-y-icons/commit/8b395de6e09621ee175274e5b8d784cf8798bae6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Refactor Places generator</code>](https://github.com/linuxmint/mint-y-icons/commit/67e2aaeb737dbc8ef9be7b04134d089e88740750)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rework place colors</code>](https://github.com/linuxmint/mint-y-icons/commit/e8ec0501dc9450e1100833a8b5db1e72d20b3f0c)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
@@ -330,7 +341,19 @@
 - [ ] [<code>favorites: Use generic getter for content type check.</code>](https://github.com/linuxmint/xapp/commit/bf90c156a3375ee27850671eddc8217e04a68347)
 - [ ] [<code>sn-item.c: Don't set an empty dbusmenu widget when we receive</code>](https://github.com/linuxmint/xapp/commit/380fa81a1defccd5ab73e252bf9136cae992dc1d)
 - [ ] [<code>xapp-status-icon.c: Don't destroy the dummy event window too early.</code>](https://github.com/linuxmint/xapp/commit/3ef9861d6228c2061fbde2c0554be5ae6f42befa)
+- [ ] [<code>Use generic pattern for the build directory in `.gitignore`</code>](https://github.com/linuxmint/xapp/commit/f5d23ade4fd410f89d1c15eedd054474fe0ecb1a)
+- [ ] [<code>debian: Strip leading slashes from paths in *.install files</code>](https://github.com/linuxmint/xapp/commit/200c02eb85d490aa1a1863d004ca54cbea23bdd5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>debian: Amend copyright file</code>](https://github.com/linuxmint/xapp/commit/93344ed538549d40f3d1e49c85064d9844cb6d36)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian: Amend rules file</code>](https://github.com/linuxmint/xapp/commit/b28a83cdd12fe17f76c41bb224c9571809bec9f1)
+- [ ] [<code>debian: Install xinitrc script `80xapp-gtk3-module.sh` to /etc/X11/Xsession.d</code>](https://github.com/linuxmint/xapp/commit/8416bb2daa55bd02884674b7a03122c1c8a698ef)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>makedoc: Update target URL</code>](https://github.com/linuxmint/xapp/commit/97470cf2bd21f8fdb8560433db1283f9936cef6a)
+- [ ] [<code>debian: Clean up control file</code>](https://github.com/linuxmint/xapp/commit/bbe7a5920939e0fab04dcb66110818ee762220da)
+- [ ] [<code>debian: Add lintian-overrides files</code>](https://github.com/linuxmint/xapp/commit/2e65c9bb66279c3566aa0bfbf857116ccc8345cc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
