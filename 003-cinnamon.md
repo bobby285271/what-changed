@@ -86,6 +86,8 @@
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
+- [ ] [<code>main.c: Don't set GTK_OVERLAY_SCROLLING.</code>](https://github.com/linuxmint/cinnamon-session/commit/eee407c80cd186905d4ebb632a6ebb48a7de93bf)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.2...HEAD)
 
@@ -96,6 +98,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>power: Allow the minimum display brightness to be overridden.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/85c0024c29bf0e5b8f49b91a5b0aaec0b18e0730)
+- [ ] [<code>csd-xsettings-manager.c: Manage "gtk-overlay-scrolling".</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a5e3550892c34a28a3ed7879b5bcb432c158c174)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
@@ -173,6 +176,8 @@
 - [ ] [<code>file info: Use generic methods for attributes that aren't guaranteed</code>](https://github.com/linuxmint/nemo/commit/05990082cf6b5fa6f6a15d00ea0e55e83ea3900a)
 - [ ] [<code>Fix some more GFileInfo getter problems.</code>](https://github.com/linuxmint/nemo/commit/cfa437cb5b149792b432348c4471c07fc4d9f2a5)
 - [ ] [<code>Stop "Searching..." pop-up button from disappearing when opening a file (#3177)</code>](https://github.com/linuxmint/nemo/commit/2540e4d43d0b223866e1993963a46d3ac82508c9)
+- [ ] [<code>Implement a dynamic margin at the end of the file list in the list</code>](https://github.com/linuxmint/nemo/commit/e8c8b1099112f3d157849c7a1c303110ea144583)
+- [ ] [<code>window-slot: Update status bar selection info when a location is</code>](https://github.com/linuxmint/nemo/commit/ce6e2cd9777b0099d79ad559220b67236eacb40e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
