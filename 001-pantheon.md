@@ -531,6 +531,8 @@
 - [ ] [<code>Application: use startup () (#194)</code>](https://github.com/elementary/onboarding/commit/f132767bd5e0c0540929dd4d4b8f78455f826022)
 - [ ] [<code>Adjust layouts, spacing, and typography (#197)</code>](https://github.com/elementary/onboarding/commit/e68810ece6a9c7b99d92444765f765219694aa41)
 - [ ] [<code>WelcomeView: adjust button spacing, shorten title (#199)</code>](https://github.com/elementary/onboarding/commit/a1d85960d699e01207f17daf7268a07f5a9bf668)
+- [ ] [<code>Fancy logo (#198)</code>](https://github.com/elementary/onboarding/commit/7541599947e7da40603352c71060c95d8466bfbf)
+- [ ] [<code>Update Metainfo (#201)</code>](https://github.com/elementary/onboarding/commit/dcf6846174bd608d0ff58d62c928c64e93261a4c)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -582,6 +584,8 @@
 - [ ] [<code>WindowTracker: Remove unused connection to notify["focus-window"] (#1592)</code>](https://github.com/elementary/gala/commit/e9d53701af848b7a35ea1ca97054472084253a74)
 - [ ] [<code>WindowOverview: Use `button_release_event` (#1593)</code>](https://github.com/elementary/gala/commit/726bf097bece8aced96217b82271ba2f002fef24)
 - [ ] [<code>Use separate `notification_group` for notifications (#1598)</code>](https://github.com/elementary/gala/commit/cf2b835641442eccfa9ad3db5f90a31bf06bed0b)
+- [ ] [<code>Avoid connecting multiple times to `window_created` (#1599)</code>](https://github.com/elementary/gala/commit/1a4c1e8f957f9f496e73c37c4af70e5321cc6b8a)
+- [ ] [<code>Add keybindings for switching input source (#1600)</code>](https://github.com/elementary/gala/commit/cd75c04428a67091d77dc7eb450196820aaf8184)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
