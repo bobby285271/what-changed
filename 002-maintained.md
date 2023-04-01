@@ -496,6 +496,20 @@
 - [ ] [<code>Merge pull request #532 from albanobattistella/patch-21</code>](https://github.com/phase1geo/minder/commit/8d695c0cebf54756a6f1c2bd6f577a12e666797e)
 - [ ] [<code>Fixing app script warning.</code>](https://github.com/phase1geo/minder/commit/fbf808e5b2b3d4e907f77405c5d236cba279252c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Initial addition of UnicodeInsert.vala file.</code>](https://github.com/phase1geo/minder/commit/67172e2f38b21342aa45e7106778f483b0d73ba5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Complete initial coding on UnicodeInsert</code>](https://github.com/phase1geo/minder/commit/8c5b02e283ba98bad801ac54bcc451e546e65dff)
+- [ ] [<code>Completing initial support for unicode insertion.</code>](https://github.com/phase1geo/minder/commit/40f6988e369589a82e581bf6735b90179f374b7a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Missed gschema file from previous commit.</code>](https://github.com/phase1geo/minder/commit/a1524e395f1bb4174481cbf1e1b76b24d6f3e638)
+- [ ] [<code>Adding enable in preferences and gsettings to control unicode input</code>](https://github.com/phase1geo/minder/commit/84d133c33a2311bca672a2a6a213684f59453ecf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Checkpointing work on NoteView text completion support.</code>](https://github.com/phase1geo/minder/commit/29f99a94e1451e7623518a86269ffed2f05c4050)
+- [ ] [<code>Adding completion support to noteview widgets.</code>](https://github.com/phase1geo/minder/commit/53d6becc1b45355c257d9310be4d817f3de08962)
+- [ ] [<code>Merge branch '537-add-a-latex-to-unicode-command'</code>](https://github.com/phase1geo/minder/commit/f80cacddae3c8280dc025307290b3f73b6ba8bbf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Attempting to fix issue with note deletion when switching nodes.</code>](https://github.com/phase1geo/minder/commit/9fda87bd864838b4f825b7ba3c429eeba785645c)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
