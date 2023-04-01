@@ -147,6 +147,7 @@
 - [ ] [<code>Dialogs use present and response connect (#838)</code>](https://github.com/elementary/mail/commit/cbdd81cbbbb42ccfeaa7140690306f288c183efe)
 - [ ] [<code>MessageListBox: set action enabled directly (#840)</code>](https://github.com/elementary/mail/commit/84ecbf6e11082aee6b2d59b85ee3abd94e0cead6)
 - [ ] [<code>Replace unnecessary grids with boxes (#843)</code>](https://github.com/elementary/mail/commit/a0c2fab8f6b26da03d74fb805f71f4750b129066)
+- [ ] [<code>InlineComposer: Various preparations for gtk4 (#846)</code>](https://github.com/elementary/mail/commit/fa3c89078c3e99df40d0382e6b960219285ce0c5)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -633,6 +634,7 @@
 - [ ] [<code>Keep list of active transfers and ensure device widgets show any ongoing transfers (#179)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/2e0f207a79759ebebcd16bd102480652c91ca006)
 - [ ] [<code>Switch to GHCR containers (#187)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/6069ac8f2d6ec6ce58b16541fde387bb135ef9fd)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/a1b46afc7c1aeca8d33a9e3b47c7a6b4ded0aa65)
+- [ ] [<code>Use the 'alias' property instead of the 'name' property for devices (#189)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23d2560d79def1878ce0f1ac094f46bd48c04599)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -782,6 +784,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update terraform.config to 7.0 (#656)</code>](https://github.com/elementary/os/commit/036e9d0537ff7f1f59bf2a42f8677dd2756bee5b)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/os/commit/a474abe816203e80c69075f0a9fa2222ce380be4)
+- [ ] [<code>Extend regex to support double-digit loop devices</code>](https://github.com/elementary/os/commit/f24efc4ecbc5d018e8f12b33aade9e735a9deca4)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
