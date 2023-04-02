@@ -587,6 +587,9 @@
 - [ ] [<code>Use separate `notification_group` for notifications (#1598)</code>](https://github.com/elementary/gala/commit/cf2b835641442eccfa9ad3db5f90a31bf06bed0b)
 - [ ] [<code>Avoid connecting multiple times to `window_created` (#1599)</code>](https://github.com/elementary/gala/commit/1a4c1e8f957f9f496e73c37c4af70e5321cc6b8a)
 - [ ] [<code>Add keybindings for switching input source (#1600)</code>](https://github.com/elementary/gala/commit/cd75c04428a67091d77dc7eb450196820aaf8184)
+- [ ] [<code>Get MonitorManager from context (#1604)</code>](https://github.com/elementary/gala/commit/de41984e9002548d3d9c0c05e2f4f370c9cdcc7e)
+- [ ] [<code>KeyboardManager: get backend from context (#1605)</code>](https://github.com/elementary/gala/commit/7eae3c1137f6db734d3eab645c2da8757a7b6661)
+- [ ] [<code>WindowClone: optimize ActiveShape (#1603)</code>](https://github.com/elementary/gala/commit/415eed4d1764d24b103f76e715a8771b42714462)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
