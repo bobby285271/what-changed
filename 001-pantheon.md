@@ -148,6 +148,7 @@
 - [ ] [<code>MessageListBox: set action enabled directly (#840)</code>](https://github.com/elementary/mail/commit/84ecbf6e11082aee6b2d59b85ee3abd94e0cead6)
 - [ ] [<code>Replace unnecessary grids with boxes (#843)</code>](https://github.com/elementary/mail/commit/a0c2fab8f6b26da03d74fb805f71f4750b129066)
 - [ ] [<code>InlineComposer: Various preparations for gtk4 (#846)</code>](https://github.com/elementary/mail/commit/fa3c89078c3e99df40d0382e6b960219285ce0c5)
+- [ ] [<code>MessageListItem: Prep for GTK4 (#848)</code>](https://github.com/elementary/mail/commit/21b1f43a725207b70c31c959cb0a0af453fdfe4c)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -161,6 +162,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#741)</code>](https://github.com/elementary/music/commit/a78873120325db10542f0f5134a2e2205bb964c8)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#743)</code>](https://github.com/elementary/music/commit/85d8b2321ecc8241fdad73bf809501b776684f1c)
 - [ ] [<code>Update flatpak actions to new namespace (#744)</code>](https://github.com/elementary/music/commit/2d166df3417d52a228fba0b956760fcd8bbc64bf)
+- [ ] [<code>Update runtime to 7.2 (#748)</code>](https://github.com/elementary/music/commit/781df09608ae9d4f49bd8fe8b3e3ba07fef0df90)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -638,6 +640,7 @@
 - [ ] [<code>Switch to GHCR containers (#187)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/6069ac8f2d6ec6ce58b16541fde387bb135ef9fd)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/a1b46afc7c1aeca8d33a9e3b47c7a6b4ded0aa65)
 - [ ] [<code>Use the 'alias' property instead of the 'name' property for devices (#189)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23d2560d79def1878ce0f1ac094f46bd48c04599)
+- [ ] [<code>Improved response to power state changes in Switchboard (#191)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ce88a7b03231b59c57f832aa656b4763d7d1e77e)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
