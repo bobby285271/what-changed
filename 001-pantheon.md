@@ -25,6 +25,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#249)</code>](https://github.com/elementary/calculator/commit/18e018c39a972ad2d1bd4e3ae4677754a34af7ae)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#248)</code>](https://github.com/elementary/calculator/commit/ff86e338159c936aafe56f9f211b0419d70187f9)
 - [ ] [<code>Update flatpak actions to new namespace (#250)</code>](https://github.com/elementary/calculator/commit/9336425bd0e7354e4831a0657c2d0a243eab2da8)
+- [ ] [<code>Bump runtime to 7.2 (#251)</code>](https://github.com/elementary/calculator/commit/b0b08e78d5b5210bc40fe2769df06329754861f9)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -51,6 +52,7 @@
 - [ ] [<code>Application: update copyright, use SPDX license header</code>](https://github.com/elementary/camera/commit/9a7af1eb946ebf1cac795cd2fa0740cf0c6ebed4)
 - [ ] [<code>Application: modernize</code>](https://github.com/elementary/camera/commit/70a0893649634b768e22f60a5d951e7fd107682e)
 - [ ] [<code>Application: implement startup()</code>](https://github.com/elementary/camera/commit/be89e54398591209d913ff3d74aa5481634a98f2)
+- [ ] [<code>Bump runtime to 7.2 (#259)</code>](https://github.com/elementary/camera/commit/81a0424fa3cca4ca4cb0bf82ee719d65f868ac76)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -128,6 +130,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#34)</code>](https://github.com/elementary/iconbrowser/commit/3ca853e172705d8d01e4d35a02fcbca04b6ca5a1)
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#33)</code>](https://github.com/elementary/iconbrowser/commit/4ccb91044be13e2ea3a2400ce363cb0021bae243)
 - [ ] [<code>Update flatpak actions to new namespace (#35)</code>](https://github.com/elementary/iconbrowser/commit/a47ae8a801a809aa70094089761fde8339e543c7)
+- [ ] [<code>Runtime: bump to 7.2 (#36)</code>](https://github.com/elementary/iconbrowser/commit/01d961bdc0724949e21938fe0e60ef67dbb806bb)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
 
@@ -183,6 +186,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#258)</code>](https://github.com/elementary/screenshot/commit/4fdaa14ae20505e79d356df7618ed09828b38076)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#257)</code>](https://github.com/elementary/screenshot/commit/dfb2e6bbcb4322fb8ac3d3362bcc0155d287129a)
 - [ ] [<code>Update flatpak actions to new namespace (#259)</code>](https://github.com/elementary/screenshot/commit/3da18f8329513df04fa53e4cd026baaf902cff95)
+- [ ] [<code>Bump runtime to 7.2 (#260)</code>](https://github.com/elementary/screenshot/commit/6ae4d467c8466e265ef3e1a6ea6feafcdd42467c)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -242,6 +246,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#326)</code>](https://github.com/elementary/videos/commit/dfcd8ac094fbdd6e9b20f4165ab7ea9455b5158d)
 - [ ] [<code>Switch to GHCR containers (#325)</code>](https://github.com/elementary/videos/commit/d7c6e6fb67877a238e99753027654fdbc3c1fcda)
 - [ ] [<code>Update flatpak actions to new namespace (#328)</code>](https://github.com/elementary/videos/commit/36c2bdd8ff630e144dcfeaaec59db2833c8837c0)
+- [ ] [<code>Bump runtime to 7.2 (#329)</code>](https://github.com/elementary/videos/commit/5a5d7e97add7f313c2cafed08f47a8f0a4420a11)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -516,6 +521,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Switch to GHCR containers (#642)</code>](https://github.com/elementary/greeter/commit/e28a0c8a86b1468166dd1bad0cb02250f82ee886)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/greeter/commit/845ee4afc248a76a0c31437b7421834249fbc420)
+- [ ] [<code>Copy KeyboardManager from Gala</code>](https://github.com/elementary/greeter/commit/fafc2f79c6505b47690d024220d7fe3c92883df2)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -727,6 +734,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#97)</code>](https://github.com/elementary/capnet-assist/commit/7073df2d4d29be53e4bb0614d6fb0ed648a2c702)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#96)</code>](https://github.com/elementary/capnet-assist/commit/b657abe96539956143c29726676bde37eb63724f)
 - [ ] [<code>Update flatpak actions to new namespace (#98)</code>](https://github.com/elementary/capnet-assist/commit/dcd9632491dfcb5491c4622cd40bd753d5a425b5)
+- [ ] [<code>Bump runtime to 7.2 (#99)</code>](https://github.com/elementary/capnet-assist/commit/9fd835cb057209b2974586d4e673f870b1efb45d)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
