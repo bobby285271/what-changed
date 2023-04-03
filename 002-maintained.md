@@ -510,6 +510,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Attempting to fix issue with note deletion when switching nodes.</code>](https://github.com/phase1geo/minder/commit/9fda87bd864838b4f825b7ba3c429eeba785645c)
+- [ ] [<code>Tying unicode enablement from preferences to note fields.</code>](https://github.com/phase1geo/minder/commit/af96b08910245703a0066ac1bf9a322674f6aa9a)
+- [ ] [<code>Fixing application crash when saving unsaved document with empty root</code>](https://github.com/phase1geo/minder/commit/57a97b7acf4a119f2f4eea661a978279dcac6f38)
+- [ ] [<code>Merge branch '528-saving-empty-file-crashes-program'</code>](https://github.com/phase1geo/minder/commit/48fa3e11904da27598f31197604d182e6b9ed05a)
+- [ ] [<code>Enhancing fix for app crash due to missing root node</code>](https://github.com/phase1geo/minder/commit/8be49be68ddea26eb492c148453358ec1af05419)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
