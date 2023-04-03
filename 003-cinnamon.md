@@ -69,6 +69,7 @@
 - [ ] [<code>Add new enums, settings key for xdg-desktop-portal color-scheme.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/d880133b38da46b22421f38639ddd384692002f0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add high-contrast key.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/210cf97a7c341e2991dc306b117e24551683e784)
+- [ ] [<code>gnome-desktop-thumbnailer.c: Only attempt to thumbnail internally</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0f6020ffc9608dd71042dee878e0f18d43e99e91)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
