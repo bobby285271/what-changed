@@ -241,6 +241,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#713)</code>](https://github.com/elementary/terminal/commit/2f0fb726bce6f5e3c475a4d8859436de347fe6b5)
 - [ ] [<code>Remove ctrl + shift + left / right for tab switching (#716)</code>](https://github.com/elementary/terminal/commit/cba335883af14364868059c5436fdad4d16f1bb7)
 - [ ] [<code>Add option to start minimized (#715)</code>](https://github.com/elementary/terminal/commit/a66db222d5f6845a66389e514c5936efb69991a2)
+- [ ] [<code>Add release notes for 6.1.2 (#718)</code>](https://github.com/elementary/terminal/commit/1e702f4168de67fe35c3870398437083ea94b4ba)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -418,6 +419,7 @@
 - [ ] [<code>Switch to GHCR containers (#252)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/ff714d63ed009299725cc25e1948121936cfd4b9)
 - [ ] [<code>Use the entered IMAP credentials instead of the default value</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/619759d9cd3dd7e985f4cbc139c76e2c31787500)
 - [ ] [<code>Sync the text for the SMTP username to the IMAP username</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/25fd736d5235d223c2d91785ee0f69ccdd408069)
+- [ ] [<code>Update onlineaccounts.appdata.xml.in (#254)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/976fb173ddd213857246dbbce1025338d857711e)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -715,6 +717,7 @@
 - [ ] [<code>Show hours instead of days (#243)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1e4e417c3496aeaf5af9c07859e815964590b294)
 - [ ] [<code>Switch to GHCR containers (#245)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1778f6dffd4e7e78544e4f07f831718ba6d175f0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/209071bf71a33a050c92d7d5c371a9879428e09c)
+- [ ] [<code>Update power.appdata.xml.in (#246)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ed6366787abb3784eae29616f3c3211c55dd242e)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -758,6 +761,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#96)</code>](https://github.com/elementary/capnet-assist/commit/b657abe96539956143c29726676bde37eb63724f)
 - [ ] [<code>Update flatpak actions to new namespace (#98)</code>](https://github.com/elementary/capnet-assist/commit/dcd9632491dfcb5491c4622cd40bd753d5a425b5)
 - [ ] [<code>Bump runtime to 7.2 (#99)</code>](https://github.com/elementary/capnet-assist/commit/9fd835cb057209b2974586d4e673f870b1efb45d)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#100)</code>](https://github.com/elementary/capnet-assist/commit/7798a2d01bafbd4d3ddb1ccea44299054be375d4)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
