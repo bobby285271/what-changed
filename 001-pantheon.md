@@ -26,6 +26,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#248)</code>](https://github.com/elementary/calculator/commit/ff86e338159c936aafe56f9f211b0419d70187f9)
 - [ ] [<code>Update flatpak actions to new namespace (#250)</code>](https://github.com/elementary/calculator/commit/9336425bd0e7354e4831a0657c2d0a243eab2da8)
 - [ ] [<code>Bump runtime to 7.2 (#251)</code>](https://github.com/elementary/calculator/commit/b0b08e78d5b5210bc40fe2769df06329754861f9)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#252)</code>](https://github.com/elementary/calculator/commit/8e85598085be229ddd80da323aa1ac89d19b1854)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -37,6 +38,7 @@
 - [ ] [<code>Bump actions/checkout from 2 to 3 (#774)</code>](https://github.com/elementary/calendar/commit/6cef9903b73b323b1499a75cc304a4a4ce1ad9dc)
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#773)</code>](https://github.com/elementary/calendar/commit/2fc3eee7e24df52943e11191abf1625e4d593735)
 - [ ] [<code>Update flatpak actions to new namespace (#775)</code>](https://github.com/elementary/calendar/commit/e429cb3c1c4e4ded9aec41949642f490be5d114c)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#777)</code>](https://github.com/elementary/calendar/commit/5b6ccde5e8c7d9850957bed9963b3a9554b726fc)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -53,6 +55,7 @@
 - [ ] [<code>Application: modernize</code>](https://github.com/elementary/camera/commit/70a0893649634b768e22f60a5d951e7fd107682e)
 - [ ] [<code>Application: implement startup()</code>](https://github.com/elementary/camera/commit/be89e54398591209d913ff3d74aa5481634a98f2)
 - [ ] [<code>Bump runtime to 7.2 (#259)</code>](https://github.com/elementary/camera/commit/81a0424fa3cca4ca4cb0bf82ee719d65f868ac76)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#260)</code>](https://github.com/elementary/camera/commit/6c9f8c237b32b92e19764b0b8992bec2505c8980)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -80,6 +83,7 @@
 - [ ] [<code>Add ctrl + pageUp and pageDown for switching tabs (#1297)</code>](https://github.com/elementary/code/commit/aec73bd33d1eb642b201af08f4fdbdb72eab10ae)
 - [ ] [<code>Persist search settings (#1291)</code>](https://github.com/elementary/code/commit/9fce31693e86ccd0ace5278129a2ac029c8cd2ca)
 - [ ] [<code>Set search entry icon and styleclass according to results (#1285)</code>](https://github.com/elementary/code/commit/dc7b1a6d0de2179e7b2ae0b6d4800e7f8c2cf951)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#1302)</code>](https://github.com/elementary/code/commit/75c7282ce2ea367497914a648711bc70e4f835a6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -131,6 +135,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#33)</code>](https://github.com/elementary/iconbrowser/commit/4ccb91044be13e2ea3a2400ce363cb0021bae243)
 - [ ] [<code>Update flatpak actions to new namespace (#35)</code>](https://github.com/elementary/iconbrowser/commit/a47ae8a801a809aa70094089761fde8339e543c7)
 - [ ] [<code>Runtime: bump to 7.2 (#36)</code>](https://github.com/elementary/iconbrowser/commit/01d961bdc0724949e21938fe0e60ef67dbb806bb)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#37)</code>](https://github.com/elementary/iconbrowser/commit/5ee6ed0e921dc5631741af3aad7dc8cbfa5d8ff0)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
 
@@ -152,6 +157,7 @@
 - [ ] [<code>Replace unnecessary grids with boxes (#843)</code>](https://github.com/elementary/mail/commit/a0c2fab8f6b26da03d74fb805f71f4750b129066)
 - [ ] [<code>InlineComposer: Various preparations for gtk4 (#846)</code>](https://github.com/elementary/mail/commit/fa3c89078c3e99df40d0382e6b960219285ce0c5)
 - [ ] [<code>MessageListItem: Prep for GTK4 (#848)</code>](https://github.com/elementary/mail/commit/21b1f43a725207b70c31c959cb0a0af453fdfe4c)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#850)</code>](https://github.com/elementary/mail/commit/6a0f09644c8fbf43f3406528c5f0333f3ba6e529)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -166,6 +172,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#743)</code>](https://github.com/elementary/music/commit/85d8b2321ecc8241fdad73bf809501b776684f1c)
 - [ ] [<code>Update flatpak actions to new namespace (#744)</code>](https://github.com/elementary/music/commit/2d166df3417d52a228fba0b956760fcd8bbc64bf)
 - [ ] [<code>Update runtime to 7.2 (#748)</code>](https://github.com/elementary/music/commit/781df09608ae9d4f49bd8fe8b3e3ba07fef0df90)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#749)</code>](https://github.com/elementary/music/commit/bbef2eac502400e02b0638bbe973c0b530e47221)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -177,6 +184,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#739)</code>](https://github.com/elementary/photos/commit/872ccf0168cafcad168123e162bd77a756336498)
 - [ ] [<code>Switch to GHCR containers (#738)</code>](https://github.com/elementary/photos/commit/a0749083c6e1e810dc8742311641342ceeaaf1ff)
 - [ ] [<code>Update flatpak actions to new namespace (#740)</code>](https://github.com/elementary/photos/commit/605a4d1376a7d0280ae89f924fae88e9eadb7838)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#741)</code>](https://github.com/elementary/photos/commit/ee6dc3ac7818aaa9a26626b8d0854a2e752ea70d)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
 
@@ -187,6 +195,7 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#257)</code>](https://github.com/elementary/screenshot/commit/dfb2e6bbcb4322fb8ac3d3362bcc0155d287129a)
 - [ ] [<code>Update flatpak actions to new namespace (#259)</code>](https://github.com/elementary/screenshot/commit/3da18f8329513df04fa53e4cd026baaf902cff95)
 - [ ] [<code>Bump runtime to 7.2 (#260)</code>](https://github.com/elementary/screenshot/commit/6ae4d467c8466e265ef3e1a6ea6feafcdd42467c)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#261)</code>](https://github.com/elementary/screenshot/commit/2e331619bc8c2ea2647438dda51a19ef25be819e)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
 
@@ -206,6 +215,7 @@
 - [ ] [<code>Update flatpak actions to new namespace (#351)</code>](https://github.com/elementary/tasks/commit/d31ce8cce28fcc243783f32c9268154f46e03533)
 - [ ] [<code>Switch to GHCR containers (#347)</code>](https://github.com/elementary/tasks/commit/5e07fb395f37df4cb0ebedf750c3f5694edc4855)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 4 to 5 (#352)</code>](https://github.com/elementary/tasks/commit/bbe44a1d07b0f02351b942b4914f6f1b66718a34)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#355)</code>](https://github.com/elementary/tasks/commit/52ee9b0ca96f99d99e710b362977b2c1634135a5)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
 
@@ -247,6 +257,7 @@
 - [ ] [<code>Switch to GHCR containers (#325)</code>](https://github.com/elementary/videos/commit/d7c6e6fb67877a238e99753027654fdbc3c1fcda)
 - [ ] [<code>Update flatpak actions to new namespace (#328)</code>](https://github.com/elementary/videos/commit/36c2bdd8ff630e144dcfeaaec59db2833c8837c0)
 - [ ] [<code>Bump runtime to 7.2 (#329)</code>](https://github.com/elementary/videos/commit/5a5d7e97add7f313c2cafed08f47a8f0a4420a11)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#330)</code>](https://github.com/elementary/videos/commit/7675956475fbe0cf5de690c13d73287903afd4a6)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
 
@@ -257,6 +268,9 @@
 - [ ] [<code>Show flatpak permission warning (#153)</code>](https://github.com/elementary/sideload/commit/f5f338fab57a24ed151ec4897c9045c325eb709a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/sideload/commit/a1f1bbd055591b29623ef64b8cff08e3bfbfc943)
+- [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/b541be415e3a850ce9c58ced95680362b0f55293)
+- [ ] [<code>Appdata → Metainfo, modernize (#157)</code>](https://github.com/elementary/sideload/commit/72cd6c30c9961bdcbf10ac2a982c03ab48e3fc00)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -543,6 +557,11 @@
 - [ ] [<code>WelcomeView: adjust button spacing, shorten title (#199)</code>](https://github.com/elementary/onboarding/commit/a1d85960d699e01207f17daf7268a07f5a9bf668)
 - [ ] [<code>Fancy logo (#198)</code>](https://github.com/elementary/onboarding/commit/7541599947e7da40603352c71060c95d8466bfbf)
 - [ ] [<code>Update Metainfo (#201)</code>](https://github.com/elementary/onboarding/commit/dcf6846174bd608d0ff58d62c928c64e93261a4c)
+- [ ] [<code>WelcomeView: combine with what's new view (#202)</code>](https://github.com/elementary/onboarding/commit/6bf7a16123bb0812b2c0bc1be259f3e2d7f5643a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/9f365c179f6a5186030c8ed4871ecaea21ffa053)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/34665679129a3699c76dd2682196d632224df7cb)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/onboarding/commit/631eaa1c8467661e361351c0967e97fef5313a45)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -599,6 +618,7 @@
 - [ ] [<code>Get MonitorManager from context (#1604)</code>](https://github.com/elementary/gala/commit/de41984e9002548d3d9c0c05e2f4f370c9cdcc7e)
 - [ ] [<code>KeyboardManager: get backend from context (#1605)</code>](https://github.com/elementary/gala/commit/7eae3c1137f6db734d3eab645c2da8757a7b6661)
 - [ ] [<code>WindowClone: optimize ActiveShape (#1603)</code>](https://github.com/elementary/gala/commit/415eed4d1764d24b103f76e715a8771b42714462)
+- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d35761534475d7437a0c9dad63276be2f30cc525)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -721,6 +741,9 @@
 - [ ] [<code>Switch to GHCR containers (#640)</code>](https://github.com/elementary/granite/commit/6d0e7f317b632f20f3998e9a6f6e30f8ccceea1b)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/granite/commit/4a1ec52a010432adad5dd10d43ed44528b1e66d9)
 - [ ] [<code>settings: remove inappropriate ownership annotation (#642)</code>](https://github.com/elementary/granite/commit/637a51fe8d13a986ce55b35729f19bf50117c114)
+- [ ] [<code>Add granite styles as a gresource (#639)</code>](https://github.com/elementary/granite/commit/6f035b7333ad00a972a78e6c07275a2add361565)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
