@@ -54,6 +54,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Remove simple-system-monitor@ariel as a known conflict (#11591)</code>](https://github.com/linuxmint/cinnamon/commit/5f2d341cffe982056cafafbcaad4445610eb2bed)
 - [ ] [<code>Fix super+shift+number not disabling in grouped-window-list applet (#11464)</code>](https://github.com/linuxmint/cinnamon/commit/8dbb5bdc919cbe625bf44ebfee2abab490ef1c69)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes.py: Keep the current variant between modes if possible.</code>](https://github.com/linuxmint/cinnamon/commit/20864d217bead8794605ae46514fa7952f2a2045)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -153,6 +155,7 @@
 - [ ] [<code>place.c: Add missing import.</code>](https://github.com/linuxmint/muffin/commit/63c7161bc0513db5727bc883269a356f64229572)
 - [ ] [<code>display.c: Make meta_display_get_pointer_window() available to</code>](https://github.com/linuxmint/muffin/commit/1385e0d86f2bc9975173fcdc5708cda6300af91f)
 - [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
+- [ ] [<code>window.c: Fix copy/paste error in tile zone detection.</code>](https://github.com/linuxmint/muffin/commit/fc0e48626c553a2ad2588943bb67c2988df6374e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
