@@ -160,6 +160,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#850)</code>](https://github.com/elementary/mail/commit/6a0f09644c8fbf43f3406528c5f0333f3ba6e529)
 - [ ] [<code>Prep GTK4: Include AttachmentBar in MessageListItem (#849)</code>](https://github.com/elementary/mail/commit/e7e5b5cbe8a4ffcd0622c8d80275bf678a30b2e2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/mail/commit/ac7acd42787520f853c2d94326119edb4ab41b02)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
