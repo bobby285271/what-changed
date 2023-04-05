@@ -56,7 +56,16 @@
 - [ ] [<code>Fix super+shift+number not disabling in grouped-window-list applet (#11464)</code>](https://github.com/linuxmint/cinnamon/commit/8dbb5bdc919cbe625bf44ebfee2abab490ef1c69)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes.py: Keep the current variant between modes if possible.</code>](https://github.com/linuxmint/cinnamon/commit/20864d217bead8794605ae46514fa7952f2a2045)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel-launchers: Don't allow the size of custom icons to be reset.</code>](https://github.com/linuxmint/cinnamon/commit/e3102260e0234ba4edd4300aa49f9d8f5a5aa6b3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes.py: Make sure activate_mode always activates a mode.</code>](https://github.com/linuxmint/cinnamon/commit/6e676247615b3cbf5788a368a00259c5b88c9552)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-desktop-editor: Use a path when setting a panel-launcher</code>](https://github.com/linuxmint/cinnamon/commit/3678d8c1079732f3512ab4dbfeaed6ee149b9c2c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Provide `.gir` files in cinnamon package (#11335)</code>](https://github.com/linuxmint/cinnamon/commit/7e211e2e251b2df0d80b386cc6de2ebc3db21e5f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
