@@ -158,6 +158,8 @@
 - [ ] [<code>InlineComposer: Various preparations for gtk4 (#846)</code>](https://github.com/elementary/mail/commit/fa3c89078c3e99df40d0382e6b960219285ce0c5)
 - [ ] [<code>MessageListItem: Prep for GTK4 (#848)</code>](https://github.com/elementary/mail/commit/21b1f43a725207b70c31c959cb0a0af453fdfe4c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#850)</code>](https://github.com/elementary/mail/commit/6a0f09644c8fbf43f3406528c5f0333f3ba6e529)
+- [ ] [<code>Prep GTK4: Include AttachmentBar in MessageListItem (#849)</code>](https://github.com/elementary/mail/commit/e7e5b5cbe8a4ffcd0622c8d80275bf678a30b2e2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -173,6 +175,8 @@
 - [ ] [<code>Update flatpak actions to new namespace (#744)</code>](https://github.com/elementary/music/commit/2d166df3417d52a228fba0b956760fcd8bbc64bf)
 - [ ] [<code>Update runtime to 7.2 (#748)</code>](https://github.com/elementary/music/commit/781df09608ae9d4f49bd8fe8b3e3ba07fef0df90)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#749)</code>](https://github.com/elementary/music/commit/bbef2eac502400e02b0638bbe973c0b530e47221)
+- [ ] [<code>Allow to open directories directly (#747)</code>](https://github.com/elementary/music/commit/87b537979ac0edb540fceab7ed66a0068d3c9936)
+- [ ] [<code>Update metainfo for next release (#751)</code>](https://github.com/elementary/music/commit/10793ac6168d53d32f76880277ef39509aa35d14)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -242,6 +246,9 @@
 - [ ] [<code>Remove ctrl + shift + left / right for tab switching (#716)</code>](https://github.com/elementary/terminal/commit/cba335883af14364868059c5436fdad4d16f1bb7)
 - [ ] [<code>Add option to start minimized (#715)</code>](https://github.com/elementary/terminal/commit/a66db222d5f6845a66389e514c5936efb69991a2)
 - [ ] [<code>Add release notes for 6.1.2 (#718)</code>](https://github.com/elementary/terminal/commit/1e702f4168de67fe35c3870398437083ea94b4ba)
+- [ ] [<code>Release 6.1.2 (#719)</code>](https://github.com/elementary/terminal/commit/852542b1b5c63a7c3effa2a161c4b23b8d3ae145)
+  - <sub>Tags: <code>6.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -271,6 +278,9 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/sideload/commit/a1f1bbd055591b29623ef64b8cff08e3bfbfc943)
 - [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/b541be415e3a850ce9c58ced95680362b0f55293)
 - [ ] [<code>Appdata → Metainfo, modernize (#157)</code>](https://github.com/elementary/sideload/commit/72cd6c30c9961bdcbf10ac2a982c03ab48e3fc00)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.2.0 (#156)</code>](https://github.com/elementary/sideload/commit/6fbe2d16ff234c6f35f1747a9a7fb660cb42c63f)
+  - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
@@ -420,6 +430,9 @@
 - [ ] [<code>Use the entered IMAP credentials instead of the default value</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/619759d9cd3dd7e985f4cbc139c76e2c31787500)
 - [ ] [<code>Sync the text for the SMTP username to the IMAP username</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/25fd736d5235d223c2d91785ee0f69ccdd408069)
 - [ ] [<code>Update onlineaccounts.appdata.xml.in (#254)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/976fb173ddd213857246dbbce1025338d857711e)
+- [ ] [<code>Release 6.5.2 (#255)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/2cb15019f90c47c14afddc883bdabebcd8447c24)
+  - <sub>Tags: <code>6.5.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -442,6 +455,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/fa92ac872a9133d73ae8087a78cc299aa68d7c78)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/471b497127e721183fb5384ea12d30c0f23e82f6)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/641f72196acabf4881f0e2561151c43e8b8d7df8)
+- [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/5add0f8849d75329f8ff39f9ddb73c51b62c69e9)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -564,6 +578,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/9f365c179f6a5186030c8ed4871ecaea21ffa053)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/34665679129a3699c76dd2682196d632224df7cb)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/onboarding/commit/631eaa1c8467661e361351c0967e97fef5313a45)
+- [ ] [<code>MainWindow: Only show What's New if there's something other than early access warning (#203)</code>](https://github.com/elementary/onboarding/commit/183fe5be95efa759c2bf8b0369f6100c7f78f126)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -621,6 +636,17 @@
 - [ ] [<code>KeyboardManager: get backend from context (#1605)</code>](https://github.com/elementary/gala/commit/7eae3c1137f6db734d3eab645c2da8757a7b6661)
 - [ ] [<code>WindowClone: optimize ActiveShape (#1603)</code>](https://github.com/elementary/gala/commit/415eed4d1764d24b103f76e715a8771b42714462)
 - [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d35761534475d7437a0c9dad63276be2f30cc525)
+- [ ] [<code>Check if window can maximize before performing action (#1613)</code>](https://github.com/elementary/gala/commit/7599756924f8f8fbd1f3ed7f941186635b962960)
+- [ ] [<code>PointerLocator: Support floating, monitor specific scale (#1606)</code>](https://github.com/elementary/gala/commit/6da34ada405c950e5348f6a309639688ace0d863)
+- [ ] [<code>DragDropAction: Check that actor was actually clicked (#1591)</code>](https://github.com/elementary/gala/commit/c0a77ade59fe001aa74d047469aed89b4b908352)
+- [ ] [<code>DnD: Don't disable reactivity (#1610)</code>](https://github.com/elementary/gala/commit/530a66ea2d561856f11be06b362ec5d4b59db270)
+- [ ] [<code>Add previous/next workspace to available actions (#1614)</code>](https://github.com/elementary/gala/commit/f7e822577546bf817bb6a267864a1e3eb13365e0)
+- [ ] [<code>Don't manually map notifications while nudge animation is playing (#1611)</code>](https://github.com/elementary/gala/commit/9cb7c0e193c0a400944bd0bee1ca709f9991861a)
+- [ ] [<code>PiP: Use constraints (#1608)</code>](https://github.com/elementary/gala/commit/75f279e0ff1b2d48cf1f6a7051d730453d54c751)
+- [ ] [<code>Use translation-x for nudge animation (#1612)</code>](https://github.com/elementary/gala/commit/25de808a8be08a868ae52eb06ae5b24c33b2d29c)
+- [ ] [<code>Release 7.0.2 (#1616)</code>](https://github.com/elementary/gala/commit/c8b0fcbc4023dfecad451e630cb8c496c4525a9f)
+  - <sub>Tags: <code>7.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
