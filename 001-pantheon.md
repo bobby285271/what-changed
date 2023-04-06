@@ -125,6 +125,13 @@
 - [ ] [<code>Switch to GHCR containers (#2159)</code>](https://github.com/elementary/files/commit/4172c4a8f3e1c664ad6fa6384edaa594c4783da2)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/files/commit/16d24b7ebe1920a7919385145752c8de46a6d857)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#2160)</code>](https://github.com/elementary/files/commit/e462299a738a61ad8e7f9fcf2d8ff63342bfb74c)
+- [ ] [<code>Add release notes for 6.3.1 (#2170)</code>](https://github.com/elementary/files/commit/cb7ecc5afab5bbaefbf3a7e8b7ed58e6ac88bdef)
+- [ ] [<code>Ensure overlay appears after drag-dropped files are selected (#2157)</code>](https://github.com/elementary/files/commit/2ab0c6033620137291f9c4b8c109b26533cbcf95)
+- [ ] [<code>Show git status correctly after reload (#2150)</code>](https://github.com/elementary/files/commit/1a3e7f0e4d596adc74970f61cc4d33eea383adc3)
+- [ ] [<code>Release 6.3.1 (#2167)</code>](https://github.com/elementary/files/commit/def3de0b02e167e75e5456fc6a762225933ec4fd)
+  - <sub>Tags: <code>6.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/7ce6e6267d3819d766a1b44ec6ae008ec56f1724)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -161,6 +168,7 @@
 - [ ] [<code>Prep GTK4: Include AttachmentBar in MessageListItem (#849)</code>](https://github.com/elementary/mail/commit/e7e5b5cbe8a4ffcd0622c8d80275bf678a30b2e2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/mail/commit/ac7acd42787520f853c2d94326119edb4ab41b02)
+- [ ] [<code>Application: use startup (#837)</code>](https://github.com/elementary/mail/commit/83df7b6099ef11ca28c1e9796353ff2c818fb0fe)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -505,6 +513,7 @@
 - [ ] [<code>Add Adw icons (#1186)</code>](https://github.com/elementary/icons/commit/5b7ffe85cded2fa3ce682510706601c1289da004)
 - [ ] [<code>Add GNOME UI icons to actions (#1185)</code>](https://github.com/elementary/icons/commit/1da6b6e6b8d6e5472b0309dd618a075c9f3f34bc)
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/00a1d571cfa23dd7ee974bd5f5a69f0fcafa5143)
+- [ ] [<code>Update preferences-desktop-display (#1187)</code>](https://github.com/elementary/icons/commit/0b91054b3b4d09bd53cec29dae29c633700a6aee)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -648,6 +657,11 @@
 - [ ] [<code>Release 7.0.2 (#1616)</code>](https://github.com/elementary/gala/commit/c8b0fcbc4023dfecad451e630cb8c496c4525a9f)
   - <sub>Tags: <code>7.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WM: Add laters via compositor (#1619)</code>](https://github.com/elementary/gala/commit/0c4204f3994529d8843e44a18fa240fafc020015)
+- [ ] [<code>maskcorners: Scale corner masks per-monitor (#1620)</code>](https://github.com/elementary/gala/commit/37f65895f229e872e36599cbbb4c286901be665e)
+- [ ] [<code>Utils: Remove bell (#1621)</code>](https://github.com/elementary/gala/commit/a630015b89a1bbcf7c6bf982b6ecb4e847bbd96f)
+- [ ] [<code>Enable `Alt + ~` to switch between windows of the same application (#1602)</code>](https://github.com/elementary/gala/commit/75469b6321cc77062ccc7d9dd0f067aa396844f7)
+- [ ] [<code>DwellClickTimer: Support non-integer, monitor specific scales (#1618)</code>](https://github.com/elementary/gala/commit/52735a2678a908c801a828930c659705c89616b7)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
