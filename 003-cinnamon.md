@@ -71,7 +71,8 @@
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
 - [ ] [<code>Fix memleaks (#306)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/51010d2fd02ff6de1170e7e776905d73cc76b650)
-  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>network/net-device.c: net_device_get_valid_connections - don't</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9aecc340f6c14e3e04e4e9e84356403f7f743f71)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.1...HEAD)
 
