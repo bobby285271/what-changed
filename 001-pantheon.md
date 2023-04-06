@@ -230,34 +230,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 4 to 5 (#352)</code>](https://github.com/elementary/tasks/commit/bbe44a1d07b0f02351b942b4914f6f1b66718a34)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#355)</code>](https://github.com/elementary/tasks/commit/52ee9b0ca96f99d99e710b362977b2c1634135a5)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.1 → HEAD](https://github.com/elementary/terminal/compare/6.1.1...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
-- [ ] [<code>MainWindow: Update context menu on menu key press (#697)</code>](https://github.com/elementary/terminal/commit/44951117023635ce2bc00fe9ff8f4f0814b28901)
-- [ ] [<code>Add shortcuts Ctrl + PageUp and Ctrl + PageDown to switch between tabs (#700)</code>](https://github.com/elementary/terminal/commit/7f41498380776b3bbbcca6b31baaac11ad32ac40)
-- [ ] [<code>Update Meson Files (#701)</code>](https://github.com/elementary/terminal/commit/df0c9af7971bc8f7311cc3b53864dea7c1128397)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/terminal/commit/f97f9bd31f36e6c17ce7fb77f155a3e2cf8500c1)
-- [ ] [<code>Update io.elementary.terminal.appdata.xml.in (#705)</code>](https://github.com/elementary/terminal/commit/16c5d2bf5e83960869509bab33e0676d02060131)
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Rework Application Class (#702)</code>](https://github.com/elementary/terminal/commit/7a60d50147df250bccc80126bb76d912aefe5dc5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Application: fix spelling mistake</code>](https://github.com/elementary/terminal/commit/8e11b9f08f0c3fef473e1b4edb24c8fe5906ca68)
-- [ ] [<code>Escape '#' except when fragment identifier (#631)</code>](https://github.com/elementary/terminal/commit/4ee7da6e54e5ece15e22593b5e8d60ba208a6fb2)
-- [ ] [<code>meson: Specify default test setup</code>](https://github.com/elementary/terminal/commit/d7d764c19624001fa9cc47bcaa26de337ae539ba)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to GHCR containers (#712)</code>](https://github.com/elementary/terminal/commit/a66589b1d467ba7260607e17cbeec2e43a2e4f3f)
-- [ ] [<code>Application: Properly Unexport the DBus Interface on Exit (#709)</code>](https://github.com/elementary/terminal/commit/32d50841721f34d3e227f311c9a0f15892a1617d)
-  - <sub>Keywords: <code>commandline</code></sub>
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/terminal/commit/0ae1211748272ec11d01489376ec103881ad8e81)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#713)</code>](https://github.com/elementary/terminal/commit/2f0fb726bce6f5e3c475a4d8859436de347fe6b5)
-- [ ] [<code>Remove ctrl + shift + left / right for tab switching (#716)</code>](https://github.com/elementary/terminal/commit/cba335883af14364868059c5436fdad4d16f1bb7)
-- [ ] [<code>Add option to start minimized (#715)</code>](https://github.com/elementary/terminal/commit/a66db222d5f6845a66389e514c5936efb69991a2)
-- [ ] [<code>Add release notes for 6.1.2 (#718)</code>](https://github.com/elementary/terminal/commit/1e702f4168de67fe35c3870398437083ea94b4ba)
-- [ ] [<code>Release 6.1.2 (#719)</code>](https://github.com/elementary/terminal/commit/852542b1b5c63a7c3effa2a161c4b23b8d3ae145)
-  - <sub>Tags: <code>6.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -276,21 +250,8 @@
 - [ ] [<code>Bump runtime to 7.2 (#329)</code>](https://github.com/elementary/videos/commit/5a5d7e97add7f313c2cafed08f47a8f0a4420a11)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#330)</code>](https://github.com/elementary/videos/commit/7675956475fbe0cf5de690c13d73287903afd4a6)
 
-#### [pantheon.sideload](https://github.com/elementary/sideload): [6.1.0 → HEAD](https://github.com/elementary/sideload/compare/6.1.0...HEAD)
+#### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.0 → HEAD](https://github.com/elementary/sideload/compare/6.2.0...HEAD)
 
-- [ ] [<code>MainView: update copy (#151)</code>](https://github.com/elementary/sideload/commit/072bfa95a150e0e693556714c9ce9d922554a2d3)
-- [ ] [<code>Switch to GHCR containers (#154)</code>](https://github.com/elementary/sideload/commit/83be40b986f582ac6abf5994ab56ae3a92b16d54)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/sideload/commit/ae2426d93dc973c62be03b1a63f33dd71249f3e1)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#155)</code>](https://github.com/elementary/sideload/commit/65a6471da8ffceff58c1367f9e8710dd5e717941)
-- [ ] [<code>Show flatpak permission warning (#153)</code>](https://github.com/elementary/sideload/commit/f5f338fab57a24ed151ec4897c9045c325eb709a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/sideload/commit/a1f1bbd055591b29623ef64b8cff08e3bfbfc943)
-- [ ] [<code>Update sideload.appdata.xml.in</code>](https://github.com/elementary/sideload/commit/b541be415e3a850ce9c58ced95680362b0f55293)
-- [ ] [<code>Appdata → Metainfo, modernize (#157)</code>](https://github.com/elementary/sideload/commit/72cd6c30c9961bdcbf10ac2a982c03ab48e3fc00)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.2.0 (#156)</code>](https://github.com/elementary/sideload/commit/6fbe2d16ff234c6f35f1747a9a7fb660cb42c63f)
-  - <sub>Tags: <code>6.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -427,21 +388,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/e26f22d7b94d3b7f23bfd91fd0d5f9d010c2a48e)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#96)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d89847119388e650f401842441536fc645ebe4f9)
 
-#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...HEAD)
+#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.2 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...HEAD)
 
-- [ ] [<code>Update icons (#246)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/88ef3adbc384cfb6f0bf29dd5393ed75cf0274bf)
-- [ ] [<code>actions/checkout@v3 (#247)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f38f705042d70fe49c8a737b1dbaeb81c1d7bf57)
-- [ ] [<code>Add support for evolution-data-server 3.45+ / libsoup-3 (#248)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/08faf7b4241547b7900596af12a03d816712a808)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/ed391cbba5fc59a3f417088c68f12a55b7f54c70)
-- [ ] [<code>Switch to GHCR containers (#252)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/ff714d63ed009299725cc25e1948121936cfd4b9)
-- [ ] [<code>Use the entered IMAP credentials instead of the default value</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/619759d9cd3dd7e985f4cbc139c76e2c31787500)
-- [ ] [<code>Sync the text for the SMTP username to the IMAP username</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/25fd736d5235d223c2d91785ee0f69ccdd408069)
-- [ ] [<code>Update onlineaccounts.appdata.xml.in (#254)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/976fb173ddd213857246dbbce1025338d857711e)
-- [ ] [<code>Release 6.5.2 (#255)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/2cb15019f90c47c14afddc883bdabebcd8447c24)
-  - <sub>Tags: <code>6.5.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
 
@@ -589,6 +537,8 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/34665679129a3699c76dd2682196d632224df7cb)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/onboarding/commit/631eaa1c8467661e361351c0967e97fef5313a45)
 - [ ] [<code>MainWindow: Only show What's New if there's something other than early access warning (#203)</code>](https://github.com/elementary/onboarding/commit/183fe5be95efa759c2bf8b0369f6100c7f78f126)
+- [ ] [<code>Add GuestView (#205)</code>](https://github.com/elementary/onboarding/commit/65a7b34f4aae3648825c5c6a2c1cc15ff75db820)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -617,51 +567,15 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [7.0.1 → HEAD](https://github.com/elementary/gala/compare/7.0.1...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [7.0.2 → HEAD](https://github.com/elementary/gala/compare/7.0.2...HEAD)
 
-- [ ] [<code>vapi: Sync with greeter (#1565)</code>](https://github.com/elementary/gala/commit/62e9f8d290cc3a023b04dd103e7131154e94a4b1)
-- [ ] [<code>Meson: Always add DwellClickTimer and PointerLocator (#1568)</code>](https://github.com/elementary/gala/commit/99be1ad223f8506201b230f226e9c40576b0d631)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/gala/commit/d717859719f17b7a0ca6eabb28cab121ac485dc1)
-- [ ] [<code>Switch to GHCR containers (#1576)</code>](https://github.com/elementary/gala/commit/c789d9118b1cb5bf605c5854955bf0136be82d66)
-- [ ] [<code>WindowClone: Don't calculate offset (#1567)</code>](https://github.com/elementary/gala/commit/b7139add2333e5419afd1c82c3790d85044c1f76)
-- [ ] [<code>Map notification windows manually while switching workspace (#1577)</code>](https://github.com/elementary/gala/commit/97b33173e2ee8b4a4af3fe0513b6d264de9d9b2a)
-- [ ] [<code>Use ClickAction for FramedBackground and close buttons (#1579)</code>](https://github.com/elementary/gala/commit/79453b324d2e737ba32124212632e1269c6c9af1)
-- [ ] [<code>Update gala.appdata.xml.in (#1581)</code>](https://github.com/elementary/gala/commit/2e86e343b569802f8a9588c4f1f8439e35a2110c)
-- [ ] [<code>Remove texture.png (#1582)</code>](https://github.com/elementary/gala/commit/4957906bc64515024761d58bb31687f279997e26)
-- [ ] [<code>Ignore autorepeat for some keybindings (#1583)</code>](https://github.com/elementary/gala/commit/aebe2d51394422ddc2e03518639a47663290fc63)
-- [ ] [<code>Minimze: Don't restore actor properties (#1585)</code>](https://github.com/elementary/gala/commit/ac73dfe0173a51ab1de08e079386c1c3f2c07fc1)
-- [ ] [<code>Daemon: Workaround broken window menu for some apps (#1574)</code>](https://github.com/elementary/gala/commit/4c78a15883a01556e85906c4616223df290d5e12)
-- [ ] [<code>WindowOverview and WindowCloneContainer: Cleanup (#1587)</code>](https://github.com/elementary/gala/commit/f75159568aedd1bf584d6517d804d0d276aea114)
-- [ ] [<code>Don't connect to Meta.Display.restacked (#1588)</code>](https://github.com/elementary/gala/commit/4f1084e011d63ae9b317a30ab377b19c221d79b2)
-- [ ] [<code>WindowSwitcher: Select a window on button release (#1590)</code>](https://github.com/elementary/gala/commit/4223141b4c542fdb9bc4a653c8730c15a19b887a)
-- [ ] [<code>Set keyboard layout using `lock_layout_group` (#1589)</code>](https://github.com/elementary/gala/commit/5b91f9156d0b199372a08b1960adcedfcaa255a9)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>WindowTracker: Remove unused connection to notify["focus-window"] (#1592)</code>](https://github.com/elementary/gala/commit/e9d53701af848b7a35ea1ca97054472084253a74)
-- [ ] [<code>WindowOverview: Use `button_release_event` (#1593)</code>](https://github.com/elementary/gala/commit/726bf097bece8aced96217b82271ba2f002fef24)
-- [ ] [<code>Use separate `notification_group` for notifications (#1598)</code>](https://github.com/elementary/gala/commit/cf2b835641442eccfa9ad3db5f90a31bf06bed0b)
-- [ ] [<code>Avoid connecting multiple times to `window_created` (#1599)</code>](https://github.com/elementary/gala/commit/1a4c1e8f957f9f496e73c37c4af70e5321cc6b8a)
-- [ ] [<code>Add keybindings for switching input source (#1600)</code>](https://github.com/elementary/gala/commit/cd75c04428a67091d77dc7eb450196820aaf8184)
-- [ ] [<code>Get MonitorManager from context (#1604)</code>](https://github.com/elementary/gala/commit/de41984e9002548d3d9c0c05e2f4f370c9cdcc7e)
-- [ ] [<code>KeyboardManager: get backend from context (#1605)</code>](https://github.com/elementary/gala/commit/7eae3c1137f6db734d3eab645c2da8757a7b6661)
-- [ ] [<code>WindowClone: optimize ActiveShape (#1603)</code>](https://github.com/elementary/gala/commit/415eed4d1764d24b103f76e715a8771b42714462)
-- [ ] [<code>Update gala.appdata.xml.in</code>](https://github.com/elementary/gala/commit/d35761534475d7437a0c9dad63276be2f30cc525)
-- [ ] [<code>Check if window can maximize before performing action (#1613)</code>](https://github.com/elementary/gala/commit/7599756924f8f8fbd1f3ed7f941186635b962960)
-- [ ] [<code>PointerLocator: Support floating, monitor specific scale (#1606)</code>](https://github.com/elementary/gala/commit/6da34ada405c950e5348f6a309639688ace0d863)
-- [ ] [<code>DragDropAction: Check that actor was actually clicked (#1591)</code>](https://github.com/elementary/gala/commit/c0a77ade59fe001aa74d047469aed89b4b908352)
-- [ ] [<code>DnD: Don't disable reactivity (#1610)</code>](https://github.com/elementary/gala/commit/530a66ea2d561856f11be06b362ec5d4b59db270)
-- [ ] [<code>Add previous/next workspace to available actions (#1614)</code>](https://github.com/elementary/gala/commit/f7e822577546bf817bb6a267864a1e3eb13365e0)
-- [ ] [<code>Don't manually map notifications while nudge animation is playing (#1611)</code>](https://github.com/elementary/gala/commit/9cb7c0e193c0a400944bd0bee1ca709f9991861a)
-- [ ] [<code>PiP: Use constraints (#1608)</code>](https://github.com/elementary/gala/commit/75f279e0ff1b2d48cf1f6a7051d730453d54c751)
-- [ ] [<code>Use translation-x for nudge animation (#1612)</code>](https://github.com/elementary/gala/commit/25de808a8be08a868ae52eb06ae5b24c33b2d29c)
-- [ ] [<code>Release 7.0.2 (#1616)</code>](https://github.com/elementary/gala/commit/c8b0fcbc4023dfecad451e630cb8c496c4525a9f)
-  - <sub>Tags: <code>7.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WM: Add laters via compositor (#1619)</code>](https://github.com/elementary/gala/commit/0c4204f3994529d8843e44a18fa240fafc020015)
 - [ ] [<code>maskcorners: Scale corner masks per-monitor (#1620)</code>](https://github.com/elementary/gala/commit/37f65895f229e872e36599cbbb4c286901be665e)
 - [ ] [<code>Utils: Remove bell (#1621)</code>](https://github.com/elementary/gala/commit/a630015b89a1bbcf7c6bf982b6ecb4e847bbd96f)
 - [ ] [<code>Enable `Alt + ~` to switch between windows of the same application (#1602)</code>](https://github.com/elementary/gala/commit/75469b6321cc77062ccc7d9dd0f067aa396844f7)
 - [ ] [<code>DwellClickTimer: Support non-integer, monitor specific scales (#1618)</code>](https://github.com/elementary/gala/commit/52735a2678a908c801a828930c659705c89616b7)
+- [ ] [<code>ScreenshotManager: Support non-integer scaling factors (#1623)</code>](https://github.com/elementary/gala/commit/004e17a88fc62f73aa22976fac258278f7a02f46)
+- [ ] [<code>WM: Init things that depend on GTK later (#1622)</code>](https://github.com/elementary/gala/commit/8a57a860f6b9d35136eb10a7c415f3ad5e946b93)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
