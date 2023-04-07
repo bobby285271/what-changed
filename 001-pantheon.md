@@ -84,6 +84,7 @@
 - [ ] [<code>Persist search settings (#1291)</code>](https://github.com/elementary/code/commit/9fce31693e86ccd0ace5278129a2ac029c8cd2ca)
 - [ ] [<code>Set search entry icon and styleclass according to results (#1285)</code>](https://github.com/elementary/code/commit/dc7b1a6d0de2179e7b2ae0b6d4800e7f8c2cf951)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#1302)</code>](https://github.com/elementary/code/commit/75c7282ce2ea367497914a648711bc70e4f835a6)
+- [ ] [<code>Add release metainfo and update screenshot addresses for 7.1.0 (#1303)</code>](https://github.com/elementary/code/commit/4cca10b79065a744f29641668c8daa00b45a0151)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -232,6 +233,7 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
+- [ ] [<code>Remove Unecessary Idle During Page Switch (#720)</code>](https://github.com/elementary/terminal/commit/c90ca64ca907ac16343f357fd30be642bdbbbb3b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -511,6 +513,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/greeter/commit/845ee4afc248a76a0c31437b7421834249fbc420)
 - [ ] [<code>Copy KeyboardManager from Gala</code>](https://github.com/elementary/greeter/commit/fafc2f79c6505b47690d024220d7fe3c92883df2)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>KeyboardManager: Set keyboard layout on startup</code>](https://github.com/elementary/greeter/commit/21f411183c026082e28a04a0dad45f9345563aab)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
 
@@ -576,6 +579,9 @@
 - [ ] [<code>DwellClickTimer: Support non-integer, monitor specific scales (#1618)</code>](https://github.com/elementary/gala/commit/52735a2678a908c801a828930c659705c89616b7)
 - [ ] [<code>ScreenshotManager: Support non-integer scaling factors (#1623)</code>](https://github.com/elementary/gala/commit/004e17a88fc62f73aa22976fac258278f7a02f46)
 - [ ] [<code>WM: Init things that depend on GTK later (#1622)</code>](https://github.com/elementary/gala/commit/8a57a860f6b9d35136eb10a7c415f3ad5e946b93)
+- [ ] [<code>KeyboardManager: Set keyboard layout on startup (#1626)</code>](https://github.com/elementary/gala/commit/9bf04d24f543a2d96a572f94754c0a9f6c0a2895)
+- [ ] [<code>HotCorners: Support floating point scale factors (#1627)</code>](https://github.com/elementary/gala/commit/fb2d2441121e4051206843d9ed734bcd713da664)
+- [ ] [<code>WM: Drop Meta.ShadowFactory (#1625)</code>](https://github.com/elementary/gala/commit/ca807c669fd7c780cb2563a623e8ffc1276e73f2)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
