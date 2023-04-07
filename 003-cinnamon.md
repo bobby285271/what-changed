@@ -64,9 +64,13 @@
 - [ ] [<code>cinnamon-desktop-editor: Use a path when setting a panel-launcher</code>](https://github.com/linuxmint/cinnamon/commit/3678d8c1079732f3512ab4dbfeaed6ee149b9c2c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Provide `.gir` files in cinnamon package (#11335)</code>](https://github.com/linuxmint/cinnamon/commit/7e211e2e251b2df0d80b386cc6de2ebc3db21e5f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix: update workspace switcher layout on monitors update signal (#11523)</code>](https://github.com/linuxmint/cinnamon/commit/835b7c5c2ec7fb8090183c00bfe8a26ee9856d2c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update ChooserButtonWidgets.py (#11595)</code>](https://github.com/linuxmint/cinnamon/commit/d823d4821409981b731daaa57b6727537081d22d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -192,6 +196,7 @@
 - [ ] [<code>Stop "Searching..." pop-up button from disappearing when opening a file (#3177)</code>](https://github.com/linuxmint/nemo/commit/2540e4d43d0b223866e1993963a46d3ac82508c9)
 - [ ] [<code>Implement a dynamic margin at the end of the file list in the list</code>](https://github.com/linuxmint/nemo/commit/e8c8b1099112f3d157849c7a1c303110ea144583)
 - [ ] [<code>window-slot: Update status bar selection info when a location is</code>](https://github.com/linuxmint/nemo/commit/ce6e2cd9777b0099d79ad559220b67236eacb40e)
+- [ ] [<code>Icon frame only for non-transparent large icons (#3189)</code>](https://github.com/linuxmint/nemo/commit/ed1ea52cdfe3c238a010c7780870eb09d87dc242)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -377,8 +382,10 @@
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
 - [ ] [<code>Add support for AI mimetype</code>](https://github.com/linuxmint/xreader/commit/aaf19b979c9469fd219e0048878f3ee913bd9eaf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix some build warnings (#592)</code>](https://github.com/linuxmint/xreader/commit/e0944ed3d5b8554a0b94ee46d8a387f8c04106d1)
+- [ ] [<code>Open new files in a maximised window. (#590)</code>](https://github.com/linuxmint/xreader/commit/eded495dc9290bfb02504e46ac667f231329656d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
@@ -448,6 +455,9 @@
 - [ ] [<code>Added extra constraints to BTRFS mode in Supported System Configurations (#103)</code>](https://github.com/linuxmint/timeshift/commit/a551387f06f75a39b1ca811dd71d507e17a0cc92)
 - [ ] [<code>src/Utility: fix deprecated Thread.create usage (#151)</code>](https://github.com/linuxmint/timeshift/commit/240225d5471a186e21ef9f80666a9db53b06bd13)
 - [ ] [<code>AsyncTask: Use a mutex to guard access to AsyncTask.status_line.</code>](https://github.com/linuxmint/timeshift/commit/18cd48ddd48ea6adeed1a0ab433c7bc71494c43e)
+- [ ] [<code>Fix printf format warnings (#162)</code>](https://github.com/linuxmint/timeshift/commit/ed0d20acf105b1ce3b768aaa22ef90297caa893c)
+- [ ] [<code>Don't use deprecated from_timeval_utc function</code>](https://github.com/linuxmint/timeshift/commit/4607bcc908be3b2f5d3cea1de8cf93b1a8ea3c55)
+- [ ] [<code>Fix deprecated Thread.create usage</code>](https://github.com/linuxmint/timeshift/commit/e18377e33e3e31521bbddf9cfff08e384e7b8939)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
