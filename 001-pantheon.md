@@ -111,27 +111,8 @@
 - [ ] [<code>Switch to GHCR containers (#88)</code>](https://github.com/elementary/feedback/commit/aa083c548c14a84a562f317d7f518a60a34e5af8)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/feedback/commit/e5b2e2bc5be12a7401256b42a4002f2b98f7cb38)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.3.0 → HEAD](https://github.com/elementary/files/compare/6.3.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.3.1 → HEAD](https://github.com/elementary/files/compare/6.3.1...HEAD)
 
-- [ ] [<code>Add back mount option to unmounted VolumeRow. (#2145)</code>](https://github.com/elementary/files/commit/6d88de124296fb3889594c99fd43a13e1ce7f785)
-- [ ] [<code>Fix tab label disambiguation regression (#2081)</code>](https://github.com/elementary/files/commit/75e57b03e990a6dd02046acc07dd1f293f4ead8e)
-- [ ] [<code>Increase GLib minimal version</code>](https://github.com/elementary/files/commit/0b57471f54aca914b65cc7e3e7f8380e04db0418)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Avoid crash on other Linux due to ref counting issues in Directory cache (#2149)</code>](https://github.com/elementary/files/commit/6a0d16e819dea2d0cd2d622414257da9433afe2f)
-- [ ] [<code>Do not automatically select files created outside of application (#2023)</code>](https://github.com/elementary/files/commit/4f5cb2a7c5acd091ad2cae9980294481fb5a63bf)
-- [ ] [<code>Allow horizontal scrolling when necessary when columns resized in Column View (#2064)</code>](https://github.com/elementary/files/commit/32c4725bc6f16c5671c861f5196810e1ffd45b24)
-- [ ] [<code>Fix compile warning from UndoManager.vala (#2154)</code>](https://github.com/elementary/files/commit/f335560c141863dd57ae8b45dbf27d2729fd7914)
-- [ ] [<code>Ensure overlay appears after rubberband selection in ListView (#2156)</code>](https://github.com/elementary/files/commit/75fe88ae8f35512f1ace8ebdb91dcfd79fa6bb8a)
-- [ ] [<code>Correctly handle ignored extensions (#2131)</code>](https://github.com/elementary/files/commit/e8f96797016f7c9843f24a190d5f4f4865ab6dc7)
-- [ ] [<code>Switch to GHCR containers (#2159)</code>](https://github.com/elementary/files/commit/4172c4a8f3e1c664ad6fa6384edaa594c4783da2)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/files/commit/16d24b7ebe1920a7919385145752c8de46a6d857)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#2160)</code>](https://github.com/elementary/files/commit/e462299a738a61ad8e7f9fcf2d8ff63342bfb74c)
-- [ ] [<code>Add release notes for 6.3.1 (#2170)</code>](https://github.com/elementary/files/commit/cb7ecc5afab5bbaefbf3a7e8b7ed58e6ac88bdef)
-- [ ] [<code>Ensure overlay appears after drag-dropped files are selected (#2157)</code>](https://github.com/elementary/files/commit/2ab0c6033620137291f9c4b8c109b26533cbcf95)
-- [ ] [<code>Show git status correctly after reload (#2150)</code>](https://github.com/elementary/files/commit/1a3e7f0e4d596adc74970f61cc4d33eea383adc3)
-- [ ] [<code>Release 6.3.1 (#2167)</code>](https://github.com/elementary/files/commit/def3de0b02e167e75e5456fc6a762225933ec4fd)
-  - <sub>Tags: <code>6.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/7ce6e6267d3819d766a1b44ec6ae008ec56f1724)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
@@ -234,6 +215,9 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
 - [ ] [<code>Remove Unecessary Idle During Page Switch (#720)</code>](https://github.com/elementary/terminal/commit/c90ca64ca907ac16343f357fd30be642bdbbbb3b)
+- [ ] [<code>Application: Implement `startup()` (#710)</code>](https://github.com/elementary/terminal/commit/1a114de68b754e10061a746d62090b89489ab455)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Application: Handle Minimized in The Primary Instance (#724)</code>](https://github.com/elementary/terminal/commit/4fda3c0760dcfced6c73f02d80f2ca50c32cb51e)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -582,6 +566,8 @@
 - [ ] [<code>KeyboardManager: Set keyboard layout on startup (#1626)</code>](https://github.com/elementary/gala/commit/9bf04d24f543a2d96a572f94754c0a9f6c0a2895)
 - [ ] [<code>HotCorners: Support floating point scale factors (#1627)</code>](https://github.com/elementary/gala/commit/fb2d2441121e4051206843d9ed734bcd713da664)
 - [ ] [<code>WM: Drop Meta.ShadowFactory (#1625)</code>](https://github.com/elementary/gala/commit/ca807c669fd7c780cb2563a623e8ffc1276e73f2)
+- [ ] [<code>IconGroup: Support floating scale factors (#1628)</code>](https://github.com/elementary/gala/commit/e5ef835de1bbd125de5b9580ae8dce9050392424)
+- [ ] [<code>WorkspaceInsertThumb: Support floating point scale factors (#1629)</code>](https://github.com/elementary/gala/commit/a39676e7a088afb003c0ffebbd8c23222a11b354)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
