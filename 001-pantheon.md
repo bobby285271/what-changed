@@ -151,6 +151,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/mail/commit/ac7acd42787520f853c2d94326119edb4ab41b02)
 - [ ] [<code>Application: use startup (#837)</code>](https://github.com/elementary/mail/commit/83df7b6099ef11ca28c1e9796353ff2c818fb0fe)
+- [ ] [<code>Mail.MessageList: Subclass Gtk.Box instead of Gtk.ListBox (#845)</code>](https://github.com/elementary/mail/commit/bb41d0d9caa1e7425d6f7719850b113aa153e980)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainWindow: don't allow pane to shrink past contents (#854)</code>](https://github.com/elementary/mail/commit/c6924ea5e4048bf22f6d4edf8e99877c3fbceb47)
+- [ ] [<code>MessageList: code style and cleanup (#853)</code>](https://github.com/elementary/mail/commit/33e3f2f3c1d6d7036122db0c25e4de75fe44a34e)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -433,6 +437,7 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.1.0...HEAD)
 
+- [ ] [<code>Adw: style AboutWindow (#1252)</code>](https://github.com/elementary/stylesheet/commit/0c841189a3ae0b06b7f5cf551d3d2c6266eda80e)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -568,6 +573,12 @@
 - [ ] [<code>WM: Drop Meta.ShadowFactory (#1625)</code>](https://github.com/elementary/gala/commit/ca807c669fd7c780cb2563a623e8ffc1276e73f2)
 - [ ] [<code>IconGroup: Support floating scale factors (#1628)</code>](https://github.com/elementary/gala/commit/e5ef835de1bbd125de5b9580ae8dce9050392424)
 - [ ] [<code>WorkspaceInsertThumb: Support floating point scale factors (#1629)</code>](https://github.com/elementary/gala/commit/a39676e7a088afb003c0ffebbd8c23222a11b354)
+- [ ] [<code>Support floating point scale for resize button (#1630)</code>](https://github.com/elementary/gala/commit/53da4ea072b74e24e4fb52bfdab328280421f732)
+- [ ] [<code>NotificationStack: Support floating point scale factors (#1631)</code>](https://github.com/elementary/gala/commit/ff5914a74580cfd8f3658b25908a8f69162fa4f3)
+- [ ] [<code>WindowSwitcher: Support floating point scale factors (#1632)</code>](https://github.com/elementary/gala/commit/4393018d4dd43452314a6716a68b36f488664b50)
+- [ ] [<code>InternalUtils: Remove pixel_align method, and just round (#1633)</code>](https://github.com/elementary/gala/commit/051534a29f0c8e1622c5ab716701dad23225eb49)
+- [ ] [<code>PiP PopupWindow: Support floating point scale factor (#1634)</code>](https://github.com/elementary/gala/commit/51d8eee427445fa659aad43fc0abb1901a2291e0)
+- [ ] [<code>WorkspaceClone: Handle floating point scaling factors (#1635)</code>](https://github.com/elementary/gala/commit/3cdd535ef8d66de66564c3718d4cce31dfa412a2)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -773,6 +784,7 @@
 - [ ] [<code>Update terraform.config to 7.0 (#656)</code>](https://github.com/elementary/os/commit/036e9d0537ff7f1f59bf2a42f8677dd2756bee5b)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/os/commit/a474abe816203e80c69075f0a9fa2222ce380be4)
 - [ ] [<code>Extend regex to support double-digit loop devices</code>](https://github.com/elementary/os/commit/f24efc4ecbc5d018e8f12b33aade9e735a9deca4)
+- [ ] [<code>Bump easimon/maximize-build-space from 6 to 7 (#664)</code>](https://github.com/elementary/os/commit/e6fd503a4ee10d2366dd1bb2868e0472605f0547)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
