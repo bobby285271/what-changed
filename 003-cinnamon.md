@@ -78,7 +78,7 @@
 - [ ] [<code>network/net-device.c: net_device_get_valid_connections - don't</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9aecc340f6c14e3e04e4e9e84356403f7f743f71)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.1...HEAD)
+#### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.2...HEAD)
 
 - [ ] [<code>gnome-desktop-thumbnail.c: Use g_get_user_cache_dir() for thumbnail</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8247b2d146d76022d788db759ba688b335736d19)
 - [ ] [<code>privacy settings: Add some more for portal support.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ccc87fee3f7a97652313aabe6f92b56efaca6861)
@@ -130,6 +130,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/folder-color-switcher/commit/8f9c34480e060bf4539808d57bef5fcc2cd688ce)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Read colors dynamically</code>](https://github.com/linuxmint/folder-color-switcher/commit/cf6dc8533d2f157854ce852e83fe019647e475ed)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove obsolete icons</code>](https://github.com/linuxmint/folder-color-switcher/commit/34651c0ac787d60d883a974a4e52f8a1a8352ce8)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [e17f8a4620827235dabbe5221bd0ee8c44dad0d5 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/e17f8a4620827235dabbe5221bd0ee8c44dad0d5...HEAD)
 
@@ -146,6 +150,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove Mint-X-Dark</code>](https://github.com/linuxmint/mint-x-icons/commit/824032be041985a1834f52cf5a0f1de697d8e4aa)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add definitions for folder-color-switcher</code>](https://github.com/linuxmint/mint-x-icons/commit/d07701a8a490140db32629c669499551631544c8)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
 
@@ -158,6 +164,8 @@
 - [ ] [<code>Refactor Places generator</code>](https://github.com/linuxmint/mint-y-icons/commit/67e2aaeb737dbc8ef9be7b04134d089e88740750)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Rework place colors</code>](https://github.com/linuxmint/mint-y-icons/commit/e8ec0501dc9450e1100833a8b5db1e72d20b3f0c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add definitions for folder-color-switcher</code>](https://github.com/linuxmint/mint-y-icons/commit/bd30bebb8a79b4ece8c98a830746f2133e69de28)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
