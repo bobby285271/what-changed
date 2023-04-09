@@ -628,6 +628,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/a1b46afc7c1aeca8d33a9e3b47c7a6b4ded0aa65)
 - [ ] [<code>Use the 'alias' property instead of the 'name' property for devices (#189)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23d2560d79def1878ce0f1ac094f46bd48c04599)
 - [ ] [<code>Improved response to power state changes in Switchboard (#191)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ce88a7b03231b59c57f832aa656b4763d7d1e77e)
+- [ ] [<code>Revert "Improved response to power state changes in Switchboard (#191)" (#194)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/533a60b24bc22b2076d339dd48ab4ae01605ee4a)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
