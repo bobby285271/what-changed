@@ -155,6 +155,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainWindow: don't allow pane to shrink past contents (#854)</code>](https://github.com/elementary/mail/commit/c6924ea5e4048bf22f6d4edf8e99877c3fbceb47)
 - [ ] [<code>MessageList: code style and cleanup (#853)</code>](https://github.com/elementary/mail/commit/33e3f2f3c1d6d7036122db0c25e4de75fe44a34e)
+- [ ] [<code>Handle account adding live (#855)</code>](https://github.com/elementary/mail/commit/5787d60fbd835e75668cf35c8c7af0bdc5590ec3)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -215,6 +216,7 @@
 - [ ] [<code>Switch to GHCR containers (#347)</code>](https://github.com/elementary/tasks/commit/5e07fb395f37df4cb0ebedf750c3f5694edc4855)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 4 to 5 (#352)</code>](https://github.com/elementary/tasks/commit/bbe44a1d07b0f02351b942b4914f6f1b66718a34)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#355)</code>](https://github.com/elementary/tasks/commit/52ee9b0ca96f99d99e710b362977b2c1634135a5)
+- [ ] [<code>Fix small color issue (#356)</code>](https://github.com/elementary/tasks/commit/1c4af59ff932013dad9c739b8b5ad9f287cc5fd8)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -387,6 +389,7 @@
 - [ ] [<code>actions/checkout@v3 (#339)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/1051335b03d0f2043f71bedabb813439d26c07b0)
 - [ ] [<code>Switch to GHCR containers (#341)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/edf5f9144325161d1950114d4a924e16dd04e031)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e178624501160ef2af5bf87c73a3362d920f68bf)
+- [ ] [<code>Add previous/next workspace to hot corners (#342)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8b984e8cb2a856879569883f661955dea526612f)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -579,6 +582,7 @@
 - [ ] [<code>InternalUtils: Remove pixel_align method, and just round (#1633)</code>](https://github.com/elementary/gala/commit/051534a29f0c8e1622c5ab716701dad23225eb49)
 - [ ] [<code>PiP PopupWindow: Support floating point scale factor (#1634)</code>](https://github.com/elementary/gala/commit/51d8eee427445fa659aad43fc0abb1901a2291e0)
 - [ ] [<code>WorkspaceClone: Handle floating point scaling factors (#1635)</code>](https://github.com/elementary/gala/commit/3cdd535ef8d66de66564c3718d4cce31dfa412a2)
+- [ ] [<code>WindowSwitcher: Fix rounded corners (#1638)</code>](https://github.com/elementary/gala/commit/3f4dfa68770445642ff1bb8ab87b06012b093399)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
