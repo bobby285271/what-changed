@@ -9,6 +9,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/appcenter/commit/db475f8389028f794a5e247f2b9af9020475ec9f)
 - [ ] [<code>Show Flatpak permissions (#2007)</code>](https://github.com/elementary/appcenter/commit/4ba9a79c2b2e0479aa6d92d9b9a53ce03aae8f30)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix deprecations for AppStream 0.16 (#2015)</code>](https://github.com/elementary/appcenter/commit/8e437af11cd59094f7164c3b6c93849f6ad403db)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -390,6 +393,8 @@
 - [ ] [<code>Switch to GHCR containers (#341)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/edf5f9144325161d1950114d4a924e16dd04e031)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e178624501160ef2af5bf87c73a3362d920f68bf)
 - [ ] [<code>Add previous/next workspace to hot corners (#342)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8b984e8cb2a856879569883f661955dea526612f)
+- [ ] [<code>Add an option to dim wallpapers when dark style is active (#343)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/2ba0a953f7eee8f4f2d4fc8de74a08a110c8f6ae)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -583,6 +588,12 @@
 - [ ] [<code>PiP PopupWindow: Support floating point scale factor (#1634)</code>](https://github.com/elementary/gala/commit/51d8eee427445fa659aad43fc0abb1901a2291e0)
 - [ ] [<code>WorkspaceClone: Handle floating point scaling factors (#1635)</code>](https://github.com/elementary/gala/commit/3cdd535ef8d66de66564c3718d4cce31dfa412a2)
 - [ ] [<code>WindowSwitcher: Fix rounded corners (#1638)</code>](https://github.com/elementary/gala/commit/3f4dfa68770445642ff1bb8ab87b06012b093399)
+- [ ] [<code>WindowIconActor: Support setting floating point scale on placement (#1636)</code>](https://github.com/elementary/gala/commit/d7993f415f675ea6f7e5cd29f6d1a3170e7401a5)
+- [ ] [<code>MultitaskingView: Ensure MonitorClones are visible on other monitors (#1640)</code>](https://github.com/elementary/gala/commit/faaeb6547c86f2634c6f0e4b38dcd26a43637a19)
+- [ ] [<code>WindowSwitcher: Merge icon and indicator (#1637)</code>](https://github.com/elementary/gala/commit/b83a0231a7042a13d6d113a31dcdd2855e411297)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowSwitcher: Respect animations key (#1643)</code>](https://github.com/elementary/gala/commit/e0ef54ce665d1e75161f8ce99835b11cb686b0e1)
+- [ ] [<code>IconGroup: Correctly set highlight opacity on start (#1642)</code>](https://github.com/elementary/gala/commit/7c379480d3ee155c488d6025b1f1be3ee39e37d7)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
