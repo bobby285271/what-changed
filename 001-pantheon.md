@@ -117,6 +117,8 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.3.1 → HEAD](https://github.com/elementary/files/compare/6.3.1...HEAD)
 
 - [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/7ce6e6267d3819d766a1b44ec6ae008ec56f1724)
+- [ ] [<code>AbstractPropertiesDialog: replace StorageBar with Gtk.LevelBar (#2171)</code>](https://github.com/elementary/files/commit/41046799a2d65fbfb2f0a29952e3af0fd3a17c13)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -159,6 +161,8 @@
 - [ ] [<code>MainWindow: don't allow pane to shrink past contents (#854)</code>](https://github.com/elementary/mail/commit/c6924ea5e4048bf22f6d4edf8e99877c3fbceb47)
 - [ ] [<code>MessageList: code style and cleanup (#853)</code>](https://github.com/elementary/mail/commit/33e3f2f3c1d6d7036122db0c25e4de75fe44a34e)
 - [ ] [<code>Handle account adding live (#855)</code>](https://github.com/elementary/mail/commit/5787d60fbd835e75668cf35c8c7af0bdc5590ec3)
+- [ ] [<code>Derive MessageListBox from Gtk.Box in preparation for GTK4 (#856)</code>](https://github.com/elementary/mail/commit/c75bbe5629cbc6f12fa9b667ec65c6735b1f0c64)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -461,6 +465,9 @@
 - [ ] [<code>Add GNOME UI icons to actions (#1185)</code>](https://github.com/elementary/icons/commit/1da6b6e6b8d6e5472b0309dd618a075c9f3f34bc)
 - [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/00a1d571cfa23dd7ee974bd5f5a69f0fcafa5143)
 - [ ] [<code>Update preferences-desktop-display (#1187)</code>](https://github.com/elementary/icons/commit/0b91054b3b4d09bd53cec29dae29c633700a6aee)
+- [ ] [<code>Actions: increase radius of edit-clear (#1191)</code>](https://github.com/elementary/icons/commit/d85cfb5fcad397689ffc56c0ea6fb811756e4727)
+- [ ] [<code>Actions: add adw-external-link (#1189)</code>](https://github.com/elementary/icons/commit/c76d5c8bba69b22455a44e8e176c754b29debf2f)
+- [ ] [<code>Actions: update document-*-symbolic radius (#1190)</code>](https://github.com/elementary/icons/commit/4f5477cb9e3491bc17ae080d68effa4bdbb7ec52)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -594,6 +601,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowSwitcher: Respect animations key (#1643)</code>](https://github.com/elementary/gala/commit/e0ef54ce665d1e75161f8ce99835b11cb686b0e1)
 - [ ] [<code>IconGroup: Correctly set highlight opacity on start (#1642)</code>](https://github.com/elementary/gala/commit/7c379480d3ee155c488d6025b1f1be3ee39e37d7)
+- [ ] [<code>WindowSwitcher: Update caption width before opening (#1645)</code>](https://github.com/elementary/gala/commit/4d1fcace10d98f8efe65f5b4d29b81df938df87b)
+- [ ] [<code>MultitaskingView: Stack docks on top of workspace clones (#1646)</code>](https://github.com/elementary/gala/commit/8904ba632dd3cc7ff8d3482ab642c1a37cbaacf9)
+- [ ] [<code>MultitaskingView: Support floating point scale factors (#1647)</code>](https://github.com/elementary/gala/commit/ffe31be93dd1603eb0e6418956d25a81337576b4)
+- [ ] [<code>MultitaskingView: Allow making screenshots of the screen (#1644)</code>](https://github.com/elementary/gala/commit/4ca08a2b4575ec87e9aac4eb6457cd47c89c217a)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
