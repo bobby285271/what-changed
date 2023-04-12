@@ -399,6 +399,9 @@
 - [ ] [<code>Add previous/next workspace to hot corners (#342)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8b984e8cb2a856879569883f661955dea526612f)
 - [ ] [<code>Add an option to dim wallpapers when dark style is active (#343)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/2ba0a953f7eee8f4f2d4fc8de74a08a110c8f6ae)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Dock: fix icon size images (#346)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/aad8eb4d3fe74ab087e1b40c7ffb10296cd5e8c8)
+- [ ] [<code>Text: use more vertical layout with headerlabels (#345)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3635820cbe9341b32d47bfd2b4a54232531bea59)
+- [ ] [<code>Appearance: add reduce motion option (#347)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/55a87262c196d2fd2cdf529e45d697788071b5a1)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -605,6 +608,7 @@
 - [ ] [<code>MultitaskingView: Stack docks on top of workspace clones (#1646)</code>](https://github.com/elementary/gala/commit/8904ba632dd3cc7ff8d3482ab642c1a37cbaacf9)
 - [ ] [<code>MultitaskingView: Support floating point scale factors (#1647)</code>](https://github.com/elementary/gala/commit/ffe31be93dd1603eb0e6418956d25a81337576b4)
 - [ ] [<code>MultitaskingView: Allow making screenshots of the screen (#1644)</code>](https://github.com/elementary/gala/commit/4ca08a2b4575ec87e9aac4eb6457cd47c89c217a)
+- [ ] [<code>BackgroundManager: dark dim effect (#1651)</code>](https://github.com/elementary/gala/commit/92447e63822a23040b93fef01bb12af6e370345c)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -655,6 +659,7 @@
 - [ ] [<code>Use the 'alias' property instead of the 'name' property for devices (#189)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23d2560d79def1878ce0f1ac094f46bd48c04599)
 - [ ] [<code>Improved response to power state changes in Switchboard (#191)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ce88a7b03231b59c57f832aa656b4763d7d1e77e)
 - [ ] [<code>Revert "Improved response to power state changes in Switchboard (#191)" (#194)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/533a60b24bc22b2076d339dd48ab4ae01605ee4a)
+- [ ] [<code>Gresource and update icons (#196)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/362d329ba4437c6d54d0b346ded70a873b9ef212)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
