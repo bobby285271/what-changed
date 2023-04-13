@@ -515,6 +515,8 @@
 - [ ] [<code>Merge branch '528-saving-empty-file-crashes-program'</code>](https://github.com/phase1geo/minder/commit/48fa3e11904da27598f31197604d182e6b9ed05a)
 - [ ] [<code>Enhancing fix for app crash due to missing root node</code>](https://github.com/phase1geo/minder/commit/8be49be68ddea26eb492c148453358ec1af05419)
 - [ ] [<code>Fixing issues with capitalized keyboard shortcuts</code>](https://github.com/phase1geo/minder/commit/08047cbb9102a43b6c1db6ca0f3799916ff8e5c1)
+- [ ] [<code>Fixing potential issue with deleting group and connection notes.</code>](https://github.com/phase1geo/minder/commit/159885be9886c0c6ca716af99eafa1e5bb35507b)
+- [ ] [<code>Removing Control-E shortcut from shortcuts documentation</code>](https://github.com/phase1geo/minder/commit/67fca66fe45c7579efa033d3a07a8e07dceb2c79)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
