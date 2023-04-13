@@ -204,14 +204,8 @@
 - [ ] [<code>Bump runtime to 7.2 (#260)</code>](https://github.com/elementary/screenshot/commit/6ae4d467c8466e265ef3e1a6ea6feafcdd42467c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#261)</code>](https://github.com/elementary/screenshot/commit/2e331619bc8c2ea2647438dda51a19ef25be819e)
 
-#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.0 → HEAD](https://github.com/elementary/tasks/compare/6.3.0...HEAD)
+#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.1 → HEAD](https://github.com/elementary/tasks/compare/6.3.1...HEAD)
 
-- [ ] [<code>Expand items in add list popover (#339)</code>](https://github.com/elementary/tasks/commit/583aa6c58c6f9d092d5ae7573c7b1c4d3def44ed)
-- [ ] [<code>Square icon design (#335)</code>](https://github.com/elementary/tasks/commit/dbf8ae726111bb5359c5c7cbbaf0ef91d7c2b242)
-- [ ] [<code>Create release notes for 6.3.1 (#343)</code>](https://github.com/elementary/tasks/commit/3067f80765e56734d4f3a4680ea9cc01853acff7)
-- [ ] [<code>Release 6.3.1 (#344)</code>](https://github.com/elementary/tasks/commit/de5bad0f4e9802454e537a77022fd100984f6000)
-  - <sub>Tags: <code>6.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>flatpak: Use 7.1 runtime (#345)</code>](https://github.com/elementary/tasks/commit/22e0d18693932e9eea3d2a22329f845575ce26e6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -609,6 +603,8 @@
 - [ ] [<code>MultitaskingView: Support floating point scale factors (#1647)</code>](https://github.com/elementary/gala/commit/ffe31be93dd1603eb0e6418956d25a81337576b4)
 - [ ] [<code>MultitaskingView: Allow making screenshots of the screen (#1644)</code>](https://github.com/elementary/gala/commit/4ca08a2b4575ec87e9aac4eb6457cd47c89c217a)
 - [ ] [<code>BackgroundManager: dark dim effect (#1651)</code>](https://github.com/elementary/gala/commit/92447e63822a23040b93fef01bb12af6e370345c)
+- [ ] [<code>BackgroundManager: Update Wingpanel color after dimming wallpaper (#1652)</code>](https://github.com/elementary/gala/commit/66477d16af15b882b981d120acaa90229b1c0b15)
+- [ ] [<code>IconGroup: Improve animation (#1653)</code>](https://github.com/elementary/gala/commit/7af203c8209ab5a3df80237cdd40d3fa24416ff0)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
