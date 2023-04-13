@@ -624,6 +624,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove listbox row on torrent removed</code>](https://github.com/davidmhewitt/torrential/commit/d5df98c09b9cfac043884611369fb9fddbe62f9f)
 - [ ] [<code>TorrentListBox: make placeholder internal (#190)</code>](https://github.com/davidmhewitt/torrential/commit/2e22a8bceb3c70f18b68f8744b183fc541e1a9cb)
+- [ ] [<code>Bump runtime version</code>](https://github.com/davidmhewitt/torrential/commit/e7a53a21d20f3b26e492ba0f95abb458d56f19da)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.16 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.16...HEAD)
 
