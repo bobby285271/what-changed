@@ -466,6 +466,7 @@
 - [ ] [<code>Fix printf format warnings (#162)</code>](https://github.com/linuxmint/timeshift/commit/ed0d20acf105b1ce3b768aaa22ef90297caa893c)
 - [ ] [<code>Don't use deprecated from_timeval_utc function</code>](https://github.com/linuxmint/timeshift/commit/4607bcc908be3b2f5d3cea1de8cf93b1a8ea3c55)
 - [ ] [<code>Fix deprecated Thread.create usage</code>](https://github.com/linuxmint/timeshift/commit/e18377e33e3e31521bbddf9cfff08e384e7b8939)
+- [ ] [<code>Fix segmentation fault (#169)</code>](https://github.com/linuxmint/timeshift/commit/382c1638bc0e7c30aabdf1bd13b025ff4dbbea39)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
