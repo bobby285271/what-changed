@@ -613,6 +613,7 @@
 - [ ] [<code>BackgroundManager: Update Wingpanel color after dimming wallpaper (#1652)</code>](https://github.com/elementary/gala/commit/66477d16af15b882b981d120acaa90229b1c0b15)
 - [ ] [<code>IconGroup: Improve animation (#1653)</code>](https://github.com/elementary/gala/commit/7af203c8209ab5a3df80237cdd40d3fa24416ff0)
 - [ ] [<code>Handle cancel action in IconGroup animation (#1654)</code>](https://github.com/elementary/gala/commit/f932bdfbad9933502a70a69d2a7b04eb358ea1b2)
+- [ ] [<code>Avoid to use Gdk constants when Clutter should be used (#1596)</code>](https://github.com/elementary/gala/commit/10e70a8a497307b150bbea18a669694a013661b9)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
