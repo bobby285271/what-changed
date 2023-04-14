@@ -163,6 +163,13 @@
 - [ ] [<code>Handle account adding live (#855)</code>](https://github.com/elementary/mail/commit/5787d60fbd835e75668cf35c8c7af0bdc5590ec3)
 - [ ] [<code>Derive MessageListBox from Gtk.Box in preparation for GTK4 (#856)</code>](https://github.com/elementary/mail/commit/c75bbe5629cbc6f12fa9b667ec65c6735b1f0c64)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ConversationListItem: Small updates for gtk4 (#861)</code>](https://github.com/elementary/mail/commit/ed2584208534349f9256d2058f725e6d11371390)
+- [ ] [<code>AttachmentButton: Updates for gtk4 (#862)</code>](https://github.com/elementary/mail/commit/4d29dec9baecd26e4745706edf4b3990280b3908)
+- [ ] [<code>Remove inline composer (#860)</code>](https://github.com/elementary/mail/commit/aee8c463f1ef4a2d43afa1c065d7f02174b49d08)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Composer: remove construction property that is always true (#863)</code>](https://github.com/elementary/mail/commit/5146a4ab19d1cec71cf959db1e1ff731085b31ff)
+- [ ] [<code>Composer: use Hdy.Window and Hdy.HeaderBar (#864)</code>](https://github.com/elementary/mail/commit/0729ff4b34e2fb7687bb097d598e86a112ebf071)
+- [ ] [<code>Composer: Remove unused can_change_sender (#865)</code>](https://github.com/elementary/mail/commit/53b277d8fe5065db5ba04713268a086ad21f9b9e)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -605,6 +612,7 @@
 - [ ] [<code>BackgroundManager: dark dim effect (#1651)</code>](https://github.com/elementary/gala/commit/92447e63822a23040b93fef01bb12af6e370345c)
 - [ ] [<code>BackgroundManager: Update Wingpanel color after dimming wallpaper (#1652)</code>](https://github.com/elementary/gala/commit/66477d16af15b882b981d120acaa90229b1c0b15)
 - [ ] [<code>IconGroup: Improve animation (#1653)</code>](https://github.com/elementary/gala/commit/7af203c8209ab5a3df80237cdd40d3fa24416ff0)
+- [ ] [<code>Handle cancel action in IconGroup animation (#1654)</code>](https://github.com/elementary/gala/commit/f932bdfbad9933502a70a69d2a7b04eb358ea1b2)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
