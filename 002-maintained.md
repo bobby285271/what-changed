@@ -482,6 +482,7 @@
 - [ ] [<code>Enhancing image exports</code>](https://github.com/phase1geo/minder/commit/63c787b7567e0ba6d493399caebe2f4b31e22e6e)
 - [ ] [<code>Merge branch '506-option-to-ignore-markdown-control-ch'</code>](https://github.com/phase1geo/minder/commit/48df28d43eb8d0f070e2eda2aa2a9c7069c6bb80)
 - [ ] [<code>Fixing issue with text colors when theme is changed</code>](https://github.com/phase1geo/minder/commit/836b28ec8d93bce2aa6e99fec3b705b0aa967e7d)
+- [ ] [<code>Checkpointing work on position adjustments.</code>](https://github.com/phase1geo/minder/commit/e12fe2a027b222f0a9ab869b543bdc4aa8984aab)
 - [ ] [<code>Adding group note support</code>](https://github.com/phase1geo/minder/commit/f242f3885fb79ad6940e7b163568a64b07cd701b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch '516-add-note-to-a-group'</code>](https://github.com/phase1geo/minder/commit/7e7c81dc484d108fa3065a80a8b5f9139ab5e01c)
@@ -517,6 +518,15 @@
 - [ ] [<code>Fixing issues with capitalized keyboard shortcuts</code>](https://github.com/phase1geo/minder/commit/08047cbb9102a43b6c1db6ca0f3799916ff8e5c1)
 - [ ] [<code>Fixing potential issue with deleting group and connection notes.</code>](https://github.com/phase1geo/minder/commit/159885be9886c0c6ca716af99eafa1e5bb35507b)
 - [ ] [<code>Removing Control-E shortcut from shortcuts documentation</code>](https://github.com/phase1geo/minder/commit/67fca66fe45c7579efa033d3a07a8e07dceb2c79)
+- [ ] [<code>Checkpointing work on position adjustments.</code>](https://github.com/phase1geo/minder/commit/f8035599b51e571152357c940f02f5fec4063567)
+- [ ] [<code>Merge branch '503-the-position-calculating-function-sh' of https://github.com/phase1geo/Minder into 503-the-position-calculating-function-sh</code>](https://github.com/phase1geo/minder/commit/3c631b2ea090c00c484ea38eeb0a9b419ad81377)
+- [ ] [<code>Improvements to reduce saving</code>](https://github.com/phase1geo/minder/commit/0ede8979265990da0fbda0230add2ee339ecbcd4)
+- [ ] [<code>Adding readonly detection</code>](https://github.com/phase1geo/minder/commit/42ee1b3fe4e93381d9cc9bae8a37b0c99cb1d489)
+- [ ] [<code>Another readonly enhancement.</code>](https://github.com/phase1geo/minder/commit/b7a078828d57fdfdb05f16aff793ede0dce716fd)
+- [ ] [<code>Merge branch '503-the-position-calculating-function-sh'</code>](https://github.com/phase1geo/minder/commit/047dca35a69b06c557d73c132ec13f205537f8fb)
+- [ ] [<code>Fixing issues with loading files from command-line</code>](https://github.com/phase1geo/minder/commit/349cb9c6b71d25b4225f61840f4a06620b938dba)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Merge branch '522-minder-opens-empty-file-when-reopeni'</code>](https://github.com/phase1geo/minder/commit/553e50a8defcc55506dc041a0546ca0b07d8c594)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
@@ -562,6 +572,7 @@
 - [ ] [<code>Actions: Fixed ubuntu version and use ghcr</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/33904593d1ec98b9f82778f7616d3c89c1a7bfcb)
 - [ ] [<code>dependabot: Create .github/dependabot.yml</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/384e7a7c128e4f3085f7de84e72a35677583658e)
 - [ ] [<code>Update portuguese (pt) translation (#177)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e183346f38fe8ce023f5cfd27348e4e1e6f8fcb4)
+- [ ] [<code>Categories: Use SPDX license header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/93daf11f9682da16af7bf6ad201355adcf755d81)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
