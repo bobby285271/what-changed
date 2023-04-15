@@ -170,6 +170,10 @@
 - [ ] [<code>Composer: remove construction property that is always true (#863)</code>](https://github.com/elementary/mail/commit/5146a4ab19d1cec71cf959db1e1ff731085b31ff)
 - [ ] [<code>Composer: use Hdy.Window and Hdy.HeaderBar (#864)</code>](https://github.com/elementary/mail/commit/0729ff4b34e2fb7687bb097d598e86a112ebf071)
 - [ ] [<code>Composer: Remove unused can_change_sender (#865)</code>](https://github.com/elementary/mail/commit/53b277d8fe5065db5ba04713268a086ad21f9b9e)
+- [ ] [<code>Application.css: add scrolledwindow undershoot (#869)</code>](https://github.com/elementary/mail/commit/1b08e3b803f1e70d23733d653c091b43207a16a2)
+- [ ] [<code>ConversationList: put the filter menu next to the searchbar (#868)</code>](https://github.com/elementary/mail/commit/fa71eee9729ac0f53c29abc4d735a8bed6a867c7)
+- [ ] [<code>MessageList: Use parameters for reply etc. actions (#859)</code>](https://github.com/elementary/mail/commit/1362bd714b4ad9c870f865d617ae2dcca8192a68)
+- [ ] [<code>WelcomeView: Updates for gtk4 (#870)</code>](https://github.com/elementary/mail/commit/796be4c68d1f6cd845139d598efa49255a466ac4)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
