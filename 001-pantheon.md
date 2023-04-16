@@ -174,6 +174,7 @@
 - [ ] [<code>ConversationList: put the filter menu next to the searchbar (#868)</code>](https://github.com/elementary/mail/commit/fa71eee9729ac0f53c29abc4d735a8bed6a867c7)
 - [ ] [<code>MessageList: Use parameters for reply etc. actions (#859)</code>](https://github.com/elementary/mail/commit/1362bd714b4ad9c870f865d617ae2dcca8192a68)
 - [ ] [<code>WelcomeView: Updates for gtk4 (#870)</code>](https://github.com/elementary/mail/commit/796be4c68d1f6cd845139d598efa49255a466ac4)
+- [ ] [<code>Composer: add keyboard shortcuts (#873)</code>](https://github.com/elementary/mail/commit/d72a574339362b379a7a8e30f44b751fbfb72036)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
