@@ -175,6 +175,7 @@
 - [ ] [<code>MessageList: Use parameters for reply etc. actions (#859)</code>](https://github.com/elementary/mail/commit/1362bd714b4ad9c870f865d617ae2dcca8192a68)
 - [ ] [<code>WelcomeView: Updates for gtk4 (#870)</code>](https://github.com/elementary/mail/commit/796be4c68d1f6cd845139d598efa49255a466ac4)
 - [ ] [<code>Composer: add keyboard shortcuts (#873)</code>](https://github.com/elementary/mail/commit/d72a574339362b379a7a8e30f44b751fbfb72036)
+- [ ] [<code>Composer: set parent internally, use present (#872)</code>](https://github.com/elementary/mail/commit/34a82b93b928577a1c9291a8e165c3093f001636)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -797,6 +798,9 @@
 - [ ] [<code>Switch to GHCR containers (#65)</code>](https://github.com/elementary/portals/commit/1d283e7e958347bbcb8f3fe0afa002190b532256)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/portals/commit/d8875864fd409f4ec032a03786c9e5a8415deb69)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#66)</code>](https://github.com/elementary/portals/commit/085a7687b80ca852c498c35382d34c6f8fb050f3)
+- [ ] [<code>meson: Add gtk4 bindings based on valac version (#67)</code>](https://github.com/elementary/portals/commit/021dfe415f947edf3a1325796271cb7944fb4a8a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
