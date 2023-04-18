@@ -69,8 +69,11 @@
 - [ ] [<code>fix: update workspace switcher layout on monitors update signal (#11523)</code>](https://github.com/linuxmint/cinnamon/commit/835b7c5c2ec7fb8090183c00bfe8a26ee9856d2c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update ChooserButtonWidgets.py (#11595)</code>](https://github.com/linuxmint/cinnamon/commit/d823d4821409981b731daaa57b6727537081d22d)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update placesManager.js to fix #11623 (#11624)</code>](https://github.com/linuxmint/cinnamon/commit/8ddf1a6a23d1725d29a946600f438bf9cb9b9ef0)
+- [ ] [<code>cs_info.py and org.cinnamon.gschema.xml: Fix undefined var and cleanup dconf strings (#11609)</code>](https://github.com/linuxmint/cinnamon/commit/4bfc2683b97312b1577f911b90e493f7effaf216)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -143,6 +146,9 @@
 - [ ] [<code>Fix for title bar buttons on unfocused windows (#410)</code>](https://github.com/linuxmint/mint-themes/commit/de03f669e1ea3d667d542435fff8615d0420f7d4)
 - [ ] [<code>Mint-Y: Don't generate index.theme files</code>](https://github.com/linuxmint/mint-themes/commit/74827202cca578115a5e49413ad9f0c273bcdabf)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Commit some compiled changes.</code>](https://github.com/linuxmint/mint-themes/commit/b669439eceb5dd1b4e3080cc587fb2451e14032c)
+- [ ] [<code>.gitignore: Ignore build and cache files (#437)</code>](https://github.com/linuxmint/mint-themes/commit/3558cad52124c9d903e1d1d61aec1714b28d42d9)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -205,6 +211,11 @@
 - [ ] [<code>Implement a dynamic margin at the end of the file list in the list</code>](https://github.com/linuxmint/nemo/commit/e8c8b1099112f3d157849c7a1c303110ea144583)
 - [ ] [<code>window-slot: Update status bar selection info when a location is</code>](https://github.com/linuxmint/nemo/commit/ce6e2cd9777b0099d79ad559220b67236eacb40e)
 - [ ] [<code>Icon frame only for non-transparent large icons (#3189)</code>](https://github.com/linuxmint/nemo/commit/ed1ea52cdfe3c238a010c7780870eb09d87dc242)
+- [ ] [<code>search: increase performance, reduce memory use.</code>](https://github.com/linuxmint/nemo/commit/3c691a8e0e80b5442eaa646a959cc0ada7b0eb0c)
+- [ ] [<code>Use GRefString instead of eel_ref_str for ref-counted strings.</code>](https://github.com/linuxmint/nemo/commit/498b4b0be41d3eefa3375bb16c07fd35090b58de)
+- [ ] [<code>Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/84c9a3fa80750fa70d5d1f4aa2f904fd9516052d)
+- [ ] [<code>nemo-list-view.c: Fix some tooltip markup warnings.</code>](https://github.com/linuxmint/nemo/commit/0d2030592a3eaf106cb9bbc984f9348d6eb3c12a)
+- [ ] [<code>Use fast-content-type when normal content-type lookup fails.</code>](https://github.com/linuxmint/nemo/commit/5776b25d1546d7c32bb4b6ed0d4adcdc3cd74369)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
