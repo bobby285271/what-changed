@@ -740,3 +740,4 @@
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [5749f753ca64ce58232a46b9045949b3f8219827 → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/5749f753ca64ce58232a46b9045949b3f8219827...HEAD)
 
+- [ ] [<code>Update README.md</code>](https://github.com/Lafydev/wingpanel-indicator-ayatana/commit/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c)
