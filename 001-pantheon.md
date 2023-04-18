@@ -556,6 +556,7 @@
 - [ ] [<code>MainWindow: Only show What's New if there's something other than early access warning (#203)</code>](https://github.com/elementary/onboarding/commit/183fe5be95efa759c2bf8b0369f6100c7f78f126)
 - [ ] [<code>Add GuestView (#205)</code>](https://github.com/elementary/onboarding/commit/65a7b34f4aae3648825c5c6a2c1cc15ff75db820)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Redesign app icon (#196)</code>](https://github.com/elementary/onboarding/commit/a92f09955f6863cd2b5ee0b380117630a75bbce2)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -620,6 +621,7 @@
 - [ ] [<code>IconGroup: Improve animation (#1653)</code>](https://github.com/elementary/gala/commit/7af203c8209ab5a3df80237cdd40d3fa24416ff0)
 - [ ] [<code>Handle cancel action in IconGroup animation (#1654)</code>](https://github.com/elementary/gala/commit/f932bdfbad9933502a70a69d2a7b04eb358ea1b2)
 - [ ] [<code>Avoid to use Gdk constants when Clutter should be used (#1596)</code>](https://github.com/elementary/gala/commit/10e70a8a497307b150bbea18a669694a013661b9)
+- [ ] [<code>Multitasking view: Respect animations key (#1656)</code>](https://github.com/elementary/gala/commit/5b4acc7bec3f794225350d7938c8acdab9d414e8)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
