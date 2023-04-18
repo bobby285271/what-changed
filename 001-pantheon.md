@@ -622,6 +622,7 @@
 - [ ] [<code>Handle cancel action in IconGroup animation (#1654)</code>](https://github.com/elementary/gala/commit/f932bdfbad9933502a70a69d2a7b04eb358ea1b2)
 - [ ] [<code>Avoid to use Gdk constants when Clutter should be used (#1596)</code>](https://github.com/elementary/gala/commit/10e70a8a497307b150bbea18a669694a013661b9)
 - [ ] [<code>Multitasking view: Respect animations key (#1656)</code>](https://github.com/elementary/gala/commit/5b4acc7bec3f794225350d7938c8acdab9d414e8)
+- [ ] [<code>Window Dim: Use `get_transient_for` (#1659)</code>](https://github.com/elementary/gala/commit/5916b4f8a45861a3d81eb3c3b79fd59e6b11540f)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
