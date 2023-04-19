@@ -4,6 +4,11 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
 
+- [ ] [<code>Update bulky.ui to newer gtk format.</code>](https://github.com/linuxmint/bulky/commit/ec0a91be8cbec1d3640b8b37c1774fc0e96ec3fa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Explain enumeration in the entry placeholder text.</code>](https://github.com/linuxmint/bulky/commit/a213e1165c3ee2c47d642a932b6607c80bff3c59)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.8...HEAD)
 
@@ -149,6 +154,10 @@
 - [ ] [<code>Commit some compiled changes.</code>](https://github.com/linuxmint/mint-themes/commit/b669439eceb5dd1b4e3080cc587fb2451e14032c)
 - [ ] [<code>.gitignore: Ignore build and cache files (#437)</code>](https://github.com/linuxmint/mint-themes/commit/3558cad52124c9d903e1d1d61aec1714b28d42d9)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-Y Cinnamon theme - sound applet - use ems instead of px for overlay. (#434)</code>](https://github.com/linuxmint/mint-themes/commit/f265253cfaccb377c1680033ac3925645d6375a6)
+- [ ] [<code>Mint-X cinnamon theme - sound applet. Use ems instead of px for overlay height. (#435)</code>](https://github.com/linuxmint/mint-themes/commit/52b6bf2f45e1ea14e5ada082feba6ebddca9f787)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-Y cinnamon - Add support for .menu-category-button:hover (#433)</code>](https://github.com/linuxmint/mint-themes/commit/06fe13c7cd5b9093a0fa1dd713d67763bb06715a)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -404,6 +413,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix some build warnings (#592)</code>](https://github.com/linuxmint/xreader/commit/e0944ed3d5b8554a0b94ee46d8a387f8c04106d1)
 - [ ] [<code>Open new files in a maximised window. (#590)</code>](https://github.com/linuxmint/xreader/commit/eded495dc9290bfb02504e46ac667f231329656d)
+- [ ] [<code>Fix some minor memleaks (#593)</code>](https://github.com/linuxmint/xreader/commit/bdc63fa3e2ae9ec631d597d6a5a55ecffb137f0c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
@@ -478,6 +488,8 @@
 - [ ] [<code>Don't use deprecated from_timeval_utc function</code>](https://github.com/linuxmint/timeshift/commit/4607bcc908be3b2f5d3cea1de8cf93b1a8ea3c55)
 - [ ] [<code>Fix deprecated Thread.create usage</code>](https://github.com/linuxmint/timeshift/commit/e18377e33e3e31521bbddf9cfff08e384e7b8939)
 - [ ] [<code>Fix segmentation fault (#169)</code>](https://github.com/linuxmint/timeshift/commit/382c1638bc0e7c30aabdf1bd13b025ff4dbbea39)
+- [ ] [<code>Added missing documentation regarding tags abbrevation which was difficult to find (#168)</code>](https://github.com/linuxmint/timeshift/commit/6781a06a76c748989e3e169ea7ce753fa3100afd)
+- [ ] [<code>Console: add --version option (#175)</code>](https://github.com/linuxmint/timeshift/commit/3b72e31e5daa211127d09532e013750684c9f306)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
