@@ -530,6 +530,8 @@
 - [ ] [<code>Fixing issues with loading files from command-line</code>](https://github.com/phase1geo/minder/commit/349cb9c6b71d25b4225f61840f4a06620b938dba)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Merge branch '522-minder-opens-empty-file-when-reopeni'</code>](https://github.com/phase1geo/minder/commit/553e50a8defcc55506dc041a0546ca0b07d8c594)
+- [ ] [<code>Updating translation files for upcoming 1.15.0 release.</code>](https://github.com/phase1geo/minder/commit/8e0b0f7db4de2e5b02cb438f9251c47814ce2f20)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
@@ -643,6 +645,9 @@
 - [ ] [<code>Bump runtime version</code>](https://github.com/davidmhewitt/torrential/commit/e7a53a21d20f3b26e492ba0f95abb458d56f19da)
 - [ ] [<code>Update torrential.metainfo.xml.in</code>](https://github.com/davidmhewitt/torrential/commit/86556ffc6b75fa9e51a51f1c33b0bb2bf10d16be)
   - <sub>Tags: <code>3.0.0</code></sub>
+- [ ] [<code>build: Use gnome.post_install() (#201)</code>](https://github.com/davidmhewitt/torrential/commit/6d8e23a5b174e0d075413b683fcd8df8ab6459cd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.16 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.16...HEAD)
 
