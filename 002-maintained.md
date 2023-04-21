@@ -320,6 +320,9 @@
 - [ ] [<code>Merge pull request #965 from chclxds/master</code>](https://github.com/alainm23/planner/commit/23af20cd4aa8e77672fbb8c51c4f97cb5b15f0a1)
 - [ ] [<code>fix: translate files</code>](https://github.com/alainm23/planner/commit/af2f0e516b6d9d05de428a213d6a1cc33a8be953)
 - [ ] [<code>fix: update files translate</code>](https://github.com/alainm23/planner/commit/92fe469a6035a39da240c0bd98aad6e770df16b1)
+- [ ] [<code>fix: header filder added</code>](https://github.com/alainm23/planner/commit/97c0f1c30d087e2ac459241bfdb9b606a12a77ce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
