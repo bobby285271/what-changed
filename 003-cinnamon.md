@@ -370,6 +370,12 @@
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>free space monitor: Improve readability, comments.</code>](https://github.com/linuxmint/warpinator/commit/4cd477d5d6b94b51be0e2a0f4f7b1f0021fd5cb5)
 - [ ] [<code>free space: Don't run the monitor when only sending files.</code>](https://github.com/linuxmint/warpinator/commit/21b23bcae79bc89c1de8dead70d78b613b63d16b)
+- [ ] [<code>Clean up --help information, add a new section to the README to</code>](https://github.com/linuxmint/warpinator/commit/6cbb645a420401f3f86d74ea19916b1c0104d4ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add an infobar for a sandbox warning.</code>](https://github.com/linuxmint/warpinator/commit/0087a44e26ba26a6bb97de543d7f29ee84b90704)
+- [ ] [<code>Cleanup bubblewrap arguments, sandbox_mode setting, exit if the</code>](https://github.com/linuxmint/warpinator/commit/8fce03e9f1b2375b3182436124ee00ee073dd5e3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Simpliy NewThreadExecutor a bit.</code>](https://github.com/linuxmint/warpinator/commit/dcd9df9c177899db5c95086343c77d60c18b5478)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
