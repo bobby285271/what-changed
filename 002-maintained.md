@@ -540,6 +540,7 @@
 - [ ] [<code>Updating appdata.</code>](https://github.com/phase1geo/minder/commit/591c1880396c4a333faaa18fe97d42a03c5f324d)
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/b815ae413764927f8b34b4e1837c13d44cb9d5c5)
 - [ ] [<code>Fixing issues with panning.</code>](https://github.com/phase1geo/minder/commit/2caccc405fbeb05976cf6ebb088a2ac115804ee9)
+- [ ] [<code>Fixing issues with drawing connection titles in the correct position.</code>](https://github.com/phase1geo/minder/commit/6baa342c26bb6bec1a1e680ab60c46939bb7d269)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
@@ -721,6 +722,5 @@
 - [ ] [<code>Enable gpodder.net support, and fix the async methods.</code>](https://github.com/needle-and-thread/vocal/commit/2fe7d7c720ffb4443c2f1f929e76a46ae0e4c705)
 - [ ] [<code>Improve library synchronization experience</code>](https://github.com/needle-and-thread/vocal/commit/feacd31d63454c904968a4ab0767fb195a9827f4)
 
-#### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [5749f753ca64ce58232a46b9045949b3f8219827 → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/5749f753ca64ce58232a46b9045949b3f8219827...HEAD)
+#### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
-- [ ] [<code>Update README.md</code>](https://github.com/Lafydev/wingpanel-indicator-ayatana/commit/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c)
