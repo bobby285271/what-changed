@@ -532,6 +532,14 @@
 - [ ] [<code>Merge branch '522-minder-opens-empty-file-when-reopeni'</code>](https://github.com/phase1geo/minder/commit/553e50a8defcc55506dc041a0546ca0b07d8c594)
 - [ ] [<code>Updating translation files for upcoming 1.15.0 release.</code>](https://github.com/phase1geo/minder/commit/8e0b0f7db4de2e5b02cb438f9251c47814ce2f20)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/fcdc66ab9b573df95c4c0fb61e634790b155ddbb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #542 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/5c54375c6b205af987acef82fe04415c310d54ca)
+- [ ] [<code>Updating screenshots.</code>](https://github.com/phase1geo/minder/commit/a6bdc38eab2d8a5616d6af47e4466ebe27164fdf)
+- [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/38cdd012618da9715385fd2b7374736637af8819)
+- [ ] [<code>Updating appdata.</code>](https://github.com/phase1geo/minder/commit/591c1880396c4a333faaa18fe97d42a03c5f324d)
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/b815ae413764927f8b34b4e1837c13d44cb9d5c5)
+- [ ] [<code>Fixing issues with panning.</code>](https://github.com/phase1geo/minder/commit/2caccc405fbeb05976cf6ebb088a2ac115804ee9)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
@@ -608,43 +616,8 @@
 #### [taxi](https://github.com/Alecaddd/taxi): [2.0.2 → HEAD](https://github.com/Alecaddd/taxi/compare/2.0.2...HEAD)
 
 
-#### [torrential](https://github.com/davidmhewitt/torrential): [2.0.1 → HEAD](https://github.com/davidmhewitt/torrential/compare/2.0.1...HEAD)
+#### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
-- [ ] [<code>Flatpak: update to latest platform (#166)</code>](https://github.com/davidmhewitt/torrential/commit/66a704a549b43dbb8faa83ddc3676864730e403c)
-- [ ] [<code>Update App Icons (#165)</code>](https://github.com/davidmhewitt/torrential/commit/26937110cdee5a8676d79eb14145a800f7674900)
-- [ ] [<code>Ellipsize torrent name (#147)</code>](https://github.com/davidmhewitt/torrential/commit/4a70b1d7e292766d81727a63aaddc23c0be03c46)
-- [ ] [<code>Enable legacy OpenSSL provider for Transmission</code>](https://github.com/davidmhewitt/torrential/commit/9eb27a37134f02b52c8b16f68519544e9eacb85a)
-- [ ] [<code>MultiInfoBar: use add_button (#170)</code>](https://github.com/davidmhewitt/torrential/commit/c76300c983a9f1a6ee59519989db2d3d2d0f25ea)
-- [ ] [<code>Mainwindow: use GLib.Menu (#171)</code>](https://github.com/davidmhewitt/torrential/commit/d5658209ee5582bb4f7205d792f6165a565e9391)
-- [ ] [<code>PreferencesWindow: code style, Gtk4 prep (#169)</code>](https://github.com/davidmhewitt/torrential/commit/d00e26519c4f3b6f27f01b05db13a0048630aff0)
-- [ ] [<code>MainWindow: ToolButton → Button, headerbar code style (#168)</code>](https://github.com/davidmhewitt/torrential/commit/90e149ac8d74679e11447ea10ed7234c5f81acc6)
-- [ ] [<code>tools: Build and install</code>](https://github.com/davidmhewitt/torrential/commit/222b488abcab0a57b271ee6cc6bd9fd2532cc298)
-- [ ] [<code>Granite.Settings → GLib.Settings (#167)</code>](https://github.com/davidmhewitt/torrential/commit/97e96947b5b1783aa0a94e6eb88543698569329c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>vapi: fix typos</code>](https://github.com/davidmhewitt/torrential/commit/04454f62223b6cda0b7cfac5d4db6be91b5f00d0)
-- [ ] [<code>Replace Grid with Box (#174)</code>](https://github.com/davidmhewitt/torrential/commit/faf261944a3677de79638ba2023160e70024218c)
-- [ ] [<code>Metainfo: modernize (#175)</code>](https://github.com/davidmhewitt/torrential/commit/e2e35587fe9f6661d0cea74a719781945e6a13b9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>PreferencesWindow: Use Granite.HeaderLabel (#176)</code>](https://github.com/davidmhewitt/torrential/commit/07302c85a2fa456a4f8f2cee34fcfe4681ac81da)
-- [ ] [<code>MultiinfoBar: set self revealed (#173)</code>](https://github.com/davidmhewitt/torrential/commit/9d63c5de0991303bb418284c5ca574830501f733)
-- [ ] [<code>Application: use startup (#177)</code>](https://github.com/davidmhewitt/torrential/commit/eba92c62db26406905c2df50f085a2fea98c06fe)
-- [ ] [<code>TorrentListRow: cleanup, gtk4 prep (#179)</code>](https://github.com/davidmhewitt/torrential/commit/398d1731f7ca892c6d39a309c6f9e131fd720236)
-- [ ] [<code>Dialogs: connect to response, use present (#178)</code>](https://github.com/davidmhewitt/torrential/commit/b5f1aba5c001130036d50139b1b869e14f04b64a)
-- [ ] [<code>MainWindow: make filter into a menu (#180)</code>](https://github.com/davidmhewitt/torrential/commit/aeeb56480849f2bfcb9902256a2b938c567818d6)
-- [ ] [<code>TorrentListBox: use GLib.Menu and Actions (#181)</code>](https://github.com/davidmhewitt/torrential/commit/fc98da262b1a70ff25237a0a66c3d3bfb7427e38)
-- [ ] [<code>MultiInfoBar: subclass box (#184)</code>](https://github.com/davidmhewitt/torrential/commit/cb5adadfc6ff18ddc457bb4e0f221293831a0595)
-- [ ] [<code>TorrentListBox: subclass box (#186)</code>](https://github.com/davidmhewitt/torrential/commit/bed40a75f98e43dc2ecd533bf322bf2aec283cbb)
-- [ ] [<code>PreferencesWindow: code style and cleanup (#188)</code>](https://github.com/davidmhewitt/torrential/commit/11a6ddf80267bbc61c93f460d1a3f341be42d2bc)
-- [ ] [<code>MainWindow: add_files takes SList<File> (#183)</code>](https://github.com/davidmhewitt/torrential/commit/0c53ace067f707d81b6529907e79337ec42ffcf3)
-- [ ] [<code>Torrentlistbox popovermenu (#187)</code>](https://github.com/davidmhewitt/torrential/commit/144c66591abae88dd03fd275490fa104c984b399)
-- [ ] [<code>Port to Gtk 4 (#172)</code>](https://github.com/davidmhewitt/torrential/commit/00a31a6fcecbc304cc4804de3543a21705cf1fe4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Remove listbox row on torrent removed</code>](https://github.com/davidmhewitt/torrential/commit/d5df98c09b9cfac043884611369fb9fddbe62f9f)
-- [ ] [<code>TorrentListBox: make placeholder internal (#190)</code>](https://github.com/davidmhewitt/torrential/commit/2e22a8bceb3c70f18b68f8744b183fc541e1a9cb)
-- [ ] [<code>Bump runtime version</code>](https://github.com/davidmhewitt/torrential/commit/e7a53a21d20f3b26e492ba0f95abb458d56f19da)
-- [ ] [<code>Update torrential.metainfo.xml.in</code>](https://github.com/davidmhewitt/torrential/commit/86556ffc6b75fa9e51a51f1c33b0bb2bf10d16be)
-  - <sub>Tags: <code>3.0.0</code></sub>
 - [ ] [<code>build: Use gnome.post_install() (#201)</code>](https://github.com/davidmhewitt/torrential/commit/6d8e23a5b174e0d075413b683fcd8df8ab6459cd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
