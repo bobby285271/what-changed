@@ -460,6 +460,7 @@
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.1.0...HEAD)
 
 - [ ] [<code>Adw: style AboutWindow (#1252)</code>](https://github.com/elementary/stylesheet/commit/0c841189a3ae0b06b7f5cf551d3d2c6266eda80e)
+- [ ] [<code>Windows: Remove Gtk3-isms and fix Mutter 44 (#1254)</code>](https://github.com/elementary/stylesheet/commit/724ee1970fe0b2c77c618a53ee106051ea87e1fa)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
