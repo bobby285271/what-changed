@@ -541,6 +541,7 @@
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/b815ae413764927f8b34b4e1837c13d44cb9d5c5)
 - [ ] [<code>Fixing issues with panning.</code>](https://github.com/phase1geo/minder/commit/2caccc405fbeb05976cf6ebb088a2ac115804ee9)
 - [ ] [<code>Fixing issues with drawing connection titles in the correct position.</code>](https://github.com/phase1geo/minder/commit/6baa342c26bb6bec1a1e680ab60c46939bb7d269)
+- [ ] [<code>Improving connection drag handle movement</code>](https://github.com/phase1geo/minder/commit/d6c1ceadae6f58390f65d04927cc66c976e776c9)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
