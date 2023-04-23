@@ -420,6 +420,8 @@
 - [ ] [<code>Fix some build warnings (#592)</code>](https://github.com/linuxmint/xreader/commit/e0944ed3d5b8554a0b94ee46d8a387f8c04106d1)
 - [ ] [<code>Open new files in a maximised window. (#590)</code>](https://github.com/linuxmint/xreader/commit/eded495dc9290bfb02504e46ac667f231329656d)
 - [ ] [<code>Fix some minor memleaks (#593)</code>](https://github.com/linuxmint/xreader/commit/bdc63fa3e2ae9ec631d597d6a5a55ecffb137f0c)
+- [ ] [<code>ev-pixbuf-cache.c: Fix leak when rendering pages while annotating.</code>](https://github.com/linuxmint/xreader/commit/ca275ddf5f1d5e628ad42f6fa9e3ac87ffce9386)
+- [ ] [<code>ev-window.c: Don't close the window before a save operation</code>](https://github.com/linuxmint/xreader/commit/9d49b677892c426d3971df9859d03a27a98df49e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
