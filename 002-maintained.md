@@ -543,6 +543,9 @@
 - [ ] [<code>Fixing issues with drawing connection titles in the correct position.</code>](https://github.com/phase1geo/minder/commit/6baa342c26bb6bec1a1e680ab60c46939bb7d269)
 - [ ] [<code>Improving connection drag handle movement</code>](https://github.com/phase1geo/minder/commit/d6c1ceadae6f58390f65d04927cc66c976e776c9)
 - [ ] [<code>Fixing node note spacing</code>](https://github.com/phase1geo/minder/commit/0cf1e94eab0a8f9f8975bb6306d22198e1dc5028)
+- [ ] [<code>Updating Flatpak SDK.</code>](https://github.com/phase1geo/minder/commit/20a9f4c8c6feb8717745fa85029160bd8fea8045)
+- [ ] [<code>Updating translation files for 1.15.0 release</code>](https://github.com/phase1geo/minder/commit/21d9622596120a7860a82c985b8849828ec31713)
+  - <sub>Tags: <code>1.15.0</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
