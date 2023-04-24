@@ -158,6 +158,7 @@
 - [ ] [<code>Mint-X cinnamon theme - sound applet. Use ems instead of px for overlay height. (#435)</code>](https://github.com/linuxmint/mint-themes/commit/52b6bf2f45e1ea14e5ada082feba6ebddca9f787)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Mint-Y cinnamon - Add support for .menu-category-button:hover (#433)</code>](https://github.com/linuxmint/mint-themes/commit/06fe13c7cd5b9093a0fa1dd713d67763bb06715a)
+- [ ] [<code>Gtk3: Fix setting the infobar background color (#440)</code>](https://github.com/linuxmint/mint-themes/commit/7082ec5e80ac679409c154c7849f65050b0bdbba)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
