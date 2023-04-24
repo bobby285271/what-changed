@@ -624,6 +624,19 @@
 - [ ] [<code>Avoid to use Gdk constants when Clutter should be used (#1596)</code>](https://github.com/elementary/gala/commit/10e70a8a497307b150bbea18a669694a013661b9)
 - [ ] [<code>Multitasking view: Respect animations key (#1656)</code>](https://github.com/elementary/gala/commit/5b4acc7bec3f794225350d7938c8acdab9d414e8)
 - [ ] [<code>Window Dim: Use `get_transient_for` (#1659)</code>](https://github.com/elementary/gala/commit/5916b4f8a45861a3d81eb3c3b79fd59e6b11540f)
+- [ ] [<code>Add support for Mutter 44</code>](https://github.com/elementary/gala/commit/d52b2ae43fb3ef8fc6f308a795b1d2f4cda1f5a8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>lib: Deprecate get_ui_scaling_factor</code>](https://github.com/elementary/gala/commit/07f7c214828b3aef0ee87af0588f7271de8f5646)
+- [ ] [<code>Optimize animation calculation</code>](https://github.com/elementary/gala/commit/097cda8b6b5eb5211265730e75007ee3e90faf36)
+- [ ] [<code>WindowClone: scale factor stuff</code>](https://github.com/elementary/gala/commit/82ca34cbed9dd293b05b097ca1d67d7917251dca)
+- [ ] [<code>WindowClone: support differing scales</code>](https://github.com/elementary/gala/commit/14767bfde76e2d141b5ba88e0de7efe3496b9d56)
+- [ ] [<code>Simplify input region clearing</code>](https://github.com/elementary/gala/commit/fc5cd3e2f714917cb971f66b05330989cabb20e7)
+- [ ] [<code>WindowManager: Always use the scale factor from primary monitor</code>](https://github.com/elementary/gala/commit/503d69968089a83a1e77470d3edd1e7f4cfcac5c)
+- [ ] [<code>Update InternalUtils.vala</code>](https://github.com/elementary/gala/commit/4a9af312fa5823ad270f9e3ff95791321a51798d)
+- [ ] [<code>Update scales</code>](https://github.com/elementary/gala/commit/ad3bb631f53ade24aad6332979d5abf185dcd54c)
+- [ ] [<code>Fix grab ops</code>](https://github.com/elementary/gala/commit/b89c9e034c4d79332d7f479ec41b59e35a7a6096)
+- [ ] [<code>WindowManager: Use context for MonitorManager</code>](https://github.com/elementary/gala/commit/f6180279ee3af4200daaad78b92f26ecc47468b6)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -634,6 +647,22 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel/commit/3bfb4cfd0dca1fa159d1e0e7c97de11c8ad0a19d)
 - [ ] [<code>Switch to GHCR containers (#478)</code>](https://github.com/elementary/wingpanel/commit/89a5c70793fc46bc1f55df40429b557b9416ab71)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#479)</code>](https://github.com/elementary/wingpanel/commit/98136fe93563f5253425a02ce6ef80ace5b388a7)
+- [ ] [<code>vapi: Convert `elif` blocks to `if` blocks</code>](https://github.com/elementary/wingpanel/commit/a77dc07233d4a71e30015a4675f5d2de105ca310)
+- [ ] [<code>build: Require mutter 3.38</code>](https://github.com/elementary/wingpanel/commit/ff1a20d2f981f903c27b60f84aa8d6c52f8b6441)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 40</code>](https://github.com/elementary/wingpanel/commit/bddaee606d86ad9986ee28eccb9f4f63f1a760a5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 41</code>](https://github.com/elementary/wingpanel/commit/8252722fb03f6843157b211607f14df79de5d7d7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Require mutter 42</code>](https://github.com/elementary/wingpanel/commit/bd85aa05ab7a2aab931a293483f60403c090c5a1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Support mutter 44</code>](https://github.com/elementary/wingpanel/commit/0cbf28917254366b08ef66a032687a2498e157ef)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
