@@ -176,6 +176,7 @@
 - [ ] [<code>WelcomeView: Updates for gtk4 (#870)</code>](https://github.com/elementary/mail/commit/796be4c68d1f6cd845139d598efa49255a466ac4)
 - [ ] [<code>Composer: add keyboard shortcuts (#873)</code>](https://github.com/elementary/mail/commit/d72a574339362b379a7a8e30f44b751fbfb72036)
 - [ ] [<code>Composer: set parent internally, use present (#872)</code>](https://github.com/elementary/mail/commit/34a82b93b928577a1c9291a8e165c3093f001636)
+- [ ] [<code>InsertLinkDialog: Update for GTK4 (#878)</code>](https://github.com/elementary/mail/commit/1af08d1cece74326efb4ac894f351dfd84a24bfa)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -378,6 +379,9 @@
 - [ ] [<code>actions/checkout@v3 (#345)</code>](https://github.com/elementary/switchboard-plug-network/commit/39a30fbbb1bcf7b942c903fb8ab3b87761dd8f43)
 - [ ] [<code>Switch to GHCR containers (#349)</code>](https://github.com/elementary/switchboard-plug-network/commit/6ee356f8bfc086d7a62e49506ff87f2550ad81c9)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/5237bec8a93912a435257fa8ca8e473ed82140e3)
+- [ ] [<code>Add support for libnm 1.43 (#357)</code>](https://github.com/elementary/switchboard-plug-network/commit/50c06caae274c9b7b6c26aaaa6a8aa3a8084df0e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -461,6 +465,7 @@
 
 - [ ] [<code>Adw: style AboutWindow (#1252)</code>](https://github.com/elementary/stylesheet/commit/0c841189a3ae0b06b7f5cf551d3d2c6266eda80e)
 - [ ] [<code>Windows: Remove Gtk3-isms and fix Mutter 44 (#1254)</code>](https://github.com/elementary/stylesheet/commit/724ee1970fe0b2c77c618a53ee106051ea87e1fa)
+- [ ] [<code>Update stylesheet.appdata.xml.in (#1255)</code>](https://github.com/elementary/stylesheet/commit/ca12ef1fc00a7c8fc14861639426718ca449445f)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -558,6 +563,7 @@
 - [ ] [<code>Add GuestView (#205)</code>](https://github.com/elementary/onboarding/commit/65a7b34f4aae3648825c5c6a2c1cc15ff75db820)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Redesign app icon (#196)</code>](https://github.com/elementary/onboarding/commit/a92f09955f6863cd2b5ee0b380117630a75bbce2)
+- [ ] [<code>Update onboarding.metainfo.xml.in</code>](https://github.com/elementary/onboarding/commit/fd4998655e67addda4834131cc37c1ee1aa4a490)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
