@@ -546,6 +546,8 @@
 - [ ] [<code>Updating Flatpak SDK.</code>](https://github.com/phase1geo/minder/commit/20a9f4c8c6feb8717745fa85029160bd8fea8045)
 - [ ] [<code>Updating translation files for 1.15.0 release</code>](https://github.com/phase1geo/minder/commit/21d9622596120a7860a82c985b8849828ec31713)
   - <sub>Tags: <code>1.15.0</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/98906ae6a2241fc87f890c7cca31b961798de3e3)
+- [ ] [<code>Merge pull request #543 from albanobattistella/patch-22</code>](https://github.com/phase1geo/minder/commit/422161683177283bdb6933fcb9a18ee818fea679)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
