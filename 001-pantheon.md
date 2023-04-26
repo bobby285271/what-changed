@@ -194,6 +194,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#749)</code>](https://github.com/elementary/music/commit/bbef2eac502400e02b0638bbe973c0b530e47221)
 - [ ] [<code>Allow to open directories directly (#747)</code>](https://github.com/elementary/music/commit/87b537979ac0edb540fceab7ed66a0068d3c9936)
 - [ ] [<code>Update metainfo for next release (#751)</code>](https://github.com/elementary/music/commit/10793ac6168d53d32f76880277ef39509aa35d14)
+- [ ] [<code>MainWindow: use Headerbars (#753)</code>](https://github.com/elementary/music/commit/e4b6a0084b75162c733aa5bbfa96aa264bdc6def)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
