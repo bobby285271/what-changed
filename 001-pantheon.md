@@ -466,6 +466,10 @@
 - [ ] [<code>Adw: style AboutWindow (#1252)</code>](https://github.com/elementary/stylesheet/commit/0c841189a3ae0b06b7f5cf551d3d2c6266eda80e)
 - [ ] [<code>Windows: Remove Gtk3-isms and fix Mutter 44 (#1254)</code>](https://github.com/elementary/stylesheet/commit/724ee1970fe0b2c77c618a53ee106051ea87e1fa)
 - [ ] [<code>Update stylesheet.appdata.xml.in (#1255)</code>](https://github.com/elementary/stylesheet/commit/ca12ef1fc00a7c8fc14861639426718ca449445f)
+- [ ] [<code>Support Adw.MessageDialog (#1257)</code>](https://github.com/elementary/stylesheet/commit/4f09167848094edca2bf9f33fda6f4ab0a137d14)
+- [ ] [<code>Release 7.2.0 (#1256)</code>](https://github.com/elementary/stylesheet/commit/715f74608149d5b1cc139583f0a2d3ac44db2f24)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -484,6 +488,7 @@
 - [ ] [<code>Actions: increase radius of edit-clear (#1191)</code>](https://github.com/elementary/icons/commit/d85cfb5fcad397689ffc56c0ea6fb811756e4727)
 - [ ] [<code>Actions: add adw-external-link (#1189)</code>](https://github.com/elementary/icons/commit/c76d5c8bba69b22455a44e8e176c754b29debf2f)
 - [ ] [<code>Actions: update document-*-symbolic radius (#1190)</code>](https://github.com/elementary/icons/commit/4f5477cb9e3491bc17ae080d68effa4bdbb7ec52)
+- [ ] [<code>Process completed newcheck (#1193)</code>](https://github.com/elementary/icons/commit/34ca60a475d03d7550bb49cd62ba4f0efc7157ea)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
