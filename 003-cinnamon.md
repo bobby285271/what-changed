@@ -159,6 +159,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Mint-Y cinnamon - Add support for .menu-category-button:hover (#433)</code>](https://github.com/linuxmint/mint-themes/commit/06fe13c7cd5b9093a0fa1dd713d67763bb06715a)
 - [ ] [<code>Gtk3: Fix setting the infobar background color (#440)</code>](https://github.com/linuxmint/mint-themes/commit/7082ec5e80ac679409c154c7849f65050b0bdbba)
+- [ ] [<code>Mint-Y: Remove brown theme</code>](https://github.com/linuxmint/mint-themes/commit/db292cf7078fd0c80e7c6d1c76efebe74d5ee65d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -226,6 +228,10 @@
 - [ ] [<code>Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/84c9a3fa80750fa70d5d1f4aa2f904fd9516052d)
 - [ ] [<code>nemo-list-view.c: Fix some tooltip markup warnings.</code>](https://github.com/linuxmint/nemo/commit/0d2030592a3eaf106cb9bbc984f9348d6eb3c12a)
 - [ ] [<code>Use fast-content-type when normal content-type lookup fails.</code>](https://github.com/linuxmint/nemo/commit/5776b25d1546d7c32bb4b6ed0d4adcdc3cd74369)
+- [ ] [<code>Use local URIs for drag&drop, copy/paste operations (#3220)</code>](https://github.com/linuxmint/nemo/commit/84b6062319f4029e0e99b9eb28c77e22c2bf9bb8)
+- [ ] [<code>i18n: Add rtl versions of directional icons.</code>](https://github.com/linuxmint/nemo/commit/845e10b6b17614648cde5ec11cac5a6d209134fa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>places-sidebar: Render disk-full bars correctly in RTL languages.</code>](https://github.com/linuxmint/nemo/commit/a7766574bcf80b1da224c3d731fec5f97b72f908)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -243,6 +249,8 @@
 - [ ] [<code>nemo-share: localize plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/25f76c4cba29321543cabf32401c558cbbc3f3cd)
 - [ ] [<code>nemo-fileroller: localize plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/d5303e7790b9b0b64ae29390ead325570ab9fbf3)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/818dba93e8d18ab1cebac108aaf8401d6cce1261)
+- [ ] [<code>Fix typo: XDG_DATA_DIRS env var (#479)</code>](https://github.com/linuxmint/nemo-extensions/commit/493076c5d33289fb67fe67def0432728b056208a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
@@ -377,7 +385,18 @@
 - [ ] [<code>Cleanup bubblewrap arguments, sandbox_mode setting, exit if the</code>](https://github.com/linuxmint/warpinator/commit/8fce03e9f1b2375b3182436124ee00ee073dd5e3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Simpliy NewThreadExecutor a bit.</code>](https://github.com/linuxmint/warpinator/commit/dcd9df9c177899db5c95086343c77d60c18b5478)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/3ed6ed04a1a305d2cca22602af9efbb106e09e90)
+- [ ] [<code>1.6.0</code>](https://github.com/linuxmint/warpinator/commit/f34a0cf5dadbca9f420b4d87fcf5b913e390aa7e)
+  - <sub>Tags: <code>1.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>warpinator-launch.py: Fix bubblewrap launch string.</code>](https://github.com/linuxmint/warpinator/commit/93bdc74387c7e6195fb28f1e4e262ae1d71c17bd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>warpinator-send: Give a better error if warpinator isn't running.</code>](https://github.com/linuxmint/warpinator/commit/84f7e4ada1049ba637d19f0a6b75f1bb20d4816d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add /dev back to bubblewrap args.</code>](https://github.com/linuxmint/warpinator/commit/e2ae3d2cb9d16d782e67ac1a0ef83cd22f4ebe41)
+- [ ] [<code>1.6.1</code>](https://github.com/linuxmint/warpinator/commit/5915ce7914c5c4d92ab3385fef62f51e7cd3a71f)
+  - <sub>Tags: <code>1.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
@@ -499,6 +518,13 @@
 - [ ] [<code>Fix segmentation fault (#169)</code>](https://github.com/linuxmint/timeshift/commit/382c1638bc0e7c30aabdf1bd13b025ff4dbbea39)
 - [ ] [<code>Added missing documentation regarding tags abbrevation which was difficult to find (#168)</code>](https://github.com/linuxmint/timeshift/commit/6781a06a76c748989e3e169ea7ce753fa3100afd)
 - [ ] [<code>Console: add --version option (#175)</code>](https://github.com/linuxmint/timeshift/commit/3b72e31e5daa211127d09532e013750684c9f306)
+- [ ] [<code>Development documentation for easier accessibility (#170)</code>](https://github.com/linuxmint/timeshift/commit/0d8d1de8bf977a3977d984795dbb1fad4211c6c2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove timeshift-uninstall binary (#176)</code>](https://github.com/linuxmint/timeshift/commit/5a4414676214ac3d25b4c6c896fc84fb9e7ed139)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Debian clean up (#180)</code>](https://github.com/linuxmint/timeshift/commit/0c8a853c9d6d8f64baefeecbc9ff02cf862323dd)
+- [ ] [<code>Console: add --version option description to the help massages (#181)</code>](https://github.com/linuxmint/timeshift/commit/0c616cf5cf706e83dadbc74fb10a75b90a8268cb)
+- [ ] [<code>src/makefile: remove VTE_291_OLD and VTE_291 symbols (#183)</code>](https://github.com/linuxmint/timeshift/commit/94315c5463b2331f5e506caa4d495d07b76a8bca)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
