@@ -395,8 +395,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add /dev back to bubblewrap args.</code>](https://github.com/linuxmint/warpinator/commit/e2ae3d2cb9d16d782e67ac1a0ef83cd22f4ebe41)
 - [ ] [<code>1.6.1</code>](https://github.com/linuxmint/warpinator/commit/5915ce7914c5c4d92ab3385fef62f51e7cd3a71f)
-  - <sub>Tags: <code>1.6.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>1.6.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Possible remaining_count fixes (#174)</code>](https://github.com/linuxmint/warpinator/commit/d43434e8a183bf523fdc067df3c836ac348f1400)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
