@@ -88,6 +88,7 @@
 - [ ] [<code>Set search entry icon and styleclass according to results (#1285)</code>](https://github.com/elementary/code/commit/dc7b1a6d0de2179e7b2ae0b6d4800e7f8c2cf951)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#1302)</code>](https://github.com/elementary/code/commit/75c7282ce2ea367497914a648711bc70e4f835a6)
 - [ ] [<code>Add release metainfo and update screenshot addresses for 7.1.0 (#1303)</code>](https://github.com/elementary/code/commit/4cca10b79065a744f29641668c8daa00b45a0151)
+- [ ] [<code>Ask save location with dialog (#1308)</code>](https://github.com/elementary/code/commit/1934886b44ff9453ab8a5037ed18a03eb1acd92f)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -119,6 +120,9 @@
 - [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/7ce6e6267d3819d766a1b44ec6ae008ec56f1724)
 - [ ] [<code>AbstractPropertiesDialog: replace StorageBar with Gtk.LevelBar (#2171)</code>](https://github.com/elementary/files/commit/41046799a2d65fbfb2f0a29952e3af0fd3a17c13)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Implement auto-renaming of multiple selected files (#1999)</code>](https://github.com/elementary/files/commit/a55ea631197795a96f6f0fde95b2f17c78c65139)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -471,6 +475,7 @@
 - [ ] [<code>Release 7.2.0 (#1256)</code>](https://github.com/elementary/stylesheet/commit/715f74608149d5b1cc139583f0a2d3ac44db2f24)
   - <sub>Tags: <code>7.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
 
@@ -512,6 +517,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/default-settings/commit/0048f7093d2ed9e5fe6f6abb4009db5dcc4f3f77)
 - [ ] [<code>Switch to GHCR containers (#277)</code>](https://github.com/elementary/default-settings/commit/4c6f6acb67d342204edb61328a5584c822ac9b45)
+- [ ] [<code>Overrides: set location services enabled by default (#279)</code>](https://github.com/elementary/default-settings/commit/c3bd215a5fb8e30a6c0e4622d8ad9c4c62c0c02a)
+  - <sub>Keywords: <code>org.gnome.system</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
@@ -793,6 +800,7 @@
 - [ ] [<code>Add granite styles as a gresource (#639)</code>](https://github.com/elementary/granite/commit/6f035b7333ad00a972a78e6c07275a2add361565)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Init: load gresourced styles if present (#644)</code>](https://github.com/elementary/granite/commit/2b6d52043cb1f8a30e54675f8c375f2712ad5c92)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
