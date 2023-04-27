@@ -89,6 +89,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#1302)</code>](https://github.com/elementary/code/commit/75c7282ce2ea367497914a648711bc70e4f835a6)
 - [ ] [<code>Add release metainfo and update screenshot addresses for 7.1.0 (#1303)</code>](https://github.com/elementary/code/commit/4cca10b79065a744f29641668c8daa00b45a0151)
 - [ ] [<code>Ask save location with dialog (#1308)</code>](https://github.com/elementary/code/commit/1934886b44ff9453ab8a5037ed18a03eb1acd92f)
+- [ ] [<code>Document: Fix string typo</code>](https://github.com/elementary/code/commit/c1e581f59045094862ebce8eeebb7ac00ac3e4d4)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
