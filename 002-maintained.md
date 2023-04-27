@@ -402,15 +402,8 @@
 - [ ] [<code>Update Swedish Translation (#128)</code>](https://github.com/lainsce/khronos/commit/0d62e736511f094f328b18c7a986b84d7e93d8c9)
 - [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
 
-#### [minder](https://github.com/phase1geo/minder): [1.15.0 → HEAD](https://github.com/phase1geo/minder/compare/1.15.0...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.15.1 → HEAD](https://github.com/phase1geo/minder/compare/1.15.1...HEAD)
 
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/98906ae6a2241fc87f890c7cca31b961798de3e3)
-- [ ] [<code>Merge pull request #543 from albanobattistella/patch-22</code>](https://github.com/phase1geo/minder/commit/422161683177283bdb6933fcb9a18ee818fea679)
-- [ ] [<code>Attempting to fix internationalization support for Flatpak.</code>](https://github.com/phase1geo/minder/commit/6dbb9b98cedd5a8ef509c1bf993bc48cba11182a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Preparing for 1.15.1 release</code>](https://github.com/phase1geo/minder/commit/68d682036b038699da213008a6bc670e8561e958)
-  - <sub>Tags: <code>1.15.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
