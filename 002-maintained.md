@@ -404,6 +404,10 @@
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.1 → HEAD](https://github.com/phase1geo/minder/compare/1.15.1...HEAD)
 
+- [ ] [<code>meson.build cleanup</code>](https://github.com/phase1geo/minder/commit/023f2c155b334c7219700bb9a5b533f50c5f9e78)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issues with exported images including selection</code>](https://github.com/phase1geo/minder/commit/13d1826ed4b56b803fa441ea39cecd20712573ae)
+- [ ] [<code>Merge branch '544-png-export-also-exports-the-colored-'</code>](https://github.com/phase1geo/minder/commit/a8912a622c179cd949ca654abf47af4c918fd342)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
