@@ -467,15 +467,8 @@
 - [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.1.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.2.0...HEAD)
 
-- [ ] [<code>Adw: style AboutWindow (#1252)</code>](https://github.com/elementary/stylesheet/commit/0c841189a3ae0b06b7f5cf551d3d2c6266eda80e)
-- [ ] [<code>Windows: Remove Gtk3-isms and fix Mutter 44 (#1254)</code>](https://github.com/elementary/stylesheet/commit/724ee1970fe0b2c77c618a53ee106051ea87e1fa)
-- [ ] [<code>Update stylesheet.appdata.xml.in (#1255)</code>](https://github.com/elementary/stylesheet/commit/ca12ef1fc00a7c8fc14861639426718ca449445f)
-- [ ] [<code>Support Adw.MessageDialog (#1257)</code>](https://github.com/elementary/stylesheet/commit/4f09167848094edca2bf9f33fda6f4ab0a137d14)
-- [ ] [<code>Release 7.2.0 (#1256)</code>](https://github.com/elementary/stylesheet/commit/715f74608149d5b1cc139583f0a2d3ac44db2f24)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
@@ -657,6 +650,7 @@
 - [ ] [<code>Update scales</code>](https://github.com/elementary/gala/commit/ad3bb631f53ade24aad6332979d5abf185dcd54c)
 - [ ] [<code>Fix grab ops</code>](https://github.com/elementary/gala/commit/b89c9e034c4d79332d7f479ec41b59e35a7a6096)
 - [ ] [<code>WindowManager: Use context for MonitorManager</code>](https://github.com/elementary/gala/commit/f6180279ee3af4200daaad78b92f26ecc47468b6)
+- [ ] [<code>WindowSwitcher: Fix issues on first use</code>](https://github.com/elementary/gala/commit/f6f9d5e7505e4da84ceb0e4abd25f6d4b24e8215)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
