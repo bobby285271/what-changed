@@ -489,6 +489,7 @@
 - [ ] [<code>Actions: add adw-external-link (#1189)</code>](https://github.com/elementary/icons/commit/c76d5c8bba69b22455a44e8e176c754b29debf2f)
 - [ ] [<code>Actions: update document-*-symbolic radius (#1190)</code>](https://github.com/elementary/icons/commit/4f5477cb9e3491bc17ae080d68effa4bdbb7ec52)
 - [ ] [<code>Process completed newcheck (#1193)</code>](https://github.com/elementary/icons/commit/34ca60a475d03d7550bb49cd62ba4f0efc7157ea)
+- [ ] [<code>Categories: add location prefs (#1195)</code>](https://github.com/elementary/icons/commit/e0ae9512e38f4e035c25d35a60e0134c9f0743b8)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -651,6 +652,8 @@
 - [ ] [<code>Fix grab ops</code>](https://github.com/elementary/gala/commit/b89c9e034c4d79332d7f479ec41b59e35a7a6096)
 - [ ] [<code>WindowManager: Use context for MonitorManager</code>](https://github.com/elementary/gala/commit/f6180279ee3af4200daaad78b92f26ecc47468b6)
 - [ ] [<code>WindowSwitcher: Fix issues on first use</code>](https://github.com/elementary/gala/commit/f6f9d5e7505e4da84ceb0e4abd25f6d4b24e8215)
+- [ ] [<code>WindowSwitcherIcon: Correctly set scale factor</code>](https://github.com/elementary/gala/commit/dea4c471edf34c39b62e95d1768b528ed1c5a77a)
+- [ ] [<code>WindowSwitcher: Improve keyboard navigation</code>](https://github.com/elementary/gala/commit/879f60bce5ee12e17a86e9a9adebbb93bbab4a1d)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -796,6 +799,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Init: load gresourced styles if present (#644)</code>](https://github.com/elementary/granite/commit/2b6d52043cb1f8a30e54675f8c375f2712ad5c92)
+- [ ] [<code>Fix demo desktop file (#647)</code>](https://github.com/elementary/granite/commit/0690b17eecd860212516a088d2eaacc635ff0f8c)
+  - <sub>Keywords: <code>exec</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
