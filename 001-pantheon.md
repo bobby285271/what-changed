@@ -124,6 +124,7 @@
 - [ ] [<code>Implement auto-renaming of multiple selected files (#1999)</code>](https://github.com/elementary/files/commit/a55ea631197795a96f6f0fde95b2f17c78c65139)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update POTFILES (#2178)</code>](https://github.com/elementary/files/commit/13908bf108743aa7461f88c88cfc339560d25879)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
