@@ -136,6 +136,7 @@
 - [ ] [<code>Update flatpak actions to new namespace (#35)</code>](https://github.com/elementary/iconbrowser/commit/a47ae8a801a809aa70094089761fde8339e543c7)
 - [ ] [<code>Runtime: bump to 7.2 (#36)</code>](https://github.com/elementary/iconbrowser/commit/01d961bdc0724949e21938fe0e60ef67dbb806bb)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#37)</code>](https://github.com/elementary/iconbrowser/commit/5ee6ed0e921dc5631741af3aad7dc8cbfa5d8ff0)
+- [ ] [<code>CategoryView: Fix a typo (#38)</code>](https://github.com/elementary/iconbrowser/commit/ccf117a8995bd0ca469f089b241a2b768448bd28)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
 
