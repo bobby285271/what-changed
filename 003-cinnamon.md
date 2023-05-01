@@ -106,7 +106,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>utils.py: Add gdm3 to the switch user function.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/aeeb0795e5ab7b158f242fbe4a4778ace4874990)
 - [ ] [<code>use Gio flags instead of ints (#432)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ed84ceb23001dabecf142db2b0f17cd4c6b4c066)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>backup-locker-behavior.lmde5</code> <code>backup-locker-behavior.mint21</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
