@@ -668,6 +668,7 @@
 - [ ] [<code>WindowSwitcher: Improve keyboard navigation</code>](https://github.com/elementary/gala/commit/879f60bce5ee12e17a86e9a9adebbb93bbab4a1d)
 - [ ] [<code>7.0.3 Release notes (#1668)</code>](https://github.com/elementary/gala/commit/9866468073b7c388f9046b0fbd45ab2cf766f07a)
 - [ ] [<code>WindowSwitcher: Scale shadow (#1665)</code>](https://github.com/elementary/gala/commit/758379f95550dd1b6dad3251cbd81b70b3a71f6a)
+- [ ] [<code>Update appdata (#1671)</code>](https://github.com/elementary/gala/commit/32be7d4641ecbc076ec06d5447580cbccd8b2afc)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
