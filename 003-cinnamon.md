@@ -77,8 +77,17 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Update placesManager.js to fix #11623 (#11624)</code>](https://github.com/linuxmint/cinnamon/commit/8ddf1a6a23d1725d29a946600f438bf9cb9b9ef0)
 - [ ] [<code>cs_info.py and org.cinnamon.gschema.xml: Fix undefined var and cleanup dconf strings (#11609)</code>](https://github.com/linuxmint/cinnamon/commit/4bfc2683b97312b1577f911b90e493f7effaf216)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix: cursor not changing for qt5 apps on settings (#11492)</code>](https://github.com/linuxmint/cinnamon/commit/fb4fcf92726e42dc1877305a474be6cd17b926f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list: make UseEntrieSpace honor buttonWidth (#11608)</code>](https://github.com/linuxmint/cinnamon/commit/654e6c8cee2142ad2db62411f3a1477296d2de05)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Expose middle-click paste setting.</code>](https://github.com/linuxmint/cinnamon/commit/590d1b6e465dda649553292a6fdec38091020473)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Calendar Applet: Custom Tooltip Date Format (#11628)</code>](https://github.com/linuxmint/cinnamon/commit/b8ebff8d4678fa6ee630fdd3ff1341d73e23768d)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Fix popup menu content not stretching to its full size (#11612)</code>](https://github.com/linuxmint/cinnamon/commit/a23e383eef504e4d6a5df996cd3afc5e452da44b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -380,8 +389,15 @@
 - [ ] [<code>makedoc: Update target URL</code>](https://github.com/linuxmint/xapp/commit/97470cf2bd21f8fdb8560433db1283f9936cef6a)
 - [ ] [<code>debian: Clean up control file</code>](https://github.com/linuxmint/xapp/commit/bbe7a5920939e0fab04dcb66110818ee762220da)
 - [ ] [<code>debian: Add lintian-overrides files</code>](https://github.com/linuxmint/xapp/commit/2e65c9bb66279c3566aa0bfbf857116ccc8345cc)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add XAppGpuOffloadHelper.</code>](https://github.com/linuxmint/xapp/commit/5826b7ea92c034e3cae0d112ede4c78dd6ee2822)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add a launcher for offloading.</code>](https://github.com/linuxmint/xapp/commit/fbbda4fa9e2ecfa13bc2dbbab13a09110337981a)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -392,6 +408,7 @@
 - [ ] [<code>Fix some minor memleaks (#593)</code>](https://github.com/linuxmint/xreader/commit/bdc63fa3e2ae9ec631d597d6a5a55ecffb137f0c)
 - [ ] [<code>ev-pixbuf-cache.c: Fix leak when rendering pages while annotating.</code>](https://github.com/linuxmint/xreader/commit/ca275ddf5f1d5e628ad42f6fa9e3ac87ffce9386)
 - [ ] [<code>ev-window.c: Don't close the window before a save operation</code>](https://github.com/linuxmint/xreader/commit/9d49b677892c426d3971df9859d03a27a98df49e)
+- [ ] [<code>[RFC] Migrate from GTime to GDateTime (#595)</code>](https://github.com/linuxmint/xreader/commit/241af83d4e0421110fdd0df3cf4e06a792b149b3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
@@ -408,6 +425,8 @@
 - [ ] [<code>Lint changes (#251)</code>](https://github.com/linuxmint/hypnotix/commit/217b97190a1db43cbb80d8ec614fc70785544dea)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Added shortcuts support to zap through channels (#232)</code>](https://github.com/linuxmint/hypnotix/commit/0d2808347ec7cbe8390d1b655a9d6a41dfb2fc75)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add zh_TW Traditional Chinese locale (#275)</code>](https://github.com/linuxmint/hypnotix/commit/4b96a058b6ff48da19351a3f87e67015692076ca)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
