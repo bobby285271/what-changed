@@ -185,6 +185,9 @@
 - [ ] [<code>Composer: add keyboard shortcuts (#873)</code>](https://github.com/elementary/mail/commit/d72a574339362b379a7a8e30f44b751fbfb72036)
 - [ ] [<code>Composer: set parent internally, use present (#872)</code>](https://github.com/elementary/mail/commit/34a82b93b928577a1c9291a8e165c3093f001636)
 - [ ] [<code>InsertLinkDialog: Update for GTK4 (#878)</code>](https://github.com/elementary/mail/commit/1af08d1cece74326efb4ac894f351dfd84a24bfa)
+- [ ] [<code>Add 7.1.0 release notes (#884)</code>](https://github.com/elementary/mail/commit/4ce73c9fb0c475ab73c839d872c9359c11fbb89c)
+- [ ] [<code>MessageListItem: Make Gravatar work again (#883)</code>](https://github.com/elementary/mail/commit/dface98258431f8238223eaaedfe7241d4b5669f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -422,6 +425,9 @@
 - [ ] [<code>Dock: fix icon size images (#346)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/aad8eb4d3fe74ab087e1b40c7ffb10296cd5e8c8)
 - [ ] [<code>Text: use more vertical layout with headerlabels (#345)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3635820cbe9341b32d47bfd2b4a54232531bea59)
 - [ ] [<code>Appearance: add reduce motion option (#347)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/55a87262c196d2fd2cdf529e45d697788071b5a1)
+- [ ] [<code>6.4.0 Release Notes (#348)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/859944d182957620c7e6ce3a041ee400ae106c26)
+- [ ] [<code>Metainfo Improvements (#349)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc8babb9f116e9ee7fd08072a891bb88a1cd9c02)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -451,6 +457,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/052520b1e71922778fa5f60a38887b68c42f40ff)
 - [ ] [<code>Switch to GHCR containers (#146)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8791716c12d019309b2a8cfda83b10e2e2379908)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#147)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c68557e846badb66eb33da8016e009ce6e2ff355)
+- [ ] [<code>Use location settings icon (#152)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a459e18774e4ea24d6c0fd31331d0719332831aa)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -493,6 +500,8 @@
 - [ ] [<code>Actions: update document-*-symbolic radius (#1190)</code>](https://github.com/elementary/icons/commit/4f5477cb9e3491bc17ae080d68effa4bdbb7ec52)
 - [ ] [<code>Process completed newcheck (#1193)</code>](https://github.com/elementary/icons/commit/34ca60a475d03d7550bb49cd62ba4f0efc7157ea)
 - [ ] [<code>Categories: add location prefs (#1195)</code>](https://github.com/elementary/icons/commit/e0ae9512e38f4e035c25d35a60e0134c9f0743b8)
+- [ ] [<code>Extension → application-x-addon (#1197)</code>](https://github.com/elementary/icons/commit/d6aaa6821003111e22e99330f32817171e61a9e6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -657,6 +666,8 @@
 - [ ] [<code>WindowSwitcher: Fix issues on first use</code>](https://github.com/elementary/gala/commit/f6f9d5e7505e4da84ceb0e4abd25f6d4b24e8215)
 - [ ] [<code>WindowSwitcherIcon: Correctly set scale factor</code>](https://github.com/elementary/gala/commit/dea4c471edf34c39b62e95d1768b528ed1c5a77a)
 - [ ] [<code>WindowSwitcher: Improve keyboard navigation</code>](https://github.com/elementary/gala/commit/879f60bce5ee12e17a86e9a9adebbb93bbab4a1d)
+- [ ] [<code>7.0.3 Release notes (#1668)</code>](https://github.com/elementary/gala/commit/9866468073b7c388f9046b0fbd45ab2cf766f07a)
+- [ ] [<code>WindowSwitcher: Scale shadow (#1665)</code>](https://github.com/elementary/gala/commit/758379f95550dd1b6dad3251cbd81b70b3a71f6a)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
