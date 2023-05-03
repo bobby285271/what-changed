@@ -87,7 +87,12 @@
 - [ ] [<code>Calendar Applet: Custom Tooltip Date Format (#11628)</code>](https://github.com/linuxmint/cinnamon/commit/b8ebff8d4678fa6ee630fdd3ff1341d73e23768d)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Fix popup menu content not stretching to its full size (#11612)</code>](https://github.com/linuxmint/cinnamon/commit/a23e383eef504e4d6a5df996cd3afc5e452da44b)
+- [ ] [<code>backgroundManager.js - Stop flooding ~/.xsession-errors in case of diaporama (#11641)</code>](https://github.com/linuxmint/cinnamon/commit/b3168ff4f42a7018c8e26d29dfa1631ccd8da672)
+- [ ] [<code>Revert to themes and icons directory in home folder as default (#11643)</code>](https://github.com/linuxmint/cinnamon/commit/0e9942338eaf2415f2fdaac1effab0f53c5f143d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cs_themes.py: Fix refresh method name.</code>](https://github.com/linuxmint/cinnamon/commit/32e30b478cd24e1639b6c6e4d12347a01f6a0289)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -241,6 +246,7 @@
 - [ ] [<code>i18n: Add rtl versions of directional icons.</code>](https://github.com/linuxmint/nemo/commit/845e10b6b17614648cde5ec11cac5a6d209134fa)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>places-sidebar: Render disk-full bars correctly in RTL languages.</code>](https://github.com/linuxmint/nemo/commit/a7766574bcf80b1da224c3d731fec5f97b72f908)
+- [ ] [<code>properties-window: split dir elem count and size (#3225)</code>](https://github.com/linuxmint/nemo/commit/43e3703ecebdc09857ca916fab2a8e5bccb46920)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -494,6 +500,7 @@
 - [ ] [<code>Debian clean up (#180)</code>](https://github.com/linuxmint/timeshift/commit/0c8a853c9d6d8f64baefeecbc9ff02cf862323dd)
 - [ ] [<code>Console: add --version option description to the help massages (#181)</code>](https://github.com/linuxmint/timeshift/commit/0c616cf5cf706e83dadbc74fb10a75b90a8268cb)
 - [ ] [<code>src/makefile: remove VTE_291_OLD and VTE_291 symbols (#183)</code>](https://github.com/linuxmint/timeshift/commit/94315c5463b2331f5e506caa4d495d07b76a8bca)
+- [ ] [<code>Fix project's license (#189)</code>](https://github.com/linuxmint/timeshift/commit/0b21b1ededd433190d0a50516eb78115d90a5566)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
