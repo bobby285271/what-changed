@@ -125,6 +125,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update POTFILES (#2178)</code>](https://github.com/elementary/files/commit/13908bf108743aa7461f88c88cfc339560d25879)
+- [ ] [<code>Silence critical warning on startup (#2182)</code>](https://github.com/elementary/files/commit/8d040655bbfabb056b7dc83d50ca65c4ac6e3119)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -187,6 +188,10 @@
 - [ ] [<code>InsertLinkDialog: Update for GTK4 (#878)</code>](https://github.com/elementary/mail/commit/1af08d1cece74326efb4ac894f351dfd84a24bfa)
 - [ ] [<code>Add 7.1.0 release notes (#884)</code>](https://github.com/elementary/mail/commit/4ce73c9fb0c475ab73c839d872c9359c11fbb89c)
 - [ ] [<code>MessageListItem: Make Gravatar work again (#883)</code>](https://github.com/elementary/mail/commit/dface98258431f8238223eaaedfe7241d4b5669f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Composer: Remove Ctrl + Backspace/Delete shortcuts (#887)</code>](https://github.com/elementary/mail/commit/68c0467ce9fae083fe29bd4d3880540cb7457c8d)
+- [ ] [<code>Release 7.1.0 (#885)</code>](https://github.com/elementary/mail/commit/f7d4e50853d8c281b21c9fa6d747c989387f92aa)
+  - <sub>Tags: <code>7.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
@@ -428,6 +433,9 @@
 - [ ] [<code>6.4.0 Release Notes (#348)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/859944d182957620c7e6ce3a041ee400ae106c26)
 - [ ] [<code>Metainfo Improvements (#349)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc8babb9f116e9ee7fd08072a891bb88a1cd9c02)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.4.0 (#350)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de674847df3277918a295890408c30ab98fd6b7c)
+  - <sub>Tags: <code>6.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -501,6 +509,10 @@
 - [ ] [<code>Process completed newcheck (#1193)</code>](https://github.com/elementary/icons/commit/34ca60a475d03d7550bb49cd62ba4f0efc7157ea)
 - [ ] [<code>Categories: add location prefs (#1195)</code>](https://github.com/elementary/icons/commit/e0ae9512e38f4e035c25d35a60e0134c9f0743b8)
 - [ ] [<code>Extension → application-x-addon (#1197)</code>](https://github.com/elementary/icons/commit/d6aaa6821003111e22e99330f32817171e61a9e6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update icons.appdata.xml.in (#1198)</code>](https://github.com/elementary/icons/commit/c84fcefa1f506fd5a109c89202353421e04f8f54)
+- [ ] [<code>Release 7.3.0 (#1199)</code>](https://github.com/elementary/icons/commit/37c08568d8d983540bf2723e33e57b2692c6ffd3)
+  - <sub>Tags: <code>7.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
@@ -584,6 +596,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Redesign app icon (#196)</code>](https://github.com/elementary/onboarding/commit/a92f09955f6863cd2b5ee0b380117630a75bbce2)
 - [ ] [<code>Update onboarding.metainfo.xml.in</code>](https://github.com/elementary/onboarding/commit/fd4998655e67addda4834131cc37c1ee1aa4a490)
+- [ ] [<code>Release 7.1.0 (#207)</code>](https://github.com/elementary/onboarding/commit/271f0440f00d61200343191b3f7683fb831f1cc5)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -669,6 +684,10 @@
 - [ ] [<code>7.0.3 Release notes (#1668)</code>](https://github.com/elementary/gala/commit/9866468073b7c388f9046b0fbd45ab2cf766f07a)
 - [ ] [<code>WindowSwitcher: Scale shadow (#1665)</code>](https://github.com/elementary/gala/commit/758379f95550dd1b6dad3251cbd81b70b3a71f6a)
 - [ ] [<code>Update appdata (#1671)</code>](https://github.com/elementary/gala/commit/32be7d4641ecbc076ec06d5447580cbccd8b2afc)
+- [ ] [<code>Fix double icon when crossing icon group (#1670)</code>](https://github.com/elementary/gala/commit/85beeb8efd8c64dd56d65d4d675b66985041e49d)
+- [ ] [<code>Release 7.0.3 (#1669)</code>](https://github.com/elementary/gala/commit/abf2874aa47175a0459000c985defb87414d8372)
+  - <sub>Tags: <code>7.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
