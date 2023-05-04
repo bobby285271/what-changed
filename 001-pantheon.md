@@ -126,6 +126,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update POTFILES (#2178)</code>](https://github.com/elementary/files/commit/13908bf108743aa7461f88c88cfc339560d25879)
 - [ ] [<code>Silence critical warning on startup (#2182)</code>](https://github.com/elementary/files/commit/8d040655bbfabb056b7dc83d50ca65c4ac6e3119)
+- [ ] [<code>Improve speed of loading and display of large  folders (#2184)</code>](https://github.com/elementary/files/commit/db6dfad35059bcd9a0a3ea1401a42c59f3d8942a)
+- [ ] [<code>BulkRename: Differentiate identical strings for translating (#2186)</code>](https://github.com/elementary/files/commit/9b911e77c30687dafc35238d220b0dcdcae0b29f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -140,59 +142,8 @@
 - [ ] [<code>CategoryView: Fix a typo (#38)</code>](https://github.com/elementary/iconbrowser/commit/ccf117a8995bd0ca469f089b241a2b768448bd28)
 - [ ] [<code>Update pot</code>](https://github.com/elementary/iconbrowser/commit/a9c66eb4b96b9b64b7a7886765ef1100ccc3d741)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.0.1 → HEAD](https://github.com/elementary/mail/compare/7.0.1...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.1.0 → HEAD](https://github.com/elementary/mail/compare/7.1.0...HEAD)
 
-- [ ] [<code>Make SourceList internal (#827)</code>](https://github.com/elementary/mail/commit/b239dce55078cfa4bcb896e7481181ca40e77a61)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>MessageListItem: avoid crashing on empty Mime (#828)</code>](https://github.com/elementary/mail/commit/7cb412dee4cc8c0bfab55057c47d5ecce6918788)
-- [ ] [<code>ci: Use JSON instead of YAML (#829)</code>](https://github.com/elementary/mail/commit/d040c5622a01faba1617d38b6298923f7b4cc2b6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Switch to GHCR container (#831)</code>](https://github.com/elementary/mail/commit/f0886044993701f428aa5e9ea0c2b89eac8ce37d)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/mail/commit/afa13157f3102377c964c6967e2b30cfc275b06f)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#833)</code>](https://github.com/elementary/mail/commit/3030bd207127e39342dd3d615f70a2ccb63e7884)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#832)</code>](https://github.com/elementary/mail/commit/6b6c903f30232d468f5d10bd626da10be03c7d1c)
-- [ ] [<code>Update flatpak actions to new namespace (#834)</code>](https://github.com/elementary/mail/commit/10678dc246a1267c90737695a5fb40583da063fc)
-- [ ] [<code>ComposerWidget: replace grid/box, code style (#839)</code>](https://github.com/elementary/mail/commit/e0a3bc8b8ee95b327e10f58326b5f7952d427a53)
-- [ ] [<code>AttachmentBar: Update style classes, include dialog (#841)</code>](https://github.com/elementary/mail/commit/1db1a43b38dcff2bea5a2b63be762d9b60c27971)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Dialogs use present and response connect (#838)</code>](https://github.com/elementary/mail/commit/cbdd81cbbbb42ccfeaa7140690306f288c183efe)
-- [ ] [<code>MessageListBox: set action enabled directly (#840)</code>](https://github.com/elementary/mail/commit/84ecbf6e11082aee6b2d59b85ee3abd94e0cead6)
-- [ ] [<code>Replace unnecessary grids with boxes (#843)</code>](https://github.com/elementary/mail/commit/a0c2fab8f6b26da03d74fb805f71f4750b129066)
-- [ ] [<code>InlineComposer: Various preparations for gtk4 (#846)</code>](https://github.com/elementary/mail/commit/fa3c89078c3e99df40d0382e6b960219285ce0c5)
-- [ ] [<code>MessageListItem: Prep for GTK4 (#848)</code>](https://github.com/elementary/mail/commit/21b1f43a725207b70c31c959cb0a0af453fdfe4c)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#850)</code>](https://github.com/elementary/mail/commit/6a0f09644c8fbf43f3406528c5f0333f3ba6e529)
-- [ ] [<code>Prep GTK4: Include AttachmentBar in MessageListItem (#849)</code>](https://github.com/elementary/mail/commit/e7e5b5cbe8a4ffcd0622c8d80275bf678a30b2e2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/mail/commit/ac7acd42787520f853c2d94326119edb4ab41b02)
-- [ ] [<code>Application: use startup (#837)</code>](https://github.com/elementary/mail/commit/83df7b6099ef11ca28c1e9796353ff2c818fb0fe)
-- [ ] [<code>Mail.MessageList: Subclass Gtk.Box instead of Gtk.ListBox (#845)</code>](https://github.com/elementary/mail/commit/bb41d0d9caa1e7425d6f7719850b113aa153e980)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>MainWindow: don't allow pane to shrink past contents (#854)</code>](https://github.com/elementary/mail/commit/c6924ea5e4048bf22f6d4edf8e99877c3fbceb47)
-- [ ] [<code>MessageList: code style and cleanup (#853)</code>](https://github.com/elementary/mail/commit/33e3f2f3c1d6d7036122db0c25e4de75fe44a34e)
-- [ ] [<code>Handle account adding live (#855)</code>](https://github.com/elementary/mail/commit/5787d60fbd835e75668cf35c8c7af0bdc5590ec3)
-- [ ] [<code>Derive MessageListBox from Gtk.Box in preparation for GTK4 (#856)</code>](https://github.com/elementary/mail/commit/c75bbe5629cbc6f12fa9b667ec65c6735b1f0c64)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ConversationListItem: Small updates for gtk4 (#861)</code>](https://github.com/elementary/mail/commit/ed2584208534349f9256d2058f725e6d11371390)
-- [ ] [<code>AttachmentButton: Updates for gtk4 (#862)</code>](https://github.com/elementary/mail/commit/4d29dec9baecd26e4745706edf4b3990280b3908)
-- [ ] [<code>Remove inline composer (#860)</code>](https://github.com/elementary/mail/commit/aee8c463f1ef4a2d43afa1c065d7f02174b49d08)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Composer: remove construction property that is always true (#863)</code>](https://github.com/elementary/mail/commit/5146a4ab19d1cec71cf959db1e1ff731085b31ff)
-- [ ] [<code>Composer: use Hdy.Window and Hdy.HeaderBar (#864)</code>](https://github.com/elementary/mail/commit/0729ff4b34e2fb7687bb097d598e86a112ebf071)
-- [ ] [<code>Composer: Remove unused can_change_sender (#865)</code>](https://github.com/elementary/mail/commit/53b277d8fe5065db5ba04713268a086ad21f9b9e)
-- [ ] [<code>Application.css: add scrolledwindow undershoot (#869)</code>](https://github.com/elementary/mail/commit/1b08e3b803f1e70d23733d653c091b43207a16a2)
-- [ ] [<code>ConversationList: put the filter menu next to the searchbar (#868)</code>](https://github.com/elementary/mail/commit/fa71eee9729ac0f53c29abc4d735a8bed6a867c7)
-- [ ] [<code>MessageList: Use parameters for reply etc. actions (#859)</code>](https://github.com/elementary/mail/commit/1362bd714b4ad9c870f865d617ae2dcca8192a68)
-- [ ] [<code>WelcomeView: Updates for gtk4 (#870)</code>](https://github.com/elementary/mail/commit/796be4c68d1f6cd845139d598efa49255a466ac4)
-- [ ] [<code>Composer: add keyboard shortcuts (#873)</code>](https://github.com/elementary/mail/commit/d72a574339362b379a7a8e30f44b751fbfb72036)
-- [ ] [<code>Composer: set parent internally, use present (#872)</code>](https://github.com/elementary/mail/commit/34a82b93b928577a1c9291a8e165c3093f001636)
-- [ ] [<code>InsertLinkDialog: Update for GTK4 (#878)</code>](https://github.com/elementary/mail/commit/1af08d1cece74326efb4ac894f351dfd84a24bfa)
-- [ ] [<code>Add 7.1.0 release notes (#884)</code>](https://github.com/elementary/mail/commit/4ce73c9fb0c475ab73c839d872c9359c11fbb89c)
-- [ ] [<code>MessageListItem: Make Gravatar work again (#883)</code>](https://github.com/elementary/mail/commit/dface98258431f8238223eaaedfe7241d4b5669f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Composer: Remove Ctrl + Backspace/Delete shortcuts (#887)</code>](https://github.com/elementary/mail/commit/68c0467ce9fae083fe29bd4d3880540cb7457c8d)
-- [ ] [<code>Release 7.1.0 (#885)</code>](https://github.com/elementary/mail/commit/f7d4e50853d8c281b21c9fa6d747c989387f92aa)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -418,23 +369,9 @@
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.2 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...HEAD)
 
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.3.1 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
-- [ ] [<code>Meta: use preferences-desktop for icon (#312)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d74914815cc8f70e3e3c521d5f23279cff8887e3)
-- [ ] [<code>actions/checkout@v3 (#339)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/1051335b03d0f2043f71bedabb813439d26c07b0)
-- [ ] [<code>Switch to GHCR containers (#341)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/edf5f9144325161d1950114d4a924e16dd04e031)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e178624501160ef2af5bf87c73a3362d920f68bf)
-- [ ] [<code>Add previous/next workspace to hot corners (#342)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8b984e8cb2a856879569883f661955dea526612f)
-- [ ] [<code>Add an option to dim wallpapers when dark style is active (#343)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/2ba0a953f7eee8f4f2d4fc8de74a08a110c8f6ae)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Dock: fix icon size images (#346)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/aad8eb4d3fe74ab087e1b40c7ffb10296cd5e8c8)
-- [ ] [<code>Text: use more vertical layout with headerlabels (#345)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3635820cbe9341b32d47bfd2b4a54232531bea59)
-- [ ] [<code>Appearance: add reduce motion option (#347)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/55a87262c196d2fd2cdf529e45d697788071b5a1)
-- [ ] [<code>6.4.0 Release Notes (#348)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/859944d182957620c7e6ce3a041ee400ae106c26)
-- [ ] [<code>Metainfo Improvements (#349)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/dc8babb9f116e9ee7fd08072a891bb88a1cd9c02)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.4.0 (#350)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de674847df3277918a295890408c30ab98fd6b7c)
-  - <sub>Tags: <code>6.4.0</code></sub>
+- [ ] [<code>set-wallpaper: Fix delay value not shown as translated (#352)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c00e0250ddf8c495991049852ea4acea825bb2eb)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
@@ -489,31 +426,8 @@
 
 - [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.2.0 → HEAD](https://github.com/elementary/icons/compare/7.2.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.0 → HEAD](https://github.com/elementary/icons/compare/7.3.0...HEAD)
 
-- [ ] [<code>Remove network-vpn icons (#1178)</code>](https://github.com/elementary/icons/commit/d1edf3f25651e6c3ba4124e743484b4f219bdb78)
-- [ ] [<code>Drop exec bit from SVG files</code>](https://github.com/elementary/icons/commit/0e280a070732ffdd92578d332a753d12e30cf794)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>ci: Make merge.yml a valid GitHub Action (#1180)</code>](https://github.com/elementary/icons/commit/ce0393f19f3a5e1b9d1093c789a1f3b59903bb15)
-- [ ] [<code>Network removals (#1179)</code>](https://github.com/elementary/icons/commit/99bd6eb377caa348d813c3db6ecea5f99507bf6f)
-- [ ] [<code>Devices: Remove unused symlinks (#1182)</code>](https://github.com/elementary/icons/commit/1bc1d089b8faa1407ab3647ce66868cdc9b2d436)
-- [ ] [<code>Switch to GHCR containers (#1183)</code>](https://github.com/elementary/icons/commit/843709e62fd6c5f670fe0db9786dc9f490e44484)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/icons/commit/db7c2e657c4df1eba2dc98db1e97dcb4892e559a)
-- [ ] [<code>Add Adw icons (#1186)</code>](https://github.com/elementary/icons/commit/5b7ffe85cded2fa3ce682510706601c1289da004)
-- [ ] [<code>Add GNOME UI icons to actions (#1185)</code>](https://github.com/elementary/icons/commit/1da6b6e6b8d6e5472b0309dd618a075c9f3f34bc)
-- [ ] [<code>Update icons.appdata.xml.in</code>](https://github.com/elementary/icons/commit/00a1d571cfa23dd7ee974bd5f5a69f0fcafa5143)
-- [ ] [<code>Update preferences-desktop-display (#1187)</code>](https://github.com/elementary/icons/commit/0b91054b3b4d09bd53cec29dae29c633700a6aee)
-- [ ] [<code>Actions: increase radius of edit-clear (#1191)</code>](https://github.com/elementary/icons/commit/d85cfb5fcad397689ffc56c0ea6fb811756e4727)
-- [ ] [<code>Actions: add adw-external-link (#1189)</code>](https://github.com/elementary/icons/commit/c76d5c8bba69b22455a44e8e176c754b29debf2f)
-- [ ] [<code>Actions: update document-*-symbolic radius (#1190)</code>](https://github.com/elementary/icons/commit/4f5477cb9e3491bc17ae080d68effa4bdbb7ec52)
-- [ ] [<code>Process completed newcheck (#1193)</code>](https://github.com/elementary/icons/commit/34ca60a475d03d7550bb49cd62ba4f0efc7157ea)
-- [ ] [<code>Categories: add location prefs (#1195)</code>](https://github.com/elementary/icons/commit/e0ae9512e38f4e035c25d35a60e0134c9f0743b8)
-- [ ] [<code>Extension → application-x-addon (#1197)</code>](https://github.com/elementary/icons/commit/d6aaa6821003111e22e99330f32817171e61a9e6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update icons.appdata.xml.in (#1198)</code>](https://github.com/elementary/icons/commit/c84fcefa1f506fd5a109c89202353421e04f8f54)
-- [ ] [<code>Release 7.3.0 (#1199)</code>](https://github.com/elementary/icons/commit/37c08568d8d983540bf2723e33e57b2692c6ffd3)
-  - <sub>Tags: <code>7.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -567,38 +481,8 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>KeyboardManager: Set keyboard layout on startup</code>](https://github.com/elementary/greeter/commit/21f411183c026082e28a04a0dad45f9345563aab)
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.0.1 → HEAD](https://github.com/elementary/onboarding/compare/7.0.1...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
-- [ ] [<code>Use LinkButton for AppCenter button (#180)</code>](https://github.com/elementary/onboarding/commit/81690d6e1788af70b5185896df3824dae63e51d4)
-- [ ] [<code>MainWindow: warn about daily builds (#184)</code>](https://github.com/elementary/onboarding/commit/003a4c887ae662bf6f7efcb21f6ce4cd4c3d5b1c)
-- [ ] [<code>AppCenterView: make sideload more obvious and rework copy (#190)</code>](https://github.com/elementary/onboarding/commit/74444a8ccb80114a24c6d0a67b786c2feed69e82)
-- [ ] [<code>EarlyAccessView: use applications-development for icon (#185)</code>](https://github.com/elementary/onboarding/commit/2e62af2f74965346139c10d773ddcf811845f2b1)
-- [ ] [<code>ci: Switch to GHCR containers (#191)</code>](https://github.com/elementary/onboarding/commit/4fd6887178459a0ae0dedfe5c3deb7b24a340e76)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/onboarding/commit/1186ec40d7163cdccb8ba5f43462aaf6d546834a)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#192)</code>](https://github.com/elementary/onboarding/commit/63a66e4020e4eabbdacfb64591413a2eaebeaaad)
-- [ ] [<code>Metainfo: modernize (#193)</code>](https://github.com/elementary/onboarding/commit/bd341d49fd4910b505dbdac0663665a280b2e880)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update onboarding.metainfo.xml.in</code>](https://github.com/elementary/onboarding/commit/2baf97e79056f563c55289a94edb8c35d00e720c)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/onboarding/commit/8e02fc60e44aed94532cedbcd916f677d184ab8b)
-- [ ] [<code>EarlyAccess: use a list (#195)</code>](https://github.com/elementary/onboarding/commit/81b6c7fae41963f72b5aae62cad2f73f0bfa53b1)
-- [ ] [<code>Application: use startup () (#194)</code>](https://github.com/elementary/onboarding/commit/f132767bd5e0c0540929dd4d4b8f78455f826022)
-- [ ] [<code>Adjust layouts, spacing, and typography (#197)</code>](https://github.com/elementary/onboarding/commit/e68810ece6a9c7b99d92444765f765219694aa41)
-- [ ] [<code>WelcomeView: adjust button spacing, shorten title (#199)</code>](https://github.com/elementary/onboarding/commit/a1d85960d699e01207f17daf7268a07f5a9bf668)
-- [ ] [<code>Fancy logo (#198)</code>](https://github.com/elementary/onboarding/commit/7541599947e7da40603352c71060c95d8466bfbf)
-- [ ] [<code>Update Metainfo (#201)</code>](https://github.com/elementary/onboarding/commit/dcf6846174bd608d0ff58d62c928c64e93261a4c)
-- [ ] [<code>WelcomeView: combine with what's new view (#202)</code>](https://github.com/elementary/onboarding/commit/6bf7a16123bb0812b2c0bc1be259f3e2d7f5643a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/9f365c179f6a5186030c8ed4871ecaea21ffa053)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/onboarding/commit/34665679129a3699c76dd2682196d632224df7cb)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/onboarding/commit/631eaa1c8467661e361351c0967e97fef5313a45)
-- [ ] [<code>MainWindow: Only show What's New if there's something other than early access warning (#203)</code>](https://github.com/elementary/onboarding/commit/183fe5be95efa759c2bf8b0369f6100c7f78f126)
-- [ ] [<code>Add GuestView (#205)</code>](https://github.com/elementary/onboarding/commit/65a7b34f4aae3648825c5c6a2c1cc15ff75db820)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Redesign app icon (#196)</code>](https://github.com/elementary/onboarding/commit/a92f09955f6863cd2b5ee0b380117630a75bbce2)
-- [ ] [<code>Update onboarding.metainfo.xml.in</code>](https://github.com/elementary/onboarding/commit/fd4998655e67addda4834131cc37c1ee1aa4a490)
-- [ ] [<code>Release 7.1.0 (#207)</code>](https://github.com/elementary/onboarding/commit/271f0440f00d61200343191b3f7683fb831f1cc5)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -627,67 +511,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [7.0.2 → HEAD](https://github.com/elementary/gala/compare/7.0.2...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [7.0.3 → HEAD](https://github.com/elementary/gala/compare/7.0.3...HEAD)
 
-- [ ] [<code>WM: Add laters via compositor (#1619)</code>](https://github.com/elementary/gala/commit/0c4204f3994529d8843e44a18fa240fafc020015)
-- [ ] [<code>maskcorners: Scale corner masks per-monitor (#1620)</code>](https://github.com/elementary/gala/commit/37f65895f229e872e36599cbbb4c286901be665e)
-- [ ] [<code>Utils: Remove bell (#1621)</code>](https://github.com/elementary/gala/commit/a630015b89a1bbcf7c6bf982b6ecb4e847bbd96f)
-- [ ] [<code>Enable `Alt + ~` to switch between windows of the same application (#1602)</code>](https://github.com/elementary/gala/commit/75469b6321cc77062ccc7d9dd0f067aa396844f7)
-- [ ] [<code>DwellClickTimer: Support non-integer, monitor specific scales (#1618)</code>](https://github.com/elementary/gala/commit/52735a2678a908c801a828930c659705c89616b7)
-- [ ] [<code>ScreenshotManager: Support non-integer scaling factors (#1623)</code>](https://github.com/elementary/gala/commit/004e17a88fc62f73aa22976fac258278f7a02f46)
-- [ ] [<code>WM: Init things that depend on GTK later (#1622)</code>](https://github.com/elementary/gala/commit/8a57a860f6b9d35136eb10a7c415f3ad5e946b93)
-- [ ] [<code>KeyboardManager: Set keyboard layout on startup (#1626)</code>](https://github.com/elementary/gala/commit/9bf04d24f543a2d96a572f94754c0a9f6c0a2895)
-- [ ] [<code>HotCorners: Support floating point scale factors (#1627)</code>](https://github.com/elementary/gala/commit/fb2d2441121e4051206843d9ed734bcd713da664)
-- [ ] [<code>WM: Drop Meta.ShadowFactory (#1625)</code>](https://github.com/elementary/gala/commit/ca807c669fd7c780cb2563a623e8ffc1276e73f2)
-- [ ] [<code>IconGroup: Support floating scale factors (#1628)</code>](https://github.com/elementary/gala/commit/e5ef835de1bbd125de5b9580ae8dce9050392424)
-- [ ] [<code>WorkspaceInsertThumb: Support floating point scale factors (#1629)</code>](https://github.com/elementary/gala/commit/a39676e7a088afb003c0ffebbd8c23222a11b354)
-- [ ] [<code>Support floating point scale for resize button (#1630)</code>](https://github.com/elementary/gala/commit/53da4ea072b74e24e4fb52bfdab328280421f732)
-- [ ] [<code>NotificationStack: Support floating point scale factors (#1631)</code>](https://github.com/elementary/gala/commit/ff5914a74580cfd8f3658b25908a8f69162fa4f3)
-- [ ] [<code>WindowSwitcher: Support floating point scale factors (#1632)</code>](https://github.com/elementary/gala/commit/4393018d4dd43452314a6716a68b36f488664b50)
-- [ ] [<code>InternalUtils: Remove pixel_align method, and just round (#1633)</code>](https://github.com/elementary/gala/commit/051534a29f0c8e1622c5ab716701dad23225eb49)
-- [ ] [<code>PiP PopupWindow: Support floating point scale factor (#1634)</code>](https://github.com/elementary/gala/commit/51d8eee427445fa659aad43fc0abb1901a2291e0)
-- [ ] [<code>WorkspaceClone: Handle floating point scaling factors (#1635)</code>](https://github.com/elementary/gala/commit/3cdd535ef8d66de66564c3718d4cce31dfa412a2)
-- [ ] [<code>WindowSwitcher: Fix rounded corners (#1638)</code>](https://github.com/elementary/gala/commit/3f4dfa68770445642ff1bb8ab87b06012b093399)
-- [ ] [<code>WindowIconActor: Support setting floating point scale on placement (#1636)</code>](https://github.com/elementary/gala/commit/d7993f415f675ea6f7e5cd29f6d1a3170e7401a5)
-- [ ] [<code>MultitaskingView: Ensure MonitorClones are visible on other monitors (#1640)</code>](https://github.com/elementary/gala/commit/faaeb6547c86f2634c6f0e4b38dcd26a43637a19)
-- [ ] [<code>WindowSwitcher: Merge icon and indicator (#1637)</code>](https://github.com/elementary/gala/commit/b83a0231a7042a13d6d113a31dcdd2855e411297)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowSwitcher: Respect animations key (#1643)</code>](https://github.com/elementary/gala/commit/e0ef54ce665d1e75161f8ce99835b11cb686b0e1)
-- [ ] [<code>IconGroup: Correctly set highlight opacity on start (#1642)</code>](https://github.com/elementary/gala/commit/7c379480d3ee155c488d6025b1f1be3ee39e37d7)
-- [ ] [<code>WindowSwitcher: Update caption width before opening (#1645)</code>](https://github.com/elementary/gala/commit/4d1fcace10d98f8efe65f5b4d29b81df938df87b)
-- [ ] [<code>MultitaskingView: Stack docks on top of workspace clones (#1646)</code>](https://github.com/elementary/gala/commit/8904ba632dd3cc7ff8d3482ab642c1a37cbaacf9)
-- [ ] [<code>MultitaskingView: Support floating point scale factors (#1647)</code>](https://github.com/elementary/gala/commit/ffe31be93dd1603eb0e6418956d25a81337576b4)
-- [ ] [<code>MultitaskingView: Allow making screenshots of the screen (#1644)</code>](https://github.com/elementary/gala/commit/4ca08a2b4575ec87e9aac4eb6457cd47c89c217a)
-- [ ] [<code>BackgroundManager: dark dim effect (#1651)</code>](https://github.com/elementary/gala/commit/92447e63822a23040b93fef01bb12af6e370345c)
-- [ ] [<code>BackgroundManager: Update Wingpanel color after dimming wallpaper (#1652)</code>](https://github.com/elementary/gala/commit/66477d16af15b882b981d120acaa90229b1c0b15)
-- [ ] [<code>IconGroup: Improve animation (#1653)</code>](https://github.com/elementary/gala/commit/7af203c8209ab5a3df80237cdd40d3fa24416ff0)
-- [ ] [<code>Handle cancel action in IconGroup animation (#1654)</code>](https://github.com/elementary/gala/commit/f932bdfbad9933502a70a69d2a7b04eb358ea1b2)
-- [ ] [<code>Avoid to use Gdk constants when Clutter should be used (#1596)</code>](https://github.com/elementary/gala/commit/10e70a8a497307b150bbea18a669694a013661b9)
-- [ ] [<code>Multitasking view: Respect animations key (#1656)</code>](https://github.com/elementary/gala/commit/5b4acc7bec3f794225350d7938c8acdab9d414e8)
-- [ ] [<code>Window Dim: Use `get_transient_for` (#1659)</code>](https://github.com/elementary/gala/commit/5916b4f8a45861a3d81eb3c3b79fd59e6b11540f)
-- [ ] [<code>Add support for Mutter 44</code>](https://github.com/elementary/gala/commit/d52b2ae43fb3ef8fc6f308a795b1d2f4cda1f5a8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>lib: Deprecate get_ui_scaling_factor</code>](https://github.com/elementary/gala/commit/07f7c214828b3aef0ee87af0588f7271de8f5646)
-- [ ] [<code>Optimize animation calculation</code>](https://github.com/elementary/gala/commit/097cda8b6b5eb5211265730e75007ee3e90faf36)
-- [ ] [<code>WindowClone: scale factor stuff</code>](https://github.com/elementary/gala/commit/82ca34cbed9dd293b05b097ca1d67d7917251dca)
-- [ ] [<code>WindowClone: support differing scales</code>](https://github.com/elementary/gala/commit/14767bfde76e2d141b5ba88e0de7efe3496b9d56)
-- [ ] [<code>Simplify input region clearing</code>](https://github.com/elementary/gala/commit/fc5cd3e2f714917cb971f66b05330989cabb20e7)
-- [ ] [<code>WindowManager: Always use the scale factor from primary monitor</code>](https://github.com/elementary/gala/commit/503d69968089a83a1e77470d3edd1e7f4cfcac5c)
-- [ ] [<code>Update InternalUtils.vala</code>](https://github.com/elementary/gala/commit/4a9af312fa5823ad270f9e3ff95791321a51798d)
-- [ ] [<code>Update scales</code>](https://github.com/elementary/gala/commit/ad3bb631f53ade24aad6332979d5abf185dcd54c)
-- [ ] [<code>Fix grab ops</code>](https://github.com/elementary/gala/commit/b89c9e034c4d79332d7f479ec41b59e35a7a6096)
-- [ ] [<code>WindowManager: Use context for MonitorManager</code>](https://github.com/elementary/gala/commit/f6180279ee3af4200daaad78b92f26ecc47468b6)
-- [ ] [<code>WindowSwitcher: Fix issues on first use</code>](https://github.com/elementary/gala/commit/f6f9d5e7505e4da84ceb0e4abd25f6d4b24e8215)
-- [ ] [<code>WindowSwitcherIcon: Correctly set scale factor</code>](https://github.com/elementary/gala/commit/dea4c471edf34c39b62e95d1768b528ed1c5a77a)
-- [ ] [<code>WindowSwitcher: Improve keyboard navigation</code>](https://github.com/elementary/gala/commit/879f60bce5ee12e17a86e9a9adebbb93bbab4a1d)
-- [ ] [<code>7.0.3 Release notes (#1668)</code>](https://github.com/elementary/gala/commit/9866468073b7c388f9046b0fbd45ab2cf766f07a)
-- [ ] [<code>WindowSwitcher: Scale shadow (#1665)</code>](https://github.com/elementary/gala/commit/758379f95550dd1b6dad3251cbd81b70b3a71f6a)
-- [ ] [<code>Update appdata (#1671)</code>](https://github.com/elementary/gala/commit/32be7d4641ecbc076ec06d5447580cbccd8b2afc)
-- [ ] [<code>Fix double icon when crossing icon group (#1670)</code>](https://github.com/elementary/gala/commit/85beeb8efd8c64dd56d65d4d675b66985041e49d)
-- [ ] [<code>Release 7.0.3 (#1669)</code>](https://github.com/elementary/gala/commit/abf2874aa47175a0459000c985defb87414d8372)
-  - <sub>Tags: <code>7.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
