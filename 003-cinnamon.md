@@ -91,8 +91,9 @@
 - [ ] [<code>Revert to themes and icons directory in home folder as default (#11643)</code>](https://github.com/linuxmint/cinnamon/commit/0e9942338eaf2415f2fdaac1effab0f53c5f143d)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>cs_themes.py: Fix refresh method name.</code>](https://github.com/linuxmint/cinnamon/commit/32e30b478cd24e1639b6c6e4d12347a01f6a0289)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use new bug report form.</code>](https://github.com/linuxmint/cinnamon/commit/ddc71c160ab22db74f66a8b46e34a844854dfb13)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
