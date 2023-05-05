@@ -373,6 +373,7 @@
 
 - [ ] [<code>set-wallpaper: Fix delay value not shown as translated (#352)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c00e0250ddf8c495991049852ea4acea825bb2eb)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Mark "Dim with dark style:" string as translatable (#353)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ab1403dc37839904571b1943a83b56274270660b)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -403,6 +404,11 @@
 - [ ] [<code>Switch to GHCR containers (#146)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8791716c12d019309b2a8cfda83b10e2e2379908)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#147)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c68557e846badb66eb33da8016e009ce6e2ff355)
 - [ ] [<code>Use location settings icon (#152)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a459e18774e4ea24d6c0fd31331d0719332831aa)
+- [ ] [<code>Use Location Portal (#148)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d868a3fc62d646e972c15d552aaefd9821a480f6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.system</code></sub>
+- [ ] [<code>Metainfo improvements (#153)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5e43b687a07268287b584578ee540cb0279f83ab)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
