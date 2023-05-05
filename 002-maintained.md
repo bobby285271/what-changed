@@ -489,6 +489,8 @@
 - [ ] [<code>build: Use gnome.post_install() (#201)</code>](https://github.com/davidmhewitt/torrential/commit/6d8e23a5b174e0d075413b683fcd8df8ab6459cd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>File selector: Switch to TreeView (#206)</code>](https://github.com/davidmhewitt/torrential/commit/2ddabd7d133e44993a0b7dedb7d06a9dd9b71b3a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.16 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.16...HEAD)
 
