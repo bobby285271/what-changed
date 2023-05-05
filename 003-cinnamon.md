@@ -93,7 +93,9 @@
 - [ ] [<code>cs_themes.py: Fix refresh method name.</code>](https://github.com/linuxmint/cinnamon/commit/32e30b478cd24e1639b6c6e4d12347a01f6a0289)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use new bug report form.</code>](https://github.com/linuxmint/cinnamon/commit/ddc71c160ab22db74f66a8b46e34a844854dfb13)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Redirect feature requests to github.com/orgs/linuxmint/discussions.</code>](https://github.com/linuxmint/cinnamon/commit/ccae63a1fc663b0e999d138c2f6461c11b3cb287)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -199,6 +201,14 @@
 - [ ] [<code>Rework place colors</code>](https://github.com/linuxmint/mint-y-icons/commit/e8ec0501dc9450e1100833a8b5db1e72d20b3f0c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add definitions for folder-color-switcher</code>](https://github.com/linuxmint/mint-y-icons/commit/bd30bebb8a79b4ece8c98a830746f2133e69de28)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>places: Remove line on folders</code>](https://github.com/linuxmint/mint-y-icons/commit/340ff0f54695911c7ab5aec3d00b451a54afe3ae)
+- [ ] [<code>Regenerate places files</code>](https://github.com/linuxmint/mint-y-icons/commit/e8611ff137d05db8a76910be74a865b21bc09d00)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>places: Fixed 24px folder-recent</code>](https://github.com/linuxmint/mint-y-icons/commit/4485da48fe6430d24b105a91db3a9d851ff7a38e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update README</code>](https://github.com/linuxmint/mint-y-icons/commit/bb34f335929d0c44ff3591b0cfae3ed8b471f89f)
+- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/mint-y-icons/commit/f7d597fade1b85793a438aa4239e09f1078584bc)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
