@@ -90,6 +90,7 @@
 - [ ] [<code>Add release metainfo and update screenshot addresses for 7.1.0 (#1303)</code>](https://github.com/elementary/code/commit/4cca10b79065a744f29641668c8daa00b45a0151)
 - [ ] [<code>Ask save location with dialog (#1308)</code>](https://github.com/elementary/code/commit/1934886b44ff9453ab8a5037ed18a03eb1acd92f)
 - [ ] [<code>Document: Fix string typo</code>](https://github.com/elementary/code/commit/c1e581f59045094862ebce8eeebb7ac00ac3e4d4)
+- [ ] [<code>Metainfo: set brand color to Latte 500</code>](https://github.com/elementary/code/commit/ebc172f85f4ae5bf7e64dfb67261435923155ffc)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -409,6 +410,7 @@
   - <sub>Keywords: <code>org.gnome.system</code></sub>
 - [ ] [<code>Metainfo improvements (#153)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5e43b687a07268287b584578ee540cb0279f83ab)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d36a81394a30c541ab013d048f189c9d8c39747f)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
