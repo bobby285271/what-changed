@@ -351,6 +351,7 @@
 - [ ] [<code>Add support for libnm 1.43 (#357)</code>](https://github.com/elementary/switchboard-plug-network/commit/50c06caae274c9b7b6c26aaaa6a8aa3a8084df0e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update "Airplane Mode" switch padding (#358)</code>](https://github.com/elementary/switchboard-plug-network/commit/e9056694f3a187ef66e44756fa19e22fd3bec948)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -411,6 +412,7 @@
 - [ ] [<code>Metainfo improvements (#153)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5e43b687a07268287b584578ee540cb0279f83ab)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d36a81394a30c541ab013d048f189c9d8c39747f)
+- [ ] [<code>README: Update screenshot path (#154)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d2ca1b8d8dd01ff25c935d3ce2786cb80589962)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
