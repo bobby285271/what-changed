@@ -93,9 +93,8 @@
 - [ ] [<code>cs_themes.py: Fix refresh method name.</code>](https://github.com/linuxmint/cinnamon/commit/32e30b478cd24e1639b6c6e4d12347a01f6a0289)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use new bug report form.</code>](https://github.com/linuxmint/cinnamon/commit/ddc71c160ab22db74f66a8b46e34a844854dfb13)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Redirect feature requests to github.com/orgs/linuxmint/discussions.</code>](https://github.com/linuxmint/cinnamon/commit/ccae63a1fc663b0e999d138c2f6461c11b3cb287)
-  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
