@@ -129,6 +129,7 @@
 - [ ] [<code>Silence critical warning on startup (#2182)</code>](https://github.com/elementary/files/commit/8d040655bbfabb056b7dc83d50ca65c4ac6e3119)
 - [ ] [<code>Improve speed of loading and display of large  folders (#2184)</code>](https://github.com/elementary/files/commit/db6dfad35059bcd9a0a3ea1401a42c59f3d8942a)
 - [ ] [<code>BulkRename: Differentiate identical strings for translating (#2186)</code>](https://github.com/elementary/files/commit/9b911e77c30687dafc35238d220b0dcdcae0b29f)
+- [ ] [<code>Get current date properly (#2185)</code>](https://github.com/elementary/files/commit/70ab107c8fb3fe1f76a3f523762a9debb2ff9b32)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
