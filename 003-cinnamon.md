@@ -94,12 +94,16 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use new bug report form.</code>](https://github.com/linuxmint/cinnamon/commit/ddc71c160ab22db74f66a8b46e34a844854dfb13)
 - [ ] [<code>Redirect feature requests to github.com/orgs/linuxmint/discussions.</code>](https://github.com/linuxmint/cinnamon/commit/ccae63a1fc663b0e999d138c2f6461c11b3cb287)
+- [ ] [<code>power: Add settings to disable low battery warnings for connected devices (#11599)</code>](https://github.com/linuxmint/cinnamon/commit/96a99da28246f7fae23c5d795b70621e10a00c1c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon/commit/f84c97dabbc4179a02ec04399d424d19cd482344)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
 - [ ] [<code>Fix memleaks (#306)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/51010d2fd02ff6de1170e7e776905d73cc76b650)
 - [ ] [<code>network/net-device.c: net_device_get_valid_connections - don't</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9aecc340f6c14e3e04e4e9e84356403f7f743f71)
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/6d1d9c59cc3b9c12c504fc78566770667328f5cf)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.2...HEAD)
@@ -110,10 +114,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add high-contrast key.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/210cf97a7c341e2991dc306b117e24551683e784)
 - [ ] [<code>gnome-desktop-thumbnailer.c: Only attempt to thumbnail internally</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0f6020ffc9608dd71042dee878e0f18d43e99e91)
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4e9b5e5a5afeaa74d2ee01fab835ecd3650bb280)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
 
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-menus/commit/9f5f929523b89ab017d9dcfcea3fe495000b8874)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.3...HEAD)
 
@@ -122,13 +129,17 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>utils.py: Add gdm3 to the switch user function.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/aeeb0795e5ab7b158f242fbe4a4778ace4874990)
 - [ ] [<code>use Gio flags instead of ints (#432)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ed84ceb23001dabecf142db2b0f17cd4c6b4c066)
-  - <sub>Tags: <code>backup-locker-behavior.lmde5</code> <code>backup-locker-behavior.mint21</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>backup-locker-behavior.lmde5</code> <code>backup-locker-behavior.mint21</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/9bcffcdacd933ede53e373a22337c0db13043368)
+  - <sub>Tags: <code>master.lmde5</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
 - [ ] [<code>main.c: Don't set GTK_OVERLAY_SCROLLING.</code>](https://github.com/linuxmint/cinnamon-session/commit/eee407c80cd186905d4ebb632a6ebb48a7de93bf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-session/commit/8fd977317587218edf9d52e72bc3fa2e16f28f85)
+  - <sub>Tags: <code>master.lmde5</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.2...HEAD)
 
@@ -140,13 +151,27 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>power: Allow the minimum display brightness to be overridden.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/85c0024c29bf0e5b8f49b91a5b0aaec0b18e0730)
 - [ ] [<code>csd-xsettings-manager.c: Manage "gtk-overlay-scrolling".</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a5e3550892c34a28a3ed7879b5bcb432c158c174)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>power: Add settings to disable low battery warnings for connected devices (#379)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/314e8263804c72b3a1955b7fad71a14e865d1bd2)
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8afb3c83eeeeccc9c703bc42274508190dab13bc)
+  - <sub>Tags: <code>master.lmde5</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.6.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.6.1...HEAD)
 
+- [ ] [<code>Rebase off gjs 1.74.1 (mozjs102), bump to 5.7 (development only)</code>](https://github.com/linuxmint/cjs/commit/281e5d012241b476f5a8a91f38e9b34ceeaa66f4)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>GObject: Handle versions of GLib without GBindingGroup</code>](https://github.com/linuxmint/cjs/commit/ae83287ffeaed4bcdbc98914ddef600fd147b8bb)
+- [ ] [<code>Debian improvements for Gjs1.74.1 mozjs102 branch (#112)</code>](https://github.com/linuxmint/cjs/commit/127b7857d25772a2f5c74f64dd2f4926e3bde9f9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Some additional changes to backport 1.74.2.</code>](https://github.com/linuxmint/cjs/commit/1ef69340afc918e662a1d7ad94784ef5360bb6c2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cjs/commit/7d66c470042db4a4100fc92a9b915402235e5898)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5e0b768b3a5bf88a828a2489b9428997b797c1ed → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5e0b768b3a5bf88a828a2489b9428997b797c1ed...HEAD)
 
@@ -220,6 +245,7 @@
 - [ ] [<code>display.c: Make meta_display_get_pointer_window() available to</code>](https://github.com/linuxmint/muffin/commit/1385e0d86f2bc9975173fcdc5708cda6300af91f)
 - [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
 - [ ] [<code>window.c: Fix copy/paste error in tile zone detection.</code>](https://github.com/linuxmint/muffin/commit/fc0e48626c553a2ad2588943bb67c2988df6374e)
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/muffin/commit/93fc7272d605582745ac15925bfd1ded75702f77)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
@@ -257,6 +283,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>places-sidebar: Render disk-full bars correctly in RTL languages.</code>](https://github.com/linuxmint/nemo/commit/a7766574bcf80b1da224c3d731fec5f97b72f908)
 - [ ] [<code>properties-window: split dir elem count and size (#3225)</code>](https://github.com/linuxmint/nemo/commit/43e3703ecebdc09857ca916fab2a8e5bccb46920)
+- [ ] [<code>Add a 'drop zone' to the list view. This allows drag-and-drop into</code>](https://github.com/linuxmint/nemo/commit/925df378b65d822ffe0ab9039a810ecd82636a49)
+- [ ] [<code>nemo-application.c: Update the custom css provider when the system</code>](https://github.com/linuxmint/nemo/commit/1cd7fbe717bb64158b958cdef2705296d1890f66)
+- [ ] [<code>nemo-list-view.c: Remove stray debug line.</code>](https://github.com/linuxmint/nemo/commit/91658573fdb7f0e52e1d1aa189254926d2fd14d4)
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/nemo/commit/ab5216102e5eafdbc722ed201374630b2dce242f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
@@ -371,6 +401,8 @@
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.1...HEAD)
 
 - [ ] [<code>Possible remaining_count fixes (#174)</code>](https://github.com/linuxmint/warpinator/commit/d43434e8a183bf523fdc067df3c836ac348f1400)
+- [ ] [<code>Correct a typo in `README.md` (#175)</code>](https://github.com/linuxmint/warpinator/commit/52f9dda44d9f047e4bac00034de82e6cd8e1f2eb)
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/warpinator/commit/ff99e4946695c53ee78a97bb7a9dff36aa8876d3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
@@ -411,9 +443,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Add a launcher for offloading.</code>](https://github.com/linuxmint/xapp/commit/fbbda4fa9e2ecfa13bc2dbbab13a09110337981a)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/xapp/commit/d692db84ce8a28f3f31c0ee9e63a880070c3f0c5)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -511,7 +544,9 @@
 - [ ] [<code>Console: add --version option description to the help massages (#181)</code>](https://github.com/linuxmint/timeshift/commit/0c616cf5cf706e83dadbc74fb10a75b90a8268cb)
 - [ ] [<code>src/makefile: remove VTE_291_OLD and VTE_291 symbols (#183)</code>](https://github.com/linuxmint/timeshift/commit/94315c5463b2331f5e506caa4d495d07b76a8bca)
 - [ ] [<code>Fix project's license (#189)</code>](https://github.com/linuxmint/timeshift/commit/0b21b1ededd433190d0a50516eb78115d90a5566)
+- [ ] [<code>Use help2man utility to create a man page. (#178)</code>](https://github.com/linuxmint/timeshift/commit/9668beec48b098737add580c6c3af6abf7c22b51)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
