@@ -410,6 +410,8 @@
 - [ ] [<code>Merge branch '544-png-export-also-exports-the-colored-'</code>](https://github.com/phase1geo/minder/commit/a8912a622c179cd949ca654abf47af4c918fd342)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/c5967ef79f555a28af923da0420427c44dfb01a1)
 - [ ] [<code>Merge pull request #545 from albanobattistella/patch-23</code>](https://github.com/phase1geo/minder/commit/5bdaa7902a31c811f0d8962105a6933e8aff9c3a)
+- [ ] [<code>Fix typo in Node.import_opml</code>](https://github.com/phase1geo/minder/commit/cb96199b7742ae6d1fbba303c035b4193847f763)
+- [ ] [<code>Merge pull request #546 from ygormutti/patch-1</code>](https://github.com/phase1geo/minder/commit/986147e631e9b6335bf9108d6f54c65d158af9dc)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
