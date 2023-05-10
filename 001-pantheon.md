@@ -59,6 +59,8 @@
 - [ ] [<code>Application: implement startup()</code>](https://github.com/elementary/camera/commit/be89e54398591209d913ff3d74aa5481634a98f2)
 - [ ] [<code>Bump runtime to 7.2 (#259)</code>](https://github.com/elementary/camera/commit/81a0424fa3cca4ca4cb0bf82ee719d65f868ac76)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#260)</code>](https://github.com/elementary/camera/commit/6c9f8c237b32b92e19764b0b8992bec2505c8980)
+- [ ] [<code>Metainfo improvements (#263)</code>](https://github.com/elementary/camera/commit/5207bd823236f3830591e0d28fde25f0d8eebfa5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -146,6 +148,7 @@
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.1.0 → HEAD](https://github.com/elementary/mail/compare/7.1.0...HEAD)
 
+- [ ] [<code>WebView: Update height after images were loaded (#889)</code>](https://github.com/elementary/mail/commit/4d0a872fd3a57be5be14b9ec47176b0f9b39b2b8)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -372,6 +375,7 @@
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.2 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...HEAD)
 
+- [ ] [<code>ImapDialog: Fix freeze when a server sends no response (#256)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fa7a0a3cecbd23ee7de77a89c6b1ccfbe6eef376)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
@@ -687,6 +691,8 @@
 - [ ] [<code>Update flatpak actions to new namespace (#98)</code>](https://github.com/elementary/capnet-assist/commit/dcd9632491dfcb5491c4622cd40bd753d5a425b5)
 - [ ] [<code>Bump runtime to 7.2 (#99)</code>](https://github.com/elementary/capnet-assist/commit/9fd835cb057209b2974586d4e673f870b1efb45d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#100)</code>](https://github.com/elementary/capnet-assist/commit/7798a2d01bafbd4d3ddb1ccea44299054be375d4)
+- [ ] [<code>Metainfo improvements (#102)</code>](https://github.com/elementary/capnet-assist/commit/a891aef44993577034a28417a2ca74eacd05f260)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
@@ -767,3 +773,4 @@
 - [ ] [<code>Install elementary apps via apt (#98)</code>](https://github.com/elementary/seeds/commit/479da8bfa754c5f84c14bfeb8935f22f044d7455)
 - [ ] [<code>Actions: use checkout v3</code>](https://github.com/elementary/seeds/commit/25a3ba2adc91c3e632fb01baf9d70e3aed365f6e)
 - [ ] [<code>sdk: Add Granite 7</code>](https://github.com/elementary/seeds/commit/cc10bf5ff616c0897e8741a551078445acd89bea)
+- [ ] [<code>Desktop: remove geoclue agent (#100)</code>](https://github.com/elementary/seeds/commit/dc5f8b112885527d29470cb85c6ab7c25d4927fc)
