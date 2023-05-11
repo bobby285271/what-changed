@@ -412,6 +412,8 @@
 - [ ] [<code>Merge pull request #545 from albanobattistella/patch-23</code>](https://github.com/phase1geo/minder/commit/5bdaa7902a31c811f0d8962105a6933e8aff9c3a)
 - [ ] [<code>Fix typo in Node.import_opml</code>](https://github.com/phase1geo/minder/commit/cb96199b7742ae6d1fbba303c035b4193847f763)
 - [ ] [<code>Merge pull request #546 from ygormutti/patch-1</code>](https://github.com/phase1geo/minder/commit/986147e631e9b6335bf9108d6f54c65d158af9dc)
+- [ ] [<code>Fixing issue with undo/redo of unicode characters.</code>](https://github.com/phase1geo/minder/commit/ae7dc52b6a6925099f9af4195cb25aa5ce48453f)
+- [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/1b161ed5f2b7e47c4ea901c78174ab425a377a42)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
