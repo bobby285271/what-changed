@@ -12,6 +12,8 @@
 - [ ] [<code>Fix deprecations for AppStream 0.16 (#2015)</code>](https://github.com/elementary/appcenter/commit/8e437af11cd59094f7164c3b6c93849f6ad403db)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Require newer meson and fix deprecations (#2034)</code>](https://github.com/elementary/appcenter/commit/6ba6cad1af348b98667f6396c4f01f5f47b1ac54)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -30,6 +32,8 @@
 - [ ] [<code>Update flatpak actions to new namespace (#250)</code>](https://github.com/elementary/calculator/commit/9336425bd0e7354e4831a0657c2d0a243eab2da8)
 - [ ] [<code>Bump runtime to 7.2 (#251)</code>](https://github.com/elementary/calculator/commit/b0b08e78d5b5210bc40fe2769df06329754861f9)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#252)</code>](https://github.com/elementary/calculator/commit/8e85598085be229ddd80da323aa1ac89d19b1854)
+- [ ] [<code>Fix meson warnings (#254)</code>](https://github.com/elementary/calculator/commit/70e04244b269762e12b7f2d586adcbec8eb78db3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -42,6 +46,10 @@
 - [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#773)</code>](https://github.com/elementary/calendar/commit/2fc3eee7e24df52943e11191abf1625e4d593735)
 - [ ] [<code>Update flatpak actions to new namespace (#775)</code>](https://github.com/elementary/calendar/commit/e429cb3c1c4e4ded9aec41949642f490be5d114c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#777)</code>](https://github.com/elementary/calendar/commit/5b6ccde5e8c7d9850957bed9963b3a9554b726fc)
+- [ ] [<code>Fix meson warning for run_command (#762)</code>](https://github.com/elementary/calendar/commit/b0e81b8265e90de944a51d809953afcf2461fb93)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Require newer meson and fix deprecations (#783)</code>](https://github.com/elementary/calendar/commit/018087cbadc77f9e44afbcae72bb1ffcbecabe46)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -118,6 +126,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to GHCR containers (#88)</code>](https://github.com/elementary/feedback/commit/aa083c548c14a84a562f317d7f518a60a34e5af8)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/feedback/commit/e5b2e2bc5be12a7401256b42a4002f2b98f7cb38)
+- [ ] [<code>Require new meson and fix deprecations (#91)</code>](https://github.com/elementary/feedback/commit/038ab0603bd82748c0749f17d8aa9797b8109e17)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.3.1 → HEAD](https://github.com/elementary/files/compare/6.3.1...HEAD)
 
@@ -132,6 +142,10 @@
 - [ ] [<code>Improve speed of loading and display of large  folders (#2184)</code>](https://github.com/elementary/files/commit/db6dfad35059bcd9a0a3ea1401a42c59f3d8942a)
 - [ ] [<code>BulkRename: Differentiate identical strings for translating (#2186)</code>](https://github.com/elementary/files/commit/9b911e77c30687dafc35238d220b0dcdcae0b29f)
 - [ ] [<code>Get current date properly (#2185)</code>](https://github.com/elementary/files/commit/70ab107c8fb3fe1f76a3f523762a9debb2ff9b32)
+- [ ] [<code>Fix duplicate files and other recent regressions (#2191)</code>](https://github.com/elementary/files/commit/9315942f6a04d0fa10804ec65e3de6b1376b5ddf)
+- [ ] [<code>Require newer meson and fix deprecations (#2196)</code>](https://github.com/elementary/files/commit/bbf75d9ed14158e90ec0b11eeacb1699f5b9389f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2197)</code>](https://github.com/elementary/files/commit/e8d99d8c0086c9811d7cfa1300f47a70aa0a6d76)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -279,6 +293,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to GHCR containers (#266)</code>](https://github.com/elementary/switchboard-plug-about/commit/83e7e7ec128e5d6e08948b187cdb2b20de298232)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/59afc92e8e03ed1069f6222e36a7f2a594520d77)
+- [ ] [<code>OperatingSystemView: handle missing default wallpaper (#258)</code>](https://github.com/elementary/switchboard-plug-about/commit/e1d8559c9d172b2f55207188f50a4333aecef2f9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
@@ -496,6 +513,11 @@
 - [ ] [<code>Copy KeyboardManager from Gala</code>](https://github.com/elementary/greeter/commit/fafc2f79c6505b47690d024220d7fe3c92883df2)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>KeyboardManager: Set keyboard layout on startup</code>](https://github.com/elementary/greeter/commit/21f411183c026082e28a04a0dad45f9345563aab)
+- [ ] [<code>Add support for Mutter 44 (#643)</code>](https://github.com/elementary/greeter/commit/11c62b752262609786c8b57a7735589f07981574)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix meson warnings (#649)</code>](https://github.com/elementary/greeter/commit/4fdd7c8f42ffe04da4955251ba5a8e0082c9edcd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
