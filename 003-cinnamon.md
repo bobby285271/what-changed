@@ -133,6 +133,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/9bcffcdacd933ede53e373a22337c0db13043368)
   - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>stage: Multiply the stage window by the global scale.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6c8c2e72fa6fa355e9a59880ad60a669477c33a3)
+- [ ] [<code>Fix stacking issue with the backup window.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/654e3399300ee1dbf352d843e10ebe0df4763763)
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -468,6 +470,7 @@
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
 
+- [ ] [<code>I10n: correct en_GB translations (#132)</code>](https://github.com/linuxmint/blueberry/commit/26e5e1368ddf8a37d71825055638b96d3e3bd823)
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.2...HEAD)
 
