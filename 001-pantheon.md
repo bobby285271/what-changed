@@ -103,6 +103,7 @@
 - [ ] [<code>Ask save location with dialog (#1308)</code>](https://github.com/elementary/code/commit/1934886b44ff9453ab8a5037ed18a03eb1acd92f)
 - [ ] [<code>Document: Fix string typo</code>](https://github.com/elementary/code/commit/c1e581f59045094862ebce8eeebb7ac00ac3e4d4)
 - [ ] [<code>Metainfo: set brand color to Latte 500</code>](https://github.com/elementary/code/commit/ebc172f85f4ae5bf7e64dfb67261435923155ffc)
+- [ ] [<code>Ensure folder items in sidebar always expandable (#1252)</code>](https://github.com/elementary/code/commit/64b5a90af95659e4495cb91be4320dcb621b8906)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
