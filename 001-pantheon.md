@@ -14,6 +14,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Require newer meson and fix deprecations (#2034)</code>](https://github.com/elementary/appcenter/commit/6ba6cad1af348b98667f6396c4f01f5f47b1ac54)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppInfoView: rework vertical spacing (#2024)</code>](https://github.com/elementary/appcenter/commit/828e91676038c8e6c566aab8ecbeb25209328b84)
+- [ ] [<code>Homepage placeholder (#2030)</code>](https://github.com/elementary/appcenter/commit/521804e9ed6e11ab4938154f18c08e4869348bc6)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -698,6 +700,9 @@
 - [ ] [<code>Init: load gresourced styles if present (#644)</code>](https://github.com/elementary/granite/commit/2b6d52043cb1f8a30e54675f8c375f2712ad5c92)
 - [ ] [<code>Fix demo desktop file (#647)</code>](https://github.com/elementary/granite/commit/0690b17eecd860212516a088d2eaacc635ff0f8c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Settings Urls (#649)</code>](https://github.com/elementary/granite/commit/a73e7808104b31f7800435d881b24d9e9acde5d9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update granite.appdata.xml.in (#650)</code>](https://github.com/elementary/granite/commit/88b5acbee868ed71529a2e24d173a455f9429c19)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
