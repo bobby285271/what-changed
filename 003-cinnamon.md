@@ -97,7 +97,9 @@
 - [ ] [<code>power: Add settings to disable low battery warnings for connected devices (#11599)</code>](https://github.com/linuxmint/cinnamon/commit/96a99da28246f7fae23c5d795b70621e10a00c1c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon/commit/f84c97dabbc4179a02ec04399d424d19cd482344)
+- [ ] [<code>Add keyboard shortcuts for warping the mouse pointer between</code>](https://github.com/linuxmint/cinnamon/commit/3b5c560e8607f41019a9c9feb8d64e387bceb43e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -115,6 +117,7 @@
 - [ ] [<code>Add high-contrast key.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/210cf97a7c341e2991dc306b117e24551683e784)
 - [ ] [<code>gnome-desktop-thumbnailer.c: Only attempt to thumbnail internally</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0f6020ffc9608dd71042dee878e0f18d43e99e91)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4e9b5e5a5afeaa74d2ee01fab835ecd3650bb280)
+- [ ] [<code>org.cinnamon.desktop.keybindings: Add entries for warping the pointer</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7aea93108777532e4a69a6780029ae1a2973d384)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
@@ -548,8 +551,11 @@
 - [ ] [<code>src/makefile: remove VTE_291_OLD and VTE_291 symbols (#183)</code>](https://github.com/linuxmint/timeshift/commit/94315c5463b2331f5e506caa4d495d07b76a8bca)
 - [ ] [<code>Fix project's license (#189)</code>](https://github.com/linuxmint/timeshift/commit/0b21b1ededd433190d0a50516eb78115d90a5566)
 - [ ] [<code>Use help2man utility to create a man page. (#178)</code>](https://github.com/linuxmint/timeshift/commit/9668beec48b098737add580c6c3af6abf7c22b51)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>meson support (#173)</code>](https://github.com/linuxmint/timeshift/commit/79ddd89891472cb176cbe0da185007a239d6d4ae)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
