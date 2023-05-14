@@ -149,6 +149,8 @@
 - [ ] [<code>Require newer meson and fix deprecations (#2196)</code>](https://github.com/elementary/files/commit/bbf75d9ed14158e90ec0b11eeacb1699f5b9389f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2197)</code>](https://github.com/elementary/files/commit/e8d99d8c0086c9811d7cfa1300f47a70aa0a6d76)
+- [ ] [<code>Modernize Metainfo (#2198)</code>](https://github.com/elementary/files/commit/7de29d40feea37c20e7becc7544bfaaf32b2a0ee)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -274,6 +276,7 @@
 - [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/b013b28bd18703812857e443b6791756e00f3498)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard/commit/a9b64c5310f5f2847135ab2ad59ce1669b1c70dd)
 - [ ] [<code>Switch to GHCR containers (#256)</code>](https://github.com/elementary/switchboard/commit/25d83c57d7a58f9cda9a7a768efb4be148f09f99)
+- [ ] [<code>Fix terminal warning on navigate (#260)</code>](https://github.com/elementary/switchboard/commit/7051fba3c6da33cf4de4bfd52162a1635b65244e)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
