@@ -16,6 +16,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppInfoView: rework vertical spacing (#2024)</code>](https://github.com/elementary/appcenter/commit/828e91676038c8e6c566aab8ecbeb25209328b84)
 - [ ] [<code>Homepage placeholder (#2030)</code>](https://github.com/elementary/appcenter/commit/521804e9ed6e11ab4938154f18c08e4869348bc6)
+- [ ] [<code>CategoryView: Sort native apps first instead of splitting (#2029)</code>](https://github.com/elementary/appcenter/commit/d5a116bd3703c051870ca128d63d69ae139fa479)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -708,6 +709,8 @@
 - [ ] [<code>Settings Urls (#649)</code>](https://github.com/elementary/granite/commit/a73e7808104b31f7800435d881b24d9e9acde5d9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update granite.appdata.xml.in (#650)</code>](https://github.com/elementary/granite/commit/88b5acbee868ed71529a2e24d173a455f9429c19)
+- [ ] [<code>Constants: Add since versions to new URI values (#651)</code>](https://github.com/elementary/granite/commit/1ea25ca28bc511850371a5d33d505099e4fdb7b9)
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
