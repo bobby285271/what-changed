@@ -311,6 +311,9 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/818dba93e8d18ab1cebac108aaf8401d6cce1261)
 - [ ] [<code>Fix typo: XDG_DATA_DIRS env var (#479)</code>](https://github.com/linuxmint/nemo-extensions/commit/493076c5d33289fb67fe67def0432728b056208a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to webkit2gtk-4.1 (#481)</code>](https://github.com/linuxmint/nemo-extensions/commit/bc093c2aead12f17407106d359999f5a0ea0f640)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
@@ -463,7 +466,12 @@
 - [ ] [<code>ev-pixbuf-cache.c: Fix leak when rendering pages while annotating.</code>](https://github.com/linuxmint/xreader/commit/ca275ddf5f1d5e628ad42f6fa9e3ac87ffce9386)
 - [ ] [<code>ev-window.c: Don't close the window before a save operation</code>](https://github.com/linuxmint/xreader/commit/9d49b677892c426d3971df9859d03a27a98df49e)
 - [ ] [<code>[RFC] Migrate from GTime to GDateTime (#595)</code>](https://github.com/linuxmint/xreader/commit/241af83d4e0421110fdd0df3cf4e06a792b149b3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Switch to webkit2gtk-4.1</code>](https://github.com/linuxmint/xreader/commit/e09376eff6e54b1d31d5e50a6e95495bf7017052)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Don't treat GDateTime as a GObject.</code>](https://github.com/linuxmint/xreader/commit/dac0a6a0ae900f25bef7df1f49dd56fd8e4353c3)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
