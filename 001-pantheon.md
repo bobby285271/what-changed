@@ -53,6 +53,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Require newer meson and fix deprecations (#783)</code>](https://github.com/elementary/calendar/commit/018087cbadc77f9e44afbcae72bb1ffcbecabe46)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/11e110046edb6233db16663dfc2a4b3ef7e78432)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -153,6 +155,7 @@
 - [ ] [<code>Update io.elementary.files.appdata.xml.in.in (#2197)</code>](https://github.com/elementary/files/commit/e8d99d8c0086c9811d7cfa1300f47a70aa0a6d76)
 - [ ] [<code>Modernize Metainfo (#2198)</code>](https://github.com/elementary/files/commit/7de29d40feea37c20e7becc7544bfaaf32b2a0ee)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bulk Rename: Use ModeButton for basename options (#2201)</code>](https://github.com/elementary/files/commit/9f670f9429970439eda5e7ee83bc6c9f993d8a86)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -170,6 +173,8 @@
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.1.0 → HEAD](https://github.com/elementary/mail/compare/7.1.0...HEAD)
 
 - [ ] [<code>WebView: Update height after images were loaded (#889)</code>](https://github.com/elementary/mail/commit/4d0a872fd3a57be5be14b9ec47176b0f9b39b2b8)
+- [ ] [<code>MainWindow: Updates for gtk4 (#867)</code>](https://github.com/elementary/mail/commit/b34540fd5619afc08bf07f1e1ead759ec5ffe662)
+- [ ] [<code>Always start InboxMonitor (#890)</code>](https://github.com/elementary/mail/commit/e89c884e3e16c6a8cbbcc8d4497f8df0bf1f90d1)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -401,6 +406,7 @@
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.2 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...HEAD)
 
 - [ ] [<code>ImapDialog: Fix freeze when a server sends no response (#256)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fa7a0a3cecbd23ee7de77a89c6b1ccfbe6eef376)
+- [ ] [<code>ImapDialog: Store most initial setup keys (#258)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4d663d28a843eab4ab0c07c83ddc7c66a5e235ff)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
