@@ -55,6 +55,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/11e110046edb6233db16663dfc2a4b3ef7e78432)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "Release 6.1.3 (#784)"</code>](https://github.com/elementary/calendar/commit/5e97075017203def4ea165f362cc7e126f5b4c17)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
