@@ -292,6 +292,7 @@
 - [ ] [<code>nemo-application.c: Update the custom css provider when the system</code>](https://github.com/linuxmint/nemo/commit/1cd7fbe717bb64158b958cdef2705296d1890f66)
 - [ ] [<code>nemo-list-view.c: Remove stray debug line.</code>](https://github.com/linuxmint/nemo/commit/91658573fdb7f0e52e1d1aa189254926d2fd14d4)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/nemo/commit/ab5216102e5eafdbc722ed201374630b2dce242f)
+- [ ] [<code>actions: Make NemoActionManager more efficient, and skip invalid</code>](https://github.com/linuxmint/nemo/commit/d8604af7c400b78dad8517f6738a769cd7086fe1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
