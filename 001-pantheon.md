@@ -57,6 +57,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "Release 6.1.3 (#784)"</code>](https://github.com/elementary/calendar/commit/5e97075017203def4ea165f362cc7e126f5b4c17)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/4df16e6776371bfbba220268587e175fbb65f47b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
@@ -177,6 +179,7 @@
 - [ ] [<code>WebView: Update height after images were loaded (#889)</code>](https://github.com/elementary/mail/commit/4d0a872fd3a57be5be14b9ec47176b0f9b39b2b8)
 - [ ] [<code>MainWindow: Updates for gtk4 (#867)</code>](https://github.com/elementary/mail/commit/b34540fd5619afc08bf07f1e1ead759ec5ffe662)
 - [ ] [<code>Always start InboxMonitor (#890)</code>](https://github.com/elementary/mail/commit/e89c884e3e16c6a8cbbcc8d4497f8df0bf1f90d1)
+- [ ] [<code>Unify trash/archive (#888)</code>](https://github.com/elementary/mail/commit/f1bce24b7362ad5526e5797df13169314a3ada04)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -477,6 +480,7 @@
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.0 → HEAD](https://github.com/elementary/icons/compare/7.3.0...HEAD)
 
+- [ ] [<code>Rename media-memory-sembolic.svg to media-memory-symbolic.svg (#1200)</code>](https://github.com/elementary/icons/commit/f44e5d0a4b65cb64d2318f0bd0cc5ed0d820e373)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -669,6 +673,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7c22cee0496a4e74cce582157b0df64faa099ad9)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#254)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bd679fd2e81a6a795edbfaa0497fb78bbb9b68dd)
 - [ ] [<code>Add full markup support (#252)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/148519009c5f5a4816636783b7a13ad4b1133461)
+- [ ] [<code>Constant indicator width (#255)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9d30e10c404b966258c940f7c2777a627541471)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
@@ -719,6 +724,7 @@
 - [ ] [<code>Update granite.appdata.xml.in (#650)</code>](https://github.com/elementary/granite/commit/88b5acbee868ed71529a2e24d173a455f9429c19)
 - [ ] [<code>Constants: Add since versions to new URI values (#651)</code>](https://github.com/elementary/granite/commit/1ea25ca28bc511850371a5d33d505099e4fdb7b9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: add basics (#646)</code>](https://github.com/elementary/granite/commit/def177c6e76aa3fe28deee1b49d4c6dacf94e2fc)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
