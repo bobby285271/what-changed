@@ -98,8 +98,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon/commit/f84c97dabbc4179a02ec04399d424d19cd482344)
 - [ ] [<code>Add keyboard shortcuts for warping the mouse pointer between</code>](https://github.com/linuxmint/cinnamon/commit/3b5c560e8607f41019a9c9feb8d64e387bceb43e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>deskletManager.js: Fix incorrect variable name.</code>](https://github.com/linuxmint/cinnamon/commit/ec10d06d56f19fb211631ab108f7eb5a2d7f668d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -467,12 +468,15 @@
 - [ ] [<code>ev-pixbuf-cache.c: Fix leak when rendering pages while annotating.</code>](https://github.com/linuxmint/xreader/commit/ca275ddf5f1d5e628ad42f6fa9e3ac87ffce9386)
 - [ ] [<code>ev-window.c: Don't close the window before a save operation</code>](https://github.com/linuxmint/xreader/commit/9d49b677892c426d3971df9859d03a27a98df49e)
 - [ ] [<code>[RFC] Migrate from GTime to GDateTime (#595)</code>](https://github.com/linuxmint/xreader/commit/241af83d4e0421110fdd0df3cf4e06a792b149b3)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Switch to webkit2gtk-4.1</code>](https://github.com/linuxmint/xreader/commit/e09376eff6e54b1d31d5e50a6e95495bf7017052)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Don't treat GDateTime as a GObject.</code>](https://github.com/linuxmint/xreader/commit/dac0a6a0ae900f25bef7df1f49dd56fd8e4353c3)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Restore libwebkit2gtk-4.0 as an alternate dependency.</code>](https://github.com/linuxmint/xreader/commit/96ad9b4bb07199e87c254ed536e17985dbb0a7d7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Background colour of presentation view fixed. (#600)</code>](https://github.com/linuxmint/xreader/commit/cafcc38f4d8b952d1d37fd995e788820cc081821)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
@@ -562,9 +566,13 @@
 - [ ] [<code>Use help2man utility to create a man page. (#178)</code>](https://github.com/linuxmint/timeshift/commit/9668beec48b098737add580c6c3af6abf7c22b51)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>meson support (#173)</code>](https://github.com/linuxmint/timeshift/commit/79ddd89891472cb176cbe0da185007a239d6d4ae)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Fix deprecated Gtk.Widget.margin_left and Gtk.Widget.margin_right properties</code>](https://github.com/linuxmint/timeshift/commit/c9aba352c9ddc94e1307ed067676f03ec2cf4a1c)
+- [ ] [<code>Use get_hadjustment via casting TreeView to Gtk.Scrollable</code>](https://github.com/linuxmint/timeshift/commit/f4282ea7de6465630ac98ed9230986c52c2757b3)
+- [ ] [<code>meson: add project's license definition</code>](https://github.com/linuxmint/timeshift/commit/8818fc4218d3482a92f4bd646d5dced45728901a)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
