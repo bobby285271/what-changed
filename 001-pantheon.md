@@ -17,6 +17,9 @@
 - [ ] [<code>AppInfoView: rework vertical spacing (#2024)</code>](https://github.com/elementary/appcenter/commit/828e91676038c8e6c566aab8ecbeb25209328b84)
 - [ ] [<code>Homepage placeholder (#2030)</code>](https://github.com/elementary/appcenter/commit/521804e9ed6e11ab4938154f18c08e4869348bc6)
 - [ ] [<code>CategoryView: Sort native apps first instead of splitting (#2029)</code>](https://github.com/elementary/appcenter/commit/d5a116bd3703c051870ca128d63d69ae139fa479)
+- [ ] [<code>Add meson options to disable backends (#1994)</code>](https://github.com/elementary/appcenter/commit/d49be6158b294a7970a43f5262fb225914fb0581)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
