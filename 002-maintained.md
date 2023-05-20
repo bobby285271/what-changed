@@ -292,6 +292,7 @@
 - [ ] [<code>Merge pull request #546 from ygormutti/patch-1</code>](https://github.com/phase1geo/minder/commit/986147e631e9b6335bf9108d6f54c65d158af9dc)
 - [ ] [<code>Fixing issue with undo/redo of unicode characters.</code>](https://github.com/phase1geo/minder/commit/ae7dc52b6a6925099f9af4195cb25aa5ce48453f)
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/1b161ed5f2b7e47c4ea901c78174ab425a377a42)
+- [ ] [<code>Improving Outliner export.</code>](https://github.com/phase1geo/minder/commit/ca152476451f6af9f5ee2a7e18090f60e2a47a2d)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
