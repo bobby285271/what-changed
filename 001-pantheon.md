@@ -163,6 +163,7 @@
 - [ ] [<code>Modernize Metainfo (#2198)</code>](https://github.com/elementary/files/commit/7de29d40feea37c20e7becc7544bfaaf32b2a0ee)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bulk Rename: Use ModeButton for basename options (#2201)</code>](https://github.com/elementary/files/commit/9f670f9429970439eda5e7ee83bc6c9f993d8a86)
+- [ ] [<code>Use active language for basename options (#2202)</code>](https://github.com/elementary/files/commit/3dc9c8b6f29aac902edd0a91a9ded16c1c224016)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
