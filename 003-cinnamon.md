@@ -240,6 +240,8 @@
 - [ ] [<code>Update README</code>](https://github.com/linuxmint/mint-y-icons/commit/bb34f335929d0c44ff3591b0cfae3ed8b471f89f)
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/mint-y-icons/commit/f7d597fade1b85793a438aa4239e09f1078584bc)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add symlinks for Bitwarden flatpak</code>](https://github.com/linuxmint/mint-y-icons/commit/069c0baac47902912dc475e41ef0673d0a18dfe8)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
 
