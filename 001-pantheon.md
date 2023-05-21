@@ -678,6 +678,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#254)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bd679fd2e81a6a795edbfaa0497fb78bbb9b68dd)
 - [ ] [<code>Add full markup support (#252)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/148519009c5f5a4816636783b7a13ad4b1133461)
 - [ ] [<code>Constant indicator width (#255)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9d30e10c404b966258c940f7c2777a627541471)
+- [ ] [<code>Remove notification from list if bubble dismissed; give accurate tooltip count (#243)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/da9220f8a3de04fb2819d68f24ec36bb50ef06ad)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
@@ -762,6 +763,9 @@
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/63fecc12db4f084878061c9e246a2874ef416de3)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#59)</code>](https://github.com/elementary/settings-daemon/commit/d6614fb82121074321031509d2995a1175c41d86)
 - [ ] [<code>Portal: Support accent colors (#60)</code>](https://github.com/elementary/settings-daemon/commit/5fa356faa06c310e5ac1b4bbf00d3dfa92799f46)
+- [ ] [<code>Check for firmware updates (#45)</code>](https://github.com/elementary/settings-daemon/commit/5751eebe543a1d99283e4b9171013a6951a28c91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
