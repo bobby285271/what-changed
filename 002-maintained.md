@@ -286,6 +286,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing issues with exported images including selection</code>](https://github.com/phase1geo/minder/commit/13d1826ed4b56b803fa441ea39cecd20712573ae)
 - [ ] [<code>Merge branch '544-png-export-also-exports-the-colored-'</code>](https://github.com/phase1geo/minder/commit/a8912a622c179cd949ca654abf47af4c918fd342)
+- [ ] [<code>Adding support for embedding image path in Quick Entry.</code>](https://github.com/phase1geo/minder/commit/a029a45222a3b512ac4fb97da32296a8b9445741)
+- [ ] [<code>Checkpointing work on drag/drop support for images.</code>](https://github.com/phase1geo/minder/commit/25f2160dfe27145535b53b3532ad0f27a2669657)
+- [ ] [<code>Adding image to node on drop</code>](https://github.com/phase1geo/minder/commit/ad0cce50dc74b2160ca423abf7518bcf1ff33f32)
+- [ ] [<code>Checkpointing improvements to QuickEntry editing</code>](https://github.com/phase1geo/minder/commit/dd211ce47b1ef19ca90dda431075607bc550939d)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/c5967ef79f555a28af923da0420427c44dfb01a1)
 - [ ] [<code>Merge pull request #545 from albanobattistella/patch-23</code>](https://github.com/phase1geo/minder/commit/5bdaa7902a31c811f0d8962105a6933e8aff9c3a)
 - [ ] [<code>Fix typo in Node.import_opml</code>](https://github.com/phase1geo/minder/commit/cb96199b7742ae6d1fbba303c035b4193847f763)
@@ -293,6 +297,9 @@
 - [ ] [<code>Fixing issue with undo/redo of unicode characters.</code>](https://github.com/phase1geo/minder/commit/ae7dc52b6a6925099f9af4195cb25aa5ce48453f)
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/1b161ed5f2b7e47c4ea901c78174ab425a377a42)
 - [ ] [<code>Improving Outliner export.</code>](https://github.com/phase1geo/minder/commit/ca152476451f6af9f5ee2a7e18090f60e2a47a2d)
+- [ ] [<code>Merge branch '538-add-image-import-through-quick-entry'</code>](https://github.com/phase1geo/minder/commit/12a93f6bb7262dc7554937dfb5e126eb77469842)
+- [ ] [<code>Updating files for 1.15.2 release.</code>](https://github.com/phase1geo/minder/commit/60883d2b6f2d01938ec82bfdcd6e87429f52f4b9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
