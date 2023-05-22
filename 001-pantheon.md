@@ -164,6 +164,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bulk Rename: Use ModeButton for basename options (#2201)</code>](https://github.com/elementary/files/commit/9f670f9429970439eda5e7ee83bc6c9f993d8a86)
 - [ ] [<code>Use active language for basename options (#2202)</code>](https://github.com/elementary/files/commit/3dc9c8b6f29aac902edd0a91a9ded16c1c224016)
+- [ ] [<code>Do not show externally created hidden files with no file info (#2200)</code>](https://github.com/elementary/files/commit/61fb31ffacd06526c42f109227e1f9aa38ea498c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -541,6 +542,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Fix meson warnings (#649)</code>](https://github.com/elementary/greeter/commit/4fdd7c8f42ffe04da4955251ba5a8e0082c9edcd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Install lightdm config (#651)</code>](https://github.com/elementary/greeter/commit/1b3879d9a2232876c327a62b8869ddf46028fa8f)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
