@@ -192,6 +192,9 @@
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [e17f8a4620827235dabbe5221bd0ee8c44dad0d5 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/e17f8a4620827235dabbe5221bd0ee8c44dad0d5...HEAD)
 
+- [ ] [<code>Use newer deb packaging formats and remove lints</code>](https://github.com/linuxmint/mint-cursor-themes/commit/b348e231493b726f3786a6ec04adf42ebaa2777a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #3 from hsbasu/update-deb-packaging</code>](https://github.com/linuxmint/mint-cursor-themes/commit/8e8a39e01f60a109f26a024cda69569f5178a857)
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.9...HEAD)
 
@@ -415,7 +418,9 @@
 - [ ] [<code>Possible remaining_count fixes (#174)</code>](https://github.com/linuxmint/warpinator/commit/d43434e8a183bf523fdc067df3c836ac348f1400)
 - [ ] [<code>Correct a typo in `README.md` (#175)</code>](https://github.com/linuxmint/warpinator/commit/52f9dda44d9f047e4bac00034de82e6cd8e1f2eb)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/warpinator/commit/ff99e4946695c53ee78a97bb7a9dff36aa8876d3)
+- [ ] [<code>Add `bash` syntax highlighting to `README.md` (#176)</code>](https://github.com/linuxmint/warpinator/commit/311046d000d943d2563c39058fab2fa67ca3c3fe)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
