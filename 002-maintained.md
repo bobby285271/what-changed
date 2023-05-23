@@ -299,6 +299,7 @@
 - [ ] [<code>Improving Outliner export.</code>](https://github.com/phase1geo/minder/commit/ca152476451f6af9f5ee2a7e18090f60e2a47a2d)
 - [ ] [<code>Merge branch '538-add-image-import-through-quick-entry'</code>](https://github.com/phase1geo/minder/commit/12a93f6bb7262dc7554937dfb5e126eb77469842)
 - [ ] [<code>Updating files for 1.15.2 release.</code>](https://github.com/phase1geo/minder/commit/60883d2b6f2d01938ec82bfdcd6e87429f52f4b9)
+  - <sub>Tags: <code>1.15.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
