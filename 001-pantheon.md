@@ -185,6 +185,8 @@
 - [ ] [<code>MainWindow: Updates for gtk4 (#867)</code>](https://github.com/elementary/mail/commit/b34540fd5619afc08bf07f1e1ead759ec5ffe662)
 - [ ] [<code>Always start InboxMonitor (#890)</code>](https://github.com/elementary/mail/commit/e89c884e3e16c6a8cbbcc8d4497f8df0bf1f90d1)
 - [ ] [<code>Unify trash/archive (#888)</code>](https://github.com/elementary/mail/commit/f1bce24b7362ad5526e5797df13169314a3ada04)
+- [ ] [<code>Handle network availability (#871)</code>](https://github.com/elementary/mail/commit/6fad8c63e4bc8605d9e5240e33e818c328046549)
+- [ ] [<code>Fix an issue that causes mail to never connect to the network (#899)</code>](https://github.com/elementary/mail/commit/91f422a1daa560663dfd96586971eb7fb582179b)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -548,6 +550,7 @@
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
+- [ ] [<code>WelcomeView: Update description (#210)</code>](https://github.com/elementary/onboarding/commit/32727c18fc8ee4919d79472b7cdf47630bca52da)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -758,6 +761,7 @@
 - [ ] [<code>Switch to GHCR containers (#185)</code>](https://github.com/elementary/notifications/commit/a54b51baed1bf60cb67ac301e56b9a1d72054d63)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/notifications/commit/7705c32893985d9daeb62c876419d818fb28b082)
 - [ ] [<code>Add full markup support (#184)</code>](https://github.com/elementary/notifications/commit/bd159979dbe3dbe6f3f1da7acd8e0721cc20ef80)
+- [ ] [<code>Application: Allow Replacement of Running Instance (#191)</code>](https://github.com/elementary/notifications/commit/21cae3ab5d2bf0cfe06714b71cce17fcf95ceef9)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
@@ -791,6 +795,10 @@
 - [ ] [<code>meson: Add gtk4 bindings based on valac version (#67)</code>](https://github.com/elementary/portals/commit/021dfe415f947edf3a1325796271cb7944fb4a8a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Background portal implementation (#73)</code>](https://github.com/elementary/portals/commit/9b22063ee185c30d91f1f4b5f263247fabf76671)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>NotificationRequest: typographical quotes (#75)</code>](https://github.com/elementary/portals/commit/549a7e5f19fb1fbea15e6bbfc8a8481bc39de24f)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
