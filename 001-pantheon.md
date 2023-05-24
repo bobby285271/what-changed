@@ -115,6 +115,7 @@
 - [ ] [<code>Metainfo: set brand color to Latte 500</code>](https://github.com/elementary/code/commit/ebc172f85f4ae5bf7e64dfb67261435923155ffc)
 - [ ] [<code>Ensure folder items in sidebar always expandable (#1252)</code>](https://github.com/elementary/code/commit/64b5a90af95659e4495cb91be4320dcb621b8906)
 - [ ] [<code>Prevent premature file status check when saving as (#1318)</code>](https://github.com/elementary/code/commit/86de1051b4707e4f7107ff811fbcaebab2cd9eb2)
+- [ ] [<code>Update metainfo for pull 1252 (#1315)</code>](https://github.com/elementary/code/commit/412898e6bb8bb9d4ee66f9b5d010d73dbc959efd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -187,6 +188,8 @@
 - [ ] [<code>Unify trash/archive (#888)</code>](https://github.com/elementary/mail/commit/f1bce24b7362ad5526e5797df13169314a3ada04)
 - [ ] [<code>Handle network availability (#871)</code>](https://github.com/elementary/mail/commit/6fad8c63e4bc8605d9e5240e33e818c328046549)
 - [ ] [<code>Fix an issue that causes mail to never connect to the network (#899)</code>](https://github.com/elementary/mail/commit/91f422a1daa560663dfd96586971eb7fb582179b)
+- [ ] [<code>Metainfo: add #567 fix (#901)</code>](https://github.com/elementary/mail/commit/0cc2e406b2d40709b6ea401d642e8b7c2155e4f3)
+- [ ] [<code>Application: hard code Gtk theme settings (#892)</code>](https://github.com/elementary/mail/commit/fcd629b97275221d16cb96c01f6f648a1a759115)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -377,6 +380,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1520cbccbb1de08f698780d3c87e6a8846d6a21a)
 - [ ] [<code>Switch to GHCR containers (#437)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/88399906c60c320f2e5cf706977c630012bf6d65)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/65d360dccbbb9f9df80843c38a203d7606fc7d0d)
+- [ ] [<code>Add link to custom shortcuts (#443)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/018a8c36b371a950a802739e202e12c9543d0595)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
