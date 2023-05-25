@@ -804,6 +804,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>NotificationRequest: typographical quotes (#75)</code>](https://github.com/elementary/portals/commit/549a7e5f19fb1fbea15e6bbfc8a8481bc39de24f)
+- [ ] [<code>Background: use commandline to try to get fallback app_id (#76)</code>](https://github.com/elementary/portals/commit/33bde59dbafe08c697dc2756172e705bf38be00a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
