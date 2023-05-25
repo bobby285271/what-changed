@@ -578,8 +578,12 @@
 - [ ] [<code>Fix deprecated Gtk.Widget.margin_left and Gtk.Widget.margin_right properties</code>](https://github.com/linuxmint/timeshift/commit/c9aba352c9ddc94e1307ed067676f03ec2cf4a1c)
 - [ ] [<code>Use get_hadjustment via casting TreeView to Gtk.Scrollable</code>](https://github.com/linuxmint/timeshift/commit/f4282ea7de6465630ac98ed9230986c52c2757b3)
 - [ ] [<code>meson: add project's license definition</code>](https://github.com/linuxmint/timeshift/commit/8818fc4218d3482a92f4bd646d5dced45728901a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Don't use the deprecated Gtk.TreeView.rules_hint feature (#201)</code>](https://github.com/linuxmint/timeshift/commit/7ab8afc51b085f647eedfe80062f32775e85cdf9)
+- [ ] [<code>docs: automatically generate timeshift-gtk manpage (#194)</code>](https://github.com/linuxmint/timeshift/commit/bd4d2b5b5c00b7eb7e45078573b8cc83a46c7068)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
