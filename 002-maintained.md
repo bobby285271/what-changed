@@ -201,6 +201,20 @@
 
 #### [elementary-planner](https://github.com/alainm23/planner): [97c0f1c30d087e2ac459241bfdb9b606a12a77ce → HEAD](https://github.com/alainm23/planner/compare/97c0f1c30d087e2ac459241bfdb9b606a12a77ce...HEAD)
 
+- [ ] [<code>add Saturday as the start day of the week</code>](https://github.com/alainm23/planner/commit/50a1664f1c680b2b0dc1eccaff0d82c6db76431f)
+- [ ] [<code>build: Use gtk4-update-icon-cache</code>](https://github.com/alainm23/planner/commit/0a707653c3a00cf1cda0c4973270d86b220920b3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Fix: Planner logo not rendering in README</code>](https://github.com/alainm23/planner/commit/8ec7567717934ea823f3d71cd72d8af27ff7dee7)
+- [ ] [<code>docs: fix typos</code>](https://github.com/alainm23/planner/commit/1793eb10799bcd38005e486f7684251788b4e0f8)
+- [ ] [<code>New features and code improvement</code>](https://github.com/alainm23/planner/commit/ef2d0d4396e7996438db4825f545d75fca479377)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Remove trash</code>](https://github.com/alainm23/planner/commit/4cababfd6889722824d9b061170169637c6a74c2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Merge pull request #987 from kianmeng/fix-typos</code>](https://github.com/alainm23/planner/commit/3f28f04ebd33f2526985fee0d3d9020a9ce825b4)
+- [ ] [<code>Merge pull request #985 from bobby285271/gtk4-update-icon-cache</code>](https://github.com/alainm23/planner/commit/245269eff39f0cca4b597f909e06a85b3939a8dd)
+- [ ] [<code>Merge pull request #986 from TheOne04/patch-1</code>](https://github.com/alainm23/planner/commit/2b66af1c5e8ed7934067586806d0293e577dbb46)
+- [ ] [<code>Merge pull request #981 from imhosseinzadeh/imhosseinzadeh-start-week-saturday</code>](https://github.com/alainm23/planner/commit/faa0262ebbf600fcda51035b7c9c19f9740278a6)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
@@ -279,6 +293,7 @@
 - [ ] [<code>meta: Update .doap-file (#126)</code>](https://github.com/lainsce/khronos/commit/afc4a9eb6f0a69b6b9eb8b3d086fb68afa8427de)
 - [ ] [<code>Update Swedish Translation (#128)</code>](https://github.com/lainsce/khronos/commit/0d62e736511f094f328b18c7a986b84d7e93d8c9)
 - [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
+- [ ] [<code>feat: add about window (#131)</code>](https://github.com/lainsce/khronos/commit/4288a30cdfb402df635f9fdb1435ebf0dd6cb543)
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.2 → HEAD](https://github.com/phase1geo/minder/compare/1.15.2...HEAD)
 
@@ -371,6 +386,7 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
 
+- [ ] [<code>Application: Get file type in enumerator (#168)</code>](https://github.com/vala-lang/vala-lint/commit/4d21b8a2be8b77052176d06d0cf10a8b319117c4)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
