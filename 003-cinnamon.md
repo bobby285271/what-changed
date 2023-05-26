@@ -100,7 +100,9 @@
 - [ ] [<code>Add keyboard shortcuts for warping the mouse pointer between</code>](https://github.com/linuxmint/cinnamon/commit/3b5c560e8607f41019a9c9feb8d64e387bceb43e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>deskletManager.js: Fix incorrect variable name.</code>](https://github.com/linuxmint/cinnamon/commit/ec10d06d56f19fb211631ab108f7eb5a2d7f668d)
+- [ ] [<code>Halt the build if meson_install_schemas.py fails.</code>](https://github.com/linuxmint/cinnamon/commit/9a5a5b7d9cf14b4e44899c1918c2755255e798ea)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
