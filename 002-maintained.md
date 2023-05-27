@@ -215,6 +215,21 @@
 - [ ] [<code>Merge pull request #985 from bobby285271/gtk4-update-icon-cache</code>](https://github.com/alainm23/planner/commit/245269eff39f0cca4b597f909e06a85b3939a8dd)
 - [ ] [<code>Merge pull request #986 from TheOne04/patch-1</code>](https://github.com/alainm23/planner/commit/2b66af1c5e8ed7934067586806d0293e577dbb46)
 - [ ] [<code>Merge pull request #981 from imhosseinzadeh/imhosseinzadeh-start-week-saturday</code>](https://github.com/alainm23/planner/commit/faa0262ebbf600fcda51035b7c9c19f9740278a6)
+- [ ] [<code>Improve meson build and Devel</code>](https://github.com/alainm23/planner/commit/259e57b5ff32be05b04681270f50cf039e24a73b)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>add fr translate</code>](https://github.com/alainm23/planner/commit/6571d969c30969d2bbb982d7a242be1867dcf8b8)
+- [ ] [<code>Rename app to Planify</code>](https://github.com/alainm23/planner/commit/3054e430cc1135a996671848c446d5a9aaa46e67)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Change bin app</code>](https://github.com/alainm23/planner/commit/394e7bada02b0ea4f89f4b006819e751565a5021)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/de99f9d6891d54e6ed52fdc0048bfc17b4493426)
+- [ ] [<code>session-bus added</code>](https://github.com/alainm23/planner/commit/445e546da73cf64a79b7cc5f1ad28b792036f204)
+- [ ] [<code>Rename app id</code>](https://github.com/alainm23/planner/commit/71ebb7c14f9d4aa973fa5556742ee9a4b3e75e6c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
