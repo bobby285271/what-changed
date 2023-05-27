@@ -230,6 +230,10 @@
 - [ ] [<code>Rename app id</code>](https://github.com/alainm23/planner/commit/71ebb7c14f9d4aa973fa5556742ee9a4b3e75e6c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Update appdata</code>](https://github.com/alainm23/planner/commit/1659839a6e777feb2458906d4238683f385b9c7d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove DBusServer</code>](https://github.com/alainm23/planner/commit/20c7fe63c91e7299711c62f3e199ba2a69618873)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
