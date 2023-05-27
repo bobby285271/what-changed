@@ -133,6 +133,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/dock/commit/4ee94e7150772052ee52eec334a3652d0bd965de)
 - [ ] [<code>Bump actions/checkout from 2 to 3 (#175)</code>](https://github.com/elementary/dock/commit/b189a18e14b0d395025a705729b075b915d807b3)
 - [ ] [<code>Switch to GHCR containers (#173)</code>](https://github.com/elementary/dock/commit/4401b06c51db59519d063ebf95375a330962c822)
+- [ ] [<code>DesktopIntegration: Initial support for Gala integration (#168)</code>](https://github.com/elementary/dock/commit/baa871ebfd2767e2976b06415b97aa092802760b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
