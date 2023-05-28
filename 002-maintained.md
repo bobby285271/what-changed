@@ -318,6 +318,9 @@
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.2 → HEAD](https://github.com/phase1geo/minder/compare/1.15.2...HEAD)
 
+- [ ] [<code>Fixing Markdown export issue with root notes.</code>](https://github.com/phase1geo/minder/commit/760d9da6e6b5a083c9fab4c96a08b5402a89c322)
+- [ ] [<code>Fixing issues with inserting non-printable characters.</code>](https://github.com/phase1geo/minder/commit/f56020e4193eb2f7f2df0972fd8608b831f8c93d)
+- [ ] [<code>Fixing issues with cursor movement for RTL languages.</code>](https://github.com/phase1geo/minder/commit/75cfa563a4774911cc25f2bb7b830539593807b5)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
