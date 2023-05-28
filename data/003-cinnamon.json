@@ -107,6 +107,9 @@
             "attr_path": "xed-editor"
         },
         {
+            "attr_path": "xdg-desktop-portal-xapp"
+        },
+        {
             "attr_path": "xplayer"
         }
     ]
