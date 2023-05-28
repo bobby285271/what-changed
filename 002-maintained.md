@@ -234,6 +234,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove DBusServer</code>](https://github.com/alainm23/planner/commit/20c7fe63c91e7299711c62f3e199ba2a69618873)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update prod</code>](https://github.com/alainm23/planner/commit/696fb7ab3c66ea4a14a5167cb5b44e9444294ecb)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
