@@ -20,6 +20,7 @@
 - [ ] [<code>Add meson options to disable backends (#1994)</code>](https://github.com/elementary/appcenter/commit/d49be6158b294a7970a43f5262fb225914fb0581)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppInfoView: warn about home permissions (#2040)</code>](https://github.com/elementary/appcenter/commit/2c453ade1a608415b67dff070dde1b5907b913d6)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
