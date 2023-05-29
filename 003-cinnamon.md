@@ -135,12 +135,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>utils.py: Add gdm3 to the switch user function.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/aeeb0795e5ab7b158f242fbe4a4778ace4874990)
 - [ ] [<code>use Gio flags instead of ints (#432)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ed84ceb23001dabecf142db2b0f17cd4c6b4c066)
-  - <sub>Tags: <code>backup-locker-behavior.lmde5</code> <code>backup-locker-behavior.mint21</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>backup-locker-behavior.lmde5</code> <code>backup-locker-behavior.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/9bcffcdacd933ede53e373a22337c0db13043368)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>stage: Multiply the stage window by the global scale.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6c8c2e72fa6fa355e9a59880ad60a669477c33a3)
 - [ ] [<code>Fix stacking issue with the backup window.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/654e3399300ee1dbf352d843e10ebe0df4763763)
+- [ ] [<code>Add missing dependency on x11-util</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f7ccca4846c2ff19281b897f3f7bcef758007e0c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -590,6 +592,13 @@
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
 - [ ] [<code>Save correct window size on exit (#570)</code>](https://github.com/linuxmint/xed/commit/efb1a66c52b97b856ff93244dfaf566db835ce40)
+
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.0...HEAD)
+
+- [ ] [<code>Remove cinnamon-desktop dependency (not needed).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5130d36ff670a53ae0d23cab238496b5c04b95b0)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
