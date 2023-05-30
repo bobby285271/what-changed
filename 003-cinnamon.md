@@ -508,6 +508,10 @@
 - [ ] [<code>Add zh_TW Traditional Chinese locale (#275)</code>](https://github.com/linuxmint/hypnotix/commit/4b96a058b6ff48da19351a3f87e67015692076ca)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Dark mode: Delegate to libxapp</code>](https://github.com/linuxmint/hypnotix/commit/7552c7aad95beb16e9f6390e56464776b7d7fd57)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gsettings: Remove prefer-dark-mode</code>](https://github.com/linuxmint/hypnotix/commit/03955754edabb268e3d933e833501bc463f633b6)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
