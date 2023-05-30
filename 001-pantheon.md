@@ -63,6 +63,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/4df16e6776371bfbba220268587e175fbb65f47b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Allow to fallback to statically linked libchamplain (#787)</code>](https://github.com/elementary/calendar/commit/5918d3f31772880d7e62611664cbe4126a3c53a1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
 
