@@ -319,9 +319,27 @@
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.2 → HEAD](https://github.com/phase1geo/minder/compare/1.15.2...HEAD)
 
+- [ ] [<code>Command-line argument changes</code>](https://github.com/phase1geo/minder/commit/4ac2a0de55796d847188d67f676c6a49ecb38378)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding import and export format names algorithmically to usage info.</code>](https://github.com/phase1geo/minder/commit/85e89be3cc597cd4d49fd0c362e7d981d9b09b7d)
+- [ ] [<code>* Adding import support from the command-line.</code>](https://github.com/phase1geo/minder/commit/4b81f11aa1c09bf5fc0a834cd582bed47c3aa9e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Initial work on Markdown import (not finished).</code>](https://github.com/phase1geo/minder/commit/296e505ea350afbafcfdb55d661025ccf1540217)
+- [ ] [<code>Initial (untested) support for extracting image info from markdown.</code>](https://github.com/phase1geo/minder/commit/71657648695164e9409cc61548e33ca8d975ae34)
 - [ ] [<code>Fixing Markdown export issue with root notes.</code>](https://github.com/phase1geo/minder/commit/760d9da6e6b5a083c9fab4c96a08b5402a89c322)
 - [ ] [<code>Fixing issues with inserting non-printable characters.</code>](https://github.com/phase1geo/minder/commit/f56020e4193eb2f7f2df0972fd8608b831f8c93d)
 - [ ] [<code>Fixing issues with cursor movement for RTL languages.</code>](https://github.com/phase1geo/minder/commit/75cfa563a4774911cc25f2bb7b830539593807b5)
+- [ ] [<code>Command-line argument changes</code>](https://github.com/phase1geo/minder/commit/7c89951a606874ef53b3519d17bf53bb7b359016)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding import and export format names algorithmically to usage info.</code>](https://github.com/phase1geo/minder/commit/e7681f68e8e83670b8f74fe01c294396837d39e8)
+- [ ] [<code>* Adding import support from the command-line.</code>](https://github.com/phase1geo/minder/commit/87918e37e0a1cf70870cae2c249ac28dcb28d34d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Initial work on Markdown import (not finished).</code>](https://github.com/phase1geo/minder/commit/17dabfa091d65c811752c3dbf7134ef2a89b7edf)
+- [ ] [<code>Initial (untested) support for extracting image info from markdown.</code>](https://github.com/phase1geo/minder/commit/866257770ecfdb569ca90293ffd4d51591b1c07a)
+- [ ] [<code>Another checkpoint on Markdown import functionality.</code>](https://github.com/phase1geo/minder/commit/eadf1463bce8164bc04b587f46b3b31d78c3c757)
+- [ ] [<code>Merge branch 'markdown-import' of github.com:phase1geo/Minder into markdown-import</code>](https://github.com/phase1geo/minder/commit/bf0b37841e11c4a7fcb744f863cac55496b06afc)
+- [ ] [<code>Improving Markdown export output for images with node text.</code>](https://github.com/phase1geo/minder/commit/c3618a17b05a975c57213445374802f66eacee70)
+- [ ] [<code>Merge branch 'markdown-import'</code>](https://github.com/phase1geo/minder/commit/a2ed4373e6b57bca6656362726487eae0ca39e92)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
