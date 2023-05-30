@@ -236,6 +236,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update prod</code>](https://github.com/alainm23/planner/commit/696fb7ab3c66ea4a14a5167cb5b44e9444294ecb)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/6766304ca32218bbb60183904a0290ce8c29e4ea)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
