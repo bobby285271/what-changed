@@ -194,6 +194,8 @@
 - [ ] [<code>Fix an issue that causes mail to never connect to the network (#899)</code>](https://github.com/elementary/mail/commit/91f422a1daa560663dfd96586971eb7fb582179b)
 - [ ] [<code>Metainfo: add #567 fix (#901)</code>](https://github.com/elementary/mail/commit/0cc2e406b2d40709b6ea401d642e8b7c2155e4f3)
 - [ ] [<code>Application: hard code Gtk theme settings (#892)</code>](https://github.com/elementary/mail/commit/fcd629b97275221d16cb96c01f6f648a1a759115)
+- [ ] [<code>Improve performance when moving messages (#897)</code>](https://github.com/elementary/mail/commit/00ab0e480379d8adf2f8f42f6168a49fa640c63e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
