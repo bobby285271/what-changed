@@ -21,6 +21,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppInfoView: warn about home permissions (#2040)</code>](https://github.com/elementary/appcenter/commit/2c453ade1a608415b67dff070dde1b5907b913d6)
+- [ ] [<code>AppInfoView: warn about direct geoclue access (#2041)</code>](https://github.com/elementary/appcenter/commit/44c187f2987cb13ceb59358125cf4c82178db3e5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -41,6 +43,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#252)</code>](https://github.com/elementary/calculator/commit/8e85598085be229ddd80da323aa1ac89d19b1854)
 - [ ] [<code>Fix meson warnings (#254)</code>](https://github.com/elementary/calculator/commit/70e04244b269762e12b7f2d586adcbec8eb78db3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo Improvements (#255)</code>](https://github.com/elementary/calculator/commit/0b1df48d03c87da52e17d70ee33991cfbdc6c16e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update calculator.metainfo.xml.in (#256)</code>](https://github.com/elementary/calculator/commit/dbc0d2b900ea023ffc50e0d2207455260cda626b)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -199,6 +204,7 @@
 - [ ] [<code>Application: hard code Gtk theme settings (#892)</code>](https://github.com/elementary/mail/commit/fcd629b97275221d16cb96c01f6f648a1a759115)
 - [ ] [<code>Improve performance when moving messages (#897)</code>](https://github.com/elementary/mail/commit/00ab0e480379d8adf2f8f42f6168a49fa640c63e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move capability (#895)</code>](https://github.com/elementary/mail/commit/af1b63f74924242bb967f72431c92def3ddc4312)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -241,6 +247,9 @@
 - [ ] [<code>Update flatpak actions to new namespace (#259)</code>](https://github.com/elementary/screenshot/commit/3da18f8329513df04fa53e4cd026baaf902cff95)
 - [ ] [<code>Bump runtime to 7.2 (#260)</code>](https://github.com/elementary/screenshot/commit/6ae4d467c8466e265ef3e1a6ea6feafcdd42467c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#261)</code>](https://github.com/elementary/screenshot/commit/2e331619bc8c2ea2647438dda51a19ef25be819e)
+- [ ] [<code>Metainfo Improvements (#265)</code>](https://github.com/elementary/screenshot/commit/5be455a89ccbfe820f11845164842b56f0b360af)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshot.metainfo.xml.in (#266)</code>](https://github.com/elementary/screenshot/commit/14a1c664ec4d3f63f92476d85329263c3563d11b)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.1 → HEAD](https://github.com/elementary/tasks/compare/6.3.1...HEAD)
 
@@ -432,12 +441,16 @@
 
 - [ ] [<code>ImapDialog: Fix freeze when a server sends no response (#256)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fa7a0a3cecbd23ee7de77a89c6b1ccfbe6eef376)
 - [ ] [<code>ImapDialog: Store most initial setup keys (#258)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4d663d28a843eab4ab0c07c83ddc7c66a5e235ff)
+- [ ] [<code>Metainfo Improvements (#260)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/3fef9156879f415eb08677225d3e184f1fb95e2a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update onlineaccounts.metainfo.xml.in (#261)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/40429f94d5e50c41e37f1e73a4cb0706d9f5371a)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
 - [ ] [<code>set-wallpaper: Fix delay value not shown as translated (#352)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c00e0250ddf8c495991049852ea4acea825bb2eb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Mark "Dim with dark style:" string as translatable (#353)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ab1403dc37839904571b1943a83b56274270660b)
+- [ ] [<code>Update pantheon-shell.metainfo.xml.in (#355)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/f71ddabd0bb3376010bbc158b0fb5bdf626142b1)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -814,6 +827,7 @@
 - [ ] [<code>NotificationRequest: typographical quotes (#75)</code>](https://github.com/elementary/portals/commit/549a7e5f19fb1fbea15e6bbfc8a8481bc39de24f)
 - [ ] [<code>Background: use commandline to try to get fallback app_id (#76)</code>](https://github.com/elementary/portals/commit/33bde59dbafe08c697dc2756172e705bf38be00a)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
+- [ ] [<code>Update portals.metainfo.xml.in (#81)</code>](https://github.com/elementary/portals/commit/b3829075baaf1ad04a88fc786eed79ea020737c0)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
