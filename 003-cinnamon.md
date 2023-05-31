@@ -101,8 +101,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>deskletManager.js: Fix incorrect variable name.</code>](https://github.com/linuxmint/cinnamon/commit/ec10d06d56f19fb211631ab108f7eb5a2d7f668d)
 - [ ] [<code>Halt the build if meson_install_schemas.py fails.</code>](https://github.com/linuxmint/cinnamon/commit/9a5a5b7d9cf14b4e44899c1918c2755255e798ea)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cs_themes: Add setting for Dark Mode</code>](https://github.com/linuxmint/cinnamon/commit/49223a3d20fb39c22ec24f26afb604cca4210eb5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/e83b91eef4a71e3a85f7a46ab09d4b78c4dfbc0c)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -261,6 +266,7 @@
 - [ ] [<code>clutter-text.c: Remove redundant clutter_text_set_buffer call in</code>](https://github.com/linuxmint/muffin/commit/5593efb3b91c8d1d6442aa8719cfb645f6e59fa4)
 - [ ] [<code>window.c: Fix copy/paste error in tile zone detection.</code>](https://github.com/linuxmint/muffin/commit/fc0e48626c553a2ad2588943bb67c2988df6374e)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/muffin/commit/93fc7272d605582745ac15925bfd1ded75702f77)
+- [ ] [<code>tiling: Expose tile 'push' actions that are currently used by</code>](https://github.com/linuxmint/muffin/commit/04e91f51325105bef5aee9049e245d89b4c11502)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
@@ -415,7 +421,14 @@
 - [ ] [<code>Fixed build with libraw 0.21 (#168)</code>](https://github.com/linuxmint/pix/commit/c8549cd28af2bf75ff19cd733bef5666da7dcf44)
 - [ ] [<code>Remove copyright notice from --version and About.</code>](https://github.com/linuxmint/pix/commit/50d5638b8f07f847c80ea8a29691c34969a562b5)
 - [ ] [<code>debian/control: Remove gnome-common (obsolete).</code>](https://github.com/linuxmint/pix/commit/5a5e1b3b085378d6c6e1aac96acd9b98a3270520)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Revert "Add support for dark mode"</code>](https://github.com/linuxmint/pix/commit/b0158bf1c2ad823b4e402a38e201c042bfc825ce)
+- [ ] [<code>Remove non-configurable dark mode</code>](https://github.com/linuxmint/pix/commit/84bfb0780996fee7b253007f50f5e5892971e20f)
+- [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/pix/commit/f24cffe97b5057fb7e3313a5b8f042bcbe0c2f9f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/78c83315d498796d0994ab414defcbb4693e642a)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.1...HEAD)
 
@@ -467,6 +480,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/xapp/commit/d692db84ce8a28f3f31c0ee9e63a880070c3f0c5)
+- [ ] [<code>Add XAppDarkModeManager to allow support for XDG desktop settings</code>](https://github.com/linuxmint/xapp/commit/2ca2990f408a743668d82cfd9ee2973fc7963acf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian: Change how the old xinit script is removed during install.</code>](https://github.com/linuxmint/xapp/commit/00fb587b259899710c96413c0a6f7115774fe9d5)
   - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
@@ -487,12 +503,20 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Background colour of presentation view fixed. (#600)</code>](https://github.com/linuxmint/xreader/commit/cafcc38f4d8b952d1d37fd995e788820cc081821)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xreader/commit/d8eaa9d13c97b6a2465b6476abe531ad46545465)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
 - [ ] [<code>Add AVIF and HEIF support.</code>](https://github.com/linuxmint/xviewer/commit/00eb314e23f48e74582d70623777d6740d14fe0d)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xviewer/commit/0b31bd977b4dae1c21f1009b64c993c65af90080)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -511,6 +535,10 @@
 - [ ] [<code>Dark mode: Delegate to libxapp</code>](https://github.com/linuxmint/hypnotix/commit/7552c7aad95beb16e9f6390e56464776b7d7fd57)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>gsettings: Remove prefer-dark-mode</code>](https://github.com/linuxmint/hypnotix/commit/03955754edabb268e3d933e833501bc463f633b6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix dark mode support</code>](https://github.com/linuxmint/hypnotix/commit/19bfb8dc7b543f7a48d5ef79eda59df6292bb2e1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/9dac05dd626c1c41a7d67f11d4257ea7d85da665)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
@@ -596,6 +624,12 @@
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
 - [ ] [<code>Save correct window size on exit (#570)</code>](https://github.com/linuxmint/xed/commit/efb1a66c52b97b856ff93244dfaf566db835ce40)
+- [ ] [<code>dark mode: Delegate to libxapp</code>](https://github.com/linuxmint/xed/commit/233bc4afed114675376534182b8c83d1d6c6d193)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix build.</code>](https://github.com/linuxmint/xed/commit/f3cd88025009f8fce0d4011744b0e4cef9ab1552)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/e0a9c419b5c6a364b3fc02e2cef2d1453186ef59)
+  - <sub>Tags: <code>master.mint21</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.0...HEAD)
 
@@ -603,6 +637,10 @@
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove portal gschema (moving to libxapp).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/7fd790a37394579075b7134971f2f5def649d14c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Packaging: Depend on xapps-common</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d22f1af0a78fe915c325478490183358b820080)
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
