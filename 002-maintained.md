@@ -340,6 +340,10 @@
 - [ ] [<code>Merge branch 'markdown-import' of github.com:phase1geo/Minder into markdown-import</code>](https://github.com/phase1geo/minder/commit/bf0b37841e11c4a7fcb744f863cac55496b06afc)
 - [ ] [<code>Improving Markdown export output for images with node text.</code>](https://github.com/phase1geo/minder/commit/c3618a17b05a975c57213445374802f66eacee70)
 - [ ] [<code>Merge branch 'markdown-import'</code>](https://github.com/phase1geo/minder/commit/a2ed4373e6b57bca6656362726487eae0ca39e92)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/c58a690d9209c042b0cdb4b5e34448025c22cce9)
+- [ ] [<code>Cleaning up debug output and updating version.</code>](https://github.com/phase1geo/minder/commit/9da19bc3e377803a8fdfc0692d374a1ab5a4446d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issue with Control-W when only one tab is displayed.</code>](https://github.com/phase1geo/minder/commit/b8cded8d8cd130cb32cc64bf4b047ad36b62b253)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
