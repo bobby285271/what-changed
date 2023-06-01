@@ -24,6 +24,8 @@
 - [ ] [<code>AppInfoView: warn about direct geoclue access (#2041)</code>](https://github.com/elementary/appcenter/commit/44c187f2987cb13ceb59358125cf4c82178db3e5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Homepage: misc banner and carousel cleanup (#2042)</code>](https://github.com/elementary/appcenter/commit/09b1786da3321fcadb0bb6896fe715cf06888940)
+- [ ] [<code>AppInfoView: warn about sandbox escape (#2039)</code>](https://github.com/elementary/appcenter/commit/44d98ad7b68506db0c0f0bbb6979c6f198918b0e)
+- [ ] [<code>AppInfoView: warn about settings access (#2043)</code>](https://github.com/elementary/appcenter/commit/3cc4715ee3c682db6d9672ad943b3ec3afbf45ed)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -504,6 +506,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d36a81394a30c541ab013d048f189c9d8c39747f)
 - [ ] [<code>README: Update screenshot path (#154)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d2ca1b8d8dd01ff25c935d3ce2786cb80589962)
+- [ ] [<code>Release 7.0.0 (#155)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/b9a68af3c665f863a0fbf049d975a5a8f389e2d2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -554,6 +558,8 @@
 - [ ] [<code>Switch to GHCR containers (#277)</code>](https://github.com/elementary/default-settings/commit/4c6f6acb67d342204edb61328a5584c822ac9b45)
 - [ ] [<code>Overrides: set location services enabled by default (#279)</code>](https://github.com/elementary/default-settings/commit/c3bd215a5fb8e30a6c0e4622d8ad9c4c62c0c02a)
   - <sub>Keywords: <code>org.gnome.system</code></sub>
+- [ ] [<code>Release 7.0.2 (#280)</code>](https://github.com/elementary/default-settings/commit/a3cb7b23408ee7f54951fca1c6047d2811ade7b6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
