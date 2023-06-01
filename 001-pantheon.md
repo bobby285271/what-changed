@@ -23,6 +23,7 @@
 - [ ] [<code>AppInfoView: warn about home permissions (#2040)</code>](https://github.com/elementary/appcenter/commit/2c453ade1a608415b67dff070dde1b5907b913d6)
 - [ ] [<code>AppInfoView: warn about direct geoclue access (#2041)</code>](https://github.com/elementary/appcenter/commit/44c187f2987cb13ceb59358125cf4c82178db3e5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Homepage: misc banner and carousel cleanup (#2042)</code>](https://github.com/elementary/appcenter/commit/09b1786da3321fcadb0bb6896fe715cf06888940)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
 
@@ -46,6 +47,9 @@
 - [ ] [<code>Metainfo Improvements (#255)</code>](https://github.com/elementary/calculator/commit/0b1df48d03c87da52e17d70ee33991cfbdc6c16e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update calculator.metainfo.xml.in (#256)</code>](https://github.com/elementary/calculator/commit/dbc0d2b900ea023ffc50e0d2207455260cda626b)
+- [ ] [<code>Release 2.0.2 (#253)</code>](https://github.com/elementary/calculator/commit/6d19987a92611645b7849565f657593344d4bb2f)
+  - <sub>Tags: <code>2.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -89,6 +93,9 @@
 - [ ] [<code>Bump runtime to 7.2 (#259)</code>](https://github.com/elementary/camera/commit/81a0424fa3cca4ca4cb0bf82ee719d65f868ac76)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#260)</code>](https://github.com/elementary/camera/commit/6c9f8c237b32b92e19764b0b8992bec2505c8980)
 - [ ] [<code>Metainfo improvements (#263)</code>](https://github.com/elementary/camera/commit/5207bd823236f3830591e0d28fde25f0d8eebfa5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 6.2.2 (#262)</code>](https://github.com/elementary/camera/commit/9b265468c71231a0f70463a1aa1fc18b27391cf6)
+  - <sub>Tags: <code>6.2.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
@@ -224,6 +231,9 @@
 - [ ] [<code>Update metainfo for next release (#751)</code>](https://github.com/elementary/music/commit/10793ac6168d53d32f76880277ef39509aa35d14)
 - [ ] [<code>MainWindow: use Headerbars (#753)</code>](https://github.com/elementary/music/commit/e4b6a0084b75162c733aa5bbfa96aa264bdc6def)
 - [ ] [<code>MainWindow: Gtk.DropTarget: use drop instead on_drop (#754)</code>](https://github.com/elementary/music/commit/1ac0a43c452013ebf0b63680818ef7b9a928386b)
+- [ ] [<code>Release 7.1.0 (#755)</code>](https://github.com/elementary/music/commit/cced37652074c163139e667067dea71eaf543260)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -250,6 +260,9 @@
 - [ ] [<code>Metainfo Improvements (#265)</code>](https://github.com/elementary/screenshot/commit/5be455a89ccbfe820f11845164842b56f0b360af)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update screenshot.metainfo.xml.in (#266)</code>](https://github.com/elementary/screenshot/commit/14a1c664ec4d3f63f92476d85329263c3563d11b)
+- [ ] [<code>Release 6.0.4 (#264)</code>](https://github.com/elementary/screenshot/commit/462d429797e71146b9037c956c988eb311699dd3)
+  - <sub>Tags: <code>6.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.1 → HEAD](https://github.com/elementary/tasks/compare/6.3.1...HEAD)
 
@@ -289,6 +302,9 @@
 - [ ] [<code>Update flatpak actions to new namespace (#328)</code>](https://github.com/elementary/videos/commit/36c2bdd8ff630e144dcfeaaec59db2833c8837c0)
 - [ ] [<code>Bump runtime to 7.2 (#329)</code>](https://github.com/elementary/videos/commit/5a5d7e97add7f313c2cafed08f47a8f0a4420a11)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#330)</code>](https://github.com/elementary/videos/commit/7675956475fbe0cf5de690c13d73287903afd4a6)
+- [ ] [<code>Metainfo Improvements (#331)</code>](https://github.com/elementary/videos/commit/a34617b38e52b82958004f00825cc802a532fc17)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update metainfo.xml</code>](https://github.com/elementary/videos/commit/fafc25f751dc23e5bc20caa412a1c53a9961904a)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.0 → HEAD](https://github.com/elementary/sideload/compare/6.2.0...HEAD)
 
@@ -778,6 +794,9 @@
 - [ ] [<code>Bump runtime to 7.2 (#99)</code>](https://github.com/elementary/capnet-assist/commit/9fd835cb057209b2974586d4e673f870b1efb45d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#100)</code>](https://github.com/elementary/capnet-assist/commit/7798a2d01bafbd4d3ddb1ccea44299054be375d4)
 - [ ] [<code>Metainfo improvements (#102)</code>](https://github.com/elementary/capnet-assist/commit/a891aef44993577034a28417a2ca74eacd05f260)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 2.4.4 (#101)</code>](https://github.com/elementary/capnet-assist/commit/3402c143f5487fecf2330f4af9c46032532c0a9c)
+  - <sub>Tags: <code>2.4.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
