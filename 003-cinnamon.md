@@ -2,13 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python.
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.7 → HEAD](https://github.com/linuxmint/bulky/compare/2.7...HEAD)
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.8 → HEAD](https://github.com/linuxmint/bulky/compare/2.8...HEAD)
 
-- [ ] [<code>Update bulky.ui to newer gtk format.</code>](https://github.com/linuxmint/bulky/commit/ec0a91be8cbec1d3640b8b37c1774fc0e96ec3fa)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Explain enumeration in the entry placeholder text.</code>](https://github.com/linuxmint/bulky/commit/a213e1165c3ee2c47d642a932b6607c80bff3c59)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.6.8...HEAD)
 
@@ -126,6 +121,8 @@
 - [ ] [<code>gnome-desktop-thumbnailer.c: Only attempt to thumbnail internally</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0f6020ffc9608dd71042dee878e0f18d43e99e91)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4e9b5e5a5afeaa74d2ee01fab835ecd3650bb280)
 - [ ] [<code>org.cinnamon.desktop.keybindings: Add entries for warping the pointer</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7aea93108777532e4a69a6780029ae1a2973d384)
+- [ ] [<code>Remove color-scheme additions (added in d880133b38da46b22).</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e3837a04a39b86554e65423536cbb5e0c33393e)
+- [ ] [<code>Update cvc symbols.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2f1e775e30b26d8f6171f8524f59a18e0c89a716)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
@@ -483,7 +480,13 @@
 - [ ] [<code>Add XAppDarkModeManager to allow support for XDG desktop settings</code>](https://github.com/linuxmint/xapp/commit/2ca2990f408a743668d82cfd9ee2973fc7963acf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian: Change how the old xinit script is removed during install.</code>](https://github.com/linuxmint/xapp/commit/00fb587b259899710c96413c0a6f7115774fe9d5)
+- [ ] [<code>debian: Update .symbols.</code>](https://github.com/linuxmint/xapp/commit/6d246eb9afba705fd0af14ef43635126ef82348d)
+- [ ] [<code>2.6.0</code>](https://github.com/linuxmint/xapp/commit/ced7f6b35e7fc12d604adf9482035950bccc2875)
+  - <sub>Tags: <code>2.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update documentation</code>](https://github.com/linuxmint/xapp/commit/c94f0b05afa8fd8f5cebbfc07a931bb77ed80e53)
   - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -505,7 +508,11 @@
 - [ ] [<code>Background colour of presentation view fixed. (#600)</code>](https://github.com/linuxmint/xreader/commit/cafcc38f4d8b952d1d37fd995e788820cc081821)
   - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xreader/commit/d8eaa9d13c97b6a2465b6476abe531ad46545465)
-  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Default: Open documents in page mode</code>](https://github.com/linuxmint/xreader/commit/579cb4be1d98675ddd9356e27a5fb9526a89bb7b)
+- [ ] [<code>3.8.0</code>](https://github.com/linuxmint/xreader/commit/8e539b91fb18bcfc7781a8411fa31de4a81ae3ce)
+  - <sub>Tags: <code>3.8.0</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
@@ -514,9 +521,11 @@
 - [ ] [<code>Add AVIF and HEIF support.</code>](https://github.com/linuxmint/xviewer/commit/00eb314e23f48e74582d70623777d6740d14fe0d)
   - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xviewer/commit/0b31bd977b4dae1c21f1009b64c993c65af90080)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xviewer/commit/195b68dfeddb02a2ad2e2977541383698f0db25b)
+  - <sub>Tags: <code>3.4.0</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -570,8 +579,12 @@
 - [ ] [<code>Enable touchpad tap-to-click</code>](https://github.com/linuxmint/slick-greeter/commit/85f83be9977faf2482d38d2cc289f0542b1c06a4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Update debian compatibility and standards</code>](https://github.com/linuxmint/slick-greeter/commit/9bbbc41aa1ae927dfe798e59c0960d74de843fa6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/slick-greeter/commit/d64ed00c0196173acc0bedf2717c814e6b4ef24f)
+- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/slick-greeter/commit/1103709fae9ed3b4b6b4f1e8befb639fcea9e82e)
+  - <sub>Tags: <code>1.8.0</code> <code>master.lmde5</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
 
@@ -629,7 +642,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix build.</code>](https://github.com/linuxmint/xed/commit/f3cd88025009f8fce0d4011744b0e4cef9ab1552)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/e0a9c419b5c6a364b3fc02e2cef2d1453186ef59)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xed/commit/5b8fceef6d531a5920b9f91082449730adab279c)
+  - <sub>Tags: <code>3.4.0</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.0...HEAD)
 
