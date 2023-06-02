@@ -214,6 +214,8 @@
 - [ ] [<code>Improve performance when moving messages (#897)</code>](https://github.com/elementary/mail/commit/00ab0e480379d8adf2f8f42f6168a49fa640c63e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move capability (#895)</code>](https://github.com/elementary/mail/commit/af1b63f74924242bb967f72431c92def3ddc4312)
+- [ ] [<code>Application: force use of Portals (#902)</code>](https://github.com/elementary/mail/commit/7f0e407e6bc47603d402cab5bd0c04d3a8de679b)
+- [ ] [<code>Move menu to FoldersListView (#905)</code>](https://github.com/elementary/mail/commit/ffd7f3f6cb352a82215d896578a689875b29034e)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
 
@@ -287,6 +289,9 @@
 - [ ] [<code>Application: Implement `startup()` (#710)</code>](https://github.com/elementary/terminal/commit/1a114de68b754e10061a746d62090b89489ab455)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Application: Handle Minimized in The Primary Instance (#724)</code>](https://github.com/elementary/terminal/commit/4fda3c0760dcfced6c73f02d80f2ca50c32cb51e)
+- [ ] [<code>Install man page with meson (#731)</code>](https://github.com/elementary/terminal/commit/3a23da7afd5ed799a276527846b02f3fff69eabc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
 
@@ -307,6 +312,9 @@
 - [ ] [<code>Metainfo Improvements (#331)</code>](https://github.com/elementary/videos/commit/a34617b38e52b82958004f00825cc802a532fc17)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update metainfo.xml</code>](https://github.com/elementary/videos/commit/fafc25f751dc23e5bc20caa412a1c53a9961904a)
+- [ ] [<code>Release 2.9.1 (#332)</code>](https://github.com/elementary/videos/commit/ea1e388a7d7c4e612e9a6f448905c8f2c0310bad)
+  - <sub>Tags: <code>2.9.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.0 → HEAD](https://github.com/elementary/sideload/compare/6.2.0...HEAD)
 
@@ -507,6 +515,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d36a81394a30c541ab013d048f189c9d8c39747f)
 - [ ] [<code>README: Update screenshot path (#154)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d2ca1b8d8dd01ff25c935d3ce2786cb80589962)
 - [ ] [<code>Release 7.0.0 (#155)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/b9a68af3c665f863a0fbf049d975a5a8f389e2d2)
+  - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
@@ -559,6 +568,7 @@
 - [ ] [<code>Overrides: set location services enabled by default (#279)</code>](https://github.com/elementary/default-settings/commit/c3bd215a5fb8e30a6c0e4622d8ad9c4c62c0c02a)
   - <sub>Keywords: <code>org.gnome.system</code></sub>
 - [ ] [<code>Release 7.0.2 (#280)</code>](https://github.com/elementary/default-settings/commit/a3cb7b23408ee7f54951fca1c6047d2811ade7b6)
+  - <sub>Tags: <code>7.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
@@ -824,6 +834,10 @@
 - [ ] [<code>Check for firmware updates (#45)</code>](https://github.com/elementary/settings-daemon/commit/5751eebe543a1d99283e4b9171013a6951a28c91)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Screenshots housekeeping (#56)</code>](https://github.com/elementary/settings-daemon/commit/b7799a17730d48322a8bad5f6d171b7f3c42ad5e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo Improvements (#62)</code>](https://github.com/elementary/settings-daemon/commit/bf0b57938d3c5dd6f65a8d1f6393515a7cb5261b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
