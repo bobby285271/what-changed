@@ -346,6 +346,8 @@
 - [ ] [<code>Fixing issue with Control-W when only one tab is displayed.</code>](https://github.com/phase1geo/minder/commit/b8cded8d8cd130cb32cc64bf4b047ad36b62b253)
 - [ ] [<code>Fixing tab issues.</code>](https://github.com/phase1geo/minder/commit/1bc3fb5d503725747826fc7161009913d69edf32)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Cleaning up previously committed files.</code>](https://github.com/phase1geo/minder/commit/3666e59e486aa6b62d6e6599699c51b55049ec50)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
