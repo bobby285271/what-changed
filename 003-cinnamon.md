@@ -96,20 +96,35 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>deskletManager.js: Fix incorrect variable name.</code>](https://github.com/linuxmint/cinnamon/commit/ec10d06d56f19fb211631ab108f7eb5a2d7f668d)
 - [ ] [<code>Halt the build if meson_install_schemas.py fails.</code>](https://github.com/linuxmint/cinnamon/commit/9a5a5b7d9cf14b4e44899c1918c2755255e798ea)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cs_themes: Add setting for Dark Mode</code>](https://github.com/linuxmint/cinnamon/commit/49223a3d20fb39c22ec24f26afb604cca4210eb5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/e83b91eef4a71e3a85f7a46ab09d4b78c4dfbc0c)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>KeybindingWidgets.py: Ignore key-release events that aren't part of</code>](https://github.com/linuxmint/cinnamon/commit/10c9edeed854322e74b9d520f7e9713bdb65a732)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Use switcheroo for gpu offloading. (#11645)</code>](https://github.com/linuxmint/cinnamon/commit/00b0a65bd47d805b7bdbfcc4723f3d43ac1ea116)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>layout.js: Check existence of monitor before usage (#11348)</code>](https://github.com/linuxmint/cinnamon/commit/b9089556954ead04f89abb4f2bf9f087a538edf6)
+- [ ] [<code>virtualKeyboard.js: Check layout existence before usage (#11346)</code>](https://github.com/linuxmint/cinnamon/commit/f543a31429890cd75d9c167348f54641bdc189e2)
+- [ ] [<code>build.yml: Add xdg-desktop-portal-xapp dependency (#11679)</code>](https://github.com/linuxmint/cinnamon/commit/754eb797126b87304a10261d2fd3c559e46e2ec1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>notifications: Prefer symbolic icons (#11637)</code>](https://github.com/linuxmint/cinnamon/commit/f2e778c3235c9ecaf7c83efa08cee6006721ef3b)
+- [ ] [<code>background effects: rework and turn on</code>](https://github.com/linuxmint/cinnamon/commit/6aeeb22fc9a2ba339b606f343ec025dce6f796d7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use stage coordinates for cogl_framebuffer_read_pixels().</code>](https://github.com/linuxmint/cinnamon/commit/93135ed3741cab016b75a91a03c1fc9b48ec70b4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
 - [ ] [<code>Fix memleaks (#306)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/51010d2fd02ff6de1170e7e776905d73cc76b650)
 - [ ] [<code>network/net-device.c: net_device_get_valid_connections - don't</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9aecc340f6c14e3e04e4e9e84356403f7f743f71)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/6d1d9c59cc3b9c12c504fc78566770667328f5cf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/15b53f99f4c15475ee063aab257c47794bb27a81)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.6.2...HEAD)
 
@@ -123,12 +138,16 @@
 - [ ] [<code>org.cinnamon.desktop.keybindings: Add entries for warping the pointer</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7aea93108777532e4a69a6780029ae1a2973d384)
 - [ ] [<code>Remove color-scheme additions (added in d880133b38da46b22).</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e3837a04a39b86554e65423536cbb5e0c33393e)
 - [ ] [<code>Update cvc symbols.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2f1e775e30b26d8f6171f8524f59a18e0c89a716)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d0eda27ea355bbcfe619dedd6a9f87356485d83)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
 
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-menus/commit/9f5f929523b89ab017d9dcfcea3fe495000b8874)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/c6bb039885ccd6bb3c50d9ee76ab8af4b0a3b8cf)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.6.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.6.3...HEAD)
 
@@ -143,15 +162,19 @@
 - [ ] [<code>stage: Multiply the stage window by the global scale.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6c8c2e72fa6fa355e9a59880ad60a669477c33a3)
 - [ ] [<code>Fix stacking issue with the backup window.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/654e3399300ee1dbf352d843e10ebe0df4763763)
 - [ ] [<code>Add missing dependency on x11-util</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f7ccca4846c2ff19281b897f3f7bcef758007e0c)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/4316ca803b0748382524ba92721289be8e3be58d)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
 - [ ] [<code>main.c: Don't set GTK_OVERLAY_SCROLLING.</code>](https://github.com/linuxmint/cinnamon-session/commit/eee407c80cd186905d4ebb632a6ebb48a7de93bf)
-  - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-session/commit/8fd977317587218edf9d52e72bc3fa2e16f28f85)
-  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-session/commit/6e50b977ae9657905f38627e40e861fe3c068e34)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.2...HEAD)
 
@@ -164,12 +187,16 @@
 - [ ] [<code>power: Allow the minimum display brightness to be overridden.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/85c0024c29bf0e5b8f49b91a5b0aaec0b18e0730)
 - [ ] [<code>csd-xsettings-manager.c: Manage "gtk-overlay-scrolling".</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a5e3550892c34a28a3ed7879b5bcb432c158c174)
 - [ ] [<code>power: Add settings to disable low battery warnings for connected devices (#379)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/314e8263804c72b3a1955b7fad71a14e865d1bd2)
-  - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8afb3c83eeeeccc9c703bc42274508190dab13bc)
-  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/75303d77a0d53d0fae3369bd540e570d3f3d768a)
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fc88926662e43fd8e4e17c14736e6b0387cfb1f)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/b469011d4204293acf6ce6e0f6ff9519f3496d74)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.6.1 → HEAD](https://github.com/linuxmint/cjs/compare/5.6.1...HEAD)
 
@@ -183,7 +210,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cjs/commit/7d66c470042db4a4100fc92a9b915402235e5898)
-  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cjs/commit/963947beb0b6cfa78440d7dcd684faeaa2342382)
+  - <sub>Tags: <code>5.8.0</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5e0b768b3a5bf88a828a2489b9428997b797c1ed → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5e0b768b3a5bf88a828a2489b9428997b797c1ed...HEAD)
 
@@ -195,6 +224,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove obsolete icons</code>](https://github.com/linuxmint/folder-color-switcher/commit/34651c0ac787d60d883a974a4e52f8a1a8352ce8)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.5.6</code>](https://github.com/linuxmint/folder-color-switcher/commit/272cb66cedca8e22e8795c141bcf33291bafdba3)
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [e17f8a4620827235dabbe5221bd0ee8c44dad0d5 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/e17f8a4620827235dabbe5221bd0ee8c44dad0d5...HEAD)
 
@@ -264,7 +294,9 @@
 - [ ] [<code>window.c: Fix copy/paste error in tile zone detection.</code>](https://github.com/linuxmint/muffin/commit/fc0e48626c553a2ad2588943bb67c2988df6374e)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/muffin/commit/93fc7272d605582745ac15925bfd1ded75702f77)
 - [ ] [<code>tiling: Expose tile 'push' actions that are currently used by</code>](https://github.com/linuxmint/muffin/commit/04e91f51325105bef5aee9049e245d89b4c11502)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/muffin/commit/4b19c78fdc5b6e8b904193bd764ae7d5591c655e)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
 
@@ -306,7 +338,11 @@
 - [ ] [<code>nemo-list-view.c: Remove stray debug line.</code>](https://github.com/linuxmint/nemo/commit/91658573fdb7f0e52e1d1aa189254926d2fd14d4)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/nemo/commit/ab5216102e5eafdbc722ed201374630b2dce242f)
 - [ ] [<code>actions: Make NemoActionManager more efficient, and skip invalid</code>](https://github.com/linuxmint/nemo/commit/d8604af7c400b78dad8517f6738a769cd7086fe1)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Update bug/feature templates.</code>](https://github.com/linuxmint/nemo/commit/858713f240ac16d886861865305cc9069c8ba03b)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/054e3dcf20c853cc60d912586f950a073f9310d3)
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/nemo/commit/6cbc4cf7f2c669ce2084926aeb1432ccd239a9bc)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
@@ -328,6 +364,9 @@
 - [ ] [<code>Switch to webkit2gtk-4.1 (#481)</code>](https://github.com/linuxmint/nemo-extensions/commit/bc093c2aead12f17407106d359999f5a0ea0f640)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/e28f079829ce4bb4fefe6824092961c500590a21)
+  - <sub>Tags: <code>5.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [2.8.9 → HEAD](https://github.com/linuxmint/pix/compare/2.8.9...HEAD)
 
@@ -418,14 +457,13 @@
 - [ ] [<code>Fixed build with libraw 0.21 (#168)</code>](https://github.com/linuxmint/pix/commit/c8549cd28af2bf75ff19cd733bef5666da7dcf44)
 - [ ] [<code>Remove copyright notice from --version and About.</code>](https://github.com/linuxmint/pix/commit/50d5638b8f07f847c80ea8a29691c34969a562b5)
 - [ ] [<code>debian/control: Remove gnome-common (obsolete).</code>](https://github.com/linuxmint/pix/commit/5a5e1b3b085378d6c6e1aac96acd9b98a3270520)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Revert "Add support for dark mode"</code>](https://github.com/linuxmint/pix/commit/b0158bf1c2ad823b4e402a38e201c042bfc825ce)
 - [ ] [<code>Remove non-configurable dark mode</code>](https://github.com/linuxmint/pix/commit/84bfb0780996fee7b253007f50f5e5892971e20f)
 - [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/pix/commit/f24cffe97b5057fb7e3313a5b8f042bcbe0c2f9f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/78c83315d498796d0994ab414defcbb4693e642a)
-  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.1...HEAD)
 
@@ -433,8 +471,10 @@
 - [ ] [<code>Correct a typo in `README.md` (#175)</code>](https://github.com/linuxmint/warpinator/commit/52f9dda44d9f047e4bac00034de82e6cd8e1f2eb)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/warpinator/commit/ff99e4946695c53ee78a97bb7a9dff36aa8876d3)
 - [ ] [<code>Add `bash` syntax highlighting to `README.md` (#176)</code>](https://github.com/linuxmint/warpinator/commit/311046d000d943d2563c39058fab2fa67ca3c3fe)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.2</code>](https://github.com/linuxmint/warpinator/commit/b5c0513675520db79b1198cf6bdb89b22512cbca)
+  - <sub>Tags: <code>1.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
@@ -468,7 +508,6 @@
 - [ ] [<code>makedoc: Update target URL</code>](https://github.com/linuxmint/xapp/commit/97470cf2bd21f8fdb8560433db1283f9936cef6a)
 - [ ] [<code>debian: Clean up control file</code>](https://github.com/linuxmint/xapp/commit/bbe7a5920939e0fab04dcb66110818ee762220da)
 - [ ] [<code>debian: Add lintian-overrides files</code>](https://github.com/linuxmint/xapp/commit/2e65c9bb66279c3566aa0bfbf857116ccc8345cc)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Add XAppGpuOffloadHelper.</code>](https://github.com/linuxmint/xapp/commit/5826b7ea92c034e3cae0d112ede4c78dd6ee2822)
   - <sub>Files: <code>meson.build</code></sub>
@@ -485,8 +524,9 @@
   - <sub>Tags: <code>2.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update documentation</code>](https://github.com/linuxmint/xapp/commit/c94f0b05afa8fd8f5cebbfc07a931bb77ed80e53)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>xapp-gpu-offload-helper.c: Check the GLib version before using</code>](https://github.com/linuxmint/xapp/commit/2ad05a81df8d9093ed587040fc65e1a9f9f95bb6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
 
@@ -506,25 +546,23 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Background colour of presentation view fixed. (#600)</code>](https://github.com/linuxmint/xreader/commit/cafcc38f4d8b952d1d37fd995e788820cc081821)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xreader/commit/d8eaa9d13c97b6a2465b6476abe531ad46545465)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Default: Open documents in page mode</code>](https://github.com/linuxmint/xreader/commit/579cb4be1d98675ddd9356e27a5fb9526a89bb7b)
 - [ ] [<code>3.8.0</code>](https://github.com/linuxmint/xreader/commit/8e539b91fb18bcfc7781a8411fa31de4a81ae3ce)
-  - <sub>Tags: <code>3.8.0</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>3.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.2.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.2.12...HEAD)
 
 - [ ] [<code>Add AVIF and HEIF support.</code>](https://github.com/linuxmint/xviewer/commit/00eb314e23f48e74582d70623777d6740d14fe0d)
-  - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Add dark mode support</code>](https://github.com/linuxmint/xviewer/commit/0b31bd977b4dae1c21f1009b64c993c65af90080)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xviewer/commit/195b68dfeddb02a2ad2e2977541383698f0db25b)
-  - <sub>Tags: <code>3.4.0</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>3.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 ## random
 
@@ -539,7 +577,6 @@
 - [ ] [<code>Added shortcuts support to zap through channels (#232)</code>](https://github.com/linuxmint/hypnotix/commit/0d2808347ec7cbe8390d1b655a9d6a41dfb2fc75)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add zh_TW Traditional Chinese locale (#275)</code>](https://github.com/linuxmint/hypnotix/commit/4b96a058b6ff48da19351a3f87e67015692076ca)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Dark mode: Delegate to libxapp</code>](https://github.com/linuxmint/hypnotix/commit/7552c7aad95beb16e9f6390e56464776b7d7fd57)
   - <sub>Keywords: <code>usr</code></sub>
@@ -549,6 +586,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/9dac05dd626c1c41a7d67f11d4257ea7d85da665)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add xapp to workflow.</code>](https://github.com/linuxmint/hypnotix/commit/8e8a95b5ad632aa1a61f9e224612dfe0fcf0d5e0)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -579,11 +618,10 @@
 - [ ] [<code>Enable touchpad tap-to-click</code>](https://github.com/linuxmint/slick-greeter/commit/85f83be9977faf2482d38d2cc289f0542b1c06a4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Update debian compatibility and standards</code>](https://github.com/linuxmint/slick-greeter/commit/9bbbc41aa1ae927dfe798e59c0960d74de843fa6)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/slick-greeter/commit/d64ed00c0196173acc0bedf2717c814e6b4ef24f)
 - [ ] [<code>1.8.0</code>](https://github.com/linuxmint/slick-greeter/commit/1103709fae9ed3b4b6b4f1e8befb639fcea9e82e)
-  - <sub>Tags: <code>1.8.0</code> <code>master.lmde5</code></sub>
+  - <sub>Tags: <code>1.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.14 → HEAD](https://github.com/linuxmint/sticky/compare/1.14...HEAD)
@@ -630,9 +668,16 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Don't use the deprecated Gtk.TreeView.rules_hint feature (#201)</code>](https://github.com/linuxmint/timeshift/commit/7ab8afc51b085f647eedfe80062f32775e85cdf9)
 - [ ] [<code>docs: automatically generate timeshift-gtk manpage (#194)</code>](https://github.com/linuxmint/timeshift/commit/bd4d2b5b5c00b7eb7e45078573b8cc83a46c7068)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use an unsafe cast (#200)</code>](https://github.com/linuxmint/timeshift/commit/a31bfe628e2b7b79b37b8760e8156c5633341d66)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/8ed0ec780b342424d608fd6e614c4b55eb6919c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>git: Remove generate man pages</code>](https://github.com/linuxmint/timeshift/commit/cd01296fbb7f7ced192b2a55306e0d1da96187b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>23.06.1</code>](https://github.com/linuxmint/timeshift/commit/0b3e43a1e4a26e06c85b97bf1749bef0e91d8d79)
+  - <sub>Tags: <code>23.06.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
@@ -643,19 +688,23 @@
 - [ ] [<code>Fix build.</code>](https://github.com/linuxmint/xed/commit/f3cd88025009f8fce0d4011744b0e4cef9ab1552)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/e0a9c419b5c6a364b3fc02e2cef2d1453186ef59)
 - [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xed/commit/5b8fceef6d531a5920b9f91082449730adab279c)
-  - <sub>Tags: <code>3.4.0</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>3.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.0...HEAD)
 
 - [ ] [<code>Remove cinnamon-desktop dependency (not needed).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5130d36ff670a53ae0d23cab238496b5c04b95b0)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove portal gschema (moving to libxapp).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/7fd790a37394579075b7134971f2f5def649d14c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Packaging: Depend on xapps-common</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d22f1af0a78fe915c325478490183358b820080)
+- [ ] [<code>1.0.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/184a312a92817053ae7c5cc06c08c82cc5001d6c)
+  - <sub>Tags: <code>1.0.1</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
