@@ -237,6 +237,12 @@
 - [ ] [<code>Update prod</code>](https://github.com/alainm23/planner/commit/696fb7ab3c66ea4a14a5167cb5b44e9444294ecb)
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/6766304ca32218bbb60183904a0290ce8c29e4ea)
+- [ ] [<code>Add Turkish translation</code>](https://github.com/alainm23/planner/commit/a5378f82107b9246f0910e3ff8ebf26e501eefa9)
+- [ ] [<code>Fix a typo in App.vala</code>](https://github.com/alainm23/planner/commit/1fbd4e16eb085833f0e415623cd80ae30e58db1a)
+- [ ] [<code>Keep POTFILES ordered</code>](https://github.com/alainm23/planner/commit/e4e2ee7335a0496b70d5de0e3f5331e6b55f7268)
+- [ ] [<code>Merge pull request #996 from sabriunal/add-turkish</code>](https://github.com/alainm23/planner/commit/4499d29fe99087a19d14a779deee7fc20d152dee)
+- [ ] [<code>Merge pull request #997 from sabriunal/fix-typo</code>](https://github.com/alainm23/planner/commit/29d9ce0bb71d1ecd4eccdb06a9663d9bb2b5af01)
+- [ ] [<code>Merge pull request #998 from sabriunal/reorder-potfile</code>](https://github.com/alainm23/planner/commit/86c817a8a45278a0022b078c08082ed1f7fddf88)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
@@ -348,6 +354,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Cleaning up previously committed files.</code>](https://github.com/phase1geo/minder/commit/3666e59e486aa6b62d6e6599699c51b55049ec50)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing issues with tab naming of new, unchanged documents.</code>](https://github.com/phase1geo/minder/commit/a1284b0315681f6187f1ca823b9d6ddef72bf803)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
