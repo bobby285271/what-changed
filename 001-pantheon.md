@@ -27,31 +27,8 @@
 - [ ] [<code>AppInfoView: warn about sandbox escape (#2039)</code>](https://github.com/elementary/appcenter/commit/44d98ad7b68506db0c0f0bbb6979c6f198918b0e)
 - [ ] [<code>AppInfoView: warn about settings access (#2043)</code>](https://github.com/elementary/appcenter/commit/3cc4715ee3c682db6d9672ad943b3ec3afbf45ed)
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.1 → HEAD](https://github.com/elementary/calculator/compare/2.0.1...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
-- [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/calculator/commit/ca382d8723e3a31b08dc6e30036154eae595efd1)
-- [ ] [<code>Update screenshot filename in README.md (#235)</code>](https://github.com/elementary/calculator/commit/a339efca6361b3c7daba8156744f52040a660920)
-- [ ] [<code>Application: use startup () and clean up (#237)</code>](https://github.com/elementary/calculator/commit/b6a8535f12c0db03f9336ce7ec568559e5a1b5be)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Hardcode elementary styles, set empty title label (#238)</code>](https://github.com/elementary/calculator/commit/f7536e36615924a5aede5097131bba19f8182010)
-- [ ] [<code>actions/checkout@v3 (#239)</code>](https://github.com/elementary/calculator/commit/619f0e3e7a4654b46f1edc25ebc9c060eef02806)
-- [ ] [<code>Copy entry content on Ctrl+C (#244)</code>](https://github.com/elementary/calculator/commit/51dcc8bbb2249f053e1ee441c62055f12d658a2a)
-- [ ] [<code>Paste text into entry on Ctrl+V (#245)</code>](https://github.com/elementary/calculator/commit/2c5023e9c7f30e00ee29f8a84f45bd6a97de7b20)
-- [ ] [<code>Switch to GHCR container (#247)</code>](https://github.com/elementary/calculator/commit/096438e22634e08d6472df66c73ecf3d7451e71d)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/calculator/commit/c67dc392c357d2dde90d2f4482fa9f966c10458d)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#249)</code>](https://github.com/elementary/calculator/commit/18e018c39a972ad2d1bd4e3ae4677754a34af7ae)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#248)</code>](https://github.com/elementary/calculator/commit/ff86e338159c936aafe56f9f211b0419d70187f9)
-- [ ] [<code>Update flatpak actions to new namespace (#250)</code>](https://github.com/elementary/calculator/commit/9336425bd0e7354e4831a0657c2d0a243eab2da8)
-- [ ] [<code>Bump runtime to 7.2 (#251)</code>](https://github.com/elementary/calculator/commit/b0b08e78d5b5210bc40fe2769df06329754861f9)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#252)</code>](https://github.com/elementary/calculator/commit/8e85598085be229ddd80da323aa1ac89d19b1854)
-- [ ] [<code>Fix meson warnings (#254)</code>](https://github.com/elementary/calculator/commit/70e04244b269762e12b7f2d586adcbec8eb78db3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo Improvements (#255)</code>](https://github.com/elementary/calculator/commit/0b1df48d03c87da52e17d70ee33991cfbdc6c16e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update calculator.metainfo.xml.in (#256)</code>](https://github.com/elementary/calculator/commit/dbc0d2b900ea023ffc50e0d2207455260cda626b)
-- [ ] [<code>Release 2.0.2 (#253)</code>](https://github.com/elementary/calculator/commit/6d19987a92611645b7849565f657593344d4bb2f)
-  - <sub>Tags: <code>2.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -78,27 +55,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.1 → HEAD](https://github.com/elementary/camera/compare/6.2.1...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#252)</code>](https://github.com/elementary/camera/commit/6120adc3bec6a63038c35afe97eadaf45a0374f6)
-- [ ] [<code>Replace Gtk.Menu with GLib.Menu (#250)</code>](https://github.com/elementary/camera/commit/5ddb1c78dbba863eb5c8b3a922675a8056bada66)
-- [ ] [<code>actions: Fix trigger syntax</code>](https://github.com/elementary/camera/commit/961ad9ae9ab097485d2421fc236a7ecaab56a6cc)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/camera/commit/eefa4607595a6c3f399c0cea64b7bf40a873ed61)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#256)</code>](https://github.com/elementary/camera/commit/ab5450bc327a05ee7827be91df91851ce6f97a7f)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#257)</code>](https://github.com/elementary/camera/commit/cb50c39d9a4a007df0c3509a8a6a118f915bf2ab)
-- [ ] [<code>Update flatpak actions to new namespace (#258)</code>](https://github.com/elementary/camera/commit/e751f1d54fe20a1d3753c71dd43e544ff8bccbca)
-- [ ] [<code>editorconfig: increase max_line_length to 120</code>](https://github.com/elementary/camera/commit/100e367e32b76db77c3d4c96ff4ff1458cc52d26)
-- [ ] [<code>MainWindow: don't add resource path to IconTheme</code>](https://github.com/elementary/camera/commit/93c8c2c36bbe0b12dbd6697a4259416bcbfbb2ff)
-- [ ] [<code>Application: update copyright, use SPDX license header</code>](https://github.com/elementary/camera/commit/9a7af1eb946ebf1cac795cd2fa0740cf0c6ebed4)
-- [ ] [<code>Application: modernize</code>](https://github.com/elementary/camera/commit/70a0893649634b768e22f60a5d951e7fd107682e)
-- [ ] [<code>Application: implement startup()</code>](https://github.com/elementary/camera/commit/be89e54398591209d913ff3d74aa5481634a98f2)
-- [ ] [<code>Bump runtime to 7.2 (#259)</code>](https://github.com/elementary/camera/commit/81a0424fa3cca4ca4cb0bf82ee719d65f868ac76)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#260)</code>](https://github.com/elementary/camera/commit/6c9f8c237b32b92e19764b0b8992bec2505c8980)
-- [ ] [<code>Metainfo improvements (#263)</code>](https://github.com/elementary/camera/commit/5207bd823236f3830591e0d28fde25f0d8eebfa5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.2.2 (#262)</code>](https://github.com/elementary/camera/commit/9b265468c71231a0f70463a1aa1fc18b27391cf6)
-  - <sub>Tags: <code>6.2.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
 
@@ -217,27 +175,8 @@
 - [ ] [<code>Application: force use of Portals (#902)</code>](https://github.com/elementary/mail/commit/7f0e407e6bc47603d402cab5bd0c04d3a8de679b)
 - [ ] [<code>Move menu to FoldersListView (#905)</code>](https://github.com/elementary/mail/commit/ffd7f3f6cb352a82215d896578a689875b29034e)
 
-#### [pantheon.elementary-music](https://github.com/elementary/music): [7.0.1 → HEAD](https://github.com/elementary/music/compare/7.0.1...HEAD)
+#### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
-- [ ] [<code>PlaybackManager: use GLib.Once (#732)</code>](https://github.com/elementary/music/commit/45ca47bbba19a0c0e6e824749d76d467ae569fd2)
-- [ ] [<code>Handle dropped folder (#739)</code>](https://github.com/elementary/music/commit/9b7da47384cef1aac28754c70d3f032baf1217b6)
-- [ ] [<code>metainfo: Add translation field (#740)</code>](https://github.com/elementary/music/commit/b8ca6123cd2cc13ea0b83c99e437b716a66cc431)
-- [ ] [<code>release: Fix trigger syntax</code>](https://github.com/elementary/music/commit/c6125f532391e29e6a8647d164acf95a4d129e7d)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/music/commit/6ba0a3608602567b8c68b2f847f29f09aa9eef4d)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/music/commit/d3ff8c5651f5441fb95208464b0df55e5858d08d)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#742)</code>](https://github.com/elementary/music/commit/adee813301cb2d3b572400508424cc9acf79a7aa)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#741)</code>](https://github.com/elementary/music/commit/a78873120325db10542f0f5134a2e2205bb964c8)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#743)</code>](https://github.com/elementary/music/commit/85d8b2321ecc8241fdad73bf809501b776684f1c)
-- [ ] [<code>Update flatpak actions to new namespace (#744)</code>](https://github.com/elementary/music/commit/2d166df3417d52a228fba0b956760fcd8bbc64bf)
-- [ ] [<code>Update runtime to 7.2 (#748)</code>](https://github.com/elementary/music/commit/781df09608ae9d4f49bd8fe8b3e3ba07fef0df90)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#749)</code>](https://github.com/elementary/music/commit/bbef2eac502400e02b0638bbe973c0b530e47221)
-- [ ] [<code>Allow to open directories directly (#747)</code>](https://github.com/elementary/music/commit/87b537979ac0edb540fceab7ed66a0068d3c9936)
-- [ ] [<code>Update metainfo for next release (#751)</code>](https://github.com/elementary/music/commit/10793ac6168d53d32f76880277ef39509aa35d14)
-- [ ] [<code>MainWindow: use Headerbars (#753)</code>](https://github.com/elementary/music/commit/e4b6a0084b75162c733aa5bbfa96aa264bdc6def)
-- [ ] [<code>MainWindow: Gtk.DropTarget: use drop instead on_drop (#754)</code>](https://github.com/elementary/music/commit/1ac0a43c452013ebf0b63680818ef7b9a928386b)
-- [ ] [<code>Release 7.1.0 (#755)</code>](https://github.com/elementary/music/commit/cced37652074c163139e667067dea71eaf543260)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -251,22 +190,8 @@
 - [ ] [<code>Update flatpak actions to new namespace (#740)</code>](https://github.com/elementary/photos/commit/605a4d1376a7d0280ae89f924fae88e9eadb7838)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#741)</code>](https://github.com/elementary/photos/commit/ee6dc3ac7818aaa9a26626b8d0854a2e752ea70d)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.3 → HEAD](https://github.com/elementary/screenshot/compare/6.0.3...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#255)</code>](https://github.com/elementary/screenshot/commit/3a8cf0d5198ea60b46187153995d1b2f24f2cb51)
-- [ ] [<code>Switch to GHCR container (#256)</code>](https://github.com/elementary/screenshot/commit/ece46e5aa0e878f667206ca73ae621626e25a103)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/screenshot/commit/6221849606018dc4e4b7e8a91491b4af9646b4be)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#258)</code>](https://github.com/elementary/screenshot/commit/4fdaa14ae20505e79d356df7618ed09828b38076)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#257)</code>](https://github.com/elementary/screenshot/commit/dfb2e6bbcb4322fb8ac3d3362bcc0155d287129a)
-- [ ] [<code>Update flatpak actions to new namespace (#259)</code>](https://github.com/elementary/screenshot/commit/3da18f8329513df04fa53e4cd026baaf902cff95)
-- [ ] [<code>Bump runtime to 7.2 (#260)</code>](https://github.com/elementary/screenshot/commit/6ae4d467c8466e265ef3e1a6ea6feafcdd42467c)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#261)</code>](https://github.com/elementary/screenshot/commit/2e331619bc8c2ea2647438dda51a19ef25be819e)
-- [ ] [<code>Metainfo Improvements (#265)</code>](https://github.com/elementary/screenshot/commit/5be455a89ccbfe820f11845164842b56f0b360af)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update screenshot.metainfo.xml.in (#266)</code>](https://github.com/elementary/screenshot/commit/14a1c664ec4d3f63f92476d85329263c3563d11b)
-- [ ] [<code>Release 6.0.4 (#264)</code>](https://github.com/elementary/screenshot/commit/462d429797e71146b9037c956c988eb311699dd3)
-  - <sub>Tags: <code>6.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.1 → HEAD](https://github.com/elementary/tasks/compare/6.3.1...HEAD)
 
@@ -774,6 +699,7 @@
 - [ ] [<code>PlayerRow: keep labels consistent (#247)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6b9d60ae8bbbce01599799d683d50651b9b81a6d)
 - [ ] [<code>Switch to GHCR containers (#249)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d680ea19407d38c3fee51639f49aec6de0c69aaa)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/5cdb9d2323acba0f57899e1f536a3e000851a066)
+- [ ] [<code>volume-control: don't mute monitor sources (#251)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1dc8a084290b93537588b0d08f9729ed9fb5e31c)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.2.0 → HEAD](https://github.com/elementary/granite/compare/7.2.0...HEAD)
@@ -799,21 +725,8 @@
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
 
 
-#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.3 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.3...HEAD)
+#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.4 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.4...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#94)</code>](https://github.com/elementary/capnet-assist/commit/961fd577260e62e614496925b540a12fd9063897)
-- [ ] [<code>Switch to GHCR containers (#95)</code>](https://github.com/elementary/capnet-assist/commit/3856cc8b5c30286ce9368591c310cbe4e3aa08ca)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/capnet-assist/commit/c61c716a6fd1c6878c91a74b24311be2d0c60e70)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#97)</code>](https://github.com/elementary/capnet-assist/commit/7073df2d4d29be53e4bb0614d6fb0ed648a2c702)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#96)</code>](https://github.com/elementary/capnet-assist/commit/b657abe96539956143c29726676bde37eb63724f)
-- [ ] [<code>Update flatpak actions to new namespace (#98)</code>](https://github.com/elementary/capnet-assist/commit/dcd9632491dfcb5491c4622cd40bd753d5a425b5)
-- [ ] [<code>Bump runtime to 7.2 (#99)</code>](https://github.com/elementary/capnet-assist/commit/9fd835cb057209b2974586d4e673f870b1efb45d)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#100)</code>](https://github.com/elementary/capnet-assist/commit/7798a2d01bafbd4d3ddb1ccea44299054be375d4)
-- [ ] [<code>Metainfo improvements (#102)</code>](https://github.com/elementary/capnet-assist/commit/a891aef44993577034a28417a2ca74eacd05f260)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 2.4.4 (#101)</code>](https://github.com/elementary/capnet-assist/commit/3402c143f5487fecf2330f4af9c46032532c0a9c)
-  - <sub>Tags: <code>2.4.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [6.0.3 → HEAD](https://github.com/elementary/notifications/compare/6.0.3...HEAD)
 
