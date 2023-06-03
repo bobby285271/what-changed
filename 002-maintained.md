@@ -243,6 +243,8 @@
 - [ ] [<code>Merge pull request #996 from sabriunal/add-turkish</code>](https://github.com/alainm23/planner/commit/4499d29fe99087a19d14a779deee7fc20d152dee)
 - [ ] [<code>Merge pull request #997 from sabriunal/fix-typo</code>](https://github.com/alainm23/planner/commit/29d9ce0bb71d1ecd4eccdb06a9663d9bb2b5af01)
 - [ ] [<code>Merge pull request #998 from sabriunal/reorder-potfile</code>](https://github.com/alainm23/planner/commit/86c817a8a45278a0022b078c08082ed1f7fddf88)
+- [ ] [<code>fix icon in README.md</code>](https://github.com/alainm23/planner/commit/4f2c65c696b028df061359832a6d2a8435e24b86)
+- [ ] [<code>Merge pull request #1004 from Drsheppard01/master</code>](https://github.com/alainm23/planner/commit/34a84c8ead08fa538a83b0772a1a1bf6a1729360)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
