@@ -218,28 +218,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.0 → HEAD](https://github.com/elementary/videos/compare/2.9.0...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.1 → HEAD](https://github.com/elementary/videos/compare/2.9.1...HEAD)
 
-- [ ] [<code>Application: store repeat state in an Action (#318)</code>](https://github.com/elementary/videos/commit/b81565b6428a783893741adc572e47a0f7f8e3fb)
-- [ ] [<code>Create PlaybackManager (#319)</code>](https://github.com/elementary/videos/commit/05fca05da046f1ad0afcb37150845e2371262bc9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>actions/checkout@v3 (#323)</code>](https://github.com/elementary/videos/commit/5b595929dd94145576597ef397acabe1ec7566c5)
-- [ ] [<code>Move playback and pipeline to PlaybackManager (#321)</code>](https://github.com/elementary/videos/commit/adaa34fbcb707ad53c6f5b7868356b3d6a2e44da)
-- [ ] [<code>Objects.Video: remove unused properties, signals, functions (#322)</code>](https://github.com/elementary/videos/commit/31cc84af0290ebf0afda13b1721bd41d6bb62978)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/videos/commit/d20c81da6e00eefebe9e0c0bfc6e2375337d3397)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#327)</code>](https://github.com/elementary/videos/commit/d619fc45f4d621d0cf8c1adb4b84ed94631e17e0)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#326)</code>](https://github.com/elementary/videos/commit/dfcd8ac094fbdd6e9b20f4165ab7ea9455b5158d)
-- [ ] [<code>Switch to GHCR containers (#325)</code>](https://github.com/elementary/videos/commit/d7c6e6fb67877a238e99753027654fdbc3c1fcda)
-- [ ] [<code>Update flatpak actions to new namespace (#328)</code>](https://github.com/elementary/videos/commit/36c2bdd8ff630e144dcfeaaec59db2833c8837c0)
-- [ ] [<code>Bump runtime to 7.2 (#329)</code>](https://github.com/elementary/videos/commit/5a5d7e97add7f313c2cafed08f47a8f0a4420a11)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#330)</code>](https://github.com/elementary/videos/commit/7675956475fbe0cf5de690c13d73287903afd4a6)
-- [ ] [<code>Metainfo Improvements (#331)</code>](https://github.com/elementary/videos/commit/a34617b38e52b82958004f00825cc802a532fc17)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update metainfo.xml</code>](https://github.com/elementary/videos/commit/fafc25f751dc23e5bc20caa412a1c53a9961904a)
-- [ ] [<code>Release 2.9.1 (#332)</code>](https://github.com/elementary/videos/commit/ea1e388a7d7c4e612e9a6f448905c8f2c0310bad)
-  - <sub>Tags: <code>2.9.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.0 → HEAD](https://github.com/elementary/sideload/compare/6.2.0...HEAD)
 
@@ -426,22 +406,8 @@
 - [ ] [<code>Switch to GHCR containers (#186)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ce10676f9bf2727d39d0776f61f77500ef92a0d0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-printers/commit/83e384d0735bf223ef7bfe9810b2d5dc64d9f34c)
 
-#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [2.4.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...HEAD)
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.0.0...HEAD)
 
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/052520b1e71922778fa5f60a38887b68c42f40ff)
-- [ ] [<code>Switch to GHCR containers (#146)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8791716c12d019309b2a8cfda83b10e2e2379908)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#147)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/c68557e846badb66eb33da8016e009ce6e2ff355)
-- [ ] [<code>Use location settings icon (#152)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a459e18774e4ea24d6c0fd31331d0719332831aa)
-- [ ] [<code>Use Location Portal (#148)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d868a3fc62d646e972c15d552aaefd9821a480f6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.system</code></sub>
-- [ ] [<code>Metainfo improvements (#153)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5e43b687a07268287b584578ee540cb0279f83ab)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d36a81394a30c541ab013d048f189c9d8c39747f)
-- [ ] [<code>README: Update screenshot path (#154)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d2ca1b8d8dd01ff25c935d3ce2786cb80589962)
-- [ ] [<code>Release 7.0.0 (#155)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/b9a68af3c665f863a0fbf049d975a5a8f389e2d2)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -484,17 +450,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wallpapers/commit/4aeefdb177feefd6a00938a05df13c10a832d086)
 ## desktop
 
-#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.0.1 → HEAD](https://github.com/elementary/default-settings/compare/7.0.1...HEAD)
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.0.2 → HEAD](https://github.com/elementary/default-settings/compare/7.0.2...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#276)</code>](https://github.com/elementary/default-settings/commit/85bcbae0f1c69e6cb9d6551e8aaaa929e6ee09af)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/default-settings/commit/0048f7093d2ed9e5fe6f6abb4009db5dcc4f3f77)
-- [ ] [<code>Switch to GHCR containers (#277)</code>](https://github.com/elementary/default-settings/commit/4c6f6acb67d342204edb61328a5584c822ac9b45)
-- [ ] [<code>Overrides: set location services enabled by default (#279)</code>](https://github.com/elementary/default-settings/commit/c3bd215a5fb8e30a6c0e4622d8ad9c4c62c0c02a)
-  - <sub>Keywords: <code>org.gnome.system</code></sub>
-- [ ] [<code>Release 7.0.2 (#280)</code>](https://github.com/elementary/default-settings/commit/a3cb7b23408ee7f54951fca1c6047d2811ade7b6)
-  - <sub>Tags: <code>7.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
@@ -534,6 +491,7 @@
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
 - [ ] [<code>WelcomeView: Update description (#210)</code>](https://github.com/elementary/onboarding/commit/32727c18fc8ee4919d79472b7cdf47630bca52da)
+- [ ] [<code>Add screenshot files cleanup option to Housekeeping (#208)</code>](https://github.com/elementary/onboarding/commit/685ebd3d3fe11a71d024ff68463cda062e72e8a3)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
