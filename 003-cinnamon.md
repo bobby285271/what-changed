@@ -465,16 +465,8 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/78c83315d498796d0994ab414defcbb4693e642a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.1...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.2...HEAD)
 
-- [ ] [<code>Possible remaining_count fixes (#174)</code>](https://github.com/linuxmint/warpinator/commit/d43434e8a183bf523fdc067df3c836ac348f1400)
-- [ ] [<code>Correct a typo in `README.md` (#175)</code>](https://github.com/linuxmint/warpinator/commit/52f9dda44d9f047e4bac00034de82e6cd8e1f2eb)
-- [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/warpinator/commit/ff99e4946695c53ee78a97bb7a9dff36aa8876d3)
-- [ ] [<code>Add `bash` syntax highlighting to `README.md` (#176)</code>](https://github.com/linuxmint/warpinator/commit/311046d000d943d2563c39058fab2fa67ca3c3fe)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.2</code>](https://github.com/linuxmint/warpinator/commit/b5c0513675520db79b1198cf6bdb89b22512cbca)
-  - <sub>Tags: <code>1.6.2</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
