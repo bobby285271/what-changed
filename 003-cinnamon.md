@@ -518,6 +518,7 @@
 - [ ] [<code>Update documentation</code>](https://github.com/linuxmint/xapp/commit/c94f0b05afa8fd8f5cebbfc07a931bb77ed80e53)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>xapp-gpu-offload-helper.c: Check the GLib version before using</code>](https://github.com/linuxmint/xapp/commit/2ad05a81df8d9093ed587040fc65e1a9f9f95bb6)
+- [ ] [<code>xapp-debug.c: build only with ENABLE_DEBUG.</code>](https://github.com/linuxmint/xapp/commit/2015b643c95127fc34b05e3252562599ce485b14)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
