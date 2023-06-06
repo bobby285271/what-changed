@@ -115,6 +115,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use stage coordinates for cogl_framebuffer_read_pixels().</code>](https://github.com/linuxmint/cinnamon/commit/93135ed3741cab016b75a91a03c1fc9b48ec70b4)
+- [ ] [<code>main.js: re-declare Main.gpu_offload_supported (#11685)</code>](https://github.com/linuxmint/cinnamon/commit/fac5c5b04c6df3dda855070d3b8fde4002aae2c5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
@@ -164,9 +165,11 @@
 - [ ] [<code>Add missing dependency on x11-util</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f7ccca4846c2ff19281b897f3f7bcef758007e0c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/4316ca803b0748382524ba92721289be8e3be58d)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>muffinClient.py: Fix typo and clean up Python (#435)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/84cf44a694b51c39418441af357f95fa3fe7d0a3)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.6.0...HEAD)
 
@@ -231,6 +234,7 @@
 - [ ] [<code>Use newer deb packaging formats and remove lints</code>](https://github.com/linuxmint/mint-cursor-themes/commit/b348e231493b726f3786a6ec04adf42ebaa2777a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #3 from hsbasu/update-deb-packaging</code>](https://github.com/linuxmint/mint-cursor-themes/commit/8e8a39e01f60a109f26a024cda69569f5178a857)
+- [ ] [<code>1.0.2</code>](https://github.com/linuxmint/mint-cursor-themes/commit/d2c1428b499a347c291dafb13c89699fdbdd4be7)
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.0.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.0.9...HEAD)
 
@@ -247,6 +251,13 @@
 - [ ] [<code>Gtk3: Fix setting the infobar background color (#440)</code>](https://github.com/linuxmint/mint-themes/commit/7082ec5e80ac679409c154c7849f65050b0bdbba)
 - [ ] [<code>Mint-Y: Remove brown theme</code>](https://github.com/linuxmint/mint-themes/commit/db292cf7078fd0c80e7c6d1c76efebe74d5ee65d)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>GTK3: Use accent color for tooltips</code>](https://github.com/linuxmint/mint-themes/commit/d924370925f68a3ea9b08da7fab238df77a29f15)
+- [ ] [<code>Cinnamon: Use accent color for notifications</code>](https://github.com/linuxmint/mint-themes/commit/7c8c6934969831501f9f25e895beb789cb10e0ef)
+- [ ] [<code>Cinnamon: Use accent colors for tooltips/badge</code>](https://github.com/linuxmint/mint-themes/commit/274e53c3d49a3382ac0a1ad826ce7391307485e5)
+- [ ] [<code>Cinnamon tooltips: add margins</code>](https://github.com/linuxmint/mint-themes/commit/179697b76f470d6aedee292a48cd1ebbf4f696a8)
+- [ ] [<code>GTK4: Use accent color for tooltips</code>](https://github.com/linuxmint/mint-themes/commit/f9bfdd743bb388589b313ec04934e22b0c73ff90)
+- [ ] [<code>GTK2: Use accent color for tooltips</code>](https://github.com/linuxmint/mint-themes/commit/9b44be8f5e86618a7f5843d1db0f550f18937c33)
+- [ ] [<code>fix selection on unfocused windows (#445)</code>](https://github.com/linuxmint/mint-themes/commit/03eda984c1915d878303f2561aaf8fd203b983a0)
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -256,6 +267,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add definitions for folder-color-switcher</code>](https://github.com/linuxmint/mint-x-icons/commit/d07701a8a490140db32629c669499551631544c8)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.5</code>](https://github.com/linuxmint/mint-x-icons/commit/c5bf7713cbc89c325feaf0ce6bcfa18a188dbdcf)
+  - <sub>Tags: <code>1.6.5</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.5...HEAD)
 
@@ -281,6 +294,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add symlinks for Bitwarden flatpak</code>](https://github.com/linuxmint/mint-y-icons/commit/069c0baac47902912dc475e41ef0673d0a18dfe8)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-y-icons/commit/08f6aba60fba40ed95c0c41884d6069ab41c8ed4)
+  - <sub>Tags: <code>1.6.6</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.6.4 → HEAD](https://github.com/linuxmint/muffin/compare/5.6.4...HEAD)
 
@@ -463,7 +478,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/78c83315d498796d0994ab414defcbb4693e642a)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>3.0.0</code>](https://github.com/linuxmint/pix/commit/2d7802323e765abd3a230047be120d776004e05c)
+  - <sub>Tags: <code>3.0.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.2...HEAD)
 
@@ -580,7 +597,8 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/9dac05dd626c1c41a7d67f11d4257ea7d85da665)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add xapp to workflow.</code>](https://github.com/linuxmint/hypnotix/commit/8e8a95b5ad632aa1a61f9e224612dfe0fcf0d5e0)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>3.3</code>](https://github.com/linuxmint/hypnotix/commit/c08913b9eaa6d401029397aece39ce7f5add9a09)
+  - <sub>Tags: <code>3.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -669,8 +687,10 @@
 - [ ] [<code>git: Remove generate man pages</code>](https://github.com/linuxmint/timeshift/commit/cd01296fbb7f7ced192b2a55306e0d1da96187b6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>23.06.1</code>](https://github.com/linuxmint/timeshift/commit/0b3e43a1e4a26e06c85b97bf1749bef0e91d8d79)
-  - <sub>Tags: <code>23.06.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>23.06.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix the desktop file name + project license in appdata (#204)</code>](https://github.com/linuxmint/timeshift/commit/7629f00a890a0d9a09170ad92ed2ff86d610abab)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
@@ -681,13 +701,16 @@
 - [ ] [<code>Fix build.</code>](https://github.com/linuxmint/xed/commit/f3cd88025009f8fce0d4011744b0e4cef9ab1552)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/e0a9c419b5c6a364b3fc02e2cef2d1453186ef59)
 - [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xed/commit/5b8fceef6d531a5920b9f91082449730adab279c)
-  - <sub>Tags: <code>3.4.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>3.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: use gzip -k instead of --keep</code>](https://github.com/linuxmint/xed/commit/a2de9fd3c50d321ae41c08f46c88e6b2817c3960)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.0...HEAD)
 
 - [ ] [<code>Remove cinnamon-desktop dependency (not needed).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5130d36ff670a53ae0d23cab238496b5c04b95b0)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove portal gschema (moving to libxapp).</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/7fd790a37394579075b7134971f2f5def649d14c)
@@ -695,8 +718,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Packaging: Depend on xapps-common</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d22f1af0a78fe915c325478490183358b820080)
 - [ ] [<code>1.0.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/184a312a92817053ae7c5cc06c08c82cc5001d6c)
-  - <sub>Tags: <code>1.0.1</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>1.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build.yml: Add xapp dependency</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/630f55ba1bb6b6d3cff65bf619af8315b6684ef4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
