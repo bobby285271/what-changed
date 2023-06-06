@@ -96,6 +96,7 @@
 - [ ] [<code>Install man page with meson (#1325)</code>](https://github.com/elementary/code/commit/1c1778f6ad9353b99a1059a503b85d132b88193e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Reduce terminal noise (#1323)</code>](https://github.com/elementary/code/commit/f74056da4400e52444b0665ce1cf5b0be8ef86c8)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
