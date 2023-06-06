@@ -26,6 +26,7 @@
 - [ ] [<code>Homepage: misc banner and carousel cleanup (#2042)</code>](https://github.com/elementary/appcenter/commit/09b1786da3321fcadb0bb6896fe715cf06888940)
 - [ ] [<code>AppInfoView: warn about sandbox escape (#2039)</code>](https://github.com/elementary/appcenter/commit/44d98ad7b68506db0c0f0bbb6979c6f198918b0e)
 - [ ] [<code>AppInfoView: warn about settings access (#2043)</code>](https://github.com/elementary/appcenter/commit/3cc4715ee3c682db6d9672ad943b3ec3afbf45ed)
+- [ ] [<code>FlatpakBackend: Add null checks for user and system installation (#2053)</code>](https://github.com/elementary/appcenter/commit/3b2dc178e80206ae8df42f13693b5daa7b5037c1)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
