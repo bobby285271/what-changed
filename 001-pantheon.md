@@ -150,6 +150,7 @@
 - [ ] [<code>Bulk Rename: Use ModeButton for basename options (#2201)</code>](https://github.com/elementary/files/commit/9f670f9429970439eda5e7ee83bc6c9f993d8a86)
 - [ ] [<code>Use active language for basename options (#2202)</code>](https://github.com/elementary/files/commit/3dc9c8b6f29aac902edd0a91a9ded16c1c224016)
 - [ ] [<code>Do not show externally created hidden files with no file info (#2200)</code>](https://github.com/elementary/files/commit/61fb31ffacd06526c42f109227e1f9aa38ea498c)
+- [ ] [<code>Extend File.compare_by_size to use folder item count where appropriate (#1978)</code>](https://github.com/elementary/files/commit/c0a70d796e7fb9f6523eef64205c3a1d7fade8ef)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -413,6 +414,8 @@
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.0.0...HEAD)
 
+- [ ] [<code>Add screenshot files cleanup option to Housekeeping (#141)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/da9553d25c714a04180373786f85ffa45514e11f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -527,6 +530,8 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [7.0.3 → HEAD](https://github.com/elementary/gala/compare/7.0.3...HEAD)
 
+- [ ] [<code>Prototype colorblind correction filters (#1595)</code>](https://github.com/elementary/gala/commit/3bf28b0ddf5b879e5ac22485484c1c9079d5d028)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
