@@ -336,8 +336,11 @@
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/muffin/commit/93fc7272d605582745ac15925bfd1ded75702f77)
 - [ ] [<code>tiling: Expose tile 'push' actions that are currently used by</code>](https://github.com/linuxmint/muffin/commit/04e91f51325105bef5aee9049e245d89b4c11502)
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/muffin/commit/4b19c78fdc5b6e8b904193bd764ae7d5591c655e)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Escape vendor info for the monitor/layout configuration,</code>](https://github.com/linuxmint/muffin/commit/917f13cf8b25d354cf9f69ad7df435f6329ad7a3)
+- [ ] [<code>Fix build...</code>](https://github.com/linuxmint/muffin/commit/acc95d2b3219b7973628240461073510fbed4ac1)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.6.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.6.5...HEAD)
 
