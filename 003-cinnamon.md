@@ -116,7 +116,29 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use stage coordinates for cogl_framebuffer_read_pixels().</code>](https://github.com/linuxmint/cinnamon/commit/93135ed3741cab016b75a91a03c1fc9b48ec70b4)
 - [ ] [<code>main.js: re-declare Main.gpu_offload_supported (#11685)</code>](https://github.com/linuxmint/cinnamon/commit/fac5c5b04c6df3dda855070d3b8fde4002aae2c5)
+- [ ] [<code>Save/restore NO_GAIL and NO_AT_BRIDGE environment variables (#11673)</code>](https://github.com/linuxmint/cinnamon/commit/c26617e61bd5c9301f8a0c92c6f6cce35d53dffe)
+- [ ] [<code>Add gesture support using touchegg.</code>](https://github.com/linuxmint/cinnamon/commit/3f23deb567d1917470662e4c15b2186e98836b12)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Better icon - courtesy of @haggen88.</code>](https://github.com/linuxmint/cinnamon/commit/ffef0e23c318d708f98572d64637c3c708ff1568)
+- [ ] [<code>cornerbar: Remove useless tooltip</code>](https://github.com/linuxmint/cinnamon/commit/89514758eabfe96e02950ce81f5835bead36924f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fe743cfb1e7787e90d729a9c2cf525c785089693)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/0960194ddc00e020bad375336b16d822c7e25a39)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Make menu applet resizable with mouse</code>](https://github.com/linuxmint/cinnamon/commit/5a0dfd80c5997d1b937031290ca6e0c6a8a089c9)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Add class to make applets resizable with mouse</code>](https://github.com/linuxmint/cinnamon/commit/776cc32e549c95ebd9a8e4171f8d9e292c55581a)
+- [ ] [<code>Packaging: recommend touchegg</code>](https://github.com/linuxmint/cinnamon/commit/22dab0bac26b9e730c648a209272b3c8af5b8b01)
+- [ ] [<code>gestures: Improve some cleanup, logging, fix crash when toggling</code>](https://github.com/linuxmint/cinnamon/commit/9313b0569bdb32b72c880c6d0463e24e3e012373)
+- [ ] [<code>menu applet: Add settings button to restore original size, re-size</code>](https://github.com/linuxmint/cinnamon/commit/5afa17d8b4ef50c77a1c2535be702358cacdcb42)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/5769c183a66fc995a2cee8a13fc17d34b8d10e9e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Generate module files</code>](https://github.com/linuxmint/cinnamon/commit/77e26aea3cd0a28f382fed82791054b4115c9138)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -258,6 +280,10 @@
 - [ ] [<code>GTK4: Use accent color for tooltips</code>](https://github.com/linuxmint/mint-themes/commit/f9bfdd743bb388589b313ec04934e22b0c73ff90)
 - [ ] [<code>GTK2: Use accent color for tooltips</code>](https://github.com/linuxmint/mint-themes/commit/9b44be8f5e86618a7f5843d1db0f550f18937c33)
 - [ ] [<code>fix selection on unfocused windows (#445)</code>](https://github.com/linuxmint/mint-themes/commit/03eda984c1915d878303f2561aaf8fd203b983a0)
+- [ ] [<code>Adjust Title Bar Padding (#444)</code>](https://github.com/linuxmint/mint-themes/commit/66772a61a22648162dea96a1e554ac4e3ea70b6b)
+- [ ] [<code>Generate CSS files</code>](https://github.com/linuxmint/mint-themes/commit/7a2559827f76e7529597bc85155b49701680c6cf)
+- [ ] [<code>2.1.0</code>](https://github.com/linuxmint/mint-themes/commit/b6e3413434f8e16b2fc91b814168c869714dfbcb)
+  - <sub>Tags: <code>2.1.0</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.4...HEAD)
 
@@ -484,6 +510,8 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.2...HEAD)
 
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/d065ce3d10a2c69efa15f2447a0ac5bed7fbefee)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
@@ -536,6 +564,7 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>xapp-gpu-offload-helper.c: Check the GLib version before using</code>](https://github.com/linuxmint/xapp/commit/2ad05a81df8d9093ed587040fc65e1a9f9f95bb6)
 - [ ] [<code>xapp-debug.c: build only with ENABLE_DEBUG.</code>](https://github.com/linuxmint/xapp/commit/2015b643c95127fc34b05e3252562599ce485b14)
+- [ ] [<code>xapp-sn-watcher.c: Don't exit if XDG_CURRENT_DESKTOP isn't set.</code>](https://github.com/linuxmint/xapp/commit/fb385bbb54a17aadb83fbf69e0e63b24cc01854f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.6.3...HEAD)
@@ -598,7 +627,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add xapp to workflow.</code>](https://github.com/linuxmint/hypnotix/commit/8e8a95b5ad632aa1a61f9e224612dfe0fcf0d5e0)
 - [ ] [<code>3.3</code>](https://github.com/linuxmint/hypnotix/commit/c08913b9eaa6d401029397aece39ce7f5add9a09)
-  - <sub>Tags: <code>3.3</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>3.3</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/6648454ded427fa1937ad7940441b5344c5888c7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update xapp version in README, use real release version in debian/</code>](https://github.com/linuxmint/hypnotix/commit/fd22e655f819d907754b857ebe3b964f709d3ac1)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -643,8 +676,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>update license content to GPLv2 (#97)</code>](https://github.com/linuxmint/sticky/commit/2cb2742a597f2aa9b061d7be30fbebf726ed1dfc)
 - [ ] [<code>remove redundant parentheses</code>](https://github.com/linuxmint/sticky/commit/7760fb135ccb2b10eb4f571bee9692a7e912e4cf)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix new_note parameter (#77)</code>](https://github.com/linuxmint/sticky/commit/53c2d798668333866e246b81f36b76cea08fc12a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.15</code>](https://github.com/linuxmint/sticky/commit/d6dc688ce8f0597bb965e02f3df57268e3c9a335)
+  - <sub>Tags: <code>1.15</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
 
