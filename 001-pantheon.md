@@ -180,6 +180,9 @@
 - [ ] [<code>Move capability (#895)</code>](https://github.com/elementary/mail/commit/af1b63f74924242bb967f72431c92def3ddc4312)
 - [ ] [<code>Application: force use of Portals (#902)</code>](https://github.com/elementary/mail/commit/7f0e407e6bc47603d402cab5bd0c04d3a8de679b)
 - [ ] [<code>Move menu to FoldersListView (#905)</code>](https://github.com/elementary/mail/commit/ffd7f3f6cb352a82215d896578a689875b29034e)
+- [ ] [<code>Use flatpak portal for background and autostart (#882)</code>](https://github.com/elementary/mail/commit/37c98e0426c89b2b8f5b0eea8555637faf41f4eb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -283,13 +286,14 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [6.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...HEAD)
 
 - [ ] [<code>Change keyfile error messages to debug.</code>](https://github.com/elementary/switchboard-plug-applications/commit/1d7318932a3356efa13ced2f4644dfa5963e883e)
-- [ ] [<code>Port to GTK4 (#173)</code>](https://github.com/elementary/switchboard-plug-applications/commit/47c66875e1d431347bb5602d2140d05a156d0921)
+- [ ] [<code>Switch to GHCR containers (#178)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f41eec4c36bcea211c783cf37c520a3d27a9c101)
+- [ ] [<code>KeyFile: Make show and active Follow the Autostart Spec (#184)</code>](https://github.com/elementary/switchboard-plug-applications/commit/a23f68cbeebf47e8e1420d6cdaf556e800fb563f)
+- [ ] [<code>Fix Gettext Action (#175)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8174172aef583165a25866229a7dde09c9552ab9)
+- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/3e84be0d46a611d5af535e2a164b96ef35d00cf5)
+- [ ] [<code>Bump actions/checkout from 1 to 3 (#179)</code>](https://github.com/elementary/switchboard-plug-applications/commit/7e8f6af2a801a3bee63ef868ebdcfc4e42a36f8d)
+- [ ] [<code>Metainfo Improvements (#186)</code>](https://github.com/elementary/switchboard-plug-applications/commit/2aceec2ec8ffdc719c6bf5e88219968bd189dd77)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix Gettext Action (#175)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d3436601da48435faceadc3b5127ea9e3bcc70fa)
-- [ ] [<code>Switch to GHCR containers (#177)</code>](https://github.com/elementary/switchboard-plug-applications/commit/fe28bb7c2c36b0408cc2a6679161130565707d08)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/f7d4c57451bb6760bb8601d61ce6997a95e6de7e)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#179)</code>](https://github.com/elementary/switchboard-plug-applications/commit/06a20a5dd53c6f560be2ef3856138b2e60571c4f)
+- [ ] [<code>Metainfo: Release notes for 7.0.0</code>](https://github.com/elementary/switchboard-plug-applications/commit/0c7ca6ec9be98ddc1cb5044b3aa7993bd2d6342c)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -719,6 +723,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo Improvements (#62)</code>](https://github.com/elementary/settings-daemon/commit/bf0b57938d3c5dd6f65a8d1f6393515a7cb5261b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/a48d271019ca31dab24292256463c68bbab0941b)
+- [ ] [<code>Metainfo: Add release notes for 1.3.0 (#63)</code>](https://github.com/elementary/settings-daemon/commit/73396c36b870d150fcdc3b088688ebb1b2dcd35b)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
