@@ -692,6 +692,8 @@
 - [ ] [<code>Constants: Add since versions to new URI values (#651)</code>](https://github.com/elementary/granite/commit/1ea25ca28bc511850371a5d33d505099e4fdb7b9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles: add basics (#646)</code>](https://github.com/elementary/granite/commit/def177c6e76aa3fe28deee1b49d4c6dacf94e2fc)
+- [ ] [<code>Metainfo improvements (#652)</code>](https://github.com/elementary/granite/commit/95d40ee1831e9e62cd0bcc2ad15327bdac723c10)
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
