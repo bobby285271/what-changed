@@ -357,6 +357,9 @@
 - [ ] [<code>Cleaning up previously committed files.</code>](https://github.com/phase1geo/minder/commit/3666e59e486aa6b62d6e6599699c51b55049ec50)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixing issues with tab naming of new, unchanged documents.</code>](https://github.com/phase1geo/minder/commit/a1284b0315681f6187f1ca823b9d6ddef72bf803)
+- [ ] [<code>Fixing cursor/selection issue when using the delete key on selected text</code>](https://github.com/phase1geo/minder/commit/f72d1c603bac1c403c94cdaac49f7b522a7a5845)
+- [ ] [<code>Fixing installation location of Minder markdown syntax/style files.</code>](https://github.com/phase1geo/minder/commit/bb95e326ecc0d14266e0535f478d9ad9cb2218f0)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.16.1 → HEAD](https://github.com/stsdc/monitor/compare/0.16.1...HEAD)
 
