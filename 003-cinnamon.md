@@ -388,8 +388,10 @@
 - [ ] [<code>Update bug/feature templates.</code>](https://github.com/linuxmint/nemo/commit/858713f240ac16d886861865305cc9069c8ba03b)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/054e3dcf20c853cc60d912586f950a073f9310d3)
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/nemo/commit/6cbc4cf7f2c669ce2084926aeb1432ccd239a9bc)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-list-view.c: Reset dynamic bottom margin when loading a new</code>](https://github.com/linuxmint/nemo/commit/d7a1243565b3ea1f0148f6fefdd2c1945cc776e5)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
