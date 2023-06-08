@@ -137,8 +137,11 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/5769c183a66fc995a2cee8a13fc17d34b8d10e9e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Generate module files</code>](https://github.com/linuxmint/cinnamon/commit/77e26aea3cd0a28f382fed82791054b4115c9138)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon/commit/eb4a291edd5533b967fe462c685b0d16d046dfc7)
+  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
