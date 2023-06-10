@@ -786,6 +786,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/os/commit/a474abe816203e80c69075f0a9fa2222ce380be4)
 - [ ] [<code>Extend regex to support double-digit loop devices</code>](https://github.com/elementary/os/commit/f24efc4ecbc5d018e8f12b33aade9e735a9deca4)
 - [ ] [<code>Bump easimon/maximize-build-space from 6 to 7 (#664)</code>](https://github.com/elementary/os/commit/e6fd503a4ee10d2366dd1bb2868e0472605f0547)
+- [ ] [<code>Update RPi build script to Horus (#667)</code>](https://github.com/elementary/os/commit/565c110095e4b1bce1f9babbf15f1b48892be779)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
