@@ -415,8 +415,10 @@
 - [ ] [<code>l10n: Generate additional files</code>](https://github.com/linuxmint/nemo/commit/ee447c7d09bc4d41ee99526f90ae499572d4c55f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>5.8.1</code>](https://github.com/linuxmint/nemo/commit/a96206a66a33c8cdbef439a5b5f6a43b61676895)
-  - <sub>Tags: <code>5.8.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-file.c: Don't try to get a 'local uri' for psuedo-files on the</code>](https://github.com/linuxmint/nemo/commit/820027c4eb2fd4b588f6f6c93aa5d880b1a80b73)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.6.0...HEAD)
 
