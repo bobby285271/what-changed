@@ -186,6 +186,11 @@
 - [ ] [<code>Remove constant</code>](https://github.com/donadigo/appeditor/commit/752d5081dbca698961ef38166cf1d82e56b02341)
 - [ ] [<code>Release 1.1.4</code>](https://github.com/donadigo/appeditor/commit/aeb0b13e5dfd2dfde951e8f18d9075eee5054f71)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Set minimum granite version (#132)</code>](https://github.com/donadigo/appeditor/commit/ad894de918bd545074820acb7cb28b990809c9e2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>czech translation (#128)</code>](https://github.com/donadigo/appeditor/commit/176625d02da36f64609b7a4ddb4a4ab0e10877d2)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
