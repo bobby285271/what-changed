@@ -151,8 +151,13 @@
 - [ ] [<code>l10n: Generate additional files</code>](https://github.com/linuxmint/cinnamon/commit/3449a25edfec0b73a5d0345df5f8b9f0a311cc54)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>5.8.1</code>](https://github.com/linuxmint/cinnamon/commit/08f1c52a70a023438f67001a2ef75f313157381a)
-  - <sub>Tags: <code>5.8.1</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improve gesture settings, inform the user about common failure</code>](https://github.com/linuxmint/cinnamon/commit/7204544ef797a6b308e3fc216e165c0f872c9d3a)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cs_gestures.py: Use opacity and not visiblity for hiding/showing</code>](https://github.com/linuxmint/cinnamon/commit/4b3e5a7985733711a6eae24ec0f51185e368303e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -180,8 +185,10 @@
 - [ ] [<code>Remove color-scheme additions (added in d880133b38da46b22).</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e3837a04a39b86554e65423536cbb5e0c33393e)
 - [ ] [<code>Update cvc symbols.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2f1e775e30b26d8f6171f8524f59a18e0c89a716)
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8d0eda27ea355bbcfe619dedd6a9f87356485d83)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gschemas: Change a comment</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3486cb0f0904b07836692682659ba73413389824)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.6.0...HEAD)
 
@@ -233,8 +240,10 @@
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8afb3c83eeeeccc9c703bc42274508190dab13bc)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/75303d77a0d53d0fae3369bd540e570d3f3d768a)
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3fc88926662e43fd8e4e17c14736e6b0387cfb1f)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "xsettings: Override the active icon and gtk theme when</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/92e8a38dc7c1875c133f6f53010cf91a6adac4c5)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.6.1...HEAD)
 
