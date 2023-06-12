@@ -697,6 +697,7 @@
 - [ ] [<code>Styles: add basics (#646)</code>](https://github.com/elementary/granite/commit/def177c6e76aa3fe28deee1b49d4c6dacf94e2fc)
 - [ ] [<code>Metainfo improvements (#652)</code>](https://github.com/elementary/granite/commit/95d40ee1831e9e62cd0bcc2ad15327bdac723c10)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 7.3.0 (#653)</code>](https://github.com/elementary/granite/commit/5a7f047c8dd7faaaea48d67d41279ad2338a130b)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
