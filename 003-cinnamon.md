@@ -156,7 +156,10 @@
 - [ ] [<code>Improve gesture settings, inform the user about common failure</code>](https://github.com/linuxmint/cinnamon/commit/7204544ef797a6b308e3fc216e165c0f872c9d3a)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>cs_gestures.py: Use opacity and not visiblity for hiding/showing</code>](https://github.com/linuxmint/cinnamon/commit/4b3e5a7985733711a6eae24ec0f51185e368303e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/18549638a8a1697fc5b320d20e7c8ea41eb83f32)
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
