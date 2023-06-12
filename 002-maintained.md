@@ -191,6 +191,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>czech translation (#128)</code>](https://github.com/donadigo/appeditor/commit/176625d02da36f64609b7a4ddb4a4ab0e10877d2)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix #121 (failure to compile with vala 0.55.1) (#122)</code>](https://github.com/donadigo/appeditor/commit/1ad692b4630fcb49b5052d7cc1e809c94b900d96)
+- [ ] [<code>Update glib to 2.76.3 and Flatpak platform to 7.2 (#133)</code>](https://github.com/donadigo/appeditor/commit/f170b6b1f20b49c937cf5200a42eee524923aea5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
