@@ -218,6 +218,10 @@
 - [ ] [<code>Fix small color issue (#356)</code>](https://github.com/elementary/tasks/commit/1c4af59ff932013dad9c739b8b5ad9f287cc5fd8)
 - [ ] [<code>Preparations for Gtk4 (#360)</code>](https://github.com/elementary/tasks/commit/acf44ab843cdf576d94ce32d74ba78bb2a63c73d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use flatpak portal for autostart and background permission (#361)</code>](https://github.com/elementary/tasks/commit/4a7b9b33aaed8f4fd2a9155946367002ea75232c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/tasks/commit/e68337d6a9f334f9f98ec45d822b1c00ec86f503)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -449,6 +453,7 @@
 
 - [ ] [<code>Rename media-memory-sembolic.svg to media-memory-symbolic.svg (#1200)</code>](https://github.com/elementary/icons/commit/f44e5d0a4b65cb64d2318f0bd0cc5ed0d820e373)
 - [ ] [<code>Status: remove non-fdo microphone icons (#1201)</code>](https://github.com/elementary/icons/commit/338dbb1ad3f2e2e5a5cfb78a46791f483365c3c6)
+- [ ] [<code>Status: re-add muted mic symbolics (#1202)</code>](https://github.com/elementary/icons/commit/eb73e436642d159903325590e75a629004afc163)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -643,6 +648,12 @@
 - [ ] [<code>Add full markup support (#252)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/148519009c5f5a4816636783b7a13ad4b1133461)
 - [ ] [<code>Constant indicator width (#255)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9d30e10c404b966258c940f7c2777a627541471)
 - [ ] [<code>Remove notification from list if bubble dismissed; give accurate tooltip count (#243)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/da9220f8a3de04fb2819d68f24ec36bb50ef06ad)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f7e91a29581a3013d6ba66995da7adf461ba4ad5)
+- [ ] [<code>Resources: Update icons (#259)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c4db1878d49b7c9e07dee99827802b7a42102ebf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo improvements (#260)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/55cbb83aa60dc2eb0dd169da0e33b2762a6e908b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: 7.0.0 release notes (#261)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8ee1a25a63b42fe97818bf144a0c7f711678dd44)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
@@ -675,6 +686,9 @@
 - [ ] [<code>Switch to GHCR containers (#249)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d680ea19407d38c3fee51639f49aec6de0c69aaa)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/5cdb9d2323acba0f57899e1f536a3e000851a066)
 - [ ] [<code>volume-control: don't mute monitor sources (#251)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1dc8a084290b93537588b0d08f9729ed9fb5e31c)
+- [ ] [<code>Metainfo Improvements (#256)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6721fc74f38548b5a3a8519aa7b9317a0b252bc7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add 7.0.0 release notes (#257)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/18c4f1958a284c5384e750e71a7c01ed593b36b5)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.2.0 → HEAD](https://github.com/elementary/granite/compare/7.2.0...HEAD)
@@ -698,6 +712,9 @@
 - [ ] [<code>Metainfo improvements (#652)</code>](https://github.com/elementary/granite/commit/95d40ee1831e9e62cd0bcc2ad15327bdac723c10)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Release 7.3.0 (#653)</code>](https://github.com/elementary/granite/commit/5a7f047c8dd7faaaea48d67d41279ad2338a130b)
+- [ ] [<code>Update POTFILES (#654)</code>](https://github.com/elementary/granite/commit/00c7fc0837e81d2c3158b4e78ae1a90a6dc8459d)
+- [ ] [<code>README: Point to granite-7 version of valadoc (#655)</code>](https://github.com/elementary/granite/commit/dead26860f3da9e5082c673649c06b7afa7d4d49)
+  - <sub>Tags: <code>7.3.0</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -760,6 +777,8 @@
 - [ ] [<code>Background: use commandline to try to get fallback app_id (#76)</code>](https://github.com/elementary/portals/commit/33bde59dbafe08c697dc2756172e705bf38be00a)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
 - [ ] [<code>Update portals.metainfo.xml.in (#81)</code>](https://github.com/elementary/portals/commit/b3829075baaf1ad04a88fc786eed79ea020737c0)
+- [ ] [<code>Background: Make Asynchronous (#84)</code>](https://github.com/elementary/portals/commit/de30b3d3a1bccd3f638c67a9234697d423aaa7ac)
+  - <sub>Keywords: <code>commandline</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
