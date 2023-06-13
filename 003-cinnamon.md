@@ -156,11 +156,12 @@
 - [ ] [<code>Improve gesture settings, inform the user about common failure</code>](https://github.com/linuxmint/cinnamon/commit/7204544ef797a6b308e3fc216e165c0f872c9d3a)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>cs_gestures.py: Use opacity and not visiblity for hiding/showing</code>](https://github.com/linuxmint/cinnamon/commit/4b3e5a7985733711a6eae24ec0f51185e368303e)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/18549638a8a1697fc5b320d20e7c8ea41eb83f32)
-  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gestures: Don't kill the touchegg client.</code>](https://github.com/linuxmint/cinnamon/commit/cf79d4c938b4f0fe62e0d2bc0223c6774bf15765)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -226,8 +227,10 @@
 - [ ] [<code>main.c: Don't set GTK_OVERLAY_SCROLLING.</code>](https://github.com/linuxmint/cinnamon-session/commit/eee407c80cd186905d4ebb632a6ebb48a7de93bf)
 - [ ] [<code>github workflow: Add optional ssh session.</code>](https://github.com/linuxmint/cinnamon-session/commit/8fd977317587218edf9d52e72bc3fa2e16f28f85)
 - [ ] [<code>5.8.0</code>](https://github.com/linuxmint/cinnamon-session/commit/6e50b977ae9657905f38627e40e861fe3c068e34)
-  - <sub>Tags: <code>5.8.0</code> <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>5.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Block touchegg from autostarting.</code>](https://github.com/linuxmint/cinnamon-session/commit/613b15f85697aec1aa5e268a6be94b6c4f8212de)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.6.2...HEAD)
 
