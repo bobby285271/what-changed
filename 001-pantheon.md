@@ -55,6 +55,13 @@
 - [ ] [<code>Allow to fallback to statically linked libchamplain (#787)</code>](https://github.com/elementary/calendar/commit/5918d3f31772880d7e62611664cbe4126a3c53a1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Create Autostart File Via Background Portal (#681)</code>](https://github.com/elementary/calendar/commit/a6951f80c07dc44a0c4a62db3378f24efe79c305)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo Improvements (#789)</code>](https://github.com/elementary/calendar/commit/f18a846377d089053daa418624dce27b9d57466e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: 7.0.0 release notes</code>](https://github.com/elementary/calendar/commit/1e4613f5e9b77c81d6e68387d2fc18e0e3a6aff0)
+- [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/d0c598b024de1b70aae54f4abd7b6b2552502f60)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -183,6 +190,7 @@
 - [ ] [<code>Use flatpak portal for background and autostart (#882)</code>](https://github.com/elementary/mail/commit/37c98e0426c89b2b8f5b0eea8555637faf41f4eb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Create flatpak-x-checker.yml (#909)</code>](https://github.com/elementary/mail/commit/014ff90f5651f30ff09eaeab74e42b5dfd8269ba)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -222,6 +230,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/tasks/commit/e68337d6a9f334f9f98ec45d822b1c00ec86f503)
+- [ ] [<code>Application: use startup (#363)</code>](https://github.com/elementary/tasks/commit/c7b60ca38c5bb8426d6439996a0259608619fb1a)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -339,6 +348,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/694e3249c18242e450a3b78f8fd2c9309507328d)
 - [ ] [<code>Bump actions/checkout from 1 to 3</code>](https://github.com/elementary/switchboard-plug-display/commit/bc57da0b74831c67d055aea4b73eb5fd6885648b)
 - [ ] [<code>Switch to GHCR containers (#344)</code>](https://github.com/elementary/switchboard-plug-display/commit/86b29d39b38f43d7a804e57ee4ce7332d15ca577)
+- [ ] [<code>NightLightView: Redesign and cleanup (#351)</code>](https://github.com/elementary/switchboard-plug-display/commit/2cdee6ca37a3ca776b3debf5eaf2c35a5c54941b)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/bf8b6941b999f3244acdd40c390d11017bf2efd1)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -689,6 +700,8 @@
 - [ ] [<code>Metainfo Improvements (#256)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6721fc74f38548b5a3a8519aa7b9317a0b252bc7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add 7.0.0 release notes (#257)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/18c4f1958a284c5384e750e71a7c01ed593b36b5)
+- [ ] [<code>Resource: Update microphone icons (#255)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/97a7a2d3b027ae5543dec39d2968687ae87df344)
+  - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.2.0 → HEAD](https://github.com/elementary/granite/compare/7.2.0...HEAD)
