@@ -253,6 +253,8 @@
 - [ ] [<code>Merge pull request #998 from sabriunal/reorder-potfile</code>](https://github.com/alainm23/planner/commit/86c817a8a45278a0022b078c08082ed1f7fddf88)
 - [ ] [<code>fix icon in README.md</code>](https://github.com/alainm23/planner/commit/4f2c65c696b028df061359832a6d2a8435e24b86)
 - [ ] [<code>Merge pull request #1004 from Drsheppard01/master</code>](https://github.com/alainm23/planner/commit/34a84c8ead08fa538a83b0772a1a1bf6a1729360)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/0c5d8fdba5ba9f9239a65ec2ad75c9f37ca56e27)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/741064ba83a7c3037e2de2aeade4aaaf15692223)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
