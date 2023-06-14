@@ -62,6 +62,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: 7.0.0 release notes</code>](https://github.com/elementary/calendar/commit/1e4613f5e9b77c81d6e68387d2fc18e0e3a6aff0)
 - [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/d0c598b024de1b70aae54f4abd7b6b2552502f60)
+- [ ] [<code>Flatpak Updates (#790)</code>](https://github.com/elementary/calendar/commit/f323992ebc1183723cae726e012d6f42e245cc8d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -309,6 +310,9 @@
 - [ ] [<code>Metainfo Improvements (#186)</code>](https://github.com/elementary/switchboard-plug-applications/commit/2aceec2ec8ffdc719c6bf5e88219968bd189dd77)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Release notes for 7.0.0</code>](https://github.com/elementary/switchboard-plug-applications/commit/0c7ca6ec9be98ddc1cb5044b3aa7993bd2d6342c)
+- [ ] [<code>Defaults: rewrite, responsive (#188)</code>](https://github.com/elementary/switchboard-plug-applications/commit/558fecda41560f92182fa501e00d2e386e1e8ad9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -541,6 +545,9 @@
 - [ ] [<code>systemd: also pull in GSD targets (#63)</code>](https://github.com/elementary/session-settings/commit/b807ea60161294958c08cb8d53e5be82308a7f5e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch to GHCR containers (#65)</code>](https://github.com/elementary/session-settings/commit/19c49ebde1352cf07afd394fcd7da88bf09eb285)
+- [ ] [<code>Add optional Wayland session (#66)</code>](https://github.com/elementary/session-settings/commit/cb1176bca8ac84c08f6c2cc62654516c5447a6bb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -554,6 +561,11 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [7.0.3 → HEAD](https://github.com/elementary/gala/compare/7.0.3...HEAD)
 
 - [ ] [<code>Prototype colorblind correction filters (#1595)</code>](https://github.com/elementary/gala/commit/3bf28b0ddf5b879e5ac22485484c1c9079d5d028)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ci: Use any available mutter version</code>](https://github.com/elementary/gala/commit/bf3767967db2a0ab3b3b82950485c7de4430f12f)
+- [ ] [<code>ShadowEffect: Only use Gtk widgetry at the pain stage</code>](https://github.com/elementary/gala/commit/c26f0a09207b74d23281e300ac628f0c5d18ffda)
+- [ ] [<code>Hardcode accent colors (#1683)</code>](https://github.com/elementary/gala/commit/878a918c5374f813e5f7487a44ca40924777e29e)
+- [ ] [<code>Deduplicate ShadowEffect class (#1691)</code>](https://github.com/elementary/gala/commit/5c170b2e4e23af32ab0458c32820822ce319db82)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
@@ -704,30 +716,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.2.0 → HEAD](https://github.com/elementary/granite/compare/7.2.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.3.0 → HEAD](https://github.com/elementary/granite/compare/7.3.0...HEAD)
 
-- [ ] [<code>Fix build with newer Vala (#637)</code>](https://github.com/elementary/granite/commit/9065ac67831022bb9482f9405254a18924c7332d)
-- [ ] [<code>Switch to GHCR containers (#640)</code>](https://github.com/elementary/granite/commit/6d0e7f317b632f20f3998e9a6f6e30f8ccceea1b)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/granite/commit/4a1ec52a010432adad5dd10d43ed44528b1e66d9)
-- [ ] [<code>settings: remove inappropriate ownership annotation (#642)</code>](https://github.com/elementary/granite/commit/637a51fe8d13a986ce55b35729f19bf50117c114)
-- [ ] [<code>Add granite styles as a gresource (#639)</code>](https://github.com/elementary/granite/commit/6f035b7333ad00a972a78e6c07275a2add361565)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Init: load gresourced styles if present (#644)</code>](https://github.com/elementary/granite/commit/2b6d52043cb1f8a30e54675f8c375f2712ad5c92)
-- [ ] [<code>Fix demo desktop file (#647)</code>](https://github.com/elementary/granite/commit/0690b17eecd860212516a088d2eaacc635ff0f8c)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Settings Urls (#649)</code>](https://github.com/elementary/granite/commit/a73e7808104b31f7800435d881b24d9e9acde5d9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update granite.appdata.xml.in (#650)</code>](https://github.com/elementary/granite/commit/88b5acbee868ed71529a2e24d173a455f9429c19)
-- [ ] [<code>Constants: Add since versions to new URI values (#651)</code>](https://github.com/elementary/granite/commit/1ea25ca28bc511850371a5d33d505099e4fdb7b9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Styles: add basics (#646)</code>](https://github.com/elementary/granite/commit/def177c6e76aa3fe28deee1b49d4c6dacf94e2fc)
-- [ ] [<code>Metainfo improvements (#652)</code>](https://github.com/elementary/granite/commit/95d40ee1831e9e62cd0bcc2ad15327bdac723c10)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 7.3.0 (#653)</code>](https://github.com/elementary/granite/commit/5a7f047c8dd7faaaea48d67d41279ad2338a130b)
-- [ ] [<code>Update POTFILES (#654)</code>](https://github.com/elementary/granite/commit/00c7fc0837e81d2c3158b4e78ae1a90a6dc8459d)
-- [ ] [<code>README: Point to granite-7 version of valadoc (#655)</code>](https://github.com/elementary/granite/commit/dead26860f3da9e5082c673649c06b7afa7d4d49)
-  - <sub>Tags: <code>7.3.0</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
