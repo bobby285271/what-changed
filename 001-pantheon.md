@@ -313,6 +313,8 @@
 - [ ] [<code>Defaults: rewrite, responsive (#188)</code>](https://github.com/elementary/switchboard-plug-applications/commit/558fecda41560f92182fa501e00d2e386e1e8ad9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/ad2d5477b2a679cc212246640fb3994fe8f96eee)
+- [ ] [<code>Defaults: disallow focusing flowboxchild (#189)</code>](https://github.com/elementary/switchboard-plug-applications/commit/a4486eaa9593f86ad1e3b1051831626ba6ec6884)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
