@@ -160,8 +160,10 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/18549638a8a1697fc5b320d20e7c8ea41eb83f32)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>gestures: Don't kill the touchegg client.</code>](https://github.com/linuxmint/cinnamon/commit/cf79d4c938b4f0fe62e0d2bc0223c6774bf15765)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cs_themes.py: fix themes not updating (#11699)</code>](https://github.com/linuxmint/cinnamon/commit/52bb855740b67f7703c6b5ce8ecdf4f44fcb3fed)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.6.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.6.1...HEAD)
 
@@ -565,6 +567,9 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.3...HEAD)
 
+- [ ] [<code>Allow to override build date with SOURCE_DATE_EPOCH (#178)</code>](https://github.com/linuxmint/warpinator/commit/22c8b39dc1df6241be1b0175099477cbcc0dd80e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.4.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.4.3...HEAD)
 
@@ -751,56 +756,8 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.16 → HEAD](https://github.com/linuxmint/sticky/compare/1.16...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [22.11.2 → HEAD](https://github.com/linuxmint/timeshift/compare/22.11.2...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.06.2 → HEAD](https://github.com/linuxmint/timeshift/compare/23.06.2...HEAD)
 
-- [ ] [<code>Update Device.vala</code>](https://github.com/linuxmint/timeshift/commit/6d2599fc5278382710eef861f4ba20247d5a3953)
-- [ ] [<code>Update URLs to HTTPS</code>](https://github.com/linuxmint/timeshift/commit/a5676ca048321dff3dcb4150377bc8321f8b4f64)
-- [ ] [<code>README.md: fix a typo</code>](https://github.com/linuxmint/timeshift/commit/4c4d65044309f502adeb598910711935b8511f7e)
-- [ ] [<code>Added extra constraints to BTRFS mode in Supported System Configurations (#103)</code>](https://github.com/linuxmint/timeshift/commit/a551387f06f75a39b1ca811dd71d507e17a0cc92)
-- [ ] [<code>src/Utility: fix deprecated Thread.create usage (#151)</code>](https://github.com/linuxmint/timeshift/commit/240225d5471a186e21ef9f80666a9db53b06bd13)
-- [ ] [<code>AsyncTask: Use a mutex to guard access to AsyncTask.status_line.</code>](https://github.com/linuxmint/timeshift/commit/18cd48ddd48ea6adeed1a0ab433c7bc71494c43e)
-- [ ] [<code>Fix printf format warnings (#162)</code>](https://github.com/linuxmint/timeshift/commit/ed0d20acf105b1ce3b768aaa22ef90297caa893c)
-- [ ] [<code>Don't use deprecated from_timeval_utc function</code>](https://github.com/linuxmint/timeshift/commit/4607bcc908be3b2f5d3cea1de8cf93b1a8ea3c55)
-- [ ] [<code>Fix deprecated Thread.create usage</code>](https://github.com/linuxmint/timeshift/commit/e18377e33e3e31521bbddf9cfff08e384e7b8939)
-- [ ] [<code>Fix segmentation fault (#169)</code>](https://github.com/linuxmint/timeshift/commit/382c1638bc0e7c30aabdf1bd13b025ff4dbbea39)
-- [ ] [<code>Added missing documentation regarding tags abbrevation which was difficult to find (#168)</code>](https://github.com/linuxmint/timeshift/commit/6781a06a76c748989e3e169ea7ce753fa3100afd)
-- [ ] [<code>Console: add --version option (#175)</code>](https://github.com/linuxmint/timeshift/commit/3b72e31e5daa211127d09532e013750684c9f306)
-- [ ] [<code>Development documentation for easier accessibility (#170)</code>](https://github.com/linuxmint/timeshift/commit/0d8d1de8bf977a3977d984795dbb1fad4211c6c2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove timeshift-uninstall binary (#176)</code>](https://github.com/linuxmint/timeshift/commit/5a4414676214ac3d25b4c6c896fc84fb9e7ed139)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Debian clean up (#180)</code>](https://github.com/linuxmint/timeshift/commit/0c8a853c9d6d8f64baefeecbc9ff02cf862323dd)
-- [ ] [<code>Console: add --version option description to the help massages (#181)</code>](https://github.com/linuxmint/timeshift/commit/0c616cf5cf706e83dadbc74fb10a75b90a8268cb)
-- [ ] [<code>src/makefile: remove VTE_291_OLD and VTE_291 symbols (#183)</code>](https://github.com/linuxmint/timeshift/commit/94315c5463b2331f5e506caa4d495d07b76a8bca)
-- [ ] [<code>Fix project's license (#189)</code>](https://github.com/linuxmint/timeshift/commit/0b21b1ededd433190d0a50516eb78115d90a5566)
-- [ ] [<code>Use help2man utility to create a man page. (#178)</code>](https://github.com/linuxmint/timeshift/commit/9668beec48b098737add580c6c3af6abf7c22b51)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>meson support (#173)</code>](https://github.com/linuxmint/timeshift/commit/79ddd89891472cb176cbe0da185007a239d6d4ae)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Fix deprecated Gtk.Widget.margin_left and Gtk.Widget.margin_right properties</code>](https://github.com/linuxmint/timeshift/commit/c9aba352c9ddc94e1307ed067676f03ec2cf4a1c)
-- [ ] [<code>Use get_hadjustment via casting TreeView to Gtk.Scrollable</code>](https://github.com/linuxmint/timeshift/commit/f4282ea7de6465630ac98ed9230986c52c2757b3)
-- [ ] [<code>meson: add project's license definition</code>](https://github.com/linuxmint/timeshift/commit/8818fc4218d3482a92f4bd646d5dced45728901a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Don't use the deprecated Gtk.TreeView.rules_hint feature (#201)</code>](https://github.com/linuxmint/timeshift/commit/7ab8afc51b085f647eedfe80062f32775e85cdf9)
-- [ ] [<code>docs: automatically generate timeshift-gtk manpage (#194)</code>](https://github.com/linuxmint/timeshift/commit/bd4d2b5b5c00b7eb7e45078573b8cc83a46c7068)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Use an unsafe cast (#200)</code>](https://github.com/linuxmint/timeshift/commit/a31bfe628e2b7b79b37b8760e8156c5633341d66)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/8ed0ec780b342424d608fd6e614c4b55eb6919c7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>git: Remove generate man pages</code>](https://github.com/linuxmint/timeshift/commit/cd01296fbb7f7ced192b2a55306e0d1da96187b6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>23.06.1</code>](https://github.com/linuxmint/timeshift/commit/0b3e43a1e4a26e06c85b97bf1749bef0e91d8d79)
-  - <sub>Tags: <code>23.06.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix the desktop file name + project license in appdata (#204)</code>](https://github.com/linuxmint/timeshift/commit/7629f00a890a0d9a09170ad92ed2ff86d610abab)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/timeshift/commit/5b2a0a86173a1b11099e543f0384a71f5ca5d2a5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>23.06.2</code>](https://github.com/linuxmint/timeshift/commit/863e734ccc345cb18710937afc372cdd03b4a7ff)
-  - <sub>Tags: <code>23.06.2</code> <code>master.lmde5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.2.8 → HEAD](https://github.com/linuxmint/xed/compare/3.2.8...HEAD)
 
@@ -836,8 +793,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build.yml: Add xapp dependency</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/630f55ba1bb6b6d3cff65bf619af8315b6684ef4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix typo in readme (#6)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/704344bd257a9d0d46c02d5511f6aa3aacd7053c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
