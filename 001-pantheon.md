@@ -257,6 +257,9 @@
 - [ ] [<code>Plug: Remove unused category other (#252)</code>](https://github.com/elementary/switchboard/commit/baedd88b49ae24a4f7243f9195c86f47429e155e)
 - [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/fdb87920b9d8c6b910668adc732f73792c7abb40)
 - [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/d1f1a1b648741086d9efe0808773915560a209bd)
+- [ ] [<code>Application: center searchbox in categoryview (#239)</code>](https://github.com/elementary/switchboard/commit/cfec3cda763c5603f800b15d76de601fbe2ee446)
+- [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/4addc644b8ff739ece875e6e92a309c58a959ddb)
+- [ ] [<code>Clamp category box, not scrolled window (#264)</code>](https://github.com/elementary/switchboard/commit/eb8fd718d63ad3745ee3a98333fc7c49bd86acd9)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -299,6 +302,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/ad2d5477b2a679cc212246640fb3994fe8f96eee)
 - [ ] [<code>Defaults: disallow focusing flowboxchild (#189)</code>](https://github.com/elementary/switchboard-plug-applications/commit/a4486eaa9593f86ad1e3b1051831626ba6ec6884)
+- [ ] [<code>DefaultPlug: remove utils class, simplify (#193)</code>](https://github.com/elementary/switchboard-plug-applications/commit/076523936861252b462967a255ad20f30192ddd7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -340,6 +345,8 @@
 - [ ] [<code>Switch to GHCR containers (#344)</code>](https://github.com/elementary/switchboard-plug-display/commit/86b29d39b38f43d7a804e57ee4ce7332d15ca577)
 - [ ] [<code>NightLightView: Redesign and cleanup (#351)</code>](https://github.com/elementary/switchboard-plug-display/commit/2cdee6ca37a3ca776b3debf5eaf2c35a5c54941b)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/bf8b6941b999f3244acdd40c390d11017bf2efd1)
+- [ ] [<code>Create Filters View (#350)</code>](https://github.com/elementary/switchboard-plug-display/commit/04e6e5860b5916508fad9d586abda15fe772982a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -455,6 +462,7 @@
 - [ ] [<code>Rename media-memory-sembolic.svg to media-memory-symbolic.svg (#1200)</code>](https://github.com/elementary/icons/commit/f44e5d0a4b65cb64d2318f0bd0cc5ed0d820e373)
 - [ ] [<code>Status: remove non-fdo microphone icons (#1201)</code>](https://github.com/elementary/icons/commit/338dbb1ad3f2e2e5a5cfb78a46791f483365c3c6)
 - [ ] [<code>Status: re-add muted mic symbolics (#1202)</code>](https://github.com/elementary/icons/commit/eb73e436642d159903325590e75a629004afc163)
+- [ ] [<code>Remove Night Light icons (#1203)</code>](https://github.com/elementary/icons/commit/a07083edf59049bc136b0fd16e1443f70deb7dbc)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -508,6 +516,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: Install lightdm config (#651)</code>](https://github.com/elementary/greeter/commit/1b3879d9a2232876c327a62b8869ddf46028fa8f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: Use any available mutter version (#657)</code>](https://github.com/elementary/greeter/commit/9eaa167c9b9c8027b9eec9ab4c8dd71148b24ee7)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -742,6 +751,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/a48d271019ca31dab24292256463c68bbab0941b)
 - [ ] [<code>Metainfo: Add release notes for 1.3.0 (#63)</code>](https://github.com/elementary/settings-daemon/commit/73396c36b870d150fcdc3b088688ebb1b2dcd35b)
+- [ ] [<code>Expose user's mouse settings (#66)</code>](https://github.com/elementary/settings-daemon/commit/100c4c4d595a6c4e0b19e0fb02d142ab986f5db1)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
