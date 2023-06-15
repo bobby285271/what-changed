@@ -251,28 +251,12 @@
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
-- [ ] [<code>master → main</code>](https://github.com/elementary/switchboard/commit/3fcbfee54e6a3130585b160bb909ab28df99a62c)
-- [ ] [<code>Port to Gtk4 (#231)</code>](https://github.com/elementary/switchboard/commit/7678e94e6ac529ec27f8ec94ebdfc96aeb7321de)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Lib: bump to libswitchboard-3 (#236)</code>](https://github.com/elementary/switchboard/commit/cb4d8c3c63c6997aa9f53b6b098c80d73e49a84d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Application: force use portals (#221)</code>](https://github.com/elementary/switchboard/commit/c821ff397a0a8253a942af35b82b678ff56f7884)
-- [ ] [<code>Application: Put everything in a WindowHandle (#237)</code>](https://github.com/elementary/switchboard/commit/b86b2e8a820c239651d26d2b5a3c8f1567d751c0)
-- [ ] [<code>SearchView: use clamp instead of width_chars (#238)</code>](https://github.com/elementary/switchboard/commit/b028a6c92d48f3025f5b4ea4fcc49cab6e8c39e7)
-- [ ] [<code>Application: center searchbox in categoryview (#239)</code>](https://github.com/elementary/switchboard/commit/97a29191ca759c3347616d85b669d1813c8a8ee7)
-- [ ] [<code>Application: don't allow leaflet to unfold (#240)</code>](https://github.com/elementary/switchboard/commit/40a18126c4959b4ec17b8665e0bc8a9f5b4984c7)
-- [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/c7e177a9f0ada7f01553e8fb3173b2a412b8f8c8)
-- [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/aa6bc2e5ff81c3440ebab47ce1e77ed3ec8a9cd2)
-- [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/70271ff6ea5f4d7927a679f981198ae54b3141fa)
-- [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/46aa059e9eee383b25e31384b4c93754ed662721)
-- [ ] [<code>SamplePlug: Remove show_all for GTK 4 (#251)</code>](https://github.com/elementary/switchboard/commit/9fdfb025cc8e83c0251f020d242d952f587c3808)
-- [ ] [<code>Plug: Remove unused category other (#252)</code>](https://github.com/elementary/switchboard/commit/2d10bdfa2ba8caa48ab24e8c0cdc07c0f96db7eb)
-- [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/b013b28bd18703812857e443b6791756e00f3498)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard/commit/a9b64c5310f5f2847135ab2ad59ce1669b1c70dd)
-- [ ] [<code>Switch to GHCR containers (#256)</code>](https://github.com/elementary/switchboard/commit/25d83c57d7a58f9cda9a7a768efb4be148f09f99)
-- [ ] [<code>Fix terminal warning on navigate (#260)</code>](https://github.com/elementary/switchboard/commit/7051fba3c6da33cf4de4bfd52162a1635b65244e)
+- [ ] [<code>Switch to GHCR containers (#257)</code>](https://github.com/elementary/switchboard/commit/05ee0f231b8235746d5248c09c02a018dac69f95)
+- [ ] [<code>gettext: Use elementary next</code>](https://github.com/elementary/switchboard/commit/a2fcc02f8bc445132f0981e39f1da84931cedbe6)
+- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard/commit/ae5680a4ba9511ea46ccd5b46a8dd4d0dba04995)
+- [ ] [<code>Plug: Remove unused category other (#252)</code>](https://github.com/elementary/switchboard/commit/baedd88b49ae24a4f7243f9195c86f47429e155e)
+- [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/fdb87920b9d8c6b910668adc732f73792c7abb40)
+- [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/d1f1a1b648741086d9efe0808773915560a209bd)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -569,6 +553,11 @@
 - [ ] [<code>Hardcode accent colors (#1683)</code>](https://github.com/elementary/gala/commit/878a918c5374f813e5f7487a44ca40924777e29e)
 - [ ] [<code>Deduplicate ShadowEffect class (#1691)</code>](https://github.com/elementary/gala/commit/5c170b2e4e23af32ab0458c32820822ce319db82)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: Use Gtk later</code>](https://github.com/elementary/gala/commit/4c50eb2003eb852a4c4fbf958a51667897072d4a)
+- [ ] [<code>Remove extra variable</code>](https://github.com/elementary/gala/commit/1a2a7fe29be675c63ee3216fdf6380e184a774d9)
+- [ ] [<code>Tooltip: Use Gtk later (#1684)</code>](https://github.com/elementary/gala/commit/81f98c85f9b556eef3274f177e709b8adfa46f37)
+- [ ] [<code>WindowSwitcher: Use Gtk later (#1686)</code>](https://github.com/elementary/gala/commit/cfb216b9f0d70044225ca2d92c655b2383c20494)
+- [ ] [<code>WindowManager: Remove Meta.Later (#1688)</code>](https://github.com/elementary/gala/commit/5225c67c53fc20a5ea7817cca3836d22b56217dd)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
