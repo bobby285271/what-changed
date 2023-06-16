@@ -59,6 +59,13 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.2 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.2...HEAD)
 
+- [ ] [<code>Revert "nemo-list-view.c: Fix some tooltip markup warnings."</code>](https://github.com/linuxmint/nemo/commit/c39f0f2d1b93c42ab168dcc8c645910816221e48)
+- [ ] [<code>Disable view selection when viewing search results.</code>](https://github.com/linuxmint/nemo/commit/dfb5375532ab1a0e441f98e427ca446051ee81b9)
+- [ ] [<code>search: Fix tracker search, which was broken by 3c691a8e0e80b5.</code>](https://github.com/linuxmint/nemo/commit/b03e84191b4256d12b14bbbb5d7d6d9b78dc164f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-search-directory: Unset the search_running flag when the</code>](https://github.com/linuxmint/nemo/commit/fc1a807f2ffe45c71f80fffeed0b92f21f4cc3d2)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
