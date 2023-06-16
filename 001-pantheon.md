@@ -30,6 +30,7 @@
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
+- [ ] [<code>Fix crash when pasting into division or multiplication expression (#259)</code>](https://github.com/elementary/calculator/commit/fbc12436ac9f9be42fc08a463a1c15e2606950cc)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -304,6 +305,13 @@
 - [ ] [<code>Defaults: disallow focusing flowboxchild (#189)</code>](https://github.com/elementary/switchboard-plug-applications/commit/a4486eaa9593f86ad1e3b1051831626ba6ec6884)
 - [ ] [<code>DefaultPlug: remove utils class, simplify (#193)</code>](https://github.com/elementary/switchboard-plug-applications/commit/076523936861252b462967a255ad20f30192ddd7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Ship our own icon (#190)</code>](https://github.com/elementary/switchboard-plug-applications/commit/be45811833068a760642ee5e8ba30451caf36669)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Startup: AppChooser is a dialog (#192)</code>](https://github.com/elementary/switchboard-plug-applications/commit/5d4a544ba3a08f3038aa0617875b8df9e89820a0)
+- [ ] [<code>Startup: clean up, clamp, backport from Gtk4 (#191)</code>](https://github.com/elementary/switchboard-plug-applications/commit/7377e847e8d8b979fc3eaf463b5b84ff3af4d642)
+- [ ] [<code>Permissions: Gtk4 prep (#194)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b98a3709ac16610946d0dcd426e04cf25ff443b9)
+- [ ] [<code>Startup: text button for add, inline remove (#195)</code>](https://github.com/elementary/switchboard-plug-applications/commit/ad22f446f4fea14175722d61ee625a49065e49df)
+- [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/170f3e5810f092e09cd8f96d7c6b4d0161088785)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -412,16 +420,13 @@
 - [ ] [<code>Authenticate on demand for lid close settings (#218)</code>](https://github.com/elementary/switchboard-plug-power/commit/b4d3c8774b17ea218fda81294b8e544179240335)
 - [ ] [<code>Smooth scrolling support (#219)</code>](https://github.com/elementary/switchboard-plug-power/commit/382d7919e15700adbc4d3dc8f7e79e13960747cf)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Port to Gtk4 (#217)</code>](https://github.com/elementary/switchboard-plug-power/commit/c5e6b8b7b37eaaaaf2668437847919e88716e136)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/3322b12bc67f37d9f668be5a5166b559ae231c51)
-- [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/b8ae5af4477d23dc5553a8cccebf7cab5bcdde3d)
-- [ ] [<code>Remove unused power-mode-automatic icon (#224)</code>](https://github.com/elementary/switchboard-plug-power/commit/f85cd814c2d2be481611e867973b908b9a736e88)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/fa92ac872a9133d73ae8087a78cc299aa68d7c78)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/471b497127e721183fb5384ea12d30c0f23e82f6)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/641f72196acabf4881f0e2561151c43e8b8d7df8)
-- [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/5add0f8849d75329f8ff39f9ddb73c51b62c69e9)
+- [ ] [<code>Switch to GHCR containers (#231)</code>](https://github.com/elementary/switchboard-plug-power/commit/ed18d0a6ab667eea52912f246547ab0bf413a818)
+- [ ] [<code>Better smooth scrolling (#222)</code>](https://github.com/elementary/switchboard-plug-power/commit/9f7e0e416d64866d6b1952edccd007aefc8b6e1c)
+- [ ] [<code>Fix Gettext Action (#223)</code>](https://github.com/elementary/switchboard-plug-power/commit/1537159648f13a1f3ec0a4d281afd7903671cb99)
+- [ ] [<code>Remove unused power-mode-automatic icon (#224)</code>](https://github.com/elementary/switchboard-plug-power/commit/aad1848e518e48bb7ceada4ce3418cba5fbc8fa8)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/0c0ff009f2bc97cfe494e82d77938c646886b645)
+- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/09b9ba44a50665a8f08b957bba099f5dd2b01c46)
+- [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/a4bc6a2ac8fff73fd326af236e077cfad03c2ff9)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -463,6 +468,7 @@
 - [ ] [<code>Status: remove non-fdo microphone icons (#1201)</code>](https://github.com/elementary/icons/commit/338dbb1ad3f2e2e5a5cfb78a46791f483365c3c6)
 - [ ] [<code>Status: re-add muted mic symbolics (#1202)</code>](https://github.com/elementary/icons/commit/eb73e436642d159903325590e75a629004afc163)
 - [ ] [<code>Remove Night Light icons (#1203)</code>](https://github.com/elementary/icons/commit/a07083edf59049bc136b0fd16e1443f70deb7dbc)
+- [ ] [<code>Status: remove 16px nightlight icons (#1204)</code>](https://github.com/elementary/icons/commit/4bdba9d7ca6774daf4d018e519dd62292db9cde1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -753,6 +759,7 @@
 - [ ] [<code>Metainfo: Add release notes for 1.3.0 (#63)</code>](https://github.com/elementary/settings-daemon/commit/73396c36b870d150fcdc3b088688ebb1b2dcd35b)
 - [ ] [<code>Expose user's mouse settings (#66)</code>](https://github.com/elementary/settings-daemon/commit/100c4c4d595a6c4e0b19e0fb02d142ab986f5db1)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Expose xkb options (#67)</code>](https://github.com/elementary/settings-daemon/commit/b0477f21109a0858deff18a31efa4bdc6c17742f)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
