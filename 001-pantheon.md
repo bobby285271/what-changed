@@ -193,6 +193,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Create flatpak-x-checker.yml (#909)</code>](https://github.com/elementary/mail/commit/014ff90f5651f30ff09eaeab74e42b5dfd8269ba)
+- [ ] [<code>Add support for inline images in the composer (#907)</code>](https://github.com/elementary/mail/commit/ed8e225ab065f690e002ba7ec68b7585fd34ca24)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -312,6 +314,7 @@
 - [ ] [<code>Permissions: Gtk4 prep (#194)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b98a3709ac16610946d0dcd426e04cf25ff443b9)
 - [ ] [<code>Startup: text button for add, inline remove (#195)</code>](https://github.com/elementary/switchboard-plug-applications/commit/ad22f446f4fea14175722d61ee625a49065e49df)
 - [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/170f3e5810f092e09cd8f96d7c6b4d0161088785)
+- [ ] [<code>DefaultPlug: flowboxchild can't be selected with pointer (#198)</code>](https://github.com/elementary/switchboard-plug-applications/commit/27e2540b246c2b0731e3a2399a20bbcac9011798)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
