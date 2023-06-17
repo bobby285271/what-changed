@@ -31,6 +31,7 @@
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
 - [ ] [<code>Fix crash when pasting into division or multiplication expression (#259)</code>](https://github.com/elementary/calculator/commit/fbc12436ac9f9be42fc08a463a1c15e2606950cc)
+- [ ] [<code>Metainfo: set brand color to Mint 500 (#257)</code>](https://github.com/elementary/calculator/commit/40a1261ab5381927aded89f9c0290ec51c50f479)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
 
@@ -194,6 +195,10 @@
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Create flatpak-x-checker.yml (#909)</code>](https://github.com/elementary/mail/commit/014ff90f5651f30ff09eaeab74e42b5dfd8269ba)
 - [ ] [<code>Add support for inline images in the composer (#907)</code>](https://github.com/elementary/mail/commit/ed8e225ab065f690e002ba7ec68b7585fd34ca24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Sort special folders to top (#910)</code>](https://github.com/elementary/mail/commit/555d0efc34994973595ba131015a2e0b01d37b6f)
+- [ ] [<code>Move the composer editor toolbar into its own class (#908)</code>](https://github.com/elementary/mail/commit/60a1a39131e357f9c1b4846626506d9f5c568376)
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
@@ -490,6 +495,9 @@
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.0.2 → HEAD](https://github.com/elementary/default-settings/compare/7.0.2...HEAD)
 
+- [ ] [<code>deb-packaging: Divert printer test page instead of replacing whole package</code>](https://github.com/elementary/default-settings/commit/8058beb5e85d1fe8d15f50e805c74b2480f9fe73)
+- [ ] [<code>deb-packaging: Divert printer test page instead of replacing whole package</code>](https://github.com/elementary/default-settings/commit/c35acf91a77eb85a506771fbc92a387ba3f873e2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
 
