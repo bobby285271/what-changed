@@ -269,6 +269,8 @@
 - [ ] [<code>Merge pull request #1006 from Penfore/add-brazilian-portuguese</code>](https://github.com/alainm23/planner/commit/b12c3aadfe524dfe937bd1e31d27840979146bb6)
 - [ ] [<code>Merge pull request #1014 from rene-coty/master</code>](https://github.com/alainm23/planner/commit/941ec9ffbb10babfd48a724add1a1d117dfe99f0)
 - [ ] [<code>Update translate texts</code>](https://github.com/alainm23/planner/commit/6a1a6e341c3144d5099a7374253e85d2a40348ba)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/a894ea11a1b4c0d5bd77d66e251c3bd18a268b6f)
+- [ ] [<code>Merge pull request #1016 from daudix-UFO/daudix-UFO-patch-1</code>](https://github.com/alainm23/planner/commit/d9717a908ba54e30fd0cc1a9a6a15faedf3d2e87)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
