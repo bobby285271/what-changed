@@ -271,6 +271,10 @@
 - [ ] [<code>Update translate texts</code>](https://github.com/alainm23/planner/commit/6a1a6e341c3144d5099a7374253e85d2a40348ba)
 - [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/a894ea11a1b4c0d5bd77d66e251c3bd18a268b6f)
 - [ ] [<code>Merge pull request #1016 from daudix-UFO/daudix-UFO-patch-1</code>](https://github.com/alainm23/planner/commit/d9717a908ba54e30fd0cc1a9a6a15faedf3d2e87)
+- [ ] [<code>New preferences window and background run with libportal</code>](https://github.com/alainm23/planner/commit/e3e2e3e05c47f646b59f79e7e318e486148724e4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planner/commit/2d226fb29f17887127ef812c4bea0759389e54a1)
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
