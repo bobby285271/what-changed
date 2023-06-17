@@ -65,6 +65,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>nemo-search-directory: Unset the search_running flag when the</code>](https://github.com/linuxmint/nemo/commit/fc1a807f2ffe45c71f80fffeed0b92f21f4cc3d2)
+- [ ] [<code>search view: Fix sort column/direction not being remembered.</code>](https://github.com/linuxmint/nemo/commit/9f2db6a0efb3d26351b07089974e2923d8639121)
+- [ ] [<code>nemo-list-view.c: Don't try to work out a monospace font to use if</code>](https://github.com/linuxmint/nemo/commit/478d688fe200a600edcb39f5d53cdfd71f908326)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
