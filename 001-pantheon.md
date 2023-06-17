@@ -320,6 +320,7 @@
 - [ ] [<code>Startup: text button for add, inline remove (#195)</code>](https://github.com/elementary/switchboard-plug-applications/commit/ad22f446f4fea14175722d61ee625a49065e49df)
 - [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/170f3e5810f092e09cd8f96d7c6b4d0161088785)
 - [ ] [<code>DefaultPlug: flowboxchild can't be selected with pointer (#198)</code>](https://github.com/elementary/switchboard-plug-applications/commit/27e2540b246c2b0731e3a2399a20bbcac9011798)
+- [ ] [<code>DefaultPlug: add to scrolledwindow (#197)</code>](https://github.com/elementary/switchboard-plug-applications/commit/e6da7181c7d098f61a7d3cb0e4d61bda9f48b1b1)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -435,6 +436,8 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/0c0ff009f2bc97cfe494e82d77938c646886b645)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/09b9ba44a50665a8f08b957bba099f5dd2b01c46)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/a4bc6a2ac8fff73fd326af236e077cfad03c2ff9)
+- [ ] [<code>Backport changes from Gtk4 branch (#236)</code>](https://github.com/elementary/switchboard-plug-power/commit/742b95aea08aec9c2984a5cb1bf38b71f3a1310d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -459,6 +462,11 @@
 - [ ] [<code>actions/checkout@v3 (#233)</code>](https://github.com/elementary/switchboard-plug-sound/commit/b84b7cc2b2547acd505eb0e9c2ba0820ef736e44)
 - [ ] [<code>Switch to GHCR containers (#237)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4fbbfb122c439049aa9b8bb01bffd3a582dfd520)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/3b1b48799bb8ee82cfe1a3d70e75eaf5e9da8dc9)
+- [ ] [<code>Plug: place contents in a Clamp (#240)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1ea6c1fe938b6866edef7b1fe63568b31eedefc8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Output: more vertical layout (#241)</code>](https://github.com/elementary/switchboard-plug-sound/commit/25497e958d721a78d92f76595206474e59b3f3e3)
+- [ ] [<code>InputPanel: better use vertical space (#242)</code>](https://github.com/elementary/switchboard-plug-sound/commit/db47de1f1dbbb23480a9450b416bf1139a0e374f)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -477,6 +485,7 @@
 - [ ] [<code>Status: re-add muted mic symbolics (#1202)</code>](https://github.com/elementary/icons/commit/eb73e436642d159903325590e75a629004afc163)
 - [ ] [<code>Remove Night Light icons (#1203)</code>](https://github.com/elementary/icons/commit/a07083edf59049bc136b0fd16e1443f70deb7dbc)
 - [ ] [<code>Status: remove 16px nightlight icons (#1204)</code>](https://github.com/elementary/icons/commit/4bdba9d7ca6774daf4d018e519dd62292db9cde1)
+- [ ] [<code>Actions: update insert-image-symbolic (#1205)</code>](https://github.com/elementary/icons/commit/2b46c2ba332ad1f3c5d1b1783639e6499329b860)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -651,6 +660,7 @@
 - [ ] [<code>Improved response to power state changes in Switchboard (#191)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ce88a7b03231b59c57f832aa656b4763d7d1e77e)
 - [ ] [<code>Revert "Improved response to power state changes in Switchboard (#191)" (#194)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/533a60b24bc22b2076d339dd48ab4ae01605ee4a)
 - [ ] [<code>Gresource and update icons (#196)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/362d329ba4437c6d54d0b346ded70a873b9ef212)
+- [ ] [<code>Synchronise settings and global "is-powered" state (#195)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/37ce11bcbc5b1a863a5e689514180ac04b6ec737)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
