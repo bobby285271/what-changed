@@ -321,6 +321,9 @@
 - [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/170f3e5810f092e09cd8f96d7c6b4d0161088785)
 - [ ] [<code>DefaultPlug: flowboxchild can't be selected with pointer (#198)</code>](https://github.com/elementary/switchboard-plug-applications/commit/27e2540b246c2b0731e3a2399a20bbcac9011798)
 - [ ] [<code>DefaultPlug: add to scrolledwindow (#197)</code>](https://github.com/elementary/switchboard-plug-applications/commit/e6da7181c7d098f61a7d3cb0e4d61bda9f48b1b1)
+- [ ] [<code>DefaultPlug: Set accessible name for combo boxes (#200)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6a478a0881d8eef40e95376cdedc041b604c47f9)
+- [ ] [<code>AppChooser: Set accessible name (#201)</code>](https://github.com/elementary/switchboard-plug-applications/commit/05c87cf66178a52da0061ddb1de1fa688c34e5e1)
+- [ ] [<code>Permissions: Set accessible name (#202)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3e760e09d385ebfca5a8e4a5cb74dd972e54fd68)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -467,6 +470,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Output: more vertical layout (#241)</code>](https://github.com/elementary/switchboard-plug-sound/commit/25497e958d721a78d92f76595206474e59b3f3e3)
 - [ ] [<code>InputPanel: better use vertical space (#242)</code>](https://github.com/elementary/switchboard-plug-sound/commit/db47de1f1dbbb23480a9450b416bf1139a0e374f)
+- [ ] [<code>OutputPanel: Remove extra margin (#243)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5c24ef7d6cdf6ec0762992dbb67609ed7c5049a)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
