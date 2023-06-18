@@ -275,6 +275,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planner/commit/2d226fb29f17887127ef812c4bea0759389e54a1)
+- [ ] [<code>Add initial Quick Add</code>](https://github.com/alainm23/planner/commit/3d238c8bef97d5dfb0427e8976d31359660d2f21)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Run on startup added</code>](https://github.com/alainm23/planner/commit/54c737bdb55b42b0a7f3f9fa8064da30b88c3521)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
