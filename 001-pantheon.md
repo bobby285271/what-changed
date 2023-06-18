@@ -108,6 +108,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Reduce terminal noise (#1323)</code>](https://github.com/elementary/code/commit/f74056da4400e52444b0665ce1cf5b0be8ef86c8)
+- [ ] [<code>Remove plugin set option (#1324)</code>](https://github.com/elementary/code/commit/d1047366e2b38698e46ef197990e4e519b328829)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -256,6 +258,8 @@
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.0 → HEAD](https://github.com/elementary/sideload/compare/6.2.0...HEAD)
 
+- [ ] [<code>Make Open button default widget (#160)</code>](https://github.com/elementary/sideload/commit/f8265f73522ec75365e53aa3ee21542007fcdba4)
+- [ ] [<code>Fix glitches (#159)</code>](https://github.com/elementary/sideload/commit/743d5d94e621073d7e3510b32c7623cf7958dc82)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
