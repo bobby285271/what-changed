@@ -328,6 +328,7 @@
 - [ ] [<code>DefaultPlug: Set accessible name for combo boxes (#200)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6a478a0881d8eef40e95376cdedc041b604c47f9)
 - [ ] [<code>AppChooser: Set accessible name (#201)</code>](https://github.com/elementary/switchboard-plug-applications/commit/05c87cf66178a52da0061ddb1de1fa688c34e5e1)
 - [ ] [<code>Permissions: Set accessible name (#202)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3e760e09d385ebfca5a8e4a5cb74dd972e54fd68)
+- [ ] [<code>Permissions: Disable reset button if already default (#203)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8cb6ad4ba6d6047ec19a112fd19d4f86d14d17a2)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -601,6 +602,9 @@
 - [ ] [<code>Tooltip: Use Gtk later (#1684)</code>](https://github.com/elementary/gala/commit/81f98c85f9b556eef3274f177e709b8adfa46f37)
 - [ ] [<code>WindowSwitcher: Use Gtk later (#1686)</code>](https://github.com/elementary/gala/commit/cfb216b9f0d70044225ca2d92c655b2383c20494)
 - [ ] [<code>WindowManager: Remove Meta.Later (#1688)</code>](https://github.com/elementary/gala/commit/5225c67c53fc20a5ea7817cca3836d22b56217dd)
+- [ ] [<code>Update Gala Systemd services (#1692)</code>](https://github.com/elementary/gala/commit/befba6920379988b1d4c10a69cb0151bdeb629d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -852,6 +856,8 @@
 - [ ] [<code>Bump easimon/maximize-build-space from 6 to 7 (#664)</code>](https://github.com/elementary/os/commit/e6fd503a4ee10d2366dd1bb2868e0472605f0547)
 - [ ] [<code>Update RPi build script to Horus (#667)</code>](https://github.com/elementary/os/commit/565c110095e4b1bce1f9babbf15f1b48892be779)
 - [ ] [<code>Free more space for ARM builds (#669)</code>](https://github.com/elementary/os/commit/2efa0f55015d11762073e98109cd48ae33671523)
+- [ ] [<code>Remove backported workarounds (#671)</code>](https://github.com/elementary/os/commit/cfd5b41cecae708066b8208f64caffbc944c395a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
