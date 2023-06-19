@@ -578,6 +578,8 @@
 - [ ] [<code>Add optional Wayland session (#66)</code>](https://github.com/elementary/session-settings/commit/cb1176bca8ac84c08f6c2cc62654516c5447a6bb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Reflect new systemd target name (#67)</code>](https://github.com/elementary/session-settings/commit/ef4d9dc9272987207dfc81cbc0d8ef9f29412c44)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
