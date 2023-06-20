@@ -476,6 +476,8 @@
 - [ ] [<code>Output: more vertical layout (#241)</code>](https://github.com/elementary/switchboard-plug-sound/commit/25497e958d721a78d92f76595206474e59b3f3e3)
 - [ ] [<code>InputPanel: better use vertical space (#242)</code>](https://github.com/elementary/switchboard-plug-sound/commit/db47de1f1dbbb23480a9450b416bf1139a0e374f)
 - [ ] [<code>OutputPanel: Remove extra margin (#243)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5c24ef7d6cdf6ec0762992dbb67609ed7c5049a)
+- [ ] [<code>Set volume scales sensitive based on device (#244)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d7903b0c5886e0710736782aeba5aafc5c3e1ec)
+- [ ] [<code>OutputPanel: include screen reader shortcut (#245)</code>](https://github.com/elementary/switchboard-plug-sound/commit/d4b711a12ec6531e60dfcfc2fe0e2d5a3f41e873)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -495,6 +497,8 @@
 - [ ] [<code>Remove Night Light icons (#1203)</code>](https://github.com/elementary/icons/commit/a07083edf59049bc136b0fd16e1443f70deb7dbc)
 - [ ] [<code>Status: remove 16px nightlight icons (#1204)</code>](https://github.com/elementary/icons/commit/4bdba9d7ca6774daf4d018e519dd62292db9cde1)
 - [ ] [<code>Actions: update insert-image-symbolic (#1205)</code>](https://github.com/elementary/icons/commit/2b46c2ba332ad1f3c5d1b1783639e6499329b860)
+- [ ] [<code>Actions: Make media-record more consistent (#1207)</code>](https://github.com/elementary/icons/commit/0d2d0dd7bd03fe14874e1badd6f9c9e1e33ae545)
+- [ ] [<code>Devices: Improve borders for optical media (#1206)</code>](https://github.com/elementary/icons/commit/d5ea97fc39e62a382af57e23fd0290eb412a818a)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -552,6 +556,11 @@
 - [ ] [<code>meson: Install lightdm config (#651)</code>](https://github.com/elementary/greeter/commit/1b3879d9a2232876c327a62b8869ddf46028fa8f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CI: Use any available mutter version (#657)</code>](https://github.com/elementary/greeter/commit/9eaa167c9b9c8027b9eec9ab4c8dd71148b24ee7)
+- [ ] [<code>Compositor: Mask corners (#661)</code>](https://github.com/elementary/greeter/commit/e8d9c750be08c442514fb57fd6a0a5484d829249)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo Improvements (#663)</code>](https://github.com/elementary/greeter/commit/71e477ecf1cb6b7c68057543c88cc6226c4fabf8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo 7.0.0 (#664)</code>](https://github.com/elementary/greeter/commit/fbc7f5ac8fb5e4c83921d3ad9373dd0723e21f45)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
