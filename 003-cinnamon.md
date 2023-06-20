@@ -7,6 +7,9 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.8.2...HEAD)
 
+- [ ] [<code>js/misc/util.js: Add function splitByGlyph</code>](https://github.com/linuxmint/cinnamon/commit/1700845bbdbc8e189eefff0e2d8f047326506cb0)
+- [ ] [<code>Sound applet: Truncate applet panel text by glyph instead...</code>](https://github.com/linuxmint/cinnamon/commit/7e4d0be4b8232e5721db644c29ed50a87580887e)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.1...HEAD)
 
