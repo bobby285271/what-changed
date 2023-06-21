@@ -125,6 +125,7 @@
 - [ ] [<code>build.yml: Add xapp dependency</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/630f55ba1bb6b6d3cff65bf619af8315b6684ef4)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix typo in readme (#6)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/704344bd257a9d0d46c02d5511f6aa3aacd7053c)
+- [ ] [<code>Don't exit when we don't support the current desktop, we're expected</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/86a1cb27eff487f6245319e850c1c560a8ba33ed)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
