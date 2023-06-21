@@ -499,6 +499,7 @@
 - [ ] [<code>Actions: update insert-image-symbolic (#1205)</code>](https://github.com/elementary/icons/commit/2b46c2ba332ad1f3c5d1b1783639e6499329b860)
 - [ ] [<code>Actions: Make media-record more consistent (#1207)</code>](https://github.com/elementary/icons/commit/0d2d0dd7bd03fe14874e1badd6f9c9e1e33ae545)
 - [ ] [<code>Devices: Improve borders for optical media (#1206)</code>](https://github.com/elementary/icons/commit/d5ea97fc39e62a382af57e23fd0290eb412a818a)
+- [ ] [<code>Actions: Update open-menu and system-run borders (#1208)</code>](https://github.com/elementary/icons/commit/30999d1adf86e79ddb1fb411b1f30f77c33e8a2c)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -784,6 +785,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/notifications/commit/7705c32893985d9daeb62c876419d818fb28b082)
 - [ ] [<code>Add full markup support (#184)</code>](https://github.com/elementary/notifications/commit/bd159979dbe3dbe6f3f1da7acd8e0721cc20ef80)
 - [ ] [<code>Application: Allow Replacement of Running Instance (#191)</code>](https://github.com/elementary/notifications/commit/21cae3ab5d2bf0cfe06714b71cce17fcf95ceef9)
+- [ ] [<code>Block GSD "Automatic suspend" notifications (#200)</code>](https://github.com/elementary/notifications/commit/8a4eed9aef6d7cd6ca70ff875aa75c5d52662a1a)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
