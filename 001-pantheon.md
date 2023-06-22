@@ -382,6 +382,8 @@
 - [ ] [<code>Switch to GHCR containers (#437)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/88399906c60c320f2e5cf706977c630012bf6d65)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/65d360dccbbb9f9df80843c38a203d7606fc7d0d)
 - [ ] [<code>Add link to custom shortcuts (#443)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/018a8c36b371a950a802739e202e12c9543d0595)
+- [ ] [<code>Behavior: modernize code style (#445)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/039ca08635ff54d6c896d082fc71c24b81160d02)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
