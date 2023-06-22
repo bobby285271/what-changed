@@ -280,6 +280,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Run on startup added</code>](https://github.com/alainm23/planner/commit/54c737bdb55b42b0a7f3f9fa8064da30b88c3521)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Quick Add addes</code>](https://github.com/alainm23/planner/commit/71deca26d0dc94647c2d41a2e8fdfbe08889eb6c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
