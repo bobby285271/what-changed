@@ -10,6 +10,15 @@
 - [ ] [<code>js/misc/util.js: Add function splitByGlyph</code>](https://github.com/linuxmint/cinnamon/commit/1700845bbdbc8e189eefff0e2d8f047326506cb0)
 - [ ] [<code>Sound applet: Truncate applet panel text by glyph instead...</code>](https://github.com/linuxmint/cinnamon/commit/7e4d0be4b8232e5721db644c29ed50a87580887e)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Theme settings: Add crossfade effect to stack</code>](https://github.com/linuxmint/cinnamon/commit/54f769e2f92b6fb897bd54d9ae7123177a37e57c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Make sure the theme correctly falls back to</code>](https://github.com/linuxmint/cinnamon/commit/65149edc647c0490c7de1f54bd6f68e21fee46cc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Cinnamon theme: allow different text sizes in menu applet search box (#11718)</code>](https://github.com/linuxmint/cinnamon/commit/cea80b6465edca1d8a788fd60ff1ebb5d15fd062)
+- [ ] [<code>grouped-window-list: appGroup - make sure to call PopupMenu.close()</code>](https://github.com/linuxmint/cinnamon/commit/7f86417b9f80815218e4017c1cdd69dc2456e8db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update fileUtils.js to avoid error messages (#11715)</code>](https://github.com/linuxmint/cinnamon/commit/127e3c50761d8951f3ac491998b82e9efb236ebd)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.1...HEAD)
 
