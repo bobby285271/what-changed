@@ -329,6 +329,7 @@
 - [ ] [<code>AppChooser: Set accessible name (#201)</code>](https://github.com/elementary/switchboard-plug-applications/commit/05c87cf66178a52da0061ddb1de1fa688c34e5e1)
 - [ ] [<code>Permissions: Set accessible name (#202)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3e760e09d385ebfca5a8e4a5cb74dd972e54fd68)
 - [ ] [<code>Permissions: Disable reset button if already default (#203)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8cb6ad4ba6d6047ec19a112fd19d4f86d14d17a2)
+- [ ] [<code>Update applications.metainfo.xml.in (#204)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6418c3cd30dd476aec3b45f73c39a2b7b5ff6bbc)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -371,6 +372,8 @@
 - [ ] [<code>NightLightView: Redesign and cleanup (#351)</code>](https://github.com/elementary/switchboard-plug-display/commit/2cdee6ca37a3ca776b3debf5eaf2c35a5c54941b)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/bf8b6941b999f3244acdd40c390d11017bf2efd1)
 - [ ] [<code>Create Filters View (#350)</code>](https://github.com/elementary/switchboard-plug-display/commit/04e6e5860b5916508fad9d586abda15fe772982a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo Improvements (#354)</code>](https://github.com/elementary/switchboard-plug-display/commit/89de8237a4aae3baf3a05b88c6b2a4e4eba17a02)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
@@ -500,6 +503,8 @@
 - [ ] [<code>Actions: Make media-record more consistent (#1207)</code>](https://github.com/elementary/icons/commit/0d2d0dd7bd03fe14874e1badd6f9c9e1e33ae545)
 - [ ] [<code>Devices: Improve borders for optical media (#1206)</code>](https://github.com/elementary/icons/commit/d5ea97fc39e62a382af57e23fd0290eb412a818a)
 - [ ] [<code>Actions: Update open-menu and system-run borders (#1208)</code>](https://github.com/elementary/icons/commit/30999d1adf86e79ddb1fb411b1f30f77c33e8a2c)
+- [ ] [<code>Actions: Use rounded arrow for browser-download (#1209)</code>](https://github.com/elementary/icons/commit/18a215954ea990e30b582d678122e14839f89bc3)
+- [ ] [<code>Actions: Use rounded arrow for document-send (#1210)</code>](https://github.com/elementary/icons/commit/f2c27d7fa4d1045a758fcccefc232d028ec49b0e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -617,6 +622,9 @@
 - [ ] [<code>Update Gala Systemd services (#1692)</code>](https://github.com/elementary/gala/commit/befba6920379988b1d4c10a69cb0151bdeb629d8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Metainfo Improvements (#1701)</code>](https://github.com/elementary/gala/commit/7853af462d0f431e2052c1cf6ebebde46446eb1e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 7.1.0 (#1702)</code>](https://github.com/elementary/gala/commit/0a613dc9acdaa143b4cbe926a51ff09a01560a58)
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -837,6 +845,7 @@
 - [ ] [<code>Update portals.metainfo.xml.in (#81)</code>](https://github.com/elementary/portals/commit/b3829075baaf1ad04a88fc786eed79ea020737c0)
 - [ ] [<code>Background: Make Asynchronous (#84)</code>](https://github.com/elementary/portals/commit/de30b3d3a1bccd3f638c67a9234697d423aaa7ac)
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Background: Make send_notification async and let it throw errors (#85)</code>](https://github.com/elementary/portals/commit/196d97faa5f84312ccd9cec9934e9a72969dab28)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
