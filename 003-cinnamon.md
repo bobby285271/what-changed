@@ -18,7 +18,14 @@
 - [ ] [<code>grouped-window-list: appGroup - make sure to call PopupMenu.close()</code>](https://github.com/linuxmint/cinnamon/commit/7f86417b9f80815218e4017c1cdd69dc2456e8db)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update fileUtils.js to avoid error messages (#11715)</code>](https://github.com/linuxmint/cinnamon/commit/127e3c50761d8951f3ac491998b82e9efb236ebd)
+- [ ] [<code>menu applet: fix menu changing size (#11720)</code>](https://github.com/linuxmint/cinnamon/commit/5a97bfc8ce9213f73054c3b570cdd1ecabd3df3c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>virtual keyboard: Fix size management.</code>](https://github.com/linuxmint/cinnamon/commit/9b4bc847385e8c56ba227e81e34e9407edf40032)
+- [ ] [<code>menu applet: fix category button styling bug</code>](https://github.com/linuxmint/cinnamon/commit/380a660310a5e9014f262fb915eb33315b1c577b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_info: Fix space in URLs (#11714)</code>](https://github.com/linuxmint/cinnamon/commit/0c57f0243d2afa0236dfa5a98b49e6b418ab9991)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.1...HEAD)
 
