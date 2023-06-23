@@ -24,8 +24,10 @@
 - [ ] [<code>menu applet: fix category button styling bug</code>](https://github.com/linuxmint/cinnamon/commit/380a660310a5e9014f262fb915eb33315b1c577b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_info: Fix space in URLs (#11714)</code>](https://github.com/linuxmint/cinnamon/commit/0c57f0243d2afa0236dfa5a98b49e6b418ab9991)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>gestures: Only allow window actions on ordinary windows and</code>](https://github.com/linuxmint/cinnamon/commit/e2b5f172b19ba70a4b3544d1ad344bc3af98dd74)
+- [ ] [<code>gestures: Ignore update and end events for disabled actions.</code>](https://github.com/linuxmint/cinnamon/commit/98ea9adba1c98d49a455fa94961ffed487768c97)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.1...HEAD)
 
