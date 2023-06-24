@@ -285,6 +285,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>format config added</code>](https://github.com/alainm23/planner/commit/ef0934d0ca7b07b8ea58a62565825e06d342a6e9)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Release 4.1</code>](https://github.com/alainm23/planner/commit/547b32bb3a56fd62559db18986c3fb769b15d0a4)
+  - <sub>Tags: <code>4.1</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
