@@ -27,7 +27,11 @@
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>gestures: Only allow window actions on ordinary windows and</code>](https://github.com/linuxmint/cinnamon/commit/e2b5f172b19ba70a4b3544d1ad344bc3af98dd74)
 - [ ] [<code>gestures: Ignore update and end events for disabled actions.</code>](https://github.com/linuxmint/cinnamon/commit/98ea9adba1c98d49a455fa94961ffed487768c97)
+- [ ] [<code>Menu applet: Reduce default menu size (#11724)</code>](https://github.com/linuxmint/cinnamon/commit/961a77e5c8e9810ea343144e9a0a15d06abe1ffd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme settings: Don't use an additional stack for custom mode.</code>](https://github.com/linuxmint/cinnamon/commit/4411bfe2937b14653999071f3cd84b088d53a95a)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.1...HEAD)
 
@@ -59,6 +63,9 @@
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [03311d62a62e2cd7d0592b241c287091161ec6b6 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/03311d62a62e2cd7d0592b241c287091161ec6b6...HEAD)
 
+- [ ] [<code>Get correct theme on Mate</code>](https://github.com/linuxmint/folder-color-switcher/commit/a19a5345dadcae2aa1f3d1383e7bcbd3c95c9be4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #33 from PurpleZeroHero/patch-1</code>](https://github.com/linuxmint/folder-color-switcher/commit/d3b417961fa166313b6dab7e44bc7ad99239e55b)
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
@@ -88,6 +95,7 @@
 - [ ] [<code>nemo-search-directory: Unset the search_running flag when the</code>](https://github.com/linuxmint/nemo/commit/fc1a807f2ffe45c71f80fffeed0b92f21f4cc3d2)
 - [ ] [<code>search view: Fix sort column/direction not being remembered.</code>](https://github.com/linuxmint/nemo/commit/9f2db6a0efb3d26351b07089974e2923d8639121)
 - [ ] [<code>nemo-list-view.c: Don't try to work out a monospace font to use if</code>](https://github.com/linuxmint/nemo/commit/478d688fe200a600edcb39f5d53cdfd71f908326)
+- [ ] [<code>nemo-places-sidebar.c: Allocate extra space for the eject button</code>](https://github.com/linuxmint/nemo/commit/69455d459b4c3301e68d035b2ec82ea4d451f243)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
