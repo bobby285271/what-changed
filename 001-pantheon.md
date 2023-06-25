@@ -574,6 +574,8 @@
 
 - [ ] [<code>WelcomeView: Update description (#210)</code>](https://github.com/elementary/onboarding/commit/32727c18fc8ee4919d79472b7cdf47630bca52da)
 - [ ] [<code>Add screenshot files cleanup option to Housekeeping (#208)</code>](https://github.com/elementary/onboarding/commit/685ebd3d3fe11a71d024ff68463cda062e72e8a3)
+- [ ] [<code>StyleView: use actual background when available (#212)</code>](https://github.com/elementary/onboarding/commit/a0ee117d71ddd03d51a45f375bbe05076cbee778)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
