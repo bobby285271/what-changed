@@ -110,6 +110,7 @@
 - [ ] [<code>Reduce terminal noise (#1323)</code>](https://github.com/elementary/code/commit/f74056da4400e52444b0665ce1cf5b0be8ef86c8)
 - [ ] [<code>Remove plugin set option (#1324)</code>](https://github.com/elementary/code/commit/d1047366e2b38698e46ef197990e4e519b328829)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>FormatBar: Show column number not buffer offset</code>](https://github.com/elementary/code/commit/406361d266aa6d81eb8efdd1c9a5b38ee0ac8fbb)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -570,6 +571,10 @@
 - [ ] [<code>Metainfo Improvements (#663)</code>](https://github.com/elementary/greeter/commit/71e477ecf1cb6b7c68057543c88cc6226c4fabf8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo 7.0.0 (#664)</code>](https://github.com/elementary/greeter/commit/fbc7f5ac8fb5e4c83921d3ad9373dd0723e21f45)
+- [ ] [<code>Use user's mouse and touchpad settings (#655)</code>](https://github.com/elementary/greeter/commit/e8c00adaefc0643d7a54e41935d074620f5f4ab7)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Use user's xkb options (#658)</code>](https://github.com/elementary/greeter/commit/6288e7c99ad11d6f20fce676dbcf426c914e4386)
+- [ ] [<code>Update metainfo</code>](https://github.com/elementary/greeter/commit/b23937b2483f78f4ee8bed3dce006f9c0b5fec5d)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
