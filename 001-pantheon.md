@@ -384,6 +384,7 @@
 - [ ] [<code>Add link to custom shortcuts (#443)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/018a8c36b371a950a802739e202e12c9543d0595)
 - [ ] [<code>Behavior: modernize code style (#445)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/039ca08635ff54d6c896d082fc71c24b81160d02)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Behavior: Remove spinbuttons (#447)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb27b2e79cd2ff5c70073546377c421e7e3dfc7b)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
