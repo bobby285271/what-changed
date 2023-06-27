@@ -331,6 +331,9 @@
 - [ ] [<code>Permissions: Set accessible name (#202)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3e760e09d385ebfca5a8e4a5cb74dd972e54fd68)
 - [ ] [<code>Permissions: Disable reset button if already default (#203)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8cb6ad4ba6d6047ec19a112fd19d4f86d14d17a2)
 - [ ] [<code>Update applications.metainfo.xml.in (#204)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6418c3cd30dd476aec3b45f73c39a2b7b5ff6bbc)
+- [ ] [<code>Release 7.0.0 (#187)</code>](https://github.com/elementary/switchboard-plug-applications/commit/65cf88410b87444acfb5a33fba28d852fe37e795)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -431,6 +434,8 @@
 - [ ] [<code>Metainfo Improvements (#260)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/3fef9156879f415eb08677225d3e184f1fb95e2a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update onlineaccounts.metainfo.xml.in (#261)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/40429f94d5e50c41e37f1e73a4cb0706d9f5371a)
+- [ ] [<code>CI: unbreak fedora (#264)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/9203ff0ec0f3a8627b751eb97856b4e6d6d7d9a6)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
@@ -635,6 +640,9 @@
 - [ ] [<code>Metainfo Improvements (#1701)</code>](https://github.com/elementary/gala/commit/7853af462d0f431e2052c1cf6ebebde46446eb1e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 7.1.0 (#1702)</code>](https://github.com/elementary/gala/commit/0a613dc9acdaa143b4cbe926a51ff09a01560a58)
+- [ ] [<code>Release 7.1.0 (#1703)</code>](https://github.com/elementary/gala/commit/af38417d18a64412bf4154f202087be3574fd177)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.gnome-bluetooth-contract](https://github.com/elementary/gnome-bluetooth-contract): [8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c → HEAD](https://github.com/elementary/gnome-bluetooth-contract/compare/8dcd4d03dc7a7d487980fd8bc95af985dc4fff5c...HEAD)
 
@@ -824,6 +832,7 @@
 - [ ] [<code>Expose user's mouse settings (#66)</code>](https://github.com/elementary/settings-daemon/commit/100c4c4d595a6c4e0b19e0fb02d142ab986f5db1)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Expose xkb options (#67)</code>](https://github.com/elementary/settings-daemon/commit/b0477f21109a0858deff18a31efa4bdc6c17742f)
+- [ ] [<code>Load left handed mode from settings-daemon (#69)</code>](https://github.com/elementary/settings-daemon/commit/5a83fc3365047100b0463e5de0eb5d2e3e3726ae)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -856,6 +865,9 @@
 - [ ] [<code>Background: Make Asynchronous (#84)</code>](https://github.com/elementary/portals/commit/de30b3d3a1bccd3f638c67a9234697d423aaa7ac)
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>Background: Make send_notification async and let it throw errors (#85)</code>](https://github.com/elementary/portals/commit/196d97faa5f84312ccd9cec9934e9a72969dab28)
+- [ ] [<code>Release 7.1.0 (#86)</code>](https://github.com/elementary/portals/commit/dc0f759c0a762d4ee76887e5e1edf9879b7f6f12)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
