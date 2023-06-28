@@ -116,6 +116,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>FormatBar: Show column number not buffer offset</code>](https://github.com/elementary/code/commit/406361d266aa6d81eb8efdd1c9a5b38ee0ac8fbb)
 - [ ] [<code>ci: Add polkit dependencies to provide missing .its files in mantic</code>](https://github.com/elementary/code/commit/e73b308f78a1deb42795ee9e7b1d5839429c51ff)
+- [ ] [<code>Handle only relevant settings key changes (#1345)</code>](https://github.com/elementary/code/commit/bdcb50e499e3a70a3f4ba99d4285707b4baab9e0)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
