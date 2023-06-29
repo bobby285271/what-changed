@@ -31,6 +31,7 @@
 - [ ] [<code>Release 7.3.0 (#2056)</code>](https://github.com/elementary/appcenter/commit/e3c3282d614d7f3102c4fdac8bddbbb847975470)
   - <sub>Tags: <code>7.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppInfoView: use child property instead of add (#2057)</code>](https://github.com/elementary/appcenter/commit/9baae1c42130e263b983f0f1b78741210871f471)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -170,6 +171,8 @@
 - [ ] [<code>Use active language for basename options (#2202)</code>](https://github.com/elementary/files/commit/3dc9c8b6f29aac902edd0a91a9ded16c1c224016)
 - [ ] [<code>Do not show externally created hidden files with no file info (#2200)</code>](https://github.com/elementary/files/commit/61fb31ffacd06526c42f109227e1f9aa38ea498c)
 - [ ] [<code>Extend File.compare_by_size to use folder item count where appropriate (#1978)</code>](https://github.com/elementary/files/commit/c0a70d796e7fb9f6523eef64205c3a1d7fade8ef)
+- [ ] [<code>Avoid appearance of short-lived temporary files in view (#2221)</code>](https://github.com/elementary/files/commit/94214541eb8d04acfa06dc8e0d6b0347fe912527)
+- [ ] [<code>Prepare metainfo for next release (#2217)</code>](https://github.com/elementary/files/commit/bdafa885297c8610f18e112cd64f8bca9f1226bc)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -362,6 +365,9 @@
 - [ ] [<code>Behavior: modernize code style (#445)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/039ca08635ff54d6c896d082fc71c24b81160d02)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Behavior: Remove spinbuttons (#447)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb27b2e79cd2ff5c70073546377c421e7e3dfc7b)
+- [ ] [<code>Behavior: add a11y settings (#446)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/20f046bec13f7b47fa86136dfe6bdafcbf85313a)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Behavior: Remove trailing space in string (#449)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb556eb17c2e0fbd471977ebffb48c0a78a234c3)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -416,6 +422,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Mark "Dim with dark style:" string as translatable (#353)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ab1403dc37839904571b1943a83b56274270660b)
 - [ ] [<code>Update pantheon-shell.metainfo.xml.in (#355)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/f71ddabd0bb3376010bbc158b0fb5bdf626142b1)
+- [ ] [<code>Wallpaper: Confirm wallpaper removal when hidden (#359)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/57445d8c2e23512485578ce6837af24114006245)
+- [ ] [<code>Dock: add checks for panel indicators (#358)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/96ecf77f39874f9e0d8a0182e17ee1e81d197279)
+- [ ] [<code>Dock: redesign (#360)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a247a02a9e04ba9fdf78ec48b1807384a2386276)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -699,6 +708,10 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/853c3e02b39ac62fecd9ba78ac5f5a245bc5e944)
 - [ ] [<code>Resource: update icons (#98)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/54bebcb7830cbf0d3c3ce213ad8a93dffcb9b92e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo Improvements (#99)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/b8951575c0f61d0e2d37a0b7e2bab4d2d692e71d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 2.1.2 release notes (#100)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/460724b0e161c833c86b34c9326f0fae6d8d7376)
+- [ ] [<code>Indicator: manually add resourced icons to path (#102)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/d87659262e3e7339fc222fa956bb5d66c8d09b66)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.7 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.7...HEAD)
 
@@ -777,6 +790,7 @@
 - [ ] [<code>Block GSD "Automatic suspend" notifications (#200)</code>](https://github.com/elementary/notifications/commit/8a4eed9aef6d7cd6ca70ff875aa75c5d52662a1a)
 - [ ] [<code>7.0.0 Release Notes (#203)</code>](https://github.com/elementary/notifications/commit/314280e997c0fab057e509e27bfd156e887231b8)
 - [ ] [<code>AbstractBubble: Handle Timeout internally (#190)</code>](https://github.com/elementary/notifications/commit/c97afc01219ebfaaa4f92028f52a3d09e56b1b0f)
+- [ ] [<code>Bubble: minor refactor (#202)</code>](https://github.com/elementary/notifications/commit/e73af6d3e717b25161e60247ed3a0931b69c7644)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
