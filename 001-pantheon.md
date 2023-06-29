@@ -482,6 +482,7 @@
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.2.0...HEAD)
 
 - [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
+- [ ] [<code>Add latte palette (#853)</code>](https://github.com/elementary/stylesheet/commit/fcaf5e68b1e3c0a00bdd07c89d4c09bbf475ebb6)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.0 → HEAD](https://github.com/elementary/icons/compare/7.3.0...HEAD)
 
@@ -678,6 +679,9 @@
 - [ ] [<code>Release 7.0.0 (#202)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/8d8ca94d48f9234e6ab81303ddabe77d0885d3fa)
   - <sub>Tags: <code>7.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Gresource: add leading slash to icons path</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/c59fea4f997f8dbf0988e861a071791fa66572b3)
+- [ ] [<code>Manually load</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/4f9237c0cb1152a696ccdd2a2fc83fc706f54d62)
+- [ ] [<code>Update bluetooth.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/d9c8bb929f6c7f98f66562bf47ba674f230c2ec2)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -791,6 +795,7 @@
 - [ ] [<code>7.0.0 Release Notes (#203)</code>](https://github.com/elementary/notifications/commit/314280e997c0fab057e509e27bfd156e887231b8)
 - [ ] [<code>AbstractBubble: Handle Timeout internally (#190)</code>](https://github.com/elementary/notifications/commit/c97afc01219ebfaaa4f92028f52a3d09e56b1b0f)
 - [ ] [<code>Bubble: minor refactor (#202)</code>](https://github.com/elementary/notifications/commit/e73af6d3e717b25161e60247ed3a0931b69c7644)
+- [ ] [<code>Increase confirmations size to match other notifications (#205)</code>](https://github.com/elementary/notifications/commit/8a43e913a20baaa005c77ffb7f5094c78da3a043)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
