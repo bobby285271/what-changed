@@ -1,36 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.2.1 → HEAD](https://github.com/elementary/appcenter/compare/7.2.1...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.3.0 → HEAD](https://github.com/elementary/appcenter/compare/7.3.0...HEAD)
 
-- [ ] [<code>Create AuthorView (#1997)</code>](https://github.com/elementary/appcenter/commit/a1ba75b0997c37d753638b78b6e6c1f194b799df)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to GHCR containers (#2014)</code>](https://github.com/elementary/appcenter/commit/8a60ef9fa8d78ae05108c1ebd2a80fa6e2f8cd50)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/appcenter/commit/db475f8389028f794a5e247f2b9af9020475ec9f)
-- [ ] [<code>Show Flatpak permissions (#2007)</code>](https://github.com/elementary/appcenter/commit/4ba9a79c2b2e0479aa6d92d9b9a53ce03aae8f30)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix deprecations for AppStream 0.16 (#2015)</code>](https://github.com/elementary/appcenter/commit/8e437af11cd59094f7164c3b6c93849f6ad403db)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Require newer meson and fix deprecations (#2034)</code>](https://github.com/elementary/appcenter/commit/6ba6cad1af348b98667f6396c4f01f5f47b1ac54)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>AppInfoView: rework vertical spacing (#2024)</code>](https://github.com/elementary/appcenter/commit/828e91676038c8e6c566aab8ecbeb25209328b84)
-- [ ] [<code>Homepage placeholder (#2030)</code>](https://github.com/elementary/appcenter/commit/521804e9ed6e11ab4938154f18c08e4869348bc6)
-- [ ] [<code>CategoryView: Sort native apps first instead of splitting (#2029)</code>](https://github.com/elementary/appcenter/commit/d5a116bd3703c051870ca128d63d69ae139fa479)
-- [ ] [<code>Add meson options to disable backends (#1994)</code>](https://github.com/elementary/appcenter/commit/d49be6158b294a7970a43f5262fb225914fb0581)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>AppInfoView: warn about home permissions (#2040)</code>](https://github.com/elementary/appcenter/commit/2c453ade1a608415b67dff070dde1b5907b913d6)
-- [ ] [<code>AppInfoView: warn about direct geoclue access (#2041)</code>](https://github.com/elementary/appcenter/commit/44c187f2987cb13ceb59358125cf4c82178db3e5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Homepage: misc banner and carousel cleanup (#2042)</code>](https://github.com/elementary/appcenter/commit/09b1786da3321fcadb0bb6896fe715cf06888940)
-- [ ] [<code>AppInfoView: warn about sandbox escape (#2039)</code>](https://github.com/elementary/appcenter/commit/44d98ad7b68506db0c0f0bbb6979c6f198918b0e)
-- [ ] [<code>AppInfoView: warn about settings access (#2043)</code>](https://github.com/elementary/appcenter/commit/3cc4715ee3c682db6d9672ad943b3ec3afbf45ed)
-- [ ] [<code>FlatpakBackend: Add null checks for user and system installation (#2053)</code>](https://github.com/elementary/appcenter/commit/3b2dc178e80206ae8df42f13693b5daa7b5037c1)
-- [ ] [<code>Metainfo: Add release notes for 7.3.0 (#2055)</code>](https://github.com/elementary/appcenter/commit/4c42eac37dd3d80ecdf1d97df6b20653f2b4f9ef)
-- [ ] [<code>Release 7.3.0 (#2056)</code>](https://github.com/elementary/appcenter/commit/e3c3282d614d7f3102c4fdac8bddbbb847975470)
-  - <sub>Tags: <code>7.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppInfoView: use child property instead of add (#2057)</code>](https://github.com/elementary/appcenter/commit/9baae1c42130e263b983f0f1b78741210871f471)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
@@ -173,6 +145,9 @@
 - [ ] [<code>Extend File.compare_by_size to use folder item count where appropriate (#1978)</code>](https://github.com/elementary/files/commit/c0a70d796e7fb9f6523eef64205c3a1d7fade8ef)
 - [ ] [<code>Avoid appearance of short-lived temporary files in view (#2221)</code>](https://github.com/elementary/files/commit/94214541eb8d04acfa06dc8e0d6b0347fe912527)
 - [ ] [<code>Prepare metainfo for next release (#2217)</code>](https://github.com/elementary/files/commit/bdafa885297c8610f18e112cd64f8bca9f1226bc)
+- [ ] [<code>Release 6.4.0 (#2222)</code>](https://github.com/elementary/files/commit/531e190d6fd7f86539a33e6aa6c7d922c019bdec)
+  - <sub>Tags: <code>6.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -212,6 +187,7 @@
 - [ ] [<code>Move the composer editor toolbar into its own class (#908)</code>](https://github.com/elementary/mail/commit/60a1a39131e357f9c1b4846626506d9f5c568376)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update composing (#894)</code>](https://github.com/elementary/mail/commit/62cc9284f42b9adb3ef650145c020b5f41241bcd)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -252,6 +228,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/tasks/commit/e68337d6a9f334f9f98ec45d822b1c00ec86f503)
 - [ ] [<code>Application: use startup (#363)</code>](https://github.com/elementary/tasks/commit/c7b60ca38c5bb8426d6439996a0259608619fb1a)
+- [ ] [<code>Fixed Duplicated tasks in Scheduled (#365)</code>](https://github.com/elementary/tasks/commit/9bd88b572ce1ffdc10ae222c55d8d0e580392ca8)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -270,6 +247,10 @@
 
 - [ ] [<code>Make Open button default widget (#160)</code>](https://github.com/elementary/sideload/commit/f8265f73522ec75365e53aa3ee21542007fcdba4)
 - [ ] [<code>Fix glitches (#159)</code>](https://github.com/elementary/sideload/commit/743d5d94e621073d7e3510b32c7623cf7958dc82)
+- [ ] [<code>6.2.1 Release Notes (#161)</code>](https://github.com/elementary/sideload/commit/2c1a437ad6c9048ca27b9546d20845ac1d6a0f3c)
+- [ ] [<code>Release 6.2.1 (#162)</code>](https://github.com/elementary/sideload/commit/e5311b8a77f13ea52d0e3de3e09808717be51bf7)
+  - <sub>Tags: <code>6.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -340,21 +321,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/fe47255806865fe35d6bdd93bb9dd49f3668e8aa)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#111)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/1d946d8633f6d9a48f2ab5c7d08f4fbf6ee337bd)
 
-#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/2.3.3...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
-- [ ] [<code>Prefer the resolution modes marked is_preferred (#337)</code>](https://github.com/elementary/switchboard-plug-display/commit/144c9cc5d79981939922a716eb2844eb7e231ebd)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/694e3249c18242e450a3b78f8fd2c9309507328d)
-- [ ] [<code>Bump actions/checkout from 1 to 3</code>](https://github.com/elementary/switchboard-plug-display/commit/bc57da0b74831c67d055aea4b73eb5fd6885648b)
-- [ ] [<code>Switch to GHCR containers (#344)</code>](https://github.com/elementary/switchboard-plug-display/commit/86b29d39b38f43d7a804e57ee4ce7332d15ca577)
-- [ ] [<code>NightLightView: Redesign and cleanup (#351)</code>](https://github.com/elementary/switchboard-plug-display/commit/2cdee6ca37a3ca776b3debf5eaf2c35a5c54941b)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/bf8b6941b999f3244acdd40c390d11017bf2efd1)
-- [ ] [<code>Create Filters View (#350)</code>](https://github.com/elementary/switchboard-plug-display/commit/04e6e5860b5916508fad9d586abda15fe772982a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo Improvements (#354)</code>](https://github.com/elementary/switchboard-plug-display/commit/89de8237a4aae3baf3a05b88c6b2a4e4eba17a02)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 7.0.0 (#355)</code>](https://github.com/elementary/switchboard-plug-display/commit/5426bd87d06bdb8bb7294f80197e94b1e44b5dc0)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
 
@@ -415,6 +383,9 @@
 - [ ] [<code>Update onlineaccounts.metainfo.xml.in (#261)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/40429f94d5e50c41e37f1e73a4cb0706d9f5371a)
 - [ ] [<code>CI: unbreak fedora (#264)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/9203ff0ec0f3a8627b751eb97856b4e6d6d7d9a6)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Release 6.5.3 (#262)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/0e1416580fb13985dfce953b9559cb936a24f9b3)
+  - <sub>Tags: <code>6.5.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
 
@@ -497,6 +468,7 @@
 - [ ] [<code>Actions: Update open-menu and system-run borders (#1208)</code>](https://github.com/elementary/icons/commit/30999d1adf86e79ddb1fb411b1f30f77c33e8a2c)
 - [ ] [<code>Actions: Use rounded arrow for browser-download (#1209)</code>](https://github.com/elementary/icons/commit/18a215954ea990e30b582d678122e14839f89bc3)
 - [ ] [<code>Actions: Use rounded arrow for document-send (#1210)</code>](https://github.com/elementary/icons/commit/f2c27d7fa4d1045a758fcccefc232d028ec49b0e)
+- [ ] [<code>Status: remove bluetooth indicator icons (#1211)</code>](https://github.com/elementary/icons/commit/21a9faae2bd35d715a76db1db6a7665dcd8c6d40)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -563,6 +535,10 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Use user's xkb options (#658)</code>](https://github.com/elementary/greeter/commit/6288e7c99ad11d6f20fce676dbcf426c914e4386)
 - [ ] [<code>Update metainfo</code>](https://github.com/elementary/greeter/commit/b23937b2483f78f4ee8bed3dce006f9c0b5fec5d)
+- [ ] [<code>Improve handling of users' accent color (#667)</code>](https://github.com/elementary/greeter/commit/bd25dd47629d6d19b347c6587cf1fbd41c65ad00)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Fix screenreader shortcut (#668)</code>](https://github.com/elementary/greeter/commit/ec0eb376891c59ced4e486fe94e8f28f4e7b93bc)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -648,40 +624,17 @@
 - [ ] [<code>actions/checkout@v3 (#54)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/91c17a749eddb379653387464c9812fabd218fb6)
 - [ ] [<code>Switch to GHCR containers (#55)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/e5cca9a66639828e9af63b6b94349df06bf6aa9c)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/735ff018954d6a89eabc91fd4fff059db3cb1d75)
+- [ ] [<code>GreeterWidget: Sync with greeter session (#56)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/1a4c7da4c9d44a9d3d5af9c12c1011146a7a805d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
-#### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [2.1.8 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/2.1.8...HEAD)
+#### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.0...HEAD)
 
-- [ ] [<code>Bluetooth sharing (#130)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/853408b6e2307e71794505f024ff3fc7c80c7f91)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Add Bluetooth sharing files to POTFILES (#173)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/669b13278355e16881520ca2e95ae4aed6c991ba)
-- [ ] [<code>Bluetooth: Fix gettext format (#175)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ae30fb399fe1defd7a9d7c91028136e204b8924c)
-- [ ] [<code>Bluetooth: Improve translatability (#176)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/132859639fad85c930aa673708f2f3c36da9b8f5)
-- [ ] [<code>Use GLib.Markup.printf_escaped when possible (#177)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/366475e866d946db93c4c8a55a317c7aad53f685)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Application: simplify contract creation (#178)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/0d88940af8c9358ffa993c8c971cb11911a6f89e)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Update Application.vala (#181)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/178a0dba827b496703384bb2966c10729c7d887d)
-- [ ] [<code>BtSender: Provide feedback when transfer blocked (#182)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ecfc5793aabda457d161ff9cdbdaa27a565b331d)
-- [ ] [<code>dialog active (#180)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/62853a2e1fe4c423779e1109ab0e4a8feff5d18c)
-- [ ] [<code>actions/checkout@v3 (#185)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ace7bcc56b9591205e82c837bb5a92e4ee61e6a8)
-- [ ] [<code>Keep list of active transfers and ensure device widgets show any ongoing transfers (#179)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/2e0f207a79759ebebcd16bd102480652c91ca006)
-- [ ] [<code>Switch to GHCR containers (#187)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/6069ac8f2d6ec6ce58b16541fde387bb135ef9fd)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/a1b46afc7c1aeca8d33a9e3b47c7a6b4ded0aa65)
-- [ ] [<code>Use the 'alias' property instead of the 'name' property for devices (#189)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23d2560d79def1878ce0f1ac094f46bd48c04599)
-- [ ] [<code>Improved response to power state changes in Switchboard (#191)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/ce88a7b03231b59c57f832aa656b4763d7d1e77e)
-- [ ] [<code>Revert "Improved response to power state changes in Switchboard (#191)" (#194)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/533a60b24bc22b2076d339dd48ab4ae01605ee4a)
-- [ ] [<code>Gresource and update icons (#196)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/362d329ba4437c6d54d0b346ded70a873b9ef212)
-- [ ] [<code>Synchronise settings and global "is-powered" state (#195)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/37ce11bcbc5b1a863a5e689514180ac04b6ec737)
-- [ ] [<code>Metainfo Improvements (#200)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/c62253538f80053316c87028c1d1d84d42c57256)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 7.0.0 release notes (#201)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/8bfe5b7be1241fa5b0698508c76ff7bb9c9dcb09)
-- [ ] [<code>Release 7.0.0 (#202)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/8d8ca94d48f9234e6ab81303ddabe77d0885d3fa)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gresource: add leading slash to icons path</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/c59fea4f997f8dbf0988e861a071791fa66572b3)
 - [ ] [<code>Manually load</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/4f9237c0cb1152a696ccdd2a2fc83fc706f54d62)
 - [ ] [<code>Update bluetooth.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/d9c8bb929f6c7f98f66562bf47ba674f230c2ec2)
+- [ ] [<code>Release 7.0.1 (#205)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/97623fce7706e2a09a4719b83870d6636b8f0691)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -717,23 +670,8 @@
 - [ ] [<code>Metainfo: add 2.1.2 release notes (#100)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/460724b0e161c833c86b34c9326f0fae6d8d7376)
 - [ ] [<code>Indicator: manually add resourced icons to path (#102)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/d87659262e3e7339fc222fa956bb5d66c8d09b66)
 
-#### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [6.0.7 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/6.0.7...HEAD)
+#### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.0.0...HEAD)
 
-- [ ] [<code>Switch to GHCR containers (#253)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2c958cbc808432f753a0e17a000e62814706f373)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7c22cee0496a4e74cce582157b0df64faa099ad9)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#254)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bd679fd2e81a6a795edbfaa0497fb78bbb9b68dd)
-- [ ] [<code>Add full markup support (#252)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/148519009c5f5a4816636783b7a13ad4b1133461)
-- [ ] [<code>Constant indicator width (#255)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9d30e10c404b966258c940f7c2777a627541471)
-- [ ] [<code>Remove notification from list if bubble dismissed; give accurate tooltip count (#243)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/da9220f8a3de04fb2819d68f24ec36bb50ef06ad)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f7e91a29581a3013d6ba66995da7adf461ba4ad5)
-- [ ] [<code>Resources: Update icons (#259)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c4db1878d49b7c9e07dee99827802b7a42102ebf)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo improvements (#260)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/55cbb83aa60dc2eb0dd169da0e33b2762a6e908b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: 7.0.0 release notes (#261)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8ee1a25a63b42fe97818bf144a0c7f711678dd44)
-- [ ] [<code>Release 7.0.0 (#262)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/db62ed845b3560a81480e2d60cc158de896237c0)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
 
@@ -796,6 +734,7 @@
 - [ ] [<code>AbstractBubble: Handle Timeout internally (#190)</code>](https://github.com/elementary/notifications/commit/c97afc01219ebfaaa4f92028f52a3d09e56b1b0f)
 - [ ] [<code>Bubble: minor refactor (#202)</code>](https://github.com/elementary/notifications/commit/e73af6d3e717b25161e60247ed3a0931b69c7644)
 - [ ] [<code>Increase confirmations size to match other notifications (#205)</code>](https://github.com/elementary/notifications/commit/8a43e913a20baaa005c77ffb7f5094c78da3a043)
+- [ ] [<code>Server: Simplifications (#201)</code>](https://github.com/elementary/notifications/commit/4e28b3a9a8fec2a04ce07857c78965763d6ca05f)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
