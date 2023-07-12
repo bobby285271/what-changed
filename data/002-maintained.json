@@ -17,9 +17,6 @@
             "attr_path": "cipher"
         },
         {
-            "attr_path": "elementary-planner"
-        },
-        {
             "attr_path": "ephemeral"
         },
         {
@@ -51,6 +48,9 @@
         },
         {
             "attr_path": "pantheon-tweaks"
+        },
+        {
+            "attr_path": "planify"
         },
         {
             "attr_path": "sequeler"
