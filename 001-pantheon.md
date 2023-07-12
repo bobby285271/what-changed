@@ -691,24 +691,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-session/commit/36c13b1e86bd40c8d4e2d18d0c5cc42b47f0cbd2)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#177)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/740f9603a2d6a2ff79aa2810b18facbf9ab487f7)
 
-#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [6.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.2...HEAD)
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#245)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/60788558e3d3b889bc2a9e5c2f57a097b31ecafc)
-- [ ] [<code>PlayerRow: use circle buttons (#248)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c6c69d66daa0a2e5eb88e545c390638e72e34b22)
-- [ ] [<code>PlayerRow.css: add disabled style</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e63337b567e0aa72473960d5c196e151297d9def)
-- [ ] [<code>PlayerRow: keep labels consistent (#247)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6b9d60ae8bbbce01599799d683d50651b9b81a6d)
-- [ ] [<code>Switch to GHCR containers (#249)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d680ea19407d38c3fee51639f49aec6de0c69aaa)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/5cdb9d2323acba0f57899e1f536a3e000851a066)
-- [ ] [<code>volume-control: don't mute monitor sources (#251)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/1dc8a084290b93537588b0d08f9729ed9fb5e31c)
-- [ ] [<code>Metainfo Improvements (#256)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6721fc74f38548b5a3a8519aa7b9317a0b252bc7)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: Add 7.0.0 release notes (#257)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/18c4f1958a284c5384e750e71a7c01ed593b36b5)
-- [ ] [<code>Resource: Update microphone icons (#255)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/97a7a2d3b027ae5543dec39d2968687ae87df344)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add icons resource to path (#259)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/415a6a58f1b5104548a0638b0770c412ba5828e3)
-- [ ] [<code>Release 7.0.0 (#258)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/0c181f3397e5a26f8ae2bda86bac7315b25a8279)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.3.0 → HEAD](https://github.com/elementary/granite/compare/7.3.0...HEAD)
