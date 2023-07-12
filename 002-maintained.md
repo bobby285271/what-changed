@@ -207,88 +207,6 @@
 - [ ] [<code>Add files via upload</code>](https://github.com/arshubham/cipher/commit/64932159d6b794844ed92fe9a205ee54fc462618)
 - [ ] [<code>Merge pull request #56 from eson57/patch-1</code>](https://github.com/arshubham/cipher/commit/bb45279428e8a5417309b5311f0fa09e0aa519d2)
 
-#### [elementary-planner](https://github.com/alainm23/planner): [97c0f1c30d087e2ac459241bfdb9b606a12a77ce → HEAD](https://github.com/alainm23/planner/compare/97c0f1c30d087e2ac459241bfdb9b606a12a77ce...HEAD)
-
-- [ ] [<code>add Saturday as the start day of the week</code>](https://github.com/alainm23/planner/commit/50a1664f1c680b2b0dc1eccaff0d82c6db76431f)
-- [ ] [<code>build: Use gtk4-update-icon-cache</code>](https://github.com/alainm23/planner/commit/0a707653c3a00cf1cda0c4973270d86b220920b3)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Fix: Planner logo not rendering in README</code>](https://github.com/alainm23/planner/commit/8ec7567717934ea823f3d71cd72d8af27ff7dee7)
-- [ ] [<code>docs: fix typos</code>](https://github.com/alainm23/planner/commit/1793eb10799bcd38005e486f7684251788b4e0f8)
-- [ ] [<code>New features and code improvement</code>](https://github.com/alainm23/planner/commit/ef2d0d4396e7996438db4825f545d75fca479377)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Remove trash</code>](https://github.com/alainm23/planner/commit/4cababfd6889722824d9b061170169637c6a74c2)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Merge pull request #987 from kianmeng/fix-typos</code>](https://github.com/alainm23/planner/commit/3f28f04ebd33f2526985fee0d3d9020a9ce825b4)
-- [ ] [<code>Merge pull request #985 from bobby285271/gtk4-update-icon-cache</code>](https://github.com/alainm23/planner/commit/245269eff39f0cca4b597f909e06a85b3939a8dd)
-- [ ] [<code>Merge pull request #986 from TheOne04/patch-1</code>](https://github.com/alainm23/planner/commit/2b66af1c5e8ed7934067586806d0293e577dbb46)
-- [ ] [<code>Merge pull request #981 from imhosseinzadeh/imhosseinzadeh-start-week-saturday</code>](https://github.com/alainm23/planner/commit/faa0262ebbf600fcda51035b7c9c19f9740278a6)
-- [ ] [<code>Improve meson build and Devel</code>](https://github.com/alainm23/planner/commit/259e57b5ff32be05b04681270f50cf039e24a73b)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>add fr translate</code>](https://github.com/alainm23/planner/commit/6571d969c30969d2bbb982d7a242be1867dcf8b8)
-- [ ] [<code>Rename app to Planify</code>](https://github.com/alainm23/planner/commit/3054e430cc1135a996671848c446d5a9aaa46e67)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Change bin app</code>](https://github.com/alainm23/planner/commit/394e7bada02b0ea4f89f4b006819e751565a5021)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>*</code>](https://github.com/alainm23/planner/commit/de99f9d6891d54e6ed52fdc0048bfc17b4493426)
-- [ ] [<code>session-bus added</code>](https://github.com/alainm23/planner/commit/445e546da73cf64a79b7cc5f1ad28b792036f204)
-- [ ] [<code>Rename app id</code>](https://github.com/alainm23/planner/commit/71ebb7c14f9d4aa973fa5556742ee9a4b3e75e6c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Update appdata</code>](https://github.com/alainm23/planner/commit/1659839a6e777feb2458906d4238683f385b9c7d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove DBusServer</code>](https://github.com/alainm23/planner/commit/20c7fe63c91e7299711c62f3e199ba2a69618873)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update prod</code>](https://github.com/alainm23/planner/commit/696fb7ab3c66ea4a14a5167cb5b44e9444294ecb)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/6766304ca32218bbb60183904a0290ce8c29e4ea)
-- [ ] [<code>Add Turkish translation</code>](https://github.com/alainm23/planner/commit/a5378f82107b9246f0910e3ff8ebf26e501eefa9)
-- [ ] [<code>Fix a typo in App.vala</code>](https://github.com/alainm23/planner/commit/1fbd4e16eb085833f0e415623cd80ae30e58db1a)
-- [ ] [<code>Keep POTFILES ordered</code>](https://github.com/alainm23/planner/commit/e4e2ee7335a0496b70d5de0e3f5331e6b55f7268)
-- [ ] [<code>Merge pull request #996 from sabriunal/add-turkish</code>](https://github.com/alainm23/planner/commit/4499d29fe99087a19d14a779deee7fc20d152dee)
-- [ ] [<code>Merge pull request #997 from sabriunal/fix-typo</code>](https://github.com/alainm23/planner/commit/29d9ce0bb71d1ecd4eccdb06a9663d9bb2b5af01)
-- [ ] [<code>Merge pull request #998 from sabriunal/reorder-potfile</code>](https://github.com/alainm23/planner/commit/86c817a8a45278a0022b078c08082ed1f7fddf88)
-- [ ] [<code>Update Turkish translation</code>](https://github.com/alainm23/planner/commit/178fae05ef1ca410fff12407db96c01b56bc301c)
-- [ ] [<code>Mark three strings translatable</code>](https://github.com/alainm23/planner/commit/6dc77dc91e1cfb233af6f8c80a49d907b6fb6d6d)
-- [ ] [<code>fix icon in README.md</code>](https://github.com/alainm23/planner/commit/4f2c65c696b028df061359832a6d2a8435e24b86)
-- [ ] [<code>Merge pull request #1004 from Drsheppard01/master</code>](https://github.com/alainm23/planner/commit/34a84c8ead08fa538a83b0772a1a1bf6a1729360)
-- [ ] [<code>Add Brazilian Portuguese Translation</code>](https://github.com/alainm23/planner/commit/3d2587bbf1757f58170935fd615710e87871a6ca)
-- [ ] [<code>icon: update app icon, add symbolic, add source</code>](https://github.com/alainm23/planner/commit/8daa80441ddd454742ad3be0cb67a28e3425c7bd)
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planner/commit/2e7e993ae8871a9a926bb2424d14ceac02d080c6)
-- [ ] [<code>Deleted .mo file</code>](https://github.com/alainm23/planner/commit/99c1c011dbf8ee40360147f4616e23a8cbff729c)
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/0c5d8fdba5ba9f9239a65ec2ad75c9f37ca56e27)
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/741064ba83a7c3037e2de2aeade4aaaf15692223)
-- [ ] [<code>Add Google OAuth Dialog</code>](https://github.com/alainm23/planner/commit/cc647c4dfb0487dc45a8ce1a250b3477bc08c687)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planner/commit/190af0c596de85a4f049059f2e71b1789472a1a6)
-- [ ] [<code>Merge pull request #1013 from bertob/new-icon</code>](https://github.com/alainm23/planner/commit/90d3132b7ba5fd001f4fb86c89e3113c65ce696f)
-- [ ] [<code>Merge pull request #1003 from sabriunal/mark-translatable</code>](https://github.com/alainm23/planner/commit/d079d12abcc062368370e60c74340a106d219869)
-- [ ] [<code>Merge pull request #1006 from Penfore/add-brazilian-portuguese</code>](https://github.com/alainm23/planner/commit/b12c3aadfe524dfe937bd1e31d27840979146bb6)
-- [ ] [<code>Merge pull request #1014 from rene-coty/master</code>](https://github.com/alainm23/planner/commit/941ec9ffbb10babfd48a724add1a1d117dfe99f0)
-- [ ] [<code>Update translate texts</code>](https://github.com/alainm23/planner/commit/6a1a6e341c3144d5099a7374253e85d2a40348ba)
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planner/commit/a894ea11a1b4c0d5bd77d66e251c3bd18a268b6f)
-- [ ] [<code>Merge pull request #1016 from daudix-UFO/daudix-UFO-patch-1</code>](https://github.com/alainm23/planner/commit/d9717a908ba54e30fd0cc1a9a6a15faedf3d2e87)
-- [ ] [<code>New preferences window and background run with libportal</code>](https://github.com/alainm23/planner/commit/e3e2e3e05c47f646b59f79e7e318e486148724e4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planner/commit/2d226fb29f17887127ef812c4bea0759389e54a1)
-- [ ] [<code>Add initial Quick Add</code>](https://github.com/alainm23/planner/commit/3d238c8bef97d5dfb0427e8976d31359660d2f21)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Run on startup added</code>](https://github.com/alainm23/planner/commit/54c737bdb55b42b0a7f3f9fa8064da30b88c3521)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Quick Add addes</code>](https://github.com/alainm23/planner/commit/71deca26d0dc94647c2d41a2e8fdfbe08889eb6c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>format config added</code>](https://github.com/alainm23/planner/commit/ef0934d0ca7b07b8ea58a62565825e06d342a6e9)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Release 4.1</code>](https://github.com/alainm23/planner/commit/547b32bb3a56fd62559db18986c3fb769b15d0a4)
-  - <sub>Tags: <code>4.1</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-
 #### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
 - [ ] [<code>Update Portuguese Translation (#281)</code>](https://github.com/cassidyjames/ephemeral/commit/2488257df4778769f6090569fa834a9900775f40)
@@ -414,6 +332,28 @@
 - [ ] [<code>fix linting; fix bump version script</code>](https://github.com/stsdc/monitor/commit/536fc832204f52de037378f3289b276a25c53916)
   - <sub>Tags: <code>0.16.1-0</code></sub>
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/4a555e384ee808a2b50060fe14d829694c563566)
+- [ ] [<code>match for installed apps; special rule for steam</code>](https://github.com/stsdc/monitor/commit/21cfc8a365a637b90ac3fdcaf8be693c2e3ea24d)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Some POC of finding flatpak apps</code>](https://github.com/stsdc/monitor/commit/d37333b48b60540ff5efce7b783aafc1219e101b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code> <code>dependency</code></sub>
+- [ ] [<code>Add loose matching for Flatpaks</code>](https://github.com/stsdc/monitor/commit/c0f32452c40b233e9f9629b3161a4746bddb5efd)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Merge branch 'new-process-app-matching' of github.com:stsdc/monitor into new-process-app-matching</code>](https://github.com/stsdc/monitor/commit/ac7a86279a7d01d56562a3a3eed2e5cb5398865a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add children property to Process class</code>](https://github.com/stsdc/monitor/commit/bac72aa2f9ece7f1d04f198e10facace6fcf89b0)
+- [ ] [<code>Setting same name and icon for all children processes of a Flatpak app</code>](https://github.com/stsdc/monitor/commit/499ee15164f7020862ce130c85bac5457979b26c)
+- [ ] [<code>Add libflatpak-dev to CI</code>](https://github.com/stsdc/monitor/commit/7327e0a3fbfa53e8be83d8b0e3a2e9208ee4fd81)
+- [ ] [<code>Fix some null assert errors in ProcessManager</code>](https://github.com/stsdc/monitor/commit/70be106197fe85c442e50ba6b9d36149e501b1c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cleanup</code>](https://github.com/stsdc/monitor/commit/61b5cb1cbbd446dde36d9a4a3644c9cbbcd91035)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Merge branch 'new-process-app-matching' of github.com:stsdc/monitor into new-process-app-matching</code>](https://github.com/stsdc/monitor/commit/2af28dedf0c8c6ea0fcc535738f6734e23a0e44b)
+- [ ] [<code>Merge pull request #358 from stsdc/new-process-app-matching</code>](https://github.com/stsdc/monitor/commit/f7e2036a357f37e59fc2af2093b2e0b2a9cd0866)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Search processes by command</code>](https://github.com/stsdc/monitor/commit/a775b657cfd9a85427b2395f0c4f380251ab916a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix assigning name and icon to some processes that are connected to Flatpak app</code>](https://github.com/stsdc/monitor/commit/8786e76a45cce6cf90099e140700dea7932412e5)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -449,6 +389,24 @@
 - [ ] [<code>dependabot: Create .github/dependabot.yml</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/384e7a7c128e4f3085f7de84e72a35677583658e)
 - [ ] [<code>Update portuguese (pt) translation (#177)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e183346f38fe8ce023f5cfd27348e4e1e6f8fcb4)
 - [ ] [<code>Categories: Use SPDX license header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/93daf11f9682da16af7bf6ad201355adcf755d81)
+
+#### [planify](https://github.com/alainm23/planify): [4.1 → HEAD](https://github.com/alainm23/planify/compare/4.1...HEAD)
+
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/889e5964cabe7151552d22e27780d099656136e9)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/3b9bccfefba20397c30245b06f79268b940b4280)
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/ba09b0a2aa18e406a6a1ecd51a9b2dc2ff1546a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add Simplified Chinese translation</code>](https://github.com/alainm23/planify/commit/1cd13af1ec0f6169da7057dbbc52388b1d9b458f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix #1019</code>](https://github.com/alainm23/planify/commit/3b5f2ec85143618835931f26dbd982da6eb52e5a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/572ba5ccd003ccfe4e6fb38d8e97b547af7d1ad3)
+- [ ] [<code>Merge pull request #1018 from Fr4nk1in-USTC/add-simplified-chinese</code>](https://github.com/alainm23/planify/commit/389fd460aa7b85e5eabb339048d8375b2e217136)
+- [ ] [<code>Merge pull request #1017 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/3aa4b925afa01210227e4664262917f5e919a749)
+- [ ] [<code>Release 4.1.1</code>](https://github.com/alainm23/planify/commit/adf3629bcacfc9978f6dde5b87eff0278533ab3e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Initial board</code>](https://github.com/alainm23/planify/commit/bdf6d64bbadbf27788ca947308cf972e5676c45e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -489,10 +447,11 @@
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.16 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.16...HEAD)
 
+- [ ] [<code>Update Arch Linux repo URL</code>](https://github.com/JoseExposito/touchegg/commit/b302ba33ec82b5ba8a6f16076a4d1aaf14ee6b72)
+  - <sub>Keywords: <code>command</code></sub>
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [923adb5d3983ed654566304284607e3367998e22 → HEAD](https://github.com/vala-lang/vala-lint/compare/923adb5d3983ed654566304284607e3367998e22...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
-- [ ] [<code>Application: Get file type in enumerator (#168)</code>](https://github.com/vala-lang/vala-lint/commit/4d21b8a2be8b77052176d06d0cf10a8b319117c4)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
