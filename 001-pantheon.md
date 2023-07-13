@@ -131,6 +131,13 @@
 - [ ] [<code>Use GLib.Action for back/forward (#2243)</code>](https://github.com/elementary/files/commit/cac3c744b3237431742a9f76f73f82e54ed5bb0d)
 - [ ] [<code>LocationBar: use refresh action (#2244)</code>](https://github.com/elementary/files/commit/e7d5d2d61693f6d876fd534f547ef83f60aa4784)
 - [ ] [<code>Browser: remove unused Gtk.Menu (#2245)</code>](https://github.com/elementary/files/commit/903fa0cb1a65f16442016df4ecb045c68781d5bc)
+- [ ] [<code>VolumePropertiesWindow: minor Gtk4 prep (#2246)</code>](https://github.com/elementary/files/commit/f0aab0931dc90a3d2a5d43f96f4897013f7074bd)
+- [ ] [<code>Window: inline namespace (#2247)</code>](https://github.com/elementary/files/commit/2702c4c6760ebc0b65a4834470c60fcbc21f5fe3)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Revealer.add → Revealer.child (#2249)</code>](https://github.com/elementary/files/commit/78c55c88d2fef6a3a8fe122547c0a48a45779a18)
+- [ ] [<code>AbstractPropertiesDialog: Gtk4 prep (#2250)</code>](https://github.com/elementary/files/commit/8d234e5760ea20a2a511865ad3d3272750977726)
+- [ ] [<code>Window: don't get position (#2251)</code>](https://github.com/elementary/files/commit/8407d6ae580d8e2bf2193bdf3bf4cfe41f791f2f)
+- [ ] [<code>Window: remove broken key events (#2252)</code>](https://github.com/elementary/files/commit/4b24a3341b27bc05eb04924207e8e1c9452c15a9)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -788,6 +795,11 @@
 - [ ] [<code>Remove flatpak hook (#674)</code>](https://github.com/elementary/os/commit/5872a9b1c452a46d44580f8c3eacb6c03b276b6e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Re-enable caching</code>](https://github.com/elementary/os/commit/bb32258d398c55bc829fc83f15a6d8a1446bce72)
+- [ ] [<code>Fix 7.0 builds (#677)</code>](https://github.com/elementary/os/commit/d1d881bc56cd20c3c018b2881d1afbcf1ccccaaa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Include HWE kernel in 7.0 dailies (#678)</code>](https://github.com/elementary/os/commit/a82aab6144ebac96108d768a0474d6e33a9943a4)
+- [ ] [<code>README: cleanup docker commands (#679)</code>](https://github.com/elementary/os/commit/58436dc4051e44c27a2e9872990921db390242db)
+- [ ] [<code>Stop using mirror lists (#680)</code>](https://github.com/elementary/os/commit/7a08f5c002c853846ca47b981f6b8479bd9d1993)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
