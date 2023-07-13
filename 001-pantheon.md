@@ -138,6 +138,8 @@
 - [ ] [<code>AbstractPropertiesDialog: Gtk4 prep (#2250)</code>](https://github.com/elementary/files/commit/8d234e5760ea20a2a511865ad3d3272750977726)
 - [ ] [<code>Window: don't get position (#2251)</code>](https://github.com/elementary/files/commit/8407d6ae580d8e2bf2193bdf3bf4cfe41f791f2f)
 - [ ] [<code>Window: remove broken key events (#2252)</code>](https://github.com/elementary/files/commit/4b24a3341b27bc05eb04924207e8e1c9452c15a9)
+- [ ] [<code>PropertiesWindow: Gtk4 prep (#2254)</code>](https://github.com/elementary/files/commit/60a250eb6f069f9f540946c52aefe91b2241cbd3)
+- [ ] [<code>Window: only construction args in Object (#2255)</code>](https://github.com/elementary/files/commit/66f302083e0a0423073356c111018403c238d519)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -558,6 +560,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>ManualCard: Small Gtk4 prep (#676)</code>](https://github.com/elementary/greeter/commit/5240de18b1776eda68a9734ac789e63cc1d3e758)
 - [ ] [<code>UserCard: Small Gtk4 prep (#675)</code>](https://github.com/elementary/greeter/commit/bf5390b0fdf8d2d3b9ec7d84bc0f133c2918dfe0)
+- [ ] [<code>Use users' fonts (#677)</code>](https://github.com/elementary/greeter/commit/6b3b4c0930e6c79ab6b801a6d8dfad403ca3aae7)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -742,6 +745,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Expose night light settings (#68)</code>](https://github.com/elementary/settings-daemon/commit/aa9c2e09526581568a3ac889cbd11d684461c5c7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>InterfaceSettings: Expose fonts (#73)</code>](https://github.com/elementary/settings-daemon/commit/9c82f21ccd80b270518ecfba07e128bb5ed9525f)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -800,6 +804,7 @@
 - [ ] [<code>Include HWE kernel in 7.0 dailies (#678)</code>](https://github.com/elementary/os/commit/a82aab6144ebac96108d768a0474d6e33a9943a4)
 - [ ] [<code>README: cleanup docker commands (#679)</code>](https://github.com/elementary/os/commit/58436dc4051e44c27a2e9872990921db390242db)
 - [ ] [<code>Stop using mirror lists (#680)</code>](https://github.com/elementary/os/commit/7a08f5c002c853846ca47b981f6b8479bd9d1993)
+- [ ] [<code>upload: Install boto3 from repo</code>](https://github.com/elementary/os/commit/560069940bed100b06b3c61b30b1251a585633a7)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
