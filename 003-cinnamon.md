@@ -58,7 +58,9 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.5 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.5...HEAD)
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/mint-themes/commit/429b33d925b9cbef55b06ddf74781eb396ae0036)
+- [ ] [<code>Add flatpak generation script.</code>](https://github.com/linuxmint/mint-themes/commit/526ce688129bdccc5a5d2d272524aae47568a250)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
