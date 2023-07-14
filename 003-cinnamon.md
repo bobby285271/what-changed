@@ -59,8 +59,10 @@
 
 - [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/mint-themes/commit/429b33d925b9cbef55b06ddf74781eb396ae0036)
 - [ ] [<code>Add flatpak generation script.</code>](https://github.com/linuxmint/mint-themes/commit/526ce688129bdccc5a5d2d272524aae47568a250)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>generate-flatpaks: Copy gtk-dark.css also.</code>](https://github.com/linuxmint/mint-themes/commit/d19773aba09e118b309fcf9a210007e675864fbe)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
