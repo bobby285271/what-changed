@@ -184,6 +184,7 @@
 - [ ] [<code>Improve move menu and make it searchable (#916)</code>](https://github.com/elementary/mail/commit/a568a34e6abe64efbe064b22269749fe1854b0f3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CellRendererBadge: Remove reference of non-existent image (#917)</code>](https://github.com/elementary/mail/commit/7dbd821edcfc402fb13dbd8a31be1bc72bf83237)
+- [ ] [<code>Metainfo: 7.2.0 release notes (#920)</code>](https://github.com/elementary/mail/commit/d9d074300a905ae3dbae7f949ac3ac4e20c7be56)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -479,6 +480,8 @@
 - [ ] [<code>Status: remove bluetooth indicator icons (#1211)</code>](https://github.com/elementary/icons/commit/21a9faae2bd35d715a76db1db6a7665dcd8c6d40)
 - [ ] [<code>Actions: Use rounded arrow for view-refresh (#1213)</code>](https://github.com/elementary/icons/commit/3751f10cf9f8ca9a0b1a6e7093801893713657ad)
 - [ ] [<code>Actions: Use rounded arrow on some 24px icons (#1214)</code>](https://github.com/elementary/icons/commit/dd901932fa9f7d20434a946c4e0e759643fe8b73)
+- [ ] [<code>Actions: Use rounded arrow for object-rotate (#1215)</code>](https://github.com/elementary/icons/commit/d5e6381a74dd4392d08b61b1e5ccd6f0df4ccf1c)
+- [ ] [<code>Actions: update 24/mail-move (#1216)</code>](https://github.com/elementary/icons/commit/b2ffde023580ce8a0f7d14a8f913dfb8ec2f9947)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
