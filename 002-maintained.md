@@ -407,6 +407,17 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Initial board</code>](https://github.com/alainm23/planify/commit/bdf6d64bbadbf27788ca947308cf972e5676c45e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix some criticals:</code>](https://github.com/alainm23/planify/commit/5d5d423e8411cf565a7d397e111af016fff73e24)
+- [ ] [<code>Fix an accelerator in shortcuts.ui</code>](https://github.com/alainm23/planify/commit/33ba6558fcee005bd9e6052099ac76461c45c30f)
+- [ ] [<code>Fix Adw.ActionRow.icon_name deprecation</code>](https://github.com/alainm23/planify/commit/735d5f55c09ee96925d21f9927265ec8ad375aca)
+- [ ] [<code>Use Gtk.DropDown instead of Gtk.ComboBoxText in Dialogs.RepeatConfig</code>](https://github.com/alainm23/planify/commit/d1096631f29f858f5a6d0e7aaf12dcda1ed70a63)
+- [ ] [<code>Fix some compilation warnings</code>](https://github.com/alainm23/planify/commit/33990340499dc0cf649e0de570ffa7061fdbf4f1)
+- [ ] [<code>Avoid removing non-children from Widgets.Calendar.CalendarWeek</code>](https://github.com/alainm23/planify/commit/82716a57f551d5683c2dbff298c0f35e52851c37)
+- [ ] [<code>Small tweaks to Flatpak manifests</code>](https://github.com/alainm23/planify/commit/e29ae278cf6936d8396662e9586f66d1805c0020)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Merge pull request #1043 from Diego-Ivan/diego-ivan/fix-some-criticals</code>](https://github.com/alainm23/planify/commit/a3d212f6ff7ea739b074db8203bba72505026b96)
+- [ ] [<code>New Board View designed</code>](https://github.com/alainm23/planify/commit/ca1a31856862ff40a7ed6ec47851c7719484b9d3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
