@@ -140,6 +140,8 @@
 - [ ] [<code>Window: remove broken key events (#2252)</code>](https://github.com/elementary/files/commit/4b24a3341b27bc05eb04924207e8e1c9452c15a9)
 - [ ] [<code>PropertiesWindow: Gtk4 prep (#2254)</code>](https://github.com/elementary/files/commit/60a250eb6f069f9f540946c52aefe91b2241cbd3)
 - [ ] [<code>Window: only construction args in Object (#2255)</code>](https://github.com/elementary/files/commit/66f302083e0a0423073356c111018403c238d519)
+- [ ] [<code>Move HeaderBar into Window (#2233)</code>](https://github.com/elementary/files/commit/5ef25a928687cc3594e66977b19e1147cb9bf52f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -185,6 +187,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CellRendererBadge: Remove reference of non-existent image (#917)</code>](https://github.com/elementary/mail/commit/7dbd821edcfc402fb13dbd8a31be1bc72bf83237)
 - [ ] [<code>Metainfo: 7.2.0 release notes (#920)</code>](https://github.com/elementary/mail/commit/d9d074300a905ae3dbae7f949ac3ac4e20c7be56)
+- [ ] [<code>Allow renaming of folders (#911)</code>](https://github.com/elementary/mail/commit/9154fcc94427addee419671934835cd121264d42)
+- [ ] [<code>MessageList: use mail-move icon (#921)</code>](https://github.com/elementary/mail/commit/024e46d4682752f01b5f65efce31c9d01d2af6c4)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -263,6 +267,9 @@
 - [ ] [<code>Window: Some GTK4 preparations (#349)</code>](https://github.com/elementary/videos/commit/d5ec5ba2bd73e649937c1afc80c0006c8af4f8a1)
 - [ ] [<code>PreviewPopover: Preparations for GTK4 (#347)</code>](https://github.com/elementary/videos/commit/c5d3e05b6ff107b6147fea7cd5a223eac46c071f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove unused Clutter (#350)</code>](https://github.com/elementary/videos/commit/4e849165c1d0c0c8c392a1f4c673f1a92ab9f348)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -808,6 +815,11 @@
 - [ ] [<code>README: cleanup docker commands (#679)</code>](https://github.com/elementary/os/commit/58436dc4051e44c27a2e9872990921db390242db)
 - [ ] [<code>Stop using mirror lists (#680)</code>](https://github.com/elementary/os/commit/7a08f5c002c853846ca47b981f6b8479bd9d1993)
 - [ ] [<code>upload: Install boto3 from repo</code>](https://github.com/elementary/os/commit/560069940bed100b06b3c61b30b1251a585633a7)
+- [ ] [<code>Update Debian Salsa patch</code>](https://github.com/elementary/os/commit/995c5eaff4a8ebc1c9181d03e1b87da318840253)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix README badge</code>](https://github.com/elementary/os/commit/6608b7003d0b22e4fac0dd50fb78996bb173f730)
+- [ ] [<code>Update Debian Salsa patch</code>](https://github.com/elementary/os/commit/3b0d6d77bf8fea5f39dc672fe43de246e8fa30f6)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
