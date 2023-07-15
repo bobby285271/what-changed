@@ -354,6 +354,10 @@
 - [ ] [<code>Search processes by command</code>](https://github.com/stsdc/monitor/commit/a775b657cfd9a85427b2395f0c4f380251ab916a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix assigning name and icon to some processes that are connected to Flatpak app</code>](https://github.com/stsdc/monitor/commit/8786e76a45cce6cf90099e140700dea7932412e5)
+- [ ] [<code>reafactor</code>](https://github.com/stsdc/monitor/commit/566c40bb96e37f47d6b74c0383e466d36001ee6b)
+- [ ] [<code>Fix for icons appear slightly smaller in detailed process view</code>](https://github.com/stsdc/monitor/commit/b5857d134f57b053a4c60f8e103b4385f0d4e0bf)
+- [ ] [<code>show fullprocess command if contains ":"; refactor</code>](https://github.com/stsdc/monitor/commit/83c260d4750fe2cc2054ccb9fa876f09a624b053)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -418,6 +422,7 @@
 - [ ] [<code>Merge pull request #1043 from Diego-Ivan/diego-ivan/fix-some-criticals</code>](https://github.com/alainm23/planify/commit/a3d212f6ff7ea739b074db8203bba72505026b96)
 - [ ] [<code>New Board View designed</code>](https://github.com/alainm23/planify/commit/ca1a31856862ff40a7ed6ec47851c7719484b9d3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving the detail of the board view</code>](https://github.com/alainm23/planify/commit/488afdad5803fb5edf36079785dd91d0dce7cdb8)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
