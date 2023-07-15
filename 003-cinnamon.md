@@ -61,8 +61,10 @@
 - [ ] [<code>Add flatpak generation script.</code>](https://github.com/linuxmint/mint-themes/commit/526ce688129bdccc5a5d2d272524aae47568a250)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>generate-flatpaks: Copy gtk-dark.css also.</code>](https://github.com/linuxmint/mint-themes/commit/d19773aba09e118b309fcf9a210007e675864fbe)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>flatpak: Use Dart Sass instead of sassc.</code>](https://github.com/linuxmint/mint-themes/commit/c1180e5f5d862220bfd788559cdb74df46e3b910)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
@@ -72,6 +74,8 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
+- [ ] [<code>Remove deprecated/removed zenity arguments.</code>](https://github.com/linuxmint/muffin/commit/ff244dde0780bf186c7be3f4c52ac48e3d1ad7cc)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
 
