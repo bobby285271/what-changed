@@ -189,6 +189,7 @@
 - [ ] [<code>Metainfo: 7.2.0 release notes (#920)</code>](https://github.com/elementary/mail/commit/d9d074300a905ae3dbae7f949ac3ac4e20c7be56)
 - [ ] [<code>Allow renaming of folders (#911)</code>](https://github.com/elementary/mail/commit/9154fcc94427addee419671934835cd121264d42)
 - [ ] [<code>MessageList: use mail-move icon (#921)</code>](https://github.com/elementary/mail/commit/024e46d4682752f01b5f65efce31c9d01d2af6c4)
+- [ ] [<code>Metainfo: Distinguish the mails themselves and the app name (#924)</code>](https://github.com/elementary/mail/commit/58d7585000bb86fd7783fd6e070ba57f799466d6)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
