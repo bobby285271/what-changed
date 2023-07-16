@@ -142,6 +142,7 @@
 - [ ] [<code>Window: only construction args in Object (#2255)</code>](https://github.com/elementary/files/commit/66f302083e0a0423073356c111018403c238d519)
 - [ ] [<code>Move HeaderBar into Window (#2233)</code>](https://github.com/elementary/files/commit/5ef25a928687cc3594e66977b19e1147cb9bf52f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use generic helpers for obtaining file attributes (#2257)</code>](https://github.com/elementary/files/commit/7bd542fa0a646b5cb0972f5575c56a9ee4d9dce7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
