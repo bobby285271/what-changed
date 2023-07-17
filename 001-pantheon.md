@@ -191,6 +191,7 @@
 - [ ] [<code>Allow renaming of folders (#911)</code>](https://github.com/elementary/mail/commit/9154fcc94427addee419671934835cd121264d42)
 - [ ] [<code>MessageList: use mail-move icon (#921)</code>](https://github.com/elementary/mail/commit/024e46d4682752f01b5f65efce31c9d01d2af6c4)
 - [ ] [<code>Metainfo: Distinguish the mails themselves and the app name (#924)</code>](https://github.com/elementary/mail/commit/58d7585000bb86fd7783fd6e070ba57f799466d6)
+- [ ] [<code>FolderPopover: increase white space, natural height, search placeholder (#923)</code>](https://github.com/elementary/mail/commit/0decf6ca0861ed80ecacb02ec5b5fc5d8153e71a)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -640,6 +641,7 @@
 - [ ] [<code>build: Support mutter 44</code>](https://github.com/elementary/wingpanel/commit/0cbf28917254366b08ef66a032687a2498e157ef)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Close popover on Esc (#487)</code>](https://github.com/elementary/wingpanel/commit/ca2d5356225682192005e5eb68135013c1e48851)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
