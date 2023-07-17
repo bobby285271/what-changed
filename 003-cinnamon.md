@@ -63,8 +63,14 @@
 - [ ] [<code>generate-flatpaks: Copy gtk-dark.css also.</code>](https://github.com/linuxmint/mint-themes/commit/d19773aba09e118b309fcf9a210007e675864fbe)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>flatpak: Use Dart Sass instead of sassc.</code>](https://github.com/linuxmint/mint-themes/commit/c1180e5f5d862220bfd788559cdb74df46e3b910)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Generate pull requests, not direct commits.</code>](https://github.com/linuxmint/mint-themes/commit/f3118860f69727155f9d0f4d43909c893ae681c4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>flatpaks: Rebase and setup a new branch before modifying content.</code>](https://github.com/linuxmint/mint-themes/commit/ea4196740efe8dd951e68ed9a269829c3d3a5790)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Linux Mint/cinnamon.css: Center text in .applet-box</code>](https://github.com/linuxmint/mint-themes/commit/2fa2083fb6774e402e3f5302ee861815cd997fdb)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
@@ -101,6 +107,10 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
 
+- [ ] [<code>Don't allow bubblewrap mode in Flatpak builds.</code>](https://github.com/linuxmint/warpinator/commit/42f2240db0cdb44e95730b4585be9d53599a13bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README markdown: Switch to using relative image paths.</code>](https://github.com/linuxmint/warpinator/commit/537c9d592d24796417f7555bdb74f52bb6600602)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
