@@ -358,6 +358,8 @@
 - [ ] [<code>Fix for icons appear slightly smaller in detailed process view</code>](https://github.com/stsdc/monitor/commit/b5857d134f57b053a4c60f8e103b4385f0d4e0bf)
 - [ ] [<code>show fullprocess command if contains ":"; refactor</code>](https://github.com/stsdc/monitor/commit/83c260d4750fe2cc2054ccb9fa876f09a624b053)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve wine process display</code>](https://github.com/stsdc/monitor/commit/24734dece4d9df936271f5a15481db558e704add)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
