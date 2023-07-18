@@ -13,8 +13,13 @@
 - [ ] [<code>cs_themes: Finish removing tinycss support.</code>](https://github.com/linuxmint/cinnamon/commit/ffa905066d7e330c64b6c4ec25cc2f648a96bc44)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes.py: Fix navigation/stack issue.</code>](https://github.com/linuxmint/cinnamon/commit/6fbc0d54cab46dc00d7c6a7107b1e25ffec46226)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon.css: Center text in .applet-box (#11755)</code>](https://github.com/linuxmint/cinnamon/commit/97af1698ef911756a92ea2c61b0d3c6d40c85127)
+- [ ] [<code>lightbox: Reduce color banding with dithering... (#11757)</code>](https://github.com/linuxmint/cinnamon/commit/720cb81e186072097752c6e785665dcbf91c381e)
+- [ ] [<code>sound@cinnamon.org: Word wrap for artist and title labels (#11756)</code>](https://github.com/linuxmint/cinnamon/commit/344b56aa36f21e551dee63a74e5cad10035ac0f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/cinnamon/commit/70297d2e300442ac6978e13053422ddb55d49879)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -30,8 +35,9 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.8.1...HEAD)
 
 - [ ] [<code>Don't use libaccountsservice, which can block startup.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d5ad3735721a5e90dfea1f635a72c4f6e4a2c116)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d6b21662254713be9d7b89a3375329b673050873)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
@@ -69,6 +75,10 @@
 - [ ] [<code>flatpaks: Rebase and setup a new branch before modifying content.</code>](https://github.com/linuxmint/mint-themes/commit/ea4196740efe8dd951e68ed9a269829c3d3a5790)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Linux Mint/cinnamon.css: Center text in .applet-box</code>](https://github.com/linuxmint/mint-themes/commit/2fa2083fb6774e402e3f5302ee861815cd997fdb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly (#453)</code>](https://github.com/linuxmint/mint-themes/commit/2b0fd85204aa1017e14206f45542d1b662a605bd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>.gitignore: Fix usr/ path to exclude files/usr (#451)</code>](https://github.com/linuxmint/mint-themes/commit/4f3ff255ace3f5458d5ec633e9acd6fc5f893830)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -77,10 +87,14 @@
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.7...HEAD)
 
+- [ ] [<code>Added F3D, Heroic Games Launcher, itch.io, mastodon icons (#349)</code>](https://github.com/linuxmint/mint-y-icons/commit/9227549d13b1d04f170225ecacc9d7923124ac73)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
 - [ ] [<code>Remove deprecated/removed zenity arguments.</code>](https://github.com/linuxmint/muffin/commit/ff244dde0780bf186c7be3f4c52ac48e3d1ad7cc)
+- [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/muffin/commit/bece4326e51f5bad40b5c9bcd1b6ed4460088ab1)
+- [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/muffin/commit/84176989dd43aa107e76b3e20da65b1b7b447173)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
@@ -104,19 +118,27 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
 
+- [ ] [<code>patch to build with exiv 0.28 (#178)</code>](https://github.com/linuxmint/pix/commit/46e19703a973d51fa97e6a22121560f5ba200eea)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
 
 - [ ] [<code>Don't allow bubblewrap mode in Flatpak builds.</code>](https://github.com/linuxmint/warpinator/commit/42f2240db0cdb44e95730b4585be9d53599a13bc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README markdown: Switch to using relative image paths.</code>](https://github.com/linuxmint/warpinator/commit/537c9d592d24796417f7555bdb74f52bb6600602)
+- [ ] [<code>Add issue templates.</code>](https://github.com/linuxmint/warpinator/commit/8bed9f85c5f2df10962ec5ab6d7ca547bf2a38f3)
+- [ ] [<code>Fix readme link in bug_report.yaml</code>](https://github.com/linuxmint/warpinator/commit/020af83badfbb60512fad440a6a455eb1ffafcab)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
+- [ ] [<code>Add github issue templates.</code>](https://github.com/linuxmint/xapp/commit/7945d7420f0c7daa28a506d03657aa9bb04c5836)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
 
+- [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
@@ -141,6 +163,8 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.8.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.8.2...HEAD)
 
+- [ ] [<code>Add man page for enable-tap-to-click (#224)</code>](https://github.com/linuxmint/slick-greeter/commit/06b1bd810f442c5b22e6b109e492b197c51f60a4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
