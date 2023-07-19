@@ -100,8 +100,10 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
 
 - [ ] [<code>debian: use buildtype=debugoptimized, use buildtype instead of an</code>](https://github.com/linuxmint/nemo/commit/fcf8d4736c876e01b9cbd336d95e32e56c44de3f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>nemo-window-slot.c: Update the drop zone target each time the</code>](https://github.com/linuxmint/nemo/commit/1f43989b26499b9533a31c0c0ebc7738728da552)
+- [ ] [<code>Fix some leaks, g_object_unref safety.</code>](https://github.com/linuxmint/nemo/commit/596d7ee5a4ce69e75027e3eab056dc27cc4d626e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
@@ -138,6 +140,7 @@
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
 
 - [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
+- [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
