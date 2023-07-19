@@ -620,6 +620,12 @@
 
 - [ ] [<code>Handle move-to-workspace-1-12 shortcuts directly (#1721)</code>](https://github.com/elementary/gala/commit/b94ab5e8cd4bf81aaf2a775b46ffb38f69c55ff4)
 - [ ] [<code>Fix moving maximized and fullscreen windows to new workspace on launch (#1722)</code>](https://github.com/elementary/gala/commit/d0a21e2f53d6a346eb82dfbb19a5b67427f6f2dd)
+- [ ] [<code>Add shadow to wallpaper clones while switching workspace (#1726)</code>](https://github.com/elementary/gala/commit/e119dd5f62fe978d09f185716760af4efdd56c43)
+- [ ] [<code>Update gala.metainfo.xml.in (#1729)</code>](https://github.com/elementary/gala/commit/84cb457ba30cd1bccac1a729263a563ae394d59d)
+- [ ] [<code>WindowManager: A small cleanup (#1725)</code>](https://github.com/elementary/gala/commit/6f38ee7464a9e208bb0219823dcf8ba5cdb53c9f)
+- [ ] [<code>Use dark wallpaper (#1709)</code>](https://github.com/elementary/gala/commit/0de3128cff4aa5fecd3c0dc3bf4153ca1255596d)
+- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/1a7898e8224223370e874eda80bc6029e2911866)
+- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/81ac0acec9d70446e65c067d4a10f76cdcfdbcf9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
