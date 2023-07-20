@@ -629,6 +629,7 @@
 - [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/1a7898e8224223370e874eda80bc6029e2911866)
 - [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/81ac0acec9d70446e65c067d4a10f76cdcfdbcf9)
 - [ ] [<code>Fix warnings (#1717)</code>](https://github.com/elementary/gala/commit/eef351e5dfbd19bbcdeb0932e90b5b64d98f09cf)
+- [ ] [<code>Use `Meta.Window.is_on_primary_monitor ()` (#1731)</code>](https://github.com/elementary/gala/commit/b4a6a04d7248a2742f6c1cdeb8c3ce740f850273)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
