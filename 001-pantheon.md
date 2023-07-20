@@ -143,6 +143,7 @@
 - [ ] [<code>Move HeaderBar into Window (#2233)</code>](https://github.com/elementary/files/commit/5ef25a928687cc3594e66977b19e1147cb9bf52f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use generic helpers for obtaining file attributes (#2257)</code>](https://github.com/elementary/files/commit/7bd542fa0a646b5cb0972f5575c56a9ee4d9dce7)
+- [ ] [<code>Window: DynamicNotebook → Hdy.TabBar (#2256)</code>](https://github.com/elementary/files/commit/e5fc01c6733faaceef2086d198e52acae7b21094)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -494,6 +495,7 @@
 - [ ] [<code>Actions: Use rounded arrow on some 24px icons (#1214)</code>](https://github.com/elementary/icons/commit/dd901932fa9f7d20434a946c4e0e759643fe8b73)
 - [ ] [<code>Actions: Use rounded arrow for object-rotate (#1215)</code>](https://github.com/elementary/icons/commit/d5e6381a74dd4392d08b61b1e5ccd6f0df4ccf1c)
 - [ ] [<code>Actions: update 24/mail-move (#1216)</code>](https://github.com/elementary/icons/commit/b2ffde023580ce8a0f7d14a8f913dfb8ec2f9947)
+- [ ] [<code>Actions: Add some semi-transparent borders (#1217)</code>](https://github.com/elementary/icons/commit/44755fb918dbd185598669d85650a5ab8136b3b1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -626,6 +628,7 @@
 - [ ] [<code>Use dark wallpaper (#1709)</code>](https://github.com/elementary/gala/commit/0de3128cff4aa5fecd3c0dc3bf4153ca1255596d)
 - [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/1a7898e8224223370e874eda80bc6029e2911866)
 - [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/81ac0acec9d70446e65c067d4a10f76cdcfdbcf9)
+- [ ] [<code>Fix warnings (#1717)</code>](https://github.com/elementary/gala/commit/eef351e5dfbd19bbcdeb0932e90b5b64d98f09cf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
@@ -651,6 +654,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Close popover on Esc (#487)</code>](https://github.com/elementary/wingpanel/commit/ca2d5356225682192005e5eb68135013c1e48851)
 - [ ] [<code>wingpanel-interface: Use `unowned` where needed (#488)</code>](https://github.com/elementary/wingpanel/commit/065d512edbbb6148a3e1522100c547defd631fc8)
+- [ ] [<code>Fix indicator re-animating when an icon is removed/added (#486)</code>](https://github.com/elementary/wingpanel/commit/ac0b3bdf48773a48f321a7b515902af73683c650)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
