@@ -798,6 +798,10 @@
 - [ ] [<code>Sync wallpaper to greeter (#72)</code>](https://github.com/elementary/settings-daemon/commit/1f75e53f0928fb3d3afdfc5c2f11a2f2076639e8)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update settings-daemon.metainfo.xml.in</code>](https://github.com/elementary/settings-daemon/commit/37aa9daeac664f0bc613fc2b9f5a43e1d832d4f4)
+- [ ] [<code>Release 1.3.0 (#65)</code>](https://github.com/elementary/settings-daemon/commit/1d21cb6f8d037a9dfbe20622480d70e83f55e2dd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>metainfo: Fix typo</code>](https://github.com/elementary/settings-daemon/commit/f7f4316f07d7551aaa079250bbacd2ab986838ce)
+- [ ] [<code>Fix pot file</code>](https://github.com/elementary/settings-daemon/commit/ea70fe3ee79c9eec2eb125c77c8a3c0feb98c20b)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
