@@ -467,6 +467,8 @@
 
 - [ ] [<code>Update Arch Linux repo URL</code>](https://github.com/JoseExposito/touchegg/commit/b302ba33ec82b5ba8a6f16076a4d1aaf14ee6b72)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README: Touchégg included by default with Linux Mint 21.2</code>](https://github.com/JoseExposito/touchegg/commit/9c25edb904b66cbf9e97c9f3cd5cfcd390eb1c19)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
