@@ -43,6 +43,7 @@
 - [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/d0c598b024de1b70aae54f4abd7b6b2552502f60)
 - [ ] [<code>Flatpak Updates (#790)</code>](https://github.com/elementary/calendar/commit/f323992ebc1183723cae726e012d6f42e245cc8d)
 - [ ] [<code>Application: Force use of portals (#717)</code>](https://github.com/elementary/calendar/commit/13319d43df98c8879cbe6e2836cbdb24b111a760)
+- [ ] [<code>Style updates (#780)</code>](https://github.com/elementary/calendar/commit/50aefadcc21cfb8ebc9b2e72df41968410244123)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -195,6 +196,8 @@
 - [ ] [<code>FolderPopover: increase white space, natural height, search placeholder (#923)</code>](https://github.com/elementary/mail/commit/0decf6ca0861ed80ecacb02ec5b5fc5d8153e71a)
 - [ ] [<code>Gresource mail-move icon (#925)</code>](https://github.com/elementary/mail/commit/9a344bcf0fbc44691b378ece5e17ef345fc9751f)
 - [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/057b72c1e66aa4324e84f50aaf0d49fa03993e80)
+- [ ] [<code>MainWindow: throw dialog for errors (#926)</code>](https://github.com/elementary/mail/commit/a09c11439bb2353e24e26b631a00edc5ae3a6175)
+- [ ] [<code>Show an InfoBar if attachments include an ICS file (#915)</code>](https://github.com/elementary/mail/commit/9cbece964fd892a19ade49635feb83604ece0580)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -239,6 +242,9 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/tasks/commit/e68337d6a9f334f9f98ec45d822b1c00ec86f503)
 - [ ] [<code>Application: use startup (#363)</code>](https://github.com/elementary/tasks/commit/c7b60ca38c5bb8426d6439996a0259608619fb1a)
 - [ ] [<code>Fixed Duplicated tasks in Scheduled (#365)</code>](https://github.com/elementary/tasks/commit/9bd88b572ce1ffdc10ae222c55d8d0e580392ca8)
+- [ ] [<code>Metainfo Improvements (#366)</code>](https://github.com/elementary/tasks/commit/76156ecfd175ab30cfc155389a0f908dc207b7cb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: 6.3.2 release notes (#367)</code>](https://github.com/elementary/tasks/commit/23d636b01db18f63b27ecd18476e43332d3412e6)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -416,6 +422,8 @@
 - [ ] [<code>Dock: add checks for panel indicators (#358)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/96ecf77f39874f9e0d8a0182e17ee1e81d197279)
 - [ ] [<code>Dock: redesign (#360)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a247a02a9e04ba9fdf78ec48b1807384a2386276)
 - [ ] [<code>Multitasking remove top margin (#362)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/996204c4e2418b3adc99a2a8414b5cd8fcd5a4f0)
+- [ ] [<code>Rely to settings-daemon to copy wallpaper to greeter (#361)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ffc4615d17853f659595b97922fb0b0e776985a0)
+- [ ] [<code>Update pantheon-shell.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7b504dfe818f7c9d6c01dc2e97375b30593687ca)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -464,6 +472,9 @@
 - [ ] [<code>Set volume scales sensitive based on device (#244)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d7903b0c5886e0710736782aeba5aafc5c3e1ec)
 - [ ] [<code>OutputPanel: include screen reader shortcut (#245)</code>](https://github.com/elementary/switchboard-plug-sound/commit/d4b711a12ec6531e60dfcfc2fe0e2d5a3f41e873)
 - [ ] [<code>Try to fix crash (#248)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ef22189616e5ae85e23f813fc2933b2dd6a31cea)
+- [ ] [<code>Metainfo Improvements (#249)</code>](https://github.com/elementary/switchboard-plug-sound/commit/a288a0fd156e38519d044653e1508ab1ec236bd1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>2.3.3 Release notes (#250)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2639f7f29abc1b7af8c5c735a37124a5b57bbbd)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -496,6 +507,9 @@
 - [ ] [<code>Actions: Use rounded arrow for object-rotate (#1215)</code>](https://github.com/elementary/icons/commit/d5e6381a74dd4392d08b61b1e5ccd6f0df4ccf1c)
 - [ ] [<code>Actions: update 24/mail-move (#1216)</code>](https://github.com/elementary/icons/commit/b2ffde023580ce8a0f7d14a8f913dfb8ec2f9947)
 - [ ] [<code>Actions: Add some semi-transparent borders (#1217)</code>](https://github.com/elementary/icons/commit/44755fb918dbd185598669d85650a5ab8136b3b1)
+- [ ] [<code>Metainfo: add 7.3.1 release notes (#1220)</code>](https://github.com/elementary/icons/commit/2dca3e8ca59de469e42cbd08faa648ee5ed38144)
+- [ ] [<code>Metainfo improvements (#1221)</code>](https://github.com/elementary/icons/commit/f2d2af929c7be052667749bec2b850de574a3e64)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -742,11 +756,18 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.4 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.4...HEAD)
 
+- [ ] [<code>Correctly setup the locales (#105)</code>](https://github.com/elementary/capnet-assist/commit/cea7ac6fb47fd831bb607970add3c80473b5e498)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Build with Flatpak (#106)</code>](https://github.com/elementary/capnet-assist/commit/0d311a046235a42a95f0101b62c554356b2153f9)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.0 → HEAD](https://github.com/elementary/notifications/compare/7.0.0...HEAD)
 
 - [ ] [<code>Fix block of "Automatic suspend" notifications (#207)</code>](https://github.com/elementary/notifications/commit/4691ec869316be94598d8e55e1cd3bd525e8e149)
 - [ ] [<code>Handle app ids that ends with .desktop (#209)</code>](https://github.com/elementary/notifications/commit/c669eaf6c66032b5b37608723980ea5564da6d11)
+- [ ] [<code>Use GLib.ActionGroup to handle actions (#193)</code>](https://github.com/elementary/notifications/commit/3790b36834431f2c0235f83c49a403e68992c4cc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
 
@@ -774,6 +795,9 @@
 - [ ] [<code>Expose night light settings (#68)</code>](https://github.com/elementary/settings-daemon/commit/aa9c2e09526581568a3ac889cbd11d684461c5c7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>InterfaceSettings: Expose fonts (#73)</code>](https://github.com/elementary/settings-daemon/commit/9c82f21ccd80b270518ecfba07e128bb5ed9525f)
+- [ ] [<code>Sync wallpaper to greeter (#72)</code>](https://github.com/elementary/settings-daemon/commit/1f75e53f0928fb3d3afdfc5c2f11a2f2076639e8)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Update settings-daemon.metainfo.xml.in</code>](https://github.com/elementary/settings-daemon/commit/37aa9daeac664f0bc613fc2b9f5a43e1d832d4f4)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -790,6 +814,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.0 → HEAD](https://github.com/elementary/portals/compare/7.1.0...HEAD)
 
+- [ ] [<code>Add background portal file to POTFILES (#88)</code>](https://github.com/elementary/portals/commit/5bc15105da24f7934431c0feabdf917c22fb92c5)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
