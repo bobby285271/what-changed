@@ -19,7 +19,9 @@
 - [ ] [<code>sound@cinnamon.org: Word wrap for artist and title labels (#11756)</code>](https://github.com/linuxmint/cinnamon/commit/344b56aa36f21e551dee63a74e5cad10035ac0f4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/cinnamon/commit/70297d2e300442ac6978e13053422ddb55d49879)
+- [ ] [<code>Fix thumbnails not appearing for windows created while menu is open (#11759)</code>](https://github.com/linuxmint/cinnamon/commit/2faa38d93fb5e1cac95e42662153e3fe2266ffb2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -89,6 +91,8 @@
 
 - [ ] [<code>Added F3D, Heroic Games Launcher, itch.io, mastodon icons (#349)</code>](https://github.com/linuxmint/mint-y-icons/commit/9227549d13b1d04f170225ecacc9d7923124ac73)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Added Blockbench and Penpot icons (#350)</code>](https://github.com/linuxmint/mint-y-icons/commit/e86eae590601672041e523a2e71e1ff60e5421e1)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
@@ -103,6 +107,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>nemo-window-slot.c: Update the drop zone target each time the</code>](https://github.com/linuxmint/nemo/commit/1f43989b26499b9533a31c0c0ebc7738728da552)
 - [ ] [<code>Fix some leaks, g_object_unref safety.</code>](https://github.com/linuxmint/nemo/commit/596d7ee5a4ce69e75027e3eab056dc27cc4d626e)
+- [ ] [<code>Use `activation_uri` as a second choice in `nemo_file_get_local_uri` (#3269)</code>](https://github.com/linuxmint/nemo/commit/c64905efd219a4da64846e600ebd1f4ed0583131)
+- [ ] [<code>nemo-desktop-link.c: Fix warning when toggling the Trash icon in</code>](https://github.com/linuxmint/nemo/commit/b94dbd75e7e4b5403da26cfdb0948cbf494417a1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
@@ -130,6 +136,7 @@
 - [ ] [<code>README markdown: Switch to using relative image paths.</code>](https://github.com/linuxmint/warpinator/commit/537c9d592d24796417f7555bdb74f52bb6600602)
 - [ ] [<code>Add issue templates.</code>](https://github.com/linuxmint/warpinator/commit/8bed9f85c5f2df10962ec5ab6d7ca547bf2a38f3)
 - [ ] [<code>Fix readme link in bug_report.yaml</code>](https://github.com/linuxmint/warpinator/commit/020af83badfbb60512fad440a6a455eb1ffafcab)
+- [ ] [<code>Allow /run/media/* for a save location, as some systems mount</code>](https://github.com/linuxmint/warpinator/commit/1c502dcd0e590953f79d55b4a6ede424bb5a73cc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
