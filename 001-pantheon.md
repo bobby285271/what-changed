@@ -145,6 +145,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use generic helpers for obtaining file attributes (#2257)</code>](https://github.com/elementary/files/commit/7bd542fa0a646b5cb0972f5575c56a9ee4d9dce7)
 - [ ] [<code>Window: DynamicNotebook → Hdy.TabBar (#2256)</code>](https://github.com/elementary/files/commit/e5fc01c6733faaceef2086d198e52acae7b21094)
+- [ ] [<code>Fix restoring focused tab position (#2266)</code>](https://github.com/elementary/files/commit/44138ea81be369217333cdc4efc8813111a6dea5)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -371,6 +372,9 @@
 - [ ] [<code>Behavior: add a11y settings (#446)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/20f046bec13f7b47fa86136dfe6bdafcbf85313a)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Behavior: Remove trailing space in string (#449)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb556eb17c2e0fbd471977ebffb48c0a78a234c3)
+- [ ] [<code>Metainfo Improvements (#450)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/8ff62e372b70c962a8d18833a01cec80a2280233)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add release notes for 3.2.0 (#451)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7f72609146e8d6985a6b4cb56a4addca2f369967)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -510,6 +514,7 @@
 - [ ] [<code>Metainfo: add 7.3.1 release notes (#1220)</code>](https://github.com/elementary/icons/commit/2dca3e8ca59de469e42cbd08faa648ee5ed38144)
 - [ ] [<code>Metainfo improvements (#1221)</code>](https://github.com/elementary/icons/commit/f2d2af929c7be052667749bec2b850de574a3e64)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Create gettext.yml</code>](https://github.com/elementary/icons/commit/5869812f7d34a0b4e88d3b2552fa0b36a8fe4cb1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -689,6 +694,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/735ff018954d6a89eabc91fd4fff059db3cb1d75)
 - [ ] [<code>GreeterWidget: Sync with greeter session (#56)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/1a4c7da4c9d44a9d3d5af9c12c1011146a7a805d)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Metainfo improvements (#57)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d8610bbb9bd5d27eedeb40f9358f7fd5a67fa181)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 1.0.2 release notes (#58)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d465b19a655cf2d348863ff8a0475b2dc7270ef3)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.1...HEAD)
 
@@ -802,6 +810,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>metainfo: Fix typo</code>](https://github.com/elementary/settings-daemon/commit/f7f4316f07d7551aaa079250bbacd2ab986838ce)
 - [ ] [<code>Fix pot file</code>](https://github.com/elementary/settings-daemon/commit/ea70fe3ee79c9eec2eb125c77c8a3c0feb98c20b)
+- [ ] [<code>Update translation files</code>](https://github.com/elementary/settings-daemon/commit/d68bed27e3d95707c00f22c6c58e71a700f74d4e)
+  - <sub>Tags: <code>1.3.0</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
