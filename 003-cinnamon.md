@@ -109,6 +109,8 @@
 - [ ] [<code>Fix some leaks, g_object_unref safety.</code>](https://github.com/linuxmint/nemo/commit/596d7ee5a4ce69e75027e3eab056dc27cc4d626e)
 - [ ] [<code>Use `activation_uri` as a second choice in `nemo_file_get_local_uri` (#3269)</code>](https://github.com/linuxmint/nemo/commit/c64905efd219a4da64846e600ebd1f4ed0583131)
 - [ ] [<code>nemo-desktop-link.c: Fix warning when toggling the Trash icon in</code>](https://github.com/linuxmint/nemo/commit/b94dbd75e7e4b5403da26cfdb0948cbf494417a1)
+- [ ] [<code>Fix some style/icon problems.</code>](https://github.com/linuxmint/nemo/commit/5ea25e735d1edd74660a70543d9511750c0b90ab)
+- [ ] [<code>search: Relax folder restrictions to allow gvfs locations.</code>](https://github.com/linuxmint/nemo/commit/1ae5a6d4e24e7ce82eac8a875a0b502aaf2d54a6)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
