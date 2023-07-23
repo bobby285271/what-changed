@@ -93,6 +93,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Added Blockbench and Penpot icons (#350)</code>](https://github.com/linuxmint/mint-y-icons/commit/e86eae590601672041e523a2e71e1ff60e5421e1)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Ferdium, Helix and VS Codium icons (#353)</code>](https://github.com/linuxmint/mint-y-icons/commit/3481da2215c557490ba4d5b4820d981c0039b7af)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
