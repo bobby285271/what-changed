@@ -752,6 +752,7 @@
 - [ ] [<code>Switch to GHCR containers (#176)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/e38e845eb43d61cdb164ba0cabbc0144f932b4bd)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-session/commit/36c13b1e86bd40c8d4e2d18d0c5cc42b47f0cbd2)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#177)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/740f9603a2d6a2ff79aa2810b18facbf9ab487f7)
+- [ ] [<code>Only show suspend button if suspend is available (#182)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/1c79e2b501d0162f5fbb1e0162c161b169b31cad)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
