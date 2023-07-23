@@ -199,6 +199,8 @@
 - [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/057b72c1e66aa4324e84f50aaf0d49fa03993e80)
 - [ ] [<code>MainWindow: throw dialog for errors (#926)</code>](https://github.com/elementary/mail/commit/a09c11439bb2353e24e26b631a00edc5ae3a6175)
 - [ ] [<code>Show an InfoBar if attachments include an ICS file (#915)</code>](https://github.com/elementary/mail/commit/9cbece964fd892a19ade49635feb83604ece0580)
+- [ ] [<code>Fix grouped archive folder (#929)</code>](https://github.com/elementary/mail/commit/cb636e4026838d9c73a669629b5baaa29b81704a)
+- [ ] [<code>Gresource: add mail-archive (#933)</code>](https://github.com/elementary/mail/commit/a770335bac467251f3f72cfec8864b001c11a939)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
