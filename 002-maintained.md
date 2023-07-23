@@ -360,6 +360,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Improve wine process display</code>](https://github.com/stsdc/monitor/commit/24734dece4d9df936271f5a15481db558e704add)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Display GPU temperature in the Indicator. Closes #326</code>](https://github.com/stsdc/monitor/commit/e4180d003c8af7b2dd9a280e90a5f41ef5accd36)
+- [ ] [<code>fix linting</code>](https://github.com/stsdc/monitor/commit/8f17ccb60f2ab0b614ffcc32deb306a01320f5ee)
+- [ ] [<code>Update FUNDING.yml</code>](https://github.com/stsdc/monitor/commit/1f76c37400373002f563cc8070e8daa2f3e3a50c)
+- [ ] [<code>Make value in RoundyLabel selectable</code>](https://github.com/stsdc/monitor/commit/209c645d0d37a542dcd0a028d32118b7fb86f39a)
+- [ ] [<code>bump version to 0.17.0</code>](https://github.com/stsdc/monitor/commit/a9b425732d4ae661cdcf31ae3d7517b0ddf5bee0)
+  - <sub>Tags: <code>0.17.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add libflatpak-dev to CI</code>](https://github.com/stsdc/monitor/commit/24b7352b30c1a9b657f3f210f0f318825fc716a3)
+  - <sub>Tags: <code>0.17.0-1</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
