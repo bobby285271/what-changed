@@ -517,6 +517,7 @@
 - [ ] [<code>Metainfo improvements (#1221)</code>](https://github.com/elementary/icons/commit/f2d2af929c7be052667749bec2b850de574a3e64)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create gettext.yml</code>](https://github.com/elementary/icons/commit/5869812f7d34a0b4e88d3b2552fa0b36a8fe4cb1)
+- [ ] [<code>Actions: remove non-fdo mail-move (#1219)</code>](https://github.com/elementary/icons/commit/895a6c74714a5f4a5ba2dfdff8d265000e2e438f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -599,6 +600,7 @@
 - [ ] [<code>ManualCard: Small Gtk4 prep (#676)</code>](https://github.com/elementary/greeter/commit/5240de18b1776eda68a9734ac789e63cc1d3e758)
 - [ ] [<code>UserCard: Small Gtk4 prep (#675)</code>](https://github.com/elementary/greeter/commit/bf5390b0fdf8d2d3b9ec7d84bc0f133c2918dfe0)
 - [ ] [<code>Use users' fonts (#677)</code>](https://github.com/elementary/greeter/commit/6b3b4c0930e6c79ab6b801a6d8dfad403ca3aae7)
+- [ ] [<code>UserCard: Handle click event using `Gtk.GestureMultiPress` (#680)</code>](https://github.com/elementary/greeter/commit/45b44296f0500918dcf37b350f3dcd2add5991c5)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -753,6 +755,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-session/commit/36c13b1e86bd40c8d4e2d18d0c5cc42b47f0cbd2)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#177)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/740f9603a2d6a2ff79aa2810b18facbf9ab487f7)
 - [ ] [<code>Only show suspend button if suspend is available (#182)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/1c79e2b501d0162f5fbb1e0162c161b169b31cad)
+- [ ] [<code>Set bold style for user name with CSS (#183)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/1da4520ea8c95acaec99e3a093db7ad8df622459)
+- [ ] [<code>Fix new users buttons visibility (#184)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/8888adc8038ede8b69712624d36cb88bca5359cb)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
