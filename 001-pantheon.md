@@ -95,6 +95,8 @@
 - [ ] [<code>Use dialog for external changes (#1309)</code>](https://github.com/elementary/code/commit/0c49cb792344b15160a67294da74574b904913b8)
 - [ ] [<code>Sync tab settings (#1347)</code>](https://github.com/elementary/code/commit/380240e0869c7bc21d356388a8dd07186cb60100)
 - [ ] [<code>Fix searchterm reverts (#1336)</code>](https://github.com/elementary/code/commit/b58e75399c841b7c2928c8406b5e2ff07f040e1c)
+- [ ] [<code>Ensure correct sidebar item is focused, or none, when tab removed (#1320)</code>](https://github.com/elementary/code/commit/26cdb9efbfe7ff88652b3c22aa4a0fdc299d3023)
+- [ ] [<code>Fix logic for clearing search entry (#1359)</code>](https://github.com/elementary/code/commit/acbb79eca6ebffbe03597f0cd6edb2221566573a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -248,6 +250,8 @@
 - [ ] [<code>Metainfo Improvements (#366)</code>](https://github.com/elementary/tasks/commit/76156ecfd175ab30cfc155389a0f908dc207b7cb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: 6.3.2 release notes (#367)</code>](https://github.com/elementary/tasks/commit/23d636b01db18f63b27ecd18476e43332d3412e6)
+- [ ] [<code>Release 6.3.2 (#368)</code>](https://github.com/elementary/tasks/commit/91b9bc1250a159457ae7431d9e0d2d5c04650064)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -601,6 +605,7 @@
 - [ ] [<code>UserCard: Small Gtk4 prep (#675)</code>](https://github.com/elementary/greeter/commit/bf5390b0fdf8d2d3b9ec7d84bc0f133c2918dfe0)
 - [ ] [<code>Use users' fonts (#677)</code>](https://github.com/elementary/greeter/commit/6b3b4c0930e6c79ab6b801a6d8dfad403ca3aae7)
 - [ ] [<code>UserCard: Handle click event using `Gtk.GestureMultiPress` (#680)</code>](https://github.com/elementary/greeter/commit/45b44296f0500918dcf37b350f3dcd2add5991c5)
+- [ ] [<code>Don't reset user settings when entering wrong credentials (#681)</code>](https://github.com/elementary/greeter/commit/8a667252d988034099cab37fee7d3ed8a2f8595d)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
