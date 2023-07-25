@@ -44,6 +44,10 @@
 - [ ] [<code>Flatpak Updates (#790)</code>](https://github.com/elementary/calendar/commit/f323992ebc1183723cae726e012d6f42e245cc8d)
 - [ ] [<code>Application: Force use of portals (#717)</code>](https://github.com/elementary/calendar/commit/13319d43df98c8879cbe6e2836cbdb24b111a760)
 - [ ] [<code>Style updates (#780)</code>](https://github.com/elementary/calendar/commit/50aefadcc21cfb8ebc9b2e72df41968410244123)
+- [ ] [<code>Release 7.0.0 (#791)</code>](https://github.com/elementary/calendar/commit/f318164703efe3bbaf0ba6974e7f749734e27e11)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/031ccfc6dd2a8bdb9623e61e24e9f8d980e1ef6e)
+  - <sub>Tags: <code>7.0.0</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -97,6 +101,7 @@
 - [ ] [<code>Fix searchterm reverts (#1336)</code>](https://github.com/elementary/code/commit/b58e75399c841b7c2928c8406b5e2ff07f040e1c)
 - [ ] [<code>Ensure correct sidebar item is focused, or none, when tab removed (#1320)</code>](https://github.com/elementary/code/commit/26cdb9efbfe7ff88652b3c22aa4a0fdc299d3023)
 - [ ] [<code>Fix logic for clearing search entry (#1359)</code>](https://github.com/elementary/code/commit/acbb79eca6ebffbe03597f0cd6edb2221566573a)
+- [ ] [<code>Fix spurious external change warnings (#1354)</code>](https://github.com/elementary/code/commit/077ed4b5685ad2d45aa2283b0c8d468152333627)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -251,6 +256,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: 6.3.2 release notes (#367)</code>](https://github.com/elementary/tasks/commit/23d636b01db18f63b27ecd18476e43332d3412e6)
 - [ ] [<code>Release 6.3.2 (#368)</code>](https://github.com/elementary/tasks/commit/91b9bc1250a159457ae7431d9e0d2d5c04650064)
+  - <sub>Tags: <code>6.3.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
@@ -381,6 +387,10 @@
 - [ ] [<code>Metainfo Improvements (#450)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/8ff62e372b70c962a8d18833a01cec80a2280233)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add release notes for 3.2.0 (#451)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7f72609146e8d6985a6b4cb56a4addca2f369967)
+- [ ] [<code>Update screenshots (#453)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1886bc67ade59084d67cca974d9ecb59a3b4e8c7)
+- [ ] [<code>Release 3.2.0 (#452)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0c54a4ccfc9046aa8064f302f0bfb275c3b119b9)
+  - <sub>Tags: <code>3.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -434,6 +444,10 @@
 - [ ] [<code>Multitasking remove top margin (#362)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/996204c4e2418b3adc99a2a8414b5cd8fcd5a4f0)
 - [ ] [<code>Rely to settings-daemon to copy wallpaper to greeter (#361)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ffc4615d17853f659595b97922fb0b0e776985a0)
 - [ ] [<code>Update pantheon-shell.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7b504dfe818f7c9d6c01dc2e97375b30593687ca)
+- [ ] [<code>Update screenshots (#366)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d3b33f7c670069918ccf8cc8589aed9732c01d74)
+- [ ] [<code>Release 6.5.0 (#363)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/02af815776180be0c3a90bd81a612805f002b4b6)
+  - <sub>Tags: <code>6.5.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -461,6 +475,7 @@
 
 - [ ] [<code>Add screenshot files cleanup option to Housekeeping (#141)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/da9553d25c714a04180373786f85ffa45514e11f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshots (#158)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d6dd1ba4e99a2a01255b1027351777e491d7d6e2)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -485,6 +500,10 @@
 - [ ] [<code>Metainfo Improvements (#249)</code>](https://github.com/elementary/switchboard-plug-sound/commit/a288a0fd156e38519d044653e1508ab1ec236bd1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>2.3.3 Release notes (#250)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2639f7f29abc1b7af8c5c735a37124a5b57bbbd)
+- [ ] [<code>Update screenshots (#252)</code>](https://github.com/elementary/switchboard-plug-sound/commit/cd8987014c73ed1406351c492075e8b204ea9b78)
+- [ ] [<code>Release 2.3.3 (#251)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ca46c17062ec33f02544e9e1df140879d1ba9260)
+  - <sub>Tags: <code>2.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
