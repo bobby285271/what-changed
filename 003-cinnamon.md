@@ -131,6 +131,8 @@
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
 
 - [ ] [<code>patch to build with exiv 0.28 (#178)</code>](https://github.com/linuxmint/pix/commit/46e19703a973d51fa97e6a22121560f5ba200eea)
+- [ ] [<code>Remove white frame from images.</code>](https://github.com/linuxmint/pix/commit/1964eedcde258423fa21fb5105a5742968ebdef5)
+- [ ] [<code>gth-browser-actions-entries.h: Remove left/right/up/down shortcuts.</code>](https://github.com/linuxmint/pix/commit/7a033863297a2ffa62a59f94bf7369e8070e6452)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
