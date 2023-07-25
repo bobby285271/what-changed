@@ -268,6 +268,8 @@
 - [ ] [<code>Install man page with meson (#731)</code>](https://github.com/elementary/terminal/commit/3a23da7afd5ed799a276527846b02f3fff69eabc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Add `SettingsPopover` Class (#699)</code>](https://github.com/elementary/terminal/commit/0f6c1cd8145ac3e45f1d36e0647c255a6004f629)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.1 → HEAD](https://github.com/elementary/videos/compare/2.9.1...HEAD)
 
@@ -843,6 +845,12 @@
 - [ ] [<code>Fix pot file</code>](https://github.com/elementary/settings-daemon/commit/ea70fe3ee79c9eec2eb125c77c8a3c0feb98c20b)
 - [ ] [<code>Update translation files</code>](https://github.com/elementary/settings-daemon/commit/d68bed27e3d95707c00f22c6c58e71a700f74d4e)
   - <sub>Tags: <code>1.3.0</code></sub>
+- [ ] [<code>Fix autostart file symlink (#77)</code>](https://github.com/elementary/settings-daemon/commit/15422ab6d6deec4c41fb1ab506de2db2f14a3eb7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix installing check-for-firmware-updates files in NixOS (#74)</code>](https://github.com/elementary/settings-daemon/commit/cb78b3998b51e37d6087a158ca788a11c2aedf34)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
