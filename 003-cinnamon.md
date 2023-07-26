@@ -24,8 +24,10 @@
 - [ ] [<code>cinnamon-menu-editor: Fix window type to enable window resizing.</code>](https://github.com/linuxmint/cinnamon/commit/3e9079a84725dba05fc9923b8e00075689ea147d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keybindings: Make Above_Tab displayable.</code>](https://github.com/linuxmint/cinnamon/commit/5198900520ab2b62ac46c11a0bbeaa924b50167b)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Looking glass: Fix log text colors.</code>](https://github.com/linuxmint/cinnamon/commit/36ba660a5f438ec85a6f4ccb6d90a24a1698317e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
