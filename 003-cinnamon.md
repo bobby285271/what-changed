@@ -20,8 +20,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/cinnamon/commit/70297d2e300442ac6978e13053422ddb55d49879)
 - [ ] [<code>Fix thumbnails not appearing for windows created while menu is open (#11759)</code>](https://github.com/linuxmint/cinnamon/commit/2faa38d93fb5e1cac95e42662153e3fe2266ffb2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-menu-editor: Fix window type to enable window resizing.</code>](https://github.com/linuxmint/cinnamon/commit/3e9079a84725dba05fc9923b8e00075689ea147d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybindings: Make Above_Tab displayable.</code>](https://github.com/linuxmint/cinnamon/commit/5198900520ab2b62ac46c11a0bbeaa924b50167b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -148,6 +152,7 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
 - [ ] [<code>Add github issue templates.</code>](https://github.com/linuxmint/xapp/commit/7945d7420f0c7daa28a506d03657aa9bb04c5836)
+- [ ] [<code>xapp-gtk3-module.c: Use the 'realize' signal to trigger injecting</code>](https://github.com/linuxmint/xapp/commit/8570496c3f909458c0b8035048ae7671b760577f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
