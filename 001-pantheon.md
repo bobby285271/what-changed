@@ -10,44 +10,8 @@
 - [ ] [<code>Fix crash when pasting into division or multiplication expression (#259)</code>](https://github.com/elementary/calculator/commit/fbc12436ac9f9be42fc08a463a1c15e2606950cc)
 - [ ] [<code>Metainfo: set brand color to Mint 500 (#257)</code>](https://github.com/elementary/calculator/commit/40a1261ab5381927aded89f9c0290ec51c50f479)
 
-#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [6.1.2 → HEAD](https://github.com/elementary/calendar/compare/6.1.2...HEAD)
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
-- [ ] [<code>Add support for Evolution Data Server 3.46 (#758)</code>](https://github.com/elementary/calendar/commit/9c6308b2a1f3a57b1c5fffbbc2550a08fefe2cca)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>actions: Fix trigger syntax (#772)</code>](https://github.com/elementary/calendar/commit/d2c4de47564317688fc6717808c319222233d2a2)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/calendar/commit/c5be4e36d7eaeb64f90fa45b7c9c9ac4b4c734e1)
-- [ ] [<code>Bump actions/checkout from 2 to 3 (#774)</code>](https://github.com/elementary/calendar/commit/6cef9903b73b323b1499a75cc304a4a4ce1ad9dc)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#773)</code>](https://github.com/elementary/calendar/commit/2fc3eee7e24df52943e11191abf1625e4d593735)
-- [ ] [<code>Update flatpak actions to new namespace (#775)</code>](https://github.com/elementary/calendar/commit/e429cb3c1c4e4ded9aec41949642f490be5d114c)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#777)</code>](https://github.com/elementary/calendar/commit/5b6ccde5e8c7d9850957bed9963b3a9554b726fc)
-- [ ] [<code>Fix meson warning for run_command (#762)</code>](https://github.com/elementary/calendar/commit/b0e81b8265e90de944a51d809953afcf2461fb93)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Require newer meson and fix deprecations (#783)</code>](https://github.com/elementary/calendar/commit/018087cbadc77f9e44afbcae72bb1ffcbecabe46)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/11e110046edb6233db16663dfc2a4b3ef7e78432)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Revert "Release 6.1.3 (#784)"</code>](https://github.com/elementary/calendar/commit/5e97075017203def4ea165f362cc7e126f5b4c17)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 6.1.3 (#784)</code>](https://github.com/elementary/calendar/commit/4df16e6776371bfbba220268587e175fbb65f47b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Allow to fallback to statically linked libchamplain (#787)</code>](https://github.com/elementary/calendar/commit/5918d3f31772880d7e62611664cbe4126a3c53a1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Create Autostart File Via Background Portal (#681)</code>](https://github.com/elementary/calendar/commit/a6951f80c07dc44a0c4a62db3378f24efe79c305)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo Improvements (#789)</code>](https://github.com/elementary/calendar/commit/f18a846377d089053daa418624dce27b9d57466e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: 7.0.0 release notes</code>](https://github.com/elementary/calendar/commit/1e4613f5e9b77c81d6e68387d2fc18e0e3a6aff0)
-- [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/d0c598b024de1b70aae54f4abd7b6b2552502f60)
-- [ ] [<code>Flatpak Updates (#790)</code>](https://github.com/elementary/calendar/commit/f323992ebc1183723cae726e012d6f42e245cc8d)
-- [ ] [<code>Application: Force use of portals (#717)</code>](https://github.com/elementary/calendar/commit/13319d43df98c8879cbe6e2836cbdb24b111a760)
-- [ ] [<code>Style updates (#780)</code>](https://github.com/elementary/calendar/commit/50aefadcc21cfb8ebc9b2e72df41968410244123)
-- [ ] [<code>Release 7.0.0 (#791)</code>](https://github.com/elementary/calendar/commit/f318164703efe3bbaf0ba6974e7f749734e27e11)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update calendar.metainfo.xml.in</code>](https://github.com/elementary/calendar/commit/031ccfc6dd2a8bdb9623e61e24e9f8d980e1ef6e)
-  - <sub>Tags: <code>7.0.0</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -236,34 +200,8 @@
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
 
-#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.1 → HEAD](https://github.com/elementary/tasks/compare/6.3.1...HEAD)
+#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
-- [ ] [<code>flatpak: Use 7.1 runtime (#345)</code>](https://github.com/elementary/tasks/commit/22e0d18693932e9eea3d2a22329f845575ce26e6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>actions/checkout@v3 (#346)</code>](https://github.com/elementary/tasks/commit/a7b7897f7138de59859250ed98edd1ab7a7ed3de)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/tasks/commit/38ec325be6dd2a5bbe2f0765f33d63c62edd72f0)
-- [ ] [<code>flatpak: Update the dependencies (#350)</code>](https://github.com/elementary/tasks/commit/d65cb9337c409f68caaa73408cead604c0fcf5a3)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#348)</code>](https://github.com/elementary/tasks/commit/e6d600044ffcd75e89c629ec89d1467d60f2eecd)
-- [ ] [<code>Update flatpak actions to new namespace (#351)</code>](https://github.com/elementary/tasks/commit/d31ce8cce28fcc243783f32c9268154f46e03533)
-- [ ] [<code>Switch to GHCR containers (#347)</code>](https://github.com/elementary/tasks/commit/5e07fb395f37df4cb0ebedf750c3f5694edc4855)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 4 to 5 (#352)</code>](https://github.com/elementary/tasks/commit/bbe44a1d07b0f02351b942b4914f6f1b66718a34)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#355)</code>](https://github.com/elementary/tasks/commit/52ee9b0ca96f99d99e710b362977b2c1634135a5)
-- [ ] [<code>Fix small color issue (#356)</code>](https://github.com/elementary/tasks/commit/1c4af59ff932013dad9c739b8b5ad9f287cc5fd8)
-- [ ] [<code>Preparations for Gtk4 (#360)</code>](https://github.com/elementary/tasks/commit/acf44ab843cdf576d94ce32d74ba78bb2a63c73d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use flatpak portal for autostart and background permission (#361)</code>](https://github.com/elementary/tasks/commit/4a7b9b33aaed8f4fd2a9155946367002ea75232c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/tasks/commit/e68337d6a9f334f9f98ec45d822b1c00ec86f503)
-- [ ] [<code>Application: use startup (#363)</code>](https://github.com/elementary/tasks/commit/c7b60ca38c5bb8426d6439996a0259608619fb1a)
-- [ ] [<code>Fixed Duplicated tasks in Scheduled (#365)</code>](https://github.com/elementary/tasks/commit/9bd88b572ce1ffdc10ae222c55d8d0e580392ca8)
-- [ ] [<code>Metainfo Improvements (#366)</code>](https://github.com/elementary/tasks/commit/76156ecfd175ab30cfc155389a0f908dc207b7cb)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: 6.3.2 release notes (#367)</code>](https://github.com/elementary/tasks/commit/23d636b01db18f63b27ecd18476e43332d3412e6)
-- [ ] [<code>Release 6.3.2 (#368)</code>](https://github.com/elementary/tasks/commit/91b9bc1250a159457ae7431d9e0d2d5c04650064)
-  - <sub>Tags: <code>6.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -380,25 +318,8 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
 
-#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.1.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...HEAD)
+#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...HEAD)
 
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1520cbccbb1de08f698780d3c87e6a8846d6a21a)
-- [ ] [<code>Switch to GHCR containers (#437)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/88399906c60c320f2e5cf706977c630012bf6d65)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/65d360dccbbb9f9df80843c38a203d7606fc7d0d)
-- [ ] [<code>Add link to custom shortcuts (#443)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/018a8c36b371a950a802739e202e12c9543d0595)
-- [ ] [<code>Behavior: modernize code style (#445)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/039ca08635ff54d6c896d082fc71c24b81160d02)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Behavior: Remove spinbuttons (#447)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb27b2e79cd2ff5c70073546377c421e7e3dfc7b)
-- [ ] [<code>Behavior: add a11y settings (#446)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/20f046bec13f7b47fa86136dfe6bdafcbf85313a)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Behavior: Remove trailing space in string (#449)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/cb556eb17c2e0fbd471977ebffb48c0a78a234c3)
-- [ ] [<code>Metainfo Improvements (#450)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/8ff62e372b70c962a8d18833a01cec80a2280233)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: Add release notes for 3.2.0 (#451)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/7f72609146e8d6985a6b4cb56a4addca2f369967)
-- [ ] [<code>Update screenshots (#453)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1886bc67ade59084d67cca974d9ecb59a3b4e8c7)
-- [ ] [<code>Release 3.2.0 (#452)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0c54a4ccfc9046aa8064f302f0bfb275c3b119b9)
-  - <sub>Tags: <code>3.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Layout: remove panel indicator settings (#454)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b16d99500584411b19e7f129dd3384023b777888)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
@@ -441,22 +362,8 @@
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.4.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
-- [ ] [<code>set-wallpaper: Fix delay value not shown as translated (#352)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c00e0250ddf8c495991049852ea4acea825bb2eb)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Mark "Dim with dark style:" string as translatable (#353)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ab1403dc37839904571b1943a83b56274270660b)
-- [ ] [<code>Update pantheon-shell.metainfo.xml.in (#355)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/f71ddabd0bb3376010bbc158b0fb5bdf626142b1)
-- [ ] [<code>Wallpaper: Confirm wallpaper removal when hidden (#359)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/57445d8c2e23512485578ce6837af24114006245)
-- [ ] [<code>Dock: add checks for panel indicators (#358)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/96ecf77f39874f9e0d8a0182e17ee1e81d197279)
-- [ ] [<code>Dock: redesign (#360)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a247a02a9e04ba9fdf78ec48b1807384a2386276)
-- [ ] [<code>Multitasking remove top margin (#362)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/996204c4e2418b3adc99a2a8414b5cd8fcd5a4f0)
-- [ ] [<code>Rely to settings-daemon to copy wallpaper to greeter (#361)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ffc4615d17853f659595b97922fb0b0e776985a0)
-- [ ] [<code>Update pantheon-shell.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7b504dfe818f7c9d6c01dc2e97375b30593687ca)
-- [ ] [<code>Update screenshots (#366)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d3b33f7c670069918ccf8cc8589aed9732c01d74)
-- [ ] [<code>Release 6.5.0 (#363)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/02af815776180be0c3a90bd81a612805f002b4b6)
-  - <sub>Tags: <code>6.5.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -492,27 +399,8 @@
 - [ ] [<code>Switch to GHCR containers (#62)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/87589a725e0faf3f3a47578a3bb99aa61ab3318a)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/c19a326e38dccbaa6b69a8ecc4fb46046a481582)
 
-#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.2 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...HEAD)
+#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#233)</code>](https://github.com/elementary/switchboard-plug-sound/commit/b84b7cc2b2547acd505eb0e9c2ba0820ef736e44)
-- [ ] [<code>Switch to GHCR containers (#237)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4fbbfb122c439049aa9b8bb01bffd3a582dfd520)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/3b1b48799bb8ee82cfe1a3d70e75eaf5e9da8dc9)
-- [ ] [<code>Plug: place contents in a Clamp (#240)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1ea6c1fe938b6866edef7b1fe63568b31eedefc8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Output: more vertical layout (#241)</code>](https://github.com/elementary/switchboard-plug-sound/commit/25497e958d721a78d92f76595206474e59b3f3e3)
-- [ ] [<code>InputPanel: better use vertical space (#242)</code>](https://github.com/elementary/switchboard-plug-sound/commit/db47de1f1dbbb23480a9450b416bf1139a0e374f)
-- [ ] [<code>OutputPanel: Remove extra margin (#243)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5c24ef7d6cdf6ec0762992dbb67609ed7c5049a)
-- [ ] [<code>Set volume scales sensitive based on device (#244)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d7903b0c5886e0710736782aeba5aafc5c3e1ec)
-- [ ] [<code>OutputPanel: include screen reader shortcut (#245)</code>](https://github.com/elementary/switchboard-plug-sound/commit/d4b711a12ec6531e60dfcfc2fe0e2d5a3f41e873)
-- [ ] [<code>Try to fix crash (#248)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ef22189616e5ae85e23f813fc2933b2dd6a31cea)
-- [ ] [<code>Metainfo Improvements (#249)</code>](https://github.com/elementary/switchboard-plug-sound/commit/a288a0fd156e38519d044653e1508ab1ec236bd1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>2.3.3 Release notes (#250)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2639f7f29abc1b7af8c5c735a37124a5b57bbbd)
-- [ ] [<code>Update screenshots (#252)</code>](https://github.com/elementary/switchboard-plug-sound/commit/cd8987014c73ed1406351c492075e8b204ea9b78)
-- [ ] [<code>Release 2.3.3 (#251)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ca46c17062ec33f02544e9e1df140879d1ba9260)
-  - <sub>Tags: <code>2.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -828,41 +716,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.2.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.0...HEAD)
 
-- [ ] [<code>Switch to GHCR containers (#58)</code>](https://github.com/elementary/settings-daemon/commit/25249122c4cd5c00da9f5d3584f27f1396f5f72b)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/settings-daemon/commit/9138dcc7efabfe5347d894c0133253145ab0b26a)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/63fecc12db4f084878061c9e246a2874ef416de3)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#59)</code>](https://github.com/elementary/settings-daemon/commit/d6614fb82121074321031509d2995a1175c41d86)
-- [ ] [<code>Portal: Support accent colors (#60)</code>](https://github.com/elementary/settings-daemon/commit/5fa356faa06c310e5ac1b4bbf00d3dfa92799f46)
-- [ ] [<code>Check for firmware updates (#45)</code>](https://github.com/elementary/settings-daemon/commit/5751eebe543a1d99283e4b9171013a6951a28c91)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Screenshots housekeeping (#56)</code>](https://github.com/elementary/settings-daemon/commit/b7799a17730d48322a8bad5f6d171b7f3c42ad5e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo Improvements (#62)</code>](https://github.com/elementary/settings-daemon/commit/bf0b57938d3c5dd6f65a8d1f6393515a7cb5261b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/a48d271019ca31dab24292256463c68bbab0941b)
-- [ ] [<code>Metainfo: Add release notes for 1.3.0 (#63)</code>](https://github.com/elementary/settings-daemon/commit/73396c36b870d150fcdc3b088688ebb1b2dcd35b)
-- [ ] [<code>Expose user's mouse settings (#66)</code>](https://github.com/elementary/settings-daemon/commit/100c4c4d595a6c4e0b19e0fb02d142ab986f5db1)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Expose xkb options (#67)</code>](https://github.com/elementary/settings-daemon/commit/b0477f21109a0858deff18a31efa4bdc6c17742f)
-- [ ] [<code>Load left handed mode from settings-daemon (#69)</code>](https://github.com/elementary/settings-daemon/commit/5a83fc3365047100b0463e5de0eb5d2e3e3726ae)
-- [ ] [<code>Expose interface settings (#71)</code>](https://github.com/elementary/settings-daemon/commit/f9892f8a019f877faa3f2119575e2c94d79dbc30)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Expose night light settings (#68)</code>](https://github.com/elementary/settings-daemon/commit/aa9c2e09526581568a3ac889cbd11d684461c5c7)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>InterfaceSettings: Expose fonts (#73)</code>](https://github.com/elementary/settings-daemon/commit/9c82f21ccd80b270518ecfba07e128bb5ed9525f)
-- [ ] [<code>Sync wallpaper to greeter (#72)</code>](https://github.com/elementary/settings-daemon/commit/1f75e53f0928fb3d3afdfc5c2f11a2f2076639e8)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Update settings-daemon.metainfo.xml.in</code>](https://github.com/elementary/settings-daemon/commit/37aa9daeac664f0bc613fc2b9f5a43e1d832d4f4)
-- [ ] [<code>Release 1.3.0 (#65)</code>](https://github.com/elementary/settings-daemon/commit/1d21cb6f8d037a9dfbe20622480d70e83f55e2dd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>metainfo: Fix typo</code>](https://github.com/elementary/settings-daemon/commit/f7f4316f07d7551aaa079250bbacd2ab986838ce)
-- [ ] [<code>Fix pot file</code>](https://github.com/elementary/settings-daemon/commit/ea70fe3ee79c9eec2eb125c77c8a3c0feb98c20b)
-- [ ] [<code>Update translation files</code>](https://github.com/elementary/settings-daemon/commit/d68bed27e3d95707c00f22c6c58e71a700f74d4e)
-  - <sub>Tags: <code>1.3.0</code></sub>
 - [ ] [<code>Fix autostart file symlink (#77)</code>](https://github.com/elementary/settings-daemon/commit/15422ab6d6deec4c41fb1ab506de2db2f14a3eb7)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
