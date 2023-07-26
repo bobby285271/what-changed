@@ -208,6 +208,12 @@
 - [ ] [<code>Show an InfoBar if attachments include an ICS file (#915)</code>](https://github.com/elementary/mail/commit/9cbece964fd892a19ade49635feb83604ece0580)
 - [ ] [<code>Fix grouped archive folder (#929)</code>](https://github.com/elementary/mail/commit/cb636e4026838d9c73a669629b5baaa29b81704a)
 - [ ] [<code>Gresource: add mail-archive (#933)</code>](https://github.com/elementary/mail/commit/a770335bac467251f3f72cfec8864b001c11a939)
+- [ ] [<code>Add support for signatures (#900)</code>](https://github.com/elementary/mail/commit/0e83a4dbfc40cbaeaaee7846f8d769d117df4389)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update metainfo (#935)</code>](https://github.com/elementary/mail/commit/e8fe8aede75c1a0625494ee9b97e7dd5e67a9fba)
+- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/667b173f3f1eeeaafd081822c9430fe8aa9ce252)
+- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/7a9d0ade51d0e18994bef1ebb9a6fa6fd90b2956)
+- [ ] [<code>Swipe to archive and trash (#930)</code>](https://github.com/elementary/mail/commit/28a1a48b9fee754a3e6443965281b63a5d31c7ae)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -393,6 +399,7 @@
 - [ ] [<code>Release 3.2.0 (#452)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0c54a4ccfc9046aa8064f302f0bfb275c3b119b9)
   - <sub>Tags: <code>3.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Layout: remove panel indicator settings (#454)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b16d99500584411b19e7f129dd3384023b777888)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -543,6 +550,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Create gettext.yml</code>](https://github.com/elementary/icons/commit/5869812f7d34a0b4e88d3b2552fa0b36a8fe4cb1)
 - [ ] [<code>Actions: remove non-fdo mail-move (#1219)</code>](https://github.com/elementary/icons/commit/895a6c74714a5f4a5ba2dfdff8d265000e2e438f)
+- [ ] [<code>Remove non-fdo mail-archive (#1223)</code>](https://github.com/elementary/icons/commit/026ab2583959c5f20ac2125bbca7f3dad2f4ac49)
+- [ ] [<code>Update icons.metainfo.xml.in</code>](https://github.com/elementary/icons/commit/4787a64f3d4f33c98bffa0d7ac4248f724cdd286)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -627,6 +636,12 @@
 - [ ] [<code>Use users' fonts (#677)</code>](https://github.com/elementary/greeter/commit/6b3b4c0930e6c79ab6b801a6d8dfad403ca3aae7)
 - [ ] [<code>UserCard: Handle click event using `Gtk.GestureMultiPress` (#680)</code>](https://github.com/elementary/greeter/commit/45b44296f0500918dcf37b350f3dcd2add5991c5)
 - [ ] [<code>Don't reset user settings when entering wrong credentials (#681)</code>](https://github.com/elementary/greeter/commit/8a667252d988034099cab37fee7d3ed8a2f8595d)
+- [ ] [<code>Respect solid color wallpaper (#672)</code>](https://github.com/elementary/greeter/commit/ccc30eaedf81944d743491c7601d9f6b11ed8995)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Release 7.0.0 (#665)</code>](https://github.com/elementary/greeter/commit/bed49e46baaebf9bcc405e3e5577b99b925f56a1)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -727,6 +742,9 @@
 - [ ] [<code>Metainfo improvements (#57)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d8610bbb9bd5d27eedeb40f9358f7fd5a67fa181)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 1.0.2 release notes (#58)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d465b19a655cf2d348863ff8a0475b2dc7270ef3)
+- [ ] [<code>Release 1.0.2 (#59)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/ccf803ed1d91b1daaa23457d33eef6fa571863bb)
+  - <sub>Tags: <code>1.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.1...HEAD)
 
@@ -851,6 +869,9 @@
 - [ ] [<code>Fix installing check-for-firmware-updates files in NixOS (#74)</code>](https://github.com/elementary/settings-daemon/commit/cb78b3998b51e37d6087a158ca788a11c2aedf34)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Release 1.3.1 (#78)</code>](https://github.com/elementary/settings-daemon/commit/0e448646c37d537247a9e30a427aed2d20fa7b26)
+  - <sub>Tags: <code>1.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
