@@ -178,6 +178,7 @@
 - [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/667b173f3f1eeeaafd081822c9430fe8aa9ce252)
 - [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/7a9d0ade51d0e18994bef1ebb9a6fa6fd90b2956)
 - [ ] [<code>Swipe to archive and trash (#930)</code>](https://github.com/elementary/mail/commit/28a1a48b9fee754a3e6443965281b63a5d31c7ae)
+- [ ] [<code>Update screenshots (#938)</code>](https://github.com/elementary/mail/commit/efcb019a7de2fad44711a7b48dfad2e75f0c1e8b)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -321,6 +322,8 @@
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...HEAD)
 
 - [ ] [<code>Layout: remove panel indicator settings (#454)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b16d99500584411b19e7f129dd3384023b777888)
+- [ ] [<code>Behavior: move onboard to the behavior tab (#455)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/de73174ba5394abf68fdcae69d8f7038582e352f)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
