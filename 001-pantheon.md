@@ -468,71 +468,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [6.1.1 → HEAD](https://github.com/elementary/greeter/compare/6.1.1...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#631)</code>](https://github.com/elementary/greeter/commit/6fc56a995e1e5114a26961e3414eb78cf03df767)
-- [ ] [<code>ci: Switch to mutter-10</code>](https://github.com/elementary/greeter/commit/ddd8ea71da73b10172b7ddbf3869ff130edfb15f)
-- [ ] [<code>WindowManager: Cleanup</code>](https://github.com/elementary/greeter/commit/0dd13e61bc4c3eafec5bfaaefc62c13987751e2d)
-- [ ] [<code>Utils: Remove unused functions</code>](https://github.com/elementary/greeter/commit/f7618553bcb6e7503913d3bba237497f36ff9c8d)
-- [ ] [<code>Remove unused variables</code>](https://github.com/elementary/greeter/commit/f3fed5340a674d0614c28e3c8404b865e3bbcbb2)
-- [ ] [<code>AccessDialog: Copy changes from Gala</code>](https://github.com/elementary/greeter/commit/c05d6dad459280a751c41968b0743047794a3190)
-- [ ] [<code>WindowManager: confirm_display_change() Fixes</code>](https://github.com/elementary/greeter/commit/c25ec8284f2e95e1654bdc97d8a77fd3d1f57222)
-- [ ] [<code>vapi: Convert `elif` blocks to `if` blocks</code>](https://github.com/elementary/greeter/commit/a2cba5aa4207ee10b4b887c5d49ae82bf031bf5c)
-- [ ] [<code>build: Require mutter 3.38</code>](https://github.com/elementary/greeter/commit/167a7bb219eba048b540f79209943f2447279a58)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 40</code>](https://github.com/elementary/greeter/commit/5dd8b37abd27c4cb31b57670265230f38978bbfc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 41</code>](https://github.com/elementary/greeter/commit/a23605db4ec71611a175e00ff0c88cd8943fb6c8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 42</code>](https://github.com/elementary/greeter/commit/b00bb4dc4918a1735e855d6b85344e2069c3c8ef)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Switch to GHCR containers (#642)</code>](https://github.com/elementary/greeter/commit/e28a0c8a86b1468166dd1bad0cb02250f82ee886)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/greeter/commit/845ee4afc248a76a0c31437b7421834249fbc420)
-- [ ] [<code>Copy KeyboardManager from Gala</code>](https://github.com/elementary/greeter/commit/fafc2f79c6505b47690d024220d7fe3c92883df2)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>KeyboardManager: Set keyboard layout on startup</code>](https://github.com/elementary/greeter/commit/21f411183c026082e28a04a0dad45f9345563aab)
-- [ ] [<code>Add support for Mutter 44 (#643)</code>](https://github.com/elementary/greeter/commit/11c62b752262609786c8b57a7735589f07981574)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix meson warnings (#649)</code>](https://github.com/elementary/greeter/commit/4fdd7c8f42ffe04da4955251ba5a8e0082c9edcd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Install lightdm config (#651)</code>](https://github.com/elementary/greeter/commit/1b3879d9a2232876c327a62b8869ddf46028fa8f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: Use any available mutter version (#657)</code>](https://github.com/elementary/greeter/commit/9eaa167c9b9c8027b9eec9ab4c8dd71148b24ee7)
-- [ ] [<code>Compositor: Mask corners (#661)</code>](https://github.com/elementary/greeter/commit/e8d9c750be08c442514fb57fd6a0a5484d829249)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo Improvements (#663)</code>](https://github.com/elementary/greeter/commit/71e477ecf1cb6b7c68057543c88cc6226c4fabf8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo 7.0.0 (#664)</code>](https://github.com/elementary/greeter/commit/fbc7f5ac8fb5e4c83921d3ad9373dd0723e21f45)
-- [ ] [<code>Use user's mouse and touchpad settings (#655)</code>](https://github.com/elementary/greeter/commit/e8c00adaefc0643d7a54e41935d074620f5f4ab7)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Use user's xkb options (#658)</code>](https://github.com/elementary/greeter/commit/6288e7c99ad11d6f20fce676dbcf426c914e4386)
-- [ ] [<code>Update metainfo</code>](https://github.com/elementary/greeter/commit/b23937b2483f78f4ee8bed3dce006f9c0b5fec5d)
-- [ ] [<code>Improve handling of users' accent color (#667)</code>](https://github.com/elementary/greeter/commit/bd25dd47629d6d19b347c6587cf1fbd41c65ad00)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Fix screenreader shortcut (#668)</code>](https://github.com/elementary/greeter/commit/ec0eb376891c59ced4e486fe94e8f28f4e7b93bc)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Save screenreader state between sessions (#669)</code>](https://github.com/elementary/greeter/commit/d3373ec86e2ae7626f0ca227797848415c3746d4)
-- [ ] [<code>Use user's interface settings (#670)</code>](https://github.com/elementary/greeter/commit/8db0d1663563142a139744bb9f55dcc3fb934978)
-- [ ] [<code>Use user's night light settings (#662)</code>](https://github.com/elementary/greeter/commit/572511d707dd17bb9fcc23e027b580104f18d78f)
-- [ ] [<code>Compositor: Implement PointerLocator (#674)</code>](https://github.com/elementary/greeter/commit/f646cc57f184b425f220e138b003b268a651f487)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>ManualCard: Small Gtk4 prep (#676)</code>](https://github.com/elementary/greeter/commit/5240de18b1776eda68a9734ac789e63cc1d3e758)
-- [ ] [<code>UserCard: Small Gtk4 prep (#675)</code>](https://github.com/elementary/greeter/commit/bf5390b0fdf8d2d3b9ec7d84bc0f133c2918dfe0)
-- [ ] [<code>Use users' fonts (#677)</code>](https://github.com/elementary/greeter/commit/6b3b4c0930e6c79ab6b801a6d8dfad403ca3aae7)
-- [ ] [<code>UserCard: Handle click event using `Gtk.GestureMultiPress` (#680)</code>](https://github.com/elementary/greeter/commit/45b44296f0500918dcf37b350f3dcd2add5991c5)
-- [ ] [<code>Don't reset user settings when entering wrong credentials (#681)</code>](https://github.com/elementary/greeter/commit/8a667252d988034099cab37fee7d3ed8a2f8595d)
-- [ ] [<code>Respect solid color wallpaper (#672)</code>](https://github.com/elementary/greeter/commit/ccc30eaedf81944d743491c7601d9f6b11ed8995)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Release 7.0.0 (#665)</code>](https://github.com/elementary/greeter/commit/bed49e46baaebf9bcc405e3e5577b99b925f56a1)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
 
@@ -621,21 +558,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/applications-menu/commit/66710eaa27d1b3c91c3a028aa453f94d8912ba1e)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#563)</code>](https://github.com/elementary/applications-menu/commit/91b4c423d3a264eb468effb5fa0eb5e73ffc3d1b)
 
-#### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...HEAD)
+#### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
-- [ ] [<code>Appdata: Add icon (#52)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/7d20cd820f55d74f3c97d6703be2e50c657375e0)
-- [ ] [<code>Set correct text size on startup (#53)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/6322aa1e459618f03a2bec3b7626882db903f5ea)
-- [ ] [<code>actions/checkout@v3 (#54)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/91c17a749eddb379653387464c9812fabd218fb6)
-- [ ] [<code>Switch to GHCR containers (#55)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/e5cca9a66639828e9af63b6b94349df06bf6aa9c)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/735ff018954d6a89eabc91fd4fff059db3cb1d75)
-- [ ] [<code>GreeterWidget: Sync with greeter session (#56)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/1a4c7da4c9d44a9d3d5af9c12c1011146a7a805d)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Metainfo improvements (#57)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d8610bbb9bd5d27eedeb40f9358f7fd5a67fa181)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 1.0.2 release notes (#58)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/d465b19a655cf2d348863ff8a0475b2dc7270ef3)
-- [ ] [<code>Release 1.0.2 (#59)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/ccf803ed1d91b1daaa23457d33eef6fa571863bb)
-  - <sub>Tags: <code>1.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.1...HEAD)
 
@@ -719,17 +643,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
-- [ ] [<code>Fix autostart file symlink (#77)</code>](https://github.com/elementary/settings-daemon/commit/15422ab6d6deec4c41fb1ab506de2db2f14a3eb7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix installing check-for-firmware-updates files in NixOS (#74)</code>](https://github.com/elementary/settings-daemon/commit/cb78b3998b51e37d6087a158ca788a11c2aedf34)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>Release 1.3.1 (#78)</code>](https://github.com/elementary/settings-daemon/commit/0e448646c37d537247a9e30a427aed2d20fa7b26)
-  - <sub>Tags: <code>1.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
