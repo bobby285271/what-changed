@@ -120,7 +120,10 @@
 - [ ] [<code>Fix some style/icon problems.</code>](https://github.com/linuxmint/nemo/commit/5ea25e735d1edd74660a70543d9511750c0b90ab)
 - [ ] [<code>search: Relax folder restrictions to allow gvfs locations.</code>](https://github.com/linuxmint/nemo/commit/1ae5a6d4e24e7ce82eac8a875a0b502aaf2d54a6)
 - [ ] [<code>compact view: Improve text and selection highlight alignment.</code>](https://github.com/linuxmint/nemo/commit/90cf6c6b76e30cde0f2c3b58592c7b6b4ccb021b)
+- [ ] [<code>eel-gtk-extensions.c: (Wayland) Fix menu popup positioning, popup (#3281)</code>](https://github.com/linuxmint/nemo/commit/5b3f274ec504d48275e70ce2e818a2ca64a9fc56)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
