@@ -4,6 +4,8 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.3.0 → HEAD](https://github.com/elementary/appcenter/compare/7.3.0...HEAD)
 
 - [ ] [<code>AppInfoView: use child property instead of add (#2057)</code>](https://github.com/elementary/appcenter/commit/9baae1c42130e263b983f0f1b78741210871f471)
+- [ ] [<code>Fix deck navigation when changing package origin (#2064)</code>](https://github.com/elementary/appcenter/commit/21a560432c844d202509f6873ab3be602bfce7a4)
+- [ ] [<code>Fix deletion of search term when replacing text with text (#2063)</code>](https://github.com/elementary/appcenter/commit/f3ca06465e30ba189d91b3850a57ca2e645660b3)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -395,6 +397,8 @@
 - [ ] [<code>Add screenshot files cleanup option to Housekeeping (#141)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/da9553d25c714a04180373786f85ffa45514e11f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update screenshots (#158)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d6dd1ba4e99a2a01255b1027351777e491d7d6e2)
+- [ ] [<code>Metainfo: add 7.1.0 (#159)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/696b2b6a0710a6d686b153de4dffe4cb8a5feb5c)
+- [ ] [<code>LocationPanel: Check that apps are installed before listing (#160)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/91d3d9a38b7024a35e58483b90f19b52529bb7a8)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
