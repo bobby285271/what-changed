@@ -399,6 +399,11 @@
 - [ ] [<code>Update screenshots (#158)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d6dd1ba4e99a2a01255b1027351777e491d7d6e2)
 - [ ] [<code>Metainfo: add 7.1.0 (#159)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/696b2b6a0710a6d686b153de4dffe4cb8a5feb5c)
 - [ ] [<code>LocationPanel: Check that apps are installed before listing (#160)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/91d3d9a38b7024a35e58483b90f19b52529bb7a8)
+- [ ] [<code>Meson: Fix deprecations and require newer version (#162)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/1ebc1e3563170d7599d497f9de65b9599d8f37a0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Release 7.1.0 (#161)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/806b052ce4da9ab468ee6ea464c66290403bc814)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -714,6 +719,8 @@
 - [ ] [<code>Fix README badge</code>](https://github.com/elementary/os/commit/6608b7003d0b22e4fac0dd50fb78996bb173f730)
 - [ ] [<code>Update Debian Salsa patch</code>](https://github.com/elementary/os/commit/3b0d6d77bf8fea5f39dc672fe43de246e8fa30f6)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove old distinst variant</code>](https://github.com/elementary/os/commit/246d6a5e8f93d11185f75439a6ecbbfdc123d0b4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
