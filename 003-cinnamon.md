@@ -153,7 +153,8 @@
 - [ ] [<code>Add issue templates.</code>](https://github.com/linuxmint/warpinator/commit/8bed9f85c5f2df10962ec5ab6d7ca547bf2a38f3)
 - [ ] [<code>Fix readme link in bug_report.yaml</code>](https://github.com/linuxmint/warpinator/commit/020af83badfbb60512fad440a6a455eb1ffafcab)
 - [ ] [<code>Allow /run/media/* for a save location, as some systems mount</code>](https://github.com/linuxmint/warpinator/commit/1c502dcd0e590953f79d55b4a6ede424bb5a73cc)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Update README, fix a typo, add a link to another Window's version</code>](https://github.com/linuxmint/warpinator/commit/fb3a6272084bdda4ca4a193a4d44991a1cf13a70)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
