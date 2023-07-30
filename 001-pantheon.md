@@ -68,6 +68,9 @@
 - [ ] [<code>Ensure correct sidebar item is focused, or none, when tab removed (#1320)</code>](https://github.com/elementary/code/commit/26cdb9efbfe7ff88652b3c22aa4a0fdc299d3023)
 - [ ] [<code>Fix logic for clearing search entry (#1359)</code>](https://github.com/elementary/code/commit/acbb79eca6ebffbe03597f0cd6edb2221566573a)
 - [ ] [<code>Fix spurious external change warnings (#1354)</code>](https://github.com/elementary/code/commit/077ed4b5685ad2d45aa2283b0c8d468152333627)
+- [ ] [<code>Meson: modernize (#1360)</code>](https://github.com/elementary/code/commit/6c7626d55e3f62a339b2b51ca440019022f3c76c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -721,6 +724,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove old distinst variant</code>](https://github.com/elementary/os/commit/246d6a5e8f93d11185f75439a6ecbbfdc123d0b4)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add open-vm-tools to pool (#681)</code>](https://github.com/elementary/os/commit/47f3f65e3a838d742979376fe88585627432c0e4)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
