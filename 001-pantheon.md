@@ -122,6 +122,7 @@
 - [ ] [<code>Use generic helpers for obtaining file attributes (#2257)</code>](https://github.com/elementary/files/commit/7bd542fa0a646b5cb0972f5575c56a9ee4d9dce7)
 - [ ] [<code>Window: DynamicNotebook → Hdy.TabBar (#2256)</code>](https://github.com/elementary/files/commit/e5fc01c6733faaceef2086d198e52acae7b21094)
 - [ ] [<code>Fix restoring focused tab position (#2266)</code>](https://github.com/elementary/files/commit/44138ea81be369217333cdc4efc8813111a6dea5)
+- [ ] [<code>Always restore tabs when settings allow, save tabs from last window closed. (#2272)</code>](https://github.com/elementary/files/commit/0207650b6833082c417d6b3d26d056232f96d722)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
