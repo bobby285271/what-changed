@@ -26,8 +26,9 @@
 - [ ] [<code>keybindings: Make Above_Tab displayable.</code>](https://github.com/linuxmint/cinnamon/commit/5198900520ab2b62ac46c11a0bbeaa924b50167b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Looking glass: Fix log text colors.</code>](https://github.com/linuxmint/cinnamon/commit/36ba660a5f438ec85a6f4ccb6d90a24a1698317e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gesturesManager.js: Ignore gestures when the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/58655f22f396a670f0f3a35daff28bbaa1cb50fd)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
