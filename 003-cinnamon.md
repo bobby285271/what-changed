@@ -28,7 +28,9 @@
 - [ ] [<code>Looking glass: Fix log text colors.</code>](https://github.com/linuxmint/cinnamon/commit/36ba660a5f438ec85a6f4ccb6d90a24a1698317e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>gesturesManager.js: Ignore gestures when the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/58655f22f396a670f0f3a35daff28bbaa1cb50fd)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Updated write-applet.xml for Cinnamon 4.6 to 5.8+ (#11801)</code>](https://github.com/linuxmint/cinnamon/commit/5ebb1156930c3e5706f6f94797055b9e0ef968e2)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -46,7 +48,7 @@
 - [ ] [<code>Don't use libaccountsservice, which can block startup.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d5ad3735721a5e90dfea1f635a72c4f6e4a2c116)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d6b21662254713be9d7b89a3375329b673050873)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
@@ -102,13 +104,15 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Ferdium, Helix and VS Codium icons (#353)</code>](https://github.com/linuxmint/mint-y-icons/commit/3481da2215c557490ba4d5b4820d981c0039b7af)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add symlinks for GNOME apps (#354)</code>](https://github.com/linuxmint/mint-y-icons/commit/f8c8c63cec530916b480a01bf6f02b5b6c09bcdc)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
 - [ ] [<code>Remove deprecated/removed zenity arguments.</code>](https://github.com/linuxmint/muffin/commit/ff244dde0780bf186c7be3f4c52ac48e3d1ad7cc)
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/muffin/commit/bece4326e51f5bad40b5c9bcd1b6ed4460088ab1)
 - [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/muffin/commit/84176989dd43aa107e76b3e20da65b1b7b447173)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
 
@@ -122,9 +126,10 @@
 - [ ] [<code>search: Relax folder restrictions to allow gvfs locations.</code>](https://github.com/linuxmint/nemo/commit/1ae5a6d4e24e7ce82eac8a875a0b502aaf2d54a6)
 - [ ] [<code>compact view: Improve text and selection highlight alignment.</code>](https://github.com/linuxmint/nemo/commit/90cf6c6b76e30cde0f2c3b58592c7b6b4ccb021b)
 - [ ] [<code>eel-gtk-extensions.c: (Wayland) Fix menu popup positioning, popup (#3281)</code>](https://github.com/linuxmint/nemo/commit/5b3f274ec504d48275e70ce2e818a2ca64a9fc56)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-file.c: Update hard-coded value for size of thumbnails. (#3278)</code>](https://github.com/linuxmint/nemo/commit/ae66c5e1adc4e3d31cc99e8e7654ab831e084717)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
@@ -186,6 +191,9 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.5 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.5...HEAD)
 
+- [ ] [<code>debian/control: add libmpv2 (#287)</code>](https://github.com/linuxmint/hypnotix/commit/463ed3a6a7b5a81aa46dcab790d772076329282e)
+- [ ] [<code>debian/control: recommend yt-dlp (#288)</code>](https://github.com/linuxmint/hypnotix/commit/61ff084d7503eafb06070e90f03fa10eaf3b3587)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -200,6 +208,9 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.07.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.07.1...HEAD)
 
+- [ ] [<code>docs/man/meson.build: Use -N for help2man to avoid texinfo section (#217)</code>](https://github.com/linuxmint/timeshift/commit/02697234b51e342abeef3ba61d76b1973f357efa)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.3 → HEAD](https://github.com/linuxmint/xed/compare/3.4.3...HEAD)
 
