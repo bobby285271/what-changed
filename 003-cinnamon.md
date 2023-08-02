@@ -166,6 +166,7 @@
 
 - [ ] [<code>Add github issue templates.</code>](https://github.com/linuxmint/xapp/commit/7945d7420f0c7daa28a506d03657aa9bb04c5836)
 - [ ] [<code>xapp-gtk3-module.c: Use the 'realize' signal to trigger injecting</code>](https://github.com/linuxmint/xapp/commit/8570496c3f909458c0b8035048ae7671b760577f)
+- [ ] [<code>xapp-sn-watcher.c: Mute some warning messages from more of</code>](https://github.com/linuxmint/xapp/commit/0ab6db8e5b74d7b40a31be3eaed3a2a6740bcc1c)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
