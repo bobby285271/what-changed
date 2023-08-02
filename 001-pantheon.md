@@ -71,6 +71,10 @@
 - [ ] [<code>Meson: modernize (#1360)</code>](https://github.com/elementary/code/commit/6c7626d55e3f62a339b2b51ca440019022f3c76c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Release 7.1.0 (#1304)</code>](https://github.com/elementary/code/commit/488bfd2ef99056752669aa9002bdd1c273ccb319)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translation files</code>](https://github.com/elementary/code/commit/cdb62ff333fc8316ba960670e109a47a467b3b79)
+  - <sub>Tags: <code>7.1.0</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -123,6 +127,7 @@
 - [ ] [<code>Window: DynamicNotebook → Hdy.TabBar (#2256)</code>](https://github.com/elementary/files/commit/e5fc01c6733faaceef2086d198e52acae7b21094)
 - [ ] [<code>Fix restoring focused tab position (#2266)</code>](https://github.com/elementary/files/commit/44138ea81be369217333cdc4efc8813111a6dea5)
 - [ ] [<code>Always restore tabs when settings allow, save tabs from last window closed. (#2272)</code>](https://github.com/elementary/files/commit/0207650b6833082c417d6b3d26d056232f96d722)
+- [ ] [<code>Metainfo: start 6.5.0 release notes (#2275)</code>](https://github.com/elementary/files/commit/7f8c81163aaf2eb15b9f668aab8869d7cec9ec7b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -185,6 +190,11 @@
 - [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/7a9d0ade51d0e18994bef1ebb9a6fa6fd90b2956)
 - [ ] [<code>Swipe to archive and trash (#930)</code>](https://github.com/elementary/mail/commit/28a1a48b9fee754a3e6443965281b63a5d31c7ae)
 - [ ] [<code>Update screenshots (#938)</code>](https://github.com/elementary/mail/commit/efcb019a7de2fad44711a7b48dfad2e75f0c1e8b)
+- [ ] [<code>Improve performance when switching between folders (#928)</code>](https://github.com/elementary/mail/commit/50141f858dde94dfd25444b2fbf7b4c26ad9b7b8)
+- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/ada165d42fbf10048fbff4bd3f1f2fb322704c02)
+- [ ] [<code>Release 7.2.0 (#922)</code>](https://github.com/elementary/mail/commit/22131401091c724c58b9310e6f005872f945ba0d)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -408,6 +418,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>Release 7.1.0 (#161)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/806b052ce4da9ab468ee6ea464c66290403bc814)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translated using Weblate (Polish)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/0798f720e52a49236f3c578dcea88ba3401934f5)
+  - <sub>Tags: <code>7.1.0</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -456,6 +468,7 @@
 - [ ] [<code>Actions: remove non-fdo mail-move (#1219)</code>](https://github.com/elementary/icons/commit/895a6c74714a5f4a5ba2dfdff8d265000e2e438f)
 - [ ] [<code>Remove non-fdo mail-archive (#1223)</code>](https://github.com/elementary/icons/commit/026ab2583959c5f20ac2125bbca7f3dad2f4ac49)
 - [ ] [<code>Update icons.metainfo.xml.in</code>](https://github.com/elementary/icons/commit/4787a64f3d4f33c98bffa0d7ac4248f724cdd286)
+- [ ] [<code>Update applications-multimedia (#1226)</code>](https://github.com/elementary/icons/commit/fadba24455812cbfb91bab6d9dfa6d3fbd789472)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -658,6 +671,12 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
+- [ ] [<code>port SettingsDaemon.Application to Gtk.Application (#81)</code>](https://github.com/elementary/settings-daemon/commit/6b44f9fb7c0ca9a2bb79a6ce4f3bc061d6402d71)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Housekeep: use dgettext() to get screenshot directory name</code>](https://github.com/elementary/settings-daemon/commit/5da94e20db11f0b1dc67b0e34ec0cc43f0f39f95)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: use right gettext domain</code>](https://github.com/elementary/settings-daemon/commit/c314d3c5e3f9a327435ea3c836b1320fe54b2930)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
