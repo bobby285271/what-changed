@@ -29,8 +29,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>gesturesManager.js: Ignore gestures when the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/58655f22f396a670f0f3a35daff28bbaa1cb50fd)
 - [ ] [<code>Updated write-applet.xml for Cinnamon 4.6 to 5.8+ (#11801)</code>](https://github.com/linuxmint/cinnamon/commit/5ebb1156930c3e5706f6f94797055b9e0ef968e2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update issue template with a link to open and closed issues for</code>](https://github.com/linuxmint/cinnamon/commit/c0e6a43e56f4d084c27cc3cbeea70563aa4a8d80)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -112,6 +113,7 @@
 - [ ] [<code>Remove deprecated/removed zenity arguments.</code>](https://github.com/linuxmint/muffin/commit/ff244dde0780bf186c7be3f4c52ac48e3d1ad7cc)
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/muffin/commit/bece4326e51f5bad40b5c9bcd1b6ed4460088ab1)
 - [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/muffin/commit/84176989dd43aa107e76b3e20da65b1b7b447173)
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/muffin/commit/cfd899614e19eee805ebb84561d6bdb5d6274432)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
@@ -129,6 +131,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>nemo-file.c: Update hard-coded value for size of thumbnails. (#3278)</code>](https://github.com/linuxmint/nemo/commit/ae66c5e1adc4e3d31cc99e8e7654ab831e084717)
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/nemo/commit/04a5a20761448a657dc6bd70831a77c2acfaf6fd)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
@@ -149,7 +152,8 @@
 - [ ] [<code>patch to build with exiv 0.28 (#178)</code>](https://github.com/linuxmint/pix/commit/46e19703a973d51fa97e6a22121560f5ba200eea)
 - [ ] [<code>Remove white frame from images.</code>](https://github.com/linuxmint/pix/commit/1964eedcde258423fa21fb5105a5742968ebdef5)
 - [ ] [<code>gth-browser-actions-entries.h: Remove left/right/up/down shortcuts.</code>](https://github.com/linuxmint/pix/commit/7a033863297a2ffa62a59f94bf7369e8070e6452)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Update bug template, add (obsolete) feature request template.</code>](https://github.com/linuxmint/pix/commit/d6edbd4c5e87371859b73ff89c1f49a6bb5ff126)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
 
@@ -160,6 +164,7 @@
 - [ ] [<code>Fix readme link in bug_report.yaml</code>](https://github.com/linuxmint/warpinator/commit/020af83badfbb60512fad440a6a455eb1ffafcab)
 - [ ] [<code>Allow /run/media/* for a save location, as some systems mount</code>](https://github.com/linuxmint/warpinator/commit/1c502dcd0e590953f79d55b4a6ede424bb5a73cc)
 - [ ] [<code>Update README, fix a typo, add a link to another Window's version</code>](https://github.com/linuxmint/warpinator/commit/fb3a6272084bdda4ca4a193a4d44991a1cf13a70)
+- [ ] [<code>Add issue link to bug report template.</code>](https://github.com/linuxmint/warpinator/commit/896a0aea4e97f76adb72729050c776ed6a86de6d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
