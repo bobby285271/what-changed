@@ -75,6 +75,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translation files</code>](https://github.com/elementary/code/commit/cdb62ff333fc8316ba960670e109a47a467b3b79)
   - <sub>Tags: <code>7.1.0</code></sub>
+- [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
