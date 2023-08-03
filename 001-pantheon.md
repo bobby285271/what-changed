@@ -18,63 +18,8 @@
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [7.0.0 → HEAD](https://github.com/elementary/code/compare/7.0.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [7.1.0 → HEAD](https://github.com/elementary/code/compare/7.1.0...HEAD)
 
-- [ ] [<code>Ensure active project at startup (include non-git folders) (#1254)</code>](https://github.com/elementary/code/commit/1e75388b07c060cc10ecd612076f235b1833fab8)
-- [ ] [<code>Restore old uri if Save As fails (#1262)</code>](https://github.com/elementary/code/commit/9c4a04aba77f67ddc72ff1b348570df30c4c629a)
-- [ ] [<code>Flatpak: Use 7.1 Sdk, Update Dependencies (#1264)</code>](https://github.com/elementary/code/commit/90e44effeee7cf607d5250e7b5fb3e0101bc5cf7)
-- [ ] [<code>Make symbol outline aware of follow-system-style setting (#1265)</code>](https://github.com/elementary/code/commit/78e66a090233e93502742de34b92fe9cd3b9314f)
-- [ ] [<code>Show running branch if not master (#1258)</code>](https://github.com/elementary/code/commit/6d31b6be0968bb10397f318c4968f10db6035183)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/code/commit/268f19c18ad5ff08cc3146c6b226797f4139da13)
-- [ ] [<code>appdata: Minor wording fixes in release notes (#1269)</code>](https://github.com/elementary/code/commit/7fe0a6115a9ad9e22efb5ebd975232f09c57bcad)
-- [ ] [<code>Fix styling when no documents (#1271)</code>](https://github.com/elementary/code/commit/3fb8fe53952cd84d182bdc8d6611b15f29b5efa2)
-- [ ] [<code>Update code.metainfo.xml.in (#1273)</code>](https://github.com/elementary/code/commit/7183f799a719571f6c01c6df0abc6fd86bb22522)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Ensure Replace button (and other search widget) states are mutually consistent  (#1278)</code>](https://github.com/elementary/code/commit/b847665de849caea53ab3678d1ef37aa814c839c)
-- [ ] [<code>Switch to GHCR containers (#1284)</code>](https://github.com/elementary/code/commit/1f340cc8b897ac4c5a9231dcc2669241b843fe68)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/code/commit/5ea26b0feb552d2a50a4992165dd80b66468cd24)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#1286)</code>](https://github.com/elementary/code/commit/ed2389f3cd99126e02d9836552acb4ece4d5972b)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#1287)</code>](https://github.com/elementary/code/commit/c039e74003f319d25e642a1c530de7f33b778ab7)
-- [ ] [<code>Delay asking for save location if cannot determine write access (#1280)</code>](https://github.com/elementary/code/commit/598bbe99757eabb29aab7fbf8116d84beb609642)
-- [ ] [<code>Additional Search options in menu (#1276)</code>](https://github.com/elementary/code/commit/5fb97e26797f981bbb3a6f783846a58b6544f238)
-- [ ] [<code>Implement option to show files with unknown characters as new document (#1283)</code>](https://github.com/elementary/code/commit/5eba475f7fe6b8b87d5fcd7fb308f75f94d9b99e)
-- [ ] [<code>Do not recreate SearchContext for same document (#1294)</code>](https://github.com/elementary/code/commit/a06e33ff377d3af06ec6f4fab72291f23110aebe)
-- [ ] [<code>Update code.metainfo.xml.in</code>](https://github.com/elementary/code/commit/00f30124dc92d14d7c8e7190db7e6a266e229baf)
-- [ ] [<code>Add ctrl + pageUp and pageDown for switching tabs (#1297)</code>](https://github.com/elementary/code/commit/aec73bd33d1eb642b201af08f4fdbdb72eab10ae)
-- [ ] [<code>Persist search settings (#1291)</code>](https://github.com/elementary/code/commit/9fce31693e86ccd0ace5278129a2ac029c8cd2ca)
-- [ ] [<code>Set search entry icon and styleclass according to results (#1285)</code>](https://github.com/elementary/code/commit/dc7b1a6d0de2179e7b2ae0b6d4800e7f8c2cf951)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#1302)</code>](https://github.com/elementary/code/commit/75c7282ce2ea367497914a648711bc70e4f835a6)
-- [ ] [<code>Add release metainfo and update screenshot addresses for 7.1.0 (#1303)</code>](https://github.com/elementary/code/commit/4cca10b79065a744f29641668c8daa00b45a0151)
-- [ ] [<code>Ask save location with dialog (#1308)</code>](https://github.com/elementary/code/commit/1934886b44ff9453ab8a5037ed18a03eb1acd92f)
-- [ ] [<code>Document: Fix string typo</code>](https://github.com/elementary/code/commit/c1e581f59045094862ebce8eeebb7ac00ac3e4d4)
-- [ ] [<code>Metainfo: set brand color to Latte 500</code>](https://github.com/elementary/code/commit/ebc172f85f4ae5bf7e64dfb67261435923155ffc)
-- [ ] [<code>Ensure folder items in sidebar always expandable (#1252)</code>](https://github.com/elementary/code/commit/64b5a90af95659e4495cb91be4320dcb621b8906)
-- [ ] [<code>Prevent premature file status check when saving as (#1318)</code>](https://github.com/elementary/code/commit/86de1051b4707e4f7107ff811fbcaebab2cd9eb2)
-- [ ] [<code>Update metainfo for pull 1252 (#1315)</code>](https://github.com/elementary/code/commit/412898e6bb8bb9d4ee66f9b5d010d73dbc959efd)
-- [ ] [<code>Fix typo in code.metainfo.xml.in (#1321)</code>](https://github.com/elementary/code/commit/ccd9d6950f337ba60ec22a10f04ba2c05fafc981)
-- [ ] [<code>Install man page with meson (#1325)</code>](https://github.com/elementary/code/commit/1c1778f6ad9353b99a1059a503b85d132b88193e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Reduce terminal noise (#1323)</code>](https://github.com/elementary/code/commit/f74056da4400e52444b0665ce1cf5b0be8ef86c8)
-- [ ] [<code>Remove plugin set option (#1324)</code>](https://github.com/elementary/code/commit/d1047366e2b38698e46ef197990e4e519b328829)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>FormatBar: Show column number not buffer offset</code>](https://github.com/elementary/code/commit/406361d266aa6d81eb8efdd1c9a5b38ee0ac8fbb)
-- [ ] [<code>ci: Add polkit dependencies to provide missing .its files in mantic</code>](https://github.com/elementary/code/commit/e73b308f78a1deb42795ee9e7b1d5839429c51ff)
-- [ ] [<code>Handle only relevant settings key changes (#1345)</code>](https://github.com/elementary/code/commit/bdcb50e499e3a70a3f4ba99d4285707b4baab9e0)
-- [ ] [<code>Use dialog for external changes (#1309)</code>](https://github.com/elementary/code/commit/0c49cb792344b15160a67294da74574b904913b8)
-- [ ] [<code>Sync tab settings (#1347)</code>](https://github.com/elementary/code/commit/380240e0869c7bc21d356388a8dd07186cb60100)
-- [ ] [<code>Fix searchterm reverts (#1336)</code>](https://github.com/elementary/code/commit/b58e75399c841b7c2928c8406b5e2ff07f040e1c)
-- [ ] [<code>Ensure correct sidebar item is focused, or none, when tab removed (#1320)</code>](https://github.com/elementary/code/commit/26cdb9efbfe7ff88652b3c22aa4a0fdc299d3023)
-- [ ] [<code>Fix logic for clearing search entry (#1359)</code>](https://github.com/elementary/code/commit/acbb79eca6ebffbe03597f0cd6edb2221566573a)
-- [ ] [<code>Fix spurious external change warnings (#1354)</code>](https://github.com/elementary/code/commit/077ed4b5685ad2d45aa2283b0c8d468152333627)
-- [ ] [<code>Meson: modernize (#1360)</code>](https://github.com/elementary/code/commit/6c7626d55e3f62a339b2b51ca440019022f3c76c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Release 7.1.0 (#1304)</code>](https://github.com/elementary/code/commit/488bfd2ef99056752669aa9002bdd1c273ccb319)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update translation files</code>](https://github.com/elementary/code/commit/cdb62ff333fc8316ba960670e109a47a467b3b79)
-  - <sub>Tags: <code>7.1.0</code></sub>
 - [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
@@ -129,6 +74,9 @@
 - [ ] [<code>Fix restoring focused tab position (#2266)</code>](https://github.com/elementary/files/commit/44138ea81be369217333cdc4efc8813111a6dea5)
 - [ ] [<code>Always restore tabs when settings allow, save tabs from last window closed. (#2272)</code>](https://github.com/elementary/files/commit/0207650b6833082c417d6b3d26d056232f96d722)
 - [ ] [<code>Metainfo: start 6.5.0 release notes (#2275)</code>](https://github.com/elementary/files/commit/7f8c81163aaf2eb15b9f668aab8869d7cec9ec7b)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#2276)</code>](https://github.com/elementary/files/commit/a417af541fcc10e5a79710eb7a0bcca9b9c837af)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -143,59 +91,8 @@
 - [ ] [<code>CategoryView: Fix a typo (#38)</code>](https://github.com/elementary/iconbrowser/commit/ccf117a8995bd0ca469f089b241a2b768448bd28)
 - [ ] [<code>Update pot</code>](https://github.com/elementary/iconbrowser/commit/a9c66eb4b96b9b64b7a7886765ef1100ccc3d741)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.1.0 → HEAD](https://github.com/elementary/mail/compare/7.1.0...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
-- [ ] [<code>WebView: Update height after images were loaded (#889)</code>](https://github.com/elementary/mail/commit/4d0a872fd3a57be5be14b9ec47176b0f9b39b2b8)
-- [ ] [<code>MainWindow: Updates for gtk4 (#867)</code>](https://github.com/elementary/mail/commit/b34540fd5619afc08bf07f1e1ead759ec5ffe662)
-- [ ] [<code>Always start InboxMonitor (#890)</code>](https://github.com/elementary/mail/commit/e89c884e3e16c6a8cbbcc8d4497f8df0bf1f90d1)
-- [ ] [<code>Unify trash/archive (#888)</code>](https://github.com/elementary/mail/commit/f1bce24b7362ad5526e5797df13169314a3ada04)
-- [ ] [<code>Handle network availability (#871)</code>](https://github.com/elementary/mail/commit/6fad8c63e4bc8605d9e5240e33e818c328046549)
-- [ ] [<code>Fix an issue that causes mail to never connect to the network (#899)</code>](https://github.com/elementary/mail/commit/91f422a1daa560663dfd96586971eb7fb582179b)
-- [ ] [<code>Metainfo: add #567 fix (#901)</code>](https://github.com/elementary/mail/commit/0cc2e406b2d40709b6ea401d642e8b7c2155e4f3)
-- [ ] [<code>Application: hard code Gtk theme settings (#892)</code>](https://github.com/elementary/mail/commit/fcd629b97275221d16cb96c01f6f648a1a759115)
-- [ ] [<code>Improve performance when moving messages (#897)</code>](https://github.com/elementary/mail/commit/00ab0e480379d8adf2f8f42f6168a49fa640c63e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Move capability (#895)</code>](https://github.com/elementary/mail/commit/af1b63f74924242bb967f72431c92def3ddc4312)
-- [ ] [<code>Application: force use of Portals (#902)</code>](https://github.com/elementary/mail/commit/7f0e407e6bc47603d402cab5bd0c04d3a8de679b)
-- [ ] [<code>Move menu to FoldersListView (#905)</code>](https://github.com/elementary/mail/commit/ffd7f3f6cb352a82215d896578a689875b29034e)
-- [ ] [<code>Use flatpak portal for background and autostart (#882)</code>](https://github.com/elementary/mail/commit/37c98e0426c89b2b8f5b0eea8555637faf41f4eb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Create flatpak-x-checker.yml (#909)</code>](https://github.com/elementary/mail/commit/014ff90f5651f30ff09eaeab74e42b5dfd8269ba)
-- [ ] [<code>Add support for inline images in the composer (#907)</code>](https://github.com/elementary/mail/commit/ed8e225ab065f690e002ba7ec68b7585fd34ca24)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Sort special folders to top (#910)</code>](https://github.com/elementary/mail/commit/555d0efc34994973595ba131015a2e0b01d37b6f)
-- [ ] [<code>Move the composer editor toolbar into its own class (#908)</code>](https://github.com/elementary/mail/commit/60a1a39131e357f9c1b4846626506d9f5c568376)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update composing (#894)</code>](https://github.com/elementary/mail/commit/62cc9284f42b9adb3ef650145c020b5f41241bcd)
-- [ ] [<code>Include attachments when forwarding (#891)</code>](https://github.com/elementary/mail/commit/55485878d27d90a446137268e77e52d7953d3fb9)
-- [ ] [<code>Improve move menu and make it searchable (#916)</code>](https://github.com/elementary/mail/commit/a568a34e6abe64efbe064b22269749fe1854b0f3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CellRendererBadge: Remove reference of non-existent image (#917)</code>](https://github.com/elementary/mail/commit/7dbd821edcfc402fb13dbd8a31be1bc72bf83237)
-- [ ] [<code>Metainfo: 7.2.0 release notes (#920)</code>](https://github.com/elementary/mail/commit/d9d074300a905ae3dbae7f949ac3ac4e20c7be56)
-- [ ] [<code>Allow renaming of folders (#911)</code>](https://github.com/elementary/mail/commit/9154fcc94427addee419671934835cd121264d42)
-- [ ] [<code>MessageList: use mail-move icon (#921)</code>](https://github.com/elementary/mail/commit/024e46d4682752f01b5f65efce31c9d01d2af6c4)
-- [ ] [<code>Metainfo: Distinguish the mails themselves and the app name (#924)</code>](https://github.com/elementary/mail/commit/58d7585000bb86fd7783fd6e070ba57f799466d6)
-- [ ] [<code>FolderPopover: increase white space, natural height, search placeholder (#923)</code>](https://github.com/elementary/mail/commit/0decf6ca0861ed80ecacb02ec5b5fc5d8153e71a)
-- [ ] [<code>Gresource mail-move icon (#925)</code>](https://github.com/elementary/mail/commit/9a344bcf0fbc44691b378ece5e17ef345fc9751f)
-- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/057b72c1e66aa4324e84f50aaf0d49fa03993e80)
-- [ ] [<code>MainWindow: throw dialog for errors (#926)</code>](https://github.com/elementary/mail/commit/a09c11439bb2353e24e26b631a00edc5ae3a6175)
-- [ ] [<code>Show an InfoBar if attachments include an ICS file (#915)</code>](https://github.com/elementary/mail/commit/9cbece964fd892a19ade49635feb83604ece0580)
-- [ ] [<code>Fix grouped archive folder (#929)</code>](https://github.com/elementary/mail/commit/cb636e4026838d9c73a669629b5baaa29b81704a)
-- [ ] [<code>Gresource: add mail-archive (#933)</code>](https://github.com/elementary/mail/commit/a770335bac467251f3f72cfec8864b001c11a939)
-- [ ] [<code>Add support for signatures (#900)</code>](https://github.com/elementary/mail/commit/0e83a4dbfc40cbaeaaee7846f8d769d117df4389)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update metainfo (#935)</code>](https://github.com/elementary/mail/commit/e8fe8aede75c1a0625494ee9b97e7dd5e67a9fba)
-- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/667b173f3f1eeeaafd081822c9430fe8aa9ce252)
-- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/7a9d0ade51d0e18994bef1ebb9a6fa6fd90b2956)
-- [ ] [<code>Swipe to archive and trash (#930)</code>](https://github.com/elementary/mail/commit/28a1a48b9fee754a3e6443965281b63a5d31c7ae)
-- [ ] [<code>Update screenshots (#938)</code>](https://github.com/elementary/mail/commit/efcb019a7de2fad44711a7b48dfad2e75f0c1e8b)
-- [ ] [<code>Improve performance when switching between folders (#928)</code>](https://github.com/elementary/mail/commit/50141f858dde94dfd25444b2fbf7b4c26ad9b7b8)
-- [ ] [<code>Update mail.metainfo.xml.in</code>](https://github.com/elementary/mail/commit/ada165d42fbf10048fbff4bd3f1f2fb322704c02)
-- [ ] [<code>Release 7.2.0 (#922)</code>](https://github.com/elementary/mail/commit/22131401091c724c58b9310e6f005872f945ba0d)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -407,20 +304,8 @@
 - [ ] [<code>Switch to GHCR containers (#186)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ce10676f9bf2727d39d0776f61f77500ef92a0d0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-printers/commit/83e384d0735bf223ef7bfe9810b2d5dc64d9f34c)
 
-#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.0.0...HEAD)
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
-- [ ] [<code>Add screenshot files cleanup option to Housekeeping (#141)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/da9553d25c714a04180373786f85ffa45514e11f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update screenshots (#158)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/d6dd1ba4e99a2a01255b1027351777e491d7d6e2)
-- [ ] [<code>Metainfo: add 7.1.0 (#159)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/696b2b6a0710a6d686b153de4dffe4cb8a5feb5c)
-- [ ] [<code>LocationPanel: Check that apps are installed before listing (#160)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/91d3d9a38b7024a35e58483b90f19b52529bb7a8)
-- [ ] [<code>Meson: Fix deprecations and require newer version (#162)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/1ebc1e3563170d7599d497f9de65b9599d8f37a0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Release 7.1.0 (#161)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/806b052ce4da9ab468ee6ea464c66290403bc814)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Translated using Weblate (Polish)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/0798f720e52a49236f3c578dcea88ba3401934f5)
-  - <sub>Tags: <code>7.1.0</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
