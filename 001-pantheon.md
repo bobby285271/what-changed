@@ -6,17 +6,29 @@
 - [ ] [<code>AppInfoView: use child property instead of add (#2057)</code>](https://github.com/elementary/appcenter/commit/9baae1c42130e263b983f0f1b78741210871f471)
 - [ ] [<code>Fix deck navigation when changing package origin (#2064)</code>](https://github.com/elementary/appcenter/commit/21a560432c844d202509f6873ab3be602bfce7a4)
 - [ ] [<code>Fix deletion of search term when replacing text with text (#2063)</code>](https://github.com/elementary/appcenter/commit/f3ca06465e30ba189d91b3850a57ca2e645660b3)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#2065)</code>](https://github.com/elementary/appcenter/commit/68426271d0b3cb2b63e6fb0a301cd8e96e14dc77)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
 - [ ] [<code>Fix crash when pasting into division or multiplication expression (#259)</code>](https://github.com/elementary/calculator/commit/fbc12436ac9f9be42fc08a463a1c15e2606950cc)
 - [ ] [<code>Metainfo: set brand color to Mint 500 (#257)</code>](https://github.com/elementary/calculator/commit/40a1261ab5381927aded89f9c0290ec51c50f479)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#260)</code>](https://github.com/elementary/calculator/commit/9611f8c77c3a16d7bc4300c74efe599467029269)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#794)</code>](https://github.com/elementary/calendar/commit/545ce7efaaa0b6cc92883095492a0c4b69410b95)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#265)</code>](https://github.com/elementary/camera/commit/071fcf723fb04cf5fbfde1e8e8aa317927ba5c15)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.1.0 → HEAD](https://github.com/elementary/code/compare/7.1.0...HEAD)
 
@@ -50,6 +62,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/feedback/commit/e5b2e2bc5be12a7401256b42a4002f2b98f7cb38)
 - [ ] [<code>Require new meson and fix deprecations (#91)</code>](https://github.com/elementary/feedback/commit/038ab0603bd82748c0749f17d8aa9797b8109e17)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#93)</code>](https://github.com/elementary/feedback/commit/6f2af85bd3fe9a84753c3ba45c1eefad67cef022)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
 
@@ -77,6 +92,8 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#2276)</code>](https://github.com/elementary/files/commit/a417af541fcc10e5a79710eb7a0bcca9b9c837af)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Meson: update icon and desktop in postinstall (#2277)</code>](https://github.com/elementary/files/commit/4bdfa87ed479629c7772446777413005b1cc8e6c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -90,12 +107,25 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#37)</code>](https://github.com/elementary/iconbrowser/commit/5ee6ed0e921dc5631741af3aad7dc8cbfa5d8ff0)
 - [ ] [<code>CategoryView: Fix a typo (#38)</code>](https://github.com/elementary/iconbrowser/commit/ccf117a8995bd0ca469f089b241a2b768448bd28)
 - [ ] [<code>Update pot</code>](https://github.com/elementary/iconbrowser/commit/a9c66eb4b96b9b64b7a7886765ef1100ccc3d741)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#40)</code>](https://github.com/elementary/iconbrowser/commit/c5b4a232dc3ecc99e58190df4968bbf8ec611ad1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
+- [ ] [<code>po: Add all missing files</code>](https://github.com/elementary/mail/commit/013f4100a6113166519dfb197983462cb29215c3)
+- [ ] [<code>SignatureDialog: Translate before doing string substitution</code>](https://github.com/elementary/mail/commit/f3d29c83986986626c63a9fec1757c5ab04e64bf)
+- [ ] [<code>GroupedFolderSourceItem: Add context to folder names</code>](https://github.com/elementary/mail/commit/5a756b9b2ded2245b5f154d4c6566c74c5518154)
+- [ ] [<code>MessageListItem: Do not translate empty string</code>](https://github.com/elementary/mail/commit/87c75a4155f1770be70c7492ebb95f00fcd84b42)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#942)</code>](https://github.com/elementary/mail/commit/9b90579eff7102cbec952c85f5b93c2a9b905e40)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#757)</code>](https://github.com/elementary/music/commit/3b7812eb36cdc0556a85beade82ed1b55da0ace5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -114,9 +144,15 @@
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#268)</code>](https://github.com/elementary/screenshot/commit/5560e3a8e1ab93577258d4edb5a7d76e1632ccba)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#371)</code>](https://github.com/elementary/tasks/commit/cd51ff03e4ce0eb9bccd6687a5bb98698f72f0a9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -156,9 +192,15 @@
 - [ ] [<code>Remove unused Clutter (#350)</code>](https://github.com/elementary/videos/commit/4e849165c1d0c0c8c392a1f4c673f1a92ab9f348)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#351)</code>](https://github.com/elementary/videos/commit/76de9d98f9eedd3a15e3cdb25f6ca73e3968dd94)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas and update desktop DB (#163)</code>](https://github.com/elementary/sideload/commit/07fc6be4d2d70b9b5cf5a73ab7d03bb61cdf526c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -389,6 +431,9 @@
 - [ ] [<code>Add screenshot files cleanup option to Housekeeping (#208)</code>](https://github.com/elementary/onboarding/commit/685ebd3d3fe11a71d024ff68463cda062e72e8a3)
 - [ ] [<code>StyleView: use actual background when available (#212)</code>](https://github.com/elementary/onboarding/commit/a0ee117d71ddd03d51a45f375bbe05076cbee778)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#214)</code>](https://github.com/elementary/onboarding/commit/56f90af3138ec5af93e7966c7d73aa479c671ac6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -460,6 +505,9 @@
 - [ ] [<code>Close popover on Esc (#487)</code>](https://github.com/elementary/wingpanel/commit/ca2d5356225682192005e5eb68135013c1e48851)
 - [ ] [<code>wingpanel-interface: Use `unowned` where needed (#488)</code>](https://github.com/elementary/wingpanel/commit/065d512edbbb6148a3e1522100c547defd631fc8)
 - [ ] [<code>Fix indicator re-animating when an icon is removed/added (#486)</code>](https://github.com/elementary/wingpanel/commit/ac0b3bdf48773a48f321a7b515902af73683c650)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#490)</code>](https://github.com/elementary/wingpanel/commit/0121570e2081cb73e426ab95ec11efa6d6879c99)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -469,12 +517,18 @@
 - [ ] [<code>Switch to GHCR containers (#562)</code>](https://github.com/elementary/applications-menu/commit/24cf51fbf509fd7a84c79774d326426f71d89b51)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/applications-menu/commit/66710eaa27d1b3c91c3a028aa453f94d8912ba1e)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#563)</code>](https://github.com/elementary/applications-menu/commit/91b4c423d3a264eb468effb5fa0eb5e73ffc3d1b)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#568)</code>](https://github.com/elementary/applications-menu/commit/6415a6b6c59e1a332973698998d617f73baf04c7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.1...HEAD)
 
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#207)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/cf5f8110f312c85cbcc88bc285284024232c3ce2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -546,6 +600,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Build with Flatpak (#106)</code>](https://github.com/elementary/capnet-assist/commit/0d311a046235a42a95f0101b62c554356b2153f9)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#107)</code>](https://github.com/elementary/capnet-assist/commit/653f8da52b1798914d91c3841e01b9fe99c9d7c4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.0 → HEAD](https://github.com/elementary/notifications/compare/7.0.0...HEAD)
 
@@ -554,6 +611,9 @@
 - [ ] [<code>Use GLib.ActionGroup to handle actions (#193)</code>](https://github.com/elementary/notifications/commit/3790b36834431f2c0235f83c49a403e68992c4cc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#214)</code>](https://github.com/elementary/notifications/commit/b46c689b9c84ba44083b4e6957262f57b4cff233)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
