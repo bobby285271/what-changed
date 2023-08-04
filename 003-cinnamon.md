@@ -31,7 +31,11 @@
 - [ ] [<code>Updated write-applet.xml for Cinnamon 4.6 to 5.8+ (#11801)</code>](https://github.com/linuxmint/cinnamon/commit/5ebb1156930c3e5706f6f94797055b9e0ef968e2)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update issue template with a link to open and closed issues for</code>](https://github.com/linuxmint/cinnamon/commit/c0e6a43e56f4d084c27cc3cbeea70563aa4a8d80)
+- [ ] [<code>window-list/gwl: Simplify window focus updates.</code>](https://github.com/linuxmint/cinnamon/commit/e2cb99ad4ab4f729571791e1c4337f7e3850fdf6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Track the getThumbnail timeout source id.</code>](https://github.com/linuxmint/cinnamon/commit/a69d30b8e9bd6bc9c3399a112384a145bce5b7d5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -132,6 +136,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>nemo-file.c: Update hard-coded value for size of thumbnails. (#3278)</code>](https://github.com/linuxmint/nemo/commit/ae66c5e1adc4e3d31cc99e8e7654ab831e084717)
 - [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/nemo/commit/04a5a20761448a657dc6bd70831a77c2acfaf6fd)
+- [ ] [<code>eel-gtk-extensions: Make wayland display check reusable.</code>](https://github.com/linuxmint/nemo/commit/875f2a520b51b407fbe634146e0f5afba90da029)
+- [ ] [<code>nemo-view.c: Use an admin:/// uri for the 'Open as Root' action</code>](https://github.com/linuxmint/nemo/commit/86830eb2b07d4ddc066ed3e5e35d7328b5ae2bd4)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
@@ -178,7 +184,8 @@
 
 - [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
 - [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Add link for existing issues to the bug report template.</code>](https://github.com/linuxmint/xreader/commit/94c8e58275778449d4cb7bf89ce25db926c6a989)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
