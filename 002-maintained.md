@@ -405,6 +405,9 @@
 - [ ] [<code>dependabot: Create .github/dependabot.yml</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/384e7a7c128e4f3085f7de84e72a35677583658e)
 - [ ] [<code>Update portuguese (pt) translation (#177)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e183346f38fe8ce023f5cfd27348e4e1e6f8fcb4)
 - [ ] [<code>Categories: Use SPDX license header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/93daf11f9682da16af7bf6ad201355adcf755d81)
+- [ ] [<code>README: Update installation instruction</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/301a992fa507e2f9a94b62097d65207d9934be18)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Efficiently find and match pane name (#179)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1ecb18b6dbb8a6ba42e3b637f05458ba89e94529)
 
 #### [planify](https://github.com/alainm23/planify): [4.1 → HEAD](https://github.com/alainm23/planify/compare/4.1...HEAD)
 
