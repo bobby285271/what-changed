@@ -574,6 +574,9 @@
 - [ ] [<code>Switch to GHCR containers (#245)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1778f6dffd4e7e78544e4f07f831718ba6d175f0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/209071bf71a33a050c92d7d5c371a9879428e09c)
 - [ ] [<code>Update power.appdata.xml.in (#246)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ed6366787abb3784eae29616f3c3211c55dd242e)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#248)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/a903bf9b6012f8703aef9d2642bf3f896cb67fd4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
