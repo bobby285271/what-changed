@@ -33,12 +33,16 @@
 - [ ] [<code>Update issue template with a link to open and closed issues for</code>](https://github.com/linuxmint/cinnamon/commit/c0e6a43e56f4d084c27cc3cbeea70563aa4a8d80)
 - [ ] [<code>window-list/gwl: Simplify window focus updates.</code>](https://github.com/linuxmint/cinnamon/commit/e2cb99ad4ab4f729571791e1c4337f7e3850fdf6)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>applet.js: Improve code comments.</code>](https://github.com/linuxmint/cinnamon/commit/dc395101814052974c4fb149ec1ab679aeae1ead)
 - [ ] [<code>gwl: Track the getThumbnail timeout source id.</code>](https://github.com/linuxmint/cinnamon/commit/a69d30b8e9bd6bc9c3399a112384a145bce5b7d5)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11805 from fredcw/resizecomments</code>](https://github.com/linuxmint/cinnamon/commit/cd1d6491eb36be76a087f1e4484544882e3ea15a)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
+- [ ] [<code>display: Increase the number of available fractional scale buttons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/35c8df73763d0afc5f64ce8ef35c14fbd2816f45)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
 
@@ -118,6 +122,8 @@
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/muffin/commit/bece4326e51f5bad40b5c9bcd1b6ed4460088ab1)
 - [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/muffin/commit/84176989dd43aa107e76b3e20da65b1b7b447173)
 - [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/muffin/commit/cfd899614e19eee805ebb84561d6bdb5d6274432)
+- [ ] [<code>meta-monitor.c: Allow 75% scaling once more.</code>](https://github.com/linuxmint/muffin/commit/e537dbbf8bfa92edf1cc4ec534a7dfdb53bfc885)
+- [ ] [<code>Make meta_set_verbose() public.</code>](https://github.com/linuxmint/muffin/commit/224ac93780c00d0c36649a05b131dd4e3e266092)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
@@ -185,7 +191,9 @@
 - [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
 - [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
 - [ ] [<code>Add link for existing issues to the bug report template.</code>](https://github.com/linuxmint/xreader/commit/94c8e58275778449d4cb7bf89ce25db926c6a989)
+- [ ] [<code>Fix building with meson 1.2.</code>](https://github.com/linuxmint/xreader/commit/06b18a884c8cf3257ea1f053a82784da078999ed)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
