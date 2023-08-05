@@ -120,6 +120,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#942)</code>](https://github.com/elementary/mail/commit/9b90579eff7102cbec952c85f5b93c2a9b905e40)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>InsertLinkDialog: Do not translate URL (#946)</code>](https://github.com/elementary/mail/commit/4e70dd2f145f9c3f11de07b9b4df9d01d053034a)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -420,6 +421,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Overrides: Set dark wallpaper (#282)</code>](https://github.com/elementary/default-settings/commit/881f84b8316e549ab627b7ac9acf352e0346a1a4)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>do not set a default dark wallpaper (#283)</code>](https://github.com/elementary/default-settings/commit/37ef6062a8651875dd9d927c5730155c8b26e953)
+  - <sub>Files: <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
