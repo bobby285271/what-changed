@@ -51,6 +51,9 @@
 - [ ] [<code>Switch to GHCR containers (#173)</code>](https://github.com/elementary/dock/commit/4401b06c51db59519d063ebf95375a330962c822)
 - [ ] [<code>DesktopIntegration: Initial support for Gala integration (#168)</code>](https://github.com/elementary/dock/commit/baa871ebfd2767e2976b06415b97aa092802760b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Support dark mode (#183)</code>](https://github.com/elementary/dock/commit/581e555b9229c122be887cbbf1dda81d2993932c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.0.0 → HEAD](https://github.com/elementary/feedback/compare/7.0.0...HEAD)
 
@@ -154,6 +157,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#371)</code>](https://github.com/elementary/tasks/commit/cd51ff03e4ce0eb9bccd6687a5bb98698f72f0a9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>fix notify signal signature in prefers-color-scheme callback (#373)</code>](https://github.com/elementary/tasks/commit/f767a87963b0ccf27cb1a96d800ec8382aba34b5)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -275,12 +279,14 @@
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
+- [ ] [<code>Add missing deeplink handlers</code>](https://github.com/elementary/switchboard-plug-display/commit/54f15bd3a52ebe318cd6bae61ee50e2aeec26030)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...HEAD)
 
 - [ ] [<code>Layout: remove panel indicator settings (#454)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b16d99500584411b19e7f129dd3384023b777888)
 - [ ] [<code>Behavior: move onboard to the behavior tab (#455)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/de73174ba5394abf68fdcae69d8f7038582e352f)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Shortcuts: Allow assigning PrintScreen key (#457)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ca6bddd4cf5faa4211f6c68dc33fc9d73744c031)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
