@@ -97,6 +97,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Meson: update icon and desktop in postinstall (#2277)</code>](https://github.com/elementary/files/commit/4bdfa87ed479629c7772446777413005b1cc8e6c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix sort order after file operations (#2260)</code>](https://github.com/elementary/files/commit/82d5ae43242c02bacf517ad04a8104d42334efbd)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
