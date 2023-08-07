@@ -144,6 +144,7 @@
 - [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/nemo/commit/04a5a20761448a657dc6bd70831a77c2acfaf6fd)
 - [ ] [<code>eel-gtk-extensions: Make wayland display check reusable.</code>](https://github.com/linuxmint/nemo/commit/875f2a520b51b407fbe634146e0f5afba90da029)
 - [ ] [<code>nemo-view.c: Use an admin:/// uri for the 'Open as Root' action</code>](https://github.com/linuxmint/nemo/commit/86830eb2b07d4ddc066ed3e5e35d7328b5ae2bd4)
+- [ ] [<code>nemo-window-slot: Set up dnd against the slot itself instead of</code>](https://github.com/linuxmint/nemo/commit/74aacbcfc9ad853101c2cac69776ef6fc7fcad89)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
