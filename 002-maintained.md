@@ -194,6 +194,7 @@
 - [ ] [<code>Fix #121 (failure to compile with vala 0.55.1) (#122)</code>](https://github.com/donadigo/appeditor/commit/1ad692b4630fcb49b5052d7cc1e809c94b900d96)
 - [ ] [<code>Update glib to 2.76.3 and Flatpak platform to 7.2 (#133)</code>](https://github.com/donadigo/appeditor/commit/f170b6b1f20b49c937cf5200a42eee524923aea5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Release 1.1.5</code>](https://github.com/donadigo/appeditor/commit/8612fc8f8f812bc50002d4086afa304228a72cae)
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
