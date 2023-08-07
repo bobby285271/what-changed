@@ -230,8 +230,9 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.07.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.07.1...HEAD)
 
 - [ ] [<code>docs/man/meson.build: Use -N for help2man to avoid texinfo section (#217)</code>](https://github.com/linuxmint/timeshift/commit/02697234b51e342abeef3ba61d76b1973f357efa)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add the installation/removal instructions for the timeshift Arch package (#220)</code>](https://github.com/linuxmint/timeshift/commit/37c50084f4eb9acd081187593f20f3718e818cdb)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.3 → HEAD](https://github.com/linuxmint/xed/compare/3.4.3...HEAD)
 
