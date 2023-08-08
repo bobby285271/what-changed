@@ -37,7 +37,11 @@
 - [ ] [<code>gwl: Track the getThumbnail timeout source id.</code>](https://github.com/linuxmint/cinnamon/commit/a69d30b8e9bd6bc9c3399a112384a145bce5b7d5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #11805 from fredcw/resizecomments</code>](https://github.com/linuxmint/cinnamon/commit/cd1d6491eb36be76a087f1e4484544882e3ea15a)
+- [ ] [<code>Show all batteries as "primary" batteries,</code>](https://github.com/linuxmint/cinnamon/commit/b7f958ee0290abbe84c476fff03ee5826792f2a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Menu applet: Fix bug where menu is partly behind panel (#11788)</code>](https://github.com/linuxmint/cinnamon/commit/a80336bebb15033026fc595103c766dce7d8dd0d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
