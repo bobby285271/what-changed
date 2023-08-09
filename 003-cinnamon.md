@@ -40,6 +40,10 @@
 - [ ] [<code>Show all batteries as "primary" batteries,</code>](https://github.com/linuxmint/cinnamon/commit/b7f958ee0290abbe84c476fff03ee5826792f2a6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Menu applet: Fix bug where menu is partly behind panel (#11788)</code>](https://github.com/linuxmint/cinnamon/commit/a80336bebb15033026fc595103c766dce7d8dd0d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gestures: Remove device detection.</code>](https://github.com/linuxmint/cinnamon/commit/09b9113171ead0fdf9d0027598b9974f46a8f45b)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix issue #11810 (#11814)</code>](https://github.com/linuxmint/cinnamon/commit/d71dbf5f3909a3e9c0404a36e4cf26490fde3a0f)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
