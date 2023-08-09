@@ -408,6 +408,9 @@
 - [ ] [<code>Remove non-fdo mail-archive (#1223)</code>](https://github.com/elementary/icons/commit/026ab2583959c5f20ac2125bbca7f3dad2f4ac49)
 - [ ] [<code>Update icons.metainfo.xml.in</code>](https://github.com/elementary/icons/commit/4787a64f3d4f33c98bffa0d7ac4248f724cdd286)
 - [ ] [<code>Update applications-multimedia (#1226)</code>](https://github.com/elementary/icons/commit/fadba24455812cbfb91bab6d9dfa6d3fbd789472)
+- [ ] [<code>Release 7.3.1 (#1222)</code>](https://github.com/elementary/icons/commit/8598d278c2df21bc3dfb5b5a5a820b31c1845046)
+  - <sub>Tags: <code>7.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
