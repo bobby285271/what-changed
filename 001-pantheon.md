@@ -381,36 +381,8 @@
 - [ ] [<code>Add latte palette (#853)</code>](https://github.com/elementary/stylesheet/commit/fcaf5e68b1e3c0a00bdd07c89d4c09bbf475ebb6)
 - [ ] [<code>Make Latte match (#1263)</code>](https://github.com/elementary/stylesheet/commit/47d93e43714b2579f1e0e7a93a998387540832db)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.0 → HEAD](https://github.com/elementary/icons/compare/7.3.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
-- [ ] [<code>Rename media-memory-sembolic.svg to media-memory-symbolic.svg (#1200)</code>](https://github.com/elementary/icons/commit/f44e5d0a4b65cb64d2318f0bd0cc5ed0d820e373)
-- [ ] [<code>Status: remove non-fdo microphone icons (#1201)</code>](https://github.com/elementary/icons/commit/338dbb1ad3f2e2e5a5cfb78a46791f483365c3c6)
-- [ ] [<code>Status: re-add muted mic symbolics (#1202)</code>](https://github.com/elementary/icons/commit/eb73e436642d159903325590e75a629004afc163)
-- [ ] [<code>Remove Night Light icons (#1203)</code>](https://github.com/elementary/icons/commit/a07083edf59049bc136b0fd16e1443f70deb7dbc)
-- [ ] [<code>Status: remove 16px nightlight icons (#1204)</code>](https://github.com/elementary/icons/commit/4bdba9d7ca6774daf4d018e519dd62292db9cde1)
-- [ ] [<code>Actions: update insert-image-symbolic (#1205)</code>](https://github.com/elementary/icons/commit/2b46c2ba332ad1f3c5d1b1783639e6499329b860)
-- [ ] [<code>Actions: Make media-record more consistent (#1207)</code>](https://github.com/elementary/icons/commit/0d2d0dd7bd03fe14874e1badd6f9c9e1e33ae545)
-- [ ] [<code>Devices: Improve borders for optical media (#1206)</code>](https://github.com/elementary/icons/commit/d5ea97fc39e62a382af57e23fd0290eb412a818a)
-- [ ] [<code>Actions: Update open-menu and system-run borders (#1208)</code>](https://github.com/elementary/icons/commit/30999d1adf86e79ddb1fb411b1f30f77c33e8a2c)
-- [ ] [<code>Actions: Use rounded arrow for browser-download (#1209)</code>](https://github.com/elementary/icons/commit/18a215954ea990e30b582d678122e14839f89bc3)
-- [ ] [<code>Actions: Use rounded arrow for document-send (#1210)</code>](https://github.com/elementary/icons/commit/f2c27d7fa4d1045a758fcccefc232d028ec49b0e)
-- [ ] [<code>Status: remove bluetooth indicator icons (#1211)</code>](https://github.com/elementary/icons/commit/21a9faae2bd35d715a76db1db6a7665dcd8c6d40)
-- [ ] [<code>Actions: Use rounded arrow for view-refresh (#1213)</code>](https://github.com/elementary/icons/commit/3751f10cf9f8ca9a0b1a6e7093801893713657ad)
-- [ ] [<code>Actions: Use rounded arrow on some 24px icons (#1214)</code>](https://github.com/elementary/icons/commit/dd901932fa9f7d20434a946c4e0e759643fe8b73)
-- [ ] [<code>Actions: Use rounded arrow for object-rotate (#1215)</code>](https://github.com/elementary/icons/commit/d5e6381a74dd4392d08b61b1e5ccd6f0df4ccf1c)
-- [ ] [<code>Actions: update 24/mail-move (#1216)</code>](https://github.com/elementary/icons/commit/b2ffde023580ce8a0f7d14a8f913dfb8ec2f9947)
-- [ ] [<code>Actions: Add some semi-transparent borders (#1217)</code>](https://github.com/elementary/icons/commit/44755fb918dbd185598669d85650a5ab8136b3b1)
-- [ ] [<code>Metainfo: add 7.3.1 release notes (#1220)</code>](https://github.com/elementary/icons/commit/2dca3e8ca59de469e42cbd08faa648ee5ed38144)
-- [ ] [<code>Metainfo improvements (#1221)</code>](https://github.com/elementary/icons/commit/f2d2af929c7be052667749bec2b850de574a3e64)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Create gettext.yml</code>](https://github.com/elementary/icons/commit/5869812f7d34a0b4e88d3b2552fa0b36a8fe4cb1)
-- [ ] [<code>Actions: remove non-fdo mail-move (#1219)</code>](https://github.com/elementary/icons/commit/895a6c74714a5f4a5ba2dfdff8d265000e2e438f)
-- [ ] [<code>Remove non-fdo mail-archive (#1223)</code>](https://github.com/elementary/icons/commit/026ab2583959c5f20ac2125bbca7f3dad2f4ac49)
-- [ ] [<code>Update icons.metainfo.xml.in</code>](https://github.com/elementary/icons/commit/4787a64f3d4f33c98bffa0d7ac4248f724cdd286)
-- [ ] [<code>Update applications-multimedia (#1226)</code>](https://github.com/elementary/icons/commit/fadba24455812cbfb91bab6d9dfa6d3fbd789472)
-- [ ] [<code>Release 7.3.1 (#1222)</code>](https://github.com/elementary/icons/commit/8598d278c2df21bc3dfb5b5a5a820b31c1845046)
-  - <sub>Tags: <code>7.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -451,6 +423,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#214)</code>](https://github.com/elementary/onboarding/commit/56f90af3138ec5af93e7966c7d73aa479c671ac6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Metainfo: 7.2.0 release notes (#215)</code>](https://github.com/elementary/onboarding/commit/ec7bd66edb4cc93c3e1a4c13da68e8e3ad02ead8)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
