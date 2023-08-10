@@ -153,7 +153,10 @@
 - [ ] [<code>eel-gtk-extensions: Make wayland display check reusable.</code>](https://github.com/linuxmint/nemo/commit/875f2a520b51b407fbe634146e0f5afba90da029)
 - [ ] [<code>nemo-view.c: Use an admin:/// uri for the 'Open as Root' action</code>](https://github.com/linuxmint/nemo/commit/86830eb2b07d4ddc066ed3e5e35d7328b5ae2bd4)
 - [ ] [<code>nemo-window-slot: Set up dnd against the slot itself instead of</code>](https://github.com/linuxmint/nemo/commit/74aacbcfc9ad853101c2cac69776ef6fc7fcad89)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>Fix issue when generating video thumbnails from network shares (#3265)</code>](https://github.com/linuxmint/nemo/commit/c389c2f2661c9ea27c5d4b9852c861c600f81fe5)
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>nemo-thumbnails: Use g_file_peek_path to simplify network-to-local</code>](https://github.com/linuxmint/nemo/commit/1c526f6b829091e3121b58a321f9b956674a9d6e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
@@ -223,7 +226,9 @@
 
 - [ ] [<code>debian/control: add libmpv2 (#287)</code>](https://github.com/linuxmint/hypnotix/commit/463ed3a6a7b5a81aa46dcab790d772076329282e)
 - [ ] [<code>debian/control: recommend yt-dlp (#288)</code>](https://github.com/linuxmint/hypnotix/commit/61ff084d7503eafb06070e90f03fa10eaf3b3587)
+- [ ] [<code>fix: ensure word is in the list (#290)</code>](https://github.com/linuxmint/hypnotix/commit/b3eb36f53aebd22d359c012036392c142fe63040)
   - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
