@@ -44,8 +44,9 @@
 - [ ] [<code>gestures: Remove device detection.</code>](https://github.com/linuxmint/cinnamon/commit/09b9113171ead0fdf9d0027598b9974f46a8f45b)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix issue #11810 (#11814)</code>](https://github.com/linuxmint/cinnamon/commit/d71dbf5f3909a3e9c0404a36e4cf26490fde3a0f)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/cinnamon/commit/b6744f144753a162d82ad60afebd573d0a96b572)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -123,6 +124,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add symlinks for GNOME apps (#354)</code>](https://github.com/linuxmint/mint-y-icons/commit/f8c8c63cec530916b480a01bf6f02b5b6c09bcdc)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Mint-Y cs-gestures</code>](https://github.com/linuxmint/mint-y-icons/commit/cc8f1576f0a992964c199c05770ad891aad81369)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
@@ -154,9 +157,9 @@
 - [ ] [<code>nemo-view.c: Use an admin:/// uri for the 'Open as Root' action</code>](https://github.com/linuxmint/nemo/commit/86830eb2b07d4ddc066ed3e5e35d7328b5ae2bd4)
 - [ ] [<code>nemo-window-slot: Set up dnd against the slot itself instead of</code>](https://github.com/linuxmint/nemo/commit/74aacbcfc9ad853101c2cac69776ef6fc7fcad89)
 - [ ] [<code>Fix issue when generating video thumbnails from network shares (#3265)</code>](https://github.com/linuxmint/nemo/commit/c389c2f2661c9ea27c5d4b9852c861c600f81fe5)
-  - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>nemo-thumbnails: Use g_file_peek_path to simplify network-to-local</code>](https://github.com/linuxmint/nemo/commit/1c526f6b829091e3121b58a321f9b956674a9d6e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/nemo/commit/480cdd58ee3e86ac8a2558e5b8b2ee3e51cb3938)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
