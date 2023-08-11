@@ -201,6 +201,11 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#351)</code>](https://github.com/elementary/videos/commit/76de9d98f9eedd3a15e3cdb25f6ca73e3968dd94)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Metainfo: 3.0.0 release notes (#352)</code>](https://github.com/elementary/videos/commit/f4845bd215c613e2a2656d3c8a60ee9d247439fb)
+- [ ] [<code>Update screenshots (#354)</code>](https://github.com/elementary/videos/commit/13db76a818c234b8c20538d4dd2055c8bfcab962)
+- [ ] [<code>Release 3.0.0 (#353)</code>](https://github.com/elementary/videos/commit/bcabfc0c98b8815ac673aa767f09ff35f2c76cd8)
+- [ ] [<code>Meson: update to 3.0.0 (#355)</code>](https://github.com/elementary/videos/commit/388be03742a6de2689758168187d936a36377263)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -425,6 +430,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Metainfo: 7.2.0 release notes (#215)</code>](https://github.com/elementary/onboarding/commit/ec7bd66edb4cc93c3e1a4c13da68e8e3ad02ead8)
 - [ ] [<code>Release 7.2.0 (#216)</code>](https://github.com/elementary/onboarding/commit/6b24ec7083b53eb407cfe829e73124b588c38ccd)
+  - <sub>Tags: <code>7.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
@@ -472,6 +478,7 @@
 - [ ] [<code>Fix warnings (#1717)</code>](https://github.com/elementary/gala/commit/eef351e5dfbd19bbcdeb0932e90b5b64d98f09cf)
 - [ ] [<code>Use `Meta.Window.is_on_primary_monitor ()` (#1731)</code>](https://github.com/elementary/gala/commit/b4a6a04d7248a2742f6c1cdeb8c3ce740f850273)
 - [ ] [<code>Kill workspace switch when opening multitasking view (#1735)</code>](https://github.com/elementary/gala/commit/a0b3025f3c2aa11023ec12fedb007ed5e35baf73)
+- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/e16a0fbf8c7e48e80d764a49cc4f10b1679c78b8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
