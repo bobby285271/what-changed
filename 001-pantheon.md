@@ -205,6 +205,7 @@
 - [ ] [<code>Update screenshots (#354)</code>](https://github.com/elementary/videos/commit/13db76a818c234b8c20538d4dd2055c8bfcab962)
 - [ ] [<code>Release 3.0.0 (#353)</code>](https://github.com/elementary/videos/commit/bcabfc0c98b8815ac673aa767f09ff35f2c76cd8)
 - [ ] [<code>Meson: update to 3.0.0 (#355)</code>](https://github.com/elementary/videos/commit/388be03742a6de2689758168187d936a36377263)
+  - <sub>Tags: <code>3.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
@@ -479,6 +480,9 @@
 - [ ] [<code>Use `Meta.Window.is_on_primary_monitor ()` (#1731)</code>](https://github.com/elementary/gala/commit/b4a6a04d7248a2742f6c1cdeb8c3ce740f850273)
 - [ ] [<code>Kill workspace switch when opening multitasking view (#1735)</code>](https://github.com/elementary/gala/commit/a0b3025f3c2aa11023ec12fedb007ed5e35baf73)
 - [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/e16a0fbf8c7e48e80d764a49cc4f10b1679c78b8)
+- [ ] [<code>Release 7.1.2 (#1740)</code>](https://github.com/elementary/gala/commit/8de5df730b166b36d67c59cefc8782c4f06b3055)
+  - <sub>Tags: <code>7.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
