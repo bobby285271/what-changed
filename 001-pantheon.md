@@ -512,6 +512,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#490)</code>](https://github.com/elementary/wingpanel/commit/0121570e2081cb73e426ab95ec11efa6d6879c99)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>PanelWindow: animate in with Gtk.Revealer (#491)</code>](https://github.com/elementary/wingpanel/commit/483f01dd9607578493c89802dc4b5f6b26f0a064)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
