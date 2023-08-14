@@ -159,6 +159,7 @@
 - [ ] [<code>Fix issue when generating video thumbnails from network shares (#3265)</code>](https://github.com/linuxmint/nemo/commit/c389c2f2661c9ea27c5d4b9852c861c600f81fe5)
 - [ ] [<code>nemo-thumbnails: Use g_file_peek_path to simplify network-to-local</code>](https://github.com/linuxmint/nemo/commit/1c526f6b829091e3121b58a321f9b956674a9d6e)
 - [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/nemo/commit/480cdd58ee3e86ac8a2558e5b8b2ee3e51cb3938)
+- [ ] [<code>nemo-window-slot.c: Disable drop bar, until circular reference can</code>](https://github.com/linuxmint/nemo/commit/1b277e7ab63162a9d015d8c8d6c6ce169cf3c375)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
