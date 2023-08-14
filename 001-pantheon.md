@@ -172,41 +172,8 @@
 - [ ] [<code>Add `SettingsPopover` Class (#699)</code>](https://github.com/elementary/terminal/commit/0f6c1cd8145ac3e45f1d36e0647c255a6004f629)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [2.9.1 → HEAD](https://github.com/elementary/videos/compare/2.9.1...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
-- [ ] [<code>Use playbin with the gst gtk widget for playback (#335)</code>](https://github.com/elementary/videos/commit/218f760f878a26cd8523c3faf37e99a549068026)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Separate headerbars with deck pages (#336)</code>](https://github.com/elementary/videos/commit/38f2ad2ff97171bac53ecc8892f88f320c44f495)
-- [ ] [<code>Gtk preparations (#338)</code>](https://github.com/elementary/videos/commit/019ad0a024534da447cf50474b802a202b36de80)
-- [ ] [<code>Playlist: Preparations for GTK4 (#337)</code>](https://github.com/elementary/videos/commit/3f7bdbe855ef007f39dc6cb9cc1eeb826bf14eaf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/videos/commit/5d007daddb6eb125ac8e61399e4c59f9c4aecdb8)
-- [ ] [<code>PlaylistPopover: send app notification when adding (#270)</code>](https://github.com/elementary/videos/commit/77295356dc15c66852f433f8f375c1ce044b0d05)
-- [ ] [<code>LibraryItem: Simplifications and preparations for GTK4 (#341)</code>](https://github.com/elementary/videos/commit/20e9842aef898c5b42004998e118f450c29e7db6)
-- [ ] [<code>LibraryPage: Preparations for GTK4 (#340)</code>](https://github.com/elementary/videos/commit/029c7e906911793b97171a4f82a3dc063674cc82)
-- [ ] [<code>EpisodesPage: Preparations for GTK4 (#339)</code>](https://github.com/elementary/videos/commit/984e53ebe9b353226a69158cb91a463c9429c829)
-- [ ] [<code>README: build with Flatpak (#342)</code>](https://github.com/elementary/videos/commit/99f4876e9dc324e0da978616d0a84c30ceffe9ca)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>BottomBar and PlayerPage: GTK4 preparations (#343)</code>](https://github.com/elementary/videos/commit/00ca561a6447b871d1c4bb6354bf7d9d98948a2a)
-- [ ] [<code>SettingsPopover: Preparations for GTK4 (#344)</code>](https://github.com/elementary/videos/commit/f7dcaf87874d335ed0631c2d36195afff2b86b7e)
-- [ ] [<code>Window: put everything in a windowhandle (#346)</code>](https://github.com/elementary/videos/commit/972ca33dc333601fc1eacf3e44915a6f97f83907)
-- [ ] [<code>PlaybackManager: Improve position querying (#348)</code>](https://github.com/elementary/videos/commit/235fae0f2b05c704efe9e21fb0dd459325ceb16f)
-- [ ] [<code>Window: Some GTK4 preparations (#349)</code>](https://github.com/elementary/videos/commit/d5ec5ba2bd73e649937c1afc80c0006c8af4f8a1)
-- [ ] [<code>PreviewPopover: Preparations for GTK4 (#347)</code>](https://github.com/elementary/videos/commit/c5d3e05b6ff107b6147fea7cd5a223eac46c071f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove unused Clutter (#350)</code>](https://github.com/elementary/videos/commit/4e849165c1d0c0c8c392a1f4c673f1a92ab9f348)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#351)</code>](https://github.com/elementary/videos/commit/76de9d98f9eedd3a15e3cdb25f6ca73e3968dd94)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Metainfo: 3.0.0 release notes (#352)</code>](https://github.com/elementary/videos/commit/f4845bd215c613e2a2656d3c8a60ee9d247439fb)
-- [ ] [<code>Update screenshots (#354)</code>](https://github.com/elementary/videos/commit/13db76a818c234b8c20538d4dd2055c8bfcab962)
-- [ ] [<code>Release 3.0.0 (#353)</code>](https://github.com/elementary/videos/commit/bcabfc0c98b8815ac673aa767f09ff35f2c76cd8)
-- [ ] [<code>Meson: update to 3.0.0 (#355)</code>](https://github.com/elementary/videos/commit/388be03742a6de2689758168187d936a36377263)
-  - <sub>Tags: <code>3.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -420,19 +387,8 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.1.0 → HEAD](https://github.com/elementary/onboarding/compare/7.1.0...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
-- [ ] [<code>WelcomeView: Update description (#210)</code>](https://github.com/elementary/onboarding/commit/32727c18fc8ee4919d79472b7cdf47630bca52da)
-- [ ] [<code>Add screenshot files cleanup option to Housekeeping (#208)</code>](https://github.com/elementary/onboarding/commit/685ebd3d3fe11a71d024ff68463cda062e72e8a3)
-- [ ] [<code>StyleView: use actual background when available (#212)</code>](https://github.com/elementary/onboarding/commit/a0ee117d71ddd03d51a45f375bbe05076cbee778)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#214)</code>](https://github.com/elementary/onboarding/commit/56f90af3138ec5af93e7966c7d73aa479c671ac6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Metainfo: 7.2.0 release notes (#215)</code>](https://github.com/elementary/onboarding/commit/ec7bd66edb4cc93c3e1a4c13da68e8e3ad02ead8)
-- [ ] [<code>Release 7.2.0 (#216)</code>](https://github.com/elementary/onboarding/commit/6b24ec7083b53eb407cfe829e73124b588c38ccd)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -466,23 +422,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [7.1.1 → HEAD](https://github.com/elementary/gala/compare/7.1.1...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [7.1.2 → HEAD](https://github.com/elementary/gala/compare/7.1.2...HEAD)
 
-- [ ] [<code>Handle move-to-workspace-1-12 shortcuts directly (#1721)</code>](https://github.com/elementary/gala/commit/b94ab5e8cd4bf81aaf2a775b46ffb38f69c55ff4)
-- [ ] [<code>Fix moving maximized and fullscreen windows to new workspace on launch (#1722)</code>](https://github.com/elementary/gala/commit/d0a21e2f53d6a346eb82dfbb19a5b67427f6f2dd)
-- [ ] [<code>Add shadow to wallpaper clones while switching workspace (#1726)</code>](https://github.com/elementary/gala/commit/e119dd5f62fe978d09f185716760af4efdd56c43)
-- [ ] [<code>Update gala.metainfo.xml.in (#1729)</code>](https://github.com/elementary/gala/commit/84cb457ba30cd1bccac1a729263a563ae394d59d)
-- [ ] [<code>WindowManager: A small cleanup (#1725)</code>](https://github.com/elementary/gala/commit/6f38ee7464a9e208bb0219823dcf8ba5cdb53c9f)
-- [ ] [<code>Use dark wallpaper (#1709)</code>](https://github.com/elementary/gala/commit/0de3128cff4aa5fecd3c0dc3bf4153ca1255596d)
-- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/1a7898e8224223370e874eda80bc6029e2911866)
-- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/81ac0acec9d70446e65c067d4a10f76cdcfdbcf9)
-- [ ] [<code>Fix warnings (#1717)</code>](https://github.com/elementary/gala/commit/eef351e5dfbd19bbcdeb0932e90b5b64d98f09cf)
-- [ ] [<code>Use `Meta.Window.is_on_primary_monitor ()` (#1731)</code>](https://github.com/elementary/gala/commit/b4a6a04d7248a2742f6c1cdeb8c3ce740f850273)
-- [ ] [<code>Kill workspace switch when opening multitasking view (#1735)</code>](https://github.com/elementary/gala/commit/a0b3025f3c2aa11023ec12fedb007ed5e35baf73)
-- [ ] [<code>Update gala.metainfo.xml.in</code>](https://github.com/elementary/gala/commit/e16a0fbf8c7e48e80d764a49cc4f10b1679c78b8)
-- [ ] [<code>Release 7.1.2 (#1740)</code>](https://github.com/elementary/gala/commit/8de5df730b166b36d67c59cefc8782c4f06b3055)
-  - <sub>Tags: <code>7.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
