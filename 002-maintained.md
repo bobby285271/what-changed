@@ -483,6 +483,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Touchégg included by default with Linux Mint 21.2</code>](https://github.com/JoseExposito/touchegg/commit/9c25edb904b66cbf9e97c9f3cd5cfcd390eb1c19)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cpplint): Port cpplint to Python 3 (#629)</code>](https://github.com/JoseExposito/touchegg/commit/ffaa6748c1b5240a6cefcdf4463cd1ea70c7058c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(source): Add exception handling and override qualifiers</code>](https://github.com/JoseExposito/touchegg/commit/4b555ebf0d3ff260a58e9fc9450e637d148a7b21)
+- [ ] [<code>clang-tidy: Fix warning reported by version 16.0.6</code>](https://github.com/JoseExposito/touchegg/commit/4d57ecae088bf7714db88a6c2c2ad5326c62becd)
+- [ ] [<code>ci: Update images</code>](https://github.com/JoseExposito/touchegg/commit/310224ba81e865bd03801a469a45fe4d3e6d4bd9)
+- [ ] [<code>HACKING: cpplint.py now required Python 3</code>](https://github.com/JoseExposito/touchegg/commit/fe2922d75aba7d45ecb6a9546fdb301e9f88321a)
+- [ ] [<code>Update to v2.0.17</code>](https://github.com/JoseExposito/touchegg/commit/4df581314e49dfe78f56b6673b70f29faac7397c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
