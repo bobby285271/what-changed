@@ -208,8 +208,9 @@
 - [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
 - [ ] [<code>Add link for existing issues to the bug report template.</code>](https://github.com/linuxmint/xreader/commit/94c8e58275778449d4cb7bf89ce25db926c6a989)
 - [ ] [<code>Fix building with meson 1.2.</code>](https://github.com/linuxmint/xreader/commit/06b18a884c8cf3257ea1f053a82784da078999ed)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ev-message-area.c: Check that the GtkStockItem is initialized</code>](https://github.com/linuxmint/xreader/commit/31c9f12e8ffe59832b8d76d390638f286749012b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
