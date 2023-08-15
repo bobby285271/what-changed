@@ -99,6 +99,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix sort order after file operations (#2260)</code>](https://github.com/elementary/files/commit/82d5ae43242c02bacf517ad04a8104d42334efbd)
 - [ ] [<code>SidebarWindow: gtk4 prep (#2284)</code>](https://github.com/elementary/files/commit/5a39550dc81417870a54c8004ea66863f9ed4883)
+- [ ] [<code>Store color-tag in metadata instead of SQL database (#2273)</code>](https://github.com/elementary/files/commit/b1cecbbe39a70499b22c0f092a6e8c45c1bd25ae)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -586,6 +587,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e49a06dfaafa92b212ac2e6f87e8c2e2a4107290)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#70)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/68b0259052388d2b3d409f3e07907e40814a6307)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/aa735c8a37320a55a46e8c9781b413608fd27d25)
+- [ ] [<code>Metainfo Improvements (#71)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6156d0e1804d5c8f1d80ee93f5549bb475d520d3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.0 → HEAD](https://github.com/elementary/portals/compare/7.1.0...HEAD)
 
