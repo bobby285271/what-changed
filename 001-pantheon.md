@@ -68,6 +68,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#93)</code>](https://github.com/elementary/feedback/commit/6f2af85bd3fe9a84753c3ba45c1eefad67cef022)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Don't include apps or addons in compulsory components (#94)</code>](https://github.com/elementary/feedback/commit/597eb45b05dd0d1bf343a8b89fdca847b1538def)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
 
