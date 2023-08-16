@@ -322,6 +322,7 @@
 - [ ] [<code>Fixing cursor/selection issue when using the delete key on selected text</code>](https://github.com/phase1geo/minder/commit/f72d1c603bac1c403c94cdaac49f7b522a7a5845)
 - [ ] [<code>Fixing installation location of Minder markdown syntax/style files.</code>](https://github.com/phase1geo/minder/commit/bb95e326ecc0d14266e0535f478d9ad9cb2218f0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing more scaling issues</code>](https://github.com/phase1geo/minder/commit/d6099edd92d5e8e84d4e3f21d15451bf602d8665)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -365,6 +366,8 @@
 - [ ] [<code>README: Update installation instruction</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/301a992fa507e2f9a94b62097d65207d9934be18)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Efficiently find and match pane name (#179)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1ecb18b6dbb8a6ba42e3b637f05458ba89e94529)
+- [ ] [<code>TerminalPane: Allow font configuration</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1afaf8ef39b5e0557d3a87b6c37e7f6e44afd99e)
+- [ ] [<code>Tweaks: Remove URI of dropped pane</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/26e1d9d0c68dd2841494ad784bac61f18cf101f3)
 
 #### [planify](https://github.com/alainm23/planify): [4.1 → HEAD](https://github.com/alainm23/planify/compare/4.1...HEAD)
 
