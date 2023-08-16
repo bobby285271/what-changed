@@ -101,6 +101,7 @@
 - [ ] [<code>Fix sort order after file operations (#2260)</code>](https://github.com/elementary/files/commit/82d5ae43242c02bacf517ad04a8104d42334efbd)
 - [ ] [<code>SidebarWindow: gtk4 prep (#2284)</code>](https://github.com/elementary/files/commit/5a39550dc81417870a54c8004ea66863f9ed4883)
 - [ ] [<code>Store color-tag in metadata instead of SQL database (#2273)</code>](https://github.com/elementary/files/commit/b1cecbbe39a70499b22c0f092a6e8c45c1bd25ae)
+- [ ] [<code>Replace ScrolledWindow.add with child property (#2285)</code>](https://github.com/elementary/files/commit/ab7b832f5b67d17ebb00b1605d531a16f55fde02)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -117,6 +118,11 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#40)</code>](https://github.com/elementary/iconbrowser/commit/c5b4a232dc3ecc99e58190df4968bbf8ec611ad1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>README: build with Flatpak (#43)</code>](https://github.com/elementary/iconbrowser/commit/705f6469d99f87bedd88a5fc250e5a6a546bb897)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Flatpak: Use embeded gtksourceview from SDK instead of manual (#41)</code>](https://github.com/elementary/iconbrowser/commit/18ea6a2c1dcd34df327ab5024fd818ed3fff8c13)
+- [ ] [<code>meson: Use newer syntax (#42)</code>](https://github.com/elementary/iconbrowser/commit/806510f2e3c716bdaf264e714cd57fe208cc6fae)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -177,6 +183,7 @@
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
+- [ ] [<code>Use `_` instead of `N_` (#358)</code>](https://github.com/elementary/videos/commit/bac0f8216053d2222bb7ea4f8290a3305991b031)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -264,6 +271,7 @@
 - [ ] [<code>Behavior: move onboard to the behavior tab (#455)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/de73174ba5394abf68fdcae69d8f7038582e352f)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Shortcuts: Allow assigning PrintScreen key (#457)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ca6bddd4cf5faa4211f6c68dc33fc9d73744c031)
+- [ ] [<code>InputMethod: Fix ProgressDialog is not used (#459)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c9f3bed18fe6f46877aef9752ab9d5e2edf111ae)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
