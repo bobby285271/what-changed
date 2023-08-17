@@ -272,6 +272,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Shortcuts: Allow assigning PrintScreen key (#457)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ca6bddd4cf5faa4211f6c68dc33fc9d73744c031)
 - [ ] [<code>InputMethod: Fix ProgressDialog is not used (#459)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c9f3bed18fe6f46877aef9752ab9d5e2edf111ae)
+- [ ] [<code>InstallEngineDialog: Replace stack with Deck (#458)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/95366672e8056db574ec6a02ea28b85fbd5eee59)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
