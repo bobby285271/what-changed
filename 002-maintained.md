@@ -438,6 +438,7 @@
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.17...HEAD)
 
+- [ ] [<code>Mention PPA signing key in installation instructions (#625)</code>](https://github.com/JoseExposito/touchegg/commit/d1d36a33b14d44d9f8cf9a6c25696b9d6c7ded9f)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
