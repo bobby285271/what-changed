@@ -102,6 +102,7 @@
 - [ ] [<code>SidebarWindow: gtk4 prep (#2284)</code>](https://github.com/elementary/files/commit/5a39550dc81417870a54c8004ea66863f9ed4883)
 - [ ] [<code>Store color-tag in metadata instead of SQL database (#2273)</code>](https://github.com/elementary/files/commit/b1cecbbe39a70499b22c0f092a6e8c45c1bd25ae)
 - [ ] [<code>Replace ScrolledWindow.add with child property (#2285)</code>](https://github.com/elementary/files/commit/ab7b832f5b67d17ebb00b1605d531a16f55fde02)
+- [ ] [<code>Update metainfo with latest fixes (#2289)</code>](https://github.com/elementary/files/commit/b2873146771a3841ecf02a8307b15f2b2a10e327)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -273,6 +274,10 @@
 - [ ] [<code>Shortcuts: Allow assigning PrintScreen key (#457)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ca6bddd4cf5faa4211f6c68dc33fc9d73744c031)
 - [ ] [<code>InputMethod: Fix ProgressDialog is not used (#459)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c9f3bed18fe6f46877aef9752ab9d5e2edf111ae)
 - [ ] [<code>InstallEngineDialog: Replace stack with Deck (#458)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/95366672e8056db574ec6a02ea28b85fbd5eee59)
+- [ ] [<code>Check if `Granite.accel_to_string` returns `null` (#463)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a66bb8a88a6630e893ac016aa4ab8b94583f6d8e)
+- [ ] [<code>Layout: remove leftovers from onscreen keyboard (#461)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/45f108c8f5dfae01d84d0e3b419fa215f2c72753)
+- [ ] [<code>Add .editorconfig (#466)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2d1cc103741166e1a79f4e0d15b56be3d7cae372)
+- [ ] [<code>Drop `Pantheon` namespace (#462)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a6230d73f8be7c0e4796bfb44b3ad065860e6a0c)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -285,6 +290,7 @@
 - [ ] [<code>actions/checkout@v3 (#209)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/74d317e70020a1e76bc863996dbc8c490fb28d09)
 - [ ] [<code>Switch to GHCR containers (#211)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/cf44b776ab1098b990a365cd45c1043ac6da2d68)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef4947456abb7441761bcc715f7a8f7c72d76d9a)
+- [ ] [<code>Add .editorconfig (#217)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f8f7dd6fab8352cdb3ea932ddcf3da000ce301b4)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
@@ -334,6 +340,7 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#230)</code>](https://github.com/elementary/switchboard-plug-power/commit/a4bc6a2ac8fff73fd326af236e077cfad03c2ff9)
 - [ ] [<code>Backport changes from Gtk4 branch (#236)</code>](https://github.com/elementary/switchboard-plug-power/commit/742b95aea08aec9c2984a5cb1bf38b71f3a1310d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add .editorconfig (#238)</code>](https://github.com/elementary/switchboard-plug-power/commit/a862cdf24ec0eb7bf53f7108ce835608d83a2d0c)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -341,6 +348,7 @@
 - [ ] [<code>actions/checkout@v3 (#185)</code>](https://github.com/elementary/switchboard-plug-printers/commit/31a0fc48608c19db9ab364460812ef55dfcda2a3)
 - [ ] [<code>Switch to GHCR containers (#186)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ce10676f9bf2727d39d0776f61f77500ef92a0d0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-printers/commit/83e384d0735bf223ef7bfe9810b2d5dc64d9f34c)
+- [ ] [<code>Add .editorconfig (#189)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ef974344934b2714ac88c2e274bee6f099a39eac)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -350,6 +358,7 @@
 - [ ] [<code>actions/checkout@v3 (#58)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/801a02b50e895437f80c4336281424014382dd1b)
 - [ ] [<code>Switch to GHCR containers (#62)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/87589a725e0faf3f3a47578a3bb99aa61ab3318a)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/c19a326e38dccbaa6b69a8ecc4fb46046a481582)
+- [ ] [<code>Add .editorconfig (#63)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0545f58816786363ae30ab77ea5c5e168bf570af)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -654,6 +663,7 @@
 - [ ] [<code>Remove old distinst variant</code>](https://github.com/elementary/os/commit/246d6a5e8f93d11185f75439a6ecbbfdc123d0b4)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add open-vm-tools to pool (#681)</code>](https://github.com/elementary/os/commit/47f3f65e3a838d742979376fe88585627432c0e4)
+- [ ] [<code>Install kernel headers by default (#684)</code>](https://github.com/elementary/os/commit/09569bdb00c35423e891e48ea459564a5337c275)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
