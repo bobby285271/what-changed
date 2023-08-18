@@ -161,6 +161,7 @@
 - [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/nemo/commit/480cdd58ee3e86ac8a2558e5b8b2ee3e51cb3938)
 - [ ] [<code>nemo-window-slot.c: Disable drop bar, until circular reference can</code>](https://github.com/linuxmint/nemo/commit/1b277e7ab63162a9d015d8c8d6c6ce169cf3c375)
 - [ ] [<code>nemo-window.c: Don't update saved window state if the window is</code>](https://github.com/linuxmint/nemo/commit/88da3336946922b3f433871fdbda595945b97032)
+- [ ] [<code>Fix trying the same filename when moving a file with duplicate name (#3299)</code>](https://github.com/linuxmint/nemo/commit/251dec89bca9f3ede75e5585eb59925a9ac49fab)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
@@ -252,7 +253,9 @@
 - [ ] [<code>docs/man/meson.build: Use -N for help2man to avoid texinfo section (#217)</code>](https://github.com/linuxmint/timeshift/commit/02697234b51e342abeef3ba61d76b1973f357efa)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add the installation/removal instructions for the timeshift Arch package (#220)</code>](https://github.com/linuxmint/timeshift/commit/37c50084f4eb9acd081187593f20f3718e818cdb)
+- [ ] [<code>docs/development.md: fix meson setup command (#224)</code>](https://github.com/linuxmint/timeshift/commit/8607c9dc8f0121c6a86759a6b626775c5b63b787)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.3 → HEAD](https://github.com/linuxmint/xed/compare/3.4.3...HEAD)
 
