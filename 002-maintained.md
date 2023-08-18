@@ -323,6 +323,7 @@
 - [ ] [<code>Fixing installation location of Minder markdown syntax/style files.</code>](https://github.com/phase1geo/minder/commit/bb95e326ecc0d14266e0535f478d9ad9cb2218f0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing more scaling issues</code>](https://github.com/phase1geo/minder/commit/d6099edd92d5e8e84d4e3f21d15451bf602d8665)
+- [ ] [<code>Fixing issues with node overlapping.</code>](https://github.com/phase1geo/minder/commit/645be3ca8c036395cf45fbc45acc26e574a69084)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
