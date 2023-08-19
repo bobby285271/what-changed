@@ -69,6 +69,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Don't include apps or addons in compulsory components (#94)</code>](https://github.com/elementary/feedback/commit/597eb45b05dd0d1bf343a8b89fdca847b1538def)
+- [ ] [<code>Metainfo: add 7.0.1 release notes (#96)</code>](https://github.com/elementary/feedback/commit/7e7a9f6f882c77dab9b2c6252754f1ae853e777e)
+- [ ] [<code>Add title search (#77)</code>](https://github.com/elementary/feedback/commit/489996beb4a8eeeda1d59b4e3c69bf0d91ff4224)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
 
@@ -278,6 +280,7 @@
 - [ ] [<code>Layout: remove leftovers from onscreen keyboard (#461)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/45f108c8f5dfae01d84d0e3b419fa215f2c72753)
 - [ ] [<code>Add .editorconfig (#466)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2d1cc103741166e1a79f4e0d15b56be3d7cae372)
 - [ ] [<code>Drop `Pantheon` namespace (#462)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a6230d73f8be7c0e4796bfb44b3ad065860e6a0c)
+- [ ] [<code>Add `switch-group` shortcut (#464)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0630029f58d9a50d905332a77fd78a538f19e6ef)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -404,6 +407,9 @@
 - [ ] [<code>do not set a default dark wallpaper (#283)</code>](https://github.com/elementary/default-settings/commit/37ef6062a8651875dd9d927c5730155c8b26e953)
   - <sub>Files: <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Meson: use modern features and fix deprecations (#285)</code>](https://github.com/elementary/default-settings/commit/59c8abac17731343f69201e2dcdf4c5d1d17e1da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -584,6 +590,10 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#214)</code>](https://github.com/elementary/notifications/commit/b46c689b9c84ba44083b4e6957262f57b4cff233)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>FdoServer: drop bubble reference when `destroy()` is emitted (#213)</code>](https://github.com/elementary/notifications/commit/e8d059253be255d2f3427ed2f5f02b46c16895c1)
+- [ ] [<code>Metainfo Improvements (#215)</code>](https://github.com/elementary/notifications/commit/5c1434dcfb80350430a4b4e35ed6293a8c7908d6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add 7.0.1 release notes (#216)</code>](https://github.com/elementary/notifications/commit/3cb7f876d1aad7d8fbc34978d3637c8c50442f26)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
@@ -612,6 +622,7 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.0 → HEAD](https://github.com/elementary/portals/compare/7.1.0...HEAD)
 
 - [ ] [<code>Add background portal file to POTFILES (#88)</code>](https://github.com/elementary/portals/commit/5bc15105da24f7934431c0feabdf917c22fb92c5)
+- [ ] [<code>Update portals.metainfo.xml.in (#90)</code>](https://github.com/elementary/portals/commit/fcee36aa6ec7fe0e281a232a26488cb89a504642)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
