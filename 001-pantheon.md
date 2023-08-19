@@ -71,6 +71,7 @@
 - [ ] [<code>Don't include apps or addons in compulsory components (#94)</code>](https://github.com/elementary/feedback/commit/597eb45b05dd0d1bf343a8b89fdca847b1538def)
 - [ ] [<code>Metainfo: add 7.0.1 release notes (#96)</code>](https://github.com/elementary/feedback/commit/7e7a9f6f882c77dab9b2c6252754f1ae853e777e)
 - [ ] [<code>Add title search (#77)</code>](https://github.com/elementary/feedback/commit/489996beb4a8eeeda1d59b4e3c69bf0d91ff4224)
+- [ ] [<code>Update screenshots (#98)</code>](https://github.com/elementary/feedback/commit/3127f91b5d5a0c06d716238d2d97972a78697b4c)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
 
@@ -410,6 +411,9 @@
 - [ ] [<code>Meson: use modern features and fix deprecations (#285)</code>](https://github.com/elementary/default-settings/commit/59c8abac17731343f69201e2dcdf4c5d1d17e1da)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Release 7.1.0 (#284)</code>](https://github.com/elementary/default-settings/commit/7a2ac8a9f2ba699f383d8d3d423151b1a83e33b4)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
