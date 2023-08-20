@@ -9,6 +9,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#2065)</code>](https://github.com/elementary/appcenter/commit/68426271d0b3cb2b63e6fb0a301cd8e96e14dc77)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix flickering on AppInfoView when getting install size (#2067)</code>](https://github.com/elementary/appcenter/commit/6b1785d51a953ea398fad6ec7a9aa4325c2db33b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -397,23 +398,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wallpapers/commit/4aeefdb177feefd6a00938a05df13c10a832d086)
 ## desktop
 
-#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.0.2 → HEAD](https://github.com/elementary/default-settings/compare/7.0.2...HEAD)
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
 
-- [ ] [<code>deb-packaging: Divert printer test page instead of replacing whole package</code>](https://github.com/elementary/default-settings/commit/8058beb5e85d1fe8d15f50e805c74b2480f9fe73)
-- [ ] [<code>deb-packaging: Divert printer test page instead of replacing whole package</code>](https://github.com/elementary/default-settings/commit/c35acf91a77eb85a506771fbc92a387ba3f873e2)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Overrides: Set dark wallpaper (#282)</code>](https://github.com/elementary/default-settings/commit/881f84b8316e549ab627b7ac9acf352e0346a1a4)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>do not set a default dark wallpaper (#283)</code>](https://github.com/elementary/default-settings/commit/37ef6062a8651875dd9d927c5730155c8b26e953)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Meson: use modern features and fix deprecations (#285)</code>](https://github.com/elementary/default-settings/commit/59c8abac17731343f69201e2dcdf4c5d1d17e1da)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Release 7.1.0 (#284)</code>](https://github.com/elementary/default-settings/commit/7a2ac8a9f2ba699f383d8d3d423151b1a83e33b4)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
