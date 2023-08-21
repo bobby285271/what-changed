@@ -10,6 +10,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix flickering on AppInfoView when getting install size (#2067)</code>](https://github.com/elementary/appcenter/commit/6b1785d51a953ea398fad6ec7a9aa4325c2db33b)
+- [ ] [<code>AbstractAppContainer: Gtk4 prep (#2072)</code>](https://github.com/elementary/appcenter/commit/99d6e563bf706cadce1ce310604711db798bec0a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Homepage: Gtk4 prep (#2071)</code>](https://github.com/elementary/appcenter/commit/faf76e8fc786ad150f9c4fa51fda9f41de976b75)
+- [ ] [<code>AppInfoView: gtk4 prep (#2069)</code>](https://github.com/elementary/appcenter/commit/495d90cd9011356a1ed22b1fa18874d9031a1211)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
