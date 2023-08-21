@@ -324,6 +324,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing more scaling issues</code>](https://github.com/phase1geo/minder/commit/d6099edd92d5e8e84d4e3f21d15451bf602d8665)
 - [ ] [<code>Fixing issues with node overlapping.</code>](https://github.com/phase1geo/minder/commit/645be3ca8c036395cf45fbc45acc26e574a69084)
+- [ ] [<code>chore: Refactor IMContext in DrawArea.vala</code>](https://github.com/phase1geo/minder/commit/14ff4fbce111c7e78921f57b67ff2d83dd5449e9)
+- [ ] [<code>Fixing several issues with scaling.</code>](https://github.com/phase1geo/minder/commit/3f8d5eeeeba8ab9b9802e822dfdb1a84e9e57cd4)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/27e4df1a55999b3533dbf38e099c299a81f408a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #565 from aeghn/master</code>](https://github.com/phase1geo/minder/commit/b1e0eef68b5a43e4b5eb73ccc49ac648b9e3057a)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/102466cb176e0dbcc14f6d79df07a5d7d91d5f69)
+- [ ] [<code>Removing treenode highlight.</code>](https://github.com/phase1geo/minder/commit/381e2f69d93879e7a6c3d11b7ff97a18fd1181af)
+  - <sub>Tags: <code>1.15.3</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
