@@ -229,13 +229,8 @@
 - [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/ffc02fc8d78302db1d19f35a862c95b56fc25241)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.5 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.5...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.6...HEAD)
 
-- [ ] [<code>debian/control: add libmpv2 (#287)</code>](https://github.com/linuxmint/hypnotix/commit/463ed3a6a7b5a81aa46dcab790d772076329282e)
-- [ ] [<code>debian/control: recommend yt-dlp (#288)</code>](https://github.com/linuxmint/hypnotix/commit/61ff084d7503eafb06070e90f03fa10eaf3b3587)
-- [ ] [<code>fix: ensure word is in the list (#290)</code>](https://github.com/linuxmint/hypnotix/commit/b3eb36f53aebd22d359c012036392c142fe63040)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
