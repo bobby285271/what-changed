@@ -308,6 +308,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>3.2.1 release notes (#469)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b103c62d50406338b72d59417f91e6e3fd813805)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Release 3.2.1 (#470)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ee3f3e63e38bd3ece9789b69353592be21defcfd)
+  - <sub>Tags: <code>3.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -643,6 +646,9 @@
 - [ ] [<code>Add background portal file to POTFILES (#88)</code>](https://github.com/elementary/portals/commit/5bc15105da24f7934431c0feabdf917c22fb92c5)
 - [ ] [<code>Update portals.metainfo.xml.in (#90)</code>](https://github.com/elementary/portals/commit/fcee36aa6ec7fe0e281a232a26488cb89a504642)
 - [ ] [<code>Respect user autostart options (#89)</code>](https://github.com/elementary/portals/commit/56423833b9f03f5b3404009632901e56478efbf2)
+- [ ] [<code>Release 7.1.1 (#91)</code>](https://github.com/elementary/portals/commit/d14e933868292ff3e8e136f86e12bff87abb0686)
+  - <sub>Tags: <code>7.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
