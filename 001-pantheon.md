@@ -77,6 +77,9 @@
 - [ ] [<code>Metainfo: add 7.0.1 release notes (#96)</code>](https://github.com/elementary/feedback/commit/7e7a9f6f882c77dab9b2c6252754f1ae853e777e)
 - [ ] [<code>Add title search (#77)</code>](https://github.com/elementary/feedback/commit/489996beb4a8eeeda1d59b4e3c69bf0d91ff4224)
 - [ ] [<code>Update screenshots (#98)</code>](https://github.com/elementary/feedback/commit/3127f91b5d5a0c06d716238d2d97972a78697b4c)
+- [ ] [<code>Release 7.1.0 (#97)</code>](https://github.com/elementary/feedback/commit/5c0fb42818d9639c93de34f82582fbac5268c593)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
 
@@ -164,6 +167,16 @@
 - [ ] [<code>docs: Declare libhandy-1 dependency (#743)</code>](https://github.com/elementary/photos/commit/c48f49869bbf44aa37e64c0c1e25aff887783a02)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove the publishing-extras plugins</code>](https://github.com/elementary/photos/commit/d7a8265ecb562e439d003b61b0823de8348fb10d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove the publishing plugins</code>](https://github.com/elementary/photos/commit/d8e13e8e803ed7ab1bd23527866567d998744f57)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove the publishing dependencies</code>](https://github.com/elementary/photos/commit/075f983a65e9c6d4e80ee07f0c05309badef526a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson: Allow to use geocode-glib-2.0</code>](https://github.com/elementary/photos/commit/ea11cf23db6945df6cc3495fd698456054389371)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -193,6 +206,10 @@
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
 - [ ] [<code>Use `_` instead of `N_` (#358)</code>](https://github.com/elementary/videos/commit/bac0f8216053d2222bb7ea4f8290a3305991b031)
+- [ ] [<code>Gtk4 (#333)</code>](https://github.com/elementary/videos/commit/6b1b4a9016d49ea5be74b8d5308b29a392d0f02c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>CI: master → main (#360)</code>](https://github.com/elementary/videos/commit/eda225b93156805e07c0d0c68b99b3dc4e313932)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -287,6 +304,10 @@
 - [ ] [<code>Add .editorconfig (#466)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2d1cc103741166e1a79f4e0d15b56be3d7cae372)
 - [ ] [<code>Drop `Pantheon` namespace (#462)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a6230d73f8be7c0e4796bfb44b3ad065860e6a0c)
 - [ ] [<code>Add `switch-group` shortcut (#464)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0630029f58d9a50d905332a77fd78a538f19e6ef)
+- [ ] [<code>Work around bug with duplicating input methods (#468)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bd7adee1d88251a8f0c64a29de4d7ac8491bec0a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>3.2.1 release notes (#469)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/b103c62d50406338b72d59417f91e6e3fd813805)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -588,6 +609,10 @@
 - [ ] [<code>Metainfo Improvements (#215)</code>](https://github.com/elementary/notifications/commit/5c1434dcfb80350430a4b4e35ed6293a8c7908d6)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add 7.0.1 release notes (#216)</code>](https://github.com/elementary/notifications/commit/3cb7f876d1aad7d8fbc34978d3637c8c50442f26)
+- [ ] [<code>Don't expire notifications when the timeout expires (#211)</code>](https://github.com/elementary/notifications/commit/3ff171b3f79fdbe3c3fa125ce1cba28b512a5f76)
+- [ ] [<code>Release 7.0.1 (#217)</code>](https://github.com/elementary/notifications/commit/2011607a1e9c485bd747a653ff3b4f4b362216ce)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
@@ -617,6 +642,7 @@
 
 - [ ] [<code>Add background portal file to POTFILES (#88)</code>](https://github.com/elementary/portals/commit/5bc15105da24f7934431c0feabdf917c22fb92c5)
 - [ ] [<code>Update portals.metainfo.xml.in (#90)</code>](https://github.com/elementary/portals/commit/fcee36aa6ec7fe0e281a232a26488cb89a504642)
+- [ ] [<code>Respect user autostart options (#89)</code>](https://github.com/elementary/portals/commit/56423833b9f03f5b3404009632901e56478efbf2)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
