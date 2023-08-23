@@ -332,11 +332,20 @@
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/102466cb176e0dbcc14f6d79df07a5d7d91d5f69)
 - [ ] [<code>Removing treenode highlight.</code>](https://github.com/phase1geo/minder/commit/381e2f69d93879e7a6c3d11b7ff97a18fd1181af)
   - <sub>Tags: <code>1.15.3</code></sub>
+- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/7f394959d446c228708a3ae9461a45b57dc3b4af)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/14e662f9ac7d8cddfe43819d458a7381ac8d6b23)
+- [ ] [<code>Merge pull request #567 from albanobattistella/master-1</code>](https://github.com/phase1geo/minder/commit/c808eaa5fa4bcc10a50912ea146d83b37ed38325)
+- [ ] [<code>Merge pull request #566 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/d49ec2a936cd8f3f80e2f9b24738391ff06f3b1e)
+- [ ] [<code>Fixing compile errors found in Fedora environment.</code>](https://github.com/phase1geo/minder/commit/eaa2630afea73e60f2a38361f1048da509a14f44)
+- [ ] [<code>Preparing codebase for 1.15.4 release.</code>](https://github.com/phase1geo/minder/commit/7cd05c00926cf53b99dac0a0b4de4ea2764cdfb4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
 - [ ] [<code>add libflatpak-dev to CI</code>](https://github.com/stsdc/monitor/commit/24b7352b30c1a9b657f3f210f0f318825fc716a3)
   - <sub>Tags: <code>0.17.0-1</code></sub>
+- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/afbe465ea4dc67185f3965ee93c8d87a7aaadb71)
+- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/fd369e08c2820adc2d736943d6a0d5821a3352e6)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
