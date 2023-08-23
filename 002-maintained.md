@@ -339,6 +339,14 @@
 - [ ] [<code>Fixing compile errors found in Fedora environment.</code>](https://github.com/phase1geo/minder/commit/eaa2630afea73e60f2a38361f1048da509a14f44)
 - [ ] [<code>Preparing codebase for 1.15.4 release.</code>](https://github.com/phase1geo/minder/commit/7cd05c00926cf53b99dac0a0b4de4ea2764cdfb4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleaning up appdata.xml.in issues.</code>](https://github.com/phase1geo/minder/commit/4b4cbe131a7049a4bb41563cee5269d0888d127e)
+  - <sub>Tags: <code>1.15.4</code></sub>
+- [ ] [<code>Fixing Flatpak issues.</code>](https://github.com/phase1geo/minder/commit/2d5edabd9c70652a3984065ea894d32030ef0134)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Updating files for 1.15.5 release.</code>](https://github.com/phase1geo/minder/commit/61869e5a9c874eaff8cfc3a549bb53ce9d79667f)
+  - <sub>Tags: <code>1.15.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
