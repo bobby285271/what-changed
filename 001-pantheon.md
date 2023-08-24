@@ -15,6 +15,8 @@
 - [ ] [<code>Homepage: Gtk4 prep (#2071)</code>](https://github.com/elementary/appcenter/commit/faf76e8fc786ad150f9c4fa51fda9f41de976b75)
 - [ ] [<code>AppInfoView: gtk4 prep (#2069)</code>](https://github.com/elementary/appcenter/commit/495d90cd9011356a1ed22b1fa18874d9031a1211)
 - [ ] [<code>CategoryView: Gtk4 prep (#2073)</code>](https://github.com/elementary/appcenter/commit/297154763b9552e195c61f2caa2bb2d5d8b6ed05)
+- [ ] [<code>SearchView: bind liststore to listbox (#2076)</code>](https://github.com/elementary/appcenter/commit/651ace075554d4445e39ef55c70f7f4ee59a0fa4)
+- [ ] [<code>CardNumberEntry: gtk4 prep (#2074)</code>](https://github.com/elementary/appcenter/commit/e1471bcf5301aa0a82f8d86ceadad1db689e4ccd)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -102,6 +104,7 @@
 - [ ] [<code>Release version 6.5.0 (#2290)</code>](https://github.com/elementary/files/commit/2a924caad708d76556dc4b3296028fbbb43d34ab)
   - <sub>Tags: <code>6.5.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Sidebar Gtk4 Prep (#2287)</code>](https://github.com/elementary/files/commit/580aefc1df6c6ac1f8444ccdf337aabe9211f89b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
