@@ -468,6 +468,10 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
+- [ ] [<code>Adds JSON output mode (#170)</code>](https://github.com/vala-lang/vala-lint/commit/b4f7b455a573f97d008f1eecc32e6663ceaa990b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix error when providing one option and no path (#172)</code>](https://github.com/vala-lang/vala-lint/commit/c1695f1f6c78646b1515090ca1aa6f8d1dc6960b)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
