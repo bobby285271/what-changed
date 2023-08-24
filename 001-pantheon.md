@@ -17,6 +17,7 @@
 - [ ] [<code>CategoryView: Gtk4 prep (#2073)</code>](https://github.com/elementary/appcenter/commit/297154763b9552e195c61f2caa2bb2d5d8b6ed05)
 - [ ] [<code>SearchView: bind liststore to listbox (#2076)</code>](https://github.com/elementary/appcenter/commit/651ace075554d4445e39ef55c70f7f4ee59a0fa4)
 - [ ] [<code>CardNumberEntry: gtk4 prep (#2074)</code>](https://github.com/elementary/appcenter/commit/e1471bcf5301aa0a82f8d86ceadad1db689e4ccd)
+- [ ] [<code>Resource: add web browser icon (#2077)</code>](https://github.com/elementary/appcenter/commit/a6d7e8d325b8492dd4d873eb6a7afd2441c9d5db)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
