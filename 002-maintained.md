@@ -347,6 +347,7 @@
 - [ ] [<code>Updating files for 1.15.5 release.</code>](https://github.com/phase1geo/minder/commit/61869e5a9c874eaff8cfc3a549bb53ce9d79667f)
   - <sub>Tags: <code>1.15.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix application crash issue</code>](https://github.com/phase1geo/minder/commit/025cf5b36641a95e6133d6e8a04c72c5c9c8099d)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -472,6 +473,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix error when providing one option and no path (#172)</code>](https://github.com/vala-lang/vala-lint/commit/c1695f1f6c78646b1515090ca1aa6f8d1dc6960b)
+- [ ] [<code>Docker: Add libjson-glib to the containers</code>](https://github.com/vala-lang/vala-lint/commit/6c4eda0ccc040eb950eedc532607903cc7f9e2b7)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
