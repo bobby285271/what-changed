@@ -18,6 +18,7 @@
 - [ ] [<code>SearchView: bind liststore to listbox (#2076)</code>](https://github.com/elementary/appcenter/commit/651ace075554d4445e39ef55c70f7f4ee59a0fa4)
 - [ ] [<code>CardNumberEntry: gtk4 prep (#2074)</code>](https://github.com/elementary/appcenter/commit/e1471bcf5301aa0a82f8d86ceadad1db689e4ccd)
 - [ ] [<code>Resource: add web browser icon (#2077)</code>](https://github.com/elementary/appcenter/commit/a6d7e8d325b8492dd4d873eb6a7afd2441c9d5db)
+- [ ] [<code>StripeDialog: Gtk4 prep (#2068)</code>](https://github.com/elementary/appcenter/commit/7a18db74a7a269e42f594583736ef77a84eafdab)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -106,6 +107,8 @@
   - <sub>Tags: <code>6.5.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Sidebar Gtk4 Prep (#2287)</code>](https://github.com/elementary/files/commit/580aefc1df6c6ac1f8444ccdf337aabe9211f89b)
+- [ ] [<code>meson: Don't run gtk-update-icon-cache (#2294)</code>](https://github.com/elementary/files/commit/758ece9fb29eb4a25f47065710dad4ac547ca2ce)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -127,6 +130,8 @@
 - [ ] [<code>Flatpak: Use embeded gtksourceview from SDK instead of manual (#41)</code>](https://github.com/elementary/iconbrowser/commit/18ea6a2c1dcd34df327ab5024fd818ed3fff8c13)
 - [ ] [<code>meson: Use newer syntax (#42)</code>](https://github.com/elementary/iconbrowser/commit/806510f2e3c716bdaf264e714cd57fe208cc6fae)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update CSS for latest Granite (#44)</code>](https://github.com/elementary/iconbrowser/commit/68e3a1d1fde4da6fed447822d62e7cbfcefb6d88)
+- [ ] [<code>AppData: Add 2.1.2 release notes (#45)</code>](https://github.com/elementary/iconbrowser/commit/c0f8f28d93ff682bbbb413bcd3ea4dc09aaaa434)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -202,6 +207,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CI: master → main (#360)</code>](https://github.com/elementary/videos/commit/eda225b93156805e07c0d0c68b99b3dc4e313932)
+- [ ] [<code>Remove automatic fullscreen (#361)</code>](https://github.com/elementary/videos/commit/001c0bc9b284b28cfeb0cdbf9d14b80f239c7aa5)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
