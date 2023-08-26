@@ -350,6 +350,11 @@
 - [ ] [<code>Fix application crash issue</code>](https://github.com/phase1geo/minder/commit/025cf5b36641a95e6133d6e8a04c72c5c9c8099d)
 - [ ] [<code>Adding auto-adjusting bottom margin in quick entry.</code>](https://github.com/phase1geo/minder/commit/a6efab65ad94607adcdfd03ff00b902f98eea52a)
 - [ ] [<code>Fixing middle mouse drag pan behavior.</code>](https://github.com/phase1geo/minder/commit/28afaf6b0c01c3f2c01da5d9d9bc8af3e93eea1e)
+- [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/3f9131fbf89cb5b4cb3d3f453c5cd8d90988d880)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating for 1.15.6 release.</code>](https://github.com/phase1geo/minder/commit/bf1920f3c38706b99dc184b50f31d1171503e1ad)
+  - <sub>Tags: <code>1.15.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
