@@ -19,6 +19,8 @@
 - [ ] [<code>CardNumberEntry: gtk4 prep (#2074)</code>](https://github.com/elementary/appcenter/commit/e1471bcf5301aa0a82f8d86ceadad1db689e4ccd)
 - [ ] [<code>Resource: add web browser icon (#2077)</code>](https://github.com/elementary/appcenter/commit/a6d7e8d325b8492dd4d873eb6a7afd2441c9d5db)
 - [ ] [<code>StripeDialog: Gtk4 prep (#2068)</code>](https://github.com/elementary/appcenter/commit/7a18db74a7a269e42f594583736ef77a84eafdab)
+- [ ] [<code>MainWindow: gtk4 prep (#2070)</code>](https://github.com/elementary/appcenter/commit/20d725ce0a4aecedd0fefbbffe2ce3de9fa8d645)
+- [ ] [<code>Application: Set allow_replacement flag (#2075)</code>](https://github.com/elementary/appcenter/commit/d9c74877697a377860964aaab55fb1839a0d7a4d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -69,43 +71,8 @@
 
 - [ ] [<code>MainWindow: Fix change search terms message never shown (#99)</code>](https://github.com/elementary/feedback/commit/49fa2864e4ce799356bfdd12814518ebee133933)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.4.1 → HEAD](https://github.com/elementary/files/compare/6.4.1...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.0 → HEAD](https://github.com/elementary/files/compare/6.5.0...HEAD)
 
-- [ ] [<code>Create AppMenu class (#2242)</code>](https://github.com/elementary/files/commit/be1f4f82f70031475719b49cff66371c88f7d4da)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use GLib.Action for back/forward (#2243)</code>](https://github.com/elementary/files/commit/cac3c744b3237431742a9f76f73f82e54ed5bb0d)
-- [ ] [<code>LocationBar: use refresh action (#2244)</code>](https://github.com/elementary/files/commit/e7d5d2d61693f6d876fd534f547ef83f60aa4784)
-- [ ] [<code>Browser: remove unused Gtk.Menu (#2245)</code>](https://github.com/elementary/files/commit/903fa0cb1a65f16442016df4ecb045c68781d5bc)
-- [ ] [<code>VolumePropertiesWindow: minor Gtk4 prep (#2246)</code>](https://github.com/elementary/files/commit/f0aab0931dc90a3d2a5d43f96f4897013f7074bd)
-- [ ] [<code>Window: inline namespace (#2247)</code>](https://github.com/elementary/files/commit/2702c4c6760ebc0b65a4834470c60fcbc21f5fe3)
-  - <sub>Keywords: <code>commandline</code></sub>
-- [ ] [<code>Revealer.add → Revealer.child (#2249)</code>](https://github.com/elementary/files/commit/78c55c88d2fef6a3a8fe122547c0a48a45779a18)
-- [ ] [<code>AbstractPropertiesDialog: Gtk4 prep (#2250)</code>](https://github.com/elementary/files/commit/8d234e5760ea20a2a511865ad3d3272750977726)
-- [ ] [<code>Window: don't get position (#2251)</code>](https://github.com/elementary/files/commit/8407d6ae580d8e2bf2193bdf3bf4cfe41f791f2f)
-- [ ] [<code>Window: remove broken key events (#2252)</code>](https://github.com/elementary/files/commit/4b24a3341b27bc05eb04924207e8e1c9452c15a9)
-- [ ] [<code>PropertiesWindow: Gtk4 prep (#2254)</code>](https://github.com/elementary/files/commit/60a250eb6f069f9f540946c52aefe91b2241cbd3)
-- [ ] [<code>Window: only construction args in Object (#2255)</code>](https://github.com/elementary/files/commit/66f302083e0a0423073356c111018403c238d519)
-- [ ] [<code>Move HeaderBar into Window (#2233)</code>](https://github.com/elementary/files/commit/5ef25a928687cc3594e66977b19e1147cb9bf52f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use generic helpers for obtaining file attributes (#2257)</code>](https://github.com/elementary/files/commit/7bd542fa0a646b5cb0972f5575c56a9ee4d9dce7)
-- [ ] [<code>Window: DynamicNotebook → Hdy.TabBar (#2256)</code>](https://github.com/elementary/files/commit/e5fc01c6733faaceef2086d198e52acae7b21094)
-- [ ] [<code>Fix restoring focused tab position (#2266)</code>](https://github.com/elementary/files/commit/44138ea81be369217333cdc4efc8813111a6dea5)
-- [ ] [<code>Always restore tabs when settings allow, save tabs from last window closed. (#2272)</code>](https://github.com/elementary/files/commit/0207650b6833082c417d6b3d26d056232f96d722)
-- [ ] [<code>Metainfo: start 6.5.0 release notes (#2275)</code>](https://github.com/elementary/files/commit/7f8c81163aaf2eb15b9f668aab8869d7cec9ec7b)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#2276)</code>](https://github.com/elementary/files/commit/a417af541fcc10e5a79710eb7a0bcca9b9c837af)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Meson: update icon and desktop in postinstall (#2277)</code>](https://github.com/elementary/files/commit/4bdfa87ed479629c7772446777413005b1cc8e6c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix sort order after file operations (#2260)</code>](https://github.com/elementary/files/commit/82d5ae43242c02bacf517ad04a8104d42334efbd)
-- [ ] [<code>SidebarWindow: gtk4 prep (#2284)</code>](https://github.com/elementary/files/commit/5a39550dc81417870a54c8004ea66863f9ed4883)
-- [ ] [<code>Store color-tag in metadata instead of SQL database (#2273)</code>](https://github.com/elementary/files/commit/b1cecbbe39a70499b22c0f092a6e8c45c1bd25ae)
-- [ ] [<code>Replace ScrolledWindow.add with child property (#2285)</code>](https://github.com/elementary/files/commit/ab7b832f5b67d17ebb00b1605d531a16f55fde02)
-- [ ] [<code>Update metainfo with latest fixes (#2289)</code>](https://github.com/elementary/files/commit/b2873146771a3841ecf02a8307b15f2b2a10e327)
-- [ ] [<code>Actions: master → main (#2224)</code>](https://github.com/elementary/files/commit/0cab03c6551dab778b340f2701916ed5ae5fb7d6)
-- [ ] [<code>Release version 6.5.0 (#2290)</code>](https://github.com/elementary/files/commit/2a924caad708d76556dc4b3296028fbbb43d34ab)
-  - <sub>Tags: <code>6.5.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Sidebar Gtk4 Prep (#2287)</code>](https://github.com/elementary/files/commit/580aefc1df6c6ac1f8444ccdf337aabe9211f89b)
 - [ ] [<code>meson: Don't run gtk-update-icon-cache (#2294)</code>](https://github.com/elementary/files/commit/758ece9fb29eb4a25f47065710dad4ac547ca2ce)
   - <sub>Files: <code>meson.build</code></sub>
@@ -208,6 +175,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CI: master → main (#360)</code>](https://github.com/elementary/videos/commit/eda225b93156805e07c0d0c68b99b3dc4e313932)
 - [ ] [<code>Remove automatic fullscreen (#361)</code>](https://github.com/elementary/videos/commit/001c0bc9b284b28cfeb0cdbf9d14b80f239c7aa5)
+- [ ] [<code>Move play queue to playback manager (#366)</code>](https://github.com/elementary/videos/commit/d6af64fee6457d15b3e689086a9abcb7da48c418)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -256,6 +225,8 @@
 
 - [ ] [<code>AppChooser: Make Cancel button translatable (#205)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f1cd5c264d2303cf82019ce8eeeacfb39928d790)
 - [ ] [<code>Permissions: Make applist searchable (#206)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b773b5ab4bad8f904c2bece028ced5f49ddbbce2)
+- [ ] [<code>DefaultPlug: revert audio content type (#207)</code>](https://github.com/elementary/switchboard-plug-applications/commit/1a78220f2bba90c47029011e81db5343a3c5a839)
+- [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/673a6c600dce100727aefda04b54fccc840a1fca)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -481,6 +452,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>PanelWindow: animate in with Gtk.Revealer (#491)</code>](https://github.com/elementary/wingpanel/commit/483f01dd9607578493c89802dc4b5f6b26f0a064)
+- [ ] [<code>3.0.4 release notes (#494)</code>](https://github.com/elementary/wingpanel/commit/0e20e054fb5196445c3128e71da303a21282fc00)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
