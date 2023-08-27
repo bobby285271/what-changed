@@ -518,6 +518,9 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#248)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/a903bf9b6012f8703aef9d2642bf3f896cb67fd4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Release 6.2.1 (#251)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/59a227ff73967d55f2f6117f0568c0851dbd7636)
+  - <sub>Tags: <code>6.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
