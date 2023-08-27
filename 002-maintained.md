@@ -289,6 +289,8 @@
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/378b24aae15be5f988d709719df5b1bf8fc7f4c7)
+- [ ] [<code>Merge pull request #568 from albanobattistella/patch-24</code>](https://github.com/phase1geo/minder/commit/3a3513917c8ff226d7347e1b27e62b1ed4a5f2ac)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -337,21 +339,8 @@
 - [ ] [<code>TerminalPane: Allow font configuration</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1afaf8ef39b5e0557d3a87b6c37e7f6e44afd99e)
 - [ ] [<code>Tweaks: Remove URI of dropped pane</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/26e1d9d0c68dd2841494ad784bac61f18cf101f3)
 
-#### [planify](https://github.com/alainm23/planify): [4.1 → HEAD](https://github.com/alainm23/planify/compare/4.1...HEAD)
+#### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/889e5964cabe7151552d22e27780d099656136e9)
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/3b9bccfefba20397c30245b06f79268b940b4280)
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/ba09b0a2aa18e406a6a1ecd51a9b2dc2ff1546a0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add Simplified Chinese translation</code>](https://github.com/alainm23/planify/commit/1cd13af1ec0f6169da7057dbbc52388b1d9b458f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix #1019</code>](https://github.com/alainm23/planify/commit/3b5f2ec85143618835931f26dbd982da6eb52e5a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/572ba5ccd003ccfe4e6fb38d8e97b547af7d1ad3)
-- [ ] [<code>Merge pull request #1018 from Fr4nk1in-USTC/add-simplified-chinese</code>](https://github.com/alainm23/planify/commit/389fd460aa7b85e5eabb339048d8375b2e217136)
-- [ ] [<code>Merge pull request #1017 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/3aa4b925afa01210227e4664262917f5e919a749)
-- [ ] [<code>Release 4.1.1</code>](https://github.com/alainm23/planify/commit/adf3629bcacfc9978f6dde5b87eff0278533ab3e)
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Initial board</code>](https://github.com/alainm23/planify/commit/bdf6d64bbadbf27788ca947308cf972e5676c45e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix some criticals:</code>](https://github.com/alainm23/planify/commit/5d5d423e8411cf565a7d397e111af016fff73e24)
