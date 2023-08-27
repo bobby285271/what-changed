@@ -287,74 +287,8 @@
 - [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
 - [ ] [<code>feat: add about window (#131)</code>](https://github.com/lainsce/khronos/commit/4288a30cdfb402df635f9fdb1435ebf0dd6cb543)
 
-#### [minder](https://github.com/phase1geo/minder): [1.15.2 → HEAD](https://github.com/phase1geo/minder/compare/1.15.2...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
-- [ ] [<code>Command-line argument changes</code>](https://github.com/phase1geo/minder/commit/4ac2a0de55796d847188d67f676c6a49ecb38378)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Adding import and export format names algorithmically to usage info.</code>](https://github.com/phase1geo/minder/commit/85e89be3cc597cd4d49fd0c362e7d981d9b09b7d)
-- [ ] [<code>* Adding import support from the command-line.</code>](https://github.com/phase1geo/minder/commit/4b81f11aa1c09bf5fc0a834cd582bed47c3aa9e1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Initial work on Markdown import (not finished).</code>](https://github.com/phase1geo/minder/commit/296e505ea350afbafcfdb55d661025ccf1540217)
-- [ ] [<code>Initial (untested) support for extracting image info from markdown.</code>](https://github.com/phase1geo/minder/commit/71657648695164e9409cc61548e33ca8d975ae34)
-- [ ] [<code>Fixing Markdown export issue with root notes.</code>](https://github.com/phase1geo/minder/commit/760d9da6e6b5a083c9fab4c96a08b5402a89c322)
-- [ ] [<code>Fixing issues with inserting non-printable characters.</code>](https://github.com/phase1geo/minder/commit/f56020e4193eb2f7f2df0972fd8608b831f8c93d)
-- [ ] [<code>Fixing issues with cursor movement for RTL languages.</code>](https://github.com/phase1geo/minder/commit/75cfa563a4774911cc25f2bb7b830539593807b5)
-- [ ] [<code>Command-line argument changes</code>](https://github.com/phase1geo/minder/commit/7c89951a606874ef53b3519d17bf53bb7b359016)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Adding import and export format names algorithmically to usage info.</code>](https://github.com/phase1geo/minder/commit/e7681f68e8e83670b8f74fe01c294396837d39e8)
-- [ ] [<code>* Adding import support from the command-line.</code>](https://github.com/phase1geo/minder/commit/87918e37e0a1cf70870cae2c249ac28dcb28d34d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Initial work on Markdown import (not finished).</code>](https://github.com/phase1geo/minder/commit/17dabfa091d65c811752c3dbf7134ef2a89b7edf)
-- [ ] [<code>Initial (untested) support for extracting image info from markdown.</code>](https://github.com/phase1geo/minder/commit/866257770ecfdb569ca90293ffd4d51591b1c07a)
-- [ ] [<code>Another checkpoint on Markdown import functionality.</code>](https://github.com/phase1geo/minder/commit/eadf1463bce8164bc04b587f46b3b31d78c3c757)
-- [ ] [<code>Merge branch 'markdown-import' of github.com:phase1geo/Minder into markdown-import</code>](https://github.com/phase1geo/minder/commit/bf0b37841e11c4a7fcb744f863cac55496b06afc)
-- [ ] [<code>Improving Markdown export output for images with node text.</code>](https://github.com/phase1geo/minder/commit/c3618a17b05a975c57213445374802f66eacee70)
-- [ ] [<code>Merge branch 'markdown-import'</code>](https://github.com/phase1geo/minder/commit/a2ed4373e6b57bca6656362726487eae0ca39e92)
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/c58a690d9209c042b0cdb4b5e34448025c22cce9)
-- [ ] [<code>Cleaning up debug output and updating version.</code>](https://github.com/phase1geo/minder/commit/9da19bc3e377803a8fdfc0692d374a1ab5a4446d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing issue with Control-W when only one tab is displayed.</code>](https://github.com/phase1geo/minder/commit/b8cded8d8cd130cb32cc64bf4b047ad36b62b253)
-- [ ] [<code>Fixing tab issues.</code>](https://github.com/phase1geo/minder/commit/1bc3fb5d503725747826fc7161009913d69edf32)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Cleaning up previously committed files.</code>](https://github.com/phase1geo/minder/commit/3666e59e486aa6b62d6e6599699c51b55049ec50)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixing issues with tab naming of new, unchanged documents.</code>](https://github.com/phase1geo/minder/commit/a1284b0315681f6187f1ca823b9d6ddef72bf803)
-- [ ] [<code>Fixing cursor/selection issue when using the delete key on selected text</code>](https://github.com/phase1geo/minder/commit/f72d1c603bac1c403c94cdaac49f7b522a7a5845)
-- [ ] [<code>Fixing installation location of Minder markdown syntax/style files.</code>](https://github.com/phase1geo/minder/commit/bb95e326ecc0d14266e0535f478d9ad9cb2218f0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing more scaling issues</code>](https://github.com/phase1geo/minder/commit/d6099edd92d5e8e84d4e3f21d15451bf602d8665)
-- [ ] [<code>Fixing issues with node overlapping.</code>](https://github.com/phase1geo/minder/commit/645be3ca8c036395cf45fbc45acc26e574a69084)
-- [ ] [<code>chore: Refactor IMContext in DrawArea.vala</code>](https://github.com/phase1geo/minder/commit/14ff4fbce111c7e78921f57b67ff2d83dd5449e9)
-- [ ] [<code>Fixing several issues with scaling.</code>](https://github.com/phase1geo/minder/commit/3f8d5eeeeba8ab9b9802e822dfdb1a84e9e57cd4)
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/27e4df1a55999b3533dbf38e099c299a81f408a4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #565 from aeghn/master</code>](https://github.com/phase1geo/minder/commit/b1e0eef68b5a43e4b5eb73ccc49ac648b9e3057a)
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/102466cb176e0dbcc14f6d79df07a5d7d91d5f69)
-- [ ] [<code>Removing treenode highlight.</code>](https://github.com/phase1geo/minder/commit/381e2f69d93879e7a6c3d11b7ff97a18fd1181af)
-  - <sub>Tags: <code>1.15.3</code></sub>
-- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/7f394959d446c228708a3ae9461a45b57dc3b4af)
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/14e662f9ac7d8cddfe43819d458a7381ac8d6b23)
-- [ ] [<code>Merge pull request #567 from albanobattistella/master-1</code>](https://github.com/phase1geo/minder/commit/c808eaa5fa4bcc10a50912ea146d83b37ed38325)
-- [ ] [<code>Merge pull request #566 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/d49ec2a936cd8f3f80e2f9b24738391ff06f3b1e)
-- [ ] [<code>Fixing compile errors found in Fedora environment.</code>](https://github.com/phase1geo/minder/commit/eaa2630afea73e60f2a38361f1048da509a14f44)
-- [ ] [<code>Preparing codebase for 1.15.4 release.</code>](https://github.com/phase1geo/minder/commit/7cd05c00926cf53b99dac0a0b4de4ea2764cdfb4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Cleaning up appdata.xml.in issues.</code>](https://github.com/phase1geo/minder/commit/4b4cbe131a7049a4bb41563cee5269d0888d127e)
-  - <sub>Tags: <code>1.15.4</code></sub>
-- [ ] [<code>Fixing Flatpak issues.</code>](https://github.com/phase1geo/minder/commit/2d5edabd9c70652a3984065ea894d32030ef0134)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Updating files for 1.15.5 release.</code>](https://github.com/phase1geo/minder/commit/61869e5a9c874eaff8cfc3a549bb53ce9d79667f)
-  - <sub>Tags: <code>1.15.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix application crash issue</code>](https://github.com/phase1geo/minder/commit/025cf5b36641a95e6133d6e8a04c72c5c9c8099d)
-- [ ] [<code>Adding auto-adjusting bottom margin in quick entry.</code>](https://github.com/phase1geo/minder/commit/a6efab65ad94607adcdfd03ff00b902f98eea52a)
-- [ ] [<code>Fixing middle mouse drag pan behavior.</code>](https://github.com/phase1geo/minder/commit/28afaf6b0c01c3f2c01da5d9d9bc8af3e93eea1e)
-- [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/3f9131fbf89cb5b4cb3d3f453c5cd8d90988d880)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updating for 1.15.6 release.</code>](https://github.com/phase1geo/minder/commit/bf1920f3c38706b99dc184b50f31d1171503e1ad)
-  - <sub>Tags: <code>1.15.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -481,6 +415,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix error when providing one option and no path (#172)</code>](https://github.com/vala-lang/vala-lint/commit/c1695f1f6c78646b1515090ca1aa6f8d1dc6960b)
 - [ ] [<code>Docker: Add libjson-glib to the containers</code>](https://github.com/vala-lang/vala-lint/commit/6c4eda0ccc040eb950eedc532607903cc7f9e2b7)
+- [ ] [<code>Docker: Use recommends from packages at build time</code>](https://github.com/vala-lang/vala-lint/commit/965e4774db0063e949d58ebd872678446a7ce209)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
