@@ -227,6 +227,9 @@
 - [ ] [<code>Permissions: Make applist searchable (#206)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b773b5ab4bad8f904c2bece028ced5f49ddbbce2)
 - [ ] [<code>DefaultPlug: revert audio content type (#207)</code>](https://github.com/elementary/switchboard-plug-applications/commit/1a78220f2bba90c47029011e81db5343a3c5a839)
 - [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/673a6c600dce100727aefda04b54fccc840a1fca)
+- [ ] [<code>Release 7.0.1 (#208)</code>](https://github.com/elementary/switchboard-plug-applications/commit/5504a1786d10446a4079b3f5074b2c4c1aca58f0)
+  - <sub>Tags: <code>7.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
