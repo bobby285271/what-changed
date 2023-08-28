@@ -221,15 +221,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.0...HEAD)
+#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
-- [ ] [<code>AppChooser: Make Cancel button translatable (#205)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f1cd5c264d2303cf82019ce8eeeacfb39928d790)
-- [ ] [<code>Permissions: Make applist searchable (#206)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b773b5ab4bad8f904c2bece028ced5f49ddbbce2)
-- [ ] [<code>DefaultPlug: revert audio content type (#207)</code>](https://github.com/elementary/switchboard-plug-applications/commit/1a78220f2bba90c47029011e81db5343a3c5a839)
-- [ ] [<code>Update applications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-applications/commit/673a6c600dce100727aefda04b54fccc840a1fca)
-- [ ] [<code>Release 7.0.1 (#208)</code>](https://github.com/elementary/switchboard-plug-applications/commit/5504a1786d10446a4079b3f5074b2c4c1aca58f0)
-  - <sub>Tags: <code>7.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -425,6 +418,8 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [7.1.2 → HEAD](https://github.com/elementary/gala/compare/7.1.2...HEAD)
 
+- [ ] [<code>ScreenShield: remove unused signal (#1745)</code>](https://github.com/elementary/gala/commit/d6e37f3289585f3a4c211fafced1691ef1c1d40e)
+- [ ] [<code>ScreenShield: respect animations key (#1744)</code>](https://github.com/elementary/gala/commit/2b34d8cf69a57a52b9511f3478ad1cd0ae5e770a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
 
@@ -506,24 +501,8 @@
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.0.0...HEAD)
 
 
-#### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.0...HEAD)
+#### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
-- [ ] [<code>appdata: move <issues> out of <description> to make AppData valid again (#237)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f46f10795a424552a3084b4d1520443b4c2a2b9f)
-- [ ] [<code>Don't call Refresh() on UPower.Device (#238)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/73725c6bf7f6f2590ee6293baf98b3360048356d)
-- [ ] [<code>actions/checkout@v3 (#241)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ba00ddd123073383db818113ec731f8727c3ece2)
-- [ ] [<code>Avoid using "Toggle" (#242)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/84b5a9c74c3b8ad1fec869cde03f128927a644e7)
-- [ ] [<code>Adjust battery percent levels to be closer to icon levels (#240)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/68a96b269ee09926ab538a76643d39f1fd0b9ecd)
-- [ ] [<code>Fix compiler warning (#244)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/bade6f72fd0deda116d7910d08b42fc8d7f3df17)
-- [ ] [<code>Show hours instead of days (#243)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1e4e417c3496aeaf5af9c07859e815964590b294)
-- [ ] [<code>Switch to GHCR containers (#245)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/1778f6dffd4e7e78544e4f07f831718ba6d175f0)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/209071bf71a33a050c92d7d5c371a9879428e09c)
-- [ ] [<code>Update power.appdata.xml.in (#246)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ed6366787abb3784eae29616f3c3211c55dd242e)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#248)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/a903bf9b6012f8703aef9d2642bf3f896cb67fd4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Release 6.2.1 (#251)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/59a227ff73967d55f2f6117f0568c0851dbd7636)
-  - <sub>Tags: <code>6.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
