@@ -99,6 +99,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update CSS for latest Granite (#44)</code>](https://github.com/elementary/iconbrowser/commit/68e3a1d1fde4da6fed447822d62e7cbfcefb6d88)
 - [ ] [<code>AppData: Add 2.1.2 release notes (#45)</code>](https://github.com/elementary/iconbrowser/commit/c0f8f28d93ff682bbbb413bcd3ea4dc09aaaa434)
+- [ ] [<code>Update snippet based on selection (#32)</code>](https://github.com/elementary/iconbrowser/commit/195cc4b33bef30f7f130e35092b6fd53894d7976)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -451,6 +452,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>PanelWindow: animate in with Gtk.Revealer (#491)</code>](https://github.com/elementary/wingpanel/commit/483f01dd9607578493c89802dc4b5f6b26f0a064)
 - [ ] [<code>3.0.4 release notes (#494)</code>](https://github.com/elementary/wingpanel/commit/0e20e054fb5196445c3128e71da303a21282fc00)
+- [ ] [<code>Application: hard code elementary styles (#497)</code>](https://github.com/elementary/wingpanel/commit/476a9fd47ae5f90c990c30e73a1e5b878a754c64)
+- [ ] [<code>Release 3.0.4 (#495)</code>](https://github.com/elementary/wingpanel/commit/d5d0affeba7781cc88ae989ce311b04d7debfbd8)
+  - <sub>Tags: <code>3.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
