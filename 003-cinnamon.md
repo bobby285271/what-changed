@@ -196,6 +196,7 @@
 - [ ] [<code>Update README, fix a typo, add a link to another Window's version</code>](https://github.com/linuxmint/warpinator/commit/fb3a6272084bdda4ca4a193a4d44991a1cf13a70)
 - [ ] [<code>Add issue link to bug report template.</code>](https://github.com/linuxmint/warpinator/commit/896a0aea4e97f76adb72729050c776ed6a86de6d)
 - [ ] [<code>fix NameError for 'sleep' (#187)</code>](https://github.com/linuxmint/warpinator/commit/89a3bef314bd1493261ecf1882ab90d11c12d5c2)
+- [ ] [<code>warpinator.py: Set our own dbus StatusIcon name.</code>](https://github.com/linuxmint/warpinator/commit/fb7be24d1d29099ce38f66b8d9963cd92261e5d5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
