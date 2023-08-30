@@ -501,6 +501,7 @@
 - [ ] [<code>Only show suspend button if suspend is available (#182)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/1c79e2b501d0162f5fbb1e0162c161b169b31cad)
 - [ ] [<code>Set bold style for user name with CSS (#183)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/1da4520ea8c95acaec99e3a093db7ad8df622459)
 - [ ] [<code>Fix new users buttons visibility (#184)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/8888adc8038ede8b69712624d36cb88bca5359cb)
+- [ ] [<code>ensure end session dialog requests keyboard focus (#185)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/2bbf1491b4be82cba120a09999de9ef3ce89241c)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
