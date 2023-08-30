@@ -45,6 +45,7 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.1.0 → HEAD](https://github.com/elementary/code/compare/7.1.0...HEAD)
 
 - [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
+- [ ] [<code>Silence terminal warning re adding null item (#1353)</code>](https://github.com/elementary/code/commit/bba7c148eec0c42bd993160f19ed9c72ed256076)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -76,6 +77,7 @@
 - [ ] [<code>Sidebar Gtk4 Prep (#2287)</code>](https://github.com/elementary/files/commit/580aefc1df6c6ac1f8444ccdf337aabe9211f89b)
 - [ ] [<code>meson: Don't run gtk-update-icon-cache (#2294)</code>](https://github.com/elementary/files/commit/758ece9fb29eb4a25f47065710dad4ac547ca2ce)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix copy/paste after file renamed (#2296)</code>](https://github.com/elementary/files/commit/d9cef820ea7f8af7100947aeb2575ce1fb039680)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
 
@@ -100,6 +102,8 @@
 - [ ] [<code>Update CSS for latest Granite (#44)</code>](https://github.com/elementary/iconbrowser/commit/68e3a1d1fde4da6fed447822d62e7cbfcefb6d88)
 - [ ] [<code>AppData: Add 2.1.2 release notes (#45)</code>](https://github.com/elementary/iconbrowser/commit/c0f8f28d93ff682bbbb413bcd3ea4dc09aaaa434)
 - [ ] [<code>Update snippet based on selection (#32)</code>](https://github.com/elementary/iconbrowser/commit/195cc4b33bef30f7f130e35092b6fd53894d7976)
+- [ ] [<code>Release 2.2.0 (#46)</code>](https://github.com/elementary/iconbrowser/commit/1f69cda9abc98e984777602b1d21f76de96496b8)
+  - <sub>Tags: <code>2.2.0</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -148,6 +152,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#268)</code>](https://github.com/elementary/screenshot/commit/5560e3a8e1ab93577258d4edb5a7d76e1632ccba)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Replace FileChooserButton for GTK4 (#243)</code>](https://github.com/elementary/screenshot/commit/30e484adacb3fb4309090183382e8cd7f29afabc)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -178,6 +183,7 @@
 - [ ] [<code>Remove automatic fullscreen (#361)</code>](https://github.com/elementary/videos/commit/001c0bc9b284b28cfeb0cdbf9d14b80f239c7aa5)
 - [ ] [<code>Move play queue to playback manager (#366)</code>](https://github.com/elementary/videos/commit/d6af64fee6457d15b3e689086a9abcb7da48c418)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Support repeat one and repeat all (#369)</code>](https://github.com/elementary/videos/commit/e7ec84850181cb27dab3afd0d1d902345d552fd8)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -261,6 +267,7 @@
 
 - [ ] [<code>Shortcuts: cleanup (#471)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/5cf6d691c87c20dd608f83d895d6e2dcced80b7e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Layout: modernize the layouts list (#465)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bba68408820a65256662fb8f54a4aafebddd58cd)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -423,41 +430,10 @@
 
 - [ ] [<code>ScreenShield: remove unused signal (#1745)</code>](https://github.com/elementary/gala/commit/d6e37f3289585f3a4c211fafced1691ef1c1d40e)
 - [ ] [<code>ScreenShield: respect animations key (#1744)</code>](https://github.com/elementary/gala/commit/2b34d8cf69a57a52b9511f3478ad1cd0ae5e770a)
+- [ ] [<code>Remove `PluginFunction.DESKTOP` (#1747)</code>](https://github.com/elementary/gala/commit/5804d7fb08e41dab632b235d31a0af8ca2a233e2)
 
-#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.3...HEAD)
+#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.4...HEAD)
 
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel/commit/22a3074c68087755970c0861f030a47be0ba6e56)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel/commit/3bfb4cfd0dca1fa159d1e0e7c97de11c8ad0a19d)
-- [ ] [<code>Switch to GHCR containers (#478)</code>](https://github.com/elementary/wingpanel/commit/89a5c70793fc46bc1f55df40429b557b9416ab71)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#479)</code>](https://github.com/elementary/wingpanel/commit/98136fe93563f5253425a02ce6ef80ace5b388a7)
-- [ ] [<code>vapi: Convert `elif` blocks to `if` blocks</code>](https://github.com/elementary/wingpanel/commit/a77dc07233d4a71e30015a4675f5d2de105ca310)
-- [ ] [<code>build: Require mutter 3.38</code>](https://github.com/elementary/wingpanel/commit/ff1a20d2f981f903c27b60f84aa8d6c52f8b6441)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 40</code>](https://github.com/elementary/wingpanel/commit/bddaee606d86ad9986ee28eccb9f4f63f1a760a5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 41</code>](https://github.com/elementary/wingpanel/commit/8252722fb03f6843157b211607f14df79de5d7d7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Require mutter 42</code>](https://github.com/elementary/wingpanel/commit/bd85aa05ab7a2aab931a293483f60403c090c5a1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>build: Support mutter 44</code>](https://github.com/elementary/wingpanel/commit/0cbf28917254366b08ef66a032687a2498e157ef)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Close popover on Esc (#487)</code>](https://github.com/elementary/wingpanel/commit/ca2d5356225682192005e5eb68135013c1e48851)
-- [ ] [<code>wingpanel-interface: Use `unowned` where needed (#488)</code>](https://github.com/elementary/wingpanel/commit/065d512edbbb6148a3e1522100c547defd631fc8)
-- [ ] [<code>Fix indicator re-animating when an icon is removed/added (#486)</code>](https://github.com/elementary/wingpanel/commit/ac0b3bdf48773a48f321a7b515902af73683c650)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#490)</code>](https://github.com/elementary/wingpanel/commit/0121570e2081cb73e426ab95ec11efa6d6879c99)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>PanelWindow: animate in with Gtk.Revealer (#491)</code>](https://github.com/elementary/wingpanel/commit/483f01dd9607578493c89802dc4b5f6b26f0a064)
-- [ ] [<code>3.0.4 release notes (#494)</code>](https://github.com/elementary/wingpanel/commit/0e20e054fb5196445c3128e71da303a21282fc00)
-- [ ] [<code>Application: hard code elementary styles (#497)</code>](https://github.com/elementary/wingpanel/commit/476a9fd47ae5f90c990c30e73a1e5b878a754c64)
-- [ ] [<code>Release 3.0.4 (#495)</code>](https://github.com/elementary/wingpanel/commit/d5d0affeba7781cc88ae989ce311b04d7debfbd8)
-  - <sub>Tags: <code>3.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -507,6 +483,9 @@
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.0.0...HEAD)
 
+- [ ] [<code>Rewrite `NotificationsMonitor` (#266)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/40545f68872beb7014876af5e64057d441740b47)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Support buttons with action group (#263)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/35c08898e30dc79abfe9fcd6549bccbb04b1564d)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
