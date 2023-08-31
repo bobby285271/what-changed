@@ -78,32 +78,12 @@
 - [ ] [<code>meson: Don't run gtk-update-icon-cache (#2294)</code>](https://github.com/elementary/files/commit/758ece9fb29eb4a25f47065710dad4ac547ca2ce)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix copy/paste after file renamed (#2296)</code>](https://github.com/elementary/files/commit/d9cef820ea7f8af7100947aeb2575ce1fb039680)
-
-#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.1.1 → HEAD](https://github.com/elementary/iconbrowser/compare/2.1.1...HEAD)
-
-- [ ] [<code>Update Flatpak Runtime to 7.1 (#30)</code>](https://github.com/elementary/iconbrowser/commit/d5239a0f5fdd978dd48525b55a2db445f6896fbd)
-- [ ] [<code>actions: Fix trigger syntax</code>](https://github.com/elementary/iconbrowser/commit/aa9018599c909e1dd683142d1bf514ef3f90e2db)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/iconbrowser/commit/14a377a039da93cb3b6bb8fa8e66084c63ab6b70)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 (#34)</code>](https://github.com/elementary/iconbrowser/commit/3ca853e172705d8d01e4d35a02fcbca04b6ca5a1)
-- [ ] [<code>Bump docker/setup-qemu-action from 1 to 2 (#33)</code>](https://github.com/elementary/iconbrowser/commit/4ccb91044be13e2ea3a2400ce363cb0021bae243)
-- [ ] [<code>Update flatpak actions to new namespace (#35)</code>](https://github.com/elementary/iconbrowser/commit/a47ae8a801a809aa70094089761fde8339e543c7)
-- [ ] [<code>Runtime: bump to 7.2 (#36)</code>](https://github.com/elementary/iconbrowser/commit/01d961bdc0724949e21938fe0e60ef67dbb806bb)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#37)</code>](https://github.com/elementary/iconbrowser/commit/5ee6ed0e921dc5631741af3aad7dc8cbfa5d8ff0)
-- [ ] [<code>CategoryView: Fix a typo (#38)</code>](https://github.com/elementary/iconbrowser/commit/ccf117a8995bd0ca469f089b241a2b768448bd28)
-- [ ] [<code>Update pot</code>](https://github.com/elementary/iconbrowser/commit/a9c66eb4b96b9b64b7a7886765ef1100ccc3d741)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#40)</code>](https://github.com/elementary/iconbrowser/commit/c5b4a232dc3ecc99e58190df4968bbf8ec611ad1)
+- [ ] [<code>Update build dependencies (#2299)</code>](https://github.com/elementary/files/commit/f1cd404f34da4c2f3058d9ec447889275b0b0c47)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>README: build with Flatpak (#43)</code>](https://github.com/elementary/iconbrowser/commit/705f6469d99f87bedd88a5fc250e5a6a546bb897)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Flatpak: Use embeded gtksourceview from SDK instead of manual (#41)</code>](https://github.com/elementary/iconbrowser/commit/18ea6a2c1dcd34df327ab5024fd818ed3fff8c13)
-- [ ] [<code>meson: Use newer syntax (#42)</code>](https://github.com/elementary/iconbrowser/commit/806510f2e3c716bdaf264e714cd57fe208cc6fae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update CSS for latest Granite (#44)</code>](https://github.com/elementary/iconbrowser/commit/68e3a1d1fde4da6fed447822d62e7cbfcefb6d88)
-- [ ] [<code>AppData: Add 2.1.2 release notes (#45)</code>](https://github.com/elementary/iconbrowser/commit/c0f8f28d93ff682bbbb413bcd3ea4dc09aaaa434)
-- [ ] [<code>Update snippet based on selection (#32)</code>](https://github.com/elementary/iconbrowser/commit/195cc4b33bef30f7f130e35092b6fd53894d7976)
-- [ ] [<code>Release 2.2.0 (#46)</code>](https://github.com/elementary/iconbrowser/commit/1f69cda9abc98e984777602b1d21f76de96496b8)
-  - <sub>Tags: <code>2.2.0</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+
+#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
+
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -153,6 +133,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Replace FileChooserButton for GTK4 (#243)</code>](https://github.com/elementary/screenshot/commit/30e484adacb3fb4309090183382e8cd7f29afabc)
+- [ ] [<code>SaveDialog: use fileinfo, localize, DRY (#269)</code>](https://github.com/elementary/screenshot/commit/aeff9f6b89f59815c7c5ae618b83f61364fb60bd)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -486,6 +467,8 @@
 - [ ] [<code>Rewrite `NotificationsMonitor` (#266)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/40545f68872beb7014876af5e64057d441740b47)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Support buttons with action group (#263)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/35c08898e30dc79abfe9fcd6549bccbb04b1564d)
+- [ ] [<code>Allow minimizing app sections (#264)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efae46b645eeff618bfa561b85ff505ff24e14b3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
