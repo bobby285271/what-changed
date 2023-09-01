@@ -21,6 +21,7 @@
 - [ ] [<code>StripeDialog: Gtk4 prep (#2068)</code>](https://github.com/elementary/appcenter/commit/7a18db74a7a269e42f594583736ef77a84eafdab)
 - [ ] [<code>MainWindow: gtk4 prep (#2070)</code>](https://github.com/elementary/appcenter/commit/20d725ce0a4aecedd0fefbbffe2ce3de9fa8d645)
 - [ ] [<code>Application: Set allow_replacement flag (#2075)</code>](https://github.com/elementary/appcenter/commit/d9c74877697a377860964aaab55fb1839a0d7a4d)
+- [ ] [<code>AppInfoView: Warn about direct notification access (#2078)</code>](https://github.com/elementary/appcenter/commit/7820570463762f5a29a36ee1d4464b0454cd54ba)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
