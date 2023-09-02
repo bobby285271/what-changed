@@ -85,6 +85,7 @@
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
+- [ ] [<code>AppData: Add translation info (#47)</code>](https://github.com/elementary/iconbrowser/commit/467fb46cfdfeb26350678e043bbf049db400a1c9)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
