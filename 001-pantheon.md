@@ -82,6 +82,9 @@
 - [ ] [<code>Update build dependencies (#2299)</code>](https://github.com/elementary/files/commit/f1cd404f34da4c2f3058d9ec447889275b0b0c47)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Application: Rework Command Line Handling (#2307)</code>](https://github.com/elementary/files/commit/3a02bbed140ad728107b1d18574eac001733c3c6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
