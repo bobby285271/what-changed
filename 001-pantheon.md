@@ -379,6 +379,7 @@
 
 - [ ] [<code>Meson: remove deprecations</code>](https://github.com/elementary/onboarding/commit/1f461a357592628fefce69e215fbc450d558a4a9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Allow focusing PageChecker, scroll to View when it contains focus (#218)</code>](https://github.com/elementary/onboarding/commit/31d50845627e6379bd9088bd62ef64617314dcb9)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
