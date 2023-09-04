@@ -286,6 +286,7 @@
 - [ ] [<code>Update Swedish Translation (#128)</code>](https://github.com/lainsce/khronos/commit/0d62e736511f094f328b18c7a986b84d7e93d8c9)
 - [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
 - [ ] [<code>feat: add about window (#131)</code>](https://github.com/lainsce/khronos/commit/4288a30cdfb402df635f9fdb1435ebf0dd6cb543)
+- [ ] [<code>data: mark two strings translatable (#132)</code>](https://github.com/lainsce/khronos/commit/99dd36a3398f8fbfb70112c5869aff267811fded)
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
