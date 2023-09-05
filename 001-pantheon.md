@@ -22,6 +22,7 @@
 - [ ] [<code>MainWindow: gtk4 prep (#2070)</code>](https://github.com/elementary/appcenter/commit/20d725ce0a4aecedd0fefbbffe2ce3de9fa8d645)
 - [ ] [<code>Application: Set allow_replacement flag (#2075)</code>](https://github.com/elementary/appcenter/commit/d9c74877697a377860964aaab55fb1839a0d7a4d)
 - [ ] [<code>AppInfoView: Warn about direct notification access (#2078)</code>](https://github.com/elementary/appcenter/commit/7820570463762f5a29a36ee1d4464b0454cd54ba)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#2079)</code>](https://github.com/elementary/appcenter/commit/3d227aecfa3bb7a1e11f98d6ad267086874addbd)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -85,6 +86,7 @@
 - [ ] [<code>Application: Rework Command Line Handling (#2307)</code>](https://github.com/elementary/files/commit/3a02bbed140ad728107b1d18574eac001733c3c6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#2311)</code>](https://github.com/elementary/files/commit/ae108f441ac50fedeae6d2c2febdd4f879b5b037)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -139,6 +141,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Replace FileChooserButton for GTK4 (#243)</code>](https://github.com/elementary/screenshot/commit/30e484adacb3fb4309090183382e8cd7f29afabc)
 - [ ] [<code>SaveDialog: use fileinfo, localize, DRY (#269)</code>](https://github.com/elementary/screenshot/commit/aeff9f6b89f59815c7c5ae618b83f61364fb60bd)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#270)</code>](https://github.com/elementary/screenshot/commit/f6f4d87598bd7c821928a9a0b2e5c5cd71821898)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -170,6 +173,7 @@
 - [ ] [<code>Move play queue to playback manager (#366)</code>](https://github.com/elementary/videos/commit/d6af64fee6457d15b3e689086a9abcb7da48c418)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Support repeat one and repeat all (#369)</code>](https://github.com/elementary/videos/commit/e7ec84850181cb27dab3afd0d1d902345d552fd8)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#370)</code>](https://github.com/elementary/videos/commit/87850fe32ab9940aeed5f0625b83865c1699c92c)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -213,6 +217,7 @@
 - [ ] [<code>OperatingSystemView: handle missing default wallpaper (#258)</code>](https://github.com/elementary/switchboard-plug-about/commit/e1d8559c9d172b2f55207188f50a4333aecef2f9)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#271)</code>](https://github.com/elementary/switchboard-plug-about/commit/1d967f0d2021dc8124a0f86b5c88051bf293658f)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -254,6 +259,7 @@
 - [ ] [<code>Shortcuts: cleanup (#471)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/5cf6d691c87c20dd608f83d895d6e2dcced80b7e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Layout: modernize the layouts list (#465)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bba68408820a65256662fb8f54a4aafebddd58cd)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#474)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3224da1af16aee46f8933bb8507a5622156f5fe7)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -277,6 +283,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update "Airplane Mode" switch padding (#358)</code>](https://github.com/elementary/switchboard-plug-network/commit/e9056694f3a187ef66e44756fa19e22fd3bec948)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#361)</code>](https://github.com/elementary/switchboard-plug-network/commit/3b69132788ff8734a481d498b49207e05a4f7d70)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -292,6 +299,7 @@
 - [ ] [<code>Switch to GHCR containers (#95)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/4d005563e7dfd412a2201b8867f4db5b32146e3e)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/e26f22d7b94d3b7f23bfd91fd0d5f9d010c2a48e)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#96)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d89847119388e650f401842441536fc645ebe4f9)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#97)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/a496b672837dda08052adcfd8812f1b589b811ca)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -325,6 +333,7 @@
 - [ ] [<code>Switch to GHCR containers (#186)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ce10676f9bf2727d39d0776f61f77500ef92a0d0)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-printers/commit/83e384d0735bf223ef7bfe9810b2d5dc64d9f34c)
 - [ ] [<code>Add .editorconfig (#189)</code>](https://github.com/elementary/switchboard-plug-printers/commit/ef974344934b2714ac88c2e274bee6f099a39eac)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#190)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fc22a6562c233eb8e47850c31e18db09115779c6)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -335,6 +344,7 @@
 - [ ] [<code>Switch to GHCR containers (#62)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/87589a725e0faf3f3a47578a3bb99aa61ab3318a)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/c19a326e38dccbaa6b69a8ecc4fb46046a481582)
 - [ ] [<code>Add .editorconfig (#63)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0545f58816786363ae30ab77ea5c5e168bf570af)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#64)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/07e6464853b99f455600eaa00fc093eace9190bb)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -353,6 +363,7 @@
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#1229)</code>](https://github.com/elementary/icons/commit/0e5bc62b1471e2d7635d3b6cb75a6bbcfc72b0a4)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -380,6 +391,7 @@
 - [ ] [<code>Meson: remove deprecations</code>](https://github.com/elementary/onboarding/commit/1f461a357592628fefce69e215fbc450d558a4a9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Allow focusing PageChecker, scroll to View when it contains focus (#218)</code>](https://github.com/elementary/onboarding/commit/31d50845627e6379bd9088bd62ef64617314dcb9)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#220)</code>](https://github.com/elementary/onboarding/commit/4d21e3f46a4d9163715e2e92d5f731af15d92cff)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -418,6 +430,7 @@
 - [ ] [<code>ScreenShield: remove unused signal (#1745)</code>](https://github.com/elementary/gala/commit/d6e37f3289585f3a4c211fafced1691ef1c1d40e)
 - [ ] [<code>ScreenShield: respect animations key (#1744)</code>](https://github.com/elementary/gala/commit/2b34d8cf69a57a52b9511f3478ad1cd0ae5e770a)
 - [ ] [<code>Remove `PluginFunction.DESKTOP` (#1747)</code>](https://github.com/elementary/gala/commit/5804d7fb08e41dab632b235d31a0af8ca2a233e2)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#1749)</code>](https://github.com/elementary/gala/commit/1d50165a196f0caaa3289fc6fbe9f774078d91bf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.4...HEAD)
 
@@ -448,6 +461,7 @@
 - [ ] [<code>Switch to GHCR containers (#307)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/a6672a37dbb18633bdaaa863cba6083722cf4f8b)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/310f3f4d2eceea8c21d68045ebfe254840933691)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#308)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/aff6f57caff2295647f47e268a10ff47c0c4c633)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#310)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c48e0d636d177f91fcffafedf65f0add2af0a576)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
@@ -464,6 +478,7 @@
 - [ ] [<code>Fix focus style (#296)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3e7a3d40d4132edd189ec8e9da5e02c99fd0aac4)
 - [ ] [<code>Switch to GHCR containers (#297)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/7a5214283371a7cf04e4b6c3443f2f09d0288e23)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0417725a38396866854bbac3a0acbd689a21d84c)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#306)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ae347e3ad65ebf52555c8133f54b59770e69b837)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -475,9 +490,11 @@
 - [ ] [<code>Support buttons with action group (#263)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/35c08898e30dc79abfe9fcd6549bccbb04b1564d)
 - [ ] [<code>Allow minimizing app sections (#264)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efae46b645eeff618bfa561b85ff505ff24e14b3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#269)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/70c854c819a0411b38b702803219099b9b8c2c3b)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#252)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/a8b59438a26a1263f1b634b022600647757e0f1f)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -494,6 +511,7 @@
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#263)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/965229c4d45e4b05797757d5d2a9216bf9053dcd)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.3.0 → HEAD](https://github.com/elementary/granite/compare/7.3.0...HEAD)
@@ -524,6 +542,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: use right gettext domain</code>](https://github.com/elementary/settings-daemon/commit/c314d3c5e3f9a327435ea3c836b1320fe54b2930)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#86)</code>](https://github.com/elementary/settings-daemon/commit/6d17f57063a36dcae66824111fe9657498df7741)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -594,6 +613,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add open-vm-tools to pool (#681)</code>](https://github.com/elementary/os/commit/47f3f65e3a838d742979376fe88585627432c0e4)
 - [ ] [<code>Install kernel headers by default (#684)</code>](https://github.com/elementary/os/commit/09569bdb00c35423e891e48ea459564a5337c275)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#688)</code>](https://github.com/elementary/os/commit/47939f0846ca4d3ae96ffee449e20d83f45f56e7)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
