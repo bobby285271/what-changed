@@ -309,6 +309,7 @@
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#368)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/81cc542268d6c221c785ec971134f91906a4d4b3)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -415,6 +416,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Reflect new systemd target name (#67)</code>](https://github.com/elementary/session-settings/commit/ef4d9dc9272987207dfc81cbc0d8ef9f29412c44)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>chore(deps): bump actions/checkout from 3 to 4 (#68)</code>](https://github.com/elementary/session-settings/commit/3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -530,6 +532,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#107)</code>](https://github.com/elementary/capnet-assist/commit/653f8da52b1798914d91c3841e01b9fe99c9d7c4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#108)</code>](https://github.com/elementary/capnet-assist/commit/c5bcc7eabd70cac5105ffe22bb0ff01f22956fe9)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
