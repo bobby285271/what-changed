@@ -87,6 +87,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#2311)</code>](https://github.com/elementary/files/commit/ae108f441ac50fedeae6d2c2febdd4f879b5b037)
+- [ ] [<code>Application: Fix Creating a New Tab in The First Launch (#2310)</code>](https://github.com/elementary/files/commit/fec6c79d69b11adba5517c2512fc0d84d1f0c80f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
