@@ -494,6 +494,8 @@
 - [ ] [<code>Allow minimizing app sections (#264)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efae46b645eeff618bfa561b85ff505ff24e14b3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#269)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/70c854c819a0411b38b702803219099b9b8c2c3b)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0dfbc04e376b2c40a388b5ef9ca8901f39814521)
+- [ ] [<code>Update notifications.metainfo.xml.in (#270)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2c0558471bf5de1d53374cfc28ce6ef3c0fe7fa8)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
