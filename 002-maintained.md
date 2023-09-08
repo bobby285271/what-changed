@@ -356,6 +356,11 @@
 - [ ] [<code>New Board View designed</code>](https://github.com/alainm23/planify/commit/ca1a31856862ff40a7ed6ec47851c7719484b9d3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Improving the detail of the board view</code>](https://github.com/alainm23/planify/commit/488afdad5803fb5edf36079785dd91d0dce7cdb8)
+- [ ] [<code>Fix some zh translate</code>](https://github.com/alainm23/planify/commit/c31df07de34d0fb276459d4874a1b25406084750)
+- [ ] [<code>Fix a few i18n issues</code>](https://github.com/alainm23/planify/commit/6df6c0358df114ae1017360a0392db868c2c0735)
+- [ ] [<code>Fix a few i18n issues:</code>](https://github.com/alainm23/planify/commit/3c0d03c8426b9604ed1491b5f88a6b49c6f3d76a)
+- [ ] [<code>Add board view</code>](https://github.com/alainm23/planify/commit/c8d09876ba2f97a575bf22a165e3913ddf0fa1b5)
+- [ ] [<code>Merge pull request #1045 from henryau53/fix_localization</code>](https://github.com/alainm23/planify/commit/3e90147f7fd2d7930d4b00808bb6b1781b86fe38)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -397,6 +402,8 @@
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.17...HEAD)
 
 - [ ] [<code>Mention PPA signing key in installation instructions (#625)</code>](https://github.com/JoseExposito/touchegg/commit/d1d36a33b14d44d9f8cf9a6c25696b9d6c7ded9f)
+- [ ] [<code>Add workarounds of 2 finger swipes for web browser navigation</code>](https://github.com/JoseExposito/touchegg/commit/3e5a684647a162e27b6478d08ce45c4e7bfc3d0c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
