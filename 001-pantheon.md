@@ -521,6 +521,7 @@
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.3.0 → HEAD](https://github.com/elementary/granite/compare/7.3.0...HEAD)
 
+- [ ] [<code>Revert "Fix build with newer Vala (#637)" (#659)</code>](https://github.com/elementary/granite/commit/b86e04d73cfd253e5f5d4877cbe39cfa0c758b16)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
