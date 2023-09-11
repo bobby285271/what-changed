@@ -339,6 +339,7 @@
 - [ ] [<code>Efficiently find and match pane name (#179)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1ecb18b6dbb8a6ba42e3b637f05458ba89e94529)
 - [ ] [<code>TerminalPane: Allow font configuration</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1afaf8ef39b5e0557d3a87b6c37e7f6e44afd99e)
 - [ ] [<code>Tweaks: Remove URI of dropped pane</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/26e1d9d0c68dd2841494ad784bac61f18cf101f3)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/94bdb5141f03daaed303ecfe3d1fe8ec51f2c65d)
 
 #### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
