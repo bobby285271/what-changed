@@ -537,6 +537,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#108)</code>](https://github.com/elementary/capnet-assist/commit/c5bcc7eabd70cac5105ffe22bb0ff01f22956fe9)
+- [ ] [<code>Port to HdyTabBar (#91)</code>](https://github.com/elementary/capnet-assist/commit/fb6ee6071bd7c529c5ad806942a0066cfd0b819e)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
