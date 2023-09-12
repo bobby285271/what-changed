@@ -38,6 +38,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#794)</code>](https://github.com/elementary/calendar/commit/545ce7efaaa0b6cc92883095492a0c4b69410b95)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#796)</code>](https://github.com/elementary/calendar/commit/b31b9356a156cca628a2d42d0331f361c7bd5a52)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -50,6 +51,7 @@
 
 - [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
 - [ ] [<code>Silence terminal warning re adding null item (#1353)</code>](https://github.com/elementary/code/commit/bba7c148eec0c42bd993160f19ed9c72ed256076)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#1372)</code>](https://github.com/elementary/code/commit/0540fffc983b77e99bbd09a6eb8b4736128138ad)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -114,6 +116,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#757)</code>](https://github.com/elementary/music/commit/3b7812eb36cdc0556a85beade82ed1b55da0ace5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#759)</code>](https://github.com/elementary/music/commit/07296f502476bbd2d19e806cb5ff5b2777619207)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -139,6 +142,7 @@
 - [ ] [<code>meson: Allow to use geocode-glib-2.0</code>](https://github.com/elementary/photos/commit/ea11cf23db6945df6cc3495fd698456054389371)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#749)</code>](https://github.com/elementary/photos/commit/09e55943b266bc2861b913251cb834169d81743e)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -251,6 +255,7 @@
 - [ ] [<code>Switch to GHCR containers (#202)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/bb86152154870cdd8e9c5bba1621d4b7ff3a746c)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/a8e649f73ced417abe8c282da3b38e80765cace6)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#204)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/aa1aaf5378326f1e53ba087da693493a2dac587f)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/47d218ba3c39047f39c493aa5831f530611279c8)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -261,6 +266,7 @@
 - [ ] [<code>Fix Gettext Action (#105)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e41815f3658aa1cd101a47c17e73d70e586e6592)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/fe47255806865fe35d6bdd93bb9dd49f3668e8aa)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#111)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/1d946d8633f6d9a48f2ab5c7d08f4fbf6ee337bd)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#114)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/76cb57791504a1a552e44666533f4d0a59423bb6)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -285,6 +291,7 @@
 - [ ] [<code>Switch to GHCR containers (#211)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/cf44b776ab1098b990a365cd45c1043ac6da2d68)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef4947456abb7441761bcc715f7a8f7c72d76d9a)
 - [ ] [<code>Add .editorconfig (#217)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f8f7dd6fab8352cdb3ea932ddcf3da000ce301b4)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#218)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/56c7b25653ce3ad3a0078dac6e8076ef289f87dc)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
@@ -399,9 +406,11 @@
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#292)</code>](https://github.com/elementary/default-settings/commit/845e2f95e02468988967f4f4506cffa4e253e3a1)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#686)</code>](https://github.com/elementary/greeter/commit/c06d960a8d57a17c5346f6267ca1fae7df12fae8)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -566,6 +575,7 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#219)</code>](https://github.com/elementary/notifications/commit/0f63dd63a13fa8998e28ffe4f3e2c2043af742ce)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
