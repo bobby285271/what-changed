@@ -463,6 +463,7 @@
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.4...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#503)</code>](https://github.com/elementary/wingpanel/commit/024ecd079becfc1f075c23775e86c90f456abb90)
+- [ ] [<code>IndicatorMenuBar: Do not try to readd an already added child (#504)</code>](https://github.com/elementary/wingpanel/commit/aa7317ad98e199a09b8477138a03fade12be7899)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
