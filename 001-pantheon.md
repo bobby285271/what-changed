@@ -460,10 +460,8 @@
 - [ ] [<code>Remove `PluginFunction.DESKTOP` (#1747)</code>](https://github.com/elementary/gala/commit/5804d7fb08e41dab632b235d31a0af8ca2a233e2)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1749)</code>](https://github.com/elementary/gala/commit/1d50165a196f0caaa3289fc6fbe9f774078d91bf)
 
-#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.4...HEAD)
+#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#503)</code>](https://github.com/elementary/wingpanel/commit/024ecd079becfc1f075c23775e86c90f456abb90)
-- [ ] [<code>IndicatorMenuBar: Do not try to readd an already added child (#504)</code>](https://github.com/elementary/wingpanel/commit/aa7317ad98e199a09b8477138a03fade12be7899)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
