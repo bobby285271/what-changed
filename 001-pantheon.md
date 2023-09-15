@@ -23,6 +23,9 @@
 - [ ] [<code>Application: Set allow_replacement flag (#2075)</code>](https://github.com/elementary/appcenter/commit/d9c74877697a377860964aaab55fb1839a0d7a4d)
 - [ ] [<code>AppInfoView: Warn about direct notification access (#2078)</code>](https://github.com/elementary/appcenter/commit/7820570463762f5a29a36ee1d4464b0454cd54ba)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#2079)</code>](https://github.com/elementary/appcenter/commit/3d227aecfa3bb7a1e11f98d6ad267086874addbd)
+- [ ] [<code>AppInfoView: disambiguate location icons (#2082)</code>](https://github.com/elementary/appcenter/commit/5a207efe91baf576bcf36e327db72b47d653970c)
+- [ ] [<code>AppInfoView: warn about legacy autostart (#2081)</code>](https://github.com/elementary/appcenter/commit/c02df748667822bddc65fc4e882b258d0232c5f0)
+- [ ] [<code>Metainfo: Add 7.4.0 release notes (#2083)</code>](https://github.com/elementary/appcenter/commit/e152411b4c69d850f5cc81e886d2600443975a00)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -411,6 +414,10 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#686)</code>](https://github.com/elementary/greeter/commit/c06d960a8d57a17c5346f6267ca1fae7df12fae8)
+- [ ] [<code>ci: Specify the mutter package to use (#687)</code>](https://github.com/elementary/greeter/commit/bdcdc8fec616ecac72936fcabc2f4ac4225f52b2)
+- [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/greeter/commit/dbd9b6f9701f5992c3b3257c025b9cd80d041cc8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -459,6 +466,10 @@
 - [ ] [<code>ScreenShield: respect animations key (#1744)</code>](https://github.com/elementary/gala/commit/2b34d8cf69a57a52b9511f3478ad1cd0ae5e770a)
 - [ ] [<code>Remove `PluginFunction.DESKTOP` (#1747)</code>](https://github.com/elementary/gala/commit/5804d7fb08e41dab632b235d31a0af8ca2a233e2)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1749)</code>](https://github.com/elementary/gala/commit/1d50165a196f0caaa3289fc6fbe9f774078d91bf)
+- [ ] [<code>ci: Specify the mutter package to use (#1758)</code>](https://github.com/elementary/gala/commit/9fe67843b87709f41b86e4dd21fba9376551215b)
+- [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/gala/commit/151e5f01750e9471cceac48f1999ac5e81f625b5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
