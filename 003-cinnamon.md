@@ -46,7 +46,15 @@
 - [ ] [<code>Fix issue #11810 (#11814)</code>](https://github.com/linuxmint/cinnamon/commit/d71dbf5f3909a3e9c0404a36e4cf26490fde3a0f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/cinnamon/commit/b6744f144753a162d82ad60afebd573d0a96b572)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>Updated cs_info module (#11861)</code>](https://github.com/linuxmint/cinnamon/commit/4ab982415b91c26bafb6a7a5dc7a48e2ceab0386)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: Add telegram-desktop to players without seek support (#11835)</code>](https://github.com/linuxmint/cinnamon/commit/7d2c9157baaba2e7d5365a32560bb0f245271c7e)
+  - <sub>Tags: <code>master.lmde6</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix various typos (#11836)</code>](https://github.com/linuxmint/cinnamon/commit/ce4dce539fe13d4287a35ccb7034775f12095dc3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>js: Use string instead of regexp (#11845)</code>](https://github.com/linuxmint/cinnamon/commit/0b4525cc538e73ec03d0473dab5cd06be1c640c6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
