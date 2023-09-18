@@ -36,6 +36,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#261)</code>](https://github.com/elementary/calculator/commit/5aba6224a8728c2a52ef7f0311cfba09a6cc93ab)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#262)</code>](https://github.com/elementary/calculator/commit/660d625bfa26749dee1663cd1ab556e2728853d6)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -43,6 +44,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#796)</code>](https://github.com/elementary/calendar/commit/b31b9356a156cca628a2d42d0331f361c7bd5a52)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#797)</code>](https://github.com/elementary/calendar/commit/1267389a710795704938b92fe793db1e0c1bb189)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -50,6 +52,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#266)</code>](https://github.com/elementary/camera/commit/70570b327b53cfa21a1cc15c70cd0e44796cb07d)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#267)</code>](https://github.com/elementary/camera/commit/cc2494e66854e9bb2e63a27eb70445b88c935517)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.1.0 → HEAD](https://github.com/elementary/code/compare/7.1.0...HEAD)
 
@@ -103,6 +106,7 @@
 
 - [ ] [<code>AppData: Add translation info (#47)</code>](https://github.com/elementary/iconbrowser/commit/467fb46cfdfeb26350678e043bbf049db400a1c9)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#48)</code>](https://github.com/elementary/iconbrowser/commit/890e610fdd9ab56c2981ad026775af0971d9c48f)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#49)</code>](https://github.com/elementary/iconbrowser/commit/8b7e9cb4b6216e221b61a8abfc71aa268b25aacd)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -115,6 +119,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>InsertLinkDialog: Do not translate URL (#946)</code>](https://github.com/elementary/mail/commit/4e70dd2f145f9c3f11de07b9b4df9d01d053034a)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#959)</code>](https://github.com/elementary/mail/commit/1d8502947db6c9d8b33050c2227b43b4ca53a54a)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#965)</code>](https://github.com/elementary/mail/commit/af18b250093e0395612146364eb07a9ce6d247cc)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -165,6 +170,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>fix notify signal signature in prefers-color-scheme callback (#373)</code>](https://github.com/elementary/tasks/commit/f767a87963b0ccf27cb1a96d800ec8382aba34b5)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#374)</code>](https://github.com/elementary/tasks/commit/91ec6ca2a360c6c4d749e8dd62ffa108a6b4cc2b)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#375)</code>](https://github.com/elementary/tasks/commit/4be89ab1378647e522ad14e675f9ca1f9e1c00b0)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -677,6 +683,7 @@
 - [ ] [<code>Add open-vm-tools to pool (#681)</code>](https://github.com/elementary/os/commit/47f3f65e3a838d742979376fe88585627432c0e4)
 - [ ] [<code>Install kernel headers by default (#684)</code>](https://github.com/elementary/os/commit/09569bdb00c35423e891e48ea459564a5337c275)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#688)</code>](https://github.com/elementary/os/commit/47939f0846ca4d3ae96ffee449e20d83f45f56e7)
+- [ ] [<code>Bump easimon/maximize-build-space from 7 to 8</code>](https://github.com/elementary/os/commit/118cbc2b2af67e725d980cda05cda4c8746d141b)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
