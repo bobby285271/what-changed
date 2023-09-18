@@ -26,6 +26,7 @@
 - [ ] [<code>AppInfoView: disambiguate location icons (#2082)</code>](https://github.com/elementary/appcenter/commit/5a207efe91baf576bcf36e327db72b47d653970c)
 - [ ] [<code>AppInfoView: warn about legacy autostart (#2081)</code>](https://github.com/elementary/appcenter/commit/c02df748667822bddc65fc4e882b258d0232c5f0)
 - [ ] [<code>Metainfo: Add 7.4.0 release notes (#2083)</code>](https://github.com/elementary/appcenter/commit/e152411b4c69d850f5cc81e886d2600443975a00)
+- [ ] [<code>AppListUpdateView: use flowbox for installed (#1974)</code>](https://github.com/elementary/appcenter/commit/2f91ad9fc8e8bbeb4f94eebf59b2d3a8c82a2c9c)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -96,6 +97,7 @@
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#2311)</code>](https://github.com/elementary/files/commit/ae108f441ac50fedeae6d2c2febdd4f879b5b037)
 - [ ] [<code>Application: Fix Creating a New Tab in The First Launch (#2310)</code>](https://github.com/elementary/files/commit/fec6c79d69b11adba5517c2512fc0d84d1f0c80f)
+- [ ] [<code>Add null file check before updating thumbnail and plugins</code>](https://github.com/elementary/files/commit/ba8487e3dd1eab3180c27d9e72cbf2b32dbc250f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -410,6 +412,8 @@
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#292)</code>](https://github.com/elementary/default-settings/commit/845e2f95e02468988967f4f4506cffa4e253e3a1)
+- [ ] [<code>Add pantheon-portals.conf</code>](https://github.com/elementary/default-settings/commit/8201eeb6a356e6059b505756ef7a556a6848ad3b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
