@@ -203,6 +203,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Support repeat one and repeat all (#369)</code>](https://github.com/elementary/videos/commit/e7ec84850181cb27dab3afd0d1d902345d552fd8)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#370)</code>](https://github.com/elementary/videos/commit/87850fe32ab9940aeed5f0625b83865c1699c92c)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#373)</code>](https://github.com/elementary/videos/commit/92da57d238a65bd3b42ded7497776a3dacb7d659)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -606,6 +607,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#108)</code>](https://github.com/elementary/capnet-assist/commit/c5bcc7eabd70cac5105ffe22bb0ff01f22956fe9)
 - [ ] [<code>Port to HdyTabBar (#91)</code>](https://github.com/elementary/capnet-assist/commit/fb6ee6071bd7c529c5ad806942a0066cfd0b819e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#110)</code>](https://github.com/elementary/capnet-assist/commit/0ab0d3695c560ca71d6d5f3b0a6d82f80e634416)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
