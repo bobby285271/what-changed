@@ -27,6 +27,9 @@
 - [ ] [<code>AppInfoView: warn about legacy autostart (#2081)</code>](https://github.com/elementary/appcenter/commit/c02df748667822bddc65fc4e882b258d0232c5f0)
 - [ ] [<code>Metainfo: Add 7.4.0 release notes (#2083)</code>](https://github.com/elementary/appcenter/commit/e152411b4c69d850f5cc81e886d2600443975a00)
 - [ ] [<code>AppListUpdateView: use flowbox for installed (#1974)</code>](https://github.com/elementary/appcenter/commit/2f91ad9fc8e8bbeb4f94eebf59b2d3a8c82a2c9c)
+- [ ] [<code>Release 7.4.0 (#2084)</code>](https://github.com/elementary/appcenter/commit/6474da5337dbf33d51c09c3707c106ac06412e50)
+  - <sub>Tags: <code>7.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -59,6 +62,7 @@
 - [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
 - [ ] [<code>Silence terminal warning re adding null item (#1353)</code>](https://github.com/elementary/code/commit/bba7c148eec0c42bd993160f19ed9c72ed256076)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1372)</code>](https://github.com/elementary/code/commit/0540fffc983b77e99bbd09a6eb8b4736128138ad)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#1373)</code>](https://github.com/elementary/code/commit/315f702f450cd532fa3e5fa5133f867b691a6170)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -127,6 +131,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#759)</code>](https://github.com/elementary/music/commit/07296f502476bbd2d19e806cb5ff5b2777619207)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#760)</code>](https://github.com/elementary/music/commit/26654fbfb675cc2ad05fc295b2392901c658f85e)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -162,6 +167,7 @@
 - [ ] [<code>Replace FileChooserButton for GTK4 (#243)</code>](https://github.com/elementary/screenshot/commit/30e484adacb3fb4309090183382e8cd7f29afabc)
 - [ ] [<code>SaveDialog: use fileinfo, localize, DRY (#269)</code>](https://github.com/elementary/screenshot/commit/aeff9f6b89f59815c7c5ae618b83f61364fb60bd)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#270)</code>](https://github.com/elementary/screenshot/commit/f6f4d87598bd7c821928a9a0b2e5c5cd71821898)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#271)</code>](https://github.com/elementary/screenshot/commit/60e89636a2e8dbf13c41b5591a3e75bfa869c844)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -499,6 +505,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#572)</code>](https://github.com/elementary/applications-menu/commit/f3cd8414fe83171ddc7db48d25c21fa1d20fd235)
+- [ ] [<code>Add test instructions to readme (#573)</code>](https://github.com/elementary/applications-menu/commit/0fc8e8a73c6d353f717ca487ecd7764e5d8c4754)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -551,6 +558,9 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0dfbc04e376b2c40a388b5ef9ca8901f39814521)
 - [ ] [<code>Update notifications.metainfo.xml.in (#270)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2c0558471bf5de1d53374cfc28ce6ef3c0fe7fa8)
 - [ ] [<code>Make app sections unminimized by default (#272)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/503cd6443a29b164e4de8641b7a9a0fb159aedfd)
+- [ ] [<code>Release 7.1.0 (#271)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/d13c834e675219bb846bf4eb052ea03bcd1c935a)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
@@ -684,6 +694,12 @@
 - [ ] [<code>Install kernel headers by default (#684)</code>](https://github.com/elementary/os/commit/09569bdb00c35423e891e48ea459564a5337c275)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#688)</code>](https://github.com/elementary/os/commit/47939f0846ca4d3ae96ffee449e20d83f45f56e7)
 - [ ] [<code>Bump easimon/maximize-build-space from 7 to 8</code>](https://github.com/elementary/os/commit/118cbc2b2af67e725d980cda05cda4c8746d141b)
+- [ ] [<code>Start building Next version (#690)</code>](https://github.com/elementary/os/commit/67f52881ec10a151a55877db1dbed765d6fff116)
+- [ ] [<code>build: Add a debootstrap symlink for mantic</code>](https://github.com/elementary/os/commit/7fe462e7ef4dc94cade0e3f5faca269a3297150b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update build.sh</code>](https://github.com/elementary/os/commit/82b3642e6c7b5470030ed152009dbbf1fde4d8a0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove PACKAGE_LISTS_SUFFIX option (#691)</code>](https://github.com/elementary/os/commit/a36d965db37e1db10b934a50d9aa93a269435d05)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
