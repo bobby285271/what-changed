@@ -702,6 +702,7 @@
 - [ ] [<code>Update build.sh</code>](https://github.com/elementary/os/commit/82b3642e6c7b5470030ed152009dbbf1fde4d8a0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove PACKAGE_LISTS_SUFFIX option (#691)</code>](https://github.com/elementary/os/commit/a36d965db37e1db10b934a50d9aa93a269435d05)
+  - <sub>Tags: <code>7.1.0-rc1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
