@@ -287,6 +287,14 @@
 - [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
 - [ ] [<code>feat: add about window (#131)</code>](https://github.com/lainsce/khronos/commit/4288a30cdfb402df635f9fdb1435ebf0dd6cb543)
 - [ ] [<code>data: mark two strings translatable (#132)</code>](https://github.com/lainsce/khronos/commit/99dd36a3398f8fbfb70112c5869aff267811fded)
+- [ ] [<code>* - new libadwaita stuff</code>](https://github.com/lainsce/khronos/commit/764d998ca3cf4ca144c0df5bc2a18fbdc09ada75)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>4.0.0</code>](https://github.com/lainsce/khronos/commit/8de097e84e5126d341980c6b6dd01c1d2868a193)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/9ed84bd53facee59cb39697c8d917aaf1935cdb4)
+- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/3cbb1af42e25b6ff7a2c4e9c1b79aee09618ad34)
+- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/693f8d2d664afe06513910a7b2fe5b4dbaa03077)
+  - <sub>Tags: <code>4.0.0</code></sub>
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
