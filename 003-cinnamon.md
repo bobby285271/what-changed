@@ -244,6 +244,10 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.6...HEAD)
 
+- [ ] [<code>Get flags from circles-flags-svg</code>](https://github.com/linuxmint/hypnotix/commit/ee620f5f393f0ada7b9f11e0f8af38aabf0fa9b9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/6207e6c3e7e17acf1bcbfb9df05b4406c31cc47d)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
