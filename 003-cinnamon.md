@@ -170,6 +170,7 @@
 - [ ] [<code>nemo-window-slot.c: Disable drop bar, until circular reference can</code>](https://github.com/linuxmint/nemo/commit/1b277e7ab63162a9d015d8c8d6c6ce169cf3c375)
 - [ ] [<code>nemo-window.c: Don't update saved window state if the window is</code>](https://github.com/linuxmint/nemo/commit/88da3336946922b3f433871fdbda595945b97032)
 - [ ] [<code>Fix trying the same filename when moving a file with duplicate name (#3299)</code>](https://github.com/linuxmint/nemo/commit/251dec89bca9f3ede75e5585eb59925a9ac49fab)
+- [ ] [<code>Fix thumbnail creation for local files</code>](https://github.com/linuxmint/nemo/commit/219cdf4dc122a9ceb48b5349cd9a2d7e33f8c77e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
