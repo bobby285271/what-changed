@@ -548,20 +548,8 @@
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#104)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6e3419dc1ec0d6c0e1f823f107c69028e34ede9c)
 
-#### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.0.0...HEAD)
+#### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
-- [ ] [<code>Rewrite `NotificationsMonitor` (#266)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/40545f68872beb7014876af5e64057d441740b47)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Support buttons with action group (#263)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/35c08898e30dc79abfe9fcd6549bccbb04b1564d)
-- [ ] [<code>Allow minimizing app sections (#264)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efae46b645eeff618bfa561b85ff505ff24e14b3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#269)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/70c854c819a0411b38b702803219099b9b8c2c3b)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0dfbc04e376b2c40a388b5ef9ca8901f39814521)
-- [ ] [<code>Update notifications.metainfo.xml.in (#270)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2c0558471bf5de1d53374cfc28ce6ef3c0fe7fa8)
-- [ ] [<code>Make app sections unminimized by default (#272)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/503cd6443a29b164e4de8641b7a9a0fb159aedfd)
-- [ ] [<code>Release 7.1.0 (#271)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/d13c834e675219bb846bf4eb052ea03bcd1c935a)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
