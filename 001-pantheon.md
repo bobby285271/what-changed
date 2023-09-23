@@ -48,6 +48,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#796)</code>](https://github.com/elementary/calendar/commit/b31b9356a156cca628a2d42d0331f361c7bd5a52)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#797)</code>](https://github.com/elementary/calendar/commit/1267389a710795704938b92fe793db1e0c1bb189)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/calendar/commit/aa6be1f7759c435b247b2908f21ce13d2fc2ec2f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
