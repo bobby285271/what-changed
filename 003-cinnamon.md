@@ -49,12 +49,11 @@
 - [ ] [<code>Updated cs_info module (#11861)</code>](https://github.com/linuxmint/cinnamon/commit/4ab982415b91c26bafb6a7a5dc7a48e2ceab0386)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sound applet: Add telegram-desktop to players without seek support (#11835)</code>](https://github.com/linuxmint/cinnamon/commit/7d2c9157baaba2e7d5365a32560bb0f245271c7e)
-  - <sub>Tags: <code>master.lmde6</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix various typos (#11836)</code>](https://github.com/linuxmint/cinnamon/commit/ce4dce539fe13d4287a35ccb7034775f12095dc3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>js: Use string instead of regexp (#11845)</code>](https://github.com/linuxmint/cinnamon/commit/0b4525cc538e73ec03d0473dab5cd06be1c640c6)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -208,8 +207,12 @@
 - [ ] [<code>warpinator.py: Set our own dbus StatusIcon name.</code>](https://github.com/linuxmint/warpinator/commit/fb7be24d1d29099ce38f66b8d9963cd92261e5d5)
 - [ ] [<code>notifications.py: Show the recipient (not the sender) in the</code>](https://github.com/linuxmint/warpinator/commit/f5763dd8d1d4b2cdb225b1af4c7a9000d8defca8)
 - [ ] [<code>warpinator-send.in: Remove a comment leftover from copy/paste.</code>](https://github.com/linuxmint/warpinator/commit/957e21bfd7b46c4fcf01dec8103991ecc3dd11c4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>thread pool: Always use a minimum of 4 threads.</code>](https://github.com/linuxmint/warpinator/commit/cbe92531871209be31daf3a52d0dbce9a52a11e9)
+- [ ] [<code>warpinator-send: Allow uris and paths.</code>](https://github.com/linuxmint/warpinator/commit/17156747b071a2774d4b291ff91b37ad0bd97418)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>save folder: Fully resolve the save location before performing</code>](https://github.com/linuxmint/warpinator/commit/79e129622241ad115e1a11ef6e0724d26a80daac)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
