@@ -300,6 +300,13 @@
 
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/378b24aae15be5f988d709719df5b1bf8fc7f4c7)
 - [ ] [<code>Merge pull request #568 from albanobattistella/patch-24</code>](https://github.com/phase1geo/minder/commit/3a3513917c8ff226d7347e1b27e62b1ed4a5f2ac)
+- [ ] [<code>Adding initial support for pasting node links in notes.</code>](https://github.com/phase1geo/minder/commit/574837623c1816910abe2a86fef60ad2782dd05b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for bringing over node links when a node is copied.</code>](https://github.com/phase1geo/minder/commit/0991b89e53ac66dda45746ef2b632afe4e195864)
+- [ ] [<code>Adding support for node link tooltips in notes field.</code>](https://github.com/phase1geo/minder/commit/d7ad84ccf5684fd765dfbe93047f7a1c5d53d230)
+- [ ] [<code>Adding the ability to paste node links into group and connection notes.</code>](https://github.com/phase1geo/minder/commit/cc4f8f441e047639d1af2fb3ec20306321d45602)
+- [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/ba079bba397b0ef80420ac77e9ef1efe475b4d27)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
