@@ -248,10 +248,8 @@
 - [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/ffc02fc8d78302db1d19f35a862c95b56fc25241)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.6...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.7...HEAD)
 
-- [ ] [<code>Get flags from circles-flags-svg</code>](https://github.com/linuxmint/hypnotix/commit/ee620f5f393f0ada7b9f11e0f8af38aabf0fa9b9)
-  - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/6207e6c3e7e17acf1bcbfb9df05b4406c31cc47d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
