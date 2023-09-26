@@ -307,6 +307,10 @@
 - [ ] [<code>Adding the ability to paste node links into group and connection notes.</code>](https://github.com/phase1geo/minder/commit/cc4f8f441e047639d1af2fb3ec20306321d45602)
 - [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/ba079bba397b0ef80420ac77e9ef1efe475b4d27)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Enhancing node link text in notes.</code>](https://github.com/phase1geo/minder/commit/0c67548396b6bd7a582e81234706a4f18b1bd39e)
+- [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/707bec43206c1c4e0065d998585986a543a822cb)
+- [ ] [<code>Fixing null reference when pasting node links in notes.</code>](https://github.com/phase1geo/minder/commit/2a79fa688512381098e546568e2682bdb2e1a032)
+- [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/6f8c77b22c3a3e797a90d90f09750740e73f7ce1)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
