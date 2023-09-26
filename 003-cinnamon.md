@@ -53,7 +53,9 @@
 - [ ] [<code>Fix various typos (#11836)</code>](https://github.com/linuxmint/cinnamon/commit/ce4dce539fe13d4287a35ccb7034775f12095dc3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>js: Use string instead of regexp (#11845)</code>](https://github.com/linuxmint/cinnamon/commit/0b4525cc538e73ec03d0473dab5cd06be1c640c6)
+- [ ] [<code>cinnamon-subprocess-wrapper: Handle invalid utf8, fix error message.</code>](https://github.com/linuxmint/cinnamon/commit/315801a4481b33c61451532bab6494ce26523871)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
