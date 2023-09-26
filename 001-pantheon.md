@@ -1,35 +1,11 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.3.0 → HEAD](https://github.com/elementary/appcenter/compare/7.3.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.4.0 → HEAD](https://github.com/elementary/appcenter/compare/7.4.0...HEAD)
 
-- [ ] [<code>AppInfoView: use child property instead of add (#2057)</code>](https://github.com/elementary/appcenter/commit/9baae1c42130e263b983f0f1b78741210871f471)
-- [ ] [<code>Fix deck navigation when changing package origin (#2064)</code>](https://github.com/elementary/appcenter/commit/21a560432c844d202509f6873ab3be602bfce7a4)
-- [ ] [<code>Fix deletion of search term when replacing text with text (#2063)</code>](https://github.com/elementary/appcenter/commit/f3ca06465e30ba189d91b3850a57ca2e645660b3)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#2065)</code>](https://github.com/elementary/appcenter/commit/68426271d0b3cb2b63e6fb0a301cd8e96e14dc77)
+- [ ] [<code>Add unit tests for credit card validation methods (#2091)</code>](https://github.com/elementary/appcenter/commit/b4e3e4f9be140cd17a318c3ca1ee5b3866376106)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Fix flickering on AppInfoView when getting install size (#2067)</code>](https://github.com/elementary/appcenter/commit/6b1785d51a953ea398fad6ec7a9aa4325c2db33b)
-- [ ] [<code>AbstractAppContainer: Gtk4 prep (#2072)</code>](https://github.com/elementary/appcenter/commit/99d6e563bf706cadce1ce310604711db798bec0a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Homepage: Gtk4 prep (#2071)</code>](https://github.com/elementary/appcenter/commit/faf76e8fc786ad150f9c4fa51fda9f41de976b75)
-- [ ] [<code>AppInfoView: gtk4 prep (#2069)</code>](https://github.com/elementary/appcenter/commit/495d90cd9011356a1ed22b1fa18874d9031a1211)
-- [ ] [<code>CategoryView: Gtk4 prep (#2073)</code>](https://github.com/elementary/appcenter/commit/297154763b9552e195c61f2caa2bb2d5d8b6ed05)
-- [ ] [<code>SearchView: bind liststore to listbox (#2076)</code>](https://github.com/elementary/appcenter/commit/651ace075554d4445e39ef55c70f7f4ee59a0fa4)
-- [ ] [<code>CardNumberEntry: gtk4 prep (#2074)</code>](https://github.com/elementary/appcenter/commit/e1471bcf5301aa0a82f8d86ceadad1db689e4ccd)
-- [ ] [<code>Resource: add web browser icon (#2077)</code>](https://github.com/elementary/appcenter/commit/a6d7e8d325b8492dd4d873eb6a7afd2441c9d5db)
-- [ ] [<code>StripeDialog: Gtk4 prep (#2068)</code>](https://github.com/elementary/appcenter/commit/7a18db74a7a269e42f594583736ef77a84eafdab)
-- [ ] [<code>MainWindow: gtk4 prep (#2070)</code>](https://github.com/elementary/appcenter/commit/20d725ce0a4aecedd0fefbbffe2ce3de9fa8d645)
-- [ ] [<code>Application: Set allow_replacement flag (#2075)</code>](https://github.com/elementary/appcenter/commit/d9c74877697a377860964aaab55fb1839a0d7a4d)
-- [ ] [<code>AppInfoView: Warn about direct notification access (#2078)</code>](https://github.com/elementary/appcenter/commit/7820570463762f5a29a36ee1d4464b0454cd54ba)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#2079)</code>](https://github.com/elementary/appcenter/commit/3d227aecfa3bb7a1e11f98d6ad267086874addbd)
-- [ ] [<code>AppInfoView: disambiguate location icons (#2082)</code>](https://github.com/elementary/appcenter/commit/5a207efe91baf576bcf36e327db72b47d653970c)
-- [ ] [<code>AppInfoView: warn about legacy autostart (#2081)</code>](https://github.com/elementary/appcenter/commit/c02df748667822bddc65fc4e882b258d0232c5f0)
-- [ ] [<code>Metainfo: Add 7.4.0 release notes (#2083)</code>](https://github.com/elementary/appcenter/commit/e152411b4c69d850f5cc81e886d2600443975a00)
-- [ ] [<code>AppListUpdateView: use flowbox for installed (#1974)</code>](https://github.com/elementary/appcenter/commit/2f91ad9fc8e8bbeb4f94eebf59b2d3a8c82a2c9c)
-- [ ] [<code>Release 7.4.0 (#2084)</code>](https://github.com/elementary/appcenter/commit/6474da5337dbf33d51c09c3707c106ac06412e50)
-  - <sub>Tags: <code>7.4.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -106,6 +82,12 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#2311)</code>](https://github.com/elementary/files/commit/ae108f441ac50fedeae6d2c2febdd4f879b5b037)
 - [ ] [<code>Application: Fix Creating a New Tab in The First Launch (#2310)</code>](https://github.com/elementary/files/commit/fec6c79d69b11adba5517c2512fc0d84d1f0c80f)
 - [ ] [<code>Add null file check before updating thumbnail and plugins</code>](https://github.com/elementary/files/commit/ba8487e3dd1eab3180c27d9e72cbf2b32dbc250f)
+- [ ] [<code>Handle restoring non-existent locations (#2303)</code>](https://github.com/elementary/files/commit/830694ee1f37ef749083a6cef8434ca8f629ab2a)
+- [ ] [<code>Prepare for release 6.5.1 (#2317)</code>](https://github.com/elementary/files/commit/08192eddd0ffe16aabe3f77054fd97b4f9f2a5f3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Release 6.5.1 (#2319)</code>](https://github.com/elementary/files/commit/c8d317c4685102ff0ba6c3d9303f004ccdcc3c31)
+  - <sub>Tags: <code>6.5.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -544,6 +526,10 @@
 - [ ] [<code>Switch to GHCR containers (#297)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/7a5214283371a7cf04e4b6c3443f2f09d0288e23)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0417725a38396866854bbac3a0acbd689a21d84c)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#306)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ae347e3ad65ebf52555c8133f54b59770e69b837)
+- [ ] [<code>Small icons on HiDPI displays (#308)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d9a27c3e8941566474ce2b76399d5ec2f468038b)
+- [ ] [<code>Release 7.0.2 (#309)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f3a3f7092079e37dc55168ed484d22d3fdcc9a9a)
+  - <sub>Tags: <code>7.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -693,6 +679,7 @@
 - [ ] [<code>Remove PACKAGE_LISTS_SUFFIX option (#691)</code>](https://github.com/elementary/os/commit/a36d965db37e1db10b934a50d9aa93a269435d05)
   - <sub>Tags: <code>7.1.0-rc1</code></sub>
 - [ ] [<code>7.0 → 7.1 (#693)</code>](https://github.com/elementary/os/commit/32e9d8da66fcf1317201186361548b8c397bf928)
+  - <sub>Tags: <code>7.1.0-rc2</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
@@ -706,3 +693,4 @@
 - [ ] [<code>Actions: use checkout v3</code>](https://github.com/elementary/seeds/commit/25a3ba2adc91c3e632fb01baf9d70e3aed365f6e)
 - [ ] [<code>sdk: Add Granite 7</code>](https://github.com/elementary/seeds/commit/cc10bf5ff616c0897e8741a551078445acd89bea)
 - [ ] [<code>Desktop: remove geoclue agent (#100)</code>](https://github.com/elementary/seeds/commit/dc5f8b112885527d29470cb85c6ab7c25d4927fc)
+- [ ] [<code>Desktop: add support for HEIF images (#103)</code>](https://github.com/elementary/seeds/commit/44134218a2b428d676db684579c1405164644ace)
