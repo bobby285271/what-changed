@@ -88,6 +88,7 @@
 - [ ] [<code>Release 6.5.1 (#2319)</code>](https://github.com/elementary/files/commit/c8d317c4685102ff0ba6c3d9303f004ccdcc3c31)
   - <sub>Tags: <code>6.5.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Pass ownership of file list to open_tabs so not destroyed</code>](https://github.com/elementary/files/commit/68e21f42270e118e51ebc2737a83f6115325c21f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
