@@ -54,8 +54,12 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>js: Use string instead of regexp (#11845)</code>](https://github.com/linuxmint/cinnamon/commit/0b4525cc538e73ec03d0473dab5cd06be1c640c6)
 - [ ] [<code>cinnamon-subprocess-wrapper: Handle invalid utf8, fix error message.</code>](https://github.com/linuxmint/cinnamon/commit/315801a4481b33c61451532bab6494ce26523871)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Replace misc/util.js polyfills with js natives... (#11865)</code>](https://github.com/linuxmint/cinnamon/commit/d04f6c3793df6574ceabb00d6d9d14c7fba37ffb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Replace util.js polyfills with JS natives... (#11871)</code>](https://github.com/linuxmint/cinnamon/commit/e4b39d33273cdf5f83f786063a68de5e437db18b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -172,7 +176,9 @@
 - [ ] [<code>nemo-window.c: Don't update saved window state if the window is</code>](https://github.com/linuxmint/nemo/commit/88da3336946922b3f433871fdbda595945b97032)
 - [ ] [<code>Fix trying the same filename when moving a file with duplicate name (#3299)</code>](https://github.com/linuxmint/nemo/commit/251dec89bca9f3ede75e5585eb59925a9ac49fab)
 - [ ] [<code>Fix thumbnail creation for local files</code>](https://github.com/linuxmint/nemo/commit/219cdf4dc122a9ceb48b5349cd9a2d7e33f8c77e)
+- [ ] [<code>file ops: Use symbolic tray icons.</code>](https://github.com/linuxmint/nemo/commit/db5cf6f10b27b1248f1a2173cc59fc8b2354c2b1)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
