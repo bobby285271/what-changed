@@ -89,6 +89,9 @@
   - <sub>Tags: <code>6.5.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Pass ownership of file list to open_tabs so not destroyed</code>](https://github.com/elementary/files/commit/68e21f42270e118e51ebc2737a83f6115325c21f)
+- [ ] [<code>Release version 6.5.2 (#2323)</code>](https://github.com/elementary/files/commit/606377f9e58c3736dc49a586ab09c81adf9863ce)
+  - <sub>Tags: <code>6.5.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -680,7 +683,7 @@
 - [ ] [<code>Remove PACKAGE_LISTS_SUFFIX option (#691)</code>](https://github.com/elementary/os/commit/a36d965db37e1db10b934a50d9aa93a269435d05)
   - <sub>Tags: <code>7.1.0-rc1</code></sub>
 - [ ] [<code>7.0 → 7.1 (#693)</code>](https://github.com/elementary/os/commit/32e9d8da66fcf1317201186361548b8c397bf928)
-  - <sub>Tags: <code>7.1.0-rc2</code></sub>
+  - <sub>Tags: <code>7.1.0-rc2</code> <code>7.1.0-rc3</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
