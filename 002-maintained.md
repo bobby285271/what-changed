@@ -307,10 +307,15 @@
 - [ ] [<code>Adding the ability to paste node links into group and connection notes.</code>](https://github.com/phase1geo/minder/commit/cc4f8f441e047639d1af2fb3ec20306321d45602)
 - [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/ba079bba397b0ef80420ac77e9ef1efe475b4d27)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Initial work on user-provided stickers.</code>](https://github.com/phase1geo/minder/commit/51e0b838d28ff95efeae829a24d9e618614dba45)
 - [ ] [<code>Enhancing node link text in notes.</code>](https://github.com/phase1geo/minder/commit/0c67548396b6bd7a582e81234706a4f18b1bd39e)
 - [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/707bec43206c1c4e0065d998585986a543a822cb)
 - [ ] [<code>Fixing null reference when pasting node links in notes.</code>](https://github.com/phase1geo/minder/commit/2a79fa688512381098e546568e2682bdb2e1a032)
 - [ ] [<code>Merge branch 'note-node-links'</code>](https://github.com/phase1geo/minder/commit/6f8c77b22c3a3e797a90d90f09750740e73f7ce1)
+- [ ] [<code>Completing work on custom sticker support.</code>](https://github.com/phase1geo/minder/commit/e150174544048d2d23a7b20953b78102522d5197)
+- [ ] [<code>Fixing external launcher for flatpak.</code>](https://github.com/phase1geo/minder/commit/94497e806d2ac7cfa6ad13eaaf0034426456b68e)
+- [ ] [<code>Merge branch 'extra-stickers'</code>](https://github.com/phase1geo/minder/commit/687ac6b80d25201116c74e71bd3445c51b5a79d6)
+- [ ] [<code>Updating 1.16.0 release notes.</code>](https://github.com/phase1geo/minder/commit/717f3c3e1539475bd70ef6ea6e687a72a757119f)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
