@@ -58,8 +58,10 @@
 - [ ] [<code>Replace misc/util.js polyfills with js natives... (#11865)</code>](https://github.com/linuxmint/cinnamon/commit/d04f6c3793df6574ceabb00d6d9d14c7fba37ffb)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Replace util.js polyfills with JS natives... (#11871)</code>](https://github.com/linuxmint/cinnamon/commit/e4b39d33273cdf5f83f786063a68de5e437db18b)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>state.js: replace polyfills with js natives.. (#11873)</code>](https://github.com/linuxmint/cinnamon/commit/56718fd2063f940f2d29000d24e5c42d1a804b4c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
