@@ -67,31 +67,8 @@
 - [ ] [<code>MainWindow: Fix change search terms message never shown (#99)</code>](https://github.com/elementary/feedback/commit/49fa2864e4ce799356bfdd12814518ebee133933)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#101)</code>](https://github.com/elementary/feedback/commit/e8049bfee9e2e9dad15c2f60777ca0b2e3ce6f83)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.0 → HEAD](https://github.com/elementary/files/compare/6.5.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.2 → HEAD](https://github.com/elementary/files/compare/6.5.2...HEAD)
 
-- [ ] [<code>Sidebar Gtk4 Prep (#2287)</code>](https://github.com/elementary/files/commit/580aefc1df6c6ac1f8444ccdf337aabe9211f89b)
-- [ ] [<code>meson: Don't run gtk-update-icon-cache (#2294)</code>](https://github.com/elementary/files/commit/758ece9fb29eb4a25f47065710dad4ac547ca2ce)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix copy/paste after file renamed (#2296)</code>](https://github.com/elementary/files/commit/d9cef820ea7f8af7100947aeb2575ce1fb039680)
-- [ ] [<code>Update build dependencies (#2299)</code>](https://github.com/elementary/files/commit/f1cd404f34da4c2f3058d9ec447889275b0b0c47)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Application: Rework Command Line Handling (#2307)</code>](https://github.com/elementary/files/commit/3a02bbed140ad728107b1d18574eac001733c3c6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#2311)</code>](https://github.com/elementary/files/commit/ae108f441ac50fedeae6d2c2febdd4f879b5b037)
-- [ ] [<code>Application: Fix Creating a New Tab in The First Launch (#2310)</code>](https://github.com/elementary/files/commit/fec6c79d69b11adba5517c2512fc0d84d1f0c80f)
-- [ ] [<code>Add null file check before updating thumbnail and plugins</code>](https://github.com/elementary/files/commit/ba8487e3dd1eab3180c27d9e72cbf2b32dbc250f)
-- [ ] [<code>Handle restoring non-existent locations (#2303)</code>](https://github.com/elementary/files/commit/830694ee1f37ef749083a6cef8434ca8f629ab2a)
-- [ ] [<code>Prepare for release 6.5.1 (#2317)</code>](https://github.com/elementary/files/commit/08192eddd0ffe16aabe3f77054fd97b4f9f2a5f3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Release 6.5.1 (#2319)</code>](https://github.com/elementary/files/commit/c8d317c4685102ff0ba6c3d9303f004ccdcc3c31)
-  - <sub>Tags: <code>6.5.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Pass ownership of file list to open_tabs so not destroyed</code>](https://github.com/elementary/files/commit/68e21f42270e118e51ebc2737a83f6115325c21f)
-- [ ] [<code>Release version 6.5.2 (#2323)</code>](https://github.com/elementary/files/commit/606377f9e58c3736dc49a586ab09c81adf9863ce)
-  - <sub>Tags: <code>6.5.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Incrementally go Vala-only (#2321)</code>](https://github.com/elementary/files/commit/806178cd904b2265ab73f7a6a56c03121a9b2c62)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
@@ -475,6 +452,13 @@
 - [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/gala/commit/151e5f01750e9471cceac48f1999ac5e81f625b5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Don't use Gtk.init</code>](https://github.com/elementary/gala/commit/5f3245ead885a7f240befc9c6dfd5c4f61b8513f)
+- [ ] [<code>BackgroundSource: Keep a reference to the monitor manager (#1767)</code>](https://github.com/elementary/gala/commit/f771b2a4ff83fa6839255cef755720de35f12978)
+- [ ] [<code>Use `Source.REMOVE`</code>](https://github.com/elementary/gala/commit/43200bc0ffc58fa2d256869f1d7865f1c77bbcd6)
+- [ ] [<code>Remove `background_sources` HashMap</code>](https://github.com/elementary/gala/commit/9be8b7d5f2b36a75944c743ee8a32522d215ab0f)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Rename to `gnome_background_settings`</code>](https://github.com/elementary/gala/commit/b9744dd3fcc549b070ce385a11ede718905a5e1e)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -521,20 +505,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d26d8968710e9ec55611a27528da7a0c5d0b3258)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#123)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b0f4d4293b6e6e28eb514ca2fb835ab28b200af3)
 
-#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.0.1...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.0.2...HEAD)
 
-- [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4aa0e27729cac1332bf37551130157dda9700fc2)
-- [ ] [<code>PopoverWidget: fix flowbox child focus (#288)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/88db9004249334e1316321e0373a3065900fe6f1)
-- [ ] [<code>WidgetNMInterface: remove update (#276)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b716dee18fc0fae4a3b3d783896a65d23f6ce0cb)
-- [ ] [<code>WifiInterface: avoid infinite recursive update</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d5f08d3975c893abad7551645ff7c451d5912197)
-- [ ] [<code>Fix focus style (#296)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3e7a3d40d4132edd189ec8e9da5e02c99fd0aac4)
-- [ ] [<code>Switch to GHCR containers (#297)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/7a5214283371a7cf04e4b6c3443f2f09d0288e23)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0417725a38396866854bbac3a0acbd689a21d84c)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#306)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ae347e3ad65ebf52555c8133f54b59770e69b837)
-- [ ] [<code>Small icons on HiDPI displays (#308)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d9a27c3e8941566474ce2b76399d5ec2f468038b)
-- [ ] [<code>Release 7.0.2 (#309)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f3a3f7092079e37dc55168ed484d22d3fdcc9a9a)
-  - <sub>Tags: <code>7.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
