@@ -92,6 +92,7 @@
 - [ ] [<code>Release version 6.5.2 (#2323)</code>](https://github.com/elementary/files/commit/606377f9e58c3736dc49a586ab09c81adf9863ce)
   - <sub>Tags: <code>6.5.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Incrementally go Vala-only (#2321)</code>](https://github.com/elementary/files/commit/806178cd904b2265ab73f7a6a56c03121a9b2c62)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
