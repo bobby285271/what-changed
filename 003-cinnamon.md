@@ -152,7 +152,7 @@
 - [ ] [<code>Make meta_set_verbose() public.</code>](https://github.com/linuxmint/muffin/commit/224ac93780c00d0c36649a05b131dd4e3e266092)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.4 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.4...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
 
 - [ ] [<code>debian: use buildtype=debugoptimized, use buildtype instead of an</code>](https://github.com/linuxmint/nemo/commit/fcf8d4736c876e01b9cbd336d95e32e56c44de3f)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
