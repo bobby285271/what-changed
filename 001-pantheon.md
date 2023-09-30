@@ -313,6 +313,8 @@
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#368)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/81cc542268d6c221c785ec971134f91906a4d4b3)
+- [ ] [<code>Make sure only copy wallpapers if not in ANY backgrounddirs (#371)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e7ac9966b7a71e8988b41543e5147ebe62794bbc)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -459,6 +461,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Rename to `gnome_background_settings`</code>](https://github.com/elementary/gala/commit/b9744dd3fcc549b070ce385a11ede718905a5e1e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Don't block `Alt + Shift` when there is only one keyboard layout (#1756)</code>](https://github.com/elementary/gala/commit/844eb95c69219228aa059f9c35178901ecd32f6e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
