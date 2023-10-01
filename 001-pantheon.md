@@ -394,6 +394,8 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#292)</code>](https://github.com/elementary/default-settings/commit/845e2f95e02468988967f4f4506cffa4e253e3a1)
 - [ ] [<code>Add pantheon-portals.conf</code>](https://github.com/elementary/default-settings/commit/8201eeb6a356e6059b505756ef7a556a6848ad3b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove deprecated keys (#291)</code>](https://github.com/elementary/default-settings/commit/3c49d4de9ead4623b4124ca374f4d5a28b638af5)
+  - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
