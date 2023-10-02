@@ -316,6 +316,10 @@
 - [ ] [<code>Fixing external launcher for flatpak.</code>](https://github.com/phase1geo/minder/commit/94497e806d2ac7cfa6ad13eaaf0034426456b68e)
 - [ ] [<code>Merge branch 'extra-stickers'</code>](https://github.com/phase1geo/minder/commit/687ac6b80d25201116c74e71bd3445c51b5a79d6)
 - [ ] [<code>Updating 1.16.0 release notes.</code>](https://github.com/phase1geo/minder/commit/717f3c3e1539475bd70ef6ea6e687a72a757119f)
+- [ ] [<code>updating version number to 1.16.0</code>](https://github.com/phase1geo/minder/commit/af1769059e46e11dc99e341edd31b2d16d046d8f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/f6d33042d578b77959ee2314258df359aee97bba)
+- [ ] [<code>Merge pull request #576 from albanobattistella/patch-26</code>](https://github.com/phase1geo/minder/commit/c2b84164ee7ca21a3afcc4fb1e43bfb44673d317)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
