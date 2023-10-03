@@ -58,36 +58,55 @@
 - [ ] [<code>Replace misc/util.js polyfills with js natives... (#11865)</code>](https://github.com/linuxmint/cinnamon/commit/d04f6c3793df6574ceabb00d6d9d14c7fba37ffb)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Replace util.js polyfills with JS natives... (#11871)</code>](https://github.com/linuxmint/cinnamon/commit/e4b39d33273cdf5f83f786063a68de5e437db18b)
-  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>state.js: replace polyfills with js natives.. (#11873)</code>](https://github.com/linuxmint/cinnamon/commit/56718fd2063f940f2d29000d24e5c42d1a804b4c)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#11870)</code>](https://github.com/linuxmint/cinnamon/commit/331e0fcf0ca613054ac4e1dfbfafc1ef92882243)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
 - [ ] [<code>display: Increase the number of available fractional scale buttons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/35c8df73763d0afc5f64ce8ef35c14fbd2816f45)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#318)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5cdfff822b048189946e99a8b2ba915cce5e8)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
 
 - [ ] [<code>gschemas: Change a comment</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3486cb0f0904b07836692682659ba73413389824)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#234)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/831ed6d93238a0769d765862cd47ed068bd503ea)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
 
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#67)</code>](https://github.com/linuxmint/cinnamon-menus/commit/60f5d52f227fa14747a89d4af96d18e8bb9a3eb2)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.8.1...HEAD)
 
 - [ ] [<code>Don't use libaccountsservice, which can block startup.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d5ad3735721a5e90dfea1f635a72c4f6e4a2c116)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d6b21662254713be9d7b89a3375329b673050873)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#444)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/337ea8b521685e2c72823871f2327f760decead2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#155)</code>](https://github.com/linuxmint/cinnamon-session/commit/8c66255c931c530740b6aa386a45ad49053dea45)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
 
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#383)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/13b0aa4c5ec930e9a08eca79668be6e982e5ddef)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.8.2...HEAD)
 
@@ -95,9 +114,11 @@
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.8.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.8.0...HEAD)
 
 - [ ] [<code>fix(build, tests): move `have_gtk4` to the appropriate place</code>](https://github.com/linuxmint/cjs/commit/fb480aae4eff422c3acd275c0108e970eafcdcb9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119)</code>](https://github.com/linuxmint/cjs/commit/58d7a321efad86fa1c7e8d707740898ac45c0ddb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [b735ed90b798eda541885735368930d045430e6e → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/b735ed90b798eda541885735368930d045430e6e...HEAD)
 
@@ -150,7 +171,11 @@
 - [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/muffin/commit/cfd899614e19eee805ebb84561d6bdb5d6274432)
 - [ ] [<code>meta-monitor.c: Allow 75% scaling once more.</code>](https://github.com/linuxmint/muffin/commit/e537dbbf8bfa92edf1cc4ec534a7dfdb53bfc885)
 - [ ] [<code>Make meta_set_verbose() public.</code>](https://github.com/linuxmint/muffin/commit/224ac93780c00d0c36649a05b131dd4e3e266092)
+- [ ] [<code>Fix a meson warning (#674)</code>](https://github.com/linuxmint/muffin/commit/b28c5f436c0017eb034e8a81fb5228591dc8543d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#675)</code>](https://github.com/linuxmint/muffin/commit/281551c2fa181f15cfea8a53b60a197e90cd7866)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
 
@@ -179,6 +204,9 @@
 - [ ] [<code>Fix trying the same filename when moving a file with duplicate name (#3299)</code>](https://github.com/linuxmint/nemo/commit/251dec89bca9f3ede75e5585eb59925a9ac49fab)
 - [ ] [<code>Fix thumbnail creation for local files</code>](https://github.com/linuxmint/nemo/commit/219cdf4dc122a9ceb48b5349cd9a2d7e33f8c77e)
 - [ ] [<code>file ops: Use symbolic tray icons.</code>](https://github.com/linuxmint/nemo/commit/db5cf6f10b27b1248f1a2173cc59fc8b2354c2b1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-view.c: Show detailed actions for some selection types (#3307)</code>](https://github.com/linuxmint/nemo/commit/9a13a25480907565ab581e7fe26a3f98c9ba962a)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#3316)</code>](https://github.com/linuxmint/nemo/commit/c0c76dbdb803a3717bcf6d18a8e8396bdadbf9b3)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
@@ -194,6 +222,11 @@
 - [ ] [<code>nemo-share 5.8.2</code>](https://github.com/linuxmint/nemo-extensions/commit/75ba6dabdfbd576a5a81c11ee643c7c46ffbc5cb)
   - <sub>Tags: <code>nemo-share-5.8.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix a meson warning (#495)</code>](https://github.com/linuxmint/nemo-extensions/commit/17b0005b32e4e2c2487c8fb7dc1a6253d3aa7235)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#496)</code>](https://github.com/linuxmint/nemo-extensions/commit/a1b0232e00c53980acb9882597fc2c34b0e352d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
 
@@ -229,7 +262,10 @@
 - [ ] [<code>Add github issue templates.</code>](https://github.com/linuxmint/xapp/commit/7945d7420f0c7daa28a506d03657aa9bb04c5836)
 - [ ] [<code>xapp-gtk3-module.c: Use the 'realize' signal to trigger injecting</code>](https://github.com/linuxmint/xapp/commit/8570496c3f909458c0b8035048ae7671b760577f)
 - [ ] [<code>xapp-sn-watcher.c: Mute some warning messages from more of</code>](https://github.com/linuxmint/xapp/commit/0ab6db8e5b74d7b40a31be3eaed3a2a6740bcc1c)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#172)</code>](https://github.com/linuxmint/xapp/commit/5df50519684468ba48c630d4bf0d19b8ee4041d0)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
 
