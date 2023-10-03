@@ -316,10 +316,33 @@
 - [ ] [<code>Fixing external launcher for flatpak.</code>](https://github.com/phase1geo/minder/commit/94497e806d2ac7cfa6ad13eaaf0034426456b68e)
 - [ ] [<code>Merge branch 'extra-stickers'</code>](https://github.com/phase1geo/minder/commit/687ac6b80d25201116c74e71bd3445c51b5a79d6)
 - [ ] [<code>Updating 1.16.0 release notes.</code>](https://github.com/phase1geo/minder/commit/717f3c3e1539475bd70ef6ea6e687a72a757119f)
+- [ ] [<code>Checkpointing work on support for callouts.</code>](https://github.com/phase1geo/minder/commit/bb212d12da36f0209467a389ff6a49ee265d2e96)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on callouts.</code>](https://github.com/phase1geo/minder/commit/0f3636d4e7480ceab7520e1894c2aa88627e5b81)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for callout resizing.</code>](https://github.com/phase1geo/minder/commit/c8bd557d845567a3b23d3d824761c36311cf047d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing bug in callout load() and fixing tab close state issues.</code>](https://github.com/phase1geo/minder/commit/2b13e699326e3a7dc91ec39a4fe30a5669c2e491)
+- [ ] [<code>Adding Markdown, URL and Unicode parser support to Callouts.</code>](https://github.com/phase1geo/minder/commit/4da3ce108a0b5f05d96808e485ae3fedaa5ed39e)
+- [ ] [<code>Checkpointing more callout work.</code>](https://github.com/phase1geo/minder/commit/40aa0808007416003e0f85c063977f50a5b68024)
+- [ ] [<code>Adding callouts to search.</code>](https://github.com/phase1geo/minder/commit/56b816d01ccc3fbae238339087fdce91213beefa)
+- [ ] [<code>Missing files from last commit</code>](https://github.com/phase1geo/minder/commit/e922849634b967c95483d37ee4bfe1dca0cf0380)
 - [ ] [<code>updating version number to 1.16.0</code>](https://github.com/phase1geo/minder/commit/af1769059e46e11dc99e341edd31b2d16d046d8f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/f6d33042d578b77959ee2314258df359aee97bba)
 - [ ] [<code>Merge pull request #576 from albanobattistella/patch-26</code>](https://github.com/phase1geo/minder/commit/c2b84164ee7ca21a3afcc4fb1e43bfb44673d317)
+- [ ] [<code>Fixing layout issues with callouts.</code>](https://github.com/phase1geo/minder/commit/d89e35f209feceab2f4dd37ad9d863722d379eed)
+- [ ] [<code>Add extended link points to improve link drawing.</code>](https://github.com/phase1geo/minder/commit/c8478f250127499d9e61a4666b09f5db95397077)
+- [ ] [<code>Adding support for showing/hiding all callouts.</code>](https://github.com/phase1geo/minder/commit/2461702bf9688ea06f3c56f7c3be7a4c858d7f79)
+- [ ] [<code>Adding rounded corners to callouts based on padding.</code>](https://github.com/phase1geo/minder/commit/ca1e15c9da316300622c2957a214c56d000667ec)
+- [ ] [<code>Adding support for new callout hide/show animation.</code>](https://github.com/phase1geo/minder/commit/fb8bcfadadef2604ce76ba85480ab2a6bace6f26)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleaning up UI issues and changing default callout color</code>](https://github.com/phase1geo/minder/commit/9edd6f002f29249820fc37e8fc2cd78e1e2233ab)
+- [ ] [<code>Fixing text menu issues with callouts.</code>](https://github.com/phase1geo/minder/commit/7b2b4385e99951259acfbbb6dddb4e1c97040fc2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing connection issues with nodes with callouts.</code>](https://github.com/phase1geo/minder/commit/46144ffcc057d91ffb14139d30c88b356e35462f)
+- [ ] [<code>Merge branch 'callouts'</code>](https://github.com/phase1geo/minder/commit/0e0aad4fa96be3214b94029bb451b15c58adfadc)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
