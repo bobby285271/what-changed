@@ -343,6 +343,11 @@
 - [ ] [<code>Fixing connection issues with nodes with callouts.</code>](https://github.com/phase1geo/minder/commit/46144ffcc057d91ffb14139d30c88b356e35462f)
 - [ ] [<code>Merge branch 'callouts'</code>](https://github.com/phase1geo/minder/commit/0e0aad4fa96be3214b94029bb451b15c58adfadc)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding node alignment UI in map inspector.</code>](https://github.com/phase1geo/minder/commit/789fb8d6c32f0c1e88da87f8744a848758513604)
+- [ ] [<code>Make alignment UI more compact in sidebar.</code>](https://github.com/phase1geo/minder/commit/0b0ae496b54c196e9b0d4791d884721a81de8f76)
+- [ ] [<code>Adding zoom option to PNG and JPEG export.</code>](https://github.com/phase1geo/minder/commit/a5ad460e6563bb3234082df35e1e54af014e2e68)
+- [ ] [<code>Adding missing "callout background" color from theme editor.</code>](https://github.com/phase1geo/minder/commit/7c53b96e3fe32d8df92847e5a2a3f54430d366ce)
+- [ ] [<code>Updating appdata release description and updating translation files.</code>](https://github.com/phase1geo/minder/commit/caac6bd8237e40ee49fd5b8e2bab5d8f13002650)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -392,6 +397,8 @@
 - [ ] [<code>Tweaks: Remove URI of dropped pane</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/26e1d9d0c68dd2841494ad784bac61f18cf101f3)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/94bdb5141f03daaed303ecfe3d1fe8ec51f2c65d)
 - [ ] [<code>Add .valalintignore</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a9615c2983b750570ebff8500e2a6ae21fc30e0b)
+- [ ] [<code>Metainfo: Mark release descriptions as untranslatable</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7bcf794f024febb06731227ae62319a752893f22)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71094be78b8c8a16b4830c6808593d1ef38552a8)
 
 #### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
