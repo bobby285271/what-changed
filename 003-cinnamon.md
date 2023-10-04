@@ -61,9 +61,15 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>state.js: replace polyfills with js natives.. (#11873)</code>](https://github.com/linuxmint/cinnamon/commit/56718fd2063f940f2d29000d24e5c42d1a804b4c)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#11870)</code>](https://github.com/linuxmint/cinnamon/commit/331e0fcf0ca613054ac4e1dfbfafc1ef92882243)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>cs_backgrounds: Recognize .avif files.</code>](https://github.com/linuxmint/cinnamon/commit/96f73f6c75f40ae88810b78e2a393fd47ba65a26)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>misc: Use locale.getlocale() instead of locale.getdefaultlocale().</code>](https://github.com/linuxmint/cinnamon/commit/6e387fff67378f2136ca94b236b68506313c8f96)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>calendar eventView.js: Try to cancel scroll-to-row callback when</code>](https://github.com/linuxmint/cinnamon/commit/d12ad8444c88c370b3c881848d6740063ea717ad)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -207,8 +213,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-view.c: Show detailed actions for some selection types (#3307)</code>](https://github.com/linuxmint/nemo/commit/9a13a25480907565ab581e7fe26a3f98c9ba962a)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#3316)</code>](https://github.com/linuxmint/nemo/commit/c0c76dbdb803a3717bcf6d18a8e8396bdadbf9b3)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-pathbar.c: Remove unnecessary g_object_unref.</code>](https://github.com/linuxmint/nemo/commit/ba29a2ffb1cd85ea323a7aa44fbf86fd804c2532)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
