@@ -348,6 +348,8 @@
 - [ ] [<code>Adding zoom option to PNG and JPEG export.</code>](https://github.com/phase1geo/minder/commit/a5ad460e6563bb3234082df35e1e54af014e2e68)
 - [ ] [<code>Adding missing "callout background" color from theme editor.</code>](https://github.com/phase1geo/minder/commit/7c53b96e3fe32d8df92847e5a2a3f54430d366ce)
 - [ ] [<code>Updating appdata release description and updating translation files.</code>](https://github.com/phase1geo/minder/commit/caac6bd8237e40ee49fd5b8e2bab5d8f13002650)
+- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/64d4fcf6e671672ba37422bf4db177ccd682d867)
+- [ ] [<code>Merge pull request #577 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/44eb0da09ce1bf860315f8df015ff6c775cff9b7)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
