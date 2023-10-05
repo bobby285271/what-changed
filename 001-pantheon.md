@@ -61,6 +61,7 @@
 - [ ] [<code>Support dark mode (#183)</code>](https://github.com/elementary/dock/commit/581e555b9229c122be887cbbf1dda81d2993932c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#185)</code>](https://github.com/elementary/dock/commit/b5c18f63e176d8dbfe84831e7d89fbfa2c486317)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
