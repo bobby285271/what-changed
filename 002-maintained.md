@@ -350,6 +350,8 @@
 - [ ] [<code>Updating appdata release description and updating translation files.</code>](https://github.com/phase1geo/minder/commit/caac6bd8237e40ee49fd5b8e2bab5d8f13002650)
 - [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/64d4fcf6e671672ba37422bf4db177ccd682d867)
 - [ ] [<code>Merge pull request #577 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/44eb0da09ce1bf860315f8df015ff6c775cff9b7)
+- [ ] [<code>Improve German translation</code>](https://github.com/phase1geo/minder/commit/6693560b844bf3ffdab12b9bdf88fcb89f2e23ed)
+- [ ] [<code>Merge pull request #578 from be-we/master</code>](https://github.com/phase1geo/minder/commit/b2bd7c7bb3edca7b07e1421db57e7093e5b633dd)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
