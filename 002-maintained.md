@@ -404,6 +404,7 @@
 - [ ] [<code>Metainfo: Mark release descriptions as untranslatable</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7bcf794f024febb06731227ae62319a752893f22)
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71094be78b8c8a16b4830c6808593d1ef38552a8)
 - [ ] [<code>README: Add OS 7.1 to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/eb165eb3d4df1a74039330ea5f3efe26724b07bb)
+- [ ] [<code>Actions: Add CI for each OS versions (#181)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/69401a1fe411cfaf6eaaae7de87c259553c2c2dd)
 
 #### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
