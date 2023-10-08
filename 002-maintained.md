@@ -352,6 +352,8 @@
 - [ ] [<code>Merge pull request #577 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/44eb0da09ce1bf860315f8df015ff6c775cff9b7)
 - [ ] [<code>Improve German translation</code>](https://github.com/phase1geo/minder/commit/6693560b844bf3ffdab12b9bdf88fcb89f2e23ed)
 - [ ] [<code>Merge pull request #578 from be-we/master</code>](https://github.com/phase1geo/minder/commit/b2bd7c7bb3edca7b07e1421db57e7093e5b633dd)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/31ebc9b6e385bce0ceb75d866f341be6c954bad2)
+- [ ] [<code>Merge pull request #579 from albanobattistella/patch-27</code>](https://github.com/phase1geo/minder/commit/cd5a4eb697a802fba7ff8c362696e0e1d495cd76)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -470,6 +472,7 @@
 - [ ] [<code>Mention PPA signing key in installation instructions (#625)</code>](https://github.com/JoseExposito/touchegg/commit/d1d36a33b14d44d9f8cf9a6c25696b9d6c7ded9f)
 - [ ] [<code>Add workarounds of 2 finger swipes for web browser navigation</code>](https://github.com/JoseExposito/touchegg/commit/3e5a684647a162e27b6478d08ce45c4e7bfc3d0c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
 
