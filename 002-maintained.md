@@ -354,6 +354,9 @@
 - [ ] [<code>Merge pull request #578 from be-we/master</code>](https://github.com/phase1geo/minder/commit/b2bd7c7bb3edca7b07e1421db57e7093e5b633dd)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/31ebc9b6e385bce0ceb75d866f341be6c954bad2)
 - [ ] [<code>Merge pull request #579 from albanobattistella/patch-27</code>](https://github.com/phase1geo/minder/commit/cd5a4eb697a802fba7ff8c362696e0e1d495cd76)
+- [ ] [<code>Checkpointing work on save/load.</code>](https://github.com/phase1geo/minder/commit/d4852e1bcb0808128f0e0f829767ed400aea4f7d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/6126c7b3a4d807af742022d31c1ea4dbcdbbd7cc)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
