@@ -150,8 +150,9 @@
 - [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly (#453)</code>](https://github.com/linuxmint/mint-themes/commit/2b0fd85204aa1017e14206f45542d1b662a605bd)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>.gitignore: Fix usr/ path to exclude files/usr (#451)</code>](https://github.com/linuxmint/mint-themes/commit/4f3ff255ace3f5458d5ec633e9acd6fc5f893830)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-X/Y: Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-themes/commit/6431f665a5707c5ad5b53bc46141412494b8d55e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
@@ -180,8 +181,9 @@
 - [ ] [<code>Fix a meson warning (#674)</code>](https://github.com/linuxmint/muffin/commit/b28c5f436c0017eb034e8a81fb5228591dc8543d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#675)</code>](https://github.com/linuxmint/muffin/commit/281551c2fa181f15cfea8a53b60a197e90cd7866)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>keybindings: Restore window opacity keybindings.</code>](https://github.com/linuxmint/muffin/commit/042e9d4a855d7014d0770c97d55432243b6eac20)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
 
