@@ -190,6 +190,27 @@
 - [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/4addc644b8ff739ece875e6e92a309c58a959ddb)
 - [ ] [<code>Clamp category box, not scrolled window (#264)</code>](https://github.com/elementary/switchboard/commit/eb8fd718d63ad3745ee3a98333fc7c49bd86acd9)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#271)</code>](https://github.com/elementary/switchboard/commit/0682e1e5da63efc3713ff292a803b7faf4fca6d0)
+- [ ] [<code>master → main</code>](https://github.com/elementary/switchboard/commit/b41034ddb48a4e957f00e4430e7e2426c61ef2a6)
+- [ ] [<code>Port to Gtk4 (#231)</code>](https://github.com/elementary/switchboard/commit/d0dcfda71afd9fcc3da766a497e6352e645f3345)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Lib: bump to libswitchboard-3 (#236)</code>](https://github.com/elementary/switchboard/commit/6875ecbbed18c1ce290e4fc0b0ca1c8a0c27969e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Application: force use portals (#221)</code>](https://github.com/elementary/switchboard/commit/92f27b8ea1ecdf7494ba2d64e8a38b99291f4bee)
+- [ ] [<code>Application: Put everything in a WindowHandle (#237)</code>](https://github.com/elementary/switchboard/commit/f3a843dd4a4e35b2dbb0e3e4992960bb6a620afd)
+- [ ] [<code>SearchView: use clamp instead of width_chars (#238)</code>](https://github.com/elementary/switchboard/commit/e6c2609c1890fba5e27224dc8edc84bd9544ac6f)
+- [ ] [<code>Application: center searchbox in categoryview (#239)</code>](https://github.com/elementary/switchboard/commit/9cc8a9cefa7456313bdfaf56ee0d1725deef3a41)
+- [ ] [<code>Application: don't allow leaflet to unfold (#240)</code>](https://github.com/elementary/switchboard/commit/404044b291b15c35ed4b0dcfb5f06deb049ed736)
+- [ ] [<code>Responsive (#233)</code>](https://github.com/elementary/switchboard/commit/61663e5f8f9c40e5d821480d5decd2c32fe9c6f4)
+- [ ] [<code>Omit plug_selected signal (#248)</code>](https://github.com/elementary/switchboard/commit/d5d8442992de086c6a9febc3b359abc8044bddd3)
+- [ ] [<code>Application: don't load new plugs during a transition (#249)</code>](https://github.com/elementary/switchboard/commit/19e85e3486dd314cde0ced0a1839ef3d3b00d30d)
+- [ ] [<code>SamplePlug: Remove show_all for GTK 4 (#251)</code>](https://github.com/elementary/switchboard/commit/8f864fe272d0bc16dff73046f458b4149692c829)
+- [ ] [<code>actions/checkout@v3 (#254)</code>](https://github.com/elementary/switchboard/commit/5502f2a33dfd2a536bc7c3fb441a14c137f75978)
+- [ ] [<code>Switch to GHCR containers (#256)</code>](https://github.com/elementary/switchboard/commit/7319c9cd43048248c602ad97958a6c1cf3d2e6fb)
+- [ ] [<code>Fix terminal warning on navigate (#260)</code>](https://github.com/elementary/switchboard/commit/6c1d04ffd24b77177bc18bc7252cb872e3f52ec0)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard/commit/1ce68c9412b98b005faecd0801d6818bd0a988b5)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard/commit/0ae4663da0feb342961f83c87a1f4edd08c7a41d)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -566,6 +587,11 @@
 - [ ] [<code>Port to HdyTabBar (#91)</code>](https://github.com/elementary/capnet-assist/commit/fb6ee6071bd7c529c5ad806942a0066cfd0b819e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#110)</code>](https://github.com/elementary/capnet-assist/commit/0ab0d3695c560ca71d6d5f3b0a6d82f80e634416)
+- [ ] [<code>MainWindow: GTK 4 prep (#112)</code>](https://github.com/elementary/capnet-assist/commit/4e3e70a73750bd1cf4bbfb78df2412492dc5581a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CertButton: rewrite without gcr-ui (#111)</code>](https://github.com/elementary/capnet-assist/commit/caa82c494f3adfadd4eae5272e4e314689bbf5bd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
