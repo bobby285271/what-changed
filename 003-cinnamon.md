@@ -304,7 +304,9 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.7...HEAD)
 
 - [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/6207e6c3e7e17acf1bcbfb9df05b4406c31cc47d)
+- [ ] [<code>UI: Use a symbolic icon for stream information menu item</code>](https://github.com/linuxmint/hypnotix/commit/2cbb39ead4abc9e17225a74a92fdd90daca5affe)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
