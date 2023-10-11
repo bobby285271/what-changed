@@ -357,6 +357,10 @@
 - [ ] [<code>Checkpointing work on save/load.</code>](https://github.com/phase1geo/minder/commit/d4852e1bcb0808128f0e0f829767ed400aea4f7d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/6126c7b3a4d807af742022d31c1ea4dbcdbbd7cc)
+- [ ] [<code>Update zh_CN.po</code>](https://github.com/phase1geo/minder/commit/437a3c1318cf7f7beec4576fe47797a82af79c92)
+- [ ] [<code>Revised Simplified Chinese language file</code>](https://github.com/phase1geo/minder/commit/09cf462bf855c9951e706eae5ce8ed70f7066577)
+- [ ] [<code>Merge pull request #580 from aerowolf/master</code>](https://github.com/phase1geo/minder/commit/e1ffc859a2d44e75a86cccdc5ad82c8821901bda)
+- [ ] [<code>Fixing syntax error in zh_CN.po translation file.</code>](https://github.com/phase1geo/minder/commit/e8b53bc7190f30bc82e5279271d120305f52c51f)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
