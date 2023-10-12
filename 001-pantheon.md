@@ -156,6 +156,9 @@
 - [ ] [<code>Add `SettingsPopover` Class (#699)</code>](https://github.com/elementary/terminal/commit/0f6c1cd8145ac3e45f1d36e0647c255a6004f629)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#738)</code>](https://github.com/elementary/terminal/commit/783d3578718a638dbcd7cd05eb4160b649d8dafe)
+- [ ] [<code>Meson: use gnome.post_install to compile schemas (#734)</code>](https://github.com/elementary/terminal/commit/a7219d1232e5b808c249da82bbf7151570e67c36)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -337,6 +340,9 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#368)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/81cc542268d6c221c785ec971134f91906a4d4b3)
 - [ ] [<code>Make sure only copy wallpapers if not in ANY backgrounddirs (#371)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e7ac9966b7a71e8988b41543e5147ebe62794bbc)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>set-wallpaper-contract: Port to GTK 4 (#370)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/55d9295efb1e14431ff17fdbc959730385a78a91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
