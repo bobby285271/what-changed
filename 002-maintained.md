@@ -295,6 +295,11 @@
 - [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/3cbb1af42e25b6ff7a2c4e9c1b79aee09618ad34)
 - [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/693f8d2d664afe06513910a7b2fe5b4dbaa03077)
   - <sub>Tags: <code>4.0.0</code></sub>
+- [ ] [<code>appdata: add vcs-browser support (#134)</code>](https://github.com/lainsce/khronos/commit/8e7611b6dd1b3695d6cb5ea774d36f475b757b08)
+- [ ] [<code>data: Mark release descriptions as untranslatable (#133)</code>](https://github.com/lainsce/khronos/commit/46df9e2bc5654f67bfaaa2caca5688dab7804925)
+- [ ] [<code>4.0.1</code>](https://github.com/lainsce/khronos/commit/daace3c126a0cebfa19907b71418c98af773dc4d)
+- [ ] [<code>Merge branch 'main' of https://github.com/lainsce/khronos</code>](https://github.com/lainsce/khronos/commit/5dedb57eb49b4f0dc5207c20a2e33348ffe00731)
+  - <sub>Tags: <code>4.0.1</code></sub>
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
