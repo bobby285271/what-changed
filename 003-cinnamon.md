@@ -70,6 +70,8 @@
 - [ ] [<code>calendar eventView.js: Try to cancel scroll-to-row callback when</code>](https://github.com/linuxmint/cinnamon/commit/d12ad8444c88c370b3c881848d6740063ea717ad)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_info.py: Don't freeze when 'Copy to clipboard' is clicked.</code>](https://github.com/linuxmint/cinnamon/commit/5d420b3a34bb8afef3917ea5840c4803c90ff28e)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -303,10 +305,16 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [3.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.7...HEAD)
 
-- [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/6207e6c3e7e17acf1bcbfb9df05b4406c31cc47d)
-- [ ] [<code>UI: Use a symbolic icon for stream information menu item</code>](https://github.com/linuxmint/hypnotix/commit/2cbb39ead4abc9e17225a74a92fdd90daca5affe)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/20e5a2941d38dadae33f13fc37ae9ad43ec7ad4a)
+- [ ] [<code>UI: Use a symbolic icon for stream information menu item</code>](https://github.com/linuxmint/hypnotix/commit/00dd6097b64d064cd799b0ff38f04abd59ebbf02)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>UI: Refresh interface</code>](https://github.com/linuxmint/hypnotix/commit/94820d2fdf226d841b0f999325eaffa0e564cf2e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>yt-dlp: Add the ability to switch to a local version and update it</code>](https://github.com/linuxmint/hypnotix/commit/1ceccf0cbbc886b737799a66f18253dd8b945258)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>launcher: Use $HOME instead of ~</code>](https://github.com/linuxmint/hypnotix/commit/ef82e5156038534a725d27924564e181b78586b6)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
