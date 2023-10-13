@@ -85,7 +85,7 @@
 
 - [ ] [<code>gschemas: Change a comment</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3486cb0f0904b07836692682659ba73413389824)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#234)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/831ed6d93238a0769d765862cd47ed068bd503ea)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.lmde6-i386</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
@@ -313,6 +313,10 @@
 - [ ] [<code>yt-dlp: Add the ability to switch to a local version and update it</code>](https://github.com/linuxmint/hypnotix/commit/1ceccf0cbbc886b737799a66f18253dd8b945258)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>launcher: Use $HOME instead of ~</code>](https://github.com/linuxmint/hypnotix/commit/ef82e5156038534a725d27924564e181b78586b6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/hypnotix/commit/6bf21af4090c1e59542f8ae556ed60e236825974)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add the ability to set channels as favorite</code>](https://github.com/linuxmint/hypnotix/commit/d9060f0ed7ff8fca098eb2943659f5fb92191147)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
