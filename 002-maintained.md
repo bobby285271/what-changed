@@ -367,6 +367,8 @@
 - [ ] [<code>Revised Simplified Chinese language file</code>](https://github.com/phase1geo/minder/commit/09cf462bf855c9951e706eae5ce8ed70f7066577)
 - [ ] [<code>Merge pull request #580 from aerowolf/master</code>](https://github.com/phase1geo/minder/commit/e1ffc859a2d44e75a86cccdc5ad82c8821901bda)
 - [ ] [<code>Fixing syntax error in zh_CN.po translation file.</code>](https://github.com/phase1geo/minder/commit/e8b53bc7190f30bc82e5279271d120305f52c51f)
+- [ ] [<code>Fixing coloring issues with tasks.</code>](https://github.com/phase1geo/minder/commit/ad4119c108e58524a744e63e1778bdad60725cdb)
+- [ ] [<code>Updating appdata 1.16.0 release notes.</code>](https://github.com/phase1geo/minder/commit/d0900a67e397fe55de408213603f44c317b8c824)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
