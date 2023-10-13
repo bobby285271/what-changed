@@ -285,6 +285,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Redesign (#103)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/24f4d34285734d3efd73d6661c0db9b17fe47211)
 - [ ] [<code>Switch to GHCR containers (#109)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/b62d7917f1c1a58be7dadf8df4b4ba21a9989201)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/696ea4ffc93eca3b3c6ec0710c3600783ba38707)
+- [ ] [<code>Meson: Fix typo</code>](https://github.com/elementary/switchboard-plug-datetime/commit/fd331420382a1635fd6323186787a101f9f67998)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3871f339614879b66d85a6aadc599d6bf851e03a)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/5f9a60e003dee4e8a4114ec54142b79b8e113e8d)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -310,6 +315,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef4947456abb7441761bcc715f7a8f7c72d76d9a)
 - [ ] [<code>Add .editorconfig (#217)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f8f7dd6fab8352cdb3ea932ddcf3da000ce301b4)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#218)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/56c7b25653ce3ad3a0078dac6e8076ef289f87dc)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/01f2f24237da0fb35a1cb5c4155569e60473f8f7)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4125714cb2dc22b4a62086212089675dd729dc84)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
 
@@ -378,6 +385,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/00cb7961fb0fdadc9e710242f8632c7a53067de7)
 - [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/31510096f50c52478ba8cb211348d3404456b988)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/213de956d95346fb03409385c4138d00d20c4aa4)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
