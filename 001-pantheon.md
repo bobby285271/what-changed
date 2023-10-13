@@ -173,6 +173,8 @@
 - [ ] [<code>Support repeat one and repeat all (#369)</code>](https://github.com/elementary/videos/commit/e7ec84850181cb27dab3afd0d1d902345d552fd8)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#370)</code>](https://github.com/elementary/videos/commit/87850fe32ab9940aeed5f0625b83865c1699c92c)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#373)</code>](https://github.com/elementary/videos/commit/92da57d238a65bd3b42ded7497776a3dacb7d659)
+- [ ] [<code>Headerbar improvements (#368)</code>](https://github.com/elementary/videos/commit/c82140bc55024721885cde731ad74fae6a45006a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -264,6 +266,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/a8e649f73ced417abe8c282da3b38e80765cace6)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#204)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/aa1aaf5378326f1e53ba087da693493a2dac587f)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/47d218ba3c39047f39c493aa5831f530611279c8)
+- [ ] [<code>Metainfo Improvements (#211)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e9e04d2319a511690c02673d8e8f8175438ed75f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update gettext.yml (#212)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/20b881cc31970fff46562fba84c0eb39440f03fb)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -275,6 +280,11 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/fe47255806865fe35d6bdd93bb9dd49f3668e8aa)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#111)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/1d946d8633f6d9a48f2ab5c7d08f4fbf6ee337bd)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#114)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/76cb57791504a1a552e44666533f4d0a59423bb6)
+- [ ] [<code>Port to GTK4 (#102)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/660583ad410621ae8f7755edf38d9631f0227f51)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Redesign (#103)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/24f4d34285734d3efd73d6661c0db9b17fe47211)
+- [ ] [<code>Switch to GHCR containers (#109)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/b62d7917f1c1a58be7dadf8df4b4ba21a9989201)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -334,6 +344,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#272)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4aa656990b3083e7f7c26bc6728f945dbb2c2015)
+- [ ] [<code>Port to GTK4 (#265)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/537d9a14821853e841f076b4183ae2f1c2874666)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -360,6 +373,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add .editorconfig (#238)</code>](https://github.com/elementary/switchboard-plug-power/commit/a862cdf24ec0eb7bf53f7108ce835608d83a2d0c)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#239)</code>](https://github.com/elementary/switchboard-plug-power/commit/994b033d7f6a9c8087fa6bb134f7eaf376e14c57)
+- [ ] [<code>Port to Gtk4 (#217)</code>](https://github.com/elementary/switchboard-plug-power/commit/9ada08a3a071b4a2a7fe623b3f6b2af486101750)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/00cb7961fb0fdadc9e710242f8632c7a53067de7)
+- [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/31510096f50c52478ba8cb211348d3404456b988)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
