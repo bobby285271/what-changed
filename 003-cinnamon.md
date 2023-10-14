@@ -4,6 +4,11 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.10 → HEAD](https://github.com/linuxmint/bulky/compare/2.10...HEAD)
 
+- [ ] [<code>Support DND for file manager items, or a single text path/uri.</code>](https://github.com/linuxmint/bulky/commit/65787fb605d9b04a9459cf26eeba74069902de3e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix file icons/thumbnails.</code>](https://github.com/linuxmint/bulky/commit/d84ff32d88a75e9730a47e2e70b92e5bfb472510)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.8.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.8.4...HEAD)
 
@@ -266,7 +271,9 @@
 - [ ] [<code>warpinator-send: Allow uris and paths.</code>](https://github.com/linuxmint/warpinator/commit/17156747b071a2774d4b291ff91b37ad0bd97418)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>save folder: Fully resolve the save location before performing</code>](https://github.com/linuxmint/warpinator/commit/79e129622241ad115e1a11ef6e0724d26a80daac)
+- [ ] [<code>1.7.0 (unstable)</code>](https://github.com/linuxmint/warpinator/commit/80aba204d804becea9ebc1b67086f8ccfe3026f5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
