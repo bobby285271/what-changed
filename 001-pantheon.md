@@ -549,6 +549,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#572)</code>](https://github.com/elementary/applications-menu/commit/f3cd8414fe83171ddc7db48d25c21fa1d20fd235)
 - [ ] [<code>Add test instructions to readme (#573)</code>](https://github.com/elementary/applications-menu/commit/0fc8e8a73c6d353f717ca487ecd7764e5d8c4754)
+- [ ] [<code>CategoryView: Remove no longer used dgettext (#575)</code>](https://github.com/elementary/applications-menu/commit/8b8cc95d61d95b5f1f3c4d9c661bbcd2449fc375)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
