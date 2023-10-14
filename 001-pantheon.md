@@ -71,6 +71,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.2 → HEAD](https://github.com/elementary/files/compare/6.5.2...HEAD)
 
 - [ ] [<code>Incrementally go Vala-only (#2321)</code>](https://github.com/elementary/files/commit/806178cd904b2265ab73f7a6a56c03121a9b2c62)
+- [ ] [<code>[Crash]Stop signal handler running if slot is frozen (being closed) (#2336)</code>](https://github.com/elementary/files/commit/3553afaba24ec5af844a67d4dedf3d312ad6611f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -301,6 +302,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Layout: modernize the layouts list (#465)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/bba68408820a65256662fb8f54a4aafebddd58cd)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#474)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3224da1af16aee46f8933bb8507a5622156f5fe7)
+- [ ] [<code>ShortcutListBox: use EventControllers (#475)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a7b72825974f543fdaac077c7c27d4040b6519c4)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -344,6 +346,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/e26f22d7b94d3b7f23bfd91fd0d5f9d010c2a48e)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#96)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d89847119388e650f401842441536fc645ebe4f9)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#97)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/a496b672837dda08052adcfd8812f1b589b811ca)
+- [ ] [<code>Plug.vala: more concise placeholder copy (#81)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/26873b0f064a048076054937bdc09ad90278443c)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-notifications/commit/ba0a13c926004d77a4269c1eae946c64d9e81cf5)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/382c1b9b83d86174b8ae74d1a5e3e6915700c956)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -354,6 +359,9 @@
 - [ ] [<code>Port to GTK4 (#265)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/537d9a14821853e841f076b4183ae2f1c2874666)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Make Parallel installable with GTK 3 (#275)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c469bf1bef0f00902ca28a58efee3bb87fdbd11c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update ci.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/6a56fa9da9df4de7f9cf91fcbf373cb7aad3e791)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -406,6 +414,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/c19a326e38dccbaa6b69a8ecc4fb46046a481582)
 - [ ] [<code>Add .editorconfig (#63)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0545f58816786363ae30ab77ea5c5e168bf570af)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#64)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/07e6464853b99f455600eaa00fc093eace9190bb)
+- [ ] [<code>Use Granite SettingsSidebar and SettingsPage (#66)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/91ea6c14b32a00dc73ecdaf5f8ec268caccf7e8f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
