@@ -270,6 +270,7 @@
 - [ ] [<code>Metainfo Improvements (#211)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e9e04d2319a511690c02673d8e8f8175438ed75f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext.yml (#212)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/20b881cc31970fff46562fba84c0eb39440f03fb)
+- [ ] [<code>Update githubci.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/03c2e765c705f701967a385a073010031c1afd59)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
