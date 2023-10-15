@@ -444,6 +444,7 @@
 - [ ] [<code>Fix a few i18n issues:</code>](https://github.com/alainm23/planify/commit/3c0d03c8426b9604ed1491b5f88a6b49c6f3d76a)
 - [ ] [<code>Add board view</code>](https://github.com/alainm23/planify/commit/c8d09876ba2f97a575bf22a165e3913ddf0fa1b5)
 - [ ] [<code>Merge pull request #1045 from henryau53/fix_localization</code>](https://github.com/alainm23/planify/commit/3e90147f7fd2d7930d4b00808bb6b1781b86fe38)
+- [ ] [<code>Update project and today view</code>](https://github.com/alainm23/planify/commit/6aaa1890b8cb233fb7a8216a43a0b21344163fc7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
