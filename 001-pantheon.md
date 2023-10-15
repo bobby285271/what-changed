@@ -125,6 +125,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#749)</code>](https://github.com/elementary/photos/commit/09e55943b266bc2861b913251cb834169d81743e)
+- [ ] [<code>POTFILES: Remove the publishing plugins (#751)</code>](https://github.com/elementary/photos/commit/4d79c527cda21115528e1a6573995918a30aa5ae)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
