@@ -136,6 +136,7 @@
 - [ ] [<code>SaveDialog: use fileinfo, localize, DRY (#269)</code>](https://github.com/elementary/screenshot/commit/aeff9f6b89f59815c7c5ae618b83f61364fb60bd)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#270)</code>](https://github.com/elementary/screenshot/commit/f6f4d87598bd7c821928a9a0b2e5c5cd71821898)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#271)</code>](https://github.com/elementary/screenshot/commit/60e89636a2e8dbf13c41b5591a3e75bfa869c844)
+- [ ] [<code>Application: use startup, builtin icon loading (#273)</code>](https://github.com/elementary/screenshot/commit/61e1cfad9424763f720a8ac039ccdf5b4b1c8f71)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -218,6 +219,7 @@
 - [ ] [<code>Fix terminal warning on navigate (#260)</code>](https://github.com/elementary/switchboard/commit/6c1d04ffd24b77177bc18bc7252cb872e3f52ec0)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard/commit/1ce68c9412b98b005faecd0801d6818bd0a988b5)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard/commit/0ae4663da0feb342961f83c87a1f4edd08c7a41d)
+- [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard/commit/a5a5780f80e7faa747acf99c084f5accd45aff87)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -419,6 +421,13 @@
 - [ ] [<code>Use Granite SettingsSidebar and SettingsPage (#66)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/91ea6c14b32a00dc73ecdaf5f8ec268caccf7e8f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>DLNAPage: Rewrite without FileChooserButton (#67)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/eb6cf786590b4617638ac873f8767f3e1359082d)
+- [ ] [<code>Port to GTK 4 (#65)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/41a8afe747ce147eae24ad5d5e76e95fa91792d5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/848ca6e4ed6dd814ce0719aa828e876ee5c23a4b)
+- [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sharing/commit/10219321cc9b5a3f2a0ca57d17445a2847f69289)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/eb963dc6073fcbe6e9b6781d934320ee11db6126)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -636,6 +645,9 @@
 - [ ] [<code>MainWindow: GTK 4 prep (#112)</code>](https://github.com/elementary/capnet-assist/commit/4e3e70a73750bd1cf4bbfb78df2412492dc5581a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CertButton: rewrite without gcr-ui (#111)</code>](https://github.com/elementary/capnet-assist/commit/caa82c494f3adfadd4eae5272e4e314689bbf5bd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove CertButton (#113)</code>](https://github.com/elementary/capnet-assist/commit/9995c4a2c6b11551a28d758ca8950a1ff08500cb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
