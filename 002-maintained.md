@@ -301,6 +301,7 @@
 - [ ] [<code>Merge branch 'main' of https://github.com/lainsce/khronos</code>](https://github.com/lainsce/khronos/commit/5dedb57eb49b4f0dc5207c20a2e33348ffe00731)
   - <sub>Tags: <code>4.0.1</code></sub>
 - [ ] [<code>Update donation link</code>](https://github.com/lainsce/khronos/commit/abb0295e6a8a6651b8f65f280c5493b6e62cd591)
+- [ ] [<code>Translation related patches (#135)</code>](https://github.com/lainsce/khronos/commit/442f48792adec727369db6b814f69195dcac265a)
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
