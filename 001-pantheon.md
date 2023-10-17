@@ -72,6 +72,8 @@
 
 - [ ] [<code>Incrementally go Vala-only (#2321)</code>](https://github.com/elementary/files/commit/806178cd904b2265ab73f7a6a56c03121a9b2c62)
 - [ ] [<code>[Crash]Stop signal handler running if slot is frozen (being closed) (#2336)</code>](https://github.com/elementary/files/commit/3553afaba24ec5af844a67d4dedf3d312ad6611f)
+- [ ] [<code>[Crash] Check tab created before expand miller view (#2332)</code>](https://github.com/elementary/files/commit/cb4d5acaea04f350e80e191094b639e247fb2e97)
+- [ ] [<code>Save selection for all slots that will reload (#2339)</code>](https://github.com/elementary/files/commit/45ac4475090ed53afe293935f3fb1fc6f5b84227)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -428,10 +430,15 @@
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/848ca6e4ed6dd814ce0719aa828e876ee5c23a4b)
 - [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sharing/commit/10219321cc9b5a3f2a0ca57d17445a2847f69289)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/eb963dc6073fcbe6e9b6781d934320ee11db6126)
+- [ ] [<code>DLNAPage: Fix title of Gtk.FileChooserNative</code>](https://github.com/elementary/switchboard-plug-sharing/commit/95cf761070676eb78251bd3966bb38c9a89fb063)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#255)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ce10332ac2f0ffc68ff39e0f826d9c7b5172f284)
+- [ ] [<code>Port to Gtk4 (#229)</code>](https://github.com/elementary/switchboard-plug-sound/commit/78bf5bfd969b6268571c0a28cd6d95b392edfab5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sound/commit/81187c243a55a55c93637a9ca53c41607b876ec3)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -648,6 +655,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove CertButton (#113)</code>](https://github.com/elementary/capnet-assist/commit/9995c4a2c6b11551a28d758ca8950a1ff08500cb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to Gtk4 (#109)</code>](https://github.com/elementary/capnet-assist/commit/bcd73051cd1c11ffd82aff4529cb57ee60df0e95)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
