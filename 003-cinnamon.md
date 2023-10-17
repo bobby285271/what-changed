@@ -272,8 +272,17 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>save folder: Fully resolve the save location before performing</code>](https://github.com/linuxmint/warpinator/commit/79e129622241ad115e1a11ef6e0724d26a80daac)
 - [ ] [<code>1.7.0 (unstable)</code>](https://github.com/linuxmint/warpinator/commit/80aba204d804becea9ebc1b67086f8ccfe3026f5)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Include and build grpc 1.59 and protobuf 4.24.4.</code>](https://github.com/linuxmint/warpinator/commit/dfbdb4e913627906dbf42f3d126d78f7a7c82dce)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>CMakeLists.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>Regenerate protobuf files.</code>](https://github.com/linuxmint/warpinator/commit/3866d77e791a30387b668d09dac9f40b6d60cdff)
+- [ ] [<code>Increase startup server timeout.</code>](https://github.com/linuxmint/warpinator/commit/53d3bd10b45dd82605cc3056b8ff24de65c30744)
+- [ ] [<code>Bundle zeroconf instead of downloading at build time.</code>](https://github.com/linuxmint/warpinator/commit/6bead39352fc5a7414038328a99dcf5d50f9540d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update deb build, readme, dependencies, .gitignore.</code>](https://github.com/linuxmint/warpinator/commit/10eb1e5a9238336578d4c07fd8138db41934d88e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
