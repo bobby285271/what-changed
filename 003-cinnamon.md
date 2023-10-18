@@ -73,9 +73,9 @@
 - [ ] [<code>misc: Use locale.getlocale() instead of locale.getdefaultlocale().</code>](https://github.com/linuxmint/cinnamon/commit/6e387fff67378f2136ca94b236b68506313c8f96)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>calendar eventView.js: Try to cancel scroll-to-row callback when</code>](https://github.com/linuxmint/cinnamon/commit/d12ad8444c88c370b3c881848d6740063ea717ad)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_info.py: Don't freeze when 'Copy to clipboard' is clicked.</code>](https://github.com/linuxmint/cinnamon/commit/5d420b3a34bb8afef3917ea5840c4803c90ff28e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
