@@ -427,6 +427,9 @@
 - [ ] [<code>AddDialog: Gtk4 Prep (#191)</code>](https://github.com/elementary/switchboard-plug-printers/commit/2e415be542380fe26cf89f5a1076b5ea9af9a138)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>PrinterList: GTK4 prep (#192)</code>](https://github.com/elementary/switchboard-plug-printers/commit/c8ccfe999a00351588e8595e572f9f830719cdb7)
+- [ ] [<code>JobsView: GTK4 prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/bba653fc21cc31494a1133b6f92cb6bd15af66bb)
+- [ ] [<code>SetupView: GTK 4 Prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/1b22ce6bf4cbb687a3a3128e0a77ebbfba069e44)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -586,6 +589,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#572)</code>](https://github.com/elementary/applications-menu/commit/f3cd8414fe83171ddc7db48d25c21fa1d20fd235)
 - [ ] [<code>Add test instructions to readme (#573)</code>](https://github.com/elementary/applications-menu/commit/0fc8e8a73c6d353f717ca487ecd7764e5d8c4754)
 - [ ] [<code>CategoryView: Remove no longer used dgettext (#575)</code>](https://github.com/elementary/applications-menu/commit/8b8cc95d61d95b5f1f3c4d9c661bbcd2449fc375)
+- [ ] [<code>Replace regex with procedure (#571)</code>](https://github.com/elementary/applications-menu/commit/7424bb3060cdd8fb1497a79ad91a6961ccef9659)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
