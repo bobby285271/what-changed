@@ -430,6 +430,7 @@
 - [ ] [<code>PrinterList: GTK4 prep (#192)</code>](https://github.com/elementary/switchboard-plug-printers/commit/c8ccfe999a00351588e8595e572f9f830719cdb7)
 - [ ] [<code>JobsView: GTK4 prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/bba653fc21cc31494a1133b6f92cb6bd15af66bb)
 - [ ] [<code>SetupView: GTK 4 Prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/1b22ce6bf4cbb687a3a3128e0a77ebbfba069e44)
+- [ ] [<code>Fix incorrect License headers</code>](https://github.com/elementary/switchboard-plug-printers/commit/882ef0489286abfc5c8b05443f82b9cb510485c2)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -683,6 +684,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ci: Use gettext-flatpak action (#114)</code>](https://github.com/elementary/capnet-assist/commit/d0e54a4a1d40bae91d2e66e4da52d12a73a79820)
+- [ ] [<code>meson: Fix deprecation warnings (#116)</code>](https://github.com/elementary/capnet-assist/commit/1fda21d0968f91c3b5e836ad5d8d76662c612975)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update README (#115)</code>](https://github.com/elementary/capnet-assist/commit/7222931498868e9bba5cab68bc052f489e3429aa)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
