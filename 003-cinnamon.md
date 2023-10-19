@@ -82,16 +82,19 @@
 
 - [ ] [<code>display: Increase the number of available fractional scale buttons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/35c8df73763d0afc5f64ce8ef35c14fbd2816f45)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#318)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5cdfff822b048189946e99a8b2ba915cce5e8)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wacom: Add "disabled" to stylus button actions.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3754965c5d393448e1dda59296a12c6e444965a5)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
 
 - [ ] [<code>gschemas: Change a comment</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3486cb0f0904b07836692682659ba73413389824)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#234)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/831ed6d93238a0769d765862cd47ed068bd503ea)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.lmde6-i386</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6-i386</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cdesktop-enums: Expand CDesktopStylusButtonAction to include</code>](https://github.com/linuxmint/cinnamon-desktop/commit/610a006d86d1f64ded295b5b44533238c08e0c6b)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
 
