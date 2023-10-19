@@ -424,6 +424,8 @@
 - [ ] [<code>README: Add OS 7.1 to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/eb165eb3d4df1a74039330ea5f3efe26724b07bb)
 - [ ] [<code>Actions: Add CI for each OS versions (#181)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/69401a1fe411cfaf6eaaae7de87c259553c2c2dd)
 - [ ] [<code>Actions: Use matrix for multiple OS versions (#185)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6e92ffb376827c023eda8ba79cb0dc3a19a9ef91)
+- [ ] [<code>Update pane icons (#184)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f22cd9374b45c50bef5a6ff60b14a68d1a1e83f0)
+- [ ] [<code>Update screenshot</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c9498d35bf5c666394f1c772624ff1b54a96e82f)
 
 #### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
