@@ -262,6 +262,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#271)</code>](https://github.com/elementary/switchboard-plug-about/commit/1d967f0d2021dc8124a0f86b5c88051bf293658f)
+- [ ] [<code>dialog.run () → dialogresponse.connect () (#273)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ad86e9f8b45b3168d2e93a8eb728e575219370f)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -324,6 +325,7 @@
 - [ ] [<code>ShortcutListBox: use EventControllers (#475)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/a7b72825974f543fdaac077c7c27d4040b6519c4)
 - [ ] [<code>EnginesRow: GTK 4 prep (#477)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/603429061ee70a0f48e4135d47bf707cd19c6781)
 - [ ] [<code>Plug.vala: GTK4 prep (#478)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/fb4459fc77b2587644e38fe9cf68a1da42d03ff3)
+- [ ] [<code>CustomShortcutListBox: use event controllers (#479)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6768454b0931f7b76a5e78a5077f259b075b24b8)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
