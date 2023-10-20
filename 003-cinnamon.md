@@ -193,6 +193,7 @@
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#675)</code>](https://github.com/linuxmint/muffin/commit/281551c2fa181f15cfea8a53b60a197e90cd7866)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>keybindings: Restore window opacity keybindings.</code>](https://github.com/linuxmint/muffin/commit/042e9d4a855d7014d0770c97d55432243b6eac20)
+- [ ] [<code>input settings: Allow disabling stylus buttons.</code>](https://github.com/linuxmint/muffin/commit/2265985ff36744a751d402641f3e77cbfcb49b4d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
