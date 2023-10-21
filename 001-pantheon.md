@@ -9,6 +9,14 @@
 - [ ] [<code>Add unit tests for Stripe and Houston (#2093)</code>](https://github.com/elementary/appcenter/commit/a51fa4fc79ee4ec31038f9ef701b554699a389c4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add unit tests for Soup client</code>](https://github.com/elementary/appcenter/commit/11ac010cb25f6133d14e37b46fd2b1d294332eb2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update to Soup 3</code>](https://github.com/elementary/appcenter/commit/d708f6b1ee3be58c196c517a660c79e63a47b358)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use portal for background and autostart (#2085)</code>](https://github.com/elementary/appcenter/commit/149c8e2da1f627f432fa9c490f1c1baba83151a0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -326,6 +334,12 @@
 - [ ] [<code>EnginesRow: GTK 4 prep (#477)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/603429061ee70a0f48e4135d47bf707cd19c6781)
 - [ ] [<code>Plug.vala: GTK4 prep (#478)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/fb4459fc77b2587644e38fe9cf68a1da42d03ff3)
 - [ ] [<code>CustomShortcutListBox: use event controllers (#479)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6768454b0931f7b76a5e78a5077f259b075b24b8)
+- [ ] [<code>Shortcuts: GTK4 prep (#481)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/fef3aaea260471ae97d966b63459505b3477b26c)
+- [ ] [<code>Display: GTK4 prep (#483)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/8c31d0bcea013e31af0390d4307b7ac1653b3e26)
+- [ ] [<code>InstallEngineDialog: GTK4 prep (#485)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e5551d54ab2bf73de6f0d2e62482f80083f37eb1)
+- [ ] [<code>AddLayoutDialog: GTK4 prep (#482)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/88da311dfe32eb7739e93d98532a00cb79286255)
+- [ ] [<code>InputMethod: GTK4 prep (#486)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/25eed8592a678b36be08028a13bca8734fcca417)
+- [ ] [<code>AddEnginesPopover: GTK4 prep (#484)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/40bc432619baa53d3019ccf396c543733dd4d09a)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -394,6 +408,8 @@
 - [ ] [<code>set-wallpaper-contract: Port to GTK 4 (#370)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/55d9295efb1e14431ff17fdbc959730385a78a91)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>WallpaperContainer: Use gesture for secondary click</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d64931ec86683ad50b7bba863683ce9c54460d5c)
+- [ ] [<code>Use GLib.Menu</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b8faed1e2502abf3667b99293d2e969467deae99)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
