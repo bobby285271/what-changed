@@ -519,6 +519,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove deprecated keys (#291)</code>](https://github.com/elementary/default-settings/commit/3c49d4de9ead4623b4124ca374f4d5a28b638af5)
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Move some media-keys from static to their normal versions (#288)</code>](https://github.com/elementary/default-settings/commit/86ed77d978ee517b8ed77dbaefda3e1359f63d2d)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
