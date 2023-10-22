@@ -38,6 +38,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#797)</code>](https://github.com/elementary/calendar/commit/1267389a710795704938b92fe793db1e0c1bb189)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/calendar/commit/aa6be1f7759c435b247b2908f21ce13d2fc2ec2f)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/calendar/commit/902d89b3714edad1a8c355beacdf7076e6511606)
+- [ ] [<code>Switch to flat headerbars (#798)</code>](https://github.com/elementary/calendar/commit/949808f0ef98a345e9098d878309e67a03c0c0df)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -184,6 +185,7 @@
 - [ ] [<code>Meson: use gnome.post_install to compile schemas (#734)</code>](https://github.com/elementary/terminal/commit/a7219d1232e5b808c249da82bbf7151570e67c36)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>MainWindow: Put search toolbar in a title stack (#668)</code>](https://github.com/elementary/terminal/commit/c9a60a385831a0ffad18e9f1492735fdc193f313)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -201,6 +203,7 @@
 - [ ] [<code>Headerbar improvements (#368)</code>](https://github.com/elementary/videos/commit/c82140bc55024721885cde731ad74fae6a45006a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update merge.yml for Flatpak Gettext action (#375)</code>](https://github.com/elementary/videos/commit/51ba59da6fadb6b5d06870248653c85fbc82a46f)
+- [ ] [<code>Respect dark style preference (#374)</code>](https://github.com/elementary/videos/commit/204ca250b0f39903d1b5dbe856cc2063d79140e5)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
