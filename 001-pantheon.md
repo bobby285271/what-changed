@@ -360,16 +360,8 @@
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/01f2f24237da0fb35a1cb5c4155569e60473f8f7)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4125714cb2dc22b4a62086212089675dd729dc84)
 
-#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.4.4 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.4.4...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#345)</code>](https://github.com/elementary/switchboard-plug-network/commit/39a30fbbb1bcf7b942c903fb8ab3b87761dd8f43)
-- [ ] [<code>Switch to GHCR containers (#349)</code>](https://github.com/elementary/switchboard-plug-network/commit/6ee356f8bfc086d7a62e49506ff87f2550ad81c9)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/5237bec8a93912a435257fa8ca8e473ed82140e3)
-- [ ] [<code>Add support for libnm 1.43 (#357)</code>](https://github.com/elementary/switchboard-plug-network/commit/50c06caae274c9b7b6c26aaaa6a8aa3a8084df0e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update "Airplane Mode" switch padding (#358)</code>](https://github.com/elementary/switchboard-plug-network/commit/e9056694f3a187ef66e44756fa19e22fd3bec948)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#361)</code>](https://github.com/elementary/switchboard-plug-network/commit/3b69132788ff8734a481d498b49207e05a4f7d70)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
