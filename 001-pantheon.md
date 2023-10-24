@@ -668,6 +668,8 @@
 
 - [ ] [<code>Revert "Fix build with newer Vala (#637)" (#659)</code>](https://github.com/elementary/granite/commit/b86e04d73cfd253e5f5d4877cbe39cfa0c758b16)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#660)</code>](https://github.com/elementary/granite/commit/a0455637393c14f82b137740e23085f77f6af7c8)
+- [ ] [<code>HeaderLabel: Add mnemonic_widget property (#663)</code>](https://github.com/elementary/granite/commit/a520e7be5e166afcd4972936cdaca11959715b54)
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
