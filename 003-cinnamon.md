@@ -294,6 +294,10 @@
 - [ ] [<code>xapp-gtk3-module.c: Use the 'realize' signal to trigger injecting</code>](https://github.com/linuxmint/xapp/commit/8570496c3f909458c0b8035048ae7671b760577f)
 - [ ] [<code>xapp-sn-watcher.c: Mute some warning messages from more of</code>](https://github.com/linuxmint/xapp/commit/0ab6db8e5b74d7b40a31be3eaed3a2a6740bcc1c)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#172)</code>](https://github.com/linuxmint/xapp/commit/5df50519684468ba48c630d4bf0d19b8ee4041d0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/xapp/commit/88192421fce36178fb3a96f84e43bb2cd5843c3d)
+- [ ] [<code>Remove unused includes, bump required gtk version.</code>](https://github.com/linuxmint/xapp/commit/89344d2b6b468b7c872447c4910080eab90830cd)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
