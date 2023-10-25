@@ -111,6 +111,9 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#959)</code>](https://github.com/elementary/mail/commit/1d8502947db6c9d8b33050c2227b43b4ca53a54a)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#965)</code>](https://github.com/elementary/mail/commit/af18b250093e0395612146364eb07a9ce6d247cc)
 - [ ] [<code>CI: Use flatpak gettext action (#966)</code>](https://github.com/elementary/mail/commit/0007c8070ae906ec8248e2cf4c38b49ab418bcc9)
+- [ ] [<code>Implement aliases (#960)</code>](https://github.com/elementary/mail/commit/2c28e98330a25da6b8ae3be1a8a2c9381c04c94f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Don't disable delete accelerators when the ConversationList looses keyboard focus (#955)</code>](https://github.com/elementary/mail/commit/c33385f73fad12d0863373f1de2b929519036d3c)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -583,6 +586,8 @@
 - [ ] [<code>Rename to `gnome_background_settings`</code>](https://github.com/elementary/gala/commit/b9744dd3fcc549b070ce385a11ede718905a5e1e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Don't block `Alt + Shift` when there is only one keyboard layout (#1756)</code>](https://github.com/elementary/gala/commit/844eb95c69219228aa059f9c35178901ecd32f6e)
+- [ ] [<code>Background: Cleanup (#1776)</code>](https://github.com/elementary/gala/commit/6cc836017ee68b872ea9c7c6082ab9991aac498e)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
