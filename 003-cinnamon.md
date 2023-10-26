@@ -75,8 +75,13 @@
 - [ ] [<code>calendar eventView.js: Try to cancel scroll-to-row callback when</code>](https://github.com/linuxmint/cinnamon/commit/d12ad8444c88c370b3c881848d6740063ea717ad)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_info.py: Don't freeze when 'Copy to clipboard' is clicked.</code>](https://github.com/linuxmint/cinnamon/commit/5d420b3a34bb8afef3917ea5840c4803c90ff28e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fixed calculate a sidePage height when it comes as standalone</code>](https://github.com/linuxmint/cinnamon/commit/336ab671c05d4d3872cfedca51f839d62a5daca9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update cinnamon-settings.py</code>](https://github.com/linuxmint/cinnamon/commit/6900f6ef4814fb07783035cbebf19684d0aa5fb0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11900 from kacperpaczos/standalone_height</code>](https://github.com/linuxmint/cinnamon/commit/e23681208158532c4f073a58dcb100718f87be8c)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
