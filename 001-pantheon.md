@@ -588,6 +588,7 @@
 - [ ] [<code>Don't block `Alt + Shift` when there is only one keyboard layout (#1756)</code>](https://github.com/elementary/gala/commit/844eb95c69219228aa059f9c35178901ecd32f6e)
 - [ ] [<code>Background: Cleanup (#1776)</code>](https://github.com/elementary/gala/commit/6cc836017ee68b872ea9c7c6082ab9991aac498e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Don't create window snapshots if animations are disabled (#1778)</code>](https://github.com/elementary/gala/commit/91d70aa40c90aeb14e12a10964958b53051779ad)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -805,6 +806,8 @@
   - <sub>Tags: <code>7.1.0-rc1</code></sub>
 - [ ] [<code>7.0 → 7.1 (#693)</code>](https://github.com/elementary/os/commit/32e9d8da66fcf1317201186361548b8c397bf928)
   - <sub>Tags: <code>7.1.0-rc2</code> <code>7.1.0-rc3</code></sub>
+- [ ] [<code>Update for Noble (#695)</code>](https://github.com/elementary/os/commit/d31b6033cfaa0fd62ef19adb4e6d541abcb2c4fb)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
@@ -819,3 +822,6 @@
 - [ ] [<code>sdk: Add Granite 7</code>](https://github.com/elementary/seeds/commit/cc10bf5ff616c0897e8741a551078445acd89bea)
 - [ ] [<code>Desktop: remove geoclue agent (#100)</code>](https://github.com/elementary/seeds/commit/dc5f8b112885527d29470cb85c6ab7c25d4927fc)
 - [ ] [<code>Desktop: add support for HEIF images (#103)</code>](https://github.com/elementary/seeds/commit/44134218a2b428d676db684579c1405164644ace)
+- [ ] [<code>Update seeds for Noble (#104)</code>](https://github.com/elementary/seeds/commit/6bad51eb947d66b02945d8f79f2108243635ad60)
+- [ ] [<code>Update STRUCTURE for Noble (#106)</code>](https://github.com/elementary/seeds/commit/091ad670fb182de3b6f7784713a6641e3b29f5f3)
+- [ ] [<code>Desktop: pull in GTK4 System Settings (#105)</code>](https://github.com/elementary/seeds/commit/6cc91682051adb92229de59ad5db920d47e5a5ce)
