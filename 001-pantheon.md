@@ -189,6 +189,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>MainWindow: Put search toolbar in a title stack (#668)</code>](https://github.com/elementary/terminal/commit/c9a60a385831a0ffad18e9f1492735fdc193f313)
+- [ ] [<code>Expose audible-bell setting in Settings Menu (#740)</code>](https://github.com/elementary/terminal/commit/94321c058ad4ebf60850874e8d0f6b594cfecb7b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -365,6 +366,7 @@
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
+- [ ] [<code>Support Wireguard as a VPN connection (#338)</code>](https://github.com/elementary/switchboard-plug-network/commit/4553bda50e74d7b211f2da5a98f2a9d7780ed12a)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -589,6 +591,13 @@
 - [ ] [<code>Background: Cleanup (#1776)</code>](https://github.com/elementary/gala/commit/6cc836017ee68b872ea9c7c6082ab9991aac498e)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Don't create window snapshots if animations are disabled (#1778)</code>](https://github.com/elementary/gala/commit/91d70aa40c90aeb14e12a10964958b53051779ad)
+- [ ] [<code>WindowClone: Use cursors for dnd</code>](https://github.com/elementary/gala/commit/84e7875541d9ec9ee680450eabeb50ca76ea0db4)
+- [ ] [<code>PiP: Use different cursors for dnd and resize</code>](https://github.com/elementary/gala/commit/19ec1174b87831bf66d5a6cb217668155bff6e1e)
+- [ ] [<code>IconGroup: Use cursors for dnd</code>](https://github.com/elementary/gala/commit/5a917dec1a86c68f14970b9ea9c1baa1946746f0)
+- [ ] [<code>Background: respect animations key (#1779)</code>](https://github.com/elementary/gala/commit/86293d44c11d637c44c5d8bd52b43887678465b4)
+- [ ] [<code>Add "Move to workspace" gesture (#1780)</code>](https://github.com/elementary/gala/commit/493dd89dd9a409fa9291900b045235de3f944ff5)
+- [ ] [<code>WorkspaceManager: Fixes and cleanup (#1768)</code>](https://github.com/elementary/gala/commit/11c312500862550cc6639ac92cb0b88c1e60de0a)
+- [ ] [<code>NotificationStack: Check if notification was already shown (#1748)</code>](https://github.com/elementary/gala/commit/a582033ae5552dbd444623207a49473a2ebfeac8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
