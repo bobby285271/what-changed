@@ -598,6 +598,8 @@
 - [ ] [<code>Add "Move to workspace" gesture (#1780)</code>](https://github.com/elementary/gala/commit/493dd89dd9a409fa9291900b045235de3f944ff5)
 - [ ] [<code>WorkspaceManager: Fixes and cleanup (#1768)</code>](https://github.com/elementary/gala/commit/11c312500862550cc6639ac92cb0b88c1e60de0a)
 - [ ] [<code>NotificationStack: Check if notification was already shown (#1748)</code>](https://github.com/elementary/gala/commit/a582033ae5552dbd444623207a49473a2ebfeac8)
+- [ ] [<code>Metainfo: Update 7.1.3 release notes (#1784)</code>](https://github.com/elementary/gala/commit/e54f2bbc79a9291425e9d21f182a255fca5b73eb)
+- [ ] [<code>Move to Workspace: Fix segmentation fault when `focus_window` is null (#1785)</code>](https://github.com/elementary/gala/commit/84e2acdd2d42120201755b571e179aa3b9903260)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
