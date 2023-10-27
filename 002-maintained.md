@@ -377,6 +377,7 @@
   - <sub>Tags: <code>0.17.0-1</code></sub>
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/afbe465ea4dc67185f3965ee93c8d87a7aaadb71)
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/fd369e08c2820adc2d736943d6a0d5821a3352e6)
+- [ ] [<code>use with_default for json objects</code>](https://github.com/stsdc/monitor/commit/002146e81985d307add585fb63f80aaecd344b4c)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -403,29 +404,8 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.1...HEAD)
 
-- [ ] [<code>Update Italian translation (#176)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/db7bc15bfae00bfdfddd46407f4d7192636da3bc)
-- [ ] [<code>README: Use visualized version table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/67f490f2c4cf0ff78beeee978718f314fde60ebc)
-- [ ] [<code>Add .editorconfig</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/52007d9869bdaf20c5fea9e67ab80bc934e542c5)
-- [ ] [<code>Actions: Fixed ubuntu version and use ghcr</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/33904593d1ec98b9f82778f7616d3c89c1a7bfcb)
-- [ ] [<code>dependabot: Create .github/dependabot.yml</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/384e7a7c128e4f3085f7de84e72a35677583658e)
-- [ ] [<code>Update portuguese (pt) translation (#177)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e183346f38fe8ce023f5cfd27348e4e1e6f8fcb4)
-- [ ] [<code>Categories: Use SPDX license header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/93daf11f9682da16af7bf6ad201355adcf755d81)
-- [ ] [<code>README: Update installation instruction</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/301a992fa507e2f9a94b62097d65207d9934be18)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Efficiently find and match pane name (#179)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1ecb18b6dbb8a6ba42e3b637f05458ba89e94529)
-- [ ] [<code>TerminalPane: Allow font configuration</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1afaf8ef39b5e0557d3a87b6c37e7f6e44afd99e)
-- [ ] [<code>Tweaks: Remove URI of dropped pane</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/26e1d9d0c68dd2841494ad784bac61f18cf101f3)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/94bdb5141f03daaed303ecfe3d1fe8ec51f2c65d)
-- [ ] [<code>Add .valalintignore</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a9615c2983b750570ebff8500e2a6ae21fc30e0b)
-- [ ] [<code>Metainfo: Mark release descriptions as untranslatable</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7bcf794f024febb06731227ae62319a752893f22)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/71094be78b8c8a16b4830c6808593d1ef38552a8)
-- [ ] [<code>README: Add OS 7.1 to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/eb165eb3d4df1a74039330ea5f3efe26724b07bb)
-- [ ] [<code>Actions: Add CI for each OS versions (#181)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/69401a1fe411cfaf6eaaae7de87c259553c2c2dd)
-- [ ] [<code>Actions: Use matrix for multiple OS versions (#185)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6e92ffb376827c023eda8ba79cb0dc3a19a9ef91)
-- [ ] [<code>Update pane icons (#184)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f22cd9374b45c50bef5a6ff60b14a68d1a1e83f0)
-- [ ] [<code>Update screenshot</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c9498d35bf5c666394f1c772624ff1b54a96e82f)
 
 #### [planify](https://github.com/alainm23/planify): [adf3629bcacfc9978f6dde5b87eff0278533ab3e → HEAD](https://github.com/alainm23/planify/compare/adf3629bcacfc9978f6dde5b87eff0278533ab3e...HEAD)
 
