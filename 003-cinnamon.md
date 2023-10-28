@@ -81,6 +81,7 @@
 - [ ] [<code>Update cinnamon-settings.py</code>](https://github.com/linuxmint/cinnamon/commit/6900f6ef4814fb07783035cbebf19684d0aa5fb0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #11900 from kacperpaczos/standalone_height</code>](https://github.com/linuxmint/cinnamon/commit/e23681208158532c4f073a58dcb100718f87be8c)
+- [ ] [<code>Require soup 3.0.</code>](https://github.com/linuxmint/cinnamon/commit/5eda3d4d8a65517062b48354fb17966a39ceaeca)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
