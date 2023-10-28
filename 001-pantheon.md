@@ -449,6 +449,8 @@
 - [ ] [<code>JobsView: GTK4 prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/bba653fc21cc31494a1133b6f92cb6bd15af66bb)
 - [ ] [<code>SetupView: GTK 4 Prep</code>](https://github.com/elementary/switchboard-plug-printers/commit/1b22ce6bf4cbb687a3a3128e0a77ebbfba069e44)
 - [ ] [<code>Fix incorrect License headers</code>](https://github.com/elementary/switchboard-plug-printers/commit/882ef0489286abfc5c8b05443f82b9cb510485c2)
+- [ ] [<code>AddDialog: Use Granite.ValidatedEntry, describe errors, DRY (#197)</code>](https://github.com/elementary/switchboard-plug-printers/commit/118f2884d41da6e91adc34a2f342be7d407ef76d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -600,6 +602,8 @@
 - [ ] [<code>NotificationStack: Check if notification was already shown (#1748)</code>](https://github.com/elementary/gala/commit/a582033ae5552dbd444623207a49473a2ebfeac8)
 - [ ] [<code>Metainfo: Update 7.1.3 release notes (#1784)</code>](https://github.com/elementary/gala/commit/e54f2bbc79a9291425e9d21f182a255fca5b73eb)
 - [ ] [<code>Move to Workspace: Fix segmentation fault when `focus_window` is null (#1785)</code>](https://github.com/elementary/gala/commit/84e2acdd2d42120201755b571e179aa3b9903260)
+- [ ] [<code>Increase `window-clone` shadow size (#1781)</code>](https://github.com/elementary/gala/commit/433c4e911b86d1e22e8e1a6100b9ef2512025299)
+- [ ] [<code>Redraw tooltip to avoid corner glitches (#1760)</code>](https://github.com/elementary/gala/commit/b8bea1fd01a8703cb50cbb614c432e09ebb1f67a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
