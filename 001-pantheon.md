@@ -604,6 +604,7 @@
 - [ ] [<code>Move to Workspace: Fix segmentation fault when `focus_window` is null (#1785)</code>](https://github.com/elementary/gala/commit/84e2acdd2d42120201755b571e179aa3b9903260)
 - [ ] [<code>Increase `window-clone` shadow size (#1781)</code>](https://github.com/elementary/gala/commit/433c4e911b86d1e22e8e1a6100b9ef2512025299)
 - [ ] [<code>Redraw tooltip to avoid corner glitches (#1760)</code>](https://github.com/elementary/gala/commit/b8bea1fd01a8703cb50cbb614c432e09ebb1f67a)
+- [ ] [<code>WindowClone: reset cursor early (#1786)</code>](https://github.com/elementary/gala/commit/ae07ad5abe9d58572c03a55f6f94c3613bb6cdcd)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
