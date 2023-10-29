@@ -841,3 +841,4 @@
 - [ ] [<code>Update seeds for Noble (#104)</code>](https://github.com/elementary/seeds/commit/6bad51eb947d66b02945d8f79f2108243635ad60)
 - [ ] [<code>Update STRUCTURE for Noble (#106)</code>](https://github.com/elementary/seeds/commit/091ad670fb182de3b6f7784713a6641e3b29f5f3)
 - [ ] [<code>Desktop: pull in GTK4 System Settings (#105)</code>](https://github.com/elementary/seeds/commit/6cc91682051adb92229de59ad5db920d47e5a5ce)
+- [ ] [<code>Remove d-i-requiremens</code>](https://github.com/elementary/seeds/commit/ab7691303a0034cdd1d2a4d6f955e6ea07041f8f)
