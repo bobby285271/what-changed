@@ -608,6 +608,10 @@
 - [ ] [<code>Increase `window-clone` shadow size (#1781)</code>](https://github.com/elementary/gala/commit/433c4e911b86d1e22e8e1a6100b9ef2512025299)
 - [ ] [<code>Redraw tooltip to avoid corner glitches (#1760)</code>](https://github.com/elementary/gala/commit/b8bea1fd01a8703cb50cbb614c432e09ebb1f67a)
 - [ ] [<code>WindowClone: reset cursor early (#1786)</code>](https://github.com/elementary/gala/commit/ae07ad5abe9d58572c03a55f6f94c3613bb6cdcd)
+- [ ] [<code>WorkspaceManager: count windows on primary monitor only (#1789)</code>](https://github.com/elementary/gala/commit/82b60f140aec9c486f2269028c214dd70e16c00b)
+- [ ] [<code>DragDropAction: pass correct coordinates to `drag_begin` (#1791)</code>](https://github.com/elementary/gala/commit/aa1dc31a1d160b733cce0c54714b5de7c4fbcc00)
+- [ ] [<code>MultitaskingView: code style (#1790)</code>](https://github.com/elementary/gala/commit/69db03560b09346714846eb8c85eeef7aacf2527)
+- [ ] [<code>Gtk.init only in X11 session (#1792)</code>](https://github.com/elementary/gala/commit/ebbf6b6010feaec61a38d7176e578e328f191720)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
