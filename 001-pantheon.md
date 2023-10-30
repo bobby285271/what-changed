@@ -17,6 +17,8 @@
 - [ ] [<code>Use portal for background and autostart (#2085)</code>](https://github.com/elementary/appcenter/commit/149c8e2da1f627f432fa9c490f1c1baba83151a0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Separate tests requiring internet connectivity (#2097)</code>](https://github.com/elementary/appcenter/commit/1da5402f725d651669a3c0fd0d6ac91a84c203d3)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
 
@@ -497,6 +499,7 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1229)</code>](https://github.com/elementary/icons/commit/0e5bc62b1471e2d7635d3b6cb75a6bbcfc72b0a4)
+- [ ] [<code>Categories: Use bell for notification settings (#1234)</code>](https://github.com/elementary/icons/commit/460609dbe3beef775a95d80b464ae7465198a53d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
