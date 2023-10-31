@@ -662,6 +662,9 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.0.2...HEAD)
 
+- [ ] [<code>Avoid a compilation warning about missing state handling for WIFI Menu Item</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4ce87b36b0eae92e8c2bca0aeb6126cb945c5ba5)
+- [ ] [<code>Avoid a noisy log message in journalctl about missing icon</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f579e8fb087f612874470d91664bf21799e68c43)
+- [ ] [<code>List Wireguard connection as possible VPN</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c1a62a71e4969795cd2b217257883258a86f0)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
