@@ -82,6 +82,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #11900 from kacperpaczos/standalone_height</code>](https://github.com/linuxmint/cinnamon/commit/e23681208158532c4f073a58dcb100718f87be8c)
 - [ ] [<code>Require soup 3.0.</code>](https://github.com/linuxmint/cinnamon/commit/5eda3d4d8a65517062b48354fb17966a39ceaeca)
+- [ ] [<code>Ensure settings window expands to fit toolbar</code>](https://github.com/linuxmint/cinnamon/commit/7f79812e83301d8948a14c7217c49de64d72525a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11910 from fredcw/settings_toolbar</code>](https://github.com/linuxmint/cinnamon/commit/3a376e881523897523a5cea83e807c5961c94e32)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
