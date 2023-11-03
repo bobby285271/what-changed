@@ -85,6 +85,9 @@
 - [ ] [<code>Ensure settings window expands to fit toolbar</code>](https://github.com/linuxmint/cinnamon/commit/7f79812e83301d8948a14c7217c49de64d72525a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #11910 from fredcw/settings_toolbar</code>](https://github.com/linuxmint/cinnamon/commit/3a376e881523897523a5cea83e807c5961c94e32)
+- [ ] [<code>Adds option to always show the input switch in the sound applet. (Closes #11232)</code>](https://github.com/linuxmint/cinnamon/commit/e5fc002e1ff591fb06859204ba65f105aeac29c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11914 from sphh/sound-always-show-input</code>](https://github.com/linuxmint/cinnamon/commit/826b7552ec69ef7c0531240f8f859416101c16e7)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
