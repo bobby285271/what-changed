@@ -192,6 +192,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>MainWindow: Put search toolbar in a title stack (#668)</code>](https://github.com/elementary/terminal/commit/c9a60a385831a0ffad18e9f1492735fdc193f313)
 - [ ] [<code>Expose audible-bell setting in Settings Menu (#740)</code>](https://github.com/elementary/terminal/commit/94321c058ad4ebf60850874e8d0f6b594cfecb7b)
+- [ ] [<code>Continous saving of current tabs and tab-zooms (#742)</code>](https://github.com/elementary/terminal/commit/b2b9c950bcf1826a5b30c94d9c27c8d488919e6e)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
