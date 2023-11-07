@@ -116,6 +116,8 @@
 - [ ] [<code>Implement aliases (#960)</code>](https://github.com/elementary/mail/commit/2c28e98330a25da6b8ae3be1a8a2c9381c04c94f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Don't disable delete accelerators when the ConversationList looses keyboard focus (#955)</code>](https://github.com/elementary/mail/commit/c33385f73fad12d0863373f1de2b929519036d3c)
+- [ ] [<code>Fix some attachments not showing up (#958)</code>](https://github.com/elementary/mail/commit/9c40f9bbbad04d38e70cb907548948083326ca2f)
+- [ ] [<code>Use the actual recipients of a message as sender when replying or forwarding (#956)</code>](https://github.com/elementary/mail/commit/6cc2f513529c849b04816f966954ba608e6b734d)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -193,6 +195,11 @@
 - [ ] [<code>MainWindow: Put search toolbar in a title stack (#668)</code>](https://github.com/elementary/terminal/commit/c9a60a385831a0ffad18e9f1492735fdc193f313)
 - [ ] [<code>Expose audible-bell setting in Settings Menu (#740)</code>](https://github.com/elementary/terminal/commit/94321c058ad4ebf60850874e8d0f6b594cfecb7b)
 - [ ] [<code>Continous saving of current tabs and tab-zooms (#742)</code>](https://github.com/elementary/terminal/commit/b2b9c950bcf1826a5b30c94d9c27c8d488919e6e)
+- [ ] [<code>MainWindow: null terminate accel arrays (#745)</code>](https://github.com/elementary/terminal/commit/c5dfcd3ee9dcd836b2969d8b3f265950d965fc7e)
+- [ ] [<code>TerminalWidget: port event handling to event controllers</code>](https://github.com/elementary/terminal/commit/7a62bc7ba6a3a80cbb94215b19113ff450e7332a)
+- [ ] [<code>MainWindow: port to Gtk.EventController</code>](https://github.com/elementary/terminal/commit/88fb8be715e033a477a8d3b71e7637752967c45b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -211,6 +218,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update merge.yml for Flatpak Gettext action (#375)</code>](https://github.com/elementary/videos/commit/51ba59da6fadb6b5d06870248653c85fbc82a46f)
 - [ ] [<code>Respect dark style preference (#374)</code>](https://github.com/elementary/videos/commit/204ca250b0f39903d1b5dbe856cc2063d79140e5)
+- [ ] [<code>Use Gtk4 list widgets (#371)</code>](https://github.com/elementary/videos/commit/e6bb4c18302a20c2f555a3b69097c771370115fc)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -350,6 +359,7 @@
 - [ ] [<code>AddLayoutDialog: GTK4 prep (#482)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/88da311dfe32eb7739e93d98532a00cb79286255)
 - [ ] [<code>InputMethod: GTK4 prep (#486)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/25eed8592a678b36be08028a13bca8734fcca417)
 - [ ] [<code>AddEnginesPopover: GTK4 prep (#484)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/40bc432619baa53d3019ccf396c543733dd4d09a)
+- [ ] [<code>Allow more keys as single key accelerators (#467)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/601c5c278ab54cfec2a5cc58c3b44cb754d2f7c2)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -853,3 +863,4 @@
 - [ ] [<code>Update STRUCTURE for Noble (#106)</code>](https://github.com/elementary/seeds/commit/091ad670fb182de3b6f7784713a6641e3b29f5f3)
 - [ ] [<code>Desktop: pull in GTK4 System Settings (#105)</code>](https://github.com/elementary/seeds/commit/6cc91682051adb92229de59ad5db920d47e5a5ce)
 - [ ] [<code>Remove d-i-requiremens</code>](https://github.com/elementary/seeds/commit/ab7691303a0034cdd1d2a4d6f955e6ea07041f8f)
+- [ ] [<code>Desktop Remove redundant switchboard plugins (#107)</code>](https://github.com/elementary/seeds/commit/1f54c98596e4a355c7d271eab2c11d77d06f67b5)
