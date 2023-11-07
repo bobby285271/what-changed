@@ -262,6 +262,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard/commit/1ce68c9412b98b005faecd0801d6818bd0a988b5)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard/commit/0ae4663da0feb342961f83c87a1f4edd08c7a41d)
 - [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard/commit/a5a5780f80e7faa747acf99c084f5accd45aff87)
+- [ ] [<code>README: Update executable name (#275)</code>](https://github.com/elementary/switchboard/commit/bb007582ae8701a03bc502731ed7a20e61bbd0a2)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
