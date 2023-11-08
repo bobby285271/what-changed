@@ -425,6 +425,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>WallpaperContainer: Use gesture for secondary click</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d64931ec86683ad50b7bba863683ce9c54460d5c)
 - [ ] [<code>Use GLib.Menu</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b8faed1e2502abf3667b99293d2e969467deae99)
+- [ ] [<code>Drop Plank settings (#375)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ecf44377e5a358e6283f2937ab55c544fd4f463a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
