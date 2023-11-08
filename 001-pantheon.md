@@ -118,6 +118,7 @@
 - [ ] [<code>Don't disable delete accelerators when the ConversationList looses keyboard focus (#955)</code>](https://github.com/elementary/mail/commit/c33385f73fad12d0863373f1de2b929519036d3c)
 - [ ] [<code>Fix some attachments not showing up (#958)</code>](https://github.com/elementary/mail/commit/9c40f9bbbad04d38e70cb907548948083326ca2f)
 - [ ] [<code>Use the actual recipients of a message as sender when replying or forwarding (#956)</code>](https://github.com/elementary/mail/commit/6cc2f513529c849b04816f966954ba608e6b734d)
+- [ ] [<code>AliasesDialog: screen reader fixes, design tweaks (#967)</code>](https://github.com/elementary/mail/commit/a4a9471600d39beb384b36d2cc98bbb3f04170b4)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -624,6 +625,9 @@
 - [ ] [<code>DragDropAction: pass correct coordinates to `drag_begin` (#1791)</code>](https://github.com/elementary/gala/commit/aa1dc31a1d160b733cce0c54714b5de7c4fbcc00)
 - [ ] [<code>MultitaskingView: code style (#1790)</code>](https://github.com/elementary/gala/commit/69db03560b09346714846eb8c85eeef7aacf2527)
 - [ ] [<code>Gtk.init only in X11 session (#1792)</code>](https://github.com/elementary/gala/commit/ebbf6b6010feaec61a38d7176e578e328f191720)
+- [ ] [<code>Reload workspace clones when monitors change (#1788)</code>](https://github.com/elementary/gala/commit/ad90feec44c8539c4e908ee0fa1edb1f02484cb4)
+- [ ] [<code>MultitaskingView: cleanup and bugfixes (#1787)</code>](https://github.com/elementary/gala/commit/27cc39c9e83167b5d88975aa07273b6660102325)
+- [ ] [<code>BackgroundManager: remove redundant Idle (#1797)</code>](https://github.com/elementary/gala/commit/e4439787883ab2b86c6f99770f45db3952252443)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -865,3 +869,4 @@
 - [ ] [<code>Desktop: pull in GTK4 System Settings (#105)</code>](https://github.com/elementary/seeds/commit/6cc91682051adb92229de59ad5db920d47e5a5ce)
 - [ ] [<code>Remove d-i-requiremens</code>](https://github.com/elementary/seeds/commit/ab7691303a0034cdd1d2a4d6f955e6ea07041f8f)
 - [ ] [<code>Desktop Remove redundant switchboard plugins (#107)</code>](https://github.com/elementary/seeds/commit/1f54c98596e4a355c7d271eab2c11d77d06f67b5)
+- [ ] [<code>Sdk: Drop libplank (#108)</code>](https://github.com/elementary/seeds/commit/c4b45d6e30eec00eff2698036233c84e6849363b)
