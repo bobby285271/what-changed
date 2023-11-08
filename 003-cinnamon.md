@@ -97,6 +97,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>wacom: Add "disabled" to stylus button actions.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3754965c5d393448e1dda59296a12c6e444965a5)
+- [ ] [<code>display: Add wayland compatibility</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7360582eb853682764eb4d276d9e8535c96fe763)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
@@ -120,9 +121,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d6b21662254713be9d7b89a3375329b673050873)
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#444)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/337ea8b521685e2c72823871f2327f760decead2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Disable screensaver in wayland sessions</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/91900812333bb6ccca9ca0bf57363a3b1d3023a2)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
@@ -206,7 +209,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>keybindings: Restore window opacity keybindings.</code>](https://github.com/linuxmint/muffin/commit/042e9d4a855d7014d0770c97d55432243b6eac20)
 - [ ] [<code>input settings: Allow disabling stylus buttons.</code>](https://github.com/linuxmint/muffin/commit/2265985ff36744a751d402641f3e77cbfcb49b4d)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Fix some incorrect gsettings schemas</code>](https://github.com/linuxmint/muffin/commit/db389b518598d7d8479803ff8c9e0cf216c61462)
+- [ ] [<code>build/packaging: Restore Wayland support</code>](https://github.com/linuxmint/muffin/commit/bc10efe8282b9dc78e5fd05f34cd54e2a242980e)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>wayland: Fix desktop background</code>](https://github.com/linuxmint/muffin/commit/4b87bf9e647f26136a86b7cf15c9a8db0d313226)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
 
@@ -240,7 +248,9 @@
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#3316)</code>](https://github.com/linuxmint/nemo/commit/c0c76dbdb803a3717bcf6d18a8e8396bdadbf9b3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-pathbar.c: Remove unnecessary g_object_unref.</code>](https://github.com/linuxmint/nemo/commit/ba29a2ffb1cd85ea323a7aa44fbf86fd804c2532)
+- [ ] [<code>nemo-desktop.c: Use Gtk to set the desktop window hint</code>](https://github.com/linuxmint/nemo/commit/41bf0f7a9402b8ab547c7f59657276f0582d41bb)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
@@ -362,7 +372,9 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [1.8.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/1.8.2...HEAD)
 
 - [ ] [<code>Add man page for enable-tap-to-click (#224)</code>](https://github.com/linuxmint/slick-greeter/commit/06b1bd810f442c5b22e6b109e492b197c51f60a4)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.mint21</code></sub>
+- [ ] [<code>Add cinnamon-wayland badge</code>](https://github.com/linuxmint/slick-greeter/commit/21c1877ee5fe0b19e68090889eae4ef8df2a7a24)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
