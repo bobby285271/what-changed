@@ -136,8 +136,17 @@
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
 
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#383)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/13b0aa4c5ec930e9a08eca79668be6e982e5ddef)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add wayland support</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a34ede1288ce966c8fd0d74b1404a78954d86eb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>optimization: Only initialize libnotify for plugins that need it</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8c55ffb8cb3b89c1966ffbda359a4bc1b53daf9f)
+- [ ] [<code>wayland: Add a plugin to sync cinnamon/gnome settings</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c5b3e5f85f2370b66a813840b581ee49081ef4e8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>csd-background: Make wayland-compatible</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae4756ddeb376c18e1901aa240c93164b9efd8e7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xsettings: Add gtk-keynav-use-caret setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/349e27a46bdb9d194fc719af04152fb857aae5b8)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.8.2...HEAD)
 
