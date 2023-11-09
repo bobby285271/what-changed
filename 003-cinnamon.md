@@ -107,6 +107,12 @@
   - <sub>Tags: <code>master.lmde6-i386</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cdesktop-enums: Expand CDesktopStylusButtonAction to include</code>](https://github.com/linuxmint/cinnamon-desktop/commit/610a006d86d1f64ded295b5b44533238c08e0c6b)
+- [ ] [<code>Add gnome-systemd</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7eadfb1da9a42384396978b8ab46e0725d18e04f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add gnome-idle-monitor</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2419322898bca95fa90d468de2b55feac7e77977)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>a11y: Add 'always-show-text-caret' xsetting</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fe21fa8c0475b38522db2b7a68f11e95cca4ac91)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
