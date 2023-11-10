@@ -116,8 +116,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>cinnamon-settings: Suppress/hide some x11-only elements.</code>](https://github.com/linuxmint/cinnamon/commit/5a73d4065f3ad757053dd5db931bc1372ade724e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>modalDialog.js: Fix sync call in x11.</code>](https://github.com/linuxmint/cinnamon/commit/c279ee07a5fb45ccd8ae23181bec68c9cfed9cb4)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
