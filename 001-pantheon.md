@@ -30,6 +30,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#261)</code>](https://github.com/elementary/calculator/commit/5aba6224a8728c2a52ef7f0311cfba09a6cc93ab)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#262)</code>](https://github.com/elementary/calculator/commit/660d625bfa26749dee1663cd1ab556e2728853d6)
 - [ ] [<code>CI: use flatpak gettext action</code>](https://github.com/elementary/calculator/commit/98085d8774aa4b4f10a2f3f6d5f67386d7838ae0)
+- [ ] [<code>gschema: remove window position (#264)</code>](https://github.com/elementary/calculator/commit/b80818c8b7bba26c40ce3ca6835020d2757e3dec)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -79,6 +80,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#185)</code>](https://github.com/elementary/dock/commit/b5c18f63e176d8dbfe84831e7d89fbfa2c486317)
+- [ ] [<code>Add context menu (#182)</code>](https://github.com/elementary/dock/commit/80335a7b2418a4efb8ca2fec8d2b445590c49c74)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -882,3 +884,4 @@
 - [ ] [<code>Remove d-i-requiremens</code>](https://github.com/elementary/seeds/commit/ab7691303a0034cdd1d2a4d6f955e6ea07041f8f)
 - [ ] [<code>Desktop Remove redundant switchboard plugins (#107)</code>](https://github.com/elementary/seeds/commit/1f54c98596e4a355c7d271eab2c11d77d06f67b5)
 - [ ] [<code>Sdk: Drop libplank (#108)</code>](https://github.com/elementary/seeds/commit/c4b45d6e30eec00eff2698036233c84e6849363b)
+- [ ] [<code>Shell: Replace Plank with elementary Dock (#109)</code>](https://github.com/elementary/seeds/commit/6031d2e2835dee93a6869ae7e2fb6c9e903d68e6)
