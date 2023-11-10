@@ -88,7 +88,36 @@
 - [ ] [<code>Adds option to always show the input switch in the sound applet. (Closes #11232)</code>](https://github.com/linuxmint/cinnamon/commit/e5fc002e1ff591fb06859204ba65f105aeac29c5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #11914 from sphh/sound-always-show-input</code>](https://github.com/linuxmint/cinnamon/commit/826b7552ec69ef7c0531240f8f859416101c16e7)
+- [ ] [<code>wayland: Add session files</code>](https://github.com/linuxmint/cinnamon/commit/40e74ec3f5376b9668044b2114ea8bee5f1cd62a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Clean up build deps and some unused imports</code>](https://github.com/linuxmint/cinnamon/commit/3295a2d631870416485fb53a4a28cea5366ff886)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wayland: Don't use Gtk/Gdk anywhere in core/startup code</code>](https://github.com/linuxmint/cinnamon/commit/52037a9690c476046c6247a9ffacca84ebcf77b5)
+- [ ] [<code>st-texture-cache: Make our own GtkIconTheme instead of trying to</code>](https://github.com/linuxmint/cinnamon/commit/8cbd6f3bd443a333e6f4ea37b0c38a624a836ddf)
+- [ ] [<code>Disable/avoid things that don't currently work in Wayland</code>](https://github.com/linuxmint/cinnamon/commit/ccfda8f6be99f11826a9db593092d8f32ba5749d)
+- [ ] [<code>Extensions: Block certain x11-only xlets from trying to load</code>](https://github.com/linuxmint/cinnamon/commit/0013157dde341fa3ddde3219953927e6860f1af9)
+- [ ] [<code>dbus: Add monitor labeler</code>](https://github.com/linuxmint/cinnamon/commit/995e2529b35a2c5583d38f9dcb34fd71a02c2d60)
+- [ ] [<code>Restore system background</code>](https://github.com/linuxmint/cinnamon/commit/fe9015139fd6a35d0fdc87959b890230fd6852de)
+- [ ] [<code>Log the backend at Cinnamon start, add a row for it in cs_info.py</code>](https://github.com/linuxmint/cinnamon/commit/83ec7c481b834ba6c2e602a8deb97e9f94523461)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Don't use a GtkPlug/Socket for overview-scrollbar</code>](https://github.com/linuxmint/cinnamon/commit/9b9400cda3a3034f825cb042bd031fb4bcdc8a9d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cs_display: Add scale-monitor-framebuffer for Wayland fractional</code>](https://github.com/linuxmint/cinnamon/commit/7842d0e08019bddaac97769f0e15341826c94816)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove some leftovers from main.c, adjust a string in cs_themes.py</code>](https://github.com/linuxmint/cinnamon/commit/f1d5541f75a4d44909b8ee8cebe81200b8a02ba4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power applet: Wait for csd-power's dbus presence before trying to</code>](https://github.com/linuxmint/cinnamon/commit/8c668670a14accb171b303026a8cf8f1e4c26ef4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-launcher: Launch cinnamon immediately under Wayland</code>](https://github.com/linuxmint/cinnamon/commit/99021459023e02de7a61296201c5d3541eb62e5b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>session: Use a separate desktop file for Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/6ef5dccb4717127d9cf6e2f0be432c23624b324e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-settings: Suppress/hide some x11-only elements.</code>](https://github.com/linuxmint/cinnamon/commit/5a73d4065f3ad757053dd5db931bc1372ade724e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -136,8 +165,31 @@
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#155)</code>](https://github.com/linuxmint/cinnamon-session/commit/8c66255c931c530740b6aa386a45ad49053dea45)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Don't use egg library</code>](https://github.com/linuxmint/cinnamon-session/commit/c5351e34d8a26d24dc0e7e3f6ba65c02ec4d0d71)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>wayland: Replace cs-idle-monitor with gnome-idle-monitor</code>](https://github.com/linuxmint/cinnamon-session/commit/bbc33ae604e0116a75bacac033492ab34d8f91da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wayland: Add compatibility</code>](https://github.com/linuxmint/cinnamon-session/commit/c91baef72d08fbcbcbbd1ecad840c02cc9020630)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wayland: Add DisplayServer phase</code>](https://github.com/linuxmint/cinnamon-session/commit/4a75c3ee536d3f420aec0c11cd2f6a4f30e4fd52)
+- [ ] [<code>wayland: Reimplement logout/inhibit dialogs as a separate process</code>](https://github.com/linuxmint/cinnamon-session/commit/264a4d0a675e9106f93bb2f1964e0e6425b437c2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Clean up and unify logging for session failures</code>](https://github.com/linuxmint/cinnamon-session/commit/5d8c9e9c01ef79a1f711ab83a6744b13f45aa6e5)
+- [ ] [<code>More cleanup - leftover includes, unused files</code>](https://github.com/linuxmint/cinnamon-session/commit/7377e867e67b93d8520d98ebba82c1cae670c520)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix build.</code>](https://github.com/linuxmint/cinnamon-session/commit/cc3d2fc1bff69d9fab320f050bc3e2eb2dcaee0e)
+- [ ] [<code>Don't make a required component failure fatal.</code>](https://github.com/linuxmint/cinnamon-session/commit/c397f613b2b71fde578b90d2afbb10d7bca5eea4)
+- [ ] [<code>On required app failure, log both the app and startup ID.</code>](https://github.com/linuxmint/cinnamon-session/commit/21934430e7803f83184cdeeec7a898cf6ef2b137)
+- [ ] [<code>csm-manager: Remove maybe_restart_user_bus.</code>](https://github.com/linuxmint/cinnamon-session/commit/68bcae2fcc1d8bd1b4f7de227a191bf7d3676f87)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>main.c: Don't direct logging to the journal.</code>](https://github.com/linuxmint/cinnamon-session/commit/4d134d3910b8c7da5aa39b4b85dd7947464e445f)
+- [ ] [<code>csm-manager: Terminate the logout dialog at the beginning of</code>](https://github.com/linuxmint/cinnamon-session/commit/829519b1d36668e4a178f15900bd49af55548926)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
 
@@ -152,6 +204,8 @@
 - [ ] [<code>csd-background: Make wayland-compatible</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae4756ddeb376c18e1901aa240c93164b9efd8e7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xsettings: Add gtk-keynav-use-caret setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/349e27a46bdb9d194fc719af04152fb857aae5b8)
+- [ ] [<code>daemon-skeleton.h: Make sure the GMainLoop is accessible everywhere</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae96c48e9f4fa09183f34873c8d6ca9b6616bddb)
+- [ ] [<code>cinnamon-settings-session.c: Don't unref a null GCancellable.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5393cbc75172060a01e031ea749f94e495be16e)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.8.2...HEAD)
@@ -264,8 +318,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-pathbar.c: Remove unnecessary g_object_unref.</code>](https://github.com/linuxmint/nemo/commit/ba29a2ffb1cd85ea323a7aa44fbf86fd804c2532)
 - [ ] [<code>nemo-desktop.c: Use Gtk to set the desktop window hint</code>](https://github.com/linuxmint/nemo/commit/41bf0f7a9402b8ab547c7f59657276f0582d41bb)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-desktop: Add csd-background to ignored-desktop-handlers.</code>](https://github.com/linuxmint/nemo/commit/32ab5b1c7893054b266afaa6c88b45c43e8ebd25)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
