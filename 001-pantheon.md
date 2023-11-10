@@ -378,6 +378,9 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#218)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/56c7b25653ce3ad3a0078dac6e8076ef289f87dc)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/01f2f24237da0fb35a1cb5c4155569e60473f8f7)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4125714cb2dc22b4a62086212089675dd729dc84)
+- [ ] [<code>Clicking: more vertical layout (#205)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9f2d7ce5e384a4bc0092e17884a0a64a5576bfaf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
@@ -631,6 +634,12 @@
 - [ ] [<code>Reload workspace clones when monitors change (#1788)</code>](https://github.com/elementary/gala/commit/ad90feec44c8539c4e908ee0fa1edb1f02484cb4)
 - [ ] [<code>MultitaskingView: cleanup and bugfixes (#1787)</code>](https://github.com/elementary/gala/commit/27cc39c9e83167b5d88975aa07273b6660102325)
 - [ ] [<code>BackgroundManager: remove redundant Idle (#1797)</code>](https://github.com/elementary/gala/commit/e4439787883ab2b86c6f99770f45db3952252443)
+- [ ] [<code>Release 7.1.3 (#1777)</code>](https://github.com/elementary/gala/commit/167862ae223b3483336ad3ed45bc2326ac3c167a)
+  - <sub>Tags: <code>7.1.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>IconGroup: remove close button (#1794)</code>](https://github.com/elementary/gala/commit/c58c84ab7a74f5cb176ddfcc3d4d9a70db175c00)
+- [ ] [<code>Remove  `workspace-switcher-background` key (#1798)</code>](https://github.com/elementary/gala/commit/0cc9a049aef23fd04ae2cfb693a30c5f60a767a5)
+- [ ] [<code>Remove `expose-windows` shortcut (#1795)</code>](https://github.com/elementary/gala/commit/f5391aee9d3f7ffcba7d300a42744e33c4fb9439)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
