@@ -185,6 +185,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove constant</code>](https://github.com/donadigo/appeditor/commit/752d5081dbca698961ef38166cf1d82e56b02341)
 - [ ] [<code>Release 1.1.4</code>](https://github.com/donadigo/appeditor/commit/aeb0b13e5dfd2dfde951e8f18d9075eee5054f71)
+  - <sub>Tags: <code>1.1.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: Set minimum granite version (#132)</code>](https://github.com/donadigo/appeditor/commit/ad894de918bd545074820acb7cb28b990809c9e2)
   - <sub>Files: <code>meson.build</code></sub>
@@ -195,6 +196,7 @@
 - [ ] [<code>Update glib to 2.76.3 and Flatpak platform to 7.2 (#133)</code>](https://github.com/donadigo/appeditor/commit/f170b6b1f20b49c937cf5200a42eee524923aea5)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Release 1.1.5</code>](https://github.com/donadigo/appeditor/commit/8612fc8f8f812bc50002d4086afa304228a72cae)
+  - <sub>Tags: <code>1.1.5</code></sub>
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
