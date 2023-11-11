@@ -42,6 +42,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/calendar/commit/aa6be1f7759c435b247b2908f21ce13d2fc2ec2f)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/calendar/commit/902d89b3714edad1a8c355beacdf7076e6511606)
 - [ ] [<code>Switch to flat headerbars (#798)</code>](https://github.com/elementary/calendar/commit/949808f0ef98a345e9098d878309e67a03c0c0df)
+- [ ] [<code>gschema: remove window position (#802)</code>](https://github.com/elementary/calendar/commit/d621b45735d8077767a406894f450e351dd008d4)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -58,6 +59,7 @@
 - [ ] [<code>Silence terminal warning re adding null item (#1353)</code>](https://github.com/elementary/code/commit/bba7c148eec0c42bd993160f19ed9c72ed256076)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1372)</code>](https://github.com/elementary/code/commit/0540fffc983b77e99bbd09a6eb8b4736128138ad)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#1373)</code>](https://github.com/elementary/code/commit/315f702f450cd532fa3e5fa5133f867b691a6170)
+- [ ] [<code>gschema: remove window position (#1376)</code>](https://github.com/elementary/code/commit/52fd5f27f92cca32f8ea733347a5f70630fd267f)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -121,6 +123,7 @@
 - [ ] [<code>Fix some attachments not showing up (#958)</code>](https://github.com/elementary/mail/commit/9c40f9bbbad04d38e70cb907548948083326ca2f)
 - [ ] [<code>Use the actual recipients of a message as sender when replying or forwarding (#956)</code>](https://github.com/elementary/mail/commit/6cc2f513529c849b04816f966954ba608e6b734d)
 - [ ] [<code>AliasesDialog: screen reader fixes, design tweaks (#967)</code>](https://github.com/elementary/mail/commit/a4a9471600d39beb384b36d2cc98bbb3f04170b4)
+- [ ] [<code>gschema: remove window position (#972)</code>](https://github.com/elementary/mail/commit/11f8a562ec0912dac670cba38b383584913f8c11)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -179,6 +182,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#374)</code>](https://github.com/elementary/tasks/commit/91ec6ca2a360c6c4d749e8dd62ffa108a6b4cc2b)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#375)</code>](https://github.com/elementary/tasks/commit/4be89ab1378647e522ad14e675f9ca1f9e1c00b0)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/tasks/commit/851f79ed3db03bfe4231f91dd293ba029a584503)
+- [ ] [<code>gschema: remove window position (#377)</code>](https://github.com/elementary/tasks/commit/66c5cb7e3d8b882879e1f7b90f00b23bf20c6388)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -203,6 +207,7 @@
 - [ ] [<code>MainWindow: port to Gtk.EventController</code>](https://github.com/elementary/terminal/commit/88fb8be715e033a477a8d3b71e7637752967c45b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove window position (#748)</code>](https://github.com/elementary/terminal/commit/a76636d35c6a9868b98963baba56fe7fdb79a8cc)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
