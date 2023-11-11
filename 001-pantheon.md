@@ -43,6 +43,7 @@
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/calendar/commit/902d89b3714edad1a8c355beacdf7076e6511606)
 - [ ] [<code>Switch to flat headerbars (#798)</code>](https://github.com/elementary/calendar/commit/949808f0ef98a345e9098d878309e67a03c0c0df)
 - [ ] [<code>gschema: remove window position (#802)</code>](https://github.com/elementary/calendar/commit/d621b45735d8077767a406894f450e351dd008d4)
+- [ ] [<code>Rearrange headerbar items (#803)</code>](https://github.com/elementary/calendar/commit/d9415684ab403e04c828ac3877322bef8718149d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -124,6 +125,7 @@
 - [ ] [<code>Use the actual recipients of a message as sender when replying or forwarding (#956)</code>](https://github.com/elementary/mail/commit/6cc2f513529c849b04816f966954ba608e6b734d)
 - [ ] [<code>AliasesDialog: screen reader fixes, design tweaks (#967)</code>](https://github.com/elementary/mail/commit/a4a9471600d39beb384b36d2cc98bbb3f04170b4)
 - [ ] [<code>gschema: remove window position (#972)</code>](https://github.com/elementary/mail/commit/11f8a562ec0912dac670cba38b383584913f8c11)
+- [ ] [<code>Remember recipients (#927)</code>](https://github.com/elementary/mail/commit/a7630fe8c82fb4c40f8c53b95e1a40509cf7abb5)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -601,49 +603,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [7.1.2 → HEAD](https://github.com/elementary/gala/compare/7.1.2...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [7.1.3 → HEAD](https://github.com/elementary/gala/compare/7.1.3...HEAD)
 
-- [ ] [<code>ScreenShield: remove unused signal (#1745)</code>](https://github.com/elementary/gala/commit/d6e37f3289585f3a4c211fafced1691ef1c1d40e)
-- [ ] [<code>ScreenShield: respect animations key (#1744)</code>](https://github.com/elementary/gala/commit/2b34d8cf69a57a52b9511f3478ad1cd0ae5e770a)
-- [ ] [<code>Remove `PluginFunction.DESKTOP` (#1747)</code>](https://github.com/elementary/gala/commit/5804d7fb08e41dab632b235d31a0af8ca2a233e2)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#1749)</code>](https://github.com/elementary/gala/commit/1d50165a196f0caaa3289fc6fbe9f774078d91bf)
-- [ ] [<code>ci: Specify the mutter package to use (#1758)</code>](https://github.com/elementary/gala/commit/9fe67843b87709f41b86e4dd21fba9376551215b)
-- [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/gala/commit/151e5f01750e9471cceac48f1999ac5e81f625b5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Don't use Gtk.init</code>](https://github.com/elementary/gala/commit/5f3245ead885a7f240befc9c6dfd5c4f61b8513f)
-- [ ] [<code>BackgroundSource: Keep a reference to the monitor manager (#1767)</code>](https://github.com/elementary/gala/commit/f771b2a4ff83fa6839255cef755720de35f12978)
-- [ ] [<code>Use `Source.REMOVE`</code>](https://github.com/elementary/gala/commit/43200bc0ffc58fa2d256869f1d7865f1c77bbcd6)
-- [ ] [<code>Remove `background_sources` HashMap</code>](https://github.com/elementary/gala/commit/9be8b7d5f2b36a75944c743ee8a32522d215ab0f)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Rename to `gnome_background_settings`</code>](https://github.com/elementary/gala/commit/b9744dd3fcc549b070ce385a11ede718905a5e1e)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Don't block `Alt + Shift` when there is only one keyboard layout (#1756)</code>](https://github.com/elementary/gala/commit/844eb95c69219228aa059f9c35178901ecd32f6e)
-- [ ] [<code>Background: Cleanup (#1776)</code>](https://github.com/elementary/gala/commit/6cc836017ee68b872ea9c7c6082ab9991aac498e)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Don't create window snapshots if animations are disabled (#1778)</code>](https://github.com/elementary/gala/commit/91d70aa40c90aeb14e12a10964958b53051779ad)
-- [ ] [<code>WindowClone: Use cursors for dnd</code>](https://github.com/elementary/gala/commit/84e7875541d9ec9ee680450eabeb50ca76ea0db4)
-- [ ] [<code>PiP: Use different cursors for dnd and resize</code>](https://github.com/elementary/gala/commit/19ec1174b87831bf66d5a6cb217668155bff6e1e)
-- [ ] [<code>IconGroup: Use cursors for dnd</code>](https://github.com/elementary/gala/commit/5a917dec1a86c68f14970b9ea9c1baa1946746f0)
-- [ ] [<code>Background: respect animations key (#1779)</code>](https://github.com/elementary/gala/commit/86293d44c11d637c44c5d8bd52b43887678465b4)
-- [ ] [<code>Add "Move to workspace" gesture (#1780)</code>](https://github.com/elementary/gala/commit/493dd89dd9a409fa9291900b045235de3f944ff5)
-- [ ] [<code>WorkspaceManager: Fixes and cleanup (#1768)</code>](https://github.com/elementary/gala/commit/11c312500862550cc6639ac92cb0b88c1e60de0a)
-- [ ] [<code>NotificationStack: Check if notification was already shown (#1748)</code>](https://github.com/elementary/gala/commit/a582033ae5552dbd444623207a49473a2ebfeac8)
-- [ ] [<code>Metainfo: Update 7.1.3 release notes (#1784)</code>](https://github.com/elementary/gala/commit/e54f2bbc79a9291425e9d21f182a255fca5b73eb)
-- [ ] [<code>Move to Workspace: Fix segmentation fault when `focus_window` is null (#1785)</code>](https://github.com/elementary/gala/commit/84e2acdd2d42120201755b571e179aa3b9903260)
-- [ ] [<code>Increase `window-clone` shadow size (#1781)</code>](https://github.com/elementary/gala/commit/433c4e911b86d1e22e8e1a6100b9ef2512025299)
-- [ ] [<code>Redraw tooltip to avoid corner glitches (#1760)</code>](https://github.com/elementary/gala/commit/b8bea1fd01a8703cb50cbb614c432e09ebb1f67a)
-- [ ] [<code>WindowClone: reset cursor early (#1786)</code>](https://github.com/elementary/gala/commit/ae07ad5abe9d58572c03a55f6f94c3613bb6cdcd)
-- [ ] [<code>WorkspaceManager: count windows on primary monitor only (#1789)</code>](https://github.com/elementary/gala/commit/82b60f140aec9c486f2269028c214dd70e16c00b)
-- [ ] [<code>DragDropAction: pass correct coordinates to `drag_begin` (#1791)</code>](https://github.com/elementary/gala/commit/aa1dc31a1d160b733cce0c54714b5de7c4fbcc00)
-- [ ] [<code>MultitaskingView: code style (#1790)</code>](https://github.com/elementary/gala/commit/69db03560b09346714846eb8c85eeef7aacf2527)
-- [ ] [<code>Gtk.init only in X11 session (#1792)</code>](https://github.com/elementary/gala/commit/ebbf6b6010feaec61a38d7176e578e328f191720)
-- [ ] [<code>Reload workspace clones when monitors change (#1788)</code>](https://github.com/elementary/gala/commit/ad90feec44c8539c4e908ee0fa1edb1f02484cb4)
-- [ ] [<code>MultitaskingView: cleanup and bugfixes (#1787)</code>](https://github.com/elementary/gala/commit/27cc39c9e83167b5d88975aa07273b6660102325)
-- [ ] [<code>BackgroundManager: remove redundant Idle (#1797)</code>](https://github.com/elementary/gala/commit/e4439787883ab2b86c6f99770f45db3952252443)
-- [ ] [<code>Release 7.1.3 (#1777)</code>](https://github.com/elementary/gala/commit/167862ae223b3483336ad3ed45bc2326ac3c167a)
-  - <sub>Tags: <code>7.1.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>IconGroup: remove close button (#1794)</code>](https://github.com/elementary/gala/commit/c58c84ab7a74f5cb176ddfcc3d4d9a70db175c00)
 - [ ] [<code>Remove  `workspace-switcher-background` key (#1798)</code>](https://github.com/elementary/gala/commit/0cc9a049aef23fd04ae2cfb693a30c5f60a767a5)
 - [ ] [<code>Remove `expose-windows` shortcut (#1795)</code>](https://github.com/elementary/gala/commit/f5391aee9d3f7ffcba7d300a42744e33c4fb9439)
