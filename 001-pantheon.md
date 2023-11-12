@@ -84,6 +84,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#185)</code>](https://github.com/elementary/dock/commit/b5c18f63e176d8dbfe84831e7d89fbfa2c486317)
 - [ ] [<code>Add context menu (#182)</code>](https://github.com/elementary/dock/commit/80335a7b2418a4efb8ca2fec8d2b445590c49c74)
+- [ ] [<code>Meson: use gnome.post_install (#188)</code>](https://github.com/elementary/dock/commit/0125900b57351502ac0c7ed155619a2698562355)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Implement DnD reordering (#181)</code>](https://github.com/elementary/dock/commit/47c02f8bd422eb86290d61bd860b5fa5016052f2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix some small issues (#192)</code>](https://github.com/elementary/dock/commit/d9793626c538b2a558d5f09dff7a7cf7926a9169)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -553,6 +561,7 @@
 - [ ] [<code>Remove deprecated keys (#291)</code>](https://github.com/elementary/default-settings/commit/3c49d4de9ead4623b4124ca374f4d5a28b638af5)
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Move some media-keys from static to their normal versions (#288)</code>](https://github.com/elementary/default-settings/commit/86ed77d978ee517b8ed77dbaefda3e1359f63d2d)
+- [ ] [<code>Override `switch-group` and `switch-group-backward` (#287)</code>](https://github.com/elementary/default-settings/commit/6c5bbff3edcbe020e9decdd71ea11f799ef0097f)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -761,6 +770,7 @@
 - [ ] [<code>Metainfo Improvements (#71)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6156d0e1804d5c8f1d80ee93f5549bb475d520d3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#72)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/7c374d45348ea8ddca18acde66b8840ec894723b)
+- [ ] [<code>PolkitDialog: GTK4 Prep (#73)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9d92e997107dae3cba4ab06b31b819145e47c9de)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
