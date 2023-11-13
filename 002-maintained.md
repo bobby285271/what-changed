@@ -177,26 +177,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement filename for exports (#743)</code>](https://github.com/akiraux/Akira/commit/6ba3574f2e14b4290991a4dd94e905152ac08542)
 
-#### [appeditor](https://github.com/donadigo/appeditor): [1.1.3 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.3...HEAD)
+#### [appeditor](https://github.com/donadigo/appeditor): [1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.5...HEAD)
 
-- [ ] [<code>Fix translation is not loaded in Flatpak (#119)</code>](https://github.com/donadigo/appeditor/commit/d3f62e5162f3ec2ae49fb9d9c12915212efc6719)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Create sv.po (#109)</code>](https://github.com/donadigo/appeditor/commit/49d28431f03d22271c3bc648fdde0d779ed370e8)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Remove constant</code>](https://github.com/donadigo/appeditor/commit/752d5081dbca698961ef38166cf1d82e56b02341)
-- [ ] [<code>Release 1.1.4</code>](https://github.com/donadigo/appeditor/commit/aeb0b13e5dfd2dfde951e8f18d9075eee5054f71)
-  - <sub>Tags: <code>1.1.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Set minimum granite version (#132)</code>](https://github.com/donadigo/appeditor/commit/ad894de918bd545074820acb7cb28b990809c9e2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>czech translation (#128)</code>](https://github.com/donadigo/appeditor/commit/176625d02da36f64609b7a4ddb4a4ab0e10877d2)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix #121 (failure to compile with vala 0.55.1) (#122)</code>](https://github.com/donadigo/appeditor/commit/1ad692b4630fcb49b5052d7cc1e809c94b900d96)
-- [ ] [<code>Update glib to 2.76.3 and Flatpak platform to 7.2 (#133)</code>](https://github.com/donadigo/appeditor/commit/f170b6b1f20b49c937cf5200a42eee524923aea5)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Release 1.1.5</code>](https://github.com/donadigo/appeditor/commit/8612fc8f8f812bc50002d4086afa304228a72cae)
-  - <sub>Tags: <code>1.1.5</code></sub>
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
