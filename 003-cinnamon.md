@@ -118,6 +118,9 @@
 - [ ] [<code>cinnamon-settings: Suppress/hide some x11-only elements.</code>](https://github.com/linuxmint/cinnamon/commit/5a73d4065f3ad757053dd5db931bc1372ade724e)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>modalDialog.js: Fix sync call in x11.</code>](https://github.com/linuxmint/cinnamon/commit/c279ee07a5fb45ccd8ae23181bec68c9cfed9cb4)
+- [ ] [<code>melange: convert to GApplication, cleanup, fix launch-as-inspector</code>](https://github.com/linuxmint/cinnamon/commit/b885436797c181f001052e1b8e91e628dda98240)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>lookingGlass.js: Initialize melange interface at startup.</code>](https://github.com/linuxmint/cinnamon/commit/22254e2c0b3bbcc81d5e271623d9c8da39a358d5)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
