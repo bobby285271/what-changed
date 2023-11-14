@@ -183,6 +183,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#271)</code>](https://github.com/elementary/screenshot/commit/60e89636a2e8dbf13c41b5591a3e75bfa869c844)
 - [ ] [<code>Application: use startup, builtin icon loading (#273)</code>](https://github.com/elementary/screenshot/commit/61e1cfad9424763f720a8ac039ccdf5b4b1c8f71)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/screenshot/commit/2d4536592be70d3763e298f5d96ebd60bdb00025)
+- [ ] [<code>ScreenshotWindow: GTK 4 prep (#274)</code>](https://github.com/elementary/screenshot/commit/ea84b7bc5caa22df6fed1b4afbd7c3424d971007)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -380,6 +381,8 @@
 - [ ] [<code>InputMethod: GTK4 prep (#486)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/25eed8592a678b36be08028a13bca8734fcca417)
 - [ ] [<code>AddEnginesPopover: GTK4 prep (#484)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/40bc432619baa53d3019ccf396c543733dd4d09a)
 - [ ] [<code>Allow more keys as single key accelerators (#467)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/601c5c278ab54cfec2a5cc58c3b44cb754d2f7c2)
+- [ ] [<code>Meson: install gschema under RDNN (#491)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1fb67e8134b7c5cc8c2cfa2f5f6523cedbe16366)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -399,6 +402,7 @@
 - [ ] [<code>Clicking: more vertical layout (#205)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9f2d7ce5e384a4bc0092e17884a0a64a5576bfaf)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Gestures: Add move to workspace option (#221)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d39f78f8e8ec21a46a0ccb2f39df3da711b7c627)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
@@ -537,6 +541,8 @@
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1229)</code>](https://github.com/elementary/icons/commit/0e5bc62b1471e2d7635d3b6cb75a6bbcfc72b0a4)
 - [ ] [<code>Categories: Use bell for notification settings (#1234)</code>](https://github.com/elementary/icons/commit/460609dbe3beef775a95d80b464ae7465198a53d)
+- [ ] [<code>Actions: New document-save icon (#1230)</code>](https://github.com/elementary/icons/commit/452ee49d8a6ad2d043867e1fc31dbd6bf63965e5)
+- [ ] [<code>Actions: Grid-align some symbolic icons (#1231)</code>](https://github.com/elementary/icons/commit/c4b7a2442708787acd75499d2fe3144fb82a35c9)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -682,6 +688,9 @@
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#252)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/a8b59438a26a1263f1b634b022600647757e0f1f)
+- [ ] [<code>Drop "Apps Using Lots of Power" feature (#247)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/664530a5f7d2f36c30ab4648a1ed25ed9ba47ce9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
