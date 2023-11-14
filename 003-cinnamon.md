@@ -193,6 +193,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.c: Don't direct logging to the journal.</code>](https://github.com/linuxmint/cinnamon-session/commit/4d134d3910b8c7da5aa39b4b85dd7947464e445f)
 - [ ] [<code>csm-manager: Terminate the logout dialog at the beginning of</code>](https://github.com/linuxmint/cinnamon-session/commit/829519b1d36668e4a178f15900bd49af55548926)
+- [ ] [<code>cinnamon-session-quit: Set modal.</code>](https://github.com/linuxmint/cinnamon-session/commit/a99a581c98bdc1ee693e4f63d3a9759d06d278fc)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
@@ -324,6 +325,9 @@
 - [ ] [<code>nemo-desktop.c: Use Gtk to set the desktop window hint</code>](https://github.com/linuxmint/nemo/commit/41bf0f7a9402b8ab547c7f59657276f0582d41bb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-desktop: Add csd-background to ignored-desktop-handlers.</code>](https://github.com/linuxmint/nemo/commit/32ab5b1c7893054b266afaa6c88b45c43e8ebd25)
+- [ ] [<code>list-view: Remove remaining unused 'drop zone' code.</code>](https://github.com/linuxmint/nemo/commit/9c0bdaa166a5380b4b28db558bd536ac795e5782)
+- [ ] [<code>nemo-list-view: Restrict drag-into-folder actions to be triggered</code>](https://github.com/linuxmint/nemo/commit/b9d396e153951b1925e99105857f47d3261a06cb)
+- [ ] [<code>nemo-list-view.c: Don't apply column-expand test unless there is</code>](https://github.com/linuxmint/nemo/commit/95be8fdac202a8a10e5018f03b42b47af33d181d)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
