@@ -163,8 +163,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Disable screensaver in wayland sessions</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/91900812333bb6ccca9ca0bf57363a3b1d3023a2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>debian/control: Remove unused build dep librsvg.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/fe893ea20e5c402eece74066c1fc8861619150cc)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
