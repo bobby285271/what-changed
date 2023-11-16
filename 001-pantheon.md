@@ -536,6 +536,7 @@
 - [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
 - [ ] [<code>Add latte palette (#853)</code>](https://github.com/elementary/stylesheet/commit/fcaf5e68b1e3c0a00bdd07c89d4c09bbf475ebb6)
 - [ ] [<code>Make Latte match (#1263)</code>](https://github.com/elementary/stylesheet/commit/47d93e43714b2579f1e0e7a93a998387540832db)
+- [ ] [<code>Add Adw TabOverview styles (#1270)</code>](https://github.com/elementary/stylesheet/commit/b24f0980336765713ae73f0dc606f6e4b42130d7)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -624,6 +625,9 @@
 - [ ] [<code>IconGroup: remove close button (#1794)</code>](https://github.com/elementary/gala/commit/c58c84ab7a74f5cb176ddfcc3d4d9a70db175c00)
 - [ ] [<code>Remove  `workspace-switcher-background` key (#1798)</code>](https://github.com/elementary/gala/commit/0cc9a049aef23fd04ae2cfb693a30c5f60a767a5)
 - [ ] [<code>Remove `expose-windows` shortcut (#1795)</code>](https://github.com/elementary/gala/commit/f5391aee9d3f7ffcba7d300a42744e33c4fb9439)
+- [ ] [<code>Remember window position (#1751)</code>](https://github.com/elementary/gala/commit/72b9e012f3160ec8a65cd4a523dfae0dab96b765)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -720,6 +724,8 @@
 - [ ] [<code>Init: Add Icons to Gresource (#667)</code>](https://github.com/elementary/granite/commit/8d8d6b31c58985eb846329f947c067986e78c1c9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Toast: Add withdraw method (#665)</code>](https://github.com/elementary/granite/commit/40e5e7038d879c0f4d5d8d6fe1e363ba56e47620)
+- [ ] [<code>Metainfo: Add release data for 7.4.0 (#668)</code>](https://github.com/elementary/granite/commit/8492c5ad79ce85a35047ce2cfadf46c4b6d197a8)
+- [ ] [<code>Add missing RTL variants (#671)</code>](https://github.com/elementary/granite/commit/12671539681c78dbb973b127cf12ab8605422ec4)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
