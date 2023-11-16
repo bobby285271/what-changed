@@ -121,6 +121,7 @@
 - [ ] [<code>melange: convert to GApplication, cleanup, fix launch-as-inspector</code>](https://github.com/linuxmint/cinnamon/commit/b885436797c181f001052e1b8e91e628dda98240)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>lookingGlass.js: Initialize melange interface at startup.</code>](https://github.com/linuxmint/cinnamon/commit/22254e2c0b3bbcc81d5e271623d9c8da39a358d5)
+- [ ] [<code>Add .git-blame-ignore-revs for commits</code>](https://github.com/linuxmint/cinnamon/commit/430422df2bf6652d098dd259dfaa5484e644d8e2)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
@@ -131,6 +132,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>wacom: Add "disabled" to stylus button actions.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3754965c5d393448e1dda59296a12c6e444965a5)
 - [ ] [<code>display: Add wayland compatibility</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7360582eb853682764eb4d276d9e8535c96fe763)
+- [ ] [<code>display module: Fix color selection for monitor labels.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3ab95fedfd38e864bd73439754270feb23e42f4d)
+- [ ] [<code>display module: Fix some memory leaks.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/856e2c56e023f40c6f69edebe1c42c5243882ecc)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
