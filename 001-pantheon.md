@@ -460,6 +460,9 @@
 - [ ] [<code>Meson: remove GNOME Desktop (#379)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7e791a6bdd5d6a01497b4958e0dd7b3eb6f02fca)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CSS: Gt4 prep (#378)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d06b87ad066e48aed5997ecf1e62dd682b49eaa2)
+- [ ] [<code>Gtk 4 prep (#380)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3b61d6a0dc11366982f8ae3e1411849dfca4ad25)
+- [ ] [<code>Wallpaper: Gtk4 prep (#381)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/cbb5ea98596fb3703a241dc7a31482bc2dd1ebee)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -544,6 +547,9 @@
 - [ ] [<code>Add latte palette (#853)</code>](https://github.com/elementary/stylesheet/commit/fcaf5e68b1e3c0a00bdd07c89d4c09bbf475ebb6)
 - [ ] [<code>Make Latte match (#1263)</code>](https://github.com/elementary/stylesheet/commit/47d93e43714b2579f1e0e7a93a998387540832db)
 - [ ] [<code>Add Adw TabOverview styles (#1270)</code>](https://github.com/elementary/stylesheet/commit/b24f0980336765713ae73f0dc606f6e4b42130d7)
+- [ ] [<code>Release 7.3.0 (#1271)</code>](https://github.com/elementary/stylesheet/commit/d521bf955423330ac809616d935b9063cbadd5cb)
+  - <sub>Tags: <code>7.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
