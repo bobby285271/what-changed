@@ -122,7 +122,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>lookingGlass.js: Initialize melange interface at startup.</code>](https://github.com/linuxmint/cinnamon/commit/22254e2c0b3bbcc81d5e271623d9c8da39a358d5)
 - [ ] [<code>Add .git-blame-ignore-revs for commits</code>](https://github.com/linuxmint/cinnamon/commit/430422df2bf6652d098dd259dfaa5484e644d8e2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Adding an option for notification screen selection</code>](https://github.com/linuxmint/cinnamon/commit/d1f0b454b30f13b761e9c3991b52395e0111ded0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix whitespace</code>](https://github.com/linuxmint/cinnamon/commit/367ff2c0c9719495a85bc9100d75460003f43865)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix GLib exception: (#11927)</code>](https://github.com/linuxmint/cinnamon/commit/924a8e29c037b86be20fd167716e86ebd9b9b5f4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -149,7 +156,10 @@
 - [ ] [<code>Add gnome-idle-monitor</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2419322898bca95fa90d468de2b55feac7e77977)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>a11y: Add 'always-show-text-caret' xsetting</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fe21fa8c0475b38522db2b7a68f11e95cca4ac91)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Adding an option for notification screen selection (#231)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fdff5caa515e340a4b89912652ab5b1bcca50d46)
+- [ ] [<code>notifications schema: Add fullscreen-notifications boolean (#233)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/03e36d242ad80bee32f5d8aa683725ccea688e83)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
 
@@ -227,7 +237,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119)</code>](https://github.com/linuxmint/cjs/commit/58d7a321efad86fa1c7e8d707740898ac45c0ddb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cjs/commit/4b29b2bde2cb9361f1da9a582d88d7fe1bf597fe)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [b735ed90b798eda541885735368930d045430e6e → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/b735ed90b798eda541885735368930d045430e6e...HEAD)
@@ -468,8 +480,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add the installation/removal instructions for the timeshift Arch package (#220)</code>](https://github.com/linuxmint/timeshift/commit/37c50084f4eb9acd081187593f20f3718e818cdb)
 - [ ] [<code>docs/development.md: fix meson setup command (#224)</code>](https://github.com/linuxmint/timeshift/commit/8607c9dc8f0121c6a86759a6b626775c5b63b787)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README.md: point to development docs for the installation from source (#226)</code>](https://github.com/linuxmint/timeshift/commit/3842e4b38ab2e197c8952f2309a8e3c983ca06b8)
+- [ ] [<code>Remove INSTALL file.</code>](https://github.com/linuxmint/timeshift/commit/ef07b2c1377a77aeffd299ff076dd092954e8930)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.3 → HEAD](https://github.com/linuxmint/xed/compare/3.4.3...HEAD)
 
