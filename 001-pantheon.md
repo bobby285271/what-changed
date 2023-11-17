@@ -92,6 +92,7 @@
 - [ ] [<code>Fix some small issues (#192)</code>](https://github.com/elementary/dock/commit/d9793626c538b2a558d5f09dff7a7cf7926a9169)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Launcher: Add iconsize setting (#190)</code>](https://github.com/elementary/dock/commit/58396d27de1a5764366b24bbcf5d9f8d42f7ef3d)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -311,6 +312,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#271)</code>](https://github.com/elementary/switchboard-plug-about/commit/1d967f0d2021dc8124a0f86b5c88051bf293658f)
 - [ ] [<code>dialog.run () → dialogresponse.connect () (#273)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ad86e9f8b45b3168d2e93a8eb728e575219370f)
+- [ ] [<code>Add support for AppStream 1.0 (#275)</code>](https://github.com/elementary/switchboard-plug-about/commit/72d7da13da2824812908276751fd3024db2dd0f8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -451,6 +455,9 @@
 - [ ] [<code>WallpaperContainer: Use gesture for secondary click</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d64931ec86683ad50b7bba863683ce9c54460d5c)
 - [ ] [<code>Use GLib.Menu</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b8faed1e2502abf3667b99293d2e969467deae99)
 - [ ] [<code>Drop Plank settings (#375)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ecf44377e5a358e6283f2937ab55c544fd4f463a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Meson: remove GNOME Desktop (#379)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7e791a6bdd5d6a01497b4958e0dd7b3eb6f02fca)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
