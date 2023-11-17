@@ -176,6 +176,7 @@
 - [ ] [<code>Implement export area selection (#742)</code>](https://github.com/akiraux/Akira/commit/c2b4c76d330c66bc3e046aea43bca8473a3e3710)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement filename for exports (#743)</code>](https://github.com/akiraux/Akira/commit/6ba3574f2e14b4290991a4dd94e905152ac08542)
+- [ ] [<code>* Project logo update to transparent version</code>](https://github.com/akiraux/Akira/commit/3b6c58ab4376f0c40cf647164354a65ba2b15a3f)
 
 #### [appeditor](https://github.com/donadigo/appeditor): [1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.5...HEAD)
 
