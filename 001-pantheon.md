@@ -739,6 +739,7 @@
 - [ ] [<code>Toast: Add withdraw method (#665)</code>](https://github.com/elementary/granite/commit/40e5e7038d879c0f4d5d8d6fe1e363ba56e47620)
 - [ ] [<code>Metainfo: Add release data for 7.4.0 (#668)</code>](https://github.com/elementary/granite/commit/8492c5ad79ce85a35047ce2cfadf46c4b6d197a8)
 - [ ] [<code>Add missing RTL variants (#671)</code>](https://github.com/elementary/granite/commit/12671539681c78dbb973b127cf12ab8605422ec4)
+- [ ] [<code>Add drag handle and selection mode UI icons (#670)</code>](https://github.com/elementary/granite/commit/5780cbf31714206789b42ffbc3b2414cae57dfbc)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -893,3 +894,4 @@
 - [ ] [<code>Desktop Remove redundant switchboard plugins (#107)</code>](https://github.com/elementary/seeds/commit/1f54c98596e4a355c7d271eab2c11d77d06f67b5)
 - [ ] [<code>Sdk: Drop libplank (#108)</code>](https://github.com/elementary/seeds/commit/c4b45d6e30eec00eff2698036233c84e6849363b)
 - [ ] [<code>Shell: Replace Plank with elementary Dock (#109)</code>](https://github.com/elementary/seeds/commit/6031d2e2835dee93a6869ae7e2fb6c9e903d68e6)
+- [ ] [<code>Desktop: fix indentation (#111)</code>](https://github.com/elementary/seeds/commit/202a9cd0e8b0f5410eb627a78e2520b0b49666ad)
