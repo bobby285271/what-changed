@@ -541,15 +541,8 @@
 - [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.2.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
 
-- [ ] [<code>Headerbars: fix missing default-decoration (#1258)</code>](https://github.com/elementary/stylesheet/commit/9cea2383bec8f90d25f1e9b854b5221737487521)
-- [ ] [<code>Add latte palette (#853)</code>](https://github.com/elementary/stylesheet/commit/fcaf5e68b1e3c0a00bdd07c89d4c09bbf475ebb6)
-- [ ] [<code>Make Latte match (#1263)</code>](https://github.com/elementary/stylesheet/commit/47d93e43714b2579f1e0e7a93a998387540832db)
-- [ ] [<code>Add Adw TabOverview styles (#1270)</code>](https://github.com/elementary/stylesheet/commit/b24f0980336765713ae73f0dc606f6e4b42130d7)
-- [ ] [<code>Release 7.3.0 (#1271)</code>](https://github.com/elementary/stylesheet/commit/d521bf955423330ac809616d935b9063cbadd5cb)
-  - <sub>Tags: <code>7.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
