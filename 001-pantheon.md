@@ -733,6 +733,8 @@
 - [ ] [<code>Metainfo: Add release data for 7.4.0 (#668)</code>](https://github.com/elementary/granite/commit/8492c5ad79ce85a35047ce2cfadf46c4b6d197a8)
 - [ ] [<code>Add missing RTL variants (#671)</code>](https://github.com/elementary/granite/commit/12671539681c78dbb973b127cf12ab8605422ec4)
 - [ ] [<code>Add drag handle and selection mode UI icons (#670)</code>](https://github.com/elementary/granite/commit/5780cbf31714206789b42ffbc3b2414cae57dfbc)
+- [ ] [<code>Release 7.4.0 (#669)</code>](https://github.com/elementary/granite/commit/949703f8649013695c6d32eb84a6b541ac0da4db)
+  - <sub>Tags: <code>7.4.0</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
