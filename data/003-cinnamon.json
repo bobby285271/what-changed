@@ -49,6 +49,12 @@
             "attr_path": "cinnamon.mint-cursor-themes"
         },
         {
+            "attr_path": "cinnamon.mint-l-icons"
+        },
+        {
+            "attr_path": "cinnamon.mint-l-theme"
+        },
+        {
             "attr_path": "cinnamon.mint-themes"
         },
         {
