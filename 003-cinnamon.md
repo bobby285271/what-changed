@@ -128,8 +128,11 @@
 - [ ] [<code>Fix whitespace</code>](https://github.com/linuxmint/cinnamon/commit/367ff2c0c9719495a85bc9100d75460003f43865)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix GLib exception: (#11927)</code>](https://github.com/linuxmint/cinnamon/commit/924a8e29c037b86be20fd167716e86ebd9b9b5f4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: Re-add dbus dependency (#11932)</code>](https://github.com/linuxmint/cinnamon/commit/fc69a484f56a07386fe07f3b1c05c5ded1bb126b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -141,7 +144,11 @@
 - [ ] [<code>display: Add wayland compatibility</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7360582eb853682764eb4d276d9e8535c96fe763)
 - [ ] [<code>display module: Fix color selection for monitor labels.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3ab95fedfd38e864bd73439754270feb23e42f4d)
 - [ ] [<code>display module: Fix some memory leaks.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/856e2c56e023f40c6f69edebe1c42c5243882ecc)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/88acb27ae98abfd3523a0e1a6dd0d9b1a66c94dc)
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/826e7be8c92a54d195de9f65b79f4593f1325ed7)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
 
@@ -159,12 +166,17 @@
   - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Adding an option for notification screen selection (#231)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fdff5caa515e340a4b89912652ab5b1bcca50d46)
 - [ ] [<code>notifications schema: Add fullscreen-notifications boolean (#233)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/03e36d242ad80bee32f5d8aa683725ccea688e83)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9822c17013dee1482a232795452722b0efce6882)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
 
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#67)</code>](https://github.com/linuxmint/cinnamon-menus/commit/60f5d52f227fa14747a89d4af96d18e8bb9a3eb2)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/3af7c00715c99ce8e9c7fd21c94ca060ef14701d)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.8.1...HEAD)
@@ -178,8 +190,11 @@
 - [ ] [<code>Disable screensaver in wayland sessions</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/91900812333bb6ccca9ca0bf57363a3b1d3023a2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>debian/control: Remove unused build dep librsvg.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/fe893ea20e5c402eece74066c1fc8861619150cc)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/906277152f6b258303259b996d990eb90585986d)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
 
@@ -209,7 +224,11 @@
 - [ ] [<code>main.c: Don't direct logging to the journal.</code>](https://github.com/linuxmint/cinnamon-session/commit/4d134d3910b8c7da5aa39b4b85dd7947464e445f)
 - [ ] [<code>csm-manager: Terminate the logout dialog at the beginning of</code>](https://github.com/linuxmint/cinnamon-session/commit/829519b1d36668e4a178f15900bd49af55548926)
 - [ ] [<code>cinnamon-session-quit: Set modal.</code>](https://github.com/linuxmint/cinnamon-session/commit/a99a581c98bdc1ee693e4f63d3a9759d06d278fc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-session/commit/43d1a1afd9c5067956ca447ad97de3318e6177db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-session/commit/554d621c8fccc70631ddb4fc121bc8df8ed2b4d3)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
 
@@ -226,10 +245,15 @@
 - [ ] [<code>xsettings: Add gtk-keynav-use-caret setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/349e27a46bdb9d194fc719af04152fb857aae5b8)
 - [ ] [<code>daemon-skeleton.h: Make sure the GMainLoop is accessible everywhere</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae96c48e9f4fa09183f34873c8d6ca9b6616bddb)
 - [ ] [<code>cinnamon-settings-session.c: Don't unref a null GCancellable.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5393cbc75172060a01e031ea749f94e495be16e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ebff319d46c19422d7eea59540d87b0534c230bc)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.8.2...HEAD)
 
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/75501ea0535dee6335b88b550267ba09b4ad4b44)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.8.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.8.0...HEAD)
 
@@ -247,6 +271,14 @@
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
+
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.5...HEAD)
+
+
+#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [078219f4f947245b3b7bf271c7311f67bf744bfb → HEAD](https://github.com/linuxmint/mint-l-theme/compare/078219f4f947245b3b7bf271c7311f67bf744bfb...HEAD)
+
+- [ ] [<code>Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-l-theme/commit/47d902f01bab482171586029ca3ecefd0f4690fa)
+- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-l-theme/commit/1444bacf3ff470db05b663b9c5c3a3419decba60)
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.5 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.5...HEAD)
 
@@ -305,7 +337,9 @@
 - [ ] [<code>build/packaging: Restore Wayland support</code>](https://github.com/linuxmint/muffin/commit/bc10efe8282b9dc78e5fd05f34cd54e2a242980e)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>wayland: Fix desktop background</code>](https://github.com/linuxmint/muffin/commit/4b87bf9e647f26136a86b7cf15c9a8db0d313226)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/muffin/commit/a2755891d41eec1e8d51bd48b78e20d354db4871)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
 
@@ -345,7 +379,15 @@
 - [ ] [<code>list-view: Remove remaining unused 'drop zone' code.</code>](https://github.com/linuxmint/nemo/commit/9c0bdaa166a5380b4b28db558bd536ac795e5782)
 - [ ] [<code>nemo-list-view: Restrict drag-into-folder actions to be triggered</code>](https://github.com/linuxmint/nemo/commit/b9d396e153951b1925e99105857f47d3261a06cb)
 - [ ] [<code>nemo-list-view.c: Don't apply column-expand test unless there is</code>](https://github.com/linuxmint/nemo/commit/95be8fdac202a8a10e5018f03b42b47af33d181d)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>l10n: Remove unnecessary msgid</code>](https://github.com/linuxmint/nemo/commit/c61e53a3086d1204735c71e15518cce2c282ce7a)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/eacf2dea52fd3c9ed884df56d45042963199f2f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/nemo/commit/470c397d5bd5b5c75ba6dc138bbf0698520b033a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo/commit/22f026976edcd77f5bb7769ad97d00ffcd1ca3c2)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
 
@@ -364,6 +406,11 @@
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#496)</code>](https://github.com/linuxmint/nemo-extensions/commit/a1b0232e00c53980acb9882597fc2c34b0e352d8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fixed `nemo-python` examples (#486)</code>](https://github.com/linuxmint/nemo-extensions/commit/c303ed2889121a6c793b1d312a18dc781d7727df)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo-extensions/commit/7ea8afcc7645f4709c7e6b3235090c3c0a209b8a)
+  - <sub>Tags: <code>6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
 
@@ -415,9 +462,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/xapp/commit/88192421fce36178fb3a96f84e43bb2cd5843c3d)
 - [ ] [<code>Remove unused includes, bump required gtk version.</code>](https://github.com/linuxmint/xapp/commit/89344d2b6b468b7c872447c4910080eab90830cd)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>2.8.0</code>](https://github.com/linuxmint/xapp/commit/d4e9fc9cdeb1d243a9efca5070af43df1581ad39)
+  - <sub>Tags: <code>2.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update docs</code>](https://github.com/linuxmint/xapp/commit/a9ba7d237c97e1aeeef0401f1a6ddb6c64d4b2a4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
 
@@ -427,7 +479,10 @@
 - [ ] [<code>Fix building with meson 1.2.</code>](https://github.com/linuxmint/xreader/commit/06b18a884c8cf3257ea1f053a82784da078999ed)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ev-message-area.c: Check that the GtkStockItem is initialized</code>](https://github.com/linuxmint/xreader/commit/31c9f12e8ffe59832b8d76d390638f286749012b)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>3.8.3</code>](https://github.com/linuxmint/xreader/commit/e349842dcf11a843b2c69c5dc98608dc8073b1c5)
+  - <sub>Tags: <code>3.8.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
