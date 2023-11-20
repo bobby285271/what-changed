@@ -61,6 +61,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#1372)</code>](https://github.com/elementary/code/commit/0540fffc983b77e99bbd09a6eb8b4736128138ad)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#1373)</code>](https://github.com/elementary/code/commit/315f702f450cd532fa3e5fa5133f867b691a6170)
 - [ ] [<code>gschema: remove window position (#1376)</code>](https://github.com/elementary/code/commit/52fd5f27f92cca32f8ea733347a5f70630fd267f)
+- [ ] [<code>System theme change now fully respected while Code already running (#1377)</code>](https://github.com/elementary/code/commit/6ee2b1fc9fd289640fcba091de2b22ae695fd0cf)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
