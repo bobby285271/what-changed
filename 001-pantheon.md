@@ -722,20 +722,8 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#263)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/965229c4d45e4b05797757d5d2a9216bf9053dcd)
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.3.0 → HEAD](https://github.com/elementary/granite/compare/7.3.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
 
-- [ ] [<code>Revert "Fix build with newer Vala (#637)" (#659)</code>](https://github.com/elementary/granite/commit/b86e04d73cfd253e5f5d4877cbe39cfa0c758b16)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#660)</code>](https://github.com/elementary/granite/commit/a0455637393c14f82b137740e23085f77f6af7c8)
-- [ ] [<code>HeaderLabel: Add mnemonic_widget property (#663)</code>](https://github.com/elementary/granite/commit/a520e7be5e166afcd4972936cdaca11959715b54)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Init: Add Icons to Gresource (#667)</code>](https://github.com/elementary/granite/commit/8d8d6b31c58985eb846329f947c067986e78c1c9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Toast: Add withdraw method (#665)</code>](https://github.com/elementary/granite/commit/40e5e7038d879c0f4d5d8d6fe1e363ba56e47620)
-- [ ] [<code>Metainfo: Add release data for 7.4.0 (#668)</code>](https://github.com/elementary/granite/commit/8492c5ad79ce85a35047ce2cfadf46c4b6d197a8)
-- [ ] [<code>Add missing RTL variants (#671)</code>](https://github.com/elementary/granite/commit/12671539681c78dbb973b127cf12ab8605422ec4)
-- [ ] [<code>Add drag handle and selection mode UI icons (#670)</code>](https://github.com/elementary/granite/commit/5780cbf31714206789b42ffbc3b2414cae57dfbc)
-- [ ] [<code>Release 7.4.0 (#669)</code>](https://github.com/elementary/granite/commit/949703f8649013695c6d32eb84a6b541ac0da4db)
-  - <sub>Tags: <code>7.4.0</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
