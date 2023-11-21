@@ -130,9 +130,14 @@
 - [ ] [<code>Fix GLib exception: (#11927)</code>](https://github.com/linuxmint/cinnamon/commit/924a8e29c037b86be20fd167716e86ebd9b9b5f4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>meson: Re-add dbus dependency (#11932)</code>](https://github.com/linuxmint/cinnamon/commit/fc69a484f56a07386fe07f3b1c05c5ded1bb126b)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Gestures: Allow the user to specify when an action is triggered.</code>](https://github.com/linuxmint/cinnamon/commit/7110a772265f270ded56abd1ac26311d24b76347)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Gestures: Add a desktop zoom action.</code>](https://github.com/linuxmint/cinnamon/commit/861b2edd6ec7650819ee2e697961d967127893a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rename Wayland session</code>](https://github.com/linuxmint/cinnamon/commit/577bfa88bafb62d3c0696079dbb3c3032115a424)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
