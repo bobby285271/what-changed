@@ -137,6 +137,9 @@
 - [ ] [<code>Gestures: Add a desktop zoom action.</code>](https://github.com/linuxmint/cinnamon/commit/861b2edd6ec7650819ee2e697961d967127893a6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Rename Wayland session</code>](https://github.com/linuxmint/cinnamon/commit/577bfa88bafb62d3c0696079dbb3c3032115a424)
+- [ ] [<code>cinnamon-launcher: Remove wayland handling.</code>](https://github.com/linuxmint/cinnamon/commit/6663e55b8d849e48f747127a058685d79f0ec9cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-global.c: Restore cinnamon_global_set_pointer.</code>](https://github.com/linuxmint/cinnamon/commit/e33530867d8906f1d92c25d9f6e93d3c9a65cd0c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
