@@ -413,6 +413,9 @@
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
 - [ ] [<code>Support Wireguard as a VPN connection (#338)</code>](https://github.com/elementary/switchboard-plug-network/commit/4553bda50e74d7b211f2da5a98f2a9d7780ed12a)
+- [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#341)</code>](https://github.com/elementary/switchboard-plug-network/commit/b7d2fc58edcc36a49d16934c2920610c1989afef)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -689,6 +692,7 @@
 - [ ] [<code>Avoid a compilation warning about missing state handling for WIFI Menu Item</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4ce87b36b0eae92e8c2bca0aeb6126cb945c5ba5)
 - [ ] [<code>Avoid a noisy log message in journalctl about missing icon</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f579e8fb087f612874470d91664bf21799e68c43)
 - [ ] [<code>List Wireguard connection as possible VPN</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c1a62a71e4969795cd2b217257883258a86f0)
+- [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#254)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/194e39e84f7a5554227712cea3e523254cd83fde)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
