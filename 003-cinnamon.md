@@ -140,7 +140,15 @@
 - [ ] [<code>cinnamon-launcher: Remove wayland handling.</code>](https://github.com/linuxmint/cinnamon/commit/6663e55b8d849e48f747127a058685d79f0ec9cf)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cinnamon-global.c: Restore cinnamon_global_set_pointer.</code>](https://github.com/linuxmint/cinnamon/commit/e33530867d8906f1d92c25d9f6e93d3c9a65cd0c)
+- [ ] [<code>Fix xlet-settings TreeListWidget's handling of columns with option lists (#11908)</code>](https://github.com/linuxmint/cinnamon/commit/73e944b744a4b04a3135704a9b854e47ffb164ae)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Use menu for window list hover tooltip choice (#11912)</code>](https://github.com/linuxmint/cinnamon/commit/f4884e42b00ae17b45d7564f6aecf2477768bbe9)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Fix the power applet battery status when the seconds var is 3600 (#11931)</code>](https://github.com/linuxmint/cinnamon/commit/379013ead185c24109f0ff3080ee3b8db2fd16f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Spices.py: Fix desklet reload after update when there are multiple instances (#11920)</code>](https://github.com/linuxmint/cinnamon/commit/75f7b5688e6a55fe54c00def1ef0c59062f0b3b2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
