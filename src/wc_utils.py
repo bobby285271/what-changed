@@ -40,7 +40,7 @@ def clone_repo(url: str, path: str):
     if os.path.exists(path):
         shutil.rmtree(path)
     if debug:
-        url = url.replace("github.com", "hub.fgit.ml")
+        url = url.replace("github.com", "hub.fgit.cf")
     git.Repo.clone_from(url=url, to_path=path)
 
 
