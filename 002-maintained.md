@@ -461,15 +461,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [4d21b8a2be8b77052176d06d0cf10a8b319117c4 → HEAD](https://github.com/vala-lang/vala-lint/compare/4d21b8a2be8b77052176d06d0cf10a8b319117c4...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [95cf9e61a73fe4a0f69fd8c275c9548703f79838 → HEAD](https://github.com/vala-lang/vala-lint/compare/95cf9e61a73fe4a0f69fd8c275c9548703f79838...HEAD)
 
-- [ ] [<code>Adds JSON output mode (#170)</code>](https://github.com/vala-lang/vala-lint/commit/b4f7b455a573f97d008f1eecc32e6663ceaa990b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix error when providing one option and no path (#172)</code>](https://github.com/vala-lang/vala-lint/commit/c1695f1f6c78646b1515090ca1aa6f8d1dc6960b)
-- [ ] [<code>Docker: Add libjson-glib to the containers</code>](https://github.com/vala-lang/vala-lint/commit/6c4eda0ccc040eb950eedc532607903cc7f9e2b7)
-- [ ] [<code>Docker: Use recommends from packages at build time</code>](https://github.com/vala-lang/vala-lint/commit/965e4774db0063e949d58ebd872678446a7ce209)
-- [ ] [<code>Fixer: Use GLib.File API directly (#182)</code>](https://github.com/vala-lang/vala-lint/commit/95cf9e61a73fe4a0f69fd8c275c9548703f79838)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
