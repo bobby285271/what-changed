@@ -152,7 +152,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>gesturesManager.js: Fix a couple small issues</code>](https://github.com/linuxmint/cinnamon/commit/6461e1cbe873bbdb1b0c8494e3398f96a32017fc)
 - [ ] [<code>Merge pull request #11913 from sphh/sound-shift-middleclick</code>](https://github.com/linuxmint/cinnamon/commit/d242cb2f9c5a7ba9715dd6218e886bdd1a5e0a3d)
+- [ ] [<code>Add Actions module (#11878)</code>](https://github.com/linuxmint/cinnamon/commit/62b184e8210bceb5ed0209d79d3d8dad599caf65)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
