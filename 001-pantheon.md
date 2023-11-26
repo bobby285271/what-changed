@@ -109,6 +109,9 @@
 - [ ] [<code>Save selection for all slots that will reload (#2339)</code>](https://github.com/elementary/files/commit/45ac4475090ed53afe293935f3fb1fc6f5b84227)
 - [ ] [<code>Fix scroll to bottom after rename. (#2333)</code>](https://github.com/elementary/files/commit/f5a5129b2b4ae53db4838b5b338b333884fdab35)
 - [ ] [<code>Fix incorrect cast when mount removed (#2338)</code>](https://github.com/elementary/files/commit/df90f883008b63f51cc6b4cffae9d566c88abc86)
+- [ ] [<code>BookmarkRow: Remove plank PoofWindow effect (#2356)</code>](https://github.com/elementary/files/commit/9346a0aa885dd72f19f2261e53acc5e073411dce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
