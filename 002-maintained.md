@@ -246,45 +246,8 @@
 - [ ] [<code>Update for elementary OS 6 Odin (#57)</code>](https://github.com/cassidyjames/ideogram/commit/8c591ed6cd00de0b6a8ef9c7293d9b00653d2f62)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [khronos](https://github.com/lainsce/khronos): [3.7.0 → HEAD](https://github.com/lainsce/khronos/compare/3.7.0...HEAD)
+#### [khronos](https://github.com/lainsce/khronos): [4.0.1 → HEAD](https://github.com/lainsce/khronos/compare/4.0.1...HEAD)
 
-- [ ] [<code>Translated you app for Deutsch (#110)</code>](https://github.com/lainsce/khronos/commit/7d1c4a3b04adc25cd669416248d5996d09370c39)
-- [ ] [<code>Translated your app for French (#113)</code>](https://github.com/lainsce/khronos/commit/32508866f003ed4581e389392de79e06947d7e07)
-- [ ] [<code>Adding Hebrew translation (#114)</code>](https://github.com/lainsce/khronos/commit/750eca672513258c0e175a4545c64bd6536fe9a6)
-- [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/cbfb7fee687dedd01d52002e06d9a358bd72ed84)
-- [ ] [<code>Update it.po (#116)</code>](https://github.com/lainsce/khronos/commit/1de562d0b92546f9a3568c35c3572a6585c33205)
-- [ ] [<code>3.7.1 - Adwaita-ification</code>](https://github.com/lainsce/khronos/commit/5983b1efa1d4a6d78c982e74cbc7d445d66aba51)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Merge branch 'main' of https://github.com/lainsce/khronos</code>](https://github.com/lainsce/khronos/commit/100867d15db64a7c6a0de5b08bae1716b21c8442)
-- [ ] [<code>upd gitignore</code>](https://github.com/lainsce/khronos/commit/f0b5e92c7d40183de474c674724bfa50aa11cdae)
-- [ ] [<code>small UI changes</code>](https://github.com/lainsce/khronos/commit/dc31ec10f8cff193dcf56db81837a3645372daa9)
-- [ ] [<code>Some more stuff</code>](https://github.com/lainsce/khronos/commit/d33940261390dd645c09737e4ad1d0bea77f6c18)
-- [ ] [<code>Update flatpak.yml</code>](https://github.com/lainsce/khronos/commit/676ffa0573e0c15477d3e6513cad95a676240c92)
-- [ ] [<code>Add Turkish translation (#120)</code>](https://github.com/lainsce/khronos/commit/e185813e1419d390407c65dd958047612199272f)
-- [ ] [<code>Add Czech translations (#117)</code>](https://github.com/lainsce/khronos/commit/f1c037bd28cafda026db182267b02895f6fe19c5)
-- [ ] [<code>Update FUNDING.yml</code>](https://github.com/lainsce/khronos/commit/d4f7e1ea314ba4197fafdb310bb1c04cc5d450ef)
-- [ ] [<code>Update README.md</code>](https://github.com/lainsce/khronos/commit/c97c3c2cd4e9bf941b186f64aaf5cee1d886fcaa)
-- [ ] [<code>Update pot file (#123)</code>](https://github.com/lainsce/khronos/commit/ea95297d98641f1937ba9980a94550cf5a860cc0)
-- [ ] [<code>Translated for Chinese (Simplified) (#124)</code>](https://github.com/lainsce/khronos/commit/3ce1d93c564bd8d5d1060dbe242e00d0d792670d)
-- [ ] [<code>meta: Update .doap-file (#126)</code>](https://github.com/lainsce/khronos/commit/afc4a9eb6f0a69b6b9eb8b3d086fb68afa8427de)
-- [ ] [<code>Update Swedish Translation (#128)</code>](https://github.com/lainsce/khronos/commit/0d62e736511f094f328b18c7a986b84d7e93d8c9)
-- [ ] [<code>Update Dutch translation (#129)</code>](https://github.com/lainsce/khronos/commit/a39b3d9efd0d076c1510352588fd22d448052e73)
-- [ ] [<code>feat: add about window (#131)</code>](https://github.com/lainsce/khronos/commit/4288a30cdfb402df635f9fdb1435ebf0dd6cb543)
-- [ ] [<code>data: mark two strings translatable (#132)</code>](https://github.com/lainsce/khronos/commit/99dd36a3398f8fbfb70112c5869aff267811fded)
-- [ ] [<code>* - new libadwaita stuff</code>](https://github.com/lainsce/khronos/commit/764d998ca3cf4ca144c0df5bc2a18fbdc09ada75)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>4.0.0</code>](https://github.com/lainsce/khronos/commit/8de097e84e5126d341980c6b6dd01c1d2868a193)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/9ed84bd53facee59cb39697c8d917aaf1935cdb4)
-- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/3cbb1af42e25b6ff7a2c4e9c1b79aee09618ad34)
-- [ ] [<code>*</code>](https://github.com/lainsce/khronos/commit/693f8d2d664afe06513910a7b2fe5b4dbaa03077)
-  - <sub>Tags: <code>4.0.0</code></sub>
-- [ ] [<code>appdata: add vcs-browser support (#134)</code>](https://github.com/lainsce/khronos/commit/8e7611b6dd1b3695d6cb5ea774d36f475b757b08)
-- [ ] [<code>data: Mark release descriptions as untranslatable (#133)</code>](https://github.com/lainsce/khronos/commit/46df9e2bc5654f67bfaaa2caca5688dab7804925)
-- [ ] [<code>4.0.1</code>](https://github.com/lainsce/khronos/commit/daace3c126a0cebfa19907b71418c98af773dc4d)
-- [ ] [<code>Merge branch 'main' of https://github.com/lainsce/khronos</code>](https://github.com/lainsce/khronos/commit/5dedb57eb49b4f0dc5207c20a2e33348ffe00731)
-  - <sub>Tags: <code>4.0.1</code></sub>
 - [ ] [<code>Update donation link</code>](https://github.com/lainsce/khronos/commit/abb0295e6a8a6651b8f65f280c5493b6e62cd591)
 - [ ] [<code>Translation related patches (#135)</code>](https://github.com/lainsce/khronos/commit/442f48792adec727369db6b814f69195dcac265a)
 
