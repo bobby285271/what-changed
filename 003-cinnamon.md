@@ -296,6 +296,10 @@
 
 #### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.5...HEAD)
 
+- [ ] [<code>Add cs-actions</code>](https://github.com/linuxmint/mint-l-icons/commit/2510b3ff23b382704c719d03f9cb1e128c800bb0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-l-icons/commit/5d9a47b58b81431e3c42c22bf8cd0c7e756c4680)
+  - <sub>Tags: <code>1.6.6</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [078219f4f947245b3b7bf271c7311f67bf744bfb → HEAD](https://github.com/linuxmint/mint-l-theme/compare/078219f4f947245b3b7bf271c7311f67bf744bfb...HEAD)
 
@@ -322,7 +326,10 @@
 - [ ] [<code>.gitignore: Fix usr/ path to exclude files/usr (#451)</code>](https://github.com/linuxmint/mint-themes/commit/4f3ff255ace3f5458d5ec633e9acd6fc5f893830)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Mint-X/Y: Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-themes/commit/6431f665a5707c5ad5b53bc46141412494b8d55e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>2.1.6</code>](https://github.com/linuxmint/mint-themes/commit/73333b76eced473524658f1e471e76639bb8ebab)
+  - <sub>Tags: <code>2.1.6</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
@@ -339,6 +346,21 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update Mint-Y cs-gestures</code>](https://github.com/linuxmint/mint-y-icons/commit/cc8f1576f0a992964c199c05770ad891aad81369)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Updated Sublime Text icon and added Sublime Merge icon (#361)</code>](https://github.com/linuxmint/mint-y-icons/commit/005e9125bcfde8dbc9b61298278bf0db33564f63)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Citrix Workspace Icon (#365)</code>](https://github.com/linuxmint/mint-y-icons/commit/6ec33e69404906ad0656ed4cd05c32ebf8017f95)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add files via upload (#367)</code>](https://github.com/linuxmint/mint-y-icons/commit/c8ec6d1bc1a3c284f44ed2cef038d7de2b917541)
+- [ ] [<code>1.6.8</code>](https://github.com/linuxmint/mint-y-icons/commit/259cf95c2db8f1a7a589599fca54c07b2599a8b3)
+  - <sub>Tags: <code>1.6.8</code></sub>
+- [ ] [<code>Citrix: Fix inner name and regenerate</code>](https://github.com/linuxmint/mint-y-icons/commit/d58cf1b2339fe8270bba0416ddcf0a8cf6aa407c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rumble: Fix inner name and regenerate</code>](https://github.com/linuxmint/mint-y-icons/commit/315821afb527ed7af197c1d1e7aefc6aefe6a926)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add cs-actions</code>](https://github.com/linuxmint/mint-y-icons/commit/2053a9aa9f1eb2e4ff30da1c729e30b98c5ac5ec)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-y-icons/commit/b9858834d8b65b69fb50e48282f8858da305e5fa)
+  - <sub>Tags: <code>1.6.9</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
@@ -472,7 +494,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>Update deb build, readme, dependencies, .gitignore.</code>](https://github.com/linuxmint/warpinator/commit/10eb1e5a9238336578d4c07fd8138db41934d88e)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Update note in generate-protobuf.</code>](https://github.com/linuxmint/warpinator/commit/75feeec8941ab5938921dc20573bdb5f51130e1a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
