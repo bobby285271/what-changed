@@ -249,8 +249,11 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-session/commit/43d1a1afd9c5067956ca447ad97de3318e6177db)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-session/commit/554d621c8fccc70631ddb4fc121bc8df8ed2b4d3)
-  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>6.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>autostart-app: don't try to add child watch to dbus activated (#158)</code>](https://github.com/linuxmint/cinnamon-session/commit/8d5b5026db5e6bd73434f1667f85cfeb9790eeeb)
+- [ ] [<code>util: Unset some environment variables on systemd (#159)</code>](https://github.com/linuxmint/cinnamon-session/commit/4f9683a32396cc0939f57394580bed6ddd366150)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
 
