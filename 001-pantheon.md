@@ -63,6 +63,10 @@
 - [ ] [<code>gschema: remove window position (#1376)</code>](https://github.com/elementary/code/commit/52fd5f27f92cca32f8ea733347a5f70630fd267f)
 - [ ] [<code>System theme change now fully respected while Code already running (#1377)</code>](https://github.com/elementary/code/commit/6ee2b1fc9fd289640fcba091de2b22ae695fd0cf)
 - [ ] [<code>Fix-folder-search-filtering-1198 (#1379)</code>](https://github.com/elementary/code/commit/51dd521a6f29b731c8a99633aa02e05ce78a6ee3)
+- [ ] [<code>Add command-line "Go-To-Line" option (#1382)</code>](https://github.com/elementary/code/commit/723348cd5c91c50232d15949dbb344d2443fb7a4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixes #1380 (#1381)</code>](https://github.com/elementary/code/commit/4f374480b32567a341c30c846a30986be5e9e353)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -226,6 +230,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove window position (#748)</code>](https://github.com/elementary/terminal/commit/a76636d35c6a9868b98963baba56fe7fdb79a8cc)
+- [ ] [<code>MainWindow: Move Actions and Keyboard Handling Related to The View to TerminalWidget (#749)</code>](https://github.com/elementary/terminal/commit/beabb949dbfbb7af1954975ed80e5988b6711d66)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
