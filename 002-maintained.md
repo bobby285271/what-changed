@@ -250,6 +250,9 @@
 
 - [ ] [<code>Update donation link</code>](https://github.com/lainsce/khronos/commit/abb0295e6a8a6651b8f65f280c5493b6e62cd591)
 - [ ] [<code>Translation related patches (#135)</code>](https://github.com/lainsce/khronos/commit/442f48792adec727369db6b814f69195dcac265a)
+- [ ] [<code>Appdata related patches (#136)</code>](https://github.com/lainsce/khronos/commit/a76bd4a82593e10fd68f7dd0684667d472ff0173)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update pt_BR translation (#137)</code>](https://github.com/lainsce/khronos/commit/f1804d8ccd466a30c4f56d5b8753c4b418f44522)
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
