@@ -7,8 +7,12 @@
 - [ ] [<code>Support DND for file manager items, or a single text path/uri.</code>](https://github.com/linuxmint/bulky/commit/65787fb605d9b04a9459cf26eeba74069902de3e)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix file icons/thumbnails.</code>](https://github.com/linuxmint/bulky/commit/d84ff32d88a75e9730a47e2e70b92e5bfb472510)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Reorder focus chain in the replace page</code>](https://github.com/linuxmint/bulky/commit/4bd7c4e41d87c3b0620aa2dba2ab06aab17f2e60)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.0</code>](https://github.com/linuxmint/bulky/commit/7107cd0ea69366ddba8861d8ad592c37dd305764)
+  - <sub>Tags: <code>3.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.8.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.8.4...HEAD)
 
@@ -153,8 +157,14 @@
 - [ ] [<code>gesturesManager.js: Fix a couple small issues</code>](https://github.com/linuxmint/cinnamon/commit/6461e1cbe873bbdb1b0c8494e3398f96a32017fc)
 - [ ] [<code>Merge pull request #11913 from sphh/sound-shift-middleclick</code>](https://github.com/linuxmint/cinnamon/commit/d242cb2f9c5a7ba9715dd6218e886bdd1a5e0a3d)
 - [ ] [<code>Add Actions module (#11878)</code>](https://github.com/linuxmint/cinnamon/commit/62b184e8210bceb5ed0209d79d3d8dad599caf65)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>debian/control: Update soup version.</code>](https://github.com/linuxmint/cinnamon/commit/942b98890fe842d8e58697bcba8a324b0108df3c)
+- [ ] [<code>Remove .settings folder</code>](https://github.com/linuxmint/cinnamon/commit/2cfd58fcaffd8716347fdec07b862c9b9cf0c707)
+- [ ] [<code>Added menu details option (#11916)</code>](https://github.com/linuxmint/cinnamon/commit/3c7a57f53ca3bdf25e8207a977095776656bb9f7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: Add some safety to the right-click properties item.</code>](https://github.com/linuxmint/cinnamon/commit/c5844411f3a84c5489867dd97c93cb0ca7d10ead)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -253,6 +263,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>autostart-app: don't try to add child watch to dbus activated (#158)</code>](https://github.com/linuxmint/cinnamon-session/commit/8d5b5026db5e6bd73434f1667f85cfeb9790eeeb)
 - [ ] [<code>util: Unset some environment variables on systemd (#159)</code>](https://github.com/linuxmint/cinnamon-session/commit/4f9683a32396cc0939f57394580bed6ddd366150)
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-session/commit/dabce15cbc584015422347e79054291b9643e7df)
+  - <sub>Tags: <code>6.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Packaging: Add missing build-dep on cinnamon-desktop</code>](https://github.com/linuxmint/cinnamon-session/commit/38c8fd0674e67d48d0fad47515be02b5a7604979)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
@@ -297,73 +311,20 @@
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.5...HEAD)
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.6 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.6...HEAD)
 
-- [ ] [<code>Add cs-actions</code>](https://github.com/linuxmint/mint-l-icons/commit/2510b3ff23b382704c719d03f9cb1e128c800bb0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-l-icons/commit/5d9a47b58b81431e3c42c22bf8cd0c7e756c4680)
-  - <sub>Tags: <code>1.6.6</code></sub>
 
-#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [078219f4f947245b3b7bf271c7311f67bf744bfb → HEAD](https://github.com/linuxmint/mint-l-theme/compare/078219f4f947245b3b7bf271c7311f67bf744bfb...HEAD)
+#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
-- [ ] [<code>Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-l-theme/commit/47d902f01bab482171586029ca3ecefd0f4690fa)
-- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-l-theme/commit/1444bacf3ff470db05b663b9c5c3a3419decba60)
 
-#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.5 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.5...HEAD)
+#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
 
-- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/mint-themes/commit/429b33d925b9cbef55b06ddf74781eb396ae0036)
-- [ ] [<code>Add flatpak generation script.</code>](https://github.com/linuxmint/mint-themes/commit/526ce688129bdccc5a5d2d272524aae47568a250)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>generate-flatpaks: Copy gtk-dark.css also.</code>](https://github.com/linuxmint/mint-themes/commit/d19773aba09e118b309fcf9a210007e675864fbe)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>flatpak: Use Dart Sass instead of sassc.</code>](https://github.com/linuxmint/mint-themes/commit/c1180e5f5d862220bfd788559cdb74df46e3b910)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Generate pull requests, not direct commits.</code>](https://github.com/linuxmint/mint-themes/commit/f3118860f69727155f9d0f4d43909c893ae681c4)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>flatpaks: Rebase and setup a new branch before modifying content.</code>](https://github.com/linuxmint/mint-themes/commit/ea4196740efe8dd951e68ed9a269829c3d3a5790)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Linux Mint/cinnamon.css: Center text in .applet-box</code>](https://github.com/linuxmint/mint-themes/commit/2fa2083fb6774e402e3f5302ee861815cd997fdb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly (#453)</code>](https://github.com/linuxmint/mint-themes/commit/2b0fd85204aa1017e14206f45542d1b662a605bd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>.gitignore: Fix usr/ path to exclude files/usr (#451)</code>](https://github.com/linuxmint/mint-themes/commit/4f3ff255ace3f5458d5ec633e9acd6fc5f893830)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Mint-X/Y: Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-themes/commit/6431f665a5707c5ad5b53bc46141412494b8d55e)
-  - <sub>Tags: <code>master.lmde5</code></sub>
-- [ ] [<code>2.1.6</code>](https://github.com/linuxmint/mint-themes/commit/73333b76eced473524658f1e471e76639bb8ebab)
-  - <sub>Tags: <code>2.1.6</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.7...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.9...HEAD)
 
-- [ ] [<code>Added F3D, Heroic Games Launcher, itch.io, mastodon icons (#349)</code>](https://github.com/linuxmint/mint-y-icons/commit/9227549d13b1d04f170225ecacc9d7923124ac73)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Added Blockbench and Penpot icons (#350)</code>](https://github.com/linuxmint/mint-y-icons/commit/e86eae590601672041e523a2e71e1ff60e5421e1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Ferdium, Helix and VS Codium icons (#353)</code>](https://github.com/linuxmint/mint-y-icons/commit/3481da2215c557490ba4d5b4820d981c0039b7af)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add symlinks for GNOME apps (#354)</code>](https://github.com/linuxmint/mint-y-icons/commit/f8c8c63cec530916b480a01bf6f02b5b6c09bcdc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Mint-Y cs-gestures</code>](https://github.com/linuxmint/mint-y-icons/commit/cc8f1576f0a992964c199c05770ad891aad81369)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Updated Sublime Text icon and added Sublime Merge icon (#361)</code>](https://github.com/linuxmint/mint-y-icons/commit/005e9125bcfde8dbc9b61298278bf0db33564f63)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Citrix Workspace Icon (#365)</code>](https://github.com/linuxmint/mint-y-icons/commit/6ec33e69404906ad0656ed4cd05c32ebf8017f95)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add files via upload (#367)</code>](https://github.com/linuxmint/mint-y-icons/commit/c8ec6d1bc1a3c284f44ed2cef038d7de2b917541)
-- [ ] [<code>1.6.8</code>](https://github.com/linuxmint/mint-y-icons/commit/259cf95c2db8f1a7a589599fca54c07b2599a8b3)
-  - <sub>Tags: <code>1.6.8</code></sub>
-- [ ] [<code>Citrix: Fix inner name and regenerate</code>](https://github.com/linuxmint/mint-y-icons/commit/d58cf1b2339fe8270bba0416ddcf0a8cf6aa407c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Rumble: Fix inner name and regenerate</code>](https://github.com/linuxmint/mint-y-icons/commit/315821afb527ed7af197c1d1e7aefc6aefe6a926)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add cs-actions</code>](https://github.com/linuxmint/mint-y-icons/commit/2053a9aa9f1eb2e4ff30da1c729e30b98c5ac5ec)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-y-icons/commit/b9858834d8b65b69fb50e48282f8858da305e5fa)
-  - <sub>Tags: <code>1.6.9</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
 
@@ -465,7 +426,13 @@
 - [ ] [<code>Remove white frame from images.</code>](https://github.com/linuxmint/pix/commit/1964eedcde258423fa21fb5105a5742968ebdef5)
 - [ ] [<code>gth-browser-actions-entries.h: Remove left/right/up/down shortcuts.</code>](https://github.com/linuxmint/pix/commit/7a033863297a2ffa62a59f94bf7369e8070e6452)
 - [ ] [<code>Update bug template, add (obsolete) feature request template.</code>](https://github.com/linuxmint/pix/commit/d6edbd4c5e87371859b73ff89c1f49a6bb5ff126)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Automatically rotate video based on its orientation tag</code>](https://github.com/linuxmint/pix/commit/0d24acd245dc8f05acdde68c5bd72d2ec535d7f4)
+- [ ] [<code>Unref videoflip before creating a new one.</code>](https://github.com/linuxmint/pix/commit/16f05cf999d0a3d4dd7dfca579873921d3f15eff)
+- [ ] [<code>Revert "gth-browser-actions-entries.h: Remove left/right/up/down shortcuts."</code>](https://github.com/linuxmint/pix/commit/d93a0b1b6289791dd871e18ae29fe1d0e78b2169)
+- [ ] [<code>3.2.0</code>](https://github.com/linuxmint/pix/commit/c958d637bfc4f69e40efd69416a850a47adf7d57)
+  - <sub>Tags: <code>3.2.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
 
@@ -520,21 +487,15 @@
 - [ ] [<code>Update docs</code>](https://github.com/linuxmint/xapp/commit/a9ba7d237c97e1aeeef0401f1a6ddb6c64d4b2a4)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.3...HEAD)
 
-- [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
-- [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
-- [ ] [<code>Add link for existing issues to the bug report template.</code>](https://github.com/linuxmint/xreader/commit/94c8e58275778449d4cb7bf89ce25db926c6a989)
-- [ ] [<code>Fix building with meson 1.2.</code>](https://github.com/linuxmint/xreader/commit/06b18a884c8cf3257ea1f053a82784da078999ed)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ev-message-area.c: Check that the GtkStockItem is initialized</code>](https://github.com/linuxmint/xreader/commit/31c9f12e8ffe59832b8d76d390638f286749012b)
-  - <sub>Tags: <code>master.lmde5</code></sub>
-- [ ] [<code>3.8.3</code>](https://github.com/linuxmint/xreader/commit/e349842dcf11a843b2c69c5dc98608dc8073b1c5)
-  - <sub>Tags: <code>3.8.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
 
+- [ ] [<code>Fix potential infinite while loop and interpreting unsigned int as signed.</code>](https://github.com/linuxmint/xviewer/commit/556d056e06119acc20dbe0b6c64e9ddb706df9be)
+- [ ] [<code>3.4.2</code>](https://github.com/linuxmint/xviewer/commit/d5654a170e46cf17cbc98ee9165728270eaa5a9a)
+  - <sub>Tags: <code>3.4.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -574,6 +535,12 @@
 - [ ] [<code>Add cinnamon-wayland badge</code>](https://github.com/linuxmint/slick-greeter/commit/21c1877ee5fe0b19e68090889eae4ef8df2a7a24)
   - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add a setting to configure the user list alignment (#222)</code>](https://github.com/linuxmint/slick-greeter/commit/094811c7e71fbf78d7f87c175cea5158769102ea)
+- [ ] [<code>Change cinnamon-wayland logo</code>](https://github.com/linuxmint/slick-greeter/commit/4d33451ef4cc42891078bae61e5b0ce35ca6c204)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/slick-greeter/commit/667e1c1f312cc192bede488971b6f45b0201a572)
+  - <sub>Tags: <code>2.0.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
