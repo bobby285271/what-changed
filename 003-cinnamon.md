@@ -163,8 +163,9 @@
 - [ ] [<code>Added menu details option (#11916)</code>](https://github.com/linuxmint/cinnamon/commit/3c7a57f53ca3bdf25e8207a977095776656bb9f7)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>menu applet: Add some safety to the right-click properties item.</code>](https://github.com/linuxmint/cinnamon/commit/c5844411f3a84c5489867dd97c93cb0ca7d10ead)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenshot service: Add color picker support.</code>](https://github.com/linuxmint/cinnamon/commit/e42ddf563e81f2587f0dadf8d80a18b9c75c19cb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
