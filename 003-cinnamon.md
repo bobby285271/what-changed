@@ -165,7 +165,15 @@
 - [ ] [<code>menu applet: Add some safety to the right-click properties item.</code>](https://github.com/linuxmint/cinnamon/commit/c5844411f3a84c5489867dd97c93cb0ca7d10ead)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenshot service: Add color picker support.</code>](https://github.com/linuxmint/cinnamon/commit/e42ddf563e81f2587f0dadf8d80a18b9c75c19cb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>add xdg-portal conf (#11863)</code>](https://github.com/linuxmint/cinnamon/commit/5dfcbd4666ed6d053055e409ef1b1b347622c4dc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/51de1980664ad3b522266e1db5736926f34705e5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon/commit/448a1fc6753079916b8bf036aeb40b049652b72e)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
@@ -467,6 +475,10 @@
 - [ ] [<code>Update deb build, readme, dependencies, .gitignore.</code>](https://github.com/linuxmint/warpinator/commit/10eb1e5a9238336578d4c07fd8138db41934d88e)
   - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Update note in generate-protobuf.</code>](https://github.com/linuxmint/warpinator/commit/75feeec8941ab5938921dc20573bdb5f51130e1a)
+- [ ] [<code>Manual connection (#182)</code>](https://github.com/linuxmint/warpinator/commit/0df4896fcc6e14b855886520b92652aa2e1befb5)
+- [ ] [<code>Tweak layout of manual connect dialog, and simplify translations.</code>](https://github.com/linuxmint/warpinator/commit/216bf340592e4cab40a28db47ce366c78eff38d9)
+- [ ] [<code>warpinator.py: Fix dbus method failing when the network is down.</code>](https://github.com/linuxmint/warpinator/commit/b0bd5a42bac618fe5ae232a809792c98726b72fd)
+- [ ] [<code>warpinator.py: Disable manual connection when there is no server.</code>](https://github.com/linuxmint/warpinator/commit/aeaf4a75f5bf0ab80bbb2d6bc4883de29d6543b3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
@@ -524,8 +536,32 @@
 - [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/hypnotix/commit/6bf21af4090c1e59542f8ae556ed60e236825974)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add the ability to set channels as favorite</code>](https://github.com/linuxmint/hypnotix/commit/d9060f0ed7ff8fca098eb2943659f5fb92191147)
-  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde5</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix back button when no provider is selected</code>](https://github.com/linuxmint/hypnotix/commit/2ecdb28ec41444bd17021cd0448ba5c15c46d7fe)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix favorites after browsing films/VOD</code>](https://github.com/linuxmint/hypnotix/commit/f629c5a1b141494506271667cc0c3199b1ff2e6f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix indentation</code>](https://github.com/linuxmint/hypnotix/commit/47fbd69220eb9dd8298c718611a0190dad98845f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix error when provider is None</code>](https://github.com/linuxmint/hypnotix/commit/c4d6b8a29b07884e5e4f873a5447ed0e863dc524)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Favorites: Fix navigation issues in niche cases</code>](https://github.com/linuxmint/hypnotix/commit/835454a5e139429efea8c2b7c5ea5596e173e00a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add the ability to create custom channels</code>](https://github.com/linuxmint/hypnotix/commit/5ef8b41388c1ffc9e3f6ecf17a21df17474dec81)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/306bc568d00fb4657fe0d55f9d5043253930db6e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix flag of Macau (#307)</code>](https://github.com/linuxmint/hypnotix/commit/89d8cf00f775904be2897df5d707c076d216ca57)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>forced utf-8 enabled for playlist read/write (#298)</code>](https://github.com/linuxmint/hypnotix/commit/4a5abc873269a561da9eef572c7e3562d55fdc57)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix: URL label enlarges (#297)</code>](https://github.com/linuxmint/hypnotix/commit/bc0c94866660ce1a05601a26dc45aef15db54d5f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix headerbar subtitle in channels page</code>](https://github.com/linuxmint/hypnotix/commit/4349df761ae6ef98e54e71aabd024e3fad675202)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.0</code>](https://github.com/linuxmint/hypnotix/commit/6129d2ec0e64249a117426ae7c0ecc677fdd9075)
+  - <sub>Tags: <code>4.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -545,6 +581,20 @@
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
+- [ ] [<code>Switch build to meson</code>](https://github.com/linuxmint/sticky/commit/be2265e7d6c2eee5bc4a70c4de1cc08b715a947e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Add dbus service file</code>](https://github.com/linuxmint/sticky/commit/8c20d4001107432d6a2a6c4f0338ffcc52948b82)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Add a dbus interface for creating new notes and toggling visibility</code>](https://github.com/linuxmint/sticky/commit/6129693f2415e0fd3e0b0d71940905f2472435f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>README.md: update to reflect recent changes.</code>](https://github.com/linuxmint/sticky/commit/80a6a81172b8bfc8abe61334bc7a194645d3b63c)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>update icon (#105)</code>](https://github.com/linuxmint/sticky/commit/2c5bf810b55f259acfa02af11f8bf3fc1c959232)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.18</code>](https://github.com/linuxmint/sticky/commit/ffc34f0445a09e7316968f4379f120b9ebc1b2ec)
+  - <sub>Tags: <code>1.18</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.07.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.07.1...HEAD)
 
@@ -563,6 +613,9 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
+- [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
