@@ -67,6 +67,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixes #1380 (#1381)</code>](https://github.com/elementary/code/commit/4f374480b32567a341c30c846a30986be5e9e353)
+- [ ] [<code>Add metainfo for version 7.2.0 (#1383)</code>](https://github.com/elementary/code/commit/5b0db01710aae20ca83ce5983d4151504bc57c79)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -734,6 +736,7 @@
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#263)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/965229c4d45e4b05797757d5d2a9216bf9053dcd)
+- [ ] [<code>Added default_player not null check to avoid crashes (#265)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fd003ee2852113c5b5d6ae4e3c75336be4d7abe)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
