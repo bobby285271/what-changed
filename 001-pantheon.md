@@ -31,6 +31,8 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#262)</code>](https://github.com/elementary/calculator/commit/660d625bfa26749dee1663cd1ab556e2728853d6)
 - [ ] [<code>CI: use flatpak gettext action</code>](https://github.com/elementary/calculator/commit/98085d8774aa4b4f10a2f3f6d5f67386d7838ae0)
 - [ ] [<code>gschema: remove window position (#264)</code>](https://github.com/elementary/calculator/commit/b80818c8b7bba26c40ce3ca6835020d2757e3dec)
+- [ ] [<code>Release 2.0.3 (#267)</code>](https://github.com/elementary/calculator/commit/dd28a8afccb924ec7e1897b1d3108d91cddda46b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -69,6 +71,7 @@
 - [ ] [<code>Fixes #1380 (#1381)</code>](https://github.com/elementary/code/commit/4f374480b32567a341c30c846a30986be5e9e353)
 - [ ] [<code>Add metainfo for version 7.2.0 (#1383)</code>](https://github.com/elementary/code/commit/5b0db01710aae20ca83ce5983d4151504bc57c79)
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Separate action_show_replace; focus replace entry (#1374)</code>](https://github.com/elementary/code/commit/b6dcbbb5108f96c78282a9b3e810ea848e4555c1)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
