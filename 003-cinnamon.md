@@ -479,7 +479,13 @@
 - [ ] [<code>Tweak layout of manual connect dialog, and simplify translations.</code>](https://github.com/linuxmint/warpinator/commit/216bf340592e4cab40a28db47ce366c78eff38d9)
 - [ ] [<code>warpinator.py: Fix dbus method failing when the network is down.</code>](https://github.com/linuxmint/warpinator/commit/b0bd5a42bac618fe5ae232a809792c98726b72fd)
 - [ ] [<code>warpinator.py: Disable manual connection when there is no server.</code>](https://github.com/linuxmint/warpinator/commit/aeaf4a75f5bf0ab80bbb2d6bc4883de29d6543b3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>manual connect: Use a glade file, tweak some more.</code>](https://github.com/linuxmint/warpinator/commit/49a719c703aa780fa7eb0dcfb9154b73a41a7241)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>manual connect: Fix qr code rendering for different ui scales.</code>](https://github.com/linuxmint/warpinator/commit/8dbca83d5311c4b9fcb6f9610cdf9de22944c659)
+- [ ] [<code>warpinator.py: Remove invalid line.</code>](https://github.com/linuxmint/warpinator/commit/cf135c008325c95c3b5438b411e6c655d2c6d9b9)
+- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/warpinator/commit/c3da064c94886d54cb67f36b6caacad62425fa43)
+  - <sub>Tags: <code>1.8.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
 
@@ -614,7 +620,9 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
 - [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>1.0.4</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6121c2b5eed2a970f9f9607f36b08b2f5a033dc7)
+  - <sub>Tags: <code>1.0.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
