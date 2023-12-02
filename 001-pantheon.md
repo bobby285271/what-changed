@@ -72,6 +72,7 @@
 - [ ] [<code>Add metainfo for version 7.2.0 (#1383)</code>](https://github.com/elementary/code/commit/5b0db01710aae20ca83ce5983d4151504bc57c79)
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Separate action_show_replace; focus replace entry (#1374)</code>](https://github.com/elementary/code/commit/b6dcbbb5108f96c78282a9b3e810ea848e4555c1)
+- [ ] [<code>Drop folder onto sidebar to open as project (#1339)</code>](https://github.com/elementary/code/commit/c02a4061fee019a7c28ab57501479fc14f1caeff)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
