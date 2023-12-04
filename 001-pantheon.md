@@ -238,6 +238,7 @@
 - [ ] [<code>Remove window position (#748)</code>](https://github.com/elementary/terminal/commit/a76636d35c6a9868b98963baba56fe7fdb79a8cc)
 - [ ] [<code>MainWindow: Move Actions and Keyboard Handling Related to The View to TerminalWidget (#749)</code>](https://github.com/elementary/terminal/commit/beabb949dbfbb7af1954975ed80e5988b6711d66)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>TerminalWidget: Stop Scroll Controller When Keyboard Focus is Lost (#750)</code>](https://github.com/elementary/terminal/commit/b9195295d6cc850a84ec0fa5f0471e4d2f956301)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -484,6 +485,7 @@
 - [ ] [<code>Gtk 4 prep (#380)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/3b61d6a0dc11366982f8ae3e1411849dfca4ad25)
 - [ ] [<code>Wallpaper: Gtk4 prep (#381)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/cbb5ea98596fb3703a241dc7a31482bc2dd1ebee)
 - [ ] [<code>fix(wallpaper): change wallpaper for dark theme settings (#382)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bf638f3995b9a479f73e8ce7a035f01ce37e24be)
+- [ ] [<code>WallpaperContainer: Gtk4 prep (#376)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/132c1dcb0925bb79148f9fe06e30521068133fb6)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
