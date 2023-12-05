@@ -33,6 +33,8 @@
 - [ ] [<code>gschema: remove window position (#264)</code>](https://github.com/elementary/calculator/commit/b80818c8b7bba26c40ce3ca6835020d2757e3dec)
 - [ ] [<code>Release 2.0.3 (#267)</code>](https://github.com/elementary/calculator/commit/dd28a8afccb924ec7e1897b1d3108d91cddda46b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 2.0.3 (#269)</code>](https://github.com/elementary/calculator/commit/ed1fcab4c9f1f6ca5eda66421ea6072e1db56968)
+  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -337,6 +339,9 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/switchboard-plug-applications/commit/19016a737c2ae3e4ea3f74a723e7df76eb0a2bf7)
+- [ ] [<code>Port to GTK 4 (#210)</code>](https://github.com/elementary/switchboard-plug-applications/commit/e0fad5306844133eae147f50812f75411f0fdcd9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -405,6 +410,8 @@
 - [ ] [<code>Allow more keys as single key accelerators (#467)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/601c5c278ab54cfec2a5cc58c3b44cb754d2f7c2)
 - [ ] [<code>Meson: install gschema under RDNN (#491)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1fb67e8134b7c5cc8c2cfa2f5f6523cedbe16366)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Layout: Gtk4 prep, a11y (#489)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ee24d7101e4fcb17ba7ca5e9ef4591209f1c54b9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -425,6 +432,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Gestures: Add move to workspace option (#221)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d39f78f8e8ec21a46a0ccb2f39df3da711b7c627)
+- [ ] [<code>Gestures: support switch-windows gesture (#222)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/dda371238bec9e7e0146694a8a1d4f6d94d5e130)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
 
@@ -657,6 +665,7 @@
 - [ ] [<code>Remember window position (#1751)</code>](https://github.com/elementary/gala/commit/72b9e012f3160ec8a65cd4a523dfae0dab96b765)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Add "Switch windows" gesture (#1802)</code>](https://github.com/elementary/gala/commit/2699c5a453c3bb45334e5ceaa35bcf5d993e05c4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -884,6 +893,7 @@
   - <sub>Tags: <code>7.1.0-rc2</code> <code>7.1.0-rc3</code></sub>
 - [ ] [<code>Update for Noble (#695)</code>](https://github.com/elementary/os/commit/d31b6033cfaa0fd62ef19adb4e6d541abcb2c4fb)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Bump easimon/maximize-build-space from 8 to 9 (#700)</code>](https://github.com/elementary/os/commit/2291e647b8905a53351ef85fed2cdcc760158f44)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
