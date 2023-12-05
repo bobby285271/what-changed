@@ -13,6 +13,9 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.0...HEAD)
 
+- [ ] [<code>main.js: Don't initialize monitorLabeler in an x11 session.</code>](https://github.com/linuxmint/cinnamon/commit/f83fe2b4e3aa2545f06b1bd480bcff163001a35d)
+- [ ] [<code>Update bug report template with Wayland issue tracker</code>](https://github.com/linuxmint/cinnamon/commit/b7f7ef9e33cce5385a686fc232b2b6e07435dba6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -167,46 +170,8 @@
 - [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/ffc02fc8d78302db1d19f35a862c95b56fc25241)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [3.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/3.7...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.0 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.0...HEAD)
 
-- [ ] [<code>README: Add dep on circle-flags</code>](https://github.com/linuxmint/hypnotix/commit/20e5a2941d38dadae33f13fc37ae9ad43ec7ad4a)
-- [ ] [<code>UI: Use a symbolic icon for stream information menu item</code>](https://github.com/linuxmint/hypnotix/commit/00dd6097b64d064cd799b0ff38f04abd59ebbf02)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>UI: Refresh interface</code>](https://github.com/linuxmint/hypnotix/commit/94820d2fdf226d841b0f999325eaffa0e564cf2e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>yt-dlp: Add the ability to switch to a local version and update it</code>](https://github.com/linuxmint/hypnotix/commit/1ceccf0cbbc886b737799a66f18253dd8b945258)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>launcher: Use $HOME instead of ~</code>](https://github.com/linuxmint/hypnotix/commit/ef82e5156038534a725d27924564e181b78586b6)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/hypnotix/commit/6bf21af4090c1e59542f8ae556ed60e236825974)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add the ability to set channels as favorite</code>](https://github.com/linuxmint/hypnotix/commit/d9060f0ed7ff8fca098eb2943659f5fb92191147)
-  - <sub>Tags: <code>master.lmde5</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Fix back button when no provider is selected</code>](https://github.com/linuxmint/hypnotix/commit/2ecdb28ec41444bd17021cd0448ba5c15c46d7fe)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix favorites after browsing films/VOD</code>](https://github.com/linuxmint/hypnotix/commit/f629c5a1b141494506271667cc0c3199b1ff2e6f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix indentation</code>](https://github.com/linuxmint/hypnotix/commit/47fbd69220eb9dd8298c718611a0190dad98845f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix error when provider is None</code>](https://github.com/linuxmint/hypnotix/commit/c4d6b8a29b07884e5e4f873a5447ed0e863dc524)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Favorites: Fix navigation issues in niche cases</code>](https://github.com/linuxmint/hypnotix/commit/835454a5e139429efea8c2b7c5ea5596e173e00a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add the ability to create custom channels</code>](https://github.com/linuxmint/hypnotix/commit/5ef8b41388c1ffc9e3f6ecf17a21df17474dec81)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/hypnotix/commit/306bc568d00fb4657fe0d55f9d5043253930db6e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix flag of Macau (#307)</code>](https://github.com/linuxmint/hypnotix/commit/89d8cf00f775904be2897df5d707c076d216ca57)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>forced utf-8 enabled for playlist read/write (#298)</code>](https://github.com/linuxmint/hypnotix/commit/4a5abc873269a561da9eef572c7e3562d55fdc57)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix: URL label enlarges (#297)</code>](https://github.com/linuxmint/hypnotix/commit/bc0c94866660ce1a05601a26dc45aef15db54d5f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix headerbar subtitle in channels page</code>](https://github.com/linuxmint/hypnotix/commit/4349df761ae6ef98e54e71aabd024e3fad675202)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.0</code>](https://github.com/linuxmint/hypnotix/commit/6129d2ec0e64249a117426ae7c0ecc677fdd9075)
-  - <sub>Tags: <code>4.0</code></sub>
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/949e5336ab68198cc4356a4dc89225dd69361113)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>4.1</code>](https://github.com/linuxmint/hypnotix/commit/33fdcf214fd84da451a9fbc2e0067c7aabb170b3)
@@ -264,13 +229,8 @@
   - <sub>Tags: <code>3.4.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
 
-- [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>1.0.4</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6121c2b5eed2a970f9f9607f36b08b2f5a033dc7)
-  - <sub>Tags: <code>1.0.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
