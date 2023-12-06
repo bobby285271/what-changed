@@ -653,6 +653,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/shortcut-overlay/commit/bf73031de93f92aa4e7dfe6ebb4de87c6b74a47a)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#138)</code>](https://github.com/elementary/shortcut-overlay/commit/d446127495c4f55ff52b7a0c58a84e53a4254384)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#140)</code>](https://github.com/elementary/shortcut-overlay/commit/fba68026d896d87826baf82b6a04c358101c959d)
+- [ ] [<code>Updated screenshot used in README (#141)</code>](https://github.com/elementary/shortcut-overlay/commit/3ab6e9ddcee868a19103beaa6b37e72c54b05c5c)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
