@@ -384,6 +384,10 @@
 - [ ] [<code>Update project and today view</code>](https://github.com/alainm23/planify/commit/6aaa1890b8cb233fb7a8216a43a0b21344163fc7)
 - [ ] [<code>Solving theme errors and bugs</code>](https://github.com/alainm23/planify/commit/931e0a74ce04feb4baa5dd97c0cfbf1331011d2c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Migrate to new components</code>](https://github.com/alainm23/planify/commit/1e1d2b3e8ee2208ea96e3da1b98b05f936897deb)
+- [ ] [<code>Release 4.1.4</code>](https://github.com/alainm23/planify/commit/73fd6cb7acfc60937d1403238c255736b97aa94b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update icon size</code>](https://github.com/alainm23/planify/commit/81a1e8f81e08b021e60c2587919feace60aa9cfa)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -431,6 +435,8 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [95cf9e61a73fe4a0f69fd8c275c9548703f79838 → HEAD](https://github.com/vala-lang/vala-lint/compare/95cf9e61a73fe4a0f69fd8c275c9548703f79838...HEAD)
 
+- [ ] [<code>Add support for pre-commit (#179)</code>](https://github.com/vala-lang/vala-lint/commit/8ae2bb65fe66458263d94711ae4ddd978faece00)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
