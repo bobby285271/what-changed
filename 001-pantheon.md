@@ -20,21 +20,8 @@
 - [ ] [<code>Separate tests requiring internet connectivity (#2097)</code>](https://github.com/elementary/appcenter/commit/1da5402f725d651669a3c0fd0d6ac91a84c203d3)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.2 → HEAD](https://github.com/elementary/calculator/compare/2.0.2...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
-- [ ] [<code>Fix crash when pasting into division or multiplication expression (#259)</code>](https://github.com/elementary/calculator/commit/fbc12436ac9f9be42fc08a463a1c15e2606950cc)
-- [ ] [<code>Metainfo: set brand color to Mint 500 (#257)</code>](https://github.com/elementary/calculator/commit/40a1261ab5381927aded89f9c0290ec51c50f479)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#260)</code>](https://github.com/elementary/calculator/commit/9611f8c77c3a16d7bc4300c74efe599467029269)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#261)</code>](https://github.com/elementary/calculator/commit/5aba6224a8728c2a52ef7f0311cfba09a6cc93ab)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#262)</code>](https://github.com/elementary/calculator/commit/660d625bfa26749dee1663cd1ab556e2728853d6)
-- [ ] [<code>CI: use flatpak gettext action</code>](https://github.com/elementary/calculator/commit/98085d8774aa4b4f10a2f3f6d5f67386d7838ae0)
-- [ ] [<code>gschema: remove window position (#264)</code>](https://github.com/elementary/calculator/commit/b80818c8b7bba26c40ce3ca6835020d2757e3dec)
-- [ ] [<code>Release 2.0.3 (#267)</code>](https://github.com/elementary/calculator/commit/dd28a8afccb924ec7e1897b1d3108d91cddda46b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 2.0.3 (#269)</code>](https://github.com/elementary/calculator/commit/ed1fcab4c9f1f6ca5eda66421ea6072e1db56968)
-  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -570,6 +557,8 @@
 
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2107720791db1a1b19b98f0b91d9abc1ae931088)
 - [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
+- [ ] [<code>Add .editorconfig (#36)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1b020c757b972374dfecfe6c13e5d823d2850aa8)
+- [ ] [<code>Bump actions/checkout from 1 to 3 (#34)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/cca905e3194e3692a21fdb44097c6f12d3d25a46)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
@@ -673,6 +662,8 @@
 - [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/wingpanel/commit/d6009d9f0d5c7479172093447ccceccba86ff1f3)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Clean up CSS and fix issues with shadows and struts (#493)</code>](https://github.com/elementary/wingpanel/commit/0fb4a14b3134b07fd4510f3bfec46b4f0193f20a)
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -917,3 +908,4 @@
 - [ ] [<code>Sdk: Drop libplank (#108)</code>](https://github.com/elementary/seeds/commit/c4b45d6e30eec00eff2698036233c84e6849363b)
 - [ ] [<code>Shell: Replace Plank with elementary Dock (#109)</code>](https://github.com/elementary/seeds/commit/6031d2e2835dee93a6869ae7e2fb6c9e903d68e6)
 - [ ] [<code>Desktop: fix indentation (#111)</code>](https://github.com/elementary/seeds/commit/202a9cd0e8b0f5410eb627a78e2520b0b49666ad)
+- [ ] [<code>Allow manually triggering action (#110)</code>](https://github.com/elementary/seeds/commit/6e16973d23c97e5210f90c78bd5dc7df6c0cedf2)
