@@ -63,6 +63,10 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.0 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.0...HEAD)
 
+- [ ] [<code>Remove nemo-convert-metadata tool (#3335)</code>](https://github.com/linuxmint/nemo/commit/10181e961fb0cdb8dc701bccff0be0acdbc8accf)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.0...HEAD)
 
