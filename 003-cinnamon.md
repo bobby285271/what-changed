@@ -147,8 +147,9 @@
 - [ ] [<code>4.1</code>](https://github.com/linuxmint/hypnotix/commit/33fdcf214fd84da451a9fbc2e0067c7aabb170b3)
   - <sub>Tags: <code>4.1</code></sub>
 - [ ] [<code>Use filled and unfilled star icons for favorites.</code>](https://github.com/linuxmint/hypnotix/commit/0e87b67caae6c121457bb72d05b5178b3f591e2e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.2</code>](https://github.com/linuxmint/hypnotix/commit/bf50692f4c551cd4294589aa5c28b27d6d649974)
+  - <sub>Tags: <code>4.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
