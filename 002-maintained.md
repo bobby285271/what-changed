@@ -368,6 +368,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Remove back button title</code>](https://github.com/alainm23/planify/commit/0fbe5598ea0249b10794131e4a01d09fb28685f6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix #1053</code>](https://github.com/alainm23/planify/commit/06d3be3275174b3d78272d529ec61f8a27c53709)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
