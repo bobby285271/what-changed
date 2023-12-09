@@ -10,7 +10,13 @@
 - [ ] [<code>main.js: Don't initialize monitorLabeler in an x11 session.</code>](https://github.com/linuxmint/cinnamon/commit/f83fe2b4e3aa2545f06b1bd480bcff163001a35d)
 - [ ] [<code>Update bug report template with Wayland issue tracker</code>](https://github.com/linuxmint/cinnamon/commit/b7f7ef9e33cce5385a686fc232b2b6e07435dba6)
 - [ ] [<code>cinnamon-global/clipboard: use the MetaDisplay's selection object.</code>](https://github.com/linuxmint/cinnamon/commit/ba15e7eea3670d5053452b6630385d65c6e3217d)
+- [ ] [<code>fix: install actions from the correct folder (#11965)</code>](https://github.com/linuxmint/cinnamon/commit/9eeeece432599f743c19c1fef940b0d43463d3b6)
+- [ ] [<code>improve xlet download and autostart run icons (#11918)</code>](https://github.com/linuxmint/cinnamon/commit/545de4519c092035073c84a5005c2b288c6a30d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix Main.activateWindow() for windows with normal transient children (#11966)</code>](https://github.com/linuxmint/cinnamon/commit/eff19d29f88d1a24368b3f1a3bc948a58217ba2d)
+- [ ] [<code>actions: Ignore miscellaneous files in the install folder.</code>](https://github.com/linuxmint/cinnamon/commit/21b8c3f2fc57e558757f710929d15ec8774807c3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -135,25 +141,13 @@
 - [ ] [<code>1.18</code>](https://github.com/linuxmint/sticky/commit/ffc34f0445a09e7316968f4379f120b9ebc1b2ec)
   - <sub>Tags: <code>1.18</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.07.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.07.1...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.12.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.12.1...HEAD)
 
-- [ ] [<code>docs/man/meson.build: Use -N for help2man to avoid texinfo section (#217)</code>](https://github.com/linuxmint/timeshift/commit/02697234b51e342abeef3ba61d76b1973f357efa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add the installation/removal instructions for the timeshift Arch package (#220)</code>](https://github.com/linuxmint/timeshift/commit/37c50084f4eb9acd081187593f20f3718e818cdb)
-- [ ] [<code>docs/development.md: fix meson setup command (#224)</code>](https://github.com/linuxmint/timeshift/commit/8607c9dc8f0121c6a86759a6b626775c5b63b787)
-  - <sub>Tags: <code>master.lmde5</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>README.md: point to development docs for the installation from source (#226)</code>](https://github.com/linuxmint/timeshift/commit/3842e4b38ab2e197c8952f2309a8e3c983ca06b8)
-- [ ] [<code>Remove INSTALL file.</code>](https://github.com/linuxmint/timeshift/commit/ef07b2c1377a77aeffd299ff076dd092954e8930)
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/timeshift/commit/61e4bf69ec95240fd6bd4c37a5377c4c547efddf)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>23.12.1</code>](https://github.com/linuxmint/timeshift/commit/4c2bc54c22fbfd302a176bab1ee06142d3b8e482)
-  - <sub>Tags: <code>23.12.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.4 → HEAD](https://github.com/linuxmint/xed/compare/3.4.4...HEAD)
 
+- [ ] [<code>Update xed-metadata-manager.c</code>](https://github.com/linuxmint/xed/commit/28cb2e8136c1bfe90faf5f2341bde66156990778)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
 
