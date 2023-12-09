@@ -107,16 +107,8 @@
 - [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/ffc02fc8d78302db1d19f35a862c95b56fc25241)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.0 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.0...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/949e5336ab68198cc4356a4dc89225dd69361113)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.1</code>](https://github.com/linuxmint/hypnotix/commit/33fdcf214fd84da451a9fbc2e0067c7aabb170b3)
-  - <sub>Tags: <code>4.1</code></sub>
-- [ ] [<code>Use filled and unfilled star icons for favorites.</code>](https://github.com/linuxmint/hypnotix/commit/0e87b67caae6c121457bb72d05b5178b3f591e2e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.2</code>](https://github.com/linuxmint/hypnotix/commit/bf50692f4c551cd4294589aa5c28b27d6d649974)
-  - <sub>Tags: <code>4.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
