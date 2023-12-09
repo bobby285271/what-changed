@@ -371,6 +371,20 @@
 - [ ] [<code>Fix #1053</code>](https://github.com/alainm23/planify/commit/06d3be3275174b3d78272d529ec61f8a27c53709)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix #1026</code>](https://github.com/alainm23/planify/commit/463429f2f82e1967519815ba3e22c07958581515)
+- [ ] [<code>Add lint</code>](https://github.com/alainm23/planify/commit/9309d6e584802e6abc58dcc61cc854bddca6071a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add Flatpak CLI</code>](https://github.com/alainm23/planify/commit/9f4cc32a106af235d941dd4e71a0b165b4831363)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>Update Devel</code>](https://github.com/alainm23/planify/commit/f19403cdbdc28535e8b6d5dd0c991f08e6b969c8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update io.github.alainm23.planify.Devel.json</code>](https://github.com/alainm23/planify/commit/458a878b6300302b01c2b3984a7ffdd24f42d7d7)
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/d6ad587634b53777e1b1f6445116d698f0bb888b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix #1055</code>](https://github.com/alainm23/planify/commit/5ccb8ef9e54a70c33d54210427e7ccd81e8b7b9b)
+- [ ] [<code>Update LICENCE</code>](https://github.com/alainm23/planify/commit/02826685c499063a7401a5a4fba29d736f7e1b16)
+- [ ] [<code>Update Quick Add command</code>](https://github.com/alainm23/planify/commit/f6e7b9cd92d425aa05593513470db2cfc5ecff67)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -416,10 +430,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [95cf9e61a73fe4a0f69fd8c275c9548703f79838 → HEAD](https://github.com/vala-lang/vala-lint/compare/95cf9e61a73fe4a0f69fd8c275c9548703f79838...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [8ae2bb65fe66458263d94711ae4ddd978faece00 → HEAD](https://github.com/vala-lang/vala-lint/compare/8ae2bb65fe66458263d94711ae4ddd978faece00...HEAD)
 
-- [ ] [<code>Add support for pre-commit (#179)</code>](https://github.com/vala-lang/vala-lint/commit/8ae2bb65fe66458263d94711ae4ddd978faece00)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
