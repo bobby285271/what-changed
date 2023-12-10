@@ -385,6 +385,14 @@
 - [ ] [<code>Update LICENCE</code>](https://github.com/alainm23/planify/commit/02826685c499063a7401a5a4fba29d736f7e1b16)
 - [ ] [<code>Update Quick Add command</code>](https://github.com/alainm23/planify/commit/f6e7b9cd92d425aa05593513470db2cfc5ecff67)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translate and calendar widget</code>](https://github.com/alainm23/planify/commit/7fb353beea4248048446187d48a9f9db7bf96747)
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/388a8f7f956441ac625f8f66eaa2d5b7f96dca17)
+- [ ] [<code>Update lint</code>](https://github.com/alainm23/planify/commit/0d31d0bfbb49987540fc8f0f857b68dc49cee08d)
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/402f93ec546b9af92cd63d1869de2102e60cdc46)
+- [ ] [<code>Test lint</code>](https://github.com/alainm23/planify/commit/4c25a18d0568c5cb022a6c93c795c056cb9ff3cc)
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/e46c64d511dc2e9fda41eaf55e45897ccd5d3532)
+- [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/652263562370a13fc720ef7cf9a6640030ae8449)
+- [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/14d9cb9414acdabb88a1bb6c45e10004c1d37d00)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
