@@ -818,6 +818,9 @@
 - [ ] [<code>PolkitDialog: GTK4 Prep (#73)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9d92e997107dae3cba4ab06b31b819145e47c9de)
 - [ ] [<code>Gtk.Application (#74)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/ea4e121506d8f2a6f0d2d45162ad04a62c13a238)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to GTK4 (#67)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/584faa537d5ac706378d8e03008e43abd078945a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
