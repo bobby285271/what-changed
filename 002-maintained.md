@@ -393,6 +393,10 @@
 - [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/e46c64d511dc2e9fda41eaf55e45897ccd5d3532)
 - [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/652263562370a13fc720ef7cf9a6640030ae8449)
 - [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/14d9cb9414acdabb88a1bb6c45e10004c1d37d00)
+- [ ] [<code>Release 4.2</code>](https://github.com/alainm23/planify/commit/6279e37cbaaf42d9294e76295f887fc00d0160a0)
+  - <sub>Tags: <code>4.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
