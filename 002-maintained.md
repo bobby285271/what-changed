@@ -397,6 +397,14 @@
   - <sub>Tags: <code>4.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/8885b59dfa1f07aa0cd59b4ca8c35084bf1d741e)
+- [ ] [<code>Merge pull request #1072 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/22fe925e57b20aa8d4bec13f3c56ee130a045f01)
+- [ ] [<code>Fix #1071</code>](https://github.com/alainm23/planify/commit/e8ca8de0682001c5d303ae93ff662a4c3713b2af)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/fe18daa27201307c2ce018ddcec2fa9c7eab6aa7)
+- [ ] [<code>Release 4.2.1</code>](https://github.com/alainm23/planify/commit/ecdfcd3609d5a034fea90e3936d10d3212943184)
+  - <sub>Tags: <code>4.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
