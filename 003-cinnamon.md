@@ -15,8 +15,12 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix Main.activateWindow() for windows with normal transient children (#11966)</code>](https://github.com/linuxmint/cinnamon/commit/eff19d29f88d1a24368b3f1a3bc948a58217ba2d)
 - [ ] [<code>actions: Ignore miscellaneous files in the install folder.</code>](https://github.com/linuxmint/cinnamon/commit/21b8c3f2fc57e558757f710929d15ec8774807c3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>l10n: Update cs modules</code>](https://github.com/linuxmint/cinnamon/commit/07c8ddefff57022b54647d686cacd8ead2db5873)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings-users: Fix special characters in pango markup</code>](https://github.com/linuxmint/cinnamon/commit/0f0a8be3b2643de78319ddd48f129aaed48da5f9)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -91,6 +95,10 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.4 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.4...HEAD)
 
+- [ ] [<code>dvi: Don't manually escape the exported filename.</code>](https://github.com/linuxmint/xreader/commit/ffdad9225336af1cb66f8af46f80aeef4a7d81ea)
+- [ ] [<code>ev-window.c: Don't create the epub webview until the doc type</code>](https://github.com/linuxmint/xreader/commit/be4400f97ae3364c5e910609ea7706db3f54eeac)
+- [ ] [<code>Djvu file rotation direction fixed (#628)</code>](https://github.com/linuxmint/xreader/commit/4902eaea4886c700efee6214c4520bce6cd8080a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.3 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.3...HEAD)
 
