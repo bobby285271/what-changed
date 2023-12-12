@@ -19,8 +19,14 @@
 - [ ] [<code>l10n: Update cs modules</code>](https://github.com/linuxmint/cinnamon/commit/07c8ddefff57022b54647d686cacd8ead2db5873)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-settings-users: Fix special characters in pango markup</code>](https://github.com/linuxmint/cinnamon/commit/0f0a8be3b2643de78319ddd48f129aaed48da5f9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Actions module to show non-Spice Actions</code>](https://github.com/linuxmint/cinnamon/commit/5de2b89b5ec73edfca7a711a0c33189e853d1067)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Spices.py: Skip actions when they contain the 'Active' key and</code>](https://github.com/linuxmint/cinnamon/commit/64e09e4400b2c08247d1469bd9a5d7ef88d46f28)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Spices.py: catch some possible exceptions when loading legacy</code>](https://github.com/linuxmint/cinnamon/commit/ad7328cec176cfdab0d2b2acd0294bd87728e8ff)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
