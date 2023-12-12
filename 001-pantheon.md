@@ -83,6 +83,8 @@
 
 - [ ] [<code>MainWindow: Fix change search terms message never shown (#99)</code>](https://github.com/elementary/feedback/commit/49fa2864e4ce799356bfdd12814518ebee133933)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#101)</code>](https://github.com/elementary/feedback/commit/e8049bfee9e2e9dad15c2f60777ca0b2e3ce6f83)
+- [ ] [<code>Add support for AppStream 1.0 (#102)</code>](https://github.com/elementary/feedback/commit/8bfedbb387ecebf4f7cde31ea72904fff4457447)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.2 → HEAD](https://github.com/elementary/files/compare/6.5.2...HEAD)
 
@@ -641,6 +643,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Add "Switch windows" gesture (#1802)</code>](https://github.com/elementary/gala/commit/2699c5a453c3bb45334e5ceaa35bcf5d993e05c4)
+- [ ] [<code>Animate nudge with clones (#1803)</code>](https://github.com/elementary/gala/commit/51d270e7788cf3f911d017d6fde58b7d0e39183b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
