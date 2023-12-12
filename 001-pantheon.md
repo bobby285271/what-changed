@@ -1,24 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [7.4.0 → HEAD](https://github.com/elementary/appcenter/compare/7.4.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [d93e135a0b0c9a6e0fbad18fe90d46425823a42c → HEAD](https://github.com/elementary/appcenter/compare/d93e135a0b0c9a6e0fbad18fe90d46425823a42c...HEAD)
 
-- [ ] [<code>Add unit tests for credit card validation methods (#2091)</code>](https://github.com/elementary/appcenter/commit/b4e3e4f9be140cd17a318c3ca1ee5b3866376106)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add unit tests for Stripe and Houston (#2093)</code>](https://github.com/elementary/appcenter/commit/a51fa4fc79ee4ec31038f9ef701b554699a389c4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add unit tests for Soup client</code>](https://github.com/elementary/appcenter/commit/11ac010cb25f6133d14e37b46fd2b1d294332eb2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update to Soup 3</code>](https://github.com/elementary/appcenter/commit/d708f6b1ee3be58c196c517a660c79e63a47b358)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Use portal for background and autostart (#2085)</code>](https://github.com/elementary/appcenter/commit/149c8e2da1f627f432fa9c490f1c1baba83151a0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Separate tests requiring internet connectivity (#2097)</code>](https://github.com/elementary/appcenter/commit/1da5402f725d651669a3c0fd0d6ac91a84c203d3)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -559,6 +543,7 @@
 - [ ] [<code>Switch to GHCR containers (#33)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/4e8785e94a8b18aaf5d461874529d07e0d6aa770)
 - [ ] [<code>Add .editorconfig (#36)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1b020c757b972374dfecfe6c13e5d823d2850aa8)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#34)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/cca905e3194e3692a21fdb44097c6f12d3d25a46)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#37)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/706b7b0db0d9d78a83510f34d51fce2a1d300e4e)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
@@ -891,6 +876,7 @@
 - [ ] [<code>Update for Noble (#695)</code>](https://github.com/elementary/os/commit/d31b6033cfaa0fd62ef19adb4e6d541abcb2c4fb)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Bump easimon/maximize-build-space from 8 to 9 (#700)</code>](https://github.com/elementary/os/commit/2291e647b8905a53351ef85fed2cdcc760158f44)
+- [ ] [<code>Bump easimon/maximize-build-space from 9 to 10 (#701)</code>](https://github.com/elementary/os/commit/fc6b6e1cbea922f02c139d157c11ce5902a87319)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
