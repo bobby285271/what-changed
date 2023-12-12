@@ -362,6 +362,12 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.2.1 → HEAD](https://github.com/alainm23/planify/compare/4.2.1...HEAD)
 
+- [ ] [<code>Adding Russian language support</code>](https://github.com/alainm23/planify/commit/0ae834072c0d6f393424cf8b19094f52956db4a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add russian language</code>](https://github.com/alainm23/planify/commit/c6b1f4807749eb1041447c1f6b8b3ca39e44d0eb)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/445efd84f7c47376ffae9945482d70df388125b1)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/73026a8da0faefcb2844cb9500c198fe8b41f658)
+- [ ] [<code>Merge pull request #1074 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/b3e0b95fbebf8f0855c5f517ddb20d38fcc3c72a)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
