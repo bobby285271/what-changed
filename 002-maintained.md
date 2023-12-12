@@ -360,51 +360,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.1...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [73fd6cb7acfc60937d1403238c255736b97aa94b → HEAD](https://github.com/alainm23/planify/compare/73fd6cb7acfc60937d1403238c255736b97aa94b...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.2.1 → HEAD](https://github.com/alainm23/planify/compare/4.2.1...HEAD)
 
-- [ ] [<code>Update icon size</code>](https://github.com/alainm23/planify/commit/81a1e8f81e08b021e60c2587919feace60aa9cfa)
-- [ ] [<code>Design improvement</code>](https://github.com/alainm23/planify/commit/9f92896c2b6ac760328b1a6751c343adc5b3904b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove back button title</code>](https://github.com/alainm23/planify/commit/0fbe5598ea0249b10794131e4a01d09fb28685f6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix #1053</code>](https://github.com/alainm23/planify/commit/06d3be3275174b3d78272d529ec61f8a27c53709)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix #1026</code>](https://github.com/alainm23/planify/commit/463429f2f82e1967519815ba3e22c07958581515)
-- [ ] [<code>Add lint</code>](https://github.com/alainm23/planify/commit/9309d6e584802e6abc58dcc61cc854bddca6071a)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add Flatpak CLI</code>](https://github.com/alainm23/planify/commit/9f4cc32a106af235d941dd4e71a0b165b4831363)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-- [ ] [<code>Update Devel</code>](https://github.com/alainm23/planify/commit/f19403cdbdc28535e8b6d5dd0c991f08e6b969c8)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Update io.github.alainm23.planify.Devel.json</code>](https://github.com/alainm23/planify/commit/458a878b6300302b01c2b3984a7ffdd24f42d7d7)
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/d6ad587634b53777e1b1f6445116d698f0bb888b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix #1055</code>](https://github.com/alainm23/planify/commit/5ccb8ef9e54a70c33d54210427e7ccd81e8b7b9b)
-- [ ] [<code>Update LICENCE</code>](https://github.com/alainm23/planify/commit/02826685c499063a7401a5a4fba29d736f7e1b16)
-- [ ] [<code>Update Quick Add command</code>](https://github.com/alainm23/planify/commit/f6e7b9cd92d425aa05593513470db2cfc5ecff67)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update translate and calendar widget</code>](https://github.com/alainm23/planify/commit/7fb353beea4248048446187d48a9f9db7bf96747)
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/388a8f7f956441ac625f8f66eaa2d5b7f96dca17)
-- [ ] [<code>Update lint</code>](https://github.com/alainm23/planify/commit/0d31d0bfbb49987540fc8f0f857b68dc49cee08d)
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/402f93ec546b9af92cd63d1869de2102e60cdc46)
-- [ ] [<code>Test lint</code>](https://github.com/alainm23/planify/commit/4c25a18d0568c5cb022a6c93c795c056cb9ff3cc)
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/e46c64d511dc2e9fda41eaf55e45897ccd5d3532)
-- [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/652263562370a13fc720ef7cf9a6640030ae8449)
-- [ ] [<code>Update .vala-lint.conf</code>](https://github.com/alainm23/planify/commit/14d9cb9414acdabb88a1bb6c45e10004c1d37d00)
-- [ ] [<code>Release 4.2</code>](https://github.com/alainm23/planify/commit/6279e37cbaaf42d9294e76295f887fc00d0160a0)
-  - <sub>Tags: <code>4.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/8885b59dfa1f07aa0cd59b4ca8c35084bf1d741e)
-- [ ] [<code>Merge pull request #1072 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/22fe925e57b20aa8d4bec13f3c56ee130a045f01)
-- [ ] [<code>Fix #1071</code>](https://github.com/alainm23/planify/commit/e8ca8de0682001c5d303ae93ff662a4c3713b2af)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/fe18daa27201307c2ce018ddcec2fa9c7eab6aa7)
-- [ ] [<code>Release 4.2.1</code>](https://github.com/alainm23/planify/commit/ecdfcd3609d5a034fea90e3936d10d3212943184)
-  - <sub>Tags: <code>4.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
