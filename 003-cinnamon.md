@@ -25,6 +25,8 @@
 - [ ] [<code>Spices.py: Skip actions when they contain the 'Active' key and</code>](https://github.com/linuxmint/cinnamon/commit/64e09e4400b2c08247d1469bd9a5d7ef88d46f28)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Spices.py: catch some possible exceptions when loading legacy</code>](https://github.com/linuxmint/cinnamon/commit/ad7328cec176cfdab0d2b2acd0294bd87728e8ff)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ExtensionCore.py: Render spice-supplied icons correctly in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/161b606eb84202eebde2dbe2e5dfd63193f116fe)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
@@ -92,6 +94,14 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.1 → HEAD](https://github.com/linuxmint/pix/compare/3.2.1...HEAD)
 
+- [ ] [<code>Use xgettext for translations.</code>](https://github.com/linuxmint/pix/commit/14e9e43dfbffaae0c01f8aa1cd22236e93cbfb62)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Remove po/pix.pot</code>](https://github.com/linuxmint/pix/commit/c357f37b3c517f2b1206517377b0bd590d961e55)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/e88cd873bbb3a900e432000f014d51e6d8162992)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.1...HEAD)
 
