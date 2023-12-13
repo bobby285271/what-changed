@@ -668,6 +668,9 @@
 - [ ] [<code>Add test instructions to readme (#573)</code>](https://github.com/elementary/applications-menu/commit/0fc8e8a73c6d353f717ca487ecd7764e5d8c4754)
 - [ ] [<code>CategoryView: Remove no longer used dgettext (#575)</code>](https://github.com/elementary/applications-menu/commit/8b8cc95d61d95b5f1f3c4d9c661bbcd2449fc375)
 - [ ] [<code>Replace regex with procedure (#571)</code>](https://github.com/elementary/applications-menu/commit/7424bb3060cdd8fb1497a79ad91a6961ccef9659)
+- [ ] [<code>Build against Switchboard 3 (#580)</code>](https://github.com/elementary/applications-menu/commit/9191ee5a2ee33477515d331b96945d51a13074a9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
