@@ -78,6 +78,8 @@
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.9...HEAD)
 
+- [ ] [<code>Add Monophony (#369)</code>](https://github.com/linuxmint/mint-y-icons/commit/3064dda81f2167d0a855018793f0ffde6ad4b816)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
