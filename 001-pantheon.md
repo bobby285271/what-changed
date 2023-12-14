@@ -97,6 +97,9 @@
 - [ ] [<code>BookmarkRow: Remove plank PoofWindow effect (#2356)</code>](https://github.com/elementary/files/commit/9346a0aa885dd72f19f2261e53acc5e073411dce)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Release 6.5.3 (#2360)</code>](https://github.com/elementary/files/commit/b7c98aeff9d1eddecf3db80f2e898ff9a3db7692)
+  - <sub>Tags: <code>6.5.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -644,6 +647,7 @@
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Add "Switch windows" gesture (#1802)</code>](https://github.com/elementary/gala/commit/2699c5a453c3bb45334e5ceaa35bcf5d993e05c4)
 - [ ] [<code>Animate nudge with clones (#1803)</code>](https://github.com/elementary/gala/commit/51d270e7788cf3f911d017d6fde58b7d0e39183b)
+- [ ] [<code>Improve debug messages in notifications stack and add more checks (#1805)</code>](https://github.com/elementary/gala/commit/186e9a304a02bcef01a97a4336438c2969c57754)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
