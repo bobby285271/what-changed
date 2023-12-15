@@ -27,8 +27,10 @@
 - [ ] [<code>Spices.py: catch some possible exceptions when loading legacy</code>](https://github.com/linuxmint/cinnamon/commit/ad7328cec176cfdab0d2b2acd0294bd87728e8ff)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>ExtensionCore.py: Render spice-supplied icons correctly in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/161b606eb84202eebde2dbe2e5dfd63193f116fe)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon/commit/add67977ff40f5e58ac96827c68daa2f1bdb9bd7)
+  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -66,6 +68,10 @@
 
 #### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.6 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.6...HEAD)
 
+- [ ] [<code>Mint-L: Add missing icons from Adwaita's 'legacy' set.</code>](https://github.com/linuxmint/mint-l-icons/commit/abb961f260a46756987ecf45e15c66b2eff0a628)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.7</code>](https://github.com/linuxmint/mint-l-icons/commit/f6d84f6bd0a89001092d2035656c334cac07eafa)
+  - <sub>Tags: <code>1.6.7</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -80,6 +86,10 @@
 
 - [ ] [<code>Add Monophony (#369)</code>](https://github.com/linuxmint/mint-y-icons/commit/3064dda81f2167d0a855018793f0ffde6ad4b816)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-Y: Add missing icons from Adwaita's 'legacy' set.</code>](https://github.com/linuxmint/mint-y-icons/commit/ffe3c8264fcfb3adfd6539a912ac92f5f4c9ca82)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.0</code>](https://github.com/linuxmint/mint-y-icons/commit/627015aa7da6f9b9bcc59c9dedd86c8f65598783)
+  - <sub>Tags: <code>1.7.0</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
