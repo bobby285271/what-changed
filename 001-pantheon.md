@@ -86,20 +86,8 @@
 - [ ] [<code>Add support for AppStream 1.0 (#102)</code>](https://github.com/elementary/feedback/commit/8bfedbb387ecebf4f7cde31ea72904fff4457447)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.2 → HEAD](https://github.com/elementary/files/compare/6.5.2...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
-- [ ] [<code>Incrementally go Vala-only (#2321)</code>](https://github.com/elementary/files/commit/806178cd904b2265ab73f7a6a56c03121a9b2c62)
-- [ ] [<code>[Crash]Stop signal handler running if slot is frozen (being closed) (#2336)</code>](https://github.com/elementary/files/commit/3553afaba24ec5af844a67d4dedf3d312ad6611f)
-- [ ] [<code>[Crash] Check tab created before expand miller view (#2332)</code>](https://github.com/elementary/files/commit/cb4d5acaea04f350e80e191094b639e247fb2e97)
-- [ ] [<code>Save selection for all slots that will reload (#2339)</code>](https://github.com/elementary/files/commit/45ac4475090ed53afe293935f3fb1fc6f5b84227)
-- [ ] [<code>Fix scroll to bottom after rename. (#2333)</code>](https://github.com/elementary/files/commit/f5a5129b2b4ae53db4838b5b338b333884fdab35)
-- [ ] [<code>Fix incorrect cast when mount removed (#2338)</code>](https://github.com/elementary/files/commit/df90f883008b63f51cc6b4cffae9d566c88abc86)
-- [ ] [<code>BookmarkRow: Remove plank PoofWindow effect (#2356)</code>](https://github.com/elementary/files/commit/9346a0aa885dd72f19f2261e53acc5e073411dce)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Release 6.5.3 (#2360)</code>](https://github.com/elementary/files/commit/b7c98aeff9d1eddecf3db80f2e898ff9a3db7692)
-  - <sub>Tags: <code>6.5.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
