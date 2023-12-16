@@ -5,32 +5,11 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.1 → HEAD](https://github.com/linuxmint/bulky/compare/3.1...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.0...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.1...HEAD)
 
-- [ ] [<code>main.js: Don't initialize monitorLabeler in an x11 session.</code>](https://github.com/linuxmint/cinnamon/commit/f83fe2b4e3aa2545f06b1bd480bcff163001a35d)
-- [ ] [<code>Update bug report template with Wayland issue tracker</code>](https://github.com/linuxmint/cinnamon/commit/b7f7ef9e33cce5385a686fc232b2b6e07435dba6)
-- [ ] [<code>cinnamon-global/clipboard: use the MetaDisplay's selection object.</code>](https://github.com/linuxmint/cinnamon/commit/ba15e7eea3670d5053452b6630385d65c6e3217d)
-- [ ] [<code>fix: install actions from the correct folder (#11965)</code>](https://github.com/linuxmint/cinnamon/commit/9eeeece432599f743c19c1fef940b0d43463d3b6)
-- [ ] [<code>improve xlet download and autostart run icons (#11918)</code>](https://github.com/linuxmint/cinnamon/commit/545de4519c092035073c84a5005c2b288c6a30d3)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Fix Main.activateWindow() for windows with normal transient children (#11966)</code>](https://github.com/linuxmint/cinnamon/commit/eff19d29f88d1a24368b3f1a3bc948a58217ba2d)
-- [ ] [<code>actions: Ignore miscellaneous files in the install folder.</code>](https://github.com/linuxmint/cinnamon/commit/21b8c3f2fc57e558757f710929d15ec8774807c3)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>l10n: Update cs modules</code>](https://github.com/linuxmint/cinnamon/commit/07c8ddefff57022b54647d686cacd8ead2db5873)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cinnamon-settings-users: Fix special characters in pango markup</code>](https://github.com/linuxmint/cinnamon/commit/0f0a8be3b2643de78319ddd48f129aaed48da5f9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Actions module to show non-Spice Actions</code>](https://github.com/linuxmint/cinnamon/commit/5de2b89b5ec73edfca7a711a0c33189e853d1067)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Spices.py: Skip actions when they contain the 'Active' key and</code>](https://github.com/linuxmint/cinnamon/commit/64e09e4400b2c08247d1469bd9a5d7ef88d46f28)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Spices.py: catch some possible exceptions when loading legacy</code>](https://github.com/linuxmint/cinnamon/commit/ad7328cec176cfdab0d2b2acd0294bd87728e8ff)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>ExtensionCore.py: Render spice-supplied icons correctly in hidpi.</code>](https://github.com/linuxmint/cinnamon/commit/161b606eb84202eebde2dbe2e5dfd63193f116fe)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon/commit/add67977ff40f5e58ac96827c68daa2f1bdb9bd7)
-  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>menu: Don't resize if the OSK is visible</code>](https://github.com/linuxmint/cinnamon/commit/129dca2abda8c89a298d399e4763e37ffafe7ad7)
+- [ ] [<code>Check for a workarea collision during actor.show() and shrink or</code>](https://github.com/linuxmint/cinnamon/commit/0d9a16f83e2f82793f34ebf156c04bf621c5ae17)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -62,16 +41,15 @@
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [826df0b71c7c3b686421437eac86883945dc5956 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/826df0b71c7c3b686421437eac86883945dc5956...HEAD)
 
+- [ ] [<code>nemo-extension: Simplify name</code>](https://github.com/linuxmint/folder-color-switcher/commit/5ea979ca4e0f7cd31a63e29f59b2800a0de3ec4a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.1</code>](https://github.com/linuxmint/folder-color-switcher/commit/ebab2114649cc688a05e30857f6706f16fe82307)
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.6 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.6...HEAD)
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.7...HEAD)
 
-- [ ] [<code>Mint-L: Add missing icons from Adwaita's 'legacy' set.</code>](https://github.com/linuxmint/mint-l-icons/commit/abb961f260a46756987ecf45e15c66b2eff0a628)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.7</code>](https://github.com/linuxmint/mint-l-icons/commit/f6d84f6bd0a89001092d2035656c334cac07eafa)
-  - <sub>Tags: <code>1.6.7</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -82,14 +60,8 @@
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.9...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.0...HEAD)
 
-- [ ] [<code>Add Monophony (#369)</code>](https://github.com/linuxmint/mint-y-icons/commit/3064dda81f2167d0a855018793f0ffde6ad4b816)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Mint-Y: Add missing icons from Adwaita's 'legacy' set.</code>](https://github.com/linuxmint/mint-y-icons/commit/ffe3c8264fcfb3adfd6539a912ac92f5f4c9ca82)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.0</code>](https://github.com/linuxmint/mint-y-icons/commit/627015aa7da6f9b9bcc59c9dedd86c8f65598783)
-  - <sub>Tags: <code>1.7.0</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
@@ -97,12 +69,41 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.0 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.0...HEAD)
 
 - [ ] [<code>Remove nemo-convert-metadata tool (#3335)</code>](https://github.com/linuxmint/nemo/commit/10181e961fb0cdb8dc701bccff0be0acdbc8accf)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>nemo-icon-canvas-item.c: Fix the state check to see if a surface</code>](https://github.com/linuxmint/nemo/commit/bdb8b08ec77e253892d0bcb2e0ce3d73fe8688b8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.0...HEAD)
 
+- [ ] [<code>nemo-share: Fix incorrect gettext domain</code>](https://github.com/linuxmint/nemo-extensions/commit/c9758dc0fc60d581c742ca4450a8d0f2fdb86281)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>python-nemo: provide nemo-python pkg name</code>](https://github.com/linuxmint/nemo-extensions/commit/01604b2a83e49c13c13a6eba9ca9a63875776b82)
+- [ ] [<code>l10n: Fix names and descriptions</code>](https://github.com/linuxmint/nemo-extensions/commit/f8cae9f720c294b5fddcbe075d63b37f1c8733eb)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/22721e560bd0c3853024c036fec40e70c60ea1e8)
+- [ ] [<code>Fix nemo-dropbox build</code>](https://github.com/linuxmint/nemo-extensions/commit/ff1d487f5d93f79ffa0db0fb31f6f15b7157404a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>makepot: Fix scanning nemo-pastebin files in src/</code>](https://github.com/linuxmint/nemo-extensions/commit/016908abddb0678f37556dfbe4a14eb74ae760d5)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/dd9ecfdb35507b2f1b90975bc4043a4dd0ffc60b)
+- [ ] [<code>makepot: Remove the old potfile first.</code>](https://github.com/linuxmint/nemo-extensions/commit/25afdfa8e29bee369800eabcfd443535571f94be)
+- [ ] [<code>nemo-repair: Remove broken l10n framework and po/ dir</code>](https://github.com/linuxmint/nemo-extensions/commit/8a180288d51c578c8b285491368ff48df35fd04b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-compare: Remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/47ab46b99a7a2c363bd7e6d73ff8849d3036f37f)
+- [ ] [<code>nemo-emblems: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/bc11c528af2f9b83e249db826b8bd43db6c1c076)
+- [ ] [<code>nemo-seahorse: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/5bfbf551e49ef7729546c8f28d5a8e5ce483fdc3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>nemo-pastebin: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/97fdba1533d0a4d88a7a307e854bf7af6c68b3bb)
+- [ ] [<code>nemo-image-converter: Remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/baec73e9d976b90939f3a24748f3bfb48ad9995d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-preview: remove po/ and fix gettext domain</code>](https://github.com/linuxmint/nemo-extensions/commit/68ed0a35d7ae6bc38773930b025ee2fe1ec95b2a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>nemo-media-columns.py: Fix translations for column names.</code>](https://github.com/linuxmint/nemo-extensions/commit/93d56b273b89e242e017b4f499a767f7932ca23a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/nemo-extensions/commit/400ccc517d808e92dac14f23a89f5027940d6331)
+  - <sub>Tags: <code>6.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.1 → HEAD](https://github.com/linuxmint/pix/compare/3.2.1...HEAD)
 
@@ -126,7 +127,15 @@
 - [ ] [<code>dvi: Don't manually escape the exported filename.</code>](https://github.com/linuxmint/xreader/commit/ffdad9225336af1cb66f8af46f80aeef4a7d81ea)
 - [ ] [<code>ev-window.c: Don't create the epub webview until the doc type</code>](https://github.com/linuxmint/xreader/commit/be4400f97ae3364c5e910609ea7706db3f54eeac)
 - [ ] [<code>Djvu file rotation direction fixed (#628)</code>](https://github.com/linuxmint/xreader/commit/4902eaea4886c700efee6214c4520bce6cd8080a)
+- [ ] [<code>epub: Prevent path traversal when extracting files [CVE-2023-44451]</code>](https://github.com/linuxmint/xreader/commit/141f1313745b9cc73670df51ac145165efcbb14a)
+- [ ] [<code>comics: Use libarchive to unpack documents [CVE-2023-44452].</code>](https://github.com/linuxmint/xreader/commit/cd678889ecfe4e84a5cbcf3a0489e15a5e2e3736)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Revert "ev-window.c: Don't create the epub webview until the doc type"</code>](https://github.com/linuxmint/xreader/commit/da4a228bf9a3e63f522e301f680b5f4f16d1dcbb)
+- [ ] [<code>dependency: Drop compatibility with libwebkit2gtk-4.0</code>](https://github.com/linuxmint/xreader/commit/33a556eee306601b43e51e055f8c590194798312)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.3 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.3...HEAD)
 
