@@ -160,6 +160,10 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.1...HEAD)
 
+- [ ] [<code>greeter-list.vala: Make the user and session box wider.</code>](https://github.com/linuxmint/slick-greeter/commit/c7fd14722edb97a6cee3705817f36bc259cacd21)
+- [ ] [<code>Fix hidpi rendering of session badges, message indicator.</code>](https://github.com/linuxmint/slick-greeter/commit/3a96f8590e7219d5024674f70e931c144cd0babe)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
