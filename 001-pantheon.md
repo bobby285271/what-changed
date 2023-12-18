@@ -46,6 +46,9 @@
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Separate action_show_replace; focus replace entry (#1374)</code>](https://github.com/elementary/code/commit/b6dcbbb5108f96c78282a9b3e810ea848e4555c1)
 - [ ] [<code>Drop folder onto sidebar to open as project (#1339)</code>](https://github.com/elementary/code/commit/c02a4061fee019a7c28ab57501479fc14f1caeff)
+- [ ] [<code>Fix new backup creation during closing a document (#1344)</code>](https://github.com/elementary/code/commit/cadc14e4b1f228165b6ff1db3d46303b6bd52593)
+- [ ] [<code>Close root folder if externally deleted or renamed (#1390)</code>](https://github.com/elementary/code/commit/50f50a92b6639d3e166566d84bbecfa54c373920)
+- [ ] [<code>Skip New Documents when disambiguating tabs (#1391)</code>](https://github.com/elementary/code/commit/4160786b90090b66c15ba6198b96cd5d9df733af)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -636,6 +639,7 @@
 - [ ] [<code>Add "Switch windows" gesture (#1802)</code>](https://github.com/elementary/gala/commit/2699c5a453c3bb45334e5ceaa35bcf5d993e05c4)
 - [ ] [<code>Animate nudge with clones (#1803)</code>](https://github.com/elementary/gala/commit/51d270e7788cf3f911d017d6fde58b7d0e39183b)
 - [ ] [<code>Improve debug messages in notifications stack and add more checks (#1805)</code>](https://github.com/elementary/gala/commit/186e9a304a02bcef01a97a4336438c2969c57754)
+- [ ] [<code>BackgroundManager: Inline namespace (#1808)</code>](https://github.com/elementary/gala/commit/26be385587ee46cd7a20dfb82f7e72538fd4b96c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
