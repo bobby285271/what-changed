@@ -368,6 +368,8 @@
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/445efd84f7c47376ffae9945482d70df388125b1)
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/73026a8da0faefcb2844cb9500c198fe8b41f658)
 - [ ] [<code>Merge pull request #1074 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/b3e0b95fbebf8f0855c5f517ddb20d38fcc3c72a)
+- [ ] [<code>fix typo in welcome project</code>](https://github.com/alainm23/planify/commit/b749611cc5470bddf5139652bd47263a36a99d30)
+- [ ] [<code>Merge pull request #1079 from Jaques22/patch-1</code>](https://github.com/alainm23/planify/commit/8e7515f30ccefcdeee8d21ab10acb86dcceb6ea0)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
