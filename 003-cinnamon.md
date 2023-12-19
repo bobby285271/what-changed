@@ -39,11 +39,8 @@
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
 
-#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [826df0b71c7c3b686421437eac86883945dc5956 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/826df0b71c7c3b686421437eac86883945dc5956...HEAD)
+#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [ebab2114649cc688a05e30857f6706f16fe82307 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/ebab2114649cc688a05e30857f6706f16fe82307...HEAD)
 
-- [ ] [<code>nemo-extension: Simplify name</code>](https://github.com/linuxmint/folder-color-switcher/commit/5ea979ca4e0f7cd31a63e29f59b2800a0de3ec4a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.1</code>](https://github.com/linuxmint/folder-color-switcher/commit/ebab2114649cc688a05e30857f6706f16fe82307)
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
@@ -74,36 +71,8 @@
 - [ ] [<code>nemo-icon-canvas-item.c: Fix the state check to see if a surface</code>](https://github.com/linuxmint/nemo/commit/bdb8b08ec77e253892d0bcb2e0ce3d73fe8688b8)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
-#### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.0...HEAD)
+#### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
-- [ ] [<code>nemo-share: Fix incorrect gettext domain</code>](https://github.com/linuxmint/nemo-extensions/commit/c9758dc0fc60d581c742ca4450a8d0f2fdb86281)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>python-nemo: provide nemo-python pkg name</code>](https://github.com/linuxmint/nemo-extensions/commit/01604b2a83e49c13c13a6eba9ca9a63875776b82)
-- [ ] [<code>l10n: Fix names and descriptions</code>](https://github.com/linuxmint/nemo-extensions/commit/f8cae9f720c294b5fddcbe075d63b37f1c8733eb)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/22721e560bd0c3853024c036fec40e70c60ea1e8)
-- [ ] [<code>Fix nemo-dropbox build</code>](https://github.com/linuxmint/nemo-extensions/commit/ff1d487f5d93f79ffa0db0fb31f6f15b7157404a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>makepot: Fix scanning nemo-pastebin files in src/</code>](https://github.com/linuxmint/nemo-extensions/commit/016908abddb0678f37556dfbe4a14eb74ae760d5)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/dd9ecfdb35507b2f1b90975bc4043a4dd0ffc60b)
-- [ ] [<code>makepot: Remove the old potfile first.</code>](https://github.com/linuxmint/nemo-extensions/commit/25afdfa8e29bee369800eabcfd443535571f94be)
-- [ ] [<code>nemo-repair: Remove broken l10n framework and po/ dir</code>](https://github.com/linuxmint/nemo-extensions/commit/8a180288d51c578c8b285491368ff48df35fd04b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>nemo-compare: Remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/47ab46b99a7a2c363bd7e6d73ff8849d3036f37f)
-- [ ] [<code>nemo-emblems: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/bc11c528af2f9b83e249db826b8bd43db6c1c076)
-- [ ] [<code>nemo-seahorse: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/5bfbf551e49ef7729546c8f28d5a8e5ce483fdc3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>nemo-pastebin: remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/97fdba1533d0a4d88a7a307e854bf7af6c68b3bb)
-- [ ] [<code>nemo-image-converter: Remove po/</code>](https://github.com/linuxmint/nemo-extensions/commit/baec73e9d976b90939f3a24748f3bfb48ad9995d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>nemo-preview: remove po/ and fix gettext domain</code>](https://github.com/linuxmint/nemo-extensions/commit/68ed0a35d7ae6bc38773930b025ee2fe1ec95b2a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>nemo-media-columns.py: Fix translations for column names.</code>](https://github.com/linuxmint/nemo-extensions/commit/93d56b273b89e242e017b4f499a767f7932ca23a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/nemo-extensions/commit/400ccc517d808e92dac14f23a89f5027940d6331)
-  - <sub>Tags: <code>6.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.1 → HEAD](https://github.com/linuxmint/pix/compare/3.2.1...HEAD)
 
@@ -132,8 +101,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Revert "ev-window.c: Don't create the epub webview until the doc type"</code>](https://github.com/linuxmint/xreader/commit/da4a228bf9a3e63f522e301f680b5f4f16d1dcbb)
-- [ ] [<code>dependency: Drop compatibility with libwebkit2gtk-4.0</code>](https://github.com/linuxmint/xreader/commit/33a556eee306601b43e51e055f8c590194798312)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>3.8.5</code>](https://github.com/linuxmint/xreader/commit/6e44a88d13c308bb68c9dd2d9ce2106acac5ec62)
+  - <sub>Tags: <code>3.8.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>dependency: Drop compatibility with libwebkit2gtk-4.0</code>](https://github.com/linuxmint/xreader/commit/d31bcd0c55f19838636cd5721e84c0113f9db6f9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>4.0.0</code>](https://github.com/linuxmint/xreader/commit/43c73b64c70b4ecb0a9488ba70b69b6814201105)
+  - <sub>Tags: <code>4.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
@@ -162,8 +137,10 @@
 
 - [ ] [<code>greeter-list.vala: Make the user and session box wider.</code>](https://github.com/linuxmint/slick-greeter/commit/c7fd14722edb97a6cee3705817f36bc259cacd21)
 - [ ] [<code>Fix hidpi rendering of session badges, message indicator.</code>](https://github.com/linuxmint/slick-greeter/commit/3a96f8590e7219d5024674f70e931c144cd0babe)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/slick-greeter/commit/ca4d390dfaf9d1d8e37d93e291292959617a3a6f)
+  - <sub>Tags: <code>2.0.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
