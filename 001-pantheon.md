@@ -49,6 +49,8 @@
 - [ ] [<code>Fix new backup creation during closing a document (#1344)</code>](https://github.com/elementary/code/commit/cadc14e4b1f228165b6ff1db3d46303b6bd52593)
 - [ ] [<code>Close root folder if externally deleted or renamed (#1390)</code>](https://github.com/elementary/code/commit/50f50a92b6639d3e166566d84bbecfa54c373920)
 - [ ] [<code>Skip New Documents when disambiguating tabs (#1391)</code>](https://github.com/elementary/code/commit/4160786b90090b66c15ba6198b96cd5d9df733af)
+- [ ] [<code>Synchronise and save symbol outline width. (#1389)</code>](https://github.com/elementary/code/commit/742b31f54b65e4d6dfb72ba387fe144ea36101d6)
+- [ ] [<code>Refocus textview after Escape pressed in Search (#1388)</code>](https://github.com/elementary/code/commit/344f1f8718aa152261b13c259841654030de62c8)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
