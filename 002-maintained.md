@@ -403,6 +403,21 @@
 - [ ] [<code>Merge pull request #1082 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/4818e71c5b784b36746f8b7d81c71ba2708df361)
   - <sub>Tags: <code>4.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/cb38b13c210df69b06a7678df16e256546b4d8f2)
+- [ ] [<code>Update ru translate</code>](https://github.com/alainm23/planify/commit/3c5cbc7cc0783f48ee21d6b5358f3190e0f05455)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/5f55c175274d7e204bbc4ae57a2908e5f6f0d111)
+- [ ] [<code>Add social links</code>](https://github.com/alainm23/planify/commit/fc25352620643c857c34f9b1f2aae278d771368b)
+- [ ] [<code>Merge pull request #1086 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/3c7f0e062bef6583e6fe69ee4f8fcff6c3edafb6)
+- [ ] [<code>Add shortcuts translate</code>](https://github.com/alainm23/planify/commit/6458fd09d8dcd07783743b7ba8dd85c8ce0efa21)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/b78e4e6df6029516e43c7410e3e9aed19c164623)
+- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/91d7c2e2a0714979625e0695b19a6d344d09ca13)
+- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/3ab7733f4cdb04a32c431960550f80f59b07a6aa)
+- [ ] [<code>Merge pull request #1083 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/bd837d66d60fe1f7bdebfb4cf9048d7d5bc1fc04)
+- [ ] [<code>Merge pull request #1085 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/bf4dd8809641f5a144309617784b10a083496b4e)
+- [ ] [<code>Release 4.3.1</code>](https://github.com/alainm23/planify/commit/40c85a84d60cb436cddf6e65081f250d4204d14c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/41d8957b785ac1d07c2f2f4088428db9326e29b4)
+  - <sub>Tags: <code>4.3.1</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
