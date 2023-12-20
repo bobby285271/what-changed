@@ -107,6 +107,8 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.1...HEAD)
 
+- [ ] [<code>Remove duplicate line in ProcessTransferOpRequest handler</code>](https://github.com/linuxmint/warpinator/commit/972fdafb050d5f985471bb6ce287edcaaefd1e30)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.1...HEAD)
 
