@@ -9,6 +9,14 @@
 
 - [ ] [<code>menu: Don't resize if the OSK is visible</code>](https://github.com/linuxmint/cinnamon/commit/129dca2abda8c89a298d399e4763e37ffafe7ad7)
 - [ ] [<code>Check for a workarea collision during actor.show() and shrink or</code>](https://github.com/linuxmint/cinnamon/commit/0d9a16f83e2f82793f34ebf156c04bf621c5ae17)
+- [ ] [<code>cs-info: increase inxi verbosity (#11984)</code>](https://github.com/linuxmint/cinnamon/commit/e66684bf17fa6db283a6238eb3e60a025961d961)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>README.Debian: fix typo (#11976)</code>](https://github.com/linuxmint/cinnamon/commit/e9294fe37ce5821ec98fa9d2a0f2637095ddc6da)
+- [ ] [<code>Update .git-blame-ignore-revs (#11928)</code>](https://github.com/linuxmint/cinnamon/commit/97d9623c0aa2d2ec5307142bd2b17ecc3f29d483)
+- [ ] [<code>6.0.2</code>](https://github.com/linuxmint/cinnamon/commit/8f72c9006b16447fb728dee33632deec484d2d95)
+  - <sub>Tags: <code>6.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix for applet tooltips clipping outside the screen when they're too close to the bottom. (#11980)</code>](https://github.com/linuxmint/cinnamon/commit/d5d1b4394f9dcc60ef4558f2e4dbc49bf883eff2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
@@ -23,7 +31,9 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.0...HEAD)
 
 - [ ] [<code>cinnamon-screensaver-main.py: Fix application theme provider.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/37ab8ed18f35591f2bd99043f12c06d98b4527db)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8e82a7149e177b3ed22adde4bc7050025216f0e6)
+  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
@@ -53,12 +63,20 @@
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
 
+- [ ] [<code>Switch to pysassc</code>](https://github.com/linuxmint/mint-themes/commit/b1dfbc54992cdcc8cb0c64e9bf5ac44d69ef9709)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.0...HEAD)
 
+- [ ] [<code>New app icons (#374)</code>](https://github.com/linuxmint/mint-y-icons/commit/9e18297837c5c4455d0e6ce33d3c20d172cb4898)
+- [ ] [<code>Fix svg files from previous commit.</code>](https://github.com/linuxmint/mint-y-icons/commit/6cab59beed32c280e7cb2f8265868d0f72907062)
+- [ ] [<code>Generate pngs for new app icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/b75044ef79c87d7dcefe85ea0af1fc94cab87212)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-y-icons/commit/22982e984d5e76e197678e31d641f965ff58e2a0)
+  - <sub>Tags: <code>1.7.1</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
@@ -69,7 +87,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>nemo-icon-canvas-item.c: Fix the state check to see if a surface</code>](https://github.com/linuxmint/nemo/commit/bdb8b08ec77e253892d0bcb2e0ce3d73fe8688b8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/nemo/commit/871e988b4a285bca22796dc2b64dd29843945d4d)
+  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -91,26 +111,8 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.1...HEAD)
 
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.4 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.4...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.0...HEAD)
 
-- [ ] [<code>dvi: Don't manually escape the exported filename.</code>](https://github.com/linuxmint/xreader/commit/ffdad9225336af1cb66f8af46f80aeef4a7d81ea)
-- [ ] [<code>ev-window.c: Don't create the epub webview until the doc type</code>](https://github.com/linuxmint/xreader/commit/be4400f97ae3364c5e910609ea7706db3f54eeac)
-- [ ] [<code>Djvu file rotation direction fixed (#628)</code>](https://github.com/linuxmint/xreader/commit/4902eaea4886c700efee6214c4520bce6cd8080a)
-- [ ] [<code>epub: Prevent path traversal when extracting files [CVE-2023-44451]</code>](https://github.com/linuxmint/xreader/commit/141f1313745b9cc73670df51ac145165efcbb14a)
-- [ ] [<code>comics: Use libarchive to unpack documents [CVE-2023-44452].</code>](https://github.com/linuxmint/xreader/commit/cd678889ecfe4e84a5cbcf3a0489e15a5e2e3736)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Revert "ev-window.c: Don't create the epub webview until the doc type"</code>](https://github.com/linuxmint/xreader/commit/da4a228bf9a3e63f522e301f680b5f4f16d1dcbb)
-- [ ] [<code>3.8.5</code>](https://github.com/linuxmint/xreader/commit/6e44a88d13c308bb68c9dd2d9ce2106acac5ec62)
-  - <sub>Tags: <code>3.8.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>dependency: Drop compatibility with libwebkit2gtk-4.0</code>](https://github.com/linuxmint/xreader/commit/d31bcd0c55f19838636cd5721e84c0113f9db6f9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>4.0.0</code>](https://github.com/linuxmint/xreader/commit/43c73b64c70b4ecb0a9488ba70b69b6814201105)
-  - <sub>Tags: <code>4.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.3 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.3...HEAD)
 
@@ -133,14 +135,8 @@
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.1...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.2...HEAD)
 
-- [ ] [<code>greeter-list.vala: Make the user and session box wider.</code>](https://github.com/linuxmint/slick-greeter/commit/c7fd14722edb97a6cee3705817f36bc259cacd21)
-- [ ] [<code>Fix hidpi rendering of session badges, message indicator.</code>](https://github.com/linuxmint/slick-greeter/commit/3a96f8590e7219d5024674f70e931c144cd0babe)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/slick-greeter/commit/ca4d390dfaf9d1d8e37d93e291292959617a3a6f)
-  - <sub>Tags: <code>2.0.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
 
