@@ -360,64 +360,12 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.1...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.2.1 → HEAD](https://github.com/alainm23/planify/compare/4.2.1...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.3.1 → HEAD](https://github.com/alainm23/planify/compare/4.3.1...HEAD)
 
-- [ ] [<code>Migrate code modules and fix #1070</code>](https://github.com/alainm23/planify/commit/d8da23b50e395b931e17520477e04ebcc78e2d23)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Adding Russian language support</code>](https://github.com/alainm23/planify/commit/0ae834072c0d6f393424cf8b19094f52956db4a8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>add russian language</code>](https://github.com/alainm23/planify/commit/c6b1f4807749eb1041447c1f6b8b3ca39e44d0eb)
-- [ ] [<code>Adding new quick add modules</code>](https://github.com/alainm23/planify/commit/b73a4cd9ecf0deee3ffcf9f12bc624e2dfba365c)
+- [ ] [<code>Release 4.3.2</code>](https://github.com/alainm23/planify/commit/95eb076460e86d238ee4a69c8ab079da5cdfaa24)
+  - <sub>Tags: <code>4.3.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/445efd84f7c47376ffae9945482d70df388125b1)
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/73026a8da0faefcb2844cb9500c198fe8b41f658)
-- [ ] [<code>Merge pull request #1074 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/b3e0b95fbebf8f0855c5f517ddb20d38fcc3c72a)
-- [ ] [<code>Add backups module</code>](https://github.com/alainm23/planify/commit/315c01be182613b79dde50c1bec2cc7405588266)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add sidebar settings module</code>](https://github.com/alainm23/planify/commit/d1354020104a14a831879acc2a2f7c7fe00a4b33)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix #1076</code>](https://github.com/alainm23/planify/commit/6975c87ef5675526c15fd47cef2e66eba1becfee)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix #1073</code>](https://github.com/alainm23/planify/commit/9f192d0aea0700b74164151ede8c4b0bbf483a13)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix typo in welcome project</code>](https://github.com/alainm23/planify/commit/b749611cc5470bddf5139652bd47263a36a99d30)
-- [ ] [<code>Merge pull request #1079 from Jaques22/patch-1</code>](https://github.com/alainm23/planify/commit/8e7515f30ccefcdeee8d21ab10acb86dcceb6ea0)
-- [ ] [<code>Adding offline Todoist support</code>](https://github.com/alainm23/planify/commit/5afd34308b8fccffed847f5dcf3ce8bdf2daf81e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translate</code>](https://github.com/alainm23/planify/commit/da8daaa6511d1efbea824ba856a252a04c23feee)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update content</code>](https://github.com/alainm23/planify/commit/11018db6fff32d7a8974ef98dca5e7c5e5ba144e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.3</code>](https://github.com/alainm23/planify/commit/a351e72a35c5dde4fd6047379242d4e59afbb495)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/242224ad59d7443be143b09270792bf1b543941b)
-- [ ] [<code>Release 4.3</code>](https://github.com/alainm23/planify/commit/c2731b5e85b7e5db810f15219b60dce44cf809f9)
-- [ ] [<code>Merge pull request #1082 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/4818e71c5b784b36746f8b7d81c71ba2708df361)
-  - <sub>Tags: <code>4.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/cb38b13c210df69b06a7678df16e256546b4d8f2)
-- [ ] [<code>Update ru translate</code>](https://github.com/alainm23/planify/commit/3c5cbc7cc0783f48ee21d6b5358f3190e0f05455)
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/5f55c175274d7e204bbc4ae57a2908e5f6f0d111)
-- [ ] [<code>Add social links</code>](https://github.com/alainm23/planify/commit/fc25352620643c857c34f9b1f2aae278d771368b)
-- [ ] [<code>Merge pull request #1086 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/3c7f0e062bef6583e6fe69ee4f8fcff6c3edafb6)
-- [ ] [<code>Add shortcuts translate</code>](https://github.com/alainm23/planify/commit/6458fd09d8dcd07783743b7ba8dd85c8ce0efa21)
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/b78e4e6df6029516e43c7410e3e9aed19c164623)
-- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/91d7c2e2a0714979625e0695b19a6d344d09ca13)
-- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/3ab7733f4cdb04a32c431960550f80f59b07a6aa)
-- [ ] [<code>Merge pull request #1083 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/bd837d66d60fe1f7bdebfb4cf9048d7d5bc1fc04)
-- [ ] [<code>Merge pull request #1085 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/bf4dd8809641f5a144309617784b10a083496b4e)
-- [ ] [<code>Release 4.3.1</code>](https://github.com/alainm23/planify/commit/40c85a84d60cb436cddf6e65081f250d4204d14c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/41d8957b785ac1d07c2f2f4088428db9326e29b4)
-  - <sub>Tags: <code>4.3.1</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
