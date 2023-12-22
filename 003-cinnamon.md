@@ -19,12 +19,8 @@
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
 
-#### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.0...HEAD)
+#### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.1...HEAD)
 
-- [ ] [<code>cinnamon-screensaver-main.py: Fix application theme provider.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/37ab8ed18f35591f2bd99043f12c06d98b4527db)
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8e82a7149e177b3ed22adde4bc7050025216f0e6)
-  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
@@ -60,14 +56,8 @@
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.0...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.1...HEAD)
 
-- [ ] [<code>New app icons (#374)</code>](https://github.com/linuxmint/mint-y-icons/commit/9e18297837c5c4455d0e6ce33d3c20d172cb4898)
-- [ ] [<code>Fix svg files from previous commit.</code>](https://github.com/linuxmint/mint-y-icons/commit/6cab59beed32c280e7cb2f8265868d0f72907062)
-- [ ] [<code>Generate pngs for new app icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/b75044ef79c87d7dcefe85ea0af1fc94cab87212)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-y-icons/commit/22982e984d5e76e197678e31d641f965ff58e2a0)
-  - <sub>Tags: <code>1.7.1</code></sub>
 - [ ] [<code>Librewolf, Obsidian and Tunnelbear forgot 'bout these (#375)</code>](https://github.com/linuxmint/mint-y-icons/commit/607df2cf7e9cf1ef7c13d0babe4f8949be0a2745)
 - [ ] [<code>Fix icons from previous commit.</code>](https://github.com/linuxmint/mint-y-icons/commit/f1a2a38d7aa98aefaaf1a0faa61651d40825e648)
 - [ ] [<code>Generate pngs for new icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/d6f66b90f0ce3756c429cfeaafdd4c534e964a69)
