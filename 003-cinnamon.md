@@ -68,6 +68,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-y-icons/commit/22982e984d5e76e197678e31d641f965ff58e2a0)
   - <sub>Tags: <code>1.7.1</code></sub>
+- [ ] [<code>Librewolf, Obsidian and Tunnelbear forgot 'bout these (#375)</code>](https://github.com/linuxmint/mint-y-icons/commit/607df2cf7e9cf1ef7c13d0babe4f8949be0a2745)
+- [ ] [<code>Fix icons from previous commit.</code>](https://github.com/linuxmint/mint-y-icons/commit/f1a2a38d7aa98aefaaf1a0faa61651d40825e648)
+- [ ] [<code>Generate pngs for new icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/d6f66b90f0ce3756c429cfeaafdd4c534e964a69)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
