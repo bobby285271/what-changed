@@ -304,6 +304,8 @@
 - [ ] [<code>Add support for AppStream 1.0 (#275)</code>](https://github.com/elementary/switchboard-plug-about/commit/72d7da13da2824812908276751fd3024db2dd0f8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>FirmwareReleaseView: Gtk4 prep (#276)</code>](https://github.com/elementary/switchboard-plug-about/commit/4201205fe2568acf9bc8d9350de321b82450c76c)
+- [ ] [<code>HardwareView: GTK 4 prep (#277)</code>](https://github.com/elementary/switchboard-plug-about/commit/e25873430c8c4b20ae7ba4be3a56fbd562d695ef)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
