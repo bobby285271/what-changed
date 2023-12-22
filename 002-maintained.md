@@ -360,12 +360,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.1...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.3.1 → HEAD](https://github.com/alainm23/planify/compare/4.3.1...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.3.2 → HEAD](https://github.com/alainm23/planify/compare/4.3.2...HEAD)
 
-- [ ] [<code>Release 4.3.2</code>](https://github.com/alainm23/planify/commit/95eb076460e86d238ee4a69c8ab079da5cdfaa24)
-  - <sub>Tags: <code>4.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
