@@ -95,6 +95,9 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.0...HEAD)
 
+- [ ] [<code>Fix list of supported mime types (#631)</code>](https://github.com/linuxmint/xreader/commit/495835ec8403eddd85f05c836cb04b2b3de34a7f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.3 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.3...HEAD)
 
