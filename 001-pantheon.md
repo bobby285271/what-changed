@@ -93,6 +93,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
+- [ ] [<code>Support .hidden file (#2362)</code>](https://github.com/elementary/files/commit/9e025b265d7afefcd671c2c515ebcabf4ff3fc14)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
