@@ -510,6 +510,7 @@
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#163)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d23400def0baf8eaec8c34d701527b6f112bcd4)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
