@@ -8,7 +8,9 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.2...HEAD)
 
 - [ ] [<code>fix for applet tooltips clipping outside the screen when they're too close to the bottom. (#11980)</code>](https://github.com/linuxmint/cinnamon/commit/d5d1b4394f9dcc60ef4558f2e4dbc49bf883eff2)
+- [ ] [<code>Show secure connection icon when WireGuard is active (#11905)</code>](https://github.com/linuxmint/cinnamon/commit/993a53f3c980acef067fe89e535e9038580807ba)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
