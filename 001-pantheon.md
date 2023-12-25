@@ -307,6 +307,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>FirmwareReleaseView: Gtk4 prep (#276)</code>](https://github.com/elementary/switchboard-plug-about/commit/4201205fe2568acf9bc8d9350de321b82450c76c)
 - [ ] [<code>HardwareView: GTK 4 prep (#277)</code>](https://github.com/elementary/switchboard-plug-about/commit/e25873430c8c4b20ae7ba4be3a56fbd562d695ef)
+- [ ] [<code>Port to Gtk4 (#249)</code>](https://github.com/elementary/switchboard-plug-about/commit/a87e10660250a6ae7bdaf494c8102b6b906bc302)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/57179401c9691b051c40d05db1078b78f3d9099d)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
