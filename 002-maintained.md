@@ -362,6 +362,18 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.3.2 → HEAD](https://github.com/alainm23/planify/compare/4.3.2...HEAD)
 
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/385c30183bd343636f83ece473bc046a6c222e93)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/457e2f047b4297351849858ba9c1a155f33f42b9)
+- [ ] [<code>Update Turkish translation</code>](https://github.com/alainm23/planify/commit/e7834c1def2835e0424f16c97c39319fda5c8ae2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/24a27ec84f1fbcf3bd775953721f7c14701b77c6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/ab74fa68428e83383536af4738558124da184ab0)
+- [ ] [<code>add language pt_PT</code>](https://github.com/alainm23/planify/commit/3e3a4e0c7168726101dabfebae22307f72cb71e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1093 from godinhoana54/master</code>](https://github.com/alainm23/planify/commit/273fd8ffd4e3121f7e7724cfd0b24598f86e65ed)
+- [ ] [<code>Merge pull request #1092 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/7cbe8c8f1d7d5e3edbed0aa30f431439731859a2)
+- [ ] [<code>Merge pull request #1090 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/ef20b8ec7a4ce0e158b935d154cc4d847084d4de)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
