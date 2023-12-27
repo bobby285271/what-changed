@@ -23,6 +23,8 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.1...HEAD)
 
+- [ ] [<code>backup locker: Restore stack management when not activated.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6b917facf2753552164e669892af929e54dc7834)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
@@ -145,6 +147,7 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.12.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.12.1...HEAD)
 
 - [ ] [<code>Fix RAID handling in device lookup (#252)</code>](https://github.com/linuxmint/timeshift/commit/a185cefb5c8c120aee790869668453572a49b69b)
+- [ ] [<code>Check /proc/cmdline for the live-session check.</code>](https://github.com/linuxmint/timeshift/commit/a75436482e84c17486e54046908a2307fda092e9)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.4 → HEAD](https://github.com/linuxmint/xed/compare/3.4.4...HEAD)
