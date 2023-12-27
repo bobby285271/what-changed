@@ -323,6 +323,7 @@
 - [ ] [<code>Updating appdata 1.16.0 release notes.</code>](https://github.com/phase1geo/minder/commit/d0900a67e397fe55de408213603f44c317b8c824)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/80facb2d25367048a4697e0657d5741f62f753ac)
 - [ ] [<code>Merge pull request #584 from albanobattistella/patch-28</code>](https://github.com/phase1geo/minder/commit/6a5361ab6a35e7377df6ef631522ce5916b5a1ef)
+- [ ] [<code>Fixing issue with QuickEntry.</code>](https://github.com/phase1geo/minder/commit/986219a7491efaaea8807ff3e751a97b48d29731)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
