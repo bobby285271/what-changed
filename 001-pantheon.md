@@ -652,6 +652,7 @@
 - [ ] [<code>BackgroundManager: Inline namespace (#1808)</code>](https://github.com/elementary/gala/commit/26be385587ee46cd7a20dfb82f7e72538fd4b96c)
 - [ ] [<code>BackgroundManager: Don't position background actors (#1809)</code>](https://github.com/elementary/gala/commit/a4a3fa5bdd4eaa0af464fc673ddb86d3d91b3e9c)
 - [ ] [<code>Round corners of workspaces in multitasking view (#1734)</code>](https://github.com/elementary/gala/commit/fa8ebfd0be95585116c28c5577d8c27b37a692bf)
+- [ ] [<code>Revert "BackgroundManager: Don't position background actors" (#1814)</code>](https://github.com/elementary/gala/commit/fe1918dee27f667bf2dbdad7df3c85ffa7f7213d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
