@@ -74,6 +74,8 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.1 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.1...HEAD)
 
+- [ ] [<code>nemo-file.c: Escape tooltip text for markup before adding any</code>](https://github.com/linuxmint/nemo/commit/a32348f31e065772e7c79ba61c32f02cf2aee33e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
