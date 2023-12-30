@@ -5,14 +5,8 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.1 → HEAD](https://github.com/linuxmint/bulky/compare/3.1...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.2...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.3...HEAD)
 
-- [ ] [<code>fix for applet tooltips clipping outside the screen when they're too close to the bottom. (#11980)</code>](https://github.com/linuxmint/cinnamon/commit/d5d1b4394f9dcc60ef4558f2e4dbc49bf883eff2)
-- [ ] [<code>Show secure connection icon when WireGuard is active (#11905)</code>](https://github.com/linuxmint/cinnamon/commit/993a53f3c980acef067fe89e535e9038580807ba)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.0.3</code>](https://github.com/linuxmint/cinnamon/commit/e8ab1486672774c06b16f83f651907785ca06f21)
-  - <sub>Tags: <code>6.0.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -23,12 +17,8 @@
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
 
-#### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.1...HEAD)
+#### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.2...HEAD)
 
-- [ ] [<code>backup locker: Restore stack management when not activated.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6b917facf2753552164e669892af929e54dc7834)
-- [ ] [<code>6.0.2</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/81a186681f71cdfb906012aa57d82d601110b0c1)
-  - <sub>Tags: <code>6.0.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
@@ -64,28 +54,14 @@
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.1...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
 
-- [ ] [<code>Librewolf, Obsidian and Tunnelbear forgot 'bout these (#375)</code>](https://github.com/linuxmint/mint-y-icons/commit/607df2cf7e9cf1ef7c13d0babe4f8949be0a2745)
-- [ ] [<code>Fix icons from previous commit.</code>](https://github.com/linuxmint/mint-y-icons/commit/f1a2a38d7aa98aefaaf1a0faa61651d40825e648)
-- [ ] [<code>Generate pngs for new icons.</code>](https://github.com/linuxmint/mint-y-icons/commit/d6f66b90f0ce3756c429cfeaafdd4c534e964a69)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.2</code>](https://github.com/linuxmint/mint-y-icons/commit/96fb7141657968f69d59a1499bac5ef6b4f6955c)
-  - <sub>Tags: <code>1.7.2</code></sub>
 
-#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
+#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
-- [ ] [<code>meta-compositor-x11.c: Don't disable fractional scaling when</code>](https://github.com/linuxmint/muffin/commit/bf234250143d2b4c7bad9f1ef3bccafbb6e6c21b)
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/muffin/commit/383d79600cc6ad24f889275d77f2c23af5ff3b40)
-  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.1 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.1...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
-- [ ] [<code>nemo-file.c: Escape tooltip text for markup before adding any</code>](https://github.com/linuxmint/nemo/commit/a32348f31e065772e7c79ba61c32f02cf2aee33e)
-- [ ] [<code>6.0.2</code>](https://github.com/linuxmint/nemo/commit/b51ed7b35d0759eec68ddf350110dd38d90154a8)
-  - <sub>Tags: <code>6.0.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -101,23 +77,14 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.1 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.1...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.2...HEAD)
 
-- [ ] [<code>Remove duplicate line in ProcessTransferOpRequest handler</code>](https://github.com/linuxmint/warpinator/commit/972fdafb050d5f985471bb6ce287edcaaefd1e30)
-- [ ] [<code>1.8.2</code>](https://github.com/linuxmint/warpinator/commit/8737da14e33878bc5df5bc51a153b3a59160c5c5)
-  - <sub>Tags: <code>1.8.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.1...HEAD)
 
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.0...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.1...HEAD)
 
-- [ ] [<code>Fix list of supported mime types (#631)</code>](https://github.com/linuxmint/xreader/commit/495835ec8403eddd85f05c836cb04b2b3de34a7f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>4.0.1</code>](https://github.com/linuxmint/xreader/commit/6778018b7dc8e2080965766eccf500058ba7a02a)
-  - <sub>Tags: <code>4.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.3 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.3...HEAD)
 
@@ -160,13 +127,8 @@
 - [ ] [<code>1.18</code>](https://github.com/linuxmint/sticky/commit/ffc34f0445a09e7316968f4379f120b9ebc1b2ec)
   - <sub>Tags: <code>1.18</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.12.1 → HEAD](https://github.com/linuxmint/timeshift/compare/23.12.1...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [23.12.2 → HEAD](https://github.com/linuxmint/timeshift/compare/23.12.2...HEAD)
 
-- [ ] [<code>Fix RAID handling in device lookup (#252)</code>](https://github.com/linuxmint/timeshift/commit/a185cefb5c8c120aee790869668453572a49b69b)
-- [ ] [<code>Check /proc/cmdline for the live-session check.</code>](https://github.com/linuxmint/timeshift/commit/a75436482e84c17486e54046908a2307fda092e9)
-- [ ] [<code>23.12.2</code>](https://github.com/linuxmint/timeshift/commit/a3b7307f1fc48c247182d4447bffe81970b45d92)
-  - <sub>Tags: <code>23.12.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.4 → HEAD](https://github.com/linuxmint/xed/compare/3.4.4...HEAD)
 
