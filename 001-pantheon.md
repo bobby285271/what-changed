@@ -719,6 +719,7 @@
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
+- [ ] [<code>Remove unused argument (#274)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6f98e9d619f4f1cb24959d2bc3bd03887d50f600)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
