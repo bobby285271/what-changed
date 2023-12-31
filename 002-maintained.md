@@ -324,6 +324,13 @@
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/80facb2d25367048a4697e0657d5741f62f753ac)
 - [ ] [<code>Merge pull request #584 from albanobattistella/patch-28</code>](https://github.com/phase1geo/minder/commit/6a5361ab6a35e7377df6ef631522ce5916b5a1ef)
 - [ ] [<code>Fixing issue with QuickEntry.</code>](https://github.com/phase1geo/minder/commit/986219a7491efaaea8807ff3e751a97b48d29731)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/1b9e99ca2f3ede69a35b9a77b7ec007cd6187930)
+- [ ] [<code>Fixing issue with pasting into an empty document.</code>](https://github.com/phase1geo/minder/commit/d7c6369d4c02db1f0e42d04150c0ab122a576284)
+- [ ] [<code>Merge branch '589-crash-when-pasting-into-a-blank-docu'</code>](https://github.com/phase1geo/minder/commit/da7dadfb5412679e36b1b8d8ffe9133409193695)
+- [ ] [<code>Merge pull request #588 from albanobattistella/patch-29</code>](https://github.com/phase1geo/minder/commit/5025a8c3d269edce6de7eba79107e34d89e5460b)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/3e9e4e64ec2bb4446fe687191314600e026ed04b)
+- [ ] [<code>Pulling updated Italian translation file</code>](https://github.com/phase1geo/minder/commit/8686a58fa3a131d88086f410b98c0947707958fb)
+- [ ] [<code>Removing summary nodes.</code>](https://github.com/phase1geo/minder/commit/b26260c5397fd30ea5e7f8b551bfa52c29ffcb18)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
