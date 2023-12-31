@@ -7,6 +7,11 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.3...HEAD)
 
+- [ ] [<code>Move gir files to private path (#11999)</code>](https://github.com/linuxmint/cinnamon/commit/34f0418f0c7ea7cf08f302d8d5677fe33027e4d3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fixing applet tooltips clipping out the top as well. (#11991)</code>](https://github.com/linuxmint/cinnamon/commit/71d5dc4dba1d775736f8d00140f704d5c37e731b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -23,7 +28,10 @@
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
 - [ ] [<code>Packaging: Add missing build-dep on cinnamon-desktop</code>](https://github.com/linuxmint/cinnamon-session/commit/38c8fd0674e67d48d0fad47515be02b5a7604979)
+- [ ] [<code>Fix dependencies (#160)</code>](https://github.com/linuxmint/cinnamon-session/commit/5284f5e360a30cd2e6f5c0399ee9a0df8353cd98)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
