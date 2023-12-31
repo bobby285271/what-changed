@@ -746,6 +746,7 @@
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#263)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/965229c4d45e4b05797757d5d2a9216bf9053dcd)
 - [ ] [<code>Added default_player not null check to avoid crashes (#265)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fd003ee2852113c5b5d6ae4e3c75336be4d7abe)
+- [ ] [<code>Show in Greeter (#268)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/215338fb0146a1f8d702de1d76822579dadcaf18)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
