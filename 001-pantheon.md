@@ -754,6 +754,7 @@
 - [ ] [<code>README: Fix exec name of demo (#673)</code>](https://github.com/elementary/granite/commit/ec5fe2fbf8a6e06079f047d5313c203fad9ad80b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Replace Gtk.Widget.get_style_context deprecated in Gtk 4.10 (#672)</code>](https://github.com/elementary/granite/commit/264cdc509ebd79bcc374f3d44802434a97762e80)
+- [ ] [<code>CSSView: Update title class name label (#675)</code>](https://github.com/elementary/granite/commit/9a58858fed8283bcf74c94d3c48bb0ea4f493f4c)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
