@@ -511,6 +511,8 @@
 - [ ] [<code>Fix incorrect License headers</code>](https://github.com/elementary/switchboard-plug-printers/commit/882ef0489286abfc5c8b05443f82b9cb510485c2)
 - [ ] [<code>AddDialog: Use Granite.ValidatedEntry, describe errors, DRY (#197)</code>](https://github.com/elementary/switchboard-plug-printers/commit/118f2884d41da6e91adc34a2f342be7d407ef76d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SuppliesView: Gtk4 Prep (#198)</code>](https://github.com/elementary/switchboard-plug-printers/commit/0379ab080d52a6c74b8d1174651be98ad0906615)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -653,6 +655,7 @@
 - [ ] [<code>BackgroundManager: Don't position background actors (#1809)</code>](https://github.com/elementary/gala/commit/a4a3fa5bdd4eaa0af464fc673ddb86d3d91b3e9c)
 - [ ] [<code>Round corners of workspaces in multitasking view (#1734)</code>](https://github.com/elementary/gala/commit/fa8ebfd0be95585116c28c5577d8c27b37a692bf)
 - [ ] [<code>Revert "BackgroundManager: Don't position background actors" (#1814)</code>](https://github.com/elementary/gala/commit/fe1918dee27f667bf2dbdad7df3c85ffa7f7213d)
+- [ ] [<code>Show notifications on the left in RTL languages (#1812)</code>](https://github.com/elementary/gala/commit/7de779cc068b7fdc10a7ab80aca0569c8ff70a80)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
