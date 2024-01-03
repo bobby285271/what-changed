@@ -82,8 +82,9 @@
 - [ ] [<code>l10n: Remove po/pix.pot</code>](https://github.com/linuxmint/pix/commit/c357f37b3c517f2b1206517377b0bd590d961e55)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/pix/commit/e88cd873bbb3a900e432000f014d51e6d8162992)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gth-browser-action-callbacks.c: Ignore view changes triggered by</code>](https://github.com/linuxmint/pix/commit/7837e983273d5a6a52080335e5f97e103b4d10ff)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.2 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.2...HEAD)
 
