@@ -656,6 +656,7 @@
 - [ ] [<code>Round corners of workspaces in multitasking view (#1734)</code>](https://github.com/elementary/gala/commit/fa8ebfd0be95585116c28c5577d8c27b37a692bf)
 - [ ] [<code>Revert "BackgroundManager: Don't position background actors" (#1814)</code>](https://github.com/elementary/gala/commit/fe1918dee27f667bf2dbdad7df3c85ffa7f7213d)
 - [ ] [<code>Show notifications on the left in RTL languages (#1812)</code>](https://github.com/elementary/gala/commit/7de779cc068b7fdc10a7ab80aca0569c8ff70a80)
+- [ ] [<code>Add an option to disable hotcorners in fullscreen (#1806)</code>](https://github.com/elementary/gala/commit/c62024acd20c2b82bffac960e9239aea9624eb3a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
