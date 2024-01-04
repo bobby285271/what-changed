@@ -517,6 +517,12 @@
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#163)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7d23400def0baf8eaec8c34d701527b6f112bcd4)
+- [ ] [<code>Use Granite.SettingsSidebar (#165)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/33dad1cc13d1fc1cbdd58e841dbc9263f4c4d358)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>TrackPanel: make clear history a dialog (#168)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/80083f8a45fba08c7732795ef55dd0db997b1cc1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Plug: inline namespace, cleanup, build UI earlier (#166)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/aa07fa36dbd8eb0a101c4f66c4c9d0e6b0521a52)
+- [ ] [<code>FirewallPanel: GTK 4 prep, cleanup (#167)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/45a66812d6dd75b4f754a530d6053247daab2b8b)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
