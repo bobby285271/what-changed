@@ -83,6 +83,16 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: Add iconsize setting (#190)</code>](https://github.com/elementary/dock/commit/58396d27de1a5764366b24bbcf5d9f8d42f7ef3d)
+- [ ] [<code>Switch to Gtk.Fixed (#197)</code>](https://github.com/elementary/dock/commit/656d417da3986d3eb20d17971feac6881656414a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Accept dnd from applications menu (#199)</code>](https://github.com/elementary/dock/commit/94af863a09112d54b24dd1a8e204dc2540336044)
+- [ ] [<code>Add support for Unity badges (#193)</code>](https://github.com/elementary/dock/commit/dcdac4fafd88fa7c375897e81c679f77287be828)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move action and action group logic to Launcher (#204)</code>](https://github.com/elementary/dock/commit/77a0ca29722c3b974074de1de833888114ec2180)
+- [ ] [<code>Launcher: add Unity Progress support (#203)</code>](https://github.com/elementary/dock/commit/25ae2b138c5ce0e9e0c444278d4db64e84b180b3)
+- [ ] [<code>Add dbus api to add, remove and list launchers (#205)</code>](https://github.com/elementary/dock/commit/cce7e7d440caa879068cf0da92e2af3f9d41cf47)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -416,6 +426,7 @@
 - [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#341)</code>](https://github.com/elementary/switchboard-plug-network/commit/b7d2fc58edcc36a49d16934c2920610c1989afef)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>2.5.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-network/commit/36af96d1bcc6d2151a20ed27cb369e15e593c4b1)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -722,6 +733,7 @@
 - [ ] [<code>Avoid a noisy log message in journalctl about missing icon</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f579e8fb087f612874470d91664bf21799e68c43)
 - [ ] [<code>List Wireguard connection as possible VPN</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c1a62a71e4969795cd2b217257883258a86f0)
 - [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#254)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/194e39e84f7a5554227712cea3e523254cd83fde)
+- [ ] [<code>7.1.0 release notes (#311)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bd8f17f42f17e9acd817b826f933f26509018128)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
