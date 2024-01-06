@@ -253,6 +253,8 @@
 - [ ] [<code>Appdata related patches (#136)</code>](https://github.com/lainsce/khronos/commit/a76bd4a82593e10fd68f7dd0684667d472ff0173)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update pt_BR translation (#137)</code>](https://github.com/lainsce/khronos/commit/f1804d8ccd466a30c4f56d5b8753c4b418f44522)
+- [ ] [<code>appdata: Improve appdata for AppStream 1.0 (#139)</code>](https://github.com/lainsce/khronos/commit/631d9b50d335855ac53040422db6ecb46563915f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [minder](https://github.com/phase1geo/minder): [1.15.6 → HEAD](https://github.com/phase1geo/minder/compare/1.15.6...HEAD)
 
