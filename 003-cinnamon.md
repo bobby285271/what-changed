@@ -2,14 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python.
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.1 → HEAD](https://github.com/linuxmint/bulky/compare/3.1...HEAD)
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.2 → HEAD](https://github.com/linuxmint/bulky/compare/3.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/8c0174224441b51769b1f6ba242b9b3c724564ea)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/97591afcdc6e0a31f36e2077599d646130a00cb7)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.2</code>](https://github.com/linuxmint/bulky/commit/9d833de4c87cdab7dec4edef777c88180025e93a)
-  - <sub>Tags: <code>3.2</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.3...HEAD)
 
