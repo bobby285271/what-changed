@@ -954,3 +954,4 @@
 - [ ] [<code>Desktop: fix indentation (#111)</code>](https://github.com/elementary/seeds/commit/202a9cd0e8b0f5410eb627a78e2520b0b49666ad)
 - [ ] [<code>Allow manually triggering action (#110)</code>](https://github.com/elementary/seeds/commit/6e16973d23c97e5210f90c78bd5dc7df6c0cedf2)
 - [ ] [<code>Desktop: Add Settings → System (#112)</code>](https://github.com/elementary/seeds/commit/df918cb1c5a7b2606bbca2940f5f0aa9ba5508cd)
+- [ ] [<code>Desktop: add settings.useraccounts (#113)</code>](https://github.com/elementary/seeds/commit/e984d96df7bd83666901819f5f3eadb3ebbadbeb)
