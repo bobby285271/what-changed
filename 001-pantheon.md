@@ -93,6 +93,9 @@
 - [ ] [<code>Launcher: add Unity Progress support (#203)</code>](https://github.com/elementary/dock/commit/25ae2b138c5ce0e9e0c444278d4db64e84b180b3)
 - [ ] [<code>Add dbus api to add, remove and list launchers (#205)</code>](https://github.com/elementary/dock/commit/cce7e7d440caa879068cf0da92e2af3f9d41cf47)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add SystemD units for Autostart (#189)</code>](https://github.com/elementary/dock/commit/70deba9d587837be9bf6e17ba13a419e901892ad)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -398,6 +401,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Layout: Gtk4 prep, a11y (#489)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ee24d7101e4fcb17ba7ca5e9ef4591209f1c54b9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use new sound indicator keys (#492)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/925c8be416daa5d4a8e65b963c12bd8daf4929d8)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -427,6 +431,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>2.5.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-network/commit/36af96d1bcc6d2151a20ed27cb369e15e593c4b1)
+- [ ] [<code>Release 2.5.0 (#365)</code>](https://github.com/elementary/switchboard-plug-network/commit/c89da3bedd0dac09aa3e8d784bc198b042440cc8)
+  - <sub>Tags: <code>2.5.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -606,6 +613,7 @@
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Move some media-keys from static to their normal versions (#288)</code>](https://github.com/elementary/default-settings/commit/86ed77d978ee517b8ed77dbaefda3e1359f63d2d)
 - [ ] [<code>Override `switch-group` and `switch-group-backward` (#287)</code>](https://github.com/elementary/default-settings/commit/6c5bbff3edcbe020e9decdd71ea11f799ef0097f)
+- [ ] [<code>GSD: Remove volume shortcuts (#297)</code>](https://github.com/elementary/default-settings/commit/2d246b160463f30f7bf0f34402b8579547097d7a)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -734,6 +742,9 @@
 - [ ] [<code>List Wireguard connection as possible VPN</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c1a62a71e4969795cd2b217257883258a86f0)
 - [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#254)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/194e39e84f7a5554227712cea3e523254cd83fde)
 - [ ] [<code>7.1.0 release notes (#311)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bd8f17f42f17e9acd817b826f933f26509018128)
+- [ ] [<code>Release 7.1.0 (#312)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e1c1daba160c0af381247b211b12f01a366eab21)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -769,6 +780,8 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#263)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/965229c4d45e4b05797757d5d2a9216bf9053dcd)
 - [ ] [<code>Added default_player not null check to avoid crashes (#265)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fd003ee2852113c5b5d6ae4e3c75336be4d7abe)
 - [ ] [<code>Show in Greeter (#268)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/215338fb0146a1f8d702de1d76822579dadcaf18)
+- [ ] [<code>Handle keybindings and confirmation in the indicator (#270)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fb22657712be19297cacb3171ec964ccce95f7b7)
+  - <sub>Files: <code>meson.build</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
