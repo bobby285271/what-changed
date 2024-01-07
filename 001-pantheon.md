@@ -424,16 +424,9 @@
 - [ ] [<code>Gestures: Add move to workspace option (#221)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d39f78f8e8ec21a46a0ccb2f39df3da711b7c627)
 - [ ] [<code>Gestures: support switch-windows gesture (#222)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/dda371238bec9e7e0146694a8a1d4f6d94d5e130)
 
-#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [3b69132788ff8734a481d498b49207e05a4f7d70 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/3b69132788ff8734a481d498b49207e05a4f7d70...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
-- [ ] [<code>Support Wireguard as a VPN connection (#338)</code>](https://github.com/elementary/switchboard-plug-network/commit/4553bda50e74d7b211f2da5a98f2a9d7780ed12a)
-- [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#341)</code>](https://github.com/elementary/switchboard-plug-network/commit/b7d2fc58edcc36a49d16934c2920610c1989afef)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>2.5.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-network/commit/36af96d1bcc6d2151a20ed27cb369e15e593c4b1)
-- [ ] [<code>Release 2.5.0 (#365)</code>](https://github.com/elementary/switchboard-plug-network/commit/c89da3bedd0dac09aa3e8d784bc198b042440cc8)
-  - <sub>Tags: <code>2.5.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainView: Gtk4 prep and cleanup (#366)</code>](https://github.com/elementary/switchboard-plug-network/commit/a69570a2c77bce463cb501e553d01b83a1d99474)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -738,16 +731,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d26d8968710e9ec55611a27528da7a0c5d0b3258)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#123)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b0f4d4293b6e6e28eb514ca2fb835ab28b200af3)
 
-#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.0.2...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
-- [ ] [<code>Avoid a compilation warning about missing state handling for WIFI Menu Item</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4ce87b36b0eae92e8c2bca0aeb6126cb945c5ba5)
-- [ ] [<code>Avoid a noisy log message in journalctl about missing icon</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f579e8fb087f612874470d91664bf21799e68c43)
-- [ ] [<code>List Wireguard connection as possible VPN</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c1a62a71e4969795cd2b217257883258a86f0)
-- [ ] [<code>Support OWE (opportunistic wireless encryption) passwordless mode (#254)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/194e39e84f7a5554227712cea3e523254cd83fde)
-- [ ] [<code>7.1.0 release notes (#311)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bd8f17f42f17e9acd817b826f933f26509018128)
-- [ ] [<code>Release 7.1.0 (#312)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e1c1daba160c0af381247b211b12f01a366eab21)
-  - <sub>Tags: <code>7.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -958,3 +943,4 @@
 - [ ] [<code>Allow manually triggering action (#110)</code>](https://github.com/elementary/seeds/commit/6e16973d23c97e5210f90c78bd5dc7df6c0cedf2)
 - [ ] [<code>Desktop: Add Settings → System (#112)</code>](https://github.com/elementary/seeds/commit/df918cb1c5a7b2606bbca2940f5f0aa9ba5508cd)
 - [ ] [<code>Desktop: add settings.useraccounts (#113)</code>](https://github.com/elementary/seeds/commit/e984d96df7bd83666901819f5f3eadb3ebbadbeb)
+- [ ] [<code>Desktop: parental-controls → screentime-limits (#114)</code>](https://github.com/elementary/seeds/commit/981a40fdc380d930ebf6ae5e4f8ddc094d9d7eda)
