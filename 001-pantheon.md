@@ -541,6 +541,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Plug: inline namespace, cleanup, build UI earlier (#166)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/aa07fa36dbd8eb0a101c4f66c4c9d0e6b0521a52)
 - [ ] [<code>FirewallPanel: GTK 4 prep, cleanup (#167)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/45a66812d6dd75b4f754a530d6053247daab2b8b)
+- [ ] [<code>FirewallPanel: handle locking internally (#169)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/b2ad3c1b66f6882940b3a41a28bca02f46b2acb1)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -709,6 +710,8 @@
 - [ ] [<code>Build against Switchboard 3 (#580)</code>](https://github.com/elementary/applications-menu/commit/9191ee5a2ee33477515d331b96945d51a13074a9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppContextMenu: update for new Dock (#587)</code>](https://github.com/elementary/applications-menu/commit/d2f6c185e4325afd4633ac0cc08c5de6682479ad)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
