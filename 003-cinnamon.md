@@ -108,29 +108,8 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.3 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.3...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.17 → HEAD](https://github.com/linuxmint/sticky/compare/1.17...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.19 → HEAD](https://github.com/linuxmint/sticky/compare/1.19...HEAD)
 
-- [ ] [<code>Switch build to meson</code>](https://github.com/linuxmint/sticky/commit/be2265e7d6c2eee5bc4a70c4de1cc08b715a947e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Add dbus service file</code>](https://github.com/linuxmint/sticky/commit/8c20d4001107432d6a2a6c4f0338ffcc52948b82)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Add a dbus interface for creating new notes and toggling visibility</code>](https://github.com/linuxmint/sticky/commit/6129693f2415e0fd3e0b0d71940905f2472435f4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>README.md: update to reflect recent changes.</code>](https://github.com/linuxmint/sticky/commit/80a6a81172b8bfc8abe61334bc7a194645d3b63c)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>update icon (#105)</code>](https://github.com/linuxmint/sticky/commit/2c5bf810b55f259acfa02af11f8bf3fc1c959232)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.18</code>](https://github.com/linuxmint/sticky/commit/ffc34f0445a09e7316968f4379f120b9ebc1b2ec)
-  - <sub>Tags: <code>1.18</code></sub>
-- [ ] [<code>note_buffer: Don't use the length variable</code>](https://github.com/linuxmint/sticky/commit/3c62ce7f2f47105760ca20d3742c09a54d1605d5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/8ec680ee7a165c62337ce04d85d323543fd62671)
-- [ ] [<code>Drop generate_desktop_files</code>](https://github.com/linuxmint/sticky/commit/ea862b7bff8dcd6fe32a5468bdf9992cafbc1f64)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>1.19</code>](https://github.com/linuxmint/sticky/commit/878431b7c5a765bd235b7b1fd7cd01e03519506b)
-  - <sub>Tags: <code>1.19</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.01.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.01.1...HEAD)
 
