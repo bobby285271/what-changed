@@ -363,6 +363,8 @@
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/6673c8eed98def8211b82b254536b5754f597424)
 - [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/b08fd2ddc7b5b0846e7e6fa8efd98b1ee81036e9)
 - [ ] [<code>Merge pull request #590 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/4d1c01f2caa2d7d41561e2c1f48fb7ed203a890f)
+- [ ] [<code>Updating translation files for 1.16.0 release.</code>](https://github.com/phase1geo/minder/commit/94008134922d150693ca42d1b952147e093d75e1)
+  - <sub>Tags: <code>1.16.0</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
