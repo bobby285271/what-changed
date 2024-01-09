@@ -397,11 +397,8 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.1...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
-- [ ] [<code>Release 1.1.2 (#188)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7d366f5e4774175be2d7177d1b8486e0c97d7bfe)
-  - <sub>Tags: <code>1.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.3.2 → HEAD](https://github.com/alainm23/planify/compare/4.3.2...HEAD)
 
