@@ -381,6 +381,8 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
 - [ ] [<code>Add missing deeplink handlers</code>](https://github.com/elementary/switchboard-plug-display/commit/54f15bd3a52ebe318cd6bae61ee50e2aeec26030)
+- [ ] [<code>DisplayWidget: Gtk4 prep (#368)</code>](https://github.com/elementary/switchboard-plug-display/commit/4aa3dfec506021674201f6fc96595a4ec667c480)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#363)</code>](https://github.com/elementary/switchboard-plug-display/commit/c021e020cdd7e249deb38eb9cc87ec78d4a1341b)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
