@@ -96,6 +96,7 @@
 - [ ] [<code>Add SystemD units for Autostart (#189)</code>](https://github.com/elementary/dock/commit/70deba9d587837be9bf6e17ba13a419e901892ad)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Launcher: fallback to application-default-icon (#208)</code>](https://github.com/elementary/dock/commit/6eb560af292432e633c50228987dd238cb85191d)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -287,6 +288,7 @@
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard/commit/0ae4663da0feb342961f83c87a1f4edd08c7a41d)
 - [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard/commit/a5a5780f80e7faa747acf99c084f5accd45aff87)
 - [ ] [<code>README: Update executable name (#275)</code>](https://github.com/elementary/switchboard/commit/bb007582ae8701a03bc502731ed7a20e61bbd0a2)
+- [ ] [<code>Application: remove big window handle (#277)</code>](https://github.com/elementary/switchboard/commit/872fcb85b005769b92e19a21d57fd7e5d4b6d73d)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -427,6 +429,7 @@
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
 - [ ] [<code>MainView: Gtk4 prep and cleanup (#366)</code>](https://github.com/elementary/switchboard-plug-network/commit/a69570a2c77bce463cb501e553d01b83a1d99474)
+- [ ] [<code>VPNPage: Gtk4 prep and code style (#367)</code>](https://github.com/elementary/switchboard-plug-network/commit/7957edf3902112b7662f938e5368cd7c2dab485b)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -581,6 +584,7 @@
 - [ ] [<code>Categories: Use bell for notification settings (#1234)</code>](https://github.com/elementary/icons/commit/460609dbe3beef775a95d80b464ae7465198a53d)
 - [ ] [<code>Actions: New document-save icon (#1230)</code>](https://github.com/elementary/icons/commit/452ee49d8a6ad2d043867e1fc31dbd6bf63965e5)
 - [ ] [<code>Actions: Grid-align some symbolic icons (#1231)</code>](https://github.com/elementary/icons/commit/c4b7a2442708787acd75499d2fe3144fb82a35c9)
+- [ ] [<code>Add media-eject-symbolic 24px (#1225)</code>](https://github.com/elementary/icons/commit/edd4e3d0a42bb599c208f5a016da0598d9093d44)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -608,6 +612,7 @@
 - [ ] [<code>Move some media-keys from static to their normal versions (#288)</code>](https://github.com/elementary/default-settings/commit/86ed77d978ee517b8ed77dbaefda3e1359f63d2d)
 - [ ] [<code>Override `switch-group` and `switch-group-backward` (#287)</code>](https://github.com/elementary/default-settings/commit/6c5bbff3edcbe020e9decdd71ea11f799ef0097f)
 - [ ] [<code>GSD: Remove volume shortcuts (#297)</code>](https://github.com/elementary/default-settings/commit/2d246b160463f30f7bf0f34402b8579547097d7a)
+- [ ] [<code>Disable "You are now offline" notifications (#290)</code>](https://github.com/elementary/default-settings/commit/f60cbd0c85ad4ea8670375614a2a6392061ac9a6)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -778,6 +783,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Replace Gtk.Widget.get_style_context deprecated in Gtk 4.10 (#672)</code>](https://github.com/elementary/granite/commit/264cdc509ebd79bcc374f3d44802434a97762e80)
 - [ ] [<code>CSSView: Update title class name label (#675)</code>](https://github.com/elementary/granite/commit/9a58858fed8283bcf74c94d3c48bb0ea4f493f4c)
+- [ ] [<code>Make granite-demo optional (#676)</code>](https://github.com/elementary/granite/commit/978d80f1e7a944fb900c54c3aff640aac869291b)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
