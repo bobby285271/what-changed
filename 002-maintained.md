@@ -263,6 +263,9 @@
 - [ ] [<code>Merge pull request #594 from albanobattistella/patch-30</code>](https://github.com/phase1geo/minder/commit/1f573720b295d5a39b920f4b7233e9afe6f330f2)
 - [ ] [<code>Fixing issue where deleting multiple nodes does not propagate task info.</code>](https://github.com/phase1geo/minder/commit/7b52b249dc5d88d9f987ef68c77b25735571b32a)
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/bd57b59dccb1b6769df5eeed0ad3c0df38e50674)
+- [ ] [<code>Fixing issue with undo of multiple nodes being deleted.</code>](https://github.com/phase1geo/minder/commit/f2a7f47ff2d65c0350d3f9fe5e7fce54a23d0792)
+- [ ] [<code>Fixing issue with last commit.</code>](https://github.com/phase1geo/minder/commit/11e801ac7441612c6d90d3dd981a8b91e860dc52)
+- [ ] [<code>Fixing layout issue when multiple nodes deleted.</code>](https://github.com/phase1geo/minder/commit/586d20b551252188676fe1ea55f76dd210db0d26)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -302,8 +305,21 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.3.2 → HEAD](https://github.com/alainm23/planify/compare/4.3.2...HEAD)
 
+- [ ] [<code>Improve drag-and-drop functionality</code>](https://github.com/alainm23/planify/commit/4fbecb754d16851308d6891aed3403d3df6c9cc0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/385c30183bd343636f83ece473bc046a6c222e93)
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/457e2f047b4297351849858ba9c1a155f33f42b9)
+- [ ] [<code>Improve DnD</code>](https://github.com/alainm23/planify/commit/fdf693fa3f38fa7ea4f6d7e09b1bca8dc9091f0b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/cede3a8dc6ae723d967eff9741495daa9dbed604)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>improve dnd</code>](https://github.com/alainm23/planify/commit/52ca3505051c41293de3beccc9f10cdd45cf4653)
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/6b5772eca4bab2dbfc6849c62d0f7cb9433840f9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improve Quick Add and project child and order</code>](https://github.com/alainm23/planify/commit/4d75d598b72e05ab1428810f122454e39a3f59fa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update Turkish translation</code>](https://github.com/alainm23/planify/commit/e7834c1def2835e0424f16c97c39319fda5c8ae2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/24a27ec84f1fbcf3bd775953721f7c14701b77c6)
@@ -311,9 +327,39 @@
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/ab74fa68428e83383536af4738558124da184ab0)
 - [ ] [<code>add language pt_PT</code>](https://github.com/alainm23/planify/commit/3e3a4e0c7168726101dabfebae22307f72cb71e1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve MultiSelect toolbar</code>](https://github.com/alainm23/planify/commit/c28c738170f62b23bfbc5864198fff138f0fd5d1)
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1093 from godinhoana54/master</code>](https://github.com/alainm23/planify/commit/273fd8ffd4e3121f7e7724cfd0b24598f86e65ed)
 - [ ] [<code>Merge pull request #1092 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/7cbe8c8f1d7d5e3edbed0aa30f431439731859a2)
 - [ ] [<code>Merge pull request #1090 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/ef20b8ec7a4ce0e158b935d154cc4d847084d4de)
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/3fc4f3a0d02961b6d4be2bba430232c312377ebf)
+- [ ] [<code>Fix #1091</code>](https://github.com/alainm23/planify/commit/a5f90aa85ab392117d203a6020468eefe7477c7a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Add ItemBoard</code>](https://github.com/alainm23/planify/commit/8bd0272836911d34ae934b49712c634b24f834e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/46cae293b051a18c48ec75dde958bd29969625fc)
+- [ ] [<code>Improve Section Board</code>](https://github.com/alainm23/planify/commit/e57d62d0267a4be711d170e90018bad13a32a5c4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve projects dnd</code>](https://github.com/alainm23/planify/commit/8c762f1e7de997cc88f1bdfafc953ea302b231d6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Pre 4.4</code>](https://github.com/alainm23/planify/commit/7bd58492dd89caa7b1b3b202a53e8045a3a516e0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translate</code>](https://github.com/alainm23/planify/commit/18af0d31c41200f2c5a311823e619989d6070140)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.4</code>](https://github.com/alainm23/planify/commit/9edf50d5901fe8cafc38140e9d645eae78a8e9d3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1101 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/3ac5bae95114359c67b3ba7fc46f9d7c0ca94261)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 4.4</code>](https://github.com/alainm23/planify/commit/d8ae5230edb8cb3a6f6a1ca1c61dcc32c5243f55)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update release date</code>](https://github.com/alainm23/planify/commit/1471e0db85b806e4dd5a58b17459f38a35d7543b)
+  - <sub>Tags: <code>4.4</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
