@@ -51,6 +51,10 @@
 - [ ] [<code>Skip New Documents when disambiguating tabs (#1391)</code>](https://github.com/elementary/code/commit/4160786b90090b66c15ba6198b96cd5d9df733af)
 - [ ] [<code>Synchronise and save symbol outline width. (#1389)</code>](https://github.com/elementary/code/commit/742b31f54b65e4d6dfb72ba387fe144ea36101d6)
 - [ ] [<code>Refocus textview after Escape pressed in Search (#1388)</code>](https://github.com/elementary/code/commit/344f1f8718aa152261b13c259841654030de62c8)
+- [ ] [<code>Fuzzy finder (#1393)</code>](https://github.com/elementary/code/commit/5b67e6b1b8c4b7b37c1d2f0d8ebc9d7d3acc0d2e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Make fuzzy-find less fuzzy in some respects (#1397)</code>](https://github.com/elementary/code/commit/12d8322a442a28d95f8010f342fbffa6efec3d55)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -432,6 +436,9 @@
 
 - [ ] [<code>MainView: Gtk4 prep and cleanup (#366)</code>](https://github.com/elementary/switchboard-plug-network/commit/a69570a2c77bce463cb501e553d01b83a1d99474)
 - [ ] [<code>VPNPage: Gtk4 prep and code style (#367)</code>](https://github.com/elementary/switchboard-plug-network/commit/7957edf3902112b7662f938e5368cd7c2dab485b)
+- [ ] [<code>Dialogs use present and response (#369)</code>](https://github.com/elementary/switchboard-plug-network/commit/54c3b18698ca07bd174891d98a6986fb6981560d)
+- [ ] [<code>MainView: absorb DeviceList (#368)</code>](https://github.com/elementary/switchboard-plug-network/commit/2e182541f9c830e668ebe4e10de6ed0bc50c462a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -486,6 +493,7 @@
 - [ ] [<code>Wallpaper: Gtk4 prep (#381)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/cbb5ea98596fb3703a241dc7a31482bc2dd1ebee)
 - [ ] [<code>fix(wallpaper): change wallpaper for dark theme settings (#382)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bf638f3995b9a479f73e8ce7a035f01ce37e24be)
 - [ ] [<code>WallpaperContainer: Gtk4 prep (#376)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/132c1dcb0925bb79148f9fe06e30521068133fb6)
+- [ ] [<code>Appearance: GTK4 prep (#384)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/877c08e552b344ff98d279fd9bcfe9162b394099)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -540,6 +548,10 @@
 - [ ] [<code>Plug: inline namespace, cleanup, build UI earlier (#166)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/aa07fa36dbd8eb0a101c4f66c4c9d0e6b0521a52)
 - [ ] [<code>FirewallPanel: GTK 4 prep, cleanup (#167)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/45a66812d6dd75b4f754a530d6053247daab2b8b)
 - [ ] [<code>FirewallPanel: handle locking internally (#169)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/b2ad3c1b66f6882940b3a41a28bca02f46b2acb1)
+- [ ] [<code>Port to Gtk 4 (#138)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8d43f70ec272b41b28f2eb343e5c1b28d205cb71)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/288ade2877d2082376df81d2bb8da77f320836d3)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
