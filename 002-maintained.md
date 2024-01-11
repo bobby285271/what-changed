@@ -266,6 +266,10 @@
 - [ ] [<code>Fixing issue with undo of multiple nodes being deleted.</code>](https://github.com/phase1geo/minder/commit/f2a7f47ff2d65c0350d3f9fe5e7fce54a23d0792)
 - [ ] [<code>Fixing issue with last commit.</code>](https://github.com/phase1geo/minder/commit/11e801ac7441612c6d90d3dd981a8b91e860dc52)
 - [ ] [<code>Fixing layout issue when multiple nodes deleted.</code>](https://github.com/phase1geo/minder/commit/586d20b551252188676fe1ea55f76dd210db0d26)
+- [ ] [<code>Preparing source files for 1.16.1 release</code>](https://github.com/phase1geo/minder/commit/6b9de839b0ec74f1eb69ecfb7fb43830906cf26a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/a8cb107028b407695f1590813b400ab02216eff9)
+  - <sub>Tags: <code>1.16.1</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -360,6 +364,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update release date</code>](https://github.com/alainm23/planify/commit/1471e0db85b806e4dd5a58b17459f38a35d7543b)
   - <sub>Tags: <code>4.4</code></sub>
+- [ ] [<code>Fix lint</code>](https://github.com/alainm23/planify/commit/14377e2ba34ccf32ff2af3fbae18bd852d0d95fc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update screenshot</code>](https://github.com/alainm23/planify/commit/b0d21d71630e980366d89e95f82498dd89b47835)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
