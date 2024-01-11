@@ -965,3 +965,4 @@
 - [ ] [<code>Desktop: Add Settings → System (#112)</code>](https://github.com/elementary/seeds/commit/df918cb1c5a7b2606bbca2940f5f0aa9ba5508cd)
 - [ ] [<code>Desktop: add settings.useraccounts (#113)</code>](https://github.com/elementary/seeds/commit/e984d96df7bd83666901819f5f3eadb3ebbadbeb)
 - [ ] [<code>Desktop: parental-controls → screentime-limits (#114)</code>](https://github.com/elementary/seeds/commit/981a40fdc380d930ebf6ae5e4f8ddc094d9d7eda)
+- [ ] [<code>Desktop switchboard-security-privacy → settings.security-privacy (#115)</code>](https://github.com/elementary/seeds/commit/5c21e681040d956181985ec330dc94bf06924327)
