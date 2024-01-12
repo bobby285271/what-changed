@@ -391,6 +391,7 @@
 - [ ] [<code>Add missing deeplink handlers</code>](https://github.com/elementary/switchboard-plug-display/commit/54f15bd3a52ebe318cd6bae61ee50e2aeec26030)
 - [ ] [<code>DisplayWidget: Gtk4 prep (#368)</code>](https://github.com/elementary/switchboard-plug-display/commit/4aa3dfec506021674201f6fc96595a4ec667c480)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#363)</code>](https://github.com/elementary/switchboard-plug-display/commit/c021e020cdd7e249deb38eb9cc87ec78d4a1341b)
+- [ ] [<code>DisplaysOverlay: keep a list of widgets (#370)</code>](https://github.com/elementary/switchboard-plug-display/commit/bd5f012d1731c9f87437df2578553298060672d5)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -442,6 +443,9 @@
 - [ ] [<code>VPNPage: Gtk4 prep and code style (#367)</code>](https://github.com/elementary/switchboard-plug-network/commit/7957edf3902112b7662f938e5368cd7c2dab485b)
 - [ ] [<code>Dialogs use present and response (#369)</code>](https://github.com/elementary/switchboard-plug-network/commit/54c3b18698ca07bd174891d98a6986fb6981560d)
 - [ ] [<code>MainView: absorb DeviceList (#368)</code>](https://github.com/elementary/switchboard-plug-network/commit/2e182541f9c830e668ebe4e10de6ed0bc50c462a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ProxyExceptionsPage: GTK4 prep (#383)</code>](https://github.com/elementary/switchboard-plug-network/commit/67fb8e7843c729fd84ce3be4f55eb8be67012960)
+- [ ] [<code>MainView: absorb footer (#382)</code>](https://github.com/elementary/switchboard-plug-network/commit/073ac7433acb567f2c2025d5e04de1a03b89d407)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
