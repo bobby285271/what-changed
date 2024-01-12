@@ -55,6 +55,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Make fuzzy-find less fuzzy in some respects (#1397)</code>](https://github.com/elementary/code/commit/12d8322a442a28d95f8010f342fbffa6efec3d55)
+- [ ] [<code>Update metainfo for 7.2.0 (#1400)</code>](https://github.com/elementary/code/commit/4ebb2d506d5f02a98a67ad75df6273a71c1e1162)
+- [ ] [<code>Allow match start not at beginning (#1399)</code>](https://github.com/elementary/code/commit/24b52a004d61acdd553d9889444fee8923d2c74c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -112,6 +114,8 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
 - [ ] [<code>Support .hidden file (#2362)</code>](https://github.com/elementary/files/commit/9e025b265d7afefcd671c2c515ebcabf4ff3fc14)
+- [ ] [<code>[Gtk4 Prep] IconView: Remove deprecated, cleanup (#2364)</code>](https://github.com/elementary/files/commit/94674269c797dcdcd92986ef6d0dcca0e2006d9c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
