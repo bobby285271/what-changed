@@ -270,6 +270,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/a8cb107028b407695f1590813b400ab02216eff9)
   - <sub>Tags: <code>1.16.1</code></sub>
+- [ ] [<code>Fixing issue with favorited stickers.</code>](https://github.com/phase1geo/minder/commit/232285aaec65e898884c4aa9f56b3c16f84e92be)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
