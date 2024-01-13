@@ -573,6 +573,8 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/288ade2877d2082376df81d2bb8da77f320836d3)
 - [ ] [<code>policy: Do not specify the gettext-domain (#170)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/9bb0aaecb5388efafc62d7d5862e78257d451654)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>policy: Fix removed configure_file by mistake (#171)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/815cdd56e46b0ab964a6ddde70ddfe4a7757d9cf)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
