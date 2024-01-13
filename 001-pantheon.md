@@ -57,6 +57,7 @@
 - [ ] [<code>Make fuzzy-find less fuzzy in some respects (#1397)</code>](https://github.com/elementary/code/commit/12d8322a442a28d95f8010f342fbffa6efec3d55)
 - [ ] [<code>Update metainfo for 7.2.0 (#1400)</code>](https://github.com/elementary/code/commit/4ebb2d506d5f02a98a67ad75df6273a71c1e1162)
 - [ ] [<code>Allow match start not at beginning (#1399)</code>](https://github.com/elementary/code/commit/24b52a004d61acdd553d9889444fee8923d2c74c)
+- [ ] [<code>Save and restore terminal pane state (#1401)</code>](https://github.com/elementary/code/commit/776b864df008cc0487098b90726fe428267188af)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -116,6 +117,8 @@
 - [ ] [<code>Support .hidden file (#2362)</code>](https://github.com/elementary/files/commit/9e025b265d7afefcd671c2c515ebcabf4ff3fc14)
 - [ ] [<code>[Gtk4 Prep] IconView: Remove deprecated, cleanup (#2364)</code>](https://github.com/elementary/files/commit/94674269c797dcdcd92986ef6d0dcca0e2006d9c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>[Gtk4Prep]ColumnView: No EventButton (#2371)</code>](https://github.com/elementary/files/commit/1e1df20d82e083969906e58edca304bc51d0c2ec)
+- [ ] [<code>[GtkPrep] Views: DRY zoom functions (#2369)</code>](https://github.com/elementary/files/commit/463f462762d7b904f22df6db16e4f52f87bdd5c8)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -447,6 +450,10 @@
 - [ ] [<code>ProxyExceptionsPage: GTK4 prep (#383)</code>](https://github.com/elementary/switchboard-plug-network/commit/67fb8e7843c729fd84ce3be4f55eb8be67012960)
 - [ ] [<code>MainView: absorb footer (#382)</code>](https://github.com/elementary/switchboard-plug-network/commit/073ac7433acb567f2c2025d5e04de1a03b89d407)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>VPNInfoDialog: use Granite.HeaderLabel (#381)</code>](https://github.com/elementary/switchboard-plug-network/commit/d18b1e4263c72e5781c7dbe9319e15d37fc93e9c)
+- [ ] [<code>ProxyConfigurationPage: Clean up and DRY (#384)</code>](https://github.com/elementary/switchboard-plug-network/commit/07db504c5091962c7513e127a980572b2aeca4bc)
+  - <sub>Keywords: <code>org.gnome.system</code></sub>
+- [ ] [<code>VPNPage: set status through page (#385)</code>](https://github.com/elementary/switchboard-plug-network/commit/71ff4bbfdbc6e989383bfb89478c8585d4a964dd)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -502,6 +509,10 @@
 - [ ] [<code>fix(wallpaper): change wallpaper for dark theme settings (#382)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bf638f3995b9a479f73e8ce7a035f01ce37e24be)
 - [ ] [<code>WallpaperContainer: Gtk4 prep (#376)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/132c1dcb0925bb79148f9fe06e30521068133fb6)
 - [ ] [<code>Appearance: GTK4 prep (#384)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/877c08e552b344ff98d279fd9bcfe9162b394099)
+- [ ] [<code>Port to GTK 4 (#377)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/c11e4abe47cf7cb55cf86a995fe44d4efc7a3859)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7254af2375b29922cd70767b7b096f854035caf6)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -560,6 +571,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/288ade2877d2082376df81d2bb8da77f320836d3)
+- [ ] [<code>policy: Do not specify the gettext-domain (#170)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/9bb0aaecb5388efafc62d7d5862e78257d451654)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -703,6 +716,9 @@
 - [ ] [<code>Revert "BackgroundManager: Don't position background actors" (#1814)</code>](https://github.com/elementary/gala/commit/fe1918dee27f667bf2dbdad7df3c85ffa7f7213d)
 - [ ] [<code>Show notifications on the left in RTL languages (#1812)</code>](https://github.com/elementary/gala/commit/7de779cc068b7fdc10a7ab80aca0569c8ff70a80)
 - [ ] [<code>Add an option to disable hotcorners in fullscreen (#1806)</code>](https://github.com/elementary/gala/commit/c62024acd20c2b82bffac960e9239aea9624eb3a)
+- [ ] [<code>Add support for Mutter 46 (#1825)</code>](https://github.com/elementary/gala/commit/155076146519bf25345edc152cdf85cf72922115)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
