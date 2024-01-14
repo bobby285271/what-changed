@@ -274,6 +274,8 @@
 - [ ] [<code>Adding support for Shift-L to change link color of selected nodes.</code>](https://github.com/phase1geo/minder/commit/ac9765e03b98183afd37ecf6f719d7b34cb05f70)
 - [ ] [<code>Attempting to fix issues with properly inheriting task from parent.</code>](https://github.com/phase1geo/minder/commit/1272e1d96d6d49085757c302cc51963d447d3cd0)
 - [ ] [<code>Adding shortcut for "Set to color" menu options.</code>](https://github.com/phase1geo/minder/commit/6f54efb01dae7ced886fdf289c943a3089dd5bc7)
+- [ ] [<code>Adding support for natural scrolling preference</code>](https://github.com/phase1geo/minder/commit/5582c21a8f097625e1aa37234415b87dae3be4ca)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
