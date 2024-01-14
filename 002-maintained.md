@@ -276,6 +276,8 @@
 - [ ] [<code>Adding shortcut for "Set to color" menu options.</code>](https://github.com/phase1geo/minder/commit/6f54efb01dae7ced886fdf289c943a3089dd5bc7)
 - [ ] [<code>Adding support for natural scrolling preference</code>](https://github.com/phase1geo/minder/commit/5582c21a8f097625e1aa37234415b87dae3be4ca)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Fixing middle mouse button panning to use new natural scrolling mode.</code>](https://github.com/phase1geo/minder/commit/5d9e8801713162ee8d3530694b5bd264b0c50898)
+- [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/52163ee860254e3b45ecc3ff48f412d7085daf50)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
