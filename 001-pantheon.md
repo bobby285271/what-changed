@@ -665,6 +665,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Allow focusing PageChecker, scroll to View when it contains focus (#218)</code>](https://github.com/elementary/onboarding/commit/31d50845627e6379bd9088bd62ef64617314dcb9)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#220)</code>](https://github.com/elementary/onboarding/commit/4d21e3f46a4d9163715e2e92d5f731af15d92cff)
+- [ ] [<code>Application: use Granite.init (#222)</code>](https://github.com/elementary/onboarding/commit/7cdc8aae44674ddfc3a7f5f24594ea301fcab779)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -992,3 +993,4 @@
 - [ ] [<code>Desktop: add settings.useraccounts (#113)</code>](https://github.com/elementary/seeds/commit/e984d96df7bd83666901819f5f3eadb3ebbadbeb)
 - [ ] [<code>Desktop: parental-controls → screentime-limits (#114)</code>](https://github.com/elementary/seeds/commit/981a40fdc380d930ebf6ae5e4f8ddc094d9d7eda)
 - [ ] [<code>Desktop switchboard-security-privacy → settings.security-privacy (#115)</code>](https://github.com/elementary/seeds/commit/5c21e681040d956181985ec330dc94bf06924327)
+- [ ] [<code>Desktop: switchboard-pantheon-shell → settings.desktop (#116)</code>](https://github.com/elementary/seeds/commit/37452ebba953eacde0ac10ee9ceb918779a93486)
