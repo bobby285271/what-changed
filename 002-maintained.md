@@ -278,6 +278,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Fixing middle mouse button panning to use new natural scrolling mode.</code>](https://github.com/phase1geo/minder/commit/5d9e8801713162ee8d3530694b5bd264b0c50898)
 - [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/52163ee860254e3b45ecc3ff48f412d7085daf50)
+- [ ] [<code>Fixing issue with node link tooltip display when linked node deleted.</code>](https://github.com/phase1geo/minder/commit/cc35cdbb5525012b8e44d785f6f496b750297901)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -321,6 +322,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update screenshot</code>](https://github.com/alainm23/planify/commit/b0d21d71630e980366d89e95f82498dd89b47835)
+- [ ] [<code>Change strings to title case and remove periods</code>](https://github.com/alainm23/planify/commit/a4d7eb518066a2587fc7a253316f8fa60f979b31)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Remove accidental newline</code>](https://github.com/alainm23/planify/commit/30e73a5aefd38d6a307ea86616623aeb1e4d9215)
+- [ ] [<code>Merge pull request #1103 from MonsterObserver/consistent-text</code>](https://github.com/alainm23/planify/commit/fb50d882b65ab9f38ca06446e0f640b8a4ca36cf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
