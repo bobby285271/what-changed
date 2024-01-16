@@ -58,6 +58,7 @@
 - [ ] [<code>Update metainfo for 7.2.0 (#1400)</code>](https://github.com/elementary/code/commit/4ebb2d506d5f02a98a67ad75df6273a71c1e1162)
 - [ ] [<code>Allow match start not at beginning (#1399)</code>](https://github.com/elementary/code/commit/24b52a004d61acdd553d9889444fee8923d2c74c)
 - [ ] [<code>Save and restore terminal pane state (#1401)</code>](https://github.com/elementary/code/commit/776b864df008cc0487098b90726fe428267188af)
+- [ ] [<code>Update metainfo for latest commit (#1404)</code>](https://github.com/elementary/code/commit/4a91b84e60b4c99ae48ff3f634df1f0444bf3da1)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -119,6 +120,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>[Gtk4Prep]ColumnView: No EventButton (#2371)</code>](https://github.com/elementary/files/commit/1e1df20d82e083969906e58edca304bc51d0c2ec)
 - [ ] [<code>[GtkPrep] Views: DRY zoom functions (#2369)</code>](https://github.com/elementary/files/commit/463f462762d7b904f22df6db16e4f52f87bdd5c8)
+- [ ] [<code>[Gtk4Prep] Views: DRY some scroll select  & focus functions (#2370)</code>](https://github.com/elementary/files/commit/1f5709cbfb53cdb25bbc1e57f224200106658d1c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -236,6 +238,8 @@
 - [ ] [<code>MainWindow: Move Actions and Keyboard Handling Related to The View to TerminalWidget (#749)</code>](https://github.com/elementary/terminal/commit/beabb949dbfbb7af1954975ed80e5988b6711d66)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>TerminalWidget: Stop Scroll Controller When Keyboard Focus is Lost (#750)</code>](https://github.com/elementary/terminal/commit/b9195295d6cc850a84ec0fa5f0471e4d2f956301)
+- [ ] [<code>Fix unwanted extra tab  (#743)</code>](https://github.com/elementary/terminal/commit/501e68919e518f2646475d4d7c5b8e6c69eccdf2)
+  - <sub>Keywords: <code>commandline</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -614,6 +618,7 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
 
+- [ ] [<code>Remove styles covered by Granite (#1277)</code>](https://github.com/elementary/stylesheet/commit/ece44ba503279ad81316a29f0f5386a37728ed3f)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
