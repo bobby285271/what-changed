@@ -331,6 +331,13 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Remove accidental newline</code>](https://github.com/alainm23/planify/commit/30e73a5aefd38d6a307ea86616623aeb1e4d9215)
 - [ ] [<code>Merge pull request #1103 from MonsterObserver/consistent-text</code>](https://github.com/alainm23/planify/commit/fb50d882b65ab9f38ca06446e0f640b8a4ca36cf)
+- [ ] [<code>appdata: Update appdata</code>](https://github.com/alainm23/planify/commit/16f09b812b4ae852f10c94c576a5d6721bd81bcf)
+- [ ] [<code>Merge pull request #1107 from sabriunal/fix-appdata</code>](https://github.com/alainm23/planify/commit/fbc90bc69122d4388498ffcc04e8ed89e0232f58)
+- [ ] [<code>Update po files</code>](https://github.com/alainm23/planify/commit/9d43e5a40cc8ab6828f02611d68e69252f833a43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>po: Update Turkish translation</code>](https://github.com/alainm23/planify/commit/80f5e0b4654b1b23b5ff2c83463df79c39b96100)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1109 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/25d44f8547e9b66f4e39330ab614e586fdb21c09)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
