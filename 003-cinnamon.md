@@ -13,6 +13,9 @@
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
+- [ ] [<code>gnome-idle-monitor.c: Fix some dbus names Mutter->Muffin.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/d0f8c74a7864786cf040da31c7db83d8d2fcc5e4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
