@@ -287,6 +287,8 @@
 - [ ] [<code>Updating.</code>](https://github.com/phase1geo/minder/commit/9d410ea45ffc3f1d0e31c267d3c62b73417f3ad6)
   - <sub>Tags: <code>1.16.2</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/461e6b244a63bf2d3ad70ade8f59ab84253196f0)
+- [ ] [<code>Merge pull request #601 from albanobattistella/patch-31</code>](https://github.com/phase1geo/minder/commit/33de638ce088fa6fdaa729c5a0fa1dc6ecfb4454)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
