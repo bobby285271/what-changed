@@ -59,6 +59,7 @@
 - [ ] [<code>Allow match start not at beginning (#1399)</code>](https://github.com/elementary/code/commit/24b52a004d61acdd553d9889444fee8923d2c74c)
 - [ ] [<code>Save and restore terminal pane state (#1401)</code>](https://github.com/elementary/code/commit/776b864df008cc0487098b90726fe428267188af)
 - [ ] [<code>Update metainfo for latest commit (#1404)</code>](https://github.com/elementary/code/commit/4a91b84e60b4c99ae48ff3f634df1f0444bf3da1)
+- [ ] [<code>Empty string used instead of null when triggering open folder action in welcome view (#1407)</code>](https://github.com/elementary/code/commit/1279b119a7890690516d3205075a4cad95d4f641)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -121,6 +122,7 @@
 - [ ] [<code>[Gtk4Prep]ColumnView: No EventButton (#2371)</code>](https://github.com/elementary/files/commit/1e1df20d82e083969906e58edca304bc51d0c2ec)
 - [ ] [<code>[GtkPrep] Views: DRY zoom functions (#2369)</code>](https://github.com/elementary/files/commit/463f462762d7b904f22df6db16e4f52f87bdd5c8)
 - [ ] [<code>[Gtk4Prep] Views: DRY some scroll select  & focus functions (#2370)</code>](https://github.com/elementary/files/commit/1f5709cbfb53cdb25bbc1e57f224200106658d1c)
+- [ ] [<code>[Gtk4Prep] Slots cleanup Gtk4prep (#2366)</code>](https://github.com/elementary/files/commit/8037cbf5a45ae7b87b4159d24cb14ca1dcf43bf4)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -371,6 +373,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update gettext.yml (#212)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/20b881cc31970fff46562fba84c0eb39440f03fb)
 - [ ] [<code>Update githubci.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/03c2e765c705f701967a385a073010031c1afd59)
+- [ ] [<code>DeviceRow: center valign buttons (#215)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/1721aed9689e14bf9847d07f5fe415e595d3bfa6)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -727,6 +730,8 @@
 - [ ] [<code>Add support for Mutter 46 (#1825)</code>](https://github.com/elementary/gala/commit/155076146519bf25345edc152cdf85cf72922115)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove content.set_rounded_clip_bounds (#1819)</code>](https://github.com/elementary/gala/commit/943d2c111fc203c7a5adf692e25950312a9ab848)
+- [ ] [<code>Use event time instead of META_CURRENT_TIME (#1828)</code>](https://github.com/elementary/gala/commit/a6de96702c193450a7669f2fb2adc56da13d747a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
