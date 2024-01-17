@@ -425,6 +425,7 @@
 - [ ] [<code>Layout: Gtk4 prep, a11y (#489)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/ee24d7101e4fcb17ba7ca5e9ef4591209f1c54b9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use new sound indicator keys (#492)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/925c8be416daa5d4a8e65b963c12bd8daf4929d8)
+- [ ] [<code>CustomShortcutListBox: GTK4 prep (#495)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c06ca816b2efdab42288237349167e396b88d86b)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
