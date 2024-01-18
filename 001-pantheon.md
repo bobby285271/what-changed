@@ -60,6 +60,7 @@
 - [ ] [<code>Save and restore terminal pane state (#1401)</code>](https://github.com/elementary/code/commit/776b864df008cc0487098b90726fe428267188af)
 - [ ] [<code>Update metainfo for latest commit (#1404)</code>](https://github.com/elementary/code/commit/4a91b84e60b4c99ae48ff3f634df1f0444bf3da1)
 - [ ] [<code>Empty string used instead of null when triggering open folder action in welcome view (#1407)</code>](https://github.com/elementary/code/commit/1279b119a7890690516d3205075a4cad95d4f641)
+- [ ] [<code>[Feature]Implement "open-in-terminal" action (#1405)</code>](https://github.com/elementary/code/commit/2071494e180d6bdc4f4d86ddedd0a7aaf19ef266)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -123,6 +124,7 @@
 - [ ] [<code>[GtkPrep] Views: DRY zoom functions (#2369)</code>](https://github.com/elementary/files/commit/463f462762d7b904f22df6db16e4f52f87bdd5c8)
 - [ ] [<code>[Gtk4Prep] Views: DRY some scroll select  & focus functions (#2370)</code>](https://github.com/elementary/files/commit/1f5709cbfb53cdb25bbc1e57f224200106658d1c)
 - [ ] [<code>[Gtk4Prep] Slots cleanup Gtk4prep (#2366)</code>](https://github.com/elementary/files/commit/8037cbf5a45ae7b87b4159d24cb14ca1dcf43bf4)
+- [ ] [<code>[Gtk4Prep] Viewcontainer cleanup and prepare for Gtk4 (#2367)</code>](https://github.com/elementary/files/commit/e58b3fd387aa71d65d66e478bb4e1597a835e3d0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -426,6 +428,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use new sound indicator keys (#492)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/925c8be416daa5d4a8e65b963c12bd8daf4929d8)
 - [ ] [<code>CustomShortcutListBox: GTK4 prep (#495)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c06ca816b2efdab42288237349167e396b88d86b)
+- [ ] [<code>ListBoxes: don't subclass (#494)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3e2287c0fa730d2dacee85a67b2c794897fdbf88)
+- [ ] [<code>Use get_row_at_index (#493)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0e7c21f3b35ccf7fd9a61baea75e8a26d7f3665d)
+- [ ] [<code>InputMethod: GTK4 prep (#496)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/f096ded36cadf423791cdc12f4103c85792d3e6e)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -462,6 +467,8 @@
 - [ ] [<code>ProxyConfigurationPage: Clean up and DRY (#384)</code>](https://github.com/elementary/switchboard-plug-network/commit/07db504c5091962c7513e127a980572b2aeca4bc)
   - <sub>Keywords: <code>org.gnome.system</code></sub>
 - [ ] [<code>VPNPage: set status through page (#385)</code>](https://github.com/elementary/switchboard-plug-network/commit/71ff4bbfdbc6e989383bfb89478c8585d4a964dd)
+- [ ] [<code>WifiPage: GTK4 prep and cleanup (#386)</code>](https://github.com/elementary/switchboard-plug-network/commit/de5920369a38dc351f78c3bcbff621ffda6a52a5)
+- [ ] [<code>InfoBox: GTK4 prep, code style (#387)</code>](https://github.com/elementary/switchboard-plug-network/commit/f1af91714bc0b9ce412dd6d4deaf5eedff21e64f)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -623,6 +630,9 @@
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
 
 - [ ] [<code>Remove styles covered by Granite (#1277)</code>](https://github.com/elementary/stylesheet/commit/ece44ba503279ad81316a29f0f5386a37728ed3f)
+- [ ] [<code>Fix destructive menuitem</code>](https://github.com/elementary/stylesheet/commit/e1b9d7ea749c9c697cfba9882285ade443b13b61)
+- [ ] [<code>make suggested extend default</code>](https://github.com/elementary/stylesheet/commit/e134f65aed74af95253a114508adc21de697b2bd)
+- [ ] [<code>Revert making deault same as suggested action</code>](https://github.com/elementary/stylesheet/commit/db6eb6dc8b01cb23b18f0213470524890575bd18)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
