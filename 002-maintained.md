@@ -256,37 +256,8 @@
 - [ ] [<code>appdata: Improve appdata for AppStream 1.0 (#139)</code>](https://github.com/lainsce/khronos/commit/631d9b50d335855ac53040422db6ecb46563915f)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [minder](https://github.com/phase1geo/minder): [1.16.0 → HEAD](https://github.com/phase1geo/minder/compare/1.16.0...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.16.2 → HEAD](https://github.com/phase1geo/minder/compare/1.16.2...HEAD)
 
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/d210695bbad7f7086d2d173ef4acc008ff11da5a)
-- [ ] [<code>Quick Entry improvements</code>](https://github.com/phase1geo/minder/commit/581e7ead445642aaacadc4e5391fefbdf8812672)
-- [ ] [<code>Merge pull request #594 from albanobattistella/patch-30</code>](https://github.com/phase1geo/minder/commit/1f573720b295d5a39b920f4b7233e9afe6f330f2)
-- [ ] [<code>Fixing issue where deleting multiple nodes does not propagate task info.</code>](https://github.com/phase1geo/minder/commit/7b52b249dc5d88d9f987ef68c77b25735571b32a)
-- [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/bd57b59dccb1b6769df5eeed0ad3c0df38e50674)
-- [ ] [<code>Fixing issue with undo of multiple nodes being deleted.</code>](https://github.com/phase1geo/minder/commit/f2a7f47ff2d65c0350d3f9fe5e7fce54a23d0792)
-- [ ] [<code>Fixing issue with last commit.</code>](https://github.com/phase1geo/minder/commit/11e801ac7441612c6d90d3dd981a8b91e860dc52)
-- [ ] [<code>Fixing layout issue when multiple nodes deleted.</code>](https://github.com/phase1geo/minder/commit/586d20b551252188676fe1ea55f76dd210db0d26)
-- [ ] [<code>Preparing source files for 1.16.1 release</code>](https://github.com/phase1geo/minder/commit/6b9de839b0ec74f1eb69ecfb7fb43830906cf26a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/a8cb107028b407695f1590813b400ab02216eff9)
-  - <sub>Tags: <code>1.16.1</code></sub>
-- [ ] [<code>Fixing issue with favorited stickers.</code>](https://github.com/phase1geo/minder/commit/232285aaec65e898884c4aa9f56b3c16f84e92be)
-- [ ] [<code>Adding support for Shift-L to change link color of selected nodes.</code>](https://github.com/phase1geo/minder/commit/ac9765e03b98183afd37ecf6f719d7b34cb05f70)
-- [ ] [<code>Attempting to fix issues with properly inheriting task from parent.</code>](https://github.com/phase1geo/minder/commit/1272e1d96d6d49085757c302cc51963d447d3cd0)
-- [ ] [<code>Adding shortcut for "Set to color" menu options.</code>](https://github.com/phase1geo/minder/commit/6f54efb01dae7ced886fdf289c943a3089dd5bc7)
-- [ ] [<code>Adding support for natural scrolling preference</code>](https://github.com/phase1geo/minder/commit/5582c21a8f097625e1aa37234415b87dae3be4ca)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Fixing middle mouse button panning to use new natural scrolling mode.</code>](https://github.com/phase1geo/minder/commit/5d9e8801713162ee8d3530694b5bd264b0c50898)
-- [ ] [<code>Update README.md</code>](https://github.com/phase1geo/minder/commit/52163ee860254e3b45ecc3ff48f412d7085daf50)
-- [ ] [<code>Fixing issue with node link tooltip display when linked node deleted.</code>](https://github.com/phase1geo/minder/commit/cc35cdbb5525012b8e44d785f6f496b750297901)
-- [ ] [<code>Updating for upcoming 1.16.2 release.</code>](https://github.com/phase1geo/minder/commit/b10233cea178fce11874bf8ed39406e5d0b1f430)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update Russian translation</code>](https://github.com/phase1geo/minder/commit/80559c77d723429d6032e77aca382c1def32048f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #600 from prokoudine/master</code>](https://github.com/phase1geo/minder/commit/a1efb8070c5828297ecff39d6310728892414c09)
-- [ ] [<code>Updating.</code>](https://github.com/phase1geo/minder/commit/9d410ea45ffc3f1d0e31c267d3c62b73417f3ad6)
-  - <sub>Tags: <code>1.16.2</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/461e6b244a63bf2d3ad70ade8f59ab84253196f0)
 - [ ] [<code>Merge pull request #601 from albanobattistella/patch-31</code>](https://github.com/phase1geo/minder/commit/33de638ce088fa6fdaa729c5a0fa1dc6ecfb4454)
 
