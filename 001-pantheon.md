@@ -1026,3 +1026,4 @@
 - [ ] [<code>Desktop: parental-controls → screentime-limits (#114)</code>](https://github.com/elementary/seeds/commit/981a40fdc380d930ebf6ae5e4f8ddc094d9d7eda)
 - [ ] [<code>Desktop switchboard-security-privacy → settings.security-privacy (#115)</code>](https://github.com/elementary/seeds/commit/5c21e681040d956181985ec330dc94bf06924327)
 - [ ] [<code>Desktop: switchboard-pantheon-shell → settings.desktop (#116)</code>](https://github.com/elementary/seeds/commit/37452ebba953eacde0ac10ee9ceb918779a93486)
+- [ ] [<code>Desktop: switchboard-keyboard → settings.keyboard (#117)</code>](https://github.com/elementary/seeds/commit/3d206ac867e2ca37e12e46239bbb4c0c2624c257)
