@@ -7,9 +7,15 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.4...HEAD)
 
+- [ ] [<code>sound applet: Fixes #12035</code>](https://github.com/linuxmint/cinnamon/commit/181cc7adebb6c2971492ba14408e6b215da942d7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12036 from claudiux/sound-applet_fix12035</code>](https://github.com/linuxmint/cinnamon/commit/137d7475cd8c5b3469f99ac7a46dcfe8c16c865e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
+- [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -22,14 +28,19 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.2...HEAD)
 
+- [ ] [<code>Use a shell script to launch, where the environment can be checked</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/5e225dca4c9e14d8b51d09986b93b1500213707d)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
 - [ ] [<code>Packaging: Add missing build-dep on cinnamon-desktop</code>](https://github.com/linuxmint/cinnamon-session/commit/38c8fd0674e67d48d0fad47515be02b5a7604979)
 - [ ] [<code>Fix dependencies (#160)</code>](https://github.com/linuxmint/cinnamon-session/commit/5284f5e360a30cd2e6f5c0399ee9a0df8353cd98)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>session-quit: Use a unique dialog server address for each session.</code>](https://github.com/linuxmint/cinnamon-session/commit/11f96999e83e5af875f707b410170f8d2590680c)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
@@ -71,6 +82,7 @@
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
+- [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
 
