@@ -314,6 +314,12 @@
 - [ ] [<code>po: Update Turkish translation</code>](https://github.com/alainm23/planify/commit/80f5e0b4654b1b23b5ff2c83463df79c39b96100)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #1109 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/25d44f8547e9b66f4e39330ab614e586fdb21c09)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/56cf01222ce967a214e32c990b3b4aef0a8f7da3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/5c9f262542cdcb076e90ed52538fb6bd49eaa99b)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/132c57e6d8a02c422ded15c52c4fe151d34b0318)
+- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/d90139db5571dc15cf161c37d317ecf37d109d41)
+- [ ] [<code>Merge pull request #1111 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/5adcefba70780946b513adfe8c12082d86363b2d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
