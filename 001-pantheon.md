@@ -61,6 +61,10 @@
 - [ ] [<code>Update metainfo for latest commit (#1404)</code>](https://github.com/elementary/code/commit/4a91b84e60b4c99ae48ff3f634df1f0444bf3da1)
 - [ ] [<code>Empty string used instead of null when triggering open folder action in welcome view (#1407)</code>](https://github.com/elementary/code/commit/1279b119a7890690516d3205075a4cad95d4f641)
 - [ ] [<code>[Feature]Implement "open-in-terminal" action (#1405)</code>](https://github.com/elementary/code/commit/2071494e180d6bdc4f4d86ddedd0a7aaf19ef266)
+- [ ] [<code>Update code.metainfo.xml.in</code>](https://github.com/elementary/code/commit/b2335b619f29b5dd352918a8313940e006f7efa0)
+- [ ] [<code>Release 7.2.0 (#1384)</code>](https://github.com/elementary/code/commit/30b66b8dcd67e58d8c6177e4a27a6918f2e45846)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -125,6 +129,7 @@
 - [ ] [<code>[Gtk4Prep] Views: DRY some scroll select  & focus functions (#2370)</code>](https://github.com/elementary/files/commit/1f5709cbfb53cdb25bbc1e57f224200106658d1c)
 - [ ] [<code>[Gtk4Prep] Slots cleanup Gtk4prep (#2366)</code>](https://github.com/elementary/files/commit/8037cbf5a45ae7b87b4159d24cb14ca1dcf43bf4)
 - [ ] [<code>[Gtk4Prep] Viewcontainer cleanup and prepare for Gtk4 (#2367)</code>](https://github.com/elementary/files/commit/e58b3fd387aa71d65d66e478bb4e1597a835e3d0)
+- [ ] [<code>[Regression] Reload directory after mode change (#2377)</code>](https://github.com/elementary/files/commit/54c1caaced555aba2300a26f6b62ee6893d08f9e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -431,6 +436,9 @@
 - [ ] [<code>ListBoxes: don't subclass (#494)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3e2287c0fa730d2dacee85a67b2c794897fdbf88)
 - [ ] [<code>Use get_row_at_index (#493)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0e7c21f3b35ccf7fd9a61baea75e8a26d7f3665d)
 - [ ] [<code>InputMethod: GTK4 prep (#496)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/f096ded36cadf423791cdc12f4103c85792d3e6e)
+- [ ] [<code>Port to GTK 4 (#480)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4be46f1a48d175d7423b72f5a96063983631ff17)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -743,6 +751,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove content.set_rounded_clip_bounds (#1819)</code>](https://github.com/elementary/gala/commit/943d2c111fc203c7a5adf692e25950312a9ab848)
 - [ ] [<code>Use event time instead of META_CURRENT_TIME (#1828)</code>](https://github.com/elementary/gala/commit/a6de96702c193450a7669f2fb2adc56da13d747a)
+- [ ] [<code>switch_to_next_workspace: require timestamp (#1830)</code>](https://github.com/elementary/gala/commit/15ef7cf3d665aeea2aa3e9fb11e852449d0712f2)
+- [ ] [<code>move_window: require timestamp (#1831)</code>](https://github.com/elementary/gala/commit/2bf7197e7e860904dbe083ca6dced305b9cb6f85)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -847,6 +857,7 @@
 - [ ] [<code>CSSView: Update title class name label (#675)</code>](https://github.com/elementary/granite/commit/9a58858fed8283bcf74c94d3c48bb0ea4f493f4c)
 - [ ] [<code>Make granite-demo optional (#676)</code>](https://github.com/elementary/granite/commit/978d80f1e7a944fb900c54c3aff640aac869291b)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>HeaderLabel: allow secondary text to use markup (#684)</code>](https://github.com/elementary/granite/commit/ff0ddb94a72306673ba8534541c575eb8915d2c0)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
