@@ -29,42 +29,8 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#267)</code>](https://github.com/elementary/camera/commit/cc2494e66854e9bb2e63a27eb70445b88c935517)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/camera/commit/9061a2175345bd7d5469025552ac0b139e303cad)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [7.1.0 → HEAD](https://github.com/elementary/code/compare/7.1.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
-- [ ] [<code>Make word selection plugin searchbar aware (#1290)</code>](https://github.com/elementary/code/commit/9babc15a74611ca4b44ed0161307810a2e1b7b5d)
-- [ ] [<code>Silence terminal warning re adding null item (#1353)</code>](https://github.com/elementary/code/commit/bba7c148eec0c42bd993160f19ed9c72ed256076)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#1372)</code>](https://github.com/elementary/code/commit/0540fffc983b77e99bbd09a6eb8b4736128138ad)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#1373)</code>](https://github.com/elementary/code/commit/315f702f450cd532fa3e5fa5133f867b691a6170)
-- [ ] [<code>gschema: remove window position (#1376)</code>](https://github.com/elementary/code/commit/52fd5f27f92cca32f8ea733347a5f70630fd267f)
-- [ ] [<code>System theme change now fully respected while Code already running (#1377)</code>](https://github.com/elementary/code/commit/6ee2b1fc9fd289640fcba091de2b22ae695fd0cf)
-- [ ] [<code>Fix-folder-search-filtering-1198 (#1379)</code>](https://github.com/elementary/code/commit/51dd521a6f29b731c8a99633aa02e05ce78a6ee3)
-- [ ] [<code>Add command-line "Go-To-Line" option (#1382)</code>](https://github.com/elementary/code/commit/723348cd5c91c50232d15949dbb344d2443fb7a4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixes #1380 (#1381)</code>](https://github.com/elementary/code/commit/4f374480b32567a341c30c846a30986be5e9e353)
-- [ ] [<code>Add metainfo for version 7.2.0 (#1383)</code>](https://github.com/elementary/code/commit/5b0db01710aae20ca83ce5983d4151504bc57c79)
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Separate action_show_replace; focus replace entry (#1374)</code>](https://github.com/elementary/code/commit/b6dcbbb5108f96c78282a9b3e810ea848e4555c1)
-- [ ] [<code>Drop folder onto sidebar to open as project (#1339)</code>](https://github.com/elementary/code/commit/c02a4061fee019a7c28ab57501479fc14f1caeff)
-- [ ] [<code>Fix new backup creation during closing a document (#1344)</code>](https://github.com/elementary/code/commit/cadc14e4b1f228165b6ff1db3d46303b6bd52593)
-- [ ] [<code>Close root folder if externally deleted or renamed (#1390)</code>](https://github.com/elementary/code/commit/50f50a92b6639d3e166566d84bbecfa54c373920)
-- [ ] [<code>Skip New Documents when disambiguating tabs (#1391)</code>](https://github.com/elementary/code/commit/4160786b90090b66c15ba6198b96cd5d9df733af)
-- [ ] [<code>Synchronise and save symbol outline width. (#1389)</code>](https://github.com/elementary/code/commit/742b31f54b65e4d6dfb72ba387fe144ea36101d6)
-- [ ] [<code>Refocus textview after Escape pressed in Search (#1388)</code>](https://github.com/elementary/code/commit/344f1f8718aa152261b13c259841654030de62c8)
-- [ ] [<code>Fuzzy finder (#1393)</code>](https://github.com/elementary/code/commit/5b67e6b1b8c4b7b37c1d2f0d8ebc9d7d3acc0d2e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Make fuzzy-find less fuzzy in some respects (#1397)</code>](https://github.com/elementary/code/commit/12d8322a442a28d95f8010f342fbffa6efec3d55)
-- [ ] [<code>Update metainfo for 7.2.0 (#1400)</code>](https://github.com/elementary/code/commit/4ebb2d506d5f02a98a67ad75df6273a71c1e1162)
-- [ ] [<code>Allow match start not at beginning (#1399)</code>](https://github.com/elementary/code/commit/24b52a004d61acdd553d9889444fee8923d2c74c)
-- [ ] [<code>Save and restore terminal pane state (#1401)</code>](https://github.com/elementary/code/commit/776b864df008cc0487098b90726fe428267188af)
-- [ ] [<code>Update metainfo for latest commit (#1404)</code>](https://github.com/elementary/code/commit/4a91b84e60b4c99ae48ff3f634df1f0444bf3da1)
-- [ ] [<code>Empty string used instead of null when triggering open folder action in welcome view (#1407)</code>](https://github.com/elementary/code/commit/1279b119a7890690516d3205075a4cad95d4f641)
-- [ ] [<code>[Feature]Implement "open-in-terminal" action (#1405)</code>](https://github.com/elementary/code/commit/2071494e180d6bdc4f4d86ddedd0a7aaf19ef266)
-- [ ] [<code>Update code.metainfo.xml.in</code>](https://github.com/elementary/code/commit/b2335b619f29b5dd352918a8313940e006f7efa0)
-- [ ] [<code>Release 7.2.0 (#1384)</code>](https://github.com/elementary/code/commit/30b66b8dcd67e58d8c6177e4a27a6918f2e45846)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
