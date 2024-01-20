@@ -130,6 +130,8 @@
 - [ ] [<code>[Gtk4Prep] Slots cleanup Gtk4prep (#2366)</code>](https://github.com/elementary/files/commit/8037cbf5a45ae7b87b4159d24cb14ca1dcf43bf4)
 - [ ] [<code>[Gtk4Prep] Viewcontainer cleanup and prepare for Gtk4 (#2367)</code>](https://github.com/elementary/files/commit/e58b3fd387aa71d65d66e478bb4e1597a835e3d0)
 - [ ] [<code>[Regression] Reload directory after mode change (#2377)</code>](https://github.com/elementary/files/commit/54c1caaced555aba2300a26f6b62ee6893d08f9e)
+- [ ] [<code>[Gtk4Prep]Simplify iconrenderer construction and setup (#2378)</code>](https://github.com/elementary/files/commit/e421bec4b449bb20cfe8f9c7443d941e13a3801a)
+- [ ] [<code>Fix unexpected selection after file added (#2358)</code>](https://github.com/elementary/files/commit/d8e7f895f37caedd4badbf6c1ac04d67828bbe48)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -249,6 +251,7 @@
 - [ ] [<code>TerminalWidget: Stop Scroll Controller When Keyboard Focus is Lost (#750)</code>](https://github.com/elementary/terminal/commit/b9195295d6cc850a84ec0fa5f0471e4d2f956301)
 - [ ] [<code>Fix unwanted extra tab  (#743)</code>](https://github.com/elementary/terminal/commit/501e68919e518f2646475d4d7c5b8e6c69eccdf2)
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Fix inoperative header decorations when fullscreened (#753)</code>](https://github.com/elementary/terminal/commit/9ad5ca658dde815fe1b09158378307d73c1b6a4f)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -477,6 +480,10 @@
 - [ ] [<code>VPNPage: set status through page (#385)</code>](https://github.com/elementary/switchboard-plug-network/commit/71ff4bbfdbc6e989383bfb89478c8585d4a964dd)
 - [ ] [<code>WifiPage: GTK4 prep and cleanup (#386)</code>](https://github.com/elementary/switchboard-plug-network/commit/de5920369a38dc351f78c3bcbff621ffda6a52a5)
 - [ ] [<code>InfoBox: GTK4 prep, code style (#387)</code>](https://github.com/elementary/switchboard-plug-network/commit/f1af91714bc0b9ce412dd6d4deaf5eedff21e64f)
+- [ ] [<code>VPNMenuItem: fix empty info dialog (#389)</code>](https://github.com/elementary/switchboard-plug-network/commit/fe62040546adf0c976440f8852dc05876ed62c9f)
+- [ ] [<code>VPNPage: provide a description (#391)</code>](https://github.com/elementary/switchboard-plug-network/commit/9f336147bf1da4e36a0722055ab3370895b84909)
+- [ ] [<code>VPN: move edit connection button to info dialog (#390)</code>](https://github.com/elementary/switchboard-plug-network/commit/5697b4d08d1a60165a01f0531388d81defeae5d2)
+- [ ] [<code>VPNPage: rewrite connection forget (#388)</code>](https://github.com/elementary/switchboard-plug-network/commit/c73e883e3b1cab603bd0cb5ae274dcee9be65dfe)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
