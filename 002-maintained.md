@@ -320,6 +320,7 @@
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/132c57e6d8a02c422ded15c52c4fe151d34b0318)
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/d90139db5571dc15cf161c37d317ecf37d109d41)
 - [ ] [<code>Merge pull request #1111 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/5adcefba70780946b513adfe8c12082d86363b2d)
+- [ ] [<code>Update readme</code>](https://github.com/alainm23/planify/commit/bdfbd0c09f4e80b0b2f52797f6eaa20d8378e215)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
