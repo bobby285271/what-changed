@@ -31,6 +31,7 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
+- [ ] [<code>Update ProjectChooser button properly when projects add/removed (#1369)</code>](https://github.com/elementary/code/commit/1626d85b2c1d1d90da00472ab7a42da3270e5e4d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -77,6 +78,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: fallback to application-default-icon (#208)</code>](https://github.com/elementary/dock/commit/6eb560af292432e633c50228987dd238cb85191d)
+- [ ] [<code>Integrate with gala window spread (#210)</code>](https://github.com/elementary/dock/commit/d38c0dfb9cbfd73ada1db017332d33d72d81df6a)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -98,6 +100,10 @@
 - [ ] [<code>[Regression] Reload directory after mode change (#2377)</code>](https://github.com/elementary/files/commit/54c1caaced555aba2300a26f6b62ee6893d08f9e)
 - [ ] [<code>[Gtk4Prep]Simplify iconrenderer construction and setup (#2378)</code>](https://github.com/elementary/files/commit/e421bec4b449bb20cfe8f9c7443d941e13a3801a)
 - [ ] [<code>Fix unexpected selection after file added (#2358)</code>](https://github.com/elementary/files/commit/d8e7f895f37caedd4badbf6c1ac04d67828bbe48)
+- [ ] [<code>[Gtk4Prep] Bookmarkrow: Use EventControllerKey (#2382)</code>](https://github.com/elementary/files/commit/44c8d98bc159feb5c96719c3498d3006c53d48d2)
+- [ ] [<code>[Gtk4Prep] EditableLabel: Use EventControllerKey, cleanup (#2383)</code>](https://github.com/elementary/files/commit/3eca2eebb94d5ba0bd7af40bb1bdba5471af6f67)
+- [ ] [<code>[GtkPrep] Cleanup treeviews contd (#2379)</code>](https://github.com/elementary/files/commit/6cc6b5d82cfa01c81014dcb5bdcd429100c70af4)
+- [ ] [<code>[Gtk4Prep] Views: Use EventControllerKey where possible (#2380)</code>](https://github.com/elementary/files/commit/9abf00b982aeb206806ce954af5fcfcec21195ee)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -726,6 +732,8 @@
 - [ ] [<code>Use event time instead of META_CURRENT_TIME (#1828)</code>](https://github.com/elementary/gala/commit/a6de96702c193450a7669f2fb2adc56da13d747a)
 - [ ] [<code>switch_to_next_workspace: require timestamp (#1830)</code>](https://github.com/elementary/gala/commit/15ef7cf3d665aeea2aa3e9fb11e852449d0712f2)
 - [ ] [<code>move_window: require timestamp (#1831)</code>](https://github.com/elementary/gala/commit/2bf7197e7e860904dbe083ca6dced305b9cb6f85)
+- [ ] [<code>Add window spread for an app (#1833)</code>](https://github.com/elementary/gala/commit/bd300d99bb8886bf5f5b98504c923f30303dc247)
+- [ ] [<code>WindowSwitcher: Fix accent color (#1835)</code>](https://github.com/elementary/gala/commit/3a042e273cdfbc5f2cb79e8f046edc3015a289f1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
