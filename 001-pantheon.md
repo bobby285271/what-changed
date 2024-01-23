@@ -104,6 +104,7 @@
 - [ ] [<code>[Gtk4Prep] EditableLabel: Use EventControllerKey, cleanup (#2383)</code>](https://github.com/elementary/files/commit/3eca2eebb94d5ba0bd7af40bb1bdba5471af6f67)
 - [ ] [<code>[GtkPrep] Cleanup treeviews contd (#2379)</code>](https://github.com/elementary/files/commit/6cc6b5d82cfa01c81014dcb5bdcd429100c70af4)
 - [ ] [<code>[Gtk4Prep] Views: Use EventControllerKey where possible (#2380)</code>](https://github.com/elementary/files/commit/9abf00b982aeb206806ce954af5fcfcec21195ee)
+- [ ] [<code>[Gtk4Prep] Window: Use EventControllerKey (#2381)</code>](https://github.com/elementary/files/commit/a9181942c5dbb3b6419930e2890ca957bc9d0a19)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -325,6 +326,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/57179401c9691b051c40d05db1078b78f3d9099d)
+- [ ] [<code>OperatingSystemView: expand restore defaults coverage, change icons (#285)</code>](https://github.com/elementary/switchboard-plug-about/commit/0e891415ede262e6645dcc60fcf0a5774ea288de)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -620,6 +622,7 @@
 - [ ] [<code>Fix destructive menuitem</code>](https://github.com/elementary/stylesheet/commit/e1b9d7ea749c9c697cfba9882285ade443b13b61)
 - [ ] [<code>make suggested extend default</code>](https://github.com/elementary/stylesheet/commit/e134f65aed74af95253a114508adc21de697b2bd)
 - [ ] [<code>Revert making deault same as suggested action</code>](https://github.com/elementary/stylesheet/commit/db6eb6dc8b01cb23b18f0213470524890575bd18)
+- [ ] [<code>Infobars: fix busted sizing with buttons</code>](https://github.com/elementary/stylesheet/commit/5cb40d3cc592bb29b65cb9ca92d7b08fd0b8041f)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
