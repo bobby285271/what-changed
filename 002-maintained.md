@@ -303,24 +303,54 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update screenshot</code>](https://github.com/alainm23/planify/commit/b0d21d71630e980366d89e95f82498dd89b47835)
+- [ ] [<code>Initial configuration of CalDAV</code>](https://github.com/alainm23/planify/commit/73902f190fbc595ffa1dc0e66e3c68999549cb34)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Change strings to title case and remove periods</code>](https://github.com/alainm23/planify/commit/a4d7eb518066a2587fc7a253316f8fa60f979b31)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Remove accidental newline</code>](https://github.com/alainm23/planify/commit/30e73a5aefd38d6a307ea86616623aeb1e4d9215)
 - [ ] [<code>Merge pull request #1103 from MonsterObserver/consistent-text</code>](https://github.com/alainm23/planify/commit/fb50d882b65ab9f38ca06446e0f640b8a4ca36cf)
+- [ ] [<code>feat: add caldav task</code>](https://github.com/alainm23/planify/commit/9a39e4a6aab1706fa0c6114576c0626140ae3241)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/f4d2a78a23fa00ec099f949849bca78e2238b379)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: Update appdata</code>](https://github.com/alainm23/planify/commit/16f09b812b4ae852f10c94c576a5d6721bd81bcf)
 - [ ] [<code>Merge pull request #1107 from sabriunal/fix-appdata</code>](https://github.com/alainm23/planify/commit/fbc90bc69122d4388498ffcc04e8ed89e0232f58)
 - [ ] [<code>Update po files</code>](https://github.com/alainm23/planify/commit/9d43e5a40cc8ab6828f02611d68e69252f833a43)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>po: Update Turkish translation</code>](https://github.com/alainm23/planify/commit/80f5e0b4654b1b23b5ff2c83463df79c39b96100)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add gxml subproject</code>](https://github.com/alainm23/planify/commit/0c676646ef5aad642913b2a85881f6010007faa3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Merge pull request #1109 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/25d44f8547e9b66f4e39330ab614e586fdb21c09)
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/005730882836eddf0a36bf79d79da5baab533b2e)
+- [ ] [<code>Adding initial Chrono library</code>](https://github.com/alainm23/planify/commit/c97d5be460d88ecf9da8339cbb3ab407aba540c7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/56cf01222ce967a214e32c990b3b4aef0a8f7da3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/5c9f262542cdcb076e90ed52538fb6bd49eaa99b)
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/132c57e6d8a02c422ded15c52c4fe151d34b0318)
 - [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/d90139db5571dc15cf161c37d317ecf37d109d41)
 - [ ] [<code>Merge pull request #1111 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/5adcefba70780946b513adfe8c12082d86363b2d)
+- [ ] [<code>#1106</code>](https://github.com/alainm23/planify/commit/529ffd1aeedaf01ef76c535c8b71e6eb033be606)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/5b5d38df3a6889b0db33279b2998225cebd27e07)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update readme</code>](https://github.com/alainm23/planify/commit/bdfbd0c09f4e80b0b2f52797f6eaa20d8378e215)
+- [ ] [<code>update develop</code>](https://github.com/alainm23/planify/commit/996b245ed5de9d3f8a6517ca44397219a1a3e84e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1116 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/5325931699ad74e25273f1e56882e01817986a89)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>add gxml</code>](https://github.com/alainm23/planify/commit/38827e36f1c1d4740f20606c731c347746dfa1a1)
+- [ ] [<code>Merge pull request #1117 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/9410c2eb16c61e9eb6260a6b93267efb12d668dd)
+- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/8aa6b0238b9c88e3e16741f774d1a74044dd8bf3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e0ee9c19576ac6ec5426b2200d089444608a6ea3)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
