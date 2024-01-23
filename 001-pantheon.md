@@ -628,6 +628,7 @@
 - [ ] [<code>Actions: New document-save icon (#1230)</code>](https://github.com/elementary/icons/commit/452ee49d8a6ad2d043867e1fc31dbd6bf63965e5)
 - [ ] [<code>Actions: Grid-align some symbolic icons (#1231)</code>](https://github.com/elementary/icons/commit/c4b7a2442708787acd75499d2fe3144fb82a35c9)
 - [ ] [<code>Add media-eject-symbolic 24px (#1225)</code>](https://github.com/elementary/icons/commit/edd4e3d0a42bb599c208f5a016da0598d9093d44)
+- [ ] [<code>Actions: Horizontally center media-playback-start (#1233)</code>](https://github.com/elementary/icons/commit/baffa57c2ddaad3609c46c18667d1cc3a8dd58a5)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -839,6 +840,7 @@
 - [ ] [<code>Make granite-demo optional (#676)</code>](https://github.com/elementary/granite/commit/978d80f1e7a944fb900c54c3aff640aac869291b)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>HeaderLabel: allow secondary text to use markup (#684)</code>](https://github.com/elementary/granite/commit/ff0ddb94a72306673ba8534541c575eb8915d2c0)
+- [ ] [<code>Placeholder: resize based on parent (#678)</code>](https://github.com/elementary/granite/commit/07e9f15df07e478f991819ef383969bce29fc002)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
