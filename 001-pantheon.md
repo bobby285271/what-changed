@@ -854,6 +854,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>HeaderLabel: allow secondary text to use markup (#684)</code>](https://github.com/elementary/granite/commit/ff0ddb94a72306673ba8534541c575eb8915d2c0)
 - [ ] [<code>Placeholder: resize based on parent (#678)</code>](https://github.com/elementary/granite/commit/07e9f15df07e478f991819ef383969bce29fc002)
+- [ ] [<code>DateTime: handle relative datetime when epoch (#685)</code>](https://github.com/elementary/granite/commit/b90642e220a527fab302246e3e5d37afc6cfdfa0)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
