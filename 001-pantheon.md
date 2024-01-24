@@ -105,6 +105,10 @@
 - [ ] [<code>[GtkPrep] Cleanup treeviews contd (#2379)</code>](https://github.com/elementary/files/commit/6cc6b5d82cfa01c81014dcb5bdcd429100c70af4)
 - [ ] [<code>[Gtk4Prep] Views: Use EventControllerKey where possible (#2380)</code>](https://github.com/elementary/files/commit/9abf00b982aeb206806ce954af5fcfcec21195ee)
 - [ ] [<code>[Gtk4Prep] Window: Use EventControllerKey (#2381)</code>](https://github.com/elementary/files/commit/a9181942c5dbb3b6419930e2890ca957bc9d0a19)
+- [ ] [<code>[Gtk4Prep]KeyUtils: Merge into AbstractDirectoryView (#2388)</code>](https://github.com/elementary/files/commit/2e0aa6c9aba4bd20fb31370a525200c88618a298)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Gtk4Prep] BreadcrumbEntry: Use EventControllerKey  (#2389)</code>](https://github.com/elementary/files/commit/54fe65a3b426ffe6d6d58ab64613ca51f21984d2)
+- [ ] [<code>[Gtk4Prep] TreeView & Miller: Avoid remaining Gdk.EventKey (#2387)</code>](https://github.com/elementary/files/commit/73aec59d41e48d37e2f45aebc99694781d8a4d51)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -289,6 +293,8 @@
 - [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard/commit/a5a5780f80e7faa747acf99c084f5accd45aff87)
 - [ ] [<code>README: Update executable name (#275)</code>](https://github.com/elementary/switchboard/commit/bb007582ae8701a03bc502731ed7a20e61bbd0a2)
 - [ ] [<code>Application: remove big window handle (#277)</code>](https://github.com/elementary/switchboard/commit/872fcb85b005769b92e19a21d57fd7e5d4b6d73d)
+- [ ] [<code>Application: use startup (#280)</code>](https://github.com/elementary/switchboard/commit/c0c339963cff57f8a27f2f239065a3a7c1b5b80c)
+- [ ] [<code>CategoryView: absorb search bar (#278)</code>](https://github.com/elementary/switchboard/commit/be73a08cb00f9ccc4e828e173bac217129938c2e)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -386,6 +392,7 @@
 - [ ] [<code>DisplayWidget: Gtk4 prep (#368)</code>](https://github.com/elementary/switchboard-plug-display/commit/4aa3dfec506021674201f6fc96595a4ec667c480)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#363)</code>](https://github.com/elementary/switchboard-plug-display/commit/c021e020cdd7e249deb38eb9cc87ec78d4a1341b)
 - [ ] [<code>DisplaysOverlay: keep a list of widgets (#370)</code>](https://github.com/elementary/switchboard-plug-display/commit/bd5f012d1731c9f87437df2578553298060672d5)
+- [ ] [<code>DisplaysView: Gtk4 prep (#373)</code>](https://github.com/elementary/switchboard-plug-display/commit/bca923c295fef22a6e6fed4cc5e702927b81c300)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -416,6 +423,7 @@
 - [ ] [<code>Port to GTK 4 (#480)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/4be46f1a48d175d7423b72f5a96063983631ff17)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Allow disabling input engine switch shortcut (#498)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6251e08edc32ace0da8770ba714b098e1c439ae7)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -458,6 +466,8 @@
 - [ ] [<code>VPNPage: provide a description (#391)</code>](https://github.com/elementary/switchboard-plug-network/commit/9f336147bf1da4e36a0722055ab3370895b84909)
 - [ ] [<code>VPN: move edit connection button to info dialog (#390)</code>](https://github.com/elementary/switchboard-plug-network/commit/5697b4d08d1a60165a01f0531388d81defeae5d2)
 - [ ] [<code>VPNPage: rewrite connection forget (#388)</code>](https://github.com/elementary/switchboard-plug-network/commit/c73e883e3b1cab603bd0cb5ae274dcee9be65dfe)
+- [ ] [<code>Socks -> SOCKS (#393)</code>](https://github.com/elementary/switchboard-plug-network/commit/583f5f922ced7a5c6478a6a99bbef38445206979)
+  - <sub>Keywords: <code>org.gnome.system</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
