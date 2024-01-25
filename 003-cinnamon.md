@@ -10,7 +10,9 @@
 - [ ] [<code>sound applet: Fixes #12035</code>](https://github.com/linuxmint/cinnamon/commit/181cc7adebb6c2971492ba14408e6b215da942d7)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12036 from claudiux/sound-applet_fix12035</code>](https://github.com/linuxmint/cinnamon/commit/137d7475cd8c5b3469f99ac7a46dcfe8c16c865e)
+- [ ] [<code>Add a fix for webkit dev's failure to care about breaking online-accounts for nvidia users (#12044)</code>](https://github.com/linuxmint/cinnamon/commit/6b986f02974dd3a12eb040f7fcbe1389d02d9f66)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
