@@ -351,6 +351,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e0ee9c19576ac6ec5426b2200d089444608a6ea3)
+- [ ] [<code>CalDAV task completion support</code>](https://github.com/alainm23/planify/commit/2724eadd30d1c8e1760e9f0dd61d207704d92cd7)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/bacf554822b7170ca7d2d104714c1fa615fd6adf)
+- [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/a4c3b7cf1e57399f597814c9399fc2ce72ac9bd7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
