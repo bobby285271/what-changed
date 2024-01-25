@@ -32,6 +32,8 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
 - [ ] [<code>Update ProjectChooser button properly when projects add/removed (#1369)</code>](https://github.com/elementary/code/commit/1626d85b2c1d1d90da00472ab7a42da3270e5e4d)
+- [ ] [<code>ChooseProjectButton: Deactivate all project rows before selecting new active project (#1414)</code>](https://github.com/elementary/code/commit/753a3c5ea184cfc0d78a3fc822a1923f3e47fd88)
+- [ ] [<code>Fix select after rename; fix rename folder; disallow rename if unsaved edits (#1386)</code>](https://github.com/elementary/code/commit/1cc6b21dd5bcf62e510ad6a422e7027e2b0e9d5c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -295,6 +297,8 @@
 - [ ] [<code>Application: remove big window handle (#277)</code>](https://github.com/elementary/switchboard/commit/872fcb85b005769b92e19a21d57fd7e5d4b6d73d)
 - [ ] [<code>Application: use startup (#280)</code>](https://github.com/elementary/switchboard/commit/c0c339963cff57f8a27f2f239065a3a7c1b5b80c)
 - [ ] [<code>CategoryView: absorb search bar (#278)</code>](https://github.com/elementary/switchboard/commit/be73a08cb00f9ccc4e828e173bac217129938c2e)
+- [ ] [<code>Library: Add settings page and sidebar (#281)</code>](https://github.com/elementary/switchboard/commit/62403e8067343fa00823d8eed71f230def06ec41)
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -333,6 +337,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/57179401c9691b051c40d05db1078b78f3d9099d)
 - [ ] [<code>OperatingSystemView: expand restore defaults coverage, change icons (#285)</code>](https://github.com/elementary/switchboard-plug-about/commit/0e891415ede262e6645dcc60fcf0a5774ea288de)
+- [ ] [<code>Add system updates (#280)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d1d9e504b6affc6c275cbff097b5d129be56576)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -445,6 +451,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Gestures: Add move to workspace option (#221)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d39f78f8e8ec21a46a0ccb2f39df3da711b7c627)
 - [ ] [<code>Gestures: support switch-windows gesture (#222)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/dda371238bec9e7e0146694a8a1d4f6d94d5e130)
+- [ ] [<code>Pointing: Vertical layout and cleanup (#224)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4870cfff205aa826ecf782cfa7fe544ec5695248)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -616,6 +623,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sound/commit/81187c243a55a55c93637a9ca53c41607b876ec3)
+- [ ] [<code>Fix muting (#261)</code>](https://github.com/elementary/switchboard-plug-sound/commit/fe0a776965fbb705a13f9efd61fb11f8231953a5)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -902,6 +910,10 @@
 - [ ] [<code>meson: use right gettext domain</code>](https://github.com/elementary/settings-daemon/commit/c314d3c5e3f9a327435ea3c836b1320fe54b2930)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#86)</code>](https://github.com/elementary/settings-daemon/commit/6d17f57063a36dcae66824111fe9657498df7741)
+- [ ] [<code>Implement system updates (#88)</code>](https://github.com/elementary/settings-daemon/commit/b3ddc3a1dd76d14171367c55672a97740813b0d1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/1625b2030ac816e41ebeb02f1364951552a03409)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
