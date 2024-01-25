@@ -29,9 +29,14 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.2...HEAD)
 
 - [ ] [<code>Use a shell script to launch, where the environment can be checked</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/5e225dca4c9e14d8b51d09986b93b1500213707d)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>binfile.in: Enclose arguments in quotes.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/451f52f75507224f2d1ac3bd6b6890e71f64dc24)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Revert "backup locker: Restore stack management when not activated."</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b94a37d1a0657707b4f7d0f036117e81e5850989)
+- [ ] [<code>6.0.3</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e3a658609dc13b0ed99941fb6c7ed7c42d9e5e45)
+  - <sub>Tags: <code>6.0.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
@@ -40,7 +45,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>session-quit: Use a unique dialog server address for each session.</code>](https://github.com/linuxmint/cinnamon-session/commit/11f96999e83e5af875f707b410170f8d2590680c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>cinnamon-session-quit.py: Try the old fixed server address if the</code>](https://github.com/linuxmint/cinnamon-session/commit/10b1d3412e48206906e8975169e05ad7b174b598)
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>6.0.2</code>](https://github.com/linuxmint/cinnamon-session/commit/89af2a72b9f3d99b8e1aa3d315092b7295e8df2a)
+  - <sub>Tags: <code>6.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
