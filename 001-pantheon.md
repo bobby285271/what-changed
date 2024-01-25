@@ -914,6 +914,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/1625b2030ac816e41ebeb02f1364951552a03409)
+- [ ] [<code>SystemUpdate: Fix occurred spelling</code>](https://github.com/elementary/settings-daemon/commit/dae2b0beca57f98b96df67ec314fe8bf858f7c90)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
