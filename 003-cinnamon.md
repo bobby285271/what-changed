@@ -22,11 +22,15 @@
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
 - [ ] [<code>gnome-idle-monitor.c: Fix some dbus names Mutter->Muffin.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/d0f8c74a7864786cf040da31c7db83d8d2fcc5e4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-desktop/commit/83f4f7744b44bed997803aa0775b38258a7a1b0e)
+- [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a9d71d12e3ceb4c93d3da830a8d9e46183d79b26)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-menus/commit/5f899c375f77f5c41f98a18937dc5adb9d5a241a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.2...HEAD)
 
@@ -62,6 +66,8 @@
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cjs/commit/3ca108511ec6b6e436592180fcb167a39b6031d6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [18102c72ba072cd83ccee69e9051e87e93cab01a → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/18102c72ba072cd83ccee69e9051e87e93cab01a...HEAD)
 
@@ -88,9 +94,14 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/muffin/commit/1f00c33a06ba5fe847ef0c7a5bfd1f5586be7640)
+- [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/muffin/commit/595d0733e7bda3bab483a2e86929204c262dc10f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/nemo/commit/5e2b088d7d32221978ddb658302d4604e266a8a6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -105,8 +116,9 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
 - [ ] [<code>xapp-gpu-offload: Fix argument handling for the offload target.</code>](https://github.com/linuxmint/xapp/commit/7ab8d1b93ea56b211e2a100a5b92cc1c843c10cc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
