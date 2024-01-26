@@ -355,6 +355,9 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/bacf554822b7170ca7d2d104714c1fa615fd6adf)
 - [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/a4c3b7cf1e57399f597814c9399fc2ce72ac9bd7)
+- [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/82fb9aebabc04a2fa7c2acfcf3231cb7b59118b4)
+- [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/ec2972e15f81f88aeebcc0e266924f535f591e1f)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
