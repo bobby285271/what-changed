@@ -34,6 +34,8 @@
 - [ ] [<code>Update ProjectChooser button properly when projects add/removed (#1369)</code>](https://github.com/elementary/code/commit/1626d85b2c1d1d90da00472ab7a42da3270e5e4d)
 - [ ] [<code>ChooseProjectButton: Deactivate all project rows before selecting new active project (#1414)</code>](https://github.com/elementary/code/commit/753a3c5ea184cfc0d78a3fc822a1923f3e47fd88)
 - [ ] [<code>Fix select after rename; fix rename folder; disallow rename if unsaved edits (#1386)</code>](https://github.com/elementary/code/commit/1cc6b21dd5bcf62e510ad6a422e7027e2b0e9d5c)
+- [ ] [<code>[Feature] Implement default build directory setting (#1415)</code>](https://github.com/elementary/code/commit/d58da2f051d7ff392a0bdd6dd62e441dcf3992f6)
+- [ ] [<code>Match complete directory name for prefix in two places (#1417)</code>](https://github.com/elementary/code/commit/5aff3f725f06c75fbbe54858cbfd8a4eac4c8101)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -915,6 +917,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/1625b2030ac816e41ebeb02f1364951552a03409)
 - [ ] [<code>SystemUpdate: Fix occurred spelling</code>](https://github.com/elementary/settings-daemon/commit/dae2b0beca57f98b96df67ec314fe8bf858f7c90)
+- [ ] [<code>SystemUpdate: withdraw old notifications on startup (#119)</code>](https://github.com/elementary/settings-daemon/commit/f2e743b9d244bb471f6476eb79518761b9860518)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
