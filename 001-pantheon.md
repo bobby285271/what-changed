@@ -301,6 +301,7 @@
 - [ ] [<code>CategoryView: absorb search bar (#278)</code>](https://github.com/elementary/switchboard/commit/be73a08cb00f9ccc4e828e173bac217129938c2e)
 - [ ] [<code>Library: Add settings page and sidebar (#281)</code>](https://github.com/elementary/switchboard/commit/62403e8067343fa00823d8eed71f230def06ec41)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Redesign app icon (#253)</code>](https://github.com/elementary/switchboard/commit/6ae101fa8c87ea9f8f89ec35f6b2ef69359b9c9a)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -652,6 +653,8 @@
 - [ ] [<code>Actions: Grid-align some symbolic icons (#1231)</code>](https://github.com/elementary/icons/commit/c4b7a2442708787acd75499d2fe3144fb82a35c9)
 - [ ] [<code>Add media-eject-symbolic 24px (#1225)</code>](https://github.com/elementary/icons/commit/edd4e3d0a42bb599c208f5a016da0598d9093d44)
 - [ ] [<code>Actions: Horizontally center media-playback-start (#1233)</code>](https://github.com/elementary/icons/commit/baffa57c2ddaad3609c46c18667d1cc3a8dd58a5)
+- [ ] [<code>Actions: Add 32px document-import/export (#1228)</code>](https://github.com/elementary/icons/commit/efad285d93caffc2715ce1f561da92b0abff1ab1)
+- [ ] [<code>Devices: clean up 128 drive-harddisk (#1224)</code>](https://github.com/elementary/icons/commit/906e4da3948355891a657c0a3d003386b1b72405)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -918,6 +921,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/1625b2030ac816e41ebeb02f1364951552a03409)
 - [ ] [<code>SystemUpdate: Fix occurred spelling</code>](https://github.com/elementary/settings-daemon/commit/dae2b0beca57f98b96df67ec314fe8bf858f7c90)
 - [ ] [<code>SystemUpdate: withdraw old notifications on startup (#119)</code>](https://github.com/elementary/settings-daemon/commit/f2e743b9d244bb471f6476eb79518761b9860518)
+- [ ] [<code>Redesign icon (#122)</code>](https://github.com/elementary/settings-daemon/commit/e26e9795ff060462b0b8f3a2e4863a522a07d968)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
