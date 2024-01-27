@@ -302,6 +302,9 @@
 - [ ] [<code>Library: Add settings page and sidebar (#281)</code>](https://github.com/elementary/switchboard/commit/62403e8067343fa00823d8eed71f230def06ec41)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Redesign app icon (#253)</code>](https://github.com/elementary/switchboard/commit/6ae101fa8c87ea9f8f89ec35f6b2ef69359b9c9a)
+- [ ] [<code>Add stylesheet gresource (#282)</code>](https://github.com/elementary/switchboard/commit/5ecde65458d2e160e2ca8a2b033cf46f5847e725)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -433,6 +436,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Allow disabling input engine switch shortcut (#498)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6251e08edc32ace0da8770ba714b098e1c439ae7)
+- [ ] [<code>Shortcuts: update category icons (#499)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9f77dcc307b809036ed493437b879814ed94cfb3)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -455,6 +459,7 @@
 - [ ] [<code>Gestures: Add move to workspace option (#221)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d39f78f8e8ec21a46a0ccb2f39df3da711b7c627)
 - [ ] [<code>Gestures: support switch-windows gesture (#222)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/dda371238bec9e7e0146694a8a1d4f6d94d5e130)
 - [ ] [<code>Pointing: Vertical layout and cleanup (#224)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4870cfff205aa826ecf782cfa7fe544ec5695248)
+- [ ] [<code>Touchpad: use vertical layout, cleanup (#225)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6149fb8debfd046cfaeba8ece18efe194a0f6107)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -560,6 +565,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/00cb7961fb0fdadc9e710242f8632c7a53067de7)
 - [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/31510096f50c52478ba8cb211348d3404456b988)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/213de956d95346fb03409385c4138d00d20c4aa4)
+- [ ] [<code>Readme: fix translation status badge (#242)</code>](https://github.com/elementary/switchboard-plug-power/commit/36bd13a9d53594d4aefb7f90cead142c867f27bc)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -655,6 +661,7 @@
 - [ ] [<code>Actions: Horizontally center media-playback-start (#1233)</code>](https://github.com/elementary/icons/commit/baffa57c2ddaad3609c46c18667d1cc3a8dd58a5)
 - [ ] [<code>Actions: Add 32px document-import/export (#1228)</code>](https://github.com/elementary/icons/commit/efad285d93caffc2715ce1f561da92b0abff1ab1)
 - [ ] [<code>Devices: clean up 128 drive-harddisk (#1224)</code>](https://github.com/elementary/icons/commit/906e4da3948355891a657c0a3d003386b1b72405)
+- [ ] [<code>Categories: redesign preferences-system (#1237)</code>](https://github.com/elementary/icons/commit/09eed4371442ca41904cd6a3cbbe99a54e37bcf5)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -868,6 +875,8 @@
 - [ ] [<code>HeaderLabel: allow secondary text to use markup (#684)</code>](https://github.com/elementary/granite/commit/ff0ddb94a72306673ba8534541c575eb8915d2c0)
 - [ ] [<code>Placeholder: resize based on parent (#678)</code>](https://github.com/elementary/granite/commit/07e9f15df07e478f991819ef383969bce29fc002)
 - [ ] [<code>DateTime: handle relative datetime when epoch (#685)</code>](https://github.com/elementary/granite/commit/b90642e220a527fab302246e3e5d37afc6cfdfa0)
+- [ ] [<code>Deprecate settings widgets (#686)</code>](https://github.com/elementary/granite/commit/90694594fc5cbe13d0181af3313fc753b734ad63)
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
