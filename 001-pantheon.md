@@ -775,6 +775,9 @@
 - [ ] [<code>move_window: require timestamp (#1831)</code>](https://github.com/elementary/gala/commit/2bf7197e7e860904dbe083ca6dced305b9cb6f85)
 - [ ] [<code>Add window spread for an app (#1833)</code>](https://github.com/elementary/gala/commit/bd300d99bb8886bf5f5b98504c923f30303dc247)
 - [ ] [<code>WindowSwitcher: Fix accent color (#1835)</code>](https://github.com/elementary/gala/commit/3a042e273cdfbc5f2cb79e8f046edc3015a289f1)
+- [ ] [<code>Move AccentColorManager to settings-daemon (#1842)</code>](https://github.com/elementary/gala/commit/6e50184ead083b7f95d833beade0ee981aa05bdc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -939,6 +942,9 @@
 - [ ] [<code>SystemUpdate: withdraw old notifications on startup (#119)</code>](https://github.com/elementary/settings-daemon/commit/f2e743b9d244bb471f6476eb79518761b9860518)
 - [ ] [<code>Redesign icon (#122)</code>](https://github.com/elementary/settings-daemon/commit/e26e9795ff060462b0b8f3a2e4863a522a07d968)
 - [ ] [<code>Update README.md (#129)</code>](https://github.com/elementary/settings-daemon/commit/c5d38dd093470790f1e88a7e4eb746db9d632a05)
+- [ ] [<code>Add AccentColor Backend (#128)</code>](https://github.com/elementary/settings-daemon/commit/b2bb693d91aafe540d0f6401791e2cb69eaf840b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
