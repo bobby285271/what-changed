@@ -36,6 +36,8 @@
 - [ ] [<code>Fix select after rename; fix rename folder; disallow rename if unsaved edits (#1386)</code>](https://github.com/elementary/code/commit/1cc6b21dd5bcf62e510ad6a422e7027e2b0e9d5c)
 - [ ] [<code>[Feature] Implement default build directory setting (#1415)</code>](https://github.com/elementary/code/commit/d58da2f051d7ff392a0bdd6dd62e441dcf3992f6)
 - [ ] [<code>Match complete directory name for prefix in two places (#1417)</code>](https://github.com/elementary/code/commit/5aff3f725f06c75fbbe54858cbfd8a4eac4c8101)
+- [ ] [<code>[GTK4 Prep] Moved Granite.Widgets.SourceList source code into codebase (#1419)</code>](https://github.com/elementary/code/commit/afcc098e10782d8403ebbdcb912bfb4754fc25b1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -305,6 +307,9 @@
 - [ ] [<code>Add stylesheet gresource (#282)</code>](https://github.com/elementary/switchboard/commit/5ecde65458d2e160e2ca8a2b033cf46f5847e725)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>SettingsPage: Subclass Gtk.Widget (#283)</code>](https://github.com/elementary/switchboard/commit/423f531858406715de2f7e148e921b6a95ebc3c0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard/commit/11b7cd5c4158016406f116631b1c051a98a2d93f)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -345,6 +350,7 @@
 - [ ] [<code>OperatingSystemView: expand restore defaults coverage, change icons (#285)</code>](https://github.com/elementary/switchboard-plug-about/commit/0e891415ede262e6645dcc60fcf0a5774ea288de)
 - [ ] [<code>Add system updates (#280)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d1d9e504b6affc6c275cbff097b5d129be56576)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Clamp views instead of halign (#293)</code>](https://github.com/elementary/switchboard-plug-about/commit/f8580de0832b6be0fc08ad07c778536efb0ac670)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -460,6 +466,7 @@
 - [ ] [<code>Gestures: support switch-windows gesture (#222)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/dda371238bec9e7e0146694a8a1d4f6d94d5e130)
 - [ ] [<code>Pointing: Vertical layout and cleanup (#224)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4870cfff205aa826ecf782cfa7fe544ec5695248)
 - [ ] [<code>Touchpad: use vertical layout, cleanup (#225)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6149fb8debfd046cfaeba8ece18efe194a0f6107)
+- [ ] [<code>Mouse: vertical layout (#227)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5176b3473f70cf281d31ece525b39960e5146dd)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -931,6 +938,7 @@
 - [ ] [<code>SystemUpdate: Fix occurred spelling</code>](https://github.com/elementary/settings-daemon/commit/dae2b0beca57f98b96df67ec314fe8bf858f7c90)
 - [ ] [<code>SystemUpdate: withdraw old notifications on startup (#119)</code>](https://github.com/elementary/settings-daemon/commit/f2e743b9d244bb471f6476eb79518761b9860518)
 - [ ] [<code>Redesign icon (#122)</code>](https://github.com/elementary/settings-daemon/commit/e26e9795ff060462b0b8f3a2e4863a522a07d968)
+- [ ] [<code>Update README.md (#129)</code>](https://github.com/elementary/settings-daemon/commit/c5d38dd093470790f1e88a7e4eb746db9d632a05)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1053,3 +1061,4 @@
 - [ ] [<code>Desktop switchboard-security-privacy → settings.security-privacy (#115)</code>](https://github.com/elementary/seeds/commit/5c21e681040d956181985ec330dc94bf06924327)
 - [ ] [<code>Desktop: switchboard-pantheon-shell → settings.desktop (#116)</code>](https://github.com/elementary/seeds/commit/37452ebba953eacde0ac10ee9ceb918779a93486)
 - [ ] [<code>Desktop: switchboard-keyboard → settings.keyboard (#117)</code>](https://github.com/elementary/seeds/commit/3d206ac867e2ca37e12e46239bbb4c0c2624c257)
+- [ ] [<code>Ship systemd-coredump (#118)</code>](https://github.com/elementary/seeds/commit/82084578142e91da6814f62987d183db5d202aeb)
