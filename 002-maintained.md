@@ -358,6 +358,9 @@
 - [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/82fb9aebabc04a2fa7c2acfcf3231cb7b59118b4)
 - [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/ec2972e15f81f88aeebcc0e266924f535f591e1f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Caldav tags support</code>](https://github.com/alainm23/planify/commit/38976941c4322b8982eccb148cc58bc9d2c4bf91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
