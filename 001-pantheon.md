@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [d93e135a0b0c9a6e0fbad18fe90d46425823a42c → HEAD](https://github.com/elementary/appcenter/compare/d93e135a0b0c9a6e0fbad18fe90d46425823a42c...HEAD)
 
+- [ ] [<code>gschema: default auto updates to true (#2110)</code>](https://github.com/elementary/appcenter/commit/11c70a8d6e2ee73a769f62804c1d6443cd51d75b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -38,6 +39,7 @@
 - [ ] [<code>Match complete directory name for prefix in two places (#1417)</code>](https://github.com/elementary/code/commit/5aff3f725f06c75fbbe54858cbfd8a4eac4c8101)
 - [ ] [<code>[GTK4 Prep] Moved Granite.Widgets.SourceList source code into codebase (#1419)</code>](https://github.com/elementary/code/commit/afcc098e10782d8403ebbdcb912bfb4754fc25b1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Store relative file paths for fuzzy finder in sets (#1420)</code>](https://github.com/elementary/code/commit/7e6b5230796187782016833c6bb6b40a028e9a4a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -310,6 +312,7 @@
 - [ ] [<code>SettingsPage: Subclass Gtk.Widget (#283)</code>](https://github.com/elementary/switchboard/commit/423f531858406715de2f7e148e921b6a95ebc3c0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard/commit/11b7cd5c4158016406f116631b1c051a98a2d93f)
+- [ ] [<code>SettingsPage: float header (#284)</code>](https://github.com/elementary/switchboard/commit/f29c5a738216c81d1f692d1b786a8f0d670af523)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -778,6 +781,7 @@
 - [ ] [<code>Move AccentColorManager to settings-daemon (#1842)</code>](https://github.com/elementary/gala/commit/6e50184ead083b7f95d833beade0ee981aa05bdc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowSwitcher: Improve mouse handling (#1836)</code>](https://github.com/elementary/gala/commit/c25770ef7fefb54a001b383b3025d6038f577af4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -835,6 +839,9 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
+- [ ] [<code>Allow adding new system connections without admin prompt (#314)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/051408b6eb96eeb07083a3f09275184dd55d5d9d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -945,6 +952,11 @@
 - [ ] [<code>Add AccentColor Backend (#128)</code>](https://github.com/elementary/settings-daemon/commit/b2bb693d91aafe540d0f6401791e2cb69eaf840b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>SystemUpdate: include security info in dbus (#120)</code>](https://github.com/elementary/settings-daemon/commit/dc3ee28e78f557e9eec564a639c778c8d46334ae)
+- [ ] [<code>SystemUpdate: alter notifications for security updates (#121)</code>](https://github.com/elementary/settings-daemon/commit/350f76c96593c324a827bd78b083705998f15ff2)
+- [ ] [<code>Update autostart.desktop (#130)</code>](https://github.com/elementary/settings-daemon/commit/95c96a43035f50aa4f2cc574b82313c9fb983449)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
