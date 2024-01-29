@@ -957,6 +957,10 @@
 - [ ] [<code>Update autostart.desktop (#130)</code>](https://github.com/elementary/settings-daemon/commit/95c96a43035f50aa4f2cc574b82313c9fb983449)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>SystemUpdate: optionally update automatically (#118)</code>](https://github.com/elementary/settings-daemon/commit/a5846772414786ab179c47a477c72817abba8073)
+- [ ] [<code>Modernize meson (#124)</code>](https://github.com/elementary/settings-daemon/commit/5dddde89332bd718646811ab6e9685c89a5512be)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
