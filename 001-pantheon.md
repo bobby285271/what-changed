@@ -87,6 +87,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: fallback to application-default-icon (#208)</code>](https://github.com/elementary/dock/commit/6eb560af292432e633c50228987dd238cb85191d)
 - [ ] [<code>Integrate with gala window spread (#210)</code>](https://github.com/elementary/dock/commit/d38c0dfb9cbfd73ada1db017332d33d72d81df6a)
+- [ ] [<code>GSettings: default to new System Settings (#212)</code>](https://github.com/elementary/dock/commit/e9d3a886878732626c5e1d2ca2dad697cfbf57bc)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
