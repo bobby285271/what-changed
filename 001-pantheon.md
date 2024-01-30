@@ -117,6 +117,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[Gtk4Prep] BreadcrumbEntry: Use EventControllerKey  (#2389)</code>](https://github.com/elementary/files/commit/54fe65a3b426ffe6d6d58ab64613ca51f21984d2)
 - [ ] [<code>[Gtk4Prep] TreeView & Miller: Avoid remaining Gdk.EventKey (#2387)</code>](https://github.com/elementary/files/commit/73aec59d41e48d37e2f45aebc99694781d8a4d51)
+- [ ] [<code>[RegressionFix] Window: Propagate key events when view not having focus (#2393)</code>](https://github.com/elementary/files/commit/898b19b2fc59dbbd4a9db329c9e7682c5b7fb264)
+- [ ] [<code>[Gtk4Prep] Views:  Use Gtk.GestureMultiPress (#2399)</code>](https://github.com/elementary/files/commit/a4d617fc6b6e33c4e8dff2a4aaea496ca4987354)
+- [ ] [<code>Fix completion (#2396)</code>](https://github.com/elementary/files/commit/afeea89ed9e7f97dc1a6a72a7cdb1db2c2acf66b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -446,6 +449,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Allow disabling input engine switch shortcut (#498)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6251e08edc32ace0da8770ba714b098e1c439ae7)
 - [ ] [<code>Shortcuts: update category icons (#499)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9f77dcc307b809036ed493437b879814ed94cfb3)
+- [ ] [<code>Shortcuts: Add "Keyboard Layouts" tab (#500)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3ef6fb10457c94248f1604ac9bdc2bd2a4b794b8)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -470,6 +474,8 @@
 - [ ] [<code>Pointing: Vertical layout and cleanup (#224)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4870cfff205aa826ecf782cfa7fe544ec5695248)
 - [ ] [<code>Touchpad: use vertical layout, cleanup (#225)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6149fb8debfd046cfaeba8ece18efe194a0f6107)
 - [ ] [<code>Mouse: vertical layout (#227)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5176b3473f70cf281d31ece525b39960e5146dd)
+- [ ] [<code>Use Switchboard.SettingsPage and SettingsSidebar (#226)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8fca39a365ac5c260bfd5d0cf76ebf5cb6f1d0c5)
+- [ ] [<code>Plug: make search strings title case (#229)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9b9af237433f3a0cf455226e3287645fa6f8c3d2)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -576,6 +582,7 @@
 - [ ] [<code>Switch to GHCR containers (#229)</code>](https://github.com/elementary/switchboard-plug-power/commit/31510096f50c52478ba8cb211348d3404456b988)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/213de956d95346fb03409385c4138d00d20c4aa4)
 - [ ] [<code>Readme: fix translation status badge (#242)</code>](https://github.com/elementary/switchboard-plug-power/commit/36bd13a9d53594d4aefb7f90cead142c867f27bc)
+- [ ] [<code>Expose automatic lower power mode setting (#245)</code>](https://github.com/elementary/switchboard-plug-power/commit/a3cf2cc43ab59a64ed262cf1e55d343f7fb98cea)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -672,6 +679,7 @@
 - [ ] [<code>Actions: Add 32px document-import/export (#1228)</code>](https://github.com/elementary/icons/commit/efad285d93caffc2715ce1f561da92b0abff1ab1)
 - [ ] [<code>Devices: clean up 128 drive-harddisk (#1224)</code>](https://github.com/elementary/icons/commit/906e4da3948355891a657c0a3d003386b1b72405)
 - [ ] [<code>Categories: redesign preferences-system (#1237)</code>](https://github.com/elementary/icons/commit/09eed4371442ca41904cd6a3cbbe99a54e37bcf5)
+- [ ] [<code>Status: halign checkmark on 32px process-completed (#1239)</code>](https://github.com/elementary/icons/commit/c96d553a9ede92d5ee50e3285cefd93948c50617)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -708,6 +716,9 @@
 - [ ] [<code>Add support for Mutter 45</code>](https://github.com/elementary/greeter/commit/dbd9b6f9701f5992c3b3257c025b9cd80d041cc8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Sync orientation lock (#694)</code>](https://github.com/elementary/greeter/commit/a9ffd24abf00264a0874ca3fc735c43d58d6ea28)
+- [ ] [<code>Don't allow scrolling while logging in (#695)</code>](https://github.com/elementary/greeter/commit/d5132dedc76b5fffcf0e33fc641d24a6f4fac2bb)
+- [ ] [<code>Compositor: Add fade-in animation (#697)</code>](https://github.com/elementary/greeter/commit/9f5bedef99b520cea730845b030c32225f89f42b)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -782,6 +793,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>WindowSwitcher: Improve mouse handling (#1836)</code>](https://github.com/elementary/gala/commit/c25770ef7fefb54a001b383b3025d6038f577af4)
+- [ ] [<code>MultitaskingView: Add blurred wallpaper (#1810)</code>](https://github.com/elementary/gala/commit/156e4150afb4b64695131f4692109c8b481f1b98)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -961,6 +974,7 @@
 - [ ] [<code>Modernize meson (#124)</code>](https://github.com/elementary/settings-daemon/commit/5dddde89332bd718646811ab6e9685c89a5512be)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Expose orientation lock setting (#126)</code>](https://github.com/elementary/settings-daemon/commit/13db4429328d57fc060a4d125d488c101fd09728)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
