@@ -37,6 +37,8 @@
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.2...HEAD)
 
+- [ ] [<code>csm-manager.c: Use the /tmp dir for the dialog server's socket file</code>](https://github.com/linuxmint/cinnamon-session/commit/964205d26af82c571e302d768430a14cff26ee10)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
