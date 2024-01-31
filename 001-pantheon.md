@@ -317,6 +317,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard/commit/11b7cd5c4158016406f116631b1c051a98a2d93f)
 - [ ] [<code>SettingsPage: float header (#284)</code>](https://github.com/elementary/switchboard/commit/f29c5a738216c81d1f692d1b786a8f0d670af523)
+- [ ] [<code>SettingsPage: change css name (#285)</code>](https://github.com/elementary/switchboard/commit/66f3afa0dceab1bc7bbdc025aa622b7b84f5e0bc)
+- [ ] [<code>SettingsPage: add functions for buttons (#286)</code>](https://github.com/elementary/switchboard/commit/5d082c38199432325b231f79afc7f44e24ca5a68)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -358,6 +360,9 @@
 - [ ] [<code>Add system updates (#280)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d1d9e504b6affc6c275cbff097b5d129be56576)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Clamp views instead of halign (#293)</code>](https://github.com/elementary/switchboard-plug-about/commit/f8580de0832b6be0fc08ad07c778536efb0ac670)
+- [ ] [<code>OperatingSystemView: use urgent icon if updates contain security (#292)</code>](https://github.com/elementary/switchboard-plug-about/commit/023f86b9e97c192d4f649ba788d660fb5e77582c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -477,6 +482,7 @@
 - [ ] [<code>Mouse: vertical layout (#227)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/d5176b3473f70cf281d31ece525b39960e5146dd)
 - [ ] [<code>Use Switchboard.SettingsPage and SettingsSidebar (#226)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8fca39a365ac5c260bfd5d0cf76ebf5cb6f1d0c5)
 - [ ] [<code>Plug: make search strings title case (#229)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9b9af237433f3a0cf455226e3287645fa6f8c3d2)
+- [ ] [<code>Add translation context for "Left" / "Right" (#230)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/14b360c3cb2e5d9e106c009c61885d49dded789a)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -651,6 +657,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sound/commit/81187c243a55a55c93637a9ca53c41607b876ec3)
 - [ ] [<code>Fix muting (#261)</code>](https://github.com/elementary/switchboard-plug-sound/commit/fe0a776965fbb705a13f9efd61fb11f8231953a5)
+- [ ] [<code>Add translation context for "Left" / "Right" (#262)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ba7bdeeeb8c573c2804d27350a04b4f84ce8a0ea)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -976,6 +983,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Expose orientation lock setting (#126)</code>](https://github.com/elementary/settings-daemon/commit/13db4429328d57fc060a4d125d488c101fd09728)
+- [ ] [<code>Expose prefer dark schedule settings (#85)</code>](https://github.com/elementary/settings-daemon/commit/216ea5edada1d3ad43a7018345e568fda24667a1)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
