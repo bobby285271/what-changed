@@ -361,6 +361,10 @@
 - [ ] [<code>Caldav tags support</code>](https://github.com/alainm23/planify/commit/38976941c4322b8982eccb148cc58bc9d2c4bf91)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Support for task and event calendars</code>](https://github.com/alainm23/planify/commit/f30ab6a7eb51ae71c33a8ef0cecbd3f4ac49679b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>remove caldav server timeout</code>](https://github.com/alainm23/planify/commit/2c17785d1a2b8c3988b0d4ad6e587f5e78c75e2d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
