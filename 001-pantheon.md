@@ -88,6 +88,8 @@
 - [ ] [<code>Launcher: fallback to application-default-icon (#208)</code>](https://github.com/elementary/dock/commit/6eb560af292432e633c50228987dd238cb85191d)
 - [ ] [<code>Integrate with gala window spread (#210)</code>](https://github.com/elementary/dock/commit/d38c0dfb9cbfd73ada1db017332d33d72d81df6a)
 - [ ] [<code>GSettings: default to new System Settings (#212)</code>](https://github.com/elementary/dock/commit/e9d3a886878732626c5e1d2ca2dad697cfbf57bc)
+- [ ] [<code>Add i18n (#215)</code>](https://github.com/elementary/dock/commit/a904f81a1baac702c59242c871c1cbe9d82f78f7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -121,6 +123,8 @@
 - [ ] [<code>[RegressionFix] Window: Propagate key events when view not having focus (#2393)</code>](https://github.com/elementary/files/commit/898b19b2fc59dbbd4a9db329c9e7682c5b7fb264)
 - [ ] [<code>[Gtk4Prep] Views:  Use Gtk.GestureMultiPress (#2399)</code>](https://github.com/elementary/files/commit/a4d617fc6b6e33c4e8dff2a4aaea496ca4987354)
 - [ ] [<code>Fix completion (#2396)</code>](https://github.com/elementary/files/commit/afeea89ed9e7f97dc1a6a72a7cdb1db2c2acf66b)
+- [ ] [<code>[Gtk4Prep] ViewContainer: Use GestureMultiPress (#2400)</code>](https://github.com/elementary/files/commit/4edd3bab46434d4b3ebf99154bc78ae6382ef4ae)
+- [ ] [<code>Window: do not capture keyevents when view is renaming (#2398)</code>](https://github.com/elementary/files/commit/5199272e7eacd2064e7015af0ec7d7e02ac24700)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -319,6 +323,9 @@
 - [ ] [<code>SettingsPage: float header (#284)</code>](https://github.com/elementary/switchboard/commit/f29c5a738216c81d1f692d1b786a8f0d670af523)
 - [ ] [<code>SettingsPage: change css name (#285)</code>](https://github.com/elementary/switchboard/commit/66f3afa0dceab1bc7bbdc025aa622b7b84f5e0bc)
 - [ ] [<code>SettingsPage: add functions for buttons (#286)</code>](https://github.com/elementary/switchboard/commit/5d082c38199432325b231f79afc7f44e24ca5a68)
+- [ ] [<code>CategoryView: cleanup (#287)</code>](https://github.com/elementary/switchboard/commit/04fc6f0c0a495d4bb823664b5fadca412dbbdeef)
+- [ ] [<code>SearchView: title results with last item (#288)</code>](https://github.com/elementary/switchboard/commit/f455c881e80a8632150bd1c7cd47ce74605bd0ca)
+- [ ] [<code>SettingsPage: use gicon instead of icon_name (#289)</code>](https://github.com/elementary/switchboard/commit/5aa90d6aadf63ecc4dcaffca3826cf971eccc5d9)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
