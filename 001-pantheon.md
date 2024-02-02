@@ -1114,3 +1114,4 @@
 - [ ] [<code>Desktop: switchboard-pantheon-shell → settings.desktop (#116)</code>](https://github.com/elementary/seeds/commit/37452ebba953eacde0ac10ee9ceb918779a93486)
 - [ ] [<code>Desktop: switchboard-keyboard → settings.keyboard (#117)</code>](https://github.com/elementary/seeds/commit/3d206ac867e2ca37e12e46239bbb4c0c2624c257)
 - [ ] [<code>Ship systemd-coredump (#118)</code>](https://github.com/elementary/seeds/commit/82084578142e91da6814f62987d183db5d202aeb)
+- [ ] [<code>SDK: Add switchboard-3 (#119)</code>](https://github.com/elementary/seeds/commit/3b61373cef758d0fa34d83e6737b751f3ddf7acb)
