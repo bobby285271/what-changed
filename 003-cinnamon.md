@@ -90,6 +90,9 @@
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/nemo/commit/5e2b088d7d32221978ddb658302d4604e266a8a6)
 - [ ] [<code>nemo-action-manager.c: Fix order of actions</code>](https://github.com/linuxmint/nemo/commit/f866998b39cc170077b75fe0067357fdb4b3c66c)
 - [ ] [<code>nemo-action-manager.c: Do not reinvent strcmp</code>](https://github.com/linuxmint/nemo/commit/3afe9d8890585bc7d0049fa11e24c929ed76a531)
+- [ ] [<code>mimetype defs: Add missing key names.</code>](https://github.com/linuxmint/nemo/commit/0cb7df4844578b4f646bb7450dd38279518a2a16)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nemo-list-view.c: Add a permanent bottom margin when overlay</code>](https://github.com/linuxmint/nemo/commit/086a29d2dc2789afd7913da28545e695f6a49331)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -102,7 +105,10 @@
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
 - [ ] [<code>Adapt to upstream packaging changes (#201)</code>](https://github.com/linuxmint/warpinator/commit/414ac65acf8f6ea6fa4e8945863333dba984176d)
+- [ ] [<code>Add a 'restart' item to the menu.</code>](https://github.com/linuxmint/warpinator/commit/a81c39d7786610fcf9cd6b1e536f66137970df2f)
+- [ ] [<code>warpinator-launch.py: Fix hardcoded paths.</code>](https://github.com/linuxmint/warpinator/commit/1aeae3a4789ea9726cb70bdeaa93647980183abd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
@@ -153,6 +159,7 @@
 
 - [ ] [<code>added shortcut to duplicate selection (#615)</code>](https://github.com/linuxmint/xed/commit/31356503c9d83f57cdbb9015119ca3544966c52f)
 - [ ] [<code>added condition to not save empty doc (#617)</code>](https://github.com/linuxmint/xed/commit/318fe4db3085c0e046705fa6aad0947c456cde0e)
+- [ ] [<code>removed trailing space char in custom date time (#616)</code>](https://github.com/linuxmint/xed/commit/a453117eddeebe41cef2b4812ff0db284437cbd3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
