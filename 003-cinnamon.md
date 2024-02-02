@@ -43,6 +43,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Remove orphaned include (#164)</code>](https://github.com/linuxmint/cinnamon-session/commit/37dbe7c1a302ad22c24651bdd0787f1a8374c582)
+- [ ] [<code>cinnamon-session-quit.py: Set logout window to keep-above and all-</code>](https://github.com/linuxmint/cinnamon-session/commit/bab87485cb7a4d67c1ce8bbae51efc5195c9d6d2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
