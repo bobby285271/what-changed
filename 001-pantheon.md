@@ -125,6 +125,8 @@
 - [ ] [<code>Fix completion (#2396)</code>](https://github.com/elementary/files/commit/afeea89ed9e7f97dc1a6a72a7cdb1db2c2acf66b)
 - [ ] [<code>[Gtk4Prep] ViewContainer: Use GestureMultiPress (#2400)</code>](https://github.com/elementary/files/commit/4edd3bab46434d4b3ebf99154bc78ae6382ef4ae)
 - [ ] [<code>Window: do not capture keyevents when view is renaming (#2398)</code>](https://github.com/elementary/files/commit/5199272e7eacd2064e7015af0ec7d7e02ac24700)
+- [ ] [<code>[Gtk4Prep] Bookmarks: Use GestureMultiPress (#2406)</code>](https://github.com/elementary/files/commit/eb500d9eed689a66b8ce0c96155031298102f279)
+- [ ] [<code>[Gtk4Prep] Breadcrumbs: Use EventControllerMotion (#2405)</code>](https://github.com/elementary/files/commit/dc796bc76aee674e5807620600ac6cbc63b0cc7b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -326,6 +328,8 @@
 - [ ] [<code>CategoryView: cleanup (#287)</code>](https://github.com/elementary/switchboard/commit/04fc6f0c0a495d4bb823664b5fadca412dbbdeef)
 - [ ] [<code>SearchView: title results with last item (#288)</code>](https://github.com/elementary/switchboard/commit/f455c881e80a8632150bd1c7cd47ce74605bd0ca)
 - [ ] [<code>SettingsPage: use gicon instead of icon_name (#289)</code>](https://github.com/elementary/switchboard/commit/5aa90d6aadf63ecc4dcaffca3826cf971eccc5d9)
+- [ ] [<code>SettingsPage: make description settable (#290)</code>](https://github.com/elementary/switchboard/commit/bf3088c3d0b0a034a2c614147d858f1bb9d9b932)
+- [ ] [<code>SettingsPage: add with_avatar option (#291)</code>](https://github.com/elementary/switchboard/commit/5a832ef676e48e6ade200adf65572bc414d2aeec)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -370,6 +374,7 @@
 - [ ] [<code>OperatingSystemView: use urgent icon if updates contain security (#292)</code>](https://github.com/elementary/switchboard-plug-about/commit/023f86b9e97c192d4f649ba788d660fb5e77582c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>OperatingSystemView: Add a switch for automatic updates (#294)</code>](https://github.com/elementary/switchboard-plug-about/commit/b07da6e6ecb8c41e66a98cef080e320b7803a02a)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -665,6 +670,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sound/commit/81187c243a55a55c93637a9ca53c41607b876ec3)
 - [ ] [<code>Fix muting (#261)</code>](https://github.com/elementary/switchboard-plug-sound/commit/fe0a776965fbb705a13f9efd61fb11f8231953a5)
 - [ ] [<code>Add translation context for "Left" / "Right" (#262)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ba7bdeeeb8c573c2804d27350a04b4f84ce8a0ea)
+- [ ] [<code>Search Results: include missing output items (#263)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c7b07e360c6a12a5fcda80c279b8392a0e164dea)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -742,6 +748,7 @@
 - [ ] [<code>Allow focusing PageChecker, scroll to View when it contains focus (#218)</code>](https://github.com/elementary/onboarding/commit/31d50845627e6379bd9088bd62ef64617314dcb9)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#220)</code>](https://github.com/elementary/onboarding/commit/4d21e3f46a4d9163715e2e92d5f731af15d92cff)
 - [ ] [<code>Application: use Granite.init (#222)</code>](https://github.com/elementary/onboarding/commit/7cdc8aae44674ddfc3a7f5f24594ea301fcab779)
+- [ ] [<code>Improve screenreader support (#225)</code>](https://github.com/elementary/onboarding/commit/8e06c643e28e252a36b8d412067ec80498c86e8e)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -839,6 +846,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppContextMenu: update for new Dock (#587)</code>](https://github.com/elementary/applications-menu/commit/d2f6c185e4325afd4633ac0cc08c5de6682479ad)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update githubci.yml (#589)</code>](https://github.com/elementary/applications-menu/commit/9c88d4b793266dc7338793a49fb30eebf477a820)
+- [ ] [<code>Simplify PluginInfo (#588)</code>](https://github.com/elementary/applications-menu/commit/bb3de8c0b0cd518dc10e947ec3a16b0c1504229a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update githubci.yml (#590)</code>](https://github.com/elementary/applications-menu/commit/d122036180d78441a46641bbca93647c5e418c41)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
