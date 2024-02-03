@@ -406,6 +406,7 @@
 - [ ] [<code>Update gettext.yml (#212)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/20b881cc31970fff46562fba84c0eb39440f03fb)
 - [ ] [<code>Update githubci.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/03c2e765c705f701967a385a073010031c1afd59)
 - [ ] [<code>DeviceRow: center valign buttons (#215)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/1721aed9689e14bf9847d07f5fe415e595d3bfa6)
+- [ ] [<code>Use new Switchboard.SettingsPage (#216)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/a6ce52d3087a585ebc1257cbabc0e2b022722d3d)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -495,6 +496,7 @@
 - [ ] [<code>Use Switchboard.SettingsPage and SettingsSidebar (#226)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8fca39a365ac5c260bfd5d0cf76ebf5cb6f1d0c5)
 - [ ] [<code>Plug: make search strings title case (#229)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9b9af237433f3a0cf455226e3287645fa6f8c3d2)
 - [ ] [<code>Add translation context for "Left" / "Right" (#230)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/14b360c3cb2e5d9e106c009c61885d49dded789a)
+- [ ] [<code>Use Icon instead of icon name (#231)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8d9a73e50420e4b08b8e0f44aad496c6c4d246f6)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -537,6 +539,7 @@
 - [ ] [<code>Plug.vala: more concise placeholder copy (#81)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/26873b0f064a048076054937bdc09ad90278443c)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-notifications/commit/ba0a13c926004d77a4269c1eae946c64d9e81cf5)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/382c1b9b83d86174b8ae74d1a5e3e6915700c956)
+- [ ] [<code>Use Switchboard.SettingsPage (#99)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1f5763b717296c6a449a8a8bc3ac29df8dc27032)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -825,6 +828,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Clean up CSS and fix issues with shadows and struts (#493)</code>](https://github.com/elementary/wingpanel/commit/0fb4a14b3134b07fd4510f3bfec46b4f0193f20a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add sorting for QuickSettings (#516)</code>](https://github.com/elementary/wingpanel/commit/cae197c953f4332e67cf0a5457b4e54f8adc3424)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
