@@ -26,7 +26,7 @@
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-desktop/commit/83f4f7744b44bed997803aa0775b38258a7a1b0e)
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a9d71d12e3ceb4c93d3da830a8d9e46183d79b26)
 - [ ] [<code>Remove a misspelled (and redundant) build option from the README.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/96ae2a514a1ff0effe1181db47ff26b5e1267ad7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
@@ -44,7 +44,7 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Remove orphaned include (#164)</code>](https://github.com/linuxmint/cinnamon-session/commit/37dbe7c1a302ad22c24651bdd0787f1a8374c582)
 - [ ] [<code>cinnamon-session-quit.py: Set logout window to keep-above and all-</code>](https://github.com/linuxmint/cinnamon-session/commit/bab87485cb7a4d67c1ce8bbae51efc5195c9d6d2)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
@@ -55,7 +55,7 @@
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cjs/commit/3ca108511ec6b6e436592180fcb167a39b6031d6)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [18102c72ba072cd83ccee69e9051e87e93cab01a → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/18102c72ba072cd83ccee69e9051e87e93cab01a...HEAD)
 
@@ -94,7 +94,7 @@
 - [ ] [<code>mimetype defs: Add missing key names.</code>](https://github.com/linuxmint/nemo/commit/0cb7df4844578b4f646bb7450dd38279518a2a16)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>nemo-list-view.c: Add a permanent bottom margin when overlay</code>](https://github.com/linuxmint/nemo/commit/086a29d2dc2789afd7913da28545e695f6a49331)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -116,7 +116,7 @@
 - [ ] [<code>xapp-gpu-offload: Fix argument handling for the offload target.</code>](https://github.com/linuxmint/xapp/commit/7ab8d1b93ea56b211e2a100a5b92cc1c843c10cc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
