@@ -829,6 +829,7 @@
 - [ ] [<code>Clean up CSS and fix issues with shadows and struts (#493)</code>](https://github.com/elementary/wingpanel/commit/0fb4a14b3134b07fd4510f3bfec46b4f0193f20a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add sorting for QuickSettings (#516)</code>](https://github.com/elementary/wingpanel/commit/cae197c953f4332e67cf0a5457b4e54f8adc3424)
+- [ ] [<code>Remove unused translation string</code>](https://github.com/elementary/wingpanel/commit/8868fbcaebdd26d7a1de34a6d698b85ee3660451)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
