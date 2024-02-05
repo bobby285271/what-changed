@@ -733,6 +733,12 @@
 - [ ] [<code>Override `switch-group` and `switch-group-backward` (#287)</code>](https://github.com/elementary/default-settings/commit/6c5bbff3edcbe020e9decdd71ea11f799ef0097f)
 - [ ] [<code>GSD: Remove volume shortcuts (#297)</code>](https://github.com/elementary/default-settings/commit/2d246b160463f30f7bf0f34402b8579547097d7a)
 - [ ] [<code>Disable "You are now offline" notifications (#290)</code>](https://github.com/elementary/default-settings/commit/f60cbd0c85ad4ea8670375614a2a6392061ac9a6)
+- [ ] [<code>Delete skel/plank directory (#300)</code>](https://github.com/elementary/default-settings/commit/b203f6b3bce312095af9973bbcd7fecb118a4e36)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove plank folder from deb packaging</code>](https://github.com/elementary/default-settings/commit/4ed8cbc1cc087bdfb71a27ea9619fcb60d964225)
+- [ ] [<code>Schema overrides are already installed by meson</code>](https://github.com/elementary/default-settings/commit/f34c7580fbda54a04d3f20540e630a9c61ce1e09)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
