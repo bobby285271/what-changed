@@ -127,6 +127,7 @@
 - [ ] [<code>Window: do not capture keyevents when view is renaming (#2398)</code>](https://github.com/elementary/files/commit/5199272e7eacd2064e7015af0ec7d7e02ac24700)
 - [ ] [<code>[Gtk4Prep] Bookmarks: Use GestureMultiPress (#2406)</code>](https://github.com/elementary/files/commit/eb500d9eed689a66b8ce0c96155031298102f279)
 - [ ] [<code>[Gtk4Prep] Breadcrumbs: Use EventControllerMotion (#2405)</code>](https://github.com/elementary/files/commit/dc796bc76aee674e5807620600ac6cbc63b0cc7b)
+- [ ] [<code>EmptyTrashJob: rewrite without dialog.run (#2248)</code>](https://github.com/elementary/files/commit/639b71e08e2b5d2d088a141d47f27487d2540cbf)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
