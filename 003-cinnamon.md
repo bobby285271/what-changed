@@ -11,8 +11,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12036 from claudiux/sound-applet_fix12035</code>](https://github.com/linuxmint/cinnamon/commit/137d7475cd8c5b3469f99ac7a46dcfe8c16c865e)
 - [ ] [<code>Add a fix for webkit dev's failure to care about breaking online-accounts for nvidia users (#12044)</code>](https://github.com/linuxmint/cinnamon/commit/6b986f02974dd3a12eb040f7fcbe1389d02d9f66)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>window lists: don't attention flash focused window (#12006)</code>](https://github.com/linuxmint/cinnamon/commit/a14bfc9d0e55567e2d22e2adc295128829743965)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove dynamic text direction for table (#12012)</code>](https://github.com/linuxmint/cinnamon/commit/00510760fccc5b354fa13c80d9d111fda5c07405)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -48,6 +51,8 @@
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
+- [ ] [<code>Fix compile issue (#386)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/48da3c4763bea93ea3e1d2ba2e2dfdb7f41d8afc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
@@ -84,7 +89,8 @@
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/muffin/commit/1f00c33a06ba5fe847ef0c7a5bfd1f5586be7640)
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/muffin/commit/595d0733e7bda3bab483a2e86929204c262dc10f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>Fix compile issue (#683)</code>](https://github.com/linuxmint/muffin/commit/38919a88b2b8381f5b24b69742d1b9db32029c61)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
@@ -94,7 +100,15 @@
 - [ ] [<code>mimetype defs: Add missing key names.</code>](https://github.com/linuxmint/nemo/commit/0cb7df4844578b4f646bb7450dd38279518a2a16)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>nemo-list-view.c: Add a permanent bottom margin when overlay</code>](https://github.com/linuxmint/nemo/commit/086a29d2dc2789afd7913da28545e695f6a49331)
+- [ ] [<code>Implement submenus for actions.</code>](https://github.com/linuxmint/nemo/commit/ef4adc04dfdec53a267768a113cd15f844831d94)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>nemo-action.c: Add Locations and Files fields.</code>](https://github.com/linuxmint/nemo/commit/7be3fbfcd6857c595868090aca9bce0dba9df1a8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Make wayland dependency optional (#3347)</code>](https://github.com/linuxmint/nemo/commit/3fc6c6ed9267c7b44765a7950ffa6729ad751cc7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -102,21 +116,27 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
 
+- [ ] [<code>apply jxl patch from gthumb, adds support for jxl-0.9.0 (#205)</code>](https://github.com/linuxmint/pix/commit/0de1387da0d1fce51e5c2db04a9a88e64f7c4336)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
 - [ ] [<code>Adapt to upstream packaging changes (#201)</code>](https://github.com/linuxmint/warpinator/commit/414ac65acf8f6ea6fa4e8945863333dba984176d)
 - [ ] [<code>Add a 'restart' item to the menu.</code>](https://github.com/linuxmint/warpinator/commit/a81c39d7786610fcf9cd6b1e536f66137970df2f)
 - [ ] [<code>warpinator-launch.py: Fix hardcoded paths.</code>](https://github.com/linuxmint/warpinator/commit/1aeae3a4789ea9726cb70bdeaa93647980183abd)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>warpinator-launch.py: (bwrap) Deal with systems that use /tmp for</code>](https://github.com/linuxmint/warpinator/commit/fa0631874fe68f71d68180af76caac5ccf6717ab)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
 - [ ] [<code>xapp-gpu-offload: Fix argument handling for the offload target.</code>](https://github.com/linuxmint/xapp/commit/7ab8d1b93ea56b211e2a100a5b92cc1c843c10cc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
+- [ ] [<code>Distro packaging updates (#176)</code>](https://github.com/linuxmint/xapp/commit/f30b9d162dae0055e662dc2ae3fa51a47650ae0c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
