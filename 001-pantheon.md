@@ -128,6 +128,11 @@
 - [ ] [<code>[Gtk4Prep] Bookmarks: Use GestureMultiPress (#2406)</code>](https://github.com/elementary/files/commit/eb500d9eed689a66b8ce0c96155031298102f279)
 - [ ] [<code>[Gtk4Prep] Breadcrumbs: Use EventControllerMotion (#2405)</code>](https://github.com/elementary/files/commit/dc796bc76aee674e5807620600ac6cbc63b0cc7b)
 - [ ] [<code>EmptyTrashJob: rewrite without dialog.run (#2248)</code>](https://github.com/elementary/files/commit/639b71e08e2b5d2d088a141d47f27487d2540cbf)
+- [ ] [<code>[Gtk4Prep] Icons: Lose unused icons (#2409)</code>](https://github.com/elementary/files/commit/30ac6d8b4cfe49d8afaa670bfffff74a5680da18)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Gtk4Prep] StyleContext getters (#2407)</code>](https://github.com/elementary/files/commit/a48cc4dcd0d82897efc29f142f1a4c4300f3b440)
+- [ ] [<code>[Gtk4Prep] AbstractDirectoryView: Use EventControllerMotion (#2404)</code>](https://github.com/elementary/files/commit/67adf579fe76046f9d63eb02d7276c8f78d4bcab)
+- [ ] [<code>[Gtk4Prep] Breadcrumbs: Use GestureMultiPress (#2401)</code>](https://github.com/elementary/files/commit/62c798702b7322429e1e4544045620d51545ae9a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
