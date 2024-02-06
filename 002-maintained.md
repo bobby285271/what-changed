@@ -260,6 +260,8 @@
 
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/461e6b244a63bf2d3ad70ade8f59ab84253196f0)
 - [ ] [<code>Merge pull request #601 from albanobattistella/patch-31</code>](https://github.com/phase1geo/minder/commit/33de638ce088fa6fdaa729c5a0fa1dc6ecfb4454)
+- [ ] [<code>Fixing UX issues</code>](https://github.com/phase1geo/minder/commit/f9cb1887453c017607662ff3637ccc53a34656d0)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
