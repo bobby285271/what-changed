@@ -1,9 +1,39 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [d93e135a0b0c9a6e0fbad18fe90d46425823a42c → HEAD](https://github.com/elementary/appcenter/compare/d93e135a0b0c9a6e0fbad18fe90d46425823a42c...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [fce55d9373bfb82953191b32e276a2129ffcb8c1 → HEAD](https://github.com/elementary/appcenter/compare/fce55d9373bfb82953191b32e276a2129ffcb8c1...HEAD)
 
-- [ ] [<code>gschema: default auto updates to true (#2110)</code>](https://github.com/elementary/appcenter/commit/11c70a8d6e2ee73a769f62804c1d6443cd51d75b)
+- [ ] [<code>Dont check for automatic updates when getting update number (#2104)</code>](https://github.com/elementary/appcenter/commit/7b0ef173a3d0b71f144bf1ed3a2b8159b33ef500)
+- [ ] [<code>Remove OS updates (#2111)</code>](https://github.com/elementary/appcenter/commit/48598e9691badf419d1a700df7547ee90ddbad2e)
+- [ ] [<code>Port to Gtk 4 (#1896)</code>](https://github.com/elementary/appcenter/commit/d541ca361e9d38bb18ab4ac67a4eba9b1caed6a9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/appcenter/commit/b1e414f703f71773b7a50a6d57ea9a18f94e7aef)
+- [ ] [<code>Use add/remove_css_class where possible (#2114)</code>](https://github.com/elementary/appcenter/commit/4ebb1809c94a0a984f302ad268b27146dc12d91f)
+- [ ] [<code>UpdateManager: handle notifications (#2112)</code>](https://github.com/elementary/appcenter/commit/f1f394ad51f8fb4b5a8dde83dc5c507c134057ca)
+- [ ] [<code>show_uri → UriLauncher (#2123)</code>](https://github.com/elementary/appcenter/commit/82660f5739c7f78e33f9c25ab00780eb777f0703)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ComponentValidator: drop hiddenapps function</code>](https://github.com/elementary/appcenter/commit/2255e3360a34ef46b6b2c6530aa9adba558abb72)
+- [ ] [<code>Move validate func to BackendInterface</code>](https://github.com/elementary/appcenter/commit/0cddaf358757a5dc0c99d923f1e16d779a828dc7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add Sass build system (#2116)</code>](https://github.com/elementary/appcenter/commit/66783eb97bdb5ea393d2db74a3b380d1a208541e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>AppInfoView: screenshot content fit is scale down (#2121)</code>](https://github.com/elementary/appcenter/commit/569048d84f611732a892e951208f1b6f5f59bf01)
+- [ ] [<code>Make pages subclass Adw.NavigationPage (#2118)</code>](https://github.com/elementary/appcenter/commit/71811e48729b63e4f2e42353db54e2b45fca13e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Separate ProgressButton from AbstractAppContainer (#2125)</code>](https://github.com/elementary/appcenter/commit/9870890b06daa14762afc825367154c2dee6f201)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>UpdateManager: take over updates_number from client (#2119)</code>](https://github.com/elementary/appcenter/commit/c26eead66dc24f3c454b3692b8755df61292a11e)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/54dc61ce544cb5c451ee50125c0772a40929ccfd)
+- [ ] [<code>AppInfoView: replace combobox with dropdown (#2117)</code>](https://github.com/elementary/appcenter/commit/c7660607ebbf255f79e94e2e510bb99cd3e0e4e1)
+- [ ] [<code>Create ActionStack widget (#2127)</code>](https://github.com/elementary/appcenter/commit/8431da8d3ad96759013be276b1ad26abc7af7266)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainWindow: remove set_return_name function (#2131)</code>](https://github.com/elementary/appcenter/commit/123cfd377fb1daf10e242c939f1c8f8c4e3afada)
+- [ ] [<code>MainWindow: Adw.Leaflet → Adw.NavigationView (#2130)</code>](https://github.com/elementary/appcenter/commit/e6bc1113af14b255d3b8d0ec068e35935d801153)
+- [ ] [<code>Don't check for updates in the guest session (#2090)</code>](https://github.com/elementary/appcenter/commit/35ccd8dc7112f915f09500c4b072213b6b5978c0)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -40,6 +70,9 @@
 - [ ] [<code>[GTK4 Prep] Moved Granite.Widgets.SourceList source code into codebase (#1419)</code>](https://github.com/elementary/code/commit/afcc098e10782d8403ebbdcb912bfb4754fc25b1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Store relative file paths for fuzzy finder in sets (#1420)</code>](https://github.com/elementary/code/commit/7e6b5230796187782016833c6bb6b40a028e9a4a)
+- [ ] [<code>Draw spaces on current line option (#1348)</code>](https://github.com/elementary/code/commit/1359d0944478c36ed64ce00054ab2c5d152e0459)
+- [ ] [<code>Do not highlight neighbouring words of selected space (#1300)</code>](https://github.com/elementary/code/commit/516a3fdae9526d2bf459cf84ce1b015cf88ddcdb)
+- [ ] [<code>Put branch name on separate line (#1423)</code>](https://github.com/elementary/code/commit/81b4869e9a7b11a52e41ca1df634d4ada0caf907)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -90,6 +123,9 @@
 - [ ] [<code>GSettings: default to new System Settings (#212)</code>](https://github.com/elementary/dock/commit/e9d3a886878732626c5e1d2ca2dad697cfbf57bc)
 - [ ] [<code>Add i18n (#215)</code>](https://github.com/elementary/dock/commit/a904f81a1baac702c59242c871c1cbe9d82f78f7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Launcher: animate bounce with Adw (#216)</code>](https://github.com/elementary/dock/commit/803caf66b99fce11cb3229895b7c1b9b5f85c443)
+- [ ] [<code>Styles: make dock more subtle (#220)</code>](https://github.com/elementary/dock/commit/5c88f1dcaa7756e606b4cfe712e53cf22577e302)
+- [ ] [<code>Animate launcher add/remove (#218)</code>](https://github.com/elementary/dock/commit/0fa7742fbe1d127457a3d7b1ea95f4d5073d911f)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -97,6 +133,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#101)</code>](https://github.com/elementary/feedback/commit/e8049bfee9e2e9dad15c2f60777ca0b2e3ce6f83)
 - [ ] [<code>Add support for AppStream 1.0 (#102)</code>](https://github.com/elementary/feedback/commit/8bfedbb387ecebf4f7cde31ea72904fff4457447)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Application: init Granite</code>](https://github.com/elementary/feedback/commit/5ef63eb606d463b14952f2995c5dd82aa5a36895)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -133,6 +170,13 @@
 - [ ] [<code>[Gtk4Prep] StyleContext getters (#2407)</code>](https://github.com/elementary/files/commit/a48cc4dcd0d82897efc29f142f1a4c4300f3b440)
 - [ ] [<code>[Gtk4Prep] AbstractDirectoryView: Use EventControllerMotion (#2404)</code>](https://github.com/elementary/files/commit/67adf579fe76046f9d63eb02d7276c8f78d4bcab)
 - [ ] [<code>[Gtk4Prep] Breadcrumbs: Use GestureMultiPress (#2401)</code>](https://github.com/elementary/files/commit/62c798702b7322429e1e4544045620d51545ae9a)
+- [ ] [<code>AbstractDirectoryView: claim button press when appropriate (#2410)</code>](https://github.com/elementary/files/commit/ea488bf600467752856c10c97fab99bd80ad417a)
+- [ ] [<code>RenamerDialog: Use C_ instead of NC_ (#2413)</code>](https://github.com/elementary/files/commit/fdc875fb96f63c3c556f95808e3bad3295f8b1ea)
+- [ ] [<code>[Regression] Views: Get correct clickzone information when scrolled. (#2412)</code>](https://github.com/elementary/files/commit/5333f6be738d67960e100099f7a6e6e00683a74e)
+- [ ] [<code>[Gtk4Prep] SearchResults: Use EventControllers, disambiguate view name (#2402)</code>](https://github.com/elementary/files/commit/7b78fa0eb36b9af8f14b6f0ccb6e5df945c269fd)
+- [ ] [<code>Regression: Fix dragging file items (#2417)</code>](https://github.com/elementary/files/commit/41ef82ca535d759d00599602b336bcd0104b1ef4)
+- [ ] [<code>[Gtk4Prep] Cleanup DnD (#2418)</code>](https://github.com/elementary/files/commit/d714ab1b140f2c04b44c6d09e10f886c7132d596)
+- [ ] [<code>[Regression] Fix dragging multiple items (#2421)</code>](https://github.com/elementary/files/commit/8785418f4ee750fe930b79d4d29fc3a5caaf4989)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -171,6 +215,8 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#759)</code>](https://github.com/elementary/music/commit/07296f502476bbd2d19e806cb5ff5b2777619207)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#760)</code>](https://github.com/elementary/music/commit/26654fbfb675cc2ad05fc295b2392901c658f85e)
 - [ ] [<code>CI: use flatpak gettext action (#761)</code>](https://github.com/elementary/music/commit/f0efd85eb1ed75b35f5ac21cd8541d460ff237de)
+- [ ] [<code>meson: Fix build warning (#768)</code>](https://github.com/elementary/music/commit/410f48653611ef47c130ffd260ffea1ccccabcf6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -336,6 +382,13 @@
 - [ ] [<code>SettingsPage: use gicon instead of icon_name (#289)</code>](https://github.com/elementary/switchboard/commit/5aa90d6aadf63ecc4dcaffca3826cf971eccc5d9)
 - [ ] [<code>SettingsPage: make description settable (#290)</code>](https://github.com/elementary/switchboard/commit/bf3088c3d0b0a034a2c614147d858f1bb9d9b932)
 - [ ] [<code>SettingsPage: add with_avatar option (#291)</code>](https://github.com/elementary/switchboard/commit/5a832ef676e48e6ade200adf65572bc414d2aeec)
+- [ ] [<code>SettingsPage: add option to show end title buttons (#293)</code>](https://github.com/elementary/switchboard/commit/697df7217177f3f098d9248682b91a3f9988e4eb)
+- [ ] [<code>Leaflet → NavigationView (#292)</code>](https://github.com/elementary/switchboard/commit/8a991fa626720963eee518b94802e2bdd1e45b81)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Application: don't duplicate accel handling (#298)</code>](https://github.com/elementary/switchboard/commit/c66a2e3eba05d0508d96f6bc23bbcd27f65d621b)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard/commit/a7a0b507577484229fe59701a2b2f56d2b04eab2)
+- [ ] [<code>SettingsSidebar: add a show_title_buttons option (#299)</code>](https://github.com/elementary/switchboard/commit/d598758aa10a0b6a58d1376394ac02eacfa618b9)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -381,6 +434,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>OperatingSystemView: Add a switch for automatic updates (#294)</code>](https://github.com/elementary/switchboard-plug-about/commit/b07da6e6ecb8c41e66a98cef080e320b7803a02a)
+- [ ] [<code>FirmwareView: use Switchboard.SettingsPage (#297)</code>](https://github.com/elementary/switchboard-plug-about/commit/c973a734f15869bcaa3989771e054fa29ebd7ec8)
+- [ ] [<code>OperatingSystemView: load logo asynchronoulsy when the plug was shown (#301)</code>](https://github.com/elementary/switchboard-plug-about/commit/b457cece2497d840959fd8fcd860dad901fc7738)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -434,6 +489,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3871f339614879b66d85a6aadc599d6bf851e03a)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/5f9a60e003dee4e8a4114ec54142b79b8e113e8d)
+- [ ] [<code>Use Switchboard.SettingsPage (#116)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0fc3083807b7d980868adfabf394c479dd541f25)
+- [ ] [<code>MainView: use HeaderLabel for week numbers (#117)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e4da0b1c95d1da3a8309ae94d98864e1c26355d5)
+- [ ] [<code>Fix initial timezone radio button state (#118)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/833674b0e55f83729e9fc4b529e54ff624769b7e)
+- [ ] [<code>MainView: fix markup compiler warning (#121)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0be7fd8092fd00ba7196ec033070442ce2bf2478)
+- [ ] [<code>MainView: use bind_with_mapping to set auto icon (#120)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/9236206d05303c621555bfdd6e4eee603876218e)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -442,6 +502,17 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#363)</code>](https://github.com/elementary/switchboard-plug-display/commit/c021e020cdd7e249deb38eb9cc87ec78d4a1341b)
 - [ ] [<code>DisplaysOverlay: keep a list of widgets (#370)</code>](https://github.com/elementary/switchboard-plug-display/commit/bd5f012d1731c9f87437df2578553298060672d5)
 - [ ] [<code>DisplaysView: Gtk4 prep (#373)</code>](https://github.com/elementary/switchboard-plug-display/commit/bca923c295fef22a6e6fed4cc5e702927b81c300)
+- [ ] [<code>Use daemon to show display labels (#372)</code>](https://github.com/elementary/switchboard-plug-display/commit/eb6bd00162a74cb4b9b497e7c72fc2fdabe94019)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: Don't run extra build</code>](https://github.com/elementary/switchboard-plug-display/commit/25bcd3e9cf1994a4e3738648a418e6180d9956ba)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-display/commit/7794d9b50805f3d1a5e7646f16a5ddba10683726)
+- [ ] [<code>Move drag gesture to overlay; simplify (#376)</code>](https://github.com/elementary/switchboard-plug-display/commit/992f1a7d1eca30eb4f0b114701dbbab4cfe01c9a)
+- [ ] [<code>DisplaysOverlay: put overlay in a box (#378)</code>](https://github.com/elementary/switchboard-plug-display/commit/126f397e54af0ae49ecdd9df1775466018a79f90)
+- [ ] [<code>Styles: Gtk4 prep (#379)</code>](https://github.com/elementary/switchboard-plug-display/commit/f761b3ce0fe7d1215c2df4fdba986f1ac831f895)
+- [ ] [<code>Port to GTK4 (#369)</code>](https://github.com/elementary/switchboard-plug-display/commit/784f33fe0cfec3fc708e54fb4d5c29a4816d27c6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/931beb7817d6ca7248edadb800bcb8daa1b76099)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -526,6 +597,12 @@
 - [ ] [<code>VPNPage: rewrite connection forget (#388)</code>](https://github.com/elementary/switchboard-plug-network/commit/c73e883e3b1cab603bd0cb5ae274dcee9be65dfe)
 - [ ] [<code>Socks -> SOCKS (#393)</code>](https://github.com/elementary/switchboard-plug-network/commit/583f5f922ced7a5c6478a6a99bbef38445206979)
   - <sub>Keywords: <code>org.gnome.system</code></sub>
+- [ ] [<code>Port to GTK4 (#335)</code>](https://github.com/elementary/switchboard-plug-network/commit/fc3d54fba4a79d9c0f1c885a34e9b2b9d79cb177)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/8921ebb0ef7843f6b05ba7479cf17f0aa1498b5c)
+- [ ] [<code>Granite.SimpleSettingsPage → Switchboard.SettingsPage (#395)</code>](https://github.com/elementary/switchboard-plug-network/commit/d13a955c6aa3d1c816ac09e3d4b84e33961d3b1d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -546,6 +623,8 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-notifications/commit/ba0a13c926004d77a4269c1eae946c64d9e81cf5)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/382c1b9b83d86174b8ae74d1a5e3e6915700c956)
 - [ ] [<code>Use Switchboard.SettingsPage (#99)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1f5763b717296c6a449a8a8bc3ac29df8dc27032)
+- [ ] [<code>AppSetttingsView: redesign (#101)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/92ae212a409c203f6f54a4e541a5ce49ac522a60)
+- [ ] [<code>AppSettingsView: don't block settings when DND is active (#102)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1dde134e74ed747c74732f42745eb6408f28aae8)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -559,6 +638,8 @@
 - [ ] [<code>Make Parallel installable with GTK 3 (#275)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c469bf1bef0f00902ca28a58efee3bb87fdbd11c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update ci.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/6a56fa9da9df4de7f9cf91fcbf373cb7aad3e791)
+- [ ] [<code>Ship our own icons (#277)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/adca3174cce855b4108e4e3d69c69ba3b7f7aa29)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -586,6 +667,13 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Rename .pot</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7254af2375b29922cd70767b7b096f854035caf6)
+- [ ] [<code>WallpaperContainer: use features of Gtk.Picture (#386)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a6a363b469c4a0cacc1ce14e46ef1ef1f345fdce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/7cae0772b6a745a01e79bc85e698f982cfbf3ec4)
+- [ ] [<code>Remove contract (#387)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/70eab860b61d60d7af11ae3cfd19f21b10fb586d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -611,6 +699,26 @@
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/213de956d95346fb03409385c4138d00d20c4aa4)
 - [ ] [<code>Readme: fix translation status badge (#242)</code>](https://github.com/elementary/switchboard-plug-power/commit/36bd13a9d53594d4aefb7f90cead142c867f27bc)
 - [ ] [<code>Expose automatic lower power mode setting (#245)</code>](https://github.com/elementary/switchboard-plug-power/commit/a3cf2cc43ab59a64ed262cf1e55d343f7fb98cea)
+- [ ] [<code>MainView: subclass SettingsPage (#247)</code>](https://github.com/elementary/switchboard-plug-power/commit/93937180a8aa30059f0ee62b8a52a6a42376a811)
+- [ ] [<code>Use settings-daemon to manage power profiles (#243)</code>](https://github.com/elementary/switchboard-plug-power/commit/7b4996b346e77dd01e96d6aa73cc8cb732f011ff)
+- [ ] [<code>PowerSupply, Battery → PowerManager (#249)</code>](https://github.com/elementary/switchboard-plug-power/commit/c78649e5b972a6538b2964aa530aac702be68868)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PowerModeButton: cleanup (#246)</code>](https://github.com/elementary/switchboard-plug-power/commit/3b1dbc49248759cb224452aa59f8a9cbee7addc6)
+- [ ] [<code>MainView: show auto power save in battery section (#250)</code>](https://github.com/elementary/switchboard-plug-power/commit/7cb71b3453683b5cbb179c0c3da8d90868be46bf)
+- [ ] [<code>Add BatteryBox (#252)</code>](https://github.com/elementary/switchboard-plug-power/commit/eb635b898036aebdb829da1e0ad75d8b9e0d8df0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainView: use Gtk.Dropdown for power button behavior (#248)</code>](https://github.com/elementary/switchboard-plug-power/commit/e6becbee9eab5da3e1742eb39dc1696209421194)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PowerManager: store devices in a liststore (#254)</code>](https://github.com/elementary/switchboard-plug-power/commit/b0397730629356ccc3f7935762f6e4fb74a287a9)
+- [ ] [<code>Meson: bump minimum gio-2.0 (#259)</code>](https://github.com/elementary/switchboard-plug-power/commit/52909d097a296aa8e549ab8189bf3b3b5b96bd45)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MainView: get permission async (#260)</code>](https://github.com/elementary/switchboard-plug-power/commit/578f409c39b63e1c124f5c5cff9d6a019168cf23)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-power/commit/789e629433acd6d2dd572a56b60574638b97c920)
+- [ ] [<code>MainView: justify layout, space between sections (#256)</code>](https://github.com/elementary/switchboard-plug-power/commit/333276059617edaf144cf84196f462e21c165e1f)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>LidCloseActionComboBox: acquire permission async (#261)</code>](https://github.com/elementary/switchboard-plug-power/commit/ad0c97a21e2957398f8e505fa19a614bea7600b9)
+- [ ] [<code>LidCloseActionComboBox: use Gtk.Dropdown (#258)</code>](https://github.com/elementary/switchboard-plug-power/commit/5d6ced9bb370fdcb69eadbd115bf96aeee17d425)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -631,6 +739,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SuppliesView: Gtk4 Prep (#198)</code>](https://github.com/elementary/switchboard-plug-printers/commit/0379ab080d52a6c74b8d1174651be98ad0906615)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to GTK4 (#164)</code>](https://github.com/elementary/switchboard-plug-printers/commit/b16b2f9430249d37fbffac239e4846de73cc045f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Master → Main (#200)</code>](https://github.com/elementary/switchboard-plug-printers/commit/bb6a5ae54d7bc12c3ef22235c24d9390dad1e6fa)
+- [ ] [<code>Use Switchboard.SettingsPage (#201)</code>](https://github.com/elementary/switchboard-plug-printers/commit/227936388770edea247249d217090b4e2f460014)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -650,6 +763,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>policy: Fix removed configure_file by mistake (#171)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/815cdd56e46b0ab964a6ddde70ddfe4a7757d9cf)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use Switchboard.SettingsPage (#172)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/be4d35ce84b25f9d4622971a6c2c7e41f5b58827)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -669,6 +783,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/switchboard-plug-sharing/commit/10219321cc9b5a3f2a0ca57d17445a2847f69289)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/eb963dc6073fcbe6e9b6781d934320ee11db6126)
 - [ ] [<code>DLNAPage: Fix title of Gtk.FileChooserNative</code>](https://github.com/elementary/switchboard-plug-sharing/commit/95cf761070676eb78251bd3966bb38c9a89fb063)
+- [ ] [<code>Use Switchboard.SettingsPage (#70)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/6db5d16ab4bdba67d5154fbef7dc11117ec80348)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -680,6 +795,9 @@
 - [ ] [<code>Fix muting (#261)</code>](https://github.com/elementary/switchboard-plug-sound/commit/fe0a776965fbb705a13f9efd61fb11f8231953a5)
 - [ ] [<code>Add translation context for "Left" / "Right" (#262)</code>](https://github.com/elementary/switchboard-plug-sound/commit/ba7bdeeeb8c573c2804d27350a04b4f84ce8a0ea)
 - [ ] [<code>Search Results: include missing output items (#263)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c7b07e360c6a12a5fcda80c279b8392a0e164dea)
+- [ ] [<code>Fix device removal (#265)</code>](https://github.com/elementary/switchboard-plug-sound/commit/0536ff627f1ec731b090bc4205e1128afa5b98fc)
+- [ ] [<code>OutputPanel: Use C_ instead of NC_ (#267)</code>](https://github.com/elementary/switchboard-plug-sound/commit/7927cce2dff8361f56924c16277d7f582c7b6be1)
+- [ ] [<code>Fix port selection (#266)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d21993d8be98ceaf3ad1171cd9c7354219c83ce)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -688,6 +806,47 @@
 - [ ] [<code>Add .editorconfig (#36)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1b020c757b972374dfecfe6c13e5d823d2850aa8)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#34)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/cca905e3194e3692a21fdb44097c6f12d3d25a46)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#37)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/706b7b0db0d9d78a83510f34d51fce2a1d300e4e)
+- [ ] [<code>Add MainPage (#40)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/577c5a65d536f66f6e6795ac6032ea1e9b433eb6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove SettingsLabel (#39)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/cb437c7ec7b9d86077bc515ffdc81f4cf1d57633)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DrawingArea: subclass Gtk.DrawingArea and use Gtk.GestureStylus (#38)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/16fce38de6c6bd213671c5e3207dd93a2fa5c584)
+- [ ] [<code>DeviceManager: absorb single-liner for wayland detection (#43)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/6395728ce99abcdb9c9df5942725a1c51c53f953)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainPage: fix typo preventing stylus detection</code>](https://github.com/elementary/switchboard-plug-wacom/commit/a7ec10c91e17b7496a9292486f6dff253b143c7d)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/dee8b74610889b01934f7cbbe1c52d95c455ac3f)
+- [ ] [<code>Update githubci.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/bb2e9275a32508c131269a7f6c9bb2b4a7961141)
+- [ ] [<code>TabletView: don't use Backend.WacomDevice</code>](https://github.com/elementary/switchboard-plug-wacom/commit/6c2691ac9ef4628cb866312a26b38f0fa11293ac)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WacomTool: use Backend.Device</code>](https://github.com/elementary/switchboard-plug-wacom/commit/bfd735121ca329da1d173640150890b5d75606a9)
+- [ ] [<code>WacomToolMap: Use less Backend.WacomDevice</code>](https://github.com/elementary/switchboard-plug-wacom/commit/e6804cf7bccbd992bc57e18e9fbda3d559e7de23)
+- [ ] [<code>Finish removing WacomDevice</code>](https://github.com/elementary/switchboard-plug-wacom/commit/86905edd0a32489fcff500a7c9506bcd39756ec6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>MainPage: detect stylus with gesture (#45)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/331ad2337d8d72221bcb13f3fd44b6622b265e3c)
+- [ ] [<code>WacomTool: expose stylus publicly (#46)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/0b8a53a78383bcc34445e36ff75b094c223161cc)
+- [ ] [<code>StylusView: rewrite (#51)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/449210b613d17eb9f6ab4ab0bb31311374f45c0e)
+- [ ] [<code>MainPage: move stylus placeholder here (#52)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/b367602e3461903e1c0a25db55529a98d2b33725)
+- [ ] [<code>DeviceManagerX11: create device object with new syntax</code>](https://github.com/elementary/switchboard-plug-wacom/commit/2b70b0d23d27f396645db8018c8c3dad7fb71a0b)
+- [ ] [<code>DeviceManagerWayland: create device object with new syntax</code>](https://github.com/elementary/switchboard-plug-wacom/commit/937e9f2a2557b493e1a41fe59030794504b14d71)
+- [ ] [<code>WacomTool: only get wacom_device if backend.device isn't null (#54)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/716ec5db72781b9cb00fa34ff8819b774436ed8d)
+- [ ] [<code>Fix showing stylus view</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1cca8070006d79405e4d1f2e6d3efca8b871a26c)
+- [ ] [<code>DeviceManagerX11: absorb get_device_type (#55)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/cbd4e5b4a1b3824acffe027b267af2c25f2becce)
+- [ ] [<code>Backend.Device: remove unused settings (#56)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/ea444dc64c9183d0b7c99db6a61cb3b5c2452b65)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WacomToolMap: use Gdk.Device (#57)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9ae43c1a08f4a80794057721d9e12f3b186d0292)
+- [ ] [<code>WacomTool: add a separate device constructor (#59)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/51a87049094d7cf49d71688c7c7a9d4eccbe7ece)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>MainPage: only add new relation when not found (#60)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/6460ed9ae220110fb5bc8f1f87ee4d04fed0202b)
+- [ ] [<code>WacomTool: reduce to the essential (#61)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/65daee4bf53b691ebcd33f13e7025f38408124d5)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>MainPage: associate stylus from tabletview devicekey (#62)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/298636d5ecd0ede72458e5b6a165c38d69582028)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Port to GTK 4 (#41)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/20156e1c87cc863c532aaa39981dd0c8f52deaf6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>rename .pot</code>](https://github.com/elementary/switchboard-plug-wacom/commit/ef53130c30be608aeb7bebc983f867725874e9c3)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1cb52b89f0ba07b3ce7e9efcba15cd9baa29be4f)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
@@ -697,6 +856,13 @@
 - [ ] [<code>make suggested extend default</code>](https://github.com/elementary/stylesheet/commit/e134f65aed74af95253a114508adc21de697b2bd)
 - [ ] [<code>Revert making deault same as suggested action</code>](https://github.com/elementary/stylesheet/commit/db6eb6dc8b01cb23b18f0213470524890575bd18)
 - [ ] [<code>Infobars: fix busted sizing with buttons</code>](https://github.com/elementary/stylesheet/commit/5cb40d3cc592bb29b65cb9ca92d7b08fd0b8041f)
+- [ ] [<code>Fix copy/paste error for warning icon color</code>](https://github.com/elementary/stylesheet/commit/01fc4d283a73a9af52be5374939997c9f9f65521)
+- [ ] [<code>master → main</code>](https://github.com/elementary/stylesheet/commit/eee70bbe36bd2b2e970d5a6c5930e280631fec15)
+- [ ] [<code>Revert removing back-button style</code>](https://github.com/elementary/stylesheet/commit/a6c912c69abd48b29b47cb3cf6f32cf7df2055bf)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#1281)</code>](https://github.com/elementary/stylesheet/commit/3532aae046e3b5809ba34d4b48d28102c89c4596)
+- [ ] [<code>Scrollbars: don't force popover height</code>](https://github.com/elementary/stylesheet/commit/dc443d372223e423279ac8e08e7fc0099eeb359d)
+- [ ] [<code>Windows: hand over window styles to Granite (#1280)</code>](https://github.com/elementary/stylesheet/commit/e21b78973719f4ae8d144a606e8df71bb3cc1ffe)
+- [ ] [<code>Revert "Windows: hand over window styles to Granite" (#1283)</code>](https://github.com/elementary/stylesheet/commit/d2703d3063077118b56a9e3ce0bc9b66f5c0372e)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -710,6 +876,14 @@
 - [ ] [<code>Devices: clean up 128 drive-harddisk (#1224)</code>](https://github.com/elementary/icons/commit/906e4da3948355891a657c0a3d003386b1b72405)
 - [ ] [<code>Categories: redesign preferences-system (#1237)</code>](https://github.com/elementary/icons/commit/09eed4371442ca41904cd6a3cbbe99a54e37bcf5)
 - [ ] [<code>Status: halign checkmark on 32px process-completed (#1239)</code>](https://github.com/elementary/icons/commit/c96d553a9ede92d5ee50e3285cefd93948c50617)
+- [ ] [<code>Filetypes: link application-x-java-archive to package-x-generic (#1241)</code>](https://github.com/elementary/icons/commit/f90c77f92c5d95226809a1734dec09ddb3a592d6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Status: remove bluetooth indicator icons (#1192)</code>](https://github.com/elementary/icons/commit/302d5e4a644127b3e53ed36ea3f23c4d74153b2d)
+- [ ] [<code>Categories: remove unused bug (#1245)</code>](https://github.com/elementary/icons/commit/88acafd86e0f8eb33a2bc3b63f68e4820fa6e51e)
+- [ ] [<code>Categories: remove non-fd.o parental controls (#1244)</code>](https://github.com/elementary/icons/commit/9e4743b9feec71374cc24168618b55e321c42231)
+- [ ] [<code>Actions: update system action symbolics (#1242)</code>](https://github.com/elementary/icons/commit/65706317b5c8b4c38df2281558e24c5511d5834b)
+- [ ] [<code>Round window control icons (#1246)</code>](https://github.com/elementary/icons/commit/651f721a159430b07cf38cb45aacc0f639527ea3)
+- [ ] [<code>Usb reciever (#1247)</code>](https://github.com/elementary/icons/commit/a2bc1964d45585a483aaaf6c7df155573f281cd5)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -755,6 +929,21 @@
 - [ ] [<code>Sync orientation lock (#694)</code>](https://github.com/elementary/greeter/commit/a9ffd24abf00264a0874ca3fc735c43d58d6ea28)
 - [ ] [<code>Don't allow scrolling while logging in (#695)</code>](https://github.com/elementary/greeter/commit/d5132dedc76b5fffcf0e33fc641d24a6f4fac2bb)
 - [ ] [<code>Compositor: Add fade-in animation (#697)</code>](https://github.com/elementary/greeter/commit/9f5bedef99b520cea730845b030c32225f89f42b)
+- [ ] [<code>Revert "Compositor: Add fade-in animation (#697)" (#701)</code>](https://github.com/elementary/greeter/commit/aafd1491c68fd111c4171b7901e4ad4a2f8e4724)
+- [ ] [<code>Simpler fade-in animation (#703)</code>](https://github.com/elementary/greeter/commit/0b833eab4d781cded5c828d61debadbc939e7a24)
+- [ ] [<code>Cleanup (#696)</code>](https://github.com/elementary/greeter/commit/85bbb720a8eb71c996d5e1e0aebce4adff62a7e6)
+- [ ] [<code>Add blurred background (#698)</code>](https://github.com/elementary/greeter/commit/8cc128296c9f0d6eada7bf9b1d9645b972fbdf6b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/greeter/commit/68bcbb03647fb705bcbca8ce69b3b76eae307cc2)
+- [ ] [<code>Compositor: disable tiling shortcuts (#710)</code>](https://github.com/elementary/greeter/commit/fa4bd88d086a4bf89bfe5574132ce043d47cda92)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>MainWindow: grid to box (#715)</code>](https://github.com/elementary/greeter/commit/9ae605bc448669fabdd382f3ec8c57efd9b35021)
+- [ ] [<code>MainWindow: don't use dialog run (#717)</code>](https://github.com/elementary/greeter/commit/b271407ccedde5939340eef84270944b969a4856)
+- [ ] [<code>BaseCard: subclass box (#712)</code>](https://github.com/elementary/greeter/commit/6fb6c6712f88e71053236c4cb6522e7ef625cf6c)
+- [ ] [<code>SessionButton: build menu from model (#713)</code>](https://github.com/elementary/greeter/commit/79d06ef3b23693f68dddfcc3a0f1ccb2440e575d)
+- [ ] [<code>Fix criticals (#705)</code>](https://github.com/elementary/greeter/commit/7b0516780f4c936d65323b527aa8ed82d67fa728)
+- [ ] [<code>MainWindow: don't force dark style for buttons (#719)</code>](https://github.com/elementary/greeter/commit/69362e9e4150bcd221ce4d15c1461c285b2fd992)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -764,30 +953,14 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#220)</code>](https://github.com/elementary/onboarding/commit/4d21e3f46a4d9163715e2e92d5f731af15d92cff)
 - [ ] [<code>Application: use Granite.init (#222)</code>](https://github.com/elementary/onboarding/commit/7cdc8aae44674ddfc3a7f5f24594ea301fcab779)
 - [ ] [<code>Improve screenreader support (#225)</code>](https://github.com/elementary/onboarding/commit/8e06c643e28e252a36b8d412067ec80498c86e8e)
+- [ ] [<code>UpdatesView: add OS updates (#224)</code>](https://github.com/elementary/onboarding/commit/421cb87933825aa2ec623d167158b3089b7326cf)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [6.0.0 → HEAD](https://github.com/elementary/session-settings/compare/6.0.0...HEAD)
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec → HEAD](https://github.com/elementary/session-settings/compare/3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec...HEAD)
 
-- [ ] [<code>CI: remove Nix (#61)</code>](https://github.com/elementary/session-settings/commit/064adfe31abfeb8bfa1f92a435102d5c3fda224a)
-- [ ] [<code>Add systemd support (#55)</code>](https://github.com/elementary/session-settings/commit/ea1566a8d888c5e247a9ec76833973bec51461bb)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): bump actions/checkout from 2 to 3 (#60)</code>](https://github.com/elementary/session-settings/commit/d71f5211ccdc4f83ee4ea06e2210ba73d32ceb97)
-- [ ] [<code>build: add systemduserunitdir option (#62)</code>](https://github.com/elementary/session-settings/commit/2a70f71f3013e360638acdf3fbb740989ac8940d)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>systemd: also pull in GSD targets (#63)</code>](https://github.com/elementary/session-settings/commit/b807ea60161294958c08cb8d53e5be82308a7f5e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to GHCR containers (#65)</code>](https://github.com/elementary/session-settings/commit/19c49ebde1352cf07afd394fcd7da88bf09eb285)
-- [ ] [<code>Add optional Wayland session (#66)</code>](https://github.com/elementary/session-settings/commit/cb1176bca8ac84c08f6c2cc62654516c5447a6bb)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Reflect new systemd target name (#67)</code>](https://github.com/elementary/session-settings/commit/ef4d9dc9272987207dfc81cbc0d8ef9f29412c44)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>chore(deps): bump actions/checkout from 3 to 4 (#68)</code>](https://github.com/elementary/session-settings/commit/3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -832,6 +1005,39 @@
 - [ ] [<code>WindowSwitcher: Improve mouse handling (#1836)</code>](https://github.com/elementary/gala/commit/c25770ef7fefb54a001b383b3025d6038f577af4)
 - [ ] [<code>MultitaskingView: Add blurred wallpaper (#1810)</code>](https://github.com/elementary/gala/commit/156e4150afb4b64695131f4692109c8b481f1b98)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix rounded background (#1845)</code>](https://github.com/elementary/gala/commit/48f09b112e1f739f9bd8b304dfcd15e11c4d3a42)
+- [ ] [<code>Fix no rounded corners on first start (#1847)</code>](https://github.com/elementary/gala/commit/ff1ee4c432b2dadb0bf3172d18d9053ae756355e)
+- [ ] [<code>MultitaskingView: move keyboard navigation code into WindowCloneContainer (#1793)</code>](https://github.com/elementary/gala/commit/517ba7d0eb51b72bd4bba9b5f0069d57e0207419)
+- [ ] [<code>Remove corner mask in favor of rounded background corners (#1846)</code>](https://github.com/elementary/gala/commit/5d2d96d7c77faf01837cf86c91f6936d9c1de513)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Rework close button (#1848)</code>](https://github.com/elementary/gala/commit/0cd3f324c1b8154642d8b714ce49eaf46d26b131)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix documentation (#1854)</code>](https://github.com/elementary/gala/commit/1315f8734013e5d87d914d736d1a865cca4e0109)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowCloneContainer: When no window is active, select active window based on direction during keyboard nav (#1849)</code>](https://github.com/elementary/gala/commit/13018e4f5c4655232f620cc377aa0fb44d5a9be5)
+- [ ] [<code>SystemBackground: cleanup (#1851)</code>](https://github.com/elementary/gala/commit/61e51924d02a21f40b08f89f9f5425102c6468dd)
+- [ ] [<code>PixelPicker: Remove unused canvas (#1858)</code>](https://github.com/elementary/gala/commit/c44fc87fbef871955064c260937b13e86b3223b3)
+- [ ] [<code>Wayland menus (#1844)</code>](https://github.com/elementary/gala/commit/351722c5a4fded46992b725e03dc94971c5bd31f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Daemon: Implement monitor labels (#1861)</code>](https://github.com/elementary/gala/commit/bf4eec88c7fa19b5501b86e08e8f243fdc4354aa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Expose BackgroundManager to the library (#1859)</code>](https://github.com/elementary/gala/commit/ba7c41d93118b2e889317db4fbdf609cea2fa949)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/1cbcefbe0eb4f91f802fda31d06c2a3971b46a7b)
+- [ ] [<code>MonitorLabel: clean up styles, gtk4 prep (#1862)</code>](https://github.com/elementary/gala/commit/b5e2232685be271572913b3f726455c3dcd0651f)
+- [ ] [<code>Introduce a CanvasActor (#1864)</code>](https://github.com/elementary/gala/commit/f534fea79a48a3c25404430d1f471f70459dd75c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Tooltip: Dont use Gtk StyleContext (#1865)</code>](https://github.com/elementary/gala/commit/97c651ec3eb939b1af2400174dac8a3700de5376)
+- [ ] [<code>WindowClone/ActiveShape: Don't use Gtk.StyleContext (#1866)</code>](https://github.com/elementary/gala/commit/eb53394e8e3b510aca6a7bb2a2f8c460b02c0412)
+- [ ] [<code>WindowSwitcher: Don't use Gtk (#1868)</code>](https://github.com/elementary/gala/commit/6cae827c0cfa1466d90fef2bc6ddb8639cce040f)
+- [ ] [<code>Fix dim effect removal on wayland (#1873)</code>](https://github.com/elementary/gala/commit/585f565a46e5b156fbc6ccfc59bc3539b5e34c16)
+- [ ] [<code>Improve window dragging between workspaces (#1874)</code>](https://github.com/elementary/gala/commit/331e05907c1e8fa7f7eea95847c35df6978c2ad2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update Mutter 46 support</code>](https://github.com/elementary/gala/commit/5644c66724a70983c5abed0a28cfb21733d0e11a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Allow focusing a window via DesktopIntegration (#1817)</code>](https://github.com/elementary/gala/commit/0a2d54f6006969226c6413f37b417ac7c7a3badb)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -842,6 +1048,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add sorting for QuickSettings (#516)</code>](https://github.com/elementary/wingpanel/commit/cae197c953f4332e67cf0a5457b4e54f8adc3424)
 - [ ] [<code>Remove unused translation string</code>](https://github.com/elementary/wingpanel/commit/8868fbcaebdd26d7a1de34a6d698b85ee3660451)
+- [ ] [<code>Fix typo on log message (#518)</code>](https://github.com/elementary/wingpanel/commit/7be83864c197e47ea7bffd97bed5755f4a70baa0)
+- [ ] [<code>Wingpanel Interface: don't use Gdk.Screen to get monitor geometry</code>](https://github.com/elementary/wingpanel/commit/1823b2252c1e594219875c78f1eea8ea5a28815d)
+- [ ] [<code>FocusManager: don't use singleton (#521)</code>](https://github.com/elementary/wingpanel/commit/52aa9a71300b8138306368f80ecdcc5f6bf44f71)
+- [ ] [<code>Use BackgroundManager to get wallpaper (#522)</code>](https://github.com/elementary/wingpanel/commit/0c35f4d54bc36028da0545db1ded23b6d93a6b69)
+- [ ] [<code>Fix typos (#523)</code>](https://github.com/elementary/wingpanel/commit/4a6433bd4a5a2fc7bb36d747d84be34a0689a939)
+- [ ] [<code>PanelWindow: simplify `set_expanded` (#526)</code>](https://github.com/elementary/wingpanel/commit/ecd4ac2d76ce3f1ad4902ef2f9346f31d9e0ad2c)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -867,6 +1079,7 @@
 - [ ] [<code>Simplify PluginInfo (#588)</code>](https://github.com/elementary/applications-menu/commit/bb3de8c0b0cd518dc10e947ec3a16b0c1504229a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update githubci.yml (#590)</code>](https://github.com/elementary/applications-menu/commit/d122036180d78441a46641bbca93647c5e418c41)
+- [ ] [<code>Make sure to always query the right info before use</code>](https://github.com/elementary/applications-menu/commit/7001334095d7804bfbf9c32c3435bfcece1a690f)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -878,6 +1091,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/74209b440a4ca8d030f27cc9fc5dcbb403a97b18)
+- [ ] [<code>Use emblem- icons instead of user- (#212)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/17a1b8b8305912f968dc6c8d221c786f7951cfce)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -1019,6 +1233,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Expose orientation lock setting (#126)</code>](https://github.com/elementary/settings-daemon/commit/13db4429328d57fc060a4d125d488c101fd09728)
 - [ ] [<code>Expose prefer dark schedule settings (#85)</code>](https://github.com/elementary/settings-daemon/commit/216ea5edada1d3ad43a7018345e568fda24667a1)
+- [ ] [<code>Set power profiles based on whether the device is running on battery (#123)</code>](https://github.com/elementary/settings-daemon/commit/adf9fb1e614cf325b51be338d386dbf494638785)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Don't run gtk-update-icon-cache (#136)</code>](https://github.com/elementary/settings-daemon/commit/762678ae1ae7c521edf9f5a3500016b45b67b7ca)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1045,6 +1263,9 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#92)</code>](https://github.com/elementary/portals/commit/f1ca35f25f956e5b0d12c6e6da8a5f7bc454bf25)
+- [ ] [<code>Create wallpaper portal (#98)</code>](https://github.com/elementary/portals/commit/bf276f72f04480aae2f7dbe5466f783dfa8eac29)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
@@ -1112,6 +1333,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Bump easimon/maximize-build-space from 8 to 9 (#700)</code>](https://github.com/elementary/os/commit/2291e647b8905a53351ef85fed2cdcc760158f44)
 - [ ] [<code>Bump easimon/maximize-build-space from 9 to 10 (#701)</code>](https://github.com/elementary/os/commit/fc6b6e1cbea922f02c139d157c11ce5902a87319)
+  - <sub>Tags: <code>7.1.1-rc1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
@@ -1143,3 +1365,8 @@
 - [ ] [<code>Desktop: switchboard-keyboard → settings.keyboard (#117)</code>](https://github.com/elementary/seeds/commit/3d206ac867e2ca37e12e46239bbb4c0c2624c257)
 - [ ] [<code>Ship systemd-coredump (#118)</code>](https://github.com/elementary/seeds/commit/82084578142e91da6814f62987d183db5d202aeb)
 - [ ] [<code>SDK: Add switchboard-3 (#119)</code>](https://github.com/elementary/seeds/commit/3b61373cef758d0fa34d83e6737b751f3ddf7acb)
+- [ ] [<code>Desktop: rm zenity (#120)</code>](https://github.com/elementary/seeds/commit/eab7da9a319b5f24a9117d5944af2ab6997bffce)
+- [ ] [<code>Desktop: switchboard-printers → settings.printers (#121)</code>](https://github.com/elementary/seeds/commit/47bd3398a2ecce7e27e4f9fcf9b3d5c0c8816a81)
+- [ ] [<code>Desktop: switchboard-networking → settings.network (#122)</code>](https://github.com/elementary/seeds/commit/5dda36d90ae3f84a002f4b601e8ebe8d10720c78)
+- [ ] [<code>Desktop: switchboard-display → settings.display (#125)</code>](https://github.com/elementary/seeds/commit/c4e44ca1834548c8b95091d52c7c210a1c455bb5)
+- [ ] [<code>Desktop: switchboard-wacom→ settings.wacom (#126)</code>](https://github.com/elementary/seeds/commit/cb0167254673d3e7f99d696af6e231b7ad23bef8)
