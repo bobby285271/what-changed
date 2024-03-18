@@ -2,6 +2,62 @@
 
 #### [agenda](https://github.com/dahenson/agenda): [1.1.2 → HEAD](https://github.com/dahenson/agenda/compare/1.1.2...HEAD)
 
+- [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/bd9677b888203af494dc8df4d5b87039ee1dcf72)
+- [ ] [<code>Merge branch 'master' of https://github.com/dahenson/agenda into patch-1</code>](https://github.com/dahenson/agenda/commit/1e882c5246698bab59bb0d95fb0ed5478b207ab0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Added limit to editable characters</code>](https://github.com/dahenson/agenda/commit/08cdd6d36428f212b2538f03f335a74b6b1deb3a)
+- [ ] [<code>Changed EDITED_TEXT_MAX_LEN value</code>](https://github.com/dahenson/agenda/commit/22d6fd81d5b7ef0375668c7456a68acc6d07e43d)
+- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/3679657e9e87a8af30ed302cfa9b3cbcba6f265c)
+- [ ] [<code>Create it.po</code>](https://github.com/dahenson/agenda/commit/6d8fdd08e505080f68d6fffd65f896319f157f06)
+- [ ] [<code>Add <launchable/> tag to AppStream metadata</code>](https://github.com/dahenson/agenda/commit/bcc7f6f8db6fdbc525731abcfa767039d5f503be)
+- [ ] [<code>Convert HTTP to HTTPS in copyright comment in Agenda.css</code>](https://github.com/dahenson/agenda/commit/3ee00917364c838356ba901b2afa4288aabae95f)
+- [ ] [<code>Convert homepage link from HTTP to HTTPS in AppData XML</code>](https://github.com/dahenson/agenda/commit/39bd498e8959e14e6a3ac7530ae49eb71aa91599)
+- [ ] [<code>Russian translation in 'extra', fixes #47</code>](https://github.com/dahenson/agenda/commit/0173a3a76421c3f064f690932da1f41ac6c75517)
+- [ ] [<code>Merge pull request #152 from musicinmybrain/https</code>](https://github.com/dahenson/agenda/commit/765b96f248648b95f60624b9b0079601cf98f290)
+- [ ] [<code>Merge pull request #147 from albanobattistella/patch-1</code>](https://github.com/dahenson/agenda/commit/4a7747eb9c54dd4fbe30a49a11f1914dae4451bf)
+- [ ] [<code>Merge pull request #78 from btd1337/patch-1</code>](https://github.com/dahenson/agenda/commit/e16a8120dc78001adfe9415013a903aa009b596d)
+- [ ] [<code>Don't set the window and titlebar transparent</code>](https://github.com/dahenson/agenda/commit/f6198fef322dea1bcc2f5b15385ef8e570cce91d)
+- [ ] [<code>Fix Polish translation</code>](https://github.com/dahenson/agenda/commit/9bfb57fbc7579c8cfa615be97bad083e97e2937e)
+- [ ] [<code>Ctrl+R now triggers "remove_completed"</code>](https://github.com/dahenson/agenda/commit/b9331148e1ef92062849343fcf0774de444be404)
+- [ ] [<code>Improve Polish translation.</code>](https://github.com/dahenson/agenda/commit/8bc1552b9f06a5da9d0e81ceea577d326614681e)
+- [ ] [<code>Improve post_install.py</code>](https://github.com/dahenson/agenda/commit/4cc55aa33ea7528f094b72fd3538afc4bb864ad2)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Implement basic printing operation support. (#153)</code>](https://github.com/dahenson/agenda/commit/4afe023d2ee753d552768d670d3f01d94634b085)
+- [ ] [<code>Merge pull request #146 from albanobattistella/master</code>](https://github.com/dahenson/agenda/commit/0b449b21a072cc16b063066e4ab9c95952c01cd4)
+- [ ] [<code>Merge pull request #140 from gxhamster/set_edit_limit</code>](https://github.com/dahenson/agenda/commit/cdc11434b4ba0bf7e99e73be2525a940d0ab6258)
+- [ ] [<code>Fix coding style for lint.</code>](https://github.com/dahenson/agenda/commit/9e76b6796cb78a7653d0aa056301cc7d4fa5a9b3)
+- [ ] [<code>Update French translation</code>](https://github.com/dahenson/agenda/commit/a17f3c2b50540f2ce51ac1e0c06bb21859abd34e)
+- [ ] [<code>Add PREFIX and APPNAME in Build class and enable translations.</code>](https://github.com/dahenson/agenda/commit/79e947f3444e11fa1f61d84e97414870eaa5b10c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Do not create empty tasks</code>](https://github.com/dahenson/agenda/commit/eb2cd766ba474ca6839d2abc405bfac84266d35a)
+- [ ] [<code>Sort completed tasks to bottom on Ctrl+S keypress</code>](https://github.com/dahenson/agenda/commit/fe6b72db7551122aed6a219da886d4bca84eb4c7)
+- [ ] [<code>Use Ctrl+Shift+Z to trigger 'redo'. Fixes #139</code>](https://github.com/dahenson/agenda/commit/59fc9dbd6793336ca00fa44388fd67a99ce6ea65)
+- [ ] [<code>Improve settings for window size/position and font used for printing.</code>](https://github.com/dahenson/agenda/commit/cdc509bb972c6ff1d86b26cb742154ecca49adfa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Follow system settings for dark/white theme in ElementaryOS. Fixes #155</code>](https://github.com/dahenson/agenda/commit/fdcf13344882d176d80d499024ca42142d917dcb)
+- [ ] [<code>Rename css.gersource.xml as a more generic name, for future use.</code>](https://github.com/dahenson/agenda/commit/10abfded33f3b4a052196f4b7937a14b218a7f7e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use Ctrl+H to display shortctuts help window.</code>](https://github.com/dahenson/agenda/commit/f8fb552eea34dfbcb375449fcedb998b27adaf08)
+- [ ] [<code>Update translations.</code>](https://github.com/dahenson/agenda/commit/8a22327e5d98d7ac7d55122ac4573d736b274801)
+- [ ] [<code>Implement multi-page printing.</code>](https://github.com/dahenson/agenda/commit/d3ffd983686b97a330661eb150d255592359455a)
+- [ ] [<code>Make lint okay.</code>](https://github.com/dahenson/agenda/commit/b0bac0a4f048886736bfc202c0e8801a69f1d4c8)
+- [ ] [<code>Fix: actually do ellispize on printing.</code>](https://github.com/dahenson/agenda/commit/54cb045b993a483e3adc20810b216da12e9ce0cb)
+- [ ] [<code>Sort completed tasks upward if settings says so.</code>](https://github.com/dahenson/agenda/commit/4a4348a7848f14f79aad867a7be2289c85539c14)
+- [ ] [<code>Add menu and preferences window</code>](https://github.com/dahenson/agenda/commit/7c5ad63d365d23fffb81e28e1c2bb1c340e80651)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update tranlsations.</code>](https://github.com/dahenson/agenda/commit/b16d8b7107b0cc882a034caf74360c3215408b24)
+- [ ] [<code>Make lint happy.</code>](https://github.com/dahenson/agenda/commit/608ca6316261cb51b287c2e10f9a97cb47cc3fc2)
+- [ ] [<code>Use a Switch instead of a CheckButton in Prefs.</code>](https://github.com/dahenson/agenda/commit/754c7eb721422af27894a39d80373a9cf0204159)
+- [ ] [<code>Rename some settings keys.</code>](https://github.com/dahenson/agenda/commit/cecd2bc63182a43d69887f3f7ddeb28d86e1c4f0)
+- [ ] [<code>Creation of Occitan translation file</code>](https://github.com/dahenson/agenda/commit/7200055cd936cd0329e14eae539bc082cbf8159f)
+- [ ] [<code>OC added to the list</code>](https://github.com/dahenson/agenda/commit/fd4a9e546f0810ab831b8440038522fcb796fd8b)
+- [ ] [<code>Creation of OC file</code>](https://github.com/dahenson/agenda/commit/c351cd26653e4b241e83902cd5c46c3e43b8d10c)
+- [ ] [<code>OC added to the list</code>](https://github.com/dahenson/agenda/commit/3b49a9021524d0e08df8c09fe47ecac2d2f50d2e)
+- [ ] [<code>Merge pull request #156 from Mejans/master</code>](https://github.com/dahenson/agenda/commit/2c04f0fee554ff8d34c4fe366e3262c4d11e1265)
+- [ ] [<code>Fix deprecated top-level developer_name in AppData XML</code>](https://github.com/dahenson/agenda/commit/76b5f2c13ef76aff54b76ee4f75e590d93c5721c)
+- [ ] [<code>Add a developer ID in AppData XML</code>](https://github.com/dahenson/agenda/commit/07a72a1ed8792f496b40e16c119b4c031bfcd886)
+- [ ] [<code>Merge pull request #151 from musicinmybrain/developer-name</code>](https://github.com/dahenson/agenda/commit/d9f372b59ae2cb20191473af177d7dadbef7eec5)
+- [ ] [<code>Merge pull request #148 from musicinmybrain/desktop-app-launchable-missing</code>](https://github.com/dahenson/agenda/commit/8eca508b00ef0ba23ffd913c22fb9ffabb8d9437)
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
@@ -255,13 +311,12 @@
 - [ ] [<code>Update pt_BR translation (#137)</code>](https://github.com/lainsce/khronos/commit/f1804d8ccd466a30c4f56d5b8753c4b418f44522)
 - [ ] [<code>appdata: Improve appdata for AppStream 1.0 (#139)</code>](https://github.com/lainsce/khronos/commit/631d9b50d335855ac53040422db6ecb46563915f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 
-#### [minder](https://github.com/phase1geo/minder): [1.16.2 → HEAD](https://github.com/phase1geo/minder/compare/1.16.2...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.16.3 → HEAD](https://github.com/phase1geo/minder/compare/1.16.3...HEAD)
 
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/461e6b244a63bf2d3ad70ade8f59ab84253196f0)
-- [ ] [<code>Merge pull request #601 from albanobattistella/patch-31</code>](https://github.com/phase1geo/minder/commit/33de638ce088fa6fdaa729c5a0fa1dc6ecfb4454)
-- [ ] [<code>Fixing UX issues</code>](https://github.com/phase1geo/minder/commit/f9cb1887453c017607662ff3637ccc53a34656d0)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Remove executable permission on svg files</code>](https://github.com/phase1geo/minder/commit/5a8e9b1d9ee07d5e2521db169f957db6d5903eef)
+- [ ] [<code>Merge pull request #608 from yangfl/master</code>](https://github.com/phase1geo/minder/commit/627a75d1491e458ec7eaf283b495d8e37cc02bc9)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
@@ -270,6 +325,9 @@
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/afbe465ea4dc67185f3965ee93c8d87a7aaadb71)
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/fd369e08c2820adc2d736943d6a0d5821a3352e6)
 - [ ] [<code>use with_default for json objects</code>](https://github.com/stsdc/monitor/commit/002146e81985d307add585fb63f80aaecd344b4c)
+- [ ] [<code>Fixes VRAM percentage #369</code>](https://github.com/stsdc/monitor/commit/10bb4a89f2959bf7a88518ea4832e540c77df65a)
+- [ ] [<code>format</code>](https://github.com/stsdc/monitor/commit/1e0645dfb2249a21918fefd9722b37b4bfb1190d)
+- [ ] [<code>Merge pull request #371 from stsdc/fix-vram-percentage</code>](https://github.com/stsdc/monitor/commit/192efee3a87943ae41667c95e9d562e2f612fdb2)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -299,74 +357,14 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.4 → HEAD](https://github.com/alainm23/planify/compare/4.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.5.2 → HEAD](https://github.com/alainm23/planify/compare/4.5.2...HEAD)
 
-- [ ] [<code>Fix lint</code>](https://github.com/alainm23/planify/commit/14377e2ba34ccf32ff2af3fbae18bd852d0d95fc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update screenshot</code>](https://github.com/alainm23/planify/commit/b0d21d71630e980366d89e95f82498dd89b47835)
-- [ ] [<code>Initial configuration of CalDAV</code>](https://github.com/alainm23/planify/commit/73902f190fbc595ffa1dc0e66e3c68999549cb34)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Change strings to title case and remove periods</code>](https://github.com/alainm23/planify/commit/a4d7eb518066a2587fc7a253316f8fa60f979b31)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Remove accidental newline</code>](https://github.com/alainm23/planify/commit/30e73a5aefd38d6a307ea86616623aeb1e4d9215)
-- [ ] [<code>Merge pull request #1103 from MonsterObserver/consistent-text</code>](https://github.com/alainm23/planify/commit/fb50d882b65ab9f38ca06446e0f640b8a4ca36cf)
-- [ ] [<code>feat: add caldav task</code>](https://github.com/alainm23/planify/commit/9a39e4a6aab1706fa0c6114576c0626140ae3241)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/f4d2a78a23fa00ec099f949849bca78e2238b379)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>appdata: Update appdata</code>](https://github.com/alainm23/planify/commit/16f09b812b4ae852f10c94c576a5d6721bd81bcf)
-- [ ] [<code>Merge pull request #1107 from sabriunal/fix-appdata</code>](https://github.com/alainm23/planify/commit/fbc90bc69122d4388498ffcc04e8ed89e0232f58)
-- [ ] [<code>Update po files</code>](https://github.com/alainm23/planify/commit/9d43e5a40cc8ab6828f02611d68e69252f833a43)
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/dee631929ecfec3cf56d7959a1c4a0b650a85466)
   - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>po: Update Turkish translation</code>](https://github.com/alainm23/planify/commit/80f5e0b4654b1b23b5ff2c83463df79c39b96100)
+- [ ] [<code>Merge pull request #1183 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/ef79ac3ad63fd29ab8f72beaea6e37a620f27b5b)
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/9fc792f6b37ea75480cdb614b5990c3a3f4913dd)
   - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add gxml subproject</code>](https://github.com/alainm23/planify/commit/0c676646ef5aad642913b2a85881f6010007faa3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Merge pull request #1109 from sabriunal/update-tr</code>](https://github.com/alainm23/planify/commit/25d44f8547e9b66f4e39330ab614e586fdb21c09)
-- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/005730882836eddf0a36bf79d79da5baab533b2e)
-- [ ] [<code>Adding initial Chrono library</code>](https://github.com/alainm23/planify/commit/c97d5be460d88ecf9da8339cbb3ab407aba540c7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/56cf01222ce967a214e32c990b3b4aef0a8f7da3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/5c9f262542cdcb076e90ed52538fb6bd49eaa99b)
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/132c57e6d8a02c422ded15c52c4fe151d34b0318)
-- [ ] [<code>Update ru.po</code>](https://github.com/alainm23/planify/commit/d90139db5571dc15cf161c37d317ecf37d109d41)
-- [ ] [<code>Merge pull request #1111 from hachikoharuno/master</code>](https://github.com/alainm23/planify/commit/5adcefba70780946b513adfe8c12082d86363b2d)
-- [ ] [<code>#1106</code>](https://github.com/alainm23/planify/commit/529ffd1aeedaf01ef76c535c8b71e6eb033be606)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/5b5d38df3a6889b0db33279b2998225cebd27e07)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update readme</code>](https://github.com/alainm23/planify/commit/bdfbd0c09f4e80b0b2f52797f6eaa20d8378e215)
-- [ ] [<code>update develop</code>](https://github.com/alainm23/planify/commit/996b245ed5de9d3f8a6517ca44397219a1a3e84e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1116 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/5325931699ad74e25273f1e56882e01817986a89)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>add gxml</code>](https://github.com/alainm23/planify/commit/38827e36f1c1d4740f20606c731c347746dfa1a1)
-- [ ] [<code>Merge pull request #1117 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/9410c2eb16c61e9eb6260a6b93267efb12d668dd)
-- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/8aa6b0238b9c88e3e16741f774d1a74044dd8bf3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e0ee9c19576ac6ec5426b2200d089444608a6ea3)
-- [ ] [<code>CalDAV task completion support</code>](https://github.com/alainm23/planify/commit/2724eadd30d1c8e1760e9f0dd61d207704d92cd7)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/bacf554822b7170ca7d2d104714c1fa615fd6adf)
-- [ ] [<code>Rename</code>](https://github.com/alainm23/planify/commit/a4c3b7cf1e57399f597814c9399fc2ce72ac9bd7)
-- [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/82fb9aebabc04a2fa7c2acfcf3231cb7b59118b4)
-- [ ] [<code>feat: improve caldav</code>](https://github.com/alainm23/planify/commit/ec2972e15f81f88aeebcc0e266924f535f591e1f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Caldav tags support</code>](https://github.com/alainm23/planify/commit/38976941c4322b8982eccb148cc58bc9d2c4bf91)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Support for task and event calendars</code>](https://github.com/alainm23/planify/commit/f30ab6a7eb51ae71c33a8ef0cecbd3f4ac49679b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>remove caldav server timeout</code>](https://github.com/alainm23/planify/commit/2c17785d1a2b8c3988b0d4ad6e587f5e78c75e2d)
+- [ ] [<code>Merge pull request #1188 from haggen88/add-spanish</code>](https://github.com/alainm23/planify/commit/99b7012a7cd7dfed13b84ed4d51e1ce06f6d8a89)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
