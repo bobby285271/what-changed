@@ -546,6 +546,8 @@
 - [ ] [<code>Allow disabling input engine switch shortcut (#498)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6251e08edc32ace0da8770ba714b098e1c439ae7)
 - [ ] [<code>Shortcuts: update category icons (#499)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9f77dcc307b809036ed493437b879814ed94cfb3)
 - [ ] [<code>Shortcuts: Add "Keyboard Layouts" tab (#500)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3ef6fb10457c94248f1604ac9bdc2bd2a4b794b8)
+- [ ] [<code>Use dialog to add engines (#506)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0e656d7bf942338370763aececf8ee6a600e0e00)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -1038,6 +1040,8 @@
 - [ ] [<code>Update Mutter 46 support</code>](https://github.com/elementary/gala/commit/5644c66724a70983c5abed0a28cfb21733d0e11a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Allow focusing a window via DesktopIntegration (#1817)</code>](https://github.com/elementary/gala/commit/0a2d54f6006969226c6413f37b417ac7c7a3badb)
+- [ ] [<code>Add Gala.Barrier (#1855)</code>](https://github.com/elementary/gala/commit/09e09792be8df5742754db3fb652b642c4a19cdd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
