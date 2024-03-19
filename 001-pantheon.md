@@ -34,6 +34,7 @@
 - [ ] [<code>MainWindow: remove set_return_name function (#2131)</code>](https://github.com/elementary/appcenter/commit/123cfd377fb1daf10e242c939f1c8f8c4e3afada)
 - [ ] [<code>MainWindow: Adw.Leaflet → Adw.NavigationView (#2130)</code>](https://github.com/elementary/appcenter/commit/e6bc1113af14b255d3b8d0ec068e35935d801153)
 - [ ] [<code>Don't check for updates in the guest session (#2090)</code>](https://github.com/elementary/appcenter/commit/35ccd8dc7112f915f09500c4b072213b6b5978c0)
+- [ ] [<code>AppInfoView: badge for appcenter instead of uncurated (#2133)</code>](https://github.com/elementary/appcenter/commit/3b127b7a6279ddc87fb07bbd25a5a11f28a58e99)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -963,6 +964,8 @@
 
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec → HEAD](https://github.com/elementary/session-settings/compare/3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec...HEAD)
 
+- [ ] [<code>Remove gala-daemon (#71)</code>](https://github.com/elementary/session-settings/commit/ea1f57e3cda0415b8992f02bd69ed1093aaaa232)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
