@@ -357,44 +357,17 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.5.2 → HEAD](https://github.com/alainm23/planify/compare/4.5.2...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.5.4 → HEAD](https://github.com/alainm23/planify/compare/4.5.4...HEAD)
 
-- [ ] [<code>Update icons</code>](https://github.com/alainm23/planify/commit/ab83555f1d17508d6cf8e72b479c7bb015e9eb2a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1089</code>](https://github.com/alainm23/planify/commit/7b450ea4dd5f0d39d89d1337854ffca3af2edf84)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update icons</code>](https://github.com/alainm23/planify/commit/37a645a07df4aca12678b1d5f9efa748e5a7a502)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update io.github.alainm23.planify.Devel.json</code>](https://github.com/alainm23/planify/commit/7b3f29d484dbc505a7f103753792c460e3e1432e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/dee631929ecfec3cf56d7959a1c4a0b650a85466)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix sync caldav</code>](https://github.com/alainm23/planify/commit/4f5026d33d2e9d71cc34a1fff2da6ce283bc35d2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1183 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/ef79ac3ad63fd29ab8f72beaea6e37a620f27b5b)
-- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/d64d41d73bdd8542a2aa3f516a9876bbb718c02f)
-- [ ] [<code>Update icons</code>](https://github.com/alainm23/planify/commit/74caf500f804fcb097bc57eaf6eb97f71a3a6cf4)
-- [ ] [<code>Fix #1181</code>](https://github.com/alainm23/planify/commit/d6e4137c4fef315ed96f8799f0d20cf884ce6027)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/9fc792f6b37ea75480cdb614b5990c3a3f4913dd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #1188 from haggen88/add-spanish</code>](https://github.com/alainm23/planify/commit/99b7012a7cd7dfed13b84ed4d51e1ce06f6d8a89)
-- [ ] [<code>feat: add Item Sidebar View</code>](https://github.com/alainm23/planify/commit/4382002eacf585970721bf4ce0be4fdccb54aa4a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/70e5f0557ddadd9975d12e9e0566d0dbefc0bc3f)
-- [ ] [<code>feat: release 4.5.4</code>](https://github.com/alainm23/planify/commit/5dca1f5d3233bea98da466ce97b0c3ba5ab7e8af)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Merge pull request #1190 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/736c9d363214ea38f1f6e412f4b6979c212bf772)
-  - <sub>Tags: <code>4.5.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix #1169</code>](https://github.com/alainm23/planify/commit/14f46578caaaaeca206671865736d1e8ad6a505f)
 - [ ] [<code>Merge pull request #1191 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/cd851be2244e1f8d18dba553161083670d553768)
 - [ ] [<code>fix #1150</code>](https://github.com/alainm23/planify/commit/b93e9d3b8be6f8533192c83b1c3bbf2eec0bcb2f)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e438e44e579e09ff4206e709d2362914b27493ff)
+- [ ] [<code>fix #1159</code>](https://github.com/alainm23/planify/commit/7f81d241fc47989b4043906fa8abef5bf019e757)
+- [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/9e8ee0e9b3b2075335d0b0ca9225148ca3303783)
+- [ ] [<code>Change manifest</code>](https://github.com/alainm23/planify/commit/2206d2c436135413cb14b81973377009c14953d4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
