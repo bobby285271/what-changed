@@ -35,6 +35,9 @@
 - [ ] [<code>MainWindow: Adw.Leaflet → Adw.NavigationView (#2130)</code>](https://github.com/elementary/appcenter/commit/e6bc1113af14b255d3b8d0ec068e35935d801153)
 - [ ] [<code>Don't check for updates in the guest session (#2090)</code>](https://github.com/elementary/appcenter/commit/35ccd8dc7112f915f09500c4b072213b6b5978c0)
 - [ ] [<code>AppInfoView: badge for appcenter instead of uncurated (#2133)</code>](https://github.com/elementary/appcenter/commit/3b127b7a6279ddc87fb07bbd25a5a11f28a58e99)
+- [ ] [<code>AppInfoView: Fix parsing locale with newer AppStream (#2135)</code>](https://github.com/elementary/appcenter/commit/bc82e1b6b0134c16eeef70589deb4069d886a2a3)
+- [ ] [<code>Homepage: style banners completely in CSS (#2128)</code>](https://github.com/elementary/appcenter/commit/72d8a45ffaa824e1dd4f56469886598449e7ae4e)
+- [ ] [<code>Homepage: build AppCenter banner manually (#2137)</code>](https://github.com/elementary/appcenter/commit/01cb4b92e0044b76bd638290991ad30e500915da)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -801,6 +804,8 @@
 - [ ] [<code>Fix device removal (#265)</code>](https://github.com/elementary/switchboard-plug-sound/commit/0536ff627f1ec731b090bc4205e1128afa5b98fc)
 - [ ] [<code>OutputPanel: Use C_ instead of NC_ (#267)</code>](https://github.com/elementary/switchboard-plug-sound/commit/7927cce2dff8361f56924c16277d7f582c7b6be1)
 - [ ] [<code>Fix port selection (#266)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d21993d8be98ceaf3ad1171cd9c7354219c83ce)
+- [ ] [<code>Implement per application volume control (#253)</code>](https://github.com/elementary/switchboard-plug-sound/commit/b425b915875ce7b2d4e2337cf49609cea1e8b72e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -921,6 +926,8 @@
 - [ ] [<code>Remove plank folder from deb packaging</code>](https://github.com/elementary/default-settings/commit/4ed8cbc1cc087bdfb71a27ea9619fcb60d964225)
 - [ ] [<code>Schema overrides are already installed by meson</code>](https://github.com/elementary/default-settings/commit/f34c7580fbda54a04d3f20540e630a9c61ce1e09)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Change "⌘ key behavior" to Applications menu by default (#302)</code>](https://github.com/elementary/default-settings/commit/f46b3ce0f971900a8479224c29b6164bb6dd8a10)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -966,6 +973,9 @@
 
 - [ ] [<code>Remove gala-daemon (#71)</code>](https://github.com/elementary/session-settings/commit/ea1f57e3cda0415b8992f02bd69ed1093aaaa232)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Require gnome-settings-daemon 3.36.0 and deduplicate gsd_components (#72)</code>](https://github.com/elementary/session-settings/commit/29d305e5f535521a444301f981118f23f8f695b6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -1045,6 +1055,7 @@
 - [ ] [<code>Allow focusing a window via DesktopIntegration (#1817)</code>](https://github.com/elementary/gala/commit/0a2d54f6006969226c6413f37b417ac7c7a3badb)
 - [ ] [<code>Add Gala.Barrier (#1855)</code>](https://github.com/elementary/gala/commit/09e09792be8df5742754db3fb652b642c4a19cdd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Set `Super + Space` to switch keyboard layout by default (#1878)</code>](https://github.com/elementary/gala/commit/a6630251b50325bb0ea0b85f010fef6bef9886e7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1171,6 +1182,16 @@
 - [ ] [<code>DateTime: handle relative datetime when epoch (#685)</code>](https://github.com/elementary/granite/commit/b90642e220a527fab302246e3e5d37afc6cfdfa0)
 - [ ] [<code>Deprecate settings widgets (#686)</code>](https://github.com/elementary/granite/commit/90694594fc5cbe13d0181af3313fc753b734ad63)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: install theme to host (#690)</code>](https://github.com/elementary/granite/commit/a31c964693129005bddc2312743835495c3f80dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: add dark variant (#688)</code>](https://github.com/elementary/granite/commit/f0c97cc7b5c245ebdf9b61d2f47b4501fc3b3c44)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Styles: add WindowControls (#689)</code>](https://github.com/elementary/granite/commit/a6080bccb44142cea9d0597cc05796c8bd5b922b)
+- [ ] [<code>Styles: add Index files in widget subfolders (#695)</code>](https://github.com/elementary/granite/commit/eb8e0d9cdc09b94f00f8af7ab152921da549fdd1)
+- [ ] [<code>Styles: add .card (#696)</code>](https://github.com/elementary/granite/commit/abe2f8b4be7ae381a37953d8ad5c63f1d439ae8e)
+- [ ] [<code>Styles: add Gtk.Spinner (#697)</code>](https://github.com/elementary/granite/commit/3bfeb2fc186a2d2a8a9d400d2a041df9eb748562)
+- [ ] [<code>Styles: add keycap styles (#699)</code>](https://github.com/elementary/granite/commit/b6414c63937a24a7f59d085e037fee6b34690a57)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
