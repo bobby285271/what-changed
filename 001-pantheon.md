@@ -38,6 +38,8 @@
 - [ ] [<code>AppInfoView: Fix parsing locale with newer AppStream (#2135)</code>](https://github.com/elementary/appcenter/commit/bc82e1b6b0134c16eeef70589deb4069d886a2a3)
 - [ ] [<code>Homepage: style banners completely in CSS (#2128)</code>](https://github.com/elementary/appcenter/commit/72d8a45ffaa824e1dd4f56469886598449e7ae4e)
 - [ ] [<code>Homepage: build AppCenter banner manually (#2137)</code>](https://github.com/elementary/appcenter/commit/01cb4b92e0044b76bd638290991ad30e500915da)
+- [ ] [<code>Drop options for Pop! Shop (#2136)</code>](https://github.com/elementary/appcenter/commit/d8d3df43de2a90cffcd389bc100c9720b7108f78)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -552,6 +554,7 @@
 - [ ] [<code>Shortcuts: Add "Keyboard Layouts" tab (#500)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3ef6fb10457c94248f1604ac9bdc2bd2a4b794b8)
 - [ ] [<code>Use dialog to add engines (#506)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0e656d7bf942338370763aececf8ee6a600e0e00)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Handle own titlebuttons (#503)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/78ef8eaca2331ddb310a9de723a1abf8558550de)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -1192,6 +1195,7 @@
 - [ ] [<code>Styles: add .card (#696)</code>](https://github.com/elementary/granite/commit/abe2f8b4be7ae381a37953d8ad5c63f1d439ae8e)
 - [ ] [<code>Styles: add Gtk.Spinner (#697)</code>](https://github.com/elementary/granite/commit/3bfeb2fc186a2d2a8a9d400d2a041df9eb748562)
 - [ ] [<code>Styles: add keycap styles (#699)</code>](https://github.com/elementary/granite/commit/b6414c63937a24a7f59d085e037fee6b34690a57)
+- [ ] [<code>Styles: add highlight to windows (#700)</code>](https://github.com/elementary/granite/commit/cc80a99d1bf08dd9d875c5d24c91907d8ee06569)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1265,6 +1269,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: Don't run gtk-update-icon-cache (#136)</code>](https://github.com/elementary/settings-daemon/commit/762678ae1ae7c521edf9f5a3500016b45b67b7ca)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>POTFILES: Add autostart.desktop (#142)</code>](https://github.com/elementary/settings-daemon/commit/3769cc993b5e7cd4805d14e3f49d29d1d625be58)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
