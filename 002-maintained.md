@@ -317,6 +317,8 @@
 
 - [ ] [<code>Remove executable permission on svg files</code>](https://github.com/phase1geo/minder/commit/5a8e9b1d9ee07d5e2521db169f957db6d5903eef)
 - [ ] [<code>Merge pull request #608 from yangfl/master</code>](https://github.com/phase1geo/minder/commit/627a75d1491e458ec7eaf283b495d8e37cc02bc9)
+- [ ] [<code>Adding search support for group notes</code>](https://github.com/phase1geo/minder/commit/594691a78a425159d79e46c40beaffec2006a715)
+- [ ] [<code>Merge branch 'search-groups'</code>](https://github.com/phase1geo/minder/commit/3d42d9b14561330e4fefdef5214c5ad1b8a1efe3)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
 
