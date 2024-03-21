@@ -615,6 +615,9 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/8921ebb0ef7843f6b05ba7479cf17f0aa1498b5c)
 - [ ] [<code>Granite.SimpleSettingsPage → Switchboard.SettingsPage (#395)</code>](https://github.com/elementary/switchboard-plug-network/commit/d13a955c6aa3d1c816ac09e3d4b84e33961d3b1d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make vapigen and GObject introspection optional</code>](https://github.com/elementary/switchboard-plug-network/commit/a4ce9bd29145f78c4d5e751fefe8939259cd38f2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -796,6 +799,9 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-sharing/commit/eb963dc6073fcbe6e9b6781d934320ee11db6126)
 - [ ] [<code>DLNAPage: Fix title of Gtk.FileChooserNative</code>](https://github.com/elementary/switchboard-plug-sharing/commit/95cf761070676eb78251bd3966bb38c9a89fb063)
 - [ ] [<code>Use Switchboard.SettingsPage (#70)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/6db5d16ab4bdba67d5154fbef7dc11117ec80348)
+- [ ] [<code>Require Gtk4>=4.10</code>](https://github.com/elementary/switchboard-plug-sharing/commit/39833c4c26f327a251ab813387ccf4f0c36fdd38)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -933,6 +939,8 @@
 - [ ] [<code>Schema overrides are already installed by meson</code>](https://github.com/elementary/default-settings/commit/f34c7580fbda54a04d3f20540e630a9c61ce1e09)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Change "⌘ key behavior" to Applications menu by default (#302)</code>](https://github.com/elementary/default-settings/commit/f46b3ce0f971900a8479224c29b6164bb6dd8a10)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Install: add pantheon-portals.conf (#303)</code>](https://github.com/elementary/default-settings/commit/fd6a2c1ecdf61288355acf41a3844fbcb17eee8d)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
