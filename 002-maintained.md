@@ -370,6 +370,13 @@
 - [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/9e8ee0e9b3b2075335d0b0ca9225148ca3303783)
 - [ ] [<code>Change manifest</code>](https://github.com/alainm23/planify/commit/2206d2c436135413cb14b81973377009c14953d4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update styles</code>](https://github.com/alainm23/planify/commit/212fd37eca292a4a6fe84651ceefe44371e7f6a2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1192</code>](https://github.com/alainm23/planify/commit/728ec1115088672e93438cebc31c38aab2cdea5d)
+- [ ] [<code>Update translate</code>](https://github.com/alainm23/planify/commit/6467f9ffa358dbfbf2662bbf62965112234883ec)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update es translate</code>](https://github.com/alainm23/planify/commit/4c74cda283b3c40aa1266d78758dae05505713e1)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
