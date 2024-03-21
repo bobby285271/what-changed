@@ -555,6 +555,9 @@
 - [ ] [<code>Use dialog to add engines (#506)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/0e656d7bf942338370763aececf8ee6a600e0e00)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Handle own titlebuttons (#503)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/78ef8eaca2331ddb310a9de723a1abf8558550de)
+- [ ] [<code>Shortcuts: move actionbar to CustomShortcutsListBox (#507)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/51914292fa654d4e5d2f4e23e6b15b038b1dea02)
+- [ ] [<code>Reorganize file structure (#508)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/faa4bdacebaa870b62a7776a403bf97fb342dace)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
