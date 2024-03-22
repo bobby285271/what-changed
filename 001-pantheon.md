@@ -398,6 +398,7 @@
 - [ ] [<code>SettinsgSidebar: Add styles for bottom bar (#301)</code>](https://github.com/elementary/switchboard/commit/233ae0d8f06681e46d780226bbed9f0e2ffddb70)
 - [ ] [<code>SettingsSidebar: bind stack model to list (#302)</code>](https://github.com/elementary/switchboard/commit/b4fc10b8c152b1830d30d3ef341f48d90cedcb20)
 - [ ] [<code>CategoryView: absorb headerbar (#279)</code>](https://github.com/elementary/switchboard/commit/9bc60e2fe78c4d9fe55030e665513eb26ff876a9)
+- [ ] [<code>CategoryView: use a Adw.ToolbarView (#305)</code>](https://github.com/elementary/switchboard/commit/38801a905b07ce17bb25a0ff38d2fc08c22588fb)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -570,6 +571,7 @@
 - [ ] [<code>Shortcuts: move actionbar to CustomShortcutsListBox (#507)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/51914292fa654d4e5d2f4e23e6b15b038b1dea02)
 - [ ] [<code>Reorganize file structure (#508)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/faa4bdacebaa870b62a7776a403bf97fb342dace)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use AdwToolbarView (#509)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3c110bc20ed24e20ce934b2cbcaea92ed010c8e6)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -659,6 +661,7 @@
 - [ ] [<code>Handle own titlebuttons (#100)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/468dea70b6fdaae0af8a667dc170a6e03de81432)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppSettingsView: Fix initial switch toggle position (#104)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/503d0fcd4a3532a857b796a2e44f8ed631e38cd3)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -1242,6 +1245,8 @@
 - [ ] [<code>Styles: add Gtk.Spinner (#697)</code>](https://github.com/elementary/granite/commit/3bfeb2fc186a2d2a8a9d400d2a041df9eb748562)
 - [ ] [<code>Styles: add keycap styles (#699)</code>](https://github.com/elementary/granite/commit/b6414c63937a24a7f59d085e037fee6b34690a57)
 - [ ] [<code>Styles: add highlight to windows (#700)</code>](https://github.com/elementary/granite/commit/cc80a99d1bf08dd9d875c5d24c91907d8ee06569)
+- [ ] [<code>Styles: add Tooltip style (#706)</code>](https://github.com/elementary/granite/commit/ae05901aa779e0fb776969dc8432259d8757eb3f)
+- [ ] [<code>Styles: add semantic colors (#705)</code>](https://github.com/elementary/granite/commit/983619ab219e51388e3b89067934ccd62d3ee561)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
