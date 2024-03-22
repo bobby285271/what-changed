@@ -395,6 +395,9 @@
 - [ ] [<code>Application: don't duplicate accel handling (#298)</code>](https://github.com/elementary/switchboard/commit/c66a2e3eba05d0508d96f6bc23bbcd27f65d621b)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard/commit/a7a0b507577484229fe59701a2b2f56d2b04eab2)
 - [ ] [<code>SettingsSidebar: add a show_title_buttons option (#299)</code>](https://github.com/elementary/switchboard/commit/d598758aa10a0b6a58d1376394ac02eacfa618b9)
+- [ ] [<code>SettinsgSidebar: Add styles for bottom bar (#301)</code>](https://github.com/elementary/switchboard/commit/233ae0d8f06681e46d780226bbed9f0e2ffddb70)
+- [ ] [<code>SettingsSidebar: bind stack model to list (#302)</code>](https://github.com/elementary/switchboard/commit/b4fc10b8c152b1830d30d3ef341f48d90cedcb20)
+- [ ] [<code>CategoryView: absorb headerbar (#279)</code>](https://github.com/elementary/switchboard/commit/9bc60e2fe78c4d9fe55030e665513eb26ff876a9)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -442,11 +445,15 @@
 - [ ] [<code>OperatingSystemView: Add a switch for automatic updates (#294)</code>](https://github.com/elementary/switchboard-plug-about/commit/b07da6e6ecb8c41e66a98cef080e320b7803a02a)
 - [ ] [<code>FirmwareView: use Switchboard.SettingsPage (#297)</code>](https://github.com/elementary/switchboard-plug-about/commit/c973a734f15869bcaa3989771e054fa29ebd7ec8)
 - [ ] [<code>OperatingSystemView: load logo asynchronoulsy when the plug was shown (#301)</code>](https://github.com/elementary/switchboard-plug-about/commit/b457cece2497d840959fd8fcd860dad901fc7738)
+- [ ] [<code>Handle own titlebuttons (#314)</code>](https://github.com/elementary/switchboard-plug-about/commit/451144e79b894cd53263fa484d877f3f70edd481)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/switchboard-plug-applications/commit/19016a737c2ae3e4ea3f74a723e7df76eb0a2bf7)
 - [ ] [<code>Port to GTK 4 (#210)</code>](https://github.com/elementary/switchboard-plug-applications/commit/e0fad5306844133eae147f50812f75411f0fdcd9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Plug: add Adw.HeaderBar (#214)</code>](https://github.com/elementary/switchboard-plug-applications/commit/573a925d9a842be7afa4e15ac94db99910a6faf7)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
@@ -474,6 +481,9 @@
 - [ ] [<code>Update githubci.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/03c2e765c705f701967a385a073010031c1afd59)
 - [ ] [<code>DeviceRow: center valign buttons (#215)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/1721aed9689e14bf9847d07f5fe415e595d3bfa6)
 - [ ] [<code>Use new Switchboard.SettingsPage (#216)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/a6ce52d3087a585ebc1257cbabc0e2b022722d3d)
+- [ ] [<code>Handle own titlebuttons (#218)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b021a7ae4389073a7a2dd11d779b7f51f846e59e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -500,6 +510,7 @@
 - [ ] [<code>Fix initial timezone radio button state (#118)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/833674b0e55f83729e9fc4b529e54ff624769b7e)
 - [ ] [<code>MainView: fix markup compiler warning (#121)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0be7fd8092fd00ba7196ec033070442ce2bf2478)
 - [ ] [<code>MainView: use bind_with_mapping to set auto icon (#120)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/9236206d05303c621555bfdd6e4eee603876218e)
+- [ ] [<code>Handle own titlebuttons (#122)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/13ed638a6c6c4f72e8804ff8afaea2189598cb26)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -519,6 +530,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/931beb7817d6ca7248edadb800bcb8daa1b76099)
+- [ ] [<code>Handle own titlebuttons (#380)</code>](https://github.com/elementary/switchboard-plug-display/commit/7c619246ebf67e84edf4b17508d3e7eefeeb36dc)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -586,6 +598,7 @@
 - [ ] [<code>Plug: make search strings title case (#229)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/9b9af237433f3a0cf455226e3287645fa6f8c3d2)
 - [ ] [<code>Add translation context for "Left" / "Right" (#230)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/14b360c3cb2e5d9e106c009c61885d49dded789a)
 - [ ] [<code>Use Icon instead of icon name (#231)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8d9a73e50420e4b08b8e0f44aad496c6c4d246f6)
+- [ ] [<code>Use titlebutton properties (#232)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6db8b31a2098216c40fff6bc2c0ad99f103b3568)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -618,6 +631,9 @@
 - [ ] [<code>Make vapigen and GObject introspection optional</code>](https://github.com/elementary/switchboard-plug-network/commit/a4ce9bd29145f78c4d5e751fefe8939259cd38f2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Handle own titlebuttons (#396)</code>](https://github.com/elementary/switchboard-plug-network/commit/ef7c0e833acf89d1f307d31d4fbe7164e88df6e2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -640,6 +656,9 @@
 - [ ] [<code>Use Switchboard.SettingsPage (#99)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1f5763b717296c6a449a8a8bc3ac29df8dc27032)
 - [ ] [<code>AppSetttingsView: redesign (#101)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/92ae212a409c203f6f54a4e541a5ce49ac522a60)
 - [ ] [<code>AppSettingsView: don't block settings when DND is active (#102)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1dde134e74ed747c74732f42745eb6408f28aae8)
+- [ ] [<code>Handle own titlebuttons (#100)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/468dea70b6fdaae0af8a667dc170a6e03de81432)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -655,6 +674,7 @@
 - [ ] [<code>Update ci.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/6a56fa9da9df4de7f9cf91fcbf373cb7aad3e791)
 - [ ] [<code>Ship our own icons (#277)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/adca3174cce855b4108e4e3d69c69ba3b7f7aa29)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Handle own titlebuttons (#279)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c4a7a9e7d6ecd3ed326a3bed6823727e1ad11e5a)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -689,6 +709,7 @@
 - [ ] [<code>Remove contract (#387)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/70eab860b61d60d7af11ae3cfd19f21b10fb586d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Handle own titlebuttons (#389)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/40cd20e6ed47ee8ecdf9e8f1827ad2175541200b)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -734,6 +755,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>LidCloseActionComboBox: acquire permission async (#261)</code>](https://github.com/elementary/switchboard-plug-power/commit/ad0c97a21e2957398f8e505fa19a614bea7600b9)
 - [ ] [<code>LidCloseActionComboBox: use Gtk.Dropdown (#258)</code>](https://github.com/elementary/switchboard-plug-power/commit/5d6ced9bb370fdcb69eadbd115bf96aeee17d425)
+- [ ] [<code>Handle own titlebuttons (#263)</code>](https://github.com/elementary/switchboard-plug-power/commit/bcc5c7ef4a16836e829d247d0c47b4e7a1c11fce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -759,6 +783,9 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Master → Main (#200)</code>](https://github.com/elementary/switchboard-plug-printers/commit/bb6a5ae54d7bc12c3ef22235c24d9390dad1e6fa)
 - [ ] [<code>Use Switchboard.SettingsPage (#201)</code>](https://github.com/elementary/switchboard-plug-printers/commit/227936388770edea247249d217090b4e2f460014)
+- [ ] [<code>Handle own titlebuttons (#202)</code>](https://github.com/elementary/switchboard-plug-printers/commit/82396e3b896d7489a51d4e4bcf749e0cd9a73d33)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -779,6 +806,7 @@
 - [ ] [<code>policy: Fix removed configure_file by mistake (#171)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/815cdd56e46b0ab964a6ddde70ddfe4a7757d9cf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use Switchboard.SettingsPage (#172)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/be4d35ce84b25f9d4622971a6c2c7e41f5b58827)
+- [ ] [<code>Handle own titlebuttons (#173)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ecc918586d7cd921e56551298d1f129e06bae381)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -802,6 +830,7 @@
 - [ ] [<code>Require Gtk4>=4.10</code>](https://github.com/elementary/switchboard-plug-sharing/commit/39833c4c26f327a251ab813387ccf4f0c36fdd38)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Handle own titlebuttons (#71)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/991ef48a399d795ed16bc6dddfb1cd3a26bb68ee)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -818,6 +847,8 @@
 - [ ] [<code>Fix port selection (#266)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8d21993d8be98ceaf3ad1171cd9c7354219c83ce)
 - [ ] [<code>Implement per application volume control (#253)</code>](https://github.com/elementary/switchboard-plug-sound/commit/b425b915875ce7b2d4e2337cf49609cea1e8b72e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make stack switcher homogeneous (#270)</code>](https://github.com/elementary/switchboard-plug-sound/commit/7b3210c7f0c1246084112f87db290e9b307aca5e)
+- [ ] [<code>Handle own titlebuttons (#268)</code>](https://github.com/elementary/switchboard-plug-sound/commit/652b626b760ad4c333c6efe63540fff0c82235ed)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -867,6 +898,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>rename .pot</code>](https://github.com/elementary/switchboard-plug-wacom/commit/ef53130c30be608aeb7bebc983f867725874e9c3)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-wacom/commit/1cb52b89f0ba07b3ce7e9efcba15cd9baa29be4f)
+- [ ] [<code>handle own titlebuttons (#63)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c69e306f4fe0ad72bbf445443bd89df3554dcae5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
@@ -883,6 +917,7 @@
 - [ ] [<code>Scrollbars: don't force popover height</code>](https://github.com/elementary/stylesheet/commit/dc443d372223e423279ac8e08e7fc0099eeb359d)
 - [ ] [<code>Windows: hand over window styles to Granite (#1280)</code>](https://github.com/elementary/stylesheet/commit/e21b78973719f4ae8d144a606e8df71bb3cc1ffe)
 - [ ] [<code>Revert "Windows: hand over window styles to Granite" (#1283)</code>](https://github.com/elementary/stylesheet/commit/d2703d3063077118b56a9e3ce0bc9b66f5c0372e)
+- [ ] [<code>WindowControls: Copy styles from Granite</code>](https://github.com/elementary/stylesheet/commit/76a1115cb651208b055bd10f217e71918f492bd6)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
