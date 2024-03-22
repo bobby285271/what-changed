@@ -377,6 +377,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>update es translate</code>](https://github.com/alainm23/planify/commit/4c74cda283b3c40aa1266d78758dae05505713e1)
+- [ ] [<code>fix #1196 #1148 #1129</code>](https://github.com/alainm23/planify/commit/57327dbfef62afb180ef6e824a5b522e29d5b62c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.5.6</code>](https://github.com/alainm23/planify/commit/886c36a5b4921cc6e5a36acdd11a6a169b1faa8a)
+  - <sub>Tags: <code>4.5.6</code></sub>
+- [ ] [<code>Fix #1198</code>](https://github.com/alainm23/planify/commit/1a066c7236b32ff2806000a2df877c9dd3e696be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Release 4.5.8</code>](https://github.com/alainm23/planify/commit/6316c6ed62e01ec6f5359ffc6335d16e7a91a2b5)
+  - <sub>Tags: <code>4.5.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
