@@ -386,6 +386,7 @@
 - [ ] [<code>Release 4.5.8</code>](https://github.com/alainm23/planify/commit/6316c6ed62e01ec6f5359ffc6335d16e7a91a2b5)
   - <sub>Tags: <code>4.5.8</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix #1195</code>](https://github.com/alainm23/planify/commit/84fc5bf2fba3348d87d91fb6b3c38d981303c567)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
