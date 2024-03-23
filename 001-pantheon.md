@@ -1247,6 +1247,7 @@
 - [ ] [<code>Styles: add highlight to windows (#700)</code>](https://github.com/elementary/granite/commit/cc80a99d1bf08dd9d875c5d24c91907d8ee06569)
 - [ ] [<code>Styles: add Tooltip style (#706)</code>](https://github.com/elementary/granite/commit/ae05901aa779e0fb776969dc8432259d8757eb3f)
 - [ ] [<code>Styles: add semantic colors (#705)</code>](https://github.com/elementary/granite/commit/983619ab219e51388e3b89067934ccd62d3ee561)
+- [ ] [<code>Styles: add Popover and ModelButton styles (#707)</code>](https://github.com/elementary/granite/commit/0491f2de19ced146499aa1e76ae9313fd89ee448)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
