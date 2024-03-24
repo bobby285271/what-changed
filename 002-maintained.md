@@ -387,6 +387,10 @@
   - <sub>Tags: <code>4.5.8</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix #1195</code>](https://github.com/alainm23/planify/commit/84fc5bf2fba3348d87d91fb6b3c38d981303c567)
+- [ ] [<code>Add tomorrow view</code>](https://github.com/alainm23/planify/commit/0c6f0b7c75e151025f756fa1216493a3537f4b99)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/2fd3ecb894f0f7fa08df078617e1a201d14faff9)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
