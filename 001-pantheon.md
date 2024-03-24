@@ -399,6 +399,7 @@
 - [ ] [<code>SettingsSidebar: bind stack model to list (#302)</code>](https://github.com/elementary/switchboard/commit/b4fc10b8c152b1830d30d3ef341f48d90cedcb20)
 - [ ] [<code>CategoryView: absorb headerbar (#279)</code>](https://github.com/elementary/switchboard/commit/9bc60e2fe78c4d9fe55030e665513eb26ff876a9)
 - [ ] [<code>CategoryView: use a Adw.ToolbarView (#305)</code>](https://github.com/elementary/switchboard/commit/38801a905b07ce17bb25a0ff38d2fc08c22588fb)
+- [ ] [<code>Application: set window minimize size (#304)</code>](https://github.com/elementary/switchboard/commit/8fb2e409b73abaa0a4f858dc2f396dda7e17e9c0)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -713,6 +714,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Handle own titlebuttons (#389)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/40cd20e6ed47ee8ecdf9e8f1827ad2175541200b)
+- [ ] [<code>Appearance: Always Show Scrollbars setting (#392)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/94807c0dd8a82c295babb6c37d3d08e9af8e8fcb)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1249,6 +1251,8 @@
 - [ ] [<code>Styles: add semantic colors (#705)</code>](https://github.com/elementary/granite/commit/983619ab219e51388e3b89067934ccd62d3ee561)
 - [ ] [<code>Styles: add Popover and ModelButton styles (#707)</code>](https://github.com/elementary/granite/commit/0491f2de19ced146499aa1e76ae9313fd89ee448)
 - [ ] [<code>Styles: add scrollbar (#711)</code>](https://github.com/elementary/granite/commit/0f68ebcfd5f1ab4cf5b7af61165081fae5f2482e)
+- [ ] [<code>Demo: use paned design (#701)</code>](https://github.com/elementary/granite/commit/11e517451a34b614e064ecc554d91a02df6549cf)
+- [ ] [<code>SwitchModelButton: use box layout (#709)</code>](https://github.com/elementary/granite/commit/61f1c03f1ea1249d0e238e6a5ca35aedaf522219)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
