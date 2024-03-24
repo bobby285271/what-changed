@@ -359,33 +359,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.5.4 → HEAD](https://github.com/alainm23/planify/compare/4.5.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.5.8 → HEAD](https://github.com/alainm23/planify/compare/4.5.8...HEAD)
 
-- [ ] [<code>fix #1169</code>](https://github.com/alainm23/planify/commit/14f46578caaaaeca206671865736d1e8ad6a505f)
-- [ ] [<code>Merge pull request #1191 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/cd851be2244e1f8d18dba553161083670d553768)
-- [ ] [<code>fix #1150</code>](https://github.com/alainm23/planify/commit/b93e9d3b8be6f8533192c83b1c3bbf2eec0bcb2f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e438e44e579e09ff4206e709d2362914b27493ff)
-- [ ] [<code>fix #1159</code>](https://github.com/alainm23/planify/commit/7f81d241fc47989b4043906fa8abef5bf019e757)
-- [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/9e8ee0e9b3b2075335d0b0ca9225148ca3303783)
-- [ ] [<code>Change manifest</code>](https://github.com/alainm23/planify/commit/2206d2c436135413cb14b81973377009c14953d4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update styles</code>](https://github.com/alainm23/planify/commit/212fd37eca292a4a6fe84651ceefe44371e7f6a2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1192</code>](https://github.com/alainm23/planify/commit/728ec1115088672e93438cebc31c38aab2cdea5d)
-- [ ] [<code>Update translate</code>](https://github.com/alainm23/planify/commit/6467f9ffa358dbfbf2662bbf62965112234883ec)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>update es translate</code>](https://github.com/alainm23/planify/commit/4c74cda283b3c40aa1266d78758dae05505713e1)
-- [ ] [<code>fix #1196 #1148 #1129</code>](https://github.com/alainm23/planify/commit/57327dbfef62afb180ef6e824a5b522e29d5b62c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.5.6</code>](https://github.com/alainm23/planify/commit/886c36a5b4921cc6e5a36acdd11a6a169b1faa8a)
-  - <sub>Tags: <code>4.5.6</code></sub>
-- [ ] [<code>Fix #1198</code>](https://github.com/alainm23/planify/commit/1a066c7236b32ff2806000a2df877c9dd3e696be)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Release 4.5.8</code>](https://github.com/alainm23/planify/commit/6316c6ed62e01ec6f5359ffc6335d16e7a91a2b5)
-  - <sub>Tags: <code>4.5.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix #1195</code>](https://github.com/alainm23/planify/commit/84fc5bf2fba3348d87d91fb6b3c38d981303c567)
 - [ ] [<code>Add tomorrow view</code>](https://github.com/alainm23/planify/commit/0c6f0b7c75e151025f756fa1216493a3537f4b99)
   - <sub>Files: <code>meson.build</code></sub>
