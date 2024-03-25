@@ -362,10 +362,22 @@
 #### [planify](https://github.com/alainm23/planify): [4.5.8 → HEAD](https://github.com/alainm23/planify/compare/4.5.8...HEAD)
 
 - [ ] [<code>Fix #1195</code>](https://github.com/alainm23/planify/commit/84fc5bf2fba3348d87d91fb6b3c38d981303c567)
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/6d27621f0d947703b3f17ac3759079cc24759e59)
 - [ ] [<code>Add tomorrow view</code>](https://github.com/alainm23/planify/commit/0c6f0b7c75e151025f756fa1216493a3537f4b99)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/2fd3ecb894f0f7fa08df078617e1a201d14faff9)
+- [ ] [<code>feat: add Dutch translation</code>](https://github.com/alainm23/planify/commit/cc961f21644223aea98221efdc4491d9c81a0f02)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix a crash if no color is defined for a Caldav Project</code>](https://github.com/alainm23/planify/commit/96631a4b3b22aba8cd16a99ce1a81a64230dec5c)
+- [ ] [<code>Anytime filter added</code>](https://github.com/alainm23/planify/commit/ccae3bb7d20d19c2549fc98698ed603679203d20)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1208 from byquanton/master</code>](https://github.com/alainm23/planify/commit/41308cb5515b262e10b65ff8aded96507900a176)
+- [ ] [<code>Merge pull request #1203 from Gert-dev/add-dutch-translation</code>](https://github.com/alainm23/planify/commit/0c97db1ecf0eb076ac694a77d73cb3c05dc230b9)
+- [ ] [<code>Merge pull request #1202 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/33a09237668c619592307b68fde60843a122672c)
+- [ ] [<code>Fix #1210</code>](https://github.com/alainm23/planify/commit/22b5fcf55c2e3810b1accad0786c84a145761981)
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/0d35020432cd689c7cf159ff3a27180760a9bebf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
