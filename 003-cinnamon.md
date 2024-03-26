@@ -179,9 +179,10 @@
 - [ ] [<code>nemo-desktop: use app_id as .desktop file name (#3340)</code>](https://github.com/linuxmint/nemo/commit/4aa7a7b725fb9934c4c7187431b7200d11253c45)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Rename initial desktop file to match final name, clean up some</code>](https://github.com/linuxmint/nemo/commit/ae1a5756015efc2bc3ded25525c84b0113239cfc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>nemo-thumbnails.c: Always have at least 1 thumbnail thread.</code>](https://github.com/linuxmint/nemo/commit/3452f4fc9698f838279a45fc41aca6e0c9b0bcc3)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -192,7 +193,9 @@
 - [ ] [<code>apply jxl patch from gthumb, adds support for jxl-0.9.0 (#205)</code>](https://github.com/linuxmint/pix/commit/0de1387da0d1fce51e5c2db04a9a88e64f7c4336)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>debian/control: Add libjxl-dev for build.</code>](https://github.com/linuxmint/pix/commit/09cd8ad9a856276d4a72de4f3e6968e1cafb212e)
+- [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/pix/commit/bb7c281443621ad2aec970548615a68ac96e6ff3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
