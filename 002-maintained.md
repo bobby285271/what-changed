@@ -378,6 +378,9 @@
 - [ ] [<code>Merge pull request #1202 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/33a09237668c619592307b68fde60843a122672c)
 - [ ] [<code>Fix #1210</code>](https://github.com/alainm23/planify/commit/22b5fcf55c2e3810b1accad0786c84a145761981)
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/0d35020432cd689c7cf159ff3a27180760a9bebf)
+- [ ] [<code>fix #1200 #546</code>](https://github.com/alainm23/planify/commit/3855ae53e90d67640c0d26cb3a7140388db70286)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
