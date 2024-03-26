@@ -450,6 +450,7 @@
 - [ ] [<code>FirmwareView: use Switchboard.SettingsPage (#297)</code>](https://github.com/elementary/switchboard-plug-about/commit/c973a734f15869bcaa3989771e054fa29ebd7ec8)
 - [ ] [<code>OperatingSystemView: load logo asynchronoulsy when the plug was shown (#301)</code>](https://github.com/elementary/switchboard-plug-about/commit/b457cece2497d840959fd8fcd860dad901fc7738)
 - [ ] [<code>Handle own titlebuttons (#314)</code>](https://github.com/elementary/switchboard-plug-about/commit/451144e79b894cd53263fa484d877f3f70edd481)
+- [ ] [<code>OperatingSystemView: use boxed-list, modelbutton (#315)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d21994a5e3561a4dc3f90690292236cc6bf1d04)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
