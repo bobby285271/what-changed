@@ -56,6 +56,8 @@
 - [ ] [<code>Switch to flat headerbars (#798)</code>](https://github.com/elementary/calendar/commit/949808f0ef98a345e9098d878309e67a03c0c0df)
 - [ ] [<code>gschema: remove window position (#802)</code>](https://github.com/elementary/calendar/commit/d621b45735d8077767a406894f450e351dd008d4)
 - [ ] [<code>Rearrange headerbar items (#803)</code>](https://github.com/elementary/calendar/commit/d9415684ab403e04c828ac3877322bef8718149d)
+- [ ] [<code>Support online web calendar (#805)</code>](https://github.com/elementary/calendar/commit/03fc11e39c31eb4276ec59cf75dcbd6e688bfcad)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -1253,6 +1255,7 @@
 - [ ] [<code>Styles: add scrollbar (#711)</code>](https://github.com/elementary/granite/commit/0f68ebcfd5f1ab4cf5b7af61165081fae5f2482e)
 - [ ] [<code>Demo: use paned design (#701)</code>](https://github.com/elementary/granite/commit/11e517451a34b614e064ecc554d91a02df6549cf)
 - [ ] [<code>SwitchModelButton: use box layout (#709)</code>](https://github.com/elementary/granite/commit/61f1c03f1ea1249d0e238e6a5ca35aedaf522219)
+- [ ] [<code>SwitchModelButton: make switch not focusable (#713)</code>](https://github.com/elementary/granite/commit/bde99b68b86e659ed4346af16bff6a4591fa8110)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
