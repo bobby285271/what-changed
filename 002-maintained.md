@@ -381,6 +381,9 @@
 - [ ] [<code>fix #1200 #546</code>](https://github.com/alainm23/planify/commit/3855ae53e90d67640c0d26cb3a7140388db70286)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.5.10</code>](https://github.com/alainm23/planify/commit/7e3b4cf8e4772e00097b104c72f4637f0433d0a9)
+  - <sub>Tags: <code>4.5.10</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
