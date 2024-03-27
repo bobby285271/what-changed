@@ -403,6 +403,8 @@
 - [ ] [<code>CategoryView: absorb headerbar (#279)</code>](https://github.com/elementary/switchboard/commit/9bc60e2fe78c4d9fe55030e665513eb26ff876a9)
 - [ ] [<code>CategoryView: use a Adw.ToolbarView (#305)</code>](https://github.com/elementary/switchboard/commit/38801a905b07ce17bb25a0ff38d2fc08c22588fb)
 - [ ] [<code>Application: set window minimize size (#304)</code>](https://github.com/elementary/switchboard/commit/8fb2e409b73abaa0a4f858dc2f396dda7e17e9c0)
+- [ ] [<code>Plug.css: specifically target toolbars (#306)</code>](https://github.com/elementary/switchboard/commit/7a4b3f357408835da1927da141af2aad4b2ac9fe)
+- [ ] [<code>Don't pop pages on escape (#307)</code>](https://github.com/elementary/switchboard/commit/644e4f3a14ed5bbefdb9655d269630967cb20b40)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
