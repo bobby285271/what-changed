@@ -142,6 +142,7 @@
 - [ ] [<code>Add support for AppStream 1.0 (#102)</code>](https://github.com/elementary/feedback/commit/8bfedbb387ecebf4f7cde31ea72904fff4457447)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Application: init Granite</code>](https://github.com/elementary/feedback/commit/5ef63eb606d463b14952f2995c5dd82aa5a36895)
+- [ ] [<code>master → main</code>](https://github.com/elementary/feedback/commit/faa59827ccdfb522a6f0c97102a28342137a6d13)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -461,6 +462,7 @@
 - [ ] [<code>Plug: add Adw.HeaderBar (#214)</code>](https://github.com/elementary/switchboard-plug-applications/commit/573a925d9a842be7afa4e15ac94db99910a6faf7)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/16df5f3d6b16835707da222056344b75a238d329)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -1113,6 +1115,9 @@
 - [ ] [<code>Add Gala.Barrier (#1855)</code>](https://github.com/elementary/gala/commit/09e09792be8df5742754db3fb652b642c4a19cdd)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Set `Super + Space` to switch keyboard layout by default (#1878)</code>](https://github.com/elementary/gala/commit/a6630251b50325bb0ea0b85f010fef6bef9886e7)
+- [ ] [<code>WindowSwitcher: Remove Gtk.Settings (#1881)</code>](https://github.com/elementary/gala/commit/8fce251a2c2213d6b4ff6c53545382e69ae98d3c)
+- [ ] [<code>Introduce a StyleManager (#1880)</code>](https://github.com/elementary/gala/commit/4c6f503b316fd507f07335a3bb7761223bb4ab33)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1257,6 +1262,7 @@
 - [ ] [<code>Demo: use paned design (#701)</code>](https://github.com/elementary/granite/commit/11e517451a34b614e064ecc554d91a02df6549cf)
 - [ ] [<code>SwitchModelButton: use box layout (#709)</code>](https://github.com/elementary/granite/commit/61f1c03f1ea1249d0e238e6a5ca35aedaf522219)
 - [ ] [<code>SwitchModelButton: make switch not focusable (#713)</code>](https://github.com/elementary/granite/commit/bde99b68b86e659ed4346af16bff6a4591fa8110)
+- [ ] [<code>Comment out GTK styles for now</code>](https://github.com/elementary/granite/commit/cf7aec2d3d355a934e5034834b681c00ad2a98c3)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1294,6 +1300,7 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#219)</code>](https://github.com/elementary/notifications/commit/0f63dd63a13fa8998e28ffe4f3e2c2043af742ce)
+- [ ] [<code>FdoActionGroup: Update to new Valac (#223)</code>](https://github.com/elementary/notifications/commit/6e1e487a152f59eb26fdb828459ac8fa4dd1f0e0)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
