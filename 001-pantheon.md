@@ -143,6 +143,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Application: init Granite</code>](https://github.com/elementary/feedback/commit/5ef63eb606d463b14952f2995c5dd82aa5a36895)
 - [ ] [<code>master → main</code>](https://github.com/elementary/feedback/commit/faa59827ccdfb522a6f0c97102a28342137a6d13)
+- [ ] [<code>Desktop: change comment to Report a Problem (#106)</code>](https://github.com/elementary/feedback/commit/af9c635d28117e1c384c23895627ca6c28047b44)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -215,6 +216,7 @@
 - [ ] [<code>AliasesDialog: screen reader fixes, design tweaks (#967)</code>](https://github.com/elementary/mail/commit/a4a9471600d39beb384b36d2cc98bbb3f04170b4)
 - [ ] [<code>gschema: remove window position (#972)</code>](https://github.com/elementary/mail/commit/11f8a562ec0912dac670cba38b383584913f8c11)
 - [ ] [<code>Remember recipients (#927)</code>](https://github.com/elementary/mail/commit/a7630fe8c82fb4c40f8c53b95e1a40509cf7abb5)
+- [ ] [<code>Force disabling webkit compositing mode (#982)</code>](https://github.com/elementary/mail/commit/fdad9c390809e2cdc58fdb74857b51f1c9175e29)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -464,7 +466,8 @@
 - [ ] [<code>Plug: add Adw.HeaderBar (#214)</code>](https://github.com/elementary/switchboard-plug-applications/commit/573a925d9a842be7afa4e15ac94db99910a6faf7)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/16df5f3d6b16835707da222056344b75a238d329)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/53778a96a5c6542db29ef5c26b7d69d4fdaaf28f)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/06c6a8571303c4d9ecfd660feab5b380c80fd76f)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
