@@ -384,6 +384,9 @@
 - [ ] [<code>Release 4.5.10</code>](https://github.com/alainm23/planify/commit/7e3b4cf8e4772e00097b104c72f4637f0433d0a9)
   - <sub>Tags: <code>4.5.10</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix #1217</code>](https://github.com/alainm23/planify/commit/e7094c295b49c257215be7656dbf81e5a350926a)
+- [ ] [<code>Fix #1216</code>](https://github.com/alainm23/planify/commit/87af47bae9e172f9509e2195ca5e7c946cbe2cee)
+- [ ] [<code>fix #1214</code>](https://github.com/alainm23/planify/commit/e7dc62349f2149f6b5d13fc87bab586b9d1456be)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
