@@ -47,14 +47,23 @@
 - [ ] [<code>calendar@cinnamon.org: Fix garbage collection of stale events.</code>](https://github.com/linuxmint/cinnamon/commit/da7e219e9df9d489f09e538009122b1560ea63b4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix mapping flatpak windows to flatpak app</code>](https://github.com/linuxmint/cinnamon/commit/cbb5f30cac8b4f31e712809ffa25ab5d905a3c59)
+- [ ] [<code>Switch to GNOME Online Accounts GTK</code>](https://github.com/linuxmint/cinnamon/commit/d22f889c376734f0ca5d904885c2772e790fbadc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fa9911d71dcedecc7e42eed8b1b8e56f01e57f26)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
 - [ ] [<code>Fix optional wayland handling in cc-display-panel (#323)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a4619acb4682e587537961f33f121045e47ef284)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cc-display-panel.c: Use correct type for dbus label colors.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a99f1d4dbbae23f452bd0d7f632850ed35fc70c5)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Remove Online Accounts panel</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3006535033c43807f5349c0d5797f5d1b0145ac4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/64ff87652e5fdd5f19701e93f277017c6b6ed10a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -129,6 +138,9 @@
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
+- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-x-icons/commit/b8ba1e25692c5b9cc37c476eee76acbc036ec0e5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-x-icons/commit/f9f77915fbefa7329198c9ba72266429ee668492)
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
 
