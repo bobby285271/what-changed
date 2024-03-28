@@ -387,6 +387,10 @@
 - [ ] [<code>Fix #1217</code>](https://github.com/alainm23/planify/commit/e7094c295b49c257215be7656dbf81e5a350926a)
 - [ ] [<code>Fix #1216</code>](https://github.com/alainm23/planify/commit/87af47bae9e172f9509e2195ca5e7c946cbe2cee)
 - [ ] [<code>fix #1214</code>](https://github.com/alainm23/planify/commit/e7dc62349f2149f6b5d13fc87bab586b9d1456be)
+- [ ] [<code>fix #1194</code>](https://github.com/alainm23/planify/commit/c3e8b1c8418341c6730877a004331d12eafaa13b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Feat: add manual caldav manual sync</code>](https://github.com/alainm23/planify/commit/302256b2475b12897654cd692356ddaee47b9a52)
+- [ ] [<code>Fix #1209</code>](https://github.com/alainm23/planify/commit/979b6a531ef8f934d7d9d889affe47d363c10102)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
