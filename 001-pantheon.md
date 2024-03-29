@@ -468,6 +468,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/53778a96a5c6542db29ef5c26b7d69d4fdaaf28f)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/06c6a8571303c4d9ecfd660feab5b380c80fd76f)
+- [ ] [<code>PermissionsPlug: use Switchboard.SettingsPage (#215)</code>](https://github.com/elementary/switchboard-plug-applications/commit/4a3680040801a63ce715d5ad43b08dd2b89ff77a)
+- [ ] [<code>AppSettingsView: DRY row creation (#218)</code>](https://github.com/elementary/switchboard-plug-applications/commit/7a15d3cced01869a3c34e73306c490e82853fad5)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
