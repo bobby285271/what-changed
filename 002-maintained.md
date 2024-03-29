@@ -391,6 +391,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Feat: add manual caldav manual sync</code>](https://github.com/alainm23/planify/commit/302256b2475b12897654cd692356ddaee47b9a52)
 - [ ] [<code>Fix #1209</code>](https://github.com/alainm23/planify/commit/979b6a531ef8f934d7d9d889affe47d363c10102)
+- [ ] [<code>fix #1154</code>](https://github.com/alainm23/planify/commit/1919a963cb41252a0f15a0ad012d0eabbd89a7cf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix #1124</code>](https://github.com/alainm23/planify/commit/7eb00ee6f9bd6641a41c4c94610e4df6a490308a)
+  - <sub>Tags: <code>4.5.11</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
