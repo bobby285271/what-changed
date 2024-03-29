@@ -1040,6 +1040,8 @@
 - [ ] [<code>Require gnome-settings-daemon 3.36.0 and deduplicate gsd_components (#72)</code>](https://github.com/elementary/session-settings/commit/29d305e5f535521a444301f981118f23f8f695b6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use systemd managed gnome-session (#73)</code>](https://github.com/elementary/session-settings/commit/53bf57e5b32936befc3003a0f99c5b3a69349c76)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
