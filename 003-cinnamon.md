@@ -52,6 +52,10 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fa9911d71dcedecc7e42eed8b1b8e56f01e57f26)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_info: Add 'about' as a keyword for System Info (#12136)</code>](https://github.com/linuxmint/cinnamon/commit/b43cb79d6a2f3ecc0c81070938c18a26d0070bdc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_keyboard: Enable configuration of bindings for Spices (#12128)</code>](https://github.com/linuxmint/cinnamon/commit/d7ca6a6b91a17afc180895be66b2f70790716060)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
