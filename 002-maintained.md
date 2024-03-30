@@ -359,44 +359,22 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.5.8 → HEAD](https://github.com/alainm23/planify/compare/4.5.8...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.5.11 → HEAD](https://github.com/alainm23/planify/compare/4.5.11...HEAD)
 
-- [ ] [<code>Fix #1195</code>](https://github.com/alainm23/planify/commit/84fc5bf2fba3348d87d91fb6b3c38d981303c567)
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/6d27621f0d947703b3f17ac3759079cc24759e59)
-- [ ] [<code>Add tomorrow view</code>](https://github.com/alainm23/planify/commit/0c6f0b7c75e151025f756fa1216493a3537f4b99)
+- [ ] [<code>Fix: Update Dutch translation</code>](https://github.com/alainm23/planify/commit/1f957940a537ab957944ebc25f227a8f673228ec)
+- [ ] [<code>update spanish translation</code>](https://github.com/alainm23/planify/commit/4c391ecbc4325982a165a8ffddf20dfd62852e1c)
+- [ ] [<code>update german translations</code>](https://github.com/alainm23/planify/commit/aa842a688f67a2ccf8ac9fdd1a690d4e4f56fa94)
+- [ ] [<code>Update Hindi translation</code>](https://github.com/alainm23/planify/commit/ca75fbc7543f74e4954ac397730af2f686c5f5b3)
+- [ ] [<code>Add CalDAV logs</code>](https://github.com/alainm23/planify/commit/e9c0ecb095512e856d7facc4f61ade48814accfc)
+- [ ] [<code>Merge pull request #1226 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/4dfd209c921be559ae08084b2057560674c2926b)
+- [ ] [<code>Merge pull request #1225 from bestlinuxgamers/master</code>](https://github.com/alainm23/planify/commit/910e5e0f951c884a87669c4491a211afa849ff3d)
+- [ ] [<code>Merge pull request #1223 from haggen88/update-es.po</code>](https://github.com/alainm23/planify/commit/348dcaee15387cc5d7a543fc50fc7693df415779)
+- [ ] [<code>Merge pull request #1222 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/41c29a914c93000e4302f63f3623aff1930eda90)
+- [ ] [<code>Fix project view id</code>](https://github.com/alainm23/planify/commit/ca7bf3d6485729488acf9dae77f9a34192260682)
+- [ ] [<code>ci: use latest version</code>](https://github.com/alainm23/planify/commit/1d36d15d9e8b3506cb5e7b8ca44c340a662028a8)
+- [ ] [<code>fix #1227</code>](https://github.com/alainm23/planify/commit/b5edd9379b7b8991ebde8ce2284ae61811dddece)
+  - <sub>Tags: <code>4.5.12</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1153</code>](https://github.com/alainm23/planify/commit/2fd3ecb894f0f7fa08df078617e1a201d14faff9)
-- [ ] [<code>feat: add Dutch translation</code>](https://github.com/alainm23/planify/commit/cc961f21644223aea98221efdc4491d9c81a0f02)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix a crash if no color is defined for a Caldav Project</code>](https://github.com/alainm23/planify/commit/96631a4b3b22aba8cd16a99ce1a81a64230dec5c)
-- [ ] [<code>Anytime filter added</code>](https://github.com/alainm23/planify/commit/ccae3bb7d20d19c2549fc98698ed603679203d20)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1208 from byquanton/master</code>](https://github.com/alainm23/planify/commit/41308cb5515b262e10b65ff8aded96507900a176)
-- [ ] [<code>Merge pull request #1203 from Gert-dev/add-dutch-translation</code>](https://github.com/alainm23/planify/commit/0c97db1ecf0eb076ac694a77d73cb3c05dc230b9)
-- [ ] [<code>Merge pull request #1202 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/33a09237668c619592307b68fde60843a122672c)
-- [ ] [<code>Fix #1210</code>](https://github.com/alainm23/planify/commit/22b5fcf55c2e3810b1accad0786c84a145761981)
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/0d35020432cd689c7cf159ff3a27180760a9bebf)
-- [ ] [<code>fix #1200 #546</code>](https://github.com/alainm23/planify/commit/3855ae53e90d67640c0d26cb3a7140388db70286)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.5.10</code>](https://github.com/alainm23/planify/commit/7e3b4cf8e4772e00097b104c72f4637f0433d0a9)
-  - <sub>Tags: <code>4.5.10</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix #1217</code>](https://github.com/alainm23/planify/commit/e7094c295b49c257215be7656dbf81e5a350926a)
-- [ ] [<code>Fix #1216</code>](https://github.com/alainm23/planify/commit/87af47bae9e172f9509e2195ca5e7c946cbe2cee)
-- [ ] [<code>fix #1214</code>](https://github.com/alainm23/planify/commit/e7dc62349f2149f6b5d13fc87bab586b9d1456be)
-- [ ] [<code>fix #1194</code>](https://github.com/alainm23/planify/commit/c3e8b1c8418341c6730877a004331d12eafaa13b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Feat: add manual caldav manual sync</code>](https://github.com/alainm23/planify/commit/302256b2475b12897654cd692356ddaee47b9a52)
-- [ ] [<code>Fix #1209</code>](https://github.com/alainm23/planify/commit/979b6a531ef8f934d7d9d889affe47d363c10102)
-- [ ] [<code>fix #1154</code>](https://github.com/alainm23/planify/commit/1919a963cb41252a0f15a0ad012d0eabbd89a7cf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix #1124</code>](https://github.com/alainm23/planify/commit/7eb00ee6f9bd6641a41c4c94610e4df6a490308a)
-  - <sub>Tags: <code>4.5.11</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
