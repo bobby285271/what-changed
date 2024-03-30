@@ -470,6 +470,10 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/06c6a8571303c4d9ecfd660feab5b380c80fd76f)
 - [ ] [<code>PermissionsPlug: use Switchboard.SettingsPage (#215)</code>](https://github.com/elementary/switchboard-plug-applications/commit/4a3680040801a63ce715d5ad43b08dd2b89ff77a)
 - [ ] [<code>AppSettingsView: DRY row creation (#218)</code>](https://github.com/elementary/switchboard-plug-applications/commit/7a15d3cced01869a3c34e73306c490e82853fad5)
+- [ ] [<code>AppSettingsView: show switch for background permission (#217)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c205a6555f541a8f017cee2f0d242c2b88654cd9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppSettingsView: add wallpaper permission (#223)</code>](https://github.com/elementary/switchboard-plug-applications/commit/1bae9b37eaa14fd3e36d4fe16c6b00bc63e448c3)
+- [ ] [<code>PermissionsPlug: Add location permission setting (#219)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d78cd183652de2fab9fdea640553c3d50b5d5438)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
