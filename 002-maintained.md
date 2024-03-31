@@ -375,6 +375,8 @@
 - [ ] [<code>fix #1227</code>](https://github.com/alainm23/planify/commit/b5edd9379b7b8991ebde8ce2284ae61811dddece)
   - <sub>Tags: <code>4.5.12</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appdata: `translate=no` properties</code>](https://github.com/alainm23/planify/commit/c7b968289e0c71d770e03cba311400d547ff7a28)
+- [ ] [<code>Merge pull request #1229 from yakushabb/fix-tr</code>](https://github.com/alainm23/planify/commit/badf6a72d45f280cb6d98909c8affdca4dd27019)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -397,6 +399,7 @@
 - [ ] [<code>Merge pull request #99 from Vistaus/develop</code>](https://github.com/bytepixie/snippetpixie/commit/da62e16d6e1e5b4c5200413dbb51684ce92199c0)
 - [ ] [<code>Merge branch 'develop'</code>](https://github.com/bytepixie/snippetpixie/commit/ceb62990337a4bd16a5842caeba96dad21e19f3e)
 - [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/bytepixie/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
+- [ ] [<code>Add project status to README.md</code>](https://github.com/bytepixie/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
 
 #### [spice-up](https://github.com/Philip-Scott/Spice-up): [1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/1.9.1...HEAD)
 
