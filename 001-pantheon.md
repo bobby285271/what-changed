@@ -474,6 +474,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppSettingsView: add wallpaper permission (#223)</code>](https://github.com/elementary/switchboard-plug-applications/commit/1bae9b37eaa14fd3e36d4fe16c6b00bc63e448c3)
 - [ ] [<code>PermissionsPlug: Add location permission setting (#219)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d78cd183652de2fab9fdea640553c3d50b5d5438)
+- [ ] [<code>AppSettingsView: add header for sandbox permissions (#225)</code>](https://github.com/elementary/switchboard-plug-applications/commit/2d45c301b40ac22124d805c127bfbb9824e33891)
+- [ ] [<code>AppSettingsView: use AppInfo description (#224)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f6d767e6d0188c0a3c594b3476c17d684b528b8c)
+- [ ] [<code>AppSettingsView: update descriptions (#226)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c528eb0269f970b9e5dad9f6d6475694f6471a78)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
