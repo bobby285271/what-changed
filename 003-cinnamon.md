@@ -68,6 +68,9 @@
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/64ff87652e5fdd5f19701e93f277017c6b6ed10a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Remove gnome-online-accounts dependency (#327)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/1dd641f3c8ab9823f71dc8e75faea1e2d2795154)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update cc-wacom-panel.c: Fix name (#331)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/90a311cba677b6bb274fc343d686aed0bd97b7a0)
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
