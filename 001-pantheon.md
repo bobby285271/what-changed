@@ -134,6 +134,8 @@
 - [ ] [<code>Launcher: animate bounce with Adw (#216)</code>](https://github.com/elementary/dock/commit/803caf66b99fce11cb3229895b7c1b9b5f85c443)
 - [ ] [<code>Styles: make dock more subtle (#220)</code>](https://github.com/elementary/dock/commit/5c88f1dcaa7756e606b4cfe712e53cf22577e302)
 - [ ] [<code>Animate launcher add/remove (#218)</code>](https://github.com/elementary/dock/commit/0fa7742fbe1d127457a3d7b1ea95f4d5073d911f)
+- [ ] [<code>Introduce an App class taking responsibility from the Launcher (#221)</code>](https://github.com/elementary/dock/commit/4e9db3cca0e381cade5c1db4b4e6f3b95f2bf677)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -942,6 +944,7 @@
 - [ ] [<code>Windows: hand over window styles to Granite (#1280)</code>](https://github.com/elementary/stylesheet/commit/e21b78973719f4ae8d144a606e8df71bb3cc1ffe)
 - [ ] [<code>Revert "Windows: hand over window styles to Granite" (#1283)</code>](https://github.com/elementary/stylesheet/commit/d2703d3063077118b56a9e3ce0bc9b66f5c0372e)
 - [ ] [<code>WindowControls: Copy styles from Granite</code>](https://github.com/elementary/stylesheet/commit/76a1115cb651208b055bd10f217e71918f492bd6)
+- [ ] [<code>Remove Settings widgets (#1279)</code>](https://github.com/elementary/stylesheet/commit/345d92ee8a563500bf5475363a567edd8ce1e9e3)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
