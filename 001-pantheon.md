@@ -136,6 +136,8 @@
 - [ ] [<code>Animate launcher add/remove (#218)</code>](https://github.com/elementary/dock/commit/0fa7742fbe1d127457a3d7b1ea95f4d5073d911f)
 - [ ] [<code>Introduce an App class taking responsibility from the Launcher (#221)</code>](https://github.com/elementary/dock/commit/4e9db3cca0e381cade5c1db4b4e6f3b95f2bf677)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Focus window on click (#223)</code>](https://github.com/elementary/dock/commit/647385e8b3f1202952ca2fa0f1b5fe0e55ac8f53)
+- [ ] [<code>Implement scrolling to switch windows (#222)</code>](https://github.com/elementary/dock/commit/c87bbfab0f12e29bd1e85ac3153bd32414395666)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -966,6 +968,11 @@
 - [ ] [<code>Actions: update system action symbolics (#1242)</code>](https://github.com/elementary/icons/commit/65706317b5c8b4c38df2281558e24c5511d5834b)
 - [ ] [<code>Round window control icons (#1246)</code>](https://github.com/elementary/icons/commit/651f721a159430b07cf38cb45aacc0f639527ea3)
 - [ ] [<code>Usb reciever (#1247)</code>](https://github.com/elementary/icons/commit/a2bc1964d45585a483aaaf6c7df155573f281cd5)
+- [ ] [<code>Add accessories-screenshot-tool (#1249)</code>](https://github.com/elementary/icons/commit/6ff73e7d0aa6a083bd9566dc0df6cf18277246a3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bad link</code>](https://github.com/elementary/icons/commit/73ada84717b37f1af8b7ddf5a5d123e580b2453c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Preferences desktop wallpaper (#1212)</code>](https://github.com/elementary/icons/commit/02b83716db5ae85bccc731f09864e586ff07af8e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -981,6 +988,7 @@
 - [ ] [<code>Switch to GHCR containers (#179)</code>](https://github.com/elementary/wallpapers/commit/ca00c646ee783cf7fb0796e75abd73950451bb73)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wallpapers/commit/4aeefdb177feefd6a00938a05df13c10a832d086)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/elementary/wallpapers/commit/412bcdc260a64826149d05da001106e8f4c0e84a)
+- [ ] [<code>Early Access: remove text</code>](https://github.com/elementary/wallpapers/commit/58c38e289ebad7c6fb39503760c239e0c3699ed5)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
@@ -1030,6 +1038,12 @@
 - [ ] [<code>SessionButton: build menu from model (#713)</code>](https://github.com/elementary/greeter/commit/79d06ef3b23693f68dddfcc3a0f1ccb2440e575d)
 - [ ] [<code>Fix criticals (#705)</code>](https://github.com/elementary/greeter/commit/7b0516780f4c936d65323b527aa8ed82d67fa728)
 - [ ] [<code>MainWindow: don't force dark style for buttons (#719)</code>](https://github.com/elementary/greeter/commit/69362e9e4150bcd221ce4d15c1461c285b2fd992)
+- [ ] [<code>Remove corner mask in favor of rounded background corners</code>](https://github.com/elementary/greeter/commit/b11fc665e86aa2b81cc0bbd9f575d9b56f2861af)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SystemBackground: cleanup</code>](https://github.com/elementary/greeter/commit/77278058432f4486f5e890c936e61878dbbe1374)
+- [ ] [<code>Add Mutter 46 support</code>](https://github.com/elementary/greeter/commit/3ff7809bb0f56119e40702825bab899af1a25010)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1137,6 +1151,12 @@
 - [ ] [<code>WindowSwitcher: Remove Gtk.Settings (#1881)</code>](https://github.com/elementary/gala/commit/8fce251a2c2213d6b4ff6c53545382e69ae98d3c)
 - [ ] [<code>Introduce a StyleManager (#1880)</code>](https://github.com/elementary/gala/commit/4c6f503b316fd507f07335a3bb7761223bb4ab33)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Launch notifications server as a wayland client (#1882)</code>](https://github.com/elementary/gala/commit/0e88796b96e16319fd82dc0625f501df7ca20150)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: Remove plank dep (#1885)</code>](https://github.com/elementary/gala/commit/2fc2ecd1af18fe7e510a418cb4713881d11e27b1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove libcanberra-gtk remnants (#1886)</code>](https://github.com/elementary/gala/commit/87c6a2f873e29e1d3257a7f826a73c4137ded7bf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1320,6 +1340,9 @@
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#219)</code>](https://github.com/elementary/notifications/commit/0f63dd63a13fa8998e28ffe4f3e2c2043af742ce)
 - [ ] [<code>FdoActionGroup: Update to new Valac (#223)</code>](https://github.com/elementary/notifications/commit/6e1e487a152f59eb26fdb828459ac8fa4dd1f0e0)
+- [ ] [<code>Remove autostart file (#224)</code>](https://github.com/elementary/notifications/commit/5be5904c03cca1186a4c2f218468ea4312b00a21)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
@@ -1357,6 +1380,7 @@
 - [ ] [<code>meson: Don't run gtk-update-icon-cache (#136)</code>](https://github.com/elementary/settings-daemon/commit/762678ae1ae7c521edf9f5a3500016b45b67b7ca)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>POTFILES: Add autostart.desktop (#142)</code>](https://github.com/elementary/settings-daemon/commit/3769cc993b5e7cd4805d14e3f49d29d1d625be58)
+- [ ] [<code>HouseKeeping: add temp and trash options (#143)</code>](https://github.com/elementary/settings-daemon/commit/755d0f3bff38827952ddd439f0b7fe7d891ff6b0)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
