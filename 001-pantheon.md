@@ -138,6 +138,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Focus window on click (#223)</code>](https://github.com/elementary/dock/commit/647385e8b3f1202952ca2fa0f1b5fe0e55ac8f53)
 - [ ] [<code>Implement scrolling to switch windows (#222)</code>](https://github.com/elementary/dock/commit/c87bbfab0f12e29bd1e85ac3153bd32414395666)
+- [ ] [<code>Do DBus calls asynchronously (#225)</code>](https://github.com/elementary/dock/commit/1c9573e79add3b9de3a420f86e7da61a8d0699bb)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -232,6 +233,9 @@
 - [ ] [<code>CI: use flatpak gettext action (#761)</code>](https://github.com/elementary/music/commit/f0efd85eb1ed75b35f5ac21cd8541d460ff237de)
 - [ ] [<code>meson: Fix build warning (#768)</code>](https://github.com/elementary/music/commit/410f48653611ef47c130ffd260ffea1ccccabcf6)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Application: use modern features for loading assets, use startup (#769)</code>](https://github.com/elementary/music/commit/b95233f7f84f0df23b588af336f563513b86f8af)
+- [ ] [<code>Update music.desktop.in (#770)</code>](https://github.com/elementary/music/commit/71b38e98a21f0cefdd9ffe66c6ca513b86caf030)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -481,6 +485,7 @@
 - [ ] [<code>AppSettingsView: add header for sandbox permissions (#225)</code>](https://github.com/elementary/switchboard-plug-applications/commit/2d45c301b40ac22124d805c127bfbb9824e33891)
 - [ ] [<code>AppSettingsView: use AppInfo description (#224)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f6d767e6d0188c0a3c594b3476c17d684b528b8c)
 - [ ] [<code>AppSettingsView: update descriptions (#226)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c528eb0269f970b9e5dad9f6d6475694f6471a78)
+- [ ] [<code>AppSettingsView: add screenshot permission (#222)</code>](https://github.com/elementary/switchboard-plug-applications/commit/16390432af487a12fef6d264c79eafb25b107e13)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -835,6 +840,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use Switchboard.SettingsPage (#172)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/be4d35ce84b25f9d4622971a6c2c7e41f5b58827)
 - [ ] [<code>Handle own titlebuttons (#173)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ecc918586d7cd921e56551298d1f129e06bae381)
+- [ ] [<code>Housekeeping: use elementary settings-daemon (#174)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/34d97e854de05094a902228ce9d06ec67dc985b0)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -947,6 +954,7 @@
 - [ ] [<code>Revert "Windows: hand over window styles to Granite" (#1283)</code>](https://github.com/elementary/stylesheet/commit/d2703d3063077118b56a9e3ce0bc9b66f5c0372e)
 - [ ] [<code>WindowControls: Copy styles from Granite</code>](https://github.com/elementary/stylesheet/commit/76a1115cb651208b055bd10f217e71918f492bd6)
 - [ ] [<code>Remove Settings widgets (#1279)</code>](https://github.com/elementary/stylesheet/commit/345d92ee8a563500bf5475363a567edd8ce1e9e3)
+- [ ] [<code>Support Adw.ToolbarView (#1284)</code>](https://github.com/elementary/stylesheet/commit/8c229c8e943816b76a1cff26e14c63f3048c54fe)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -1054,6 +1062,8 @@
 - [ ] [<code>Application: use Granite.init (#222)</code>](https://github.com/elementary/onboarding/commit/7cdc8aae44674ddfc3a7f5f24594ea301fcab779)
 - [ ] [<code>Improve screenreader support (#225)</code>](https://github.com/elementary/onboarding/commit/8e06c643e28e252a36b8d412067ec80498c86e8e)
 - [ ] [<code>UpdatesView: add OS updates (#224)</code>](https://github.com/elementary/onboarding/commit/421cb87933825aa2ec623d167158b3089b7326cf)
+- [ ] [<code>Housekeeping: use elementary settings daemon (#226)</code>](https://github.com/elementary/onboarding/commit/21c51e04060a967fab0c599ae0e8b4b3884c27b6)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1478,6 +1488,7 @@
 - [ ] [<code>Bump easimon/maximize-build-space from 8 to 9 (#700)</code>](https://github.com/elementary/os/commit/2291e647b8905a53351ef85fed2cdcc760158f44)
 - [ ] [<code>Bump easimon/maximize-build-space from 9 to 10 (#701)</code>](https://github.com/elementary/os/commit/fc6b6e1cbea922f02c139d157c11ce5902a87319)
   - <sub>Tags: <code>7.1.1-rc1</code></sub>
+- [ ] [<code>Stop building 7.1 dailies (#707)</code>](https://github.com/elementary/os/commit/330c923d97f2debe5c19a7f9e176249808207006)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
