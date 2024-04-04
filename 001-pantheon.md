@@ -40,6 +40,8 @@
 - [ ] [<code>Homepage: build AppCenter banner manually (#2137)</code>](https://github.com/elementary/appcenter/commit/01cb4b92e0044b76bd638290991ad30e500915da)
 - [ ] [<code>Drop options for Pop! Shop (#2136)</code>](https://github.com/elementary/appcenter/commit/d8d3df43de2a90cffcd389bc100c9720b7108f78)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Desktop: organize, add singlemainwindow (#2141)</code>](https://github.com/elementary/appcenter/commit/51e1ef8f014a07fba52225102fb210676d2f0a1b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -139,6 +141,7 @@
 - [ ] [<code>Focus window on click (#223)</code>](https://github.com/elementary/dock/commit/647385e8b3f1202952ca2fa0f1b5fe0e55ac8f53)
 - [ ] [<code>Implement scrolling to switch windows (#222)</code>](https://github.com/elementary/dock/commit/c87bbfab0f12e29bd1e85ac3153bd32414395666)
 - [ ] [<code>Do DBus calls asynchronously (#225)</code>](https://github.com/elementary/dock/commit/1c9573e79add3b9de3a420f86e7da61a8d0699bb)
+- [ ] [<code>Launcher: Improve bounce animation (#226)</code>](https://github.com/elementary/dock/commit/2d4ea60c1295dc626f27680fb6ca53f5cf24e0e3)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -236,6 +239,7 @@
 - [ ] [<code>Application: use modern features for loading assets, use startup (#769)</code>](https://github.com/elementary/music/commit/b95233f7f84f0df23b588af336f563513b86f8af)
 - [ ] [<code>Update music.desktop.in (#770)</code>](https://github.com/elementary/music/commit/71b38e98a21f0cefdd9ffe66c6ca513b86caf030)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update music.desktop.in</code>](https://github.com/elementary/music/commit/d00a6d69bc62df9fac205a98b7fe8972009b297a)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -464,6 +468,7 @@
 - [ ] [<code>OperatingSystemView: load logo asynchronoulsy when the plug was shown (#301)</code>](https://github.com/elementary/switchboard-plug-about/commit/b457cece2497d840959fd8fcd860dad901fc7738)
 - [ ] [<code>Handle own titlebuttons (#314)</code>](https://github.com/elementary/switchboard-plug-about/commit/451144e79b894cd53263fa484d877f3f70edd481)
 - [ ] [<code>OperatingSystemView: use boxed-list, modelbutton (#315)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d21994a5e3561a4dc3f90690292236cc6bf1d04)
+- [ ] [<code>Show a placeholder if no connection to the settings-daemon could be established (#316)</code>](https://github.com/elementary/switchboard-plug-about/commit/d1c4f5481a2c2828660b8fcd1299d3f858e58e74)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -601,6 +606,8 @@
 - [ ] [<code>Reorganize file structure (#508)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/faa4bdacebaa870b62a7776a403bf97fb342dace)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use AdwToolbarView (#509)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3c110bc20ed24e20ce934b2cbcaea92ed010c8e6)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e11fdc187c216e212f4003fe7d269eeddf6f6f15)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9ae051a7d5adc7de9eea2373600243d11d5dd9db)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -691,6 +698,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppSettingsView: Fix initial switch toggle position (#104)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/503d0fcd4a3532a857b796a2e44f8ed631e38cd3)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/0b6188e1b4bc483a7fd5b5192b548e27de4b2970)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -1167,6 +1175,7 @@
 - [ ] [<code>CI: Remove plank dep (#1885)</code>](https://github.com/elementary/gala/commit/2fc2ecd1af18fe7e510a418cb4713881d11e27b1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove libcanberra-gtk remnants (#1886)</code>](https://github.com/elementary/gala/commit/87c6a2f873e29e1d3257a7f826a73c4137ded7bf)
+- [ ] [<code>wayland: Fix drag and drop icons (#1889)</code>](https://github.com/elementary/gala/commit/e20989ceccc683dd2a1f797ee94421e5ed9c22a1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
