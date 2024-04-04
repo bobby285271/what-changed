@@ -56,6 +56,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_keyboard: Enable configuration of bindings for Spices (#12128)</code>](https://github.com/linuxmint/cinnamon/commit/d7ca6a6b91a17afc180895be66b2f70790716060)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>cs_themes: Fix the stack switcher sensitivity (#12117)</code>](https://github.com/linuxmint/cinnamon/commit/f1dc5021d90cbf10ffa4ba2fef82aaebbe59bd60)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -71,6 +73,7 @@
 - [ ] [<code>Remove gnome-online-accounts dependency (#327)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/1dd641f3c8ab9823f71dc8e75faea1e2d2795154)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update cc-wacom-panel.c: Fix name (#331)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/90a311cba677b6bb274fc343d686aed0bd97b7a0)
+- [ ] [<code>Apply edits from Codespell (#333)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/496012ac78eb80aa6d4e02b8637d0135c415c8f9)
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
