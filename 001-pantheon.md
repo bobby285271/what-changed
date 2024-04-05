@@ -142,6 +142,7 @@
 - [ ] [<code>Implement scrolling to switch windows (#222)</code>](https://github.com/elementary/dock/commit/c87bbfab0f12e29bd1e85ac3153bd32414395666)
 - [ ] [<code>Do DBus calls asynchronously (#225)</code>](https://github.com/elementary/dock/commit/1c9573e79add3b9de3a420f86e7da61a8d0699bb)
 - [ ] [<code>Launcher: Improve bounce animation (#226)</code>](https://github.com/elementary/dock/commit/2d4ea60c1295dc626f27680fb6ca53f5cf24e0e3)
+- [ ] [<code>Launch new instance on middle click (#227)</code>](https://github.com/elementary/dock/commit/02d0fd654620faff8117b7ed8a5a125e551ca37c)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -195,6 +196,8 @@
 - [ ] [<code>Regression: Fix dragging file items (#2417)</code>](https://github.com/elementary/files/commit/41ef82ca535d759d00599602b336bcd0104b1ef4)
 - [ ] [<code>[Gtk4Prep] Cleanup DnD (#2418)</code>](https://github.com/elementary/files/commit/d714ab1b140f2c04b44c6d09e10f886c7132d596)
 - [ ] [<code>[Regression] Fix dragging multiple items (#2421)</code>](https://github.com/elementary/files/commit/8785418f4ee750fe930b79d4d29fc3a5caaf4989)
+- [ ] [<code>Desktop: update, singlemainwindow (#2426)</code>](https://github.com/elementary/files/commit/287e43116cdf1c26b16c2b4e181c62cd2dc22f01)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -1176,6 +1179,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove libcanberra-gtk remnants (#1886)</code>](https://github.com/elementary/gala/commit/87c6a2f873e29e1d3257a7f826a73c4137ded7bf)
 - [ ] [<code>wayland: Fix drag and drop icons (#1889)</code>](https://github.com/elementary/gala/commit/e20989ceccc683dd2a1f797ee94421e5ed9c22a1)
+- [ ] [<code>WindowSwitcher: Fix blocking input</code>](https://github.com/elementary/gala/commit/4225ab112fa2b675d0ab2a330ac08a6ead5b3968)
+- [ ] [<code>WindowSwitcher: Fix mouse click (#1891)</code>](https://github.com/elementary/gala/commit/c77c9d1d0d182c17c94cae775a9a77efb923bad2)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
