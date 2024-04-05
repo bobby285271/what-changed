@@ -161,9 +161,11 @@
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/muffin/commit/595d0733e7bda3bab483a2e86929204c262dc10f)
 - [ ] [<code>Fix compile issue (#683)</code>](https://github.com/linuxmint/muffin/commit/38919a88b2b8381f5b24b69742d1b9db32029c61)
 - [ ] [<code>build: Use Xwayland pkg-config if available (#682)</code>](https://github.com/linuxmint/muffin/commit/80b48e95382fb7c877f7c76017150b5e991949a4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meta-input-settings-x11.c: Don't warn about receiving more values</code>](https://github.com/linuxmint/muffin/commit/28be83556d90fe3cfcfaa3487681d9339996ac92)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
