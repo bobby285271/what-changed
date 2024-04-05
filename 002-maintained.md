@@ -369,22 +369,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.5.11 → HEAD](https://github.com/alainm23/planify/compare/4.5.11...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.5.12 → HEAD](https://github.com/alainm23/planify/compare/4.5.12...HEAD)
 
-- [ ] [<code>Fix: Update Dutch translation</code>](https://github.com/alainm23/planify/commit/1f957940a537ab957944ebc25f227a8f673228ec)
-- [ ] [<code>update spanish translation</code>](https://github.com/alainm23/planify/commit/4c391ecbc4325982a165a8ffddf20dfd62852e1c)
-- [ ] [<code>update german translations</code>](https://github.com/alainm23/planify/commit/aa842a688f67a2ccf8ac9fdd1a690d4e4f56fa94)
-- [ ] [<code>Update Hindi translation</code>](https://github.com/alainm23/planify/commit/ca75fbc7543f74e4954ac397730af2f686c5f5b3)
-- [ ] [<code>Add CalDAV logs</code>](https://github.com/alainm23/planify/commit/e9c0ecb095512e856d7facc4f61ade48814accfc)
-- [ ] [<code>Merge pull request #1226 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/4dfd209c921be559ae08084b2057560674c2926b)
-- [ ] [<code>Merge pull request #1225 from bestlinuxgamers/master</code>](https://github.com/alainm23/planify/commit/910e5e0f951c884a87669c4491a211afa849ff3d)
-- [ ] [<code>Merge pull request #1223 from haggen88/update-es.po</code>](https://github.com/alainm23/planify/commit/348dcaee15387cc5d7a543fc50fc7693df415779)
-- [ ] [<code>Merge pull request #1222 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/41c29a914c93000e4302f63f3623aff1930eda90)
-- [ ] [<code>Fix project view id</code>](https://github.com/alainm23/planify/commit/ca7bf3d6485729488acf9dae77f9a34192260682)
-- [ ] [<code>ci: use latest version</code>](https://github.com/alainm23/planify/commit/1d36d15d9e8b3506cb5e7b8ca44c340a662028a8)
-- [ ] [<code>fix #1227</code>](https://github.com/alainm23/planify/commit/b5edd9379b7b8991ebde8ce2284ae61811dddece)
-  - <sub>Tags: <code>4.5.12</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: `translate=no` properties</code>](https://github.com/alainm23/planify/commit/c7b968289e0c71d770e03cba311400d547ff7a28)
 - [ ] [<code>Merge pull request #1229 from yakushabb/fix-tr</code>](https://github.com/alainm23/planify/commit/badf6a72d45f280cb6d98909c8affdca4dd27019)
 
