@@ -45,6 +45,8 @@
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
+- [ ] [<code>Desktop: organize, SingleMainWindow (#271)</code>](https://github.com/elementary/calculator/commit/b7d1b03ed7675d6622d036712f9fd655e8d11b63)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
