@@ -1082,15 +1082,8 @@
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec → HEAD](https://github.com/elementary/session-settings/compare/3476c89bbb66564a72c6495ac0c61f8f9ed7a3ec...HEAD)
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [53bf57e5b32936befc3003a0f99c5b3a69349c76 → HEAD](https://github.com/elementary/session-settings/compare/53bf57e5b32936befc3003a0f99c5b3a69349c76...HEAD)
 
-- [ ] [<code>Remove gala-daemon (#71)</code>](https://github.com/elementary/session-settings/commit/ea1f57e3cda0415b8992f02bd69ed1093aaaa232)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Require gnome-settings-daemon 3.36.0 and deduplicate gsd_components (#72)</code>](https://github.com/elementary/session-settings/commit/29d305e5f535521a444301f981118f23f8f695b6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Use systemd managed gnome-session (#73)</code>](https://github.com/elementary/session-settings/commit/53bf57e5b32936befc3003a0f99c5b3a69349c76)
-  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
