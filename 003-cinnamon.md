@@ -50,7 +50,7 @@
 - [ ] [<code>Switch to GNOME Online Accounts GTK</code>](https://github.com/linuxmint/cinnamon/commit/d22f889c376734f0ca5d904885c2772e790fbadc)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fa9911d71dcedecc7e42eed8b1b8e56f01e57f26)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_info: Add 'about' as a keyword for System Info (#12136)</code>](https://github.com/linuxmint/cinnamon/commit/b43cb79d6a2f3ecc0c81070938c18a26d0070bdc)
   - <sub>Keywords: <code>usr</code></sub>
@@ -58,6 +58,24 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>cs_themes: Fix the stack switcher sensitivity (#12117)</code>](https://github.com/linuxmint/cinnamon/commit/f1dc5021d90cbf10ffa4ba2fef82aaebbe59bd60)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>inhibit@cinnamon.org: Add unique applet icons for notification toggles (#11744)</code>](https://github.com/linuxmint/cinnamon/commit/9dcb820cf97b1301f4fa2ca53b08a7c81ac8a6da)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Show battery pending charge/discharge states in Power Management</code>](https://github.com/linuxmint/cinnamon/commit/8214ed15927d59e4a7054404c2c584eeb4ba4a05)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings.py: Additional modules when Mint modules are absent (#11664)</code>](https://github.com/linuxmint/cinnamon/commit/44fc3cb77840707de0a0a4f681d74cf83be65e79)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Forbid synaptic if mintsources is present.</code>](https://github.com/linuxmint/cinnamon/commit/834754be4a08bb2ab1bd32eea954213bf7cb4507)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix linuxmint#11313 (#12060)</code>](https://github.com/linuxmint/cinnamon/commit/3c14e5b22d7608b42ade0d800bc3039431993b27)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add userWidget.js (#12084)</code>](https://github.com/linuxmint/cinnamon/commit/5bbfa2e5474afe7829478e1852fb37beb075530c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>lightbox.js: Port to Clutter animations (#12071)</code>](https://github.com/linuxmint/cinnamon/commit/654b69319f97f7dd69f4094ec9325da2f41488b4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>modalDialog.js: Port to Clutter animations (#12072)</code>](https://github.com/linuxmint/cinnamon/commit/dc6f626521d86ce28b5155475f6a3b28ac04354d)
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>desklet.js: Port to Clutter animations (#12073)</code>](https://github.com/linuxmint/cinnamon/commit/7fa70d0e83b352e7eaf245ea21afbb6d0548330d)
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -119,7 +137,10 @@
 - [ ] [<code>test-input-helper.c: Fix printf formatting so codespell doesn't trip.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6fdaa4886ba20d16085ec4c4497ae90058e4508f)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>fix some typo spotted with codespell (#385)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fce611d2a37954b4823ae342878ad88e9f67a213)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>Fixes and readability improvements (#390)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f9372f51a404a1553a3039af4b4430d4a36e7d3)
+  - <sub>Tags: <code>master.lmde6</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
@@ -144,16 +165,22 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
 
 - [ ] [<code>Switch to pysassc</code>](https://github.com/linuxmint/mint-themes/commit/b1dfbc54992cdcc8cb0c64e9bf5ac44d69ef9709)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Cinnamon: Add support for the new polkit dialog (#468)</code>](https://github.com/linuxmint/mint-themes/commit/b36a70d1f848d901ca2c6348306411681d675e23)
+  - <sub>Tags: <code>master.lmde6</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
 
 - [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-x-icons/commit/b8ba1e25692c5b9cc37c476eee76acbc036ec0e5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-x-icons/commit/f9f77915fbefa7329198c9ba72266429ee668492)
+- [ ] [<code>Add various symlinks for updated apps (#200)</code>](https://github.com/linuxmint/mint-x-icons/commit/5b291d2e511fbb40a896d852d8dce6710f9d1c19)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
 
+- [ ] [<code>Add Neovim (#388)</code>](https://github.com/linuxmint/mint-y-icons/commit/287eb2cd12c425832ec0c0e6ff78a0c542ca5865)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
@@ -206,7 +233,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>nemo-thumbnails.c: Always have at least 1 thumbnail thread.</code>](https://github.com/linuxmint/nemo/commit/3452f4fc9698f838279a45fc41aca6e0c9b0bcc3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>file: default to not being able to trash (#3381)</code>](https://github.com/linuxmint/nemo/commit/658efe8ac629e0aff49a8c04c4094ec6d660f42a)
+  - <sub>Tags: <code>master.lmde6</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -274,6 +303,9 @@
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/c8030d202ad4b6aacdcf55a7f17a14910e8f0fa2)
 - [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/78d0d7081a962c878ba1b68446176787c152b54c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add mint-dev-tools dependency to README.md (#136)</code>](https://github.com/linuxmint/blueberry/commit/4b84076238fa4b423571087726bc0b10a4beb07b)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.3...HEAD)
 
@@ -294,6 +326,8 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.01.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.01.1...HEAD)
 
+- [ ] [<code>Relocated 'delete' to a safer position. (#268)</code>](https://github.com/linuxmint/timeshift/commit/081687d4e9c06c388c87b7e0a79980fab46b36fb)
+  - <sub>Tags: <code>master.lmde6</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.5 → HEAD](https://github.com/linuxmint/xed/compare/3.4.5...HEAD)
 
