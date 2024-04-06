@@ -320,24 +320,13 @@
 - [ ] [<code>Adding search support for group notes</code>](https://github.com/phase1geo/minder/commit/594691a78a425159d79e46c40beaffec2006a715)
 - [ ] [<code>Merge branch 'search-groups'</code>](https://github.com/phase1geo/minder/commit/3d42d9b14561330e4fefdef5214c5ad1b8a1efe3)
 
-#### [monitor](https://github.com/stsdc/monitor): [0.17.0 → HEAD](https://github.com/stsdc/monitor/compare/0.17.0...HEAD)
+#### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
 - [ ] [<code>Merge pull request #351 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/1baae17d80461a5613b1b8c3456774af609c1d69)
 - [ ] [<code>Merge pull request #360 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/43d1dc068a13a7ddec88265f6abc484ee1c57823)
   - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>add libflatpak-dev to CI</code>](https://github.com/stsdc/monitor/commit/24b7352b30c1a9b657f3f210f0f318825fc716a3)
-  - <sub>Tags: <code>0.17.0-1</code></sub>
 - [ ] [<code>Merge pull request #361 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/1194adbedac7b2edd290b853af03e7a59e5ab5eb)
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/6b5de6327ebfbc03cb3cb13d8a5b2d244a15a303)
-- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/afbe465ea4dc67185f3965ee93c8d87a7aaadb71)
-- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/fd369e08c2820adc2d736943d6a0d5821a3352e6)
-- [ ] [<code>use with_default for json objects</code>](https://github.com/stsdc/monitor/commit/002146e81985d307add585fb63f80aaecd344b4c)
-- [ ] [<code>Fixes VRAM percentage #369</code>](https://github.com/stsdc/monitor/commit/10bb4a89f2959bf7a88518ea4832e540c77df65a)
-- [ ] [<code>format</code>](https://github.com/stsdc/monitor/commit/1e0645dfb2249a21918fefd9722b37b4bfb1190d)
-- [ ] [<code>Merge pull request #371 from stsdc/fix-vram-percentage</code>](https://github.com/stsdc/monitor/commit/192efee3a87943ae41667c95e9d562e2f612fdb2)
-- [ ] [<code>bump 0.17.1</code>](https://github.com/stsdc/monitor/commit/d21bceb3e01548e8d7ed9aeacf117d919abae959)
-  - <sub>Tags: <code>0.17.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove extra semicoln</code>](https://github.com/stsdc/monitor/commit/942895120441aa6251631539d3fc8d3c4a150746)
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/df89439a7187f3364d5ac8b12cb8d7a26a0ef261)
 
