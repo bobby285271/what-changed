@@ -319,6 +319,10 @@
 - [ ] [<code>Merge pull request #608 from yangfl/master</code>](https://github.com/phase1geo/minder/commit/627a75d1491e458ec7eaf283b495d8e37cc02bc9)
 - [ ] [<code>Adding search support for group notes</code>](https://github.com/phase1geo/minder/commit/594691a78a425159d79e46c40beaffec2006a715)
 - [ ] [<code>Merge branch 'search-groups'</code>](https://github.com/phase1geo/minder/commit/3d42d9b14561330e4fefdef5214c5ad1b8a1efe3)
+- [ ] [<code>Remove node summary from node contextual menu</code>](https://github.com/phase1geo/minder/commit/953935ea4a8182804d2d7ddbe68488e731f1ad32)
+- [ ] [<code>Preparing for 1.16.4 release</code>](https://github.com/phase1geo/minder/commit/c026d8b686d8f99266265606af8c0d27a8a6b7fa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding 1.16.4 release.</code>](https://github.com/phase1geo/minder/commit/0f4498c5576e94e3a249047050069ed198e5f8bb)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
