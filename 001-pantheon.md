@@ -1033,6 +1033,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Install: add pantheon-portals.conf (#303)</code>](https://github.com/elementary/default-settings/commit/fd6a2c1ecdf61288355acf41a3844fbcb17eee8d)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Gtk settings.ini (#305)</code>](https://github.com/elementary/default-settings/commit/3f5fa6e7f49c4a66a0cd1f8cd164f4e4b03c4795)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
