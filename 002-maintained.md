@@ -323,6 +323,7 @@
 - [ ] [<code>Preparing for 1.16.4 release</code>](https://github.com/phase1geo/minder/commit/c026d8b686d8f99266265606af8c0d27a8a6b7fa)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adding 1.16.4 release.</code>](https://github.com/phase1geo/minder/commit/0f4498c5576e94e3a249047050069ed198e5f8bb)
+- [ ] [<code>Adding TODO file for Sublime Text</code>](https://github.com/phase1geo/minder/commit/3bf99258e33e67fc1dcce6fe7ac7aafa7d433ce7)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
