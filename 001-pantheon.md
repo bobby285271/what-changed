@@ -1537,3 +1537,4 @@
 - [ ] [<code>Desktop: switchboard-networking → settings.network (#122)</code>](https://github.com/elementary/seeds/commit/5dda36d90ae3f84a002f4b601e8ebe8d10720c78)
 - [ ] [<code>Desktop: switchboard-display → settings.display (#125)</code>](https://github.com/elementary/seeds/commit/c4e44ca1834548c8b95091d52c7c210a1c455bb5)
 - [ ] [<code>Desktop: switchboard-wacom→ settings.wacom (#126)</code>](https://github.com/elementary/seeds/commit/cb0167254673d3e7f99d696af6e231b7ad23bef8)
+- [ ] [<code>Desktop: wingpanel-session → quick-settings (#123)</code>](https://github.com/elementary/seeds/commit/98b53a5835972b26989adbb36c6c42327c118346)
