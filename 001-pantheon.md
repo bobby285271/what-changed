@@ -1179,6 +1179,7 @@
 - [ ] [<code>wayland: Fix drag and drop icons (#1889)</code>](https://github.com/elementary/gala/commit/e20989ceccc683dd2a1f797ee94421e5ed9c22a1)
 - [ ] [<code>WindowSwitcher: Fix blocking input</code>](https://github.com/elementary/gala/commit/4225ab112fa2b675d0ab2a330ac08a6ead5b3968)
 - [ ] [<code>WindowSwitcher: Fix mouse click (#1891)</code>](https://github.com/elementary/gala/commit/c77c9d1d0d182c17c94cae775a9a77efb923bad2)
+- [ ] [<code>Barrier: fix build with mutter 46 (#1895)</code>](https://github.com/elementary/gala/commit/5c68c1f4816ec60dcb12599626bd8b3d7a74f3a8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
