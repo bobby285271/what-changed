@@ -233,9 +233,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>nemo-thumbnails.c: Always have at least 1 thumbnail thread.</code>](https://github.com/linuxmint/nemo/commit/3452f4fc9698f838279a45fc41aca6e0c9b0bcc3)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>file: default to not being able to trash (#3381)</code>](https://github.com/linuxmint/nemo/commit/658efe8ac629e0aff49a8c04c4094ec6d660f42a)
-  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>nemo-view.c: Fix a build warning.</code>](https://github.com/linuxmint/nemo/commit/c5b769475acad7c042656efbe3525a85f4c5841d)
+- [ ] [<code>actions: Refactor some code to reduce duplication.</code>](https://github.com/linuxmint/nemo/commit/2eafca4114476f8f7b439ec0f871eac3a9af94c3)
+- [ ] [<code>nemo-action-layout-editor.py: Enable save after drag-and-drop.</code>](https://github.com/linuxmint/nemo/commit/079ce2114df1fc85a598cfc200e97aa69aca6bf6)
+- [ ] [<code>polkit: Go back to using auth_admin_keep.</code>](https://github.com/linuxmint/nemo/commit/9ad05aae47a822f8fc643d42d9ca82eecfbd4e72)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
