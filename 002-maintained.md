@@ -368,6 +368,23 @@
 
 - [ ] [<code>appdata: `translate=no` properties</code>](https://github.com/alainm23/planify/commit/c7b968289e0c71d770e03cba311400d547ff7a28)
 - [ ] [<code>Merge pull request #1229 from yakushabb/fix-tr</code>](https://github.com/alainm23/planify/commit/badf6a72d45f280cb6d98909c8affdca4dd27019)
+- [ ] [<code>Update Spanish translation</code>](https://github.com/alainm23/planify/commit/71565938be85a98dff39fad54d4a6b6e4acbc77d)
+- [ ] [<code>Update CalDAV Provider</code>](https://github.com/alainm23/planify/commit/5811b2d8cab95b6e8491e375f08c3839761eee5a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/f93363aaf6616a404370a9db79a5325d1efe9bca)
+- [ ] [<code>Update Brazilian Portuguese translation</code>](https://github.com/alainm23/planify/commit/2287249a12ac66f2d802c7c15ab5cda9637a4c67)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix #1241</code>](https://github.com/alainm23/planify/commit/42d6b7d3ef928f6aa37ece547a979feceb6614e3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1243 from Penfore/update-brazilian-portuguese-translation</code>](https://github.com/alainm23/planify/commit/c7af6f3e46374bea2ab4832fb03ee901995363c5)
+- [ ] [<code>Merge pull request #1230 from d0vi/accurate-computer-translation</code>](https://github.com/alainm23/planify/commit/f470b5eb3b6cbea48e8036454559a01f1ea63df6)
+- [ ] [<code>Fix #1240</code>](https://github.com/alainm23/planify/commit/9b72a5253be9afa8f1e6a5dd7bd58cff61df0994)
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/7cb0823732747f42d447f4dabd784fd91756c717)
+- [ ] [<code>Fix #1142</code>](https://github.com/alainm23/planify/commit/88dde353dcca762f5f12f941781e2a57bfa94f49)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix CalDAV</code>](https://github.com/alainm23/planify/commit/394ef2436b9c4f82a9299770095f1fad9e8a0a34)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
