@@ -1196,6 +1196,9 @@
 - [ ] [<code>Use BackgroundManager to get wallpaper (#522)</code>](https://github.com/elementary/wingpanel/commit/0c35f4d54bc36028da0545db1ded23b6d93a6b69)
 - [ ] [<code>Fix typos (#523)</code>](https://github.com/elementary/wingpanel/commit/4a6433bd4a5a2fc7bb36d747d84be34a0689a939)
 - [ ] [<code>PanelWindow: simplify `set_expanded` (#526)</code>](https://github.com/elementary/wingpanel/commit/ecd4ac2d76ce3f1ad4902ef2f9346f31d9e0ad2c)
+- [ ] [<code>Add Mutter 46 support</code>](https://github.com/elementary/wingpanel/commit/5d22d436b45decfb2a50d9a7c27f2c961f1dd39f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
