@@ -385,6 +385,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix CalDAV</code>](https://github.com/alainm23/planify/commit/394ef2436b9c4f82a9299770095f1fad9e8a0a34)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Fix #1238</code>](https://github.com/alainm23/planify/commit/70513ba61ae3dd2ee323702db5cedb56113107fa)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
