@@ -313,20 +313,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 
-#### [minder](https://github.com/phase1geo/minder): [1.16.3 → HEAD](https://github.com/phase1geo/minder/compare/1.16.3...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.16.4 → HEAD](https://github.com/phase1geo/minder/compare/1.16.4...HEAD)
 
-- [ ] [<code>Remove executable permission on svg files</code>](https://github.com/phase1geo/minder/commit/5a8e9b1d9ee07d5e2521db169f957db6d5903eef)
-- [ ] [<code>Merge pull request #608 from yangfl/master</code>](https://github.com/phase1geo/minder/commit/627a75d1491e458ec7eaf283b495d8e37cc02bc9)
-- [ ] [<code>Adding search support for group notes</code>](https://github.com/phase1geo/minder/commit/594691a78a425159d79e46c40beaffec2006a715)
-- [ ] [<code>Merge branch 'search-groups'</code>](https://github.com/phase1geo/minder/commit/3d42d9b14561330e4fefdef5214c5ad1b8a1efe3)
-- [ ] [<code>Remove node summary from node contextual menu</code>](https://github.com/phase1geo/minder/commit/953935ea4a8182804d2d7ddbe68488e731f1ad32)
-- [ ] [<code>Preparing for 1.16.4 release</code>](https://github.com/phase1geo/minder/commit/c026d8b686d8f99266265606af8c0d27a8a6b7fa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Adding 1.16.4 release.</code>](https://github.com/phase1geo/minder/commit/0f4498c5576e94e3a249047050069ed198e5f8bb)
-- [ ] [<code>Adding TODO file for Sublime Text</code>](https://github.com/phase1geo/minder/commit/3bf99258e33e67fc1dcce6fe7ac7aafa7d433ce7)
-- [ ] [<code>Updating TODO</code>](https://github.com/phase1geo/minder/commit/9218d3a4050259f50dae4221449cbc8e35b91c75)
-- [ ] [<code>Cleaning up comments.</code>](https://github.com/phase1geo/minder/commit/3acf33c060dde7b52c1ce50aa96a6ee955d706da)
-  - <sub>Tags: <code>1.16.4</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/7c36afb572bd37fced437dea1c99fe2f2b7e1415)
+- [ ] [<code>deleting XML document after save</code>](https://github.com/phase1geo/minder/commit/28af6ee490fbda4ef3caacfee8d72ebe738cd44f)
+- [ ] [<code>Merge pull request #615 from albanobattistella/patch-33</code>](https://github.com/phase1geo/minder/commit/cc1b1c725361de0929e4241754278fb698a9e426)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
