@@ -252,6 +252,9 @@
 - [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/pix/commit/bb7c281443621ad2aec970548615a68ac96e6ff3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch to libwebkit2gtk-4.1</code>](https://github.com/linuxmint/pix/commit/14682f6249b3b0be351b6b06474512c80bd39dba)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
