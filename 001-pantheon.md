@@ -1068,6 +1068,7 @@
 - [ ] [<code>Add Mutter 46 support</code>](https://github.com/elementary/greeter/commit/3ff7809bb0f56119e40702825bab899af1a25010)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>CI: bump mutter version to 14 (#723)</code>](https://github.com/elementary/greeter/commit/f4716e29e0e3ffb14d236a3cbc3e235cca768a7b)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
