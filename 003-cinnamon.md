@@ -243,6 +243,7 @@
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
 - [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
+- [ ] [<code>Fix python NameError: '_' is not defined (#514)</code>](https://github.com/linuxmint/nemo-extensions/commit/c1823b648da14e8cae664b59d914e1f64ebe3327)
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
 
