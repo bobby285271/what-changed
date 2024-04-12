@@ -362,6 +362,8 @@
 - [ ] [<code>appdata: `translate=no` properties</code>](https://github.com/alainm23/planify/commit/c7b968289e0c71d770e03cba311400d547ff7a28)
 - [ ] [<code>Merge pull request #1229 from yakushabb/fix-tr</code>](https://github.com/alainm23/planify/commit/badf6a72d45f280cb6d98909c8affdca4dd27019)
 - [ ] [<code>Update Spanish translation</code>](https://github.com/alainm23/planify/commit/71565938be85a98dff39fad54d4a6b6e4acbc77d)
+- [ ] [<code>Update Brazilian Portuguese translation</code>](https://github.com/alainm23/planify/commit/af6f38fa83ffc678fe40a2f64cb9f7bdddaeda78)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update CalDAV Provider</code>](https://github.com/alainm23/planify/commit/5811b2d8cab95b6e8491e375f08c3839761eee5a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
@@ -380,6 +382,10 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Fix #1238</code>](https://github.com/alainm23/planify/commit/70513ba61ae3dd2ee323702db5cedb56113107fa)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Revert "Update Brazilian Portuguese translation"</code>](https://github.com/alainm23/planify/commit/c38cfdfe53efa91769e2b7eba61df171104efee8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1246 from alainm23/revert-1243-update-brazilian-portuguese-translation</code>](https://github.com/alainm23/planify/commit/bc60dc355c4751518305ae95e6dfc0916a377206)
+- [ ] [<code>Merge pull request #1231 from tiagoFlach/master</code>](https://github.com/alainm23/planify/commit/7ee3ae0eff05f331a04b26f17f3c2673b73bceaf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
