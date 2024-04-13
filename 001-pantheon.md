@@ -1036,6 +1036,10 @@
 - [ ] [<code>Remove Gtk settings.ini (#305)</code>](https://github.com/elementary/default-settings/commit/3f5fa6e7f49c4a66a0cd1f8cd164f4e4b03c4795)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Drop Qt style overrides (#295)</code>](https://github.com/elementary/default-settings/commit/7aa79d47f7624b55f38e5392747452a90ac4cc89)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Control: remove enhances plank</code>](https://github.com/elementary/default-settings/commit/0cd54b9cec8f9cee5e3dda17266f39ea63f7d4b1)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
