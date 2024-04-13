@@ -496,6 +496,7 @@
 - [ ] [<code>AppSettingsView: use AppInfo description (#224)</code>](https://github.com/elementary/switchboard-plug-applications/commit/f6d767e6d0188c0a3c594b3476c17d684b528b8c)
 - [ ] [<code>AppSettingsView: update descriptions (#226)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c528eb0269f970b9e5dad9f6d6475694f6471a78)
 - [ ] [<code>AppSettingsView: add screenshot permission (#222)</code>](https://github.com/elementary/switchboard-plug-applications/commit/16390432af487a12fef6d264c79eafb25b107e13)
+- [ ] [<code>AppSettingsView: fix row activation (#227)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c026a44127ad0836792513380bdd170166cef9fd)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
