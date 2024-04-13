@@ -238,7 +238,12 @@
 - [ ] [<code>actions: Refactor some code to reduce duplication.</code>](https://github.com/linuxmint/nemo/commit/2eafca4114476f8f7b439ec0f871eac3a9af94c3)
 - [ ] [<code>nemo-action-layout-editor.py: Enable save after drag-and-drop.</code>](https://github.com/linuxmint/nemo/commit/079ce2114df1fc85a598cfc200e97aa69aca6bf6)
 - [ ] [<code>polkit: Go back to using auth_admin_keep.</code>](https://github.com/linuxmint/nemo/commit/9ad05aae47a822f8fc643d42d9ca82eecfbd4e72)
+- [ ] [<code>Revert "Rename initial desktop file to match final name, clean up some"</code>](https://github.com/linuxmint/nemo/commit/efa40255e5d689604489c438141a5866f7949a9b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Revert "nemo-desktop: use app_id as .desktop file name (#3340)"</code>](https://github.com/linuxmint/nemo/commit/12b00c5df6e8602619d4ce7d7da9f12554b182aa)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
