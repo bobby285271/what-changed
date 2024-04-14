@@ -386,6 +386,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #1246 from alainm23/revert-1243-update-brazilian-portuguese-translation</code>](https://github.com/alainm23/planify/commit/bc60dc355c4751518305ae95e6dfc0916a377206)
 - [ ] [<code>Merge pull request #1231 from tiagoFlach/master</code>](https://github.com/alainm23/planify/commit/7ee3ae0eff05f331a04b26f17f3c2673b73bceaf)
+- [ ] [<code>Add Nw Side View</code>](https://github.com/alainm23/planify/commit/2ef665686e0c77ea759b32cd2f7a06209e3ccbae)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/9cf1be2c68e2a5b57c9224c720c878bfad9c7aa2)
+- [ ] [<code>fix #1244</code>](https://github.com/alainm23/planify/commit/ff7b2596f030456fb98a5136a04fb7161f6a8d2d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
