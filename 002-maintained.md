@@ -391,6 +391,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/9cf1be2c68e2a5b57c9224c720c878bfad9c7aa2)
 - [ ] [<code>fix #1244</code>](https://github.com/alainm23/planify/commit/ff7b2596f030456fb98a5136a04fb7161f6a8d2d)
+- [ ] [<code>fix #1239</code>](https://github.com/alainm23/planify/commit/c58e030b4b27f1632abec43f075ba88834e4aeb9)
+- [ ] [<code>fix #1234</code>](https://github.com/alainm23/planify/commit/d026dc34fc416b21068770ea1c3ad61a980cd768)
+- [ ] [<code>fix #1245</code>](https://github.com/alainm23/planify/commit/b6eaac5e4b04d264ff81fdc33d6a304acdb18c3f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1248</code>](https://github.com/alainm23/planify/commit/941de343955c3125b6c075c128805584876d5b58)
+- [ ] [<code>fix #1178 #1180</code>](https://github.com/alainm23/planify/commit/15a598e075c76b992fe1e604b6dd41ffa85ab2a0)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
