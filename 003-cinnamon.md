@@ -75,6 +75,8 @@
 - [ ] [<code>modalDialog.js: Port to Clutter animations (#12072)</code>](https://github.com/linuxmint/cinnamon/commit/dc6f626521d86ce28b5155475f6a3b28ac04354d)
 - [ ] [<code>desklet.js: Port to Clutter animations (#12073)</code>](https://github.com/linuxmint/cinnamon/commit/7fa70d0e83b352e7eaf245ea21afbb6d0548330d)
 - [ ] [<code>Add interface for xdg portal requests.</code>](https://github.com/linuxmint/cinnamon/commit/73015fd7272c773923cefbd7b53ec594600000b0)
+- [ ] [<code>doc generation: Fix strings with invalid escape codes.</code>](https://github.com/linuxmint/cinnamon/commit/c56d76614854227240cc6dd1184117b2f8eac8f1)
+- [ ] [<code>placesManager.js: Remove "Connect to..." item.</code>](https://github.com/linuxmint/cinnamon/commit/9327ac3f81526580a89f508fc1e63d6db4bbd6ba)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
