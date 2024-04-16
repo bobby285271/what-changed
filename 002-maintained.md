@@ -400,6 +400,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1251</code>](https://github.com/alainm23/planify/commit/4c45dbf70d48262f6efd3ca0929f665b0bcb4c64)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve Reminder Picker</code>](https://github.com/alainm23/planify/commit/253873fffe05f3e5278f299e244b88a1f5593da4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update po files</code>](https://github.com/alainm23/planify/commit/62e3f203a9fb8dd99c5c5f37cb08c6bd986ca84e)
+- [ ] [<code>Release 4.6</code>](https://github.com/alainm23/planify/commit/cd5b53a3c483484be0b894cda95c0402cbd376ec)
+  - <sub>Tags: <code>4.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
