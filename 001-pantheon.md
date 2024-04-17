@@ -42,6 +42,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Desktop: organize, add singlemainwindow (#2141)</code>](https://github.com/elementary/appcenter/commit/51e1ef8f014a07fba52225102fb210676d2f0a1b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Application: update copyright header</code>](https://github.com/elementary/appcenter/commit/546f8d1f68f429208dfb93cd9996a040be6ee728)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -85,6 +86,7 @@
 - [ ] [<code>Draw spaces on current line option (#1348)</code>](https://github.com/elementary/code/commit/1359d0944478c36ed64ce00054ab2c5d152e0459)
 - [ ] [<code>Do not highlight neighbouring words of selected space (#1300)</code>](https://github.com/elementary/code/commit/516a3fdae9526d2bf459cf84ce1b015cf88ddcdb)
 - [ ] [<code>Put branch name on separate line (#1423)</code>](https://github.com/elementary/code/commit/81b4869e9a7b11a52e41ca1df634d4ada0caf907)
+- [ ] [<code>PreferencesDialog: make resizable (#1432)</code>](https://github.com/elementary/code/commit/108b09111be4958ed17e06ce9b1a1634bca4152d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -200,6 +202,7 @@
 - [ ] [<code>[Regression] Fix dragging multiple items (#2421)</code>](https://github.com/elementary/files/commit/8785418f4ee750fe930b79d4d29fc3a5caaf4989)
 - [ ] [<code>Desktop: update, singlemainwindow (#2426)</code>](https://github.com/elementary/files/commit/287e43116cdf1c26b16c2b4e181c62cd2dc22f01)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Expose restore tabs on startup option (#2343)</code>](https://github.com/elementary/files/commit/41788834ba92bd20cd4f3c22ca47783e9bef4c5b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -424,6 +427,7 @@
 - [ ] [<code>Application: set window minimize size (#304)</code>](https://github.com/elementary/switchboard/commit/8fb2e409b73abaa0a4f858dc2f396dda7e17e9c0)
 - [ ] [<code>Plug.css: specifically target toolbars (#306)</code>](https://github.com/elementary/switchboard/commit/7a4b3f357408835da1927da141af2aad4b2ac9fe)
 - [ ] [<code>Don't pop pages on escape (#307)</code>](https://github.com/elementary/switchboard/commit/644e4f3a14ed5bbefdb9655d269630967cb20b40)
+- [ ] [<code>Remove ToolbarView styles (#309)</code>](https://github.com/elementary/switchboard/commit/f75ae6b1e03f8ca85a4646c85868cb0fd8c3e045)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -1041,6 +1045,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Control: remove enhances plank</code>](https://github.com/elementary/default-settings/commit/0cd54b9cec8f9cee5e3dda17266f39ea63f7d4b1)
+- [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/572a6417362258c1b5c2fc6a60671a316f3a524b)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1186,6 +1191,7 @@
 - [ ] [<code>WindowSwitcher: Fix blocking input</code>](https://github.com/elementary/gala/commit/4225ab112fa2b675d0ab2a330ac08a6ead5b3968)
 - [ ] [<code>WindowSwitcher: Fix mouse click (#1891)</code>](https://github.com/elementary/gala/commit/c77c9d1d0d182c17c94cae775a9a77efb923bad2)
 - [ ] [<code>Barrier: fix build with mutter 46 (#1895)</code>](https://github.com/elementary/gala/commit/5c68c1f4816ec60dcb12599626bd8b3d7a74f3a8)
+- [ ] [<code>WindowManager: Keep docks static during workspace switch (#1894)</code>](https://github.com/elementary/gala/commit/e1389404478b1d6797020791a210f2dda5bcc0e6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1205,6 +1211,7 @@
 - [ ] [<code>Add Mutter 46 support</code>](https://github.com/elementary/wingpanel/commit/5d22d436b45decfb2a50d9a7c27f2c961f1dd39f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>wayland: Fix wingpanel breaking everything (#527)</code>](https://github.com/elementary/wingpanel/commit/4dd9990d3d17aef391767fb5240fde9a20ca8a57)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1334,6 +1341,7 @@
 - [ ] [<code>SwitchModelButton: use box layout (#709)</code>](https://github.com/elementary/granite/commit/61f1c03f1ea1249d0e238e6a5ca35aedaf522219)
 - [ ] [<code>SwitchModelButton: make switch not focusable (#713)</code>](https://github.com/elementary/granite/commit/bde99b68b86e659ed4346af16bff6a4591fa8110)
 - [ ] [<code>Comment out GTK styles for now</code>](https://github.com/elementary/granite/commit/cf7aec2d3d355a934e5034834b681c00ad2a98c3)
+- [ ] [<code>Make the last added button have keyboard focus by default (#693)</code>](https://github.com/elementary/granite/commit/be76a056bc939a5d869ae88566df8b56e7069724)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
