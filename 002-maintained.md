@@ -357,57 +357,12 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.5.12 → HEAD](https://github.com/alainm23/planify/compare/4.5.12...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.6 → HEAD](https://github.com/alainm23/planify/compare/4.6...HEAD)
 
-- [ ] [<code>appdata: `translate=no` properties</code>](https://github.com/alainm23/planify/commit/c7b968289e0c71d770e03cba311400d547ff7a28)
-- [ ] [<code>Merge pull request #1229 from yakushabb/fix-tr</code>](https://github.com/alainm23/planify/commit/badf6a72d45f280cb6d98909c8affdca4dd27019)
-- [ ] [<code>Update Spanish translation</code>](https://github.com/alainm23/planify/commit/71565938be85a98dff39fad54d4a6b6e4acbc77d)
-- [ ] [<code>Update Brazilian Portuguese translation</code>](https://github.com/alainm23/planify/commit/af6f38fa83ffc678fe40a2f64cb9f7bdddaeda78)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update CalDAV Provider</code>](https://github.com/alainm23/planify/commit/5811b2d8cab95b6e8491e375f08c3839761eee5a)
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix #1252</code>](https://github.com/alainm23/planify/commit/f29aa4e79dab08daea111e8e5a372fda51b90b9b)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/f93363aaf6616a404370a9db79a5325d1efe9bca)
-- [ ] [<code>Update Brazilian Portuguese translation</code>](https://github.com/alainm23/planify/commit/2287249a12ac66f2d802c7c15ab5cda9637a4c67)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix #1241</code>](https://github.com/alainm23/planify/commit/42d6b7d3ef928f6aa37ece547a979feceb6614e3)
+- [ ] [<code>fix #1253</code>](https://github.com/alainm23/planify/commit/311942b4559a740ca2cf76c87d32eb72d1f964bc)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1243 from Penfore/update-brazilian-portuguese-translation</code>](https://github.com/alainm23/planify/commit/c7af6f3e46374bea2ab4832fb03ee901995363c5)
-- [ ] [<code>Merge pull request #1230 from d0vi/accurate-computer-translation</code>](https://github.com/alainm23/planify/commit/f470b5eb3b6cbea48e8036454559a01f1ea63df6)
-- [ ] [<code>Fix #1240</code>](https://github.com/alainm23/planify/commit/9b72a5253be9afa8f1e6a5dd7bd58cff61df0994)
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/7cb0823732747f42d447f4dabd784fd91756c717)
-- [ ] [<code>Fix #1142</code>](https://github.com/alainm23/planify/commit/88dde353dcca762f5f12f941781e2a57bfa94f49)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix CalDAV</code>](https://github.com/alainm23/planify/commit/394ef2436b9c4f82a9299770095f1fad9e8a0a34)
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>Fix #1238</code>](https://github.com/alainm23/planify/commit/70513ba61ae3dd2ee323702db5cedb56113107fa)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Revert "Update Brazilian Portuguese translation"</code>](https://github.com/alainm23/planify/commit/c38cfdfe53efa91769e2b7eba61df171104efee8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #1246 from alainm23/revert-1243-update-brazilian-portuguese-translation</code>](https://github.com/alainm23/planify/commit/bc60dc355c4751518305ae95e6dfc0916a377206)
-- [ ] [<code>Merge pull request #1231 from tiagoFlach/master</code>](https://github.com/alainm23/planify/commit/7ee3ae0eff05f331a04b26f17f3c2673b73bceaf)
-- [ ] [<code>Add Nw Side View</code>](https://github.com/alainm23/planify/commit/2ef665686e0c77ea759b32cd2f7a06209e3ccbae)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/9cf1be2c68e2a5b57c9224c720c878bfad9c7aa2)
-- [ ] [<code>fix #1244</code>](https://github.com/alainm23/planify/commit/ff7b2596f030456fb98a5136a04fb7161f6a8d2d)
-- [ ] [<code>fix #1239</code>](https://github.com/alainm23/planify/commit/c58e030b4b27f1632abec43f075ba88834e4aeb9)
-- [ ] [<code>fix #1234</code>](https://github.com/alainm23/planify/commit/d026dc34fc416b21068770ea1c3ad61a980cd768)
-- [ ] [<code>fix #1245</code>](https://github.com/alainm23/planify/commit/b6eaac5e4b04d264ff81fdc33d6a304acdb18c3f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1248</code>](https://github.com/alainm23/planify/commit/941de343955c3125b6c075c128805584876d5b58)
-- [ ] [<code>fix #1178 #1180</code>](https://github.com/alainm23/planify/commit/15a598e075c76b992fe1e604b6dd41ffa85ab2a0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1251</code>](https://github.com/alainm23/planify/commit/4c45dbf70d48262f6efd3ca0929f665b0bcb4c64)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Improve Reminder Picker</code>](https://github.com/alainm23/planify/commit/253873fffe05f3e5278f299e244b88a1f5593da4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update po files</code>](https://github.com/alainm23/planify/commit/62e3f203a9fb8dd99c5c5f37cb08c6bd986ca84e)
-- [ ] [<code>Release 4.6</code>](https://github.com/alainm23/planify/commit/cd5b53a3c483484be0b894cda95c0402cbd376ec)
-  - <sub>Tags: <code>4.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
