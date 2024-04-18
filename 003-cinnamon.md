@@ -358,10 +358,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>Implement org.freedesktop.impl.portal.Background. (#15)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4be1618e39f8afe32a1419e0ad9b5588594bf500)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>Fix some missing includes.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d45743c6dc16411430825c0a164376b3e825ee6a)
+- [ ] [<code>settings: Remove accent-color, and cleanup other unused code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/75aa9c996c7ecc9eb72190b361aa1d6542f3b4ca)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>debian/rules: Fix build type.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/48546472b6932c0d68092567ddd307feeb2ac84a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
