@@ -501,6 +501,8 @@
 - [ ] [<code>AppSettingsView: update descriptions (#226)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c528eb0269f970b9e5dad9f6d6475694f6471a78)
 - [ ] [<code>AppSettingsView: add screenshot permission (#222)</code>](https://github.com/elementary/switchboard-plug-applications/commit/16390432af487a12fef6d264c79eafb25b107e13)
 - [ ] [<code>AppSettingsView: fix row activation (#227)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c026a44127ad0836792513380bdd170166cef9fd)
+- [ ] [<code>Use sidebar nav (#216)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3881be19e9294f375eb5b4648b87d098ae942d33)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -1421,6 +1423,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>POTFILES: Add autostart.desktop (#142)</code>](https://github.com/elementary/settings-daemon/commit/3769cc993b5e7cd4805d14e3f49d29d1d625be58)
 - [ ] [<code>HouseKeeping: add temp and trash options (#143)</code>](https://github.com/elementary/settings-daemon/commit/755d0f3bff38827952ddd439f0b7fe7d891ff6b0)
+- [ ] [<code>settings-portal: Do not assume GSettings availability (#144)</code>](https://github.com/elementary/settings-daemon/commit/7e6de32ccb6e82aa6d1e7585eb87fdca2f3b155f)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
