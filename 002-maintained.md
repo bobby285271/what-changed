@@ -58,6 +58,8 @@
 - [ ] [<code>Add a developer ID in AppData XML</code>](https://github.com/dahenson/agenda/commit/07a72a1ed8792f496b40e16c119b4c031bfcd886)
 - [ ] [<code>Merge pull request #151 from musicinmybrain/developer-name</code>](https://github.com/dahenson/agenda/commit/d9f372b59ae2cb20191473af177d7dadbef7eec5)
 - [ ] [<code>Merge pull request #148 from musicinmybrain/desktop-app-launchable-missing</code>](https://github.com/dahenson/agenda/commit/8eca508b00ef0ba23ffd913c22fb9ffabb8d9437)
+- [ ] [<code>version 1.2.0 ongoing.</code>](https://github.com/dahenson/agenda/commit/388cb701aa7ed90f226d36b6534768fb7addc7a1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
