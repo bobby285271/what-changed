@@ -1001,6 +1001,7 @@
 - [ ] [<code>Fix bad link</code>](https://github.com/elementary/icons/commit/73ada84717b37f1af8b7ddf5a5d123e580b2453c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Preferences desktop wallpaper (#1212)</code>](https://github.com/elementary/icons/commit/02b83716db5ae85bccc731f09864e586ff07af8e)
+- [ ] [<code>Split from larger pull (#1251)</code>](https://github.com/elementary/icons/commit/20b98fadf04397af00d9cbf2dbe793c9839e1648)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
