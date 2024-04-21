@@ -320,6 +320,9 @@
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/7c36afb572bd37fced437dea1c99fe2f2b7e1415)
 - [ ] [<code>deleting XML document after save</code>](https://github.com/phase1geo/minder/commit/28af6ee490fbda4ef3caacfee8d72ebe738cd44f)
 - [ ] [<code>Merge pull request #615 from albanobattistella/patch-33</code>](https://github.com/phase1geo/minder/commit/cc1b1c725361de0929e4241754278fb698a9e426)
+- [ ] [<code>Adding support for removing note field coloring.</code>](https://github.com/phase1geo/minder/commit/b1f33a5be986451b5f7fb5a6bbeff64a734edf8b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/3e8eff4c210a34a38f525f2d4673bf0b8eb7d93c)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
