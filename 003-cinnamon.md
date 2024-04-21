@@ -161,6 +161,11 @@
 
 #### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.7...HEAD)
 
+- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-l-icons/commit/b1b1739e34aade681b7cb27980bf4e91611c72fc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.8</code>](https://github.com/linuxmint/mint-l-icons/commit/85c6bc318eb6e0fc64bf65b96862c31ff81a444f)
+- [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-l-icons/commit/8a9dab1aa47e6927ceadde19d931f776d9526b60)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -178,6 +183,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-x-icons/commit/f9f77915fbefa7329198c9ba72266429ee668492)
 - [ ] [<code>Add various symlinks for updated apps (#200)</code>](https://github.com/linuxmint/mint-x-icons/commit/5b291d2e511fbb40a896d852d8dce6710f9d1c19)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-x-icons/commit/73c7ad70a9a635dca106fcf7898d6a92ef3be0cf)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
