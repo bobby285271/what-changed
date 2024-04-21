@@ -811,6 +811,8 @@
 - [ ] [<code>Handle own titlebuttons (#263)</code>](https://github.com/elementary/switchboard-plug-power/commit/bcc5c7ef4a16836e829d247d0c47b4e7a1c11fce)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add ConnectedDevices Box (#253)</code>](https://github.com/elementary/switchboard-plug-power/commit/2c3cd0602e9856390b47c685a3996dd769e47bb0)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
