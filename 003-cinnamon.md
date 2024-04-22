@@ -164,8 +164,13 @@
 - [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-l-icons/commit/b1b1739e34aade681b7cb27980bf4e91611c72fc)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.8</code>](https://github.com/linuxmint/mint-l-icons/commit/85c6bc318eb6e0fc64bf65b96862c31ff81a444f)
+  - <sub>Tags: <code>1.6.8</code></sub>
 - [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-l-icons/commit/8a9dab1aa47e6927ceadde19d931f776d9526b60)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add a link for org.gnome.FileRoller</code>](https://github.com/linuxmint/mint-l-icons/commit/ffa36adc1f4200b33028003838a8ce25248e9e89)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-l-icons/commit/a0285abd3feb9904e4f77a8fff0adbfacc674be5)
+  - <sub>Tags: <code>1.6.9</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -182,15 +187,26 @@
 - [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-x-icons/commit/b8ba1e25692c5b9cc37c476eee76acbc036ec0e5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-x-icons/commit/f9f77915fbefa7329198c9ba72266429ee668492)
+  - <sub>Tags: <code>1.6.6</code></sub>
 - [ ] [<code>Add various symlinks for updated apps (#200)</code>](https://github.com/linuxmint/mint-x-icons/commit/5b291d2e511fbb40a896d852d8dce6710f9d1c19)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-x-icons/commit/73c7ad70a9a635dca106fcf7898d6a92ef3be0cf)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.7</code>](https://github.com/linuxmint/mint-x-icons/commit/92a0f24de5b846607743e3db5b6b08b78ff4be9a)
+  - <sub>Tags: <code>1.6.7</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
 
 - [ ] [<code>Add Neovim (#388)</code>](https://github.com/linuxmint/mint-y-icons/commit/287eb2cd12c425832ec0c0e6ff78a0c542ca5865)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-y-icons/commit/50e69d9cd3df64de99c905c56b88d243435f46c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.3</code>](https://github.com/linuxmint/mint-y-icons/commit/90b7d7842dd9bb56a38c8087389fd26a2ec1de6b)
+  - <sub>Tags: <code>1.7.3</code></sub>
+- [ ] [<code>Add a link for org.gnome.FileRoller</code>](https://github.com/linuxmint/mint-y-icons/commit/3b3ed727175fe170355905018b7684e5977c6035)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-y-icons/commit/2ab72d2cc3f4803e1021ee126a5e14bda8fe415e)
+  - <sub>Tags: <code>1.7.4</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
@@ -290,7 +306,11 @@
 - [ ] [<code>Fix test/demo mode.</code>](https://github.com/linuxmint/warpinator/commit/4f6984c2363668806d512577cd63cf5a5267a7ba)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>appdata: Update to follow the latest Flathub guidelines.</code>](https://github.com/linuxmint/warpinator/commit/03b1a9497cbc58f841d7065fddfa91526c137679)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/warpinator/commit/3a0610f449f909a8da965b349a053ce985034da1)
+- [ ] [<code>warpinator-launch.py: Catch a potential error in landlock check.</code>](https://github.com/linuxmint/warpinator/commit/4bb54c7c2863f0d6eb8d63569fbae4951768b5aa)
+- [ ] [<code>src/transfers.py: Follow toplevel symbolic links when gathering</code>](https://github.com/linuxmint/warpinator/commit/6a1101cf61e096591309d65339c4cceb672d6b60)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
