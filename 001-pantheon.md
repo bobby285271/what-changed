@@ -1004,6 +1004,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Preferences desktop wallpaper (#1212)</code>](https://github.com/elementary/icons/commit/02b83716db5ae85bccc731f09864e586ff07af8e)
 - [ ] [<code>Split from larger pull (#1251)</code>](https://github.com/elementary/icons/commit/20b98fadf04397af00d9cbf2dbe793c9839e1648)
+- [ ] [<code>Use meson symlink and fix warnings (#1254)</code>](https://github.com/elementary/icons/commit/75448946e619568cb03b9c8961a18b68b0a58ee6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Cursors: Redesign dnd badges (#1250)</code>](https://github.com/elementary/icons/commit/615d43202a36bd757a8d7cf6070a3ca1137fdb74)
+- [ ] [<code>Cursors: rename to fit spec (#1256)</code>](https://github.com/elementary/icons/commit/29ade4a28396eac4d5fac7921807e7ac1fe3938d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
