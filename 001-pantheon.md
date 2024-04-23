@@ -1010,6 +1010,7 @@
 - [ ] [<code>Cursors: Redesign dnd badges (#1250)</code>](https://github.com/elementary/icons/commit/615d43202a36bd757a8d7cf6070a3ca1137fdb74)
 - [ ] [<code>Cursors: rename to fit spec (#1256)</code>](https://github.com/elementary/icons/commit/29ade4a28396eac4d5fac7921807e7ac1fe3938d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Differentiate Symbolic Full Screen from Maximize (#1259)</code>](https://github.com/elementary/icons/commit/2624ddde7d315131bf686c858cdbb095fe3d1e8c)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
