@@ -1013,6 +1013,7 @@
 - [ ] [<code>Actions: Differentiate Symbolic Full Screen from Maximize (#1259)</code>](https://github.com/elementary/icons/commit/2624ddde7d315131bf686c858cdbb095fe3d1e8c)
 - [ ] [<code>Cursors: new base cursor design (#1258)</code>](https://github.com/elementary/icons/commit/5c01d00861493baeaec92bd2ac373f22ee999c87)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Categories/preds-desktop-locale: fix border radius</code>](https://github.com/elementary/icons/commit/cd020a820ff7f9830f61f2948cb226e8b0739cad)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
