@@ -159,18 +159,8 @@
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.7...HEAD)
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.7.0...HEAD)
 
-- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-l-icons/commit/b1b1739e34aade681b7cb27980bf4e91611c72fc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.8</code>](https://github.com/linuxmint/mint-l-icons/commit/85c6bc318eb6e0fc64bf65b96862c31ff81a444f)
-  - <sub>Tags: <code>1.6.8</code></sub>
-- [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-l-icons/commit/8a9dab1aa47e6927ceadde19d931f776d9526b60)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add a link for org.gnome.FileRoller</code>](https://github.com/linuxmint/mint-l-icons/commit/ffa36adc1f4200b33028003838a8ce25248e9e89)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-l-icons/commit/a0285abd3feb9904e4f77a8fff0adbfacc674be5)
-  - <sub>Tags: <code>1.6.9</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -182,31 +172,11 @@
 - [ ] [<code>Cinnamon: Add support for the new polkit dialog (#468)</code>](https://github.com/linuxmint/mint-themes/commit/b36a70d1f848d901ca2c6348306411681d675e23)
   - <sub>Tags: <code>master.lmde6</code></sub>
 
-#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
+#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
 
-- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-x-icons/commit/b8ba1e25692c5b9cc37c476eee76acbc036ec0e5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/mint-x-icons/commit/f9f77915fbefa7329198c9ba72266429ee668492)
-  - <sub>Tags: <code>1.6.6</code></sub>
-- [ ] [<code>Add various symlinks for updated apps (#200)</code>](https://github.com/linuxmint/mint-x-icons/commit/5b291d2e511fbb40a896d852d8dce6710f9d1c19)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>folder-color-switcher: Add missing choice for Yellow</code>](https://github.com/linuxmint/mint-x-icons/commit/73c7ad70a9a635dca106fcf7898d6a92ef3be0cf)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.7</code>](https://github.com/linuxmint/mint-x-icons/commit/92a0f24de5b846607743e3db5b6b08b78ff4be9a)
-  - <sub>Tags: <code>1.6.7</code></sub>
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.2...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
 
-- [ ] [<code>Add Neovim (#388)</code>](https://github.com/linuxmint/mint-y-icons/commit/287eb2cd12c425832ec0c0e6ff78a0c542ca5865)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add gnome-online-accounts-gtk</code>](https://github.com/linuxmint/mint-y-icons/commit/50e69d9cd3df64de99c905c56b88d243435f46c5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.3</code>](https://github.com/linuxmint/mint-y-icons/commit/90b7d7842dd9bb56a38c8087389fd26a2ec1de6b)
-  - <sub>Tags: <code>1.7.3</code></sub>
-- [ ] [<code>Add a link for org.gnome.FileRoller</code>](https://github.com/linuxmint/mint-y-icons/commit/3b3ed727175fe170355905018b7684e5977c6035)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-y-icons/commit/2ab72d2cc3f4803e1021ee126a5e14bda8fe415e)
-  - <sub>Tags: <code>1.7.4</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
