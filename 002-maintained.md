@@ -368,6 +368,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1253</code>](https://github.com/alainm23/planify/commit/311942b4559a740ca2cf76c87d32eb72d1f964bc)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Translation updates.</code>](https://github.com/alainm23/planify/commit/7d250256aeb8240fe4a91218a0c452911c327ad1)
+- [ ] [<code>Add Project Filters</code>](https://github.com/alainm23/planify/commit/55d67e9069360b44057f8bc7acdb5f2851c80055)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1258 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/89ef685cfbbf1a26e5f186d4798cb0fa19917345)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
