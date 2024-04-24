@@ -1011,6 +1011,8 @@
 - [ ] [<code>Cursors: rename to fit spec (#1256)</code>](https://github.com/elementary/icons/commit/29ade4a28396eac4d5fac7921807e7ac1fe3938d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Differentiate Symbolic Full Screen from Maximize (#1259)</code>](https://github.com/elementary/icons/commit/2624ddde7d315131bf686c858cdbb095fe3d1e8c)
+- [ ] [<code>Cursors: new base cursor design (#1258)</code>](https://github.com/elementary/icons/commit/5c01d00861493baeaec92bd2ac373f22ee999c87)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1454,6 +1456,9 @@
 - [ ] [<code>Gtk.Application (#74)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/ea4e121506d8f2a6f0d2d45162ad04a62c13a238)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Port to GTK4 (#67)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/584faa537d5ac706378d8e03008e43abd078945a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>PolkitDialog: shake contents on error (#77)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/afbd5e46d7ff39cdb7a376ca3b13b0786a635395)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
