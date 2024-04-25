@@ -1469,6 +1469,8 @@
 - [ ] [<code>Create wallpaper portal (#98)</code>](https://github.com/elementary/portals/commit/bf276f72f04480aae2f7dbe5466f783dfa8eac29)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Screenshot portal (#94)</code>](https://github.com/elementary/portals/commit/8ba0fe1e1766d5104e4ea1fdc6d7ae5d573401db)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
