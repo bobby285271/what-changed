@@ -503,6 +503,7 @@
 - [ ] [<code>AppSettingsView: fix row activation (#227)</code>](https://github.com/elementary/switchboard-plug-applications/commit/c026a44127ad0836792513380bdd170166cef9fd)
 - [ ] [<code>Use sidebar nav (#216)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3881be19e9294f375eb5b4648b87d098ae942d33)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PermissionStore: fail gets silently (#229)</code>](https://github.com/elementary/switchboard-plug-applications/commit/dcfa3c25a7b9417a563249c4aa38f6e82b98d6df)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
