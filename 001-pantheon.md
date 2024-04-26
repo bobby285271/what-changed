@@ -531,6 +531,9 @@
 - [ ] [<code>Handle own titlebuttons (#218)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b021a7ae4389073a7a2dd11d779b7f51f846e59e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump Adw dep (#219)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/64614986dfe1c1a2f32a35179c9296af780e5685)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -558,6 +561,11 @@
 - [ ] [<code>MainView: fix markup compiler warning (#121)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0be7fd8092fd00ba7196ec033070442ce2bf2478)
 - [ ] [<code>MainView: use bind_with_mapping to set auto icon (#120)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/9236206d05303c621555bfdd6e4eee603876218e)
 - [ ] [<code>Handle own titlebuttons (#122)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/13ed638a6c6c4f72e8804ff8afaea2189598cb26)
+- [ ] [<code>Bump required Adwaita version (#123)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0a9039a69d59337b12758624440c7b63bd944f60)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/981fc3b716017b2cd2834db83eea065ee3f3e7b9)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/29d0c3b4d58d2cf13ddf47ef9984d6aaf52b518a)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -649,6 +657,7 @@
 - [ ] [<code>Add translation context for "Left" / "Right" (#230)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/14b360c3cb2e5d9e106c009c61885d49dded789a)
 - [ ] [<code>Use Icon instead of icon name (#231)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8d9a73e50420e4b08b8e0f44aad496c6c4d246f6)
 - [ ] [<code>Use titlebutton properties (#232)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6db8b31a2098216c40fff6bc2c0ad99f103b3568)
+- [ ] [<code>Actions: bump gettext version</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/80c79bbb2fad6620f86619ccdb3779e5bcb14a7c)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -841,6 +850,8 @@
 - [ ] [<code>Handle own titlebuttons (#202)</code>](https://github.com/elementary/switchboard-plug-printers/commit/82396e3b896d7489a51d4e4bcf749e0cd9a73d33)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AddDialog: use NavigationView (#203)</code>](https://github.com/elementary/switchboard-plug-printers/commit/851ca284b71eb0d242131b7ed8d6ff118901b66e)
+- [ ] [<code>Actions: bump gettext version</code>](https://github.com/elementary/switchboard-plug-printers/commit/480a51253793801e0bb5c4f1b330459b7b43b1b2)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -1014,6 +1025,8 @@
 - [ ] [<code>Cursors: new base cursor design (#1258)</code>](https://github.com/elementary/icons/commit/5c01d00861493baeaec92bd2ac373f22ee999c87)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Categories/preds-desktop-locale: fix border radius</code>](https://github.com/elementary/icons/commit/cd020a820ff7f9830f61f2948cb226e8b0739cad)
+- [ ] [<code>Cursors: re-add symlinks for legacy names (#1264)</code>](https://github.com/elementary/icons/commit/3810d8d656e80baff1bdcd974bb9a902fd323857)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1357,6 +1370,7 @@
 - [ ] [<code>SwitchModelButton: make switch not focusable (#713)</code>](https://github.com/elementary/granite/commit/bde99b68b86e659ed4346af16bff6a4591fa8110)
 - [ ] [<code>Comment out GTK styles for now</code>](https://github.com/elementary/granite/commit/cf7aec2d3d355a934e5034834b681c00ad2a98c3)
 - [ ] [<code>Make the last added button have keyboard focus by default (#693)</code>](https://github.com/elementary/granite/commit/be76a056bc939a5d869ae88566df8b56e7069724)
+- [ ] [<code>Demo: make dialogs modal (#702)</code>](https://github.com/elementary/granite/commit/74787b57ccad4020e09dc56d428398fc84dc3dd5)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
