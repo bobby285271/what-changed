@@ -78,7 +78,9 @@
 - [ ] [<code>doc generation: Fix strings with invalid escape codes.</code>](https://github.com/linuxmint/cinnamon/commit/c56d76614854227240cc6dd1184117b2f8eac8f1)
 - [ ] [<code>placesManager.js: Remove "Connect to..." item.</code>](https://github.com/linuxmint/cinnamon/commit/9327ac3f81526580a89f508fc1e63d6db4bbd6ba)
 - [ ] [<code>New action icon for Mint-X theme (#12163)</code>](https://github.com/linuxmint/cinnamon/commit/41bab9716c4431f3c6d1293df3ec98297cea5678)
+- [ ] [<code>cs_themes: Blacklist Adwaita and HighContrast</code>](https://github.com/linuxmint/cinnamon/commit/13b1ad104e88197f6c4e2d02ab2674c07254b8e8)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
