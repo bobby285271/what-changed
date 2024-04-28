@@ -918,6 +918,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Make stack switcher homogeneous (#270)</code>](https://github.com/elementary/switchboard-plug-sound/commit/7b3210c7f0c1246084112f87db290e9b307aca5e)
 - [ ] [<code>Handle own titlebuttons (#268)</code>](https://github.com/elementary/switchboard-plug-sound/commit/652b626b760ad4c333c6efe63540fff0c82235ed)
+- [ ] [<code>ApplicationsPanel: Fix typo (#271)</code>](https://github.com/elementary/switchboard-plug-sound/commit/55e7299c3bd0a9265d218c2c505d4a3308ecc0b7)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1221,6 +1222,7 @@
 - [ ] [<code>WindowSwitcher: Fix mouse click (#1891)</code>](https://github.com/elementary/gala/commit/c77c9d1d0d182c17c94cae775a9a77efb923bad2)
 - [ ] [<code>Barrier: fix build with mutter 46 (#1895)</code>](https://github.com/elementary/gala/commit/5c68c1f4816ec60dcb12599626bd8b3d7a74f3a8)
 - [ ] [<code>WindowManager: Keep docks static during workspace switch (#1894)</code>](https://github.com/elementary/gala/commit/e1389404478b1d6797020791a210f2dda5bcc0e6)
+- [ ] [<code>Fix move-to-workspace-last shortcut (#1896)</code>](https://github.com/elementary/gala/commit/c13f2fe63c93333f2b1ea69910e98b1d235b90d9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
