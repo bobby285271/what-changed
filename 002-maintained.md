@@ -323,6 +323,8 @@
 - [ ] [<code>Adding support for removing note field coloring.</code>](https://github.com/phase1geo/minder/commit/b1f33a5be986451b5f7fb5a6bbeff64a734edf8b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/3e8eff4c210a34a38f525f2d4673bf0b8eb7d93c)
+- [ ] [<code>Update German translation</code>](https://github.com/phase1geo/minder/commit/b39fe06a19a00fd865dca07b8281bf9d6aa68af5)
+- [ ] [<code>Merge pull request #618 from be-we/master</code>](https://github.com/phase1geo/minder/commit/6b0b88e52edfb32ed29b6905090f4eb1b954571a)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
