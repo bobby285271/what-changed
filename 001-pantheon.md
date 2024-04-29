@@ -1223,6 +1223,7 @@
 - [ ] [<code>Barrier: fix build with mutter 46 (#1895)</code>](https://github.com/elementary/gala/commit/5c68c1f4816ec60dcb12599626bd8b3d7a74f3a8)
 - [ ] [<code>WindowManager: Keep docks static during workspace switch (#1894)</code>](https://github.com/elementary/gala/commit/e1389404478b1d6797020791a210f2dda5bcc0e6)
 - [ ] [<code>Fix move-to-workspace-last shortcut (#1896)</code>](https://github.com/elementary/gala/commit/c13f2fe63c93333f2b1ea69910e98b1d235b90d9)
+- [ ] [<code>Play sound when cycle-workspaces shortcut fails</code>](https://github.com/elementary/gala/commit/43d1e6a01b56a84a4e752e1970a35c19402941eb)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
