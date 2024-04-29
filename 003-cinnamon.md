@@ -79,6 +79,8 @@
 - [ ] [<code>placesManager.js: Remove "Connect to..." item.</code>](https://github.com/linuxmint/cinnamon/commit/9327ac3f81526580a89f508fc1e63d6db4bbd6ba)
 - [ ] [<code>New action icon for Mint-X theme (#12163)</code>](https://github.com/linuxmint/cinnamon/commit/41bab9716c4431f3c6d1293df3ec98297cea5678)
 - [ ] [<code>cs_themes: Blacklist Adwaita and HighContrast</code>](https://github.com/linuxmint/cinnamon/commit/13b1ad104e88197f6c4e2d02ab2674c07254b8e8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Blacklist a few more themes</code>](https://github.com/linuxmint/cinnamon/commit/7c74e737b1aa39188112e224a4d0a87733e15f77)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -179,6 +181,12 @@
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
 
+- [ ] [<code>Add Vesktop icon (#403)</code>](https://github.com/linuxmint/mint-y-icons/commit/f818fb2f212dcee89b790479574518b5e4126468)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>symlinks: Add im.riot.Riot</code>](https://github.com/linuxmint/mint-y-icons/commit/e201290a91ca5bf509a1baaf818840f8f40a74ab)
+- [ ] [<code>symlinks: Add ro.go.hmlendea.DL-Desktop.png</code>](https://github.com/linuxmint/mint-y-icons/commit/7ac12a6ddd7ef82ffcdf3c1ae2649d09e02ef861)
+- [ ] [<code>symlinks: Add whatsapp links</code>](https://github.com/linuxmint/mint-y-icons/commit/9cf58fa782d7b9fed29632bfd48d49d2d8a7e3c4)
+- [ ] [<code>symlinks: Add missing icons</code>](https://github.com/linuxmint/mint-y-icons/commit/85834182589213c5e79d39a83f801931077ba98e)
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
