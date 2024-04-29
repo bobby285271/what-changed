@@ -375,6 +375,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1258 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/89ef685cfbbf1a26e5f186d4798cb0fa19917345)
+- [ ] [<code>Added Bulgarian translation</code>](https://github.com/alainm23/planify/commit/007178e46ed182f0334d7e464bab31d268b8d8cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add ffilters and attachments #393</code>](https://github.com/alainm23/planify/commit/d421bd5acf7ebfecee9079997d7e0d3cbb40df5d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/7a561e65371d274d61421ba32787fb4e41eec102)
+- [ ] [<code>fix #536</code>](https://github.com/alainm23/planify/commit/d51ad0c14bdff34e90448674fd6b9eb1ba6a1b72)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1261 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/2abe63981cf2f03feb5eff25d22c7192a22e67e2)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
