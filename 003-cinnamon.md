@@ -187,6 +187,10 @@
 - [ ] [<code>symlinks: Add ro.go.hmlendea.DL-Desktop.png</code>](https://github.com/linuxmint/mint-y-icons/commit/7ac12a6ddd7ef82ffcdf3c1ae2649d09e02ef861)
 - [ ] [<code>symlinks: Add whatsapp links</code>](https://github.com/linuxmint/mint-y-icons/commit/9cf58fa782d7b9fed29632bfd48d49d2d8a7e3c4)
 - [ ] [<code>symlinks: Add missing icons</code>](https://github.com/linuxmint/mint-y-icons/commit/85834182589213c5e79d39a83f801931077ba98e)
+- [ ] [<code>Add Zoom icon (#409)</code>](https://github.com/linuxmint/mint-y-icons/commit/f23923b07547ec0ebf34ca53201800182006e66a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add PrusaSlicer icons (#402)</code>](https://github.com/linuxmint/mint-y-icons/commit/836d9186a0ec5b60378747032ae7109b869afd1a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
