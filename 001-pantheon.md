@@ -1029,6 +1029,14 @@
 - [ ] [<code>Categories/preds-desktop-locale: fix border radius</code>](https://github.com/elementary/icons/commit/cd020a820ff7f9830f61f2948cb226e8b0739cad)
 - [ ] [<code>Cursors: re-add symlinks for legacy names (#1264)</code>](https://github.com/elementary/icons/commit/3810d8d656e80baff1bdcd974bb9a902fd323857)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cursors: redraw resize, fix positions (#1263)</code>](https://github.com/elementary/icons/commit/0c0d68ea94a5e1e3e870cf5be5ee7ce72c3771c6)
+- [ ] [<code>Cursors: redraw cell and crosshair (#1262)</code>](https://github.com/elementary/icons/commit/c3d800a64c382b69a86f70fda3809a58425c77d9)
+- [ ] [<code>Cursors: Fix grabbing position, shadow, color (#1261)</code>](https://github.com/elementary/icons/commit/3030cb2cf37780aac736acd2655cbe31c8339033)
+- [ ] [<code>Cursors: blend wait cursors and speed up (#1260)</code>](https://github.com/elementary/icons/commit/144fbcf8164aade9edd66b2e237889710b2be599)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Use brighter colors for Find icon (#1253)</code>](https://github.com/elementary/icons/commit/5785af4999dbfeb74c6980485591f411725389c9)
+- [ ] [<code>Cursors: add legacy symlinks for wait and progress</code>](https://github.com/elementary/icons/commit/c6000b5669066ff94b873d057e806326722ca1ea)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1375,6 +1383,7 @@
 - [ ] [<code>Comment out GTK styles for now</code>](https://github.com/elementary/granite/commit/cf7aec2d3d355a934e5034834b681c00ad2a98c3)
 - [ ] [<code>Make the last added button have keyboard focus by default (#693)</code>](https://github.com/elementary/granite/commit/be76a056bc939a5d869ae88566df8b56e7069724)
 - [ ] [<code>Demo: make dialogs modal (#702)</code>](https://github.com/elementary/granite/commit/74787b57ccad4020e09dc56d428398fc84dc3dd5)
+- [ ] [<code>Init: Make sure to use documentation comment (#718)</code>](https://github.com/elementary/granite/commit/1291d2770b62f791d478d9b1b4caf7c585bee4a7)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
