@@ -81,6 +81,8 @@
 - [ ] [<code>cs_themes: Blacklist Adwaita and HighContrast</code>](https://github.com/linuxmint/cinnamon/commit/13b1ad104e88197f6c4e2d02ab2674c07254b8e8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes: Blacklist a few more themes</code>](https://github.com/linuxmint/cinnamon/commit/7c74e737b1aa39188112e224a4d0a87733e15f77)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Blacklist adwaita-dark</code>](https://github.com/linuxmint/cinnamon/commit/b6661f62a42958b80425c63b34ad789bfa7eb3f2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
