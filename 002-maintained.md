@@ -384,6 +384,15 @@
 - [ ] [<code>fix #536</code>](https://github.com/alainm23/planify/commit/d51ad0c14bdff34e90448674fd6b9eb1ba6a1b72)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1261 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/2abe63981cf2f03feb5eff25d22c7192a22e67e2)
+- [ ] [<code>Fixed mistake in Bulgarian translation</code>](https://github.com/alainm23/planify/commit/415199a1500c467676ef87285ad09118ca800ff3)
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/9903113bf397dad58f486f9353d7d86052fa730e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Filters Added</code>](https://github.com/alainm23/planify/commit/2c42057a6b2b9e0e9f57fcd870d4a36f3ee3c412)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1267 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/b2c1faded6b9d8cc695f67199b749e1d4bec9251)
+- [ ] [<code>fix #1266</code>](https://github.com/alainm23/planify/commit/95070c8812830079569aeeeaeb7d6ca2350124d6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1259</code>](https://github.com/alainm23/planify/commit/b67950e29b8843b841d3b593c5dd8a2f6ee2f66a)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
