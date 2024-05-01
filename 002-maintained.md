@@ -393,6 +393,12 @@
 - [ ] [<code>fix #1266</code>](https://github.com/alainm23/planify/commit/95070c8812830079569aeeeaeb7d6ca2350124d6)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1259</code>](https://github.com/alainm23/planify/commit/b67950e29b8843b841d3b593c5dd8a2f6ee2f66a)
+- [ ] [<code>Fix priority icon colors</code>](https://github.com/alainm23/planify/commit/a4169ef5e2c6d89c2da6d1a5f9d9d8c86b1dfb36)
+- [ ] [<code>Release 4.7</code>](https://github.com/alainm23/planify/commit/eb208b1cbd781d172b8cf9e7bd98947c67fb5f25)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1271 from Riksu9000/fix-priority-colors</code>](https://github.com/alainm23/planify/commit/2e1597f8c32dd8992960280fdb0d7cd7afb56380)
+  - <sub>Tags: <code>4.7</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
