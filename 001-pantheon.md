@@ -1393,6 +1393,9 @@
 - [ ] [<code>Demo: make dialogs modal (#702)</code>](https://github.com/elementary/granite/commit/74787b57ccad4020e09dc56d428398fc84dc3dd5)
 - [ ] [<code>Init: Make sure to use documentation comment (#718)</code>](https://github.com/elementary/granite/commit/1291d2770b62f791d478d9b1b4caf7c585bee4a7)
 - [ ] [<code>Metainfo: Add release info for 7.5.0 (#719)</code>](https://github.com/elementary/granite/commit/2a61b4c793274b26d320a112337c2e54c3facfd0)
+- [ ] [<code>Toast: add dismiss signal with dismissal reason (#677)</code>](https://github.com/elementary/granite/commit/2858234def1534e4d5585b8912a40a088dcf84c9)
+- [ ] [<code>Demo: remove deprecated settings widgets (#698)</code>](https://github.com/elementary/granite/commit/7c895d16d38773e9ea5fafa7c3d97e5e5e87ce64)
+  - <sub>Files: <code>meson.build</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
