@@ -275,6 +275,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#749)</code>](https://github.com/elementary/photos/commit/09e55943b266bc2861b913251cb834169d81743e)
 - [ ] [<code>POTFILES: Remove the publishing plugins (#751)</code>](https://github.com/elementary/photos/commit/4d79c527cda21115528e1a6573995918a30aa5ae)
+- [ ] [<code>Use Wallpaper Portal (#756)</code>](https://github.com/elementary/photos/commit/e8d4c4907bb56fba4a931caa1b4c88d4afb1b8a3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -990,6 +993,11 @@
 - [ ] [<code>WindowControls: Copy styles from Granite</code>](https://github.com/elementary/stylesheet/commit/76a1115cb651208b055bd10f217e71918f492bd6)
 - [ ] [<code>Remove Settings widgets (#1279)</code>](https://github.com/elementary/stylesheet/commit/345d92ee8a563500bf5475363a567edd8ce1e9e3)
 - [ ] [<code>Support Adw.ToolbarView (#1284)</code>](https://github.com/elementary/stylesheet/commit/8c229c8e943816b76a1cff26e14c63f3048c54fe)
+- [ ] [<code>ToolbarView: make tabbars flat (#1286)</code>](https://github.com/elementary/stylesheet/commit/f23ee7ebd676891a3151665b50adb775e3d621e7)
+- [ ] [<code>Views: style gridview child (#1287)</code>](https://github.com/elementary/stylesheet/commit/9381ff22de260ee0d013a2ce976fe2668179070c)
+- [ ] [<code>Adw: add Toast (#1288)</code>](https://github.com/elementary/stylesheet/commit/342bd817b8c15c65d0c48224d236fd3866afc5f3)
+- [ ] [<code>Fix pressed windowcontrols</code>](https://github.com/elementary/stylesheet/commit/ad8f0dd460b2745c1a27683ba369b049edaa460b)
+- [ ] [<code>Metainfo: add release info for 8 (#1289)</code>](https://github.com/elementary/stylesheet/commit/560e937cee00949930baa8ba3ad06c03382e3d7a)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -1384,6 +1392,7 @@
 - [ ] [<code>Make the last added button have keyboard focus by default (#693)</code>](https://github.com/elementary/granite/commit/be76a056bc939a5d869ae88566df8b56e7069724)
 - [ ] [<code>Demo: make dialogs modal (#702)</code>](https://github.com/elementary/granite/commit/74787b57ccad4020e09dc56d428398fc84dc3dd5)
 - [ ] [<code>Init: Make sure to use documentation comment (#718)</code>](https://github.com/elementary/granite/commit/1291d2770b62f791d478d9b1b4caf7c585bee4a7)
+- [ ] [<code>Metainfo: Add release info for 7.5.0 (#719)</code>](https://github.com/elementary/granite/commit/2a61b4c793274b26d320a112337c2e54c3facfd0)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
