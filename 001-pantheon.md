@@ -48,6 +48,7 @@
 
 - [ ] [<code>Desktop: organize, SingleMainWindow (#271)</code>](https://github.com/elementary/calculator/commit/b7d1b03ed7675d6622d036712f9fd655e8d11b63)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code> appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calculator/commit/069bab71fb9b9968f64528b9d73375b1519b76b1)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -233,6 +234,9 @@
 - [ ] [<code>gschema: remove window position (#972)</code>](https://github.com/elementary/mail/commit/11f8a562ec0912dac670cba38b383584913f8c11)
 - [ ] [<code>Remember recipients (#927)</code>](https://github.com/elementary/mail/commit/a7630fe8c82fb4c40f8c53b95e1a40509cf7abb5)
 - [ ] [<code>Force disabling webkit compositing mode (#982)</code>](https://github.com/elementary/mail/commit/fdad9c390809e2cdc58fdb74857b51f1c9175e29)
+- [ ] [<code>Add apparmor profile (#979)</code>](https://github.com/elementary/mail/commit/2e53376a226722e2c5e4f1b43f4e0f9904bbb3bd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -248,6 +252,7 @@
 - [ ] [<code>Update music.desktop.in (#770)</code>](https://github.com/elementary/music/commit/71b38e98a21f0cefdd9ffe66c6ca513b86caf030)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Update music.desktop.in</code>](https://github.com/elementary/music/commit/d00a6d69bc62df9fac205a98b7fe8972009b297a)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/music/commit/d55572e756112452afc6d1e503aa52da201ad7e9)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -291,6 +296,7 @@
 - [ ] [<code>Application: use startup, builtin icon loading (#273)</code>](https://github.com/elementary/screenshot/commit/61e1cfad9424763f720a8ac039ccdf5b4b1c8f71)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/screenshot/commit/2d4536592be70d3763e298f5d96ebd60bdb00025)
 - [ ] [<code>ScreenshotWindow: GTK 4 prep (#274)</code>](https://github.com/elementary/screenshot/commit/ea84b7bc5caa22df6fed1b4afbd7c3424d971007)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/screenshot/commit/0a328ce6f7e6381e6188e9a756a15bd55beb3833)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -1045,6 +1051,8 @@
 - [ ] [<code>Actions: Use brighter colors for Find icon (#1253)</code>](https://github.com/elementary/icons/commit/5785af4999dbfeb74c6980485591f411725389c9)
 - [ ] [<code>Cursors: add legacy symlinks for wait and progress</code>](https://github.com/elementary/icons/commit/c6000b5669066ff94b873d057e806326722ca1ea)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Categories: preferences-desktop-applications match gradients (#1267)</code>](https://github.com/elementary/icons/commit/7fae1c50189a614db9ef1a3ce27e95ee537dec8b)
+- [ ] [<code>Cursors: fix shadow on grab and pointer (#1268)</code>](https://github.com/elementary/icons/commit/e0b2f72195e842b2570cd170984dfede9bb672d1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1061,6 +1069,7 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wallpapers/commit/4aeefdb177feefd6a00938a05df13c10a832d086)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/elementary/wallpapers/commit/412bcdc260a64826149d05da001106e8f4c0e84a)
 - [ ] [<code>Early Access: remove text</code>](https://github.com/elementary/wallpapers/commit/58c38e289ebad7c6fb39503760c239e0c3699ed5)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag (#182)</code>](https://github.com/elementary/wallpapers/commit/e18f2abd5025d1d99e02cb118542f25e81f4e7cf)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
@@ -1396,6 +1405,8 @@
 - [ ] [<code>Toast: add dismiss signal with dismissal reason (#677)</code>](https://github.com/elementary/granite/commit/2858234def1534e4d5585b8912a40a088dcf84c9)
 - [ ] [<code>Demo: remove deprecated settings widgets (#698)</code>](https://github.com/elementary/granite/commit/7c895d16d38773e9ea5fafa7c3d97e5e5e87ce64)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/granite/commit/3a13c76565022a72a66677263ec53941925a5341)
+- [ ] [<code>HeaderLabel: wrap title, halign FILL (#715)</code>](https://github.com/elementary/granite/commit/3299cdaf4676d0c34ae7f4672c2950381660b4d9)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1579,6 +1590,8 @@
 - [ ] [<code>Bump easimon/maximize-build-space from 9 to 10 (#701)</code>](https://github.com/elementary/os/commit/fc6b6e1cbea922f02c139d157c11ce5902a87319)
   - <sub>Tags: <code>7.1.1-rc1</code></sub>
 - [ ] [<code>Stop building 7.1 dailies (#707)</code>](https://github.com/elementary/os/commit/330c923d97f2debe5c19a7f9e176249808207006)
+- [ ] [<code>Rename Next to 8.0 (#708)</code>](https://github.com/elementary/os/commit/f4518ccb1374db38a0d65712b00190b2c64b6f99)
+- [ ] [<code>Build stable once a month (#704)</code>](https://github.com/elementary/os/commit/fd8feda980b0bc49ca9c5a444c6ebd02f2adedfb)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
