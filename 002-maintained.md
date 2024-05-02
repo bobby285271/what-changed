@@ -364,41 +364,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.6 → HEAD](https://github.com/alainm23/planify/compare/4.6...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.7 → HEAD](https://github.com/alainm23/planify/compare/4.7...HEAD)
 
-- [ ] [<code>fix #1252</code>](https://github.com/alainm23/planify/commit/f29aa4e79dab08daea111e8e5a372fda51b90b9b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1253</code>](https://github.com/alainm23/planify/commit/311942b4559a740ca2cf76c87d32eb72d1f964bc)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Translation updates.</code>](https://github.com/alainm23/planify/commit/7d250256aeb8240fe4a91218a0c452911c327ad1)
-- [ ] [<code>Add Project Filters</code>](https://github.com/alainm23/planify/commit/55d67e9069360b44057f8bc7acdb5f2851c80055)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1258 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/89ef685cfbbf1a26e5f186d4798cb0fa19917345)
-- [ ] [<code>Added Bulgarian translation</code>](https://github.com/alainm23/planify/commit/007178e46ed182f0334d7e464bab31d268b8d8cb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add ffilters and attachments #393</code>](https://github.com/alainm23/planify/commit/d421bd5acf7ebfecee9079997d7e0d3cbb40df5d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/7a561e65371d274d61421ba32787fb4e41eec102)
-- [ ] [<code>fix #536</code>](https://github.com/alainm23/planify/commit/d51ad0c14bdff34e90448674fd6b9eb1ba6a1b72)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1261 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/2abe63981cf2f03feb5eff25d22c7192a22e67e2)
-- [ ] [<code>Fixed mistake in Bulgarian translation</code>](https://github.com/alainm23/planify/commit/415199a1500c467676ef87285ad09118ca800ff3)
-- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/9903113bf397dad58f486f9353d7d86052fa730e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Filters Added</code>](https://github.com/alainm23/planify/commit/2c42057a6b2b9e0e9f57fcd870d4a36f3ee3c412)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1267 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/b2c1faded6b9d8cc695f67199b749e1d4bec9251)
-- [ ] [<code>fix #1266</code>](https://github.com/alainm23/planify/commit/95070c8812830079569aeeeaeb7d6ca2350124d6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1259</code>](https://github.com/alainm23/planify/commit/b67950e29b8843b841d3b593c5dd8a2f6ee2f66a)
-- [ ] [<code>Fix priority icon colors</code>](https://github.com/alainm23/planify/commit/a4169ef5e2c6d89c2da6d1a5f9d9d8c86b1dfb36)
-- [ ] [<code>Release 4.7</code>](https://github.com/alainm23/planify/commit/eb208b1cbd781d172b8cf9e7bd98947c67fb5f25)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1271 from Riksu9000/fix-priority-colors</code>](https://github.com/alainm23/planify/commit/2e1597f8c32dd8992960280fdb0d7cd7afb56380)
-  - <sub>Tags: <code>4.7</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
