@@ -73,6 +73,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#266)</code>](https://github.com/elementary/camera/commit/70570b327b53cfa21a1cc15c70cd0e44796cb07d)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#267)</code>](https://github.com/elementary/camera/commit/cc2494e66854e9bb2e63a27eb70445b88c935517)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/camera/commit/9061a2175345bd7d5469025552ac0b139e303cad)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/camera/commit/504ea12cc9287ec10ca0d48f8926dd9a816b4621)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
@@ -237,6 +238,7 @@
 - [ ] [<code>Add apparmor profile (#979)</code>](https://github.com/elementary/mail/commit/2e53376a226722e2c5e4f1b43f4e0f9904bbb3bd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/mail/commit/fd34e37b25c22ad3780f023f6e844cff28e84089)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -339,6 +341,7 @@
 - [ ] [<code>Fix unwanted extra tab  (#743)</code>](https://github.com/elementary/terminal/commit/501e68919e518f2646475d4d7c5b8e6c69eccdf2)
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>Fix inoperative header decorations when fullscreened (#753)</code>](https://github.com/elementary/terminal/commit/9ad5ca658dde815fe1b09158378307d73c1b6a4f)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/terminal/commit/95468be531d4b35a6813bcfa3904926dbb847308)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -1004,6 +1007,7 @@
 - [ ] [<code>Adw: add Toast (#1288)</code>](https://github.com/elementary/stylesheet/commit/342bd817b8c15c65d0c48224d236fd3866afc5f3)
 - [ ] [<code>Fix pressed windowcontrols</code>](https://github.com/elementary/stylesheet/commit/ad8f0dd460b2745c1a27683ba369b049edaa460b)
 - [ ] [<code>Metainfo: add release info for 8 (#1289)</code>](https://github.com/elementary/stylesheet/commit/560e937cee00949930baa8ba3ad06c03382e3d7a)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/stylesheet/commit/ed46be29894b7934b9acd2adff2e742edac26f6a)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -1249,6 +1253,7 @@
 - [ ] [<code>WindowManager: Keep docks static during workspace switch (#1894)</code>](https://github.com/elementary/gala/commit/e1389404478b1d6797020791a210f2dda5bcc0e6)
 - [ ] [<code>Fix move-to-workspace-last shortcut (#1896)</code>](https://github.com/elementary/gala/commit/c13f2fe63c93333f2b1ea69910e98b1d235b90d9)
 - [ ] [<code>Play sound when cycle-workspaces shortcut fails</code>](https://github.com/elementary/gala/commit/43d1e6a01b56a84a4e752e1970a35c19402941eb)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/gala/commit/21e7a3e7943064bbb3e4ad560beaa04b6ce36908)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1356,6 +1361,8 @@
 - [ ] [<code>Fix new users buttons visibility (#184)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/8888adc8038ede8b69712624d36cb88bca5359cb)
 - [ ] [<code>ensure end session dialog requests keyboard focus (#185)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/2bbf1491b4be82cba120a09999de9ef3ce89241c)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#186)</code>](https://github.com/elementary/wingpanel-indicator-session/commit/38bacef624eeda830d8eab5edbb5fbb28db056cf)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-session/commit/359884621dea9b0d5254cf2098d864da4284b5a5)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-session/commit/3ab9a898db5f2fa4305044babb649e694c4fbfeb)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [7.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/7.0.0...HEAD)
 
