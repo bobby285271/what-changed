@@ -366,6 +366,11 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.7 → HEAD](https://github.com/alainm23/planify/compare/4.7...HEAD)
 
+- [ ] [<code>Fix view option menu indicator covering the button</code>](https://github.com/alainm23/planify/commit/57c703563357b66542971f7b84c6c0a6fa75dd82)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove inbox dynamic</code>](https://github.com/alainm23/planify/commit/8d1aaa7d233ebaf1ea3474eb7f4e7830a9491754)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1272 from Riksu9000/fix_indicator</code>](https://github.com/alainm23/planify/commit/6659323b7d11a4846d3cfe52ee8d673f03e143d9)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
