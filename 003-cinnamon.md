@@ -167,6 +167,14 @@
 
 #### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.7.0...HEAD)
 
+- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-l-icons/commit/47e1223415618e250a3999dcffa13a5c33d7da28)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-l-icons/commit/4f3c44b6cee99ebc4c51391928fadbb626047cca)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-l-icons/commit/59584c19c4a33ca4304ef987fee38e661366b74a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-l-icons/commit/0fba57c23477a3a0c9052b9f050780317e082daa)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -180,6 +188,14 @@
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
 
+- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-x-icons/commit/789902ceca549c4451ee26a6cb7a11caabf85d55)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-x-icons/commit/7eff486a3570455cb2870a1843f951e91e449ee1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-x-icons/commit/779b4a537688b79851b47bd6c5d1aad39969f7a3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove dead links</code>](https://github.com/linuxmint/mint-x-icons/commit/6e4a8d29895709914d1e189e28486290e093a195)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
 
@@ -192,6 +208,14 @@
 - [ ] [<code>Add Zoom icon (#409)</code>](https://github.com/linuxmint/mint-y-icons/commit/f23923b07547ec0ebf34ca53201800182006e66a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add PrusaSlicer icons (#402)</code>](https://github.com/linuxmint/mint-y-icons/commit/836d9186a0ec5b60378747032ae7109b869afd1a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-y-icons/commit/b7937b45090f8b15f7718bd51ef7bee1eb0e263c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-y-icons/commit/480f4595fa5969b0f65e59cbab59b2c2e1cbf78e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-y-icons/commit/0dab9b9e4d7b664f265a690cbe05cf540dea8326)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-y-icons/commit/5d62443cc5d06ae493aaa07e70c571333409255e)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
