@@ -43,6 +43,7 @@
 - [ ] [<code>Desktop: organize, add singlemainwindow (#2141)</code>](https://github.com/elementary/appcenter/commit/51e1ef8f014a07fba52225102fb210676d2f0a1b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Application: update copyright header</code>](https://github.com/elementary/appcenter/commit/546f8d1f68f429208dfb93cd9996a040be6ee728)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/appcenter/commit/e03d4f218d1a86f948676982589564e3c2cc4ef6)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -64,6 +65,7 @@
 - [ ] [<code>Rearrange headerbar items (#803)</code>](https://github.com/elementary/calendar/commit/d9415684ab403e04c828ac3877322bef8718149d)
 - [ ] [<code>Support online web calendar (#805)</code>](https://github.com/elementary/calendar/commit/03fc11e39c31eb4276ec59cf75dcbd6e688bfcad)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calendar/commit/f2663f6f6526a673f8744057ed4d1cab4fd75693)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -89,6 +91,7 @@
 - [ ] [<code>Do not highlight neighbouring words of selected space (#1300)</code>](https://github.com/elementary/code/commit/516a3fdae9526d2bf459cf84ce1b015cf88ddcdb)
 - [ ] [<code>Put branch name on separate line (#1423)</code>](https://github.com/elementary/code/commit/81b4869e9a7b11a52e41ca1df634d4ada0caf907)
 - [ ] [<code>PreferencesDialog: make resizable (#1432)</code>](https://github.com/elementary/code/commit/108b09111be4958ed17e06ce9b1a1634bca4152d)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/code/commit/ee7d7f5f0b12bdc540f0e37efeca20434bef20e7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -159,6 +162,7 @@
 - [ ] [<code>Application: init Granite</code>](https://github.com/elementary/feedback/commit/5ef63eb606d463b14952f2995c5dd82aa5a36895)
 - [ ] [<code>master → main</code>](https://github.com/elementary/feedback/commit/faa59827ccdfb522a6f0c97102a28342137a6d13)
 - [ ] [<code>Desktop: change comment to Report a Problem (#106)</code>](https://github.com/elementary/feedback/commit/af9c635d28117e1c384c23895627ca6c28047b44)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/feedback/commit/f7fc096a2e259f6c97e846ed0baf25cb9ed0152c)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -205,6 +209,7 @@
 - [ ] [<code>Desktop: update, singlemainwindow (#2426)</code>](https://github.com/elementary/files/commit/287e43116cdf1c26b16c2b4e181c62cd2dc22f01)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Expose restore tabs on startup option (#2343)</code>](https://github.com/elementary/files/commit/41788834ba92bd20cd4f3c22ca47783e9bef4c5b)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/files/commit/339df5a1e438d66352703f44b83e56dbda9614be)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -212,6 +217,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#48)</code>](https://github.com/elementary/iconbrowser/commit/890e610fdd9ab56c2981ad026775af0971d9c48f)
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#49)</code>](https://github.com/elementary/iconbrowser/commit/8b7e9cb4b6216e221b61a8abfc71aa268b25aacd)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/iconbrowser/commit/46cb0c3a5a5cc5ab041491837462a48fecdfbd9d)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/iconbrowser/commit/395b73521e5750367f369852cba2be7581b7b2d7)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -285,6 +291,7 @@
 - [ ] [<code>Use Wallpaper Portal (#756)</code>](https://github.com/elementary/photos/commit/e8d4c4907bb56fba4a931caa1b4c88d4afb1b8a3)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/photos/commit/d4b7192d937269f85fe2472a97e0cd6243bca676)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -310,6 +317,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#375)</code>](https://github.com/elementary/tasks/commit/4be89ab1378647e522ad14e675f9ca1f9e1c00b0)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/tasks/commit/851f79ed3db03bfe4231f91dd293ba029a584503)
 - [ ] [<code>gschema: remove window position (#377)</code>](https://github.com/elementary/tasks/commit/66c5cb7e3d8b882879e1f7b90f00b23bf20c6388)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/tasks/commit/5cc4518b61c1f881ae523a42e6262c9006347316)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -362,6 +370,10 @@
 - [ ] [<code>Respect dark style preference (#374)</code>](https://github.com/elementary/videos/commit/204ca250b0f39903d1b5dbe856cc2063d79140e5)
 - [ ] [<code>Use Gtk4 list widgets (#371)</code>](https://github.com/elementary/videos/commit/e6bb4c18302a20c2f555a3b69097c771370115fc)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump elementary runtime and Rust SDK extension (#377)</code>](https://github.com/elementary/videos/commit/6b215caa14a21c722b9f060870074bbe3686c938)
+- [ ] [<code>Fix gettext Rust install</code>](https://github.com/elementary/videos/commit/2efdb6c919cedfb3be7c1b34d3624936821d91cc)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/videos/commit/b9512cacc0753ab1c3bcde8df4d0a41cd6e7d437)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/videos/commit/7294740b830abe3b025a514c335dc53cdbe26ca9)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -369,6 +381,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#164)</code>](https://github.com/elementary/sideload/commit/b9679a1cc92def3a429d4bc4edc8b657fe3438f4)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/sideload/commit/4e62c04f4a6f11dc579ee01e4d8464c7f8f42a61)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -440,6 +453,7 @@
 - [ ] [<code>Plug.css: specifically target toolbars (#306)</code>](https://github.com/elementary/switchboard/commit/7a4b3f357408835da1927da141af2aad4b2ac9fe)
 - [ ] [<code>Don't pop pages on escape (#307)</code>](https://github.com/elementary/switchboard/commit/644e4f3a14ed5bbefdb9655d269630967cb20b40)
 - [ ] [<code>Remove ToolbarView styles (#309)</code>](https://github.com/elementary/switchboard/commit/f75ae6b1e03f8ca85a4646c85868cb0fd8c3e045)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard/commit/1d63f51d86e38f30d149a2bb3d4fe10445952d9a)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -516,6 +530,7 @@
 - [ ] [<code>Use sidebar nav (#216)</code>](https://github.com/elementary/switchboard-plug-applications/commit/3881be19e9294f375eb5b4648b87d098ae942d33)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PermissionStore: fail gets silently (#229)</code>](https://github.com/elementary/switchboard-plug-applications/commit/dcfa3c25a7b9417a563249c4aa38f6e82b98d6df)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-applications/commit/1cc020a1f1fd06f24f2da15f0a425bea819a09b8)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -547,6 +562,7 @@
 - [ ] [<code>Bump Adw dep (#219)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/64614986dfe1c1a2f32a35179c9296af780e5685)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e22627e924312261611760c458a6ee5495d39549)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -599,6 +615,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/931beb7817d6ca7248edadb800bcb8daa1b76099)
 - [ ] [<code>Handle own titlebuttons (#380)</code>](https://github.com/elementary/switchboard-plug-display/commit/7c619246ebf67e84edf4b17508d3e7eefeeb36dc)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-display/commit/f45948da6872787aea53856e41ccb30ca61f9132)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -641,6 +658,7 @@
 - [ ] [<code>Use AdwToolbarView (#509)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3c110bc20ed24e20ce934b2cbcaea92ed010c8e6)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e11fdc187c216e212f4003fe7d269eeddf6f6f15)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9ae051a7d5adc7de9eea2373600243d11d5dd9db)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c25f40b0b65b6eb551f97a4c029ad4065b565c46)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -749,6 +767,8 @@
 - [ ] [<code>Ship our own icons (#277)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/adca3174cce855b4108e4e3d69c69ba3b7f7aa29)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Handle own titlebuttons (#279)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c4a7a9e7d6ecd3ed326a3bed6823727e1ad11e5a)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c9388f9fde901a80c26a72e10f8e7e07df4e2fcf)
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/42f38c66fc7db56ee3eaa78d4f0384519c7b23c7)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -785,6 +805,7 @@
   - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Handle own titlebuttons (#389)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/40cd20e6ed47ee8ecdf9e8f1827ad2175541200b)
 - [ ] [<code>Appearance: Always Show Scrollbars setting (#392)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/94807c0dd8a82c295babb6c37d3d08e9af8e8fcb)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4f06957323338fccd3f28bf88cd30515f49b6563)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -888,6 +909,9 @@
 - [ ] [<code>Handle own titlebuttons (#173)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ecc918586d7cd921e56551298d1f129e06bae381)
 - [ ] [<code>Housekeeping: use elementary settings-daemon (#174)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/34d97e854de05094a902228ce9d06ec67dc985b0)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/e25711e36cca53142b82ecc9243441394cdc2c3a)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5bcc434005b29d645c5ffab47e07bb0b82200dcc)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3751b775ff7866552c75f028b40289fce9b9047e)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -931,6 +955,7 @@
 - [ ] [<code>Make stack switcher homogeneous (#270)</code>](https://github.com/elementary/switchboard-plug-sound/commit/7b3210c7f0c1246084112f87db290e9b307aca5e)
 - [ ] [<code>Handle own titlebuttons (#268)</code>](https://github.com/elementary/switchboard-plug-sound/commit/652b626b760ad4c333c6efe63540fff0c82235ed)
 - [ ] [<code>ApplicationsPanel: Fix typo (#271)</code>](https://github.com/elementary/switchboard-plug-sound/commit/55e7299c3bd0a9265d218c2c505d4a3308ecc0b7)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2769e770c85d8b669bac4a7e7da7d9b01d7ebd6)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1058,6 +1083,7 @@
 - [ ] [<code>Categories: preferences-desktop-applications match gradients (#1267)</code>](https://github.com/elementary/icons/commit/7fae1c50189a614db9ef1a3ce27e95ee537dec8b)
 - [ ] [<code>Cursors: fix shadow on grab and pointer (#1268)</code>](https://github.com/elementary/icons/commit/e0b2f72195e842b2570cd170984dfede9bb672d1)
 - [ ] [<code>Actions: use folder for saveas (#1269)</code>](https://github.com/elementary/icons/commit/ce1a47e80d24f5903b3f97de3d0673130e7db459)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/icons/commit/9e622f1fd494af89f2c078b89c7b5012ff77adef)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1139,6 +1165,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CI: bump mutter version to 14 (#723)</code>](https://github.com/elementary/greeter/commit/f4716e29e0e3ffb14d236a3cbc3e235cca768a7b)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/greeter/commit/697bfc931e43918b9df17a0550961e788bc993cc)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1151,6 +1178,7 @@
 - [ ] [<code>UpdatesView: add OS updates (#224)</code>](https://github.com/elementary/onboarding/commit/421cb87933825aa2ec623d167158b3089b7326cf)
 - [ ] [<code>Housekeeping: use elementary settings daemon (#226)</code>](https://github.com/elementary/onboarding/commit/21c51e04060a967fab0c599ae0e8b4b3884c27b6)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/onboarding/commit/0721b5c4ad5c323cdceb400ee9dfa512abcbe361)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1166,6 +1194,8 @@
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#138)</code>](https://github.com/elementary/shortcut-overlay/commit/d446127495c4f55ff52b7a0c58a84e53a4254384)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#140)</code>](https://github.com/elementary/shortcut-overlay/commit/fba68026d896d87826baf82b6a04c358101c959d)
 - [ ] [<code>Updated screenshot used in README (#141)</code>](https://github.com/elementary/shortcut-overlay/commit/3ab6e9ddcee868a19103beaa6b37e72c54b05c5c)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/shortcut-overlay/commit/339ff966da0372aac6f1c25d44eb0c0051599fd7)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/shortcut-overlay/commit/367b1eec37428114e40fe0f6a2b7a7d729f6b962)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -1275,6 +1305,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>wayland: Fix wingpanel breaking everything (#527)</code>](https://github.com/elementary/wingpanel/commit/4dd9990d3d17aef391767fb5240fde9a20ca8a57)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel/commit/d00d48c62f6baa5e1a66756b55ff8b9ea74a9485)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1301,10 +1332,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update githubci.yml (#590)</code>](https://github.com/elementary/applications-menu/commit/d122036180d78441a46641bbca93647c5e418c41)
 - [ ] [<code>Make sure to always query the right info before use</code>](https://github.com/elementary/applications-menu/commit/7001334095d7804bfbf9c32c3435bfcece1a690f)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/applications-menu/commit/9e0c8f1148265da299a302269c8d28ccc28dfe3a)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#61)</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/17df9c5c632e7a690caaadcebe975aaf5cb4e615)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-a11y/commit/2ad2a2184330f04793a00ea46224e9a63b9f3e99)
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [7.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.1...HEAD)
 
@@ -1313,6 +1346,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/74209b440a4ca8d030f27cc9fc5dcbb403a97b18)
 - [ ] [<code>Use emblem- icons instead of user- (#212)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/17a1b8b8305912f968dc6c8d221c786f7951cfce)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/797a447754a81eddc187f3c9f7676f0c879e3b9f)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -1320,6 +1354,8 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/310f3f4d2eceea8c21d68045ebfe254840933691)
 - [ ] [<code>Bump actions/checkout from 1 to 3 (#308)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/aff6f57caff2295647f47e268a10ff47c0c4c633)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#310)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c48e0d636d177f91fcffafedf65f0add2af0a576)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/34faf5872fd3e0c5a4670eecf75fb4e73adec735)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/7b1cb58c8ac174d0cee76dd4d876c434c04e5064)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
@@ -1327,20 +1363,24 @@
 - [ ] [<code>Switch to GHCR containers (#121)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f9eb82b08157a2e391f8c40ff9140c63d00f2242)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d26d8968710e9ec55611a27528da7a0c5d0b3258)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#123)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b0f4d4293b6e6e28eb514ca2fb835ab28b200af3)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/8141939ff388e26c032492cefbd42275cdced713)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
 - [ ] [<code>Allow adding new system connections without admin prompt (#314)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/051408b6eb96eeb07083a3f09275184dd55d5d9d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-network/commit/43df2e74480c8363cedf40bcb5f87c10a3f44938)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#104)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6e3419dc1ec0d6c0e1f823f107c69028e34ede9c)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/9f91f5003629e70373e054acf002117633053227)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
 - [ ] [<code>Remove unused argument (#274)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6f98e9d619f4f1cb24959d2bc3bd03887d50f600)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/228bb8368bb1dfde8452c5f816c7bff97bd8c71a)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
@@ -1348,6 +1388,7 @@
 - [ ] [<code>Drop "Apps Using Lots of Power" feature (#247)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/664530a5f7d2f36c30ab4648a1ed25ed9ba47ce9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-power/commit/453578c32d1fae9edc9ffc672619717c7b229de6)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -1372,6 +1413,7 @@
 - [ ] [<code>Show in Greeter (#268)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/215338fb0146a1f8d702de1d76822579dadcaf18)
 - [ ] [<code>Handle keybindings and confirmation in the indicator (#270)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fb22657712be19297cacb3171ec964ccce95f7b7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/da90d57c0308556636770e1b046876cf76726d7a)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
@@ -1448,6 +1490,9 @@
 - [ ] [<code>meson: Fix deprecation warnings (#116)</code>](https://github.com/elementary/capnet-assist/commit/1fda21d0968f91c3b5e836ad5d8d76662c612975)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update README (#115)</code>](https://github.com/elementary/capnet-assist/commit/7222931498868e9bba5cab68bc052f489e3429aa)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/capnet-assist/commit/c7b057f41c5e874598cd57e7befb723ee92355cd)
+- [ ] [<code>desktop: Add categories</code>](https://github.com/elementary/capnet-assist/commit/16546fad5d783bc83b8f87192b3191c5591039e1)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
@@ -1456,6 +1501,7 @@
 - [ ] [<code>Remove autostart file (#224)</code>](https://github.com/elementary/notifications/commit/5be5904c03cca1186a4c2f218468ea4312b00a21)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/notifications/commit/9572d34766015f9d11a53730dd496dc3b9ba5c08)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
@@ -1495,6 +1541,7 @@
 - [ ] [<code>POTFILES: Add autostart.desktop (#142)</code>](https://github.com/elementary/settings-daemon/commit/3769cc993b5e7cd4805d14e3f49d29d1d625be58)
 - [ ] [<code>HouseKeeping: add temp and trash options (#143)</code>](https://github.com/elementary/settings-daemon/commit/755d0f3bff38827952ddd439f0b7fe7d891ff6b0)
 - [ ] [<code>settings-portal: Do not assume GSettings availability (#144)</code>](https://github.com/elementary/settings-daemon/commit/7e6de32ccb6e82aa6d1e7585eb87fdca2f3b155f)
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/settings-daemon/commit/c94c39527c6017846a8647513c91df5768775204)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1520,6 +1567,7 @@
 - [ ] [<code>PolkitDialog: shake contents on error (#77)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/afbd5e46d7ff39cdb7a376ca3b13b0786a635395)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/pantheon-agent-polkit/commit/12d59ded64424ce4a0e8db8bcc9da18d97d0dc27)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
@@ -1529,6 +1577,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Screenshot portal (#94)</code>](https://github.com/elementary/portals/commit/8ba0fe1e1766d5104e4ea1fdc6d7ae5d573401db)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/portals/commit/a7b4d8812a0dca0a1444280597fd501287cc92f1)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
