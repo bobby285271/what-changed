@@ -1057,6 +1057,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Categories: preferences-desktop-applications match gradients (#1267)</code>](https://github.com/elementary/icons/commit/7fae1c50189a614db9ef1a3ce27e95ee537dec8b)
 - [ ] [<code>Cursors: fix shadow on grab and pointer (#1268)</code>](https://github.com/elementary/icons/commit/e0b2f72195e842b2570cd170984dfede9bb672d1)
+- [ ] [<code>Actions: use folder for saveas (#1269)</code>](https://github.com/elementary/icons/commit/ce1a47e80d24f5903b3f97de3d0673130e7db459)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
