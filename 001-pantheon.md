@@ -936,6 +936,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Handle own titlebuttons (#71)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/991ef48a399d795ed16bc6dddfb1cd3a26bb68ee)
+- [ ] [<code>Gettext action: Use development-target (#72)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/1d69fcc46c7d193696dc1a89f28a94e1d8a25873)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1285,6 +1286,8 @@
 - [ ] [<code>Fix move-to-workspace-last shortcut (#1896)</code>](https://github.com/elementary/gala/commit/c13f2fe63c93333f2b1ea69910e98b1d235b90d9)
 - [ ] [<code>Play sound when cycle-workspaces shortcut fails</code>](https://github.com/elementary/gala/commit/43d1e6a01b56a84a4e752e1970a35c19402941eb)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/gala/commit/21e7a3e7943064bbb3e4ad560beaa04b6ce36908)
+- [ ] [<code>Canvas: Do not try to draw on a 0-sized area</code>](https://github.com/elementary/gala/commit/d61501b0709bb27a090903ab6df5d532150a5ad8)
+- [ ] [<code>WorkspaceManager: Make cleanup private</code>](https://github.com/elementary/gala/commit/196d2498a257d8af48221b1999639bcce8b80eb1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
