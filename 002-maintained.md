@@ -379,6 +379,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1275 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9843e759d0ab5a910b806f19f51864acb5e49ad1)
 - [ ] [<code>Merge pull request #1274 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/0e1f7ab7bc3226c73cfce79e572e606da7a2484c)
+- [ ] [<code>Fix scheduled range view</code>](https://github.com/alainm23/planify/commit/8031e2681282426071b04cbce321c07f1e3e9065)
+- [ ] [<code>Merge pull request #1279 from Riksu9000/fix-scheduled-range</code>](https://github.com/alainm23/planify/commit/58a46573dacb57273bd56391269f77d9574f6dec)
+- [ ] [<code>fix #1278</code>](https://github.com/alainm23/planify/commit/100e328894ed248913389b0700f3066412eff6da)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/cd9f799b603beff2bd1806d6fe9acefdfb90c9fb)
+- [ ] [<code>fix #1273</code>](https://github.com/alainm23/planify/commit/c57c7496d2e0b12f1fa22c08d0c3e968a3b779b9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
