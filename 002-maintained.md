@@ -371,6 +371,14 @@
 - [ ] [<code>Remove inbox dynamic</code>](https://github.com/alainm23/planify/commit/8d1aaa7d233ebaf1ea3474eb7f4e7830a9491754)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1272 from Riksu9000/fix_indicator</code>](https://github.com/alainm23/planify/commit/6659323b7d11a4846d3cfe52ee8d673f03e143d9)
+- [ ] [<code>Fixed incorrect Bulgarian translations</code>](https://github.com/alainm23/planify/commit/2c06971259cdf5ebd398638f456415ef3d1cca3c)
+- [ ] [<code>Hindi translation updates.</code>](https://github.com/alainm23/planify/commit/b9e4714b2eb243b535c7fdb82a117ddea19a5c77)
+- [ ] [<code>Update Inbox Project</code>](https://github.com/alainm23/planify/commit/b123efc81b76e97c0fe75131c6f29bf483246ea5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #733 #558</code>](https://github.com/alainm23/planify/commit/3ea694da5d85dbd41ba4707b5970244ef9c3edd8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1275 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9843e759d0ab5a910b806f19f51864acb5e49ad1)
+- [ ] [<code>Merge pull request #1274 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/0e1f7ab7bc3226c73cfce79e572e606da7a2484c)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
