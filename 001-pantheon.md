@@ -533,6 +533,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PermissionStore: fail gets silently (#229)</code>](https://github.com/elementary/switchboard-plug-applications/commit/dcfa3c25a7b9417a563249c4aa38f6e82b98d6df)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-applications/commit/1cc020a1f1fd06f24f2da15f0a425bea819a09b8)
+- [ ] [<code>POTFILES: Add missing files (#231)</code>](https://github.com/elementary/switchboard-plug-applications/commit/fbe8deaa0d3e42a2b3a3d3ab000836c8dcdd9c31)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
