@@ -504,6 +504,8 @@
 - [ ] [<code>Handle own titlebuttons (#314)</code>](https://github.com/elementary/switchboard-plug-about/commit/451144e79b894cd53263fa484d877f3f70edd481)
 - [ ] [<code>OperatingSystemView: use boxed-list, modelbutton (#315)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d21994a5e3561a4dc3f90690292236cc6bf1d04)
 - [ ] [<code>Show a placeholder if no connection to the settings-daemon could be established (#316)</code>](https://github.com/elementary/switchboard-plug-about/commit/d1c4f5481a2c2828660b8fcd1299d3f858e58e74)
+- [ ] [<code>l10n: Fix some strings not shown as translated (#319)</code>](https://github.com/elementary/switchboard-plug-about/commit/1abd84718bf909cc744a1348c3b9d64e1b56db57)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -616,6 +618,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/931beb7817d6ca7248edadb800bcb8daa1b76099)
 - [ ] [<code>Handle own titlebuttons (#380)</code>](https://github.com/elementary/switchboard-plug-display/commit/7c619246ebf67e84edf4b17508d3e7eefeeb36dc)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-display/commit/f45948da6872787aea53856e41ccb30ca61f9132)
+- [ ] [<code>l10n: Make use_switch translatable (#383)</code>](https://github.com/elementary/switchboard-plug-display/commit/58627fa60406cfb437428dea1a45a3ee34018b7a)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -659,6 +662,8 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/e11fdc187c216e212f4003fe7d269eeddf6f6f15)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/9ae051a7d5adc7de9eea2373600243d11d5dd9db)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c25f40b0b65b6eb551f97a4c029ad4065b565c46)
+- [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#510)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/84857ac958c02879ec257241fe331d6d9787ef25)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -724,6 +729,8 @@
 - [ ] [<code>Handle own titlebuttons (#396)</code>](https://github.com/elementary/switchboard-plug-network/commit/ef7c0e833acf89d1f307d31d4fbe7164e88df6e2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#399)</code>](https://github.com/elementary/switchboard-plug-network/commit/16ea3e892edb7bfad806bd7138d55801ff72e119)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -806,6 +813,8 @@
 - [ ] [<code>Handle own titlebuttons (#389)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/40cd20e6ed47ee8ecdf9e8f1827ad2175541200b)
 - [ ] [<code>Appearance: Always Show Scrollbars setting (#392)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/94807c0dd8a82c295babb6c37d3d08e9af8e8fcb)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4f06957323338fccd3f28bf88cd30515f49b6563)
+- [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#393)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bf7977658cd3860685b420bebe965a73f9d47adf)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
