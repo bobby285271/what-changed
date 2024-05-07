@@ -816,6 +816,11 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4f06957323338fccd3f28bf88cd30515f49b6563)
 - [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#393)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bf7977658cd3860685b420bebe965a73f9d47adf)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Replace deprecated Gtk.StyleContext (#396)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e5fc33929571c82042a679569991d272eeab13ce)
+- [ ] [<code>Wallpaper: use Toast.dismissed (#397)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8a22b364b5674d6fd2d6214a90f305257929eb91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix missing Dock & Panel settings (#394)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a16f25404347eb2d9cc1f06dc57fd0f89abe9eef)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1044,6 +1049,9 @@
 - [ ] [<code>Fix pressed windowcontrols</code>](https://github.com/elementary/stylesheet/commit/ad8f0dd460b2745c1a27683ba369b049edaa460b)
 - [ ] [<code>Metainfo: add release info for 8 (#1289)</code>](https://github.com/elementary/stylesheet/commit/560e937cee00949930baa8ba3ad06c03382e3d7a)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/stylesheet/commit/ed46be29894b7934b9acd2adff2e742edac26f6a)
+- [ ] [<code>Release 8.0.0 (#1290)</code>](https://github.com/elementary/stylesheet/commit/9c713d0f4c35f80a783e5fa6845a39d977c7140c)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -1095,6 +1103,10 @@
 - [ ] [<code>Cursors: fix shadow on grab and pointer (#1268)</code>](https://github.com/elementary/icons/commit/e0b2f72195e842b2570cd170984dfede9bb672d1)
 - [ ] [<code>Actions: use folder for saveas (#1269)</code>](https://github.com/elementary/icons/commit/ce1a47e80d24f5903b3f97de3d0673130e7db459)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/icons/commit/9e622f1fd494af89f2c078b89c7b5012ff77adef)
+- [ ] [<code>8.0 Release Notes (#1275)</code>](https://github.com/elementary/icons/commit/1457672385c9b86b41411c8f53a3d5d5c6b67a6b)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/db1dc7487ae2aa0fb0551e72eb159c58daac91f8)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/73f0be469c45171dddb3ca5cda6507be0af45c30)
+- [ ] [<code>Readme: update to pull from main</code>](https://github.com/elementary/icons/commit/39092cc1d511f07e1657535dc5c5546af4304f9c)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1470,6 +1482,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/granite/commit/3a13c76565022a72a66677263ec53941925a5341)
 - [ ] [<code>HeaderLabel: wrap title, halign FILL (#715)</code>](https://github.com/elementary/granite/commit/3299cdaf4676d0c34ae7f4672c2950381660b4d9)
+- [ ] [<code>Update granite.metainfo.xml.in</code>](https://github.com/elementary/granite/commit/b5dc3c44660f7a1aed6bd97dea6519b692e767c7)
+- [ ] [<code>Release 7.5.0 (#720)</code>](https://github.com/elementary/granite/commit/f190e26e1c850b3ab078357f1dcedd6e8278f61f)
+  - <sub>Tags: <code>7.5.0</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
