@@ -391,6 +391,8 @@
 - [ ] [<code>feat: open task in sidebar</code>](https://github.com/alainm23/planify/commit/cf14b3f8ed0db62e7f50cb1be4a17dcab4b81ca4)
 - [ ] [<code>fix #1180</code>](https://github.com/alainm23/planify/commit/9e0506962b19edcee846ffbe1689940c732957e2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve Quick Add</code>](https://github.com/alainm23/planify/commit/c24f08a978263a504bf7fddb2432d487fa9c25dd)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
