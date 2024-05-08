@@ -386,6 +386,11 @@
 - [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/cd9f799b603beff2bd1806d6fe9acefdfb90c9fb)
 - [ ] [<code>fix #1273</code>](https://github.com/alainm23/planify/commit/c57c7496d2e0b12f1fa22c08d0c3e968a3b779b9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #713</code>](https://github.com/alainm23/planify/commit/ee13401fc1e118bd4371791d1e10eac99f88b873)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: open task in sidebar</code>](https://github.com/alainm23/planify/commit/cf14b3f8ed0db62e7f50cb1be4a17dcab4b81ca4)
+- [ ] [<code>fix #1180</code>](https://github.com/alainm23/planify/commit/9e0506962b19edcee846ffbe1689940c732957e2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
