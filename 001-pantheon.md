@@ -821,6 +821,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix missing Dock & Panel settings (#394)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a16f25404347eb2d9cc1f06dc57fd0f89abe9eef)
+- [ ] [<code>Wallpaper: replace deprecated FileChooserNative with FileDialog (#398)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d78d829960caa913c2310eaba822c0ed352a3b1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1107,6 +1110,11 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/db1dc7487ae2aa0fb0551e72eb159c58daac91f8)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/73f0be469c45171dddb3ca5cda6507be0af45c30)
 - [ ] [<code>Readme: update to pull from main</code>](https://github.com/elementary/icons/commit/39092cc1d511f07e1657535dc5c5546af4304f9c)
+- [ ] [<code>Cursors: fix wait position (#1277)</code>](https://github.com/elementary/icons/commit/ed562ad2f6ed2af277168dbe56194cb8a37710e2)
+- [ ] [<code>Cursors: fix zoom shadow (#1278)</code>](https://github.com/elementary/icons/commit/59db0d30751cb118e725018442dd2a9735f39cd1)
+- [ ] [<code>Release 8.0.0 (#1276)</code>](https://github.com/elementary/icons/commit/3d5dd03c505aaee68a4b2904ae0d00cbcf141e91)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1485,6 +1493,7 @@
 - [ ] [<code>Update granite.metainfo.xml.in</code>](https://github.com/elementary/granite/commit/b5dc3c44660f7a1aed6bd97dea6519b692e767c7)
 - [ ] [<code>Release 7.5.0 (#720)</code>](https://github.com/elementary/granite/commit/f190e26e1c850b3ab078357f1dcedd6e8278f61f)
   - <sub>Tags: <code>7.5.0</code></sub>
+- [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
