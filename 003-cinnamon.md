@@ -83,6 +83,8 @@
 - [ ] [<code>cs_themes: Blacklist a few more themes</code>](https://github.com/linuxmint/cinnamon/commit/7c74e737b1aa39188112e224a4d0a87733e15f77)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_themes: Blacklist adwaita-dark</code>](https://github.com/linuxmint/cinnamon/commit/b6661f62a42958b80425c63b34ad789bfa7eb3f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>user applet: Allow to display the profile picture on the panel (#12149)</code>](https://github.com/linuxmint/cinnamon/commit/f07ec245f6c7759ea381ecfa4da2791a74a1d6f5)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -96,11 +98,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/64ff87652e5fdd5f19701e93f277017c6b6ed10a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>Remove gnome-online-accounts dependency (#327)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/1dd641f3c8ab9823f71dc8e75faea1e2d2795154)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update cc-wacom-panel.c: Fix name (#331)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/90a311cba677b6bb274fc343d686aed0bd97b7a0)
 - [ ] [<code>Apply edits from Codespell (#333)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/496012ac78eb80aa6d4e02b8637d0135c415c8f9)
+- [ ] [<code>network: better default settings for cellular connections (#330)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/27c7bb213c041d015a5ea11dd4e0249a188e63ae)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -138,7 +141,9 @@
 - [ ] [<code>csm-manager.c: Stop the user dbus-daemon at the end of the session.</code>](https://github.com/linuxmint/cinnamon-session/commit/9961f98e63e7bb0b6d595a8064d50171f7e20695)
 - [ ] [<code>main.c: Reset the activation environment at the end of the</code>](https://github.com/linuxmint/cinnamon-session/commit/59acfe12959ab5739cff1d3a1bb9b733a62cca4c)
 - [ ] [<code>csm-manager.c: Unset WAYLAND_DISPLAY during shutdown in a wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/128fe7f4be184942b16be2f1dae4cc2dee3f20fc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>cinnamon-session-quit.py: add missing window icon (#170)</code>](https://github.com/linuxmint/cinnamon-session/commit/40b1a10873da3416f23026b4bb38d151aa046a0e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
@@ -174,6 +179,8 @@
 - [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-l-icons/commit/59584c19c4a33ca4304ef987fee38e661366b74a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-l-icons/commit/0fba57c23477a3a0c9052b9f050780317e082daa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add missing Flatpak app icon links</code>](https://github.com/linuxmint/mint-l-icons/commit/aede2522b3b212fc17ee935bdfa258234d1d268e)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
@@ -228,7 +235,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meta-input-settings-x11.c: Don't warn about receiving more values</code>](https://github.com/linuxmint/muffin/commit/28be83556d90fe3cfcfaa3487681d9339996ac92)
+- [ ] [<code>Fix segfault during Alt-Tab when window focus mode is either 'Sloppy' or 'Mouse' (gdb backtrace attached) (#680)</code>](https://github.com/linuxmint/muffin/commit/b15de53d7bc43dbcd0136cd7f845eb7ec9d89e6a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
@@ -340,7 +349,9 @@
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
 - [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>pdf backend: Ignore FullScreen PageMode catalog entry (#633)</code>](https://github.com/linuxmint/xreader/commit/5407f93d9328de7545537fbb9aa6a2d459e0b990)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
