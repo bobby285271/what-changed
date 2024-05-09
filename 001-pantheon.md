@@ -77,6 +77,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#267)</code>](https://github.com/elementary/camera/commit/cc2494e66854e9bb2e63a27eb70445b88c935517)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/camera/commit/9061a2175345bd7d5469025552ac0b139e303cad)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/camera/commit/504ea12cc9287ec10ca0d48f8926dd9a816b4621)
+- [ ] [<code>Flatpak: bump platform to 8.0 (#270)</code>](https://github.com/elementary/camera/commit/48eca0aa954346b2d424c4c6b44e7de6621c4ce5)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
@@ -378,6 +379,7 @@
 - [ ] [<code>Fix gettext Rust install</code>](https://github.com/elementary/videos/commit/2efdb6c919cedfb3be7c1b34d3624936821d91cc)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/videos/commit/b9512cacc0753ab1c3bcde8df4d0a41cd6e7d437)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/videos/commit/7294740b830abe3b025a514c335dc53cdbe26ca9)
+- [ ] [<code>Flatpak: bump to Platform 8 (#378)</code>](https://github.com/elementary/videos/commit/ef9407f1b885d9ce890b7ec3c83755f5ab53f2cf)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -1168,6 +1170,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Control: remove enhances plank</code>](https://github.com/elementary/default-settings/commit/0cd54b9cec8f9cee5e3dda17266f39ea63f7d4b1)
 - [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/572a6417362258c1b5c2fc6a60671a316f3a524b)
+- [ ] [<code>Skel: add Flathub to flatpak config (#306)</code>](https://github.com/elementary/default-settings/commit/a618d3cf396bcc9c26098b2eb0c1b21ee33ea539)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
