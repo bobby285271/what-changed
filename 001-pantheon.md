@@ -50,6 +50,7 @@
 - [ ] [<code>Desktop: organize, SingleMainWindow (#271)</code>](https://github.com/elementary/calculator/commit/b7d1b03ed7675d6622d036712f9fd655e8d11b63)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code> appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calculator/commit/069bab71fb9b9968f64528b9d73375b1519b76b1)
+- [ ] [<code>Flatpak: bump platform to 8 (#272)</code>](https://github.com/elementary/calculator/commit/3091325c4b845bc0c5d8edf3d547c0afe2465bb0)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -218,6 +219,7 @@
 - [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#49)</code>](https://github.com/elementary/iconbrowser/commit/8b7e9cb4b6216e221b61a8abfc71aa268b25aacd)
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/iconbrowser/commit/46cb0c3a5a5cc5ab041491837462a48fecdfbd9d)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/iconbrowser/commit/395b73521e5750367f369852cba2be7581b7b2d7)
+- [ ] [<code>Flatpak: bump platform to 8 (#51)</code>](https://github.com/elementary/iconbrowser/commit/4fc1d6732675af0247755ba3b048909e6985ab15)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -261,6 +263,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Update music.desktop.in</code>](https://github.com/elementary/music/commit/d00a6d69bc62df9fac205a98b7fe8972009b297a)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/music/commit/d55572e756112452afc6d1e503aa52da201ad7e9)
+- [ ] [<code>Flatpak: bump platform to 8.0 (#772)</code>](https://github.com/elementary/music/commit/b3284732504da8e786f8b0a4b2a9cd5fd138d199)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -306,6 +309,7 @@
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/screenshot/commit/2d4536592be70d3763e298f5d96ebd60bdb00025)
 - [ ] [<code>ScreenshotWindow: GTK 4 prep (#274)</code>](https://github.com/elementary/screenshot/commit/ea84b7bc5caa22df6fed1b4afbd7c3424d971007)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/screenshot/commit/0a328ce6f7e6381e6188e9a756a15bd55beb3833)
+- [ ] [<code>Flatpak: bump platform to 8.0 (#278)</code>](https://github.com/elementary/screenshot/commit/38e2f7e9b9679d0bf049b1f008c6a0044a4a1fa7)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -1450,50 +1454,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/da90d57c0308556636770e1b046876cf76726d7a)
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.4.0 → HEAD](https://github.com/elementary/granite/compare/7.4.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
 
-- [ ] [<code>README: Fix exec name of demo (#673)</code>](https://github.com/elementary/granite/commit/ec5fe2fbf8a6e06079f047d5313c203fad9ad80b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Replace Gtk.Widget.get_style_context deprecated in Gtk 4.10 (#672)</code>](https://github.com/elementary/granite/commit/264cdc509ebd79bcc374f3d44802434a97762e80)
-- [ ] [<code>CSSView: Update title class name label (#675)</code>](https://github.com/elementary/granite/commit/9a58858fed8283bcf74c94d3c48bb0ea4f493f4c)
-- [ ] [<code>Make granite-demo optional (#676)</code>](https://github.com/elementary/granite/commit/978d80f1e7a944fb900c54c3aff640aac869291b)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>HeaderLabel: allow secondary text to use markup (#684)</code>](https://github.com/elementary/granite/commit/ff0ddb94a72306673ba8534541c575eb8915d2c0)
-- [ ] [<code>Placeholder: resize based on parent (#678)</code>](https://github.com/elementary/granite/commit/07e9f15df07e478f991819ef383969bce29fc002)
-- [ ] [<code>DateTime: handle relative datetime when epoch (#685)</code>](https://github.com/elementary/granite/commit/b90642e220a527fab302246e3e5d37afc6cfdfa0)
-- [ ] [<code>Deprecate settings widgets (#686)</code>](https://github.com/elementary/granite/commit/90694594fc5cbe13d0181af3313fc753b734ad63)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Styles: install theme to host (#690)</code>](https://github.com/elementary/granite/commit/a31c964693129005bddc2312743835495c3f80dc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Styles: add dark variant (#688)</code>](https://github.com/elementary/granite/commit/f0c97cc7b5c245ebdf9b61d2f47b4501fc3b3c44)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Styles: add WindowControls (#689)</code>](https://github.com/elementary/granite/commit/a6080bccb44142cea9d0597cc05796c8bd5b922b)
-- [ ] [<code>Styles: add Index files in widget subfolders (#695)</code>](https://github.com/elementary/granite/commit/eb8e0d9cdc09b94f00f8af7ab152921da549fdd1)
-- [ ] [<code>Styles: add .card (#696)</code>](https://github.com/elementary/granite/commit/abe2f8b4be7ae381a37953d8ad5c63f1d439ae8e)
-- [ ] [<code>Styles: add Gtk.Spinner (#697)</code>](https://github.com/elementary/granite/commit/3bfeb2fc186a2d2a8a9d400d2a041df9eb748562)
-- [ ] [<code>Styles: add keycap styles (#699)</code>](https://github.com/elementary/granite/commit/b6414c63937a24a7f59d085e037fee6b34690a57)
-- [ ] [<code>Styles: add highlight to windows (#700)</code>](https://github.com/elementary/granite/commit/cc80a99d1bf08dd9d875c5d24c91907d8ee06569)
-- [ ] [<code>Styles: add Tooltip style (#706)</code>](https://github.com/elementary/granite/commit/ae05901aa779e0fb776969dc8432259d8757eb3f)
-- [ ] [<code>Styles: add semantic colors (#705)</code>](https://github.com/elementary/granite/commit/983619ab219e51388e3b89067934ccd62d3ee561)
-- [ ] [<code>Styles: add Popover and ModelButton styles (#707)</code>](https://github.com/elementary/granite/commit/0491f2de19ced146499aa1e76ae9313fd89ee448)
-- [ ] [<code>Styles: add scrollbar (#711)</code>](https://github.com/elementary/granite/commit/0f68ebcfd5f1ab4cf5b7af61165081fae5f2482e)
-- [ ] [<code>Demo: use paned design (#701)</code>](https://github.com/elementary/granite/commit/11e517451a34b614e064ecc554d91a02df6549cf)
-- [ ] [<code>SwitchModelButton: use box layout (#709)</code>](https://github.com/elementary/granite/commit/61f1c03f1ea1249d0e238e6a5ca35aedaf522219)
-- [ ] [<code>SwitchModelButton: make switch not focusable (#713)</code>](https://github.com/elementary/granite/commit/bde99b68b86e659ed4346af16bff6a4591fa8110)
-- [ ] [<code>Comment out GTK styles for now</code>](https://github.com/elementary/granite/commit/cf7aec2d3d355a934e5034834b681c00ad2a98c3)
-- [ ] [<code>Make the last added button have keyboard focus by default (#693)</code>](https://github.com/elementary/granite/commit/be76a056bc939a5d869ae88566df8b56e7069724)
-- [ ] [<code>Demo: make dialogs modal (#702)</code>](https://github.com/elementary/granite/commit/74787b57ccad4020e09dc56d428398fc84dc3dd5)
-- [ ] [<code>Init: Make sure to use documentation comment (#718)</code>](https://github.com/elementary/granite/commit/1291d2770b62f791d478d9b1b4caf7c585bee4a7)
-- [ ] [<code>Metainfo: Add release info for 7.5.0 (#719)</code>](https://github.com/elementary/granite/commit/2a61b4c793274b26d320a112337c2e54c3facfd0)
-- [ ] [<code>Toast: add dismiss signal with dismissal reason (#677)</code>](https://github.com/elementary/granite/commit/2858234def1534e4d5585b8912a40a088dcf84c9)
-- [ ] [<code>Demo: remove deprecated settings widgets (#698)</code>](https://github.com/elementary/granite/commit/7c895d16d38773e9ea5fafa7c3d97e5e5e87ce64)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/granite/commit/3a13c76565022a72a66677263ec53941925a5341)
-- [ ] [<code>HeaderLabel: wrap title, halign FILL (#715)</code>](https://github.com/elementary/granite/commit/3299cdaf4676d0c34ae7f4672c2950381660b4d9)
-- [ ] [<code>Update granite.metainfo.xml.in</code>](https://github.com/elementary/granite/commit/b5dc3c44660f7a1aed6bd97dea6519b692e767c7)
-- [ ] [<code>Release 7.5.0 (#720)</code>](https://github.com/elementary/granite/commit/f190e26e1c850b3ab078357f1dcedd6e8278f61f)
-  - <sub>Tags: <code>7.5.0</code></sub>
 - [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
 ## services
 
@@ -1531,6 +1493,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/capnet-assist/commit/c7b057f41c5e874598cd57e7befb723ee92355cd)
 - [ ] [<code>desktop: Add categories</code>](https://github.com/elementary/capnet-assist/commit/16546fad5d783bc83b8f87192b3191c5591039e1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Flatpak: bump platform to 8 (#119)</code>](https://github.com/elementary/capnet-assist/commit/f472a41133ee17f8f2bb7c2a9c73dec8c72a113c)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
