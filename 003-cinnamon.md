@@ -85,6 +85,12 @@
 - [ ] [<code>cs_themes: Blacklist adwaita-dark</code>](https://github.com/linuxmint/cinnamon/commit/b6661f62a42958b80425c63b34ad789bfa7eb3f2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>user applet: Allow to display the profile picture on the panel (#12149)</code>](https://github.com/linuxmint/cinnamon/commit/f07ec245f6c7759ea381ecfa4da2791a74a1d6f5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>userWidget.js: Fix AccountsService icon changes.</code>](https://github.com/linuxmint/cinnamon/commit/2ad1af435eb0d85530da02afb5e9318b8b80468f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>user@cinnamon.org: Use UserWidget.Avatar for the panel user icon.</code>](https://github.com/linuxmint/cinnamon/commit/a240864496b1c65fa7061ce313615d446d906a89)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_user.py: Use XApp.IconChooserDialog for "Browse for more...".</code>](https://github.com/linuxmint/cinnamon/commit/f1f02b6a3b02601bd9b1723d15e27da93b6002fd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -223,6 +229,39 @@
 - [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-y-icons/commit/0dab9b9e4d7b664f265a690cbe05cf540dea8326)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-y-icons/commit/5d62443cc5d06ae493aaa07e70c571333409255e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update icons of some applications</code>](https://github.com/linuxmint/mint-y-icons/commit/a8f36c7e389df54129578390a35d0dcb7bd1e827)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add new icons of some applications</code>](https://github.com/linuxmint/mint-y-icons/commit/790d93005b1c0ab3d39e4b2104f8049abacf0e3b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update VLC icon</code>](https://github.com/linuxmint/mint-y-icons/commit/29e061c65ef7fa6b7d2098047bd441257c816f9b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Pixelfed icon</code>](https://github.com/linuxmint/mint-y-icons/commit/cd78d3f52e06cc65533fb868427482a9850cecfb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Pixiv icon</code>](https://github.com/linuxmint/mint-y-icons/commit/c97bcb3afb6540e3d6a647ed785977da2a991ad9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Kotlin icon</code>](https://github.com/linuxmint/mint-y-icons/commit/d8b542d762cf7a8563d88f229433650511591dbc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Avast icon</code>](https://github.com/linuxmint/mint-y-icons/commit/227d204889bcdff983fb3074d7b1e9c86d88f2d4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Parsec icon</code>](https://github.com/linuxmint/mint-y-icons/commit/0b28332a1893803647ea86e0482a1789e8d02dbc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Matrix icon</code>](https://github.com/linuxmint/mint-y-icons/commit/587f9099c1b678428f9e2c622128a442189329aa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove "web-" prefix from the Signal icon (app has no web client)</code>](https://github.com/linuxmint/mint-y-icons/commit/5f11ab817c1fc1bbf6c4e9aea27fd859e607296a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add symbolic links for the Signal desktop app</code>](https://github.com/linuxmint/mint-y-icons/commit/d9f8057a4fda6fcc337258189ca6c48026135e9f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Element icon</code>](https://github.com/linuxmint/mint-y-icons/commit/50a5d2437bb413b1770f5d1c26e919af8f03fc48)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add the symbolic links of the new icons to the symbolic-apps-list</code>](https://github.com/linuxmint/mint-y-icons/commit/3508669ed5382b6a8ad9e1e477de8f071e0bbca7)
+- [ ] [<code>Fix symlink for gnome-tweak-tool</code>](https://github.com/linuxmint/mint-y-icons/commit/0aa750cae4b1b0bd5b7f36c42ca6dba20ea0bd8e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix symlink for obsidian</code>](https://github.com/linuxmint/mint-y-icons/commit/e7e19093706ae6ce164a78e579bdf40dc4a7ba0d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Generate missing symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/580a6bc32006321c15a76cb9f43884fbc4bb4f9e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update mendeley icon</code>](https://github.com/linuxmint/mint-y-icons/commit/daaa97f814c771cf6286b6882596a9848de8a080)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
