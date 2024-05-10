@@ -394,6 +394,9 @@
 - [ ] [<code>Improve Quick Add</code>](https://github.com/alainm23/planify/commit/c24f08a978263a504bf7fddb2432d487fa9c25dd)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1134</code>](https://github.com/alainm23/planify/commit/e3ec1b8cd1c51f562adbad1fd99bb8185f71d194)
+- [ ] [<code>Improve project due date</code>](https://github.com/alainm23/planify/commit/7fb23f9b2da36ad802feb7f38371b1bb3b238e11)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1134</code>](https://github.com/alainm23/planify/commit/8a4cee74daadf730fc2bcd37764a36ffb0130419)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
