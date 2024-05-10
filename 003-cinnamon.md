@@ -263,6 +263,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update mendeley icon</code>](https://github.com/linuxmint/mint-y-icons/commit/daaa97f814c771cf6286b6882596a9848de8a080)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Floorp icon (#410)</code>](https://github.com/linuxmint/mint-y-icons/commit/8dc2acd2f270e1ce84969d3a58899662339c3848)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Mega icon (#411)</code>](https://github.com/linuxmint/mint-y-icons/commit/d8b8652d9eeb095feb5828006d8cdb9a8fd22efb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Draw.io icon (#412)</code>](https://github.com/linuxmint/mint-y-icons/commit/eed8a8136d957dc8f6c390932ab987b442f1165b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Onlyoffice icon (#415)</code>](https://github.com/linuxmint/mint-y-icons/commit/91119abbd1bfe13c1f8493ce8fe245c2a6a44272)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
