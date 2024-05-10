@@ -165,6 +165,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/feedback/commit/faa59827ccdfb522a6f0c97102a28342137a6d13)
 - [ ] [<code>Desktop: change comment to Report a Problem (#106)</code>](https://github.com/elementary/feedback/commit/af9c635d28117e1c384c23895627ca6c28047b44)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/feedback/commit/f7fc096a2e259f6c97e846ed0baf25cb9ed0152c)
+- [ ] [<code>Metainfo: add 8 release notes (#107)</code>](https://github.com/elementary/feedback/commit/f4d49cb4f3a72fdf0c977c548ddd7baed44ce046)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -460,6 +461,9 @@
 - [ ] [<code>Don't pop pages on escape (#307)</code>](https://github.com/elementary/switchboard/commit/644e4f3a14ed5bbefdb9655d269630967cb20b40)
 - [ ] [<code>Remove ToolbarView styles (#309)</code>](https://github.com/elementary/switchboard/commit/f75ae6b1e03f8ca85a4646c85868cb0fd8c3e045)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard/commit/1d63f51d86e38f30d149a2bb3d4fe10445952d9a)
+- [ ] [<code>Appdata: add 8.0 release notes (#310)</code>](https://github.com/elementary/switchboard/commit/9c0951168f863999701b9423a2258a6bfd27f3f6)
+- [ ] [<code>Update screenshot (#313)</code>](https://github.com/elementary/switchboard/commit/e9786e248c96f9ba1eabb99c55f6905abfcfc858)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard/commit/52ddbddccd9f7e05729252b66838483fd50a5d3e)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -830,6 +834,7 @@
 - [ ] [<code>Wallpaper: replace deprecated FileChooserNative with FileDialog (#398)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d78d829960caa913c2310eaba822c0ed352a3b1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Panel: use new a11y settings key (#395)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ed9e8f6a341fdc07546bd7f129cad242d78135d5)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1572,6 +1577,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/pantheon-agent-polkit/commit/12d59ded64424ce4a0e8db8bcc9da18d97d0dc27)
+- [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6b6e41eb2f945220c86bc7f52a6a57f690182938)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
