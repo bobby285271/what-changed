@@ -402,6 +402,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1286 from owos02/master</code>](https://github.com/alainm23/planify/commit/ff1802446edcffda463778dcb44f03637bdd0e40)
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/dc8aa22fc1ee4a045b7c4974c37a20941121c758)
+- [ ] [<code>feat: fix</code>](https://github.com/alainm23/planify/commit/e6b6fd8261b53ea505e4e6625ede9490f92f9c45)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/a8899d6f913ed194ac2a8ef0991c491f3b52fd07)
+- [ ] [<code>Merge pull request #1287 from haggen88/update-spanish</code>](https://github.com/alainm23/planify/commit/46ff4b91d44a8eb412307acaaa7340a75b31a3b4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
