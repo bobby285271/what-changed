@@ -122,8 +122,9 @@
 - [ ] [<code>fix some typo spotted with codespell (#237)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94b0b125a31cb26adcf66bc1d2b58e8b31577015)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>Add a makepot script.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b554c49ba646b53548d3d43d4e7e6aeb5db87bc6)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>gnome-wall-clock.c: Update default date-time formats to adapt to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f1f82b35b48c2ebeca000caa2ef47d3b4d6b210c)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
@@ -339,6 +340,7 @@
 - [ ] [<code>nemo-action.c: Fix regression when processing desktop actions.</code>](https://github.com/linuxmint/nemo/commit/c6265707a56cbc02b75ae2315e2d37b5468e5063)
 - [ ] [<code>Set a log domain to allow restricting debug output to Nemo only.</code>](https://github.com/linuxmint/nemo/commit/0961f07b4e0476746956ee19a592361b360dae38)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-file.c: Update default date-time formats to adapt to GDateTime</code>](https://github.com/linuxmint/nemo/commit/a362848a3c3e8ae6631c1bd545d9cc1df8138e5c)
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
