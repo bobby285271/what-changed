@@ -397,6 +397,11 @@
 - [ ] [<code>Improve project due date</code>](https://github.com/alainm23/planify/commit/7fb23f9b2da36ad802feb7f38371b1bb3b238e11)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1134</code>](https://github.com/alainm23/planify/commit/8a4cee74daadf730fc2bcd37764a36ffb0130419)
+- [ ] [<code>fix for #1285</code>](https://github.com/alainm23/planify/commit/899a89eed78994f3be60112d6d694a586a4d98a9)
+- [ ] [<code>feat: add archive projects and sections</code>](https://github.com/alainm23/planify/commit/57c3a4877ea65b724f045bb315d247115dd2808a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1286 from owos02/master</code>](https://github.com/alainm23/planify/commit/ff1802446edcffda463778dcb44f03637bdd0e40)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
