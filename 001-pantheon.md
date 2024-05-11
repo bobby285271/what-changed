@@ -154,6 +154,9 @@
 - [ ] [<code>Do DBus calls asynchronously (#225)</code>](https://github.com/elementary/dock/commit/1c9573e79add3b9de3a420f86e7da61a8d0699bb)
 - [ ] [<code>Launcher: Improve bounce animation (#226)</code>](https://github.com/elementary/dock/commit/2d4ea60c1295dc626f27680fb6ca53f5cf24e0e3)
 - [ ] [<code>Launch new instance on middle click (#227)</code>](https://github.com/elementary/dock/commit/02d0fd654620faff8117b7ed8a5a125e551ca37c)
+- [ ] [<code>Add Metainfo (#233)</code>](https://github.com/elementary/dock/commit/244a2193f42c7354bb45aeafaef33a72961444c3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/dock/commit/ced705a001374bf78082310beb00889a0f50a85e)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -166,6 +169,12 @@
 - [ ] [<code>Desktop: change comment to Report a Problem (#106)</code>](https://github.com/elementary/feedback/commit/af9c635d28117e1c384c23895627ca6c28047b44)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/feedback/commit/f7fc096a2e259f6c97e846ed0baf25cb9ed0152c)
 - [ ] [<code>Metainfo: add 8 release notes (#107)</code>](https://github.com/elementary/feedback/commit/f4d49cb4f3a72fdf0c977c548ddd7baed44ce046)
+- [ ] [<code>Remove workaround for missing Dock metainfo (#109)</code>](https://github.com/elementary/feedback/commit/05cc50c349b61cc5fc280b98b42ad749c26ffc40)
+- [ ] [<code>MainWindow: Update package name of System Settings (#110)</code>](https://github.com/elementary/feedback/commit/51ba9cf27c72a73f312076f8fe396311d0f3cff2)
+- [ ] [<code>Replace Gtk.show_uri with Gtk.UriLauncher (#111)</code>](https://github.com/elementary/feedback/commit/0d6a3acb0c0dce33472bbb26a7c5676478b35eaf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/ff7e3a8607605c4d43beff570c3bdc5a71d0bb5e)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -1551,6 +1560,8 @@
 - [ ] [<code>HouseKeeping: add temp and trash options (#143)</code>](https://github.com/elementary/settings-daemon/commit/755d0f3bff38827952ddd439f0b7fe7d891ff6b0)
 - [ ] [<code>settings-portal: Do not assume GSettings availability (#144)</code>](https://github.com/elementary/settings-daemon/commit/7e6de32ccb6e82aa6d1e7585eb87fdca2f3b155f)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/settings-daemon/commit/c94c39527c6017846a8647513c91df5768775204)
+- [ ] [<code>Localize autostart.desktop (#145)</code>](https://github.com/elementary/settings-daemon/commit/88781f2fabccdf8598c494a71782610c1ee62ca4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1578,6 +1589,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/pantheon-agent-polkit/commit/12d59ded64424ce4a0e8db8bcc9da18d97d0dc27)
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6b6e41eb2f945220c86bc7f52a6a57f690182938)
+- [ ] [<code>CI: Update branch name (#80)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/004ba1f78e095df3859c18e25b2bb73552e466f0)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
