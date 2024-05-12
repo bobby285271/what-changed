@@ -364,49 +364,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [4.7 → HEAD](https://github.com/alainm23/planify/compare/4.7...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.7.2 → HEAD](https://github.com/alainm23/planify/compare/4.7.2...HEAD)
 
-- [ ] [<code>Fix view option menu indicator covering the button</code>](https://github.com/alainm23/planify/commit/57c703563357b66542971f7b84c6c0a6fa75dd82)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove inbox dynamic</code>](https://github.com/alainm23/planify/commit/8d1aaa7d233ebaf1ea3474eb7f4e7830a9491754)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1272 from Riksu9000/fix_indicator</code>](https://github.com/alainm23/planify/commit/6659323b7d11a4846d3cfe52ee8d673f03e143d9)
-- [ ] [<code>Fixed incorrect Bulgarian translations</code>](https://github.com/alainm23/planify/commit/2c06971259cdf5ebd398638f456415ef3d1cca3c)
-- [ ] [<code>Hindi translation updates.</code>](https://github.com/alainm23/planify/commit/b9e4714b2eb243b535c7fdb82a117ddea19a5c77)
-- [ ] [<code>Update Inbox Project</code>](https://github.com/alainm23/planify/commit/b123efc81b76e97c0fe75131c6f29bf483246ea5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #733 #558</code>](https://github.com/alainm23/planify/commit/3ea694da5d85dbd41ba4707b5970244ef9c3edd8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1275 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9843e759d0ab5a910b806f19f51864acb5e49ad1)
-- [ ] [<code>Merge pull request #1274 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/0e1f7ab7bc3226c73cfce79e572e606da7a2484c)
-- [ ] [<code>Fix scheduled range view</code>](https://github.com/alainm23/planify/commit/8031e2681282426071b04cbce321c07f1e3e9065)
-- [ ] [<code>Merge pull request #1279 from Riksu9000/fix-scheduled-range</code>](https://github.com/alainm23/planify/commit/58a46573dacb57273bd56391269f77d9574f6dec)
-- [ ] [<code>fix #1278</code>](https://github.com/alainm23/planify/commit/100e328894ed248913389b0700f3066412eff6da)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/cd9f799b603beff2bd1806d6fe9acefdfb90c9fb)
-- [ ] [<code>fix #1273</code>](https://github.com/alainm23/planify/commit/c57c7496d2e0b12f1fa22c08d0c3e968a3b779b9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #713</code>](https://github.com/alainm23/planify/commit/ee13401fc1e118bd4371791d1e10eac99f88b873)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: open task in sidebar</code>](https://github.com/alainm23/planify/commit/cf14b3f8ed0db62e7f50cb1be4a17dcab4b81ca4)
-- [ ] [<code>fix #1180</code>](https://github.com/alainm23/planify/commit/9e0506962b19edcee846ffbe1689940c732957e2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Improve Quick Add</code>](https://github.com/alainm23/planify/commit/c24f08a978263a504bf7fddb2432d487fa9c25dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1134</code>](https://github.com/alainm23/planify/commit/e3ec1b8cd1c51f562adbad1fd99bb8185f71d194)
-- [ ] [<code>Improve project due date</code>](https://github.com/alainm23/planify/commit/7fb23f9b2da36ad802feb7f38371b1bb3b238e11)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1134</code>](https://github.com/alainm23/planify/commit/8a4cee74daadf730fc2bcd37764a36ffb0130419)
-- [ ] [<code>fix for #1285</code>](https://github.com/alainm23/planify/commit/899a89eed78994f3be60112d6d694a586a4d98a9)
-- [ ] [<code>feat: add archive projects and sections</code>](https://github.com/alainm23/planify/commit/57c3a4877ea65b724f045bb315d247115dd2808a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1286 from owos02/master</code>](https://github.com/alainm23/planify/commit/ff1802446edcffda463778dcb44f03637bdd0e40)
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/dc8aa22fc1ee4a045b7c4974c37a20941121c758)
-- [ ] [<code>feat: fix</code>](https://github.com/alainm23/planify/commit/e6b6fd8261b53ea505e4e6625ede9490f92f9c45)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/a8899d6f913ed194ac2a8ef0991c491f3b52fd07)
-- [ ] [<code>Merge pull request #1287 from haggen88/update-spanish</code>](https://github.com/alainm23/planify/commit/46ff4b91d44a8eb412307acaaa7340a75b31a3b4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
