@@ -335,12 +335,13 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Revert "nemo-desktop: use app_id as .desktop file name (#3340)"</code>](https://github.com/linuxmint/nemo/commit/12b00c5df6e8602619d4ce7d7da9f12554b182aa)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-action.c: Fix regression when processing desktop actions.</code>](https://github.com/linuxmint/nemo/commit/c6265707a56cbc02b75ae2315e2d37b5468e5063)
 - [ ] [<code>Set a log domain to allow restricting debug output to Nemo only.</code>](https://github.com/linuxmint/nemo/commit/0961f07b4e0476746956ee19a592361b360dae38)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-file.c: Update default date-time formats to adapt to GDateTime</code>](https://github.com/linuxmint/nemo/commit/a362848a3c3e8ae6631c1bd545d9cc1df8138e5c)
+- [ ] [<code>application: Guard a new GLib log function with a version check.</code>](https://github.com/linuxmint/nemo/commit/d1d6bd6b492470143c4f7eac390cd81f3cb84310)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
