@@ -366,6 +366,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.7.2 → HEAD](https://github.com/alainm23/planify/compare/4.7.2...HEAD)
 
+- [ ] [<code>README: Refer to Planify</code>](https://github.com/alainm23/planify/commit/77191b603e37fefc8dbd2833f2e8d03dda79b39e)
+- [ ] [<code>Changed settings entry name to the actual behaviour</code>](https://github.com/alainm23/planify/commit/15fdf1a2be13d8518f26b44e33c3a1a52520b22b)
+- [ ] [<code>Hindi translation update</code>](https://github.com/alainm23/planify/commit/2e613920d3c2beb6125acff394bb862f3dd43c99)
+- [ ] [<code>fix #1291</code>](https://github.com/alainm23/planify/commit/443e005a554136494611c1199fb95a16c2340cc6)
+- [ ] [<code>Merge pull request #1294 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/bc0c140960f3242227c299fb7f3a640f9839dd7a)
+- [ ] [<code>Merge pull request #1288 from genodeftest/patch-1</code>](https://github.com/alainm23/planify/commit/504516835911676a0f71966370729eb959e0a536)
+- [ ] [<code>Merge pull request #1292 from nando-digital/fix-entry-name</code>](https://github.com/alainm23/planify/commit/6e646988819a9a1e53cf8344d77b13dbb46f023f)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
