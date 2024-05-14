@@ -1232,6 +1232,7 @@
 - [ ] [<code>Housekeeping: use elementary settings daemon (#226)</code>](https://github.com/elementary/onboarding/commit/21c51e04060a967fab0c599ae0e8b4b3884c27b6)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/onboarding/commit/0721b5c4ad5c323cdceb400ee9dfa512abcbe361)
+- [ ] [<code>Metainfo: add 8 release notes (#227)</code>](https://github.com/elementary/onboarding/commit/afd2032993a0ddb9955b1b3f2450a93bb6537a08)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1511,6 +1512,7 @@
 - [ ] [<code>desktop: Add categories</code>](https://github.com/elementary/capnet-assist/commit/16546fad5d783bc83b8f87192b3191c5591039e1)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Flatpak: bump platform to 8 (#119)</code>](https://github.com/elementary/capnet-assist/commit/f472a41133ee17f8f2bb7c2a9c73dec8c72a113c)
+- [ ] [<code>Metainfo: add 8 release notes (#120)</code>](https://github.com/elementary/capnet-assist/commit/203ab7d5c8979f7bde9df4e24b1a30f1943669a4)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
@@ -1520,6 +1522,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/notifications/commit/9572d34766015f9d11a53730dd496dc3b9ba5c08)
+- [ ] [<code>Metainfo: add notes for 8 (#225)</code>](https://github.com/elementary/notifications/commit/efcf2d290f773cafb31002a00e2f358e2be4e56b)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
