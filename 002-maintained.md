@@ -373,6 +373,10 @@
 - [ ] [<code>Merge pull request #1294 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/bc0c140960f3242227c299fb7f3a640f9839dd7a)
 - [ ] [<code>Merge pull request #1288 from genodeftest/patch-1</code>](https://github.com/alainm23/planify/commit/504516835911676a0f71966370729eb959e0a536)
 - [ ] [<code>Merge pull request #1292 from nando-digital/fix-entry-name</code>](https://github.com/alainm23/planify/commit/6e646988819a9a1e53cf8344d77b13dbb46f023f)
+- [ ] [<code>Improve Backup Page</code>](https://github.com/alainm23/planify/commit/cbec92f97f797c9417d9b80cbd1859b962fbd2cf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>valid inbox and deck projects</code>](https://github.com/alainm23/planify/commit/f21559a05032bffbf0f2e6b21523f0bb73ec4bab)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
