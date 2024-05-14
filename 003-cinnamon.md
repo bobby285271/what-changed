@@ -91,6 +91,10 @@
 - [ ] [<code>user@cinnamon.org: Use UserWidget.Avatar for the panel user icon.</code>](https://github.com/linuxmint/cinnamon/commit/a240864496b1c65fa7061ce313615d446d906a89)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_user.py: Use XApp.IconChooserDialog for "Browse for more...".</code>](https://github.com/linuxmint/cinnamon/commit/f1f02b6a3b02601bd9b1723d15e27da93b6002fd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Show information on date format syntax URL to working one (#12168)</code>](https://github.com/linuxmint/cinnamon/commit/70f3d738a7c907897cf2c37a42f206c6395b60c0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>workspace switcher: remove the workspace the cursor is hovering on middle click (#11994)</code>](https://github.com/linuxmint/cinnamon/commit/2cb9afcb71b6aac533c9a6390590e6798d690a70)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -158,10 +162,11 @@
 - [ ] [<code>test-input-helper.c: Fix printf formatting so codespell doesn't trip.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6fdaa4886ba20d16085ec4c4497ae90058e4508f)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>fix some typo spotted with codespell (#385)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fce611d2a37954b4823ae342878ad88e9f67a213)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>Fixes and readability improvements (#390)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f9372f51a404a1553a3039af4b4430d4a36e7d3)
-  - <sub>Tags: <code>master.lmde6</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>print notifications: Don't send repeated printer-added notifications.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/80974b7ad52f651842127807c82f41e417abdce0)
+- [ ] [<code>notifications manager: Fix compiler warnings.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f28727f1e7d7a916eb4f6c740bdc4ab039b6210e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
