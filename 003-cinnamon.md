@@ -95,8 +95,10 @@
 - [ ] [<code>Update Show information on date format syntax URL to working one (#12168)</code>](https://github.com/linuxmint/cinnamon/commit/70f3d738a7c907897cf2c37a42f206c6395b60c0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>workspace switcher: remove the workspace the cursor is hovering on middle click (#11994)</code>](https://github.com/linuxmint/cinnamon/commit/2cb9afcb71b6aac533c9a6390590e6798d690a70)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_keyboard.py and KeybindingWidgets.py: Add support for search by binding (#12193)</code>](https://github.com/linuxmint/cinnamon/commit/5b07b87d3b09279c34bf6f4228f0dcac10564710)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
