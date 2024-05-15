@@ -115,6 +115,7 @@
 - [ ] [<code>Update cc-wacom-panel.c: Fix name (#331)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/90a311cba677b6bb274fc343d686aed0bd97b7a0)
 - [ ] [<code>Apply edits from Codespell (#333)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/496012ac78eb80aa6d4e02b8637d0135c415c8f9)
 - [ ] [<code>network: better default settings for cellular connections (#330)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/27c7bb213c041d015a5ea11dd4e0249a188e63ae)
+- [ ] [<code>network: fix crash when adding cellular connection (#329)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4d9be8916625390d58dd624808ea599fa173db32)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
@@ -291,8 +292,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meta-input-settings-x11.c: Don't warn about receiving more values</code>](https://github.com/linuxmint/muffin/commit/28be83556d90fe3cfcfaa3487681d9339996ac92)
 - [ ] [<code>Fix segfault during Alt-Tab when window focus mode is either 'Sloppy' or 'Mouse' (gdb backtrace attached) (#680)</code>](https://github.com/linuxmint/muffin/commit/b15de53d7bc43dbcd0136cd7f845eb7ec9d89e6a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-crtc-xrandr.c: use nearest neighbor filter for integer randr scales (#692)</code>](https://github.com/linuxmint/muffin/commit/c1a29cba4de6c1b89076e9f08757c614d9565e4f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
