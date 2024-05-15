@@ -377,6 +377,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>valid inbox and deck projects</code>](https://github.com/alainm23/planify/commit/f21559a05032bffbf0f2e6b21523f0bb73ec4bab)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/94a521f1f3d0dfc435a65b59ba8f0adf5cda1877)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/5885d4724a08b2b5e83c0660035fab31d102a5aa)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
