@@ -157,6 +157,10 @@
 - [ ] [<code>Add Metainfo (#233)</code>](https://github.com/elementary/dock/commit/244a2193f42c7354bb45aeafaef33a72961444c3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/dock/commit/ced705a001374bf78082310beb00889a0f50a85e)
+- [ ] [<code>README: Add missing libadwaita-1-dev to dependencies (#235)</code>](https://github.com/elementary/dock/commit/8fdecd9a237c86711e0bbba6e1391dc774b8e6a2)
+- [ ] [<code>Remove Systemd service (#234)</code>](https://github.com/elementary/dock/commit/1c324c00faad8e29e72e6ff5fc0250ab9b9dc6f9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -222,6 +226,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Expose restore tabs on startup option (#2343)</code>](https://github.com/elementary/files/commit/41788834ba92bd20cd4f3c22ca47783e9bef4c5b)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/files/commit/339df5a1e438d66352703f44b83e56dbda9614be)
+- [ ] [<code>AbstractDirectoryView: add set as wallpaper option (#2432)</code>](https://github.com/elementary/files/commit/8bf726c5d220e296fd29f4e86d6fc8a482416349)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add 8.0 release notes (#2433)</code>](https://github.com/elementary/files/commit/812b8c393eba68e01267a7829d39d17477a95407)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -275,6 +283,10 @@
 - [ ] [<code>Update music.desktop.in</code>](https://github.com/elementary/music/commit/d00a6d69bc62df9fac205a98b7fe8972009b297a)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/music/commit/d55572e756112452afc6d1e503aa52da201ad7e9)
 - [ ] [<code>Flatpak: bump platform to 8.0 (#772)</code>](https://github.com/elementary/music/commit/b3284732504da8e786f8b0a4b2a9cd5fd138d199)
+- [ ] [<code>MainWindow: use Adw.ToolbarView (#771)</code>](https://github.com/elementary/music/commit/07d748569c022390be4a67acb6ad9b211987e027)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add music file[s] from within app (#766)</code>](https://github.com/elementary/music/commit/7ebb2bf78d7502dd017faeb04a01cce5e6a79ec9)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -398,6 +410,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#164)</code>](https://github.com/elementary/sideload/commit/b9679a1cc92def3a429d4bc4edc8b657fe3438f4)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/sideload/commit/4e62c04f4a6f11dc579ee01e4d8464c7f8f42a61)
+- [ ] [<code>Application: use Startup (#166)</code>](https://github.com/elementary/sideload/commit/734ac9ae6824b3b9bd88b79857f383b19426f67a)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -473,6 +486,7 @@
 - [ ] [<code>Appdata: add 8.0 release notes (#310)</code>](https://github.com/elementary/switchboard/commit/9c0951168f863999701b9423a2258a6bfd27f3f6)
 - [ ] [<code>Update screenshot (#313)</code>](https://github.com/elementary/switchboard/commit/e9786e248c96f9ba1eabb99c55f6905abfcfc858)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard/commit/52ddbddccd9f7e05729252b66838483fd50a5d3e)
+- [ ] [<code>CategoryView: add a big window handle (#312)</code>](https://github.com/elementary/switchboard/commit/566eee0bc1fb8a6f0722d22ac00c0455a9f354c8)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -895,6 +909,7 @@
 - [ ] [<code>Add ConnectedDevices Box (#253)</code>](https://github.com/elementary/switchboard-plug-power/commit/2c3cd0602e9856390b47c685a3996dd769e47bb0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Device: Add context for battery level strings (#266)</code>](https://github.com/elementary/switchboard-plug-power/commit/51a696728578500593e5d94aced884814eccb7f3)
+- [ ] [<code>Mainview: simpler backlight detection (#251)</code>](https://github.com/elementary/switchboard-plug-power/commit/036eeacfe8e54a21f5103240a6883580ded030d7)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -1076,6 +1091,8 @@
 - [ ] [<code>Release 8.0.0 (#1290)</code>](https://github.com/elementary/stylesheet/commit/9c713d0f4c35f80a783e5fa6845a39d977c7140c)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
+- [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
 
@@ -1219,6 +1236,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CI: bump mutter version to 14 (#723)</code>](https://github.com/elementary/greeter/commit/f4716e29e0e3ffb14d236a3cbc3e235cca768a7b)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/greeter/commit/697bfc931e43918b9df17a0550961e788bc993cc)
+- [ ] [<code>MainWindow: Use EventControllerKey (#716)</code>](https://github.com/elementary/greeter/commit/e354389aa11cf748b47da41704fc3e57618c070e)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1593,6 +1611,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/pantheon-agent-polkit/commit/12d59ded64424ce4a0e8db8bcc9da18d97d0dc27)
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6b6e41eb2f945220c86bc7f52a6a57f690182938)
 - [ ] [<code>CI: Update branch name (#80)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/004ba1f78e095df3859c18e25b2bb73552e466f0)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9bdc2e511520967437a8888d38f76f5be10a38f8)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
