@@ -97,6 +97,17 @@
 - [ ] [<code>workspace switcher: remove the workspace the cursor is hovering on middle click (#11994)</code>](https://github.com/linuxmint/cinnamon/commit/2cb9afcb71b6aac533c9a6390590e6798d690a70)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_keyboard.py and KeybindingWidgets.py: Add support for search by binding (#12193)</code>](https://github.com/linuxmint/cinnamon/commit/5b07b87d3b09279c34bf6f4228f0dcac10564710)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cornerbar applet: add shift + click actions settings (#12191)</code>](https://github.com/linuxmint/cinnamon/commit/39b659efd77818a57b9c385f43f2d8827a58561a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cornerbar: Properly filter windows not to transparentize on peek blur/opacity effects (#12169)</code>](https://github.com/linuxmint/cinnamon/commit/59cc141c33d408abf327dea3f652f5787d77a441)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>show desktop applet: Fix desktop peek (#12185)</code>](https://github.com/linuxmint/cinnamon/commit/b5f469313dfab9e6d7f660c5c6da5a594384636c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove unused js overrides (#12177)</code>](https://github.com/linuxmint/cinnamon/commit/85c0a1e80137699aae7537176ffac28328d4b041)
+- [ ] [<code>Prevent window randomization on connecting a monitor (#12144)</code>](https://github.com/linuxmint/cinnamon/commit/785b81159c52b2ba90ae145a53c6b193d931162f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Preserve file permissions of downloaded spices (#12174)</code>](https://github.com/linuxmint/cinnamon/commit/bc777c41dec360ac66063d7d98ec89d5ef59ad6d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
@@ -435,6 +446,9 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.3...HEAD)
 
+- [ ] [<code>Fix loadfile for mpv v0.38.0 (#332)</code>](https://github.com/linuxmint/hypnotix/commit/7a4293a62a3adb322d6e2c8a940fb4270d35a5fe)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
