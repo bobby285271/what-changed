@@ -44,6 +44,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Application: update copyright header</code>](https://github.com/elementary/appcenter/commit/546f8d1f68f429208dfb93cd9996a040be6ee728)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/appcenter/commit/e03d4f218d1a86f948676982589564e3c2cc4ef6)
+- [ ] [<code>Metainfo: add 8 release notes (#2145)</code>](https://github.com/elementary/appcenter/commit/2b9cfffefa889cdf396196f432ce39df2f355962)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
 
@@ -51,6 +52,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code> appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calculator/commit/069bab71fb9b9968f64528b9d73375b1519b76b1)
 - [ ] [<code>Flatpak: bump platform to 8 (#272)</code>](https://github.com/elementary/calculator/commit/3091325c4b845bc0c5d8edf3d547c0afe2465bb0)
+- [ ] [<code>Metainfo: add release notes for 8 (#273)</code>](https://github.com/elementary/calculator/commit/a3b239f89f8534cec23a514b7db2934c3fda53f9)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -67,6 +69,8 @@
 - [ ] [<code>Support online web calendar (#805)</code>](https://github.com/elementary/calendar/commit/03fc11e39c31eb4276ec59cf75dcbd6e688bfcad)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calendar/commit/f2663f6f6526a673f8744057ed4d1cab4fd75693)
+- [ ] [<code>CI: build with meson (#809)</code>](https://github.com/elementary/calendar/commit/7bc06b420251bd81f0af65b33126bb4ff71b79ab)
+- [ ] [<code>Metainfo: add release notes for 8 (#808)</code>](https://github.com/elementary/calendar/commit/0d560c6fd5b153fe4edacfb9f6dd3f6ceca65f7f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -345,6 +349,8 @@
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/tasks/commit/851f79ed3db03bfe4231f91dd293ba029a584503)
 - [ ] [<code>gschema: remove window position (#377)</code>](https://github.com/elementary/tasks/commit/66c5cb7e3d8b882879e1f7b90f00b23bf20c6388)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/tasks/commit/5cc4518b61c1f881ae523a42e6262c9006347316)
+- [ ] [<code>Create Application.css (#379)</code>](https://github.com/elementary/tasks/commit/1b592598d52b65d81f0e09ffc47c8a9b4a8971de)
+- [ ] [<code>CI: build against OS (#380)</code>](https://github.com/elementary/tasks/commit/0a42dcf073f512cf78be30d80117be9da8337fa8)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -567,6 +573,7 @@
 - [ ] [<code>PermissionStore: fail gets silently (#229)</code>](https://github.com/elementary/switchboard-plug-applications/commit/dcfa3c25a7b9417a563249c4aa38f6e82b98d6df)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-applications/commit/1cc020a1f1fd06f24f2da15f0a425bea819a09b8)
 - [ ] [<code>POTFILES: Add missing files (#231)</code>](https://github.com/elementary/switchboard-plug-applications/commit/fbe8deaa0d3e42a2b3a3d3ab000836c8dcdd9c31)
+- [ ] [<code>Icon: use Flatpak symbol (#232)</code>](https://github.com/elementary/switchboard-plug-applications/commit/70ca310184490898cdfababb4c1abafa557cacc0)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -698,6 +705,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/c25f40b0b65b6eb551f97a4c029ad4065b565c46)
 - [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#510)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/84857ac958c02879ec257241fe331d6d9787ef25)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Resource: add apps category icon (#511)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1b37c6b2bf6c17ceb21e0a48f0763dbe36751a84)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -1237,6 +1245,8 @@
 - [ ] [<code>CI: bump mutter version to 14 (#723)</code>](https://github.com/elementary/greeter/commit/f4716e29e0e3ffb14d236a3cbc3e235cca768a7b)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/greeter/commit/697bfc931e43918b9df17a0550961e788bc993cc)
 - [ ] [<code>MainWindow: Use EventControllerKey (#716)</code>](https://github.com/elementary/greeter/commit/e354389aa11cf748b47da41704fc3e57618c070e)
+- [ ] [<code>WindowManager: launch panel as subprocess (#727)</code>](https://github.com/elementary/greeter/commit/3e8daa4ad8549f4ef5c8107a388dc2671b66ff09)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
