@@ -108,8 +108,9 @@
 - [ ] [<code>Prevent window randomization on connecting a monitor (#12144)</code>](https://github.com/linuxmint/cinnamon/commit/785b81159c52b2ba90ae145a53c6b193d931162f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Preserve file permissions of downloaded spices (#12174)</code>](https://github.com/linuxmint/cinnamon/commit/bc777c41dec360ac66063d7d98ec89d5ef59ad6d)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon theme: fix expo-workspaces-name-entry (#12171)</code>](https://github.com/linuxmint/cinnamon/commit/355e459dacdddecbad8822751fbb487f38680055)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
