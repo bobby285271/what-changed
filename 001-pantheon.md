@@ -351,6 +351,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/tasks/commit/5cc4518b61c1f881ae523a42e6262c9006347316)
 - [ ] [<code>Create Application.css (#379)</code>](https://github.com/elementary/tasks/commit/1b592598d52b65d81f0e09ffc47c8a9b4a8971de)
 - [ ] [<code>CI: build against OS (#380)</code>](https://github.com/elementary/tasks/commit/0a42dcf073f512cf78be30d80117be9da8337fa8)
+- [ ] [<code>TaskRow: GTK4 Prep (#381)</code>](https://github.com/elementary/tasks/commit/04a98b74fd1504c7ade85d9422631fb911e9396c)
+- [ ] [<code>MainWindow: Gtk4 prep (#378)</code>](https://github.com/elementary/tasks/commit/a510b0c6349cd25fed55c6294d2a22da089aa250)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
