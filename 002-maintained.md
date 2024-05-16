@@ -380,6 +380,10 @@
 - [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/94a521f1f3d0dfc435a65b59ba8f0adf5cda1877)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/5885d4724a08b2b5e83c0660035fab31d102a5aa)
+- [ ] [<code>Support for libadwaita 1.5</code>](https://github.com/alainm23/planify/commit/d038c26500b22c8a1f85fde49bd7d1b37913a8f7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>remove granite styles</code>](https://github.com/alainm23/planify/commit/7acae9fa29ee8c478deec56cf8034ba6f7dd249a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
