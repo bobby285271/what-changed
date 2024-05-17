@@ -384,6 +384,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>remove granite styles</code>](https://github.com/alainm23/planify/commit/7acae9fa29ee8c478deec56cf8034ba6f7dd249a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update Chinese translations</code>](https://github.com/alainm23/planify/commit/981b9908453f2a453c284d3a82bcfb092e793db8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve css styles and quick find</code>](https://github.com/alainm23/planify/commit/e5f15461d115e0a9c2b2964b003443a7472bd1dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1298 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/3dde741247626a691b5fec4f28f8893b7cbe51ff)
+- [ ] [<code>Update ItemRow.vala</code>](https://github.com/alainm23/planify/commit/0eeb5c2bad6074e58a6ce8bc572fb682f4868f9b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
