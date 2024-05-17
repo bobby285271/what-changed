@@ -353,6 +353,9 @@
 - [ ] [<code>CI: build against OS (#380)</code>](https://github.com/elementary/tasks/commit/0a42dcf073f512cf78be30d80117be9da8337fa8)
 - [ ] [<code>TaskRow: GTK4 Prep (#381)</code>](https://github.com/elementary/tasks/commit/04a98b74fd1504c7ade85d9422631fb911e9396c)
 - [ ] [<code>MainWindow: Gtk4 prep (#378)</code>](https://github.com/elementary/tasks/commit/a510b0c6349cd25fed55c6294d2a22da089aa250)
+- [ ] [<code>TaskModel: use unowned var</code>](https://github.com/elementary/tasks/commit/94e9f9205b93023fc7ef2bb6e2bd9aef582e7e7f)
+- [ ] [<code>MainWindow: unowned refs</code>](https://github.com/elementary/tasks/commit/68bacefb467e2471d02fa0b650f188c159275de3)
+- [ ] [<code>TaskListGrid: unowned task_row</code>](https://github.com/elementary/tasks/commit/f0ab6025702d8c1f7c7c295a778358e42dcd9759)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
