@@ -1180,6 +1180,14 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/elementary/wallpapers/commit/412bcdc260a64826149d05da001106e8f4c0e84a)
 - [ ] [<code>Early Access: remove text</code>](https://github.com/elementary/wallpapers/commit/58c38e289ebad7c6fb39503760c239e0c3699ed5)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag (#182)</code>](https://github.com/elementary/wallpapers/commit/e18f2abd5025d1d99e02cb118542f25e81f4e7cf)
+- [ ] [<code>Add Peter Thomas (#184)</code>](https://github.com/elementary/wallpapers/commit/de0ca265de83191a4e66411d1cb82c59e643b29a)
+- [ ] [<code>Add A Trail of Footprints (#185)</code>](https://github.com/elementary/wallpapers/commit/d6350f6ee2fcad6581491ced51ce2b8037fdf87d)
+- [ ] [<code>Master → main</code>](https://github.com/elementary/wallpapers/commit/033bac675c309306ab09aaa64d057ff0b8aab677)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/wallpapers/commit/0ca53a2c4fe76720fd14d19c89b99758b2de9e51)
+- [ ] [<code>Change default for 8 (#187)</code>](https://github.com/elementary/wallpapers/commit/82c8d302cc2a41f91bad192f394e2c8d01e0cf48)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove Leigh Kendell (#188)</code>](https://github.com/elementary/wallpapers/commit/f7752428394f9d8def8ea1988e48280491be959b)
+- [ ] [<code>Remove Julia Craice (#189)</code>](https://github.com/elementary/wallpapers/commit/5c1d797b2994f3a6527b7e60c8a84d0f975e9ea2)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
@@ -1212,6 +1220,7 @@
 - [ ] [<code>Control: remove enhances plank</code>](https://github.com/elementary/default-settings/commit/0cd54b9cec8f9cee5e3dda17266f39ea63f7d4b1)
 - [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/572a6417362258c1b5c2fc6a60671a316f3a524b)
 - [ ] [<code>Skel: add Flathub to flatpak config (#306)</code>](https://github.com/elementary/default-settings/commit/a618d3cf396bcc9c26098b2eb0c1b21ee33ea539)
+- [ ] [<code>CI: master → main</code>](https://github.com/elementary/default-settings/commit/a089b3919c6091afa8b2cca697ffe17bd9f51a75)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1249,6 +1258,7 @@
 - [ ] [<code>MainWindow: Use EventControllerKey (#716)</code>](https://github.com/elementary/greeter/commit/e354389aa11cf748b47da41704fc3e57618c070e)
 - [ ] [<code>WindowManager: launch panel as subprocess (#727)</code>](https://github.com/elementary/greeter/commit/3e8daa4ad8549f4ef5c8107a388dc2671b66ff09)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>DateTimeWidget: GTK 4 prep (#714)</code>](https://github.com/elementary/greeter/commit/4f008371431edb9f8a2339bc486603750b2b61df)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1280,6 +1290,10 @@
 - [ ] [<code>Updated screenshot used in README (#141)</code>](https://github.com/elementary/shortcut-overlay/commit/3ab6e9ddcee868a19103beaa6b37e72c54b05c5c)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/shortcut-overlay/commit/339ff966da0372aac6f1c25d44eb0c0051599fd7)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/shortcut-overlay/commit/367b1eec37428114e40fe0f6a2b7a7d729f6b962)
+- [ ] [<code>Metainfo Improvements (#143)</code>](https://github.com/elementary/shortcut-overlay/commit/b897da59146cf9351fbd4245f10e26582057b08c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: master → main</code>](https://github.com/elementary/shortcut-overlay/commit/8ef8997d8930ad6fc80c3dbccb6c33df933b9d43)
+- [ ] [<code>Metainfo: add 8 release notes (#144)</code>](https://github.com/elementary/shortcut-overlay/commit/35613939858e929b0bb6526f62ab62d859e4d681)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
