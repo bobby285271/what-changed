@@ -110,6 +110,15 @@
 - [ ] [<code>Preserve file permissions of downloaded spices (#12174)</code>](https://github.com/linuxmint/cinnamon/commit/bc777c41dec360ac66063d7d98ec89d5ef59ad6d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cinnamon theme: fix expo-workspaces-name-entry (#12171)</code>](https://github.com/linuxmint/cinnamon/commit/355e459dacdddecbad8822751fbb487f38680055)
+- [ ] [<code>cornerbar: Port to Clutter animations (#12199)</code>](https://github.com/linuxmint/cinnamon/commit/3491b605d85ef4cfb7eb992b75185fe77deca973)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>show-desktop: Port to Clutter animations (#12200)</code>](https://github.com/linuxmint/cinnamon/commit/bf426e64ea60c87e71f383b7e20f27fe4d2d27e2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Port to Clutter animations (#12198)</code>](https://github.com/linuxmint/cinnamon/commit/35ded767b4ae742269e4ff4862e168335fe2f3b7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Adds toggle switch to on-screen-keyboard@cinnamon applet to enable/disable keyboard. (#12132)</code>](https://github.com/linuxmint/cinnamon/commit/604ff299db522eb8d5a940d84b96c2b174e78288)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>util.js: remove unused utility function latinise() (#12201)</code>](https://github.com/linuxmint/cinnamon/commit/0d6437999842c9b853dcb66f2d3566bdefd8deb9)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
@@ -209,6 +218,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add missing Flatpak app icon links</code>](https://github.com/linuxmint/mint-l-icons/commit/aede2522b3b212fc17ee935bdfa258234d1d268e)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Kotlin mimetype (#9)</code>](https://github.com/linuxmint/mint-l-icons/commit/7a3eca86a9cb21e3ce4f7750c0f265bc2c09da65)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
@@ -218,7 +229,9 @@
 - [ ] [<code>Switch to pysassc</code>](https://github.com/linuxmint/mint-themes/commit/b1dfbc54992cdcc8cb0c64e9bf5ac44d69ef9709)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>Cinnamon: Add support for the new polkit dialog (#468)</code>](https://github.com/linuxmint/mint-themes/commit/b36a70d1f848d901ca2c6348306411681d675e23)
-  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Linux Mint theme fix expo-workspaces-name-entry (#473)</code>](https://github.com/linuxmint/mint-themes/commit/de8cb8ed1967b9da8f41218e84f1c0e2b16fadd6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
 
@@ -229,6 +242,8 @@
 - [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-x-icons/commit/779b4a537688b79851b47bd6c5d1aad39969f7a3)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove dead links</code>](https://github.com/linuxmint/mint-x-icons/commit/6e4a8d29895709914d1e189e28486290e093a195)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add kotlin icons (#202)</code>](https://github.com/linuxmint/mint-x-icons/commit/285b60dad2017eaf54472a55173bdb94dc026c50)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
@@ -291,6 +306,10 @@
 - [ ] [<code>Add Draw.io icon (#412)</code>](https://github.com/linuxmint/mint-y-icons/commit/eed8a8136d957dc8f6c390932ab987b442f1165b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Onlyoffice icon (#415)</code>](https://github.com/linuxmint/mint-y-icons/commit/91119abbd1bfe13c1f8493ce8fe245c2a6a44272)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Kotlin app icon and add a mimetype icon instead (#419)</code>](https://github.com/linuxmint/mint-y-icons/commit/be1f9920eea4ca48b5857572b315fca8cb5b4fc6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Openspades icon (#414)</code>](https://github.com/linuxmint/mint-y-icons/commit/5d2f82f298d82d1c84cf3e4bb4604db523f388ac)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
@@ -468,7 +487,8 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.01.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.01.1...HEAD)
 
 - [ ] [<code>Relocated 'delete' to a safer position. (#268)</code>](https://github.com/linuxmint/timeshift/commit/081687d4e9c06c388c87b7e0a79980fab46b36fb)
-  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Added confirmation dialog on delete. (#269)</code>](https://github.com/linuxmint/timeshift/commit/e8323a02bbf42ec1c2c4f5447939ae30dd80d87a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.5 → HEAD](https://github.com/linuxmint/xed/compare/3.4.5...HEAD)
 
@@ -501,3 +521,4 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/58ee54e0291dd181feac9ad3261d023aa789bc05)
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/a97dd8d625217d9f6ba172d0e13749714cd56990)
+- [ ] [<code>Fix compiler errors related to invalid/missing type casts (#172)</code>](https://github.com/linuxmint/xplayer/commit/56839ed1c6b1690dc6d198e2184e8a4116b0d6c2)
