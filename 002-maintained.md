@@ -390,6 +390,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1298 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/3dde741247626a691b5fec4f28f8893b7cbe51ff)
 - [ ] [<code>Update ItemRow.vala</code>](https://github.com/alainm23/planify/commit/0eeb5c2bad6074e58a6ce8bc572fb682f4868f9b)
+- [ ] [<code>feat: all delete all for completed view</code>](https://github.com/alainm23/planify/commit/e79a77fbdf7e86fb3f9707aefaf5e2f1806826e1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1280</code>](https://github.com/alainm23/planify/commit/4b379815af85e5c64ad6145c335716ebeb995432)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
