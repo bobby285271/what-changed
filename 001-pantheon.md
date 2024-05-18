@@ -98,6 +98,7 @@
 - [ ] [<code>Put branch name on separate line (#1423)</code>](https://github.com/elementary/code/commit/81b4869e9a7b11a52e41ca1df634d4ada0caf907)
 - [ ] [<code>PreferencesDialog: make resizable (#1432)</code>](https://github.com/elementary/code/commit/108b09111be4958ed17e06ce9b1a1634bca4152d)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/code/commit/ee7d7f5f0b12bdc540f0e37efeca20434bef20e7)
+- [ ] [<code>Application: Localize go-to option</code>](https://github.com/elementary/code/commit/fbbfbbcc800e592699898a1bf3e502c63c4a169e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -1166,6 +1167,7 @@
 - [ ] [<code>Release 8.0.0 (#1276)</code>](https://github.com/elementary/icons/commit/3d5dd03c505aaee68a4b2904ae0d00cbcf141e91)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
