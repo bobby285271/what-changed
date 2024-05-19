@@ -363,44 +363,21 @@
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
 
-
-#### [planify](https://github.com/alainm23/planify): [4.7.2 → HEAD](https://github.com/alainm23/planify/compare/4.7.2...HEAD)
-
-- [ ] [<code>README: Refer to Planify</code>](https://github.com/alainm23/planify/commit/77191b603e37fefc8dbd2833f2e8d03dda79b39e)
-- [ ] [<code>Changed settings entry name to the actual behaviour</code>](https://github.com/alainm23/planify/commit/15fdf1a2be13d8518f26b44e33c3a1a52520b22b)
-- [ ] [<code>Hindi translation update</code>](https://github.com/alainm23/planify/commit/2e613920d3c2beb6125acff394bb862f3dd43c99)
-- [ ] [<code>fix #1291</code>](https://github.com/alainm23/planify/commit/443e005a554136494611c1199fb95a16c2340cc6)
-- [ ] [<code>Merge pull request #1294 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/bc0c140960f3242227c299fb7f3a640f9839dd7a)
-- [ ] [<code>Merge pull request #1288 from genodeftest/patch-1</code>](https://github.com/alainm23/planify/commit/504516835911676a0f71966370729eb959e0a536)
-- [ ] [<code>Merge pull request #1292 from nando-digital/fix-entry-name</code>](https://github.com/alainm23/planify/commit/6e646988819a9a1e53cf8344d77b13dbb46f023f)
-- [ ] [<code>Improve Backup Page</code>](https://github.com/alainm23/planify/commit/cbec92f97f797c9417d9b80cbd1859b962fbd2cf)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>valid inbox and deck projects</code>](https://github.com/alainm23/planify/commit/f21559a05032bffbf0f2e6b21523f0bb73ec4bab)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/94a521f1f3d0dfc435a65b59ba8f0adf5cda1877)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1201</code>](https://github.com/alainm23/planify/commit/5885d4724a08b2b5e83c0660035fab31d102a5aa)
-- [ ] [<code>Support for libadwaita 1.5</code>](https://github.com/alainm23/planify/commit/d038c26500b22c8a1f85fde49bd7d1b37913a8f7)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>remove granite styles</code>](https://github.com/alainm23/planify/commit/7acae9fa29ee8c478deec56cf8034ba6f7dd249a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update Chinese translations</code>](https://github.com/alainm23/planify/commit/981b9908453f2a453c284d3a82bcfb092e793db8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>improve css styles and quick find</code>](https://github.com/alainm23/planify/commit/e5f15461d115e0a9c2b2964b003443a7472bd1dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1298 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/3dde741247626a691b5fec4f28f8893b7cbe51ff)
-- [ ] [<code>Update ItemRow.vala</code>](https://github.com/alainm23/planify/commit/0eeb5c2bad6074e58a6ce8bc572fb682f4868f9b)
-- [ ] [<code>feat: all delete all for completed view</code>](https://github.com/alainm23/planify/commit/e79a77fbdf7e86fb3f9707aefaf5e2f1806826e1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1280</code>](https://github.com/alainm23/planify/commit/4b379815af85e5c64ad6145c335716ebeb995432)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.7.4</code>](https://github.com/alainm23/planify/commit/2aadbb2fcc62e6cffcbeae1c82d8494cb5ca6af0)
+- [ ] [<code>Update copyright headers to 2024 (#191)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2327e325241c0f57fb072c310920e58a0246d783)
+- [ ] [<code>Migrate to independent Flatpak app (#189)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f7273666559687e16e491074776b2b2a51417881)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>update deps</code>](https://github.com/alainm23/planify/commit/506d3594d77f2126029b1c1d592f830a7839a1bf)
-  - <sub>Tags: <code>4.7.4</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d9f84a78311f757e98a80519c0a0801856751c26)
+- [ ] [<code>docs: Avoid confusing phrase "system settings" (#193)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/edc9e8c2677dc18fab5df1c5d59bcf63098a89f8)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/662d6f88b495cfd828299658a6e336ba11797293)
+- [ ] [<code>Remove Debian packaging in favor of Flatpak (#195)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/492305112bd24904a74698f677a1ac3ffb82069f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Release 2.0.0 (#192)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dc9ed1c2ed387fea4d55d733f57ad89f7c38b7ed)
+  - <sub>Tags: <code>2.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
+
+#### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
+
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
