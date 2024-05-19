@@ -872,6 +872,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Panel: use new a11y settings key (#395)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ed9e8f6a341fdc07546bd7f129cad242d78135d5)
+- [ ] [<code>Appearance: use current wallpaper on light/dark preview (#399)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/830df2442b6a2b82b9b7e442c6f4f7e83c7529eb)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Move dim wallpaper setting to appearance (#401)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d0d87b62a868b86d0dad3fec34d5e4d19731d4fe)
+- [ ] [<code>Use SettingsPage and SettingsSidebar (#400)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9f6fe851eae19f55223f937bc34790b824ddfc0e)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
