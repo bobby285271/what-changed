@@ -394,6 +394,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1280</code>](https://github.com/alainm23/planify/commit/4b379815af85e5c64ad6145c335716ebeb995432)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.7.4</code>](https://github.com/alainm23/planify/commit/2aadbb2fcc62e6cffcbeae1c82d8494cb5ca6af0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update deps</code>](https://github.com/alainm23/planify/commit/506d3594d77f2126029b1c1d592f830a7839a1bf)
+  - <sub>Tags: <code>4.7.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
