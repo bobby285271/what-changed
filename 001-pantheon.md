@@ -876,6 +876,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Move dim wallpaper setting to appearance (#401)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d0d87b62a868b86d0dad3fec34d5e4d19731d4fe)
 - [ ] [<code>Use SettingsPage and SettingsSidebar (#400)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9f6fe851eae19f55223f937bc34790b824ddfc0e)
+- [ ] [<code>Appearance: clean up redundant labels (#402)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d55c6993d3295dd8e181a6a52910c634a3f825e)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1268,6 +1269,7 @@
 - [ ] [<code>WindowManager: launch panel as subprocess (#727)</code>](https://github.com/elementary/greeter/commit/3e8daa4ad8549f4ef5c8107a388dc2671b66ff09)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>DateTimeWidget: GTK 4 prep (#714)</code>](https://github.com/elementary/greeter/commit/4f008371431edb9f8a2339bc486603750b2b61df)
+- [ ] [<code>Make datetime widget larger (#729)</code>](https://github.com/elementary/greeter/commit/da0c19b6be4852fae388046cf255c388637c1bed)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
