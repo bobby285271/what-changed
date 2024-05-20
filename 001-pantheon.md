@@ -423,6 +423,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#164)</code>](https://github.com/elementary/sideload/commit/b9679a1cc92def3a429d4bc4edc8b657fe3438f4)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/sideload/commit/4e62c04f4a6f11dc579ee01e4d8464c7f8f42a61)
 - [ ] [<code>Application: use Startup (#166)</code>](https://github.com/elementary/sideload/commit/734ac9ae6824b3b9bd88b79857f383b19426f67a)
+- [ ] [<code>MainWindow: fix Gtk.StyleContext deprecation warning (#165)</code>](https://github.com/elementary/sideload/commit/b269e441262940bc045b15243af78f977420bcda)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -499,6 +500,7 @@
 - [ ] [<code>Update screenshot (#313)</code>](https://github.com/elementary/switchboard/commit/e9786e248c96f9ba1eabb99c55f6905abfcfc858)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard/commit/52ddbddccd9f7e05729252b66838483fd50a5d3e)
 - [ ] [<code>CategoryView: add a big window handle (#312)</code>](https://github.com/elementary/switchboard/commit/566eee0bc1fb8a6f0722d22ac00c0455a9f354c8)
+- [ ] [<code>SettingsPage: use a header clamp, not sizegroup (#308)</code>](https://github.com/elementary/switchboard/commit/829249f3d76bc511d14429c07a955b3b496a1e24)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -779,6 +781,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#399)</code>](https://github.com/elementary/switchboard-plug-network/commit/16ea3e892edb7bfad806bd7138d55801ff72e119)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Pages set status (#398)</code>](https://github.com/elementary/switchboard-plug-network/commit/26581d8f86708f594083d321fc03b0cb22568f8c)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -1578,6 +1581,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/notifications/commit/9572d34766015f9d11a53730dd496dc3b9ba5c08)
 - [ ] [<code>Metainfo: add notes for 8 (#225)</code>](https://github.com/elementary/notifications/commit/efcf2d290f773cafb31002a00e2f358e2be4e56b)
+- [ ] [<code>Bubble: use overlay.child (#229)</code>](https://github.com/elementary/notifications/commit/48d439bf562b26fa05fb884e3bb524cde937c599)
+- [ ] [<code>AbstractBubble: set margin in CSS (#228)</code>](https://github.com/elementary/notifications/commit/fdca75190a1c343361e1b03d37f0129aab1439bb)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
