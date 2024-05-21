@@ -119,7 +119,11 @@
 - [ ] [<code>Adds toggle switch to on-screen-keyboard@cinnamon applet to enable/disable keyboard. (#12132)</code>](https://github.com/linuxmint/cinnamon/commit/604ff299db522eb8d5a940d84b96c2b174e78288)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>util.js: remove unused utility function latinise() (#12201)</code>](https://github.com/linuxmint/cinnamon/commit/0d6437999842c9b853dcb66f2d3566bdefd8deb9)
+- [ ] [<code>userWidget: Back to using the theme to load the face image.</code>](https://github.com/linuxmint/cinnamon/commit/f4fd0244c13793ed48228698d7ed2576c39798a9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>user applet: handle the symbolic panel icon correctly.</code>](https://github.com/linuxmint/cinnamon/commit/a4ddc1722cf3a4fcd593923c5ed63a268996698a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -230,8 +234,9 @@
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>Cinnamon: Add support for the new polkit dialog (#468)</code>](https://github.com/linuxmint/mint-themes/commit/b36a70d1f848d901ca2c6348306411681d675e23)
 - [ ] [<code>Linux Mint theme fix expo-workspaces-name-entry (#473)</code>](https://github.com/linuxmint/mint-themes/commit/de8cb8ed1967b9da8f41218e84f1c0e2b16fadd6)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon: Add support for the new rounded userWidget</code>](https://github.com/linuxmint/mint-themes/commit/654ec9d2c77886e3998a596d9cc13426aba420f3)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
 
