@@ -378,6 +378,12 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
+- [ ] [<code>Hindi translation updates</code>](https://github.com/alainm23/planify/commit/748c11e0f7282ca5b76afd410aae17f463f626c7)
+- [ ] [<code>fix #1304 #1299</code>](https://github.com/alainm23/planify/commit/ac8afec771b6e1d9689436fec3e7147f5715f8b5)
+- [ ] [<code>fix #1300</code>](https://github.com/alainm23/planify/commit/f0a2bdc9e29f0225156239bf492fae1c5e980bbb)
+- [ ] [<code>Merge pull request #1301 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/dc37222d4097f6fc7f30ee795e9945be26369396)
+- [ ] [<code>Release 4.7.6</code>](https://github.com/alainm23/planify/commit/72ae6d16d905b80fdd23f8b5569b9a9fa4a88f8f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
