@@ -292,6 +292,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add music file[s] from within app (#766)</code>](https://github.com/elementary/music/commit/7ebb2bf78d7502dd017faeb04a01cce5e6a79ec9)
+- [ ] [<code>Metainfo: add 8 release notes (#773)</code>](https://github.com/elementary/music/commit/6643e167aaf9106b8f1e6f4803eafa1e9fd3ef79)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
 
@@ -424,6 +425,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/sideload/commit/4e62c04f4a6f11dc579ee01e4d8464c7f8f42a61)
 - [ ] [<code>Application: use Startup (#166)</code>](https://github.com/elementary/sideload/commit/734ac9ae6824b3b9bd88b79857f383b19426f67a)
 - [ ] [<code>MainWindow: fix Gtk.StyleContext deprecation warning (#165)</code>](https://github.com/elementary/sideload/commit/b269e441262940bc045b15243af78f977420bcda)
+- [ ] [<code>CI: master → main</code>](https://github.com/elementary/sideload/commit/980654669a17d88f5adee8a26f28f3a863743b4f)
+- [ ] [<code>Metainfo: add 6.2.2 release notes (#167)</code>](https://github.com/elementary/sideload/commit/f78600745e484a73e709fa101ae23ebbae7dfe68)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -1273,6 +1276,8 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>DateTimeWidget: GTK 4 prep (#714)</code>](https://github.com/elementary/greeter/commit/4f008371431edb9f8a2339bc486603750b2b61df)
 - [ ] [<code>Make datetime widget larger (#729)</code>](https://github.com/elementary/greeter/commit/da0c19b6be4852fae388046cf255c388637c1bed)
+- [ ] [<code>Make the compositor be the first program to launch (#726)</code>](https://github.com/elementary/greeter/commit/654011886d403799eca5bb559864819c6b8b38d3)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
