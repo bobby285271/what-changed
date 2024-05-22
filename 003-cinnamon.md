@@ -445,6 +445,7 @@
 - [ ] [<code>Add new gsettings keys for xdg Settings portal v2.</code>](https://github.com/linuxmint/xapp/commit/a7d8a1c833970ecc203837568506087b950d65da)
 - [ ] [<code>gsettings: Fix a default value.</code>](https://github.com/linuxmint/xapp/commit/95c24d900f795a37614b893107a490dff2007c19)
 - [ ] [<code>Remove accent-rgb setting</code>](https://github.com/linuxmint/xapp/commit/6b6e78de8d57f86bd81e29be995d677415b23938)
+- [ ] [<code>xapp-icon-chooser-dialog.c: Fix mimetype test for browsed images.</code>](https://github.com/linuxmint/xapp/commit/85310bff461d260fe89586f001d01d3eabb720e2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
