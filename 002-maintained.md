@@ -375,6 +375,10 @@
 - [ ] [<code>Release 2.0.0 (#192)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dc9ed1c2ed387fea4d55d733f57ad89f7c38b7ed)
   - <sub>Tags: <code>2.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Apply suggested changes from Flathub maintainers (#197)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7a699b3bfa951c680d485907410ffa50ad643374)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use ~ instead of "home" (#199)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cdcfd0b05421bb8f8921d5b540a695ce61bf014d)
+- [ ] [<code>DestinationButton: Fix double error dialog when directory creation failed (#200)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/865182d1afa79b7a3410232d3bce7e742f57614e)
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
