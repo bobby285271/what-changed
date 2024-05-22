@@ -244,6 +244,8 @@
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/iconbrowser/commit/46cb0c3a5a5cc5ab041491837462a48fecdfbd9d)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/iconbrowser/commit/395b73521e5750367f369852cba2be7581b7b2d7)
 - [ ] [<code>Flatpak: bump platform to 8 (#51)</code>](https://github.com/elementary/iconbrowser/commit/4fc1d6732675af0247755ba3b048909e6985ab15)
+- [ ] [<code>CategoryView: update list with additions and removals for platform 8 (#53)</code>](https://github.com/elementary/iconbrowser/commit/3a9373c51b4705d10198e9573ec224697ebc35d9)
+- [ ] [<code>Metainfo: add 8 release notes (#52)</code>](https://github.com/elementary/iconbrowser/commit/2cce829672d843b8836f4e3f53ae9ee11214cf28)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
@@ -271,6 +273,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/mail/commit/fd34e37b25c22ad3780f023f6e844cff28e84089)
+- [ ] [<code>update list of dependencies in README (#986)</code>](https://github.com/elementary/mail/commit/aad3bfe0298ddbfd5761781f4e9219169a6c92fd)
+- [ ] [<code>CI: build against OS (#989)</code>](https://github.com/elementary/mail/commit/15e8a4d87c454585a40e2bdaf0c70843a0891c88)
+- [ ] [<code>Metainfo: add release notes for 8 (#988)</code>](https://github.com/elementary/mail/commit/85bd516b5acd2adfc15d431a4ac53cf808e9bee3)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -339,6 +344,7 @@
 - [ ] [<code>ScreenshotWindow: GTK 4 prep (#274)</code>](https://github.com/elementary/screenshot/commit/ea84b7bc5caa22df6fed1b4afbd7c3424d971007)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/screenshot/commit/0a328ce6f7e6381e6188e9a756a15bd55beb3833)
 - [ ] [<code>Flatpak: bump platform to 8.0 (#278)</code>](https://github.com/elementary/screenshot/commit/38e2f7e9b9679d0bf049b1f008c6a0044a4a1fa7)
+- [ ] [<code>Metainfo: add 8 release notes (#279)</code>](https://github.com/elementary/screenshot/commit/46945f2f83d211a863795b41bf0269ed8fb264a1)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -1425,6 +1431,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>wayland: Fix wingpanel breaking everything (#527)</code>](https://github.com/elementary/wingpanel/commit/4dd9990d3d17aef391767fb5240fde9a20ca8a57)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel/commit/d00d48c62f6baa5e1a66756b55ff8b9ea74a9485)
+- [ ] [<code>FocusManager: Make sure to never reuse a freed Window (#532)</code>](https://github.com/elementary/wingpanel/commit/a3dcd33edfcec50c8cac17583077bef60e5b2016)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel/commit/a4b9e9b942c0f08f30b23f8855152ec1e37e1bd2)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
