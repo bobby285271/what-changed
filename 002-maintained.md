@@ -379,6 +379,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Use ~ instead of "home" (#199)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cdcfd0b05421bb8f8921d5b540a695ce61bf014d)
 - [ ] [<code>DestinationButton: Fix double error dialog when directory creation failed (#200)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/865182d1afa79b7a3410232d3bce7e742f57614e)
+- [ ] [<code>Release 2.0.1 (#201)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f9364a6d616795c3aa9595f71ebf9f3baefe5957)
+  - <sub>Tags: <code>2.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use ~/.config instead of xdg-config</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b5dfd312353e72d6a8bbb8a2eaeed5c098e6f27e)
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
