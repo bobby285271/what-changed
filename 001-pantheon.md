@@ -431,6 +431,9 @@
 - [ ] [<code>PlayerPage: fix aspect ratio (#380)</code>](https://github.com/elementary/videos/commit/f89d775bac24525985676627dad20196bfa9d448)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MediaControls: minimal transparent style (#362)</code>](https://github.com/elementary/videos/commit/73b186abf4c412e49185932440c9ad523be7e26c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
