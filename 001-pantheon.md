@@ -166,6 +166,8 @@
 - [ ] [<code>Remove Systemd service (#234)</code>](https://github.com/elementary/dock/commit/1c324c00faad8e29e72e6ff5fc0250ab9b9dc6f9)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add Switcheroo support (#228)</code>](https://github.com/elementary/dock/commit/317ae5e4820ab9d61618356ac2268e0676a771d9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -329,6 +331,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/photos/commit/d4b7192d937269f85fe2472a97e0cd6243bca676)
+- [ ] [<code>Modernize metainfo (#757)</code>](https://github.com/elementary/photos/commit/427f21d4fb31f9b5566d9456111170d928ce1a22)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#758)</code>](https://github.com/elementary/photos/commit/60d65768b506018fe48900e07690af178b843a04)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -421,6 +426,11 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/videos/commit/b9512cacc0753ab1c3bcde8df4d0a41cd6e7d437)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/videos/commit/7294740b830abe3b025a514c335dc53cdbe26ca9)
 - [ ] [<code>Flatpak: bump to Platform 8 (#378)</code>](https://github.com/elementary/videos/commit/ef9407f1b885d9ce890b7ec3c83755f5ab53f2cf)
+- [ ] [<code>Metainfo: add 8 release notes (#379)</code>](https://github.com/elementary/videos/commit/a2b5d6d3ab3ad1f98288b425b21d6ef93c68cee6)
+- [ ] [<code>LibraryItem: use rounded corners (#384)</code>](https://github.com/elementary/videos/commit/382a0fc0e1e83d5cfd9ec017a548daa7f8a0afc7)
+- [ ] [<code>PlayerPage: fix aspect ratio (#380)</code>](https://github.com/elementary/videos/commit/f89d775bac24525985676627dad20196bfa9d448)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -1284,6 +1294,7 @@
 - [ ] [<code>Make datetime widget larger (#729)</code>](https://github.com/elementary/greeter/commit/da0c19b6be4852fae388046cf255c388637c1bed)
 - [ ] [<code>Make the compositor be the first program to launch (#726)</code>](https://github.com/elementary/greeter/commit/654011886d403799eca5bb559864819c6b8b38d3)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#730)</code>](https://github.com/elementary/greeter/commit/79297a2fec537eb0baba99d018a225ecf0624ace)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
