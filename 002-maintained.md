@@ -361,28 +361,13 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [1.1.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/1.1.2...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.0.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.0.1...HEAD)
 
-- [ ] [<code>Update copyright headers to 2024 (#191)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2327e325241c0f57fb072c310920e58a0246d783)
-- [ ] [<code>Migrate to independent Flatpak app (#189)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f7273666559687e16e491074776b2b2a51417881)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d9f84a78311f757e98a80519c0a0801856751c26)
-- [ ] [<code>docs: Avoid confusing phrase "system settings" (#193)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/edc9e8c2677dc18fab5df1c5d59bcf63098a89f8)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/662d6f88b495cfd828299658a6e336ba11797293)
-- [ ] [<code>Remove Debian packaging in favor of Flatpak (#195)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/492305112bd24904a74698f677a1ac3ffb82069f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Release 2.0.0 (#192)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dc9ed1c2ed387fea4d55d733f57ad89f7c38b7ed)
-  - <sub>Tags: <code>2.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Apply suggested changes from Flathub maintainers (#197)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7a699b3bfa951c680d485907410ffa50ad643374)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Use ~ instead of "home" (#199)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cdcfd0b05421bb8f8921d5b540a695ce61bf014d)
-- [ ] [<code>DestinationButton: Fix double error dialog when directory creation failed (#200)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/865182d1afa79b7a3410232d3bce7e742f57614e)
-- [ ] [<code>Release 2.0.1 (#201)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f9364a6d616795c3aa9595f71ebf9f3baefe5957)
-  - <sub>Tags: <code>2.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use ~/.config instead of xdg-config</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b5dfd312353e72d6a8bbb8a2eaeed5c098e6f27e)
+- [ ] [<code>Show unsupported DE graphically (#202)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5fc58c832e8896da7904fbb2f980b77799c4e405)
+- [ ] [<code>Release 2.0.2 (#203)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c06cccc3fe33127add859ddac2a804f75365f8eb)
+  - <sub>Tags: <code>2.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
