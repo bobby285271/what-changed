@@ -320,6 +320,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>4 icons Tidal Deezer Vimeo and Gog (#421)</code>](https://github.com/linuxmint/mint-y-icons/commit/508275d2d78a63216307e17a84193e54807ddc63)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add X icon (#422)</code>](https://github.com/linuxmint/mint-y-icons/commit/8fcd039fb52b3bcbb3654f5d6a99d21642d018a1)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
@@ -335,6 +337,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-crtc-xrandr.c: use nearest neighbor filter for integer randr scales (#692)</code>](https://github.com/linuxmint/muffin/commit/c1a29cba4de6c1b89076e9f08757c614d9565e4f)
 - [ ] [<code>meta-monitor-manager-xrandr.c: DeleteMonitor before SetMonitor (#693)</code>](https://github.com/linuxmint/muffin/commit/199284c71b0982f9f4bb506d78bf30eeb8141572)
+- [ ] [<code>meta-monitor-manager-xrandr.c: fix crtc disabling</code>](https://github.com/linuxmint/muffin/commit/c5220267b46f309e37ed7e3245816573a8caf828)
+- [ ] [<code>meta-monitor-manager-xrandr.c: fix screen size</code>](https://github.com/linuxmint/muffin/commit/c0ddf33bb25fcb3b075de1b5a2e50e561bfc44e6)
+- [ ] [<code>meta-monitor-manager-xrandr.c: screen size fixes</code>](https://github.com/linuxmint/muffin/commit/567ca4baa1b4ae10d80f758b3dc782b9a260eef9)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
@@ -430,6 +435,7 @@
 - [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/warpinator/commit/3a0610f449f909a8da965b349a053ce985034da1)
 - [ ] [<code>warpinator-launch.py: Catch a potential error in landlock check.</code>](https://github.com/linuxmint/warpinator/commit/4bb54c7c2863f0d6eb8d63569fbae4951768b5aa)
 - [ ] [<code>src/transfers.py: Follow toplevel symbolic links when gathering</code>](https://github.com/linuxmint/warpinator/commit/6a1101cf61e096591309d65339c4cceb672d6b60)
+- [ ] [<code>Remove iOS links (#204)</code>](https://github.com/linuxmint/warpinator/commit/de3cbde98702e8bac9691175f0b972bea635b256)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
