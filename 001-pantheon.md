@@ -53,6 +53,10 @@
 - [ ] [<code> appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calculator/commit/069bab71fb9b9968f64528b9d73375b1519b76b1)
 - [ ] [<code>Flatpak: bump platform to 8 (#272)</code>](https://github.com/elementary/calculator/commit/3091325c4b845bc0c5d8edf3d547c0afe2465bb0)
 - [ ] [<code>Metainfo: add release notes for 8 (#273)</code>](https://github.com/elementary/calculator/commit/a3b239f89f8534cec23a514b7db2934c3fda53f9)
+- [ ] [<code>Release 8.0.0 (#274)</code>](https://github.com/elementary/calculator/commit/1b9ed3b626d03cd14c06d53daac7070c6a69ad59)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
 
@@ -523,6 +527,9 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard/commit/52ddbddccd9f7e05729252b66838483fd50a5d3e)
 - [ ] [<code>CategoryView: add a big window handle (#312)</code>](https://github.com/elementary/switchboard/commit/566eee0bc1fb8a6f0722d22ac00c0455a9f354c8)
 - [ ] [<code>SettingsPage: use a header clamp, not sizegroup (#308)</code>](https://github.com/elementary/switchboard/commit/829249f3d76bc511d14429c07a955b3b496a1e24)
+- [ ] [<code>Release 8.0.0 (#311)</code>](https://github.com/elementary/switchboard/commit/540830bf5a1e4881d10a5d15aae123aaa9e9f7de)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -636,6 +643,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e22627e924312261611760c458a6ee5495d39549)
+- [ ] [<code>Metainfo: add release notes for 8 (#220)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/9ee32820c8e1b0210106e905e8d3620984307cbd)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2d915b3bff64de5670b5bac1876dd843500eaf82)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -831,6 +840,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppSettingsView: Fix initial switch toggle position (#104)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/503d0fcd4a3532a857b796a2e44f8ed631e38cd3)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-notifications/commit/0b6188e1b4bc483a7fd5b5192b548e27de4b2970)
+- [ ] [<code>Modernize metainfo (#105)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1657fbf683151aff592e291895b8bad80fbb79dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#106)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/cf370d9d0562cd6a64d878b11a560e1badfe68e8)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -1109,32 +1121,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [7.3.0 → HEAD](https://github.com/elementary/stylesheet/compare/7.3.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.0.0...HEAD)
 
-- [ ] [<code>Remove styles covered by Granite (#1277)</code>](https://github.com/elementary/stylesheet/commit/ece44ba503279ad81316a29f0f5386a37728ed3f)
-- [ ] [<code>Fix destructive menuitem</code>](https://github.com/elementary/stylesheet/commit/e1b9d7ea749c9c697cfba9882285ade443b13b61)
-- [ ] [<code>make suggested extend default</code>](https://github.com/elementary/stylesheet/commit/e134f65aed74af95253a114508adc21de697b2bd)
-- [ ] [<code>Revert making deault same as suggested action</code>](https://github.com/elementary/stylesheet/commit/db6eb6dc8b01cb23b18f0213470524890575bd18)
-- [ ] [<code>Infobars: fix busted sizing with buttons</code>](https://github.com/elementary/stylesheet/commit/5cb40d3cc592bb29b65cb9ca92d7b08fd0b8041f)
-- [ ] [<code>Fix copy/paste error for warning icon color</code>](https://github.com/elementary/stylesheet/commit/01fc4d283a73a9af52be5374939997c9f9f65521)
-- [ ] [<code>master → main</code>](https://github.com/elementary/stylesheet/commit/eee70bbe36bd2b2e970d5a6c5930e280631fec15)
-- [ ] [<code>Revert removing back-button style</code>](https://github.com/elementary/stylesheet/commit/a6c912c69abd48b29b47cb3cf6f32cf7df2055bf)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#1281)</code>](https://github.com/elementary/stylesheet/commit/3532aae046e3b5809ba34d4b48d28102c89c4596)
-- [ ] [<code>Scrollbars: don't force popover height</code>](https://github.com/elementary/stylesheet/commit/dc443d372223e423279ac8e08e7fc0099eeb359d)
-- [ ] [<code>Windows: hand over window styles to Granite (#1280)</code>](https://github.com/elementary/stylesheet/commit/e21b78973719f4ae8d144a606e8df71bb3cc1ffe)
-- [ ] [<code>Revert "Windows: hand over window styles to Granite" (#1283)</code>](https://github.com/elementary/stylesheet/commit/d2703d3063077118b56a9e3ce0bc9b66f5c0372e)
-- [ ] [<code>WindowControls: Copy styles from Granite</code>](https://github.com/elementary/stylesheet/commit/76a1115cb651208b055bd10f217e71918f492bd6)
-- [ ] [<code>Remove Settings widgets (#1279)</code>](https://github.com/elementary/stylesheet/commit/345d92ee8a563500bf5475363a567edd8ce1e9e3)
-- [ ] [<code>Support Adw.ToolbarView (#1284)</code>](https://github.com/elementary/stylesheet/commit/8c229c8e943816b76a1cff26e14c63f3048c54fe)
-- [ ] [<code>ToolbarView: make tabbars flat (#1286)</code>](https://github.com/elementary/stylesheet/commit/f23ee7ebd676891a3151665b50adb775e3d621e7)
-- [ ] [<code>Views: style gridview child (#1287)</code>](https://github.com/elementary/stylesheet/commit/9381ff22de260ee0d013a2ce976fe2668179070c)
-- [ ] [<code>Adw: add Toast (#1288)</code>](https://github.com/elementary/stylesheet/commit/342bd817b8c15c65d0c48224d236fd3866afc5f3)
-- [ ] [<code>Fix pressed windowcontrols</code>](https://github.com/elementary/stylesheet/commit/ad8f0dd460b2745c1a27683ba369b049edaa460b)
-- [ ] [<code>Metainfo: add release info for 8 (#1289)</code>](https://github.com/elementary/stylesheet/commit/560e937cee00949930baa8ba3ad06c03382e3d7a)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/stylesheet/commit/ed46be29894b7934b9acd2adff2e742edac26f6a)
-- [ ] [<code>Release 8.0.0 (#1290)</code>](https://github.com/elementary/stylesheet/commit/9c713d0f4c35f80a783e5fa6845a39d977c7140c)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
 - [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
 
@@ -1681,6 +1669,10 @@
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6b6e41eb2f945220c86bc7f52a6a57f690182938)
 - [ ] [<code>CI: Update branch name (#80)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/004ba1f78e095df3859c18e25b2bb73552e466f0)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9bdc2e511520967437a8888d38f76f5be10a38f8)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/c58abf29f7f13e2e8dddc4f4e1f80fd65560a942)
+- [ ] [<code>Release 8.0.0 (#79)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0809b756a64e89c07f368a3996800d099cb41ee3)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
