@@ -46,16 +46,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/appcenter/commit/e03d4f218d1a86f948676982589564e3c2cc4ef6)
 - [ ] [<code>Metainfo: add 8 release notes (#2145)</code>](https://github.com/elementary/appcenter/commit/2b9cfffefa889cdf396196f432ce39df2f355962)
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [2.0.3 → HEAD](https://github.com/elementary/calculator/compare/2.0.3...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
-- [ ] [<code>Desktop: organize, SingleMainWindow (#271)</code>](https://github.com/elementary/calculator/commit/b7d1b03ed7675d6622d036712f9fd655e8d11b63)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code> appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calculator/commit/069bab71fb9b9968f64528b9d73375b1519b76b1)
-- [ ] [<code>Flatpak: bump platform to 8 (#272)</code>](https://github.com/elementary/calculator/commit/3091325c4b845bc0c5d8edf3d547c0afe2465bb0)
-- [ ] [<code>Metainfo: add release notes for 8 (#273)</code>](https://github.com/elementary/calculator/commit/a3b239f89f8534cec23a514b7db2934c3fda53f9)
-- [ ] [<code>Release 8.0.0 (#274)</code>](https://github.com/elementary/calculator/commit/1b9ed3b626d03cd14c06d53daac7070c6a69ad59)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
@@ -172,6 +164,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add Switcheroo support (#228)</code>](https://github.com/elementary/dock/commit/317ae5e4820ab9d61618356ac2268e0676a771d9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use wayland protocol for positioning  (#240)</code>](https://github.com/elementary/dock/commit/cc916393b0045f2c9c722427902014dd4a5f9f6c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/dock/commit/967aaa110557537b7e8c92f47b7f5360656df88b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -1126,65 +1122,8 @@
 - [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
 - [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [7.3.1 → HEAD](https://github.com/elementary/icons/compare/7.3.1...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#1229)</code>](https://github.com/elementary/icons/commit/0e5bc62b1471e2d7635d3b6cb75a6bbcfc72b0a4)
-- [ ] [<code>Categories: Use bell for notification settings (#1234)</code>](https://github.com/elementary/icons/commit/460609dbe3beef775a95d80b464ae7465198a53d)
-- [ ] [<code>Actions: New document-save icon (#1230)</code>](https://github.com/elementary/icons/commit/452ee49d8a6ad2d043867e1fc31dbd6bf63965e5)
-- [ ] [<code>Actions: Grid-align some symbolic icons (#1231)</code>](https://github.com/elementary/icons/commit/c4b7a2442708787acd75499d2fe3144fb82a35c9)
-- [ ] [<code>Add media-eject-symbolic 24px (#1225)</code>](https://github.com/elementary/icons/commit/edd4e3d0a42bb599c208f5a016da0598d9093d44)
-- [ ] [<code>Actions: Horizontally center media-playback-start (#1233)</code>](https://github.com/elementary/icons/commit/baffa57c2ddaad3609c46c18667d1cc3a8dd58a5)
-- [ ] [<code>Actions: Add 32px document-import/export (#1228)</code>](https://github.com/elementary/icons/commit/efad285d93caffc2715ce1f561da92b0abff1ab1)
-- [ ] [<code>Devices: clean up 128 drive-harddisk (#1224)</code>](https://github.com/elementary/icons/commit/906e4da3948355891a657c0a3d003386b1b72405)
-- [ ] [<code>Categories: redesign preferences-system (#1237)</code>](https://github.com/elementary/icons/commit/09eed4371442ca41904cd6a3cbbe99a54e37bcf5)
-- [ ] [<code>Status: halign checkmark on 32px process-completed (#1239)</code>](https://github.com/elementary/icons/commit/c96d553a9ede92d5ee50e3285cefd93948c50617)
-- [ ] [<code>Filetypes: link application-x-java-archive to package-x-generic (#1241)</code>](https://github.com/elementary/icons/commit/f90c77f92c5d95226809a1734dec09ddb3a592d6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Status: remove bluetooth indicator icons (#1192)</code>](https://github.com/elementary/icons/commit/302d5e4a644127b3e53ed36ea3f23c4d74153b2d)
-- [ ] [<code>Categories: remove unused bug (#1245)</code>](https://github.com/elementary/icons/commit/88acafd86e0f8eb33a2bc3b63f68e4820fa6e51e)
-- [ ] [<code>Categories: remove non-fd.o parental controls (#1244)</code>](https://github.com/elementary/icons/commit/9e4743b9feec71374cc24168618b55e321c42231)
-- [ ] [<code>Actions: update system action symbolics (#1242)</code>](https://github.com/elementary/icons/commit/65706317b5c8b4c38df2281558e24c5511d5834b)
-- [ ] [<code>Round window control icons (#1246)</code>](https://github.com/elementary/icons/commit/651f721a159430b07cf38cb45aacc0f639527ea3)
-- [ ] [<code>Usb reciever (#1247)</code>](https://github.com/elementary/icons/commit/a2bc1964d45585a483aaaf6c7df155573f281cd5)
-- [ ] [<code>Add accessories-screenshot-tool (#1249)</code>](https://github.com/elementary/icons/commit/6ff73e7d0aa6a083bd9566dc0df6cf18277246a3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix bad link</code>](https://github.com/elementary/icons/commit/73ada84717b37f1af8b7ddf5a5d123e580b2453c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Preferences desktop wallpaper (#1212)</code>](https://github.com/elementary/icons/commit/02b83716db5ae85bccc731f09864e586ff07af8e)
-- [ ] [<code>Split from larger pull (#1251)</code>](https://github.com/elementary/icons/commit/20b98fadf04397af00d9cbf2dbe793c9839e1648)
-- [ ] [<code>Use meson symlink and fix warnings (#1254)</code>](https://github.com/elementary/icons/commit/75448946e619568cb03b9c8961a18b68b0a58ee6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Cursors: Redesign dnd badges (#1250)</code>](https://github.com/elementary/icons/commit/615d43202a36bd757a8d7cf6070a3ca1137fdb74)
-- [ ] [<code>Cursors: rename to fit spec (#1256)</code>](https://github.com/elementary/icons/commit/29ade4a28396eac4d5fac7921807e7ac1fe3938d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Differentiate Symbolic Full Screen from Maximize (#1259)</code>](https://github.com/elementary/icons/commit/2624ddde7d315131bf686c858cdbb095fe3d1e8c)
-- [ ] [<code>Cursors: new base cursor design (#1258)</code>](https://github.com/elementary/icons/commit/5c01d00861493baeaec92bd2ac373f22ee999c87)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Categories/preds-desktop-locale: fix border radius</code>](https://github.com/elementary/icons/commit/cd020a820ff7f9830f61f2948cb226e8b0739cad)
-- [ ] [<code>Cursors: re-add symlinks for legacy names (#1264)</code>](https://github.com/elementary/icons/commit/3810d8d656e80baff1bdcd974bb9a902fd323857)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Cursors: redraw resize, fix positions (#1263)</code>](https://github.com/elementary/icons/commit/0c0d68ea94a5e1e3e870cf5be5ee7ce72c3771c6)
-- [ ] [<code>Cursors: redraw cell and crosshair (#1262)</code>](https://github.com/elementary/icons/commit/c3d800a64c382b69a86f70fda3809a58425c77d9)
-- [ ] [<code>Cursors: Fix grabbing position, shadow, color (#1261)</code>](https://github.com/elementary/icons/commit/3030cb2cf37780aac736acd2655cbe31c8339033)
-- [ ] [<code>Cursors: blend wait cursors and speed up (#1260)</code>](https://github.com/elementary/icons/commit/144fbcf8164aade9edd66b2e237889710b2be599)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Use brighter colors for Find icon (#1253)</code>](https://github.com/elementary/icons/commit/5785af4999dbfeb74c6980485591f411725389c9)
-- [ ] [<code>Cursors: add legacy symlinks for wait and progress</code>](https://github.com/elementary/icons/commit/c6000b5669066ff94b873d057e806326722ca1ea)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Categories: preferences-desktop-applications match gradients (#1267)</code>](https://github.com/elementary/icons/commit/7fae1c50189a614db9ef1a3ce27e95ee537dec8b)
-- [ ] [<code>Cursors: fix shadow on grab and pointer (#1268)</code>](https://github.com/elementary/icons/commit/e0b2f72195e842b2570cd170984dfede9bb672d1)
-- [ ] [<code>Actions: use folder for saveas (#1269)</code>](https://github.com/elementary/icons/commit/ce1a47e80d24f5903b3f97de3d0673130e7db459)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/icons/commit/9e622f1fd494af89f2c078b89c7b5012ff77adef)
-- [ ] [<code>8.0 Release Notes (#1275)</code>](https://github.com/elementary/icons/commit/1457672385c9b86b41411c8f53a3d5d5c6b67a6b)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/db1dc7487ae2aa0fb0551e72eb159c58daac91f8)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/icons/commit/73f0be469c45171dddb3ca5cda6507be0af45c30)
-- [ ] [<code>Readme: update to pull from main</code>](https://github.com/elementary/icons/commit/39092cc1d511f07e1657535dc5c5546af4304f9c)
-- [ ] [<code>Cursors: fix wait position (#1277)</code>](https://github.com/elementary/icons/commit/ed562ad2f6ed2af277168dbe56194cb8a37710e2)
-- [ ] [<code>Cursors: fix zoom shadow (#1278)</code>](https://github.com/elementary/icons/commit/59db0d30751cb118e725018442dd2a9735f39cd1)
-- [ ] [<code>Release 8.0.0 (#1276)</code>](https://github.com/elementary/icons/commit/3d5dd03c505aaee68a4b2904ae0d00cbcf141e91)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
@@ -1412,6 +1351,12 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/gala/commit/21e7a3e7943064bbb3e4ad560beaa04b6ce36908)
 - [ ] [<code>Canvas: Do not try to draw on a 0-sized area</code>](https://github.com/elementary/gala/commit/d61501b0709bb27a090903ab6df5d532150a5ad8)
 - [ ] [<code>WorkspaceManager: Make cleanup private</code>](https://github.com/elementary/gala/commit/196d2498a257d8af48221b1999639bcce8b80eb1)
+- [ ] [<code>ShellClients: Add Panels API</code>](https://github.com/elementary/gala/commit/7ac65758edadf49f95e52867cc233aaed02eccd7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Add Pantheon Shell protocol</code>](https://github.com/elementary/gala/commit/c0f377b2948fb6696931ebeb721a654b50986960)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Shell: Hook up protocol and implementation</code>](https://github.com/elementary/gala/commit/74fcd4a89135c439a80d86f6d36faf6e45036978)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
