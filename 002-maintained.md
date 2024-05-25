@@ -356,6 +356,7 @@
 - [ ] [<code>Update meson.build</code>](https://github.com/parnold-x/nasc/commit/ee36e8906e7e228a08bd08c82a64084d2071e94b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/5cb112ef95ee61850e94d80a793e650aa34792fe)
 
 #### [notes-up](https://github.com/Philip-Scott/Notes-up): [2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/2.0.6...HEAD)
 
@@ -368,6 +369,7 @@
 - [ ] [<code>Release 2.0.2 (#203)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c06cccc3fe33127add859ddac2a804f75365f8eb)
   - <sub>Tags: <code>2.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
@@ -377,6 +379,10 @@
 - [ ] [<code>Merge pull request #1301 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/dc37222d4097f6fc7f30ee795e9945be26369396)
 - [ ] [<code>Release 4.7.6</code>](https://github.com/alainm23/planify/commit/72ae6d16d905b80fdd23f8b5569b9a9fa4a88f8f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/e45e5d8ba1d779802965c2b45bdcde0c2ed40823)
+- [ ] [<code>Update Chinese translations</code>](https://github.com/alainm23/planify/commit/5a277afdc4ca57a9ecfd314b3ff9a3004679f4af)
+- [ ] [<code>Merge pull request #1309 from haggen88/update-es.po</code>](https://github.com/alainm23/planify/commit/86c6381874b319f3fb39910f7700c44c4d559b1e)
+- [ ] [<code>Merge pull request #1311 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/e90ca522497a438fb7acb53609442b29c1568b22)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
