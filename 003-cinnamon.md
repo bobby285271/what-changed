@@ -436,6 +436,7 @@
 - [ ] [<code>warpinator-launch.py: Catch a potential error in landlock check.</code>](https://github.com/linuxmint/warpinator/commit/4bb54c7c2863f0d6eb8d63569fbae4951768b5aa)
 - [ ] [<code>src/transfers.py: Follow toplevel symbolic links when gathering</code>](https://github.com/linuxmint/warpinator/commit/6a1101cf61e096591309d65339c4cceb672d6b60)
 - [ ] [<code>Remove iOS links (#204)</code>](https://github.com/linuxmint/warpinator/commit/de3cbde98702e8bac9691175f0b972bea635b256)
+- [ ] [<code>warpinator-launch: Unset GTK3_MODULES for Flatpak installs.</code>](https://github.com/linuxmint/warpinator/commit/ca475e3f63c4a73d38d756d5bd4fd1d6ce32ee7e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
