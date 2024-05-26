@@ -248,6 +248,7 @@
 - [ ] [<code>Flatpak: bump platform to 8 (#51)</code>](https://github.com/elementary/iconbrowser/commit/4fc1d6732675af0247755ba3b048909e6985ab15)
 - [ ] [<code>CategoryView: update list with additions and removals for platform 8 (#53)</code>](https://github.com/elementary/iconbrowser/commit/3a9373c51b4705d10198e9573ec224697ebc35d9)
 - [ ] [<code>Metainfo: add 8 release notes (#52)</code>](https://github.com/elementary/iconbrowser/commit/2cce829672d843b8836f4e3f53ae9ee11214cf28)
+- [ ] [<code>Application: Replace Gtk.Window.present_with_time with present (#55)</code>](https://github.com/elementary/iconbrowser/commit/eb842ee7829b25df88a6e97710dde3bc7e1c9c67)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
 
