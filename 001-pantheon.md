@@ -1358,6 +1358,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Shell: Hook up protocol and implementation</code>](https://github.com/elementary/gala/commit/74fcd4a89135c439a80d86f6d36faf6e45036978)
+- [ ] [<code>BackgroundManager: Don't set visible (#1910)</code>](https://github.com/elementary/gala/commit/e0e8bb7a70069719eb822aabd46dc66a38996e9e)
+- [ ] [<code>ShellClients: Don't keep a clone if we never hide (#1907)</code>](https://github.com/elementary/gala/commit/fe650bfa80f6d1331c5ab6241ba392531b1dbd50)
+- [ ] [<code>Fix barriers (#1908)</code>](https://github.com/elementary/gala/commit/29da53aedc5baf0c6e2b6195d4191968bf2806ae)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1381,6 +1384,9 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel/commit/d00d48c62f6baa5e1a66756b55ff8b9ea74a9485)
 - [ ] [<code>FocusManager: Make sure to never reuse a freed Window (#532)</code>](https://github.com/elementary/wingpanel/commit/a3dcd33edfcec50c8cac17583077bef60e5b2016)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel/commit/a4b9e9b942c0f08f30b23f8855152ec1e37e1bd2)
+- [ ] [<code>Use wayland protocol for positioning (#533)</code>](https://github.com/elementary/wingpanel/commit/f3af8837c2ea50099f75960ae6a63219a158f441)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
