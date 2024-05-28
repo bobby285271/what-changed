@@ -1126,6 +1126,7 @@
 
 - [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
 - [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
+- [ ] [<code>Fix dimming for NavigationView (#1295)</code>](https://github.com/elementary/stylesheet/commit/344650ff8b1f18e1922d9cf9849c7cd386ef076b)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
@@ -1371,6 +1372,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/gala/commit/0e4bb0fb276d1814040bd610cf63bb64d0f90e5d)
 - [ ] [<code>WindowSwitcher: draw our own borders (#1918)</code>](https://github.com/elementary/gala/commit/bb8da6c79f8c77a45b70a0438871efedba8a6957)
 - [ ] [<code>MultitaskingView: Fix dock animation (#1912)</code>](https://github.com/elementary/gala/commit/fc3c22f9ca38ce0d55b362cd4b5d980783b660e4)
+- [ ] [<code>ShadowEffect: Dont use Gtk to draw shadows (#1867)</code>](https://github.com/elementary/gala/commit/f9e9eed71dc06aa3711eec81973cbe1f16d81e34)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
