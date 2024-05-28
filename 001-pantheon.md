@@ -696,6 +696,7 @@
 - [ ] [<code>Handle own titlebuttons (#380)</code>](https://github.com/elementary/switchboard-plug-display/commit/7c619246ebf67e84edf4b17508d3e7eefeeb36dc)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-display/commit/f45948da6872787aea53856e41ccb30ca61f9132)
 - [ ] [<code>l10n: Make use_switch translatable (#383)</code>](https://github.com/elementary/switchboard-plug-display/commit/58627fa60406cfb437428dea1a45a3ee34018b7a)
+- [ ] [<code>Fix some apply unsensitive issues (#385)</code>](https://github.com/elementary/switchboard-plug-display/commit/66b90c239040a6556afa5039b1557c8775aa2cb2)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -1044,6 +1045,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Handle own titlebuttons (#71)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/991ef48a399d795ed16bc6dddfb1cd3a26bb68ee)
 - [ ] [<code>Gettext action: Use development-target (#72)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/1d69fcc46c7d193696dc1a89f28a94e1d8a25873)
+- [ ] [<code>DLNAPage: Fix status switch turned off on plug destruction or system reboot (#74)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/1983aa99bb12216f417ce7ac82962321f078760e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1247,6 +1251,8 @@
 
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [53bf57e5b32936befc3003a0f99c5b3a69349c76 → HEAD](https://github.com/elementary/session-settings/compare/53bf57e5b32936befc3003a0f99c5b3a69349c76...HEAD)
 
+- [ ] [<code>systemd: Install session.conf also to gnome-session@pantheon-wayland.target.d (#75)</code>](https://github.com/elementary/session-settings/commit/ab43bc3d2d2620d8d64b917a584f0f8607471144)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -1361,6 +1367,10 @@
 - [ ] [<code>BackgroundManager: Don't set visible (#1910)</code>](https://github.com/elementary/gala/commit/e0e8bb7a70069719eb822aabd46dc66a38996e9e)
 - [ ] [<code>ShellClients: Don't keep a clone if we never hide (#1907)</code>](https://github.com/elementary/gala/commit/fe650bfa80f6d1331c5ab6241ba392531b1dbd50)
 - [ ] [<code>Fix barriers (#1908)</code>](https://github.com/elementary/gala/commit/29da53aedc5baf0c6e2b6195d4191968bf2806ae)
+- [ ] [<code>InternalUtils: Fix window placement (#1913)</code>](https://github.com/elementary/gala/commit/2d30bee678788c5a853721d16b5b39c997b23c02)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/gala/commit/0e4bb0fb276d1814040bd610cf63bb64d0f90e5d)
+- [ ] [<code>WindowSwitcher: draw our own borders (#1918)</code>](https://github.com/elementary/gala/commit/bb8da6c79f8c77a45b70a0438871efedba8a6957)
+- [ ] [<code>MultitaskingView: Fix dock animation (#1912)</code>](https://github.com/elementary/gala/commit/fc3c22f9ca38ce0d55b362cd4b5d980783b660e4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
