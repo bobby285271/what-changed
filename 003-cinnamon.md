@@ -397,7 +397,9 @@
 - [ ] [<code>nemo-file.c: Update default date-time formats to adapt to GDateTime</code>](https://github.com/linuxmint/nemo/commit/a362848a3c3e8ae6631c1bd545d9cc1df8138e5c)
 - [ ] [<code>application: Guard a new GLib log function with a version check.</code>](https://github.com/linuxmint/nemo/commit/d1d6bd6b492470143c4f7eac390cd81f3cb84310)
 - [ ] [<code>nemo-thumbnails.c: Always respect the thumbnail thread count if</code>](https://github.com/linuxmint/nemo/commit/8d3669d6b5bd70c4b55f69533786c8626066531b)
+- [ ] [<code>nemo-view.c & nemo-window-menus.c: Add support for terminals with whitespace in the exec (#3379)</code>](https://github.com/linuxmint/nemo/commit/37571e9ec74ffd45a1092d5561fc6b70ab4784fa)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
@@ -437,6 +439,11 @@
 - [ ] [<code>src/transfers.py: Follow toplevel symbolic links when gathering</code>](https://github.com/linuxmint/warpinator/commit/6a1101cf61e096591309d65339c4cceb672d6b60)
 - [ ] [<code>Remove iOS links (#204)</code>](https://github.com/linuxmint/warpinator/commit/de3cbde98702e8bac9691175f0b972bea635b256)
 - [ ] [<code>warpinator-launch: Unset GTK3_MODULES for Flatpak installs.</code>](https://github.com/linuxmint/warpinator/commit/ca475e3f63c4a73d38d756d5bd4fd1d6ce32ee7e)
+- [ ] [<code>build: Don't install warpinator-send as part of a flatpak build.</code>](https://github.com/linuxmint/warpinator/commit/d77a9dcd1c0c15fba55c71ab1359f38748a47ab1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Some more appstream spec updates.</code>](https://github.com/linuxmint/warpinator/commit/6e22eb625722a39cbbda886a6ef8db826faf7096)
+- [ ] [<code>prefs: Fix escape code SyntaxWarning during bytecompile.</code>](https://github.com/linuxmint/warpinator/commit/86db98b7872b61fa3a11cf556cd5176a9b40e3e7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
