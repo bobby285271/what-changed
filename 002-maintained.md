@@ -383,6 +383,9 @@
 - [ ] [<code>Update Chinese translations</code>](https://github.com/alainm23/planify/commit/5a277afdc4ca57a9ecfd314b3ff9a3004679f4af)
 - [ ] [<code>Merge pull request #1309 from haggen88/update-es.po</code>](https://github.com/alainm23/planify/commit/86c6381874b319f3fb39910f7700c44c4d559b1e)
 - [ ] [<code>Merge pull request #1311 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/e90ca522497a438fb7acb53609442b29c1568b22)
+- [ ] [<code>markdown support #806</code>](https://github.com/alainm23/planify/commit/0567a12e30f4f1505aa6852bdc365797be02064a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
