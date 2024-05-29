@@ -435,6 +435,8 @@
 - [ ] [<code>MediaControls: minimal transparent style (#362)</code>](https://github.com/elementary/videos/commit/73b186abf4c412e49185932440c9ad523be7e26c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>PlayerPage: use Adw.ToolbarView (#382)</code>](https://github.com/elementary/videos/commit/7a4c848f2aec7fd38b1ed2d134faf5e8877e2d67)
+- [ ] [<code>LibraryPage: Adw.ToolbarView, fix padding (#383)</code>](https://github.com/elementary/videos/commit/d9b03fd11269f4d6bfcb6f6db0cc2e76a98a80a6)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -1382,6 +1384,10 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>PanelClone: Animate in (#1930)</code>](https://github.com/elementary/gala/commit/b8d705875fb54fc40e8acd809f9d99e8d42f1655)
 - [ ] [<code>PanelClone: Don't animate while in fullscreen (#1927)</code>](https://github.com/elementary/gala/commit/dde55d873670798d5f481562f5ee7756dd4fdc92)
+- [ ] [<code>Remove GSD dependency (#1931)</code>](https://github.com/elementary/gala/commit/dceda4a81740a4fe482d6c0e137fb805ed81b548)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Reposition windows on monitor change</code>](https://github.com/elementary/gala/commit/66616d2003e889e8f97b14e6d9597d70489f5338)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
