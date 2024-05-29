@@ -362,13 +362,8 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.0.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.0.1...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.0.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.0.2...HEAD)
 
-- [ ] [<code>Use ~/.config instead of xdg-config</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b5dfd312353e72d6a8bbb8a2eaeed5c098e6f27e)
-- [ ] [<code>Show unsupported DE graphically (#202)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5fc58c832e8896da7904fbb2f980b77799c4e405)
-- [ ] [<code>Release 2.0.2 (#203)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c06cccc3fe33127add859ddac2a804f75365f8eb)
-  - <sub>Tags: <code>2.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
@@ -386,6 +381,8 @@
 - [ ] [<code>markdown support #806</code>](https://github.com/alainm23/planify/commit/0567a12e30f4f1505aa6852bdc365797be02064a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #478</code>](https://github.com/alainm23/planify/commit/354070f8110c578e79fc1a18c2b103ceca83e57b)
+- [ ] [<code>fix #941</code>](https://github.com/alainm23/planify/commit/fd95dfe2696f5f93f91bda594ae3c4fc366b8bcf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
