@@ -444,6 +444,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Some more appstream spec updates.</code>](https://github.com/linuxmint/warpinator/commit/6e22eb625722a39cbbda886a6ef8db826faf7096)
 - [ ] [<code>prefs: Fix escape code SyntaxWarning during bytecompile.</code>](https://github.com/linuxmint/warpinator/commit/86db98b7872b61fa3a11cf556cd5176a9b40e3e7)
+- [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
