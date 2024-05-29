@@ -1131,6 +1131,7 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
 - [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
+- [ ] [<code>Actions: Refresh and add color to session icons (#1283)</code>](https://github.com/elementary/icons/commit/fa22659006f9733988b0038b62630b0dcbb92471)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1231,6 +1232,7 @@
 - [ ] [<code>Make the compositor be the first program to launch (#726)</code>](https://github.com/elementary/greeter/commit/654011886d403799eca5bb559864819c6b8b38d3)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#730)</code>](https://github.com/elementary/greeter/commit/79297a2fec537eb0baba99d018a225ecf0624ace)
+- [ ] [<code>MainWindow: Better detect when running in live session (#733)</code>](https://github.com/elementary/greeter/commit/c4c9e698df187c344e6e7f0494bc4ab0cc229671)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1373,6 +1375,13 @@
 - [ ] [<code>WindowSwitcher: draw our own borders (#1918)</code>](https://github.com/elementary/gala/commit/bb8da6c79f8c77a45b70a0438871efedba8a6957)
 - [ ] [<code>MultitaskingView: Fix dock animation (#1912)</code>](https://github.com/elementary/gala/commit/fc3c22f9ca38ce0d55b362cd4b5d980783b660e4)
 - [ ] [<code>ShadowEffect: Dont use Gtk to draw shadows (#1867)</code>](https://github.com/elementary/gala/commit/f9e9eed71dc06aa3711eec81973cbe1f16d81e34)
+- [ ] [<code>Fix notification focus</code>](https://github.com/elementary/gala/commit/f0d58b90fe63c17ede9c48d956d98cbf8454ab47)
+- [ ] [<code> ShellClients: Keep clone only destroy HideTracker  (#1915)</code>](https://github.com/elementary/gala/commit/8e361c31c2d4dbca06b7c751e9cdd80b276a9048)
+- [ ] [<code>PantheonShell: Add more warnings (#1929)</code>](https://github.com/elementary/gala/commit/3a40014d6ababc9ad6e35636204f813848940c76)
+- [ ] [<code>Avoid ending our own process (#1919)</code>](https://github.com/elementary/gala/commit/8645007bffb844e6d35d19e902f0cce380233b40)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>PanelClone: Animate in (#1930)</code>](https://github.com/elementary/gala/commit/b8d705875fb54fc40e8acd809f9d99e8d42f1655)
+- [ ] [<code>PanelClone: Don't animate while in fullscreen (#1927)</code>](https://github.com/elementary/gala/commit/dde55d873670798d5f481562f5ee7756dd4fdc92)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1399,6 +1408,12 @@
 - [ ] [<code>Use wayland protocol for positioning (#533)</code>](https://github.com/elementary/wingpanel/commit/f3af8837c2ea50099f75960ae6a63219a158f441)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Rm autostart (#536)</code>](https://github.com/elementary/wingpanel/commit/eb53b2a54f763a4964bd734e452db9d75ae4c4f8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel/commit/5251d7e562f67b22c567c3cca2c3865cf20e272e)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel/commit/c1edcf44c41f08378d160bc246c61e04a9c0141f)
+- [ ] [<code>wayland: Don't use the revealer (#538)</code>](https://github.com/elementary/wingpanel/commit/8d5c92b68667ebba4e0a901ea6d2fce4547a7caa)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
