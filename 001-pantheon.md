@@ -1397,6 +1397,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Reposition windows on monitor change</code>](https://github.com/elementary/gala/commit/66616d2003e889e8f97b14e6d9597d70489f5338)
 - [ ] [<code>Fix icons (#1936)</code>](https://github.com/elementary/gala/commit/54afc63d4f07cf1e2634b01b4a69a54d3771753a)
+- [ ] [<code>DesktopIntegration: Switch to correct workspace when focusing window (#1939)</code>](https://github.com/elementary/gala/commit/44c8bce65bf3bd9656eb41137763bbe20f91d3e8)
+- [ ] [<code>PanelWindow: Make struts more reliable (#1935)</code>](https://github.com/elementary/gala/commit/107dc080e283d1dcc8c6e5b11196c4c81ca528e0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
