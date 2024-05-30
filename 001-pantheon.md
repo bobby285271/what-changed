@@ -168,6 +168,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/dock/commit/967aaa110557537b7e8c92f47b7f5360656df88b)
+- [ ] [<code>Some move after move glitch fixes (#243)</code>](https://github.com/elementary/dock/commit/2c1c73212de62ffa9b108a30b47599ef03673758)
+- [ ] [<code>Add some more comments (#244)</code>](https://github.com/elementary/dock/commit/09aea5637bfa77a0c2afb4f75cc93ad7694c6629)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -279,6 +281,9 @@
 - [ ] [<code>update list of dependencies in README (#986)</code>](https://github.com/elementary/mail/commit/aad3bfe0298ddbfd5761781f4e9219169a6c92fd)
 - [ ] [<code>CI: build against OS (#989)</code>](https://github.com/elementary/mail/commit/15e8a4d87c454585a40e2bdaf0c70843a0891c88)
 - [ ] [<code>Metainfo: add release notes for 8 (#988)</code>](https://github.com/elementary/mail/commit/85bd516b5acd2adfc15d431a4ac53cf808e9bee3)
+- [ ] [<code>Release 8.0.0 (#990)</code>](https://github.com/elementary/mail/commit/21df72f7d4c15588116f7e7e76820f9c0a542913)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -370,6 +375,7 @@
 - [ ] [<code>TaskModel: use unowned var</code>](https://github.com/elementary/tasks/commit/94e9f9205b93023fc7ef2bb6e2bd9aef582e7e7f)
 - [ ] [<code>MainWindow: unowned refs</code>](https://github.com/elementary/tasks/commit/68bacefb467e2471d02fa0b650f188c159275de3)
 - [ ] [<code>TaskListGrid: unowned task_row</code>](https://github.com/elementary/tasks/commit/f0ab6025702d8c1f7c7c295a778358e42dcd9759)
+- [ ] [<code>TaskListGrid: Gtk4 prep (#385)</code>](https://github.com/elementary/tasks/commit/9c57cd415ca0cba43ddfeaba512b74cec36d6c49)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -914,6 +920,7 @@
 - [ ] [<code>Move dim wallpaper setting to appearance (#401)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d0d87b62a868b86d0dad3fec34d5e4d19731d4fe)
 - [ ] [<code>Use SettingsPage and SettingsSidebar (#400)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9f6fe851eae19f55223f937bc34790b824ddfc0e)
 - [ ] [<code>Appearance: clean up redundant labels (#402)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d55c6993d3295dd8e181a6a52910c634a3f825e)
+- [ ] [<code>Dock: re-add hide mode settings (#405)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b72d1cea1fc9249104e7e278c5aaf7de8b69a576)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1258,6 +1265,7 @@
 
 - [ ] [<code>systemd: Install session.conf also to gnome-session@pantheon-wayland.target.d (#75)</code>](https://github.com/elementary/session-settings/commit/ab43bc3d2d2620d8d64b917a584f0f8607471144)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/session-settings/commit/71b7b445189419c34ef24bfbb47709f714055136)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
 
@@ -1388,6 +1396,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Reposition windows on monitor change</code>](https://github.com/elementary/gala/commit/66616d2003e889e8f97b14e6d9597d70489f5338)
+- [ ] [<code>Fix icons (#1936)</code>](https://github.com/elementary/gala/commit/54afc63d4f07cf1e2634b01b4a69a54d3771753a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1461,6 +1470,7 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#209)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/74209b440a4ca8d030f27cc9fc5dcbb403a97b18)
 - [ ] [<code>Use emblem- icons instead of user- (#212)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/17a1b8b8305912f968dc6c8d221c786f7951cfce)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/797a447754a81eddc187f3c9f7676f0c879e3b9f)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/86b4dec45a605543b8f07df1afac0290597c909b)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -1632,32 +1642,8 @@
 - [ ] [<code>Switch to GHCR containers (#57)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/42e991061a54a7244c0ad96278466a3144499f81)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/41de16b445e4f6b56c3041836bde8ead449f5b43)
 
-#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [1.0.5 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/1.0.5...HEAD)
+#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.0...HEAD)
 
-- [ ] [<code>Switch to GHCR containers (#69)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/81ce36eafa5ba73114d99166b448eaa563f5c7ef)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e49a06dfaafa92b212ac2e6f87e8c2e2a4107290)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#70)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/68b0259052388d2b3d409f3e07907e40814a6307)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/aa735c8a37320a55a46e8c9781b413608fd27d25)
-- [ ] [<code>Metainfo Improvements (#71)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6156d0e1804d5c8f1d80ee93f5549bb475d520d3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#72)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/7c374d45348ea8ddca18acde66b8840ec894723b)
-- [ ] [<code>PolkitDialog: GTK4 Prep (#73)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9d92e997107dae3cba4ab06b31b819145e47c9de)
-- [ ] [<code>Gtk.Application (#74)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/ea4e121506d8f2a6f0d2d45162ad04a62c13a238)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Port to GTK4 (#67)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/584faa537d5ac706378d8e03008e43abd078945a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>PolkitDialog: shake contents on error (#77)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/afbd5e46d7ff39cdb7a376ca3b13b0786a635395)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/pantheon-agent-polkit/commit/12d59ded64424ce4a0e8db8bcc9da18d97d0dc27)
-- [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6b6e41eb2f945220c86bc7f52a6a57f690182938)
-- [ ] [<code>CI: Update branch name (#80)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/004ba1f78e095df3859c18e25b2bb73552e466f0)
-- [ ] [<code>Update main.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9bdc2e511520967437a8888d38f76f5be10a38f8)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/c58abf29f7f13e2e8dddc4f4e1f80fd65560a942)
-- [ ] [<code>Release 8.0.0 (#79)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0809b756a64e89c07f368a3996800d099cb41ee3)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
 
