@@ -122,6 +122,10 @@
 - [ ] [<code>userWidget: Back to using the theme to load the face image.</code>](https://github.com/linuxmint/cinnamon/commit/f4fd0244c13793ed48228698d7ed2576c39798a9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>user applet: handle the symbolic panel icon correctly.</code>](https://github.com/linuxmint/cinnamon/commit/a4ddc1722cf3a4fcd593923c5ed63a268996698a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Fix thumbnails resize on scaled monitors (#12203)</code>](https://github.com/linuxmint/cinnamon/commit/9e49223df6b6ccb0ab611246909e14113905966f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Show "wired with a padlock" or "wireless with a padlock" icons when a VPN is connected (#12142)</code>](https://github.com/linuxmint/cinnamon/commit/d2e7cf77fd276f795e2c491239e5e2fcc1bc175b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -398,13 +402,15 @@
 - [ ] [<code>application: Guard a new GLib log function with a version check.</code>](https://github.com/linuxmint/nemo/commit/d1d6bd6b492470143c4f7eac390cd81f3cb84310)
 - [ ] [<code>nemo-thumbnails.c: Always respect the thumbnail thread count if</code>](https://github.com/linuxmint/nemo/commit/8d3669d6b5bd70c4b55f69533786c8626066531b)
 - [ ] [<code>nemo-view.c & nemo-window-menus.c: Add support for terminals with whitespace in the exec (#3379)</code>](https://github.com/linuxmint/nemo/commit/37571e9ec74ffd45a1092d5561fc6b70ab4784fa)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix confusing NEMO_LIST_ICON_SIZE_ definitions (#3407)</code>](https://github.com/linuxmint/nemo/commit/4e7196b4f5e0cec9a6dcf34b3b4645da9fae2386)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
 - [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 - [ ] [<code>Fix python NameError: '_' is not defined (#514)</code>](https://github.com/linuxmint/nemo-extensions/commit/c1823b648da14e8cae664b59d914e1f64ebe3327)
+- [ ] [<code>Update pypdf in nemo-media-columns (#523)</code>](https://github.com/linuxmint/nemo-extensions/commit/68b27d5ed9738008fc7e899fa4b0c7222ea9ddfb)
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
 
@@ -508,10 +514,19 @@
   - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Add cursor scaling for HiDPI displays (#235)</code>](https://github.com/linuxmint/slick-greeter/commit/34ca9b3f852864ab2c9be003393477dceef7cd76)
+- [ ] [<code>build: Add meson support (#240)</code>](https://github.com/linuxmint/slick-greeter/commit/962f34ab3fcb41de80aa1f34c4bf686688369fde)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.19 → HEAD](https://github.com/linuxmint/sticky/compare/1.19...HEAD)
 
+- [ ] [<code>meson: Various fixes (#118)</code>](https://github.com/linuxmint/sticky/commit/3a30b056b04e265aacb171faeb73883a159c2364)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Don't use python3.10 code (#124)</code>](https://github.com/linuxmint/sticky/commit/8715a02735e786544403679d8ee0bf796328fa18)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.01.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.01.1...HEAD)
 
