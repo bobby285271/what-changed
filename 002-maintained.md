@@ -325,6 +325,7 @@
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/3e8eff4c210a34a38f525f2d4673bf0b8eb7d93c)
 - [ ] [<code>Update German translation</code>](https://github.com/phase1geo/minder/commit/b39fe06a19a00fd865dca07b8281bf9d6aa68af5)
 - [ ] [<code>Merge pull request #618 from be-we/master</code>](https://github.com/phase1geo/minder/commit/6b0b88e52edfb32ed29b6905090f4eb1b954571a)
+- [ ] [<code>Fixing quick entry issue when inserting root nodes.</code>](https://github.com/phase1geo/minder/commit/0bc74952d2e03487271647ff2149b68168da5bc2)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -365,6 +366,7 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.0.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.0.2...HEAD)
 
 - [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
+- [ ] [<code>metainfo: Update license id (#206)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38e34debb86360d19c0e746d3a9b094c45c9074)
 
 #### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
 
