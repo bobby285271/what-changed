@@ -45,6 +45,9 @@
 - [ ] [<code>Application: update copyright header</code>](https://github.com/elementary/appcenter/commit/546f8d1f68f429208dfb93cd9996a040be6ee728)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/appcenter/commit/e03d4f218d1a86f948676982589564e3c2cc4ef6)
 - [ ] [<code>Metainfo: add 8 release notes (#2145)</code>](https://github.com/elementary/appcenter/commit/2b9cfffefa889cdf396196f432ce39df2f355962)
+- [ ] [<code>Remove PackageKit and Drivers backends (#2144)</code>](https://github.com/elementary/appcenter/commit/8f2455524822faa3c9214a7f67381d2b85d79213)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -170,6 +173,8 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/dock/commit/967aaa110557537b7e8c92f47b7f5360656df88b)
 - [ ] [<code>Some move after move glitch fixes (#243)</code>](https://github.com/elementary/dock/commit/2c1c73212de62ffa9b108a30b47599ef03673758)
 - [ ] [<code>Add some more comments (#244)</code>](https://github.com/elementary/dock/commit/09aea5637bfa77a0c2afb4f75cc93ad7694c6629)
+- [ ] [<code>Allow launching apps via keyboard shortcuts (#245)</code>](https://github.com/elementary/dock/commit/14d5f85fa9a9844b671bd5e272fbadd8b26fd010)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -586,6 +591,8 @@
 - [ ] [<code>OperatingSystemView: use boxed-list, modelbutton (#315)</code>](https://github.com/elementary/switchboard-plug-about/commit/2d21994a5e3561a4dc3f90690292236cc6bf1d04)
 - [ ] [<code>Show a placeholder if no connection to the settings-daemon could be established (#316)</code>](https://github.com/elementary/switchboard-plug-about/commit/d1c4f5481a2c2828660b8fcd1299d3f858e58e74)
 - [ ] [<code>l10n: Fix some strings not shown as translated (#319)</code>](https://github.com/elementary/switchboard-plug-about/commit/1abd84718bf909cc744a1348c3b9d64e1b56db57)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add driver view v2 (with radio buttons) (#309)</code>](https://github.com/elementary/switchboard-plug-about/commit/c0e14a31a3e75037b735e30260df4dcb65737d57)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
@@ -1199,6 +1206,7 @@
 - [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/572a6417362258c1b5c2fc6a60671a316f3a524b)
 - [ ] [<code>Skel: add Flathub to flatpak config (#306)</code>](https://github.com/elementary/default-settings/commit/a618d3cf396bcc9c26098b2eb0c1b21ee33ea539)
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/default-settings/commit/a089b3919c6091afa8b2cca697ffe17bd9f51a75)
+- [ ] [<code>Shortcuts: make switch workspace super shift (#308)</code>](https://github.com/elementary/default-settings/commit/fe34f26e6c12b7483a6f742cbcada0843272248f)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1399,6 +1407,8 @@
 - [ ] [<code>Fix icons (#1936)</code>](https://github.com/elementary/gala/commit/54afc63d4f07cf1e2634b01b4a69a54d3771753a)
 - [ ] [<code>DesktopIntegration: Switch to correct workspace when focusing window (#1939)</code>](https://github.com/elementary/gala/commit/44c8bce65bf3bd9656eb41137763bbe20f91d3e8)
 - [ ] [<code>PanelWindow: Make struts more reliable (#1935)</code>](https://github.com/elementary/gala/commit/107dc080e283d1dcc8c6e5b11196c4c81ca528e0)
+- [ ] [<code>Dialogs: Fix Mutter bindings around dialog creation (#1941)</code>](https://github.com/elementary/gala/commit/48511d7dd0b2607e71c9ac77b2b38a1ab7cfd6e2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1431,6 +1441,8 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel/commit/5251d7e562f67b22c567c3cca2c3865cf20e272e)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel/commit/c1edcf44c41f08378d160bc246c61e04a9c0141f)
 - [ ] [<code>wayland: Don't use the revealer (#538)</code>](https://github.com/elementary/wingpanel/commit/8d5c92b68667ebba4e0a901ea6d2fce4547a7caa)
+- [ ] [<code>PanelWindow: send the right size to the compositor</code>](https://github.com/elementary/wingpanel/commit/2a1a0d9cb60fc36189d4a2f62d9e2518a6bc0ced)
+- [ ] [<code>PanelWindow: Use the right geometry on wayland</code>](https://github.com/elementary/wingpanel/commit/aaba38e3e803d29a4ac9e78344a2b843ec9d7b65)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1637,6 +1649,9 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/settings-daemon/commit/c94c39527c6017846a8647513c91df5768775204)
 - [ ] [<code>Localize autostart.desktop (#145)</code>](https://github.com/elementary/settings-daemon/commit/88781f2fabccdf8598c494a71782610c1ee62ca4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Drivers v2 (with support for device grouping) (#141)</code>](https://github.com/elementary/settings-daemon/commit/9fcaf5cd63d541593522011e87429548577f5e98)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
