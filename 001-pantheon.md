@@ -453,6 +453,7 @@
 - [ ] [<code>PlayerPage: use Adw.ToolbarView (#382)</code>](https://github.com/elementary/videos/commit/7a4c848f2aec7fd38b1ed2d134faf5e8877e2d67)
 - [ ] [<code>LibraryPage: Adw.ToolbarView, fix padding (#383)</code>](https://github.com/elementary/videos/commit/d9b03fd11269f4d6bfcb6f6db0cc2e76a98a80a6)
 - [ ] [<code>Update videos.metainfo.xml.in</code>](https://github.com/elementary/videos/commit/1a0896577ab52f5e7507dc6e2b5f50a408082f79)
+- [ ] [<code>Make library items wide aspect ratio (#385)</code>](https://github.com/elementary/videos/commit/39ef8a97cd58a7ef10a1e08451f84393d41a2a33)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -1070,6 +1071,7 @@
 - [ ] [<code>DLNAPage: Fix status switch turned off on plug destruction or system reboot (#74)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/1983aa99bb12216f417ce7ac82962321f078760e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Plug: Add "Bluetooth" for search term (#75)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fde9872c4bfbbf4d980000e8706cd26c26e4868e)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
