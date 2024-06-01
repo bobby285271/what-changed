@@ -48,6 +48,10 @@
 - [ ] [<code>Remove PackageKit and Drivers backends (#2144)</code>](https://github.com/elementary/appcenter/commit/8f2455524822faa3c9214a7f67381d2b85d79213)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES (#2150)</code>](https://github.com/elementary/appcenter/commit/b12e5d659ca229fd99ea189dd208a63befe71621)
+- [ ] [<code>AppInfoView: Use AppStream API to get license info (#2151)</code>](https://github.com/elementary/appcenter/commit/e570d5ba1d185f4b2881a90b92134825a232e435)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -448,6 +452,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>PlayerPage: use Adw.ToolbarView (#382)</code>](https://github.com/elementary/videos/commit/7a4c848f2aec7fd38b1ed2d134faf5e8877e2d67)
 - [ ] [<code>LibraryPage: Adw.ToolbarView, fix padding (#383)</code>](https://github.com/elementary/videos/commit/d9b03fd11269f4d6bfcb6f6db0cc2e76a98a80a6)
+- [ ] [<code>Update videos.metainfo.xml.in</code>](https://github.com/elementary/videos/commit/1a0896577ab52f5e7507dc6e2b5f50a408082f79)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
@@ -594,6 +599,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add driver view v2 (with radio buttons) (#309)</code>](https://github.com/elementary/switchboard-plug-about/commit/c0e14a31a3e75037b735e30260df4dcb65737d57)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#320)</code>](https://github.com/elementary/switchboard-plug-about/commit/0eefe976c69b5fd4b441c2fde840101cb395536e)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -1409,6 +1415,7 @@
 - [ ] [<code>PanelWindow: Make struts more reliable (#1935)</code>](https://github.com/elementary/gala/commit/107dc080e283d1dcc8c6e5b11196c4c81ca528e0)
 - [ ] [<code>Dialogs: Fix Mutter bindings around dialog creation (#1941)</code>](https://github.com/elementary/gala/commit/48511d7dd0b2607e71c9ac77b2b38a1ab7cfd6e2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CloseDialog: Reuse the Gala.App object to get the user-visible title (#1944)</code>](https://github.com/elementary/gala/commit/d5e89a9fd1bdd3fdadfbd3c9a562e738684d048f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1652,6 +1659,7 @@
 - [ ] [<code>Drivers v2 (with support for device grouping) (#141)</code>](https://github.com/elementary/settings-daemon/commit/9fcaf5cd63d541593522011e87429548577f5e98)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>UbuntuDrivers: Update notification copy (#147)</code>](https://github.com/elementary/settings-daemon/commit/bfe9383325a6a8ade0c20b7baae7c8059dfb0ef6)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
