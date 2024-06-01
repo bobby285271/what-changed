@@ -126,6 +126,8 @@
 - [ ] [<code>gwl: Fix thumbnails resize on scaled monitors (#12203)</code>](https://github.com/linuxmint/cinnamon/commit/9e49223df6b6ccb0ab611246909e14113905966f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Show "wired with a padlock" or "wireless with a padlock" icons when a VPN is connected (#12142)</code>](https://github.com/linuxmint/cinnamon/commit/d2e7cf77fd276f795e2c491239e5e2fcc1bc175b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add a Science category to the menu. (#12215)</code>](https://github.com/linuxmint/cinnamon/commit/bc9b012694eb81db7f154754557caf3ca431491f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
