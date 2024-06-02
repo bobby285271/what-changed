@@ -368,45 +368,8 @@
 - [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
 - [ ] [<code>metainfo: Update license id (#206)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38e34debb86360d19c0e746d3a9b094c45c9074)
 
-#### [planify](https://github.com/alainm23/planify): [4.7.4 → HEAD](https://github.com/alainm23/planify/compare/4.7.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.8 → HEAD](https://github.com/alainm23/planify/compare/4.8...HEAD)
 
-- [ ] [<code>Hindi translation updates</code>](https://github.com/alainm23/planify/commit/748c11e0f7282ca5b76afd410aae17f463f626c7)
-- [ ] [<code>fix #1304 #1299</code>](https://github.com/alainm23/planify/commit/ac8afec771b6e1d9689436fec3e7147f5715f8b5)
-- [ ] [<code>fix #1300</code>](https://github.com/alainm23/planify/commit/f0a2bdc9e29f0225156239bf492fae1c5e980bbb)
-- [ ] [<code>Merge pull request #1301 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/dc37222d4097f6fc7f30ee795e9945be26369396)
-- [ ] [<code>Release 4.7.6</code>](https://github.com/alainm23/planify/commit/72ae6d16d905b80fdd23f8b5569b9a9fa4a88f8f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/e45e5d8ba1d779802965c2b45bdcde0c2ed40823)
-- [ ] [<code>Update Chinese translations</code>](https://github.com/alainm23/planify/commit/5a277afdc4ca57a9ecfd314b3ff9a3004679f4af)
-- [ ] [<code>Merge pull request #1309 from haggen88/update-es.po</code>](https://github.com/alainm23/planify/commit/86c6381874b319f3fb39910f7700c44c4d559b1e)
-- [ ] [<code>Merge pull request #1311 from FlysoftBeta/master</code>](https://github.com/alainm23/planify/commit/e90ca522497a438fb7acb53609442b29c1568b22)
-- [ ] [<code>markdown support #806</code>](https://github.com/alainm23/planify/commit/0567a12e30f4f1505aa6852bdc365797be02064a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #478</code>](https://github.com/alainm23/planify/commit/354070f8110c578e79fc1a18c2b103ceca83e57b)
-- [ ] [<code>fix #941</code>](https://github.com/alainm23/planify/commit/fd95dfe2696f5f93f91bda594ae3c4fc366b8bcf)
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/ef29c9b3f7f2a82b0df4d9fbdf119d192c43dcfa)
-- [ ] [<code>fix #1314</code>](https://github.com/alainm23/planify/commit/200754e371585e7441e29b32b7e4b30696b762d7)
-- [ ] [<code>fix #414</code>](https://github.com/alainm23/planify/commit/d79a585a887fee0b4ec68add0441fc1d0dbb9c6a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #677</code>](https://github.com/alainm23/planify/commit/d858519dd5d4f6e546ad128b83832f93e844a9d0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/c5b05c9e5dc3c9d552548723a276fa3cb378dc27)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>Merge pull request #1315 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/1cff019cb3d88ebd583eb9f9ba7d922ad4c73ce0)
-- [ ] [<code>German Translation: Fixed typos, added more strings</code>](https://github.com/alainm23/planify/commit/46a410cda2106a71673e31d688cfd7d2cd9ca2f7)
-- [ ] [<code>update translations files</code>](https://github.com/alainm23/planify/commit/c5d24eff916646366ba1fe2ccef440becc05a307)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/1fd4198bc62f9dda0faee442fff24155de65825a)
-- [ ] [<code>Merge pull request #1318 from BlueFox4/master</code>](https://github.com/alainm23/planify/commit/a2c461a4b35fe8f7500cfbbaa808a1edbc354580)
-- [ ] [<code>fix #1316</code>](https://github.com/alainm23/planify/commit/321a7a352ffa5e37b91593239ac85ef17ba91d28)
-- [ ] [<code>Hindi Translation Update</code>](https://github.com/alainm23/planify/commit/b27075f796b45e00ed765b235bf860b179c25eca)
-- [ ] [<code>Merge pull request #1319 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/0d1fd685f83a60433cae2a80132af79fc98f84f9)
-- [ ] [<code>release 4.8</code>](https://github.com/alainm23/planify/commit/6cb1ffd95df61a1fb9104ea047d94f4f44125752)
-  - <sub>Tags: <code>4.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/b7323667a81e7daf1db156cbb0d7ff40cac7e6b9)
   - <sub>Keywords: <code>bin</code></sub>
 
