@@ -402,6 +402,13 @@
 - [ ] [<code>Merge branch 'master' into master</code>](https://github.com/alainm23/planify/commit/1fd4198bc62f9dda0faee442fff24155de65825a)
 - [ ] [<code>Merge pull request #1318 from BlueFox4/master</code>](https://github.com/alainm23/planify/commit/a2c461a4b35fe8f7500cfbbaa808a1edbc354580)
 - [ ] [<code>fix #1316</code>](https://github.com/alainm23/planify/commit/321a7a352ffa5e37b91593239ac85ef17ba91d28)
+- [ ] [<code>Hindi Translation Update</code>](https://github.com/alainm23/planify/commit/b27075f796b45e00ed765b235bf860b179c25eca)
+- [ ] [<code>Merge pull request #1319 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/0d1fd685f83a60433cae2a80132af79fc98f84f9)
+- [ ] [<code>release 4.8</code>](https://github.com/alainm23/planify/commit/6cb1ffd95df61a1fb9104ea047d94f4f44125752)
+  - <sub>Tags: <code>4.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/b7323667a81e7daf1db156cbb0d7ff40cac7e6b9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
