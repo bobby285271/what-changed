@@ -261,38 +261,8 @@
 - [ ] [<code>Metainfo: add 8 release notes (#52)</code>](https://github.com/elementary/iconbrowser/commit/2cce829672d843b8836f4e3f53ae9ee11214cf28)
 - [ ] [<code>Application: Replace Gtk.Window.present_with_time with present (#55)</code>](https://github.com/elementary/iconbrowser/commit/eb842ee7829b25df88a6e97710dde3bc7e1c9c67)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [7.2.0 → HEAD](https://github.com/elementary/mail/compare/7.2.0...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
-- [ ] [<code>po: Add all missing files</code>](https://github.com/elementary/mail/commit/013f4100a6113166519dfb197983462cb29215c3)
-- [ ] [<code>SignatureDialog: Translate before doing string substitution</code>](https://github.com/elementary/mail/commit/f3d29c83986986626c63a9fec1757c5ab04e64bf)
-- [ ] [<code>GroupedFolderSourceItem: Add context to folder names</code>](https://github.com/elementary/mail/commit/5a756b9b2ded2245b5f154d4c6566c74c5518154)
-- [ ] [<code>MessageListItem: Do not translate empty string</code>](https://github.com/elementary/mail/commit/87c75a4155f1770be70c7492ebb95f00fcd84b42)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#942)</code>](https://github.com/elementary/mail/commit/9b90579eff7102cbec952c85f5b93c2a9b905e40)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>InsertLinkDialog: Do not translate URL (#946)</code>](https://github.com/elementary/mail/commit/4e70dd2f145f9c3f11de07b9b4df9d01d053034a)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#959)</code>](https://github.com/elementary/mail/commit/1d8502947db6c9d8b33050c2227b43b4ca53a54a)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#965)</code>](https://github.com/elementary/mail/commit/af18b250093e0395612146364eb07a9ce6d247cc)
-- [ ] [<code>CI: Use flatpak gettext action (#966)</code>](https://github.com/elementary/mail/commit/0007c8070ae906ec8248e2cf4c38b49ab418bcc9)
-- [ ] [<code>Implement aliases (#960)</code>](https://github.com/elementary/mail/commit/2c28e98330a25da6b8ae3be1a8a2c9381c04c94f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Don't disable delete accelerators when the ConversationList looses keyboard focus (#955)</code>](https://github.com/elementary/mail/commit/c33385f73fad12d0863373f1de2b929519036d3c)
-- [ ] [<code>Fix some attachments not showing up (#958)</code>](https://github.com/elementary/mail/commit/9c40f9bbbad04d38e70cb907548948083326ca2f)
-- [ ] [<code>Use the actual recipients of a message as sender when replying or forwarding (#956)</code>](https://github.com/elementary/mail/commit/6cc2f513529c849b04816f966954ba608e6b734d)
-- [ ] [<code>AliasesDialog: screen reader fixes, design tweaks (#967)</code>](https://github.com/elementary/mail/commit/a4a9471600d39beb384b36d2cc98bbb3f04170b4)
-- [ ] [<code>gschema: remove window position (#972)</code>](https://github.com/elementary/mail/commit/11f8a562ec0912dac670cba38b383584913f8c11)
-- [ ] [<code>Remember recipients (#927)</code>](https://github.com/elementary/mail/commit/a7630fe8c82fb4c40f8c53b95e1a40509cf7abb5)
-- [ ] [<code>Force disabling webkit compositing mode (#982)</code>](https://github.com/elementary/mail/commit/fdad9c390809e2cdc58fdb74857b51f1c9175e29)
-- [ ] [<code>Add apparmor profile (#979)</code>](https://github.com/elementary/mail/commit/2e53376a226722e2c5e4f1b43f4e0f9904bbb3bd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/mail/commit/fd34e37b25c22ad3780f023f6e844cff28e84089)
-- [ ] [<code>update list of dependencies in README (#986)</code>](https://github.com/elementary/mail/commit/aad3bfe0298ddbfd5761781f4e9219169a6c92fd)
-- [ ] [<code>CI: build against OS (#989)</code>](https://github.com/elementary/mail/commit/15e8a4d87c454585a40e2bdaf0c70843a0891c88)
-- [ ] [<code>Metainfo: add release notes for 8 (#988)</code>](https://github.com/elementary/mail/commit/85bd516b5acd2adfc15d431a4ac53cf808e9bee3)
-- [ ] [<code>Release 8.0.0 (#990)</code>](https://github.com/elementary/mail/commit/21df72f7d4c15588116f7e7e76820f9c0a542913)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
