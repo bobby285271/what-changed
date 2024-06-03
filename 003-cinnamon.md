@@ -128,8 +128,11 @@
 - [ ] [<code>Show "wired with a padlock" or "wireless with a padlock" icons when a VPN is connected (#12142)</code>](https://github.com/linuxmint/cinnamon/commit/d2e7cf77fd276f795e2c491239e5e2fcc1bc175b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add a Science category to the menu. (#12215)</code>](https://github.com/linuxmint/cinnamon/commit/bc9b012694eb81db7f154754557caf3ca431491f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound@cinnamon.org: Prevent Muffin from creating sound streams in volume mixer in sound applet</code>](https://github.com/linuxmint/cinnamon/commit/6420262e28f78823c97d480f7595c7240808a9d4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12218 from rlatosky/sound-applet-muffin-scroll-wheel-fix</code>](https://github.com/linuxmint/cinnamon/commit/7b56fbca42085d1ec385599ebe63d7a502cf58c8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
