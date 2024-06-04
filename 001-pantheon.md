@@ -1126,6 +1126,7 @@
 
 - [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
 - [ ] [<code>Actions: Refresh and add color to session icons (#1283)</code>](https://github.com/elementary/icons/commit/fa22659006f9733988b0038b62630b0dcbb92471)
+- [ ] [<code>Actions: Apply new save-as design to symbolic icon (#1285)</code>](https://github.com/elementary/icons/commit/29caa394fbf89968a6d4c52e91570bdd6ae9361a)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1228,6 +1229,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#730)</code>](https://github.com/elementary/greeter/commit/79297a2fec537eb0baba99d018a225ecf0624ace)
 - [ ] [<code>MainWindow: Better detect when running in live session (#733)</code>](https://github.com/elementary/greeter/commit/c4c9e698df187c344e6e7f0494bc4ab0cc229671)
+- [ ] [<code>Revert "MainWindow: Better detect when running in live session (#733)" (#736)</code>](https://github.com/elementary/greeter/commit/754166652de5ba9e698eb64daa2b895602737748)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1722,6 +1724,7 @@
 - [ ] [<code>Stop building 7.1 dailies (#707)</code>](https://github.com/elementary/os/commit/330c923d97f2debe5c19a7f9e176249808207006)
 - [ ] [<code>Rename Next to 8.0 (#708)</code>](https://github.com/elementary/os/commit/f4518ccb1374db38a0d65712b00190b2c64b6f99)
 - [ ] [<code>Build stable once a month (#704)</code>](https://github.com/elementary/os/commit/fd8feda980b0bc49ca9c5a444c6ebd02f2adedfb)
+- [ ] [<code>Update README.md (#712)</code>](https://github.com/elementary/os/commit/998530a82ba2558dda62d1539d4cb48b9e322791)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
