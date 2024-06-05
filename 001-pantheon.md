@@ -571,6 +571,10 @@
 - [ ] [<code>Add driver view v2 (with radio buttons) (#309)</code>](https://github.com/elementary/switchboard-plug-about/commit/c0e14a31a3e75037b735e30260df4dcb65737d57)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#320)</code>](https://github.com/elementary/switchboard-plug-about/commit/0eefe976c69b5fd4b441c2fde840101cb395536e)
+- [ ] [<code>Fix deprecated use of get_style_context () (#323)</code>](https://github.com/elementary/switchboard-plug-about/commit/6a16482546d44589ca2d3fe3d76091b9a88e127e)
+- [ ] [<code>HardwareView: Make hostname editable (#321)</code>](https://github.com/elementary/switchboard-plug-about/commit/4e1a6539c4468de65c287785f2cdb11e20de3dca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -1042,6 +1046,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Plug: Add "Bluetooth" for search term (#75)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fde9872c4bfbbf4d980000e8706cd26c26e4868e)
+- [ ] [<code>DLNAPage: rework copy (#76)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/39eb536da22a61b7f07ad34e451fe069ee598beb)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
