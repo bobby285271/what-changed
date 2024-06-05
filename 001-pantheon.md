@@ -52,6 +52,8 @@
 - [ ] [<code>AppInfoView: Use AppStream API to get license info (#2151)</code>](https://github.com/elementary/appcenter/commit/e570d5ba1d185f4b2881a90b92134825a232e435)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove backend aggregator (#2152)</code>](https://github.com/elementary/appcenter/commit/8e32403c31ee8dbf9eb246e768fecd4cf5c49f0a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -1249,6 +1251,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/onboarding/commit/0721b5c4ad5c323cdceb400ee9dfa512abcbe361)
 - [ ] [<code>Metainfo: add 8 release notes (#227)</code>](https://github.com/elementary/onboarding/commit/afd2032993a0ddb9955b1b3f2450a93bb6537a08)
+- [ ] [<code>OnlineAccountsView: use icon shipped with System Settings (#230)</code>](https://github.com/elementary/onboarding/commit/7c3ecd189fd7e7a202b924b4f6d002b433004080)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1273,6 +1276,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/shortcut-overlay/commit/8ef8997d8930ad6fc80c3dbccb6c33df933b9d43)
 - [ ] [<code>Metainfo: add 8 release notes (#144)</code>](https://github.com/elementary/shortcut-overlay/commit/35613939858e929b0bb6526f62ab62d859e4d681)
+- [ ] [<code>Add Screen Reader shortcut (#146)</code>](https://github.com/elementary/shortcut-overlay/commit/15fb12c9a7b962b66408aa7d68571d1ef9395197)
+- [ ] [<code>ShortcutsView: use Granite.HeaderLabel (#147)</code>](https://github.com/elementary/shortcut-overlay/commit/9f54eadc8e937d54532210d34c2a07661a33e85f)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
