@@ -54,6 +54,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove backend aggregator (#2152)</code>](https://github.com/elementary/appcenter/commit/8e32403c31ee8dbf9eb246e768fecd4cf5c49f0a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Package: assume all packages are flatpak (#2153)</code>](https://github.com/elementary/appcenter/commit/65865d7299e65cfaf444243b6feeb8cb8e13102e)
+- [ ] [<code>Client: add missing code from backend aggregator (#2155)</code>](https://github.com/elementary/appcenter/commit/d4eb368962d831920e580ff368ce8a38ca1e22fa)
+- [ ] [<code>Move validate () to FlatpakBackend (#2154)</code>](https://github.com/elementary/appcenter/commit/31a16fa795b6888446ede48abe537e7219c20021)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -357,6 +360,7 @@
 - [ ] [<code>MainWindow: unowned refs</code>](https://github.com/elementary/tasks/commit/68bacefb467e2471d02fa0b650f188c159275de3)
 - [ ] [<code>TaskListGrid: unowned task_row</code>](https://github.com/elementary/tasks/commit/f0ab6025702d8c1f7c7c295a778358e42dcd9759)
 - [ ] [<code>TaskListGrid: Gtk4 prep (#385)</code>](https://github.com/elementary/tasks/commit/9c57cd415ca0cba43ddfeaba512b74cec36d6c49)
+- [ ] [<code>EditableLabel: Gtk4 Prep (#383)</code>](https://github.com/elementary/tasks/commit/5d4a035ba7744c99f5404e35be04edef59aa1c97)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -426,6 +430,9 @@
 - [ ] [<code>LibraryPage: Adw.ToolbarView, fix padding (#383)</code>](https://github.com/elementary/videos/commit/d9b03fd11269f4d6bfcb6f6db0cc2e76a98a80a6)
 - [ ] [<code>Update videos.metainfo.xml.in</code>](https://github.com/elementary/videos/commit/1a0896577ab52f5e7507dc6e2b5f50a408082f79)
 - [ ] [<code>Make library items wide aspect ratio (#385)</code>](https://github.com/elementary/videos/commit/39ef8a97cd58a7ef10a1e08451f84393d41a2a33)
+- [ ] [<code>Leaflet → NavigationView (#387)</code>](https://github.com/elementary/videos/commit/4c1a9f730601b4c46db5c0aeb7edef1499e5826f)
+- [ ] [<code>Drop support for optical media (#363)</code>](https://github.com/elementary/videos/commit/0e8f271527bcf0f8097523290b5f07eb98b4a3fe)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
