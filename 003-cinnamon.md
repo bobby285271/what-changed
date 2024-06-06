@@ -134,8 +134,10 @@
 - [ ] [<code>Merge pull request #12218 from rlatosky/sound-applet-muffin-scroll-wheel-fix</code>](https://github.com/linuxmint/cinnamon/commit/7b56fbca42085d1ec385599ebe63d7a502cf58c8)
 - [ ] [<code>cinnamon-app-system.c: Don't remove an app from running_apps until</code>](https://github.com/linuxmint/cinnamon/commit/647261feebdea7eb61c26512001e4609fef15e41)
 - [ ] [<code>userWidget: Simplify a bit (#12221)</code>](https://github.com/linuxmint/cinnamon/commit/0d2a1ed4e23303db01dd35a93345a5e219f8f7b1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Embed nemo's layout editor into cinnamon-settings' Actions module.</code>](https://github.com/linuxmint/cinnamon/commit/fee5a3258493ebf286a6cf3177e9628de736f6a0)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -424,6 +426,10 @@
 - [ ] [<code>Update makepot, fix some strings in the layout editor.</code>](https://github.com/linuxmint/nemo/commit/1e0e286033810171cdaaf10a49d28ddf958f5b91)
 - [ ] [<code>nemo-config-base-widget.c: Accommodate wider enable/disable</code>](https://github.com/linuxmint/nemo/commit/c0e93a401154664895e2c43d668b8a63b0776a99)
 - [ ] [<code>Update README.md with details about history and features. (#3390)</code>](https://github.com/linuxmint/nemo/commit/f0c0d4818b98d781e0e2da31de68301dc81ca76a)
+- [ ] [<code>nemo-action-layout-editor: Refactor to allow importing the editor</code>](https://github.com/linuxmint/nemo/commit/33a6a3a0b72f42542a6fb0352ae264b703d08ee8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/nemo/commit/1da17bacf66b7385389416b99199b97198b2f994)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -498,7 +504,9 @@
 - [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>pdf backend: Ignore FullScreen PageMode catalog entry (#633)</code>](https://github.com/linuxmint/xreader/commit/5407f93d9328de7545537fbb9aa6a2d459e0b990)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>4.2.0</code>](https://github.com/linuxmint/xreader/commit/ce89025fa3012090317d65caa0f7d3cfa03f3049)
+  - <sub>Tags: <code>4.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
@@ -524,8 +532,9 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.3...HEAD)
 
 - [ ] [<code>Fix loadfile for mpv v0.38.0 (#332)</code>](https://github.com/linuxmint/hypnotix/commit/7a4293a62a3adb322d6e2c8a940fb4270d35a5fe)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>4.4</code>](https://github.com/linuxmint/hypnotix/commit/0b9e6bfbabb69fcb2af8408bc14b8123029161a9)
+  - <sub>Tags: <code>4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -539,9 +548,12 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Add cursor scaling for HiDPI displays (#235)</code>](https://github.com/linuxmint/slick-greeter/commit/34ca9b3f852864ab2c9be003393477dceef7cd76)
 - [ ] [<code>build: Add meson support (#240)</code>](https://github.com/linuxmint/slick-greeter/commit/962f34ab3fcb41de80aa1f34c4bf686688369fde)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/slick-greeter/commit/9f591653aef91df647779ddf9989c560681d9521)
+  - <sub>Tags: <code>2.0.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.19 → HEAD](https://github.com/linuxmint/sticky/compare/1.19...HEAD)
 
@@ -549,6 +561,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Don't use python3.10 code (#124)</code>](https://github.com/linuxmint/sticky/commit/8715a02735e786544403679d8ee0bf796328fa18)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix debian packaging and lintian issues (#121)</code>](https://github.com/linuxmint/sticky/commit/e3eb915e9c0db0e46695e92e36fc2a30273c18a5)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -569,7 +583,15 @@
 - [ ] [<code>recent files: Don't show a number in front of the filename</code>](https://github.com/linuxmint/xed/commit/f2f68fc915242a7976288426989b09a4e6a4226f)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/8f8281676302c8c9c7c5e8cacfec7dfe21fd48c0)
 - [ ] [<code>3.6.0</code>](https://github.com/linuxmint/xed/commit/c7d85bd3b84625b1e710b866be168f59367d71cf)
-  - <sub>Tags: <code>3.6.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add shortcut to toggle overview map (#623) (#642)</code>](https://github.com/linuxmint/xed/commit/b9331c9405f7c84f76da4ecf74a377f6bf50ea2a)
+- [ ] [<code>l10n: Update msgid</code>](https://github.com/linuxmint/xed/commit/51594c3f3456288711e9d30e416f2f111a7c6f10)
+- [ ] [<code>Use F10 for the minimap</code>](https://github.com/linuxmint/xed/commit/0ecca7db974b87447cc98f847c298b53daad7243)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/cfcb97056ea590eb6502ba609bbc3c24e0231f9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>3.6.1</code>](https://github.com/linuxmint/xed/commit/2f5293b65f97ddf984b0287e7c2f78b972b4dab4)
+  - <sub>Tags: <code>3.6.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
