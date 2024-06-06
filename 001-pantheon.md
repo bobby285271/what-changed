@@ -57,6 +57,8 @@
 - [ ] [<code>Package: assume all packages are flatpak (#2153)</code>](https://github.com/elementary/appcenter/commit/65865d7299e65cfaf444243b6feeb8cb8e13102e)
 - [ ] [<code>Client: add missing code from backend aggregator (#2155)</code>](https://github.com/elementary/appcenter/commit/d4eb368962d831920e580ff368ce8a38ca1e22fa)
 - [ ] [<code>Move validate () to FlatpakBackend (#2154)</code>](https://github.com/elementary/appcenter/commit/31a16fa795b6888446ede48abe537e7219c20021)
+- [ ] [<code>Remove BackendInterface (#2156)</code>](https://github.com/elementary/appcenter/commit/d5c89118982e5d504d51fdc71493ae4f4b43284f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -1593,6 +1595,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Flatpak: bump platform to 8 (#119)</code>](https://github.com/elementary/capnet-assist/commit/f472a41133ee17f8f2bb7c2a9c73dec8c72a113c)
 - [ ] [<code>Metainfo: add 8 release notes (#120)</code>](https://github.com/elementary/capnet-assist/commit/203ab7d5c8979f7bde9df4e24b1a30f1943669a4)
+- [ ] [<code>Release 8.0.0 (#121)</code>](https://github.com/elementary/capnet-assist/commit/3dd49f55ddf9d61e7fb1cafdb44a85a8baf6cf6e)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
