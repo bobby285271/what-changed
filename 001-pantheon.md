@@ -328,6 +328,8 @@
 - [ ] [<code>Metainfo: add 8 release notes (#758)</code>](https://github.com/elementary/photos/commit/60d65768b506018fe48900e07690af178b843a04)
 - [ ] [<code>Finish Removing Publishing (#761)</code>](https://github.com/elementary/photos/commit/37b5223278e69dcb4ffc2c6b165f32161ce9302c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use open directory portal (#762)</code>](https://github.com/elementary/photos/commit/ba3cd8fa2f5867940315a55a0f742c9d7681b60f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
