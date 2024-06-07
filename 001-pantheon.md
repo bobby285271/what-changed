@@ -326,6 +326,8 @@
 - [ ] [<code>Modernize metainfo (#757)</code>](https://github.com/elementary/photos/commit/427f21d4fb31f9b5566d9456111170d928ce1a22)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#758)</code>](https://github.com/elementary/photos/commit/60d65768b506018fe48900e07690af178b843a04)
+- [ ] [<code>Finish Removing Publishing (#761)</code>](https://github.com/elementary/photos/commit/37b5223278e69dcb4ffc2c6b165f32161ce9302c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -1287,6 +1289,10 @@
 - [ ] [<code>Metainfo: add 8 release notes (#144)</code>](https://github.com/elementary/shortcut-overlay/commit/35613939858e929b0bb6526f62ab62d859e4d681)
 - [ ] [<code>Add Screen Reader shortcut (#146)</code>](https://github.com/elementary/shortcut-overlay/commit/15fb12c9a7b962b66408aa7d68571d1ef9395197)
 - [ ] [<code>ShortcutsView: use Granite.HeaderLabel (#147)</code>](https://github.com/elementary/shortcut-overlay/commit/9f54eadc8e937d54532210d34c2a07661a33e85f)
+- [ ] [<code>Update shortcut-overlay.metainfo.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/066cf37728c0b53379de54dc1f18272328084151)
+- [ ] [<code>Release 8.0.0 (#145)</code>](https://github.com/elementary/shortcut-overlay/commit/5b3dce05027d377da934a73147ea8944769009a3)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
