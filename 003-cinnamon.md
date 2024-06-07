@@ -430,6 +430,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/nemo/commit/1da17bacf66b7385389416b99199b97198b2f994)
+- [ ] [<code>layout-editor: Add a label to explain the editor.</code>](https://github.com/linuxmint/nemo/commit/41e97e64781a3a37578db1525d71ad09a43153bd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -570,7 +571,11 @@
 
 - [ ] [<code>Relocated 'delete' to a safer position. (#268)</code>](https://github.com/linuxmint/timeshift/commit/081687d4e9c06c388c87b7e0a79980fab46b36fb)
 - [ ] [<code>Added confirmation dialog on delete. (#269)</code>](https://github.com/linuxmint/timeshift/commit/e8323a02bbf42ec1c2c4f5447939ae30dd80d87a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Add missing l10n to previous commit</code>](https://github.com/linuxmint/timeshift/commit/1c064f30a7aea70606c8b46c0f5c6f7e6424ceb6)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/ebb474409c528c9e001847530832db975448c311)
+- [ ] [<code>24.06.1</code>](https://github.com/linuxmint/timeshift/commit/aab06b780f77e060f7d8fdc559a545c9285e0f08)
+  - <sub>Tags: <code>24.06.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.4.5 → HEAD](https://github.com/linuxmint/xed/compare/3.4.5...HEAD)
 
