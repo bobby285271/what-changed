@@ -367,6 +367,7 @@
 
 - [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
 - [ ] [<code>metainfo: Update license id (#206)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38e34debb86360d19c0e746d3a9b094c45c9074)
+- [ ] [<code>AppearancePane: Use SYNC_CREATE instead of initializing manually (#209)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/84c3e94fb25f5625095efbeadccd4df9aac3db82)
 
 #### [planify](https://github.com/alainm23/planify): [4.8 → HEAD](https://github.com/alainm23/planify/compare/4.8...HEAD)
 
