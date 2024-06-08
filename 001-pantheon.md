@@ -445,6 +445,7 @@
 - [ ] [<code>Leaflet → NavigationView (#387)</code>](https://github.com/elementary/videos/commit/4c1a9f730601b4c46db5c0aeb7edef1499e5826f)
 - [ ] [<code>Drop support for optical media (#363)</code>](https://github.com/elementary/videos/commit/0e8f271527bcf0f8097523290b5f07eb98b4a3fe)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#388)</code>](https://github.com/elementary/videos/commit/cde439c5426ca0f0969feb8dff3f6f3c79c3e35b)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
 
