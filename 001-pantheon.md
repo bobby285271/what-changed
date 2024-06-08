@@ -330,6 +330,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use open directory portal (#762)</code>](https://github.com/elementary/photos/commit/ba3cd8fa2f5867940315a55a0f742c9d7681b60f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump to platform 8 (#760)</code>](https://github.com/elementary/photos/commit/5b69f191b58c9d97e0caa2845df010b7ab847eec)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/photos/commit/4af99cdfd02ae0c9a7c05972fdbf15fa701b2714)
+- [ ] [<code>Update ci.yml</code>](https://github.com/elementary/photos/commit/53ca6ec8bf7ba19f04d2c81d2735f26e7601c30d)
+- [ ] [<code>CI: setup Flatpak gettext and deploy (#763)</code>](https://github.com/elementary/photos/commit/fff7a87195f7fef5f8f7812956267920f8078c79)
+- [ ] [<code>Flatpak: yml → json (#764)</code>](https://github.com/elementary/photos/commit/a175f7ffc2084b7e52c16406a6b94c8dfa4dc15d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
