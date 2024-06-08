@@ -368,6 +368,15 @@
 - [ ] [<code>README: Add Flathub badge (#204)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/402155a9412a6449f09befbd822295fe833dbf69)
 - [ ] [<code>metainfo: Update license id (#206)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38e34debb86360d19c0e746d3a9b094c45c9074)
 - [ ] [<code>AppearancePane: Use SYNC_CREATE instead of initializing manually (#209)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/84c3e94fb25f5625095efbeadccd4df9aac3db82)
+- [ ] [<code>AppearancePane: Fix wrong property to set/get switch state (#208)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f8c53847139f853128b6236edee1d3d8bc9a5d54)
+- [ ] [<code>Port to GTK4 (#207)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/04d530b600aa789a6b5e50809048706e877c99b8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>meson: Replace deprecated source_root (#211)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0461c6861ae5159c649f4a09860e31b7625620e8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Use gnome module to update icon cache (#210)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2c08e1dd3f8b8a9442a150eef72a45bca9984e0d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.8 → HEAD](https://github.com/alainm23/planify/compare/4.8...HEAD)
 
