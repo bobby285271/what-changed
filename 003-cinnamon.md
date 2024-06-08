@@ -439,19 +439,8 @@
 - [ ] [<code>Fix python NameError: '_' is not defined (#514)</code>](https://github.com/linuxmint/nemo-extensions/commit/c1823b648da14e8cae664b59d914e1f64ebe3327)
 - [ ] [<code>Update pypdf in nemo-media-columns (#523)</code>](https://github.com/linuxmint/nemo-extensions/commit/68b27d5ed9738008fc7e899fa4b0c7222ea9ddfb)
 
-#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
+#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.0 → HEAD](https://github.com/linuxmint/pix/compare/3.4.0...HEAD)
 
-- [ ] [<code>apply jxl patch from gthumb, adds support for jxl-0.9.0 (#205)</code>](https://github.com/linuxmint/pix/commit/0de1387da0d1fce51e5c2db04a9a88e64f7c4336)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>debian/control: Add libjxl-dev for build.</code>](https://github.com/linuxmint/pix/commit/09cd8ad9a856276d4a72de4f3e6968e1cafb212e)
-- [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/pix/commit/bb7c281443621ad2aec970548615a68ac96e6ff3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to libwebkit2gtk-4.1</code>](https://github.com/linuxmint/pix/commit/14682f6249b3b0be351b6b06474512c80bd39dba)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/pix/commit/fd8be7490af2218c0f0709abd0277cd27cc726f9)
-  - <sub>Tags: <code>3.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
@@ -482,32 +471,11 @@
 - [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
-- [ ] [<code>xapp-gpu-offload: Fix argument handling for the offload target.</code>](https://github.com/linuxmint/xapp/commit/7ab8d1b93ea56b211e2a100a5b92cc1c843c10cc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
-- [ ] [<code>Distro packaging updates (#176)</code>](https://github.com/linuxmint/xapp/commit/f30b9d162dae0055e662dc2ae3fa51a47650ae0c)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Update build.yml for codespell, fix some spelling.</code>](https://github.com/linuxmint/xapp/commit/b5894870cd47ee1dd3f53e86562a7ecf2ce90475)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>Add new gsettings keys for xdg Settings portal v2.</code>](https://github.com/linuxmint/xapp/commit/a7d8a1c833970ecc203837568506087b950d65da)
-- [ ] [<code>gsettings: Fix a default value.</code>](https://github.com/linuxmint/xapp/commit/95c24d900f795a37614b893107a490dff2007c19)
-- [ ] [<code>Remove accent-rgb setting</code>](https://github.com/linuxmint/xapp/commit/6b6e78de8d57f86bd81e29be995d677415b23938)
-- [ ] [<code>xapp-icon-chooser-dialog.c: Fix mimetype test for browsed images.</code>](https://github.com/linuxmint/xapp/commit/85310bff461d260fe89586f001d01d3eabb720e2)
-- [ ] [<code>2.8.3</code>](https://github.com/linuxmint/xapp/commit/9dc36283ae556d30a70ae6c646b446a83d63c7a7)
-  - <sub>Tags: <code>2.8.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
 
-- [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>pdf backend: Ignore FullScreen PageMode catalog entry (#633)</code>](https://github.com/linuxmint/xreader/commit/5407f93d9328de7545537fbb9aa6a2d459e0b990)
-- [ ] [<code>4.2.0</code>](https://github.com/linuxmint/xreader/commit/ce89025fa3012090317d65caa0f7d3cfa03f3049)
-  - <sub>Tags: <code>4.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
@@ -567,54 +535,16 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.01.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.01.1...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.1...HEAD)
 
-- [ ] [<code>Relocated 'delete' to a safer position. (#268)</code>](https://github.com/linuxmint/timeshift/commit/081687d4e9c06c388c87b7e0a79980fab46b36fb)
-- [ ] [<code>Added confirmation dialog on delete. (#269)</code>](https://github.com/linuxmint/timeshift/commit/e8323a02bbf42ec1c2c4f5447939ae30dd80d87a)
-- [ ] [<code>Add missing l10n to previous commit</code>](https://github.com/linuxmint/timeshift/commit/1c064f30a7aea70606c8b46c0f5c6f7e6424ceb6)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/ebb474409c528c9e001847530832db975448c311)
-- [ ] [<code>24.06.1</code>](https://github.com/linuxmint/timeshift/commit/aab06b780f77e060f7d8fdc559a545c9285e0f08)
-  - <sub>Tags: <code>24.06.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.4.5 → HEAD](https://github.com/linuxmint/xed/compare/3.4.5...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.6.1 → HEAD](https://github.com/linuxmint/xed/compare/3.6.1...HEAD)
 
-- [ ] [<code>added shortcut to duplicate selection (#615)</code>](https://github.com/linuxmint/xed/commit/31356503c9d83f57cdbb9015119ca3544966c52f)
-- [ ] [<code>added condition to not save empty doc (#617)</code>](https://github.com/linuxmint/xed/commit/318fe4db3085c0e046705fa6aad0947c456cde0e)
-- [ ] [<code>removed trailing space char in custom date time (#616)</code>](https://github.com/linuxmint/xed/commit/a453117eddeebe41cef2b4812ff0db284437cbd3)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>added auto close setting to close window when that last tab is closed (#613)</code>](https://github.com/linuxmint/xed/commit/2168e893b9f893647e13534fbaa8ac03cc611334)
-- [ ] [<code>Set the number of recent files to 10</code>](https://github.com/linuxmint/xed/commit/d59a067668e765f5e19e724192440ee1ce1b8c74)
-- [ ] [<code>recent files: Don't show a number in front of the filename</code>](https://github.com/linuxmint/xed/commit/f2f68fc915242a7976288426989b09a4e6a4226f)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/8f8281676302c8c9c7c5e8cacfec7dfe21fd48c0)
-- [ ] [<code>3.6.0</code>](https://github.com/linuxmint/xed/commit/c7d85bd3b84625b1e710b866be168f59367d71cf)
-  - <sub>Tags: <code>3.6.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add shortcut to toggle overview map (#623) (#642)</code>](https://github.com/linuxmint/xed/commit/b9331c9405f7c84f76da4ecf74a377f6bf50ea2a)
-- [ ] [<code>l10n: Update msgid</code>](https://github.com/linuxmint/xed/commit/51594c3f3456288711e9d30e416f2f111a7c6f10)
-- [ ] [<code>Use F10 for the minimap</code>](https://github.com/linuxmint/xed/commit/0ecca7db974b87447cc98f847c298b53daad7243)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/cfcb97056ea590eb6502ba609bbc3c24e0231f9e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.6.1</code>](https://github.com/linuxmint/xed/commit/2f5293b65f97ddf984b0287e7c2f78b972b4dab4)
-  - <sub>Tags: <code>3.6.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
 
-- [ ] [<code>Updates org.freedesktop.impl.portal.Settings backend to v2.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/06eaccfd3dbbcd234c687c8cda2111b05c6e88ac)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
-- [ ] [<code>Implement org.freedesktop.impl.portal.Background. (#15)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4be1618e39f8afe32a1419e0ad9b5588594bf500)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
-- [ ] [<code>Fix some missing includes.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d45743c6dc16411430825c0a164376b3e825ee6a)
-- [ ] [<code>settings: Remove accent-color, and cleanup other unused code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/75aa9c996c7ecc9eb72190b361aa1d6542f3b4ca)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>debian/rules: Fix build type.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/48546472b6932c0d68092567ddd307feeb2ac84a)
-- [ ] [<code>1.0.5</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/1b0b380aa7044bd68061fde38640ab533c9d2c4f)
-  - <sub>Tags: <code>1.0.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings: Don't unref GSettingsSchemaSource.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f7ebe8faae00bc739941491f6e7b2223ce521843)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
