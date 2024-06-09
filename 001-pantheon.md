@@ -1577,42 +1577,8 @@
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
 
 
-#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [2.4.4 → HEAD](https://github.com/elementary/capnet-assist/compare/2.4.4...HEAD)
+#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
-- [ ] [<code>Correctly setup the locales (#105)</code>](https://github.com/elementary/capnet-assist/commit/cea7ac6fb47fd831bb607970add3c80473b5e498)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>README: Build with Flatpak (#106)</code>](https://github.com/elementary/capnet-assist/commit/0d311a046235a42a95f0101b62c554356b2153f9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#107)</code>](https://github.com/elementary/capnet-assist/commit/653f8da52b1798914d91c3841e01b9fe99c9d7c4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#108)</code>](https://github.com/elementary/capnet-assist/commit/c5bcc7eabd70cac5105ffe22bb0ff01f22956fe9)
-- [ ] [<code>Port to HdyTabBar (#91)</code>](https://github.com/elementary/capnet-assist/commit/fb6ee6071bd7c529c5ad806942a0066cfd0b819e)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#110)</code>](https://github.com/elementary/capnet-assist/commit/0ab0d3695c560ca71d6d5f3b0a6d82f80e634416)
-- [ ] [<code>MainWindow: GTK 4 prep (#112)</code>](https://github.com/elementary/capnet-assist/commit/4e3e70a73750bd1cf4bbfb78df2412492dc5581a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CertButton: rewrite without gcr-ui (#111)</code>](https://github.com/elementary/capnet-assist/commit/caa82c494f3adfadd4eae5272e4e314689bbf5bd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Remove CertButton (#113)</code>](https://github.com/elementary/capnet-assist/commit/9995c4a2c6b11551a28d758ca8950a1ff08500cb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Port to Gtk4 (#109)</code>](https://github.com/elementary/capnet-assist/commit/bcd73051cd1c11ffd82aff4529cb57ee60df0e95)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>ci: Use gettext-flatpak action (#114)</code>](https://github.com/elementary/capnet-assist/commit/d0e54a4a1d40bae91d2e66e4da52d12a73a79820)
-- [ ] [<code>meson: Fix deprecation warnings (#116)</code>](https://github.com/elementary/capnet-assist/commit/1fda21d0968f91c3b5e836ad5d8d76662c612975)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update README (#115)</code>](https://github.com/elementary/capnet-assist/commit/7222931498868e9bba5cab68bc052f489e3429aa)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/capnet-assist/commit/c7b057f41c5e874598cd57e7befb723ee92355cd)
-- [ ] [<code>desktop: Add categories</code>](https://github.com/elementary/capnet-assist/commit/16546fad5d783bc83b8f87192b3191c5591039e1)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Flatpak: bump platform to 8 (#119)</code>](https://github.com/elementary/capnet-assist/commit/f472a41133ee17f8f2bb7c2a9c73dec8c72a113c)
-- [ ] [<code>Metainfo: add 8 release notes (#120)</code>](https://github.com/elementary/capnet-assist/commit/203ab7d5c8979f7bde9df4e24b1a30f1943669a4)
-- [ ] [<code>Release 8.0.0 (#121)</code>](https://github.com/elementary/capnet-assist/commit/3dd49f55ddf9d61e7fb1cafdb44a85a8baf6cf6e)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
