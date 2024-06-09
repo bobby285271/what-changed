@@ -473,6 +473,9 @@
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
+- [ ] [<code>visibility-group: Use g_new instead of deprecated g_slice.</code>](https://github.com/linuxmint/xapp/commit/aa789885bc04879f78717537eb0631ba7a6983f5)
+- [ ] [<code>visibility-group: Use a GWeakNotify instead of the destroy signal</code>](https://github.com/linuxmint/xapp/commit/3b82a6690c7f9dfd2125c76ac7478329997922ce)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
 
