@@ -378,27 +378,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
-#### [planify](https://github.com/alainm23/planify): [4.8 → HEAD](https://github.com/alainm23/planify/compare/4.8...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.8.2 → HEAD](https://github.com/alainm23/planify/compare/4.8.2...HEAD)
 
-- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/b7323667a81e7daf1db156cbb0d7ff40cac7e6b9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add mobile metadata to .desktop file</code>](https://github.com/alainm23/planify/commit/0434747a33dce128a6eb799a984827d8823a42e4)
-- [ ] [<code>Update Brazilian Portuguese translation</code>](https://github.com/alainm23/planify/commit/d806151dcb088213110a7f3e1d05ea4846b431b0)
-- [ ] [<code>Update Util.vala to better reference Calendar Events location</code>](https://github.com/alainm23/planify/commit/39187e42985ad9e4f6765c97d1f8d056245d2656)
-- [ ] [<code>Update io.github.alainm23.planify.pot to reflect core/Util/Util.vala string change</code>](https://github.com/alainm23/planify/commit/308b395c35b68b11b83555a7f4b558223471b655)
-- [ ] [<code>Update de.po</code>](https://github.com/alainm23/planify/commit/496f177460c54fdb112f073eb23cfd6fe18a0d9f)
-- [ ] [<code>Resolved Vala lint errors</code>](https://github.com/alainm23/planify/commit/165687911e26415f032315223b4a5e5791ed7993)
-- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/6dcf764c7757b3e6324be59a637bc53e3f09bd22)
-- [ ] [<code>Merge pull request #1326 from JJeeff248/master</code>](https://github.com/alainm23/planify/commit/dc20dc5c1617e90eaf3da78f92a356b8eb3597d9)
-- [ ] [<code>Merge pull request #1325 from alp10711/improve-german-translation</code>](https://github.com/alainm23/planify/commit/c4bb99a3fb81524b78b007081e5883771d24f307)
-- [ ] [<code>Merge pull request #1324 from sylviekai/master</code>](https://github.com/alainm23/planify/commit/684b2803751862edcdb33e1fd56a64ef4d05dff9)
-- [ ] [<code>Merge pull request #1323 from helioguardabaxo/master</code>](https://github.com/alainm23/planify/commit/29e1ea07b1351d64e50f7047e952ccd413ee9c26)
-- [ ] [<code>Merge pull request #1320 from gondolyr/add_mobile_metadata_to_desktop_file</code>](https://github.com/alainm23/planify/commit/4d0ffb13e86bfcd8dc4873195a08091d57e114b5)
-- [ ] [<code>fix #1295</code>](https://github.com/alainm23/planify/commit/709f3eed24a8e6c16fb83b658f8a160346c7e57b)
-- [ ] [<code>Release 4.8.2</code>](https://github.com/alainm23/planify/commit/b6bec65957c2e0070f945ae3868a54bb4b740d5e)
-  - <sub>Tags: <code>4.8.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
