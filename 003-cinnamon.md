@@ -136,8 +136,11 @@
 - [ ] [<code>userWidget: Simplify a bit (#12221)</code>](https://github.com/linuxmint/cinnamon/commit/0d2a1ed4e23303db01dd35a93345a5e219f8f7b1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Embed nemo's layout editor into cinnamon-settings' Actions module.</code>](https://github.com/linuxmint/cinnamon/commit/fee5a3258493ebf286a6cf3177e9628de736f6a0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Prevents Cvc.MixerControl from being loaded more than once</code>](https://github.com/linuxmint/cinnamon/commit/158bd30656c51bb7cecacd39f39c33ada9d5cfb7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12226 from claudiux/sound_prevents-multiple-CvcMixercontrol</code>](https://github.com/linuxmint/cinnamon/commit/25f8e1cc341a68164767839ff1914280a49a23cc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -511,21 +514,8 @@
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.3 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.3...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.4 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.4...HEAD)
 
-- [ ] [<code>Get rid of gnome-common build dependency (#231)</code>](https://github.com/linuxmint/slick-greeter/commit/52a1b5970534790becd977894545cacee92d2552)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>configure.ac: Update and fix warning (#233)</code>](https://github.com/linuxmint/slick-greeter/commit/5bd9be1b9b30d89c14b2bde22a95596726d74cf0)
-  - <sub>Tags: <code>master.mint21</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Add cursor scaling for HiDPI displays (#235)</code>](https://github.com/linuxmint/slick-greeter/commit/34ca9b3f852864ab2c9be003393477dceef7cd76)
-- [ ] [<code>build: Add meson support (#240)</code>](https://github.com/linuxmint/slick-greeter/commit/962f34ab3fcb41de80aa1f34c4bf686688369fde)
-  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/slick-greeter/commit/9f591653aef91df647779ddf9989c560681d9521)
-  - <sub>Tags: <code>2.0.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.19 → HEAD](https://github.com/linuxmint/sticky/compare/1.19...HEAD)
 
