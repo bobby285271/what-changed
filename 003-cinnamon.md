@@ -504,12 +504,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.3...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.4 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.4...HEAD)
 
-- [ ] [<code>Fix loadfile for mpv v0.38.0 (#332)</code>](https://github.com/linuxmint/hypnotix/commit/7a4293a62a3adb322d6e2c8a940fb4270d35a5fe)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>4.4</code>](https://github.com/linuxmint/hypnotix/commit/0b9e6bfbabb69fcb2af8408bc14b8123029161a9)
-  - <sub>Tags: <code>4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
