@@ -1283,25 +1283,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/session-settings/commit/71b7b445189419c34ef24bfbb47709f714055136)
 
-#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [2.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/2.0.1...HEAD)
+#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
-- [ ] [<code>Switch to GHCR containers (#137)</code>](https://github.com/elementary/shortcut-overlay/commit/a9c17731c9d68527165bdf19a48f9b1d9b33859d)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/shortcut-overlay/commit/bf73031de93f92aa4e7dfe6ebb4de87c6b74a47a)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#138)</code>](https://github.com/elementary/shortcut-overlay/commit/d446127495c4f55ff52b7a0c58a84e53a4254384)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#140)</code>](https://github.com/elementary/shortcut-overlay/commit/fba68026d896d87826baf82b6a04c358101c959d)
-- [ ] [<code>Updated screenshot used in README (#141)</code>](https://github.com/elementary/shortcut-overlay/commit/3ab6e9ddcee868a19103beaa6b37e72c54b05c5c)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/shortcut-overlay/commit/339ff966da0372aac6f1c25d44eb0c0051599fd7)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/shortcut-overlay/commit/367b1eec37428114e40fe0f6a2b7a7d729f6b962)
-- [ ] [<code>Metainfo Improvements (#143)</code>](https://github.com/elementary/shortcut-overlay/commit/b897da59146cf9351fbd4245f10e26582057b08c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: master → main</code>](https://github.com/elementary/shortcut-overlay/commit/8ef8997d8930ad6fc80c3dbccb6c33df933b9d43)
-- [ ] [<code>Metainfo: add 8 release notes (#144)</code>](https://github.com/elementary/shortcut-overlay/commit/35613939858e929b0bb6526f62ab62d859e4d681)
-- [ ] [<code>Add Screen Reader shortcut (#146)</code>](https://github.com/elementary/shortcut-overlay/commit/15fb12c9a7b962b66408aa7d68571d1ef9395197)
-- [ ] [<code>ShortcutsView: use Granite.HeaderLabel (#147)</code>](https://github.com/elementary/shortcut-overlay/commit/9f54eadc8e937d54532210d34c2a07661a33e85f)
-- [ ] [<code>Update shortcut-overlay.metainfo.xml.in</code>](https://github.com/elementary/shortcut-overlay/commit/066cf37728c0b53379de54dc1f18272328084151)
-- [ ] [<code>Release 8.0.0 (#145)</code>](https://github.com/elementary/shortcut-overlay/commit/5b3dce05027d377da934a73147ea8944769009a3)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
