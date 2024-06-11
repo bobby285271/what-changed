@@ -337,6 +337,9 @@
 - [ ] [<code>CI: setup Flatpak gettext and deploy (#763)</code>](https://github.com/elementary/photos/commit/fff7a87195f7fef5f8f7812956267920f8078c79)
 - [ ] [<code>Flatpak: yml → json (#764)</code>](https://github.com/elementary/photos/commit/a175f7ffc2084b7e52c16406a6b94c8dfa4dc15d)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Fix viewer not being exported in Flatpak (#766)</code>](https://github.com/elementary/photos/commit/7b6495f7390e4ecc3a57322c84925d685c11df34)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -794,6 +797,9 @@
 - [ ] [<code>Use Icon instead of icon name (#231)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8d9a73e50420e4b08b8e0f44aad496c6c4d246f6)
 - [ ] [<code>Use titlebutton properties (#232)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/6db8b31a2098216c40fff6bc2c0ad99f103b3568)
 - [ ] [<code>Actions: bump gettext version</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/80c79bbb2fad6620f86619ccdb3779e5bcb14a7c)
+- [ ] [<code>Metainfo: modernize, fix errors, add fields (#235)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/76fa94a7a95ebe1ee5836d2dc5d945b0a05acc13)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add 8 release notes (#236)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/005c1a35111c2bde1f525af68fe18cca2ddde98e)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
