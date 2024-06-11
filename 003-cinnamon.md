@@ -444,6 +444,8 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.0 → HEAD](https://github.com/linuxmint/pix/compare/3.4.0...HEAD)
 
+- [ ] [<code>fix missing type cast and invalid return type gcc errors (#212)</code>](https://github.com/linuxmint/pix/commit/e2e441bfedbd96247580aa6711569cf8db614a31)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
