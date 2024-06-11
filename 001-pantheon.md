@@ -255,6 +255,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add 8.0 release notes (#2433)</code>](https://github.com/elementary/files/commit/812b8c393eba68e01267a7829d39d17477a95407)
+- [ ] [<code>Validate tip uri when restoring Column View (#2440)</code>](https://github.com/elementary/files/commit/466b52874bfed83b0cc2e0f8451c2e608989d1c0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -373,6 +374,8 @@
 - [ ] [<code>TaskListGrid: unowned task_row</code>](https://github.com/elementary/tasks/commit/f0ab6025702d8c1f7c7c295a778358e42dcd9759)
 - [ ] [<code>TaskListGrid: Gtk4 prep (#385)</code>](https://github.com/elementary/tasks/commit/9c57cd415ca0cba43ddfeaba512b74cec36d6c49)
 - [ ] [<code>EditableLabel: Gtk4 Prep (#383)</code>](https://github.com/elementary/tasks/commit/5d4a035ba7744c99f5404e35be04edef59aa1c97)
+- [ ] [<code>EntryPopover/Generic: Gtk4 Prep (#386)</code>](https://github.com/elementary/tasks/commit/58cfb39f1e90fae3ab5a06170152c4fe1e7dae4c)
+- [ ] [<code>MainWindow: make on_listbox_row_selected lambda a function (#388)</code>](https://github.com/elementary/tasks/commit/cc0f6b5779b433c66201a6b4a0f604a18c1a59cd)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -1141,6 +1144,9 @@
 - [ ] [<code>handle own titlebuttons (#63)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c69e306f4fe0ad72bbf445443bd89df3554dcae5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-wacom/commit/e5968bf1ef357a85e1ba4324851af7d2f781e5e3)
+- [ ] [<code>Metainfo: modernize/organize (#64)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c2cfecf65f02150324777229aff64b3f0160fe47)
+- [ ] [<code>Metainfo: Add release notes for 8 (#65)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/34749a09627a1f1cabb36473d3b93dd73520a9f2)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.0.0...HEAD)
