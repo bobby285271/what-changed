@@ -531,6 +531,11 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.1 → HEAD](https://github.com/linuxmint/xed/compare/3.6.1...HEAD)
 
+- [ ] [<code>Cancel file loading when closing tab (#637) (#644)</code>](https://github.com/linuxmint/xed/commit/c3b7079b942d0cf4b6039126f87d15dd05378e97)
+- [ ] [<code>Use F12 for the minimap</code>](https://github.com/linuxmint/xed/commit/647bfd276083049847ac054a3077671200d1bc90)
+- [ ] [<code>3.6.2</code>](https://github.com/linuxmint/xed/commit/94be65beb89503d69cf1c61d5dbc8bdcf7491e56)
+  - <sub>Tags: <code>3.6.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
 
