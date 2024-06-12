@@ -59,6 +59,13 @@
 - [ ] [<code>Move validate () to FlatpakBackend (#2154)</code>](https://github.com/elementary/appcenter/commit/31a16fa795b6888446ede48abe537e7219c20021)
 - [ ] [<code>Remove BackendInterface (#2156)</code>](https://github.com/elementary/appcenter/commit/d5c89118982e5d504d51fdc71493ae4f4b43284f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Client: remove cache update type (#2157)</code>](https://github.com/elementary/appcenter/commit/339e03b1391eb584bceff25a4e391db3ea1081a5)
+- [ ] [<code>Client: remove things that just call FlatpakBackend (#2158)</code>](https://github.com/elementary/appcenter/commit/5ed8b53e93808875d70b32841174489c3004433c)
+- [ ] [<code>Bump appstream dep to 1.0.0 (#2159)</code>](https://github.com/elementary/appcenter/commit/6708806380d3054b0ca90dcd5297d94558a4943f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move Client class functions to UpdateManager (#2160)</code>](https://github.com/elementary/appcenter/commit/7831acc03faf3049021d31da63d37617feceaf3d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
