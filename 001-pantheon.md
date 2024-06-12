@@ -340,6 +340,9 @@
 - [ ] [<code>Fix viewer not being exported in Flatpak (#766)</code>](https://github.com/elementary/photos/commit/7b6495f7390e4ecc3a57322c84925d685c11df34)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Release 8.0.0 (#759)</code>](https://github.com/elementary/photos/commit/aaa83606295dded21b9eb17a569f20a61c53cad1)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -603,6 +606,7 @@
 - [ ] [<code>HardwareView: Make hostname editable (#321)</code>](https://github.com/elementary/switchboard-plug-about/commit/4e1a6539c4468de65c287785f2cdb11e20de3dca)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>OperatingSystemView: redesign links (#325)</code>](https://github.com/elementary/switchboard-plug-about/commit/90cc076a13bc44a87f843dfc592650033cdb6eb9)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -632,6 +636,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-applications/commit/1cc020a1f1fd06f24f2da15f0a425bea819a09b8)
 - [ ] [<code>POTFILES: Add missing files (#231)</code>](https://github.com/elementary/switchboard-plug-applications/commit/fbe8deaa0d3e42a2b3a3d3ab000836c8dcdd9c31)
 - [ ] [<code>Icon: use Flatpak symbol (#232)</code>](https://github.com/elementary/switchboard-plug-applications/commit/70ca310184490898cdfababb4c1abafa557cacc0)
+- [ ] [<code>Metainfo: add 8 release notes (#233)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bfdf6fb4be9689f6cd57c0af108a195571e26dce)
+- [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/switchboard-plug-applications/commit/4a40e9328b6cdf9d32e9778794982b3aacf41d85)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -666,6 +672,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e22627e924312261611760c458a6ee5495d39549)
 - [ ] [<code>Metainfo: add release notes for 8 (#220)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/9ee32820c8e1b0210106e905e8d3620984307cbd)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2d915b3bff64de5670b5bac1876dd843500eaf82)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/36f9f30350d00e62e81301506e6e6cfebf502d85)
+- [ ] [<code>DeviceRow: add missing audio-headphones (#222)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/ca16df17731de1fd0d34a37ee6aae4cfd87b2d55)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -767,6 +775,7 @@
 - [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#510)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/84857ac958c02879ec257241fe331d6d9787ef25)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Resource: add apps category icon (#511)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1b37c6b2bf6c17ceb21e0a48f0763dbe36751a84)
+- [ ] [<code>Shortcuts: Allow configuring keybinds for launching dock items (#513)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2faf6e805acdef4420adbe54813959fede4250b6)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -940,6 +949,7 @@
 - [ ] [<code>Use SettingsPage and SettingsSidebar (#400)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/9f6fe851eae19f55223f937bc34790b824ddfc0e)
 - [ ] [<code>Appearance: clean up redundant labels (#402)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d55c6993d3295dd8e181a6a52910c634a3f825e)
 - [ ] [<code>Dock: re-add hide mode settings (#405)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b72d1cea1fc9249104e7e278c5aaf7de8b69a576)
+- [ ] [<code>Wallpaper: set actionbar padding in CSS (#404)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/93f5332e65defefaf16bb80caf7d88da9e68eadc)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1574,6 +1584,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
+- [ ] [<code>Metainfo: fix typo in brand color</code>](https://github.com/elementary/capnet-assist/commit/fcdf388081146e0a67b014cc5b9b71c703f99be0)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
