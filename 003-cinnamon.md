@@ -158,7 +158,11 @@
 - [ ] [<code>Apply edits from Codespell (#333)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/496012ac78eb80aa6d4e02b8637d0135c415c8f9)
 - [ ] [<code>network: better default settings for cellular connections (#330)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/27c7bb213c041d015a5ea11dd4e0249a188e63ae)
 - [ ] [<code>network: fix crash when adding cellular connection (#329)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4d9be8916625390d58dd624808ea599fa173db32)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ae916c980b16dbd635dc6da9952f480dd9c8e9b8)
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/cefff5b82676246055600e0d50f0384b991142d0)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -173,18 +177,30 @@
 - [ ] [<code>Add a makepot script.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b554c49ba646b53548d3d43d4e7e6aeb5db87bc6)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>gnome-wall-clock.c: Update default date-time formats to adapt to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f1f82b35b48c2ebeca000caa2ef47d3b4d6b210c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update msgids/msgstr to reflect changes in the previous commit</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4dd6a252b85aafd9f60f1505a4d543b2695d5466)
+- [ ] [<code>Update the default date format</code>](https://github.com/linuxmint/cinnamon-desktop/commit/affa44dc994f3cd913f8407a59b91a28c3ad5ad8)
+- [ ] [<code>Revert "Add a makepot script."</code>](https://github.com/linuxmint/cinnamon-desktop/commit/603ab06280e8332b860a1b8fbef47d58efa11918)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/457682235d573e2b2629a08c0dce841d697ac7af)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-menus/commit/5f899c375f77f5c41f98a18937dc5adb9d5a241a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/68b221bfa8331cbeadcd961a5f5b3faed24a5908)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.3...HEAD)
 
 - [ ] [<code>debian: Don't install CScreensaver-1.0.gir.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/97fcf5d163f45de89159db110462d340dc736acf)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/a9a7f1e783ca96682419fd4ae8e35d29f0720022)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.4...HEAD)
 
@@ -199,7 +215,9 @@
 - [ ] [<code>csm-manager.c: Unset WAYLAND_DISPLAY during shutdown in a wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/128fe7f4be184942b16be2f1dae4cc2dee3f20fc)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>cinnamon-session-quit.py: add missing window icon (#170)</code>](https://github.com/linuxmint/cinnamon-session/commit/40b1a10873da3416f23026b4bb38d151aa046a0e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-session/commit/ab50e44ab8b05de23d0f5d9ce0285d0717e37654)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
@@ -211,7 +229,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>print notifications: Don't send repeated printer-added notifications.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/80974b7ad52f651842127807c82f41e417abdce0)
 - [ ] [<code>notifications manager: Fix compiler warnings.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f28727f1e7d7a916eb4f6c740bdc4ab039b6210e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c762c6f21df70fd15a98cb893e8fa7e167f6c0c5)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
@@ -223,6 +243,12 @@
 - [ ] [<code>Port to mozjs115 (#122)</code>](https://github.com/linuxmint/cjs/commit/f99dbea9cd7be98b70446d65315774e2ff0bd483)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>debian: wrap and sort</code>](https://github.com/linuxmint/cjs/commit/93b8aaf3553e5282e675a1e24643fc3b50a38981)
+- [ ] [<code>d/control: libcjs0 Depends on gir1.2-girepository-2.0</code>](https://github.com/linuxmint/cjs/commit/7fd070810ff15433f08970c0074ee57aefe069bd)
+- [ ] [<code>d/control: libcjs0 Depends on typelibs imported by built-in modules</code>](https://github.com/linuxmint/cjs/commit/9bdce174f4176b9a8ccc5760c55585a3ba81448f)
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cjs/commit/399bccdabc0a5ca00b2350f31abddce63b112d8a)
+  - <sub>Tags: <code>6.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [18102c72ba072cd83ccee69e9051e87e93cab01a → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/18102c72ba072cd83ccee69e9051e87e93cab01a...HEAD)
 
@@ -362,7 +388,9 @@
 - [ ] [<code>meta-monitor-manager-xrandr.c: fix crtc disabling</code>](https://github.com/linuxmint/muffin/commit/c5220267b46f309e37ed7e3245816573a8caf828)
 - [ ] [<code>meta-monitor-manager-xrandr.c: fix screen size</code>](https://github.com/linuxmint/muffin/commit/c0ddf33bb25fcb3b075de1b5a2e50e561bfc44e6)
 - [ ] [<code>meta-monitor-manager-xrandr.c: screen size fixes</code>](https://github.com/linuxmint/muffin/commit/567ca4baa1b4ae10d80f758b3dc782b9a260eef9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/muffin/commit/9aefdd415cf3ac152bfd9563b3b799ac5e1393f7)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
@@ -540,7 +568,9 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
 
 - [ ] [<code>settings: Don't unref GSettingsSchemaSource.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f7ebe8faae00bc739941491f6e7b2223ce521843)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.6</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/15da6ed71d1da30b83e6c5b700bd74c7898304f5)
+  - <sub>Tags: <code>1.0.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
