@@ -66,6 +66,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Move Client class functions to UpdateManager (#2160)</code>](https://github.com/elementary/appcenter/commit/7831acc03faf3049021d31da63d37617feceaf3d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/7567e94bbc039a02c96a9ffb8f8ae61d74a7ee72)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
