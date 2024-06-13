@@ -235,6 +235,8 @@
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/8e6fa393c2b6019455f10e0457fcd22fb01494f5)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
@@ -462,6 +464,11 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/nemo/commit/1da17bacf66b7385389416b99199b97198b2f994)
 - [ ] [<code>layout-editor: Add a label to explain the editor.</code>](https://github.com/linuxmint/nemo/commit/41e97e64781a3a37578db1525d71ad09a43153bd)
+- [ ] [<code>layout-editor: Simplify UI/labels, center dialog</code>](https://github.com/linuxmint/nemo/commit/640a3ff9a7a465ffe7c84c3f8d16c524ddbeda3c)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/8ec78b110d62bc0cdf44f9946c5aaa61b55b7e17)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Edit->Plugins.</code>](https://github.com/linuxmint/nemo/commit/27289d88404d97c5a533d10a60b7ae9671f1b8db)
+- [ ] [<code>nemo-action-layout-editor: Add up/down arrows as an alternative</code>](https://github.com/linuxmint/nemo/commit/80d28b57024515ef6b6ea110722c2e60392c1895)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -502,7 +509,10 @@
 - [ ] [<code>Some more appstream spec updates.</code>](https://github.com/linuxmint/warpinator/commit/6e22eb625722a39cbbda886a6ef8db826faf7096)
 - [ ] [<code>prefs: Fix escape code SyntaxWarning during bytecompile.</code>](https://github.com/linuxmint/warpinator/commit/86db98b7872b61fa3a11cf556cd5176a9b40e3e7)
 - [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/ccbbafbe34f58f9672648bd6e17c656efaeb1d43)
+- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/warpinator/commit/d450699a6b462127911bfec6bbd90a6ce6e6c633)
+  - <sub>Tags: <code>1.8.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
@@ -551,8 +561,21 @@
 - [ ] [<code>Don't use python3.10 code (#124)</code>](https://github.com/linuxmint/sticky/commit/8715a02735e786544403679d8ee0bf796328fa18)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix debian packaging and lintian issues (#121)</code>](https://github.com/linuxmint/sticky/commit/e3eb915e9c0db0e46695e92e36fc2a30273c18a5)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add start position option.</code>](https://github.com/linuxmint/sticky/commit/26aff429758dfbe9f89202e88afa6b0c48017809)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Refactor position key values</code>](https://github.com/linuxmint/sticky/commit/eb4ad3c843c918dc363b83cd92a2c86b812296c2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add command line options.</code>](https://github.com/linuxmint/sticky/commit/247ba711b20b72f7873006fecd2fdd7078273573)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix regression in previous commit</code>](https://github.com/linuxmint/sticky/commit/b8e7ffe28fa857a85cf5f4e720be1c746f135f1c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/sticky/commit/9e18884dc9c99d8c5eb1249e8f8fa6c7707f1cd1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>1.20</code>](https://github.com/linuxmint/sticky/commit/ad9d127ebfffed30574bdba1928a24f5fafbd7bb)
+  - <sub>Tags: <code>1.20</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.1...HEAD)
 
