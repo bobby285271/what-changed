@@ -380,6 +380,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.8.2 → HEAD](https://github.com/alainm23/planify/compare/4.8.2...HEAD)
 
+- [ ] [<code>Make filter icon animation smoother</code>](https://github.com/alainm23/planify/commit/ec2a45f6b18699a88d9e31f546f9e28a30ffff86)
+- [ ] [<code>Update Hindi Translation</code>](https://github.com/alainm23/planify/commit/19bcee104536d60ad6eb1b0f85f96b084c8fed84)
+- [ ] [<code>fix #1316</code>](https://github.com/alainm23/planify/commit/1be961e642c0d48b8d67d14eaa1401908286fd1e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Merge pull request #1328 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/b11e9750aa0fbb68b045b3d8f0f60c9c976c792a)
+- [ ] [<code>Merge pull request #1290 from Riksu9000/smoother-animation</code>](https://github.com/alainm23/planify/commit/3a9bf725e88113be16d676ca2af6ed60f1448bba)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
