@@ -68,6 +68,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/7567e94bbc039a02c96a9ffb8f8ae61d74a7ee72)
 - [ ] [<code>InstalledPackageRowGrid: only show release notes buttons if available (#2164)</code>](https://github.com/elementary/appcenter/commit/618368656eb89ac9942aff635bbd67cdee4d15b8)
+- [ ] [<code>Banner: get scale factor from window (#2169)</code>](https://github.com/elementary/appcenter/commit/509ffc52c2dba308eddfd8920c85d01fefbaa3f1)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -717,6 +718,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/981fc3b716017b2cd2834db83eea065ee3f3e7b9)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-datetime/commit/29d0c3b4d58d2cf13ddf47ef9984d6aaf52b518a)
+- [ ] [<code>Metainfo: organize, add missing tags (#124)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/fa2a83efb7c94c8641067eadbc0bc6f2c23a09ff)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#125)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/237c0e615ec9e8bd07bc8394adbb25ed0dc0399b)
+- [ ] [<code>Actions/Release: bump branch to noble</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ebdbeb44116e7dab56d6bbc59150cac86bdb93b3)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
