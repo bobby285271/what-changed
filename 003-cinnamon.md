@@ -140,7 +140,13 @@
 - [ ] [<code>Prevents Cvc.MixerControl from being loaded more than once</code>](https://github.com/linuxmint/cinnamon/commit/158bd30656c51bb7cecacd39f39c33ada9d5cfb7)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12226 from claudiux/sound_prevents-multiple-CvcMixercontrol</code>](https://github.com/linuxmint/cinnamon/commit/25f8e1cc341a68164767839ff1914280a49a23cc)
+- [ ] [<code>l10n: Generate additional files</code>](https://github.com/linuxmint/cinnamon/commit/855da4c83c3c739a48af15ff0ff767823924f383)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Generate CS module desktop files</code>](https://github.com/linuxmint/cinnamon/commit/979ccde2fb4554776e82ecbec37a0537babc71ac)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/3aed68c8650143692d568df033261ab95b2e499e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -480,6 +486,9 @@
 - [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 - [ ] [<code>Fix python NameError: '_' is not defined (#514)</code>](https://github.com/linuxmint/nemo-extensions/commit/c1823b648da14e8cae664b59d914e1f64ebe3327)
 - [ ] [<code>Update pypdf in nemo-media-columns (#523)</code>](https://github.com/linuxmint/nemo-extensions/commit/68b27d5ed9738008fc7e899fa4b0c7222ea9ddfb)
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/nemo-extensions/commit/0a4246b76a86c48d1a856181e8bca4c24621b8c9)
+  - <sub>Tags: <code>6.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.0 → HEAD](https://github.com/linuxmint/pix/compare/3.4.0...HEAD)
 
