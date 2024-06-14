@@ -67,6 +67,7 @@
 - [ ] [<code>Move Client class functions to UpdateManager (#2160)</code>](https://github.com/elementary/appcenter/commit/7831acc03faf3049021d31da63d37617feceaf3d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/7567e94bbc039a02c96a9ffb8f8ae61d74a7ee72)
+- [ ] [<code>InstalledPackageRowGrid: only show release notes buttons if available (#2164)</code>](https://github.com/elementary/appcenter/commit/618368656eb89ac9942aff635bbd67cdee4d15b8)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -117,6 +118,7 @@
 - [ ] [<code>PreferencesDialog: make resizable (#1432)</code>](https://github.com/elementary/code/commit/108b09111be4958ed17e06ce9b1a1634bca4152d)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/code/commit/ee7d7f5f0b12bdc540f0e37efeca20434bef20e7)
 - [ ] [<code>Application: Localize go-to option</code>](https://github.com/elementary/code/commit/fbbfbbcc800e592699898a1bf3e502c63c4a169e)
+- [ ] [<code>Allow new documents (zero size files) to open. (#1437)</code>](https://github.com/elementary/code/commit/3f353c1835f3a1924d2b23cdd25ce83ae9d6593e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -194,6 +196,7 @@
 - [ ] [<code>Add some more comments (#244)</code>](https://github.com/elementary/dock/commit/09aea5637bfa77a0c2afb4f75cc93ad7694c6629)
 - [ ] [<code>Allow launching apps via keyboard shortcuts (#245)</code>](https://github.com/elementary/dock/commit/14d5f85fa9a9844b671bd5e272fbadd8b26fd010)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add issues tag (#247)</code>](https://github.com/elementary/dock/commit/78b2c466d724e4732f8a7956665391a908cf793f)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
