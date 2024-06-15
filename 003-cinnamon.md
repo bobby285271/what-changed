@@ -145,8 +145,14 @@
 - [ ] [<code>l10n: Generate CS module desktop files</code>](https://github.com/linuxmint/cinnamon/commit/979ccde2fb4554776e82ecbec37a0537babc71ac)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/3aed68c8650143692d568df033261ab95b2e499e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>xdg-desktop-portal: Don't ship the x-cinnamon-portals.conf file.</code>](https://github.com/linuxmint/cinnamon/commit/13ab48cc24ec5a5cbbaad2e70e8b2ecdd3d88882)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>PopupSliderMenuItem: Don't track the hover state (#12229)</code>](https://github.com/linuxmint/cinnamon/commit/0974bc92afa7c2e7bd96cba089336c5a143a9e30)
+- [ ] [<code>window-list: Remove indicators for minimized and tiled windows (#12227)</code>](https://github.com/linuxmint/cinnamon/commit/f397f4f41b9ef63a1da8c4b43804769052cc96ce)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -495,42 +501,14 @@
 - [ ] [<code>fix missing type cast and invalid return type gcc errors (#212)</code>](https://github.com/linuxmint/pix/commit/e2e441bfedbd96247580aa6711569cf8db614a31)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.4...HEAD)
 
-- [ ] [<code>Adapt to upstream packaging changes (#201)</code>](https://github.com/linuxmint/warpinator/commit/414ac65acf8f6ea6fa4e8945863333dba984176d)
-- [ ] [<code>Add a 'restart' item to the menu.</code>](https://github.com/linuxmint/warpinator/commit/a81c39d7786610fcf9cd6b1e536f66137970df2f)
-- [ ] [<code>warpinator-launch.py: Fix hardcoded paths.</code>](https://github.com/linuxmint/warpinator/commit/1aeae3a4789ea9726cb70bdeaa93647980183abd)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>warpinator-launch.py: (bwrap) Deal with systems that use /tmp for</code>](https://github.com/linuxmint/warpinator/commit/fa0631874fe68f71d68180af76caac5ccf6717ab)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/2ba6e7c4748a90525defc391ec6cb461751a5a1c)
-- [ ] [<code>Remove restrictions on having a save directory in /run/*</code>](https://github.com/linuxmint/warpinator/commit/5c22583f5e3f24823d421691ae474bd8e2f18a25)
-- [ ] [<code>warpinator.py: Don't inhibit the session until the transfer starts.</code>](https://github.com/linuxmint/warpinator/commit/f0cbc3b0cad3d3fb9f774eb51260c8f1a794186f)
-- [ ] [<code>remote.py: Fix a debugging line.</code>](https://github.com/linuxmint/warpinator/commit/3eb3ff994fc33a7891c79a4ce4e5090997db2677)
-- [ ] [<code>Update appdata screenshots.</code>](https://github.com/linuxmint/warpinator/commit/3db5f37a1ce279fb6b32a33ab360b82ce529773a)
-- [ ] [<code>Fix test/demo mode.</code>](https://github.com/linuxmint/warpinator/commit/4f6984c2363668806d512577cd63cf5a5267a7ba)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>appdata: Update to follow the latest Flathub guidelines.</code>](https://github.com/linuxmint/warpinator/commit/03b1a9497cbc58f841d7065fddfa91526c137679)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/warpinator/commit/3a0610f449f909a8da965b349a053ce985034da1)
-- [ ] [<code>warpinator-launch.py: Catch a potential error in landlock check.</code>](https://github.com/linuxmint/warpinator/commit/4bb54c7c2863f0d6eb8d63569fbae4951768b5aa)
-- [ ] [<code>src/transfers.py: Follow toplevel symbolic links when gathering</code>](https://github.com/linuxmint/warpinator/commit/6a1101cf61e096591309d65339c4cceb672d6b60)
-- [ ] [<code>Remove iOS links (#204)</code>](https://github.com/linuxmint/warpinator/commit/de3cbde98702e8bac9691175f0b972bea635b256)
-- [ ] [<code>warpinator-launch: Unset GTK3_MODULES for Flatpak installs.</code>](https://github.com/linuxmint/warpinator/commit/ca475e3f63c4a73d38d756d5bd4fd1d6ce32ee7e)
-- [ ] [<code>build: Don't install warpinator-send as part of a flatpak build.</code>](https://github.com/linuxmint/warpinator/commit/d77a9dcd1c0c15fba55c71ab1359f38748a47ab1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Some more appstream spec updates.</code>](https://github.com/linuxmint/warpinator/commit/6e22eb625722a39cbbda886a6ef8db826faf7096)
-- [ ] [<code>prefs: Fix escape code SyntaxWarning during bytecompile.</code>](https://github.com/linuxmint/warpinator/commit/86db98b7872b61fa3a11cf556cd5176a9b40e3e7)
-- [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/ccbbafbe34f58f9672648bd6e17c656efaeb1d43)
-- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/warpinator/commit/d450699a6b462127911bfec6bbd90a6ce6e6c633)
-  - <sub>Tags: <code>1.8.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
 - [ ] [<code>visibility-group: Use g_new instead of deprecated g_slice.</code>](https://github.com/linuxmint/xapp/commit/aa789885bc04879f78717537eb0631ba7a6983f5)
 - [ ] [<code>visibility-group: Use a GWeakNotify instead of the destroy signal</code>](https://github.com/linuxmint/xapp/commit/3b82a6690c7f9dfd2125c76ac7478329997922ce)
+- [ ] [<code>xapp-visibility-group: add missing declaration in header file.</code>](https://github.com/linuxmint/xapp/commit/7ae03d42e14bd3426886a0dd80f9688e78fb3c70)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
@@ -566,43 +544,21 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.4 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.4...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.19 → HEAD](https://github.com/linuxmint/sticky/compare/1.19...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.20 → HEAD](https://github.com/linuxmint/sticky/compare/1.20...HEAD)
 
-- [ ] [<code>meson: Various fixes (#118)</code>](https://github.com/linuxmint/sticky/commit/3a30b056b04e265aacb171faeb73883a159c2364)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Don't use python3.10 code (#124)</code>](https://github.com/linuxmint/sticky/commit/8715a02735e786544403679d8ee0bf796328fa18)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix debian packaging and lintian issues (#121)</code>](https://github.com/linuxmint/sticky/commit/e3eb915e9c0db0e46695e92e36fc2a30273c18a5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add start position option.</code>](https://github.com/linuxmint/sticky/commit/26aff429758dfbe9f89202e88afa6b0c48017809)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Refactor position key values</code>](https://github.com/linuxmint/sticky/commit/eb4ad3c843c918dc363b83cd92a2c86b812296c2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add command line options.</code>](https://github.com/linuxmint/sticky/commit/247ba711b20b72f7873006fecd2fdd7078273573)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Fix regression in previous commit</code>](https://github.com/linuxmint/sticky/commit/b8e7ffe28fa857a85cf5f4e720be1c746f135f1c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/sticky/commit/9e18884dc9c99d8c5eb1249e8f8fa6c7707f1cd1)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>1.20</code>](https://github.com/linuxmint/sticky/commit/ad9d127ebfffed30574bdba1928a24f5fafbd7bb)
-  - <sub>Tags: <code>1.20</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.1...HEAD)
 
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.6.1 → HEAD](https://github.com/linuxmint/xed/compare/3.6.1...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.6.2 → HEAD](https://github.com/linuxmint/xed/compare/3.6.2...HEAD)
 
-- [ ] [<code>Cancel file loading when closing tab (#637) (#644)</code>](https://github.com/linuxmint/xed/commit/c3b7079b942d0cf4b6039126f87d15dd05378e97)
-- [ ] [<code>Use F12 for the minimap</code>](https://github.com/linuxmint/xed/commit/647bfd276083049847ac054a3077671200d1bc90)
-- [ ] [<code>3.6.2</code>](https://github.com/linuxmint/xed/commit/94be65beb89503d69cf1c61d5dbc8bdcf7491e56)
-  - <sub>Tags: <code>3.6.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update open-uri-context-menu.py (#646)</code>](https://github.com/linuxmint/xed/commit/cc8251959006bebe9600a39f165d8f710dc06699)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.6 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.6...HEAD)
 
+- [ ] [<code>background: Allow enabling background apps for partial support in</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/024ec3ec9947787aed8796827c93b24fdff892a1)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
