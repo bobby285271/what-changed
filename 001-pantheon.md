@@ -268,6 +268,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add 8.0 release notes (#2433)</code>](https://github.com/elementary/files/commit/812b8c393eba68e01267a7829d39d17477a95407)
 - [ ] [<code>Validate tip uri when restoring Column View (#2440)</code>](https://github.com/elementary/files/commit/466b52874bfed83b0cc2e0f8451c2e608989d1c0)
+- [ ] [<code>Update info when streaming to a file (#2442)</code>](https://github.com/elementary/files/commit/5a1267c7af26cda98f15e2b989564f54c2450c8c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -619,6 +620,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>OperatingSystemView: redesign links (#325)</code>](https://github.com/elementary/switchboard-plug-about/commit/90cc076a13bc44a87f843dfc592650033cdb6eb9)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/0dae65cae8561d4d051ddf427ed5c393733871f2)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -1018,6 +1020,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Device: Add context for battery level strings (#266)</code>](https://github.com/elementary/switchboard-plug-power/commit/51a696728578500593e5d94aced884814eccb7f3)
 - [ ] [<code>Mainview: simpler backlight detection (#251)</code>](https://github.com/elementary/switchboard-plug-power/commit/036eeacfe8e54a21f5103240a6883580ded030d7)
+- [ ] [<code>Metainfo: modernize, add missing fields (#267)</code>](https://github.com/elementary/switchboard-plug-power/commit/96e60f239a0954cb88556fb3d792d7e5dd579a26)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#268)</code>](https://github.com/elementary/switchboard-plug-power/commit/391a8ae35aca63836afcc52b56051d31aa5e5113)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -1659,6 +1664,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>UbuntuDrivers: Update notification copy (#147)</code>](https://github.com/elementary/settings-daemon/commit/bfe9383325a6a8ade0c20b7baae7c8059dfb0ef6)
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/018c37512392f02e81d7bddd99f12ac025a80f99)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
