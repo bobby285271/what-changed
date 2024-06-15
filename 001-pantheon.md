@@ -307,55 +307,8 @@
 - [ ] [<code>Add music file[s] from within app (#766)</code>](https://github.com/elementary/music/commit/7ebb2bf78d7502dd017faeb04a01cce5e6a79ec9)
 - [ ] [<code>Metainfo: add 8 release notes (#773)</code>](https://github.com/elementary/music/commit/6643e167aaf9106b8f1e6f4803eafa1e9fd3ef79)
 
-#### [pantheon.elementary-photos](https://github.com/elementary/photos): [2.8.0 → HEAD](https://github.com/elementary/photos/compare/2.8.0...HEAD)
+#### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#731)</code>](https://github.com/elementary/photos/commit/4227b966535ab1fef68ca31763cda48605d16122)
-- [ ] [<code>po/extra/zh_HK.po: Change charset to UTF-8 (#732)</code>](https://github.com/elementary/photos/commit/bda2e11353925b8c6d59285f0101f182e492c618)
-- [ ] [<code>Fix a few vala semantic issues with type-argmunents</code>](https://github.com/elementary/photos/commit/324581b9b1175c777cebeed311939fbc12a8123b)
-- [ ] [<code>Add translation field (#735)</code>](https://github.com/elementary/photos/commit/3141acca0d237313b30304a57778db5be8eae067)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/photos/commit/bf8125094e005480599b466816a04d09c7eb9d6c)
-- [ ] [<code>Bump bilelmoussaoui/flatpak-github-actions from 3 to 5 (#739)</code>](https://github.com/elementary/photos/commit/872ccf0168cafcad168123e162bd77a756336498)
-- [ ] [<code>Switch to GHCR containers (#738)</code>](https://github.com/elementary/photos/commit/a0749083c6e1e810dc8742311641342ceeaaf1ff)
-- [ ] [<code>Update flatpak actions to new namespace (#740)</code>](https://github.com/elementary/photos/commit/605a4d1376a7d0280ae89f924fae88e9eadb7838)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 5 to 6 (#741)</code>](https://github.com/elementary/photos/commit/ee6dc3ac7818aaa9a26626b8d0854a2e752ea70d)
-- [ ] [<code>docs: Declare libhandy-1 dependency (#743)</code>](https://github.com/elementary/photos/commit/c48f49869bbf44aa37e64c0c1e25aff887783a02)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Remove the publishing-extras plugins</code>](https://github.com/elementary/photos/commit/d7a8265ecb562e439d003b61b0823de8348fb10d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove the publishing plugins</code>](https://github.com/elementary/photos/commit/d8e13e8e803ed7ab1bd23527866567d998744f57)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove the publishing dependencies</code>](https://github.com/elementary/photos/commit/075f983a65e9c6d4e80ee07f0c05309badef526a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>meson: Allow to use geocode-glib-2.0</code>](https://github.com/elementary/photos/commit/ea11cf23db6945df6cc3495fd698456054389371)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#749)</code>](https://github.com/elementary/photos/commit/09e55943b266bc2861b913251cb834169d81743e)
-- [ ] [<code>POTFILES: Remove the publishing plugins (#751)</code>](https://github.com/elementary/photos/commit/4d79c527cda21115528e1a6573995918a30aa5ae)
-- [ ] [<code>Use Wallpaper Portal (#756)</code>](https://github.com/elementary/photos/commit/e8d4c4907bb56fba4a931caa1b4c88d4afb1b8a3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/photos/commit/d4b7192d937269f85fe2472a97e0cd6243bca676)
-- [ ] [<code>Modernize metainfo (#757)</code>](https://github.com/elementary/photos/commit/427f21d4fb31f9b5566d9456111170d928ce1a22)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8 release notes (#758)</code>](https://github.com/elementary/photos/commit/60d65768b506018fe48900e07690af178b843a04)
-- [ ] [<code>Finish Removing Publishing (#761)</code>](https://github.com/elementary/photos/commit/37b5223278e69dcb4ffc2c6b165f32161ce9302c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use open directory portal (#762)</code>](https://github.com/elementary/photos/commit/ba3cd8fa2f5867940315a55a0f742c9d7681b60f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump to platform 8 (#760)</code>](https://github.com/elementary/photos/commit/5b69f191b58c9d97e0caa2845df010b7ab847eec)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/photos/commit/4af99cdfd02ae0c9a7c05972fdbf15fa701b2714)
-- [ ] [<code>Update ci.yml</code>](https://github.com/elementary/photos/commit/53ca6ec8bf7ba19f04d2c81d2735f26e7601c30d)
-- [ ] [<code>CI: setup Flatpak gettext and deploy (#763)</code>](https://github.com/elementary/photos/commit/fff7a87195f7fef5f8f7812956267920f8078c79)
-- [ ] [<code>Flatpak: yml → json (#764)</code>](https://github.com/elementary/photos/commit/a175f7ffc2084b7e52c16406a6b94c8dfa4dc15d)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Fix viewer not being exported in Flatpak (#766)</code>](https://github.com/elementary/photos/commit/7b6495f7390e4ecc3a57322c84925d685c11df34)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Release 8.0.0 (#759)</code>](https://github.com/elementary/photos/commit/aaa83606295dded21b9eb17a569f20a61c53cad1)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
