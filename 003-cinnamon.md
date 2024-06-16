@@ -151,8 +151,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>PopupSliderMenuItem: Don't track the hover state (#12229)</code>](https://github.com/linuxmint/cinnamon/commit/0974bc92afa7c2e7bd96cba089336c5a143a9e30)
 - [ ] [<code>window-list: Remove indicators for minimized and tiled windows (#12227)</code>](https://github.com/linuxmint/cinnamon/commit/f397f4f41b9ef63a1da8c4b43804769052cc96ce)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon/commit/636d3ea7d75fc64dc1caaa7ecb3bb6aff5eca19b)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
