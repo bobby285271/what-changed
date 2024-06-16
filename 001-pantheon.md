@@ -120,6 +120,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/code/commit/ee7d7f5f0b12bdc540f0e37efeca20434bef20e7)
 - [ ] [<code>Application: Localize go-to option</code>](https://github.com/elementary/code/commit/fbbfbbcc800e592699898a1bf3e502c63c4a169e)
 - [ ] [<code>Allow new documents (zero size files) to open. (#1437)</code>](https://github.com/elementary/code/commit/3f353c1835f3a1924d2b23cdd25ce83ae9d6593e)
+- [ ] [<code>[GTK4 Prep] Update DocumentView to use Hdy.TabView (#1424)</code>](https://github.com/elementary/code/commit/b6352b68d38fcb3946b233d2e5400846cce53f96)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -198,6 +199,7 @@
 - [ ] [<code>Allow launching apps via keyboard shortcuts (#245)</code>](https://github.com/elementary/dock/commit/14d5f85fa9a9844b671bd5e272fbadd8b26fd010)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add issues tag (#247)</code>](https://github.com/elementary/dock/commit/78b2c466d724e4732f8a7956665391a908cf793f)
+- [ ] [<code>gschema: Add Files to dock (#248)</code>](https://github.com/elementary/dock/commit/047b9b149ebc15f9a5d8d172e1da510af1a15165)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -269,6 +271,7 @@
 - [ ] [<code>Add 8.0 release notes (#2433)</code>](https://github.com/elementary/files/commit/812b8c393eba68e01267a7829d39d17477a95407)
 - [ ] [<code>Validate tip uri when restoring Column View (#2440)</code>](https://github.com/elementary/files/commit/466b52874bfed83b0cc2e0f8451c2e608989d1c0)
 - [ ] [<code>Update info when streaming to a file (#2442)</code>](https://github.com/elementary/files/commit/5a1267c7af26cda98f15e2b989564f54c2450c8c)
+- [ ] [<code>Change accel for duplicate tab to match Code and Web Browser (#2443)</code>](https://github.com/elementary/files/commit/8542c8be161d5f45950e1d6ec31efdf695fed3cd)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -309,6 +312,7 @@
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
+- [ ] [<code>gschema: Remove alias to sharing (#767)</code>](https://github.com/elementary/photos/commit/42bc09e4782380dd4b221974ea02f21ebf12baa3)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
