@@ -384,6 +384,7 @@
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>Fix inoperative header decorations when fullscreened (#753)</code>](https://github.com/elementary/terminal/commit/9ad5ca658dde815fe1b09158378307d73c1b6a4f)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/terminal/commit/95468be531d4b35a6813bcfa3904926dbb847308)
+- [ ] [<code>Update POTFILES (#759)</code>](https://github.com/elementary/terminal/commit/ed33e57fc55668aa9a4a20901647993410e568dc)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
