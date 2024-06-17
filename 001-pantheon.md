@@ -73,6 +73,7 @@
 - [ ] [<code>Move updates_liststore to UpdateManager (#2162)</code>](https://github.com/elementary/appcenter/commit/bc6f584695a8d78b3a2b28bfcec89c30498fad40)
 - [ ] [<code>AppListUpdateView: use Adw.ToolbarView (#2171)</code>](https://github.com/elementary/appcenter/commit/3155035f32e040056935568a3214d5c110838de1)
 - [ ] [<code>SearchView: make search_entry internal (#2167)</code>](https://github.com/elementary/appcenter/commit/5923b6a417b254665bf3ab152e8b1ff91341809d)
+- [ ] [<code>AppListUpdateView: set loading placeholder only when loading (#2172)</code>](https://github.com/elementary/appcenter/commit/2848646fe549c9b308ca85a8cd14127e8f46ff34)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
