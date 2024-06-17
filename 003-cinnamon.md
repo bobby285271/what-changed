@@ -153,8 +153,11 @@
 - [ ] [<code>window-list: Remove indicators for minimized and tiled windows (#12227)</code>](https://github.com/linuxmint/cinnamon/commit/f397f4f41b9ef63a1da8c4b43804769052cc96ce)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon/commit/636d3ea7d75fc64dc1caaa7ecb3bb6aff5eca19b)
-  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix extensions automatically enabling on download (#12239)</code>](https://github.com/linuxmint/cinnamon/commit/fbd7191983c7fc3f299e335fc352e08bd7b441fb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
