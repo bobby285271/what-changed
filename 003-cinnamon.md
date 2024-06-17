@@ -286,11 +286,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Kotlin mimetype (#9)</code>](https://github.com/linuxmint/mint-l-icons/commit/7a3eca86a9cb21e3ce4f7750c0f265bc2c09da65)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-l-icons/commit/f5edf5683c7e7e51da2c0e66a9a288d5342edc63)
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
 - [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly</code>](https://github.com/linuxmint/mint-l-theme/commit/f5cdf4c4c5b2fb514e5604f5021893ba0e20aa64)
 - [ ] [<code>Merge pull request #14 from fredcw/soundoverlay</code>](https://github.com/linuxmint/mint-l-theme/commit/6845128af2bf9434758f028b7f1ad1d51089fe5b)
+- [ ] [<code>1.9.7</code>](https://github.com/linuxmint/mint-l-theme/commit/edc0d8c2f252ed80af0b24f831f3f35ab206896d)
+  - <sub>Tags: <code>1.9.7</code></sub>
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
 
@@ -300,7 +303,8 @@
 - [ ] [<code>Linux Mint theme fix expo-workspaces-name-entry (#473)</code>](https://github.com/linuxmint/mint-themes/commit/de8cb8ed1967b9da8f41218e84f1c0e2b16fadd6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon: Add support for the new rounded userWidget</code>](https://github.com/linuxmint/mint-themes/commit/654ec9d2c77886e3998a596d9cc13426aba420f3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.1.7</code>](https://github.com/linuxmint/mint-themes/commit/64383f37c8cc890bb68cbd3777e4ca33e63fbf44)
+  - <sub>Tags: <code>2.1.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
 
@@ -314,6 +318,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add kotlin icons (#202)</code>](https://github.com/linuxmint/mint-x-icons/commit/285b60dad2017eaf54472a55173bdb94dc026c50)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-x-icons/commit/3ebfce63293b100eb8eacf8063e04942e74850e9)
+  - <sub>Tags: <code>1.6.9</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
 
@@ -386,6 +392,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add X icon (#422)</code>](https://github.com/linuxmint/mint-y-icons/commit/8fcd039fb52b3bcbb3654f5d6a99d21642d018a1)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-y-icons/commit/a7ed8a66012977ecaa876bf01a8246e586e62357)
+  - <sub>Tags: <code>1.7.6</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
