@@ -69,6 +69,10 @@
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/7567e94bbc039a02c96a9ffb8f8ae61d74a7ee72)
 - [ ] [<code>InstalledPackageRowGrid: only show release notes buttons if available (#2164)</code>](https://github.com/elementary/appcenter/commit/618368656eb89ac9942aff635bbd67cdee4d15b8)
 - [ ] [<code>Banner: get scale factor from window (#2169)</code>](https://github.com/elementary/appcenter/commit/509ffc52c2dba308eddfd8920c85d01fefbaa3f1)
+- [ ] [<code>CSS: make categories all use the same font (#2165)</code>](https://github.com/elementary/appcenter/commit/5545114540afe618c6691903c1d29246bf6e61a6)
+- [ ] [<code>Move updates_liststore to UpdateManager (#2162)</code>](https://github.com/elementary/appcenter/commit/bc6f584695a8d78b3a2b28bfcec89c30498fad40)
+- [ ] [<code>AppListUpdateView: use Adw.ToolbarView (#2171)</code>](https://github.com/elementary/appcenter/commit/3155035f32e040056935568a3214d5c110838de1)
+- [ ] [<code>SearchView: make search_entry internal (#2167)</code>](https://github.com/elementary/appcenter/commit/5923b6a417b254665bf3ab152e8b1ff91341809d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
