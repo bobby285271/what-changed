@@ -828,6 +828,8 @@
 - [ ] [<code>l10n: Correct GETTEXT_PACKAGE (#399)</code>](https://github.com/elementary/switchboard-plug-network/commit/16ea3e892edb7bfad806bd7138d55801ff72e119)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Pages set status (#398)</code>](https://github.com/elementary/switchboard-plug-network/commit/26581d8f86708f594083d321fc03b0cb22568f8c)
+- [ ] [<code>Metainfo: organize, add missing fields (#400)</code>](https://github.com/elementary/switchboard-plug-network/commit/c1d26b680f9fcd163e9b73996632292f939d3be1)
+- [ ] [<code>Metainfo: add 8 release notes (#401)</code>](https://github.com/elementary/switchboard-plug-network/commit/18586b99e8c514a962de4834d933bddc6315b173)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -1413,6 +1415,7 @@
 - [ ] [<code>Dialogs: Fix Mutter bindings around dialog creation (#1941)</code>](https://github.com/elementary/gala/commit/48511d7dd0b2607e71c9ac77b2b38a1ab7cfd6e2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CloseDialog: Reuse the Gala.App object to get the user-visible title (#1944)</code>](https://github.com/elementary/gala/commit/d5e89a9fd1bdd3fdadfbd3c9a562e738684d048f)
+- [ ] [<code>Dialogs: Implement InhibitShortcutsDialog (#1948)</code>](https://github.com/elementary/gala/commit/81f84728231816fbb49ecc4912828f991cd8f0cf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1647,6 +1650,8 @@
 - [ ] [<code>Screenshot portal (#94)</code>](https://github.com/elementary/portals/commit/8ba0fe1e1766d5104e4ea1fdc6d7ae5d573401db)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/portals/commit/a7b4d8812a0dca0a1444280597fd501287cc92f1)
+- [ ] [<code>Implement screen cast portal (#102)</code>](https://github.com/elementary/portals/commit/ad05247e31bb96ce41a16156c439364b270f9bf8)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
