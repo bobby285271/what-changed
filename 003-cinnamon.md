@@ -309,94 +309,11 @@
 - [ ] [<code>2.1.7</code>](https://github.com/linuxmint/mint-themes/commit/64383f37c8cc890bb68cbd3777e4ca33e63fbf44)
   - <sub>Tags: <code>2.1.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.8...HEAD)
+#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.9...HEAD)
 
-- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-x-icons/commit/789902ceca549c4451ee26a6cb7a11caabf85d55)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-x-icons/commit/7eff486a3570455cb2870a1843f951e91e449ee1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-x-icons/commit/779b4a537688b79851b47bd6c5d1aad39969f7a3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove dead links</code>](https://github.com/linuxmint/mint-x-icons/commit/6e4a8d29895709914d1e189e28486290e093a195)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add kotlin icons (#202)</code>](https://github.com/linuxmint/mint-x-icons/commit/285b60dad2017eaf54472a55173bdb94dc026c50)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/mint-x-icons/commit/3ebfce63293b100eb8eacf8063e04942e74850e9)
-  - <sub>Tags: <code>1.6.9</code></sub>
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.5...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.6...HEAD)
 
-- [ ] [<code>Add Vesktop icon (#403)</code>](https://github.com/linuxmint/mint-y-icons/commit/f818fb2f212dcee89b790479574518b5e4126468)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>symlinks: Add im.riot.Riot</code>](https://github.com/linuxmint/mint-y-icons/commit/e201290a91ca5bf509a1baaf818840f8f40a74ab)
-- [ ] [<code>symlinks: Add ro.go.hmlendea.DL-Desktop.png</code>](https://github.com/linuxmint/mint-y-icons/commit/7ac12a6ddd7ef82ffcdf3c1ae2649d09e02ef861)
-- [ ] [<code>symlinks: Add whatsapp links</code>](https://github.com/linuxmint/mint-y-icons/commit/9cf58fa782d7b9fed29632bfd48d49d2d8a7e3c4)
-- [ ] [<code>symlinks: Add missing icons</code>](https://github.com/linuxmint/mint-y-icons/commit/85834182589213c5e79d39a83f801931077ba98e)
-- [ ] [<code>Add Zoom icon (#409)</code>](https://github.com/linuxmint/mint-y-icons/commit/f23923b07547ec0ebf34ca53201800182006e66a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add PrusaSlicer icons (#402)</code>](https://github.com/linuxmint/mint-y-icons/commit/836d9186a0ec5b60378747032ae7109b869afd1a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-y-icons/commit/b7937b45090f8b15f7718bd51ef7bee1eb0e263c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-y-icons/commit/480f4595fa5969b0f65e59cbab59b2c2e1cbf78e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-y-icons/commit/0dab9b9e4d7b664f265a690cbe05cf540dea8326)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-y-icons/commit/5d62443cc5d06ae493aaa07e70c571333409255e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update icons of some applications</code>](https://github.com/linuxmint/mint-y-icons/commit/a8f36c7e389df54129578390a35d0dcb7bd1e827)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add new icons of some applications</code>](https://github.com/linuxmint/mint-y-icons/commit/790d93005b1c0ab3d39e4b2104f8049abacf0e3b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update VLC icon</code>](https://github.com/linuxmint/mint-y-icons/commit/29e061c65ef7fa6b7d2098047bd441257c816f9b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Pixelfed icon</code>](https://github.com/linuxmint/mint-y-icons/commit/cd78d3f52e06cc65533fb868427482a9850cecfb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Pixiv icon</code>](https://github.com/linuxmint/mint-y-icons/commit/c97bcb3afb6540e3d6a647ed785977da2a991ad9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Kotlin icon</code>](https://github.com/linuxmint/mint-y-icons/commit/d8b542d762cf7a8563d88f229433650511591dbc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Avast icon</code>](https://github.com/linuxmint/mint-y-icons/commit/227d204889bcdff983fb3074d7b1e9c86d88f2d4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Parsec icon</code>](https://github.com/linuxmint/mint-y-icons/commit/0b28332a1893803647ea86e0482a1789e8d02dbc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Matrix icon</code>](https://github.com/linuxmint/mint-y-icons/commit/587f9099c1b678428f9e2c622128a442189329aa)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove "web-" prefix from the Signal icon (app has no web client)</code>](https://github.com/linuxmint/mint-y-icons/commit/5f11ab817c1fc1bbf6c4e9aea27fd859e607296a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add symbolic links for the Signal desktop app</code>](https://github.com/linuxmint/mint-y-icons/commit/d9f8057a4fda6fcc337258189ca6c48026135e9f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Element icon</code>](https://github.com/linuxmint/mint-y-icons/commit/50a5d2437bb413b1770f5d1c26e919af8f03fc48)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add the symbolic links of the new icons to the symbolic-apps-list</code>](https://github.com/linuxmint/mint-y-icons/commit/3508669ed5382b6a8ad9e1e477de8f071e0bbca7)
-- [ ] [<code>Fix symlink for gnome-tweak-tool</code>](https://github.com/linuxmint/mint-y-icons/commit/0aa750cae4b1b0bd5b7f36c42ca6dba20ea0bd8e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix symlink for obsidian</code>](https://github.com/linuxmint/mint-y-icons/commit/e7e19093706ae6ce164a78e579bdf40dc4a7ba0d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Generate missing symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/580a6bc32006321c15a76cb9f43884fbc4bb4f9e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update mendeley icon</code>](https://github.com/linuxmint/mint-y-icons/commit/daaa97f814c771cf6286b6882596a9848de8a080)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Floorp icon (#410)</code>](https://github.com/linuxmint/mint-y-icons/commit/8dc2acd2f270e1ce84969d3a58899662339c3848)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Mega icon (#411)</code>](https://github.com/linuxmint/mint-y-icons/commit/d8b8652d9eeb095feb5828006d8cdb9a8fd22efb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Draw.io icon (#412)</code>](https://github.com/linuxmint/mint-y-icons/commit/eed8a8136d957dc8f6c390932ab987b442f1165b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Onlyoffice icon (#415)</code>](https://github.com/linuxmint/mint-y-icons/commit/91119abbd1bfe13c1f8493ce8fe245c2a6a44272)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove Kotlin app icon and add a mimetype icon instead (#419)</code>](https://github.com/linuxmint/mint-y-icons/commit/be1f9920eea4ca48b5857572b315fca8cb5b4fc6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Openspades icon (#414)</code>](https://github.com/linuxmint/mint-y-icons/commit/5d2f82f298d82d1c84cf3e4bb4604db523f388ac)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add missing flatpak icons + sorted symbolic-apps-list (#408)</code>](https://github.com/linuxmint/mint-y-icons/commit/4f979176012633462935013e845bd7f8ebd8f466)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4 icons Tidal Deezer Vimeo and Gog (#421)</code>](https://github.com/linuxmint/mint-y-icons/commit/508275d2d78a63216307e17a84193e54807ddc63)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add X icon (#422)</code>](https://github.com/linuxmint/mint-y-icons/commit/8fcd039fb52b3bcbb3654f5d6a99d21642d018a1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-y-icons/commit/a7ed8a66012977ecaa876bf01a8246e586e62357)
-  - <sub>Tags: <code>1.7.6</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
@@ -496,9 +413,12 @@
 - [ ] [<code>nemo-action-layout-editor: Add up/down arrows as an alternative</code>](https://github.com/linuxmint/nemo/commit/80d28b57024515ef6b6ea110722c2e60392c1895)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/37e111035a503dd1dd08d9a5a02a26f219ebf1c3)
 - [ ] [<code>6.2.0</code>](https://github.com/linuxmint/nemo/commit/f67bfd318c7c2ddb436fd00e0adc04f255b4994a)
-  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>layout editor: Don't allow duplicate uuids when saving the layout.</code>](https://github.com/linuxmint/nemo/commit/9deb1508a04c80d0c39d9e1f69b11c7e43366911)
+- [ ] [<code>eel-gnome-extensions.c: Set GNOME Terminal to FALSE (#3421)</code>](https://github.com/linuxmint/nemo/commit/cd33b6f02f8288f4131f75de59527acd8c67eec8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
