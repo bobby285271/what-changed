@@ -1565,6 +1565,7 @@
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
 
 - [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
+- [ ] [<code>SwitchModelButton: set accessible label, description, and state (#723)</code>](https://github.com/elementary/granite/commit/cec3e9155e9d5862030bea1c082ab7fc73ae1323)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
