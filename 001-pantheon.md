@@ -126,6 +126,7 @@
 - [ ] [<code>Application: Localize go-to option</code>](https://github.com/elementary/code/commit/fbbfbbcc800e592699898a1bf3e502c63c4a169e)
 - [ ] [<code>Allow new documents (zero size files) to open. (#1437)</code>](https://github.com/elementary/code/commit/3f353c1835f3a1924d2b23cdd25ce83ae9d6593e)
 - [ ] [<code>[GTK4 Prep] Update DocumentView to use Hdy.TabView (#1424)</code>](https://github.com/elementary/code/commit/b6352b68d38fcb3946b233d2e5400846cce53f96)
+- [ ] [<code>Define terminal menu items using GLib.MenuModel (#1438)</code>](https://github.com/elementary/code/commit/fa30c678ec747a2321bb021092fab343daa19fb9)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
