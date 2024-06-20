@@ -74,6 +74,10 @@
 - [ ] [<code>AppListUpdateView: use Adw.ToolbarView (#2171)</code>](https://github.com/elementary/appcenter/commit/3155035f32e040056935568a3214d5c110838de1)
 - [ ] [<code>SearchView: make search_entry internal (#2167)</code>](https://github.com/elementary/appcenter/commit/5923b6a417b254665bf3ab152e8b1ff91341809d)
 - [ ] [<code>AppListUpdateView: set loading placeholder only when loading (#2172)</code>](https://github.com/elementary/appcenter/commit/2848646fe549c9b308ca85a8cd14127e8f46ff34)
+- [ ] [<code>InstalledPackageRowGrid: make more compact (#2173)</code>](https://github.com/elementary/appcenter/commit/89b5866030171efb3a1dd4f58c507747934a5655)
+- [ ] [<code>Views: supply own headerbars (#2170)</code>](https://github.com/elementary/appcenter/commit/149e6e45fff3327b53abb0ddcfe984f19a85688b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Package: remove redundant packagedetails (#2175)</code>](https://github.com/elementary/appcenter/commit/f098b10bcee4c8a9c6078b70ee7c36b971d69a27)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -585,6 +589,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>OperatingSystemView: redesign links (#325)</code>](https://github.com/elementary/switchboard-plug-about/commit/90cc076a13bc44a87f843dfc592650033cdb6eb9)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/0dae65cae8561d4d051ddf427ed5c393733871f2)
+- [ ] [<code>Metainfo: add missing fields, organize (#326)</code>](https://github.com/elementary/switchboard-plug-about/commit/1657380f179dd89dd335413c4598008d16a73ed9)
+- [ ] [<code>Metainfo: add 8.0.0 release notes (#327)</code>](https://github.com/elementary/switchboard-plug-about/commit/f2306399b9cac5d63a4180a9611bf8a4c1eac705)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
