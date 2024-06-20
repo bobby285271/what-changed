@@ -2,14 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python.
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.2 → HEAD](https://github.com/linuxmint/bulky/compare/3.2...HEAD)
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.3 → HEAD](https://github.com/linuxmint/bulky/compare/3.3...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/e24af3e0f676de8e37d73488a441570ef8897caf)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/c639d9d74077573a4c0aad034b058894b37b1939)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.3</code>](https://github.com/linuxmint/bulky/commit/825c86337f46ea4e6791ce4b6ab2c9e27feab659)
-  - <sub>Tags: <code>3.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.4...HEAD)
 
@@ -445,14 +439,8 @@
   - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.0 → HEAD](https://github.com/linuxmint/pix/compare/3.4.0...HEAD)
+#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.1 → HEAD](https://github.com/linuxmint/pix/compare/3.4.1...HEAD)
 
-- [ ] [<code>fix missing type cast and invalid return type gcc errors (#212)</code>](https://github.com/linuxmint/pix/commit/e2e441bfedbd96247580aa6711569cf8db614a31)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/fa083c7325e6fc9e2b74a406b0db7eb1ec39bf14)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.1</code>](https://github.com/linuxmint/pix/commit/42ef3abbd6a6ed7777f8a7b95bb8980cde162136)
-  - <sub>Tags: <code>3.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.4...HEAD)
 
@@ -480,13 +468,8 @@
   - <sub>Tags: <code>4.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
+#### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.5 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/0e07d5a3b2f19c2c4a3c20b7bdc1754c8bf5e3fc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.5</code>](https://github.com/linuxmint/xviewer/commit/892c16c500969987ede152f4524968bc7dca2259)
-  - <sub>Tags: <code>3.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -506,24 +489,14 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.4 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.4...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.5 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/eb389c65138d2b44dc2c1c8a8e338d6cad4a05c8)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/hypnotix/commit/b8ff40862c0e0298b162fa05853e99bccddd6b54)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.5</code>](https://github.com/linuxmint/hypnotix/commit/5f4122b516467878f7f167502dc76202d3369280)
-  - <sub>Tags: <code>4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.4 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.4...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.5 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/748eab047c2f5ead7fd213e76f8567a81f2dd0ae)
-- [ ] [<code>2.0.5</code>](https://github.com/linuxmint/slick-greeter/commit/31c61fe90a8577587185f497814600e2e15e7be4)
-  - <sub>Tags: <code>2.0.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.20 → HEAD](https://github.com/linuxmint/sticky/compare/1.20...HEAD)
 
