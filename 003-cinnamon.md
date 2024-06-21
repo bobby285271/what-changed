@@ -450,15 +450,8 @@
   - <sub>Tags: <code>1.8.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.4 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.4...HEAD)
 
-- [ ] [<code>visibility-group: Use g_new instead of deprecated g_slice.</code>](https://github.com/linuxmint/xapp/commit/aa789885bc04879f78717537eb0631ba7a6983f5)
-- [ ] [<code>visibility-group: Use a GWeakNotify instead of the destroy signal</code>](https://github.com/linuxmint/xapp/commit/3b82a6690c7f9dfd2125c76ac7478329997922ce)
-- [ ] [<code>xapp-visibility-group: add missing declaration in header file.</code>](https://github.com/linuxmint/xapp/commit/7ae03d42e14bd3426886a0dd80f9688e78fb3c70)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/85c84bdd5c16b49faa0bc739b030753cd5b36003)
-- [ ] [<code>2.8.4</code>](https://github.com/linuxmint/xapp/commit/a83fd200bf8d3d23bdb0f1b612baac93fea618c8)
-  - <sub>Tags: <code>2.8.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
 
