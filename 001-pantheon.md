@@ -78,6 +78,14 @@
 - [ ] [<code>Views: supply own headerbars (#2170)</code>](https://github.com/elementary/appcenter/commit/149e6e45fff3327b53abb0ddcfe984f19a85688b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Package: remove redundant packagedetails (#2175)</code>](https://github.com/elementary/appcenter/commit/f098b10bcee4c8a9c6078b70ee7c36b971d69a27)
+- [ ] [<code>UpdateManager: remove runtime size check (#2180)</code>](https://github.com/elementary/appcenter/commit/e2e7280d4e021cbc64c12eb38ade01391d071312)
+- [ ] [<code>MainWindow: remove working property (#2181)</code>](https://github.com/elementary/appcenter/commit/a72f2b17b0e460c69599a0fd97a597dc3bc34abd)
+- [ ] [<code>Job: add to_string method to Job.Type (#2182)</code>](https://github.com/elementary/appcenter/commit/30aed43dc598ca88d97a0ce4772d1861a1386f55)
+- [ ] [<code>AppInfoView: show page title after scroll (#2178)</code>](https://github.com/elementary/appcenter/commit/21aa42b4b9afaa7405231e5f7aa50b91ccd485aa)
+- [ ] [<code>Homepage: connect banner timeout after banners load (#2183)</code>](https://github.com/elementary/appcenter/commit/7cb241fac2bab417fad845b3c8f872963c10cfa0)
+- [ ] [<code>MainWindow: don't keep a static ref to installed view (#2184)</code>](https://github.com/elementary/appcenter/commit/9fd4d9246a1a7b79b4a4ed7444301bd8db2bf003)
+- [ ] [<code>Check installed sync (#2185)</code>](https://github.com/elementary/appcenter/commit/1c0b22b3a4094d134a6595cb47613d81deefc980)
+- [ ] [<code>FlatpakBackend: set action enabled in main thread (#2187)</code>](https://github.com/elementary/appcenter/commit/d1b40f8cfb0afbc81c940c722b0c88524735315f)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
