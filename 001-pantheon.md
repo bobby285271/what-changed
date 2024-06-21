@@ -86,6 +86,7 @@
 - [ ] [<code>MainWindow: don't keep a static ref to installed view (#2184)</code>](https://github.com/elementary/appcenter/commit/9fd4d9246a1a7b79b4a4ed7444301bd8db2bf003)
 - [ ] [<code>Check installed sync (#2185)</code>](https://github.com/elementary/appcenter/commit/1c0b22b3a4094d134a6595cb47613d81deefc980)
 - [ ] [<code>FlatpakBackend: set action enabled in main thread (#2187)</code>](https://github.com/elementary/appcenter/commit/d1b40f8cfb0afbc81c940c722b0c88524735315f)
+- [ ] [<code>InstalledPackageRowGrid: use reader icon (#2163)</code>](https://github.com/elementary/appcenter/commit/cecf3ba81728d638bc83f514c07ed2ee77fcef3a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -845,6 +846,7 @@
 - [ ] [<code>Pages set status (#398)</code>](https://github.com/elementary/switchboard-plug-network/commit/26581d8f86708f594083d321fc03b0cb22568f8c)
 - [ ] [<code>Metainfo: organize, add missing fields (#400)</code>](https://github.com/elementary/switchboard-plug-network/commit/c1d26b680f9fcd163e9b73996632292f939d3be1)
 - [ ] [<code>Metainfo: add 8 release notes (#401)</code>](https://github.com/elementary/switchboard-plug-network/commit/18586b99e8c514a962de4834d933bddc6315b173)
+- [ ] [<code>WifiPage: show SSID in sidebar when connected (#403)</code>](https://github.com/elementary/switchboard-plug-network/commit/0269d2e3fcd608881a48b00f41515020d4130bff)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
