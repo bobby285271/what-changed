@@ -387,6 +387,13 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Merge pull request #1328 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/b11e9750aa0fbb68b045b3d8f0f60c9c976c792a)
 - [ ] [<code>Merge pull request #1290 from Riksu9000/smoother-animation</code>](https://github.com/alainm23/planify/commit/3a9bf725e88113be16d676ca2af6ed60f1448bba)
+- [ ] [<code>feat: #1232</code>](https://github.com/alainm23/planify/commit/25f6164f3467b5eeda99ee6d8dd191fa687615ed)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1344</code>](https://github.com/alainm23/planify/commit/fda60cd63e6c0aa0f4f4b9c18e1229eea71854d9)
+- [ ] [<code>fix #1343</code>](https://github.com/alainm23/planify/commit/d1776aba2fae6827d60ae16ac00337e6afb8cf2b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1342</code>](https://github.com/alainm23/planify/commit/ba718132d9a49e74a12a87143981b69e2c420068)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
