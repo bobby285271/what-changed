@@ -377,6 +377,8 @@
 - [ ] [<code>meson: Use gnome module to update icon cache (#210)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2c08e1dd3f8b8a9442a150eef72a45bca9984e0d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Save and restore window size (#212)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3c0a994e36f070ea9c092baa2f8bd98c9bdad506)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.8.2 → HEAD](https://github.com/alainm23/planify/compare/4.8.2...HEAD)
 
