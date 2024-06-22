@@ -448,13 +448,8 @@
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.1 → HEAD](https://github.com/linuxmint/pix/compare/3.4.1...HEAD)
 
 
-#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.4...HEAD)
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/478377f3ac88802b1561850ff9e840a1a5206047)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>1.8.5</code>](https://github.com/linuxmint/warpinator/commit/79b54a8a5a49df2a60bdd54add4ce394a403864d)
-  - <sub>Tags: <code>1.8.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.4 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.4...HEAD)
 
