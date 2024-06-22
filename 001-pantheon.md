@@ -87,6 +87,10 @@
 - [ ] [<code>Check installed sync (#2185)</code>](https://github.com/elementary/appcenter/commit/1c0b22b3a4094d134a6595cb47613d81deefc980)
 - [ ] [<code>FlatpakBackend: set action enabled in main thread (#2187)</code>](https://github.com/elementary/appcenter/commit/d1b40f8cfb0afbc81c940c722b0c88524735315f)
 - [ ] [<code>InstalledPackageRowGrid: use reader icon (#2163)</code>](https://github.com/elementary/appcenter/commit/cecf3ba81728d638bc83f514c07ed2ee77fcef3a)
+- [ ] [<code>UpdateManager: Fix runtimes ngettext (#2190)</code>](https://github.com/elementary/appcenter/commit/0c5d62944c500e2bf05471ab2a7923fe40e4d4f8)
+- [ ] [<code>AppInfoView: remove share button (#2188)</code>](https://github.com/elementary/appcenter/commit/0fe440042ecd60d735cf5123ece71b7ac12da3c2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix some warnings (#2191)</code>](https://github.com/elementary/appcenter/commit/1b2290a14f8a4b794f2b0dd53ffc326039808f48)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -1179,6 +1183,7 @@
 - [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
 - [ ] [<code>Actions: Refresh and add color to session icons (#1283)</code>](https://github.com/elementary/icons/commit/fa22659006f9733988b0038b62630b0dcbb92471)
 - [ ] [<code>Actions: Apply new save-as design to symbolic icon (#1285)</code>](https://github.com/elementary/icons/commit/29caa394fbf89968a6d4c52e91570bdd6ae9361a)
+- [ ] [<code>Categories: preferences-desktop-locale-symbolic redesign (#1291)</code>](https://github.com/elementary/icons/commit/eae47020c03b720a9d224910c32f27314982c973)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
