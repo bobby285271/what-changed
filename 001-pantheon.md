@@ -671,6 +671,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2d915b3bff64de5670b5bac1876dd843500eaf82)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/36f9f30350d00e62e81301506e6e6cfebf502d85)
 - [ ] [<code>DeviceRow: add missing audio-headphones (#222)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/ca16df17731de1fd0d34a37ee6aae4cfd87b2d55)
+- [ ] [<code>DeviceRow: Replace deprecated settings URI (#223)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/c138e2e51a465b2b5392b845a6857db125e061b2)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -899,6 +900,7 @@
 - [ ] [<code>Handle own titlebuttons (#279)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c4a7a9e7d6ecd3ed326a3bed6823727e1ad11e5a)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c9388f9fde901a80c26a72e10f8e7e07df4e2fcf)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/42f38c66fc7db56ee3eaa78d4f0384519c7b23c7)
+- [ ] [<code>CaldavDialog: improve accessibility (#281)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4f9b5ba84f3ca8bb3ed0663ffdb29059554837c6)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1587,6 +1589,7 @@
 
 - [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
 - [ ] [<code>SwitchModelButton: set accessible label, description, and state (#723)</code>](https://github.com/elementary/granite/commit/cec3e9155e9d5862030bea1c082ab7fc73ae1323)
+- [ ] [<code>ValidatedEntry: set AccessibleState (#724)</code>](https://github.com/elementary/granite/commit/0eab9b9e754f8446624ef8266c3f92169495e927)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
