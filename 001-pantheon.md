@@ -1440,6 +1440,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CloseDialog: Reuse the Gala.App object to get the user-visible title (#1944)</code>](https://github.com/elementary/gala/commit/d5e89a9fd1bdd3fdadfbd3c9a562e738684d048f)
 - [ ] [<code>Dialogs: Implement InhibitShortcutsDialog (#1948)</code>](https://github.com/elementary/gala/commit/81f84728231816fbb49ecc4912828f991cd8f0cf)
+- [ ] [<code>DragDropAction: Fix memory leak (#1950)</code>](https://github.com/elementary/gala/commit/18621b90ef3c1ab31d0d4ac7fd8603826d4d824b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
