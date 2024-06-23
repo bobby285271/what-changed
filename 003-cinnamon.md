@@ -487,13 +487,8 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.5 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.5...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.20 → HEAD](https://github.com/linuxmint/sticky/compare/1.20...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.21 → HEAD](https://github.com/linuxmint/sticky/compare/1.21...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/62f68733c2302aa0b84a804f5c710ce417039c7c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.21</code>](https://github.com/linuxmint/sticky/commit/f713dc5f4caf2f956ddd50c04ce4ba44477e8a4e)
-  - <sub>Tags: <code>1.21</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.1 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.1...HEAD)
 
