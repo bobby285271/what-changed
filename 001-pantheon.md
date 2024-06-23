@@ -310,6 +310,7 @@
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
+- [ ] [<code>Alias: Do not translate placeholder email address (#991)</code>](https://github.com/elementary/mail/commit/abf27cddedb6e9fa4e86365e86f0761d327891e3)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
 
@@ -541,6 +542,7 @@
 - [ ] [<code>Release 8.0.0 (#311)</code>](https://github.com/elementary/switchboard/commit/540830bf5a1e4881d10a5d15aae123aaa9e9f7de)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Add sassc to dependencies (#314)</code>](https://github.com/elementary/switchboard/commit/1a08a5226b5a3315d3350cc45edb662e64e18a95)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -901,6 +903,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c9388f9fde901a80c26a72e10f8e7e07df4e2fcf)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/42f38c66fc7db56ee3eaa78d4f0384519c7b23c7)
 - [ ] [<code>CaldavDialog: improve accessibility (#281)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4f9b5ba84f3ca8bb3ed0663ffdb29059554837c6)
+- [ ] [<code>Actions: Fix build for Fedora (#285)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c9f4629cc74a39c96f8d7f6399ea841313b6673b)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1441,6 +1444,7 @@
 - [ ] [<code>CloseDialog: Reuse the Gala.App object to get the user-visible title (#1944)</code>](https://github.com/elementary/gala/commit/d5e89a9fd1bdd3fdadfbd3c9a562e738684d048f)
 - [ ] [<code>Dialogs: Implement InhibitShortcutsDialog (#1948)</code>](https://github.com/elementary/gala/commit/81f84728231816fbb49ecc4912828f991cd8f0cf)
 - [ ] [<code>DragDropAction: Fix memory leak (#1950)</code>](https://github.com/elementary/gala/commit/18621b90ef3c1ab31d0d4ac7fd8603826d4d824b)
+- [ ] [<code>Canvas: discard bitmap on invalidate</code>](https://github.com/elementary/gala/commit/b5b297e6b4f2ee61bcd6fa4e7d2b38410082ec36)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
