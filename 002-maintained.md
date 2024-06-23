@@ -400,6 +400,9 @@
 - [ ] [<code>fix #1346</code>](https://github.com/alainm23/planify/commit/b6f51b46f7fe97b88d3b79f1faa1eaab11529395)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1345 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/91e6e7842006554310ee1a45716b6908b8d08707)
+- [ ] [<code>release 4.8.4</code>](https://github.com/alainm23/planify/commit/7ba2400c41f5bed5b375f8334d8ba20356ffcdfc)
+  - <sub>Tags: <code>4.8.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
