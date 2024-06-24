@@ -380,29 +380,8 @@
 - [ ] [<code>Save and restore window size (#212)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3c0a994e36f070ea9c092baa2f8bd98c9bdad506)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [planify](https://github.com/alainm23/planify): [4.8.2 → HEAD](https://github.com/alainm23/planify/compare/4.8.2...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
-- [ ] [<code>Make filter icon animation smoother</code>](https://github.com/alainm23/planify/commit/ec2a45f6b18699a88d9e31f546f9e28a30ffff86)
-- [ ] [<code>Update Hindi Translation</code>](https://github.com/alainm23/planify/commit/19bcee104536d60ad6eb1b0f85f96b084c8fed84)
-- [ ] [<code>fix #1316</code>](https://github.com/alainm23/planify/commit/1be961e642c0d48b8d67d14eaa1401908286fd1e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>Merge pull request #1328 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/b11e9750aa0fbb68b045b3d8f0f60c9c976c792a)
-- [ ] [<code>Merge pull request #1290 from Riksu9000/smoother-animation</code>](https://github.com/alainm23/planify/commit/3a9bf725e88113be16d676ca2af6ed60f1448bba)
-- [ ] [<code>Update Dutch translation</code>](https://github.com/alainm23/planify/commit/e80236c22c5f08744b52768c332789e2d6fcbc07)
-- [ ] [<code>feat: #1232</code>](https://github.com/alainm23/planify/commit/25f6164f3467b5eeda99ee6d8dd191fa687615ed)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1344</code>](https://github.com/alainm23/planify/commit/fda60cd63e6c0aa0f4f4b9c18e1229eea71854d9)
-- [ ] [<code>fix #1343</code>](https://github.com/alainm23/planify/commit/d1776aba2fae6827d60ae16ac00337e6afb8cf2b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1342</code>](https://github.com/alainm23/planify/commit/ba718132d9a49e74a12a87143981b69e2c420068)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1346</code>](https://github.com/alainm23/planify/commit/b6f51b46f7fe97b88d3b79f1faa1eaab11529395)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1345 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/91e6e7842006554310ee1a45716b6908b8d08707)
-- [ ] [<code>release 4.8.4</code>](https://github.com/alainm23/planify/commit/7ba2400c41f5bed5b375f8334d8ba20356ffcdfc)
-  - <sub>Tags: <code>4.8.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
