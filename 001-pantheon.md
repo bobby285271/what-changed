@@ -1292,6 +1292,8 @@
 - [ ] [<code>Metainfo: add 8 release notes (#730)</code>](https://github.com/elementary/greeter/commit/79297a2fec537eb0baba99d018a225ecf0624ace)
 - [ ] [<code>MainWindow: Better detect when running in live session (#733)</code>](https://github.com/elementary/greeter/commit/c4c9e698df187c344e6e7f0494bc4ab0cc229671)
 - [ ] [<code>Revert "MainWindow: Better detect when running in live session (#733)" (#736)</code>](https://github.com/elementary/greeter/commit/754166652de5ba9e698eb64daa2b895602737748)
+- [ ] [<code>Implement zoom (#739)</code>](https://github.com/elementary/greeter/commit/5558c23df7104f53c4a2ff67d4525d661144d982)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1445,6 +1447,9 @@
 - [ ] [<code>Dialogs: Implement InhibitShortcutsDialog (#1948)</code>](https://github.com/elementary/gala/commit/81f84728231816fbb49ecc4912828f991cd8f0cf)
 - [ ] [<code>DragDropAction: Fix memory leak (#1950)</code>](https://github.com/elementary/gala/commit/18621b90ef3c1ab31d0d4ac7fd8603826d4d824b)
 - [ ] [<code>Canvas: discard bitmap on invalidate</code>](https://github.com/elementary/gala/commit/b5b297e6b4f2ee61bcd6fa4e7d2b38410082ec36)
+- [ ] [<code>Manually set ui_group size (#1953)</code>](https://github.com/elementary/gala/commit/9205df5bb293d31e0b3428ce79f73e95d832af58)
+- [ ] [<code>Fix indentation (#1955)</code>](https://github.com/elementary/gala/commit/6dd497e98f31fa8e841d36a9029180b4081443a7)
+- [ ] [<code>ShadowEffect: Avoid painting inside the actor (#1954)</code>](https://github.com/elementary/gala/commit/d91ad2e045a5ad04bff14fbadf3ea65e05f17150)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
