@@ -91,6 +91,11 @@
 - [ ] [<code>AppInfoView: remove share button (#2188)</code>](https://github.com/elementary/appcenter/commit/0fe440042ecd60d735cf5123ece71b7ac12da3c2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix some warnings (#2191)</code>](https://github.com/elementary/appcenter/commit/1b2290a14f8a4b794f2b0dd53ffc326039808f48)
+- [ ] [<code>PackageRow: rm PackageRow.installed (#2174)</code>](https://github.com/elementary/appcenter/commit/e651c4becf36339f4486e5063dfd713252548a7e)
+- [ ] [<code>AppinfoView: keep action buttons in headerbar (#2186)</code>](https://github.com/elementary/appcenter/commit/71f3a7455dd7908db846efd151236fcf4433e452)
+- [ ] [<code>README.md: bump portal-gtk dep</code>](https://github.com/elementary/appcenter/commit/5e891cf432eb03498521680798a20356d6fee8e0)
+- [ ] [<code>MainWindow: Fix memory leaks + improvements (#2194)</code>](https://github.com/elementary/appcenter/commit/e04bbf3ec221a9d5f44d3256f451c6a94d60e266)
+- [ ] [<code>Metainfo: add issue 2166 to release 8.0.0</code>](https://github.com/elementary/appcenter/commit/f0ad40abe350fde10ae7e0b0706ef0f254835d09)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -144,6 +149,9 @@
 - [ ] [<code>Allow new documents (zero size files) to open. (#1437)</code>](https://github.com/elementary/code/commit/3f353c1835f3a1924d2b23cdd25ce83ae9d6593e)
 - [ ] [<code>[GTK4 Prep] Update DocumentView to use Hdy.TabView (#1424)</code>](https://github.com/elementary/code/commit/b6352b68d38fcb3946b233d2e5400846cce53f96)
 - [ ] [<code>Define terminal menu items using GLib.MenuModel (#1438)</code>](https://github.com/elementary/code/commit/fa30c678ec747a2321bb021092fab343daa19fb9)
+- [ ] [<code>Share Menu Plugin Hook now uses GLib.MenuModel</code>](https://github.com/elementary/code/commit/ec189a6d3028385249d34ac31ba873a130280683)
+- [ ] [<code>Update sidebar project menu to use GLib.MenuModel</code>](https://github.com/elementary/code/commit/0acf8807d02e4b1c980221638da3f1eba80bd867)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -223,6 +231,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add issues tag (#247)</code>](https://github.com/elementary/dock/commit/78b2c466d724e4732f8a7956665391a908cf793f)
 - [ ] [<code>gschema: Add Files to dock (#248)</code>](https://github.com/elementary/dock/commit/047b9b149ebc15f9a5d8d172e1da510af1a15165)
+- [ ] [<code>Fix leaking Launchers (#249)</code>](https://github.com/elementary/dock/commit/92c41cc436ec1f2df45fe06c7ec5e2d150fb3d8a)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -637,6 +646,7 @@
 - [ ] [<code>Icon: use Flatpak symbol (#232)</code>](https://github.com/elementary/switchboard-plug-applications/commit/70ca310184490898cdfababb4c1abafa557cacc0)
 - [ ] [<code>Metainfo: add 8 release notes (#233)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bfdf6fb4be9689f6cd57c0af108a195571e26dce)
 - [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/switchboard-plug-applications/commit/4a40e9328b6cdf9d32e9778794982b3aacf41d85)
+- [ ] [<code>AppSettingsView: set mnemonic widget, accessible label, description, role (#236)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b32bd756aeefe972cadef87484426c224c34b5c8)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
