@@ -96,6 +96,9 @@
 - [ ] [<code>README.md: bump portal-gtk dep</code>](https://github.com/elementary/appcenter/commit/5e891cf432eb03498521680798a20356d6fee8e0)
 - [ ] [<code>MainWindow: Fix memory leaks + improvements (#2194)</code>](https://github.com/elementary/appcenter/commit/e04bbf3ec221a9d5f44d3256f451c6a94d60e266)
 - [ ] [<code>Metainfo: add issue 2166 to release 8.0.0</code>](https://github.com/elementary/appcenter/commit/f0ad40abe350fde10ae7e0b0706ef0f254835d09)
+- [ ] [<code>AppInfoView: redesign links (#2193)</code>](https://github.com/elementary/appcenter/commit/cdae51a26633732eb064dd5bbd0a9dac74e9cb6f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppListUpdateView: Drop mentioning OS updates (#2195)</code>](https://github.com/elementary/appcenter/commit/a8520e3b19d29ea3a0584b14712f0f4472134a61)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
