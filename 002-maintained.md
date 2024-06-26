@@ -326,6 +326,7 @@
 - [ ] [<code>Update German translation</code>](https://github.com/phase1geo/minder/commit/b39fe06a19a00fd865dca07b8281bf9d6aa68af5)
 - [ ] [<code>Merge pull request #618 from be-we/master</code>](https://github.com/phase1geo/minder/commit/6b0b88e52edfb32ed29b6905090f4eb1b954571a)
 - [ ] [<code>Fixing quick entry issue when inserting root nodes.</code>](https://github.com/phase1geo/minder/commit/0bc74952d2e03487271647ff2149b68168da5bc2)
+- [ ] [<code>Regrouping to attempt to make shortcuts window height smaller.</code>](https://github.com/phase1geo/minder/commit/e95cd829801599672764416a47ad060473fabcba)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
