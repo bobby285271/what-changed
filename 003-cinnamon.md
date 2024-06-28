@@ -411,8 +411,10 @@
 - [ ] [<code>layout editor: Don't allow duplicate uuids when saving the layout.</code>](https://github.com/linuxmint/nemo/commit/9deb1508a04c80d0c39d9e1f69b11c7e43366911)
 - [ ] [<code>eel-gnome-extensions.c: Set GNOME Terminal to FALSE (#3421)</code>](https://github.com/linuxmint/nemo/commit/cd33b6f02f8288f4131f75de59527acd8c67eec8)
 - [ ] [<code>6.2.1</code>](https://github.com/linuxmint/nemo/commit/2d2b69c3c6ef4fb2ed546646fe9ce65a59140b93)
-  - <sub>Tags: <code>6.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>layout editor: Update the disabled list immediately when an action</code>](https://github.com/linuxmint/nemo/commit/268f2560dbb7c11743e63891b021eb36d799a119)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
