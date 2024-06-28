@@ -235,6 +235,9 @@
 - [ ] [<code>Metainfo: add issues tag (#247)</code>](https://github.com/elementary/dock/commit/78b2c466d724e4732f8a7956665391a908cf793f)
 - [ ] [<code>gschema: Add Files to dock (#248)</code>](https://github.com/elementary/dock/commit/047b9b149ebc15f9a5d8d172e1da510af1a15165)
 - [ ] [<code>Fix leaking Launchers (#249)</code>](https://github.com/elementary/dock/commit/92c41cc436ec1f2df45fe06c7ec5e2d150fb3d8a)
+- [ ] [<code>Fix memory leak with apps (#250)</code>](https://github.com/elementary/dock/commit/b271e2fa16331a5718a18847de09ab39199ccac4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
@@ -1463,6 +1466,7 @@
 - [ ] [<code>Manually set ui_group size (#1953)</code>](https://github.com/elementary/gala/commit/9205df5bb293d31e0b3428ce79f73e95d832af58)
 - [ ] [<code>Fix indentation (#1955)</code>](https://github.com/elementary/gala/commit/6dd497e98f31fa8e841d36a9029180b4081443a7)
 - [ ] [<code>ShadowEffect: Avoid painting inside the actor (#1954)</code>](https://github.com/elementary/gala/commit/d91ad2e045a5ad04bff14fbadf3ea65e05f17150)
+- [ ] [<code>Dialogs: Use the provided object in finish</code>](https://github.com/elementary/gala/commit/ea7d9581ee1e9a76795f1e91f65cb1f4a15b28e6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
