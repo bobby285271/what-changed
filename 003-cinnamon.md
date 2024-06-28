@@ -167,8 +167,10 @@
   - <sub>Tags: <code>6.2.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamon-settings.py: Use the nvidia icon for nvidia-settings.</code>](https://github.com/linuxmint/cinnamon/commit/f08780cbf7bdf682f40ee140b58c041dbd746ee4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ExtensionCore.py: Check for display names in translations (#12256)</code>](https://github.com/linuxmint/cinnamon/commit/59451e9ef24193145c76b69c13d334f56a1895ae)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
