@@ -1264,6 +1264,7 @@
 - [ ] [<code>Skel: add Flathub to flatpak config (#306)</code>](https://github.com/elementary/default-settings/commit/a618d3cf396bcc9c26098b2eb0c1b21ee33ea539)
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/default-settings/commit/a089b3919c6091afa8b2cca697ffe17bd9f51a75)
 - [ ] [<code>Shortcuts: make switch workspace super shift (#308)</code>](https://github.com/elementary/default-settings/commit/fe34f26e6c12b7483a6f742cbcada0843272248f)
+- [ ] [<code>Update install (#310)</code>](https://github.com/elementary/default-settings/commit/9f5c7e417ed07565d1e0f9e91022ede85468e08b)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
