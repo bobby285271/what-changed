@@ -1617,6 +1617,7 @@
 - [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
 - [ ] [<code>SwitchModelButton: set accessible label, description, and state (#723)</code>](https://github.com/elementary/granite/commit/cec3e9155e9d5862030bea1c082ab7fc73ae1323)
 - [ ] [<code>ValidatedEntry: set AccessibleState (#724)</code>](https://github.com/elementary/granite/commit/0eab9b9e754f8446624ef8266c3f92169495e927)
+- [ ] [<code>HeaderLabel: set accessible description (#725)</code>](https://github.com/elementary/granite/commit/c3043820f81880b5f1c8d69d444269e40db115ac)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
