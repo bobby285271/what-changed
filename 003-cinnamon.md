@@ -169,8 +169,12 @@
 - [ ] [<code>cinnamon-settings.py: Use the nvidia icon for nvidia-settings.</code>](https://github.com/linuxmint/cinnamon/commit/f08780cbf7bdf682f40ee140b58c041dbd746ee4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ExtensionCore.py: Check for display names in translations (#12256)</code>](https://github.com/linuxmint/cinnamon/commit/59451e9ef24193145c76b69c13d334f56a1895ae)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_themes: Frame App and Cinnamon themes, move user themes to the</code>](https://github.com/linuxmint/cinnamon/commit/2bfdef2ec5457fcbb1fcaf96394fa68e64b20ee7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>xapp status: Make sure the recording icon size is set, disconnect</code>](https://github.com/linuxmint/cinnamon/commit/8d97e5689f7bea670fb8882d54f48f91e33f04bf)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -297,9 +301,14 @@
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.7...HEAD)
 
+- [ ] [<code>Remove extra height on all Cinnamon thumbnails.</code>](https://github.com/linuxmint/mint-l-theme/commit/8b99e8e8dd6e91451f8ca6a4182a35b1495ba1e2)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.7...HEAD)
 
+- [ ] [<code>Remove extra height on all Cinnamon thumbnails.</code>](https://github.com/linuxmint/mint-themes/commit/ba6b23ce4e90d0dff332273035e06023b258f727)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.9...HEAD)
 
