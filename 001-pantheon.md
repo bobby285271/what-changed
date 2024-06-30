@@ -920,6 +920,9 @@
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/42f38c66fc7db56ee3eaa78d4f0384519c7b23c7)
 - [ ] [<code>CaldavDialog: improve accessibility (#281)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/4f9b5ba84f3ca8bb3ed0663ffdb29059554837c6)
 - [ ] [<code>Actions: Fix build for Fedora (#285)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/c9f4629cc74a39c96f8d7f6399ea841313b6673b)
+- [ ] [<code>ImapDialog: improve accessibility (#282)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/7500d5bf75d657b82dc4d9eed5ff0484f0bae121)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1619,6 +1622,7 @@
 - [ ] [<code>SwitchModelButton: set accessible label, description, and state (#723)</code>](https://github.com/elementary/granite/commit/cec3e9155e9d5862030bea1c082ab7fc73ae1323)
 - [ ] [<code>ValidatedEntry: set AccessibleState (#724)</code>](https://github.com/elementary/granite/commit/0eab9b9e754f8446624ef8266c3f92169495e927)
 - [ ] [<code>HeaderLabel: set accessible description (#725)</code>](https://github.com/elementary/granite/commit/c3043820f81880b5f1c8d69d444269e40db115ac)
+- [ ] [<code>AbstractSimpleSettingsPage: Correct replacement class (#726)</code>](https://github.com/elementary/granite/commit/4581f54f624820e763cb3f9a6213c4fabc2383a2)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
