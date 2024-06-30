@@ -380,6 +380,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Save and restore window size (#212)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3c0a994e36f070ea9c092baa2f8bd98c9bdad506)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Flatpak: Lessen package size (#213)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/175a02fc6af729445f03e658fa3cee1ae18401c2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Replace Granite.SimpleSettingsPage with Switchboard.SettingsPage (#214)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/391c3690cb9efb2f2ae671ddb57212779312bbd1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Use Switchboard.SettingsSidebar for the sidebar (#215)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/56224eb32d5f0bd14bb870782ee8dde7451ca702)
+- [ ] [<code>Use flat titlebar (#216)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bd6d4237006542c3e098b44ecd4d27867afef5be)
 
 #### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
