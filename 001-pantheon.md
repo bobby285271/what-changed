@@ -352,6 +352,7 @@
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
 - [ ] [<code>gschema: Remove alias to sharing (#767)</code>](https://github.com/elementary/photos/commit/42bc09e4782380dd4b221974ea02f21ebf12baa3)
+- [ ] [<code>AppDirs: Fix loading plugins (#770)</code>](https://github.com/elementary/photos/commit/cc5af834f37891a4df6a6b5d9278c17472ef433b)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
