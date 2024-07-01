@@ -1472,6 +1472,7 @@
 - [ ] [<code>Fix indentation (#1955)</code>](https://github.com/elementary/gala/commit/6dd497e98f31fa8e841d36a9029180b4081443a7)
 - [ ] [<code>ShadowEffect: Avoid painting inside the actor (#1954)</code>](https://github.com/elementary/gala/commit/d91ad2e045a5ad04bff14fbadf3ea65e05f17150)
 - [ ] [<code>Dialogs: Use the provided object in finish</code>](https://github.com/elementary/gala/commit/ea7d9581ee1e9a76795f1e91f65cb1f4a15b28e6)
+- [ ] [<code>wayland/NotificationStack: Don't flicker at the beginning of the animation (#1963)</code>](https://github.com/elementary/gala/commit/0a5fae4b3323182f49d8551d17bead2d2ec31b63)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
