@@ -387,6 +387,9 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Use Switchboard.SettingsSidebar for the sidebar (#215)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/56224eb32d5f0bd14bb870782ee8dde7451ca702)
 - [ ] [<code>Use flat titlebar (#216)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bd6d4237006542c3e098b44ecd4d27867afef5be)
+- [ ] [<code>Replace deprecated FontButton with FontDialogButton (#217)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a2d642e74fdd3277417c3d9cc2d5a8284832b1c1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
