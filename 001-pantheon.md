@@ -132,6 +132,7 @@
 - [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/camera/commit/9061a2175345bd7d5469025552ac0b139e303cad)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/camera/commit/504ea12cc9287ec10ca0d48f8926dd9a816b4621)
 - [ ] [<code>Flatpak: bump platform to 8.0 (#270)</code>](https://github.com/elementary/camera/commit/48eca0aa954346b2d424c4c6b44e7de6621c4ce5)
+- [ ] [<code>Gtk4 Prep (#271)</code>](https://github.com/elementary/camera/commit/457dcff9a4740d5921f1414310a0b3b14cd5052e)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
