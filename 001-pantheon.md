@@ -99,6 +99,7 @@
 - [ ] [<code>AppInfoView: redesign links (#2193)</code>](https://github.com/elementary/appcenter/commit/cdae51a26633732eb064dd5bbd0a9dac74e9cb6f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppListUpdateView: Drop mentioning OS updates (#2195)</code>](https://github.com/elementary/appcenter/commit/a8520e3b19d29ea3a0584b14712f0f4472134a61)
+- [ ] [<code>UpdateManager: clean up update_cache (#2196)</code>](https://github.com/elementary/appcenter/commit/0fc15146ba043d851aa1081c66e8d15d419ff3e5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
