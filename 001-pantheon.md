@@ -239,6 +239,7 @@
 - [ ] [<code>Fix memory leak with apps (#250)</code>](https://github.com/elementary/dock/commit/b271e2fa16331a5718a18847de09ab39199ccac4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Launcher: Fix crash on rapid revealing/unrevealing (#252)</code>](https://github.com/elementary/dock/commit/7c44d65321cee177571871c98af05d785a95f952)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
 
