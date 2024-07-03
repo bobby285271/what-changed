@@ -100,6 +100,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppListUpdateView: Drop mentioning OS updates (#2195)</code>](https://github.com/elementary/appcenter/commit/a8520e3b19d29ea3a0584b14712f0f4472134a61)
 - [ ] [<code>UpdateManager: clean up update_cache (#2196)</code>](https://github.com/elementary/appcenter/commit/0fc15146ba043d851aa1081c66e8d15d419ff3e5)
+- [ ] [<code>UpdateManager: Fix auto updates, liststore (#2197)</code>](https://github.com/elementary/appcenter/commit/80ab9ea11d0a22783e75b3d3c6e0a4ffc4bd2d31)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -157,6 +158,8 @@
 - [ ] [<code>Share Menu Plugin Hook now uses GLib.MenuModel</code>](https://github.com/elementary/code/commit/ec189a6d3028385249d34ac31ba873a130280683)
 - [ ] [<code>Update sidebar project menu to use GLib.MenuModel</code>](https://github.com/elementary/code/commit/0acf8807d02e4b1c980221638da3f1eba80bd867)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix cursor positioning when column number is not set when go to line feature is used (#1446)</code>](https://github.com/elementary/code/commit/256d0bc295dd525408f51422a717194c02fe5dd9)
+- [ ] [<code>[GTK4 Prep] Add FileView actions (#1444)</code>](https://github.com/elementary/code/commit/4ea4df8cbe14fa39125db19fab38fb56ed3c3420)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -259,6 +262,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/ff7e3a8607605c4d43beff570c3bdc5a71d0bb5e)
+- [ ] [<code>Release 8.0.0 (#108)</code>](https://github.com/elementary/feedback/commit/9f112f39abf83eaa74e2f9e142710519868564ff)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -1067,6 +1073,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AddDialog: use NavigationView (#203)</code>](https://github.com/elementary/switchboard-plug-printers/commit/851ca284b71eb0d242131b7ed8d6ff118901b66e)
 - [ ] [<code>Actions: bump gettext version</code>](https://github.com/elementary/switchboard-plug-printers/commit/480a51253793801e0bb5c4f1b330459b7b43b1b2)
+- [ ] [<code>Metainfo: modernize, organize, add 8.0.0 release notes (#204)</code>](https://github.com/elementary/switchboard-plug-printers/commit/8828f0fd5bf0971697f3ad7203bdb51d0ffeb63c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -1198,6 +1206,9 @@
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-wacom/commit/e5968bf1ef357a85e1ba4324851af7d2f781e5e3)
 - [ ] [<code>Metainfo: modernize/organize (#64)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c2cfecf65f02150324777229aff64b3f0160fe47)
 - [ ] [<code>Metainfo: Add release notes for 8 (#65)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/34749a09627a1f1cabb36473d3b93dd73520a9f2)
+- [ ] [<code>Release 8.0.0 (#66)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d61b1bfd6e12f3071ee5691ea8891ec9be19af4e)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.0.0...HEAD)
@@ -1476,6 +1487,8 @@
 - [ ] [<code>ShadowEffect: Avoid painting inside the actor (#1954)</code>](https://github.com/elementary/gala/commit/d91ad2e045a5ad04bff14fbadf3ea65e05f17150)
 - [ ] [<code>Dialogs: Use the provided object in finish</code>](https://github.com/elementary/gala/commit/ea7d9581ee1e9a76795f1e91f65cb1f4a15b28e6)
 - [ ] [<code>wayland/NotificationStack: Don't flicker at the beginning of the animation (#1963)</code>](https://github.com/elementary/gala/commit/0a5fae4b3323182f49d8551d17bead2d2ec31b63)
+- [ ] [<code>Shell: Move trusted clients config to own config file (#1956)</code>](https://github.com/elementary/gala/commit/956125b488ba3da2ea1b1d93ffa8c0521e14a3ff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
