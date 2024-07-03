@@ -8,7 +8,11 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.3...HEAD)
 
 - [ ] [<code>windowMenu.js: Fix warning flood when moving a window to another</code>](https://github.com/linuxmint/cinnamon/commit/1800d4bbb5f4be179da2619aa1dc3f70030ac3af)
+- [ ] [<code>cs_themes: Restrain picture button heights.</code>](https://github.com/linuxmint/cinnamon/commit/8a1d1e6a946c29c9f36e445d62fee477ca2b7ba1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>user applet: Fix updating the avatar icon size when the panel</code>](https://github.com/linuxmint/cinnamon/commit/62d50ef2c0fe52ee4c4274cdefa1b08109e98f99)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -61,8 +65,10 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.2...HEAD)
 
 - [ ] [<code>Fix handling of actions that are not part of the layout.</code>](https://github.com/linuxmint/nemo/commit/393d979a25c491d8e9b63a5b35727077bfb0a4c4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>nemo-icon-container.c: Don't tie the interactive search box</code>](https://github.com/linuxmint/nemo/commit/055b47af0e1a830e556989372f3689bbd36b639d)
+- [ ] [<code>nemo-action-layout-editor.glade: Set a translation domain.</code>](https://github.com/linuxmint/nemo/commit/544732a790762e50c744f09e49b7762a916bf332)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
