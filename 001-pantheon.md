@@ -101,6 +101,7 @@
 - [ ] [<code>AppListUpdateView: Drop mentioning OS updates (#2195)</code>](https://github.com/elementary/appcenter/commit/a8520e3b19d29ea3a0584b14712f0f4472134a61)
 - [ ] [<code>UpdateManager: clean up update_cache (#2196)</code>](https://github.com/elementary/appcenter/commit/0fc15146ba043d851aa1081c66e8d15d419ff3e5)
 - [ ] [<code>UpdateManager: Fix auto updates, liststore (#2197)</code>](https://github.com/elementary/appcenter/commit/80ab9ea11d0a22783e75b3d3c6e0a4ffc4bd2d31)
+- [ ] [<code>AppListUpdateView: DRY Update All (#2199)</code>](https://github.com/elementary/appcenter/commit/e31bf55be45d84b352e8eb4bbb6a214245a117a1)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -933,6 +934,7 @@
 - [ ] [<code>ImapDialog: improve accessibility (#282)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/7500d5bf75d657b82dc4d9eed5ff0484f0bae121)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ImapDialog: use Adw.NavigationView (#283)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/35f89ed143a96aefa767ac1bf9b7d346b47b2418)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1489,6 +1491,7 @@
 - [ ] [<code>wayland/NotificationStack: Don't flicker at the beginning of the animation (#1963)</code>](https://github.com/elementary/gala/commit/0a5fae4b3323182f49d8551d17bead2d2ec31b63)
 - [ ] [<code>Shell: Move trusted clients config to own config file (#1956)</code>](https://github.com/elementary/gala/commit/956125b488ba3da2ea1b1d93ffa8c0521e14a3ff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PanelWindow: Fix possible segfault</code>](https://github.com/elementary/gala/commit/fdd5e440d43af570e32710d026164fc0683752c9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1729,6 +1732,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/portals/commit/a7b4d8812a0dca0a1444280597fd501287cc92f1)
 - [ ] [<code>Implement screen cast portal (#102)</code>](https://github.com/elementary/portals/commit/ad05247e31bb96ce41a16156c439364b270f9bf8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: 8 release notes (#103)</code>](https://github.com/elementary/portals/commit/f3e80cfd0850b5a1868f9ea66ebf127fbc1278b9)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
