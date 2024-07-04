@@ -393,6 +393,14 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
+- [ ] [<code>Hindi translation update</code>](https://github.com/alainm23/planify/commit/ca05887078031c8c83fb33536b1bdb7667693489)
+- [ ] [<code> Added korean translation</code>](https://github.com/alainm23/planify/commit/30a979c98f49dcb4c53a0485ce3e647ec962939b)
+- [ ] [<code> Added korean translation</code>](https://github.com/alainm23/planify/commit/b5d9c360c054476c459bde84cc1f8dfacd4287a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/af74154fd4f354ad721d4978bb5392b61c4e5f1d)
+- [ ] [<code>Merge pull request #1354 from haggen88/master</code>](https://github.com/alainm23/planify/commit/e30d35a372b09a1d9f06636a9df997243c918632)
+- [ ] [<code>Merge pull request #1350 from myunsyeya/Added-korean-translation</code>](https://github.com/alainm23/planify/commit/caaf036724aa5e29eca2f46ae0d560d66fdd9b8b)
+- [ ] [<code>Merge pull request #1349 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9d0ee97cd8110049d4e964e9a5b4a53d6b029c9a)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
