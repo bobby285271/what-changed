@@ -935,6 +935,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ImapDialog: use Adw.NavigationView (#283)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/35f89ed143a96aefa767ac1bf9b7d346b47b2418)
+- [ ] [<code>CaldavDialog: use Adw.NavigationView (#284)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/86fab7babd0a1a7c4df039992bafde8e1b34a6d1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CalDav → CalDAV (#287)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f3fcebfc35efacd7cfa56e5237ace8e1d241394a)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
