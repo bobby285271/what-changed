@@ -401,6 +401,9 @@
 - [ ] [<code>Merge pull request #1354 from haggen88/master</code>](https://github.com/alainm23/planify/commit/e30d35a372b09a1d9f06636a9df997243c918632)
 - [ ] [<code>Merge pull request #1350 from myunsyeya/Added-korean-translation</code>](https://github.com/alainm23/planify/commit/caaf036724aa5e29eca2f46ae0d560d66fdd9b8b)
 - [ ] [<code>Merge pull request #1349 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9d0ee97cd8110049d4e964e9a5b4a53d6b029c9a)
+- [ ] [<code>fix #660</code>](https://github.com/alainm23/planify/commit/f1f2a2b5b763da489840d453d9fe2dc67e728912)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1353</code>](https://github.com/alainm23/planify/commit/dac7c97fe0b52d17fa23d3f42901f75a25ac3053)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
