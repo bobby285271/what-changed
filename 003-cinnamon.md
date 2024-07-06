@@ -13,8 +13,10 @@
 - [ ] [<code>user applet: Fix updating the avatar icon size when the panel</code>](https://github.com/linuxmint/cinnamon/commit/62d50ef2c0fe52ee4c4274cdefa1b08109e98f99)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs-info: Better parsing of the graphics card lspci output</code>](https://github.com/linuxmint/cinnamon/commit/e0f64fbd78d69a26eafdf887dd1573c0af794829)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.4</code>](https://github.com/linuxmint/cinnamon/commit/cafdf9affe704e0f0a0c5c34a800e6a5a6b0ac14)
+  - <sub>Tags: <code>6.2.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -55,13 +57,8 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.8...HEAD)
 
 
-#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.9...HEAD)
+#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.0...HEAD)
 
-- [ ] [<code>Add applications-education</code>](https://github.com/linuxmint/mint-x-icons/commit/aab09ba9e07268a04cb3238e994e9c21b1ab47d5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update .gitignore</code>](https://github.com/linuxmint/mint-x-icons/commit/164b68a4a1f2c4ebf26e6c4372007d1b00f09b2e)
-- [ ] [<code>1.7.0</code>](https://github.com/linuxmint/mint-x-icons/commit/6e0d8120a59b39756f9007f7ef44ad16bd24f1a2)
-  - <sub>Tags: <code>1.7.0</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.6...HEAD)
 
@@ -75,7 +72,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>nemo-icon-container.c: Don't tie the interactive search box</code>](https://github.com/linuxmint/nemo/commit/055b47af0e1a830e556989372f3689bbd36b639d)
 - [ ] [<code>nemo-action-layout-editor.glade: Set a translation domain.</code>](https://github.com/linuxmint/nemo/commit/544732a790762e50c744f09e49b7762a916bf332)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.3</code>](https://github.com/linuxmint/nemo/commit/67fd2aaf9e7097ac094e5cb2474a0b38b582c054)
+  - <sub>Tags: <code>6.2.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -128,14 +127,8 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.2 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.2...HEAD)
 
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.6.3 → HEAD](https://github.com/linuxmint/xed/compare/3.6.3...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.6.4 → HEAD](https://github.com/linuxmint/xed/compare/3.6.4...HEAD)
 
-- [ ] [<code>gtksourceview: Provide a better default style</code>](https://github.com/linuxmint/xed/commit/be3046d73dccd4daac18261f364951a1a2e91de6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>3.6.4</code>](https://github.com/linuxmint/xed/commit/c2fabb0d6d88c5cb2abeff4c6d7923b738c05184)
-  - <sub>Tags: <code>3.6.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
