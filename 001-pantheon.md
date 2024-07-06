@@ -1496,6 +1496,9 @@
 - [ ] [<code>Shell: Move trusted clients config to own config file (#1956)</code>](https://github.com/elementary/gala/commit/956125b488ba3da2ea1b1d93ffa8c0521e14a3ff)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PanelWindow: Fix possible segfault</code>](https://github.com/elementary/gala/commit/fdd5e440d43af570e32710d026164fc0683752c9)
+- [ ] [<code>Daemon: Port to GTK4 (#1964)</code>](https://github.com/elementary/gala/commit/3a81898095ce1dfaa794bba05c53d7050982dd00)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
