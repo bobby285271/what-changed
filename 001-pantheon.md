@@ -1500,6 +1500,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>ScreenshotManager: Use get_image from actor directly (#1957)</code>](https://github.com/elementary/gala/commit/d0609ab6b3108ed5fba6938e899b23bdcf28bb5b)
+- [ ] [<code>DragDropAction: support touch (#1962)</code>](https://github.com/elementary/gala/commit/93b4244cb6f585841d9f4350be735b31d17ffb1b)
+- [ ] [<code>Fix function documentation (#1970)</code>](https://github.com/elementary/gala/commit/6141d2d402b07a517e51939c54bc6e084f368fed)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
