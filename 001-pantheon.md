@@ -1499,6 +1499,7 @@
 - [ ] [<code>Daemon: Port to GTK4 (#1964)</code>](https://github.com/elementary/gala/commit/3a81898095ce1dfaa794bba05c53d7050982dd00)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>ScreenshotManager: Use get_image from actor directly (#1957)</code>](https://github.com/elementary/gala/commit/d0609ab6b3108ed5fba6938e899b23bdcf28bb5b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
