@@ -1502,6 +1502,9 @@
 - [ ] [<code>ScreenshotManager: Use get_image from actor directly (#1957)</code>](https://github.com/elementary/gala/commit/d0609ab6b3108ed5fba6938e899b23bdcf28bb5b)
 - [ ] [<code>DragDropAction: support touch (#1962)</code>](https://github.com/elementary/gala/commit/93b4244cb6f585841d9f4350be735b31d17ffb1b)
 - [ ] [<code>Fix function documentation (#1970)</code>](https://github.com/elementary/gala/commit/6141d2d402b07a517e51939c54bc6e084f368fed)
+- [ ] [<code>WindowSwitcher: Fix memory leak (#1972)</code>](https://github.com/elementary/gala/commit/812caffd6f6ee29bf4b3dda2b8ae33c32853e67a)
+- [ ] [<code>WindowManager: Remove unneeded return (#1971)</code>](https://github.com/elementary/gala/commit/563c8a0e221b6510fa1273a65e782ec0faf14cba)
+- [ ] [<code>Animation: Fix code style (#1969)</code>](https://github.com/elementary/gala/commit/7b77cf979b9bf12aee8cb1e1d9e569bd36da9f00)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
