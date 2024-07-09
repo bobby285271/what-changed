@@ -5,18 +5,14 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.3 → HEAD](https://github.com/linuxmint/bulky/compare/3.3...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.3...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.4...HEAD)
 
-- [ ] [<code>windowMenu.js: Fix warning flood when moving a window to another</code>](https://github.com/linuxmint/cinnamon/commit/1800d4bbb5f4be179da2619aa1dc3f70030ac3af)
-- [ ] [<code>cs_themes: Restrain picture button heights.</code>](https://github.com/linuxmint/cinnamon/commit/8a1d1e6a946c29c9f36e445d62fee477ca2b7ba1)
+- [ ] [<code>ExtensionCore.py - Adds update subject</code>](https://github.com/linuxmint/cinnamon/commit/baf54fb87c37c821a3e9d6b2c3269a0fc37e3ff9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>user applet: Fix updating the avatar icon size when the panel</code>](https://github.com/linuxmint/cinnamon/commit/62d50ef2c0fe52ee4c4274cdefa1b08109e98f99)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs-info: Better parsing of the graphics card lspci output</code>](https://github.com/linuxmint/cinnamon/commit/e0f64fbd78d69a26eafdf887dd1573c0af794829)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.2.4</code>](https://github.com/linuxmint/cinnamon/commit/cafdf9affe704e0f0a0c5c34a800e6a5a6b0ac14)
-  - <sub>Tags: <code>6.2.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "cs_themes: Restrain picture button heights."</code>](https://github.com/linuxmint/cinnamon/commit/86c071cde5ec8325f278ae4341810c969d4eb88e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12281 from claudiux/ExtensionCore.py-Add-update-subject</code>](https://github.com/linuxmint/cinnamon/commit/c21def1f021d4dc050036ff492c15f07f3181d96)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -66,14 +62,10 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.2...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.3...HEAD)
 
-- [ ] [<code>Fix handling of actions that are not part of the layout.</code>](https://github.com/linuxmint/nemo/commit/393d979a25c491d8e9b63a5b35727077bfb0a4c4)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>nemo-icon-container.c: Don't tie the interactive search box</code>](https://github.com/linuxmint/nemo/commit/055b47af0e1a830e556989372f3689bbd36b639d)
-- [ ] [<code>nemo-action-layout-editor.glade: Set a translation domain.</code>](https://github.com/linuxmint/nemo/commit/544732a790762e50c744f09e49b7762a916bf332)
-- [ ] [<code>6.2.3</code>](https://github.com/linuxmint/nemo/commit/67fd2aaf9e7097ac094e5cb2474a0b38b582c054)
-  - <sub>Tags: <code>6.2.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Update meson.build (#3431)</code>](https://github.com/linuxmint/nemo/commit/aeaa2bd11961a41fe682d4f42386691cfc2e3be8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
