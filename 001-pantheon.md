@@ -246,26 +246,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: Fix crash on rapid revealing/unrevealing (#252)</code>](https://github.com/elementary/dock/commit/7c44d65321cee177571871c98af05d785a95f952)
 
-#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [7.1.0 → HEAD](https://github.com/elementary/feedback/compare/7.1.0...HEAD)
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
-- [ ] [<code>MainWindow: Fix change search terms message never shown (#99)</code>](https://github.com/elementary/feedback/commit/49fa2864e4ce799356bfdd12814518ebee133933)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#101)</code>](https://github.com/elementary/feedback/commit/e8049bfee9e2e9dad15c2f60777ca0b2e3ce6f83)
-- [ ] [<code>Add support for AppStream 1.0 (#102)</code>](https://github.com/elementary/feedback/commit/8bfedbb387ecebf4f7cde31ea72904fff4457447)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Application: init Granite</code>](https://github.com/elementary/feedback/commit/5ef63eb606d463b14952f2995c5dd82aa5a36895)
-- [ ] [<code>master → main</code>](https://github.com/elementary/feedback/commit/faa59827ccdfb522a6f0c97102a28342137a6d13)
-- [ ] [<code>Desktop: change comment to Report a Problem (#106)</code>](https://github.com/elementary/feedback/commit/af9c635d28117e1c384c23895627ca6c28047b44)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/feedback/commit/f7fc096a2e259f6c97e846ed0baf25cb9ed0152c)
-- [ ] [<code>Metainfo: add 8 release notes (#107)</code>](https://github.com/elementary/feedback/commit/f4d49cb4f3a72fdf0c977c548ddd7baed44ce046)
-- [ ] [<code>Remove workaround for missing Dock metainfo (#109)</code>](https://github.com/elementary/feedback/commit/05cc50c349b61cc5fc280b98b42ad749c26ffc40)
-- [ ] [<code>MainWindow: Update package name of System Settings (#110)</code>](https://github.com/elementary/feedback/commit/51ba9cf27c72a73f312076f8fe396311d0f3cff2)
-- [ ] [<code>Replace Gtk.show_uri with Gtk.UriLauncher (#111)</code>](https://github.com/elementary/feedback/commit/0d6a3acb0c0dce33472bbb26a7c5676478b35eaf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/feedback/commit/ff7e3a8607605c4d43beff570c3bdc5a71d0bb5e)
-- [ ] [<code>Release 8.0.0 (#108)</code>](https://github.com/elementary/feedback/commit/9f112f39abf83eaa74e2f9e142710519868564ff)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
 
@@ -807,6 +789,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Resource: add apps category icon (#511)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1b37c6b2bf6c17ceb21e0a48f0763dbe36751a84)
 - [ ] [<code>Shortcuts: Allow configuring keybinds for launching dock items (#513)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2faf6e805acdef4420adbe54813959fede4250b6)
+- [ ] [<code>Metainfo: Add 8 release notes (#514)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/66e02ee6b38c8e778768761f29585dc9ff02b8a9)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -1107,6 +1090,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/e25711e36cca53142b82ecc9243441394cdc2c3a)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5bcc434005b29d645c5ffab47e07bb0b82200dcc)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3751b775ff7866552c75f028b40289fce9b9047e)
+- [ ] [<code>Metainfo: add 8 release notes (#176)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7bce0b7b8b8f6e735e29bdbc1ab9b3a5bf9fa448)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -1137,6 +1121,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Plug: Add "Bluetooth" for search term (#75)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fde9872c4bfbbf4d980000e8706cd26c26e4868e)
 - [ ] [<code>DLNAPage: rework copy (#76)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/39eb536da22a61b7f07ad34e451fe069ee598beb)
+- [ ] [<code>Metinafo: modernize, organize, add missing fields (#77)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/bc1580581238b0ac8be40c34b641eadeccee9793)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/7b594c5b116d51359a24485099154a38db0bc6aa)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1505,6 +1492,8 @@
 - [ ] [<code>WindowSwitcher: Fix memory leak (#1972)</code>](https://github.com/elementary/gala/commit/812caffd6f6ee29bf4b3dda2b8ae33c32853e67a)
 - [ ] [<code>WindowManager: Remove unneeded return (#1971)</code>](https://github.com/elementary/gala/commit/563c8a0e221b6510fa1273a65e782ec0faf14cba)
 - [ ] [<code>Animation: Fix code style (#1969)</code>](https://github.com/elementary/gala/commit/7b77cf979b9bf12aee8cb1e1d9e569bd36da9f00)
+- [ ] [<code>POTFILES: add all files from the project</code>](https://github.com/elementary/gala/commit/eb5d151e860f211cb1012feead4942235a7341a3)
+- [ ] [<code>BackgroundManager: Send changed signal early (#1968)</code>](https://github.com/elementary/gala/commit/5c420862d1c3d7661274267953376df4fb68e95c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1818,6 +1807,7 @@
 - [ ] [<code>Rename Next to 8.0 (#708)</code>](https://github.com/elementary/os/commit/f4518ccb1374db38a0d65712b00190b2c64b6f99)
 - [ ] [<code>Build stable once a month (#704)</code>](https://github.com/elementary/os/commit/fd8feda980b0bc49ca9c5a444c6ebd02f2adedfb)
 - [ ] [<code>Update README.md (#712)</code>](https://github.com/elementary/os/commit/998530a82ba2558dda62d1539d4cb48b9e322791)
+- [ ] [<code>Update PPA pub keys (#715)</code>](https://github.com/elementary/os/commit/4420e6a6ca538528555c3da2dfdde210ba568642)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
