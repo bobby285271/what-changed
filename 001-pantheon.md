@@ -1499,6 +1499,7 @@
 - [ ] [<code>POTFILES: add all files from the project</code>](https://github.com/elementary/gala/commit/eb5d151e860f211cb1012feead4942235a7341a3)
 - [ ] [<code>BackgroundManager: Send changed signal early (#1968)</code>](https://github.com/elementary/gala/commit/5c420862d1c3d7661274267953376df4fb68e95c)
 - [ ] [<code>DesktopIntegration: Report wether the window is in the current active workspace (#1977)</code>](https://github.com/elementary/gala/commit/7bb7908724b89f8fe569dca83bd47b8efa503976)
+- [ ] [<code>DragDropAction: Release hovered reference when finishing the action (#1979)</code>](https://github.com/elementary/gala/commit/78180827ba5718f1b059c95f2dc161d3f9929ed3)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
