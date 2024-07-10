@@ -922,6 +922,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CalDav → CalDAV (#287)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f3fcebfc35efacd7cfa56e5237ace8e1d241394a)
+- [ ] [<code>Metainfo: add 8 release notes (#288)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cd1513d802b675106efad6519ad03c78d9c5bcc4)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -977,6 +978,8 @@
 - [ ] [<code>Appearance: clean up redundant labels (#402)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/8d55c6993d3295dd8e181a6a52910c634a3f825e)
 - [ ] [<code>Dock: re-add hide mode settings (#405)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b72d1cea1fc9249104e7e278c5aaf7de8b69a576)
 - [ ] [<code>Wallpaper: set actionbar padding in CSS (#404)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/93f5332e65defefaf16bb80caf7d88da9e68eadc)
+- [ ] [<code>Metainfo: add 8 release notes (#407)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4a946c8236fcb4a05aeff82e6747dce2f65f5c1c)
+- [ ] [<code>Appearance: improve screenreader a11y for lists of radios (#409)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de7c6ddc6d69b577b0ba23205633fb8188212a03)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1144,6 +1147,7 @@
 - [ ] [<code>Handle own titlebuttons (#268)</code>](https://github.com/elementary/switchboard-plug-sound/commit/652b626b760ad4c333c6efe63540fff0c82235ed)
 - [ ] [<code>ApplicationsPanel: Fix typo (#271)</code>](https://github.com/elementary/switchboard-plug-sound/commit/55e7299c3bd0a9265d218c2c505d4a3308ecc0b7)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2769e770c85d8b669bac4a7e7da7d9b01d7ebd6)
+- [ ] [<code>Metainfo: Add 8 release notes (#274)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1043dfae9a2308d091db89c763feaa09af67b663)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1494,6 +1498,7 @@
 - [ ] [<code>Animation: Fix code style (#1969)</code>](https://github.com/elementary/gala/commit/7b77cf979b9bf12aee8cb1e1d9e569bd36da9f00)
 - [ ] [<code>POTFILES: add all files from the project</code>](https://github.com/elementary/gala/commit/eb5d151e860f211cb1012feead4942235a7341a3)
 - [ ] [<code>BackgroundManager: Send changed signal early (#1968)</code>](https://github.com/elementary/gala/commit/5c420862d1c3d7661274267953376df4fb68e95c)
+- [ ] [<code>DesktopIntegration: Report wether the window is in the current active workspace (#1977)</code>](https://github.com/elementary/gala/commit/7bb7908724b89f8fe569dca83bd47b8efa503976)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1666,6 +1671,7 @@
 - [ ] [<code>Metainfo: add notes for 8 (#225)</code>](https://github.com/elementary/notifications/commit/efcf2d290f773cafb31002a00e2f358e2be4e56b)
 - [ ] [<code>Bubble: use overlay.child (#229)</code>](https://github.com/elementary/notifications/commit/48d439bf562b26fa05fb884e3bb524cde937c599)
 - [ ] [<code>AbstractBubble: set margin in CSS (#228)</code>](https://github.com/elementary/notifications/commit/fdca75190a1c343361e1b03d37f0129aab1439bb)
+- [ ] [<code>Confirmation: Fix value only showing once it changed (#230)</code>](https://github.com/elementary/notifications/commit/1765ed8fe547091eb76dc8e6d6820ee9eee9adbe)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
