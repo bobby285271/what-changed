@@ -314,6 +314,7 @@
 - [ ] [<code>appdata: Improve appdata for AppStream 1.0 (#139)</code>](https://github.com/lainsce/khronos/commit/631d9b50d335855ac53040422db6ecb46563915f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
+- [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
 #### [minder](https://github.com/phase1geo/minder): [1.16.4 → HEAD](https://github.com/phase1geo/minder/compare/1.16.4...HEAD)
 
