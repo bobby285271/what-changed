@@ -405,6 +405,12 @@
 - [ ] [<code>fix #660</code>](https://github.com/alainm23/planify/commit/f1f2a2b5b763da489840d453d9fe2dc67e728912)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1353</code>](https://github.com/alainm23/planify/commit/dac7c97fe0b52d17fa23d3f42901f75a25ac3053)
+- [ ] [<code>feat #622</code>](https://github.com/alainm23/planify/commit/b6bd6061f35d9413093e070e655d26d504ebc338)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix #1352</code>](https://github.com/alainm23/planify/commit/b28782ac3ec48b704ae10e8bf5e267800e814525)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1348</code>](https://github.com/alainm23/planify/commit/cd7e74c1743e12fffd6a073884f43b357c313d9b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
