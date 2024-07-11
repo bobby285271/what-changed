@@ -411,6 +411,7 @@
 - [ ] [<code>fix #1352</code>](https://github.com/alainm23/planify/commit/b28782ac3ec48b704ae10e8bf5e267800e814525)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1348</code>](https://github.com/alainm23/planify/commit/cd7e74c1743e12fffd6a073884f43b357c313d9b)
+- [ ] [<code>feat: update snap core</code>](https://github.com/alainm23/planify/commit/640574c744829e9feb9a85fb96defda2171bb337)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
