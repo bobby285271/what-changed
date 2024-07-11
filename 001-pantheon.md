@@ -470,6 +470,9 @@
 - [ ] [<code>MainWindow: fix Gtk.StyleContext deprecation warning (#165)</code>](https://github.com/elementary/sideload/commit/b269e441262940bc045b15243af78f977420bcda)
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/sideload/commit/980654669a17d88f5adee8a26f28f3a863743b4f)
 - [ ] [<code>Metainfo: add 6.2.2 release notes (#167)</code>](https://github.com/elementary/sideload/commit/f78600745e484a73e709fa101ae23ebbae7dfe68)
+- [ ] [<code>Release 6.2.2 (#168)</code>](https://github.com/elementary/sideload/commit/761b7851ff7bc075d84a86e095ee33cd6d036c35)
+  - <sub>Tags: <code>6.2.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -1280,6 +1283,9 @@
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/default-settings/commit/a089b3919c6091afa8b2cca697ffe17bd9f51a75)
 - [ ] [<code>Shortcuts: make switch workspace super shift (#308)</code>](https://github.com/elementary/default-settings/commit/fe34f26e6c12b7483a6f742cbcada0843272248f)
 - [ ] [<code>Update install (#310)</code>](https://github.com/elementary/default-settings/commit/9f5c7e417ed07565d1e0f9e91022ede85468e08b)
+- [ ] [<code>Revert Plank removal (#311)</code>](https://github.com/elementary/default-settings/commit/008fafaa120e416e75b20d7c96776a1e4311cbb5)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1500,6 +1506,8 @@
 - [ ] [<code>BackgroundManager: Send changed signal early (#1968)</code>](https://github.com/elementary/gala/commit/5c420862d1c3d7661274267953376df4fb68e95c)
 - [ ] [<code>DesktopIntegration: Report wether the window is in the current active workspace (#1977)</code>](https://github.com/elementary/gala/commit/7bb7908724b89f8fe569dca83bd47b8efa503976)
 - [ ] [<code>DragDropAction: Release hovered reference when finishing the action (#1979)</code>](https://github.com/elementary/gala/commit/78180827ba5718f1b059c95f2dc161d3f9929ed3)
+- [ ] [<code>WindowCloneContainer: Release selected window's reference when it's being destroyed</code>](https://github.com/elementary/gala/commit/c9dbf9c0ce6ad0ab92f4760e5b078e0c3ceebb73)
+- [ ] [<code>WindowClone: Fix memory leak in window spread</code>](https://github.com/elementary/gala/commit/2d3fdbe96815bb5e291649c94e9c3135786faf08)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1720,6 +1728,9 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>UbuntuDrivers: Update notification copy (#147)</code>](https://github.com/elementary/settings-daemon/commit/bfe9383325a6a8ade0c20b7baae7c8059dfb0ef6)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/018c37512392f02e81d7bddd99f12ac025a80f99)
+- [ ] [<code>wayland: Fix autostart (#150)</code>](https://github.com/elementary/settings-daemon/commit/7fa95ef06e907a77f16b82825c65a69ba337222b)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-daemon/commit/eeca0fc05cfb3940fc0176501056fb4e237528cd)
+- [ ] [<code>Metainfo: add 8 release notes (#151)</code>](https://github.com/elementary/settings-daemon/commit/6b20463b7bfa8229de88d9ca9dc39b80421132a8)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
