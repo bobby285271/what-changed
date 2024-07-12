@@ -412,6 +412,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1348</code>](https://github.com/alainm23/planify/commit/cd7e74c1743e12fffd6a073884f43b357c313d9b)
 - [ ] [<code>feat: update snap core</code>](https://github.com/alainm23/planify/commit/640574c744829e9feb9a85fb96defda2171bb337)
+- [ ] [<code>Release 4.9.0</code>](https://github.com/alainm23/planify/commit/a0666219beea955fad2c179edb722a6ab6fb4636)
+  - <sub>Tags: <code>4.9.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: update appdata issue</code>](https://github.com/alainm23/planify/commit/68e95f2f082bce0b26ee1d9bae73ebb7bc6285b7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
