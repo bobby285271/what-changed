@@ -161,6 +161,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix cursor positioning when column number is not set when go to line feature is used (#1446)</code>](https://github.com/elementary/code/commit/256d0bc295dd525408f51422a717194c02fe5dd9)
 - [ ] [<code>[GTK4 Prep] Add FileView actions (#1444)</code>](https://github.com/elementary/code/commit/4ea4df8cbe14fa39125db19fab38fb56ed3c3420)
+- [ ] [<code>Metainfo: add 7.3 release notes (#1448)</code>](https://github.com/elementary/code/commit/844f97369a92a3313e02d34a07bb4dd792be3ec2)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -384,6 +385,10 @@
 - [ ] [<code>EditableLabel: Gtk4 Prep (#383)</code>](https://github.com/elementary/tasks/commit/5d4a035ba7744c99f5404e35be04edef59aa1c97)
 - [ ] [<code>EntryPopover/Generic: Gtk4 Prep (#386)</code>](https://github.com/elementary/tasks/commit/58cfb39f1e90fae3ab5a06170152c4fe1e7dae4c)
 - [ ] [<code>MainWindow: make on_listbox_row_selected lambda a function (#388)</code>](https://github.com/elementary/tasks/commit/cc0f6b5779b433c66201a6b4a0f604a18c1a59cd)
+- [ ] [<code>Manifest: rewrite as json (#390)</code>](https://github.com/elementary/tasks/commit/f48af899d852a4562bfa61184c1b93a2aed60ace)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Metainfo: add 6.3.3 release notes (#391)</code>](https://github.com/elementary/tasks/commit/c62f1f36983ccfef32bf9603ebb2016d1338a488)
+- [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -417,6 +422,7 @@
 - [ ] [<code>Fix inoperative header decorations when fullscreened (#753)</code>](https://github.com/elementary/terminal/commit/9ad5ca658dde815fe1b09158378307d73c1b6a4f)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/terminal/commit/95468be531d4b35a6813bcfa3904926dbb847308)
 - [ ] [<code>Update POTFILES (#759)</code>](https://github.com/elementary/terminal/commit/ed33e57fc55668aa9a4a20901647993410e568dc)
+- [ ] [<code>Add 6.2 release notes (#763)</code>](https://github.com/elementary/terminal/commit/bf1415a59fc1151b6de18f3e896167d0150af9a3)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -1248,6 +1254,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove Leigh Kendell (#188)</code>](https://github.com/elementary/wallpapers/commit/f7752428394f9d8def8ea1988e48280491be959b)
 - [ ] [<code>Remove Julia Craice (#189)</code>](https://github.com/elementary/wallpapers/commit/5c1d797b2994f3a6527b7e60c8a84d0f975e9ea2)
+- [ ] [<code>metainfo: modernize, organize, add missing tags (#190)</code>](https://github.com/elementary/wallpapers/commit/79a5f3f359da9617d62eb0f102057040e28e3789)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#191)</code>](https://github.com/elementary/wallpapers/commit/c0f679b28755c1af33f1449e777227c8d3b22b22)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
@@ -1542,6 +1551,7 @@
 - [ ] [<code>wayland: Don't use the revealer (#538)</code>](https://github.com/elementary/wingpanel/commit/8d5c92b68667ebba4e0a901ea6d2fce4547a7caa)
 - [ ] [<code>PanelWindow: send the right size to the compositor</code>](https://github.com/elementary/wingpanel/commit/2a1a0d9cb60fc36189d4a2f62d9e2518a6bc0ced)
 - [ ] [<code>PanelWindow: Use the right geometry on wayland</code>](https://github.com/elementary/wingpanel/commit/aaba38e3e803d29a4ac9e78344a2b843ec9d7b65)
+- [ ] [<code>Misc GTK4 prep (#545)</code>](https://github.com/elementary/wingpanel/commit/b8cc621c4d941801ec764f04a85f461299f3de0d)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
