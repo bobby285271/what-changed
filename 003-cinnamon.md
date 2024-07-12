@@ -125,9 +125,13 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.4 → HEAD](https://github.com/linuxmint/xed/compare/3.6.4...HEAD)
 
+- [ ] [<code>xed.desktop: Add application/x-zerosize mimetype.</code>](https://github.com/linuxmint/xed/commit/3239b902a546f124faa49d49ff474b7f5347267a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
+- [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
