@@ -69,8 +69,9 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.3...HEAD)
 
 - [ ] [<code>Update meson.build (#3431)</code>](https://github.com/linuxmint/nemo/commit/aeaa2bd11961a41fe682d4f42386691cfc2e3be8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-view.c: Don't create a zero-length Empty Document.</code>](https://github.com/linuxmint/nemo/commit/7c67dc922c5924edd4de5f414d87eb9eb28b852a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
