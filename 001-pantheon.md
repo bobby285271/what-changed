@@ -136,6 +136,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/camera/commit/504ea12cc9287ec10ca0d48f8926dd9a816b4621)
 - [ ] [<code>Flatpak: bump platform to 8.0 (#270)</code>](https://github.com/elementary/camera/commit/48eca0aa954346b2d424c4c6b44e7de6621c4ce5)
 - [ ] [<code>Gtk4 Prep (#271)</code>](https://github.com/elementary/camera/commit/457dcff9a4740d5921f1414310a0b3b14cd5052e)
+- [ ] [<code>Metainfo: add 8 release notes (#272)</code>](https://github.com/elementary/camera/commit/90e51cb601199f7c1dccaee5bf814d231692df56)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
 
@@ -162,6 +163,7 @@
 - [ ] [<code>Fix cursor positioning when column number is not set when go to line feature is used (#1446)</code>](https://github.com/elementary/code/commit/256d0bc295dd525408f51422a717194c02fe5dd9)
 - [ ] [<code>[GTK4 Prep] Add FileView actions (#1444)</code>](https://github.com/elementary/code/commit/4ea4df8cbe14fa39125db19fab38fb56ed3c3420)
 - [ ] [<code>Metainfo: add 7.3 release notes (#1448)</code>](https://github.com/elementary/code/commit/844f97369a92a3313e02d34a07bb4dd792be3ec2)
+- [ ] [<code>PreferencesDialog: rewrite (#1449)</code>](https://github.com/elementary/code/commit/50bf489fb0824fb6d34cb5a6917e591e78ad3e07)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -1157,6 +1159,7 @@
 - [ ] [<code>ApplicationsPanel: Fix typo (#271)</code>](https://github.com/elementary/switchboard-plug-sound/commit/55e7299c3bd0a9265d218c2c505d4a3308ecc0b7)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2769e770c85d8b669bac4a7e7da7d9b01d7ebd6)
 - [ ] [<code>Metainfo: Add 8 release notes (#274)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1043dfae9a2308d091db89c763feaa09af67b663)
+- [ ] [<code>Plug: add margin to stack (#276)</code>](https://github.com/elementary/switchboard-plug-sound/commit/caecfdbb41b4d5fceb3f6a742fb0ac2515170d36)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1517,6 +1520,8 @@
 - [ ] [<code>DragDropAction: Release hovered reference when finishing the action (#1979)</code>](https://github.com/elementary/gala/commit/78180827ba5718f1b059c95f2dc161d3f9929ed3)
 - [ ] [<code>WindowCloneContainer: Release selected window's reference when it's being destroyed</code>](https://github.com/elementary/gala/commit/c9dbf9c0ce6ad0ab92f4760e5b078e0c3ceebb73)
 - [ ] [<code>WindowClone: Fix memory leak in window spread</code>](https://github.com/elementary/gala/commit/2d3fdbe96815bb5e291649c94e9c3135786faf08)
+- [ ] [<code>wayland: Implement make_center (#1942)</code>](https://github.com/elementary/gala/commit/f8346f0d4a8577c1cf81036cc09324727cc98175)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1552,6 +1557,12 @@
 - [ ] [<code>PanelWindow: send the right size to the compositor</code>](https://github.com/elementary/wingpanel/commit/2a1a0d9cb60fc36189d4a2f62d9e2518a6bc0ced)
 - [ ] [<code>PanelWindow: Use the right geometry on wayland</code>](https://github.com/elementary/wingpanel/commit/aaba38e3e803d29a4ac9e78344a2b843ec9d7b65)
 - [ ] [<code>Misc GTK4 prep (#545)</code>](https://github.com/elementary/wingpanel/commit/b8cc621c4d941801ec764f04a85f461299f3de0d)
+- [ ] [<code>Metainfo: modernize, organize, add missing fields, localize (#546)</code>](https://github.com/elementary/wingpanel/commit/188ec36ac613b83c2d4282bfacfdf4deb4f1bb54)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GTK4 prep: Move from MenuBar/Item to Box (#543)</code>](https://github.com/elementary/wingpanel/commit/8ef9f0e56609fed705aa0a63d4c78d358b8fe4c8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel/commit/d5782481ddce43bde4bc872c77722f823baa766b)
+- [ ] [<code>Metainfo: add 8 release notes (#547)</code>](https://github.com/elementary/wingpanel/commit/52098b84c53d2f2d1320a708575a5ed6ecdbad7a)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
