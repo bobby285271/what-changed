@@ -248,6 +248,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: Fix crash on rapid revealing/unrevealing (#252)</code>](https://github.com/elementary/dock/commit/7c44d65321cee177571871c98af05d785a95f952)
+- [ ] [<code>Launcher: Add running on current workspace indicator (#255)</code>](https://github.com/elementary/dock/commit/db6d118de5ec95c4981f380f0bc35fd496ef88ec)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -1260,6 +1261,7 @@
 - [ ] [<code>metainfo: modernize, organize, add missing tags (#190)</code>](https://github.com/elementary/wallpapers/commit/79a5f3f359da9617d62eb0f102057040e28e3789)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#191)</code>](https://github.com/elementary/wallpapers/commit/c0f679b28755c1af33f1449e777227c8d3b22b22)
+- [ ] [<code>Update .pot file</code>](https://github.com/elementary/wallpapers/commit/0de06980bb6c0cbbf5d18a3d3dc6dd3e1592a76f)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
