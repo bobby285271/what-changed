@@ -403,6 +403,15 @@
 - [ ] [<code>Categories: Refactor reset methods (#223)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b470b1b99b8a013b09d51a5ef1c70ae2225a16a8)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Categories: Remove unused methods (#224)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/88c58a92fb4f6d5246135f5d0da2553425f44b05)
+- [ ] [<code>AppearancePane: Explicit theme in HeaderLabel</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ceb464e498381008f2eaa0f6fd33444503df81c9)
+- [ ] [<code>Redesign: Review spacing (#225)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7e410d0dfde4bbefed7b26b6f4ad7d52a8d11ff5)
+- [ ] [<code>TerminalPane: Do not reset natural-copy-paste setting (#226)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ef28badc1f191f6487da4e0264d4badc27c9eb23)
+- [ ] [<code>Categories: Fix window width can be smaller than view (#227)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2e4edfda03b507dbd20fc0c1685a4e98983fd761)
+- [ ] [<code>AppearancePane: Correct window control layout name</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a1119ef661e5b275aff41d908f89e955bc0c19e0)
+- [ ] [<code>TerminalPane: Explicit unsafe-paste-alert also blocks commands with multiple lines</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5e025847709fd187e6e0540a9b355f8a3b6cd5c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>metainfo: Add the new "translate" tag to prevent translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4fe592338db9f6e3a9159afe84acaad1a48281e1)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7c1b9b9afba4421512f3b3fb98d7ffc98ac3fb89)
 
 #### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
