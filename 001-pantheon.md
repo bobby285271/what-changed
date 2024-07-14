@@ -165,6 +165,7 @@
 - [ ] [<code>Metainfo: add 7.3 release notes (#1448)</code>](https://github.com/elementary/code/commit/844f97369a92a3313e02d34a07bb4dd792be3ec2)
 - [ ] [<code>PreferencesDialog: rewrite (#1449)</code>](https://github.com/elementary/code/commit/50bf489fb0824fb6d34cb5a6917e591e78ad3e07)
 - [ ] [<code>PreferencesDialog: make whitespace strings consistent (#1451)</code>](https://github.com/elementary/code/commit/1ce15e104456e43246577c044ae3230ce1c5c575)
+- [ ] [<code>Update POTFILES (#1452)</code>](https://github.com/elementary/code/commit/a0d36bbc3e4648820b0c8de3f45008fc518b0601)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -1366,6 +1367,10 @@
 - [ ] [<code>OnlineAccountsView: use icon shipped with System Settings (#230)</code>](https://github.com/elementary/onboarding/commit/7c3ecd189fd7e7a202b924b4f6d002b433004080)
 - [ ] [<code>Replace Carousel with NavigationView (#232)</code>](https://github.com/elementary/onboarding/commit/c880e532c6ac6f1efc855a62f27fa8dffa767228)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Make sure to use latest gettext-template; remove git installation (#233)</code>](https://github.com/elementary/onboarding/commit/cf7df50a12ea6397ba5f4b9c7125282f9993a57e)
+- [ ] [<code>Bump libadwaita version (#234)</code>](https://github.com/elementary/onboarding/commit/9f8a42c779686ba0712a48640cf636751f239b57)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1696,6 +1701,8 @@
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
 - [ ] [<code>Metainfo: fix typo in brand color</code>](https://github.com/elementary/capnet-assist/commit/fcdf388081146e0a67b014cc5b9b71c703f99be0)
+- [ ] [<code>l10n: Correct gettext package name (#122)</code>](https://github.com/elementary/capnet-assist/commit/054d96f8c76fb5465b5c7bbffc97bc95169f8a4a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [7.0.1 → HEAD](https://github.com/elementary/notifications/compare/7.0.1...HEAD)
 
