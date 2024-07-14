@@ -164,6 +164,7 @@
 - [ ] [<code>[GTK4 Prep] Add FileView actions (#1444)</code>](https://github.com/elementary/code/commit/4ea4df8cbe14fa39125db19fab38fb56ed3c3420)
 - [ ] [<code>Metainfo: add 7.3 release notes (#1448)</code>](https://github.com/elementary/code/commit/844f97369a92a3313e02d34a07bb4dd792be3ec2)
 - [ ] [<code>PreferencesDialog: rewrite (#1449)</code>](https://github.com/elementary/code/commit/50bf489fb0824fb6d34cb5a6917e591e78ad3e07)
+- [ ] [<code>PreferencesDialog: make whitespace strings consistent (#1451)</code>](https://github.com/elementary/code/commit/1ce15e104456e43246577c044ae3230ce1c5c575)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -392,6 +393,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Metainfo: add 6.3.3 release notes (#391)</code>](https://github.com/elementary/tasks/commit/c62f1f36983ccfef32bf9603ebb2016d1338a488)
 - [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
+- [ ] [<code>CSS: entry-popover Gtk4 prep (#387)</code>](https://github.com/elementary/tasks/commit/99d63430dee87d82bdcf4784b107cc0c50b3b72c)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
 
@@ -992,6 +994,7 @@
 - [ ] [<code>Wallpaper: set actionbar padding in CSS (#404)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/93f5332e65defefaf16bb80caf7d88da9e68eadc)
 - [ ] [<code>Metainfo: add 8 release notes (#407)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4a946c8236fcb4a05aeff82e6747dce2f65f5c1c)
 - [ ] [<code>Appearance: improve screenreader a11y for lists of radios (#409)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de7c6ddc6d69b577b0ba23205633fb8188212a03)
+- [ ] [<code>Remove translatable texts for the retired contractor (#410)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ccb78f0f52027046b08fdaba29d3aa2d61d056b0)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1361,6 +1364,8 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/onboarding/commit/0721b5c4ad5c323cdceb400ee9dfa512abcbe361)
 - [ ] [<code>Metainfo: add 8 release notes (#227)</code>](https://github.com/elementary/onboarding/commit/afd2032993a0ddb9955b1b3f2450a93bb6537a08)
 - [ ] [<code>OnlineAccountsView: use icon shipped with System Settings (#230)</code>](https://github.com/elementary/onboarding/commit/7c3ecd189fd7e7a202b924b4f6d002b433004080)
+- [ ] [<code>Replace Carousel with NavigationView (#232)</code>](https://github.com/elementary/onboarding/commit/c880e532c6ac6f1efc855a62f27fa8dffa767228)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
