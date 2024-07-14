@@ -391,6 +391,18 @@
 - [ ] [<code>Replace deprecated FontButton with FontDialogButton (#217)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a2d642e74fdd3277417c3d9cc2d5a8284832b1c1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>TerminalPane: Redesign (#218)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f8cbc9712535070f96a15ad1f91d154675da979a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>MiscPane: Redesign (#219)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0da9ac5ea8c6aa61305865e0b849a59c93cd4c2e)
+- [ ] [<code>FontsPane: Redesign (#220)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4afc1750c669aa5257a23361c26c7703427c851c)
+- [ ] [<code>FilesPane: Redesign (#221)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/be3d631351431f31f177a1a6d2198d828ba82316)
+- [ ] [<code>Re-add trailing period in the description texts</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5ef526fcac515a4691c5fcc77874493ffe796e12)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>AppearancePane: Redesign (#222)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c75019fe37874072f58599f9ea7d8f9f5f55587c)
+- [ ] [<code>Categories: Refactor reset methods (#223)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b470b1b99b8a013b09d51a5ef1c70ae2225a16a8)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Categories: Remove unused methods (#224)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/88c58a92fb4f6d5246135f5d0da2553425f44b05)
 
 #### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
 
