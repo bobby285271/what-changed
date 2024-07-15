@@ -351,6 +351,9 @@
 
 - [ ] [<code>gschema: Remove alias to sharing (#767)</code>](https://github.com/elementary/photos/commit/42bc09e4782380dd4b221974ea02f21ebf12baa3)
 - [ ] [<code>AppDirs: Fix loading plugins (#770)</code>](https://github.com/elementary/photos/commit/cc5af834f37891a4df6a6b5d9278c17472ef433b)
+- [ ] [<code>meson: Use gnome module to compile schemas (#772)</code>](https://github.com/elementary/photos/commit/e1ceee19a9c4db65ecc499eda4f88bc88d987816)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -566,6 +569,9 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Add sassc to dependencies (#314)</code>](https://github.com/elementary/switchboard/commit/1a08a5226b5a3315d3350cc45edb662e64e18a95)
+- [ ] [<code>meson: Use gnome module to compile schemas (#317)</code>](https://github.com/elementary/switchboard/commit/b605d7ae9c92a151ba1403721fb2fe1144d3b4af)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -805,6 +811,7 @@
 - [ ] [<code>Resource: add apps category icon (#511)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1b37c6b2bf6c17ceb21e0a48f0763dbe36751a84)
 - [ ] [<code>Shortcuts: Allow configuring keybinds for launching dock items (#513)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2faf6e805acdef4420adbe54813959fede4250b6)
 - [ ] [<code>Metainfo: Add 8 release notes (#514)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/66e02ee6b38c8e778768761f29585dc9ff02b8a9)
+- [ ] [<code>Replace screenshots icon with fd.o icon name (#516)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6a93cf15f3fcd64c3c3f4d8276bd76403cdad0c9)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -1626,6 +1633,9 @@
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#310)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c48e0d636d177f91fcffafedf65f0add2af0a576)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/34faf5872fd3e0c5a4670eecf75fb4e73adec735)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/7b1cb58c8ac174d0cee76dd4d876c434c04e5064)
+- [ ] [<code>meson: Use gnome module to compile schemas (#312)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/580ada46d21a14657b5c55eb07814fbc86a3e0dc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
@@ -1634,6 +1644,9 @@
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d26d8968710e9ec55611a27528da7a0c5d0b3258)
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#123)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b0f4d4293b6e6e28eb514ca2fb835ab28b200af3)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/8141939ff388e26c032492cefbd42275cdced713)
+- [ ] [<code>meson: Use gnome module to compile schemas (#124)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/26dcebdc12fc8c0b8867cb2bea940c29dcfde892)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
@@ -1684,6 +1697,9 @@
 - [ ] [<code>Handle keybindings and confirmation in the indicator (#270)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fb22657712be19297cacb3171ec964ccce95f7b7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/da90d57c0308556636770e1b046876cf76726d7a)
+- [ ] [<code>meson: Use gnome module to compile schemas (#271)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d30d711006362be2770d4864980a9c08175e02ca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
@@ -1693,6 +1709,9 @@
 - [ ] [<code>ValidatedEntry: set AccessibleState (#724)</code>](https://github.com/elementary/granite/commit/0eab9b9e754f8446624ef8266c3f92169495e927)
 - [ ] [<code>HeaderLabel: set accessible description (#725)</code>](https://github.com/elementary/granite/commit/c3043820f81880b5f1c8d69d444269e40db115ac)
 - [ ] [<code>AbstractSimpleSettingsPage: Correct replacement class (#726)</code>](https://github.com/elementary/granite/commit/4581f54f624820e763cb3f9a6213c4fabc2383a2)
+- [ ] [<code>meson: Use gnome module to compile schemas (#727)</code>](https://github.com/elementary/granite/commit/4059d89e4f9f485d506190f718f707f54f5b3de5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
