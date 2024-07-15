@@ -1541,6 +1541,9 @@
 - [ ] [<code>WindowClone: Fix memory leak in window spread</code>](https://github.com/elementary/gala/commit/2d3fdbe96815bb5e291649c94e9c3135786faf08)
 - [ ] [<code>wayland: Implement make_center (#1942)</code>](https://github.com/elementary/gala/commit/f8346f0d4a8577c1cf81036cc09324727cc98175)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Use gnome module to compile schemas (#1987)</code>](https://github.com/elementary/gala/commit/5c7fd3629e1d1b861afbbdec2b9474319c383067)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1716,6 +1719,9 @@
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
 
+- [ ] [<code>Fix coding style (#38)</code>](https://github.com/elementary/contractor/commit/16ece113028840173cd9327df96f41d1f775d22d)
+- [ ] [<code>Use GitHub Actions for CI (#37)</code>](https://github.com/elementary/contractor/commit/116ed6c5f99670534bfc4b1c4759c8ab5bc17c25)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
