@@ -1639,6 +1639,9 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#312)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/580ada46d21a14657b5c55eb07814fbc86a3e0dc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Metainfo: organize, modernize, add missing fields (#314)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c417783ed01705d43899e4193726310c6f901f4c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 2.4.2 release notes (#315)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/d3e1c10c9cc5d5e4663f6bab01a6eaadd734efb6)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
@@ -1650,6 +1653,10 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#124)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/26dcebdc12fc8c0b8867cb2bea940c29dcfde892)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Metainfo: organize, add missing tags, modernize (#126)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b2f5ea79b548e3734f3a493921fb3cc4c44896ae)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 2.4.2 release notes (#127)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b7a9b0b3679acead2a133bf436c240d434f5a0d)
+- [ ] [<code>Metainfo: fix gettext name</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/75b793059624a2fee87aed27dc024b8f6ff866d3)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
@@ -1657,16 +1664,19 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-network/commit/43df2e74480c8363cedf40bcb5f87c10a3f44938)
+- [ ] [<code>Metainfo: add 7.1.1 release notes (#316)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1e349a853b6cd004129c0a8ac4e4ec643309623f)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#104)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6e3419dc1ec0d6c0e1f823f107c69028e34ede9c)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/9f91f5003629e70373e054acf002117633053227)
+- [ ] [<code>Metainfo: add 2.1.3 release notes (#105)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6eb146208fba481bc2b5eb26488e3e2bd4af867c)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
 - [ ] [<code>Remove unused argument (#274)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6f98e9d619f4f1cb24959d2bc3bd03887d50f600)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/228bb8368bb1dfde8452c5f816c7bff97bd8c71a)
+- [ ] [<code>Metainfo: add 7.1.1 release notes (#279)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/1e8da507690d387bce0812ccbffefff20aff4daf)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
@@ -1675,6 +1685,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-power/commit/453578c32d1fae9edc9ffc672619717c7b229de6)
+- [ ] [<code>Metainfo: organize, add missing fields, modernize (#258)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/3cc3417ddf6b40fa31cc1c4bd9351dd1ac8c5ca0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#259)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/916af891d081ecfa5e7bf9a8da10897596ee04e6)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -1703,6 +1716,7 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#271)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d30d711006362be2770d4864980a9c08175e02ca)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#273)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8484060a3e67468a651ee82b4edfaa2f7903ab5c)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
@@ -1722,6 +1736,8 @@
 - [ ] [<code>Fix coding style (#38)</code>](https://github.com/elementary/contractor/commit/16ece113028840173cd9327df96f41d1f775d22d)
 - [ ] [<code>Use GitHub Actions for CI (#37)</code>](https://github.com/elementary/contractor/commit/116ed6c5f99670534bfc4b1c4759c8ab5bc17c25)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Install into libexecdir instead of bindir (#36)</code>](https://github.com/elementary/contractor/commit/90056888997d50e5638ba7f254ecf580ea0c6a2c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
