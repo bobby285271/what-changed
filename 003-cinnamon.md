@@ -12,7 +12,9 @@
 - [ ] [<code>Revert "cs_themes: Restrain picture button heights."</code>](https://github.com/linuxmint/cinnamon/commit/86c071cde5ec8325f278ae4341810c969d4eb88e)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12281 from claudiux/ExtensionCore.py-Add-update-subject</code>](https://github.com/linuxmint/cinnamon/commit/c21def1f021d4dc050036ff492c15f07f3181d96)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.5</code>](https://github.com/linuxmint/cinnamon/commit/5061b9c776deac607ed1e25fccf696b9b34ed014)
+  - <sub>Tags: <code>6.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -46,6 +48,9 @@
 
 #### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f5edf5683c7e7e51da2c0e66a9a288d5342edc63 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f5edf5683c7e7e51da2c0e66a9a288d5342edc63...HEAD)
 
+- [ ] [<code>Add view-compact-symbolic.svg.</code>](https://github.com/linuxmint/mint-l-icons/commit/b4c957f0ef7b3ff24f6e7ad525eb7274ca11297f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.2</code>](https://github.com/linuxmint/mint-l-icons/commit/ee03e6dad0b1f9e25847977eae42766e2ddd4877)
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
@@ -57,11 +62,15 @@
 
 - [ ] [<code>Add view-compact-symbolic.svg.</code>](https://github.com/linuxmint/mint-x-icons/commit/8c0366d5712d1ddf0d363005354b9c7bd1de8758)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-x-icons/commit/f14c9d9a96b17dada94c3fa7001d1ec1cb8db752)
+  - <sub>Tags: <code>1.7.1</code></sub>
 
 #### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.6...HEAD)
 
 - [ ] [<code>Add view-compact-symbolic.svg.</code>](https://github.com/linuxmint/mint-y-icons/commit/6f249bd29eeb832158a21bec54bff72a97361220)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-y-icons/commit/eee6c211378e4c0c7bf95fa1a3213a55ab286afd)
+  - <sub>Tags: <code>1.7.7</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
@@ -71,13 +80,22 @@
 - [ ] [<code>Update meson.build (#3431)</code>](https://github.com/linuxmint/nemo/commit/aeaa2bd11961a41fe682d4f42386691cfc2e3be8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-view.c: Don't create a zero-length Empty Document.</code>](https://github.com/linuxmint/nemo/commit/7c67dc922c5924edd4de5f414d87eb9eb28b852a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.4</code>](https://github.com/linuxmint/nemo/commit/349ccd02d85ed034ada829824d5186fd401f0b9f)
+  - <sub>Tags: <code>6.2.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.1 → HEAD](https://github.com/linuxmint/pix/compare/3.4.1...HEAD)
 
+- [ ] [<code>Add missing xlib dependency.</code>](https://github.com/linuxmint/pix/commit/25792b587d556d417e4309408e07d4e8981d12a8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove dependency on unmaintained gtk-clutter, disable slideshow</code>](https://github.com/linuxmint/pix/commit/f8241ac4209d0d75c8572a3d8e4e3bdaf05b7b18)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.5...HEAD)
 
@@ -124,15 +142,15 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.2 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.2...HEAD)
 
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.6.4 → HEAD](https://github.com/linuxmint/xed/compare/3.6.4...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.6.5 → HEAD](https://github.com/linuxmint/xed/compare/3.6.5...HEAD)
 
-- [ ] [<code>xed.desktop: Add application/x-zerosize mimetype.</code>](https://github.com/linuxmint/xed/commit/3239b902a546f124faa49d49ff474b7f5347267a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
 - [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.8</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f1c24244f90571209c56b7f45802b70e80da4922)
+  - <sub>Tags: <code>1.0.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
