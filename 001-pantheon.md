@@ -102,6 +102,7 @@
 - [ ] [<code>UpdateManager: clean up update_cache (#2196)</code>](https://github.com/elementary/appcenter/commit/0fc15146ba043d851aa1081c66e8d15d419ff3e5)
 - [ ] [<code>UpdateManager: Fix auto updates, liststore (#2197)</code>](https://github.com/elementary/appcenter/commit/80ab9ea11d0a22783e75b3d3c6e0a4ffc4bd2d31)
 - [ ] [<code>AppListUpdateView: DRY Update All (#2199)</code>](https://github.com/elementary/appcenter/commit/e31bf55be45d84b352e8eb4bbb6a214245a117a1)
+- [ ] [<code>Application: Close the window on quit, don't destroy it (#2201)</code>](https://github.com/elementary/appcenter/commit/20f2bb15ddd0e5bf2e69ed01f5e3547216fb7e84)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -432,6 +433,9 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/terminal/commit/95468be531d4b35a6813bcfa3904926dbb847308)
 - [ ] [<code>Update POTFILES (#759)</code>](https://github.com/elementary/terminal/commit/ed33e57fc55668aa9a4a20901647993410e568dc)
 - [ ] [<code>Add 6.2 release notes (#763)</code>](https://github.com/elementary/terminal/commit/bf1415a59fc1151b6de18f3e896167d0150af9a3)
+- [ ] [<code>Release 6.2.0 (#754)</code>](https://github.com/elementary/terminal/commit/0500b6872e76d2f0bf6b529aac00a8bdcf08ccd9)
+  - <sub>Tags: <code>6.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -1544,6 +1548,12 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#1987)</code>](https://github.com/elementary/gala/commit/5c7fd3629e1d1b861afbbdec2b9474319c383067)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix several C warnings (#1989)</code>](https://github.com/elementary/gala/commit/a1213eb98dad9bdc16851cc223826d690cf76429)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Shell Config: add polkit agent (#1983)</code>](https://github.com/elementary/gala/commit/48249e8efc18ba9b057dbdbc8cc8d622638d3cb1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/gala/commit/b1cb309670f3903d6a66e2684e42c87fb7203671)
+- [ ] [<code>Metainfo: add 8 release notes (#1991)</code>](https://github.com/elementary/gala/commit/21cd25b29f3e8bc6716b091372e4c506067f394e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1612,6 +1622,9 @@
 - [ ] [<code>Update githubci.yml (#590)</code>](https://github.com/elementary/applications-menu/commit/d122036180d78441a46641bbca93647c5e418c41)
 - [ ] [<code>Make sure to always query the right info before use</code>](https://github.com/elementary/applications-menu/commit/7001334095d7804bfbf9c32c3435bfcece1a690f)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/applications-menu/commit/9e0c8f1148265da299a302269c8d28ccc28dfe3a)
+- [ ] [<code>Metainfo: modernize, organize, add missing tags (#598)</code>](https://github.com/elementary/applications-menu/commit/b5960860ab5c72fc6e06ca7d73311922d2cb5ed3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#599)</code>](https://github.com/elementary/applications-menu/commit/353396b78f39521b0eccf28a9df7c87403a48026)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
