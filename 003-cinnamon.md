@@ -16,8 +16,12 @@
   - <sub>Tags: <code>6.2.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamon-settings-users: Don't use w -hs</code>](https://github.com/linuxmint/cinnamon/commit/0ad4d3fa2ef70992521faae3fe2900ecfb6a6ad8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Set clip_to_allocation to true for menu and notification applets (#12296)</code>](https://github.com/linuxmint/cinnamon/commit/7d55d43ecfabb2bf853a5d2c5e58d3a8740a0f93)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.6</code>](https://github.com/linuxmint/cinnamon/commit/e675818b45abfc3f2a15298f2f13adb371a8b4d4)
+  - <sub>Tags: <code>6.2.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -77,6 +81,10 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.4...HEAD)
 
+- [ ] [<code>action-layout-editor: Translate action names</code>](https://github.com/linuxmint/nemo/commit/a274df95b1e4c28666c929e148c34093f374302e)
+- [ ] [<code>6.2.5</code>](https://github.com/linuxmint/nemo/commit/4bd96b5eb75d8c510dc9e8b140aea1a1b9088e65)
+  - <sub>Tags: <code>6.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
