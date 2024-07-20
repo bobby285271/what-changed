@@ -1640,6 +1640,9 @@
 - [ ] [<code>Use emblem- icons instead of user- (#212)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/17a1b8b8305912f968dc6c8d221c786f7951cfce)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/797a447754a81eddc187f3c9f7676f0c879e3b9f)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/86b4dec45a605543b8f07df1afac0290597c909b)
+- [ ] [<code>Removes bluetooth transfer daemon (#215)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23bd12812db17c170f974a89621b49eb48a16aea)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
