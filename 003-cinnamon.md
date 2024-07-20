@@ -13,8 +13,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12281 from claudiux/ExtensionCore.py-Add-update-subject</code>](https://github.com/linuxmint/cinnamon/commit/c21def1f021d4dc050036ff492c15f07f3181d96)
 - [ ] [<code>6.2.5</code>](https://github.com/linuxmint/cinnamon/commit/5061b9c776deac607ed1e25fccf696b9b34ed014)
-  - <sub>Tags: <code>6.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamon-settings-users: Don't use w -hs</code>](https://github.com/linuxmint/cinnamon/commit/0ad4d3fa2ef70992521faae3fe2900ecfb6a6ad8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -30,6 +33,11 @@
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.0...HEAD)
 
+- [ ] [<code>Fix restart and shutdown (#172)</code>](https://github.com/linuxmint/cinnamon-session/commit/a5d4be9515aaa8c82b8d6293cc68466480e102ff)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.2.1</code>](https://github.com/linuxmint/cinnamon-session/commit/2fe0e03ff81710017aa042f2a8c7e0001f007a7b)
+  - <sub>Tags: <code>6.2.1</code> <code>master.lmde6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
@@ -67,14 +75,8 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.3...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.4...HEAD)
 
-- [ ] [<code>Update meson.build (#3431)</code>](https://github.com/linuxmint/nemo/commit/aeaa2bd11961a41fe682d4f42386691cfc2e3be8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>nemo-view.c: Don't create a zero-length Empty Document.</code>](https://github.com/linuxmint/nemo/commit/7c67dc922c5924edd4de5f414d87eb9eb28b852a)
-- [ ] [<code>6.2.4</code>](https://github.com/linuxmint/nemo/commit/349ccd02d85ed034ada829824d5186fd401f0b9f)
-  - <sub>Tags: <code>6.2.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -88,8 +90,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove dependency on unmaintained gtk-clutter, disable slideshow</code>](https://github.com/linuxmint/pix/commit/f8241ac4209d0d75c8572a3d8e4e3bdaf05b7b18)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.4.2</code>](https://github.com/linuxmint/pix/commit/0de63424c1cba5c2ef242e4ed76f9865dfdf6c58)
+  - <sub>Tags: <code>3.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.5...HEAD)
