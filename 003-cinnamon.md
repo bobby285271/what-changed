@@ -20,7 +20,11 @@
 - [ ] [<code>Set clip_to_allocation to true for menu and notification applets (#12296)</code>](https://github.com/linuxmint/cinnamon/commit/7d55d43ecfabb2bf853a5d2c5e58d3a8740a0f93)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.2.6</code>](https://github.com/linuxmint/cinnamon/commit/e675818b45abfc3f2a15298f2f13adb371a8b4d4)
-  - <sub>Tags: <code>6.2.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Dns.js: Revert bug workaround (#12298)</code>](https://github.com/linuxmint/cinnamon/commit/80cbf6ac1b3dfb7a0328105821392330812c1cff)
+- [ ] [<code>6.2.7</code>](https://github.com/linuxmint/cinnamon/commit/553428e7d3ec8517b79512ed2de43ce76b0c3512)
+  - <sub>Tags: <code>6.2.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
@@ -35,13 +39,8 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.2.0...HEAD)
 
 
-#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.0...HEAD)
+#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
-- [ ] [<code>Fix restart and shutdown (#172)</code>](https://github.com/linuxmint/cinnamon-session/commit/a5d4be9515aaa8c82b8d6293cc68466480e102ff)
-  - <sub>Tags: <code>master.mint22</code></sub>
-- [ ] [<code>6.2.1</code>](https://github.com/linuxmint/cinnamon-session/commit/2fe0e03ff81710017aa042f2a8c7e0001f007a7b)
-  - <sub>Tags: <code>6.2.1</code> <code>master.lmde6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
@@ -83,8 +82,10 @@
 
 - [ ] [<code>action-layout-editor: Translate action names</code>](https://github.com/linuxmint/nemo/commit/a274df95b1e4c28666c929e148c34093f374302e)
 - [ ] [<code>6.2.5</code>](https://github.com/linuxmint/nemo/commit/4bd96b5eb75d8c510dc9e8b140aea1a1b9088e65)
-  - <sub>Tags: <code>6.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-action-manager.c: Generate unique names for actions when</code>](https://github.com/linuxmint/nemo/commit/1fd3c550ff3af05ba0f1bb7082528b54b6cfffc8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -92,18 +93,8 @@
 - [ ] [<code>nemo-emblems 6.2.1</code>](https://github.com/linuxmint/nemo-extensions/commit/710884d40df5d93453e58849a216c2c145a0e537)
   - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
 
-#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.1 → HEAD](https://github.com/linuxmint/pix/compare/3.4.1...HEAD)
+#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.2 → HEAD](https://github.com/linuxmint/pix/compare/3.4.2...HEAD)
 
-- [ ] [<code>Add missing xlib dependency.</code>](https://github.com/linuxmint/pix/commit/25792b587d556d417e4309408e07d4e8981d12a8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Remove dependency on unmaintained gtk-clutter, disable slideshow</code>](https://github.com/linuxmint/pix/commit/f8241ac4209d0d75c8572a3d8e4e3bdaf05b7b18)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.4.2</code>](https://github.com/linuxmint/pix/commit/0de63424c1cba5c2ef242e4ed76f9865dfdf6c58)
-  - <sub>Tags: <code>3.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.5...HEAD)
 
@@ -153,12 +144,8 @@
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.5 → HEAD](https://github.com/linuxmint/xed/compare/3.6.5...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
 
-- [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
-- [ ] [<code>1.0.8</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f1c24244f90571209c56b7f45802b70e80da4922)
-  - <sub>Tags: <code>1.0.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
