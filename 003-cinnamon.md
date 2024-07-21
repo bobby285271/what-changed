@@ -4,6 +4,12 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.3 → HEAD](https://github.com/linuxmint/bulky/compare/3.3...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/6c0db6fbd6adc3e78cc5f33d9fe6e97d3e9ccef9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/85690bf11b2b8128fa86f737ee4fc4b1513ce4cc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.4</code>](https://github.com/linuxmint/bulky/commit/bf6030337e37a5cfde0d08b0c28877bfefeeca4b)
+  - <sub>Tags: <code>3.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.4...HEAD)
 
@@ -53,6 +59,9 @@
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [35aa5b9839935fc3415ba6b7c77171459e7325fa → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/35aa5b9839935fc3415ba6b7c77171459e7325fa...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/ec662d0d1efc4b819f36870db742faf9ffcb4ece)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.4</code>](https://github.com/linuxmint/folder-color-switcher/commit/c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2)
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
@@ -95,18 +104,39 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.2 → HEAD](https://github.com/linuxmint/pix/compare/3.4.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/8711ab40a542ae3fe33e46bd704ccfbf0dd534a5)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>3.4.3</code>](https://github.com/linuxmint/pix/commit/845369f06427cf73ce0a646af53221d0d774b744)
+  - <sub>Tags: <code>3.4.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.5 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/3d8832c2760ea8df5a99aeab04b85e5985066b7b)
+- [ ] [<code>1.8.6</code>](https://github.com/linuxmint/warpinator/commit/34413b665559c96f8ccc4bff5856d180e02777f6)
+  - <sub>Tags: <code>1.8.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.4 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.4...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/a3a278c87028fa5006f271fa5e1c7ebacd0e7b1a)
+- [ ] [<code>2.8.5</code>](https://github.com/linuxmint/xapp/commit/3c85263447770597aa6e6d26b21bffba67b81186)
+  - <sub>Tags: <code>2.8.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.1...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/7e4c8bc0536f5c04e02dd2f9623fc040c6bbfbe6)
+- [ ] [<code>4.2.2</code>](https://github.com/linuxmint/xreader/commit/24f7653b5d4b83b153670deecf8f88563e37c627)
+  - <sub>Tags: <code>4.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.5 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/76d0f6765250960a0f227fb79bbea7310add13ce)
+- [ ] [<code>3.4.6</code>](https://github.com/linuxmint/xviewer/commit/f2a25882e659316f4a8eecfe9bfc67d1212dc22b)
+  - <sub>Tags: <code>3.4.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -128,21 +158,46 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.5 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/a3bf3c1474964c9ccf32821cade923579c718606)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/hypnotix/commit/2e42c0f1cb34632a3d7fb80c215159052d4fb667)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.6</code>](https://github.com/linuxmint/hypnotix/commit/a52711268d9da82b8a9c084593b00032b165b627)
+  - <sub>Tags: <code>4.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.5 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/fe26898619b176f3931e40b619e9a0df1c816a65)
+- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/slick-greeter/commit/c47731f27aa0a165df57d8e1177f86b58e27d714)
+  - <sub>Tags: <code>2.0.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.21 → HEAD](https://github.com/linuxmint/sticky/compare/1.21...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/9afd24277f718c3d245c0c344b4612b37879fd35)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.22</code>](https://github.com/linuxmint/sticky/commit/0460af7af321597fc8aaba4348b2707d79a60d4c)
+  - <sub>Tags: <code>1.22</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.2 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/timeshift/commit/c597bff37de6736c52e0d01b88cea359e62906c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>24.06.3</code>](https://github.com/linuxmint/timeshift/commit/ffb6047bee40c21bd9cdd6f3ce6b4b76c2c05141)
+  - <sub>Tags: <code>24.06.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.5 → HEAD](https://github.com/linuxmint/xed/compare/3.6.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/183a203fa3a1498794793d4d5017117a0882a92e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>3.6.6</code>](https://github.com/linuxmint/xed/commit/d83770231a95e495f44a7f45d25751dc9bcb862e)
+  - <sub>Tags: <code>3.6.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
 
