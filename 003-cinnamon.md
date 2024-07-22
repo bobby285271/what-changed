@@ -45,12 +45,8 @@
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
 
-#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.1...HEAD)
+#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/dc2bc9d9d8c3c25e2b0f3f543a17a654c1b24018)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>6.2.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/16f1c9cd96b9cde8fb8ad14e472019b10ff4f4a3)
-  - <sub>Tags: <code>6.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.2.0...HEAD)
 
@@ -156,24 +152,14 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.5 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.5...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/a3bf3c1474964c9ccf32821cade923579c718606)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/hypnotix/commit/2e42c0f1cb34632a3d7fb80c215159052d4fb667)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.6</code>](https://github.com/linuxmint/hypnotix/commit/a52711268d9da82b8a9c084593b00032b165b627)
-  - <sub>Tags: <code>4.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.5 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.5...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.6 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/fe26898619b176f3931e40b619e9a0df1c816a65)
-- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/slick-greeter/commit/c47731f27aa0a165df57d8e1177f86b58e27d714)
-  - <sub>Tags: <code>2.0.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.21 → HEAD](https://github.com/linuxmint/sticky/compare/1.21...HEAD)
 
