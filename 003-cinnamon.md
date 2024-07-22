@@ -2,14 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python.
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.3 → HEAD](https://github.com/linuxmint/bulky/compare/3.3...HEAD)
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/6c0db6fbd6adc3e78cc5f33d9fe6e97d3e9ccef9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/85690bf11b2b8128fa86f737ee4fc4b1513ce4cc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.4</code>](https://github.com/linuxmint/bulky/commit/bf6030337e37a5cfde0d08b0c28877bfefeeca4b)
-  - <sub>Tags: <code>3.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.4...HEAD)
 
@@ -53,6 +47,10 @@
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.1...HEAD)
 
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/dc2bc9d9d8c3c25e2b0f3f543a17a654c1b24018)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>6.2.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/16f1c9cd96b9cde8fb8ad14e472019b10ff4f4a3)
+  - <sub>Tags: <code>6.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.2.0...HEAD)
 
@@ -94,7 +92,9 @@
   - <sub>Tags: <code>6.2.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-action-manager.c: Generate unique names for actions when</code>](https://github.com/linuxmint/nemo/commit/1fd3c550ff3af05ba0f1bb7082528b54b6cfffc8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.6</code>](https://github.com/linuxmint/nemo/commit/962d0617e72d8e0b1878b933a8ff8a41f33f486c)
+  - <sub>Tags: <code>6.2.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
