@@ -309,6 +309,7 @@
 - [ ] [<code>Validate tip uri when restoring Column View (#2440)</code>](https://github.com/elementary/files/commit/466b52874bfed83b0cc2e0f8451c2e608989d1c0)
 - [ ] [<code>Update info when streaming to a file (#2442)</code>](https://github.com/elementary/files/commit/5a1267c7af26cda98f15e2b989564f54c2450c8c)
 - [ ] [<code>Change accel for duplicate tab to match Code and Web Browser (#2443)</code>](https://github.com/elementary/files/commit/8542c8be161d5f45950e1d6ec31efdf695fed3cd)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/files/commit/bd8ef0d898646bef640e321a92eadd0e852d44e4)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -639,6 +640,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/0dae65cae8561d4d051ddf427ed5c393733871f2)
 - [ ] [<code>Metainfo: add missing fields, organize (#326)</code>](https://github.com/elementary/switchboard-plug-about/commit/1657380f179dd89dd335413c4598008d16a73ed9)
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#327)</code>](https://github.com/elementary/switchboard-plug-about/commit/f2306399b9cac5d63a4180a9611bf8a4c1eac705)
+- [ ] [<code>Update screenshots (#330)</code>](https://github.com/elementary/switchboard-plug-about/commit/164dd51d38587bfdcceaa4a57e9e24cde72cdc8a)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -744,6 +746,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#125)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/237c0e615ec9e8bd07bc8394adbb25ed0dc0399b)
 - [ ] [<code>Actions/Release: bump branch to noble</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ebdbeb44116e7dab56d6bbc59150cac86bdb93b3)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-datetime/commit/64cee3be1c61b901772d93beac093e6eb30962a6)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -816,6 +819,7 @@
 - [ ] [<code>Shortcuts: Allow configuring keybinds for launching dock items (#513)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2faf6e805acdef4420adbe54813959fede4250b6)
 - [ ] [<code>Metainfo: Add 8 release notes (#514)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/66e02ee6b38c8e778768761f29585dc9ff02b8a9)
 - [ ] [<code>Replace screenshots icon with fd.o icon name (#516)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6a93cf15f3fcd64c3c3f4d8276bd76403cdad0c9)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3beb16a6dd7a06df4357b306461d25b4ed5a2319)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -890,6 +894,7 @@
 - [ ] [<code>Metainfo: organize, add missing fields (#400)</code>](https://github.com/elementary/switchboard-plug-network/commit/c1d26b680f9fcd163e9b73996632292f939d3be1)
 - [ ] [<code>Metainfo: add 8 release notes (#401)</code>](https://github.com/elementary/switchboard-plug-network/commit/18586b99e8c514a962de4834d933bddc6315b173)
 - [ ] [<code>WifiPage: show SSID in sidebar when connected (#403)</code>](https://github.com/elementary/switchboard-plug-network/commit/0269d2e3fcd608881a48b00f41515020d4130bff)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-network/commit/16bcc64a85170332cf41cc03338fd4774ecc4013)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -949,6 +954,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CalDav → CalDAV (#287)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f3fcebfc35efacd7cfa56e5237ace8e1d241394a)
 - [ ] [<code>Metainfo: add 8 release notes (#288)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cd1513d802b675106efad6519ad03c78d9c5bcc4)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/8af7612b47d604ac09108053bde3b00da6acdec3)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1062,6 +1068,7 @@
 - [ ] [<code>Metainfo: modernize, add missing fields (#267)</code>](https://github.com/elementary/switchboard-plug-power/commit/96e60f239a0954cb88556fb3d792d7e5dd579a26)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#268)</code>](https://github.com/elementary/switchboard-plug-power/commit/391a8ae35aca63836afcc52b56051d31aa5e5113)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-power/commit/4295f025a40bc2f9e1ff1d4e51a022413f088db3)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -1121,6 +1128,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/5bcc434005b29d645c5ffab47e07bb0b82200dcc)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3751b775ff7866552c75f028b40289fce9b9047e)
 - [ ] [<code>Metainfo: add 8 release notes (#176)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7bce0b7b8b8f6e735e29bdbc1ab9b3a5bf9fa448)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/88824e31144f37c2f6da2c887f94e8b93fd06062)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -1154,6 +1162,7 @@
 - [ ] [<code>Metinafo: modernize, organize, add missing fields (#77)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/bc1580581238b0ac8be40c34b641eadeccee9793)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/7b594c5b116d51359a24485099154a38db0bc6aa)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d0ef081878431344a5e9f034cadea0ec0118ec3b)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1176,6 +1185,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-sound/commit/c2769e770c85d8b669bac4a7e7da7d9b01d7ebd6)
 - [ ] [<code>Metainfo: Add 8 release notes (#274)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1043dfae9a2308d091db89c763feaa09af67b663)
 - [ ] [<code>Plug: add margin to stack (#276)</code>](https://github.com/elementary/switchboard-plug-sound/commit/caecfdbb41b4d5fceb3f6a742fb0ac2515170d36)
+- [ ] [<code>Update screenshots (#277)</code>](https://github.com/elementary/switchboard-plug-sound/commit/69c9a491c02f39bf999365f8144b039271b44528)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1277,6 +1287,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#191)</code>](https://github.com/elementary/wallpapers/commit/c0f679b28755c1af33f1449e777227c8d3b22b22)
 - [ ] [<code>Update .pot file</code>](https://github.com/elementary/wallpapers/commit/0de06980bb6c0cbbf5d18a3d3dc6dd3e1592a76f)
+- [ ] [<code>Release 8.0.0 (#192)</code>](https://github.com/elementary/wallpapers/commit/2ae7f028a7d807864bdc6b28947d5eb3f36add61)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
