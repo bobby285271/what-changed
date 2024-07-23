@@ -413,30 +413,8 @@
 - [ ] [<code>metainfo: Add the new "translate" tag to prevent translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4fe592338db9f6e3a9159afe84acaad1a48281e1)
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7c1b9b9afba4421512f3b3fb98d7ffc98ac3fb89)
 
-#### [planify](https://github.com/alainm23/planify): [4.8.4 → HEAD](https://github.com/alainm23/planify/compare/4.8.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.9.0 → HEAD](https://github.com/alainm23/planify/compare/4.9.0...HEAD)
 
-- [ ] [<code>Hindi translation update</code>](https://github.com/alainm23/planify/commit/ca05887078031c8c83fb33536b1bdb7667693489)
-- [ ] [<code> Added korean translation</code>](https://github.com/alainm23/planify/commit/30a979c98f49dcb4c53a0485ce3e647ec962939b)
-- [ ] [<code> Added korean translation</code>](https://github.com/alainm23/planify/commit/b5d9c360c054476c459bde84cc1f8dfacd4287a9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/af74154fd4f354ad721d4978bb5392b61c4e5f1d)
-- [ ] [<code>Merge pull request #1354 from haggen88/master</code>](https://github.com/alainm23/planify/commit/e30d35a372b09a1d9f06636a9df997243c918632)
-- [ ] [<code>Merge pull request #1350 from myunsyeya/Added-korean-translation</code>](https://github.com/alainm23/planify/commit/caaf036724aa5e29eca2f46ae0d560d66fdd9b8b)
-- [ ] [<code>Merge pull request #1349 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/9d0ee97cd8110049d4e964e9a5b4a53d6b029c9a)
-- [ ] [<code>fix #660</code>](https://github.com/alainm23/planify/commit/f1f2a2b5b763da489840d453d9fe2dc67e728912)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1353</code>](https://github.com/alainm23/planify/commit/dac7c97fe0b52d17fa23d3f42901f75a25ac3053)
-- [ ] [<code>feat #622</code>](https://github.com/alainm23/planify/commit/b6bd6061f35d9413093e070e655d26d504ebc338)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>fix #1352</code>](https://github.com/alainm23/planify/commit/b28782ac3ec48b704ae10e8bf5e267800e814525)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1348</code>](https://github.com/alainm23/planify/commit/cd7e74c1743e12fffd6a073884f43b357c313d9b)
-- [ ] [<code>feat: update snap core</code>](https://github.com/alainm23/planify/commit/640574c744829e9feb9a85fb96defda2171bb337)
-- [ ] [<code>Release 4.9.0</code>](https://github.com/alainm23/planify/commit/a0666219beea955fad2c179edb722a6ab6fb4636)
-  - <sub>Tags: <code>4.9.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>feat: update appdata issue</code>](https://github.com/alainm23/planify/commit/68e95f2f082bce0b26ee1d9bae73ebb7bc6285b7)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
