@@ -401,42 +401,8 @@
 - [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
 - [ ] [<code>CSS: entry-popover Gtk4 prep (#387)</code>](https://github.com/elementary/tasks/commit/99d63430dee87d82bdcf4784b107cc0c50b3b72c)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.1.2 → HEAD](https://github.com/elementary/terminal/compare/6.1.2...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
-- [ ] [<code>Remove Unecessary Idle During Page Switch (#720)</code>](https://github.com/elementary/terminal/commit/c90ca64ca907ac16343f357fd30be642bdbbbb3b)
-- [ ] [<code>Application: Implement `startup()` (#710)</code>](https://github.com/elementary/terminal/commit/1a114de68b754e10061a746d62090b89489ab455)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Application: Handle Minimized in The Primary Instance (#724)</code>](https://github.com/elementary/terminal/commit/4fda3c0760dcfced6c73f02d80f2ca50c32cb51e)
-- [ ] [<code>Install man page with meson (#731)</code>](https://github.com/elementary/terminal/commit/3a23da7afd5ed799a276527846b02f3fff69eabc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Add `SettingsPopover` Class (#699)</code>](https://github.com/elementary/terminal/commit/0f6c1cd8145ac3e45f1d36e0647c255a6004f629)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#738)</code>](https://github.com/elementary/terminal/commit/783d3578718a638dbcd7cd05eb4160b649d8dafe)
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#734)</code>](https://github.com/elementary/terminal/commit/a7219d1232e5b808c249da82bbf7151570e67c36)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>MainWindow: Put search toolbar in a title stack (#668)</code>](https://github.com/elementary/terminal/commit/c9a60a385831a0ffad18e9f1492735fdc193f313)
-- [ ] [<code>Expose audible-bell setting in Settings Menu (#740)</code>](https://github.com/elementary/terminal/commit/94321c058ad4ebf60850874e8d0f6b594cfecb7b)
-- [ ] [<code>Continous saving of current tabs and tab-zooms (#742)</code>](https://github.com/elementary/terminal/commit/b2b9c950bcf1826a5b30c94d9c27c8d488919e6e)
-- [ ] [<code>MainWindow: null terminate accel arrays (#745)</code>](https://github.com/elementary/terminal/commit/c5dfcd3ee9dcd836b2969d8b3f265950d965fc7e)
-- [ ] [<code>TerminalWidget: port event handling to event controllers</code>](https://github.com/elementary/terminal/commit/7a62bc7ba6a3a80cbb94215b19113ff450e7332a)
-- [ ] [<code>MainWindow: port to Gtk.EventController</code>](https://github.com/elementary/terminal/commit/88fb8be715e033a477a8d3b71e7637752967c45b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Remove window position (#748)</code>](https://github.com/elementary/terminal/commit/a76636d35c6a9868b98963baba56fe7fdb79a8cc)
-- [ ] [<code>MainWindow: Move Actions and Keyboard Handling Related to The View to TerminalWidget (#749)</code>](https://github.com/elementary/terminal/commit/beabb949dbfbb7af1954975ed80e5988b6711d66)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>TerminalWidget: Stop Scroll Controller When Keyboard Focus is Lost (#750)</code>](https://github.com/elementary/terminal/commit/b9195295d6cc850a84ec0fa5f0471e4d2f956301)
-- [ ] [<code>Fix unwanted extra tab  (#743)</code>](https://github.com/elementary/terminal/commit/501e68919e518f2646475d4d7c5b8e6c69eccdf2)
-  - <sub>Keywords: <code>commandline</code></sub>
-- [ ] [<code>Fix inoperative header decorations when fullscreened (#753)</code>](https://github.com/elementary/terminal/commit/9ad5ca658dde815fe1b09158378307d73c1b6a4f)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/terminal/commit/95468be531d4b35a6813bcfa3904926dbb847308)
-- [ ] [<code>Update POTFILES (#759)</code>](https://github.com/elementary/terminal/commit/ed33e57fc55668aa9a4a20901647993410e568dc)
-- [ ] [<code>Add 6.2 release notes (#763)</code>](https://github.com/elementary/terminal/commit/bf1415a59fc1151b6de18f3e896167d0150af9a3)
-- [ ] [<code>Release 6.2.0 (#754)</code>](https://github.com/elementary/terminal/commit/0500b6872e76d2f0bf6b529aac00a8bdcf08ccd9)
-  - <sub>Tags: <code>6.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
 
@@ -479,20 +445,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#388)</code>](https://github.com/elementary/videos/commit/cde439c5426ca0f0969feb8dff3f6f3c79c3e35b)
 
-#### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.1 → HEAD](https://github.com/elementary/sideload/compare/6.2.1...HEAD)
+#### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas and update desktop DB (#163)</code>](https://github.com/elementary/sideload/commit/07fc6be4d2d70b9b5cf5a73ab7d03bb61cdf526c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#164)</code>](https://github.com/elementary/sideload/commit/b9679a1cc92def3a429d4bc4edc8b657fe3438f4)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/sideload/commit/4e62c04f4a6f11dc579ee01e4d8464c7f8f42a61)
-- [ ] [<code>Application: use Startup (#166)</code>](https://github.com/elementary/sideload/commit/734ac9ae6824b3b9bd88b79857f383b19426f67a)
-- [ ] [<code>MainWindow: fix Gtk.StyleContext deprecation warning (#165)</code>](https://github.com/elementary/sideload/commit/b269e441262940bc045b15243af78f977420bcda)
-- [ ] [<code>CI: master → main</code>](https://github.com/elementary/sideload/commit/980654669a17d88f5adee8a26f28f3a863743b4f)
-- [ ] [<code>Metainfo: add 6.2.2 release notes (#167)</code>](https://github.com/elementary/sideload/commit/f78600745e484a73e709fa101ae23ebbae7dfe68)
-- [ ] [<code>Release 6.2.2 (#168)</code>](https://github.com/elementary/sideload/commit/761b7851ff7bc075d84a86e095ee33cd6d036c35)
-  - <sub>Tags: <code>6.2.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -853,6 +807,7 @@
 - [ ] [<code>Metainfo: modernize, fix errors, add fields (#235)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/76fa94a7a95ebe1ee5836d2dc5d945b0a05acc13)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add 8 release notes (#236)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/005c1a35111c2bde1f525af68fe18cca2ddde98e)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/0cd7841ce1e0204e5a844c97158d6322fb11a454)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -925,6 +880,7 @@
 - [ ] [<code>Modernize metainfo (#105)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/1657fbf683151aff592e291895b8bad80fbb79dc)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#106)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/cf370d9d0562cd6a64d878b11a560e1badfe68e8)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-notifications/commit/6166b1b780da954e151f425d1074e05565fbb5ab)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -1101,6 +1057,8 @@
 - [ ] [<code>Actions: bump gettext version</code>](https://github.com/elementary/switchboard-plug-printers/commit/480a51253793801e0bb5c4f1b330459b7b43b1b2)
 - [ ] [<code>Metainfo: modernize, organize, add 8.0.0 release notes (#204)</code>](https://github.com/elementary/switchboard-plug-printers/commit/8828f0fd5bf0971697f3ad7203bdb51d0ffeb63c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-printers/commit/d3bca322bc1a9a056852aeb5cf6c2c3a4be7d184)
+- [ ] [<code>Metainfo: add fixed issue (#206)</code>](https://github.com/elementary/switchboard-plug-printers/commit/1a489bdc900cc4cd26301a2b8d7cabac8a3094a1)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -1163,6 +1121,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/7b594c5b116d51359a24485099154a38db0bc6aa)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d0ef081878431344a5e9f034cadea0ec0118ec3b)
+- [ ] [<code>BluetoothPage: use settings from Daemon (#80)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0a769f534eaaf5ea0777651c08e9410843434196)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
