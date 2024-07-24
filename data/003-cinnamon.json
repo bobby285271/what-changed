@@ -13,79 +13,79 @@
             "content": "> For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python."
         },
         {
-            "attr_path": "cinnamon.bulky"
+            "attr_path": "bulky"
         },
         {
-            "attr_path": "cinnamon.cinnamon-common"
+            "attr_path": "cinnamon-common"
         },
         {
-            "attr_path": "cinnamon.cinnamon-control-center"
+            "attr_path": "cinnamon-control-center"
         },
         {
-            "attr_path": "cinnamon.cinnamon-desktop"
+            "attr_path": "cinnamon-desktop"
         },
         {
-            "attr_path": "cinnamon.cinnamon-menus"
+            "attr_path": "cinnamon-menus"
         },
         {
-            "attr_path": "cinnamon.cinnamon-screensaver"
+            "attr_path": "cinnamon-screensaver"
         },
         {
-            "attr_path": "cinnamon.cinnamon-session"
+            "attr_path": "cinnamon-session"
         },
         {
-            "attr_path": "cinnamon.cinnamon-settings-daemon"
+            "attr_path": "cinnamon-settings-daemon"
         },
         {
-            "attr_path": "cinnamon.cinnamon-translations"
+            "attr_path": "cinnamon-translations"
         },
         {
-            "attr_path": "cinnamon.cjs"
+            "attr_path": "cjs"
         },
         {
-            "attr_path": "cinnamon.folder-color-switcher"
+            "attr_path": "folder-color-switcher"
         },
         {
-            "attr_path": "cinnamon.mint-cursor-themes"
+            "attr_path": "mint-cursor-themes"
         },
         {
-            "attr_path": "cinnamon.mint-l-icons"
+            "attr_path": "mint-l-icons"
         },
         {
-            "attr_path": "cinnamon.mint-l-theme"
+            "attr_path": "mint-l-theme"
         },
         {
-            "attr_path": "cinnamon.mint-themes"
+            "attr_path": "mint-themes"
         },
         {
-            "attr_path": "cinnamon.mint-x-icons"
+            "attr_path": "mint-x-icons"
         },
         {
-            "attr_path": "cinnamon.mint-y-icons"
+            "attr_path": "mint-y-icons"
         },
         {
-            "attr_path": "cinnamon.muffin"
+            "attr_path": "muffin"
         },
         {
-            "attr_path": "cinnamon.nemo"
+            "attr_path": "nemo"
         },
         {
-            "attr_path": "cinnamon.nemo-python"
+            "attr_path": "nemo-python"
         },
         {
-            "attr_path": "cinnamon.pix"
+            "attr_path": "pix"
         },
         {
-            "attr_path": "cinnamon.warpinator"
+            "attr_path": "warpinator"
         },
         {
-            "attr_path": "cinnamon.xapp"
+            "attr_path": "xapp"
         },
         {
-            "attr_path": "cinnamon.xreader"
+            "attr_path": "xreader"
         },
         {
-            "attr_path": "cinnamon.xviewer"
+            "attr_path": "xviewer"
         },
         {
             "kind": "markdown",
