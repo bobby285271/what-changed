@@ -125,6 +125,7 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calendar/commit/f2663f6f6526a673f8744057ed4d1cab4fd75693)
 - [ ] [<code>CI: build with meson (#809)</code>](https://github.com/elementary/calendar/commit/7bc06b420251bd81f0af65b33126bb4ff71b79ab)
 - [ ] [<code>Metainfo: add release notes for 8 (#808)</code>](https://github.com/elementary/calendar/commit/0d560c6fd5b153fe4edacfb9f6dd3f6ceca65f7f)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/calendar/commit/9f98815f14fd1ea96e0c68dc2b9c905ae1be3cf1)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -167,6 +168,10 @@
 - [ ] [<code>PreferencesDialog: rewrite (#1449)</code>](https://github.com/elementary/code/commit/50bf489fb0824fb6d34cb5a6917e591e78ad3e07)
 - [ ] [<code>PreferencesDialog: make whitespace strings consistent (#1451)</code>](https://github.com/elementary/code/commit/1ce15e104456e43246577c044ae3230ce1c5c575)
 - [ ] [<code>Update POTFILES (#1452)</code>](https://github.com/elementary/code/commit/a0d36bbc3e4648820b0c8de3f45008fc518b0601)
+- [ ] [<code>Jeremypw/fix cancel folder creation (#1454)</code>](https://github.com/elementary/code/commit/bb969bfb896c0e2c18e0473c568b8596876caac2)
+- [ ] [<code>Release 7.3.0 (#1450)</code>](https://github.com/elementary/code/commit/04bf35ffb03bd6749cf3f028edd879f91a2bd3a4)
+  - <sub>Tags: <code>7.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -400,6 +405,7 @@
 - [ ] [<code>Metainfo: add 6.3.3 release notes (#391)</code>](https://github.com/elementary/tasks/commit/c62f1f36983ccfef32bf9603ebb2016d1338a488)
 - [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
 - [ ] [<code>CSS: entry-popover Gtk4 prep (#387)</code>](https://github.com/elementary/tasks/commit/99d63430dee87d82bdcf4784b107cc0c50b3b72c)
+- [ ] [<code>Workflows: use gettext with deb packaging</code>](https://github.com/elementary/tasks/commit/1cd5352e3ebd6c4eca525ef8a8833aacd1f9a8b2)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
@@ -595,6 +601,7 @@
 - [ ] [<code>Metainfo: add missing fields, organize (#326)</code>](https://github.com/elementary/switchboard-plug-about/commit/1657380f179dd89dd335413c4598008d16a73ed9)
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#327)</code>](https://github.com/elementary/switchboard-plug-about/commit/f2306399b9cac5d63a4180a9611bf8a4c1eac705)
 - [ ] [<code>Update screenshots (#330)</code>](https://github.com/elementary/switchboard-plug-about/commit/164dd51d38587bfdcceaa4a57e9e24cde72cdc8a)
+- [ ] [<code>Plug: add more search terms (#331)</code>](https://github.com/elementary/switchboard-plug-about/commit/8970fc7f5d5bf8fcae74dc8a3229eaeb6bc5f7a7)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -1287,6 +1294,8 @@
 - [ ] [<code>Revert Plank removal (#311)</code>](https://github.com/elementary/default-settings/commit/008fafaa120e416e75b20d7c96776a1e4311cbb5)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Plank: replace switchboard with settings (#313)</code>](https://github.com/elementary/default-settings/commit/b79f6b0a600f768b9cedd801804800923fe2ae64)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1615,6 +1624,7 @@
 - [ ] [<code>Removes bluetooth transfer daemon (#215)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/23bd12812db17c170f974a89621b49eb48a16aea)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8 release notes (#216)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/7459e2dc1051f36280f80d278414c5862881fad6)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -1745,6 +1755,9 @@
 - [ ] [<code>Bubble: use overlay.child (#229)</code>](https://github.com/elementary/notifications/commit/48d439bf562b26fa05fb884e3bb524cde937c599)
 - [ ] [<code>AbstractBubble: set margin in CSS (#228)</code>](https://github.com/elementary/notifications/commit/fdca75190a1c343361e1b03d37f0129aab1439bb)
 - [ ] [<code>Confirmation: Fix value only showing once it changed (#230)</code>](https://github.com/elementary/notifications/commit/1765ed8fe547091eb76dc8e6d6820ee9eee9adbe)
+- [ ] [<code>Release 8.0.0 (#226)</code>](https://github.com/elementary/notifications/commit/42062d5be700b93ecf2e55cb23c48a660614a189)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
 
@@ -1817,6 +1830,9 @@
 - [ ] [<code>Implement screen cast portal (#102)</code>](https://github.com/elementary/portals/commit/ad05247e31bb96ce41a16156c439364b270f9bf8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: 8 release notes (#103)</code>](https://github.com/elementary/portals/commit/f3e80cfd0850b5a1868f9ea66ebf127fbc1278b9)
+- [ ] [<code>Release 7.2.0 (#104)</code>](https://github.com/elementary/portals/commit/d868cfa854c731e0f37615e225d5db07cc3f4604)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
