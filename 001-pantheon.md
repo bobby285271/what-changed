@@ -126,6 +126,10 @@
 - [ ] [<code>CI: build with meson (#809)</code>](https://github.com/elementary/calendar/commit/7bc06b420251bd81f0af65b33126bb4ff71b79ab)
 - [ ] [<code>Metainfo: add release notes for 8 (#808)</code>](https://github.com/elementary/calendar/commit/0d560c6fd5b153fe4edacfb9f6dd3f6ceca65f7f)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/calendar/commit/9f98815f14fd1ea96e0c68dc2b9c905ae1be3cf1)
+- [ ] [<code>Release 8.0.0 (#810)</code>](https://github.com/elementary/calendar/commit/a8741655fef3ab18e57c2873e40fa6a9168447a8)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
 
@@ -172,6 +176,10 @@
 - [ ] [<code>Release 7.3.0 (#1450)</code>](https://github.com/elementary/code/commit/04bf35ffb03bd6749cf3f028edd879f91a2bd3a4)
   - <sub>Tags: <code>7.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[GTK4 Prep] Move External App Actions Logic To Utils (#1455)</code>](https://github.com/elementary/code/commit/59f3b668e1feea1868de7ae36fceec66e8d0621a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[GTK4 Prep] Use actions for New Window menu item in FileItem (#1456)</code>](https://github.com/elementary/code/commit/7194d098149bdbce50e3e2d05c6d812c59aa6aab)
+- [ ] [<code>Replace all "_" characters in action names with "-" (#1457)</code>](https://github.com/elementary/code/commit/3fcac976282586d9c171c8649bf335e0cb74a4c6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -353,6 +361,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add music file[s] from within app (#766)</code>](https://github.com/elementary/music/commit/7ebb2bf78d7502dd017faeb04a01cce5e6a79ec9)
 - [ ] [<code>Metainfo: add 8 release notes (#773)</code>](https://github.com/elementary/music/commit/6643e167aaf9106b8f1e6f4803eafa1e9fd3ef79)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/music/commit/5911fc77f8f510b3fc037d9f6e05eac2eab9060f)
+- [ ] [<code>Release 8.0.0 (#774)</code>](https://github.com/elementary/music/commit/5712a4c4771fce300d31ca0ce5bc7edc87c14396)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
@@ -361,6 +373,7 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#772)</code>](https://github.com/elementary/photos/commit/e1ceee19a9c4db65ecc499eda4f88bc88d987816)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Flatpak: add sandbox hole for home (#774)</code>](https://github.com/elementary/photos/commit/742f6d1b67293f07e56027648f3c0aafd5cc4517)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
 
@@ -377,6 +390,9 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/screenshot/commit/0a328ce6f7e6381e6188e9a756a15bd55beb3833)
 - [ ] [<code>Flatpak: bump platform to 8.0 (#278)</code>](https://github.com/elementary/screenshot/commit/38e2f7e9b9679d0bf049b1f008c6a0044a4a1fa7)
 - [ ] [<code>Metainfo: add 8 release notes (#279)</code>](https://github.com/elementary/screenshot/commit/46945f2f83d211a863795b41bf0269ed8fb264a1)
+- [ ] [<code>Release 8.0.0 (#280)</code>](https://github.com/elementary/screenshot/commit/1f989fe300eabd89487fb06ff6891e44cd83113a)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -450,6 +466,10 @@
 - [ ] [<code>Drop support for optical media (#363)</code>](https://github.com/elementary/videos/commit/0e8f271527bcf0f8097523290b5f07eb98b4a3fe)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#388)</code>](https://github.com/elementary/videos/commit/cde439c5426ca0f0969feb8dff3f6f3c79c3e35b)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/videos/commit/bd8b2fce7aa9b86ca4eb9186067f0105048e7d25)
+- [ ] [<code>Release 8.0.0 (#381)</code>](https://github.com/elementary/videos/commit/627bf9be24f2bef9cf7648065746b27dc9fa9769)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
@@ -1231,31 +1251,8 @@
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
 
-#### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [7.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/7.0.0...HEAD)
+#### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [8.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/8.0.0...HEAD)
 
-- [ ] [<code>Build Early Access wallpaper (#178)</code>](https://github.com/elementary/wallpapers/commit/268ec78b208f722336e1d52bfa2ce9173c8827c3)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Switch to GHCR containers (#179)</code>](https://github.com/elementary/wallpapers/commit/ca00c646ee783cf7fb0796e75abd73950451bb73)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wallpapers/commit/4aeefdb177feefd6a00938a05df13c10a832d086)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#180)</code>](https://github.com/elementary/wallpapers/commit/412bcdc260a64826149d05da001106e8f4c0e84a)
-- [ ] [<code>Early Access: remove text</code>](https://github.com/elementary/wallpapers/commit/58c38e289ebad7c6fb39503760c239e0c3699ed5)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag (#182)</code>](https://github.com/elementary/wallpapers/commit/e18f2abd5025d1d99e02cb118542f25e81f4e7cf)
-- [ ] [<code>Add Peter Thomas (#184)</code>](https://github.com/elementary/wallpapers/commit/de0ca265de83191a4e66411d1cb82c59e643b29a)
-- [ ] [<code>Add A Trail of Footprints (#185)</code>](https://github.com/elementary/wallpapers/commit/d6350f6ee2fcad6581491ced51ce2b8037fdf87d)
-- [ ] [<code>Master → main</code>](https://github.com/elementary/wallpapers/commit/033bac675c309306ab09aaa64d057ff0b8aab677)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/wallpapers/commit/0ca53a2c4fe76720fd14d19c89b99758b2de9e51)
-- [ ] [<code>Change default for 8 (#187)</code>](https://github.com/elementary/wallpapers/commit/82c8d302cc2a41f91bad192f394e2c8d01e0cf48)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove Leigh Kendell (#188)</code>](https://github.com/elementary/wallpapers/commit/f7752428394f9d8def8ea1988e48280491be959b)
-- [ ] [<code>Remove Julia Craice (#189)</code>](https://github.com/elementary/wallpapers/commit/5c1d797b2994f3a6527b7e60c8a84d0f975e9ea2)
-- [ ] [<code>metainfo: modernize, organize, add missing tags (#190)</code>](https://github.com/elementary/wallpapers/commit/79a5f3f359da9617d62eb0f102057040e28e3789)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8 release notes (#191)</code>](https://github.com/elementary/wallpapers/commit/c0f679b28755c1af33f1449e777227c8d3b22b22)
-- [ ] [<code>Update .pot file</code>](https://github.com/elementary/wallpapers/commit/0de06980bb6c0cbbf5d18a3d3dc6dd3e1592a76f)
-- [ ] [<code>Release 8.0.0 (#192)</code>](https://github.com/elementary/wallpapers/commit/2ae7f028a7d807864bdc6b28947d5eb3f36add61)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [7.1.0 → HEAD](https://github.com/elementary/default-settings/compare/7.1.0...HEAD)
@@ -1363,6 +1360,8 @@
 - [ ] [<code>Bump libadwaita version (#234)</code>](https://github.com/elementary/onboarding/commit/9f8a42c779686ba0712a48640cf636751f239b57)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AbstractOnboardingView: move padding, icon size, margin to CSS (#235)</code>](https://github.com/elementary/onboarding/commit/f8928f8aeec7ae922b6b53c45764c4d83110161a)
+- [ ] [<code>Improve screenreader experience (#231)</code>](https://github.com/elementary/onboarding/commit/a92ac3ec6c608f2ba27aad8c978059246c06b595)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1808,6 +1807,11 @@
 - [ ] [<code>wayland: Fix autostart (#150)</code>](https://github.com/elementary/settings-daemon/commit/7fa95ef06e907a77f16b82825c65a69ba337222b)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-daemon/commit/eeca0fc05cfb3940fc0176501056fb4e237528cd)
 - [ ] [<code>Metainfo: add 8 release notes (#151)</code>](https://github.com/elementary/settings-daemon/commit/6b20463b7bfa8229de88d9ca9dc39b80421132a8)
+- [ ] [<code>Release 8.0.0 (#152)</code>](https://github.com/elementary/settings-daemon/commit/063d219c0fae7f29d775b0855836bde517a0d7df)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-daemon/commit/137a4860e7466d9e5c3b6410b90679e275753dc3)
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/a44f59785b6ca2480c4b801da54ea1e66d950b22)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
