@@ -23,6 +23,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cs-backup-locker.c: Exit gracefully if incorrect arguments are</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/44aaa483c84cac4402216302e123b90a9d789088)
+- [ ] [<code>Make codespell happy.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f54ad03d893fd0d63d229cc5abde8f9f9fa16171)
+- [ ] [<code>unlock dialog: Allow password visibility to be toggled.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e32b611286398cf31c8dfa0977beb723f68e190f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
