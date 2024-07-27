@@ -144,38 +144,8 @@
 - [ ] [<code>Gtk4 Prep (#271)</code>](https://github.com/elementary/camera/commit/457dcff9a4740d5921f1414310a0b3b14cd5052e)
 - [ ] [<code>Metainfo: add 8 release notes (#272)</code>](https://github.com/elementary/camera/commit/90e51cb601199f7c1dccaee5bf814d231692df56)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [7.2.0 → HEAD](https://github.com/elementary/code/compare/7.2.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
 
-- [ ] [<code>Update ProjectChooser button properly when projects add/removed (#1369)</code>](https://github.com/elementary/code/commit/1626d85b2c1d1d90da00472ab7a42da3270e5e4d)
-- [ ] [<code>ChooseProjectButton: Deactivate all project rows before selecting new active project (#1414)</code>](https://github.com/elementary/code/commit/753a3c5ea184cfc0d78a3fc822a1923f3e47fd88)
-- [ ] [<code>Fix select after rename; fix rename folder; disallow rename if unsaved edits (#1386)</code>](https://github.com/elementary/code/commit/1cc6b21dd5bcf62e510ad6a422e7027e2b0e9d5c)
-- [ ] [<code>[Feature] Implement default build directory setting (#1415)</code>](https://github.com/elementary/code/commit/d58da2f051d7ff392a0bdd6dd62e441dcf3992f6)
-- [ ] [<code>Match complete directory name for prefix in two places (#1417)</code>](https://github.com/elementary/code/commit/5aff3f725f06c75fbbe54858cbfd8a4eac4c8101)
-- [ ] [<code>[GTK4 Prep] Moved Granite.Widgets.SourceList source code into codebase (#1419)</code>](https://github.com/elementary/code/commit/afcc098e10782d8403ebbdcb912bfb4754fc25b1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Store relative file paths for fuzzy finder in sets (#1420)</code>](https://github.com/elementary/code/commit/7e6b5230796187782016833c6bb6b40a028e9a4a)
-- [ ] [<code>Draw spaces on current line option (#1348)</code>](https://github.com/elementary/code/commit/1359d0944478c36ed64ce00054ab2c5d152e0459)
-- [ ] [<code>Do not highlight neighbouring words of selected space (#1300)</code>](https://github.com/elementary/code/commit/516a3fdae9526d2bf459cf84ce1b015cf88ddcdb)
-- [ ] [<code>Put branch name on separate line (#1423)</code>](https://github.com/elementary/code/commit/81b4869e9a7b11a52e41ca1df634d4ada0caf907)
-- [ ] [<code>PreferencesDialog: make resizable (#1432)</code>](https://github.com/elementary/code/commit/108b09111be4958ed17e06ce9b1a1634bca4152d)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/code/commit/ee7d7f5f0b12bdc540f0e37efeca20434bef20e7)
-- [ ] [<code>Application: Localize go-to option</code>](https://github.com/elementary/code/commit/fbbfbbcc800e592699898a1bf3e502c63c4a169e)
-- [ ] [<code>Allow new documents (zero size files) to open. (#1437)</code>](https://github.com/elementary/code/commit/3f353c1835f3a1924d2b23cdd25ce83ae9d6593e)
-- [ ] [<code>[GTK4 Prep] Update DocumentView to use Hdy.TabView (#1424)</code>](https://github.com/elementary/code/commit/b6352b68d38fcb3946b233d2e5400846cce53f96)
-- [ ] [<code>Define terminal menu items using GLib.MenuModel (#1438)</code>](https://github.com/elementary/code/commit/fa30c678ec747a2321bb021092fab343daa19fb9)
-- [ ] [<code>Share Menu Plugin Hook now uses GLib.MenuModel</code>](https://github.com/elementary/code/commit/ec189a6d3028385249d34ac31ba873a130280683)
-- [ ] [<code>Update sidebar project menu to use GLib.MenuModel</code>](https://github.com/elementary/code/commit/0acf8807d02e4b1c980221638da3f1eba80bd867)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix cursor positioning when column number is not set when go to line feature is used (#1446)</code>](https://github.com/elementary/code/commit/256d0bc295dd525408f51422a717194c02fe5dd9)
-- [ ] [<code>[GTK4 Prep] Add FileView actions (#1444)</code>](https://github.com/elementary/code/commit/4ea4df8cbe14fa39125db19fab38fb56ed3c3420)
-- [ ] [<code>Metainfo: add 7.3 release notes (#1448)</code>](https://github.com/elementary/code/commit/844f97369a92a3313e02d34a07bb4dd792be3ec2)
-- [ ] [<code>PreferencesDialog: rewrite (#1449)</code>](https://github.com/elementary/code/commit/50bf489fb0824fb6d34cb5a6917e591e78ad3e07)
-- [ ] [<code>PreferencesDialog: make whitespace strings consistent (#1451)</code>](https://github.com/elementary/code/commit/1ce15e104456e43246577c044ae3230ce1c5c575)
-- [ ] [<code>Update POTFILES (#1452)</code>](https://github.com/elementary/code/commit/a0d36bbc3e4648820b0c8de3f45008fc518b0601)
-- [ ] [<code>Jeremypw/fix cancel folder creation (#1454)</code>](https://github.com/elementary/code/commit/bb969bfb896c0e2c18e0473c568b8596876caac2)
-- [ ] [<code>Release 7.3.0 (#1450)</code>](https://github.com/elementary/code/commit/04bf35ffb03bd6749cf3f028edd879f91a2bd3a4)
-  - <sub>Tags: <code>7.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[GTK4 Prep] Move External App Actions Logic To Utils (#1455)</code>](https://github.com/elementary/code/commit/59f3b668e1feea1868de7ae36fceec66e8d0621a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[GTK4 Prep] Use actions for New Window menu item in FileItem (#1456)</code>](https://github.com/elementary/code/commit/7194d098149bdbce50e3e2d05c6d812c59aa6aab)
@@ -622,6 +592,9 @@
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#327)</code>](https://github.com/elementary/switchboard-plug-about/commit/f2306399b9cac5d63a4180a9611bf8a4c1eac705)
 - [ ] [<code>Update screenshots (#330)</code>](https://github.com/elementary/switchboard-plug-about/commit/164dd51d38587bfdcceaa4a57e9e24cde72cdc8a)
 - [ ] [<code>Plug: add more search terms (#331)</code>](https://github.com/elementary/switchboard-plug-about/commit/8970fc7f5d5bf8fcae74dc8a3229eaeb6bc5f7a7)
+- [ ] [<code>Release 8.0.0 (#328)</code>](https://github.com/elementary/switchboard-plug-about/commit/2345b890c248794293a7609c72ae40ef97c104e1)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [7.0.1 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/7.0.1...HEAD)
 
@@ -654,6 +627,9 @@
 - [ ] [<code>Metainfo: add 8 release notes (#233)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bfdf6fb4be9689f6cd57c0af108a195571e26dce)
 - [ ] [<code>Update screenshots (#234)</code>](https://github.com/elementary/switchboard-plug-applications/commit/4a40e9328b6cdf9d32e9778794982b3aacf41d85)
 - [ ] [<code>AppSettingsView: set mnemonic widget, accessible label, description, role (#236)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b32bd756aeefe972cadef87484426c224c34b5c8)
+- [ ] [<code>Release 8.0.0 (#235)</code>](https://github.com/elementary/switchboard-plug-applications/commit/7f030df9adfa051e38c068893440dbf981d41ebb)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [2.3.6 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/2.3.6...HEAD)
 
@@ -728,6 +704,9 @@
 - [ ] [<code>Metainfo: add 8 release notes (#125)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/237c0e615ec9e8bd07bc8394adbb25ed0dc0399b)
 - [ ] [<code>Actions/Release: bump branch to noble</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ebdbeb44116e7dab56d6bbc59150cac86bdb93b3)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-datetime/commit/64cee3be1c61b901772d93beac093e6eb30962a6)
+- [ ] [<code>Release 8.0.0 (#126)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e6b327586e73def9b6d8d651600aa5bbf5da32de)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -801,6 +780,9 @@
 - [ ] [<code>Metainfo: Add 8 release notes (#514)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/66e02ee6b38c8e778768761f29585dc9ff02b8a9)
 - [ ] [<code>Replace screenshots icon with fd.o icon name (#516)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6a93cf15f3fcd64c3c3f4d8276bd76403cdad0c9)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/3beb16a6dd7a06df4357b306461d25b4ed5a2319)
+- [ ] [<code>Release 8.0.0 (#515)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/5650a580c90781748b33726021e4bd026adac48f)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -835,6 +817,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add 8 release notes (#236)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/005c1a35111c2bde1f525af68fe18cca2ddde98e)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/0cd7841ce1e0204e5a844c97158d6322fb11a454)
+- [ ] [<code>Release 8.0.0 (#237)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b453f3c696f1f896d4a5ca30118056cf65af91c4)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -877,6 +862,9 @@
 - [ ] [<code>Metainfo: add 8 release notes (#401)</code>](https://github.com/elementary/switchboard-plug-network/commit/18586b99e8c514a962de4834d933bddc6315b173)
 - [ ] [<code>WifiPage: show SSID in sidebar when connected (#403)</code>](https://github.com/elementary/switchboard-plug-network/commit/0269d2e3fcd608881a48b00f41515020d4130bff)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-network/commit/16bcc64a85170332cf41cc03338fd4774ecc4013)
+- [ ] [<code>Release 8.0.0 (#402)</code>](https://github.com/elementary/switchboard-plug-network/commit/6a328c296b25d12e0e8b8d0affa37c8c476479e4)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/2.2.0...HEAD)
 
@@ -908,6 +896,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#106)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/cf370d9d0562cd6a64d878b11a560e1badfe68e8)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-notifications/commit/6166b1b780da954e151f425d1074e05565fbb5ab)
+- [ ] [<code>Release 8.0.0 (#107)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/57a34e85fa4805199b099cc6228911177c6c793b)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -938,6 +929,9 @@
 - [ ] [<code>CalDav → CalDAV (#287)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/f3fcebfc35efacd7cfa56e5237ace8e1d241394a)
 - [ ] [<code>Metainfo: add 8 release notes (#288)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cd1513d802b675106efad6519ad03c78d9c5bcc4)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/8af7612b47d604ac09108053bde3b00da6acdec3)
+- [ ] [<code>Release 8.0.0 (#289)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/b03648ebd58ed9816b471ad10bcb61a8734f0b86)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [6.5.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.5.0...HEAD)
 
@@ -1052,6 +1046,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#268)</code>](https://github.com/elementary/switchboard-plug-power/commit/391a8ae35aca63836afcc52b56051d31aa5e5113)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-power/commit/4295f025a40bc2f9e1ff1d4e51a022413f088db3)
+- [ ] [<code>Release 8.0.0 (#269)</code>](https://github.com/elementary/switchboard-plug-power/commit/84ac26fa9c234f793a26d5aa3e20c759085a15d4)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [2.2.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/2.2.1...HEAD)
 
@@ -1086,6 +1083,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-printers/commit/d3bca322bc1a9a056852aeb5cf6c2c3a4be7d184)
 - [ ] [<code>Metainfo: add fixed issue (#206)</code>](https://github.com/elementary/switchboard-plug-printers/commit/1a489bdc900cc4cd26301a2b8d7cabac8a3094a1)
+- [ ] [<code>Release 8.0.0 (#205)</code>](https://github.com/elementary/switchboard-plug-printers/commit/cfdeac98397d7e5bcb794d79d9233cd6180720a6)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [7.1.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/7.1.0...HEAD)
 
@@ -1149,6 +1149,9 @@
 - [ ] [<code>Metainfo: add 8 release notes (#78)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/7b594c5b116d51359a24485099154a38db0bc6aa)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d0ef081878431344a5e9f034cadea0ec0118ec3b)
 - [ ] [<code>BluetoothPage: use settings from Daemon (#80)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0a769f534eaaf5ea0777651c08e9410843434196)
+- [ ] [<code>Release 8.0.0 (#79)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/488644b42d7e3ddbab2b8d9714d40ade3ee203b2)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1172,6 +1175,9 @@
 - [ ] [<code>Metainfo: Add 8 release notes (#274)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1043dfae9a2308d091db89c763feaa09af67b663)
 - [ ] [<code>Plug: add margin to stack (#276)</code>](https://github.com/elementary/switchboard-plug-sound/commit/caecfdbb41b4d5fceb3f6a742fb0ac2515170d36)
 - [ ] [<code>Update screenshots (#277)</code>](https://github.com/elementary/switchboard-plug-sound/commit/69c9a491c02f39bf999365f8144b039271b44528)
+- [ ] [<code>Release 8.0.0 (#275)</code>](https://github.com/elementary/switchboard-plug-sound/commit/06694e6f32fe2b73d9f2002f983ed0ca5b742ffc)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1534,6 +1540,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/gala/commit/b1cb309670f3903d6a66e2684e42c87fb7203671)
 - [ ] [<code>Metainfo: add 8 release notes (#1991)</code>](https://github.com/elementary/gala/commit/21cd25b29f3e8bc6716b091372e4c506067f394e)
+- [ ] [<code>GSchema: remove deprecated keys (#2000)</code>](https://github.com/elementary/gala/commit/66679ca79662cff3eca5b4d850aeec4bad23bbd4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1822,21 +1829,8 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.0...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.1.1 → HEAD](https://github.com/elementary/portals/compare/7.1.1...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#92)</code>](https://github.com/elementary/portals/commit/f1ca35f25f956e5b0d12c6e6da8a5f7bc454bf25)
-- [ ] [<code>Create wallpaper portal (#98)</code>](https://github.com/elementary/portals/commit/bf276f72f04480aae2f7dbe5466f783dfa8eac29)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Screenshot portal (#94)</code>](https://github.com/elementary/portals/commit/8ba0fe1e1766d5104e4ea1fdc6d7ae5d573401db)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/portals/commit/a7b4d8812a0dca0a1444280597fd501287cc92f1)
-- [ ] [<code>Implement screen cast portal (#102)</code>](https://github.com/elementary/portals/commit/ad05247e31bb96ce41a16156c439364b270f9bf8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: 8 release notes (#103)</code>](https://github.com/elementary/portals/commit/f3e80cfd0850b5a1868f9ea66ebf127fbc1278b9)
-- [ ] [<code>Release 7.2.0 (#104)</code>](https://github.com/elementary/portals/commit/d868cfa854c731e0f37615e225d5db07cc3f4604)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
