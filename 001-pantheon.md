@@ -108,27 +108,8 @@
 
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
 
-#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [7.0.0 → HEAD](https://github.com/elementary/calendar/compare/7.0.0...HEAD)
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#794)</code>](https://github.com/elementary/calendar/commit/545ce7efaaa0b6cc92883095492a0c4b69410b95)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#796)</code>](https://github.com/elementary/calendar/commit/b31b9356a156cca628a2d42d0331f361c7bd5a52)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#797)</code>](https://github.com/elementary/calendar/commit/1267389a710795704938b92fe793db1e0c1bb189)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/calendar/commit/aa6be1f7759c435b247b2908f21ce13d2fc2ec2f)
-- [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/calendar/commit/902d89b3714edad1a8c355beacdf7076e6511606)
-- [ ] [<code>Switch to flat headerbars (#798)</code>](https://github.com/elementary/calendar/commit/949808f0ef98a345e9098d878309e67a03c0c0df)
-- [ ] [<code>gschema: remove window position (#802)</code>](https://github.com/elementary/calendar/commit/d621b45735d8077767a406894f450e351dd008d4)
-- [ ] [<code>Rearrange headerbar items (#803)</code>](https://github.com/elementary/calendar/commit/d9415684ab403e04c828ac3877322bef8718149d)
-- [ ] [<code>Support online web calendar (#805)</code>](https://github.com/elementary/calendar/commit/03fc11e39c31eb4276ec59cf75dcbd6e688bfcad)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/calendar/commit/f2663f6f6526a673f8744057ed4d1cab4fd75693)
-- [ ] [<code>CI: build with meson (#809)</code>](https://github.com/elementary/calendar/commit/7bc06b420251bd81f0af65b33126bb4ff71b79ab)
-- [ ] [<code>Metainfo: add release notes for 8 (#808)</code>](https://github.com/elementary/calendar/commit/0d560c6fd5b153fe4edacfb9f6dd3f6ceca65f7f)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/calendar/commit/9f98815f14fd1ea96e0c68dc2b9c905ae1be3cf1)
-- [ ] [<code>Release 8.0.0 (#810)</code>](https://github.com/elementary/calendar/commit/a8741655fef3ab18e57c2873e40fa6a9168447a8)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
@@ -310,31 +291,8 @@
 
 - [ ] [<code>Alias: Do not translate placeholder email address (#991)</code>](https://github.com/elementary/mail/commit/abf27cddedb6e9fa4e86365e86f0761d327891e3)
 
-#### [pantheon.elementary-music](https://github.com/elementary/music): [7.1.0 → HEAD](https://github.com/elementary/music/compare/7.1.0...HEAD)
+#### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#757)</code>](https://github.com/elementary/music/commit/3b7812eb36cdc0556a85beade82ed1b55da0ace5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#759)</code>](https://github.com/elementary/music/commit/07296f502476bbd2d19e806cb5ff5b2777619207)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#760)</code>](https://github.com/elementary/music/commit/26654fbfb675cc2ad05fc295b2392901c658f85e)
-- [ ] [<code>CI: use flatpak gettext action (#761)</code>](https://github.com/elementary/music/commit/f0efd85eb1ed75b35f5ac21cd8541d460ff237de)
-- [ ] [<code>meson: Fix build warning (#768)</code>](https://github.com/elementary/music/commit/410f48653611ef47c130ffd260ffea1ccccabcf6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Application: use modern features for loading assets, use startup (#769)</code>](https://github.com/elementary/music/commit/b95233f7f84f0df23b588af336f563513b86f8af)
-- [ ] [<code>Update music.desktop.in (#770)</code>](https://github.com/elementary/music/commit/71b38e98a21f0cefdd9ffe66c6ca513b86caf030)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Update music.desktop.in</code>](https://github.com/elementary/music/commit/d00a6d69bc62df9fac205a98b7fe8972009b297a)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/music/commit/d55572e756112452afc6d1e503aa52da201ad7e9)
-- [ ] [<code>Flatpak: bump platform to 8.0 (#772)</code>](https://github.com/elementary/music/commit/b3284732504da8e786f8b0a4b2a9cd5fd138d199)
-- [ ] [<code>MainWindow: use Adw.ToolbarView (#771)</code>](https://github.com/elementary/music/commit/07d748569c022390be4a67acb6ad9b211987e027)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add music file[s] from within app (#766)</code>](https://github.com/elementary/music/commit/7ebb2bf78d7502dd017faeb04a01cce5e6a79ec9)
-- [ ] [<code>Metainfo: add 8 release notes (#773)</code>](https://github.com/elementary/music/commit/6643e167aaf9106b8f1e6f4803eafa1e9fd3ef79)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/music/commit/5911fc77f8f510b3fc037d9f6e05eac2eab9060f)
-- [ ] [<code>Release 8.0.0 (#774)</code>](https://github.com/elementary/music/commit/5712a4c4771fce300d31ca0ce5bc7edc87c14396)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
@@ -345,24 +303,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Flatpak: add sandbox hole for home (#774)</code>](https://github.com/elementary/photos/commit/742f6d1b67293f07e56027648f3c0aafd5cc4517)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [6.0.4 → HEAD](https://github.com/elementary/screenshot/compare/6.0.4...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#268)</code>](https://github.com/elementary/screenshot/commit/5560e3a8e1ab93577258d4edb5a7d76e1632ccba)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Replace FileChooserButton for GTK4 (#243)</code>](https://github.com/elementary/screenshot/commit/30e484adacb3fb4309090183382e8cd7f29afabc)
-- [ ] [<code>SaveDialog: use fileinfo, localize, DRY (#269)</code>](https://github.com/elementary/screenshot/commit/aeff9f6b89f59815c7c5ae618b83f61364fb60bd)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#270)</code>](https://github.com/elementary/screenshot/commit/f6f4d87598bd7c821928a9a0b2e5c5cd71821898)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#271)</code>](https://github.com/elementary/screenshot/commit/60e89636a2e8dbf13c41b5591a3e75bfa869c844)
-- [ ] [<code>Application: use startup, builtin icon loading (#273)</code>](https://github.com/elementary/screenshot/commit/61e1cfad9424763f720a8ac039ccdf5b4b1c8f71)
-- [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/screenshot/commit/2d4536592be70d3763e298f5d96ebd60bdb00025)
-- [ ] [<code>ScreenshotWindow: GTK 4 prep (#274)</code>](https://github.com/elementary/screenshot/commit/ea84b7bc5caa22df6fed1b4afbd7c3424d971007)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/screenshot/commit/0a328ce6f7e6381e6188e9a756a15bd55beb3833)
-- [ ] [<code>Flatpak: bump platform to 8.0 (#278)</code>](https://github.com/elementary/screenshot/commit/38e2f7e9b9679d0bf049b1f008c6a0044a4a1fa7)
-- [ ] [<code>Metainfo: add 8 release notes (#279)</code>](https://github.com/elementary/screenshot/commit/46945f2f83d211a863795b41bf0269ed8fb264a1)
-- [ ] [<code>Release 8.0.0 (#280)</code>](https://github.com/elementary/screenshot/commit/1f989fe300eabd89487fb06ff6891e44cd83113a)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
 
@@ -396,50 +338,8 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [3.0.0 → HEAD](https://github.com/elementary/videos/compare/3.0.0...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
-- [ ] [<code>Use `_` instead of `N_` (#358)</code>](https://github.com/elementary/videos/commit/bac0f8216053d2222bb7ea4f8290a3305991b031)
-- [ ] [<code>Gtk4 (#333)</code>](https://github.com/elementary/videos/commit/6b1b4a9016d49ea5be74b8d5308b29a392d0f02c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>CI: master → main (#360)</code>](https://github.com/elementary/videos/commit/eda225b93156805e07c0d0c68b99b3dc4e313932)
-- [ ] [<code>Remove automatic fullscreen (#361)</code>](https://github.com/elementary/videos/commit/001c0bc9b284b28cfeb0cdbf9d14b80f239c7aa5)
-- [ ] [<code>Move play queue to playback manager (#366)</code>](https://github.com/elementary/videos/commit/d6af64fee6457d15b3e689086a9abcb7da48c418)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Support repeat one and repeat all (#369)</code>](https://github.com/elementary/videos/commit/e7ec84850181cb27dab3afd0d1d902345d552fd8)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#370)</code>](https://github.com/elementary/videos/commit/87850fe32ab9940aeed5f0625b83865c1699c92c)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#373)</code>](https://github.com/elementary/videos/commit/92da57d238a65bd3b42ded7497776a3dacb7d659)
-- [ ] [<code>Headerbar improvements (#368)</code>](https://github.com/elementary/videos/commit/c82140bc55024721885cde731ad74fae6a45006a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update merge.yml for Flatpak Gettext action (#375)</code>](https://github.com/elementary/videos/commit/51ba59da6fadb6b5d06870248653c85fbc82a46f)
-- [ ] [<code>Respect dark style preference (#374)</code>](https://github.com/elementary/videos/commit/204ca250b0f39903d1b5dbe856cc2063d79140e5)
-- [ ] [<code>Use Gtk4 list widgets (#371)</code>](https://github.com/elementary/videos/commit/e6bb4c18302a20c2f555a3b69097c771370115fc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump elementary runtime and Rust SDK extension (#377)</code>](https://github.com/elementary/videos/commit/6b215caa14a21c722b9f060870074bbe3686c938)
-- [ ] [<code>Fix gettext Rust install</code>](https://github.com/elementary/videos/commit/2efdb6c919cedfb3be7c1b34d3624936821d91cc)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/videos/commit/b9512cacc0753ab1c3bcde8df4d0a41cd6e7d437)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/videos/commit/7294740b830abe3b025a514c335dc53cdbe26ca9)
-- [ ] [<code>Flatpak: bump to Platform 8 (#378)</code>](https://github.com/elementary/videos/commit/ef9407f1b885d9ce890b7ec3c83755f5ab53f2cf)
-- [ ] [<code>Metainfo: add 8 release notes (#379)</code>](https://github.com/elementary/videos/commit/a2b5d6d3ab3ad1f98288b425b21d6ef93c68cee6)
-- [ ] [<code>LibraryItem: use rounded corners (#384)</code>](https://github.com/elementary/videos/commit/382a0fc0e1e83d5cfd9ec017a548daa7f8a0afc7)
-- [ ] [<code>PlayerPage: fix aspect ratio (#380)</code>](https://github.com/elementary/videos/commit/f89d775bac24525985676627dad20196bfa9d448)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>MediaControls: minimal transparent style (#362)</code>](https://github.com/elementary/videos/commit/73b186abf4c412e49185932440c9ad523be7e26c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>PlayerPage: use Adw.ToolbarView (#382)</code>](https://github.com/elementary/videos/commit/7a4c848f2aec7fd38b1ed2d134faf5e8877e2d67)
-- [ ] [<code>LibraryPage: Adw.ToolbarView, fix padding (#383)</code>](https://github.com/elementary/videos/commit/d9b03fd11269f4d6bfcb6f6db0cc2e76a98a80a6)
-- [ ] [<code>Update videos.metainfo.xml.in</code>](https://github.com/elementary/videos/commit/1a0896577ab52f5e7507dc6e2b5f50a408082f79)
-- [ ] [<code>Make library items wide aspect ratio (#385)</code>](https://github.com/elementary/videos/commit/39ef8a97cd58a7ef10a1e08451f84393d41a2a33)
-- [ ] [<code>Leaflet → NavigationView (#387)</code>](https://github.com/elementary/videos/commit/4c1a9f730601b4c46db5c0aeb7edef1499e5826f)
-- [ ] [<code>Drop support for optical media (#363)</code>](https://github.com/elementary/videos/commit/0e8f271527bcf0f8097523290b5f07eb98b4a3fe)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES (#388)</code>](https://github.com/elementary/videos/commit/cde439c5426ca0f0969feb8dff3f6f3c79c3e35b)
-- [ ] [<code>Update screenshots</code>](https://github.com/elementary/videos/commit/bd8b2fce7aa9b86ca4eb9186067f0105048e7d25)
-- [ ] [<code>Release 8.0.0 (#381)</code>](https://github.com/elementary/videos/commit/627bf9be24f2bef9cf7648065746b27dc9fa9769)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
@@ -1765,58 +1665,8 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [1.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/1.3.1...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.0.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.0.0...HEAD)
 
-- [ ] [<code>port SettingsDaemon.Application to Gtk.Application (#81)</code>](https://github.com/elementary/settings-daemon/commit/6b44f9fb7c0ca9a2bb79a6ce4f3bc061d6402d71)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Housekeep: use dgettext() to get screenshot directory name</code>](https://github.com/elementary/settings-daemon/commit/5da94e20db11f0b1dc67b0e34ec0cc43f0f39f95)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: use right gettext domain</code>](https://github.com/elementary/settings-daemon/commit/c314d3c5e3f9a327435ea3c836b1320fe54b2930)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#86)</code>](https://github.com/elementary/settings-daemon/commit/6d17f57063a36dcae66824111fe9657498df7741)
-- [ ] [<code>Implement system updates (#88)</code>](https://github.com/elementary/settings-daemon/commit/b3ddc3a1dd76d14171367c55672a97740813b0d1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/settings-daemon/commit/1625b2030ac816e41ebeb02f1364951552a03409)
-- [ ] [<code>SystemUpdate: Fix occurred spelling</code>](https://github.com/elementary/settings-daemon/commit/dae2b0beca57f98b96df67ec314fe8bf858f7c90)
-- [ ] [<code>SystemUpdate: withdraw old notifications on startup (#119)</code>](https://github.com/elementary/settings-daemon/commit/f2e743b9d244bb471f6476eb79518761b9860518)
-- [ ] [<code>Redesign icon (#122)</code>](https://github.com/elementary/settings-daemon/commit/e26e9795ff060462b0b8f3a2e4863a522a07d968)
-- [ ] [<code>Update README.md (#129)</code>](https://github.com/elementary/settings-daemon/commit/c5d38dd093470790f1e88a7e4eb746db9d632a05)
-- [ ] [<code>Add AccentColor Backend (#128)</code>](https://github.com/elementary/settings-daemon/commit/b2bb693d91aafe540d0f6401791e2cb69eaf840b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>SystemUpdate: include security info in dbus (#120)</code>](https://github.com/elementary/settings-daemon/commit/dc3ee28e78f557e9eec564a639c778c8d46334ae)
-- [ ] [<code>SystemUpdate: alter notifications for security updates (#121)</code>](https://github.com/elementary/settings-daemon/commit/350f76c96593c324a827bd78b083705998f15ff2)
-- [ ] [<code>Update autostart.desktop (#130)</code>](https://github.com/elementary/settings-daemon/commit/95c96a43035f50aa4f2cc574b82313c9fb983449)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>SystemUpdate: optionally update automatically (#118)</code>](https://github.com/elementary/settings-daemon/commit/a5846772414786ab179c47a477c72817abba8073)
-- [ ] [<code>Modernize meson (#124)</code>](https://github.com/elementary/settings-daemon/commit/5dddde89332bd718646811ab6e9685c89a5512be)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Expose orientation lock setting (#126)</code>](https://github.com/elementary/settings-daemon/commit/13db4429328d57fc060a4d125d488c101fd09728)
-- [ ] [<code>Expose prefer dark schedule settings (#85)</code>](https://github.com/elementary/settings-daemon/commit/216ea5edada1d3ad43a7018345e568fda24667a1)
-- [ ] [<code>Set power profiles based on whether the device is running on battery (#123)</code>](https://github.com/elementary/settings-daemon/commit/adf9fb1e614cf325b51be338d386dbf494638785)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Don't run gtk-update-icon-cache (#136)</code>](https://github.com/elementary/settings-daemon/commit/762678ae1ae7c521edf9f5a3500016b45b67b7ca)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>POTFILES: Add autostart.desktop (#142)</code>](https://github.com/elementary/settings-daemon/commit/3769cc993b5e7cd4805d14e3f49d29d1d625be58)
-- [ ] [<code>HouseKeeping: add temp and trash options (#143)</code>](https://github.com/elementary/settings-daemon/commit/755d0f3bff38827952ddd439f0b7fe7d891ff6b0)
-- [ ] [<code>settings-portal: Do not assume GSettings availability (#144)</code>](https://github.com/elementary/settings-daemon/commit/7e6de32ccb6e82aa6d1e7585eb87fdca2f3b155f)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/settings-daemon/commit/c94c39527c6017846a8647513c91df5768775204)
-- [ ] [<code>Localize autostart.desktop (#145)</code>](https://github.com/elementary/settings-daemon/commit/88781f2fabccdf8598c494a71782610c1ee62ca4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Drivers v2 (with support for device grouping) (#141)</code>](https://github.com/elementary/settings-daemon/commit/9fcaf5cd63d541593522011e87429548577f5e98)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>UbuntuDrivers: Update notification copy (#147)</code>](https://github.com/elementary/settings-daemon/commit/bfe9383325a6a8ade0c20b7baae7c8059dfb0ef6)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/018c37512392f02e81d7bddd99f12ac025a80f99)
-- [ ] [<code>wayland: Fix autostart (#150)</code>](https://github.com/elementary/settings-daemon/commit/7fa95ef06e907a77f16b82825c65a69ba337222b)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-daemon/commit/eeca0fc05cfb3940fc0176501056fb4e237528cd)
-- [ ] [<code>Metainfo: add 8 release notes (#151)</code>](https://github.com/elementary/settings-daemon/commit/6b20463b7bfa8229de88d9ca9dc39b80421132a8)
-- [ ] [<code>Release 8.0.0 (#152)</code>](https://github.com/elementary/settings-daemon/commit/063d219c0fae7f29d775b0855836bde517a0d7df)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-daemon/commit/137a4860e7466d9e5c3b6410b90679e275753dc3)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/a44f59785b6ca2480c4b801da54ea1e66d950b22)
 
