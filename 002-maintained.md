@@ -415,6 +415,12 @@
 - [ ] [<code>Use our own stylesheets instead of patching switchboard (#228)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ef0f34f8d2c3dd7713be67310116fc79c2969b6a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>AppearancePane: Remove access to Gala's appearance schema (#230)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3b82cc0bc14a4f212bf6a5277406240c38406a08)
+- [ ] [<code>README: Bring installation button at the beginning (#231)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/93317762d8bc21bf2f7611b181e60255be6823e7)
+- [ ] [<code>Omit GLib namespace consistently (#232)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9ad25c86ca3b7311eaa9fbb7b2037756213145d8)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>ThemeSettings: Fix incomplete list when failed to fetch themes (#234)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a587930cb55635d92aabbe2484ddaf6353926897)
+- [ ] [<code>ThemeSettings: Split theme methods (#235)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c00bcc32a385e01acacad3e65a493fce1fe0110d)
 
 #### [planify](https://github.com/alainm23/planify): [4.9.0 → HEAD](https://github.com/alainm23/planify/compare/4.9.0...HEAD)
 
