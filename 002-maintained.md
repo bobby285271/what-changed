@@ -412,6 +412,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>metainfo: Add the new "translate" tag to prevent translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4fe592338db9f6e3a9159afe84acaad1a48281e1)
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7c1b9b9afba4421512f3b3fb98d7ffc98ac3fb89)
+- [ ] [<code>Use our own stylesheets instead of patching switchboard (#228)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ef0f34f8d2c3dd7713be67310116fc79c2969b6a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.9.0 → HEAD](https://github.com/alainm23/planify/compare/4.9.0...HEAD)
 
