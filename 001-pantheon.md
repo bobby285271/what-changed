@@ -124,6 +124,8 @@
 - [ ] [<code>Flatpak: bump platform to 8.0 (#270)</code>](https://github.com/elementary/camera/commit/48eca0aa954346b2d424c4c6b44e7de6621c4ce5)
 - [ ] [<code>Gtk4 Prep (#271)</code>](https://github.com/elementary/camera/commit/457dcff9a4740d5921f1414310a0b3b14cd5052e)
 - [ ] [<code>Metainfo: add 8 release notes (#272)</code>](https://github.com/elementary/camera/commit/90e51cb601199f7c1dccaee5bf814d231692df56)
+- [ ] [<code>meson: Fix deprecated source_root (#276)</code>](https://github.com/elementary/camera/commit/a45a6baeb05fa24f843aec07fb5230d86cc15841)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
 
