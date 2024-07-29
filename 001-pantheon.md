@@ -1443,6 +1443,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/gala/commit/b1cb309670f3903d6a66e2684e42c87fb7203671)
 - [ ] [<code>Metainfo: add 8 release notes (#1991)</code>](https://github.com/elementary/gala/commit/21cd25b29f3e8bc6716b091372e4c506067f394e)
 - [ ] [<code>GSchema: remove deprecated keys (#2000)</code>](https://github.com/elementary/gala/commit/66679ca79662cff3eca5b4d850aeec4bad23bbd4)
+- [ ] [<code>DBus: cleanup (#2001)</code>](https://github.com/elementary/gala/commit/c84a10d0f9e984f22aea676c024f4a073bcac3b7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
