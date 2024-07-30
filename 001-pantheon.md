@@ -103,6 +103,7 @@
 - [ ] [<code>UpdateManager: Fix auto updates, liststore (#2197)</code>](https://github.com/elementary/appcenter/commit/80ab9ea11d0a22783e75b3d3c6e0a4ffc4bd2d31)
 - [ ] [<code>AppListUpdateView: DRY Update All (#2199)</code>](https://github.com/elementary/appcenter/commit/e31bf55be45d84b352e8eb4bbb6a214245a117a1)
 - [ ] [<code>Application: Close the window on quit, don't destroy it (#2201)</code>](https://github.com/elementary/appcenter/commit/20f2bb15ddd0e5bf2e69ed01f5e3547216fb7e84)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/c8c197cace58a721e1b060d77a2377fb23ecf527)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -126,6 +127,11 @@
 - [ ] [<code>Metainfo: add 8 release notes (#272)</code>](https://github.com/elementary/camera/commit/90e51cb601199f7c1dccaee5bf814d231692df56)
 - [ ] [<code>meson: Fix deprecated source_root (#276)</code>](https://github.com/elementary/camera/commit/a45a6baeb05fa24f843aec07fb5230d86cc15841)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port to Gtk4 (#200)</code>](https://github.com/elementary/camera/commit/d28aef5236495b1f2330f24ea7e4b234735dabe1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Readme: use flatpak builder (#277)</code>](https://github.com/elementary/camera/commit/e8c6ed5a566d796e9289e6b608b7c4abab3c4ddd)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
 
@@ -892,6 +898,7 @@
 - [ ] [<code>Metainfo: add 8 release notes (#407)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4a946c8236fcb4a05aeff82e6747dce2f65f5c1c)
 - [ ] [<code>Appearance: improve screenreader a11y for lists of radios (#409)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de7c6ddc6d69b577b0ba23205633fb8188212a03)
 - [ ] [<code>Remove translatable texts for the retired contractor (#410)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ccb78f0f52027046b08fdaba29d3aa2d61d056b0)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4477e8ce328aba910ac1fa1a83f1486c4a703718)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1016,6 +1023,9 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3751b775ff7866552c75f028b40289fce9b9047e)
 - [ ] [<code>Metainfo: add 8 release notes (#176)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7bce0b7b8b8f6e735e29bdbc1ab9b3a5bf9fa448)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/88824e31144f37c2f6da2c887f94e8b93fd06062)
+- [ ] [<code>Release 8.0.0 (#177)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/8be67e413efad35552f949f6873e3865b4a55d06)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [2.1.6 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/2.1.6...HEAD)
 
@@ -1270,6 +1280,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AbstractOnboardingView: move padding, icon size, margin to CSS (#235)</code>](https://github.com/elementary/onboarding/commit/f8928f8aeec7ae922b6b53c45764c4d83110161a)
 - [ ] [<code>Improve screenreader experience (#231)</code>](https://github.com/elementary/onboarding/commit/a92ac3ec6c608f2ba27aad8c978059246c06b595)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/onboarding/commit/34289838f5113870f585dacb2bfff402780c2399)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
