@@ -424,7 +424,63 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.9.0 → HEAD](https://github.com/alainm23/planify/compare/4.9.0...HEAD)
 
+- [ ] [<code>Updated Hindi `hi.po` file</code>](https://github.com/alainm23/planify/commit/241c00487438e8aa24f41e3d5de6e6ba10f2fa9b)
 - [ ] [<code>feat: update appdata issue</code>](https://github.com/alainm23/planify/commit/68e95f2f082bce0b26ee1d9bae73ebb7bc6285b7)
+- [ ] [<code>feat: add source object</code>](https://github.com/alainm23/planify/commit/edfd9b78f7e3097f7fd9a05a0e2c4950d695d70f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: update merge</code>](https://github.com/alainm23/planify/commit/bec9a60094b774e4436073db613ea719bcdf5d13)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/8b0b69b19b9411908b77ee2becfb74e0716f4877)
+- [ ] [<code>Update hi.po</code>](https://github.com/alainm23/planify/commit/ce67b9c3643384143864a0056167f2ad8665f09d)
+- [ ] [<code>Merge branch 'master' of https://github.com/Scrambled777/planify</code>](https://github.com/alainm23/planify/commit/4078ea6d81f5aab21ead1a06d92ca45b2ef4c242)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translation Update PT-PT</code>](https://github.com/alainm23/planify/commit/8f21bd51bee65e18a8021399cba9c4215ba6e657)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/fa2386f83c8f1150ad197a97b449631431511412)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translation Update PT-PT</code>](https://github.com/alainm23/planify/commit/b21f70c60520a0fa867097d222bc775b743b8309)
+- [ ] [<code>feat: multiple account</code>](https://github.com/alainm23/planify/commit/5135e2e97c3aaa6da15bb5e174796e8f6d777b0f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>feat: creare local source</code>](https://github.com/alainm23/planify/commit/1fd449ba68d5206e8dcce2ac5518669fc597dfa4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add labels</code>](https://github.com/alainm23/planify/commit/46cba7fe6fc0382906245e80270d309104b643f6)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>feat: add caldav setup page</code>](https://github.com/alainm23/planify/commit/ad80147a29c4b0cbfd5456ce0c32fa5b8d37f10b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1172</code>](https://github.com/alainm23/planify/commit/709d2d21d47bdbd9933e8a7c769da9d04a14981d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1131</code>](https://github.com/alainm23/planify/commit/5648e4c8231b3f18de7238623241f832a66fe059)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add necessary dependencies</code>](https://github.com/alainm23/planify/commit/913dac240a91227c13909d23479e2400943e940f)
+- [ ] [<code>enhance readability</code>](https://github.com/alainm23/planify/commit/2eda623284778763f8cfa4af230a8403571ea606)
+- [ ] [<code>feat: add new services</code>](https://github.com/alainm23/planify/commit/20376a05d6c6ef3fa519f0c79898729d82e2cec3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add error view</code>](https://github.com/alainm23/planify/commit/b710a606c899866d48f2233dcb6ca945afb72684)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add backup placeholder</code>](https://github.com/alainm23/planify/commit/2f594925d190ff9fd2eccaca80a3790e85ffb190)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/8e82e302b545d912433c960d1e693e9fbbb485f4)
+- [ ] [<code>Improve backup</code>](https://github.com/alainm23/planify/commit/5023e2b494c769e0b0002798341de42b573ece60)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1371 from imhosseinzadeh/imhosseinzadeh-improve-readme</code>](https://github.com/alainm23/planify/commit/73a9ac50a215443ea7d5155bb798282514dbbdb5)
+- [ ] [<code>Merge pull request #1365 from godinhoana54/master</code>](https://github.com/alainm23/planify/commit/1b321df62b9a652ce0405a7f7c804f9e1d209d35)
+- [ ] [<code>Merge pull request #1363 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/f7a28acd40f92e3246c6645f653a41d7b2ed2a42)
+- [ ] [<code>Merge pull request #1362 from haggen88/update-translation</code>](https://github.com/alainm23/planify/commit/654aea549b173c4bccd3964b33343b590910fae2)
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/3771950ed40536f0428dac94016e665e50ccecac)
+- [ ] [<code>Merge branch 'master' into develop</code>](https://github.com/alainm23/planify/commit/37657d8c4a09809ce3ab99dfddccbc4cb4401158)
+- [ ] [<code>Update translate files</code>](https://github.com/alainm23/planify/commit/50e1c6058733ea8a64f130a0fe4a2f5cce665d65)
+- [ ] [<code>update releases</code>](https://github.com/alainm23/planify/commit/1ea0d351a78a8470c4428edc7a54f7b670fc288d)
+- [ ] [<code>Merge pull request #1376 from alainm23/develop</code>](https://github.com/alainm23/planify/commit/f3a00a9e8ced0f704296208dcd703c47b22d3a61)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/0f156316c78e4f2d610a3b3b74f018b286ec5047)
+- [ ] [<code>Merge pull request #1377 from haggen88/update-spanish</code>](https://github.com/alainm23/planify/commit/0ec09c823a9b8d97b7e993b94031cdea7160fbe8)
+  - <sub>Tags: <code>4.10.0</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
