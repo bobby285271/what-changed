@@ -481,6 +481,14 @@
 - [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/0f156316c78e4f2d610a3b3b74f018b286ec5047)
 - [ ] [<code>Merge pull request #1377 from haggen88/update-spanish</code>](https://github.com/alainm23/planify/commit/0ec09c823a9b8d97b7e993b94031cdea7160fbe8)
   - <sub>Tags: <code>4.10.0</code></sub>
+- [ ] [<code>fix gxml wrap</code>](https://github.com/alainm23/planify/commit/4866ad1e2a9fb5ee1bd4e6cfa1c9abb5f09a3f22)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix linux desktop entry for 'Devel' profile</code>](https://github.com/alainm23/planify/commit/726ff1bfa3235975ec17a2971c641ffd061a6659)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge pull request #1378 from peter-urban/fix_gxml_wrap</code>](https://github.com/alainm23/planify/commit/cf8a73a1f798630166eb8ad2307a6f69635b5f1a)
+- [ ] [<code>Merge pull request #1379 from peter-urban/fix_linux_desktop_entry_for_devel_profile</code>](https://github.com/alainm23/planify/commit/c1f786ef85f06f5d1271895368deac5b0ca0edc9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
