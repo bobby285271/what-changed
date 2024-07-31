@@ -1497,6 +1497,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel/commit/d5782481ddce43bde4bc872c77722f823baa766b)
 - [ ] [<code>Metainfo: add 8 release notes (#547)</code>](https://github.com/elementary/wingpanel/commit/52098b84c53d2f2d1320a708575a5ed6ecdbad7a)
 - [ ] [<code>Application: don't hardcode theme (#554)</code>](https://github.com/elementary/wingpanel/commit/8e21f3df20cc5bf72365070ffe1ad2ab0cbfca5d)
+- [ ] [<code>CSS: add padding between text and icons (#553)</code>](https://github.com/elementary/wingpanel/commit/725c598917760b0502d8d4c5da3ed336268d03f8)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
