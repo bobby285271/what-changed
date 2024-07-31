@@ -489,6 +489,18 @@
 - [ ] [<code>Merge pull request #1378 from peter-urban/fix_gxml_wrap</code>](https://github.com/alainm23/planify/commit/cf8a73a1f798630166eb8ad2307a6f69635b5f1a)
 - [ ] [<code>Merge pull request #1379 from peter-urban/fix_linux_desktop_entry_for_devel_profile</code>](https://github.com/alainm23/planify/commit/c1f786ef85f06f5d1271895368deac5b0ca0edc9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: use NavigationView</code>](https://github.com/alainm23/planify/commit/283c06681e80ad6cde960d626d04e5938ed1f7b2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/e11719a92c37ea5519f626a90894387b8587afbc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix #1257</code>](https://github.com/alainm23/planify/commit/115c4b84e5fe4cac09d3b663f7dde7d1ed1a71f6)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1380</code>](https://github.com/alainm23/planify/commit/725e4d75f603e6c6b9cd6ec8eadcd6f3b9a5d9c5)
+  - <sub>Tags: <code>4.10.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
