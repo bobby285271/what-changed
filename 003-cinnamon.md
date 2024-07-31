@@ -7,6 +7,8 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.7...HEAD)
 
+- [ ] [<code>x-cinnamon-portals.conf: Add gnome-keyring as the Secret provider.</code>](https://github.com/linuxmint/cinnamon/commit/4629a29f8303cc3976040f6f91961b85daac0b8a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -128,6 +130,8 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
 
+- [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
