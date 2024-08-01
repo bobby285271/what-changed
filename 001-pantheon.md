@@ -104,6 +104,9 @@
 - [ ] [<code>AppListUpdateView: DRY Update All (#2199)</code>](https://github.com/elementary/appcenter/commit/e31bf55be45d84b352e8eb4bbb6a214245a117a1)
 - [ ] [<code>Application: Close the window on quit, don't destroy it (#2201)</code>](https://github.com/elementary/appcenter/commit/20f2bb15ddd0e5bf2e69ed01f5e3547216fb7e84)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/c8c197cace58a721e1b060d77a2377fb23ecf527)
+- [ ] [<code>Release 8.0.0 (#2146)</code>](https://github.com/elementary/appcenter/commit/a5967b6b9b97edba471aac8b38e227b0d1747a72)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -132,6 +135,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Readme: use flatpak builder (#277)</code>](https://github.com/elementary/camera/commit/e8c6ed5a566d796e9289e6b608b7c4abab3c4ddd)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Release 8.0.0 (#273)</code>](https://github.com/elementary/camera/commit/8b6dcd23eaaac10ef6fdfad2731bdfb44ba03c6f)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Workflows/Merge: install rust extension for gettext</code>](https://github.com/elementary/camera/commit/bb1f7082f5c254bf92bf94501cee9478d220f032)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
 
@@ -139,6 +146,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[GTK4 Prep] Use actions for New Window menu item in FileItem (#1456)</code>](https://github.com/elementary/code/commit/7194d098149bdbce50e3e2d05c6d812c59aa6aab)
 - [ ] [<code>Replace all "_" characters in action names with "-" (#1457)</code>](https://github.com/elementary/code/commit/3fcac976282586d9c171c8649bf335e0cb74a4c6)
+- [ ] [<code>[GTK4 Prep] Create FileView Context Menu Items using GLib.MenuModel (#1458)</code>](https://github.com/elementary/code/commit/286aba9927c81f620428cf81f1772f3e74700028)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -342,6 +350,9 @@
 - [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
 - [ ] [<code>CSS: entry-popover Gtk4 prep (#387)</code>](https://github.com/elementary/tasks/commit/99d63430dee87d82bdcf4784b107cc0c50b3b72c)
 - [ ] [<code>Workflows: use gettext with deb packaging</code>](https://github.com/elementary/tasks/commit/1cd5352e3ebd6c4eca525ef8a8833aacd1f9a8b2)
+- [ ] [<code>Release 6.3.3 (#393)</code>](https://github.com/elementary/tasks/commit/3c892ca846dba56d00d9febe07f4e78a2e66282f)
+  - <sub>Tags: <code>6.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
@@ -351,6 +362,7 @@
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
+- [ ] [<code>Handle flatpak+https scheme (#170)</code>](https://github.com/elementary/sideload/commit/96e57ff99200bb28541d7d05e03ba6ea1dc37867)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [6.0.2 → HEAD](https://github.com/elementary/switchboard/compare/6.0.2...HEAD)
 
@@ -899,6 +911,9 @@
 - [ ] [<code>Appearance: improve screenreader a11y for lists of radios (#409)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/de7c6ddc6d69b577b0ba23205633fb8188212a03)
 - [ ] [<code>Remove translatable texts for the retired contractor (#410)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ccb78f0f52027046b08fdaba29d3aa2d61d056b0)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4477e8ce328aba910ac1fa1a83f1486c4a703718)
+- [ ] [<code>Release 8.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/11b0430542ecd38f94b5ecdc2ae579e951ff1805)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1155,6 +1170,9 @@
 - [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
 - [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
 - [ ] [<code>Fix dimming for NavigationView (#1295)</code>](https://github.com/elementary/stylesheet/commit/344650ff8b1f18e1922d9cf9849c7cd386ef076b)
+- [ ] [<code>Release 8.1.0 (#1297)</code>](https://github.com/elementary/stylesheet/commit/64587483a126b1fed7a3d3a0470ada6c70e96c71)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
@@ -1162,6 +1180,14 @@
 - [ ] [<code>Actions: Refresh and add color to session icons (#1283)</code>](https://github.com/elementary/icons/commit/fa22659006f9733988b0038b62630b0dcbb92471)
 - [ ] [<code>Actions: Apply new save-as design to symbolic icon (#1285)</code>](https://github.com/elementary/icons/commit/29caa394fbf89968a6d4c52e91570bdd6ae9361a)
 - [ ] [<code>Categories: preferences-desktop-locale-symbolic redesign (#1291)</code>](https://github.com/elementary/icons/commit/eae47020c03b720a9d224910c32f27314982c973)
+- [ ] [<code>Unify Symbolic Color: Actions (#1297)</code>](https://github.com/elementary/icons/commit/6aaf3817752fc164fc9a8e84c3be7b92e655cb4b)
+- [ ] [<code>Unify Symbolic Color: Status (#1304)</code>](https://github.com/elementary/icons/commit/3b33d12f8ee0095fdd902fb39b4f57c3d4c15f15)
+- [ ] [<code>Unify Symbolic Color: Places (#1303)</code>](https://github.com/elementary/icons/commit/50a0cdaef239748562f43998172dbd21f3347afe)
+- [ ] [<code>Unify Symbolic Color: Emotes (#1302)</code>](https://github.com/elementary/icons/commit/2e7fc889d1c9defe555352df703825eebd94ce14)
+- [ ] [<code>Unify Symbolic Color: Emblems (#1301)</code>](https://github.com/elementary/icons/commit/064ec1ca3ab332b435c39a62424b82929594b76a)
+- [ ] [<code>Unify Symbolic Color: Devices (#1300)</code>](https://github.com/elementary/icons/commit/6d7e41c634b8a4d140e2e08c287fbe4947d8193f)
+- [ ] [<code>Unify Symbolic Colors: Categories (#1299)</code>](https://github.com/elementary/icons/commit/9ea0ffc4aacced6b6ce1934dac2c8390ccb4a333)
+- [ ] [<code>Unify Symbolic Colors: Apps (#1298)</code>](https://github.com/elementary/icons/commit/629f31331f0f6d3b6656fc393dfc7b3da3c6b380)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1649,6 +1675,7 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#727)</code>](https://github.com/elementary/granite/commit/4059d89e4f9f485d506190f718f707f54f5b3de5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>SwitchModelButton: wrap label (#729)</code>](https://github.com/elementary/granite/commit/020c661c538da572a5f9584f34510794f5473bb1)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
