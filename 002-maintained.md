@@ -497,10 +497,17 @@
 - [ ] [<code>fix #1257</code>](https://github.com/alainm23/planify/commit/115c4b84e5fe4cac09d3b663f7dde7d1ed1a71f6)
   - <sub>Files: <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update Dutch translation</code>](https://github.com/alainm23/planify/commit/5c024a6615d25aa9dd0618cfa96e516946f32e7d)
 - [ ] [<code>fix #1380</code>](https://github.com/alainm23/planify/commit/725e4d75f603e6c6b9cd6ec8eadcd6f3b9a5d9c5)
   - <sub>Tags: <code>4.10.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Updated German translation</code>](https://github.com/alainm23/planify/commit/e9dbc2685c1e17144937012c8e48101e841781dc)
+- [ ] [<code>Merge pull request #1382 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/dc5c8819f45e01cef971d941b84b270bb57d339b)
+- [ ] [<code>Merge pull request #1384 from McBaumwolle/patch-1</code>](https://github.com/alainm23/planify/commit/56601816c02ae026baec9e0eded152d8cfe6c676)
+- [ ] [<code>release 4.10.3</code>](https://github.com/alainm23/planify/commit/0e118d6663427e9116e5cf55eaedbf868f5c46b0)
+  - <sub>Tags: <code>4.10.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
