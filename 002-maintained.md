@@ -508,6 +508,10 @@
 - [ ] [<code>release 4.10.3</code>](https://github.com/alainm23/planify/commit/0e118d6663427e9116e5cf55eaedbf868f5c46b0)
   - <sub>Tags: <code>4.10.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix #1385</code>](https://github.com/alainm23/planify/commit/2b4e0424cff842a4aaaf6af27405ed530dc3d0be)
+- [ ] [<code>fix #1386</code>](https://github.com/alainm23/planify/commit/ea936238ba1e89e3bbd8e458a02f6edc8fca02a0)
+- [ ] [<code>fix #1388</code>](https://github.com/alainm23/planify/commit/b2eeeece8ba2ceb9c23a41492e51b8792ab3076a)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
