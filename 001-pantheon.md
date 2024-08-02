@@ -356,6 +356,9 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
+- [ ] [<code>Replace Granite.DynamicNotebook with Hdy TabView and TabBar (#760)</code>](https://github.com/elementary/terminal/commit/64523ee8229be52205df309c183fb89b1c8438a3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
