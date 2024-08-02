@@ -1165,14 +1165,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.0.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.0.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.1.0...HEAD)
 
-- [ ] [<code>Improve tabbar appearance in dark mode (#1292)</code>](https://github.com/elementary/stylesheet/commit/35bbb4b76010cff74a243a4d8d2b24cb93d26d9a)
-- [ ] [<code>ToolbarView: add bottom-bar styles (#1293)</code>](https://github.com/elementary/stylesheet/commit/f0ff6d14bd816f73ac0495e3c3a8e48a9c9b0984)
-- [ ] [<code>Fix dimming for NavigationView (#1295)</code>](https://github.com/elementary/stylesheet/commit/344650ff8b1f18e1922d9cf9849c7cd386ef076b)
-- [ ] [<code>Release 8.1.0 (#1297)</code>](https://github.com/elementary/stylesheet/commit/64587483a126b1fed7a3d3a0470ada6c70e96c71)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
