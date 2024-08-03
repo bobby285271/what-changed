@@ -147,6 +147,7 @@
 - [ ] [<code>[GTK4 Prep] Use actions for New Window menu item in FileItem (#1456)</code>](https://github.com/elementary/code/commit/7194d098149bdbce50e3e2d05c6d812c59aa6aab)
 - [ ] [<code>Replace all "_" characters in action names with "-" (#1457)</code>](https://github.com/elementary/code/commit/3fcac976282586d9c171c8649bf335e0cb74a4c6)
 - [ ] [<code>[GTK4 Prep] Create FileView Context Menu Items using GLib.MenuModel (#1458)</code>](https://github.com/elementary/code/commit/286aba9927c81f620428cf81f1772f3e74700028)
+- [ ] [<code>Add symbol filter to outline pane (#1253)</code>](https://github.com/elementary/code/commit/28a063c82489fab7fe6bdf7174fd9267087cc0e2)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -290,6 +291,9 @@
 - [ ] [<code>Update info when streaming to a file (#2442)</code>](https://github.com/elementary/files/commit/5a1267c7af26cda98f15e2b989564f54c2450c8c)
 - [ ] [<code>Change accel for duplicate tab to match Code and Web Browser (#2443)</code>](https://github.com/elementary/files/commit/8542c8be161d5f45950e1d6ec31efdf695fed3cd)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/files/commit/bd8ef0d898646bef640e321a92eadd0e852d44e4)
+- [ ] [<code>Release 8.0.0 (#2434)</code>](https://github.com/elementary/files/commit/55d9d11a23191bff120cea0d0650dc9b05bbaf7f)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
