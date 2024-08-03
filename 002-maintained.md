@@ -514,8 +514,22 @@
 - [ ] [<code>fix #1386</code>](https://github.com/alainm23/planify/commit/ea936238ba1e89e3bbd8e458a02f6edc8fca02a0)
 - [ ] [<code>fix #1388</code>](https://github.com/alainm23/planify/commit/b2eeeece8ba2ceb9c23a41492e51b8792ab3076a)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>Test commit with some changes.</code>](https://github.com/alainm23/planify/commit/d604ef5fd1240b3de063eba6ed13e4e4f1b3d98c)
+- [ ] [<code>more translations</code>](https://github.com/alainm23/planify/commit/65468c704b2c5138d424e814e065ff24e70529c6)
 - [ ] [<code>Release 4.10.4</code>](https://github.com/alainm23/planify/commit/8f471da76d2654c2a9547e06c9bd1d37aa9488af)
   - <sub>Tags: <code>4.10.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: return to adw.stackview</code>](https://github.com/alainm23/planify/commit/472c05fe283c31799be0a5300a98af0494f93740)
+- [ ] [<code>Update de.po</code>](https://github.com/alainm23/planify/commit/4c84d988db0a53540722b985a70caf24125cd181)
+- [ ] [<code>Attachment delete button was labeled as "download".</code>](https://github.com/alainm23/planify/commit/45a9e780281f12cb8817bff27235c8892d095881)
+- [ ] [<code>Box margins</code>](https://github.com/alainm23/planify/commit/9540600891912a7c0544d74a72752b4d4ca86b40)
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/f198108403f9f4969d6c13ec76cf1c471f16fdce)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update de.po</code>](https://github.com/alainm23/planify/commit/d88324549e623c91ccf48ae41823e048042e7388)
+- [ ] [<code>Merge pull request #1390 from McBaumwolle/master</code>](https://github.com/alainm23/planify/commit/71d0d5771326b2bcf1e5d54d8d59f65d7ca7c4c7)
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/c98512f80e63b522478b723a26544809675d9e8b)
+- [ ] [<code>release 4.10.5</code>](https://github.com/alainm23/planify/commit/7a1c6ceecbc95df12ee2e4c44f68ce6f9fd79b2d)
+  - <sub>Tags: <code>4.10.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
