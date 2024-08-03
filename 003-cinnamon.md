@@ -133,8 +133,11 @@
 - [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Don't try to initialize gtk, use GMainLoop instead.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/54fca8b5b6a2b5443a84f9b2106ebc49463dec44)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
