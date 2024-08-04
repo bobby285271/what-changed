@@ -635,6 +635,7 @@
 - [ ] [<code>Release 8.0.0 (#126)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e6b327586e73def9b6d8d651600aa5bbf5da32de)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainView: Correct initial timezone value (#128)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3d62208d7c223a0b375ecf774c10e78df81f9a9d)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
