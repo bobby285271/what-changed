@@ -423,6 +423,9 @@
 - [ ] [<code>ThemeSettings: Split theme methods (#235)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c00bcc32a385e01acacad3e65a493fce1fe0110d)
 - [ ] [<code>flatpak: Update stylesheet to 8.1.0 (#236)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4bc0ff3de60077e7aa92687a638b76c16e0f364e)
 - [ ] [<code>Set font-weight as bold (#237)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/61b6e53cf7b7ed289562a4bc182e9f2894967e8f)
+- [ ] [<code>metainfo: Set screenshot from project_version (#239)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e94c0cc49d30bfc72b08cf01026749dce0bd8a9b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>metainfo: Add more URLs (#240)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6ecfadc0b46e01ff9cdb87d007657a6b7e913567)
 
 #### [planify](https://github.com/alainm23/planify): [4.9.0 → HEAD](https://github.com/alainm23/planify/compare/4.9.0...HEAD)
 
