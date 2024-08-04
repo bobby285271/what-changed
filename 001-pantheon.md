@@ -1483,6 +1483,7 @@
 - [ ] [<code>Metainfo: add 8 release notes (#1991)</code>](https://github.com/elementary/gala/commit/21cd25b29f3e8bc6716b091372e4c506067f394e)
 - [ ] [<code>GSchema: remove deprecated keys (#2000)</code>](https://github.com/elementary/gala/commit/66679ca79662cff3eca5b4d850aeec4bad23bbd4)
 - [ ] [<code>DBus: cleanup (#2001)</code>](https://github.com/elementary/gala/commit/c84a10d0f9e984f22aea676c024f4a073bcac3b7)
+- [ ] [<code>PiP: Fix shadow (#2005)</code>](https://github.com/elementary/gala/commit/2396f7fba261d42042b0726ea785bade77d93ccc)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1836,3 +1837,5 @@
 - [ ] [<code>Desktop: switchboard-display → settings.display (#125)</code>](https://github.com/elementary/seeds/commit/c4e44ca1834548c8b95091d52c7c210a1c455bb5)
 - [ ] [<code>Desktop: switchboard-wacom→ settings.wacom (#126)</code>](https://github.com/elementary/seeds/commit/cb0167254673d3e7f99d696af6e231b7ad23bef8)
 - [ ] [<code>Desktop: wingpanel-session → quick-settings (#123)</code>](https://github.com/elementary/seeds/commit/98b53a5835972b26989adbb36c6c42327c118346)
+- [ ] [<code>Desktop: install font viewer from our Flatpak'd package (#128)</code>](https://github.com/elementary/seeds/commit/1e29a190967bc60270fdb34a72425ab66335013e)
+- [ ] [<code>Desktop: replace gnome-bluetooth with elementary bluetooth daemon (#129)</code>](https://github.com/elementary/seeds/commit/c38307a2e25cd4695ec9e79988fe2c1763696ba6)
