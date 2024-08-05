@@ -328,6 +328,8 @@
 - [ ] [<code>Merge pull request #618 from be-we/master</code>](https://github.com/phase1geo/minder/commit/6b0b88e52edfb32ed29b6905090f4eb1b954571a)
 - [ ] [<code>Fixing quick entry issue when inserting root nodes.</code>](https://github.com/phase1geo/minder/commit/0bc74952d2e03487271647ff2149b68168da5bc2)
 - [ ] [<code>Regrouping to attempt to make shortcuts window height smaller.</code>](https://github.com/phase1geo/minder/commit/e95cd829801599672764416a47ad060473fabcba)
+- [ ] [<code>Preparing for elementary OS 8</code>](https://github.com/phase1geo/minder/commit/17ec99b436a7f4432a571665631d9d02f6af318d)
+- [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/af248d2c36e4165435f3d6b22c204c5ef960b117)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -429,6 +431,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.10.5 → HEAD](https://github.com/alainm23/planify/compare/4.10.5...HEAD)
 
+- [ ] [<code>po: Updated Hindi Translation</code>](https://github.com/alainm23/planify/commit/0e9cfb075304d02567ab98ca92aa79cce2b3785c)
+- [ ] [<code>fix #1395</code>](https://github.com/alainm23/planify/commit/e3f42bb4ab0ada5cc6ea0812b1b6a97c1bb27885)
+- [ ] [<code>Merge pull request #1392 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/fbe6f07d18dbb48902e466cbee8324eb28821a88)
+- [ ] [<code>relase 4.10.6</code>](https://github.com/alainm23/planify/commit/e58c62f5e6589d195e081746b3a7c129d6c9448f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/c46684e7560b794ea20bc77402b7f9e9c4cbf5a4)
+  - <sub>Tags: <code>4.10.6</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
