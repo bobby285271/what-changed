@@ -1840,3 +1840,4 @@
 - [ ] [<code>Desktop: wingpanel-session → quick-settings (#123)</code>](https://github.com/elementary/seeds/commit/98b53a5835972b26989adbb36c6c42327c118346)
 - [ ] [<code>Desktop: install font viewer from our Flatpak'd package (#128)</code>](https://github.com/elementary/seeds/commit/1e29a190967bc60270fdb34a72425ab66335013e)
 - [ ] [<code>Desktop: replace gnome-bluetooth with elementary bluetooth daemon (#129)</code>](https://github.com/elementary/seeds/commit/c38307a2e25cd4695ec9e79988fe2c1763696ba6)
+- [ ] [<code>Desktop: settings-bluetooth → settings.bluetooth (#130)</code>](https://github.com/elementary/seeds/commit/55aa01089189a28edc98c41e3a98d48c35523556)
