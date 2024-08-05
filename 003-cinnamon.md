@@ -8,7 +8,9 @@
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.7...HEAD)
 
 - [ ] [<code>x-cinnamon-portals.conf: Add gnome-keyring as the Secret provider.</code>](https://github.com/linuxmint/cinnamon/commit/4629a29f8303cc3976040f6f91961b85daac0b8a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.8</code>](https://github.com/linuxmint/cinnamon/commit/ae679ce02dd5b67f5016dc98795abd1a42db68e6)
+  - <sub>Tags: <code>6.2.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -68,8 +70,10 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.6 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.6...HEAD)
 
 - [ ] [<code>actions: Add better documentation, fix misleading warning message.</code>](https://github.com/linuxmint/nemo/commit/90a33a9c3f8d2bc21af45e9f4e696003d63fc740)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>6.2.7</code>](https://github.com/linuxmint/nemo/commit/a339fd3365884cb2ee8b8db5b3e7109822e18eda)
+  - <sub>Tags: <code>6.2.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -135,9 +139,11 @@
 - [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Don't try to initialize gtk, use GMainLoop instead.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/54fca8b5b6a2b5443a84f9b2106ebc49463dec44)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>1.0.9</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/853cff4bf4c95bd6146f13d046a449f5a51c48c5)
+  - <sub>Tags: <code>1.0.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
