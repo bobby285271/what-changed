@@ -1320,6 +1320,11 @@
 - [ ] [<code>systemd: Install session.conf also to gnome-session@pantheon-wayland.target.d (#75)</code>](https://github.com/elementary/session-settings/commit/ab43bc3d2d2620d8d64b917a584f0f8607471144)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/session-settings/commit/71b7b445189419c34ef24bfbb47709f714055136)
+- [ ] [<code>Rename sessions (#77)</code>](https://github.com/elementary/session-settings/commit/6bec7124d9496d6875f1c6f711354ee38cc556c3)
+- [ ] [<code>Add localization (#79)</code>](https://github.com/elementary/session-settings/commit/d4a7a77669db7804c31be557f1ffee793aa21e39)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add Gettext workflow</code>](https://github.com/elementary/session-settings/commit/4c532541ca43e0f0fde2cfc9968f74bf1686297c)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/session-settings/commit/6c7c0e51665eda9829ae9394011cfd050900b12b)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
@@ -1841,3 +1846,4 @@
 - [ ] [<code>Desktop: install font viewer from our Flatpak'd package (#128)</code>](https://github.com/elementary/seeds/commit/1e29a190967bc60270fdb34a72425ab66335013e)
 - [ ] [<code>Desktop: replace gnome-bluetooth with elementary bluetooth daemon (#129)</code>](https://github.com/elementary/seeds/commit/c38307a2e25cd4695ec9e79988fe2c1763696ba6)
 - [ ] [<code>Desktop: settings-bluetooth → settings.bluetooth (#130)</code>](https://github.com/elementary/seeds/commit/55aa01089189a28edc98c41e3a98d48c35523556)
+- [ ] [<code>Desktop: settings-mouse-touchpad → settings.mouse-touchpad (#131)</code>](https://github.com/elementary/seeds/commit/b370872b3c62e9bad6ff99d02709d5a2f96aaf15)
