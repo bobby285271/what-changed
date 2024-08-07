@@ -313,6 +313,7 @@
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
+- [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
 
@@ -595,6 +596,9 @@
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/36f9f30350d00e62e81301506e6e6cfebf502d85)
 - [ ] [<code>DeviceRow: add missing audio-headphones (#222)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/ca16df17731de1fd0d34a37ee6aae4cfd87b2d55)
 - [ ] [<code>DeviceRow: Replace deprecated settings URI (#223)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/c138e2e51a465b2b5392b845a6857db125e061b2)
+- [ ] [<code>Release 8.0.0 (#221)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/0c3644a863ef78668a0559434b2f0810405d8085)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [2.2.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/2.2.0...HEAD)
 
@@ -636,6 +640,10 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainView: Correct initial timezone value (#128)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3d62208d7c223a0b375ecf774c10e78df81f9a9d)
+- [ ] [<code>Timezone dropdown (#106)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/acdd3c15477f4ac22753949880c12a5016e47497)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e56a76a63c8a79d85d4baeff372a99e6e64c5b36)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
@@ -1310,6 +1318,12 @@
 - [ ] [<code>AbstractOnboardingView: move padding, icon size, margin to CSS (#235)</code>](https://github.com/elementary/onboarding/commit/f8928f8aeec7ae922b6b53c45764c4d83110161a)
 - [ ] [<code>Improve screenreader experience (#231)</code>](https://github.com/elementary/onboarding/commit/a92ac3ec6c608f2ba27aad8c978059246c06b595)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/onboarding/commit/34289838f5113870f585dacb2bfff402780c2399)
+- [ ] [<code>Release 8.0.0 (#228)</code>](https://github.com/elementary/onboarding/commit/1aa7119523ffbde7c6e8ac44eeedcdf3485063a2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/onboarding/commit/d59877af228c81788d0206b8140f2115a026c0f9)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/onboarding/commit/f2175f6ef873f518e8a830f67761466deaef27e3)
+- [ ] [<code>Update translation files</code>](https://github.com/elementary/onboarding/commit/73cf7a42659f145de1cb3692fbbf16a833baf9d0)
+  - <sub>Tags: <code>8.0.0</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
