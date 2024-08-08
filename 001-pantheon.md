@@ -116,28 +116,8 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [6.2.2 → HEAD](https://github.com/elementary/camera/compare/6.2.2...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.0 → HEAD](https://github.com/elementary/camera/compare/8.0.0...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#265)</code>](https://github.com/elementary/camera/commit/071fcf723fb04cf5fbfde1e8e8aa317927ba5c15)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#266)</code>](https://github.com/elementary/camera/commit/70570b327b53cfa21a1cc15c70cd0e44796cb07d)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#267)</code>](https://github.com/elementary/camera/commit/cc2494e66854e9bb2e63a27eb70445b88c935517)
-- [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/camera/commit/9061a2175345bd7d5469025552ac0b139e303cad)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/camera/commit/504ea12cc9287ec10ca0d48f8926dd9a816b4621)
-- [ ] [<code>Flatpak: bump platform to 8.0 (#270)</code>](https://github.com/elementary/camera/commit/48eca0aa954346b2d424c4c6b44e7de6621c4ce5)
-- [ ] [<code>Gtk4 Prep (#271)</code>](https://github.com/elementary/camera/commit/457dcff9a4740d5921f1414310a0b3b14cd5052e)
-- [ ] [<code>Metainfo: add 8 release notes (#272)</code>](https://github.com/elementary/camera/commit/90e51cb601199f7c1dccaee5bf814d231692df56)
-- [ ] [<code>meson: Fix deprecated source_root (#276)</code>](https://github.com/elementary/camera/commit/a45a6baeb05fa24f843aec07fb5230d86cc15841)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Port to Gtk4 (#200)</code>](https://github.com/elementary/camera/commit/d28aef5236495b1f2330f24ea7e4b234735dabe1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Readme: use flatpak builder (#277)</code>](https://github.com/elementary/camera/commit/e8c6ed5a566d796e9289e6b608b7c4abab3c4ddd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Release 8.0.0 (#273)</code>](https://github.com/elementary/camera/commit/8b6dcd23eaaac10ef6fdfad2731bdfb44ba03c6f)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Workflows/Merge: install rust extension for gettext</code>](https://github.com/elementary/camera/commit/bb1f7082f5c254bf92bf94501cee9478d220f032)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
@@ -237,63 +217,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [6.5.3 → HEAD](https://github.com/elementary/files/compare/6.5.3...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.0.0 → HEAD](https://github.com/elementary/files/compare/7.0.0...HEAD)
 
-- [ ] [<code>Support .hidden file (#2362)</code>](https://github.com/elementary/files/commit/9e025b265d7afefcd671c2c515ebcabf4ff3fc14)
-- [ ] [<code>[Gtk4 Prep] IconView: Remove deprecated, cleanup (#2364)</code>](https://github.com/elementary/files/commit/94674269c797dcdcd92986ef6d0dcca0e2006d9c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>[Gtk4Prep]ColumnView: No EventButton (#2371)</code>](https://github.com/elementary/files/commit/1e1df20d82e083969906e58edca304bc51d0c2ec)
-- [ ] [<code>[GtkPrep] Views: DRY zoom functions (#2369)</code>](https://github.com/elementary/files/commit/463f462762d7b904f22df6db16e4f52f87bdd5c8)
-- [ ] [<code>[Gtk4Prep] Views: DRY some scroll select  & focus functions (#2370)</code>](https://github.com/elementary/files/commit/1f5709cbfb53cdb25bbc1e57f224200106658d1c)
-- [ ] [<code>[Gtk4Prep] Slots cleanup Gtk4prep (#2366)</code>](https://github.com/elementary/files/commit/8037cbf5a45ae7b87b4159d24cb14ca1dcf43bf4)
-- [ ] [<code>[Gtk4Prep] Viewcontainer cleanup and prepare for Gtk4 (#2367)</code>](https://github.com/elementary/files/commit/e58b3fd387aa71d65d66e478bb4e1597a835e3d0)
-- [ ] [<code>[Regression] Reload directory after mode change (#2377)</code>](https://github.com/elementary/files/commit/54c1caaced555aba2300a26f6b62ee6893d08f9e)
-- [ ] [<code>[Gtk4Prep]Simplify iconrenderer construction and setup (#2378)</code>](https://github.com/elementary/files/commit/e421bec4b449bb20cfe8f9c7443d941e13a3801a)
-- [ ] [<code>Fix unexpected selection after file added (#2358)</code>](https://github.com/elementary/files/commit/d8e7f895f37caedd4badbf6c1ac04d67828bbe48)
-- [ ] [<code>[Gtk4Prep] Bookmarkrow: Use EventControllerKey (#2382)</code>](https://github.com/elementary/files/commit/44c8d98bc159feb5c96719c3498d3006c53d48d2)
-- [ ] [<code>[Gtk4Prep] EditableLabel: Use EventControllerKey, cleanup (#2383)</code>](https://github.com/elementary/files/commit/3eca2eebb94d5ba0bd7af40bb1bdba5471af6f67)
-- [ ] [<code>[GtkPrep] Cleanup treeviews contd (#2379)</code>](https://github.com/elementary/files/commit/6cc6b5d82cfa01c81014dcb5bdcd429100c70af4)
-- [ ] [<code>[Gtk4Prep] Views: Use EventControllerKey where possible (#2380)</code>](https://github.com/elementary/files/commit/9abf00b982aeb206806ce954af5fcfcec21195ee)
-- [ ] [<code>[Gtk4Prep] Window: Use EventControllerKey (#2381)</code>](https://github.com/elementary/files/commit/a9181942c5dbb3b6419930e2890ca957bc9d0a19)
-- [ ] [<code>[Gtk4Prep]KeyUtils: Merge into AbstractDirectoryView (#2388)</code>](https://github.com/elementary/files/commit/2e0aa6c9aba4bd20fb31370a525200c88618a298)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Gtk4Prep] BreadcrumbEntry: Use EventControllerKey  (#2389)</code>](https://github.com/elementary/files/commit/54fe65a3b426ffe6d6d58ab64613ca51f21984d2)
-- [ ] [<code>[Gtk4Prep] TreeView & Miller: Avoid remaining Gdk.EventKey (#2387)</code>](https://github.com/elementary/files/commit/73aec59d41e48d37e2f45aebc99694781d8a4d51)
-- [ ] [<code>[RegressionFix] Window: Propagate key events when view not having focus (#2393)</code>](https://github.com/elementary/files/commit/898b19b2fc59dbbd4a9db329c9e7682c5b7fb264)
-- [ ] [<code>[Gtk4Prep] Views:  Use Gtk.GestureMultiPress (#2399)</code>](https://github.com/elementary/files/commit/a4d617fc6b6e33c4e8dff2a4aaea496ca4987354)
-- [ ] [<code>Fix completion (#2396)</code>](https://github.com/elementary/files/commit/afeea89ed9e7f97dc1a6a72a7cdb1db2c2acf66b)
-- [ ] [<code>[Gtk4Prep] ViewContainer: Use GestureMultiPress (#2400)</code>](https://github.com/elementary/files/commit/4edd3bab46434d4b3ebf99154bc78ae6382ef4ae)
-- [ ] [<code>Window: do not capture keyevents when view is renaming (#2398)</code>](https://github.com/elementary/files/commit/5199272e7eacd2064e7015af0ec7d7e02ac24700)
-- [ ] [<code>[Gtk4Prep] Bookmarks: Use GestureMultiPress (#2406)</code>](https://github.com/elementary/files/commit/eb500d9eed689a66b8ce0c96155031298102f279)
-- [ ] [<code>[Gtk4Prep] Breadcrumbs: Use EventControllerMotion (#2405)</code>](https://github.com/elementary/files/commit/dc796bc76aee674e5807620600ac6cbc63b0cc7b)
-- [ ] [<code>EmptyTrashJob: rewrite without dialog.run (#2248)</code>](https://github.com/elementary/files/commit/639b71e08e2b5d2d088a141d47f27487d2540cbf)
-- [ ] [<code>[Gtk4Prep] Icons: Lose unused icons (#2409)</code>](https://github.com/elementary/files/commit/30ac6d8b4cfe49d8afaa670bfffff74a5680da18)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Gtk4Prep] StyleContext getters (#2407)</code>](https://github.com/elementary/files/commit/a48cc4dcd0d82897efc29f142f1a4c4300f3b440)
-- [ ] [<code>[Gtk4Prep] AbstractDirectoryView: Use EventControllerMotion (#2404)</code>](https://github.com/elementary/files/commit/67adf579fe76046f9d63eb02d7276c8f78d4bcab)
-- [ ] [<code>[Gtk4Prep] Breadcrumbs: Use GestureMultiPress (#2401)</code>](https://github.com/elementary/files/commit/62c798702b7322429e1e4544045620d51545ae9a)
-- [ ] [<code>AbstractDirectoryView: claim button press when appropriate (#2410)</code>](https://github.com/elementary/files/commit/ea488bf600467752856c10c97fab99bd80ad417a)
-- [ ] [<code>RenamerDialog: Use C_ instead of NC_ (#2413)</code>](https://github.com/elementary/files/commit/fdc875fb96f63c3c556f95808e3bad3295f8b1ea)
-- [ ] [<code>[Regression] Views: Get correct clickzone information when scrolled. (#2412)</code>](https://github.com/elementary/files/commit/5333f6be738d67960e100099f7a6e6e00683a74e)
-- [ ] [<code>[Gtk4Prep] SearchResults: Use EventControllers, disambiguate view name (#2402)</code>](https://github.com/elementary/files/commit/7b78fa0eb36b9af8f14b6f0ccb6e5df945c269fd)
-- [ ] [<code>Regression: Fix dragging file items (#2417)</code>](https://github.com/elementary/files/commit/41ef82ca535d759d00599602b336bcd0104b1ef4)
-- [ ] [<code>[Gtk4Prep] Cleanup DnD (#2418)</code>](https://github.com/elementary/files/commit/d714ab1b140f2c04b44c6d09e10f886c7132d596)
-- [ ] [<code>[Regression] Fix dragging multiple items (#2421)</code>](https://github.com/elementary/files/commit/8785418f4ee750fe930b79d4d29fc3a5caaf4989)
-- [ ] [<code>Desktop: update, singlemainwindow (#2426)</code>](https://github.com/elementary/files/commit/287e43116cdf1c26b16c2b4e181c62cd2dc22f01)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Expose restore tabs on startup option (#2343)</code>](https://github.com/elementary/files/commit/41788834ba92bd20cd4f3c22ca47783e9bef4c5b)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/files/commit/339df5a1e438d66352703f44b83e56dbda9614be)
-- [ ] [<code>AbstractDirectoryView: add set as wallpaper option (#2432)</code>](https://github.com/elementary/files/commit/8bf726c5d220e296fd29f4e86d6fc8a482416349)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add 8.0 release notes (#2433)</code>](https://github.com/elementary/files/commit/812b8c393eba68e01267a7829d39d17477a95407)
-- [ ] [<code>Validate tip uri when restoring Column View (#2440)</code>](https://github.com/elementary/files/commit/466b52874bfed83b0cc2e0f8451c2e608989d1c0)
-- [ ] [<code>Update info when streaming to a file (#2442)</code>](https://github.com/elementary/files/commit/5a1267c7af26cda98f15e2b989564f54c2450c8c)
-- [ ] [<code>Change accel for duplicate tab to match Code and Web Browser (#2443)</code>](https://github.com/elementary/files/commit/8542c8be161d5f45950e1d6ec31efdf695fed3cd)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/files/commit/bd8ef0d898646bef640e321a92eadd0e852d44e4)
-- [ ] [<code>Release 8.0.0 (#2434)</code>](https://github.com/elementary/files/commit/55d9d11a23191bff120cea0d0650dc9b05bbaf7f)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -327,37 +252,8 @@
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
 
-#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.2 → HEAD](https://github.com/elementary/tasks/compare/6.3.2...HEAD)
+#### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
-- [ ] [<code>Meson: use gnome.post_install to compile schemas (#371)</code>](https://github.com/elementary/tasks/commit/cd51ff03e4ce0eb9bccd6687a5bb98698f72f0a9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>fix notify signal signature in prefers-color-scheme callback (#373)</code>](https://github.com/elementary/tasks/commit/f767a87963b0ccf27cb1a96d800ec8382aba34b5)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#374)</code>](https://github.com/elementary/tasks/commit/91ec6ca2a360c6c4d749e8dd62ffa108a6b4cc2b)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#375)</code>](https://github.com/elementary/tasks/commit/4be89ab1378647e522ad14e675f9ca1f9e1c00b0)
-- [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/tasks/commit/851f79ed3db03bfe4231f91dd293ba029a584503)
-- [ ] [<code>gschema: remove window position (#377)</code>](https://github.com/elementary/tasks/commit/66c5cb7e3d8b882879e1f7b90f00b23bf20c6388)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/tasks/commit/5cc4518b61c1f881ae523a42e6262c9006347316)
-- [ ] [<code>Create Application.css (#379)</code>](https://github.com/elementary/tasks/commit/1b592598d52b65d81f0e09ffc47c8a9b4a8971de)
-- [ ] [<code>CI: build against OS (#380)</code>](https://github.com/elementary/tasks/commit/0a42dcf073f512cf78be30d80117be9da8337fa8)
-- [ ] [<code>TaskRow: GTK4 Prep (#381)</code>](https://github.com/elementary/tasks/commit/04a98b74fd1504c7ade85d9422631fb911e9396c)
-- [ ] [<code>MainWindow: Gtk4 prep (#378)</code>](https://github.com/elementary/tasks/commit/a510b0c6349cd25fed55c6294d2a22da089aa250)
-- [ ] [<code>TaskModel: use unowned var</code>](https://github.com/elementary/tasks/commit/94e9f9205b93023fc7ef2bb6e2bd9aef582e7e7f)
-- [ ] [<code>MainWindow: unowned refs</code>](https://github.com/elementary/tasks/commit/68bacefb467e2471d02fa0b650f188c159275de3)
-- [ ] [<code>TaskListGrid: unowned task_row</code>](https://github.com/elementary/tasks/commit/f0ab6025702d8c1f7c7c295a778358e42dcd9759)
-- [ ] [<code>TaskListGrid: Gtk4 prep (#385)</code>](https://github.com/elementary/tasks/commit/9c57cd415ca0cba43ddfeaba512b74cec36d6c49)
-- [ ] [<code>EditableLabel: Gtk4 Prep (#383)</code>](https://github.com/elementary/tasks/commit/5d4a035ba7744c99f5404e35be04edef59aa1c97)
-- [ ] [<code>EntryPopover/Generic: Gtk4 Prep (#386)</code>](https://github.com/elementary/tasks/commit/58cfb39f1e90fae3ab5a06170152c4fe1e7dae4c)
-- [ ] [<code>MainWindow: make on_listbox_row_selected lambda a function (#388)</code>](https://github.com/elementary/tasks/commit/cc0f6b5779b433c66201a6b4a0f604a18c1a59cd)
-- [ ] [<code>Manifest: rewrite as json (#390)</code>](https://github.com/elementary/tasks/commit/f48af899d852a4562bfa61184c1b93a2aed60ace)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Metainfo: add 6.3.3 release notes (#391)</code>](https://github.com/elementary/tasks/commit/c62f1f36983ccfef32bf9603ebb2016d1338a488)
-- [ ] [<code>Workflows: add flatpak x-checker (#392)</code>](https://github.com/elementary/tasks/commit/222afbe1b11d69a8256f011b16fcb2b3496925c8)
-- [ ] [<code>CSS: entry-popover Gtk4 prep (#387)</code>](https://github.com/elementary/tasks/commit/99d63430dee87d82bdcf4784b107cc0c50b3b72c)
-- [ ] [<code>Workflows: use gettext with deb packaging</code>](https://github.com/elementary/tasks/commit/1cd5352e3ebd6c4eca525ef8a8833aacd1f9a8b2)
-- [ ] [<code>Release 6.3.3 (#393)</code>](https://github.com/elementary/tasks/commit/3c892ca846dba56d00d9febe07f4e78a2e66282f)
-  - <sub>Tags: <code>6.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
@@ -365,6 +261,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>TerminalView: ReLoad→Reload (#767)</code>](https://github.com/elementary/terminal/commit/d20333779f8ee1020285b057d1552f96664bd111)
+- [ ] [<code>Fix empty context menu regression (#768)</code>](https://github.com/elementary/terminal/commit/b7da3a500dc13a71e75a206fdb07d03f711d1cdd)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
