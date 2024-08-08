@@ -441,6 +441,9 @@
 - [ ] [<code>Removed GenericName key from desktop entry</code>](https://github.com/alainm23/planify/commit/88b37506e226daf7ccda913bb263e42ecea0e4db)
 - [ ] [<code>fix #1398</code>](https://github.com/alainm23/planify/commit/030860134e8c86eae212be0057306c821d51efff)
 - [ ] [<code>Merge pull request #1396 from FaridZelli/patch-1</code>](https://github.com/alainm23/planify/commit/7a6e625d169d76fb788f94f9e86b0faa43be048e)
+- [ ] [<code>release 4.10.7</code>](https://github.com/alainm23/planify/commit/79375fb947e8ea1b94e189e2f0519a003236f565)
+  - <sub>Tags: <code>4.10.7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
