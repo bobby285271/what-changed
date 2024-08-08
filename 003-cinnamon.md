@@ -7,6 +7,9 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.8...HEAD)
 
+- [ ] [<code>cs_default.py: Disable mousewheel selection in the default app</code>](https://github.com/linuxmint/cinnamon/commit/d7eddb79dc593e23b2a96b23b2b8b17847e2f755)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -66,8 +69,12 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.7 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.7...HEAD)
 
 - [ ] [<code>Remove .nemo_action language files from files/usr, they're already</code>](https://github.com/linuxmint/nemo/commit/cbce62f20a8a491799bd38842a830deca0d573df)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Remove gtk-layer-shell (#3443)</code>](https://github.com/linuxmint/nemo/commit/bf14c29db4702b7be612df80a76994d792b99804)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix some codespell complaints.</code>](https://github.com/linuxmint/nemo/commit/047aaadf9ebf0487fc984d7813d8be444cad8cdd)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
