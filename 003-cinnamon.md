@@ -10,6 +10,9 @@
 - [ ] [<code>cs_default.py: Disable mousewheel selection in the default app</code>](https://github.com/linuxmint/cinnamon/commit/d7eddb79dc593e23b2a96b23b2b8b17847e2f755)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.9</code>](https://github.com/linuxmint/cinnamon/commit/1f5bb2250a50884b63c236343197e2b9518e56d8)
+  - <sub>Tags: <code>6.2.9</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -74,7 +77,10 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix some codespell complaints.</code>](https://github.com/linuxmint/nemo/commit/047aaadf9ebf0487fc984d7813d8be444cad8cdd)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.8</code>](https://github.com/linuxmint/nemo/commit/46313e659bdbe49338e3e09dcd989f212c3747c6)
+  - <sub>Tags: <code>6.2.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
