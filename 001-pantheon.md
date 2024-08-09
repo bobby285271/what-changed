@@ -1774,3 +1774,4 @@
 - [ ] [<code>Desktop: settings-bluetooth → settings.bluetooth (#130)</code>](https://github.com/elementary/seeds/commit/55aa01089189a28edc98c41e3a98d48c35523556)
 - [ ] [<code>Desktop: settings-mouse-touchpad → settings.mouse-touchpad (#131)</code>](https://github.com/elementary/seeds/commit/b370872b3c62e9bad6ff99d02709d5a2f96aaf15)
 - [ ] [<code>SDK: remove old switchboard lib (#135)</code>](https://github.com/elementary/seeds/commit/0fd413905b9c6afc335850032c3df4c11e896601)
+- [ ] [<code>Include DKMS (#133)</code>](https://github.com/elementary/seeds/commit/e8c9abf1e1f8a76b1cf97c9c4cd4ba581334cfb4)
