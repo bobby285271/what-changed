@@ -213,6 +213,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Launcher: Fix crash on rapid revealing/unrevealing (#252)</code>](https://github.com/elementary/dock/commit/7c44d65321cee177571871c98af05d785a95f952)
 - [ ] [<code>Launcher: Add running on current workspace indicator (#255)</code>](https://github.com/elementary/dock/commit/db6d118de5ec95c4981f380f0bc35fd496ef88ec)
+- [ ] [<code>MainWindow: Use pantheon protocol under X11 (#263)</code>](https://github.com/elementary/dock/commit/02d63cbede620e9d7e4bc28f5fce5ba79ab44cb2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/dock/commit/bf4ced238079be2c78f13ffa7521c9d68a7c7745)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -1145,6 +1149,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Plank: replace switchboard with settings (#313)</code>](https://github.com/elementary/default-settings/commit/b79f6b0a600f768b9cedd801804800923fe2ae64)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Plank (#314)</code>](https://github.com/elementary/default-settings/commit/c00f29c5d9e2e5de9b58700d7e9692a51261ad39)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1191,6 +1198,7 @@
 - [ ] [<code>Revert "MainWindow: Better detect when running in live session (#733)" (#736)</code>](https://github.com/elementary/greeter/commit/754166652de5ba9e698eb64daa2b895602737748)
 - [ ] [<code>Implement zoom (#739)</code>](https://github.com/elementary/greeter/commit/5558c23df7104f53c4a2ff67d4525d661144d982)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove rounded corners (#745)</code>](https://github.com/elementary/greeter/commit/1472b265520394d174ad64bf4c66303f83f8eca6)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
 
@@ -1401,6 +1409,12 @@
 - [ ] [<code>GSchema: remove deprecated keys (#2000)</code>](https://github.com/elementary/gala/commit/66679ca79662cff3eca5b4d850aeec4bad23bbd4)
 - [ ] [<code>DBus: cleanup (#2001)</code>](https://github.com/elementary/gala/commit/c84a10d0f9e984f22aea676c024f4a073bcac3b7)
 - [ ] [<code>PiP: Fix shadow (#2005)</code>](https://github.com/elementary/gala/commit/2396f7fba261d42042b0726ea785bade77d93ccc)
+- [ ] [<code>ShellClients: Allow X11 clients to use pantheon protocol via mutter hints (#2002)</code>](https://github.com/elementary/gala/commit/df5cb17ad1d2be2b1bd3a17889da43e3d22ef2ed)
+- [ ] [<code>Launch dock on X (#2008)</code>](https://github.com/elementary/gala/commit/1800c07eeeafabd015a371175bb53b6100e7154e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ShellClients: Don't make centered clients docks but allow their shortcut inhibition without dialog (#1995)</code>](https://github.com/elementary/gala/commit/31b89393469eb9ba61e78f97fefdd1c9eb705f83)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code> DesktopIntegration/focus_window: Shake window and bell if already focused  (#2006)</code>](https://github.com/elementary/gala/commit/73143876fb019329e2160fd38f3db89f9b0cc380)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1531,6 +1545,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-network/commit/43df2e74480c8363cedf40bcb5f87c10a3f44938)
 - [ ] [<code>Metainfo: add 7.1.1 release notes (#316)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1e349a853b6cd004129c0a8ac4e4ec643309623f)
+- [ ] [<code>Show Cellular Modems as Toggles (#279)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c7eb81a6faad6d89021a394065fc97326c3b2)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
@@ -1758,3 +1773,4 @@
 - [ ] [<code>Desktop: replace gnome-bluetooth with elementary bluetooth daemon (#129)</code>](https://github.com/elementary/seeds/commit/c38307a2e25cd4695ec9e79988fe2c1763696ba6)
 - [ ] [<code>Desktop: settings-bluetooth → settings.bluetooth (#130)</code>](https://github.com/elementary/seeds/commit/55aa01089189a28edc98c41e3a98d48c35523556)
 - [ ] [<code>Desktop: settings-mouse-touchpad → settings.mouse-touchpad (#131)</code>](https://github.com/elementary/seeds/commit/b370872b3c62e9bad6ff99d02709d5a2f96aaf15)
+- [ ] [<code>SDK: remove old switchboard lib (#135)</code>](https://github.com/elementary/seeds/commit/0fd413905b9c6afc335850032c3df4c11e896601)
