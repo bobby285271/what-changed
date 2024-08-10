@@ -266,6 +266,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>TerminalView: ReLoad→Reload (#767)</code>](https://github.com/elementary/terminal/commit/d20333779f8ee1020285b057d1552f96664bd111)
 - [ ] [<code>Fix empty context menu regression (#768)</code>](https://github.com/elementary/terminal/commit/b7da3a500dc13a71e75a206fdb07d03f711d1cdd)
+- [ ] [<code>Use GLib.MenuModel for context menu (#769)</code>](https://github.com/elementary/terminal/commit/2e643de99cc76586b36eb316fda168e8410ec6e2)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
@@ -1152,6 +1153,10 @@
 - [ ] [<code>Remove Plank (#314)</code>](https://github.com/elementary/default-settings/commit/c00f29c5d9e2e5de9b58700d7e9692a51261ad39)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Release 8.0.0 (#307)</code>](https://github.com/elementary/default-settings/commit/70f24f5fd100b33b8ada0b10e57ea6e6ba0de189)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/fbf938ec7ede17d23a0867baa516a80c7a25bf01)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
