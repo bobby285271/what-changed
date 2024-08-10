@@ -8,11 +8,13 @@
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.8...HEAD)
 
 - [ ] [<code>cs_default.py: Disable mousewheel selection in the default app</code>](https://github.com/linuxmint/cinnamon/commit/d7eddb79dc593e23b2a96b23b2b8b17847e2f755)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.2.9</code>](https://github.com/linuxmint/cinnamon/commit/1f5bb2250a50884b63c236343197e2b9518e56d8)
   - <sub>Tags: <code>6.2.9</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cs_themes: Don't mess with the stack switcher's sensitivity.</code>](https://github.com/linuxmint/cinnamon/commit/da63f90c300d4479b0cb2b62b0a93c6236915cc2)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
