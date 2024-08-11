@@ -98,6 +98,8 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.5 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.5...HEAD)
 
+- [ ] [<code>mate-xapp-status-applet: Fix application theme provider due to</code>](https://github.com/linuxmint/xapp/commit/17955c925c4b90f12af538a67bc417c62eb1c6d3)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
 
@@ -143,6 +145,10 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
+- [ ] [<code>Remove Gdk references and meson dependency.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b364687b8a696c78f2d3c46e0c45c2dc28e79a33)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
