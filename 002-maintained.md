@@ -430,6 +430,8 @@
 - [ ] [<code>metainfo: Add more URLs (#240)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6ecfadc0b46e01ff9cdb87d007657a6b7e913567)
 - [ ] [<code>Refactor OpenButton (#241)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b68519826327f82da70668df740e2063739a11e5)
 - [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/189e15d21f106a3ba9d7910be3ebde6756fa5868)
+- [ ] [<code>Separate widget classes (#242)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2fd335db81d0f60f7c5437cbf2f4dda56ec30cd1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.10.5 → HEAD](https://github.com/alainm23/planify/compare/4.10.5...HEAD)
 
