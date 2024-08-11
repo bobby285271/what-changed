@@ -267,6 +267,7 @@
 - [ ] [<code>TerminalView: ReLoad→Reload (#767)</code>](https://github.com/elementary/terminal/commit/d20333779f8ee1020285b057d1552f96664bd111)
 - [ ] [<code>Fix empty context menu regression (#768)</code>](https://github.com/elementary/terminal/commit/b7da3a500dc13a71e75a206fdb07d03f711d1cdd)
 - [ ] [<code>Use GLib.MenuModel for context menu (#769)</code>](https://github.com/elementary/terminal/commit/2e643de99cc76586b36eb316fda168e8410ec6e2)
+- [ ] [<code>Don't set icon size for button from icon name (#771)</code>](https://github.com/elementary/terminal/commit/3fc7bf0b16c665a3c999f0ccbe57c1d6521512ba)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
