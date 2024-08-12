@@ -660,6 +660,7 @@
 - [ ] [<code>Release 8.0.0 (#237)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b453f3c696f1f896d4a5ca30118056cf65af91c4)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix changing primary mouse button (#242)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/c793b4ab2ebaf03be8b953aa907ca28adc48ef5e)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -1464,6 +1465,10 @@
 - [ ] [<code>Metainfo: add 8 release notes (#547)</code>](https://github.com/elementary/wingpanel/commit/52098b84c53d2f2d1320a708575a5ed6ecdbad7a)
 - [ ] [<code>Application: don't hardcode theme (#554)</code>](https://github.com/elementary/wingpanel/commit/8e21f3df20cc5bf72365070ffe1ad2ab0cbfca5d)
 - [ ] [<code>CSS: add padding between text and icons (#553)</code>](https://github.com/elementary/wingpanel/commit/725c598917760b0502d8d4c5da3ed336268d03f8)
+- [ ] [<code>PanelWindow/X11: Use pantheon protocol for positioning, struts, etc. (#551)</code>](https://github.com/elementary/wingpanel/commit/2081bb66e623266242dc3b21f11354d9fd4e3f46)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix deprecations and cleanup (#557)</code>](https://github.com/elementary/wingpanel/commit/50069d00e786d004f25d0f221ac2678d829c58b5)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
