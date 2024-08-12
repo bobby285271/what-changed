@@ -547,6 +547,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e56a76a63c8a79d85d4baeff372a99e6e64c5b36)
+- [ ] [<code>Update timezone translations (#131)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/dca7622b7cfd8cc71611648abea8100f20f54bc4)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/7.0.0...HEAD)
 
