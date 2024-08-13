@@ -433,6 +433,8 @@
 - [ ] [<code>Separate widget classes (#242)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2fd335db81d0f60f7c5437cbf2f4dda56ec30cd1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2edc1a659dcb5f7819a94848b46797b10c705100)
+- [ ] [<code>icons: Install png into hicolor size folder (#243)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a324a93b1c0eaaa904f24a814a3c28f03d04a27d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.10.7 → HEAD](https://github.com/alainm23/planify/compare/4.10.7...HEAD)
 
