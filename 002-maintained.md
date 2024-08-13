@@ -432,22 +432,10 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/189e15d21f106a3ba9d7910be3ebde6756fa5868)
 - [ ] [<code>Separate widget classes (#242)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2fd335db81d0f60f7c5437cbf2f4dda56ec30cd1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2edc1a659dcb5f7819a94848b46797b10c705100)
 
-#### [planify](https://github.com/alainm23/planify): [4.10.5 → HEAD](https://github.com/alainm23/planify/compare/4.10.5...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.10.7 → HEAD](https://github.com/alainm23/planify/compare/4.10.7...HEAD)
 
-- [ ] [<code>po: Updated Hindi Translation</code>](https://github.com/alainm23/planify/commit/0e9cfb075304d02567ab98ca92aa79cce2b3785c)
-- [ ] [<code>fix #1395</code>](https://github.com/alainm23/planify/commit/e3f42bb4ab0ada5cc6ea0812b1b6a97c1bb27885)
-- [ ] [<code>Merge pull request #1392 from Scrambled777/master</code>](https://github.com/alainm23/planify/commit/fbe6f07d18dbb48902e466cbee8324eb28821a88)
-- [ ] [<code>relase 4.10.6</code>](https://github.com/alainm23/planify/commit/e58c62f5e6589d195e081746b3a7c129d6c9448f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge branch 'master' of https://github.com/alainm23/planify</code>](https://github.com/alainm23/planify/commit/c46684e7560b794ea20bc77402b7f9e9c4cbf5a4)
-  - <sub>Tags: <code>4.10.6</code></sub>
-- [ ] [<code>Removed GenericName key from desktop entry</code>](https://github.com/alainm23/planify/commit/88b37506e226daf7ccda913bb263e42ecea0e4db)
-- [ ] [<code>fix #1398</code>](https://github.com/alainm23/planify/commit/030860134e8c86eae212be0057306c821d51efff)
-- [ ] [<code>Merge pull request #1396 from FaridZelli/patch-1</code>](https://github.com/alainm23/planify/commit/7a6e625d169d76fb788f94f9e86b0faa43be048e)
-- [ ] [<code>release 4.10.7</code>](https://github.com/alainm23/planify/commit/79375fb947e8ea1b94e189e2f0519a003236f565)
-  - <sub>Tags: <code>4.10.7</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
