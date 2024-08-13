@@ -272,12 +272,8 @@
 - [ ] [<code>Use GLib.MenuModel for context menu (#769)</code>](https://github.com/elementary/terminal/commit/2e643de99cc76586b36eb316fda168e8410ec6e2)
 - [ ] [<code>Don't set icon size for button from icon name (#771)</code>](https://github.com/elementary/terminal/commit/3fc7bf0b16c665a3c999f0ccbe57c1d6521512ba)
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
-- [ ] [<code>flatpak: Install gst-plugins-rs to /app/lib (#391)</code>](https://github.com/elementary/videos/commit/d6c385ef54d2b3f48ecb61932ce4faae9d41b3d1)
-- [ ] [<code>Release 8.0.1 (#392)</code>](https://github.com/elementary/videos/commit/95c92a4effb6a52a9ee16af17c39d3791219d9bf)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
