@@ -255,6 +255,9 @@
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
+- [ ] [<code>Use the portal (#284)</code>](https://github.com/elementary/screenshot/commit/87d7563f11cbae4788df58916e11d9c480382672)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -271,6 +274,10 @@
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.0 → HEAD](https://github.com/elementary/videos/compare/8.0.0...HEAD)
 
+- [ ] [<code>flatpak: Install gst-plugins-rs to /app/lib (#391)</code>](https://github.com/elementary/videos/commit/d6c385ef54d2b3f48ecb61932ce4faae9d41b3d1)
+- [ ] [<code>Release 8.0.1 (#392)</code>](https://github.com/elementary/videos/commit/95c92a4effb6a52a9ee16af17c39d3791219d9bf)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
@@ -662,6 +669,7 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix changing primary mouse button (#242)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/c793b4ab2ebaf03be8b953aa907ca28adc48ef5e)
+- [ ] [<code>Clicking: check active when toggled (#243)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f6b5aa724814f77e48d33932e495fdabf47bb268)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -836,6 +844,8 @@
 - [ ] [<code>Release 8.0.0 (#408)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/11b0430542ecd38f94b5ecdc2ae579e951ff1805)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Set preferred color theme for mutter (#413)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bdc8c167fabe5a4642efd37b0289e235e5d0a504)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1252,6 +1262,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add Gettext workflow</code>](https://github.com/elementary/session-settings/commit/4c532541ca43e0f0fde2cfc9968f74bf1686297c)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/session-settings/commit/6c7c0e51665eda9829ae9394011cfd050900b12b)
+- [ ] [<code>Release 8.0.0 (#80)</code>](https://github.com/elementary/session-settings/commit/ee471fb367004fe0cf9ec084001558ed60b212a0)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
@@ -1423,6 +1436,10 @@
 - [ ] [<code>ShellClients: Don't make centered clients docks but allow their shortcut inhibition without dialog (#1995)</code>](https://github.com/elementary/gala/commit/31b89393469eb9ba61e78f97fefdd1c9eb705f83)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code> DesktopIntegration/focus_window: Shake window and bell if already focused  (#2006)</code>](https://github.com/elementary/gala/commit/73143876fb019329e2160fd38f3db89f9b0cc380)
+- [ ] [<code>Sort windows by stacking order before workspace switch (#2013)</code>](https://github.com/elementary/gala/commit/ee003805d8b4f4d11c9db3b6c7c265500ca86a06)
+- [ ] [<code>ScreenshotManager: Fix saving to clipboard (#2017)</code>](https://github.com/elementary/gala/commit/e0624ac354ece677d4a559aca1025c3746f0045d)
+- [ ] [<code>Remove blurry rounded corners (#2018)</code>](https://github.com/elementary/gala/commit/6f5d3234c5d771561cb1a7450472e20dcf766b94)
+- [ ] [<code>DesktopIntegration: Don't send positioned windows (#2020)</code>](https://github.com/elementary/gala/commit/0dd5bd838d5707979ce68ced83de5cbdec889c00)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1470,6 +1487,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix deprecations and cleanup (#557)</code>](https://github.com/elementary/wingpanel/commit/50069d00e786d004f25d0f221ac2678d829c58b5)
+- [ ] [<code>Fix fractional scaling (#559)</code>](https://github.com/elementary/wingpanel/commit/be6e705a82a6a2b78ce8aa7ccc9f317bfea63ffd)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1659,6 +1677,8 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-daemon/commit/137a4860e7466d9e5c3b6410b90679e275753dc3)
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/a44f59785b6ca2480c4b801da54ea1e66d950b22)
+- [ ] [<code>Set preferred color scheme for mutter (#154)</code>](https://github.com/elementary/settings-daemon/commit/eb1690e55ab715fddccea5c762870092777a0b71)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1671,6 +1691,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
+- [ ] [<code>Screenshot: Fix the interactive dialog being visible in screenshots of the entire screen (#109)</code>](https://github.com/elementary/portals/commit/c0dd8de64665f5ebc316ce915e5c61f84b3daa04)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
