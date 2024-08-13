@@ -5,14 +5,13 @@
 #### [bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
 
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.8...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.9...HEAD)
 
-- [ ] [<code>cs_default.py: Disable mousewheel selection in the default app</code>](https://github.com/linuxmint/cinnamon/commit/d7eddb79dc593e23b2a96b23b2b8b17847e2f755)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.2.9</code>](https://github.com/linuxmint/cinnamon/commit/1f5bb2250a50884b63c236343197e2b9518e56d8)
-  - <sub>Tags: <code>6.2.9</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cs_themes: Don't mess with the stack switcher's sensitivity.</code>](https://github.com/linuxmint/cinnamon/commit/da63f90c300d4479b0cb2b62b0a93c6236915cc2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Enable stack switcher when navingating out the theme modules (#12300)</code>](https://github.com/linuxmint/cinnamon/commit/79be9888955228b8c199adb0e4917462222ba264)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Revert "cs_themes: Don't mess with the stack switcher's sensitivity."</code>](https://github.com/linuxmint/cinnamon/commit/c7eedb1fcc8bf62ad40e19c59875ed205a6610cd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -71,18 +70,8 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
 
-#### [nemo](https://github.com/linuxmint/nemo): [6.2.7 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.7...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
-- [ ] [<code>Remove .nemo_action language files from files/usr, they're already</code>](https://github.com/linuxmint/nemo/commit/cbce62f20a8a491799bd38842a830deca0d573df)
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Remove gtk-layer-shell (#3443)</code>](https://github.com/linuxmint/nemo/commit/bf14c29db4702b7be612df80a76994d792b99804)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix some codespell complaints.</code>](https://github.com/linuxmint/nemo/commit/047aaadf9ebf0487fc984d7813d8be444cad8cdd)
-- [ ] [<code>6.2.8</code>](https://github.com/linuxmint/nemo/commit/46313e659bdbe49338e3e09dcd989f212c3747c6)
-  - <sub>Tags: <code>6.2.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
