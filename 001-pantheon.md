@@ -271,6 +271,7 @@
 - [ ] [<code>Fix empty context menu regression (#768)</code>](https://github.com/elementary/terminal/commit/b7da3a500dc13a71e75a206fdb07d03f711d1cdd)
 - [ ] [<code>Use GLib.MenuModel for context menu (#769)</code>](https://github.com/elementary/terminal/commit/2e643de99cc76586b36eb316fda168e8410ec6e2)
 - [ ] [<code>Don't set icon size for button from icon name (#771)</code>](https://github.com/elementary/terminal/commit/3fc7bf0b16c665a3c999f0ccbe57c1d6521512ba)
+- [ ] [<code>fix(Themes): increase contrast for gray, fixes #682 (#755)</code>](https://github.com/elementary/terminal/commit/7b461cf85952aed1c8bdf86d2ee832de2f1b0c90)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -1110,6 +1111,8 @@
 - [ ] [<code>Unify Symbolic Color: Devices (#1300)</code>](https://github.com/elementary/icons/commit/6d7e41c634b8a4d140e2e08c287fbe4947d8193f)
 - [ ] [<code>Unify Symbolic Colors: Categories (#1299)</code>](https://github.com/elementary/icons/commit/9ea0ffc4aacced6b6ce1934dac2c8390ccb4a333)
 - [ ] [<code>Unify Symbolic Colors: Apps (#1298)</code>](https://github.com/elementary/icons/commit/629f31331f0f6d3b6656fc393dfc7b3da3c6b380)
+- [ ] [<code>Categories: handle symlinks in the build system (#1279)</code>](https://github.com/elementary/icons/commit/8175dab1210f45be6318d5e03fe42b2eb795474c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1436,6 +1439,8 @@
 - [ ] [<code>ScreenshotManager: Fix saving to clipboard (#2017)</code>](https://github.com/elementary/gala/commit/e0624ac354ece677d4a559aca1025c3746f0045d)
 - [ ] [<code>Remove blurry rounded corners (#2018)</code>](https://github.com/elementary/gala/commit/6f5d3234c5d771561cb1a7450472e20dcf766b94)
 - [ ] [<code>DesktopIntegration: Don't send positioned windows (#2020)</code>](https://github.com/elementary/gala/commit/0dd5bd838d5707979ce68ced83de5cbdec889c00)
+- [ ] [<code>Remove leftovers from gala.css (#2021)</code>](https://github.com/elementary/gala/commit/4461b501c1113ee1a3f5bfcf79e63980277081a4)
+- [ ] [<code>Zoom: avoid using `Gdk.beep` (#2022)</code>](https://github.com/elementary/gala/commit/d1b04e228c2f4ca1edec6bfc7b21b2df4dbac443)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1514,6 +1519,11 @@
 - [ ] [<code>Metainfo: modernize, organize, add missing tags (#598)</code>](https://github.com/elementary/applications-menu/commit/b5960860ab5c72fc6e06ca7d73311922d2cb5ed3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#599)</code>](https://github.com/elementary/applications-menu/commit/353396b78f39521b0eccf28a9df7c87403a48026)
+- [ ] [<code>Fix navigation by keyboard in GridView (#585)</code>](https://github.com/elementary/applications-menu/commit/cd636c3ae73b956ab4d40c9330c846e422b93e4b)
+- [ ] [<code>Update applications-menu.metainfo.xml.in</code>](https://github.com/elementary/applications-menu/commit/99ab640df803d5212b4f0cf21d58a877f71129e6)
+- [ ] [<code>metainfo: fix bad syntax</code>](https://github.com/elementary/applications-menu/commit/73a1c67717cd51c1b42bd83b46af998386c8a10f)
+- [ ] [<code>Meson: fix deprecation warnings (#602)</code>](https://github.com/elementary/applications-menu/commit/ff184bc1290d0aba1dec4ef6935b86d13bd1f274)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
