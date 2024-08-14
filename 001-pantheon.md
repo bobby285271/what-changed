@@ -1008,6 +1008,7 @@
 - [ ] [<code>Release 8.0.0 (#79)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/488644b42d7e3ddbab2b8d9714d40ade3ee203b2)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bluetooth in the title case (#82)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d04c55f8a1d986743db12e66915c7d1aea1fcb88)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [2.3.3 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/2.3.3...HEAD)
 
@@ -1441,6 +1442,7 @@
 - [ ] [<code>DesktopIntegration: Don't send positioned windows (#2020)</code>](https://github.com/elementary/gala/commit/0dd5bd838d5707979ce68ced83de5cbdec889c00)
 - [ ] [<code>Remove leftovers from gala.css (#2021)</code>](https://github.com/elementary/gala/commit/4461b501c1113ee1a3f5bfcf79e63980277081a4)
 - [ ] [<code>Zoom: avoid using `Gdk.beep` (#2022)</code>](https://github.com/elementary/gala/commit/d1b04e228c2f4ca1edec6bfc7b21b2df4dbac443)
+- [ ] [<code>Fix move/resize actions (#2019)</code>](https://github.com/elementary/gala/commit/02ecf0d08bd7ddd6b14a8e7d09768461c30ec0e1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1489,6 +1491,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix deprecations and cleanup (#557)</code>](https://github.com/elementary/wingpanel/commit/50069d00e786d004f25d0f221ac2678d829c58b5)
 - [ ] [<code>Fix fractional scaling (#559)</code>](https://github.com/elementary/wingpanel/commit/be6e705a82a6a2b78ce8aa7ccc9f317bfea63ffd)
+- [ ] [<code>metainfo: Fix typo 'scoll' -> 'scroll' (#560)</code>](https://github.com/elementary/wingpanel/commit/a505dcd313909d2d5d99470d5b1ca64c44bcd0f2)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1524,6 +1527,9 @@
 - [ ] [<code>metainfo: fix bad syntax</code>](https://github.com/elementary/applications-menu/commit/73a1c67717cd51c1b42bd83b46af998386c8a10f)
 - [ ] [<code>Meson: fix deprecation warnings (#602)</code>](https://github.com/elementary/applications-menu/commit/ff184bc1290d0aba1dec4ef6935b86d13bd1f274)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Unity badges without Plank (#601)</code>](https://github.com/elementary/applications-menu/commit/3dc87025b65df6cb2c44119df817073160a410a8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
