@@ -40,6 +40,8 @@
 - [ ] [<code>Simplify authClient.py pam helper path.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/5d03ee9a8f0977f9e6352e69c385f1a6ffc3323d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>fix executable libraries</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0ad273fdecf9f8a376aab4a62af76594750ce4aa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Debian packaging improvement (#459)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/96e53956e445a7e2225330b7b26e29a91aa9a90d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
