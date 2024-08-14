@@ -32,7 +32,16 @@
 - [ ] [<code>cs-backup-locker.c: Exit gracefully if incorrect arguments are</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/44aaa483c84cac4402216302e123b90a9d789088)
 - [ ] [<code>Make codespell happy.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f54ad03d893fd0d63d229cc5abde8f9f9fa16171)
 - [ ] [<code>unlock dialog: Allow password visibility to be toggled.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e32b611286398cf31c8dfa0977beb723f68e190f)
+- [ ] [<code>Follow-up to 60ad855 - remove g-codegen.py now that it is unreferenced. (#458)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/9ee1a946aa61395abe7085c39cd05b67c361b965)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Don't package private library and typelib files separately.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ec41dda504f471aab17aeda019e18c685c11cff8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Simplify authClient.py pam helper path.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/5d03ee9a8f0977f9e6352e69c385f1a6ffc3323d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix executable libraries</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0ad273fdecf9f8a376aab4a62af76594750ce4aa)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
