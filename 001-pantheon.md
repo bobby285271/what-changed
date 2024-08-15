@@ -575,6 +575,14 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/switchboard-plug-display/commit/f45948da6872787aea53856e41ccb30ca61f9132)
 - [ ] [<code>l10n: Make use_switch translatable (#383)</code>](https://github.com/elementary/switchboard-plug-display/commit/58627fa60406cfb437428dea1a45a3ee34018b7a)
 - [ ] [<code>Fix some apply unsensitive issues (#385)</code>](https://github.com/elementary/switchboard-plug-display/commit/66b90c239040a6556afa5039b1557c8775aa2cb2)
+- [ ] [<code>metainfo: Add release note for 8.0.0 (#390)</code>](https://github.com/elementary/switchboard-plug-display/commit/10eccb6b5dab531225e2530e1aa870b8ad437b34)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/switchboard-plug-display/commit/a68c928241c638daa9bf476f48400781c6c7ac9d)
+- [ ] [<code>MonitorManager: emit modes_changed (#393)</code>](https://github.com/elementary/switchboard-plug-display/commit/3d1870b51f55898a0ee1671c458477d65717fdfc)
+- [ ] [<code>Show errors when applying (#394)</code>](https://github.com/elementary/switchboard-plug-display/commit/99f28832023dafe661dc688882398da434ebe511)
+- [ ] [<code>Display: Support fractional scaling if enabled (#392)</code>](https://github.com/elementary/switchboard-plug-display/commit/76e333c206770bfe033ce4eba4eea88b19eea266)
+- [ ] [<code>Metainfo: update 8 release notes (#395)</code>](https://github.com/elementary/switchboard-plug-display/commit/b935cbec9273ce71b3082740a31f9e25dc4d4e7c)
+- [ ] [<code>Create SensorManager, detect before accel search result (#388)</code>](https://github.com/elementary/switchboard-plug-display/commit/ecbc33f398d3222711c0590e15ba67d1c679abad)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -1218,35 +1226,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove rounded corners (#745)</code>](https://github.com/elementary/greeter/commit/1472b265520394d174ad64bf4c66303f83f8eca6)
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [7.2.0 → HEAD](https://github.com/elementary/onboarding/compare/7.2.0...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
-- [ ] [<code>Meson: remove deprecations</code>](https://github.com/elementary/onboarding/commit/1f461a357592628fefce69e215fbc450d558a4a9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Allow focusing PageChecker, scroll to View when it contains focus (#218)</code>](https://github.com/elementary/onboarding/commit/31d50845627e6379bd9088bd62ef64617314dcb9)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#220)</code>](https://github.com/elementary/onboarding/commit/4d21e3f46a4d9163715e2e92d5f731af15d92cff)
-- [ ] [<code>Application: use Granite.init (#222)</code>](https://github.com/elementary/onboarding/commit/7cdc8aae44674ddfc3a7f5f24594ea301fcab779)
-- [ ] [<code>Improve screenreader support (#225)</code>](https://github.com/elementary/onboarding/commit/8e06c643e28e252a36b8d412067ec80498c86e8e)
-- [ ] [<code>UpdatesView: add OS updates (#224)</code>](https://github.com/elementary/onboarding/commit/421cb87933825aa2ec623d167158b3089b7326cf)
-- [ ] [<code>Housekeeping: use elementary settings daemon (#226)</code>](https://github.com/elementary/onboarding/commit/21c51e04060a967fab0c599ae0e8b4b3884c27b6)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/onboarding/commit/0721b5c4ad5c323cdceb400ee9dfa512abcbe361)
-- [ ] [<code>Metainfo: add 8 release notes (#227)</code>](https://github.com/elementary/onboarding/commit/afd2032993a0ddb9955b1b3f2450a93bb6537a08)
-- [ ] [<code>OnlineAccountsView: use icon shipped with System Settings (#230)</code>](https://github.com/elementary/onboarding/commit/7c3ecd189fd7e7a202b924b4f6d002b433004080)
-- [ ] [<code>Replace Carousel with NavigationView (#232)</code>](https://github.com/elementary/onboarding/commit/c880e532c6ac6f1efc855a62f27fa8dffa767228)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Make sure to use latest gettext-template; remove git installation (#233)</code>](https://github.com/elementary/onboarding/commit/cf7df50a12ea6397ba5f4b9c7125282f9993a57e)
-- [ ] [<code>Bump libadwaita version (#234)</code>](https://github.com/elementary/onboarding/commit/9f8a42c779686ba0712a48640cf636751f239b57)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>AbstractOnboardingView: move padding, icon size, margin to CSS (#235)</code>](https://github.com/elementary/onboarding/commit/f8928f8aeec7ae922b6b53c45764c4d83110161a)
-- [ ] [<code>Improve screenreader experience (#231)</code>](https://github.com/elementary/onboarding/commit/a92ac3ec6c608f2ba27aad8c978059246c06b595)
-- [ ] [<code>Update screenshot</code>](https://github.com/elementary/onboarding/commit/34289838f5113870f585dacb2bfff402780c2399)
-- [ ] [<code>Release 8.0.0 (#228)</code>](https://github.com/elementary/onboarding/commit/1aa7119523ffbde7c6e8ac44eeedcdf3485063a2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/onboarding/commit/d59877af228c81788d0206b8140f2115a026c0f9)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/onboarding/commit/f2175f6ef873f518e8a830f67761466deaef27e3)
-- [ ] [<code>Update translation files</code>](https://github.com/elementary/onboarding/commit/73cf7a42659f145de1cb3692fbbf16a833baf9d0)
-  - <sub>Tags: <code>8.0.0</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1443,6 +1424,7 @@
 - [ ] [<code>Remove leftovers from gala.css (#2021)</code>](https://github.com/elementary/gala/commit/4461b501c1113ee1a3f5bfcf79e63980277081a4)
 - [ ] [<code>Zoom: avoid using `Gdk.beep` (#2022)</code>](https://github.com/elementary/gala/commit/d1b04e228c2f4ca1edec6bfc7b21b2df4dbac443)
 - [ ] [<code>Fix move/resize actions (#2019)</code>](https://github.com/elementary/gala/commit/02ecf0d08bd7ddd6b14a8e7d09768461c30ec0e1)
+- [ ] [<code>Metainfo: add latest bug fixes (#2025)</code>](https://github.com/elementary/gala/commit/a21b5c8acd9ce7557b44986af387a4824480098a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1492,6 +1474,9 @@
 - [ ] [<code>Fix deprecations and cleanup (#557)</code>](https://github.com/elementary/wingpanel/commit/50069d00e786d004f25d0f221ac2678d829c58b5)
 - [ ] [<code>Fix fractional scaling (#559)</code>](https://github.com/elementary/wingpanel/commit/be6e705a82a6a2b78ce8aa7ccc9f317bfea63ffd)
 - [ ] [<code>metainfo: Fix typo 'scoll' -> 'scroll' (#560)</code>](https://github.com/elementary/wingpanel/commit/a505dcd313909d2d5d99470d5b1ca64c44bcd0f2)
+- [ ] [<code>Reset indicator selection when popover is closed (#561)</code>](https://github.com/elementary/wingpanel/commit/a736c1dcbb41522efdf2bf2481be027389e2d022)
+- [ ] [<code>Fix window drag (#558)</code>](https://github.com/elementary/wingpanel/commit/812c188725e339869f7b30b783098131538f1cee)
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1611,6 +1596,8 @@
 - [ ] [<code>Metainfo: organize, add missing fields, modernize (#258)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/3cc3417ddf6b40fa31cc1c4bd9351dd1ac8c5ca0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#259)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/916af891d081ecfa5e7bf9a8da10897596ee04e6)
+- [ ] [<code>Add power management mode selection (#262)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0d7dce4f5acbba4c62b670637e97e6728e7a40bf)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
