@@ -675,6 +675,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix changing primary mouse button (#242)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/c793b4ab2ebaf03be8b953aa907ca28adc48ef5e)
 - [ ] [<code>Clicking: check active when toggled (#243)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f6b5aa724814f77e48d33932e495fdabf47bb268)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e0ea847adc74991d8ceceeb2faa243fa645c9693)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -1425,6 +1426,7 @@
 - [ ] [<code>Zoom: avoid using `Gdk.beep` (#2022)</code>](https://github.com/elementary/gala/commit/d1b04e228c2f4ca1edec6bfc7b21b2df4dbac443)
 - [ ] [<code>Fix move/resize actions (#2019)</code>](https://github.com/elementary/gala/commit/02ecf0d08bd7ddd6b14a8e7d09768461c30ec0e1)
 - [ ] [<code>Metainfo: add latest bug fixes (#2025)</code>](https://github.com/elementary/gala/commit/a21b5c8acd9ce7557b44986af387a4824480098a)
+- [ ] [<code>ShellClients: Fix crash when positioning window while unmanaging (#2027)</code>](https://github.com/elementary/gala/commit/48b716337f51a8d1c798015c8d677d2d5fa36e4d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1678,6 +1680,7 @@
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/a44f59785b6ca2480c4b801da54ea1e66d950b22)
 - [ ] [<code>Set preferred color scheme for mutter (#154)</code>](https://github.com/elementary/settings-daemon/commit/eb1690e55ab715fddccea5c762870092777a0b71)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>SystemUpdate: Move offline trigger to end session dialog (#155)</code>](https://github.com/elementary/settings-daemon/commit/3de7862ee367054c0b190b4252a228c622fc7e01)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1691,6 +1694,11 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
 - [ ] [<code>Screenshot: Fix the interactive dialog being visible in screenshots of the entire screen (#109)</code>](https://github.com/elementary/portals/commit/c0dd8de64665f5ebc316ce915e5c61f84b3daa04)
+- [ ] [<code>Access/Dialog: Center and keep above on wayland (#114)</code>](https://github.com/elementary/portals/commit/1a825f6dcba9a0c42f369a933eaa38c4dbb8a0ec)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/portals/commit/4c3e230b7c7775906061e3684c70c2926573fe25)
+- [ ] [<code>Update ci.yml</code>](https://github.com/elementary/portals/commit/c31b6222f09afcb9c2a444f1617ddf576720b7d4)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
