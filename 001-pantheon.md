@@ -223,6 +223,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.0.0 → HEAD](https://github.com/elementary/files/compare/7.0.0...HEAD)
 
+- [ ] [<code>Do not activate "find" with space character (#2452)</code>](https://github.com/elementary/files/commit/3e238a4fb61fed7bb7a6e0da4827205f5081f1e6)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -1427,6 +1428,7 @@
 - [ ] [<code>Fix move/resize actions (#2019)</code>](https://github.com/elementary/gala/commit/02ecf0d08bd7ddd6b14a8e7d09768461c30ec0e1)
 - [ ] [<code>Metainfo: add latest bug fixes (#2025)</code>](https://github.com/elementary/gala/commit/a21b5c8acd9ce7557b44986af387a4824480098a)
 - [ ] [<code>ShellClients: Fix crash when positioning window while unmanaging (#2027)</code>](https://github.com/elementary/gala/commit/48b716337f51a8d1c798015c8d677d2d5fa36e4d)
+- [ ] [<code>ShellClients: Fix memory leak and crash (#2028)</code>](https://github.com/elementary/gala/commit/e994d5820f9535d70444f420fa15d2e6511081e5)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1479,6 +1481,7 @@
 - [ ] [<code>Reset indicator selection when popover is closed (#561)</code>](https://github.com/elementary/wingpanel/commit/a736c1dcbb41522efdf2bf2481be027389e2d022)
 - [ ] [<code>Fix window drag (#558)</code>](https://github.com/elementary/wingpanel/commit/812c188725e339869f7b30b783098131538f1cee)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix crash on X11 (#565)</code>](https://github.com/elementary/wingpanel/commit/90ac7105b87dc53d0c21fe31142d59c8a9615162)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
