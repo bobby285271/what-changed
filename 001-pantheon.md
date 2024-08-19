@@ -128,6 +128,7 @@
 - [ ] [<code>Replace all "_" characters in action names with "-" (#1457)</code>](https://github.com/elementary/code/commit/3fcac976282586d9c171c8649bf335e0cb74a4c6)
 - [ ] [<code>[GTK4 Prep] Create FileView Context Menu Items using GLib.MenuModel (#1458)</code>](https://github.com/elementary/code/commit/286aba9927c81f620428cf81f1772f3e74700028)
 - [ ] [<code>Add symbol filter to outline pane (#1253)</code>](https://github.com/elementary/code/commit/28a063c82489fab7fe6bdf7174fd9267087cc0e2)
+- [ ] [<code>Fix the app crashing when two folders with a common path (up to /) (#1460)</code>](https://github.com/elementary/code/commit/30092fddef29d8194b1bcab7489af0eacd3febad)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -677,6 +678,7 @@
 - [ ] [<code>Fix changing primary mouse button (#242)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/c793b4ab2ebaf03be8b953aa907ca28adc48ef5e)
 - [ ] [<code>Clicking: check active when toggled (#243)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f6b5aa724814f77e48d33932e495fdabf47bb268)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e0ea847adc74991d8ceceeb2faa243fa645c9693)
+- [ ] [<code>Set mnemonic widgets, groups (#246)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/2bf56773ac283a46d54b76c6a26cf16cdbc0d679)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [2.5.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/2.5.0...HEAD)
 
@@ -1603,6 +1605,7 @@
 - [ ] [<code>Metainfo: add 8 release notes (#259)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/916af891d081ecfa5e7bf9a8da10897596ee04e6)
 - [ ] [<code>Add power management mode selection (#262)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0d7dce4f5acbba4c62b670637e97e6728e7a40bf)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PowerModeList: misc cleanup (#263)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4627e621baa280dc8042e94877e40cef9ceca1ff)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
