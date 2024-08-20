@@ -218,6 +218,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/dock/commit/bf4ced238079be2c78f13ffa7521c9d68a7c7745)
+- [ ] [<code>Metainfo: add latest bug fixes (#267)</code>](https://github.com/elementary/dock/commit/3f97d5c838f2dcb469133f172b394bed275f32a6)
+- [ ] [<code>Create release.yml</code>](https://github.com/elementary/dock/commit/2b0427501e4aae5d2ef8ff4be255882937d00f2b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -638,6 +640,8 @@
 - [ ] [<code>Release 8.0.0 (#515)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/5650a580c90781748b33726021e4bd026adac48f)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use new keybindings schema (#518)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/fed431bcf37447294000e021a2d50ca22c521ada)
+- [ ] [<code>Use new behavior schema (#519)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/085adc6ec20ebe78ad17daa62f2234e868a09413)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -758,6 +762,7 @@
 - [ ] [<code>Release 8.0.0 (#107)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/57a34e85fa4805199b099cc6228911177c6c793b)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>App: remove ancient gala notification schema (#108)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c93367b4616805082a8e17b430ae8e6a6ca6ae38)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [6.5.3 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.3...HEAD)
 
@@ -855,6 +860,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Set preferred color theme for mutter (#413)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/bdc8c167fabe5a4642efd37b0289e235e5d0a504)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Use new animations schema (#414)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a81cbaf39a7f404e0e7fc4411dca36c13cc6f8c8)
+- [ ] [<code>Use new behavior schema (#415)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ae325fd50dec743a05ba41b44bfa604e81b1606a)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d4853a8d67e216e4ee7efba472d571207d39d5da)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1047,6 +1055,7 @@
 - [ ] [<code>Release 8.0.0 (#275)</code>](https://github.com/elementary/switchboard-plug-sound/commit/06694e6f32fe2b73d9f2002f983ed0ca5b742ffc)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bind properties in correct order (#279)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8616cca554a97d177bedbfa7367805eab6f45f54)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [1.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/1.0.1...HEAD)
 
@@ -1182,6 +1191,8 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/fbf938ec7ede17d23a0867baa516a80c7a25bf01)
+- [ ] [<code>Use new behavior schema (#315)</code>](https://github.com/elementary/default-settings/commit/136fdd546ae1cae9b82de14086d09537d1b0e85a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -1253,6 +1264,8 @@
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
+- [ ] [<code>Use new keybindings schema (#148)</code>](https://github.com/elementary/shortcut-overlay/commit/cfcc83c261d557b1fe3ba5cca069cb0e6638d25b)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/shortcut-overlay/commit/02399c57c36a8a0b621c5cd583407b62bc9f976c)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -1431,6 +1444,15 @@
 - [ ] [<code>Metainfo: add latest bug fixes (#2025)</code>](https://github.com/elementary/gala/commit/a21b5c8acd9ce7557b44986af387a4824480098a)
 - [ ] [<code>ShellClients: Fix crash when positioning window while unmanaging (#2027)</code>](https://github.com/elementary/gala/commit/48b716337f51a8d1c798015c8d677d2d5fa36e4d)
 - [ ] [<code>ShellClients: Fix memory leak and crash (#2028)</code>](https://github.com/elementary/gala/commit/e994d5820f9535d70444f420fa15d2e6511081e5)
+- [ ] [<code>RDNN keybindings gsettings schema (#2032)</code>](https://github.com/elementary/gala/commit/408854bb95c877f770ec0a3fa0d0bf65b93b46f5)
+- [ ] [<code>RDNN animations schema (#2033)</code>](https://github.com/elementary/gala/commit/7058399ddb2415bb311ddde6aef843ecabf9e173)
+- [ ] [<code>RDNN behavior schema (#2034)</code>](https://github.com/elementary/gala/commit/320f1fa651bb718cea0d02120c1656fdfb7208c4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add latest bug fixes (#2035)</code>](https://github.com/elementary/gala/commit/315f1fc0591dd6331023ed64f334de0d50aa7215)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/gala/commit/68d4d17b3e2d9c2f480ca0349256135dfd78bcd6)
+- [ ] [<code>Release 8.0.0 (#1993)</code>](https://github.com/elementary/gala/commit/83df77aae064a296db7cae5e8306092b243eba53)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1522,6 +1544,8 @@
 - [ ] [<code>Unity badges without Plank (#601)</code>](https://github.com/elementary/applications-menu/commit/3dc87025b65df6cb2c44119df817073160a410a8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use new keybindings schema (#604)</code>](https://github.com/elementary/applications-menu/commit/675c6a74b8c6bd8535b514e6222d985f0072b7dc)
+- [ ] [<code>Use new behavior schema (#605)</code>](https://github.com/elementary/applications-menu/commit/846cd1017b89240abb240f64662b6ff266af51cd)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1687,6 +1711,7 @@
 - [ ] [<code>Set preferred color scheme for mutter (#154)</code>](https://github.com/elementary/settings-daemon/commit/eb1690e55ab715fddccea5c762870092777a0b71)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>SystemUpdate: Move offline trigger to end session dialog (#155)</code>](https://github.com/elementary/settings-daemon/commit/3de7862ee367054c0b190b4252a228c622fc7e01)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#156)</code>](https://github.com/elementary/settings-daemon/commit/b65b27aa96ada3f3dd28f238598d58e8ad466961)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
