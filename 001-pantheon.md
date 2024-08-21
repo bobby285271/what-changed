@@ -107,6 +107,7 @@
 - [ ] [<code>Release 8.0.0 (#2146)</code>](https://github.com/elementary/appcenter/commit/a5967b6b9b97edba471aac8b38e227b0d1747a72)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add support for new developer id (#2203)</code>](https://github.com/elementary/appcenter/commit/a47c0c1e5b74525a5916cefffffec1f5c03bbd94)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -220,6 +221,9 @@
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/dock/commit/bf4ced238079be2c78f13ffa7521c9d68a7c7745)
 - [ ] [<code>Metainfo: add latest bug fixes (#267)</code>](https://github.com/elementary/dock/commit/3f97d5c838f2dcb469133f172b394bed275f32a6)
 - [ ] [<code>Create release.yml</code>](https://github.com/elementary/dock/commit/2b0427501e4aae5d2ef8ff4be255882937d00f2b)
+- [ ] [<code>Release 8.0.0 (#261)</code>](https://github.com/elementary/dock/commit/16e338164dda95488171de01b6ec6d9691460c4e)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -276,6 +280,8 @@
 - [ ] [<code>Use GLib.MenuModel for context menu (#769)</code>](https://github.com/elementary/terminal/commit/2e643de99cc76586b36eb316fda168e8410ec6e2)
 - [ ] [<code>Don't set icon size for button from icon name (#771)</code>](https://github.com/elementary/terminal/commit/3fc7bf0b16c665a3c999f0ccbe57c1d6521512ba)
 - [ ] [<code>fix(Themes): increase contrast for gray, fixes #682 (#755)</code>](https://github.com/elementary/terminal/commit/7b461cf85952aed1c8bdf86d2ee832de2f1b0c90)
+- [ ] [<code>Show zoom level in overlaybar when changing. (#772)</code>](https://github.com/elementary/terminal/commit/5d4eae7896529b9736f2e11a17b0346a28050ccb)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -587,6 +593,10 @@
 - [ ] [<code>Metainfo: update 8 release notes (#395)</code>](https://github.com/elementary/switchboard-plug-display/commit/b935cbec9273ce71b3082740a31f9e25dc4d4e7c)
 - [ ] [<code>Create SensorManager, detect before accel search result (#388)</code>](https://github.com/elementary/switchboard-plug-display/commit/ecbc33f398d3222711c0590e15ba67d1c679abad)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 8.0.0 (#391)</code>](https://github.com/elementary/switchboard-plug-display/commit/310d75149780b94fe959f7fe576927c84b44ae05)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/a9b55a93e09caa41229902f297ec556f820db988)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [3.2.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.1...HEAD)
 
@@ -642,6 +652,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use new keybindings schema (#518)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/fed431bcf37447294000e021a2d50ca22c521ada)
 - [ ] [<code>Use new behavior schema (#519)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/085adc6ec20ebe78ad17daa62f2234e868a09413)
+- [ ] [<code>Release 8.0.1 (#520)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6e63405a36c2e1dc56d231624bf2501ba4503c74)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [7.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/7.0.0...HEAD)
 
@@ -863,6 +876,10 @@
 - [ ] [<code>Use new animations schema (#414)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a81cbaf39a7f404e0e7fc4411dca36c13cc6f8c8)
 - [ ] [<code>Use new behavior schema (#415)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/ae325fd50dec743a05ba41b44bfa604e81b1606a)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d4853a8d67e216e4ee7efba472d571207d39d5da)
+- [ ] [<code>Release 8.0.1 (#417)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/4cb09977f321d24d787ad71713ba69a319d20b0c)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Dock/Panel: Add setting for scroll to switch workspaces (#416)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b4cdead7291382145188014268532bac07016a27)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [2.7.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/2.7.0...HEAD)
 
@@ -1266,6 +1283,9 @@
 
 - [ ] [<code>Use new keybindings schema (#148)</code>](https://github.com/elementary/shortcut-overlay/commit/cfcc83c261d557b1fe3ba5cca069cb0e6638d25b)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/shortcut-overlay/commit/02399c57c36a8a0b621c5cd583407b62bc9f976c)
+- [ ] [<code>Release 8.0.1 (#149)</code>](https://github.com/elementary/shortcut-overlay/commit/53b974e0ec38b76f425e0a75e274b5e57458a9c6)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -1453,6 +1473,9 @@
 - [ ] [<code>Release 8.0.0 (#1993)</code>](https://github.com/elementary/gala/commit/83df77aae064a296db7cae5e8306092b243eba53)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowSwitcher: set accessible properties (#2030)</code>](https://github.com/elementary/gala/commit/be8b8a3a6003440647227c08ae96250d1ffb9134)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1506,6 +1529,8 @@
 - [ ] [<code>Fix window drag (#558)</code>](https://github.com/elementary/wingpanel/commit/812c188725e339869f7b30b783098131538f1cee)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix crash on X11 (#565)</code>](https://github.com/elementary/wingpanel/commit/90ac7105b87dc53d0c21fe31142d59c8a9615162)
+- [ ] [<code>Switch workspace when scrolling on the panel (#567)</code>](https://github.com/elementary/wingpanel/commit/819f9a8c8eabd62c25d32e07b972409ea9b25b12)
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -1630,6 +1655,7 @@
 - [ ] [<code>Add power management mode selection (#262)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0d7dce4f5acbba4c62b670637e97e6728e7a40bf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PowerModeList: misc cleanup (#263)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4627e621baa280dc8042e94877e40cef9ceca1ff)
+- [ ] [<code>Dont propagate scroll even if the delta is 0 (#264)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/63c335e8396e2853d9081d1fa25f85ae64998fe2)
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
