@@ -282,6 +282,7 @@
 - [ ] [<code>fix(Themes): increase contrast for gray, fixes #682 (#755)</code>](https://github.com/elementary/terminal/commit/7b461cf85952aed1c8bdf86d2ee832de2f1b0c90)
 - [ ] [<code>Show zoom level in overlaybar when changing. (#772)</code>](https://github.com/elementary/terminal/commit/5d4eae7896529b9736f2e11a17b0346a28050ccb)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>TerminalWidget: add doas checking (#774)</code>](https://github.com/elementary/terminal/commit/3f6f51cb37493533d57e13f5a47d4f4abe7c086b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -1476,6 +1477,10 @@
 - [ ] [<code>WindowSwitcher: set accessible properties (#2030)</code>](https://github.com/elementary/gala/commit/be8b8a3a6003440647227c08ae96250d1ffb9134)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Focus window when it demands attention (#2041)</code>](https://github.com/elementary/gala/commit/c3d894a3e0b4eb70e43deb758e70bd0f2ad06cde)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#2043)</code>](https://github.com/elementary/gala/commit/e43449ce0af267293b11f9e5cd974e4f005c9578)
+- [ ] [<code>Fix mutter 45 build (#2039)</code>](https://github.com/elementary/gala/commit/489de02f54d6dd2b92b6955c510e8555af09e32a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1530,6 +1535,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix crash on X11 (#565)</code>](https://github.com/elementary/wingpanel/commit/90ac7105b87dc53d0c21fe31142d59c8a9615162)
 - [ ] [<code>Switch workspace when scrolling on the panel (#567)</code>](https://github.com/elementary/wingpanel/commit/819f9a8c8eabd62c25d32e07b972409ea9b25b12)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Scale dimensions if we have a physical monitor layout (#566)</code>](https://github.com/elementary/wingpanel/commit/5393390572ffb81239897ccf8f275d43f843cde3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add new issues to metainfo (#569)</code>](https://github.com/elementary/wingpanel/commit/d223594968c3ea0c6c62f6cc6a7359c5c8558557)
+- [ ] [<code>Release 8.0.0 (#548)</code>](https://github.com/elementary/wingpanel/commit/d66d9ae9f97fe91ea8cc3dffaa2e05aab108b013)
+  - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
@@ -1590,6 +1601,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#216)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/7459e2dc1051f36280f80d278414c5862881fad6)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/b594387cfb7cbc621675dd3f2dbb1842d5d35a25)
+- [ ] [<code>Release 8.0.0 (#217)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/7bc59f1f9d8710c28d64ca951d7ca1d558bbfc18)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
 
@@ -1605,6 +1620,9 @@
 - [ ] [<code>Metainfo: organize, modernize, add missing fields (#314)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c417783ed01705d43899e4193726310c6f901f4c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 2.4.2 release notes (#315)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/d3e1c10c9cc5d5e4663f6bab01a6eaadd734efb6)
+- [ ] [<code>Release 2.4.2 (#316)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/f5fad6090a599f97cbf31335f1a4c654faf23780)
+  - <sub>Tags: <code>2.4.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
 
@@ -1620,6 +1638,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 2.4.2 release notes (#127)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b7a9b0b3679acead2a133bf436c240d434f5a0d)
 - [ ] [<code>Metainfo: fix gettext name</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/75b793059624a2fee87aed27dc024b8f6ff866d3)
+- [ ] [<code>Release 2.4.2 (#128)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bae22dd013703dbc534aba691106cb3259726715)
+  - <sub>Tags: <code>2.4.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
 
@@ -1629,18 +1650,31 @@
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-network/commit/43df2e74480c8363cedf40bcb5f87c10a3f44938)
 - [ ] [<code>Metainfo: add 7.1.1 release notes (#316)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1e349a853b6cd004129c0a8ac4e4ec643309623f)
 - [ ] [<code>Show Cellular Modems as Toggles (#279)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c7eb81a6faad6d89021a394065fc97326c3b2)
+- [ ] [<code>Metainfo: add line about cell modem toggle (#318)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/62deda49aaea9d8a42c619b56cdf7bf6558a863b)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/87d437ea2a48b94be4a32a4b89535ea826e79b1e)
+- [ ] [<code>Release 7.1.1 (#317)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/535ef901468179063fd5bd5950cc8330d4628b3b)
+  - <sub>Tags: <code>7.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 3 to 4 (#104)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6e3419dc1ec0d6c0e1f823f107c69028e34ede9c)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/9f91f5003629e70373e054acf002117633053227)
 - [ ] [<code>Metainfo: add 2.1.3 release notes (#105)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6eb146208fba481bc2b5eb26488e3e2bd4af867c)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/42002b1e54f5e5bf5c20255e36d06cb3fdbbcfc9)
+- [ ] [<code>Release 2.1.3 (#106)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/70922bc5986efde49b97a8ba8e7301c7bb4c1a67)
+  - <sub>Tags: <code>2.1.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
 - [ ] [<code>Remove unused argument (#274)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6f98e9d619f4f1cb24959d2bc3bd03887d50f600)
 - [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/228bb8368bb1dfde8452c5f816c7bff97bd8c71a)
 - [ ] [<code>Metainfo: add 7.1.1 release notes (#279)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/1e8da507690d387bce0812ccbffefff20aff4daf)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/339ff76aebe98ed5e8d8807d8e697ce024e475e2)
+- [ ] [<code>Release 7.1.1 (#280)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/564089f9b7e9a8a664e3d1fe3a87e7e21786c480)
+  - <sub>Tags: <code>7.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
@@ -1656,6 +1690,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PowerModeList: misc cleanup (#263)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4627e621baa280dc8042e94877e40cef9ceca1ff)
 - [ ] [<code>Dont propagate scroll even if the delta is 0 (#264)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/63c335e8396e2853d9081d1fa25f85ae64998fe2)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9c93953c9b0a3a0f26c40b66f51f95b2d692f28)
+- [ ] [<code>Release 8.0.0 (#260)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/edbd891e0f309725a8315fc5436c1ce74be003a3)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-session](https://github.com/elementary/wingpanel-indicator-session): [2.3.1 → HEAD](https://github.com/elementary/wingpanel-indicator-session/compare/2.3.1...HEAD)
 
@@ -1685,6 +1723,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Metainfo: add 8 release notes (#273)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8484060a3e67468a651ee82b4edfaa2f7903ab5c)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f3a2f8d8283c8fd2a00c9841edcdfb033a3ce3ea)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e283463a7b83d260b72fc4a605d6f092357d2384)
+- [ ] [<code>Release 8.0.0 (#274)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f9742a5ccd6980a401d4b66da05b10d7593e12de)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PlayerRow: fix icon size (#276)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6cc09556c9aecbf9275ef665667d3ce15845d15)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
