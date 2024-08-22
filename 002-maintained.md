@@ -436,12 +436,8 @@
 - [ ] [<code>icons: Install png into hicolor size folder (#243)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a324a93b1c0eaaa904f24a814a3c28f03d04a27d)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [planify](https://github.com/alainm23/planify): [4.10.7 → HEAD](https://github.com/alainm23/planify/compare/4.10.7...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.10.8 → HEAD](https://github.com/alainm23/planify/compare/4.10.8...HEAD)
 
-- [ ] [<code>fix #1405 #1306</code>](https://github.com/alainm23/planify/commit/60578ff5823deb18c9c82f5e2f28dd8e5b263f7e)
-- [ ] [<code>Release 4.10.8</code>](https://github.com/alainm23/planify/commit/291633ad3defd0649bbd0d1e67642c3aba18532d)
-  - <sub>Tags: <code>4.10.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
