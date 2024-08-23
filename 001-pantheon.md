@@ -1,112 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [fce55d9373bfb82953191b32e276a2129ffcb8c1 → HEAD](https://github.com/elementary/appcenter/compare/fce55d9373bfb82953191b32e276a2129ffcb8c1...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.0.0 → HEAD](https://github.com/elementary/appcenter/compare/8.0.0...HEAD)
 
-- [ ] [<code>Dont check for automatic updates when getting update number (#2104)</code>](https://github.com/elementary/appcenter/commit/7b0ef173a3d0b71f144bf1ed3a2b8159b33ef500)
-- [ ] [<code>Remove OS updates (#2111)</code>](https://github.com/elementary/appcenter/commit/48598e9691badf419d1a700df7547ee90ddbad2e)
-- [ ] [<code>Port to Gtk 4 (#1896)</code>](https://github.com/elementary/appcenter/commit/d541ca361e9d38bb18ab4ac67a4eba9b1caed6a9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>master → main</code>](https://github.com/elementary/appcenter/commit/b1e414f703f71773b7a50a6d57ea9a18f94e7aef)
-- [ ] [<code>Use add/remove_css_class where possible (#2114)</code>](https://github.com/elementary/appcenter/commit/4ebb1809c94a0a984f302ad268b27146dc12d91f)
-- [ ] [<code>UpdateManager: handle notifications (#2112)</code>](https://github.com/elementary/appcenter/commit/f1f394ad51f8fb4b5a8dde83dc5c507c134057ca)
-- [ ] [<code>show_uri → UriLauncher (#2123)</code>](https://github.com/elementary/appcenter/commit/82660f5739c7f78e33f9c25ab00780eb777f0703)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>ComponentValidator: drop hiddenapps function</code>](https://github.com/elementary/appcenter/commit/2255e3360a34ef46b6b2c6530aa9adba558abb72)
-- [ ] [<code>Move validate func to BackendInterface</code>](https://github.com/elementary/appcenter/commit/0cddaf358757a5dc0c99d923f1e16d779a828dc7)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add Sass build system (#2116)</code>](https://github.com/elementary/appcenter/commit/66783eb97bdb5ea393d2db74a3b380d1a208541e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>AppInfoView: screenshot content fit is scale down (#2121)</code>](https://github.com/elementary/appcenter/commit/569048d84f611732a892e951208f1b6f5f59bf01)
-- [ ] [<code>Make pages subclass Adw.NavigationPage (#2118)</code>](https://github.com/elementary/appcenter/commit/71811e48729b63e4f2e42353db54e2b45fca13e5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Separate ProgressButton from AbstractAppContainer (#2125)</code>](https://github.com/elementary/appcenter/commit/9870890b06daa14762afc825367154c2dee6f201)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>UpdateManager: take over updates_number from client (#2119)</code>](https://github.com/elementary/appcenter/commit/c26eead66dc24f3c454b3692b8755df61292a11e)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/54dc61ce544cb5c451ee50125c0772a40929ccfd)
-- [ ] [<code>AppInfoView: replace combobox with dropdown (#2117)</code>](https://github.com/elementary/appcenter/commit/c7660607ebbf255f79e94e2e510bb99cd3e0e4e1)
-- [ ] [<code>Create ActionStack widget (#2127)</code>](https://github.com/elementary/appcenter/commit/8431da8d3ad96759013be276b1ad26abc7af7266)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>MainWindow: remove set_return_name function (#2131)</code>](https://github.com/elementary/appcenter/commit/123cfd377fb1daf10e242c939f1c8f8c4e3afada)
-- [ ] [<code>MainWindow: Adw.Leaflet → Adw.NavigationView (#2130)</code>](https://github.com/elementary/appcenter/commit/e6bc1113af14b255d3b8d0ec068e35935d801153)
-- [ ] [<code>Don't check for updates in the guest session (#2090)</code>](https://github.com/elementary/appcenter/commit/35ccd8dc7112f915f09500c4b072213b6b5978c0)
-- [ ] [<code>AppInfoView: badge for appcenter instead of uncurated (#2133)</code>](https://github.com/elementary/appcenter/commit/3b127b7a6279ddc87fb07bbd25a5a11f28a58e99)
-- [ ] [<code>AppInfoView: Fix parsing locale with newer AppStream (#2135)</code>](https://github.com/elementary/appcenter/commit/bc82e1b6b0134c16eeef70589deb4069d886a2a3)
-- [ ] [<code>Homepage: style banners completely in CSS (#2128)</code>](https://github.com/elementary/appcenter/commit/72d8a45ffaa824e1dd4f56469886598449e7ae4e)
-- [ ] [<code>Homepage: build AppCenter banner manually (#2137)</code>](https://github.com/elementary/appcenter/commit/01cb4b92e0044b76bd638290991ad30e500915da)
-- [ ] [<code>Drop options for Pop! Shop (#2136)</code>](https://github.com/elementary/appcenter/commit/d8d3df43de2a90cffcd389bc100c9720b7108f78)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Desktop: organize, add singlemainwindow (#2141)</code>](https://github.com/elementary/appcenter/commit/51e1ef8f014a07fba52225102fb210676d2f0a1b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Application: update copyright header</code>](https://github.com/elementary/appcenter/commit/546f8d1f68f429208dfb93cd9996a040be6ee728)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/appcenter/commit/e03d4f218d1a86f948676982589564e3c2cc4ef6)
-- [ ] [<code>Metainfo: add 8 release notes (#2145)</code>](https://github.com/elementary/appcenter/commit/2b9cfffefa889cdf396196f432ce39df2f355962)
-- [ ] [<code>Remove PackageKit and Drivers backends (#2144)</code>](https://github.com/elementary/appcenter/commit/8f2455524822faa3c9214a7f67381d2b85d79213)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Update POTFILES (#2150)</code>](https://github.com/elementary/appcenter/commit/b12e5d659ca229fd99ea189dd208a63befe71621)
-- [ ] [<code>AppInfoView: Use AppStream API to get license info (#2151)</code>](https://github.com/elementary/appcenter/commit/e570d5ba1d185f4b2881a90b92134825a232e435)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Remove backend aggregator (#2152)</code>](https://github.com/elementary/appcenter/commit/8e32403c31ee8dbf9eb246e768fecd4cf5c49f0a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Package: assume all packages are flatpak (#2153)</code>](https://github.com/elementary/appcenter/commit/65865d7299e65cfaf444243b6feeb8cb8e13102e)
-- [ ] [<code>Client: add missing code from backend aggregator (#2155)</code>](https://github.com/elementary/appcenter/commit/d4eb368962d831920e580ff368ce8a38ca1e22fa)
-- [ ] [<code>Move validate () to FlatpakBackend (#2154)</code>](https://github.com/elementary/appcenter/commit/31a16fa795b6888446ede48abe537e7219c20021)
-- [ ] [<code>Remove BackendInterface (#2156)</code>](https://github.com/elementary/appcenter/commit/d5c89118982e5d504d51fdc71493ae4f4b43284f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Client: remove cache update type (#2157)</code>](https://github.com/elementary/appcenter/commit/339e03b1391eb584bceff25a4e391db3ea1081a5)
-- [ ] [<code>Client: remove things that just call FlatpakBackend (#2158)</code>](https://github.com/elementary/appcenter/commit/5ed8b53e93808875d70b32841174489c3004433c)
-- [ ] [<code>Bump appstream dep to 1.0.0 (#2159)</code>](https://github.com/elementary/appcenter/commit/6708806380d3054b0ca90dcd5297d94558a4943f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Move Client class functions to UpdateManager (#2160)</code>](https://github.com/elementary/appcenter/commit/7831acc03faf3049021d31da63d37617feceaf3d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/7567e94bbc039a02c96a9ffb8f8ae61d74a7ee72)
-- [ ] [<code>InstalledPackageRowGrid: only show release notes buttons if available (#2164)</code>](https://github.com/elementary/appcenter/commit/618368656eb89ac9942aff635bbd67cdee4d15b8)
-- [ ] [<code>Banner: get scale factor from window (#2169)</code>](https://github.com/elementary/appcenter/commit/509ffc52c2dba308eddfd8920c85d01fefbaa3f1)
-- [ ] [<code>CSS: make categories all use the same font (#2165)</code>](https://github.com/elementary/appcenter/commit/5545114540afe618c6691903c1d29246bf6e61a6)
-- [ ] [<code>Move updates_liststore to UpdateManager (#2162)</code>](https://github.com/elementary/appcenter/commit/bc6f584695a8d78b3a2b28bfcec89c30498fad40)
-- [ ] [<code>AppListUpdateView: use Adw.ToolbarView (#2171)</code>](https://github.com/elementary/appcenter/commit/3155035f32e040056935568a3214d5c110838de1)
-- [ ] [<code>SearchView: make search_entry internal (#2167)</code>](https://github.com/elementary/appcenter/commit/5923b6a417b254665bf3ab152e8b1ff91341809d)
-- [ ] [<code>AppListUpdateView: set loading placeholder only when loading (#2172)</code>](https://github.com/elementary/appcenter/commit/2848646fe549c9b308ca85a8cd14127e8f46ff34)
-- [ ] [<code>InstalledPackageRowGrid: make more compact (#2173)</code>](https://github.com/elementary/appcenter/commit/89b5866030171efb3a1dd4f58c507747934a5655)
-- [ ] [<code>Views: supply own headerbars (#2170)</code>](https://github.com/elementary/appcenter/commit/149e6e45fff3327b53abb0ddcfe984f19a85688b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Package: remove redundant packagedetails (#2175)</code>](https://github.com/elementary/appcenter/commit/f098b10bcee4c8a9c6078b70ee7c36b971d69a27)
-- [ ] [<code>UpdateManager: remove runtime size check (#2180)</code>](https://github.com/elementary/appcenter/commit/e2e7280d4e021cbc64c12eb38ade01391d071312)
-- [ ] [<code>MainWindow: remove working property (#2181)</code>](https://github.com/elementary/appcenter/commit/a72f2b17b0e460c69599a0fd97a597dc3bc34abd)
-- [ ] [<code>Job: add to_string method to Job.Type (#2182)</code>](https://github.com/elementary/appcenter/commit/30aed43dc598ca88d97a0ce4772d1861a1386f55)
-- [ ] [<code>AppInfoView: show page title after scroll (#2178)</code>](https://github.com/elementary/appcenter/commit/21aa42b4b9afaa7405231e5f7aa50b91ccd485aa)
-- [ ] [<code>Homepage: connect banner timeout after banners load (#2183)</code>](https://github.com/elementary/appcenter/commit/7cb241fac2bab417fad845b3c8f872963c10cfa0)
-- [ ] [<code>MainWindow: don't keep a static ref to installed view (#2184)</code>](https://github.com/elementary/appcenter/commit/9fd4d9246a1a7b79b4a4ed7444301bd8db2bf003)
-- [ ] [<code>Check installed sync (#2185)</code>](https://github.com/elementary/appcenter/commit/1c0b22b3a4094d134a6595cb47613d81deefc980)
-- [ ] [<code>FlatpakBackend: set action enabled in main thread (#2187)</code>](https://github.com/elementary/appcenter/commit/d1b40f8cfb0afbc81c940c722b0c88524735315f)
-- [ ] [<code>InstalledPackageRowGrid: use reader icon (#2163)</code>](https://github.com/elementary/appcenter/commit/cecf3ba81728d638bc83f514c07ed2ee77fcef3a)
-- [ ] [<code>UpdateManager: Fix runtimes ngettext (#2190)</code>](https://github.com/elementary/appcenter/commit/0c5d62944c500e2bf05471ab2a7923fe40e4d4f8)
-- [ ] [<code>AppInfoView: remove share button (#2188)</code>](https://github.com/elementary/appcenter/commit/0fe440042ecd60d735cf5123ece71b7ac12da3c2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix some warnings (#2191)</code>](https://github.com/elementary/appcenter/commit/1b2290a14f8a4b794f2b0dd53ffc326039808f48)
-- [ ] [<code>PackageRow: rm PackageRow.installed (#2174)</code>](https://github.com/elementary/appcenter/commit/e651c4becf36339f4486e5063dfd713252548a7e)
-- [ ] [<code>AppinfoView: keep action buttons in headerbar (#2186)</code>](https://github.com/elementary/appcenter/commit/71f3a7455dd7908db846efd151236fcf4433e452)
-- [ ] [<code>README.md: bump portal-gtk dep</code>](https://github.com/elementary/appcenter/commit/5e891cf432eb03498521680798a20356d6fee8e0)
-- [ ] [<code>MainWindow: Fix memory leaks + improvements (#2194)</code>](https://github.com/elementary/appcenter/commit/e04bbf3ec221a9d5f44d3256f451c6a94d60e266)
-- [ ] [<code>Metainfo: add issue 2166 to release 8.0.0</code>](https://github.com/elementary/appcenter/commit/f0ad40abe350fde10ae7e0b0706ef0f254835d09)
-- [ ] [<code>AppInfoView: redesign links (#2193)</code>](https://github.com/elementary/appcenter/commit/cdae51a26633732eb064dd5bbd0a9dac74e9cb6f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>AppListUpdateView: Drop mentioning OS updates (#2195)</code>](https://github.com/elementary/appcenter/commit/a8520e3b19d29ea3a0584b14712f0f4472134a61)
-- [ ] [<code>UpdateManager: clean up update_cache (#2196)</code>](https://github.com/elementary/appcenter/commit/0fc15146ba043d851aa1081c66e8d15d419ff3e5)
-- [ ] [<code>UpdateManager: Fix auto updates, liststore (#2197)</code>](https://github.com/elementary/appcenter/commit/80ab9ea11d0a22783e75b3d3c6e0a4ffc4bd2d31)
-- [ ] [<code>AppListUpdateView: DRY Update All (#2199)</code>](https://github.com/elementary/appcenter/commit/e31bf55be45d84b352e8eb4bbb6a214245a117a1)
-- [ ] [<code>Application: Close the window on quit, don't destroy it (#2201)</code>](https://github.com/elementary/appcenter/commit/20f2bb15ddd0e5bf2e69ed01f5e3547216fb7e84)
-- [ ] [<code>Update screenshots</code>](https://github.com/elementary/appcenter/commit/c8c197cace58a721e1b060d77a2377fb23ecf527)
-- [ ] [<code>Release 8.0.0 (#2146)</code>](https://github.com/elementary/appcenter/commit/a5967b6b9b97edba471aac8b38e227b0d1747a72)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add support for new developer id (#2203)</code>](https://github.com/elementary/appcenter/commit/a47c0c1e5b74525a5916cefffffec1f5c03bbd94)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
@@ -1614,65 +1510,17 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.1...HEAD)
+#### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
-- [ ] [<code>Switch to GHCR containers (#307)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/a6672a37dbb18633bdaaa863cba6083722cf4f8b)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/310f3f4d2eceea8c21d68045ebfe254840933691)
-- [ ] [<code>Bump actions/checkout from 1 to 3 (#308)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/aff6f57caff2295647f47e268a10ff47c0c4c633)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#310)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c48e0d636d177f91fcffafedf65f0add2af0a576)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/34faf5872fd3e0c5a4670eecf75fb4e73adec735)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/7b1cb58c8ac174d0cee76dd4d876c434c04e5064)
-- [ ] [<code>meson: Use gnome module to compile schemas (#312)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/580ada46d21a14657b5c55eb07814fbc86a3e0dc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Metainfo: organize, modernize, add missing fields (#314)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c417783ed01705d43899e4193726310c6f901f4c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 2.4.2 release notes (#315)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/d3e1c10c9cc5d5e4663f6bab01a6eaadd734efb6)
-- [ ] [<code>Release 2.4.2 (#316)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/f5fad6090a599f97cbf31335f1a4c654faf23780)
-  - <sub>Tags: <code>2.4.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.1 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.1...HEAD)
+#### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
-- [ ] [<code>actions/checkout@v3 (#120)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d4f944158d02f6ee51dc94d7e5d2230583f212ae)
-- [ ] [<code>Switch to GHCR containers (#121)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f9eb82b08157a2e391f8c40ff9140c63d00f2242)
-- [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d26d8968710e9ec55611a27528da7a0c5d0b3258)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#123)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b0f4d4293b6e6e28eb514ca2fb835ab28b200af3)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/8141939ff388e26c032492cefbd42275cdced713)
-- [ ] [<code>meson: Use gnome module to compile schemas (#124)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/26dcebdc12fc8c0b8867cb2bea940c29dcfde892)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Metainfo: organize, add missing tags, modernize (#126)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b2f5ea79b548e3734f3a493921fb3cc4c44896ae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 2.4.2 release notes (#127)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/7b7a9b0b3679acead2a133bf436c240d434f5a0d)
-- [ ] [<code>Metainfo: fix gettext name</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/75b793059624a2fee87aed27dc024b8f6ff866d3)
-- [ ] [<code>Release 2.4.2 (#128)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bae22dd013703dbc534aba691106cb3259726715)
-  - <sub>Tags: <code>2.4.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.0...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
-- [ ] [<code>Allow adding new system connections without admin prompt (#314)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/051408b6eb96eeb07083a3f09275184dd55d5d9d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-network/commit/43df2e74480c8363cedf40bcb5f87c10a3f44938)
-- [ ] [<code>Metainfo: add 7.1.1 release notes (#316)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1e349a853b6cd004129c0a8ac4e4ec643309623f)
-- [ ] [<code>Show Cellular Modems as Toggles (#279)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ce7c7eb81a6faad6d89021a394065fc97326c3b2)
-- [ ] [<code>Metainfo: add line about cell modem toggle (#318)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/62deda49aaea9d8a42c619b56cdf7bf6558a863b)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/87d437ea2a48b94be4a32a4b89535ea826e79b1e)
-- [ ] [<code>Release 7.1.1 (#317)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/535ef901468179063fd5bd5950cc8330d4628b3b)
-  - <sub>Tags: <code>7.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.2 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.2...HEAD)
+#### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#104)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6e3419dc1ec0d6c0e1f823f107c69028e34ede9c)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/9f91f5003629e70373e054acf002117633053227)
-- [ ] [<code>Metainfo: add 2.1.3 release notes (#105)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/6eb146208fba481bc2b5eb26488e3e2bd4af867c)
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/42002b1e54f5e5bf5c20255e36d06cb3fdbbcfc9)
-- [ ] [<code>Release 2.1.3 (#106)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/70922bc5986efde49b97a8ba8e7301c7bb4c1a67)
-  - <sub>Tags: <code>2.1.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.0 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.0...HEAD)
 
