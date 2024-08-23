@@ -1481,6 +1481,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#2043)</code>](https://github.com/elementary/gala/commit/e43449ce0af267293b11f9e5cd974e4f005c9578)
 - [ ] [<code>Fix mutter 45 build (#2039)</code>](https://github.com/elementary/gala/commit/489de02f54d6dd2b92b6955c510e8555af09e32a)
+- [ ] [<code>WindowCloneContainer: Fix crash when selecting next</code>](https://github.com/elementary/gala/commit/5509269f7bb0041fbd82711400406daf76db1f69)
+- [ ] [<code>WindowCloneContainer: Fix double unref</code>](https://github.com/elementary/gala/commit/738a1e95f683c196612ee598158be2f63a7a090e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1582,6 +1584,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Use new keybindings schema (#604)</code>](https://github.com/elementary/applications-menu/commit/675c6a74b8c6bd8535b514e6222d985f0072b7dc)
 - [ ] [<code>Use new behavior schema (#605)</code>](https://github.com/elementary/applications-menu/commit/846cd1017b89240abb240f64662b6ff266af51cd)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/applications-menu/commit/90d59b245ecce0714d5d880bdaa6014b530b12af)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/applications-menu/commit/000eab4501829a909522e3a3b3b533d37b45dc3c)
+- [ ] [<code>Remove Unity dep (#606)</code>](https://github.com/elementary/applications-menu/commit/41b568486c6ecd5e65d92efaeeba27ce49e7c299)
+- [ ] [<code>Release 8.0.0 (#600)</code>](https://github.com/elementary/applications-menu/commit/697ed0a63f16a564d79055ef5641ab655c31defe)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1791,6 +1799,9 @@
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.0...HEAD)
 
+- [ ] [<code>Use wl protocol for keeping it centered (#81)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9c63b8414aaad026186b76ee73aaad92dd2f5d2b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
