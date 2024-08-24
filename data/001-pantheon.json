@@ -67,9 +67,6 @@
             "content": "## apps/switchboard-plugs"
         },
         {
-            "attr_path": "pantheon.switchboard-plug-a11y"
-        },
-        {
             "attr_path": "pantheon.switchboard-plug-about"
         },
         {
@@ -200,9 +197,6 @@
         },
         {
             "attr_path": "pantheon.wingpanel-indicator-power"
-        },
-        {
-            "attr_path": "pantheon.wingpanel-indicator-session"
         },
         {
             "attr_path": "pantheon.wingpanel-indicator-sound"
