@@ -127,6 +127,8 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.0.0 → HEAD](https://github.com/elementary/files/compare/7.0.0...HEAD)
 
 - [ ] [<code>Do not activate "find" with space character (#2452)</code>](https://github.com/elementary/files/commit/3e238a4fb61fed7bb7a6e0da4827205f5081f1e6)
+- [ ] [<code>Improve thumbnailing Part 1: Do not cache local thumbnails (#2457)</code>](https://github.com/elementary/files/commit/0b4b41e9203179269cc1bfedd5dd5ddf71647066)
+- [ ] [<code>Improve thumbnailing Part2: Only generate large thumbnails (#2458)</code>](https://github.com/elementary/files/commit/227daf30d29a544deec158c39470bda259170ce2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -162,6 +164,10 @@
 - [ ] [<code>Use the portal (#284)</code>](https://github.com/elementary/screenshot/commit/87d7563f11cbae4788df58916e11d9c480382672)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to GTK4 (#240)</code>](https://github.com/elementary/screenshot/commit/8636e924c5b7ee9da1c9eb211f48e29f0d191659)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/screenshot/commit/cdbd008944c2e29839fb99a60c82c6563ced7582)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -270,6 +276,7 @@
 - [ ] [<code>meson: Use gnome module to compile schemas (#317)</code>](https://github.com/elementary/switchboard/commit/b605d7ae9c92a151ba1403721fb2fe1144d3b4af)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>SettingsSidebarRow: set accessible role, label, description (#319)</code>](https://github.com/elementary/switchboard/commit/64d5ecb57afaa38935b5f6f94d649d8fde8910ce)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-a11y](https://github.com/elementary/switchboard-plug-a11y): [2.3.0 → HEAD](https://github.com/elementary/switchboard-plug-a11y/compare/2.3.0...HEAD)
@@ -1512,6 +1519,9 @@
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
+- [ ] [<code>Fix meson deprecations (#317)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/b0f846fb5ab3b53a76f82f476c70c395b8557162)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -1531,6 +1541,9 @@
 - [ ] [<code>Release 7.1.1 (#280)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/564089f9b7e9a8a664e3d1fe3a87e7e21786c480)
   - <sub>Tags: <code>7.1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson deprecations (#282)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/989c1ec1f4aeec9d1f7e133f1fcd1f31ae9aa866)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [6.2.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/6.2.1...HEAD)
 
