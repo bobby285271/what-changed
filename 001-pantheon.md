@@ -129,6 +129,7 @@
 - [ ] [<code>Do not activate "find" with space character (#2452)</code>](https://github.com/elementary/files/commit/3e238a4fb61fed7bb7a6e0da4827205f5081f1e6)
 - [ ] [<code>Improve thumbnailing Part 1: Do not cache local thumbnails (#2457)</code>](https://github.com/elementary/files/commit/0b4b41e9203179269cc1bfedd5dd5ddf71647066)
 - [ ] [<code>Improve thumbnailing Part2: Only generate large thumbnails (#2458)</code>](https://github.com/elementary/files/commit/227daf30d29a544deec158c39470bda259170ce2)
+- [ ] [<code>Fix build under GCC-14; Silence some other warnings (#2459)</code>](https://github.com/elementary/files/commit/4ae5d4d123a0d1f8ae29782c58e0350cd59d031a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
