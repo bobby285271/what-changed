@@ -278,6 +278,7 @@
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.0...HEAD)
 
 - [ ] [<code>Bind properties in correct order (#279)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8616cca554a97d177bedbfa7367805eab6f45f54)
+- [ ] [<code>PuseAudioManager: fix crash with non-app audio source (#280)</code>](https://github.com/elementary/switchboard-plug-sound/commit/62d97f98edc34a99469063556614f36b41f2904b)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
 
@@ -739,6 +740,9 @@
 
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/8.0.0...HEAD)
 
+- [ ] [<code>Fix meson deprecations (#218)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/66b70631095ab6480dee077f2360668a6511af45)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -748,12 +752,18 @@
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
+- [ ] [<code>Fix meson deprecations (#129)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d69a0b077649280da03d5ac44da4ddd055e0bcf9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
+- [ ] [<code>Fix meson deprecations (#107)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a0d1899071d66819e45ec250186ef4abc3927e66)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -763,6 +773,9 @@
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.0...HEAD)
 
+- [ ] [<code>Fix meson deprecations (#265)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/be6057740fba55d44d86b5ac2ad9f98ca1295495)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
