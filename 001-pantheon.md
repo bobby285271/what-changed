@@ -16,6 +16,8 @@
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.0 → HEAD](https://github.com/elementary/camera/compare/8.0.0...HEAD)
 
 - [ ] [<code>Workflows/Merge: install rust extension for gettext</code>](https://github.com/elementary/camera/commit/bb1f7082f5c254bf92bf94501cee9478d220f032)
+- [ ] [<code>MainWindow: Make headerbar buttons insensitive by default (#278)</code>](https://github.com/elementary/camera/commit/c954d82b0ffefd45580b059aca09106d96c788b7)
+- [ ] [<code>master → main</code>](https://github.com/elementary/camera/commit/0c45e6e14d9e5ee9ba4a223d92713fc79193cb02)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.3.0 → HEAD](https://github.com/elementary/code/compare/7.3.0...HEAD)
 
@@ -130,6 +132,7 @@
 - [ ] [<code>Improve thumbnailing Part 1: Do not cache local thumbnails (#2457)</code>](https://github.com/elementary/files/commit/0b4b41e9203179269cc1bfedd5dd5ddf71647066)
 - [ ] [<code>Improve thumbnailing Part2: Only generate large thumbnails (#2458)</code>](https://github.com/elementary/files/commit/227daf30d29a544deec158c39470bda259170ce2)
 - [ ] [<code>Fix build under GCC-14; Silence some other warnings (#2459)</code>](https://github.com/elementary/files/commit/4ae5d4d123a0d1f8ae29782c58e0350cd59d031a)
+- [ ] [<code>Improve thumbnailing Part3: Refresh thumbnail after edit (#2460)</code>](https://github.com/elementary/files/commit/688c841b5666f1fad1a3d29c9bc61728124357c0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -239,6 +242,9 @@
 - [ ] [<code>Clicking: check active when toggled (#243)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f6b5aa724814f77e48d33932e495fdabf47bb268)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e0ea847adc74991d8ceceeb2faa243fa645c9693)
 - [ ] [<code>Set mnemonic widgets, groups (#246)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/2bf56773ac283a46d54b76c6a26cf16cdbc0d679)
+- [ ] [<code>Release 8.0.1 (#245)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4028de94b2b295f838c20e75f93455a70169bed7)
+  - <sub>Tags: <code>8.0.1</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/908873b8f28cfdad00093928b1c035a1395443a2)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
 
@@ -408,6 +414,9 @@
 - [ ] [<code>Implement zoom (#739)</code>](https://github.com/elementary/greeter/commit/5558c23df7104f53c4a2ff67d4525d661144d982)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove rounded corners (#745)</code>](https://github.com/elementary/greeter/commit/1472b265520394d174ad64bf4c66303f83f8eca6)
+- [ ] [<code>Synchronize the .vapi with Gala</code>](https://github.com/elementary/greeter/commit/c106a63e9c053e31285b4816819e67e43f47b24c)
+- [ ] [<code>Do not translate the Greeter session file (#751)</code>](https://github.com/elementary/greeter/commit/6d6cb334ff5333d49afde793d16cfaed0958b79a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
@@ -833,6 +842,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>SystemUpdate: Move offline trigger to end session dialog (#155)</code>](https://github.com/elementary/settings-daemon/commit/3de7862ee367054c0b190b4252a228c622fc7e01)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#156)</code>](https://github.com/elementary/settings-daemon/commit/b65b27aa96ada3f3dd28f238598d58e8ad466961)
+- [ ] [<code>Release 8.1.0 (#157)</code>](https://github.com/elementary/settings-daemon/commit/1b0e0c7b2aadc0e56581c45e55a0be7c61652eb8)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -845,6 +857,7 @@
 - [ ] [<code>Use wl protocol for keeping it centered (#81)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9c63b8414aaad026186b76ee73aaad92dd2f5d2b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3303c43f663716838a0748f96d924353803fb9f2)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
