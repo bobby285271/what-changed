@@ -330,6 +330,8 @@
 - [ ] [<code>Regrouping to attempt to make shortcuts window height smaller.</code>](https://github.com/phase1geo/minder/commit/e95cd829801599672764416a47ad060473fabcba)
 - [ ] [<code>Preparing for elementary OS 8</code>](https://github.com/phase1geo/minder/commit/17ec99b436a7f4432a571665631d9d02f6af318d)
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/af248d2c36e4165435f3d6b22c204c5ef960b117)
+- [ ] [<code>Adding support for setting a node as a sibling of its parent</code>](https://github.com/phase1geo/minder/commit/ccd5bfd4b0454ee24268295bcaf69cbe79df398c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -567,6 +569,7 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [8ae2bb65fe66458263d94711ae4ddd978faece00 → HEAD](https://github.com/vala-lang/vala-lint/compare/8ae2bb65fe66458263d94711ae4ddd978faece00...HEAD)
 
+- [ ] [<code>AutoFixTest: fix indentation, other code style for copy_recursive () (#184)</code>](https://github.com/vala-lang/vala-lint/commit/4ed1443c35a8a84445fb59292d539358365d8263)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
