@@ -85,6 +85,8 @@
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
+- [ ] [<code>Fix blocking when listing or entering a network location with an</code>](https://github.com/linuxmint/nemo/commit/fb47200334ffbea949da76697fee09539ef9dfc8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
