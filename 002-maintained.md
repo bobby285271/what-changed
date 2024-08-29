@@ -521,6 +521,7 @@
 - [ ] [<code>fix #1397 #1221 #1255 #1374</code>](https://github.com/alainm23/planify/commit/afa629f390e74f14ea9c9a18c71dc0e2f6a4a90d)
 - [ ] [<code>fix #1411</code>](https://github.com/alainm23/planify/commit/76f00995937d5a6f83e0c5bde61e1e76d2647586)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1409</code>](https://github.com/alainm23/planify/commit/82800ed889b66e706484e8ba812e022a6c43b47a)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
