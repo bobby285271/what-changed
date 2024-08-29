@@ -133,6 +133,8 @@
 - [ ] [<code>Improve thumbnailing Part2: Only generate large thumbnails (#2458)</code>](https://github.com/elementary/files/commit/227daf30d29a544deec158c39470bda259170ce2)
 - [ ] [<code>Fix build under GCC-14; Silence some other warnings (#2459)</code>](https://github.com/elementary/files/commit/4ae5d4d123a0d1f8ae29782c58e0350cd59d031a)
 - [ ] [<code>Improve thumbnailing Part3: Refresh thumbnail after edit (#2460)</code>](https://github.com/elementary/files/commit/688c841b5666f1fad1a3d29c9bc61728124357c0)
+- [ ] [<code>Improve thumbnailing code Part1: Explicitly handle all FileMonitorEvents (#2461)</code>](https://github.com/elementary/files/commit/452d5ed9be6b10ff70c4ad6e2780e359c26cab05)
+- [ ] [<code>Lose unused actions in AbstractDirectoryView; simplify (#2462)</code>](https://github.com/elementary/files/commit/9c41d789c43a410435b02d1b56939e075ed4dfcc)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -309,6 +311,7 @@
 - [ ] [<code>Unify Symbolic Colors: Apps (#1298)</code>](https://github.com/elementary/icons/commit/629f31331f0f6d3b6656fc393dfc7b3da3c6b380)
 - [ ] [<code>Categories: handle symlinks in the build system (#1279)</code>](https://github.com/elementary/icons/commit/8175dab1210f45be6318d5e03fe42b2eb795474c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Status: Use chat bubbles for `user-` icons (#1308)</code>](https://github.com/elementary/icons/commit/323a8edbd6ea203fb7f3ce9a85347a5908c1a1b2)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -367,6 +370,7 @@
 - [ ] [<code>Update install</code>](https://github.com/elementary/default-settings/commit/fbf938ec7ede17d23a0867baa516a80c7a25bf01)
 - [ ] [<code>Use new behavior schema (#315)</code>](https://github.com/elementary/default-settings/commit/136fdd546ae1cae9b82de14086d09537d1b0e85a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/c3920baa918a146b4ad40fe8a045520f5d170b1c)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
