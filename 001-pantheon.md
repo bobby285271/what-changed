@@ -147,6 +147,9 @@
 - [ ] [<code>CategoryView: update list with additions and removals for platform 8 (#53)</code>](https://github.com/elementary/iconbrowser/commit/3a9373c51b4705d10198e9573ec224697ebc35d9)
 - [ ] [<code>Metainfo: add 8 release notes (#52)</code>](https://github.com/elementary/iconbrowser/commit/2cce829672d843b8836f4e3f53ae9ee11214cf28)
 - [ ] [<code>Application: Replace Gtk.Window.present_with_time with present (#55)</code>](https://github.com/elementary/iconbrowser/commit/eb842ee7829b25df88a6e97710dde3bc7e1c9c67)
+- [ ] [<code>Add button to copy code snippet (#56)</code>](https://github.com/elementary/iconbrowser/commit/353d8b2254fa7256da11d6c23c80c7a8d8b559da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -699,6 +702,7 @@
 - [ ] [<code>Release 8.0.0 (#548)</code>](https://github.com/elementary/wingpanel/commit/d66d9ae9f97fe91ea8cc3dffaa2e05aab108b013)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CSS: fix changing panel height (#573)</code>](https://github.com/elementary/wingpanel/commit/150e582dc8a37aa7f3cb59603de4196b12279f52)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
