@@ -522,6 +522,10 @@
 - [ ] [<code>fix #1411</code>](https://github.com/alainm23/planify/commit/76f00995937d5a6f83e0c5bde61e1e76d2647586)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1409</code>](https://github.com/alainm23/planify/commit/82800ed889b66e706484e8ba812e022a6c43b47a)
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/6f59debda4943d5bbd1e33600d37c04163696d3a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/59a426de472b31a9c86e5d0d36fa02c935f94557)
+  - <sub>Tags: <code>4.11.0</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -568,9 +572,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [8ae2bb65fe66458263d94711ae4ddd978faece00 → HEAD](https://github.com/vala-lang/vala-lint/compare/8ae2bb65fe66458263d94711ae4ddd978faece00...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
-- [ ] [<code>AutoFixTest: fix indentation, other code style for copy_recursive () (#184)</code>](https://github.com/vala-lang/vala-lint/commit/4ed1443c35a8a84445fb59292d539358365d8263)
 
 #### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
