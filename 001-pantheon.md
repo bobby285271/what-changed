@@ -135,6 +135,7 @@
 - [ ] [<code>Improve thumbnailing Part3: Refresh thumbnail after edit (#2460)</code>](https://github.com/elementary/files/commit/688c841b5666f1fad1a3d29c9bc61728124357c0)
 - [ ] [<code>Improve thumbnailing code Part1: Explicitly handle all FileMonitorEvents (#2461)</code>](https://github.com/elementary/files/commit/452d5ed9be6b10ff70c4ad6e2780e359c26cab05)
 - [ ] [<code>Lose unused actions in AbstractDirectoryView; simplify (#2462)</code>](https://github.com/elementary/files/commit/9c41d789c43a410435b02d1b56939e075ed4dfcc)
+- [ ] [<code>PropertiesWindow: redesign permisssions (#2463)</code>](https://github.com/elementary/files/commit/c625efce272093d5d7fa7bce1c9d30662857b09c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
