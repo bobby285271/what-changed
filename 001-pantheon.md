@@ -642,6 +642,7 @@
 - [ ] [<code>WindowCloneContainer: Fix crash when selecting next</code>](https://github.com/elementary/gala/commit/5509269f7bb0041fbd82711400406daf76db1f69)
 - [ ] [<code>WindowCloneContainer: Fix double unref</code>](https://github.com/elementary/gala/commit/738a1e95f683c196612ee598158be2f63a7a090e)
 - [ ] [<code>Fix building with gcc 14 (#2045)</code>](https://github.com/elementary/gala/commit/4ab797332f6b87c3a9eb1b8ebf4e56ef48eaa9e1)
+- [ ] [<code>PanelWindow: Fix struts on scaling change</code>](https://github.com/elementary/gala/commit/42ae7a7eaca9acc75191f80e6ace0e89b85bb3e0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -704,6 +705,7 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CSS: fix changing panel height (#573)</code>](https://github.com/elementary/wingpanel/commit/150e582dc8a37aa7f3cb59603de4196b12279f52)
+- [ ] [<code>PanelWindow: Only multiply by scale factor on wayland</code>](https://github.com/elementary/wingpanel/commit/feb5c84bf735b8210d45c687940955532b29363f)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
