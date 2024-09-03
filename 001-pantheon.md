@@ -242,14 +242,8 @@
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...HEAD)
 
-- [ ] [<code>Fix changing primary mouse button (#242)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/c793b4ab2ebaf03be8b953aa907ca28adc48ef5e)
-- [ ] [<code>Clicking: check active when toggled (#243)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f6b5aa724814f77e48d33932e495fdabf47bb268)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/e0ea847adc74991d8ceceeb2faa243fa645c9693)
-- [ ] [<code>Set mnemonic widgets, groups (#246)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/2bf56773ac283a46d54b76c6a26cf16cdbc0d679)
-- [ ] [<code>Release 8.0.1 (#245)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/4028de94b2b295f838c20e75f93455a70169bed7)
-  - <sub>Tags: <code>8.0.1</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/908873b8f28cfdad00093928b1c035a1395443a2)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
@@ -845,17 +839,8 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.0.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.0.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.1.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-daemon/commit/137a4860e7466d9e5c3b6410b90679e275753dc3)
-- [ ] [<code>Update merge.yml</code>](https://github.com/elementary/settings-daemon/commit/a44f59785b6ca2480c4b801da54ea1e66d950b22)
-- [ ] [<code>Set preferred color scheme for mutter (#154)</code>](https://github.com/elementary/settings-daemon/commit/eb1690e55ab715fddccea5c762870092777a0b71)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>SystemUpdate: Move offline trigger to end session dialog (#155)</code>](https://github.com/elementary/settings-daemon/commit/3de7862ee367054c0b190b4252a228c622fc7e01)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#156)</code>](https://github.com/elementary/settings-daemon/commit/b65b27aa96ada3f3dd28f238598d58e8ad466961)
-- [ ] [<code>Release 8.1.0 (#157)</code>](https://github.com/elementary/settings-daemon/commit/1b0e0c7b2aadc0e56581c45e55a0be7c61652eb8)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
