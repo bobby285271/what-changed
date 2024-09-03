@@ -122,6 +122,9 @@
 - [ ] [<code>Release 8.0.0 (#261)</code>](https://github.com/elementary/dock/commit/16e338164dda95488171de01b6ec6d9691460c4e)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add X11 dependency</code>](https://github.com/elementary/dock/commit/81ae10fe29195f0ad27e00ca4563b209c63fe470)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
