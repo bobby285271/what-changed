@@ -581,6 +581,8 @@
 - [ ] [<code>Fix the max widths of the details label, and convert any HTML formatting to markdown.</code>](https://github.com/needle-and-thread/vocal/commit/b989830eec9ac1e86e5bbbcfcaba6438cc2b9711)
 - [ ] [<code>Enable gpodder.net support, and fix the async methods.</code>](https://github.com/needle-and-thread/vocal/commit/2fe7d7c720ffb4443c2f1f929e76a46ae0e4c705)
 - [ ] [<code>Improve library synchronization experience</code>](https://github.com/needle-and-thread/vocal/commit/feacd31d63454c904968a4ab0767fb195a9827f4)
+- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/f9af12a054b7d97d683872c8fc952e9cc7eb2bbf)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
