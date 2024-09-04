@@ -440,6 +440,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.11.0 → HEAD](https://github.com/alainm23/planify/compare/4.11.0...HEAD)
 
+- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/e5023974fb53a15b0b2f35d55832576ee1b90b8e)
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/5c553ff51fb4d223fac02b9c378e3cbc6e722de8)
+- [ ] [<code>fix: task schedule button issues</code>](https://github.com/alainm23/planify/commit/616b7e776c8d42c24672c355b1b4325a1afe1108)
+- [ ] [<code>refactor: timepicker widget import removed</code>](https://github.com/alainm23/planify/commit/325e86af0f566a4a7848be89f4bfd135348eb881)
+- [ ] [<code>Merge pull request #1422 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/94dbb44f6aacfe77244619d6da5db55623867bcb)
+- [ ] [<code>Merge pull request #1414 from haggen88/es-translation</code>](https://github.com/alainm23/planify/commit/65b8daa242774012f3da35bcebf31b4d6c0cb75a)
+- [ ] [<code>Merge pull request #1413 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/17cf168c96cfbcb2192a52fac30e37e58349e984)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
