@@ -139,6 +139,8 @@
 - [ ] [<code>Improve thumbnailing code Part1: Explicitly handle all FileMonitorEvents (#2461)</code>](https://github.com/elementary/files/commit/452d5ed9be6b10ff70c4ad6e2780e359c26cab05)
 - [ ] [<code>Lose unused actions in AbstractDirectoryView; simplify (#2462)</code>](https://github.com/elementary/files/commit/9c41d789c43a410435b02d1b56939e075ed4dfcc)
 - [ ] [<code>PropertiesWindow: redesign permisssions (#2463)</code>](https://github.com/elementary/files/commit/c625efce272093d5d7fa7bce1c9d30662857b09c)
+- [ ] [<code>Search improvements Part1: Default to search mode when focussed (#2467)</code>](https://github.com/elementary/files/commit/42e0eb943d0f949e87839d19d0a59c900651c6c9)
+- [ ] [<code>Improve thumbnailing code Part 2: Clean up File.vala (#2464)</code>](https://github.com/elementary/files/commit/754164f01b96214ea6671edaa3f98ebe80a07ba1)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -198,6 +200,7 @@
 - [ ] [<code>Show zoom level in overlaybar when changing. (#772)</code>](https://github.com/elementary/terminal/commit/5d4eae7896529b9736f2e11a17b0346a28050ccb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TerminalWidget: add doas checking (#774)</code>](https://github.com/elementary/terminal/commit/3f6f51cb37493533d57e13f5a47d4f4abe7c086b)
+- [ ] [<code>Update POTFILES (#779)</code>](https://github.com/elementary/terminal/commit/3eb5f50bbf1c060c884936309a2418ae5ee97c83)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -205,6 +208,7 @@
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
 
 - [ ] [<code>Handle flatpak+https scheme (#170)</code>](https://github.com/elementary/sideload/commit/96e57ff99200bb28541d7d05e03ba6ea1dc37867)
+- [ ] [<code>MainWindow: fix invalid bundle cast (#172)</code>](https://github.com/elementary/sideload/commit/672c489471577b3bc98cfd51396cc3f20f8d0a9f)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard/compare/8.0.0...HEAD)
 
@@ -640,6 +644,7 @@
 - [ ] [<code>WindowCloneContainer: Fix double unref</code>](https://github.com/elementary/gala/commit/738a1e95f683c196612ee598158be2f63a7a090e)
 - [ ] [<code>Fix building with gcc 14 (#2045)</code>](https://github.com/elementary/gala/commit/4ab797332f6b87c3a9eb1b8ebf4e56ef48eaa9e1)
 - [ ] [<code>PanelWindow: Fix struts on scaling change</code>](https://github.com/elementary/gala/commit/42ae7a7eaca9acc75191f80e6ace0e89b85bb3e0)
+- [ ] [<code>MultiTaskingView: Fix notifications sliding in and out (#2048)</code>](https://github.com/elementary/gala/commit/481fa89841447226ba7b79da30a9d9c46ceea688)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -703,6 +708,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CSS: fix changing panel height (#573)</code>](https://github.com/elementary/wingpanel/commit/150e582dc8a37aa7f3cb59603de4196b12279f52)
 - [ ] [<code>PanelWindow: Only multiply by scale factor on wayland</code>](https://github.com/elementary/wingpanel/commit/feb5c84bf735b8210d45c687940955532b29363f)
+- [ ] [<code>PopoverManager: Simplify owner button press recognition (#575)</code>](https://github.com/elementary/wingpanel/commit/e9bd849fdfc95e5f1573b001ccf576bd32a1e5a9)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -982,3 +988,4 @@
 - [ ] [<code>Desktop: settings-mouse-touchpad → settings.mouse-touchpad (#131)</code>](https://github.com/elementary/seeds/commit/b370872b3c62e9bad6ff99d02709d5a2f96aaf15)
 - [ ] [<code>SDK: remove old switchboard lib (#135)</code>](https://github.com/elementary/seeds/commit/0fd413905b9c6afc335850032c3df4c11e896601)
 - [ ] [<code>Include DKMS (#133)</code>](https://github.com/elementary/seeds/commit/e8c9abf1e1f8a76b1cf97c9c4cd4ba581334cfb4)
+- [ ] [<code>Ship: remove OEM packages (#134)</code>](https://github.com/elementary/seeds/commit/959ce3f8ee680b5d5aa9b7010b21846b1c5bbc8e)
