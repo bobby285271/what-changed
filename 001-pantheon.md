@@ -141,6 +141,7 @@
 - [ ] [<code>PropertiesWindow: redesign permisssions (#2463)</code>](https://github.com/elementary/files/commit/c625efce272093d5d7fa7bce1c9d30662857b09c)
 - [ ] [<code>Search improvements Part1: Default to search mode when focussed (#2467)</code>](https://github.com/elementary/files/commit/42e0eb943d0f949e87839d19d0a59c900651c6c9)
 - [ ] [<code>Improve thumbnailing code Part 2: Clean up File.vala (#2464)</code>](https://github.com/elementary/files/commit/754164f01b96214ea6671edaa3f98ebe80a07ba1)
+- [ ] [<code>PopupMenuBuilder: use GLib.Action for MountableRow (#2470)</code>](https://github.com/elementary/files/commit/df0e95e6076b27978753a3b67a1277fd0fe58ca9)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
