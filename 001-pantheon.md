@@ -210,6 +210,7 @@
 
 - [ ] [<code>Handle flatpak+https scheme (#170)</code>](https://github.com/elementary/sideload/commit/96e57ff99200bb28541d7d05e03ba6ea1dc37867)
 - [ ] [<code>MainWindow: fix invalid bundle cast (#172)</code>](https://github.com/elementary/sideload/commit/672c489471577b3bc98cfd51396cc3f20f8d0a9f)
+- [ ] [<code>Metainfo: add 6.3.0 release notes (#173)</code>](https://github.com/elementary/sideload/commit/33730861c3e5ce8aa92a95023978c5811d5c98ab)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard/compare/8.0.0...HEAD)
 
@@ -318,6 +319,7 @@
 - [ ] [<code>Categories: handle symlinks in the build system (#1279)</code>](https://github.com/elementary/icons/commit/8175dab1210f45be6318d5e03fe42b2eb795474c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Status: Use chat bubbles for `user-` icons (#1308)</code>](https://github.com/elementary/icons/commit/323a8edbd6ea203fb7f3ce9a85347a5908c1a1b2)
+- [ ] [<code>Actions: Add Import, Export at 16px (#1309)</code>](https://github.com/elementary/icons/commit/56278a37d50d43358dfd7285e28d1d23a0754cc6)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -439,6 +441,7 @@
 
 - [ ] [<code>Correct po dir (#85)</code>](https://github.com/elementary/session-settings/commit/fe8d34a85c33f0241285db9eab74551e99975960)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Rename X11 session to "Classic Session" (#86)</code>](https://github.com/elementary/session-settings/commit/20cfbb3f44af6ed69109191a36283c4d1324db99)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
