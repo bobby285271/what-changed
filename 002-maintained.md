@@ -342,6 +342,7 @@
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/6b5de6327ebfbc03cb3cb13d8a5b2d244a15a303)
 - [ ] [<code>Remove extra semicoln</code>](https://github.com/stsdc/monitor/commit/942895120441aa6251631539d3fc8d3c4a150746)
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/df89439a7187f3364d5ac8b12cb8d7a26a0ef261)
+- [ ] [<code>Add path detection for AMD GPU</code>](https://github.com/stsdc/monitor/commit/764e56e980beefe4a4f1f084ac577089f321df7b)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
