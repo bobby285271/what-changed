@@ -28,6 +28,7 @@
 - [ ] [<code>[GTK4 Prep] Create FileView Context Menu Items using GLib.MenuModel (#1458)</code>](https://github.com/elementary/code/commit/286aba9927c81f620428cf81f1772f3e74700028)
 - [ ] [<code>Add symbol filter to outline pane (#1253)</code>](https://github.com/elementary/code/commit/28a063c82489fab7fe6bdf7174fd9267087cc0e2)
 - [ ] [<code>Fix the app crashing when two folders with a common path (up to /) (#1460)</code>](https://github.com/elementary/code/commit/30092fddef29d8194b1bcab7489af0eacd3febad)
+- [ ] [<code>FolderManager: use git emblem icons (#1463)</code>](https://github.com/elementary/code/commit/c312bc831268360976792bbfb4cbbe03b4760b03)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -142,6 +143,10 @@
 - [ ] [<code>Search improvements Part1: Default to search mode when focussed (#2467)</code>](https://github.com/elementary/files/commit/42e0eb943d0f949e87839d19d0a59c900651c6c9)
 - [ ] [<code>Improve thumbnailing code Part 2: Clean up File.vala (#2464)</code>](https://github.com/elementary/files/commit/754164f01b96214ea6671edaa3f98ebe80a07ba1)
 - [ ] [<code>PopupMenuBuilder: use GLib.Action for MountableRow (#2470)</code>](https://github.com/elementary/files/commit/df0e95e6076b27978753a3b67a1277fd0fe58ca9)
+- [ ] [<code>Enums: remove unused from_gdk_window_state (#2474)</code>](https://github.com/elementary/files/commit/5359669472e7e09cfab905fa905bf38934e3a1bb)
+- [ ] [<code>AbstractMountableRow: use add_with_action_name directly (#2473)</code>](https://github.com/elementary/files/commit/a0cd0f9967b28512e6227f582a8b38d763b11642)
+- [ ] [<code>BookmarkRow: add action group (#2472)</code>](https://github.com/elementary/files/commit/702869fb6aa7112b0bb81637bc0e03516f3845bc)
+- [ ] [<code>PropertiesWindow: handle permpanel failure case in permpanel widget (#2469)</code>](https://github.com/elementary/files/commit/ed1fb9a77159d1ccfd6bf52cb6a7d1975d2462c7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -202,6 +207,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TerminalWidget: add doas checking (#774)</code>](https://github.com/elementary/terminal/commit/3f6f51cb37493533d57e13f5a47d4f4abe7c086b)
 - [ ] [<code>Update POTFILES (#779)</code>](https://github.com/elementary/terminal/commit/3eb5f50bbf1c060c884936309a2418ae5ee97c83)
+- [ ] [<code>Focus current tab (#638)</code>](https://github.com/elementary/terminal/commit/d766dbd2d14908277a386b73c20c98fc4f4de806)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Gtk4Prep - Lose geometry hints (#782)</code>](https://github.com/elementary/terminal/commit/fc28ceee5653dd7dfb4fac19c86116d684d862cf)
+- [ ] [<code>Gtk4Prep - Do not subclass Gtk.Label (#784)</code>](https://github.com/elementary/terminal/commit/634914882e96e3973fb7b0e48938f29245f93d95)
+- [ ] [<code>Gtk4Prep - Handle restoring and syncing window state in Application (#783)</code>](https://github.com/elementary/terminal/commit/32ff88ecea950d172e65c8cfd7cb86b22800712f)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
