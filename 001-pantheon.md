@@ -147,6 +147,8 @@
 - [ ] [<code>AbstractMountableRow: use add_with_action_name directly (#2473)</code>](https://github.com/elementary/files/commit/a0cd0f9967b28512e6227f582a8b38d763b11642)
 - [ ] [<code>BookmarkRow: add action group (#2472)</code>](https://github.com/elementary/files/commit/702869fb6aa7112b0bb81637bc0e03516f3845bc)
 - [ ] [<code>PropertiesWindow: handle permpanel failure case in permpanel widget (#2469)</code>](https://github.com/elementary/files/commit/ed1fb9a77159d1ccfd6bf52cb6a7d1975d2462c7)
+- [ ] [<code>BookmarkRow: set rename accel for action (#2476)</code>](https://github.com/elementary/files/commit/e543d17c98d6214ae5137f53b928fa5c15c87361)
+- [ ] [<code>BookmarkRow: add empty_all_trash action (#2475)</code>](https://github.com/elementary/files/commit/9313e8667e00ebe6023025a14b9e9a152d17fccd)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
