@@ -342,7 +342,14 @@
 - [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/6b5de6327ebfbc03cb3cb13d8a5b2d244a15a303)
 - [ ] [<code>Remove extra semicoln</code>](https://github.com/stsdc/monitor/commit/942895120441aa6251631539d3fc8d3c4a150746)
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/df89439a7187f3364d5ac8b12cb8d7a26a0ef261)
+- [ ] [<code>added: additional indicators for cpu freq and vram</code>](https://github.com/stsdc/monitor/commit/ccd7d5060b483b77e2b23106997e2ea9b49edb84)
+- [ ] [<code>tidy: lint</code>](https://github.com/stsdc/monitor/commit/f5b9aaf7ed5f283ee625b5202c6d2effd4189815)
 - [ ] [<code>Add path detection for AMD GPU</code>](https://github.com/stsdc/monitor/commit/764e56e980beefe4a4f1f084ac577089f321df7b)
+- [ ] [<code>Merge branch 'dev' into added/additional-indicators-and-status-bar-items</code>](https://github.com/stsdc/monitor/commit/5c2d34210f51e669fddb022357eacab509e52c94)
+- [ ] [<code>Tried my best with an vram icon</code>](https://github.com/stsdc/monitor/commit/b4c12adbb1d97816c02c157775147a64b9011b7c)
+- [ ] [<code>Remove vram from the statusbar; add some margin for gpu icon in statusbar</code>](https://github.com/stsdc/monitor/commit/d78914bfa45858124717ee72c9e29b56f6486ba7)
+- [ ] [<code>Merge pull request #373 from ProPuke/added/additional-indicators-and-status-bar-items</code>](https://github.com/stsdc/monitor/commit/38d0093549ef8875b9bab486a103a8f3f741be8a)
+- [ ] [<code>Update po files</code>](https://github.com/stsdc/monitor/commit/7fa2d2e4c9d35fe4b0977842b9efb3282d84e4fb)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
