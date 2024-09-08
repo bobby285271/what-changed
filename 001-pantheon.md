@@ -150,6 +150,8 @@
 - [ ] [<code>BookmarkRow: set rename accel for action (#2476)</code>](https://github.com/elementary/files/commit/e543d17c98d6214ae5137f53b928fa5c15c87361)
 - [ ] [<code>BookmarkRow: add empty_all_trash action (#2475)</code>](https://github.com/elementary/files/commit/9313e8667e00ebe6023025a14b9e9a152d17fccd)
 - [ ] [<code>AbstractMountableRow: add empty trash action (#2471)</code>](https://github.com/elementary/files/commit/726ec5b84b9016549cdc7929e6803dd0c2563375)
+- [ ] [<code>VolumeRow: create volume.mount Action (#2479)</code>](https://github.com/elementary/files/commit/df9f75676bb8b53ea86321df046081022024dc1b)
+- [ ] [<code>DriveRow: use GLib.Menu (#2478)</code>](https://github.com/elementary/files/commit/1186b91c037f31da7ba41d1ed0ba498e3e2872b2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -215,6 +217,7 @@
 - [ ] [<code>Gtk4Prep - Lose geometry hints (#782)</code>](https://github.com/elementary/terminal/commit/fc28ceee5653dd7dfb4fac19c86116d684d862cf)
 - [ ] [<code>Gtk4Prep - Do not subclass Gtk.Label (#784)</code>](https://github.com/elementary/terminal/commit/634914882e96e3973fb7b0e48938f29245f93d95)
 - [ ] [<code>Gtk4Prep - Handle restoring and syncing window state in Application (#783)</code>](https://github.com/elementary/terminal/commit/32ff88ecea950d172e65c8cfd7cb86b22800712f)
+- [ ] [<code>SettingsPopover: use provider_for_screen for theme buttons (#785)</code>](https://github.com/elementary/terminal/commit/1d9cdf69b7ce04e0a1163258cb59d9a0023e7915)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
