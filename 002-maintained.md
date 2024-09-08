@@ -60,6 +60,8 @@
 - [ ] [<code>Merge pull request #148 from musicinmybrain/desktop-app-launchable-missing</code>](https://github.com/dahenson/agenda/commit/8eca508b00ef0ba23ffd913c22fb9ffabb8d9437)
 - [ ] [<code>version 1.2.0 ongoing.</code>](https://github.com/dahenson/agenda/commit/388cb701aa7ed90f226d36b6534768fb7addc7a1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/b7d623b93684b530dc0f6f5f93b1a0ec6d126c86)
+- [ ] [<code>Merge pull request #157 from albanobattistella/patch-2</code>](https://github.com/dahenson/agenda/commit/875f04362a72350b2a6b18f9e1c29ed7608940ec)
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
@@ -332,6 +334,7 @@
 - [ ] [<code>Merge branch 'master' of github.com:phase1geo/Minder</code>](https://github.com/phase1geo/minder/commit/af248d2c36e4165435f3d6b22c204c5ef960b117)
 - [ ] [<code>Adding support for setting a node as a sibling of its parent</code>](https://github.com/phase1geo/minder/commit/ccd5bfd4b0454ee24268295bcaf69cbe79df398c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing keyboard shortcuts for centering node and paste with replacement</code>](https://github.com/phase1geo/minder/commit/51fcadce668552f3ce60047745344a350bb30444)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -350,6 +353,13 @@
 - [ ] [<code>Remove vram from the statusbar; add some margin for gpu icon in statusbar</code>](https://github.com/stsdc/monitor/commit/d78914bfa45858124717ee72c9e29b56f6486ba7)
 - [ ] [<code>Merge pull request #373 from ProPuke/added/additional-indicators-and-status-bar-items</code>](https://github.com/stsdc/monitor/commit/38d0093549ef8875b9bab486a103a8f3f741be8a)
 - [ ] [<code>Update po files</code>](https://github.com/stsdc/monitor/commit/7fa2d2e4c9d35fe4b0977842b9efb3282d84e4fb)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/stsdc/monitor/commit/69e1fff5a42aeb5e06263915744094d104418014)
+- [ ] [<code>Update Russian translation</code>](https://github.com/stsdc/monitor/commit/047f60cce8d4bb032bc2df7384bf47e85d88c0b4)
+- [ ] [<code>Merge pull request #374 from ryonakano/update-japanese-translation</code>](https://github.com/stsdc/monitor/commit/718c8ebe41115e6deddbca1ad4b1504647a33a39)
+- [ ] [<code>Merge branch 'dev' into dev</code>](https://github.com/stsdc/monitor/commit/66d859aedd49cb1a3edb4da35b9cef19cdab47c8)
+- [ ] [<code>Merge pull request #375 from lenemter/dev</code>](https://github.com/stsdc/monitor/commit/3cb4b3df4ea17b1cc9ebe3f660747567c700e0ba)
+- [ ] [<code>[TRANS] Updated french translations</code>](https://github.com/stsdc/monitor/commit/85941b3a8293c0138c8865407877fbd7b4f34cfa)
+- [ ] [<code>Merge pull request #376 from RedNeath/dev</code>](https://github.com/stsdc/monitor/commit/18f77a9d804c9fcb320c5306ce49254d5d380f08)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
