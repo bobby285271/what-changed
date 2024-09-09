@@ -218,6 +218,7 @@
 - [ ] [<code>Gtk4Prep - Do not subclass Gtk.Label (#784)</code>](https://github.com/elementary/terminal/commit/634914882e96e3973fb7b0e48938f29245f93d95)
 - [ ] [<code>Gtk4Prep - Handle restoring and syncing window state in Application (#783)</code>](https://github.com/elementary/terminal/commit/32ff88ecea950d172e65c8cfd7cb86b22800712f)
 - [ ] [<code>SettingsPopover: use provider_for_screen for theme buttons (#785)</code>](https://github.com/elementary/terminal/commit/1d9cdf69b7ce04e0a1163258cb59d9a0023e7915)
+- [ ] [<code>Separate button controllers - Gtk4 prep (#787)</code>](https://github.com/elementary/terminal/commit/a36ee042e37fb5e783befe7217a07800b39e66f0)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
