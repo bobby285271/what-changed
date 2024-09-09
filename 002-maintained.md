@@ -335,6 +335,7 @@
 - [ ] [<code>Adding support for setting a node as a sibling of its parent</code>](https://github.com/phase1geo/minder/commit/ccd5bfd4b0454ee24268295bcaf69cbe79df398c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing keyboard shortcuts for centering node and paste with replacement</code>](https://github.com/phase1geo/minder/commit/51fcadce668552f3ce60047745344a350bb30444)
+- [ ] [<code>Enhancing up, down, left and right to work better for root nodes</code>](https://github.com/phase1geo/minder/commit/25d11074f434a588b46f1b3c9ebfb388b5a6ecd4)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
