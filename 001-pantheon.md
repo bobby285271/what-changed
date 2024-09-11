@@ -337,6 +337,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Status: Use chat bubbles for `user-` icons (#1308)</code>](https://github.com/elementary/icons/commit/323a8edbd6ea203fb7f3ce9a85347a5908c1a1b2)
 - [ ] [<code>Actions: Add Import, Export at 16px (#1309)</code>](https://github.com/elementary/icons/commit/56278a37d50d43358dfd7285e28d1d23a0754cc6)
+- [ ] [<code>Apps: Redesign system-software-install (#1284)</code>](https://github.com/elementary/icons/commit/15aa184cea0c3d2c356da07c5d9c5cf5804b5d3b)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -730,6 +731,8 @@
 - [ ] [<code>CSS: fix changing panel height (#573)</code>](https://github.com/elementary/wingpanel/commit/150e582dc8a37aa7f3cb59603de4196b12279f52)
 - [ ] [<code>PanelWindow: Only multiply by scale factor on wayland</code>](https://github.com/elementary/wingpanel/commit/feb5c84bf735b8210d45c687940955532b29363f)
 - [ ] [<code>PopoverManager: Simplify owner button press recognition (#575)</code>](https://github.com/elementary/wingpanel/commit/e9bd849fdfc95e5f1573b001ccf576bd32a1e5a9)
+- [ ] [<code>GTK4 prep: Use event controllers for open and scrubbing (#544)</code>](https://github.com/elementary/wingpanel/commit/99692174459f2b5e42c890c44de58ab942efe040)
+- [ ] [<code>SampleIndicator: GTK4 prep (#577)</code>](https://github.com/elementary/wingpanel/commit/ae67d4b785340f928cdb08ae761d8c75774d8ee8)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -820,6 +823,7 @@
 - [ ] [<code>Fix meson deprecations (#265)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/be6057740fba55d44d86b5ac2ad9f98ca1295495)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add more symbolic battery icons (#267)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/37f4540a67b642a80d1904800425b1f70b5c4496)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
