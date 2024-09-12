@@ -152,6 +152,8 @@
 - [ ] [<code>AbstractMountableRow: add empty trash action (#2471)</code>](https://github.com/elementary/files/commit/726ec5b84b9016549cdc7929e6803dd0c2563375)
 - [ ] [<code>VolumeRow: create volume.mount Action (#2479)</code>](https://github.com/elementary/files/commit/df9f75676bb8b53ea86321df046081022024dc1b)
 - [ ] [<code>DriveRow: use GLib.Menu (#2478)</code>](https://github.com/elementary/files/commit/1186b91c037f31da7ba41d1ed0ba498e3e2872b2)
+- [ ] [<code>Replace PopupMenuBuilder with GLib.Menu (#2482)</code>](https://github.com/elementary/files/commit/824e776d0f7d0a9f3789deb749acabb8490c9be3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -167,6 +169,8 @@
 - [ ] [<code>Add button to copy code snippet (#56)</code>](https://github.com/elementary/iconbrowser/commit/353d8b2254fa7256da11d6c23c80c7a8d8b559da)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update MainWindow.vala (#57)</code>](https://github.com/elementary/iconbrowser/commit/e93ca4218d0ecbbc3affd9dea7186b9fa9072c61)
+- [ ] [<code>Update iconbrowser.appdata.xml.in</code>](https://github.com/elementary/iconbrowser/commit/d199d86df4d8f0c8d0929fe9ea68b0aff7f174ea)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -219,6 +223,7 @@
 - [ ] [<code>Gtk4Prep - Handle restoring and syncing window state in Application (#783)</code>](https://github.com/elementary/terminal/commit/32ff88ecea950d172e65c8cfd7cb86b22800712f)
 - [ ] [<code>SettingsPopover: use provider_for_screen for theme buttons (#785)</code>](https://github.com/elementary/terminal/commit/1d9cdf69b7ce04e0a1163258cb59d9a0023e7915)
 - [ ] [<code>Separate button controllers - Gtk4 prep (#787)</code>](https://github.com/elementary/terminal/commit/a36ee042e37fb5e783befe7217a07800b39e66f0)
+- [ ] [<code>Gtk4 Prep - SettingsPopover - call terminal zoom functions directly (#789)</code>](https://github.com/elementary/terminal/commit/85c82c11e021719c84a256007af640afedf17280)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -733,6 +738,7 @@
 - [ ] [<code>PopoverManager: Simplify owner button press recognition (#575)</code>](https://github.com/elementary/wingpanel/commit/e9bd849fdfc95e5f1573b001ccf576bd32a1e5a9)
 - [ ] [<code>GTK4 prep: Use event controllers for open and scrubbing (#544)</code>](https://github.com/elementary/wingpanel/commit/99692174459f2b5e42c890c44de58ab942efe040)
 - [ ] [<code>SampleIndicator: GTK4 prep (#577)</code>](https://github.com/elementary/wingpanel/commit/ae67d4b785340f928cdb08ae761d8c75774d8ee8)
+- [ ] [<code>PopoverManager: Remove a lot of (hopefully) unnecessary stuff (#574)</code>](https://github.com/elementary/wingpanel/commit/999f4afd3fab5525a4fbf8e6b589bb9df74616c5)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
