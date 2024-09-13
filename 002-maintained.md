@@ -336,6 +336,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing keyboard shortcuts for centering node and paste with replacement</code>](https://github.com/phase1geo/minder/commit/51fcadce668552f3ce60047745344a350bb30444)
 - [ ] [<code>Enhancing up, down, left and right to work better for root nodes</code>](https://github.com/phase1geo/minder/commit/25d11074f434a588b46f1b3c9ebfb388b5a6ecd4)
+- [ ] [<code>Fixing bugs related to selection start/end not following cursor</code>](https://github.com/phase1geo/minder/commit/ea34e606b871f2789358e3ad42135d77e7a2014d)
+- [ ] [<code>Attempting to check libmarkdown version in build</code>](https://github.com/phase1geo/minder/commit/0587f5cc1ad64ae176b609597ff58e50cdd2d626)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -472,6 +476,8 @@
 - [ ] [<code>Merge pull request #1422 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/94dbb44f6aacfe77244619d6da5db55623867bcb)
 - [ ] [<code>Merge pull request #1414 from haggen88/es-translation</code>](https://github.com/alainm23/planify/commit/65b8daa242774012f3da35bcebf31b4d6c0cb75a)
 - [ ] [<code>Merge pull request #1413 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/17cf168c96cfbcb2192a52fac30e37e58349e984)
+- [ ] [<code>fix #1433</code>](https://github.com/alainm23/planify/commit/a43bd1224f3660221acabace9758b71a119e0d2b)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
