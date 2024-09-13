@@ -12,8 +12,10 @@
 - [ ] [<code>cs_themes: Enable stack switcher when navingating out the theme modules (#12300)</code>](https://github.com/linuxmint/cinnamon/commit/79be9888955228b8c199adb0e4917462222ba264)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Revert "cs_themes: Don't mess with the stack switcher's sensitivity."</code>](https://github.com/linuxmint/cinnamon/commit/c7eedb1fcc8bf62ad40e19c59875ed205a6610cd)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Spices.py: Catch and ignore actions with missing Name fields.</code>](https://github.com/linuxmint/cinnamon/commit/f32fbb04456aab1de7403e7954bf5a379a315bbb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -95,6 +97,8 @@
 - [ ] [<code>nemo-emblems: Fix l10n for plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/5cd9643868ab6f19578270563f31e31e13f7ecbb)
 - [ ] [<code>nemo-emblems 6.2.1</code>](https://github.com/linuxmint/nemo-extensions/commit/710884d40df5d93453e58849a216c2c145a0e537)
   - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
+- [ ] [<code>nemo-share: Switch to aptkit</code>](https://github.com/linuxmint/nemo-extensions/commit/46e949c5091b0d4a1bd5dbf417e89c4db064e243)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.3 → HEAD](https://github.com/linuxmint/pix/compare/3.4.3...HEAD)
 
