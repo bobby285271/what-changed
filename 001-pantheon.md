@@ -452,9 +452,19 @@
 - [ ] [<code>Synchronize the .vapi with Gala</code>](https://github.com/elementary/greeter/commit/c106a63e9c053e31285b4816819e67e43f47b24c)
 - [ ] [<code>Do not translate the Greeter session file (#751)</code>](https://github.com/elementary/greeter/commit/6d6cb334ff5333d49afde793d16cfaed0958b79a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager: don't start greeter in installer session (#754)</code>](https://github.com/elementary/greeter/commit/bd4132aaa08cb2f2de313164769f7b970cea9eeb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add ShellClients support (#749)</code>](https://github.com/elementary/greeter/commit/66d77d754dd73addd56a762c1b418bfe01c50650)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/greeter/commit/9b01fb08b7c7fd17d8165ee3c941e08ead1e7593)
+- [ ] [<code>Update screenshot</code>](https://github.com/elementary/greeter/commit/d11221ea469cce4921ff7a630efdfcc63cfdb0bb)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/greeter/commit/b854c40151de6f21a064555c9e30f54521a74f53)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
+- [ ] [<code>AbstractOnboardingView: replace skip all with back on non-welcome views (#238)</code>](https://github.com/elementary/onboarding/commit/b3fa6cb906a886c7f0756d43442a5f27c52e11d1)
+- [ ] [<code>WelcomeView: copy links redesign from Settings (#239)</code>](https://github.com/elementary/onboarding/commit/37ac1c75dde48e45c659b7e1c77f62e4687ad4c2)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
