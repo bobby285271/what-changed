@@ -201,6 +201,8 @@
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
+- [ ] [<code>Add PopoverMenuitem (#394)</code>](https://github.com/elementary/tasks/commit/52d33a07fa5564653b7d5e9f42eed573afe379d9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
@@ -251,6 +253,9 @@
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
 
+- [ ] [<code>DeviceRow: use emblem icons for status (#226)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/adff866a57c5f1b5a7f1bffaefa9c13a9fa9fe42)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.0.0...HEAD)
 
@@ -279,6 +284,9 @@
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
 
+- [ ] [<code>VPNMenuItem: use emblem status icons (#406)</code>](https://github.com/elementary/switchboard-plug-network/commit/191cbba63f0bdfb45157a9c8f664f93f1c6243a8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -304,6 +312,7 @@
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.0...HEAD)
 
+- [ ] [<code>PrinterRow: use emblem status icons (#207)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9b6ca58acc11f0918dad635ea5e5b48c294c8ba7)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
 
