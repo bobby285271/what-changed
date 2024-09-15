@@ -340,6 +340,9 @@
 - [ ] [<code>Attempting to check libmarkdown version in build</code>](https://github.com/phase1geo/minder/commit/0587f5cc1ad64ae176b609597ff58e50cdd2d626)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Checkpointing work on handling libmarkdown packages >= 3.0</code>](https://github.com/phase1geo/minder/commit/d3052e717ba9b96a67a123ac32bae3c0aa1173c1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
@@ -467,22 +470,8 @@
 - [ ] [<code>icons: Install png into hicolor size folder (#243)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a324a93b1c0eaaa904f24a814a3c28f03d04a27d)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [planify](https://github.com/alainm23/planify): [4.11.0 → HEAD](https://github.com/alainm23/planify/compare/4.11.0...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.11.2 → HEAD](https://github.com/alainm23/planify/compare/4.11.2...HEAD)
 
-- [ ] [<code>Updated French translation</code>](https://github.com/alainm23/planify/commit/e5023974fb53a15b0b2f35d55832576ee1b90b8e)
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/5c553ff51fb4d223fac02b9c378e3cbc6e722de8)
-- [ ] [<code>fix: task schedule button issues</code>](https://github.com/alainm23/planify/commit/616b7e776c8d42c24672c355b1b4325a1afe1108)
-- [ ] [<code>refactor: timepicker widget import removed</code>](https://github.com/alainm23/planify/commit/325e86af0f566a4a7848be89f4bfd135348eb881)
-- [ ] [<code>Merge pull request #1422 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/94dbb44f6aacfe77244619d6da5db55623867bcb)
-- [ ] [<code>Merge pull request #1414 from haggen88/es-translation</code>](https://github.com/alainm23/planify/commit/65b8daa242774012f3da35bcebf31b4d6c0cb75a)
-- [ ] [<code>Merge pull request #1413 from rene-coty/master</code>](https://github.com/alainm23/planify/commit/17cf168c96cfbcb2192a52fac30e37e58349e984)
-- [ ] [<code>fix #1433</code>](https://github.com/alainm23/planify/commit/a43bd1224f3660221acabace9758b71a119e0d2b)
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>fix #1429</code>](https://github.com/alainm23/planify/commit/5f4c563b00510541bb8769f056aaed4b478f652b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.11.2</code>](https://github.com/alainm23/planify/commit/a374e5dd363dcbc6ef3b93e2151f2239046a556d)
-  - <sub>Tags: <code>4.11.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
