@@ -343,6 +343,8 @@
 - [ ] [<code>Checkpointing work on handling libmarkdown packages >= 3.0</code>](https://github.com/phase1geo/minder/commit/d3052e717ba9b96a67a123ac32bae3c0aa1173c1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Attempting to add support for discount >= 3.0</code>](https://github.com/phase1geo/minder/commit/e5874b65c0a4f0c53a952ef7771ac29f875a0820)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
