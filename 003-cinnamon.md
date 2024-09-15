@@ -99,6 +99,8 @@
   - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
 - [ ] [<code>nemo-share: Switch to aptkit</code>](https://github.com/linuxmint/nemo-extensions/commit/46e949c5091b0d4a1bd5dbf417e89c4db064e243)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Add dependency on meson and pkexec</code>](https://github.com/linuxmint/nemo-extensions/commit/fe1bfc6db668b794ef1a65fd7b580582e8bf3540)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.3 → HEAD](https://github.com/linuxmint/pix/compare/3.4.3...HEAD)
 
