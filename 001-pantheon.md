@@ -4,6 +4,7 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.0.0 → HEAD](https://github.com/elementary/appcenter/compare/8.0.0...HEAD)
 
 - [ ] [<code>Add support for new developer id (#2203)</code>](https://github.com/elementary/appcenter/commit/a47c0c1e5b74525a5916cefffffec1f5c03bbd94)
+- [ ] [<code>Silence some minor compile warnings (#2211)</code>](https://github.com/elementary/appcenter/commit/8816fde16f317640eb44dbc914ee4e7f5bd63a59)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -203,6 +204,10 @@
 
 - [ ] [<code>Add PopoverMenuitem (#394)</code>](https://github.com/elementary/tasks/commit/52d33a07fa5564653b7d5e9f42eed573afe379d9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Utils: Use GLib.Timezone.identifier</code>](https://github.com/elementary/tasks/commit/4a9c0604c2b86e2c20d8f3eefb176740550fe498)
+- [ ] [<code>Specify minimum GLib version</code>](https://github.com/elementary/tasks/commit/73dff2ad98e253d23fd4b271a11cb4665ece0004)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.2.0 → HEAD](https://github.com/elementary/terminal/compare/6.2.0...HEAD)
 
