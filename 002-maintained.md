@@ -348,6 +348,12 @@
 - [ ] [<code>Updating libmarkdown.vapi</code>](https://github.com/phase1geo/minder/commit/211321d7b79b5402447b33804969b0a845e1f99c)
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/e52e5e159c0a37685668fb41160381d57bb0b244)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>* Fixing discount >= 3.0 Markdown support.</code>](https://github.com/phase1geo/minder/commit/09f0215ff7a336b46ad5e0148537c4608e5760d9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing syntax error for Discourse >= 3.0</code>](https://github.com/phase1geo/minder/commit/30b59deb6ac447789970c4a2f78c830cc487f15e)
+- [ ] [<code>Fixing another syntax error.</code>](https://github.com/phase1geo/minder/commit/f98cb5ce5a99fb2356eea276d8af4407c2f24132)
+- [ ] [<code>Allowing remote invocations to operate properly.</code>](https://github.com/phase1geo/minder/commit/bd5793ef8e283e16d85a9d574f7542c7380a44a4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
 
