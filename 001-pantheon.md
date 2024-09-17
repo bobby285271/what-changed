@@ -231,6 +231,7 @@
 - [ ] [<code>SettingsPopover: use provider_for_screen for theme buttons (#785)</code>](https://github.com/elementary/terminal/commit/1d9cdf69b7ce04e0a1163258cb59d9a0023e7915)
 - [ ] [<code>Separate button controllers - Gtk4 prep (#787)</code>](https://github.com/elementary/terminal/commit/a36ee042e37fb5e783befe7217a07800b39e66f0)
 - [ ] [<code>Gtk4 Prep - SettingsPopover - call terminal zoom functions directly (#789)</code>](https://github.com/elementary/terminal/commit/85c82c11e021719c84a256007af640afedf17280)
+- [ ] [<code>Code Style -  (#790)</code>](https://github.com/elementary/terminal/commit/1a6b46b9a301711970971f74e29ec8e185ffc57e)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -474,6 +475,10 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/greeter/commit/9b01fb08b7c7fd17d8165ee3c941e08ead1e7593)
 - [ ] [<code>Update screenshot</code>](https://github.com/elementary/greeter/commit/d11221ea469cce4921ff7a630efdfcc63cfdb0bb)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/greeter/commit/b854c40151de6f21a064555c9e30f54521a74f53)
+- [ ] [<code>PantheonShell: Use the correct namespace for Mutter < 45 (#757)</code>](https://github.com/elementary/greeter/commit/549b8f008d41b7eb735b93005c860f67a5672848)
+- [ ] [<code>Release 8.0.0 (#731)</code>](https://github.com/elementary/greeter/commit/1569079e000c8b537cd68a90c35900ba68b4457d)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
@@ -696,6 +701,7 @@
 - [ ] [<code>Fix building with gcc 14 (#2045)</code>](https://github.com/elementary/gala/commit/4ab797332f6b87c3a9eb1b8ebf4e56ef48eaa9e1)
 - [ ] [<code>PanelWindow: Fix struts on scaling change</code>](https://github.com/elementary/gala/commit/42ae7a7eaca9acc75191f80e6ace0e89b85bb3e0)
 - [ ] [<code>MultiTaskingView: Fix notifications sliding in and out (#2048)</code>](https://github.com/elementary/gala/commit/481fa89841447226ba7b79da30a9d9c46ceea688)
+- [ ] [<code>Unify notifications check (#2050)</code>](https://github.com/elementary/gala/commit/a3a3c446a076bfedd3fc9e72ff7c5981a72357e3)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1000,6 +1006,8 @@
 - [ ] [<code>Build stable once a month (#704)</code>](https://github.com/elementary/os/commit/fd8feda980b0bc49ca9c5a444c6ebd02f2adedfb)
 - [ ] [<code>Update README.md (#712)</code>](https://github.com/elementary/os/commit/998530a82ba2558dda62d1539d4cb48b9e322791)
 - [ ] [<code>Update PPA pub keys (#715)</code>](https://github.com/elementary/os/commit/4420e6a6ca538528555c3da2dfdde210ba568642)
+- [ ] [<code>Build Stable 8.0 (#720)</code>](https://github.com/elementary/os/commit/932a9585b341dff278786b866dae810cae769f03)
+- [ ] [<code>Rename stable-8.0 to stable-8.0.yml</code>](https://github.com/elementary/os/commit/dcfbeb5229fbbce862c66e05c01ebb97a4faca14)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
