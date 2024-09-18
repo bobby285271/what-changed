@@ -552,6 +552,7 @@
 - [ ] [<code>Add workarounds of 2 finger swipes for web browser navigation</code>](https://github.com/JoseExposito/touchegg/commit/3e5a684647a162e27b6478d08ce45c4e7bfc3d0c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
+- [ ] [<code>README: Add NixOS installation instructions</code>](https://github.com/JoseExposito/touchegg/commit/5b191856e0f6ca5f061ec5a8a71b0829d897ca23)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
