@@ -189,6 +189,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Flatpak: add sandbox hole for home (#774)</code>](https://github.com/elementary/photos/commit/742f6d1b67293f07e56027648f3c0aafd5cc4517)
+- [ ] [<code>Metainfo: Add 8.0.1 release notes (#776)</code>](https://github.com/elementary/photos/commit/fb4565eab0f1e377376382a5c0b52652afdbce4a)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -249,6 +250,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>SettingsSidebarRow: set accessible role, label, description (#319)</code>](https://github.com/elementary/switchboard/commit/64d5ecb57afaa38935b5f6f94d649d8fde8910ce)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#320)</code>](https://github.com/elementary/switchboard/commit/871490cf9cacd42b6ee7e888821b5c49fdd0babc)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
@@ -312,6 +314,7 @@
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Dock/Panel: Add setting for scroll to switch workspaces (#416)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b4cdead7291382145188014268532bac07016a27)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#419)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a92ada3a77f8f33f311439defc36e08001c9eb11)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
@@ -417,6 +420,9 @@
 - [ ] [<code>Use new behavior schema (#315)</code>](https://github.com/elementary/default-settings/commit/136fdd546ae1cae9b82de14086d09537d1b0e85a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/default-settings/commit/c3920baa918a146b4ad40fe8a045520f5d170b1c)
+- [ ] [<code>Release 8.0.1 (#316)</code>](https://github.com/elementary/default-settings/commit/8f95f465b674fe3723d53951c3c3a94b1a56f604)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -702,6 +708,7 @@
 - [ ] [<code>PanelWindow: Fix struts on scaling change</code>](https://github.com/elementary/gala/commit/42ae7a7eaca9acc75191f80e6ace0e89b85bb3e0)
 - [ ] [<code>MultiTaskingView: Fix notifications sliding in and out (#2048)</code>](https://github.com/elementary/gala/commit/481fa89841447226ba7b79da30a9d9c46ceea688)
 - [ ] [<code>Unify notifications check (#2050)</code>](https://github.com/elementary/gala/commit/a3a3c446a076bfedd3fc9e72ff7c5981a72357e3)
+- [ ] [<code>Metainfo: Update 8.0.1 release notes (#2055)</code>](https://github.com/elementary/gala/commit/8a2ae3b6a2d5e3ff6a91ed4564526426c0a55515)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -769,6 +776,7 @@
 - [ ] [<code>GTK4 prep: Use event controllers for open and scrubbing (#544)</code>](https://github.com/elementary/wingpanel/commit/99692174459f2b5e42c890c44de58ab942efe040)
 - [ ] [<code>SampleIndicator: GTK4 prep (#577)</code>](https://github.com/elementary/wingpanel/commit/ae67d4b785340f928cdb08ae761d8c75774d8ee8)
 - [ ] [<code>PopoverManager: Remove a lot of (hopefully) unnecessary stuff (#574)</code>](https://github.com/elementary/wingpanel/commit/999f4afd3fab5525a4fbf8e6b589bb9df74616c5)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#580)</code>](https://github.com/elementary/wingpanel/commit/2072788ccf1d297ab89dcc29d71a324ae26b48ef)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
