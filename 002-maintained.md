@@ -354,6 +354,11 @@
 - [ ] [<code>Fixing another syntax error.</code>](https://github.com/phase1geo/minder/commit/f98cb5ce5a99fb2356eea276d8af4407c2f24132)
 - [ ] [<code>Allowing remote invocations to operate properly.</code>](https://github.com/phase1geo/minder/commit/bd5793ef8e283e16d85a9d574f7542c7380a44a4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing syntax error for Discount >= 3.0</code>](https://github.com/phase1geo/minder/commit/8b5c609f7feb6d94fc1cb47d6959001863492751)
+- [ ] [<code>Fixing another syntax error.</code>](https://github.com/phase1geo/minder/commit/1009aa889351cb107b79a57776cc689716471e7b)
+- [ ] [<code>Allowing remote invocations to operate properly.</code>](https://github.com/phase1geo/minder/commit/75a51b542e7eb7a3339bc9678df63fe265ea820d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/5947c3dea378aba8a1088ec54b9b948248c3e2bf)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -482,6 +487,11 @@
 - [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/c2ce4af790efe2d44cc1402cb8d965b48acd17f2)
 - [ ] [<code>Fix description destroy</code>](https://github.com/alainm23/planify/commit/6e736627912be0873cd3001b180040761a75184a)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat: update menuitem</code>](https://github.com/alainm23/planify/commit/2d7d11d833ba38fdd13f93e346627e010814b899)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.11.4</code>](https://github.com/alainm23/planify/commit/24fedb2a9aeef4e0bb909b6f92509bf60885dc43)
+  - <sub>Tags: <code>4.11.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
