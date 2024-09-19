@@ -355,34 +355,9 @@
 - [ ] [<code>Allowing remote invocations to operate properly.</code>](https://github.com/phase1geo/minder/commit/bd5793ef8e283e16d85a9d574f7542c7380a44a4)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [monitor](https://github.com/stsdc/monitor): [0.17.1 → HEAD](https://github.com/stsdc/monitor/compare/0.17.1...HEAD)
+#### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
-- [ ] [<code>Merge pull request #351 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/1baae17d80461a5613b1b8c3456774af609c1d69)
-- [ ] [<code>Merge pull request #360 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/43d1dc068a13a7ddec88265f6abc484ee1c57823)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge pull request #361 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/1194adbedac7b2edd290b853af03e7a59e5ab5eb)
-- [ ] [<code>update readme</code>](https://github.com/stsdc/monitor/commit/6b5de6327ebfbc03cb3cb13d8a5b2d244a15a303)
-- [ ] [<code>Remove extra semicoln</code>](https://github.com/stsdc/monitor/commit/942895120441aa6251631539d3fc8d3c4a150746)
-- [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/df89439a7187f3364d5ac8b12cb8d7a26a0ef261)
 - [ ] [<code>Merge pull request #372 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/e57d262890bfced813fb007b960961104d0dfe83)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>added: additional indicators for cpu freq and vram</code>](https://github.com/stsdc/monitor/commit/ccd7d5060b483b77e2b23106997e2ea9b49edb84)
-- [ ] [<code>tidy: lint</code>](https://github.com/stsdc/monitor/commit/f5b9aaf7ed5f283ee625b5202c6d2effd4189815)
-- [ ] [<code>Add path detection for AMD GPU</code>](https://github.com/stsdc/monitor/commit/764e56e980beefe4a4f1f084ac577089f321df7b)
-- [ ] [<code>Merge branch 'dev' into added/additional-indicators-and-status-bar-items</code>](https://github.com/stsdc/monitor/commit/5c2d34210f51e669fddb022357eacab509e52c94)
-- [ ] [<code>Tried my best with an vram icon</code>](https://github.com/stsdc/monitor/commit/b4c12adbb1d97816c02c157775147a64b9011b7c)
-- [ ] [<code>Remove vram from the statusbar; add some margin for gpu icon in statusbar</code>](https://github.com/stsdc/monitor/commit/d78914bfa45858124717ee72c9e29b56f6486ba7)
-- [ ] [<code>Merge pull request #373 from ProPuke/added/additional-indicators-and-status-bar-items</code>](https://github.com/stsdc/monitor/commit/38d0093549ef8875b9bab486a103a8f3f741be8a)
-- [ ] [<code>Update po files</code>](https://github.com/stsdc/monitor/commit/7fa2d2e4c9d35fe4b0977842b9efb3282d84e4fb)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/stsdc/monitor/commit/69e1fff5a42aeb5e06263915744094d104418014)
-- [ ] [<code>Update Russian translation</code>](https://github.com/stsdc/monitor/commit/047f60cce8d4bb032bc2df7384bf47e85d88c0b4)
-- [ ] [<code>Merge pull request #374 from ryonakano/update-japanese-translation</code>](https://github.com/stsdc/monitor/commit/718c8ebe41115e6deddbca1ad4b1504647a33a39)
-- [ ] [<code>Merge branch 'dev' into dev</code>](https://github.com/stsdc/monitor/commit/66d859aedd49cb1a3edb4da35b9cef19cdab47c8)
-- [ ] [<code>Merge pull request #375 from lenemter/dev</code>](https://github.com/stsdc/monitor/commit/3cb4b3df4ea17b1cc9ebe3f660747567c700e0ba)
-- [ ] [<code>[TRANS] Updated french translations</code>](https://github.com/stsdc/monitor/commit/85941b3a8293c0138c8865407877fbd7b4f34cfa)
-- [ ] [<code>Merge pull request #376 from RedNeath/dev</code>](https://github.com/stsdc/monitor/commit/18f77a9d804c9fcb320c5306ce49254d5d380f08)
-- [ ] [<code>bump version to 0.17.2</code>](https://github.com/stsdc/monitor/commit/83310374e6e3232e5220cfe4fbe4e0fa1772214b)
-  - <sub>Tags: <code>0.17.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/6ee091645dababb7679772b6676de68cad42e6d2)
 
