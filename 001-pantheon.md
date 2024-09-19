@@ -127,6 +127,7 @@
 - [ ] [<code>Add X11 dependency</code>](https://github.com/elementary/dock/commit/81ae10fe29195f0ad27e00ca4563b209c63fe470)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix some small deprecations (#273)</code>](https://github.com/elementary/dock/commit/ba02bd612063b87f2f08af806ebfcee0e6c59a5a)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -190,6 +191,12 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Flatpak: add sandbox hole for home (#774)</code>](https://github.com/elementary/photos/commit/742f6d1b67293f07e56027648f3c0aafd5cc4517)
 - [ ] [<code>Metainfo: Add 8.0.1 release notes (#776)</code>](https://github.com/elementary/photos/commit/fb4565eab0f1e377376382a5c0b52652afdbce4a)
+- [ ] [<code>Release 8.0.1 (#777)</code>](https://github.com/elementary/photos/commit/f976b6a2d2f46a68ad989860a338e0d47bdb6801)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Modernize desktop files, simplify build (#778)</code>](https://github.com/elementary/photos/commit/25ccd5742001457c0cf65de86f07399925ba590e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -302,6 +309,8 @@
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.0...HEAD)
 
+- [ ] [<code>Metainfo: Correct stock icon name (#291)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/955010c93e5904e5a2f6c023b862793153088661)
+- [ ] [<code>Metadata: add 8.0.1 release notes (#292)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/979e48db1fed2814aedc2dc8783f30bea4b7bc60)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.0.0...HEAD)
 
@@ -315,6 +324,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Dock/Panel: Add setting for scroll to switch workspaces (#416)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b4cdead7291382145188014268532bac07016a27)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#419)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a92ada3a77f8f33f311439defc36e08001c9eb11)
+- [ ] [<code>Plug: add panel scroll to search results (#421)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/0af5b5c9933a7e7f6ec7d5322c7f2101854ba02d)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
@@ -361,6 +371,7 @@
 - [ ] [<code>Status: Use chat bubbles for `user-` icons (#1308)</code>](https://github.com/elementary/icons/commit/323a8edbd6ea203fb7f3ce9a85347a5908c1a1b2)
 - [ ] [<code>Actions: Add Import, Export at 16px (#1309)</code>](https://github.com/elementary/icons/commit/56278a37d50d43358dfd7285e28d1d23a0754cc6)
 - [ ] [<code>Apps: Redesign system-software-install (#1284)</code>](https://github.com/elementary/icons/commit/15aa184cea0c3d2c356da07c5d9c5cf5804b5d3b)
+- [ ] [<code>Actions: Make mail-message-new uniform, add 16px (#1312)</code>](https://github.com/elementary/icons/commit/e77d29b782bcf77cc5533db67c17708eeadff37e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -709,6 +720,10 @@
 - [ ] [<code>MultiTaskingView: Fix notifications sliding in and out (#2048)</code>](https://github.com/elementary/gala/commit/481fa89841447226ba7b79da30a9d9c46ceea688)
 - [ ] [<code>Unify notifications check (#2050)</code>](https://github.com/elementary/gala/commit/a3a3c446a076bfedd3fc9e72ff7c5981a72357e3)
 - [ ] [<code>Metainfo: Update 8.0.1 release notes (#2055)</code>](https://github.com/elementary/gala/commit/8a2ae3b6a2d5e3ff6a91ed4564526426c0a55515)
+- [ ] [<code>DesktopIntegration: Emit windows changed on workspace changed (#2058)</code>](https://github.com/elementary/gala/commit/2c744c7d6dd660043be1d305bef369cde2a3ed03)
+- [ ] [<code>Release 8.0.1 (#2044)</code>](https://github.com/elementary/gala/commit/38e4ba8af09fcef28ed9a624479a445aad0bdaf8)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -777,6 +792,9 @@
 - [ ] [<code>SampleIndicator: GTK4 prep (#577)</code>](https://github.com/elementary/wingpanel/commit/ae67d4b785340f928cdb08ae761d8c75774d8ee8)
 - [ ] [<code>PopoverManager: Remove a lot of (hopefully) unnecessary stuff (#574)</code>](https://github.com/elementary/wingpanel/commit/999f4afd3fab5525a4fbf8e6b589bb9df74616c5)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#580)</code>](https://github.com/elementary/wingpanel/commit/2072788ccf1d297ab89dcc29d71a324ae26b48ef)
+- [ ] [<code>Release 8.0.1 (#581)</code>](https://github.com/elementary/wingpanel/commit/087cb2d67df0c0df0da4008271ac3194d3fbf954)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -885,6 +903,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>SwitchModelButton: wrap label (#729)</code>](https://github.com/elementary/granite/commit/020c661c538da572a5f9584f34510794f5473bb1)
+- [ ] [<code>Introduce Granite.Bin for subclassing (#730)</code>](https://github.com/elementary/granite/commit/77bf29227dc981cca7345e337b81e3a52b0785c2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
