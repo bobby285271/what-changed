@@ -372,6 +372,7 @@
 - [ ] [<code>Actions: Add Import, Export at 16px (#1309)</code>](https://github.com/elementary/icons/commit/56278a37d50d43358dfd7285e28d1d23a0754cc6)
 - [ ] [<code>Apps: Redesign system-software-install (#1284)</code>](https://github.com/elementary/icons/commit/15aa184cea0c3d2c356da07c5d9c5cf5804b5d3b)
 - [ ] [<code>Actions: Make mail-message-new uniform, add 16px (#1312)</code>](https://github.com/elementary/icons/commit/e77d29b782bcf77cc5533db67c17708eeadff37e)
+- [ ] [<code>Actions: Add color mail-send-receive (#1313)</code>](https://github.com/elementary/icons/commit/69d89cc6fd5e1c46988ae7c3b63463f847b67e2f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
