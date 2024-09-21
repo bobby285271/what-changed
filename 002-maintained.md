@@ -460,6 +460,8 @@
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2edc1a659dcb5f7819a94848b46797b10c705100)
 - [ ] [<code>icons: Install png into hicolor size folder (#243)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a324a93b1c0eaaa904f24a814a3c28f03d04a27d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Add 8.0 Circe to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0d7dc4ea297485e984b48ee4ba386c49d7c30706)
+- [ ] [<code>README: Fix typo: 8.0 -> 8</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a39e992683767d431929a9488a7e30c1a740aec9)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.2 → HEAD](https://github.com/alainm23/planify/compare/4.11.2...HEAD)
 
