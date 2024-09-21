@@ -258,6 +258,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>SettingsSidebarRow: set accessible role, label, description (#319)</code>](https://github.com/elementary/switchboard/commit/64d5ecb57afaa38935b5f6f94d649d8fde8910ce)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#320)</code>](https://github.com/elementary/switchboard/commit/871490cf9cacd42b6ee7e888821b5c49fdd0babc)
+- [ ] [<code>sample: Handle own titlebuttons (#322)</code>](https://github.com/elementary/switchboard/commit/d184188985b2b726f2e965a99533a96ba47d8e31)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
