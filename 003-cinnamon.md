@@ -60,6 +60,8 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.2.0...HEAD)
 
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119) (#125)</code>](https://github.com/linuxmint/cjs/commit/f81c19ebae64e087427b03fbb7922145e282f90c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2...HEAD)
 
