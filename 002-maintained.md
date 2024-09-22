@@ -359,6 +359,11 @@
 - [ ] [<code>Allowing remote invocations to operate properly.</code>](https://github.com/phase1geo/minder/commit/75a51b542e7eb7a3339bc9678df63fe265ea820d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/5947c3dea378aba8a1088ec54b9b948248c3e2bf)
+- [ ] [<code>Switching over from DynamicNotebook to Notebook</code>](https://github.com/phase1geo/minder/commit/0075eadf6c4ba6111aa42502d2d100a3376ff0b4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Removing obsolete DynamicNotebook</code>](https://github.com/phase1geo/minder/commit/c194e241bc7c3962600129450b8df974814bf2f2)
+- [ ] [<code>Removing DynamicNotebook from build process</code>](https://github.com/phase1geo/minder/commit/c2408314b5822ae90229004fa2d5119200eba77f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
