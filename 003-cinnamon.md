@@ -14,8 +14,9 @@
 - [ ] [<code>Revert "cs_themes: Don't mess with the stack switcher's sensitivity."</code>](https://github.com/linuxmint/cinnamon/commit/c7eedb1fcc8bf62ad40e19c59875ed205a6610cd)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Spices.py: Catch and ignore actions with missing Name fields.</code>](https://github.com/linuxmint/cinnamon/commit/f32fbb04456aab1de7403e7954bf5a379a315bbb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>environment.js: Add some convenience LayoutManager monkey patching (#12394)</code>](https://github.com/linuxmint/cinnamon/commit/66fccd94e62e9b18a1a2d2d004159f3bfb0df202)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
