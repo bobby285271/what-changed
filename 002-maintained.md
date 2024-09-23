@@ -364,6 +364,7 @@
 - [ ] [<code>Removing obsolete DynamicNotebook</code>](https://github.com/phase1geo/minder/commit/c194e241bc7c3962600129450b8df974814bf2f2)
 - [ ] [<code>Removing DynamicNotebook from build process</code>](https://github.com/phase1geo/minder/commit/c2408314b5822ae90229004fa2d5119200eba77f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleaning up debug output.</code>](https://github.com/phase1geo/minder/commit/0d61cabe8b44a735dcd628d86c6df34a77756298)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
