@@ -503,6 +503,7 @@
 
 - [ ] [<code>AbstractOnboardingView: replace skip all with back on non-welcome views (#238)</code>](https://github.com/elementary/onboarding/commit/b3fa6cb906a886c7f0756d43442a5f27c52e11d1)
 - [ ] [<code>WelcomeView: copy links redesign from Settings (#239)</code>](https://github.com/elementary/onboarding/commit/37ac1c75dde48e45c659b7e1c77f62e4687ad4c2)
+- [ ] [<code>Add .editorconfig (#242)</code>](https://github.com/elementary/onboarding/commit/987516068f7451e41261b04ae9899f2ca15d276f)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
