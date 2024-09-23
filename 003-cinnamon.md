@@ -45,8 +45,9 @@
 - [ ] [<code>fix executable libraries</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/0ad273fdecf9f8a376aab4a62af76594750ce4aa)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Debian packaging improvement (#459)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/96e53956e445a7e2225330b7b26e29a91aa9a90d)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybindings: Ignore shift-f10 (alternate menu popup shortcut).</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/bda58ec0226e94dfe388863f7a9438414a5e110f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
