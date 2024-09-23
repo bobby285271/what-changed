@@ -727,6 +727,7 @@
 - [ ] [<code>Release 8.0.1 (#2044)</code>](https://github.com/elementary/gala/commit/38e4ba8af09fcef28ed9a624479a445aad0bdaf8)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowIcon: reload icon if more info about the window becomes available (#2068)</code>](https://github.com/elementary/gala/commit/20eef782ab4c12752fae84adaafed774f1d1481c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
