@@ -326,6 +326,9 @@
 - [ ] [<code>Dock/Panel: Add setting for scroll to switch workspaces (#416)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b4cdead7291382145188014268532bac07016a27)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#419)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/a92ada3a77f8f33f311439defc36e08001c9eb11)
 - [ ] [<code>Plug: add panel scroll to search results (#421)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/0af5b5c9933a7e7f6ec7d5322c7f2101854ba02d)
+- [ ] [<code>Release 8.1.0 (#420)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/aec2f501423851ad2a108f5ef51a308687d086b3)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
@@ -728,6 +731,7 @@
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowIcon: reload icon if more info about the window becomes available (#2068)</code>](https://github.com/elementary/gala/commit/20eef782ab4c12752fae84adaafed774f1d1481c)
+- [ ] [<code>ManagedClient: Inherit fds (#2069)</code>](https://github.com/elementary/gala/commit/31ca0681469d41129b6aa55a9022f734af448140)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
