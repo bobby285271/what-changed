@@ -16,7 +16,44 @@
 - [ ] [<code>Spices.py: Catch and ignore actions with missing Name fields.</code>](https://github.com/linuxmint/cinnamon/commit/f32fbb04456aab1de7403e7954bf5a379a315bbb)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>environment.js: Add some convenience LayoutManager monkey patching (#12394)</code>](https://github.com/linuxmint/cinnamon/commit/66fccd94e62e9b18a1a2d2d004159f3bfb0df202)
+- [ ] [<code>Replace the default Cinnamon theme</code>](https://github.com/linuxmint/cinnamon/commit/30ec60b0f6a59e128a9e0c6ed02894baf92b2a41)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>st-entry: Keep the hint text visible until the user starts typing</code>](https://github.com/linuxmint/cinnamon/commit/afb81fe337a9d15eee0754e1179d42d44b74f954)
+- [ ] [<code>Redesign cinnamon modal dialogs</code>](https://github.com/linuxmint/cinnamon/commit/a788231d6c68398a8c81ca6272c14c1c6ee8fe19)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>st-widget: Set widgets :insensitive when they are not reactive</code>](https://github.com/linuxmint/cinnamon/commit/2d8bedc8e0c78f81eb71a63dd6f893271efaa8c1)
+- [ ] [<code>theme: Fix applet icons sometimes appearing oversized</code>](https://github.com/linuxmint/cinnamon/commit/b617a10f7da9a2f291728b94889558bd64bf53f7)
+- [ ] [<code>theme: Add support panel:highlight</code>](https://github.com/linuxmint/cinnamon/commit/d3ef4f9931346fc920b6a77c1c2fb049082ea942)
+- [ ] [<code>theme: Clean up some start menu styling</code>](https://github.com/linuxmint/cinnamon/commit/a7759b5319e95836e92149a59ab2174559e33e2d)
+- [ ] [<code>theme: Add support for colored buttons in dialogs</code>](https://github.com/linuxmint/cinnamon/commit/4274d7ce4bdfc685d9ed091966a374abe905ee1a)
+- [ ] [<code>theme: Update the calendar applet styling</code>](https://github.com/linuxmint/cinnamon/commit/d6ca2568bf297b9f4922f39f9a58c179bcb6013a)
+- [ ] [<code>theme: Update the switch styling to match the new background color</code>](https://github.com/linuxmint/cinnamon/commit/8844d0583f21f0d2ca57bded7be03419c8171fa0)
+- [ ] [<code>theme: Fix the styling of the power applet menu</code>](https://github.com/linuxmint/cinnamon/commit/6d907e3c2b8214c1a5ff8e7f680f07128779c7fe)
+- [ ] [<code>network-applet: clean up some insensitive styling</code>](https://github.com/linuxmint/cinnamon/commit/7df9fd874e2837ea0b193e5bb94554e3e8a1c062)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme: Remove the leftover image files from the old theme</code>](https://github.com/linuxmint/cinnamon/commit/4dc104133f31a803df4c6b6f97b25865089606bc)
+- [ ] [<code>theme: Fix padding on the panel launchers applet</code>](https://github.com/linuxmint/cinnamon/commit/9afa8cb9dc4b8781f0ce794e5f079da15595805a)
+- [ ] [<code>theme: Replace the thumbnail with updated theme style</code>](https://github.com/linuxmint/cinnamon/commit/15eebe93931034f64f6b67a82a775f474d5a1b32)
+- [ ] [<code>theme: Reduce horizontal padding on notification buttons</code>](https://github.com/linuxmint/cinnamon/commit/9d48938f594d5f033525093d1ee032ae9d592f79)
+- [ ] [<code>modalDialog.js: Use an unlinked button style</code>](https://github.com/linuxmint/cinnamon/commit/a7dd845ad44158d73d5f7a73d680f634b04b9021)
+- [ ] [<code>Alt-tab: Remove the down arrow from the swithcer layout</code>](https://github.com/linuxmint/cinnamon/commit/72c9c662490b9dd4e3e8b695ef6a674b1a0b7a27)
+- [ ] [<code>theme: Clean up the osd window styling a bit</code>](https://github.com/linuxmint/cinnamon/commit/ff6fd8b503a8a1d2273b7b869fb3b31175286a7d)
+- [ ] [<code>theme: Better differentiate between current and selected day in calendar</code>](https://github.com/linuxmint/cinnamon/commit/eaf9f098b6dd469191b3dab7586f9a94e37d11cc)
+- [ ] [<code>theme: Increase spacing in the main start menu</code>](https://github.com/linuxmint/cinnamon/commit/00f965e5d874c8c2bfd095009783f8b052ea1a5d)
+- [ ] [<code>theme: Use the proper style class names for the dialog buttons</code>](https://github.com/linuxmint/cinnamon/commit/bcb86f4967821574d5f689bc88a839cd7048cdfd)
+- [ ] [<code>theme: Use a margin around the menus</code>](https://github.com/linuxmint/cinnamon/commit/ff0da941ef6a3d50e058607dd4463dfcef25a807)
+- [ ] [<code>theme: Update the thumbnail</code>](https://github.com/linuxmint/cinnamon/commit/3c514ea00d0854b12d7c80cfe080d4f16e639cfe)
+- [ ] [<code>layout.js: Add a monitorConstraint object</code>](https://github.com/linuxmint/cinnamon/commit/7d4a3b3e9588d7eef048029447396028e8f759a1)
+- [ ] [<code>Redesign the workspace swithc OSD</code>](https://github.com/linuxmint/cinnamon/commit/2c9b6ce82184bad82a97ddcf5e90c840e9ce8dc4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Redesign the media keys OSD</code>](https://github.com/linuxmint/cinnamon/commit/f6f05cbecc2bd2bc4a3822b1a40d0402c6202335)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>spice updater (python module) - Improve error reporting.</code>](https://github.com/linuxmint/cinnamon/commit/93b99a80c3f02e813a5ca2b4092263afd46dbc43)
+- [ ] [<code>spices updater: Remove debugging string from previous commit...</code>](https://github.com/linuxmint/cinnamon/commit/261612a2fdd5e48374f324d847e8c408cdd8cc2a)
+- [ ] [<code>workspaceOsd.js: destroy and recreate the label on each display</code>](https://github.com/linuxmint/cinnamon/commit/a312d611657bfe89406098fbdc5148962e7bb2b1)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
