@@ -62,6 +62,25 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/b7d623b93684b530dc0f6f5f93b1a0ec6d126c86)
 - [ ] [<code>Merge pull request #157 from albanobattistella/patch-2</code>](https://github.com/dahenson/agenda/commit/875f04362a72350b2a6b18f9e1c29ed7608940ec)
+- [ ] [<code>Update Flatpak platform to 8</code>](https://github.com/dahenson/agenda/commit/0b26befe1b30707a93e7d03528c379a9b4c18408)
+- [ ] [<code>Use spaces instead of tabs</code>](https://github.com/dahenson/agenda/commit/f26fd263f155eb47df78f6b91eedebdec8daac30)
+- [ ] [<code>meson: Use gnome module instead of Python script</code>](https://github.com/dahenson/agenda/commit/8b64dc3de1b10005ecae72f1491336b8c2c02c9f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>meson: Replace deprecated source_root with project_source_root</code>](https://github.com/dahenson/agenda/commit/e337ae074f05f7fac92c29ea3eb7477fbae39db8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Omitting OARS tags with the value of none</code>](https://github.com/dahenson/agenda/commit/e06dfaf0d5bde1a948f6ac2e3c3b17bd562ebb8e)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/dahenson/agenda/commit/63c776d9bb8d2d85db92189290dafb1e5f6f6118)
+- [ ] [<code>Use GitHub Actions for CI building</code>](https://github.com/dahenson/agenda/commit/b931be43fe3d9da7fade2020eb59a64a93afd13d)
+- [ ] [<code>Merge pull request #158 from ryonakano/update-flatpak-platform</code>](https://github.com/dahenson/agenda/commit/ca4eabcea635fb105ebb7035db3a4a24021563dd)
+- [ ] [<code>Merge pull request #159 from ryonakano/replace-tabs</code>](https://github.com/dahenson/agenda/commit/7208ec20998f472eb0ae35cb3a3498d40f528e0e)
+- [ ] [<code>Merge pull request #160 from ryonakano/use-gnome-module</code>](https://github.com/dahenson/agenda/commit/a0001016fc87d312730736a6397ac7fdfecc4817)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge pull request #161 from ryonakano/replace-deprecated-source-root</code>](https://github.com/dahenson/agenda/commit/663c35f212372ddd35cddc51e988d3cba91d64fa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge pull request #162 from ryonakano/oars-no-attributes</code>](https://github.com/dahenson/agenda/commit/70cca29106a7398c87de1feae19fa56a3085c436)
+- [ ] [<code>Merge pull request #163 from ryonakano/update-japanese-translation</code>](https://github.com/dahenson/agenda/commit/925e4df87ec273dfed29a8da865445e48ced3e5f)
+- [ ] [<code>Merge pull request #164 from ryonakano/switch-to-github-actions</code>](https://github.com/dahenson/agenda/commit/73e3f9331af7f52a56896c6c7cecf36dde216975)
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
@@ -530,6 +549,25 @@
 
 #### [taxi](https://github.com/Alecaddd/taxi): [2.0.2 → HEAD](https://github.com/Alecaddd/taxi/compare/2.0.2...HEAD)
 
+- [ ] [<code>Flatpak: bump runtime to 7.1 (#74)</code>](https://github.com/Alecaddd/taxi/commit/dd7165c7dbaee57f57e25fbf8b122e401a2515ba)
+- [ ] [<code>CI: add ARM and Lint (#75)</code>](https://github.com/Alecaddd/taxi/commit/7cd248c49464f17e692a68d63fa8d1002aef665c)
+- [ ] [<code>Fix linting issues (#76)</code>](https://github.com/Alecaddd/taxi/commit/d9b598302e44381e13aa6d6f90bfc4b03e06535b)
+- [ ] [<code>Remove window positioning (#77)</code>](https://github.com/Alecaddd/taxi/commit/7981a26fea0273118b780057b202564d088ba89c)
+- [ ] [<code>Meson: modernize data folder (#78)</code>](https://github.com/Alecaddd/taxi/commit/f22df5afeb585d9bd29d7c54209d800b74200f90)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Meson: use gnome.post_install (#79)</code>](https://github.com/Alecaddd/taxi/commit/b7e3b7226abe9a04cb156881252f32d0e7482aed)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Application: use startup (#81)</code>](https://github.com/Alecaddd/taxi/commit/9a9bf461c46e865077fcccefd707b020196f2abc)
+- [ ] [<code>Metainfo: modernize, add missing tags (#83)</code>](https://github.com/Alecaddd/taxi/commit/7a11d254058441c4d692fbb4c69eb7334d8d300d)
+- [ ] [<code>Port to LibSoup-3 (#84)</code>](https://github.com/Alecaddd/taxi/commit/c65e7de3c157dc73986e4ab4b997df234ae65056)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>GitIgnore: add .flatpak-builder</code>](https://github.com/Alecaddd/taxi/commit/e1af3ca32033f37c7d972bf9debf15faaa4f04dc)
+- [ ] [<code>FilePane: use GLib.Menu (#86)</code>](https://github.com/Alecaddd/taxi/commit/47f0a5b4569af2e09f5eddf855a1018921b7f569)
+- [ ] [<code>Pathbar: fix invalid uri on button clicked (#87)</code>](https://github.com/Alecaddd/taxi/commit/034397b95a4bf5a409c7da5849950a84dbda028e)
+- [ ] [<code>Refresh icons and logo image (#85)</code>](https://github.com/Alecaddd/taxi/commit/e9f561e05d9c4f24b448f2cc87d447aadb44b983)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
