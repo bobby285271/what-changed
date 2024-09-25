@@ -487,6 +487,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Add 8.0 Circe to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0d7dc4ea297485e984b48ee4ba386c49d7c30706)
 - [ ] [<code>README: Fix typo: 8.0 -> 8</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a39e992683767d431929a9488a7e30c1a740aec9)
+- [ ] [<code>MiscPane: VAlign spin button (#245)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/796c85601b74e210190719578ce2a1b6c593bc17)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.2 → HEAD](https://github.com/alainm23/planify/compare/4.11.2...HEAD)
 
@@ -524,6 +525,10 @@
 
 - [ ] [<code>Update libgda-5.0.vapi (#343)</code>](https://github.com/Alecaddd/sequeler/commit/0b02ddbe8a788b34207de6296d78a5c71ab6bab1)
 - [ ] [<code>Sort table list alphabetically (#373)</code>](https://github.com/Alecaddd/sequeler/commit/dbda4e75ed5a2f2d962003d7df5513ee9e5584ef)
+- [ ] [<code>Granite version should be >=5.3.0 #346 (#367)</code>](https://github.com/Alecaddd/sequeler/commit/b83f9c1f30d52507bc3e11a0d72cf716fafb2539)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Flatpak: Update libaio to 0.3.113 and use HTTPS (#391)</code>](https://github.com/Alecaddd/sequeler/commit/664c100d69a0b79b9ac50b427b883f7b520b3b47)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
@@ -568,6 +573,9 @@
 - [ ] [<code>Pathbar: fix invalid uri on button clicked (#87)</code>](https://github.com/Alecaddd/taxi/commit/034397b95a4bf5a409c7da5849950a84dbda028e)
 - [ ] [<code>Refresh icons and logo image (#85)</code>](https://github.com/Alecaddd/taxi/commit/e9f561e05d9c4f24b448f2cc87d447aadb44b983)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: add update icon cache (#88)</code>](https://github.com/Alecaddd/taxi/commit/078fccd93b1b2b9f6556d911f4099b94e2803552)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix warnings (#89)</code>](https://github.com/Alecaddd/taxi/commit/bddfb4f04113b69a6b0c4325f4db3625dbad4ce1)
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
