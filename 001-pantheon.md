@@ -259,6 +259,9 @@
 - [ ] [<code>SettingsSidebarRow: set accessible role, label, description (#319)</code>](https://github.com/elementary/switchboard/commit/64d5ecb57afaa38935b5f6f94d649d8fde8910ce)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#320)</code>](https://github.com/elementary/switchboard/commit/871490cf9cacd42b6ee7e888821b5c49fdd0babc)
 - [ ] [<code>sample: Handle own titlebuttons (#322)</code>](https://github.com/elementary/switchboard/commit/d184188985b2b726f2e965a99533a96ba47d8e31)
+- [ ] [<code>Release 8.0.1 (#321)</code>](https://github.com/elementary/switchboard/commit/c2f4f3c099ea5ee67a1178b3834eaffe20fee01b)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
@@ -329,6 +332,7 @@
 - [ ] [<code>Release 8.1.0 (#420)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/aec2f501423851ad2a108f5ef51a308687d086b3)
   - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Vertical Align SpinButton (#422)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/338a614d7893910d5e89c829dca8dfa79026925c)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
@@ -355,6 +359,7 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.1.0...HEAD)
 
+- [ ] [<code>Add support for new Adw.Dialog and bottom sheets (#1301)</code>](https://github.com/elementary/stylesheet/commit/b76dc06afcc9fde08e9b988b94f3ae71c3c9f5a0)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
 
