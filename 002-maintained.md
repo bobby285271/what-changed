@@ -488,38 +488,11 @@
 - [ ] [<code>README: Add 8.0 Circe to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0d7dc4ea297485e984b48ee4ba386c49d7c30706)
 - [ ] [<code>README: Fix typo: 8.0 -> 8</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a39e992683767d431929a9488a7e30c1a740aec9)
 - [ ] [<code>MiscPane: VAlign spin button (#245)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/796c85601b74e210190719578ce2a1b6c593bc17)
+- [ ] [<code>Flatpak: Update switchboard to 8.0.1 (#246)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ef5f8d34245765fe390602b3b7c4f9f83cccc4a2)
+- [ ] [<code>Update screenshot (#248)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9ccd56f369193a8d080ee796896c648b6b1651ca)
 
-#### [planify](https://github.com/alainm23/planify): [4.11.2 → HEAD](https://github.com/alainm23/planify/compare/4.11.2...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
 
-- [ ] [<code>fix: pinned task position captured</code>](https://github.com/alainm23/planify/commit/929e0f3decb41687329c83c3719f3382a788ea4c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: space-before-param lint error</code>](https://github.com/alainm23/planify/commit/1205a7524aa555ca0d8ead5ba583da35bc506e28)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix #1428</code>](https://github.com/alainm23/planify/commit/1febec33f3a2a8c74b22c89b6da65548fcf96d3a)
-- [ ] [<code>Merge pull request #1437 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/eac151693b7b6af6b76dbf46efe22a3ecb4d902a)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/1bd02c45d3824ee6010f71fcf89ac6d0197c8d31)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/97e89a768e7f45b466f25a7b239cde4cd0a97f49)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/1fb59b8b97dab0853b941e2568ba1d08b68282df)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/499ae1577a089a256e761a72165a5a9f7c9ea054)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/e31c5cf3d9a17c3ecf8b8197693675acd0fe415d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/dfd288ab7be32823c1ddf9a684655b001847f3ea)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/64431f90c920fa5602b68496d5bbef41bb56e802)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/cee4b96bfc8bd98147b99b204cf917e1f5da29fa)
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/498c5713094839c8243bf272744d217ff4de9874)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/54c7049bdbe628b2318dd52fdcc2940b1473b942)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: add pre commit</code>](https://github.com/alainm23/planify/commit/c2ce4af790efe2d44cc1402cb8d965b48acd17f2)
-- [ ] [<code>Fix description destroy</code>](https://github.com/alainm23/planify/commit/6e736627912be0873cd3001b180040761a75184a)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>feat: update menuitem</code>](https://github.com/alainm23/planify/commit/2d7d11d833ba38fdd13f93e346627e010814b899)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.11.4</code>](https://github.com/alainm23/planify/commit/24fedb2a9aeef4e0bb909b6f92509bf60885dc43)
-  - <sub>Tags: <code>4.11.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
