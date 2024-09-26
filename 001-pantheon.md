@@ -315,6 +315,10 @@
 
 - [ ] [<code>Metainfo: Correct stock icon name (#291)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/955010c93e5904e5a2f6c023b862793153088661)
 - [ ] [<code>Metadata: add 8.0.1 release notes (#292)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/979e48db1fed2814aedc2dc8783f30bea4b7bc60)
+- [ ] [<code>Release 8.0.1 (#293)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/655c1158daabd8f0c4242b3317869fe13acd1cbc)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/e6b62b75254e4c4cb1c3b4cf74c3468b81b0ed08)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.0.0...HEAD)
 
@@ -737,6 +741,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowIcon: reload icon if more info about the window becomes available (#2068)</code>](https://github.com/elementary/gala/commit/20eef782ab4c12752fae84adaafed774f1d1481c)
 - [ ] [<code>ManagedClient: Inherit fds (#2069)</code>](https://github.com/elementary/gala/commit/31ca0681469d41129b6aa55a9022f734af448140)
+- [ ] [<code>ci: Update mutter version for noble</code>](https://github.com/elementary/gala/commit/2ec1356085562e47ed885946f1a6d733a9e23011)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
