@@ -386,6 +386,13 @@
 - [ ] [<code>Apps: Redesign system-software-install (#1284)</code>](https://github.com/elementary/icons/commit/15aa184cea0c3d2c356da07c5d9c5cf5804b5d3b)
 - [ ] [<code>Actions: Make mail-message-new uniform, add 16px (#1312)</code>](https://github.com/elementary/icons/commit/e77d29b782bcf77cc5533db67c17708eeadff37e)
 - [ ] [<code>Actions: Add color mail-send-receive (#1313)</code>](https://github.com/elementary/icons/commit/69d89cc6fd5e1c46988ae7c3b63463f847b67e2f)
+- [ ] [<code>Emotes: Fix symbolic pagesize, grid alignment (#1319)</code>](https://github.com/elementary/icons/commit/d3c6508bfff4db4309b5634aaf3ff7edd687bae4)
+- [ ] [<code>Emblems: Fix symbolic pagesizes, grid alignment (#1318)</code>](https://github.com/elementary/icons/commit/e30a68eedcdfc1cb603b2de3a53cd46f9d2f4234)
+- [ ] [<code>Actions: Fix pagesizes, grid alignment (#1315)</code>](https://github.com/elementary/icons/commit/feba691abb51c47693db2f41ca156cedc6f7d53c)
+- [ ] [<code>Devices: Fix symbolic pagesizes, grid alignment (#1317)</code>](https://github.com/elementary/icons/commit/3de79984f112fc47b1bc5efc63c8f4158fe971c6)
+- [ ] [<code>Places: Fix symbolic pagesizes, grid alignment (#1320)</code>](https://github.com/elementary/icons/commit/fbacdddf64e2478e4819835176d09962aa771277)
+- [ ] [<code>Categories: Fix symbolic pagesizes, grid alignment (#1316)</code>](https://github.com/elementary/icons/commit/a9b4f625dbc943320418fc262e74bfc22c10ed04)
+- [ ] [<code>Status: Fix symbolic pagesizes, grid alignment (#1321)</code>](https://github.com/elementary/icons/commit/76fb26d0d4e30f041fd77576823a206e9c8c362d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
