@@ -490,6 +490,9 @@
 - [ ] [<code>MiscPane: VAlign spin button (#245)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/796c85601b74e210190719578ce2a1b6c593bc17)
 - [ ] [<code>Flatpak: Update switchboard to 8.0.1 (#246)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ef5f8d34245765fe390602b3b7c4f9f83cccc4a2)
 - [ ] [<code>Update screenshot (#248)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9ccd56f369193a8d080ee796896c648b6b1651ca)
+- [ ] [<code>Release 2.1.0 (#238)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7733af9a7c27095f7cc1d8449cdd7284f8e96fe2)
+  - <sub>Tags: <code>2.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
 
