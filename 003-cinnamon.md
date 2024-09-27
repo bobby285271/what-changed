@@ -64,7 +64,7 @@
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
 
-#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.2.0...HEAD)
+#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.2.1...HEAD)
 
 - [ ] [<code>build: Use debugoptimized, remove some obsolete meson bits.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/60ad855404d76dcfe0b8a45cc2412227c0f21f07)
   - <sub>Files: <code>meson.build</code></sub>
