@@ -496,6 +496,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
 
+- [ ] [<code>fix: captured deleted cal event</code>](https://github.com/alainm23/planify/commit/1dd157b8ca8f7e18886c8951306a51d14c77ec77)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: sidebar header redesigned</code>](https://github.com/alainm23/planify/commit/2f27bdb5f4ad6cda7c24bb3df0ac54670bd4d13c)
+- [ ] [<code>refactor: captured cal event remove patch</code>](https://github.com/alainm23/planify/commit/2db81db8bd58dcf5437c229c8839dc434f162704)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1450 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/d69fe674f4fe998044a28cf70ef23749abb6457f)
+- [ ] [<code>Merge pull request #1453 from golamrabbiazad/std-sidebar-header</code>](https://github.com/alainm23/planify/commit/ab3f93b0d5bc5e592c7add1387cf762dfccc7059)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
