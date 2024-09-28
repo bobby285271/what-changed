@@ -311,13 +311,8 @@
 
 - [ ] [<code>App: remove ancient gala notification schema (#108)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c93367b4616805082a8e17b430ae8e6a6ca6ae38)
 
-#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.1...HEAD)
 
-- [ ] [<code>Metainfo: Correct stock icon name (#291)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/955010c93e5904e5a2f6c023b862793153088661)
-- [ ] [<code>Metadata: add 8.0.1 release notes (#292)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/979e48db1fed2814aedc2dc8783f30bea4b7bc60)
-- [ ] [<code>Release 8.0.1 (#293)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/655c1158daabd8f0c4242b3317869fe13acd1cbc)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/e6b62b75254e4c4cb1c3b4cf74c3468b81b0ed08)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.0.0...HEAD)
