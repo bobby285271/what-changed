@@ -52,8 +52,9 @@
 - [ ] [<code>spice updater (python module) - Improve error reporting.</code>](https://github.com/linuxmint/cinnamon/commit/93b99a80c3f02e813a5ca2b4092263afd46dbc43)
 - [ ] [<code>spices updater: Remove debugging string from previous commit...</code>](https://github.com/linuxmint/cinnamon/commit/261612a2fdd5e48374f324d847e8c408cdd8cc2a)
 - [ ] [<code>workspaceOsd.js: destroy and recreate the label on each display</code>](https://github.com/linuxmint/cinnamon/commit/a312d611657bfe89406098fbdc5148962e7bb2b1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>OSD Windows: Use the monitor work-area to place windows on screen</code>](https://github.com/linuxmint/cinnamon/commit/1f511ac099ec599ff2f8e64f11eb3d1b66597db1)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
