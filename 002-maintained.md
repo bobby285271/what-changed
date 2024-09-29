@@ -438,6 +438,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Flatpak: Update libaio to 0.3.113 and use HTTPS (#391)</code>](https://github.com/Alecaddd/sequeler/commit/664c100d69a0b79b9ac50b427b883f7b520b3b47)
+- [ ] [<code>Remove Travis in favor of GitHub Actions (#392)</code>](https://github.com/Alecaddd/sequeler/commit/0dad2342db8b00ca67faa0f72ced909fc6d88394)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
