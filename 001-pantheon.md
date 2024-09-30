@@ -266,6 +266,7 @@
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
 
+- [ ] [<code>Add hexpand (#336)</code>](https://github.com/elementary/switchboard-plug-about/commit/702e8373348ba1ac26f775e6307d336824b300fb)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
