@@ -132,6 +132,14 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
 - [ ] [<code>Fix blocking when listing or entering a network location with an</code>](https://github.com/linuxmint/nemo/commit/fb47200334ffbea949da76697fee09539ef9dfc8)
+- [ ] [<code>Remove obsolete libxml dependency.</code>](https://github.com/linuxmint/nemo/commit/fa76d529886d16c5dbf76611a3576e6ca9e19b9f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>NemoAction: Add support for keyboard shortcuts.</code>](https://github.com/linuxmint/nemo/commit/a3779123715679aed0f28ad9214641177bac9912)
+- [ ] [<code>layout editor: Add support for accelerator keys.</code>](https://github.com/linuxmint/nemo/commit/cfdb8ca61767c1468acae3e0348872a706ee3c06)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Clean up gresource file.</code>](https://github.com/linuxmint/nemo/commit/139a8e0f623352853273cc954069e608039ce738)
+- [ ] [<code>makepot: Fix some warnings</code>](https://github.com/linuxmint/nemo/commit/4569efd25937c4bdcbabe0b70159cf444a32d50a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
