@@ -486,6 +486,7 @@
 - [ ] [<code>feat: add update icon cache (#88)</code>](https://github.com/Alecaddd/taxi/commit/078fccd93b1b2b9f6556d911f4099b94e2803552)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix warnings (#89)</code>](https://github.com/Alecaddd/taxi/commit/bddfb4f04113b69a6b0c4325f4db3625dbad4ce1)
+- [ ] [<code>Remove Travis in favor of GitHub Actions (#91)</code>](https://github.com/Alecaddd/taxi/commit/46f60e91b7189c0db7253e02664115045f7851e9)
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
