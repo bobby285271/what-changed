@@ -529,6 +529,9 @@
 - [ ] [<code>Correct po dir (#85)</code>](https://github.com/elementary/session-settings/commit/fe8d34a85c33f0241285db9eab74551e99975960)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Rename X11 session to "Classic Session" (#86)</code>](https://github.com/elementary/session-settings/commit/20cfbb3f44af6ed69109191a36283c4d1324db99)
+- [ ] [<code>Release 8.0.1 (#87)</code>](https://github.com/elementary/session-settings/commit/4977435ad247972ce2658443c9900a3e8c8a3baf)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
