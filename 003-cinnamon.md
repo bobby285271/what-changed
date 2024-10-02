@@ -54,7 +54,9 @@
 - [ ] [<code>workspaceOsd.js: destroy and recreate the label on each display</code>](https://github.com/linuxmint/cinnamon/commit/a312d611657bfe89406098fbdc5148962e7bb2b1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>OSD Windows: Use the monitor work-area to place windows on screen</code>](https://github.com/linuxmint/cinnamon/commit/1f511ac099ec599ff2f8e64f11eb3d1b66597db1)
+- [ ] [<code>power applet: Don't check for a backlight step before establishing</code>](https://github.com/linuxmint/cinnamon/commit/dac96132ed68fb623b944b7fe9b62b40cb3cdb4f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -93,6 +95,7 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
 - [ ] [<code>csd-settings-remap-manager.c: Only report on missing schemas and</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d97f9230cfa633b7c319bc9305a4461977654574)
+- [ ] [<code>csd-power-manager: Assume a keyboard backlight max-value of 0 to</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5227d117adef895da75144b5b6951d246fd7476c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
