@@ -513,6 +513,7 @@
 - [ ] [<code>Release 8.0.0 (#731)</code>](https://github.com/elementary/greeter/commit/1569079e000c8b537cd68a90c35900ba68b4457d)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ci: Update mutter version for noble (#762)</code>](https://github.com/elementary/greeter/commit/0ce8fce2c6d6c3a2ad25aede0f12a1111c024415)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
