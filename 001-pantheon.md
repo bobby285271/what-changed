@@ -156,6 +156,7 @@
 - [ ] [<code>DriveRow: use GLib.Menu (#2478)</code>](https://github.com/elementary/files/commit/1186b91c037f31da7ba41d1ed0ba498e3e2872b2)
 - [ ] [<code>Replace PopupMenuBuilder with GLib.Menu (#2482)</code>](https://github.com/elementary/files/commit/824e776d0f7d0a9f3789deb749acabb8490c9be3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Filemanager1 scroll to item (#2280)</code>](https://github.com/elementary/files/commit/7a8038db31c2ae04a3051e072f4da45ca9870437)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -911,10 +912,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add more symbolic battery icons (#267)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/37f4540a67b642a80d1904800425b1f70b5c4496)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#268)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7a85bbc6ebcd9b3629e6bd8341fa9ae947a74575)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
 - [ ] [<code>PlayerRow: fix icon size (#276)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6cc09556c9aecbf9275ef665667d3ce15845d15)
+- [ ] [<code>Fix deprecated provider for context (#278)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d21437e36582c9a57ed94cae7abb8e98c605cb72)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
