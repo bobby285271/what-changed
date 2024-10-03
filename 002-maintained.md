@@ -495,6 +495,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>File selector: Switch to TreeView (#206)</code>](https://github.com/davidmhewitt/torrential/commit/2ddabd7d133e44993a0b7dedb7d06a9dd9b71b3a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update runtime to 8 (#211)</code>](https://github.com/davidmhewitt/torrential/commit/cd2d7e0fc8d51426ac1bc1c1cdafbc9f3e5619b6)
+- [ ] [<code>Application: Granite.init (#212)</code>](https://github.com/davidmhewitt/torrential/commit/650f3cb4e0ae4f6b816f4128bb805b96b990f869)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.17...HEAD)
 
