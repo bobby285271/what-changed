@@ -55,8 +55,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>OSD Windows: Use the monitor work-area to place windows on screen</code>](https://github.com/linuxmint/cinnamon/commit/1f511ac099ec599ff2f8e64f11eb3d1b66597db1)
 - [ ] [<code>power applet: Don't check for a backlight step before establishing</code>](https://github.com/linuxmint/cinnamon/commit/dac96132ed68fb623b944b7fe9b62b40cb3cdb4f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Convert the force quit dialog to a cinnamon dialog (#12408)</code>](https://github.com/linuxmint/cinnamon/commit/4096ea231ab5de5efa6c0990412c71bc175e876a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>closeDialog: Fix msgids</code>](https://github.com/linuxmint/cinnamon/commit/6cc3ba7fa3d0b1f3f630ff4507449d47fc43a1da)
+- [ ] [<code>docs: Remove recorder.xml.in (#12395)</code>](https://github.com/linuxmint/cinnamon/commit/1e43299b9ad548c9395edfd456cbba017ca02b9f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
