@@ -968,6 +968,7 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.1.0...HEAD)
 
+- [ ] [<code>Launcher: add X-GNOME-UsesNotifications (#161)</code>](https://github.com/elementary/settings-daemon/commit/bae5d7ea024bb744f1ab2909093aee8ac30b7824)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
