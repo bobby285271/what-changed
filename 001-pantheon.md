@@ -157,6 +157,7 @@
 - [ ] [<code>Replace PopupMenuBuilder with GLib.Menu (#2482)</code>](https://github.com/elementary/files/commit/824e776d0f7d0a9f3789deb749acabb8490c9be3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Filemanager1 scroll to item (#2280)</code>](https://github.com/elementary/files/commit/7a8038db31c2ae04a3051e072f4da45ca9870437)
+- [ ] [<code>ListView: Fix collapsing folders (#2494)</code>](https://github.com/elementary/files/commit/14cf9a8fc7cb9d1910e88e66482cd0151e636d87)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -271,6 +272,7 @@
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
+- [ ] [<code>Add Notifications settings (#238)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b4f466013fb90a9bbb5e27d12390070a0806ea4e)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
 
