@@ -148,6 +148,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Clean up gresource file.</code>](https://github.com/linuxmint/nemo/commit/139a8e0f623352853273cc954069e608039ce738)
 - [ ] [<code>makepot: Fix some warnings</code>](https://github.com/linuxmint/nemo/commit/4569efd25937c4bdcbabe0b70159cf444a32d50a)
+- [ ] [<code>places sidebar: Improve eject icon behavior.</code>](https://github.com/linuxmint/nemo/commit/4eabc4503e7e62ebcf96be1eb174cfea170468f1)
+- [ ] [<code>places-sidebar: Remove some obsolete code.</code>](https://github.com/linuxmint/nemo/commit/01444346dba153da76b4d7eb6040b15c93125b0f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
