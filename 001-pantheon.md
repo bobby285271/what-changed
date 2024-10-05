@@ -184,18 +184,8 @@
 
 - [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
 
-#### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.0 → HEAD](https://github.com/elementary/photos/compare/8.0.0...HEAD)
+#### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
-- [ ] [<code>gschema: Remove alias to sharing (#767)</code>](https://github.com/elementary/photos/commit/42bc09e4782380dd4b221974ea02f21ebf12baa3)
-- [ ] [<code>AppDirs: Fix loading plugins (#770)</code>](https://github.com/elementary/photos/commit/cc5af834f37891a4df6a6b5d9278c17472ef433b)
-- [ ] [<code>meson: Use gnome module to compile schemas (#772)</code>](https://github.com/elementary/photos/commit/e1ceee19a9c4db65ecc499eda4f88bc88d987816)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Flatpak: add sandbox hole for home (#774)</code>](https://github.com/elementary/photos/commit/742f6d1b67293f07e56027648f3c0aafd5cc4517)
-- [ ] [<code>Metainfo: Add 8.0.1 release notes (#776)</code>](https://github.com/elementary/photos/commit/fb4565eab0f1e377376382a5c0b52652afdbce4a)
-- [ ] [<code>Release 8.0.1 (#777)</code>](https://github.com/elementary/photos/commit/f976b6a2d2f46a68ad989860a338e0d47bdb6801)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Modernize desktop files, simplify build (#778)</code>](https://github.com/elementary/photos/commit/25ccd5742001457c0cf65de86f07399925ba590e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
@@ -273,6 +263,7 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
 - [ ] [<code>Add Notifications settings (#238)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b4f466013fb90a9bbb5e27d12390070a0806ea4e)
+- [ ] [<code>AppSettingsView: Fix typo 'Notications' -> 'Notifications' (#239)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bdf1ccb7862cfa5e57d7dbe785e97b3e706a41fb)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
 
