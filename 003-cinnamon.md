@@ -60,14 +60,18 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>closeDialog: Fix msgids</code>](https://github.com/linuxmint/cinnamon/commit/6cc3ba7fa3d0b1f3f630ff4507449d47fc43a1da)
 - [ ] [<code>docs: Remove recorder.xml.in (#12395)</code>](https://github.com/linuxmint/cinnamon/commit/1e43299b9ad548c9395edfd456cbba017ca02b9f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon/commit/520b4db1f0af12c598534efe91f211786a7b2443)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.2.0...HEAD)
 
+- [ ] [<code>Simplify overamplification setting</code>](https://github.com/linuxmint/cinnamon-desktop/commit/afed4347c8c0b5c9f7be5b373bd168dadd8995b5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
@@ -101,6 +105,7 @@
 
 - [ ] [<code>csd-settings-remap-manager.c: Only report on missing schemas and</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d97f9230cfa633b7c319bc9305a4461977654574)
 - [ ] [<code>csd-power-manager: Assume a keyboard backlight max-value of 0 to</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5227d117adef895da75144b5b6951d246fd7476c)
+- [ ] [<code>csd-media-keys: Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bcc2dc386de69a2d3837225310b2de1a0b9dc308)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
