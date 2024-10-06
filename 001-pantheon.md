@@ -242,18 +242,8 @@
 - [ ] [<code>MainWindow: fix invalid bundle cast (#172)</code>](https://github.com/elementary/sideload/commit/672c489471577b3bc98cfd51396cc3f20f8d0a9f)
 - [ ] [<code>Metainfo: add 6.3.0 release notes (#173)</code>](https://github.com/elementary/sideload/commit/33730861c3e5ce8aa92a95023978c5811d5c98ab)
 
-#### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard/compare/8.0.0...HEAD)
+#### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard/compare/8.0.1...HEAD)
 
-- [ ] [<code>README: Add sassc to dependencies (#314)</code>](https://github.com/elementary/switchboard/commit/1a08a5226b5a3315d3350cc45edb662e64e18a95)
-- [ ] [<code>meson: Use gnome module to compile schemas (#317)</code>](https://github.com/elementary/switchboard/commit/b605d7ae9c92a151ba1403721fb2fe1144d3b4af)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>SettingsSidebarRow: set accessible role, label, description (#319)</code>](https://github.com/elementary/switchboard/commit/64d5ecb57afaa38935b5f6f94d649d8fde8910ce)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#320)</code>](https://github.com/elementary/switchboard/commit/871490cf9cacd42b6ee7e888821b5c49fdd0babc)
-- [ ] [<code>sample: Handle own titlebuttons (#322)</code>](https://github.com/elementary/switchboard/commit/d184188985b2b726f2e965a99533a96ba47d8e31)
-- [ ] [<code>Release 8.0.1 (#321)</code>](https://github.com/elementary/switchboard/commit/c2f4f3c099ea5ee67a1178b3834eaffe20fee01b)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
