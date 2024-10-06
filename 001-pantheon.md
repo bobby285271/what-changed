@@ -508,6 +508,7 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ci: Update mutter version for noble (#762)</code>](https://github.com/elementary/greeter/commit/0ce8fce2c6d6c3a2ad25aede0f12a1111c024415)
+- [ ] [<code>Application: subclass Gtk.Application (#728)</code>](https://github.com/elementary/greeter/commit/c09e7f92e5fcf416c33627690116b0b76cd19135)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
@@ -911,6 +912,7 @@
 
 - [ ] [<code>PlayerRow: fix icon size (#276)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6cc09556c9aecbf9275ef665667d3ce15845d15)
 - [ ] [<code>Fix deprecated provider for context (#278)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d21437e36582c9a57ed94cae7abb8e98c605cb72)
+- [ ] [<code>DeviceItem: use device object (#277)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fe9aba0acf9b4fce54a6cf5e756727992b3ad3c)
 ## granite
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
