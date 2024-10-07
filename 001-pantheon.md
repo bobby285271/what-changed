@@ -128,6 +128,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix some small deprecations (#273)</code>](https://github.com/elementary/dock/commit/ba02bd612063b87f2f08af806ebfcee0e6c59a5a)
+- [ ] [<code>LauncherManager: Fix crash when dnd a non desktop file (#272)</code>](https://github.com/elementary/dock/commit/2136dd3579f43033fbf89b2b555d97e3ba531761)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -232,6 +233,7 @@
 - [ ] [<code>Separate button controllers - Gtk4 prep (#787)</code>](https://github.com/elementary/terminal/commit/a36ee042e37fb5e783befe7217a07800b39e66f0)
 - [ ] [<code>Gtk4 Prep - SettingsPopover - call terminal zoom functions directly (#789)</code>](https://github.com/elementary/terminal/commit/85c82c11e021719c84a256007af640afedf17280)
 - [ ] [<code>Code Style -  (#790)</code>](https://github.com/elementary/terminal/commit/1a6b46b9a301711970971f74e29ec8e185ffc57e)
+- [ ] [<code>Implement Clear and Reset actions with hotkeys (#778)</code>](https://github.com/elementary/terminal/commit/2dc7e2e02443f51863e037324efa2ac299e34a95)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
