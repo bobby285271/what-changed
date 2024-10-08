@@ -299,6 +299,7 @@
 - [ ] [<code>VPNMenuItem: use emblem status icons (#406)</code>](https://github.com/elementary/switchboard-plug-network/commit/191cbba63f0bdfb45157a9c8f664f93f1c6243a8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Auto select active network (#407)</code>](https://github.com/elementary/switchboard-plug-network/commit/b41c3fc893434795c5284f81c1a60e349470678d)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
