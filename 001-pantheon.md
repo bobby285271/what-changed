@@ -129,6 +129,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix some small deprecations (#273)</code>](https://github.com/elementary/dock/commit/ba02bd612063b87f2f08af806ebfcee0e6c59a5a)
 - [ ] [<code>LauncherManager: Fix crash when dnd a non desktop file (#272)</code>](https://github.com/elementary/dock/commit/2136dd3579f43033fbf89b2b555d97e3ba531761)
+- [ ] [<code>LauncherManager: Reset size request after animation finishes (#285)</code>](https://github.com/elementary/dock/commit/58247afc01d1ecee9826f7c01478123410a8f820)
+- [ ] [<code>Metainfo: add 8.0.1 Release Notes (#286)</code>](https://github.com/elementary/dock/commit/5cf2a5264ed7ef28a2ebd1edd8ebe8536d02aafe)
+- [ ] [<code>Launcher: Hide indicators while moving (#271)</code>](https://github.com/elementary/dock/commit/ba4cdb39ac445bdae1c01043439538520b1da2cc)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -159,6 +162,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Filemanager1 scroll to item (#2280)</code>](https://github.com/elementary/files/commit/7a8038db31c2ae04a3051e072f4da45ca9870437)
 - [ ] [<code>ListView: Fix collapsing folders (#2494)</code>](https://github.com/elementary/files/commit/14cf9a8fc7cb9d1910e88e66482cd0151e636d87)
+- [ ] [<code>Use Popover for search window (#2485)</code>](https://github.com/elementary/files/commit/92faf80fd24e638c710cdecca42c0d855dfad04c)
+- [ ] [<code>Do not deselect when secondary click on multiple select in ListView (#2484)</code>](https://github.com/elementary/files/commit/2f1a2333fd967aced8219d7238e7f4abbff88fc3)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -184,6 +189,7 @@
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
 - [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
+- [ ] [<code>Add quit keyboard shortcut (#778)</code>](https://github.com/elementary/music/commit/d7fbb4fcff8be47f913a135945eaacb6873c0862)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
