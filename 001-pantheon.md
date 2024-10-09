@@ -164,6 +164,8 @@
 - [ ] [<code>ListView: Fix collapsing folders (#2494)</code>](https://github.com/elementary/files/commit/14cf9a8fc7cb9d1910e88e66482cd0151e636d87)
 - [ ] [<code>Use Popover for search window (#2485)</code>](https://github.com/elementary/files/commit/92faf80fd24e638c710cdecca42c0d855dfad04c)
 - [ ] [<code>Do not deselect when secondary click on multiple select in ListView (#2484)</code>](https://github.com/elementary/files/commit/2f1a2333fd967aced8219d7238e7f4abbff88fc3)
+- [ ] [<code>AbstractDirectoryView: Use EventControllerScroll (#2408)</code>](https://github.com/elementary/files/commit/37ead8a40fcff4743542d5f84f2e4ed21e48b502)
+- [ ] [<code>Add focus sidebar action to window (#2353)</code>](https://github.com/elementary/files/commit/2f0273b57bf1752353064cd8df2749d45e138087)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -382,6 +384,7 @@
 - [ ] [<code>Places: Fix symbolic pagesizes, grid alignment (#1320)</code>](https://github.com/elementary/icons/commit/fbacdddf64e2478e4819835176d09962aa771277)
 - [ ] [<code>Categories: Fix symbolic pagesizes, grid alignment (#1316)</code>](https://github.com/elementary/icons/commit/a9b4f625dbc943320418fc262e74bfc22c10ed04)
 - [ ] [<code>Status: Fix symbolic pagesizes, grid alignment (#1321)</code>](https://github.com/elementary/icons/commit/76fb26d0d4e30f041fd77576823a206e9c8c362d)
+- [ ] [<code>Cursors: Update `text` and `text-vertical` cursors (#1322)</code>](https://github.com/elementary/icons/commit/cd491d1feaa16adf61c12e8275dd5ab0fdeba5b3)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -963,6 +966,7 @@
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.1.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.1.0...HEAD)
 
 - [ ] [<code>Launcher: add X-GNOME-UsesNotifications (#161)</code>](https://github.com/elementary/settings-daemon/commit/bae5d7ea024bb744f1ab2909093aee8ac30b7824)
+- [ ] [<code>SystemUpdate: Don't auto update on a metered connection (#159)</code>](https://github.com/elementary/settings-daemon/commit/157ffd0862ee0c6539694d23c0fae85c6c68ac37)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
