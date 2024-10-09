@@ -30,6 +30,7 @@
 - [ ] [<code>Add symbol filter to outline pane (#1253)</code>](https://github.com/elementary/code/commit/28a063c82489fab7fe6bdf7174fd9267087cc0e2)
 - [ ] [<code>Fix the app crashing when two folders with a common path (up to /) (#1460)</code>](https://github.com/elementary/code/commit/30092fddef29d8194b1bcab7489af0eacd3febad)
 - [ ] [<code>FolderManager: use git emblem icons (#1463)</code>](https://github.com/elementary/code/commit/c312bc831268360976792bbfb4cbbe03b4760b03)
+- [ ] [<code>Fix block comment toggling for empty lines (#1468)</code>](https://github.com/elementary/code/commit/f49d00d6a3b7a7288abc8096ef62d21bc2b0bcea)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -909,6 +910,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add more symbolic battery icons (#267)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/37f4540a67b642a80d1904800425b1f70b5c4496)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#268)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7a85bbc6ebcd9b3629e6bd8341fa9ae947a74575)
+- [ ] [<code>Device: handle coarse battery level (#266)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4fe018821bec048070bc053e0e859e75ea9cf566)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
