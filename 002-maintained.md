@@ -390,6 +390,11 @@
 - [ ] [<code>Merge pull request #372 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/e57d262890bfced813fb007b960961104d0dfe83)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Merge branch 'master' into dev</code>](https://github.com/stsdc/monitor/commit/6ee091645dababb7679772b6676de68cad42e6d2)
+- [ ] [<code>Update README.md</code>](https://github.com/stsdc/monitor/commit/a3f03b533989cc96f78a92d4a51aa56b0564b6da)
+- [ ] [<code>Remove deprecated Fedora/Copr section from Readme (#380)</code>](https://github.com/stsdc/monitor/commit/0f107c92ebde6bf2552ef90cef0664d01c8b2aee)
+- [ ] [<code>Remove the code related to the docker container feature (#381)</code>](https://github.com/stsdc/monitor/commit/2e2a048bab61c7a71ea704689dbe9319821497a0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove leftovers from the gpu_memory in Statusbar (#382)</code>](https://github.com/stsdc/monitor/commit/f783dad33800bca2a80158a57d17579c3550f973)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
