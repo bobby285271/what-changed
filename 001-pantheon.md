@@ -31,6 +31,7 @@
 - [ ] [<code>Fix the app crashing when two folders with a common path (up to /) (#1460)</code>](https://github.com/elementary/code/commit/30092fddef29d8194b1bcab7489af0eacd3febad)
 - [ ] [<code>FolderManager: use git emblem icons (#1463)</code>](https://github.com/elementary/code/commit/c312bc831268360976792bbfb4cbbe03b4760b03)
 - [ ] [<code>Fix block comment toggling for empty lines (#1468)</code>](https://github.com/elementary/code/commit/f49d00d6a3b7a7288abc8096ef62d21bc2b0bcea)
+- [ ] [<code>Add saved and renamed docs to RecentManager (#1467)</code>](https://github.com/elementary/code/commit/d600016a1b84a3ba1dba60bcbd2a7d8e30077ecd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -280,6 +281,9 @@
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e56a76a63c8a79d85d4baeff372a99e6e64c5b36)
 - [ ] [<code>Update timezone translations (#131)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/dca7622b7cfd8cc71611648abea8100f20f54bc4)
+- [ ] [<code>Release 8.1.0 (#132)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/763dc18bba6008722b6ee4106d7c98bf17ea458d)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.0...HEAD)
 
@@ -902,6 +906,7 @@
 - [ ] [<code>Fix meson deprecations (#282)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/989c1ec1f4aeec9d1f7e133f1fcd1f31ae9aa866)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppEntry: Add sweep  animation (#283)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/05f569ca89d62a1582ffd8218cf56bff9c1ddc50)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.0...HEAD)
 
