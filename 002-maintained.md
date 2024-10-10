@@ -384,6 +384,14 @@
 - [ ] [<code>Removing DynamicNotebook from build process</code>](https://github.com/phase1geo/minder/commit/c2408314b5822ae90229004fa2d5119200eba77f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Cleaning up debug output.</code>](https://github.com/phase1geo/minder/commit/0d61cabe8b44a735dcd628d86c6df34a77756298)
+- [ ] [<code>Revert "Cleaning up debug output."</code>](https://github.com/phase1geo/minder/commit/c62710ab98c0e770d17c05c46a66890d45b0a1f1)
+- [ ] [<code>Revert "Removing DynamicNotebook from build process"</code>](https://github.com/phase1geo/minder/commit/f901b7c7ee1b4efe1dff99384a7d9d39f6ee14b0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "Removing obsolete DynamicNotebook"</code>](https://github.com/phase1geo/minder/commit/b5e5a4f0ac6a296467566cb0e4fb27a6d227fc32)
+- [ ] [<code>Revert "Switching over from DynamicNotebook to Notebook"</code>](https://github.com/phase1geo/minder/commit/f436df635ee9833670b82105954da5db6a493610)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fixing issue with installation of Minder application SVG icon</code>](https://github.com/phase1geo/minder/commit/7b09351b6e089611e6af6ae07ff3a58f2aa0c914)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -395,6 +403,10 @@
 - [ ] [<code>Remove the code related to the docker container feature (#381)</code>](https://github.com/stsdc/monitor/commit/2e2a048bab61c7a71ea704689dbe9319821497a0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove leftovers from the gpu_memory in Statusbar (#382)</code>](https://github.com/stsdc/monitor/commit/f783dad33800bca2a80158a57d17579c3550f973)
+- [ ] [<code>Update actions (#378)</code>](https://github.com/stsdc/monitor/commit/8d12c775d186274c2893ebac58f5f1747e78dc3b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remember to clone with submodules</code>](https://github.com/stsdc/monitor/commit/1e3c41bce2b759c2a0390180a923134889d17d4d)
+- [ ] [<code>Workflows/gettext: fix invalid syntax</code>](https://github.com/stsdc/monitor/commit/b36889e2edf0ab3e1a55c39f6996dc38945c6fa7)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
