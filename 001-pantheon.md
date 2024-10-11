@@ -518,6 +518,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ci: Update mutter version for noble (#762)</code>](https://github.com/elementary/greeter/commit/0ce8fce2c6d6c3a2ad25aede0f12a1111c024415)
 - [ ] [<code>Application: subclass Gtk.Application (#728)</code>](https://github.com/elementary/greeter/commit/c09e7f92e5fcf416c33627690116b0b76cd19135)
+- [ ] [<code>Create Application.css (#763)</code>](https://github.com/elementary/greeter/commit/10ac491008e68125d12cdf632baca80135497c15)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
@@ -976,6 +977,7 @@
 
 - [ ] [<code>Launcher: add X-GNOME-UsesNotifications (#161)</code>](https://github.com/elementary/settings-daemon/commit/bae5d7ea024bb744f1ab2909093aee8ac30b7824)
 - [ ] [<code>SystemUpdate: Don't auto update on a metered connection (#159)</code>](https://github.com/elementary/settings-daemon/commit/157ffd0862ee0c6539694d23c0fae85c6c68ac37)
+- [ ] [<code>SystemUpdate: make sure we notify if network is metered (#164)</code>](https://github.com/elementary/settings-daemon/commit/6e9dd0c71064e904bf85911eae844d6f6e0bf17d)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
