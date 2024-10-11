@@ -407,6 +407,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remember to clone with submodules</code>](https://github.com/stsdc/monitor/commit/1e3c41bce2b759c2a0390180a923134889d17d4d)
 - [ ] [<code>Workflows/gettext: fix invalid syntax</code>](https://github.com/stsdc/monitor/commit/b36889e2edf0ab3e1a55c39f6996dc38945c6fa7)
+- [ ] [<code>Remove leftovers (#386)</code>](https://github.com/stsdc/monitor/commit/1fb3062cc75f429b1d0849e660540c87b58eab9d)
+- [ ] [<code>Remove stylesheet retrofit (#387)</code>](https://github.com/stsdc/monitor/commit/c2f87c349b74224bf1874fdb502ef10994bf3956)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
