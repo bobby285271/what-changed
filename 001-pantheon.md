@@ -168,6 +168,7 @@
 - [ ] [<code>Do not deselect when secondary click on multiple select in ListView (#2484)</code>](https://github.com/elementary/files/commit/2f1a2333fd967aced8219d7238e7f4abbff88fc3)
 - [ ] [<code>AbstractDirectoryView: Use EventControllerScroll (#2408)</code>](https://github.com/elementary/files/commit/37ead8a40fcff4743542d5f84f2e4ed21e48b502)
 - [ ] [<code>Add focus sidebar action to window (#2353)</code>](https://github.com/elementary/files/commit/2f0273b57bf1752353064cd8df2749d45e138087)
+- [ ] [<code>FileOperations: Continue to move some report functions to Vala (#2503)</code>](https://github.com/elementary/files/commit/a1dd90f1f8731f683d14a63abb8c411418fbba1a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -210,6 +211,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/screenshot/commit/cdbd008944c2e29839fb99a60c82c6563ced7582)
+- [ ] [<code>Fix copy to clipboard (#285)</code>](https://github.com/elementary/screenshot/commit/2aeadad9ff142fb6235d76dcc004e8940f0efee1)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
