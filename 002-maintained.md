@@ -411,6 +411,7 @@
 - [ ] [<code>Remove stylesheet retrofit (#387)</code>](https://github.com/stsdc/monitor/commit/c2f87c349b74224bf1874fdb502ef10994bf3956)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add .editorconfig (#388)</code>](https://github.com/stsdc/monitor/commit/307a2e78b9faf6e3eb0ab309d24c8bd93c28d5e2)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
