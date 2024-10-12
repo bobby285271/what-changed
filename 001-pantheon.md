@@ -134,6 +134,7 @@
 - [ ] [<code>LauncherManager: Reset size request after animation finishes (#285)</code>](https://github.com/elementary/dock/commit/58247afc01d1ecee9826f7c01478123410a8f820)
 - [ ] [<code>Metainfo: add 8.0.1 Release Notes (#286)</code>](https://github.com/elementary/dock/commit/5cf2a5264ed7ef28a2ebd1edd8ebe8536d02aafe)
 - [ ] [<code>Launcher: Hide indicators while moving (#271)</code>](https://github.com/elementary/dock/commit/ba4cdb39ac445bdae1c01043439538520b1da2cc)
+- [ ] [<code>GSettings: add installer to default launchers (#290)</code>](https://github.com/elementary/dock/commit/d86adb8e899eb46e153c8647d6a5f08fa3a0d16e)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -186,6 +187,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update MainWindow.vala (#57)</code>](https://github.com/elementary/iconbrowser/commit/e93ca4218d0ecbbc3affd9dea7186b9fa9072c61)
 - [ ] [<code>Update iconbrowser.appdata.xml.in</code>](https://github.com/elementary/iconbrowser/commit/d199d86df4d8f0c8d0929fe9ea68b0aff7f174ea)
+- [ ] [<code>Use IconCollection (#60)</code>](https://github.com/elementary/iconbrowser/commit/8b2f93df66e76561c84a5903b33f303ad7798180)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -258,6 +262,7 @@
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard/compare/8.0.1...HEAD)
 
+- [ ] [<code>feat: add schema sidebar position (#326)</code>](https://github.com/elementary/switchboard/commit/be7f38aa5772b16d0bedab9c4ca99495ff757391)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
@@ -290,6 +295,7 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/a9b55a93e09caa41229902f297ec556f820db988)
+- [ ] [<code>Use mutter provided supported scales (#399)</code>](https://github.com/elementary/switchboard-plug-display/commit/c74321902f30a414b1380b214ffccb35fd5e3ba3)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.0...HEAD)
 
@@ -754,6 +760,7 @@
 - [ ] [<code>WindowIcon: reload icon if more info about the window becomes available (#2068)</code>](https://github.com/elementary/gala/commit/20eef782ab4c12752fae84adaafed774f1d1481c)
 - [ ] [<code>ManagedClient: Inherit fds (#2069)</code>](https://github.com/elementary/gala/commit/31ca0681469d41129b6aa55a9022f734af448140)
 - [ ] [<code>ci: Update mutter version for noble</code>](https://github.com/elementary/gala/commit/2ec1356085562e47ed885946f1a6d733a9e23011)
+- [ ] [<code>WindowClone: Only load after shown (#2072)</code>](https://github.com/elementary/gala/commit/4c118826b183aa79eb259f9be41e1ae2031c377a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
