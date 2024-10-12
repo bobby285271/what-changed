@@ -392,6 +392,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fixing issue with installation of Minder application SVG icon</code>](https://github.com/phase1geo/minder/commit/7b09351b6e089611e6af6ae07ff3a58f2aa0c914)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating .editorconfig</code>](https://github.com/phase1geo/minder/commit/708d35918734f850c61cb478082d7bdf02b61374)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -412,6 +413,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add .editorconfig (#388)</code>](https://github.com/stsdc/monitor/commit/307a2e78b9faf6e3eb0ab309d24c8bd93c28d5e2)
+- [ ] [<code>PreferencesView: Use Setitngs.bind to lessen scope of variables</code>](https://github.com/stsdc/monitor/commit/1882f5c6cf885509f21187aaea647ee1cb2bf739)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
