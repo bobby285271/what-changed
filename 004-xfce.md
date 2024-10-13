@@ -56,8 +56,6 @@
 - [ ] [<code>build: Use m4_defined min versions and cleanup</code>](https://github.com/xfce-mirror/garcon/commit/d687b1e30266a91cef4b3e5df22b4b896ea5200b)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>I18n: Add new translation si (50%).</code>](https://github.com/xfce-mirror/garcon/commit/76e500496eb074853ab68d4566972744119062ba)
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update `.gitignore`</code>](https://github.com/xfce-mirror/garcon/commit/01418e7f313e20902685db619f705f2cf8393400)
 - [ ] [<code>build: Fix untranslated `.directory` files</code>](https://github.com/xfce-mirror/garcon/commit/3d9c10cf09b85318888de0fb0d730b8e1da08c04)
 - [ ] [<code>Revert "build: Fix untranslated `.directory` files"</code>](https://github.com/xfce-mirror/garcon/commit/e1230195083db11c91936c9de3b7d873ae58405b)
@@ -110,8 +108,6 @@
 - [ ] [<code>XfceFileNameInput - wrap error message (Issue #60)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/48bacbbe43655a9935e51fbbe718a48c94bea50b)
 - [ ] [<code>Fix memory leaks</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3c1b961b12f54dcd5059e6edc48f2923b8a04f3b)
 - [ ] [<code>Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/792359d82114746f2fa1f6e99a4979ed3502b14c)
-- [ ] [<code>I18n: Add new translation fa_IR (61%).</code>](https://github.com/xfce-mirror/libxfce4ui/commit/17dfd2483a60428cab27ff748471fa5b649cf46f)
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shortcut-dialog: Use parent window for the grab if possible (Fixes #52)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e10f494263ca3d164a965a20e28f2792038d933d)
 - [ ] [<code>docs: Fix broken links</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3999a490b620814d127a14e7a7be767fc68e4632)
 - [ ] [<code>Add XfceScreensaver</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e53afab3215a1dc58f74919fe7f94d8831d6a59f)
@@ -330,7 +326,6 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/libxfce4util/commit/c14d5b1b270d6a505f19e1247b9729c7d4483644)
   - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>I18n: Add new translation fa_IR (57%).</code>](https://github.com/xfce-mirror/libxfce4util/commit/cda57050278bd12eb9c0e090f69190b5bc9624c5)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/d63a4ed9618443c6ef57eb8d2830804203f8d499)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
@@ -352,52 +347,21 @@
 - [ ] [<code>configure: error out if no windowing backend enabled</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0dcd0a348c02786e45e8cd167d9ba92df29a2148)
 - [ ] [<code>Add new CI builds to build without X11 and Wayland</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/04c6ce260450ce734f3c8c463368e3308bd9c645)
 - [ ] [<code>XfwWnckIcon: Silently return NULL if no X11 window can be found</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/66ca431cec25aa748ce4b4a0811312d6311d5b5e)
-- [ ] [<code>I18n: Add new translation bg (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/52973ca788482faa28a238a1cc2eb4147d856233)
-- [ ] [<code>I18n: Add new translation de (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6dc2839508558a7a3046014916ab9264d5e96b8d)
-- [ ] [<code>I18n: Add new translation es (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f2d1ab060c8c4718a868c0d3a5f80bb30cb74587)
-- [ ] [<code>I18n: Add new translation fi (73%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c6b09f0eb881a8707aa008aadfb8f722287ae35)
-- [ ] [<code>I18n: Add new translation fr (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e3fb3bc4a243e2b869a2dc105ddd906bca3975d9)
-- [ ] [<code>I18n: Add new translation he (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a732e2842aeda15adf0bd74744e5b1c6965ba99e)
-- [ ] [<code>I18n: Add new translation it (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/30a30fee37938445a20a08eaa1d4f8c1a657957b)
-- [ ] [<code>I18n: Add new translation ja (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cec3acba6487f5431970811e1846bcd02c154b9f)
-- [ ] [<code>I18n: Add new translation ko (89%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1a717a9bbe3055fe9aee75d13451ed34b7437427)
-- [ ] [<code>I18n: Add new translation lt (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2a4960cc3bf6c1d10e8bf31b396c1372addf4651)
-- [ ] [<code>I18n: Add new translation nb (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/35ceb075ecb49e30b437c1781395ef99ae49dddc)
-- [ ] [<code>I18n: Add new translation nl (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/abf279b47bb1566c08a88638f26d45fad74f1f1b)
-- [ ] [<code>I18n: Add new translation pl (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6317094f5058b1415037f6b4fc1336e30032c4b4)
-- [ ] [<code>I18n: Add new translation pt (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a76b868f6a681b9c1086ecd6a9a006cdd110a597)
-- [ ] [<code>I18n: Add new translation pt_BR (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/31b91ada050fa3e00eecd16d6e62369a55b24081)
-- [ ] [<code>I18n: Add new translation sl (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cd88a7258e671f0ca3e270c1e12ee59b5daf2435)
-- [ ] [<code>I18n: Add new translation sq (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c580062d0fc926ba4568a7ce22139a51cd88d77a)
-- [ ] [<code>I18n: Add new translation sr (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6aa5593a260e9de03e47c655207d240b31fb548e)
-- [ ] [<code>I18n: Add new translation sv (94%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a2bf4cce0fdb3364d63481502be8817f5fd7a013)
-- [ ] [<code>I18n: Add new translation tr (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/abe143818fa180df0d7b8b88aac1338b701ab135)
-- [ ] [<code>I18n: Add new translation zh_CN (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/af33795de17eff4156236a235167ef4887f79e7b)
-- [ ] [<code>I18n: Add new translation zh_TW (89%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/3ab4c88dfcacabc333454fe4f82a4aa5f97f0945)
-- [ ] [<code>I18n: Add new translation en_CA (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9923ca4debea137a881a719696ce1332b38758d9)
-- [ ] [<code>I18n: Add new translation oc (78%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8e210157de3237ea3eb53bc42cd5da5e2d2df0bd)
-- [ ] [<code>I18n: Add new translation ru (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8f72515e2342904b899462f2dcfdf6d9ceae258b)
-- [ ] [<code>I18n: Add new translation uk (73%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cefc69c848d9457378030d2007f2e5a765380308)
-- [ ] [<code>I18n: Add new translation ie (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/59416bd5d8d339ccbde003bc04559268352ac607)
 - [ ] [<code>configure: Fix X11's dependencies detection</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5e7058d7df74c523d41d0a8fc2ab59e567c233c2)
 - [ ] [<code>build: Fix "make dist" when disable wayland</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d4a38530265e5a53f2cb437aa35724107dba5782)
 - [ ] [<code>Update bug report address</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/539af2a75679f442b0632986c6352f9f9c0ea664)
 - [ ] [<code>build: Fix autotools warning</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/098691b6154f86cbcb62aea06cb7ede3cf740da8)
 - [ ] [<code>Use bind_textdomain_codeset() if available</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9939827e7ec57f91f7ba81c44f665322773724cd)
 - [ ] [<code>build: Get rid of IntlTool</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/19987e58be8977b247f1f82a1f5a259bd7497233)
-- [ ] [<code>I18n: Add new translation hr (68%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d0245eb47c2c2840a441145ea95ce5e24eecafaa)
 - [ ] [<code>autogen.sh: fix xfce4-dev-tools dependency version</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/89198a1ca8efafb5f18f0d49681aff83bbe2bd47)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Use $PKG_CONFIG and not pkg-config in configure.ac</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0120b2d96306e736552479fb9e21b3e903b08c93)
 - [ ] [<code>Use XDT_VERSION_INIT() and eliminate need for configure.ac.in</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/4a9f397af4a0d1ff595615f5caddf7725248e9af)
   - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>I18n: Add new translation id (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ca3773e3501dc76629381db7dd58dc273436efae)
 - [ ] [<code>Use XDT_CHECK_OPTIONAL_FEATURE</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/65457c891fbcbf6233d3dc0d4de361773311a592)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Use XDT_CHECK_PACKAGE_BINARY for wayland-scanner</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/92088c66a19876786e19b4e3b0c36bcc54d58aef)
   - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>I18n: Add new translation en_GB (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d1d464d0a7ead0756f1bc027a34313d4b3c76d91)
-- [ ] [<code>I18n: Add new translation ro (57%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0ab53e0a20f541960df34ae48ca59dee62635a21)
 - [ ] [<code>XfwScreenX11: Fix typo in property name when creating window</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ae5e6e95ad82488a5ccf92a5c05d0d5a597c5421)
 - [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/3ff4cfe38b9854867042b12c7d354f7902a0bf1b)
   - <sub>Files: <code>configure.ac</code></sub>
@@ -418,15 +382,11 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/87163e09602e2d51edccf504a97f19142b99992b)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/279d8e3f082e68a2aa468cd1e9f1db96761eabf7)
 - [ ] [<code>window-wayland: Ensure app always exists (Fixes #14)</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/97804b1964a1855c519b8d24fc689badcbd0ac16)
-- [ ] [<code>I18n: Add new translation ca (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/fd5f3c88b38e0390c24abe4299a9af5f44647568)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/db1e54a7adeab14b2bcea58bfbda760171e8054d)
-- [ ] [<code>I18n: Add new translation et (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ef2cf5ec2f76b5585a71088f4afab885651182cc)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/848e3c5dd37e293f16bc156fc9a020bc1d2cb23e)
-- [ ] [<code>I18n: Add new translation ga (73%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/3b6497d8e0a9c981d0f8d558220e5d33351e9092)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ddfdf7c24c61993d4fb8a650419a7970f03c228a)
 - [ ] [<code>application: Fix window memory management (V2)</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cc2d33c102e8be2a38bb0189ecc700a2e686fd3b)
 - [ ] [<code>window-wayland: Set app_id only if it changes</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/60aa40223ebaadc6c90bf6fa2589bc0e40b671fa)
-- [ ] [<code>I18n: Add new translation da (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/3dc1560458d502922ba9de5e20e97b544eab3cd3)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5801cff7fca6744e7fafd492cd93d911592db719)
 - [ ] [<code>Add missing G_END_DECLS</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1ed2f8d030aa992ff6baf96d29ebb5d82d6d2ef0)
 - [ ] [<code>Reduce verbosity</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/fed8c588f953582de403c97c82a03d1a17944073)
@@ -456,7 +416,6 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e637ffb55d89b79f1d977385ffd139affb6533d3)
   - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>I18n: Add new translation el (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bc83a0fac76bb7df3a5ebbbfce95b4cd119f0ac8)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/45d485da899621b7803b8c126eaffcd89f995061)
 - [ ] [<code>Implement workspace layout row/column for Wayland</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/742731f4a31f48a4c81b0450c2e4034083ad2412)
 - [ ] [<code>Add layout-row and layout-column properties to XfwWorkspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0a487d79c0d91f3fd299d8fde3f08d120d40187d)
@@ -466,10 +425,8 @@
 - [ ] [<code>make sure bash is found non non-linux</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9394297a89919ecfd8cc3b9799cf6c38ed803ab5)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Don't toggle show-desktop whenever wnck tells us it changed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/02b9bb9f365a0be0f62458a7ba483b315309b865)
-- [ ] [<code>I18n: Add new translation cs (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5fe625b08f804c93ab69acf3c7182a8ccadd29ee)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/32a7526607b9201bedb38315e8dcc149f122a3e5)
 - [ ] [<code>Revert "Add new CI builds to build without X11 and Wayland"</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/88ed27cd6f19f4eb107a04e2b8f386a246fc86b4)
-- [ ] [<code>I18n: Add new translation kk (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/995a3b8e5eb33527409384aa280079a3f3e01edf)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/44cb8120ed38083c9bdd34d1541819d0d254f833)
 - [ ] [<code>build: clang: Fix -Wcast-align</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/3040e3db378f037bf98b788ccb9e7ed6dcc8039a)
 - [ ] [<code>scan-build: Add false positive file</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b15306e9475ecafacfba8c0dddd3f8f58bbd3a6d)
@@ -510,7 +467,6 @@
 - [ ] [<code>Add a couple small test programs</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ebef7159290c03ad0c40c8b9f4de29aaec54fdfb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>I18n: Add new translation ast (100%).</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7a935bfed7d44ed04c5b6cdaac8e374d0e64a602)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/471ee5b9081f605c302cd07bfcb6875de158d3ed)
 - [ ] [<code>x11: refresh monitors in an idle function</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a9b4ff4298220d5b5b639f11a3043c39486bb19e)
 - [ ] [<code>Add tests/Makefile.am</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/feb173aecce6b8ffe5bfa1ae8d73bcbbbac66085)
@@ -1075,8 +1031,6 @@
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/6311769c1c7781ed15d2bf238e2722abd08c8742)
-- [ ] [<code>I18n: Add new translation en_CA (100%).</code>](https://github.com/xfce-mirror/thunar-volman/commit/7b70065a41bb7a4a58a0b839fcef9a1cd1d47cdd)
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update bug report address</code>](https://github.com/xfce-mirror/thunar-volman/commit/41d262b9d175b9124590790bbd22da553ac624f9)
 - [ ] [<code>settings: Fix critical warning when closing embedded dialog</code>](https://github.com/xfce-mirror/thunar-volman/commit/59ec0d968e9a8e8b4950c37504ab1fb68c40618a)
 - [ ] [<code>Declare use of function (fixes #24)</code>](https://github.com/xfce-mirror/thunar-volman/commit/3e44d83a1e70c86d6fe8919e6025cf34cdf053c0)
@@ -1099,7 +1053,6 @@
 - [ ] [<code>build: Let xdt-depends.m4 macros set GLib macros</code>](https://github.com/xfce-mirror/tumbler/commit/8516f775438f48ede28ddba687d384862f7a4f5e)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>I18n: Add new translation en_CA (100%).</code>](https://github.com/xfce-mirror/tumbler/commit/e0584ad9f9d1689a1f90fbd3076d04575c803d04)
 - [ ] [<code>cleanup: plugins: Use G_DECLARE_FINAL_TYPE for providers</code>](https://github.com/xfce-mirror/tumbler/commit/f9e3612bc80e748ccb25f6fbbeb85a34f7998626)
 - [ ] [<code>cleanup: plugins: Use G_DECLARE_FINAL_TYPE for plugins</code>](https://github.com/xfce-mirror/tumbler/commit/5ec7b149eca6b4852b9851e05214c98e31c17ac5)
 - [ ] [<code>cleanup: tumbler: Use G_DECLARE_FINAL_TYPE and G_DECLARE_INTERFACE</code>](https://github.com/xfce-mirror/tumbler/commit/e24a8827b77966e083be6b029385380170a51575)
@@ -1911,8 +1864,6 @@
 - [ ] [<code>build: Use m4_defined min versions and cleanup</code>](https://github.com/xfce-mirror/xfce4-session/commit/004ee310eaf49ff2ff5b3bc510a933b2b34ca34a)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>I18n: Add new translation az_AZ (51%).</code>](https://github.com/xfce-mirror/xfce4-session/commit/f8e0d28d1c73b3e9a50e2320c294360244dbc07d)
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Allows update on restart or shutdown when this feature are available.</code>](https://github.com/xfce-mirror/xfce4-session/commit/1d0cc80ef8aef9bf3a20ff34e9cfaece415cea2b)
 - [ ] [<code>Implement the inhibition methods in the dbus interface.</code>](https://github.com/xfce-mirror/xfce4-session/commit/aa586e05ebe18cdbd91afba7db2c125597346406)
 - [ ] [<code>Finally, take into account inhibitions when showing the session dialog.</code>](https://github.com/xfce-mirror/xfce4-session/commit/72f67587e3291ab625465536efcfb15a415c52b0)
@@ -2340,8 +2291,6 @@
 - [ ] [<code>cache: Fix overwritten error</code>](https://github.com/xfce-mirror/xfconf/commit/ade7e8e017e9d1ba5dfc098bb392f73d0a153e66)
 - [ ] [<code>Fix memory management of xfconf arrays</code>](https://github.com/xfce-mirror/xfconf/commit/c80a84cdd6767a8722b5955669c4732d2a31a7e8)
 - [ ] [<code>Fix memory leaks around xfconf_gvariant_to_gvalue()</code>](https://github.com/xfce-mirror/xfconf/commit/8e99ca4d7b62b2779e566b853033c139bbe85cf7)
-- [ ] [<code>I18n: Add new translation et (52%).</code>](https://github.com/xfce-mirror/xfconf/commit/88a616d5264713551666ddf1c65922884c7d9d68)
-  - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/6f4c1344093e315ab5bc7746859b02537deda889)
 - [ ] [<code>xml-backend: Escape whitespaces when writing file to disk</code>](https://github.com/xfce-mirror/xfconf/commit/9f1cbdd2520756e1475cf2de6adea16d92337c94)
 - [ ] [<code>xml-backend: Bump XML version to 1.1 in written files</code>](https://github.com/xfce-mirror/xfconf/commit/0614876537931a12e809621d8987baa9abe5d1b0)
