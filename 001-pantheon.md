@@ -280,17 +280,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
-- [ ] [<code>MainView: Correct initial timezone value (#128)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/3d62208d7c223a0b375ecf774c10e78df81f9a9d)
-- [ ] [<code>Timezone dropdown (#106)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/acdd3c15477f4ac22753949880c12a5016e47497)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-datetime/commit/e56a76a63c8a79d85d4baeff372a99e6e64c5b36)
-- [ ] [<code>Update timezone translations (#131)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/dca7622b7cfd8cc71611648abea8100f20f54bc4)
-- [ ] [<code>Release 8.1.0 (#132)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/763dc18bba6008722b6ee4106d7c98bf17ea458d)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.0...HEAD)
 
