@@ -414,6 +414,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add .editorconfig (#388)</code>](https://github.com/stsdc/monitor/commit/307a2e78b9faf6e3eb0ab309d24c8bd93c28d5e2)
 - [ ] [<code>PreferencesView: Use Setitngs.bind to lessen scope of variables</code>](https://github.com/stsdc/monitor/commit/1882f5c6cf885509f21187aaea647ee1cb2bf739)
+- [ ] [<code>PreferencesGeneralPage: Coding style and GTK 4 prep</code>](https://github.com/stsdc/monitor/commit/b243ba99fedd648af7cd70f1c99e7e0505a2913b)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -453,6 +454,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1450 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/d69fe674f4fe998044a28cf70ef23749abb6457f)
 - [ ] [<code>Merge pull request #1453 from golamrabbiazad/std-sidebar-header</code>](https://github.com/alainm23/planify/commit/ab3f93b0d5bc5e592c7add1387cf762dfccc7059)
+- [ ] [<code>fix #1456</code>](https://github.com/alainm23/planify/commit/7288ac4fd6e9ff1f6271c528c7d021033552a98f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
