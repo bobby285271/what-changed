@@ -1,0 +1,80 @@
+{
+    "case": [
+        {
+            "kind": "markdown",
+            "content": "# what-changed (Xfce)"
+        },
+        {
+            "kind": "markdown",
+            "content": "> Core projects only: https://gitlab.xfce.org/xfce/."
+        },
+        {
+            "url": "https://github.com/xfce-mirror/exo",
+            "from_rev": "exo-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/garcon",
+            "from_rev": "garcon-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/libxfce4ui",
+            "from_rev": "libxfce4ui-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/libxfce4util",
+            "from_rev": "libxfce4util-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/libxfce4windowing",
+            "from_rev": "libxfce4windowing-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/thunar",
+            "from_rev": "thunar-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/thunar-volman",
+            "from_rev": "thunar-volman-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/tumbler",
+            "from_rev": "tumbler-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-appfinder",
+            "from_rev": "xfce4-appfinder-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-dev-tools",
+            "from_rev": "xfce4-dev-tools-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-panel",
+            "from_rev": "xfce4-panel-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-power-manager",
+            "from_rev": "xfce4-power-manager-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-session",
+            "from_rev": "xfce4-session-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfce4-settings",
+            "from_rev": "xfce4-settings-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfconf",
+            "from_rev": "xfconf-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfdesktop",
+            "from_rev": "xfdesktop-4.18.0"
+        },
+        {
+            "url": "https://github.com/xfce-mirror/xfwm4",
+            "from_rev": "xfwm4-4.18.0"
+        }
+    ]
+}
