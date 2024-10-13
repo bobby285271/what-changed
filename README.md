@@ -12,5 +12,6 @@ You don't need to run anything locally, all outputs are updated regularly by Git
 - [001-pantheon.md](001-pantheon.md): elementary OS / Pantheon packages.
 - [002-maintained.md](002-maintained.md): Random third-party packages, mostly Pantheon related.
 - [003-cinnamon.md](003-cinnamon.md): Linux Mint / Cinnamon packages.
+- [004-xfce.md](004-xfce.md): Xfce packages (core projects only).
 
 Copy the entries you need, paste them as an issue or a comment, then go through the list.
