@@ -1260,6 +1260,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>ci: Parallelize autotools builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bcf3b8c9e90b9daa48e20c1f11e20d71bd2de827)
 - [ ] [<code>Don't quote the filename args passed to 'git diff'</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9008df45d2d5a0566205f86c45026683402982b8)
+- [ ] [<code>Work around parallel 'make distcheck' bug in gettext</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/6569437523b1109ffa21ef11e49fcd88c93353ac)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
@@ -1593,6 +1594,11 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a1a0d1fe494a6cb0b0f945a0d329bd30fb8600ca)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>clock: Added 24h clock mode to the analog clock</code>](https://github.com/xfce-mirror/xfce4-panel/commit/0ec2c56b77a5cac7b907229d2512f8283bc3595f)
+- [ ] [<code>systray: Add missing translation</code>](https://github.com/xfce-mirror/xfce4-panel/commit/29270865a20d35d89e0d28ee92314b2d768a63e1)
+- [ ] [<code>Revert "wayland: tasklist: Fix icon size in multirow mode"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f2c8bdae565bdedaa3edcac174734b01045a94dc)
+- [ ] [<code>tasklist: Keep icon sizes as specified by the user</code>](https://github.com/xfce-mirror/xfce4-panel/commit/90ebf84496304dbe60d999436806d069615dd01d)
+- [ ] [<code>Added XFCE_PANEL_PLUGIN_ICON_PADDING (API change)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4e80a9bbe0898130fcc966267992c9394e4d18a2)
+- [ ] [<code>Added a missing property bind for 24hr analogue clock</code>](https://github.com/xfce-mirror/xfce4-panel/commit/76fe1669151cc688b69366da6506a20fcb0d6a77)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -1823,6 +1829,7 @@
 - [ ] [<code>build: Adjust Wayland requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/a67af750e4dabb7dc2fed745e6d4fd723f7afab0)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Fix string leak in helper_get_value</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/428c335fec3f2054ef5fc299ea4ef6649f338f06)
+- [ ] [<code>Fix string leak in get_device_icon_name</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e71b60a9d8a3a7f1d4f0cbca8926a1250b618651)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -1983,6 +1990,10 @@
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/xfce4-session/commit/3e9c5b5db3d9c4d96b3eadb0a70015b2a66e0b02)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>manager: Fix string leaks</code>](https://github.com/xfce-mirror/xfce4-session/commit/76848d31cef0f23877e626eedc7ea5ea63078ffb)
+- [ ] [<code>Fix leaks in settings_list_sessions_open_key_file</code>](https://github.com/xfce-mirror/xfce4-session/commit/0bd44031151ed0233919d780b75e94deb75035c1)
+- [ ] [<code>Fix string leak in main()</code>](https://github.com/xfce-mirror/xfce4-session/commit/f18f540eaf890807b1007b5f0ecd6d4a76d22728)
+- [ ] [<code>manager: Fix string array leak</code>](https://github.com/xfce-mirror/xfce4-session/commit/93ac1a27b292eedb70fbe2f66e6cbfcc86c40626)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2250,6 +2261,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Adjust Wayland requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/xfce4-settings/commit/25175cb2e5f09803eaa4c2213be44933b0cd9baa)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>color-settings: Add missing translation</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a7c5f093004816a723338e18a6e2dea5a3e13c2f)
+- [ ] [<code>wayland: common: Properly initialize output modes</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7fa697d265065ac454125c4411b5e08744828eee)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2671,6 +2684,8 @@
 - [ ] [<code>Update icon view's item_under_pointer on button presses as well</code>](https://github.com/xfce-mirror/xfdesktop/commit/64963337c216c2d3e5dea1a5eed47b83d1fa1ee8)
 - [ ] [<code>Use g_ascii_dtostr() instead of custom decimal-printing hack</code>](https://github.com/xfce-mirror/xfdesktop/commit/2772511ea2a4a0598a4199aad3673af206cad5ca)
 - [ ] [<code>Don't remove icon position from current config</code>](https://github.com/xfce-mirror/xfdesktop/commit/01ed4b9b915bc7df0b12442e82272c6a9c3589a5)
+- [ ] [<code>Make icon sorting confirmation dialog optional (Issue #266)</code>](https://github.com/xfce-mirror/xfdesktop/commit/c4c298af69b7c8f8e3338c1d32fdab45fc9940e2)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
