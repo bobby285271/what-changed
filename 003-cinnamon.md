@@ -230,9 +230,10 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
 - [ ] [<code>Remove Gdk references and meson dependency.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b364687b8a696c78f2d3c46e0c45c2dc28e79a33)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Improve screenshot logging, fix debug mode.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/660af0f497d3a3a900d6f7b820c565868ed41bfc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
 
