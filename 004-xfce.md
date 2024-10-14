@@ -2686,6 +2686,16 @@
 - [ ] [<code>Don't remove icon position from current config</code>](https://github.com/xfce-mirror/xfdesktop/commit/01ed4b9b915bc7df0b12442e82272c6a9c3589a5)
 - [ ] [<code>Make icon sorting confirmation dialog optional (Issue #266)</code>](https://github.com/xfce-mirror/xfdesktop/commit/c4c298af69b7c8f8e3338c1d32fdab45fc9940e2)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix string leak in save_icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/5e0dbc5c0637b767597f65df2c4d7cbb4fd827ff)
+- [ ] [<code>Fix invalid read when changing foreground color</code>](https://github.com/xfce-mirror/xfdesktop/commit/47ca9bfbcf4fe6c73ba6aad66284ce67b7fa7eb2)
+- [ ] [<code>Add a root context menu for the window icon manager</code>](https://github.com/xfce-mirror/xfdesktop/commit/79085cde9780241f131c2fda0e31c8af6d0a1276)
+- [ ] [<code>Improve how the "active" desktop is tracked</code>](https://github.com/xfce-mirror/xfdesktop/commit/f48e6a31b26202dbe1f8b5b6083fde6ace9cadfd)
+- [ ] [<code>Sort all desktops vs. just one based on where the event came from</code>](https://github.com/xfce-mirror/xfdesktop/commit/dec861a552a8070e5b59c30af953981179d91d2c)
+- [ ] [<code>Decouple refreshing the desktop with cycling the backdrop</code>](https://github.com/xfce-mirror/xfdesktop/commit/61487b26ce7ec4e840fea9d07882d0c5d1a09bdf)
+- [ ] [<code>Redesign the 'Desktop Icons' tab in the settings dialog</code>](https://github.com/xfce-mirror/xfdesktop/commit/8d2f90cb3f82d835c479298997d5c0a1e15afc56)
+- [ ] [<code>Fix memory corruption in icon view's tooltip size changed handler</code>](https://github.com/xfce-mirror/xfdesktop/commit/66822300936f01faa2ea5c4b611261767d97f7b3)
+- [ ] [<code>Refactor settings dialog code</code>](https://github.com/xfce-mirror/xfdesktop/commit/09a9ff6becf8d22f856bae9896b08ddc49e71f4e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
