@@ -415,6 +415,7 @@
 - [ ] [<code>Add .editorconfig (#388)</code>](https://github.com/stsdc/monitor/commit/307a2e78b9faf6e3eb0ab309d24c8bd93c28d5e2)
 - [ ] [<code>PreferencesView: Use Setitngs.bind to lessen scope of variables</code>](https://github.com/stsdc/monitor/commit/1882f5c6cf885509f21187aaea647ee1cb2bf739)
 - [ ] [<code>PreferencesGeneralPage: Coding style and GTK 4 prep</code>](https://github.com/stsdc/monitor/commit/b243ba99fedd648af7cd70f1c99e7e0505a2913b)
+- [ ] [<code>Fixed icon shadows (#359)</code>](https://github.com/stsdc/monitor/commit/71b9865be8c1bd4cc8767a07503779340a2c3b77)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
