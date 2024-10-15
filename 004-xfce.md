@@ -1027,6 +1027,11 @@
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/thunar/commit/1033668c76ba7ba7b1d69898e44bbabccf69b287)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Fix accel map loading (#1047)</code>](https://github.com/xfce-mirror/thunar/commit/67cd6b2c1a1ccd849c299d74cb4a71b43eff65e1)
+- [ ] [<code>adding .clang-format file</code>](https://github.com/xfce-mirror/thunar/commit/28f02a1ed2bce27f646bb96e60fc97d3730b7e86)
+- [ ] [<code>clang-format: Add exceptions</code>](https://github.com/xfce-mirror/thunar/commit/07edf3abf7571425487f85ad371470a1bcef1eba)
+- [ ] [<code>Use G_VALUE_INIT over custom initializer</code>](https://github.com/xfce-mirror/thunar/commit/5d342db346ccd3c9dd063bbab83bd36729bc5edf)
+- [ ] [<code>Apply .clang-format to all *.c and *.h files</code>](https://github.com/xfce-mirror/thunar/commit/e7332938893f65bf916ca8e9ff12f33672aab5a0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1830,6 +1835,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Fix string leak in helper_get_value</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/428c335fec3f2054ef5fc299ea4ef6649f338f06)
 - [ ] [<code>Fix string leak in get_device_icon_name</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e71b60a9d8a3a7f1d4f0cbca8926a1250b618651)
+- [ ] [<code>settings: Hide critical action warning if upower action == Ignore</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1e7eafc27c6aa82a8421a90e222660b0dce690a5)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -1994,6 +2000,7 @@
 - [ ] [<code>Fix string leak in main()</code>](https://github.com/xfce-mirror/xfce4-session/commit/f18f540eaf890807b1007b5f0ecd6d4a76d22728)
 - [ ] [<code>manager: Fix string array leak</code>](https://github.com/xfce-mirror/xfce4-session/commit/93ac1a27b292eedb70fbe2f66e6cbfcc86c40626)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Added missing Keywords entry to .desktop files</code>](https://github.com/xfce-mirror/xfce4-session/commit/fedb4d6f51121916db9e10e81491882a8ec6c32b)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2684,6 +2691,7 @@
 - [ ] [<code>Update icon view's item_under_pointer on button presses as well</code>](https://github.com/xfce-mirror/xfdesktop/commit/64963337c216c2d3e5dea1a5eed47b83d1fa1ee8)
 - [ ] [<code>Use g_ascii_dtostr() instead of custom decimal-printing hack</code>](https://github.com/xfce-mirror/xfdesktop/commit/2772511ea2a4a0598a4199aad3673af206cad5ca)
 - [ ] [<code>Don't remove icon position from current config</code>](https://github.com/xfce-mirror/xfdesktop/commit/01ed4b9b915bc7df0b12442e82272c6a9c3589a5)
+- [ ] [<code>Added missing Keywords entry to .desktop file</code>](https://github.com/xfce-mirror/xfdesktop/commit/cc2cd5a06274d36bdfada92e29d1d62597da4b5c)
 - [ ] [<code>Make icon sorting confirmation dialog optional (Issue #266)</code>](https://github.com/xfce-mirror/xfdesktop/commit/c4c298af69b7c8f8e3338c1d32fdab45fc9940e2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix string leak in save_icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/5e0dbc5c0637b767597f65df2c4d7cbb4fd827ff)
@@ -2696,6 +2704,17 @@
 - [ ] [<code>Fix memory corruption in icon view's tooltip size changed handler</code>](https://github.com/xfce-mirror/xfdesktop/commit/66822300936f01faa2ea5c4b611261767d97f7b3)
 - [ ] [<code>Refactor settings dialog code</code>](https://github.com/xfce-mirror/xfdesktop/commit/09a9ff6becf8d22f856bae9896b08ddc49e71f4e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch xfdesktop:master into master</code>](https://github.com/xfce-mirror/xfdesktop/commit/8539004a5f8d0245300d5b30364cf05e59aeb938)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings: change icon view selection if background changes externally</code>](https://github.com/xfce-mirror/xfdesktop/commit/b372aa15ac9eb44d053fcfab78659ce297acd76e)
+- [ ] [<code>settings: enumerate image folder fully asynchronously</code>](https://github.com/xfce-mirror/xfdesktop/commit/3b23078fc8dda555e937a9f1946168628a6483a3)
+- [ ] [<code>settings: avoid flashing an empty info bar on startup</code>](https://github.com/xfce-mirror/xfdesktop/commit/96ef65d22c0fcfb904305861cb904a4e611f27e6)
+- [ ] [<code>settings: define infobar_label in glade file, not in code</code>](https://github.com/xfce-mirror/xfdesktop/commit/f82b14a09bc2a4ccc5ef30d0f4b289355075988f)
+- [ ] [<code>Only clear drag/context menu timeout if a drag actually starts</code>](https://github.com/xfce-mirror/xfdesktop/commit/958ec551e0a3e4df8640ca7cdd9d64298cb21385)
+- [ ] [<code>Reword a couple settings option names, fix some accelerators</code>](https://github.com/xfce-mirror/xfdesktop/commit/9a16b9bed6a63c64897fe7aa1a7df488434bcbe7)
+- [ ] [<code>Fix GIcon leak in xfdesktop_icon_view_manager_sort_icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/cc8861d862f8bd6dea8e25df255056e9c90ab991)
+- [ ] [<code>Fix string leak in xfdesktop_icon_view_show_tooltip</code>](https://github.com/xfce-mirror/xfdesktop/commit/dde2810ad9e43ff79c25478aeb8fc60a9abe6f18)
+- [ ] [<code>Fix leaks in xfdesktop_file_utils_next_new_file_name</code>](https://github.com/xfce-mirror/xfdesktop/commit/e9476a336b9ee39ade1ff92c0a329a289a12c939)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
