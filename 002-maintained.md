@@ -419,6 +419,8 @@
 - [ ] [<code>Switch RDNN to io.elementary.monitor  (#395)</code>](https://github.com/stsdc/monitor/commit/6947336377aa89d9b93af929b16a420724a6680f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Delete debian directory (#396)</code>](https://github.com/stsdc/monitor/commit/addd279c035d972aa3429172c795ac75aea6018b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
