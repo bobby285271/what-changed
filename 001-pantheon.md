@@ -135,6 +135,10 @@
 - [ ] [<code>Metainfo: add 8.0.1 Release Notes (#286)</code>](https://github.com/elementary/dock/commit/5cf2a5264ed7ef28a2ebd1edd8ebe8536d02aafe)
 - [ ] [<code>Launcher: Hide indicators while moving (#271)</code>](https://github.com/elementary/dock/commit/ba4cdb39ac445bdae1c01043439538520b1da2cc)
 - [ ] [<code>GSettings: add installer to default launchers (#290)</code>](https://github.com/elementary/dock/commit/d86adb8e899eb46e153c8647d6a5f08fa3a0d16e)
+- [ ] [<code>Only keep progressbar while needed (#296)</code>](https://github.com/elementary/dock/commit/043437b608624a2c812eda37bdcdbcf832dc435b)
+- [ ] [<code>Update dock.metainfo.xml.in</code>](https://github.com/elementary/dock/commit/c06b054d4dd432b00871dece14948325349911e6)
+- [ ] [<code>Launcher: Hide badge if do not disturb is active (#295)</code>](https://github.com/elementary/dock/commit/dc1db3e1dbc6a8c2b01fadcd4f419d6009868880)
+- [ ] [<code>Launcher: Pin app on drag (#294)</code>](https://github.com/elementary/dock/commit/26cd2bbfd3951c3c630db09a632d42436744671e)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -527,14 +531,8 @@
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [8.0.0 → HEAD](https://github.com/elementary/session-settings/compare/8.0.0...HEAD)
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [8.0.1 → HEAD](https://github.com/elementary/session-settings/compare/8.0.1...HEAD)
 
-- [ ] [<code>Correct po dir (#85)</code>](https://github.com/elementary/session-settings/commit/fe8d34a85c33f0241285db9eab74551e99975960)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Rename X11 session to "Classic Session" (#86)</code>](https://github.com/elementary/session-settings/commit/20cfbb3f44af6ed69109191a36283c4d1324db99)
-- [ ] [<code>Release 8.0.1 (#87)</code>](https://github.com/elementary/session-settings/commit/4977435ad247972ce2658443c9900a3e8c8a3baf)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.0...HEAD)
 
@@ -939,6 +937,7 @@
 - [ ] [<code>Introduce Granite.Bin for subclassing (#730)</code>](https://github.com/elementary/granite/commit/77bf29227dc981cca7345e337b81e3a52b0785c2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix dead link (#734) (#735)</code>](https://github.com/elementary/granite/commit/3d0afa3284a712bf1a66426aa9c122463878f94e)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
