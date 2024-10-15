@@ -416,6 +416,9 @@
 - [ ] [<code>PreferencesView: Use Setitngs.bind to lessen scope of variables</code>](https://github.com/stsdc/monitor/commit/1882f5c6cf885509f21187aaea647ee1cb2bf739)
 - [ ] [<code>PreferencesGeneralPage: Coding style and GTK 4 prep</code>](https://github.com/stsdc/monitor/commit/b243ba99fedd648af7cd70f1c99e7e0505a2913b)
 - [ ] [<code>Fixed icon shadows (#359)</code>](https://github.com/stsdc/monitor/commit/71b9865be8c1bd4cc8767a07503779340a2c3b77)
+- [ ] [<code>Switch RDNN to io.elementary.monitor  (#395)</code>](https://github.com/stsdc/monitor/commit/6947336377aa89d9b93af929b16a420724a6680f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -457,6 +460,12 @@
 - [ ] [<code>Merge pull request #1453 from golamrabbiazad/std-sidebar-header</code>](https://github.com/alainm23/planify/commit/ab3f93b0d5bc5e592c7add1387cf762dfccc7059)
 - [ ] [<code>fix #1456</code>](https://github.com/alainm23/planify/commit/7288ac4fd6e9ff1f6271c528c7d021033552a98f)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix #1461</code>](https://github.com/alainm23/planify/commit/4ce0da8898243098bf2a128f74d6813bdb238e65)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>support for gnpme 47 and fixed bugs</code>](https://github.com/alainm23/planify/commit/59a64fa629724a12d8c239087024d19b93d6774f)
+  - <sub>Tags: <code>4.11.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
