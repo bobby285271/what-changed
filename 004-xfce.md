@@ -1032,6 +1032,7 @@
 - [ ] [<code>Use G_VALUE_INIT over custom initializer</code>](https://github.com/xfce-mirror/thunar/commit/5d342db346ccd3c9dd063bbab83bd36729bc5edf)
 - [ ] [<code>Apply .clang-format to all *.c and *.h files</code>](https://github.com/xfce-mirror/thunar/commit/e7332938893f65bf916ca8e9ff12f33672aab5a0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix path entry DnD code (#1470)</code>](https://github.com/xfce-mirror/thunar/commit/54d266d238c651e8b0dc38502d147841bc4212d8)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1604,6 +1605,7 @@
 - [ ] [<code>tasklist: Keep icon sizes as specified by the user</code>](https://github.com/xfce-mirror/xfce4-panel/commit/90ebf84496304dbe60d999436806d069615dd01d)
 - [ ] [<code>Added XFCE_PANEL_PLUGIN_ICON_PADDING (API change)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4e80a9bbe0898130fcc966267992c9394e4d18a2)
 - [ ] [<code>Added a missing property bind for 24hr analogue clock</code>](https://github.com/xfce-mirror/xfce4-panel/commit/76fe1669151cc688b69366da6506a20fcb0d6a77)
+- [ ] [<code>systray: Fix leak in sn_plugin_init</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bfd612b595245101f60265f6a21b104093d2a8a9)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2001,6 +2003,9 @@
 - [ ] [<code>manager: Fix string array leak</code>](https://github.com/xfce-mirror/xfce4-session/commit/93ac1a27b292eedb70fbe2f66e6cbfcc86c40626)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Added missing Keywords entry to .desktop files</code>](https://github.com/xfce-mirror/xfce4-session/commit/fedb4d6f51121916db9e10e81491882a8ec6c32b)
+- [ ] [<code>manager: Fix leaks in xfsm_manager_load_failsafe</code>](https://github.com/xfce-mirror/xfce4-session/commit/00a95633471fca31ed89d6da9772a75b0d797797)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix leaks in xfsm_properties_load</code>](https://github.com/xfce-mirror/xfce4-session/commit/252e59352fbba951547ba971949da4b34b7344b0)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2715,6 +2720,7 @@
 - [ ] [<code>Fix GIcon leak in xfdesktop_icon_view_manager_sort_icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/cc8861d862f8bd6dea8e25df255056e9c90ab991)
 - [ ] [<code>Fix string leak in xfdesktop_icon_view_show_tooltip</code>](https://github.com/xfce-mirror/xfdesktop/commit/dde2810ad9e43ff79c25478aeb8fc60a9abe6f18)
 - [ ] [<code>Fix leaks in xfdesktop_file_utils_next_new_file_name</code>](https://github.com/xfce-mirror/xfdesktop/commit/e9476a336b9ee39ade1ff92c0a329a289a12c939)
+- [ ] [<code>Add option to sort folders before files (Issue #332)</code>](https://github.com/xfce-mirror/xfdesktop/commit/bf9a52fc79966dbd7bfdb9bab2baf0159ca9d5b6)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
