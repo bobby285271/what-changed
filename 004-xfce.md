@@ -2352,6 +2352,7 @@
 - [ ] [<code>Clean up how GdkColor/GdkRGBA GTypes are initialized</code>](https://github.com/xfce-mirror/xfconf/commit/982ef93c95e63b6e0dd89386cf499e1edf41720d)
 - [ ] [<code>Allow calling xfconf_g_property_bind() with GdkColor or GdkRGBA types</code>](https://github.com/xfce-mirror/xfconf/commit/60f7d8cf6c9e63d8879837f5b4542a2ee8493455)
 - [ ] [<code>Mark xfconf_g_property_bind_gdkcolor/gdkrgba() as deprecated</code>](https://github.com/xfce-mirror/xfconf/commit/12f310338ef39abfd26b4d4575ea98b6a45aba15)
+- [ ] [<code>Safer/better way to find GdkColor/GdkRGBA GTypes in the unified API</code>](https://github.com/xfce-mirror/xfconf/commit/80c2d44a6587fb209ce6196e2096ce3c99df9140)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
@@ -2721,6 +2722,16 @@
 - [ ] [<code>Fix string leak in xfdesktop_icon_view_show_tooltip</code>](https://github.com/xfce-mirror/xfdesktop/commit/dde2810ad9e43ff79c25478aeb8fc60a9abe6f18)
 - [ ] [<code>Fix leaks in xfdesktop_file_utils_next_new_file_name</code>](https://github.com/xfce-mirror/xfdesktop/commit/e9476a336b9ee39ade1ff92c0a329a289a12c939)
 - [ ] [<code>Add option to sort folders before files (Issue #332)</code>](https://github.com/xfce-mirror/xfdesktop/commit/bf9a52fc79966dbd7bfdb9bab2baf0159ca9d5b6)
+- [ ] [<code>Tell GtkTooltip the region the tooltip is for</code>](https://github.com/xfce-mirror/xfdesktop/commit/137cc5447c8458ce338af8b77b2490fe39e2d040)
+- [ ] [<code>Fix g-critical warning when starting a drag *just* outside the icon area</code>](https://github.com/xfce-mirror/xfdesktop/commit/966b287c3febb2144368badd961c92634b964734)
+- [ ] [<code>Rework how icon pointer "hit detection" works</code>](https://github.com/xfce-mirror/xfdesktop/commit/dce0bbfd81955c79c429263f0cd82ebca490702d)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfdesktop/commit/30076e335ce4163bae86e2c4fc7a47126dfed6e4)
+  - <sub>Tags: <code>xfdesktop-4.19.5</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc89407235bf9cf51399630ad6533607ca112125)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Remove unused version.sh script</code>](https://github.com/xfce-mirror/xfdesktop/commit/3905295b05533f19c5052c0618287e674a0de8dc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
