@@ -139,6 +139,7 @@
 - [ ] [<code>Update dock.metainfo.xml.in</code>](https://github.com/elementary/dock/commit/c06b054d4dd432b00871dece14948325349911e6)
 - [ ] [<code>Launcher: Hide badge if do not disturb is active (#295)</code>](https://github.com/elementary/dock/commit/dc1db3e1dbc6a8c2b01fadcd4f419d6009868880)
 - [ ] [<code>Launcher: Pin app on drag (#294)</code>](https://github.com/elementary/dock/commit/26cd2bbfd3951c3c630db09a632d42436744671e)
+- [ ] [<code>Launcher: Only act on actual scrolls not begin (#293)</code>](https://github.com/elementary/dock/commit/0abdbc6048023e97ed5184c43f97a4858fb54793)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -750,6 +751,8 @@
 - [ ] [<code>ManagedClient: Inherit fds (#2069)</code>](https://github.com/elementary/gala/commit/31ca0681469d41129b6aa55a9022f734af448140)
 - [ ] [<code>ci: Update mutter version for noble</code>](https://github.com/elementary/gala/commit/2ec1356085562e47ed885946f1a6d733a9e23011)
 - [ ] [<code>WindowClone: Only load after shown (#2072)</code>](https://github.com/elementary/gala/commit/4c118826b183aa79eb259f9be41e1ae2031c377a)
+- [ ] [<code>HideTracker: Reveal panel on swipe (#2091)</code>](https://github.com/elementary/gala/commit/3ca07f86ab66e3b00a264d0f5dd9c41e700f724b)
+- [ ] [<code>Metainfo: Add 8.0.2 release notes (#2092)</code>](https://github.com/elementary/gala/commit/936f5d7d63587903480c678608f8404af2b262f7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
