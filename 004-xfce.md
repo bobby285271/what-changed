@@ -1838,6 +1838,8 @@
 - [ ] [<code>Fix string leak in helper_get_value</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/428c335fec3f2054ef5fc299ea4ef6649f338f06)
 - [ ] [<code>Fix string leak in get_device_icon_name</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e71b60a9d8a3a7f1d4f0cbca8926a1250b618651)
 - [ ] [<code>settings: Hide critical action warning if upower action == Ignore</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1e7eafc27c6aa82a8421a90e222660b0dce690a5)
+- [ ] [<code>button: Fix string leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6125d8f16cfe27072f056720a55896d40b6ab649)
+- [ ] [<code>button: Fix tooltip leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/751c9418a27dba5b4cf36738c68433de43589edf)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -2006,6 +2008,7 @@
 - [ ] [<code>manager: Fix leaks in xfsm_manager_load_failsafe</code>](https://github.com/xfce-mirror/xfce4-session/commit/00a95633471fca31ed89d6da9772a75b0d797797)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix leaks in xfsm_properties_load</code>](https://github.com/xfce-mirror/xfce4-session/commit/252e59352fbba951547ba971949da4b34b7344b0)
+- [ ] [<code>manager: Fix SmsClientHostName leak</code>](https://github.com/xfce-mirror/xfce4-session/commit/23ae73af32cc63af7c9e5f8fcd8ee3353221703f)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2732,6 +2735,9 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Remove unused version.sh script</code>](https://github.com/xfce-mirror/xfdesktop/commit/3905295b05533f19c5052c0618287e674a0de8dc)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix leaks in xfdesktop_icon_view_constructed</code>](https://github.com/xfce-mirror/xfdesktop/commit/8bf82aac67374b7bf7b66e0335bc2b3306fee83e)
+- [ ] [<code>Clean up cell renderer init & management in the icon view</code>](https://github.com/xfce-mirror/xfdesktop/commit/facc96249567eac4e0ea09cec29c27dfc426833d)
+- [ ] [<code>Clean up PARAM_FLAGS in icon view</code>](https://github.com/xfce-mirror/xfdesktop/commit/d8b1b26e8d3dc08d635480cb9148abd0dfe108ab)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
