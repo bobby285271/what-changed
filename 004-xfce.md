@@ -2738,6 +2738,9 @@
 - [ ] [<code>Fix leaks in xfdesktop_icon_view_constructed</code>](https://github.com/xfce-mirror/xfdesktop/commit/8bf82aac67374b7bf7b66e0335bc2b3306fee83e)
 - [ ] [<code>Clean up cell renderer init & management in the icon view</code>](https://github.com/xfce-mirror/xfdesktop/commit/facc96249567eac4e0ea09cec29c27dfc426833d)
 - [ ] [<code>Clean up PARAM_FLAGS in icon view</code>](https://github.com/xfce-mirror/xfdesktop/commit/d8b1b26e8d3dc08d635480cb9148abd0dfe108ab)
+- [ ] [<code>Fix GFileInfo leak in xfdesktop_special_file_icon_new</code>](https://github.com/xfce-mirror/xfdesktop/commit/2ee2d1cfd24b1a3cfef0c628a9798fafa16b2f4d)
+- [ ] [<code>Add all background dirs to the settings chooser button shortcuts</code>](https://github.com/xfce-mirror/xfdesktop/commit/86d231934562d1e46db552f7751823201567b14a)
+- [ ] [<code>Reset backdrop cycler timer if user manually changes the image</code>](https://github.com/xfce-mirror/xfdesktop/commit/c235625dd7af9a451026056e3ab56e7ea3a365b1)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
