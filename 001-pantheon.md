@@ -753,6 +753,7 @@
 - [ ] [<code>WindowClone: Only load after shown (#2072)</code>](https://github.com/elementary/gala/commit/4c118826b183aa79eb259f9be41e1ae2031c377a)
 - [ ] [<code>HideTracker: Reveal panel on swipe (#2091)</code>](https://github.com/elementary/gala/commit/3ca07f86ab66e3b00a264d0f5dd9c41e700f724b)
 - [ ] [<code>Metainfo: Add 8.0.2 release notes (#2092)</code>](https://github.com/elementary/gala/commit/936f5d7d63587903480c678608f8404af2b262f7)
+- [ ] [<code>Fix autohide (#2086)</code>](https://github.com/elementary/gala/commit/066235774d137054111b08cc6df23a11b4fc6b29)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
