@@ -255,6 +255,7 @@
 - [ ] [<code>Gtk4 Prep - SettingsPopover - call terminal zoom functions directly (#789)</code>](https://github.com/elementary/terminal/commit/85c82c11e021719c84a256007af640afedf17280)
 - [ ] [<code>Code Style -  (#790)</code>](https://github.com/elementary/terminal/commit/1a6b46b9a301711970971f74e29ec8e185ffc57e)
 - [ ] [<code>Implement Clear and Reset actions with hotkeys (#778)</code>](https://github.com/elementary/terminal/commit/2dc7e2e02443f51863e037324efa2ac299e34a95)
+- [ ] [<code>Update cyclic search button when toggled (#795)</code>](https://github.com/elementary/terminal/commit/904290b1ea17f7c6be9dacbf12169b9a09cc4e6a)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -754,6 +755,7 @@
 - [ ] [<code>HideTracker: Reveal panel on swipe (#2091)</code>](https://github.com/elementary/gala/commit/3ca07f86ab66e3b00a264d0f5dd9c41e700f724b)
 - [ ] [<code>Metainfo: Add 8.0.2 release notes (#2092)</code>](https://github.com/elementary/gala/commit/936f5d7d63587903480c678608f8404af2b262f7)
 - [ ] [<code>Fix autohide (#2086)</code>](https://github.com/elementary/gala/commit/066235774d137054111b08cc6df23a11b4fc6b29)
+- [ ] [<code>Fix stacking order after workspace switch (#2081)</code>](https://github.com/elementary/gala/commit/58fc51cd8b034ee93c28319586cca1e07c5fa920)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
