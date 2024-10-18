@@ -2363,6 +2363,11 @@
 - [ ] [<code>Allow calling xfconf_g_property_bind() with GdkColor or GdkRGBA types</code>](https://github.com/xfce-mirror/xfconf/commit/60f7d8cf6c9e63d8879837f5b4542a2ee8493455)
 - [ ] [<code>Mark xfconf_g_property_bind_gdkcolor/gdkrgba() as deprecated</code>](https://github.com/xfce-mirror/xfconf/commit/12f310338ef39abfd26b4d4575ea98b6a45aba15)
 - [ ] [<code>Safer/better way to find GdkColor/GdkRGBA GTypes in the unified API</code>](https://github.com/xfce-mirror/xfconf/commit/80c2d44a6587fb209ce6196e2096ce3c99df9140)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfconf/commit/10e420b0b73917e2afb1e9b73a843d679333df85)
+  - <sub>Tags: <code>xfconf-4.19.3</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/490ccadb25037cf80bd68cc1df4ac3082de5dd51)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
@@ -2752,6 +2757,7 @@
 - [ ] [<code>Fix string leak in update_icon_view_model</code>](https://github.com/xfce-mirror/xfdesktop/commit/e7f0e51775de3392ee5dfd9b549ccc00936e5199)
 - [ ] [<code>Fix string leak in cb_image_selection_changed</code>](https://github.com/xfce-mirror/xfdesktop/commit/3346caa147a819b7a84823c22b3d1024202c122f)
 - [ ] [<code>Add issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/88d16f67c4dfd87598cd62675d26e2d39e608113)
+- [ ] [<code>Fix GArray leak in xfdesktop_keyboard_shortcut_settings_init</code>](https://github.com/xfce-mirror/xfdesktop/commit/2a2e27612baddf8a57bcf77965779cb43080f409)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
