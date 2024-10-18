@@ -1033,6 +1033,8 @@
 - [ ] [<code>Apply .clang-format to all *.c and *.h files</code>](https://github.com/xfce-mirror/thunar/commit/e7332938893f65bf916ca8e9ff12f33672aab5a0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Fix path entry DnD code (#1470)</code>](https://github.com/xfce-mirror/thunar/commit/54d266d238c651e8b0dc38502d147841bc4212d8)
+- [ ] [<code>Verify by compare instead of checksum (#1471)</code>](https://github.com/xfce-mirror/thunar/commit/3828d868a892359cf71a7b58d05137c7b66bd758)
+- [ ] [<code>Support second shortcut for tab switch (#1472)</code>](https://github.com/xfce-mirror/thunar/commit/756a5d5de2d0eec03661403166101b512a39ad72)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1606,6 +1608,11 @@
 - [ ] [<code>Added XFCE_PANEL_PLUGIN_ICON_PADDING (API change)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4e80a9bbe0898130fcc966267992c9394e4d18a2)
 - [ ] [<code>Added a missing property bind for 24hr analogue clock</code>](https://github.com/xfce-mirror/xfce4-panel/commit/76fe1669151cc688b69366da6506a20fcb0d6a77)
 - [ ] [<code>systray: Fix leak in sn_plugin_init</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bfd612b595245101f60265f6a21b104093d2a8a9)
+- [ ] [<code>LCD and digital clock layout fixes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e72f3ddbd33657eb1e98e1589ec41038046613f2)
+- [ ] [<code>Use width_for_height when plugin requests it</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b1f8703288ba2b424ef376b04044df10f5315b24)
+- [ ] [<code>Reduce minimum button size to improve layout at very small panel sizes.</code>](https://github.com/xfce-mirror/xfce4-panel/commit/36f36e78b1e73c9f2344c9390b0e5fa14301860c)
+- [ ] [<code>Reworked sizing mechanism in clock plugin and its widgets</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8452f247901709207d88242dd8038136c52d1186)
+- [ ] [<code>Added "show inactive" prop to lcd clock (repurposed from binary clock)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/96c520776f272edf89e77c642ba1c0d581a092e2)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2741,6 +2748,10 @@
 - [ ] [<code>Fix GFileInfo leak in xfdesktop_special_file_icon_new</code>](https://github.com/xfce-mirror/xfdesktop/commit/2ee2d1cfd24b1a3cfef0c628a9798fafa16b2f4d)
 - [ ] [<code>Add all background dirs to the settings chooser button shortcuts</code>](https://github.com/xfce-mirror/xfdesktop/commit/86d231934562d1e46db552f7751823201567b14a)
 - [ ] [<code>Reset backdrop cycler timer if user manually changes the image</code>](https://github.com/xfce-mirror/xfdesktop/commit/c235625dd7af9a451026056e3ab56e7ea3a365b1)
+- [ ] [<code>Fix GFile leak in backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/135ed70f4b037047bb2132d5a2f60cebcabdf3f3)
+- [ ] [<code>Fix string leak in update_icon_view_model</code>](https://github.com/xfce-mirror/xfdesktop/commit/e7f0e51775de3392ee5dfd9b549ccc00936e5199)
+- [ ] [<code>Fix string leak in cb_image_selection_changed</code>](https://github.com/xfce-mirror/xfdesktop/commit/3346caa147a819b7a84823c22b3d1024202c122f)
+- [ ] [<code>Add issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/88d16f67c4dfd87598cd62675d26e2d39e608113)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
