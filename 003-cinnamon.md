@@ -226,6 +226,8 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.6 → HEAD](https://github.com/linuxmint/xed/compare/3.6.6...HEAD)
 
+- [ ] [<code>textsize plugin: Don't propagate any scroll-zoom events.</code>](https://github.com/linuxmint/xed/commit/cf5b7350b5605a58aca5b0da843d77738d6dc9f8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
