@@ -333,6 +333,8 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/libxfce4util/commit/3500bc21cc0040d9fd55aae413a9901ae41e50aa)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove local ABI check</code>](https://github.com/xfce-mirror/libxfce4util/commit/fceecb4f15082ef89e1c5bf2f4fec27b8e240d53)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
