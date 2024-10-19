@@ -327,6 +327,12 @@
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/libxfce4util/commit/c14d5b1b270d6a505f19e1247b9729c7d4483644)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/d63a4ed9618443c6ef57eb8d2830804203f8d499)
+- [ ] [<code>Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/libxfce4util/commit/54d0c348c643e5dc204dc4fc69922c5f616ebf04)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/libxfce4util/commit/3500bc21cc0040d9fd55aae413a9901ae41e50aa)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -1269,6 +1275,9 @@
 - [ ] [<code>ci: Parallelize autotools builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bcf3b8c9e90b9daa48e20c1f11e20d71bd2de827)
 - [ ] [<code>Don't quote the filename args passed to 'git diff'</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9008df45d2d5a0566205f86c45026683402982b8)
 - [ ] [<code>Work around parallel 'make distcheck' bug in gettext</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/6569437523b1109ffa21ef11e49fcd88c93353ac)
+- [ ] [<code>Add more details to the meson template and its README</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/8e042c27e8745cf055508c46f0625540f2927241)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
@@ -1613,6 +1622,7 @@
 - [ ] [<code>Reduce minimum button size to improve layout at very small panel sizes.</code>](https://github.com/xfce-mirror/xfce4-panel/commit/36f36e78b1e73c9f2344c9390b0e5fa14301860c)
 - [ ] [<code>Reworked sizing mechanism in clock plugin and its widgets</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8452f247901709207d88242dd8038136c52d1186)
 - [ ] [<code>Added "show inactive" prop to lcd clock (repurposed from binary clock)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/96c520776f272edf89e77c642ba1c0d581a092e2)
+- [ ] [<code>migrate/default.xml.in: Remove unused plugin id</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d258ad945d5f7114b4f803c1ed307ebea6094305)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2758,6 +2768,11 @@
 - [ ] [<code>Fix string leak in cb_image_selection_changed</code>](https://github.com/xfce-mirror/xfdesktop/commit/3346caa147a819b7a84823c22b3d1024202c122f)
 - [ ] [<code>Add issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/88d16f67c4dfd87598cd62675d26e2d39e608113)
 - [ ] [<code>Fix GArray leak in xfdesktop_keyboard_shortcut_settings_init</code>](https://github.com/xfce-mirror/xfdesktop/commit/2a2e27612baddf8a57bcf77965779cb43080f409)
+- [ ] [<code>Bump xfconf requirement and stop using xfconf_g_property_bind_gdkrgba()</code>](https://github.com/xfce-mirror/xfdesktop/commit/3a1f396770c825e9a1f20822609d42890df2985c)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add GMount instances to the hash table always</code>](https://github.com/xfce-mirror/xfdesktop/commit/1a6b50857fa6538de573f2239613dbc6e4775855)
+- [ ] [<code>Ignore the result of g_volume_can_mount()</code>](https://github.com/xfce-mirror/xfdesktop/commit/255cdcab741dd82e1377c2f889667be843d06936)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
