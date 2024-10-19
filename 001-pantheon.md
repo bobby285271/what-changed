@@ -140,6 +140,7 @@
 - [ ] [<code>Launcher: Hide badge if do not disturb is active (#295)</code>](https://github.com/elementary/dock/commit/dc1db3e1dbc6a8c2b01fadcd4f419d6009868880)
 - [ ] [<code>Launcher: Pin app on drag (#294)</code>](https://github.com/elementary/dock/commit/26cd2bbfd3951c3c630db09a632d42436744671e)
 - [ ] [<code>Launcher: Only act on actual scrolls not begin (#293)</code>](https://github.com/elementary/dock/commit/0abdbc6048023e97ed5184c43f97a4858fb54793)
+- [ ] [<code>Indicate that an app is running on another workspace with a grey dot (#270)</code>](https://github.com/elementary/dock/commit/7c85f028162600a8c9e2722317248ee1ad3e8637)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -279,6 +280,7 @@
 
 - [ ] [<code>Add Notifications settings (#238)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b4f466013fb90a9bbb5e27d12390070a0806ea4e)
 - [ ] [<code>AppSettingsView: Fix typo 'Notications' -> 'Notifications' (#239)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bdf1ccb7862cfa5e57d7dbe785e97b3e706a41fb)
+- [ ] [<code>Store Sidebar Position (#240)</code>](https://github.com/elementary/switchboard-plug-applications/commit/0191d489ceb0fe97fd417ddd986aeab2abe43166)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
 
@@ -305,6 +307,7 @@
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/908873b8f28cfdad00093928b1c035a1395443a2)
+- [ ] [<code>Store Sidebar Position (#249)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef6e17ab4666d803b8cf1e650ccdf6a8f59a8745)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
 
@@ -312,10 +315,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Auto select active network (#407)</code>](https://github.com/elementary/switchboard-plug-network/commit/b41c3fc893434795c5284f81c1a60e349470678d)
+- [ ] [<code>Store Sidebar Position (#408)</code>](https://github.com/elementary/switchboard-plug-network/commit/28476a9df37fa29a4553c1ac0aa6f61a54d0548e)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
 - [ ] [<code>App: remove ancient gala notification schema (#108)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c93367b4616805082a8e17b430ae8e6a6ca6ae38)
+- [ ] [<code>Store Sidebar Position  (#112)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c5bec24a941eef14215b81511edd86496d3c9eba)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.1...HEAD)
 
@@ -338,6 +343,7 @@
   - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Vertical Align SpinButton (#422)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/338a614d7893910d5e89c829dca8dfa79026925c)
+- [ ] [<code>Store Sidebar Position (#424)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/566b7bd58ddaf989d5c55e686b6a076832b488c2)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
@@ -345,6 +351,7 @@
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.0...HEAD)
 
 - [ ] [<code>PrinterRow: use emblem status icons (#207)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9b6ca58acc11f0918dad635ea5e5b48c294c8ba7)
+- [ ] [<code>Store Sidebar Position (#208)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fa0e36e711f9870b92021531e923ff673be852c4)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
 
@@ -352,6 +359,7 @@
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.0...HEAD)
 
 - [ ] [<code>Bluetooth in the title case (#82)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d04c55f8a1d986743db12e66915c7d1aea1fcb88)
+- [ ] [<code>Store Sidebar Position (#84)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ecd69e72a4d86cf2e8144206f98556575b9727e1)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.0...HEAD)
 
@@ -457,6 +465,11 @@
 - [ ] [<code>Release 8.0.1 (#316)</code>](https://github.com/elementary/default-settings/commit/8f95f465b674fe3723d53951c3c3a94b1a56f604)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GSettings: don't set gnome privacy (#320)</code>](https://github.com/elementary/default-settings/commit/199a45ea4d1b99ddfa5e7ecd7a4e2303baa38e9d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Install gtk settings.ini (#319)</code>](https://github.com/elementary/default-settings/commit/31675219f666cdc64be43a4a0a23fad312d5fa69)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -522,6 +535,10 @@
 - [ ] [<code>ci: Update mutter version for noble (#762)</code>](https://github.com/elementary/greeter/commit/0ce8fce2c6d6c3a2ad25aede0f12a1111c024415)
 - [ ] [<code>Application: subclass Gtk.Application (#728)</code>](https://github.com/elementary/greeter/commit/c09e7f92e5fcf416c33627690116b0b76cd19135)
 - [ ] [<code>Create Application.css (#763)</code>](https://github.com/elementary/greeter/commit/10ac491008e68125d12cdf632baca80135497c15)
+- [ ] [<code>MainWindow: use built-in action group for select-session (#766)</code>](https://github.com/elementary/greeter/commit/23d66f2e1f2da634ea77b58d82c5969d830e39cc)
+- [ ] [<code>CapsLockRevealer: GTK4 prep (#764)</code>](https://github.com/elementary/greeter/commit/e484ada7340d0c6615c7d112356ed1b26d058a8e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CSS: specific window.background (#769)</code>](https://github.com/elementary/greeter/commit/644f68a668389980da38089ae78cd4fc0dee5c42)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
