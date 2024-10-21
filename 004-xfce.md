@@ -1043,6 +1043,7 @@
 - [ ] [<code>Fix path entry DnD code (#1470)</code>](https://github.com/xfce-mirror/thunar/commit/54d266d238c651e8b0dc38502d147841bc4212d8)
 - [ ] [<code>Verify by compare instead of checksum (#1471)</code>](https://github.com/xfce-mirror/thunar/commit/3828d868a892359cf71a7b58d05137c7b66bd758)
 - [ ] [<code>Support second shortcut for tab switch (#1472)</code>](https://github.com/xfce-mirror/thunar/commit/756a5d5de2d0eec03661403166101b512a39ad72)
+- [ ] [<code>Show "Properties" menu entry for unmounted devices</code>](https://github.com/xfce-mirror/thunar/commit/6c99951ad1746cc1b948832826211f3a6f549874)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1625,6 +1626,7 @@
 - [ ] [<code>Reworked sizing mechanism in clock plugin and its widgets</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8452f247901709207d88242dd8038136c52d1186)
 - [ ] [<code>Added "show inactive" prop to lcd clock (repurposed from binary clock)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/96c520776f272edf89e77c642ba1c0d581a092e2)
 - [ ] [<code>migrate/default.xml.in: Remove unused plugin id</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d258ad945d5f7114b4f803c1ed307ebea6094305)
+- [ ] [<code>systray: Fix GSList element leak</code>](https://github.com/xfce-mirror/xfce4-panel/commit/556debd17f71c10e6d749012d0d9c82bd5be1527)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
