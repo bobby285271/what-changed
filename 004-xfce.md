@@ -1281,6 +1281,7 @@
 - [ ] [<code>Add more details to the meson template and its README</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/8e042c27e8745cf055508c46f0625540f2927241)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add libgspell-1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7e4d43e7906f7532999dd5992c1fdd4fda418a51)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
@@ -1627,6 +1628,7 @@
 - [ ] [<code>Added "show inactive" prop to lcd clock (repurposed from binary clock)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/96c520776f272edf89e77c642ba1c0d581a092e2)
 - [ ] [<code>migrate/default.xml.in: Remove unused plugin id</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d258ad945d5f7114b4f803c1ed307ebea6094305)
 - [ ] [<code>systray: Fix GSList element leak</code>](https://github.com/xfce-mirror/xfce4-panel/commit/556debd17f71c10e6d749012d0d9c82bd5be1527)
+- [ ] [<code>systray: Handle general container orientation on Wayland too</code>](https://github.com/xfce-mirror/xfce4-panel/commit/810d6b922bca82d4c6f64ae01bc0dc14a1dd4c62)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
