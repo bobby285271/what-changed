@@ -62,8 +62,15 @@
 - [ ] [<code>docs: Remove recorder.xml.in (#12395)</code>](https://github.com/linuxmint/cinnamon/commit/1e43299b9ad548c9395edfd456cbba017ca02b9f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon/commit/520b4db1f0af12c598534efe91f211786a7b2443)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowManger: Make the display change dialog a clutter dialog</code>](https://github.com/linuxmint/cinnamon/commit/db8e003a999c375b81711e7454e17c4795d1a325)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>modalDialog: use the MonitorConstraint object to properly place dialogs</code>](https://github.com/linuxmint/cinnamon/commit/714662e090d73a5e9db98470a0a4f8fb9e4208d6)
+- [ ] [<code>l10n: Update msgids in new clutter dialog</code>](https://github.com/linuxmint/cinnamon/commit/79abe5e38de4819466a3851ce50bf9963baecd97)
+- [ ] [<code>Convert the keyring unlock dialog to a clutter dialog (#12452)</code>](https://github.com/linuxmint/cinnamon/commit/a6f0b8163879534e053dd19965e0cf6720a9c581)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
