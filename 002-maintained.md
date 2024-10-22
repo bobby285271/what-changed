@@ -393,6 +393,7 @@
 - [ ] [<code>Fixing issue with installation of Minder application SVG icon</code>](https://github.com/phase1geo/minder/commit/7b09351b6e089611e6af6ae07ff3a58f2aa0c914)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating .editorconfig</code>](https://github.com/phase1geo/minder/commit/708d35918734f850c61cb478082d7bdf02b61374)
+- [ ] [<code>Attempting to fix issues with tab UI.</code>](https://github.com/phase1geo/minder/commit/c838e03da53637eb277673ed4e1d5dcefb08215e)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
