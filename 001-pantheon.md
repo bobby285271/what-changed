@@ -179,6 +179,10 @@
 - [ ] [<code>Add focus sidebar action to window (#2353)</code>](https://github.com/elementary/files/commit/2f0273b57bf1752353064cd8df2749d45e138087)
 - [ ] [<code>FileOperations: Continue to move some report functions to Vala (#2503)</code>](https://github.com/elementary/files/commit/a1dd90f1f8731f683d14a63abb8c411418fbba1a)
 - [ ] [<code>Metainfo: add 7.1.0 release notes (#2510)</code>](https://github.com/elementary/files/commit/4db1842c656460b3189db04b2153ce00771d55de)
+- [ ] [<code>Fix crash on opening folders just pasted into empty folder. (#2504)</code>](https://github.com/elementary/files/commit/156092cc1eaee44d6d76deed73f74a2e0dbc2494)
+- [ ] [<code>Release 7.1.0 (#2511)</code>](https://github.com/elementary/files/commit/d6c30901603f04e7e5cf4a184f212493adddad9e)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
