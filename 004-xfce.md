@@ -543,6 +543,9 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cd7f89edce2009ed9667f93ef715eefc3ecd35cd)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Remove private sources from the public sources list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/06963875294866dc49eb206f776c8e9592d708b8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Clean up xsettings client & work around GDK swallowing events</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7b4f77e8cd208ea4b12823db3bcf346b3c817f91)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
