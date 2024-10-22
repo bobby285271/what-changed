@@ -32,6 +32,7 @@
 - [ ] [<code>FolderManager: use git emblem icons (#1463)</code>](https://github.com/elementary/code/commit/c312bc831268360976792bbfb4cbbe03b4760b03)
 - [ ] [<code>Fix block comment toggling for empty lines (#1468)</code>](https://github.com/elementary/code/commit/f49d00d6a3b7a7288abc8096ef62d21bc2b0bcea)
 - [ ] [<code>Add saved and renamed docs to RecentManager (#1467)</code>](https://github.com/elementary/code/commit/d600016a1b84a3ba1dba60bcbd2a7d8e30077ecd)
+- [ ] [<code>Metainfo: add 7.4.0 release notes (#1481)</code>](https://github.com/elementary/code/commit/492aa1397e9e71d5023cb5a1ff524a6adb9d075e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -141,6 +142,7 @@
 - [ ] [<code>Launcher: Pin app on drag (#294)</code>](https://github.com/elementary/dock/commit/26cd2bbfd3951c3c630db09a632d42436744671e)
 - [ ] [<code>Launcher: Only act on actual scrolls not begin (#293)</code>](https://github.com/elementary/dock/commit/0abdbc6048023e97ed5184c43f97a4858fb54793)
 - [ ] [<code>Indicate that an app is running on another workspace with a grey dot (#270)</code>](https://github.com/elementary/dock/commit/7c85f028162600a8c9e2722317248ee1ad3e8637)
+- [ ] [<code>Launcher: Keep animating until app was launched (#297)</code>](https://github.com/elementary/dock/commit/5a203d54d0d9e2b2dff658039bcd8172071e537c)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -176,6 +178,7 @@
 - [ ] [<code>AbstractDirectoryView: Use EventControllerScroll (#2408)</code>](https://github.com/elementary/files/commit/37ead8a40fcff4743542d5f84f2e4ed21e48b502)
 - [ ] [<code>Add focus sidebar action to window (#2353)</code>](https://github.com/elementary/files/commit/2f0273b57bf1752353064cd8df2749d45e138087)
 - [ ] [<code>FileOperations: Continue to move some report functions to Vala (#2503)</code>](https://github.com/elementary/files/commit/a1dd90f1f8731f683d14a63abb8c411418fbba1a)
+- [ ] [<code>Metainfo: add 7.1.0 release notes (#2510)</code>](https://github.com/elementary/files/commit/4db1842c656460b3189db04b2153ce00771d55de)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -287,6 +290,7 @@
 - [ ] [<code>DeviceRow: use emblem icons for status (#226)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/adff866a57c5f1b5a7f1bffaefa9c13a9fa9fe42)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8.01 release notes (#229)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/98a3cb51de90a7aaeb8e9ad71102f13c6701add0)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -316,6 +320,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Auto select active network (#407)</code>](https://github.com/elementary/switchboard-plug-network/commit/b41c3fc893434795c5284f81c1a60e349470678d)
 - [ ] [<code>Store Sidebar Position (#408)</code>](https://github.com/elementary/switchboard-plug-network/commit/28476a9df37fa29a4553c1ac0aa6f61a54d0548e)
+- [ ] [<code>Metainfo: 8.0.1 release notes (#409)</code>](https://github.com/elementary/switchboard-plug-network/commit/012e77ac3bb9769426b1dadc16e09df258ab47f1)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -352,6 +357,7 @@
 
 - [ ] [<code>PrinterRow: use emblem status icons (#207)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9b6ca58acc11f0918dad635ea5e5b48c294c8ba7)
 - [ ] [<code>Store Sidebar Position (#208)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fa0e36e711f9870b92021531e923ff673be852c4)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#209)</code>](https://github.com/elementary/switchboard-plug-printers/commit/91850e2d2307f5332aa8bfcbb1d13b13b4f5350a)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
 
@@ -545,6 +551,7 @@
 - [ ] [<code>AbstractOnboardingView: replace skip all with back on non-welcome views (#238)</code>](https://github.com/elementary/onboarding/commit/b3fa6cb906a886c7f0756d43442a5f27c52e11d1)
 - [ ] [<code>WelcomeView: copy links redesign from Settings (#239)</code>](https://github.com/elementary/onboarding/commit/37ac1c75dde48e45c659b7e1c77f62e4687ad4c2)
 - [ ] [<code>Add .editorconfig (#242)</code>](https://github.com/elementary/onboarding/commit/987516068f7451e41261b04ae9899f2ca15d276f)
+- [ ] [<code>Update onboarding.metainfo.xml.in (#244)</code>](https://github.com/elementary/onboarding/commit/2364cea791f001aedd9f774c44391151f93e2f04)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -774,6 +781,7 @@
 - [ ] [<code>Fix autohide (#2086)</code>](https://github.com/elementary/gala/commit/066235774d137054111b08cc6df23a11b4fc6b29)
 - [ ] [<code>Fix stacking order after workspace switch (#2081)</code>](https://github.com/elementary/gala/commit/58fc51cd8b034ee93c28319586cca1e07c5fa920)
 - [ ] [<code>ScreenshotManager: Fix cursor inclusion for non window screenshots (#2098)</code>](https://github.com/elementary/gala/commit/88d82d61ebee132b15f67ca39de8a00023ee9adf)
+- [ ] [<code>Metainfo: update 8.0.2 release notes (#2099)</code>](https://github.com/elementary/gala/commit/66b8df209cb4dee5623bdbb207f6b7fe03096f9b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -939,6 +947,9 @@
 - [ ] [<code>Add more symbolic battery icons (#267)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/37f4540a67b642a80d1904800425b1f70b5c4496)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#268)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7a85bbc6ebcd9b3629e6bd8341fa9ae947a74575)
 - [ ] [<code>Device: handle coarse battery level (#266)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4fe018821bec048070bc053e0e859e75ea9cf566)
+- [ ] [<code>Release 8.0.1 (#269)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/60e40aa4f7c0a3e03492ef4f08ce528cc5eef097)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
