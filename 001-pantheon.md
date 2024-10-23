@@ -284,6 +284,9 @@
 - [ ] [<code>SearchView: only invalidate when search isn't empty (#327)</code>](https://github.com/elementary/switchboard/commit/161154a6bfa06f5e4d7e54ee2ab1da9c0f6b743d)
 - [ ] [<code>Highlight search string matches in bold (#328)</code>](https://github.com/elementary/switchboard/commit/418e5083e45dd404546a50f37545bef0e1b00f18)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#330)</code>](https://github.com/elementary/switchboard/commit/5cb943209156a6470f38d8a648a0c3bc70dfada3)
+- [ ] [<code>Release 8.0.2 (#331)</code>](https://github.com/elementary/switchboard/commit/efd9be85b539f7ff816d5f1e24f1e478b3593e1f)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
