@@ -68,9 +68,11 @@
 - [ ] [<code>modalDialog: use the MonitorConstraint object to properly place dialogs</code>](https://github.com/linuxmint/cinnamon/commit/714662e090d73a5e9db98470a0a4f8fb9e4208d6)
 - [ ] [<code>l10n: Update msgids in new clutter dialog</code>](https://github.com/linuxmint/cinnamon/commit/79abe5e38de4819466a3851ce50bf9963baecd97)
 - [ ] [<code>Convert the keyring unlock dialog to a clutter dialog (#12452)</code>](https://github.com/linuxmint/cinnamon/commit/a6f0b8163879534e053dd19965e0cf6720a9c581)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Cinnamon Settings .desktop translations (#12299)</code>](https://github.com/linuxmint/cinnamon/commit/2b18f7f9f74201ed93c1fde5fdd37de19a44d21f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -163,6 +165,8 @@
 - [ ] [<code>places sidebar: Improve eject icon behavior.</code>](https://github.com/linuxmint/nemo/commit/4eabc4503e7e62ebcf96be1eb174cfea170468f1)
 - [ ] [<code>places-sidebar: Remove some obsolete code.</code>](https://github.com/linuxmint/nemo/commit/01444346dba153da76b4d7eb6040b15c93125b0f)
 - [ ] [<code>Guard against gdkx11 calls in a Wayland session.</code>](https://github.com/linuxmint/nemo/commit/b81ab124f594add4f14b7730257c5d7b2caa48e0)
+- [ ] [<code>nemo-places-sidebar.c: Only register the special eject icon size</code>](https://github.com/linuxmint/nemo/commit/7eb062adf41d045b439210b96967778e3edceeaa)
+- [ ] [<code>actions: Cancel action update idle callbacks during dispose for</code>](https://github.com/linuxmint/nemo/commit/bc192b69236d67ca5bb412034627dafe4322a93b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
