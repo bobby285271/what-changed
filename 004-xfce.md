@@ -546,6 +546,11 @@
 - [ ] [<code>Remove private sources from the public sources list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/06963875294866dc49eb206f776c8e9592d708b8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Clean up xsettings client & work around GDK swallowing events</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7b4f77e8cd208ea4b12823db3bcf346b3c817f91)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0f6ad99fa3aa0341ffa50555baa7d064ccd8788d)
+  - <sub>Tags: <code>libxfce4windowing-4.19.8</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/49d7349fd207aa87e819ecac67408415240cf51d)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1047,6 +1052,7 @@
 - [ ] [<code>Verify by compare instead of checksum (#1471)</code>](https://github.com/xfce-mirror/thunar/commit/3828d868a892359cf71a7b58d05137c7b66bd758)
 - [ ] [<code>Support second shortcut for tab switch (#1472)</code>](https://github.com/xfce-mirror/thunar/commit/756a5d5de2d0eec03661403166101b512a39ad72)
 - [ ] [<code>Show "Properties" menu entry for unmounted devices</code>](https://github.com/xfce-mirror/thunar/commit/6c99951ad1746cc1b948832826211f3a6f549874)
+- [ ] [<code>Add emblem and type description to mount points (#1388)</code>](https://github.com/xfce-mirror/thunar/commit/021975aad4196f6845331a4463e402c8d9290b22)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -2387,6 +2393,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/490ccadb25037cf80bd68cc1df4ac3082de5dd51)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>xfconf-query: print array property values when -lv</code>](https://github.com/xfce-mirror/xfconf/commit/263f1e930f6d11a8e0b33b71bccd36f9040db89e)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
@@ -2782,6 +2789,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add GMount instances to the hash table always</code>](https://github.com/xfce-mirror/xfdesktop/commit/1a6b50857fa6538de573f2239613dbc6e4775855)
 - [ ] [<code>Ignore the result of g_volume_can_mount()</code>](https://github.com/xfce-mirror/xfdesktop/commit/255cdcab741dd82e1377c2f889667be843d06936)
+- [ ] [<code>Bump libxfce4windowing requirement to 4.19.8</code>](https://github.com/xfce-mirror/xfdesktop/commit/149b0628e10802b3e5ba11287ffbdfb6d6c9d363)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
