@@ -33,6 +33,9 @@
 - [ ] [<code>Fix block comment toggling for empty lines (#1468)</code>](https://github.com/elementary/code/commit/f49d00d6a3b7a7288abc8096ef62d21bc2b0bcea)
 - [ ] [<code>Add saved and renamed docs to RecentManager (#1467)</code>](https://github.com/elementary/code/commit/d600016a1b84a3ba1dba60bcbd2a7d8e30077ecd)
 - [ ] [<code>Metainfo: add 7.4.0 release notes (#1481)</code>](https://github.com/elementary/code/commit/492aa1397e9e71d5023cb5a1ff524a6adb9d075e)
+- [ ] [<code>Release 7.4.0 (#1482)</code>](https://github.com/elementary/code/commit/4ea63087971b859893f87270fad5259ab07df581)
+  - <sub>Tags: <code>7.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -183,6 +186,7 @@
 - [ ] [<code>Release 7.1.0 (#2511)</code>](https://github.com/elementary/files/commit/d6c30901603f04e7e5cf4a184f212493adddad9e)
   - <sub>Tags: <code>7.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/c41a1e83fe32a2a6ea99510679a7c416d8fc7ce2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -277,17 +281,24 @@
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard/compare/8.0.1...HEAD)
 
 - [ ] [<code>feat: add schema sidebar position (#326)</code>](https://github.com/elementary/switchboard/commit/be7f38aa5772b16d0bedab9c4ca99495ff757391)
+- [ ] [<code>SearchView: only invalidate when search isn't empty (#327)</code>](https://github.com/elementary/switchboard/commit/161154a6bfa06f5e4d7e54ee2ab1da9c0f6b743d)
+- [ ] [<code>Highlight search string matches in bold (#328)</code>](https://github.com/elementary/switchboard/commit/418e5083e45dd404546a50f37545bef0e1b00f18)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#330)</code>](https://github.com/elementary/switchboard/commit/5cb943209156a6470f38d8a648a0c3bc70dfada3)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.0.0...HEAD)
 
 - [ ] [<code>Add hexpand (#336)</code>](https://github.com/elementary/switchboard-plug-about/commit/702e8373348ba1ac26f775e6307d336824b300fb)
+- [ ] [<code>Meson: add log domain (#340)</code>](https://github.com/elementary/switchboard-plug-about/commit/67cbe8b731c2ffa411c30ed7c1dc0b8316a7b6e5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
 - [ ] [<code>Add Notifications settings (#238)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b4f466013fb90a9bbb5e27d12390070a0806ea4e)
 - [ ] [<code>AppSettingsView: Fix typo 'Notications' -> 'Notifications' (#239)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bdf1ccb7862cfa5e57d7dbe785e97b3e706a41fb)
 - [ ] [<code>Store Sidebar Position (#240)</code>](https://github.com/elementary/switchboard-plug-applications/commit/0191d489ceb0fe97fd417ddd986aeab2abe43166)
+- [ ] [<code>Meson: add log domain (#241)</code>](https://github.com/elementary/switchboard-plug-applications/commit/82342454ff428a33eae9863da3f0577765a19c56)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
 
@@ -295,14 +306,20 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Metainfo: add 8.01 release notes (#229)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/98a3cb51de90a7aaeb8e9ad71102f13c6701add0)
+- [ ] [<code>Meson: add log domain (#231)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/8a6bdfdd72e75071e1363544035319415da8d86b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
+- [ ] [<code>Meson: add log domain (#133)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/50df1abaf9f5ef64436c31ae32e4a7495d304f63)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/a9b55a93e09caa41229902f297ec556f820db988)
 - [ ] [<code>Use mutter provided supported scales (#399)</code>](https://github.com/elementary/switchboard-plug-display/commit/c74321902f30a414b1380b214ffccb35fd5e3ba3)
+- [ ] [<code>Meson: add log domain (#402)</code>](https://github.com/elementary/switchboard-plug-display/commit/0bf6bb9dbe4f8e663e398efe267ce66b1041b0bb)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.0...HEAD)
 
@@ -311,11 +328,15 @@
 - [ ] [<code>Release 8.0.1 (#520)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6e63405a36c2e1dc56d231624bf2501ba4503c74)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Meson: add log domain (#522)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6514b0b59ed16943c172c6941056322c5b4c5222)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/908873b8f28cfdad00093928b1c035a1395443a2)
 - [ ] [<code>Store Sidebar Position (#249)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef6e17ab4666d803b8cf1e650ccdf6a8f59a8745)
+- [ ] [<code>Meson: add log domain (#250)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ca9b762f72c4dc96cad757d6d167d9b03757f571)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
 
@@ -325,15 +346,21 @@
 - [ ] [<code>Auto select active network (#407)</code>](https://github.com/elementary/switchboard-plug-network/commit/b41c3fc893434795c5284f81c1a60e349470678d)
 - [ ] [<code>Store Sidebar Position (#408)</code>](https://github.com/elementary/switchboard-plug-network/commit/28476a9df37fa29a4553c1ac0aa6f61a54d0548e)
 - [ ] [<code>Metainfo: 8.0.1 release notes (#409)</code>](https://github.com/elementary/switchboard-plug-network/commit/012e77ac3bb9769426b1dadc16e09df258ab47f1)
+- [ ] [<code>Meson: add log domain (#411)</code>](https://github.com/elementary/switchboard-plug-network/commit/90a9c7a8d85c8e386cc2986ee131a671a5f5f201)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
 - [ ] [<code>App: remove ancient gala notification schema (#108)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c93367b4616805082a8e17b430ae8e6a6ca6ae38)
 - [ ] [<code>Store Sidebar Position  (#112)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c5bec24a941eef14215b81511edd86496d3c9eba)
+- [ ] [<code>Meson: add log domain (#113)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/fe7f3346f5026bd21eced6fa268225255c229e46)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/e6b62b75254e4c4cb1c3b4cf74c3468b81b0ed08)
+- [ ] [<code>Meson: add log domain (#295)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fd9b68f53cff7757631c14ea2ee71c0bf7f6203d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.0.0...HEAD)
 
@@ -353,31 +380,45 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Vertical Align SpinButton (#422)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/338a614d7893910d5e89c829dca8dfa79026925c)
 - [ ] [<code>Store Sidebar Position (#424)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/566b7bd58ddaf989d5c55e686b6a076832b488c2)
+- [ ] [<code>Meson: add log domain (#425)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/99285717b2a08815020a25e263f4f528133f459c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
+- [ ] [<code>Meson: add log domain (#271)</code>](https://github.com/elementary/switchboard-plug-power/commit/1eb1baa4d4d0214e00829cc47a1e0e946117f25e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.0...HEAD)
 
 - [ ] [<code>PrinterRow: use emblem status icons (#207)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9b6ca58acc11f0918dad635ea5e5b48c294c8ba7)
 - [ ] [<code>Store Sidebar Position (#208)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fa0e36e711f9870b92021531e923ff673be852c4)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#209)</code>](https://github.com/elementary/switchboard-plug-printers/commit/91850e2d2307f5332aa8bfcbb1d13b13b4f5350a)
+- [ ] [<code>Meson: add log domain (#211)</code>](https://github.com/elementary/switchboard-plug-printers/commit/f31d39b90a783fe20704562d48664b522eabb7bd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
 
+- [ ] [<code>Meson: add log domain (#180)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3477801411c1cfa5555dd47f1911ae19b1f9bf76)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.0...HEAD)
 
 - [ ] [<code>Bluetooth in the title case (#82)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/d04c55f8a1d986743db12e66915c7d1aea1fcb88)
 - [ ] [<code>Store Sidebar Position (#84)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ecd69e72a4d86cf2e8144206f98556575b9727e1)
+- [ ] [<code>Meson: add log domain (#85)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/080ee60448b0949e8bf7901f7b3cb7579238ec78)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.0...HEAD)
 
 - [ ] [<code>Bind properties in correct order (#279)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8616cca554a97d177bedbfa7367805eab6f45f54)
 - [ ] [<code>PuseAudioManager: fix crash with non-app audio source (#280)</code>](https://github.com/elementary/switchboard-plug-sound/commit/62d97f98edc34a99469063556614f36b41f2904b)
+- [ ] [<code>Meson: add log domain (#281)</code>](https://github.com/elementary/switchboard-plug-sound/commit/6844abd0c0ee568f4397fa3eb9aa6990f19d7efe)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
 
+- [ ] [<code>Meson: add log domain (#67)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d6d5a37384b9d897d74e84dfcae01b078c1a13b0)
+  - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.1.0...HEAD)
@@ -480,6 +521,7 @@
 - [ ] [<code>Install gtk settings.ini (#319)</code>](https://github.com/elementary/default-settings/commit/31675219f666cdc64be43a4a0a23fad312d5fa69)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Changelog: update for 8.0.1</code>](https://github.com/elementary/default-settings/commit/654fd0748b30b3b76f02a171f31a950e0274263c)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -549,6 +591,7 @@
 - [ ] [<code>CapsLockRevealer: GTK4 prep (#764)</code>](https://github.com/elementary/greeter/commit/e484ada7340d0c6615c7d112356ed1b26d058a8e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>CSS: specific window.background (#769)</code>](https://github.com/elementary/greeter/commit/644f68a668389980da38089ae78cd4fc0dee5c42)
+- [ ] [<code>Main: don't start settings daemon in installer session (#761)</code>](https://github.com/elementary/greeter/commit/b8b5761e082b5539b60264bd1c290da79b20b211)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.0 → HEAD](https://github.com/elementary/onboarding/compare/8.0.0...HEAD)
 
@@ -556,6 +599,12 @@
 - [ ] [<code>WelcomeView: copy links redesign from Settings (#239)</code>](https://github.com/elementary/onboarding/commit/37ac1c75dde48e45c659b7e1c77f62e4687ad4c2)
 - [ ] [<code>Add .editorconfig (#242)</code>](https://github.com/elementary/onboarding/commit/987516068f7451e41261b04ae9899f2ca15d276f)
 - [ ] [<code>Update onboarding.metainfo.xml.in (#244)</code>](https://github.com/elementary/onboarding/commit/2364cea791f001aedd9f774c44391151f93e2f04)
+- [ ] [<code>Release 8.0.1 (#245)</code>](https://github.com/elementary/onboarding/commit/239860a21d8d8fbe25f766fc1714a9e3d794a85f)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WelcomeView: Fix missing handler when a row activated (#243)</code>](https://github.com/elementary/onboarding/commit/391fab7867885578015abbebbe678e8d4f0f331d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
