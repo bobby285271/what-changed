@@ -551,6 +551,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/49d7349fd207aa87e819ecac67408415240cf51d)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Fix leak of seats GList</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/15b12570424d00af09891fffb264a5190895eb9a)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
