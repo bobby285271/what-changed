@@ -1063,6 +1063,11 @@
 - [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/thunar/commit/7c9ba41098f8e7e19a9198a9ee71ad5a4b3f91e8)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Fix GCancellable leaks in trash applet</code>](https://github.com/xfce-mirror/thunar/commit/13c253542818a6d7676447b4939f24a60c1754d6)
+- [ ] [<code>Drop optional POLKIT dependency (#1403)</code>](https://github.com/xfce-mirror/thunar/commit/bf80c6686cd74765b807a1414fba092d8013e6d6)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Verify copied destination file using direct I/O (#1471)</code>](https://github.com/xfce-mirror/thunar/commit/e62022e949afba7cc00753e81b6084caf608251e)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
