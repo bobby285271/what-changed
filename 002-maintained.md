@@ -394,6 +394,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating .editorconfig</code>](https://github.com/phase1geo/minder/commit/708d35918734f850c61cb478082d7bdf02b61374)
 - [ ] [<code>Attempting to fix issues with tab UI.</code>](https://github.com/phase1geo/minder/commit/c838e03da53637eb277673ed4e1d5dcefb08215e)
+- [ ] [<code>Adding Shift-I shortcut to add an image to a node.</code>](https://github.com/phase1geo/minder/commit/51227c9519095210f4edaa6576384bcf055d44b8)
+- [ ] [<code>Updating location of gtksourceview in flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/8add204fdb5ebd2c0ffe0cdfbde536eb4d837066)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
