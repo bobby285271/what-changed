@@ -257,6 +257,12 @@
 - [ ] [<code>Add missing includes of libxfce4ui-alias.h</code>](https://github.com/xfce-mirror/libxfce4ui/commit/4b33102359f192409545c9968d76116bc72c762e)
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b94edc260674475c7bf27eb765a40fb336c0503c)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add "overlap groups" to the shortcut editor (#115)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/205d8df31547dd2d7e9c736b7de6e9e361327c82)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b92214d14ce3aa7d1c1d0953b28b62840462d7d6)
+  - <sub>Tags: <code>libxfce4ui-4.19.6</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c21e1c54f060924637a4e2dd8014ea74f167306d)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
@@ -1054,6 +1060,9 @@
 - [ ] [<code>Support second shortcut for tab switch (#1472)</code>](https://github.com/xfce-mirror/thunar/commit/756a5d5de2d0eec03661403166101b512a39ad72)
 - [ ] [<code>Show "Properties" menu entry for unmounted devices</code>](https://github.com/xfce-mirror/thunar/commit/6c99951ad1746cc1b948832826211f3a6f549874)
 - [ ] [<code>Add emblem and type description to mount points (#1388)</code>](https://github.com/xfce-mirror/thunar/commit/021975aad4196f6845331a4463e402c8d9290b22)
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/thunar/commit/7c9ba41098f8e7e19a9198a9ee71ad5a4b3f91e8)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix GCancellable leaks in trash applet</code>](https://github.com/xfce-mirror/thunar/commit/13c253542818a6d7676447b4939f24a60c1754d6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1073,6 +1082,8 @@
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/thunar-volman/commit/ba9a99e4331518fe15d89ebaaf4a504c50ef3efe)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Fix deprecation warning on xfce_titled_dialog_create_action_area</code>](https://github.com/xfce-mirror/thunar-volman/commit/025206a1184168390325852f4b7acfd0f00282cb)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Bump copyright</code>](https://github.com/xfce-mirror/thunar-volman/commit/dbeef3603b34ee3b68adae676b14969f546b9538)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.18.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.18.0...HEAD)
@@ -1184,6 +1195,8 @@
 - [ ] [<code>Fix segfaults</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/8057f93962cafcf10986a69f010c9787097d7612)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/1d86e6b8a0c6b76ca765df1c9d066f1e36d187de)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f9062845cdd01b56fb329f8349a9feca61d6a4fc)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.18.0...HEAD)
@@ -2311,6 +2324,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>color-settings: Add missing translation</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a7c5f093004816a723338e18a6e2dea5a3e13c2f)
 - [ ] [<code>wayland: common: Properly initialize output modes</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7fa697d265065ac454125c4411b5e08744828eee)
+- [ ] [<code>x11: displays: Delay RRScreenChangeNotify handling</code>](https://github.com/xfce-mirror/xfce4-settings/commit/61a03cb59a111b31ce0eb2f4ba385126b8713a14)
+- [ ] [<code>x11: displays: Refactor screen_on_event()</code>](https://github.com/xfce-mirror/xfce4-settings/commit/249483a233130b7edf2fa27ca80353e27c31a20b)
+- [ ] [<code>display-settings: Fix InputRegion leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e35c7d2a9bb507838b7dc94e3c7ac654894fa3c9)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2792,6 +2808,10 @@
 - [ ] [<code>Ignore the result of g_volume_can_mount()</code>](https://github.com/xfce-mirror/xfdesktop/commit/255cdcab741dd82e1377c2f889667be843d06936)
 - [ ] [<code>Bump libxfce4windowing requirement to 4.19.8</code>](https://github.com/xfce-mirror/xfdesktop/commit/149b0628e10802b3e5ba11287ffbdfb6d6c9d363)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>bump copyright</code>](https://github.com/xfce-mirror/xfdesktop/commit/ed6f8f372f264235468b70ab34547fc166fe5592)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix leak when dragging icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/6172de525bdc8fb645dec7593c1a9a8cfa7eab83)
+- [ ] [<code>Add a few environment settings to gitlab issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/d640ea6da261bb47f9476b1c19dae40359d20d53)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
@@ -2862,3 +2882,5 @@
 - [ ] [<code>theme: ensure menu icon gets updated when redrawing stretched title frame</code>](https://github.com/xfce-mirror/xfwm4/commit/a5acdf34270ae02dd7be4d09b91cdddf115be393)
 - [ ] [<code>mypixmap: fix origin for tiling in xfwmPixmapFill* functions</code>](https://github.com/xfce-mirror/xfwm4/commit/3205c8d6945e82087eefc274a172c3bc344e17bf)
 - [ ] [<code>frame: clip title text from drawing behind buttons in stretched theme</code>](https://github.com/xfce-mirror/xfwm4/commit/598c502599275c91f0686906ce019da74bef39a5)
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfwm4/commit/94f5695b4fcdb76c2b8814828ec4245ac824ef07)
+  - <sub>Files: <code>configure.ac</code></sub>
