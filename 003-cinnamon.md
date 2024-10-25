@@ -150,6 +150,8 @@
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
+- [ ] [<code>window-x11.c: Handle a special case for sending a ConfigureNotify</code>](https://github.com/linuxmint/muffin/commit/c083b7ee7b4e15bd09184449838541c75bdb456f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
