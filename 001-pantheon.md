@@ -251,17 +251,8 @@
 - [ ] [<code>Meson: add log domain (#241)</code>](https://github.com/elementary/switchboard-plug-applications/commit/82342454ff428a33eae9863da3f0577765a19c56)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
-- [ ] [<code>DeviceRow: use emblem icons for status (#226)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/adff866a57c5f1b5a7f1bffaefa9c13a9fa9fe42)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.01 release notes (#229)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/98a3cb51de90a7aaeb8e9ad71102f13c6701add0)
-- [ ] [<code>Meson: add log domain (#231)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/8a6bdfdd72e75071e1363544035319415da8d86b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 8.0.1 (#230)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b706a97db167d62c264de4f9c6a2a5efc7f020cb)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -292,19 +283,8 @@
 - [ ] [<code>Meson: add log domain (#250)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ca9b762f72c4dc96cad757d6d167d9b03757f571)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
 
-- [ ] [<code>VPNMenuItem: use emblem status icons (#406)</code>](https://github.com/elementary/switchboard-plug-network/commit/191cbba63f0bdfb45157a9c8f664f93f1c6243a8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Auto select active network (#407)</code>](https://github.com/elementary/switchboard-plug-network/commit/b41c3fc893434795c5284f81c1a60e349470678d)
-- [ ] [<code>Store Sidebar Position (#408)</code>](https://github.com/elementary/switchboard-plug-network/commit/28476a9df37fa29a4553c1ac0aa6f61a54d0548e)
-- [ ] [<code>Metainfo: 8.0.1 release notes (#409)</code>](https://github.com/elementary/switchboard-plug-network/commit/012e77ac3bb9769426b1dadc16e09df258ab47f1)
-- [ ] [<code>Meson: add log domain (#411)</code>](https://github.com/elementary/switchboard-plug-network/commit/90a9c7a8d85c8e386cc2986ee131a671a5f5f201)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 8.0.1 (#410)</code>](https://github.com/elementary/switchboard-plug-network/commit/c1c3ce5691409555d8f62603136d95da46258ec2)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/2fbd1dfad0b35c912ab16cfad0ef5d9d9898d16f)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
@@ -346,16 +326,8 @@
 - [ ] [<code>Meson: add log domain (#271)</code>](https://github.com/elementary/switchboard-plug-power/commit/1eb1baa4d4d0214e00829cc47a1e0e946117f25e)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
-- [ ] [<code>PrinterRow: use emblem status icons (#207)</code>](https://github.com/elementary/switchboard-plug-printers/commit/9b6ca58acc11f0918dad635ea5e5b48c294c8ba7)
-- [ ] [<code>Store Sidebar Position (#208)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fa0e36e711f9870b92021531e923ff673be852c4)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#209)</code>](https://github.com/elementary/switchboard-plug-printers/commit/91850e2d2307f5332aa8bfcbb1d13b13b4f5350a)
-- [ ] [<code>Meson: add log domain (#211)</code>](https://github.com/elementary/switchboard-plug-printers/commit/f31d39b90a783fe20704562d48664b522eabb7bd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 8.0.1 (#210)</code>](https://github.com/elementary/switchboard-plug-printers/commit/073f153aeb06440934ab93bdd7ef619b99693923)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
 
@@ -386,38 +358,8 @@
 
 - [ ] [<code>Add support for new Adw.Dialog and bottom sheets (#1301)</code>](https://github.com/elementary/stylesheet/commit/b76dc06afcc9fde08e9b988b94f3ae71c3c9f5a0)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.0.0 → HEAD](https://github.com/elementary/icons/compare/8.0.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
-- [ ] [<code>Actions: Update print preview magnifying glass (#1282)</code>](https://github.com/elementary/icons/commit/e37abd38998aeb24f45ca25fd435bd2f8128d27d)
-- [ ] [<code>Actions: Refresh and add color to session icons (#1283)</code>](https://github.com/elementary/icons/commit/fa22659006f9733988b0038b62630b0dcbb92471)
-- [ ] [<code>Actions: Apply new save-as design to symbolic icon (#1285)</code>](https://github.com/elementary/icons/commit/29caa394fbf89968a6d4c52e91570bdd6ae9361a)
-- [ ] [<code>Categories: preferences-desktop-locale-symbolic redesign (#1291)</code>](https://github.com/elementary/icons/commit/eae47020c03b720a9d224910c32f27314982c973)
-- [ ] [<code>Unify Symbolic Color: Actions (#1297)</code>](https://github.com/elementary/icons/commit/6aaf3817752fc164fc9a8e84c3be7b92e655cb4b)
-- [ ] [<code>Unify Symbolic Color: Status (#1304)</code>](https://github.com/elementary/icons/commit/3b33d12f8ee0095fdd902fb39b4f57c3d4c15f15)
-- [ ] [<code>Unify Symbolic Color: Places (#1303)</code>](https://github.com/elementary/icons/commit/50a0cdaef239748562f43998172dbd21f3347afe)
-- [ ] [<code>Unify Symbolic Color: Emotes (#1302)</code>](https://github.com/elementary/icons/commit/2e7fc889d1c9defe555352df703825eebd94ce14)
-- [ ] [<code>Unify Symbolic Color: Emblems (#1301)</code>](https://github.com/elementary/icons/commit/064ec1ca3ab332b435c39a62424b82929594b76a)
-- [ ] [<code>Unify Symbolic Color: Devices (#1300)</code>](https://github.com/elementary/icons/commit/6d7e41c634b8a4d140e2e08c287fbe4947d8193f)
-- [ ] [<code>Unify Symbolic Colors: Categories (#1299)</code>](https://github.com/elementary/icons/commit/9ea0ffc4aacced6b6ce1934dac2c8390ccb4a333)
-- [ ] [<code>Unify Symbolic Colors: Apps (#1298)</code>](https://github.com/elementary/icons/commit/629f31331f0f6d3b6656fc393dfc7b3da3c6b380)
-- [ ] [<code>Categories: handle symlinks in the build system (#1279)</code>](https://github.com/elementary/icons/commit/8175dab1210f45be6318d5e03fe42b2eb795474c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Status: Use chat bubbles for `user-` icons (#1308)</code>](https://github.com/elementary/icons/commit/323a8edbd6ea203fb7f3ce9a85347a5908c1a1b2)
-- [ ] [<code>Actions: Add Import, Export at 16px (#1309)</code>](https://github.com/elementary/icons/commit/56278a37d50d43358dfd7285e28d1d23a0754cc6)
-- [ ] [<code>Apps: Redesign system-software-install (#1284)</code>](https://github.com/elementary/icons/commit/15aa184cea0c3d2c356da07c5d9c5cf5804b5d3b)
-- [ ] [<code>Actions: Make mail-message-new uniform, add 16px (#1312)</code>](https://github.com/elementary/icons/commit/e77d29b782bcf77cc5533db67c17708eeadff37e)
-- [ ] [<code>Actions: Add color mail-send-receive (#1313)</code>](https://github.com/elementary/icons/commit/69d89cc6fd5e1c46988ae7c3b63463f847b67e2f)
-- [ ] [<code>Emotes: Fix symbolic pagesize, grid alignment (#1319)</code>](https://github.com/elementary/icons/commit/d3c6508bfff4db4309b5634aaf3ff7edd687bae4)
-- [ ] [<code>Emblems: Fix symbolic pagesizes, grid alignment (#1318)</code>](https://github.com/elementary/icons/commit/e30a68eedcdfc1cb603b2de3a53cd46f9d2f4234)
-- [ ] [<code>Actions: Fix pagesizes, grid alignment (#1315)</code>](https://github.com/elementary/icons/commit/feba691abb51c47693db2f41ca156cedc6f7d53c)
-- [ ] [<code>Devices: Fix symbolic pagesizes, grid alignment (#1317)</code>](https://github.com/elementary/icons/commit/3de79984f112fc47b1bc5efc63c8f4158fe971c6)
-- [ ] [<code>Places: Fix symbolic pagesizes, grid alignment (#1320)</code>](https://github.com/elementary/icons/commit/fbacdddf64e2478e4819835176d09962aa771277)
-- [ ] [<code>Categories: Fix symbolic pagesizes, grid alignment (#1316)</code>](https://github.com/elementary/icons/commit/a9b4f625dbc943320418fc262e74bfc22c10ed04)
-- [ ] [<code>Status: Fix symbolic pagesizes, grid alignment (#1321)</code>](https://github.com/elementary/icons/commit/76fb26d0d4e30f041fd77576823a206e9c8c362d)
-- [ ] [<code>Cursors: Update `text` and `text-vertical` cursors (#1322)</code>](https://github.com/elementary/icons/commit/cd491d1feaa16adf61c12e8275dd5ab0fdeba5b3)
-- [ ] [<code>Release 8.1.0 (#1325)</code>](https://github.com/elementary/icons/commit/241be59c7f75ba186d0beba376ae44574f52372b)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
