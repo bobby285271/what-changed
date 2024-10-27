@@ -135,6 +135,7 @@
 - [ ] [<code>Release 8.0.1 (#287)</code>](https://github.com/elementary/dock/commit/bc6ed8d972991e693d3226ba094b045389d4391e)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>App: Respect startup notify key for launching animation (#299)</code>](https://github.com/elementary/dock/commit/01cfdfd8677cbfca8e818bdcf1e53ac3498074ed)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
