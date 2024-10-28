@@ -394,8 +394,19 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating .editorconfig</code>](https://github.com/phase1geo/minder/commit/708d35918734f850c61cb478082d7bdf02b61374)
 - [ ] [<code>Attempting to fix issues with tab UI.</code>](https://github.com/phase1geo/minder/commit/c838e03da53637eb277673ed4e1d5dcefb08215e)
+- [ ] [<code>Adding initial support for node sequences.</code>](https://github.com/phase1geo/minder/commit/d08d99eb875b379354bbae9297d7b742bbf25449)
 - [ ] [<code>Adding Shift-I shortcut to add an image to a node.</code>](https://github.com/phase1geo/minder/commit/51227c9519095210f4edaa6576384bcf055d44b8)
 - [ ] [<code>Updating location of gtksourceview in flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/8add204fdb5ebd2c0ffe0cdfbde536eb4d837066)
+- [ ] [<code>Drawing sequences.</code>](https://github.com/phase1geo/minder/commit/fd8ffd248148e46a10c8733a8e38d49f2349edc9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for numbers and letters in sequence numbers.</code>](https://github.com/phase1geo/minder/commit/f80aee0f8e5fedcc3bd4b9e48271faf5896f0c00)
+- [ ] [<code>Adding sequence support for Markdown/PlainText import/export.</code>](https://github.com/phase1geo/minder/commit/84648ff524cd84b0f9ff141c9fbd6fc8e77c845d)
+- [ ] [<code>Updating exports/imports for sequencing.</code>](https://github.com/phase1geo/minder/commit/7ed4af3084883eeedcb72e5071592c312f762b86)
+- [ ] [<code>Merge branch 'sequences'</code>](https://github.com/phase1geo/minder/commit/b758e459a5c581008c45815b6507ae7b225b9543)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving support for sequences in menu and shortcuts.</code>](https://github.com/phase1geo/minder/commit/8b8b6e1a284ee05abe1d6b9b12791013d23bf5e1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding sequence shortcut to cheatsheet.</code>](https://github.com/phase1geo/minder/commit/3acce74b7220a94c38d30258816040e721c80046)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
