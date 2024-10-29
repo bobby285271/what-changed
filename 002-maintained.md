@@ -407,6 +407,10 @@
 - [ ] [<code>Improving support for sequences in menu and shortcuts.</code>](https://github.com/phase1geo/minder/commit/8b8b6e1a284ee05abe1d6b9b12791013d23bf5e1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adding sequence shortcut to cheatsheet.</code>](https://github.com/phase1geo/minder/commit/3acce74b7220a94c38d30258816040e721c80046)
+- [ ] [<code>Fixing display issues with sequences in different sides.</code>](https://github.com/phase1geo/minder/commit/a44a3dd891a737dd7f3ec09ba185665b0b6ca437)
+- [ ] [<code>Updating screenshots and translation files.</code>](https://github.com/phase1geo/minder/commit/6a2cf5d86d5e8c92111768d153416035fe4e1582)
+- [ ] [<code>Updating revision from 1.16.4 to 1.17.</code>](https://github.com/phase1geo/minder/commit/b7ec34c3bf60165cd51c44bae14bd7386c27fd52)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
