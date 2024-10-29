@@ -968,6 +968,8 @@
 - [ ] [<code>Launcher: add X-GNOME-UsesNotifications (#161)</code>](https://github.com/elementary/settings-daemon/commit/bae5d7ea024bb744f1ab2909093aee8ac30b7824)
 - [ ] [<code>SystemUpdate: Don't auto update on a metered connection (#159)</code>](https://github.com/elementary/settings-daemon/commit/157ffd0862ee0c6539694d23c0fae85c6c68ac37)
 - [ ] [<code>SystemUpdate: make sure we notify if network is metered (#164)</code>](https://github.com/elementary/settings-daemon/commit/6e9dd0c71064e904bf85911eae844d6f6e0bf17d)
+- [ ] [<code>Don't check for updates in demo mode (#163)</code>](https://github.com/elementary/settings-daemon/commit/c5fd1da26919aca035235c29d14d845145e2d09b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
