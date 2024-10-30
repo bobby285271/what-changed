@@ -1068,6 +1068,7 @@
 - [ ] [<code>Build Stable 8.0 (#720)</code>](https://github.com/elementary/os/commit/932a9585b341dff278786b866dae810cae769f03)
 - [ ] [<code>Rename stable-8.0 to stable-8.0.yml</code>](https://github.com/elementary/os/commit/dcfbeb5229fbbce862c66e05c01ebb97a4faca14)
 - [ ] [<code>Drop 7.1 config from workflows (#725)</code>](https://github.com/elementary/os/commit/5439ac10bf084f6754dd0d20f04b2f8e23312f5c)
+- [ ] [<code>Raspberry Pi: bump to noble (#726)</code>](https://github.com/elementary/os/commit/f1eac7d530c9bd189f1ce2482668a4d505ebb8de)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
