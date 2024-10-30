@@ -1068,6 +1068,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Verify copied destination file using direct I/O (#1471)</code>](https://github.com/xfce-mirror/thunar/commit/e62022e949afba7cc00753e81b6084caf608251e)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add missing return statements (#1480)</code>](https://github.com/xfce-mirror/thunar/commit/88ae926b443522a2bc2ec06a210ccc78f77a9ecd)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
