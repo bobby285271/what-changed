@@ -412,6 +412,7 @@
 - [ ] [<code>Updating revision from 1.16.4 to 1.17.</code>](https://github.com/phase1geo/minder/commit/b7ec34c3bf60165cd51c44bae14bd7386c27fd52)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating appdata file for 1.17.0 release.</code>](https://github.com/phase1geo/minder/commit/50af66e6cbff01b68fbf0560255d9f8a78f03d53)
+  - <sub>Tags: <code>1.17.0</code></sub>
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
