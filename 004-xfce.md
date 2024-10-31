@@ -38,6 +38,11 @@
 - [ ] [<code>exo-icon-view: Call icon-view layout as well for empty view (Issue #118)</code>](https://github.com/xfce-mirror/exo/commit/804f765659a33b41a439c0913cf22fbf7b299f48)
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/exo/commit/af4ca25f4ada4aea578510b653506afe63de8565)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/exo/commit/aa4c1c425e12fce01880845f76b325df4bb772d8)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add option to exo-desktop-item-edit to print the filename</code>](https://github.com/xfce-mirror/exo/commit/e4c86e8495f4b4b223d88ac07cdfc9c0222a8d4c)
+- [ ] [<code>exo-icon-chooser-dialog: Fix icon leaks</code>](https://github.com/xfce-mirror/exo/commit/92853e7b27764f2f1c14ded794e436bef0abac6b)
+- [ ] [<code>exo-tree-view: Add Ctrl+Shift+Click functionality (#116)</code>](https://github.com/xfce-mirror/exo/commit/5aebee889ba3e2ee960d97f592ae01454873d0b8)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.18.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.18.0...HEAD)
 
