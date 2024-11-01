@@ -358,6 +358,8 @@
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.1.0...HEAD)
 
 - [ ] [<code>Add support for new Adw.Dialog and bottom sheets (#1301)</code>](https://github.com/elementary/stylesheet/commit/b76dc06afcc9fde08e9b988b94f3ae71c3c9f5a0)
+- [ ] [<code>Add support for Adw.OverlaySplitView (#1302)</code>](https://github.com/elementary/stylesheet/commit/b21589fd9a2ec65828b8989571d971e005caea25)
+- [ ] [<code>Popovers: use border-spacing (#1303)</code>](https://github.com/elementary/stylesheet/commit/1815821fbd2329bcaebb7f280d32d642ad2f201f)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -930,6 +932,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix dead link (#734) (#735)</code>](https://github.com/elementary/granite/commit/3d0afa3284a712bf1a66426aa9c122463878f94e)
+- [ ] [<code>Update SwitchModelButton.vala (#736)</code>](https://github.com/elementary/granite/commit/0967a602e3e779ba82a3886155b876d29f214e61)
+- [ ] [<code>Revert "Update SwitchModelButton.vala (#736)" (#737)</code>](https://github.com/elementary/granite/commit/f70dc462c3075c97270f48ccc5af1706f410d82c)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
