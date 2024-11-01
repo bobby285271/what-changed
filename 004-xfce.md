@@ -101,6 +101,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>build: Bump requirements for Xfce 4.20</code>](https://github.com/xfce-mirror/garcon/commit/1e0607ad928641a2aedf375398872b3b3182c644)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix doc annotation</code>](https://github.com/xfce-mirror/garcon/commit/ee9eb5ffd0eaef927b410748c655a6cb4afadd35)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
 
