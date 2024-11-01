@@ -169,6 +169,7 @@
 - [ ] [<code>Guard against gdkx11 calls in a Wayland session.</code>](https://github.com/linuxmint/nemo/commit/b81ab124f594add4f14b7730257c5d7b2caa48e0)
 - [ ] [<code>nemo-places-sidebar.c: Only register the special eject icon size</code>](https://github.com/linuxmint/nemo/commit/7eb062adf41d045b439210b96967778e3edceeaa)
 - [ ] [<code>actions: Cancel action update idle callbacks during dispose for</code>](https://github.com/linuxmint/nemo/commit/bc192b69236d67ca5bb412034627dafe4322a93b)
+- [ ] [<code>Add setting to disable auto-expanding of treeview rows during</code>](https://github.com/linuxmint/nemo/commit/b4f49db3f57507b226801453860e69a9ac26d487)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
