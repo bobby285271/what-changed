@@ -413,6 +413,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Updating appdata file for 1.17.0 release.</code>](https://github.com/phase1geo/minder/commit/50af66e6cbff01b68fbf0560255d9f8a78f03d53)
   - <sub>Tags: <code>1.17.0</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/09d813996db22a72476aa733fc595a81460ec60e)
+- [ ] [<code>Merge pull request #637 from albanobattistella/patch-34</code>](https://github.com/phase1geo/minder/commit/2074e3d44ce600e0a09a245a814c1c86b58a4101)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
