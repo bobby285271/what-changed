@@ -71,6 +71,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Cinnamon Settings .desktop translations (#12299)</code>](https://github.com/linuxmint/cinnamon/commit/2b18f7f9f74201ed93c1fde5fdd37de19a44d21f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Grouped window list: Add option to only list windows from the current monitor (#12225)</code>](https://github.com/linuxmint/cinnamon/commit/3e1fca6a33961bed0a18eb773565db8cfbfb6122)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Optionally install wayland session files (#12273)</code>](https://github.com/linuxmint/cinnamon/commit/d2d660bc870651b3de3d7696791a86d06836276d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>added support for using numpad arrows to navigate the menu (#12302)</code>](https://github.com/linuxmint/cinnamon/commit/69e5fac4724befdbc7fa19009d86663a3016970d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -147,11 +153,17 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.7...HEAD)
 
+- [ ] [<code>Add symbolic links for the Proton VPN desktop app</code>](https://github.com/linuxmint/mint-y-icons/commit/cc48242106af2e623780c43f3bba2ca3fbeae47d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Proton Pass icon</code>](https://github.com/linuxmint/mint-y-icons/commit/9848a456a3fba021fe421334f0f5d69d9822923c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
 - [ ] [<code>window-x11.c: Handle a special case for sending a ConfigureNotify</code>](https://github.com/linuxmint/muffin/commit/c083b7ee7b4e15bd09184449838541c75bdb456f)
+- [ ] [<code>Change all g_memdup() to g_memdup2() (#699)</code>](https://github.com/linuxmint/muffin/commit/e1bb33e56398dab17ea5b639129122138b1790f7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -170,6 +182,7 @@
 - [ ] [<code>nemo-places-sidebar.c: Only register the special eject icon size</code>](https://github.com/linuxmint/nemo/commit/7eb062adf41d045b439210b96967778e3edceeaa)
 - [ ] [<code>actions: Cancel action update idle callbacks during dispose for</code>](https://github.com/linuxmint/nemo/commit/bc192b69236d67ca5bb412034627dafe4322a93b)
 - [ ] [<code>Add setting to disable auto-expanding of treeview rows during</code>](https://github.com/linuxmint/nemo/commit/b4f49db3f57507b226801453860e69a9ac26d487)
+- [ ] [<code>action_i18n_strings.py & add-desklets.nemo_action.in: Fix spelling error (#3430)</code>](https://github.com/linuxmint/nemo/commit/c4a14be75b691b8f00b1126f8f900b997fff87fb)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
@@ -225,6 +238,9 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.6...HEAD)
 
+- [ ] [<code>Fix encoding for m3u links (#339). (#340)</code>](https://github.com/linuxmint/hypnotix/commit/cfd62fa6dc18c76209cb1576cc838c80e6c40b9a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -237,6 +253,8 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.3 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.3...HEAD)
 
+- [ ] [<code>Added a way to install and uninstall a program in ALT Linux (#312)</code>](https://github.com/linuxmint/timeshift/commit/06a6a14946da8896a0456cd5988b8a8c10e471ad)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.6 → HEAD](https://github.com/linuxmint/xed/compare/3.6.6...HEAD)
 
