@@ -748,6 +748,7 @@
 - [ ] [<code>Release 8.0.2 (#2093)</code>](https://github.com/elementary/gala/commit/9371b2891ffdf403a183c23664f069f06543e6b6)
   - <sub>Tags: <code>8.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DragDropAction: Fix actor_clicked emission on touch event (#2097)</code>](https://github.com/elementary/gala/commit/897dd8431582962dd38b7f120168e9ceceaf87ad)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
