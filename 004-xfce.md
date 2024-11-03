@@ -2134,6 +2134,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/0f68a1384175d2f7fe36927b0ab1200d738ffe0d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>users wanting to shutdown should be in the _shutdown group since OpenBSD 7.4</code>](https://github.com/xfce-mirror/xfce4-session/commit/ff78e2abefa284c54e0a86a0760eb8971ffb4477)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
