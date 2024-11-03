@@ -136,6 +136,9 @@
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>App: Respect startup notify key for launching animation (#299)</code>](https://github.com/elementary/dock/commit/01cfdfd8677cbfca8e818bdcf1e53ac3498074ed)
+- [ ] [<code>meson: Specify minimum GLib version (#306)</code>](https://github.com/elementary/dock/commit/3a7fc6630ac4c2513307f21774211ab85d0bf24a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -749,6 +752,12 @@
   - <sub>Tags: <code>8.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>DragDropAction: Fix actor_clicked emission on touch event (#2097)</code>](https://github.com/elementary/gala/commit/897dd8431582962dd38b7f120168e9ceceaf87ad)
+- [ ] [<code>Introduce AnimationsSettings (#2105)</code>](https://github.com/elementary/gala/commit/b0a5f8a0067c3990f5face37f4612948c3620b3d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DragDropAction: properly handle button release event (#2104)</code>](https://github.com/elementary/gala/commit/1e156042c328df3bbcd6d0af14fa5a10a021c9af)
+- [ ] [<code>Introduce a WindowPositioner (#2087)</code>](https://github.com/elementary/gala/commit/d8504441fa01ff5c4ebefe6bfe507bab63049943)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Pass Meta.Display instead of Gala.WindowManager where possible (#2107)</code>](https://github.com/elementary/gala/commit/2a98017f81f5f986005ff3e2e966a77df962c67b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
