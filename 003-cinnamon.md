@@ -162,6 +162,9 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.8...HEAD)
 
+- [ ] [<code>Remove "Linux Mint" Cinnamon theme</code>](https://github.com/linuxmint/mint-themes/commit/5de93c0c55b98526e90e087afdcb2a4bb78d3070)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
 
