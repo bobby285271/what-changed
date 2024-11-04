@@ -22,6 +22,7 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
+- [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
