@@ -79,9 +79,18 @@
 - [ ] [<code>added support for using numpad arrows to navigate the menu (#12302)</code>](https://github.com/linuxmint/cinnamon/commit/69e5fac4724befdbc7fa19009d86663a3016970d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>deskletManager: Only display placeholder for desklets (#12366)</code>](https://github.com/linuxmint/cinnamon/commit/90fe77c10cef649e83c363b11b425126ff25c22c)
+- [ ] [<code>cs_keyboard.py: Skip invalid bindings (#12396)</code>](https://github.com/linuxmint/cinnamon/commit/c5d83f3b60a7fd698602a399cdb99755e2798358)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update cs_panel.py (#12399)</code>](https://github.com/linuxmint/cinnamon/commit/5b05d68226cd6c1b58709bc299e6946a83d9540a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
+- [ ] [<code>meson: remove CFLAGS that were carried over from decades ago and aren't needed (#343)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/84c1c58e2bbbbaf8895b1d9e3f7906c1fc48cb42)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>network: prevent redefinition error when building with musl libc (#344)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/66b3355afce0b2c25e062a0d6fc50c2c6ac7f02e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.2.0...HEAD)
 
@@ -111,6 +120,7 @@
 - [ ] [<code>Debian packaging improvement (#459)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/96e53956e445a7e2225330b7b26e29a91aa9a90d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keybindings: Ignore shift-f10 (alternate menu popup shortcut).</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/bda58ec0226e94dfe388863f7a9438414a5e110f)
+- [ ] [<code>Update debian/copyright (#461)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f4fb467e970fcbb74c98ded2024e84914bc28acf)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
@@ -121,10 +131,13 @@
 - [ ] [<code>csd-settings-remap-manager.c: Only report on missing schemas and</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d97f9230cfa633b7c319bc9305a4461977654574)
 - [ ] [<code>csd-power-manager: Assume a keyboard backlight max-value of 0 to</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5227d117adef895da75144b5b6951d246fd7476c)
 - [ ] [<code>csd-media-keys: Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bcc2dc386de69a2d3837225310b2de1a0b9dc308)
+- [ ] [<code>csd-wacom: remove ifdef code that cannot compile (#395)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5770463351d5ea4cda457f936f7ae16d91e47b0e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
+- [ ] [<code>Improve debian packaging (#47)</code>](https://github.com/linuxmint/cinnamon-translations/commit/e9a74848e901c01a46454f34cbc913a9db71ed47)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.2.0...HEAD)
 
@@ -141,6 +154,8 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ee03e6dad0b1f9e25847977eae42766e2ddd4877 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ee03e6dad0b1f9e25847977eae42766e2ddd4877...HEAD)
 
+- [ ] [<code>Fix broken XFCE symlinks (#13)</code>](https://github.com/linuxmint/mint-l-icons/commit/2d4879f5c1a8ca5869c1a8a7ae8e3708d4ab81ba)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
@@ -157,13 +172,21 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Proton Pass icon</code>](https://github.com/linuxmint/mint-y-icons/commit/9848a456a3fba021fe421334f0f5d69d9822923c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Create org.xfce.terminalemulator.png</code>](https://github.com/linuxmint/mint-y-icons/commit/7df2daec333d01b206eb88dd7aa1e00065ad35a1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add org.xfce.terminalemulator symlink</code>](https://github.com/linuxmint/mint-y-icons/commit/97ee6e6c9d6dfd0717f09b8614e49529b72b67c0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fixed more XFCE symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/69461b2ebbaf5da72ca3c8f54cccd1667bd3ad88)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
 - [ ] [<code>window-x11.c: Handle a special case for sending a ConfigureNotify</code>](https://github.com/linuxmint/muffin/commit/c083b7ee7b4e15bd09184449838541c75bdb456f)
 - [ ] [<code>Change all g_memdup() to g_memdup2() (#699)</code>](https://github.com/linuxmint/muffin/commit/e1bb33e56398dab17ea5b639129122138b1790f7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make clutter_offscreen_effect_get_target available to Cjs (#702)</code>](https://github.com/linuxmint/muffin/commit/7124201453bfa48c4b6284929062897725cf949b)
+- [ ] [<code>gir: Correct usage of the closure annotation (#704)</code>](https://github.com/linuxmint/muffin/commit/612cd9c5eaa584a3ab0acfda076e2129a8ae3842)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
