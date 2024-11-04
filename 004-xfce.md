@@ -2416,6 +2416,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5a3c810596307e99517903397ee6c10b00014722)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>mime: Fix error message for missing helper definition</code>](https://github.com/xfce-mirror/xfce4-settings/commit/aba1abe36a9a60f808ed518f31102190aeb59f3a)
+- [ ] [<code>reinstate sys/wait.h inclusion, needed for WEXITSTATUS at least on OpenBSD</code>](https://github.com/xfce-mirror/xfce4-settings/commit/06c8c5c6c64da1eb96869c1f1ff92dc2bb66205b)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
