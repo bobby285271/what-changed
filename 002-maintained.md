@@ -369,6 +369,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Delete debian directory (#396)</code>](https://github.com/stsdc/monitor/commit/addd279c035d972aa3429172c795ac75aea6018b)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Remove duplicated string (#403)</code>](https://github.com/stsdc/monitor/commit/340239fe8d86b9512c083b26df25adc8136b884c)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -398,6 +399,10 @@
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.1.0...HEAD)
 
+- [ ] [<code>TerminalPane: Import unsafe paste alert description from Terminal</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2cae42ddcbb40e672dae3f71fb41b4ff7229fdc3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>po: Drop unnecessary execute permission</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7a62cf9ac92b9beef7681cf484a0cfce0d62f18a)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c917d2247c0ea3bd46e4fb9efecea2436c7c81fe)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
 
@@ -416,6 +421,11 @@
   - <sub>Tags: <code>4.11.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>verify db integrity</code>](https://github.com/alainm23/planify/commit/9befed4e98a9f6fe8f46dc10c6cf5f95d29afb00)
+- [ ] [<code>release 4.11.6</code>](https://github.com/alainm23/planify/commit/a1e6f7ccf1c9c4dae63cf2c04d45097bc06e0da6)
+  - <sub>Tags: <code>4.11.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update styles</code>](https://github.com/alainm23/planify/commit/833eb5eeb3a35492bc6fb2f69242a70822ddc852)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
