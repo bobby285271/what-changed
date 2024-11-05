@@ -77,13 +77,25 @@
 - [ ] [<code>Optionally install wayland session files (#12273)</code>](https://github.com/linuxmint/cinnamon/commit/d2d660bc870651b3de3d7696791a86d06836276d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>added support for using numpad arrows to navigate the menu (#12302)</code>](https://github.com/linuxmint/cinnamon/commit/69e5fac4724befdbc7fa19009d86663a3016970d)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>deskletManager: Only display placeholder for desklets (#12366)</code>](https://github.com/linuxmint/cinnamon/commit/90fe77c10cef649e83c363b11b425126ff25c22c)
 - [ ] [<code>cs_keyboard.py: Skip invalid bindings (#12396)</code>](https://github.com/linuxmint/cinnamon/commit/c5d83f3b60a7fd698602a399cdb99755e2798358)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update cs_panel.py (#12399)</code>](https://github.com/linuxmint/cinnamon/commit/5b05d68226cd6c1b58709bc299e6946a83d9540a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add a new StPasswordEntry widget</code>](https://github.com/linuxmint/cinnamon/commit/2e0ae567d36ef22297659874fd0271846a4ff067)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>keyringPrompt: Use the StPasswordEntry</code>](https://github.com/linuxmint/cinnamon/commit/9ea9d8fc153fb6c065ad30d90390ebc3f8e1a218)
+- [ ] [<code>polkitAuthenticationDialog: Use the new StPasswordEntry</code>](https://github.com/linuxmint/cinnamon/commit/d3681570f543f5f25b86fb4b13c78446fe2c7da0)
+- [ ] [<code>Convert the network auth dialog to a clutter dialog</code>](https://github.com/linuxmint/cinnamon/commit/16cf990c7971715b982ee021c01bdf3426a773de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>networkAgent.js: Fix plugin property lookup</code>](https://github.com/linuxmint/cinnamon/commit/16b5f6bdf7d51dad4b43bc0631adbf7ece33228c)
+- [ ] [<code>windowManager: Give the resize popup it's own style class (#12450)</code>](https://github.com/linuxmint/cinnamon/commit/8d26d3f25076efbccc37e1c7908200340576bca4)
+- [ ] [<code>environment: Use cjs smart GObject GTypeName computation (#12453)</code>](https://github.com/linuxmint/cinnamon/commit/68c6821aefd6d41572146d23a02b0d53d434b663)
+- [ ] [<code>networkAgent.js: Make the WPS message smaller</code>](https://github.com/linuxmint/cinnamon/commit/cbf69f7c726ac1e8ba21c15ca56286028b2aa258)
+- [ ] [<code>Add a clutter audio device selection dialog (#12461)</code>](https://github.com/linuxmint/cinnamon/commit/3724d7a47cf594089f0b1e513c7c4af167f59270)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -125,6 +137,8 @@
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
+- [ ] [<code>autostart: Blacklist nm-applet</code>](https://github.com/linuxmint/cinnamon-session/commit/12685216ff88def58c2e03e5c0aa686567c1ffcc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
@@ -132,6 +146,7 @@
 - [ ] [<code>csd-power-manager: Assume a keyboard backlight max-value of 0 to</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5227d117adef895da75144b5b6951d246fd7476c)
 - [ ] [<code>csd-media-keys: Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bcc2dc386de69a2d3837225310b2de1a0b9dc308)
 - [ ] [<code>csd-wacom: remove ifdef code that cannot compile (#395)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5770463351d5ea4cda457f936f7ae16d91e47b0e)
+- [ ] [<code>media-keys: Add support for an audio device selection dialog (#401)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1cc8225e85f6a7d9988acb85a7932133e4b881f5)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
