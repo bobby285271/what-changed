@@ -19,6 +19,7 @@
 - [ ] [<code>Workflows/Merge: install rust extension for gettext</code>](https://github.com/elementary/camera/commit/bb1f7082f5c254bf92bf94501cee9478d220f032)
 - [ ] [<code>MainWindow: Make headerbar buttons insensitive by default (#278)</code>](https://github.com/elementary/camera/commit/c954d82b0ffefd45580b059aca09106d96c788b7)
 - [ ] [<code>master → main</code>](https://github.com/elementary/camera/commit/0c45e6e14d9e5ee9ba4a223d92713fc79193cb02)
+- [ ] [<code>Always use decimal point (#280)</code>](https://github.com/elementary/camera/commit/c8bfddad8aa6b0a00e8b7dbd8663d3ef0e898191)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -229,6 +230,7 @@
 - [ ] [<code>Implement Clear and Reset actions with hotkeys (#778)</code>](https://github.com/elementary/terminal/commit/2dc7e2e02443f51863e037324efa2ac299e34a95)
 - [ ] [<code>Update cyclic search button when toggled (#795)</code>](https://github.com/elementary/terminal/commit/904290b1ea17f7c6be9dacbf12169b9a09cc4e6a)
 - [ ] [<code>Add toggle for unsafe paste (#798)</code>](https://github.com/elementary/terminal/commit/970ce17c387e6afc35268499c51231e9dacb44dd)
+- [ ] [<code>Correctly open uris containing spaces (#777)</code>](https://github.com/elementary/terminal/commit/b946a89415053d5aa0885e5c29f28275938cf2e1)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -1086,6 +1088,7 @@
 - [ ] [<code>Drop 7.1 config from workflows (#725)</code>](https://github.com/elementary/os/commit/5439ac10bf084f6754dd0d20f04b2f8e23312f5c)
 - [ ] [<code>Raspberry Pi: bump to noble (#726)</code>](https://github.com/elementary/os/commit/f1eac7d530c9bd189f1ce2482668a4d505ebb8de)
 - [ ] [<code>arm64: Build on Noble (#729)</code>](https://github.com/elementary/os/commit/d2cf4d4fc44b0b6335610fa91d2c1d412f2f8544)
+- [ ] [<code>arm64: Cleanup previous artifacts before build (#731)</code>](https://github.com/elementary/os/commit/08a543b697bc4acd865a418568fc53c9939bcc4a)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
