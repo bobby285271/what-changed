@@ -1960,6 +1960,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4e65f5c4621b6a7db2042efae3fecfe01efa9d95)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Bump libxfce4util version to 4.19.4</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e1630fae2030705645aaef2aa851f71c988727c9)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -2418,6 +2420,7 @@
 - [ ] [<code>mime: Fix error message for missing helper definition</code>](https://github.com/xfce-mirror/xfce4-settings/commit/aba1abe36a9a60f808ed518f31102190aeb59f3a)
 - [ ] [<code>reinstate sys/wait.h inclusion, needed for WEXITSTATUS at least on OpenBSD</code>](https://github.com/xfce-mirror/xfce4-settings/commit/06c8c5c6c64da1eb96869c1f1ff92dc2bb66205b)
 - [ ] [<code>mime: Fix argument string leaks</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f6269a40345749527b4ca2325e138d539573504c)
+- [ ] [<code>mime: Fix xfce_mime_helper_category_to_string leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/88b342762ec72adf2f9b0eb1078c757efed34bfc)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2915,6 +2918,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Fix build with just file icons disable or just desktop icons disabled</code>](https://github.com/xfce-mirror/xfdesktop/commit/31acfa368c3669508924d124c27cd5fa07bf7053)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Assign correct initial image to backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/238855f450e50bf4d0d5756821bfd9404e872bcf)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
