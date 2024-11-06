@@ -1721,6 +1721,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f2680c0f34ee0b80d28501a1ba2b3bdc714307af)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tasklist: Ensure group buttons have non empty label</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41e0406d1d949517c88c9c33785723095d5d76e6)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
