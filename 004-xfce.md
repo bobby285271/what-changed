@@ -366,6 +366,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/105eb8195528408f22d06cc0b1ce2eccf6b7faf3)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Call xfce_kiosk's parent finalizer to prevent leaks</code>](https://github.com/xfce-mirror/libxfce4util/commit/4c1294be1bf6d649d36f96cd3dad65d861b317fa)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
