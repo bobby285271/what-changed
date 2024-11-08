@@ -231,6 +231,7 @@
 - [ ] [<code>Update cyclic search button when toggled (#795)</code>](https://github.com/elementary/terminal/commit/904290b1ea17f7c6be9dacbf12169b9a09cc4e6a)
 - [ ] [<code>Add toggle for unsafe paste (#798)</code>](https://github.com/elementary/terminal/commit/970ce17c387e6afc35268499c51231e9dacb44dd)
 - [ ] [<code>Correctly open uris containing spaces (#777)</code>](https://github.com/elementary/terminal/commit/b946a89415053d5aa0885e5c29f28275938cf2e1)
+- [ ] [<code>Check for unsafe  drop  (#794)</code>](https://github.com/elementary/terminal/commit/28fd41857980bf8cf2b76a1009bfa1e0b24f51c6)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -762,6 +763,12 @@
 - [ ] [<code>Introduce a WindowPositioner (#2087)</code>](https://github.com/elementary/gala/commit/d8504441fa01ff5c4ebefe6bfe507bab63049943)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Pass Meta.Display instead of Gala.WindowManager where possible (#2107)</code>](https://github.com/elementary/gala/commit/2a98017f81f5f986005ff3e2e966a77df962c67b)
+- [ ] [<code>AnimationSettings: Introduce get_animation_duration (#2106)</code>](https://github.com/elementary/gala/commit/b2bfe28062ab30853d6fbb1e88797b6d5f42a314)
+- [ ] [<code>HideTracker: Take windows that are only vertically maximized into account (#2110)</code>](https://github.com/elementary/gala/commit/20a057328900f650047761e6f40a7189214ce600)
+- [ ] [<code>Add support for Mutter47</code>](https://github.com/elementary/gala/commit/c1e7ada659c3c52d819a16a7e52181d75a19b458)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Workflows: add Fedora to CI (#2112)</code>](https://github.com/elementary/gala/commit/60fd6ca845819fc9984d31b1a69fd474139aaaf3)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -987,6 +994,8 @@
 - [ ] [<code>SystemUpdate: Don't auto update on a metered connection (#159)</code>](https://github.com/elementary/settings-daemon/commit/157ffd0862ee0c6539694d23c0fae85c6c68ac37)
 - [ ] [<code>SystemUpdate: make sure we notify if network is metered (#164)</code>](https://github.com/elementary/settings-daemon/commit/6e9dd0c71064e904bf85911eae844d6f6e0bf17d)
 - [ ] [<code>Don't check for updates in demo mode (#163)</code>](https://github.com/elementary/settings-daemon/commit/c5fd1da26919aca035235c29d14d845145e2d09b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Fix build with fwupd 2.0.0 (#169)</code>](https://github.com/elementary/settings-daemon/commit/f9f9e6c49ef89451ad45aa8314769a0358a5e481)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
