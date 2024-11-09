@@ -589,6 +589,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a47ba7c42fdf1405612371aff601690f2e7b466a)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Fix XfwMonitor leak in steal_monitor_by_connector</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a1022fb40bdf88f66cc7352f7653b30c03a4dd76)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
