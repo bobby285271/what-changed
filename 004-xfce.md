@@ -1106,6 +1106,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/5f22c829ddd3e7b091280aef2b0cc4d967895be2)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/61d3feca80483553ed6fc594811c8d8ba4f2bffd)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/247c7158c69e5d32cd5a29f9bcb583b3bad30714)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -2142,6 +2144,7 @@
 - [ ] [<code>users wanting to shutdown should be in the _shutdown group since OpenBSD 7.4</code>](https://github.com/xfce-mirror/xfce4-session/commit/ff78e2abefa284c54e0a86a0760eb8971ffb4477)
 - [ ] [<code>Avoid using bzero</code>](https://github.com/xfce-mirror/xfce4-session/commit/bfe8979a158fbfa8243f997deebd370ab44aeecc)
 - [ ] [<code>wayland: Wait for VT switch for LightDM users before starting compositor</code>](https://github.com/xfce-mirror/xfce4-session/commit/268e2fc55372a6f02567fd2739d0ac8f2f155205)
+- [ ] [<code>Fix leak of reason messages from libSM</code>](https://github.com/xfce-mirror/xfce4-session/commit/a948b01bcb0066911881e3eb2f05aff3211c826e)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
