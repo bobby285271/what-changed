@@ -2928,6 +2928,7 @@
 - [ ] [<code>Fix build with just file icons disable or just desktop icons disabled</code>](https://github.com/xfce-mirror/xfdesktop/commit/31acfa368c3669508924d124c27cd5fa07bf7053)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Assign correct initial image to backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/238855f450e50bf4d0d5756821bfd9404e872bcf)
+- [ ] [<code>Fix GFileInputStream leaks in file_input_stream_ready_cb</code>](https://github.com/xfce-mirror/xfdesktop/commit/a1477adfc02e3f5e2f3b83b966c525f6f88cf330)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
