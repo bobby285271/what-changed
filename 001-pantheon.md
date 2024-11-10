@@ -232,6 +232,8 @@
 - [ ] [<code>Add toggle for unsafe paste (#798)</code>](https://github.com/elementary/terminal/commit/970ce17c387e6afc35268499c51231e9dacb44dd)
 - [ ] [<code>Correctly open uris containing spaces (#777)</code>](https://github.com/elementary/terminal/commit/b946a89415053d5aa0885e5c29f28275938cf2e1)
 - [ ] [<code>Check for unsafe  drop  (#794)</code>](https://github.com/elementary/terminal/commit/28fd41857980bf8cf2b76a1009bfa1e0b24f51c6)
+- [ ] [<code>TerminalWidget: Fix non administrative commands not being pasted (#802)</code>](https://github.com/elementary/terminal/commit/588473c59bbdf597992e4f6213a5beae28bb0c85)
+- [ ] [<code>Drop dead feature that disables unsafe paste warning while Terminal opens (#803)</code>](https://github.com/elementary/terminal/commit/f1148c6eb786364c2504fe363427f14276be24fa)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
