@@ -404,6 +404,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>po: Drop unnecessary execute permission</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7a62cf9ac92b9beef7681cf484a0cfce0d62f18a)
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c917d2247c0ea3bd46e4fb9efecea2436c7c81fe)
+- [ ] [<code>Config: Add namespace (#251)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1aa778bf55ca05fad5f9a1e027a9daf5475dc8e7)
+- [ ] [<code>Flatpak: Update GNOME platform runtime to 47 (#253)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/530c9d64a9949767885da36747af7d81bca5576d)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
 
