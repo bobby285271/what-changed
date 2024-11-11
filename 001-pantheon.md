@@ -234,6 +234,7 @@
 - [ ] [<code>Check for unsafe  drop  (#794)</code>](https://github.com/elementary/terminal/commit/28fd41857980bf8cf2b76a1009bfa1e0b24f51c6)
 - [ ] [<code>TerminalWidget: Fix non administrative commands not being pasted (#802)</code>](https://github.com/elementary/terminal/commit/588473c59bbdf597992e4f6213a5beae28bb0c85)
 - [ ] [<code>Drop dead feature that disables unsafe paste warning while Terminal opens (#803)</code>](https://github.com/elementary/terminal/commit/f1148c6eb786364c2504fe363427f14276be24fa)
+- [ ] [<code>TerminalWidget: Refactor validated_feed to avoid nested conditions (#804)</code>](https://github.com/elementary/terminal/commit/65cc53d89cc871de81b5d1977000c0fd70a05cf1)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -373,6 +374,10 @@
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
+- [ ] [<code>Install scalable cursor theme (#1324)</code>](https://github.com/elementary/icons/commit/2cd60b99db76cf1afcd9da561be69573fef986c1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add more dnd-* symlinks (#1327)</code>](https://github.com/elementary/icons/commit/50ed3626513647c277c323b4044e7ac49eb291b0)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -514,16 +519,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>CSS: specific window.background (#769)</code>](https://github.com/elementary/greeter/commit/644f68a668389980da38089ae78cd4fc0dee5c42)
 - [ ] [<code>Main: don't start settings daemon in installer session (#761)</code>](https://github.com/elementary/greeter/commit/b8b5761e082b5539b60264bd1c290da79b20b211)
-
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.1 → HEAD](https://github.com/elementary/onboarding/compare/8.0.1...HEAD)
-
-- [ ] [<code>WelcomeView: Fix missing handler when a row activated (#243)</code>](https://github.com/elementary/onboarding/commit/391fab7867885578015abbebbe678e8d4f0f331d)
+- [ ] [<code>Add Mutter 47 support (#772)</code>](https://github.com/elementary/greeter/commit/882336b3e77b6811a5f7c698ef983d4a4bc29249)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#246)</code>](https://github.com/elementary/onboarding/commit/9ecfdfdded34d5d31ec91085f77e5f16d817907d)
-- [ ] [<code>Release 8.0.2 (#247)</code>](https://github.com/elementary/onboarding/commit/5dc3a7f3bf04bdcfc5acf5ccc96036ebe29b8791)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.2 → HEAD](https://github.com/elementary/onboarding/compare/8.0.2...HEAD)
+
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1144,3 +1145,4 @@
 - [ ] [<code>SDK: remove old switchboard lib (#135)</code>](https://github.com/elementary/seeds/commit/0fd413905b9c6afc335850032c3df4c11e896601)
 - [ ] [<code>Include DKMS (#133)</code>](https://github.com/elementary/seeds/commit/e8c9abf1e1f8a76b1cf97c9c4cd4ba581334cfb4)
 - [ ] [<code>Ship: remove OEM packages (#134)</code>](https://github.com/elementary/seeds/commit/959ce3f8ee680b5d5aa9b7010b21846b1c5bbc8e)
+- [ ] [<code>Desktop: Install Pipewire (#91)</code>](https://github.com/elementary/seeds/commit/e83b01827651500d6e86391c1c75668a0c6ff496)
