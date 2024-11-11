@@ -772,6 +772,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Workflows: add Fedora to CI (#2112)</code>](https://github.com/elementary/gala/commit/60fd6ca845819fc9984d31b1a69fd474139aaaf3)
+- [ ] [<code>Add panel hide delay (#2103)</code>](https://github.com/elementary/gala/commit/98f8cafe70f341b7cef72d2a5de2458ae77201c7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
