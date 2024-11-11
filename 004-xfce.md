@@ -1109,6 +1109,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/61d3feca80483553ed6fc594811c8d8ba4f2bffd)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/247c7158c69e5d32cd5a29f9bcb583b3bad30714)
+- [ ] [<code>Fix string leak in thunar_thumbnailer_file_is_supported</code>](https://github.com/xfce-mirror/thunar/commit/debf0287e1b8dc6e4100f7dd597531f9697f17ee)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
