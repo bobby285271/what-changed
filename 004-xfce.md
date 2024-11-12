@@ -48,6 +48,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/7eec03751fa6578ba12b162aeff0533641bbfa61)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>exo-die: Fix string leak in exo_die_g_key_file_set_locale_value</code>](https://github.com/xfce-mirror/exo/commit/7ea47122aa9d5586db80bd80bff6c0907d5d122e)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.18.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.18.0...HEAD)
 
