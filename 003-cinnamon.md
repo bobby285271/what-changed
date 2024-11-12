@@ -251,6 +251,7 @@
 - [ ] [<code>Add option to disable building introspection and vala bindings. (#184)</code>](https://github.com/linuxmint/xapp/commit/70bd3a904c9c143f66d0b7d46e16816e01362603)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>xapp-icon-chooser-button.c: Use gtk_widget_destroy() to clean up</code>](https://github.com/linuxmint/xapp/commit/ebccaa32b6e727a9598f0f3b74af151561fc2b3d)
+- [ ] [<code>xapp-icon-chooser-button.c: Fix a build warning.</code>](https://github.com/linuxmint/xapp/commit/2e524ec3c9bb202fad3c037cda32eb1c94156e60)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
