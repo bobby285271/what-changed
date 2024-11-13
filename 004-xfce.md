@@ -591,6 +591,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a47ba7c42fdf1405612371aff601690f2e7b466a)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Fix XfwMonitor leak in steal_monitor_by_connector</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a1022fb40bdf88f66cc7352f7653b30c03a4dd76)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9aaf71934584029c2f9d3d2ef32eafbfd6d8968b)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1111,6 +1112,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/61d3feca80483553ed6fc594811c8d8ba4f2bffd)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/247c7158c69e5d32cd5a29f9bcb583b3bad30714)
 - [ ] [<code>Fix string leak in thunar_thumbnailer_file_is_supported</code>](https://github.com/xfce-mirror/thunar/commit/debf0287e1b8dc6e4100f7dd597531f9697f17ee)
+- [ ] [<code>fIle operation dialog: always show "apply to all" box</code>](https://github.com/xfce-mirror/thunar/commit/893eba1019b29af6003197bb7ff8388b95e46c52)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -2931,6 +2933,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Assign correct initial image to backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/238855f450e50bf4d0d5756821bfd9404e872bcf)
 - [ ] [<code>Fix GFileInputStream leaks in file_input_stream_ready_cb</code>](https://github.com/xfce-mirror/xfdesktop/commit/a1477adfc02e3f5e2f3b83b966c525f6f88cf330)
+- [ ] [<code>Stop timer when finalizing backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/4f9b3162331447751bd7086b6073b0d28a70dbd6)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
