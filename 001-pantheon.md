@@ -773,6 +773,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Workflows: add Fedora to CI (#2112)</code>](https://github.com/elementary/gala/commit/60fd6ca845819fc9984d31b1a69fd474139aaaf3)
 - [ ] [<code>Add panel hide delay (#2103)</code>](https://github.com/elementary/gala/commit/98f8cafe70f341b7cef72d2a5de2458ae77201c7)
+- [ ] [<code>PanelWindow: Don't use custom size for positioning, correct y for bottom panels (#2108)</code>](https://github.com/elementary/gala/commit/63d06f8b9529d55d9aea5d60f0224a26c58be9fb)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
