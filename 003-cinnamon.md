@@ -224,6 +224,10 @@
 - [ ] [<code>actions: Cancel action update idle callbacks during dispose for</code>](https://github.com/linuxmint/nemo/commit/bc192b69236d67ca5bb412034627dafe4322a93b)
 - [ ] [<code>Add setting to disable auto-expanding of treeview rows during</code>](https://github.com/linuxmint/nemo/commit/b4f49db3f57507b226801453860e69a9ac26d487)
 - [ ] [<code>action_i18n_strings.py & add-desklets.nemo_action.in: Fix spelling error (#3430)</code>](https://github.com/linuxmint/nemo/commit/c4a14be75b691b8f00b1126f8f900b997fff87fb)
+- [ ] [<code>search: Replace third-party OpenDocument search helper.</code>](https://github.com/linuxmint/nemo/commit/0b1d10fe8586f84cb4bf3020db00b67073307e5b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>search: Improve logging when loading search helpers.</code>](https://github.com/linuxmint/nemo/commit/daff8ceaa2d6a019452f651ac2004ab60c1dc3ad)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
