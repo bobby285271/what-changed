@@ -407,27 +407,8 @@
 - [ ] [<code>Config: Add namespace (#251)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1aa778bf55ca05fad5f9a1e027a9daf5475dc8e7)
 - [ ] [<code>Flatpak: Update GNOME platform runtime to 47 (#253)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/530c9d64a9949767885da36747af7d81bca5576d)
 
-#### [planify](https://github.com/alainm23/planify): [4.11.4 → HEAD](https://github.com/alainm23/planify/compare/4.11.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
-- [ ] [<code>fix: captured deleted cal event</code>](https://github.com/alainm23/planify/commit/1dd157b8ca8f7e18886c8951306a51d14c77ec77)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>refactor: sidebar header redesigned</code>](https://github.com/alainm23/planify/commit/2f27bdb5f4ad6cda7c24bb3df0ac54670bd4d13c)
-- [ ] [<code>refactor: captured cal event remove patch</code>](https://github.com/alainm23/planify/commit/2db81db8bd58dcf5437c229c8839dc434f162704)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Merge pull request #1450 from golamrabbiazad/master</code>](https://github.com/alainm23/planify/commit/d69fe674f4fe998044a28cf70ef23749abb6457f)
-- [ ] [<code>Merge pull request #1453 from golamrabbiazad/std-sidebar-header</code>](https://github.com/alainm23/planify/commit/ab3f93b0d5bc5e592c7add1387cf762dfccc7059)
-- [ ] [<code>fix #1456</code>](https://github.com/alainm23/planify/commit/7288ac4fd6e9ff1f6271c528c7d021033552a98f)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>fix #1461</code>](https://github.com/alainm23/planify/commit/4ce0da8898243098bf2a128f74d6813bdb238e65)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>support for gnpme 47 and fixed bugs</code>](https://github.com/alainm23/planify/commit/59a64fa629724a12d8c239087024d19b93d6774f)
-  - <sub>Tags: <code>4.11.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>verify db integrity</code>](https://github.com/alainm23/planify/commit/9befed4e98a9f6fe8f46dc10c6cf5f95d29afb00)
-- [ ] [<code>release 4.11.6</code>](https://github.com/alainm23/planify/commit/a1e6f7ccf1c9c4dae63cf2c04d45097bc06e0da6)
-  - <sub>Tags: <code>4.11.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>update styles</code>](https://github.com/alainm23/planify/commit/833eb5eeb3a35492bc6fb2f69242a70822ddc852)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
