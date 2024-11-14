@@ -1207,6 +1207,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/6ad1c0be8ff7a3823203153b4b1dd73bbd1739b4)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tumblerd: Fix string leaks in tumbler_manager_directory_changed</code>](https://github.com/xfce-mirror/tumbler/commit/b29cf4a822270246980e66da801b3b6093a2bd2e)
+- [ ] [<code>xdg-cache: Fix string leak in xdg_cache_cache_cleanup</code>](https://github.com/xfce-mirror/tumbler/commit/e72e6b7a8fda7e3442f5b6c105e4a2c0c214fe79)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.18.0...HEAD)
 
@@ -1265,6 +1267,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f2bccd0d4a054ddf591765485d440e82f9e453b5)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6d78e65c22abee29099cd92f275a017f5c7d33c6)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.18.0...HEAD)
 
@@ -3011,3 +3014,4 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/2fdaf838602c22bed35d8b70b0355bd34705ccef)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>hints: Fix buffer overflow in XChangeProperty</code>](https://github.com/xfce-mirror/xfwm4/commit/39d3126680adab4409206cef0f1d575211195086)
