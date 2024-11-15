@@ -95,18 +95,37 @@
 - [ ] [<code>environment: Use cjs smart GObject GTypeName computation (#12453)</code>](https://github.com/linuxmint/cinnamon/commit/68c6821aefd6d41572146d23a02b0d53d434b663)
 - [ ] [<code>networkAgent.js: Make the WPS message smaller</code>](https://github.com/linuxmint/cinnamon/commit/cbf69f7c726ac1e8ba21c15ca56286028b2aa258)
 - [ ] [<code>Add a clutter audio device selection dialog (#12461)</code>](https://github.com/linuxmint/cinnamon/commit/3724d7a47cf594089f0b1e513c7c4af167f59270)
+- [ ] [<code>cs_display: Add a tab in Display settings to configure the</code>](https://github.com/linuxmint/cinnamon/commit/8525e744694fec369d355023fa486fcbfb9f2dff)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
 - [ ] [<code>meson: remove CFLAGS that were carried over from decades ago and aren't needed (#343)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/84c1c58e2bbbbaf8895b1d9e3f7906c1fc48cb42)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>network: prevent redefinition error when building with musl libc (#344)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/66b3355afce0b2c25e062a0d6fc50c2c6ac7f02e)
+- [ ] [<code>Remove datetime panel (long-unused).</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9e50415367ca03649170b5d761a2295e0b65e3a9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Clean up some obsolete dependencies.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f484ddd1370a1e8df9951005ce1acf21361f3a0d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>color-panel: Replace broken package-kit installation of gnome-</code>](https://github.com/linuxmint/cinnamon-control-center/commit/183cf31ec7bcca456fd134996536087a0c1dbcfb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix build from gnome_installer removal from cinnamon-desktop.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8f1dd1e6b1791f639af78652294e60030835cb0e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.2.0...HEAD)
 
 - [ ] [<code>Simplify overamplification setting</code>](https://github.com/linuxmint/cinnamon-desktop/commit/afed4347c8c0b5c9f7be5b373bd168dadd8995b5)
+- [ ] [<code>Adapt gnome-rr-* to work thru muffin, to support color profiles</code>](https://github.com/linuxmint/cinnamon-desktop/commit/913198430f27852544f9443a250421168d3d4466)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Backport some language/locale-related changes for keyboard</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7486ff0f027ffc488bef7e87b7b890a8b5f3a203)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove gnome-installer.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/d76df376e2365dd14c65809d1dbe9c0fdf50e0df)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update debian/symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4ff8433fcaccd420afadd7199d54ea5d30893512)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
@@ -147,6 +166,13 @@
 - [ ] [<code>csd-media-keys: Adapt to new overamplification setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bcc2dc386de69a2d3837225310b2de1a0b9dc308)
 - [ ] [<code>csd-wacom: remove ifdef code that cannot compile (#395)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5770463351d5ea4cda457f936f7ae16d91e47b0e)
 - [ ] [<code>media-keys: Add support for an audio device selection dialog (#401)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1cc8225e85f6a7d9988acb85a7932133e4b881f5)
+- [ ] [<code>backport cinnamon-desktop changes, nightlight</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8c5b745c65bfd30f2aabe00e040df2905b1ba979)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Fix verbose/debug logging, add G_LOG_DOMAIN for easier tracking</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fd8aa94053b5a6f4131188a2e72f9a1186624dac)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-power: Refactoring display backlight code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1b36b7ac9d55b4b96f64e7b72c7078b304a9b285)
+- [ ] [<code>csd-color-state.c: Fix build warning/error.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/57b8a0a742a876d51403ad27613fe84b228d1081)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
