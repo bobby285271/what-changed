@@ -235,6 +235,8 @@
 - [ ] [<code>TerminalWidget: Fix non administrative commands not being pasted (#802)</code>](https://github.com/elementary/terminal/commit/588473c59bbdf597992e4f6213a5beae28bb0c85)
 - [ ] [<code>Drop dead feature that disables unsafe paste warning while Terminal opens (#803)</code>](https://github.com/elementary/terminal/commit/f1148c6eb786364c2504fe363427f14276be24fa)
 - [ ] [<code>TerminalWidget: Refactor validated_feed to avoid nested conditions (#804)</code>](https://github.com/elementary/terminal/commit/65cc53d89cc871de81b5d1977000c0fd70a05cf1)
+- [ ] [<code>Add release info for 6.3.0 to appdata (#797)</code>](https://github.com/elementary/terminal/commit/717801bb3fee47e18650cc93f88b998cc42ad686)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -359,6 +361,8 @@
 - [ ] [<code>PuseAudioManager: fix crash with non-app audio source (#280)</code>](https://github.com/elementary/switchboard-plug-sound/commit/62d97f98edc34a99469063556614f36b41f2904b)
 - [ ] [<code>Meson: add log domain (#281)</code>](https://github.com/elementary/switchboard-plug-sound/commit/6844abd0c0ee568f4397fa3eb9aa6990f19d7efe)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: 8.0.1 add missing issues tag (#284)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5caf649c72c21723c2d04f3848fe6c19023ab6d)
+- [ ] [<code>preferences-desktop-sound → multimedia-volume-control (#272)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c69f9f3d0694fb526c62a4d33663e6514d6ac776)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
 
