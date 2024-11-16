@@ -282,6 +282,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c21e1c54f060924637a4e2dd8014ea74f167306d)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Avoid undefined behavior with NULL msgid strings and dgettext</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3cf55e4644e78fc208a791e7f8d43be947bf57e)
+- [ ] [<code>xfce4-about: Init glibtop before using it</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f9533e6f8a4ec6d36862c20dcf388813bc90574e)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
