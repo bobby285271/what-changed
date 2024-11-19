@@ -406,6 +406,9 @@
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c917d2247c0ea3bd46e4fb9efecea2436c7c81fe)
 - [ ] [<code>Config: Add namespace (#251)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1aa778bf55ca05fad5f9a1e027a9daf5475dc8e7)
 - [ ] [<code>Flatpak: Update GNOME platform runtime to 47 (#253)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/530c9d64a9949767885da36747af7d81bca5576d)
+- [ ] [<code>Provide system theme rootdir as a build option (#252)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/614f207cf25ba30ff846edf178a7c52484315212)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
