@@ -1114,6 +1114,12 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/247c7158c69e5d32cd5a29f9bcb583b3bad30714)
 - [ ] [<code>Fix string leak in thunar_thumbnailer_file_is_supported</code>](https://github.com/xfce-mirror/thunar/commit/debf0287e1b8dc6e4100f7dd597531f9697f17ee)
 - [ ] [<code>fIle operation dialog: always show "apply to all" box</code>](https://github.com/xfce-mirror/thunar/commit/893eba1019b29af6003197bb7ff8388b95e46c52)
+- [ ] [<code>Attempt to fully read into buffer during file compare (#1495)</code>](https://github.com/xfce-mirror/thunar/commit/a4edacbe2fc287bea654ff285c69ae74303c7262)
+- [ ] [<code>I18n: I18n translation ru.</code>](https://github.com/xfce-mirror/thunar/commit/f7ee0ed9e7b2cddcedf9769e8407ca317b1c6954)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>I18n: I18n translation ru.</code>](https://github.com/xfce-mirror/thunar/commit/8c0cb3ba439b68aeb16d7209bc0437f3cfc2f956)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/156047b870da8e1c7878f041bf064275e8efe725)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/db386111c584e12b49166391167e6781c0d4625f)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1735,6 +1741,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f2680c0f34ee0b80d28501a1ba2b3bdc714307af)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>tasklist: Ensure group buttons have non empty label</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41e0406d1d949517c88c9c33785723095d5d76e6)
+- [ ] [<code>migrate: Update default config</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2b4a7a72f9e4308e876ed3f7b18ed333c35cb9a)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
