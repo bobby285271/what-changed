@@ -49,6 +49,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/7eec03751fa6578ba12b162aeff0533641bbfa61)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>exo-die: Fix string leak in exo_die_g_key_file_set_locale_value</code>](https://github.com/xfce-mirror/exo/commit/7ea47122aa9d5586db80bd80bff6c0907d5d122e)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/cce2b58dd2cc1cf9c5c4b22b7fd5bca5a495f9ba)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.18.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.18.0...HEAD)
 
@@ -369,6 +370,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/105eb8195528408f22d06cc0b1ce2eccf6b7faf3)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Call xfce_kiosk's parent finalizer to prevent leaks</code>](https://github.com/xfce-mirror/libxfce4util/commit/4c1294be1bf6d649d36f96cd3dad65d861b317fa)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/0bbb6f2309fb05762dacb60ebd0c8ca1a483654a)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -1742,6 +1744,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>tasklist: Ensure group buttons have non empty label</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41e0406d1d949517c88c9c33785723095d5d76e6)
 - [ ] [<code>migrate: Update default config</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2b4a7a72f9e4308e876ed3f7b18ed333c35cb9a)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e1421f19f5d66dd1ffd399644e78014eb24775c4)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2161,6 +2164,7 @@
 - [ ] [<code>Avoid using bzero</code>](https://github.com/xfce-mirror/xfce4-session/commit/bfe8979a158fbfa8243f997deebd370ab44aeecc)
 - [ ] [<code>wayland: Wait for VT switch for LightDM users before starting compositor</code>](https://github.com/xfce-mirror/xfce4-session/commit/268e2fc55372a6f02567fd2739d0ac8f2f155205)
 - [ ] [<code>Fix leak of reason messages from libSM</code>](https://github.com/xfce-mirror/xfce4-session/commit/a948b01bcb0066911881e3eb2f05aff3211c826e)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/c1011cc836608d719d2d542f2e293fc2baac8726)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2445,6 +2449,7 @@
 - [ ] [<code>reinstate sys/wait.h inclusion, needed for WEXITSTATUS at least on OpenBSD</code>](https://github.com/xfce-mirror/xfce4-settings/commit/06c8c5c6c64da1eb96869c1f1ff92dc2bb66205b)
 - [ ] [<code>mime: Fix argument string leaks</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f6269a40345749527b4ca2325e138d539573504c)
 - [ ] [<code>mime: Fix xfce_mime_helper_category_to_string leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/88b342762ec72adf2f9b0eb1078c757efed34bfc)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ae961f26ff4b88a2acacb5dfc3276d8a52fabd1b)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2945,6 +2950,7 @@
 - [ ] [<code>Assign correct initial image to backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/238855f450e50bf4d0d5756821bfd9404e872bcf)
 - [ ] [<code>Fix GFileInputStream leaks in file_input_stream_ready_cb</code>](https://github.com/xfce-mirror/xfdesktop/commit/a1477adfc02e3f5e2f3b83b966c525f6f88cf330)
 - [ ] [<code>Stop timer when finalizing backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/4f9b3162331447751bd7086b6073b0d28a70dbd6)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/d263c3b494e4b24ec91b67a9621b3a968f2d811b)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
@@ -3023,3 +3029,4 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/2fdaf838602c22bed35d8b70b0355bd34705ccef)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>hints: Fix buffer overflow in XChangeProperty</code>](https://github.com/xfce-mirror/xfwm4/commit/39d3126680adab4409206cef0f1d575211195086)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/c06f6750acc0b794b8083f3c7001972c367e224d)
