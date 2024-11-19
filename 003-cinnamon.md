@@ -103,6 +103,10 @@
 - [ ] [<code>sound applet: player icon should not take priority over mute icon</code>](https://github.com/linuxmint/cinnamon/commit/f2c054e4aaf07df411c46366a4a229e3444d72c4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Merge pull request #12502 from benmccann/patch-1</code>](https://github.com/linuxmint/cinnamon/commit/f8779a32c8a8aacede2b6efedd5e623ca4ab333a)
+- [ ] [<code>inhibit applet: Pass a string to showOSD when using hotkeys (#12409)</code>](https://github.com/linuxmint/cinnamon/commit/07d40aa7cc64fefb69564774e55615a54e875828)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>popupMenu.js: Simplify the menu animation (#12405)</code>](https://github.com/linuxmint/cinnamon/commit/2b4a028f4a41161682d07c3356b53a9557fa39c6)
+- [ ] [<code>layout.js: Consider auto hide panels in MonitorConstraint work area (#12422)</code>](https://github.com/linuxmint/cinnamon/commit/61c7f8c9915f375d47bbad922fb8157336992ef7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
@@ -190,6 +194,7 @@
 
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119) (#125)</code>](https://github.com/linuxmint/cjs/commit/f81c19ebae64e087427b03fbb7922145e282f90c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gjs-util: Backport private closure annotations patch (#126)</code>](https://github.com/linuxmint/cjs/commit/a4d0b0241582fdc5357a6bfc2b0ef2e05fea4893)
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2...HEAD)
 
@@ -210,8 +215,9 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.8...HEAD)
 
 - [ ] [<code>Remove "Linux Mint" Cinnamon theme</code>](https://github.com/linuxmint/mint-themes/commit/5de93c0c55b98526e90e087afdcb2a4bb78d3070)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon: Remove 0% mix calls</code>](https://github.com/linuxmint/mint-themes/commit/cf714ed33c1d225d75ac1d3a4eb1d465e6d616ee)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
 
