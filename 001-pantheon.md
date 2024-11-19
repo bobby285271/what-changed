@@ -237,6 +237,7 @@
 - [ ] [<code>TerminalWidget: Refactor validated_feed to avoid nested conditions (#804)</code>](https://github.com/elementary/terminal/commit/65cc53d89cc871de81b5d1977000c0fd70a05cf1)
 - [ ] [<code>Add release info for 6.3.0 to appdata (#797)</code>](https://github.com/elementary/terminal/commit/717801bb3fee47e18650cc93f88b998cc42ad686)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/terminal/commit/fec38c9b82767ee791290b9999492da8502b8377)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -246,6 +247,9 @@
 - [ ] [<code>Handle flatpak+https scheme (#170)</code>](https://github.com/elementary/sideload/commit/96e57ff99200bb28541d7d05e03ba6ea1dc37867)
 - [ ] [<code>MainWindow: fix invalid bundle cast (#172)</code>](https://github.com/elementary/sideload/commit/672c489471577b3bc98cfd51396cc3f20f8d0a9f)
 - [ ] [<code>Metainfo: add 6.3.0 release notes (#173)</code>](https://github.com/elementary/sideload/commit/33730861c3e5ce8aa92a95023978c5811d5c98ab)
+- [ ] [<code>Release 6.3.0 (#174)</code>](https://github.com/elementary/sideload/commit/22880ed52332e1078e8e165f57402b30d67c7f26)
+  - <sub>Tags: <code>6.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.2 → HEAD](https://github.com/elementary/switchboard/compare/8.0.2...HEAD)
 
@@ -363,6 +367,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: 8.0.1 add missing issues tag (#284)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5caf649c72c21723c2d04f3848fe6c19023ab6d)
 - [ ] [<code>preferences-desktop-sound → multimedia-volume-control (#272)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c69f9f3d0694fb526c62a4d33663e6514d6ac776)
+- [ ] [<code>Release 8.0.1 (#285)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5d18962a00b956f339a82e4be635f5f02fb35c3)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
 
