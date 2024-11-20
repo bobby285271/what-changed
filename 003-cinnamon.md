@@ -107,6 +107,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>popupMenu.js: Simplify the menu animation (#12405)</code>](https://github.com/linuxmint/cinnamon/commit/2b4a028f4a41161682d07c3356b53a9557fa39c6)
 - [ ] [<code>layout.js: Consider auto hide panels in MonitorConstraint work area (#12422)</code>](https://github.com/linuxmint/cinnamon/commit/61c7f8c9915f375d47bbad922fb8157336992ef7)
+- [ ] [<code>Update README.rst (#12474)</code>](https://github.com/linuxmint/cinnamon/commit/e46d3a953a0c67962d070adde08391e6475e62da)
+- [ ] [<code>popupMenu: Fix menu orientation</code>](https://github.com/linuxmint/cinnamon/commit/82e65b472e040d4fbfe589a7d6fd530437291a09)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
@@ -183,6 +185,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-power: Refactoring display backlight code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1b36b7ac9d55b4b96f64e7b72c7078b304a9b285)
 - [ ] [<code>csd-color-state.c: Fix build warning/error.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/57b8a0a742a876d51403ad27613fe84b228d1081)
+- [ ] [<code>csd-media-keys: Show device description on volume OSD (#399)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1dbe86a36801f2bb12284f4c10e0bd978bb7178c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
@@ -217,6 +220,19 @@
 - [ ] [<code>Remove "Linux Mint" Cinnamon theme</code>](https://github.com/linuxmint/mint-themes/commit/5de93c0c55b98526e90e087afdcb2a4bb78d3070)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon: Remove 0% mix calls</code>](https://github.com/linuxmint/mint-themes/commit/cf714ed33c1d225d75ac1d3a4eb1d465e6d616ee)
+- [ ] [<code>cinnamon: Let the panel get its own color</code>](https://github.com/linuxmint/mint-themes/commit/5063652fdb80cc39d76a6700293a2329a2eb8076)
+- [ ] [<code>cinnamon: rename sass variable</code>](https://github.com/linuxmint/mint-themes/commit/1290aac533ee4bf69b4e5b0c4a04271761bf2894)
+- [ ] [<code>cinnamon: remove obsolete section</code>](https://github.com/linuxmint/mint-themes/commit/a2edf92215ad2a621c4b89b6739170021281bf75)
+- [ ] [<code>cinnamon: Darken theme</code>](https://github.com/linuxmint/mint-themes/commit/78965ce070d8b7e02feaa0e1c546e84a8a0228b8)
+- [ ] [<code>cinnamon: Remove borders on popovers</code>](https://github.com/linuxmint/mint-themes/commit/ba11a3dc9bf58286163cef74101948349f4b41d6)
+- [ ] [<code>cinnamon: Introduce radius, subtle separators, indented submenus</code>](https://github.com/linuxmint/mint-themes/commit/181f03b4b23ee29b3287fe30c437660cb06eb2b4)
+- [ ] [<code>cinnamon: Fix wifi/battery titles</code>](https://github.com/linuxmint/mint-themes/commit/4504ad40cbac35042da4c4fb9fe7f17b659610bc)
+- [ ] [<code>cinnamon: Apply radius to calendar box</code>](https://github.com/linuxmint/mint-themes/commit/063d6ab275c2112129364654c89ce712ed2fb0c0)
+- [ ] [<code>cinnamon: Fix workspace switcher</code>](https://github.com/linuxmint/mint-themes/commit/eef96eee7b7302c1ee5317cb5f98801b8e887f14)
+- [ ] [<code>cinnamon: Define fg_color, simplify applet borders</code>](https://github.com/linuxmint/mint-themes/commit/c1794a78e01258a7760704249567a797b44c3014)
+- [ ] [<code>cinnamon: Lighten up the light panel</code>](https://github.com/linuxmint/mint-themes/commit/bb57e48c13f22d0b3c43c5a6069b0f75871aa1f6)
+- [ ] [<code>cinnamon: Apply radius to calendar</code>](https://github.com/linuxmint/mint-themes/commit/a4ed1d852d315e2b6a43f7b9754b8b008f56c859)
+- [ ] [<code>cinnamon: Adapt to new 6.4 dialogs/osd</code>](https://github.com/linuxmint/mint-themes/commit/bc3fd8d7a48d50d02031a127d587ce955d4c746d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
@@ -266,6 +282,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>search: Improve logging when loading search helpers.</code>](https://github.com/linuxmint/nemo/commit/daff8ceaa2d6a019452f651ac2004ab60c1dc3ad)
+- [ ] [<code>tree-sidebar: Add missing properties menu item. (#3476)</code>](https://github.com/linuxmint/nemo/commit/c0f28f34dfcb90d602332cc7afd15854ab36ff71)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
@@ -331,6 +348,12 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.6 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.6...HEAD)
 
+- [ ] [<code>Add lomiri badge. (#248)</code>](https://github.com/linuxmint/slick-greeter/commit/24ab2ff42570b8ac4ae7b125b36218c342ea4546)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Plasma X11 badge (#249)</code>](https://github.com/linuxmint/slick-greeter/commit/7089ba84a303cb9a70d724b608efc34e91fca8c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Resize HEIGHT of greeter listbox on pam message (#243)</code>](https://github.com/linuxmint/slick-greeter/commit/6978abd3e340d5086449e2cf4d8b29e8774ad3dd)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.22 → HEAD](https://github.com/linuxmint/sticky/compare/1.22...HEAD)
 
