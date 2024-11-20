@@ -5,6 +5,7 @@
 
 - [ ] [<code>Add support for new developer id (#2203)</code>](https://github.com/elementary/appcenter/commit/a47c0c1e5b74525a5916cefffffec1f5c03bbd94)
 - [ ] [<code>Silence some minor compile warnings (#2211)</code>](https://github.com/elementary/appcenter/commit/8816fde16f317640eb44dbc914ee4e7f5bd63a59)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#2217)</code>](https://github.com/elementary/appcenter/commit/a08b690c3e31e9f3b7edc443a1569bf057253cf5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -20,6 +21,7 @@
 - [ ] [<code>MainWindow: Make headerbar buttons insensitive by default (#278)</code>](https://github.com/elementary/camera/commit/c954d82b0ffefd45580b059aca09106d96c788b7)
 - [ ] [<code>master → main</code>](https://github.com/elementary/camera/commit/0c45e6e14d9e5ee9ba4a223d92713fc79193cb02)
 - [ ] [<code>Always use decimal point (#280)</code>](https://github.com/elementary/camera/commit/c8bfddad8aa6b0a00e8b7dbd8663d3ef0e898191)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#281)</code>](https://github.com/elementary/camera/commit/30ddb47750a0cae58a7cd82bf615b6435dab253e)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -260,6 +262,9 @@
 - [ ] [<code>Add hexpand (#336)</code>](https://github.com/elementary/switchboard-plug-about/commit/702e8373348ba1ac26f775e6307d336824b300fb)
 - [ ] [<code>Meson: add log domain (#340)</code>](https://github.com/elementary/switchboard-plug-about/commit/67cbe8b731c2ffa411c30ed7c1dc0b8316a7b6e5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Fix build with fwupd 2.0.0 (#343)</code>](https://github.com/elementary/switchboard-plug-about/commit/6f8ba61cb3d82229e19358ede81b77f66dbb06a2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
@@ -268,6 +273,7 @@
 - [ ] [<code>Store Sidebar Position (#240)</code>](https://github.com/elementary/switchboard-plug-applications/commit/0191d489ceb0fe97fd417ddd986aeab2abe43166)
 - [ ] [<code>Meson: add log domain (#241)</code>](https://github.com/elementary/switchboard-plug-applications/commit/82342454ff428a33eae9863da3f0577765a19c56)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-applications/commit/96241c291b1dd225505d308a7dbd2519b3570fd2)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
@@ -283,6 +289,7 @@
 - [ ] [<code>Use mutter provided supported scales (#399)</code>](https://github.com/elementary/switchboard-plug-display/commit/c74321902f30a414b1380b214ffccb35fd5e3ba3)
 - [ ] [<code>Meson: add log domain (#402)</code>](https://github.com/elementary/switchboard-plug-display/commit/0bf6bb9dbe4f8e663e398efe267ce66b1041b0bb)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#405)</code>](https://github.com/elementary/switchboard-plug-display/commit/8024604ae8e851804650665cd7ec7f54b47f0993)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.0...HEAD)
 
@@ -786,6 +793,7 @@
 - [ ] [<code>Workflows: add Fedora to CI (#2112)</code>](https://github.com/elementary/gala/commit/60fd6ca845819fc9984d31b1a69fd474139aaaf3)
 - [ ] [<code>Add panel hide delay (#2103)</code>](https://github.com/elementary/gala/commit/98f8cafe70f341b7cef72d2a5de2458ae77201c7)
 - [ ] [<code>PanelWindow: Don't use custom size for positioning, correct y for bottom panels (#2108)</code>](https://github.com/elementary/gala/commit/63d06f8b9529d55d9aea5d60f0224a26c58be9fb)
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#2116)</code>](https://github.com/elementary/gala/commit/2f2f2e4a4a73274dbccf993f7a763f3867665924)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -972,6 +980,8 @@
 - [ ] [<code>Fix dead link (#734) (#735)</code>](https://github.com/elementary/granite/commit/3d0afa3284a712bf1a66426aa9c122463878f94e)
 - [ ] [<code>Update SwitchModelButton.vala (#736)</code>](https://github.com/elementary/granite/commit/0967a602e3e779ba82a3886155b876d29f214e61)
 - [ ] [<code>Revert "Update SwitchModelButton.vala (#736)" (#737)</code>](https://github.com/elementary/granite/commit/f70dc462c3075c97270f48ccc5af1706f410d82c)
+- [ ] [<code>Metainfo: update 7.6.0 release notes (#738)</code>](https://github.com/elementary/granite/commit/e4d8189709155a8ce053008e9abc1b611c57a96a)
+  - <sub>Keywords: <code>bin</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1027,6 +1037,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3303c43f663716838a0748f96d924353803fb9f2)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#83)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/19bc16a7e484f0517c9e2baeaf7ff54f975646b0)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
@@ -1036,6 +1047,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update merge.yml</code>](https://github.com/elementary/portals/commit/4c3e230b7c7775906061e3684c70c2926573fe25)
 - [ ] [<code>Update ci.yml</code>](https://github.com/elementary/portals/commit/c31b6222f09afcb9c2a444f1617ddf576720b7d4)
+- [ ] [<code>Release 8.0.0 (#121)</code>](https://github.com/elementary/portals/commit/2f7c97cf2de271ffd52abf80a02a62db3a6068b8)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
