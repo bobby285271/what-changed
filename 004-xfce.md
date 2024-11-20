@@ -1122,6 +1122,7 @@
 - [ ] [<code>I18n: I18n translation ru.</code>](https://github.com/xfce-mirror/thunar/commit/8c0cb3ba439b68aeb16d7209bc0437f3cfc2f956)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/156047b870da8e1c7878f041bf064275e8efe725)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/db386111c584e12b49166391167e6781c0d4625f)
+- [ ] [<code>Bump year in about dialog</code>](https://github.com/xfce-mirror/thunar/commit/dda9228aaf8355c90c11c34653e1919bda7b3ddf)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1986,6 +1987,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Bump libxfce4util version to 4.19.4</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e1630fae2030705645aaef2aa851f71c988727c9)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Remove all lingering Inhibitors when DBus connection is lost</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/0329b2919e69c63aebc08099300ef44f09e7cec7)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
