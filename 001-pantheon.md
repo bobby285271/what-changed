@@ -366,17 +366,8 @@
 - [ ] [<code>Meson: add log domain (#85)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/080ee60448b0949e8bf7901f7b3cb7579238ec78)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
-- [ ] [<code>Bind properties in correct order (#279)</code>](https://github.com/elementary/switchboard-plug-sound/commit/8616cca554a97d177bedbfa7367805eab6f45f54)
-- [ ] [<code>PuseAudioManager: fix crash with non-app audio source (#280)</code>](https://github.com/elementary/switchboard-plug-sound/commit/62d97f98edc34a99469063556614f36b41f2904b)
-- [ ] [<code>Meson: add log domain (#281)</code>](https://github.com/elementary/switchboard-plug-sound/commit/6844abd0c0ee568f4397fa3eb9aa6990f19d7efe)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: 8.0.1 add missing issues tag (#284)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5caf649c72c21723c2d04f3848fe6c19023ab6d)
-- [ ] [<code>preferences-desktop-sound → multimedia-volume-control (#272)</code>](https://github.com/elementary/switchboard-plug-sound/commit/c69f9f3d0694fb526c62a4d33663e6514d6ac776)
-- [ ] [<code>Release 8.0.1 (#285)</code>](https://github.com/elementary/switchboard-plug-sound/commit/e5d18962a00b956f339a82e4be635f5f02fb35c3)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
@@ -390,6 +381,9 @@
 - [ ] [<code>Add support for new Adw.Dialog and bottom sheets (#1301)</code>](https://github.com/elementary/stylesheet/commit/b76dc06afcc9fde08e9b988b94f3ae71c3c9f5a0)
 - [ ] [<code>Add support for Adw.OverlaySplitView (#1302)</code>](https://github.com/elementary/stylesheet/commit/b21589fd9a2ec65828b8989571d971e005caea25)
 - [ ] [<code>Popovers: use border-spacing (#1303)</code>](https://github.com/elementary/stylesheet/commit/1815821fbd2329bcaebb7f280d32d642ad2f201f)
+- [ ] [<code>Release 8.2.0 (#1305)</code>](https://github.com/elementary/stylesheet/commit/039492a3b1cfb99524dd2982dd2dc4d3cb9c78d6)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -544,6 +538,9 @@
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.2 → HEAD](https://github.com/elementary/onboarding/compare/8.0.2...HEAD)
 
+- [ ] [<code>MainWindow: center with shell protocol (#248)</code>](https://github.com/elementary/onboarding/commit/80402d61930e32c4a68fe3acaae7fb79fd97a9ad)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1038,6 +1035,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3303c43f663716838a0748f96d924353803fb9f2)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#83)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/19bc16a7e484f0517c9e2baeaf7ff54f975646b0)
+- [ ] [<code>Release 8.0.1 (#84)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/1866e51f2dd21b5280c5c2cc16d83ef5ef26fcf4)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [7.2.0 → HEAD](https://github.com/elementary/portals/compare/7.2.0...HEAD)
 
@@ -1129,6 +1129,8 @@
 - [ ] [<code>Raspberry Pi: bump to noble (#726)</code>](https://github.com/elementary/os/commit/f1eac7d530c9bd189f1ce2482668a4d505ebb8de)
 - [ ] [<code>arm64: Build on Noble (#729)</code>](https://github.com/elementary/os/commit/d2cf4d4fc44b0b6335610fa91d2c1d412f2f8544)
 - [ ] [<code>arm64: Cleanup previous artifacts before build (#731)</code>](https://github.com/elementary/os/commit/08a543b697bc4acd865a418568fc53c9939bcc4a)
+- [ ] [<code>Create apparmor-profiles.chroot (#735)</code>](https://github.com/elementary/os/commit/3c993e3431ce4fb180a9cfcec95df02da2ab0acd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
@@ -1174,3 +1176,4 @@
 - [ ] [<code>Include DKMS (#133)</code>](https://github.com/elementary/seeds/commit/e8c9abf1e1f8a76b1cf97c9c4cd4ba581334cfb4)
 - [ ] [<code>Ship: remove OEM packages (#134)</code>](https://github.com/elementary/seeds/commit/959ce3f8ee680b5d5aa9b7010b21846b1c5bbc8e)
 - [ ] [<code>Desktop: Install Pipewire (#91)</code>](https://github.com/elementary/seeds/commit/e83b01827651500d6e86391c1c75668a0c6ff496)
+- [ ] [<code>Add apparmor-profiles (#136)</code>](https://github.com/elementary/seeds/commit/f235eee19c539d3ff73a8872ad5be98c81e8516b)
