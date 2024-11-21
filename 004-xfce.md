@@ -1746,6 +1746,7 @@
 - [ ] [<code>tasklist: Ensure group buttons have non empty label</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41e0406d1d949517c88c9c33785723095d5d76e6)
 - [ ] [<code>migrate: Update default config</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2b4a7a72f9e4308e876ed3f7b18ed333c35cb9a)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e1421f19f5d66dd1ffd399644e78014eb24775c4)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1a269f63de92ddcd60eacc1caaa8457081e51c66)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2953,6 +2954,7 @@
 - [ ] [<code>Fix GFileInputStream leaks in file_input_stream_ready_cb</code>](https://github.com/xfce-mirror/xfdesktop/commit/a1477adfc02e3f5e2f3b83b966c525f6f88cf330)
 - [ ] [<code>Stop timer when finalizing backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/4f9b3162331447751bd7086b6073b0d28a70dbd6)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/d263c3b494e4b24ec91b67a9621b3a968f2d811b)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/1c53f7e7ce0cbebe8ca27b6dec030905bd5d476e)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
