@@ -109,6 +109,7 @@
 - [ ] [<code>layout.js: Consider auto hide panels in MonitorConstraint work area (#12422)</code>](https://github.com/linuxmint/cinnamon/commit/61c7f8c9915f375d47bbad922fb8157336992ef7)
 - [ ] [<code>Update README.rst (#12474)</code>](https://github.com/linuxmint/cinnamon/commit/e46d3a953a0c67962d070adde08391e6475e62da)
 - [ ] [<code>popupMenu: Fix menu orientation</code>](https://github.com/linuxmint/cinnamon/commit/82e65b472e040d4fbfe589a7d6fd530437291a09)
+- [ ] [<code>theme: Specify fg_color on new dialogs</code>](https://github.com/linuxmint/cinnamon/commit/77a247a601ee9e47a89a8c796ac46caa4bcbc385)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
@@ -233,6 +234,7 @@
 - [ ] [<code>cinnamon: Lighten up the light panel</code>](https://github.com/linuxmint/mint-themes/commit/bb57e48c13f22d0b3c43c5a6069b0f75871aa1f6)
 - [ ] [<code>cinnamon: Apply radius to calendar</code>](https://github.com/linuxmint/mint-themes/commit/a4ed1d852d315e2b6a43f7b9754b8b008f56c859)
 - [ ] [<code>cinnamon: Adapt to new 6.4 dialogs/osd</code>](https://github.com/linuxmint/mint-themes/commit/bc3fd8d7a48d50d02031a127d587ce955d4c746d)
+- [ ] [<code>gtk3: Darken terminal to blend with the titlebar</code>](https://github.com/linuxmint/mint-themes/commit/1b8ad14acbc306d8e1ac21a225e5d09a1e9a2c81)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
