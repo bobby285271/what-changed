@@ -110,6 +110,7 @@
 - [ ] [<code>Update README.rst (#12474)</code>](https://github.com/linuxmint/cinnamon/commit/e46d3a953a0c67962d070adde08391e6475e62da)
 - [ ] [<code>popupMenu: Fix menu orientation</code>](https://github.com/linuxmint/cinnamon/commit/82e65b472e040d4fbfe589a7d6fd530437291a09)
 - [ ] [<code>theme: Specify fg_color on new dialogs</code>](https://github.com/linuxmint/cinnamon/commit/77a247a601ee9e47a89a8c796ac46caa4bcbc385)
+- [ ] [<code>theme: Specify fg_color in OSDs as well</code>](https://github.com/linuxmint/cinnamon/commit/a0ee3d2ccaefa612fc51240cf06f79d2c93e91da)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
@@ -251,6 +252,8 @@
 - [ ] [<code>add org.xfce.terminalemulator symlink</code>](https://github.com/linuxmint/mint-y-icons/commit/97ee6e6c9d6dfd0717f09b8614e49529b72b67c0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fixed more XFCE symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/69461b2ebbaf5da72ca3c8f54cccd1667bd3ad88)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Firefox and Firefox Nightly icons (#431)</code>](https://github.com/linuxmint/mint-y-icons/commit/a2ec5ac1c9d57c3f951831256e31085accab5430)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
