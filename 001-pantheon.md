@@ -22,6 +22,9 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/camera/commit/0c45e6e14d9e5ee9ba4a223d92713fc79193cb02)
 - [ ] [<code>Always use decimal point (#280)</code>](https://github.com/elementary/camera/commit/c8bfddad8aa6b0a00e8b7dbd8663d3ef0e898191)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#281)</code>](https://github.com/elementary/camera/commit/30ddb47750a0cae58a7cd82bf615b6435dab253e)
+- [ ] [<code>Release 8.0.1 (#282)</code>](https://github.com/elementary/camera/commit/16a397b62b944359d0fdd131a3659ea793a2b6a4)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -791,6 +794,9 @@
 - [ ] [<code>Add panel hide delay (#2103)</code>](https://github.com/elementary/gala/commit/98f8cafe70f341b7cef72d2a5de2458ae77201c7)
 - [ ] [<code>PanelWindow: Don't use custom size for positioning, correct y for bottom panels (#2108)</code>](https://github.com/elementary/gala/commit/63d06f8b9529d55d9aea5d60f0224a26c58be9fb)
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#2116)</code>](https://github.com/elementary/gala/commit/2f2f2e4a4a73274dbccf993f7a763f3867665924)
+- [ ] [<code>Release 8.0.3 (#2117)</code>](https://github.com/elementary/gala/commit/b9dd5cc60b08043eeb63720e7fe828598d2e69bd)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -979,6 +985,10 @@
 - [ ] [<code>Revert "Update SwitchModelButton.vala (#736)" (#737)</code>](https://github.com/elementary/granite/commit/f70dc462c3075c97270f48ccc5af1706f410d82c)
 - [ ] [<code>Metainfo: update 7.6.0 release notes (#738)</code>](https://github.com/elementary/granite/commit/e4d8189709155a8ce053008e9abc1b611c57a96a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 7.6.0 (#739)</code>](https://github.com/elementary/granite/commit/065ba1f245b60ef867a6ca145e0891cf84eddcc7)
+  - <sub>Tags: <code>7.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/6e142c1d31ed4a77403f60ca2fec00ca597a282c)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1130,6 +1140,9 @@
 - [ ] [<code>arm64: Build on Noble (#729)</code>](https://github.com/elementary/os/commit/d2cf4d4fc44b0b6335610fa91d2c1d412f2f8544)
 - [ ] [<code>arm64: Cleanup previous artifacts before build (#731)</code>](https://github.com/elementary/os/commit/08a543b697bc4acd865a418568fc53c9939bcc4a)
 - [ ] [<code>Create apparmor-profiles.chroot (#735)</code>](https://github.com/elementary/os/commit/3c993e3431ce4fb180a9cfcec95df02da2ab0acd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Revert "Create apparmor-profiles.chroot (#735)" (#737)</code>](https://github.com/elementary/os/commit/4ef03d6b8a4e90288bbbed26a1ea7e65da7680ba)
+  - <sub>Tags: <code>8.0.0-rc1</code> <code>8.0.0-rc2</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
