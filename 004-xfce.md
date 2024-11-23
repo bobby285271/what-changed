@@ -2955,6 +2955,7 @@
 - [ ] [<code>Stop timer when finalizing backdrop cycler</code>](https://github.com/xfce-mirror/xfdesktop/commit/4f9b3162331447751bd7086b6073b0d28a70dbd6)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/d263c3b494e4b24ec91b67a9621b3a968f2d811b)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/1c53f7e7ce0cbebe8ca27b6dec030905bd5d476e)
+- [ ] [<code>Add existing workspaces after monitor gets added</code>](https://github.com/xfce-mirror/xfdesktop/commit/ebc3549db41167aaeace780405373dc35242988d)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
