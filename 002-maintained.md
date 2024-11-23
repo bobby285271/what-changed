@@ -411,6 +411,7 @@
 - [ ] [<code>Provide system theme rootdir as a build option (#252)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/614f207cf25ba30ff846edf178a7c52484315212)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Flatpak: Use External Data Checker (#255)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ac5a9e7a04ac58020c2f2bac2c5d346027789176)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
