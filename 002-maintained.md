@@ -81,6 +81,8 @@
 - [ ] [<code>Merge pull request #162 from ryonakano/oars-no-attributes</code>](https://github.com/dahenson/agenda/commit/70cca29106a7398c87de1feae19fa56a3085c436)
 - [ ] [<code>Merge pull request #163 from ryonakano/update-japanese-translation</code>](https://github.com/dahenson/agenda/commit/925e4df87ec273dfed29a8da865445e48ced3e5f)
 - [ ] [<code>Merge pull request #164 from ryonakano/switch-to-github-actions</code>](https://github.com/dahenson/agenda/commit/73e3f9331af7f52a56896c6c7cecf36dde216975)
+- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/91160290a3241e3eb2ba118adf7e79b7a03606f7)
+- [ ] [<code>Merge pull request #165 from albanobattistella/patch-3</code>](https://github.com/dahenson/agenda/commit/d7c36f85651b8e5d7520ed7bae094137ca21a528)
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
