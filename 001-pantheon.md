@@ -247,14 +247,8 @@
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
 
-#### [pantheon.sideload](https://github.com/elementary/sideload): [6.2.2 → HEAD](https://github.com/elementary/sideload/compare/6.2.2...HEAD)
+#### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
-- [ ] [<code>Handle flatpak+https scheme (#170)</code>](https://github.com/elementary/sideload/commit/96e57ff99200bb28541d7d05e03ba6ea1dc37867)
-- [ ] [<code>MainWindow: fix invalid bundle cast (#172)</code>](https://github.com/elementary/sideload/commit/672c489471577b3bc98cfd51396cc3f20f8d0a9f)
-- [ ] [<code>Metainfo: add 6.3.0 release notes (#173)</code>](https://github.com/elementary/sideload/commit/33730861c3e5ce8aa92a95023978c5811d5c98ab)
-- [ ] [<code>Release 6.3.0 (#174)</code>](https://github.com/elementary/sideload/commit/22880ed52332e1078e8e165f57402b30d67c7f26)
-  - <sub>Tags: <code>6.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.2 → HEAD](https://github.com/elementary/switchboard/compare/8.0.2...HEAD)
 
@@ -379,14 +373,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
-#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.1.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.1.0...HEAD)
+#### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
 
-- [ ] [<code>Add support for new Adw.Dialog and bottom sheets (#1301)</code>](https://github.com/elementary/stylesheet/commit/b76dc06afcc9fde08e9b988b94f3ae71c3c9f5a0)
-- [ ] [<code>Add support for Adw.OverlaySplitView (#1302)</code>](https://github.com/elementary/stylesheet/commit/b21589fd9a2ec65828b8989571d971e005caea25)
-- [ ] [<code>Popovers: use border-spacing (#1303)</code>](https://github.com/elementary/stylesheet/commit/1815821fbd2329bcaebb7f280d32d642ad2f201f)
-- [ ] [<code>Release 8.2.0 (#1305)</code>](https://github.com/elementary/stylesheet/commit/039492a3b1cfb99524dd2982dd2dc4d3cb9c78d6)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
