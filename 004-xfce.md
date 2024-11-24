@@ -2956,6 +2956,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/d263c3b494e4b24ec91b67a9621b3a968f2d811b)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/1c53f7e7ce0cbebe8ca27b6dec030905bd5d476e)
 - [ ] [<code>Add existing workspaces after monitor gets added</code>](https://github.com/xfce-mirror/xfdesktop/commit/ebc3549db41167aaeace780405373dc35242988d)
+- [ ] [<code>Add more instructions to GitLab issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/f82d8bc749e87589e89f39cb56a63f802d70a60f)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
