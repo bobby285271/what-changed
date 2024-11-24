@@ -785,6 +785,7 @@
 - [ ] [<code>Release 8.0.3 (#2117)</code>](https://github.com/elementary/gala/commit/b9dd5cc60b08043eeb63720e7fe828598d2e69bd)
   - <sub>Tags: <code>8.0.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ShadowEffect: Delay cache drop for switching shadow sizes performance improvements (#2061)</code>](https://github.com/elementary/gala/commit/74abd1ecd7cb5ce88116d810e74a5e0022ed8d68)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
