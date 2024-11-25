@@ -15,16 +15,8 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.0 → HEAD](https://github.com/elementary/camera/compare/8.0.0...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
-- [ ] [<code>Workflows/Merge: install rust extension for gettext</code>](https://github.com/elementary/camera/commit/bb1f7082f5c254bf92bf94501cee9478d220f032)
-- [ ] [<code>MainWindow: Make headerbar buttons insensitive by default (#278)</code>](https://github.com/elementary/camera/commit/c954d82b0ffefd45580b059aca09106d96c788b7)
-- [ ] [<code>master → main</code>](https://github.com/elementary/camera/commit/0c45e6e14d9e5ee9ba4a223d92713fc79193cb02)
-- [ ] [<code>Always use decimal point (#280)</code>](https://github.com/elementary/camera/commit/c8bfddad8aa6b0a00e8b7dbd8663d3ef0e898191)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#281)</code>](https://github.com/elementary/camera/commit/30ddb47750a0cae58a7cd82bf615b6435dab253e)
-- [ ] [<code>Release 8.0.1 (#282)</code>](https://github.com/elementary/camera/commit/16a397b62b944359d0fdd131a3659ea793a2b6a4)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -955,28 +947,8 @@
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#282)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/56a486ba19f99ae8cec5b4f24d51ed37eb54d8bc)
 ## granite
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.5.0 → HEAD](https://github.com/elementary/granite/compare/7.5.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
 
-- [ ] [<code>Dialog: Add since annotation to new method (#721)</code>](https://github.com/elementary/granite/commit/db97b4fe71374b4572560d88bc847b54f494473a)
-- [ ] [<code>SwitchModelButton: set accessible label, description, and state (#723)</code>](https://github.com/elementary/granite/commit/cec3e9155e9d5862030bea1c082ab7fc73ae1323)
-- [ ] [<code>ValidatedEntry: set AccessibleState (#724)</code>](https://github.com/elementary/granite/commit/0eab9b9e754f8446624ef8266c3f92169495e927)
-- [ ] [<code>HeaderLabel: set accessible description (#725)</code>](https://github.com/elementary/granite/commit/c3043820f81880b5f1c8d69d444269e40db115ac)
-- [ ] [<code>AbstractSimpleSettingsPage: Correct replacement class (#726)</code>](https://github.com/elementary/granite/commit/4581f54f624820e763cb3f9a6213c4fabc2383a2)
-- [ ] [<code>meson: Use gnome module to compile schemas (#727)</code>](https://github.com/elementary/granite/commit/4059d89e4f9f485d506190f718f707f54f5b3de5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>SwitchModelButton: wrap label (#729)</code>](https://github.com/elementary/granite/commit/020c661c538da572a5f9584f34510794f5473bb1)
-- [ ] [<code>Introduce Granite.Bin for subclassing (#730)</code>](https://github.com/elementary/granite/commit/77bf29227dc981cca7345e337b81e3a52b0785c2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix dead link (#734) (#735)</code>](https://github.com/elementary/granite/commit/3d0afa3284a712bf1a66426aa9c122463878f94e)
-- [ ] [<code>Update SwitchModelButton.vala (#736)</code>](https://github.com/elementary/granite/commit/0967a602e3e779ba82a3886155b876d29f214e61)
-- [ ] [<code>Revert "Update SwitchModelButton.vala (#736)" (#737)</code>](https://github.com/elementary/granite/commit/f70dc462c3075c97270f48ccc5af1706f410d82c)
-- [ ] [<code>Metainfo: update 7.6.0 release notes (#738)</code>](https://github.com/elementary/granite/commit/e4d8189709155a8ce053008e9abc1b611c57a96a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 7.6.0 (#739)</code>](https://github.com/elementary/granite/commit/065ba1f245b60ef867a6ca145e0891cf84eddcc7)
-  - <sub>Tags: <code>7.6.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/6e142c1d31ed4a77403f60ca2fec00ca597a282c)
 ## services
 
