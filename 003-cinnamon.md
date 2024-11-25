@@ -111,6 +111,7 @@
 - [ ] [<code>popupMenu: Fix menu orientation</code>](https://github.com/linuxmint/cinnamon/commit/82e65b472e040d4fbfe589a7d6fd530437291a09)
 - [ ] [<code>theme: Specify fg_color on new dialogs</code>](https://github.com/linuxmint/cinnamon/commit/77a247a601ee9e47a89a8c796ac46caa4bcbc385)
 - [ ] [<code>theme: Specify fg_color in OSDs as well</code>](https://github.com/linuxmint/cinnamon/commit/a0ee3d2ccaefa612fc51240cf06f79d2c93e91da)
+- [ ] [<code>alt-tab: Rework minimized windows</code>](https://github.com/linuxmint/cinnamon/commit/5b6bdf306955c26663121b14106e1181fb3474a1)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
