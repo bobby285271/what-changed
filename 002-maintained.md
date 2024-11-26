@@ -412,6 +412,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Flatpak: Use External Data Checker (#255)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ac5a9e7a04ac58020c2f2bac2c5d346027789176)
+- [ ] [<code>Flatpak: Omit quote when possible</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/29fd3534d1cad7025b8b4d756f0556c11aeceb74)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Update elementary-stylesheet, granite and switchboard modules (#256)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/995c9ca811e08a258120b8d20f030cdf7b3af527)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
@@ -494,6 +497,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
 - [ ] [<code>README: Add NixOS installation instructions</code>](https://github.com/JoseExposito/touchegg/commit/5b191856e0f6ca5f061ec5a8a71b0829d897ca23)
+- [ ] [<code>fix debian manual install command</code>](https://github.com/JoseExposito/touchegg/commit/6f826909806e92a714b9327eda0a71cdce813e16)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
