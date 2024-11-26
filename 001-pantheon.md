@@ -180,6 +180,8 @@
 - [ ] [<code>Modernize desktop files, simplify build (#778)</code>](https://github.com/elementary/photos/commit/25ccd5742001457c0cf65de86f07399925ba590e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>MetadataDateTime: Fix crash in fallback scanf code (#785)</code>](https://github.com/elementary/photos/commit/725ff6e4eb73af753de29d25fe9d622b7dc6d485)
+- [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
