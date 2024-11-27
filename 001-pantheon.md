@@ -780,6 +780,7 @@
   - <sub>Tags: <code>8.0.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ShadowEffect: Delay cache drop for switching shadow sizes performance improvements (#2061)</code>](https://github.com/elementary/gala/commit/74abd1ecd7cb5ce88116d810e74a5e0022ed8d68)
+- [ ] [<code>PanelClone: avoid using Timeout (#2015)</code>](https://github.com/elementary/gala/commit/5adb5544f06f9c06da295c2da600b1bf7570f93f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
