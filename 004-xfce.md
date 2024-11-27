@@ -115,6 +115,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/c672e7ff86ba00aa538684969b8a86b8a9141c94)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>menu-item: Ensure UTF-8 strings</code>](https://github.com/xfce-mirror/garcon/commit/7227416ffa384f6d8c360a71086edf2b4441a5c7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
 
@@ -2544,6 +2546,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/37a1bac17f74f11efa339b2e087c0fc2806cfd20)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tests: Fix D-Bus error reporting when xfconfd is not auto-started</code>](https://github.com/xfce-mirror/xfconf/commit/9c4ea6c1c4c5f67ef825a614faa06bb9f90d6e28)
+- [ ] [<code>Fix FakeGdkRGBA and FakeGdkColor leaks</code>](https://github.com/xfce-mirror/xfconf/commit/225d3c8979c4d2b3692603d58871b680ae3b23a1)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
