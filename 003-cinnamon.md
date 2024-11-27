@@ -202,7 +202,12 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
 - [ ] [<code>autostart: Blacklist nm-applet</code>](https://github.com/linuxmint/cinnamon-session/commit/12685216ff88def58c2e03e5c0aa686567c1ffcc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Refactor/simplify end-session dialog handling to use a native- (#177)</code>](https://github.com/linuxmint/cinnamon-session/commit/b177ab02fa524c4e0ac6283bba50524990708730)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-session/commit/4e3a75779c508187986be821bbec581209257670)
+  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
@@ -219,7 +224,11 @@
 - [ ] [<code>csd-power: Refactoring display backlight code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1b36b7ac9d55b4b96f64e7b72c7078b304a9b285)
 - [ ] [<code>csd-color-state.c: Fix build warning/error.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/57b8a0a742a876d51403ad27613fe84b228d1081)
 - [ ] [<code>csd-media-keys: Show device description on volume OSD (#399)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1dbe86a36801f2bb12284f4c10e0bd978bb7178c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>csd-color-calibrate: Fix GNOME refs following plugin rebase</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5bbf9543a4a50d568a4654f97f7f6df7766330e9)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/25ca365490c27c05ff33e949ecdd5000fceddd84)
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/23580c37927060b641d4771f82b1f40cf971aec1)
+  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
