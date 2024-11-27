@@ -1278,6 +1278,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f2bccd0d4a054ddf591765485d440e82f9e453b5)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6d78e65c22abee29099cd92f275a017f5c7d33c6)
+- [ ] [<code>Fix buffer overflow and leaks (#92)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/1230f790b3e16ab3cd42e0362498d42cf21b5dab)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.18.0...HEAD)
 
@@ -2957,6 +2959,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/1c53f7e7ce0cbebe8ca27b6dec030905bd5d476e)
 - [ ] [<code>Add existing workspaces after monitor gets added</code>](https://github.com/xfce-mirror/xfdesktop/commit/ebc3549db41167aaeace780405373dc35242988d)
 - [ ] [<code>Add more instructions to GitLab issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/f82d8bc749e87589e89f39cb56a63f802d70a60f)
+- [ ] [<code>Replace color1 and color2 with rgba1 and rgba2 in README.xfconf</code>](https://github.com/xfce-mirror/xfdesktop/commit/7504ee9e6eff60ca6a0a0d09d5edceb27e70594a)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
