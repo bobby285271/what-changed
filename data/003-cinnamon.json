@@ -10,7 +10,7 @@
         },
         {
             "kind": "markdown",
-            "content": "> For mint-artwork check updates manually. All nemo-extensions are tracked as nemo-python."
+            "content": "> For mint-artwork check updates manually."
         },
         {
             "attr_path": "bulky"
@@ -68,6 +68,12 @@
         },
         {
             "attr_path": "nemo"
+        },
+        {
+            "attr_path": "nemo-emblems"
+        },
+        {
+            "attr_path": "nemo-fileroller"
         },
         {
             "attr_path": "nemo-python"
