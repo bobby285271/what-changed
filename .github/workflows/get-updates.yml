@@ -12,7 +12,6 @@ jobs:
       max-parallel: 1
       matrix:
         include:
-          - pkgset: 000-test
           - pkgset: 001-pantheon
           - pkgset: 002-maintained
           - pkgset: 003-cinnamon
