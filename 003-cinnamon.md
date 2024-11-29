@@ -319,8 +319,9 @@
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove volatile qualifier for g_once_init handles.</code>](https://github.com/linuxmint/muffin/commit/02fce996c86d6eb473aee83f4b6eb054a51a36da)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>Exposes monitor names (#706)</code>](https://github.com/linuxmint/muffin/commit/cc584a7c092bf44a5db407bee39f88fbbf8723d7)
+- [ ] [<code>Build: Update symbol file.</code>](https://github.com/linuxmint/muffin/commit/0042f04254e58ea5a5dd4e0fe9545055396171a5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
