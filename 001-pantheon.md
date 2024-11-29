@@ -145,6 +145,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.0 → HEAD](https://github.com/elementary/files/compare/7.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/c41a1e83fe32a2a6ea99510679a7c416d8fc7ce2)
+- [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
