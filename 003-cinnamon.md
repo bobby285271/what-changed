@@ -162,9 +162,11 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/45edfb506e6ec563df434d3015976398b7ab7588)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon/commit/d14b2f2439c6f51159796055d6cd056408c45d95)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -293,6 +295,10 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.9...HEAD)
 
+- [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
+- [ ] [<code>cinnamon: Update thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/ca12a19f98df21516308c560512cb0709e78314e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
@@ -314,6 +320,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove volatile qualifier for g_once_init handles.</code>](https://github.com/linuxmint/muffin/commit/02fce996c86d6eb473aee83f4b6eb054a51a36da)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Exposes monitor names (#706)</code>](https://github.com/linuxmint/muffin/commit/cc584a7c092bf44a5db407bee39f88fbbf8723d7)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -352,6 +359,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix inhibit name so nemo's desktop file is discovered by cinnamon-</code>](https://github.com/linuxmint/nemo/commit/6ae2a897298ce0403fe8768c1dfc466a2f5e4133)
+- [ ] [<code>Remove unused libxml headers. (#3490)</code>](https://github.com/linuxmint/nemo/commit/9ad22e14b510f76ff6ab3c05dd49ed4cd94fbd5c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
@@ -438,8 +446,10 @@
 - [ ] [<code>Installation and operation on Debian 12 is successful (#337)</code>](https://github.com/linuxmint/hypnotix/commit/cd699f7a571574caa1b01d29620fd19082a45daa)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Set subtitle when navigating to landing page (#341)</code>](https://github.com/linuxmint/hypnotix/commit/1462905d4daa23ad49e0acd901907b6db4edc422)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use `$XDG_CACHE_HOME` if defined (#355)</code>](https://github.com/linuxmint/hypnotix/commit/4205ed2218d841d5daaf896e8b78c37f2d143126)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
