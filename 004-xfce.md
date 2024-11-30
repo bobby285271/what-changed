@@ -286,6 +286,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Avoid undefined behavior with NULL msgid strings and dgettext</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3cf55e4644e78fc208a791e7f8d43be947bf57e)
 - [ ] [<code>xfce4-about: Init glibtop before using it</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f9533e6f8a4ec6d36862c20dcf388813bc90574e)
+- [ ] [<code>xfce4-about: Don't show mail addresses</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9b4089afa36dbb938047f52c6e94daa89b82745f)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
