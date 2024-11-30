@@ -166,7 +166,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
+- [ ] [<code>Modal dialog cleanups (#12531)</code>](https://github.com/linuxmint/cinnamon/commit/c4bdb10dc597fb07750aaf104c508dfa10c48d28)
+- [ ] [<code>endSessionDialog: Restyle the dialog (#12533)</code>](https://github.com/linuxmint/cinnamon/commit/e6012866dd3b74811a024aec6c38b4df26362ad8)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -200,8 +203,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update debian/symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4ff8433fcaccd420afadd7199d54ea5d30893512)
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f3b94a0b897d5f1d5596403f604a7f2a5171687f)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add iso-codes as build-depends (#248)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/58c8a262307144658a2f477882751c941f41c0de)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
@@ -263,8 +268,10 @@
 - [ ] [<code>csd-color-calibrate: Fix GNOME refs following plugin rebase</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5bbf9543a4a50d568a4654f97f7f6df7766330e9)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/25ca365490c27c05ff33e949ecdd5000fceddd84)
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/23580c37927060b641d4771f82b1f40cf971aec1)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "csd-media-keys: Show device description on volume OSD (#399)"</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/615a110c8e68a31e43bb8c657a7d50ca3a04810c)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
@@ -297,14 +304,19 @@
 
 - [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
 - [ ] [<code>cinnamon: Update thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/ca12a19f98df21516308c560512cb0709e78314e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.2.0</code>](https://github.com/linuxmint/mint-themes/commit/caada5b266f92b70ac84a5bf01fc2abb85bd4ca1)
+  - <sub>Tags: <code>2.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.8...HEAD)
 
+- [ ] [<code>Mint-Y-Sand: Soften place emblems a little bit</code>](https://github.com/linuxmint/mint-y-icons/commit/9dc8ae3133ba89a3713b11808730cca6e4583df3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-y-icons/commit/caf06be588292fdc9af2656eda2c8c77b92981f9)
+  - <sub>Tags: <code>1.7.9</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
