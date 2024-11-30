@@ -146,6 +146,7 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/c41a1e83fe32a2a6ea99510679a7c416d8fc7ce2)
 - [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
+- [ ] [<code>Ensure scroll controller only active when `<Control>` pressed (#2513)</code>](https://github.com/elementary/files/commit/71c03d1af463e9dc009b2fc3b993d40659d4abcd)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
 
@@ -238,6 +239,7 @@
 - [ ] [<code>Add release info for 6.3.0 to appdata (#797)</code>](https://github.com/elementary/terminal/commit/717801bb3fee47e18650cc93f88b998cc42ad686)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/terminal/commit/fec38c9b82767ee791290b9999492da8502b8377)
+- [ ] [<code>Provide fallback directory for active shell under test (#810)</code>](https://github.com/elementary/terminal/commit/c6be203eafbfef154adf73460704a9af5a55112c)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
