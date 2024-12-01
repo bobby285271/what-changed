@@ -117,6 +117,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>menu-item: Ensure UTF-8 strings</code>](https://github.com/xfce-mirror/garcon/commit/7227416ffa384f6d8c360a71086edf2b4441a5c7)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/garcon/commit/55b3187611e8f4eed517b8da650463addac71a41)
+  - <sub>Tags: <code>garcon-4.19.3</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/d655472bfb24b40e1b843c129c9bebde92ccff1a)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
 
@@ -374,6 +379,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Call xfce_kiosk's parent finalizer to prevent leaks</code>](https://github.com/xfce-mirror/libxfce4util/commit/4c1294be1bf6d649d36f96cd3dad65d861b317fa)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/0bbb6f2309fb05762dacb60ebd0c8ca1a483654a)
+- [ ] [<code>Bump Xfce overall version to 4.20pre2</code>](https://github.com/xfce-mirror/libxfce4util/commit/7d70233d95bca1a9db9ff534d109c6872165c953)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -598,6 +605,11 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Fix XfwMonitor leak in steal_monitor_by_connector</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a1022fb40bdf88f66cc7352f7653b30c03a4dd76)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9aaf71934584029c2f9d3d2ef32eafbfd6d8968b)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b639099024d82e99eee090327d391a71e20a1ac2)
+  - <sub>Tags: <code>libxfce4windowing-4.19.10</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/539e01c47289c954fbb39606a6e2ddd07dca35b2)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1222,6 +1234,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>tumblerd: Fix string leaks in tumbler_manager_directory_changed</code>](https://github.com/xfce-mirror/tumbler/commit/b29cf4a822270246980e66da801b3b6093a2bd2e)
 - [ ] [<code>xdg-cache: Fix string leak in xdg_cache_cache_cleanup</code>](https://github.com/xfce-mirror/tumbler/commit/e72e6b7a8fda7e3442f5b6c105e4a2c0c214fe79)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/tumbler/commit/703e15fa471eb3231530015c82f4edb60fc05c38)
+  - <sub>Tags: <code>tumbler-4.19.3</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/608ca84363ee0f0ad7613a1a7b0cec930a6618b1)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.18.0...HEAD)
 
@@ -1752,6 +1769,11 @@
 - [ ] [<code>migrate: Update default config</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2b4a7a72f9e4308e876ed3f7b18ed333c35cb9a)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e1421f19f5d66dd1ffd399644e78014eb24775c4)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1a269f63de92ddcd60eacc1caaa8457081e51c66)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d722b57f4e0360f3df794714348938833d245185)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-panel-4.19.7</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/789c757c61ef9e4ac91971b2a58e5652802b225f)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2965,6 +2987,11 @@
 - [ ] [<code>Add existing workspaces after monitor gets added</code>](https://github.com/xfce-mirror/xfdesktop/commit/ebc3549db41167aaeace780405373dc35242988d)
 - [ ] [<code>Add more instructions to GitLab issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/f82d8bc749e87589e89f39cb56a63f802d70a60f)
 - [ ] [<code>Replace color1 and color2 with rgba1 and rgba2 in README.xfconf</code>](https://github.com/xfce-mirror/xfdesktop/commit/7504ee9e6eff60ca6a0a0d09d5edceb27e70594a)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfdesktop/commit/83e3388542c337258dadc27de095cd3f424a074f)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfdesktop-4.19.7</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc5fcd5778c8d51871a80154502f5843d9f7bb43)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
