@@ -499,6 +499,16 @@
 - [ ] [<code>README: Add NixOS installation instructions</code>](https://github.com/JoseExposito/touchegg/commit/5b191856e0f6ca5f061ec5a8a71b0829d897ca23)
 - [ ] [<code>fix debian manual install command</code>](https://github.com/JoseExposito/touchegg/commit/6f826909806e92a714b9327eda0a71cdce813e16)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix clang-format error</code>](https://github.com/JoseExposito/touchegg/commit/cc7535396d66b39014fa250811124fe8e8bb3e6c)
+- [ ] [<code>ci: Update Ubuntu to latest LTS</code>](https://github.com/JoseExposito/touchegg/commit/abac55192733b89d51bf456aa33c68146ba3d729)
+- [ ] [<code>Revert "Fix clang-format error"</code>](https://github.com/JoseExposito/touchegg/commit/c8157460106e263bf762168119479875b90eff6e)
+- [ ] [<code>RepeatedAction: Use an enum for action on begin/end</code>](https://github.com/JoseExposito/touchegg/commit/e3b48bfa835bd88cf32317f8bb53b0b775c969dd)
+- [ ] [<code>RepeatedAction: Allow to run actions on begin and end</code>](https://github.com/JoseExposito/touchegg/commit/92ef05f04a6a559b34864545b8277e0f1b9305de)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>WindowSystem: Split the mouse click action</code>](https://github.com/JoseExposito/touchegg/commit/2abfa7eb1367aa79469fe0e735ebd6ce72b3a637)
+- [ ] [<code>MouseClick: Split mouse click when <on>begin-and-end</on></code>](https://github.com/JoseExposito/touchegg/commit/f71c321bc55bf804e1b7e80121c90fc8c07599c1)
+- [ ] [<code>RunCommand: Set TOUCHEGG_GESTURE_ON environment variable</code>](https://github.com/JoseExposito/touchegg/commit/8d41d09ef9b5afc4f0363b94891b5826219b66d7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
