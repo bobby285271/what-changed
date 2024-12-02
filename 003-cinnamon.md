@@ -168,8 +168,9 @@
 - [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
 - [ ] [<code>Modal dialog cleanups (#12531)</code>](https://github.com/linuxmint/cinnamon/commit/c4bdb10dc597fb07750aaf104c508dfa10c48d28)
 - [ ] [<code>endSessionDialog: Restyle the dialog (#12533)</code>](https://github.com/linuxmint/cinnamon/commit/e6012866dd3b74811a024aec6c38b4df26362ad8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dialogs: Allow easier keyboard navigation (#12537)</code>](https://github.com/linuxmint/cinnamon/commit/e9ab16456ca161e934c67b9c06a6095e89c21923)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -483,6 +484,12 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.7 → HEAD](https://github.com/linuxmint/xed/compare/3.6.7...HEAD)
 
+- [ ] [<code>Rename the desktop file (#666)</code>](https://github.com/linuxmint/xed/commit/3c654cd621bfff5d14b96a28be0ecb28eba69b51)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.6.8</code>](https://github.com/linuxmint/xed/commit/ff6d51deb0261b9cc01f2a98b93739a54085d3c3)
+  - <sub>Tags: <code>3.6.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
