@@ -3042,6 +3042,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc5fcd5778c8d51871a80154502f5843d9f7bb43)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>xfdesktop-file-utils: Unset custom window cursor</code>](https://github.com/xfce-mirror/xfdesktop/commit/cdfa753d73f217d912b85004dfed307a6187f791)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
