@@ -50,6 +50,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>exo-die: Fix string leak in exo_die_g_key_file_set_locale_value</code>](https://github.com/xfce-mirror/exo/commit/7ea47122aa9d5586db80bd80bff6c0907d5d122e)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/cce2b58dd2cc1cf9c5c4b22b7fd5bca5a495f9ba)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/exo/commit/a2aeeb0c80ce59b0b91367c37e9a550b489c8735)
+  - <sub>Tags: <code>exo-4.19.2</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/8158a25328830dd9ce0481fcd04e90b394f3311c)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.18.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.18.0...HEAD)
 
@@ -292,6 +297,11 @@
 - [ ] [<code>Avoid undefined behavior with NULL msgid strings and dgettext</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3cf55e4644e78fc208a791e7f8d43be947bf57e)
 - [ ] [<code>xfce4-about: Init glibtop before using it</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f9533e6f8a4ec6d36862c20dcf388813bc90574e)
 - [ ] [<code>xfce4-about: Don't show mail addresses</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9b4089afa36dbb938047f52c6e94daa89b82745f)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/d71077642f9d71a05520a29f48e2aed24da83bda)
+  - <sub>Tags: <code>libxfce4ui-4.19.7</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/42500250918c6b9bd200f3dfc39ae157d43dd8d3)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
@@ -381,6 +391,11 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/0bbb6f2309fb05762dacb60ebd0c8ca1a483654a)
 - [ ] [<code>Bump Xfce overall version to 4.20pre2</code>](https://github.com/xfce-mirror/libxfce4util/commit/7d70233d95bca1a9db9ff534d109c6872165c953)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4util/commit/0a1d330e9f362af075bd309c92dfb75b6f5bcc1b)
+  - <sub>Tags: <code>libxfce4util-4.19.5</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/14e6e752fe403d1dc70314991bf6cc9faef87917)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -1138,6 +1153,11 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/156047b870da8e1c7878f041bf064275e8efe725)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/db386111c584e12b49166391167e6781c0d4625f)
 - [ ] [<code>Bump year in about dialog</code>](https://github.com/xfce-mirror/thunar/commit/dda9228aaf8355c90c11c34653e1919bda7b3ddf)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/ca6aaadfdbbb5e30427c5db8656dc149485f463a)
+  - <sub>Tags: <code>thunar-4.19.5</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/b94a2a3f035fe3d7edc8cc5d2c11cea20b925cb7)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1164,6 +1184,11 @@
   - <sub>Tags: <code>thunar-volman-4.19.0</code> <code>xfce-4.20pre1</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/fc5738c689a26c64540a5ee122b4feee27f03f0f)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar-volman/commit/e52e84702c4f4944ce9c58fbc9fba69fef49915b)
+  - <sub>Tags: <code>thunar-volman-4.19.1</code> <code>xfce-4.20pre2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/6927faf73304a2c38fa658d8a6bd0a4ed6c2f51b)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.18.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.18.0...HEAD)
@@ -1300,6 +1325,11 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6d78e65c22abee29099cd92f275a017f5c7d33c6)
 - [ ] [<code>Fix buffer overflow and leaks (#92)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/1230f790b3e16ab3cd42e0362498d42cf21b5dab)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/9883729bb9a6de2b56f6305f306f9bcb69c953c3)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-appfinder-4.19.4</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c6a1a294bec27a95d57bce2ea74fa2a1c6c049ee)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.18.0...HEAD)
 
@@ -1409,7 +1439,7 @@
 - [ ] [<code>Add libgspell-1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7e4d43e7906f7532999dd5992c1fdd4fda418a51)
 - [ ] [<code>xfce-do-release: Do not warn when using main instead of master</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7e51adb0818ad6f4e0b6e441f22e89dcdec7c6b7)
 - [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/aaaa112d3e3443fb216e2dd7f9bec622972d7d91)
-  - <sub>Tags: <code>xfce-4.20pre1</code> <code>xfce4-dev-tools-4.19.4</code></sub>
+  - <sub>Tags: <code>xfce-4.20pre1</code> <code>xfce-4.20pre2</code> <code>xfce4-dev-tools-4.19.4</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ab69a23e565252938d226fbf447a42f4452e99c0)
   - <sub>Files: <code>configure.ac</code></sub>
@@ -2016,6 +2046,11 @@
 - [ ] [<code>build: Bump libxfce4util version to 4.19.4</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e1630fae2030705645aaef2aa851f71c988727c9)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Remove all lingering Inhibitors when DBus connection is lost</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/0329b2919e69c63aebc08099300ef44f09e7cec7)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2c3cdd08d9e4898a615c623a2720965ff9a4c632)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-power-manager-4.19.5</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/113b5b1059e9ab5b8c948fa9d033b98982778414)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -2195,6 +2230,11 @@
 - [ ] [<code>wayland: Wait for VT switch for LightDM users before starting compositor</code>](https://github.com/xfce-mirror/xfce4-session/commit/268e2fc55372a6f02567fd2739d0ac8f2f155205)
 - [ ] [<code>Fix leak of reason messages from libSM</code>](https://github.com/xfce-mirror/xfce4-session/commit/a948b01bcb0066911881e3eb2f05aff3211c826e)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/c1011cc836608d719d2d542f2e293fc2baac8726)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-session/commit/20c28f812a468db1d2c194c0d29461f0fec61558)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-session-4.19.4</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/b8b9e93c3f252155d0a0916ea4563645ea19af96)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
@@ -2480,6 +2520,11 @@
 - [ ] [<code>mime: Fix argument string leaks</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f6269a40345749527b4ca2325e138d539573504c)
 - [ ] [<code>mime: Fix xfce_mime_helper_category_to_string leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/88b342762ec72adf2f9b0eb1078c757efed34bfc)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ae961f26ff4b88a2acacb5dfc3276d8a52fabd1b)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e49ca87408a4d234799edb30681c2bf0321bd2dc)
+  - <sub>Tags: <code>xfce4-settings-4.19.4</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e1e651d28c5e076bc26d62c3102c32b2e68c6825)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2571,6 +2616,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>tests: Fix D-Bus error reporting when xfconfd is not auto-started</code>](https://github.com/xfce-mirror/xfconf/commit/9c4ea6c1c4c5f67ef825a614faa06bb9f90d6e28)
 - [ ] [<code>Fix FakeGdkRGBA and FakeGdkColor leaks</code>](https://github.com/xfce-mirror/xfconf/commit/225d3c8979c4d2b3692603d58871b680ae3b23a1)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfconf/commit/8f9d673b363100a7642a3730b99c03800de40e0b)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfconf-4.19.5</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/6e13d2576b3c46b6b9f0f6ee4ad1b7f146ca77ec)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
@@ -3071,3 +3121,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>hints: Fix buffer overflow in XChangeProperty</code>](https://github.com/xfce-mirror/xfwm4/commit/39d3126680adab4409206cef0f1d575211195086)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/c06f6750acc0b794b8083f3c7001972c367e224d)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfwm4/commit/97ed527dee84a16c4e4086d56c167e6fe8c44cfb)
+  - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfwm4-4.19.1</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/a0fa5aa6eb373741f46a86c6213133a684856f7d)
+  - <sub>Files: <code>configure.ac</code></sub>
