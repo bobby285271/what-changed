@@ -784,6 +784,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ShadowEffect: Delay cache drop for switching shadow sizes performance improvements (#2061)</code>](https://github.com/elementary/gala/commit/74abd1ecd7cb5ce88116d810e74a5e0022ed8d68)
 - [ ] [<code>PanelClone: avoid using Timeout (#2015)</code>](https://github.com/elementary/gala/commit/5adb5544f06f9c06da295c2da600b1bf7570f93f)
+- [ ] [<code>X11: move dock window out of bounds when hidden (#2122)</code>](https://github.com/elementary/gala/commit/38778eb8d84a28cbd07c145a0d334ecafb668bd3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
