@@ -344,6 +344,7 @@
 - [ ] [<code>Store Sidebar Position (#424)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/566b7bd58ddaf989d5c55e686b6a076832b488c2)
 - [ ] [<code>Meson: add log domain (#425)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/99285717b2a08815020a25e263f4f528133f459c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Multitasking: add a switch for fullscreen hotcorners (#428)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d70a5ed10dae444b21d24df6d47f27aa4951ee4d)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.0...HEAD)
 
