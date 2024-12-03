@@ -170,7 +170,16 @@
 - [ ] [<code>endSessionDialog: Restyle the dialog (#12533)</code>](https://github.com/linuxmint/cinnamon/commit/e6012866dd3b74811a024aec6c38b4df26362ad8)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>dialogs: Allow easier keyboard navigation (#12537)</code>](https://github.com/linuxmint/cinnamon/commit/e9ab16456ca161e934c67b9c06a6095e89c21923)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>layout.js: Fix the work area for MonitorConstraint (#12543)</code>](https://github.com/linuxmint/cinnamon/commit/395a906f346c8741c952f2d274272552dadaab8c)
+- [ ] [<code>appletManager: Clean up a couple more modal dialogs (#12544)</code>](https://github.com/linuxmint/cinnamon/commit/1604bc890c82684731725d014a64d231d12e32ad)
+- [ ] [<code>polkitDialog: Support multi-user selection (#12541)</code>](https://github.com/linuxmint/cinnamon/commit/9945a8aca1550a19d377cdcb19f8addab994260e)
+- [ ] [<code>TreeListWidgets.py: Fix exception (#12546)</code>](https://github.com/linuxmint/cinnamon/commit/fdd3a888bf80375d1354c4b439dd2bc06b2b6d44)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/3a98d28849db2cbfc1af83d1cf318d2adca74864)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon/commit/ab0b401bf0dafe7d6e278dcb6a4b1cc7ffb132d8)
+  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -207,7 +216,9 @@
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add iso-codes as build-depends (#248)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/58c8a262307144658a2f477882751c941f41c0de)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9960d79d63f5539c274e3cd1bcabd7647ad3b783)
+  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
@@ -272,7 +283,9 @@
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "csd-media-keys: Show device description on volume OSD (#399)"</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/615a110c8e68a31e43bb8c657a7d50ca3a04810c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f251e735e11bbdc5a112e60f43feafe60c2ccb27)
+  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
@@ -301,23 +314,14 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.9...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.0...HEAD)
 
-- [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
-- [ ] [<code>cinnamon: Update thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/ca12a19f98df21516308c560512cb0709e78314e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.2.0</code>](https://github.com/linuxmint/mint-themes/commit/caada5b266f92b70ac84a5bf01fc2abb85bd4ca1)
-  - <sub>Tags: <code>2.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.8...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
-- [ ] [<code>Mint-Y-Sand: Soften place emblems a little bit</code>](https://github.com/linuxmint/mint-y-icons/commit/9dc8ae3133ba89a3713b11808730cca6e4583df3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-y-icons/commit/caf06be588292fdc9af2656eda2c8c77b92981f9)
-  - <sub>Tags: <code>1.7.9</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
@@ -335,6 +339,9 @@
 - [ ] [<code>Exposes monitor names (#706)</code>](https://github.com/linuxmint/muffin/commit/cc584a7c092bf44a5db407bee39f88fbbf8723d7)
 - [ ] [<code>Build: Update symbol file.</code>](https://github.com/linuxmint/muffin/commit/0042f04254e58ea5a5dd4e0fe9545055396171a5)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/muffin/commit/ad96ab1d06251b5f9299317e43ccf28fabad9e76)
+  - <sub>Tags: <code>6.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -374,6 +381,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix inhibit name so nemo's desktop file is discovered by cinnamon-</code>](https://github.com/linuxmint/nemo/commit/6ae2a897298ce0403fe8768c1dfc466a2f5e4133)
 - [ ] [<code>Remove unused libxml headers. (#3490)</code>](https://github.com/linuxmint/nemo/commit/9ad22e14b510f76ff6ab3c05dd49ed4cd94fbd5c)
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/nemo/commit/038925ce03f2541d4e0cebecd028e2d1ac92d7a4)
+  - <sub>Tags: <code>6.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-window-manage-views: fix null pointer dereference (#3492)</code>](https://github.com/linuxmint/nemo/commit/4e1d7f41d601d3cf695cc20824cbf2d54efbf818)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
@@ -480,6 +491,8 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.3 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.3...HEAD)
 
 - [ ] [<code>Added a way to install and uninstall a program in ALT Linux (#312)</code>](https://github.com/linuxmint/timeshift/commit/06a6a14946da8896a0456cd5988b8a8c10e471ad)
+- [ ] [<code>always have an config object (#371)</code>](https://github.com/linuxmint/timeshift/commit/85c6561eede6e165555c9e40d493737cf62c1a9d)
+- [ ] [<code>Update timeshift.appdata.xml (#356)</code>](https://github.com/linuxmint/timeshift/commit/1a7c1d9d9ea176d1738b71fd12f193ee5325496b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.7 → HEAD](https://github.com/linuxmint/xed/compare/3.6.7...HEAD)
@@ -488,7 +501,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>3.6.8</code>](https://github.com/linuxmint/xed/commit/ff6d51deb0261b9cc01f2a98b93739a54085d3c3)
-  - <sub>Tags: <code>3.6.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.6.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix and rename appdata file to metainfo (#668)</code>](https://github.com/linuxmint/xed/commit/935f4b204cae9dd2b720585aff7900ccf8e2a673)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>3.6.9</code>](https://github.com/linuxmint/xed/commit/e665d22faf0ce33a855e55c85973932434e87932)
+  - <sub>Tags: <code>3.6.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
