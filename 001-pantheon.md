@@ -184,6 +184,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>MetadataDateTime: Fix crash in fallback scanf code (#785)</code>](https://github.com/elementary/photos/commit/725ff6e4eb73af753de29d25fe9d622b7dc6d485)
 - [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
+- [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -195,6 +196,10 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/screenshot/commit/cdbd008944c2e29839fb99a60c82c6563ced7582)
 - [ ] [<code>Fix copy to clipboard (#285)</code>](https://github.com/elementary/screenshot/commit/2aeadad9ff142fb6235d76dcc004e8940f0efee1)
+- [ ] [<code>Release 8.0.1 (#291)</code>](https://github.com/elementary/screenshot/commit/cd594f353658ed4fd30629e7fe29e20a46de8b45)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 8.0.1 (#292)</code>](https://github.com/elementary/screenshot/commit/fa364dc1971239c05733721b7267bd9ac49b6dff)
+  - <sub>Tags: <code>8.0.1</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -379,6 +384,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add more dnd-* symlinks (#1327)</code>](https://github.com/elementary/icons/commit/50ed3626513647c277c323b4044e7ac49eb291b0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update placement of palette file, add support for local flatpack inst… (#1328)</code>](https://github.com/elementary/icons/commit/cf3540b017a108dde880149c877a48c0b56a605b)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -785,6 +791,9 @@
 - [ ] [<code>ShadowEffect: Delay cache drop for switching shadow sizes performance improvements (#2061)</code>](https://github.com/elementary/gala/commit/74abd1ecd7cb5ce88116d810e74a5e0022ed8d68)
 - [ ] [<code>PanelClone: avoid using Timeout (#2015)</code>](https://github.com/elementary/gala/commit/5adb5544f06f9c06da295c2da600b1bf7570f93f)
 - [ ] [<code>X11: move dock window out of bounds when hidden (#2122)</code>](https://github.com/elementary/gala/commit/38778eb8d84a28cbd07c145a0d334ecafb668bd3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 8.0.4 (#2123)</code>](https://github.com/elementary/gala/commit/30ab86838a1f666b864d3aa833afe8b292a7c0f3)
+  - <sub>Tags: <code>8.0.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
