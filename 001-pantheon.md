@@ -167,10 +167,14 @@
 - [ ] [<code>Use IconCollection (#60)</code>](https://github.com/elementary/iconbrowser/commit/8b2f93df66e76561c84a5903b33f303ad7798180)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>IconCollection: add mail-send-receive</code>](https://github.com/elementary/iconbrowser/commit/814c05701d5439af1f883af1200e1db456aaee45)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
 - [ ] [<code>Alias: Do not translate placeholder email address (#991)</code>](https://github.com/elementary/mail/commit/abf27cddedb6e9fa4e86365e86f0761d327891e3)
+- [ ] [<code>Drop old Soup support (#1000)</code>](https://github.com/elementary/mail/commit/b8584dd4de805e03640d37d65bc2092243c34ebb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -186,20 +190,8 @@
 - [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
 - [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
-- [ ] [<code>Use the portal (#284)</code>](https://github.com/elementary/screenshot/commit/87d7563f11cbae4788df58916e11d9c480382672)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Port to GTK4 (#240)</code>](https://github.com/elementary/screenshot/commit/8636e924c5b7ee9da1c9eb211f48e29f0d191659)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>master → main</code>](https://github.com/elementary/screenshot/commit/cdbd008944c2e29839fb99a60c82c6563ced7582)
-- [ ] [<code>Fix copy to clipboard (#285)</code>](https://github.com/elementary/screenshot/commit/2aeadad9ff142fb6235d76dcc004e8940f0efee1)
-- [ ] [<code>Release 8.0.1 (#291)</code>](https://github.com/elementary/screenshot/commit/cd594f353658ed4fd30629e7fe29e20a46de8b45)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 8.0.1 (#292)</code>](https://github.com/elementary/screenshot/commit/fa364dc1971239c05733721b7267bd9ac49b6dff)
-  - <sub>Tags: <code>8.0.1</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -457,6 +449,8 @@
 - [ ] [<code>Release 8.0.2 (#321)</code>](https://github.com/elementary/default-settings/commit/72a3cfcbc62e7172e935f4332e683b6acb43282f)
   - <sub>Tags: <code>8.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove gala overrides (#322)</code>](https://github.com/elementary/default-settings/commit/f5373e19da6584fa803c5be498292b532ffa0271)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [7.0.0 → HEAD](https://github.com/elementary/greeter/compare/7.0.0...HEAD)
 
@@ -796,6 +790,14 @@
 - [ ] [<code>Release 8.0.4 (#2123)</code>](https://github.com/elementary/gala/commit/30ab86838a1f666b864d3aa833afe8b292a7c0f3)
   - <sub>Tags: <code>8.0.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>HideTracker: Remove queued update in destructor (#2133)</code>](https://github.com/elementary/gala/commit/ce3389e3f9518a0df81f59eba2070cf7437bbb1f)
+- [ ] [<code>Fix compilation warnings (#2132)</code>](https://github.com/elementary/gala/commit/bb04c32aaf880122f5faa197ca2de7cc0fb2ccb1)
+- [ ] [<code>Use `panel-main-menu-action` to open applications menu (#2135)</code>](https://github.com/elementary/gala/commit/1e8c8802c5856bcdcfd094022f1afcbce7cee56f)
+- [ ] [<code>Move gala overrides here (#2136)</code>](https://github.com/elementary/gala/commit/11e080b188da7b26e9e51f7847bc40869a833f5e)
+- [ ] [<code>Revert "Fix autohide" (#2137)</code>](https://github.com/elementary/gala/commit/37e8c4d66b2c2a61c31d5e6d2db55cda2eb86771)
+- [ ] [<code>Shortcuts: Add an interactive screenshot shortcut (#2125)</code>](https://github.com/elementary/gala/commit/debdb5a4925429a1597d0bf2b3d2e61204a7e667)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Don't rely on environmental variable to determine session type (#2138)</code>](https://github.com/elementary/gala/commit/869996cd64377c3b578b57408d9157a0dbe8d222)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
