@@ -168,6 +168,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>IconCollection: add mail-send-receive</code>](https://github.com/elementary/iconbrowser/commit/814c05701d5439af1f883af1200e1db456aaee45)
+- [ ] [<code>Release 8.0.0 (#54)</code>](https://github.com/elementary/iconbrowser/commit/9adae472452ae588477bfd7e1ffe7a62ea57f8f4)
+  - <sub>Tags: <code>8.0.0</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
