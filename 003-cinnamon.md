@@ -385,7 +385,9 @@
   - <sub>Tags: <code>6.4.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-window-manage-views: fix null pointer dereference (#3492)</code>](https://github.com/linuxmint/nemo/commit/4e1d7f41d601d3cf695cc20824cbf2d54efbf818)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/nemo/commit/a2829fc8b5b228f5fac620c2dfa2b2112976e19e)
+  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
@@ -493,7 +495,9 @@
 - [ ] [<code>Added a way to install and uninstall a program in ALT Linux (#312)</code>](https://github.com/linuxmint/timeshift/commit/06a6a14946da8896a0456cd5988b8a8c10e471ad)
 - [ ] [<code>always have an config object (#371)</code>](https://github.com/linuxmint/timeshift/commit/85c6561eede6e165555c9e40d493737cf62c1a9d)
 - [ ] [<code>Update timeshift.appdata.xml (#356)</code>](https://github.com/linuxmint/timeshift/commit/1a7c1d9d9ea176d1738b71fd12f193ee5325496b)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>24.06.4</code>](https://github.com/linuxmint/timeshift/commit/8ebaed32b957a92601c8f8ecf4890277ffdcd84f)
+  - <sub>Tags: <code>24.06.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.6.7 → HEAD](https://github.com/linuxmint/xed/compare/3.6.7...HEAD)
 
