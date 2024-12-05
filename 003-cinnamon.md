@@ -12,6 +12,9 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.1...HEAD)
 
+- [ ] [<code>Fix crash when attempting to report an error in the UI with details (#12554)</code>](https://github.com/linuxmint/cinnamon/commit/fedb183510fc06c802837f20dbc67bb8504fa376)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.0...HEAD)
 
