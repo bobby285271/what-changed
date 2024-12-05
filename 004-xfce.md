@@ -3043,6 +3043,16 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc5fcd5778c8d51871a80154502f5843d9f7bb43)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>xfdesktop-file-utils: Unset custom window cursor</code>](https://github.com/xfce-mirror/xfdesktop/commit/cdfa753d73f217d912b85004dfed307a6187f791)
+- [ ] [<code>New default wallpaper for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/d3fd204879957103658c23dd33dd1fe663a14c5d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+- [ ] [<code>New wallpaper for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/0cb2c6989bb77e1e7cc3a9f7077615d443bc4a92)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>New wallpaper for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/a795f63fb247103010990a35e5cf9d4308101a33)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>New wallpaper for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/83838b1ffdddb129a5b0c2661cb89a1c4799ff8b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add license and author metadata to new Xfce-4.20 wallpapers</code>](https://github.com/xfce-mirror/xfdesktop/commit/86b6d00869c0cb2724e6c2c7999560c5f37d5499)
+- [ ] [<code>Updated backgrounds/README.md for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/bf46b2bf42ba1733561922474595b6a1b3272de9)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
