@@ -177,6 +177,9 @@
 - [ ] [<code>Drop old Soup support (#1000)</code>](https://github.com/elementary/mail/commit/b8584dd4de805e03640d37d65bc2092243c34ebb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AttachmentButton: Use Gtk.Gesture (#1001)</code>](https://github.com/elementary/mail/commit/29da72f11774c2b4aeaf326a93b22598523868f0)
+- [ ] [<code>MessageListItem: GTK4 prep (#1003)</code>](https://github.com/elementary/mail/commit/3bb609508e526e2c27fc6bb4a1c6377db4ed0fb6)
+- [ ] [<code>CI: bump webkit version (#1004)</code>](https://github.com/elementary/mail/commit/abbd45be8afa446ec384da6083c0a8960d60654c)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -239,6 +242,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/terminal/commit/fec38c9b82767ee791290b9999492da8502b8377)
 - [ ] [<code>Provide fallback directory for active shell under test (#810)</code>](https://github.com/elementary/terminal/commit/c6be203eafbfef154adf73460704a9af5a55112c)
+- [ ] [<code>Application: withdraw stale notifications (#813)</code>](https://github.com/elementary/terminal/commit/c5cfbcd2a1ce4aefa46001b094518ed1d157ef18)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -258,6 +262,8 @@
 - [ ] [<code>build: Fix build with fwupd 2.0.0 (#343)</code>](https://github.com/elementary/switchboard-plug-about/commit/6f8ba61cb3d82229e19358ede81b77f66dbb06a2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Scroll Padding (#345)</code>](https://github.com/elementary/switchboard-plug-about/commit/4057cb5c793b4833563893e9039e1d194d1b9008)
+- [ ] [<code>Plug: use Adw.ToolbarView (#346)</code>](https://github.com/elementary/switchboard-plug-about/commit/92fe7d9cc4179f13fd6ff90824eab5ac46a27e20)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
@@ -800,6 +806,7 @@
 - [ ] [<code>Shortcuts: Add an interactive screenshot shortcut (#2125)</code>](https://github.com/elementary/gala/commit/debdb5a4925429a1597d0bf2b3d2e61204a7e667)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Don't rely on environmental variable to determine session type (#2138)</code>](https://github.com/elementary/gala/commit/869996cd64377c3b578b57408d9157a0dbe8d222)
+- [ ] [<code>Wayland: start gnome-session-x11-services-ready.target (#2140)</code>](https://github.com/elementary/gala/commit/24b05bb41429b673aef6fd4fd5dba39ba5e4b739)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
