@@ -138,6 +138,7 @@
 - [ ] [<code>meson: Specify minimum GLib version (#306)</code>](https://github.com/elementary/dock/commit/3a7fc6630ac4c2513307f21774211ab85d0bf24a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add spacing between icon and running indicator (#329)</code>](https://github.com/elementary/dock/commit/485fc0ba925d8e9c27124ef9cd603352657e873d)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -194,6 +195,7 @@
 - [ ] [<code>MetadataDateTime: Fix crash in fallback scanf code (#785)</code>](https://github.com/elementary/photos/commit/725ff6e4eb73af753de29d25fe9d622b7dc6d485)
 - [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
 - [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
+- [ ] [<code>Fix panning zoomed images on Wayland (#790)</code>](https://github.com/elementary/photos/commit/99f584b9345999a75b070f8e0e7f7e555af58b1c)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
