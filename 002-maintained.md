@@ -419,6 +419,7 @@
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
 - [ ] [<code>update styles</code>](https://github.com/alainm23/planify/commit/833eb5eeb3a35492bc6fb2f69242a70822ddc852)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/91c4a79a07d98c5b412de23eae314252ce5b26b4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
