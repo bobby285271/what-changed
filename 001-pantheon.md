@@ -245,6 +245,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/terminal/commit/fec38c9b82767ee791290b9999492da8502b8377)
 - [ ] [<code>Provide fallback directory for active shell under test (#810)</code>](https://github.com/elementary/terminal/commit/c6be203eafbfef154adf73460704a9af5a55112c)
 - [ ] [<code>Application: withdraw stale notifications (#813)</code>](https://github.com/elementary/terminal/commit/c5cfbcd2a1ce4aefa46001b094518ed1d157ef18)
+- [ ] [<code>Enhance unsafe detection (#800)</code>](https://github.com/elementary/terminal/commit/e1a34f7c6677a8f2208f2416a9febde8277360e3)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -809,6 +810,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Don't rely on environmental variable to determine session type (#2138)</code>](https://github.com/elementary/gala/commit/869996cd64377c3b578b57408d9157a0dbe8d222)
 - [ ] [<code>Wayland: start gnome-session-x11-services-ready.target (#2140)</code>](https://github.com/elementary/gala/commit/24b05bb41429b673aef6fd4fd5dba39ba5e4b739)
+- [ ] [<code>X11: Use window shape to fix input for invisible windows (#2142)</code>](https://github.com/elementary/gala/commit/4850f1b0f6fef25175aaf8f44ce7770c874c191e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
