@@ -41,11 +41,8 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f1900facf915715623ef0ca2874ae4dd04039e81 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f1900facf915715623ef0ca2874ae4dd04039e81...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
-- [ ] [<code>cinnamon: Remove incomplete runDialog styling in Mint-L</code>](https://github.com/linuxmint/mint-l-theme/commit/63aee1595664f06657d62b7928996ce4627e6578)
-- [ ] [<code>1.9.9</code>](https://github.com/linuxmint/mint-l-theme/commit/33d28b0567181bae101dd909210c940bb98b5863)
-  - <sub>Tags: <code>1.9.9</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.0...HEAD)
 
