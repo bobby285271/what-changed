@@ -812,6 +812,9 @@
 - [ ] [<code>Wayland: start gnome-session-x11-services-ready.target (#2140)</code>](https://github.com/elementary/gala/commit/24b05bb41429b673aef6fd4fd5dba39ba5e4b739)
 - [ ] [<code>X11: Use window shape to fix input for invisible windows (#2142)</code>](https://github.com/elementary/gala/commit/4850f1b0f6fef25175aaf8f44ce7770c874c191e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Introduce a GesturePropertyTransition (#2074)</code>](https://github.com/elementary/gala/commit/58e5b428352a79455b4cf878715065862c0557cb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use WindowPositioner for panel positions (#2109)</code>](https://github.com/elementary/gala/commit/9d0e3520fc73d444cea98f674f00f8d2a0c28923)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -984,6 +987,8 @@
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/6e142c1d31ed4a77403f60ca2fec00ca597a282c)
+- [ ] [<code>Add version annotation to Granite.Bin (#740)</code>](https://github.com/elementary/granite/commit/553c3172ed73dd59ab3fb79ce53c0226106a24f1)
+  - <sub>Keywords: <code>bin</code></sub>
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
