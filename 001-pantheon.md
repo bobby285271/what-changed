@@ -6,6 +6,7 @@
 - [ ] [<code>Add support for new developer id (#2203)</code>](https://github.com/elementary/appcenter/commit/a47c0c1e5b74525a5916cefffffec1f5c03bbd94)
 - [ ] [<code>Silence some minor compile warnings (#2211)</code>](https://github.com/elementary/appcenter/commit/8816fde16f317640eb44dbc914ee4e7f5bd63a59)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#2217)</code>](https://github.com/elementary/appcenter/commit/a08b690c3e31e9f3b7edc443a1569bf057253cf5)
+- [ ] [<code>Filter screenshot by environment (#2225)</code>](https://github.com/elementary/appcenter/commit/5e99390a6c2abfb0fd131a9937fc0c4864c349aa)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -139,6 +140,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add spacing between icon and running indicator (#329)</code>](https://github.com/elementary/dock/commit/485fc0ba925d8e9c27124ef9cd603352657e873d)
+- [ ] [<code>Fix icons clipping when bouncing and separate background from window (#328)</code>](https://github.com/elementary/dock/commit/662e310fdb32fb813f2fdad1e770d6b89bc37064)
+- [ ] [<code>Dock: add 8.0.2 metainfo (#332)</code>](https://github.com/elementary/dock/commit/8b2120df53ff03c581248f334df1c10b3d191e96)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -246,6 +249,9 @@
 - [ ] [<code>Provide fallback directory for active shell under test (#810)</code>](https://github.com/elementary/terminal/commit/c6be203eafbfef154adf73460704a9af5a55112c)
 - [ ] [<code>Application: withdraw stale notifications (#813)</code>](https://github.com/elementary/terminal/commit/c5cfbcd2a1ce4aefa46001b094518ed1d157ef18)
 - [ ] [<code>Enhance unsafe detection (#800)</code>](https://github.com/elementary/terminal/commit/e1a34f7c6677a8f2208f2416a9febde8277360e3)
+- [ ] [<code>Metainfo: update 6.3.0 release notes (#817)</code>](https://github.com/elementary/terminal/commit/2e4f308a6d2b15fb75e965c2753a959d95f5af00)
+- [ ] [<code>Add tab to new window created with <Shift><Ctrl>N (#816)</code>](https://github.com/elementary/terminal/commit/c2852a53c827c083a4a20e801cd9c6edf86c6e01)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -267,6 +273,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Scroll Padding (#345)</code>](https://github.com/elementary/switchboard-plug-about/commit/4057cb5c793b4833563893e9039e1d194d1b9008)
 - [ ] [<code>Plug: use Adw.ToolbarView (#346)</code>](https://github.com/elementary/switchboard-plug-about/commit/92fe7d9cc4179f13fd6ff90824eab5ac46a27e20)
+- [ ] [<code>Show sponsor goal progress bar (#347)</code>](https://github.com/elementary/switchboard-plug-about/commit/6f0efc914fa8da6ac225f338fb969bc73ffd238d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
