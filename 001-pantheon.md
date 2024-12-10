@@ -7,6 +7,9 @@
 - [ ] [<code>Silence some minor compile warnings (#2211)</code>](https://github.com/elementary/appcenter/commit/8816fde16f317640eb44dbc914ee4e7f5bd63a59)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#2217)</code>](https://github.com/elementary/appcenter/commit/a08b690c3e31e9f3b7edc443a1569bf057253cf5)
 - [ ] [<code>Filter screenshot by environment (#2225)</code>](https://github.com/elementary/appcenter/commit/5e99390a6c2abfb0fd131a9937fc0c4864c349aa)
+- [ ] [<code> Made issue_box widget a grid (#2227)</code>](https://github.com/elementary/appcenter/commit/be2fb50b617e609b12f7e6c1713e70d446e49467)
+- [ ] [<code>Parse all branding colors from appstream (#2226)</code>](https://github.com/elementary/appcenter/commit/e0641dc2cae271e8f966fe8afa3c0f423b4b202b)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/3f7e6aa35f3550c7fb864f7fb4bed620e015c323)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -824,6 +827,7 @@
 - [ ] [<code>Introduce a GesturePropertyTransition (#2074)</code>](https://github.com/elementary/gala/commit/58e5b428352a79455b4cf878715065862c0557cb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use WindowPositioner for panel positions (#2109)</code>](https://github.com/elementary/gala/commit/9d0e3520fc73d444cea98f674f00f8d2a0c28923)
+- [ ] [<code>WindowClone: Layout in allocate virtual (#2082)</code>](https://github.com/elementary/gala/commit/903bc3fd776b4f20d9e6377db034356c54f1a9a6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
