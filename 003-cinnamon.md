@@ -60,6 +60,8 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
+- [ ] [<code>Update Visual Studio Code and Visual Studio Code Insiders icons (#448)</code>](https://github.com/linuxmint/mint-y-icons/commit/7d589356396527ab445928e85639aad0452b174a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
