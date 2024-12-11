@@ -256,6 +256,9 @@
 - [ ] [<code>Metainfo: update 6.3.0 release notes (#817)</code>](https://github.com/elementary/terminal/commit/2e4f308a6d2b15fb75e965c2753a959d95f5af00)
 - [ ] [<code>Add tab to new window created with <Shift><Ctrl>N (#816)</code>](https://github.com/elementary/terminal/commit/c2852a53c827c083a4a20e801cd9c6edf86c6e01)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Release 6.3.0 (#805)</code>](https://github.com/elementary/terminal/commit/b6ef92a8dc17b6d225bb06ff1dd29a7cd50f5f1f)
+  - <sub>Tags: <code>6.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
