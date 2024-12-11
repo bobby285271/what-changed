@@ -145,6 +145,7 @@
 - [ ] [<code>Add spacing between icon and running indicator (#329)</code>](https://github.com/elementary/dock/commit/485fc0ba925d8e9c27124ef9cd603352657e873d)
 - [ ] [<code>Fix icons clipping when bouncing and separate background from window (#328)</code>](https://github.com/elementary/dock/commit/662e310fdb32fb813f2fdad1e770d6b89bc37064)
 - [ ] [<code>Dock: add 8.0.2 metainfo (#332)</code>](https://github.com/elementary/dock/commit/8b2120df53ff03c581248f334df1c10b3d191e96)
+- [ ] [<code>MainWindow: respect reduce transparency key (#333)</code>](https://github.com/elementary/dock/commit/fba1c761261b109b8718f0334318aa6ab139383b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -325,6 +326,14 @@
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/2fbd1dfad0b35c912ab16cfad0ef5d9d9898d16f)
+- [ ] [<code>InfoBox: add metered data switch (#414)</code>](https://github.com/elementary/switchboard-plug-network/commit/e2b69117cc620b4e58616da87015519659d05f38)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#417)</code>](https://github.com/elementary/switchboard-plug-network/commit/928cad7b4b48dca07ec8bf49e3ce02fa94b43c52)
+- [ ] [<code>WifiPage: create settings dialog (#413)</code>](https://github.com/elementary/switchboard-plug-network/commit/af0368ebbfc4852e24ddfdff1ec053a8dd165c82)
+- [ ] [<code>WifiMenuItem: manage own button box (#418)</code>](https://github.com/elementary/switchboard-plug-network/commit/096d829bddd02eb311a0669307cb0c127c6d945b)
+- [ ] [<code>InfoBox: add auto connect switch (#416)</code>](https://github.com/elementary/switchboard-plug-network/commit/12fac8e8bda664904a2e5149ad69d19b23196715)
+- [ ] [<code>WifiPage: update listbox with list model (#419)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fac115aedb480e09eb89d48620b22b3312ba822)
+- [ ] [<code>Revert "WifiPage: update listbox with list model (#419)" (#420)</code>](https://github.com/elementary/switchboard-plug-network/commit/52ef4e9afb280f6aaf8e2ebee41bb29d073a0221)
+- [ ] [<code>InfoBox: remove extra margins and align (#421)</code>](https://github.com/elementary/switchboard-plug-network/commit/1cb7e66b11c11f6c636adbcfd7a5ea514c5f910b)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -401,6 +410,7 @@
 - [ ] [<code>Add more dnd-* symlinks (#1327)</code>](https://github.com/elementary/icons/commit/50ed3626513647c277c323b4044e7ac49eb291b0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update placement of palette file, add support for local flatpack inst… (#1328)</code>](https://github.com/elementary/icons/commit/cf3540b017a108dde880149c877a48c0b56a605b)
+- [ ] [<code>Actions: Match `tool-pointer` and `tool-node-editor` to new cursor shapes (#1329)</code>](https://github.com/elementary/icons/commit/3aa99e1ea7a90db14163c13cdf57b0710b794104)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -553,6 +563,7 @@
 - [ ] [<code>MainWindow: center with shell protocol (#248)</code>](https://github.com/elementary/onboarding/commit/80402d61930e32c4a68fe3acaae7fb79fd97a9ad)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>8.0.3 release notes (#250)</code>](https://github.com/elementary/onboarding/commit/c3659fd5c74b3fd248aeac510763f8490ee7978e)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1044,6 +1055,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Fix build with fwupd 2.0.0 (#169)</code>](https://github.com/elementary/settings-daemon/commit/f9f9e6c49ef89451ad45aa8314769a0358a5e481)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>8.1.1 release notes (#171)</code>](https://github.com/elementary/settings-daemon/commit/32b58a2d01ea43b77a33b9d81e1a166f03d17557)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
