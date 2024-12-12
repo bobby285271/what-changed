@@ -3053,6 +3053,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add license and author metadata to new Xfce-4.20 wallpapers</code>](https://github.com/xfce-mirror/xfdesktop/commit/86b6d00869c0cb2724e6c2c7999560c5f37d5499)
 - [ ] [<code>Updated backgrounds/README.md for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/bf46b2bf42ba1733561922474595b6a1b3272de9)
+- [ ] [<code>Update POTFILES.in</code>](https://github.com/xfce-mirror/xfdesktop/commit/b39b6e0c397966b9aceb5b9f99ab18aec415f944)
+- [ ] [<code>Fix incorrect format passed to gtk_selection_data_set()</code>](https://github.com/xfce-mirror/xfdesktop/commit/4ee099ec272ccfc4667d14562db15115009da104)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
