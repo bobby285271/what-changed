@@ -26,7 +26,10 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.1...HEAD)
 
 - [ ] [<code>debian/control: Add colord dependency.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9ad239e64d87e89446abafe0d96bb757ce596ea0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dc0679ecbd0d4103356ab9129b0adae67fc8b483)
+  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
@@ -64,6 +67,10 @@
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
 - [ ] [<code>Update Visual Studio Code and Visual Studio Code Insiders icons (#448)</code>](https://github.com/linuxmint/mint-y-icons/commit/7d589356396527ab445928e85639aad0452b174a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix broken links (#449)</code>](https://github.com/linuxmint/mint-y-icons/commit/0091b17151d022e07ef5a21ae34459e4d61dad9e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Scratch and Notion icons (#451)</code>](https://github.com/linuxmint/mint-y-icons/commit/b032f2635a8c1b99c7d80070a82cb26ac3c70cc1)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
@@ -117,12 +124,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.7...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.8...HEAD)
 
-- [ ] [<code>Fix for Issue #348 - Xstream config erroring out on load (#359)</code>](https://github.com/linuxmint/hypnotix/commit/fc5183d71da095407fcae62a81fc924a7c35a77a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.8</code>](https://github.com/linuxmint/hypnotix/commit/62aacf3d5a99dd50b2fa382611595cfa790a4e6f)
-  - <sub>Tags: <code>4.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
 
@@ -144,7 +147,9 @@
   - <sub>Tags: <code>3.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add 'xed' to the desktop file keywords.</code>](https://github.com/linuxmint/xed/commit/55f4c058e355e2697401507e3412b0bab2adfa1b)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.8.1</code>](https://github.com/linuxmint/xed/commit/7f2d6c542dc3c2077c4ccb32f342c0b1f7c1276b)
+  - <sub>Tags: <code>3.8.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
