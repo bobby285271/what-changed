@@ -10,6 +10,7 @@
 - [ ] [<code> Made issue_box widget a grid (#2227)</code>](https://github.com/elementary/appcenter/commit/be2fb50b617e609b12f7e6c1713e70d446e49467)
 - [ ] [<code>Parse all branding colors from appstream (#2226)</code>](https://github.com/elementary/appcenter/commit/e0641dc2cae271e8f966fe8afa3c0f423b4b202b)
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/3f7e6aa35f3550c7fb864f7fb4bed620e015c323)
+- [ ] [<code>Update 8.0.1 release notes (#2228)</code>](https://github.com/elementary/appcenter/commit/56593d9b52cacf87a9cff9347bc5863e551ff640)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -290,6 +291,7 @@
 - [ ] [<code>Meson: add log domain (#250)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ca9b762f72c4dc96cad757d6d167d9b03757f571)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add 8.0.2 release notes</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/afb8b0daa53f2ca21ab4a9f9455c73e6c2c9345e)
+- [ ] [<code>Update pointer icons (#252)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/0b79b8a6564b886b95af6e9d787014b38db50607)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
 
