@@ -11,6 +11,10 @@
 - [ ] [<code>Parse all branding colors from appstream (#2226)</code>](https://github.com/elementary/appcenter/commit/e0641dc2cae271e8f966fe8afa3c0f423b4b202b)
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/3f7e6aa35f3550c7fb864f7fb4bed620e015c323)
 - [ ] [<code>Update 8.0.1 release notes (#2228)</code>](https://github.com/elementary/appcenter/commit/56593d9b52cacf87a9cff9347bc5863e551ff640)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/appcenter/commit/61d94eea99f62a14fd880e312406b5db3a627438)
+- [ ] [<code>Release 8.0.1 (#2229)</code>](https://github.com/elementary/appcenter/commit/c2f628521bc7c6cca1d06840e2e2d562406d174b)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -147,6 +151,9 @@
 - [ ] [<code>Fix icons clipping when bouncing and separate background from window (#328)</code>](https://github.com/elementary/dock/commit/662e310fdb32fb813f2fdad1e770d6b89bc37064)
 - [ ] [<code>Dock: add 8.0.2 metainfo (#332)</code>](https://github.com/elementary/dock/commit/8b2120df53ff03c581248f334df1c10b3d191e96)
 - [ ] [<code>MainWindow: respect reduce transparency key (#333)</code>](https://github.com/elementary/dock/commit/fba1c761261b109b8718f0334318aa6ab139383b)
+- [ ] [<code>Release 8.0.2 (#338)</code>](https://github.com/elementary/dock/commit/d4644efec01e47ddd13a640c75fdc1179832304e)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.0 → HEAD](https://github.com/elementary/feedback/compare/8.0.0...HEAD)
 
@@ -161,28 +168,8 @@
 - [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
 - [ ] [<code>Ensure scroll controller only active when `<Control>` pressed (#2513)</code>](https://github.com/elementary/files/commit/71c03d1af463e9dc009b2fc3b993d40659d4abcd)
 
-#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [2.2.0 → HEAD](https://github.com/elementary/iconbrowser/compare/2.2.0...HEAD)
+#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
-- [ ] [<code>AppData: Add translation info (#47)</code>](https://github.com/elementary/iconbrowser/commit/467fb46cfdfeb26350678e043bbf049db400a1c9)
-- [ ] [<code>Bump actions/checkout from 3 to 4 (#48)</code>](https://github.com/elementary/iconbrowser/commit/890e610fdd9ab56c2981ad026775af0971d9c48f)
-- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#49)</code>](https://github.com/elementary/iconbrowser/commit/8b7e9cb4b6216e221b61a8abfc71aa268b25aacd)
-- [ ] [<code>CI: Use flatpak gettext action</code>](https://github.com/elementary/iconbrowser/commit/46cb0c3a5a5cc5ab041491837462a48fecdfbd9d)
-- [ ] [<code>appdata: Use newer, non-deprecated developer tag</code>](https://github.com/elementary/iconbrowser/commit/395b73521e5750367f369852cba2be7581b7b2d7)
-- [ ] [<code>Flatpak: bump platform to 8 (#51)</code>](https://github.com/elementary/iconbrowser/commit/4fc1d6732675af0247755ba3b048909e6985ab15)
-- [ ] [<code>CategoryView: update list with additions and removals for platform 8 (#53)</code>](https://github.com/elementary/iconbrowser/commit/3a9373c51b4705d10198e9573ec224697ebc35d9)
-- [ ] [<code>Metainfo: add 8 release notes (#52)</code>](https://github.com/elementary/iconbrowser/commit/2cce829672d843b8836f4e3f53ae9ee11214cf28)
-- [ ] [<code>Application: Replace Gtk.Window.present_with_time with present (#55)</code>](https://github.com/elementary/iconbrowser/commit/eb842ee7829b25df88a6e97710dde3bc7e1c9c67)
-- [ ] [<code>Add button to copy code snippet (#56)</code>](https://github.com/elementary/iconbrowser/commit/353d8b2254fa7256da11d6c23c80c7a8d8b559da)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update MainWindow.vala (#57)</code>](https://github.com/elementary/iconbrowser/commit/e93ca4218d0ecbbc3affd9dea7186b9fa9072c61)
-- [ ] [<code>Update iconbrowser.appdata.xml.in</code>](https://github.com/elementary/iconbrowser/commit/d199d86df4d8f0c8d0929fe9ea68b0aff7f174ea)
-- [ ] [<code>Use IconCollection (#60)</code>](https://github.com/elementary/iconbrowser/commit/8b2f93df66e76561c84a5903b33f303ad7798180)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>IconCollection: add mail-send-receive</code>](https://github.com/elementary/iconbrowser/commit/814c05701d5439af1f883af1200e1db456aaee45)
-- [ ] [<code>Release 8.0.0 (#54)</code>](https://github.com/elementary/iconbrowser/commit/9adae472452ae588477bfd7e1ffe7a62ea57f8f4)
-  - <sub>Tags: <code>8.0.0</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -248,6 +235,10 @@
 - [ ] [<code>Show sponsor goal progress bar (#347)</code>](https://github.com/elementary/switchboard-plug-about/commit/6f0efc914fa8da6ac225f338fb969bc73ffd238d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-about/commit/f1c8e4f3ec6b8c9a05e9adc2bfbf9bbee4af9685)
+- [ ] [<code>Release 8.1.0 (#354)</code>](https://github.com/elementary/switchboard-plug-about/commit/f688445cf9ea4f08b061b0df9d5f8065239df050)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
@@ -257,6 +248,10 @@
 - [ ] [<code>Meson: add log domain (#241)</code>](https://github.com/elementary/switchboard-plug-applications/commit/82342454ff428a33eae9863da3f0577765a19c56)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-applications/commit/96241c291b1dd225505d308a7dbd2519b3570fd2)
+- [ ] [<code>Release 8.1.0 (#246)</code>](https://github.com/elementary/switchboard-plug-applications/commit/718ebc652ec548645ac4f12e0705bd68fc90636b)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/dd6c2544ef7f6a64db8d9e2f42ec4d9df33b3a54)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
@@ -357,6 +352,10 @@
 - [ ] [<code>Meson: add log domain (#180)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3477801411c1cfa5555dd47f1911ae19b1f9bf76)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>metainfo: add 8.0.1 release notes (#181)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ce73f329bf823a65cffe77a61c20a423bb487151)
+- [ ] [<code>Release 8.0.1 (#182)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7edc6196c1a418e3fba611ae4ee22f086196ec06)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/133b4f0c112b332a527b18a55e38a7f5cdbc5a62)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.0...HEAD)
 
@@ -543,6 +542,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>8.0.3 release notes (#250)</code>](https://github.com/elementary/onboarding/commit/c3659fd5c74b3fd248aeac510763f8490ee7978e)
+- [ ] [<code>Release 8.0.3 (#251)</code>](https://github.com/elementary/onboarding/commit/f59166dab0e20855624a5f7d2ebcb9838ae6dca0)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -819,6 +821,10 @@
 - [ ] [<code>Use WindowPositioner for panel positions (#2109)</code>](https://github.com/elementary/gala/commit/9d0e3520fc73d444cea98f674f00f8d2a0c28923)
 - [ ] [<code>WindowClone: Layout in allocate virtual (#2082)</code>](https://github.com/elementary/gala/commit/903bc3fd776b4f20d9e6377db034356c54f1a9a6)
 - [ ] [<code>Fix crash when using tiling shortcuts (#2040)</code>](https://github.com/elementary/gala/commit/0442e967962b18c91e2241e334b15cab0f8d7106)
+- [ ] [<code>HideTracker: Use custom window rect for overlap calculation (#2162)</code>](https://github.com/elementary/gala/commit/74f91ae8fb37473fe170fc92723cb2af0c86c242)
+- [ ] [<code>Fix cancelling workspace switch gesture (#2148)</code>](https://github.com/elementary/gala/commit/32a5f354d7e76033757a49cb5955f7bfabfe3277)
+- [ ] [<code>Fix cancelling gesture in multitasking view (#2149)</code>](https://github.com/elementary/gala/commit/779ff1886eae5daa7247a09215b299aaa9a25159)
+- [ ] [<code>WindowClone: Fix invisible if shown while Multitasking view is open (#2152)</code>](https://github.com/elementary/gala/commit/c1642041bafc8f3b3dc00be7a775a4ae8bbbd543)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1040,6 +1046,9 @@
 - [ ] [<code>build: Fix build with fwupd 2.0.0 (#169)</code>](https://github.com/elementary/settings-daemon/commit/f9f9e6c49ef89451ad45aa8314769a0358a5e481)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>8.1.1 release notes (#171)</code>](https://github.com/elementary/settings-daemon/commit/32b58a2d01ea43b77a33b9d81e1a166f03d17557)
+- [ ] [<code>Release 8.1.1 (#172)</code>](https://github.com/elementary/settings-daemon/commit/b70a1f353d7827a8950b648535dd6920292223ae)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
