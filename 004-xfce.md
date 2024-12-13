@@ -302,6 +302,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/42500250918c6b9bd200f3dfc39ae157d43dd8d3)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Update active contributors for 4.20</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ad32310e4e2039c6a4fc1a917210c5b05dfedd74)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
