@@ -23,14 +23,8 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.1...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.2...HEAD)
 
-- [ ] [<code>debian/control: Add colord dependency.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9ad239e64d87e89446abafe0d96bb757ce596ea0)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dc0679ecbd0d4103356ab9129b0adae67fc8b483)
-  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
@@ -50,16 +44,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.0...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.1...HEAD)
 
-- [ ] [<code>cinnamon: Add shadows around popupmenus</code>](https://github.com/linuxmint/mint-themes/commit/0c8c41a9490af0976e510ae51f8d1499d2cc0928)
-- [ ] [<code>cinnamon: Add a border around focused dialog buttons</code>](https://github.com/linuxmint/mint-themes/commit/745fef50b963da2ceb9c3ef6993b68d897e287fe)
-- [ ] [<code>cinnamon: Improve dialog button borders</code>](https://github.com/linuxmint/mint-themes/commit/b67ad788a27808327e93d3ebd6cf8a66155709fc)
-- [ ] [<code>cinnamon: Add styling for entry hint text and password peek icon</code>](https://github.com/linuxmint/mint-themes/commit/48d451fe67d7d175b9667e843f81a838a7d3e4ae)
-- [ ] [<code>cinnamon: Add styling for endSession dialog lists and items</code>](https://github.com/linuxmint/mint-themes/commit/53c70ba3a9601d61518c18f1cde4fffe4315a861)
-- [ ] [<code>cinnamon: Remove incomplete runDialog styling in Mint-X</code>](https://github.com/linuxmint/mint-themes/commit/b0898dd36ce190480db851ee3dc2d66be2ccc5f5)
-- [ ] [<code>2.2.1</code>](https://github.com/linuxmint/mint-themes/commit/7477ad0d57dcfacf6125341bcf9cb26197381d4f)
-  - <sub>Tags: <code>2.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
