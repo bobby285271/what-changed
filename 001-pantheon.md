@@ -1009,6 +1009,14 @@
 - [ ] [<code>Install into libexecdir instead of bindir (#36)</code>](https://github.com/elementary/contractor/commit/90056888997d50e5638ba7f254ecf580ea0c6a2c)
   - <sub>Files: <code>meson.build</code></sub>
 
+#### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.0.0 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.0.0...HEAD)
+
+- [ ] [<code>Bluetooth in the title case (#19)</code>](https://github.com/elementary/bluetooth-daemon/commit/948dd806679b4cc8a8c4f0d4d33abf197ac27790)
+- [ ] [<code>Metainfo: add 1.0.1 release notes (#22)</code>](https://github.com/elementary/bluetooth-daemon/commit/25d08d98049416e7466035619f69d27d0ecb2792)
+- [ ] [<code>Release 1.0.1 (#23)</code>](https://github.com/elementary/bluetooth-daemon/commit/9d6fdea5b7f9c27a66a7fd9e25a1230338485d65)
+  - <sub>Tags: <code>1.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.0...HEAD)
 
 - [ ] [<code>Metainfo: fix typo in brand color</code>](https://github.com/elementary/capnet-assist/commit/fcdf388081146e0a67b014cc5b9b71c703f99be0)
