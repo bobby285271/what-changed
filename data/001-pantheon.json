@@ -216,6 +216,9 @@
             "attr_path": "pantheon.contractor"
         },
         {
+            "attr_path": "pantheon.elementary-bluetooth-daemon"
+        },
+        {
             "attr_path": "pantheon.elementary-capnet-assist"
         },
         {
