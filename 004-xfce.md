@@ -2526,6 +2526,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e1e651d28c5e076bc26d62c3102c32b2e68c6825)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>xfsettingsd: Fix ushort and ulong types on FreeBSD</code>](https://github.com/xfce-mirror/xfce4-settings/commit/498332235efffe948e0a400664153216b9cb20e2)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
