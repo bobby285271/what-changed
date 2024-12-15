@@ -55,6 +55,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/8158a25328830dd9ce0481fcd04e90b394f3311c)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/exo/commit/6157f1ba3a9cd1347458c16d90d152d9e4ca4aa9)
+  - <sub>Tags: <code>exo-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/18cf3640e6128eeaeaa02b66dc856e250e6bde1b)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.18.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.18.0...HEAD)
 
@@ -126,6 +131,11 @@
   - <sub>Tags: <code>garcon-4.19.3</code> <code>xfce-4.20pre2</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/d655472bfb24b40e1b843c129c9bebde92ccff1a)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/garcon/commit/16e9e527161aaf09d2756b5e318df58b53116aeb)
+  - <sub>Tags: <code>garcon-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/aef16fdc70464f1bc3479cedad15b0f18fef709d)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
@@ -303,6 +313,11 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/42500250918c6b9bd200f3dfc39ae157d43dd8d3)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Update active contributors for 4.20</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ad32310e4e2039c6a4fc1a917210c5b05dfedd74)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/edfb542a54421c2403cfc88a85a7207495f54578)
+  - <sub>Tags: <code>libxfce4ui-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6ad285b6cc4e49835466a8a80dc028df94c7493a)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
@@ -396,6 +411,11 @@
   - <sub>Tags: <code>libxfce4util-4.19.5</code> <code>xfce-4.20pre2</code></sub>
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/14e6e752fe403d1dc70314991bf6cc9faef87917)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4util/commit/55342a8da4e0cb594e1bdfacf9c3a16d50cbd17b)
+  - <sub>Tags: <code>libxfce4util-4.20.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/d4609b0f78f697f0f3490aa995f2c7ef3d490fad)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
@@ -625,6 +645,11 @@
   - <sub>Tags: <code>libxfce4windowing-4.19.10</code> <code>xfce-4.20pre2</code></sub>
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/539e01c47289c954fbb39606a6e2ddd07dca35b2)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/302d019d4c5c814e6898dab27c7536d05bd223bb)
+  - <sub>Tags: <code>libxfce4windowing-4.20.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b730054aae0856db8bb2ed4ac656465ca1dcce66)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
@@ -1159,6 +1184,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/b94a2a3f035fe3d7edc8cc5d2c11cea20b925cb7)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/d092c744055d2b49c675e1240add026dfb9727a3)
+  - <sub>Tags: <code>thunar-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/a791f6a37851647c9bbfe79f031776a1732699c7)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1190,6 +1220,11 @@
   - <sub>Tags: <code>thunar-volman-4.19.1</code> <code>xfce-4.20pre2</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/6927faf73304a2c38fa658d8a6bd0a4ed6c2f51b)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar-volman/commit/f8666b679b3e12276fd6bf8f65d45982ebf99f82)
+  - <sub>Tags: <code>thunar-volman-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/f3ebceecc95022c2d9011505fe0124de37bfe02e)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.18.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.18.0...HEAD)
@@ -1265,6 +1300,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/608ca84363ee0f0ad7613a1a7b0cec930a6618b1)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/tumbler/commit/1e93ebb1e17318311ff3ecde93d91b60e18a4853)
+  - <sub>Tags: <code>tumbler-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/fd287fcb8947d23a94277dddf67648f087f17423)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.18.0...HEAD)
 
@@ -1330,6 +1370,11 @@
   - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-appfinder-4.19.4</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c6a1a294bec27a95d57bce2ea74fa2a1c6c049ee)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/a96aaffd0ac036a5f13321accbc202bc820bfd1f)
+  - <sub>Tags: <code>xfce4-appfinder-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/bf60d0f0087abf05dcc34472c8ca65e9f83f778d)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.18.0...HEAD)
@@ -1443,6 +1488,11 @@
   - <sub>Tags: <code>xfce-4.20pre1</code> <code>xfce-4.20pre2</code> <code>xfce4-dev-tools-4.19.4</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ab69a23e565252938d226fbf447a42f4452e99c0)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/127d0abd88f3759fca8f6126460465910d24085d)
+  - <sub>Tags: <code>xfce4-dev-tools-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/69da7e7919b4524fc73ec646614d06290522f1d1)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
@@ -1805,6 +1855,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/789c757c61ef9e4ac91971b2a58e5652802b225f)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/24db0e814dce98808f82a2439a0bc9d656e37cad)
+  - <sub>Tags: <code>xfce4-panel-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5b9bffb4b170dbf062c4417c491cde116398550b)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2052,6 +2107,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/113b5b1059e9ab5b8c948fa9d033b98982778414)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/93d12efde6b0cc3001ed53fc4614a08c4e5b6664)
+  - <sub>Tags: <code>xfce4-power-manager-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/cccf36ec8232db8affed628af4fa78ff39993c98)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -2235,6 +2295,11 @@
   - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfce4-session-4.19.4</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/b8b9e93c3f252155d0a0916ea4563645ea19af96)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-session/commit/28790ebf0caf908e759d04172f80a667c508cf6d)
+  - <sub>Tags: <code>xfce4-session-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/887180397cd54dc6260cf32019f6a815d39ea1fc)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
@@ -2527,6 +2592,11 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e1e651d28c5e076bc26d62c3102c32b2e68c6825)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>xfsettingsd: Fix ushort and ulong types on FreeBSD</code>](https://github.com/xfce-mirror/xfce4-settings/commit/498332235efffe948e0a400664153216b9cb20e2)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-settings/commit/380bf9b084fd1cafbcf14b08ca94645c48984afe)
+  - <sub>Tags: <code>xfce4-settings-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/66589b721713991b70f847b493fad7ed9d590c43)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2622,6 +2692,11 @@
   - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfconf-4.19.5</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/6e13d2576b3c46b6b9f0f6ee4ad1b7f146ca77ec)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfconf/commit/078859af53858cddfa99c4b72070a70ed3eb6772)
+  - <sub>Tags: <code>xfconf-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/85b2f5af0ef29781b59962ca7bfbf5998f6d0423)
   - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
@@ -3057,6 +3132,11 @@
 - [ ] [<code>Updated backgrounds/README.md for Xfce-4.20</code>](https://github.com/xfce-mirror/xfdesktop/commit/bf46b2bf42ba1733561922474595b6a1b3272de9)
 - [ ] [<code>Update POTFILES.in</code>](https://github.com/xfce-mirror/xfdesktop/commit/b39b6e0c397966b9aceb5b9f99ab18aec415f944)
 - [ ] [<code>Fix incorrect format passed to gtk_selection_data_set()</code>](https://github.com/xfce-mirror/xfdesktop/commit/4ee099ec272ccfc4667d14562db15115009da104)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfdesktop/commit/42e45455446e8f3c0489ba66294a4131f9967e8e)
+  - <sub>Tags: <code>xfdesktop-4.20.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/5ddaef877cfd155657a9b7a4fb4cfca0d4231af5)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.18.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.18.0...HEAD)
 
@@ -3140,4 +3220,9 @@
   - <sub>Tags: <code>xfce-4.20pre2</code> <code>xfwm4-4.19.1</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/a0fa5aa6eb373741f46a86c6213133a684856f7d)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfwm4/commit/7cadce33226be955fa2677b97a1969701d246b80)
+  - <sub>Tags: <code>xfwm4-4.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/f71ad2fe348775bbf9a2c91f855a22dfc20dbaf6)
   - <sub>Files: <code>configure.ac</code></sub>
