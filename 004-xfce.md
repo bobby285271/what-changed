@@ -417,6 +417,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/d4609b0f78f697f0f3490aa995f2c7ef3d490fad)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Add libxfce4util/meson.build to Makefile.am EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4util/commit/70a4e3c68a031182af51ab6ae20636fc87a1527a)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
