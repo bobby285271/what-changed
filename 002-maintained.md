@@ -480,6 +480,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix warnings (#89)</code>](https://github.com/Alecaddd/taxi/commit/bddfb4f04113b69a6b0c4325f4db3625dbad4ce1)
 - [ ] [<code>Remove Travis in favor of GitHub Actions (#91)</code>](https://github.com/Alecaddd/taxi/commit/46f60e91b7189c0db7253e02664115045f7851e9)
+- [ ] [<code>Port to Gtk4 (#90)</code>](https://github.com/Alecaddd/taxi/commit/4dcb5b2ad7df0c53ed311c4db13477f00a90d31c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
