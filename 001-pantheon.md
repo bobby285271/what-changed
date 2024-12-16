@@ -195,6 +195,7 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.0 → HEAD](https://github.com/elementary/terminal/compare/6.3.0...HEAD)
 
+- [ ] [<code>Revert "Gtk4Prep - Handle restoring and syncing window state in App (#822)</code>](https://github.com/elementary/terminal/commit/38b731d0f7dd6d34143dff33dc8c220b59ffab82)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
