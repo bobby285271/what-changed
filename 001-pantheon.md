@@ -332,6 +332,7 @@
 
 - [ ] [<code>Meson: add log domain (#67)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d6d5a37384b9d897d74e84dfcae01b078c1a13b0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix some build warnings (#71)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/db18e2252fdc6c1e47cfbd15c5d1fdd943fa794f)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
