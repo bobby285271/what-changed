@@ -1190,6 +1190,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/a791f6a37851647c9bbfe79f031776a1732699c7)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>remove superflous spaces in strings (#1501)</code>](https://github.com/xfce-mirror/thunar/commit/ecb2b7805e80870ffd3b6c2d24417ad00c3ad9fb)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
