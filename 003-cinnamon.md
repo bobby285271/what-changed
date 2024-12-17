@@ -7,6 +7,8 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.2...HEAD)
 
+- [ ] [<code>theme: Fix missing text on virtual keyboard (#12572)</code>](https://github.com/linuxmint/cinnamon/commit/6029c9a0113930f69417d7d67320f1e12f8770d5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -125,17 +127,8 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.5 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.5...HEAD)
 
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.6.9 → HEAD](https://github.com/linuxmint/xed/compare/3.6.9...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.8.1 → HEAD](https://github.com/linuxmint/xed/compare/3.8.1...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/8ab89ba3a3e99c7eb483dc0642f038812bc8877c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.8.0</code>](https://github.com/linuxmint/xed/commit/6c5956edab662c37085df90db86262658f11e9d8)
-  - <sub>Tags: <code>3.8.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add 'xed' to the desktop file keywords.</code>](https://github.com/linuxmint/xed/commit/55f4c058e355e2697401507e3412b0bab2adfa1b)
-- [ ] [<code>3.8.1</code>](https://github.com/linuxmint/xed/commit/7f2d6c542dc3c2077c4ccb32f342c0b1f7c1276b)
-  - <sub>Tags: <code>3.8.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
