@@ -8,7 +8,9 @@
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.2...HEAD)
 
 - [ ] [<code>theme: Fix missing text on virtual keyboard (#12572)</code>](https://github.com/linuxmint/cinnamon/commit/6029c9a0113930f69417d7d67320f1e12f8770d5)
+- [ ] [<code>Looking glass: Usability improvements</code>](https://github.com/linuxmint/cinnamon/commit/e955be78d583e911a34c34a061f81ae009e7d0ac)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -42,6 +44,11 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f1900facf915715623ef0ca2874ae4dd04039e81 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f1900facf915715623ef0ca2874ae4dd04039e81...HEAD)
 
+- [ ] [<code>Night light icon (#15)</code>](https://github.com/linuxmint/mint-l-icons/commit/6887d6c7a3b4484647624a0db4e42e090908a4db)
+- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/mint-l-icons/commit/599a7c7b293af75a87f8b148674b6a81ac7d0e93)
+- [ ] [<code>Generate cs-nightlight icons</code>](https://github.com/linuxmint/mint-l-icons/commit/2248dc9697eb339a026dd86f7df21def657ccaf2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-l-icons/commit/b442277c822c92f7bb68282cb82c7d1a98e3fd37)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
@@ -60,6 +67,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Scratch and Notion icons (#451)</code>](https://github.com/linuxmint/mint-y-icons/commit/b032f2635a8c1b99c7d80070a82cb26ac3c70cc1)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix render-mimetypes.py (#453)</code>](https://github.com/linuxmint/mint-y-icons/commit/67744ab026ca260a8ddf0f36b8ddd23adfe5ddcc)
+- [ ] [<code>night light icon</code>](https://github.com/linuxmint/mint-y-icons/commit/93f5f3b72304d4076eded154c6defd884350b256)
+- [ ] [<code>Generate cs-nightlight icons</code>](https://github.com/linuxmint/mint-y-icons/commit/ccf95a48cb60615b906352103bd7583bc11acb37)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/mint-y-icons/commit/0236f3186d4b579112fb20e1d501ae03cb37a2f4)
+- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/mint-y-icons/commit/3fdfee996be98946c50ceadc57b36971d40d89e6)
+  - <sub>Tags: <code>1.8.0</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
