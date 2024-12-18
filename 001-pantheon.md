@@ -333,6 +333,7 @@
 - [ ] [<code>Meson: add log domain (#67)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d6d5a37384b9d897d74e84dfcae01b078c1a13b0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix some build warnings (#71)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/db18e2252fdc6c1e47cfbd15c5d1fdd943fa794f)
+- [ ] [<code>Add check for stylus detection (#70)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/45a453b3f5ffbffefbc7067cd986b5865e8742c8)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
@@ -991,6 +992,8 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.1.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.1.1...HEAD)
 
+- [ ] [<code>Add Update Progress Indicator (#173)</code>](https://github.com/elementary/settings-daemon/commit/049dd1f9c0efe0f78c1b790bc8e26705f65b1bca)
+- [ ] [<code>8.1.2 release notes (#174)</code>](https://github.com/elementary/settings-daemon/commit/a4fffa1db66c3c220ccc6d01009212144cc7e958)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
