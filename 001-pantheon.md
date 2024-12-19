@@ -196,6 +196,8 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.0 → HEAD](https://github.com/elementary/terminal/compare/6.3.0...HEAD)
 
 - [ ] [<code>Revert "Gtk4Prep - Handle restoring and syncing window state in App (#822)</code>](https://github.com/elementary/terminal/commit/38b731d0f7dd6d34143dff33dc8c220b59ffab82)
+- [ ] [<code>Fix clear and reset actions when ongoing foreground process (#823)</code>](https://github.com/elementary/terminal/commit/3c84bcb98ecdadb4d5e0c7a8f52fb5238f5e92f0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -783,6 +785,9 @@
 - [ ] [<code>Fix cancelling workspace switch gesture (#2148)</code>](https://github.com/elementary/gala/commit/32a5f354d7e76033757a49cb5955f7bfabfe3277)
 - [ ] [<code>Fix cancelling gesture in multitasking view (#2149)</code>](https://github.com/elementary/gala/commit/779ff1886eae5daa7247a09215b299aaa9a25159)
 - [ ] [<code>WindowClone: Fix invisible if shown while Multitasking view is open (#2152)</code>](https://github.com/elementary/gala/commit/c1642041bafc8f3b3dc00be7a775a4ae8bbbd543)
+- [ ] [<code>WindowClone: Allocate window icon in allocate virtual (#2158)</code>](https://github.com/elementary/gala/commit/c8800bb73dd5e142a2c0d7a5e1aec5e5a4b47dcc)
+- [ ] [<code>WorkspaceManager: Exclude a window that's about to be removed from count (#2160)</code>](https://github.com/elementary/gala/commit/8069298347616cd0c731b8004a63bda8a335d8e2)
+- [ ] [<code>8.0.5 release notes (#2174)</code>](https://github.com/elementary/gala/commit/c237d4dc66895d4f35b10e568061ce9bfa1c006d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
