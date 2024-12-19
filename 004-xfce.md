@@ -1192,6 +1192,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/a791f6a37851647c9bbfe79f031776a1732699c7)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>remove superflous spaces in strings (#1501)</code>](https://github.com/xfce-mirror/thunar/commit/ecb2b7805e80870ffd3b6c2d24417ad00c3ad9fb)
+- [ ] [<code>Prevent crash when loading mount point emblem (#1511)</code>](https://github.com/xfce-mirror/thunar/commit/683117963eaf253e9bf353077965d619fa33c2b2)
+- [ ] [<code>Fix appstream metainfo (#1512)</code>](https://github.com/xfce-mirror/thunar/commit/40c52f8bd8e4bc2ec227999ea60a4ee97c8e3e77)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
