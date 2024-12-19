@@ -9,8 +9,10 @@
 
 - [ ] [<code>theme: Fix missing text on virtual keyboard (#12572)</code>](https://github.com/linuxmint/cinnamon/commit/6029c9a0113930f69417d7d67320f1e12f8770d5)
 - [ ] [<code>Looking glass: Usability improvements</code>](https://github.com/linuxmint/cinnamon/commit/e955be78d583e911a34c34a061f81ae009e7d0ac)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme: Fix rounding in submenus (#12573)</code>](https://github.com/linuxmint/cinnamon/commit/63b67e48085210a65172c1af9e84c7e9e0d01c57)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>theme: Fix rounding and spacing in GWL window previews (#12571)</code>](https://github.com/linuxmint/cinnamon/commit/9489d1249e1c2c17095b08facc979c82d0f15cf7)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -49,12 +51,15 @@
 - [ ] [<code>Generate cs-nightlight icons</code>](https://github.com/linuxmint/mint-l-icons/commit/2248dc9697eb339a026dd86f7df21def657ccaf2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-l-icons/commit/b442277c822c92f7bb68282cb82c7d1a98e3fd37)
+- [ ] [<code>Fix render-mimetypes.py (#16)</code>](https://github.com/linuxmint/mint-l-icons/commit/a2d000a933d0ab4053d47650f1229fc6da8d2ae7)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.1...HEAD)
 
+- [ ] [<code>cinnamon: Add rounded corners in calendar event and today buttons</code>](https://github.com/linuxmint/mint-themes/commit/01a6c4df522a163b7b79e686e748efe23fa13ed2)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
