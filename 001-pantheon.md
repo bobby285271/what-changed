@@ -198,6 +198,7 @@
 - [ ] [<code>Revert "Gtk4Prep - Handle restoring and syncing window state in App (#822)</code>](https://github.com/elementary/terminal/commit/38b731d0f7dd6d34143dff33dc8c220b59ffab82)
 - [ ] [<code>Fix clear and reset actions when ongoing foreground process (#823)</code>](https://github.com/elementary/terminal/commit/3c84bcb98ecdadb4d5e0c7a8f52fb5238f5e92f0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Only reset/clear screen when <Shift> is pressed (#827)</code>](https://github.com/elementary/terminal/commit/91b93d883c2b8a8549d9743292d6a564e3b2d3cb)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
