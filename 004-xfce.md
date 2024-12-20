@@ -1865,6 +1865,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5b9bffb4b170dbf062c4417c491cde116398550b)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add an hidden-event signal for plugins</code>](https://github.com/xfce-mirror/xfce4-panel/commit/585e2762fbf65419ada277e575142dc2265210dc)
+- [ ] [<code>libxfce4panel: Fix XfcePanelPlugin size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ea93831413ba608c4f9a5c163ee002163a3578ff)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
