@@ -789,6 +789,17 @@
 - [ ] [<code>WindowClone: Allocate window icon in allocate virtual (#2158)</code>](https://github.com/elementary/gala/commit/c8800bb73dd5e142a2c0d7a5e1aec5e5a4b47dcc)
 - [ ] [<code>WorkspaceManager: Exclude a window that's about to be removed from count (#2160)</code>](https://github.com/elementary/gala/commit/8069298347616cd0c731b8004a63bda8a335d8e2)
 - [ ] [<code>8.0.5 release notes (#2174)</code>](https://github.com/elementary/gala/commit/c237d4dc66895d4f35b10e568061ce9bfa1c006d)
+- [ ] [<code>Cleanup `InternalUtils.set_input_area` (#2166)</code>](https://github.com/elementary/gala/commit/b80927aef31434ef84ae9695bfd086e61949fa0a)
+- [ ] [<code>PixelPicker: cleanup (#2180)</code>](https://github.com/elementary/gala/commit/da02b6f4b9ded6e36fcae1a24eaf538638f809bb)
+- [ ] [<code>WindowManager: Load plugins and create components right away</code>](https://github.com/elementary/gala/commit/75cf2c82ad5052a3cf726be0d09488eaebb174cb)
+- [ ] [<code>Handle monitor change in screenshield and make it a local variable</code>](https://github.com/elementary/gala/commit/73a8aeaa8cc3a15157fbe6399c57df036e21f8b0)
+- [ ] [<code>WindowManager: Replace Gtk.get_current_event_time with Meta.CURRENT_TIME</code>](https://github.com/elementary/gala/commit/d6a010385bcff3868dab5105c345d9b5ec096b40)
+- [ ] [<code>Fix window overview (#2181)</code>](https://github.com/elementary/gala/commit/5bb3e80e5f048209e820e49d0e846ae5a86e5d03)
+- [ ] [<code>InternalUtils: Introduce wait_for_window_actor utility (#2178)</code>](https://github.com/elementary/gala/commit/6a906806d08faa2a54c97210607382a550a8d04f)
+- [ ] [<code>Overshoot gestures (#2164)</code>](https://github.com/elementary/gala/commit/6f0093a9fef890df31f33b8f5277194396bb2490)
+- [ ] [<code>Gestures: Add more details and introduce on_gesture_handled (#2168)</code>](https://github.com/elementary/gala/commit/0e82d63a5872a4ee06be6e5b81f136ffd968344d)
+- [ ] [<code>Add Super+Scroll action (#2182)</code>](https://github.com/elementary/gala/commit/c7d14d65f8db491923fcb56e00dcf06d2838edb8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -860,6 +871,9 @@
 - [ ] [<code>Release 8.0.1 (#581)</code>](https://github.com/elementary/wingpanel/commit/087cb2d67df0c0df0da4008271ac3194d3fbf954)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updated To Mutter47 (libmutter-15) (#593)</code>](https://github.com/elementary/wingpanel/commit/0baabaed455102ac300ab67c12d44ee6647006fe)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [2.11.1 → HEAD](https://github.com/elementary/applications-menu/compare/2.11.1...HEAD)
@@ -948,6 +962,9 @@
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.1...HEAD)
 
+- [ ] [<code>Update dependency in readme (#276)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7212f1d37d6bb3e7b4b1b3347369a72e03242492)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Show the device model if available (#275)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9a11a7a117064c846bed1c2e3c013823752d36b)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
@@ -1029,6 +1046,7 @@
 - [ ] [<code>Release 8.0.0 (#121)</code>](https://github.com/elementary/portals/commit/2f7c97cf2de271ffd52abf80a02a62db3a6068b8)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#125)</code>](https://github.com/elementary/portals/commit/219f37bb3670d3614a7982a6976680e2776fe48d)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
