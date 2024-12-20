@@ -11,8 +11,14 @@
 - [ ] [<code>Looking glass: Usability improvements</code>](https://github.com/linuxmint/cinnamon/commit/e955be78d583e911a34c34a061f81ae009e7d0ac)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>theme: Fix rounding in submenus (#12573)</code>](https://github.com/linuxmint/cinnamon/commit/63b67e48085210a65172c1af9e84c7e9e0d01c57)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>theme: Fix rounding and spacing in GWL window previews (#12571)</code>](https://github.com/linuxmint/cinnamon/commit/9489d1249e1c2c17095b08facc979c82d0f15cf7)
+- [ ] [<code>dialogs: Respect animation settings</code>](https://github.com/linuxmint/cinnamon/commit/67bef86ee5452df97a6fa3487a8f154f97af6b7b)
+- [ ] [<code>Add logging and settings for nm/polkit/ssh agents</code>](https://github.com/linuxmint/cinnamon/commit/26a31d5d60605fb8d40ccece409c48750231bb5c)
+- [ ] [<code>PolkitAgent: don't crash if there is no avatar</code>](https://github.com/linuxmint/cinnamon/commit/c48a5968b45273c8ae3bdb2a3addbbcf048d33e4)
+- [ ] [<code>polKitAgent: Don't crash when we cannot enable/disable the auth agent</code>](https://github.com/linuxmint/cinnamon/commit/f60d20f17f2944e706616061e2a306a30df384bc)
+- [ ] [<code>6.4.3</code>](https://github.com/linuxmint/cinnamon/commit/0077d3daad778d2ebf28a4526f52676cbf662d64)
+  - <sub>Tags: <code>6.4.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -59,26 +65,19 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.1...HEAD)
 
 - [ ] [<code>cinnamon: Add rounded corners in calendar event and today buttons</code>](https://github.com/linuxmint/mint-themes/commit/01a6c4df522a163b7b79e686e748efe23fa13ed2)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>cinnamon: Fix cornerbar styling</code>](https://github.com/linuxmint/mint-themes/commit/c75e644df5e974e708809ef746573121c832083a)
+- [ ] [<code>cinnamon: Increase applet spacing</code>](https://github.com/linuxmint/mint-themes/commit/986a0ab0dd0080c8424285f91073b7a08be0b4df)
+- [ ] [<code>cinnamon: Fix workspace switcher</code>](https://github.com/linuxmint/mint-themes/commit/9fc7040bd4c7771677f8e05b257bab0bb64758f1)
+- [ ] [<code>cinnamon: Lighten bg_color2 in light theme</code>](https://github.com/linuxmint/mint-themes/commit/1bf628e23134020bd0febf539df27e0910844275)
+- [ ] [<code>cinnamon: Fix flat buttons in light theme</code>](https://github.com/linuxmint/mint-themes/commit/4abc2cf56c25d97606f7d469b943ab94e318536d)
+- [ ] [<code>2.2.2</code>](https://github.com/linuxmint/mint-themes/commit/03c873b1ee834e2dede0e76cdb0d6273a2c537fd)
+  - <sub>Tags: <code>2.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.0...HEAD)
 
-- [ ] [<code>Update Visual Studio Code and Visual Studio Code Insiders icons (#448)</code>](https://github.com/linuxmint/mint-y-icons/commit/7d589356396527ab445928e85639aad0452b174a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix broken links (#449)</code>](https://github.com/linuxmint/mint-y-icons/commit/0091b17151d022e07ef5a21ae34459e4d61dad9e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Scratch and Notion icons (#451)</code>](https://github.com/linuxmint/mint-y-icons/commit/b032f2635a8c1b99c7d80070a82cb26ac3c70cc1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix render-mimetypes.py (#453)</code>](https://github.com/linuxmint/mint-y-icons/commit/67744ab026ca260a8ddf0f36b8ddd23adfe5ddcc)
-- [ ] [<code>night light icon</code>](https://github.com/linuxmint/mint-y-icons/commit/93f5f3b72304d4076eded154c6defd884350b256)
-- [ ] [<code>Generate cs-nightlight icons</code>](https://github.com/linuxmint/mint-y-icons/commit/ccf95a48cb60615b906352103bd7583bc11acb37)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/mint-y-icons/commit/0236f3186d4b579112fb20e1d501ae03cb37a2f4)
-- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/mint-y-icons/commit/3fdfee996be98946c50ceadc57b36971d40d89e6)
-  - <sub>Tags: <code>1.8.0</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
