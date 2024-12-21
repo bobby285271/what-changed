@@ -800,6 +800,8 @@
 - [ ] [<code>Gestures: Add more details and introduce on_gesture_handled (#2168)</code>](https://github.com/elementary/gala/commit/0e82d63a5872a4ee06be6e5b81f136ffd968344d)
 - [ ] [<code>Add Super+Scroll action (#2182)</code>](https://github.com/elementary/gala/commit/c7d14d65f8db491923fcb56e00dcf06d2838edb8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Prevent PiP from overlapping Wingpanel (#2185)</code>](https://github.com/elementary/gala/commit/9038f7b6ac89a1fd57cc20ae3b68704bcdbb9006)
+- [ ] [<code>PiP: Fix drag and drop (#2184)</code>](https://github.com/elementary/gala/commit/cbcf70bd53db25d0d001e81f411e0606b597eee7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
