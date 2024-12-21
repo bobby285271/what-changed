@@ -1194,6 +1194,7 @@
 - [ ] [<code>remove superflous spaces in strings (#1501)</code>](https://github.com/xfce-mirror/thunar/commit/ecb2b7805e80870ffd3b6c2d24417ad00c3ad9fb)
 - [ ] [<code>Prevent crash when loading mount point emblem (#1511)</code>](https://github.com/xfce-mirror/thunar/commit/683117963eaf253e9bf353077965d619fa33c2b2)
 - [ ] [<code>Fix appstream metainfo (#1512)</code>](https://github.com/xfce-mirror/thunar/commit/40c52f8bd8e4bc2ec227999ea60a4ee97c8e3e77)
+- [ ] [<code>Add setting to show non hidden folders/files first (#263)</code>](https://github.com/xfce-mirror/thunar/commit/efb21a1ff223e94c8f085a9ce4fd17c190078513)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
