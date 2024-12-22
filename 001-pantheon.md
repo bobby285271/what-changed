@@ -802,6 +802,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Prevent PiP from overlapping Wingpanel (#2185)</code>](https://github.com/elementary/gala/commit/9038f7b6ac89a1fd57cc20ae3b68704bcdbb9006)
 - [ ] [<code>PiP: Fix drag and drop (#2184)</code>](https://github.com/elementary/gala/commit/cbcf70bd53db25d0d001e81f411e0606b597eee7)
+- [ ] [<code>WindowManager: Only show notifications after their window was shown (#2183)</code>](https://github.com/elementary/gala/commit/84a1352d98d9b731004e0b1feb32cd8b1148f8d5)
+- [ ] [<code>Introduce InternalUtils.wait_for_window_actor_visible (#2188)</code>](https://github.com/elementary/gala/commit/ae33e821c9bff9820d43e98f7312f91eea94dab2)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
