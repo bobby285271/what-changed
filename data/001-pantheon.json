@@ -203,10 +203,13 @@
         },
         {
             "kind": "markdown",
-            "content": "## granite"
+            "content": "## libraries"
         },
         {
             "attr_path": "pantheon.granite7"
+        },
+        {
+            "attr_path": "pantheon.pantheon-wayland"
         },
         {
             "kind": "markdown",
