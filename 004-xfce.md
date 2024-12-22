@@ -2605,6 +2605,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/66589b721713991b70f847b493fad7ed9d590c43)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>displays: Always enable first output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5093b1a426f399d635e1d67de9247c3c056848c6)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
