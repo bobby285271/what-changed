@@ -314,14 +314,8 @@
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
 
-#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
-- [ ] [<code>Meson: add log domain (#180)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3477801411c1cfa5555dd47f1911ae19b1f9bf76)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>metainfo: add 8.0.1 release notes (#181)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ce73f329bf823a65cffe77a61c20a423bb487151)
-- [ ] [<code>Release 8.0.1 (#182)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7edc6196c1a418e3fba611ae4ee22f086196ec06)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/133b4f0c112b332a527b18a55e38a7f5cdbc5a62)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
