@@ -971,13 +971,16 @@
 - [ ] [<code>DeviceItem: use device object (#277)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fe9aba0acf9b4fce54a6cf5e756727992b3ad3c)
 - [ ] [<code>Fix loading albumArt from Chromium MPRIS (#280)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/66f44a07bcab0eb8f9904753af0e06d08c3907f5)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#282)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/56a486ba19f99ae8cec5b4f24d51ed37eb54d8bc)
-## granite
+## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/6e142c1d31ed4a77403f60ca2fec00ca597a282c)
 - [ ] [<code>Add version annotation to Granite.Bin (#740)</code>](https://github.com/elementary/granite/commit/553c3172ed73dd59ab3fb79ce53c0226106a24f1)
   - <sub>Keywords: <code>bin</code></sub>
+
+#### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
+
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
