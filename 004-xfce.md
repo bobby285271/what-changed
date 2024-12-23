@@ -1195,6 +1195,7 @@
 - [ ] [<code>Prevent crash when loading mount point emblem (#1511)</code>](https://github.com/xfce-mirror/thunar/commit/683117963eaf253e9bf353077965d619fa33c2b2)
 - [ ] [<code>Fix appstream metainfo (#1512)</code>](https://github.com/xfce-mirror/thunar/commit/40c52f8bd8e4bc2ec227999ea60a4ee97c8e3e77)
 - [ ] [<code>Add setting to show non hidden folders/files first (#263)</code>](https://github.com/xfce-mirror/thunar/commit/efb21a1ff223e94c8f085a9ce4fd17c190078513)
+- [ ] [<code>Make toolbar inside header-bar transparent (#1514)</code>](https://github.com/xfce-mirror/thunar/commit/2b41a5be823cfac6e2ba0323464beee4d7692946)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
