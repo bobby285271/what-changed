@@ -331,6 +331,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix some build warnings (#71)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/db18e2252fdc6c1e47cfbd15c5d1fdd943fa794f)
 - [ ] [<code>Add check for stylus detection (#70)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/45a453b3f5ffbffefbc7067cd986b5865e8742c8)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/fd95c16eaf3ba17d94fb1aca985d9bb476b9e497)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
@@ -798,6 +799,7 @@
 - [ ] [<code>PiP: Fix drag and drop (#2184)</code>](https://github.com/elementary/gala/commit/cbcf70bd53db25d0d001e81f411e0606b597eee7)
 - [ ] [<code>WindowManager: Only show notifications after their window was shown (#2183)</code>](https://github.com/elementary/gala/commit/84a1352d98d9b731004e0b1feb32cd8b1148f8d5)
 - [ ] [<code>Introduce InternalUtils.wait_for_window_actor_visible (#2188)</code>](https://github.com/elementary/gala/commit/ae33e821c9bff9820d43e98f7312f91eea94dab2)
+- [ ] [<code>WindowClone: Hide icon in overview (#2189)</code>](https://github.com/elementary/gala/commit/0e04bf65d690e2610dce96efe811076b5c7c4b36)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1131,6 +1133,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Revert "Create apparmor-profiles.chroot (#735)" (#737)</code>](https://github.com/elementary/os/commit/4ef03d6b8a4e90288bbbed26a1ea7e65da7680ba)
   - <sub>Tags: <code>8.0.0-rc1</code> <code>8.0.0-rc2</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Create apparmor-profiles.chroot (#738)</code>](https://github.com/elementary/os/commit/43aa730ba46cb888d02c09984472de76adafc841)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
