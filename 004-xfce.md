@@ -1196,6 +1196,10 @@
 - [ ] [<code>Fix appstream metainfo (#1512)</code>](https://github.com/xfce-mirror/thunar/commit/40c52f8bd8e4bc2ec227999ea60a4ee97c8e3e77)
 - [ ] [<code>Add setting to show non hidden folders/files first (#263)</code>](https://github.com/xfce-mirror/thunar/commit/efb21a1ff223e94c8f085a9ce4fd17c190078513)
 - [ ] [<code>Make toolbar inside header-bar transparent (#1514)</code>](https://github.com/xfce-mirror/thunar/commit/2b41a5be823cfac6e2ba0323464beee4d7692946)
+- [ ] [<code>Fix throttling of selection updates (#1508) (#1515)</code>](https://github.com/xfce-mirror/thunar/commit/b58d1904d3da6de4f26cb6d2617fcc8266d98b7d)
+- [ ] [<code>Prevent crash when removing location button (#1507)</code>](https://github.com/xfce-mirror/thunar/commit/c343fcedc6f3a192c6e6569ba7089f8d25fb2066)
+- [ ] [<code>Select instead activate on DnD into toolbar (#1492)</code>](https://github.com/xfce-mirror/thunar/commit/473069c46f9b47fbc3e94664ddfaf9621250e0b8)
+- [ ] [<code>Do not save view settings when searching (#1502)</code>](https://github.com/xfce-mirror/thunar/commit/3f8ee52de40e717b80dba5155230bc6f51c488bd)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
