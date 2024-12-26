@@ -1138,6 +1138,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>enable apparmor service on livecd</code>](https://github.com/elementary/os/commit/97e8eb0b2f3754b0d5428936bb3ca8ab813c1d95)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>hooks: Fix missing execute permission (#746)</code>](https://github.com/elementary/os/commit/f88cd56f56a2c67367eb2083e34507616afa4d3f)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
