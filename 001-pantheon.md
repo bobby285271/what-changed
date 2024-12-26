@@ -241,6 +241,7 @@
 - [ ] [<code>Meson: add log domain (#402)</code>](https://github.com/elementary/switchboard-plug-display/commit/0bf6bb9dbe4f8e663e398efe267ce66b1041b0bb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#405)</code>](https://github.com/elementary/switchboard-plug-display/commit/8024604ae8e851804650665cd7ec7f54b47f0993)
+- [ ] [<code>DisplayWidget: Fix text-shadow for children (#407)</code>](https://github.com/elementary/switchboard-plug-display/commit/c00c1e996969d388c008887b906091cfe0525a1d)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.0...HEAD)
 
