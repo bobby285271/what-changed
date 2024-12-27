@@ -653,6 +653,11 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b730054aae0856db8bb2ed4ac656465ca1dcce66)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f83eadb5edadd31911e600546d901ebb4bdd314a)
+- [ ] [<code>XfwWorkspaceGroupWayland: Add missing property and private struct</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/81b4893b27a3581b098a3e359aee439f48035131)
+- [ ] [<code>XfwWorkspaceManagerWayland: Fix typo</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/54cea3bbc436cb19a84b8017d8536363b377aa5e)
+- [ ] [<code>XfwWorkspaceWayland: Add missing sanity check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6b468ecc119dd54bb49f98a43c879c5451519b44)
+- [ ] [<code>Update ext-workspace protocol version</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2df513c434c8f5befec80024739427dfad150c95)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1200,6 +1205,8 @@
 - [ ] [<code>Prevent crash when removing location button (#1507)</code>](https://github.com/xfce-mirror/thunar/commit/c343fcedc6f3a192c6e6569ba7089f8d25fb2066)
 - [ ] [<code>Select instead activate on DnD into toolbar (#1492)</code>](https://github.com/xfce-mirror/thunar/commit/473069c46f9b47fbc3e94664ddfaf9621250e0b8)
 - [ ] [<code>Do not save view settings when searching (#1502)</code>](https://github.com/xfce-mirror/thunar/commit/3f8ee52de40e717b80dba5155230bc6f51c488bd)
+- [ ] [<code>thunarx.symbols: Add missing thunarx_provider_module_*</code>](https://github.com/xfce-mirror/thunar/commit/0e7ca67fddda7b87dfe52ebfd5a67025105863cf)
+- [ ] [<code>build: Dist thunar-{thumbnailer,thumbnail-cache}-dbus.xml</code>](https://github.com/xfce-mirror/thunar/commit/6960f73043298975a6872e5282f76958f8345b33)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
