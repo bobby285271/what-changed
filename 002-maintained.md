@@ -483,6 +483,11 @@
 - [ ] [<code>Port to Gtk4 (#90)</code>](https://github.com/Alecaddd/taxi/commit/4dcb5b2ad7df0c53ed311c4db13477f00a90d31c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>update app id</code>](https://github.com/Alecaddd/taxi/commit/bcde022b552afe10a11058c1a7e48d18a30ca601)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>update ci</code>](https://github.com/Alecaddd/taxi/commit/92ef0a0ad7f45ebd75a64f3c8890f5a3bacf126d)
+- [ ] [<code>fix flatpak</code>](https://github.com/Alecaddd/taxi/commit/b1c81490641f102005d9451a33d21610c0637e22)
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
