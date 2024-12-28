@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.0.1 → HEAD](https://github.com/elementary/appcenter/compare/8.0.1...HEAD)
 
+- [ ] [<code>Various fixes in AppListUpdateView (#2237)</code>](https://github.com/elementary/appcenter/commit/d086f6567e2cb764d63fb92e92a8234079120a01)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -212,6 +213,8 @@
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.1.0...HEAD)
 
+- [ ] [<code>Prevent `software_grid` change vertical position, when content changes (#359)</code>](https://github.com/elementary/switchboard-plug-about/commit/91b6fb204d57c942fc0e51055649a58f634c0f59)
+- [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
@@ -261,6 +264,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add 8.0.2 release notes</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/afb8b0daa53f2ca21ab4a9f9455c73e6c2c9345e)
 - [ ] [<code>Update pointer icons (#252)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/0b79b8a6564b886b95af6e9d787014b38db50607)
+- [ ] [<code>Release 8.0.2 (#251)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f71fd55d1bd6efda613bda26fba357fe759573c9)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
 
@@ -966,6 +972,7 @@
 - [ ] [<code>Update dependency in readme (#276)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7212f1d37d6bb3e7b4b1b3347369a72e03242492)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Show the device model if available (#275)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9a11a7a117064c846bed1c2e3c013823752d36b)
+- [ ] [<code>Optimize Battery Icon Calculation and State Handling (#273)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/148b169782d43b1e3fc4798acd514bd695ec952d)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
@@ -1021,6 +1028,7 @@
 
 - [ ] [<code>Add Update Progress Indicator (#173)</code>](https://github.com/elementary/settings-daemon/commit/049dd1f9c0efe0f78c1b790bc8e26705f65b1bca)
 - [ ] [<code>8.1.2 release notes (#174)</code>](https://github.com/elementary/settings-daemon/commit/a4fffa1db66c3c220ccc6d01009212144cc7e958)
+- [ ] [<code>SystemUpdate: Share last refresh time via DBus (#175)</code>](https://github.com/elementary/settings-daemon/commit/6a387c2b8a53854cc898b8a5b1b77861b3c9591b)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
