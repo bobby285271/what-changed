@@ -1029,6 +1029,8 @@
 - [ ] [<code>Add Update Progress Indicator (#173)</code>](https://github.com/elementary/settings-daemon/commit/049dd1f9c0efe0f78c1b790bc8e26705f65b1bca)
 - [ ] [<code>8.1.2 release notes (#174)</code>](https://github.com/elementary/settings-daemon/commit/a4fffa1db66c3c220ccc6d01009212144cc7e958)
 - [ ] [<code>SystemUpdate: Share last refresh time via DBus (#175)</code>](https://github.com/elementary/settings-daemon/commit/6a387c2b8a53854cc898b8a5b1b77861b3c9591b)
+- [ ] [<code>meson: Fix use of string value for a boolean option (#176)</code>](https://github.com/elementary/settings-daemon/commit/66323229bb60deb4ac12105f420ebda39e4c588e)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
