@@ -215,6 +215,7 @@
 
 - [ ] [<code>Prevent `software_grid` change vertical position, when content changes (#359)</code>](https://github.com/elementary/switchboard-plug-about/commit/91b6fb204d57c942fc0e51055649a58f634c0f59)
 - [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
+- [ ] [<code>HardwareView: Fix fallback when hostname1 returns null values (#355)</code>](https://github.com/elementary/switchboard-plug-about/commit/4dd76ac6ecdd7e753f76c02caf109dee1894fa8b)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
 
@@ -807,6 +808,7 @@
 - [ ] [<code>WindowManager: Only show notifications after their window was shown (#2183)</code>](https://github.com/elementary/gala/commit/84a1352d98d9b731004e0b1feb32cd8b1148f8d5)
 - [ ] [<code>Introduce InternalUtils.wait_for_window_actor_visible (#2188)</code>](https://github.com/elementary/gala/commit/ae33e821c9bff9820d43e98f7312f91eea94dab2)
 - [ ] [<code>WindowClone: Hide icon in overview (#2189)</code>](https://github.com/elementary/gala/commit/0e04bf65d690e2610dce96efe811076b5c7c4b36)
+- [ ] [<code>ScreenshotManager: Fix invalid syntax (#2198)</code>](https://github.com/elementary/gala/commit/6b306f44ea06a25ef94f25e44606fe6560e304ed)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1004,6 +1006,8 @@
 #### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.0.1 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.0.1...HEAD)
 
 - [ ] [<code>Add .editorconfig (#24)</code>](https://github.com/elementary/bluetooth-daemon/commit/6b66a64509a77a0d30265724bbfc613311d48982)
+- [ ] [<code>Application: Refactoring (#25)</code>](https://github.com/elementary/bluetooth-daemon/commit/d798c82b170be68d16a052c1812c1547b3c28bb2)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
