@@ -1008,6 +1008,7 @@
 - [ ] [<code>Add .editorconfig (#24)</code>](https://github.com/elementary/bluetooth-daemon/commit/6b66a64509a77a0d30265724bbfc613311d48982)
 - [ ] [<code>Application: Refactoring (#25)</code>](https://github.com/elementary/bluetooth-daemon/commit/d798c82b170be68d16a052c1812c1547b3c28bb2)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Manager: Fix always checking whether the first adapter is discovering (#26)</code>](https://github.com/elementary/bluetooth-daemon/commit/2277671ff54974efa7179699e64df242c2d6eb13)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
