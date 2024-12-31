@@ -417,6 +417,8 @@
 - [ ] [<code>Update elementary-stylesheet, granite and switchboard modules (#256)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/995c9ca811e08a258120b8d20f030cdf7b3af527)
 - [ ] [<code>Flatpak: Use id instead of deprecated app-id (#260)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/630ce0b2cda8a7db1b68f02f19fc799758ee74ef)
 - [ ] [<code>Fix build failing when building switchboard (#261)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5061fc713fa2a0ef77716968a5b3c7f95783b7d8)
+- [ ] [<code>Use single scalable icon (#263)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f5a0ad75bc56389e17b010fe5f7f91f4892fcf28)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
