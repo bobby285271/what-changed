@@ -353,6 +353,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update placement of palette file, add support for local flatpack inst… (#1328)</code>](https://github.com/elementary/icons/commit/cf3540b017a108dde880149c877a48c0b56a605b)
 - [ ] [<code>Actions: Match `tool-pointer` and `tool-node-editor` to new cursor shapes (#1329)</code>](https://github.com/elementary/icons/commit/3aa99e1ea7a90db14163c13cdf57b0710b794104)
+- [ ] [<code>Devices: add scroll wheel to mouse (#1310)</code>](https://github.com/elementary/icons/commit/b33125eefb60c445d93ec108e45f29ae1176ee81)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1009,6 +1010,7 @@
 - [ ] [<code>Application: Refactoring (#25)</code>](https://github.com/elementary/bluetooth-daemon/commit/d798c82b170be68d16a052c1812c1547b3c28bb2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Manager: Fix always checking whether the first adapter is discovering (#26)</code>](https://github.com/elementary/bluetooth-daemon/commit/2277671ff54974efa7179699e64df242c2d6eb13)
+- [ ] [<code>ObjectManager: Refactoring (#27)</code>](https://github.com/elementary/bluetooth-daemon/commit/6112c88f9db55b25e21bcf3015db35e3ab9f1efc)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
