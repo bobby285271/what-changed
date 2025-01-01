@@ -217,17 +217,8 @@
 - [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
 - [ ] [<code>HardwareView: Fix fallback when hostname1 returns null values (#355)</code>](https://github.com/elementary/switchboard-plug-about/commit/4dd76ac6ecdd7e753f76c02caf109dee1894fa8b)
 
-#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
-- [ ] [<code>Add Notifications settings (#238)</code>](https://github.com/elementary/switchboard-plug-applications/commit/b4f466013fb90a9bbb5e27d12390070a0806ea4e)
-- [ ] [<code>AppSettingsView: Fix typo 'Notications' -> 'Notifications' (#239)</code>](https://github.com/elementary/switchboard-plug-applications/commit/bdf1ccb7862cfa5e57d7dbe785e97b3e706a41fb)
-- [ ] [<code>Store Sidebar Position (#240)</code>](https://github.com/elementary/switchboard-plug-applications/commit/0191d489ceb0fe97fd417ddd986aeab2abe43166)
-- [ ] [<code>Meson: add log domain (#241)</code>](https://github.com/elementary/switchboard-plug-applications/commit/82342454ff428a33eae9863da3f0577765a19c56)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#244)</code>](https://github.com/elementary/switchboard-plug-applications/commit/96241c291b1dd225505d308a7dbd2519b3570fd2)
-- [ ] [<code>Release 8.1.0 (#246)</code>](https://github.com/elementary/switchboard-plug-applications/commit/718ebc652ec548645ac4f12e0705bd68fc90636b)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/dd6c2544ef7f6a64db8d9e2f42ec4d9df33b3a54)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
@@ -257,17 +248,8 @@
 - [ ] [<code>Meson: add log domain (#522)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6514b0b59ed16943c172c6941056322c5b4c5222)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/908873b8f28cfdad00093928b1c035a1395443a2)
-- [ ] [<code>Store Sidebar Position (#249)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ef6e17ab4666d803b8cf1e650ccdf6a8f59a8745)
-- [ ] [<code>Meson: add log domain (#250)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/ca9b762f72c4dc96cad757d6d167d9b03757f571)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add 8.0.2 release notes</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/afb8b0daa53f2ca21ab4a9f9455c73e6c2c9345e)
-- [ ] [<code>Update pointer icons (#252)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/0b79b8a6564b886b95af6e9d787014b38db50607)
-- [ ] [<code>Release 8.0.2 (#251)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f71fd55d1bd6efda613bda26fba357fe759573c9)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
 
