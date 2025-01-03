@@ -792,6 +792,7 @@
 - [ ] [<code>Introduce InternalUtils.wait_for_window_actor_visible (#2188)</code>](https://github.com/elementary/gala/commit/ae33e821c9bff9820d43e98f7312f91eea94dab2)
 - [ ] [<code>WindowClone: Hide icon in overview (#2189)</code>](https://github.com/elementary/gala/commit/0e04bf65d690e2610dce96efe811076b5c7c4b36)
 - [ ] [<code>ScreenshotManager: Fix invalid syntax (#2198)</code>](https://github.com/elementary/gala/commit/6b306f44ea06a25ef94f25e44606fe6560e304ed)
+- [ ] [<code>WindowClone: Fix fade in overview (#2205)</code>](https://github.com/elementary/gala/commit/0991de284caf849327347c4cec49b5445d922396)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1050,6 +1051,7 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#125)</code>](https://github.com/elementary/portals/commit/219f37bb3670d3614a7982a6976680e2776fe48d)
+- [ ] [<code>Portal: Make autostart directory if not exists (#127)</code>](https://github.com/elementary/portals/commit/8fb7922cd82e9c32ffeeccfc00571f7c9a867450)
 ## repos
 
 #### [os](https://github.com/elementary/os): [6.1.0-rc4 → HEAD](https://github.com/elementary/os/compare/6.1.0-rc4...HEAD)
