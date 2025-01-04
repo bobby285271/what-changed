@@ -11,7 +11,17 @@
 - [ ] [<code>runDialog: Fix cinnamon restart OSD showing over dialog</code>](https://github.com/linuxmint/cinnamon/commit/1f2538af78fc795230abbfeedce36bf44ecf82bb)
 - [ ] [<code>lightbox: Set as important</code>](https://github.com/linuxmint/cinnamon/commit/d8f06dc18d10782412551cc6ef53f7bfbe19f32a)
 - [ ] [<code>theme: Fix more radius issues in GWL window previews (#12585)</code>](https://github.com/linuxmint/cinnamon/commit/6d990e7aa5ba8aa37e9e98632e78c1add98dcb86)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Improve initialization, cleanup of</code>](https://github.com/linuxmint/cinnamon/commit/4c4bd53ef30f6672814f5a8fcca36586b28d0a99)
+- [ ] [<code>polkitAuthenticationAgent.js: Fix dialog cancellation when</code>](https://github.com/linuxmint/cinnamon/commit/6bb26845d8ae6d923723c45d5e5ac108ee587b51)
+- [ ] [<code>Fix the onscreen keyboard not working when a modal dialog is open (#12599)</code>](https://github.com/linuxmint/cinnamon/commit/932b9da51a27663230a27d3e31cddee04528254a)
+- [ ] [<code>Fix spelling (#12598)</code>](https://github.com/linuxmint/cinnamon/commit/7ccb18a56b148915558828c5f108fbeb15474e6a)
+- [ ] [<code>panel.js: Only clip the panel size if necessary. (#12592)</code>](https://github.com/linuxmint/cinnamon/commit/4e87c99e39ceb489fb2b0af09cebc83e03e5b9eb)
+- [ ] [<code>polkitAuthenticationAgent.js: Only close the dialog once.</code>](https://github.com/linuxmint/cinnamon/commit/09b9d13e5328a0a2bf862020aab88e693390cb82)
+- [ ] [<code>dialogs: Re-enable panels on destroy</code>](https://github.com/linuxmint/cinnamon/commit/e3dbc516e45afc48a5e15a01a3f83a21c3984efe)
+- [ ] [<code>modalDialog.js: Disable the lightbox if the virtual keyboard</code>](https://github.com/linuxmint/cinnamon/commit/3bed0fb94ac58ea71c21454b65edc9d06917cfbd)
+- [ ] [<code>6.4.4</code>](https://github.com/linuxmint/cinnamon/commit/21e51b19d5479ab94a3471b7891e16acb63bed40)
+  - <sub>Tags: <code>6.4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -28,12 +38,8 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.2...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
-- [ ] [<code>packaging: Remove recommends/suggests</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4051aa6b36cfe6b82004289bb3c23a81953b8092)
-- [ ] [<code>6.4.3</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/212eaf8a951f4c140d134e5cbf82a83ea3869073)
-  - <sub>Tags: <code>6.4.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
@@ -56,6 +62,8 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.2...HEAD)
 
+- [ ] [<code>fix spelling (#486)</code>](https://github.com/linuxmint/mint-themes/commit/e45553981471310c2a60af98f086023778ea9f62)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
@@ -68,6 +76,8 @@
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.3...HEAD)
 
+- [ ] [<code>nemo-places-sidebar.c: Remove delete key action for removing</code>](https://github.com/linuxmint/nemo/commit/2e3c6fc62c07a89f00c913e6d0c4e3d6f593a193)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -117,9 +127,6 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [4.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.8...HEAD)
 
 
-#### [libxplayer-plparser](https://github.com/linuxmint/xplayer-plparser): [1.0.3 → HEAD](https://github.com/linuxmint/xplayer-plparser/compare/1.0.3...HEAD)
-
-
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.8 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.8...HEAD)
 
 
@@ -134,12 +141,3 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
-
-#### [xplayer](https://github.com/linuxmint/xplayer): [2.4.4 → HEAD](https://github.com/linuxmint/xplayer/compare/2.4.4...HEAD)
-
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/cb4fb8552dcc49f0ff7e4a53b968a639cf7b3564)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/76c1e871ee2f62823352e4c52cc04b7cfabea61a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/58ee54e0291dd181feac9ad3261d023aa789bc05)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xplayer/commit/a97dd8d625217d9f6ba172d0e13749714cd56990)
-- [ ] [<code>Fix compiler errors related to invalid/missing type casts (#172)</code>](https://github.com/linuxmint/xplayer/commit/56839ed1c6b1690dc6d198e2184e8a4116b0d6c2)
