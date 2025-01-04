@@ -418,6 +418,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/d4609b0f78f697f0f3490aa995f2c7ef3d490fad)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Add libxfce4util/meson.build to Makefile.am EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4util/commit/70a4e3c68a031182af51ab6ae20636fc87a1527a)
+- [ ] [<code>docs: Remove generated types from repository</code>](https://github.com/xfce-mirror/libxfce4util/commit/32c045682f41f621695a233ab5b81407a1c5fd74)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -658,6 +660,12 @@
 - [ ] [<code>XfwWorkspaceWayland: Add missing sanity check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6b468ecc119dd54bb49f98a43c879c5451519b44)
 - [ ] [<code>Update ext-workspace protocol version</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2df513c434c8f5befec80024739427dfad150c95)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>XfwWorkspaceGroupWayland: Fix wrong list element removal</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/93b2bf2f98e009596e3ac34d73b78d825f655a5d)
+- [ ] [<code>XfwWorkspaceWayland: Properly set id property</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bb368d007a0cdb70d2fe187f758b5a6400993441)
+- [ ] [<code>XfwWorkspaceWayland: Store name property</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/560bec132ed1574687ac1b298251f62f5837b70e)
+- [ ] [<code>XfwWorkspaceWayland: fix ext-workspace activate</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0b116fd9211e16f4030f12cd9a0602c405d76207)
+- [ ] [<code>XfwWorkspaceManagerWayland: Fix typo</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c292257b511d4601d5d64051042ea90e7b9f92d2)
+- [ ] [<code>XfwWorkspaceWayland: Ensure active workspace is initialized</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/930c32a24da39bc461cc51422a06609512a45b68)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1207,6 +1215,7 @@
 - [ ] [<code>Do not save view settings when searching (#1502)</code>](https://github.com/xfce-mirror/thunar/commit/3f8ee52de40e717b80dba5155230bc6f51c488bd)
 - [ ] [<code>thunarx.symbols: Add missing thunarx_provider_module_*</code>](https://github.com/xfce-mirror/thunar/commit/0e7ca67fddda7b87dfe52ebfd5a67025105863cf)
 - [ ] [<code>build: Dist thunar-{thumbnailer,thumbnail-cache}-dbus.xml</code>](https://github.com/xfce-mirror/thunar/commit/6960f73043298975a6872e5282f76958f8345b33)
+- [ ] [<code>Fix wrong selection after rename (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/e330905b18306dbecb8e9c11b11dae75d4d7543f)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1512,6 +1521,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/69da7e7919b4524fc73ec646614d06290522f1d1)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>xfce-do-release: Fix tarball path with meson</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/38f1266a080d5cdb4253ee3c212b24bf55cd8be0)
+- [ ] [<code>Build gtk-doc during meson dist if docs present</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0da28a452a99ce54347007c3efbf2142a2ef7e0b)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
@@ -1880,6 +1891,14 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Add an hidden-event signal for plugins</code>](https://github.com/xfce-mirror/xfce4-panel/commit/585e2762fbf65419ada277e575142dc2265210dc)
 - [ ] [<code>libxfce4panel: Fix XfcePanelPlugin size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ea93831413ba608c4f9a5c163ee002163a3578ff)
+- [ ] [<code>prefs-dialog: Don't trust xfconf_channel_get_string_list() return value</code>](https://github.com/xfce-mirror/xfce4-panel/commit/def8b0eb0da05f0a45b8d2572b7421f5705b43e6)
+- [ ] [<code>tasklist: Disable workspace related properties on Wayland</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3dfceab6e54a1aa8ccde4d14aecd4eab5ae5b5ba)
+- [ ] [<code>panel: Deal with duplicated monitor models</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e0df33ee9715ab178b96ae363ef4473fa831456a)
+- [ ] [<code>tasklist: Add missing workspace property initialization on Wayland</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7634a5e378c86309bbfaebd81dbecbe71248b096)
+- [ ] [<code>wayland: libxfce4panel: Set kbd interact to on-demand for popup windows</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1aa4f5aed88d59e3090d26d97e2781dddfe9586f)
+- [ ] [<code>docs: Add missing parameter to XfcePanelPlugin::hidden-event</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4ab0d8fbdd9d1ed36751b0f346852bc20ae44bed)
+- [ ] [<code>wayland: pager: Hide workspace settings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e488e77dcb1271ada5cac37be78229e5725d6276)
+- [ ] [<code>wayland: windowmenu: Hide irrelevant workspace options</code>](https://github.com/xfce-mirror/xfce4-panel/commit/62f6191ec2b93d9e1707d22556cf362044bb6e64)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
@@ -2618,6 +2637,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/66589b721713991b70f847b493fad7ed9d590c43)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>displays: Always enable first output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5093b1a426f399d635e1d67de9247c3c056848c6)
+- [ ] [<code>wayland: common: Add missing struct member initialization</code>](https://github.com/xfce-mirror/xfce4-settings/commit/daa9398421377c0d054f01a34c78002065d9ae64)
+- [ ] [<code>xfsettingsd: Don't disable DPI setting by default</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b1b854458c03248480b9cda5668113210d92d0a7)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
@@ -2719,6 +2740,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/85b2f5af0ef29781b59962ca7bfbf5998f6d0423)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>channel: Fix get_arrayv() return value</code>](https://github.com/xfce-mirror/xfconf/commit/2d47c55e85c74333663a70e76752865f513a1731)
+- [ ] [<code>channel: Warn in case of failure in get_string_list()</code>](https://github.com/xfce-mirror/xfconf/commit/ad9eaf50943e40c4f822e6b54545fec41bb2b787)
+- [ ] [<code>channel: Complete and harmonize docs of get_string_list()/get_arrayv()</code>](https://github.com/xfce-mirror/xfconf/commit/147771a24596df01c9d8dca40151eb7643af3b28)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.18.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.18.0...HEAD)
 
