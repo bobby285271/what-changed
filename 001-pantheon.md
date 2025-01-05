@@ -796,6 +796,7 @@
 - [ ] [<code>WindowManager/workspace switcher: Fix stacking order of moving window (#2156)</code>](https://github.com/elementary/gala/commit/a648353d560167ea6ae132307ebd39294b32e418)
 - [ ] [<code>GesturePropertyTransition: Only call done_callback if the transition finished (#2201)</code>](https://github.com/elementary/gala/commit/e0cd37a759dd5f894fd229c79fed7edca8bb61d4)
 - [ ] [<code>Add fullscreen effect and move to old ws on close (#2194)</code>](https://github.com/elementary/gala/commit/7f92770f1f24463650641d5a0e66b32b1402f03b)
+- [ ] [<code>Remove fixme (#2208)</code>](https://github.com/elementary/gala/commit/6f572741d9a41b87b904df269eec146ec048fbe4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
