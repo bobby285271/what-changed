@@ -420,6 +420,8 @@
 - [ ] [<code>Add libxfce4util/meson.build to Makefile.am EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4util/commit/70a4e3c68a031182af51ab6ae20636fc87a1527a)
 - [ ] [<code>docs: Remove generated types from repository</code>](https://github.com/xfce-mirror/libxfce4util/commit/32c045682f41f621695a233ab5b81407a1c5fd74)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Bump xdt required version</code>](https://github.com/xfce-mirror/libxfce4util/commit/f0d14fea7c0ad2f1d9ebabecca0ab69e33559ca0)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
