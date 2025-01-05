@@ -793,6 +793,9 @@
 - [ ] [<code>WindowClone: Hide icon in overview (#2189)</code>](https://github.com/elementary/gala/commit/0e04bf65d690e2610dce96efe811076b5c7c4b36)
 - [ ] [<code>ScreenshotManager: Fix invalid syntax (#2198)</code>](https://github.com/elementary/gala/commit/6b306f44ea06a25ef94f25e44606fe6560e304ed)
 - [ ] [<code>WindowClone: Fix fade in overview (#2205)</code>](https://github.com/elementary/gala/commit/0991de284caf849327347c4cec49b5445d922396)
+- [ ] [<code>WindowManager/workspace switcher: Fix stacking order of moving window (#2156)</code>](https://github.com/elementary/gala/commit/a648353d560167ea6ae132307ebd39294b32e418)
+- [ ] [<code>GesturePropertyTransition: Only call done_callback if the transition finished (#2201)</code>](https://github.com/elementary/gala/commit/e0cd37a759dd5f894fd229c79fed7edca8bb61d4)
+- [ ] [<code>Add fullscreen effect and move to old ws on close (#2194)</code>](https://github.com/elementary/gala/commit/7f92770f1f24463650641d5a0e66b32b1402f03b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
