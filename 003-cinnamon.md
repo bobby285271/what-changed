@@ -63,6 +63,7 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.2...HEAD)
 
 - [ ] [<code>fix spelling (#486)</code>](https://github.com/linuxmint/mint-themes/commit/e45553981471310c2a60af98f086023778ea9f62)
+- [ ] [<code>cinnamon: Reduce padding on dialog buttons</code>](https://github.com/linuxmint/mint-themes/commit/d1b6e69e612b2c360605e328b7db982d76e1ef0f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
