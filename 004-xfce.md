@@ -422,6 +422,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Bump xdt required version</code>](https://github.com/xfce-mirror/libxfce4util/commit/f0d14fea7c0ad2f1d9ebabecca0ab69e33559ca0)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: Don't run gtkdoc-check</code>](https://github.com/xfce-mirror/libxfce4util/commit/5a6952ed267a2e72febd01b4acce0e303b0ed3fd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -668,6 +670,8 @@
 - [ ] [<code>XfwWorkspaceWayland: fix ext-workspace activate</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0b116fd9211e16f4030f12cd9a0602c405d76207)
 - [ ] [<code>XfwWorkspaceManagerWayland: Fix typo</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c292257b511d4601d5d64051042ea90e7b9f92d2)
 - [ ] [<code>XfwWorkspaceWayland: Ensure active workspace is initialized</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/930c32a24da39bc461cc51422a06609512a45b68)
+- [ ] [<code>docs: Don't run gtkdoc-check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56020342bbf80eaa7a1c7243380568383318708c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
