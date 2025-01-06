@@ -200,6 +200,9 @@
 - [ ] [<code>Fix clear and reset actions when ongoing foreground process (#823)</code>](https://github.com/elementary/terminal/commit/3c84bcb98ecdadb4d5e0c7a8f52fb5238f5e92f0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Only reset/clear screen when <Shift> is pressed (#827)</code>](https://github.com/elementary/terminal/commit/91b93d883c2b8a8549d9743292d6a564e3b2d3cb)
+- [ ] [<code>Cycle tabs with Ctrl+Tab (#836)</code>](https://github.com/elementary/terminal/commit/abe23ae5f7e9df09e3e17b524347197f5af12250)
+- [ ] [<code>Update appdata for release 6.3.1 (#842)</code>](https://github.com/elementary/terminal/commit/730c51ecfcf16561e61e44cad06b4da0a4adb010)
+- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/67be860b894fd6daa824bdf7fe04133773adac61)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -797,6 +800,8 @@
 - [ ] [<code>GesturePropertyTransition: Only call done_callback if the transition finished (#2201)</code>](https://github.com/elementary/gala/commit/e0cd37a759dd5f894fd229c79fed7edca8bb61d4)
 - [ ] [<code>Add fullscreen effect and move to old ws on close (#2194)</code>](https://github.com/elementary/gala/commit/7f92770f1f24463650641d5a0e66b32b1402f03b)
 - [ ] [<code>Remove fixme (#2208)</code>](https://github.com/elementary/gala/commit/6f572741d9a41b87b904df269eec146ec048fbe4)
+- [ ] [<code>Update issues list for 8.1.0 release (#2212)</code>](https://github.com/elementary/gala/commit/4c3dc32ab0bea85d757bf503a1d52d8b2bb404be)
+- [ ] [<code>Fix crash when using move to workspace gestures (#2211)</code>](https://github.com/elementary/gala/commit/0d8893a124c504fa5bfcf3ff34353c4cb1a9be52)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
@@ -1148,6 +1153,7 @@
 - [ ] [<code>Prevent override 10-globally-managed-devices.conf overwritten by package update (#745)</code>](https://github.com/elementary/os/commit/805f44d164c511034edd515c455fafeae280b6d2)
   - <sub>Tags: <code>8.0.0-rc3</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Issue Template: build system form (#573)</code>](https://github.com/elementary/os/commit/3b43ceb2fadb885b99e537d40923bef56b5244c5)
 
 #### [seeds](https://github.com/elementary/seeds): [31d60df70f3ae058cdee07573b14819a71d359dd → HEAD](https://github.com/elementary/seeds/compare/31d60df70f3ae058cdee07573b14819a71d359dd...HEAD)
 
