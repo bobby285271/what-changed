@@ -2,14 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [3.5 → HEAD](https://github.com/linuxmint/bulky/compare/3.5...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [3.6 → HEAD](https://github.com/linuxmint/bulky/compare/3.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/13007d5c2e418732b85bf79d67a7412584bcece4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/ae17f8462f618a4e6194582d36e6e2455eb8fdeb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.6</code>](https://github.com/linuxmint/bulky/commit/ec8bfa0a913bb46bac20532ee2adebdbd8f81a6d)
-  - <sub>Tags: <code>3.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.3...HEAD)
 
@@ -31,6 +25,11 @@
 - [ ] [<code>dialog.js: add style class dialog-button-box (#12601)</code>](https://github.com/linuxmint/cinnamon/commit/0bcdb0f7e462e468a199182a8d6ce728b6e56d0b)
 - [ ] [<code>virtualKeyboard.js: Re-enable focus monitoring.</code>](https://github.com/linuxmint/cinnamon/commit/7c6c525cf68f24c9c2e066de1fd9ed1104b72c4c)
 - [ ] [<code>main.js: Handle an end-session-dialog failure to show.</code>](https://github.com/linuxmint/cinnamon/commit/256ad2fac9203f8747b921805ed6259c134513a9)
+- [ ] [<code>power applet: Fix typo</code>](https://github.com/linuxmint/cinnamon/commit/d22070662180078c1cdbe3173044ce1333b5d0b7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power applet: Apply the proper class name to the active profile</code>](https://github.com/linuxmint/cinnamon/commit/3773ac1e7f29449c4935945dd112566c9322ed0a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>closeDialog: Fix exception when the window has no app</code>](https://github.com/linuxmint/cinnamon/commit/2aa91fc2b8113a03c59cf08021206ddfeca61561)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -133,12 +132,8 @@
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.7 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.7...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/46e325cf9dba4155f5169bb910d9e0e88623e9b4)
-- [ ] [<code>3.4.8</code>](https://github.com/linuxmint/xviewer/commit/4aaa17293c5f43ada0ef14f0a210a5c2b0410766)
-  - <sub>Tags: <code>3.4.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -165,13 +160,8 @@
 - [ ] [<code>4.9</code>](https://github.com/linuxmint/hypnotix/commit/34ab6c498d3a393372cb2500241efe56cc1a42fc)
   - <sub>Tags: <code>4.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.8 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.8...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.9 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.9...HEAD)
 
-- [ ] [<code>slick-greeter.vala: Let get_default_session support icewm and jwm. (#252)</code>](https://github.com/linuxmint/slick-greeter/commit/ef8bd5bbb05b77b79c40cf676898aa3c39baa7a7)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/53718dac32eff922175293399e627e96924fc97a)
-- [ ] [<code>2.0.9</code>](https://github.com/linuxmint/slick-greeter/commit/640a595fcdd0d7e41973b2dcb8ce671d4eafda38)
-  - <sub>Tags: <code>2.0.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.23 → HEAD](https://github.com/linuxmint/sticky/compare/1.23...HEAD)
 
