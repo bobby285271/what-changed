@@ -673,6 +673,8 @@
 - [ ] [<code>docs: Don't run gtkdoc-check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56020342bbf80eaa7a1c7243380568383318708c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c825c555635adcb83c371984694443a576c3d624)
+- [ ] [<code>build: Remove ununsed conditional</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f970959328a9eaefa5eaecf15f5d58d9bc61e818)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
