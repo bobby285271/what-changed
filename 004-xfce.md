@@ -672,6 +672,7 @@
 - [ ] [<code>XfwWorkspaceWayland: Ensure active workspace is initialized</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/930c32a24da39bc461cc51422a06609512a45b68)
 - [ ] [<code>docs: Don't run gtkdoc-check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56020342bbf80eaa7a1c7243380568383318708c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c825c555635adcb83c371984694443a576c3d624)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -2346,6 +2347,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/887180397cd54dc6260cf32019f6a815d39ea1fc)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Improve Wayland support</code>](https://github.com/xfce-mirror/xfce4-session/commit/b392de16072823feca5b840d16cbad105ad6ea77)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.18.0...HEAD)
 
