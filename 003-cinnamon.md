@@ -50,12 +50,8 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/717d8c74b57a66ccee146c228cd4966d6756d666)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/320b425e61e0c6c7e2a5162857af63c497af65f6)
-  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
@@ -122,12 +118,8 @@
   - <sub>Tags: <code>1.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.7 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.7...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/6a6fd32fcf645ff718d802fd6ee81f548a80b36e)
-- [ ] [<code>2.8.8</code>](https://github.com/linuxmint/xapp/commit/17c45eb8e68aaeea386d5e299e16379d26ba141a)
-  - <sub>Tags: <code>2.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
@@ -153,12 +145,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.8...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.9...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/f3dbbd68afd0293f9f31b6d1636cfed86de1c7ce)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.9</code>](https://github.com/linuxmint/hypnotix/commit/34ab6c498d3a393372cb2500241efe56cc1a42fc)
-  - <sub>Tags: <code>4.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.9 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.9...HEAD)
 
