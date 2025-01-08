@@ -1225,6 +1225,8 @@
 - [ ] [<code>thunarx.symbols: Add missing thunarx_provider_module_*</code>](https://github.com/xfce-mirror/thunar/commit/0e7ca67fddda7b87dfe52ebfd5a67025105863cf)
 - [ ] [<code>build: Dist thunar-{thumbnailer,thumbnail-cache}-dbus.xml</code>](https://github.com/xfce-mirror/thunar/commit/6960f73043298975a6872e5282f76958f8345b33)
 - [ ] [<code>Fix wrong selection after rename (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/e330905b18306dbecb8e9c11b11dae75d4d7543f)
+- [ ] [<code>Clean up location button context menu (#1441)</code>](https://github.com/xfce-mirror/thunar/commit/f6cbaf52b76849778312beee42a3e0c6eab29e5d)
+- [ ] [<code>Fix selection after toggling hidden files visibility (#1505)</code>](https://github.com/xfce-mirror/thunar/commit/13ccb876cc90e69b8df02707d193acaabb093804)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
