@@ -424,6 +424,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>docs: Don't run gtkdoc-check</code>](https://github.com/xfce-mirror/libxfce4util/commit/5a6952ed267a2e72febd01b4acce0e303b0ed3fd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Add missing update of --enable-visibility flag</code>](https://github.com/xfce-mirror/libxfce4util/commit/dcf4e242e88a256c645e5a9047acda747f3cbeec)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Remove unused check for XDT_CHECK_ABI</code>](https://github.com/xfce-mirror/libxfce4util/commit/efa53b3c28da7494dab99868d7849adeaeade8e7)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -1534,6 +1538,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>xfce-do-release: Fix tarball path with meson</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/38f1266a080d5cdb4253ee3c212b24bf55cd8be0)
 - [ ] [<code>Build gtk-doc during meson dist if docs present</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0da28a452a99ce54347007c3efbf2142a2ef7e0b)
+- [ ] [<code>scripts: Complete visibility doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bd5fa5b80fc462f1c30f2ba3ccef3ade22261039)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
@@ -1910,6 +1915,9 @@
 - [ ] [<code>docs: Add missing parameter to XfcePanelPlugin::hidden-event</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4ab0d8fbdd9d1ed36751b0f346852bc20ae44bed)
 - [ ] [<code>wayland: pager: Hide workspace settings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e488e77dcb1271ada5cac37be78229e5725d6276)
 - [ ] [<code>wayland: windowmenu: Hide irrelevant workspace options</code>](https://github.com/xfce-mirror/xfce4-panel/commit/62f6191ec2b93d9e1707d22556cf362044bb6e64)
+- [ ] [<code>build: Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ebe7147347f3fb3532a86a7a86a73651be2cd376)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
