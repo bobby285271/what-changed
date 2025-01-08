@@ -165,12 +165,8 @@
   - <sub>Tags: <code>24.06.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.8.1 → HEAD](https://github.com/linuxmint/xed/compare/3.8.1...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.8.2 → HEAD](https://github.com/linuxmint/xed/compare/3.8.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/9d967af7eaff8f1d552e65f1a60db316d47eb63e)
-- [ ] [<code>3.8.2</code>](https://github.com/linuxmint/xed/commit/66aee18d31c29885384bd4509376408c8c5432d3)
-  - <sub>Tags: <code>3.8.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
