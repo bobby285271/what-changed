@@ -203,6 +203,9 @@
 - [ ] [<code>Cycle tabs with Ctrl+Tab (#836)</code>](https://github.com/elementary/terminal/commit/abe23ae5f7e9df09e3e17b524347197f5af12250)
 - [ ] [<code>Update appdata for release 6.3.1 (#842)</code>](https://github.com/elementary/terminal/commit/730c51ecfcf16561e61e44cad06b4da0a4adb010)
 - [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/67be860b894fd6daa824bdf7fe04133773adac61)
+- [ ] [<code>Release version 6.3.1 (#844)</code>](https://github.com/elementary/terminal/commit/3792b4836ee0b324c76b06ce5d702e09b1f574ba)
+  - <sub>Tags: <code>6.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -802,6 +805,7 @@
 - [ ] [<code>Remove fixme (#2208)</code>](https://github.com/elementary/gala/commit/6f572741d9a41b87b904df269eec146ec048fbe4)
 - [ ] [<code>Update issues list for 8.1.0 release (#2212)</code>](https://github.com/elementary/gala/commit/4c3dc32ab0bea85d757bf503a1d52d8b2bb404be)
 - [ ] [<code>Fix crash when using move to workspace gestures (#2211)</code>](https://github.com/elementary/gala/commit/0d8893a124c504fa5bfcf3ff34353c4cb1a9be52)
+- [ ] [<code>ShellClients: Fix infinite loop on hide mode NEVER (#2219)</code>](https://github.com/elementary/gala/commit/f186305ad43f5c1518b92092d038d5d0c009f3e1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
