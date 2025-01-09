@@ -30,7 +30,9 @@
 - [ ] [<code>power applet: Apply the proper class name to the active profile</code>](https://github.com/linuxmint/cinnamon/commit/3773ac1e7f29449c4935945dd112566c9322ed0a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>closeDialog: Fix exception when the window has no app</code>](https://github.com/linuxmint/cinnamon/commit/2aa91fc2b8113a03c59cf08021206ddfeca61561)
+- [ ] [<code>eventView.js: (minor) Fix possible undefined argument for</code>](https://github.com/linuxmint/cinnamon/commit/c4c048962bf12bf3af4ed2fafa31c6c26df89953)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -82,6 +84,10 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.0...HEAD)
 
+- [ ] [<code>Add emblems for links and broken links</code>](https://github.com/linuxmint/mint-y-icons/commit/92c8bdeaa8d1ba211ce6b1c13afcd023ff3b1c0d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-y-icons/commit/189b5ee0f27c940b11605376b7bc4adfbae63f2f)
+  - <sub>Tags: <code>1.8.1</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -111,12 +117,8 @@
   - <sub>Tags: <code>3.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.7 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.7...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.8 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/dc8e08ed7dc2a30ccb40270b4b59d1011adf2439)
-- [ ] [<code>1.8.8</code>](https://github.com/linuxmint/warpinator/commit/888640147fa9e1438ee9e0842006cd9f2ddd606a)
-  - <sub>Tags: <code>1.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
 
