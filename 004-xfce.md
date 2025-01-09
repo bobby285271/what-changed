@@ -3293,3 +3293,5 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfwm4/commit/f71ad2fe348775bbf9a2c91f855a22dfc20dbaf6)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>compositor: render full screen after startup</code>](https://github.com/xfce-mirror/xfwm4/commit/6ceffedac405ccc5fc89e198cff5c9124c2afc55)
+- [ ] [<code>Update my name to the preferred format in authors</code>](https://github.com/xfce-mirror/xfwm4/commit/2c44cd64996b3cb45e16147713c31e30e6999c25)
