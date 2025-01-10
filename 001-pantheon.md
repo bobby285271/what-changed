@@ -19,6 +19,7 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
 - [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
+- [ ] [<code>Update Document.vala (#1505)</code>](https://github.com/elementary/code/commit/a538ed36e43caed493747b2c4c074a3f3673b353)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [113c3b0bc7744501d2101dd7afc1ef21ba66b326 → HEAD](https://github.com/elementary/dock/compare/113c3b0bc7744501d2101dd7afc1ef21ba66b326...HEAD)
 
@@ -222,6 +223,7 @@
 - [ ] [<code>Prevent `software_grid` change vertical position, when content changes (#359)</code>](https://github.com/elementary/switchboard-plug-about/commit/91b6fb204d57c942fc0e51055649a58f634c0f59)
 - [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
 - [ ] [<code>HardwareView: Fix fallback when hostname1 returns null values (#355)</code>](https://github.com/elementary/switchboard-plug-about/commit/4dd76ac6ecdd7e753f76c02caf109dee1894fa8b)
+- [ ] [<code>Add Update Progress Indicator (#356)</code>](https://github.com/elementary/switchboard-plug-about/commit/b0752f7773bec921b787bb7da97663b1b845cfb7)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
