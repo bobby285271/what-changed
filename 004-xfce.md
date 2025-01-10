@@ -428,6 +428,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Remove unused check for XDT_CHECK_ABI</code>](https://github.com/xfce-mirror/libxfce4util/commit/efa53b3c28da7494dab99868d7849adeaeade8e7)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Removed extra ';' in header files.</code>](https://github.com/xfce-mirror/libxfce4util/commit/64cfaa6a78a0963390631755119e79c2f148477b)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -679,6 +680,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c825c555635adcb83c371984694443a576c3d624)
 - [ ] [<code>build: Remove ununsed conditional</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f970959328a9eaefa5eaecf15f5d58d9bc61e818)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Removed extra ';' in source code.</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/efd845f84981680885f62ca8e9d29d83eb9b0e13)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -2661,6 +2663,7 @@
 - [ ] [<code>displays: Always enable first output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5093b1a426f399d635e1d67de9247c3c056848c6)
 - [ ] [<code>wayland: common: Add missing struct member initialization</code>](https://github.com/xfce-mirror/xfce4-settings/commit/daa9398421377c0d054f01a34c78002065d9ae64)
 - [ ] [<code>xfsettingsd: Don't disable DPI setting by default</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b1b854458c03248480b9cda5668113210d92d0a7)
+- [ ] [<code>xfsettingsd: Fix error handling in main()</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d7c9df0a6ecbc59456c70abcbdd57f982ca4b7c1)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
