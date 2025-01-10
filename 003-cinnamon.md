@@ -31,8 +31,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>closeDialog: Fix exception when the window has no app</code>](https://github.com/linuxmint/cinnamon/commit/2aa91fc2b8113a03c59cf08021206ddfeca61561)
 - [ ] [<code>eventView.js: (minor) Fix possible undefined argument for</code>](https://github.com/linuxmint/cinnamon/commit/c4c048962bf12bf3af4ed2fafa31c6c26df89953)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.4.5</code>](https://github.com/linuxmint/cinnamon/commit/52845fe95993a23afb3e658624bd8a9a894e1e23)
+  - <sub>Tags: <code>6.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -82,12 +84,8 @@
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.0...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.1...HEAD)
 
-- [ ] [<code>Add emblems for links and broken links</code>](https://github.com/linuxmint/mint-y-icons/commit/92c8bdeaa8d1ba211ce6b1c13afcd023ff3b1c0d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-y-icons/commit/189b5ee0f27c940b11605376b7bc4adfbae63f2f)
-  - <sub>Tags: <code>1.8.1</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
