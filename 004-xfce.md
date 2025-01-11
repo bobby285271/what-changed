@@ -318,6 +318,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6ad285b6cc4e49835466a8a80dc028df94c7493a)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix namespace for GObject introspection</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6527781862a554e97eb66564fd9334456a61c4e9)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
@@ -429,6 +430,7 @@
 - [ ] [<code>build: Remove unused check for XDT_CHECK_ABI</code>](https://github.com/xfce-mirror/libxfce4util/commit/efa53b3c28da7494dab99868d7849adeaeade8e7)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Removed extra ';' in header files.</code>](https://github.com/xfce-mirror/libxfce4util/commit/64cfaa6a78a0963390631755119e79c2f148477b)
+- [ ] [<code>Fix namespace for GObject introspection</code>](https://github.com/xfce-mirror/libxfce4util/commit/a348bd36d70c8e516cd9f57ce02b0fc01781a552)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -1233,6 +1235,7 @@
 - [ ] [<code>Fix wrong selection after rename (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/e330905b18306dbecb8e9c11b11dae75d4d7543f)
 - [ ] [<code>Clean up location button context menu (#1441)</code>](https://github.com/xfce-mirror/thunar/commit/f6cbaf52b76849778312beee42a3e0c6eab29e5d)
 - [ ] [<code>Fix selection after toggling hidden files visibility (#1505)</code>](https://github.com/xfce-mirror/thunar/commit/13ccb876cc90e69b8df02707d193acaabb093804)
+- [ ] [<code>Prevent files from vanishing after save (#1535)</code>](https://github.com/xfce-mirror/thunar/commit/c2b2fcb163e7cf8061b2f3311f861dc93992980e)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -2664,6 +2667,7 @@
 - [ ] [<code>wayland: common: Add missing struct member initialization</code>](https://github.com/xfce-mirror/xfce4-settings/commit/daa9398421377c0d054f01a34c78002065d9ae64)
 - [ ] [<code>xfsettingsd: Don't disable DPI setting by default</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b1b854458c03248480b9cda5668113210d92d0a7)
 - [ ] [<code>xfsettingsd: Fix error handling in main()</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d7c9df0a6ecbc59456c70abcbdd57f982ca4b7c1)
+- [ ] [<code>build: Fix -Wmaybe-uninitialized</code>](https://github.com/xfce-mirror/xfce4-settings/commit/82082dd2733d3ee8472e9bab9b6103d33b4e3f2e)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
