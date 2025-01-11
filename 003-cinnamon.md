@@ -33,7 +33,11 @@
 - [ ] [<code>eventView.js: (minor) Fix possible undefined argument for</code>](https://github.com/linuxmint/cinnamon/commit/c4c048962bf12bf3af4ed2fafa31c6c26df89953)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.4.5</code>](https://github.com/linuxmint/cinnamon/commit/52845fe95993a23afb3e658624bd8a9a894e1e23)
-  - <sub>Tags: <code>6.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>theme: Give the endSessionDialog a min-width</code>](https://github.com/linuxmint/cinnamon/commit/a94efe5238ba523050ebcc13f992430a4876f30f)
+- [ ] [<code>6.4.6</code>](https://github.com/linuxmint/cinnamon/commit/52d6af3d7048118ad8c50191de1b115ce207d9f0)
+  - <sub>Tags: <code>6.4.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -79,7 +83,9 @@
 
 - [ ] [<code>fix spelling (#486)</code>](https://github.com/linuxmint/mint-themes/commit/e45553981471310c2a60af98f086023778ea9f62)
 - [ ] [<code>cinnamon: Reduce padding on dialog buttons</code>](https://github.com/linuxmint/mint-themes/commit/d1b6e69e612b2c360605e328b7db982d76e1ef0f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>cinnamon: Revert previous commit and apply better fix</code>](https://github.com/linuxmint/mint-themes/commit/81461e369d33ceaf3f9da0468465c64704c1b32b)
+- [ ] [<code>2.2.3</code>](https://github.com/linuxmint/mint-themes/commit/a5e98184b6b86d469db48f17fad4b845f9eee5d8)
+  - <sub>Tags: <code>2.2.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
