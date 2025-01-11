@@ -319,6 +319,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6ad285b6cc4e49835466a8a80dc028df94c7493a)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Fix namespace for GObject introspection</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6527781862a554e97eb66564fd9334456a61c4e9)
+- [ ] [<code>Add variadic functions to Vala</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e1944828217f413fb3e034d71b1d4735b7d5aadd)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.18.0...HEAD)
 
