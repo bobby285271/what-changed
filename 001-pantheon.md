@@ -808,6 +808,11 @@
 - [ ] [<code>Update issues list for 8.1.0 release (#2212)</code>](https://github.com/elementary/gala/commit/4c3dc32ab0bea85d757bf503a1d52d8b2bb404be)
 - [ ] [<code>Fix crash when using move to workspace gestures (#2211)</code>](https://github.com/elementary/gala/commit/0d8893a124c504fa5bfcf3ff34353c4cb1a9be52)
 - [ ] [<code>ShellClients: Fix infinite loop on hide mode NEVER (#2219)</code>](https://github.com/elementary/gala/commit/f186305ad43f5c1518b92092d038d5d0c009f3e1)
+- [ ] [<code>WindowManager: Fix cancelling window move gesture (#2214)</code>](https://github.com/elementary/gala/commit/9b0b4e0dddf780ac7644d7371e9d70099a1465f1)
+- [ ] [<code>Release 8.1.0 (#2206)</code>](https://github.com/elementary/gala/commit/c1860811d50229f7d53c3673551338de832e8d46)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WorkspaceManager: Code style (#2222)</code>](https://github.com/elementary/gala/commit/bbb6f778a357146136e0f2022bb9065a7a95a428)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
