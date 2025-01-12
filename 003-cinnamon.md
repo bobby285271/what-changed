@@ -92,6 +92,14 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.1...HEAD)
 
+- [ ] [<code>legacy: Add system-search</code>](https://github.com/linuxmint/mint-y-icons/commit/f730b02be36334f2237e0a3bde950e3217a9c16b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.2</code>](https://github.com/linuxmint/mint-y-icons/commit/7b673d6aef390719ba231a624c15ed2d165773fc)
+  - <sub>Tags: <code>1.8.2</code></sub>
+- [ ] [<code>legacy: Add gtk-find</code>](https://github.com/linuxmint/mint-y-icons/commit/86290812b6f6a3a2c5a33506b62503d044ab845c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.3</code>](https://github.com/linuxmint/mint-y-icons/commit/b7434d43a4119a50b09bd80ab77bc33016ca37c4)
+  - <sub>Tags: <code>1.8.3</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
