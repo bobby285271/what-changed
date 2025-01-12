@@ -813,6 +813,8 @@
   - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WorkspaceManager: Code style (#2222)</code>](https://github.com/elementary/gala/commit/bbb6f778a357146136e0f2022bb9065a7a95a428)
+- [ ] [<code>Remove x_get_stage_window (#2224)</code>](https://github.com/elementary/gala/commit/ff7c2cbc7a01662586e0d9aebf455f632898f16a)
+- [ ] [<code>Move clutter_actor_reparent to InternalUtils (#2223)</code>](https://github.com/elementary/gala/commit/d5cb0b41f435a62607e18a006e4b9a7fe977da7e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [3.0.5 → HEAD](https://github.com/elementary/wingpanel/compare/3.0.5...HEAD)
 
