@@ -432,6 +432,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Removed extra ';' in header files.</code>](https://github.com/xfce-mirror/libxfce4util/commit/64cfaa6a78a0963390631755119e79c2f148477b)
 - [ ] [<code>Fix namespace for GObject introspection</code>](https://github.com/xfce-mirror/libxfce4util/commit/a348bd36d70c8e516cd9f57ce02b0fc01781a552)
+- [ ] [<code>Fix namespace for GObject introspection in meson build too</code>](https://github.com/xfce-mirror/libxfce4util/commit/bb9d5246844695eb87e615cc7a522ff69dca1aea)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
