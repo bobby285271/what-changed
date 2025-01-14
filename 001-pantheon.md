@@ -85,18 +85,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.0 → HEAD](https://github.com/elementary/terminal/compare/6.3.0...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.1 → HEAD](https://github.com/elementary/terminal/compare/6.3.1...HEAD)
 
-- [ ] [<code>Revert "Gtk4Prep - Handle restoring and syncing window state in App (#822)</code>](https://github.com/elementary/terminal/commit/38b731d0f7dd6d34143dff33dc8c220b59ffab82)
-- [ ] [<code>Fix clear and reset actions when ongoing foreground process (#823)</code>](https://github.com/elementary/terminal/commit/3c84bcb98ecdadb4d5e0c7a8f52fb5238f5e92f0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Only reset/clear screen when <Shift> is pressed (#827)</code>](https://github.com/elementary/terminal/commit/91b93d883c2b8a8549d9743292d6a564e3b2d3cb)
-- [ ] [<code>Cycle tabs with Ctrl+Tab (#836)</code>](https://github.com/elementary/terminal/commit/abe23ae5f7e9df09e3e17b524347197f5af12250)
-- [ ] [<code>Update appdata for release 6.3.1 (#842)</code>](https://github.com/elementary/terminal/commit/730c51ecfcf16561e61e44cad06b4da0a4adb010)
-- [ ] [<code>Update io.elementary.terminal.appdata.xml.in</code>](https://github.com/elementary/terminal/commit/67be860b894fd6daa824bdf7fe04133773adac61)
-- [ ] [<code>Release version 6.3.1 (#844)</code>](https://github.com/elementary/terminal/commit/3792b4836ee0b324c76b06ce5d702e09b1f574ba)
-  - <sub>Tags: <code>6.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -268,6 +258,8 @@
 - [ ] [<code>Move clutter_actor_reparent to InternalUtils (#2223)</code>](https://github.com/elementary/gala/commit/d5cb0b41f435a62607e18a006e4b9a7fe977da7e)
 - [ ] [<code>HotCorners: Fix custom action if there's only one (#2220)</code>](https://github.com/elementary/gala/commit/56d8cafe6962114b4973d3e18da34961563ff889)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove Clutter.get_default_backend usage (#2218)</code>](https://github.com/elementary/gala/commit/1adbbaabc0f3194d8fca79cb80403f3916a3a62a)
+- [ ] [<code>ShellClients: Use translation y instead of clone and use gesturetransition for animation (#2192)</code>](https://github.com/elementary/gala/commit/d084eb35b9ada23a4771dab2d5df5056556ae636)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
