@@ -434,6 +434,8 @@
 - [ ] [<code>Fix namespace for GObject introspection</code>](https://github.com/xfce-mirror/libxfce4util/commit/a348bd36d70c8e516cd9f57ce02b0fc01781a552)
 - [ ] [<code>Fix namespace for GObject introspection in meson build too</code>](https://github.com/xfce-mirror/libxfce4util/commit/bb9d5246844695eb87e615cc7a522ff69dca1aea)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Gobject introspection cleanup</code>](https://github.com/xfce-mirror/libxfce4util/commit/1066989337672616de3604246820b126f452640d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -2178,6 +2180,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/cccf36ec8232db8affed628af4fa78ff39993c98)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>xfpm-button.c: Grab keysyms using keycode with matching modmask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f1203a44e0258269e53946a117410d5727cab1df)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
@@ -2671,6 +2674,8 @@
 - [ ] [<code>xfsettingsd: Don't disable DPI setting by default</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b1b854458c03248480b9cda5668113210d92d0a7)
 - [ ] [<code>xfsettingsd: Fix error handling in main()</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d7c9df0a6ecbc59456c70abcbdd57f982ca4b7c1)
 - [ ] [<code>build: Fix -Wmaybe-uninitialized</code>](https://github.com/xfce-mirror/xfce4-settings/commit/82082dd2733d3ee8472e9bab9b6103d33b4e3f2e)
+- [ ] [<code>x11: displays: Delay RRScreenChangeNotify handling when DPMSModeOff</code>](https://github.com/xfce-mirror/xfce4-settings/commit/4099e120cd0645026d668c565934bd1f5b6f255c)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
