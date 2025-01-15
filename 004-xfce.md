@@ -1928,6 +1928,7 @@
 - [ ] [<code>build: Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ebe7147347f3fb3532a86a7a86a73651be2cd376)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Turn some messages into warnings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2d954b60e9a73b77ef9441989d46c84a79dfc561)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
