@@ -21,19 +21,8 @@
 - [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
 - [ ] [<code>Update Document.vala (#1505)</code>](https://github.com/elementary/code/commit/a538ed36e43caed493747b2c4c074a3f3673b353)
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.1 → HEAD](https://github.com/elementary/dock/compare/8.0.1...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
-- [ ] [<code>App: Respect startup notify key for launching animation (#299)</code>](https://github.com/elementary/dock/commit/01cfdfd8677cbfca8e818bdcf1e53ac3498074ed)
-- [ ] [<code>meson: Specify minimum GLib version (#306)</code>](https://github.com/elementary/dock/commit/3a7fc6630ac4c2513307f21774211ab85d0bf24a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Add spacing between icon and running indicator (#329)</code>](https://github.com/elementary/dock/commit/485fc0ba925d8e9c27124ef9cd603352657e873d)
-- [ ] [<code>Fix icons clipping when bouncing and separate background from window (#328)</code>](https://github.com/elementary/dock/commit/662e310fdb32fb813f2fdad1e770d6b89bc37064)
-- [ ] [<code>Dock: add 8.0.2 metainfo (#332)</code>](https://github.com/elementary/dock/commit/8b2120df53ff03c581248f334df1c10b3d191e96)
-- [ ] [<code>MainWindow: respect reduce transparency key (#333)</code>](https://github.com/elementary/dock/commit/fba1c761261b109b8718f0334318aa6ab139383b)
-- [ ] [<code>Release 8.0.2 (#338)</code>](https://github.com/elementary/dock/commit/d4644efec01e47ddd13a640c75fdc1179832304e)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
