@@ -2182,6 +2182,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/cccf36ec8232db8affed628af4fa78ff39993c98)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>xfpm-button.c: Grab keysyms using keycode with matching modmask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f1203a44e0258269e53946a117410d5727cab1df)
+- [ ] [<code>xfpm-button: Fix XkbGetMap leak in xfpm_button_keysym_to_code_mask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/ee6945754e3ec9383a419ccfa74df642c497294f)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.18.0...HEAD)
 
