@@ -424,6 +424,9 @@
 
 - [ ] [<code>update styles</code>](https://github.com/alainm23/planify/commit/833eb5eeb3a35492bc6fb2f69242a70822ddc852)
 - [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/91c4a79a07d98c5b412de23eae314252ce5b26b4)
+- [ ] [<code>Fix: Remove "Offline Mode" tooltip when network is available again</code>](https://github.com/alainm23/planify/commit/3e42e24437103103182113bc7db0241649a55e45)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1509 from byquanton/fix/offline-tooltip</code>](https://github.com/alainm23/planify/commit/455651e6044426011d94257f3f2de5bb3feffbfe)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
