@@ -373,6 +373,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Remove duplicated string (#403)</code>](https://github.com/stsdc/monitor/commit/340239fe8d86b9512c083b26df25adc8136b884c)
 - [ ] [<code>Bring back com.github.stsdc.monitor in README.md (#404)</code>](https://github.com/stsdc/monitor/commit/3c90e278999f7aedd6b6516929fda6d48f66725a)
+- [ ] [<code>add dependencies to README.md (#407)</code>](https://github.com/stsdc/monitor/commit/270c1c7a763c183341b8462c0884cffd6e85521a)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
