@@ -688,6 +688,9 @@
 - [ ] [<code>build: Remove ununsed conditional</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f970959328a9eaefa5eaecf15f5d58d9bc61e818)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Removed extra ';' in source code.</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/efd845f84981680885f62ca8e9d29d83eb9b0e13)
+- [ ] [<code>meson-build: Improve maintainability of multi-dependency features</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2eb9f85211e94fce2b47f554dae05ba521129cd5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1241,6 +1244,8 @@
 - [ ] [<code>Clean up location button context menu (#1441)</code>](https://github.com/xfce-mirror/thunar/commit/f6cbaf52b76849778312beee42a3e0c6eab29e5d)
 - [ ] [<code>Fix selection after toggling hidden files visibility (#1505)</code>](https://github.com/xfce-mirror/thunar/commit/13ccb876cc90e69b8df02707d193acaabb093804)
 - [ ] [<code>Prevent files from vanishing after save (#1535)</code>](https://github.com/xfce-mirror/thunar/commit/c2b2fcb163e7cf8061b2f3311f861dc93992980e)
+- [ ] [<code>Proper renaming of XDG user dirs (#1436)</code>](https://github.com/xfce-mirror/thunar/commit/9956aa7c348033afd8c79b49b8846c48c068dd5a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1549,6 +1554,7 @@
 - [ ] [<code>xfce-do-release: Fix tarball path with meson</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/38f1266a080d5cdb4253ee3c212b24bf55cd8be0)
 - [ ] [<code>Build gtk-doc during meson dist if docs present</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0da28a452a99ce54347007c3efbf2142a2ef7e0b)
 - [ ] [<code>scripts: Complete visibility doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bd5fa5b80fc462f1c30f2ba3ccef3ade22261039)
+- [ ] [<code>ci: Use --auto-features=enabled in meson builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/38996bafbd68ce98bdb5f4e7c8a162ab800e0f2a)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
