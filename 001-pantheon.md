@@ -76,6 +76,8 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.1 → HEAD](https://github.com/elementary/terminal/compare/6.3.1...HEAD)
 
+- [ ] [<code>Tests: add unsafe paste test (#818)</code>](https://github.com/elementary/terminal/commit/fedc90f45499fd45e35e209fbff47055630fc7db)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
