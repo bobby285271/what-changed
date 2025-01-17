@@ -1246,6 +1246,7 @@
 - [ ] [<code>Prevent files from vanishing after save (#1535)</code>](https://github.com/xfce-mirror/thunar/commit/c2b2fcb163e7cf8061b2f3311f861dc93992980e)
 - [ ] [<code>Proper renaming of XDG user dirs (#1436)</code>](https://github.com/xfce-mirror/thunar/commit/9956aa7c348033afd8c79b49b8846c48c068dd5a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Ask for confirmation when deleting trashed files (#1545)</code>](https://github.com/xfce-mirror/thunar/commit/3f5ef047379e20a3b150462879e0bc800ce71905)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
