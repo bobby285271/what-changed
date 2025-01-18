@@ -420,6 +420,8 @@
 - [ ] [<code>Fix build failing when building switchboard (#261)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5061fc713fa2a0ef77716968a5b3c7f95783b7d8)
 - [ ] [<code>Use single scalable icon (#263)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f5a0ad75bc56389e17b010fe5f7f91f4892fcf28)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Redesign to square icon (#264)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6e7deffb2364eea71e096f0ee03125212b85e186)
+- [ ] [<code>Flatpak: Fix the app may not launch (#262)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/be1042438d19cdda0ff1e3b099bf8a39b26828f2)
 
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
