@@ -436,6 +436,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Gobject introspection cleanup</code>](https://github.com/xfce-mirror/libxfce4util/commit/1066989337672616de3604246820b126f452640d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Remove duplicated CFLAGS</code>](https://github.com/xfce-mirror/libxfce4util/commit/9c44054bc823e4c835b7650310846985a63e1ef8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
