@@ -2687,6 +2687,8 @@
 - [ ] [<code>build: Fix -Wmaybe-uninitialized</code>](https://github.com/xfce-mirror/xfce4-settings/commit/82082dd2733d3ee8472e9bab9b6103d33b4e3f2e)
 - [ ] [<code>x11: displays: Delay RRScreenChangeNotify handling when DPMSModeOff</code>](https://github.com/xfce-mirror/xfce4-settings/commit/4099e120cd0645026d668c565934bd1f5b6f255c)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Bump xfconf min version</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b01e0c64ebe50775e6f430339d584a457d3a552d)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.18.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.18.0...HEAD)
 
