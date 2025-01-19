@@ -426,10 +426,32 @@
 #### [planify](https://github.com/alainm23/planify): [4.11.6 → HEAD](https://github.com/alainm23/planify/compare/4.11.6...HEAD)
 
 - [ ] [<code>update styles</code>](https://github.com/alainm23/planify/commit/833eb5eeb3a35492bc6fb2f69242a70822ddc852)
+- [ ] [<code>Update Dutch translation</code>](https://github.com/alainm23/planify/commit/4ec89ff5332cdc7bd83eb0bee83f1e9c8d9f8c38)
 - [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/91c4a79a07d98c5b412de23eae314252ce5b26b4)
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/dde5342391fd6d036650b674431a282647d90dd0)
 - [ ] [<code>Fix: Remove "Offline Mode" tooltip when network is available again</code>](https://github.com/alainm23/planify/commit/3e42e24437103103182113bc7db0241649a55e45)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1509 from byquanton/fix/offline-tooltip</code>](https://github.com/alainm23/planify/commit/455651e6044426011d94257f3f2de5bb3feffbfe)
+- [ ] [<code>Rewrite offline detection to check the connectivity per connected integration</code>](https://github.com/alainm23/planify/commit/ae4c0f0fbebc7bfb4e5a66df2286b8d2f966190f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Drop NetworkMonitor class, because it is no longer needed</code>](https://github.com/alainm23/planify/commit/388c323dd242349d70107919cc0e0f8957cb0e5f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add sync_failed call to Todoist</code>](https://github.com/alainm23/planify/commit/e1dc284686d3720b7778a664ff1af3960630661e)
+- [ ] [<code>Fix Code Format</code>](https://github.com/alainm23/planify/commit/22547891a6040583d504b2dec4fb85c5b1531ab0)
+- [ ] [<code>Make the SyncButton clickable even when it currently shows an error</code>](https://github.com/alainm23/planify/commit/f267134e3bee1252e6dcb2c95cd4817e58507e57)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Create sk_SK.po</code>](https://github.com/alainm23/planify/commit/f3a2908c12127acff59cbdb74689e0c7ed76ab37)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update planify pot and de.po</code>](https://github.com/alainm23/planify/commit/0890fca43b41ab6f21e318d85c589e6bac8814b0)
+- [ ] [<code>Merge pull request #1511 from byquanton/rewrite/offline-detection</code>](https://github.com/alainm23/planify/commit/41d18f8183af9d291c54c4d1773b9e6b329bfd4e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge pull request #1493 from haggen88/update-translation</code>](https://github.com/alainm23/planify/commit/b6628943e552fa7014499dd3baa14c9b2c7e3e5e)
+- [ ] [<code>Merge pull request #1478 from Gert-dev/update-dutch-translation</code>](https://github.com/alainm23/planify/commit/bf22a8a08196055d97cf46a1cbd03b935c952272)
+- [ ] [<code>Merge pull request #1513 from nostragodus/patch-1</code>](https://github.com/alainm23/planify/commit/be3d76222ceef7a20a86b1add46aacc47b6358e4)
+- [ ] [<code>*</code>](https://github.com/alainm23/planify/commit/3fc97ee13616337d27543f0b106f4ed71ed18364)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix #1514</code>](https://github.com/alainm23/planify/commit/e2663edcd7cd7f0c31c007839fcbc39743b51625)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
