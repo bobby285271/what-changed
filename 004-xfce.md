@@ -1249,6 +1249,8 @@
 - [ ] [<code>Proper renaming of XDG user dirs (#1436)</code>](https://github.com/xfce-mirror/thunar/commit/9956aa7c348033afd8c79b49b8846c48c068dd5a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Ask for confirmation when deleting trashed files (#1545)</code>](https://github.com/xfce-mirror/thunar/commit/3f5ef047379e20a3b150462879e0bc800ce71905)
+- [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/b17570c9b18ddd5a3de932860b0fa53acd56a9da)
+- [ ] [<code>Pass g_files into jobs instead of ThunarFiles (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/804ce060491cc50dc6f029bfb0b82748d0b78902)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
