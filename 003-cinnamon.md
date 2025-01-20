@@ -64,6 +64,7 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.3...HEAD)
 
 - [ ] [<code>nemo-places-sidebar.c: Remove delete key action for removing</code>](https://github.com/linuxmint/nemo/commit/2e3c6fc62c07a89f00c913e6d0c4e3d6f593a193)
+- [ ] [<code>nemo-places-sidebar.c: Fix bookmark renaming.</code>](https://github.com/linuxmint/nemo/commit/c51a8e5ff32a11f6feff6e44c06f4f12ffa4bd92)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
