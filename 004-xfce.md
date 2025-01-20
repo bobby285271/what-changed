@@ -137,6 +137,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/aef16fdc70464f1bc3479cedad15b0f18fef709d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>garcon: Don't install garcon-marshal.h</code>](https://github.com/xfce-mirror/garcon/commit/7c0aaed5959f5a60010aa9c3d6f9360cf2433f3b)
+- [ ] [<code>garcon: Remove include guard from private header</code>](https://github.com/xfce-mirror/garcon/commit/0baf40a530651ea3e5476ac3e91c90aa684cbff1)
+- [ ] [<code>Set up GNU symbol visibility</code>](https://github.com/xfce-mirror/garcon/commit/7fcc7f96bf7475ce42f1340f617fdca8b021cb47)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
 
