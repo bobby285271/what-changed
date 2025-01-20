@@ -443,6 +443,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Remove duplicated CFLAGS</code>](https://github.com/xfce-mirror/libxfce4util/commit/9c44054bc823e4c835b7650310846985a63e1ef8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Check for libintl only if required</code>](https://github.com/xfce-mirror/libxfce4util/commit/6ea98076910355c1d96a12b8b7d1448cd232cc4f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use relative path in gtk-doc</code>](https://github.com/xfce-mirror/libxfce4util/commit/50cb68d1606c21c0b3a3a766619462cfa716d1dd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -698,6 +702,12 @@
 - [ ] [<code>meson-build: Improve maintainability of multi-dependency features</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2eb9f85211e94fce2b47f554dae05ba521129cd5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson-build: Use relative path in gtk-doc</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/472d5f7e1419a6791430c89bc6b1b9613da10f4a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Gobject introspection cleanup</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9f58da5e6360e84582ec552e7a24971bb2dd91af)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Fix pkgdatadir definition</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/565b21c7e104a88a12ddef81e53f8bf01d08d3bd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1256,6 +1266,7 @@
 - [ ] [<code>Ask for confirmation when deleting trashed files (#1545)</code>](https://github.com/xfce-mirror/thunar/commit/3f5ef047379e20a3b150462879e0bc800ce71905)
 - [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/b17570c9b18ddd5a3de932860b0fa53acd56a9da)
 - [ ] [<code>Pass g_files into jobs instead of ThunarFiles (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/804ce060491cc50dc6f029bfb0b82748d0b78902)
+- [ ] [<code>thunar-tpa: Fix libxfce4panel include</code>](https://github.com/xfce-mirror/thunar/commit/331adea9e3dfbb7ee4c04f5d108364570a46d4ae)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1565,6 +1576,9 @@
 - [ ] [<code>Build gtk-doc during meson dist if docs present</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0da28a452a99ce54347007c3efbf2142a2ef7e0b)
 - [ ] [<code>scripts: Complete visibility doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bd5fa5b80fc462f1c30f2ba3ccef3ade22261039)
 - [ ] [<code>ci: Use --auto-features=enabled in meson builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/38996bafbd68ce98bdb5f4e7c8a162ab800e0f2a)
+- [ ] [<code>Add libcanberra-gtk3-dev to the build container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4ef88a6e8aaf3f5d6de04cdf6038becdf05c469e)
+- [ ] [<code>Add -Wno-missing-field-initializers to meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c2549789cb8486501b5a37846f3baf4728c16076)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.18.0...HEAD)
 
