@@ -252,6 +252,8 @@
 - [ ] [<code>Remove Clutter.get_default_backend usage (#2218)</code>](https://github.com/elementary/gala/commit/1adbbaabc0f3194d8fca79cb80403f3916a3a62a)
 - [ ] [<code>ShellClients: Use translation y instead of clone and use gesturetransition for animation (#2192)</code>](https://github.com/elementary/gala/commit/d084eb35b9ada23a4771dab2d5df5056556ae636)
 - [ ] [<code>Introduce a shell group (#2195)</code>](https://github.com/elementary/gala/commit/eca9b147f58e9531321f48591682c04f8c0a66ef)
+- [ ] [<code>Avoid making ScreenshotManager static (#2235)</code>](https://github.com/elementary/gala/commit/2d3e9dd3b520fde909393fab73a6e5a8c3b1c90f)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
