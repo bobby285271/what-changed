@@ -142,6 +142,9 @@
 - [ ] [<code>Set up GNU symbol visibility</code>](https://github.com/xfce-mirror/garcon/commit/7fcc7f96bf7475ce42f1340f617fdca8b021cb47)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/garcon/commit/a38b9488a099cdcff4152bce2a0ce492ae0171f7)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.18.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.18.0...HEAD)
 
@@ -447,6 +450,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Use relative path in gtk-doc</code>](https://github.com/xfce-mirror/libxfce4util/commit/50cb68d1606c21c0b3a3a766619462cfa716d1dd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Let pkg.generate() fill in required libs</code>](https://github.com/xfce-mirror/libxfce4util/commit/ad64e707e11a0be5cd11382dc74f0702450eb0ff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.19.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.19.0...HEAD)
 
@@ -707,6 +712,8 @@
 - [ ] [<code>meson-build: Gobject introspection cleanup</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9f58da5e6360e84582ec552e7a24971bb2dd91af)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Fix pkgdatadir definition</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/565b21c7e104a88a12ddef81e53f8bf01d08d3bd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Let pkg.generate() fill in required libs</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8d610d21af23a8f8a4a45c1542c101c4eea7d817)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
@@ -1267,6 +1274,8 @@
 - [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/b17570c9b18ddd5a3de932860b0fa53acd56a9da)
 - [ ] [<code>Pass g_files into jobs instead of ThunarFiles (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/804ce060491cc50dc6f029bfb0b82748d0b78902)
 - [ ] [<code>thunar-tpa: Fix libxfce4panel include</code>](https://github.com/xfce-mirror/thunar/commit/331adea9e3dfbb7ee4c04f5d108364570a46d4ae)
+- [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/39d0e29a41226c888de5ac13fa6e598e4b83041c)
+- [ ] [<code>Remove superfluous mutex ()</code>](https://github.com/xfce-mirror/thunar/commit/310fc7ed4d111b3efe92f96b32b0acccac6bbd40)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
@@ -1959,6 +1968,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Turn some messages into warnings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2d954b60e9a73b77ef9441989d46c84a79dfc561)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-panel/commit/232c24fdbae2b24831ceb7605085748024b4b1c7)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.18.0...HEAD)
 
