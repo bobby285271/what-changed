@@ -1278,6 +1278,7 @@
 - [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/39d0e29a41226c888de5ac13fa6e598e4b83041c)
 - [ ] [<code>Remove superfluous mutex ()</code>](https://github.com/xfce-mirror/thunar/commit/310fc7ed4d111b3efe92f96b32b0acccac6bbd40)
 - [ ] [<code>Fix GMount leak in thunar_file_get_emblem_names</code>](https://github.com/xfce-mirror/thunar/commit/16af5ad31d31559a547fd298cd4ab1c5d2720ecd)
+- [ ] [<code>Fix signal emitting (#1533)</code>](https://github.com/xfce-mirror/thunar/commit/5ef807d48648063c6bf5091cf825ff780ed21884)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
