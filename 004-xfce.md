@@ -715,6 +715,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Let pkg.generate() fill in required libs</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8d610d21af23a8f8a4a45c1542c101c4eea7d817)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use wnck_class_group_get_id() to attempt .desktop file icon fallback</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/027106ffec211ffb43bb52a431846d0c23ad6ec2)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.18.0...HEAD)
 
@@ -1276,6 +1277,7 @@
 - [ ] [<code>thunar-tpa: Fix libxfce4panel include</code>](https://github.com/xfce-mirror/thunar/commit/331adea9e3dfbb7ee4c04f5d108364570a46d4ae)
 - [ ] [<code>Store g_files separately in jobs (#1542)</code>](https://github.com/xfce-mirror/thunar/commit/39d0e29a41226c888de5ac13fa6e598e4b83041c)
 - [ ] [<code>Remove superfluous mutex ()</code>](https://github.com/xfce-mirror/thunar/commit/310fc7ed4d111b3efe92f96b32b0acccac6bbd40)
+- [ ] [<code>Fix GMount leak in thunar_file_get_emblem_names</code>](https://github.com/xfce-mirror/thunar/commit/16af5ad31d31559a547fd298cd4ab1c5d2720ecd)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.18.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.18.0...HEAD)
 
