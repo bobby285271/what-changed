@@ -18,6 +18,8 @@
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.1...HEAD)
 
+- [ ] [<code>org.cinnamon.desktop.interface.gschema: Mark the old scaling</code>](https://github.com/linuxmint/cinnamon-desktop/commit/508a0be369905fea36d2c8d455738aee736a90f6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
