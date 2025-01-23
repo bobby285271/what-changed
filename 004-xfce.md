@@ -1395,6 +1395,10 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/fd287fcb8947d23a94277dddf67648f087f17423)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tumbler: Don't install tumbler-marshal.h</code>](https://github.com/xfce-mirror/tumbler/commit/859b791a3c8b13d729a1f5e746b4b1e8c779805a)
+- [ ] [<code>Set up GNU symbol visibility</code>](https://github.com/xfce-mirror/tumbler/commit/aa2dba7bd8c7e4cc9def9ee71d4df3959967a876)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.18.0...HEAD)
 
