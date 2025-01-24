@@ -1399,6 +1399,10 @@
 - [ ] [<code>Set up GNU symbol visibility</code>](https://github.com/xfce-mirror/tumbler/commit/aa2dba7bd8c7e4cc9def9ee71d4df3959967a876)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ffmpeg-thumbnailer: Bump ffmpeg version and drop CHECK_VERSION</code>](https://github.com/xfce-mirror/tumbler/commit/1c074d4cd6dc77da7a1c82faaac20e1ce212ae78)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/tumbler/commit/95e86932a74a8c8200c08549a9bbb21809e2a307)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.18.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.18.0...HEAD)
 
