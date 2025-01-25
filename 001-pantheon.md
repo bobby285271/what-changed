@@ -254,6 +254,7 @@
 - [ ] [<code>Introduce a shell group (#2195)</code>](https://github.com/elementary/gala/commit/eca9b147f58e9531321f48591682c04f8c0a66ef)
 - [ ] [<code>Avoid making ScreenshotManager static (#2235)</code>](https://github.com/elementary/gala/commit/2d3e9dd3b520fde909393fab73a6e5a8c3b1c90f)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Avoid making DBusAccelerator static (#2236)</code>](https://github.com/elementary/gala/commit/74716d514cb8c5b148906c0e3b21f2a4c728b6a9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
