@@ -11,6 +11,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>cinnamon-calendar-server.py: Refresh remote calendars when the</code>](https://github.com/linuxmint/cinnamon/commit/d52e9c02cbab23507d4cb63ce7c5ffe064bc2fd8)
+- [ ] [<code>windowManager.js: Fix cleanup of WorkspaceOsd instances.</code>](https://github.com/linuxmint/cinnamon/commit/c451c0d61b2461f38f401c42ebdea46af59555c3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
