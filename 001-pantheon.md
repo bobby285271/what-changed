@@ -255,6 +255,21 @@
 - [ ] [<code>Avoid making ScreenshotManager static (#2235)</code>](https://github.com/elementary/gala/commit/2d3e9dd3b520fde909393fab73a6e5a8c3b1c90f)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Avoid making DBusAccelerator static (#2236)</code>](https://github.com/elementary/gala/commit/74716d514cb8c5b148906c0e3b21f2a4c728b6a9)
+- [ ] [<code>PointerLocator: inline namespace (#2244)</code>](https://github.com/elementary/gala/commit/42443b23394324666867b03172049a946a12e58d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowIconActor: inline namespace (#2245)</code>](https://github.com/elementary/gala/commit/86f194097ac4ca653111f258817c5726a66ed970)
+- [ ] [<code>DwellClickTimer: inline namespace (#2246)</code>](https://github.com/elementary/gala/commit/4ed139b4361ac80c128cf5c5efdb2ce12f8849a6)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Introduce NotificationsManager (#2237)</code>](https://github.com/elementary/gala/commit/cc33dd6b50ef63048829ea5bc63863e7c47e97c1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>IconGroup: Inline namespace (#2247)</code>](https://github.com/elementary/gala/commit/8d97ddd8b1e7a42016b3925a4ef1ad72545a8697)
+- [ ] [<code>IconGroupContainer: Inline namespace (#2248)</code>](https://github.com/elementary/gala/commit/475bcddda686943006e105a4419c825cd2d727fa)
+- [ ] [<code>ScreenSaverManager: inline namespace (#2249)</code>](https://github.com/elementary/gala/commit/6b3e6851b50e1b2d42ec756bf7bbf02872cff500)
+- [ ] [<code>MultitaskingView: Allow workspace switch animation to be interrupted (#2161)</code>](https://github.com/elementary/gala/commit/de8752f608bbb805663761c106946372191373bb)
+- [ ] [<code>Fix docstring (#2253)</code>](https://github.com/elementary/gala/commit/a8cb5cd43e8056b142f875bbedd8f48bd6ba299a)
+- [ ] [<code>Inline namespaces (#2252)</code>](https://github.com/elementary/gala/commit/3cac729a7b27ca58bcbe414ad423494a3aea0087)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Update POTFILES (#2254)</code>](https://github.com/elementary/gala/commit/749fa8b0fb9a44c05672f6166352e73caefa736d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
