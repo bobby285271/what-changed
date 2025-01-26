@@ -245,11 +245,11 @@
         },
         {
             "url": "https://github.com/elementary/os",
-            "from_rev": "6.1.0-rc4"
+            "from_rev": "8.0.0-rc3"
         },
         {
             "url": "https://github.com/elementary/seeds",
-            "from_rev": "31d60df70f3ae058cdee07573b14819a71d359dd"
+            "from_rev": "f235eee19c539d3ff73a8872ad5be98c81e8516b"
         }
     ]
 }
