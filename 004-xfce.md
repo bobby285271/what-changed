@@ -94,6 +94,7 @@
 - [ ] [<code>meson-build: Let pkg.generate() fill in required libs</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8d610d21af23a8f8a4a45c1542c101c4eea7d817)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use wnck_class_group_get_id() to attempt .desktop file icon fallback</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/027106ffec211ffb43bb52a431846d0c23ad6ec2)
+- [ ] [<code>XfwMonitorX11: Fix connector for virtual output</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/debd3cbd491173f35eef8f692fccb1e53bb30769)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -182,6 +183,7 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-panel/commit/232c24fdbae2b24831ceb7605085748024b4b1c7)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>actions: Restore dialog accept on Enter behavior</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aeadc9c3b2c0a2d4dc69f949f218093e60f3b7aa)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
