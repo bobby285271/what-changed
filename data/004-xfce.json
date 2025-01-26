@@ -26,7 +26,7 @@
         },
         {
             "url": "https://github.com/xfce-mirror/libxfce4windowing",
-            "from_rev": "libxfce4windowing-4.19.0"
+            "from_rev": "libxfce4windowing-4.20.0"
         },
         {
             "url": "https://github.com/xfce-mirror/thunar",
