@@ -29,6 +29,11 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Set up GNU symbol visibility for libxfce4kbd-private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3db6ccbbf720d9c6f4c1db849c28d7a634361ff6)
+- [ ] [<code>build: Fix include guard position</code>](https://github.com/xfce-mirror/libxfce4ui/commit/220659de2384f65d9561c96e7c1f7b89f87e1a46)
+- [ ] [<code>build: Include local header libxfce4ui/libxfce4ui.h</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9a90dd017d4839c7002a2c9aea68f1495c097f15)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/libxfce4ui/commit/77bfd7b570586a3871e2dfe7d7e12bce30de0bfc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -162,6 +167,7 @@
 - [ ] [<code>Add -Wno-missing-field-initializers to meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c2549789cb8486501b5a37846f3baf4728c16076)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libgladeui-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/58e5359c75728ed95f5b8194410e32c2d50e61e6)
+- [ ] [<code>ci: Support generated symbols file in meson builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/13de0ab6b3fdca4ae9f7fca4ead178181b622c98)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
