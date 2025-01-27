@@ -161,6 +161,7 @@
 - [ ] [<code>Add libcanberra-gtk3-dev to the build container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4ef88a6e8aaf3f5d6de04cdf6038becdf05c469e)
 - [ ] [<code>Add -Wno-missing-field-initializers to meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c2549789cb8486501b5a37846f3baf4728c16076)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add libgladeui-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/58e5359c75728ed95f5b8194410e32c2d50e61e6)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -184,6 +185,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>actions: Restore dialog accept on Enter behavior</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aeadc9c3b2c0a2d4dc69f949f218093e60f3b7aa)
+- [ ] [<code>meson-build: Remove unneeded conditional</code>](https://github.com/xfce-mirror/xfce4-panel/commit/389c0195e40d66738b683cfb7e8d30a60a79235d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
