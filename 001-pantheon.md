@@ -270,6 +270,10 @@
 - [ ] [<code>Inline namespaces (#2252)</code>](https://github.com/elementary/gala/commit/3cac729a7b27ca58bcbe414ad423494a3aea0087)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update POTFILES (#2254)</code>](https://github.com/elementary/gala/commit/749fa8b0fb9a44c05672f6166352e73caefa736d)
+- [ ] [<code>Move panel hiding to the shell clients (#2239)</code>](https://github.com/elementary/gala/commit/b839f53c87e187198ac8a7b1cfd6861bad46df91)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix gettext CI (#2257)</code>](https://github.com/elementary/gala/commit/6cdb79586bf57e833c089fe8eea88fa75d7a0447)
+- [ ] [<code>Send notification on screenshot (#2238)</code>](https://github.com/elementary/gala/commit/741f2acd5b56da4f1ed20b201ef44c792f4ebec9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
