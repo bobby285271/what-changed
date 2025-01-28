@@ -4,6 +4,9 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [3.6 → HEAD](https://github.com/linuxmint/bulky/compare/3.6...HEAD)
 
+- [ ] [<code>debian/control: Add missing dependency.</code>](https://github.com/linuxmint/bulky/commit/0988dd45b54664acce2d83320da0104d79d7d126)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.6...HEAD)
 
