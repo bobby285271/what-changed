@@ -230,6 +230,9 @@
 - [ ] [<code>channel: Fix get_arrayv() return value</code>](https://github.com/xfce-mirror/xfconf/commit/2d47c55e85c74333663a70e76752865f513a1731)
 - [ ] [<code>channel: Warn in case of failure in get_string_list()</code>](https://github.com/xfce-mirror/xfconf/commit/ad9eaf50943e40c4f822e6b54545fec41bb2b787)
 - [ ] [<code>channel: Complete and harmonize docs of get_string_list()/get_arrayv()</code>](https://github.com/xfce-mirror/xfconf/commit/147771a24596df01c9d8dca40151eb7643af3b28)
+- [ ] [<code>Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/xfconf/commit/edce49417625f974b8de426a1fe1a34dde4513e0)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
