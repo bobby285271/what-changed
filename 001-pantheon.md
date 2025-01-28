@@ -274,6 +274,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix gettext CI (#2257)</code>](https://github.com/elementary/gala/commit/6cdb79586bf57e833c089fe8eea88fa75d7a0447)
 - [ ] [<code>Send notification on screenshot (#2238)</code>](https://github.com/elementary/gala/commit/741f2acd5b56da4f1ed20b201ef44c792f4ebec9)
+- [ ] [<code>Split Dialog.vala into multiple files (#2256)</code>](https://github.com/elementary/gala/commit/9fd9b818a56a5becd502f1a70c3323e5ca80eef5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
 
