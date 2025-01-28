@@ -100,6 +100,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use wnck_class_group_get_id() to attempt .desktop file icon fallback</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/027106ffec211ffb43bb52a431846d0c23ad6ec2)
 - [ ] [<code>XfwMonitorX11: Fix connector for virtual output</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/debd3cbd491173f35eef8f692fccb1e53bb30769)
+- [ ] [<code>meson-build: Use meson built-in tests</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d493ebcbd61a19a374e668ea133a86978e54e502)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -238,6 +241,7 @@
 
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/5ddaef877cfd155657a9b7a4fb4cfca0d4231af5)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Fix monitor chooser UI resource path</code>](https://github.com/xfce-mirror/xfdesktop/commit/699e21b062f56bdc0db192bfe036420b2618612e)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
