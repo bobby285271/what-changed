@@ -18,6 +18,7 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/garcon/commit/a38b9488a099cdcff4152bce2a0ce492ae0171f7)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>autotools-build: Fix EXTRA_DIST redefinition</code>](https://github.com/xfce-mirror/garcon/commit/2c513ebfa320b4e89603b954385505ba34ef986a)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -34,6 +35,10 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/libxfce4ui/commit/77bfd7b570586a3871e2dfe7d7e12bce30de0bfc)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>autotools-build: Fix EXTRA_DIST redefinition</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7c83d892556f7e4ddb653e81cfb8a6c9c19de61a)
+- [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/libxfce4ui/commit/413932b72b84d2778dd164526b294d78da9696bd)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Delete obsolete file libxfce4ui-1.pc.in</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f1fa2d219cd08f84347ca84e11276c2975ab650a)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -64,6 +69,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Let pkg.generate() fill in required libs</code>](https://github.com/xfce-mirror/libxfce4util/commit/ad64e707e11a0be5cd11382dc74f0702450eb0ff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/libxfce4util/commit/6df744bce7a439ec734f11b0fce96caf245620db)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -103,6 +110,7 @@
 - [ ] [<code>meson-build: Use meson built-in tests</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d493ebcbd61a19a374e668ea133a86978e54e502)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Sanity-check the dimensions of the icon data in _NET_WM_ICON</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/005369633f07387f487d07b879e7884ee047baeb)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -152,6 +160,7 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/tumbler/commit/95e86932a74a8c8200c08549a9bbb21809e2a307)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>autotools-build: Add missing gtkdocentities.ent.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/tumbler/commit/6f86532cef9cff958f3b8b3f52be26ee422a15bd)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -195,6 +204,11 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>actions: Restore dialog accept on Enter behavior</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aeadc9c3b2c0a2d4dc69f949f218093e60f3b7aa)
 - [ ] [<code>meson-build: Remove unneeded conditional</code>](https://github.com/xfce-mirror/xfce4-panel/commit/389c0195e40d66738b683cfb7e8d30a60a79235d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>autotools-build: Fix EXTRA_DIST redefinition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/961e6d4e809efd1a865a86738e30a919c82db459)
+- [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2655f15f246d7f9b862ceb696b9aab623b3b065c)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>meson-build: Ensure xfce-revision.h was generated when using it</code>](https://github.com/xfce-mirror/xfce4-panel/commit/25466a4a96bc20a7e6ea05d6d7ccf01f891cf7aa)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
@@ -242,6 +256,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/5ddaef877cfd155657a9b7a4fb4cfca0d4231af5)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Fix monitor chooser UI resource path</code>](https://github.com/xfce-mirror/xfdesktop/commit/699e21b062f56bdc0db192bfe036420b2618612e)
+- [ ] [<code>Fix typo in issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/65df08d4326dce10cca781b11c48b1efba31a575)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
