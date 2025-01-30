@@ -20,6 +20,7 @@
 
 - [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
 - [ ] [<code>Update Document.vala (#1505)</code>](https://github.com/elementary/code/commit/a538ed36e43caed493747b2c4c074a3f3673b353)
+- [ ] [<code>Sort Apps for "Open in ..." (#1519)</code>](https://github.com/elementary/code/commit/6056e9ad8b6ea4cc7aa06fd9112482497601a152)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -286,6 +287,7 @@
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.0 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.0...HEAD)
 
+- [ ] [<code>Consistency improvement with dock menu item (#622)</code>](https://github.com/elementary/applications-menu/commit/a73561cf5a170e44da75f031daab7df199ccd340)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
