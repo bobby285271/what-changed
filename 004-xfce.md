@@ -250,6 +250,13 @@
 - [ ] [<code>Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/xfconf/commit/edce49417625f974b8de426a1fe1a34dde4513e0)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>tests: Fix test failure because of xfconfd not running</code>](https://github.com/xfce-mirror/xfconf/commit/4f8683fee5d169493c455773727f56b173e80946)
+- [ ] [<code>tests: Enable t-list-channels test</code>](https://github.com/xfce-mirror/xfconf/commit/0bba7e163a29fa91fc67cd0afe59929e1f169944)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tests: Always cleanup xfconfd process</code>](https://github.com/xfce-mirror/xfconf/commit/cb95dffdcbffe6d998664f68ae8f550069228c69)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfconf/commit/3f5b886fbcd12d44c98a253bc53e4ab4c968eea8)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
