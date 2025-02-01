@@ -263,6 +263,9 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfconf/commit/3f5b886fbcd12d44c98a253bc53e4ab4c968eea8)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>meson-build: Use path builder and fs instead of literal '/'</code>](https://github.com/xfce-mirror/xfconf/commit/45645b0c8852f40dab6a10b554a25da174e95b70)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
