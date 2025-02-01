@@ -142,6 +142,7 @@
 - [ ] [<code>Fix GMount leak in thunar_file_get_emblem_names</code>](https://github.com/xfce-mirror/thunar/commit/16af5ad31d31559a547fd298cd4ab1c5d2720ecd)
 - [ ] [<code>Fix signal emitting (#1533)</code>](https://github.com/xfce-mirror/thunar/commit/5ef807d48648063c6bf5091cf825ff780ed21884)
 - [ ] [<code>Hide the launcher for thunar-settings (#1530)</code>](https://github.com/xfce-mirror/thunar/commit/fc5e6f935499c4f172d66d6a0df6646bcfb4830b)
+- [ ] [<code>drop = in -export-symbols-regex arg</code>](https://github.com/xfce-mirror/thunar/commit/75d3417b2e5866bbb8946dea9123e4a33a7f3e44)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -209,6 +210,11 @@
 - [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2655f15f246d7f9b862ceb696b9aab623b3b065c)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>meson-build: Ensure xfce-revision.h was generated when using it</code>](https://github.com/xfce-mirror/xfce4-panel/commit/25466a4a96bc20a7e6ea05d6d7ccf01f891cf7aa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Simplify feature opt dep management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/197770fb98f8f58d59c285903dc3a53e2484127b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson-build: Don't add 'lib' prefix in static lib name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d007bc2cf3d74c8b7ce6bc1961f9f8cbc0b4c80d)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
