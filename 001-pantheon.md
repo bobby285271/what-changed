@@ -21,6 +21,8 @@
 - [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
 - [ ] [<code>Update Document.vala (#1505)</code>](https://github.com/elementary/code/commit/a538ed36e43caed493747b2c4c074a3f3673b353)
 - [ ] [<code>Sort Apps for "Open in ..." (#1519)</code>](https://github.com/elementary/code/commit/6056e9ad8b6ea4cc7aa06fd9112482497601a152)
+- [ ] [<code>Rework word completion: Split out PrefixNode class (#1529)</code>](https://github.com/elementary/code/commit/f77f5f50168b8dcf007b23b0fa70da7276c1c568)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
