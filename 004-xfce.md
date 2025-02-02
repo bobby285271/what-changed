@@ -143,6 +143,10 @@
 - [ ] [<code>Fix signal emitting (#1533)</code>](https://github.com/xfce-mirror/thunar/commit/5ef807d48648063c6bf5091cf825ff780ed21884)
 - [ ] [<code>Hide the launcher for thunar-settings (#1530)</code>](https://github.com/xfce-mirror/thunar/commit/fc5e6f935499c4f172d66d6a0df6646bcfb4830b)
 - [ ] [<code>drop = in -export-symbols-regex arg</code>](https://github.com/xfce-mirror/thunar/commit/75d3417b2e5866bbb8946dea9123e4a33a7f3e44)
+- [ ] [<code>Reallow sorting in search mode (#1528)</code>](https://github.com/xfce-mirror/thunar/commit/578dc13f9687f31d4455cc7997a39af5acd7f781)
+- [ ] [<code>Code cleanup</code>](https://github.com/xfce-mirror/thunar/commit/abb77b4596dd10721b3283c57bb80f6682b074ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Prevent location bar crash (#1539)</code>](https://github.com/xfce-mirror/thunar/commit/0d3c392a4dd54a807f291967eaf5b1a5a28ba653)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -266,6 +270,8 @@
 - [ ] [<code>meson-build: Use path builder and fs instead of literal '/'</code>](https://github.com/xfce-mirror/xfconf/commit/45645b0c8852f40dab6a10b554a25da174e95b70)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>meson-build: Add missing gir prefixes</code>](https://github.com/xfce-mirror/xfconf/commit/430d3c8af3f963cb52c696b3414702a98866bc08)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
