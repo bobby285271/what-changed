@@ -23,6 +23,8 @@
 - [ ] [<code>Sort Apps for "Open in ..." (#1519)</code>](https://github.com/elementary/code/commit/6056e9ad8b6ea4cc7aa06fd9112482497601a152)
 - [ ] [<code>Rework word completion: Split out PrefixNode class (#1529)</code>](https://github.com/elementary/code/commit/f77f5f50168b8dcf007b23b0fa70da7276c1c568)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Confirm overwriting uncommitted changes on branch change (#1524)</code>](https://github.com/elementary/code/commit/2284168cfd7b586d6d9b4f25e89188950f8b5098)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
