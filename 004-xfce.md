@@ -161,6 +161,7 @@
 - [ ] [<code>Code cleanup</code>](https://github.com/xfce-mirror/thunar/commit/abb77b4596dd10721b3283c57bb80f6682b074ab)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Prevent location bar crash (#1539)</code>](https://github.com/xfce-mirror/thunar/commit/0d3c392a4dd54a807f291967eaf5b1a5a28ba653)
+- [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/thunar/commit/982f0b30edf0db6c20f0d60b7ed7c09bd8c099f9)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -201,6 +202,11 @@
 - [ ] [<code>ci: Support generated symbols file in meson builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/13de0ab6b3fdca4ae9f7fca4ead178181b622c98)
 - [ ] [<code>Add xserver-xorg-input-libinput-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/cc8b046943f6f41079f3f45620ad4ae1986d5df0)
 - [ ] [<code>Add libcolord-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/22f9bc7d7ed11b90875eb339091b87c680aeaf33)
+- [ ] [<code>ci: Prioritize meson for container build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/cadd8051295183eeb3b8a9fdc2060c2a52dd6524)
+- [ ] [<code>ci: Use same gtk-doc detection for container and project build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/b3503511779cbef7f95311c51daa651ba75dc2a9)
+- [ ] [<code>xfce-do-release: Prioritize meson for dev releases</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/988820e160917856840a262fe3cc2b2b48e9e870)
+- [ ] [<code>Review debug mode management in the meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0b950ed6372efa415c55b928ddbf1cf7e12512ee)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -262,6 +268,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-session/commit/0d236dd8eb98cca6dd2be551498ac07b3408e6b7)
+- [ ] [<code>build: Add missing dep flags</code>](https://github.com/xfce-mirror/xfce4-session/commit/7f50270f69d4952213b519d2c985e41d3423aa55)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -276,6 +283,17 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Bump xfconf min version</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b01e0c64ebe50775e6f430339d584a457d3a552d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Simplify libxklavier version management</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5e5aea59cb2fe1c98fb3c4771f6aa3f8b3141cf0)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Make gio-unix mandatory</code>](https://github.com/xfce-mirror/xfce4-settings/commit/19f30c21825cd68a0abfaad53527d7910b94296b)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Install missing helper opera-mailer.desktop</code>](https://github.com/xfce-mirror/xfce4-settings/commit/c2d8db09e1bc06f2eaa600eec280568e285f7f06)
+- [ ] [<code>scan-build: Fix core.uninitialized.Assign</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fe69cff195ffe75db94b796622041093cba99f2b)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ec25fe9df81f9b95600bae846204e4a6f1ba94c2)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Add missing dep flags</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a6ad064fbf4dbf46a78f9ef6ec7561a0b317e3b7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
