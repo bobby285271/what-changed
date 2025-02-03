@@ -111,6 +111,20 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Sanity-check the dimensions of the icon data in _NET_WM_ICON</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/005369633f07387f487d07b879e7884ee047baeb)
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e37c6e084031466a50e8912367f9019e134ac676)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ad4e231da85beef40e6eef4d3c65c93f86d48035)
+  - <sub>Tags: <code>libxfce4windowing-4.20.1</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/79deb69586f2dc407b7cc467f76abc0b646f00b4)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>autotools-build: Unconditionally add ext-workspace-v1.xml to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/91f9998608f7faa72928d07c61e68b1e8f947dc1)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/61af2d3138a3c282d037c4aff4b3aa58bf999ab5)
+  - <sub>Tags: <code>libxfce4windowing-4.20.2</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/87d208e708870fef80f8341d0c20f4b2ac0ad3d8)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -185,6 +199,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libgladeui-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/58e5359c75728ed95f5b8194410e32c2d50e61e6)
 - [ ] [<code>ci: Support generated symbols file in meson builds</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/13de0ab6b3fdca4ae9f7fca4ead178181b622c98)
+- [ ] [<code>Add xserver-xorg-input-libinput-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/cc8b046943f6f41079f3f45620ad4ae1986d5df0)
+- [ ] [<code>Add libcolord-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/22f9bc7d7ed11b90875eb339091b87c680aeaf33)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -220,6 +236,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meson-build: Don't add 'lib' prefix in static lib name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d007bc2cf3d74c8b7ce6bc1961f9f8cbc0b4c80d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-panel/commit/244d24009bed2a521d0932c744892c8da71e80f2)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Bump libxfce4windowing required version to 4.20.1</code>](https://github.com/xfce-mirror/xfce4-panel/commit/13181303419ed1df435effd2fc9b2dd92659a377)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>libxfce4panel: Don't install xfce-panel-plugin-provider.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/de6a2a00754e47b8997192e111af28f323bc3393)
+- [ ] [<code>libxfce4panel: Add missing include guards</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3b5bab50591365636265dfd2489baeaef8804c87)
+- [ ] [<code>autotools-build: Remove some deprecated or unused CFLAGS</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e1912fa76fec800fe2114daed1d2f7f25ec7e8b6)
+- [ ] [<code>autotools-build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41cb9b2b912a8e689da61a6d483a604db76146b8)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -227,6 +251,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>xfpm-button.c: Grab keysyms using keycode with matching modmask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f1203a44e0258269e53946a117410d5727cab1df)
 - [ ] [<code>xfpm-button: Fix XkbGetMap leak in xfpm_button_keysym_to_code_mask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/ee6945754e3ec9383a419ccfa74df642c497294f)
+- [ ] [<code>build: Unconditionally add ext-idle-notify-v1.xml to EXTRA_DIST</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6439c553fd5428583bbadcf4fc16e6ca170917ac)
+- [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/122b9ba19d50d92cca09a9aa8643d272e5062603)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -235,6 +261,7 @@
 - [ ] [<code>Improve Wayland support</code>](https://github.com/xfce-mirror/xfce4-session/commit/b392de16072823feca5b840d16cbad105ad6ea77)
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-session/commit/0d236dd8eb98cca6dd2be551498ac07b3408e6b7)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
