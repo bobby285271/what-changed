@@ -37,6 +37,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/c41a1e83fe32a2a6ea99510679a7c416d8fc7ce2)
 - [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
 - [ ] [<code>Ensure scroll controller only active when `<Control>` pressed (#2513)</code>](https://github.com/elementary/files/commit/71c03d1af463e9dc009b2fc3b993d40659d4abcd)
+- [ ] [<code>CommonJob: Move scan_dir and this depending functions to Vala (#2514)</code>](https://github.com/elementary/files/commit/b0be982bbfef993e8ea87e4bb0da024bb918cd96)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -162,6 +163,8 @@
 - [ ] [<code>Meson: add log domain (#425)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/99285717b2a08815020a25e263f4f528133f459c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Multitasking: add a switch for fullscreen hotcorners (#428)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d70a5ed10dae444b21d24df6d47f27aa4951ee4d)
+- [ ] [<code>HotcornerControl/CustomCommand: Fix infinite loop (#433)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/07a1d818963e49c1cc14d710032f894dfdfa121a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
