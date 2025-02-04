@@ -262,6 +262,7 @@
 - [ ] [<code>autotools-build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41cb9b2b912a8e689da61a6d483a604db76146b8)
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c60c29d812dcee44af99e0ab1ca350430ead7881)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>libxfce4panel: Fix ABI break</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d35d56a0f8bdd491e4d7445c3c463b0fdc231e66)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -344,6 +345,10 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Fix monitor chooser UI resource path</code>](https://github.com/xfce-mirror/xfdesktop/commit/699e21b062f56bdc0db192bfe036420b2618612e)
 - [ ] [<code>Fix typo in issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/65df08d4326dce10cca781b11c48b1efba31a575)
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfdesktop/commit/56922d1f334437c33644dcdaa65f05234c70b9d6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Don't add the XfceSMClient command-line options if no X11 support</code>](https://github.com/xfce-mirror/xfdesktop/commit/61949b7e1ec785508d7549a9ebfbafb3c9cb2955)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
