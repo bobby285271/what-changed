@@ -19,6 +19,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>autotools-build: Fix EXTRA_DIST redefinition</code>](https://github.com/xfce-mirror/garcon/commit/2c513ebfa320b4e89603b954385505ba34ef986a)
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/garcon/commit/fb86364ac36704a5497900bf322fe5789a4e3161)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -39,6 +41,8 @@
 - [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/libxfce4ui/commit/413932b72b84d2778dd164526b294d78da9696bd)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Delete obsolete file libxfce4ui-1.pc.in</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f1fa2d219cd08f84347ca84e11276c2975ab650a)
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7e41ce6051fe6802243a20dd36969e30e7ab84e3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -71,6 +75,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/libxfce4util/commit/6df744bce7a439ec734f11b0fce96caf245620db)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4util/commit/21414e1954dc120bef379f77580b435f22218e38)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -125,6 +131,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/87d208e708870fef80f8341d0c20f4b2ac0ad3d8)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/87dabc7503757540b8cd2e8b32536ae4cd388817)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -181,6 +189,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>autotools-build: Add missing gtkdocentities.ent.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/tumbler/commit/6f86532cef9cff958f3b8b3f52be26ee422a15bd)
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/tumbler/commit/c98cde2f8b56068d736ce9fcf923ca7531943ead)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -250,6 +260,8 @@
 - [ ] [<code>libxfce4panel: Add missing include guards</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3b5bab50591365636265dfd2489baeaef8804c87)
 - [ ] [<code>autotools-build: Remove some deprecated or unused CFLAGS</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e1912fa76fec800fe2114daed1d2f7f25ec7e8b6)
 - [ ] [<code>autotools-build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41cb9b2b912a8e689da61a6d483a604db76146b8)
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c60c29d812dcee44af99e0ab1ca350430ead7881)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -294,6 +306,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>build: Add missing dep flags</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a6ad064fbf4dbf46a78f9ef6ec7561a0b317e3b7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bacc038b6148e5013b3d104398abcf7329f6ce84)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -316,6 +330,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>meson-build: Add missing gir prefixes</code>](https://github.com/xfce-mirror/xfconf/commit/430d3c8af3f963cb52c696b3414702a98866bc08)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfconf/commit/b3c5d20fdea9cee373722d3604f754b06c6f866c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use 'dependencies' in cc.alignment()</code>](https://github.com/xfce-mirror/xfconf/commit/d7cb7f5c80c64e8f62270339dd27eccefb1078b8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use 'pkgconfig_define' in dep.get_variable()</code>](https://github.com/xfce-mirror/xfconf/commit/f7ec19ec7a4ea329b6a8f4a7603827af62c50fac)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
