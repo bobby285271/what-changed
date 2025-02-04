@@ -452,6 +452,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix #1514</code>](https://github.com/alainm23/planify/commit/e2663edcd7cd7f0c31c007839fcbc39743b51625)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/b2e9151f0356540ffb5b239715df3ae925bf1f40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1519 from Alexandero89/readme_with_dnf_commands</code>](https://github.com/alainm23/planify/commit/641727a7a2eefce04cc17c67b464dc095473294d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
