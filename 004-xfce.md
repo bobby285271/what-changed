@@ -361,3 +361,4 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>compositor: render full screen after startup</code>](https://github.com/xfce-mirror/xfwm4/commit/6ceffedac405ccc5fc89e198cff5c9124c2afc55)
 - [ ] [<code>Update my name to the preferred format in authors</code>](https://github.com/xfce-mirror/xfwm4/commit/2c44cd64996b3cb45e16147713c31e30e6999c25)
+- [ ] [<code>build: Add missing libxfce4util flags</code>](https://github.com/xfce-mirror/xfwm4/commit/6468f80ee9283c03fc18f67361b20c6efdf3df50)
