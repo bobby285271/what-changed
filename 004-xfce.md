@@ -263,6 +263,8 @@
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c60c29d812dcee44af99e0ab1ca350430ead7881)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>libxfce4panel: Fix ABI break</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d35d56a0f8bdd491e4d7445c3c463b0fdc231e66)
+- [ ] [<code>autotools-build: Check for xfce4-dev-tools in configure.ac</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6b0c0434fdd5e0d48e5d78259db49a73fa196811)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -282,6 +284,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-session/commit/0d236dd8eb98cca6dd2be551498ac07b3408e6b7)
 - [ ] [<code>build: Add missing dep flags</code>](https://github.com/xfce-mirror/xfce4-session/commit/7f50270f69d4952213b519d2c985e41d3423aa55)
+- [ ] [<code>autotools-build: Check for xfce4-dev-tools in configure.ac</code>](https://github.com/xfce-mirror/xfce4-session/commit/4edb056b170ad798b298658ae07c8ec2143280a0)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -349,6 +353,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Don't add the XfceSMClient command-line options if no X11 support</code>](https://github.com/xfce-mirror/xfdesktop/commit/61949b7e1ec785508d7549a9ebfbafb3c9cb2955)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Manually call gtk_init() in main()</code>](https://github.com/xfce-mirror/xfdesktop/commit/4eca1d2813e71592135ee6a4a48f5c1c71a48fe2)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
