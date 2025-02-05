@@ -25,6 +25,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Confirm overwriting uncommitted changes on branch change (#1524)</code>](https://github.com/elementary/code/commit/2284168cfd7b586d6d9b4f25e89188950f8b5098)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Do not allow simultaneous opening of projects with parent-child relationship (#1500)</code>](https://github.com/elementary/code/commit/04ff18037bb8b3c67f9c0fcacca1b7b3045cb434)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -38,6 +40,9 @@
 - [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
 - [ ] [<code>Ensure scroll controller only active when `<Control>` pressed (#2513)</code>](https://github.com/elementary/files/commit/71c03d1af463e9dc009b2fc3b993d40659d4abcd)
 - [ ] [<code>CommonJob: Move scan_dir and this depending functions to Vala (#2514)</code>](https://github.com/elementary/files/commit/b0be982bbfef993e8ea87e4bb0da024bb918cd96)
+- [ ] [<code>FileOperations: Avoid crash on operation abort</code>](https://github.com/elementary/files/commit/81c13b291359cecec573e94720665f5e79ade47b)
+- [ ] [<code>LocationBar: Correctly handle `admin://` protocol; show warning (#2528)</code>](https://github.com/elementary/files/commit/af001a7b2ac7662ebb38998d8286e09fd346ca81)
+- [ ] [<code>Fix regression in path entry when in search mode (#2522)</code>](https://github.com/elementary/files/commit/82d7220c8e8fd9e6b5b497ec7f3b72cf9d13bc60)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
