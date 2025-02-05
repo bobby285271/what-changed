@@ -454,7 +454,14 @@
 - [ ] [<code>fix #1514</code>](https://github.com/alainm23/planify/commit/e2663edcd7cd7f0c31c007839fcbc39743b51625)
 - [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/b2e9151f0356540ffb5b239715df3ae925bf1f40)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add underline support</code>](https://github.com/alainm23/planify/commit/6f709338709435b2cf651e807ee1984370797243)
 - [ ] [<code>Merge pull request #1519 from Alexandero89/readme_with_dnf_commands</code>](https://github.com/alainm23/planify/commit/641727a7a2eefce04cc17c67b464dc095473294d)
+- [ ] [<code>fix: linter warnings</code>](https://github.com/alainm23/planify/commit/12482f2c7e5f0c51dd26228daeb93862cfece57a)
+- [ ] [<code>Merge branch 'alainm23:master' into master</code>](https://github.com/alainm23/planify/commit/930f3c1e036b19627b3583dbfbd4af5e0b0832ee)
+- [ ] [<code>Merge pull request #1527 from Heinrich-XIAO/master</code>](https://github.com/alainm23/planify/commit/bb178b327602da91489dff6d37625b6492f2ca04)
+- [ ] [<code>relase 4.12.0</code>](https://github.com/alainm23/planify/commit/f40e0f14def08c304e76b32683bf07ec3aa6ba07)
+  - <sub>Tags: <code>4.12.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
