@@ -219,6 +219,7 @@
 - [ ] [<code>Review debug mode management in the meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0b950ed6372efa415c55b928ddbf1cf7e12512ee)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libpolkit-gobject-1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39a3932c895ba2a6591a5b3b68c06eda2f1469dd)
+- [ ] [<code>ci: Fix random pipefail in container build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3694904964ad1eefe3d7386e473d2e234191ce51)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -356,6 +357,9 @@
 - [ ] [<code>Don't add the XfceSMClient command-line options if no X11 support</code>](https://github.com/xfce-mirror/xfdesktop/commit/61949b7e1ec785508d7549a9ebfbafb3c9cb2955)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Manually call gtk_init() in main()</code>](https://github.com/xfce-mirror/xfdesktop/commit/4eca1d2813e71592135ee6a4a48f5c1c71a48fe2)
+- [ ] [<code>Work around GTK issue with setting the file chooser button folder</code>](https://github.com/xfce-mirror/xfdesktop/commit/bca5e742598e8c23e6cb47e1deb1af83c43e2523)
+- [ ] [<code>settings: keep a reference to the backdrop preview model</code>](https://github.com/xfce-mirror/xfdesktop/commit/c8bc9173f9ec96e2e02a7bf6fbc6c904d96f3cb7)
+- [ ] [<code>Fix use-after-free when attempting to load invalid background</code>](https://github.com/xfce-mirror/xfdesktop/commit/b7a9595b49d65d9080cf06f2cbb6d20806761b16)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
@@ -364,3 +368,4 @@
 - [ ] [<code>compositor: render full screen after startup</code>](https://github.com/xfce-mirror/xfwm4/commit/6ceffedac405ccc5fc89e198cff5c9124c2afc55)
 - [ ] [<code>Update my name to the preferred format in authors</code>](https://github.com/xfce-mirror/xfwm4/commit/2c44cd64996b3cb45e16147713c31e30e6999c25)
 - [ ] [<code>build: Add missing libxfce4util flags</code>](https://github.com/xfce-mirror/xfwm4/commit/6468f80ee9283c03fc18f67361b20c6efdf3df50)
+- [ ] [<code>compositor: check if 'cwindow_hash' is a valid pointer before use</code>](https://github.com/xfce-mirror/xfwm4/commit/69a16352c9b0b6591099f63a306238272db58b3a)
