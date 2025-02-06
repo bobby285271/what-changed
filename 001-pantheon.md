@@ -4,6 +4,7 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.0.1 → HEAD](https://github.com/elementary/appcenter/compare/8.0.1...HEAD)
 
 - [ ] [<code>Various fixes in AppListUpdateView (#2237)</code>](https://github.com/elementary/appcenter/commit/d086f6567e2cb764d63fb92e92a8234079120a01)
+- [ ] [<code>Fix broken --load-local option (#2231)</code>](https://github.com/elementary/appcenter/commit/aa5763aeaaff4567d9085ae1cb64e76e7c901bdf)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -27,6 +28,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Do not allow simultaneous opening of projects with parent-child relationship (#1500)</code>](https://github.com/elementary/code/commit/04ff18037bb8b3c67f9c0fcacca1b7b3045cb434)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Store and restore active-project-path explicitly (#1472)</code>](https://github.com/elementary/code/commit/e90b56f1dde07bb75bdbcacfc9bf68d5441e1711)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -98,6 +100,7 @@
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.2 → HEAD](https://github.com/elementary/switchboard/compare/8.0.2...HEAD)
 
+- [ ] [<code>SettingsSideBar: Fix selection of the correct row (#336)</code>](https://github.com/elementary/switchboard/commit/054ab206a98af06d835192f6ea3249fbed51c4be)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.1.0...HEAD)
@@ -238,6 +241,10 @@
 - [ ] [<code>Add Mutter 47 support (#772)</code>](https://github.com/elementary/greeter/commit/882336b3e77b6811a5f7c698ef983d4a4bc29249)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Run our session manager as a separate process (#779)</code>](https://github.com/elementary/greeter/commit/1ff4a049e30e80fb9b92fb0f40ad300a4da885d2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/greeter/commit/d0a817ebe89a6334e91713ab6fa05e8568bb13ed)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -300,6 +307,9 @@
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.0 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.0...HEAD)
 
 - [ ] [<code>Consistency improvement with dock menu item (#622)</code>](https://github.com/elementary/applications-menu/commit/a73561cf5a170e44da75f031daab7df199ccd340)
+- [ ] [<code>Remove libsoup dep (#625)</code>](https://github.com/elementary/applications-menu/commit/fda933350555776bb198d898fce3fc923df65142)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
