@@ -170,6 +170,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Prevent location bar crash (#1539)</code>](https://github.com/xfce-mirror/thunar/commit/0d3c392a4dd54a807f291967eaf5b1a5a28ba653)
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/thunar/commit/982f0b30edf0db6c20f0d60b7ed7c09bd8c099f9)
+- [ ] [<code>Fix wrong selection after rename in list view (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/536a3b2c8ad577eb389086bb39ccab34128e2e26)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -217,6 +218,7 @@
 - [ ] [<code>xfce-do-release: Prioritize meson for dev releases</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/988820e160917856840a262fe3cc2b2b48e9e870)
 - [ ] [<code>Review debug mode management in the meson template</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0b950ed6372efa415c55b928ddbf1cf7e12512ee)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add libpolkit-gobject-1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39a3932c895ba2a6591a5b3b68c06eda2f1469dd)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
