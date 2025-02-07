@@ -105,6 +105,7 @@
 
 - [ ] [<code>SettingsSideBar: Fix selection of the correct row (#336)</code>](https://github.com/elementary/switchboard/commit/054ab206a98af06d835192f6ea3249fbed51c4be)
 - [ ] [<code>Application: don't use gtk_use_portal (#339)</code>](https://github.com/elementary/switchboard/commit/f91e5558cf9e44113c4895541df207a0fa25ba92)
+- [ ] [<code>Revert "SettingsSideBar: Fix selection of the correct row (#336)" (#340)</code>](https://github.com/elementary/switchboard/commit/89985cb23b46a47156f720372bb879395a2d5c62)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.1.0...HEAD)
