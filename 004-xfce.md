@@ -171,6 +171,7 @@
 - [ ] [<code>Prevent location bar crash (#1539)</code>](https://github.com/xfce-mirror/thunar/commit/0d3c392a4dd54a807f291967eaf5b1a5a28ba653)
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/thunar/commit/982f0b30edf0db6c20f0d60b7ed7c09bd8c099f9)
 - [ ] [<code>Fix wrong selection after rename in list view (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/536a3b2c8ad577eb389086bb39ccab34128e2e26)
+- [ ] [<code>Improve widgets in properties dialog (#1537)</code>](https://github.com/xfce-mirror/thunar/commit/4b05eccedb3945a0b211066ddb427230af094d21)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -372,6 +373,12 @@
 - [ ] [<code>Work around GTK issue with setting the file chooser button folder</code>](https://github.com/xfce-mirror/xfdesktop/commit/bca5e742598e8c23e6cb47e1deb1af83c43e2523)
 - [ ] [<code>settings: keep a reference to the backdrop preview model</code>](https://github.com/xfce-mirror/xfdesktop/commit/c8bc9173f9ec96e2e02a7bf6fbc6c904d96f3cb7)
 - [ ] [<code>Fix use-after-free when attempting to load invalid background</code>](https://github.com/xfce-mirror/xfdesktop/commit/b7a9595b49d65d9080cf06f2cbb6d20806761b16)
+- [ ] [<code>Initialize icon label font point size settings to defaults</code>](https://github.com/xfce-mirror/xfdesktop/commit/81bea4a037c2ed1c6b29d90c376d73020cc086ca)
+- [ ] [<code>For the "unknown volumes" type, don't require it to be removable</code>](https://github.com/xfce-mirror/xfdesktop/commit/3639877163478e1360f102f543605331bc8da421)
+- [ ] [<code>Show loop device volumes if "Other Devices" is selected</code>](https://github.com/xfce-mirror/xfdesktop/commit/661250f48e384776f6d1c1d93b205625fa7b27f3)
+- [ ] [<code>Remove debugging log statement</code>](https://github.com/xfce-mirror/xfdesktop/commit/52a1dd8f9b0c030b440b875e93ff9ca98a120b1a)
+- [ ] [<code>Ensure single-workspace-number is never set to a negative value</code>](https://github.com/xfce-mirror/xfdesktop/commit/36697013d7657f94031b68565f9db88d5744301b)
+- [ ] [<code>Don't send URIs to the clipboard when the paster requests UTF8_STRING</code>](https://github.com/xfce-mirror/xfdesktop/commit/07028b760477b931d8bb594c0829d143e7c7d460)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
