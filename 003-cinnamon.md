@@ -16,9 +16,11 @@
 - [ ] [<code>cinnamon-calendar-server.py: Refresh remote calendars when the</code>](https://github.com/linuxmint/cinnamon/commit/d52e9c02cbab23507d4cb63ce7c5ffe064bc2fd8)
 - [ ] [<code>windowManager.js: Fix cleanup of WorkspaceOsd instances.</code>](https://github.com/linuxmint/cinnamon/commit/c451c0d61b2461f38f401c42ebdea46af59555c3)
 - [ ] [<code>build: Improve variable names for NetworkManager options.</code>](https://github.com/linuxmint/cinnamon/commit/9e9bf8a8dab3ad26cdde20e569ff4feaf39dbceb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>st-entry.c: Fix argument order for _st_paint_shadow_with_opacity().</code>](https://github.com/linuxmint/cinnamon/commit/20a276822bac8506af272080b9d8f87f4dfd53dc)
+- [ ] [<code>Fixed issue with grouped-window-list-thumbnail-menu hover (#12666)</code>](https://github.com/linuxmint/cinnamon/commit/49179c7058f0fd520d8ecbb92e4288a5a3bd7e2b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -100,6 +102,8 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
+- [ ] [<code>Update private.h: gcc-15 build fix (#667)</code>](https://github.com/linuxmint/xreader/commit/39b19ced58874908147d7aeaab8aa7674a123672)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
