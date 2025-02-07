@@ -29,6 +29,8 @@
 - [ ] [<code>Do not allow simultaneous opening of projects with parent-child relationship (#1500)</code>](https://github.com/elementary/code/commit/04ff18037bb8b3c67f9c0fcacca1b7b3045cb434)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Store and restore active-project-path explicitly (#1472)</code>](https://github.com/elementary/code/commit/e90b56f1dde07bb75bdbcacfc9bf68d5441e1711)
+- [ ] [<code>Rework word completion: Start to prepare PrefixNode for dynamic updating (#1532)</code>](https://github.com/elementary/code/commit/857a8713d2b00eac2955efc1eb6ac799f4eb1ac0)
+- [ ] [<code>Remove unneeded check in Vala Symbol pane (#1514)</code>](https://github.com/elementary/code/commit/522235c120d0786c03ecd64ba57ebbdcdf053f79)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -91,6 +93,7 @@
 
 - [ ] [<code>Tests: add unsafe paste test (#818)</code>](https://github.com/elementary/terminal/commit/fedc90f45499fd45e35e209fbff47055630fc7db)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix focussing terminal after select (#846)</code>](https://github.com/elementary/terminal/commit/905904ed34461a29b953c72cbacb369a1427a158)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -101,6 +104,7 @@
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.2 → HEAD](https://github.com/elementary/switchboard/compare/8.0.2...HEAD)
 
 - [ ] [<code>SettingsSideBar: Fix selection of the correct row (#336)</code>](https://github.com/elementary/switchboard/commit/054ab206a98af06d835192f6ea3249fbed51c4be)
+- [ ] [<code>Application: don't use gtk_use_portal (#339)</code>](https://github.com/elementary/switchboard/commit/f91e5558cf9e44113c4895541df207a0fa25ba92)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.1.0...HEAD)
@@ -186,6 +190,7 @@
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
 
+- [ ] [<code>DLNAPage: use Gtk.FileDialog (#89)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/19880acb82b1c436eeec807b7055c46896e4d9d8)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
@@ -212,6 +217,10 @@
 - [ ] [<code>Update placement of palette file, add support for local flatpack inst… (#1328)</code>](https://github.com/elementary/icons/commit/cf3540b017a108dde880149c877a48c0b56a605b)
 - [ ] [<code>Actions: Match `tool-pointer` and `tool-node-editor` to new cursor shapes (#1329)</code>](https://github.com/elementary/icons/commit/3aa99e1ea7a90db14163c13cdf57b0710b794104)
 - [ ] [<code>Devices: add scroll wheel to mouse (#1310)</code>](https://github.com/elementary/icons/commit/b33125eefb60c445d93ec108e45f29ae1176ee81)
+- [ ] [<code>Compose mime-types during the build process (#1334)</code>](https://github.com/elementary/icons/commit/13dbb8afd688ab4a1ba76827ccd1f3e279ada31e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Places: New design for folder icons (#1311)</code>](https://github.com/elementary/icons/commit/39e8a294217dd14102567286b39244c4a62dbbc4)
+- [ ] [<code>Places: add start-here (#1339)</code>](https://github.com/elementary/icons/commit/038e071488b0e1cddd7c48fe18633a44a9fb8907)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -371,6 +380,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/granite/commit/6e142c1d31ed4a77403f60ca2fec00ca597a282c)
 - [ ] [<code>Add version annotation to Granite.Bin (#740)</code>](https://github.com/elementary/granite/commit/553c3172ed73dd59ab3fb79ce53c0226106a24f1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Icons: add alias for adw-entry-apply-symbolic (#743)</code>](https://github.com/elementary/granite/commit/399f6b01bb53b7690b3da206314cff3c23ef2750)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -405,6 +415,7 @@
 - [ ] [<code>SystemUpdate: Share last refresh time via DBus (#175)</code>](https://github.com/elementary/settings-daemon/commit/6a387c2b8a53854cc898b8a5b1b77861b3c9591b)
 - [ ] [<code>meson: Fix use of string value for a boolean option (#176)</code>](https://github.com/elementary/settings-daemon/commit/66323229bb60deb4ac12105f420ebda39e4c588e)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>Skip held-back packages during system update check (#178)</code>](https://github.com/elementary/settings-daemon/commit/1072d0e580c30f346b8eab2239d73973f080c410)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
