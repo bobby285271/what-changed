@@ -220,6 +220,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libpolkit-gobject-1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39a3932c895ba2a6591a5b3b68c06eda2f1469dd)
 - [ ] [<code>ci: Fix random pipefail in container build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3694904964ad1eefe3d7386e473d2e234191ce51)
+- [ ] [<code>meson-template: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2ee265b4ce4a3500998726cd06b1781d6cb887f2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -289,6 +291,16 @@
 - [ ] [<code>build: Add missing dep flags</code>](https://github.com/xfce-mirror/xfce4-session/commit/7f50270f69d4952213b519d2c985e41d3423aa55)
 - [ ] [<code>autotools-build: Check for xfce4-dev-tools in configure.ac</code>](https://github.com/xfce-mirror/xfce4-session/commit/4edb056b170ad798b298658ae07c8ec2143280a0)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Add missing check for sigprocmask</code>](https://github.com/xfce-mirror/xfce4-session/commit/3970cfbe97db1b0b666cb6f5fdce313ab5aacb67)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Fix wrong include guard</code>](https://github.com/xfce-mirror/xfce4-session/commit/be9d921bdb7cbcf1777a7be64b72d134eebbfc13)
+- [ ] [<code>build: Add missing checks for headers</code>](https://github.com/xfce-mirror/xfce4-session/commit/7110058a5f037b408c99c024c85733904efde27e)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>scripts: Remove unused .in level in xinitrc</code>](https://github.com/xfce-mirror/xfce4-session/commit/84d091fd4fbe3137a949c8b1306385e3face356d)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-session/commit/a3f621f6a46b7d9913367dd5ff85ffbe97f72145)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
