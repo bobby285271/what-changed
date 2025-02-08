@@ -308,15 +308,8 @@
 - [ ] [<code>Split Dialog.vala into multiple files (#2256)</code>](https://github.com/elementary/gala/commit/9fd9b818a56a5becd502f1a70c3323e5ca80eef5)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.1 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.1...HEAD)
+#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
-- [ ] [<code>Updated To Mutter47 (libmutter-15) (#593)</code>](https://github.com/elementary/wingpanel/commit/0baabaed455102ac300ab67c12d44ee6647006fe)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#598)</code>](https://github.com/elementary/wingpanel/commit/ba98fbe4781e3097edcac8c052169daaf57fde3a)
-- [ ] [<code>Release 8.0.2 (#599)</code>](https://github.com/elementary/wingpanel/commit/ce0dcaea6f7287150cf7fb65c09557a3696591a5)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.0 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.0...HEAD)
