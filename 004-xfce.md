@@ -21,6 +21,10 @@
 - [ ] [<code>autotools-build: Fix EXTRA_DIST redefinition</code>](https://github.com/xfce-mirror/garcon/commit/2c513ebfa320b4e89603b954385505ba34ef986a)
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/garcon/commit/fb86364ac36704a5497900bf322fe5789a4e3161)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/garcon/commit/3b40f587075ab6d3c2e699936c72a9875defba0e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add tests option</code>](https://github.com/xfce-mirror/garcon/commit/3a64667fcc87a37718e7200c57d6800a4c49702b)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -42,6 +46,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Delete obsolete file libxfce4ui-1.pc.in</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f1fa2d219cd08f84347ca84e11276c2975ab650a)
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7e41ce6051fe6802243a20dd36969e30e7ab84e3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4ui/commit/13ce2b919c67bd7f9b0d8c58ee2d0f268befa8e3)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
@@ -76,6 +82,8 @@
 - [ ] [<code>build: Use VERSION_FULL intead of VERSION or PACKAGE_VERSION</code>](https://github.com/xfce-mirror/libxfce4util/commit/6df744bce7a439ec734f11b0fce96caf245620db)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4util/commit/21414e1954dc120bef379f77580b435f22218e38)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4util/commit/4d8b47e3afaafbd7c59434bfb60c59ebf51e81ef)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
@@ -133,6 +141,13 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/87dabc7503757540b8cd2e8b32536ae4cd388817)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Specify wayland-scanner as a native dependency</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/82c2186e3dc39f15d3e5ef6bb815da143d3b4b4e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/402df4bcaa949be1a81bb52585b8a81b764f5382)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Reintroduce tests option</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1b3523315802fb60d8ad70739b00f812fd348ddb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -192,6 +207,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>autotools-build: Add missing gtkdocentities.ent.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/tumbler/commit/6f86532cef9cff958f3b8b3f52be26ee422a15bd)
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/tumbler/commit/c98cde2f8b56068d736ce9fcf923ca7531943ead)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/tumbler/commit/258208c085bee584ccf314e632471ab377d91ded)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
@@ -271,6 +288,8 @@
 - [ ] [<code>libxfce4panel: Fix ABI break</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d35d56a0f8bdd491e4d7445c3c463b0fdc231e66)
 - [ ] [<code>autotools-build: Check for xfce4-dev-tools in configure.ac</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6b0c0434fdd5e0d48e5d78259db49a73fa196811)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-panel/commit/771c15bd8b47017efe5a6c0caeb3640fa56eba15)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -280,6 +299,9 @@
 - [ ] [<code>xfpm-button: Fix XkbGetMap leak in xfpm_button_keysym_to_code_mask</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/ee6945754e3ec9383a419ccfa74df642c497294f)
 - [ ] [<code>build: Unconditionally add ext-idle-notify-v1.xml to EXTRA_DIST</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6439c553fd5428583bbadcf4fc16e6ca170917ac)
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/122b9ba19d50d92cca09a9aa8643d272e5062603)
+- [ ] [<code>Removed support for systray</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/a6ffa86163248ee098484d4230508098a4e9d79a)
+- [ ] [<code>Refactored panel plugin code</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/89333d5c73d3f78957c5ba125f3c0970a62e09eb)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -329,6 +351,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Update debug/optimization flag management</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bacc038b6148e5013b3d104398abcf7329f6ce84)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Specify wayland-scanner as a native dependency</code>](https://github.com/xfce-mirror/xfce4-settings/commit/719700495d64af6e1048795df24159e390783950)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ebabf0789dda47d591423bdc6266a7edf1d89a6b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -357,6 +384,10 @@
 - [ ] [<code>meson-build: Use 'dependencies' in cc.alignment()</code>](https://github.com/xfce-mirror/xfconf/commit/d7cb7f5c80c64e8f62270339dd27eccefb1078b8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Use 'pkgconfig_define' in dep.get_variable()</code>](https://github.com/xfce-mirror/xfconf/commit/f7ec19ec7a4ea329b6a8f4a7603827af62c50fac)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add tests option</code>](https://github.com/xfce-mirror/xfconf/commit/2298f994fa0ec46eb91ed5c71537b70c59a13669)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfconf/commit/caf7ca0eb344fc1e463697105d3c036dce2935d8)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
