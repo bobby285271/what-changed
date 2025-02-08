@@ -31,6 +31,7 @@
 - [ ] [<code>Store and restore active-project-path explicitly (#1472)</code>](https://github.com/elementary/code/commit/e90b56f1dde07bb75bdbcacfc9bf68d5441e1711)
 - [ ] [<code>Rework word completion: Start to prepare PrefixNode for dynamic updating (#1532)</code>](https://github.com/elementary/code/commit/857a8713d2b00eac2955efc1eb6ac799f4eb1ac0)
 - [ ] [<code>Remove unneeded check in Vala Symbol pane (#1514)</code>](https://github.com/elementary/code/commit/522235c120d0786c03ecd64ba57ebbdcdf053f79)
+- [ ] [<code>WelcomeView: use resourced icon for project (#1535)</code>](https://github.com/elementary/code/commit/3b7f2f809a5e09ce54f933928cb12ad1e0762499)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -312,6 +313,10 @@
 - [ ] [<code>Updated To Mutter47 (libmutter-15) (#593)</code>](https://github.com/elementary/wingpanel/commit/0baabaed455102ac300ab67c12d44ee6647006fe)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#598)</code>](https://github.com/elementary/wingpanel/commit/ba98fbe4781e3097edcac8c052169daaf57fde3a)
+- [ ] [<code>Release 8.0.2 (#599)</code>](https://github.com/elementary/wingpanel/commit/ce0dcaea6f7287150cf7fb65c09557a3696591a5)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.0 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.0...HEAD)
