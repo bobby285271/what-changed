@@ -148,6 +148,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Reintroduce tests option</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1b3523315802fb60d8ad70739b00f812fd348ddb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>meson-build: Add missing conditional for ext-workspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/992ccaad6b9b38cfc80a3bed4f304446ad8e3b38)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -324,6 +326,8 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-session/commit/a3f621f6a46b7d9913367dd5ff85ffbe97f72145)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>meson-build: Remove unnecessary check for gzip</code>](https://github.com/xfce-mirror/xfce4-session/commit/c9c02fa259560b624629b0ded812ea80c605578b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -410,6 +414,8 @@
 - [ ] [<code>Remove debugging log statement</code>](https://github.com/xfce-mirror/xfdesktop/commit/52a1dd8f9b0c030b440b875e93ff9ca98a120b1a)
 - [ ] [<code>Ensure single-workspace-number is never set to a negative value</code>](https://github.com/xfce-mirror/xfdesktop/commit/36697013d7657f94031b68565f9db88d5744301b)
 - [ ] [<code>Don't send URIs to the clipboard when the paster requests UTF8_STRING</code>](https://github.com/xfce-mirror/xfdesktop/commit/07028b760477b931d8bb594c0829d143e7c7d460)
+- [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfdesktop/commit/9851955269d0c3f7b1eadb0b605e8ca4aa321b88)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
