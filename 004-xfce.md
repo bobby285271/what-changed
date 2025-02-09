@@ -309,6 +309,8 @@
 - [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/da36acddbd1bab20181fb95f9929944532af8bc0)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>meson-build: Fix missing prefix in polkit file</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/63a5a3d616f745322a577505becc54ac6de91bf5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -370,6 +372,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ebabf0789dda47d591423bdc6266a7edf1d89a6b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-settings/commit/35c3c91c07fcd167a5d4dfa75ecc29f4e132cb5e)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
