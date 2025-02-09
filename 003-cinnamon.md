@@ -73,13 +73,8 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
 
-#### [nemo](https://github.com/linuxmint/nemo): [6.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.3...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.4.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.4...HEAD)
 
-- [ ] [<code>nemo-places-sidebar.c: Remove delete key action for removing</code>](https://github.com/linuxmint/nemo/commit/2e3c6fc62c07a89f00c913e6d0c4e3d6f593a193)
-- [ ] [<code>nemo-places-sidebar.c: Fix bookmark renaming.</code>](https://github.com/linuxmint/nemo/commit/c51a8e5ff32a11f6feff6e44c06f4f12ffa4bd92)
-- [ ] [<code>6.4.4</code>](https://github.com/linuxmint/nemo/commit/c5bab9b598171ccfbf8d6033d6f4e61302a61868)
-  - <sub>Tags: <code>6.4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
