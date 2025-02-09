@@ -304,6 +304,11 @@
 - [ ] [<code>Removed support for systray</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/a6ffa86163248ee098484d4230508098a4e9d79a)
 - [ ] [<code>Refactored panel plugin code</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/89333d5c73d3f78957c5ba125f3c0970a62e09eb)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Remove unused level of substitution for desktop file</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6fdd51cf90ea292ef6e38de2f996445260779b92)
+- [ ] [<code>icons: Fix missing icons and wrong install dir in 32x32</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/cbc50d9ff25421dd3976e4de9cc1c52aba8db08c)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/da36acddbd1bab20181fb95f9929944532af8bc0)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -328,6 +333,11 @@
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>meson-build: Remove unnecessary check for gzip</code>](https://github.com/xfce-mirror/xfce4-session/commit/c9c02fa259560b624629b0ded812ea80c605578b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add missing freebsd variant</code>](https://github.com/xfce-mirror/xfce4-session/commit/bfe5424fdb92a9ca407314f7af2f6db8f517022b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add missing HAVE_POLKIT flag</code>](https://github.com/xfce-mirror/xfce4-session/commit/28216b4f9c42e1801ca61ad7c4bf7a5405851305)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
