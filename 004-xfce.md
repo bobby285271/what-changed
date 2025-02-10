@@ -150,6 +150,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>meson-build: Add missing conditional for ext-workspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/992ccaad6b9b38cfc80a3bed4f304446ad8e3b38)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>XfwWnckIcon: Fix wrong compare func</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e58801e1f8455c928ff133ccde206b105f2bcc01)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
