@@ -8,7 +8,7 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.6...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -20,6 +20,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>st-entry.c: Fix argument order for _st_paint_shadow_with_opacity().</code>](https://github.com/linuxmint/cinnamon/commit/20a276822bac8506af272080b9d8f87f4dfd53dc)
 - [ ] [<code>Fixed issue with grouped-window-list-thumbnail-menu hover (#12666)</code>](https://github.com/linuxmint/cinnamon/commit/49179c7058f0fd520d8ecbb92e4288a5a3bd7e2b)
+- [ ] [<code>gestures: Show the OSD when using gestures to change volume (#12731)</code>](https://github.com/linuxmint/cinnamon/commit/96278772b7f5ad2a5ebd26d935d6e3c71e317741)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -75,6 +76,8 @@
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.4...HEAD)
 
+- [ ] [<code>layout editor: Don't use gettext.install to set up the locale.</code>](https://github.com/linuxmint/nemo/commit/a27a6ecd151bd0d48b83dc11aa83475cd90edab9)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
