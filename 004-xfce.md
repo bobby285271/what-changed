@@ -85,6 +85,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4util/commit/4d8b47e3afaafbd7c59434bfb60c59ebf51e81ef)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xfce-rc: Fix C locale handling</code>](https://github.com/xfce-mirror/libxfce4util/commit/bd1538ad305dabcdafb0d9015a6a768823f31609)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
