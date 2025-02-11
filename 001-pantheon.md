@@ -308,6 +308,7 @@
 - [ ] [<code>Send notification on screenshot (#2238)</code>](https://github.com/elementary/gala/commit/741f2acd5b56da4f1ed20b201ef44c792f4ebec9)
 - [ ] [<code>Split Dialog.vala into multiple files (#2256)</code>](https://github.com/elementary/gala/commit/9fd9b818a56a5becd502f1a70c3323e5ca80eef5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/99d3f17657fce41d923bebcda49da277fbee3af1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
@@ -328,6 +329,9 @@
 #### [pantheon.wingpanel-indicator-bluetooth](https://github.com/elementary/wingpanel-indicator-bluetooth): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-bluetooth/compare/8.0.0...HEAD)
 
 - [ ] [<code>Fix meson deprecations (#218)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/66b70631095ab6480dee077f2360668a6511af45)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove unused LibNotify dep (#220)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/395f3476c8d8af943eb40dd832897d5c6e4c3b5e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
@@ -416,6 +420,8 @@
 - [ ] [<code>meson: Fix use of string value for a boolean option (#176)</code>](https://github.com/elementary/settings-daemon/commit/66323229bb60deb4ac12105f420ebda39e4c588e)
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>Skip held-back packages during system update check (#178)</code>](https://github.com/elementary/settings-daemon/commit/1072d0e580c30f346b8eab2239d73973f080c410)
+- [ ] [<code>Metainfo: update 8.2.0 release notes (#180)</code>](https://github.com/elementary/settings-daemon/commit/f5b276756d5e33476ff3dd7807dc0344437b414c)
+- [ ] [<code>Get update size from PackageKit (#179)</code>](https://github.com/elementary/settings-daemon/commit/e4874e6bc2d2f24c0b3e02c7d46c00282b7b5d1e)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
