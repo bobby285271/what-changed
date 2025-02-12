@@ -36,6 +36,8 @@
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
+- [ ] [<code>Introduce an AppSystem (#336)</code>](https://github.com/elementary/dock/commit/a8c320fd0bc7c49c2de6d3117caee0f1da6794a2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -257,6 +259,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/greeter/commit/d0a817ebe89a6334e91713ab6fa05e8568bb13ed)
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#782)</code>](https://github.com/elementary/greeter/commit/91f944ecbc9e2071a3c31768dba05f03f2b4fad0)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -369,6 +372,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Show the device model if available (#275)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9a11a7a117064c846bed1c2e3c013823752d36b)
 - [ ] [<code>Optimize Battery Icon Calculation and State Handling (#273)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/148b169782d43b1e3fc4798acd514bd695ec952d)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#279)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d1982ee10f685981f089c4ca95e87de54eb65af4)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
@@ -385,6 +389,8 @@
 - [ ] [<code>Add version annotation to Granite.Bin (#740)</code>](https://github.com/elementary/granite/commit/553c3172ed73dd59ab3fb79ce53c0226106a24f1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Icons: add alias for adw-entry-apply-symbolic (#743)</code>](https://github.com/elementary/granite/commit/399f6b01bb53b7690b3da206314cff3c23ef2750)
+- [ ] [<code>Constants: add numeric css class (#745)</code>](https://github.com/elementary/granite/commit/fff6d4358efca9d27fe7339158c60c5497bc08c1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -422,6 +428,9 @@
 - [ ] [<code>Skip held-back packages during system update check (#178)</code>](https://github.com/elementary/settings-daemon/commit/1072d0e580c30f346b8eab2239d73973f080c410)
 - [ ] [<code>Metainfo: update 8.2.0 release notes (#180)</code>](https://github.com/elementary/settings-daemon/commit/f5b276756d5e33476ff3dd7807dc0344437b414c)
 - [ ] [<code>Get update size from PackageKit (#179)</code>](https://github.com/elementary/settings-daemon/commit/e4874e6bc2d2f24c0b3e02c7d46c00282b7b5d1e)
+- [ ] [<code>Release 8.2.0 (#181)</code>](https://github.com/elementary/settings-daemon/commit/ca054f781f82da7a2d90b4228c5de270aee7824d)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
