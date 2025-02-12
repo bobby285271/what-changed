@@ -219,6 +219,12 @@
 
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/bf60d0f0087abf05dcc34472c8ca65e9f83f778d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add support to Meson</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/ffb337651f5b531201c2f203ef01528bc2ed601c)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Fix potential dereference of NULL</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/de94d885f9900ba2f62ba2477a649226935dc63b)
+- [ ] [<code>meson: Check for headers</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/8eb5b2ece991f65fd885c9b46ddd9f6271568d09)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -244,6 +250,7 @@
 - [ ] [<code>ci: Fix random pipefail in container build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3694904964ad1eefe3d7386e473d2e234191ce51)
 - [ ] [<code>meson-template: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2ee265b4ce4a3500998726cd06b1781d6cb887f2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add libqrencode-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/aa491f7aac1597a9315c7a1e0f77d65a8c2cd506)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
