@@ -196,6 +196,8 @@
 - [ ] [<code>Properly check if a file can be trashed (#1554)</code>](https://github.com/xfce-mirror/thunar/commit/35fb4a3c92f9fe869a28e31a4c67c69abe613eab)
 - [ ] [<code>Fix missing dialog window icon (#1506)</code>](https://github.com/xfce-mirror/thunar/commit/cbd935379e4e36149281d064ac8e6cf302e9f3fe)
 - [ ] [<code>properties-dialog: Use file type icon as window icon</code>](https://github.com/xfce-mirror/thunar/commit/16b2589bb25ee82f9e8f4328ace6cc6e708eadd3)
+- [ ] [<code>Update file permission related emblem names</code>](https://github.com/xfce-mirror/thunar/commit/c38216d14c8887df76ebb335c26fee5bddf44782)
+- [ ] [<code>Fix leaks on "cancel search"</code>](https://github.com/xfce-mirror/thunar/commit/1752179f081a0dd798264d06629d174da6f7de31)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
