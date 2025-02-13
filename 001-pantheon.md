@@ -98,6 +98,8 @@
 - [ ] [<code>Tests: add unsafe paste test (#818)</code>](https://github.com/elementary/terminal/commit/fedc90f45499fd45e35e209fbff47055630fc7db)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix focussing terminal after select (#846)</code>](https://github.com/elementary/terminal/commit/905904ed34461a29b953c72cbacb369a1427a158)
+- [ ] [<code>Disconnect and reconnect signals on dragging a tab out of a window (#854)</code>](https://github.com/elementary/terminal/commit/49b2246d76806b3b399af5a1fa03b6e380cec888)
+- [ ] [<code>Metainfo: add 7.0.0 release notes (#855)</code>](https://github.com/elementary/terminal/commit/cbe4faaf00249a20549be4607f8bb95516c8b1e2)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -118,6 +120,8 @@
 - [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
 - [ ] [<code>HardwareView: Fix fallback when hostname1 returns null values (#355)</code>](https://github.com/elementary/switchboard-plug-about/commit/4dd76ac6ecdd7e753f76c02caf109dee1894fa8b)
 - [ ] [<code>Add Update Progress Indicator (#356)</code>](https://github.com/elementary/switchboard-plug-about/commit/b0752f7773bec921b787bb7da97663b1b845cfb7)
+- [ ] [<code>Metainfo: Add 8.2.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-about/commit/ee8d15011c933dbde50ad0aec4078d49caa6c6b8)
+- [ ] [<code>Show update size in OperatingSystemView (#362)</code>](https://github.com/elementary/switchboard-plug-about/commit/a94175b7cbb96710ce9a21cf92e05db9210322c0)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -172,6 +176,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/e6b62b75254e4c4cb1c3b4cf74c3468b81b0ed08)
 - [ ] [<code>Meson: add log domain (#295)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fd9b68f53cff7757631c14ea2ee71c0bf7f6203d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: align add button (#296)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/89ce59443bb1260ba4fb59cec546cb0bca162b62)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.1.0...HEAD)
 
@@ -260,6 +265,9 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/greeter/commit/d0a817ebe89a6334e91713ab6fa05e8568bb13ed)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#782)</code>](https://github.com/elementary/greeter/commit/91f944ecbc9e2071a3c31768dba05f03f2b4fad0)
+- [ ] [<code>Release 8.0.1 (#783)</code>](https://github.com/elementary/greeter/commit/dbe29d6f1bf88a459b5c2889ec56251e762bca5c)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -373,6 +381,9 @@
 - [ ] [<code>Show the device model if available (#275)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9a11a7a117064c846bed1c2e3c013823752d36b)
 - [ ] [<code>Optimize Battery Icon Calculation and State Handling (#273)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/148b169782d43b1e3fc4798acd514bd695ec952d)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#279)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d1982ee10f685981f089c4ca95e87de54eb65af4)
+- [ ] [<code>Release 8.0.2 (#280)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4aaf2fda76cbf09b953fe916cb1480a0a715b780)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
