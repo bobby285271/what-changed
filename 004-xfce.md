@@ -5,6 +5,8 @@
 
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/18cf3640e6128eeaeaa02b66dc856e250e6bde1b)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>exo-tree-view: Allow Ctrl+Shift+Click in single click mode</code>](https://github.com/xfce-mirror/exo/commit/9ebd9196790c238fe0096b549475381af3e2adca)
+- [ ] [<code>Fix code style</code>](https://github.com/xfce-mirror/exo/commit/93c1c0a00e6e3a6bd6631ade33396dfede73dbee)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -191,6 +193,9 @@
 - [ ] [<code>build: Get rid of maintainer mode where gdbus-codegen is used</code>](https://github.com/xfce-mirror/thunar/commit/982f0b30edf0db6c20f0d60b7ed7c09bd8c099f9)
 - [ ] [<code>Fix wrong selection after rename in list view (#1415)</code>](https://github.com/xfce-mirror/thunar/commit/536a3b2c8ad577eb389086bb39ccab34128e2e26)
 - [ ] [<code>Improve widgets in properties dialog (#1537)</code>](https://github.com/xfce-mirror/thunar/commit/4b05eccedb3945a0b211066ddb427230af094d21)
+- [ ] [<code>Properly check if a file can be trashed (#1554)</code>](https://github.com/xfce-mirror/thunar/commit/35fb4a3c92f9fe869a28e31a4c67c69abe613eab)
+- [ ] [<code>Fix missing dialog window icon (#1506)</code>](https://github.com/xfce-mirror/thunar/commit/cbd935379e4e36149281d064ac8e6cf302e9f3fe)
+- [ ] [<code>properties-dialog: Use file type icon as window icon</code>](https://github.com/xfce-mirror/thunar/commit/16b2589bb25ee82f9e8f4328ace6cc6e708eadd3)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -320,6 +325,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>meson-build: Fix missing prefix in polkit file</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/63a5a3d616f745322a577505becc54ac6de91bf5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Avoid ScaleMenuItem conflicts</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b5e6e93efd52ad1275d656ead45fddd1cf73577c)
+- [ ] [<code>panel-plugin: Remove ungrab code when menu is shown</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c4920f822322cfb27ea06fea2f230c48e4badfbd)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
