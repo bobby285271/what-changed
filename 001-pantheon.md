@@ -38,6 +38,8 @@
 
 - [ ] [<code>Introduce an AppSystem (#336)</code>](https://github.com/elementary/dock/commit/a8c320fd0bc7c49c2de6d3117caee0f1da6794a2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Rename LauncherManager into ItemManager (#362)</code>](https://github.com/elementary/dock/commit/cef449c8e4df11aed8a63d7c145d7bbce2ab43ff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -100,6 +102,9 @@
 - [ ] [<code>Fix focussing terminal after select (#846)</code>](https://github.com/elementary/terminal/commit/905904ed34461a29b953c72cbacb369a1427a158)
 - [ ] [<code>Disconnect and reconnect signals on dragging a tab out of a window (#854)</code>](https://github.com/elementary/terminal/commit/49b2246d76806b3b399af5a1fa03b6e380cec888)
 - [ ] [<code>Metainfo: add 7.0.0 release notes (#855)</code>](https://github.com/elementary/terminal/commit/cbe4faaf00249a20549be4607f8bb95516c8b1e2)
+- [ ] [<code>Release 7.0.0 (#856)</code>](https://github.com/elementary/terminal/commit/d914b4ca4ea99012b30a236f3616aa8b45f3ab37)
+  - <sub>Tags: <code>7.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -122,6 +127,10 @@
 - [ ] [<code>Add Update Progress Indicator (#356)</code>](https://github.com/elementary/switchboard-plug-about/commit/b0752f7773bec921b787bb7da97663b1b845cfb7)
 - [ ] [<code>Metainfo: Add 8.2.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-about/commit/ee8d15011c933dbde50ad0aec4078d49caa6c6b8)
 - [ ] [<code>Show update size in OperatingSystemView (#362)</code>](https://github.com/elementary/switchboard-plug-about/commit/a94175b7cbb96710ce9a21cf92e05db9210322c0)
+- [ ] [<code>Release 8.2.0 (#365)</code>](https://github.com/elementary/switchboard-plug-about/commit/ece172529e8c65b37a69ed0df03c1396e32ea113)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -163,6 +172,9 @@
 - [ ] [<code>WifiPage: update listbox with list model (#419)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fac115aedb480e09eb89d48620b22b3312ba822)
 - [ ] [<code>Revert "WifiPage: update listbox with list model (#419)" (#420)</code>](https://github.com/elementary/switchboard-plug-network/commit/52ef4e9afb280f6aaf8e2ebee41bb29d073a0221)
 - [ ] [<code>InfoBox: remove extra margins and align (#421)</code>](https://github.com/elementary/switchboard-plug-network/commit/1cb7e66b11c11f6c636adbcfd7a5ea514c5f910b)
+- [ ] [<code>Release 8.1.0 (#427)</code>](https://github.com/elementary/switchboard-plug-network/commit/9e16f690d2fa6564717bbabffd5ca764ac07a008)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -231,6 +243,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Places: New design for folder icons (#1311)</code>](https://github.com/elementary/icons/commit/39e8a294217dd14102567286b39244c4a62dbbc4)
 - [ ] [<code>Places: add start-here (#1339)</code>](https://github.com/elementary/icons/commit/038e071488b0e1cddd7c48fe18633a44a9fb8907)
+- [ ] [<code>Actions: add 24px list-add-symbolic (#1341)</code>](https://github.com/elementary/icons/commit/557bdcc733e832b23dee581c2e7fd0cb0fe7f465)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -331,6 +344,7 @@
 - [ ] [<code>Remove libsoup dep (#625)</code>](https://github.com/elementary/applications-menu/commit/fda933350555776bb198d898fce3fc923df65142)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AppContextMenu: change keep in dock label (#627)</code>](https://github.com/elementary/applications-menu/commit/82e1fc4c43b3e3aea0ff20263203c2a1d0ad473b)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -429,19 +443,8 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.1.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.1.1...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.2.0...HEAD)
 
-- [ ] [<code>Add Update Progress Indicator (#173)</code>](https://github.com/elementary/settings-daemon/commit/049dd1f9c0efe0f78c1b790bc8e26705f65b1bca)
-- [ ] [<code>8.1.2 release notes (#174)</code>](https://github.com/elementary/settings-daemon/commit/a4fffa1db66c3c220ccc6d01009212144cc7e958)
-- [ ] [<code>SystemUpdate: Share last refresh time via DBus (#175)</code>](https://github.com/elementary/settings-daemon/commit/6a387c2b8a53854cc898b8a5b1b77861b3c9591b)
-- [ ] [<code>meson: Fix use of string value for a boolean option (#176)</code>](https://github.com/elementary/settings-daemon/commit/66323229bb60deb4ac12105f420ebda39e4c588e)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-- [ ] [<code>Skip held-back packages during system update check (#178)</code>](https://github.com/elementary/settings-daemon/commit/1072d0e580c30f346b8eab2239d73973f080c410)
-- [ ] [<code>Metainfo: update 8.2.0 release notes (#180)</code>](https://github.com/elementary/settings-daemon/commit/f5b276756d5e33476ff3dd7807dc0344437b414c)
-- [ ] [<code>Get update size from PackageKit (#179)</code>](https://github.com/elementary/settings-daemon/commit/e4874e6bc2d2f24c0b3e02c7d46c00282b7b5d1e)
-- [ ] [<code>Release 8.2.0 (#181)</code>](https://github.com/elementary/settings-daemon/commit/ca054f781f82da7a2d90b4228c5de270aee7824d)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
