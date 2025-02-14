@@ -345,6 +345,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppContextMenu: change keep in dock label (#627)</code>](https://github.com/elementary/applications-menu/commit/82e1fc4c43b3e3aea0ff20263203c2a1d0ad473b)
+- [ ] [<code>Update applications-menu.metainfo.xml.in (#629)</code>](https://github.com/elementary/applications-menu/commit/aab866cc95c18727cdf3823478076b929ea196b8)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
