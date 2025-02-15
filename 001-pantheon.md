@@ -40,6 +40,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Rename LauncherManager into ItemManager (#362)</code>](https://github.com/elementary/dock/commit/cef449c8e4df11aed8a63d7c145d7bbce2ab43ff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Introduce WindowSystem (#363)</code>](https://github.com/elementary/dock/commit/43aaf3c61170a2081cd6138d2f03741e77ee1327)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move reduce transparency to main window (#372)</code>](https://github.com/elementary/dock/commit/48cf2ad09b6437b085fc1c0f50049562a6ee01de)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -131,6 +134,7 @@
   - <sub>Tags: <code>8.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
+- [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -260,27 +264,8 @@
 - [ ] [<code>Remove gala overrides (#322)</code>](https://github.com/elementary/default-settings/commit/f5373e19da6584fa803c5be498292b532ffa0271)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.0 → HEAD](https://github.com/elementary/greeter/compare/8.0.0...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
-- [ ] [<code>ci: Update mutter version for noble (#762)</code>](https://github.com/elementary/greeter/commit/0ce8fce2c6d6c3a2ad25aede0f12a1111c024415)
-- [ ] [<code>Application: subclass Gtk.Application (#728)</code>](https://github.com/elementary/greeter/commit/c09e7f92e5fcf416c33627690116b0b76cd19135)
-- [ ] [<code>Create Application.css (#763)</code>](https://github.com/elementary/greeter/commit/10ac491008e68125d12cdf632baca80135497c15)
-- [ ] [<code>MainWindow: use built-in action group for select-session (#766)</code>](https://github.com/elementary/greeter/commit/23d66f2e1f2da634ea77b58d82c5969d830e39cc)
-- [ ] [<code>CapsLockRevealer: GTK4 prep (#764)</code>](https://github.com/elementary/greeter/commit/e484ada7340d0c6615c7d112356ed1b26d058a8e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>CSS: specific window.background (#769)</code>](https://github.com/elementary/greeter/commit/644f68a668389980da38089ae78cd4fc0dee5c42)
-- [ ] [<code>Main: don't start settings daemon in installer session (#761)</code>](https://github.com/elementary/greeter/commit/b8b5761e082b5539b60264bd1c290da79b20b211)
-- [ ] [<code>Add Mutter 47 support (#772)</code>](https://github.com/elementary/greeter/commit/882336b3e77b6811a5f7c698ef983d4a4bc29249)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Run our session manager as a separate process (#779)</code>](https://github.com/elementary/greeter/commit/1ff4a049e30e80fb9b92fb0f40ad300a4da885d2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/greeter/commit/d0a817ebe89a6334e91713ab6fa05e8568bb13ed)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#782)</code>](https://github.com/elementary/greeter/commit/91f944ecbc9e2071a3c31768dba05f03f2b4fad0)
-- [ ] [<code>Release 8.0.1 (#783)</code>](https://github.com/elementary/greeter/commit/dbe29d6f1bf88a459b5c2889ec56251e762bca5c)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -389,16 +374,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppEntry: Add sweep  animation (#283)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/05f569ca89d62a1582ffd8218cf56bff9c1ddc50)
 
-#### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.1...HEAD)
+#### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
-- [ ] [<code>Update dependency in readme (#276)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/7212f1d37d6bb3e7b4b1b3347369a72e03242492)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Show the device model if available (#275)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/c9a11a7a117064c846bed1c2e3c013823752d36b)
-- [ ] [<code>Optimize Battery Icon Calculation and State Handling (#273)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/148b169782d43b1e3fc4798acd514bd695ec952d)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#279)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d1982ee10f685981f089c4ca95e87de54eb65af4)
-- [ ] [<code>Release 8.0.2 (#280)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/4aaf2fda76cbf09b953fe916cb1480a0a715b780)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
 
