@@ -98,16 +98,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [6.3.1 → HEAD](https://github.com/elementary/terminal/compare/6.3.1...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
-- [ ] [<code>Tests: add unsafe paste test (#818)</code>](https://github.com/elementary/terminal/commit/fedc90f45499fd45e35e209fbff47055630fc7db)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix focussing terminal after select (#846)</code>](https://github.com/elementary/terminal/commit/905904ed34461a29b953c72cbacb369a1427a158)
-- [ ] [<code>Disconnect and reconnect signals on dragging a tab out of a window (#854)</code>](https://github.com/elementary/terminal/commit/49b2246d76806b3b399af5a1fa03b6e380cec888)
-- [ ] [<code>Metainfo: add 7.0.0 release notes (#855)</code>](https://github.com/elementary/terminal/commit/cbe4faaf00249a20549be4607f8bb95516c8b1e2)
-- [ ] [<code>Release 7.0.0 (#856)</code>](https://github.com/elementary/terminal/commit/d914b4ca4ea99012b30a236f3616aa8b45f3ab37)
-  - <sub>Tags: <code>7.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -122,17 +114,8 @@
 - [ ] [<code>Revert "SettingsSideBar: Fix selection of the correct row (#336)" (#340)</code>](https://github.com/elementary/switchboard/commit/89985cb23b46a47156f720372bb879395a2d5c62)
 ## apps/switchboard-plugs
 
-#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.1.0...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.0...HEAD)
 
-- [ ] [<code>Prevent `software_grid` change vertical position, when content changes (#359)</code>](https://github.com/elementary/switchboard-plug-about/commit/91b6fb204d57c942fc0e51055649a58f634c0f59)
-- [ ] [<code>SystemUpdate: Get last refresh time directly from Settings Daemon instead of via GSettings (#358)</code>](https://github.com/elementary/switchboard-plug-about/commit/e6c8ca9f634bdb4538c9f9f2fe32074fe4007765)
-- [ ] [<code>HardwareView: Fix fallback when hostname1 returns null values (#355)</code>](https://github.com/elementary/switchboard-plug-about/commit/4dd76ac6ecdd7e753f76c02caf109dee1894fa8b)
-- [ ] [<code>Add Update Progress Indicator (#356)</code>](https://github.com/elementary/switchboard-plug-about/commit/b0752f7773bec921b787bb7da97663b1b845cfb7)
-- [ ] [<code>Metainfo: Add 8.2.0 release notes (#364)</code>](https://github.com/elementary/switchboard-plug-about/commit/ee8d15011c933dbde50ad0aec4078d49caa6c6b8)
-- [ ] [<code>Show update size in OperatingSystemView (#362)</code>](https://github.com/elementary/switchboard-plug-about/commit/a94175b7cbb96710ce9a21cf92e05db9210322c0)
-- [ ] [<code>Release 8.2.0 (#365)</code>](https://github.com/elementary/switchboard-plug-about/commit/ece172529e8c65b37a69ed0df03c1396e32ea113)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
 - [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
 
@@ -165,20 +148,8 @@
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
 
-#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.1.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-network/commit/2fbd1dfad0b35c912ab16cfad0ef5d9d9898d16f)
-- [ ] [<code>InfoBox: add metered data switch (#414)</code>](https://github.com/elementary/switchboard-plug-network/commit/e2b69117cc620b4e58616da87015519659d05f38)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#417)</code>](https://github.com/elementary/switchboard-plug-network/commit/928cad7b4b48dca07ec8bf49e3ce02fa94b43c52)
-- [ ] [<code>WifiPage: create settings dialog (#413)</code>](https://github.com/elementary/switchboard-plug-network/commit/af0368ebbfc4852e24ddfdff1ec053a8dd165c82)
-- [ ] [<code>WifiMenuItem: manage own button box (#418)</code>](https://github.com/elementary/switchboard-plug-network/commit/096d829bddd02eb311a0669307cb0c127c6d945b)
-- [ ] [<code>InfoBox: add auto connect switch (#416)</code>](https://github.com/elementary/switchboard-plug-network/commit/12fac8e8bda664904a2e5149ad69d19b23196715)
-- [ ] [<code>WifiPage: update listbox with list model (#419)</code>](https://github.com/elementary/switchboard-plug-network/commit/3fac115aedb480e09eb89d48620b22b3312ba822)
-- [ ] [<code>Revert "WifiPage: update listbox with list model (#419)" (#420)</code>](https://github.com/elementary/switchboard-plug-network/commit/52ef4e9afb280f6aaf8e2ebee41bb29d073a0221)
-- [ ] [<code>InfoBox: remove extra margins and align (#421)</code>](https://github.com/elementary/switchboard-plug-network/commit/1cb7e66b11c11f6c636adbcfd7a5ea514c5f910b)
-- [ ] [<code>Release 8.1.0 (#427)</code>](https://github.com/elementary/switchboard-plug-network/commit/9e16f690d2fa6564717bbabffd5ca764ac07a008)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -442,6 +413,7 @@
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
 
 - [ ] [<code>Issue Template: build system form (#573)</code>](https://github.com/elementary/os/commit/3b43ceb2fadb885b99e537d40923bef56b5244c5)
+- [ ] [<code>README: Update stable badge (#751)</code>](https://github.com/elementary/os/commit/7769065e99538fd78f17c618abc98b0d1a2582e7)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
