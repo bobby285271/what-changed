@@ -221,6 +221,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/tumbler/commit/258208c085bee584ccf314e632471ab377d91ded)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>poppler-thumbnailer: Only use embedded thumbnail if resolution suffices</code>](https://github.com/xfce-mirror/tumbler/commit/69a704e0f4e622861ce4007f6f3f4f6f6b962689)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
