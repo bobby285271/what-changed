@@ -77,6 +77,7 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.4...HEAD)
 
 - [ ] [<code>layout editor: Don't use gettext.install to set up the locale.</code>](https://github.com/linuxmint/nemo/commit/a27a6ecd151bd0d48b83dc11aa83475cd90edab9)
+- [ ] [<code>nemo-places-sidebar.c: Fix query-tooltip callback.</code>](https://github.com/linuxmint/nemo/commit/33349a46097ee0ed817e2cd0cd12278d2dcb7838)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
