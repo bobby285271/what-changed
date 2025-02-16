@@ -43,6 +43,8 @@
 - [ ] [<code>Introduce WindowSystem (#363)</code>](https://github.com/elementary/dock/commit/43aaf3c61170a2081cd6138d2f03741e77ee1327)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move reduce transparency to main window (#372)</code>](https://github.com/elementary/dock/commit/48cf2ad09b6437b085fc1c0f50049562a6ee01de)
+- [ ] [<code>Restructure the project (#371)</code>](https://github.com/elementary/dock/commit/2d88c0e1691e9268eabdaf05ec69434d1844ee4b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -289,6 +291,8 @@
 - [ ] [<code>Split Dialog.vala into multiple files (#2256)</code>](https://github.com/elementary/gala/commit/9fd9b818a56a5becd502f1a70c3323e5ca80eef5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/99d3f17657fce41d923bebcda49da277fbee3af1)
+- [ ] [<code>HideTracker: Disconnect timeouts on unmanaging (#2272)</code>](https://github.com/elementary/gala/commit/7ace62501f0a0457b7c26ebc203169b6c06f7da8)
+- [ ] [<code>WorkspaceManager: Queue an idle to add a window (#2271)</code>](https://github.com/elementary/gala/commit/ef6292a939dde9e2e6f548e9ca62b97affa92dfa)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
