@@ -198,6 +198,8 @@
 - [ ] [<code>properties-dialog: Use file type icon as window icon</code>](https://github.com/xfce-mirror/thunar/commit/16b2589bb25ee82f9e8f4328ace6cc6e708eadd3)
 - [ ] [<code>Update file permission related emblem names</code>](https://github.com/xfce-mirror/thunar/commit/c38216d14c8887df76ebb335c26fee5bddf44782)
 - [ ] [<code>Fix leaks on "cancel search"</code>](https://github.com/xfce-mirror/thunar/commit/1752179f081a0dd798264d06629d174da6f7de31)
+- [ ] [<code>Fix leak on search update</code>](https://github.com/xfce-mirror/thunar/commit/e432201dccfbc018860c32cffb1cc9c7fd9d0de6)
+- [ ] [<code>Fix missing dialog for folder errors in list view (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/3106902611a43b9caf294595fe1c952cb25cf46c)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
