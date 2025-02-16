@@ -330,6 +330,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Avoid ScaleMenuItem conflicts</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b5e6e93efd52ad1275d656ead45fddd1cf73577c)
 - [ ] [<code>panel-plugin: Remove ungrab code when menu is shown</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c4920f822322cfb27ea06fea2f230c48e4badfbd)
+- [ ] [<code>panel-plugin: Do not keep a ref on plugin from its child widget</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/7471baced86244561530dfbd374e81e73f8c4dae)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
