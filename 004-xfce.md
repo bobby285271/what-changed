@@ -362,6 +362,7 @@
 - [ ] [<code>meson-build: Add missing HAVE_POLKIT flag</code>](https://github.com/xfce-mirror/xfce4-session/commit/28216b4f9c42e1801ca61ad7c4bf7a5405851305)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>startxfce4: Fix keyboard layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/63d9bc0710bde90e81b75de40afabb6913027918)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -452,6 +453,7 @@
 - [ ] [<code>Don't send URIs to the clipboard when the paster requests UTF8_STRING</code>](https://github.com/xfce-mirror/xfdesktop/commit/07028b760477b931d8bb594c0829d143e7c7d460)
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfdesktop/commit/9851955269d0c3f7b1eadb0b605e8ca4aa321b88)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix or suppress gcc-analyzer warnings</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc5a1848bcfc5a68b56fd571af7df8bddd2d051c)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
