@@ -454,6 +454,19 @@
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfdesktop/commit/9851955269d0c3f7b1eadb0b605e8ca4aa321b88)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix or suppress gcc-analyzer warnings</code>](https://github.com/xfce-mirror/xfdesktop/commit/dc5a1848bcfc5a68b56fd571af7df8bddd2d051c)
+- [ ] [<code>Refactor tests a bit</code>](https://github.com/xfce-mirror/xfdesktop/commit/31abe0056c5683614b8ee55977180a9b0a95e0c1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add simple benchmark for rendering gradients</code>](https://github.com/xfce-mirror/xfdesktop/commit/2f8b59f967e8434b5199f5bd60dac041cac58da1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Improve performance of gradient rendering</code>](https://github.com/xfce-mirror/xfdesktop/commit/6956b1b141da5b10cb2771f66f1e57390e7d7307)
+- [ ] [<code>Fix another gcc-analyzer warning</code>](https://github.com/xfce-mirror/xfdesktop/commit/f45ae44033a20ba52b97ad77473142c61a7814d1)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfdesktop/commit/5507be26484146bdccb8652677e9c8d76f6e0c84)
+  - <sub>Tags: <code>xfdesktop-4.20.1</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/7fbf49ef0b663e76113dc5fdba469e5485c5a895)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
