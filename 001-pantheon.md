@@ -45,6 +45,10 @@
 - [ ] [<code>Move reduce transparency to main window (#372)</code>](https://github.com/elementary/dock/commit/48cf2ad09b6437b085fc1c0f50049562a6ee01de)
 - [ ] [<code>Restructure the project (#371)</code>](https://github.com/elementary/dock/commit/2d88c0e1691e9268eabdaf05ec69434d1844ee4b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cycle through windows when hovering over launcher with dnd (#374)</code>](https://github.com/elementary/dock/commit/5bcef64c5221fb45d577ee8fdcbdabf05ac0fe9a)
+- [ ] [<code>Launcher: Fix memory leaks (#376)</code>](https://github.com/elementary/dock/commit/b91be3be4529d715860ecc926cf16f9e82433352)
+- [ ] [<code>Introduce BaseItem (#373)</code>](https://github.com/elementary/dock/commit/02617cc498b4549afe5e9826d5b34dcf82364128)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
