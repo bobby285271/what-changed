@@ -261,6 +261,7 @@
 - [ ] [<code>meson-template: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2ee265b4ce4a3500998726cd06b1781d6cb887f2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libqrencode-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/aa491f7aac1597a9315c7a1e0f77d65a8c2cd506)
+- [ ] [<code>Add libutempter-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d43be5a19d0722ae3d3e485a7010ca370f224e9d)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
