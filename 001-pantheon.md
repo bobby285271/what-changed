@@ -49,6 +49,7 @@
 - [ ] [<code>Launcher: Fix memory leaks (#376)</code>](https://github.com/elementary/dock/commit/b91be3be4529d715860ecc926cf16f9e82433352)
 - [ ] [<code>Introduce BaseItem (#373)</code>](https://github.com/elementary/dock/commit/02617cc498b4549afe5e9826d5b34dcf82364128)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix warnings (#378)</code>](https://github.com/elementary/dock/commit/50f53796ebecb7e6f628ecc6dc968f2a6792adb8)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
