@@ -7,6 +7,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>exo-tree-view: Allow Ctrl+Shift+Click in single click mode</code>](https://github.com/xfce-mirror/exo/commit/9ebd9196790c238fe0096b549475381af3e2adca)
 - [ ] [<code>Fix code style</code>](https://github.com/xfce-mirror/exo/commit/93c1c0a00e6e3a6bd6631ade33396dfede73dbee)
+- [ ] [<code>Properly check iterator before usage (#124)</code>](https://github.com/xfce-mirror/exo/commit/24b902eb389eecab7b3f8aaefdda4aff7608af9d)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -200,6 +201,8 @@
 - [ ] [<code>Fix leaks on "cancel search"</code>](https://github.com/xfce-mirror/thunar/commit/1752179f081a0dd798264d06629d174da6f7de31)
 - [ ] [<code>Fix leak on search update</code>](https://github.com/xfce-mirror/thunar/commit/e432201dccfbc018860c32cffb1cc9c7fd9d0de6)
 - [ ] [<code>Fix missing dialog for folder errors in list view (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/3106902611a43b9caf294595fe1c952cb25cf46c)
+- [ ] [<code>Use 'malloc_trim' after search (#1552)</code>](https://github.com/xfce-mirror/thunar/commit/9bac81b7b00bd5ef29cc81de62f206a9643104c5)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
