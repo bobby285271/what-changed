@@ -5,6 +5,7 @@
 
 - [ ] [<code>Various fixes in AppListUpdateView (#2237)</code>](https://github.com/elementary/appcenter/commit/d086f6567e2cb764d63fb92e92a8234079120a01)
 - [ ] [<code>Fix broken --load-local option (#2231)</code>](https://github.com/elementary/appcenter/commit/aa5763aeaaff4567d9085ae1cb64e76e7c901bdf)
+- [ ] [<code>Preprocess metadata on FlatpakBackend constructor if no cache folders are available. (#2249)</code>](https://github.com/elementary/appcenter/commit/57127a40dd4ac1929022cb9ba4750f311aacfa6d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -181,6 +182,7 @@
 - [ ] [<code>Multitasking: add a switch for fullscreen hotcorners (#428)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/d70a5ed10dae444b21d24df6d47f27aa4951ee4d)
 - [ ] [<code>HotcornerControl/CustomCommand: Fix infinite loop (#433)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/07a1d818963e49c1cc14d710032f894dfdfa121a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update URLs to settings-desktop (#436)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/570b4810a650ba56d9e5b6661f0a49d01e1eddbe)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -311,6 +313,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppContextMenu: change keep in dock label (#627)</code>](https://github.com/elementary/applications-menu/commit/82e1fc4c43b3e3aea0ff20263203c2a1d0ad473b)
 - [ ] [<code>Update applications-menu.metainfo.xml.in (#629)</code>](https://github.com/elementary/applications-menu/commit/aab866cc95c18727cdf3823478076b929ea196b8)
+- [ ] [<code>Release 8.0.1 (#630)</code>](https://github.com/elementary/applications-menu/commit/251f790abc982e04db68d940024acb8f36211ffd)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
