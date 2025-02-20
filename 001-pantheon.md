@@ -10,10 +10,12 @@
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#280)</code>](https://github.com/elementary/calculator/commit/51fb4e80c386738f8e14f347f256e3181773af82)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#819)</code>](https://github.com/elementary/calendar/commit/92c70560dc65b71f23b5b1513c09976b7895a2c9)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -68,6 +70,7 @@
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
+- [ ] [<code>Actions: bump flatpak to 6.4 (#61)</code>](https://github.com/elementary/iconbrowser/commit/13232a1fc8b19158b2d209c1a934704b242517b1)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -84,6 +87,7 @@
 
 - [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
 - [ ] [<code>Add quit keyboard shortcut (#778)</code>](https://github.com/elementary/music/commit/d7fbb4fcff8be47f913a135945eaacb6873c0862)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#788)</code>](https://github.com/elementary/music/commit/a1f930d2eef73263d40dada279ea5649758ddbcd)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -94,9 +98,11 @@
 - [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
 - [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
 - [ ] [<code>Fix panning zoomed images on Wayland (#790)</code>](https://github.com/elementary/photos/commit/99f584b9345999a75b070f8e0e7f7e555af58b1c)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#792)</code>](https://github.com/elementary/photos/commit/45f7c78c5eb57b872a38d2aba9bec50b4c1db9f3)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
+- [ ] [<code>Actions: bump flatpak to 6.4 (#298)</code>](https://github.com/elementary/screenshot/commit/16965a697145863e13b26b67c46d011b6b3b112a)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -106,6 +112,7 @@
 - [ ] [<code>Specify minimum GLib version</code>](https://github.com/elementary/tasks/commit/73dff2ad98e253d23fd4b271a11cb4665ece0004)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Actions: bump flatpak to 6.4 (#401)</code>](https://github.com/elementary/tasks/commit/4d7783e3066c62689b4026361a64db184b8b250e)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -403,6 +410,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
+- [ ] [<code>Actions: bump flatpak to 6.4 (#126)</code>](https://github.com/elementary/capnet-assist/commit/a32c2526bfef06b5f8acec83530dd0b975e691e8)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
