@@ -37,7 +37,9 @@
 - [ ] [<code>build: debian/control fix for alt package name, use debugoptimized</code>](https://github.com/linuxmint/cinnamon-desktop/commit/98450bf1b87d96553af6562ed15e0bf766cd1403)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian/control: Remove old gdkpixbuf package.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e88a36bde8a3806c3b5951172569b9adbdf6eedc)
+- [ ] [<code>build: Fix gnome-languages introspection.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a87c98c1bb2e3998d9df373a8f6432ab75744d75)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
