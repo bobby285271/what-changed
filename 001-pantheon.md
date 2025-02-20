@@ -34,6 +34,7 @@
 - [ ] [<code>Remove unneeded check in Vala Symbol pane (#1514)</code>](https://github.com/elementary/code/commit/522235c120d0786c03ecd64ba57ebbdcdf053f79)
 - [ ] [<code>WelcomeView: use resourced icon for project (#1535)</code>](https://github.com/elementary/code/commit/3b7f2f809a5e09ce54f933928cb12ad1e0762499)
 - [ ] [<code>Avoid calling doc.do_close () twice (#1538)</code>](https://github.com/elementary/code/commit/46258fa0acea73ed414238b4dad7b489d82fee74)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#1540)</code>](https://github.com/elementary/code/commit/d13a00e504d3df7814ffbf57944d41f000aca1a5)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
