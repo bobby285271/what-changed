@@ -203,6 +203,8 @@
 - [ ] [<code>Fix missing dialog for folder errors in list view (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/3106902611a43b9caf294595fe1c952cb25cf46c)
 - [ ] [<code>Use 'malloc_trim' after search (#1552)</code>](https://github.com/xfce-mirror/thunar/commit/9bac81b7b00bd5ef29cc81de62f206a9643104c5)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix item activation on double-click in list view (#1567)</code>](https://github.com/xfce-mirror/thunar/commit/3dd992934b014704f6ff2a1fad6d5f6b8d494640)
+- [ ] [<code>Add List view hotkeys to shortcuts editor tab (#1556)</code>](https://github.com/xfce-mirror/thunar/commit/8e4c40a76c33132fc762ebdb556a235302dd64e6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
