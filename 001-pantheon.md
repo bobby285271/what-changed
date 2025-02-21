@@ -6,6 +6,11 @@
 - [ ] [<code>Various fixes in AppListUpdateView (#2237)</code>](https://github.com/elementary/appcenter/commit/d086f6567e2cb764d63fb92e92a8234079120a01)
 - [ ] [<code>Fix broken --load-local option (#2231)</code>](https://github.com/elementary/appcenter/commit/aa5763aeaaff4567d9085ae1cb64e76e7c901bdf)
 - [ ] [<code>Preprocess metadata on FlatpakBackend constructor if no cache folders are available. (#2249)</code>](https://github.com/elementary/appcenter/commit/57127a40dd4ac1929022cb9ba4750f311aacfa6d)
+- [ ] [<code>Filter screenshots by style and evironment. (#2235)</code>](https://github.com/elementary/appcenter/commit/fa3a708dce27f5a4ef4c0b923bc85e5089b3189c)
+- [ ] [<code>ReleaseRow: fix overflow, improve styles (#2256)</code>](https://github.com/elementary/appcenter/commit/760d3057521eba136c9ae5c53fc8b5433301e9ba)
+- [ ] [<code>Added a Gtk.ScrollingWindow to the Release notes dialog (issue #2033) (#2251)</code>](https://github.com/elementary/appcenter/commit/ccf2027914bab2b97143b3b26a85444124c0f7ea)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#2257)</code>](https://github.com/elementary/appcenter/commit/ffcd83f6004807ebe4d130aa2a4cc72a2326db8c)
+- [ ] [<code>Homepage: remove unused return_button (#2259)</code>](https://github.com/elementary/appcenter/commit/605f341517f8d99352766709b2948102893bb614)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -19,6 +24,7 @@
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
+- [ ] [<code>Actions: bump flatpak to 6.4 (#285)</code>](https://github.com/elementary/camera/commit/7c1bb10baefb3275d9884280eff845ee72b6a38e)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -134,6 +140,7 @@
 
 - [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
 - [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
+- [ ] [<code>OperatingSystemView: more explicit restart directions (#370)</code>](https://github.com/elementary/switchboard-plug-about/commit/8618414349e34e646721058848b0df8cfdd8c0a9)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
