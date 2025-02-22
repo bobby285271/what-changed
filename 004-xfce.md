@@ -318,6 +318,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfce4-panel/commit/771c15bd8b47017efe5a6c0caeb3640fa56eba15)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>systray: Fix legacy icons being drawn with offset</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3d21aa95105c71bbf037f990c9579392e7398b51)
+- [ ] [<code>systray: Always Use cairo_set_source_rgb() to clear icon background</code>](https://github.com/xfce-mirror/xfce4-panel/commit/85a2cb0ca8bddcd18e3d3b577615e49eaef78139)
+- [ ] [<code>Revert "systray: Always Use cairo_set_source_rgb() to clear icon background"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6717271151db7ccd803844ba87b8bf7afc6acf34)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
