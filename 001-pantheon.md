@@ -198,6 +198,7 @@
 - [ ] [<code>HotcornerControl/CustomCommand: Fix infinite loop (#433)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/07a1d818963e49c1cc14d710032f894dfdfa121a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update URLs to settings-desktop (#436)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/570b4810a650ba56d9e5b6661f0a49d01e1eddbe)
+- [ ] [<code>Appearance: get/set animations from interface key (#438)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/14c96d065b73a44bc002e4907dcac36eb88a899f)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
