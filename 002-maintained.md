@@ -422,6 +422,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Redesign to square icon (#264)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6e7deffb2364eea71e096f0ee03125212b85e186)
 - [ ] [<code>Flatpak: Fix the app may not launch (#262)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/be1042438d19cdda0ff1e3b099bf8a39b26828f2)
+- [ ] [<code>Actions: Update flatpak-builder from v6 to v6.4 (#266)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e5d94f78476efbc2117c57ac2629d16126fcea98)
+- [ ] [<code>Release 2.2.0 (#265)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fce839c6e6729363c2c92f98b8cb8cdd175bfe92)
+  - <sub>Tags: <code>2.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
