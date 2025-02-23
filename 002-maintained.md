@@ -426,6 +426,7 @@
 - [ ] [<code>Release 2.2.0 (#265)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fce839c6e6729363c2c92f98b8cb8cdd175bfe92)
   - <sub>Tags: <code>2.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update copyright header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/27d768ea2cbef47db35a714a911a454ae3c13d52)
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
