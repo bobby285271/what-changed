@@ -401,31 +401,8 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.1.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.1.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.2.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.2.0...HEAD)
 
-- [ ] [<code>TerminalPane: Import unsafe paste alert description from Terminal</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2cae42ddcbb40e672dae3f71fb41b4ff7229fdc3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>po: Drop unnecessary execute permission</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7a62cf9ac92b9beef7681cf484a0cfce0d62f18a)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c917d2247c0ea3bd46e4fb9efecea2436c7c81fe)
-- [ ] [<code>Config: Add namespace (#251)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1aa778bf55ca05fad5f9a1e027a9daf5475dc8e7)
-- [ ] [<code>Flatpak: Update GNOME platform runtime to 47 (#253)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/530c9d64a9949767885da36747af7d81bca5576d)
-- [ ] [<code>Provide system theme rootdir as a build option (#252)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/614f207cf25ba30ff846edf178a7c52484315212)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Flatpak: Use External Data Checker (#255)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ac5a9e7a04ac58020c2f2bac2c5d346027789176)
-- [ ] [<code>Flatpak: Omit quote when possible</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/29fd3534d1cad7025b8b4d756f0556c11aeceb74)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Update elementary-stylesheet, granite and switchboard modules (#256)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/995c9ca811e08a258120b8d20f030cdf7b3af527)
-- [ ] [<code>Flatpak: Use id instead of deprecated app-id (#260)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/630ce0b2cda8a7db1b68f02f19fc799758ee74ef)
-- [ ] [<code>Fix build failing when building switchboard (#261)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5061fc713fa2a0ef77716968a5b3c7f95783b7d8)
-- [ ] [<code>Use single scalable icon (#263)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f5a0ad75bc56389e17b010fe5f7f91f4892fcf28)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Redesign to square icon (#264)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/6e7deffb2364eea71e096f0ee03125212b85e186)
-- [ ] [<code>Flatpak: Fix the app may not launch (#262)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/be1042438d19cdda0ff1e3b099bf8a39b26828f2)
-- [ ] [<code>Actions: Update flatpak-builder from v6 to v6.4 (#266)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e5d94f78476efbc2117c57ac2629d16126fcea98)
-- [ ] [<code>Release 2.2.0 (#265)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fce839c6e6729363c2c92f98b8cb8cdd175bfe92)
-  - <sub>Tags: <code>2.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update copyright header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/27d768ea2cbef47db35a714a911a454ae3c13d52)
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
