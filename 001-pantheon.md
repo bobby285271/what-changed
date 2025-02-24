@@ -16,15 +16,19 @@
 
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#280)</code>](https://github.com/elementary/calculator/commit/51fb4e80c386738f8e14f347f256e3181773af82)
+- [ ] [<code>CI: run arm workflows on arm runner (#281)</code>](https://github.com/elementary/calculator/commit/bb93d63914cf537f5fbc8a163ffa06cc13ca7ec7)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#819)</code>](https://github.com/elementary/calendar/commit/92c70560dc65b71f23b5b1513c09976b7895a2c9)
+- [ ] [<code>chore(flatpak): bump EDS version (#820)</code>](https://github.com/elementary/calendar/commit/fd78f42aafa4c1ae115f9e19a4848697ebead20a)
+- [ ] [<code>CI: run arm workflows on arm runner (#821)</code>](https://github.com/elementary/calendar/commit/1dae36e121ef3342db0167589b00a50a23098fb0)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#285)</code>](https://github.com/elementary/camera/commit/7c1bb10baefb3275d9884280eff845ee72b6a38e)
+- [ ] [<code>fix: pin cargo-c version (#286)</code>](https://github.com/elementary/camera/commit/71686db53871dfc0770ef77e21bdb423c1a30efb)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -78,6 +82,7 @@
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#61)</code>](https://github.com/elementary/iconbrowser/commit/13232a1fc8b19158b2d209c1a934704b242517b1)
+- [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -89,6 +94,9 @@
 - [ ] [<code>MessageListItem: GTK4 prep (#1003)</code>](https://github.com/elementary/mail/commit/3bb609508e526e2c27fc6bb4a1c6377db4ed0fb6)
 - [ ] [<code>CI: bump webkit version (#1004)</code>](https://github.com/elementary/mail/commit/abbd45be8afa446ec384da6083c0a8960d60654c)
 - [ ] [<code>Merge: use deb gettext action</code>](https://github.com/elementary/mail/commit/9cd18b579642de1fee43b9938b9f41f8998d56c8)
+- [ ] [<code>fix(flatpak): bump EDS version (#1012)</code>](https://github.com/elementary/mail/commit/d7151c8be68ffeb66e5a8e1cb906dc43774e7ae3)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#1010)</code>](https://github.com/elementary/mail/commit/28988a0aec9bea0247486b556e21c39de6536c1f)
+- [ ] [<code>CI: run arm workflows on arm runner (#1011)</code>](https://github.com/elementary/mail/commit/814073619a080eb82b4a625f84b773c08137e5ae)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -108,6 +116,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#792)</code>](https://github.com/elementary/photos/commit/45f7c78c5eb57b872a38d2aba9bec50b4c1db9f3)
 - [ ] [<code>ci(flatpak-x-checker): fix manifest path</code>](https://github.com/elementary/photos/commit/9fc5c856b9334e0d06f9d173f773f27c199896b8)
 - [ ] [<code>Update exiv2 and gexiv2 modules (#794)</code>](https://github.com/elementary/photos/commit/7ece313dac9a1145110011396a6f7298ced10ea3)
+- [ ] [<code>CI: run arm workflows on arm runner (#793)</code>](https://github.com/elementary/photos/commit/1011cc8d68bc5842b8b41306453304bd7111bfef)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -129,6 +138,9 @@
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
+- [ ] [<code>fix: pin cargo-c version (#398)</code>](https://github.com/elementary/videos/commit/e41da5d3266bacd318d8cceb1c0b1ab695b679be)
+- [ ] [<code>Actions: bump flatpak to 6.4 (#395)</code>](https://github.com/elementary/videos/commit/518bd7e4bf2222bd04473aae7ded3212d99e4e50)
+- [ ] [<code>CI: run arm workflows on arm runner (#397)</code>](https://github.com/elementary/videos/commit/15178cf5c6d515be42733e4b194733d7abd669f0)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
@@ -423,6 +435,7 @@
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#126)</code>](https://github.com/elementary/capnet-assist/commit/a32c2526bfef06b5f8acec83530dd0b975e691e8)
+- [ ] [<code>CI: run arm workflows on arm runner (#127)</code>](https://github.com/elementary/capnet-assist/commit/a2abc03f9c687eb234423aa1d424fab8e951761b)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
