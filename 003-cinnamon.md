@@ -82,6 +82,10 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.3...HEAD)
 
+- [ ] [<code>Update Rumble icon and add its symbolic links (#456)</code>](https://github.com/linuxmint/mint-y-icons/commit/96a3c41ceb212c5ea16bfbc699653b2f232bc783)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix Sublime Merge icon (#457)</code>](https://github.com/linuxmint/mint-y-icons/commit/d4a06ff6f3a5729e45f40e8bdfe195fd9d29c9a0)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
