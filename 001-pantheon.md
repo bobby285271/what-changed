@@ -43,6 +43,7 @@
 - [ ] [<code>WelcomeView: use resourced icon for project (#1535)</code>](https://github.com/elementary/code/commit/3b7f2f809a5e09ce54f933928cb12ad1e0762499)
 - [ ] [<code>Avoid calling doc.do_close () twice (#1538)</code>](https://github.com/elementary/code/commit/46258fa0acea73ed414238b4dad7b489d82fee74)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#1540)</code>](https://github.com/elementary/code/commit/d13a00e504d3df7814ffbf57944d41f000aca1a5)
+- [ ] [<code>CI: run arm workflows on arm runner (#1541)</code>](https://github.com/elementary/code/commit/15393be0cc432ae1a52216650471e683deb0e8c8)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -105,10 +106,13 @@
 - [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
 - [ ] [<code>Fix panning zoomed images on Wayland (#790)</code>](https://github.com/elementary/photos/commit/99f584b9345999a75b070f8e0e7f7e555af58b1c)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#792)</code>](https://github.com/elementary/photos/commit/45f7c78c5eb57b872a38d2aba9bec50b4c1db9f3)
+- [ ] [<code>ci(flatpak-x-checker): fix manifest path</code>](https://github.com/elementary/photos/commit/9fc5c856b9334e0d06f9d173f773f27c199896b8)
+- [ ] [<code>Update exiv2 and gexiv2 modules (#794)</code>](https://github.com/elementary/photos/commit/7ece313dac9a1145110011396a6f7298ced10ea3)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#298)</code>](https://github.com/elementary/screenshot/commit/16965a697145863e13b26b67c46d011b6b3b112a)
+- [ ] [<code>CI: run ARM workflows on arm64 runner (#300)</code>](https://github.com/elementary/screenshot/commit/80c13945a00e535afa8ef9a523a33ccf9bfa2b4c)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
