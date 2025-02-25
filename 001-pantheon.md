@@ -332,6 +332,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/99d3f17657fce41d923bebcda49da277fbee3af1)
 - [ ] [<code>HideTracker: Disconnect timeouts on unmanaging (#2272)</code>](https://github.com/elementary/gala/commit/7ace62501f0a0457b7c26ebc203169b6c06f7da8)
 - [ ] [<code>WorkspaceManager: Queue an idle to add a window (#2271)</code>](https://github.com/elementary/gala/commit/ef6292a939dde9e2e6f548e9ca62b97affa92dfa)
+- [ ] [<code>WorkspaceManager: Fix crash on workspace removed (#2281)</code>](https://github.com/elementary/gala/commit/2fe02e5974ff21eb8be97863a4a343c645922078)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
