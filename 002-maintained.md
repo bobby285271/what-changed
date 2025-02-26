@@ -407,6 +407,11 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
+- [ ] [<code>fix: display correct type of source in preference window</code>](https://github.com/alainm23/planify/commit/fdc028ba297d950f98956742e56e50e2be88007f)
+- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/72bf0cdec34dd4b0aa202a171bb0e7d5b86ecd27)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge pull request #1532 from blipp/preference_window_title</code>](https://github.com/alainm23/planify/commit/4e40a7244c1d2b564e97e65508481f7c2e6ff038)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
