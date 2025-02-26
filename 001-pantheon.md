@@ -29,6 +29,7 @@
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#285)</code>](https://github.com/elementary/camera/commit/7c1bb10baefb3275d9884280eff845ee72b6a38e)
 - [ ] [<code>fix: pin cargo-c version (#286)</code>](https://github.com/elementary/camera/commit/71686db53871dfc0770ef77e21bdb423c1a30efb)
+- [ ] [<code>CI: run arm workflows on arm runner (#287)</code>](https://github.com/elementary/camera/commit/1631e4a6bb19cd475de4b3226773e79763574f3a)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -103,6 +104,7 @@
 - [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
 - [ ] [<code>Add quit keyboard shortcut (#778)</code>](https://github.com/elementary/music/commit/d7fbb4fcff8be47f913a135945eaacb6873c0862)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#788)</code>](https://github.com/elementary/music/commit/a1f930d2eef73263d40dada279ea5649758ddbcd)
+- [ ] [<code>CI: run arm workflows on arm runner (#789)</code>](https://github.com/elementary/music/commit/d3c5ca1e3b8d82f70cbe0f10a793f38ccbb30001)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
