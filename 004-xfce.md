@@ -156,6 +156,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>XfwWnckIcon: Fix wrong compare func</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e58801e1f8455c928ff133ccde206b105f2bcc01)
 - [ ] [<code>XfwWindowX11: Keep a ref on workspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b1e91e50e472d41e168e6abe0dc94f8cbe1f891c)
+- [ ] [<code>Try to match the app id in lower case to find the .desktop file</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cb52e854dfe620a6de91d339bacfa1b6fed07c83)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -323,6 +324,9 @@
 - [ ] [<code>systray: Always Use cairo_set_source_rgb() to clear icon background</code>](https://github.com/xfce-mirror/xfce4-panel/commit/85a2cb0ca8bddcd18e3d3b577615e49eaef78139)
 - [ ] [<code>Revert "systray: Always Use cairo_set_source_rgb() to clear icon background"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6717271151db7ccd803844ba87b8bf7afc6acf34)
 - [ ] [<code>wayland: wrapper: Set GtkProgressBar style properties to min values</code>](https://github.com/xfce-mirror/xfce4-panel/commit/52d667bc9d7ba76caccf70d04fab8c28c9dea883)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e4e94ff9f15e3ca42851cda331f1ec9a8f860c28)
+- [ ] [<code>item-dialog: Add tooltip showing the module name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/369b774f318e473bb57eda7b565d0157b6d3de93)
+- [ ] [<code>item-dialog: Also search for plugins by their module name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bc1c6f477fb44c0e9e9d5f90cded38f6d8680993)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
