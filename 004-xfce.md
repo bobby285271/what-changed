@@ -270,6 +270,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add libqrencode-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/aa491f7aac1597a9315c7a1e0f77d65a8c2cd506)
 - [ ] [<code>Add libutempter-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d43be5a19d0722ae3d3e485a7010ca370f224e9d)
+- [ ] [<code>Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9fe44c556723232ad9c4790a65aaf8934321a320)
+- [ ] [<code>meson-template: Add copyright year management</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a80c9c5810c22a291b2fd209917a4c87c893f8c4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -327,6 +330,8 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e4e94ff9f15e3ca42851cda331f1ec9a8f860c28)
 - [ ] [<code>item-dialog: Add tooltip showing the module name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/369b774f318e473bb57eda7b565d0157b6d3de93)
 - [ ] [<code>item-dialog: Also search for plugins by their module name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bc1c6f477fb44c0e9e9d5f90cded38f6d8680993)
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2c4b6bd1418916b02e91fe62488d374339b95f33)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
