@@ -407,11 +407,18 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
+- [ ] [<code>feat: add Ubuntu build requirements to README.md</code>](https://github.com/alainm23/planify/commit/60e1a1f11a713a5e80bbb0c4357fec505e2b867d)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: display correct type of source in preference window</code>](https://github.com/alainm23/planify/commit/fdc028ba297d950f98956742e56e50e2be88007f)
 - [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/72bf0cdec34dd4b0aa202a171bb0e7d5b86ecd27)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Merge pull request #1532 from blipp/preference_window_title</code>](https://github.com/alainm23/planify/commit/4e40a7244c1d2b564e97e65508481f7c2e6ff038)
+- [ ] [<code>Update LINGUAS</code>](https://github.com/alainm23/planify/commit/146928758ce2118dbcbbf6a9d3c394e9fbc1cfcd)
+- [ ] [<code>Add files via upload</code>](https://github.com/alainm23/planify/commit/4c783d50d12e623b60ee2c84d8584eec11a16b5d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1534 from NorwayFun/master</code>](https://github.com/alainm23/planify/commit/857ccb2c2d687d58b4745fa0cf25626d00c5ad1b)
+- [ ] [<code>Merge pull request #1533 from blipp/readme</code>](https://github.com/alainm23/planify/commit/acca39066b3dd02545c693e5c0614655e352d73c)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
