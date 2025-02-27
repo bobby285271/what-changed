@@ -24,6 +24,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#819)</code>](https://github.com/elementary/calendar/commit/92c70560dc65b71f23b5b1513c09976b7895a2c9)
 - [ ] [<code>chore(flatpak): bump EDS version (#820)</code>](https://github.com/elementary/calendar/commit/fd78f42aafa4c1ae115f9e19a4848697ebead20a)
 - [ ] [<code>CI: run arm workflows on arm runner (#821)</code>](https://github.com/elementary/calendar/commit/1dae36e121ef3342db0167589b00a50a23098fb0)
+- [ ] [<code>Flatpak: Use libportal from Platform (#822)</code>](https://github.com/elementary/calendar/commit/823c92abd0f2ff964e04c8b304ef75e1b2319ff8)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -98,6 +99,7 @@
 - [ ] [<code>fix(flatpak): bump EDS version (#1012)</code>](https://github.com/elementary/mail/commit/d7151c8be68ffeb66e5a8e1cb906dc43774e7ae3)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#1010)</code>](https://github.com/elementary/mail/commit/28988a0aec9bea0247486b556e21c39de6536c1f)
 - [ ] [<code>CI: run arm workflows on arm runner (#1011)</code>](https://github.com/elementary/mail/commit/814073619a080eb82b4a625f84b773c08137e5ae)
+- [ ] [<code>Flatpak: Use libportal from Platform (#1013)</code>](https://github.com/elementary/mail/commit/8d42b60b67bc620b8cf3dc1b10cb90b824c443fe)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -119,6 +121,7 @@
 - [ ] [<code>ci(flatpak-x-checker): fix manifest path</code>](https://github.com/elementary/photos/commit/9fc5c856b9334e0d06f9d173f773f27c199896b8)
 - [ ] [<code>Update exiv2 and gexiv2 modules (#794)</code>](https://github.com/elementary/photos/commit/7ece313dac9a1145110011396a6f7298ced10ea3)
 - [ ] [<code>CI: run arm workflows on arm runner (#793)</code>](https://github.com/elementary/photos/commit/1011cc8d68bc5842b8b41306453304bd7111bfef)
+- [ ] [<code>Fix some terminal warnings (#791)</code>](https://github.com/elementary/photos/commit/80361ef58825452e23116a1365b4c3131c934e57)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
