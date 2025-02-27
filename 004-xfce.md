@@ -380,6 +380,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>startxfce4: Fix keyboard layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/63d9bc0710bde90e81b75de40afabb6913027918)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/a10fe0ff835881c0fb81e17be52fbb8dd23b9f3a)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -483,6 +484,9 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/7fbf49ef0b663e76113dc5fdba469e5485c5a895)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/c046134b49830453fd72726cb3a2659972e776ed)
+- [ ] [<code>Set up for new machinery to automatically update copyright year</code>](https://github.com/xfce-mirror/xfdesktop/commit/9d99d620aaa8943cf69aa84ac1e79c3cbd4be1f7)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
