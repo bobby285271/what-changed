@@ -24,6 +24,7 @@
 - [ ] [<code>Bugfix for Cinnamon issue 12707 (#12734)</code>](https://github.com/linuxmint/cinnamon/commit/9aeaa7905789b4508061ae79d90021c658055d92)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update control (#12742)</code>](https://github.com/linuxmint/cinnamon/commit/ed20e4a709ebcf69853ec6793c390fd64d2bd47b)
+- [ ] [<code>Revert "Update control (#12742)"</code>](https://github.com/linuxmint/cinnamon/commit/f25233d26a26993bae92bdc429112116f432f576)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
