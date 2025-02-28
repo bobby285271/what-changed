@@ -208,6 +208,7 @@
 - [ ] [<code>Fix item activation on double-click in list view (#1567)</code>](https://github.com/xfce-mirror/thunar/commit/3dd992934b014704f6ff2a1fad6d5f6b8d494640)
 - [ ] [<code>Add List view hotkeys to shortcuts editor tab (#1556)</code>](https://github.com/xfce-mirror/thunar/commit/8e4c40a76c33132fc762ebdb556a235302dd64e6)
 - [ ] [<code>Always update statusbar on file changes in list view (#1560)</code>](https://github.com/xfce-mirror/thunar/commit/16d7fb9e44324333f0e4f662d84d70f04fff7fa5)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/3c633fb81089018ce57dc8b8d199eb5e0e7e28c6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -355,6 +356,8 @@
 - [ ] [<code>panel-plugin: Remove ungrab code when menu is shown</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c4920f822322cfb27ea06fea2f230c48e4badfbd)
 - [ ] [<code>panel-plugin: Do not keep a ref on plugin from its child widget</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/7471baced86244561530dfbd374e81e73f8c4dae)
 - [ ] [<code>settings: Remove unused widget from list to hide on wayland</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b69cf19be335e5397f2cdf7254177470ecf88880)
+- [ ] [<code>Add setting to execute lid action when external display is connected</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f19c6a973ab52855a8c664c8db491575abb59227)
+- [ ] [<code>Listen to output disconnection and trigger action if needed</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/05dd5deae1489a0f4a5fceccfe02b07cd292fef4)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
