@@ -137,6 +137,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: bump flatpak to 6.4 (#401)</code>](https://github.com/elementary/tasks/commit/4d7783e3066c62689b4026361a64db184b8b250e)
+- [ ] [<code>CI: bump EDS and run arm workflows on arm runner (#402)</code>](https://github.com/elementary/tasks/commit/77f35f5ebbcd43abac70871a198f87ec0a4b1b8a)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
