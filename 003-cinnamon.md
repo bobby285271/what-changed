@@ -91,14 +91,8 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
 
-#### [nemo](https://github.com/linuxmint/nemo): [6.4.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.4...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
-- [ ] [<code>layout editor: Don't use gettext.install to set up the locale.</code>](https://github.com/linuxmint/nemo/commit/a27a6ecd151bd0d48b83dc11aa83475cd90edab9)
-- [ ] [<code>nemo-places-sidebar.c: Fix query-tooltip callback.</code>](https://github.com/linuxmint/nemo/commit/33349a46097ee0ed817e2cd0cd12278d2dcb7838)
-- [ ] [<code>nemo-style-fallback-mandatory.css: Add fallback support for the</code>](https://github.com/linuxmint/nemo/commit/ce542ee17e37bc1433ba311a68357f2dbb759a2c)
-- [ ] [<code>6.4.5</code>](https://github.com/linuxmint/nemo/commit/8d48119cd9b7fa1ec601294d7067905cb3338ebc)
-  - <sub>Tags: <code>6.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
