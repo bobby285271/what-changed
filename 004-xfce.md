@@ -209,6 +209,9 @@
 - [ ] [<code>Add List view hotkeys to shortcuts editor tab (#1556)</code>](https://github.com/xfce-mirror/thunar/commit/8e4c40a76c33132fc762ebdb556a235302dd64e6)
 - [ ] [<code>Always update statusbar on file changes in list view (#1560)</code>](https://github.com/xfce-mirror/thunar/commit/16d7fb9e44324333f0e4f662d84d70f04fff7fa5)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/3c633fb81089018ce57dc8b8d199eb5e0e7e28c6)
+- [ ] [<code>image-preview: Properly initialize the preview on startup</code>](https://github.com/xfce-mirror/thunar/commit/3b1d9ba6098425bceafc3a173785002cbe9b5d6d)
+- [ ] [<code>image-preview: Do not rely on xfconf value for visibility toggle</code>](https://github.com/xfce-mirror/thunar/commit/f901339093c41ff5cc164f35678502e26390ae33)
+- [ ] [<code>image-preview: Use italics for the size label</code>](https://github.com/xfce-mirror/thunar/commit/b6ea10ea717ab3822358670dab3b74a585195e0c)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
