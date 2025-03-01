@@ -52,6 +52,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4ui/commit/13ce2b919c67bd7f9b0d8c58ee2d0f268befa8e3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>clipboard-manager: Preserve all image formats when taking ownership</code>](https://github.com/xfce-mirror/libxfce4ui/commit/14361607952b322a6d96a0c0fe007133a86da671)
+- [ ] [<code>xfce4-about: Add .desktop file to the settings manager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ca634918f0c33030e9d26de7d9d91e5fb2781893)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -212,6 +214,7 @@
 - [ ] [<code>image-preview: Properly initialize the preview on startup</code>](https://github.com/xfce-mirror/thunar/commit/3b1d9ba6098425bceafc3a173785002cbe9b5d6d)
 - [ ] [<code>image-preview: Do not rely on xfconf value for visibility toggle</code>](https://github.com/xfce-mirror/thunar/commit/f901339093c41ff5cc164f35678502e26390ae33)
 - [ ] [<code>image-preview: Use italics for the size label</code>](https://github.com/xfce-mirror/thunar/commit/b6ea10ea717ab3822358670dab3b74a585195e0c)
+- [ ] [<code>Update statusbar when searching (#1560)</code>](https://github.com/xfce-mirror/thunar/commit/97af8d378bed2707d9b5557be684d05b469a20c8)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -426,6 +429,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-settings/commit/35c3c91c07fcd167a5d4dfa75ecc29f4e132cb5e)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Revert "settings-manager: Add xfce4-about"</code>](https://github.com/xfce-mirror/xfce4-settings/commit/09982d7eb226b83274347cd73b75a8664323fdf8)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
