@@ -78,6 +78,7 @@
 - [ ] [<code>Open MultitaskingView when clicking active workspace (#384)</code>](https://github.com/elementary/dock/commit/0e5e1116fb5533e654fa756bf137c77096f5e48a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>GSchema: remove multitasking from defaults (#386)</code>](https://github.com/elementary/dock/commit/4c4375d04a2a1cd23fccc70a6cc4d08af72319a0)
+- [ ] [<code>DynamicWorkspaceItem: open multitasking if clicked again (#385)</code>](https://github.com/elementary/dock/commit/59919f618e284a8b5db7a3d601125256c6629bc4)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -355,22 +356,14 @@
 - [ ] [<code>WorkspaceManager: Queue an idle to add a window (#2271)</code>](https://github.com/elementary/gala/commit/ef6292a939dde9e2e6f548e9ca62b97affa92dfa)
 - [ ] [<code>WorkspaceManager: Fix crash on workspace removed (#2281)</code>](https://github.com/elementary/gala/commit/2fe02e5974ff21eb8be97863a4a343c645922078)
 - [ ] [<code>Dock workspace switcher (#2265)</code>](https://github.com/elementary/gala/commit/cff86fbd815999bbc1c18c67ac5213e8507b1a78)
+- [ ] [<code>ToucheggBackend: Use Priority.DEFAULT for sending events to the main thread (#2284)</code>](https://github.com/elementary/gala/commit/776b82c378c8b1ecea688589d1410b652620050f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
 ## desktop/wingpanel-indicators
 
-#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.0 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.0...HEAD)
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
 
-- [ ] [<code>Consistency improvement with dock menu item (#622)</code>](https://github.com/elementary/applications-menu/commit/a73561cf5a170e44da75f031daab7df199ccd340)
-- [ ] [<code>Remove libsoup dep (#625)</code>](https://github.com/elementary/applications-menu/commit/fda933350555776bb198d898fce3fc923df65142)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>AppContextMenu: change keep in dock label (#627)</code>](https://github.com/elementary/applications-menu/commit/82e1fc4c43b3e3aea0ff20263203c2a1d0ad473b)
-- [ ] [<code>Update applications-menu.metainfo.xml.in (#629)</code>](https://github.com/elementary/applications-menu/commit/aab866cc95c18727cdf3823478076b929ea196b8)
-- [ ] [<code>Release 8.0.1 (#630)</code>](https://github.com/elementary/applications-menu/commit/251f790abc982e04db68d940024acb8f36211ffd)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -454,6 +447,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Manager: Fix always checking whether the first adapter is discovering (#26)</code>](https://github.com/elementary/bluetooth-daemon/commit/2277671ff54974efa7179699e64df242c2d6eb13)
 - [ ] [<code>ObjectManager: Refactoring (#27)</code>](https://github.com/elementary/bluetooth-daemon/commit/6112c88f9db55b25e21bcf3015db35e3ab9f1efc)
+- [ ] [<code>DeviceRow: GTK4 prep (#31)</code>](https://github.com/elementary/bluetooth-daemon/commit/216c46b883b6b1d6e099436e71cb55d156c6fbe9)
+- [ ] [<code>Application: move dark style support to startup (#34)</code>](https://github.com/elementary/bluetooth-daemon/commit/67165192acd3743e63296dcf6cd61df10120dbb0)
+- [ ] [<code>SenderDialog: GTK4 prep (#32)</code>](https://github.com/elementary/bluetooth-daemon/commit/ba02f761e4435b3c75d46afa28e9fdce062428d3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
