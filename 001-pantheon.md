@@ -25,6 +25,12 @@
 - [ ] [<code>chore(flatpak): bump EDS version (#820)</code>](https://github.com/elementary/calendar/commit/fd78f42aafa4c1ae115f9e19a4848697ebead20a)
 - [ ] [<code>CI: run arm workflows on arm runner (#821)</code>](https://github.com/elementary/calendar/commit/1dae36e121ef3342db0167589b00a50a23098fb0)
 - [ ] [<code>Flatpak: Use libportal from Platform (#822)</code>](https://github.com/elementary/calendar/commit/823c92abd0f2ff964e04c8b304ef75e1b2319ff8)
+- [ ] [<code>GridDay: Gtk4 Prep (#823)</code>](https://github.com/elementary/calendar/commit/cac6f38e682e0fed32cdb64ce371df0d3b2cbc3d)
+- [ ] [<code>AgendaEventRow: Gtk4 prep (#828)</code>](https://github.com/elementary/calendar/commit/5f885e3949f2917d7a4b46e301440409102957bd)
+- [ ] [<code>AgendaView: GTK4 prep (#827)</code>](https://github.com/elementary/calendar/commit/6184f4037c38dbfd3132442c1b30fe26e5a09c19)
+- [ ] [<code>MainWindow: gtk4 prep (#826)</code>](https://github.com/elementary/calendar/commit/d3a5d0a9fdaf540a11bf0fcb7933d95fce8f8d0e)
+- [ ] [<code>Resource: use built-in icon loading, add path for symbolic (#825)</code>](https://github.com/elementary/calendar/commit/6d934f5cc3bdb590b0fe4214fb4cd561673add3d)
+- [ ] [<code>Application: use startup (#824)</code>](https://github.com/elementary/calendar/commit/1a87ad487a5981f1a6e0f8814f6ca7a6c121a1ad)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -67,6 +73,11 @@
 - [ ] [<code>Introduce BaseItem (#373)</code>](https://github.com/elementary/dock/commit/02617cc498b4549afe5e9826d5b34dcf82364128)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix warnings (#378)</code>](https://github.com/elementary/dock/commit/50f53796ebecb7e6f628ecc6dc968f2a6792adb8)
+- [ ] [<code>Workspace switcher (#361)</code>](https://github.com/elementary/dock/commit/6dfcc674b5bf721ded5c114726bb7730e792a3ce)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Open MultitaskingView when clicking active workspace (#384)</code>](https://github.com/elementary/dock/commit/0e5e1116fb5533e654fa756bf137c77096f5e48a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GSchema: remove multitasking from defaults (#386)</code>](https://github.com/elementary/dock/commit/4c4375d04a2a1cd23fccc70a6cc4d08af72319a0)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -141,6 +152,8 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
+- [ ] [<code>MainWindow: GTK4 prep (#863)</code>](https://github.com/elementary/terminal/commit/35691a521a41ba55c57cc2d8800f19d1154e3a49)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -251,6 +264,8 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
 
+- [ ] [<code>Add Latte - the Lost Stylesheet, to the built sheets (#1315)</code>](https://github.com/elementary/stylesheet/commit/71fd2a7f922a3910bc71e02ece18c2a0a64811f5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -339,6 +354,7 @@
 - [ ] [<code>HideTracker: Disconnect timeouts on unmanaging (#2272)</code>](https://github.com/elementary/gala/commit/7ace62501f0a0457b7c26ebc203169b6c06f7da8)
 - [ ] [<code>WorkspaceManager: Queue an idle to add a window (#2271)</code>](https://github.com/elementary/gala/commit/ef6292a939dde9e2e6f548e9ca62b97affa92dfa)
 - [ ] [<code>WorkspaceManager: Fix crash on workspace removed (#2281)</code>](https://github.com/elementary/gala/commit/2fe02e5974ff21eb8be97863a4a343c645922078)
+- [ ] [<code>Dock workspace switcher (#2265)</code>](https://github.com/elementary/gala/commit/cff86fbd815999bbc1c18c67ac5213e8507b1a78)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
