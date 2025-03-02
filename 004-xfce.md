@@ -505,6 +505,9 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/c046134b49830453fd72726cb3a2659972e776ed)
 - [ ] [<code>Set up for new machinery to automatically update copyright year</code>](https://github.com/xfce-mirror/xfdesktop/commit/9d99d620aaa8943cf69aa84ac1e79c3cbd4be1f7)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Add test-gradient-benchmarking to autotools build</code>](https://github.com/xfce-mirror/xfdesktop/commit/7df9fe5258be82e2b88d73bb1ae54aab3f605b4a)
+- [ ] [<code>Add gradient benchmarking test binary to .gitignore</code>](https://github.com/xfce-mirror/xfdesktop/commit/4d7938bc0ac5844919c7394c3185c1747bdbe662)
+- [ ] [<code>Don't limit number of templates shown in the 'Create Document' menu</code>](https://github.com/xfce-mirror/xfdesktop/commit/d58b66ff83bb5ec4ae7d56a1e7d33c44e7d3e20d)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
