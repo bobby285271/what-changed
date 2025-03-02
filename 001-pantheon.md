@@ -31,6 +31,8 @@
 - [ ] [<code>MainWindow: gtk4 prep (#826)</code>](https://github.com/elementary/calendar/commit/d3a5d0a9fdaf540a11bf0fcb7933d95fce8f8d0e)
 - [ ] [<code>Resource: use built-in icon loading, add path for symbolic (#825)</code>](https://github.com/elementary/calendar/commit/6d934f5cc3bdb590b0fe4214fb4cd561673add3d)
 - [ ] [<code>Application: use startup (#824)</code>](https://github.com/elementary/calendar/commit/1a87ad487a5981f1a6e0f8814f6ca7a6c121a1ad)
+- [ ] [<code>InfoPanel: absorb CalendarButton (#829)</code>](https://github.com/elementary/calendar/commit/60e374513c6eaaf984d880940795d4b4c265d5ff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
