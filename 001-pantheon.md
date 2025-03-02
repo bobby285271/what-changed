@@ -58,6 +58,7 @@
 - [ ] [<code>Avoid calling doc.do_close () twice (#1538)</code>](https://github.com/elementary/code/commit/46258fa0acea73ed414238b4dad7b489d82fee74)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#1540)</code>](https://github.com/elementary/code/commit/d13a00e504d3df7814ffbf57944d41f000aca1a5)
 - [ ] [<code>CI: run arm workflows on arm runner (#1541)</code>](https://github.com/elementary/code/commit/15393be0cc432ae1a52216650471e683deb0e8c8)
+- [ ] [<code>CloseProjectsConfirmationDialog: Correct ngettext format (#1542)</code>](https://github.com/elementary/code/commit/3cbf7ace1a73163fc2d1013c67d8fd12b1936715)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
