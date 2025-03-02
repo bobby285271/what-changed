@@ -339,6 +339,8 @@
 - [ ] [<code>item-dialog: Also search for plugins by their module name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bc1c6f477fb44c0e9e9d5f90cded38f6d8680993)
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2c4b6bd1418916b02e91fe62488d374339b95f33)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>itembar: Fix memory leak mitigation on plugins</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f5c264de03aaa49d8d1ad0e334b401a7ac1e7323)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
