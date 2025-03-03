@@ -341,6 +341,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>itembar: Fix memory leak mitigation on plugins</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f5c264de03aaa49d8d1ad0e334b401a7ac1e7323)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>tasklist: Support window app changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4d119d0e4e9c63dd761518e466a35108ba4689f0)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -517,3 +518,4 @@
 - [ ] [<code>Update my name to the preferred format in authors</code>](https://github.com/xfce-mirror/xfwm4/commit/2c44cd64996b3cb45e16147713c31e30e6999c25)
 - [ ] [<code>build: Add missing libxfce4util flags</code>](https://github.com/xfce-mirror/xfwm4/commit/6468f80ee9283c03fc18f67361b20c6efdf3df50)
 - [ ] [<code>compositor: check if 'cwindow_hash' is a valid pointer before use</code>](https://github.com/xfce-mirror/xfwm4/commit/69a16352c9b0b6591099f63a306238272db58b3a)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/1a79e0532bc483e6960ec85fa6ab428779a383f7)
