@@ -11,6 +11,7 @@
 - [ ] [<code>Added a Gtk.ScrollingWindow to the Release notes dialog (issue #2033) (#2251)</code>](https://github.com/elementary/appcenter/commit/ccf2027914bab2b97143b3b26a85444124c0f7ea)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#2257)</code>](https://github.com/elementary/appcenter/commit/ffcd83f6004807ebe4d130aa2a4cc72a2326db8c)
 - [ ] [<code>Homepage: remove unused return_button (#2259)</code>](https://github.com/elementary/appcenter/commit/605f341517f8d99352766709b2948102893bb614)
+- [ ] [<code>Banner: create providers for display (#2207)</code>](https://github.com/elementary/appcenter/commit/160e32ae085f5d28ff2a78215bd6821dab0c19b1)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -59,6 +60,8 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#1540)</code>](https://github.com/elementary/code/commit/d13a00e504d3df7814ffbf57944d41f000aca1a5)
 - [ ] [<code>CI: run arm workflows on arm runner (#1541)</code>](https://github.com/elementary/code/commit/15393be0cc432ae1a52216650471e683deb0e8c8)
 - [ ] [<code>CloseProjectsConfirmationDialog: Correct ngettext format (#1542)</code>](https://github.com/elementary/code/commit/3cbf7ace1a73163fc2d1013c67d8fd12b1936715)
+- [ ] [<code>OverwriteUncommittedConfirmationDialog: Correct icon name and buttons order (#1544)</code>](https://github.com/elementary/code/commit/7e9a3b3089156351bd49092c3cd8bc9921fe5b4a)
+- [ ] [<code>CloseProjectsConfirmationDialog: Don't use printf in the plural form (#1543)</code>](https://github.com/elementary/code/commit/13f07f99164ca569c5c1808defbeda44ff91ba70)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -360,6 +363,15 @@
 - [ ] [<code>WorkspaceManager: Fix crash on workspace removed (#2281)</code>](https://github.com/elementary/gala/commit/2fe02e5974ff21eb8be97863a4a343c645922078)
 - [ ] [<code>Dock workspace switcher (#2265)</code>](https://github.com/elementary/gala/commit/cff86fbd815999bbc1c18c67ac5213e8507b1a78)
 - [ ] [<code>ToucheggBackend: Use Priority.DEFAULT for sending events to the main thread (#2284)</code>](https://github.com/elementary/gala/commit/776b82c378c8b1ecea688589d1410b652620050f)
+- [ ] [<code>Drop support for static workspaces (#2282)</code>](https://github.com/elementary/gala/commit/a99f4292c4a1f64cef4a64992eb51fc0720edaae)
+- [ ] [<code>Add button to the screenshot notification (#2241)</code>](https://github.com/elementary/gala/commit/602568b29f6eca9bc961894f9c7a42573ccc79c8)
+- [ ] [<code>WorkspaceManager: Fix dynamic workspaces (#2286)</code>](https://github.com/elementary/gala/commit/c3e0cec4077ced171ee67a3f9278c1fd3666acbc)
+- [ ] [<code>Introduce GestureController and GestureTargets</code>](https://github.com/elementary/gala/commit/c91fde94f13b1d853d17cacf9f9099953d8aacca)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MultitaskingView: Use GestureController and GestureTarget</code>](https://github.com/elementary/gala/commit/02b0790366c505738512ed48eb420d818bb9266d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ShellClients: Use GestureController and GestureTarget</code>](https://github.com/elementary/gala/commit/dfaa34da2a300d95623e66faeb24fe8dfb1cfa47)
+- [ ] [<code>MultitaskingView: Hook up ShellClients to new gesture logic</code>](https://github.com/elementary/gala/commit/49ea47a145db4f8c7daf805d1974b2a394704dea)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
