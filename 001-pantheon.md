@@ -18,6 +18,7 @@
 - [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#280)</code>](https://github.com/elementary/calculator/commit/51fb4e80c386738f8e14f347f256e3181773af82)
 - [ ] [<code>CI: run arm workflows on arm runner (#281)</code>](https://github.com/elementary/calculator/commit/bb93d63914cf537f5fbc8a163ffa06cc13ca7ec7)
+- [ ] [<code>Bump platform to 8.1 (#282)</code>](https://github.com/elementary/calculator/commit/def2274543dc70e2b2cb0012c7d0b88a14b6f37e)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
