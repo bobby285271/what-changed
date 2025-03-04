@@ -255,6 +255,8 @@
 - [ ] [<code>Fix potential dereference of NULL</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/de94d885f9900ba2f62ba2477a649226935dc63b)
 - [ ] [<code>meson: Check for headers</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/8eb5b2ece991f65fd885c9b46ddd9f6271568d09)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c71c421a56e2da848aeb4ef678304bc5474d5a5e)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
