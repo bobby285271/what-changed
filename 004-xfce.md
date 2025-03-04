@@ -215,6 +215,11 @@
 - [ ] [<code>image-preview: Do not rely on xfconf value for visibility toggle</code>](https://github.com/xfce-mirror/thunar/commit/f901339093c41ff5cc164f35678502e26390ae33)
 - [ ] [<code>image-preview: Use italics for the size label</code>](https://github.com/xfce-mirror/thunar/commit/b6ea10ea717ab3822358670dab3b74a585195e0c)
 - [ ] [<code>Update statusbar when searching (#1560)</code>](https://github.com/xfce-mirror/thunar/commit/97af8d378bed2707d9b5557be684d05b469a20c8)
+- [ ] [<code>Improve method naming</code>](https://github.com/xfce-mirror/thunar/commit/85498937b86d3c5a95824da0c113ca0124411cce)
+- [ ] [<code>properties-dialog: Remove link target from type description</code>](https://github.com/xfce-mirror/thunar/commit/4aa3e99a0f757d6e5ee7ff29117a3b6b1042194c)
+- [ ] [<code>properties-dialog: Relocate "Deleted" line</code>](https://github.com/xfce-mirror/thunar/commit/ccaf9427636a87b25de0b388d58f6193b6ca683e)
+- [ ] [<code>properties-dialog: Add tooltip to "Original Path"</code>](https://github.com/xfce-mirror/thunar/commit/5372cf4e0fddad8861edc89825b66859941b25c1)
+- [ ] [<code>properties-dialog: Improve size label strings</code>](https://github.com/xfce-mirror/thunar/commit/cf0f3dbf09e6bb15e563ad1d866dc55fe37fd987)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
