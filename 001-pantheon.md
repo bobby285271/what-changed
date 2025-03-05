@@ -12,6 +12,10 @@
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#2257)</code>](https://github.com/elementary/appcenter/commit/ffcd83f6004807ebe4d130aa2a4cc72a2326db8c)
 - [ ] [<code>Homepage: remove unused return_button (#2259)</code>](https://github.com/elementary/appcenter/commit/605f341517f8d99352766709b2948102893bb614)
 - [ ] [<code>Banner: create providers for display (#2207)</code>](https://github.com/elementary/appcenter/commit/160e32ae085f5d28ff2a78215bd6821dab0c19b1)
+- [ ] [<code>LinkListBox: support contribute URL (#2265)</code>](https://github.com/elementary/appcenter/commit/0bf2046e187577d632497de749013b23fd840f65)
+- [ ] [<code>Banner: fix missing name (#2262)</code>](https://github.com/elementary/appcenter/commit/3e762e31aae4b7dd6fc350530eb2bdc9d464f127)
+- [ ] [<code>SearchView: use Gtk.ListView (#2263)</code>](https://github.com/elementary/appcenter/commit/d759216c9c7f5f259b846a07152e023194e69a48)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
