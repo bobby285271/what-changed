@@ -16,6 +16,10 @@
 - [ ] [<code>Banner: fix missing name (#2262)</code>](https://github.com/elementary/appcenter/commit/3e762e31aae4b7dd6fc350530eb2bdc9d464f127)
 - [ ] [<code>SearchView: use Gtk.ListView (#2263)</code>](https://github.com/elementary/appcenter/commit/d759216c9c7f5f259b846a07152e023194e69a48)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fast search (#2179)</code>](https://github.com/elementary/appcenter/commit/328ce64bf52dc48109679af0f24a8b82b9124fb4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppInfoView: remove extensions support (#2264)</code>](https://github.com/elementary/appcenter/commit/94ae1ba6bb3f106235dda762b8d0df46e1c39945)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
