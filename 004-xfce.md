@@ -8,6 +8,7 @@
 - [ ] [<code>exo-tree-view: Allow Ctrl+Shift+Click in single click mode</code>](https://github.com/xfce-mirror/exo/commit/9ebd9196790c238fe0096b549475381af3e2adca)
 - [ ] [<code>Fix code style</code>](https://github.com/xfce-mirror/exo/commit/93c1c0a00e6e3a6bd6631ade33396dfede73dbee)
 - [ ] [<code>Properly check iterator before usage (#124)</code>](https://github.com/xfce-mirror/exo/commit/24b902eb389eecab7b3f8aaefdda4aff7608af9d)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/e34753b06ba52a8d17637f635b3323c8f16be0ff)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -91,6 +92,9 @@
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/libxfce4util/commit/4d8b47e3afaafbd7c59434bfb60c59ebf51e81ef)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xfce-rc: Fix C locale handling</code>](https://github.com/xfce-mirror/libxfce4util/commit/bd1538ad305dabcdafb0d9015a6a768823f31609)
+- [ ] [<code>meson-build: Add missing check for varargs.h</code>](https://github.com/xfce-mirror/libxfce4util/commit/afcfa50e31a0576fda3e2351fe553e83c8cc38c3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xfce-i18n: Use g_strlcpy instead of falling back to it</code>](https://github.com/xfce-mirror/libxfce4util/commit/209e93d77be721cb2cd48ac951e1b541c4559a40)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -220,6 +224,20 @@
 - [ ] [<code>properties-dialog: Relocate "Deleted" line</code>](https://github.com/xfce-mirror/thunar/commit/ccaf9427636a87b25de0b388d58f6193b6ca683e)
 - [ ] [<code>properties-dialog: Add tooltip to "Original Path"</code>](https://github.com/xfce-mirror/thunar/commit/5372cf4e0fddad8861edc89825b66859941b25c1)
 - [ ] [<code>properties-dialog: Improve size label strings</code>](https://github.com/xfce-mirror/thunar/commit/cf0f3dbf09e6bb15e563ad1d866dc55fe37fd987)
+- [ ] [<code>build: Preliminary cleanup</code>](https://github.com/xfce-mirror/thunar/commit/91eab8d78dac7570228ab658d6a4e4fd20829e54)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Make libx11 optional and use XDT_CHECK_OPTIONAL_FEATURE</code>](https://github.com/xfce-mirror/thunar/commit/86ea963c34a8da5be79d75c040fac8afd0471fbd)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Migrate to xdt-gen-visibility and xdt-check-abi</code>](https://github.com/xfce-mirror/thunar/commit/12e8dacc08e9afa69ed1f9e2e19d615985ac8cb0)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>docs: Remove thunar directory</code>](https://github.com/xfce-mirror/thunar/commit/a974b25630a6d4f64d04354b14284bb4def1d77f)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/thunar/commit/04e76d89dcebb181c95992ad31fb16da6e9b2268)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/thunar/commit/b2ec6bd6808c6d49034f66b2fea5875e6fbb36e7)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -244,6 +262,8 @@
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/tumbler/commit/258208c085bee584ccf314e632471ab377d91ded)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>poppler-thumbnailer: Only use embedded thumbnail if resolution suffices</code>](https://github.com/xfce-mirror/tumbler/commit/69a704e0f4e622861ce4007f6f3f4f6f6b962689)
+- [ ] [<code>build: Fix function checks</code>](https://github.com/xfce-mirror/tumbler/commit/0560bf83df5ccd1ab4cec703809bd1c7f38357ce)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -257,6 +277,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c71c421a56e2da848aeb4ef678304bc5474d5a5e)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Hide dash from list view when comment is empty</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/7c15b699d9134043427b29459962985aad430a17)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -349,6 +370,8 @@
 - [ ] [<code>itembar: Fix memory leak mitigation on plugins</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f5c264de03aaa49d8d1ad0e334b401a7ac1e7323)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>tasklist: Support window app changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4d119d0e4e9c63dd761518e466a35108ba4689f0)
+- [ ] [<code>meson-build: Add missing check for sys/prctl.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/929421ecc60a44ab829906744e1b1eb1a9ec18e7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -374,6 +397,8 @@
 - [ ] [<code>settings: Remove unused widget from list to hide on wayland</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b69cf19be335e5397f2cdf7254177470ecf88880)
 - [ ] [<code>Add setting to execute lid action when external display is connected</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f19c6a973ab52855a8c664c8db491575abb59227)
 - [ ] [<code>Listen to output disconnection and trigger action if needed</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/05dd5deae1489a0f4a5fceccfe02b07cd292fef4)
+- [ ] [<code>build: Add missing function checks</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/922178f6d8c964a6a1e4ddaa2ef2f60364edad40)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -472,6 +497,8 @@
 - [ ] [<code>meson-build: Add tests option</code>](https://github.com/xfce-mirror/xfconf/commit/2298f994fa0ec46eb91ed5c71537b70c59a13669)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>meson-build: Use SPDX license expression</code>](https://github.com/xfce-mirror/xfconf/commit/caf7ca0eb344fc1e463697105d3c036dce2935d8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add missing function checks</code>](https://github.com/xfce-mirror/xfconf/commit/457c71b2a954b25c7d45ab55b2d6813d67f8dcb4)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
