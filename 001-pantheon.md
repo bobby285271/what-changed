@@ -20,6 +20,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AppInfoView: remove extensions support (#2264)</code>](https://github.com/elementary/appcenter/commit/94ae1ba6bb3f106235dda762b8d0df46e1c39945)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SearchView: fix scrolled placeholder, terminal warnings (#2267)</code>](https://github.com/elementary/appcenter/commit/bb07cbcc63f9caaabbd03a89264495cdc3d01e94)
+- [ ] [<code>SearchView: clamp results (#2268)</code>](https://github.com/elementary/appcenter/commit/6979d9289210c0d661c4a059ea92aba5db32198d)
+- [ ] [<code>Resources: put category icons in a subfolder (#2270)</code>](https://github.com/elementary/appcenter/commit/349470b40a3f3039bec3179d37e7b230af06af4a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -43,6 +46,8 @@
 - [ ] [<code>Application: use startup (#824)</code>](https://github.com/elementary/calendar/commit/1a87ad487a5981f1a6e0f8814f6ca7a6c121a1ad)
 - [ ] [<code>InfoPanel: absorb CalendarButton (#829)</code>](https://github.com/elementary/calendar/commit/60e374513c6eaaf984d880940795d4b4c265d5ff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>add Flatpak dependency checker (#831)</code>](https://github.com/elementary/calendar/commit/a302b5b1e37f51d3ebdd095c353c4fbabc990529)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -381,6 +386,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ShellClients: Use GestureController and GestureTarget</code>](https://github.com/elementary/gala/commit/dfaa34da2a300d95623e66faeb24fe8dfb1cfa47)
 - [ ] [<code>MultitaskingView: Hook up ShellClients to new gesture logic</code>](https://github.com/elementary/gala/commit/49ea47a145db4f8c7daf805d1974b2a394704dea)
+- [ ] [<code>WorkspaceManager/cleanup: Fix crash (#2292)</code>](https://github.com/elementary/gala/commit/be515b5520bdfab761210c065cf901bfca8451a0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
