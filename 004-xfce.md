@@ -238,11 +238,25 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/thunar/commit/b2ec6bd6808c6d49034f66b2fea5875e6fbb36e7)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-possible-null-dereference</code>](https://github.com/xfce-mirror/thunar/commit/d603fad3c03cb85aeba931efa913b407299a438f)
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-use-of-uninitialized-value</code>](https://github.com/xfce-mirror/thunar/commit/ebb8390734727085bd98a72c225a1e1c5f18d1f7)
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-null-dereference</code>](https://github.com/xfce-mirror/thunar/commit/ce947036c4e8c1a87503027a8e953b635c663141)
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-possible-null-argument</code>](https://github.com/xfce-mirror/thunar/commit/0ab3209fdeeecdb775a37a995305938efb7f3149)
+- [ ] [<code>gcc-analyzer: Add false positive file</code>](https://github.com/xfce-mirror/thunar/commit/a8789545ab9077e53ed9dac2d6dd750a04ec0d04)
+- [ ] [<code>scan-build: Fix deadcode.DeadStores</code>](https://github.com/xfce-mirror/thunar/commit/ceb0a8e336e22a27f7baab465f70d658503a7de4)
+- [ ] [<code>scan-build: Fix core.NullDereference</code>](https://github.com/xfce-mirror/thunar/commit/9abb5f10bdf7c594c6a117f6c1a57551fafa02f4)
+- [ ] [<code>scan-build: Fix core.uninitialized.Assign</code>](https://github.com/xfce-mirror/thunar/commit/3fd4ee18da5c2824e7f84102bd4269b0a62dccaa)
+- [ ] [<code>scan-build: Add false positive file</code>](https://github.com/xfce-mirror/thunar/commit/9e61f9f253777913a8b87010f40fcb6cd1bef5f3)
+- [ ] [<code>Hide shortcuts editor when accel map uninitialized (#1488)</code>](https://github.com/xfce-mirror/thunar/commit/20cacd8ac44949d4a04b9847cfaf4efe8dfbfaaa)
+- [ ] [<code>Code style fixes</code>](https://github.com/xfce-mirror/thunar/commit/1cb06e46a5c515134b5a3fc1ade1c1650dcdb1d6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar-volman/commit/f3ebceecc95022c2d9011505fe0124de37bfe02e)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add support to meson</code>](https://github.com/xfce-mirror/thunar-volman/commit/bab3986cdaf832f0a644dd8ca4315366e933f80f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -278,6 +292,7 @@
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c71c421a56e2da848aeb4ef678304bc5474d5a5e)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Hide dash from list view when comment is empty</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/7c15b699d9134043427b29459962985aad430a17)
+- [ ] [<code>meson: Add missing file to EXTRA_DIST</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/ca89130306e786ff6e1d301595e15768af66b712)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
