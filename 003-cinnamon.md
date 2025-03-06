@@ -25,6 +25,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update control (#12742)</code>](https://github.com/linuxmint/cinnamon/commit/ed20e4a709ebcf69853ec6793c390fd64d2bd47b)
 - [ ] [<code>Revert "Update control (#12742)"</code>](https://github.com/linuxmint/cinnamon/commit/f25233d26a26993bae92bdc429112116f432f576)
+- [ ] [<code>st-label: Don't guard against NULL text (#12605)</code>](https://github.com/linuxmint/cinnamon/commit/5543f8e9e8208d606a566bd480f821a97e841bc5)
+- [ ] [<code>st-theme-node: Add support for css 'auto' (#12606)</code>](https://github.com/linuxmint/cinnamon/commit/06d8f529517bd6bd7e745c83e6dae21559f807cf)
+- [ ] [<code>Port dis/connectObj from gnome shell (#12607)</code>](https://github.com/linuxmint/cinnamon/commit/7f6073e9f802d7e9bc8c53425b70080cc566d249)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
