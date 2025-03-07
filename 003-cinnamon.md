@@ -28,6 +28,7 @@
 - [ ] [<code>st-label: Don't guard against NULL text (#12605)</code>](https://github.com/linuxmint/cinnamon/commit/5543f8e9e8208d606a566bd480f821a97e841bc5)
 - [ ] [<code>st-theme-node: Add support for css 'auto' (#12606)</code>](https://github.com/linuxmint/cinnamon/commit/06d8f529517bd6bd7e745c83e6dae21559f807cf)
 - [ ] [<code>Port dis/connectObj from gnome shell (#12607)</code>](https://github.com/linuxmint/cinnamon/commit/7f6073e9f802d7e9bc8c53425b70080cc566d249)
+- [ ] [<code>end-session: Fix end-session dialog cleanup after a failure.</code>](https://github.com/linuxmint/cinnamon/commit/5336302b327355bed447e01a19f78a06ab278283)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
