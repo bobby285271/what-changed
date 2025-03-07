@@ -23,6 +23,9 @@
 - [ ] [<code>SearchView: fix scrolled placeholder, terminal warnings (#2267)</code>](https://github.com/elementary/appcenter/commit/bb07cbcc63f9caaabbd03a89264495cdc3d01e94)
 - [ ] [<code>SearchView: clamp results (#2268)</code>](https://github.com/elementary/appcenter/commit/6979d9289210c0d661c4a059ea92aba5db32198d)
 - [ ] [<code>Resources: put category icons in a subfolder (#2270)</code>](https://github.com/elementary/appcenter/commit/349470b40a3f3039bec3179d37e7b230af06af4a)
+- [ ] [<code>Release 8.1.0 (#2258)</code>](https://github.com/elementary/appcenter/commit/3dcd3bfaf7e3d1199c56e71a22f7a67b953841b9)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -76,6 +79,7 @@
 - [ ] [<code>CloseProjectsConfirmationDialog: Correct ngettext format (#1542)</code>](https://github.com/elementary/code/commit/3cbf7ace1a73163fc2d1013c67d8fd12b1936715)
 - [ ] [<code>OverwriteUncommittedConfirmationDialog: Correct icon name and buttons order (#1544)</code>](https://github.com/elementary/code/commit/7e9a3b3089156351bd49092c3cd8bc9921fe5b4a)
 - [ ] [<code>CloseProjectsConfirmationDialog: Don't use printf in the plural form (#1543)</code>](https://github.com/elementary/code/commit/13f07f99164ca569c5c1808defbeda44ff91ba70)
+- [ ] [<code>Handle error thrown while checking out a branch (#1537)</code>](https://github.com/elementary/code/commit/bdc547fe64dee10a873c963cdbb8e3b806caf9cd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -112,6 +116,7 @@
 - [ ] [<code>FileOperations: Avoid crash on operation abort</code>](https://github.com/elementary/files/commit/81c13b291359cecec573e94720665f5e79ade47b)
 - [ ] [<code>LocationBar: Correctly handle `admin://` protocol; show warning (#2528)</code>](https://github.com/elementary/files/commit/af001a7b2ac7662ebb38998d8286e09fd346ca81)
 - [ ] [<code>Fix regression in path entry when in search mode (#2522)</code>](https://github.com/elementary/files/commit/82d7220c8e8fd9e6b5b497ec7f3b72cf9d13bc60)
+- [ ] [<code>Replace defunct email address</code>](https://github.com/elementary/files/commit/71471834593a92111e5397944cadb7959d83b132)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -170,6 +175,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: bump flatpak to 6.4 (#401)</code>](https://github.com/elementary/tasks/commit/4d7783e3066c62689b4026361a64db184b8b250e)
 - [ ] [<code>CI: bump EDS and run arm workflows on arm runner (#402)</code>](https://github.com/elementary/tasks/commit/77f35f5ebbcd43abac70871a198f87ec0a4b1b8a)
+- [ ] [<code>EntryPopover/DateTime: cleanup and GTK4 prep (#404)</code>](https://github.com/elementary/tasks/commit/222371ee6db9ff0a9434aa69737446ce9d0ee390)
+- [ ] [<code>ListSettingsPopover: GTK4 prep (#405)</code>](https://github.com/elementary/tasks/commit/87590e6b37fe5c076d3fd034b3b1a51977fe07d3)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
