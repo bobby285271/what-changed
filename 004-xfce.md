@@ -55,6 +55,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>clipboard-manager: Preserve all image formats when taking ownership</code>](https://github.com/xfce-mirror/libxfce4ui/commit/14361607952b322a6d96a0c0fe007133a86da671)
 - [ ] [<code>xfce4-about: Add .desktop file to the settings manager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ca634918f0c33030e9d26de7d9d91e5fb2781893)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3753ce5ba368cc9e7142e4d4aabf1ad76f237ea)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -249,6 +250,8 @@
 - [ ] [<code>scan-build: Add false positive file</code>](https://github.com/xfce-mirror/thunar/commit/9e61f9f253777913a8b87010f40fcb6cd1bef5f3)
 - [ ] [<code>Hide shortcuts editor when accel map uninitialized (#1488)</code>](https://github.com/xfce-mirror/thunar/commit/20cacd8ac44949d4a04b9847cfaf4efe8dfbfaaa)
 - [ ] [<code>Code style fixes</code>](https://github.com/xfce-mirror/thunar/commit/1cb06e46a5c515134b5a3fc1ade1c1650dcdb1d6)
+- [ ] [<code>Fix typo in preferences dialog</code>](https://github.com/xfce-mirror/thunar/commit/3dcdbb4fed017b0e309e23f9845ed0c023a226a0)
+- [ ] [<code>Fix invalid filenames when copying to exFAT FS (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/8cd3f46f97d845efcbc332fbc121b84d7399665f)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -323,6 +326,7 @@
 - [ ] [<code>Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9fe44c556723232ad9c4790a65aaf8934321a320)
 - [ ] [<code>meson-template: Add copyright year management</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a80c9c5810c22a291b2fd209917a4c87c893f8c4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ci: Add libxpresent-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bac9ecaadbad3dae5afc788cf509fdf558f068a2)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
