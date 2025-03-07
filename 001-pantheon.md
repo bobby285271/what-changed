@@ -51,6 +51,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>add Flatpak dependency checker (#831)</code>](https://github.com/elementary/calendar/commit/a302b5b1e37f51d3ebdd095c353c4fbabc990529)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Workflows: add flatpak-x-checker.yml</code>](https://github.com/elementary/calendar/commit/57ff51e644bfba69972cd452a816eb669305d621)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -80,6 +81,7 @@
 - [ ] [<code>OverwriteUncommittedConfirmationDialog: Correct icon name and buttons order (#1544)</code>](https://github.com/elementary/code/commit/7e9a3b3089156351bd49092c3cd8bc9921fe5b4a)
 - [ ] [<code>CloseProjectsConfirmationDialog: Don't use printf in the plural form (#1543)</code>](https://github.com/elementary/code/commit/13f07f99164ca569c5c1808defbeda44ff91ba70)
 - [ ] [<code>Handle error thrown while checking out a branch (#1537)</code>](https://github.com/elementary/code/commit/bdc547fe64dee10a873c963cdbb8e3b806caf9cd)
+- [ ] [<code>Fix "Open in" for Flatpak running (#1512)</code>](https://github.com/elementary/code/commit/5afc26acc0a529ba1185c063a29b8c34b5396176)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -519,6 +521,7 @@
 
 - [ ] [<code>Issue Template: build system form (#573)</code>](https://github.com/elementary/os/commit/3b43ceb2fadb885b99e537d40923bef56b5244c5)
 - [ ] [<code>README: Update stable badge (#751)</code>](https://github.com/elementary/os/commit/7769065e99538fd78f17c618abc98b0d1a2582e7)
+  - <sub>Tags: <code>8.0.1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
