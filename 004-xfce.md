@@ -252,6 +252,8 @@
 - [ ] [<code>Code style fixes</code>](https://github.com/xfce-mirror/thunar/commit/1cb06e46a5c515134b5a3fc1ade1c1650dcdb1d6)
 - [ ] [<code>Fix typo in preferences dialog</code>](https://github.com/xfce-mirror/thunar/commit/3dcdbb4fed017b0e309e23f9845ed0c023a226a0)
 - [ ] [<code>Fix invalid filenames when copying to exFAT FS (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/8cd3f46f97d845efcbc332fbc121b84d7399665f)
+- [ ] [<code>Improve error message on copy fail (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/1a39194fa45c9d80fd23c2c95d0d0308696b13c2)
+- [ ] [<code>file: Don't use deprecated exo_str_is_empty</code>](https://github.com/xfce-mirror/thunar/commit/b7eb19e7d1f91ac5cc8e4f87e7a0e5c3772e4e19)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
