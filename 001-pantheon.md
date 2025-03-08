@@ -60,6 +60,7 @@
 - [ ] [<code>Handle error thrown while checking out a branch (#1537)</code>](https://github.com/elementary/code/commit/bdc547fe64dee10a873c963cdbb8e3b806caf9cd)
 - [ ] [<code>Fix "Open in" for Flatpak running (#1512)</code>](https://github.com/elementary/code/commit/5afc26acc0a529ba1185c063a29b8c34b5396176)
 - [ ] [<code>editorconfig.vala: make hook document handler asynchronous (#1334)</code>](https://github.com/elementary/code/commit/c96f526a7bc8c205c8ff0f6f50e43562164bcf5c)
+- [ ] [<code>Unselect symbol item after select so can be reselected (#1504)</code>](https://github.com/elementary/code/commit/6095df30e174d1e7bdd5ef021ad3fc8bef7c7051)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -444,6 +445,7 @@
 - [ ] [<code>Icons: add alias for adw-entry-apply-symbolic (#743)</code>](https://github.com/elementary/granite/commit/399f6b01bb53b7690b3da206314cff3c23ef2750)
 - [ ] [<code>Constants: add numeric css class (#745)</code>](https://github.com/elementary/granite/commit/fff6d4358efca9d27fe7339158c60c5497bc08c1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add gettext to dependencies (#748)</code>](https://github.com/elementary/granite/commit/58388aa31647f63df35f409bd556ddda50e2895a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
