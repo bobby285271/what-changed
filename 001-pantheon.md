@@ -1,31 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.0.1 → HEAD](https://github.com/elementary/appcenter/compare/8.0.1...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.1.0 → HEAD](https://github.com/elementary/appcenter/compare/8.1.0...HEAD)
 
-- [ ] [<code>Various fixes in AppListUpdateView (#2237)</code>](https://github.com/elementary/appcenter/commit/d086f6567e2cb764d63fb92e92a8234079120a01)
-- [ ] [<code>Fix broken --load-local option (#2231)</code>](https://github.com/elementary/appcenter/commit/aa5763aeaaff4567d9085ae1cb64e76e7c901bdf)
-- [ ] [<code>Preprocess metadata on FlatpakBackend constructor if no cache folders are available. (#2249)</code>](https://github.com/elementary/appcenter/commit/57127a40dd4ac1929022cb9ba4750f311aacfa6d)
-- [ ] [<code>Filter screenshots by style and evironment. (#2235)</code>](https://github.com/elementary/appcenter/commit/fa3a708dce27f5a4ef4c0b923bc85e5089b3189c)
-- [ ] [<code>ReleaseRow: fix overflow, improve styles (#2256)</code>](https://github.com/elementary/appcenter/commit/760d3057521eba136c9ae5c53fc8b5433301e9ba)
-- [ ] [<code>Added a Gtk.ScrollingWindow to the Release notes dialog (issue #2033) (#2251)</code>](https://github.com/elementary/appcenter/commit/ccf2027914bab2b97143b3b26a85444124c0f7ea)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#2257)</code>](https://github.com/elementary/appcenter/commit/ffcd83f6004807ebe4d130aa2a4cc72a2326db8c)
-- [ ] [<code>Homepage: remove unused return_button (#2259)</code>](https://github.com/elementary/appcenter/commit/605f341517f8d99352766709b2948102893bb614)
-- [ ] [<code>Banner: create providers for display (#2207)</code>](https://github.com/elementary/appcenter/commit/160e32ae085f5d28ff2a78215bd6821dab0c19b1)
-- [ ] [<code>LinkListBox: support contribute URL (#2265)</code>](https://github.com/elementary/appcenter/commit/0bf2046e187577d632497de749013b23fd840f65)
-- [ ] [<code>Banner: fix missing name (#2262)</code>](https://github.com/elementary/appcenter/commit/3e762e31aae4b7dd6fc350530eb2bdc9d464f127)
-- [ ] [<code>SearchView: use Gtk.ListView (#2263)</code>](https://github.com/elementary/appcenter/commit/d759216c9c7f5f259b846a07152e023194e69a48)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fast search (#2179)</code>](https://github.com/elementary/appcenter/commit/328ce64bf52dc48109679af0f24a8b82b9124fb4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>AppInfoView: remove extensions support (#2264)</code>](https://github.com/elementary/appcenter/commit/94ae1ba6bb3f106235dda762b8d0df46e1c39945)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>SearchView: fix scrolled placeholder, terminal warnings (#2267)</code>](https://github.com/elementary/appcenter/commit/bb07cbcc63f9caaabbd03a89264495cdc3d01e94)
-- [ ] [<code>SearchView: clamp results (#2268)</code>](https://github.com/elementary/appcenter/commit/6979d9289210c0d661c4a059ea92aba5db32198d)
-- [ ] [<code>Resources: put category icons in a subfolder (#2270)</code>](https://github.com/elementary/appcenter/commit/349470b40a3f3039bec3179d37e7b230af06af4a)
-- [ ] [<code>Release 8.1.0 (#2258)</code>](https://github.com/elementary/appcenter/commit/3dcd3bfaf7e3d1199c56e71a22f7a67b953841b9)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -82,6 +59,7 @@
 - [ ] [<code>CloseProjectsConfirmationDialog: Don't use printf in the plural form (#1543)</code>](https://github.com/elementary/code/commit/13f07f99164ca569c5c1808defbeda44ff91ba70)
 - [ ] [<code>Handle error thrown while checking out a branch (#1537)</code>](https://github.com/elementary/code/commit/bdc547fe64dee10a873c963cdbb8e3b806caf9cd)
 - [ ] [<code>Fix "Open in" for Flatpak running (#1512)</code>](https://github.com/elementary/code/commit/5afc26acc0a529ba1185c063a29b8c34b5396176)
+- [ ] [<code>editorconfig.vala: make hook document handler asynchronous (#1334)</code>](https://github.com/elementary/code/commit/c96f526a7bc8c205c8ff0f6f50e43562164bcf5c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
