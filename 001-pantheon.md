@@ -98,6 +98,8 @@
 - [ ] [<code>LocationBar: Correctly handle `admin://` protocol; show warning (#2528)</code>](https://github.com/elementary/files/commit/af001a7b2ac7662ebb38998d8286e09fd346ca81)
 - [ ] [<code>Fix regression in path entry when in search mode (#2522)</code>](https://github.com/elementary/files/commit/82d7220c8e8fd9e6b5b497ec7f3b72cf9d13bc60)
 - [ ] [<code>Replace defunct email address</code>](https://github.com/elementary/files/commit/71471834593a92111e5397944cadb7959d83b132)
+- [ ] [<code>Jeremypw/gtk4 prep/bookmark list box cleanup (#2540)</code>](https://github.com/elementary/files/commit/6cca93df63fe424f722a63e91837f09e8db947e4)
+- [ ] [<code>Jeremypw/gtk4prep/devicelistbox cleanup (#2541)</code>](https://github.com/elementary/files/commit/eb9adf035e975a0aae6bce756f1eb0f8ee5b3b82)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -158,6 +160,7 @@
 - [ ] [<code>CI: bump EDS and run arm workflows on arm runner (#402)</code>](https://github.com/elementary/tasks/commit/77f35f5ebbcd43abac70871a198f87ec0a4b1b8a)
 - [ ] [<code>EntryPopover/DateTime: cleanup and GTK4 prep (#404)</code>](https://github.com/elementary/tasks/commit/222371ee6db9ff0a9434aa69737446ce9d0ee390)
 - [ ] [<code>ListSettingsPopover: GTK4 prep (#405)</code>](https://github.com/elementary/tasks/commit/87590e6b37fe5c076d3fd034b3b1a51977fe07d3)
+- [ ] [<code>ScheduledTaskListBox: GTK4 prep (#406)</code>](https://github.com/elementary/tasks/commit/4de1335283c1abfb680c95c6b16979da1dab970a)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -375,6 +378,11 @@
 - [ ] [<code>ShellClients: Use GestureController and GestureTarget</code>](https://github.com/elementary/gala/commit/dfaa34da2a300d95623e66faeb24fe8dfb1cfa47)
 - [ ] [<code>MultitaskingView: Hook up ShellClients to new gesture logic</code>](https://github.com/elementary/gala/commit/49ea47a145db4f8c7daf805d1974b2a394704dea)
 - [ ] [<code>WorkspaceManager/cleanup: Fix crash (#2292)</code>](https://github.com/elementary/gala/commit/be515b5520bdfab761210c065cf901bfca8451a0)
+- [ ] [<code>Use GestureController for Zoom (#2296)</code>](https://github.com/elementary/gala/commit/3d180afdcd2b74e62c10e524d9bd8a36b3be0901)
+- [ ] [<code>WindowManager: cleanup maximize and unmaximize animations (#2255)</code>](https://github.com/elementary/gala/commit/9f63c52f591fe95ab57428afe8468e95b062823e)
+- [ ] [<code>Use org.gnome.desktop.interface enable-animations (#2288)</code>](https://github.com/elementary/gala/commit/65e369f682a2b3eb704aeb14fb9c327cffae6565)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
