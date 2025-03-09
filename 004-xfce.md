@@ -164,6 +164,7 @@
 - [ ] [<code>XfwWnckIcon: Fix wrong compare func</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e58801e1f8455c928ff133ccde206b105f2bcc01)
 - [ ] [<code>XfwWindowX11: Keep a ref on workspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b1e91e50e472d41e168e6abe0dc94f8cbe1f891c)
 - [ ] [<code>Try to match the app id in lower case to find the .desktop file</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cb52e854dfe620a6de91d339bacfa1b6fed07c83)
+- [ ] [<code>XfwWindowX11: Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2311db96922ce9acd3617e7aafbf8e5e29a51671)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
