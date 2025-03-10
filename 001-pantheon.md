@@ -100,6 +100,7 @@
 - [ ] [<code>Replace defunct email address</code>](https://github.com/elementary/files/commit/71471834593a92111e5397944cadb7959d83b132)
 - [ ] [<code>Jeremypw/gtk4 prep/bookmark list box cleanup (#2540)</code>](https://github.com/elementary/files/commit/6cca93df63fe424f722a63e91837f09e8db947e4)
 - [ ] [<code>Jeremypw/gtk4prep/devicelistbox cleanup (#2541)</code>](https://github.com/elementary/files/commit/eb9adf035e975a0aae6bce756f1eb0f8ee5b3b82)
+- [ ] [<code>filechooser-portal: Fix some strings are not translatable (#2544)</code>](https://github.com/elementary/files/commit/34f43d9df84728eb5497b83ebfbf9dadab446c0d)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -383,9 +384,13 @@
 - [ ] [<code>Use org.gnome.desktop.interface enable-animations (#2288)</code>](https://github.com/elementary/gala/commit/65e369f682a2b3eb704aeb14fb9c327cffae6565)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Multitasking view desktop workspace switch (#2291)</code>](https://github.com/elementary/gala/commit/76d2f424f194c0ba61c44a43ad9b62b9c9312338)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#2300)</code>](https://github.com/elementary/gala/commit/3143c62e096eaae2b20044c2414aa78606ad0bf0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
+- [ ] [<code>Fix panel actual_height with scale factor (#601)</code>](https://github.com/elementary/wingpanel/commit/b07e3effb62ba71029044122e2a701d01edfa2b4)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
