@@ -29,6 +29,8 @@
 - [ ] [<code>add Flatpak dependency checker (#831)</code>](https://github.com/elementary/calendar/commit/a302b5b1e37f51d3ebdd095c353c4fbabc990529)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Workflows: add flatpak-x-checker.yml</code>](https://github.com/elementary/calendar/commit/57ff51e644bfba69972cd452a816eb669305d621)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.52.4.tar.xz to 3.54.3 (#832)</code>](https://github.com/elementary/calendar/commit/2e67053e778e5606cb7e4c6e8c3d47b36a2cba64)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -61,6 +63,7 @@
 - [ ] [<code>Fix "Open in" for Flatpak running (#1512)</code>](https://github.com/elementary/code/commit/5afc26acc0a529ba1185c063a29b8c34b5396176)
 - [ ] [<code>editorconfig.vala: make hook document handler asynchronous (#1334)</code>](https://github.com/elementary/code/commit/c96f526a7bc8c205c8ff0f6f50e43562164bcf5c)
 - [ ] [<code>Unselect symbol item after select so can be reselected (#1504)</code>](https://github.com/elementary/code/commit/6095df30e174d1e7bdd5ef021ad3fc8bef7c7051)
+- [ ] [<code>Increase maximum selection length (#1470)</code>](https://github.com/elementary/code/commit/2e89995e5756afd416dd8471e7fd53fe65be09b1)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
