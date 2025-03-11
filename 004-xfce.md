@@ -56,6 +56,14 @@
 - [ ] [<code>clipboard-manager: Preserve all image formats when taking ownership</code>](https://github.com/xfce-mirror/libxfce4ui/commit/14361607952b322a6d96a0c0fe007133a86da671)
 - [ ] [<code>xfce4-about: Add .desktop file to the settings manager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ca634918f0c33030e9d26de7d9d91e5fb2781893)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3753ce5ba368cc9e7142e4d4aabf1ad76f237ea)
+- [ ] [<code>Add xfce-execute from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a69b12fec16892350f79f9add79cea842853f9d4)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Add xfce-gdk-pixbuf-extensions from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/8cfea922fce1ab380f6f06781adc1b783164a59b)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add xfce-gtk-extensions from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2e202105e585c5b61b234878a62a8ed1ac172bd1)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
