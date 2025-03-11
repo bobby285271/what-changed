@@ -104,6 +104,7 @@
 - [ ] [<code>Jeremypw/gtk4 prep/bookmark list box cleanup (#2540)</code>](https://github.com/elementary/files/commit/6cca93df63fe424f722a63e91837f09e8db947e4)
 - [ ] [<code>Jeremypw/gtk4prep/devicelistbox cleanup (#2541)</code>](https://github.com/elementary/files/commit/eb9adf035e975a0aae6bce756f1eb0f8ee5b3b82)
 - [ ] [<code>filechooser-portal: Fix some strings are not translatable (#2544)</code>](https://github.com/elementary/files/commit/34f43d9df84728eb5497b83ebfbf9dadab446c0d)
+- [ ] [<code>Metainfo: add 7.1.1 release notes (#2547)</code>](https://github.com/elementary/files/commit/4de5329e6187ec5cf1bd7ee641a74c89d8bdbb73)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -213,6 +214,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#405)</code>](https://github.com/elementary/switchboard-plug-display/commit/8024604ae8e851804650665cd7ec7f54b47f0993)
 - [ ] [<code>DisplayWidget: Fix text-shadow for children (#407)</code>](https://github.com/elementary/switchboard-plug-display/commit/c00c1e996969d388c008887b906091cfe0525a1d)
+- [ ] [<code>Release 8.0.1 (#408)</code>](https://github.com/elementary/switchboard-plug-display/commit/da6d0a3bf58add3934119a3b481571428a988893)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.1...HEAD)
 
@@ -250,6 +254,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update URLs to settings-desktop (#436)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/570b4810a650ba56d9e5b6661f0a49d01e1eddbe)
 - [ ] [<code>Appearance: get/set animations from interface key (#438)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/14c96d065b73a44bc002e4907dcac36eb88a899f)
+- [ ] [<code>Metainfo: update issues (#441)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/179c962ba191530f62c88af2a9402837467b78f0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -311,6 +317,8 @@
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.0.2 → HEAD](https://github.com/elementary/default-settings/compare/8.0.2...HEAD)
 
 - [ ] [<code>Remove gala overrides (#322)</code>](https://github.com/elementary/default-settings/commit/f5373e19da6584fa803c5be498292b532ffa0271)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Install brwap-userns-restrict apparmor profile (#326)</code>](https://github.com/elementary/default-settings/commit/622a66eadd2d46ab4aa3e69bf18243a6b915e19d)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
@@ -394,6 +402,11 @@
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
 
 - [ ] [<code>Fix panel actual_height with scale factor (#601)</code>](https://github.com/elementary/wingpanel/commit/b07e3effb62ba71029044122e2a701d01edfa2b4)
+- [ ] [<code>PanelWindow: Update size on scale change (#602)</code>](https://github.com/elementary/wingpanel/commit/0568a7f5451786f21dffda2cd571ebbe09b0a9b3)
+- [ ] [<code>Metainfo: add 8.0.3 (#603)</code>](https://github.com/elementary/wingpanel/commit/009233b204312704dab71ce9ced67733c5e296de)
+- [ ] [<code>Release 8.0.3 (#604)</code>](https://github.com/elementary/wingpanel/commit/246b2c7888d9138f048d5da08969a5ea3cc21e3c)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -451,6 +464,9 @@
 - [ ] [<code>DeviceItem: use device object (#277)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fe9aba0acf9b4fce54a6cf5e756727992b3ad3c)
 - [ ] [<code>Fix loading albumArt from Chromium MPRIS (#280)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/66f44a07bcab0eb8f9904753af0e06d08c3907f5)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#282)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/56a486ba19f99ae8cec5b4f24d51ed37eb54d8bc)
+- [ ] [<code>Release 8.0.1 (#287)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/0a5960bbb4dcd7454d3ee47e6defbc1684301077)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
