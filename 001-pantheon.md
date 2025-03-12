@@ -111,6 +111,7 @@
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#61)</code>](https://github.com/elementary/iconbrowser/commit/13232a1fc8b19158b2d209c1a934704b242517b1)
 - [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
+- [ ] [<code>Bump to platform 8.1 (#63)</code>](https://github.com/elementary/iconbrowser/commit/90678378fb68eeeac49a702d4d7a8ca3aaf0015f)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
 
@@ -133,6 +134,7 @@
 - [ ] [<code>Add quit keyboard shortcut (#778)</code>](https://github.com/elementary/music/commit/d7fbb4fcff8be47f913a135945eaacb6873c0862)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#788)</code>](https://github.com/elementary/music/commit/a1f930d2eef73263d40dada279ea5649758ddbcd)
 - [ ] [<code>CI: run arm workflows on arm runner (#789)</code>](https://github.com/elementary/music/commit/d3c5ca1e3b8d82f70cbe0f10a793f38ccbb30001)
+- [ ] [<code>Update to Platform 8.1 (#790)</code>](https://github.com/elementary/music/commit/2711128af8021dcdf90e68ebe91b8d3b8490bdf3)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -153,6 +155,7 @@
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#298)</code>](https://github.com/elementary/screenshot/commit/16965a697145863e13b26b67c46d011b6b3b112a)
 - [ ] [<code>CI: run ARM workflows on arm64 runner (#300)</code>](https://github.com/elementary/screenshot/commit/80c13945a00e535afa8ef9a523a33ccf9bfa2b4c)
+- [ ] [<code>Bump platform to 8.1 (#301)</code>](https://github.com/elementary/screenshot/commit/8133dabf6f6eb31d00afbb1a5749ef6c6adf4526)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -167,6 +170,7 @@
 - [ ] [<code>EntryPopover/DateTime: cleanup and GTK4 prep (#404)</code>](https://github.com/elementary/tasks/commit/222371ee6db9ff0a9434aa69737446ce9d0ee390)
 - [ ] [<code>ListSettingsPopover: GTK4 prep (#405)</code>](https://github.com/elementary/tasks/commit/87590e6b37fe5c076d3fd034b3b1a51977fe07d3)
 - [ ] [<code>ScheduledTaskListBox: GTK4 prep (#406)</code>](https://github.com/elementary/tasks/commit/4de1335283c1abfb680c95c6b16979da1dab970a)
+- [ ] [<code>Location: Granite.ModeButton → Gtk.RadioButton (#407)</code>](https://github.com/elementary/tasks/commit/ed84a5595a9475625c303095eaad05fb76bb5c88)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
