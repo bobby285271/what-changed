@@ -460,6 +460,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>startxfce4: Fix keyboard layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/63d9bc0710bde90e81b75de40afabb6913027918)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/a10fe0ff835881c0fb81e17be52fbb8dd23b9f3a)
+- [ ] [<code>scripts: Make xflock4 blocking again</code>](https://github.com/xfce-mirror/xfce4-session/commit/584ba9e6aa46e79aa5821d0b34b684f07c85f3db)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -495,6 +496,7 @@
 - [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-settings/commit/35c3c91c07fcd167a5d4dfa75ecc29f4e132cb5e)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Revert "settings-manager: Add xfce4-about"</code>](https://github.com/xfce-mirror/xfce4-settings/commit/09982d7eb226b83274347cd73b75a8664323fdf8)
+- [ ] [<code>display-settings: Add missing update of /ActiveProfile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6d9de574d742b3fe6cd264d631ee548447134904)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
