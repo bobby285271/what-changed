@@ -105,6 +105,7 @@
 - [ ] [<code>Jeremypw/gtk4prep/devicelistbox cleanup (#2541)</code>](https://github.com/elementary/files/commit/eb9adf035e975a0aae6bce756f1eb0f8ee5b3b82)
 - [ ] [<code>filechooser-portal: Fix some strings are not translatable (#2544)</code>](https://github.com/elementary/files/commit/34f43d9df84728eb5497b83ebfbf9dadab446c0d)
 - [ ] [<code>Metainfo: add 7.1.1 release notes (#2547)</code>](https://github.com/elementary/files/commit/4de5329e6187ec5cf1bd7ee641a74c89d8bdbb73)
+- [ ] [<code>sidebarlistinterface: cleanup and gtk4 prep (#2545)</code>](https://github.com/elementary/files/commit/1eefdd27b3e41613ceda198ff42aba82598d3e55)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -320,6 +321,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Install brwap-userns-restrict apparmor profile (#326)</code>](https://github.com/elementary/default-settings/commit/622a66eadd2d46ab4aa3e69bf18243a6b915e19d)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Control: runtime depends apparmor-profiles</code>](https://github.com/elementary/default-settings/commit/79d7e5bb47a317d5a5a4c479784203877e0c2195)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -478,6 +481,7 @@
 - [ ] [<code>Constants: add numeric css class (#745)</code>](https://github.com/elementary/granite/commit/fff6d4358efca9d27fe7339158c60c5497bc08c1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add gettext to dependencies (#748)</code>](https://github.com/elementary/granite/commit/58388aa31647f63df35f409bd556ddda50e2895a)
+- [ ] [<code>Icons: add eye icons required by Gtk.PasswordEntry (#750)</code>](https://github.com/elementary/granite/commit/9b0ea498614af5b1117b37a9c957f90bb8fffa20)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
