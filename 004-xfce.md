@@ -595,3 +595,9 @@
 - [ ] [<code>build: Add missing libxfce4util flags</code>](https://github.com/xfce-mirror/xfwm4/commit/6468f80ee9283c03fc18f67361b20c6efdf3df50)
 - [ ] [<code>compositor: check if 'cwindow_hash' is a valid pointer before use</code>](https://github.com/xfce-mirror/xfwm4/commit/69a16352c9b0b6591099f63a306238272db58b3a)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/1a79e0532bc483e6960ec85fa6ab428779a383f7)
+- [ ] [<code>moheli: Delete unused png file</code>](https://github.com/xfce-mirror/xfwm4/commit/41848d08a81b7bb118dd8b5abb29a24eec68dfe5)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfwm4/commit/c490af02f8d4536708b7ab053ebccceba26b3133)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfwm4/commit/d25f003658cc9816f11cf95daf02858dbcd8d700)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
