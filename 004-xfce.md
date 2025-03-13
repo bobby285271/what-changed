@@ -64,6 +64,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add xfce-gtk-extensions from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2e202105e585c5b61b234878a62a8ed1ac172bd1)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Add missing check for mmap</code>](https://github.com/xfce-mirror/libxfce4ui/commit/acd7538fab2774650aeb2d375e4f591f2d4916aa)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Remove libxfce4ui-config.h from GI</code>](https://github.com/xfce-mirror/libxfce4ui/commit/18f08c946c42097730cb7e5753e3bb0ee97d5797)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -104,6 +108,8 @@
 - [ ] [<code>meson-build: Add missing check for varargs.h</code>](https://github.com/xfce-mirror/libxfce4util/commit/afcfa50e31a0576fda3e2351fe553e83c8cc38c3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xfce-i18n: Use g_strlcpy instead of falling back to it</code>](https://github.com/xfce-mirror/libxfce4util/commit/209e93d77be721cb2cd48ac951e1b541c4559a40)
+- [ ] [<code>build: Remove libxfce4util-config.h from GI</code>](https://github.com/xfce-mirror/libxfce4util/commit/2805c0965a7d6993df4653225e00f0aaf6975fc6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -292,6 +298,8 @@
 - [ ] [<code>poppler-thumbnailer: Only use embedded thumbnail if resolution suffices</code>](https://github.com/xfce-mirror/tumbler/commit/69a704e0f4e622861ce4007f6f3f4f6f6b962689)
 - [ ] [<code>build: Fix function checks</code>](https://github.com/xfce-mirror/tumbler/commit/0560bf83df5ccd1ab4cec703809bd1c7f38357ce)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Function check cleanup</code>](https://github.com/xfce-mirror/tumbler/commit/96dd5778ae5f9b98e6f5d3b31f96a93358c008e8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -401,6 +409,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>tasklist: Support window app changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4d119d0e4e9c63dd761518e466a35108ba4689f0)
 - [ ] [<code>meson-build: Add missing check for sys/prctl.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/929421ecc60a44ab829906744e1b1eb1a9ec18e7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Remove libxfce4panel-config.h from GI</code>](https://github.com/xfce-mirror/xfce4-panel/commit/87cb59805cda418c20a535cf5dafc5c1f92c7c85)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
