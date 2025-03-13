@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.1.0 → HEAD](https://github.com/elementary/appcenter/compare/8.1.0...HEAD)
 
+- [ ] [<code>Add label for in-app purchases (#2274)</code>](https://github.com/elementary/appcenter/commit/bb8c8bea4a523b6038935b7056c965c5e957efc7)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -64,6 +65,7 @@
 - [ ] [<code>editorconfig.vala: make hook document handler asynchronous (#1334)</code>](https://github.com/elementary/code/commit/c96f526a7bc8c205c8ff0f6f50e43562164bcf5c)
 - [ ] [<code>Unselect symbol item after select so can be reselected (#1504)</code>](https://github.com/elementary/code/commit/6095df30e174d1e7bdd5ef021ad3fc8bef7c7051)
 - [ ] [<code>Increase maximum selection length (#1470)</code>](https://github.com/elementary/code/commit/2e89995e5756afd416dd8471e7fd53fe65be09b1)
+- [ ] [<code>Move Open in Terminal option (#1518)</code>](https://github.com/elementary/code/commit/a4813dbc8296c2520d47e0ea4558ab0e66ebc6fb)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -87,6 +89,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>GSchema: remove multitasking from defaults (#386)</code>](https://github.com/elementary/dock/commit/4c4375d04a2a1cd23fccc70a6cc4d08af72319a0)
 - [ ] [<code>DynamicWorkspaceItem: open multitasking if clicked again (#385)</code>](https://github.com/elementary/dock/commit/59919f618e284a8b5db7a3d601125256c6629bc4)
+- [ ] [<code>WorkspaceSystem: sort windows by time they appeared on the workspace (#388)</code>](https://github.com/elementary/dock/commit/8cb6d152e3a83d4d4521b37d563e7aca3a30565b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -106,6 +109,11 @@
 - [ ] [<code>filechooser-portal: Fix some strings are not translatable (#2544)</code>](https://github.com/elementary/files/commit/34f43d9df84728eb5497b83ebfbf9dadab446c0d)
 - [ ] [<code>Metainfo: add 7.1.1 release notes (#2547)</code>](https://github.com/elementary/files/commit/4de5329e6187ec5cf1bd7ee641a74c89d8bdbb73)
 - [ ] [<code>sidebarlistinterface: cleanup and gtk4 prep (#2545)</code>](https://github.com/elementary/files/commit/1eefdd27b3e41613ceda198ff42aba82598d3e55)
+- [ ] [<code>Quote filename on paste (#2268)</code>](https://github.com/elementary/files/commit/a79ce22275b6480639c7be7e1f73ced8c253b0e4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Bookmarkrow cleanup (#2538)</code>](https://github.com/elementary/files/commit/fa1595cba6654adbb24b91a43943c974163abf1e)
+- [ ] [<code>Rewrite template submenu to preserve hierarchy (#2506)</code>](https://github.com/elementary/files/commit/876bbf86de616594119a4e6f7267c893b04c8c54)
+- [ ] [<code>Fix drop on mounted after start (#2526)</code>](https://github.com/elementary/files/commit/fa3692e6ca0c370a4433537bc1a3060800f45e24)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -211,17 +219,8 @@
 - [ ] [<code>Meson: add log domain (#133)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/50df1abaf9f5ef64436c31ae32e4a7495d304f63)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.1...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-display/commit/a9b55a93e09caa41229902f297ec556f820db988)
-- [ ] [<code>Use mutter provided supported scales (#399)</code>](https://github.com/elementary/switchboard-plug-display/commit/c74321902f30a414b1380b214ffccb35fd5e3ba3)
-- [ ] [<code>Meson: add log domain (#402)</code>](https://github.com/elementary/switchboard-plug-display/commit/0bf6bb9dbe4f8e663e398efe267ce66b1041b0bb)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#405)</code>](https://github.com/elementary/switchboard-plug-display/commit/8024604ae8e851804650665cd7ec7f54b47f0993)
-- [ ] [<code>DisplayWidget: Fix text-shadow for children (#407)</code>](https://github.com/elementary/switchboard-plug-display/commit/c00c1e996969d388c008887b906091cfe0525a1d)
-- [ ] [<code>Release 8.0.1 (#408)</code>](https://github.com/elementary/switchboard-plug-display/commit/da6d0a3bf58add3934119a3b481571428a988893)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.1...HEAD)
 
@@ -405,15 +404,17 @@
 - [ ] [<code>Multitasking view desktop workspace switch (#2291)</code>](https://github.com/elementary/gala/commit/76d2f424f194c0ba61c44a43ad9b62b9c9312338)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#2300)</code>](https://github.com/elementary/gala/commit/3143c62e096eaae2b20044c2414aa78606ad0bf0)
-
-#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.2 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.2...HEAD)
-
-- [ ] [<code>Fix panel actual_height with scale factor (#601)</code>](https://github.com/elementary/wingpanel/commit/b07e3effb62ba71029044122e2a701d01edfa2b4)
-- [ ] [<code>PanelWindow: Update size on scale change (#602)</code>](https://github.com/elementary/wingpanel/commit/0568a7f5451786f21dffda2cd571ebbe09b0a9b3)
-- [ ] [<code>Metainfo: add 8.0.3 (#603)</code>](https://github.com/elementary/wingpanel/commit/009233b204312704dab71ce9ced67733c5e296de)
-- [ ] [<code>Release 8.0.3 (#604)</code>](https://github.com/elementary/wingpanel/commit/246b2c7888d9138f048d5da08969a5ea3cc21e3c)
-  - <sub>Tags: <code>8.0.3</code></sub>
+- [ ] [<code>WindowSwitcher: Use GestureController (#2302)</code>](https://github.com/elementary/gala/commit/c5b6451881e5af611b95c5b1ac048dc8b8328297)
+- [ ] [<code>Simplify multitasking view type (#2303)</code>](https://github.com/elementary/gala/commit/e4c469e52de7162af1adbe4ca497edf4450d683e)
+- [ ] [<code>Remove unused GestureTracker (#2304)</code>](https://github.com/elementary/gala/commit/968de64a2c6c493db4f3fede6e2250156244b2af)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup ScreenshotManager and WindowManager (#2298)</code>](https://github.com/elementary/gala/commit/00047849fbb9d477520436701701647a5c95ce75)
+  - <sub>Keywords: <code>command</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>DesktopIntegration: add 'time-appeared-on-workspace' property (#2285)</code>](https://github.com/elementary/gala/commit/6098b7c444d5d620dab19ad6c18308e58950aa93)
+- [ ] [<code>Update POTFILES (#2307)</code>](https://github.com/elementary/gala/commit/d278404f3455ff1bd6dda8d60cddadbb26bfaf90)
+
+#### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
+
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -464,16 +465,8 @@
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
 
-#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...HEAD)
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
-- [ ] [<code>PlayerRow: fix icon size (#276)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6cc09556c9aecbf9275ef665667d3ce15845d15)
-- [ ] [<code>Fix deprecated provider for context (#278)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d21437e36582c9a57ed94cae7abb8e98c605cb72)
-- [ ] [<code>DeviceItem: use device object (#277)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6fe9aba0acf9b4fce54a6cf5e756727992b3ad3c)
-- [ ] [<code>Fix loading albumArt from Chromium MPRIS (#280)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/66f44a07bcab0eb8f9904753af0e06d08c3907f5)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#282)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/56a486ba19f99ae8cec5b4f24d51ed37eb54d8bc)
-- [ ] [<code>Release 8.0.1 (#287)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/0a5960bbb4dcd7454d3ee47e6defbc1684301077)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
