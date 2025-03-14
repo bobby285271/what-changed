@@ -547,6 +547,9 @@
 - [ ] [<code>Issue Template: build system form (#573)</code>](https://github.com/elementary/os/commit/3b43ceb2fadb885b99e537d40923bef56b5244c5)
 - [ ] [<code>README: Update stable badge (#751)</code>](https://github.com/elementary/os/commit/7769065e99538fd78f17c618abc98b0d1a2582e7)
   - <sub>Tags: <code>8.0.1</code> <code>8.0.1-rc1</code></sub>
+- [ ] [<code>Update apparmor-profiles.chroot (#759)</code>](https://github.com/elementary/os/commit/229c73684914c19a2655a16d8865bf8c1ea8b876)
+  - <sub>Tags: <code>8.0.1-rc2</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
