@@ -419,6 +419,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #1534 from NorwayFun/master</code>](https://github.com/alainm23/planify/commit/857ccb2c2d687d58b4745fa0cf25626d00c5ad1b)
 - [ ] [<code>Merge pull request #1533 from blipp/readme</code>](https://github.com/alainm23/planify/commit/acca39066b3dd02545c693e5c0614655e352d73c)
+- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/f36e69d57fa96fe7cbfbe0e442189077ff3fa0e2)
+- [ ] [<code>Merge pull request #1545 from haggen88/translation</code>](https://github.com/alainm23/planify/commit/13a167a9c538a94e752595cbe19aee165c27af0f)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
