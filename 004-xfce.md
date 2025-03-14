@@ -68,6 +68,16 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>build: Remove libxfce4ui-config.h from GI</code>](https://github.com/xfce-mirror/libxfce4ui/commit/18f08c946c42097730cb7e5753e3bb0ee97d5797)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add xfce-icon-chooser-dialog and xfce-icon-view from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6bcb2a4bae565522ba9be0a37a7a1ef748775452)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add xfce-desktop-item-edit from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/1ff007104e2f670c4cc62d3f63e42e2d948bac59)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Add xfce-open from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c6640844d3f0ae61a01bdb1f9282a895ff823f55)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add xfce-tree-view from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/44c0afbf2907f54913164f8f722d6dcb89ae66b9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -412,6 +422,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Remove libxfce4panel-config.h from GI</code>](https://github.com/xfce-mirror/xfce4-panel/commit/87cb59805cda418c20a535cf5dafc5c1f92c7c85)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Set exclusive zone for autohide window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/68e8e361c25f819c877b015c1ec1ebaf7d533da9)
+- [ ] [<code>systray: Use correct gtk functions to show/hide items</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b790db0519f2cc7c2236b41f48c27045fd4f2103)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
