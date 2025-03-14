@@ -114,6 +114,9 @@
 - [ ] [<code>Bookmarkrow cleanup (#2538)</code>](https://github.com/elementary/files/commit/fa1595cba6654adbb24b91a43943c974163abf1e)
 - [ ] [<code>Rewrite template submenu to preserve hierarchy (#2506)</code>](https://github.com/elementary/files/commit/876bbf86de616594119a4e6f7267c893b04c8c54)
 - [ ] [<code>Fix drop on mounted after start (#2526)</code>](https://github.com/elementary/files/commit/fa3692e6ca0c370a4433537bc1a3060800f45e24)
+- [ ] [<code>Release 7.1.1 (#2548)</code>](https://github.com/elementary/files/commit/5222ff8a763783cab2a4d5da177699dd78638c35)
+  - <sub>Tags: <code>7.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -326,6 +329,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Control: runtime depends apparmor-profiles</code>](https://github.com/elementary/default-settings/commit/79d7e5bb47a317d5a5a4c479784203877e0c2195)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 8.0.3 (#327)</code>](https://github.com/elementary/default-settings/commit/ab9ff7a434ea30f77c7715f35cf2bc6105c191ac)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -412,6 +418,12 @@
   - <sub>Keywords: <code>command</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>DesktopIntegration: add 'time-appeared-on-workspace' property (#2285)</code>](https://github.com/elementary/gala/commit/6098b7c444d5d620dab19ad6c18308e58950aa93)
 - [ ] [<code>Update POTFILES (#2307)</code>](https://github.com/elementary/gala/commit/d278404f3455ff1bd6dda8d60cddadbb26bfaf90)
+- [ ] [<code>Tools: Add a remove_mutter_versions.py script</code>](https://github.com/elementary/gala/commit/e2c8800da42a283fdf8a9c95bb3fd8106f7e51fb)
+- [ ] [<code>Require Mutter 45</code>](https://github.com/elementary/gala/commit/da9086c7d88d8835ac75f56580104a25ec2e3fdc)
+- [ ] [<code>Remove obsolete vapi and update meson.build</code>](https://github.com/elementary/gala/commit/6065aa25db08b0b5a5d060405e30d0cbaad9e96a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Introduce an action filter (#2301)</code>](https://github.com/elementary/gala/commit/89ef7292b6adde27c787e5a2852a87126a1c6f41)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -534,7 +546,7 @@
 
 - [ ] [<code>Issue Template: build system form (#573)</code>](https://github.com/elementary/os/commit/3b43ceb2fadb885b99e537d40923bef56b5244c5)
 - [ ] [<code>README: Update stable badge (#751)</code>](https://github.com/elementary/os/commit/7769065e99538fd78f17c618abc98b0d1a2582e7)
-  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Tags: <code>8.0.1</code> <code>8.0.1-rc1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
