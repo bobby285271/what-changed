@@ -424,6 +424,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Introduce an action filter (#2301)</code>](https://github.com/elementary/gala/commit/89ef7292b6adde27c787e5a2852a87126a1c6f41)
+- [ ] [<code>Daemon: scale background menu coordinates (#2306)</code>](https://github.com/elementary/gala/commit/caeef427c8f9cc75e8b3d27cfbbbe8cd8c844b5b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>HideTracker: Fix not hiding when barrier triggered without hovering (#2312)</code>](https://github.com/elementary/gala/commit/7c0cd4c135072da9ffe93f9a58b33b6ce7d0b0e6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
