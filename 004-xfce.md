@@ -78,6 +78,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add xfce-tree-view from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/44c0afbf2907f54913164f8f722d6dcb89ae66b9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add missing symbols to GNU visibility</code>](https://github.com/xfce-mirror/libxfce4ui/commit/80882cad1be77d03f96cb40d54140e7bacf6e698)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
