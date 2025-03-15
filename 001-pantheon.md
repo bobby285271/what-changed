@@ -321,17 +321,8 @@
 
 ## desktop
 
-#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.0.2 → HEAD](https://github.com/elementary/default-settings/compare/8.0.2...HEAD)
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.0.3 → HEAD](https://github.com/elementary/default-settings/compare/8.0.3...HEAD)
 
-- [ ] [<code>Remove gala overrides (#322)</code>](https://github.com/elementary/default-settings/commit/f5373e19da6584fa803c5be498292b532ffa0271)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Install brwap-userns-restrict apparmor profile (#326)</code>](https://github.com/elementary/default-settings/commit/622a66eadd2d46ab4aa3e69bf18243a6b915e19d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Control: runtime depends apparmor-profiles</code>](https://github.com/elementary/default-settings/commit/79d7e5bb47a317d5a5a4c479784203877e0c2195)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 8.0.3 (#327)</code>](https://github.com/elementary/default-settings/commit/ab9ff7a434ea30f77c7715f35cf2bc6105c191ac)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
