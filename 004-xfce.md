@@ -280,6 +280,7 @@
 - [ ] [<code>Fix invalid filenames when copying to exFAT FS (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/8cd3f46f97d845efcbc332fbc121b84d7399665f)
 - [ ] [<code>Improve error message on copy fail (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/1a39194fa45c9d80fd23c2c95d0d0308696b13c2)
 - [ ] [<code>file: Don't use deprecated exo_str_is_empty</code>](https://github.com/xfce-mirror/thunar/commit/b7eb19e7d1f91ac5cc8e4f87e7a0e5c3772e4e19)
+- [ ] [<code>Merge ExoJob Into ThunarJob</code>](https://github.com/xfce-mirror/thunar/commit/c856b12a7d6fc403d58da3dc52392cd4af959fbd)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -425,6 +426,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>wayland: Set exclusive zone for autohide window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/68e8e361c25f819c877b015c1ec1ebaf7d533da9)
 - [ ] [<code>systray: Use correct gtk functions to show/hide items</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b790db0519f2cc7c2236b41f48c27045fd4f2103)
+- [ ] [<code>wayland: autohide: Mitigate lack of size_allocate()</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8afd331e597697144332f1d7593ba8440610db84)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
