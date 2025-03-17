@@ -79,6 +79,8 @@
 - [ ] [<code>Add xfce-tree-view from exo</code>](https://github.com/xfce-mirror/libxfce4ui/commit/44c0afbf2907f54913164f8f722d6dcb89ae66b9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add missing symbols to GNU visibility</code>](https://github.com/xfce-mirror/libxfce4ui/commit/80882cad1be77d03f96cb40d54140e7bacf6e698)
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9294b2a2838178e13fbac8a023c060475d2a8794)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -120,6 +122,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xfce-i18n: Use g_strlcpy instead of falling back to it</code>](https://github.com/xfce-mirror/libxfce4util/commit/209e93d77be721cb2cd48ac951e1b541c4559a40)
 - [ ] [<code>build: Remove libxfce4util-config.h from GI</code>](https://github.com/xfce-mirror/libxfce4util/commit/2805c0965a7d6993df4653225e00f0aaf6975fc6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>docs: Ignore visibility header and align build systems</code>](https://github.com/xfce-mirror/libxfce4util/commit/2a1f37bc6ee9b27d8ff0ba585dd9e6b82b5209eb)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
@@ -190,6 +194,8 @@
 - [ ] [<code>XfwWindowX11: Keep a ref on workspace</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b1e91e50e472d41e168e6abe0dc94f8cbe1f891c)
 - [ ] [<code>Try to match the app id in lower case to find the .desktop file</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/cb52e854dfe620a6de91d339bacfa1b6fed07c83)
 - [ ] [<code>XfwWindowX11: Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2311db96922ce9acd3617e7aafbf8e5e29a51671)
+- [ ] [<code>docs: Fix warnings</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/39918dd38f72eef2a7ff2cd36d93349dc5c7620a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -427,6 +433,7 @@
 - [ ] [<code>wayland: Set exclusive zone for autohide window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/68e8e361c25f819c877b015c1ec1ebaf7d533da9)
 - [ ] [<code>systray: Use correct gtk functions to show/hide items</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b790db0519f2cc7c2236b41f48c27045fd4f2103)
 - [ ] [<code>wayland: autohide: Mitigate lack of size_allocate()</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8afd331e597697144332f1d7593ba8440610db84)
+- [ ] [<code>panel: Show window in panel_application_new_window()</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8583e16d89d70ce6ee8d2492d56f7ecf9f10575e)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
