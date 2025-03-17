@@ -81,6 +81,13 @@
 - [ ] [<code>Add missing symbols to GNU visibility</code>](https://github.com/xfce-mirror/libxfce4ui/commit/80882cad1be77d03f96cb40d54140e7bacf6e698)
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9294b2a2838178e13fbac8a023c060475d2a8794)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Expose xfce-cell-renderer-icon</code>](https://github.com/xfce-mirror/libxfce4ui/commit/46bb2bb06bf4a37c56bfa7622e686c76f20c2ee9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/748e1b0ab870f73c05ea28be81149a03cf6f6cea)
+  - <sub>Tags: <code>libxfce4ui-4.21.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/5a90d3cff8253e45e7ba6d22f1a6d6417287c9d0)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
