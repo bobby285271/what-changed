@@ -53,6 +53,8 @@
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.0...HEAD)
 
+- [ ] [<code>Refactor positioning of floating UI elements.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8137ba29d3febe7cbd2d2df8a5e664e57454559b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
