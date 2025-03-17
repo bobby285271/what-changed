@@ -94,29 +94,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.0 → HEAD](https://github.com/elementary/files/compare/7.1.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.1 → HEAD](https://github.com/elementary/files/compare/7.1.1...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/c41a1e83fe32a2a6ea99510679a7c416d8fc7ce2)
-- [ ] [<code>Prefer elementary sound theme over freedesktop (#2515)</code>](https://github.com/elementary/files/commit/0ebb95a0dd5803919d86102435aac3fbac280d57)
-- [ ] [<code>Ensure scroll controller only active when `<Control>` pressed (#2513)</code>](https://github.com/elementary/files/commit/71c03d1af463e9dc009b2fc3b993d40659d4abcd)
-- [ ] [<code>CommonJob: Move scan_dir and this depending functions to Vala (#2514)</code>](https://github.com/elementary/files/commit/b0be982bbfef993e8ea87e4bb0da024bb918cd96)
-- [ ] [<code>FileOperations: Avoid crash on operation abort</code>](https://github.com/elementary/files/commit/81c13b291359cecec573e94720665f5e79ade47b)
-- [ ] [<code>LocationBar: Correctly handle `admin://` protocol; show warning (#2528)</code>](https://github.com/elementary/files/commit/af001a7b2ac7662ebb38998d8286e09fd346ca81)
-- [ ] [<code>Fix regression in path entry when in search mode (#2522)</code>](https://github.com/elementary/files/commit/82d7220c8e8fd9e6b5b497ec7f3b72cf9d13bc60)
-- [ ] [<code>Replace defunct email address</code>](https://github.com/elementary/files/commit/71471834593a92111e5397944cadb7959d83b132)
-- [ ] [<code>Jeremypw/gtk4 prep/bookmark list box cleanup (#2540)</code>](https://github.com/elementary/files/commit/6cca93df63fe424f722a63e91837f09e8db947e4)
-- [ ] [<code>Jeremypw/gtk4prep/devicelistbox cleanup (#2541)</code>](https://github.com/elementary/files/commit/eb9adf035e975a0aae6bce756f1eb0f8ee5b3b82)
-- [ ] [<code>filechooser-portal: Fix some strings are not translatable (#2544)</code>](https://github.com/elementary/files/commit/34f43d9df84728eb5497b83ebfbf9dadab446c0d)
-- [ ] [<code>Metainfo: add 7.1.1 release notes (#2547)</code>](https://github.com/elementary/files/commit/4de5329e6187ec5cf1bd7ee641a74c89d8bdbb73)
-- [ ] [<code>sidebarlistinterface: cleanup and gtk4 prep (#2545)</code>](https://github.com/elementary/files/commit/1eefdd27b3e41613ceda198ff42aba82598d3e55)
-- [ ] [<code>Quote filename on paste (#2268)</code>](https://github.com/elementary/files/commit/a79ce22275b6480639c7be7e1f73ced8c253b0e4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Bookmarkrow cleanup (#2538)</code>](https://github.com/elementary/files/commit/fa1595cba6654adbb24b91a43943c974163abf1e)
-- [ ] [<code>Rewrite template submenu to preserve hierarchy (#2506)</code>](https://github.com/elementary/files/commit/876bbf86de616594119a4e6f7267c893b04c8c54)
-- [ ] [<code>Fix drop on mounted after start (#2526)</code>](https://github.com/elementary/files/commit/fa3692e6ca0c370a4433537bc1a3060800f45e24)
-- [ ] [<code>Release 7.1.1 (#2548)</code>](https://github.com/elementary/files/commit/5222ff8a763783cab2a4d5da177699dd78638c35)
-  - <sub>Tags: <code>7.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -310,6 +289,9 @@
 - [ ] [<code>Places: New design for folder icons (#1311)</code>](https://github.com/elementary/icons/commit/39e8a294217dd14102567286b39244c4a62dbbc4)
 - [ ] [<code>Places: add start-here (#1339)</code>](https://github.com/elementary/icons/commit/038e071488b0e1cddd7c48fe18633a44a9fb8907)
 - [ ] [<code>Actions: add 24px list-add-symbolic (#1341)</code>](https://github.com/elementary/icons/commit/557bdcc733e832b23dee581c2e7fd0cb0fe7f465)
+- [ ] [<code>Places: Create symlinks in Meson (#1342)</code>](https://github.com/elementary/icons/commit/87ab0654a8455cf146ad7ff8253ffdd6e9ccb2b1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Categories: outline style for applications-internet-symbolic (#1343)</code>](https://github.com/elementary/icons/commit/720b0765ad97b42a74f92e79f4bbd052a03313f9)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -418,6 +400,8 @@
 - [ ] [<code>Daemon: scale background menu coordinates (#2306)</code>](https://github.com/elementary/gala/commit/caeef427c8f9cc75e8b3d27cfbbbe8cd8c844b5b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>HideTracker: Fix not hiding when barrier triggered without hovering (#2312)</code>](https://github.com/elementary/gala/commit/7c0cd4c135072da9ffe93f9a58b33b6ce7d0b0e6)
+- [ ] [<code>MultitaskingView: Only show and push modal if it's not already shown</code>](https://github.com/elementary/gala/commit/be753883b8146b3f7b1fef1615861703e133dedb)
+- [ ] [<code>MultitaskingView: Stop events from propagating while closed</code>](https://github.com/elementary/gala/commit/629d158b716b94b5176ce40b404084a42812e326)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
