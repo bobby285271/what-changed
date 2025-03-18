@@ -29,6 +29,11 @@
 - [ ] [<code>st-theme-node: Add support for css 'auto' (#12606)</code>](https://github.com/linuxmint/cinnamon/commit/06d8f529517bd6bd7e745c83e6dae21559f807cf)
 - [ ] [<code>Port dis/connectObj from gnome shell (#12607)</code>](https://github.com/linuxmint/cinnamon/commit/7f6073e9f802d7e9bc8c53425b70080cc566d249)
 - [ ] [<code>end-session: Fix end-session dialog cleanup after a failure.</code>](https://github.com/linuxmint/cinnamon/commit/5336302b327355bed447e01a19f78a06ab278283)
+- [ ] [<code>croco: Use g_string_free() return value (#12630)</code>](https://github.com/linuxmint/cinnamon/commit/e51be03e12cf917cb0d7ee56c48daf42963b3767)
+- [ ] [<code>croco: Remove unused and dodgy function (#12631)</code>](https://github.com/linuxmint/cinnamon/commit/1e3734f85aaca28e75340fc079f294a43686eb3f)
+- [ ] [<code>st-bin: Remove unused foreach implementation (#12633)</code>](https://github.com/linuxmint/cinnamon/commit/253318ae3944af9a3800ec81e9130dbde2707394)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>notificationDaemon: Fix handling of `image-path` hint (#12778)</code>](https://github.com/linuxmint/cinnamon/commit/c8538e8fbe50ccdc48a4747df732fb945e775d8b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -62,6 +67,7 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
 - [ ] [<code>Cosmetic change: rename g-s-d to c-s-d (#409)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/68a787b96df19349bfda707c41fa83b319113dd6)
+- [ ] [<code>media-keys: Add labels for show_osd() (#403)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f3f8f77ae998bd0ac401cd1ab048ba9b6db31c0)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
@@ -94,6 +100,8 @@
 - [ ] [<code>Update Rumble icon and add its symbolic links (#456)</code>](https://github.com/linuxmint/mint-y-icons/commit/96a3c41ceb212c5ea16bfbc699653b2f232bc783)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix Sublime Merge icon (#457)</code>](https://github.com/linuxmint/mint-y-icons/commit/d4a06ff6f3a5729e45f40e8bdfe195fd9d29c9a0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Sober icon (#455)</code>](https://github.com/linuxmint/mint-y-icons/commit/d0fefd99e2eed9ece329889008f5ba0b2ca8690a)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
