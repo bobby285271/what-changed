@@ -138,6 +138,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>docs: Ignore visibility header and align build systems</code>](https://github.com/xfce-mirror/libxfce4util/commit/2a1f37bc6ee9b27d8ff0ba585dd9e6b82b5209eb)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/libxfce4util/commit/ac129f403e704a8f072d544425c19cab5659315a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
