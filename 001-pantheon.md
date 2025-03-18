@@ -32,6 +32,7 @@
 - [ ] [<code>Workflows: add flatpak-x-checker.yml</code>](https://github.com/elementary/calendar/commit/57ff51e644bfba69972cd452a816eb669305d621)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.52.4.tar.xz to 3.54.3 (#832)</code>](https://github.com/elementary/calendar/commit/2e67053e778e5606cb7e4c6e8c3d47b36a2cba64)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.54.3.tar.xz to 3.56.0 (#833)</code>](https://github.com/elementary/calendar/commit/7cad84e36b615132baf1b52327d92a2c8935126d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -66,6 +67,7 @@
 - [ ] [<code>Unselect symbol item after select so can be reselected (#1504)</code>](https://github.com/elementary/code/commit/6095df30e174d1e7bdd5ef021ad3fc8bef7c7051)
 - [ ] [<code>Increase maximum selection length (#1470)</code>](https://github.com/elementary/code/commit/2e89995e5756afd416dd8471e7fd53fe65be09b1)
 - [ ] [<code>Move Open in Terminal option (#1518)</code>](https://github.com/elementary/code/commit/a4813dbc8296c2520d47e0ea4558ab0e66ebc6fb)
+- [ ] [<code>Minor FolderManager code improvements (#1489)</code>](https://github.com/elementary/code/commit/c793f08c2ee2f53f95008df038850b5d3d117d59)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -469,6 +471,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add gettext to dependencies (#748)</code>](https://github.com/elementary/granite/commit/58388aa31647f63df35f409bd556ddda50e2895a)
 - [ ] [<code>Icons: add eye icons required by Gtk.PasswordEntry (#750)</code>](https://github.com/elementary/granite/commit/9b0ea498614af5b1117b37a9c957f90bb8fffa20)
+- [ ] [<code>Constants/CssClass: add colors and deprecate old ones (#753)</code>](https://github.com/elementary/granite/commit/5658c4e59282de1b9e3d68617c7975530e87c051)
+- [ ] [<code>Propose naming scheme for styling files (#752)</code>](https://github.com/elementary/granite/commit/59a08ab3993d984cb30b31a5531545d2dc11a37e)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
