@@ -88,6 +88,12 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/5a90d3cff8253e45e7ba6d22f1a6d6417287c9d0)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>filename-input: Remove extra border</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e6b620914558d8b9f8a7bd32f1840ea47513853f)
+- [ ] [<code>filename-input: Use tooltip instead of label for errors</code>](https://github.com/xfce-mirror/libxfce4ui/commit/466ff674c2cad94233f312514cd119eaf0bafaaf)
+- [ ] [<code>filename-input: Use CSS styling to indicate errors</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fc428db133b42c2257379642eba2ba54b8939986)
+- [ ] [<code>meson-build: Define missing dependencies when libgtop is disbaled</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fc389428effe3d021bbbb4a2583714e93fe1bb8b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -294,6 +300,11 @@
 - [ ] [<code>Improve error message on copy fail (#1570)</code>](https://github.com/xfce-mirror/thunar/commit/1a39194fa45c9d80fd23c2c95d0d0308696b13c2)
 - [ ] [<code>file: Don't use deprecated exo_str_is_empty</code>](https://github.com/xfce-mirror/thunar/commit/b7eb19e7d1f91ac5cc8e4f87e7a0e5c3772e4e19)
 - [ ] [<code>Merge ExoJob Into ThunarJob</code>](https://github.com/xfce-mirror/thunar/commit/c856b12a7d6fc403d58da3dc52392cd4af959fbd)
+- [ ] [<code>Set minimum size of filename input image</code>](https://github.com/xfce-mirror/thunar/commit/8e5656f4c9924928671923c90213766d265c2799)
+- [ ] [<code>build: Bump some min versions and remove #ifdefs</code>](https://github.com/xfce-mirror/thunar/commit/04cd9f3f59f2cd27bdff92ef996410cf27a91d01)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>docs: Fix unused declarations warning</code>](https://github.com/xfce-mirror/thunar/commit/30a8b71ef0885a24c451ae9498a991f156114025)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -340,6 +351,9 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Hide dash from list view when comment is empty</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/7c15b699d9134043427b29459962985aad430a17)
 - [ ] [<code>meson: Add missing file to EXTRA_DIST</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/ca89130306e786ff6e1d301595e15768af66b712)
+- [ ] [<code>Remove manual registration of resources</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/ac4c4cd991cc4e3a7280d59df51a35baf6fc6540)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
