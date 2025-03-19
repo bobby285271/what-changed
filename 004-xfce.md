@@ -29,6 +29,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Add tests option</code>](https://github.com/xfce-mirror/garcon/commit/3a64667fcc87a37718e7200c57d6800a4c49702b)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/garcon/commit/12c3ee93f3dda4c9eb03950ee763177e40f590f6)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/garcon/commit/be5cc6266625fbb1f7052c48039f7fd7163ce485)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -457,6 +462,12 @@
 - [ ] [<code>systray: Use correct gtk functions to show/hide items</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b790db0519f2cc7c2236b41f48c27045fd4f2103)
 - [ ] [<code>wayland: autohide: Mitigate lack of size_allocate()</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8afd331e597697144332f1d7593ba8440610db84)
 - [ ] [<code>panel: Show window in panel_application_new_window()</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8583e16d89d70ce6ee8d2492d56f7ecf9f10575e)
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3dbc825d630476890f103f155e4b2975006311da)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd946006a58ee147eda909cf21d2098b629f4002)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -484,6 +495,11 @@
 - [ ] [<code>Listen to output disconnection and trigger action if needed</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/05dd5deae1489a0f4a5fceccfe02b07cd292fef4)
 - [ ] [<code>build: Add missing function checks</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/922178f6d8c964a6a1e4ddaa2ef2f60364edad40)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b1ce73f32399309bd40810efd7fef36c620f0c61)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/260f5220428f8650c2c2a66c2844f16362931ac8)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -552,6 +568,12 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Revert "settings-manager: Add xfce4-about"</code>](https://github.com/xfce-mirror/xfce4-settings/commit/09982d7eb226b83274347cd73b75a8664323fdf8)
 - [ ] [<code>display-settings: Add missing update of /ActiveProfile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6d9de574d742b3fe6cd264d631ee548447134904)
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7a15e407fb27333928295c9224a8faf1ab26e631)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a361d3dc5a95dd1ff70cbdc93e5c74d6b3d11cc6)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -630,6 +652,9 @@
 - [ ] [<code>Add test-gradient-benchmarking to autotools build</code>](https://github.com/xfce-mirror/xfdesktop/commit/7df9fe5258be82e2b88d73bb1ae54aab3f605b4a)
 - [ ] [<code>Add gradient benchmarking test binary to .gitignore</code>](https://github.com/xfce-mirror/xfdesktop/commit/4d7938bc0ac5844919c7394c3185c1747bdbe662)
 - [ ] [<code>Don't limit number of templates shown in the 'Create Document' menu</code>](https://github.com/xfce-mirror/xfdesktop/commit/d58b66ff83bb5ec4ae7d56a1e7d33c44e7d3e20d)
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfdesktop/commit/8d47fb8582b140384dcdeec807f3a3736392906a)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
