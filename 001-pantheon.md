@@ -4,6 +4,10 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.1.0 → HEAD](https://github.com/elementary/appcenter/compare/8.1.0...HEAD)
 
 - [ ] [<code>Add label for in-app purchases (#2274)</code>](https://github.com/elementary/appcenter/commit/bb8c8bea4a523b6038935b7056c965c5e957efc7)
+- [ ] [<code>CategoryView: use listmodels (#2275)</code>](https://github.com/elementary/appcenter/commit/d60f104c2645c4138c5c46361f3f1050f0abf805)
+- [ ] [<code>Create AppIcon (#2278)</code>](https://github.com/elementary/appcenter/commit/8a5aed94efc9e2f88d221fb2cf9760cdf60b15c4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -405,6 +409,7 @@
 - [ ] [<code>HideTracker: Fix not hiding when barrier triggered without hovering (#2312)</code>](https://github.com/elementary/gala/commit/7c0cd4c135072da9ffe93f9a58b33b6ce7d0b0e6)
 - [ ] [<code>MultitaskingView: Only show and push modal if it's not already shown</code>](https://github.com/elementary/gala/commit/be753883b8146b3f7b1fef1615861703e133dedb)
 - [ ] [<code>MultitaskingView: Stop events from propagating while closed</code>](https://github.com/elementary/gala/commit/629d158b716b94b5176ce40b404084a42812e326)
+- [ ] [<code>Inline namespace for MultitaskingView (#2325)</code>](https://github.com/elementary/gala/commit/2a4762464cc49fb3882abe0e51c248f0c9ada65e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -474,6 +479,8 @@
 - [ ] [<code>Icons: add eye icons required by Gtk.PasswordEntry (#750)</code>](https://github.com/elementary/granite/commit/9b0ea498614af5b1117b37a9c957f90bb8fffa20)
 - [ ] [<code>Constants/CssClass: add colors and deprecate old ones (#753)</code>](https://github.com/elementary/granite/commit/5658c4e59282de1b9e3d68617c7975530e87c051)
 - [ ] [<code>Propose naming scheme for styling files (#752)</code>](https://github.com/elementary/granite/commit/59a08ab3993d984cb30b31a5531545d2dc11a37e)
+- [ ] [<code>Constants: add button styles (#755)</code>](https://github.com/elementary/granite/commit/020230d8bd28dadff8f69bda834b51eabd836cbb)
+- [ ] [<code>Use CSS properties defined in :root for exporting colors (#756)</code>](https://github.com/elementary/granite/commit/4b7ac6bb5f7867919f8ba52eabbb6863a558064f)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
