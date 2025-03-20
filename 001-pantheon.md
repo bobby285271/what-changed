@@ -102,6 +102,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.1 → HEAD](https://github.com/elementary/files/compare/7.1.1...HEAD)
 
+- [ ] [<code>Styles: no space before parenth (#2555)</code>](https://github.com/elementary/files/commit/18822cc3bf85ae19cf3066136a80b135b16a206a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -131,6 +132,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#788)</code>](https://github.com/elementary/music/commit/a1f930d2eef73263d40dada279ea5649758ddbcd)
 - [ ] [<code>CI: run arm workflows on arm runner (#789)</code>](https://github.com/elementary/music/commit/d3c5ca1e3b8d82f70cbe0f10a793f38ccbb30001)
 - [ ] [<code>Update to Platform 8.1 (#790)</code>](https://github.com/elementary/music/commit/2711128af8021dcdf90e68ebe91b8d3b8490bdf3)
+- [ ] [<code>Add clear queue button (#795)</code>](https://github.com/elementary/music/commit/d0bcd78c4988184204cdeb5c0523ca7e8cbf0f5b)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -410,6 +412,7 @@
 - [ ] [<code>MultitaskingView: Only show and push modal if it's not already shown</code>](https://github.com/elementary/gala/commit/be753883b8146b3f7b1fef1615861703e133dedb)
 - [ ] [<code>MultitaskingView: Stop events from propagating while closed</code>](https://github.com/elementary/gala/commit/629d158b716b94b5176ce40b404084a42812e326)
 - [ ] [<code>Inline namespace for MultitaskingView (#2325)</code>](https://github.com/elementary/gala/commit/2a4762464cc49fb3882abe0e51c248f0c9ada65e)
+- [ ] [<code>Switch/Move to ws shortcuts: if ws doesn't exist, switch to last instead (#2316)</code>](https://github.com/elementary/gala/commit/5acb0148f5295978140534c17caf1da9b0be5c97)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
