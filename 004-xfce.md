@@ -320,6 +320,10 @@
 - [ ] [<code>Add support to meson</code>](https://github.com/xfce-mirror/thunar-volman/commit/bab3986cdaf832f0a644dd8ca4315366e933f80f)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/thunar-volman/commit/edb1c4e5cf53db5791e3c8ccae193cc50cf22311)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/ba161c9d9e36b27fd5fa80138c635856f0b3bcda)
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -361,6 +365,9 @@
 - [ ] [<code>Remove manual registration of resources</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/ac4c4cd991cc4e3a7280d59df51a35baf6fc6540)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f1cc862ee10590f96b599e7b77092c18ff71d2b1)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -500,6 +507,8 @@
 - [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/260f5220428f8650c2c2a66c2844f16362931ac8)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson-build: Silence warning about symlink copy</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1142a7d7a2d3e06040ec33b7129dfd472f48a394)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
