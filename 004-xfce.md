@@ -9,6 +9,13 @@
 - [ ] [<code>Fix code style</code>](https://github.com/xfce-mirror/exo/commit/93c1c0a00e6e3a6bd6631ade33396dfede73dbee)
 - [ ] [<code>Properly check iterator before usage (#124)</code>](https://github.com/xfce-mirror/exo/commit/24b902eb389eecab7b3f8aaefdda4aff7608af9d)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/e34753b06ba52a8d17637f635b3323c8f16be0ff)
+- [ ] [<code>Deprecate exo-execute</code>](https://github.com/xfce-mirror/exo/commit/19fd3f22e5abb491125adf8ac5eef8fcc6057d76)
+- [ ] [<code>Deprecate exo-gdk-pixbuf-extensions</code>](https://github.com/xfce-mirror/exo/commit/93b8cd40bd9135b9c01feb249ad6a209d3644b90)
+- [ ] [<code>Deprecate exo-gtk-extensions</code>](https://github.com/xfce-mirror/exo/commit/de3c99329bc293c14922d3ffb454f38fcd0307b5)
+- [ ] [<code>Deprecate exo-icon-chooser-dialog and friends</code>](https://github.com/xfce-mirror/exo/commit/9202ce241ca519e002b30b507b7bcc43cc99df05)
+- [ ] [<code>Deprecate exo-tree-view</code>](https://github.com/xfce-mirror/exo/commit/77d9a9509e02a3dde82468427b4e7e9c4a83661f)
+- [ ] [<code>Deprecate binaries</code>](https://github.com/xfce-mirror/exo/commit/2142036e56a007e0cc6fabf21ecdaaa16a55a6c2)
+- [ ] [<code>Deprecate exo-job and exo-simple-job</code>](https://github.com/xfce-mirror/exo/commit/180898b8f20668f1940f855db648ae43d08c8425)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -312,6 +319,9 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>docs: Fix unused declarations warning</code>](https://github.com/xfce-mirror/thunar/commit/30a8b71ef0885a24c451ae9498a991f156114025)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/thunar/commit/6e200706d650ee0452a80a6c896a0dabe4ec0f28)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -399,6 +409,10 @@
 - [ ] [<code>meson-template: Add copyright year management</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a80c9c5810c22a291b2fd209917a4c87c893f8c4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ci: Add libxpresent-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bac9ecaadbad3dae5afc788cf509fdf558f068a2)
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/54f605ee23421d57d4c681e2c53c6dba78a5fe76)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: Be more verbose when copying docs</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/23af8eba869873a6d8d50649c0264bef255f1a21)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
