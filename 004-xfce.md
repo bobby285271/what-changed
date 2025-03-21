@@ -16,6 +16,13 @@
 - [ ] [<code>Deprecate exo-tree-view</code>](https://github.com/xfce-mirror/exo/commit/77d9a9509e02a3dde82468427b4e7e9c4a83661f)
 - [ ] [<code>Deprecate binaries</code>](https://github.com/xfce-mirror/exo/commit/2142036e56a007e0cc6fabf21ecdaaa16a55a6c2)
 - [ ] [<code>Deprecate exo-job and exo-simple-job</code>](https://github.com/xfce-mirror/exo/commit/180898b8f20668f1940f855db648ae43d08c8425)
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/exo/commit/20e6a779739e092baf6071c8d04c92859dcff28e)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/exo/commit/4a0f43606076efa3e9b50b1f59cf11aa2c9b41ac)
+  - <sub>Tags: <code>exo-4.21.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/e17b2e92a353bb4be0698ceddd3c2b33b946d173)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -413,6 +420,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ci: Be more verbose when copying docs</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/23af8eba869873a6d8d50649c0264bef255f1a21)
+- [ ] [<code>ci: Add libxnvctrl-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afb106d4c19bcfab0ed4f367a74dd436db5ded26)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -489,6 +497,16 @@
 - [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd946006a58ee147eda909cf21d2098b629f4002)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6251a00bc58541f1c3ffbf6dd240e14e62fac967)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c02ee1f7644865e2e2c83de9f862f005d0ca62c2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Revert "Back to development"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9f2b16e80fc170730c4c0510826a366ccc00ef30)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Revert "Updates for release"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3a86f3242cbad66b3090e4da9dbf0a90ae2df386)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -555,6 +573,14 @@
 - [ ] [<code>startxfce4: Fix keyboard layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/63d9bc0710bde90e81b75de40afabb6913027918)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/a10fe0ff835881c0fb81e17be52fbb8dd23b9f3a)
 - [ ] [<code>scripts: Make xflock4 blocking again</code>](https://github.com/xfce-mirror/xfce4-session/commit/584ba9e6aa46e79aa5821d0b34b684f07c85f3db)
+- [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfce4-session/commit/5d0947e3a9723cf4ceb634c757a460f29ed15248)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-session/commit/651cd12ba4210630436dd8579d0c14fe60fb4abd)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfce4-session/commit/1ef2c40ebf86c77be6cb79bbcbebbc3c90c9bbcb)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
