@@ -103,6 +103,14 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.1 → HEAD](https://github.com/elementary/files/compare/7.1.1...HEAD)
 
 - [ ] [<code>Styles: no space before parenth (#2555)</code>](https://github.com/elementary/files/commit/18822cc3bf85ae19cf3066136a80b135b16a206a)
+- [ ] [<code>AbstractSlot: GTK4 prep (#2558)</code>](https://github.com/elementary/files/commit/e3d8dd99ef3d7667b887631c8f167633431ace4f)
+- [ ] [<code>Remove PortalTester (#2559)</code>](https://github.com/elementary/files/commit/fdd5bc775b7f334b00fb760ec5323f2321b20d2d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>FileUtils: use present/response/close for error_dialog (#2562)</code>](https://github.com/elementary/files/commit/ba16e2da9ca9668fa3ab0d91a27ccab9bdb6fd51)
+- [ ] [<code>Plugins/Trash: GTK4 prep (#2563)</code>](https://github.com/elementary/files/commit/1794fefd71ec9221aa524b7c5ba14ef8c4b6420c)
+- [ ] [<code>FileUtils: add button consequences to ensure dialog body text (#2561)</code>](https://github.com/elementary/files/commit/2ed818a3612564da2b78d4e52b95750a00cc40dd)
+- [ ] [<code>Filechooser/Main: replace dialog show_all with present (#2560)</code>](https://github.com/elementary/files/commit/42d6e61048fa10d0ad079f286ebc6e78bd053405)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -413,6 +421,7 @@
 - [ ] [<code>MultitaskingView: Stop events from propagating while closed</code>](https://github.com/elementary/gala/commit/629d158b716b94b5176ce40b404084a42812e326)
 - [ ] [<code>Inline namespace for MultitaskingView (#2325)</code>](https://github.com/elementary/gala/commit/2a4762464cc49fb3882abe0e51c248f0c9ada65e)
 - [ ] [<code>Switch/Move to ws shortcuts: if ws doesn't exist, switch to last instead (#2316)</code>](https://github.com/elementary/gala/commit/5acb0148f5295978140534c17caf1da9b0be5c97)
+- [ ] [<code>Reduce the number of windows_changed calls (#2314)</code>](https://github.com/elementary/gala/commit/af442071bea58b077f8a3076b1dc8882e36a309d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -484,6 +493,10 @@
 - [ ] [<code>Propose naming scheme for styling files (#752)</code>](https://github.com/elementary/granite/commit/59a08ab3993d984cb30b31a5531545d2dc11a37e)
 - [ ] [<code>Constants: add button styles (#755)</code>](https://github.com/elementary/granite/commit/020230d8bd28dadff8f69bda834b51eabd836cbb)
 - [ ] [<code>Use CSS properties defined in :root for exporting colors (#756)</code>](https://github.com/elementary/granite/commit/4b7ac6bb5f7867919f8ba52eabbb6863a558064f)
+- [ ] [<code>Styles: Add compile time option for including Gtk stylesheets (#758)</code>](https://github.com/elementary/granite/commit/bced962e3da710b68266d2b6b5aaa0dfc62de57c)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Styles: add checkerboard class (#759)</code>](https://github.com/elementary/granite/commit/71da7f32908301afb04a1e85862e72661d8a1653)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
