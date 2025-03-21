@@ -113,6 +113,7 @@
 - [ ] [<code>meson-build: Define missing dependencies when libgtop is disbaled</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fc389428effe3d021bbbb4a2583714e93fe1bb8b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>clipboard-manager: Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6c84f7a4afa37338bacbd6da704f259381bb2c1d)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -329,6 +330,7 @@
 - [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/thunar/commit/6e200706d650ee0452a80a6c896a0dabe4ec0f28)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Fix doc comments</code>](https://github.com/xfce-mirror/thunar/commit/f246d6dd6f83a5eac5aab93db29920d847139ee6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -581,6 +583,8 @@
 - [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfce4-session/commit/1ef2c40ebf86c77be6cb79bbcbebbc3c90c9bbcb)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-session/commit/ed60a5b04ace2b7bac1caec6ff4108f18c0c33cd)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
