@@ -114,6 +114,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clipboard-manager: Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6c84f7a4afa37338bacbd6da704f259381bb2c1d)
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/libxfce4ui/commit/06925588668abe91af101998b4252363fd64891a)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -331,6 +334,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Fix doc comments</code>](https://github.com/xfce-mirror/thunar/commit/f246d6dd6f83a5eac5aab93db29920d847139ee6)
+- [ ] [<code>Fix crash in properties dialog (#1585)</code>](https://github.com/xfce-mirror/thunar/commit/b7393e15e2d142e8a42c55018198ed780f9afb5b)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -543,6 +547,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meson-build: Silence warning about symlink copy</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1142a7d7a2d3e06040ec33b7129dfd472f48a394)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/fa7d0c1c3679ed569e8b339cf261c4b3715ee832)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/aaab22d9e5eb230f9396c733b6cbc5370d226903)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -627,6 +636,13 @@
 - [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a361d3dc5a95dd1ff70cbdc93e5c74d6b3d11cc6)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b0be4048bb4b194aca23707df5b423d870110366)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a9185933800b2f7368a4d5e30fce3fdabefb462e)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Fix resource not found at runtime</code>](https://github.com/xfce-mirror/xfce4-settings/commit/3baa20c15e2e05a0ba08b8a8275d66e15dd0fc86)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
