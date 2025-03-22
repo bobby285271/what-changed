@@ -500,6 +500,9 @@
 - [ ] [<code>Styles: Move expander code from stylesheet (#763)</code>](https://github.com/elementary/granite/commit/9df6a0616e31cb00fefffbf2f79521eddb4c01a3)
 - [ ] [<code>Styles: make cards rounded, expand demo, new constants (#765)</code>](https://github.com/elementary/granite/commit/dca6fc318488acc988cdd57720a7276782817233)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Demo/WelcomeView: use Gtk.UriLauncher (#760)</code>](https://github.com/elementary/granite/commit/d277ba184a7a7414b0559c36a44644225f97739d)
+- [ ] [<code>Introduce a style manager (#731)</code>](https://github.com/elementary/granite/commit/34bafac98a1440fa8c53aee1bace83f2cd2b4d8d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
