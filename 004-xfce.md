@@ -48,6 +48,8 @@
 - [ ] [<code>build: Define xfce4 min version >= 4.18</code>](https://github.com/xfce-mirror/garcon/commit/be5cc6266625fbb1f7052c48039f7fd7163ce485)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/garcon/commit/16f3ea083ad0fba27ba25c912d7ebd637095e963)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -163,6 +165,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/libxfce4util/commit/ac129f403e704a8f072d544425c19cab5659315a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/libxfce4util/commit/f288fe739af7c07f40509c2e33b949bc38de7575)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>meson-build: Bump meson min version</code>](https://github.com/xfce-mirror/libxfce4util/commit/cb4ee0516c7bf1458b1c500ae3e6e060bb8e5f72)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -234,6 +240,8 @@
 - [ ] [<code>XfwWindowX11: Fix memory leak</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/2311db96922ce9acd3617e7aafbf8e5e29a51671)
 - [ ] [<code>docs: Fix warnings</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/39918dd38f72eef2a7ff2cd36d93349dc5c7620a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9986d6f60d61129938fbda5aa439afceb3705ae6)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -370,6 +378,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Function check cleanup</code>](https://github.com/xfce-mirror/tumbler/commit/96dd5778ae5f9b98e6f5d3b31f96a93358c008e8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/tumbler/commit/9580958b3c3cdbfd4943f25e3997f299999012ec)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -427,6 +437,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ci: Be more verbose when copying docs</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/23af8eba869873a6d8d50649c0264bef255f1a21)
 - [ ] [<code>ci: Add libxnvctrl-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afb106d4c19bcfab0ed4f367a74dd436db5ded26)
+- [ ] [<code>xfce-do-release: Copy extra source files to the working tree</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/acf8893875032913785618514101be0fd2d5f58c)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -513,6 +524,18 @@
 - [ ] [<code>Revert "Updates for release"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3a86f3242cbad66b3090e4da9dbf0a90ae2df386)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfce4-panel/commit/43f1f6c3b59d97c25486202aa7976bbe3da192be)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Search for xdt-gen-visibility also in the working tree</code>](https://github.com/xfce-mirror/xfce4-panel/commit/219c1d790dd37497372df221acaf57c6ba47b271)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3467f08522846be0ba294c867f456eaf74274dbd)
+  - <sub>Tags: <code>xfce4-panel-4.21.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b92f59703902159488d38002b029f81280c4b696)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -594,6 +617,10 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfce4-session/commit/ed60a5b04ace2b7bac1caec6ff4108f18c0c33cd)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>wayland: Don't pass xfce4-session to the optional compositor cmdline</code>](https://github.com/xfce-mirror/xfce4-session/commit/0845744b0a67ea99d51334303c404d923c1e7dce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>wayland: Use labwc's --session option if available</code>](https://github.com/xfce-mirror/xfce4-session/commit/826de991410aefb8d5d06e6228db5c18364c9960)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -678,6 +705,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson-build: Add missing function checks</code>](https://github.com/xfce-mirror/xfconf/commit/457c71b2a954b25c7d45ab55b2d6813d67f8dcb4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfconf/commit/13d66ca4ffa19c2de33a27e99002ed0691574657)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
