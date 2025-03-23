@@ -422,6 +422,8 @@
 - [ ] [<code>Inline namespace for MultitaskingView (#2325)</code>](https://github.com/elementary/gala/commit/2a4762464cc49fb3882abe0e51c248f0c9ada65e)
 - [ ] [<code>Switch/Move to ws shortcuts: if ws doesn't exist, switch to last instead (#2316)</code>](https://github.com/elementary/gala/commit/5acb0148f5295978140534c17caf1da9b0be5c97)
 - [ ] [<code>Reduce the number of windows_changed calls (#2314)</code>](https://github.com/elementary/gala/commit/af442071bea58b077f8a3076b1dc8882e36a309d)
+- [ ] [<code>WindowStateSaver: save windows position on sleep and shutdown (#2318)</code>](https://github.com/elementary/gala/commit/750cb3254ecf1b43a84f3bc8a12f695c253afb0c)
+- [ ] [<code>Rewrite WorkspaceManager (#2326)</code>](https://github.com/elementary/gala/commit/540ef8cac467d0da88784193124d6e8a3fd50aa8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
