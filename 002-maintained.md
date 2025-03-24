@@ -343,6 +343,8 @@
 
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/09d813996db22a72476aa733fc595a81460ec60e)
 - [ ] [<code>Merge pull request #637 from albanobattistella/patch-34</code>](https://github.com/phase1geo/minder/commit/2074e3d44ce600e0a09a245a814c1c86b58a4101)
+- [ ] [<code>Improving URL regex to allow URLs which lack a period.</code>](https://github.com/phase1geo/minder/commit/c3131c6c583d965e8cef8760a05165463d466d90)
+- [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/02c9fd07494bb3990733072598f6d5f1cb633b03)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
