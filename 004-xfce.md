@@ -361,6 +361,18 @@
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Fix doc comments</code>](https://github.com/xfce-mirror/thunar/commit/f246d6dd6f83a5eac5aab93db29920d847139ee6)
 - [ ] [<code>Fix crash in properties dialog (#1585)</code>](https://github.com/xfce-mirror/thunar/commit/b7393e15e2d142e8a42c55018198ed780f9afb5b)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/eec4d04e10c66f0a537961f63b435755ef357bf2)
+  - <sub>Tags: <code>thunar-4.21.0</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/90ae1366550408315dce652f2682545c9ab20bbc)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Remove outdated xmi UML diagrams</code>](https://github.com/xfce-mirror/thunar/commit/2c171f15ad172fdd7960c9a691c56750e1aeaa97)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Remove outdated "Hacking" document</code>](https://github.com/xfce-mirror/thunar/commit/018548aed19ec31b04a5c4d2bf349e76e892ceb6)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -468,6 +480,7 @@
 - [ ] [<code>ci: Be more verbose when copying docs</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/23af8eba869873a6d8d50649c0264bef255f1a21)
 - [ ] [<code>ci: Add libxnvctrl-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afb106d4c19bcfab0ed4f367a74dd436db5ded26)
 - [ ] [<code>xfce-do-release: Copy extra source files to the working tree</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/acf8893875032913785618514101be0fd2d5f58c)
+- [ ] [<code>ci: Update build_libs.sh after thunar dropped half its doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/19e51c17904955f8e43c5ada6b53a393e06ada5e)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -610,6 +623,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/059fb9262763adb65d3057c12b2c8601864e3435)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>autotools-build: Be sure gdbus-codegen files are regenerated</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/413f48847c844e8aa59b89dfd50b6cf27b61594a)
+- [ ] [<code>autotools-build: Fix distcheck in previous commit</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/530ffed0833ab4aacaeb6a86d5b4008f0d4acaca)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -661,6 +676,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/8af7b628cf9deb7a4a1dd6b1df5610abd0c178db)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>autotools-build: Be sure gdbus-codegen files are regenerated</code>](https://github.com/xfce-mirror/xfce4-session/commit/9c8ce6920f3a193bd1ccbdf5b71cbdb37a19edb4)
+- [ ] [<code>build: Fix include order on *BSD</code>](https://github.com/xfce-mirror/xfce4-session/commit/1f07d42bba60313caf43126afe66fa835711ecb6)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
