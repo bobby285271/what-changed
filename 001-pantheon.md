@@ -111,6 +111,7 @@
 - [ ] [<code>Plugins/Trash: GTK4 prep (#2563)</code>](https://github.com/elementary/files/commit/1794fefd71ec9221aa524b7c5ba14ef8c4b6420c)
 - [ ] [<code>FileUtils: add button consequences to ensure dialog body text (#2561)</code>](https://github.com/elementary/files/commit/2ed818a3612564da2b78d4e52b95750a00cc40dd)
 - [ ] [<code>Filechooser/Main: replace dialog show_all with present (#2560)</code>](https://github.com/elementary/files/commit/42d6e61048fa10d0ad079f286ebc6e78bd053405)
+- [ ] [<code>Gtk4 Prep - Use dialog.response.connect () pattern (#2568)</code>](https://github.com/elementary/files/commit/83d770f9c527458316f5cedb90eceea79416048a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -118,7 +119,7 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
 - [ ] [<code>Bump to platform 8.1 (#63)</code>](https://github.com/elementary/iconbrowser/commit/90678378fb68eeeac49a702d4d7a8ca3aaf0015f)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [8.0.0 → HEAD](https://github.com/elementary/mail/compare/8.0.0...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
 - [ ] [<code>Alias: Do not translate placeholder email address (#991)</code>](https://github.com/elementary/mail/commit/abf27cddedb6e9fa4e86365e86f0761d327891e3)
 - [ ] [<code>Drop old Soup support (#1000)</code>](https://github.com/elementary/mail/commit/b8584dd4de805e03640d37d65bc2092243c34ebb)
