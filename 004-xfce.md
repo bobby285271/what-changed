@@ -373,6 +373,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Remove outdated "Hacking" document</code>](https://github.com/xfce-mirror/thunar/commit/018548aed19ec31b04a5c4d2bf349e76e892ceb6)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>twp: Add support for mime types 'jxl', 'avif', and 'webp'</code>](https://github.com/xfce-mirror/thunar/commit/36607763760e85726fd3b2c7b3eb1b432e2a790a)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
