@@ -112,6 +112,7 @@
 - [ ] [<code>FileUtils: add button consequences to ensure dialog body text (#2561)</code>](https://github.com/elementary/files/commit/2ed818a3612564da2b78d4e52b95750a00cc40dd)
 - [ ] [<code>Filechooser/Main: replace dialog show_all with present (#2560)</code>](https://github.com/elementary/files/commit/42d6e61048fa10d0ad079f286ebc6e78bd053405)
 - [ ] [<code>Gtk4 Prep - Use dialog.response.connect () pattern (#2568)</code>](https://github.com/elementary/files/commit/83d770f9c527458316f5cedb90eceea79416048a)
+- [ ] [<code>Renamer: Avoid listbox get_children (#2564)</code>](https://github.com/elementary/files/commit/e8aba118e0a8e9c16e1736044cb52d5e706ccd43)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -199,6 +200,7 @@
 - [ ] [<code>Application: don't use gtk_use_portal (#339)</code>](https://github.com/elementary/switchboard/commit/f91e5558cf9e44113c4895541df207a0fa25ba92)
 - [ ] [<code>Revert "SettingsSideBar: Fix selection of the correct row (#336)" (#340)</code>](https://github.com/elementary/switchboard/commit/89985cb23b46a47156f720372bb879395a2d5c62)
 - [ ] [<code>SettingsSideBar: Fix selection of the correct row (#344)</code>](https://github.com/elementary/switchboard/commit/150ef81c4dd2ee27f02d5ef5af3d9269a3011a67)
+- [ ] [<code>README: Fix broken Weblate badge (#345)</code>](https://github.com/elementary/switchboard/commit/2bfd734d27480e89073bdb519e516f64fc46a024)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.0...HEAD)
@@ -206,6 +208,7 @@
 - [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
 - [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
 - [ ] [<code>OperatingSystemView: more explicit restart directions (#370)</code>](https://github.com/elementary/switchboard-plug-about/commit/8618414349e34e646721058848b0df8cfdd8c0a9)
+- [ ] [<code>README: Fix broken Weblate badge (#373)</code>](https://github.com/elementary/switchboard-plug-about/commit/1a51f25219bcab860c09bb059338149d5e6d02b6)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -425,6 +428,9 @@
 - [ ] [<code>Reduce the number of windows_changed calls (#2314)</code>](https://github.com/elementary/gala/commit/af442071bea58b077f8a3076b1dc8882e36a309d)
 - [ ] [<code>WindowStateSaver: save windows position on sleep and shutdown (#2318)</code>](https://github.com/elementary/gala/commit/750cb3254ecf1b43a84f3bc8a12f695c253afb0c)
 - [ ] [<code>Rewrite WorkspaceManager (#2326)</code>](https://github.com/elementary/gala/commit/540ef8cac467d0da88784193124d6e8a3fd50aa8)
+- [ ] [<code>WindowClone: allow close window action on mice only (#2210)</code>](https://github.com/elementary/gala/commit/6102754b0450622425ead15db65638964e43db3b)
+- [ ] [<code>Update metainfo (#2331)</code>](https://github.com/elementary/gala/commit/27ec3f37c66bbd4bb75ee35492e07d954435dc11)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -506,6 +512,9 @@
 - [ ] [<code>Demo/WelcomeView: use Gtk.UriLauncher (#760)</code>](https://github.com/elementary/granite/commit/d277ba184a7a7414b0559c36a44644225f97739d)
 - [ ] [<code>Introduce a style manager (#731)</code>](https://github.com/elementary/granite/commit/34bafac98a1440fa8c53aee1bace83f2cd2b4d8d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/granite/commit/6498b0d2945cc1d4796158d464447b688b9bd47d)
+- [ ] [<code>Styles: Propose Common mixin & variables directory structure (#769)</code>](https://github.com/elementary/granite/commit/3af597dd7665b624c82e0070830b57fb93fe7b4c)
+- [ ] [<code>Styles/Gtk: add Arrow.scss (#771)</code>](https://github.com/elementary/granite/commit/b3b0bd411842ba19dfb98d35127c2e567575e1a4)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
