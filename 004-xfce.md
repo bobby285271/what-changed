@@ -374,6 +374,10 @@
 - [ ] [<code>Remove outdated "Hacking" document</code>](https://github.com/xfce-mirror/thunar/commit/018548aed19ec31b04a5c4d2bf349e76e892ceb6)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>twp: Add support for mime types 'jxl', 'avif', and 'webp'</code>](https://github.com/xfce-mirror/thunar/commit/36607763760e85726fd3b2c7b3eb1b432e2a790a)
+- [ ] [<code>Rename thunar_file_get_item_count</code>](https://github.com/xfce-mirror/thunar/commit/a09bbfbf8883f1619b8b25cc27b5cae5deebc306)
+- [ ] [<code>Use thunar_file_is_trashed instead</code>](https://github.com/xfce-mirror/thunar/commit/561da5f757df0f4edc289fb09a0fe25ec81c04b9)
+- [ ] [<code>Clean up thunar_window_selection_changed</code>](https://github.com/xfce-mirror/thunar/commit/573d6f9a9f52e4598bd13fa69c2bea8f47cd668e)
+- [ ] [<code>Move focus grab in thunar_window_set_current_directory</code>](https://github.com/xfce-mirror/thunar/commit/5978b9a3dfae4719da82c9e0b2fb3063314824f1)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -482,6 +486,7 @@
 - [ ] [<code>ci: Add libxnvctrl-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afb106d4c19bcfab0ed4f367a74dd436db5ded26)
 - [ ] [<code>xfce-do-release: Copy extra source files to the working tree</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/acf8893875032913785618514101be0fd2d5f58c)
 - [ ] [<code>ci: Update build_libs.sh after thunar dropped half its doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/19e51c17904955f8e43c5ada6b53a393e06ada5e)
+- [ ] [<code>xfce-do-release: Add xfce-revision.h.in to tarball without REVISION</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/09fc6e34c7a1f23ef3fc4f89ac0d32d8a90b2eac)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -679,6 +684,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>autotools-build: Be sure gdbus-codegen files are regenerated</code>](https://github.com/xfce-mirror/xfce4-session/commit/9c8ce6920f3a193bd1ccbdf5b71cbdb37a19edb4)
 - [ ] [<code>build: Fix include order on *BSD</code>](https://github.com/xfce-mirror/xfce4-session/commit/1f07d42bba60313caf43126afe66fa835711ecb6)
+- [ ] [<code>labwc: Add window snapping range</code>](https://github.com/xfce-mirror/xfce4-session/commit/f1cd45b00506a41061d14e5f67cd6a6f837d5619)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -734,6 +740,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5602bff8bea1d53e593d50f5b9914794c081497c)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>xfsettingsd: Use 2 decimals in warning about unknown mode</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f4eee627cd35475e1db3a3e5c5158d1c2ea77372)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -840,3 +847,6 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>build: Automate copyright year management</code>](https://github.com/xfce-mirror/xfwm4/commit/d25f003658cc9816f11cf95daf02858dbcd8d700)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfwm4/commit/9ec0456859ff43c2b2f3b670510b8685bfd9a2c1)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
