@@ -741,6 +741,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5602bff8bea1d53e593d50f5b9914794c081497c)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>xfsettingsd: Use 2 decimals in warning about unknown mode</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f4eee627cd35475e1db3a3e5c5158d1c2ea77372)
+- [ ] [<code>meson-build: Fix wrong HELPERDIR substitution</code>](https://github.com/xfce-mirror/xfce4-settings/commit/47c212082abd71345a46a2308faa6a8b770765a9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
