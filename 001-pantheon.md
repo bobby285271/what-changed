@@ -96,6 +96,9 @@
 - [ ] [<code>GSchema: remove multitasking from defaults (#386)</code>](https://github.com/elementary/dock/commit/4c4375d04a2a1cd23fccc70a6cc4d08af72319a0)
 - [ ] [<code>DynamicWorkspaceItem: open multitasking if clicked again (#385)</code>](https://github.com/elementary/dock/commit/59919f618e284a8b5db7a3d601125256c6629bc4)
 - [ ] [<code>WorkspaceSystem: sort windows by time they appeared on the workspace (#388)</code>](https://github.com/elementary/dock/commit/8cb6d152e3a83d4d4521b37d563e7aca3a30565b)
+- [ ] [<code>Implement workspace reordering with drag and drop (#392)</code>](https://github.com/elementary/dock/commit/bbaa79a06a67e4a22a9f38151f60f529c7cf1577)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Support long press on launchers (#398)</code>](https://github.com/elementary/dock/commit/d8561b930b74e010928c345f917310394c4ead37)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -113,6 +116,7 @@
 - [ ] [<code>Filechooser/Main: replace dialog show_all with present (#2560)</code>](https://github.com/elementary/files/commit/42d6e61048fa10d0ad079f286ebc6e78bd053405)
 - [ ] [<code>Gtk4 Prep - Use dialog.response.connect () pattern (#2568)</code>](https://github.com/elementary/files/commit/83d770f9c527458316f5cedb90eceea79416048a)
 - [ ] [<code>Renamer: Avoid listbox get_children (#2564)</code>](https://github.com/elementary/files/commit/e8aba118e0a8e9c16e1736044cb52d5e706ccd43)
+- [ ] [<code>FileChooserDialog: show_all dialog contents (#2569)</code>](https://github.com/elementary/files/commit/8a359efea7ccb5169af58c8798aabf17a9d16520)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -143,6 +147,8 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#789)</code>](https://github.com/elementary/music/commit/d3c5ca1e3b8d82f70cbe0f10a793f38ccbb30001)
 - [ ] [<code>Update to Platform 8.1 (#790)</code>](https://github.com/elementary/music/commit/2711128af8021dcdf90e68ebe91b8d3b8490bdf3)
 - [ ] [<code>Add clear queue button (#795)</code>](https://github.com/elementary/music/commit/d0bcd78c4988184204cdeb5c0523ca7e8cbf0f5b)
+- [ ] [<code>TrackRow: remove song from context menu (#797)</code>](https://github.com/elementary/music/commit/a2d904a0044cb9ce015bb9189556b20e5e3fd40a)
+- [ ] [<code>TrackRow: DRY menu popup at pointer (#800)</code>](https://github.com/elementary/music/commit/98587d88b2afbaae418907b432c19ddb31ab61d8)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -431,6 +437,11 @@
 - [ ] [<code>WindowClone: allow close window action on mice only (#2210)</code>](https://github.com/elementary/gala/commit/6102754b0450622425ead15db65638964e43db3b)
 - [ ] [<code>Update metainfo (#2331)</code>](https://github.com/elementary/gala/commit/27ec3f37c66bbd4bb75ee35492e07d954435dc11)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>KeyboardManager: add model support (#2328)</code>](https://github.com/elementary/gala/commit/cf68ff7e5e571c7a2e1ee0031a8bbbb3aa22fb5d)
+- [ ] [<code>Reorder workspaces (#2320)</code>](https://github.com/elementary/gala/commit/c2f664760f397a090ca1eb2f871853dc79982e6c)
+- [ ] [<code>DesktopIntegration: Fix no emission of the running_applications_changed signal (#2324)</code>](https://github.com/elementary/gala/commit/8cdd41c99d3584f8f444b821bf00b2e0286a87d2)
+- [ ] [<code>Multitasking view: swipe up to close window (#2327)</code>](https://github.com/elementary/gala/commit/d9713d1fa9b640415fd5d5e521bab49108bcd3e9)
+- [ ] [<code>WindowSwitcher: use Clutter.Stage.set_key_focus () (#2338)</code>](https://github.com/elementary/gala/commit/763f4a2c3aebc26922923d771935af05d2cb1efa)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -515,6 +526,12 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/granite/commit/6498b0d2945cc1d4796158d464447b688b9bd47d)
 - [ ] [<code>Styles: Propose Common mixin & variables directory structure (#769)</code>](https://github.com/elementary/granite/commit/3af597dd7665b624c82e0070830b57fb93fe7b4c)
 - [ ] [<code>Styles/Gtk: add Arrow.scss (#771)</code>](https://github.com/elementary/granite/commit/b3b0bd411842ba19dfb98d35127c2e567575e1a4)
+- [ ] [<code>HeaderLabel: add size property (#766)</code>](https://github.com/elementary/granite/commit/eb06a14620eeb0363c4f695a962abd76023f657b)
+- [ ] [<code>Styles: add CheckButton (#773)</code>](https://github.com/elementary/granite/commit/b4d0a2c032ff18b2c51aba32c4902f4204d06f8c)
+- [ ] [<code>Add Granite.Box (#767)</code>](https://github.com/elementary/granite/commit/9e48ecc9bb424e3aee772b5ce13229016cffe0f5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Styles: use button-spacing in popover, headerbar, overlaybar (#774)</code>](https://github.com/elementary/granite/commit/87317b685bb8b91c187cf21aeff7bc600722a087)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
