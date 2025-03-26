@@ -532,6 +532,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Styles: use button-spacing in popover, headerbar, overlaybar (#774)</code>](https://github.com/elementary/granite/commit/87317b685bb8b91c187cf21aeff7bc600722a087)
+- [ ] [<code>Demo/CssView: add a switch to toggle list separators (#772)</code>](https://github.com/elementary/granite/commit/c81411267ced63f0793223bae6631454f170a487)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
