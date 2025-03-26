@@ -35,6 +35,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>notificationDaemon: Fix handling of `image-path` hint (#12778)</code>](https://github.com/linuxmint/cinnamon/commit/c8538e8fbe50ccdc48a4747df732fb945e775d8b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>st: Print the js stack for a couple of critical warnings that</code>](https://github.com/linuxmint/cinnamon/commit/88d9a63a50402c38a087cbdf34b2beff7b84cf71)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -75,6 +77,11 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
+- [ ] [<code>Rebase onto gjs-1.82.1 (from debian 13/trixie) - mozjs 128 support.</code>](https://github.com/linuxmint/cjs/commit/f43d5b579a6d84f4947ee61fde6f00b7ee6c1155)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[mozjs-128] fix packaging (#128)</code>](https://github.com/linuxmint/cjs/commit/daa405768117f016b0db2768eef57856815b6b5f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5bd94d3ffdb9585c09832f0beabb14f0e67e8d58 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5bd94d3ffdb9585c09832f0beabb14f0e67e8d58...HEAD)
 
