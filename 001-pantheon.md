@@ -72,6 +72,7 @@
 - [ ] [<code>Increase maximum selection length (#1470)</code>](https://github.com/elementary/code/commit/2e89995e5756afd416dd8471e7fd53fe65be09b1)
 - [ ] [<code>Move Open in Terminal option (#1518)</code>](https://github.com/elementary/code/commit/a4813dbc8296c2520d47e0ea4558ab0e66ebc6fb)
 - [ ] [<code>Minor FolderManager code improvements (#1489)</code>](https://github.com/elementary/code/commit/c793f08c2ee2f53f95008df038850b5d3d117d59)
+- [ ] [<code>Lose unused function</code>](https://github.com/elementary/code/commit/e5d23135a51f3583263cdb18fa1fa60f8df624ca)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
