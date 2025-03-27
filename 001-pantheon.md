@@ -442,6 +442,9 @@
 - [ ] [<code>DesktopIntegration: Fix no emission of the running_applications_changed signal (#2324)</code>](https://github.com/elementary/gala/commit/8cdd41c99d3584f8f444b821bf00b2e0286a87d2)
 - [ ] [<code>Multitasking view: swipe up to close window (#2327)</code>](https://github.com/elementary/gala/commit/d9713d1fa9b640415fd5d5e521bab49108bcd3e9)
 - [ ] [<code>WindowSwitcher: use Clutter.Stage.set_key_focus () (#2338)</code>](https://github.com/elementary/gala/commit/763f4a2c3aebc26922923d771935af05d2cb1efa)
+- [ ] [<code>ShadowEffect: cleanup scale factor (#2336)</code>](https://github.com/elementary/gala/commit/184f7626e3a31c30652d05223c8253f8ca421421)
+- [ ] [<code>ScreenShield -> SessionLocker (#2339)</code>](https://github.com/elementary/gala/commit/d23affe280f431c4f98da4fcb6684559465db3f9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -533,6 +536,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Styles: use button-spacing in popover, headerbar, overlaybar (#774)</code>](https://github.com/elementary/granite/commit/87317b685bb8b91c187cf21aeff7bc600722a087)
 - [ ] [<code>Demo/CssView: add a switch to toggle list separators (#772)</code>](https://github.com/elementary/granite/commit/c81411267ced63f0793223bae6631454f170a487)
+- [ ] [<code>HeaderLabel: add default for to_string (#778)</code>](https://github.com/elementary/granite/commit/fa7d7dd5abb887bf00cf0349a9c839a989d64f94)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
