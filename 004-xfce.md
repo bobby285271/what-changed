@@ -378,6 +378,10 @@
 - [ ] [<code>Use thunar_file_is_trashed instead</code>](https://github.com/xfce-mirror/thunar/commit/561da5f757df0f4edc289fb09a0fe25ec81c04b9)
 - [ ] [<code>Clean up thunar_window_selection_changed</code>](https://github.com/xfce-mirror/thunar/commit/573d6f9a9f52e4598bd13fa69c2bea8f47cd668e)
 - [ ] [<code>Move focus grab in thunar_window_set_current_directory</code>](https://github.com/xfce-mirror/thunar/commit/5978b9a3dfae4719da82c9e0b2fb3063314824f1)
+- [ ] [<code>Fix crash when destroying folder in list view (#1330) (#1568)</code>](https://github.com/xfce-mirror/thunar/commit/572c892e6a2218e98cf86be6a150edbdd992e2c0)
+- [ ] [<code>Prevent criticals when switching current view (#1344)</code>](https://github.com/xfce-mirror/thunar/commit/4649ac96023418ee4c0da4774fb007e5ef62a68f)
+- [ ] [<code>meson-build: Fix manpage install dir</code>](https://github.com/xfce-mirror/thunar/commit/9e3a2c9596c2d6994dca6b3a92a9a163801fdc2e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -743,6 +747,8 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>xfsettingsd: Use 2 decimals in warning about unknown mode</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f4eee627cd35475e1db3a3e5c5158d1c2ea77372)
 - [ ] [<code>meson-build: Fix wrong HELPERDIR substitution</code>](https://github.com/xfce-mirror/xfce4-settings/commit/47c212082abd71345a46a2308faa6a8b770765a9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xfsettingsd: Add some debug traces to gtk-settings helper</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6f5244422135b3f5d90e3f3aee392a0c91f32446)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
