@@ -8,6 +8,8 @@
 - [ ] [<code>Create AppIcon (#2278)</code>](https://github.com/elementary/appcenter/commit/8a5aed94efc9e2f88d221fb2cf9760cdf60b15c4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppIcon: reload on metadata remote preprocessed (#2282)</code>](https://github.com/elementary/appcenter/commit/9de84411b2b811c2f23a18c3c333e01237519b61)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -150,6 +152,10 @@
 - [ ] [<code>Add clear queue button (#795)</code>](https://github.com/elementary/music/commit/d0bcd78c4988184204cdeb5c0523ca7e8cbf0f5b)
 - [ ] [<code>TrackRow: remove song from context menu (#797)</code>](https://github.com/elementary/music/commit/a2d904a0044cb9ce015bb9189556b20e5e3fd40a)
 - [ ] [<code>TrackRow: DRY menu popup at pointer (#800)</code>](https://github.com/elementary/music/commit/98587d88b2afbaae418907b432c19ddb31ab61d8)
+- [ ] [<code>Fix gap below cover art (#799)</code>](https://github.com/elementary/music/commit/08cc8b8a747e8466aab86b8dee18c401fcb3a0e7)
+- [ ] [<code>MainWindow: replace ListBox with ListView (#796)</code>](https://github.com/elementary/music/commit/6c401eee4e45ec86796c808c5df1250a1943d037)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -539,6 +545,11 @@
 - [ ] [<code>Demo/CssView: add a switch to toggle list separators (#772)</code>](https://github.com/elementary/granite/commit/c81411267ced63f0793223bae6631454f170a487)
 - [ ] [<code>HeaderLabel: add default for to_string (#778)</code>](https://github.com/elementary/granite/commit/fa7d7dd5abb887bf00cf0349a9c839a989d64f94)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Demo: create DemoPage (#777)</code>](https://github.com/elementary/granite/commit/3346446c7e0ff23fcb87413a407931c07e16d926)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Utils: mark set_color_primary as deprecated (#762)</code>](https://github.com/elementary/granite/commit/c3358dad15090abd3bb475654e295bc0cfefa97f)
+- [ ] [<code>Avoid adding empty style classes (#781)</code>](https://github.com/elementary/granite/commit/8c53a55e4d693ca9fcd71e32694c7b22a4f96564)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
