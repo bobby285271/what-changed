@@ -379,6 +379,7 @@
 - [ ] [<code>Build with native live-chart instead of submodule (#411)</code>](https://github.com/stsdc/monitor/commit/d4331f5289f48e5b3b69ba7ab66997eba37778bd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove live-chart submodule (#415)</code>](https://github.com/stsdc/monitor/commit/b61ef691e6e7b3fdbb3b365b7bb158557aa90782)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
