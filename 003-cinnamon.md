@@ -37,6 +37,8 @@
 - [ ] [<code>st: Print the js stack for a couple of critical warnings that</code>](https://github.com/linuxmint/cinnamon/commit/88d9a63a50402c38a087cbdf34b2beff7b84cf71)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cs_mouse.py: Don't try to use the 'value_nick' property of gi enum</code>](https://github.com/linuxmint/cinnamon/commit/342d569aa40f1a76417044ab452618b4e4007e24)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_display.py: Expose option to choose fractional scaling direction.</code>](https://github.com/linuxmint/cinnamon/commit/1eed8da15caec9c0c9b9c459e168ba836f1e52d1)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -84,6 +86,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>[mozjs-128] fix packaging (#128)</code>](https://github.com/linuxmint/cjs/commit/daa405768117f016b0db2768eef57856815b6b5f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove version restrictions</code>](https://github.com/linuxmint/cjs/commit/74bb8d9a701f9b7ed1d783104ffc9777c013118f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>128.0</code>](https://github.com/linuxmint/cjs/commit/b9a0d42314249fa5a99497cee167d1fecadb15e8)
+  - <sub>Tags: <code>128.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5bd94d3ffdb9585c09832f0beabb14f0e67e8d58 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5bd94d3ffdb9585c09832f0beabb14f0e67e8d58...HEAD)
 
@@ -117,10 +124,16 @@
 
 - [ ] [<code>Add get_pipeline() API (#707)</code>](https://github.com/linuxmint/muffin/commit/37ae693b9defcbd6ff29807f9502f54dd9113013)
 - [ ] [<code>Update debian/libmuffin0.symbols.</code>](https://github.com/linuxmint/muffin/commit/6f16b7f574629d34dc1df1950c0519bb913be557)
+- [ ] [<code>clutter/actor: Allow specifying the layout manager for an actor type (#709)</code>](https://github.com/linuxmint/muffin/commit/bc449de4467f42dabbd37cb17dd7dc50559350c7)
+- [ ] [<code>meson: fix some implicit ordering dependencies on generated headers (#716)</code>](https://github.com/linuxmint/muffin/commit/604e0b50280a6a82ead1d8a13954778287b93e25)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
+- [ ] [<code>nemo-view.c: fix crash after some shortcuts (#3525)</code>](https://github.com/linuxmint/nemo/commit/a98a467b360ec1d6fa8fa9cbe738cbf4a3172ea7)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
