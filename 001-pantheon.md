@@ -452,6 +452,8 @@
 - [ ] [<code>ShadowEffect: cleanup scale factor (#2336)</code>](https://github.com/elementary/gala/commit/184f7626e3a31c30652d05223c8253f8ca421421)
 - [ ] [<code>ScreenShield -> SessionLocker (#2339)</code>](https://github.com/elementary/gala/commit/d23affe280f431c4f98da4fcb6684559465db3f9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: fix close button (#2345)</code>](https://github.com/elementary/gala/commit/823e5bbe4d011b3ceea4c16ff7d2ba6c868bb341)
+- [ ] [<code>WindowClone: always show window title (#2344)</code>](https://github.com/elementary/gala/commit/0d1aff2763b0938a8aa618929b6f197b85b7870f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -550,6 +552,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Utils: mark set_color_primary as deprecated (#762)</code>](https://github.com/elementary/granite/commit/c3358dad15090abd3bb475654e295bc0cfefa97f)
 - [ ] [<code>Avoid adding empty style classes (#781)</code>](https://github.com/elementary/granite/commit/8c53a55e4d693ca9fcd71e32694c7b22a4f96564)
+- [ ] [<code>Styles/Animate: add spin (#782)</code>](https://github.com/elementary/granite/commit/ccfca6302c57bfc63d337cb86018c710711ff560)
+- [ ] [<code>Add basic mixins for styling controls (#775)</code>](https://github.com/elementary/granite/commit/e1ef50d7cc40d151d05d0a47b0f06bb8bc409ffe)
+- [ ] [<code>Styles/Button: support linked buttons (#784)</code>](https://github.com/elementary/granite/commit/624834db8202b8f4071c7ab081635225e378a223)
+- [ ] [<code>Styles/Controls: merge in background styles (#785)</code>](https://github.com/elementary/granite/commit/5addbcd8ec5adb01cf67a3a21ad0f43652699da3)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
