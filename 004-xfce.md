@@ -690,6 +690,7 @@
 - [ ] [<code>build: Fix include order on *BSD</code>](https://github.com/xfce-mirror/xfce4-session/commit/1f07d42bba60313caf43126afe66fa835711ecb6)
 - [ ] [<code>labwc: Add window snapping range</code>](https://github.com/xfce-mirror/xfce4-session/commit/f1cd45b00506a41061d14e5f67cd6a6f837d5619)
 - [ ] [<code>Use syntax compatible with most sh shells.</code>](https://github.com/xfce-mirror/xfce4-session/commit/e084c7694554ad64462dd8675bb9fc466bb32ce7)
+- [ ] [<code>wayland: start a D-Bus session only if there isn't one already</code>](https://github.com/xfce-mirror/xfce4-session/commit/dc1d6cd65102b4d1a6e4c40f43ce74ac6c480513)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
