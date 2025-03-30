@@ -134,6 +134,8 @@
 
 - [ ] [<code>nemo-view.c: fix crash after some shortcuts (#3525)</code>](https://github.com/linuxmint/nemo/commit/a98a467b360ec1d6fa8fa9cbe738cbf4a3172ea7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
+- [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
