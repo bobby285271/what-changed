@@ -454,6 +454,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: fix close button (#2345)</code>](https://github.com/elementary/gala/commit/823e5bbe4d011b3ceea4c16ff7d2ba6c868bb341)
 - [ ] [<code>WindowClone: always show window title (#2344)</code>](https://github.com/elementary/gala/commit/0d1aff2763b0938a8aa618929b6f197b85b7870f)
+- [ ] [<code>Remove scaling effect for menus (#2348)</code>](https://github.com/elementary/gala/commit/6a3772e6039f269e5d803f8677ca36d785952a9e)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/4ced2428145fb7b4190152a2f83cc81f30c98a1f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -556,6 +558,10 @@
 - [ ] [<code>Add basic mixins for styling controls (#775)</code>](https://github.com/elementary/granite/commit/e1ef50d7cc40d151d05d0a47b0f06bb8bc409ffe)
 - [ ] [<code>Styles/Button: support linked buttons (#784)</code>](https://github.com/elementary/granite/commit/624834db8202b8f4071c7ab081635225e378a223)
 - [ ] [<code>Styles/Controls: merge in background styles (#785)</code>](https://github.com/elementary/granite/commit/5addbcd8ec5adb01cf67a3a21ad0f43652699da3)
+- [ ] [<code>Icons: add emoji categories (#788)</code>](https://github.com/elementary/granite/commit/5d59145e532baa47afc6c376c424c2275d3ee320)
+- [ ] [<code>Demo: ModeButtonView → ControlsView (#786)</code>](https://github.com/elementary/granite/commit/a429cfa9b1041ec584cc429ece608aaffdbc799b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: create Granite-empty (#780)</code>](https://github.com/elementary/granite/commit/0620cd3132f66720c7b34da4e1fdcb99b49b2f96)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
