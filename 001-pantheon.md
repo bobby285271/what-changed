@@ -562,6 +562,8 @@
 - [ ] [<code>Demo: ModeButtonView → ControlsView (#786)</code>](https://github.com/elementary/granite/commit/a429cfa9b1041ec584cc429ece608aaffdbc799b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles: create Granite-empty (#780)</code>](https://github.com/elementary/granite/commit/0620cd3132f66720c7b34da4e1fdcb99b49b2f96)
+- [ ] [<code>Styles/Classes: reduce card border opacity (#792)</code>](https://github.com/elementary/granite/commit/55c2437566fbd0ddef5d8a6f9935894e650cc054)
+- [ ] [<code>Styles/Popover: add emoji-picker (#791)</code>](https://github.com/elementary/granite/commit/85c6a8b7f6dd43a19f074a30f3eb89a53197e204)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
