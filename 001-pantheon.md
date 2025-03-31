@@ -171,6 +171,7 @@
 - [ ] [<code>Update exiv2 and gexiv2 modules (#794)</code>](https://github.com/elementary/photos/commit/7ece313dac9a1145110011396a6f7298ced10ea3)
 - [ ] [<code>CI: run arm workflows on arm runner (#793)</code>](https://github.com/elementary/photos/commit/1011cc8d68bc5842b8b41306453304bd7111bfef)
 - [ ] [<code>Fix some terminal warnings (#791)</code>](https://github.com/elementary/photos/commit/80361ef58825452e23116a1365b4c3131c934e57)
+- [ ] [<code>inih: Update inih to 59 (#796)</code>](https://github.com/elementary/photos/commit/e8b3ccbc3127607de0622014437373484ee9aa72)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -567,6 +568,10 @@
 - [ ] [<code>Styles/Classes: reduce card border opacity (#792)</code>](https://github.com/elementary/granite/commit/55c2437566fbd0ddef5d8a6f9935894e650cc054)
 - [ ] [<code>Styles/Popover: add emoji-picker (#791)</code>](https://github.com/elementary/granite/commit/85c6a8b7f6dd43a19f074a30f3eb89a53197e204)
 - [ ] [<code>Box: add half spacing (#793)</code>](https://github.com/elementary/granite/commit/c04288988802702a67c73b32cbebaed2a2746bdc)
+- [ ] [<code>Styles/Popovers: add styles for Gtk.PopoverMenu (#795)</code>](https://github.com/elementary/granite/commit/49882b0bafee08402fbda6dc19ae9e5b6f00ccef)
+- [ ] [<code>Styles/Popover: add undershoot styles (#794)</code>](https://github.com/elementary/granite/commit/77e1fcb1468c42b9dd9684a7ca6f8cbd0c6bdf8d)
+- [ ] [<code>Styles: add switch (#708)</code>](https://github.com/elementary/granite/commit/86f7a084ef606af23c019ae07a41eaa4f1759f59)
+- [ ] [<code>Styles: add Entry (#712)</code>](https://github.com/elementary/granite/commit/a8ff57b1776fe2d44941465bbc5ad820027f64c2)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
