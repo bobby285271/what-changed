@@ -456,6 +456,8 @@
 - [ ] [<code>WindowClone: always show window title (#2344)</code>](https://github.com/elementary/gala/commit/0d1aff2763b0938a8aa618929b6f197b85b7870f)
 - [ ] [<code>Remove scaling effect for menus (#2348)</code>](https://github.com/elementary/gala/commit/6a3772e6039f269e5d803f8677ca36d785952a9e)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/4ced2428145fb7b4190152a2f83cc81f30c98a1f)
+- [ ] [<code>WorkspaceClone: Activate workspace here (#2349)</code>](https://github.com/elementary/gala/commit/5b3b60fba3e4f8c904853049c0e6a02ccbedb0fd)
+- [ ] [<code>Check for redacted font (#2313)</code>](https://github.com/elementary/gala/commit/c4f004c731b66a6133ce64474b1a7488e9aae6b1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -564,6 +566,7 @@
 - [ ] [<code>Styles: create Granite-empty (#780)</code>](https://github.com/elementary/granite/commit/0620cd3132f66720c7b34da4e1fdcb99b49b2f96)
 - [ ] [<code>Styles/Classes: reduce card border opacity (#792)</code>](https://github.com/elementary/granite/commit/55c2437566fbd0ddef5d8a6f9935894e650cc054)
 - [ ] [<code>Styles/Popover: add emoji-picker (#791)</code>](https://github.com/elementary/granite/commit/85c6a8b7f6dd43a19f074a30f3eb89a53197e204)
+- [ ] [<code>Box: add half spacing (#793)</code>](https://github.com/elementary/granite/commit/c04288988802702a67c73b32cbebaed2a2746bdc)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
