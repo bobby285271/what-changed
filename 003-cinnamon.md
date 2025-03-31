@@ -34,13 +34,16 @@
 - [ ] [<code>st-bin: Remove unused foreach implementation (#12633)</code>](https://github.com/linuxmint/cinnamon/commit/253318ae3944af9a3800ec81e9130dbde2707394)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>notificationDaemon: Fix handling of `image-path` hint (#12778)</code>](https://github.com/linuxmint/cinnamon/commit/c8538e8fbe50ccdc48a4747df732fb945e775d8b)
+- [ ] [<code>workspace-switcher@cinnamon.org: Workspaces will be always displayed as empty when they are</code>](https://github.com/linuxmint/cinnamon/commit/7233832f4dc951feeb5365ab288f94e8cb81b340)
+  - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>st: Print the js stack for a couple of critical warnings that</code>](https://github.com/linuxmint/cinnamon/commit/88d9a63a50402c38a087cbdf34b2beff7b84cf71)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cs_mouse.py: Don't try to use the 'value_nick' property of gi enum</code>](https://github.com/linuxmint/cinnamon/commit/342d569aa40f1a76417044ab452618b4e4007e24)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_display.py: Expose option to choose fractional scaling direction.</code>](https://github.com/linuxmint/cinnamon/commit/1eed8da15caec9c0c9b9c459e168ba836f1e52d1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12810 from claudiux/workspace-switcher@cinnamon.org_Fixes#12809</code>](https://github.com/linuxmint/cinnamon/commit/1a48f0d54a513ca3fc28d32110f6c039c0bfe315)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
