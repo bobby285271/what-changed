@@ -382,6 +382,9 @@
 - [ ] [<code>Prevent criticals when switching current view (#1344)</code>](https://github.com/xfce-mirror/thunar/commit/4649ac96023418ee4c0da4774fb007e5ef62a68f)
 - [ ] [<code>meson-build: Fix manpage install dir</code>](https://github.com/xfce-mirror/thunar/commit/9e3a2c9596c2d6994dca6b3a92a9a163801fdc2e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Add polkit option</code>](https://github.com/xfce-mirror/thunar/commit/3b57f79dabdcd52aac8c183530e07fc2ff172958)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
