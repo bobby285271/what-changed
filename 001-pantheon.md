@@ -287,6 +287,7 @@
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/133b4f0c112b332a527b18a55e38a7f5cdbc5a62)
+- [ ] [<code>FirewallPanel: get permission async (#185)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/08c818a19eebca825e35967f7e596e817331352b)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
 
