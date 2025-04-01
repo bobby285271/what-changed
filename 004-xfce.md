@@ -758,6 +758,7 @@
 - [ ] [<code>meson-build: Fix typo in pnp_ids_path substitution</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bac7266cd9bbc6fb77b373340fda108ddfb04f74)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>common: Be more secure when parsing pnp.ids file</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b54d3361321171f8a27414085544b6909b22904c)
+- [ ] [<code>common: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/37f2c7431537c9f8ddef2d64b3e7ae47ddfd21e7)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
