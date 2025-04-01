@@ -755,6 +755,9 @@
 - [ ] [<code>xfsettingsd: Add some debug traces to gtk-settings helper</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6f5244422135b3f5d90e3f3aee392a0c91f32446)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>x11: display: Properly take XRRModeFlags into account</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b7f4dfee7ed6d4b7926434ec3cc7fa3012e18057)
+- [ ] [<code>meson-build: Fix typo in pnp_ids_path substitution</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bac7266cd9bbc6fb77b373340fda108ddfb04f74)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>common: Be more secure when parsing pnp.ids file</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b54d3361321171f8a27414085544b6909b22904c)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
