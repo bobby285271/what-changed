@@ -460,6 +460,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/gala/commit/4ced2428145fb7b4190152a2f83cc81f30c98a1f)
 - [ ] [<code>WorkspaceClone: Activate workspace here (#2349)</code>](https://github.com/elementary/gala/commit/5b3b60fba3e4f8c904853049c0e6a02ccbedb0fd)
 - [ ] [<code>Check for redacted font (#2313)</code>](https://github.com/elementary/gala/commit/c4f004c731b66a6133ce64474b1a7488e9aae6b1)
+- [ ] [<code>PositionedWindow: block position_changed signal while positioning (#2351)</code>](https://github.com/elementary/gala/commit/6aa63640a439f7ecc57d693f9a8707872404591a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
