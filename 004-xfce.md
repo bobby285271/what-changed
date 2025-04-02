@@ -126,6 +126,9 @@
 - [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/libxfce4ui/commit/06925588668abe91af101998b4252363fd64891a)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>clipboard-manager: Use GtkTargetList instead of manual allocation</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ef13682f21c4fd0840d2029166c238500f11ad5c)
+- [ ] [<code>clipboard-manager: Use separate struct for each call to set_with_data()</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e5dd9d3bc8aa7e663c6477bf6cf1991e0b288d97)
+- [ ] [<code>clipboard-manager: Fix potential leak on targets</code>](https://github.com/xfce-mirror/libxfce4ui/commit/463d9d797cc8c69752c02fdd44726d06cb89bb14)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
