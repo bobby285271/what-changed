@@ -198,6 +198,10 @@
 
 - [ ] [<code>MainWindow: GTK4 prep (#863)</code>](https://github.com/elementary/terminal/commit/35691a521a41ba55c57cc2d8800f19d1154e3a49)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Utils: add a warning about commands that skip confirmation (#864)</code>](https://github.com/elementary/terminal/commit/a1408810655f3fb37633f01b8f1ec697766553bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Return and show all paste warnings (#866)</code>](https://github.com/elementary/terminal/commit/a021999a0da4fe7ce21d1613c42619168e4fc64e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -574,6 +578,9 @@
 - [ ] [<code>Styles/Popover: add undershoot styles (#794)</code>](https://github.com/elementary/granite/commit/77e1fcb1468c42b9dd9684a7ca6f8cbd0c6bdf8d)
 - [ ] [<code>Styles: add switch (#708)</code>](https://github.com/elementary/granite/commit/86f7a084ef606af23c019ae07a41eaa4f1759f59)
 - [ ] [<code>Styles: add Entry (#712)</code>](https://github.com/elementary/granite/commit/a8ff57b1776fe2d44941465bbc5ad820027f64c2)
+- [ ] [<code>Add basic Shumate support (#815)</code>](https://github.com/elementary/granite/commit/02e9b830636676ea6889c66d4b794501907a76a1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -636,3 +643,4 @@
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
+- [ ] [<code>Pantheon: add monitor (#142)</code>](https://github.com/elementary/seeds/commit/ace5f7118ba938a5f552572f5e7f3511e63c9cbf)
