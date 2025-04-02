@@ -392,6 +392,7 @@
 - [ ] [<code>Update POTFILES (#432)</code>](https://github.com/stsdc/monitor/commit/0096b2c8378b26aa7666130a0dc95691b1611062)
 - [ ] [<code>Integrate Headerbar to MainWindow (#425)</code>](https://github.com/stsdc/monitor/commit/d4ff1415d223d547aca80d23e6cf5b10c68afed6)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add live-chart subproject using wrap-git (#429)</code>](https://github.com/stsdc/monitor/commit/a954d5cc6b06b2ecedb90898ff698539bf82e2b7)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
