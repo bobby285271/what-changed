@@ -381,6 +381,17 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove live-chart submodule (#415)</code>](https://github.com/stsdc/monitor/commit/b61ef691e6e7b3fdbb3b365b7bb158557aa90782)
 - [ ] [<code>Removes stylesheet submodule (#416)</code>](https://github.com/stsdc/monitor/commit/1bfa0bbdbf5f88d606948aa7fd615687a3d25beb)
+- [ ] [<code>Replace label subclass with Granite.HeaderLabel (#424)</code>](https://github.com/stsdc/monitor/commit/dcd48426b9a67bc9a34b7572eda88265d11d05d7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add missing license headers (#423)</code>](https://github.com/stsdc/monitor/commit/788678033eb3d4767d8b896362269cffc71cddd8)
+- [ ] [<code>Application: do one-time tasks in startup (#420)</code>](https://github.com/stsdc/monitor/commit/d7719bfe46c26e6ae3dee965a4fdac9c830f7b75)
+- [ ] [<code>Launcher: update to latest format (#427)</code>](https://github.com/stsdc/monitor/commit/f3196319a45e9470965b5ff5e0211ff466e4aac3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Resources: add paths for symbolic icons (#428)</code>](https://github.com/stsdc/monitor/commit/dba887c33a6d1820548ab5568ff98f81c9efc5e2)
+- [ ] [<code>Update POTFILES (#432)</code>](https://github.com/stsdc/monitor/commit/0096b2c8378b26aa7666130a0dc95691b1611062)
+- [ ] [<code>Integrate Headerbar to MainWindow (#425)</code>](https://github.com/stsdc/monitor/commit/d4ff1415d223d547aca80d23e6cf5b10c68afed6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
