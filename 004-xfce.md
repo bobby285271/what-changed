@@ -497,6 +497,7 @@
 - [ ] [<code>xfce-do-release: Copy extra source files to the working tree</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/acf8893875032913785618514101be0fd2d5f58c)
 - [ ] [<code>ci: Update build_libs.sh after thunar dropped half its doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/19e51c17904955f8e43c5ada6b53a393e06ada5e)
 - [ ] [<code>xfce-do-release: Add xfce-revision.h.in to tarball without REVISION</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/09fc6e34c7a1f23ef3fc4f89ac0d32d8a90b2eac)
+- [ ] [<code>ci: Add libaccountsservice-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d3fa7ff579d08e966b0d87c6c5f58dfe27836745)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
