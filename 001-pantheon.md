@@ -75,6 +75,8 @@
 - [ ] [<code>Move Open in Terminal option (#1518)</code>](https://github.com/elementary/code/commit/a4813dbc8296c2520d47e0ea4558ab0e66ebc6fb)
 - [ ] [<code>Minor FolderManager code improvements (#1489)</code>](https://github.com/elementary/code/commit/c793f08c2ee2f53f95008df038850b5d3d117d59)
 - [ ] [<code>Lose unused function</code>](https://github.com/elementary/code/commit/e5d23135a51f3583263cdb18fa1fa60f8df624ca)
+- [ ] [<code>Timeout tree construction (#1515)</code>](https://github.com/elementary/code/commit/b267a506f3e84db97eb3ab8c0f7560e5aa2b9612)
+- [ ] [<code>Implement checkout of remote branches (#1516)</code>](https://github.com/elementary/code/commit/3481195a2e3804358ad374b4c7cf862498d78de9)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
