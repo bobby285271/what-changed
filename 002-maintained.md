@@ -393,6 +393,13 @@
 - [ ] [<code>Integrate Headerbar to MainWindow (#425)</code>](https://github.com/stsdc/monitor/commit/d4ff1415d223d547aca80d23e6cf5b10c68afed6)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add live-chart subproject using wrap-git (#429)</code>](https://github.com/stsdc/monitor/commit/a954d5cc6b06b2ecedb90898ff698539bf82e2b7)
+- [ ] [<code>Styles: use built-in h2 style for vertical label (#435)</code>](https://github.com/stsdc/monitor/commit/6f5e93586e7ef2e8ad56ce563cab1984020f0ee9)
+- [ ] [<code>Don't set window position (#422)</code>](https://github.com/stsdc/monitor/commit/fed3ebb0d54ceedfb49d95bb60a81221b5a8a982)
+- [ ] [<code>Handle accels with GLib.Action (#434)</code>](https://github.com/stsdc/monitor/commit/91343e8ae79280a0a63c3080f67da033a152d1b9)
+- [ ] [<code>Use GLib function for formatting size (#433)</code>](https://github.com/stsdc/monitor/commit/6f15030cd3202679da6d79670ade928463b40456)
+- [ ] [<code>Rewrite preferences as a single view (#426)</code>](https://github.com/stsdc/monitor/commit/a0b297a79598c97d50a3697d007b908319c85868)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
