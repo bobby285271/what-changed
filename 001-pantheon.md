@@ -77,6 +77,7 @@
 - [ ] [<code>Lose unused function</code>](https://github.com/elementary/code/commit/e5d23135a51f3583263cdb18fa1fa60f8df624ca)
 - [ ] [<code>Timeout tree construction (#1515)</code>](https://github.com/elementary/code/commit/b267a506f3e84db97eb3ab8c0f7560e5aa2b9612)
 - [ ] [<code>Implement checkout of remote branches (#1516)</code>](https://github.com/elementary/code/commit/3481195a2e3804358ad374b4c7cf862498d78de9)
+- [ ] [<code>Correct tooltip message (#1547)</code>](https://github.com/elementary/code/commit/03d775a58ca80dee066fa47350365e90c23b95e0)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -158,6 +159,7 @@
 - [ ] [<code>MainWindow: replace ListBox with ListView (#796)</code>](https://github.com/elementary/music/commit/6c401eee4e45ec86796c808c5df1250a1943d037)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Correctly display arists name in NowPlayingView (#804)</code>](https://github.com/elementary/music/commit/fc2da44f73e3eee5ec3b6a09dbf0928809294e44)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -581,6 +583,10 @@
 - [ ] [<code>Styles: add switch (#708)</code>](https://github.com/elementary/granite/commit/86f7a084ef606af23c019ae07a41eaa4f1759f59)
 - [ ] [<code>Styles: add Entry (#712)</code>](https://github.com/elementary/granite/commit/a8ff57b1776fe2d44941465bbc5ad820027f64c2)
 - [ ] [<code>Add basic Shumate support (#815)</code>](https://github.com/elementary/granite/commit/02e9b830636676ea6889c66d4b794501907a76a1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Styles: Interpolate palette to expand number of named colors for UI (#820)</code>](https://github.com/elementary/granite/commit/aa28b76f3cca3b1f9d80dc8ae34b0381e11f3c67)
+- [ ] [<code>StyleManager: set accent color from portal (#704)</code>](https://github.com/elementary/granite/commit/da58664648ce6f18215f03b48ff02b4d4ceb9457)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
