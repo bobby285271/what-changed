@@ -400,6 +400,11 @@
 - [ ] [<code>Rewrite preferences as a single view (#426)</code>](https://github.com/stsdc/monitor/commit/a0b297a79598c97d50a3697d007b908319c85868)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: self contain meson (#430)</code>](https://github.com/stsdc/monitor/commit/24d047dbfc61a8e2a1cc85e2df4dcc97c55fe967)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Shortcuts: gtk4 prep (#436)</code>](https://github.com/stsdc/monitor/commit/9381b3392445ff8074d3b0dfa735ab5c9d244b88)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
