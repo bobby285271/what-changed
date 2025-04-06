@@ -435,6 +435,7 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.2.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.2.0...HEAD)
 
 - [ ] [<code>Update copyright header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/27d768ea2cbef47db35a714a911a454ae3c13d52)
+- [ ] [<code>Add RELEASE_HOWTO.md (#267)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3518746b49df3dc83dcf7c7c96c30d73440044dc)
 
 #### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
