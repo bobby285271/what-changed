@@ -2,13 +2,13 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/3.6 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/3.6...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [3.6 → HEAD](https://github.com/linuxmint/bulky/compare/3.6...HEAD)
 
 - [ ] [<code>debian/control: Add missing dependency.</code>](https://github.com/linuxmint/bulky/commit/0988dd45b54664acce2d83320da0104d79d7d126)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [refs/tags/6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.4.7...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -45,14 +45,14 @@
 - [ ] [<code>Merge pull request #12810 from claudiux/workspace-switcher@cinnamon.org_Fixes#12809</code>](https://github.com/linuxmint/cinnamon/commit/1a48f0d54a513ca3fc28d32110f6c039c0bfe315)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.1...HEAD)
+#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
 - [ ] [<code>debian/control: Update dependencies.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/d20aa769b259b4359ab446f682678e279cacc42b)
 - [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
 - [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.1...HEAD)
+#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.1...HEAD)
 
 - [ ] [<code>org.cinnamon.desktop.interface.gschema: Mark the old scaling</code>](https://github.com/linuxmint/cinnamon-desktop/commit/508a0be369905fea36d2c8d455738aee736a90f6)
 - [ ] [<code>build: debian/control fix for alt package name, use debugoptimized</code>](https://github.com/linuxmint/cinnamon-desktop/commit/98450bf1b87d96553af6562ed15e0bf766cd1403)
@@ -62,27 +62,27 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
+#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.4.0...HEAD)
+#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.0...HEAD)
 
 - [ ] [<code>Refactor positioning of floating UI elements.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8137ba29d3febe7cbd2d2df8a5e664e57454559b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.0...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
 - [ ] [<code>Cosmetic change: rename g-s-d to c-s-d (#409)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/68a787b96df19349bfda707c41fa83b319113dd6)
 - [ ] [<code>media-keys: Add labels for show_osd() (#403)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f3f8f77ae998bd0ac401cd1ab048ba9b6db31c0)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/6.4.0...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
 - [ ] [<code>Rebase onto gjs-1.82.1 (from debian 13/trixie) - mozjs 128 support.</code>](https://github.com/linuxmint/cjs/commit/f43d5b579a6d84f4947ee61fde6f00b7ee6c1155)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
@@ -105,16 +105,16 @@
 
 - [ ] [<code>Fix render-mimetypes.py (#16)</code>](https://github.com/linuxmint/mint-l-icons/commit/a2d000a933d0ab4053d47650f1229fc6da8d2ae7)
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/1.9.9...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [refs/tags/2.2.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/refs/tags/2.2.3...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.3...HEAD)
 
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [refs/tags/1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/refs/tags/1.7.2...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [refs/tags/1.8.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/refs/tags/1.8.3...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.3 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.3...HEAD)
 
 - [ ] [<code>Update Rumble icon and add its symbolic links (#456)</code>](https://github.com/linuxmint/mint-y-icons/commit/96a3c41ceb212c5ea16bfbc699653b2f232bc783)
   - <sub>Keywords: <code>usr</code></sub>
@@ -123,7 +123,7 @@
 - [ ] [<code>Add Sober icon (#455)</code>](https://github.com/linuxmint/mint-y-icons/commit/d0fefd99e2eed9ece329889008f5ba0b2ca8690a)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [muffin](https://github.com/linuxmint/muffin): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/refs/tags/6.4.1...HEAD)
+#### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
 - [ ] [<code>Add get_pipeline() API (#707)</code>](https://github.com/linuxmint/muffin/commit/37ae693b9defcbd6ff29807f9502f54dd9113013)
 - [ ] [<code>Update debian/libmuffin0.symbols.</code>](https://github.com/linuxmint/muffin/commit/6f16b7f574629d34dc1df1950c0519bb913be557)
@@ -133,46 +133,46 @@
 - [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [nemo](https://github.com/linuxmint/nemo): [refs/tags/6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/refs/tags/6.4.5...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
 - [ ] [<code>nemo-view.c: fix crash after some shortcuts (#3525)</code>](https://github.com/linuxmint/nemo/commit/a98a467b360ec1d6fa8fa9cbe738cbf4a3172ea7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
 - [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
 
-#### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
+#### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 
-#### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
+#### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 
-#### [nemo-python](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
+#### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 
-#### [pix](https://github.com/linuxmint/pix): [refs/tags/3.4.5 → HEAD](https://github.com/linuxmint/pix/compare/refs/tags/3.4.5...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.5 → HEAD](https://github.com/linuxmint/pix/compare/3.4.5...HEAD)
 
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [refs/tags/1.8.8 → HEAD](https://github.com/linuxmint/warpinator/compare/refs/tags/1.8.8...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.8 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.8...HEAD)
 
 
-#### [xapp](https://github.com/linuxmint/xapp): [refs/tags/2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/refs/tags/2.8.8...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
 
 - [ ] [<code>xapp-favorites.c: Fix g-ir-scanner warning during build.</code>](https://github.com/linuxmint/xapp/commit/5f8ca8fb80f2a3e7e98b253f92f118a7c3b641fe)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [refs/tags/4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/refs/tags/4.2.3...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
 - [ ] [<code>Update private.h: gcc-15 build fix (#667)</code>](https://github.com/linuxmint/xreader/commit/39b19ced58874908147d7aeaab8aa7674a123672)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [refs/tags/3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/refs/tags/3.4.8...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
 ## random
 
-#### [blueberry](https://github.com/linuxmint/blueberry): [refs/tags/1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/refs/tags/1.4.8...HEAD)
+#### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
 
 - [ ] [<code>I10n: correct en_GB translations (#132)</code>](https://github.com/linuxmint/blueberry/commit/26e5e1368ddf8a37d71825055638b96d3e3bd823)
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/18337ce002b94a6337b495e507166228c9c23eea)
@@ -189,23 +189,23 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/4.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/4.9...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [4.9 → HEAD](https://github.com/linuxmint/hypnotix/compare/4.9...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [refs/tags/2.0.9 → HEAD](https://github.com/linuxmint/slick-greeter/compare/refs/tags/2.0.9...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.0.9 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.0.9...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [refs/tags/1.24 → HEAD](https://github.com/linuxmint/sticky/compare/refs/tags/1.24...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.24 → HEAD](https://github.com/linuxmint/sticky/compare/1.24...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/24.06.6 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/24.06.6...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.6 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.6...HEAD)
 
 - [ ] [<code>Subvolume.vala: (btrfs) Wait for async file operations to complete.</code>](https://github.com/linuxmint/timeshift/commit/33f9e7a99823e7bf326743d491374fab9437a2d6)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [xed-editor](https://github.com/linuxmint/xed): [refs/tags/3.8.2 → HEAD](https://github.com/linuxmint/xed/compare/refs/tags/3.8.2...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.8.2 → HEAD](https://github.com/linuxmint/xed/compare/3.8.2...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [refs/tags/1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/refs/tags/1.1.0...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
 - [ ] [<code>debian/control: Use correct package to get systemd .pc file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/02db7624913967d49e7682fe76350b65845aece8)
