@@ -1,6 +1,6 @@
 # what-changed (Maintained)
 
-#### [agenda](https://github.com/dahenson/agenda): [refs/tags/1.1.2 → HEAD](https://github.com/dahenson/agenda/compare/refs/tags/1.1.2...HEAD)
+#### [agenda](https://github.com/dahenson/agenda): [1.1.2 → HEAD](https://github.com/dahenson/agenda/compare/1.1.2...HEAD)
 
 - [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/bd9677b888203af494dc8df4d5b87039ee1dcf72)
 - [ ] [<code>Merge branch 'master' of https://github.com/dahenson/agenda into patch-1</code>](https://github.com/dahenson/agenda/commit/1e882c5246698bab59bb0d95fb0ed5478b207ab0)
@@ -84,7 +84,7 @@
 - [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/91160290a3241e3eb2ba118adf7e79b7a03606f7)
 - [ ] [<code>Merge pull request #165 from albanobattistella/patch-3</code>](https://github.com/dahenson/agenda/commit/d7c36f85651b8e5d7520ed7bae094137ca21a528)
 
-#### [akira-unstable](https://github.com/akiraux/Akira): [refs/tags/v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/refs/tags/v0.0.16...HEAD)
+#### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
 
 - [ ] [<code>Major refactor to main (#635)</code>](https://github.com/akiraux/Akira/commit/70304ea144460ada2a4b2893aeb6a25b0d2c6ff5)
   - <sub>Files: <code>meson.build</code></sub>
@@ -259,10 +259,10 @@
 - [ ] [<code>Implement filename for exports (#743)</code>](https://github.com/akiraux/Akira/commit/6ba3574f2e14b4290991a4dd94e905152ac08542)
 - [ ] [<code>* Project logo update to transparent version</code>](https://github.com/akiraux/Akira/commit/3b6c58ab4376f0c40cf647164354a65ba2b15a3f)
 
-#### [appeditor](https://github.com/donadigo/appeditor): [refs/tags/1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/refs/tags/1.1.5...HEAD)
+#### [appeditor](https://github.com/donadigo/appeditor): [1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.5...HEAD)
 
 
-#### [cipher](https://github.com/arshubham/cipher): [refs/tags/2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/refs/tags/2.5.0...HEAD)
+#### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
 
 - [ ] [<code>Update com.github.arshubham.cipher.appdata.xml.in</code>](https://github.com/arshubham/cipher/commit/71db3aa53727c2a18ac9678f91bba336b1e96e78)
 - [ ] [<code>Merge pull request #54 from sahilarora3117/patch-3</code>](https://github.com/arshubham/cipher/commit/2762f26af1a8d2aeb334a7bb500d42a51294d465)
@@ -274,13 +274,13 @@
 - [ ] [<code>Add files via upload</code>](https://github.com/arshubham/cipher/commit/64932159d6b794844ed92fe9a205ee54fc462618)
 - [ ] [<code>Merge pull request #56 from eson57/patch-1</code>](https://github.com/arshubham/cipher/commit/bb45279428e8a5417309b5311f0fa09e0aa519d2)
 
-#### [ephemeral](https://github.com/cassidyjames/ephemeral): [refs/tags/7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/refs/tags/7.1.0...HEAD)
+#### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
 
 - [ ] [<code>Update Portuguese Translation (#281)</code>](https://github.com/cassidyjames/ephemeral/commit/2488257df4778769f6090569fa834a9900775f40)
 - [ ] [<code>update_ukrainian_translation (#285)</code>](https://github.com/cassidyjames/ephemeral/commit/54fa39cbb597349a905c1baaa768315179756b84)
 - [ ] [<code>Update nl.po (#286)</code>](https://github.com/cassidyjames/ephemeral/commit/9a9af0b4a9dffef042dd0d4de1fe35cbdbb021da)
 
-#### [fondo](https://github.com/calo001/fondo): [refs/tags/1.6.1 → HEAD](https://github.com/calo001/fondo/compare/refs/tags/1.6.1...HEAD)
+#### [fondo](https://github.com/calo001/fondo): [1.6.1 → HEAD](https://github.com/calo001/fondo/compare/1.6.1...HEAD)
 
 - [ ] [<code>Update cs.po</code>](https://github.com/calo001/fondo/commit/fd6380a642b9e4bc79f2920e6c281d668fb5e248)
 - [ ] [<code>fix visual style text as transleable string</code>](https://github.com/calo001/fondo/commit/c4e77ba529238a0cc6475dcf40c6ce279cd604fe)
@@ -293,10 +293,10 @@
 - [ ] [<code>partial undo fix</code>](https://github.com/calo001/fondo/commit/b575d5a08462b47c020b6cc8d24aa721bec866d1)
 - [ ] [<code>Merge pull request #170 from tronta/master</code>](https://github.com/calo001/fondo/commit/216c6115f2e9f19486ddc08fc697138b0b74e14d)
 
-#### [formatter](https://github.com/Djaler/Formatter): [refs/tags/0.4.0 → HEAD](https://github.com/Djaler/Formatter/compare/refs/tags/0.4.0...HEAD)
+#### [formatter](https://github.com/Djaler/Formatter): [0.4.0 → HEAD](https://github.com/Djaler/Formatter/compare/0.4.0...HEAD)
 
 
-#### [hashit](https://github.com/artemanufrij/hashit): [refs/tags/1.1.0 → HEAD](https://github.com/artemanufrij/hashit/compare/refs/tags/1.1.0...HEAD)
+#### [hashit](https://github.com/artemanufrij/hashit): [1.1.0 → HEAD](https://github.com/artemanufrij/hashit/compare/1.1.0...HEAD)
 
 - [ ] [<code>Update translations files + French translations</code>](https://github.com/artemanufrij/hashit/commit/85dc1e26d1624adaf85cb1dece48b1eb35e97c5d)
 - [ ] [<code>Update translations</code>](https://github.com/artemanufrij/hashit/commit/be29b9ea103420524beaa6d99d23d7181bbc04ec)
@@ -313,7 +313,7 @@
 - [ ] [<code>Downgrade Node.js to fix builds on Travis CI</code>](https://github.com/artemanufrij/hashit/commit/9a12f1928482a1b3fba73698045970135ffb19e5)
 - [ ] [<code>Merge pull request #34 from meisenzahl/master</code>](https://github.com/artemanufrij/hashit/commit/5429020029922bdb6687aff3d5aaf1ba56375d35)
 
-#### [ideogram](https://github.com/cassidyjames/ideogram): [refs/tags/1.3.3 → HEAD](https://github.com/cassidyjames/ideogram/compare/refs/tags/1.3.3...HEAD)
+#### [ideogram](https://github.com/cassidyjames/ideogram): [1.3.3 → HEAD](https://github.com/cassidyjames/ideogram/compare/1.3.3...HEAD)
 
 - [ ] [<code>Update gettext.yml</code>](https://github.com/cassidyjames/ideogram/commit/755d4b76e0831ca0160a8d096b6aa030d731cf30)
 - [ ] [<code>Update release.yml</code>](https://github.com/cassidyjames/ideogram/commit/6c56e16a59af3bab44f2decc002bdf6a0eee6f47)
@@ -327,7 +327,7 @@
 - [ ] [<code>Update for elementary OS 6 Odin (#57)</code>](https://github.com/cassidyjames/ideogram/commit/8c591ed6cd00de0b6a8ef9c7293d9b00653d2f62)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [khronos](https://github.com/lainsce/khronos): [refs/tags/4.0.1 → HEAD](https://github.com/lainsce/khronos/compare/refs/tags/4.0.1...HEAD)
+#### [khronos](https://github.com/lainsce/khronos): [4.0.1 → HEAD](https://github.com/lainsce/khronos/compare/4.0.1...HEAD)
 
 - [ ] [<code>Update donation link</code>](https://github.com/lainsce/khronos/commit/abb0295e6a8a6651b8f65f280c5493b6e62cd591)
 - [ ] [<code>Translation related patches (#135)</code>](https://github.com/lainsce/khronos/commit/442f48792adec727369db6b814f69195dcac265a)
@@ -339,14 +339,14 @@
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 - [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
-#### [minder](https://github.com/phase1geo/minder): [refs/tags/1.17.0 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/1.17.0...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [1.17.0 → HEAD](https://github.com/phase1geo/minder/compare/1.17.0...HEAD)
 
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/09d813996db22a72476aa733fc595a81460ec60e)
 - [ ] [<code>Merge pull request #637 from albanobattistella/patch-34</code>](https://github.com/phase1geo/minder/commit/2074e3d44ce600e0a09a245a814c1c86b58a4101)
 - [ ] [<code>Improving URL regex to allow URLs which lack a period.</code>](https://github.com/phase1geo/minder/commit/c3131c6c583d965e8cef8760a05165463d466d90)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/02c9fd07494bb3990733072598f6d5f1cb633b03)
 
-#### [monitor](https://github.com/stsdc/monitor): [refs/tags/0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/refs/tags/0.17.2...HEAD)
+#### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
 - [ ] [<code>Merge pull request #372 from stsdc/dev</code>](https://github.com/stsdc/monitor/commit/e57d262890bfced813fb007b960961104d0dfe83)
   - <sub>Files: <code>meson.build</code></sub>
@@ -406,7 +406,7 @@
 - [ ] [<code>Shortcuts: gtk4 prep (#436)</code>](https://github.com/stsdc/monitor/commit/9381b3392445ff8074d3b0dfa735ab5c9d244b88)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
+#### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
 - [ ] [<code>README: Fix icon</code>](https://github.com/parnold-x/nasc/commit/e2ca5cfc9a2a7695d286097ba459e03c3a321759)
 - [ ] [<code>AppData: Contrasty brand colors</code>](https://github.com/parnold-x/nasc/commit/0be79a0f7542f119e0175c0d9c91822517a6b3e8)
@@ -428,17 +428,17 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/5cb112ef95ee61850e94d80a793e650aa34792fe)
 
-#### [notes-up](https://github.com/Philip-Scott/Notes-up): [refs/tags/2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/refs/tags/2.0.6...HEAD)
+#### [notes-up](https://github.com/Philip-Scott/Notes-up): [2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/2.0.6...HEAD)
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [refs/tags/2.2.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/refs/tags/2.2.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.2.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.2.0...HEAD)
 
 - [ ] [<code>Update copyright header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/27d768ea2cbef47db35a714a911a454ae3c13d52)
 - [ ] [<code>Add RELEASE_HOWTO.md (#267)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3518746b49df3dc83dcf7c7c96c30d73440044dc)
 - [ ] [<code>chore: Use git for elementary modules (#268)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c56b16a9d31e78ef3e0f2892112b7d9f9d109452)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/4.12.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/4.12.0...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
 
 - [ ] [<code>feat: add Ubuntu build requirements to README.md</code>](https://github.com/alainm23/planify/commit/60e1a1f11a713a5e80bbb0c4357fec505e2b867d)
   - <sub>Keywords: <code>command</code></sub>
@@ -455,7 +455,7 @@
 - [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/f36e69d57fa96fe7cbfbe0e442189077ff3fa0e2)
 - [ ] [<code>Merge pull request #1545 from haggen88/translation</code>](https://github.com/alainm23/planify/commit/13a167a9c538a94e752595cbe19aee165c27af0f)
 
-#### [sequeler](https://github.com/Alecaddd/sequeler): [refs/tags/v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/refs/tags/v0.8.2...HEAD)
+#### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
 - [ ] [<code>Update libgda-5.0.vapi (#343)</code>](https://github.com/Alecaddd/sequeler/commit/0b02ddbe8a788b34207de6296d78a5c71ab6bab1)
 - [ ] [<code>Sort table list alphabetically (#373)</code>](https://github.com/Alecaddd/sequeler/commit/dbda4e75ed5a2f2d962003d7df5513ee9e5584ef)
@@ -467,7 +467,7 @@
 - [ ] [<code>l10n: Setup locales correctly (#393)</code>](https://github.com/Alecaddd/sequeler/commit/cee907446d2329bd3b982ba0e8b43ced821a28cd)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [snippetpixie](https://github.com/bytepixie/snippetpixie): [refs/tags/1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/refs/tags/1.5.3...HEAD)
+#### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
 - [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
   - <sub>Tags: <code>1.4.1</code></sub>
@@ -485,11 +485,11 @@
 - [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/bytepixie/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
 - [ ] [<code>Add project status to README.md</code>](https://github.com/bytepixie/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
 
-#### [spice-up](https://github.com/Philip-Scott/Spice-up): [refs/tags/1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/refs/tags/1.9.1...HEAD)
+#### [spice-up](https://github.com/Philip-Scott/Spice-up): [1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/1.9.1...HEAD)
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#326)</code>](https://github.com/Philip-Scott/Spice-up/commit/56647140c7725d0ec6c450eda1756eeea6fc766b)
 
-#### [taxi](https://github.com/Alecaddd/taxi): [refs/tags/2.0.2 → HEAD](https://github.com/Alecaddd/taxi/compare/refs/tags/2.0.2...HEAD)
+#### [taxi](https://github.com/Alecaddd/taxi): [2.0.2 → HEAD](https://github.com/Alecaddd/taxi/compare/2.0.2...HEAD)
 
 - [ ] [<code>Flatpak: bump runtime to 7.1 (#74)</code>](https://github.com/Alecaddd/taxi/commit/dd7165c7dbaee57f57e25fbf8b122e401a2515ba)
 - [ ] [<code>CI: add ARM and Lint (#75)</code>](https://github.com/Alecaddd/taxi/commit/7cd248c49464f17e692a68d63fa8d1002aef665c)
@@ -523,7 +523,7 @@
 - [ ] [<code>update ci</code>](https://github.com/Alecaddd/taxi/commit/92ef0a0ad7f45ebd75a64f3c8890f5a3bacf126d)
 - [ ] [<code>fix flatpak</code>](https://github.com/Alecaddd/taxi/commit/b1c81490641f102005d9451a33d21610c0637e22)
 
-#### [torrential](https://github.com/davidmhewitt/torrential): [refs/tags/3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/refs/tags/3.0.0...HEAD)
+#### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
 - [ ] [<code>build: Use gnome.post_install() (#201)</code>](https://github.com/davidmhewitt/torrential/commit/6d8e23a5b174e0d075413b683fcd8df8ab6459cd)
   - <sub>Files: <code>meson.build</code></sub>
@@ -533,7 +533,7 @@
 - [ ] [<code>Update runtime to 8 (#211)</code>](https://github.com/davidmhewitt/torrential/commit/cd2d7e0fc8d51426ac1bc1c1cdafbc9f3e5619b6)
 - [ ] [<code>Application: Granite.init (#212)</code>](https://github.com/davidmhewitt/torrential/commit/650f3cb4e0ae4f6b816f4128bb805b96b990f869)
 
-#### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.17...HEAD)
+#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.17...HEAD)
 
 - [ ] [<code>Mention PPA signing key in installation instructions (#625)</code>](https://github.com/JoseExposito/touchegg/commit/d1d36a33b14d44d9f8cf9a6c25696b9d6c7ded9f)
 - [ ] [<code>Add workarounds of 2 finger swipes for web browser navigation</code>](https://github.com/JoseExposito/touchegg/commit/3e5a684647a162e27b6478d08ce45c4e7bfc3d0c)
@@ -556,7 +556,7 @@
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
 
-#### [vocal](https://github.com/needle-and-thread/vocal): [refs/tags/2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/refs/tags/2.4.2...HEAD)
+#### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
 
 - [ ] [<code>Add integration point for other apps to provide feed discovery.</code>](https://github.com/needle-and-thread/vocal/commit/b8cc1a4afba4bcf1aa8803f68be2fc85286d824b)
   - <sub>Keywords: <code>exec</code></sub>
