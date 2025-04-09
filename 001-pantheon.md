@@ -596,6 +596,10 @@
 - [ ] [<code>Styles: use accent in checked states (#824)</code>](https://github.com/elementary/granite/commit/f9e42878cb22102c4e16f506a71ad0085c7a0721)
 - [ ] [<code>Styles: add Scale (#825)</code>](https://github.com/elementary/granite/commit/4e9ea574d6e39f9a623ce7e3105f4a5b926ff814)
 - [ ] [<code>Constants: deprecate dialog style classes (#828)</code>](https://github.com/elementary/granite/commit/c6760fa6129926a5cb94a6371250dfbfc9a3fe71)
+- [ ] [<code>Constants: deprecate menu related style classes (#827)</code>](https://github.com/elementary/granite/commit/5d8f4bf08f2886a19879b995f944b68b291ce324)
+- [ ] [<code>Constants: add CssClass.CIRCULAR (#832)</code>](https://github.com/elementary/granite/commit/b36c68d06e1f2c676f31914acbbf84b4c236542b)
+- [ ] [<code>Constants: deprecate MODE_SWITCH (#833)</code>](https://github.com/elementary/granite/commit/d097a2d5abfff344a45d5917c67acc1952491d59)
+- [ ] [<code>Constants: deprecate scale styles (#831)</code>](https://github.com/elementary/granite/commit/3a943451eb76fb94075a2722691d526015731da6)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
