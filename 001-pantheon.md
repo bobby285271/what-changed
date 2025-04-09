@@ -589,6 +589,13 @@
 - [ ] [<code>StyleManager: set accent color from portal (#704)</code>](https://github.com/elementary/granite/commit/da58664648ce6f18215f03b48ff02b4d4ceb9457)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Styles: Detail pass for buttons (#818)</code>](https://github.com/elementary/granite/commit/b28fe00e1a76df67f0b32a4f39c295a3cf914a56)
+- [ ] [<code>Add ListBox styles, Granite.ListItem (#783)</code>](https://github.com/elementary/granite/commit/ab10b1d14236ee5364138d1fef5ee558107ae062)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Styles: use accent in checked states (#824)</code>](https://github.com/elementary/granite/commit/f9e42878cb22102c4e16f506a71ad0085c7a0721)
+- [ ] [<code>Styles: add Scale (#825)</code>](https://github.com/elementary/granite/commit/4e9ea574d6e39f9a623ce7e3105f4a5b926ff814)
+- [ ] [<code>Constants: deprecate dialog style classes (#828)</code>](https://github.com/elementary/granite/commit/c6760fa6129926a5cb94a6371250dfbfc9a3fe71)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
