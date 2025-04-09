@@ -405,6 +405,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Shortcuts: gtk4 prep (#436)</code>](https://github.com/stsdc/monitor/commit/9381b3392445ff8074d3b0dfa735ab5c9d244b88)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>dev → main</code>](https://github.com/stsdc/monitor/commit/1ce7292f3e69e2e1e8f8dfcaf14391cf975a9cef)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
