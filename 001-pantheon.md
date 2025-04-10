@@ -206,6 +206,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Return and show all paste warnings (#866)</code>](https://github.com/elementary/terminal/commit/a021999a0da4fe7ce21d1613c42619168e4fc64e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>UnsafePaste: add -f and --force (#868)</code>](https://github.com/elementary/terminal/commit/9dacdc48eab6cc333af69407d0d8663ab4d2d2c3)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -336,6 +337,8 @@
 - [ ] [<code>Places: Create symlinks in Meson (#1342)</code>](https://github.com/elementary/icons/commit/87ab0654a8455cf146ad7ff8253ffdd6e9ccb2b1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Categories: outline style for applications-internet-symbolic (#1343)</code>](https://github.com/elementary/icons/commit/720b0765ad97b42a74f92e79f4bbd052a03313f9)
+- [ ] [<code>Mimes: Copy base files for templates at build time (#1346)</code>](https://github.com/elementary/icons/commit/0596236da3937fedcc3c8b2eba01bbdf65345ea1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -600,6 +603,9 @@
 - [ ] [<code>Constants: add CssClass.CIRCULAR (#832)</code>](https://github.com/elementary/granite/commit/b36c68d06e1f2c676f31914acbbf84b4c236542b)
 - [ ] [<code>Constants: deprecate MODE_SWITCH (#833)</code>](https://github.com/elementary/granite/commit/d097a2d5abfff344a45d5917c67acc1952491d59)
 - [ ] [<code>Constants: deprecate scale styles (#831)</code>](https://github.com/elementary/granite/commit/3a943451eb76fb94075a2722691d526015731da6)
+- [ ] [<code>Header: modernize h2 styles (#834)</code>](https://github.com/elementary/granite/commit/7e5dd672b63570a7938a7c3d82acbcff714d54ee)
+- [ ] [<code>Styles/Scale: add dragging style for slider (#830)</code>](https://github.com/elementary/granite/commit/7e0f1ebd9eb407a5dd9c32ab32db8d6b8fe72521)
+- [ ] [<code>Constants: add CssClass.SMALL (#837)</code>](https://github.com/elementary/granite/commit/caf67afb02a577bfb0b8bf421a603c60c1b7b772)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
