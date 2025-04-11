@@ -263,6 +263,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>autotools-build: Search for xdt-gen-visibility also in the working tree</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f579358dae5f410351b00d5ac1555793e523b35d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a9555ede2ada2faf1c25f74d7ed910060dc2a129)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -389,6 +390,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Prevent popups on wrong window (#1591) ()</code>](https://github.com/xfce-mirror/thunar/commit/464af7bde1d6404abe2669c6ade06e676e2b49d8)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/384451f5847841ed28de92e2940b55893cc018a0)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -808,6 +810,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/e16424c842b03e6200d23ff6bf4da24fc7d1253c)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/2e0d5ae0beb9856669f4c2cfeed7c542808d5863)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
