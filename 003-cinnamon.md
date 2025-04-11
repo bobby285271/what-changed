@@ -166,6 +166,7 @@
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
 - [ ] [<code>Update private.h: gcc-15 build fix (#667)</code>](https://github.com/linuxmint/xreader/commit/39b19ced58874908147d7aeaab8aa7674a123672)
+- [ ] [<code>epub: Disable support for sidebar thumbnails. (#671)</code>](https://github.com/linuxmint/xreader/commit/63f21d51f3c71320475c77dd1745f0c71a9d570b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
