@@ -606,6 +606,8 @@
 - [ ] [<code>Header: modernize h2 styles (#834)</code>](https://github.com/elementary/granite/commit/7e5dd672b63570a7938a7c3d82acbcff714d54ee)
 - [ ] [<code>Styles/Scale: add dragging style for slider (#830)</code>](https://github.com/elementary/granite/commit/7e0f1ebd9eb407a5dd9c32ab32db8d6b8fe72521)
 - [ ] [<code>Constants: add CssClass.SMALL (#837)</code>](https://github.com/elementary/granite/commit/caf67afb02a577bfb0b8bf421a603c60c1b7b772)
+- [ ] [<code>Constants: deprecate KEYCAP (#836)</code>](https://github.com/elementary/granite/commit/e8e6f1b6044726a5b5927495601a698af1d098ff)
+- [ ] [<code>Styles: Add padding and minimum sizes for buttons (#835)</code>](https://github.com/elementary/granite/commit/19a1b6ed15f2fef55d37d45a27e00d8336a5c778)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
