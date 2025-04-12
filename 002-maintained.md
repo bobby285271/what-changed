@@ -406,6 +406,9 @@
 - [ ] [<code>Shortcuts: gtk4 prep (#436)</code>](https://github.com/stsdc/monitor/commit/9381b3392445ff8074d3b0dfa735ab5c9d244b88)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>dev → main</code>](https://github.com/stsdc/monitor/commit/1ce7292f3e69e2e1e8f8dfcaf14391cf975a9cef)
+- [ ] [<code>Update repository URL (#437)</code>](https://github.com/stsdc/monitor/commit/2337092dce62b177e56743f29031f9c5d87607d6)
+- [ ] [<code>Improve metainfo (#438)</code>](https://github.com/stsdc/monitor/commit/7979a9684e67a4cffdf501291ef401bca4f9eedb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
