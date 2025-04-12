@@ -391,6 +391,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Prevent popups on wrong window (#1591) ()</code>](https://github.com/xfce-mirror/thunar/commit/464af7bde1d6404abe2669c6ade06e676e2b49d8)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/384451f5847841ed28de92e2940b55893cc018a0)
+- [ ] [<code>Rename search related variables</code>](https://github.com/xfce-mirror/thunar/commit/927f3e87a51ab3a769dcdc7a8b5b4995ac338a2d)
+- [ ] [<code>Add ability to stop a search (#1373)</code>](https://github.com/xfce-mirror/thunar/commit/3d73abdc05ba40ce09c04540d87fe4b7d2a74e70)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
