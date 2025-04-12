@@ -608,6 +608,9 @@
 - [ ] [<code>Constants: add CssClass.SMALL (#837)</code>](https://github.com/elementary/granite/commit/caf67afb02a577bfb0b8bf421a603c60c1b7b772)
 - [ ] [<code>Constants: deprecate KEYCAP (#836)</code>](https://github.com/elementary/granite/commit/e8e6f1b6044726a5b5927495601a698af1d098ff)
 - [ ] [<code>Styles: Add padding and minimum sizes for buttons (#835)</code>](https://github.com/elementary/granite/commit/19a1b6ed15f2fef55d37d45a27e00d8336a5c778)
+- [ ] [<code>Styles/GTK: add selection (#841)</code>](https://github.com/elementary/granite/commit/6f5a2a7af979a91769ff04397bbfe6130386db83)
+- [ ] [<code>Styles: add Gtk.Video (#840)</code>](https://github.com/elementary/granite/commit/55587d54f27a2e05138289d4758b916d65fe1323)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
