@@ -611,6 +611,7 @@
 - [ ] [<code>Styles/GTK: add selection (#841)</code>](https://github.com/elementary/granite/commit/6f5a2a7af979a91769ff04397bbfe6130386db83)
 - [ ] [<code>Styles: add Gtk.Video (#840)</code>](https://github.com/elementary/granite/commit/55587d54f27a2e05138289d4758b916d65fe1323)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles/Gtk: add ProgressBar (#842)</code>](https://github.com/elementary/granite/commit/cbce486dd87a46fec26dabbf667413f455e8fa80)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
