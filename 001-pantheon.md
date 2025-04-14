@@ -39,6 +39,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.52.4.tar.xz to 3.54.3 (#832)</code>](https://github.com/elementary/calendar/commit/2e67053e778e5606cb7e4c6e8c3d47b36a2cba64)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.54.3.tar.xz to 3.56.0 (#833)</code>](https://github.com/elementary/calendar/commit/7cad84e36b615132baf1b52327d92a2c8935126d)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.0.tar.xz to 3.56.1 (#835)</code>](https://github.com/elementary/calendar/commit/8760a419d31b65fc7689fe3cb6c514a90369cd9b)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -176,6 +177,7 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#793)</code>](https://github.com/elementary/photos/commit/1011cc8d68bc5842b8b41306453304bd7111bfef)
 - [ ] [<code>Fix some terminal warnings (#791)</code>](https://github.com/elementary/photos/commit/80361ef58825452e23116a1365b4c3131c934e57)
 - [ ] [<code>inih: Update inih to 59 (#796)</code>](https://github.com/elementary/photos/commit/e8b3ccbc3127607de0622014437373484ee9aa72)
+- [ ] [<code>inih: Update inih to 60 (#798)</code>](https://github.com/elementary/photos/commit/944ad21bd861d48218e12a91b0b4247fab546908)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
