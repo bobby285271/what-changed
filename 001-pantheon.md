@@ -203,6 +203,7 @@
 - [ ] [<code>Port to Gtk4 (#358)</code>](https://github.com/elementary/tasks/commit/e549548703fcb1ea3e3dbce965d88b0649b992b0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/tasks/commit/e01ee733f287a2a62ee3d6a6887056b5dc32d14c)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -653,6 +654,9 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.2.0...HEAD)
 
+- [ ] [<code>PrefersColorSchemeSettings: add gsetting</code>](https://github.com/elementary/settings-daemon/commit/e487b8a7fc84f5ac03555ea9629b9a13d12310cb)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Implement dark mode snoozing</code>](https://github.com/elementary/settings-daemon/commit/9f38b5387532cd2860a0f0cce4941dc95e1b0bf9)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
