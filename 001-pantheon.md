@@ -184,6 +184,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#298)</code>](https://github.com/elementary/screenshot/commit/16965a697145863e13b26b67c46d011b6b3b112a)
 - [ ] [<code>CI: run ARM workflows on arm64 runner (#300)</code>](https://github.com/elementary/screenshot/commit/80c13945a00e535afa8ef9a523a33ccf9bfa2b4c)
 - [ ] [<code>Bump platform to 8.1 (#301)</code>](https://github.com/elementary/screenshot/commit/8133dabf6f6eb31d00afbb1a5749ef6c6adf4526)
+- [ ] [<code>ScreenshotBackend: check for redacted font (#302)</code>](https://github.com/elementary/screenshot/commit/7af11444e84851b128e60398074445925c0745ea)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -199,6 +200,9 @@
 - [ ] [<code>ListSettingsPopover: GTK4 prep (#405)</code>](https://github.com/elementary/tasks/commit/87590e6b37fe5c076d3fd034b3b1a51977fe07d3)
 - [ ] [<code>ScheduledTaskListBox: GTK4 prep (#406)</code>](https://github.com/elementary/tasks/commit/4de1335283c1abfb680c95c6b16979da1dab970a)
 - [ ] [<code>Location: Granite.ModeButton → Gtk.RadioButton (#407)</code>](https://github.com/elementary/tasks/commit/ed84a5595a9475625c303095eaad05fb76bb5c88)
+- [ ] [<code>Port to Gtk4 (#358)</code>](https://github.com/elementary/tasks/commit/e549548703fcb1ea3e3dbce965d88b0649b992b0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -663,6 +667,8 @@
 
 - [ ] [<code>Update POTFILES (#125)</code>](https://github.com/elementary/portals/commit/219f37bb3670d3614a7982a6976680e2776fe48d)
 - [ ] [<code>Portal: Make autostart directory if not exists (#127)</code>](https://github.com/elementary/portals/commit/8fb7922cd82e9c32ffeeccfc00571f7c9a867450)
+- [ ] [<code>Check for redacted font (#130)</code>](https://github.com/elementary/portals/commit/34fec3ff7fd0477d72c4ce611c26a198983ffce1)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
