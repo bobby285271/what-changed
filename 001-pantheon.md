@@ -106,6 +106,9 @@
 - [ ] [<code>Implement workspace reordering with drag and drop (#392)</code>](https://github.com/elementary/dock/commit/bbaa79a06a67e4a22a9f38151f60f529c7cf1577)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Support long press on launchers (#398)</code>](https://github.com/elementary/dock/commit/d8561b930b74e010928c345f917310394c4ead37)
+- [ ] [<code>Remove dependency on libgee</code>](https://github.com/elementary/dock/commit/42880d7390782b81c3bc2ab1a3ce1e41d977405e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -204,6 +207,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/tasks/commit/e01ee733f287a2a62ee3d6a6887056b5dc32d14c)
+- [ ] [<code>TaskListGrid: use ToolbarView (#409)</code>](https://github.com/elementary/tasks/commit/65849440995df349037341830c6ae03ec3189888)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Sidebar: use Adw.ToolbarView, reduce indentation (#410)</code>](https://github.com/elementary/tasks/commit/ad0aa03e7e5d27599f469fae8d926d8106cb2bfa)
+- [ ] [<code>TaskRow: fix up appearance (#411)</code>](https://github.com/elementary/tasks/commit/951f7df08acf61335ab2e6f4ef9ac65715af1765)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Move Schedule and List views to Views folder (#412)</code>](https://github.com/elementary/tasks/commit/f5ce8dc04f1221ac17308167606785b32650c534)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -619,6 +631,7 @@
 - [ ] [<code>Styles: add Gtk.Video (#840)</code>](https://github.com/elementary/granite/commit/55587d54f27a2e05138289d4758b916d65fe1323)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles/Gtk: add ProgressBar (#842)</code>](https://github.com/elementary/granite/commit/cbce486dd87a46fec26dabbf667413f455e8fa80)
+- [ ] [<code>Styles/Scale: style values (#829)</code>](https://github.com/elementary/granite/commit/7e3e7c50fb24f2c77efb6e54fc244700493074ed)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -657,6 +670,7 @@
 - [ ] [<code>PrefersColorSchemeSettings: add gsetting</code>](https://github.com/elementary/settings-daemon/commit/e487b8a7fc84f5ac03555ea9629b9a13d12310cb)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Implement dark mode snoozing</code>](https://github.com/elementary/settings-daemon/commit/9f38b5387532cd2860a0f0cce4941dc95e1b0bf9)
+- [ ] [<code>Metainfo: add 8.3.0 release notes (#185)</code>](https://github.com/elementary/settings-daemon/commit/6ba09bfd5f659cb57a5d6b87b17479eb8194cbf0)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
