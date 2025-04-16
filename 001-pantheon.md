@@ -10,6 +10,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>AppIcon: reload on metadata remote preprocessed (#2282)</code>](https://github.com/elementary/appcenter/commit/9de84411b2b811c2f23a18c3c333e01237519b61)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Create screenshot widget (#2280)</code>](https://github.com/elementary/appcenter/commit/2ab7ae64df0c66f3422507dbbc99e8e0a9f3eccb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
