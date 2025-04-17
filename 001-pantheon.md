@@ -13,6 +13,8 @@
 - [ ] [<code>Create screenshot widget (#2280)</code>](https://github.com/elementary/appcenter/commit/2ab7ae64df0c66f3422507dbbc99e8e0a9f3eccb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add issue 2209 to release notes (#2285)</code>](https://github.com/elementary/appcenter/commit/5c29c11fe1dcc4736a50d1cc81e8afaa9de00fe3)
+- [ ] [<code>AppInfo: use provider.load_from_string (#2286)</code>](https://github.com/elementary/appcenter/commit/61e7acefaeadfae1a0cf8313cfd992e03b5a2d5d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -229,6 +231,7 @@
 - [ ] [<code>Return and show all paste warnings (#866)</code>](https://github.com/elementary/terminal/commit/a021999a0da4fe7ce21d1613c42619168e4fc64e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>UnsafePaste: add -f and --force (#868)</code>](https://github.com/elementary/terminal/commit/9dacdc48eab6cc333af69407d0d8663ab4d2d2c3)
+- [ ] [<code>Center the title, set min searchentry width (#841)</code>](https://github.com/elementary/terminal/commit/39766420c10d21152bca1e5b4dc46fa32276f64c)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -494,6 +497,8 @@
 - [ ] [<code>WorkspaceClone: Activate workspace here (#2349)</code>](https://github.com/elementary/gala/commit/5b3b60fba3e4f8c904853049c0e6a02ccbedb0fd)
 - [ ] [<code>Check for redacted font (#2313)</code>](https://github.com/elementary/gala/commit/c4f004c731b66a6133ce64474b1a7488e9aae6b1)
 - [ ] [<code>PositionedWindow: block position_changed signal while positioning (#2351)</code>](https://github.com/elementary/gala/commit/6aa63640a439f7ecc57d693f9a8707872404591a)
+- [ ] [<code>Update Metainfo (#2358)</code>](https://github.com/elementary/gala/commit/aa8d9e059a1a7c1b02d411f846ad65c2664c7ec3)
+- [ ] [<code>Streamline monitor scale passing (#2354)</code>](https://github.com/elementary/gala/commit/94ef835a7466d60c4a49dad533cdb605660cb05c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -690,6 +695,7 @@
 - [ ] [<code>Portal: Make autostart directory if not exists (#127)</code>](https://github.com/elementary/portals/commit/8fb7922cd82e9c32ffeeccfc00571f7c9a867450)
 - [ ] [<code>Check for redacted font (#130)</code>](https://github.com/elementary/portals/commit/34fec3ff7fd0477d72c4ce611c26a198983ffce1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.0.1 release notes (#131)</code>](https://github.com/elementary/portals/commit/620684e5ef8776306f57ff1214f7564ccdf801e2)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
