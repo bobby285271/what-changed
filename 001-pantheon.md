@@ -556,6 +556,7 @@
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
+- [ ] [<code>Scale: use GestureMultiPress instead of button release event (#289)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7e545f49730e7c90ee398a372f6e31e7896ada9f)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
