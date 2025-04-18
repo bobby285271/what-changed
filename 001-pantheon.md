@@ -499,6 +499,8 @@
 - [ ] [<code>PositionedWindow: block position_changed signal while positioning (#2351)</code>](https://github.com/elementary/gala/commit/6aa63640a439f7ecc57d693f9a8707872404591a)
 - [ ] [<code>Update Metainfo (#2358)</code>](https://github.com/elementary/gala/commit/aa8d9e059a1a7c1b02d411f846ad65c2664c7ec3)
 - [ ] [<code>Streamline monitor scale passing (#2354)</code>](https://github.com/elementary/gala/commit/94ef835a7466d60c4a49dad533cdb605660cb05c)
+- [ ] [<code>WindowSwitcher: Fix crash (#2361)</code>](https://github.com/elementary/gala/commit/08e78d68ea8a74dc39fb5f34e6d4193574f2f883)
+- [ ] [<code>Remove #2308 from metainfo (#2362)</code>](https://github.com/elementary/gala/commit/f0af8fd4c3e951f3ea4701f1d7b78b167eaa11f0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -640,6 +642,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles/Gtk: add ProgressBar (#842)</code>](https://github.com/elementary/granite/commit/cbce486dd87a46fec26dabbf667413f455e8fa80)
 - [ ] [<code>Styles/Scale: style values (#829)</code>](https://github.com/elementary/granite/commit/7e3e7c50fb24f2c77efb6e54fc244700493074ed)
+- [ ] [<code>Constants: deprecate STYLE_CLASS_FRAME (#844)</code>](https://github.com/elementary/granite/commit/884b0298c071f3bf1fbf75fb1915b0e2221626b5)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
