@@ -84,6 +84,7 @@
 - [ ] [<code>Timeout tree construction (#1515)</code>](https://github.com/elementary/code/commit/b267a506f3e84db97eb3ab8c0f7560e5aa2b9612)
 - [ ] [<code>Implement checkout of remote branches (#1516)</code>](https://github.com/elementary/code/commit/3481195a2e3804358ad374b4c7cf862498d78de9)
 - [ ] [<code>Correct tooltip message (#1547)</code>](https://github.com/elementary/code/commit/03d775a58ca80dee066fa47350365e90c23b95e0)
+- [ ] [<code>Persist current search term until intentionally changed (#1509)</code>](https://github.com/elementary/code/commit/09c844e19e2b46993252912f2df2187dd13fc0cc)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -232,6 +233,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>UnsafePaste: add -f and --force (#868)</code>](https://github.com/elementary/terminal/commit/9dacdc48eab6cc333af69407d0d8663ab4d2d2c3)
 - [ ] [<code>Center the title, set min searchentry width (#841)</code>](https://github.com/elementary/terminal/commit/39766420c10d21152bca1e5b4dc46fa32276f64c)
+- [ ] [<code>Change tab label to name of foreground child process (#838)</code>](https://github.com/elementary/terminal/commit/5b361050a561a58d2029cdfae59469aba9e56cc0)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -528,6 +530,12 @@
 - [ ] [<code>Fix meson deprecations (#317)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/b0f846fb5ab3b53a76f82f476c70c395b8557162)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>GridDay: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/7e7ea2030753e7cb93d556735638d8a21fe6aac3)
+- [ ] [<code>Grid: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/ce9a279817989d33fcf88cb88bf98058d3ca0f6b)
+- [ ] [<code>PanelLabel: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/2252b21df5732369fc6a22c10b5b40528a161f6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Indicator: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/5f2b123b66e468cdecea50bd628f0cc91866f08c)
+- [ ] [<code>TimeManager: Don't derive from Gtk.Calendar</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c505f177de9de3daa482665d0e47a3a96f24b669)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -683,6 +691,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Implement dark mode snoozing</code>](https://github.com/elementary/settings-daemon/commit/9f38b5387532cd2860a0f0cce4941dc95e1b0bf9)
 - [ ] [<code>Metainfo: add 8.3.0 release notes (#185)</code>](https://github.com/elementary/settings-daemon/commit/6ba09bfd5f659cb57a5d6b87b17479eb8194cbf0)
+- [ ] [<code>Release 8.3.0 (#186)</code>](https://github.com/elementary/settings-daemon/commit/f4a30e80e07121f80022ed85e112e52fdbda7835)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
