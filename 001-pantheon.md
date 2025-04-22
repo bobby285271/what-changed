@@ -22,6 +22,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#280)</code>](https://github.com/elementary/calculator/commit/51fb4e80c386738f8e14f347f256e3181773af82)
 - [ ] [<code>CI: run arm workflows on arm runner (#281)</code>](https://github.com/elementary/calculator/commit/bb93d63914cf537f5fbc8a163ffa06cc13ca7ec7)
 - [ ] [<code>Bump platform to 8.1 (#282)</code>](https://github.com/elementary/calculator/commit/def2274543dc70e2b2cb0012c7d0b88a14b6f37e)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#283)</code>](https://github.com/elementary/calculator/commit/712eb9d6d9c224a64b4d6c7e5ae6e82758d3bde3)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -45,6 +46,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.54.3.tar.xz to 3.56.0 (#833)</code>](https://github.com/elementary/calendar/commit/7cad84e36b615132baf1b52327d92a2c8935126d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.0.tar.xz to 3.56.1 (#835)</code>](https://github.com/elementary/calendar/commit/8760a419d31b65fc7689fe3cb6c514a90369cd9b)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#836)</code>](https://github.com/elementary/calendar/commit/92b9d31b2f1af591e7124a5993ac0e33347f231d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -85,6 +87,7 @@
 - [ ] [<code>Implement checkout of remote branches (#1516)</code>](https://github.com/elementary/code/commit/3481195a2e3804358ad374b4c7cf862498d78de9)
 - [ ] [<code>Correct tooltip message (#1547)</code>](https://github.com/elementary/code/commit/03d775a58ca80dee066fa47350365e90c23b95e0)
 - [ ] [<code>Persist current search term until intentionally changed (#1509)</code>](https://github.com/elementary/code/commit/09c844e19e2b46993252912f2df2187dd13fc0cc)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1552)</code>](https://github.com/elementary/code/commit/b2fba8055b117e9fa2f236ee6844ec95bce34eb6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -139,6 +142,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#61)</code>](https://github.com/elementary/iconbrowser/commit/13232a1fc8b19158b2d209c1a934704b242517b1)
 - [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
 - [ ] [<code>Bump to platform 8.1 (#63)</code>](https://github.com/elementary/iconbrowser/commit/90678378fb68eeeac49a702d4d7a8ca3aaf0015f)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#65)</code>](https://github.com/elementary/iconbrowser/commit/114bf74a4367b9a8b49dd932160f5f94847da93f)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
@@ -154,6 +158,7 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#1010)</code>](https://github.com/elementary/mail/commit/28988a0aec9bea0247486b556e21c39de6536c1f)
 - [ ] [<code>CI: run arm workflows on arm runner (#1011)</code>](https://github.com/elementary/mail/commit/814073619a080eb82b4a625f84b773c08137e5ae)
 - [ ] [<code>Flatpak: Use libportal from Platform (#1013)</code>](https://github.com/elementary/mail/commit/8d42b60b67bc620b8cf3dc1b10cb90b824c443fe)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1019)</code>](https://github.com/elementary/mail/commit/d0e9356a600cf00c6060a8703da96505119db8ec)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -170,6 +175,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Correctly display arists name in NowPlayingView (#804)</code>](https://github.com/elementary/music/commit/fc2da44f73e3eee5ec3b6a09dbf0928809294e44)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#807)</code>](https://github.com/elementary/music/commit/1fc97842e9aaf99e350b7361cbe355d1028bc334)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -187,6 +193,7 @@
 - [ ] [<code>Fix some terminal warnings (#791)</code>](https://github.com/elementary/photos/commit/80361ef58825452e23116a1365b4c3131c934e57)
 - [ ] [<code>inih: Update inih to 59 (#796)</code>](https://github.com/elementary/photos/commit/e8b3ccbc3127607de0622014437373484ee9aa72)
 - [ ] [<code>inih: Update inih to 60 (#798)</code>](https://github.com/elementary/photos/commit/944ad21bd861d48218e12a91b0b4247fab546908)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#799)</code>](https://github.com/elementary/photos/commit/8b0b21dad018c52051f3ed7fadb7cb123c4f89ba)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -194,6 +201,7 @@
 - [ ] [<code>CI: run ARM workflows on arm64 runner (#300)</code>](https://github.com/elementary/screenshot/commit/80c13945a00e535afa8ef9a523a33ccf9bfa2b4c)
 - [ ] [<code>Bump platform to 8.1 (#301)</code>](https://github.com/elementary/screenshot/commit/8133dabf6f6eb31d00afbb1a5749ef6c6adf4526)
 - [ ] [<code>ScreenshotBackend: check for redacted font (#302)</code>](https://github.com/elementary/screenshot/commit/7af11444e84851b128e60398074445925c0745ea)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#304)</code>](https://github.com/elementary/screenshot/commit/b0011ce2481d84dba756e6859139ad11f244cc62)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -222,6 +230,8 @@
 - [ ] [<code>Move Schedule and List views to Views folder (#412)</code>](https://github.com/elementary/tasks/commit/f5ce8dc04f1221ac17308167606785b32650c534)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>protobuf-c: Update protobuf-c-1.5.1.tar.gz to 1.5.2 (#413)</code>](https://github.com/elementary/tasks/commit/be61ffc1c8ca65bf369271f2f1ec1ad80baa191d)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#414)</code>](https://github.com/elementary/tasks/commit/660f52419f359343aefbac7410aef12f2c3b0556)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -681,19 +691,13 @@
 
 - [ ] [<code>Actions: bump flatpak to 6.4 (#126)</code>](https://github.com/elementary/capnet-assist/commit/a32c2526bfef06b5f8acec83530dd0b975e691e8)
 - [ ] [<code>CI: run arm workflows on arm runner (#127)</code>](https://github.com/elementary/capnet-assist/commit/a2abc03f9c687eb234423aa1d424fab8e951761b)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#129)</code>](https://github.com/elementary/capnet-assist/commit/28d6d07695e91e65280d097b35498868fffe8778)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.2.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.2.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
 
-- [ ] [<code>PrefersColorSchemeSettings: add gsetting</code>](https://github.com/elementary/settings-daemon/commit/e487b8a7fc84f5ac03555ea9629b9a13d12310cb)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Implement dark mode snoozing</code>](https://github.com/elementary/settings-daemon/commit/9f38b5387532cd2860a0f0cce4941dc95e1b0bf9)
-- [ ] [<code>Metainfo: add 8.3.0 release notes (#185)</code>](https://github.com/elementary/settings-daemon/commit/6ba09bfd5f659cb57a5d6b87b17479eb8194cbf0)
-- [ ] [<code>Release 8.3.0 (#186)</code>](https://github.com/elementary/settings-daemon/commit/f4a30e80e07121f80022ed85e112e52fdbda7835)
-  - <sub>Tags: <code>8.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
