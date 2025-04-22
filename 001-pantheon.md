@@ -555,6 +555,11 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
+- [ ] [<code>DisplayWidget: gtk4 prep (#323)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/eb4fe6164a50a645b7a528161284babc958b18b5)
+- [ ] [<code>WifiInterface: replace listbox iterator for GTK4</code>](https://github.com/elementary/wingpanel-indicator-network/commit/30fa4d87fadb24ac3bc56f72be72418113e3caed)
+- [ ] [<code>VpnInterface: replace flowbox iterator for GTK4</code>](https://github.com/elementary/wingpanel-indicator-network/commit/fa8af7ad10a755880a47dfb0025f95a9759dd703)
+- [ ] [<code>PopoverWidget: replace flowbox iterator for GTK4</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bf29035246f34c9f86c9c3f351379212aa6cf28d)
+- [ ] [<code>Add styles to screen</code>](https://github.com/elementary/wingpanel-indicator-network/commit/64b7f7ec821c6b3ee43a69a8826b644e87f0553a)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
