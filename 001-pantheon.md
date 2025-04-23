@@ -15,6 +15,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Metainfo: add issue 2209 to release notes (#2285)</code>](https://github.com/elementary/appcenter/commit/5c29c11fe1dcc4736a50d1cc81e8afaa9de00fe3)
 - [ ] [<code>AppInfo: use provider.load_from_string (#2286)</code>](https://github.com/elementary/appcenter/commit/61e7acefaeadfae1a0cf8313cfd992e03b5a2d5d)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/2f0acc8166e6a4146600fd0f219f8e5a109a5a88)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -88,6 +89,8 @@
 - [ ] [<code>Correct tooltip message (#1547)</code>](https://github.com/elementary/code/commit/03d775a58ca80dee066fa47350365e90c23b95e0)
 - [ ] [<code>Persist current search term until intentionally changed (#1509)</code>](https://github.com/elementary/code/commit/09c844e19e2b46993252912f2df2187dd13fc0cc)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1552)</code>](https://github.com/elementary/code/commit/b2fba8055b117e9fa2f236ee6844ec95bce34eb6)
+- [ ] [<code>Silence some warnings (#1488)</code>](https://github.com/elementary/code/commit/9da4dbc656784bf947e9fe13d542dc9f1fb8a37c)
+- [ ] [<code>Update construction of completion provider (#1528)</code>](https://github.com/elementary/code/commit/f1341d1bca1cca3ac9b97544c43a6378c1fa874a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -534,6 +537,11 @@
 - [ ] [<code>Remove unused LibNotify dep (#220)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/395f3476c8d8af943eb40dd832897d5c6e4c3b5e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Device: GTK4 Prep (#223)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/4e9bd09f21a8fbbd296d93aadec89fdeff8ed238)
+- [ ] [<code>DisplayWidget: gtk4 prep (#224)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/363caf8c885aaae9edd067d908b9d31dcc267185)
+- [ ] [<code>PopoverWidget: GTK4 prep (#225)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/28f0b8ccd4cf1416c6606ab21644ba9c87412f2d)
+- [ ] [<code>DisplayWidget: subclass Gtk.Bin (#226)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/f9069293647f88564205510c391f8bd845e5c854)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -560,6 +568,12 @@
 - [ ] [<code>VpnInterface: replace flowbox iterator for GTK4</code>](https://github.com/elementary/wingpanel-indicator-network/commit/fa8af7ad10a755880a47dfb0025f95a9759dd703)
 - [ ] [<code>PopoverWidget: replace flowbox iterator for GTK4</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bf29035246f34c9f86c9c3f351379212aa6cf28d)
 - [ ] [<code>Add styles to screen</code>](https://github.com/elementary/wingpanel-indicator-network/commit/64b7f7ec821c6b3ee43a69a8826b644e87f0553a)
+- [ ] [<code>VpnInterface: bind model (#326)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/d76fd658b29b7d8d3834c33c25f4545fcbae677e)
+- [ ] [<code>Indicator: use gesture for middle click (#327)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b0b8443975c0549dc178c8035398dfc27622363e)
+- [ ] [<code>PopoverWidget: GTK4 prep (#328)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/77e1d317056f5dd813efcdc51ac044ec4461f998)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/9c11a7d80bb8ab2274057ef8f55788a1402dfafa)
+- [ ] [<code>WifiMenuItem: GTK4 prep (#330)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b120cbec285b39b987b00798678f73c827528afd)
+- [ ] [<code>WifiInterface: GTK4 prep (#329)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f95de24dc572118aec3d63b1299bce6771f3901a)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -730,6 +744,7 @@
 - [ ] [<code>Update apparmor-profiles.chroot (#759)</code>](https://github.com/elementary/os/commit/229c73684914c19a2655a16d8865bf8c1ea8b876)
   - <sub>Tags: <code>8.0.1-rc2</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>replace deprecated apt-key (#764)</code>](https://github.com/elementary/os/commit/0146c9da82893f94c03c686e6fcb9a34f30ed4e6)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
