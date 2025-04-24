@@ -688,6 +688,8 @@
 - [ ] [<code>Styles/Gtk: add ProgressBar (#842)</code>](https://github.com/elementary/granite/commit/cbce486dd87a46fec26dabbf667413f455e8fa80)
 - [ ] [<code>Styles/Scale: style values (#829)</code>](https://github.com/elementary/granite/commit/7e3e7c50fb24f2c77efb6e54fc244700493074ed)
 - [ ] [<code>Constants: deprecate STYLE_CLASS_FRAME (#844)</code>](https://github.com/elementary/granite/commit/884b0298c071f3bf1fbf75fb1915b0e2221626b5)
+- [ ] [<code>Styles: fix selected colors for dark mode (#851)</code>](https://github.com/elementary/granite/commit/b3410b60f61f9cc532a3993e2b9669e9445bc56e)
+- [ ] [<code>Style (pane) separators and sidebars (#850)</code>](https://github.com/elementary/granite/commit/47e8a713f92e56ec6a3bf3fcb2a3cd8a87eda597)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
