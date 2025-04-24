@@ -139,6 +139,7 @@
 - [ ] [<code>Gtk4 Prep - Use dialog.response.connect () pattern (#2568)</code>](https://github.com/elementary/files/commit/83d770f9c527458316f5cedb90eceea79416048a)
 - [ ] [<code>Renamer: Avoid listbox get_children (#2564)</code>](https://github.com/elementary/files/commit/e8aba118e0a8e9c16e1736044cb52d5e706ccd43)
 - [ ] [<code>FileChooserDialog: show_all dialog contents (#2569)</code>](https://github.com/elementary/files/commit/8a359efea7ccb5169af58c8798aabf17a9d16520)
+- [ ] [<code>Show context menu on all areas of sidebar (#2575)</code>](https://github.com/elementary/files/commit/2b8cf1686393f5a07271d3cda835caad881e1c23)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -574,12 +575,18 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/9c11a7d80bb8ab2274057ef8f55788a1402dfafa)
 - [ ] [<code>WifiMenuItem: GTK4 prep (#330)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b120cbec285b39b987b00798678f73c827528afd)
 - [ ] [<code>WifiInterface: GTK4 prep (#329)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/f95de24dc572118aec3d63b1299bce6771f3901a)
+- [ ] [<code>meson: Require gio-2.0 >= 2.74 (#331)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e3b6f96b1e97f35c7d418050c0b0017bb1ea8e65)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
 - [ ] [<code>Fix meson deprecations (#107)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/a0d1899071d66819e45ec250186ef4abc3927e66)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Indicator: middle click with gesture (#110)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/1b71fb9e5e465b00ef2887b500d943c433bcb56d)
+- [ ] [<code>Indicator: add css provider for screen (#109)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4fdc15eed5329880aa31b20ffff276d2ccc44aaa)
+- [ ] [<code>Indicator: remove unnecessary construction args (#108)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/0fef8c219a54fd60c17251d55dacaaada153ef5d)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
