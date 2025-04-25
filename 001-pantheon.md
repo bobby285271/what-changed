@@ -690,6 +690,7 @@
 - [ ] [<code>Constants: deprecate STYLE_CLASS_FRAME (#844)</code>](https://github.com/elementary/granite/commit/884b0298c071f3bf1fbf75fb1915b0e2221626b5)
 - [ ] [<code>Styles: fix selected colors for dark mode (#851)</code>](https://github.com/elementary/granite/commit/b3410b60f61f9cc532a3993e2b9669e9445bc56e)
 - [ ] [<code>Style (pane) separators and sidebars (#850)</code>](https://github.com/elementary/granite/commit/47e8a713f92e56ec6a3bf3fcb2a3cd8a87eda597)
+- [ ] [<code>Styles/Gtk: add .toolbar (#853)</code>](https://github.com/elementary/granite/commit/735768058abc1853b291cb256431558d1adecf1e)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
