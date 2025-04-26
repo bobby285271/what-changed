@@ -578,6 +578,10 @@
 - [ ] [<code>meson: Require gio-2.0 >= 2.74 (#331)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e3b6f96b1e97f35c7d418050c0b0017bb1ea8e65)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Create SettingsToggle widget</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3cdf0ee59835399b9a54f5b2d4577f4301249457)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>EtherInterface: use SettingsToggle</code>](https://github.com/elementary/wingpanel-indicator-network/commit/9c4de5abcfc784086764d2f8489bbae3b3e043d8)
+- [ ] [<code>VPnMenuItem: use SettingsToggle</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0b493a9d366ed03cb55964af7b7939de19f6ff7e)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -691,6 +695,7 @@
 - [ ] [<code>Styles: fix selected colors for dark mode (#851)</code>](https://github.com/elementary/granite/commit/b3410b60f61f9cc532a3993e2b9669e9445bc56e)
 - [ ] [<code>Style (pane) separators and sidebars (#850)</code>](https://github.com/elementary/granite/commit/47e8a713f92e56ec6a3bf3fcb2a3cd8a87eda597)
 - [ ] [<code>Styles/Gtk: add .toolbar (#853)</code>](https://github.com/elementary/granite/commit/735768058abc1853b291cb256431558d1adecf1e)
+- [ ] [<code>Styles/Gtk/Button: checked extends selection (#852)</code>](https://github.com/elementary/granite/commit/b82be316171c1985ca0115d952eb1c87885a74a0)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
