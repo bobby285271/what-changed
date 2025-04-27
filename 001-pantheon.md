@@ -582,6 +582,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>EtherInterface: use SettingsToggle</code>](https://github.com/elementary/wingpanel-indicator-network/commit/9c4de5abcfc784086764d2f8489bbae3b3e043d8)
 - [ ] [<code>VPnMenuItem: use SettingsToggle</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0b493a9d366ed03cb55964af7b7939de19f6ff7e)
+- [ ] [<code>WifiMenuItem: button_release_event → notify active (#334)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c5e89d8c0fa8bfa55836a79bb227ebffa3642bd6)
+- [ ] [<code>Wifiinterface: Don't subclass Gtk.Label (#335)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6810848c0aef72f32673ca74d1b20975c768cf85)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
