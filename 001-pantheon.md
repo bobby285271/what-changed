@@ -360,6 +360,8 @@
 
 - [ ] [<code>Add Latte - the Lost Stylesheet, to the built sheets (#1315)</code>](https://github.com/elementary/stylesheet/commit/71fd2a7f922a3910bc71e02ece18c2a0a64811f5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adw/PreferencesWindow: fix crash in Ephy (#1317)</code>](https://github.com/elementary/stylesheet/commit/97fecb91c7331d5a097c24da9bd33a29bddd0af2)
+- [ ] [<code>Adw/PreferencesWindow: add some style fixes (#1318)</code>](https://github.com/elementary/stylesheet/commit/be3742f3198541ff794c2c65469ea8dcf5f19367)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -561,6 +563,7 @@
 - [ ] [<code>Fix meson deprecations (#129)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d69a0b077649280da03d5ac44da4ddd055e0bcf9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Indicator: Gtk4 Prep (#134)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bd9b23d961d77a9691743ea4d7fe1c1cf2cdbc1e)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -698,6 +701,7 @@
 - [ ] [<code>Style (pane) separators and sidebars (#850)</code>](https://github.com/elementary/granite/commit/47e8a713f92e56ec6a3bf3fcb2a3cd8a87eda597)
 - [ ] [<code>Styles/Gtk: add .toolbar (#853)</code>](https://github.com/elementary/granite/commit/735768058abc1853b291cb256431558d1adecf1e)
 - [ ] [<code>Styles/Gtk/Button: checked extends selection (#852)</code>](https://github.com/elementary/granite/commit/b82be316171c1985ca0115d952eb1c87885a74a0)
+- [ ] [<code>Icons: add sidebar icons (#854)</code>](https://github.com/elementary/granite/commit/6f8d45039a1a1003ba3bb2131cbb61b31b26088c)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
