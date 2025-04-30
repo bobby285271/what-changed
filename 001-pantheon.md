@@ -395,6 +395,10 @@
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.0.3 → HEAD](https://github.com/elementary/default-settings/compare/8.0.3...HEAD)
 
+- [ ] [<code>Add beacondb for GeoClue (#331)</code>](https://github.com/elementary/default-settings/commit/9fade768d917a2c8e04a343469920be67eceacc0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Meson: make geoclue conf optional (#332)</code>](https://github.com/elementary/default-settings/commit/b580c0b9c67242bc545bae78af96c27bfa2b5668)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -702,6 +706,8 @@
 - [ ] [<code>Styles/Gtk: add .toolbar (#853)</code>](https://github.com/elementary/granite/commit/735768058abc1853b291cb256431558d1adecf1e)
 - [ ] [<code>Styles/Gtk/Button: checked extends selection (#852)</code>](https://github.com/elementary/granite/commit/b82be316171c1985ca0115d952eb1c87885a74a0)
 - [ ] [<code>Icons: add sidebar icons (#854)</code>](https://github.com/elementary/granite/commit/6f8d45039a1a1003ba3bb2131cbb61b31b26088c)
+- [ ] [<code>Styles: make dark theme darker (#855)</code>](https://github.com/elementary/granite/commit/f4057038df7c4a01bb86c7ef7bb9aec6a7ef3e78)
+- [ ] [<code>Styles/Controls: make active/checked .text-button flat (#856)</code>](https://github.com/elementary/granite/commit/46dc7bcf3116edb2db20e37246550933179304ed)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
