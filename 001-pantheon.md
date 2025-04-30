@@ -708,6 +708,9 @@
 - [ ] [<code>Icons: add sidebar icons (#854)</code>](https://github.com/elementary/granite/commit/6f8d45039a1a1003ba3bb2131cbb61b31b26088c)
 - [ ] [<code>Styles: make dark theme darker (#855)</code>](https://github.com/elementary/granite/commit/f4057038df7c4a01bb86c7ef7bb9aec6a7ef3e78)
 - [ ] [<code>Styles/Controls: make active/checked .text-button flat (#856)</code>](https://github.com/elementary/granite/commit/46dc7bcf3116edb2db20e37246550933179304ed)
+- [ ] [<code>Styles/Gtk/Video: fix dark mode contrast (#859)</code>](https://github.com/elementary/granite/commit/3cfbe1ac64ece3fea893a368a9c6f96fce210cfa)
+- [ ] [<code>Styles/Gtk/Button: make all image-buttons bouncy (#858)</code>](https://github.com/elementary/granite/commit/b26f52b5ccad55121e45b8f2c5bdc234d1aa0814)
+- [ ] [<code>Demo: check toggles by default (#860)</code>](https://github.com/elementary/granite/commit/b31be1127de496fca34803d01533c26022ce1a71)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
