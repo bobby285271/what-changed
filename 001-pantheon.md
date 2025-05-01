@@ -568,6 +568,13 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Indicator: Gtk4 Prep (#134)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bd9b23d961d77a9691743ea4d7fe1c1cf2cdbc1e)
+- [ ] [<code>Indicator: absorb KeyboardIcon (#135)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/4045a5d203e067e349f66094ba6c266a7dcf3bb9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>LayoutsManager: code style cleanup (#136)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/3b1f1a19e2928fb03d6954cdcf56d9ed40c3dfaf)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Create PopoverWidget (#137)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/4a9d371ee14e80a502651c7c4489f68d23bf3469)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
