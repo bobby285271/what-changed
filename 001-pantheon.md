@@ -273,6 +273,7 @@
 - [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
 - [ ] [<code>OperatingSystemView: more explicit restart directions (#370)</code>](https://github.com/elementary/switchboard-plug-about/commit/8618414349e34e646721058848b0df8cfdd8c0a9)
 - [ ] [<code>README: Fix broken Weblate badge (#373)</code>](https://github.com/elementary/switchboard-plug-about/commit/1a51f25219bcab860c09bb059338149d5e6d02b6)
+- [ ] [<code>Metainfo: add restart message to issues (#376)</code>](https://github.com/elementary/switchboard-plug-about/commit/939df8385636c612fc9a408621841950b53565ba)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -399,6 +400,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Meson: make geoclue conf optional (#332)</code>](https://github.com/elementary/default-settings/commit/b580c0b9c67242bc545bae78af96c27bfa2b5668)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Packaging: add geoclue to install</code>](https://github.com/elementary/default-settings/commit/60dc6e0234b5809b1bd4f14b786e2403f2db9f68)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -575,6 +578,8 @@
 - [ ] [<code>Create PopoverWidget (#137)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/4a9d371ee14e80a502651c7c4489f68d23bf3469)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>LayoutButton: rewrite in GObject style (#139)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d121a125ed456ccef309f7d95f64b2b5bfe1526b)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -598,6 +603,8 @@
 - [ ] [<code>VPnMenuItem: use SettingsToggle</code>](https://github.com/elementary/wingpanel-indicator-network/commit/0b493a9d366ed03cb55964af7b7939de19f6ff7e)
 - [ ] [<code>WifiMenuItem: button_release_event → notify active (#334)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c5e89d8c0fa8bfa55836a79bb227ebffa3642bd6)
 - [ ] [<code>Wifiinterface: Don't subclass Gtk.Label (#335)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6810848c0aef72f32673ca74d1b20975c768cf85)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c4e7d218de3cfcddde3abe801fc88f01b6ddd127)
+- [ ] [<code>Metainfo: add 8.0.0 release notes (#336)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/551e364ed864f49830b1e7767811c43a795333a1)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
