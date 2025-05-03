@@ -16,6 +16,9 @@
 - [ ] [<code>Metainfo: add issue 2209 to release notes (#2285)</code>](https://github.com/elementary/appcenter/commit/5c29c11fe1dcc4736a50d1cc81e8afaa9de00fe3)
 - [ ] [<code>AppInfo: use provider.load_from_string (#2286)</code>](https://github.com/elementary/appcenter/commit/61e7acefaeadfae1a0cf8313cfd992e03b5a2d5d)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/2f0acc8166e6a4146600fd0f219f8e5a109a5a88)
+- [ ] [<code>Release 8.2.0 (#2289)</code>](https://github.com/elementary/appcenter/commit/469da3034ede097abf265ed72c11ebfe1040809b)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -206,6 +209,11 @@
 - [ ] [<code>Bump platform to 8.1 (#301)</code>](https://github.com/elementary/screenshot/commit/8133dabf6f6eb31d00afbb1a5749ef6c6adf4526)
 - [ ] [<code>ScreenshotBackend: check for redacted font (#302)</code>](https://github.com/elementary/screenshot/commit/7af11444e84851b128e60398074445925c0745ea)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#304)</code>](https://github.com/elementary/screenshot/commit/b0011ce2481d84dba756e6859139ad11f244cc62)
+- [ ] [<code>Use Gtk.FileDialog to choose screenshots folder (#305)</code>](https://github.com/elementary/screenshot/commit/74763e797666335bd7ee5a11376188b3c780151c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix screenshot is not saved to the selected folder if changed</code>](https://github.com/elementary/screenshot/commit/8e548bf93d44918ae35698242e1b434503bbe70a)
+- [ ] [<code>Add release notes</code>](https://github.com/elementary/screenshot/commit/aa4191cba768bd54a3f1bbd3b614f88e9723f9c7)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -236,6 +244,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>protobuf-c: Update protobuf-c-1.5.1.tar.gz to 1.5.2 (#413)</code>](https://github.com/elementary/tasks/commit/be61ffc1c8ca65bf369271f2f1ec1ad80baa191d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#414)</code>](https://github.com/elementary/tasks/commit/660f52419f359343aefbac7410aef12f2c3b0556)
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/tasks/commit/ca5e566b21c9977e988d4553776216c4e7db34bc)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -274,6 +283,9 @@
 - [ ] [<code>OperatingSystemView: more explicit restart directions (#370)</code>](https://github.com/elementary/switchboard-plug-about/commit/8618414349e34e646721058848b0df8cfdd8c0a9)
 - [ ] [<code>README: Fix broken Weblate badge (#373)</code>](https://github.com/elementary/switchboard-plug-about/commit/1a51f25219bcab860c09bb059338149d5e6d02b6)
 - [ ] [<code>Metainfo: add restart message to issues (#376)</code>](https://github.com/elementary/switchboard-plug-about/commit/939df8385636c612fc9a408621841950b53565ba)
+- [ ] [<code>Release 8.2.1 (#377)</code>](https://github.com/elementary/switchboard-plug-about/commit/30ab29079f9cc9d6ee8b6cb47d3228424f784c6f)
+  - <sub>Tags: <code>8.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -289,11 +301,15 @@
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.1...HEAD)
 
+- [ ] [<code>Styles: add scale.warmth (#410)</code>](https://github.com/elementary/switchboard-plug-display/commit/0fd89e66acc5fed4fa8b731f49dfcf5468742645)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/switchboard-plug-keyboard): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-keyboard/compare/8.0.1...HEAD)
 
 - [ ] [<code>Meson: add log domain (#522)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/6514b0b59ed16943c172c6941056322c5b4c5222)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update project URLs</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2abefe1619f417cd6b78995a2d5677c7b6157a06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1949390576e744e7c7a853bc2ae5b8d3cad8156f)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -339,6 +355,9 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/133b4f0c112b332a527b18a55e38a7f5cdbc5a62)
 - [ ] [<code>FirewallPanel: get permission async (#185)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/08c818a19eebca825e35967f7e596e817331352b)
+- [ ] [<code>Use Gtk.FileDialog to choose excluded folders (#186)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7ce1832140845113302ff103b56c742b63f5e2ec)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
 
@@ -355,6 +374,10 @@
 - [ ] [<code>Fix some build warnings (#71)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/db18e2252fdc6c1e47cfbd15c5d1fdd943fa794f)
 - [ ] [<code>Add check for stylus detection (#70)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/45a453b3f5ffbffefbc7067cd986b5865e8742c8)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/fd95c16eaf3ba17d94fb1aca985d9bb476b9e497)
+- [ ] [<code>Release 8.0.1 (#74)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/ccf40dd4c3e3ee89c4fad2cb1dd5d46e6d9b2cd5)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/30954eeaedeedca6769c8085780a5b9e0e1b09b7)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.0 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.0...HEAD)
@@ -605,6 +628,7 @@
 - [ ] [<code>Wifiinterface: Don't subclass Gtk.Label (#335)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6810848c0aef72f32673ca74d1b20975c768cf85)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c4e7d218de3cfcddde3abe801fc88f01b6ddd127)
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#336)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/551e364ed864f49830b1e7767811c43a795333a1)
+- [ ] [<code>PopoverWidget: add stateful icons to Airplane Mode (#338)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ae27afc395295ff035bdc87e1e2fdc987072682)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -755,6 +779,8 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#126)</code>](https://github.com/elementary/capnet-assist/commit/a32c2526bfef06b5f8acec83530dd0b975e691e8)
 - [ ] [<code>CI: run arm workflows on arm runner (#127)</code>](https://github.com/elementary/capnet-assist/commit/a2abc03f9c687eb234423aa1d424fab8e951761b)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#129)</code>](https://github.com/elementary/capnet-assist/commit/28d6d07695e91e65280d097b35498868fffe8778)
+- [ ] [<code>Bump platform to 8.1 (#128)</code>](https://github.com/elementary/capnet-assist/commit/3b8ee44b773213a3c88809ebef09a01aba24dacf)
+- [ ] [<code>MainWindow: Fix build warnings (#131)</code>](https://github.com/elementary/capnet-assist/commit/2181117d01ee44442eed8cfab00604fe3dbcf907)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
@@ -778,6 +804,9 @@
 - [ ] [<code>Check for redacted font (#130)</code>](https://github.com/elementary/portals/commit/34fec3ff7fd0477d72c4ce611c26a198983ffce1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#131)</code>](https://github.com/elementary/portals/commit/620684e5ef8776306f57ff1214f7564ccdf801e2)
+- [ ] [<code>Release 8.0.1 (#133)</code>](https://github.com/elementary/portals/commit/7809dddacff401abefc8f84baa99b9b4d170829a)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
