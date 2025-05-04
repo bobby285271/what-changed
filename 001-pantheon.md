@@ -94,6 +94,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1552)</code>](https://github.com/elementary/code/commit/b2fba8055b117e9fa2f236ee6844ec95bce34eb6)
 - [ ] [<code>Silence some warnings (#1488)</code>](https://github.com/elementary/code/commit/9da4dbc656784bf947e9fe13d542dc9f1fb8a37c)
 - [ ] [<code>Update construction of completion provider (#1528)</code>](https://github.com/elementary/code/commit/f1341d1bca1cca3ac9b97544c43a6378c1fa874a)
+- [ ] [<code>Implement navigation between edit points (#1138)</code>](https://github.com/elementary/code/commit/0810fd88411a4793d10b85dc79586e60bfffabf1)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -276,16 +278,8 @@
 - [ ] [<code>README: Fix broken Weblate badge (#345)</code>](https://github.com/elementary/switchboard/commit/2bfd734d27480e89073bdb519e516f64fc46a024)
 ## apps/switchboard-plugs
 
-#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.0...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
 
-- [ ] [<code>Plug: add about this device search result (#368)</code>](https://github.com/elementary/switchboard-plug-about/commit/f75c9194973050df5c376fa596b9fe50fc29a4b4)
-- [ ] [<code>OperatingSystemView.vala: use of in download progress string (#369)</code>](https://github.com/elementary/switchboard-plug-about/commit/4ed54fe18c6461a8f13b3a50978a604436fce0e9)
-- [ ] [<code>OperatingSystemView: more explicit restart directions (#370)</code>](https://github.com/elementary/switchboard-plug-about/commit/8618414349e34e646721058848b0df8cfdd8c0a9)
-- [ ] [<code>README: Fix broken Weblate badge (#373)</code>](https://github.com/elementary/switchboard-plug-about/commit/1a51f25219bcab860c09bb059338149d5e6d02b6)
-- [ ] [<code>Metainfo: add restart message to issues (#376)</code>](https://github.com/elementary/switchboard-plug-about/commit/939df8385636c612fc9a408621841950b53565ba)
-- [ ] [<code>Release 8.2.1 (#377)</code>](https://github.com/elementary/switchboard-plug-about/commit/30ab29079f9cc9d6ee8b6cb47d3228424f784c6f)
-  - <sub>Tags: <code>8.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -367,16 +361,8 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
 
-#### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
-- [ ] [<code>Meson: add log domain (#67)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d6d5a37384b9d897d74e84dfcae01b078c1a13b0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix some build warnings (#71)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/db18e2252fdc6c1e47cfbd15c5d1fdd943fa794f)
-- [ ] [<code>Add check for stylus detection (#70)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/45a453b3f5ffbffefbc7067cd986b5865e8742c8)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/fd95c16eaf3ba17d94fb1aca985d9bb476b9e497)
-- [ ] [<code>Release 8.0.1 (#74)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/ccf40dd4c3e3ee89c4fad2cb1dd5d46e6d9b2cd5)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/30954eeaedeedca6769c8085780a5b9e0e1b09b7)
 ## artwork
 
@@ -603,6 +589,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>LayoutButton: rewrite in GObject style (#139)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d121a125ed456ccef309f7d95f64b2b5bfe1526b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PopoverWidget: use ListBoxes (#140)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b64441ea796ad888da2dc36696433a309d007b4d)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -629,6 +616,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c4e7d218de3cfcddde3abe801fc88f01b6ddd127)
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#336)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/551e364ed864f49830b1e7767811c43a795333a1)
 - [ ] [<code>PopoverWidget: add stateful icons to Airplane Mode (#338)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ae27afc395295ff035bdc87e1e2fdc987072682)
+- [ ] [<code>AirplaneMode: use RFKill (#340)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c798dbd3367e47182a1226e776f8c866919fdf43)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -797,16 +785,8 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.0 → HEAD](https://github.com/elementary/portals/compare/8.0.0...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.1 → HEAD](https://github.com/elementary/portals/compare/8.0.1...HEAD)
 
-- [ ] [<code>Update POTFILES (#125)</code>](https://github.com/elementary/portals/commit/219f37bb3670d3614a7982a6976680e2776fe48d)
-- [ ] [<code>Portal: Make autostart directory if not exists (#127)</code>](https://github.com/elementary/portals/commit/8fb7922cd82e9c32ffeeccfc00571f7c9a867450)
-- [ ] [<code>Check for redacted font (#130)</code>](https://github.com/elementary/portals/commit/34fec3ff7fd0477d72c4ce611c26a198983ffce1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#131)</code>](https://github.com/elementary/portals/commit/620684e5ef8776306f57ff1214f7564ccdf801e2)
-- [ ] [<code>Release 8.0.1 (#133)</code>](https://github.com/elementary/portals/commit/7809dddacff401abefc8f84baa99b9b4d170829a)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
