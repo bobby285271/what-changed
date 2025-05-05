@@ -617,6 +617,7 @@
 - [ ] [<code>Metainfo: add 8.0.0 release notes (#336)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/551e364ed864f49830b1e7767811c43a795333a1)
 - [ ] [<code>PopoverWidget: add stateful icons to Airplane Mode (#338)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ae27afc395295ff035bdc87e1e2fdc987072682)
 - [ ] [<code>AirplaneMode: use RFKill (#340)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c798dbd3367e47182a1226e776f8c866919fdf43)
+- [ ] [<code>Check bluetooth for hardware lock before enabling (#341)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c7c7db7c1c50e0a73c65b3d9a4a3072468a2af2c)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
