@@ -57,6 +57,8 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#285)</code>](https://github.com/elementary/camera/commit/7c1bb10baefb3275d9884280eff845ee72b6a38e)
 - [ ] [<code>fix: pin cargo-c version (#286)</code>](https://github.com/elementary/camera/commit/71686db53871dfc0770ef77e21bdb423c1a30efb)
 - [ ] [<code>CI: run arm workflows on arm runner (#287)</code>](https://github.com/elementary/camera/commit/1631e4a6bb19cd475de4b3226773e79763574f3a)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#289)</code>](https://github.com/elementary/camera/commit/62147b5931345f38f23ea48e1d0e03cbb018bace)
+- [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -265,6 +267,7 @@
 - [ ] [<code>fix: pin cargo-c version (#398)</code>](https://github.com/elementary/videos/commit/e41da5d3266bacd318d8cceb1c0b1ab695b679be)
 - [ ] [<code>Actions: bump flatpak to 6.4 (#395)</code>](https://github.com/elementary/videos/commit/518bd7e4bf2222bd04473aae7ded3212d99e4e50)
 - [ ] [<code>CI: run arm workflows on arm runner (#397)</code>](https://github.com/elementary/videos/commit/15178cf5c6d515be42733e4b194733d7abd669f0)
+- [ ] [<code>Flatpak: Fix warning about redirect</code>](https://github.com/elementary/videos/commit/eaaec81c9b07ea6966cb16520c938d4ef1affab4)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
