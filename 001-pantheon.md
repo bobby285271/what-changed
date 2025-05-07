@@ -1,24 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.1.0 → HEAD](https://github.com/elementary/appcenter/compare/8.1.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.2.0 → HEAD](https://github.com/elementary/appcenter/compare/8.2.0...HEAD)
 
-- [ ] [<code>Add label for in-app purchases (#2274)</code>](https://github.com/elementary/appcenter/commit/bb8c8bea4a523b6038935b7056c965c5e957efc7)
-- [ ] [<code>CategoryView: use listmodels (#2275)</code>](https://github.com/elementary/appcenter/commit/d60f104c2645c4138c5c46361f3f1050f0abf805)
-- [ ] [<code>Create AppIcon (#2278)</code>](https://github.com/elementary/appcenter/commit/8a5aed94efc9e2f88d221fb2cf9760cdf60b15c4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>AppIcon: reload on metadata remote preprocessed (#2282)</code>](https://github.com/elementary/appcenter/commit/9de84411b2b811c2f23a18c3c333e01237519b61)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Create screenshot widget (#2280)</code>](https://github.com/elementary/appcenter/commit/2ab7ae64df0c66f3422507dbbc99e8e0a9f3eccb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add issue 2209 to release notes (#2285)</code>](https://github.com/elementary/appcenter/commit/5c29c11fe1dcc4736a50d1cc81e8afaa9de00fe3)
-- [ ] [<code>AppInfo: use provider.load_from_string (#2286)</code>](https://github.com/elementary/appcenter/commit/61e7acefaeadfae1a0cf8313cfd992e03b5a2d5d)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/appcenter/commit/2f0acc8166e6a4146600fd0f219f8e5a109a5a88)
-- [ ] [<code>Release 8.2.0 (#2289)</code>](https://github.com/elementary/appcenter/commit/469da3034ede097abf265ed72c11ebfe1040809b)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -327,6 +311,11 @@
 - [ ] [<code>Meson: add log domain (#295)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fd9b68f53cff7757631c14ea2ee71c0bf7f6203d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>feat: align add button (#296)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/89ce59443bb1260ba4fb59cec546cb0bca162b62)
+- [ ] [<code>Add fallback icon (#305)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/a4b4c7435413156dde7c7fb1ddf6f95afc84bbbd)
+- [ ] [<code>Widgets: Add PagedDialog (#300)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/dc7666cd526f86f3cbf836981a1fbfac20e60550)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Widgets: create FinalizePage (#302)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cb6dcac8c0909d2c3556dabe11b3a443583fc3f8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.1.0...HEAD)
 
@@ -341,6 +330,8 @@
 - [ ] [<code>Appearance: get/set animations from interface key (#438)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/14c96d065b73a44bc002e4907dcac36eb88a899f)
 - [ ] [<code>Metainfo: update issues (#441)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/179c962ba191530f62c88af2a9402837467b78f0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Appearance: use stateful action for radios (#444)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e386553882ca512b597de779e2e42eb966a302eb)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -375,6 +366,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Adw/PreferencesWindow: fix crash in Ephy (#1317)</code>](https://github.com/elementary/stylesheet/commit/97fecb91c7331d5a097c24da9bd33a29bddd0af2)
 - [ ] [<code>Adw/PreferencesWindow: add some style fixes (#1318)</code>](https://github.com/elementary/stylesheet/commit/be3742f3198541ff794c2c65469ea8dcf5f19367)
+- [ ] [<code>Adw/ViewSwitcher: Fix crash with icon size (#1319)</code>](https://github.com/elementary/stylesheet/commit/ec0048924a19425c897182a87a12afe9e92bfa1e)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -414,6 +406,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Packaging: add geoclue to install</code>](https://github.com/elementary/default-settings/commit/60dc6e0234b5809b1bd4f14b786e2403f2db9f68)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove packaging from main (#335)</code>](https://github.com/elementary/default-settings/commit/74d9f5302c4d447d2e69bcc496aa6d3cca85cb68)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -741,6 +735,8 @@
 - [ ] [<code>Styles/Gtk/Video: fix dark mode contrast (#859)</code>](https://github.com/elementary/granite/commit/3cfbe1ac64ece3fea893a368a9c6f96fce210cfa)
 - [ ] [<code>Styles/Gtk/Button: make all image-buttons bouncy (#858)</code>](https://github.com/elementary/granite/commit/b26f52b5ccad55121e45b8f2c5bdc234d1aa0814)
 - [ ] [<code>Demo: check toggles by default (#860)</code>](https://github.com/elementary/granite/commit/b31be1127de496fca34803d01533c26022ce1a71)
+- [ ] [<code>Add ToolBox (#776)</code>](https://github.com/elementary/granite/commit/1f5c09826d31083f6144c9d5770d083c296097e9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -765,6 +761,9 @@
 - [ ] [<code>Application: move dark style support to startup (#34)</code>](https://github.com/elementary/bluetooth-daemon/commit/67165192acd3743e63296dcf6cd61df10120dbb0)
 - [ ] [<code>SenderDialog: GTK4 prep (#32)</code>](https://github.com/elementary/bluetooth-daemon/commit/ba02f761e4435b3c75d46afa28e9fdce062428d3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Manager: track and set global state (#38)</code>](https://github.com/elementary/bluetooth-daemon/commit/cfb29f118526042c5fc7dc9c172a21b9b86c9419)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
