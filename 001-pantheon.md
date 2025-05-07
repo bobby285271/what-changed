@@ -252,6 +252,9 @@
 - [ ] [<code>Actions: bump flatpak to 6.4 (#395)</code>](https://github.com/elementary/videos/commit/518bd7e4bf2222bd04473aae7ded3212d99e4e50)
 - [ ] [<code>CI: run arm workflows on arm runner (#397)</code>](https://github.com/elementary/videos/commit/15178cf5c6d515be42733e4b194733d7abd669f0)
 - [ ] [<code>Flatpak: Fix warning about redirect</code>](https://github.com/elementary/videos/commit/eaaec81c9b07ea6966cb16520c938d4ef1affab4)
+- [ ] [<code>Use Gtk.FileDialog (#400)</code>](https://github.com/elementary/videos/commit/3d329ba143a0a3284b8a788e0a766db2eab327c3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
