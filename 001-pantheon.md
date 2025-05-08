@@ -740,6 +740,7 @@
 - [ ] [<code>Demo: check toggles by default (#860)</code>](https://github.com/elementary/granite/commit/b31be1127de496fca34803d01533c26022ce1a71)
 - [ ] [<code>Add ToolBox (#776)</code>](https://github.com/elementary/granite/commit/1f5c09826d31083f6144c9d5770d083c296097e9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add GridView styles (#863)</code>](https://github.com/elementary/granite/commit/268ed26c9457ba1876135b427449464326a649ef)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
