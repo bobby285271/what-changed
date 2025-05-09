@@ -112,6 +112,11 @@
 - [ ] [<code>Remove dependency on libgee</code>](https://github.com/elementary/dock/commit/42880d7390782b81c3bc2ab1a3ce1e41d977405e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix crash and visual bugs with animations disabled (#405)</code>](https://github.com/elementary/dock/commit/b3f87442d826fad041e09245e75b713e14b4a8d4)
+- [ ] [<code>Make workspace switcher optional (#407)</code>](https://github.com/elementary/dock/commit/82831dbe8aa9d413422872fe21007d44ec8a27bb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Revert "GSchema: remove multitasking from defaults" (#408)</code>](https://github.com/elementary/dock/commit/bd01a296a677d36877792682e01a8cc74a1dcbb4)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#409)</code>](https://github.com/elementary/dock/commit/da54e4dc0cd8237acf17ba3dd42118e426615a7b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -294,6 +299,7 @@
 - [ ] [<code>Update project URLs</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/2abefe1619f417cd6b78995a2d5677c7b6157a06)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1949390576e744e7c7a853bc2ae5b8d3cad8156f)
+- [ ] [<code>Use new multitasking view key (#531)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/26aad955592a3edca46f9cd4d0c5fe3cb4520080)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -411,6 +417,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove packaging from main (#335)</code>](https://github.com/elementary/default-settings/commit/74d9f5302c4d447d2e69bcc496aa6d3cca85cb68)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Unset show-desktop shortcut (#336)</code>](https://github.com/elementary/default-settings/commit/8b3bd39f0260fd0bcc29d15d043666ee2b23543c)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -535,6 +542,11 @@
 - [ ] [<code>Streamline monitor scale passing (#2354)</code>](https://github.com/elementary/gala/commit/94ef835a7466d60c4a49dad533cdb605660cb05c)
 - [ ] [<code>WindowSwitcher: Fix crash (#2361)</code>](https://github.com/elementary/gala/commit/08e78d68ea8a74dc39fb5f34e6d4193574f2f883)
 - [ ] [<code>Remove #2308 from metainfo (#2362)</code>](https://github.com/elementary/gala/commit/f0af8fd4c3e951f3ea4701f1d7b78b167eaa11f0)
+- [ ] [<code>Remodel GestureController lifetimes (#2355)</code>](https://github.com/elementary/gala/commit/5007257709cca074f5eafa12044ade8d6b6a8f64)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>KeyboardManager: cleanup (#2372)</code>](https://github.com/elementary/gala/commit/401c10eb7fdc6f806319cd124f0d4807e0aea7d8)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Add toggle-multitasking-view shortcut (#2309)</code>](https://github.com/elementary/gala/commit/0cd9637f20c0a3160cc374cc9d1626a3fa5ec3e3)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
