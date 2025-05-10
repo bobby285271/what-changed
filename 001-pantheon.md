@@ -82,6 +82,8 @@
 - [ ] [<code>Update construction of completion provider (#1528)</code>](https://github.com/elementary/code/commit/f1341d1bca1cca3ac9b97544c43a6378c1fa874a)
 - [ ] [<code>Implement navigation between edit points (#1138)</code>](https://github.com/elementary/code/commit/0810fd88411a4793d10b85dc79586e60bfffabf1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Load sidebar folder children asynchronously after docs finished loading (#1522)</code>](https://github.com/elementary/code/commit/d23410b119e1ae98b564162ee654e5a32210c0b5)
+- [ ] [<code>Fix regressions in search bar behaviour (#1551)</code>](https://github.com/elementary/code/commit/9d653cd8ac4d1d7b3db5772c1a61e7289a42e819)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -117,6 +119,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Revert "GSchema: remove multitasking from defaults" (#408)</code>](https://github.com/elementary/dock/commit/bd01a296a677d36877792682e01a8cc74a1dcbb4)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#409)</code>](https://github.com/elementary/dock/commit/da54e4dc0cd8237acf17ba3dd42118e426615a7b)
+- [ ] [<code>Fix dock bounds when hide mode is 'Never' (#411)</code>](https://github.com/elementary/dock/commit/a6fe5f70c908f83bfb91e1c1102973614c05be41)
+- [ ] [<code>Fix meson options (#413)</code>](https://github.com/elementary/dock/commit/a0f265d89a92758125b8408779b468f5c6602a84)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -303,6 +308,8 @@
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
+- [ ] [<code>Middle click paste: add Wayland support (#253)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b3a540accd387bc51b8791c724e5d2b4124994ee)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.1.0...HEAD)
 
@@ -325,6 +332,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Widgets: create FinalizePage (#302)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cb6dcac8c0909d2c3556dabe11b3a443583fc3f8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>switchboard-plug- → settings-</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/da83756931301ef1a47046c122604cd2c584891d)
+- [ ] [<code>Bump EDS requirement (#306)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/124688fb29d3b240d2399426782cc64d38bc015f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.1.0...HEAD)
 
@@ -376,6 +387,7 @@
 - [ ] [<code>Adw/PreferencesWindow: fix crash in Ephy (#1317)</code>](https://github.com/elementary/stylesheet/commit/97fecb91c7331d5a097c24da9bd33a29bddd0af2)
 - [ ] [<code>Adw/PreferencesWindow: add some style fixes (#1318)</code>](https://github.com/elementary/stylesheet/commit/be3742f3198541ff794c2c65469ea8dcf5f19367)
 - [ ] [<code>Adw/ViewSwitcher: Fix crash with icon size (#1319)</code>](https://github.com/elementary/stylesheet/commit/ec0048924a19425c897182a87a12afe9e92bfa1e)
+- [ ] [<code>Metainfo: add 8.2.1 release notes (#1322)</code>](https://github.com/elementary/stylesheet/commit/fb51ac5bc0fc6472ef06d02ebf73759d6c3fd327)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -547,6 +559,7 @@
 - [ ] [<code>KeyboardManager: cleanup (#2372)</code>](https://github.com/elementary/gala/commit/401c10eb7fdc6f806319cd124f0d4807e0aea7d8)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Add toggle-multitasking-view shortcut (#2309)</code>](https://github.com/elementary/gala/commit/0cd9637f20c0a3160cc374cc9d1626a3fa5ec3e3)
+- [ ] [<code>ScreenshotManager: use window buffer rect (#2375)</code>](https://github.com/elementary/gala/commit/48dd42cdc81ebd3711c6ee2ded5feceeaec68245)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -753,6 +766,7 @@
 - [ ] [<code>Add ToolBox (#776)</code>](https://github.com/elementary/granite/commit/1f5c09826d31083f6144c9d5770d083c296097e9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add GridView styles (#863)</code>](https://github.com/elementary/granite/commit/268ed26c9457ba1876135b427449464326a649ef)
+- [ ] [<code>Add `.monospace` class (#861)</code>](https://github.com/elementary/granite/commit/64156d39febf43873c41bbfcd204eb89c69b33c3)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
