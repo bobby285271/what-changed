@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.2.0 → HEAD](https://github.com/elementary/appcenter/compare/8.2.0...HEAD)
 
+- [ ] [<code>AppListUpdateView: mark primary menu (#2290)</code>](https://github.com/elementary/appcenter/commit/554a7278a18f903d9c95788a8d97d2a6c57fb96f)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -43,6 +44,7 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#287)</code>](https://github.com/elementary/camera/commit/1631e4a6bb19cd475de4b3226773e79763574f3a)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#289)</code>](https://github.com/elementary/camera/commit/62147b5931345f38f23ea48e1d0e03cbb018bace)
 - [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
+- [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
 
@@ -243,6 +245,8 @@
 - [ ] [<code>protobuf-c: Update protobuf-c-1.5.1.tar.gz to 1.5.2 (#413)</code>](https://github.com/elementary/tasks/commit/be61ffc1c8ca65bf369271f2f1ec1ad80baa191d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#414)</code>](https://github.com/elementary/tasks/commit/660f52419f359343aefbac7410aef12f2c3b0556)
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/tasks/commit/ca5e566b21c9977e988d4553776216c4e7db34bc)
+- [ ] [<code>ListView: mark primary menu (#416)</code>](https://github.com/elementary/tasks/commit/685a3a70796fdaa8bcaca58a99bd1ae64a449156)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -265,6 +269,7 @@
 - [ ] [<code>Use Gtk.FileDialog (#400)</code>](https://github.com/elementary/videos/commit/3d329ba143a0a3284b8a788e0a766db2eab327c3)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>BottomBar: mark primary menu (#402)</code>](https://github.com/elementary/videos/commit/bead09170b31c92ee8ba198154624527cf98e70d)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
@@ -284,6 +289,7 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/dd6c2544ef7f6a64db8d9e2f42ec4d9df33b3a54)
+- [ ] [<code>switchboard-plug-applications → settings-applications</code>](https://github.com/elementary/switchboard-plug-applications/commit/ea901e4700f77e6b79d30200fa6a29b1da04de16)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
@@ -336,6 +342,7 @@
 - [ ] [<code>Bump EDS requirement (#306)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/124688fb29d3b240d2399426782cc64d38bc015f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CaldavDialog: add port if missing (#307)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/d1ed6680f3f1ba32d9d6e901fbd84673f9d8032f)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/switchboard-plug-pantheon-shell): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-pantheon-shell/compare/8.1.0...HEAD)
 
@@ -430,9 +437,14 @@
 - [ ] [<code>Remove packaging from main (#335)</code>](https://github.com/elementary/default-settings/commit/74d9f5302c4d447d2e69bcc496aa6d3cca85cb68)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Unset show-desktop shortcut (#336)</code>](https://github.com/elementary/default-settings/commit/8b3bd39f0260fd0bcc29d15d043666ee2b23543c)
+- [ ] [<code>Add newer apparmor profile for bubblewrap (#337)</code>](https://github.com/elementary/default-settings/commit/d3432a24c02ad5c9864e4bada2085dd1818ea7fc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
+- [ ] [<code>Remove unused values from config (#787)</code>](https://github.com/elementary/greeter/commit/d94cff3535ab35f944fda38adc582e1a3e063a28)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
