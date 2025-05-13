@@ -4,6 +4,7 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.2.0 → HEAD](https://github.com/elementary/appcenter/compare/8.2.0...HEAD)
 
 - [ ] [<code>AppListUpdateView: mark primary menu (#2290)</code>](https://github.com/elementary/appcenter/commit/554a7278a18f903d9c95788a8d97d2a6c57fb96f)
+- [ ] [<code>MainWindow: remove back action (#2292)</code>](https://github.com/elementary/appcenter/commit/a3ed59d21d7a8554599a8556c8ca2f4f464495c9)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -123,6 +124,10 @@
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#409)</code>](https://github.com/elementary/dock/commit/da54e4dc0cd8237acf17ba3dd42118e426615a7b)
 - [ ] [<code>Fix dock bounds when hide mode is 'Never' (#411)</code>](https://github.com/elementary/dock/commit/a6fe5f70c908f83bfb91e1c1102973614c05be41)
 - [ ] [<code>Fix meson options (#413)</code>](https://github.com/elementary/dock/commit/a0f265d89a92758125b8408779b468f5c6602a84)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Show multiple dots for apps with multiple windows (#412)</code>](https://github.com/elementary/dock/commit/42b7337f6a9b1e03f88d0fa2e4b4020b44f17984)
+- [ ] [<code>Release 8.1.0 (#410)</code>](https://github.com/elementary/dock/commit/a597f7d0f9e3d17512ef9a263def1e18b81e56ec)
+  - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
@@ -311,6 +316,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1949390576e744e7c7a853bc2ae5b8d3cad8156f)
 - [ ] [<code>Use new multitasking view key (#531)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/26aad955592a3edca46f9cd4d0c5fe3cb4520080)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#533)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/f83c8c3dcc77285ec0461cffd1ff97af90d54daf)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -440,6 +446,8 @@
 - [ ] [<code>Add newer apparmor profile for bubblewrap (#337)</code>](https://github.com/elementary/default-settings/commit/d3432a24c02ad5c9864e4bada2085dd1818ea7fc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Make AppArmor optional (#340)</code>](https://github.com/elementary/default-settings/commit/576569fd465edda23af0f4479837382eabd715ac)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -655,6 +663,7 @@
 - [ ] [<code>PopoverWidget: add stateful icons to Airplane Mode (#338)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5ae27afc395295ff035bdc87e1e2fdc987072682)
 - [ ] [<code>AirplaneMode: use RFKill (#340)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c798dbd3367e47182a1226e776f8c866919fdf43)
 - [ ] [<code>Check bluetooth for hardware lock before enabling (#341)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c7c7db7c1c50e0a73c65b3d9a4a3072468a2af2c)
+- [ ] [<code>Fix crash in greeter (#342)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e799e085ab5d3c979a52e0fc46d290a15eddba89)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
