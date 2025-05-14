@@ -290,6 +290,7 @@
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
 
+- [ ] [<code>Add device icons to gresource (#380)</code>](https://github.com/elementary/switchboard-plug-about/commit/72de5c7eb844b2f3c8c81e0accb19d5adbfeb44b)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -317,6 +318,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/1949390576e744e7c7a853bc2ae5b8d3cad8156f)
 - [ ] [<code>Use new multitasking view key (#531)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/26aad955592a3edca46f9cd4d0c5fe3cb4520080)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#533)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/f83c8c3dcc77285ec0461cffd1ff97af90d54daf)
+- [ ] [<code>Release 8.0.2 (#534)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/df9febfd0471cd447c65d05066e527c4f95fa74f)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -365,6 +369,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Appearance: use stateful action for radios (#444)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e386553882ca512b597de779e2e42eb966a302eb)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Multitasking: show apps menu hotcorner at the same corner as panel (#447)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/00d7197800b86fd122ef8724bf1ddd603a728cce)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -401,6 +406,8 @@
 - [ ] [<code>Adw/PreferencesWindow: add some style fixes (#1318)</code>](https://github.com/elementary/stylesheet/commit/be3742f3198541ff794c2c65469ea8dcf5f19367)
 - [ ] [<code>Adw/ViewSwitcher: Fix crash with icon size (#1319)</code>](https://github.com/elementary/stylesheet/commit/ec0048924a19425c897182a87a12afe9e92bfa1e)
 - [ ] [<code>Metainfo: add 8.2.1 release notes (#1322)</code>](https://github.com/elementary/stylesheet/commit/fb51ac5bc0fc6472ef06d02ebf73759d6c3fd327)
+- [ ] [<code>Release 8.2.1 (#1323)</code>](https://github.com/elementary/stylesheet/commit/5bd252f584929be05e3a0cef23aba4d006c3c133)
+  - <sub>Tags: <code>8.2.1</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -421,6 +428,7 @@
 - [ ] [<code>Categories: outline style for applications-internet-symbolic (#1343)</code>](https://github.com/elementary/icons/commit/720b0765ad97b42a74f92e79f4bbd052a03313f9)
 - [ ] [<code>Mimes: Copy base files for templates at build time (#1346)</code>](https://github.com/elementary/icons/commit/0596236da3937fedcc3c8b2eba01bbdf65345ea1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove media-memory (#1348)</code>](https://github.com/elementary/icons/commit/8297fdd09bdc5a20715df4de5e9f653b04c66fc3)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -448,6 +456,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Make AppArmor optional (#340)</code>](https://github.com/elementary/default-settings/commit/576569fd465edda23af0f4479837382eabd715ac)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Release 8.1.0 (#339)</code>](https://github.com/elementary/default-settings/commit/65201f8e2064b65a6ea2421f74d93d04e47bd685)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -580,6 +591,10 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Add toggle-multitasking-view shortcut (#2309)</code>](https://github.com/elementary/gala/commit/0cd9637f20c0a3160cc374cc9d1626a3fa5ec3e3)
 - [ ] [<code>ScreenshotManager: use window buffer rect (#2375)</code>](https://github.com/elementary/gala/commit/48dd42cdc81ebd3711c6ee2ded5feceeaec68245)
+- [ ] [<code>Remove destroy effect for menus (#2371)</code>](https://github.com/elementary/gala/commit/82e80b1605399e66b630cee2f94dd6dfc9ddc958)
+- [ ] [<code>Release 8.2.0 (#2359)</code>](https://github.com/elementary/gala/commit/0b2f464359362a2e336fec06cd9c8b43e91a3b5c)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
