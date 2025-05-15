@@ -811,6 +811,8 @@
 - [ ] [<code>Add `.monospace` class (#861)</code>](https://github.com/elementary/granite/commit/64156d39febf43873c41bbfcd204eb89c69b33c3)
 - [ ] [<code>accel_to_string: ⌘ → Super (#865)</code>](https://github.com/elementary/granite/commit/49e2a8e285228d6afc33557136ced48a41f8962d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add BackButton (#692)</code>](https://github.com/elementary/granite/commit/35227beb7caa2fbf4061909cac789533d505a445)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
