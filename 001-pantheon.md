@@ -5,6 +5,7 @@
 
 - [ ] [<code>AppListUpdateView: mark primary menu (#2290)</code>](https://github.com/elementary/appcenter/commit/554a7278a18f903d9c95788a8d97d2a6c57fb96f)
 - [ ] [<code>MainWindow: remove back action (#2292)</code>](https://github.com/elementary/appcenter/commit/a3ed59d21d7a8554599a8556c8ca2f4f464495c9)
+- [ ] [<code>AppInfoView: show when a game supports controllers (#2293)</code>](https://github.com/elementary/appcenter/commit/242e7bb774a940964412422b2483f2d0c08e72b5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -370,6 +371,8 @@
 - [ ] [<code>Appearance: use stateful action for radios (#444)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e386553882ca512b597de779e2e42eb966a302eb)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Multitasking: show apps menu hotcorner at the same corner as panel (#447)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/00d7197800b86fd122ef8724bf1ddd603a728cce)
+- [ ] [<code>Appearance: use settings.create_action (#445)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b2cdc60e5edf4ff7ad012b41296b29f6441e0557)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -464,6 +467,7 @@
 
 - [ ] [<code>Remove unused values from config (#787)</code>](https://github.com/elementary/greeter/commit/d94cff3535ab35f944fda38adc582e1a3e063a28)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Compositor: remove more dead code (#781)</code>](https://github.com/elementary/greeter/commit/3765a0c75bcf92048baab10a1d79cd0bde883ab7)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -477,6 +481,7 @@
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.1...HEAD)
 
+- [ ] [<code>ShortcutsView update multitasking view shortcut (#152)</code>](https://github.com/elementary/shortcut-overlay/commit/3731ecc404df1f60494f355fb9785f35793e30ba)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -595,6 +600,7 @@
 - [ ] [<code>Release 8.2.0 (#2359)</code>](https://github.com/elementary/gala/commit/0b2f464359362a2e336fec06cd9c8b43e91a3b5c)
   - <sub>Tags: <code>8.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ShadowEffect: fix scale (#2381)</code>](https://github.com/elementary/gala/commit/93ab23d64e3c23c5116923550d5b1314536efb41)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -803,6 +809,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add GridView styles (#863)</code>](https://github.com/elementary/granite/commit/268ed26c9457ba1876135b427449464326a649ef)
 - [ ] [<code>Add `.monospace` class (#861)</code>](https://github.com/elementary/granite/commit/64156d39febf43873c41bbfcd204eb89c69b33c3)
+- [ ] [<code>accel_to_string: ⌘ → Super (#865)</code>](https://github.com/elementary/granite/commit/49e2a8e285228d6afc33557136ced48a41f8962d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -841,9 +849,12 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
 
+- [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#239)</code>](https://github.com/elementary/notifications/commit/3c230fbaf1a2636f057fd62b4804bfcd8b70ee44)
+- [ ] [<code>Bubble: set accessible properties (#240)</code>](https://github.com/elementary/notifications/commit/50352bcea31fe9b5446ec6e35b881bf48e357978)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
 
+- [ ] [<code>Fix orientation lock sync (#187)</code>](https://github.com/elementary/settings-daemon/commit/0fa1d4c7c3ec9bed97d2cac81d621f73e74fe706)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
