@@ -327,6 +327,7 @@
 
 - [ ] [<code>Middle click paste: add Wayland support (#253)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b3a540accd387bc51b8791c724e5d2b4124994ee)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#254)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a2c7f523c37dbb739114e37e09f75715deed89b1)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.1.0...HEAD)
 
@@ -482,6 +483,11 @@
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.1...HEAD)
 
 - [ ] [<code>ShortcutsView update multitasking view shortcut (#152)</code>](https://github.com/elementary/shortcut-overlay/commit/3731ecc404df1f60494f355fb9785f35793e30ba)
+- [ ] [<code>Move some styles to CSS (#154)</code>](https://github.com/elementary/shortcut-overlay/commit/bdea6a000e0ace401799ec6d523169fa383ee801)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ShortcutsView: separate sections into boxes (#153)</code>](https://github.com/elementary/shortcut-overlay/commit/3595ae7278b0695a998dbea6d9682dc46ecd7df6)
+- [ ] [<code>ShortcutLabel: move human label here (#155)</code>](https://github.com/elementary/shortcut-overlay/commit/bacb8e3bde66aa51fb49ece2ae543c97b9b6ecb2)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -601,6 +607,11 @@
   - <sub>Tags: <code>8.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ShadowEffect: fix scale (#2381)</code>](https://github.com/elementary/gala/commit/93ab23d64e3c23c5116923550d5b1314536efb41)
+- [ ] [<code>Fix workspace switch (#2389)</code>](https://github.com/elementary/gala/commit/647e900785e35ce7e353d0fcdf161cee0d09850d)
+- [ ] [<code>Correctly unset x11 pass through (#2391)</code>](https://github.com/elementary/gala/commit/789a3b0025a9314947f3414fc66cf7d36f00d6c8)
+- [ ] [<code>Release 8.2.1 (#2390)</code>](https://github.com/elementary/gala/commit/a3afb67fe33a2f11b6dd5f6f9c856e8097c99067)
+  - <sub>Tags: <code>8.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -656,6 +667,9 @@
 - [ ] [<code>LayoutButton: rewrite in GObject style (#139)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d121a125ed456ccef309f7d95f64b2b5bfe1526b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>PopoverWidget: use ListBoxes (#140)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/b64441ea796ad888da2dc36696433a309d007b4d)
+- [ ] [<code>PopoverWidget: label listboxes (#146)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d8f16cfbf16683695401202d9062b6289c63932d)
+- [ ] [<code>Indicator: use Gtk.GestureMultiPress (#145)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/343b1ec10c19ee11d05d84750140131a57e82466)
+- [ ] [<code>PopoverWidget: get sources length directly from gsettings (#144)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bd99017e37f36c5664d1eb5eaf58db7b1025c346)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -701,6 +715,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>AppEntry: Add sweep  animation (#283)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/05f569ca89d62a1582ffd8218cf56bff9c1ddc50)
+- [ ] [<code>CI: Remove Wnck (#290)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a92b2de3b485bbf49779cf665c17a0c4b8dd4f91)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Indicator: Bump copyright header</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f28a1093350bc593d6b8ebe272b0222632d612f4)
+- [ ] [<code>Indicator: Replace Grid with Box</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7a7704dd00cdb665b7a650af4e988e666f9039b6)
+- [ ] [<code>Indicator: Code style</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/729b720469d75ff550522a44316ff7f7f630648a)
+- [ ] [<code>Indicator: Use gesture click</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/78f730608af5fe8bcaa2ad10c743caea4959894c)
+- [ ] [<code>NotificationsList: add items_changed signal</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7a2999d49cf070481bb6bbdb6b2fdf869157f254)
+- [ ] [<code>Indicator: add provider for screen</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/9fd4152db011f9ca3a50bc5f874e70c7baaeb081)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8cbafa0b541038e2dd9d2aa43c7f972f858a8796)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
