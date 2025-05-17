@@ -6,6 +6,7 @@
 - [ ] [<code>AppListUpdateView: mark primary menu (#2290)</code>](https://github.com/elementary/appcenter/commit/554a7278a18f903d9c95788a8d97d2a6c57fb96f)
 - [ ] [<code>MainWindow: remove back action (#2292)</code>](https://github.com/elementary/appcenter/commit/a3ed59d21d7a8554599a8556c8ca2f4f464495c9)
 - [ ] [<code>AppInfoView: show when a game supports controllers (#2293)</code>](https://github.com/elementary/appcenter/commit/242e7bb774a940964412422b2483f2d0c08e72b5)
+- [ ] [<code>AppInfoView: layout content warnings horizontally (#2294)</code>](https://github.com/elementary/appcenter/commit/860606da04990b8926b2d796acc3444a69627346)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -374,6 +375,9 @@
 - [ ] [<code>Multitasking: show apps menu hotcorner at the same corner as panel (#447)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/00d7197800b86fd122ef8724bf1ddd603a728cce)
 - [ ] [<code>Appearance: use settings.create_action (#445)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/b2cdc60e5edf4ff7ad012b41296b29f6441e0557)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Release 8.2.0 (#446)</code>](https://github.com/elementary/switchboard-plug-pantheon-shell/commit/e0142bd3c0251e5948591963d5631f482f1ca3e9)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -612,6 +616,7 @@
 - [ ] [<code>Release 8.2.1 (#2390)</code>](https://github.com/elementary/gala/commit/a3afb67fe33a2f11b6dd5f6f9c856e8097c99067)
   - <sub>Tags: <code>8.2.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MultitaskingView: Always show monitor clones (#2393)</code>](https://github.com/elementary/gala/commit/81448a8850c6c67cd6f5c51d7375b0c816b49d72)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -724,6 +729,16 @@
 - [ ] [<code>NotificationsList: add items_changed signal</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7a2999d49cf070481bb6bbdb6b2fdf869157f254)
 - [ ] [<code>Indicator: add provider for screen</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/9fd4152db011f9ca3a50bc5f874e70c7baaeb081)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8cbafa0b541038e2dd9d2aa43c7f972f858a8796)
+- [ ] [<code>NotificationEntry: Bump copyright header</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/3522b047b6ba3d1fa063e4ed7141c342e3717c1d)
+- [ ] [<code>NotificationEntry: code style</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/61681843146f603c74e80ce79cfa1254474d5331)
+- [ ] [<code>NotificationEntry: add provider to screen</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ef5d1b2b66efda6fb9c06d8f38eb593d2f59403a)
+- [ ] [<code>NotificationEntry: use CSS instead of markup</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b5dca5ff992cceb32078edc0ce29605234ba56b4)
+- [ ] [<code>NotificationEntry: delete_button from_icon_name</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0fb5e991a69592819be9839ecabec0f64b067a53)
+- [ ] [<code>NotificationEntry: DeleteAffordance subclass bin</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f9d18a495b8b59c23c70c4c3ec1d98822bcae696)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: use get_row_at_index (#292)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bfc15021cd471027850b5b1d7c1947dde2b8e043)
+- [ ] [<code>NotificationsList: subclass Bin (#293)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/4223dbfa68c3966976d1d7f679f3750d4acd7363)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
