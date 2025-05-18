@@ -89,6 +89,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Load sidebar folder children asynchronously after docs finished loading (#1522)</code>](https://github.com/elementary/code/commit/d23410b119e1ae98b564162ee654e5a32210c0b5)
 - [ ] [<code>Fix regressions in search bar behaviour (#1551)</code>](https://github.com/elementary/code/commit/9d653cd8ac4d1d7b3db5772c1a61e7289a42e819)
+- [ ] [<code>Migrate to libpeas-2 (#1501)</code>](https://github.com/elementary/code/commit/79d804993b4792a18e03c861da3f24adcbdbeb91)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.0.2 → HEAD](https://github.com/elementary/dock/compare/8.0.2...HEAD)
 
@@ -130,6 +133,10 @@
 - [ ] [<code>Show multiple dots for apps with multiple windows (#412)</code>](https://github.com/elementary/dock/commit/42b7337f6a9b1e03f88d0fa2e4b4020b44f17984)
 - [ ] [<code>Release 8.1.0 (#410)</code>](https://github.com/elementary/dock/commit/a597f7d0f9e3d17512ef9a263def1e18b81e56ec)
   - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>X11: set restore-previous-region (#420)</code>](https://github.com/elementary/dock/commit/33a2ddb863a86ba28b6aa78f78e1ec687c1f5aea)
+- [ ] [<code>Release 8.1.1 (#421)</code>](https://github.com/elementary/dock/commit/c7d2b23db3149f1863f7cbf86fcbe8873ecbadd9)
+  - <sub>Tags: <code>8.1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
@@ -323,6 +330,9 @@
 - [ ] [<code>Release 8.0.2 (#534)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/df9febfd0471cd447c65d05066e527c4f95fa74f)
   - <sub>Tags: <code>8.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup CustomShortcutListBox (#537)</code>](https://github.com/elementary/switchboard-plug-keyboard/commit/901db793304bbba0da02d444cfe4969a68a8aed0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -617,6 +627,12 @@
   - <sub>Tags: <code>8.2.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MultitaskingView: Always show monitor clones (#2393)</code>](https://github.com/elementary/gala/commit/81448a8850c6c67cd6f5c51d7375b0c816b49d72)
+- [ ] [<code>Add support for restoring previous region (#2392)</code>](https://github.com/elementary/gala/commit/53d973aa3bdb0254f43f95fb0b22cb5d3ef3baeb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Release 8.2.2 (#2394)</code>](https://github.com/elementary/gala/commit/975e5f5064822aa615845fb711a570ad3dc97834)
+  - <sub>Tags: <code>8.2.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
