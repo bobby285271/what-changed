@@ -92,6 +92,7 @@
 - [ ] [<code>Migrate to libpeas-2 (#1501)</code>](https://github.com/elementary/code/commit/79d804993b4792a18e03c861da3f24adcbdbeb91)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Allow network access from Flatpak (#1555)</code>](https://github.com/elementary/code/commit/c920777db3083f7a93784e9626743101ac713b15)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -280,6 +281,8 @@
 - [ ] [<code>Cleanup CustomShortcutListBox (#537)</code>](https://github.com/elementary/settings-keyboard/commit/901db793304bbba0da02d444cfe4969a68a8aed0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove ConflictDialog (#539)</code>](https://github.com/elementary/settings-keyboard/commit/b52618f948f6a50ae1ea7b28307d9199667b03ab)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
