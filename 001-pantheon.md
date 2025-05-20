@@ -39,6 +39,8 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.54.3.tar.xz to 3.56.0 (#833)</code>](https://github.com/elementary/calendar/commit/7cad84e36b615132baf1b52327d92a2c8935126d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.0.tar.xz to 3.56.1 (#835)</code>](https://github.com/elementary/calendar/commit/8760a419d31b65fc7689fe3cb6c514a90369cd9b)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#836)</code>](https://github.com/elementary/calendar/commit/92b9d31b2f1af591e7124a5993ac0e33347f231d)
+- [ ] [<code>Include new event icon (#837)</code>](https://github.com/elementary/calendar/commit/29c18ae38a701beea59704d8a316978b7dcfa24a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -93,6 +95,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Allow network access from Flatpak (#1555)</code>](https://github.com/elementary/code/commit/c920777db3083f7a93784e9626743101ac713b15)
+- [ ] [<code>README: Replace libsoup2.4-dev with libsoup-3.0-dev (#1557)</code>](https://github.com/elementary/code/commit/f35a4c0e3cfd65d22084d9c6293e5ee8db2f256e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -283,6 +286,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove ConflictDialog (#539)</code>](https://github.com/elementary/settings-keyboard/commit/b52618f948f6a50ae1ea7b28307d9199667b03ab)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#538)</code>](https://github.com/elementary/settings-keyboard/commit/7bc33baff5ba0f34da56656b8709e5e1fe2d71e9)
+- [ ] [<code>Add standard system shortcuts to list of conflicts (#540)</code>](https://github.com/elementary/settings-keyboard/commit/94ac75304abb9a04b3672a8e67597bacd76e8e08)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -389,6 +394,8 @@
 - [ ] [<code>Remove unused values from config (#787)</code>](https://github.com/elementary/greeter/commit/d94cff3535ab35f944fda38adc582e1a3e063a28)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Compositor: remove more dead code (#781)</code>](https://github.com/elementary/greeter/commit/3765a0c75bcf92048baab10a1d79cd0bde883ab7)
+- [ ] [<code>Add dark style support (#786)</code>](https://github.com/elementary/greeter/commit/5d434ef8279261ff8cb4821a58761c2930ac6986)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
