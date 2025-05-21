@@ -15,6 +15,8 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#281)</code>](https://github.com/elementary/calculator/commit/bb93d63914cf537f5fbc8a163ffa06cc13ca7ec7)
 - [ ] [<code>Bump platform to 8.1 (#282)</code>](https://github.com/elementary/calculator/commit/def2274543dc70e2b2cb0012c7d0b88a14b6f37e)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#283)</code>](https://github.com/elementary/calculator/commit/712eb9d6d9c224a64b4d6c7e5ae6e82758d3bde3)
+- [ ] [<code>Add action icon (#284)</code>](https://github.com/elementary/calculator/commit/01098c41a7f03848a673111c7f8b6ed116118217)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -96,6 +98,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Allow network access from Flatpak (#1555)</code>](https://github.com/elementary/code/commit/c920777db3083f7a93784e9626743101ac713b15)
 - [ ] [<code>README: Replace libsoup2.4-dev with libsoup-3.0-dev (#1557)</code>](https://github.com/elementary/code/commit/f35a4c0e3cfd65d22084d9c6293e5ee8db2f256e)
+- [ ] [<code>Launcher: add icons to actions (#1559)</code>](https://github.com/elementary/code/commit/cdc4942a4bdc7902b500ab35f6e8251332ce0b88)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -141,6 +145,8 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#1011)</code>](https://github.com/elementary/mail/commit/814073619a080eb82b4a625f84b773c08137e5ae)
 - [ ] [<code>Flatpak: Use libportal from Platform (#1013)</code>](https://github.com/elementary/mail/commit/8d42b60b67bc620b8cf3dc1b10cb90b824c443fe)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1019)</code>](https://github.com/elementary/mail/commit/d0e9356a600cf00c6060a8703da96505119db8ec)
+- [ ] [<code>Launcher: add icon for compose action (#1022)</code>](https://github.com/elementary/mail/commit/632df7546b83aecab7b66830f447985e194ca1a3)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -288,6 +294,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#538)</code>](https://github.com/elementary/settings-keyboard/commit/7bc33baff5ba0f34da56656b8709e5e1fe2d71e9)
 - [ ] [<code>Add standard system shortcuts to list of conflicts (#540)</code>](https://github.com/elementary/settings-keyboard/commit/94ac75304abb9a04b3672a8e67597bacd76e8e08)
+- [ ] [<code>ConflictsManager: Add comments for translators (#541)</code>](https://github.com/elementary/settings-keyboard/commit/39a05bbd6567789d8723f8886fc2356ad2ecb9b4)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -415,6 +422,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ShortcutsView: separate sections into boxes (#153)</code>](https://github.com/elementary/shortcut-overlay/commit/3595ae7278b0695a998dbea6d9682dc46ecd7df6)
 - [ ] [<code>ShortcutLabel: move human label here (#155)</code>](https://github.com/elementary/shortcut-overlay/commit/bacb8e3bde66aa51fb49ece2ae543c97b9b6ecb2)
+- [ ] [<code>ShortcutsView: use listboxes (#157)</code>](https://github.com/elementary/shortcut-overlay/commit/a82a9b99c0fb7f88462a1abebcbb7608c8073a8a)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#160)</code>](https://github.com/elementary/shortcut-overlay/commit/2167dae45a6b873a225386986e9eeabaf639454c)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
