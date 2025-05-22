@@ -100,6 +100,11 @@
 - [ ] [<code>README: Replace libsoup2.4-dev with libsoup-3.0-dev (#1557)</code>](https://github.com/elementary/code/commit/f35a4c0e3cfd65d22084d9c6293e5ee8db2f256e)
 - [ ] [<code>Launcher: add icons to actions (#1559)</code>](https://github.com/elementary/code/commit/cdc4942a4bdc7902b500ab35f6e8251332ce0b88)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Markdown: fix numbered list (#1474)</code>](https://github.com/elementary/code/commit/6af36fadb9e795c710709bcf558dd32ed4ef64a3)
+- [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/code/commit/ac74dfae943156f282354b63feca547f2e30f1e6)
+- [ ] [<code>PluginManager: cleanup listbox, add accessible name (#1561)</code>](https://github.com/elementary/code/commit/dd75c21cac62b34a4a5071516620b14982be51dd)
+- [ ] [<code>PluginsManager: cleanups (#1562)</code>](https://github.com/elementary/code/commit/a6d91febe319a2f022a3dbcee48725205f56272e)
+- [ ] [<code>PluginManager: bump license header (#1563)</code>](https://github.com/elementary/code/commit/2b8a479bdf28d88b6cccc235490afeab98b863d7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -240,6 +245,7 @@
 - [ ] [<code>UnsafePaste: add -f and --force (#868)</code>](https://github.com/elementary/terminal/commit/9dacdc48eab6cc333af69407d0d8663ab4d2d2c3)
 - [ ] [<code>Center the title, set min searchentry width (#841)</code>](https://github.com/elementary/terminal/commit/39766420c10d21152bca1e5b4dc46fa32276f64c)
 - [ ] [<code>Change tab label to name of foreground child process (#838)</code>](https://github.com/elementary/terminal/commit/5b361050a561a58d2029cdfae59469aba9e56cc0)
+- [ ] [<code>MainWindow: Ellipsize the title label (#871)</code>](https://github.com/elementary/terminal/commit/0f2d56055c890f3459ab3e028c9b0b0561e8e457)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -704,6 +710,9 @@
 
 - [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#239)</code>](https://github.com/elementary/notifications/commit/3c230fbaf1a2636f057fd62b4804bfcd8b70ee44)
 - [ ] [<code>Bubble: set accessible properties (#240)</code>](https://github.com/elementary/notifications/commit/50352bcea31fe9b5446ec6e35b881bf48e357978)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#242)</code>](https://github.com/elementary/notifications/commit/12354c8d545737c5e5110150d382fd3a52d77409)
+- [ ] [<code>Release 8.1.0 (#243)</code>](https://github.com/elementary/notifications/commit/d8acd9065a42a3929231142c14c181ff9f99ff22)
+  - <sub>Tags: <code>8.1.0</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
 
