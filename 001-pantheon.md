@@ -105,6 +105,7 @@
 - [ ] [<code>PluginManager: cleanup listbox, add accessible name (#1561)</code>](https://github.com/elementary/code/commit/dd75c21cac62b34a4a5071516620b14982be51dd)
 - [ ] [<code>PluginsManager: cleanups (#1562)</code>](https://github.com/elementary/code/commit/a6d91febe319a2f022a3dbcee48725205f56272e)
 - [ ] [<code>PluginManager: bump license header (#1563)</code>](https://github.com/elementary/code/commit/2b8a479bdf28d88b6cccc235490afeab98b863d7)
+- [ ] [<code>BracketsCompletion: misc cleanup (#1564)</code>](https://github.com/elementary/code/commit/fb5d3fcb13803810ea8e553bc9a77410b7b371b7)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -443,6 +444,8 @@
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
 
+- [ ] [<code>SlingshotView: Replace deprecated Granite.ModeButton (#637)</code>](https://github.com/elementary/applications-menu/commit/c8b6b071748b4add6a92eed4ba8f9756d600c094)
+- [ ] [<code>AppContextMenu: Use GLib.Action (#635)</code>](https://github.com/elementary/applications-menu/commit/6ad22d84e3a7ea59fc856319e150d71cd8fcf2f4)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -565,6 +568,12 @@
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
 - [ ] [<code>Scale: use GestureMultiPress instead of button release event (#289)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7e545f49730e7c90ee398a372f6e31e7896ada9f)
+- [ ] [<code>Scale: use ToggleButton instead of switch (#290)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d839857447855f949d9e273020bc88a89a04eb73)
+- [ ] [<code>DeviceManagerWidget: hide/show with revealer (#291)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/9f19e51e6d24229242e1ab70997532ee3c14bc70)
+- [ ] [<code>Device: use PulseAudio.Direction (#293)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e9e36cd7d33ae4f9e9ccbc687b44bcf3aaec4af2)
+- [ ] [<code>PlayerRow: remove eventbutton from raise_player (#294)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6237c690b4364f0bec247ad87c1d92e5cb7d6ce9)
+- [ ] [<code>Scale: use Gtk.Adjustment (#292)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c25efb18aa4f879e5f99ad52a5f1f72e8cf4052d)
+- [ ] [<code>DisplayWidget: GTK4 Prep (#296)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/b3b755475b45027c99d8c2104761981c7e878675)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
@@ -670,6 +679,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add BackButton (#692)</code>](https://github.com/elementary/granite/commit/35227beb7caa2fbf4061909cac789533d505a445)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Export variables expected by dock (#869)</code>](https://github.com/elementary/granite/commit/83445f149e703708cdaf9672ff2a859de1847dd6)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
