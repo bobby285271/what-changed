@@ -574,6 +574,7 @@
 - [ ] [<code>PlayerRow: remove eventbutton from raise_player (#294)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6237c690b4364f0bec247ad87c1d92e5cb7d6ce9)
 - [ ] [<code>Scale: use Gtk.Adjustment (#292)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c25efb18aa4f879e5f99ad52a5f1f72e8cf4052d)
 - [ ] [<code>DisplayWidget: GTK4 Prep (#296)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/b3b755475b45027c99d8c2104761981c7e878675)
+- [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
