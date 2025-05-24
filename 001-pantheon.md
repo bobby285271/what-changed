@@ -292,6 +292,7 @@
 
 - [ ] [<code>Styles: add scale.warmth (#410)</code>](https://github.com/elementary/switchboard-plug-display/commit/0fd89e66acc5fed4fa8b731f49dfcf5468742645)
 - [ ] [<code>Fix crash on enabling mirror display (#415)</code>](https://github.com/elementary/switchboard-plug-display/commit/8aa47054dc6bbd696215ecb09ac4da674858f4fe)
+- [ ] [<code>Fix Scale set by adding modes before set calling (#414)</code>](https://github.com/elementary/switchboard-plug-display/commit/aec7f0f18489b046a4202c292c56c1df6df8a7f7)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
 
