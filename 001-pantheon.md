@@ -291,6 +291,7 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.1...HEAD)
 
 - [ ] [<code>Styles: add scale.warmth (#410)</code>](https://github.com/elementary/switchboard-plug-display/commit/0fd89e66acc5fed4fa8b731f49dfcf5468742645)
+- [ ] [<code>Fix crash on enabling mirror display (#415)</code>](https://github.com/elementary/switchboard-plug-display/commit/8aa47054dc6bbd696215ecb09ac4da674858f4fe)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
 
@@ -575,6 +576,7 @@
 - [ ] [<code>Scale: use Gtk.Adjustment (#292)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c25efb18aa4f879e5f99ad52a5f1f72e8cf4052d)
 - [ ] [<code>DisplayWidget: GTK4 Prep (#296)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/b3b755475b45027c99d8c2104761981c7e878675)
 - [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
+- [ ] [<code>Scale: don't set an icon on construct (#298)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/72917da6ab842b5655e986e620897682df419d84)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
