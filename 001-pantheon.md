@@ -293,6 +293,7 @@
 - [ ] [<code>Styles: add scale.warmth (#410)</code>](https://github.com/elementary/switchboard-plug-display/commit/0fd89e66acc5fed4fa8b731f49dfcf5468742645)
 - [ ] [<code>Fix crash on enabling mirror display (#415)</code>](https://github.com/elementary/switchboard-plug-display/commit/8aa47054dc6bbd696215ecb09ac4da674858f4fe)
 - [ ] [<code>Fix Scale set by adding modes before set calling (#414)</code>](https://github.com/elementary/switchboard-plug-display/commit/aec7f0f18489b046a4202c292c56c1df6df8a7f7)
+- [ ] [<code>Fix crash and display arrangement when pluging new monitor (#420)</code>](https://github.com/elementary/switchboard-plug-display/commit/0decde568e8ddb8f98ca9f2d7f24289ae63ac489)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
 
@@ -720,13 +721,8 @@
 - [ ] [<code>Bump platform to 8.1 (#128)</code>](https://github.com/elementary/capnet-assist/commit/3b8ee44b773213a3c88809ebef09a01aba24dacf)
 - [ ] [<code>MainWindow: Fix build warnings (#131)</code>](https://github.com/elementary/capnet-assist/commit/2181117d01ee44442eed8cfab00604fe3dbcf907)
 
-#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.0.0 → HEAD](https://github.com/elementary/notifications/compare/8.0.0...HEAD)
+#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
-- [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#239)</code>](https://github.com/elementary/notifications/commit/3c230fbaf1a2636f057fd62b4804bfcd8b70ee44)
-- [ ] [<code>Bubble: set accessible properties (#240)</code>](https://github.com/elementary/notifications/commit/50352bcea31fe9b5446ec6e35b881bf48e357978)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#242)</code>](https://github.com/elementary/notifications/commit/12354c8d545737c5e5110150d382fd3a52d77409)
-- [ ] [<code>Release 8.1.0 (#243)</code>](https://github.com/elementary/notifications/commit/d8acd9065a42a3929231142c14c181ff9f99ff22)
-  - <sub>Tags: <code>8.1.0</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
 
