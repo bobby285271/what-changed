@@ -106,6 +106,12 @@
 - [ ] [<code>PluginsManager: cleanups (#1562)</code>](https://github.com/elementary/code/commit/a6d91febe319a2f022a3dbcee48725205f56272e)
 - [ ] [<code>PluginManager: bump license header (#1563)</code>](https://github.com/elementary/code/commit/2b8a479bdf28d88b6cccc235490afeab98b863d7)
 - [ ] [<code>BracketsCompletion: misc cleanup (#1564)</code>](https://github.com/elementary/code/commit/fb5d3fcb13803810ea8e553bc9a77410b7b371b7)
+- [ ] [<code>Install as different application (#1568)</code>](https://github.com/elementary/code/commit/6085063cc344eb4e94c55553302fd9d0ff2a0cfb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Revert "Install as different application (#1568)" (#1569)</code>](https://github.com/elementary/code/commit/e50eeeb8a094708795f9a97c23e3283aaa23f921)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
