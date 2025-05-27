@@ -43,6 +43,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#836)</code>](https://github.com/elementary/calendar/commit/92b9d31b2f1af591e7124a5993ac0e33347f231d)
 - [ ] [<code>Include new event icon (#837)</code>](https://github.com/elementary/calendar/commit/29c18ae38a701beea59704d8a316978b7dcfa24a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.1.tar.xz to 3.56.2 (#838)</code>](https://github.com/elementary/calendar/commit/4367fca286979c8c95e374bd05657f3361f39955)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -194,6 +195,7 @@
 - [ ] [<code>inih: Update inih to 59 (#796)</code>](https://github.com/elementary/photos/commit/e8b3ccbc3127607de0622014437373484ee9aa72)
 - [ ] [<code>inih: Update inih to 60 (#798)</code>](https://github.com/elementary/photos/commit/944ad21bd861d48218e12a91b0b4247fab546908)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#799)</code>](https://github.com/elementary/photos/commit/8b0b21dad018c52051f3ed7fadb7cb123c4f89ba)
+- [ ] [<code>gexiv2: Update gexiv2-0.14.3.tar.xz to 0.14.5 (#800)</code>](https://github.com/elementary/photos/commit/b1f0694ffe585eb306527f69b50f00a328201162)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
