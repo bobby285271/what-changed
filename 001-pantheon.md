@@ -116,6 +116,7 @@
 - [ ] [<code>Use Switch instead of CheckBox (#1567)</code>](https://github.com/elementary/code/commit/056d78c2b9d8944cfd6c119ea7da1ab8f3520379)
 - [ ] [<code>Meson: Fix deprecations (#1579)</code>](https://github.com/elementary/code/commit/48a09cb2af9409a39eae4b49fe657c9c3bb83c62)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>SourceView: remove unused variables (#1580)</code>](https://github.com/elementary/code/commit/5f563bc95fb9da96e9602f10f62a9d5555f69fa8)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
