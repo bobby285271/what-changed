@@ -113,6 +113,9 @@
 - [ ] [<code>Revert "Install as different application (#1568)" (#1569)</code>](https://github.com/elementary/code/commit/e50eeeb8a094708795f9a97c23e3283aaa23f921)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Use Switch instead of CheckBox (#1567)</code>](https://github.com/elementary/code/commit/056d78c2b9d8944cfd6c119ea7da1ab8f3520379)
+- [ ] [<code>Meson: Fix deprecations (#1579)</code>](https://github.com/elementary/code/commit/48a09cb2af9409a39eae4b49fe657c9c3bb83c62)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -302,6 +305,11 @@
 - [ ] [<code>Fix crash on enabling mirror display (#415)</code>](https://github.com/elementary/switchboard-plug-display/commit/8aa47054dc6bbd696215ecb09ac4da674858f4fe)
 - [ ] [<code>Fix Scale set by adding modes before set calling (#414)</code>](https://github.com/elementary/switchboard-plug-display/commit/aec7f0f18489b046a4202c292c56c1df6df8a7f7)
 - [ ] [<code>Fix crash and display arrangement when pluging new monitor (#420)</code>](https://github.com/elementary/switchboard-plug-display/commit/0decde568e8ddb8f98ca9f2d7f24289ae63ac489)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#421)</code>](https://github.com/elementary/switchboard-plug-display/commit/96185c3c1b68446b8f6213b9290f496c3821a953)
+- [ ] [<code>Update meson.build (#422)</code>](https://github.com/elementary/switchboard-plug-display/commit/1e29b9c614695128ed4738da17e878e7b23080c2)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/switchboard-plug-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
 
@@ -346,6 +354,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CaldavDialog: add port if missing (#307)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/d1ed6680f3f1ba32d9d6e901fbd84673f9d8032f)
+- [ ] [<code>Release 8.0.2 (#308)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/0a0c0dfdf7ed56894b48cade54c19aaea8fccef9)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [8.2.0 → HEAD](https://github.com/elementary/settings-desktop/compare/8.2.0...HEAD)
 
@@ -735,6 +746,7 @@
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
 
 - [ ] [<code>Fix orientation lock sync (#187)</code>](https://github.com/elementary/settings-daemon/commit/0fa1d4c7c3ec9bed97d2cac81d621f73e74fe706)
+- [ ] [<code>Sync Wingpanel transparency to Greeter (#188)</code>](https://github.com/elementary/settings-daemon/commit/dd0b6ac841a7fe06933048d2b4a835ac1537d170)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
