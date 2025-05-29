@@ -7,6 +7,7 @@
 - [ ] [<code>MainWindow: remove back action (#2292)</code>](https://github.com/elementary/appcenter/commit/a3ed59d21d7a8554599a8556c8ca2f4f464495c9)
 - [ ] [<code>AppInfoView: show when a game supports controllers (#2293)</code>](https://github.com/elementary/appcenter/commit/242e7bb774a940964412422b2483f2d0c08e72b5)
 - [ ] [<code>AppInfoView: layout content warnings horizontally (#2294)</code>](https://github.com/elementary/appcenter/commit/860606da04990b8926b2d796acc3444a69627346)
+- [ ] [<code>Homepage: carousel allow overflow (#2295)</code>](https://github.com/elementary/appcenter/commit/302cea7f79a29ae0f77747625c743c59b391493a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -117,6 +118,8 @@
 - [ ] [<code>Meson: Fix deprecations (#1579)</code>](https://github.com/elementary/code/commit/48a09cb2af9409a39eae4b49fe657c9c3bb83c62)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>SourceView: remove unused variables (#1580)</code>](https://github.com/elementary/code/commit/5f563bc95fb9da96e9602f10f62a9d5555f69fa8)
+- [ ] [<code>fix libpeas2 (#1566)</code>](https://github.com/elementary/code/commit/756f83c0dade33cb78602e32f605b46a26fa8893)
+- [ ] [<code>Sort branch lists alphabetically (#1576)</code>](https://github.com/elementary/code/commit/5922547a19a72f7f005a43f9fc2ab18f1fa15ea5)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -460,6 +463,7 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [8.2.2 → HEAD](https://github.com/elementary/gala/compare/8.2.2...HEAD)
 
+- [ ] [<code>WindowClone: Fix interaction with multiple monitors (#2406)</code>](https://github.com/elementary/gala/commit/b8943dd9653e71063f9d153ecaee2a7305e37eaa)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
