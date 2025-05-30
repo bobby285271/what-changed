@@ -476,6 +476,7 @@
 - [ ] [<code>AppContextMenu: Use GLib.Action (#635)</code>](https://github.com/elementary/applications-menu/commit/6ad22d84e3a7ea59fc856319e150d71cd8fcf2f4)
 - [ ] [<code>AppButton: Replace deprecated Granite.AsyncImage (#642)</code>](https://github.com/elementary/applications-menu/commit/771cada653d39f694069e60376c787980203ff48)
 - [ ] [<code>AppButton: change badge to 999+ after 999 (#644)</code>](https://github.com/elementary/applications-menu/commit/95921c0c94af3d3929dc1cd30e11f126df868911)
+- [ ] [<code>SlingshotView: remove dead get_screen (#646)</code>](https://github.com/elementary/applications-menu/commit/81336c1b03b82a7de26f1ca431e326826fa0c1a6)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
