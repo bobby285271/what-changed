@@ -415,6 +415,7 @@
 - [ ] [<code>Mimes: Copy base files for templates at build time (#1346)</code>](https://github.com/elementary/icons/commit/0596236da3937fedcc3c8b2eba01bbdf65345ea1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove media-memory (#1348)</code>](https://github.com/elementary/icons/commit/8297fdd09bdc5a20715df4de5e9f653b04c66fc3)
+- [ ] [<code>Prep palette file for Inkscape (#1349)</code>](https://github.com/elementary/icons/commit/8558ac7d785129276ff1df53e03f3ac790160dfb)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -473,6 +474,8 @@
 
 - [ ] [<code>SlingshotView: Replace deprecated Granite.ModeButton (#637)</code>](https://github.com/elementary/applications-menu/commit/c8b6b071748b4add6a92eed4ba8f9756d600c094)
 - [ ] [<code>AppContextMenu: Use GLib.Action (#635)</code>](https://github.com/elementary/applications-menu/commit/6ad22d84e3a7ea59fc856319e150d71cd8fcf2f4)
+- [ ] [<code>AppButton: Replace deprecated Granite.AsyncImage (#642)</code>](https://github.com/elementary/applications-menu/commit/771cada653d39f694069e60376c787980203ff48)
+- [ ] [<code>AppButton: change badge to 999+ after 999 (#644)</code>](https://github.com/elementary/applications-menu/commit/95921c0c94af3d3929dc1cd30e11f126df868911)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
