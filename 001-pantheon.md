@@ -184,6 +184,8 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Correctly display arists name in NowPlayingView (#804)</code>](https://github.com/elementary/music/commit/fc2da44f73e3eee5ec3b6a09dbf0928809294e44)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#807)</code>](https://github.com/elementary/music/commit/1fc97842e9aaf99e350b7361cbe355d1028bc334)
+- [ ] [<code>Move playbackmanager lambas where we can see them (#809)</code>](https://github.com/elementary/music/commit/70a9a84880dd63b71f459cc0cb12ea7d3c2a686e)
+- [ ] [<code>Introduce save and restore methods (#810)</code>](https://github.com/elementary/music/commit/395729cdc5568537a43a0755f155221bce6e7e9e)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -458,6 +460,13 @@
 - [ ] [<code>ShortcutLabel: move human label here (#155)</code>](https://github.com/elementary/shortcut-overlay/commit/bacb8e3bde66aa51fb49ece2ae543c97b9b6ecb2)
 - [ ] [<code>ShortcutsView: use listboxes (#157)</code>](https://github.com/elementary/shortcut-overlay/commit/a82a9b99c0fb7f88462a1abebcbb7608c8073a8a)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#160)</code>](https://github.com/elementary/shortcut-overlay/commit/2167dae45a6b873a225386986e9eeabaf639454c)
+- [ ] [<code>MainWindow: center and keep above with Pantheon protocol (#158)</code>](https://github.com/elementary/shortcut-overlay/commit/714e3f003462d1a7b55f62689da392dff2164215)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/shortcut-overlay/commit/3f26387cdfc14ed92da989592d948ceac6374833)
+- [ ] [<code>Release 8.1.0 (#161)</code>](https://github.com/elementary/shortcut-overlay/commit/f831f994c36295fb236cf87c722cf733f43d32eb)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -465,6 +474,7 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [8.2.2 → HEAD](https://github.com/elementary/gala/compare/8.2.2...HEAD)
 
 - [ ] [<code>WindowClone: Fix interaction with multiple monitors (#2406)</code>](https://github.com/elementary/gala/commit/b8943dd9653e71063f9d153ecaee2a7305e37eaa)
+- [ ] [<code>GestureController: Handle gesture interruption transparently (#2411)</code>](https://github.com/elementary/gala/commit/847ca2e1954339dcfde383ccf3493e01ecc4f29d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -477,6 +487,8 @@
 - [ ] [<code>AppButton: Replace deprecated Granite.AsyncImage (#642)</code>](https://github.com/elementary/applications-menu/commit/771cada653d39f694069e60376c787980203ff48)
 - [ ] [<code>AppButton: change badge to 999+ after 999 (#644)</code>](https://github.com/elementary/applications-menu/commit/95921c0c94af3d3929dc1cd30e11f126df868911)
 - [ ] [<code>SlingshotView: remove dead get_screen (#646)</code>](https://github.com/elementary/applications-menu/commit/81336c1b03b82a7de26f1ca431e326826fa0c1a6)
+- [ ] [<code>SlingshotView: use SearchEntry.handle_event (#643)</code>](https://github.com/elementary/applications-menu/commit/e3ccf7082494abfd78ef0a98ca502b68444f393a)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/applications-menu/commit/81270a5a9fdba77a1bf8059fe6d6d3d281af7ca0)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
