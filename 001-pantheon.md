@@ -305,17 +305,9 @@
 - [ ] [<code>Meson: add log domain (#133)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/50df1abaf9f5ef64436c31ae32e4a7495d304f63)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-display](https://github.com/elementary/switchboard-plug-display): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-display/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.2 → HEAD](https://github.com/elementary/settings-display/compare/8.0.2...HEAD)
 
-- [ ] [<code>Styles: add scale.warmth (#410)</code>](https://github.com/elementary/switchboard-plug-display/commit/0fd89e66acc5fed4fa8b731f49dfcf5468742645)
-- [ ] [<code>Fix crash on enabling mirror display (#415)</code>](https://github.com/elementary/switchboard-plug-display/commit/8aa47054dc6bbd696215ecb09ac4da674858f4fe)
-- [ ] [<code>Fix Scale set by adding modes before set calling (#414)</code>](https://github.com/elementary/switchboard-plug-display/commit/aec7f0f18489b046a4202c292c56c1df6df8a7f7)
-- [ ] [<code>Fix crash and display arrangement when pluging new monitor (#420)</code>](https://github.com/elementary/switchboard-plug-display/commit/0decde568e8ddb8f98ca9f2d7f24289ae63ac489)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#421)</code>](https://github.com/elementary/switchboard-plug-display/commit/96185c3c1b68446b8f6213b9290f496c3821a953)
-- [ ] [<code>Update meson.build (#422)</code>](https://github.com/elementary/switchboard-plug-display/commit/1e29b9c614695128ed4738da17e878e7b23080c2)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/switchboard-plug-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
+- [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/settings-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
 
