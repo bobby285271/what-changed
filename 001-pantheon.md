@@ -142,6 +142,7 @@
 - [ ] [<code>Renamer: Avoid listbox get_children (#2564)</code>](https://github.com/elementary/files/commit/e8aba118e0a8e9c16e1736044cb52d5e706ccd43)
 - [ ] [<code>FileChooserDialog: show_all dialog contents (#2569)</code>](https://github.com/elementary/files/commit/8a359efea7ccb5169af58c8798aabf17a9d16520)
 - [ ] [<code>Show context menu on all areas of sidebar (#2575)</code>](https://github.com/elementary/files/commit/2b8cf1686393f5a07271d3cda835caad881e1c23)
+- [ ] [<code>Directory View: Do not end renaming when clicking on editable widget (#2572)</code>](https://github.com/elementary/files/commit/16bb3f3a484cabcdf43c27104e51e202151f6119)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -467,6 +468,8 @@
 
 - [ ] [<code>WindowClone: Fix interaction with multiple monitors (#2406)</code>](https://github.com/elementary/gala/commit/b8943dd9653e71063f9d153ecaee2a7305e37eaa)
 - [ ] [<code>GestureController: Handle gesture interruption transparently (#2411)</code>](https://github.com/elementary/gala/commit/847ca2e1954339dcfde383ccf3493e01ecc4f29d)
+- [ ] [<code>Remove InternalUtils.scale_to_int (#2422)</code>](https://github.com/elementary/gala/commit/50df688c9c2a902eee82214ccb90898efb206063)
+- [ ] [<code>MultitaskingView: Reload blurred bg when updating monitors (#2417)</code>](https://github.com/elementary/gala/commit/316b2381e01a28fb179f2f020aae81ca0c16e3b0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
