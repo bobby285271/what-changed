@@ -8,6 +8,8 @@
 - [ ] [<code>AppInfoView: show when a game supports controllers (#2293)</code>](https://github.com/elementary/appcenter/commit/242e7bb774a940964412422b2483f2d0c08e72b5)
 - [ ] [<code>AppInfoView: layout content warnings horizontally (#2294)</code>](https://github.com/elementary/appcenter/commit/860606da04990b8926b2d796acc3444a69627346)
 - [ ] [<code>Homepage: carousel allow overflow (#2295)</code>](https://github.com/elementary/appcenter/commit/302cea7f79a29ae0f77747625c743c59b391493a)
+- [ ] [<code>Introduce CategoryManager (#2276)</code>](https://github.com/elementary/appcenter/commit/cd8eefefcd2fb190330c652867ad4ee20caaa899)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
