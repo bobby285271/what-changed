@@ -472,6 +472,7 @@
 - [ ] [<code>GestureController: Handle gesture interruption transparently (#2411)</code>](https://github.com/elementary/gala/commit/847ca2e1954339dcfde383ccf3493e01ecc4f29d)
 - [ ] [<code>Remove InternalUtils.scale_to_int (#2422)</code>](https://github.com/elementary/gala/commit/50df688c9c2a902eee82214ccb90898efb206063)
 - [ ] [<code>MultitaskingView: Reload blurred bg when updating monitors (#2417)</code>](https://github.com/elementary/gala/commit/316b2381e01a28fb179f2f020aae81ca0c16e3b0)
+- [ ] [<code>ShellWindow: Clip window actor when applying translations (#2419)</code>](https://github.com/elementary/gala/commit/81ebb7949f9742c5deda98df598d7515abf205bf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
