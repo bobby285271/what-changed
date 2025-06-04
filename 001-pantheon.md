@@ -301,6 +301,7 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/dd6c2544ef7f6a64db8d9e2f42ec4d9df33b3a54)
 - [ ] [<code>switchboard-plug-applications → settings-applications</code>](https://github.com/elementary/switchboard-plug-applications/commit/ea901e4700f77e6b79d30200fa6a29b1da04de16)
+- [ ] [<code>Sidebar: use Action, search on type (#251)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8ecd65a2c233a390998889c8677a36ec0bc7f33e)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
