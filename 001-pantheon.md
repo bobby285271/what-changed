@@ -122,6 +122,7 @@
 - [ ] [<code>SourceView: remove unused variables (#1580)</code>](https://github.com/elementary/code/commit/5f563bc95fb9da96e9602f10f62a9d5555f69fa8)
 - [ ] [<code>fix libpeas2 (#1566)</code>](https://github.com/elementary/code/commit/756f83c0dade33cb78602e32f605b46a26fa8893)
 - [ ] [<code>Sort branch lists alphabetically (#1576)</code>](https://github.com/elementary/code/commit/5922547a19a72f7f005a43f9fc2ab18f1fa15ea5)
+- [ ] [<code>Follow natural-copy-paste behaviour of pantheon-terminal (#1578)</code>](https://github.com/elementary/code/commit/a8b26dc26ab3d6c6da29ec174dd1c70921f66f48)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -189,6 +190,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#807)</code>](https://github.com/elementary/music/commit/1fc97842e9aaf99e350b7361cbe355d1028bc334)
 - [ ] [<code>Move playbackmanager lambas where we can see them (#809)</code>](https://github.com/elementary/music/commit/70a9a84880dd63b71f459cc0cb12ea7d3c2a686e)
 - [ ] [<code>Introduce save and restore methods (#810)</code>](https://github.com/elementary/music/commit/395729cdc5568537a43a0755f155221bce6e7e9e)
+- [ ] [<code>Refresh screenshot to reflect current state (#812)</code>](https://github.com/elementary/music/commit/c76587c0370fe1b6074836a362b5c1868e80139b)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -339,25 +341,8 @@
 - [ ] [<code>Meson: add log domain (#113)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/fe7f3346f5026bd21eced6fa268225255c229e46)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/switchboard-plug-onlineaccounts): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-onlineaccounts/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/e6b62b75254e4c4cb1c3b4cf74c3468b81b0ed08)
-- [ ] [<code>Meson: add log domain (#295)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/fd9b68f53cff7757631c14ea2ee71c0bf7f6203d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>feat: align add button (#296)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/89ce59443bb1260ba4fb59cec546cb0bca162b62)
-- [ ] [<code>Add fallback icon (#305)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/a4b4c7435413156dde7c7fb1ddf6f95afc84bbbd)
-- [ ] [<code>Widgets: Add PagedDialog (#300)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/dc7666cd526f86f3cbf836981a1fbfac20e60550)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Widgets: create FinalizePage (#302)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/cb6dcac8c0909d2c3556dabe11b3a443583fc3f8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>switchboard-plug- → settings-</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/da83756931301ef1a47046c122604cd2c584891d)
-- [ ] [<code>Bump EDS requirement (#306)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/124688fb29d3b240d2399426782cc64d38bc015f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>CaldavDialog: add port if missing (#307)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/d1ed6680f3f1ba32d9d6e901fbd84673f9d8032f)
-- [ ] [<code>Release 8.0.2 (#308)</code>](https://github.com/elementary/switchboard-plug-onlineaccounts/commit/0a0c0dfdf7ed56894b48cade54c19aaea8fccef9)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [8.2.0 → HEAD](https://github.com/elementary/settings-desktop/compare/8.2.0...HEAD)
 
@@ -445,23 +430,8 @@
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [8.0.1 → HEAD](https://github.com/elementary/session-settings/compare/8.0.1...HEAD)
 
 
-#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.0.1 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.0.1...HEAD)
+#### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
-- [ ] [<code>ShortcutsView update multitasking view shortcut (#152)</code>](https://github.com/elementary/shortcut-overlay/commit/3731ecc404df1f60494f355fb9785f35793e30ba)
-- [ ] [<code>Move some styles to CSS (#154)</code>](https://github.com/elementary/shortcut-overlay/commit/bdea6a000e0ace401799ec6d523169fa383ee801)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>ShortcutsView: separate sections into boxes (#153)</code>](https://github.com/elementary/shortcut-overlay/commit/3595ae7278b0695a998dbea6d9682dc46ecd7df6)
-- [ ] [<code>ShortcutLabel: move human label here (#155)</code>](https://github.com/elementary/shortcut-overlay/commit/bacb8e3bde66aa51fb49ece2ae543c97b9b6ecb2)
-- [ ] [<code>ShortcutsView: use listboxes (#157)</code>](https://github.com/elementary/shortcut-overlay/commit/a82a9b99c0fb7f88462a1abebcbb7608c8073a8a)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#160)</code>](https://github.com/elementary/shortcut-overlay/commit/2167dae45a6b873a225386986e9eeabaf639454c)
-- [ ] [<code>MainWindow: center and keep above with Pantheon protocol (#158)</code>](https://github.com/elementary/shortcut-overlay/commit/714e3f003462d1a7b55f62689da392dff2164215)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/shortcut-overlay/commit/3f26387cdfc14ed92da989592d948ceac6374833)
-- [ ] [<code>Release 8.1.0 (#161)</code>](https://github.com/elementary/shortcut-overlay/commit/f831f994c36295fb236cf87c722cf733f43d32eb)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -473,9 +443,11 @@
 - [ ] [<code>Remove InternalUtils.scale_to_int (#2422)</code>](https://github.com/elementary/gala/commit/50df688c9c2a902eee82214ccb90898efb206063)
 - [ ] [<code>MultitaskingView: Reload blurred bg when updating monitors (#2417)</code>](https://github.com/elementary/gala/commit/316b2381e01a28fb179f2f020aae81ca0c16e3b0)
 - [ ] [<code>ShellWindow: Clip window actor when applying translations (#2419)</code>](https://github.com/elementary/gala/commit/81ebb7949f9742c5deda98df598d7515abf205bf)
+- [ ] [<code>Add 'Open in Photo Viewer' to screenshot notification (#2299)</code>](https://github.com/elementary/gala/commit/2f1786f8c101bd3fabb937887c87fddd14f766da)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
+- [ ] [<code>Snappier "top panel workspace scroll" (#590)</code>](https://github.com/elementary/wingpanel/commit/51b38f8338e75d89401766d454739efbf2fb47f9)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -487,6 +459,11 @@
 - [ ] [<code>SlingshotView: remove dead get_screen (#646)</code>](https://github.com/elementary/applications-menu/commit/81336c1b03b82a7de26f1ca431e326826fa0c1a6)
 - [ ] [<code>SlingshotView: use SearchEntry.handle_event (#643)</code>](https://github.com/elementary/applications-menu/commit/e3ccf7082494abfd78ef0a98ca502b68444f393a)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/applications-menu/commit/81270a5a9fdba77a1bf8059fe6d6d3d281af7ca0)
+- [ ] [<code>AppButton: use EventControllers (#641)</code>](https://github.com/elementary/applications-menu/commit/acf77a6139d542a7adfe11d5365d5b4763d76817)
+- [ ] [<code>GridView: use KeyController (#649)</code>](https://github.com/elementary/applications-menu/commit/3c95d48fc084aa53cb0de75a73ee709bb0f66293)
+- [ ] [<code>CategoryView: use KeyController (#648)</code>](https://github.com/elementary/applications-menu/commit/1e4d1a8950de303cfaa018d76a7964bd5ce7f7ce)
+- [ ] [<code>SlingshotView: use KeyController for search entry key events (#647)</code>](https://github.com/elementary/applications-menu/commit/45e10245b166aa80bbeda4d70dbfb893b96838c5)
+- [ ] [<code>AppButton: GTK4 prep, code style (#650)</code>](https://github.com/elementary/applications-menu/commit/2b13c19de651a6aa4b42c11c177bf6f5073e276b)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -750,6 +727,8 @@
 - [ ] [<code>Manager: track and set global state (#38)</code>](https://github.com/elementary/bluetooth-daemon/commit/cfb29f118526042c5fc7dc9c172a21b9b86c9419)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix send files by Bluetooth (#41)</code>](https://github.com/elementary/bluetooth-daemon/commit/3032f943a8c81b7c3470ebcf1d511adfb5e998f1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
@@ -766,6 +745,9 @@
 
 - [ ] [<code>Fix orientation lock sync (#187)</code>](https://github.com/elementary/settings-daemon/commit/0fa1d4c7c3ec9bed97d2cac81d621f73e74fe706)
 - [ ] [<code>Sync Wingpanel transparency to Greeter (#188)</code>](https://github.com/elementary/settings-daemon/commit/dd0b6ac841a7fe06933048d2b4a835ac1537d170)
+- [ ] [<code>Add application shortcuts backend (#190)</code>](https://github.com/elementary/settings-daemon/commit/cb7fb56e3ab00d0da2c425312d4e264c893e9f7f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
