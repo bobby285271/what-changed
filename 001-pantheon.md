@@ -123,6 +123,8 @@
 - [ ] [<code>fix libpeas2 (#1566)</code>](https://github.com/elementary/code/commit/756f83c0dade33cb78602e32f605b46a26fa8893)
 - [ ] [<code>Sort branch lists alphabetically (#1576)</code>](https://github.com/elementary/code/commit/5922547a19a72f7f005a43f9fc2ab18f1fa15ea5)
 - [ ] [<code>Follow natural-copy-paste behaviour of pantheon-terminal (#1578)</code>](https://github.com/elementary/code/commit/a8b26dc26ab3d6c6da29ec174dd1c70921f66f48)
+- [ ] [<code>Fix global search - load children synchronously when expanding sidebar to path (#1571)</code>](https://github.com/elementary/code/commit/3e488b08503f0072a4f04c9a300ec19a5b5f6cf6)
+- [ ] [<code>Only use natural copy/paste if something to act on (#1588)</code>](https://github.com/elementary/code/commit/929a73aa4f96724da61235f9a3e45b3be80826b6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -191,6 +193,7 @@
 - [ ] [<code>Move playbackmanager lambas where we can see them (#809)</code>](https://github.com/elementary/music/commit/70a9a84880dd63b71f459cc0cb12ea7d3c2a686e)
 - [ ] [<code>Introduce save and restore methods (#810)</code>](https://github.com/elementary/music/commit/395729cdc5568537a43a0755f155221bce6e7e9e)
 - [ ] [<code>Refresh screenshot to reflect current state (#812)</code>](https://github.com/elementary/music/commit/c76587c0370fe1b6074836a362b5c1868e80139b)
+- [ ] [<code>Send artwork to MPRIS (#805)</code>](https://github.com/elementary/music/commit/d34b67c5ee7386888782bfede32734025a23ef91)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -269,6 +272,8 @@
 - [ ] [<code>Center the title, set min searchentry width (#841)</code>](https://github.com/elementary/terminal/commit/39766420c10d21152bca1e5b4dc46fa32276f64c)
 - [ ] [<code>Change tab label to name of foreground child process (#838)</code>](https://github.com/elementary/terminal/commit/5b361050a561a58d2029cdfae59469aba9e56cc0)
 - [ ] [<code>MainWindow: Ellipsize the title label (#871)</code>](https://github.com/elementary/terminal/commit/0f2d56055c890f3459ab3e028c9b0b0561e8e457)
+- [ ] [<code>Close tab when shell killed (#874)</code>](https://github.com/elementary/terminal/commit/0340abd5ed5d3e9e3141eecb43b62044e10bdca0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -445,6 +450,9 @@
 - [ ] [<code>MultitaskingView: Reload blurred bg when updating monitors (#2417)</code>](https://github.com/elementary/gala/commit/316b2381e01a28fb179f2f020aae81ca0c16e3b0)
 - [ ] [<code>ShellWindow: Clip window actor when applying translations (#2419)</code>](https://github.com/elementary/gala/commit/81ebb7949f9742c5deda98df598d7515abf205bf)
 - [ ] [<code>Add 'Open in Photo Viewer' to screenshot notification (#2299)</code>](https://github.com/elementary/gala/commit/2f1786f8c101bd3fabb937887c87fddd14f766da)
+- [ ] [<code>Remove WindowAttentionTracker (#2405)</code>](https://github.com/elementary/gala/commit/f11b0c617e0edef903ec256f5b3db9cc6b16a111)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager: correctly offset window actor (#2428)</code>](https://github.com/elementary/gala/commit/5ecfa7df3caa194e03d46c0cdca5907bfcb234dd)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -465,6 +473,12 @@
 - [ ] [<code>CategoryView: use KeyController (#648)</code>](https://github.com/elementary/applications-menu/commit/1e4d1a8950de303cfaa018d76a7964bd5ce7f7ce)
 - [ ] [<code>SlingshotView: use KeyController for search entry key events (#647)</code>](https://github.com/elementary/applications-menu/commit/45e10245b166aa80bbeda4d70dbfb893b96838c5)
 - [ ] [<code>AppButton: GTK4 prep, code style (#650)</code>](https://github.com/elementary/applications-menu/commit/2b13c19de651a6aa4b42c11c177bf6f5073e276b)
+- [ ] [<code>SlingshotView: GTK4 Prep (#651)</code>](https://github.com/elementary/applications-menu/commit/78fad463d8321746b68520f8a5181ec8e79d0178)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CategoryView: use controllers to open menu (#652)</code>](https://github.com/elementary/applications-menu/commit/30cd5d8729ab45c2e8a55d808dbaa1f8ed2ff9dd)
+- [ ] [<code>AppListRow: GTK4 prep (#653)</code>](https://github.com/elementary/applications-menu/commit/8fd2ce0c5be9552a2301d05b7586ff3fe38b0c36)
+- [ ] [<code>SlingshotView: use key controller for shortcuts (#654)</code>](https://github.com/elementary/applications-menu/commit/e9edeacbee8c2f74a43a6adaf12b2112b84617a7)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -761,6 +775,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.1 → HEAD](https://github.com/elementary/portals/compare/8.0.1...HEAD)
 
+- [ ] [<code>Screenshot: include frame (#136)</code>](https://github.com/elementary/portals/commit/74d7e2b59ecd9fac381e75b88632a6233ed514af)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
