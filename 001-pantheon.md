@@ -148,6 +148,7 @@
 - [ ] [<code>FileChooserDialog: show_all dialog contents (#2569)</code>](https://github.com/elementary/files/commit/8a359efea7ccb5169af58c8798aabf17a9d16520)
 - [ ] [<code>Show context menu on all areas of sidebar (#2575)</code>](https://github.com/elementary/files/commit/2b8cf1686393f5a07271d3cda835caad881e1c23)
 - [ ] [<code>Directory View: Do not end renaming when clicking on editable widget (#2572)</code>](https://github.com/elementary/files/commit/16bb3f3a484cabcdf43c27104e51e202151f6119)
+- [ ] [<code>Fix possible infinite loop when removing row</code>](https://github.com/elementary/files/commit/e4c9cb14a94fa47b21385013b449e1fb0ccd910e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
