@@ -149,6 +149,7 @@
 - [ ] [<code>Show context menu on all areas of sidebar (#2575)</code>](https://github.com/elementary/files/commit/2b8cf1686393f5a07271d3cda835caad881e1c23)
 - [ ] [<code>Directory View: Do not end renaming when clicking on editable widget (#2572)</code>](https://github.com/elementary/files/commit/16bb3f3a484cabcdf43c27104e51e202151f6119)
 - [ ] [<code>Fix possible infinite loop when removing row</code>](https://github.com/elementary/files/commit/e4c9cb14a94fa47b21385013b449e1fb0ccd910e)
+- [ ] [<code>Prepare for release 7.1.2 (#2583)</code>](https://github.com/elementary/files/commit/ebe1ed1cc6470f89846572e7d0829803db255805)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -454,6 +455,8 @@
 - [ ] [<code>Remove WindowAttentionTracker (#2405)</code>](https://github.com/elementary/gala/commit/f11b0c617e0edef903ec256f5b3db9cc6b16a111)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowManager: correctly offset window actor (#2428)</code>](https://github.com/elementary/gala/commit/5ecfa7df3caa194e03d46c0cdca5907bfcb234dd)
+- [ ] [<code>Daemon: disable "Move to Workspace" when it does nothing (#2431)</code>](https://github.com/elementary/gala/commit/997b519fa3f508376bf85549c814fc1d0b1d1ce6)
+- [ ] [<code>Close window overview when last window is closed (#2430)</code>](https://github.com/elementary/gala/commit/c36970d48f57451b48161ad44b1c60ceb482a1c5)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -480,6 +483,12 @@
 - [ ] [<code>AppListRow: GTK4 prep (#653)</code>](https://github.com/elementary/applications-menu/commit/8fd2ce0c5be9552a2301d05b7586ff3fe38b0c36)
 - [ ] [<code>SlingshotView: use key controller for shortcuts (#654)</code>](https://github.com/elementary/applications-menu/commit/e9edeacbee8c2f74a43a6adaf12b2112b84617a7)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CategoryView: code style, GTK4 prep (#655)</code>](https://github.com/elementary/applications-menu/commit/f55572d80fc2dcdf08f27213cd155a3545f737b9)
+- [ ] [<code>SearchItem: Gtk4 Prep, Code Style (#657)</code>](https://github.com/elementary/applications-menu/commit/b770e557de7ae91b6c8c1a2e08d54608d3ae96ba)
+- [ ] [<code>SearchView: use event controllers for context menu (#656)</code>](https://github.com/elementary/applications-menu/commit/da41f8d4f01e0b09ffbc247207e015a1172bd048)
+- [ ] [<code>Switcher: gtk4 prep (#659)</code>](https://github.com/elementary/applications-menu/commit/a7d3381e4b63905e6b5c37634a5d1f3bc3b72d64)
+- [ ] [<code>SearchView: absorb listbox (#658)</code>](https://github.com/elementary/applications-menu/commit/9b0417d7e523e79def71ee7bbbe93f4129835540)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -598,6 +607,10 @@
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
+- [ ] [<code>DeviceList: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5f57eed4e2c8460bb0bbd742a9f397b3a734057c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>DisplayWidget: GTK4 prep (#289)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/3b0cce17ddff9f85a5d580aa0f82eb4ee82029ac)
+- [ ] [<code>PopoverWidget: GTK4 prep (#290)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/faa949d8c3eb9f87897ff4acf4bb26894ac5b2ba)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
