@@ -611,6 +611,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>DisplayWidget: GTK4 prep (#289)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/3b0cce17ddff9f85a5d580aa0f82eb4ee82029ac)
 - [ ] [<code>PopoverWidget: GTK4 prep (#290)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/faa949d8c3eb9f87897ff4acf4bb26894ac5b2ba)
+- [ ] [<code>Port to GTK4 (#285)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/84f67801b6e0c3c82fd5deafcf89b53b3e8fcd31)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>master → main, fix weblate badge</code>](https://github.com/elementary/wingpanel-indicator-power/commit/91d1bb2160b3d079c57c8effc7b5d7bb541012c0)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
