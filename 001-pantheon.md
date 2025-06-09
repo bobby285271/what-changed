@@ -427,6 +427,7 @@
 - [ ] [<code>Compositor: remove more dead code (#781)</code>](https://github.com/elementary/greeter/commit/3765a0c75bcf92048baab10a1d79cd0bde883ab7)
 - [ ] [<code>Add dark style support (#786)</code>](https://github.com/elementary/greeter/commit/5d434ef8279261ff8cb4821a58761c2930ac6986)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use gsettings to store last user (#793)</code>](https://github.com/elementary/greeter/commit/cc94d2d4e9499c587bd8dde373cbe60b66ea35c9)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
