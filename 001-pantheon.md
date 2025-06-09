@@ -428,6 +428,8 @@
 - [ ] [<code>Add dark style support (#786)</code>](https://github.com/elementary/greeter/commit/5d434ef8279261ff8cb4821a58761c2930ac6986)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use gsettings to store last user (#793)</code>](https://github.com/elementary/greeter/commit/cc94d2d4e9499c587bd8dde373cbe60b66ea35c9)
+- [ ] [<code>Compositor: remove unused x11 specific code (#780)</code>](https://github.com/elementary/greeter/commit/abb4626f8c956c430c767560e8e44efcd46a099d)
+- [ ] [<code>Move session action into application (#795)</code>](https://github.com/elementary/greeter/commit/5620c38cf15198a5bb94d3bc3c52f03bfbe05ecd)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -458,6 +460,8 @@
 - [ ] [<code>WindowManager: correctly offset window actor (#2428)</code>](https://github.com/elementary/gala/commit/5ecfa7df3caa194e03d46c0cdca5907bfcb234dd)
 - [ ] [<code>Daemon: disable "Move to Workspace" when it does nothing (#2431)</code>](https://github.com/elementary/gala/commit/997b519fa3f508376bf85549c814fc1d0b1d1ce6)
 - [ ] [<code>Close window overview when last window is closed (#2430)</code>](https://github.com/elementary/gala/commit/c36970d48f57451b48161ad44b1c60ceb482a1c5)
+- [ ] [<code>Rewrite ShadowEffect (#2433)</code>](https://github.com/elementary/gala/commit/f6e38fd817f1d62c8a20bae5c0a454e73b67322a)
+- [ ] [<code>ShellWindow: remove clip when needed (#2427)</code>](https://github.com/elementary/gala/commit/c839164588f28236aa9f3eb1cbcabc71c08bdf09)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
