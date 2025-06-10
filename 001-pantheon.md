@@ -125,6 +125,7 @@
 - [ ] [<code>Follow natural-copy-paste behaviour of pantheon-terminal (#1578)</code>](https://github.com/elementary/code/commit/a8b26dc26ab3d6c6da29ec174dd1c70921f66f48)
 - [ ] [<code>Fix global search - load children synchronously when expanding sidebar to path (#1571)</code>](https://github.com/elementary/code/commit/3e488b08503f0072a4f04c9a300ec19a5b5f6cf6)
 - [ ] [<code>Only use natural copy/paste if something to act on (#1588)</code>](https://github.com/elementary/code/commit/929a73aa4f96724da61235f9a3e45b3be80826b6)
+- [ ] [<code>Show more information in Vala symbol tooltip (#1565)</code>](https://github.com/elementary/code/commit/35e107275e9ac268db0ff130e8c11fa577a835e6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -150,6 +151,9 @@
 - [ ] [<code>Directory View: Do not end renaming when clicking on editable widget (#2572)</code>](https://github.com/elementary/files/commit/16bb3f3a484cabcdf43c27104e51e202151f6119)
 - [ ] [<code>Fix possible infinite loop when removing row</code>](https://github.com/elementary/files/commit/e4c9cb14a94fa47b21385013b449e1fb0ccd910e)
 - [ ] [<code>Prepare for release 7.1.2 (#2583)</code>](https://github.com/elementary/files/commit/ebe1ed1cc6470f89846572e7d0829803db255805)
+- [ ] [<code>Release v7.1.2</code>](https://github.com/elementary/files/commit/3af0d4a5ff7541d0444df1fb1c14815e03efc4aa)
+  - <sub>Tags: <code>7.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -372,6 +376,9 @@
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
 
 - [ ] [<code>DLNAPage: use Gtk.FileDialog (#89)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/19880acb82b1c436eeec807b7055c46896e4d9d8)
+- [ ] [<code>Fix no titlebar buttons when network is not available (#92)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0e71bd4850c524ceed96ff60d5cd09d7ccce7408)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
@@ -430,6 +437,27 @@
 - [ ] [<code>Use gsettings to store last user (#793)</code>](https://github.com/elementary/greeter/commit/cc94d2d4e9499c587bd8dde373cbe60b66ea35c9)
 - [ ] [<code>Compositor: remove unused x11 specific code (#780)</code>](https://github.com/elementary/greeter/commit/abb4626f8c956c430c767560e8e44efcd46a099d)
 - [ ] [<code>Move session action into application (#795)</code>](https://github.com/elementary/greeter/commit/5620c38cf15198a5bb94d3bc3c52f03bfbe05ecd)
+- [ ] [<code>Protocol: add support for pushing Greeter to background</code>](https://github.com/elementary/greeter/commit/aaa9c04fce528a9b8d38e73a9f71a6445f655714)
+- [ ] [<code>Move server protocol into compositor folder</code>](https://github.com/elementary/greeter/commit/9ea805584b3dcc85d368045df856f43fa3a3fe54)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Greeter: use protocol</code>](https://github.com/elementary/greeter/commit/57df85f84b5b6015b9880fd0bb008526de82f3c9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix popover keyboard nav</code>](https://github.com/elementary/greeter/commit/8f5bf44638578a44c3a3f1704006aa7c31794dc2)
+- [ ] [<code>Remove unused PromptText (#799)</code>](https://github.com/elementary/greeter/commit/359c83fd15355dc76d84fb7625ce1389ea094e5a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup StyleContext use (#800)</code>](https://github.com/elementary/greeter/commit/f6a120c8c3751a2cf835ed382e2dc7256b6020c4)
+- [ ] [<code>Set power settings of active user (#801)</code>](https://github.com/elementary/greeter/commit/a29eaa5ac5d6e3de09813624aabe8cf7991783fa)
+- [ ] [<code>Connect to lightdm daemon early (#802)</code>](https://github.com/elementary/greeter/commit/ccbc813c9cea848d941ba6e1cb26556ae1d91bbd)
+- [ ] [<code>Cleanup UserCard property sync (#803)</code>](https://github.com/elementary/greeter/commit/68915d9d67152e33ce60fbfb649a2788c35d8218)
+- [ ] [<code>Cleanup BaseCard (#804)</code>](https://github.com/elementary/greeter/commit/f2a3742c70c9c7672a22b11e558c8bde356e39b7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Small CapsLockRevealer cleanup (#805)</code>](https://github.com/elementary/greeter/commit/362ee026e8069013236da28af8592673a8ca8b82)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Cleanup FPrintUtils (#806)</code>](https://github.com/elementary/greeter/commit/80b0f68e8e337ad8677d11cd6b6ffd6b693bde4e)
+- [ ] [<code>Cleanup DateTimeWidget (#807)</code>](https://github.com/elementary/greeter/commit/7b2b0781a4d141585d6ee36b2672ad3984b9a17d)
+- [ ] [<code>Remove old unused texture (#808)</code>](https://github.com/elementary/greeter/commit/b676e72d6f33cb1b49a3b048723f28fe78eca83e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -462,6 +490,19 @@
 - [ ] [<code>Close window overview when last window is closed (#2430)</code>](https://github.com/elementary/gala/commit/c36970d48f57451b48161ad44b1c60ceb482a1c5)
 - [ ] [<code>Rewrite ShadowEffect (#2433)</code>](https://github.com/elementary/gala/commit/f6e38fd817f1d62c8a20bae5c0a454e73b67322a)
 - [ ] [<code>ShellWindow: remove clip when needed (#2427)</code>](https://github.com/elementary/gala/commit/c839164588f28236aa9f3eb1cbcabc71c08bdf09)
+- [ ] [<code>Shorten long keybinding lines (#2310)</code>](https://github.com/elementary/gala/commit/441c1a669fc0aff937e0d454349e5fd07b204169)
+- [ ] [<code>PiP: restrict selection area to window frame rect (#2432)</code>](https://github.com/elementary/gala/commit/a28d3eb99f0c78fa23f5ec041f892f357444a959)
+- [ ] [<code>Release the Barrier once the threshhold is reached (#2425)</code>](https://github.com/elementary/gala/commit/32473f6eb86d4c36b988fe830f6c8de6755ba84b)
+- [ ] [<code>Daemon: Use size request instead of default size (#2413)</code>](https://github.com/elementary/gala/commit/2fe4ceb4b46c197c4ead79c8066d59518037db5b)
+- [ ] [<code>WindowSwitcher: correctly draw border on HiDPI (#2423)</code>](https://github.com/elementary/gala/commit/e795cc1cbcb8319efe76eb93464889c2e6c3088f)
+- [ ] [<code>Prepare metainfo for 8.2.3 release (#2435)</code>](https://github.com/elementary/gala/commit/03a03c31934d2354f4d96a07106fb322bab5d677)
+- [ ] [<code>Remove 'Open in Photo Viewer' action from screenshot notification (#2436)</code>](https://github.com/elementary/gala/commit/0c0447ba99c5a53fc3706e5e04893fcfd95c0505)
+- [ ] [<code>Release 8.2.3 (#2437)</code>](https://github.com/elementary/gala/commit/4eaed40fe437079c25cbd0ee2645e253afbf230f)
+  - <sub>Tags: <code>8.2.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Start the port to Mutter 48 (#2231)</code>](https://github.com/elementary/gala/commit/42ab42a5b8d0b58bce027404b5cdeeda590362ae)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -494,6 +535,8 @@
 - [ ] [<code>Switcher: gtk4 prep (#659)</code>](https://github.com/elementary/applications-menu/commit/a7d3381e4b63905e6b5c37634a5d1f3bc3b72d64)
 - [ ] [<code>SearchView: absorb listbox (#658)</code>](https://github.com/elementary/applications-menu/commit/9b0417d7e523e79def71ee7bbbe93f4129835540)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move icon fallbacks to widgets (#660)</code>](https://github.com/elementary/applications-menu/commit/c2f2bc49ae63a96380e595541d784884eed0625c)
+- [ ] [<code>AppContextMenu: use dialog response/present (#661)</code>](https://github.com/elementary/applications-menu/commit/bbfcff3092d3de434cb1677a3d7faa37f7140d37)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -525,6 +568,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Indicator: GTK4 prep</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/5f2b123b66e468cdecea50bd628f0cc91866f08c)
 - [ ] [<code>TimeManager: Don't derive from Gtk.Calendar</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/c505f177de9de3daa482665d0e47a3a96f24b669)
+- [ ] [<code>Port to GTK4 (#319)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/91e2fef11b2da14fdf2bd6e9a121bf9874a537f4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/ffacf9740c89e371a4b61804f0d15548b33e9748)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -583,6 +630,12 @@
 - [ ] [<code>Indicator: middle click with gesture (#110)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/1b71fb9e5e465b00ef2887b500d943c433bcb56d)
 - [ ] [<code>Indicator: add css provider for screen (#109)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/4fdc15eed5329880aa31b20ffff276d2ccc44aaa)
 - [ ] [<code>Indicator: remove unnecessary construction args (#108)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/0fef8c219a54fd60c17251d55dacaaada153ef5d)
+- [ ] [<code>Port to GTK4 (#92)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/d7213f25acc8a8b0672376df134b3962398ea38c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Rename .pot</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/2a0bea149a90da440d3cf2479ca66b0e005f9e04)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/50c6405ea7392fac0ea0147e202bf5a415141240)
+- [ ] [<code>Bump URLs</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/e42dc3346af16d88d346c0f4711c9becd6f79a87)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -620,6 +673,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>master → main, fix weblate badge</code>](https://github.com/elementary/wingpanel-indicator-power/commit/91d1bb2160b3d079c57c8effc7b5d7bb541012c0)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/57b4c36439a31e63b46e7c58bebb94777b4da1ec)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
