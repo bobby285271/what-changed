@@ -458,6 +458,12 @@
 - [ ] [<code>Cleanup DateTimeWidget (#807)</code>](https://github.com/elementary/greeter/commit/7b2b0781a4d141585d6ee36b2672ad3984b9a17d)
 - [ ] [<code>Remove old unused texture (#808)</code>](https://github.com/elementary/greeter/commit/b676e72d6f33cb1b49a3b048723f28fe78eca83e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Require Mutter >=45 (#773)</code>](https://github.com/elementary/greeter/commit/fbbb7fa8b320f51283cadf404b3e97cce00cfff0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Compositor: sync shell clients code with gala (#810)</code>](https://github.com/elementary/greeter/commit/aed49576b4e6c40443ed999e37377d2d7499d334)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Rename master to main</code>](https://github.com/elementary/greeter/commit/fb64e1820482614a6c3ddcc7de53f2e5566b53c8)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
