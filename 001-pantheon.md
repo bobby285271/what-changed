@@ -126,6 +126,8 @@
 - [ ] [<code>Fix global search - load children synchronously when expanding sidebar to path (#1571)</code>](https://github.com/elementary/code/commit/3e488b08503f0072a4f04c9a300ec19a5b5f6cf6)
 - [ ] [<code>Only use natural copy/paste if something to act on (#1588)</code>](https://github.com/elementary/code/commit/929a73aa4f96724da61235f9a3e45b3be80826b6)
 - [ ] [<code>Show more information in Vala symbol tooltip (#1565)</code>](https://github.com/elementary/code/commit/35e107275e9ac268db0ff130e8c11fa577a835e6)
+- [ ] [<code>Reapply Use switch instead of CheckBox (#1589)</code>](https://github.com/elementary/code/commit/2e10fb5e0c16ee6c89314172c705e17f65c19c29)
+- [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
@@ -133,27 +135,10 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.1 → HEAD](https://github.com/elementary/files/compare/7.1.1...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.2 → HEAD](https://github.com/elementary/files/compare/7.1.2...HEAD)
 
-- [ ] [<code>Styles: no space before parenth (#2555)</code>](https://github.com/elementary/files/commit/18822cc3bf85ae19cf3066136a80b135b16a206a)
-- [ ] [<code>AbstractSlot: GTK4 prep (#2558)</code>](https://github.com/elementary/files/commit/e3d8dd99ef3d7667b887631c8f167633431ace4f)
-- [ ] [<code>Remove PortalTester (#2559)</code>](https://github.com/elementary/files/commit/fdd5bc775b7f334b00fb760ec5323f2321b20d2d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>FileUtils: use present/response/close for error_dialog (#2562)</code>](https://github.com/elementary/files/commit/ba16e2da9ca9668fa3ab0d91a27ccab9bdb6fd51)
-- [ ] [<code>Plugins/Trash: GTK4 prep (#2563)</code>](https://github.com/elementary/files/commit/1794fefd71ec9221aa524b7c5ba14ef8c4b6420c)
-- [ ] [<code>FileUtils: add button consequences to ensure dialog body text (#2561)</code>](https://github.com/elementary/files/commit/2ed818a3612564da2b78d4e52b95750a00cc40dd)
-- [ ] [<code>Filechooser/Main: replace dialog show_all with present (#2560)</code>](https://github.com/elementary/files/commit/42d6e61048fa10d0ad079f286ebc6e78bd053405)
-- [ ] [<code>Gtk4 Prep - Use dialog.response.connect () pattern (#2568)</code>](https://github.com/elementary/files/commit/83d770f9c527458316f5cedb90eceea79416048a)
-- [ ] [<code>Renamer: Avoid listbox get_children (#2564)</code>](https://github.com/elementary/files/commit/e8aba118e0a8e9c16e1736044cb52d5e706ccd43)
-- [ ] [<code>FileChooserDialog: show_all dialog contents (#2569)</code>](https://github.com/elementary/files/commit/8a359efea7ccb5169af58c8798aabf17a9d16520)
-- [ ] [<code>Show context menu on all areas of sidebar (#2575)</code>](https://github.com/elementary/files/commit/2b8cf1686393f5a07271d3cda835caad881e1c23)
-- [ ] [<code>Directory View: Do not end renaming when clicking on editable widget (#2572)</code>](https://github.com/elementary/files/commit/16bb3f3a484cabcdf43c27104e51e202151f6119)
-- [ ] [<code>Fix possible infinite loop when removing row</code>](https://github.com/elementary/files/commit/e4c9cb14a94fa47b21385013b449e1fb0ccd910e)
-- [ ] [<code>Prepare for release 7.1.2 (#2583)</code>](https://github.com/elementary/files/commit/ebe1ed1cc6470f89846572e7d0829803db255805)
-- [ ] [<code>Release v7.1.2</code>](https://github.com/elementary/files/commit/3af0d4a5ff7541d0444df1fb1c14815e03efc4aa)
-  - <sub>Tags: <code>7.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use a validated entry in filechooser (#2586)</code>](https://github.com/elementary/files/commit/8f0e85daa62e0ef6fb4312ab884ba270b0dc0923)
+- [ ] [<code>Unmount volumes and try to stop drive before ejecting (#2587)</code>](https://github.com/elementary/files/commit/7f5e09739ef680e85a9f3b8f726b47a235ec01e0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -336,6 +321,9 @@
 - [ ] [<code>Update POTFILES (#538)</code>](https://github.com/elementary/settings-keyboard/commit/7bc33baff5ba0f34da56656b8709e5e1fe2d71e9)
 - [ ] [<code>Add standard system shortcuts to list of conflicts (#540)</code>](https://github.com/elementary/settings-keyboard/commit/94ac75304abb9a04b3672a8e67597bacd76e8e08)
 - [ ] [<code>ConflictsManager: Add comments for translators (#541)</code>](https://github.com/elementary/settings-keyboard/commit/39a05bbd6567789d8723f8886fc2356ad2ecb9b4)
+- [ ] [<code>Add settings-daemon application launcher support (#536)</code>](https://github.com/elementary/settings-keyboard/commit/1abf8da9362f868f616ac503c1fc7fea79228ad0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -464,6 +452,9 @@
 - [ ] [<code>Compositor: sync shell clients code with gala (#810)</code>](https://github.com/elementary/greeter/commit/aed49576b4e6c40443ed999e37377d2d7499d334)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Rename master to main</code>](https://github.com/elementary/greeter/commit/fb64e1820482614a6c3ddcc7de53f2e5566b53c8)
+- [ ] [<code>Follow automatic accent color preference (#813)</code>](https://github.com/elementary/greeter/commit/7c83f0155f726522e79c2597cb6285f4448f9736)
+- [ ] [<code>Position Greeter window in the compositor (#811)</code>](https://github.com/elementary/greeter/commit/d12432d2f124dc5218e252c0af246fc4f3c928a7)
+- [ ] [<code>Save and restore last selected session type (#809)</code>](https://github.com/elementary/greeter/commit/806abc63be67cca64d790c794b5f820bb394f6ee)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -846,6 +837,8 @@
 - [ ] [<code>Add application shortcuts backend (#190)</code>](https://github.com/elementary/settings-daemon/commit/cb7fb56e3ab00d0da2c425312d4e264c893e9f7f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Cache dynamic accent color in account settings and use it in Portal (#192)</code>](https://github.com/elementary/settings-daemon/commit/31f265de9446cf3f9c213b11ac225b518cbc52b3)
+- [ ] [<code>Fix housekeeping (#195)</code>](https://github.com/elementary/settings-daemon/commit/5af7e276ff028eb15d3d26404732dccf9b485260)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -859,6 +852,10 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.1 → HEAD](https://github.com/elementary/portals/compare/8.0.1...HEAD)
 
 - [ ] [<code>Screenshot: include frame (#136)</code>](https://github.com/elementary/portals/commit/74d7e2b59ecd9fac381e75b88632a6233ed514af)
+- [ ] [<code>Update portals.metainfo.xml.in (#137)</code>](https://github.com/elementary/portals/commit/0ba7a1ed3d9aa97e5a146c170f8dee1688a6a6d9)
+- [ ] [<code>Release 8.0.2 (#138)</code>](https://github.com/elementary/portals/commit/3c4485e3b55a5a4d2a45a3dfb1a16a330b641200)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
