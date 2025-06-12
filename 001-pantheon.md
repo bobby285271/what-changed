@@ -131,6 +131,7 @@
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
+- [ ] [<code>Don't store active workspace information for every window (#406)</code>](https://github.com/elementary/dock/commit/cc24e0f9a9cb59900e218aa499b2c0661772aa2c)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -401,6 +402,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove media-memory (#1348)</code>](https://github.com/elementary/icons/commit/8297fdd09bdc5a20715df4de5e9f653b04c66fc3)
 - [ ] [<code>Prep palette file for Inkscape (#1349)</code>](https://github.com/elementary/icons/commit/8558ac7d785129276ff1df53e03f3ac790160dfb)
+- [ ] [<code>Devices: differentiate keyboard from keyboard preferences (#1352)</code>](https://github.com/elementary/icons/commit/fbd1e2fcfa4ffbd5d655f4aa312d7ec75b04b19f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -507,6 +509,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Show Wingpanel in fullscreen (#2429)</code>](https://github.com/elementary/gala/commit/628eaa980003c7c1f6d8b196bb366cdad3b54739)
+- [ ] [<code>WindowStateSaver: fix crash (#2443)</code>](https://github.com/elementary/gala/commit/9defe95ef412f87eb14e0efd8b87f2fde5378a76)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -881,6 +884,8 @@
 - [ ] [<code>Release 8.0.2 (#138)</code>](https://github.com/elementary/portals/commit/3c4485e3b55a5a4d2a45a3dfb1a16a330b641200)
   - <sub>Tags: <code>8.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Screencast/SelectionRow: Use app name, style (#140)</code>](https://github.com/elementary/portals/commit/c6ee7d4459f131b05f4539e89c66be9c6d8e3ebd)
+- [ ] [<code>ScreenCast: respect cursor-mode option (#141)</code>](https://github.com/elementary/portals/commit/2c40e5869bbf8177c6e00a4248606c4d0efe6ab7)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
