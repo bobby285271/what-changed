@@ -455,6 +455,12 @@
 - [ ] [<code>Follow automatic accent color preference (#813)</code>](https://github.com/elementary/greeter/commit/7c83f0155f726522e79c2597cb6285f4448f9736)
 - [ ] [<code>Position Greeter window in the compositor (#811)</code>](https://github.com/elementary/greeter/commit/d12432d2f124dc5218e252c0af246fc4f3c928a7)
 - [ ] [<code>Save and restore last selected session type (#809)</code>](https://github.com/elementary/greeter/commit/806abc63be67cca64d790c794b5f820bb394f6ee)
+- [ ] [<code>SessionButton: subclass bin (#815)</code>](https://github.com/elementary/greeter/commit/1b75f9313e79b86adf9ba5e1c4c8170b33657fb4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Start the port to Mutter 48</code>](https://github.com/elementary/greeter/commit/4bcb6ee549d95592f93f26cc1d2faa4a4b269f51)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Prepare metainfo for 8.1.0 (#816)</code>](https://github.com/elementary/greeter/commit/fd6f1328605e0a717c898ed20af5b48a884cac54)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -500,10 +506,19 @@
 - [ ] [<code>Start the port to Mutter 48 (#2231)</code>](https://github.com/elementary/gala/commit/42ab42a5b8d0b58bce027404b5cdeeda590362ae)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Show Wingpanel in fullscreen (#2429)</code>](https://github.com/elementary/gala/commit/628eaa980003c7c1f6d8b196bb366cdad3b54739)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
 - [ ] [<code>Snappier "top panel workspace scroll" (#590)</code>](https://github.com/elementary/wingpanel/commit/51b38f8338e75d89401766d454739efbf2fb47f9)
+- [ ] [<code>Panel: add style provider for display, style correct selector (#620)</code>](https://github.com/elementary/wingpanel/commit/30728abaffb791bf8348c2b0ceb01598e3ba5f52)
+- [ ] [<code>Use translucent style with fullscreen window (#618)</code>](https://github.com/elementary/wingpanel/commit/3df558b85516dd3c78cbe1e55e1403cc3fe45f0f)
+- [ ] [<code>Require Mutter >=45</code>](https://github.com/elementary/wingpanel/commit/b292558c9df45f07ebc0b44e477bb67833d0943c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Add support for Mutter 48</code>](https://github.com/elementary/wingpanel/commit/799090429d747ac9baf4f4e021b48da743c00761)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -534,6 +549,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move icon fallbacks to widgets (#660)</code>](https://github.com/elementary/applications-menu/commit/c2f2bc49ae63a96380e595541d784884eed0625c)
 - [ ] [<code>AppContextMenu: use dialog response/present (#661)</code>](https://github.com/elementary/applications-menu/commit/bbfcff3092d3de434cb1677a3d7faa37f7140d37)
+- [ ] [<code>PageChecker: don't hold a page ref</code>](https://github.com/elementary/applications-menu/commit/a1908549881f384a0c30af67807be029c75fb18e)
+- [ ] [<code>PageChecker: clean up styles</code>](https://github.com/elementary/applications-menu/commit/82b1ae618841ab70a493c3bfc3223b661a3f5d61)
+- [ ] [<code>PageChecker: Use SPDX header</code>](https://github.com/elementary/applications-menu/commit/959f7078770a85dd4aecdf7dbc8dea612e5ab770)
+- [ ] [<code>SearchItem: remove unused cancellable (#664)</code>](https://github.com/elementary/applications-menu/commit/a1dc7159ca9388d22e998ffaa986212cd0dfe22c)
+- [ ] [<code>CategoryView: connect to ListBox.move_cursor instead of subclass (#665)</code>](https://github.com/elementary/applications-menu/commit/400711a41eb08bc2092a6c5ba5aad434fe18ce05)
+- [ ] [<code>Switcher: get_children, add.connect_after -> n_pages (#662)</code>](https://github.com/elementary/applications-menu/commit/c8afc36172dda4bff1ef5e077cf2e2c773693e95)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -839,6 +860,10 @@
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Cache dynamic accent color in account settings and use it in Portal (#192)</code>](https://github.com/elementary/settings-daemon/commit/31f265de9446cf3f9c213b11ac225b518cbc52b3)
 - [ ] [<code>Fix housekeeping (#195)</code>](https://github.com/elementary/settings-daemon/commit/5af7e276ff028eb15d3d26404732dccf9b485260)
+- [ ] [<code>Update metainfo for 8.3.1 (#197)</code>](https://github.com/elementary/settings-daemon/commit/bd64344daac37f9be14f154a68d8d3c72e5fbf69)
+- [ ] [<code>Release 8.3.1 (#198)</code>](https://github.com/elementary/settings-daemon/commit/c74733171ead9f4be7e4d34dff8fac4d606bc804)
+  - <sub>Tags: <code>8.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
