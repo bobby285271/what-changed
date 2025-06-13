@@ -128,10 +128,14 @@
 - [ ] [<code>Show more information in Vala symbol tooltip (#1565)</code>](https://github.com/elementary/code/commit/35e107275e9ac268db0ff130e8c11fa577a835e6)
 - [ ] [<code>Reapply Use switch instead of CheckBox (#1589)</code>](https://github.com/elementary/code/commit/2e10fb5e0c16ee6c89314172c705e17f65c19c29)
 - [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
+- [ ] [<code>Add tooltips after tree finished constructing (#1591)</code>](https://github.com/elementary/code/commit/9107f4035129a982a6c1767eef434ee8c3626067)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
 
 - [ ] [<code>Don't store active workspace information for every window (#406)</code>](https://github.com/elementary/dock/commit/cc24e0f9a9cb59900e218aa499b2c0661772aa2c)
+- [ ] [<code>Release 8.1.2 (#430)</code>](https://github.com/elementary/dock/commit/600fd5fa9321dffe628f24fabc5ab6f9f13b79da)
+  - <sub>Tags: <code>8.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -325,6 +329,7 @@
 - [ ] [<code>Add settings-daemon application launcher support (#536)</code>](https://github.com/elementary/settings-keyboard/commit/1abf8da9362f868f616ac503c1fc7fea79228ad0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Prepare metainfo for 8.1.0 release (#543)</code>](https://github.com/elementary/settings-keyboard/commit/a8424bc9ba6ae08bc3a27c1e2670d457929fc77e)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -877,15 +882,13 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.1 → HEAD](https://github.com/elementary/portals/compare/8.0.1...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.2 → HEAD](https://github.com/elementary/portals/compare/8.0.2...HEAD)
 
-- [ ] [<code>Screenshot: include frame (#136)</code>](https://github.com/elementary/portals/commit/74d7e2b59ecd9fac381e75b88632a6233ed514af)
-- [ ] [<code>Update portals.metainfo.xml.in (#137)</code>](https://github.com/elementary/portals/commit/0ba7a1ed3d9aa97e5a146c170f8dee1688a6a6d9)
-- [ ] [<code>Release 8.0.2 (#138)</code>](https://github.com/elementary/portals/commit/3c4485e3b55a5a4d2a45a3dfb1a16a330b641200)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Screencast/SelectionRow: Use app name, style (#140)</code>](https://github.com/elementary/portals/commit/c6ee7d4459f131b05f4539e89c66be9c6d8e3ebd)
 - [ ] [<code>ScreenCast: respect cursor-mode option (#141)</code>](https://github.com/elementary/portals/commit/2c40e5869bbf8177c6e00a4248606c4d0efe6ab7)
+- [ ] [<code>Release 8.0.3 (#142)</code>](https://github.com/elementary/portals/commit/30b41684890bf41ebc752d163ad6b77f3a6ea7c9)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
