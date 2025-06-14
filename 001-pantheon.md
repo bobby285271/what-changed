@@ -144,6 +144,7 @@
 
 - [ ] [<code>Use a validated entry in filechooser (#2586)</code>](https://github.com/elementary/files/commit/8f0e85daa62e0ef6fb4312ab884ba270b0dc0923)
 - [ ] [<code>Unmount volumes and try to stop drive before ejecting (#2587)</code>](https://github.com/elementary/files/commit/7f5e09739ef680e85a9f3b8f726b47a235ec01e0)
+- [ ] [<code>AppChooserDialog: Replace run () (#2590)</code>](https://github.com/elementary/files/commit/56fb924ef434fc8cd7eb3c285957f5cbb0c3a038)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -515,6 +516,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Show Wingpanel in fullscreen (#2429)</code>](https://github.com/elementary/gala/commit/628eaa980003c7c1f6d8b196bb366cdad3b54739)
 - [ ] [<code>WindowStateSaver: fix crash (#2443)</code>](https://github.com/elementary/gala/commit/9defe95ef412f87eb14e0efd8b87f2fde5378a76)
+- [ ] [<code>StyleManager: fix interaction with automatic accent color (#2441)</code>](https://github.com/elementary/gala/commit/5d7775c37e9fe2ab73ce5b4a908a50f4fdd00733)
+- [ ] [<code>DesktopIntegration: Don't resend windows when switching workspace (#2374)</code>](https://github.com/elementary/gala/commit/ed88ffba10bbdb5ddefb4a921fe0b4b5b5dfcb20)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -712,6 +715,30 @@
 - [ ] [<code>DisplayWidget: GTK4 Prep (#296)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/b3b755475b45027c99d8c2104761981c7e878675)
 - [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
 - [ ] [<code>Scale: don't set an icon on construct (#298)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/72917da6ab842b5655e986e620897682df419d84)
+
+#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.1.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.1.0...HEAD)
+
+- [ ] [<code>Adapt to uid_t being an available type since Vala 0.56.17 (#91)</code>](https://github.com/elementary/quick-settings/commit/765a77ded353e4eedfe62a2116e252cc107cef5a)
+- [ ] [<code>Cleaner shutdown or restart (#96)</code>](https://github.com/elementary/quick-settings/commit/90f0f1a0074762fd2583cc58f6ab7be403ee018c)
+- [ ] [<code>Add "Prevent Sleep" toggle (#93)</code>](https://github.com/elementary/quick-settings/commit/fa37f23943764145d254b835dc231e6a6feab5d9)
+- [ ] [<code>Metainfo: add 1.1.1 release notes (#97)</code>](https://github.com/elementary/quick-settings/commit/0dd043eeed72ca99e2b644cd3df67459a8744b43)
+- [ ] [<code>DarkModeToggle: use Settings daemon key (#100)</code>](https://github.com/elementary/quick-settings/commit/91d3fa217faf80e677c634763ddbc9bdf3df80f9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 1.2.0 release notes (#102)</code>](https://github.com/elementary/quick-settings/commit/ec916f4447f7fdd5766b3034777623bc3fd2a74e)
+- [ ] [<code>Make PreventSleepToggle self contained (#99)</code>](https://github.com/elementary/quick-settings/commit/849b097839787c7600f766e0a557a82c4dfd7149)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Show suspend button not lock when actually suspending in greeter (#94)</code>](https://github.com/elementary/quick-settings/commit/d3b48101befb122c59006c496f0adae6c42bc34a)
+- [ ] [<code>Metainfo: add #98 to 1.2.0 release notes (#104)</code>](https://github.com/elementary/quick-settings/commit/28c537f897d06baa3c2a9984595bf0fdf6b69407)
+- [ ] [<code>Update screenshot (#105)</code>](https://github.com/elementary/quick-settings/commit/caa013627661898e628ca500541e3d2b0c95b0f1)
+- [ ] [<code>Release 1.2.0 (#103)</code>](https://github.com/elementary/quick-settings/commit/55d81be407b099fdbb0c0304e3b4ba904cf23e7c)
+  - <sub>Tags: <code>1.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SettingsToggle: icon → icon_name (#107)</code>](https://github.com/elementary/quick-settings/commit/682d0c60a6aff3ade4eb121a40fd7f97484489cc)
+- [ ] [<code>UserRow: remove draw call (#112)</code>](https://github.com/elementary/quick-settings/commit/803ef3ca84d008537e47589c1b02967a3df34139)
+- [ ] [<code>EndSessionDialog: replace ButtonBox (#110)</code>](https://github.com/elementary/quick-settings/commit/534fb75b966839adc33f40bc407e62e3a47504e3)
+- [ ] [<code>SessionBox: present_with_time → present (#109)</code>](https://github.com/elementary/quick-settings/commit/dc8c1752c561a21008f546a7e7bc9ea7a9a8c74d)
+- [ ] [<code>EndSessionDialog: use EventControllerKey (#111)</code>](https://github.com/elementary/quick-settings/commit/c5bcc54da47d815826319bc55c8ae7ef06608fd5)
+- [ ] [<code>PopoverWidget: notify when onboard activated in Wayland (#120)</code>](https://github.com/elementary/quick-settings/commit/61cc3b67c2408e9904c19e97718d006339b90c03)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
