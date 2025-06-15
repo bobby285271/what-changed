@@ -130,12 +130,8 @@
 - [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
 - [ ] [<code>Add tooltips after tree finished constructing (#1591)</code>](https://github.com/elementary/code/commit/9107f4035129a982a6c1767eef434ee8c3626067)
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.1 → HEAD](https://github.com/elementary/dock/compare/8.1.1...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
-- [ ] [<code>Don't store active workspace information for every window (#406)</code>](https://github.com/elementary/dock/commit/cc24e0f9a9cb59900e218aa499b2c0661772aa2c)
-- [ ] [<code>Release 8.1.2 (#430)</code>](https://github.com/elementary/dock/commit/600fd5fa9321dffe628f24fabc5ab6f9f13b79da)
-  - <sub>Tags: <code>8.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -487,31 +483,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [8.2.2 → HEAD](https://github.com/elementary/gala/compare/8.2.2...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [8.2.3 → HEAD](https://github.com/elementary/gala/compare/8.2.3...HEAD)
 
-- [ ] [<code>WindowClone: Fix interaction with multiple monitors (#2406)</code>](https://github.com/elementary/gala/commit/b8943dd9653e71063f9d153ecaee2a7305e37eaa)
-- [ ] [<code>GestureController: Handle gesture interruption transparently (#2411)</code>](https://github.com/elementary/gala/commit/847ca2e1954339dcfde383ccf3493e01ecc4f29d)
-- [ ] [<code>Remove InternalUtils.scale_to_int (#2422)</code>](https://github.com/elementary/gala/commit/50df688c9c2a902eee82214ccb90898efb206063)
-- [ ] [<code>MultitaskingView: Reload blurred bg when updating monitors (#2417)</code>](https://github.com/elementary/gala/commit/316b2381e01a28fb179f2f020aae81ca0c16e3b0)
-- [ ] [<code>ShellWindow: Clip window actor when applying translations (#2419)</code>](https://github.com/elementary/gala/commit/81ebb7949f9742c5deda98df598d7515abf205bf)
-- [ ] [<code>Add 'Open in Photo Viewer' to screenshot notification (#2299)</code>](https://github.com/elementary/gala/commit/2f1786f8c101bd3fabb937887c87fddd14f766da)
-- [ ] [<code>Remove WindowAttentionTracker (#2405)</code>](https://github.com/elementary/gala/commit/f11b0c617e0edef903ec256f5b3db9cc6b16a111)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowManager: correctly offset window actor (#2428)</code>](https://github.com/elementary/gala/commit/5ecfa7df3caa194e03d46c0cdca5907bfcb234dd)
-- [ ] [<code>Daemon: disable "Move to Workspace" when it does nothing (#2431)</code>](https://github.com/elementary/gala/commit/997b519fa3f508376bf85549c814fc1d0b1d1ce6)
-- [ ] [<code>Close window overview when last window is closed (#2430)</code>](https://github.com/elementary/gala/commit/c36970d48f57451b48161ad44b1c60ceb482a1c5)
-- [ ] [<code>Rewrite ShadowEffect (#2433)</code>](https://github.com/elementary/gala/commit/f6e38fd817f1d62c8a20bae5c0a454e73b67322a)
-- [ ] [<code>ShellWindow: remove clip when needed (#2427)</code>](https://github.com/elementary/gala/commit/c839164588f28236aa9f3eb1cbcabc71c08bdf09)
-- [ ] [<code>Shorten long keybinding lines (#2310)</code>](https://github.com/elementary/gala/commit/441c1a669fc0aff937e0d454349e5fd07b204169)
-- [ ] [<code>PiP: restrict selection area to window frame rect (#2432)</code>](https://github.com/elementary/gala/commit/a28d3eb99f0c78fa23f5ec041f892f357444a959)
-- [ ] [<code>Release the Barrier once the threshhold is reached (#2425)</code>](https://github.com/elementary/gala/commit/32473f6eb86d4c36b988fe830f6c8de6755ba84b)
-- [ ] [<code>Daemon: Use size request instead of default size (#2413)</code>](https://github.com/elementary/gala/commit/2fe4ceb4b46c197c4ead79c8066d59518037db5b)
-- [ ] [<code>WindowSwitcher: correctly draw border on HiDPI (#2423)</code>](https://github.com/elementary/gala/commit/e795cc1cbcb8319efe76eb93464889c2e6c3088f)
-- [ ] [<code>Prepare metainfo for 8.2.3 release (#2435)</code>](https://github.com/elementary/gala/commit/03a03c31934d2354f4d96a07106fb322bab5d677)
-- [ ] [<code>Remove 'Open in Photo Viewer' action from screenshot notification (#2436)</code>](https://github.com/elementary/gala/commit/0c0447ba99c5a53fc3706e5e04893fcfd95c0505)
-- [ ] [<code>Release 8.2.3 (#2437)</code>](https://github.com/elementary/gala/commit/4eaed40fe437079c25cbd0ee2645e253afbf230f)
-  - <sub>Tags: <code>8.2.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Start the port to Mutter 48 (#2231)</code>](https://github.com/elementary/gala/commit/42ab42a5b8d0b58bce027404b5cdeeda590362ae)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
@@ -718,23 +691,8 @@
 - [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
 - [ ] [<code>Scale: don't set an icon on construct (#298)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/72917da6ab842b5655e986e620897682df419d84)
 
-#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.1.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.1.0...HEAD)
+#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.2.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.2.0...HEAD)
 
-- [ ] [<code>Adapt to uid_t being an available type since Vala 0.56.17 (#91)</code>](https://github.com/elementary/quick-settings/commit/765a77ded353e4eedfe62a2116e252cc107cef5a)
-- [ ] [<code>Cleaner shutdown or restart (#96)</code>](https://github.com/elementary/quick-settings/commit/90f0f1a0074762fd2583cc58f6ab7be403ee018c)
-- [ ] [<code>Add "Prevent Sleep" toggle (#93)</code>](https://github.com/elementary/quick-settings/commit/fa37f23943764145d254b835dc231e6a6feab5d9)
-- [ ] [<code>Metainfo: add 1.1.1 release notes (#97)</code>](https://github.com/elementary/quick-settings/commit/0dd043eeed72ca99e2b644cd3df67459a8744b43)
-- [ ] [<code>DarkModeToggle: use Settings daemon key (#100)</code>](https://github.com/elementary/quick-settings/commit/91d3fa217faf80e677c634763ddbc9bdf3df80f9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 1.2.0 release notes (#102)</code>](https://github.com/elementary/quick-settings/commit/ec916f4447f7fdd5766b3034777623bc3fd2a74e)
-- [ ] [<code>Make PreventSleepToggle self contained (#99)</code>](https://github.com/elementary/quick-settings/commit/849b097839787c7600f766e0a557a82c4dfd7149)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Show suspend button not lock when actually suspending in greeter (#94)</code>](https://github.com/elementary/quick-settings/commit/d3b48101befb122c59006c496f0adae6c42bc34a)
-- [ ] [<code>Metainfo: add #98 to 1.2.0 release notes (#104)</code>](https://github.com/elementary/quick-settings/commit/28c537f897d06baa3c2a9984595bf0fdf6b69407)
-- [ ] [<code>Update screenshot (#105)</code>](https://github.com/elementary/quick-settings/commit/caa013627661898e628ca500541e3d2b0c95b0f1)
-- [ ] [<code>Release 1.2.0 (#103)</code>](https://github.com/elementary/quick-settings/commit/55d81be407b099fdbb0c0304e3b4ba904cf23e7c)
-  - <sub>Tags: <code>1.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SettingsToggle: icon → icon_name (#107)</code>](https://github.com/elementary/quick-settings/commit/682d0c60a6aff3ade4eb121a40fd7f97484489cc)
 - [ ] [<code>UserRow: remove draw call (#112)</code>](https://github.com/elementary/quick-settings/commit/803ef3ca84d008537e47589c1b02967a3df34139)
 - [ ] [<code>EndSessionDialog: replace ButtonBox (#110)</code>](https://github.com/elementary/quick-settings/commit/534fb75b966839adc33f40bc407e62e3a47504e3)
@@ -889,19 +847,8 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
-- [ ] [<code>Fix orientation lock sync (#187)</code>](https://github.com/elementary/settings-daemon/commit/0fa1d4c7c3ec9bed97d2cac81d621f73e74fe706)
-- [ ] [<code>Sync Wingpanel transparency to Greeter (#188)</code>](https://github.com/elementary/settings-daemon/commit/dd0b6ac841a7fe06933048d2b4a835ac1537d170)
-- [ ] [<code>Add application shortcuts backend (#190)</code>](https://github.com/elementary/settings-daemon/commit/cb7fb56e3ab00d0da2c425312d4e264c893e9f7f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Cache dynamic accent color in account settings and use it in Portal (#192)</code>](https://github.com/elementary/settings-daemon/commit/31f265de9446cf3f9c213b11ac225b518cbc52b3)
-- [ ] [<code>Fix housekeeping (#195)</code>](https://github.com/elementary/settings-daemon/commit/5af7e276ff028eb15d3d26404732dccf9b485260)
-- [ ] [<code>Update metainfo for 8.3.1 (#197)</code>](https://github.com/elementary/settings-daemon/commit/bd64344daac37f9be14f154a68d8d3c72e5fbf69)
-- [ ] [<code>Release 8.3.1 (#198)</code>](https://github.com/elementary/settings-daemon/commit/c74733171ead9f4be7e4d34dff8fac4d606bc804)
-  - <sub>Tags: <code>8.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -912,13 +859,8 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.2 → HEAD](https://github.com/elementary/portals/compare/8.0.2...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.3 → HEAD](https://github.com/elementary/portals/compare/8.0.3...HEAD)
 
-- [ ] [<code>Screencast/SelectionRow: Use app name, style (#140)</code>](https://github.com/elementary/portals/commit/c6ee7d4459f131b05f4539e89c66be9c6d8e3ebd)
-- [ ] [<code>ScreenCast: respect cursor-mode option (#141)</code>](https://github.com/elementary/portals/commit/2c40e5869bbf8177c6e00a4248606c4d0efe6ab7)
-- [ ] [<code>Release 8.0.3 (#142)</code>](https://github.com/elementary/portals/commit/30b41684890bf41ebc752d163ad6b77f3a6ea7c9)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
