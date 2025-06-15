@@ -145,6 +145,7 @@
 - [ ] [<code>Use a validated entry in filechooser (#2586)</code>](https://github.com/elementary/files/commit/8f0e85daa62e0ef6fb4312ab884ba270b0dc0923)
 - [ ] [<code>Unmount volumes and try to stop drive before ejecting (#2587)</code>](https://github.com/elementary/files/commit/7f5e09739ef680e85a9f3b8f726b47a235ec01e0)
 - [ ] [<code>AppChooserDialog: Replace run () (#2590)</code>](https://github.com/elementary/files/commit/56fb924ef434fc8cd7eb3c285957f5cbb0c3a038)
+- [ ] [<code>Restore files from trash dialogs - present () not run () (#2546)</code>](https://github.com/elementary/files/commit/0e63732ba6b8be4d3bbe01fe1aa168a19086ba9a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -518,6 +519,7 @@
 - [ ] [<code>WindowStateSaver: fix crash (#2443)</code>](https://github.com/elementary/gala/commit/9defe95ef412f87eb14e0efd8b87f2fde5378a76)
 - [ ] [<code>StyleManager: fix interaction with automatic accent color (#2441)</code>](https://github.com/elementary/gala/commit/5d7775c37e9fe2ab73ce5b4a908a50f4fdd00733)
 - [ ] [<code>DesktopIntegration: Don't resend windows when switching workspace (#2374)</code>](https://github.com/elementary/gala/commit/ed88ffba10bbdb5ddefb4a921fe0b4b5b5dfcb20)
+- [ ] [<code>WindowTracker: better search for desktop file (#2382)</code>](https://github.com/elementary/gala/commit/5bbf6ed743fecc84fcdb55fa5566846f98fc5341)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -739,6 +741,7 @@
 - [ ] [<code>SessionBox: present_with_time → present (#109)</code>](https://github.com/elementary/quick-settings/commit/dc8c1752c561a21008f546a7e7bc9ea7a9a8c74d)
 - [ ] [<code>EndSessionDialog: use EventControllerKey (#111)</code>](https://github.com/elementary/quick-settings/commit/c5bcc54da47d815826319bc55c8ae7ef06608fd5)
 - [ ] [<code>PopoverWidget: notify when onboard activated in Wayland (#120)</code>](https://github.com/elementary/quick-settings/commit/61cc3b67c2408e9904c19e97718d006339b90c03)
+- [ ] [<code>DarkModeToggle: animate (#121)</code>](https://github.com/elementary/quick-settings/commit/199c7e1a98e60ba26cb0aeb650dc30e32835126c)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
