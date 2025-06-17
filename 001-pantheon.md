@@ -142,6 +142,9 @@
 - [ ] [<code>Unmount volumes and try to stop drive before ejecting (#2587)</code>](https://github.com/elementary/files/commit/7f5e09739ef680e85a9f3b8f726b47a235ec01e0)
 - [ ] [<code>AppChooserDialog: Replace run () (#2590)</code>](https://github.com/elementary/files/commit/56fb924ef434fc8cd7eb3c285957f5cbb0c3a038)
 - [ ] [<code>Restore files from trash dialogs - present () not run () (#2546)</code>](https://github.com/elementary/files/commit/0e63732ba6b8be4d3bbe01fe1aa168a19086ba9a)
+- [ ] [<code>Revert applying quotes by default in DnD (#2595)</code>](https://github.com/elementary/files/commit/8b4f60337a5c1655bae2f3c06db3a5fe95d35b95)
+- [ ] [<code>Revert "Use a validated entry in filechooser (#2586)" (#2597)</code>](https://github.com/elementary/files/commit/0bdca162f33e7bf44de5087647434cc870ef2b8d)
+- [ ] [<code>Prepare for release 7.1.3 (#2596)</code>](https://github.com/elementary/files/commit/135f4d524059edf3c34df53f3f5b7b99f0d84894)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -295,6 +298,7 @@
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
 
 - [ ] [<code>Add device icons to gresource (#380)</code>](https://github.com/elementary/switchboard-plug-about/commit/72de5c7eb844b2f3c8c81e0accb19d5adbfeb44b)
+- [ ] [<code>FirmwareView: use Adw.NavigationView (#381)</code>](https://github.com/elementary/switchboard-plug-about/commit/749362bffddd17555c240ecd0dd5836bc5fff69d)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -328,6 +332,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Prepare metainfo for 8.1.0 release (#543)</code>](https://github.com/elementary/settings-keyboard/commit/a8424bc9ba6ae08bc3a27c1e2670d457929fc77e)
+- [ ] [<code>Release 8.1.0 (#544)</code>](https://github.com/elementary/settings-keyboard/commit/39d602893c061d54740b9565e43f467acd67b351)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -700,6 +708,8 @@
 - [ ] [<code>EndSessionDialog: use EventControllerKey (#111)</code>](https://github.com/elementary/quick-settings/commit/c5bcc54da47d815826319bc55c8ae7ef06608fd5)
 - [ ] [<code>PopoverWidget: notify when onboard activated in Wayland (#120)</code>](https://github.com/elementary/quick-settings/commit/61cc3b67c2408e9904c19e97718d006339b90c03)
 - [ ] [<code>DarkModeToggle: animate (#121)</code>](https://github.com/elementary/quick-settings/commit/199c7e1a98e60ba26cb0aeb650dc30e32835126c)
+- [ ] [<code>RotationToggle: animate (#122)</code>](https://github.com/elementary/quick-settings/commit/253da4f60c2b89a876a7c54b20b1d53ebba3717d)
+- [ ] [<code>EndSessionDialog: use Granite.MessageDialog (#123)</code>](https://github.com/elementary/quick-settings/commit/01e95289c223bd5a7ab2c7a1f35585cbf3bf3153)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
@@ -806,6 +816,7 @@
 - [ ] [<code>Add BackButton (#692)</code>](https://github.com/elementary/granite/commit/35227beb7caa2fbf4061909cac789533d505a445)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Export variables expected by dock (#869)</code>](https://github.com/elementary/granite/commit/83445f149e703708cdaf9672ff2a859de1847dd6)
+- [ ] [<code>StyleManager: Allow the GLib.Application to be null (#876)</code>](https://github.com/elementary/granite/commit/66c5fec8b4fd046d44c7122416595605594b9591)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
