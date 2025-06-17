@@ -145,6 +145,7 @@
 - [ ] [<code>Revert applying quotes by default in DnD (#2595)</code>](https://github.com/elementary/files/commit/8b4f60337a5c1655bae2f3c06db3a5fe95d35b95)
 - [ ] [<code>Revert "Use a validated entry in filechooser (#2586)" (#2597)</code>](https://github.com/elementary/files/commit/0bdca162f33e7bf44de5087647434cc870ef2b8d)
 - [ ] [<code>Prepare for release 7.1.3 (#2596)</code>](https://github.com/elementary/files/commit/135f4d524059edf3c34df53f3f5b7b99f0d84894)
+- [ ] [<code>Revert translatable metainfo for release 7.1.3 (#2599)</code>](https://github.com/elementary/files/commit/b2bfab0ac201efa8f42de7c70a88caaf2b25cddb)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
