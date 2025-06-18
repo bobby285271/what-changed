@@ -129,6 +129,7 @@
 - [ ] [<code>Reapply Use switch instead of CheckBox (#1589)</code>](https://github.com/elementary/code/commit/2e10fb5e0c16ee6c89314172c705e17f65c19c29)
 - [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
 - [ ] [<code>Add tooltips after tree finished constructing (#1591)</code>](https://github.com/elementary/code/commit/9107f4035129a982a6c1767eef434ee8c3626067)
+- [ ] [<code>Ensure cast to ExpandableItem is possible (#1598)</code>](https://github.com/elementary/code/commit/b51e0e78cfd0ff545a0f7a618ff0ea76e6f57811)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -146,6 +147,9 @@
 - [ ] [<code>Revert "Use a validated entry in filechooser (#2586)" (#2597)</code>](https://github.com/elementary/files/commit/0bdca162f33e7bf44de5087647434cc870ef2b8d)
 - [ ] [<code>Prepare for release 7.1.3 (#2596)</code>](https://github.com/elementary/files/commit/135f4d524059edf3c34df53f3f5b7b99f0d84894)
 - [ ] [<code>Revert translatable metainfo for release 7.1.3 (#2599)</code>](https://github.com/elementary/files/commit/b2bfab0ac201efa8f42de7c70a88caaf2b25cddb)
+- [ ] [<code>Release v7.1.3 (#2598)</code>](https://github.com/elementary/files/commit/a27054d8574d57ea8f6dd6dbc2f27b20971a5740)
+  - <sub>Tags: <code>7.1.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -309,6 +313,7 @@
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
+- [ ] [<code>Manager: get settings from Daemon (#236)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b825c7639c9eee4d7c86c21c7844768cd9434898)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -605,6 +610,11 @@
 - [ ] [<code>PopoverWidget: label listboxes (#146)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/d8f16cfbf16683695401202d9062b6289c63932d)
 - [ ] [<code>Indicator: use Gtk.GestureMultiPress (#145)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/343b1ec10c19ee11d05d84750140131a57e82466)
 - [ ] [<code>PopoverWidget: get sources length directly from gsettings (#144)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/bd99017e37f36c5664d1eb5eaf58db7b1025c346)
+- [ ] [<code>Port to GTK4 (#133)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/026374fe3f5c6f91e899c7da3005e4e8149c821f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update URLs</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/164a9a6f8076f66ca509f8ac674461947de6e775)
+- [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/491add699ebe9d7ed763b003e54191c93e1a3879)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -847,6 +857,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix send files by Bluetooth (#41)</code>](https://github.com/elementary/bluetooth-daemon/commit/3032f943a8c81b7c3470ebcf1d511adfb5e998f1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Metainfo: add 1.1.0 release notes (#42)</code>](https://github.com/elementary/bluetooth-daemon/commit/1918c2bc5b00aa40b5b09c236abcaae6623804c5)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Release 1.1.0 (#43)</code>](https://github.com/elementary/bluetooth-daemon/commit/812cd1cd9f507b3de9487d3d6c59b0f339e018a7)
+  - <sub>Tags: <code>1.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
@@ -873,6 +888,8 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.3 → HEAD](https://github.com/elementary/portals/compare/8.0.3...HEAD)
 
+- [ ] [<code>XdgDesktopPortalPantheon: Do not access to xdg-desktop-portal before its fully initialized (#144)</code>](https://github.com/elementary/portals/commit/3ee8ec16593ba4fe9a37de6cd4d80d46d2a473eb)
+- [ ] [<code>metainfo: Add release note for 8.0.4 (#145)</code>](https://github.com/elementary/portals/commit/8acc30da8b316e512d32c26a23ca962c9fd97468)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
