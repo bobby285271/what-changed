@@ -137,19 +137,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.2 → HEAD](https://github.com/elementary/files/compare/7.1.2...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.3 → HEAD](https://github.com/elementary/files/compare/7.1.3...HEAD)
 
-- [ ] [<code>Use a validated entry in filechooser (#2586)</code>](https://github.com/elementary/files/commit/8f0e85daa62e0ef6fb4312ab884ba270b0dc0923)
-- [ ] [<code>Unmount volumes and try to stop drive before ejecting (#2587)</code>](https://github.com/elementary/files/commit/7f5e09739ef680e85a9f3b8f726b47a235ec01e0)
-- [ ] [<code>AppChooserDialog: Replace run () (#2590)</code>](https://github.com/elementary/files/commit/56fb924ef434fc8cd7eb3c285957f5cbb0c3a038)
-- [ ] [<code>Restore files from trash dialogs - present () not run () (#2546)</code>](https://github.com/elementary/files/commit/0e63732ba6b8be4d3bbe01fe1aa168a19086ba9a)
-- [ ] [<code>Revert applying quotes by default in DnD (#2595)</code>](https://github.com/elementary/files/commit/8b4f60337a5c1655bae2f3c06db3a5fe95d35b95)
-- [ ] [<code>Revert "Use a validated entry in filechooser (#2586)" (#2597)</code>](https://github.com/elementary/files/commit/0bdca162f33e7bf44de5087647434cc870ef2b8d)
-- [ ] [<code>Prepare for release 7.1.3 (#2596)</code>](https://github.com/elementary/files/commit/135f4d524059edf3c34df53f3f5b7b99f0d84894)
-- [ ] [<code>Revert translatable metainfo for release 7.1.3 (#2599)</code>](https://github.com/elementary/files/commit/b2bfab0ac201efa8f42de7c70a88caaf2b25cddb)
-- [ ] [<code>Release v7.1.3 (#2598)</code>](https://github.com/elementary/files/commit/a27054d8574d57ea8f6dd6dbc2f27b20971a5740)
-  - <sub>Tags: <code>7.1.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -298,6 +287,7 @@
 - [ ] [<code>Revert "SettingsSideBar: Fix selection of the correct row (#336)" (#340)</code>](https://github.com/elementary/switchboard/commit/89985cb23b46a47156f720372bb879395a2d5c62)
 - [ ] [<code>SettingsSideBar: Fix selection of the correct row (#344)</code>](https://github.com/elementary/switchboard/commit/150ef81c4dd2ee27f02d5ef5af3d9269a3011a67)
 - [ ] [<code>README: Fix broken Weblate badge (#345)</code>](https://github.com/elementary/switchboard/commit/2bfd734d27480e89073bdb519e516f64fc46a024)
+- [ ] [<code>SettingsSidebar: Fix null access when selection of SettingsSidebarRow is cleared (#347)</code>](https://github.com/elementary/switchboard/commit/854c76b8668a5ca11c3deffded5ae3a18d5463eb)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -314,6 +304,10 @@
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/switchboard-plug-bluetooth): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...HEAD)
 
 - [ ] [<code>Manager: get settings from Daemon (#236)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b825c7639c9eee4d7c86c21c7844768cd9434898)
+- [ ] [<code>PairDialog: make passkey match pincode (#239)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b821b7a91f430d7f327614594621cac16ed4b321)
+- [ ] [<code>Manager: use GLib.Once (#238)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/11d32df549f61b68f8991a59e1c438ddc880c456)
+- [ ] [<code>PairDialog: send ACCEPT when paired (#240)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b414525fc30972f6ea2f669acc116ad382d0b57d)
+- [ ] [<code>Metainfo: add fixed issues for 8.0.2 (#244)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/50dbf603b08c6705804839b438d00a9dd5fe8041)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
