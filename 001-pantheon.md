@@ -308,6 +308,9 @@
 - [ ] [<code>Manager: use GLib.Once (#238)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/11d32df549f61b68f8991a59e1c438ddc880c456)
 - [ ] [<code>PairDialog: send ACCEPT when paired (#240)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/b414525fc30972f6ea2f669acc116ad382d0b57d)
 - [ ] [<code>Metainfo: add fixed issues for 8.0.2 (#244)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/50dbf603b08c6705804839b438d00a9dd5fe8041)
+- [ ] [<code>DeviceRow: use CSS for small label (#242)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2c75457b1ffe57ef7ccfb8acd5842ffef574ee33)
+- [ ] [<code>DeviceRow: get adapter internally (#241)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/0a2d54f1b8425667c2f961e45c3e0e2003c645df)
+- [ ] [<code>DeviceRow: connect to activate (#243)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/be69bea6359dc790dca5906e243af1b77e00983f)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
