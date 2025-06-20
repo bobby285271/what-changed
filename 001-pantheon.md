@@ -311,6 +311,7 @@
 - [ ] [<code>DeviceRow: use CSS for small label (#242)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2c75457b1ffe57ef7ccfb8acd5842ffef574ee33)
 - [ ] [<code>DeviceRow: get adapter internally (#241)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/0a2d54f1b8425667c2f961e45c3e0e2003c645df)
 - [ ] [<code>DeviceRow: connect to activate (#243)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/be69bea6359dc790dca5906e243af1b77e00983f)
+- [ ] [<code>MainView: use list model (#245)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d39055ed9836f0a1f07a7c01724900f263f9528c)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -321,23 +322,8 @@
 
 - [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/settings-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
 
-#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.0.2 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.0.2...HEAD)
+#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.0 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.0...HEAD)
 
-- [ ] [<code>Cleanup CustomShortcutListBox (#537)</code>](https://github.com/elementary/settings-keyboard/commit/901db793304bbba0da02d444cfe4969a68a8aed0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove ConflictDialog (#539)</code>](https://github.com/elementary/settings-keyboard/commit/b52618f948f6a50ae1ea7b28307d9199667b03ab)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES (#538)</code>](https://github.com/elementary/settings-keyboard/commit/7bc33baff5ba0f34da56656b8709e5e1fe2d71e9)
-- [ ] [<code>Add standard system shortcuts to list of conflicts (#540)</code>](https://github.com/elementary/settings-keyboard/commit/94ac75304abb9a04b3672a8e67597bacd76e8e08)
-- [ ] [<code>ConflictsManager: Add comments for translators (#541)</code>](https://github.com/elementary/settings-keyboard/commit/39a05bbd6567789d8723f8886fc2356ad2ecb9b4)
-- [ ] [<code>Add settings-daemon application launcher support (#536)</code>](https://github.com/elementary/settings-keyboard/commit/1abf8da9362f868f616ac503c1fc7fea79228ad0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Prepare metainfo for 8.1.0 release (#543)</code>](https://github.com/elementary/settings-keyboard/commit/a8424bc9ba6ae08bc3a27c1e2670d457929fc77e)
-- [ ] [<code>Release 8.1.0 (#544)</code>](https://github.com/elementary/settings-keyboard/commit/39d602893c061d54740b9565e43f467acd67b351)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
@@ -838,27 +824,8 @@
 - [ ] [<code>Install into libexecdir instead of bindir (#36)</code>](https://github.com/elementary/contractor/commit/90056888997d50e5638ba7f254ecf580ea0c6a2c)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.0.1 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.0.1...HEAD)
+#### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.1.0 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.1.0...HEAD)
 
-- [ ] [<code>Add .editorconfig (#24)</code>](https://github.com/elementary/bluetooth-daemon/commit/6b66a64509a77a0d30265724bbfc613311d48982)
-- [ ] [<code>Application: Refactoring (#25)</code>](https://github.com/elementary/bluetooth-daemon/commit/d798c82b170be68d16a052c1812c1547b3c28bb2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Manager: Fix always checking whether the first adapter is discovering (#26)</code>](https://github.com/elementary/bluetooth-daemon/commit/2277671ff54974efa7179699e64df242c2d6eb13)
-- [ ] [<code>ObjectManager: Refactoring (#27)</code>](https://github.com/elementary/bluetooth-daemon/commit/6112c88f9db55b25e21bcf3015db35e3ab9f1efc)
-- [ ] [<code>DeviceRow: GTK4 prep (#31)</code>](https://github.com/elementary/bluetooth-daemon/commit/216c46b883b6b1d6e099436e71cb55d156c6fbe9)
-- [ ] [<code>Application: move dark style support to startup (#34)</code>](https://github.com/elementary/bluetooth-daemon/commit/67165192acd3743e63296dcf6cd61df10120dbb0)
-- [ ] [<code>SenderDialog: GTK4 prep (#32)</code>](https://github.com/elementary/bluetooth-daemon/commit/ba02f761e4435b3c75d46afa28e9fdce062428d3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Manager: track and set global state (#38)</code>](https://github.com/elementary/bluetooth-daemon/commit/cfb29f118526042c5fc7dc9c172a21b9b86c9419)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix send files by Bluetooth (#41)</code>](https://github.com/elementary/bluetooth-daemon/commit/3032f943a8c81b7c3470ebcf1d511adfb5e998f1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Metainfo: add 1.1.0 release notes (#42)</code>](https://github.com/elementary/bluetooth-daemon/commit/1918c2bc5b00aa40b5b09c236abcaae6623804c5)
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Release 1.1.0 (#43)</code>](https://github.com/elementary/bluetooth-daemon/commit/812cd1cd9f507b3de9487d3d6c59b0f339e018a7)
-  - <sub>Tags: <code>1.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
