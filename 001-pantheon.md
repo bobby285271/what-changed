@@ -139,6 +139,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.3 → HEAD](https://github.com/elementary/files/compare/7.1.3...HEAD)
 
+- [ ] [<code>Fix regression in copy/paste and DnD (#2601)</code>](https://github.com/elementary/files/commit/9a4411fcd1682bb543e2d07c0f1133368c150aa2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
