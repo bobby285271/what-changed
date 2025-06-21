@@ -130,6 +130,10 @@
 - [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
 - [ ] [<code>Add tooltips after tree finished constructing (#1591)</code>](https://github.com/elementary/code/commit/9107f4035129a982a6c1767eef434ee8c3626067)
 - [ ] [<code>Ensure cast to ExpandableItem is possible (#1598)</code>](https://github.com/elementary/code/commit/b51e0e78cfd0ff545a0f7a618ff0ea76e6f57811)
+- [ ] [<code>Release v8.0.0 (#1590)</code>](https://github.com/elementary/code/commit/a1b97f28934f431f6a4cf940291c0766ebe21b90)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/code/commit/d3f3872932128eb29505528939ac33956a6baa3a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -140,6 +144,10 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.3 → HEAD](https://github.com/elementary/files/compare/7.1.3...HEAD)
 
 - [ ] [<code>Fix regression in copy/paste and DnD (#2601)</code>](https://github.com/elementary/files/commit/9a4411fcd1682bb543e2d07c0f1133368c150aa2)
+- [ ] [<code>Prepare for v7.1.4 (#2603)</code>](https://github.com/elementary/files/commit/3965c1c4e81ea048ef9c1d318eba95ae37cb43fb)
+- [ ] [<code>Release v7.1.4 (#2604)</code>](https://github.com/elementary/files/commit/46abeac920ac60b0ea593beef60480d48a42cbd3)
+  - <sub>Tags: <code>7.1.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -205,6 +213,7 @@
 - [ ] [<code>inih: Update inih to 60 (#798)</code>](https://github.com/elementary/photos/commit/944ad21bd861d48218e12a91b0b4247fab546908)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#799)</code>](https://github.com/elementary/photos/commit/8b0b21dad018c52051f3ed7fadb7cb123c4f89ba)
 - [ ] [<code>gexiv2: Update gexiv2-0.14.3.tar.xz to 0.14.5 (#800)</code>](https://github.com/elementary/photos/commit/b1f0694ffe585eb306527f69b50f00a328201162)
+- [ ] [<code>COPYING → LICENSE (#802)</code>](https://github.com/elementary/photos/commit/c64e177ce9d145c49e2b046a702346950a15cf0f)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -313,6 +322,7 @@
 - [ ] [<code>DeviceRow: get adapter internally (#241)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/0a2d54f1b8425667c2f961e45c3e0e2003c645df)
 - [ ] [<code>DeviceRow: connect to activate (#243)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/be69bea6359dc790dca5906e243af1b77e00983f)
 - [ ] [<code>MainView: use list model (#245)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d39055ed9836f0a1f07a7c01724900f263f9528c)
+- [ ] [<code>MainView: init model earlier</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2c7baf3cf318418e7bf76852c5015b5c94ae2f67)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -835,6 +845,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#129)</code>](https://github.com/elementary/capnet-assist/commit/28d6d07695e91e65280d097b35498868fffe8778)
 - [ ] [<code>Bump platform to 8.1 (#128)</code>](https://github.com/elementary/capnet-assist/commit/3b8ee44b773213a3c88809ebef09a01aba24dacf)
 - [ ] [<code>MainWindow: Fix build warnings (#131)</code>](https://github.com/elementary/capnet-assist/commit/2181117d01ee44442eed8cfab00604fe3dbcf907)
+- [ ] [<code>Use GPL-2.0 text (#133)</code>](https://github.com/elementary/capnet-assist/commit/334aa7ea98eb821423b5a38eee2db0145611e9b1)
+- [ ] [<code>Revert "Use GPL-2.0 text (#133)" (#135)</code>](https://github.com/elementary/capnet-assist/commit/0445befdcd0197bcd1b09ad5c441783410216bc2)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
