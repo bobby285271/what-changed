@@ -134,6 +134,7 @@
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/code/commit/d3f3872932128eb29505528939ac33956a6baa3a)
+- [ ] [<code>Try explicit set object in ActivatablePlugin (#1606)</code>](https://github.com/elementary/code/commit/9b8347adcbb94f3186815413d927eecc51be2ccf)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
