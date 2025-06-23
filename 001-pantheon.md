@@ -475,6 +475,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Prepare metainfo for 8.1.0 (#816)</code>](https://github.com/elementary/greeter/commit/fd6f1328605e0a717c898ed20af5b48a884cac54)
+- [ ] [<code>Center caps lock label (#798)</code>](https://github.com/elementary/greeter/commit/386dec4c1eff853ff535db5b2dbda4f67d0d181a)
+- [ ] [<code>Sync Wingpanel transparency (#788)</code>](https://github.com/elementary/greeter/commit/ca4c90615d22ea2bf55a2987cbe929c299edba99)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -868,6 +870,9 @@
 
 - [ ] [<code>XdgDesktopPortalPantheon: Do not access to xdg-desktop-portal before its fully initialized (#144)</code>](https://github.com/elementary/portals/commit/3ee8ec16593ba4fe9a37de6cd4d80d46d2a473eb)
 - [ ] [<code>metainfo: Add release note for 8.0.4 (#145)</code>](https://github.com/elementary/portals/commit/8acc30da8b316e512d32c26a23ca962c9fd97468)
+- [ ] [<code>Release 8.0.4 (#146)</code>](https://github.com/elementary/portals/commit/349ac92480cbbc3f1164003bd6a948391d27a3a5)
+  - <sub>Tags: <code>8.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
