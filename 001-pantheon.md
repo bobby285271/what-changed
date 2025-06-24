@@ -57,82 +57,8 @@
 - [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
 - [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [7.4.0 → HEAD](https://github.com/elementary/code/compare/7.4.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [8.0.0 → HEAD](https://github.com/elementary/code/compare/8.0.0...HEAD)
 
-- [ ] [<code>FileView: Use activate instead of select to open docs (#1465)</code>](https://github.com/elementary/code/commit/83af1aad8d2407d64ead025412510928c33788c3)
-- [ ] [<code>Update Document.vala (#1505)</code>](https://github.com/elementary/code/commit/a538ed36e43caed493747b2c4c074a3f3673b353)
-- [ ] [<code>Sort Apps for "Open in ..." (#1519)</code>](https://github.com/elementary/code/commit/6056e9ad8b6ea4cc7aa06fd9112482497601a152)
-- [ ] [<code>Rework word completion: Split out PrefixNode class (#1529)</code>](https://github.com/elementary/code/commit/f77f5f50168b8dcf007b23b0fa70da7276c1c568)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Confirm overwriting uncommitted changes on branch change (#1524)</code>](https://github.com/elementary/code/commit/2284168cfd7b586d6d9b4f25e89188950f8b5098)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Do not allow simultaneous opening of projects with parent-child relationship (#1500)</code>](https://github.com/elementary/code/commit/04ff18037bb8b3c67f9c0fcacca1b7b3045cb434)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Store and restore active-project-path explicitly (#1472)</code>](https://github.com/elementary/code/commit/e90b56f1dde07bb75bdbcacfc9bf68d5441e1711)
-- [ ] [<code>Rework word completion: Start to prepare PrefixNode for dynamic updating (#1532)</code>](https://github.com/elementary/code/commit/857a8713d2b00eac2955efc1eb6ac799f4eb1ac0)
-- [ ] [<code>Remove unneeded check in Vala Symbol pane (#1514)</code>](https://github.com/elementary/code/commit/522235c120d0786c03ecd64ba57ebbdcdf053f79)
-- [ ] [<code>WelcomeView: use resourced icon for project (#1535)</code>](https://github.com/elementary/code/commit/3b7f2f809a5e09ce54f933928cb12ad1e0762499)
-- [ ] [<code>Avoid calling doc.do_close () twice (#1538)</code>](https://github.com/elementary/code/commit/46258fa0acea73ed414238b4dad7b489d82fee74)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#1540)</code>](https://github.com/elementary/code/commit/d13a00e504d3df7814ffbf57944d41f000aca1a5)
-- [ ] [<code>CI: run arm workflows on arm runner (#1541)</code>](https://github.com/elementary/code/commit/15393be0cc432ae1a52216650471e683deb0e8c8)
-- [ ] [<code>CloseProjectsConfirmationDialog: Correct ngettext format (#1542)</code>](https://github.com/elementary/code/commit/3cbf7ace1a73163fc2d1013c67d8fd12b1936715)
-- [ ] [<code>OverwriteUncommittedConfirmationDialog: Correct icon name and buttons order (#1544)</code>](https://github.com/elementary/code/commit/7e9a3b3089156351bd49092c3cd8bc9921fe5b4a)
-- [ ] [<code>CloseProjectsConfirmationDialog: Don't use printf in the plural form (#1543)</code>](https://github.com/elementary/code/commit/13f07f99164ca569c5c1808defbeda44ff91ba70)
-- [ ] [<code>Handle error thrown while checking out a branch (#1537)</code>](https://github.com/elementary/code/commit/bdc547fe64dee10a873c963cdbb8e3b806caf9cd)
-- [ ] [<code>Fix "Open in" for Flatpak running (#1512)</code>](https://github.com/elementary/code/commit/5afc26acc0a529ba1185c063a29b8c34b5396176)
-- [ ] [<code>editorconfig.vala: make hook document handler asynchronous (#1334)</code>](https://github.com/elementary/code/commit/c96f526a7bc8c205c8ff0f6f50e43562164bcf5c)
-- [ ] [<code>Unselect symbol item after select so can be reselected (#1504)</code>](https://github.com/elementary/code/commit/6095df30e174d1e7bdd5ef021ad3fc8bef7c7051)
-- [ ] [<code>Increase maximum selection length (#1470)</code>](https://github.com/elementary/code/commit/2e89995e5756afd416dd8471e7fd53fe65be09b1)
-- [ ] [<code>Move Open in Terminal option (#1518)</code>](https://github.com/elementary/code/commit/a4813dbc8296c2520d47e0ea4558ab0e66ebc6fb)
-- [ ] [<code>Minor FolderManager code improvements (#1489)</code>](https://github.com/elementary/code/commit/c793f08c2ee2f53f95008df038850b5d3d117d59)
-- [ ] [<code>Lose unused function</code>](https://github.com/elementary/code/commit/e5d23135a51f3583263cdb18fa1fa60f8df624ca)
-- [ ] [<code>Timeout tree construction (#1515)</code>](https://github.com/elementary/code/commit/b267a506f3e84db97eb3ab8c0f7560e5aa2b9612)
-- [ ] [<code>Implement checkout of remote branches (#1516)</code>](https://github.com/elementary/code/commit/3481195a2e3804358ad374b4c7cf862498d78de9)
-- [ ] [<code>Correct tooltip message (#1547)</code>](https://github.com/elementary/code/commit/03d775a58ca80dee066fa47350365e90c23b95e0)
-- [ ] [<code>Persist current search term until intentionally changed (#1509)</code>](https://github.com/elementary/code/commit/09c844e19e2b46993252912f2df2187dd13fc0cc)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1552)</code>](https://github.com/elementary/code/commit/b2fba8055b117e9fa2f236ee6844ec95bce34eb6)
-- [ ] [<code>Silence some warnings (#1488)</code>](https://github.com/elementary/code/commit/9da4dbc656784bf947e9fe13d542dc9f1fb8a37c)
-- [ ] [<code>Update construction of completion provider (#1528)</code>](https://github.com/elementary/code/commit/f1341d1bca1cca3ac9b97544c43a6378c1fa874a)
-- [ ] [<code>Implement navigation between edit points (#1138)</code>](https://github.com/elementary/code/commit/0810fd88411a4793d10b85dc79586e60bfffabf1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Load sidebar folder children asynchronously after docs finished loading (#1522)</code>](https://github.com/elementary/code/commit/d23410b119e1ae98b564162ee654e5a32210c0b5)
-- [ ] [<code>Fix regressions in search bar behaviour (#1551)</code>](https://github.com/elementary/code/commit/9d653cd8ac4d1d7b3db5772c1a61e7289a42e819)
-- [ ] [<code>Migrate to libpeas-2 (#1501)</code>](https://github.com/elementary/code/commit/79d804993b4792a18e03c861da3f24adcbdbeb91)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Allow network access from Flatpak (#1555)</code>](https://github.com/elementary/code/commit/c920777db3083f7a93784e9626743101ac713b15)
-- [ ] [<code>README: Replace libsoup2.4-dev with libsoup-3.0-dev (#1557)</code>](https://github.com/elementary/code/commit/f35a4c0e3cfd65d22084d9c6293e5ee8db2f256e)
-- [ ] [<code>Launcher: add icons to actions (#1559)</code>](https://github.com/elementary/code/commit/cdc4942a4bdc7902b500ab35f6e8251332ce0b88)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Markdown: fix numbered list (#1474)</code>](https://github.com/elementary/code/commit/6af36fadb9e795c710709bcf558dd32ed4ef64a3)
-- [ ] [<code>Update Gettext Action</code>](https://github.com/elementary/code/commit/ac74dfae943156f282354b63feca547f2e30f1e6)
-- [ ] [<code>PluginManager: cleanup listbox, add accessible name (#1561)</code>](https://github.com/elementary/code/commit/dd75c21cac62b34a4a5071516620b14982be51dd)
-- [ ] [<code>PluginsManager: cleanups (#1562)</code>](https://github.com/elementary/code/commit/a6d91febe319a2f022a3dbcee48725205f56272e)
-- [ ] [<code>PluginManager: bump license header (#1563)</code>](https://github.com/elementary/code/commit/2b8a479bdf28d88b6cccc235490afeab98b863d7)
-- [ ] [<code>BracketsCompletion: misc cleanup (#1564)</code>](https://github.com/elementary/code/commit/fb5d3fcb13803810ea8e553bc9a77410b7b371b7)
-- [ ] [<code>Install as different application (#1568)</code>](https://github.com/elementary/code/commit/6085063cc344eb4e94c55553302fd9d0ff2a0cfb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Revert "Install as different application (#1568)" (#1569)</code>](https://github.com/elementary/code/commit/e50eeeb8a094708795f9a97c23e3283aaa23f921)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Use Switch instead of CheckBox (#1567)</code>](https://github.com/elementary/code/commit/056d78c2b9d8944cfd6c119ea7da1ab8f3520379)
-- [ ] [<code>Meson: Fix deprecations (#1579)</code>](https://github.com/elementary/code/commit/48a09cb2af9409a39eae4b49fe657c9c3bb83c62)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>SourceView: remove unused variables (#1580)</code>](https://github.com/elementary/code/commit/5f563bc95fb9da96e9602f10f62a9d5555f69fa8)
-- [ ] [<code>fix libpeas2 (#1566)</code>](https://github.com/elementary/code/commit/756f83c0dade33cb78602e32f605b46a26fa8893)
-- [ ] [<code>Sort branch lists alphabetically (#1576)</code>](https://github.com/elementary/code/commit/5922547a19a72f7f005a43f9fc2ab18f1fa15ea5)
-- [ ] [<code>Follow natural-copy-paste behaviour of pantheon-terminal (#1578)</code>](https://github.com/elementary/code/commit/a8b26dc26ab3d6c6da29ec174dd1c70921f66f48)
-- [ ] [<code>Fix global search - load children synchronously when expanding sidebar to path (#1571)</code>](https://github.com/elementary/code/commit/3e488b08503f0072a4f04c9a300ec19a5b5f6cf6)
-- [ ] [<code>Only use natural copy/paste if something to act on (#1588)</code>](https://github.com/elementary/code/commit/929a73aa4f96724da61235f9a3e45b3be80826b6)
-- [ ] [<code>Show more information in Vala symbol tooltip (#1565)</code>](https://github.com/elementary/code/commit/35e107275e9ac268db0ff130e8c11fa577a835e6)
-- [ ] [<code>Reapply Use switch instead of CheckBox (#1589)</code>](https://github.com/elementary/code/commit/2e10fb5e0c16ee6c89314172c705e17f65c19c29)
-- [ ] [<code>Prepare for release 8.0.0 (#1573)</code>](https://github.com/elementary/code/commit/4614140e304bc1df710e62f308ce9cfbee7ccafe)
-- [ ] [<code>Add tooltips after tree finished constructing (#1591)</code>](https://github.com/elementary/code/commit/9107f4035129a982a6c1767eef434ee8c3626067)
-- [ ] [<code>Ensure cast to ExpandableItem is possible (#1598)</code>](https://github.com/elementary/code/commit/b51e0e78cfd0ff545a0f7a618ff0ea76e6f57811)
-- [ ] [<code>Release v8.0.0 (#1590)</code>](https://github.com/elementary/code/commit/a1b97f28934f431f6a4cf940291c0766ebe21b90)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/code/commit/d3f3872932128eb29505528939ac33956a6baa3a)
 - [ ] [<code>Try explicit set object in ActivatablePlugin (#1606)</code>](https://github.com/elementary/code/commit/9b8347adcbb94f3186815413d927eecc51be2ccf)
 
@@ -552,6 +478,13 @@
 - [ ] [<code>SearchItem: remove unused cancellable (#664)</code>](https://github.com/elementary/applications-menu/commit/a1dc7159ca9388d22e998ffaa986212cd0dfe22c)
 - [ ] [<code>CategoryView: connect to ListBox.move_cursor instead of subclass (#665)</code>](https://github.com/elementary/applications-menu/commit/400711a41eb08bc2092a6c5ba5aad434fe18ce05)
 - [ ] [<code>Switcher: get_children, add.connect_after -> n_pages (#662)</code>](https://github.com/elementary/applications-menu/commit/c8afc36172dda4bff1ef5e077cf2e2c773693e95)
+- [ ] [<code>Style listitems as modelbuttons (#666)</code>](https://github.com/elementary/applications-menu/commit/00dd992358d88428c6ea5cdf7d8a6ddd47567c6d)
+- [ ] [<code>SearchView: subclass bin (#667)</code>](https://github.com/elementary/applications-menu/commit/3b661162466e9f947ac50e80b8122b885360dc64)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Styles: add modelbutton focus style (#669)</code>](https://github.com/elementary/applications-menu/commit/4530230bcb00061efd45e1ee25df5d177878885f)
+- [ ] [<code>App: add menu model (#668)</code>](https://github.com/elementary/applications-menu/commit/aca296c86cf52a289aac606fd59e3d679c40f30c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -856,6 +789,8 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
+- [ ] [<code>SystemUpdate: Use systemd timer for initial and daily update check (#200)</code>](https://github.com/elementary/settings-daemon/commit/1e2412950e7e62d3933858a098317030635e0f36)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
