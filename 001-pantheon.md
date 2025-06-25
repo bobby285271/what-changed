@@ -61,6 +61,11 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/code/commit/d3f3872932128eb29505528939ac33956a6baa3a)
 - [ ] [<code>Try explicit set object in ActivatablePlugin (#1606)</code>](https://github.com/elementary/code/commit/9b8347adcbb94f3186815413d927eecc51be2ccf)
+- [ ] [<code>Clone remote repository. (#1548)</code>](https://github.com/elementary/code/commit/34b0af4fc3829d96b7d85a60bb1e2b5ba69fa776)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/6f1f2546f1c422e34f79e4ddf62f0efb97730b69)
+- [ ] [<code>CloneRepositoryDialog: fix warning attaching null widget (#1609)</code>](https://github.com/elementary/code/commit/695b657ed2969ae18fef0bfafd50dbfb0ad745aa)
+- [ ] [<code>MainWindow: Fix missing gettext (#1611)</code>](https://github.com/elementary/code/commit/fbb8d5676c8cdf9e15a4c083d8931e92cfc35ba1)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -225,6 +230,10 @@
 - [ ] [<code>SettingsSideBar: Fix selection of the correct row (#344)</code>](https://github.com/elementary/switchboard/commit/150ef81c4dd2ee27f02d5ef5af3d9269a3011a67)
 - [ ] [<code>README: Fix broken Weblate badge (#345)</code>](https://github.com/elementary/switchboard/commit/2bfd734d27480e89073bdb519e516f64fc46a024)
 - [ ] [<code>SettingsSidebar: Fix null access when selection of SettingsSidebarRow is cleared (#347)</code>](https://github.com/elementary/switchboard/commit/854c76b8668a5ca11c3deffded5ae3a18d5463eb)
+- [ ] [<code>Enable DBus Activation (#349)</code>](https://github.com/elementary/switchboard/commit/c63cdd984f52e3e6769beb38fdbce033080cfd2c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#350)</code>](https://github.com/elementary/switchboard/commit/571160ae63a04cd922d6bcadbf7f1ce4fa663051)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -485,6 +494,8 @@
 - [ ] [<code>App: add menu model (#668)</code>](https://github.com/elementary/applications-menu/commit/aca296c86cf52a289aac606fd59e3d679c40f30c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Synapse: remove ClipboardCopyAction (#671)</code>](https://github.com/elementary/applications-menu/commit/a5b6992f88b3d41601b413dfb604596c284f9929)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -758,6 +769,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Export variables expected by dock (#869)</code>](https://github.com/elementary/granite/commit/83445f149e703708cdaf9672ff2a859de1847dd6)
 - [ ] [<code>StyleManager: Allow the GLib.Application to be null (#876)</code>](https://github.com/elementary/granite/commit/66c5fec8b4fd046d44c7122416595605594b9591)
+- [ ] [<code>Constants: add since to each CssClass (#878)</code>](https://github.com/elementary/granite/commit/5a535ee90958ac51024d77d66c1dfa71fc40bd4d)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
