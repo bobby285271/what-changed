@@ -73,13 +73,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.3 → HEAD](https://github.com/elementary/files/compare/7.1.3...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.4 → HEAD](https://github.com/elementary/files/compare/7.1.4...HEAD)
 
-- [ ] [<code>Fix regression in copy/paste and DnD (#2601)</code>](https://github.com/elementary/files/commit/9a4411fcd1682bb543e2d07c0f1133368c150aa2)
-- [ ] [<code>Prepare for v7.1.4 (#2603)</code>](https://github.com/elementary/files/commit/3965c1c4e81ea048ef9c1d318eba95ae37cb43fb)
-- [ ] [<code>Release v7.1.4 (#2604)</code>](https://github.com/elementary/files/commit/46abeac920ac60b0ea593beef60480d48a42cbd3)
-  - <sub>Tags: <code>7.1.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -770,6 +765,8 @@
 - [ ] [<code>Export variables expected by dock (#869)</code>](https://github.com/elementary/granite/commit/83445f149e703708cdaf9672ff2a859de1847dd6)
 - [ ] [<code>StyleManager: Allow the GLib.Application to be null (#876)</code>](https://github.com/elementary/granite/commit/66c5fec8b4fd046d44c7122416595605594b9591)
 - [ ] [<code>Constants: add since to each CssClass (#878)</code>](https://github.com/elementary/granite/commit/5a535ee90958ac51024d77d66c1dfa71fc40bd4d)
+- [ ] [<code>ListItem: subclass Gtk.Widget directly (#879)</code>](https://github.com/elementary/granite/commit/989f82507a517a9bbf2cb4893a0bce8156919d1b)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -813,13 +810,8 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
 
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.3 → HEAD](https://github.com/elementary/portals/compare/8.0.3...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
-- [ ] [<code>XdgDesktopPortalPantheon: Do not access to xdg-desktop-portal before its fully initialized (#144)</code>](https://github.com/elementary/portals/commit/3ee8ec16593ba4fe9a37de6cd4d80d46d2a473eb)
-- [ ] [<code>metainfo: Add release note for 8.0.4 (#145)</code>](https://github.com/elementary/portals/commit/8acc30da8b316e512d32c26a23ca962c9fd97468)
-- [ ] [<code>Release 8.0.4 (#146)</code>](https://github.com/elementary/portals/commit/349ac92480cbbc3f1164003bd6a948391d27a3a5)
-  - <sub>Tags: <code>8.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
