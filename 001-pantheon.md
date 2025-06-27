@@ -66,6 +66,9 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/6f1f2546f1c422e34f79e4ddf62f0efb97730b69)
 - [ ] [<code>CloneRepositoryDialog: fix warning attaching null widget (#1609)</code>](https://github.com/elementary/code/commit/695b657ed2969ae18fef0bfafd50dbfb0ad745aa)
 - [ ] [<code>MainWindow: Fix missing gettext (#1611)</code>](https://github.com/elementary/code/commit/fbb8d5676c8cdf9e15a4c083d8931e92cfc35ba1)
+- [ ] [<code>Bump libgit2-glib dependency (#1613)</code>](https://github.com/elementary/code/commit/35086d7367d871caae0bc187ccb1d0923b7b584b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -434,6 +437,9 @@
 - [ ] [<code>StyleManager: fix interaction with automatic accent color (#2441)</code>](https://github.com/elementary/gala/commit/5d7775c37e9fe2ab73ce5b4a908a50f4fdd00733)
 - [ ] [<code>DesktopIntegration: Don't resend windows when switching workspace (#2374)</code>](https://github.com/elementary/gala/commit/ed88ffba10bbdb5ddefb4a921fe0b4b5b5dfcb20)
 - [ ] [<code>WindowTracker: better search for desktop file (#2382)</code>](https://github.com/elementary/gala/commit/5bbf6ed743fecc84fcdb55fa5566846f98fc5341)
+- [ ] [<code>Revert "Remove WindowAttentionTracker" (#2448)</code>](https://github.com/elementary/gala/commit/9839e8c05a1d35b76609a4599093613c1625ef9c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add issues to 8.2.4 (#2456)</code>](https://github.com/elementary/gala/commit/a7d79ccfc2f9331dca19d5c97836b16e0e250c68)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -767,6 +773,8 @@
 - [ ] [<code>Constants: add since to each CssClass (#878)</code>](https://github.com/elementary/granite/commit/5a535ee90958ac51024d77d66c1dfa71fc40bd4d)
 - [ ] [<code>ListItem: subclass Gtk.Widget directly (#879)</code>](https://github.com/elementary/granite/commit/989f82507a517a9bbf2cb4893a0bce8156919d1b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>GraniteDemo: add color scheme switcher to sidebar (#862)</code>](https://github.com/elementary/granite/commit/e56c931267ca42a4e946c512427648b149891e42)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -827,3 +835,4 @@
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
 - [ ] [<code>Pantheon: add monitor (#142)</code>](https://github.com/elementary/seeds/commit/ace5f7118ba938a5f552572f5e7f3511e63c9cbf)
+- [ ] [<code>desktop: add grub-efi-arm64 (#143)</code>](https://github.com/elementary/seeds/commit/73fb204bd7210165bd9ade4eaeecb8a00e7f0462)
