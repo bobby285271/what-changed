@@ -257,6 +257,7 @@
 - [ ] [<code>DeviceRow: connect to activate (#243)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/be69bea6359dc790dca5906e243af1b77e00983f)
 - [ ] [<code>MainView: use list model (#245)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d39055ed9836f0a1f07a7c01724900f263f9528c)
 - [ ] [<code>MainView: init model earlier</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2c7baf3cf318418e7bf76852c5015b5c94ae2f67)
+- [ ] [<code>MainView: use two lists (#246)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/55304628e9e9c47ecac29ce62c77d1a0a1b12368)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -775,6 +776,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>GraniteDemo: add color scheme switcher to sidebar (#862)</code>](https://github.com/elementary/granite/commit/e56c931267ca42a4e946c512427648b149891e42)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move Granite specific button styles to Granite Dir (#872)</code>](https://github.com/elementary/granite/commit/b0afe2edae31dc6504d7a027dab8661cad432aca)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
