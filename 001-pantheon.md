@@ -232,6 +232,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#350)</code>](https://github.com/elementary/switchboard/commit/571160ae63a04cd922d6bcadbf7f1ce4fa663051)
+- [ ] [<code>meson: prepend prefix to BINDIR</code>](https://github.com/elementary/switchboard/commit/76a42479280a971d5c4c3ffce6929ef1cce8f81f)
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
