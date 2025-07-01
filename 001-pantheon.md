@@ -47,6 +47,7 @@
 - [ ] [<code>Include new event icon (#837)</code>](https://github.com/elementary/calendar/commit/29c18ae38a701beea59704d8a316978b7dcfa24a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.1.tar.xz to 3.56.2 (#838)</code>](https://github.com/elementary/calendar/commit/4367fca286979c8c95e374bd05657f3361f39955)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.2.tar.xz to 3.57.1 (#839)</code>](https://github.com/elementary/calendar/commit/b9390a97bb6020933295440caab13cef4bd73a8e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -351,6 +352,8 @@
 - [ ] [<code>Remove media-memory (#1348)</code>](https://github.com/elementary/icons/commit/8297fdd09bdc5a20715df4de5e9f653b04c66fc3)
 - [ ] [<code>Prep palette file for Inkscape (#1349)</code>](https://github.com/elementary/icons/commit/8558ac7d785129276ff1df53e03f3ac790160dfb)
 - [ ] [<code>Devices: differentiate keyboard from keyboard preferences (#1352)</code>](https://github.com/elementary/icons/commit/fbd1e2fcfa4ffbd5d655f4aa312d7ec75b04b19f)
+- [ ] [<code>Places: fix misnamed symbolic folder-remote (#1354)</code>](https://github.com/elementary/icons/commit/2aa22399cb3c4e0d94f497af24236728c6d22b0c)
+- [ ] [<code>Places: fix naming of network-workgroup-symbolic (#1355)</code>](https://github.com/elementary/icons/commit/821f0d14cf7e11bb88f50992b4dc2df435521839)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -443,6 +446,10 @@
 - [ ] [<code>Revert "Remove WindowAttentionTracker" (#2448)</code>](https://github.com/elementary/gala/commit/9839e8c05a1d35b76609a4599093613c1625ef9c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add issues to 8.2.4 (#2456)</code>](https://github.com/elementary/gala/commit/a7d79ccfc2f9331dca19d5c97836b16e0e250c68)
+- [ ] [<code>Set "Open in Photos" as default action (#2440)</code>](https://github.com/elementary/gala/commit/eef0467a5f43a5f7584f9d2102a9da6b637fa132)
+- [ ] [<code>Release 8.2.4 (#2442)</code>](https://github.com/elementary/gala/commit/61ffa76baba791bfc7db4756ccea6cd0fcaed315)
+  - <sub>Tags: <code>8.2.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -835,6 +842,8 @@
   - <sub>Tags: <code>8.0.1-rc2</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>replace deprecated apt-key (#764)</code>](https://github.com/elementary/os/commit/0146c9da82893f94c03c686e6fcb9a34f30ed4e6)
+- [ ] [<code>ARM: native build support (#754)</code>](https://github.com/elementary/os/commit/ff02bed8d0ae4a2d8c711971731d3b8ac1b6a054)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
