@@ -359,6 +359,7 @@
 - [ ] [<code>Places: fix misnamed symbolic folder-remote (#1354)</code>](https://github.com/elementary/icons/commit/2aa22399cb3c4e0d94f497af24236728c6d22b0c)
 - [ ] [<code>Places: fix naming of network-workgroup-symbolic (#1355)</code>](https://github.com/elementary/icons/commit/821f0d14cf7e11bb88f50992b4dc2df435521839)
 - [ ] [<code>Use `system-help` as central "question mark" icon (#1351)</code>](https://github.com/elementary/icons/commit/15e7bee508fc31869fee659156c15b29148e59a8)
+- [ ] [<code>Actions: Remove view-filter (#1356)</code>](https://github.com/elementary/icons/commit/a8e06ebc4defc102ce136321feacea54d27916a2)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
