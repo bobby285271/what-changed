@@ -57,6 +57,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#289)</code>](https://github.com/elementary/camera/commit/62147b5931345f38f23ea48e1d0e03cbb018bace)
 - [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
 - [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
+- [ ] [<code>Resource: add view-* icons (#292)</code>](https://github.com/elementary/camera/commit/4d87ed693f6e21a3b58f28633988edecb86ad9de)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.0.0 → HEAD](https://github.com/elementary/code/compare/8.0.0...HEAD)
 
@@ -145,6 +146,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#799)</code>](https://github.com/elementary/photos/commit/8b0b21dad018c52051f3ed7fadb7cb123c4f89ba)
 - [ ] [<code>gexiv2: Update gexiv2-0.14.3.tar.xz to 0.14.5 (#800)</code>](https://github.com/elementary/photos/commit/b1f0694ffe585eb306527f69b50f00a328201162)
 - [ ] [<code>COPYING → LICENSE (#802)</code>](https://github.com/elementary/photos/commit/c64e177ce9d145c49e2b046a702346950a15cf0f)
+- [ ] [<code>Resource: add path to symbolics (#804)</code>](https://github.com/elementary/photos/commit/07b5ac415f52103fb37b876bb1a0c3469ff49fcd)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -296,6 +298,8 @@
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [8.2.0 → HEAD](https://github.com/elementary/settings-desktop/compare/8.2.0...HEAD)
 
+- [ ] [<code>Don't set Gtk theme (#448)</code>](https://github.com/elementary/settings-desktop/commit/cf4213cbda1bc94f83825fbe18814f9e695cb6e3)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -354,6 +358,7 @@
 - [ ] [<code>Devices: differentiate keyboard from keyboard preferences (#1352)</code>](https://github.com/elementary/icons/commit/fbd1e2fcfa4ffbd5d655f4aa312d7ec75b04b19f)
 - [ ] [<code>Places: fix misnamed symbolic folder-remote (#1354)</code>](https://github.com/elementary/icons/commit/2aa22399cb3c4e0d94f497af24236728c6d22b0c)
 - [ ] [<code>Places: fix naming of network-workgroup-symbolic (#1355)</code>](https://github.com/elementary/icons/commit/821f0d14cf7e11bb88f50992b4dc2df435521839)
+- [ ] [<code>Use `system-help` as central "question mark" icon (#1351)</code>](https://github.com/elementary/icons/commit/15e7bee508fc31869fee659156c15b29148e59a8)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -507,6 +512,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Synapse: remove ClipboardCopyAction (#671)</code>](https://github.com/elementary/applications-menu/commit/a5b6992f88b3d41601b413dfb604596c284f9929)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update view icons</code>](https://github.com/elementary/applications-menu/commit/82aacda23ff54d707173e09acfaacc41f9a2057f)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -786,6 +792,9 @@
 - [ ] [<code>GraniteDemo: add color scheme switcher to sidebar (#862)</code>](https://github.com/elementary/granite/commit/e56c931267ca42a4e946c512427648b149891e42)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move Granite specific button styles to Granite Dir (#872)</code>](https://github.com/elementary/granite/commit/b0afe2edae31dc6504d7a027dab8661cad432aca)
+- [ ] [<code>Demo: gresource welcome icons (#884)</code>](https://github.com/elementary/granite/commit/2cdab547e37552ee86dc06dcfae76ad2add44670)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Icons: add view-* action icons (#885)</code>](https://github.com/elementary/granite/commit/9413894a7ccde03c5b1a56e6f34d7760ca85507b)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
