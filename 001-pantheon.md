@@ -441,6 +441,8 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [8.2.4 → HEAD](https://github.com/elementary/gala/compare/8.2.4...HEAD)
 
+- [ ] [<code>WindowStateSaver: Avoid sql injections by using sqlite statements</code>](https://github.com/elementary/gala/commit/60daa5f2ab36245c28dec0a68b78f28485e58858)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
