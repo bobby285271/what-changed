@@ -439,23 +439,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [8.2.3 → HEAD](https://github.com/elementary/gala/compare/8.2.3...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [8.2.4 → HEAD](https://github.com/elementary/gala/compare/8.2.4...HEAD)
 
-- [ ] [<code>Start the port to Mutter 48 (#2231)</code>](https://github.com/elementary/gala/commit/42ab42a5b8d0b58bce027404b5cdeeda590362ae)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Show Wingpanel in fullscreen (#2429)</code>](https://github.com/elementary/gala/commit/628eaa980003c7c1f6d8b196bb366cdad3b54739)
-- [ ] [<code>WindowStateSaver: fix crash (#2443)</code>](https://github.com/elementary/gala/commit/9defe95ef412f87eb14e0efd8b87f2fde5378a76)
-- [ ] [<code>StyleManager: fix interaction with automatic accent color (#2441)</code>](https://github.com/elementary/gala/commit/5d7775c37e9fe2ab73ce5b4a908a50f4fdd00733)
-- [ ] [<code>DesktopIntegration: Don't resend windows when switching workspace (#2374)</code>](https://github.com/elementary/gala/commit/ed88ffba10bbdb5ddefb4a921fe0b4b5b5dfcb20)
-- [ ] [<code>WindowTracker: better search for desktop file (#2382)</code>](https://github.com/elementary/gala/commit/5bbf6ed743fecc84fcdb55fa5566846f98fc5341)
-- [ ] [<code>Revert "Remove WindowAttentionTracker" (#2448)</code>](https://github.com/elementary/gala/commit/9839e8c05a1d35b76609a4599093613c1625ef9c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add issues to 8.2.4 (#2456)</code>](https://github.com/elementary/gala/commit/a7d79ccfc2f9331dca19d5c97836b16e0e250c68)
-- [ ] [<code>Set "Open in Photos" as default action (#2440)</code>](https://github.com/elementary/gala/commit/eef0467a5f43a5f7584f9d2102a9da6b637fa132)
-- [ ] [<code>Release 8.2.4 (#2442)</code>](https://github.com/elementary/gala/commit/61ffa76baba791bfc7db4756ccea6cd0fcaed315)
-  - <sub>Tags: <code>8.2.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -824,6 +809,7 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
+- [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#245)</code>](https://github.com/elementary/notifications/commit/5216c30f575ab54d3ebb4b364d209133b36877f6)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
@@ -854,6 +840,7 @@
 - [ ] [<code>replace deprecated apt-key (#764)</code>](https://github.com/elementary/os/commit/0146c9da82893f94c03c686e6fcb9a34f30ed4e6)
 - [ ] [<code>ARM: native build support (#754)</code>](https://github.com/elementary/os/commit/ff02bed8d0ae4a2d8c711971731d3b8ac1b6a054)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build_system: Add OS Architecture (#772)</code>](https://github.com/elementary/os/commit/57cdebbe60b92811f95e79f4741583432677ce69)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
