@@ -306,6 +306,7 @@
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
+- [ ] [<code>Plug: add headerbar to placeholder (#213)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fbb9da26c39c1d09d7d61200d30478d04f5fa863)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
