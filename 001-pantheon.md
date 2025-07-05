@@ -668,6 +668,8 @@
 - [ ] [<code>DarkModeToggle: animate (#121)</code>](https://github.com/elementary/quick-settings/commit/199c7e1a98e60ba26cb0aeb650dc30e32835126c)
 - [ ] [<code>RotationToggle: animate (#122)</code>](https://github.com/elementary/quick-settings/commit/253da4f60c2b89a876a7c54b20b1d53ebba3717d)
 - [ ] [<code>EndSessionDialog: use Granite.MessageDialog (#123)</code>](https://github.com/elementary/quick-settings/commit/01e95289c223bd5a7ab2c7a1f35585cbf3bf3153)
+- [ ] [<code>UserRow: handle current user (#88)</code>](https://github.com/elementary/quick-settings/commit/fda871503968886859b202813d48e6bc42569bad)
+  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
@@ -784,6 +786,8 @@
 - [ ] [<code>Demo: gresource welcome icons (#884)</code>](https://github.com/elementary/granite/commit/2cdab547e37552ee86dc06dcfae76ad2add44670)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Icons: add view-* action icons (#885)</code>](https://github.com/elementary/granite/commit/9413894a7ccde03c5b1a56e6f34d7760ca85507b)
+- [ ] [<code>AccelLabelView: fix menu button styles (#886)</code>](https://github.com/elementary/granite/commit/e80eb3d13a16147476f4e42bba369249fe0de990)
+- [ ] [<code>Demo/UtilsView: fix deprecation warnings (#761)</code>](https://github.com/elementary/granite/commit/fe404540a0e33362126944778f32d09b6082fae2)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
