@@ -10,6 +10,7 @@
 - [ ] [<code>Homepage: carousel allow overflow (#2295)</code>](https://github.com/elementary/appcenter/commit/302cea7f79a29ae0f77747625c743c59b391493a)
 - [ ] [<code>Introduce CategoryManager (#2276)</code>](https://github.com/elementary/appcenter/commit/cd8eefefcd2fb190330c652867ad4ee20caaa899)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Homepage: label updates button for screen reader (#2301)</code>](https://github.com/elementary/appcenter/commit/41109ebb56ccfb486fbc4ed63b2b09d0998f12c8)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -71,6 +72,7 @@
 - [ ] [<code>Bump libgit2-glib dependency (#1613)</code>](https://github.com/elementary/code/commit/35086d7367d871caae0bc187ccb1d0923b7b584b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Remove trash item from project menu (#1617)</code>](https://github.com/elementary/code/commit/a388f9ca7a77f865c53c470b57b53af995c219ea)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -456,6 +458,8 @@
 - [ ] [<code>Add support for Mutter 48</code>](https://github.com/elementary/wingpanel/commit/799090429d747ac9baf4f4e021b48da743c00761)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update mutter dependency in readme (#625)</code>](https://github.com/elementary/wingpanel/commit/95e6a47717b6fbca6a7f9edebbdbb8728a788e17)
+  - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
