@@ -336,6 +336,8 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.1 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.1...HEAD)
 
+- [ ] [<code>Popover: fix indentation for headerlabel (#1325)</code>](https://github.com/elementary/stylesheet/commit/e39dcd76dbb2bb8fe4e02e332e3c1a6378b55a81)
+- [ ] [<code>Metainfo: add 8.2.2 release notes (#1326)</code>](https://github.com/elementary/stylesheet/commit/a460315ef68bb626a6a540f16301430beca76826)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
