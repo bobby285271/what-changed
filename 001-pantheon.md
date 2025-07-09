@@ -338,6 +338,7 @@
 
 - [ ] [<code>Popover: fix indentation for headerlabel (#1325)</code>](https://github.com/elementary/stylesheet/commit/e39dcd76dbb2bb8fe4e02e332e3c1a6378b55a81)
 - [ ] [<code>Metainfo: add 8.2.2 release notes (#1326)</code>](https://github.com/elementary/stylesheet/commit/a460315ef68bb626a6a540f16301430beca76826)
+- [ ] [<code>Sidebars: add support for Adw.NavigationSplitView (#1327)</code>](https://github.com/elementary/stylesheet/commit/8725a2c6992342defe15a0cb748435a645345018)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -794,6 +795,7 @@
 - [ ] [<code>Icons: add view-* action icons (#885)</code>](https://github.com/elementary/granite/commit/9413894a7ccde03c5b1a56e6f34d7760ca85507b)
 - [ ] [<code>AccelLabelView: fix menu button styles (#886)</code>](https://github.com/elementary/granite/commit/e80eb3d13a16147476f4e42bba369249fe0de990)
 - [ ] [<code>Demo/UtilsView: fix deprecation warnings (#761)</code>](https://github.com/elementary/granite/commit/fe404540a0e33362126944778f32d09b6082fae2)
+- [ ] [<code>Metainfo: add 7.7.0 release notes (#891)</code>](https://github.com/elementary/granite/commit/df880decb8a24d11f796440d2d526e185913a76b)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
