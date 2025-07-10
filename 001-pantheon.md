@@ -73,6 +73,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Remove trash item from project menu (#1617)</code>](https://github.com/elementary/code/commit/a388f9ca7a77f865c53c470b57b53af995c219ea)
+- [ ] [<code>Check for existence of next line (#1630)</code>](https://github.com/elementary/code/commit/cbd255068569f75efcd053cd6d440154e9fd5ecc)
+- [ ] [<code>No tooltip and not selectable if dummy row (#1621)</code>](https://github.com/elementary/code/commit/a81631f041cb9e61c6edf2e584955b7b7ada07ab)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
