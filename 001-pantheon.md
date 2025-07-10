@@ -339,6 +339,7 @@
 - [ ] [<code>Popover: fix indentation for headerlabel (#1325)</code>](https://github.com/elementary/stylesheet/commit/e39dcd76dbb2bb8fe4e02e332e3c1a6378b55a81)
 - [ ] [<code>Metainfo: add 8.2.2 release notes (#1326)</code>](https://github.com/elementary/stylesheet/commit/a460315ef68bb626a6a540f16301430beca76826)
 - [ ] [<code>Sidebars: add support for Adw.NavigationSplitView (#1327)</code>](https://github.com/elementary/stylesheet/commit/8725a2c6992342defe15a0cb748435a645345018)
+- [ ] [<code>Show sort-indicator in treeviews (#1328)</code>](https://github.com/elementary/stylesheet/commit/ea3618f204c6c40aa755541a3c0ca6793afa42a1)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -366,6 +367,9 @@
 - [ ] [<code>Places: fix naming of network-workgroup-symbolic (#1355)</code>](https://github.com/elementary/icons/commit/821f0d14cf7e11bb88f50992b4dc2df435521839)
 - [ ] [<code>Use `system-help` as central "question mark" icon (#1351)</code>](https://github.com/elementary/icons/commit/15e7bee508fc31869fee659156c15b29148e59a8)
 - [ ] [<code>Actions: Remove view-filter (#1356)</code>](https://github.com/elementary/icons/commit/a8e06ebc4defc102ce136321feacea54d27916a2)
+- [ ] [<code>Applications: Add cab fill to `system-software-install` at 16x (#1358)</code>](https://github.com/elementary/icons/commit/e41276acdde831e15ec9740e0db87433de99e02f)
+- [ ] [<code>Applications: Fix rim lighting stops at 16x (#1359)</code>](https://github.com/elementary/icons/commit/311e1a52520701333f425271bd07c217e5c382da)
+- [ ] [<code>Actions: round find-location (#1360)</code>](https://github.com/elementary/icons/commit/edb0bd3a4355cb797da083b7af5a1558601c97ea)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -449,6 +453,11 @@
 
 - [ ] [<code>WindowStateSaver: Avoid sql injections by using sqlite statements</code>](https://github.com/elementary/gala/commit/60daa5f2ab36245c28dec0a68b78f28485e58858)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Improve dock hide animation</code>](https://github.com/elementary/gala/commit/c3477488b87e0ed828fff486808facb2d4dcb9f3)
+- [ ] [<code>ShellWindow: Disable unredirection when visible (#2459)</code>](https://github.com/elementary/gala/commit/401dd10c03d6c04bce8494ba274a048ee2d944ec)
+- [ ] [<code>Release 8.2.5 (#2461)</code>](https://github.com/elementary/gala/commit/97e5524b757910ab7700af1c733989a4b26a4dee)
+  - <sub>Tags: <code>8.2.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -796,6 +805,7 @@
 - [ ] [<code>AccelLabelView: fix menu button styles (#886)</code>](https://github.com/elementary/granite/commit/e80eb3d13a16147476f4e42bba369249fe0de990)
 - [ ] [<code>Demo/UtilsView: fix deprecation warnings (#761)</code>](https://github.com/elementary/granite/commit/fe404540a0e33362126944778f32d09b6082fae2)
 - [ ] [<code>Metainfo: add 7.7.0 release notes (#891)</code>](https://github.com/elementary/granite/commit/df880decb8a24d11f796440d2d526e185913a76b)
+- [ ] [<code>MapsView: add marker demos (#896)</code>](https://github.com/elementary/granite/commit/a3f95196359449a03b175c5b34541bf34e85aee5)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
