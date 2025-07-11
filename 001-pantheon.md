@@ -451,15 +451,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [8.2.4 → HEAD](https://github.com/elementary/gala/compare/8.2.4...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [8.2.5 → HEAD](https://github.com/elementary/gala/compare/8.2.5...HEAD)
 
-- [ ] [<code>WindowStateSaver: Avoid sql injections by using sqlite statements</code>](https://github.com/elementary/gala/commit/60daa5f2ab36245c28dec0a68b78f28485e58858)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Improve dock hide animation</code>](https://github.com/elementary/gala/commit/c3477488b87e0ed828fff486808facb2d4dcb9f3)
-- [ ] [<code>ShellWindow: Disable unredirection when visible (#2459)</code>](https://github.com/elementary/gala/commit/401dd10c03d6c04bce8494ba274a048ee2d944ec)
-- [ ] [<code>Release 8.2.5 (#2461)</code>](https://github.com/elementary/gala/commit/97e5524b757910ab7700af1c733989a4b26a4dee)
-  - <sub>Tags: <code>8.2.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
