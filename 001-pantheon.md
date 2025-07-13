@@ -385,6 +385,9 @@
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.1.0 → HEAD](https://github.com/elementary/default-settings/compare/8.1.0...HEAD)
 
+- [ ] [<code>Import network configurations from the os repository (#325)</code>](https://github.com/elementary/default-settings/commit/94d9ecd8e7f34ba00e8dd56c0644d01d4af2d3f2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -861,6 +864,7 @@
 - [ ] [<code>ARM: native build support (#754)</code>](https://github.com/elementary/os/commit/ff02bed8d0ae4a2d8c711971731d3b8ac1b6a054)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build_system: Add OS Architecture (#772)</code>](https://github.com/elementary/os/commit/57cdebbe60b92811f95e79f4741583432677ce69)
+- [ ] [<code>upload: Separate upload basedir of amd64 and arm64 ISOs (#774)</code>](https://github.com/elementary/os/commit/4697c9644c172b478b5f1fa7ab5c75d0fcf55b31)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
