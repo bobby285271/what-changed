@@ -865,6 +865,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build_system: Add OS Architecture (#772)</code>](https://github.com/elementary/os/commit/57cdebbe60b92811f95e79f4741583432677ce69)
 - [ ] [<code>upload: Separate upload basedir of amd64 and arm64 ISOs (#774)</code>](https://github.com/elementary/os/commit/4697c9644c172b478b5f1fa7ab5c75d0fcf55b31)
+- [ ] [<code>Remove RPi4 and PinebookPro builds (#775)</code>](https://github.com/elementary/os/commit/a4c6258254baa30cd671bbe4c68a8bb4fcd54bab)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
