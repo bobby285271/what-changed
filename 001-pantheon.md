@@ -304,6 +304,7 @@
 
 - [ ] [<code>Don't set Gtk theme (#448)</code>](https://github.com/elementary/settings-desktop/commit/cf4213cbda1bc94f83825fbe18814f9e695cb6e3)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Appearance: update dock style (#452)</code>](https://github.com/elementary/settings-desktop/commit/3e92ce82aa64a7db57e638edcdd78914382b23ed)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -342,6 +343,7 @@
 - [ ] [<code>Metainfo: add 8.2.2 release notes (#1326)</code>](https://github.com/elementary/stylesheet/commit/a460315ef68bb626a6a540f16301430beca76826)
 - [ ] [<code>Sidebars: add support for Adw.NavigationSplitView (#1327)</code>](https://github.com/elementary/stylesheet/commit/8725a2c6992342defe15a0cb748435a645345018)
 - [ ] [<code>Show sort-indicator in treeviews (#1328)</code>](https://github.com/elementary/stylesheet/commit/ea3618f204c6c40aa755541a3c0ca6793afa42a1)
+- [ ] [<code>focus → focus-visible (#1330)</code>](https://github.com/elementary/stylesheet/commit/3d7e2b74ad8bddb19128bc2afaeaa7e343f8046a)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -456,6 +458,13 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [8.2.5 → HEAD](https://github.com/elementary/gala/compare/8.2.5...HEAD)
 
+- [ ] [<code>Draw rounded rectangles using shader (#2463)</code>](https://github.com/elementary/gala/commit/3ed95476983721156e96f95f230f3889acb24320)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DragDropAction: explicit use of Clutter namespace (#2466)</code>](https://github.com/elementary/gala/commit/bf8bca2cb26beb3df98ab82bd032e85b6769717a)
+- [ ] [<code>InternalUtils: remove unused method (#2468)</code>](https://github.com/elementary/gala/commit/0defc45c2d4884eb08dee4aea066356660393571)
+- [ ] [<code>Move `get_window_is_normal` to library (#2469)</code>](https://github.com/elementary/gala/commit/4a4197c518d3f4fc1638bf2250187efb59c2b80d)
+- [ ] [<code>Library: Explicit use of namespaces and fix typos (#2470)</code>](https://github.com/elementary/gala/commit/429ebf19770cb9a37c260980ed70dea63d241d00)
+- [ ] [<code>Cleanup WindowCloneContainer (#2467)</code>](https://github.com/elementary/gala/commit/0f1d4421d772e0f2d92606322311d3380ee02735)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
