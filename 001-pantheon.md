@@ -467,6 +467,8 @@
 - [ ] [<code>Cleanup WindowCloneContainer (#2467)</code>](https://github.com/elementary/gala/commit/0f1d4421d772e0f2d92606322311d3380ee02735)
 - [ ] [<code>Remove InternalUtils.get_window_is_normal (#2471)</code>](https://github.com/elementary/gala/commit/f9f85d16da8642d3da1d82785dd91d129eff9429)
 - [ ] [<code>Remove custom animation for bottom stack windows (#2473)</code>](https://github.com/elementary/gala/commit/8e28dc002aea2eb514d561567dd0910d431ef801)
+- [ ] [<code>Cleanup WindowSwitcher (#2472)</code>](https://github.com/elementary/gala/commit/373322d748936a76742828ceb1a2f348d5d61d6a)
+- [ ] [<code>Remove "[CCode (instance_pos = -1)]" (#2474)</code>](https://github.com/elementary/gala/commit/5ab55d664bac7376dc8475ffa42bce1c0962a73d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
