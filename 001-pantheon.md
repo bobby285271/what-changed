@@ -465,6 +465,8 @@
 - [ ] [<code>Move `get_window_is_normal` to library (#2469)</code>](https://github.com/elementary/gala/commit/4a4197c518d3f4fc1638bf2250187efb59c2b80d)
 - [ ] [<code>Library: Explicit use of namespaces and fix typos (#2470)</code>](https://github.com/elementary/gala/commit/429ebf19770cb9a37c260980ed70dea63d241d00)
 - [ ] [<code>Cleanup WindowCloneContainer (#2467)</code>](https://github.com/elementary/gala/commit/0f1d4421d772e0f2d92606322311d3380ee02735)
+- [ ] [<code>Remove InternalUtils.get_window_is_normal (#2471)</code>](https://github.com/elementary/gala/commit/f9f85d16da8642d3da1d82785dd91d129eff9429)
+- [ ] [<code>Remove custom animation for bottom stack windows (#2473)</code>](https://github.com/elementary/gala/commit/8e28dc002aea2eb514d561567dd0910d431ef801)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -881,3 +883,4 @@
 
 - [ ] [<code>Pantheon: add monitor (#142)</code>](https://github.com/elementary/seeds/commit/ace5f7118ba938a5f552572f5e7f3511e63c9cbf)
 - [ ] [<code>desktop: add grub-efi-arm64 (#143)</code>](https://github.com/elementary/seeds/commit/73fb204bd7210165bd9ade4eaeecb8a00e7f0462)
+- [ ] [<code>pantheon: Add Maps (#144)</code>](https://github.com/elementary/seeds/commit/a0634da2e67f99b0c33e0d68c0b1a666431017d3)
