@@ -75,6 +75,7 @@
 - [ ] [<code>Remove trash item from project menu (#1617)</code>](https://github.com/elementary/code/commit/a388f9ca7a77f865c53c470b57b53af995c219ea)
 - [ ] [<code>Check for existence of next line (#1630)</code>](https://github.com/elementary/code/commit/cbd255068569f75efcd053cd6d440154e9fd5ecc)
 - [ ] [<code>No tooltip and not selectable if dummy row (#1621)</code>](https://github.com/elementary/code/commit/a81631f041cb9e61c6edf2e584955b7b7ada07ab)
+- [ ] [<code>Stack spinner on filterbutton, start after delay (#1599)</code>](https://github.com/elementary/code/commit/6c5ffd32d912e8c4a588b04a90260b22a29479d6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -469,6 +470,7 @@
 - [ ] [<code>Remove custom animation for bottom stack windows (#2473)</code>](https://github.com/elementary/gala/commit/8e28dc002aea2eb514d561567dd0910d431ef801)
 - [ ] [<code>Cleanup WindowSwitcher (#2472)</code>](https://github.com/elementary/gala/commit/373322d748936a76742828ceb1a2f348d5d61d6a)
 - [ ] [<code>Remove "[CCode (instance_pos = -1)]" (#2474)</code>](https://github.com/elementary/gala/commit/5ab55d664bac7376dc8475ffa42bce1c0962a73d)
+- [ ] [<code>WindowClone: update targets on minimize (#2477)</code>](https://github.com/elementary/gala/commit/ae6cecbcf0741fd1ebe24cd384c4578e4671fdf7)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
