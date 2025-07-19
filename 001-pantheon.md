@@ -471,6 +471,7 @@
 - [ ] [<code>Cleanup WindowSwitcher (#2472)</code>](https://github.com/elementary/gala/commit/373322d748936a76742828ceb1a2f348d5d61d6a)
 - [ ] [<code>Remove "[CCode (instance_pos = -1)]" (#2474)</code>](https://github.com/elementary/gala/commit/5ab55d664bac7376dc8475ffa42bce1c0962a73d)
 - [ ] [<code>WindowClone: update targets on minimize (#2477)</code>](https://github.com/elementary/gala/commit/ae6cecbcf0741fd1ebe24cd384c4578e4671fdf7)
+- [ ] [<code>PiP: rounded corners (#2464)</code>](https://github.com/elementary/gala/commit/c5602ee02a6f2646f97ce4cd9e87dd744010a160)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
