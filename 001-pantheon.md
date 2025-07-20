@@ -82,6 +82,7 @@
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
+- [ ] [<code>MainWindow: Add Maps and Monitor (#117)</code>](https://github.com/elementary/feedback/commit/eef2fac643cc65e8907e0438acaa8f4f40c7a2ea)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.4 → HEAD](https://github.com/elementary/files/compare/7.1.4...HEAD)
 
