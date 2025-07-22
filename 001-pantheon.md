@@ -76,6 +76,7 @@
 - [ ] [<code>Check for existence of next line (#1630)</code>](https://github.com/elementary/code/commit/cbd255068569f75efcd053cd6d440154e9fd5ecc)
 - [ ] [<code>No tooltip and not selectable if dummy row (#1621)</code>](https://github.com/elementary/code/commit/a81631f041cb9e61c6edf2e584955b7b7ada07ab)
 - [ ] [<code>Stack spinner on filterbutton, start after delay (#1599)</code>](https://github.com/elementary/code/commit/6c5ffd32d912e8c4a588b04a90260b22a29479d6)
+- [ ] [<code>Declare CtagsSymbol is a SymbolItem (#1635)</code>](https://github.com/elementary/code/commit/aab89a7566c1fb76ef200393a07ac98e2b1822e3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -269,6 +270,9 @@
 - [ ] [<code>MainView: use list model (#245)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d39055ed9836f0a1f07a7c01724900f263f9528c)
 - [ ] [<code>MainView: init model earlier</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/2c7baf3cf318418e7bf76852c5015b5c94ae2f67)
 - [ ] [<code>MainView: use two lists (#246)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/55304628e9e9c47ecac29ce62c77d1a0a1b12368)
+- [ ] [<code>Release 8.0.2 (#248)</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/d2f070d5fe8367c6a6a98f4ca79027b5367f3ee1)
+  - <sub>Tags: <code>8.0.2</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-bluetooth/commit/e3fc691146097f1166f94cacd9e1577139941898)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -473,6 +477,7 @@
 - [ ] [<code>Remove "[CCode (instance_pos = -1)]" (#2474)</code>](https://github.com/elementary/gala/commit/5ab55d664bac7376dc8475ffa42bce1c0962a73d)
 - [ ] [<code>WindowClone: update targets on minimize (#2477)</code>](https://github.com/elementary/gala/commit/ae6cecbcf0741fd1ebe24cd384c4578e4671fdf7)
 - [ ] [<code>PiP: rounded corners (#2464)</code>](https://github.com/elementary/gala/commit/c5602ee02a6f2646f97ce4cd9e87dd744010a160)
+- [ ] [<code>Add OpenSuse Leap CI (#2479)</code>](https://github.com/elementary/gala/commit/473f5a9cb561ec29bd9165a453e646643d068540)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
