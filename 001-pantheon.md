@@ -49,6 +49,18 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.1.tar.xz to 3.56.2 (#838)</code>](https://github.com/elementary/calendar/commit/4367fca286979c8c95e374bd05657f3361f39955)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.2.tar.xz to 3.57.1 (#839)</code>](https://github.com/elementary/calendar/commit/b9390a97bb6020933295440caab13cef4bd73a8e)
+- [ ] [<code>EventDialog: GTK4 prep (#845)</code>](https://github.com/elementary/calendar/commit/d6eae058c441c9f11fa531c5e74198950bbc08bd)
+- [ ] [<code>CalendarRow: cleanup (#841)</code>](https://github.com/elementary/calendar/commit/e23deeabc22300b70691f691c55bb11290dd3d74)
+- [ ] [<code>CalendarView: absorb header (#846)</code>](https://github.com/elementary/calendar/commit/376e2b7b25c001b20f9b3486726068133c8388f3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CalendarChooser: cleanup (#842)</code>](https://github.com/elementary/calendar/commit/a7d8e87978113b4b4b636f9c2252059ccaf10f38)
+- [ ] [<code>SourceDialog: make a dialog (#840)</code>](https://github.com/elementary/calendar/commit/02973e174a6d11f46013113ad27673d40826b606)
+- [ ] [<code>InfoPanel: cleanup (#843)</code>](https://github.com/elementary/calendar/commit/4db4e113c60019951bb728deaf4fa36a6d0dbc6d)
+- [ ] [<code>CalendarView: add contractor menu (#847)</code>](https://github.com/elementary/calendar/commit/17b68ff7a714b27d51284a62600938242454ed72)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Drop support for old EDS (#848)</code>](https://github.com/elementary/calendar/commit/66634a473f28d695164a198ab303735dd7a69154)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -478,6 +490,11 @@
 - [ ] [<code>WindowClone: update targets on minimize (#2477)</code>](https://github.com/elementary/gala/commit/ae6cecbcf0741fd1ebe24cd384c4578e4671fdf7)
 - [ ] [<code>PiP: rounded corners (#2464)</code>](https://github.com/elementary/gala/commit/c5602ee02a6f2646f97ce4cd9e87dd744010a160)
 - [ ] [<code>Add OpenSuse Leap CI (#2479)</code>](https://github.com/elementary/gala/commit/473f5a9cb561ec29bd9165a453e646643d068540)
+- [ ] [<code>Remove libxml2 dependency (#2483)</code>](https://github.com/elementary/gala/commit/c7ab41007c214ca8a96940bdd2cefb0119dc142d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix OpenSUSE Leap build (#2482)</code>](https://github.com/elementary/gala/commit/6d02ca4d6caceb286a091c2f407f6a4dbd4b377c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: Check daemon-gtk3 lint (#2484)</code>](https://github.com/elementary/gala/commit/ee05621a641b55f97a207fe12304b76797c423a8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
