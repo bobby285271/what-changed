@@ -61,6 +61,7 @@
 - [ ] [<code>Drop support for old EDS (#848)</code>](https://github.com/elementary/calendar/commit/66634a473f28d695164a198ab303735dd7a69154)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>SourceRow: cleanup (#852)</code>](https://github.com/elementary/calendar/commit/1c91f7d890b5ebacdba0dbdaf499810b5f1c649f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -495,6 +496,10 @@
 - [ ] [<code>Fix OpenSUSE Leap build (#2482)</code>](https://github.com/elementary/gala/commit/6d02ca4d6caceb286a091c2f407f6a4dbd4b377c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CI: Check daemon-gtk3 lint (#2484)</code>](https://github.com/elementary/gala/commit/ee05621a641b55f97a207fe12304b76797c423a8)
+- [ ] [<code>Introduce BackgroundBlurEffect</code>](https://github.com/elementary/gala/commit/f51871e11b419e49f56a72f9eae9da6d0f45c04f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowSwitcher: blur background</code>](https://github.com/elementary/gala/commit/551dbcfee472747d02ec009a3b88a41925c9d8dd)
+- [ ] [<code>WindowSwitcher: adjust opacity and blur values (#2332)</code>](https://github.com/elementary/gala/commit/66f07c35e6a06c3c35c8af4be9dcb25d09676aad)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
