@@ -62,6 +62,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>SourceRow: cleanup (#852)</code>](https://github.com/elementary/calendar/commit/1c91f7d890b5ebacdba0dbdaf499810b5f1c649f)
+- [ ] [<code>SourcePopover: Gtk4 prep, cleanup (#853)</code>](https://github.com/elementary/calendar/commit/c756ebb9804b4df85fb52e4b886944bc6a74c52e)
+- [ ] [<code>PlacementWidget: cleanup (#851)</code>](https://github.com/elementary/calendar/commit/eb1541d57e95d7b5daf8f6f074d064a140dafd80)
+- [ ] [<code>CalDavBackend: clean up placementwidget (#850)</code>](https://github.com/elementary/calendar/commit/0ffccf9b6b5a0571773df5b47ba2950c232b5e73)
+- [ ] [<code>ReminderPanel: cleanups (#844)</code>](https://github.com/elementary/calendar/commit/521861e9d0a67b4af0757bb94ea360adf6c1d55d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -90,6 +94,8 @@
 - [ ] [<code>No tooltip and not selectable if dummy row (#1621)</code>](https://github.com/elementary/code/commit/a81631f041cb9e61c6edf2e584955b7b7ada07ab)
 - [ ] [<code>Stack spinner on filterbutton, start after delay (#1599)</code>](https://github.com/elementary/code/commit/6c5ffd32d912e8c4a588b04a90260b22a29479d6)
 - [ ] [<code>Declare CtagsSymbol is a SymbolItem (#1635)</code>](https://github.com/elementary/code/commit/aab89a7566c1fb76ef200393a07ac98e2b1822e3)
+- [ ] [<code>Fix crash from highlight selection plugin when deleting selection (#1622)</code>](https://github.com/elementary/code/commit/5e578f6d35de168997f934698856a82229f883b0)
+- [ ] [<code>Prepare release 8.1.0 (#1634)</code>](https://github.com/elementary/code/commit/0886b948727a6d48a7b7998e1d7fc792d4893eea)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -409,6 +415,7 @@
 - [ ] [<code>Import network configurations from the os repository (#325)</code>](https://github.com/elementary/default-settings/commit/94d9ecd8e7f34ba00e8dd56c0644d01d4af2d3f2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Change toggle-maximized to Ctrl+Super+Up (#346)</code>](https://github.com/elementary/default-settings/commit/27525ae27e150d480cfa5b0bdcadfc3012e550d1)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
