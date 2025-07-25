@@ -21,6 +21,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#283)</code>](https://github.com/elementary/calculator/commit/712eb9d6d9c224a64b4d6c7e5ae6e82758d3bde3)
 - [ ] [<code>Add action icon (#284)</code>](https://github.com/elementary/calculator/commit/01098c41a7f03848a673111c7f8b6ed116118217)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Replace "Del" button with 'edit-clear-symbolic' icon (#279)</code>](https://github.com/elementary/calculator/commit/c20e967965896b56567a489a45f529f4054c0673)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -656,6 +657,7 @@
 - [ ] [<code>AirplaneMode: use RFKill (#340)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c798dbd3367e47182a1226e776f8c866919fdf43)
 - [ ] [<code>Check bluetooth for hardware lock before enabling (#341)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c7c7db7c1c50e0a73c65b3d9a4a3072468a2af2c)
 - [ ] [<code>Fix crash in greeter (#342)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e799e085ab5d3c979a52e0fc46d290a15eddba89)
+- [ ] [<code>Metainfo: update 8.0.0 release notes (#344)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/255a39e085f1713485ead8ff977788485805a108)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -855,6 +857,7 @@
 - [ ] [<code>Demo/UtilsView: fix deprecation warnings (#761)</code>](https://github.com/elementary/granite/commit/fe404540a0e33362126944778f32d09b6082fae2)
 - [ ] [<code>Metainfo: add 7.7.0 release notes (#891)</code>](https://github.com/elementary/granite/commit/df880decb8a24d11f796440d2d526e185913a76b)
 - [ ] [<code>MapsView: add marker demos (#896)</code>](https://github.com/elementary/granite/commit/a3f95196359449a03b175c5b34541bf34e85aee5)
+- [ ] [<code>Init: Avoid crash with Gtk >= 4.17 (#893)</code>](https://github.com/elementary/granite/commit/60cb8c4119b579592e6c7f3b1476e4d729f58699)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
