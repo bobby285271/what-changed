@@ -522,6 +522,9 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Update mutter dependency in readme (#625)</code>](https://github.com/elementary/wingpanel/commit/95e6a47717b6fbca6a7f9edebbdbb8728a788e17)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add OpenSUSE Leap CI and fix build (#629)</code>](https://github.com/elementary/wingpanel/commit/3090749fe5a0755007b13e110444bf6b41b6c47f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -921,6 +924,7 @@
 - [ ] [<code>upload: Separate upload basedir of amd64 and arm64 ISOs (#774)</code>](https://github.com/elementary/os/commit/4697c9644c172b478b5f1fa7ab5c75d0fcf55b31)
 - [ ] [<code>Remove RPi4 and PinebookPro builds (#775)</code>](https://github.com/elementary/os/commit/a4c6258254baa30cd671bbe4c68a8bb4fcd54bab)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>daily-8.0: Enable HWE Kernel (#776)</code>](https://github.com/elementary/os/commit/0db24f5b75ee8ebbf086b2ca917465b0434eb604)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
