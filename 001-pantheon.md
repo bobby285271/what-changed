@@ -22,6 +22,7 @@
 - [ ] [<code>Add action icon (#284)</code>](https://github.com/elementary/calculator/commit/01098c41a7f03848a673111c7f8b6ed116118217)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Replace "Del" button with 'edit-clear-symbolic' icon (#279)</code>](https://github.com/elementary/calculator/commit/c20e967965896b56567a489a45f529f4054c0673)
+- [ ] [<code>Flatpak: bump platform to 8.2 (#285)</code>](https://github.com/elementary/calculator/commit/522bfbf196191b1ac1ed5bc6294fc356ebb390c3)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -188,6 +189,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix screenshot is not saved to the selected folder if changed</code>](https://github.com/elementary/screenshot/commit/8e548bf93d44918ae35698242e1b434503bbe70a)
 - [ ] [<code>Add release notes</code>](https://github.com/elementary/screenshot/commit/aa4191cba768bd54a3f1bbd3b614f88e9723f9c7)
+- [ ] [<code>Bump Platform to 8.2 (#311)</code>](https://github.com/elementary/screenshot/commit/c79a69c14ae76f86da69c20d0645d95ed2d80d86)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -265,6 +267,8 @@
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#350)</code>](https://github.com/elementary/switchboard/commit/571160ae63a04cd922d6bcadbf7f1ce4fa663051)
 - [ ] [<code>meson: prepend prefix to BINDIR</code>](https://github.com/elementary/switchboard/commit/76a42479280a971d5c4c3ffce6929ef1cce8f81f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add System Updates action (#357)</code>](https://github.com/elementary/switchboard/commit/a643b120697eaa10d698f13a87b884004d855a51)
+  - <sub>Keywords: <code>exec</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -889,6 +893,7 @@
 - [ ] [<code>MainWindow: Fix build warnings (#131)</code>](https://github.com/elementary/capnet-assist/commit/2181117d01ee44442eed8cfab00604fe3dbcf907)
 - [ ] [<code>Use GPL-2.0 text (#133)</code>](https://github.com/elementary/capnet-assist/commit/334aa7ea98eb821423b5a38eee2db0145611e9b1)
 - [ ] [<code>Revert "Use GPL-2.0 text (#133)" (#135)</code>](https://github.com/elementary/capnet-assist/commit/0445befdcd0197bcd1b09ad5c441783410216bc2)
+- [ ] [<code>Flatpak: bump platform to 8.2 (#137)</code>](https://github.com/elementary/capnet-assist/commit/1bc4fd9416b32e83d825cd64801ce3bf87a15768)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
