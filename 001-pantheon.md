@@ -67,6 +67,7 @@
 - [ ] [<code>PlacementWidget: cleanup (#851)</code>](https://github.com/elementary/calendar/commit/eb1541d57e95d7b5daf8f6f074d064a140dafd80)
 - [ ] [<code>CalDavBackend: clean up placementwidget (#850)</code>](https://github.com/elementary/calendar/commit/0ffccf9b6b5a0571773df5b47ba2950c232b5e73)
 - [ ] [<code>ReminderPanel: cleanups (#844)</code>](https://github.com/elementary/calendar/commit/521861e9d0a67b4af0757bb94ea360adf6c1d55d)
+- [ ] [<code>SourceDialog: fix screen reader labels (#855)</code>](https://github.com/elementary/calendar/commit/2615527157ab971231c7360d56d943ee6f96721d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -466,6 +467,8 @@
 - [ ] [<code>Prepare metainfo for 8.1.0 (#816)</code>](https://github.com/elementary/greeter/commit/fd6f1328605e0a717c898ed20af5b48a884cac54)
 - [ ] [<code>Center caps lock label (#798)</code>](https://github.com/elementary/greeter/commit/386dec4c1eff853ff535db5b2dbda4f67d0d181a)
 - [ ] [<code>Sync Wingpanel transparency (#788)</code>](https://github.com/elementary/greeter/commit/ca4c90615d22ea2bf55a2987cbe929c299edba99)
+- [ ] [<code>Add OpenSUSE Leap CI (#820)</code>](https://github.com/elementary/greeter/commit/38d23a41cb467ef3dcfb7621f5f3eb49ac7e4291)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
