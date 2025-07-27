@@ -116,6 +116,7 @@
 - [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
 - [ ] [<code>Bump to platform 8.1 (#63)</code>](https://github.com/elementary/iconbrowser/commit/90678378fb68eeeac49a702d4d7a8ca3aaf0015f)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#65)</code>](https://github.com/elementary/iconbrowser/commit/114bf74a4367b9a8b49dd932160f5f94847da93f)
+- [ ] [<code>Flatpak: bump platform to 8.2 (#66)</code>](https://github.com/elementary/iconbrowser/commit/a4c24a5e8e73007c29ae3bff25e07bb470ce6f2b)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
@@ -155,6 +156,7 @@
 - [ ] [<code>Introduce save and restore methods (#810)</code>](https://github.com/elementary/music/commit/395729cdc5568537a43a0755f155221bce6e7e9e)
 - [ ] [<code>Refresh screenshot to reflect current state (#812)</code>](https://github.com/elementary/music/commit/c76587c0370fe1b6074836a362b5c1868e80139b)
 - [ ] [<code>Send artwork to MPRIS (#805)</code>](https://github.com/elementary/music/commit/d34b67c5ee7386888782bfede32734025a23ef91)
+- [ ] [<code>Flatpak: bump platform to 8.2 (#817)</code>](https://github.com/elementary/music/commit/3bca4b6d4e536ff0853759b75975301ab015402b)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -515,6 +517,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowSwitcher: blur background</code>](https://github.com/elementary/gala/commit/551dbcfee472747d02ec009a3b88a41925c9d8dd)
 - [ ] [<code>WindowSwitcher: adjust opacity and blur values (#2332)</code>](https://github.com/elementary/gala/commit/66f07c35e6a06c3c35c8af4be9dcb25d09676aad)
+- [ ] [<code>Fix gtk3 daemon menu location with x2 scaling (#2493)</code>](https://github.com/elementary/gala/commit/33bc3ebe7f175c61845feaf2d06083f1e3b64ddc)
+- [ ] [<code>Pause filters before taking screenshots</code>](https://github.com/elementary/gala/commit/ac0c7758748ffc77a75799aae6ef68b60ddb8325)
+- [ ] [<code>Move gestures code into the library</code>](https://github.com/elementary/gala/commit/574b0eb918693b0526ae385b94e2e420665298fe)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
