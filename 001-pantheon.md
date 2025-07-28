@@ -69,6 +69,7 @@
 - [ ] [<code>CalDavBackend: clean up placementwidget (#850)</code>](https://github.com/elementary/calendar/commit/0ffccf9b6b5a0571773df5b47ba2950c232b5e73)
 - [ ] [<code>ReminderPanel: cleanups (#844)</code>](https://github.com/elementary/calendar/commit/521861e9d0a67b4af0757bb94ea360adf6c1d55d)
 - [ ] [<code>SourceDialog: fix screen reader labels (#855)</code>](https://github.com/elementary/calendar/commit/2615527157ab971231c7360d56d943ee6f96721d)
+- [ ] [<code>Bump to platform 8.2 (#830)</code>](https://github.com/elementary/calendar/commit/61dc3ca6593982058d1013f3018e43e2d9e1b195)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -99,9 +100,11 @@
 - [ ] [<code>Declare CtagsSymbol is a SymbolItem (#1635)</code>](https://github.com/elementary/code/commit/aab89a7566c1fb76ef200393a07ac98e2b1822e3)
 - [ ] [<code>Fix crash from highlight selection plugin when deleting selection (#1622)</code>](https://github.com/elementary/code/commit/5e578f6d35de168997f934698856a82229f883b0)
 - [ ] [<code>Prepare release 8.1.0 (#1634)</code>](https://github.com/elementary/code/commit/0886b948727a6d48a7b7998e1d7fc792d4893eea)
+- [ ] [<code>Bump platform to 8.2 (#1545)</code>](https://github.com/elementary/code/commit/7b11d1820c398b8f6baa18c691009e6269408888)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
+- [ ] [<code>Use shadow width instead of custom size (#437)</code>](https://github.com/elementary/dock/commit/3323bb034af197cc21f03397f7c259e785b29a39)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -135,6 +138,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1019)</code>](https://github.com/elementary/mail/commit/d0e9356a600cf00c6060a8703da96505119db8ec)
 - [ ] [<code>Launcher: add icon for compose action (#1022)</code>](https://github.com/elementary/mail/commit/632df7546b83aecab7b66830f447985e194ca1a3)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Bump to platform 8.2 (#1015)</code>](https://github.com/elementary/mail/commit/017079ce89b18632b80b4087c706753f105a2d4f)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -178,6 +182,7 @@
 - [ ] [<code>gexiv2: Update gexiv2-0.14.3.tar.xz to 0.14.5 (#800)</code>](https://github.com/elementary/photos/commit/b1f0694ffe585eb306527f69b50f00a328201162)
 - [ ] [<code>COPYING → LICENSE (#802)</code>](https://github.com/elementary/photos/commit/c64e177ce9d145c49e2b046a702346950a15cf0f)
 - [ ] [<code>Resource: add path to symbolics (#804)</code>](https://github.com/elementary/photos/commit/07b5ac415f52103fb37b876bb1a0c3469ff49fcd)
+- [ ] [<code>Bump platform to 8.2 (#795)</code>](https://github.com/elementary/photos/commit/449769d9f1428a845fe1333ec46b393aa8763cdb)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -225,6 +230,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/tasks/commit/ca5e566b21c9977e988d4553776216c4e7db34bc)
 - [ ] [<code>ListView: mark primary menu (#416)</code>](https://github.com/elementary/tasks/commit/685a3a70796fdaa8bcaca58a99bd1ae64a449156)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump platform to 8.2 (#403)</code>](https://github.com/elementary/tasks/commit/4f3f0bb8d0f807b1905017e491e5ca8d784a92b6)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.0.0 → HEAD](https://github.com/elementary/terminal/compare/7.0.0...HEAD)
 
@@ -508,6 +514,7 @@
 - [ ] [<code>Pause filters before taking screenshots</code>](https://github.com/elementary/gala/commit/ac0c7758748ffc77a75799aae6ef68b60ddb8325)
 - [ ] [<code>Move gestures code into the library</code>](https://github.com/elementary/gala/commit/574b0eb918693b0526ae385b94e2e420665298fe)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES that were forgotten when moving gestures to lib (#2498)</code>](https://github.com/elementary/gala/commit/4b53f12f06a11cd26b6fe5e844fa3ea40f9500ea)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -861,6 +868,7 @@
 - [ ] [<code>Metainfo: add 7.7.0 release notes (#891)</code>](https://github.com/elementary/granite/commit/df880decb8a24d11f796440d2d526e185913a76b)
 - [ ] [<code>MapsView: add marker demos (#896)</code>](https://github.com/elementary/granite/commit/a3f95196359449a03b175c5b34541bf34e85aee5)
 - [ ] [<code>Init: Avoid crash with Gtk >= 4.17 (#893)</code>](https://github.com/elementary/granite/commit/60cb8c4119b579592e6c7f3b1476e4d729f58699)
+- [ ] [<code>Demo: application-default-icon → package-x-generic (#899)</code>](https://github.com/elementary/granite/commit/7469c9bde5a65438f18c63dbd68c025d16cfe09c)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
