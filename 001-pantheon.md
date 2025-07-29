@@ -183,6 +183,10 @@
 - [ ] [<code>COPYING → LICENSE (#802)</code>](https://github.com/elementary/photos/commit/c64e177ce9d145c49e2b046a702346950a15cf0f)
 - [ ] [<code>Resource: add path to symbolics (#804)</code>](https://github.com/elementary/photos/commit/07b5ac415f52103fb37b876bb1a0c3469ff49fcd)
 - [ ] [<code>Bump platform to 8.2 (#795)</code>](https://github.com/elementary/photos/commit/449769d9f1428a845fe1333ec46b393aa8763cdb)
+- [ ] [<code>Add support for gexiv2-0.16 (#810)</code>](https://github.com/elementary/photos/commit/2737db9170402b21f1ae6370aed8277cd75ab988)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update inih, gexiv2 and libghoto2 modules (#809)</code>](https://github.com/elementary/photos/commit/53092183b825b52255a72d459862c9d810763a94)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -306,6 +310,7 @@
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.0 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
+- [ ] [<code>Allow assigning Gdk.Key.Tools button (#547)</code>](https://github.com/elementary/settings-keyboard/commit/4a96ee7f7fd0189879af4cd53fdd219197fd96e0)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
