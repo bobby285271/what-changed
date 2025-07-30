@@ -187,6 +187,16 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update inih, gexiv2 and libghoto2 modules (#809)</code>](https://github.com/elementary/photos/commit/53092183b825b52255a72d459862c9d810763a94)
+- [ ] [<code>VideoSupport: Replace deprecated Gst.PbUtils.DiscovererInfo.get_tags (#811)</code>](https://github.com/elementary/photos/commit/9f23d3e8138742640080735dec40b2d0daa6e371)
+- [ ] [<code>PhotoMetadata: Replace deprecated GExiv2.Metadata.get_tag_label (#812)</code>](https://github.com/elementary/photos/commit/62619ed735fc431e825f34bec28ceea6c1240c79)
+- [ ] [<code>PhotoMetadata: Fix missing handle of enum values and remove unused (#813)</code>](https://github.com/elementary/photos/commit/e8ab83b2d68ab916a50d70b7c5bc30c975e616ad)
+- [ ] [<code>string: Replace deprecated COMBINING_MARK and missing handle of enum values (#814)</code>](https://github.com/elementary/photos/commit/08eb6e8009d00f849842253564ffc3df7838fd37)
+- [ ] [<code>ImportQueuePage: Correctly override; explicit .begin (#815)</code>](https://github.com/elementary/photos/commit/50e847dcc26579b8f7a92afe2e969698c55c3847)
+- [ ] [<code>Page: Replace deprecated Gdk.Keymap.get_default (#816)</code>](https://github.com/elementary/photos/commit/f6c0814ab0c033951079fb08468ebed026f41390)
+- [ ] [<code>Plugins: Replace deprecated ModuleFlags.BIND_LAZY and Module.SUFFIX (#817)</code>](https://github.com/elementary/photos/commit/39ce7a6bc445f669805f69b0d37c0fd776faed89)
+- [ ] [<code>meson: Use multiple dependency name instead of manual fallback (#819)</code>](https://github.com/elementary/photos/commit/1e29e2da76786c242734a079bf99191f0575531d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -281,6 +291,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add System Updates action (#357)</code>](https://github.com/elementary/switchboard/commit/a643b120697eaa10d698f13a87b884004d855a51)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Release 8.0.3 (#351)</code>](https://github.com/elementary/switchboard/commit/6714b3c8f6d0e6d386c3190e1c15b1d651faae2a)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -358,6 +371,9 @@
 - [ ] [<code>Fix no titlebar buttons when network is not available (#92)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0e71bd4850c524ceed96ff60d5cd09d7ccce7408)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Release 8.0.2 (#94)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/427494869ab6c7787140cf07622a2087173f033a)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
