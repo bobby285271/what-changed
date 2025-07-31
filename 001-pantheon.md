@@ -540,6 +540,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES that were forgotten when moving gestures to lib (#2498)</code>](https://github.com/elementary/gala/commit/4b53f12f06a11cd26b6fe5e844fa3ea40f9500ea)
 - [ ] [<code>Fix changing background color (#2487)</code>](https://github.com/elementary/gala/commit/ff401a55127e170ce702892e2828738fc938adde)
+- [ ] [<code>Implement a TouchpadBackend (#2497)</code>](https://github.com/elementary/gala/commit/5da04b95e504cb6de46003a33017f3680e8d4a0b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
