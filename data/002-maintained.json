@@ -74,9 +74,6 @@
             "attr_path": "vala-lint"
         },
         {
-            "attr_path": "vocal"
-        },
-        {
             "attr_path": "wingpanel-indicator-ayatana"
         }
     ]
