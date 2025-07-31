@@ -105,6 +105,9 @@
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
 - [ ] [<code>Use shadow width instead of custom size (#437)</code>](https://github.com/elementary/dock/commit/3323bb034af197cc21f03397f7c259e785b29a39)
+- [ ] [<code>Implement background app monitoring (#394)</code>](https://github.com/elementary/dock/commit/3f68ec7d6772787da5d2188623eaa96b1b0f4901)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
