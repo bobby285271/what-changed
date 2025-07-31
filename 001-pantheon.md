@@ -108,6 +108,8 @@
 - [ ] [<code>Implement background app monitoring (#394)</code>](https://github.com/elementary/dock/commit/3f68ec7d6772787da5d2188623eaa96b1b0f4901)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Keep the dock visible in the MultitaskingView (#375)</code>](https://github.com/elementary/dock/commit/ad315c8bd854191508ad4ed852f381654ce7e82a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -278,25 +280,8 @@
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
 
-#### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.2 → HEAD](https://github.com/elementary/switchboard/compare/8.0.2...HEAD)
+#### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
-- [ ] [<code>SettingsSideBar: Fix selection of the correct row (#336)</code>](https://github.com/elementary/switchboard/commit/054ab206a98af06d835192f6ea3249fbed51c4be)
-- [ ] [<code>Application: don't use gtk_use_portal (#339)</code>](https://github.com/elementary/switchboard/commit/f91e5558cf9e44113c4895541df207a0fa25ba92)
-- [ ] [<code>Revert "SettingsSideBar: Fix selection of the correct row (#336)" (#340)</code>](https://github.com/elementary/switchboard/commit/89985cb23b46a47156f720372bb879395a2d5c62)
-- [ ] [<code>SettingsSideBar: Fix selection of the correct row (#344)</code>](https://github.com/elementary/switchboard/commit/150ef81c4dd2ee27f02d5ef5af3d9269a3011a67)
-- [ ] [<code>README: Fix broken Weblate badge (#345)</code>](https://github.com/elementary/switchboard/commit/2bfd734d27480e89073bdb519e516f64fc46a024)
-- [ ] [<code>SettingsSidebar: Fix null access when selection of SettingsSidebarRow is cleared (#347)</code>](https://github.com/elementary/switchboard/commit/854c76b8668a5ca11c3deffded5ae3a18d5463eb)
-- [ ] [<code>Enable DBus Activation (#349)</code>](https://github.com/elementary/switchboard/commit/c63cdd984f52e3e6769beb38fdbce033080cfd2c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Metainfo: add 8.0.3 release notes (#350)</code>](https://github.com/elementary/switchboard/commit/571160ae63a04cd922d6bcadbf7f1ce4fa663051)
-- [ ] [<code>meson: prepend prefix to BINDIR</code>](https://github.com/elementary/switchboard/commit/76a42479280a971d5c4c3ffce6929ef1cce8f81f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add System Updates action (#357)</code>](https://github.com/elementary/switchboard/commit/a643b120697eaa10d698f13a87b884004d855a51)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Release 8.0.3 (#351)</code>](https://github.com/elementary/switchboard/commit/6714b3c8f6d0e6d386c3190e1c15b1d651faae2a)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -368,15 +353,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
-- [ ] [<code>DLNAPage: use Gtk.FileDialog (#89)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/19880acb82b1c436eeec807b7055c46896e4d9d8)
-- [ ] [<code>Fix no titlebar buttons when network is not available (#92)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/0e71bd4850c524ceed96ff60d5cd09d7ccce7408)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Release 8.0.2 (#94)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/427494869ab6c7787140cf07622a2087173f033a)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
@@ -542,6 +520,9 @@
 - [ ] [<code>Fix changing background color (#2487)</code>](https://github.com/elementary/gala/commit/ff401a55127e170ce702892e2828738fc938adde)
 - [ ] [<code>Implement a TouchpadBackend (#2497)</code>](https://github.com/elementary/gala/commit/5da04b95e504cb6de46003a33017f3680e8d4a0b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code> Implement support for keeping shellclients in the multitasking view  (#2275)</code>](https://github.com/elementary/gala/commit/b89ec3a1fd1e3e1f2b585ba8af25d3be950e3c45)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>BackgroundSource: fix log spam (#2509)</code>](https://github.com/elementary/gala/commit/cbec7b3663c5a53ddbe20f8dad361434affda4c4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
