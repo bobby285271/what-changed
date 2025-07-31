@@ -23,6 +23,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/e17b2e92a353bb4be0698ceddd3c2b33b946d173)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Make sure "priv->item" never is NULL</code>](https://github.com/xfce-mirror/exo/commit/6f4412b7ac72a3a1099eb081b28e9609c394fa09)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -57,6 +58,16 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/garcon/commit/9045f7048b2991573e231f4bb67cf06da798cc6c)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/garcon/commit/9361b92732fadc62feaf8496c16810aa1bfb05dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>menu-item: Fix string leaks in garcon_menu_item_reload_from_file</code>](https://github.com/xfce-mirror/garcon/commit/2805158f200695dc36a09bea6e1e74082dbd0b4c)
+- [ ] [<code>appmenu: Add text editor to default app section</code>](https://github.com/xfce-mirror/garcon/commit/a87a8003a6305705ace2eef448907194a987dd89)
+- [ ] [<code>appmenu: Group text editor with other accessories</code>](https://github.com/xfce-mirror/garcon/commit/36af1264eb9fae02be2fd2d136b8fa2756b73768)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/garcon/commit/f45147d4634292c03fbb03780876d4c6cb4ed51d)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/garcon/commit/86e60f40f4440dd17c7779d5711b1c4b5a5cafbc)
+- [ ] [<code>Fix XfceRc leak in garcon_menu_directory_new</code>](https://github.com/xfce-mirror/garcon/commit/25b8c79f627ae2cd1ab692c4bfb0e866c7782f03)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -129,6 +140,38 @@
 - [ ] [<code>clipboard-manager: Use GtkTargetList instead of manual allocation</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ef13682f21c4fd0840d2029166c238500f11ad5c)
 - [ ] [<code>clipboard-manager: Use separate struct for each call to set_with_data()</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e5dd9d3bc8aa7e663c6477bf6cf1991e0b288d97)
 - [ ] [<code>clipboard-manager: Fix potential leak on targets</code>](https://github.com/xfce-mirror/libxfce4ui/commit/463d9d797cc8c69752c02fdd44726d06cb89bb14)
+- [ ] [<code>Make sure "priv->item" never is NULL</code>](https://github.com/xfce-mirror/libxfce4ui/commit/557fbd6005411e198c0b6e5830bedd1b9345b6ee)
+- [ ] [<code>Add xfce-notebook</code>](https://github.com/xfce-mirror/libxfce4ui/commit/23bdabe79eec77644e76ffd53b104ed4dada6ca8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/libxfce4ui/commit/88c031d91a9ad414e863b93f10c221cc6292695c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b0e09c2d9a0354ef1b43ca9d5e66947ce7467685)
+  - <sub>Tags: <code>libxfce4ui-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e2ca547eb0513cb8954b060d72da0f74401b0f83)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Allow tree models to be used in icon view</code>](https://github.com/xfce-mirror/libxfce4ui/commit/804cff2976bf21f3f9ca6383cba4c02dec915b75)
+- [ ] [<code>Add support for default TextEditor</code>](https://github.com/xfce-mirror/libxfce4ui/commit/503d33ebbd7b9eb04031df72f3d2b7607578db6c)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4ui/commit/8fcc2d78b473c2badcc4eee9bd6363769e2004de)
+- [ ] [<code>Add suuport for default media applications</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3fe89225ccdbfe775f450e4497fa10c5c9a8b46b)
+- [ ] [<code>meson-build: Add missing ENABLE_WAYLAND definition</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b12b96a98ad24698aa3f220659b8f89755a6263d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Limit IconView to only display top level of model</code>](https://github.com/xfce-mirror/libxfce4ui/commit/44fa54961c83d0d01c57e4cc1e204d01c4591f79)
+- [ ] [<code>Rewrite and simplify xfce_gtk_position_search_box()</code>](https://github.com/xfce-mirror/libxfce4ui/commit/093e04f053bf8c79cd49fd79f9f11be5de8f338b)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/069d076da47216a732f564ae17e07dec7811ad58)
+  - <sub>Tags: <code>libxfce4ui-4.21.2</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e054593aca1713675e8499306f7ef4daf8e811e5)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0bdde77091d297693d8fcf7ff842f68a1fc85950)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ddb0bf65337a084ba51269bd16bf8fdee9865772)
+- [ ] [<code>Fix error-path leaks in xfce-desktop-item-edit main</code>](https://github.com/xfce-mirror/libxfce4ui/commit/637deaf54465e053bc68bd64755415168bf26978)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -188,6 +231,10 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/2c0b44aca7275b41da439b24f492daaac7b67123)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/libxfce4util/commit/0e28e76285764f70a199adbc4c391b9252fae921)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4util/commit/40f3e4c8827abecfa962d8fccb44fdc20550779a)
+- [ ] [<code>Revert "Update README after switchover to meson"</code>](https://github.com/xfce-mirror/libxfce4util/commit/7134dfc94898650a303f3eb96a0be4b8a06a5b5c)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -264,6 +311,34 @@
 - [ ] [<code>autotools-build: Search for xdt-gen-visibility also in the working tree</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f579358dae5f410351b00d5ac1555793e523b35d)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a9555ede2ada2faf1c25f74d7ed910060dc2a129)
+- [ ] [<code>meson-build: Add GNU visibility files to sources</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7380816b40fa4045c0e5c9f7f08cccb123fb593e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Support absolute icon paths</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1996527bd01d546ee47dd9d7fee6e29e1cdfa37d)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/4712dcb4877425472a28d3ea130ba4b409637910)
+  - <sub>Tags: <code>libxfce4windowing-4.20.3</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c5c611253d0cd868ec385f2cc07594c192974c1d)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>meson-build: Add Vala language bindings option</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/07f529356caa92961c1858f29e2a336ca88e87fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a0b3c31975c37ef56c8f5b396e001350d1d94338)
+- [ ] [<code>Defer binding to the workspace manager until after we have the outputs</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e7a83b076ad4f24fd1d08e5b40017dbe16722171)
+- [ ] [<code>XfwWorkspace: Fix id property management</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c60bfc6e91bf701cb7bdefdab3490df9544882a)
+- [ ] [<code>XfwWorkspaceWayland: Fix typo</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/047c7b50873fbf143aff492b822668feb34438dc)
+- [ ] [<code>Destroy wl_output & xdg_output together when wl_output global removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0ba4060339b324499948ecd7894dd961bf3dad40)
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/27aee66df18e5d281a77537e42fe86fb7e5eaea4)
+- [ ] [<code>Revert "Update README after switchover to meson"</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/de28f09cb51abb39c4b6e95c646c49b633cfd2d5)
+- [ ] [<code>Add mnemonics for workspace names in workspace menu</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/4de8c9e3bf7f93aef8babff22d35b8059e3e2837)
+- [ ] [<code>XfwWorkspaceGroupWayland: Connect to XfwScreen::monitor-(added|removed)</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6174eeb870a5f2d5063b4605aea955938cffdb30)
+- [ ] [<code>XfwMonitorWayland: Don't make XfwScreen emit signal with null monitor</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e59a1d5142f8a8a6d9f79a8fb1e0e24227d1090f)
+- [ ] [<code>XfwScreenWayland: Rename id to name in registry_global(_remove)?</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/16f00b2ec3b1608ff50110f6776acd46a7c9633c)
+- [ ] [<code>XfwMonitorWayland: Store global name for matching when output is removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/519ce5b2a9754160d57f0265de0f1431c062181c)
+- [ ] [<code>XfwMonitorManagerWayland: Use g_hash_table_iter_remove when iterating</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/db393349935c866bcaf966418ea13ec5c2ecda3e)
+- [ ] [<code>XfwMonitorWayland: Fix release order in _global_removed()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7aa8d457f6690c2ea9a540c49525c5f7bb556020)
+- [ ] [<code>XfwSeatWayland: Store global name for matching when seat is removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/83a21765c0be8c0ca574f7a24e7f56e3b4f082e2)
+- [ ] [<code>XfwMonitorWayland: Delay monitor finalization until gdk data are set</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/102a06d626e861b019663c56835987f74d8f2b24)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -393,6 +468,122 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/384451f5847841ed28de92e2940b55893cc018a0)
 - [ ] [<code>Rename search related variables</code>](https://github.com/xfce-mirror/thunar/commit/927f3e87a51ab3a769dcdc7a8b5b4995ac338a2d)
 - [ ] [<code>Add ability to stop a search (#1373)</code>](https://github.com/xfce-mirror/thunar/commit/3d73abdc05ba40ce09c04540d87fe4b7d2a74e70)
+- [ ] [<code>search: Add space at end of prefix outside translation</code>](https://github.com/xfce-mirror/thunar/commit/0a57d1813761b8bd69ae46ba2a4ac4071248801b)
+- [ ] [<code>Tweak "Search for" string</code>](https://github.com/xfce-mirror/thunar/commit/e03122481b1b7ff312ac895635f868cbb3ab6a3f)
+- [ ] [<code>Translations: Allow to swap string arguments (#1609)</code>](https://github.com/xfce-mirror/thunar/commit/b76f3f4c69744d558d679fcd71bd84f826c3bb05)
+- [ ] [<code>Add possibility to set custom file icons</code>](https://github.com/xfce-mirror/thunar/commit/614cbc3d7d6047e22031a4b18a9309bb2610105f)
+- [ ] [<code>Trust launchers after icon modification</code>](https://github.com/xfce-mirror/thunar/commit/3175a1b9f6dcadd5ba0abaec18f563ef75660fb3)
+- [ ] [<code>search: Clean up signal handling</code>](https://github.com/xfce-mirror/thunar/commit/79380f8fabe4f846cbe0660a11badb640de34d93)
+- [ ] [<code>search: Restart search when pressing Enter</code>](https://github.com/xfce-mirror/thunar/commit/ac5c1d3665388dfb397da703d435c117227c88c6)
+- [ ] [<code>Use ThunarZoomLevel enum instead of gint</code>](https://github.com/xfce-mirror/thunar/commit/f7c20143aa0946eacc7ef6aa370246698b209f48)
+- [ ] [<code>Fix variable name mix-up</code>](https://github.com/xfce-mirror/thunar/commit/7d9c83b1e1b8cc343ce8a54c61b8a75ec455e848)
+- [ ] [<code>Move "folder first" setting into "arrange items" menu (#967)</code>](https://github.com/xfce-mirror/thunar/commit/12f59fe5e0f0328cd94cd87485c8709d08f32e45)
+- [ ] [<code>Check if file exists before opening its location (#1257)</code>](https://github.com/xfce-mirror/thunar/commit/32d93057de4362cd3d8b3d2d1d23a80a230512e4)
+- [ ] [<code>wayland: Fix popup menu not closing (#1592)</code>](https://github.com/xfce-mirror/thunar/commit/63aa3a9a53d4d1ab67274f0c2b811669d0fa9716)
+- [ ] [<code>Allow DnD from host to guest VM (#113)</code>](https://github.com/xfce-mirror/thunar/commit/4cab2a085a4292b19d8cf655b645d2a188a542e1)
+- [ ] [<code>Some code cleanup</code>](https://github.com/xfce-mirror/thunar/commit/92a73e6f1f16c2bede1ea6f6dcd23568e6146def)
+- [ ] [<code>search: Exit search mode with Back button (#786)</code>](https://github.com/xfce-mirror/thunar/commit/6d9b1204b8bcd52a5bfc1580f6aea646951920eb)
+- [ ] [<code>UCA: Correct PWD for submenu folder items (#1615)</code>](https://github.com/xfce-mirror/thunar/commit/418b901b8a6c4b4839dd5b8cbdc5b4775767f3d0)
+- [ ] [<code>Limit maximum number of file watches (#1552)</code>](https://github.com/xfce-mirror/thunar/commit/c3fd349f10b03e14ce70ed389e1802702c6507e4)
+- [ ] [<code>Fix popup position of DnD menu</code>](https://github.com/xfce-mirror/thunar/commit/1e2f8cf5c6d1a234a08c47ea4d84444edb6875b4)
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/thunar/commit/646f86a565fd11b52566e1894b2171f49f703514)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add missing NULL check before unref call</code>](https://github.com/xfce-mirror/thunar/commit/4c12c701f317edeea9d76de7e03a9109a70730de)
+- [ ] [<code>Fix location bar wrongly leaving search mode (#1577)</code>](https://github.com/xfce-mirror/thunar/commit/a18726a594828e6f731c9c9353b0ee203e439dda)
+- [ ] [<code>Fix initiating location edit while in search mode (#1577)</code>](https://github.com/xfce-mirror/thunar/commit/5fc996688aed01708468c07679fab9c023a5134a)
+- [ ] [<code>Rework thunar_window_delete</code>](https://github.com/xfce-mirror/thunar/commit/5793ae1f193bd43396e04a2dfc1df5b7e9af0615)
+- [ ] [<code>Fix VirtualBox DnD detection (#113)</code>](https://github.com/xfce-mirror/thunar/commit/a02142796d1f8fcc8948be469d956e97095f72dc)
+- [ ] [<code>Use default zoom level if no dir specific zoom level is set (#1104)</code>](https://github.com/xfce-mirror/thunar/commit/12d0f1eb2059cf33c4332fe863d61d69ff79996f)
+- [ ] [<code>Fix refresh on row-changed in list view (#1584)</code>](https://github.com/xfce-mirror/thunar/commit/18639ea8887200267ffa0daa6273e97233ef2932)
+- [ ] [<code>Avoid unneccessary refresh of the view</code>](https://github.com/xfce-mirror/thunar/commit/eedc42b6f0c55c1a6f2da313981d76af815e5d9e)
+- [ ] [<code>Fix leak in thunar_location_entry_emit_edit_done (#1622)</code>](https://github.com/xfce-mirror/thunar/commit/b289e0c0b8d10f10cca9268d62509d9c2f6e48bb)
+- [ ] [<code>Fix thunarx_menu_get_items leak when multiple UCAs share a submenu</code>](https://github.com/xfce-mirror/thunar/commit/e995982e6b72fc6eb528671bc21f0f7c62add005)
+- [ ] [<code>Fix leaks with ThunarMenuX objects</code>](https://github.com/xfce-mirror/thunar/commit/a0f8b06f5f92747900a998ad240cb6505e1cb496)
+- [ ] [<code>Fix a potential leak in thunar_action_manager_append_custom_actions</code>](https://github.com/xfce-mirror/thunar/commit/596f2a7f90b5aae6401b9b85db77afd7dc2df029)
+- [ ] [<code>Fix string leaks when UCAs use a submenu</code>](https://github.com/xfce-mirror/thunar/commit/3b6b715cc72a485a319ea9c66bf864d0b71b6c08)
+- [ ] [<code>Always warn user before permanent deleting files</code>](https://github.com/xfce-mirror/thunar/commit/a068aee5f5da25cf58d6f02f04c44a60bc5df6ed)
+- [ ] [<code>Do not recursively delete dirs in unwritable PWD</code>](https://github.com/xfce-mirror/thunar/commit/fc89a593c311c48a2ea29d791f44e2560be5a47c)
+- [ ] [<code>Refactor thunar_application_unlink_files</code>](https://github.com/xfce-mirror/thunar/commit/47e5fbe5345e6dd635397140bc95e3a8bca321c3)
+- [ ] [<code>Decouple trash and unlinking interfaces</code>](https://github.com/xfce-mirror/thunar/commit/c57ed69cbdbd9d38da925454f1b59f100e28ed00)
+- [ ] [<code>search: Fix Back/Forward button functionality</code>](https://github.com/xfce-mirror/thunar/commit/5929d4aeabe683233f0903a8b13e34a673b4441b)
+- [ ] [<code>search: Fix critical when closing tabs</code>](https://github.com/xfce-mirror/thunar/commit/c86d1678009e67baa3bdefb9ca57be5e0801adbb)
+- [ ] [<code>search: Fix Catfish button visibility</code>](https://github.com/xfce-mirror/thunar/commit/0cfc3b34e41f096bacbcefbf20658a9b124b632f)
+- [ ] [<code>search: Avoid saving last view type when closing tab</code>](https://github.com/xfce-mirror/thunar/commit/5ca608a813028307e2d72be1fbf02d6a1e316eb4)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/24de7de5751cee697a01e0d592c99799045fad9d)
+  - <sub>Tags: <code>thunar-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/2c20fff64605aeed2bb3e3af21ba46fd4d45d77b)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Thunar transfer job - count items in subfolders</code>](https://github.com/xfce-mirror/thunar/commit/9364bfa7cf39bd26764ff0d916dd2797ae9596b1)
+- [ ] [<code>Rework VirtualBox DnD detection (#113)</code>](https://github.com/xfce-mirror/thunar/commit/72f4dea58834a503fde180a7b7cbafb047441073)
+- [ ] [<code>Fix ThunarxMenuItem leaks when finalizing ThunarxMenu</code>](https://github.com/xfce-mirror/thunar/commit/079aace2049e2d3d2b6b8bdf0f57d5af9e09bfe5)
+- [ ] [<code>Fix GtkImageMenuItem leaks with UCA submenus</code>](https://github.com/xfce-mirror/thunar/commit/d378153d3996f2302db1001d5edab51b330a9f4f)
+- [ ] [<code>Fix ThunarFile leaks in location-buttons (#573)</code>](https://github.com/xfce-mirror/thunar/commit/04118e22bd5b57ff3c092a3f34c7e4b68a36bba5)
+- [ ] [<code>Fix leaks in thunar_uca_provider_get_file_menu_items</code>](https://github.com/xfce-mirror/thunar/commit/d8393f445ef72c2bf1e49988625a56bdb1ceac0f)
+- [ ] [<code>Close rename dialog if file renamed outside dialog (#1323)</code>](https://github.com/xfce-mirror/thunar/commit/7bb31ad5cf4b15cceccf7695ff541bfb32459aa8)
+- [ ] [<code>Fix use-after-free on exit with search tabs open (#1593)</code>](https://github.com/xfce-mirror/thunar/commit/014cbc09a608c7225b868ebcc824f67d4657b149)
+- [ ] [<code>Fix use-after-free in thunar_renamer_dialog_response (#1458)</code>](https://github.com/xfce-mirror/thunar/commit/5dc09b62bb751a30e5df36c98f63e8a196380a04)
+- [ ] [<code>wayland: Fix popup position of DnD menu</code>](https://github.com/xfce-mirror/thunar/commit/6944e13c3f23cbca99f2fb0201c4f710d2873487)
+- [ ] [<code>apr: Replace libexif with gexiv2</code>](https://github.com/xfce-mirror/thunar/commit/ec2836cc26a36be7269f26442e65f19c64688f97)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>sbr: Replace libexif with gexiv2</code>](https://github.com/xfce-mirror/thunar/commit/f9dc38f1ec5f424fcb8d0dcec04e02abe0515ff9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use XfceNotebook from libxfce4ui (#1562)</code>](https://github.com/xfce-mirror/thunar/commit/8ba268cfed8c58f429a3c4f5addea77d6fca9c2b)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Only save column width when in fixed column mode</code>](https://github.com/xfce-mirror/thunar/commit/d864eed959b0bf3351f08eb338470b312be9159e)
+- [ ] [<code>Split 'thunar_util_parse_parent' in two methods (#1632)</code>](https://github.com/xfce-mirror/thunar/commit/5c290dceeda02b22a3ce3e32fb4af46dcd1e8a3d)
+- [ ] [<code>Wipe transient parent when setting screen (#1632)</code>](https://github.com/xfce-mirror/thunar/commit/2a3da56c6ecf1a60ad84aa511d3d9ed6a1afb84b)
+- [ ] [<code>Consistently use parent pointer instead of Screen (#1632)</code>](https://github.com/xfce-mirror/thunar/commit/ed4cc260f1f2d5ea37455a7d6411b64ae6fcb574)
+- [ ] [<code>Make use of 'startup ID' when available</code>](https://github.com/xfce-mirror/thunar/commit/a172c7876f2c3c041a244b8a49c7fefc2a2fab42)
+- [ ] [<code>location-bar: Properly destroy child widgets (#573)</code>](https://github.com/xfce-mirror/thunar/commit/fdf46675ed1d0f3463838b8e1b6fbd8872138bce)
+- [ ] [<code>Remove outdated code</code>](https://github.com/xfce-mirror/thunar/commit/e5618c55815a43b4941aae3ce4847f0e0277b28d)
+- [ ] [<code>New directory specific setting: "sort-folder-first" (#1580)</code>](https://github.com/xfce-mirror/thunar/commit/a0e96041fdd8cea8ceb686616121a555208e6bdf)
+- [ ] [<code>Add .git-blame-ignore-revs file</code>](https://github.com/xfce-mirror/thunar/commit/ed88cae9cfbdcabd1ad34fbec725b4a93388469f)
+- [ ] [<code>Format action entries</code>](https://github.com/xfce-mirror/thunar/commit/8b8c054a4604eb22334ca0ca263d96521f3a5439)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add menu action to paste links (#34)</code>](https://github.com/xfce-mirror/thunar/commit/c8b08637bec83511d1be6b0a72cd175e838949fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove duplicated signal connect</code>](https://github.com/xfce-mirror/thunar/commit/ad762abe20346ac939c8abb14856a0a7a242e73f)
+- [ ] [<code>Fix a GFile leak in _thunar_io_jobs_rename</code>](https://github.com/xfce-mirror/thunar/commit/daaca2cb848ecff0d3f9dd9ab0949f9b45179e0b)
+- [ ] [<code>Fix leaks when replacing existing file with new file or directory</code>](https://github.com/xfce-mirror/thunar/commit/14141cf48eca500c8c92933c6a7035820c0fafa8)
+- [ ] [<code>Add basic signal handling (#1633)</code>](https://github.com/xfce-mirror/thunar/commit/712483c04a06022d3f60876c71e99c9446f96e09)
+- [ ] [<code>Rename "thunar_file_destroy" to "thunar_file_signal_destroy"</code>](https://github.com/xfce-mirror/thunar/commit/84d4044dc1a157a1e32220f68b990e4c86436b71)
+- [ ] [<code>Fix typo in thunar-file.c</code>](https://github.com/xfce-mirror/thunar/commit/b475dd217602775395d36620cae6349beffcbcc5)
+- [ ] [<code>Reset folder monitor on folder rename (#1644)</code>](https://github.com/xfce-mirror/thunar/commit/7e186560c2f2a53e8f1f87f29ce2b09616d8d118)
+- [ ] [<code>Directly notify after file reload (#1650)</code>](https://github.com/xfce-mirror/thunar/commit/58e9f5af2edbc15b4e32183c73dae1c629ba305b)
+- [ ] [<code>Always reload ThunarFiles on change notice (#1650)</code>](https://github.com/xfce-mirror/thunar/commit/6c8124969b2e2853077e9d9924eab1a0abe98328)
+- [ ] [<code>Properly update view after hidden file rename</code>](https://github.com/xfce-mirror/thunar/commit/b586c7eaaffe7b5c63ab3d1a2d7dfda0bf774a60)
+- [ ] [<code>Improve file add/remove checks for ThunarFolder (#1649)</code>](https://github.com/xfce-mirror/thunar/commit/09d499d30414b4b0021a8f4e5cd9b07d37af2d61)
+- [ ] [<code>Avoid use-after-free in rename dialog when file is changed underneath</code>](https://github.com/xfce-mirror/thunar/commit/b089105f236dff80ff51637cc9c1340a60deeba7)
+- [ ] [<code>file: Fix quoting when running shell scripts in a terminal</code>](https://github.com/xfce-mirror/thunar/commit/abecf50c33cf7d6ca215ce5374a51aceb662c564)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/64d0301a69742b566864b60977128e37ac297e17)
+  - <sub>Tags: <code>thunar-4.21.2</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/544f407a66802608ede409d59d4b286ff6cca15f)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Set initial state of "Restore" button (#1663)</code>](https://github.com/xfce-mirror/thunar/commit/a8be97314dd22e8204b88812e76819ec4a07b139)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/thunar/commit/a1f442f8f49bca15b5caada8fcfa732a0479f86a)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/thunar/commit/a865a4e86d3c7a365e26df0e3320527e6048267c)
+- [ ] [<code>Remove remaining autotools documentation</code>](https://github.com/xfce-mirror/thunar/commit/a61a6e3eb14fddd871dae58b439a2d0791238ad7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Use constructed method for model signal connects</code>](https://github.com/xfce-mirror/thunar/commit/873ed2772aae43b20ad6452d16e4cf337962dea2)
+- [ ] [<code>Cancel pending sources and disconnect signals in dispose()</code>](https://github.com/xfce-mirror/thunar/commit/697e179e4c44c1ad08290c7c44fc504e0c16125f)
+- [ ] [<code>Add hidden setting to toggle smart sorting (#1657)</code>](https://github.com/xfce-mirror/thunar/commit/3eab995f9192479cf06d9f57c24ea09d451703ce)
+- [ ] [<code>Clear selection before updating selection (#1672)</code>](https://github.com/xfce-mirror/thunar/commit/88ca881395fc6744307cbab2497e465013965bd7)
+- [ ] [<code>Update plugin READMEs after switchover to meson</code>](https://github.com/xfce-mirror/thunar/commit/673fa00902b4d979850d5abe797755c8829dca5f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>UCA: Improve parameter info banner (#1676)</code>](https://github.com/xfce-mirror/thunar/commit/b7dffda433b19c3b43b54bdf58fe8329b04d1f90)
+- [ ] [<code>Prevent Leak of Property Binding</code>](https://github.com/xfce-mirror/thunar/commit/044d3fbf937e69f7ef20d95c17d2d729191d65be)
+- [ ] [<code>Don't reload Statusbar when Binding is removed</code>](https://github.com/xfce-mirror/thunar/commit/4f2f68007bd04f72a3f19c9a9fd6d4ada141278e)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -405,6 +596,10 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/ba161c9d9e36b27fd5fa80138c635856f0b3bcda)
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/thunar-volman/commit/1d81d92ebe9a255e2b32c67c42dada1a2f895979)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/thunar-volman/commit/cae15d9abe85056b11fbfb5398954a550df092b4)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -437,6 +632,18 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/acaebe5890dfba02b090c268637e5ae8a6f95391)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>gst-thumbnailer: Make mime type checking more flexible</code>](https://github.com/xfce-mirror/tumbler/commit/e37ddde046c4cec8c0f903a72e83002e708a2b06)
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/tumbler/commit/6468e256a7b07dcf25e6e99e30e8fd8ad677d73e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/tumbler/commit/debde47ddd271fcc9c516594b2e49354772fce69)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/tumbler/commit/d8032b31c1e5d0d3da1c6fd6533d8ae7d5fa1071)
+- [ ] [<code>build: Remove old CHECK_VERSION preprocessor conditionals</code>](https://github.com/xfce-mirror/tumbler/commit/700934ef560b9c61d15c5f0eda9b2ec3953ff3a9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cover-thumbnailer: Use correct parameter types with curl</code>](https://github.com/xfce-mirror/tumbler/commit/243ea0fc5af8f88ae915e25d94e29f61612b62e9)
+- [ ] [<code>cover-thumbnailer: Update the base URL for TMDB</code>](https://github.com/xfce-mirror/tumbler/commit/094e236ae2a09f4ace081c6d9d0959b68ee81799)
+- [ ] [<code>cover-thumbnailer: Capture regex matchinfo for series episodes</code>](https://github.com/xfce-mirror/tumbler/commit/fd32d11c683d137a34f9052529a0d3f8cf9efc30)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -463,6 +670,10 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/d4df6cdf15287ddcc20db026765e38fc57fe262d)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/2d27c23bdcc59ebac981e381fd23b062cc1a8a9d)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e32f0a30d8b45d2d5c3b27861fc76fa7206b565a)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -503,6 +714,21 @@
 - [ ] [<code>ci: Update build_libs.sh after thunar dropped half its doc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/19e51c17904955f8e43c5ada6b53a393e06ada5e)
 - [ ] [<code>xfce-do-release: Add xfce-revision.h.in to tarball without REVISION</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/09fc6e34c7a1f23ef3fc4f89ac0d32d8a90b2eac)
 - [ ] [<code>ci: Add libaccountsservice-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d3fa7ff579d08e966b0d87c6c5f58dfe27836745)
+- [ ] [<code>ci: Add libapr1-dev and libaprutil1-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ac0ea6d89ae7077302454c5e036dd98b3aef36a8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: Add libasound2-dev and libsndio-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4701903029bd09cfcb2d88fe22f32f9e42873826)
+- [ ] [<code>ci: Add python3-psutil to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3fc4d0b78d9c918774875be59927e766eafb94a9)
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/089d9f87d5466b00dedcc50734a081db49f8401f)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4b803224c4acc6daf3ddcc00fa940086651fdd5e)
+  - <sub>Tags: <code>xfce4-dev-tools-4.21.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3c68cc7f33b3fa3b5c58350b5c2edef46538a7b3)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>ci: Add libgexiv2-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3d69876d5d53b7c96c362d4463a7a2a1da41ad2b)
+- [ ] [<code>ci: Add libsystemd-dev, xmlto to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4a2e93c110e790e900c5cc80aeae73129de80c28)
+- [ ] [<code>ci: Add libpam0g-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/03f5c6e18a46526090a5f675ef1ad77c92ddd138)
+- [ ] [<code>ci: Add docbook-xml to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a66e10cd3f675150fddd3517a6b922f0ccf9f5f4)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -601,6 +827,27 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b92f59703902159488d38002b029f81280c4b696)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>panel: Show window when new output is connected</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ace49302d03e22fa2e87e08a8e0019c581433271)
+- [ ] [<code>wayland: autohide: Try to trigger size_allocate() more reliably</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ae77bc8c0c1e9a7374b3268bbad682e7c2a6819e)
+- [ ] [<code>libxfce4panel: Restore possibility to oversize icons</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8bb0b09984f169717ea1e9f1dc79052d50a67eb3)
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/xfce4-panel/commit/11bb13e3a4e177cb8a204f6b58fc4364e22b48e3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>x11: Let GtkSocket expand if possible</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b7f9bb461e9d27235fcd548107c50e57f4aba27b)
+- [ ] [<code>clock: Fix string leaks related to clock_time_strdup_strftime</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c31e69ec2434e54df38f5376cee3cdae29a98e8f)
+- [ ] [<code>tasklist: Deactivate context menu when its button is destroyed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4fbb3ed6da7a8f17fbc83d939e4ccfa1fcc90a49)
+- [ ] [<code>wayland: Support multiple workspace groups where it makes sense</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1538d8b72bf7127cc299ac4d2e5f264c22d1896f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Stop using xfce_panel_plugin_(block|unblock)_menu</code>](https://github.com/xfce-mirror/xfce4-panel/commit/cb60d0f9ea1206d247e8b1615e84bdd0cd7749e9)
+- [ ] [<code>libxfce4panel: Deprecate xfce_panel_plugin_(block|unblock)_menu</code>](https://github.com/xfce-mirror/xfce4-panel/commit/26edec936290cce013e0acb82bd75af14d2104c0)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7e0f4b6d34f6ac74be1fa5c1383e463d4adac84a)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-panel/commit/64a2f2ab0edc9c0906235f1fd65c24415e9da86e)
+- [ ] [<code>Fix string comparison when searching for plugin dirs</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf69d537db38769977767a7f982fb164c15d11ac)
+- [ ] [<code>panel: Restrict X-XFCE-Unique=SCREEN to X11</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db2e5299e107ce067e114cd66499b9f9b74cb9fb)
+- [ ] [<code>panel: Don't show panel window too early</code>](https://github.com/xfce-mirror/xfce4-panel/commit/35dca5621adac0a55069f9fd8245623cb233bc54)
+- [ ] [<code>wayland: panel: Ensure panel window is shown at least once</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2441efb9a92afd6ef1e0a2e0f0a0e8394239511a)
+- [ ] [<code>wayland: panel: Delay hiding panel window when screen layout changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2fb4e093588d3322f1c54ae2fc9e4e6d6471aab)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -647,6 +894,16 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
 - [ ] [<code>autotools-build: Be sure gdbus-codegen files are regenerated</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/413f48847c844e8aa59b89dfd50b6cf27b61594a)
 - [ ] [<code>autotools-build: Fix distcheck in previous commit</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/530ffed0833ab4aacaeb6a86d5b4008f0d4acaca)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/371b784b8376917d4e58914a9e9b50ba1c92e105)
+- [ ] [<code>wayland: dpms: Release output powers when disabled</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/3903525dd9ba7064901a5fc3bc1064fa19d21a96)
+- [ ] [<code>Fix Brightness keys grabbing</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1cbd3c81bbc3531a3e1e275390c35600db8a6437)
+- [ ] [<code>Stop using xfce_panel_plugin_(block|unblock)_menu</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/567e731f7681967f6ab07504b2ba9aee12788d67)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/047c2804b8c92d0f5a6c66bc0c0b4553605672d7)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/834a81f1ed5ad602df3c39adac752f85ea667603)
+- [ ] [<code>power: Fix possible GError leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/320eaf92c1a7f42c83bfcecd0bad8025ae6d20d9)
+- [ ] [<code>power: Rename hash table and browse it using GHashTableIter</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b261f31ac6b9df4ad417e09fb80053048acfe796)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -703,6 +960,17 @@
 - [ ] [<code>labwc: Add window snapping range</code>](https://github.com/xfce-mirror/xfce4-session/commit/f1cd45b00506a41061d14e5f67cd6a6f837d5619)
 - [ ] [<code>Use syntax compatible with most sh shells.</code>](https://github.com/xfce-mirror/xfce4-session/commit/e084c7694554ad64462dd8675bb9fc466bb32ce7)
 - [ ] [<code>wayland: start a D-Bus session only if there isn't one already</code>](https://github.com/xfce-mirror/xfce4-session/commit/dc1d6cd65102b4d1a6e4c40f43ce74ac6c480513)
+- [ ] [<code>startxfce4: Improve keyboard layout detection on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/9fb3995eb1db97571e6683d2c7c2975f86f49bbe)
+- [ ] [<code>xfce-portals.conf: Add wlr for ScreenCast</code>](https://github.com/xfce-mirror/xfce4-session/commit/8d007b40baa957f50a18552eec8f1158aab5504d)
+- [ ] [<code>labwc: Add some default config values</code>](https://github.com/xfce-mirror/xfce4-session/commit/947cdfb24c89e3f0e62de1e02623f3c777607b4a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>startxfce4: Add check for /etc/vconsole.conf</code>](https://github.com/xfce-mirror/xfce4-session/commit/630b6edccb710c38da6624886adbed96cf1aa225)
+- [ ] [<code>Add xapp for Settings in xfce-portals.conf</code>](https://github.com/xfce-mirror/xfce4-session/commit/053e139be2d996709a1140bcab626665feb3cf16)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-session/commit/59cfde19005678063b983242f1499436af47e5c9)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-session/commit/3666b207301f39efe6eb0829b145ea75ea236f55)
+- [ ] [<code>wayland: startxfce4: Remove definition of SDL_VIDEODRIVER variable</code>](https://github.com/xfce-mirror/xfce4-session/commit/6a649f68fe983815fb30e0449fab02b44d507297)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -768,6 +1036,26 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>common: Be more secure when parsing pnp.ids file</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b54d3361321171f8a27414085544b6909b22904c)
 - [ ] [<code>common: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/37f2c7431537c9f8ddef2d64b3e7ae47ddfd21e7)
+- [ ] [<code>settings-editor: Fix -Wcomma warning</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bccb75167b98249f3327ce646f185ac3189eed11)
+- [ ] [<code>Add option to set default text editor</code>](https://github.com/xfce-mirror/xfce4-settings/commit/29059594e79e1d631a48bd3d6c1d6d98ce2e38ef)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add default image viewer</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d98fde7d06f9e8b7889524315e5e52abd0cf726e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add default audio player</code>](https://github.com/xfce-mirror/xfce4-settings/commit/940181564904dc80f02d9365db59adff2d957e2d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add default video player</code>](https://github.com/xfce-mirror/xfce4-settings/commit/c6f720e08ec565825c0865b236dc464b56465825)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d321dfcf739cf3362b4155e5064d777ec158d627)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix typo in translated string</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9ae9b4e8d0bae52e60f19e94f37e0d572520d11c)
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d7e42f83cc94935a5bc900ac722a1372cb7967b0)
+- [ ] [<code>wayland: displays: Don't wl_display_roundtrip() on new output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f5eb0ac215e16c0bad73085edc2358700b9304d8)
+- [ ] [<code>display: Add/improve some debug logs</code>](https://github.com/xfce-mirror/xfce4-settings/commit/816d5303c6dfe723d45a8d56bad7ec130bf2a69f)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -813,6 +1101,14 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/2e0d5ae0beb9856669f4c2cfeed7c542808d5863)
+- [ ] [<code>meson-build: Use configure_file() to generate GNU visibility files</code>](https://github.com/xfce-mirror/xfconf/commit/f7481484874e3ae21ee012b628cd0b18414b3319)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>common: Fix -Wlogical-op warning</code>](https://github.com/xfce-mirror/xfconf/commit/667307422fa472ebd1e4050cee2e6667e39c9429)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfconf/commit/a688d28d4cd4ebcc0ebac67b87cd78b94a27ccd0)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update also .gitlab-ci.yml</code>](https://github.com/xfce-mirror/xfconf/commit/9a3a397bf1c27a9a123236af0d6a0dc2de39cacc)
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfconf/commit/1e486597d1f9c8e98c478eea3899b37809fcae19)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
@@ -859,6 +1155,25 @@
 - [ ] [<code>Replace deprecated exo with libxfce4ui 4.21.0</code>](https://github.com/xfce-mirror/xfdesktop/commit/8d47fb8582b140384dcdeec807f3a3736392906a)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix leaks in xfdesktop_menu_create_menu_item_from_thunarx_menu_item</code>](https://github.com/xfce-mirror/xfdesktop/commit/00b35f69eebe19ca21bd2d887e7bc0dfcae9a738)
+- [ ] [<code>Set window title for monitor configuration chooser dialog</code>](https://github.com/xfce-mirror/xfdesktop/commit/68211a6895456bf1160897b93297e956ba5ec9c0)
+- [ ] [<code>Properly set markup label text in monitor configuration chooser</code>](https://github.com/xfce-mirror/xfdesktop/commit/43321faa2a494187c834fe6c65b5686c666e3fcc)
+- [ ] [<code>Add xfdesktop-monitor-chooser-ui.glade to POTFILES</code>](https://github.com/xfce-mirror/xfdesktop/commit/6a638ae4e68865abf35e2bb45bfd5818d3edb214)
+- [ ] [<code>Ensure src icon & parent are writable and can be moved more thoroughly</code>](https://github.com/xfce-mirror/xfdesktop/commit/d5e0c254e28dc3c72d921e2d659dc2d748bb069b)
+- [ ] [<code>Fix random backdrop cycling getting stuck on last image</code>](https://github.com/xfce-mirror/xfdesktop/commit/d50660af96f553856e1b074029c07b926f56a1d9)
+- [ ] [<code>Ensure working directory is always set when executing something</code>](https://github.com/xfce-mirror/xfdesktop/commit/bd9d0b79c05f4e4074bfd1fe39c12cb579e0e9f0)
+- [ ] [<code>Re-read backdrop image file on 'xfdesktop --reload'</code>](https://github.com/xfce-mirror/xfdesktop/commit/4803e37dac2955ffa700248d45f8a1017749dff5)
+- [ ] [<code>Remove xfce_desktop_(freeze|thaw)_updates()</code>](https://github.com/xfce-mirror/xfdesktop/commit/13a6871fa43ac28a71b3bcf42d7f1cba12854648)
+- [ ] [<code>Fix backdrop file monitor not being created</code>](https://github.com/xfce-mirror/xfdesktop/commit/cbf900acecf3099f9e4bba52fc907413596adffa)
+- [ ] [<code>Update issue template</code>](https://github.com/xfce-mirror/xfdesktop/commit/b4100155241e4378652f083a7b2c422f27462724)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfdesktop/commit/d8bbaf2e27f7b86fc859fd8e073495d27f9b814d)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfdesktop/commit/2a1d5daf812b7c2b7ac783dad6dd3d4f959812a9)
+- [ ] [<code>Mark shortcut editor group names as translatable</code>](https://github.com/xfce-mirror/xfdesktop/commit/71195e67ef6686820b7b9963d5c3207eef55f24d)
+- [ ] [<code>Small change for meson i18n</code>](https://github.com/xfce-mirror/xfdesktop/commit/8989e9276e94be2e8928176c71a3162da0ec3bbe)
+- [ ] [<code>Fix column boundary check in xfdesktop_icon_view_unplace_item</code>](https://github.com/xfce-mirror/xfdesktop/commit/ec9403a52eaac92c195efe38992147b9d9f3d55e)
+- [ ] [<code>Fix a use-after-free crash in the icon unplace/removal code</code>](https://github.com/xfce-mirror/xfdesktop/commit/991f5a0065556277e7dd3a1314f8d2b31dd67b04)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
@@ -878,3 +1193,8 @@
 - [ ] [<code>build: Replace xdt-csource with glib-compile-resources</code>](https://github.com/xfce-mirror/xfwm4/commit/9ec0456859ff43c2b2f3b670510b8685bfd9a2c1)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>client: Fix use-after-free in terminateCloseDialog</code>](https://github.com/xfce-mirror/xfwm4/commit/9f2315e6df348a2c7a66f9231fb964cfaf2b9359)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfwm4/commit/b1d17743c2baa0fa118ae11388798763f0379375)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfwm4/commit/fb99aee4d1f7697016904abbfc40fa805ec1468c)
