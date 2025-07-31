@@ -83,8 +83,19 @@
 - [ ] [<code>Merge pull request #164 from ryonakano/switch-to-github-actions</code>](https://github.com/dahenson/agenda/commit/73e3f9331af7f52a56896c6c7cecf36dde216975)
 - [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/91160290a3241e3eb2ba118adf7e79b7a03606f7)
 - [ ] [<code>Merge pull request #165 from albanobattistella/patch-3</code>](https://github.com/dahenson/agenda/commit/d7c36f85651b8e5d7520ed7bae094137ca21a528)
+  - <sub>Tags: <code>1.2.0</code></sub>
+- [ ] [<code>Add flat style to the settings button</code>](https://github.com/dahenson/agenda/commit/01cdffddbe5d25fa48b90ce7f180c960c388fb9d)
+- [ ] [<code>Update the release date in the appdata</code>](https://github.com/dahenson/agenda/commit/927cfb6ef45828ef037a374d372938b5b9d36d4b)
+- [ ] [<code>Bump the release version to allow for these small changes</code>](https://github.com/dahenson/agenda/commit/39e23333e996d9745e3e56b7107adaef65967cef)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge pull request #167 from dahenson/elementary-appcenter-fixes-1.2.1</code>](https://github.com/dahenson/agenda/commit/07d900dd97c96bd3d78ab088910a39a4b5e060c6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshots</code>](https://github.com/dahenson/agenda/commit/3100a4a5a9a9b0fde53561440aa102f7bfcab0c0)
+  - <sub>Tags: <code>1.2.1</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/83c78fa20ffd5650bd82f616b9dfb9e636cca218)
+- [ ] [<code>Merge pull request #168 from bl00dy1837/patch-1</code>](https://github.com/dahenson/agenda/commit/08ddcb06ad077bc697e83c6c40afd74434fb0f16)
 
-#### [akira-unstable](https://github.com/akiraux/Akira): [v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/v0.0.16...HEAD)
+#### [akira-unstable](https://github.com/akiraux/Akira): [refs/tags/v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/refs/tags/v0.0.16...HEAD)
 
 - [ ] [<code>Major refactor to main (#635)</code>](https://github.com/akiraux/Akira/commit/70304ea144460ada2a4b2893aeb6a25b0d2c6ff5)
   - <sub>Files: <code>meson.build</code></sub>
@@ -274,12 +285,6 @@
 - [ ] [<code>Add files via upload</code>](https://github.com/arshubham/cipher/commit/64932159d6b794844ed92fe9a205ee54fc462618)
 - [ ] [<code>Merge pull request #56 from eson57/patch-1</code>](https://github.com/arshubham/cipher/commit/bb45279428e8a5417309b5311f0fa09e0aa519d2)
 
-#### [ephemeral](https://github.com/cassidyjames/ephemeral): [7.1.0 → HEAD](https://github.com/cassidyjames/ephemeral/compare/7.1.0...HEAD)
-
-- [ ] [<code>Update Portuguese Translation (#281)</code>](https://github.com/cassidyjames/ephemeral/commit/2488257df4778769f6090569fa834a9900775f40)
-- [ ] [<code>update_ukrainian_translation (#285)</code>](https://github.com/cassidyjames/ephemeral/commit/54fa39cbb597349a905c1baaa768315179756b84)
-- [ ] [<code>Update nl.po (#286)</code>](https://github.com/cassidyjames/ephemeral/commit/9a9af0b4a9dffef042dd0d4de1fe35cbdbb021da)
-
 #### [fondo](https://github.com/calo001/fondo): [1.6.1 → HEAD](https://github.com/calo001/fondo/compare/1.6.1...HEAD)
 
 - [ ] [<code>Update cs.po</code>](https://github.com/calo001/fondo/commit/fd6380a642b9e4bc79f2920e6c281d668fb5e248)
@@ -345,6 +350,13 @@
 - [ ] [<code>Merge pull request #637 from albanobattistella/patch-34</code>](https://github.com/phase1geo/minder/commit/2074e3d44ce600e0a09a245a814c1c86b58a4101)
 - [ ] [<code>Improving URL regex to allow URLs which lack a period.</code>](https://github.com/phase1geo/minder/commit/c3131c6c583d965e8cef8760a05165463d466d90)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/02c9fd07494bb3990733072598f6d5f1cb633b03)
+- [ ] [<code>Update README.md #Arch Linux Install minder via pacman</code>](https://github.com/phase1geo/minder/commit/8953da97253e58089977d0866606191946522aa5)
+- [ ] [<code>Merge pull request #649 from mahmoudElshimi/patch-1</code>](https://github.com/phase1geo/minder/commit/b8ff39f192fbb70a9dccf18f80de853816b2cb26)
+- [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/ee56574db2dddcc1496dacd67c0cf1c70bdd8241)
+- [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/ffdcc27f792ff48945872001b4ba0210be56f7ec)
+- [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/fae7714b9f9d224219589c35703ed9063ce2aaae)
+- [ ] [<code>Fix tab right-click crash (issue #655): add defensive null checks to tab context menu handler</code>](https://github.com/phase1geo/minder/commit/95a3ff7b8f854d68c5c735a1771100bd0aeaa4dc)
+- [ ] [<code>Merge pull request #656 from killerdevildog/fix/tab-right-click-crash</code>](https://github.com/phase1geo/minder/commit/5dd83a37075e9adefd98db5b496fe762141498a0)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -409,6 +421,19 @@
 - [ ] [<code>Update repository URL (#437)</code>](https://github.com/stsdc/monitor/commit/2337092dce62b177e56743f29031f9c5d87607d6)
 - [ ] [<code>Improve metainfo (#438)</code>](https://github.com/stsdc/monitor/commit/7979a9684e67a4cffdf501291ef401bca4f9eedb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Metainfo: Fix deprecated developer_name (#441)</code>](https://github.com/stsdc/monitor/commit/7adb791bc6b6669061fcfd4520c19028fd44130f)
+- [ ] [<code>Use libpci to retrieve some basic PCI data (#440)</code>](https://github.com/stsdc/monitor/commit/7a75779a468990429c66259dd24bff7d907bb1c9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>corrected compiling instructions (#445)</code>](https://github.com/stsdc/monitor/commit/d3ef4427035fba8fc91cf6a521ac1df618a045a8)
+- [ ] [<code>ProcessInfoHeader: code style</code>](https://github.com/stsdc/monitor/commit/240ad3a658e00928f04ca53413b691eb60452b3a)
+- [ ] [<code>ProcessInfoHeader: replace Fixed with Overlay</code>](https://github.com/stsdc/monitor/commit/67d6a5a6f42761d6879dcfcb225bdb50042dcea6)
+- [ ] [<code>ProcessInfoHeader: set gicon</code>](https://github.com/stsdc/monitor/commit/dd574b2f8b5802e011579a5dfef05e7fd833dcc9)
+- [ ] [<code>ProcessInfoView: Preventer → Granite.MessageDialog (#447)</code>](https://github.com/stsdc/monitor/commit/c2078e9cd7b39027855742372819ffcf210e0e18)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: remove dim-label override (#451)</code>](https://github.com/stsdc/monitor/commit/4801f0630b30547b554e24d7a9278f2a7ba28644)
+- [ ] [<code>MainWindow: cleanup (#452)</code>](https://github.com/stsdc/monitor/commit/a59bf983543bc3b88d633de32b6f7e07b2a5a5b2)
+- [ ] [<code>SystemStorageView: cleanups (#450)</code>](https://github.com/stsdc/monitor/commit/4fed007567789d2dfee6ddb00b0515d1550a4dab)
 
 #### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
 
@@ -436,28 +461,24 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#393)</code>](https://github.com/Philip-Scott/Notes-up/commit/310ce5c43288bf5d08093a9ce407a6818f0076ae)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.2.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.2.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.4.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.4.0...HEAD)
 
-- [ ] [<code>Update copyright header</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/27d768ea2cbef47db35a714a911a454ae3c13d52)
-- [ ] [<code>Add RELEASE_HOWTO.md (#267)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3518746b49df3dc83dcf7c7c96c30d73440044dc)
-- [ ] [<code>chore: Use git for elementary modules (#268)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c56b16a9d31e78ef3e0f2892112b7d9f9d109452)
-
-#### [planify](https://github.com/alainm23/planify): [4.12.0 → HEAD](https://github.com/alainm23/planify/compare/4.12.0...HEAD)
-
-- [ ] [<code>feat: add Ubuntu build requirements to README.md</code>](https://github.com/alainm23/planify/commit/60e1a1f11a713a5e80bbb0c4357fec505e2b867d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: display correct type of source in preference window</code>](https://github.com/alainm23/planify/commit/fdc028ba297d950f98956742e56e50e2be88007f)
-- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/72bf0cdec34dd4b0aa202a171bb0e7d5b86ecd27)
+- [ ] [<code>chore: meson: Remove posix dep (#321)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1b969777c2f2ab81c61c13619beddd7ea11afd55)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Merge pull request #1532 from blipp/preference_window_title</code>](https://github.com/alainm23/planify/commit/4e40a7244c1d2b564e97e65508481f7c2e6ff038)
-- [ ] [<code>Update LINGUAS</code>](https://github.com/alainm23/planify/commit/146928758ce2118dbcbbf6a9d3c394e9fbc1cfcd)
-- [ ] [<code>Add files via upload</code>](https://github.com/alainm23/planify/commit/4c783d50d12e623b60ee2c84d8584eec11a16b5d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #1534 from NorwayFun/master</code>](https://github.com/alainm23/planify/commit/857ccb2c2d687d58b4745fa0cf25626d00c5ad1b)
-- [ ] [<code>Merge pull request #1533 from blipp/readme</code>](https://github.com/alainm23/planify/commit/acca39066b3dd02545c693e5c0614655e352d73c)
-- [ ] [<code>update es.po</code>](https://github.com/alainm23/planify/commit/f36e69d57fa96fe7cbfbe0e442189077ff3fa0e2)
-- [ ] [<code>Merge pull request #1545 from haggen88/translation</code>](https://github.com/alainm23/planify/commit/13a167a9c538a94e752595cbe19aee165c27af0f)
+- [ ] [<code>chore: Remove extra single quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c52203aee947fbf47406b098b72f2a1d290d5712)
+
+#### [planify](https://github.com/alainm23/planify): [4.13.0 → HEAD](https://github.com/alainm23/planify/compare/4.13.0...HEAD)
+
+- [ ] [<code>fix: Only allow valid SSL certs</code>](https://github.com/alainm23/planify/commit/6c68f1407a865593b3442b16c8b917c7d250b86b)
+- [ ] [<code>fix: closes #1449</code>](https://github.com/alainm23/planify/commit/1b2b5f5263b75674d599bdfe730dc0d41d90fea9)
+- [ ] [<code>Merge pull request #1610 from levifmorais/master</code>](https://github.com/alainm23/planify/commit/05e8f73938d651a06ba8556672a0f98008430566)
+- [ ] [<code>i18n: updated bulgarian translation</code>](https://github.com/alainm23/planify/commit/0f693e3dc2d9ab0c1d4a4bd5587ede3e6c843520)
+- [ ] [<code>Merge pull request #1615 from twlvnn/master</code>](https://github.com/alainm23/planify/commit/26e2484a0cc277caaced051443bd63d298932b2c)
+- [ ] [<code>fix: Don't destroy project view, before transition is completed</code>](https://github.com/alainm23/planify/commit/17b8bc67cdc22b714d253958635ff8a9851225fe)
+- [ ] [<code>Merge pull request #1617 from byquanton/fix/view-stack-crash</code>](https://github.com/alainm23/planify/commit/f23198768e4463d7d9f3d6dd52dec3361248db33)
+- [ ] [<code>Merge pull request #1618 from byquanton/fix/check-certs</code>](https://github.com/alainm23/planify/commit/9a68cb5053091902eddcc0196baa1daef2979347)
+- [ ] [<code>test</code>](https://github.com/alainm23/planify/commit/041d8b5438dea1c0c316c65c79c44c4f34274508)
+- [ ] [<code>Update io.github.alainm23.planify.appdata.xml.in.in</code>](https://github.com/alainm23/planify/commit/2e04a0291e1b75170bf34ab07488734b622ecfab)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -470,6 +491,19 @@
 - [ ] [<code>Remove Travis in favor of GitHub Actions (#392)</code>](https://github.com/Alecaddd/sequeler/commit/0dad2342db8b00ca67faa0f72ced909fc6d88394)
 - [ ] [<code>l10n: Setup locales correctly (#393)</code>](https://github.com/Alecaddd/sequeler/commit/cee907446d2329bd3b982ba0e8b43ced821a28cd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Update actions/checkout to v4 (#394)</code>](https://github.com/Alecaddd/sequeler/commit/a29d4d8583700670a4d32d0435af14b0f639f997)
+- [ ] [<code>Port to GtkSourceView 4 (#395)</code>](https://github.com/Alecaddd/sequeler/commit/a133eb879811c1ea5882aa7560d31519b15e204e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Flatpak build (#396)</code>](https://github.com/Alecaddd/sequeler/commit/f30b30494f23c2317e73ca2249d012d670966a3c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix deprecated top-level developer_name in AppData XML (#387)</code>](https://github.com/Alecaddd/sequeler/commit/3ab007c15bac9caaadb8a92f072fa53425f48818)
+- [ ] [<code>Actions: Avoid duplicated CI and linter builds (#398)</code>](https://github.com/Alecaddd/sequeler/commit/178641b187b6da325f503ccbe94e7d1b12feadf4)
+- [ ] [<code>Improve Metainfo (#397)</code>](https://github.com/Alecaddd/sequeler/commit/694b67ca9d90446c82d518af208de1b289e852bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README: Update build status badge (#400)</code>](https://github.com/Alecaddd/sequeler/commit/dd4247ac7364c887ed13f41181bb93c22f549d93)
+- [ ] [<code>Flatpak: Bump Platform to 8.2 (#402)</code>](https://github.com/Alecaddd/sequeler/commit/8fbdaf5400f58a21ff003420cb27529153e64ed7)
+- [ ] [<code>Sync with system color scheme instead of ModeSwitch (#403)</code>](https://github.com/Alecaddd/sequeler/commit/82cb64cd395fb37845d879c4395d908e5257385c)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
@@ -493,39 +527,18 @@
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#326)</code>](https://github.com/Philip-Scott/Spice-up/commit/56647140c7725d0ec6c450eda1756eeea6fc766b)
 
-#### [taxi](https://github.com/Alecaddd/taxi): [2.0.2 → HEAD](https://github.com/Alecaddd/taxi/compare/2.0.2...HEAD)
+#### [taxi](https://github.com/ellie-commons/taxi): [b1c81490641f102005d9451a33d21610c0637e22 → HEAD](https://github.com/ellie-commons/taxi/compare/b1c81490641f102005d9451a33d21610c0637e22...HEAD)
 
-- [ ] [<code>Flatpak: bump runtime to 7.1 (#74)</code>](https://github.com/Alecaddd/taxi/commit/dd7165c7dbaee57f57e25fbf8b122e401a2515ba)
-- [ ] [<code>CI: add ARM and Lint (#75)</code>](https://github.com/Alecaddd/taxi/commit/7cd248c49464f17e692a68d63fa8d1002aef665c)
-- [ ] [<code>Fix linting issues (#76)</code>](https://github.com/Alecaddd/taxi/commit/d9b598302e44381e13aa6d6f90bfc4b03e06535b)
-- [ ] [<code>Remove window positioning (#77)</code>](https://github.com/Alecaddd/taxi/commit/7981a26fea0273118b780057b202564d088ba89c)
-- [ ] [<code>Meson: modernize data folder (#78)</code>](https://github.com/Alecaddd/taxi/commit/f22df5afeb585d9bd29d7c54209d800b74200f90)
+- [ ] [<code>Setup translations for metainfo (#92)</code>](https://github.com/ellie-commons/taxi/commit/2664548118f1982a14ee66c9ecef9258b49606aa)
   - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Meson: use gnome.post_install (#79)</code>](https://github.com/Alecaddd/taxi/commit/b7e3b7226abe9a04cb156881252f32d0e7482aed)
+- [ ] [<code>Workflows: run CI on PR (#93)</code>](https://github.com/ellie-commons/taxi/commit/fdd3b64d49a1598c495d580ecb4e68c02f2cfec1)
+- [ ] [<code>Application.css: fix combobox styles (#95)</code>](https://github.com/ellie-commons/taxi/commit/d7f63d2b9e5e9db3579c1cadfee99a9219cb1b97)
+- [ ] [<code>MainWindow: fix flat operations_button (#96)</code>](https://github.com/ellie-commons/taxi/commit/464c6a80d5f55e111da51f1ced153bd2e6dde714)
+- [ ] [<code>Rename deprecated functions (#101)</code>](https://github.com/ellie-commons/taxi/commit/8bb30514deb6871d2c8e44bcb60fa137732b6ace)
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Application: use startup (#81)</code>](https://github.com/Alecaddd/taxi/commit/9a9bf461c46e865077fcccefd707b020196f2abc)
-- [ ] [<code>Metainfo: modernize, add missing tags (#83)</code>](https://github.com/Alecaddd/taxi/commit/7a11d254058441c4d692fbb4c69eb7334d8d300d)
-- [ ] [<code>Port to LibSoup-3 (#84)</code>](https://github.com/Alecaddd/taxi/commit/c65e7de3c157dc73986e4ab4b997df234ae65056)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>GitIgnore: add .flatpak-builder</code>](https://github.com/Alecaddd/taxi/commit/e1af3ca32033f37c7d972bf9debf15faaa4f04dc)
-- [ ] [<code>FilePane: use GLib.Menu (#86)</code>](https://github.com/Alecaddd/taxi/commit/47f0a5b4569af2e09f5eddf855a1018921b7f569)
-- [ ] [<code>Pathbar: fix invalid uri on button clicked (#87)</code>](https://github.com/Alecaddd/taxi/commit/034397b95a4bf5a409c7da5849950a84dbda028e)
-- [ ] [<code>Refresh icons and logo image (#85)</code>](https://github.com/Alecaddd/taxi/commit/e9f561e05d9c4f24b448f2cc87d447aadb44b983)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>feat: add update icon cache (#88)</code>](https://github.com/Alecaddd/taxi/commit/078fccd93b1b2b9f6556d911f4099b94e2803552)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fix warnings (#89)</code>](https://github.com/Alecaddd/taxi/commit/bddfb4f04113b69a6b0c4325f4db3625dbad4ce1)
-- [ ] [<code>Remove Travis in favor of GitHub Actions (#91)</code>](https://github.com/Alecaddd/taxi/commit/46f60e91b7189c0db7253e02664115045f7851e9)
-- [ ] [<code>Port to Gtk4 (#90)</code>](https://github.com/Alecaddd/taxi/commit/4dcb5b2ad7df0c53ed311c4db13477f00a90d31c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>update app id</code>](https://github.com/Alecaddd/taxi/commit/bcde022b552afe10a11058c1a7e48d18a30ca601)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>update ci</code>](https://github.com/Alecaddd/taxi/commit/92ef0a0ad7f45ebd75a64f3c8890f5a3bacf126d)
-- [ ] [<code>fix flatpak</code>](https://github.com/Alecaddd/taxi/commit/b1c81490641f102005d9451a33d21610c0637e22)
+- [ ] [<code>set window title (#98)</code>](https://github.com/ellie-commons/taxi/commit/66a786fd4c1a991e9d6b9c0e431250326f49b218)
+- [ ] [<code>Set accel to quit the app (#97)</code>](https://github.com/ellie-commons/taxi/commit/08a48094bda5952582c848f8fe90704047d0f206)
+- [ ] [<code>Flatpak: remove accountsservice permission (#102)</code>](https://github.com/ellie-commons/taxi/commit/3c8156d89694fe1d75ea40e2b1605f46081ce973)
 
 #### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
 
@@ -537,123 +550,16 @@
 - [ ] [<code>Update runtime to 8 (#211)</code>](https://github.com/davidmhewitt/torrential/commit/cd2d7e0fc8d51426ac1bc1c1cdafbc9f3e5619b6)
 - [ ] [<code>Application: Granite.init (#212)</code>](https://github.com/davidmhewitt/torrential/commit/650f3cb4e0ae4f6b816f4128bb805b96b990f869)
 
-#### [touchegg](https://github.com/JoseExposito/touchegg): [2.0.17 → HEAD](https://github.com/JoseExposito/touchegg/compare/2.0.17...HEAD)
+#### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
-- [ ] [<code>Mention PPA signing key in installation instructions (#625)</code>](https://github.com/JoseExposito/touchegg/commit/d1d36a33b14d44d9f8cf9a6c25696b9d6c7ded9f)
-- [ ] [<code>Add workarounds of 2 finger swipes for web browser navigation</code>](https://github.com/JoseExposito/touchegg/commit/3e5a684647a162e27b6478d08ce45c4e7bfc3d0c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>README: Document MOUSE_CLICK back and forward buttons</code>](https://github.com/JoseExposito/touchegg/commit/686bff369ddfc7122180325dcbdc20a069396bd9)
-- [ ] [<code>README: Add NixOS installation instructions</code>](https://github.com/JoseExposito/touchegg/commit/5b191856e0f6ca5f061ec5a8a71b0829d897ca23)
-- [ ] [<code>fix debian manual install command</code>](https://github.com/JoseExposito/touchegg/commit/6f826909806e92a714b9327eda0a71cdce813e16)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix clang-format error</code>](https://github.com/JoseExposito/touchegg/commit/cc7535396d66b39014fa250811124fe8e8bb3e6c)
-- [ ] [<code>ci: Update Ubuntu to latest LTS</code>](https://github.com/JoseExposito/touchegg/commit/abac55192733b89d51bf456aa33c68146ba3d729)
-- [ ] [<code>Revert "Fix clang-format error"</code>](https://github.com/JoseExposito/touchegg/commit/c8157460106e263bf762168119479875b90eff6e)
-- [ ] [<code>RepeatedAction: Use an enum for action on begin/end</code>](https://github.com/JoseExposito/touchegg/commit/e3b48bfa835bd88cf32317f8bb53b0b775c969dd)
-- [ ] [<code>RepeatedAction: Allow to run actions on begin and end</code>](https://github.com/JoseExposito/touchegg/commit/92ef05f04a6a559b34864545b8277e0f1b9305de)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>WindowSystem: Split the mouse click action</code>](https://github.com/JoseExposito/touchegg/commit/2abfa7eb1367aa79469fe0e735ebd6ce72b3a637)
-- [ ] [<code>MouseClick: Split mouse click when <on>begin-and-end</on></code>](https://github.com/JoseExposito/touchegg/commit/f71c321bc55bf804e1b7e80121c90fc8c07599c1)
-- [ ] [<code>RunCommand: Set TOUCHEGG_GESTURE_ON environment variable</code>](https://github.com/JoseExposito/touchegg/commit/8d41d09ef9b5afc4f0363b94891b5826219b66d7)
-  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CMake: Set minimum version to 3.10.0</code>](https://github.com/JoseExposito/touchegg/commit/953c4227253d91c73f5ce46f89947262ebf45b18)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>debian: Add systemd-dev build dependency</code>](https://github.com/JoseExposito/touchegg/commit/2cdce932b335458dd96ed189c0701acb5d9c725a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>clang-format: Avoid breaking change</code>](https://github.com/JoseExposito/touchegg/commit/93f8a28e37b87568f439f6c4c616c907fbbf4a33)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
-
-#### [vocal](https://github.com/needle-and-thread/vocal): [2.4.2 → HEAD](https://github.com/needle-and-thread/vocal/compare/2.4.2...HEAD)
-
-- [ ] [<code>Add integration point for other apps to provide feed discovery.</code>](https://github.com/needle-and-thread/vocal/commit/b8cc1a4afba4bcf1aa8803f68be2fc85286d824b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Added an option to keep Vocal from playing in the background when closed. (#395)</code>](https://github.com/needle-and-thread/vocal/commit/cb6ea34f0f6172e66df5f221ec8864e0df1cc200)
-- [ ] [<code>Added an infobar which now displays when updates are underway. (#400)</code>](https://github.com/needle-and-thread/vocal/commit/c67f68d960cbd9de8e0dfb7425b011d186d97838)
-- [ ] [<code>Fix crash on missing remote podcast artwork (#408)</code>](https://github.com/needle-and-thread/vocal/commit/8057a6261e6a8becfb5f2bea1176947dcacadb93)
-- [ ] [<code>Read response body data as text rather than stream in request_as_string. (#418)</code>](https://github.com/needle-and-thread/vocal/commit/d9583d08f72e21083078a8c743cc20eb53dd0a1f)
-- [ ] [<code>Fixed bug where the mark as played icon wouldn't change upon marking the episode as played or new (#407)</code>](https://github.com/needle-and-thread/vocal/commit/3772cd4b565e98aa47a717d6b3368b1d97565bc6)
-- [ ] [<code>RFC: Enforce elementary code style with vala-lint (#378)</code>](https://github.com/needle-and-thread/vocal/commit/66aae46577fc0d0d82b1c2eb2514225014dc1903)
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Fixed a bug where the volume button was created twice, which overwrote the relief style. (#420)</code>](https://github.com/needle-and-thread/vocal/commit/f9a3af5f421f623faf2b53d155fa83fcd8897a29)
-- [ ] [<code>Fix minor errors with null download button and invalid GVariant format string. (#423)</code>](https://github.com/needle-and-thread/vocal/commit/c9464ea6a8b3cc7ffc2c0ef8d28710e1f047b324)
-- [ ] [<code>Create FUNDING.yml</code>](https://github.com/needle-and-thread/vocal/commit/856f2f44e19e86ea14579ef13ec3f55bcc79e37b)
-- [ ] [<code>Update issue templates</code>](https://github.com/needle-and-thread/vocal/commit/8838722698d746b88a8f8be3c0ce57402bfb2a3c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update issue templates</code>](https://github.com/needle-and-thread/vocal/commit/cceb3eb5931119815eaa24a3cb4908be495d454a)
-- [ ] [<code>Update issue templates</code>](https://github.com/needle-and-thread/vocal/commit/5001b3efdd7cad3a0600b5b475338c8f1fd4cf42)
-- [ ] [<code>Feature: add test runner (#426)</code>](https://github.com/needle-and-thread/vocal/commit/979d76bd6c8735d883d96e17e96d8e75ff0cda4d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Downgrade Node.js to fix builds on Travis CI (#425)</code>](https://github.com/needle-and-thread/vocal/commit/9cc059f7af75b0579e7f474fa0e1ec2eaf9ff8db)
-- [ ] [<code>gpodder.net Integration (WIP) (#403)</code>](https://github.com/needle-and-thread/vocal/commit/033211f2434db85ef43bfe4967b2d73d133d5903)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>New playback bar (#429)</code>](https://github.com/needle-and-thread/vocal/commit/ba7a769aa1dcb187db7be7ab5aaecb7f9c41138e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fixed a couple issues from the merge of gpodder.net into master, and temporarily disabled the new tests.</code>](https://github.com/needle-and-thread/vocal/commit/d268b5f7a56a32d30f0407818eae4df251d69b79)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Removed an unused widget, fixed a couple strings, and regenerated the translations pot file</code>](https://github.com/needle-and-thread/vocal/commit/782f0456878f83f142c5df7d768c0c784464b2dd)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Updated translation files from Transifex</code>](https://github.com/needle-and-thread/vocal/commit/e0556637302caf1a7ae46ab86990d20cbdc439ff)
-- [ ] [<code>Update database schema & primary keys. (#424)</code>](https://github.com/needle-and-thread/vocal/commit/b6f6c2b5c1457ee054276d869427585298e9ab65)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixed a bug where all downloaded episodes were deleted. Fixes #413</code>](https://github.com/needle-and-thread/vocal/commit/79555061d1199e7f8c3f2a25e655dbd6fd806d6e)
-- [ ] [<code>Fixed the URL used to check network connectivity. Fixes #428</code>](https://github.com/needle-and-thread/vocal/commit/4195b175bd2496e5921fcda9e1e5ae0daf3b6436)
-- [ ] [<code>Use iTunes image if available (#435)</code>](https://github.com/needle-and-thread/vocal/commit/d3d5f09dbc7685115ddc2129d6939de061541c53)
-- [ ] [<code>Fixed a couple issues related to resetting your library. Fixes #431.</code>](https://github.com/needle-and-thread/vocal/commit/1cba9e14a3a0c90f9aac541dff06041e3ffb50df)
-- [ ] [<code>Fixed some issues with the infobar, and fixed major stability bugs in the process. Fixes #432.</code>](https://github.com/needle-and-thread/vocal/commit/b41b1a7c778d02b1b5b1a42a06ceb8bcc3ae389f)
-- [ ] [<code>Fix Regex to properly ignore <a href tags (#446)</code>](https://github.com/needle-and-thread/vocal/commit/37a1bfcdffed1b7ab7b99901c6eef98c7ed684da)
-- [ ] [<code>Add gvfs to dependency list (#441)</code>](https://github.com/needle-and-thread/vocal/commit/c60f22c0307ce2c062786bb96275b9f0857d0db4)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Infobar improvements when adding a podcast (#438)</code>](https://github.com/needle-and-thread/vocal/commit/75734c1be3de5aa7da6ddf0cb3a8046fa0585068)
-- [ ] [<code>Fixed merge conflict</code>](https://github.com/needle-and-thread/vocal/commit/9064433da2f32be79091bc81befd62c49500e8ac)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Merge branch 'alcinnz-master'</code>](https://github.com/needle-and-thread/vocal/commit/538e531960c177923a471f55eeb9e094fdc2f128)
-- [ ] [<code>update README with build steps (#473)</code>](https://github.com/needle-and-thread/vocal/commit/2cec1f1a82a9d777414512ad5930bd3f3b1de825)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Clean up a tag hrefs before returning markup. (#495)</code>](https://github.com/needle-and-thread/vocal/commit/fb125eefbce7c0d4bb6e5a4934a525a0d4c65676)
-- [ ] [<code>Add launchable tag to appdata (#486)</code>](https://github.com/needle-and-thread/vocal/commit/8aa90f8c493eea1477d77b38ae93a9faec149691)
-- [ ] [<code>Settings dialog: use proper mnemonics (#492)</code>](https://github.com/needle-and-thread/vocal/commit/c840866314610c7992eb8fcae7fbb51df64d516b)
-- [ ] [<code>Fix null pointer exception when setting artwork (#469)</code>](https://github.com/needle-and-thread/vocal/commit/07ead6f7bf7a3fa39b51dc36f731c53bafdd1816)
-- [ ] [<code>Respect global dark theme preference (#453)</code>](https://github.com/needle-and-thread/vocal/commit/01bf7929cf27a36f820635248d5697269e62d692)
-- [ ] [<code>Support multiple datetime formats for episode pubdate (#468)</code>](https://github.com/needle-and-thread/vocal/commit/0d68a569a263d6c6fe84b261e7c5622d1c5be21c)
-- [ ] [<code>Show podcast description on info button (Search) (#454)</code>](https://github.com/needle-and-thread/vocal/commit/7ae3824682f66e918af5177a25700496ef56f39b)
-- [ ] [<code>Fix build with vala 0.56 (#503)</code>](https://github.com/needle-and-thread/vocal/commit/6859a6c990aea95decc23bc32d1504c2078c0ce9)
-- [ ] [<code>update appcenter data (#498)</code>](https://github.com/needle-and-thread/vocal/commit/8653f878dfce1b65a29e565833d38d7ebe642097)
-- [ ] [<code>Full Russian translate (#471)</code>](https://github.com/needle-and-thread/vocal/commit/a7c4d799c9dac4ae5aad8084a8d5b9453bc7d005)
-- [ ] [<code>Added Italian (#491)</code>](https://github.com/needle-and-thread/vocal/commit/148a8aa4609930500e14e5764fcb3d83ba812809)
-- [ ] [<code>cmake to meson (#500)</code>](https://github.com/needle-and-thread/vocal/commit/1544141dc8e788f7c3854dada9a43aab7781ad97)
-  - <sub>Files: <code>meson.build</code> <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
-- [ ] [<code>Initial port to GTK4/libadwaita</code>](https://github.com/needle-and-thread/vocal/commit/366d7b8f79c988f367666dcd36a64ded3507abcf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/80c49f659dfb94bfb04043a4c39473e64a89f8d0)
-- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/bbd171d5b8bf60eb1636c24fc44016071e247028)
-- [ ] [<code>Show size and duration of episodes. Fixes #29</code>](https://github.com/needle-and-thread/vocal/commit/454d7f7b8a53c22cf19fc3334525bac265060db3)
-- [ ] [<code>Merge branch 'master' of github.com:VocalPodcastProject/vocal</code>](https://github.com/needle-and-thread/vocal/commit/2cfaab481cb36e3e6e1c4ab0efbf937881f32c44)
-- [ ] [<code>Grab next episode from queue if there, or hide info title if not.</code>](https://github.com/needle-and-thread/vocal/commit/a6e6fc0200502054efbed745359407c939ade3d2)
-- [ ] [<code>Make downloads disappear when canceled or complete.</code>](https://github.com/needle-and-thread/vocal/commit/c6816e9469793da8a80fd0098a265a2b3dc57228)
-- [ ] [<code>Make local search results work.</code>](https://github.com/needle-and-thread/vocal/commit/661855b75270f02b8c0da5f767df031da1502fa2)
-- [ ] [<code>Remove HTML elements from description in shownotes.</code>](https://github.com/needle-and-thread/vocal/commit/059634512f015fbee4b53269a6a5162061a193da)
-- [ ] [<code>Fixed adding feeds through directory/search, and re-wrote streaming backend.</code>](https://github.com/needle-and-thread/vocal/commit/3e1530dc340712a84ae2f251208dbb33a49c6b45)
-- [ ] [<code>Create release_checklist.md</code>](https://github.com/needle-and-thread/vocal/commit/1004463f46e87df33e3c9739f896a7e70fc42b47)
-- [ ] [<code>Add option to mark all new episodes as played, and fixed adding to queue from new episodes view. Fixes #502</code>](https://github.com/needle-and-thread/vocal/commit/3ef6d74d9f124dea9c6aef966c273248703ffe9d)
-- [ ] [<code>Added proper episode sorting by datetime. Fixes #224</code>](https://github.com/needle-and-thread/vocal/commit/d08da403506d29720ddaf198fd8e11fe41c30a6a)
-- [ ] [<code>Save episode position and queue, and restore on playback or re-launch. Fixes #463 and #307</code>](https://github.com/needle-and-thread/vocal/commit/a56bd784da6fe502418d7e9287ebe8979b8b4dbf)
-- [ ] [<code>New GNOME style icons (#507)</code>](https://github.com/needle-and-thread/vocal/commit/8116dbbb00c3130dd314ecbf6d2f784765031a6a)
-- [ ] [<code>Updated share URL</code>](https://github.com/needle-and-thread/vocal/commit/e48e41fe94ca517cf50f545c407fe56008968530)
-- [ ] [<code>Updated debian dependencies. Fixes #306</code>](https://github.com/needle-and-thread/vocal/commit/6e6577f091977ab73859bca1534fec7ee8607bdb)
-- [ ] [<code>Make sure subscribe button always visible in directory popover.</code>](https://github.com/needle-and-thread/vocal/commit/20639e599d42d8278dceb6593687d589da6e5364)
-- [ ] [<code>Squircles, squircles everywhere.</code>](https://github.com/needle-and-thread/vocal/commit/b5371c825a9ed827bbf9d1ea22ed85df17a54fdf)
-- [ ] [<code>Make queue look better.</code>](https://github.com/needle-and-thread/vocal/commit/642bc74f99d5b3d9b0111337f81afb9eae7c68eb)
-- [ ] [<code>Fixed searching to make results look better, to make results load faster, and to reset between searches.</code>](https://github.com/needle-and-thread/vocal/commit/fb8ad37dfc1a083697287074c014e309916699ba)
-- [ ] [<code>Make the remove from queue button work.</code>](https://github.com/needle-and-thread/vocal/commit/118c555d5a6b53392e130bdfd75aa06215ae530e)
-- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/ca2e4fe6662e63adb0dbae39dd2b006fd46234db)
-- [ ] [<code>Update FUNDING.yml</code>](https://github.com/needle-and-thread/vocal/commit/6c401a469e931cc82bb7409a87b7467438359d62)
-- [ ] [<code>Reverted back to libsoup for streaming to fix issues with the new GIO implementation.</code>](https://github.com/needle-and-thread/vocal/commit/cf594670e3468def3da803d98b33b70bf26bcf89)
-- [ ] [<code>Save a smaller copy of the album art, which has huge performance benefits.</code>](https://github.com/needle-and-thread/vocal/commit/40cdd381a889155ac6694490896106170d71bff7)
-- [ ] [<code>Fix the max widths of the details label, and convert any HTML formatting to markdown.</code>](https://github.com/needle-and-thread/vocal/commit/b989830eec9ac1e86e5bbbcfcaba6438cc2b9711)
-- [ ] [<code>Enable gpodder.net support, and fix the async methods.</code>](https://github.com/needle-and-thread/vocal/commit/2fe7d7c720ffb4443c2f1f929e76a46ae0e4c705)
-- [ ] [<code>Improve library synchronization experience</code>](https://github.com/needle-and-thread/vocal/commit/feacd31d63454c904968a4ab0767fb195a9827f4)
-- [ ] [<code>Update README.md</code>](https://github.com/needle-and-thread/vocal/commit/f9af12a054b7d97d683872c8fc952e9cc7eb2bbf)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
