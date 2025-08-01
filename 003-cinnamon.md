@@ -213,6 +213,8 @@
 
 - [ ] [<code>Fix cache update failing (#504)</code>](https://github.com/linuxmint/mint-y-icons/commit/26be210ec3ebb896da2d7e7f6ffaafa7fda86246)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.5</code>](https://github.com/linuxmint/mint-y-icons/commit/cf3bc8b18ca10b8c87c6a350a51b4ce3f00e1d94)
+  - <sub>Tags: <code>1.8.5</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -225,9 +227,10 @@
 - [ ] [<code>disable assert for gi scanner (#720)</code>](https://github.com/linuxmint/muffin/commit/9bac60b775230a8656dc0b1584d334f2063b32ce)
 - [ ] [<code>use non-deprecated g_spawn_check_wait_status (#721)</code>](https://github.com/linuxmint/muffin/commit/4e4f74ca29004350a5b79661894fad073a2e0b6c)
 - [ ] [<code>Replace any references to mutter with muffin (#726)</code>](https://github.com/linuxmint/muffin/commit/4ad9aae66debf377e897514eaaa5045dfcb132e0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Bump wl_output interface to v4 (#727)</code>](https://github.com/linuxmint/muffin/commit/ffd0d370b256be7eeaf9a24dc0d86e327eafba7f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
@@ -392,7 +395,9 @@
   - <sub>Tags: <code>25.07.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TeeJee.Process.vala: Use GLib read_link instead of Posix readlink.</code>](https://github.com/linuxmint/timeshift/commit/a1b72abcfeb4972bd146a44bd658ae990aae5ee2)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>25.07.4</code>](https://github.com/linuxmint/timeshift/commit/76a81596ef0b97e5876a5146ad609cb176c33690)
+  - <sub>Tags: <code>25.07.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.2 → HEAD](https://github.com/linuxmint/xed/compare/3.8.2...HEAD)
 
