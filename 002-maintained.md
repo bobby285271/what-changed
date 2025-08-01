@@ -479,6 +479,9 @@
 - [ ] [<code>Merge pull request #1618 from byquanton/fix/check-certs</code>](https://github.com/alainm23/planify/commit/9a68cb5053091902eddcc0196baa1daef2979347)
 - [ ] [<code>test</code>](https://github.com/alainm23/planify/commit/041d8b5438dea1c0c316c65c79c44c4f34274508)
 - [ ] [<code>Update io.github.alainm23.planify.appdata.xml.in.in</code>](https://github.com/alainm23/planify/commit/2e04a0291e1b75170bf34ab07488734b622ecfab)
+- [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/5df497c986fcde6957da0635dbdb7827c8df096b)
+- [ ] [<code>update from master</code>](https://github.com/alainm23/planify/commit/0e5c31306bb5c68643233eca61ccd6854b739984)
+- [ ] [<code>Merge pull request #1630 from alainm23/feat/update-po-files</code>](https://github.com/alainm23/planify/commit/ece39290fe2b43483534d3ef0b0ad9cc1cc577c3)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
