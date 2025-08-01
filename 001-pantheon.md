@@ -530,6 +530,8 @@
 - [ ] [<code>WorkspaceClone: cleanup (#2511)</code>](https://github.com/elementary/gala/commit/fbc6dba4f741253e59b6d168bfe9b3ecf7acdf2f)
 - [ ] [<code>Make workspace switch gesture follow natural scrolling setting (#2513)</code>](https://github.com/elementary/gala/commit/de9c0e0ee8721b15eafe44151e9dffbcf5a14818)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code> Workspace switch: Follow natural scroll  (#2516)</code>](https://github.com/elementary/gala/commit/fb1016876b8eb4513c95c1761777eea79060c4e7)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
