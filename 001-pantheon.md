@@ -11,6 +11,8 @@
 - [ ] [<code>Introduce CategoryManager (#2276)</code>](https://github.com/elementary/appcenter/commit/cd8eefefcd2fb190330c652867ad4ee20caaa899)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Homepage: label updates button for screen reader (#2301)</code>](https://github.com/elementary/appcenter/commit/41109ebb56ccfb486fbc4ed63b2b09d0998f12c8)
+- [ ] [<code>Make Package name a property (#2307)</code>](https://github.com/elementary/appcenter/commit/8c4f5aca6ffcd8426c6f38498eaf36876e1d38f6)
+- [ ] [<code>Emit on_metadata_remote_preprocessed always from the main thread (#2306)</code>](https://github.com/elementary/appcenter/commit/4330a37fc002c3103c7f4d5b68ffe49934427010)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -264,6 +266,8 @@
 - [ ] [<code>Change tab label to name of foreground child process (#838)</code>](https://github.com/elementary/terminal/commit/5b361050a561a58d2029cdfae59469aba9e56cc0)
 - [ ] [<code>MainWindow: Ellipsize the title label (#871)</code>](https://github.com/elementary/terminal/commit/0f2d56055c890f3459ab3e028c9b0b0561e8e457)
 - [ ] [<code>Close tab when shell killed (#874)</code>](https://github.com/elementary/terminal/commit/0340abd5ed5d3e9e3141eecb43b62044e10bdca0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Prepare for release 7.1.0 (#875)</code>](https://github.com/elementary/terminal/commit/1f9544b0d0c77c5b879fe516583d376eef32d936)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
@@ -523,6 +527,7 @@
 - [ ] [<code> Implement support for keeping shellclients in the multitasking view  (#2275)</code>](https://github.com/elementary/gala/commit/b89ec3a1fd1e3e1f2b585ba8af25d3be950e3c45)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>BackgroundSource: fix log spam (#2509)</code>](https://github.com/elementary/gala/commit/cbec7b3663c5a53ddbe20f8dad361434affda4c4)
+- [ ] [<code>WorkspaceClone: cleanup (#2511)</code>](https://github.com/elementary/gala/commit/fbc6dba4f741253e59b6d168bfe9b3ecf7acdf2f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
