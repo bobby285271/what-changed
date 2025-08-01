@@ -482,6 +482,12 @@
 - [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/5df497c986fcde6957da0635dbdb7827c8df096b)
 - [ ] [<code>update from master</code>](https://github.com/alainm23/planify/commit/0e5c31306bb5c68643233eca61ccd6854b739984)
 - [ ] [<code>Merge pull request #1630 from alainm23/feat/update-po-files</code>](https://github.com/alainm23/planify/commit/ece39290fe2b43483534d3ef0b0ad9cc1cc577c3)
+- [ ] [<code>feat: use todoist token</code>](https://github.com/alainm23/planify/commit/d9084506557b5e5e25de7bd24d94feef9c5a9206)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/768ab67b540ad184c2206b4de11111a02f8254b6)
+- [ ] [<code>Merge pull request #1631 from alainm23/feat/todoist-token</code>](https://github.com/alainm23/planify/commit/2218b93fa387bb8711d9a0cd9016dc2c1171d641)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
