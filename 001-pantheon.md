@@ -528,6 +528,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>BackgroundSource: fix log spam (#2509)</code>](https://github.com/elementary/gala/commit/cbec7b3663c5a53ddbe20f8dad361434affda4c4)
 - [ ] [<code>WorkspaceClone: cleanup (#2511)</code>](https://github.com/elementary/gala/commit/fbc6dba4f741253e59b6d168bfe9b3ecf7acdf2f)
+- [ ] [<code>Make workspace switch gesture follow natural scrolling setting (#2513)</code>](https://github.com/elementary/gala/commit/de9c0e0ee8721b15eafe44151e9dffbcf5a14818)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
