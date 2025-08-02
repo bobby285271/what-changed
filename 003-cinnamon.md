@@ -303,6 +303,9 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.1...HEAD)
 
+- [ ] [<code>slick-greeter:  Add blur effect and fix bugs (#268)</code>](https://github.com/linuxmint/slick-greeter/commit/a1d9630ed426e4c64e49fab60dc2ce8f51257aae)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.26 → HEAD](https://github.com/linuxmint/sticky/compare/1.26...HEAD)
 
