@@ -488,6 +488,52 @@
 - [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/768ab67b540ad184c2206b4de11111a02f8254b6)
 - [ ] [<code>Merge pull request #1631 from alainm23/feat/todoist-token</code>](https://github.com/alainm23/planify/commit/2218b93fa387bb8711d9a0cd9016dc2c1171d641)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/4f957579b4aa6f18b22f8bf97f2cdd177e71165a)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/d52daf02b259f6fcb7daf54bf1b8424c0aa6202c)
+- [ ] [<code>update from master</code>](https://github.com/alainm23/planify/commit/dafb2e4b8d83d92522588758e2961a39228a5ec9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge pull request #1633 from alainm23/feat/update-actions</code>](https://github.com/alainm23/planify/commit/e78d182e5a41be4ac9962e7e31ebca4d42dbdeea)
+- [ ] [<code>add actions</code>](https://github.com/alainm23/planify/commit/093d84db315fe7de5ae2446890fcc57b1c33828a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/87dfdab1378e77917ea91c65bef3520e6e637927)
+- [ ] [<code>Merge pull request #1634 from alainm23/feat/action-gettext</code>](https://github.com/alainm23/planify/commit/70cc5e7bf1afd110c32c191635ed86317473fc3e)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/309690bf89de02c5749cc72a9c55142551238d07)
+- [ ] [<code>add lint</code>](https://github.com/alainm23/planify/commit/08e4c41d8e51a6d1b78ec11353ec2f3d847602a6)
+- [ ] [<code>Merge pull request #1635 from alainm23/feat/action-ci</code>](https://github.com/alainm23/planify/commit/353932e9f71c24b70fa03783f7a20a5f4b44b415)
+- [ ] [<code>update text</code>](https://github.com/alainm23/planify/commit/fc159f3b27fb4203b790da318688041f67aa48f1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/c796e00eb322e74587d5e14b8447b2da13ad934c)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/2285159bc8a3109cae071e80feac43a33ca08fda)
+- [ ] [<code>Merge pull request #1636 from alainm23/feat/update-text-test</code>](https://github.com/alainm23/planify/commit/3476ff386b11fb9f92deb5d0009e6b16a85d74cc)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/ae54d48d8961a7b01c862adff28665fb1772a76f)
+- [ ] [<code>Merge pull request #1637 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/4da6ff8479e43faf535b5870d2fb98d4d82e0f54)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/ef76400d6608ffcb3f9beb1134087cde544c8923)
+- [ ] [<code>Merge pull request #1638 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/b2e7d21ff360e87e6956b021e0a8edec137a0cd1)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/c2fba63b6e4325d092e7c1dc8031da31ba561c2d)
+- [ ] [<code>Merge pull request #1639 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/44d3627765d8422d1b86bb25abcf33b9149d2fcc)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/8bf1c5a60fd0b4af3624f4b63ef9ddc26f254f92)
+- [ ] [<code>Merge pull request #1640 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/ac189dcd81da7528fe4013e63bafb004cfd04e7e)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/e7749f4e5545af935231e7c0e89622a369f26f85)
+- [ ] [<code>Merge pull request #1641 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/d3d913137483819a3bc133aa0b564f96b4e6339a)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/fe4c4830d0fafa8c1bf733637d413f89b70cadf0)
+- [ ] [<code>Merge pull request #1642 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/a2ff4e7a8597279ae24a3f22d1ab25f849d4af2b)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/a8096b0f1391c45295d99f161fac895fcbc65b33)
+- [ ] [<code>Merge pull request #1643 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/6b2c64d1aa140964915523b6a007e95076b7c3c1)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/35f5409ce6bde030db6a5a09bc1c6626cfa66df7)
+- [ ] [<code>Merge pull request #1644 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/e8088a7ef133d1b0bbbfde4224b8ddcf772420be)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/5fd9c6120753c1e67fcc71dd635e31642e8b33db)
+- [ ] [<code>Merge pull request #1645 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/14dfb36bfe214182c413efeda47b5f0b99429193)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/a88e1823877e4513cd0c0261c92fce77821465f5)
+- [ ] [<code>Merge branch 'master' into fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/c030378b43913762e930024138bfd7422e1e1dd6)
+- [ ] [<code>Merge pull request #1646 from alainm23/fix/gettext-actions</code>](https://github.com/alainm23/planify/commit/4d938921f9bed8b6120e1c3e08b42258882c236b)
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/47d3185cd2bbbf12b4b78fd545e17ac3d8712783)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update actions</code>](https://github.com/alainm23/planify/commit/584c4b3594d789362d1d389c101005d335e5bb5a)
+- [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/8b5cbe1145990f9ac4e64451fd78a592577a6ae7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/5efd532cdc8de47a2a04ca34fa82340612945e2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1647 from alainm23/feat/update-po-es</code>](https://github.com/alainm23/planify/commit/157844a256ef099dd311ce218a0d9aee948f7b92)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
