@@ -15,6 +15,7 @@
 - [ ] [<code>Emit on_metadata_remote_preprocessed always from the main thread (#2306)</code>](https://github.com/elementary/appcenter/commit/4330a37fc002c3103c7f4d5b68ffe49934427010)
 - [ ] [<code>Property bindings for n_updatable_apps and has_updatable_apps (#2308)</code>](https://github.com/elementary/appcenter/commit/679ec5acce285cb9ac9c208dd68462a2877b4fee)
 - [ ] [<code>Use filter list models for updates (#2305)</code>](https://github.com/elementary/appcenter/commit/7f9ce4cf8f4798a516bd26a137d3aaadd02c0946)
+- [ ] [<code>Actions: Use main branch (#2310)</code>](https://github.com/elementary/appcenter/commit/8eb49c8a05725d30004cacc3cc26b1111222f5f0)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -27,6 +28,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Replace "Del" button with 'edit-clear-symbolic' icon (#279)</code>](https://github.com/elementary/calculator/commit/c20e967965896b56567a489a45f529f4054c0673)
 - [ ] [<code>Flatpak: bump platform to 8.2 (#285)</code>](https://github.com/elementary/calculator/commit/522bfbf196191b1ac1ed5bc6294fc356ebb390c3)
+- [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/calculator/commit/87c04bdd3bfc00a4a96c17ed36c605dfe3ae1e01)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -74,6 +76,7 @@
 - [ ] [<code>ReminderPanel: cleanups (#844)</code>](https://github.com/elementary/calendar/commit/521861e9d0a67b4af0757bb94ea360adf6c1d55d)
 - [ ] [<code>SourceDialog: fix screen reader labels (#855)</code>](https://github.com/elementary/calendar/commit/2615527157ab971231c7360d56d943ee6f96721d)
 - [ ] [<code>Bump to platform 8.2 (#830)</code>](https://github.com/elementary/calendar/commit/61dc3ca6593982058d1013f3018e43e2d9e1b195)
+- [ ] [<code>Actions: Use main branch (#858)</code>](https://github.com/elementary/calendar/commit/9368195226396b625472a2be573cd602694b7770)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
 
@@ -84,6 +87,7 @@
 - [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
 - [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
 - [ ] [<code>Resource: add view-* icons (#292)</code>](https://github.com/elementary/camera/commit/4d87ed693f6e21a3b58f28633988edecb86ad9de)
+- [ ] [<code>Actions: Use main branch (#294)</code>](https://github.com/elementary/camera/commit/9642e22cbcf9276036b2797d004c91f7feb9a7a5)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.0.0 → HEAD](https://github.com/elementary/code/compare/8.0.0...HEAD)
 
@@ -118,6 +122,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Keep the dock visible in the MultitaskingView (#375)</code>](https://github.com/elementary/dock/commit/ad315c8bd854191508ad4ed852f381654ce7e82a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Use main branch (#440)</code>](https://github.com/elementary/dock/commit/51275ccc3b9405ddec817c4d68e8d3dce0cedea5)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -126,6 +131,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.4 → HEAD](https://github.com/elementary/files/compare/7.1.4...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#2629)</code>](https://github.com/elementary/files/commit/1d28475b7f7998d21df0180ab5a6a72dad1eefb4)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -154,6 +160,7 @@
 - [ ] [<code>Launcher: add icon for compose action (#1022)</code>](https://github.com/elementary/mail/commit/632df7546b83aecab7b66830f447985e194ca1a3)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Bump to platform 8.2 (#1015)</code>](https://github.com/elementary/mail/commit/017079ce89b18632b80b4087c706753f105a2d4f)
+- [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
 
@@ -176,6 +183,7 @@
 - [ ] [<code>Refresh screenshot to reflect current state (#812)</code>](https://github.com/elementary/music/commit/c76587c0370fe1b6074836a362b5c1868e80139b)
 - [ ] [<code>Send artwork to MPRIS (#805)</code>](https://github.com/elementary/music/commit/d34b67c5ee7386888782bfede32734025a23ef91)
 - [ ] [<code>Flatpak: bump platform to 8.2 (#817)</code>](https://github.com/elementary/music/commit/3bca4b6d4e536ff0853759b75975301ab015402b)
+- [ ] [<code>Actions: Use main branch (#818)</code>](https://github.com/elementary/music/commit/c26f04bc72a537cdbf6006a7d6db847ad3429368)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -280,6 +288,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Prepare for release 7.1.0 (#875)</code>](https://github.com/elementary/terminal/commit/1f9544b0d0c77c5b879fe516583d376eef32d936)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Actions: Use main branch (#890)</code>](https://github.com/elementary/terminal/commit/79c2d2266061c8ec875cd75fc66717a8fc08da17)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -323,11 +332,13 @@
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.2 → HEAD](https://github.com/elementary/settings-display/compare/8.0.2...HEAD)
 
 - [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/settings-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
+- [ ] [<code>Actions: Use main branch (#428)</code>](https://github.com/elementary/settings-display/commit/40addea3c831bc7679e109632a361d2d59d82152)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.0 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
 - [ ] [<code>Allow assigning Gdk.Key.Tools button (#547)</code>](https://github.com/elementary/settings-keyboard/commit/4a96ee7f7fd0189879af4cd53fdd219197fd96e0)
+- [ ] [<code>Actions: Use main branch (#548)</code>](https://github.com/elementary/settings-keyboard/commit/0d03f8aad4e44fdbbdb2f343d7ab9d243d180d3b)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -347,6 +358,7 @@
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#312)</code>](https://github.com/elementary/settings-onlineaccounts/commit/964e9c85d866af2a34002bd8fd1fb2571fbed91c)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [8.2.0 → HEAD](https://github.com/elementary/settings-desktop/compare/8.2.0...HEAD)
 
@@ -360,6 +372,7 @@
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
 - [ ] [<code>Plug: add headerbar to placeholder (#213)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fbb9da26c39c1d09d7d61200d30478d04f5fa863)
+- [ ] [<code>Actions: Use main branch (#215)</code>](https://github.com/elementary/switchboard-plug-printers/commit/947da4c7cb75598ec08b3f1d32dec0f39a3d184b)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
@@ -419,6 +432,7 @@
 - [ ] [<code>Applications: Add cab fill to `system-software-install` at 16x (#1358)</code>](https://github.com/elementary/icons/commit/e41276acdde831e15ec9740e0db87433de99e02f)
 - [ ] [<code>Applications: Fix rim lighting stops at 16x (#1359)</code>](https://github.com/elementary/icons/commit/311e1a52520701333f425271bd07c217e5c382da)
 - [ ] [<code>Actions: round find-location (#1360)</code>](https://github.com/elementary/icons/commit/edb0bd3a4355cb797da083b7af5a1558601c97ea)
+- [ ] [<code>Actions: Use main branch (#1364)</code>](https://github.com/elementary/icons/commit/53b79efd97b00c8c3953354c1dee14b4a8585a52)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -437,6 +451,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Change toggle-maximized to Ctrl+Super+Up (#346)</code>](https://github.com/elementary/default-settings/commit/27525ae27e150d480cfa5b0bdcadfc3012e550d1)
+- [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/default-settings/commit/0251a127f06ec91e2284061c97ba0967f031d307)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
 
@@ -566,6 +581,7 @@
 - [ ] [<code>Add OpenSUSE Leap CI and fix build (#629)</code>](https://github.com/elementary/wingpanel/commit/3090749fe5a0755007b13e110444bf6b41b6c47f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Actions: Use main branch (#632)</code>](https://github.com/elementary/wingpanel/commit/25b057e9b5554bd463d01bff882924cdbf0426ac)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -647,6 +663,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/ffacf9740c89e371a4b61804f0d15548b33e9748)
+- [ ] [<code>Actions: Use main branch (#322)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/9dba908ad0f6b5b256ffe3bdf93067fdf62af43d)
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -702,6 +719,7 @@
 - [ ] [<code>Check bluetooth for hardware lock before enabling (#341)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c7c7db7c1c50e0a73c65b3d9a4a3072468a2af2c)
 - [ ] [<code>Fix crash in greeter (#342)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e799e085ab5d3c979a52e0fc46d290a15eddba89)
 - [ ] [<code>Metainfo: update 8.0.0 release notes (#344)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/255a39e085f1713485ead8ff977788485805a108)
+- [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/391d93771a61893758a7904fedfed7c01e023cf0)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -744,6 +762,7 @@
 - [ ] [<code>NotificationsList: use get_row_at_index (#292)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bfc15021cd471027850b5b1d7c1947dde2b8e043)
 - [ ] [<code>NotificationsList: subclass Bin (#293)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/4223dbfa68c3966976d1d7f679f3750d4acd7363)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Actions: Use main branch (#297)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a54012d47bb3ca9e9dfb15a1fe20902936f9f99a)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -909,6 +928,7 @@
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#6)</code>](https://github.com/elementary/pantheon-wayland/commit/6d112befc81d35650df34b40e4ef910e88f75181)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -956,6 +976,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#147)</code>](https://github.com/elementary/portals/commit/5372ebe9f76efc4f1e44b5fce55d26369b40f931)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
