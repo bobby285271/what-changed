@@ -584,6 +584,7 @@
 - [ ] [<code>UCA: Improve parameter info banner (#1676)</code>](https://github.com/xfce-mirror/thunar/commit/b7dffda433b19c3b43b54bdf58fe8329b04d1f90)
 - [ ] [<code>Prevent Leak of Property Binding</code>](https://github.com/xfce-mirror/thunar/commit/044d3fbf937e69f7ef20d95c17d2d729191d65be)
 - [ ] [<code>Don't reload Statusbar when Binding is removed</code>](https://github.com/xfce-mirror/thunar/commit/4f2f68007bd04f72a3f19c9a9fd6d4ada141278e)
+- [ ] [<code>Don't use variables for strings in ngettext (#1683)</code>](https://github.com/xfce-mirror/thunar/commit/61b48cc4cca38830b2674c21d1a67356452b5211)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
