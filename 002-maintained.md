@@ -357,6 +357,8 @@
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/fae7714b9f9d224219589c35703ed9063ce2aaae)
 - [ ] [<code>Fix tab right-click crash (issue #655): add defensive null checks to tab context menu handler</code>](https://github.com/phase1geo/minder/commit/95a3ff7b8f854d68c5c735a1771100bd0aeaa4dc)
 - [ ] [<code>Merge pull request #656 from killerdevildog/fix/tab-right-click-crash</code>](https://github.com/phase1geo/minder/commit/5dd83a37075e9adefd98db5b496fe762141498a0)
+- [ ] [<code>Fix image resize crash in set_width method</code>](https://github.com/phase1geo/minder/commit/6b4996d979dad171545f374afe1ebf4377608cce)
+- [ ] [<code>Merge pull request #659 from killerdevildog/fix-issue-585-image-resize-crash</code>](https://github.com/phase1geo/minder/commit/8d0bb5e04d29180c08e52d0335a7dd678857872f)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -534,6 +536,9 @@
 - [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/5efd532cdc8de47a2a04ca34fa82340612945e2f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #1647 from alainm23/feat/update-po-es</code>](https://github.com/alainm23/planify/commit/157844a256ef099dd311ce218a0d9aee948f7b92)
+- [ ] [<code>try to fix reminder picker</code>](https://github.com/alainm23/planify/commit/19ac7d38b353d60745bdf7f5d0252b277e89b090)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1648 from alainm23/fix/reminder-button</code>](https://github.com/alainm23/planify/commit/3395756d66feba9a760d1aeb735e0394aef4ee3b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -621,6 +626,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix issue #181 plus a few meson warnings (#189)</code>](https://github.com/vala-lang/vala-lint/commit/6c36acc97e6c19d7d7ca118d1d22a801946cd2db)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update README.md (#192)</code>](https://github.com/vala-lang/vala-lint/commit/a1d1a7bc0f740920e592fd788a836c402fd9825c)
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
