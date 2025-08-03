@@ -88,6 +88,7 @@
 - [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
 - [ ] [<code>Resource: add view-* icons (#292)</code>](https://github.com/elementary/camera/commit/4d87ed693f6e21a3b58f28633988edecb86ad9de)
 - [ ] [<code>Actions: Use main branch (#294)</code>](https://github.com/elementary/camera/commit/9642e22cbcf9276036b2797d004c91f7feb9a7a5)
+- [ ] [<code>Bump platform to 8.2 (#288)</code>](https://github.com/elementary/camera/commit/d6bcb9acecdf72f13b30b5eebf7dab9bc1e477c7)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.0.0 → HEAD](https://github.com/elementary/code/compare/8.0.0...HEAD)
 
@@ -301,6 +302,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>BottomBar: mark primary menu (#402)</code>](https://github.com/elementary/videos/commit/bead09170b31c92ee8ba198154624527cf98e70d)
 - [ ] [<code>Actions: Use main branch (#405)</code>](https://github.com/elementary/videos/commit/cf639419d5e86565340127d6378a5715e0ec0fb4)
+- [ ] [<code>Flatpak: bump platform to 8.2 (#404)</code>](https://github.com/elementary/videos/commit/ffec4269ea7daf7cc64b3b22687fd8ce10e185c1)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
@@ -564,6 +566,7 @@
 - [ ] [<code>Improve handling of daemon windows (#2510)</code>](https://github.com/elementary/gala/commit/f7850a493108903f516e453122779aea2a2461b3)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Actions: Use main branch (#2517)</code>](https://github.com/elementary/gala/commit/49be62b04d98c2cf38c9db5eaa1c61ba23029712)
+- [ ] [<code>Introduce GestureAction.CUSTOM (#2518)</code>](https://github.com/elementary/gala/commit/8321358d5f24bfb4dd9e33b81835ed2c800128b5)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
