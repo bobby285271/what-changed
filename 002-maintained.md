@@ -615,6 +615,12 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
 
+- [ ] [<code>bump github action versions (#191)</code>](https://github.com/vala-lang/vala-lint/commit/3055657e656ae0bac9292cf599b5a3b368ab61f6)
+- [ ] [<code>build: Disable C warnings (#190)</code>](https://github.com/vala-lang/vala-lint/commit/1ec0e6c105b9196a68b553f565887761448292c4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix issue #181 plus a few meson warnings (#189)</code>](https://github.com/vala-lang/vala-lint/commit/6c36acc97e6c19d7d7ca118d1d22a801946cd2db)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
