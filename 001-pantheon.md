@@ -16,6 +16,8 @@
 - [ ] [<code>Property bindings for n_updatable_apps and has_updatable_apps (#2308)</code>](https://github.com/elementary/appcenter/commit/679ec5acce285cb9ac9c208dd68462a2877b4fee)
 - [ ] [<code>Use filter list models for updates (#2305)</code>](https://github.com/elementary/appcenter/commit/7f9ce4cf8f4798a516bd26a137d3aaadd02c0946)
 - [ ] [<code>Actions: Use main branch (#2310)</code>](https://github.com/elementary/appcenter/commit/8eb49c8a05725d30004cacc3cc26b1111222f5f0)
+- [ ] [<code>Introduce can update all property, use action (#2309)</code>](https://github.com/elementary/appcenter/commit/7a44f1f8d748fcc6fbfaab53f3551cb2c8120b76)
+- [ ] [<code>Make size label settable, use property binding (#2312)</code>](https://github.com/elementary/appcenter/commit/9d4c41982acb212ab903ca0cc5b2599b007e9d7d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -290,6 +292,7 @@
 - [ ] [<code>Prepare for release 7.1.0 (#875)</code>](https://github.com/elementary/terminal/commit/1f9544b0d0c77c5b879fe516583d376eef32d936)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Actions: Use main branch (#890)</code>](https://github.com/elementary/terminal/commit/79c2d2266061c8ec875cd75fc66717a8fc08da17)
+- [ ] [<code>SettingsPopover: create ThemeCheckButton and use Settings action (#889)</code>](https://github.com/elementary/terminal/commit/a531cdd54a5b286bd3bcbea371646c8a28a228dc)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
