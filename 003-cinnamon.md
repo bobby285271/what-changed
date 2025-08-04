@@ -198,11 +198,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.0...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.1...HEAD)
 
-- [ ] [<code>ubiquity: Adapt grey bars to blueish hue</code>](https://github.com/linuxmint/mint-themes/commit/6f49637888b1c2d41186f12f8825594431fdb7c0)
-- [ ] [<code>2.3.1</code>](https://github.com/linuxmint/mint-themes/commit/16e4184206ad134b50be09aa39a2731d95fb5d74)
-  - <sub>Tags: <code>2.3.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
