@@ -570,6 +570,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Actions: Use main branch (#2517)</code>](https://github.com/elementary/gala/commit/49be62b04d98c2cf38c9db5eaa1c61ba23029712)
 - [ ] [<code>Introduce GestureAction.CUSTOM (#2518)</code>](https://github.com/elementary/gala/commit/8321358d5f24bfb4dd9e33b81835ed2c800128b5)
+- [ ] [<code>Remove unused constants (#2521)</code>](https://github.com/elementary/gala/commit/26a5c810fe61caed8e446dda4fcbe5f35802e7ec)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
