@@ -539,6 +539,25 @@
 - [ ] [<code>try to fix reminder picker</code>](https://github.com/alainm23/planify/commit/19ac7d38b353d60745bdf7f5d0252b277e89b090)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1648 from alainm23/fix/reminder-button</code>](https://github.com/alainm23/planify/commit/3395756d66feba9a760d1aeb735e0394aef4ee3b)
+- [ ] [<code>fix focus events</code>](https://github.com/alainm23/planify/commit/9d4b2c1e04ac724f7702962e2eaf87fc7195bebc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1649 from alainm23/fix/1543</code>](https://github.com/alainm23/planify/commit/4095aacc99b40b3f4ee6c60ce37a9f9e082ffe49)
+- [ ] [<code>fix pressed event</code>](https://github.com/alainm23/planify/commit/239f5875b0a838f22b8059f4bfd2f3637bf7bf27)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>format</code>](https://github.com/alainm23/planify/commit/e79650a82742082cb2d2ba32d137fc36ad542c46)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1650 from alainm23/fix/1541</code>](https://github.com/alainm23/planify/commit/5eafd13231b2862f36cc548cf63bf6f5a5d4546c)
+- [ ] [<code>add scroll</code>](https://github.com/alainm23/planify/commit/af2f6853ac13d4d5ae50b98ac05b73b5bbe0d0ca)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1651 from alainm23/fix/1473</code>](https://github.com/alainm23/planify/commit/fee7affc95000dcb6d8d32ae80659e04486cfdb4)
+- [ ] [<code>add placeholder</code>](https://github.com/alainm23/planify/commit/ffdac9fcd9c5e3f586d0f4b44535e5a2521fad9e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1652 from alainm23/feat/textview-placeholder</code>](https://github.com/alainm23/planify/commit/7a93c8c93112d6084719d8c920347e2e917f622a)
+- [ ] [<code>update format</code>](https://github.com/alainm23/planify/commit/47284a61f10a09983a166011cbbcaf88c30c2c8e)
+- [ ] [<code>Merge pull request #1653 from alainm23/fix/1447</code>](https://github.com/alainm23/planify/commit/f197c31dc34dc91b34fcc538379e56c19c31e20c)
+- [ ] [<code>add regex valid</code>](https://github.com/alainm23/planify/commit/93021b804a23379399378ba175d2a6f4bb7a7914)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1654 from alainm23/fix/1080</code>](https://github.com/alainm23/planify/commit/21837a5937066be3d0ba6db85a158580f704e0f3)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
