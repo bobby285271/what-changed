@@ -111,7 +111,9 @@
 - [ ] [<code>cinnamon-settings.py: Handle SIGINT so unmap/destroy handlers in</code>](https://github.com/linuxmint/cinnamon/commit/c1343c69a3302af8409ae954249e3ecb11489100)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>python3-harvester.py: Fix some debug messages.</code>](https://github.com/linuxmint/cinnamon/commit/a851e5735540e47563f2d9fb8e9330a46aa4190d)
+- [ ] [<code>cinnamon-settings.py: Add fingwit to standalone modules.</code>](https://github.com/linuxmint/cinnamon/commit/a5ca299a260c698efe163fc31956db127281f54a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -143,6 +145,7 @@
 
 - [ ] [<code>Refactor positioning of floating UI elements.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8137ba29d3febe7cbd2d2df8a5e664e57454559b)
 - [ ] [<code>unlock: Remove additional dimming when unlock dialog is shown.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d7e415936b6516e45e9e073a77c050abfb38b192)
+- [ ] [<code>unlock.py: Don't show password entry and unlock button until</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b93070345e80e8f769c64246af3584ef99f38798)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
@@ -197,6 +200,9 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.0...HEAD)
 
+- [ ] [<code>ubiquity: Adapt grey bars to blueish hue</code>](https://github.com/linuxmint/mint-themes/commit/6f49637888b1c2d41186f12f8825594431fdb7c0)
+- [ ] [<code>2.3.1</code>](https://github.com/linuxmint/mint-themes/commit/16e4184206ad134b50be09aa39a2731d95fb5d74)
+  - <sub>Tags: <code>2.3.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
@@ -304,7 +310,11 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.1...HEAD)
 
 - [ ] [<code>slick-greeter:  Add blur effect and fix bugs (#268)</code>](https://github.com/linuxmint/slick-greeter/commit/a1d9630ed426e4c64e49fab60dc2ce8f51257aae)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>avatar: Remove Cinnamon fallback</code>](https://github.com/linuxmint/slick-greeter/commit/ecf7b969361efadd25f57186c610e8ce1cd3125a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.2.2</code>](https://github.com/linuxmint/slick-greeter/commit/466d7b5382a47eab51ae6fc518c435496f6d7086)
+  - <sub>Tags: <code>2.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.26 → HEAD](https://github.com/linuxmint/sticky/compare/1.26...HEAD)
