@@ -172,6 +172,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ddb0bf65337a084ba51269bd16bf8fdee9865772)
 - [ ] [<code>Fix error-path leaks in xfce-desktop-item-edit main</code>](https://github.com/xfce-mirror/libxfce4ui/commit/637deaf54465e053bc68bd64755415168bf26978)
+- [ ] [<code>clipboard-manager: Use GtkClipboard iff image-only format is available</code>](https://github.com/xfce-mirror/libxfce4ui/commit/700678574d5edff83c24f8b105409765b4d764ab)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
