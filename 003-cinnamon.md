@@ -153,6 +153,7 @@
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
 - [ ] [<code>Remove old upower support to match c-s-d commits (#185)</code>](https://github.com/linuxmint/cinnamon-session/commit/97bcafd5933e2f073d51105061e049ba7ff0811e)
+- [ ] [<code>csm-manager.c: Don't consider suspend inhibitors when gathering</code>](https://github.com/linuxmint/cinnamon-session/commit/28b5ebc18c744e1c79efbaa8d6b3e91bdad2e57e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
@@ -282,6 +283,8 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.10...HEAD)
 
+- [ ] [<code>xviewer-list-store.c: Fix double lock condition when adding images.</code>](https://github.com/linuxmint/xviewer/commit/ce1505dab7f3847d60b4ff0d50ddac9ba4690d49)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -352,8 +355,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TeeJee.Process.vala: Use GLib read_link instead of Posix readlink.</code>](https://github.com/linuxmint/timeshift/commit/a1b72abcfeb4972bd146a44bd658ae990aae5ee2)
 - [ ] [<code>25.07.4</code>](https://github.com/linuxmint/timeshift/commit/76a81596ef0b97e5876a5146ad609cb176c33690)
-  - <sub>Tags: <code>25.07.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>25.07.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Error if both lsb_release n os_release are missing (#431)</code>](https://github.com/linuxmint/timeshift/commit/e31e5219379512ebb302c8d6729850c0a734f42e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.3 → HEAD](https://github.com/linuxmint/xed/compare/3.8.3...HEAD)
 
