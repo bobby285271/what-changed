@@ -437,7 +437,7 @@
 - [ ] [<code>MainWindow: cleanup (#452)</code>](https://github.com/stsdc/monitor/commit/a59bf983543bc3b88d633de32b6f7e07b2a5a5b2)
 - [ ] [<code>SystemStorageView: cleanups (#450)</code>](https://github.com/stsdc/monitor/commit/4fed007567789d2dfee6ddb00b0515d1550a4dab)
 
-#### [nasc](https://github.com/parnold-x/nasc): [0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/0.8.0...HEAD)
+#### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
 - [ ] [<code>README: Fix icon</code>](https://github.com/parnold-x/nasc/commit/e2ca5cfc9a2a7695d286097ba459e03c3a321759)
 - [ ] [<code>AppData: Contrasty brand colors</code>](https://github.com/parnold-x/nasc/commit/0be79a0f7542f119e0175c0d9c91822517a6b3e8)
@@ -468,6 +468,7 @@
 - [ ] [<code>chore: meson: Remove posix dep (#321)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1b969777c2f2ab81c61c13619beddd7ea11afd55)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>chore: Remove extra single quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c52203aee947fbf47406b098b72f2a1d290d5712)
+- [ ] [<code>switchboard: Update switchboard.git to 8.0.3 (#322)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/147cbbe8bcfebe43abb6155f8b6e4faa720f29c4)
 
 #### [planify](https://github.com/alainm23/planify): [4.13.0 → HEAD](https://github.com/alainm23/planify/compare/4.13.0...HEAD)
 
@@ -558,6 +559,21 @@
 - [ ] [<code>add regex valid</code>](https://github.com/alainm23/planify/commit/93021b804a23379399378ba175d2a6f4bb7a7914)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1654 from alainm23/fix/1080</code>](https://github.com/alainm23/planify/commit/21837a5937066be3d0ba6db85a158580f704e0f3)
+- [ ] [<code>update format</code>](https://github.com/alainm23/planify/commit/6b5fca98037d633ef146c33e186c7419e691e075)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/61be61c7435da5b2bdb58122d1d3258f74c56318)
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/836ff144cda8f965c99b9dd425333de7651bfd4d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix lint</code>](https://github.com/alainm23/planify/commit/7400ab6cbfbca40ebca5ca9d4241ddcd0afe97f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #1655 from alainm23/feat/format-code</code>](https://github.com/alainm23/planify/commit/ae60024659b08b463e6ecbdbd39672383f045c00)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix duplicate</code>](https://github.com/alainm23/planify/commit/525ae2e22cbb817efe712ca7b47bf35aecc5c52d)
+- [ ] [<code>Merge pull request #1656 from alainm23/fix/1472</code>](https://github.com/alainm23/planify/commit/a82fd0670ea9b40549a0271c7e590969066c2415)
+- [ ] [<code>update task note design</code>](https://github.com/alainm23/planify/commit/5580c37550bd7c94dd77335f596fdb088ab2c7f5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1657 from alainm23/feat/task-note-position</code>](https://github.com/alainm23/planify/commit/51598b5f39949fbaedb08bf0a44d9caeb49e55f2)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
