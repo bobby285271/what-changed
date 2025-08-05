@@ -324,6 +324,7 @@
 
 - [ ] [<code>Add device icons to gresource (#380)</code>](https://github.com/elementary/switchboard-plug-about/commit/72de5c7eb844b2f3c8c81e0accb19d5adbfeb44b)
 - [ ] [<code>FirmwareView: use Adw.NavigationView (#381)</code>](https://github.com/elementary/switchboard-plug-about/commit/749362bffddd17555c240ecd0dd5836bc5fff69d)
+- [ ] [<code>Actions: Use main branch (#382)</code>](https://github.com/elementary/switchboard-plug-about/commit/2991c2d71ed58ad76699c26d73a329aa2c54404d)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -359,9 +360,11 @@
 - [ ] [<code>Middle click paste: add Wayland support (#253)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b3a540accd387bc51b8791c724e5d2b4124994ee)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#254)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a2c7f523c37dbb739114e37e09f75715deed89b1)
+- [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/71069317e3491ff88efd204dac62ae7ada9daaa9)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.1.0...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#435)</code>](https://github.com/elementary/switchboard-plug-network/commit/2840890c949b7da4192f5288592c7ede3bc4e967)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -380,6 +383,7 @@
 - [ ] [<code>Don't set Gtk theme (#448)</code>](https://github.com/elementary/settings-desktop/commit/cf4213cbda1bc94f83825fbe18814f9e695cb6e3)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Appearance: update dock style (#452)</code>](https://github.com/elementary/settings-desktop/commit/3e92ce82aa64a7db57e638edcdd78914382b23ed)
+- [ ] [<code>Actions: Use main branch (#453)</code>](https://github.com/elementary/settings-desktop/commit/0d098e77f090079766274a42dada7d8ac0271bc1)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
 
@@ -401,10 +405,12 @@
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#95)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/432939d757b8a2edb1b7109e95d08d8eefd160c2)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
+- [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4adce41a8734d5472512ce3f83201e217837412d)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
@@ -650,6 +656,7 @@
 - [ ] [<code>Synapse: remove ClipboardCopyAction (#671)</code>](https://github.com/elementary/applications-menu/commit/a5b6992f88b3d41601b413dfb604596c284f9929)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update view icons</code>](https://github.com/elementary/applications-menu/commit/82aacda23ff54d707173e09acfaacc41f9a2057f)
+- [ ] [<code>Actions: Use main branch (#674)</code>](https://github.com/elementary/applications-menu/commit/3de16977ab736d875a4e133615647988f9a54f76)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -669,6 +676,7 @@
 - [ ] [<code>PopoverWidget: GTK4 prep (#225)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/28f0b8ccd4cf1416c6606ab21644ba9c87412f2d)
 - [ ] [<code>DisplayWidget: subclass Gtk.Bin (#226)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/f9069293647f88564205510c391f8bd845e5c854)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Actions: Use main branch (#230)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/11a2fd029afc2e4f168bf0a8f45b6d91a2339adf)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -711,6 +719,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update URLs</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/164a9a6f8076f66ca509f8ac674461947de6e775)
 - [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/491add699ebe9d7ed763b003e54191c93e1a3879)
+- [ ] [<code>Actions: Use main branch (#149)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/5dee130360021c0363549b826b71eedd5cbf3d4b)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...HEAD)
 
@@ -797,6 +806,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>master → main, fix weblate badge</code>](https://github.com/elementary/wingpanel-indicator-power/commit/91d1bb2160b3d079c57c8effc7b5d7bb541012c0)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/57b4c36439a31e63b46e7c58bebb94777b4da1ec)
+- [ ] [<code>Actions: Use main branch (#293)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/6526cc01199ad22591997e155f61d256db03b441)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
@@ -996,6 +1006,7 @@
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
 
+- [ ] [<code>Actions: Use main branch (#87)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/36d99e7c5d52a336c529ba05543e976e4957cc53)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
