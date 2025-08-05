@@ -146,7 +146,9 @@
 - [ ] [<code>Refactor positioning of floating UI elements.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8137ba29d3febe7cbd2d2df8a5e664e57454559b)
 - [ ] [<code>unlock: Remove additional dimming when unlock dialog is shown.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d7e415936b6516e45e9e073a77c050abfb38b192)
 - [ ] [<code>unlock.py: Don't show password entry and unlock button until</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b93070345e80e8f769c64246af3584ef99f38798)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f8a7ce98b95891af10d5b436d8f58dc7e6a7846f)
+  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
@@ -284,7 +286,9 @@
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.10...HEAD)
 
 - [ ] [<code>xviewer-list-store.c: Fix double lock condition when adding images.</code>](https://github.com/linuxmint/xviewer/commit/ce1505dab7f3847d60b4ff0d50ddac9ba4690d49)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.4.11</code>](https://github.com/linuxmint/xviewer/commit/e5d83cf88b157ab03c398f2c4a49799c5b5117d8)
+  - <sub>Tags: <code>3.4.11</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
