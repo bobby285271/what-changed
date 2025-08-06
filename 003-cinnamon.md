@@ -311,56 +311,14 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [5.1 → HEAD](https://github.com/linuxmint/hypnotix/compare/5.1...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.1 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.1...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
 
-- [ ] [<code>slick-greeter:  Add blur effect and fix bugs (#268)</code>](https://github.com/linuxmint/slick-greeter/commit/a1d9630ed426e4c64e49fab60dc2ce8f51257aae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>avatar: Remove Cinnamon fallback</code>](https://github.com/linuxmint/slick-greeter/commit/ecf7b969361efadd25f57186c610e8ce1cd3125a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.2.2</code>](https://github.com/linuxmint/slick-greeter/commit/466d7b5382a47eab51ae6fc518c435496f6d7086)
-  - <sub>Tags: <code>2.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.26 → HEAD](https://github.com/linuxmint/sticky/compare/1.26...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [24.06.6 → HEAD](https://github.com/linuxmint/timeshift/compare/24.06.6...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.4 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.4...HEAD)
 
-- [ ] [<code>Subvolume.vala: (btrfs) Wait for async file operations to complete.</code>](https://github.com/linuxmint/timeshift/commit/33f9e7a99823e7bf326743d491374fab9437a2d6)
-- [ ] [<code>Btrfs: support default subvolid!=0 (#334)</code>](https://github.com/linuxmint/timeshift/commit/6b1317d62d193b1f14d141cd1c53def00a3be6cc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Allow explicitly setting ondemand tag from CLI (#399)</code>](https://github.com/linuxmint/timeshift/commit/2bf451e1fa7699eeaf7a88bc839e7360dee83550)
-- [ ] [<code>AppStream metadata fixes (#391)</code>](https://github.com/linuxmint/timeshift/commit/78a7aa7e4a14d8832b219307703671cbe153eed0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove dependencies to external binarys (#333)</code>](https://github.com/linuxmint/timeshift/commit/96698a530f9681146f9d09a20266f9def6a97ed1)
-- [ ] [<code>Add user settings before defaults (#342)</code>](https://github.com/linuxmint/timeshift/commit/70dbfd8630990919ed25602bdb3f9a577474b69f)
-- [ ] [<code>query the correct root path on btrfs (#377)</code>](https://github.com/linuxmint/timeshift/commit/b7bc833c66f1959632c03644242310ab7d4e76f3)
-- [ ] [<code>add "timeshift" to the tempdir names (#395)</code>](https://github.com/linuxmint/timeshift/commit/f6d08f376dddf74111673f3a494244221b8b06b3)
-- [ ] [<code>refactor LinuxDistro (#376)</code>](https://github.com/linuxmint/timeshift/commit/d7f9e1c012ed94a1a79ede24127a148f5e92ed1f)
-- [ ] [<code>Main.vala: Don't check for distro name on every device.</code>](https://github.com/linuxmint/timeshift/commit/76bd8eec6417ef7c114e1a1838bedcc9aeeaf119)
-- [ ] [<code>BTRFS custom hooks (#381)</code>](https://github.com/linuxmint/timeshift/commit/b20c307d455a04df3d8bcd2cf9eee01c26b5b999)
-- [ ] [<code>Specify the environment variables named DISPLAY and XAUTHORITY (#384)</code>](https://github.com/linuxmint/timeshift/commit/98af1049992693599be78528029abba5421c4f19)
-- [ ] [<code>Always delete brfs volumes recursively (#423)</code>](https://github.com/linuxmint/timeshift/commit/a0095340dee1b04c079b68abe782fecbb0cbed2d)
-- [ ] [<code>only kill a task if its pid is set (#427)</code>](https://github.com/linuxmint/timeshift/commit/dcac4d70ee2aea882333b81f32107ef5f2fb3269)
-- [ ] [<code>Add full non-interactive mode (#388)</code>](https://github.com/linuxmint/timeshift/commit/68abe660824961be9bf1bcc973461591cb8f89c0)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/29220575a2f4030d993f8599c5bf991c50e3e5cd)
-- [ ] [<code>25.07.1</code>](https://github.com/linuxmint/timeshift/commit/8ae351a489a88b114e9bf2daf7d28710c0e4e36b)
-  - <sub>Tags: <code>25.07.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Don't flag new log messages for translations.</code>](https://github.com/linuxmint/timeshift/commit/a03e190529b364a4619f8543df6fc1f31feb8293)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/927b13b6fb4481d875f6da1d867c8e8a40c73203)
-- [ ] [<code>25.07.2</code>](https://github.com/linuxmint/timeshift/commit/491b1f87443e683b838d8fdd9e879d53c1273907)
-  - <sub>Tags: <code>25.07.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/timeshift/commit/21e21a93eab30d961c15e952c73f83db8258d855)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>25.07.3</code>](https://github.com/linuxmint/timeshift/commit/58a50ee95b3b93ec978818871db7424a5d3320cf)
-  - <sub>Tags: <code>25.07.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>TeeJee.Process.vala: Use GLib read_link instead of Posix readlink.</code>](https://github.com/linuxmint/timeshift/commit/a1b72abcfeb4972bd146a44bd658ae990aae5ee2)
-- [ ] [<code>25.07.4</code>](https://github.com/linuxmint/timeshift/commit/76a81596ef0b97e5876a5146ad609cb176c33690)
-  - <sub>Tags: <code>25.07.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Error if both lsb_release n os_release are missing (#431)</code>](https://github.com/linuxmint/timeshift/commit/e31e5219379512ebb302c8d6729850c0a734f42e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
