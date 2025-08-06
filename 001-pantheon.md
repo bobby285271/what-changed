@@ -190,6 +190,7 @@
 - [ ] [<code>Send artwork to MPRIS (#805)</code>](https://github.com/elementary/music/commit/d34b67c5ee7386888782bfede32734025a23ef91)
 - [ ] [<code>Flatpak: bump platform to 8.2 (#817)</code>](https://github.com/elementary/music/commit/3bca4b6d4e536ff0853759b75975301ab015402b)
 - [ ] [<code>Actions: Use main branch (#818)</code>](https://github.com/elementary/music/commit/c26f04bc72a537cdbf6006a7d6db847ad3429368)
+- [ ] [<code>MainWindow: Fix missing gettext (#819)</code>](https://github.com/elementary/music/commit/22ed623d12b0ca28e0a7e04d0a8c1d225fb6f94c)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
