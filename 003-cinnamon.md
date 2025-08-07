@@ -320,7 +320,9 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.4 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.4...HEAD)
 
 - [ ] [<code>Error if both lsb_release n os_release are missing (#431)</code>](https://github.com/linuxmint/timeshift/commit/e31e5219379512ebb302c8d6729850c0a734f42e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>25.07.5</code>](https://github.com/linuxmint/timeshift/commit/ee79ca813a64984a9534293644522ad4a8805da1)
+  - <sub>Tags: <code>25.07.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.3 → HEAD](https://github.com/linuxmint/xed/compare/3.8.3...HEAD)
 
