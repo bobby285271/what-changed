@@ -298,6 +298,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Actions: Use main branch (#890)</code>](https://github.com/elementary/terminal/commit/79c2d2266061c8ec875cd75fc66717a8fc08da17)
 - [ ] [<code>SettingsPopover: create ThemeCheckButton and use Settings action (#889)</code>](https://github.com/elementary/terminal/commit/a531cdd54a5b286bd3bcbea371646c8a28a228dc)
+- [ ] [<code>Release version 7.1.0 (#892)</code>](https://github.com/elementary/terminal/commit/0d6776d97b02017edb4798c77eb52d69e869acc3)
+  - <sub>Tags: <code>7.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SearchToolbar: Modernise, prepare for Gtk4 (#880)</code>](https://github.com/elementary/terminal/commit/8c285650f9953a1b27c4520e03694a60689cd913)
+- [ ] [<code>Unsafepastedialog: Modernise, Gtk4 preparation (#881)</code>](https://github.com/elementary/terminal/commit/23349138727dfe40770e51c0f41ae4d79aa249a9)
+- [ ] [<code>ForegroundProcessDialog: Modernise/Gtk4 preparation (#882)</code>](https://github.com/elementary/terminal/commit/40f11bd38c463e0ecaf64059f818968080c81598)
+- [ ] [<code>Colorpreferencesdialog: Modernise/Gtk4prep (#883)</code>](https://github.com/elementary/terminal/commit/dcb787ad8e0bc333a1dc0a81861079e339cef721)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
