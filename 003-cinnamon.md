@@ -5,7 +5,7 @@
 #### [bulky](https://github.com/linuxmint/bulky): [3.8 → HEAD](https://github.com/linuxmint/bulky/compare/3.8...HEAD)
 
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.10 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.10...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -141,14 +141,8 @@
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.0...HEAD)
+#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.1...HEAD)
 
-- [ ] [<code>Refactor positioning of floating UI elements.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/8137ba29d3febe7cbd2d2df8a5e664e57454559b)
-- [ ] [<code>unlock: Remove additional dimming when unlock dialog is shown.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d7e415936b6516e45e9e073a77c050abfb38b192)
-- [ ] [<code>unlock.py: Don't show password entry and unlock button until</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b93070345e80e8f769c64246af3584ef99f38798)
-- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/f8a7ce98b95891af10d5b436d8f58dc7e6a7846f)
-  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
@@ -176,18 +170,8 @@
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
 
-#### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [128.0 → HEAD](https://github.com/linuxmint/cjs/compare/128.0...HEAD)
 
-- [ ] [<code>Rebase onto gjs-1.82.1 (from debian 13/trixie) - mozjs 128 support.</code>](https://github.com/linuxmint/cjs/commit/f43d5b579a6d84f4947ee61fde6f00b7ee6c1155)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>[mozjs-128] fix packaging (#128)</code>](https://github.com/linuxmint/cjs/commit/daa405768117f016b0db2768eef57856815b6b5f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove version restrictions</code>](https://github.com/linuxmint/cjs/commit/74bb8d9a701f9b7ed1d783104ffc9777c013118f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>128.0</code>](https://github.com/linuxmint/cjs/commit/b9a0d42314249fa5a99497cee167d1fecadb15e8)
-  - <sub>Tags: <code>128.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
@@ -279,6 +263,9 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.11 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.11...HEAD)
 
+- [ ] [<code>xapp-gpu-offload-helper.h: Move new GpuInfo member to the end.</code>](https://github.com/linuxmint/xapp/commit/10b4a7ccaeb0915f9c1d207c60fadd0795e61a1d)
+- [ ] [<code>xapp-gpu-offload-helper: Remove XAppGpuInfo.is_discrete member.</code>](https://github.com/linuxmint/xapp/commit/273ded5395828a5cf2d5fed2bfc2a4c1daa89767)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.8 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.8...HEAD)
 
