@@ -129,6 +129,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#440)</code>](https://github.com/elementary/dock/commit/51275ccc3b9405ddec817c4d68e8d3dce0cedea5)
 - [ ] [<code>Update POTFILES (#442)</code>](https://github.com/elementary/dock/commit/b2903a6c1b713090d1d96640a99c772649060f76)
+- [ ] [<code>Replace tooltip with popover (#441)</code>](https://github.com/elementary/dock/commit/e3e6dc912acff1a720b4469e1812be4c07923aa1)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -229,6 +230,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: Use main branch (#821)</code>](https://github.com/elementary/photos/commit/3c13a14838f409a7f256bc7d6db7948c70e99f78)
 - [ ] [<code>gexiv2: Update gexiv2-0.15.0.tar.xz to 0.15.1 (#822)</code>](https://github.com/elementary/photos/commit/a45a744059af50a308add6bb6c3a2098dbab9041)
+- [ ] [<code>main: Remove unused code (#823)</code>](https://github.com/elementary/photos/commit/5543cfd4d0c269fd8d3b3dadaa0d80caf55be2bd)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.1 → HEAD](https://github.com/elementary/screenshot/compare/8.0.1...HEAD)
 
@@ -305,6 +307,10 @@
 - [ ] [<code>Unsafepastedialog: Modernise, Gtk4 preparation (#881)</code>](https://github.com/elementary/terminal/commit/23349138727dfe40770e51c0f41ae4d79aa249a9)
 - [ ] [<code>ForegroundProcessDialog: Modernise/Gtk4 preparation (#882)</code>](https://github.com/elementary/terminal/commit/40f11bd38c463e0ecaf64059f818968080c81598)
 - [ ] [<code>Colorpreferencesdialog: Modernise/Gtk4prep (#883)</code>](https://github.com/elementary/terminal/commit/dcb787ad8e0bc333a1dc0a81861079e339cef721)
+- [ ] [<code>TerminalView: Clean/Gtk4 preparation (#886)</code>](https://github.com/elementary/terminal/commit/f82f10a8b6e5f6359ecb5609ede4830649bb8274)
+- [ ] [<code>Application: Gtk4 preparation (#887)</code>](https://github.com/elementary/terminal/commit/856b4a61a18f1d3bcbeef2d38f202242b531b6d1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ZoomOverlay: Modernize/gtk4 preparation (#884)</code>](https://github.com/elementary/terminal/commit/f330fd90ec2343ddfd09d3cbb6e6cc47293cb614)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -600,6 +606,9 @@
 - [ ] [<code>Actions: Use main branch (#2517)</code>](https://github.com/elementary/gala/commit/49be62b04d98c2cf38c9db5eaa1c61ba23029712)
 - [ ] [<code>Introduce GestureAction.CUSTOM (#2518)</code>](https://github.com/elementary/gala/commit/8321358d5f24bfb4dd9e33b81835ed2c800128b5)
 - [ ] [<code>Remove unused constants (#2521)</code>](https://github.com/elementary/gala/commit/26a5c810fe61caed8e446dda4fcbe5f35802e7ec)
+- [ ] [<code>Introduce Gala.Text (#2524)</code>](https://github.com/elementary/gala/commit/0096d50f791e52db9adf983e973cc785fa091b7d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
