@@ -19,6 +19,7 @@
 - [ ] [<code>Introduce can update all property, use action (#2309)</code>](https://github.com/elementary/appcenter/commit/7a44f1f8d748fcc6fbfaab53f3551cb2c8120b76)
 - [ ] [<code>Make size label settable, use property binding (#2312)</code>](https://github.com/elementary/appcenter/commit/9d4c41982acb212ab903ca0cc5b2599b007e9d7d)
 - [ ] [<code>get_installed_applications: mark installed on main thread (#2315)</code>](https://github.com/elementary/appcenter/commit/7a0c017b12c299f21719557b0a4411a31c60932f)
+- [ ] [<code>Streamline refresh flow (#2314)</code>](https://github.com/elementary/appcenter/commit/24132e2e4322a78a339d696a558e63eb70112b10)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -609,6 +610,7 @@
 - [ ] [<code>Introduce Gala.Text (#2524)</code>](https://github.com/elementary/gala/commit/0096d50f791e52db9adf983e973cc785fa091b7d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowStateSaver: better filter for dialog windows (#2523)</code>](https://github.com/elementary/gala/commit/fbfc91f0b2da869bab44a1c87216dc04ef611cdb)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
