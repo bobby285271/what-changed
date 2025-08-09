@@ -574,6 +574,10 @@
 - [ ] [<code>update task note design</code>](https://github.com/alainm23/planify/commit/5580c37550bd7c94dd77335f596fdb088ab2c7f5)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1657 from alainm23/feat/task-note-position</code>](https://github.com/alainm23/planify/commit/51598b5f39949fbaedb08bf0a44d9caeb49e55f2)
+- [ ] [<code>Fix: Pinboard not updating correctly</code>](https://github.com/alainm23/planify/commit/5f043cc7fcae57da14c4b18dd0802ba5cd184184)
+- [ ] [<code>Merge pull request #1662 from byquanton/fix/fix-pinboard</code>](https://github.com/alainm23/planify/commit/58d589519b693e5b74d4bd97940e7cffd0cc4402)
+- [ ] [<code>remove links</code>](https://github.com/alainm23/planify/commit/627bc5937e32dc165139ad2ecc7a705744595fa4)
+- [ ] [<code>Merge pull request #1664 from alainm23/feat/remove-social-links</code>](https://github.com/alainm23/planify/commit/b95a9f9da6cc5867967b825295091f3fb10a58d0)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
