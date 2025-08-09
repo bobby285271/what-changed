@@ -265,17 +265,15 @@
 
 - [ ] [<code>xapp-gpu-offload-helper.h: Move new GpuInfo member to the end.</code>](https://github.com/linuxmint/xapp/commit/10b4a7ccaeb0915f9c1d207c60fadd0795e61a1d)
 - [ ] [<code>xapp-gpu-offload-helper: Remove XAppGpuInfo.is_discrete member.</code>](https://github.com/linuxmint/xapp/commit/273ded5395828a5cf2d5fed2bfc2a4c1daa89767)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.8.12</code>](https://github.com/linuxmint/xapp/commit/0bd3683b180336e2aa94ab5c568f7bd24a97c856)
+  - <sub>Tags: <code>2.8.12</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.8 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.8...HEAD)
 
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.10 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.10...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.11...HEAD)
 
-- [ ] [<code>xviewer-list-store.c: Fix double lock condition when adding images.</code>](https://github.com/linuxmint/xviewer/commit/ce1505dab7f3847d60b4ff0d50ddac9ba4690d49)
-- [ ] [<code>3.4.11</code>](https://github.com/linuxmint/xviewer/commit/e5d83cf88b157ab03c398f2c4a49799c5b5117d8)
-  - <sub>Tags: <code>3.4.11</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -304,12 +302,8 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.26 → HEAD](https://github.com/linuxmint/sticky/compare/1.26...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.4 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.4...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.5 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.5...HEAD)
 
-- [ ] [<code>Error if both lsb_release n os_release are missing (#431)</code>](https://github.com/linuxmint/timeshift/commit/e31e5219379512ebb302c8d6729850c0a734f42e)
-- [ ] [<code>25.07.5</code>](https://github.com/linuxmint/timeshift/commit/ee79ca813a64984a9534293644522ad4a8805da1)
-  - <sub>Tags: <code>25.07.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.3 → HEAD](https://github.com/linuxmint/xed/compare/3.8.3...HEAD)
 
