@@ -131,6 +131,7 @@
 - [ ] [<code>Actions: Use main branch (#440)</code>](https://github.com/elementary/dock/commit/51275ccc3b9405ddec817c4d68e8d3dce0cedea5)
 - [ ] [<code>Update POTFILES (#442)</code>](https://github.com/elementary/dock/commit/b2903a6c1b713090d1d96640a99c772649060f76)
 - [ ] [<code>Replace tooltip with popover (#441)</code>](https://github.com/elementary/dock/commit/e3e6dc912acff1a720b4469e1812be4c07923aa1)
+- [ ] [<code>Fix shaking of window when moving icon (#445)</code>](https://github.com/elementary/dock/commit/e921987a1bf7ed6e3d67ea9c7be5b51410df49b8)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -312,6 +313,7 @@
 - [ ] [<code>Application: Gtk4 preparation (#887)</code>](https://github.com/elementary/terminal/commit/856b4a61a18f1d3bcbeef2d38f202242b531b6d1)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ZoomOverlay: Modernize/gtk4 preparation (#884)</code>](https://github.com/elementary/terminal/commit/f330fd90ec2343ddfd09d3cbb6e6cc47293cb614)
+- [ ] [<code>Mainwindow: Gtk4 preparation (#888)</code>](https://github.com/elementary/terminal/commit/52b6613884062dac6d381fe6dcb2310163232d4a)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -333,6 +335,9 @@
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
 - [ ] [<code>Actions: Use main branch (#360)</code>](https://github.com/elementary/switchboard/commit/a3bac631efc9a1be9709be62a8a39a69a12a24c2)
+- [ ] [<code>PlugsManager: Replace deprecated Module.SUFFIX (#358)</code>](https://github.com/elementary/switchboard/commit/784cf872cd29f3aa61bde9a02cc4e2b08272a59d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
