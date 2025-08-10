@@ -261,13 +261,8 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.11 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.11...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
-- [ ] [<code>xapp-gpu-offload-helper.h: Move new GpuInfo member to the end.</code>](https://github.com/linuxmint/xapp/commit/10b4a7ccaeb0915f9c1d207c60fadd0795e61a1d)
-- [ ] [<code>xapp-gpu-offload-helper: Remove XAppGpuInfo.is_discrete member.</code>](https://github.com/linuxmint/xapp/commit/273ded5395828a5cf2d5fed2bfc2a4c1daa89767)
-- [ ] [<code>2.8.12</code>](https://github.com/linuxmint/xapp/commit/0bd3683b180336e2aa94ab5c568f7bd24a97c856)
-  - <sub>Tags: <code>2.8.12</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.8 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.8...HEAD)
 
