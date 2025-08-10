@@ -95,29 +95,8 @@
 - [ ] [<code>Actions: Use main branch (#294)</code>](https://github.com/elementary/camera/commit/9642e22cbcf9276036b2797d004c91f7feb9a7a5)
 - [ ] [<code>Bump platform to 8.2 (#288)</code>](https://github.com/elementary/camera/commit/d6bcb9acecdf72f13b30b5eebf7dab9bc1e477c7)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [8.0.0 → HEAD](https://github.com/elementary/code/compare/8.0.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.0 → HEAD](https://github.com/elementary/code/compare/8.1.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/code/commit/d3f3872932128eb29505528939ac33956a6baa3a)
-- [ ] [<code>Try explicit set object in ActivatablePlugin (#1606)</code>](https://github.com/elementary/code/commit/9b8347adcbb94f3186815413d927eecc51be2ccf)
-- [ ] [<code>Clone remote repository. (#1548)</code>](https://github.com/elementary/code/commit/34b0af4fc3829d96b7d85a60bb1e2b5ba69fa776)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/6f1f2546f1c422e34f79e4ddf62f0efb97730b69)
-- [ ] [<code>CloneRepositoryDialog: fix warning attaching null widget (#1609)</code>](https://github.com/elementary/code/commit/695b657ed2969ae18fef0bfafd50dbfb0ad745aa)
-- [ ] [<code>MainWindow: Fix missing gettext (#1611)</code>](https://github.com/elementary/code/commit/fbb8d5676c8cdf9e15a4c083d8931e92cfc35ba1)
-- [ ] [<code>Bump libgit2-glib dependency (#1613)</code>](https://github.com/elementary/code/commit/35086d7367d871caae0bc187ccb1d0923b7b584b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Remove trash item from project menu (#1617)</code>](https://github.com/elementary/code/commit/a388f9ca7a77f865c53c470b57b53af995c219ea)
-- [ ] [<code>Check for existence of next line (#1630)</code>](https://github.com/elementary/code/commit/cbd255068569f75efcd053cd6d440154e9fd5ecc)
-- [ ] [<code>No tooltip and not selectable if dummy row (#1621)</code>](https://github.com/elementary/code/commit/a81631f041cb9e61c6edf2e584955b7b7ada07ab)
-- [ ] [<code>Stack spinner on filterbutton, start after delay (#1599)</code>](https://github.com/elementary/code/commit/6c5ffd32d912e8c4a588b04a90260b22a29479d6)
-- [ ] [<code>Declare CtagsSymbol is a SymbolItem (#1635)</code>](https://github.com/elementary/code/commit/aab89a7566c1fb76ef200393a07ac98e2b1822e3)
-- [ ] [<code>Fix crash from highlight selection plugin when deleting selection (#1622)</code>](https://github.com/elementary/code/commit/5e578f6d35de168997f934698856a82229f883b0)
-- [ ] [<code>Prepare release 8.1.0 (#1634)</code>](https://github.com/elementary/code/commit/0886b948727a6d48a7b7998e1d7fc792d4893eea)
-- [ ] [<code>Bump platform to 8.2 (#1545)</code>](https://github.com/elementary/code/commit/7b11d1820c398b8f6baa18c691009e6269408888)
-- [ ] [<code>Release version 8.1.0 (#1637)</code>](https://github.com/elementary/code/commit/27de240aae6e8217968ebbdc0d6a57b47bed08f9)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#1639)</code>](https://github.com/elementary/code/commit/7571b60ffb92c072ac04323674877c165111533f)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
@@ -314,6 +293,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ZoomOverlay: Modernize/gtk4 preparation (#884)</code>](https://github.com/elementary/terminal/commit/f330fd90ec2343ddfd09d3cbb6e6cc47293cb614)
 - [ ] [<code>Mainwindow: Gtk4 preparation (#888)</code>](https://github.com/elementary/terminal/commit/52b6613884062dac6d381fe6dcb2310163232d4a)
+- [ ] [<code>Check for possibly null primary monitor (e.g. in CI) (#893)</code>](https://github.com/elementary/terminal/commit/c22442efbfe5fe7e164740fc4596242603fb10b4)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
