@@ -472,6 +472,9 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.13.2 → HEAD](https://github.com/alainm23/planify/compare/4.13.2...HEAD)
 
+- [ ] [<code>hide back button</code>](https://github.com/alainm23/planify/commit/c655c326024efe7b46fc855403fe89be9291f9a3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1669 from alainm23/fix/1590</code>](https://github.com/alainm23/planify/commit/3a425a9eb83f1750c9285c81cf0e4b0dd023b696)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -551,15 +554,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clang-format: Avoid breaking change</code>](https://github.com/JoseExposito/touchegg/commit/93f8a28e37b87568f439f6c4c616c907fbbf4a33)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [4ed1443c35a8a84445fb59292d539358365d8263 → HEAD](https://github.com/vala-lang/vala-lint/compare/4ed1443c35a8a84445fb59292d539358365d8263...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [a1d1a7bc0f740920e592fd788a836c402fd9825c → HEAD](https://github.com/vala-lang/vala-lint/compare/a1d1a7bc0f740920e592fd788a836c402fd9825c...HEAD)
 
-- [ ] [<code>bump github action versions (#191)</code>](https://github.com/vala-lang/vala-lint/commit/3055657e656ae0bac9292cf599b5a3b368ab61f6)
-- [ ] [<code>build: Disable C warnings (#190)</code>](https://github.com/vala-lang/vala-lint/commit/1ec0e6c105b9196a68b553f565887761448292c4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix issue #181 plus a few meson warnings (#189)</code>](https://github.com/vala-lang/vala-lint/commit/6c36acc97e6c19d7d7ca118d1d22a801946cd2db)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update README.md (#192)</code>](https://github.com/vala-lang/vala-lint/commit/a1d1a7bc0f740920e592fd788a836c402fd9825c)
 
 #### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
