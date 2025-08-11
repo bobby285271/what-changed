@@ -475,6 +475,8 @@
 - [ ] [<code>hide back button</code>](https://github.com/alainm23/planify/commit/c655c326024efe7b46fc855403fe89be9291f9a3)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1669 from alainm23/fix/1590</code>](https://github.com/alainm23/planify/commit/3a425a9eb83f1750c9285c81cf0e4b0dd023b696)
+- [ ] [<code>fix(i18n): incorrect translations corrected and new entries added</code>](https://github.com/alainm23/planify/commit/88c15e7616c8a24e7db37bcc464973a9a3b7d6ea)
+- [ ] [<code>Merge pull request #1670 from VastSea0/patch-2</code>](https://github.com/alainm23/planify/commit/02e3dd8cad5f58c8434e5220d743891263dce0d2)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
