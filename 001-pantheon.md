@@ -98,6 +98,9 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.0 → HEAD](https://github.com/elementary/code/compare/8.1.0...HEAD)
 
 - [ ] [<code>Actions: Use main branch (#1639)</code>](https://github.com/elementary/code/commit/7571b60ffb92c072ac04323674877c165111533f)
+- [ ] [<code>Restart shell in terminal pane if it exits (#1618)</code>](https://github.com/elementary/code/commit/0dde46550510b2a2bd7de14d8cb6dc27ace12de2)
+- [ ] [<code>Rework terminal settings (#1585)</code>](https://github.com/elementary/code/commit/34ba8fbbe44eb2179c66e2eb1800b35b6d2113f6)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -294,6 +297,7 @@
 - [ ] [<code>ZoomOverlay: Modernize/gtk4 preparation (#884)</code>](https://github.com/elementary/terminal/commit/f330fd90ec2343ddfd09d3cbb6e6cc47293cb614)
 - [ ] [<code>Mainwindow: Gtk4 preparation (#888)</code>](https://github.com/elementary/terminal/commit/52b6613884062dac6d381fe6dcb2310163232d4a)
 - [ ] [<code>Check for possibly null primary monitor (e.g. in CI) (#893)</code>](https://github.com/elementary/terminal/commit/c22442efbfe5fe7e164740fc4596242603fb10b4)
+- [ ] [<code>Fix incorrect line breaks when pasting/dropping into foreground processes (#862)</code>](https://github.com/elementary/terminal/commit/8f93bc77437e45090e59266c7813436a0903d27b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
