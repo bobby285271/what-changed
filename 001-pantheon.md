@@ -966,6 +966,7 @@
 - [ ] [<code>Init: Avoid crash with Gtk >= 4.17 (#893)</code>](https://github.com/elementary/granite/commit/60cb8c4119b579592e6c7f3b1476e4d729f58699)
 - [ ] [<code>Demo: application-default-icon → package-x-generic (#899)</code>](https://github.com/elementary/granite/commit/7469c9bde5a65438f18c63dbd68c025d16cfe09c)
 - [ ] [<code>Actions: Use main branch (#900)</code>](https://github.com/elementary/granite/commit/d0725168da4a35be687cbee8e4ba2487b016553c)
+- [ ] [<code>Utils: markup_accel_tooltip: Correctly markup documentation (#901)</code>](https://github.com/elementary/granite/commit/4a84961b1b1e25d1faa3aa765e4ea8d26237f824)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
