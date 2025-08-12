@@ -851,6 +851,7 @@
 - [ ] [<code>panel: Don't show panel window too early</code>](https://github.com/xfce-mirror/xfce4-panel/commit/35dca5621adac0a55069f9fd8245623cb233bc54)
 - [ ] [<code>wayland: panel: Ensure panel window is shown at least once</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2441efb9a92afd6ef1e0a2e0f0a0e8394239511a)
 - [ ] [<code>wayland: panel: Delay hiding panel window when screen layout changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2fb4e093588d3322f1c54ae2fc9e4e6d6471aab)
+- [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-panel/commit/31ed626241acec666634e8061990cbe83a6a0df3)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1177,6 +1178,7 @@
 - [ ] [<code>Small change for meson i18n</code>](https://github.com/xfce-mirror/xfdesktop/commit/8989e9276e94be2e8928176c71a3162da0ec3bbe)
 - [ ] [<code>Fix column boundary check in xfdesktop_icon_view_unplace_item</code>](https://github.com/xfce-mirror/xfdesktop/commit/ec9403a52eaac92c195efe38992147b9d9f3d55e)
 - [ ] [<code>Fix a use-after-free crash in the icon unplace/removal code</code>](https://github.com/xfce-mirror/xfdesktop/commit/991f5a0065556277e7dd3a1314f8d2b31dd67b04)
+- [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfdesktop/commit/6f13454f8e94976479c5fe7b3faaee06e096ba84)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
