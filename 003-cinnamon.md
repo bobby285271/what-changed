@@ -112,8 +112,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>python3-harvester.py: Fix some debug messages.</code>](https://github.com/linuxmint/cinnamon/commit/a851e5735540e47563f2d9fb8e9330a46aa4190d)
 - [ ] [<code>cinnamon-settings.py: Add fingwit to standalone modules.</code>](https://github.com/linuxmint/cinnamon/commit/a5ca299a260c698efe163fc31956db127281f54a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notificationDaemon.js: Cleanup notification app_icon and icon-path</code>](https://github.com/linuxmint/cinnamon/commit/361526c10bd537b54230fa044ab0fc0ec4c04c39)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
