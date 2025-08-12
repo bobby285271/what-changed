@@ -20,6 +20,7 @@
 - [ ] [<code>Make size label settable, use property binding (#2312)</code>](https://github.com/elementary/appcenter/commit/9d4c41982acb212ab903ca0cc5b2599b007e9d7d)
 - [ ] [<code>get_installed_applications: mark installed on main thread (#2315)</code>](https://github.com/elementary/appcenter/commit/7a0c017b12c299f21719557b0a4411a31c60932f)
 - [ ] [<code>Streamline refresh flow (#2314)</code>](https://github.com/elementary/appcenter/commit/24132e2e4322a78a339d696a558e63eb70112b10)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#2318)</code>](https://github.com/elementary/appcenter/commit/6e5cd645216a80244344d76652bb3a36535e34b3)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -123,6 +124,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.4 → HEAD](https://github.com/elementary/files/compare/7.1.4...HEAD)
 
 - [ ] [<code>Actions: Use main branch (#2629)</code>](https://github.com/elementary/files/commit/1d28475b7f7998d21df0180ab5a6a72dad1eefb4)
+- [ ] [<code>PropertiesWindow: Use "iso" format for datetimes (#2609)</code>](https://github.com/elementary/files/commit/4af9089982eec610ca5a889167e43848bfae9819)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -298,6 +300,7 @@
 - [ ] [<code>Mainwindow: Gtk4 preparation (#888)</code>](https://github.com/elementary/terminal/commit/52b6613884062dac6d381fe6dcb2310163232d4a)
 - [ ] [<code>Check for possibly null primary monitor (e.g. in CI) (#893)</code>](https://github.com/elementary/terminal/commit/c22442efbfe5fe7e164740fc4596242603fb10b4)
 - [ ] [<code>Fix incorrect line breaks when pasting/dropping into foreground processes (#862)</code>](https://github.com/elementary/terminal/commit/8f93bc77437e45090e59266c7813436a0903d27b)
+- [ ] [<code>Remove tab process-finished icon on select (#847)</code>](https://github.com/elementary/terminal/commit/7c938ee4311906641ded366f41c29f8b2e2484c2)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
 
@@ -329,6 +332,7 @@
 - [ ] [<code>Add device icons to gresource (#380)</code>](https://github.com/elementary/switchboard-plug-about/commit/72de5c7eb844b2f3c8c81e0accb19d5adbfeb44b)
 - [ ] [<code>FirmwareView: use Adw.NavigationView (#381)</code>](https://github.com/elementary/switchboard-plug-about/commit/749362bffddd17555c240ecd0dd5836bc5fff69d)
 - [ ] [<code>Actions: Use main branch (#382)</code>](https://github.com/elementary/switchboard-plug-about/commit/2991c2d71ed58ad76699c26d73a329aa2c54404d)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#383)</code>](https://github.com/elementary/switchboard-plug-about/commit/08ae1106ac671061a5a55c327c77f72831d62589)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
 
@@ -352,12 +356,14 @@
 
 - [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/settings-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
 - [ ] [<code>Actions: Use main branch (#428)</code>](https://github.com/elementary/settings-display/commit/40addea3c831bc7679e109632a361d2d59d82152)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#429)</code>](https://github.com/elementary/settings-display/commit/05e66ac790bba2927f0018680d4e2f3de8e55c82)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.0 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.0...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
 - [ ] [<code>Allow assigning Gdk.Key.Tools button (#547)</code>](https://github.com/elementary/settings-keyboard/commit/4a96ee7f7fd0189879af4cd53fdd219197fd96e0)
 - [ ] [<code>Actions: Use main branch (#548)</code>](https://github.com/elementary/settings-keyboard/commit/0d03f8aad4e44fdbbdb2f343d7ab9d243d180d3b)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#549)</code>](https://github.com/elementary/settings-keyboard/commit/5c9d4c78495643a18a2ebd129f8c85c9ffd4a6f2)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -535,6 +541,7 @@
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
 - [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/onboarding/commit/dda8d64e5e2a8859cf8f57913460711fffa98e80)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#256)</code>](https://github.com/elementary/onboarding/commit/7d3e83a275b1cf29e8626a7d0a9e08a846b2224f)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -600,6 +607,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>WindowStateSaver: better filter for dialog windows (#2523)</code>](https://github.com/elementary/gala/commit/fbfc91f0b2da869bab44a1c87216dc04ef611cdb)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#2527)</code>](https://github.com/elementary/gala/commit/112c120af7a1b86ce5cbfcd29c9393118c7e7883)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -759,6 +767,7 @@
 - [ ] [<code>Fix crash in greeter (#342)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e799e085ab5d3c979a52e0fc46d290a15eddba89)
 - [ ] [<code>Metainfo: update 8.0.0 release notes (#344)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/255a39e085f1713485ead8ff977788485805a108)
 - [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/391d93771a61893758a7904fedfed7c01e023cf0)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#348)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b0e9419b3f96d5d45ef026babb2c4503f72b36ab)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -815,6 +824,7 @@
 - [ ] [<code>master → main, fix weblate badge</code>](https://github.com/elementary/wingpanel-indicator-power/commit/91d1bb2160b3d079c57c8effc7b5d7bb541012c0)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-power/commit/57b4c36439a31e63b46e7c58bebb94777b4da1ec)
 - [ ] [<code>Actions: Use main branch (#293)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/6526cc01199ad22591997e155f61d256db03b441)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#294)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/231e2170c5905ee15835681de5762ab7b1ca93a6)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
 
@@ -828,6 +838,7 @@
 - [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
 - [ ] [<code>Scale: don't set an icon on construct (#298)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/72917da6ab842b5655e986e620897682df419d84)
 - [ ] [<code>Actions: Use main branch (#302)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c2905d5e7493d9373a336e1b540dc70e247e57e2)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#303)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7b70fcde1fef72d618476f9d33955f67b1addd16)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.2.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.2.0...HEAD)
 
@@ -980,9 +991,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Install into libexecdir instead of bindir (#36)</code>](https://github.com/elementary/contractor/commit/90056888997d50e5638ba7f254ecf580ea0c6a2c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#39)</code>](https://github.com/elementary/contractor/commit/f51ee306127d67a87ae598631cc2ada711e6474b)
 
 #### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.1.0 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.1.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#44)</code>](https://github.com/elementary/bluetooth-daemon/commit/d14f0078011a9bee0573ec88cd1c4ff3c8d31183)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.1 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.1...HEAD)
 
@@ -1006,6 +1019,7 @@
 - [ ] [<code>SystemUpdate: Use systemd timer for initial and daily update check (#200)</code>](https://github.com/elementary/settings-daemon/commit/1e2412950e7e62d3933858a098317030635e0f36)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#202)</code>](https://github.com/elementary/settings-daemon/commit/f24a92172f74acbfa50d4d863e65770b99bc0a1d)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#204)</code>](https://github.com/elementary/settings-daemon/commit/b42e068d4058bf1cba074e75ec37015d568e4f4c)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
