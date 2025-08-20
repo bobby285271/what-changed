@@ -114,6 +114,7 @@
 - [ ] [<code>cinnamon-settings.py: Add fingwit to standalone modules.</code>](https://github.com/linuxmint/cinnamon/commit/a5ca299a260c698efe163fc31956db127281f54a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>notificationDaemon.js: Cleanup notification app_icon and icon-path</code>](https://github.com/linuxmint/cinnamon/commit/361526c10bd537b54230fa044ab0fc0ec4c04c39)
+- [ ] [<code>notificationDaemon.js: Improve notification error handling.</code>](https://github.com/linuxmint/cinnamon/commit/1201332ac07308a3bfa1d0ec95a93fde6af06641)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -164,9 +165,10 @@
 - [ ] [<code>nightlight: Implement schedule mode 'always' (#408)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d5f42851805b595bd5f697e72e924f6e75b4f766)
 - [ ] [<code>power: Cleanup upower version checks.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/db263a5129d06eabf8c2eb6a4f2e9bd71e4dfc07)
 - [ ] [<code>Adjust upower minimum version.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/789b2ee5908f1b186a29cbd6d0accd31c3c1bf97)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>generate-tz-header.py: Fix position coordinate parsing.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/eec27984940dfb11904b02228357f430b585c41f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
@@ -182,18 +184,29 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [64ee205dc270b13f3816030330eed108eaa30360 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/64ee205dc270b13f3816030330eed108eaa30360...HEAD)
 
+- [ ] [<code>Add window-close-symbolic, adjust other window control buttons</code>](https://github.com/linuxmint/mint-l-icons/commit/620def3d605dbb26669c52a445cf3c07469b7ba8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Tweak window control sizes.</code>](https://github.com/linuxmint/mint-l-icons/commit/d3fbb087b0b836dddffef3406b2578bf0215cb27)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>apps: Sync from mint-y-icons.</code>](https://github.com/linuxmint/mint-l-icons/commit/c30e6ddafb376a621edea5c3151effdc9bc26ff5)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
+- [ ] [<code>libadwaita-1.5: Adapt window controls to match Gtk3.</code>](https://github.com/linuxmint/mint-l-theme/commit/eb5aaaa73740a1f0553d3125df0958997746837d)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.1...HEAD)
 
+- [ ] [<code>Mint-Y: Improve dark checkbox and radio borders and regen assets.</code>](https://github.com/linuxmint/mint-themes/commit/6c4a01bd7e1cead74c19db030e6cf498a1c9afcb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.5...HEAD)
 
+- [ ] [<code>Restore window-close-symbolic.svg.</code>](https://github.com/linuxmint/mint-y-icons/commit/f8a33d9d2ca2e6b40433163504b78df019ed0962)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -209,6 +222,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Bump wl_output interface to v4 (#727)</code>](https://github.com/linuxmint/muffin/commit/ffd0d370b256be7eeaf9a24dc0d86e327eafba7f)
+- [ ] [<code>Fix Qt apps crash (#739)</code>](https://github.com/linuxmint/muffin/commit/1a439aeea53f01b8516f719651f6b8967f64cea6)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
@@ -265,11 +279,14 @@
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.2.8 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.8...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.2.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.9...HEAD)
 
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.11...HEAD)
 
+- [ ] [<code>Revert 7a7b55b (add mutex locks...)</code>](https://github.com/linuxmint/xviewer/commit/b6586374c7ccf55d1e1249ade50bf1574c9d36fd)
+- [ ] [<code>misc: Avoid some navigation warnings that can crop up when images</code>](https://github.com/linuxmint/xviewer/commit/6b8148fd83628fdd6cb5cf4712b01102407d05fc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -300,9 +317,14 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.5 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.5...HEAD)
 
+- [ ] [<code>Add startup check of btrfs-progs version to determine capabilities.</code>](https://github.com/linuxmint/timeshift/commit/71c5dd50087903236381e820f83412e79d877bba)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.3 → HEAD](https://github.com/linuxmint/xed/compare/3.8.3...HEAD)
 
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
 
+- [ ] [<code>background.c: Add deprecation note.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c2b3bcc8fadb9cb3de27d974fad679ddf79a540)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
