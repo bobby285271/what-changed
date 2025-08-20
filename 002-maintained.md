@@ -359,6 +359,9 @@
 - [ ] [<code>Merge pull request #656 from killerdevildog/fix/tab-right-click-crash</code>](https://github.com/phase1geo/minder/commit/5dd83a37075e9adefd98db5b496fe762141498a0)
 - [ ] [<code>Fix image resize crash in set_width method</code>](https://github.com/phase1geo/minder/commit/6b4996d979dad171545f374afe1ebf4377608cce)
 - [ ] [<code>Merge pull request #659 from killerdevildog/fix-issue-585-image-resize-crash</code>](https://github.com/phase1geo/minder/commit/8d0bb5e04d29180c08e52d0335a7dd678857872f)
+- [ ] [<code>Fix Russian translation: Mermaid format name and typo</code>](https://github.com/phase1geo/minder/commit/994c57b27b9ac5c27f2ddb6d140a9e2f8929198a)
+- [ ] [<code>Fix Russian translation: comprehensive improvements</code>](https://github.com/phase1geo/minder/commit/a5443c60db2388adb67e739646fdb3269338bd2d)
+- [ ] [<code>Merge pull request #661 from maksim77/fix-mermaid-translation</code>](https://github.com/phase1geo/minder/commit/24f5464c4bfff24c36b7d5dc3ce76dcd530697ae)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
@@ -469,6 +472,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>chore: Remove extra single quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c52203aee947fbf47406b098b72f2a1d290d5712)
 - [ ] [<code>switchboard: Update switchboard.git to 8.0.3 (#322)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/147cbbe8bcfebe43abb6155f8b6e4faa720f29c4)
+- [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#323)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c3ca4d2a0cb506819bbca3c705dbd8f512340c16)
 
 #### [planify](https://github.com/alainm23/planify): [4.13.2 → HEAD](https://github.com/alainm23/planify/compare/4.13.2...HEAD)
 
@@ -477,6 +481,78 @@
 - [ ] [<code>Merge pull request #1669 from alainm23/fix/1590</code>](https://github.com/alainm23/planify/commit/3a425a9eb83f1750c9285c81cf0e4b0dd023b696)
 - [ ] [<code>fix(i18n): incorrect translations corrected and new entries added</code>](https://github.com/alainm23/planify/commit/88c15e7616c8a24e7db37bcc464973a9a3b7d6ea)
 - [ ] [<code>Merge pull request #1670 from VastSea0/patch-2</code>](https://github.com/alainm23/planify/commit/02e3dd8cad5f58c8434e5220d743891263dce0d2)
+- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/alainm23/planify/commit/8b54d0477f9329eb6b30db4026d6b508cf47f235)
+- [ ] [<code>add new title</code>](https://github.com/alainm23/planify/commit/dadfde08c01bceee37f4b7fdde3143a710d65c0c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1674 from alainm23/feat/headerbar-clamp</code>](https://github.com/alainm23/planify/commit/09c67b35cf93bd351b90cee698015fed78e9967b)
+- [ ] [<code>Merge pull request #1672 from alainm23/dependabot/github_actions/actions/checkout-5</code>](https://github.com/alainm23/planify/commit/14c4c9158f1968d064100cad33ce5eb8073b8710)
+- [ ] [<code>improve source view</code>](https://github.com/alainm23/planify/commit/cd13c0ef36c68d966ccf20c22f4ce47044590afd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1677 from alainm23/feat/source-view</code>](https://github.com/alainm23/planify/commit/b4251cebe4416cdd41bdfe14443b9118dd9c5bcd)
+- [ ] [<code>use Adw.ToggleGroup</code>](https://github.com/alainm23/planify/commit/a4013ab9f5d47cba420b88ea8b3ab181b97628c2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into feat/view-type-toggle-group</code>](https://github.com/alainm23/planify/commit/0639766dc1fbced8afbcb975cb305fce1ab538b7)
+- [ ] [<code>Merge pull request #1678 from alainm23/feat/view-type-toggle-group</code>](https://github.com/alainm23/planify/commit/84592fa640dabf22b27846ca170db6ea6f5a360c)
+- [ ] [<code>use one item</code>](https://github.com/alainm23/planify/commit/ca5cfe8a88dfcc432ca64cebca479ae2a439c2d4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1679 from alainm23/feat/expand-collapse</code>](https://github.com/alainm23/planify/commit/edecfca6f9e6d51fb80ae14038923f181f05e9ed)
+- [ ] [<code>update sidebar icon</code>](https://github.com/alainm23/planify/commit/fd64b9ee2b0ad25bfcd3f1327342513a78620404)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1680 from alainm23/feat/sidebar-icon</code>](https://github.com/alainm23/planify/commit/4728c12a293e0f7327895d8d4442861fda83d88d)
+- [ ] [<code>remove granite</code>](https://github.com/alainm23/planify/commit/8049a8469ccafb97a15d8687d92737f2a4827d25)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Merge pull request #1681 from alainm23/feat/remove-granite</code>](https://github.com/alainm23/planify/commit/ea5c789edaeb667e1d2ad0c80a85a99d2bf5d22b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add "reminder" and "reminders" search terms to desktop file</code>](https://github.com/alainm23/planify/commit/f228717c280e30d707cd9331722ea9fb0a9b7500)
+- [ ] [<code>Merge pull request #1682 from OutCraft-Mods/patch-1</code>](https://github.com/alainm23/planify/commit/262d2d7a09de4a3c37ff8945bc81e5c419b8c0e4)
+- [ ] [<code>improe themes</code>](https://github.com/alainm23/planify/commit/1af51c21631739abc0c1d0fb152125e7d7bed76a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update from master</code>](https://github.com/alainm23/planify/commit/495ce104c1202c7552163009bb7f4da6d245266d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: retain last used project in add dialog</code>](https://github.com/alainm23/planify/commit/892339192c0679971231acc8bc27477e4fafe656)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add new design</code>](https://github.com/alainm23/planify/commit/589b1a2faa12a4ceb9bf41d4ac37fd738f16e079)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1683 from xxfogs/master</code>](https://github.com/alainm23/planify/commit/45f6c371a9611be63d1027ec279cb901eba3d046)
+- [ ] [<code>Merge pull request #1684 from alainm23/feat/redesign-appearance-page</code>](https://github.com/alainm23/planify/commit/fdf8514ba3315bdbf6a0c5f3302b899bd47b5abf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update design</code>](https://github.com/alainm23/planify/commit/07e158c130f26b3f6db2220b955af598a2c45d86)
+- [ ] [<code>Merge pull request #1685 from alainm23/feat/source-view</code>](https://github.com/alainm23/planify/commit/11a803ecbe27bb55880a24e5d18e2a38f506b38f)
+- [ ] [<code>replace dim-label</code>](https://github.com/alainm23/planify/commit/4c220748ac1da766f70722eb3fe8d63c7113da3a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1686 from alainm23/feat/replace-dim-label</code>](https://github.com/alainm23/planify/commit/a6f132ad3c9931bd7692dde5bd6c54a54932ddf3)
+- [ ] [<code>fix account view</code>](https://github.com/alainm23/planify/commit/05fdd0948b91c1509e129c5b0ac4508ba21196ca)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1687 from alainm23/fix/source-view-label</code>](https://github.com/alainm23/planify/commit/d590fc50ddf78ab02641c0d61f68976666b2b412)
+- [ ] [<code>fix dnd order</code>](https://github.com/alainm23/planify/commit/0c07d11ddd252c38093c2bdffd4a3435a8b16c02)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1688 from alainm23/fix/dnd-widget</code>](https://github.com/alainm23/planify/commit/2ef106d083f52f98e377cf3f1d6cc5deb600bb5d)
+- [ ] [<code>fix dnd order</code>](https://github.com/alainm23/planify/commit/947f414baf26429bdee0979ecb4cb7567c58987c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into fix/dnd-widget</code>](https://github.com/alainm23/planify/commit/5e0c75e6d06209b2710d0bb0fb5b249da365cb1f)
+- [ ] [<code>Merge pull request #1689 from alainm23/fix/dnd-widget</code>](https://github.com/alainm23/planify/commit/03450f230804a76443b2c9b89fb9a0656f30316b)
+- [ ] [<code>fix dnd project row</code>](https://github.com/alainm23/planify/commit/573f60efc8501673490bb4b451f4b8c06ac6ddc6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into feat/project-dnd</code>](https://github.com/alainm23/planify/commit/5b043eb6a4dd430ff046f1360bcb8e1de60fd6b5)
+- [ ] [<code>Fix syncing twice at startup</code>](https://github.com/alainm23/planify/commit/f9be4996b2818b18e8c35ffbc9f47fa3063d9e2d)
+- [ ] [<code>Merge pull request #1691 from byquanton/fix/double-sync</code>](https://github.com/alainm23/planify/commit/214122e265f2b3fc1c21db25dc93f41da5d2e04c)
+- [ ] [<code>fix drop last element</code>](https://github.com/alainm23/planify/commit/1991918e9331a90e62de1579945178c61eacc234)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into feat/project-dnd</code>](https://github.com/alainm23/planify/commit/1c734f083cf2707e90684852689782d64435155a)
+- [ ] [<code>fix valid itemrow type</code>](https://github.com/alainm23/planify/commit/fc07eabfb4b6dfef9bd2c9758f67cb5917002f8a)
+- [ ] [<code>remove motion controller subprojectsd</code>](https://github.com/alainm23/planify/commit/6c5dd835b57bd636ca170211c96eff5f68da9799)
+- [ ] [<code>remove motion controller subprojectsd</code>](https://github.com/alainm23/planify/commit/cb218f3b0c9e63c7d646118d601bba86c6379ce4)
+- [ ] [<code>update from master</code>](https://github.com/alainm23/planify/commit/2be8596332ec021bb59baef9f74c4776d6914ba1)
+- [ ] [<code>fix items order</code>](https://github.com/alainm23/planify/commit/935bf2f303c4e61c6de10a8b0c3b032a80babfe4)
+- [ ] [<code>Merge pull request #1694 from alainm23/feat/project-dnd</code>](https://github.com/alainm23/planify/commit/de282c2f661125e193447424d9417e71fbb7aa05)
+- [ ] [<code>fix fatal-criticals</code>](https://github.com/alainm23/planify/commit/1f4fadf1adfa583cd79009a30066763bd972c54d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix fatal-criticals</code>](https://github.com/alainm23/planify/commit/23938ce1bfc753d76b614dc0610efeff938470ef)
+- [ ] [<code>fix fatal-criticals</code>](https://github.com/alainm23/planify/commit/1c7c27e37cead86883f733342678ff8afe14c5fb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1699 from alainm23/fix/fatal-criticals</code>](https://github.com/alainm23/planify/commit/a150a3f283cf4dfdcaa197c38d79f7b4731cf294)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
