@@ -553,6 +553,11 @@
 - [ ] [<code>fix fatal-criticals</code>](https://github.com/alainm23/planify/commit/1c7c27e37cead86883f733342678ff8afe14c5fb)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1699 from alainm23/fix/fatal-criticals</code>](https://github.com/alainm23/planify/commit/a150a3f283cf4dfdcaa197c38d79f7b4731cf294)
+- [ ] [<code>add font scale</code>](https://github.com/alainm23/planify/commit/96fa70410e510854d0e22b75598689a7a0f11b11)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update theme</code>](https://github.com/alainm23/planify/commit/0ece61b03b9b9b622baf0f527cdc5b596fe4920d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1701 from alainm23/feat/font-scale</code>](https://github.com/alainm23/planify/commit/4e1578308ab5c177d78a5a51431e4a585cb5197c)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
