@@ -558,6 +558,8 @@
 - [ ] [<code>update theme</code>](https://github.com/alainm23/planify/commit/0ece61b03b9b9b622baf0f527cdc5b596fe4920d)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Merge pull request #1701 from alainm23/feat/font-scale</code>](https://github.com/alainm23/planify/commit/4e1578308ab5c177d78a5a51431e4a585cb5197c)
+- [ ] [<code>refactor datetime widget</code>](https://github.com/alainm23/planify/commit/25285aef74b8e4b2e23f6d061850799add2c16e8)
+- [ ] [<code>Merge pull request #1703 from alainm23/fix/1671</code>](https://github.com/alainm23/planify/commit/0071e10a27226c25f9e2d17a3eac654d45f02635)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
