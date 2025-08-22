@@ -90,22 +90,8 @@
 - [ ] [<code>SourceRow: always show buttons (#857)</code>](https://github.com/elementary/calendar/commit/295bdd0cd20bab30fa33ff45e04cd05456918b1b)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calendar/commit/685638c07f3ba64cba8de20a0282973858f48096)
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.1 → HEAD](https://github.com/elementary/camera/compare/8.0.1...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
-- [ ] [<code>Actions: bump flatpak to 6.4 (#285)</code>](https://github.com/elementary/camera/commit/7c1bb10baefb3275d9884280eff845ee72b6a38e)
-- [ ] [<code>fix: pin cargo-c version (#286)</code>](https://github.com/elementary/camera/commit/71686db53871dfc0770ef77e21bdb423c1a30efb)
-- [ ] [<code>CI: run arm workflows on arm runner (#287)</code>](https://github.com/elementary/camera/commit/1631e4a6bb19cd475de4b3226773e79763574f3a)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#289)</code>](https://github.com/elementary/camera/commit/62147b5931345f38f23ea48e1d0e03cbb018bace)
-- [ ] [<code>Flatpak: Fix warning about redirect (#290)</code>](https://github.com/elementary/camera/commit/8e5a010ab7413997d21d77f78523133b824bd456)
-- [ ] [<code>MainWindow: markup primary menubutton (#291)</code>](https://github.com/elementary/camera/commit/91b53383a2912f7e1bef0447a237b5e93fba6143)
-- [ ] [<code>Resource: add view-* icons (#292)</code>](https://github.com/elementary/camera/commit/4d87ed693f6e21a3b58f28633988edecb86ad9de)
-- [ ] [<code>Actions: Use main branch (#294)</code>](https://github.com/elementary/camera/commit/9642e22cbcf9276036b2797d004c91f7feb9a7a5)
-- [ ] [<code>Bump platform to 8.2 (#288)</code>](https://github.com/elementary/camera/commit/d6bcb9acecdf72f13b30b5eebf7dab9bc1e477c7)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#295)</code>](https://github.com/elementary/camera/commit/5b47945e3ca69d9a71f4f073204403c4855ff8ca)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/camera/commit/7f93117c77e5711aceaaf74e791fcfc8a0f72407)
-- [ ] [<code>Release 8.0.2 (#296)</code>](https://github.com/elementary/camera/commit/46e6bcd298653bcaafddfe2f0f9321d5040968f5)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.0 → HEAD](https://github.com/elementary/code/compare/8.1.0...HEAD)
 
@@ -312,23 +298,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/terminal/commit/aa3694f7e6fd7ab4a218bd2d11239c1a72745e07)
 - [ ] [<code>Focus tab when opening new window (#903)</code>](https://github.com/elementary/terminal/commit/cb365fe7b95d70f342f02daaa10b9e50c283408c)
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.1 → HEAD](https://github.com/elementary/videos/compare/8.0.1...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
-- [ ] [<code>fix: pin cargo-c version (#398)</code>](https://github.com/elementary/videos/commit/e41da5d3266bacd318d8cceb1c0b1ab695b679be)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#395)</code>](https://github.com/elementary/videos/commit/518bd7e4bf2222bd04473aae7ded3212d99e4e50)
-- [ ] [<code>CI: run arm workflows on arm runner (#397)</code>](https://github.com/elementary/videos/commit/15178cf5c6d515be42733e4b194733d7abd669f0)
-- [ ] [<code>Flatpak: Fix warning about redirect</code>](https://github.com/elementary/videos/commit/eaaec81c9b07ea6966cb16520c938d4ef1affab4)
-- [ ] [<code>Use Gtk.FileDialog (#400)</code>](https://github.com/elementary/videos/commit/3d329ba143a0a3284b8a788e0a766db2eab327c3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>BottomBar: mark primary menu (#402)</code>](https://github.com/elementary/videos/commit/bead09170b31c92ee8ba198154624527cf98e70d)
-- [ ] [<code>Actions: Use main branch (#405)</code>](https://github.com/elementary/videos/commit/cf639419d5e86565340127d6378a5715e0ec0fb4)
-- [ ] [<code>Flatpak: bump platform to 8.2 (#404)</code>](https://github.com/elementary/videos/commit/ffec4269ea7daf7cc64b3b22687fd8ce10e185c1)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/videos/commit/a184f856f1774a09247bc8fd4a86d33989289089)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#407)</code>](https://github.com/elementary/videos/commit/f925995f286ed3368d26d305b2513c0f413dd7e6)
-- [ ] [<code>Release 8.0.2 (#408)</code>](https://github.com/elementary/videos/commit/ad7906835fe12839e0bc04cfbcc091aacb3a8b8e)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
 
