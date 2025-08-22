@@ -560,6 +560,12 @@
 - [ ] [<code>Merge pull request #1701 from alainm23/feat/font-scale</code>](https://github.com/alainm23/planify/commit/4e1578308ab5c177d78a5a51431e4a585cb5197c)
 - [ ] [<code>refactor datetime widget</code>](https://github.com/alainm23/planify/commit/25285aef74b8e4b2e23f6d061850799add2c16e8)
 - [ ] [<code>Merge pull request #1703 from alainm23/fix/1671</code>](https://github.com/alainm23/planify/commit/0071e10a27226c25f9e2d17a3eac654d45f02635)
+- [ ] [<code>add code</code>](https://github.com/alainm23/planify/commit/a7ecf76b100978a447cadbbcc65c884d40504f64)
+- [ ] [<code>Merge pull request #1705 from alainm23/feat/refactor-datetime</code>](https://github.com/alainm23/planify/commit/12f59296f6f6fff8705d40fd94f71f02aa3b6bac)
+- [ ] [<code>add search entry (#1706)</code>](https://github.com/alainm23/planify/commit/d68c80e7e94e028a5ee8c1f18947edf0cfc0ce6a)
+- [ ] [<code>add today to scheduled (#1707)</code>](https://github.com/alainm23/planify/commit/35ad68ed7f15f86340299fd9ef104cad335bff8e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix (#1709)</code>](https://github.com/alainm23/planify/commit/856227ab29c48686fe720a994d19b0632361f2fe)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
