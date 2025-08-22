@@ -872,6 +872,7 @@
 - [ ] [<code>wayland: panel: Delay hiding panel window when screen layout changes</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d2fb4e093588d3322f1c54ae2fc9e4e6d6471aab)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-panel/commit/31ed626241acec666634e8061990cbe83a6a0df3)
 - [ ] [<code>separator: Allow manual size as opposed to just fixed or automatic size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf72a654f675377d25ada3cc8002ba98053fde14)
+- [ ] [<code>libxfce4panel: Clarify doc</code>](https://github.com/xfce-mirror/xfce4-panel/commit/0ae674cb17ed8d1df4522da69360da2f95c1dc79)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
