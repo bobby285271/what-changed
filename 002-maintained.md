@@ -566,6 +566,8 @@
 - [ ] [<code>add today to scheduled (#1707)</code>](https://github.com/alainm23/planify/commit/35ad68ed7f15f86340299fd9ef104cad335bff8e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix (#1709)</code>](https://github.com/alainm23/planify/commit/856227ab29c48686fe720a994d19b0632361f2fe)
+- [ ] [<code>add fly to target (#1710)</code>](https://github.com/alainm23/planify/commit/5668444d59ffdec70f77d49c5461dcf99453836a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
