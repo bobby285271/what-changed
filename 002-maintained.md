@@ -574,6 +574,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>add tip popover (#1713)</code>](https://github.com/alainm23/planify/commit/cf60d5fae9debdbbefcd4f5f947c735a9871e6a6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add markdown processor (#1715)</code>](https://github.com/alainm23/planify/commit/d1d2a153339b4c8478b35edc6fc96719d844a63c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
