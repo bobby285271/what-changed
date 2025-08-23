@@ -23,6 +23,9 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#2318)</code>](https://github.com/elementary/appcenter/commit/6e5cd645216a80244344d76652bb3a36535e34b3)
 - [ ] [<code>Rewording End of life warning box with a simpler description (#2244) (#2320)</code>](https://github.com/elementary/appcenter/commit/b1c0ecdb491ec66c4deda3e00dd788a21c807b47)
 - [ ] [<code>GResource: add card payment icons (#2321)</code>](https://github.com/elementary/appcenter/commit/9e37d7a8255031d3ecd7afff554cd27d84a09ec2)
+- [ ] [<code>Adding more license details on the license link box (#2241) (#2319)</code>](https://github.com/elementary/appcenter/commit/68b1f5c80647ecf74bcee7d0d1541b1f560c03a7)
+- [ ] [<code>Update updated label every minute (#2311)</code>](https://github.com/elementary/appcenter/commit/ec4d08674b2c0cd7a7d8ada79b6d71babe040c7b)
+- [ ] [<code>LinkListBox: add warning and missing icons for licenses (#2322)</code>](https://github.com/elementary/appcenter/commit/93efdef51834a4ecb6fe6478cc66eaa635e34338)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -240,6 +243,7 @@
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.2 → HEAD](https://github.com/elementary/screenshot/compare/8.0.2...HEAD)
 
 - [ ] [<code>patch: fix screenshot crashing when image height exceeds width enough (#317)</code>](https://github.com/elementary/screenshot/commit/36414c9728f758a974595c1a96a14c0918b763b6)
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#318)</code>](https://github.com/elementary/screenshot/commit/06b7b685d88b4ecb8c94e228ee4696841b92e8e4)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -297,6 +301,9 @@
 - [ ] [<code>Prepare release 7.1.1 - update (#900)</code>](https://github.com/elementary/terminal/commit/e7ab4f05b965df2f5b77d5423b541a04e269d2e9)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/terminal/commit/aa3694f7e6fd7ab4a218bd2d11239c1a72745e07)
 - [ ] [<code>Focus tab when opening new window (#903)</code>](https://github.com/elementary/terminal/commit/cb365fe7b95d70f342f02daaa10b9e50c283408c)
+- [ ] [<code>Release version 7.1.1 (#905)</code>](https://github.com/elementary/terminal/commit/f10d9c379745163b852b3c3f14ff18b4fa7bc586)
+  - <sub>Tags: <code>7.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -479,6 +486,10 @@
 - [ ] [<code>Add symlinks for Inkscape lock/unlock icons (#1370)</code>](https://github.com/elementary/icons/commit/82547596308e32687ba5a511c7b874b1221a2805)
 - [ ] [<code>Add 16px document-properties (#1374)</code>](https://github.com/elementary/icons/commit/c71216a8e8e5b5cec1c67d77d9646c1d164d44f8)
 - [ ] [<code>Add 16px preferences-desktop-keyboard/accessories-character-map (#1375)</code>](https://github.com/elementary/icons/commit/c9544341e5a426aea0cd75c3c0658bb96b9d2331)
+- [ ] [<code>Add 16px preferences-system (#1373)</code>](https://github.com/elementary/icons/commit/a5ca576d4c3319af7ba3f8db52318ad5a103fe67)
+- [ ] [<code>Add dialog-extensions symlink for Inkscape (#1376)</code>](https://github.com/elementary/icons/commit/4f7f94b3c572686e6a4c4271f022e8a9ec080117)
+- [ ] [<code>Add dialog-memory symlink for Inkscape (#1377)</code>](https://github.com/elementary/icons/commit/fec1d07b7a8668bbd6d888f4c8bd861223ffd322)
+- [ ] [<code>Add edit-undo-history symlink for Inkscape (#1378)</code>](https://github.com/elementary/icons/commit/041758e73907043dfcb99a7b3d6d5c0815c52cc1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -651,6 +662,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: Use main branch (#632)</code>](https://github.com/elementary/wingpanel/commit/25b057e9b5554bd463d01bff882924cdbf0426ac)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#634)</code>](https://github.com/elementary/wingpanel/commit/1bc8ab6b1df1c9e7ad44fbffa8cc1fd4abd07706)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
