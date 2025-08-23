@@ -202,6 +202,8 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
+- [ ] [<code>Add missing document-edit-symbolic for libadwaita.</code>](https://github.com/linuxmint/mint-x-icons/commit/ea30f3611fc677aee5d1bfea2e0fb4a0750dc257)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.5...HEAD)
 
@@ -275,6 +277,8 @@
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
+- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
