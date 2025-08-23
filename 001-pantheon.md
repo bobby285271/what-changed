@@ -1032,6 +1032,7 @@
 - [ ] [<code>Actions: Use main branch (#900)</code>](https://github.com/elementary/granite/commit/d0725168da4a35be687cbee8e4ba2487b016553c)
 - [ ] [<code>Utils: markup_accel_tooltip: Correctly markup documentation (#901)</code>](https://github.com/elementary/granite/commit/4a84961b1b1e25d1faa3aa765e4ea8d26237f824)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/granite/commit/e0baa3a03c26e7a9ab3734a81e3c09340307d7f1)
+- [ ] [<code>markup_accel_tooltip: Handle null-terminated accels (#903)</code>](https://github.com/elementary/granite/commit/72d4771dbdb974753e7c24c2f4e82febffcfcc7a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
