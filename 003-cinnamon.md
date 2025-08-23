@@ -248,8 +248,9 @@
 - [ ] [<code>add --select compatibility flag (#3589)</code>](https://github.com/linuxmint/nemo/commit/e21b2846642cf8664739665817c165d25db65acb)
 - [ ] [<code>nemo-action.c: Fix loading of absolute icon paths.</code>](https://github.com/linuxmint/nemo/commit/ad441374ca5e74bf70c791d14c4501ef54650773)
 - [ ] [<code>nemo-action.c: Support icons provided by Spices.</code>](https://github.com/linuxmint/nemo/commit/f13caea2c8ba367f9e28faf57a44a9a6a1f1df90)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nemo-search-engine-advanced.c: Support wildcard mimetypes.</code>](https://github.com/linuxmint/nemo/commit/5e4e84bc29e83e19f45bc0b6057edde4cb37cb0e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
