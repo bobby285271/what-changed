@@ -568,6 +568,12 @@
 - [ ] [<code>fix (#1709)</code>](https://github.com/alainm23/planify/commit/856227ab29c48686fe720a994d19b0632361f2fe)
 - [ ] [<code>add fly to target (#1710)</code>](https://github.com/alainm23/planify/commit/5668444d59ffdec70f77d49c5461dcf99453836a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix (#1711)</code>](https://github.com/alainm23/planify/commit/1191e8be177267eaba667166abf7bc3c12009abb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix ctrl destroy (#1712)</code>](https://github.com/alainm23/planify/commit/62272fe82c13d7a8efdc6b8977a494fcc6a2c86d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add tip popover (#1713)</code>](https://github.com/alainm23/planify/commit/cf60d5fae9debdbbefcd4f5f947c735a9871e6a6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
