@@ -602,6 +602,12 @@
 - [ ] [<code>Provide DnD mode options (#1648)</code>](https://github.com/xfce-mirror/thunar/commit/9a815920eaea80ef8aa0e7c7dc8b083c6a7ebf45)
 - [ ] [<code>By default always show the DnD menu (#1648)</code>](https://github.com/xfce-mirror/thunar/commit/1927dab7ac5103d0e2dd0f4ce7ef804eff7ff526)
 - [ ] [<code>Fix always typo in thunar_file_drag_mode_get_type</code>](https://github.com/xfce-mirror/thunar/commit/b2d34fdd5ba9afad9dfadab965392b3acae72a52)
+- [ ] [<code>Add an integrated, feature-rich terminal panel</code>](https://github.com/xfce-mirror/thunar/commit/445abc043ef9d368d281111c57ef6c41e30dcf61)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Properly (re)connect view signals on view-switch</code>](https://github.com/xfce-mirror/thunar/commit/e36436be53a3370d8a5bb678d97e19fc71ae2906)
+- [ ] [<code>TerminalWidget: Re-bind "current-directory" on view switch</code>](https://github.com/xfce-mirror/thunar/commit/a3031b05c205ba2275d04da95ed41156dc469f6c)
+- [ ] [<code>Go back in history when opening a directory signals error (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/72d40b0761ff854526dd32a131a8e2553736e2a5)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
