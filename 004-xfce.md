@@ -608,6 +608,7 @@
 - [ ] [<code>Properly (re)connect view signals on view-switch</code>](https://github.com/xfce-mirror/thunar/commit/e36436be53a3370d8a5bb678d97e19fc71ae2906)
 - [ ] [<code>TerminalWidget: Re-bind "current-directory" on view switch</code>](https://github.com/xfce-mirror/thunar/commit/a3031b05c205ba2275d04da95ed41156dc469f6c)
 - [ ] [<code>Go back in history when opening a directory signals error (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/72d40b0761ff854526dd32a131a8e2553736e2a5)
+- [ ] [<code>Prevent crash when using wrong toplevel widget as Window</code>](https://github.com/xfce-mirror/thunar/commit/9d42bf5b702728818f6252bd74a9b8d912a212a2)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
