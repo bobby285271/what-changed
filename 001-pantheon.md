@@ -281,29 +281,8 @@
 - [ ] [<code>Actions: Use main branch (#417)</code>](https://github.com/elementary/tasks/commit/49ce982c49b09fbd6636d88d7d290e8759d4152c)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/tasks/commit/17d8e0914a6078018d094b929c09085e7a2f7680)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.0 → HEAD](https://github.com/elementary/terminal/compare/7.1.0...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.1 → HEAD](https://github.com/elementary/terminal/compare/7.1.1...HEAD)
 
-- [ ] [<code>SearchToolbar: Modernise, prepare for Gtk4 (#880)</code>](https://github.com/elementary/terminal/commit/8c285650f9953a1b27c4520e03694a60689cd913)
-- [ ] [<code>Unsafepastedialog: Modernise, Gtk4 preparation (#881)</code>](https://github.com/elementary/terminal/commit/23349138727dfe40770e51c0f41ae4d79aa249a9)
-- [ ] [<code>ForegroundProcessDialog: Modernise/Gtk4 preparation (#882)</code>](https://github.com/elementary/terminal/commit/40f11bd38c463e0ecaf64059f818968080c81598)
-- [ ] [<code>Colorpreferencesdialog: Modernise/Gtk4prep (#883)</code>](https://github.com/elementary/terminal/commit/dcb787ad8e0bc333a1dc0a81861079e339cef721)
-- [ ] [<code>TerminalView: Clean/Gtk4 preparation (#886)</code>](https://github.com/elementary/terminal/commit/f82f10a8b6e5f6359ecb5609ede4830649bb8274)
-- [ ] [<code>Application: Gtk4 preparation (#887)</code>](https://github.com/elementary/terminal/commit/856b4a61a18f1d3bcbeef2d38f202242b531b6d1)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>ZoomOverlay: Modernize/gtk4 preparation (#884)</code>](https://github.com/elementary/terminal/commit/f330fd90ec2343ddfd09d3cbb6e6cc47293cb614)
-- [ ] [<code>Mainwindow: Gtk4 preparation (#888)</code>](https://github.com/elementary/terminal/commit/52b6613884062dac6d381fe6dcb2310163232d4a)
-- [ ] [<code>Check for possibly null primary monitor (e.g. in CI) (#893)</code>](https://github.com/elementary/terminal/commit/c22442efbfe5fe7e164740fc4596242603fb10b4)
-- [ ] [<code>Fix incorrect line breaks when pasting/dropping into foreground processes (#862)</code>](https://github.com/elementary/terminal/commit/8f93bc77437e45090e59266c7813436a0903d27b)
-- [ ] [<code>Remove tab process-finished icon on select (#847)</code>](https://github.com/elementary/terminal/commit/7c938ee4311906641ded366f41c29f8b2e2484c2)
-- [ ] [<code>Start appdata for release 7.1.1 (#895)</code>](https://github.com/elementary/terminal/commit/d2c0db172c6acaa110588051cfee8eca017f767b)
-- [ ] [<code>Don't sanitize URI on drop (#894)</code>](https://github.com/elementary/terminal/commit/9b27114dcce68a33e555afd824c5c0c06aed6162)
-- [ ] [<code>No longer set window size from monitor as fallback (#896)</code>](https://github.com/elementary/terminal/commit/9089fa6014783fc34a4207497ec4dadcec63790c)
-- [ ] [<code>Prepare release 7.1.1 - update (#900)</code>](https://github.com/elementary/terminal/commit/e7ab4f05b965df2f5b77d5423b541a04e269d2e9)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/terminal/commit/aa3694f7e6fd7ab4a218bd2d11239c1a72745e07)
-- [ ] [<code>Focus tab when opening new window (#903)</code>](https://github.com/elementary/terminal/commit/cb365fe7b95d70f342f02daaa10b9e50c283408c)
-- [ ] [<code>Release version 7.1.1 (#905)</code>](https://github.com/elementary/terminal/commit/f10d9c379745163b852b3c3f14ff18b4fa7bc586)
-  - <sub>Tags: <code>7.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
