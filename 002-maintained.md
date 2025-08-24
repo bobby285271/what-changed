@@ -577,6 +577,9 @@
 - [ ] [<code>add markdown processor (#1715)</code>](https://github.com/alainm23/planify/commit/d1d2a153339b4c8478b35edc6fc96719d844a63c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>set labels (#1716)</code>](https://github.com/alainm23/planify/commit/ac0b681166d4df2dbc2dd4303e8b06c1a928099f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix (#1717)</code>](https://github.com/alainm23/planify/commit/0886a70c1f30c441ac2f3b1a061e56822c944131)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
