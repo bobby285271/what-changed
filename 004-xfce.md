@@ -24,6 +24,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/exo/commit/e17b2e92a353bb4be0698ceddd3c2b33b946d173)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Make sure "priv->item" never is NULL</code>](https://github.com/xfce-mirror/exo/commit/6f4412b7ac72a3a1099eb081b28e9609c394fa09)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/1e2962b19bb4e6618204330b92f0c7c701ab22a1)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
