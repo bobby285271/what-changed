@@ -323,6 +323,8 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.5 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.5...HEAD)
 
 - [ ] [<code>Add startup check of btrfs-progs version to determine capabilities.</code>](https://github.com/linuxmint/timeshift/commit/71c5dd50087903236381e820f83412e79d877bba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Main.vala: Improve readability of btrfs-progs version check.</code>](https://github.com/linuxmint/timeshift/commit/48590f2b6a777dc775cabc9ded212229bd1c103e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
