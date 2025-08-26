@@ -362,6 +362,7 @@
 - [ ] [<code>Fix Russian translation: Mermaid format name and typo</code>](https://github.com/phase1geo/minder/commit/994c57b27b9ac5c27f2ddb6d140a9e2f8929198a)
 - [ ] [<code>Fix Russian translation: comprehensive improvements</code>](https://github.com/phase1geo/minder/commit/a5443c60db2388adb67e739646fdb3269338bd2d)
 - [ ] [<code>Merge pull request #661 from maksim77/fix-mermaid-translation</code>](https://github.com/phase1geo/minder/commit/24f5464c4bfff24c36b7d5dc3ce76dcd530697ae)
+- [ ] [<code>Fixing issue with selection in backspace method.</code>](https://github.com/phase1geo/minder/commit/fa9c0e6d902d6916453c55c3f8c600e5a2611627)
 
 #### [monitor](https://github.com/stsdc/monitor): [0.17.2 → HEAD](https://github.com/stsdc/monitor/compare/0.17.2...HEAD)
 
