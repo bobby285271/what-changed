@@ -103,6 +103,7 @@
 - [ ] [<code>Rework terminal settings (#1585)</code>](https://github.com/elementary/code/commit/34ba8fbbe44eb2179c66e2eb1800b35b6d2113f6)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Start to prepare appdata for release 8.2.0 (#1642)</code>](https://github.com/elementary/code/commit/a63540001d927f29b45fcaa75b6f030f4e3c0698)
+- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/code/commit/306b976b78a1255f7be2e5632bda727cb0c50dd1)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
