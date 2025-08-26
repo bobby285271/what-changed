@@ -439,6 +439,7 @@
 - [ ] [<code>Styles: remove dim-label override (#451)</code>](https://github.com/stsdc/monitor/commit/4801f0630b30547b554e24d7a9278f2a7ba28644)
 - [ ] [<code>MainWindow: cleanup (#452)</code>](https://github.com/stsdc/monitor/commit/a59bf983543bc3b88d633de32b6f7e07b2a5a5b2)
 - [ ] [<code>SystemStorageView: cleanups (#450)</code>](https://github.com/stsdc/monitor/commit/4fed007567789d2dfee6ddb00b0515d1550a4dab)
+- [ ] [<code>LabelRoundy: rewrite (#449)</code>](https://github.com/stsdc/monitor/commit/e32b5835aefb40250e40fb6410fa20d803bf82b3)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
