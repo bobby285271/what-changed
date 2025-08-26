@@ -244,6 +244,9 @@
 
 - [ ] [<code>patch: fix screenshot crashing when image height exceeds width enough (#317)</code>](https://github.com/elementary/screenshot/commit/36414c9728f758a974595c1a96a14c0918b763b6)
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#318)</code>](https://github.com/elementary/screenshot/commit/06b7b685d88b4ecb8c94e228ee4696841b92e8e4)
+- [ ] [<code>Release 8.0.3 (#319)</code>](https://github.com/elementary/screenshot/commit/62db07e3cd72e2a4709d67cb83f44ea939f88982)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -283,6 +286,12 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.1 → HEAD](https://github.com/elementary/terminal/compare/7.1.1...HEAD)
 
+- [ ] [<code>Only embedded newlines should trigger safe paste warning (#906)</code>](https://github.com/elementary/terminal/commit/948394b734bfa0ba06d4d29a4e3d90d44eaba53c)
+- [ ] [<code>Metainfo: add 7.1.2 release notes (#907)</code>](https://github.com/elementary/terminal/commit/2248c75c35fa214b991612563c52463d8d5ebae5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Metainfo: rename file, add screenshot env, no translate old releases (#908)</code>](https://github.com/elementary/terminal/commit/93c58d1c7e70a168dd94d62f796134f71ff4d24d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>MainWindow: set strict centering in header (#909)</code>](https://github.com/elementary/terminal/commit/e51beb4520697df4875f27b3cead6cb988556937)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -367,6 +376,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#114)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/dd71d9d93f9ca5772dbddc764de9c1f673347cd3)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#115)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d7f135521c2d24ddb0f431c90ae1ceb280fdfa58)
+- [ ] [<code>Plug: rewrite placeholder (#117)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/8ebb9e163d0c0c722b70835ae900f8e0b67537a9)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -428,6 +438,7 @@
 - [ ] [<code>Show sort-indicator in treeviews (#1328)</code>](https://github.com/elementary/stylesheet/commit/ea3618f204c6c40aa755541a3c0ca6793afa42a1)
 - [ ] [<code>focus → focus-visible (#1330)</code>](https://github.com/elementary/stylesheet/commit/3d7e2b74ad8bddb19128bc2afaeaa7e343f8046a)
 - [ ] [<code>Actions: Use main branch (#1331)</code>](https://github.com/elementary/stylesheet/commit/4fe981abd7dfc75ee6f02ad986156d9ad577530c)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#1332)</code>](https://github.com/elementary/stylesheet/commit/96f01dd93785ece040a4794b0526ef3505742b0e)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
