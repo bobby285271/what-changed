@@ -583,6 +583,17 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix (#1717)</code>](https://github.com/alainm23/planify/commit/0886a70c1f30c441ac2f3b1a061e56822c944131)
 - [ ] [<code>Remove invalid css property (#1718)</code>](https://github.com/alainm23/planify/commit/b77f0e006434e8a8f4a7b91026ad2a96002c88be)
+- [ ] [<code>Partial support for adaptive windows (#1721)</code>](https://github.com/alainm23/planify/commit/b0497a3b97d8af9a7dfb8af2590c575a29781653)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix dnd (#1722)</code>](https://github.com/alainm23/planify/commit/fd4a6692583988947e3068adc985a7dfb81d4514)
+- [ ] [<code>fix label update (#1724)</code>](https://github.com/alainm23/planify/commit/500dd2f3e4d620925a2fcf84403eee41109692de)
+- [ ] [<code>update po files (#1725)</code>](https://github.com/alainm23/planify/commit/a1e3f098cce24c60e85cf09e84f29327449f585e)
+- [ ] [<code>add new action (#1726)</code>](https://github.com/alainm23/planify/commit/a90d208932892bc5cc4855f03ae844c390832130)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add new action</code>](https://github.com/alainm23/planify/commit/f8e18427c7e31a330adeb7e2f1754f808637b78f)
+- [ ] [<code>add new action</code>](https://github.com/alainm23/planify/commit/e2b1229b8b3d50003e3bc55275dc891c42aa9d51)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
