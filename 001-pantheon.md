@@ -241,13 +241,8 @@
 - [ ] [<code>main: Remove unused code (#823)</code>](https://github.com/elementary/photos/commit/5543cfd4d0c269fd8d3b3dadaa0d80caf55be2bd)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#824)</code>](https://github.com/elementary/photos/commit/394a6eee1f51e2635f8b1453bb9d1de3e20bc8d8)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.2 → HEAD](https://github.com/elementary/screenshot/compare/8.0.2...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
-- [ ] [<code>patch: fix screenshot crashing when image height exceeds width enough (#317)</code>](https://github.com/elementary/screenshot/commit/36414c9728f758a974595c1a96a14c0918b763b6)
-- [ ] [<code>Metainfo: add 8.0.3 release notes (#318)</code>](https://github.com/elementary/screenshot/commit/06b7b685d88b4ecb8c94e228ee4696841b92e8e4)
-- [ ] [<code>Release 8.0.3 (#319)</code>](https://github.com/elementary/screenshot/commit/62db07e3cd72e2a4709d67cb83f44ea939f88982)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
