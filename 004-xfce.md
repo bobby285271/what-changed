@@ -674,6 +674,7 @@
 - [ ] [<code>cover-thumbnailer: Capture regex matchinfo for series episodes</code>](https://github.com/xfce-mirror/tumbler/commit/fd32d11c683d137a34f9052529a0d3f8cf9efc30)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/tumbler/commit/b93e25f6ec4e421c92c07c0e3b7ef5f04a23008c)
 - [ ] [<code>xdg-cache: Fix TumblerThumbnailFlavor leaks</code>](https://github.com/xfce-mirror/tumbler/commit/9aba3a65b7d008d0ae1405be23c4722b7cbb93c2)
+- [ ] [<code>ffmpeg-thumbnailer: Update mime type list from upstream desktop file</code>](https://github.com/xfce-mirror/tumbler/commit/abf36e9feca9aff1bc1dac500018da8673680e28)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
