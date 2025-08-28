@@ -611,6 +611,7 @@
 - [ ] [<code>Go back in history when opening a directory signals error (#1538)</code>](https://github.com/xfce-mirror/thunar/commit/72d40b0761ff854526dd32a131a8e2553736e2a5)
 - [ ] [<code>Prevent crash when using wrong toplevel widget as Window</code>](https://github.com/xfce-mirror/thunar/commit/9d42bf5b702728818f6252bd74a9b8d912a212a2)
 - [ ] [<code>Fix regression introduced with terminal binding (#1694) (Closes #1694)</code>](https://github.com/xfce-mirror/thunar/commit/797ca0cbd65aade40ccbec80e34ef3411485118c)
+- [ ] [<code>Fix regression to toggle hidden file visibility</code>](https://github.com/xfce-mirror/thunar/commit/ada7b283f4e30264eb1d2ad252dce8bbd0f8c196)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
