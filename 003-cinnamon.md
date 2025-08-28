@@ -193,15 +193,19 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>apps: Sync from mint-y-icons.</code>](https://github.com/linuxmint/mint-l-icons/commit/c30e6ddafb376a621edea5c3151effdc9bc26ff5)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-l-icons/commit/b046353fa23951746e9bfa3d54f745819802649e)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
 - [ ] [<code>libadwaita-1.5: Adapt window controls to match Gtk3.</code>](https://github.com/linuxmint/mint-l-theme/commit/eb5aaaa73740a1f0553d3125df0958997746837d)
+- [ ] [<code>2.0.1</code>](https://github.com/linuxmint/mint-l-theme/commit/a198ddd0a74fe30fa2918855e278c12079aaa0e2)
+  - <sub>Tags: <code>2.0.1</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.1...HEAD)
 
 - [ ] [<code>Mint-Y: Improve dark checkbox and radio borders and regen assets.</code>](https://github.com/linuxmint/mint-themes/commit/6c4a01bd7e1cead74c19db030e6cf498a1c9afcb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.3.2</code>](https://github.com/linuxmint/mint-themes/commit/665e7b56df9ebf8024a018d5c6360e24db0e3763)
+  - <sub>Tags: <code>2.3.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
@@ -212,6 +216,8 @@
 
 - [ ] [<code>Restore window-close-symbolic.svg.</code>](https://github.com/linuxmint/mint-y-icons/commit/f8a33d9d2ca2e6b40433163504b78df019ed0962)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.6</code>](https://github.com/linuxmint/mint-y-icons/commit/c550a0aaa203c8df2876994a8a7cf0849dda1761)
+  - <sub>Tags: <code>1.8.6</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
