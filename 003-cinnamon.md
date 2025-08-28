@@ -2,13 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [3.8 → HEAD](https://github.com/linuxmint/bulky/compare/3.8...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [3.9 → HEAD](https://github.com/linuxmint/bulky/compare/3.9...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/e3e7a71b3519d03f6d0f2dcd7a402a9891c3962d)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/2fad0d17f9cf982c81ef3b1fb8a91825c31ed007)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.9</code>](https://github.com/linuxmint/bulky/commit/34a6c49d3041e6e94cda34c8670a74dca510c6c6)
-  - <sub>Tags: <code>3.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.10 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.10...HEAD)
 
@@ -296,21 +291,11 @@
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.2.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.9...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/8af892a25acbc4febc8b56d1b95f32f22e77e0d9)
-- [ ] [<code>4.4.0</code>](https://github.com/linuxmint/xreader/commit/ddbf00b6e7f027604695af97ddbe18766c4c8863)
-  - <sub>Tags: <code>4.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.11 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.11...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
 
-- [ ] [<code>Revert 7a7b55b (add mutex locks...)</code>](https://github.com/linuxmint/xviewer/commit/b6586374c7ccf55d1e1249ade50bf1574c9d36fd)
-- [ ] [<code>misc: Avoid some navigation warnings that can crop up when images</code>](https://github.com/linuxmint/xviewer/commit/6b8148fd83628fdd6cb5cf4712b01102407d05fc)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/bc9afc20347065aac6a03001c11ffcabbe81ac2e)
-- [ ] [<code>3.4.12</code>](https://github.com/linuxmint/xviewer/commit/240b5cd004c6a61ca5d790f15a1bbaaa210d8518)
-  - <sub>Tags: <code>3.4.12</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
@@ -364,12 +349,8 @@
   - <sub>Tags: <code>25.0.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.8.3 → HEAD](https://github.com/linuxmint/xed/compare/3.8.3...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.8.4 → HEAD](https://github.com/linuxmint/xed/compare/3.8.4...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/4d59b3d30fad12f1ef6a5343156e5507643d3baa)
-- [ ] [<code>3.8.4</code>](https://github.com/linuxmint/xed/commit/098baa63a9926fe20961b2bc481766f8dc3bca72)
-  - <sub>Tags: <code>3.8.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
 
