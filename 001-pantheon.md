@@ -294,6 +294,7 @@
 - [ ] [<code>Metainfo: rename file, add screenshot env, no translate old releases (#908)</code>](https://github.com/elementary/terminal/commit/93c58d1c7e70a168dd94d62f796134f71ff4d24d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainWindow: set strict centering in header (#909)</code>](https://github.com/elementary/terminal/commit/e51beb4520697df4875f27b3cead6cb988556937)
+- [ ] [<code>Simplify make restorable (#910)</code>](https://github.com/elementary/terminal/commit/d39882c637fc1e6ede66e6d1590f37f42d01a44b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
