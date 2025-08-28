@@ -26,6 +26,8 @@
 - [ ] [<code>Adding more license details on the license link box (#2241) (#2319)</code>](https://github.com/elementary/appcenter/commit/68b1f5c80647ecf74bcee7d0d1541b1f560c03a7)
 - [ ] [<code>Update updated label every minute (#2311)</code>](https://github.com/elementary/appcenter/commit/ec4d08674b2c0cd7a7d8ada79b6d71babe040c7b)
 - [ ] [<code>LinkListBox: add warning and missing icons for licenses (#2322)</code>](https://github.com/elementary/appcenter/commit/93efdef51834a4ecb6fe6478cc66eaa635e34338)
+- [ ] [<code>Add a pretty error icon instead of the broken one (Bug #2240) (#2323)</code>](https://github.com/elementary/appcenter/commit/f3b6a9e06b61e02f72ccf066cfd3199a6b1ac6df)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -41,6 +43,7 @@
 - [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/calculator/commit/87c04bdd3bfc00a4a96c17ed36c605dfe3ae1e01)
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#286)</code>](https://github.com/elementary/calculator/commit/fd316a2d07c3d0192a1d898d989482e14faa4f7f)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calculator/commit/3a452c56a695aef5b3a2189906d3024bf172a5f8)
+- [ ] [<code>Update screenshots</code>](https://github.com/elementary/calculator/commit/026c4ce029bf527e3b4ae95619d055ffe6a5de4d)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -137,6 +140,8 @@
 - [ ] [<code>FileOperations: Re-escape uris from Clipboard or DNDHandler before use in fileoperations (#2616)</code>](https://github.com/elementary/files/commit/0ae11576c34d1fd12863344bd0c888596cff9d39)
 - [ ] [<code>Update metainfo for latest commit(s) (#2633)</code>](https://github.com/elementary/files/commit/0e08272a988edc7cef14638f9ec3645f22bf375c)
 - [ ] [<code>Set no_show_all on empty_label to avoid unintended display (#2634)</code>](https://github.com/elementary/files/commit/bda1e7c76ea59dd98b752d56e9834d4c9cdf5370)
+- [ ] [<code>Do not unquote dropped and pasted uris from uri_list (#2638)</code>](https://github.com/elementary/files/commit/d55c3d4074cd8c00ad9cff782e5fed838ebfb29a)
+- [ ] [<code>Update metainfo for latest commit, update intended release date (#2639)</code>](https://github.com/elementary/files/commit/586df559e1ff7af0737d8bc0eb5c170d3f7d55db)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -243,6 +248,7 @@
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
+- [ ] [<code>Flatpak: add device=dri (#322)</code>](https://github.com/elementary/screenshot/commit/222d778e7e19c09d6a61e9858af96c8578f473c3)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -724,6 +730,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/058d353f983bc2ba4d72c6b265c52ef58799e282)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#232)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/3ee74a63076fd712a96df56314bfd419e9dc40c9)
+- [ ] [<code>Use settings from Daemon (#228)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/1b1b0e3385b9475837d02df7bf952b2255ca9572)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
