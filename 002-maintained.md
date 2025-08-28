@@ -594,6 +594,38 @@
 - [ ] [<code>add new action</code>](https://github.com/alainm23/planify/commit/e2b1229b8b3d50003e3bc55275dc891c42aa9d51)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Delete .github/workflows/gettext.yml</code>](https://github.com/alainm23/planify/commit/44edaa0a2d5ffe6676625cdf880f79252ca8f64d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/b2e5d6c8a00009489f80ba878bd8875b57d24e9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/3127c17782ff64ea7c009519526221456971d25a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/6d263b055394f773503296f4984d3b81b8c58252)
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/4ecfac89e7e30fe0636d2820b3ffb32c55a31aaa)
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/dc01ca254cd17362dcf561a0ea955810c733807b)
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/99de250e283ccd1941783a30e261f5173919bbba)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/edc9c763106b7b40c6e40967e72ccd08fb1ea021)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/9eb796cddbc6934eaa4df2a9ceda00f778f5db79)
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/817991066b1fdf1bb6b99d66a1cb5ed34e76b984)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/1efc5ed4352e414fbec5d6f43a75626f0ef72faa)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/316fe5720b0226529a6cf8fe54c4b6dbef28b652)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/93dec85f3a899cfb956bbb2f06aae92a4c0f7714)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>add gettext action</code>](https://github.com/alainm23/planify/commit/dc45c6e5956a3586c2b6db41b3d1e32cbce6af9e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>remove gettext action</code>](https://github.com/alainm23/planify/commit/2fcc18327c9db55441762b159470ca50da8ea518)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>release (#1728)</code>](https://github.com/alainm23/planify/commit/bfa534e58743683244efbf7cb90a34d928d2aede)
+  - <sub>Tags: <code>4.13.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
