@@ -28,6 +28,10 @@
 - [ ] [<code>LinkListBox: add warning and missing icons for licenses (#2322)</code>](https://github.com/elementary/appcenter/commit/93efdef51834a4ecb6fe6478cc66eaa635e34338)
 - [ ] [<code>Add a pretty error icon instead of the broken one (Bug #2240) (#2323)</code>](https://github.com/elementary/appcenter/commit/f3b6a9e06b61e02f72ccf066cfd3199a6b1ac6df)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Show addons on the app info page (#2316)</code>](https://github.com/elementary/appcenter/commit/2856928aacbfaec0204d92c434d252e69e6422a6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Move get_screenshots () to Package (#2287)</code>](https://github.com/elementary/appcenter/commit/7a465c443b3c0e7f0b9e703e520875a19166a442)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
 
@@ -44,6 +48,9 @@
 - [ ] [<code>Metainfo: add 8.0.1 release notes (#286)</code>](https://github.com/elementary/calculator/commit/fd316a2d07c3d0192a1d898d989482e14faa4f7f)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calculator/commit/3a452c56a695aef5b3a2189906d3024bf172a5f8)
 - [ ] [<code>Update screenshots</code>](https://github.com/elementary/calculator/commit/026c4ce029bf527e3b4ae95619d055ffe6a5de4d)
+- [ ] [<code>Release 8.0.1 (#289)</code>](https://github.com/elementary/calculator/commit/989f6632daaf6f9c22542cd08136abc40c08679b)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
