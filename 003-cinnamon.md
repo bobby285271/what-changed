@@ -185,39 +185,22 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [64ee205dc270b13f3816030330eed108eaa30360 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/64ee205dc270b13f3816030330eed108eaa30360...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [b046353fa23951746e9bfa3d54f745819802649e → HEAD](https://github.com/linuxmint/mint-l-icons/compare/b046353fa23951746e9bfa3d54f745819802649e...HEAD)
 
-- [ ] [<code>Add window-close-symbolic, adjust other window control buttons</code>](https://github.com/linuxmint/mint-l-icons/commit/620def3d605dbb26669c52a445cf3c07469b7ba8)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Tweak window control sizes.</code>](https://github.com/linuxmint/mint-l-icons/commit/d3fbb087b0b836dddffef3406b2578bf0215cb27)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>apps: Sync from mint-y-icons.</code>](https://github.com/linuxmint/mint-l-icons/commit/c30e6ddafb376a621edea5c3151effdc9bc26ff5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-l-icons/commit/b046353fa23951746e9bfa3d54f745819802649e)
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.1 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.1...HEAD)
 
-- [ ] [<code>libadwaita-1.5: Adapt window controls to match Gtk3.</code>](https://github.com/linuxmint/mint-l-theme/commit/eb5aaaa73740a1f0553d3125df0958997746837d)
-- [ ] [<code>2.0.1</code>](https://github.com/linuxmint/mint-l-theme/commit/a198ddd0a74fe30fa2918855e278c12079aaa0e2)
-  - <sub>Tags: <code>2.0.1</code></sub>
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.1...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
-- [ ] [<code>Mint-Y: Improve dark checkbox and radio borders and regen assets.</code>](https://github.com/linuxmint/mint-themes/commit/6c4a01bd7e1cead74c19db030e6cf498a1c9afcb)
-- [ ] [<code>2.3.2</code>](https://github.com/linuxmint/mint-themes/commit/665e7b56df9ebf8024a018d5c6360e24db0e3763)
-  - <sub>Tags: <code>2.3.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
 - [ ] [<code>Add missing document-edit-symbolic for libadwaita.</code>](https://github.com/linuxmint/mint-x-icons/commit/ea30f3611fc677aee5d1bfea2e0fb4a0750dc257)
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.5...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.6...HEAD)
 
-- [ ] [<code>Restore window-close-symbolic.svg.</code>](https://github.com/linuxmint/mint-y-icons/commit/f8a33d9d2ca2e6b40433163504b78df019ed0962)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.6</code>](https://github.com/linuxmint/mint-y-icons/commit/c550a0aaa203c8df2876994a8a7cf0849dda1761)
-  - <sub>Tags: <code>1.8.6</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -282,12 +265,8 @@
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.6 → HEAD](https://github.com/linuxmint/pix/compare/3.4.6...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.7 → HEAD](https://github.com/linuxmint/pix/compare/3.4.7...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/75291a642950025e3b74f220ae13e753422ad94b)
-- [ ] [<code>3.4.7</code>](https://github.com/linuxmint/pix/commit/06411c2eb04fe657c27751f1094bbbbd4e1ad56f)
-  - <sub>Tags: <code>3.4.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
@@ -321,35 +300,17 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [5.1 → HEAD](https://github.com/linuxmint/hypnotix/compare/5.1...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [5.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/5.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/86f327c4c6855552941fe6221651073e093c88a7)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/hypnotix/commit/c3cdecc888dce0f18bffb8eb9af2763db68d9b56)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.2</code>](https://github.com/linuxmint/hypnotix/commit/d5580e7e4558f7d4b0b2abb023b3b4ddfa6954f8)
-  - <sub>Tags: <code>5.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.26 → HEAD](https://github.com/linuxmint/sticky/compare/1.26...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.27 → HEAD](https://github.com/linuxmint/sticky/compare/1.27...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/aa57607604af3399c4819db5c9eb3f4dcba850e4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.27</code>](https://github.com/linuxmint/sticky/commit/55e83f4a9c6186d7add45d0c07e6d8c8ddc61912)
-  - <sub>Tags: <code>1.27</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.5 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.5...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.6 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.6...HEAD)
 
-- [ ] [<code>Add startup check of btrfs-progs version to determine capabilities.</code>](https://github.com/linuxmint/timeshift/commit/71c5dd50087903236381e820f83412e79d877bba)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Main.vala: Improve readability of btrfs-progs version check.</code>](https://github.com/linuxmint/timeshift/commit/48590f2b6a777dc775cabc9ded212229bd1c103e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>25.07.6</code>](https://github.com/linuxmint/timeshift/commit/d6a4c4ab9277d02b67d4f55dff5da4f7d78e2978)
-  - <sub>Tags: <code>25.07.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/timeshift/commit/7f94fcbbc6de48b8ddc9788307c0ad8e9291dcce)
 - [ ] [<code>25.0.7</code>](https://github.com/linuxmint/timeshift/commit/28937bec933df4d4bf5900981c1b754e3162aab1)
   - <sub>Tags: <code>25.0.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
