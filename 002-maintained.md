@@ -478,6 +478,8 @@
 
 #### [planify](https://github.com/alainm23/planify): [4.13.4 → HEAD](https://github.com/alainm23/planify/compare/4.13.4...HEAD)
 
+- [ ] [<code>add item count cache (#1735)</code>](https://github.com/alainm23/planify/commit/8c153993b944bcc269081e7cc08856439764a6f5)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
