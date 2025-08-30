@@ -33,24 +33,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Move get_screenshots () to Package (#2287)</code>](https://github.com/elementary/appcenter/commit/7a465c443b3c0e7f0b9e703e520875a19166a442)
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.0 → HEAD](https://github.com/elementary/calculator/compare/8.0.0...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
-- [ ] [<code>CI: master → main</code>](https://github.com/elementary/calculator/commit/8ac0d0db19d03cab19e5df1c1eb21324dcd8610e)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#280)</code>](https://github.com/elementary/calculator/commit/51fb4e80c386738f8e14f347f256e3181773af82)
-- [ ] [<code>CI: run arm workflows on arm runner (#281)</code>](https://github.com/elementary/calculator/commit/bb93d63914cf537f5fbc8a163ffa06cc13ca7ec7)
-- [ ] [<code>Bump platform to 8.1 (#282)</code>](https://github.com/elementary/calculator/commit/def2274543dc70e2b2cb0012c7d0b88a14b6f37e)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#283)</code>](https://github.com/elementary/calculator/commit/712eb9d6d9c224a64b4d6c7e5ae6e82758d3bde3)
-- [ ] [<code>Add action icon (#284)</code>](https://github.com/elementary/calculator/commit/01098c41a7f03848a673111c7f8b6ed116118217)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Replace "Del" button with 'edit-clear-symbolic' icon (#279)</code>](https://github.com/elementary/calculator/commit/c20e967965896b56567a489a45f529f4054c0673)
-- [ ] [<code>Flatpak: bump platform to 8.2 (#285)</code>](https://github.com/elementary/calculator/commit/522bfbf196191b1ac1ed5bc6294fc356ebb390c3)
-- [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/calculator/commit/87c04bdd3bfc00a4a96c17ed36c605dfe3ae1e01)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#286)</code>](https://github.com/elementary/calculator/commit/fd316a2d07c3d0192a1d898d989482e14faa4f7f)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calculator/commit/3a452c56a695aef5b3a2189906d3024bf172a5f8)
-- [ ] [<code>Update screenshots</code>](https://github.com/elementary/calculator/commit/026c4ce029bf527e3b4ae95619d055ffe6a5de4d)
-- [ ] [<code>Release 8.0.1 (#289)</code>](https://github.com/elementary/calculator/commit/989f6632daaf6f9c22542cd08136abc40c08679b)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
