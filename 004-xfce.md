@@ -941,6 +941,8 @@
 - [ ] [<code>power: Fix possible GError leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/320eaf92c1a7f42c83bfcecd0bad8025ae6d20d9)
 - [ ] [<code>power: Rename hash table and browse it using GHashTableIter</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b261f31ac6b9df4ad417e09fb80053048acfe796)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/65e3fc22071696252d3738e49b641b02fd0250de)
+- [ ] [<code>data: Fix appdata file id</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/558034669e9b60032ce0f401fa78e09a6bad499e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
