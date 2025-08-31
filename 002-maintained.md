@@ -480,6 +480,9 @@
 
 - [ ] [<code>add item count cache (#1735)</code>](https://github.com/alainm23/planify/commit/8c153993b944bcc269081e7cc08856439764a6f5)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>feat: Add intelligent view cache management system (#1736)</code>](https://github.com/alainm23/planify/commit/7b4c9dfd525fac4a325cb75e2bd3d9185257e800)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix (#1737)</code>](https://github.com/alainm23/planify/commit/f0c25b9d60ec6fa2083e38f3537aedc034b22b39)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
