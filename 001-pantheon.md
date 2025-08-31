@@ -32,6 +32,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Move get_screenshots () to Package (#2287)</code>](https://github.com/elementary/appcenter/commit/7a465c443b3c0e7f0b9e703e520875a19166a442)
+- [ ] [<code>Styles: remove placeholder app icon dim (#2324)</code>](https://github.com/elementary/appcenter/commit/cefa665dcd50433c0052ab3fd6063a9c2c59eca9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
