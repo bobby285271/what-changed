@@ -483,6 +483,9 @@
 - [ ] [<code>feat: Add intelligent view cache management system (#1736)</code>](https://github.com/alainm23/planify/commit/7b4c9dfd525fac4a325cb75e2bd3d9185257e800)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>fix (#1737)</code>](https://github.com/alainm23/planify/commit/f0c25b9d60ec6fa2083e38f3537aedc034b22b39)
+- [ ] [<code>Design adjustments (#1738)</code>](https://github.com/alainm23/planify/commit/6f8a8d8e25fad338b148f366b4708e4227d2612e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Check if key is valid color (#1739)</code>](https://github.com/alainm23/planify/commit/10bf7c59a3cc2bf147d77e32560eba2555797b29)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
