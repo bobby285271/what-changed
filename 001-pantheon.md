@@ -34,6 +34,10 @@
 - [ ] [<code>Move get_screenshots () to Package (#2287)</code>](https://github.com/elementary/appcenter/commit/7a465c443b3c0e7f0b9e703e520875a19166a442)
 - [ ] [<code>Styles: remove placeholder app icon dim (#2324)</code>](https://github.com/elementary/appcenter/commit/cefa665dcd50433c0052ab3fd6063a9c2c59eca9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ActionStack: change CTA to Install (#2326)</code>](https://github.com/elementary/appcenter/commit/bd0b9e2c9dc05e4cd5a355d3a982037754b1c3b5)
+- [ ] [<code>Create ReleasesDialog.vala and redesign (#2328)</code>](https://github.com/elementary/appcenter/commit/a3063bb35cbbe1240b5202b06964717bc3b34652)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CategoryManager: add education icon (#2327)</code>](https://github.com/elementary/appcenter/commit/02eda0d1704e3be2fd16118bf44da40872c8c286)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -198,6 +202,9 @@
 - [ ] [<code>PlaybackManager: create actions internally (#824)</code>](https://github.com/elementary/music/commit/c03e6de27041a05e292179998521ea8b9127bbd8)
 - [ ] [<code>Restore last played (#814)</code>](https://github.com/elementary/music/commit/beced64de3384939c3aeebb3fe617f9c7527239f)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/music/commit/01f976d6db123f35496493989b69dee596d69279)
+- [ ] [<code>Introduce a SearchBar (#801)</code>](https://github.com/elementary/music/commit/1f0c6fc42762f91308ef33707dc469c7833db4e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
