@@ -245,6 +245,7 @@
 - [ ] [<code>gexiv2: Update gexiv2-0.15.0.tar.xz to 0.15.1 (#822)</code>](https://github.com/elementary/photos/commit/a45a744059af50a308add6bb6c3a2098dbab9041)
 - [ ] [<code>main: Remove unused code (#823)</code>](https://github.com/elementary/photos/commit/5543cfd4d0c269fd8d3b3dadaa0d80caf55be2bd)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#824)</code>](https://github.com/elementary/photos/commit/394a6eee1f51e2635f8b1453bb9d1de3e20bc8d8)
+- [ ] [<code>Update exiv2 and gexiv2 modules (#825)</code>](https://github.com/elementary/photos/commit/a185bbade0312388343429cfe46b3a5562d44df1)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
