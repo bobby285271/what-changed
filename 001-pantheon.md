@@ -38,6 +38,23 @@
 - [ ] [<code>Create ReleasesDialog.vala and redesign (#2328)</code>](https://github.com/elementary/appcenter/commit/a3063bb35cbbe1240b5202b06964717bc3b34652)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CategoryManager: add education icon (#2327)</code>](https://github.com/elementary/appcenter/commit/02eda0d1704e3be2fd16118bf44da40872c8c286)
+- [ ] [<code>Create ODRSProvider.vala (#2279)</code>](https://github.com/elementary/appcenter/commit/89202965d160e219efdb388fcd0a9493315652ce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ODRSProvider: avoid floating point exception (#2335)</code>](https://github.com/elementary/appcenter/commit/c3f7449f27e738a42da3c90468b36140ef9727e4)
+- [ ] [<code>AppInfoView: don't show search button (#2334)</code>](https://github.com/elementary/appcenter/commit/a65b4144222fc744d294cf4b5be1f5c0f0788c7a)
+- [ ] [<code>InstalledPackageRowGrid: don't subclass AbstractPackageRowGrid</code>](https://github.com/elementary/appcenter/commit/46591b127c43eed88dc153e07530ee839c4c499b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ListPackageRowGrid: Don't subclass AbstractPackageRowGrid</code>](https://github.com/elementary/appcenter/commit/44a7bc1beb6cd436b85560e24e88e3cfad38b3ba)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove AbstractPackageRowGrid.vala</code>](https://github.com/elementary/appcenter/commit/98daef42cbf48ba147e1750c42deb528ff3d8966)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: add PackageRowGrid</code>](https://github.com/elementary/appcenter/commit/f74094ee536f548d9847c995580c7bbadd71a8ef)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CategoryView: use Gtk.ListModels for Recent (#2336)</code>](https://github.com/elementary/appcenter/commit/d3125d818e1bcdb7c0a2415ed4c378f055cc16e9)
+- [ ] [<code>Set and use refresh action enabled (#2332)</code>](https://github.com/elementary/appcenter/commit/b07f5b42651bc5e34d124ea1fe58b0c649aaad68)
+- [ ] [<code>ODRSProvider: Result as return value, set out parameters only when succeeds (#2339)</code>](https://github.com/elementary/appcenter/commit/5eb6ea7a03c6e37c4237b33843dd6e694305a5e7)
+- [ ] [<code>AppInfoView: use releases dialog (#2329)</code>](https://github.com/elementary/appcenter/commit/bedc473c1a62779b128af4a98b32dfcf55883365)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -92,6 +109,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.1.tar.xz to 3.57.2 (#859)</code>](https://github.com/elementary/calendar/commit/1a81955bd9c5ad2f99d08d65235f918bc780c15a)
 - [ ] [<code>SourceRow: always show buttons (#857)</code>](https://github.com/elementary/calendar/commit/295bdd0cd20bab30fa33ff45e04cd05456918b1b)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calendar/commit/685638c07f3ba64cba8de20a0282973858f48096)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.2.tar.xz to 3.57.3 (#861)</code>](https://github.com/elementary/calendar/commit/aa5fd80f020523cc20693fb9f05b08ecfe1cfd89)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -205,6 +223,11 @@
 - [ ] [<code>Introduce a SearchBar (#801)</code>](https://github.com/elementary/music/commit/1f0c6fc42762f91308ef33707dc469c7833db4e5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>gschema: Fix invalid default value for previous-queue (#830)</code>](https://github.com/elementary/music/commit/622f11736e41a3541937166c34d5be0251abb58a)
+- [ ] [<code>Update music.metainfo.xml.in</code>](https://github.com/elementary/music/commit/8e7c9016336a937a46c51de4b616ade4edb97ee5)
+- [ ] [<code>Release 8.1.0 (#825)</code>](https://github.com/elementary/music/commit/17a8a701d65c0fd88e1a7b6fa4e4668dd7fa228e)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -371,6 +394,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#437)</code>](https://github.com/elementary/switchboard-plug-network/commit/93d1a2ddcf847df2e5c8d244268a79c109b94006)
 - [ ] [<code>rfkill: Use sizeof instead of literal size (#439)</code>](https://github.com/elementary/switchboard-plug-network/commit/5af6c03a94ec7a65400adf9db7937c8eaa034615)
 - [ ] [<code>RKFill: add airplane mode property (#438)</code>](https://github.com/elementary/switchboard-plug-network/commit/fbd2e9a31fd57654e1136c4a54e1c20343ac5e3a)
+- [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/be58984aed5f8b1e7924a1cb06b9cac836812c29)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -484,6 +508,10 @@
 - [ ] [<code>Add dialog-extensions symlink for Inkscape (#1376)</code>](https://github.com/elementary/icons/commit/4f7f94b3c572686e6a4c4271f022e8a9ec080117)
 - [ ] [<code>Add dialog-memory symlink for Inkscape (#1377)</code>](https://github.com/elementary/icons/commit/fec1d07b7a8668bbd6d888f4c8bd861223ffd322)
 - [ ] [<code>Add edit-undo-history symlink for Inkscape (#1378)</code>](https://github.com/elementary/icons/commit/041758e73907043dfcb99a7b3d6d5c0815c52cc1)
+- [ ] [<code>Add font_collections for Inkscape (#1386)</code>](https://github.com/elementary/icons/commit/62bf241991f4a2e28bc25a4b4a6a9a783663cd1d)
+- [ ] [<code>Add dialog-object-properties for Inkscape (#1382)</code>](https://github.com/elementary/icons/commit/6dbb233622cde676d6d4738937e1bc7426478392)
+- [ ] [<code>Add dialog-xml-editor, dialog-selectors and dialog-scripts for Inkscape (#1381)</code>](https://github.com/elementary/icons/commit/ca652d1125809d8cf64a2bdbca3fe34f6c330171)
+- [ ] [<code>Add hide/unhide icons for Inkscape (#1371)</code>](https://github.com/elementary/icons/commit/82b60ef80e88d7bd1ceb5da22b61acbea4935202)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1030,6 +1058,7 @@
 - [ ] [<code>Utils: markup_accel_tooltip: Correctly markup documentation (#901)</code>](https://github.com/elementary/granite/commit/4a84961b1b1e25d1faa3aa765e4ea8d26237f824)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/granite/commit/e0baa3a03c26e7a9ab3734a81e3c09340307d7f1)
 - [ ] [<code>markup_accel_tooltip: Handle null-terminated accels (#903)</code>](https://github.com/elementary/granite/commit/72d4771dbdb974753e7c24c2f4e82febffcfcc7a)
+- [ ] [<code>Remove colors defined in root pseudo-class (#907)</code>](https://github.com/elementary/granite/commit/ff9cef6d7fcb20af048556c4db4dd454b4b9d4d3)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
