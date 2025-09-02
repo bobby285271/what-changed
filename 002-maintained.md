@@ -463,6 +463,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/5cb112ef95ee61850e94d80a793e650aa34792fe)
+- [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/144ec5c7483b5c23c4e9e5414d166f072b55d5f7)
 
 #### [notes-up](https://github.com/Philip-Scott/Notes-up): [2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/2.0.6...HEAD)
 
@@ -486,6 +487,12 @@
 - [ ] [<code>Design adjustments (#1738)</code>](https://github.com/alainm23/planify/commit/6f8a8d8e25fad338b148f366b4708e4227d2612e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Check if key is valid color (#1739)</code>](https://github.com/alainm23/planify/commit/10bf7c59a3cc2bf147d77e32560eba2555797b29)
+- [ ] [<code>Implement CalDAV support (#1714)</code>](https://github.com/alainm23/planify/commit/5aa4c9ba9a92506deeee6a53ba4492699a785ef1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Resolve memory leaks in ItemRow and widget cleanup (#1742)</code>](https://github.com/alainm23/planify/commit/bdb96f0d61160e34800fb7d62e1bfae6295a8719)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
