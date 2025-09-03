@@ -496,6 +496,9 @@
 - [ ] [<code>fix sync token update (#1744)</code>](https://github.com/alainm23/planify/commit/8aa9f0262f8292dfab748bee2e5805cbe8a403c7)
 - [ ] [<code>fix itemrow block (#1745)</code>](https://github.com/alainm23/planify/commit/9f5c56de2888c8b26a0ac6c3219a1b83376fa082)
 - [ ] [<code>Add support for detecting deleted task lists in CalDAV and Nextcloud (#1747)</code>](https://github.com/alainm23/planify/commit/6b0471b61274df33372728bdb648f8f60ebd7172)
+- [ ] [<code>fix scroll (#1750)</code>](https://github.com/alainm23/planify/commit/e9dd8297b9e13aa6a1f596ab9260dc268204ba8f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix CalDAV project creation - save calendar URL to database (#1749)</code>](https://github.com/alainm23/planify/commit/9d84d217d02822345a840b32c81a647d4da6df96)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
