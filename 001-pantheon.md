@@ -55,6 +55,8 @@
 - [ ] [<code>Set and use refresh action enabled (#2332)</code>](https://github.com/elementary/appcenter/commit/b07f5b42651bc5e34d124ea1fe58b0c649aaad68)
 - [ ] [<code>ODRSProvider: Result as return value, set out parameters only when succeeds (#2339)</code>](https://github.com/elementary/appcenter/commit/5eb6ea7a03c6e37c4237b33843dd6e694305a5e7)
 - [ ] [<code>AppInfoView: use releases dialog (#2329)</code>](https://github.com/elementary/appcenter/commit/bedc473c1a62779b128af4a98b32dfcf55883365)
+- [ ] [<code>InstalledPackageRowGrid: restore action_sensitive property (#2337)</code>](https://github.com/elementary/appcenter/commit/3fc162e7cb1488ce72fa254c5b383882b0fb9b4a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -269,6 +271,7 @@
 - [ ] [<code>main: Remove unused code (#823)</code>](https://github.com/elementary/photos/commit/5543cfd4d0c269fd8d3b3dadaa0d80caf55be2bd)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#824)</code>](https://github.com/elementary/photos/commit/394a6eee1f51e2635f8b1453bb9d1de3e20bc8d8)
 - [ ] [<code>Update exiv2 and gexiv2 modules (#825)</code>](https://github.com/elementary/photos/commit/a185bbade0312388343429cfe46b3a5562d44df1)
+- [ ] [<code>Remove sample plugin</code>](https://github.com/elementary/photos/commit/9bc21febaa225ed6a4eec754fa3ac3ab7dce0d0e)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
@@ -1132,6 +1135,7 @@
 - [ ] [<code>Preserve our /etc/os-release (#779)</code>](https://github.com/elementary/os/commit/68da0d2ac1033e6eae44f710212f1d63f98a517d)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#780)</code>](https://github.com/elementary/os/commit/b6ce151280dc9d1a6a72793188c5ec7d537683a8)
+  - <sub>Tags: <code>8.0.2</code> <code>8.0.2-rc2</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
