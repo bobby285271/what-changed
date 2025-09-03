@@ -242,6 +242,14 @@
 - [ ] [<code>nemo-action.c: Support icons provided by Spices.</code>](https://github.com/linuxmint/nemo/commit/f13caea2c8ba367f9e28faf57a44a9a6a1f1df90)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>nemo-search-engine-advanced.c: Support wildcard mimetypes.</code>](https://github.com/linuxmint/nemo/commit/5e4e84bc29e83e19f45bc0b6057edde4cb37cb0e)
+- [ ] [<code>nemo-search-engine-advanced.c: Allow multiple helpers to run on</code>](https://github.com/linuxmint/nemo/commit/f35220502bd709ea9cc5b9c43afc649a2c6d6d09)
+- [ ] [<code>Search: Allow disabling of search helpers via gsettings.</code>](https://github.com/linuxmint/nemo/commit/d7e5b97152e7c7ad833f6f8f68d067843cbc81bc)
+- [ ] [<code>nemo-action-manager.c: Don't randomize action names when rebuilding.</code>](https://github.com/linuxmint/nemo/commit/6637d3d1e2ff1096fbd14e3d1df7f6ebb866aad6)
+- [ ] [<code>nemo-action-menager.c: Use a basic Gio file monitor to watch for</code>](https://github.com/linuxmint/nemo/commit/0512093e1c17e88948b4ab682b2ba27393485717)
+- [ ] [<code>actions: Sort actions consistently.</code>](https://github.com/linuxmint/nemo/commit/a5a4bd818222c0c139905e49ea96f5e796fe099a)
+- [ ] [<code>file operations: Implement pause/resume.</code>](https://github.com/linuxmint/nemo/commit/64d6829771ee8b6c7992dce7320a5843bc3e2554)
+- [ ] [<code>nemo-file-management-properties.glade: Improve behavior tab layout.</code>](https://github.com/linuxmint/nemo/commit/cb44fcedb79af79eadc1be981290a0149de76be7)
+- [ ] [<code>file operations: Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/ef6492152c8ec9a35d4d7b7260484c3a88cb0388)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
