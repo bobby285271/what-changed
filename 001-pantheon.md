@@ -57,6 +57,9 @@
 - [ ] [<code>AppInfoView: use releases dialog (#2329)</code>](https://github.com/elementary/appcenter/commit/bedc473c1a62779b128af4a98b32dfcf55883365)
 - [ ] [<code>InstalledPackageRowGrid: restore action_sensitive property (#2337)</code>](https://github.com/elementary/appcenter/commit/3fc162e7cb1488ce72fa254c5b383882b0fb9b4a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/e603d2eb076590958fdfddcba39b02f5d9d9b1bd)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/323e2371e050beed0d5095b83139c0d1e458b128)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/8312d07ab09e49e0ee7f6f1add0492c37defebf6)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -191,45 +194,8 @@
 - [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
 
-#### [pantheon.elementary-music](https://github.com/elementary/music): [8.0.0 → HEAD](https://github.com/elementary/music/compare/8.0.0...HEAD)
+#### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
-- [ ] [<code>Implement simple search in playlist (#765)</code>](https://github.com/elementary/music/commit/f8b0df0f02e210f64dbf8a0cc1213ead1fd91f18)
-- [ ] [<code>Add quit keyboard shortcut (#778)</code>](https://github.com/elementary/music/commit/d7fbb4fcff8be47f913a135945eaacb6873c0862)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#788)</code>](https://github.com/elementary/music/commit/a1f930d2eef73263d40dada279ea5649758ddbcd)
-- [ ] [<code>CI: run arm workflows on arm runner (#789)</code>](https://github.com/elementary/music/commit/d3c5ca1e3b8d82f70cbe0f10a793f38ccbb30001)
-- [ ] [<code>Update to Platform 8.1 (#790)</code>](https://github.com/elementary/music/commit/2711128af8021dcdf90e68ebe91b8d3b8490bdf3)
-- [ ] [<code>Add clear queue button (#795)</code>](https://github.com/elementary/music/commit/d0bcd78c4988184204cdeb5c0523ca7e8cbf0f5b)
-- [ ] [<code>TrackRow: remove song from context menu (#797)</code>](https://github.com/elementary/music/commit/a2d904a0044cb9ce015bb9189556b20e5e3fd40a)
-- [ ] [<code>TrackRow: DRY menu popup at pointer (#800)</code>](https://github.com/elementary/music/commit/98587d88b2afbaae418907b432c19ddb31ab61d8)
-- [ ] [<code>Fix gap below cover art (#799)</code>](https://github.com/elementary/music/commit/08cc8b8a747e8466aab86b8dee18c401fcb3a0e7)
-- [ ] [<code>MainWindow: replace ListBox with ListView (#796)</code>](https://github.com/elementary/music/commit/6c401eee4e45ec86796c808c5df1250a1943d037)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Correctly display arists name in NowPlayingView (#804)</code>](https://github.com/elementary/music/commit/fc2da44f73e3eee5ec3b6a09dbf0928809294e44)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#807)</code>](https://github.com/elementary/music/commit/1fc97842e9aaf99e350b7361cbe355d1028bc334)
-- [ ] [<code>Move playbackmanager lambas where we can see them (#809)</code>](https://github.com/elementary/music/commit/70a9a84880dd63b71f459cc0cb12ea7d3c2a686e)
-- [ ] [<code>Introduce save and restore methods (#810)</code>](https://github.com/elementary/music/commit/395729cdc5568537a43a0755f155221bce6e7e9e)
-- [ ] [<code>Refresh screenshot to reflect current state (#812)</code>](https://github.com/elementary/music/commit/c76587c0370fe1b6074836a362b5c1868e80139b)
-- [ ] [<code>Send artwork to MPRIS (#805)</code>](https://github.com/elementary/music/commit/d34b67c5ee7386888782bfede32734025a23ef91)
-- [ ] [<code>Flatpak: bump platform to 8.2 (#817)</code>](https://github.com/elementary/music/commit/3bca4b6d4e536ff0853759b75975301ab015402b)
-- [ ] [<code>Actions: Use main branch (#818)</code>](https://github.com/elementary/music/commit/c26f04bc72a537cdbf6006a7d6db847ad3429368)
-- [ ] [<code>MainWindow: Fix missing gettext (#819)</code>](https://github.com/elementary/music/commit/22ed623d12b0ca28e0a7e04d0a8c1d225fb6f94c)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#821)</code>](https://github.com/elementary/music/commit/862205dcc3160002333e07a11ef5b704017e2c84)
-- [ ] [<code>Add dark mode screenshot (#822)</code>](https://github.com/elementary/music/commit/0c38a1be301a6899111b1ed4c2077e955a52ea12)
-- [ ] [<code>Metainfo: invert dark/light brand colors (#823)</code>](https://github.com/elementary/music/commit/799cda36fb2bf46ea576fd7f0753706fd83d1631)
-- [ ] [<code>README: Update dependencies list (#826)</code>](https://github.com/elementary/music/commit/de7d81395a8ab1e44a538b5bbd21072f5630b1df)
-- [ ] [<code>Add accel to open files via Ctrl+O (#820)</code>](https://github.com/elementary/music/commit/be26669ed33014238b7af81f4cd194f7b2f9ec38)
-- [ ] [<code>PlaybackManager: create actions internally (#824)</code>](https://github.com/elementary/music/commit/c03e6de27041a05e292179998521ea8b9127bbd8)
-- [ ] [<code>Restore last played (#814)</code>](https://github.com/elementary/music/commit/beced64de3384939c3aeebb3fe617f9c7527239f)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/music/commit/01f976d6db123f35496493989b69dee596d69279)
-- [ ] [<code>Introduce a SearchBar (#801)</code>](https://github.com/elementary/music/commit/1f0c6fc42762f91308ef33707dc469c7833db4e5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>gschema: Fix invalid default value for previous-queue (#830)</code>](https://github.com/elementary/music/commit/622f11736e41a3541937166c34d5be0251abb58a)
-- [ ] [<code>Update music.metainfo.xml.in</code>](https://github.com/elementary/music/commit/8e7c9016336a937a46c51de4b616ade4edb97ee5)
-- [ ] [<code>Release 8.1.0 (#825)</code>](https://github.com/elementary/music/commit/17a8a701d65c0fd88e1a7b6fa4e4668dd7fa228e)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
