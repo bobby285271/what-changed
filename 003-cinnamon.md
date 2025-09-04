@@ -152,6 +152,7 @@
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
 - [ ] [<code>Remove old upower support to match c-s-d commits (#185)</code>](https://github.com/linuxmint/cinnamon-session/commit/97bcafd5933e2f073d51105061e049ba7ff0811e)
 - [ ] [<code>csm-manager.c: Don't consider suspend inhibitors when gathering</code>](https://github.com/linuxmint/cinnamon-session/commit/28b5ebc18c744e1c79efbaa8d6b3e91bdad2e57e)
+- [ ] [<code>csm-manager.c: Clear system inhibitors before attempting to</code>](https://github.com/linuxmint/cinnamon-session/commit/8042c7f4756773b32e30f902d2cb05c865b9f6d7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
@@ -283,6 +284,8 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
+- [ ] [<code>mate-xapp-status-applet.py: Don't use theme.has_icon() - not all</code>](https://github.com/linuxmint/xapp/commit/c2d7d289d1868cea6c66da03af9be60b4b3de302)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
