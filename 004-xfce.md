@@ -352,6 +352,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>autotools-build: Add *-docs.xml.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a1fd0c18256f6eab9b24129ffe7778a1ddcc486)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/eda46893fe17c90e9853505078422e1c8ff7e96e)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -629,6 +630,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/thunar-volman/commit/c6c47d74621436e605dfe8bcfed5cdd78b7e8808)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/f0f17ca45cefd8af786f0615f5caa76eb57102ce)
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -707,6 +709,7 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e32f0a30d8b45d2d5c3b27861fc76fa7206b565a)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/50fcceac3a7ad3997c94aec54bc1571a198810ac)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6a95942592e8368002cdbdb1363d3b5f81b9b096)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -944,6 +947,7 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/65e3fc22071696252d3738e49b641b02fd0250de)
 - [ ] [<code>data: Fix appdata file id</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/558034669e9b60032ce0f401fa78e09a6bad499e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/eae997420cc152ff93b985260da389fadaf90376)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1014,6 +1018,7 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-session/commit/b54cae246a4444491b0d5676640e1fdb717f31b7)
 - [ ] [<code>labwc: Let amixer use system default mixer</code>](https://github.com/xfce-mirror/xfce4-session/commit/897ad9d691d7bafadb69891f92fb352516a326f5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/aeeeae3fc8d58ab584ba2e279a99ee4917283030)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -1220,6 +1225,7 @@
 - [ ] [<code>Fix column boundary check in xfdesktop_icon_view_unplace_item</code>](https://github.com/xfce-mirror/xfdesktop/commit/ec9403a52eaac92c195efe38992147b9d9f3d55e)
 - [ ] [<code>Fix a use-after-free crash in the icon unplace/removal code</code>](https://github.com/xfce-mirror/xfdesktop/commit/991f5a0065556277e7dd3a1314f8d2b31dd67b04)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfdesktop/commit/6f13454f8e94976479c5fe7b3faaee06e096ba84)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/290d1311fc275a7ba5e70b272009c6655947348b)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
