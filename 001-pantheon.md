@@ -60,6 +60,9 @@
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/e603d2eb076590958fdfddcba39b02f5d9d9b1bd)
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/323e2371e050beed0d5095b83139c0d1e458b128)
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/8312d07ab09e49e0ee7f6f1add0492c37defebf6)
+- [ ] [<code>AppInfoView: don't allow focusing title labels (#2346)</code>](https://github.com/elementary/appcenter/commit/2a97915a67092fea6a0f95f35cbe0a74d4259ff1)
+- [ ] [<code>AppListUpdateView: inline namespace, use SPDX header (#2343)</code>](https://github.com/elementary/appcenter/commit/74b79c32f5f8a18cbb2ff2d2693e336091ffccc6)
+- [ ] [<code>SearchView: use GridView (#2325)</code>](https://github.com/elementary/appcenter/commit/214425b9d50cefccf6434741c9af9cc444b5dc08)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
