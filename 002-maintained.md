@@ -499,6 +499,12 @@
 - [ ] [<code>fix scroll (#1750)</code>](https://github.com/alainm23/planify/commit/e9dd8297b9e13aa6a1f596ab9260dc268204ba8f)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix CalDAV project creation - save calendar URL to database (#1749)</code>](https://github.com/alainm23/planify/commit/9d84d217d02822345a840b32c81a647d4da6df96)
+- [ ] [<code>feat(sidebar): new filters, grid/list view toggle, and code cleanup (#1751)</code>](https://github.com/alainm23/planify/commit/edd98237d1a4dcae72f76eace864bb37574ec473)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add home view (#1752)</code>](https://github.com/alainm23/planify/commit/c112a3e6437530e9436fb647de685f2a5846d870)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Clean gschema (#1753)</code>](https://github.com/alainm23/planify/commit/bb3fbb2601a2c6b138c7950a8de5fa4a60e4b830)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
