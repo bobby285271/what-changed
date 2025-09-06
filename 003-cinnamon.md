@@ -4,6 +4,9 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [3.9 → HEAD](https://github.com/linuxmint/bulky/compare/3.9...HEAD)
 
+- [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.10 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.10...HEAD)
 
@@ -321,6 +324,15 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [5.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/5.2...HEAD)
 
+- [ ] [<code>Remove hard dependency on python3-imdbpy</code>](https://github.com/linuxmint/hypnotix/commit/b972d1e425bf49a28780e60ab0cbeaf56e1c910b)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Remove movie info section</code>](https://github.com/linuxmint/hypnotix/commit/82a2d1ef385c7b9632f7749f882a7394ade3eddd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fixed memory leak (#387)</code>](https://github.com/linuxmint/hypnotix/commit/28bfa80c40f5e3015b8709c79de9fe0e6c45c253)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.3</code>](https://github.com/linuxmint/hypnotix/commit/89c11551c2b333f63c4798c7c1fbfa356b29eba7)
+  - <sub>Tags: <code>5.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
 
