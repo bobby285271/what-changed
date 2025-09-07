@@ -505,6 +505,9 @@
 - [ ] [<code>add home view (#1752)</code>](https://github.com/alainm23/planify/commit/c112a3e6437530e9436fb647de685f2a5846d870)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Clean gschema (#1753)</code>](https://github.com/alainm23/planify/commit/bb3fbb2601a2c6b138c7950a8de5fa4a60e4b830)
+- [ ] [<code>Make Webkit Optional (#1754)</code>](https://github.com/alainm23/planify/commit/1ca4af59fbf5ea7056c78137d8a9d2526190424c)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
