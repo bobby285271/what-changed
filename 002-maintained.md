@@ -508,6 +508,12 @@
 - [ ] [<code>Make Webkit Optional (#1754)</code>](https://github.com/alainm23/planify/commit/1ca4af59fbf5ea7056c78137d8a9d2526190424c)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>add new preferences view (#1755)</code>](https://github.com/alainm23/planify/commit/6889f0837c1a212ceb3c8f736a734d2335fa0465)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix sync button (#1757)</code>](https://github.com/alainm23/planify/commit/add73342b33ff816aef88a2fa59c66fd4bdba6f5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
