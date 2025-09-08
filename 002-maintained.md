@@ -1,97 +1,7 @@
 # what-changed (Maintained)
 
-#### [agenda](https://github.com/dahenson/agenda): [1.1.2 → HEAD](https://github.com/dahenson/agenda/compare/1.1.2...HEAD)
+#### [agenda](https://github.com/dahenson/agenda): [refs/tags/1.2.1 → HEAD](https://github.com/dahenson/agenda/compare/refs/tags/1.2.1...HEAD)
 
-- [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/bd9677b888203af494dc8df4d5b87039ee1dcf72)
-- [ ] [<code>Merge branch 'master' of https://github.com/dahenson/agenda into patch-1</code>](https://github.com/dahenson/agenda/commit/1e882c5246698bab59bb0d95fb0ed5478b207ab0)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Added limit to editable characters</code>](https://github.com/dahenson/agenda/commit/08cdd6d36428f212b2538f03f335a74b6b1deb3a)
-- [ ] [<code>Changed EDITED_TEXT_MAX_LEN value</code>](https://github.com/dahenson/agenda/commit/22d6fd81d5b7ef0375668c7456a68acc6d07e43d)
-- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/3679657e9e87a8af30ed302cfa9b3cbcba6f265c)
-- [ ] [<code>Create it.po</code>](https://github.com/dahenson/agenda/commit/6d8fdd08e505080f68d6fffd65f896319f157f06)
-- [ ] [<code>Add <launchable/> tag to AppStream metadata</code>](https://github.com/dahenson/agenda/commit/bcc7f6f8db6fdbc525731abcfa767039d5f503be)
-- [ ] [<code>Convert HTTP to HTTPS in copyright comment in Agenda.css</code>](https://github.com/dahenson/agenda/commit/3ee00917364c838356ba901b2afa4288aabae95f)
-- [ ] [<code>Convert homepage link from HTTP to HTTPS in AppData XML</code>](https://github.com/dahenson/agenda/commit/39bd498e8959e14e6a3ac7530ae49eb71aa91599)
-- [ ] [<code>Russian translation in 'extra', fixes #47</code>](https://github.com/dahenson/agenda/commit/0173a3a76421c3f064f690932da1f41ac6c75517)
-- [ ] [<code>Merge pull request #152 from musicinmybrain/https</code>](https://github.com/dahenson/agenda/commit/765b96f248648b95f60624b9b0079601cf98f290)
-- [ ] [<code>Merge pull request #147 from albanobattistella/patch-1</code>](https://github.com/dahenson/agenda/commit/4a7747eb9c54dd4fbe30a49a11f1914dae4451bf)
-- [ ] [<code>Merge pull request #78 from btd1337/patch-1</code>](https://github.com/dahenson/agenda/commit/e16a8120dc78001adfe9415013a903aa009b596d)
-- [ ] [<code>Don't set the window and titlebar transparent</code>](https://github.com/dahenson/agenda/commit/f6198fef322dea1bcc2f5b15385ef8e570cce91d)
-- [ ] [<code>Fix Polish translation</code>](https://github.com/dahenson/agenda/commit/9bfb57fbc7579c8cfa615be97bad083e97e2937e)
-- [ ] [<code>Ctrl+R now triggers "remove_completed"</code>](https://github.com/dahenson/agenda/commit/b9331148e1ef92062849343fcf0774de444be404)
-- [ ] [<code>Improve Polish translation.</code>](https://github.com/dahenson/agenda/commit/8bc1552b9f06a5da9d0e81ceea577d326614681e)
-- [ ] [<code>Improve post_install.py</code>](https://github.com/dahenson/agenda/commit/4cc55aa33ea7528f094b72fd3538afc4bb864ad2)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Implement basic printing operation support. (#153)</code>](https://github.com/dahenson/agenda/commit/4afe023d2ee753d552768d670d3f01d94634b085)
-- [ ] [<code>Merge pull request #146 from albanobattistella/master</code>](https://github.com/dahenson/agenda/commit/0b449b21a072cc16b063066e4ab9c95952c01cd4)
-- [ ] [<code>Merge pull request #140 from gxhamster/set_edit_limit</code>](https://github.com/dahenson/agenda/commit/cdc11434b4ba0bf7e99e73be2525a940d0ab6258)
-- [ ] [<code>Fix coding style for lint.</code>](https://github.com/dahenson/agenda/commit/9e76b6796cb78a7653d0aa056301cc7d4fa5a9b3)
-- [ ] [<code>Update French translation</code>](https://github.com/dahenson/agenda/commit/a17f3c2b50540f2ce51ac1e0c06bb21859abd34e)
-- [ ] [<code>Add PREFIX and APPNAME in Build class and enable translations.</code>](https://github.com/dahenson/agenda/commit/79e947f3444e11fa1f61d84e97414870eaa5b10c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Do not create empty tasks</code>](https://github.com/dahenson/agenda/commit/eb2cd766ba474ca6839d2abc405bfac84266d35a)
-- [ ] [<code>Sort completed tasks to bottom on Ctrl+S keypress</code>](https://github.com/dahenson/agenda/commit/fe6b72db7551122aed6a219da886d4bca84eb4c7)
-- [ ] [<code>Use Ctrl+Shift+Z to trigger 'redo'. Fixes #139</code>](https://github.com/dahenson/agenda/commit/59fc9dbd6793336ca00fa44388fd67a99ce6ea65)
-- [ ] [<code>Improve settings for window size/position and font used for printing.</code>](https://github.com/dahenson/agenda/commit/cdc509bb972c6ff1d86b26cb742154ecca49adfa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Follow system settings for dark/white theme in ElementaryOS. Fixes #155</code>](https://github.com/dahenson/agenda/commit/fdcf13344882d176d80d499024ca42142d917dcb)
-- [ ] [<code>Rename css.gersource.xml as a more generic name, for future use.</code>](https://github.com/dahenson/agenda/commit/10abfded33f3b4a052196f4b7937a14b218a7f7e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use Ctrl+H to display shortctuts help window.</code>](https://github.com/dahenson/agenda/commit/f8fb552eea34dfbcb375449fcedb998b27adaf08)
-- [ ] [<code>Update translations.</code>](https://github.com/dahenson/agenda/commit/8a22327e5d98d7ac7d55122ac4573d736b274801)
-- [ ] [<code>Implement multi-page printing.</code>](https://github.com/dahenson/agenda/commit/d3ffd983686b97a330661eb150d255592359455a)
-- [ ] [<code>Make lint okay.</code>](https://github.com/dahenson/agenda/commit/b0bac0a4f048886736bfc202c0e8801a69f1d4c8)
-- [ ] [<code>Fix: actually do ellispize on printing.</code>](https://github.com/dahenson/agenda/commit/54cb045b993a483e3adc20810b216da12e9ce0cb)
-- [ ] [<code>Sort completed tasks upward if settings says so.</code>](https://github.com/dahenson/agenda/commit/4a4348a7848f14f79aad867a7be2289c85539c14)
-- [ ] [<code>Add menu and preferences window</code>](https://github.com/dahenson/agenda/commit/7c5ad63d365d23fffb81e28e1c2bb1c340e80651)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update tranlsations.</code>](https://github.com/dahenson/agenda/commit/b16d8b7107b0cc882a034caf74360c3215408b24)
-- [ ] [<code>Make lint happy.</code>](https://github.com/dahenson/agenda/commit/608ca6316261cb51b287c2e10f9a97cb47cc3fc2)
-- [ ] [<code>Use a Switch instead of a CheckButton in Prefs.</code>](https://github.com/dahenson/agenda/commit/754c7eb721422af27894a39d80373a9cf0204159)
-- [ ] [<code>Rename some settings keys.</code>](https://github.com/dahenson/agenda/commit/cecd2bc63182a43d69887f3f7ddeb28d86e1c4f0)
-- [ ] [<code>Creation of Occitan translation file</code>](https://github.com/dahenson/agenda/commit/7200055cd936cd0329e14eae539bc082cbf8159f)
-- [ ] [<code>OC added to the list</code>](https://github.com/dahenson/agenda/commit/fd4a9e546f0810ab831b8440038522fcb796fd8b)
-- [ ] [<code>Creation of OC file</code>](https://github.com/dahenson/agenda/commit/c351cd26653e4b241e83902cd5c46c3e43b8d10c)
-- [ ] [<code>OC added to the list</code>](https://github.com/dahenson/agenda/commit/3b49a9021524d0e08df8c09fe47ecac2d2f50d2e)
-- [ ] [<code>Merge pull request #156 from Mejans/master</code>](https://github.com/dahenson/agenda/commit/2c04f0fee554ff8d34c4fe366e3262c4d11e1265)
-- [ ] [<code>Fix deprecated top-level developer_name in AppData XML</code>](https://github.com/dahenson/agenda/commit/76b5f2c13ef76aff54b76ee4f75e590d93c5721c)
-- [ ] [<code>Add a developer ID in AppData XML</code>](https://github.com/dahenson/agenda/commit/07a72a1ed8792f496b40e16c119b4c031bfcd886)
-- [ ] [<code>Merge pull request #151 from musicinmybrain/developer-name</code>](https://github.com/dahenson/agenda/commit/d9f372b59ae2cb20191473af177d7dadbef7eec5)
-- [ ] [<code>Merge pull request #148 from musicinmybrain/desktop-app-launchable-missing</code>](https://github.com/dahenson/agenda/commit/8eca508b00ef0ba23ffd913c22fb9ffabb8d9437)
-- [ ] [<code>version 1.2.0 ongoing.</code>](https://github.com/dahenson/agenda/commit/388cb701aa7ed90f226d36b6534768fb7addc7a1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/b7d623b93684b530dc0f6f5f93b1a0ec6d126c86)
-- [ ] [<code>Merge pull request #157 from albanobattistella/patch-2</code>](https://github.com/dahenson/agenda/commit/875f04362a72350b2a6b18f9e1c29ed7608940ec)
-- [ ] [<code>Update Flatpak platform to 8</code>](https://github.com/dahenson/agenda/commit/0b26befe1b30707a93e7d03528c379a9b4c18408)
-- [ ] [<code>Use spaces instead of tabs</code>](https://github.com/dahenson/agenda/commit/f26fd263f155eb47df78f6b91eedebdec8daac30)
-- [ ] [<code>meson: Use gnome module instead of Python script</code>](https://github.com/dahenson/agenda/commit/8b64dc3de1b10005ecae72f1491336b8c2c02c9f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>meson: Replace deprecated source_root with project_source_root</code>](https://github.com/dahenson/agenda/commit/e337ae074f05f7fac92c29ea3eb7477fbae39db8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Omitting OARS tags with the value of none</code>](https://github.com/dahenson/agenda/commit/e06dfaf0d5bde1a948f6ac2e3c3b17bd562ebb8e)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/dahenson/agenda/commit/63c776d9bb8d2d85db92189290dafb1e5f6f6118)
-- [ ] [<code>Use GitHub Actions for CI building</code>](https://github.com/dahenson/agenda/commit/b931be43fe3d9da7fade2020eb59a64a93afd13d)
-- [ ] [<code>Merge pull request #158 from ryonakano/update-flatpak-platform</code>](https://github.com/dahenson/agenda/commit/ca4eabcea635fb105ebb7035db3a4a24021563dd)
-- [ ] [<code>Merge pull request #159 from ryonakano/replace-tabs</code>](https://github.com/dahenson/agenda/commit/7208ec20998f472eb0ae35cb3a3498d40f528e0e)
-- [ ] [<code>Merge pull request #160 from ryonakano/use-gnome-module</code>](https://github.com/dahenson/agenda/commit/a0001016fc87d312730736a6397ac7fdfecc4817)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge pull request #161 from ryonakano/replace-deprecated-source-root</code>](https://github.com/dahenson/agenda/commit/663c35f212372ddd35cddc51e988d3cba91d64fa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge pull request #162 from ryonakano/oars-no-attributes</code>](https://github.com/dahenson/agenda/commit/70cca29106a7398c87de1feae19fa56a3085c436)
-- [ ] [<code>Merge pull request #163 from ryonakano/update-japanese-translation</code>](https://github.com/dahenson/agenda/commit/925e4df87ec273dfed29a8da865445e48ced3e5f)
-- [ ] [<code>Merge pull request #164 from ryonakano/switch-to-github-actions</code>](https://github.com/dahenson/agenda/commit/73e3f9331af7f52a56896c6c7cecf36dde216975)
-- [ ] [<code>Update it.po</code>](https://github.com/dahenson/agenda/commit/91160290a3241e3eb2ba118adf7e79b7a03606f7)
-- [ ] [<code>Merge pull request #165 from albanobattistella/patch-3</code>](https://github.com/dahenson/agenda/commit/d7c36f85651b8e5d7520ed7bae094137ca21a528)
-  - <sub>Tags: <code>1.2.0</code></sub>
-- [ ] [<code>Add flat style to the settings button</code>](https://github.com/dahenson/agenda/commit/01cdffddbe5d25fa48b90ce7f180c960c388fb9d)
-- [ ] [<code>Update the release date in the appdata</code>](https://github.com/dahenson/agenda/commit/927cfb6ef45828ef037a374d372938b5b9d36d4b)
-- [ ] [<code>Bump the release version to allow for these small changes</code>](https://github.com/dahenson/agenda/commit/39e23333e996d9745e3e56b7107adaef65967cef)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge pull request #167 from dahenson/elementary-appcenter-fixes-1.2.1</code>](https://github.com/dahenson/agenda/commit/07d900dd97c96bd3d78ab088910a39a4b5e060c6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update screenshots</code>](https://github.com/dahenson/agenda/commit/3100a4a5a9a9b0fde53561440aa102f7bfcab0c0)
-  - <sub>Tags: <code>1.2.1</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/83c78fa20ffd5650bd82f616b9dfb9e636cca218)
 - [ ] [<code>Merge pull request #168 from bl00dy1837/patch-1</code>](https://github.com/dahenson/agenda/commit/08ddcb06ad077bc697e83c6c40afd74434fb0f16)
 
@@ -514,6 +424,10 @@
 - [ ] [<code>fix sync button (#1757)</code>](https://github.com/alainm23/planify/commit/add73342b33ff816aef88a2fa59c66fd4bdba6f5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix caldav (#1758)</code>](https://github.com/alainm23/planify/commit/606b55bf60f894a6df6cc14c17d9633fb13100f8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>remove migrate (#1759)</code>](https://github.com/alainm23/planify/commit/f4294ca9f1565a74370fcd3600c398f84d9d4ac8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
