@@ -613,6 +613,7 @@
 - [ ] [<code>Prevent crash when using wrong toplevel widget as Window</code>](https://github.com/xfce-mirror/thunar/commit/9d42bf5b702728818f6252bd74a9b8d912a212a2)
 - [ ] [<code>Fix regression introduced with terminal binding (#1694) (Closes #1694)</code>](https://github.com/xfce-mirror/thunar/commit/797ca0cbd65aade40ccbec80e34ef3411485118c)
 - [ ] [<code>Fix regression to toggle hidden file visibility</code>](https://github.com/xfce-mirror/thunar/commit/ada7b283f4e30264eb1d2ad252dce8bbd0f8c196)
+- [ ] [<code>Update shortcut model asynchronously (#1022)</code>](https://github.com/xfce-mirror/thunar/commit/20d63edba833835eea7832339657650f10008a8e)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
