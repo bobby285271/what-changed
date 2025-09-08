@@ -130,6 +130,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Start to prepare appdata for release 8.2.0 (#1642)</code>](https://github.com/elementary/code/commit/a63540001d927f29b45fcaa75b6f030f4e3c0698)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/code/commit/306b976b78a1255f7be2e5632bda727cb0c50dd1)
+- [ ] [<code>Release version 8.1.1 (#1645)</code>](https://github.com/elementary/code/commit/475005d384cae51cc7d7035f8c02e7977b76fa74)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
 
@@ -165,6 +168,9 @@
 - [ ] [<code>Set no_show_all on empty_label to avoid unintended display (#2634)</code>](https://github.com/elementary/files/commit/bda1e7c76ea59dd98b752d56e9834d4c9cdf5370)
 - [ ] [<code>Do not unquote dropped and pasted uris from uri_list (#2638)</code>](https://github.com/elementary/files/commit/d55c3d4074cd8c00ad9cff782e5fed838ebfb29a)
 - [ ] [<code>Update metainfo for latest commit, update intended release date (#2639)</code>](https://github.com/elementary/files/commit/586df559e1ff7af0737d8bc0eb5c170d3f7d55db)
+- [ ] [<code>Release version 7.1.5 (#2640)</code>](https://github.com/elementary/files/commit/af79dfdf6f2618ddd47ba026f408308e825bd98f)
+  - <sub>Tags: <code>7.1.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
