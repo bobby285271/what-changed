@@ -63,6 +63,8 @@
 - [ ] [<code>AppInfoView: don't allow focusing title labels (#2346)</code>](https://github.com/elementary/appcenter/commit/2a97915a67092fea6a0f95f35cbe0a74d4259ff1)
 - [ ] [<code>AppListUpdateView: inline namespace, use SPDX header (#2343)</code>](https://github.com/elementary/appcenter/commit/74b79c32f5f8a18cbb2ff2d2693e336091ffccc6)
 - [ ] [<code>SearchView: use GridView (#2325)</code>](https://github.com/elementary/appcenter/commit/214425b9d50cefccf6434741c9af9cc444b5dc08)
+- [ ] [<code>InstalledPackageRowGrid: always show release notes (#2331)</code>](https://github.com/elementary/appcenter/commit/6d9884d791610a8f026c2d87c9048f1fa2e04dfd)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -148,6 +150,9 @@
 - [ ] [<code>Fix shaking of window when moving icon (#445)</code>](https://github.com/elementary/dock/commit/e921987a1bf7ed6e3d67ea9c7be5b51410df49b8)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#448)</code>](https://github.com/elementary/dock/commit/2b292379b2f50caf6e78de1f9ab255b272072d53)
 - [ ] [<code>Add shake to app icon when window cannot be opened (#446)</code>](https://github.com/elementary/dock/commit/aabd4372ef2e82d6f5a85efd11bdfbbbd64d9ef4)
+- [ ] [<code>Metainfo: add 8.2.0 release notes (#452)</code>](https://github.com/elementary/dock/commit/9e0a10f9d435c5f5290278252fc1a927d27ce9eb)
+- [ ] [<code>Styles: Fix "Active on Other Workspace" indicator color (#450)</code>](https://github.com/elementary/dock/commit/5687826dc9fd955933365ffd41863a5f8470a768)
+- [ ] [<code>MainWindow: only request multitasking view if workspace switcher enabled (#454)</code>](https://github.com/elementary/dock/commit/1a834d71403739cd5f529a181ede125445314059)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
