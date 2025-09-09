@@ -122,15 +122,14 @@
 - [ ] [<code>data/icons: Make cs_thunderbolt icon consistent with other</code>](https://github.com/linuxmint/cinnamon/commit/39fe76d76d3f34e4b7d92e85f0710c9a7fb8584d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
+#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
-- [ ] [<code>debian/control: Update dependencies.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/d20aa769b259b4359ab446f682678e279cacc42b)
 - [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
 - [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
 - [ ] [<code>Fixed Segmentation fault that sometimes occurs when starting a hotspot. (#351)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4f4601bd8b84b4c21022e0daffbc303c90c05b9c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.1...HEAD)
+#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.2...HEAD)
 
 - [ ] [<code>org.cinnamon.desktop.interface.gschema: Mark the old scaling</code>](https://github.com/linuxmint/cinnamon-desktop/commit/508a0be369905fea36d2c8d455738aee736a90f6)
 - [ ] [<code>build: debian/control fix for alt package name, use debugoptimized</code>](https://github.com/linuxmint/cinnamon-desktop/commit/98450bf1b87d96553af6562ed15e0bf766cd1403)
@@ -151,7 +150,7 @@
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.1...HEAD)
 
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.1...HEAD)
 
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
@@ -322,17 +321,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [5.2 → HEAD](https://github.com/linuxmint/hypnotix/compare/5.2...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.3...HEAD)
 
-- [ ] [<code>Remove hard dependency on python3-imdbpy</code>](https://github.com/linuxmint/hypnotix/commit/b972d1e425bf49a28780e60ab0cbeaf56e1c910b)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>Remove movie info section</code>](https://github.com/linuxmint/hypnotix/commit/82a2d1ef385c7b9632f7749f882a7394ade3eddd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fixed memory leak (#387)</code>](https://github.com/linuxmint/hypnotix/commit/28bfa80c40f5e3015b8709c79de9fe0e6c45c253)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.3</code>](https://github.com/linuxmint/hypnotix/commit/89c11551c2b333f63c4798c7c1fbfa356b29eba7)
-  - <sub>Tags: <code>5.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
 
