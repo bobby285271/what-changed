@@ -428,6 +428,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>remove migrate (#1759)</code>](https://github.com/alainm23/planify/commit/f4294ca9f1565a74370fcd3600c398f84d9d4ac8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#1762)</code>](https://github.com/alainm23/planify/commit/a642c55e0160664b5e20ffe3c7ea3f06f3dd6ea9)
+- [ ] [<code>Fix spacing issue in Inbox Pinboard using Adw.WrapBox (#1763)</code>](https://github.com/alainm23/planify/commit/7d16501689d11a898af4f24d33edae64dabd6eb1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
