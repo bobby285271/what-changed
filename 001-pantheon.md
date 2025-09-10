@@ -65,6 +65,12 @@
 - [ ] [<code>SearchView: use GridView (#2325)</code>](https://github.com/elementary/appcenter/commit/214425b9d50cefccf6434741c9af9cc444b5dc08)
 - [ ] [<code>InstalledPackageRowGrid: always show release notes (#2331)</code>](https://github.com/elementary/appcenter/commit/6d9884d791610a8f026c2d87c9048f1fa2e04dfd)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppListUpdateView: sort installed package by newest release (#2342)</code>](https://github.com/elementary/appcenter/commit/f0818c556c4ba35a9ad7e56d09ec529f8cbb88dd)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/4b3b72c7c2fa249a95c73789be4776f90eb8fa08)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/d43e5cdfa702293167a8a5e18fc5f4710583a372)
+- [ ] [<code>Allow DBus activation (#2350)</code>](https://github.com/elementary/appcenter/commit/19ea569e87b9acb0ef56522e94953536d70dc411)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -153,6 +159,9 @@
 - [ ] [<code>Metainfo: add 8.2.0 release notes (#452)</code>](https://github.com/elementary/dock/commit/9e0a10f9d435c5f5290278252fc1a927d27ce9eb)
 - [ ] [<code>Styles: Fix "Active on Other Workspace" indicator color (#450)</code>](https://github.com/elementary/dock/commit/5687826dc9fd955933365ffd41863a5f8470a768)
 - [ ] [<code>MainWindow: only request multitasking view if workspace switcher enabled (#454)</code>](https://github.com/elementary/dock/commit/1a834d71403739cd5f529a181ede125445314059)
+- [ ] [<code>Release 8.2.0 (#453)</code>](https://github.com/elementary/dock/commit/08d40675e27b17e0e1badc690bfb58851e8bcf14)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -571,6 +580,7 @@
 - [ ] [<code>Select classic session when using a11y features (#821)</code>](https://github.com/elementary/greeter/commit/73db250278c12f941cc16a13ecc2e4be6f7c288f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Update 40-io.elementary.greeter.conf (#747)</code>](https://github.com/elementary/greeter/commit/6b066a36e4fa72b775b635002d7dcb900e399ca8)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
