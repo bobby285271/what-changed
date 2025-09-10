@@ -330,7 +330,7 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.27 → HEAD](https://github.com/linuxmint/sticky/compare/1.27...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [25.07.7 → HEAD](https://github.com/linuxmint/timeshift/compare/25.07.7...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/25.07.7 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/25.07.7...HEAD)
 
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.4 → HEAD](https://github.com/linuxmint/xed/compare/3.8.4...HEAD)
