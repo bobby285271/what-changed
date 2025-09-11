@@ -374,6 +374,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/5cb112ef95ee61850e94d80a793e650aa34792fe)
 - [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/144ec5c7483b5c23c4e9e5414d166f072b55d5f7)
+- [ ] [<code>Update README.md</code>](https://github.com/parnold-x/nasc/commit/c2d8a2abe4c0de0a3b64ec12d25997e2aee396e0)
 
 #### [notes-up](https://github.com/Philip-Scott/Notes-up): [2.0.6 → HEAD](https://github.com/Philip-Scott/Notes-up/compare/2.0.6...HEAD)
 
