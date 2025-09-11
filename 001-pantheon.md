@@ -71,6 +71,11 @@
 - [ ] [<code>Allow DBus activation (#2350)</code>](https://github.com/elementary/appcenter/commit/19ea569e87b9acb0ef56522e94953536d70dc411)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>InstalledPackageRowGrid: put version number inline with name (#2347)</code>](https://github.com/elementary/appcenter/commit/d17b1bf2ae1f3cacbee3ed4faebabaf079b432f6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 8.3.0 (#2348)</code>](https://github.com/elementary/appcenter/commit/ef312a4b1e0d567166ed85256f7d62a75fa67d03)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -387,6 +392,9 @@
 - [ ] [<code>rfkill: Use sizeof instead of literal size (#439)</code>](https://github.com/elementary/switchboard-plug-network/commit/5af6c03a94ec7a65400adf9db7937c8eaa034615)
 - [ ] [<code>RKFill: add airplane mode property (#438)</code>](https://github.com/elementary/switchboard-plug-network/commit/fbd2e9a31fd57654e1136c4a54e1c20343ac5e3a)
 - [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/be58984aed5f8b1e7924a1cb06b9cac836812c29)
+- [ ] [<code>Release 8.2.0 (#442)</code>](https://github.com/elementary/switchboard-plug-network/commit/6183aff9ad8def721840ee6b00f70e0eb78e58bd)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -834,6 +842,9 @@
 - [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/391d93771a61893758a7904fedfed7c01e023cf0)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#348)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/b0e9419b3f96d5d45ef026babb2c4503f72b36ab)
 - [ ] [<code>rfkill: Use sizeof instead of literal size (#349)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/ea3336beb58d9eb87242e13386ba1dfe220adf0e)
+- [ ] [<code>Release 8.0.0 (#345)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/32d0cfe10783b52f8d35935e51ec36f3e2f0ead0)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
