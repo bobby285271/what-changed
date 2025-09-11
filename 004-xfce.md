@@ -614,6 +614,7 @@
 - [ ] [<code>Fix regression introduced with terminal binding (#1694) (Closes #1694)</code>](https://github.com/xfce-mirror/thunar/commit/797ca0cbd65aade40ccbec80e34ef3411485118c)
 - [ ] [<code>Fix regression to toggle hidden file visibility</code>](https://github.com/xfce-mirror/thunar/commit/ada7b283f4e30264eb1d2ad252dce8bbd0f8c196)
 - [ ] [<code>Update shortcut model asynchronously (#1022)</code>](https://github.com/xfce-mirror/thunar/commit/20d63edba833835eea7832339657650f10008a8e)
+- [ ] [<code>Style: Renamed a callback method for consistency</code>](https://github.com/xfce-mirror/thunar/commit/2db8e295e6ea2bb3a812bbe349d90096e4fe50b9)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
