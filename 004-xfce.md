@@ -240,6 +240,7 @@
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4util/commit/40f3e4c8827abecfa962d8fccb44fdc20550779a)
 - [ ] [<code>Revert "Update README after switchover to meson"</code>](https://github.com/xfce-mirror/libxfce4util/commit/7134dfc94898650a303f3eb96a0be4b8a06a5b5c)
 - [ ] [<code>autotools-build: Add *-docs.xml.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4util/commit/34d86697b848069c1b19b67e92a7b1c391ce5dc4)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/aa1485b72df71089baf4e77aeac478e21a44f0c1)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -353,6 +354,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>autotools-build: Add *-docs.xml.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a1fd0c18256f6eab9b24129ffe7778a1ddcc486)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/eda46893fe17c90e9853505078422e1c8ff7e96e)
+- [ ] [<code>XfwWindowX11: Readjust entire monitor list when one is added/removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56f9de0736150c88f0b5f04a71aa73e502c1c6a7)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -615,6 +617,7 @@
 - [ ] [<code>Fix regression to toggle hidden file visibility</code>](https://github.com/xfce-mirror/thunar/commit/ada7b283f4e30264eb1d2ad252dce8bbd0f8c196)
 - [ ] [<code>Update shortcut model asynchronously (#1022)</code>](https://github.com/xfce-mirror/thunar/commit/20d63edba833835eea7832339657650f10008a8e)
 - [ ] [<code>Style: Renamed a callback method for consistency</code>](https://github.com/xfce-mirror/thunar/commit/2db8e295e6ea2bb3a812bbe349d90096e4fe50b9)
+- [ ] [<code>Remove duplicated code in `thunar_browser_poke_file_finish`</code>](https://github.com/xfce-mirror/thunar/commit/fc50cf96cddcdce87c0a0280af7d19ba95645aee)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
