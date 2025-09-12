@@ -434,6 +434,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix word wrap (#1764)</code>](https://github.com/alainm23/planify/commit/2ec12d4a04eef39b7d087f425ca1102c6b64f996)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve task reordering and external sync support (#1769)</code>](https://github.com/alainm23/planify/commit/fd8e85e79630fd8e38844c1b6a9f830caca4ee6e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
