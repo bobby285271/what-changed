@@ -147,26 +147,8 @@
   - <sub>Tags: <code>8.1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.1.2 → HEAD](https://github.com/elementary/dock/compare/8.1.2...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
-- [ ] [<code>Use shadow width instead of custom size (#437)</code>](https://github.com/elementary/dock/commit/3323bb034af197cc21f03397f7c259e785b29a39)
-- [ ] [<code>Implement background app monitoring (#394)</code>](https://github.com/elementary/dock/commit/3f68ec7d6772787da5d2188623eaa96b1b0f4901)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Keep the dock visible in the MultitaskingView (#375)</code>](https://github.com/elementary/dock/commit/ad315c8bd854191508ad4ed852f381654ce7e82a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Use main branch (#440)</code>](https://github.com/elementary/dock/commit/51275ccc3b9405ddec817c4d68e8d3dce0cedea5)
-- [ ] [<code>Update POTFILES (#442)</code>](https://github.com/elementary/dock/commit/b2903a6c1b713090d1d96640a99c772649060f76)
-- [ ] [<code>Replace tooltip with popover (#441)</code>](https://github.com/elementary/dock/commit/e3e6dc912acff1a720b4469e1812be4c07923aa1)
-- [ ] [<code>Fix shaking of window when moving icon (#445)</code>](https://github.com/elementary/dock/commit/e921987a1bf7ed6e3d67ea9c7be5b51410df49b8)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#448)</code>](https://github.com/elementary/dock/commit/2b292379b2f50caf6e78de1f9ab255b272072d53)
-- [ ] [<code>Add shake to app icon when window cannot be opened (#446)</code>](https://github.com/elementary/dock/commit/aabd4372ef2e82d6f5a85efd11bdfbbbd64d9ef4)
-- [ ] [<code>Metainfo: add 8.2.0 release notes (#452)</code>](https://github.com/elementary/dock/commit/9e0a10f9d435c5f5290278252fc1a927d27ce9eb)
-- [ ] [<code>Styles: Fix "Active on Other Workspace" indicator color (#450)</code>](https://github.com/elementary/dock/commit/5687826dc9fd955933365ffd41863a5f8470a768)
-- [ ] [<code>MainWindow: only request multitasking view if workspace switcher enabled (#454)</code>](https://github.com/elementary/dock/commit/1a834d71403739cd5f529a181ede125445314059)
-- [ ] [<code>Release 8.2.0 (#453)</code>](https://github.com/elementary/dock/commit/08d40675e27b17e0e1badc690bfb58851e8bcf14)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -349,6 +331,7 @@
 - [ ] [<code>Actions: Use main branch (#254)</code>](https://github.com/elementary/switchboard-plug-applications/commit/aeebe57f5c4e23e027cd2c1da054e84f6e9f63e4)
 - [ ] [<code>DefaultPlug: add settings for geo uri handler (#255)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d0abc274b864f0a8accd2fde0f120f635815bc84)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-applications/commit/9acf54bb7c435a5b20577f121c7363eb5484a188)
+- [ ] [<code>Metainfo: add 8.2.0 release notes (#257)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6fd44a224f60203b6f158f1401872152bfb82a25)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -589,6 +572,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update 40-io.elementary.greeter.conf (#747)</code>](https://github.com/elementary/greeter/commit/6b066a36e4fa72b775b635002d7dcb900e399ca8)
+- [ ] [<code>Update greeter.metainfo.xml.in</code>](https://github.com/elementary/greeter/commit/03012633206f838b4d55dc604e5c17392424cd48)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -936,6 +920,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#128)</code>](https://github.com/elementary/quick-settings/commit/c7aa6f325e20ded5ef2004fdba06a4d9d7cc177e)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/quick-settings/commit/c058688a3a7e743e674629f9c86c1a1f625ff633)
+- [ ] [<code>Metainfo: add 1.3.0 release notes (#132)</code>](https://github.com/elementary/quick-settings/commit/9ff810c201462b1d26562d88622100fdc8557941)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
