@@ -120,7 +120,10 @@
 - [ ] [<code>notificationDaemon.js: Improve notification error handling.</code>](https://github.com/linuxmint/cinnamon/commit/1201332ac07308a3bfa1d0ec95a93fde6af06641)
 - [ ] [<code>debian/control: add mate-polkit agent as an alternative to gnome's.</code>](https://github.com/linuxmint/cinnamon/commit/153b143a844760c75b219acc4b688745023a14d2)
 - [ ] [<code>data/icons: Make cs_thunderbolt icon consistent with other</code>](https://github.com/linuxmint/cinnamon/commit/39fe76d76d3f34e4b7d92e85f0710c9a7fb8584d)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>cinnamon-launcher: Launch a polkit agent for the fallback session,</code>](https://github.com/linuxmint/cinnamon/commit/f5c5926f755d71b040cfe82fe78db89d14108524)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
