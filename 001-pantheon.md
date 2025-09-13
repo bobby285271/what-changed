@@ -332,6 +332,9 @@
 - [ ] [<code>DefaultPlug: add settings for geo uri handler (#255)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d0abc274b864f0a8accd2fde0f120f635815bc84)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-applications/commit/9acf54bb7c435a5b20577f121c7363eb5484a188)
 - [ ] [<code>Metainfo: add 8.2.0 release notes (#257)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6fd44a224f60203b6f158f1401872152bfb82a25)
+- [ ] [<code>Release 8.2.0 (#258)</code>](https://github.com/elementary/switchboard-plug-applications/commit/eaeb40817c76089d574658255d0fc75766862f27)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -921,6 +924,9 @@
 - [ ] [<code>Actions: Use main branch (#128)</code>](https://github.com/elementary/quick-settings/commit/c7aa6f325e20ded5ef2004fdba06a4d9d7cc177e)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/quick-settings/commit/c058688a3a7e743e674629f9c86c1a1f625ff633)
 - [ ] [<code>Metainfo: add 1.3.0 release notes (#132)</code>](https://github.com/elementary/quick-settings/commit/9ff810c201462b1d26562d88622100fdc8557941)
+- [ ] [<code>Release 1.3.0 (#133)</code>](https://github.com/elementary/quick-settings/commit/aa48606098b693966542453858c607c15e3a78a8)
+  - <sub>Tags: <code>1.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
