@@ -443,6 +443,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix project leake (#1773)</code>](https://github.com/alainm23/planify/commit/acbfa61154bb8bc62e61147bfd989c60266eb0c4)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix (#1775)</code>](https://github.com/alainm23/planify/commit/40de3c9597aff98a92c1eee9ad4986318bde4117)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>remove logs (#1776)</code>](https://github.com/alainm23/planify/commit/ba767ae6f1a741333acee45d5f56eea4cde3c370)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
