@@ -437,6 +437,12 @@
 - [ ] [<code>Improve task reordering and external sync support (#1769)</code>](https://github.com/alainm23/planify/commit/fd8e85e79630fd8e38844c1b6a9f830caca4ee6e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dialog leaks (#1771)</code>](https://github.com/alainm23/planify/commit/36cffe34303774e3a0488c91ef98c1ba36d92bec)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix Memory Leaks in ItemRow and SubItems Widgets (#1772)</code>](https://github.com/alainm23/planify/commit/8a34758c4beae696e17ae55f999c9b46ac90bd95)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix project leake (#1773)</code>](https://github.com/alainm23/planify/commit/acbfa61154bb8bc62e61147bfd989c60266eb0c4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
