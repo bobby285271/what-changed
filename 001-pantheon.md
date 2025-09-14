@@ -67,6 +67,7 @@
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
+- [ ] [<code>Add blur (#390)</code>](https://github.com/elementary/dock/commit/bf85936e09f0d0a3b6662156692c3aeaa9caa2f5)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -550,6 +551,8 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>Cleanup Wayland sockets on logout</code>](https://github.com/elementary/gala/commit/3442a1ab57058957e6c07ada9b1d06a8bbc629cd)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Add Blur API</code>](https://github.com/elementary/gala/commit/0035139c61e872f244ff3c2c8f406a9fbb334a69)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
