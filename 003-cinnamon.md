@@ -296,7 +296,10 @@
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
 
 - [ ] [<code>mate-xapp-status-applet.py: Don't use theme.has_icon() - not all</code>](https://github.com/linuxmint/xapp/commit/c2d7d289d1868cea6c66da03af9be60b4b3de302)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>2.8.13</code>](https://github.com/linuxmint/xapp/commit/d70dee1da70ea6902cf46039564741a18054e93a)
+  - <sub>Tags: <code>2.8.13</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
