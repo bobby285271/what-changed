@@ -446,6 +446,9 @@
 - [ ] [<code>fix (#1775)</code>](https://github.com/alainm23/planify/commit/40de3c9597aff98a92c1eee9ad4986318bde4117)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>remove logs (#1776)</code>](https://github.com/alainm23/planify/commit/ba767ae6f1a741333acee45d5f56eea4cde3c370)
+- [ ] [<code>Fix CalDAV sync by generating missing calendar_home_url (#1777)</code>](https://github.com/alainm23/planify/commit/d618b6c2ca2debc63eac02a75d09bbdaf4566990)
+- [ ] [<code>Fix typos (#1778)</code>](https://github.com/alainm23/planify/commit/90f0f0739e08150c363565fb5a10e6ec62bd91aa)
+- [ ] [<code>Fix critical warning if no sync id is avaiable (#1779)</code>](https://github.com/alainm23/planify/commit/036b5e80f9b743e038df16cab63e369b643b96df)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
