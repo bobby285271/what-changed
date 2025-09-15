@@ -203,6 +203,15 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.1 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.1...HEAD)
 
+- [ ] [<code>libadwaita-1.7: Update build</code>](https://github.com/linuxmint/mint-l-theme/commit/54908f38bbb9a09cd3ea2e58751049686205da49)
+- [ ] [<code>libadwaita-1.7: Add lib stylesheet</code>](https://github.com/linuxmint/mint-l-theme/commit/9b7c0c0990e3cf717a3c9799f156e71dff898b62)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>libadwaita-1.7: Override window controls</code>](https://github.com/linuxmint/mint-l-theme/commit/e3a9b31213a779ead620c7b70d271b7a5b1d24f4)
+- [ ] [<code>libadwaita 1.7: Update colors</code>](https://github.com/linuxmint/mint-l-theme/commit/e476a1b7e5d1b2a1ae1ad415367d7e4c9c672687)
+- [ ] [<code>Revert "Fix libAdw accent colors for Mint-L-Brown"</code>](https://github.com/linuxmint/mint-l-theme/commit/a21bd59a73067d5321b934ffc18ee063b3b77fec)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/mint-l-theme/commit/075b4c521d82523d7aa9780e09c8d5f14d274697)
+  - <sub>Tags: <code>2.0.2</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -211,11 +220,14 @@
 - [ ] [<code>libadwaita-1.7: Add library stylesheet to Mint-Y</code>](https://github.com/linuxmint/mint-themes/commit/4e683e28bad46041919b0c2213739452d930467c)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>libadwaita 1.7: Override Mint-Y window controls</code>](https://github.com/linuxmint/mint-themes/commit/8adc638626aba78653445c73aab564567971a18a)
-- [ ] [<code>libadwaita 1.7: Update Mint-Y colors</code>](https://github.com/linuxmint/mint-themes/commit/8b5855fa55716cbe00aaea1f01fb9c1ceee6c204)
-- [ ] [<code>libadwaita-1.7: Add library stylesheet to Mint-X</code>](https://github.com/linuxmint/mint-themes/commit/bfa8c7ab1cee8817c0b3c990897a1cff6f590f73)
+- [ ] [<code>libadwaita 1.7: Update Mint-Y colors</code>](https://github.com/linuxmint/mint-themes/commit/ea9c9e5b39f478f73f23a5b89f5c45609a156b6d)
+- [ ] [<code>libadwaita-1.7: Add library stylesheet to Mint-X</code>](https://github.com/linuxmint/mint-themes/commit/d373d7c85e309f76eebf9bbaafe06c102f38a148)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>libadwaita 1.7: Override Mint-X window controls</code>](https://github.com/linuxmint/mint-themes/commit/d14038e6c25376de9828600b19e6efeb45b3e3f3)
-- [ ] [<code>libadwaita 1.7: Update Mint-X colors</code>](https://github.com/linuxmint/mint-themes/commit/8f2816ce91def93825ac286854f8799a8d0ecdca)
+- [ ] [<code>libadwaita 1.7: Override Mint-X window controls</code>](https://github.com/linuxmint/mint-themes/commit/fb13bc75fd2be3450527b0c047db26250da531b8)
+- [ ] [<code>libadwaita 1.7: Update Mint-X colors</code>](https://github.com/linuxmint/mint-themes/commit/708b9f7f2e24497c21fa97a35889c12e39a8977d)
+- [ ] [<code>Revert "Fix libAdw accent colors for Mint-X, Mint-X-Brown and Mint-Y-Sand."</code>](https://github.com/linuxmint/mint-themes/commit/9215951ca898bc9de8b1e31406039db8f03b68b5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.3.3</code>](https://github.com/linuxmint/mint-themes/commit/76e1d3d70ef936912f184e261902f9f98aae4f0e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
