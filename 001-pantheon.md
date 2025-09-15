@@ -58,6 +58,7 @@
 - [ ] [<code>SourceRow: always show buttons (#857)</code>](https://github.com/elementary/calendar/commit/295bdd0cd20bab30fa33ff45e04cd05456918b1b)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calendar/commit/685638c07f3ba64cba8de20a0282973858f48096)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.2.tar.xz to 3.57.3 (#861)</code>](https://github.com/elementary/calendar/commit/aa5fd80f020523cc20693fb9f05b08ecfe1cfd89)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.3.tar.xz to 3.58.0 (#863)</code>](https://github.com/elementary/calendar/commit/a674eac515b16c542dbfe60e0eebaca384ed037d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -153,6 +154,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#824)</code>](https://github.com/elementary/photos/commit/394a6eee1f51e2635f8b1453bb9d1de3e20bc8d8)
 - [ ] [<code>Update exiv2 and gexiv2 modules (#825)</code>](https://github.com/elementary/photos/commit/a185bbade0312388343429cfe46b3a5562d44df1)
 - [ ] [<code>Remove sample plugin</code>](https://github.com/elementary/photos/commit/9bc21febaa225ed6a4eec754fa3ac3ab7dce0d0e)
+- [ ] [<code>Update inih and gexiv2 modules (#827)</code>](https://github.com/elementary/photos/commit/276b79a791c0255b650b87c1e0d21638742b982f)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
@@ -193,6 +195,7 @@
 - [ ] [<code>Bump platform to 8.2 (#403)</code>](https://github.com/elementary/tasks/commit/4f3f0bb8d0f807b1905017e491e5ca8d784a92b6)
 - [ ] [<code>Actions: Use main branch (#417)</code>](https://github.com/elementary/tasks/commit/49ce982c49b09fbd6636d88d7d290e8759d4152c)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/tasks/commit/17d8e0914a6078018d094b929c09085e7a2f7680)
+- [ ] [<code>libshumate: Update libshumate-1.4.0.tar.xz to 1.5.0.1 (#419)</code>](https://github.com/elementary/tasks/commit/ea2f1177b4e92fdd7cf679b614393eecdd739776)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.1 → HEAD](https://github.com/elementary/terminal/compare/7.1.1...HEAD)
 
