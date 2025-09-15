@@ -473,6 +473,8 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Update 40-io.elementary.greeter.conf (#747)</code>](https://github.com/elementary/greeter/commit/6b066a36e4fa72b775b635002d7dcb900e399ca8)
 - [ ] [<code>Update greeter.metainfo.xml.in</code>](https://github.com/elementary/greeter/commit/03012633206f838b4d55dc604e5c17392424cd48)
+- [ ] [<code>Do not try to fallback to x11 session when it is unavailable (#824)</code>](https://github.com/elementary/greeter/commit/2461ad1be4a4d0e541879abe869cf8911f505215)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -486,6 +488,10 @@
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [8.0.1 → HEAD](https://github.com/elementary/session-settings/compare/8.0.1...HEAD)
 
 - [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#90)</code>](https://github.com/elementary/session-settings/commit/0c61b20d83c69aef7ee28332341831a6f77f5cfd)
+- [ ] [<code>Always build wayland session</code>](https://github.com/elementary/session-settings/commit/2805d31e8447d9c10450306d553b207e4710ffe9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Add meson option to disable x11 session</code>](https://github.com/elementary/session-settings/commit/e708fd49356f145acd926d30683012d9488f0f9d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -553,6 +559,7 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Add Blur API</code>](https://github.com/elementary/gala/commit/0035139c61e872f244ff3c2c8f406a9fbb334a69)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: fix drag animation with multiple monitors (#2501)</code>](https://github.com/elementary/gala/commit/a38a88377242296c0b8493ab07ec90d200a25087)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
