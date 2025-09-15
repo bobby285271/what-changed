@@ -160,7 +160,10 @@
 - [ ] [<code>Remove old upower support to match c-s-d commits (#185)</code>](https://github.com/linuxmint/cinnamon-session/commit/97bcafd5933e2f073d51105061e049ba7ff0811e)
 - [ ] [<code>csm-manager.c: Don't consider suspend inhibitors when gathering</code>](https://github.com/linuxmint/cinnamon-session/commit/28b5ebc18c744e1c79efbaa8d6b3e91bdad2e57e)
 - [ ] [<code>csm-manager.c: Clear system inhibitors before attempting to</code>](https://github.com/linuxmint/cinnamon-session/commit/8042c7f4756773b32e30f902d2cb05c865b9f6d7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>XDG_DATA_DIRS: Do not include /usr/share/gnome</code>](https://github.com/linuxmint/cinnamon-session/commit/df2e8ee9973ac4d426fd577e0daf0f5bc5a1a141)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
@@ -204,6 +207,15 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
 - [ ] [<code>Run update-variations, was missed in 6c4a01bd7e1.</code>](https://github.com/linuxmint/mint-themes/commit/e5197d052857fcf1b8721d8cb9e6c882f9ca074f)
+- [ ] [<code>libadwaita 1.7: Update build</code>](https://github.com/linuxmint/mint-themes/commit/42b8e9e154b88f15fc15522eecf89de8d5404ad9)
+- [ ] [<code>libadwaita-1.7: Add library stylesheet to Mint-Y</code>](https://github.com/linuxmint/mint-themes/commit/4e683e28bad46041919b0c2213739452d930467c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>libadwaita 1.7: Override Mint-Y window controls</code>](https://github.com/linuxmint/mint-themes/commit/8adc638626aba78653445c73aab564567971a18a)
+- [ ] [<code>libadwaita 1.7: Update Mint-Y colors</code>](https://github.com/linuxmint/mint-themes/commit/8b5855fa55716cbe00aaea1f01fb9c1ceee6c204)
+- [ ] [<code>libadwaita-1.7: Add library stylesheet to Mint-X</code>](https://github.com/linuxmint/mint-themes/commit/bfa8c7ab1cee8817c0b3c990897a1cff6f590f73)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>libadwaita 1.7: Override Mint-X window controls</code>](https://github.com/linuxmint/mint-themes/commit/d14038e6c25376de9828600b19e6efeb45b3e3f3)
+- [ ] [<code>libadwaita 1.7: Update Mint-X colors</code>](https://github.com/linuxmint/mint-themes/commit/8f2816ce91def93825ac286854f8799a8d0ecdca)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
@@ -293,13 +305,8 @@
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
   - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.12 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.12...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.13 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.13...HEAD)
 
-- [ ] [<code>mate-xapp-status-applet.py: Don't use theme.has_icon() - not all</code>](https://github.com/linuxmint/xapp/commit/c2d7d289d1868cea6c66da03af9be60b4b3de302)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>2.8.13</code>](https://github.com/linuxmint/xapp/commit/d70dee1da70ea6902cf46039564741a18054e93a)
-  - <sub>Tags: <code>2.8.13</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
