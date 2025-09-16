@@ -618,6 +618,15 @@
 - [ ] [<code>Update shortcut model asynchronously (#1022)</code>](https://github.com/xfce-mirror/thunar/commit/20d63edba833835eea7832339657650f10008a8e)
 - [ ] [<code>Style: Renamed a callback method for consistency</code>](https://github.com/xfce-mirror/thunar/commit/2db8e295e6ea2bb3a812bbe349d90096e4fe50b9)
 - [ ] [<code>Remove duplicated code in `thunar_browser_poke_file_finish`</code>](https://github.com/xfce-mirror/thunar/commit/fc50cf96cddcdce87c0a0280af7d19ba95645aee)
+- [ ] [<code>Rename thunar_window_binding_create</code>](https://github.com/xfce-mirror/thunar/commit/4e0f7aff78f145eb56bc29d273ee31a4d07ae80b)
+- [ ] [<code>Use thunar-tree-view-model for abstract-icon-view</code>](https://github.com/xfce-mirror/thunar/commit/7e752cba08f5816cd9363f05fa2a474f4517a6cf)
+- [ ] [<code>Use thunar-tree-view-model for path-entry</code>](https://github.com/xfce-mirror/thunar/commit/4fd77c828119612ecd41336ff3bac74034fbb0de)
+- [ ] [<code>Remove thunar-list-model</code>](https://github.com/xfce-mirror/thunar/commit/d8a1f821d5e79f4b4c3643211caf465a3c2a75b4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Consolidate standard-view-model interface into tree-view-model</code>](https://github.com/xfce-mirror/thunar/commit/dbec2baf943804fd4601c8fd4769fba0c3d423ed)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove unused standard-view-model</code>](https://github.com/xfce-mirror/thunar/commit/1cc06e865532d66e35084a8b837054a432882f87)
+- [ ] [<code>Drop deleted files from POTFILES.in</code>](https://github.com/xfce-mirror/thunar/commit/3d47d0171e5dcfac8fd86590d26c409e1538c994)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
