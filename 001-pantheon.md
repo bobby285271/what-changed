@@ -247,6 +247,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#135)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/eef903ba7be3fc870e161ca0abf135aea3d368f1)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-datetime/commit/237d4983c869cc07f0f51ddfef6ed3bc82431135)
+- [ ] [<code>Update datetime.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-datetime/commit/0ed2ac4023dcbd80ab0227cd10bab13204596f48)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.2 → HEAD](https://github.com/elementary/settings-display/compare/8.0.2...HEAD)
 
@@ -323,6 +324,8 @@
 
 - [ ] [<code>Actions: Use main branch (#95)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/432939d757b8a2edb1b7109e95d08d8eefd160c2)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#96)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/58b483dfdc9776d394cf54934b4ee67122ae3818)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sharing/commit/809d4ec7a3b156f086a2c3ebd3cc62331eeadd65)
+- [ ] [<code>Update sharing.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/dbabdcf0ba6f6fd1a182a16ca53fb075619e0ac7)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
 
@@ -514,6 +517,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: Use main branch (#632)</code>](https://github.com/elementary/wingpanel/commit/25b057e9b5554bd463d01bff882924cdbf0426ac)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#634)</code>](https://github.com/elementary/wingpanel/commit/1bc8ab6b1df1c9e7ad44fbffa8cc1fd4abd07706)
+- [ ] [<code>FocusManager: fix missing argument in push_modal (#637)</code>](https://github.com/elementary/wingpanel/commit/4476df2573797310e254695a66c099b32afe9736)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
