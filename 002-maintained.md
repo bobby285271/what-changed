@@ -457,6 +457,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>use debug message (#1787)</code>](https://github.com/alainm23/planify/commit/94c5339354dc8f892302bcd673b1d1f81425405a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Show label to the left of tasks (#1788)</code>](https://github.com/alainm23/planify/commit/0a92e9b3a15779b9a1354ea3148bf9f3e9eb10c1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
