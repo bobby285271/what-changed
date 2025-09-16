@@ -230,19 +230,10 @@
 - [ ] [<code>FirmwareView: use Adw.NavigationView (#381)</code>](https://github.com/elementary/switchboard-plug-about/commit/749362bffddd17555c240ecd0dd5836bc5fff69d)
 - [ ] [<code>Actions: Use main branch (#382)</code>](https://github.com/elementary/switchboard-plug-about/commit/2991c2d71ed58ad76699c26d73a329aa2c54404d)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#383)</code>](https://github.com/elementary/switchboard-plug-about/commit/08ae1106ac671061a5a55c327c77f72831d62589)
+- [ ] [<code>Metainfo: update URLS</code>](https://github.com/elementary/switchboard-plug-about/commit/4abf3da689a0af83583cce201a091fefad7ec3bf)
 
-#### [pantheon.switchboard-plug-applications](https://github.com/elementary/switchboard-plug-applications): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-applications/compare/8.1.0...HEAD)
+#### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-applications/commit/dd6c2544ef7f6a64db8d9e2f42ec4d9df33b3a54)
-- [ ] [<code>switchboard-plug-applications → settings-applications</code>](https://github.com/elementary/switchboard-plug-applications/commit/ea901e4700f77e6b79d30200fa6a29b1da04de16)
-- [ ] [<code>Sidebar: use Action, search on type (#251)</code>](https://github.com/elementary/switchboard-plug-applications/commit/8ecd65a2c233a390998889c8677a36ec0bc7f33e)
-- [ ] [<code>Actions: Use main branch (#254)</code>](https://github.com/elementary/switchboard-plug-applications/commit/aeebe57f5c4e23e027cd2c1da054e84f6e9f63e4)
-- [ ] [<code>DefaultPlug: add settings for geo uri handler (#255)</code>](https://github.com/elementary/switchboard-plug-applications/commit/d0abc274b864f0a8accd2fde0f120f635815bc84)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-applications/commit/9acf54bb7c435a5b20577f121c7363eb5484a188)
-- [ ] [<code>Metainfo: add 8.2.0 release notes (#257)</code>](https://github.com/elementary/switchboard-plug-applications/commit/6fd44a224f60203b6f158f1401872152bfb82a25)
-- [ ] [<code>Release 8.2.0 (#258)</code>](https://github.com/elementary/switchboard-plug-applications/commit/eaeb40817c76089d574658255d0fc75766862f27)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -325,6 +316,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actions: Use main branch (#189)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/16cb1967fd021e18976ad3d9a7b2900183f335a0)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#190)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/f3a03b01024f26e5564a49161f4cf2a8df4de10e)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/cf09da24fbb00612e46b5428646221f65c9276fa)
+- [ ] [<code>Update security-privacy.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a0c540633faa57eadc5f18de2aa6c2cad2329abd)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
@@ -420,64 +413,8 @@
 - [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/default-settings/commit/0251a127f06ec91e2284061c97ba0967f031d307)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [8.0.1 → HEAD](https://github.com/elementary/greeter/compare/8.0.1...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [2461ad1be4a4d0e541879abe869cf8911f505215 → HEAD](https://github.com/elementary/greeter/compare/2461ad1be4a4d0e541879abe869cf8911f505215...HEAD)
 
-- [ ] [<code>Remove unused values from config (#787)</code>](https://github.com/elementary/greeter/commit/d94cff3535ab35f944fda38adc582e1a3e063a28)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Compositor: remove more dead code (#781)</code>](https://github.com/elementary/greeter/commit/3765a0c75bcf92048baab10a1d79cd0bde883ab7)
-- [ ] [<code>Add dark style support (#786)</code>](https://github.com/elementary/greeter/commit/5d434ef8279261ff8cb4821a58761c2930ac6986)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use gsettings to store last user (#793)</code>](https://github.com/elementary/greeter/commit/cc94d2d4e9499c587bd8dde373cbe60b66ea35c9)
-- [ ] [<code>Compositor: remove unused x11 specific code (#780)</code>](https://github.com/elementary/greeter/commit/abb4626f8c956c430c767560e8e44efcd46a099d)
-- [ ] [<code>Move session action into application (#795)</code>](https://github.com/elementary/greeter/commit/5620c38cf15198a5bb94d3bc3c52f03bfbe05ecd)
-- [ ] [<code>Protocol: add support for pushing Greeter to background</code>](https://github.com/elementary/greeter/commit/aaa9c04fce528a9b8d38e73a9f71a6445f655714)
-- [ ] [<code>Move server protocol into compositor folder</code>](https://github.com/elementary/greeter/commit/9ea805584b3dcc85d368045df856f43fa3a3fe54)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Greeter: use protocol</code>](https://github.com/elementary/greeter/commit/57df85f84b5b6015b9880fd0bb008526de82f3c9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix popover keyboard nav</code>](https://github.com/elementary/greeter/commit/8f5bf44638578a44c3a3f1704006aa7c31794dc2)
-- [ ] [<code>Remove unused PromptText (#799)</code>](https://github.com/elementary/greeter/commit/359c83fd15355dc76d84fb7625ce1389ea094e5a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Cleanup StyleContext use (#800)</code>](https://github.com/elementary/greeter/commit/f6a120c8c3751a2cf835ed382e2dc7256b6020c4)
-- [ ] [<code>Set power settings of active user (#801)</code>](https://github.com/elementary/greeter/commit/a29eaa5ac5d6e3de09813624aabe8cf7991783fa)
-- [ ] [<code>Connect to lightdm daemon early (#802)</code>](https://github.com/elementary/greeter/commit/ccbc813c9cea848d941ba6e1cb26556ae1d91bbd)
-- [ ] [<code>Cleanup UserCard property sync (#803)</code>](https://github.com/elementary/greeter/commit/68915d9d67152e33ce60fbfb649a2788c35d8218)
-- [ ] [<code>Cleanup BaseCard (#804)</code>](https://github.com/elementary/greeter/commit/f2a3742c70c9c7672a22b11e558c8bde356e39b7)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Small CapsLockRevealer cleanup (#805)</code>](https://github.com/elementary/greeter/commit/362ee026e8069013236da28af8592673a8ca8b82)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Cleanup FPrintUtils (#806)</code>](https://github.com/elementary/greeter/commit/80b0f68e8e337ad8677d11cd6b6ffd6b693bde4e)
-- [ ] [<code>Cleanup DateTimeWidget (#807)</code>](https://github.com/elementary/greeter/commit/7b2b0781a4d141585d6ee36b2672ad3984b9a17d)
-- [ ] [<code>Remove old unused texture (#808)</code>](https://github.com/elementary/greeter/commit/b676e72d6f33cb1b49a3b048723f28fe78eca83e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Require Mutter >=45 (#773)</code>](https://github.com/elementary/greeter/commit/fbbb7fa8b320f51283cadf404b3e97cce00cfff0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Compositor: sync shell clients code with gala (#810)</code>](https://github.com/elementary/greeter/commit/aed49576b4e6c40443ed999e37377d2d7499d334)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Rename master to main</code>](https://github.com/elementary/greeter/commit/fb64e1820482614a6c3ddcc7de53f2e5566b53c8)
-- [ ] [<code>Follow automatic accent color preference (#813)</code>](https://github.com/elementary/greeter/commit/7c83f0155f726522e79c2597cb6285f4448f9736)
-- [ ] [<code>Position Greeter window in the compositor (#811)</code>](https://github.com/elementary/greeter/commit/d12432d2f124dc5218e252c0af246fc4f3c928a7)
-- [ ] [<code>Save and restore last selected session type (#809)</code>](https://github.com/elementary/greeter/commit/806abc63be67cca64d790c794b5f820bb394f6ee)
-- [ ] [<code>SessionButton: subclass bin (#815)</code>](https://github.com/elementary/greeter/commit/1b75f9313e79b86adf9ba5e1c4c8170b33657fb4)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Start the port to Mutter 48</code>](https://github.com/elementary/greeter/commit/4bcb6ee549d95592f93f26cc1d2faa4a4b269f51)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Prepare metainfo for 8.1.0 (#816)</code>](https://github.com/elementary/greeter/commit/fd6f1328605e0a717c898ed20af5b48a884cac54)
-- [ ] [<code>Center caps lock label (#798)</code>](https://github.com/elementary/greeter/commit/386dec4c1eff853ff535db5b2dbda4f67d0d181a)
-- [ ] [<code>Sync Wingpanel transparency (#788)</code>](https://github.com/elementary/greeter/commit/ca4c90615d22ea2bf55a2987cbe929c299edba99)
-- [ ] [<code>Add OpenSUSE Leap CI (#820)</code>](https://github.com/elementary/greeter/commit/38d23a41cb467ef3dcfb7621f5f3eb49ac7e4291)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/greeter/commit/e34c2e73d6cc1a5377f5a82ffa9cccdfbb2ccc9c)
-- [ ] [<code>Select classic session when using a11y features (#821)</code>](https://github.com/elementary/greeter/commit/73db250278c12f941cc16a13ecc2e4be6f7c288f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Update 40-io.elementary.greeter.conf (#747)</code>](https://github.com/elementary/greeter/commit/6b066a36e4fa72b775b635002d7dcb900e399ca8)
-- [ ] [<code>Update greeter.metainfo.xml.in</code>](https://github.com/elementary/greeter/commit/03012633206f838b4d55dc604e5c17392424cd48)
-- [ ] [<code>Do not try to fallback to x11 session when it is unavailable (#824)</code>](https://github.com/elementary/greeter/commit/2461ad1be4a4d0e541879abe869cf8911f505215)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -488,13 +425,8 @@
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [8.0.1 → HEAD](https://github.com/elementary/session-settings/compare/8.0.1...HEAD)
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [e708fd49356f145acd926d30683012d9488f0f9d → HEAD](https://github.com/elementary/session-settings/compare/e708fd49356f145acd926d30683012d9488f0f9d...HEAD)
 
-- [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#90)</code>](https://github.com/elementary/session-settings/commit/0c61b20d83c69aef7ee28332341831a6f77f5cfd)
-- [ ] [<code>Always build wayland session</code>](https://github.com/elementary/session-settings/commit/2805d31e8447d9c10450306d553b207e4710ffe9)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Add meson option to disable x11 session</code>](https://github.com/elementary/session-settings/commit/e708fd49356f145acd926d30683012d9488f0f9d)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -784,25 +716,8 @@
 - [ ] [<code>PlayerRow: GTK4 Prep, code style (#304)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a9381c5014d2eb34bf164711a11827b57f487436)
 - [ ] [<code>Scale: GTK4 prep (#305)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4ae27545379dea1dbbfdc7ae42a1f5c974053efe)
 
-#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.2.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.2.0...HEAD)
+#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
 
-- [ ] [<code>SettingsToggle: icon → icon_name (#107)</code>](https://github.com/elementary/quick-settings/commit/682d0c60a6aff3ade4eb121a40fd7f97484489cc)
-- [ ] [<code>UserRow: remove draw call (#112)</code>](https://github.com/elementary/quick-settings/commit/803ef3ca84d008537e47589c1b02967a3df34139)
-- [ ] [<code>EndSessionDialog: replace ButtonBox (#110)</code>](https://github.com/elementary/quick-settings/commit/534fb75b966839adc33f40bc407e62e3a47504e3)
-- [ ] [<code>SessionBox: present_with_time → present (#109)</code>](https://github.com/elementary/quick-settings/commit/dc8c1752c561a21008f546a7e7bc9ea7a9a8c74d)
-- [ ] [<code>EndSessionDialog: use EventControllerKey (#111)</code>](https://github.com/elementary/quick-settings/commit/c5bcc54da47d815826319bc55c8ae7ef06608fd5)
-- [ ] [<code>PopoverWidget: notify when onboard activated in Wayland (#120)</code>](https://github.com/elementary/quick-settings/commit/61cc3b67c2408e9904c19e97718d006339b90c03)
-- [ ] [<code>DarkModeToggle: animate (#121)</code>](https://github.com/elementary/quick-settings/commit/199c7e1a98e60ba26cb0aeb650dc30e32835126c)
-- [ ] [<code>RotationToggle: animate (#122)</code>](https://github.com/elementary/quick-settings/commit/253da4f60c2b89a876a7c54b20b1d53ebba3717d)
-- [ ] [<code>EndSessionDialog: use Granite.MessageDialog (#123)</code>](https://github.com/elementary/quick-settings/commit/01e95289c223bd5a7ab2c7a1f35585cbf3bf3153)
-- [ ] [<code>UserRow: handle current user (#88)</code>](https://github.com/elementary/quick-settings/commit/fda871503968886859b202813d48e6bc42569bad)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Use main branch (#128)</code>](https://github.com/elementary/quick-settings/commit/c7aa6f325e20ded5ef2004fdba06a4d9d7cc177e)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/quick-settings/commit/c058688a3a7e743e674629f9c86c1a1f625ff633)
-- [ ] [<code>Metainfo: add 1.3.0 release notes (#132)</code>](https://github.com/elementary/quick-settings/commit/9ff810c201462b1d26562d88622100fdc8557941)
-- [ ] [<code>Release 1.3.0 (#133)</code>](https://github.com/elementary/quick-settings/commit/aa48606098b693966542453858c607c15e3a78a8)
-  - <sub>Tags: <code>1.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.6.0 → HEAD](https://github.com/elementary/granite/compare/7.6.0...HEAD)
