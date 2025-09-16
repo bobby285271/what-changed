@@ -449,6 +449,14 @@
 - [ ] [<code>Fix CalDAV sync by generating missing calendar_home_url (#1777)</code>](https://github.com/alainm23/planify/commit/d618b6c2ca2debc63eac02a75d09bbdaf4566990)
 - [ ] [<code>Fix typos (#1778)</code>](https://github.com/alainm23/planify/commit/90f0f0739e08150c363565fb5a10e6ec62bd91aa)
 - [ ] [<code>Fix critical warning if no sync id is avaiable (#1779)</code>](https://github.com/alainm23/planify/commit/036b5e80f9b743e038df16cab63e369b643b96df)
+- [ ] [<code>Fix CalDAV task movement to include all nested subtasks (#1781)</code>](https://github.com/alainm23/planify/commit/f9ad3f43a18efa8bb05b608b3c959000f073e726)
+- [ ] [<code>feat: spell checking (#1785)</code>](https://github.com/alainm23/planify/commit/186e092adbc91e395984783cfc2ad781cc94f603)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix warning (#1786)</code>](https://github.com/alainm23/planify/commit/c7e4f4ceeec3f2d44c3e90fd176a4ecc1dab9607)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>use debug message (#1787)</code>](https://github.com/alainm23/planify/commit/94c5339354dc8f892302bcd673b1d1f81425405a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
