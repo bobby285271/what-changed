@@ -270,9 +270,13 @@
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#254)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a2c7f523c37dbb739114e37e09f75715deed89b1)
 - [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/71069317e3491ff88efd204dac62ae7ada9daaa9)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/3bc19f069237703260577001cc28d4baebe5eb82)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/59df4d78449166a60eff9afb9aa2c01e73c89e81)
+- [ ] [<code>Update mouse-touchpad.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a533c0c0744ded13a9cb94054981317815304133)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-network/commit/649858cd62b86531471976ddf607f04ed2ce5f57)
+- [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/51bad2127dee35f56684307dc4d70526824ad545)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
 
@@ -283,6 +287,8 @@
 - [ ] [<code>Actions: Use main branch (#114)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/dd71d9d93f9ca5772dbddc764de9c1f673347cd3)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#115)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d7f135521c2d24ddb0f431c90ae1ceb280fdfa58)
 - [ ] [<code>Plug: rewrite placeholder (#117)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/8ebb9e163d0c0c722b70835ae900f8e0b67537a9)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-notifications/commit/30871784a2ed2ae354a64262ad9b03de48c9d7c9)
+- [ ] [<code>Update notifications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-notifications/commit/6b7ffa2bfbb7c4b96c9716f42d1aa5ada5ab0088)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -301,6 +307,8 @@
 
 - [ ] [<code>Actions: Use main branch (#279)</code>](https://github.com/elementary/switchboard-plug-power/commit/4e0cf13430b7da4e614302ba07cc12fd24cafefa)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-power/commit/8cf66d26602578dc800f2ad68bb01e7ccf71f5eb)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-power/commit/b7bd204c006989fe6f789be80f3f9ff9f783b77c)
+- [ ] [<code>Update power.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/d2e21c50a1673e16d063a510afe7ebf15b5216d5)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -332,12 +340,17 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
 - [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4adce41a8734d5472512ce3f83201e217837412d)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-sound/commit/5ae398f5788f3847522ccfa3bb25ae52dbb6692c)
+- [ ] [<code>Update sound.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sound/commit/89eb995a833be0f7105c630ae4ad7c2d4c794ae3)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sound/commit/88c1e8872bf3451bbb477e074bdb08552d355164)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/30954eeaedeedca6769c8085780a5b9e0e1b09b7)
 - [ ] [<code>Actions: Use main branch (#75)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/de2bff95d173164b9e532e4e306d7368eeb22e1a)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9a756c30cf1ee67505c2abe944da2725c642591e)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aadc255e7c8910bd67b8e4e7b79e4b2bccf5a091)
+- [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/35c3e4e8dacc75f8f44df9f4488eafaa92637703)
+- [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/37a5c5d2451916d0af35c0fd07281c98fe9802f9)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.1 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.1...HEAD)
