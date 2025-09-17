@@ -8,7 +8,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.11 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.11...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.12 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.12...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -129,6 +129,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>cs_themes.py: Fix regression from 1c21371a608b, do not escape</code>](https://github.com/linuxmint/cinnamon/commit/ea22da1ebf9804f312b8a654f1570d0a4b2438db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_default.py: Don't import gi.repository.*</code>](https://github.com/linuxmint/cinnamon/commit/330b9ff19f33ec1e94e36048ca46011404f796b4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -220,17 +222,8 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [b046353fa23951746e9bfa3d54f745819802649e → HEAD](https://github.com/linuxmint/mint-l-icons/compare/b046353fa23951746e9bfa3d54f745819802649e...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.1 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.1...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
 
-- [ ] [<code>libadwaita-1.7: Update build</code>](https://github.com/linuxmint/mint-l-theme/commit/54908f38bbb9a09cd3ea2e58751049686205da49)
-- [ ] [<code>libadwaita-1.7: Add lib stylesheet</code>](https://github.com/linuxmint/mint-l-theme/commit/9b7c0c0990e3cf717a3c9799f156e71dff898b62)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>libadwaita-1.7: Override window controls</code>](https://github.com/linuxmint/mint-l-theme/commit/e3a9b31213a779ead620c7b70d271b7a5b1d24f4)
-- [ ] [<code>libadwaita 1.7: Update colors</code>](https://github.com/linuxmint/mint-l-theme/commit/e476a1b7e5d1b2a1ae1ad415367d7e4c9c672687)
-- [ ] [<code>Revert "Fix libAdw accent colors for Mint-L-Brown"</code>](https://github.com/linuxmint/mint-l-theme/commit/a21bd59a73067d5321b934ffc18ee063b3b77fec)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/mint-l-theme/commit/075b4c521d82523d7aa9780e09c8d5f14d274697)
-  - <sub>Tags: <code>2.0.2</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
