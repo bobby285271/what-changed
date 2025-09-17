@@ -459,6 +459,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Show label to the left of tasks (#1788)</code>](https://github.com/alainm23/planify/commit/0a92e9b3a15779b9a1354ea3148bf9f3e9eb10c1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve task completion flow with toast feedback (#1789)</code>](https://github.com/alainm23/planify/commit/20e179cc5d8f531ed68b5644669bb58a9c19cc1e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add new complete song (#1790)</code>](https://github.com/alainm23/planify/commit/275c4a01b77dfc621c4e5e223d07c1425baddb78)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
