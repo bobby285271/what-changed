@@ -627,6 +627,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove unused standard-view-model</code>](https://github.com/xfce-mirror/thunar/commit/1cc06e865532d66e35084a8b837054a432882f87)
 - [ ] [<code>Drop deleted files from POTFILES.in</code>](https://github.com/xfce-mirror/thunar/commit/3d47d0171e5dcfac8fd86590d26c409e1538c994)
+- [ ] [<code>Bump libxfce4ui dependency to 4.21.2</code>](https://github.com/xfce-mirror/thunar/commit/f9a5a0be66d3630a974908c06778f08cf1829dd6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
