@@ -69,6 +69,11 @@
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
 - [ ] [<code>Add blur (#390)</code>](https://github.com/elementary/dock/commit/bf85936e09f0d0a3b6662156692c3aeaa9caa2f5)
+- [ ] [<code>Styles: increase transparency (#456)</code>](https://github.com/elementary/dock/commit/4dea7d25ae8061e098e1593cf1edeff2a274f94f)
+- [ ] [<code>Make long touch gesture touch only (#462)</code>](https://github.com/elementary/dock/commit/b37771d6084313057d7aced097c4165190e883c0)
+- [ ] [<code>Small cleanup (#459)</code>](https://github.com/elementary/dock/commit/9fa93cbc7501d26efd8f2d79d4e5804f2aae2cdd)
+- [ ] [<code>Move BottomMargin into a separate file and clean it up (#461)</code>](https://github.com/elementary/dock/commit/588ddeb0e14a8ab726c72877629ecba8f8aa74ae)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -315,6 +320,8 @@
 - [ ] [<code>Plug: add headerbar to placeholder (#213)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fbb9da26c39c1d09d7d61200d30478d04f5fa863)
 - [ ] [<code>Actions: Use main branch (#215)</code>](https://github.com/elementary/switchboard-plug-printers/commit/947da4c7cb75598ec08b3f1d32dec0f39a3d184b)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-printers/commit/dd795d99929ab2cdbe20e29a3c08f6974ebc98cb)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-printers/commit/b4eeb3966be36a90f8f1e2c0fcfcc9bcfd46533b)
+- [ ] [<code>Update printers.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/c59d197d87b444194745442371610fc7738711fa)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
@@ -511,6 +518,7 @@
 - [ ] [<code>Add Blur API</code>](https://github.com/elementary/gala/commit/0035139c61e872f244ff3c2c8f406a9fbb334a69)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: fix drag animation with multiple monitors (#2501)</code>](https://github.com/elementary/gala/commit/a38a88377242296c0b8493ab07ec90d200a25087)
+- [ ] [<code>HideTracker: add pressure reveal (#2538)</code>](https://github.com/elementary/gala/commit/a05fdfe7e34705ef52d08709e35abe22976a03d0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -896,6 +904,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Use main branch (#202)</code>](https://github.com/elementary/settings-daemon/commit/f24a92172f74acbfa50d4d863e65770b99bc0a1d)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#204)</code>](https://github.com/elementary/settings-daemon/commit/b42e068d4058bf1cba074e75ec37015d568e4f4c)
+- [ ] [<code>Sync wingpanel's "Show Percentage" option (#194)</code>](https://github.com/elementary/settings-daemon/commit/ba73326555bdefb225c3f5b5cb6c3d500523cf57)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
