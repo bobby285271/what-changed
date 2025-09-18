@@ -462,6 +462,9 @@
 - [ ] [<code>Improve task completion flow with toast feedback (#1789)</code>](https://github.com/alainm23/planify/commit/20e179cc5d8f531ed68b5644669bb58a9c19cc1e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>add new complete song (#1790)</code>](https://github.com/alainm23/planify/commit/275c4a01b77dfc621c4e5e223d07c1425baddb78)
+- [ ] [<code>Refined theme colors for Light, Dark, and Dark Blue (#1791)</code>](https://github.com/alainm23/planify/commit/409aee8e7499e8888a0aecfc8a9c1b5d50616cf7)
+- [ ] [<code>Added an option to bypass the call to resolve_well_known_caldav () (#1780)</code>](https://github.com/alainm23/planify/commit/dac0189e36c1f42105cacf133683d4e53e182a35)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
