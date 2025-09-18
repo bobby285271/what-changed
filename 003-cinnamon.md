@@ -5,6 +5,8 @@
 #### [bulky](https://github.com/linuxmint/bulky): [3.9 → HEAD](https://github.com/linuxmint/bulky/compare/3.9...HEAD)
 
 - [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Clarify the license as defined in debian/copyright and switch to spdx format (#81)</code>](https://github.com/linuxmint/bulky/commit/10ed28d79ee056fe0118d7531b270d4ce668211f)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -162,7 +164,7 @@
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.1...HEAD)
 
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.1...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.2...HEAD)
 
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
@@ -196,22 +198,8 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [128.0 → HEAD](https://github.com/linuxmint/cjs/compare/128.0...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [1f39576bafe6bc05bce960e590dc743dd7990e39 → HEAD](https://github.com/linuxmint/cjs/compare/1f39576bafe6bc05bce960e590dc743dd7990e39...HEAD)
 
-- [ ] [<code>.github/workflows: Use 115.0 tag for default build.</code>](https://github.com/linuxmint/cjs/commit/96dcd383132b38a0297b113de152c7ef454fedde)
-- [ ] [<code>overrides/Gio: Add wrappers for platform-specific Gio functions</code>](https://github.com/linuxmint/cjs/commit/b7909f18d4b6da123360917dcc57cd35c0f2cb9d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Add JS API wrapping warn_deprecated_once_per_callsite</code>](https://github.com/linuxmint/cjs/commit/ac9e8435a4120c44232da164894156d10116e20c)
-- [ ] [<code>overrides/Gio: Use print's warnDeprecatedOncePerCallsite to warn</code>](https://github.com/linuxmint/cjs/commit/5f00667dc1670149eb5939e49dddc0e8f4939813)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>cjs/deprecation: Use a larger deprecation stack for JS invoked requests</code>](https://github.com/linuxmint/cjs/commit/894b8f9c2120cd1527c9dd0f63dc57082fdc9cca)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>overrides/Gio: Use Platform prefix for platform-only symbols</code>](https://github.com/linuxmint/cjs/commit/624b686e016213f4d70146bfeb36e2b699b96a82)
-- [ ] [<code>gi/function: Implement name property for functions</code>](https://github.com/linuxmint/cjs/commit/bfedb44d9cf0ff01623ac3c76cdd29a42980b57e)
-- [ ] [<code>overrides/Gio: Use Platform prefix for platform-only functions</code>](https://github.com/linuxmint/cjs/commit/4aebee444ee468720003332fc7059bafd20ec811)
-- [ ] [<code>overrides/Gio: Enable platform-specific wrappers only on newer GLib</code>](https://github.com/linuxmint/cjs/commit/89d1da125b691824af705218dd9e43a0080639cc)
-- [ ] [<code>modules/package: Fix checking interface properties</code>](https://github.com/linuxmint/cjs/commit/1f39576bafe6bc05bce960e590dc743dd7990e39)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
