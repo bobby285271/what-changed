@@ -253,7 +253,12 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Bump wl_output interface to v4 (#727)</code>](https://github.com/linuxmint/muffin/commit/ffd0d370b256be7eeaf9a24dc0d86e327eafba7f)
 - [ ] [<code>Fix Qt apps crash (#739)</code>](https://github.com/linuxmint/muffin/commit/1a439aeea53f01b8516f719651f6b8967f64cea6)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>[Wayland] Add support for xdg-foreign-v2 (#728)</code>](https://github.com/linuxmint/muffin/commit/f6fb565b3012038647413b30f01a29eec27a5d7e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland] Remove deprecated and obsolete protocols (#729)</code>](https://github.com/linuxmint/muffin/commit/2e02ea8e5f330e04c4834051f32c80ad47e5674a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
