@@ -465,6 +465,8 @@
 - [ ] [<code>Refined theme colors for Light, Dark, and Dark Blue (#1791)</code>](https://github.com/alainm23/planify/commit/409aee8e7499e8888a0aecfc8a9c1b5d50616cf7)
 - [ ] [<code>Added an option to bypass the call to resolve_well_known_caldav () (#1780)</code>](https://github.com/alainm23/planify/commit/dac0189e36c1f42105cacf133683d4e53e182a35)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update task type align (#1793)</code>](https://github.com/alainm23/planify/commit/a79cd0023077c7ae78af0fafe800ef2e49f92490)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
