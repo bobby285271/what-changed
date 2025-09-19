@@ -630,6 +630,7 @@
 - [ ] [<code>Bump libxfce4ui dependency to 4.21.2</code>](https://github.com/xfce-mirror/thunar/commit/f9a5a0be66d3630a974908c06778f08cf1829dd6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix 'MOUNTED' state on file reload when unmounted</code>](https://github.com/xfce-mirror/thunar/commit/265a5a1855499838f74470bbf26a592d275b93ab)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
