@@ -257,8 +257,15 @@
 - [ ] [<code>[Wayland] Add support for xdg-foreign-v2 (#728)</code>](https://github.com/linuxmint/muffin/commit/f6fb565b3012038647413b30f01a29eec27a5d7e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[Wayland] Remove deprecated and obsolete protocols (#729)</code>](https://github.com/linuxmint/muffin/commit/2e02ea8e5f330e04c4834051f32c80ad47e5674a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland/dma-buf: Add support for BGR_8888 formats (#732)</code>](https://github.com/linuxmint/muffin/commit/76ad6afe6c2a68ef8226d6f909e5937d37f7372d)
+- [ ] [<code>Bump wl_compositor to version 5 (#734)</code>](https://github.com/linuxmint/muffin/commit/3948b2716cb03c19acd16bbb79c28038c6f455aa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland]: Add support for hold gesture (#735)</code>](https://github.com/linuxmint/muffin/commit/380b9b3746b7b3c8b064cfd2c5bee859f894d52e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian/control: Update some versions to match build changes.</code>](https://github.com/linuxmint/muffin/commit/6607c1a10694c0d342821c45b9c193fcad03df29)
+- [ ] [<code>[Wayland] Bump gtk-shell-v1 protocol to version 6 (#736)</code>](https://github.com/linuxmint/muffin/commit/82885a17e8b3553dbf433ce93f6d0ec3cccd2656)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
@@ -320,7 +327,9 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Ipv6 support (#231)</code>](https://github.com/linuxmint/warpinator/commit/70cc5ebe7baf7aaa9498993c4d77f7169f452177)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.13 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.13...HEAD)
 
