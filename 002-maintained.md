@@ -351,6 +351,9 @@
 - [ ] [<code>MainWindow: cleanup (#452)</code>](https://github.com/stsdc/monitor/commit/a59bf983543bc3b88d633de32b6f7e07b2a5a5b2)
 - [ ] [<code>SystemStorageView: cleanups (#450)</code>](https://github.com/stsdc/monitor/commit/4fed007567789d2dfee6ddb00b0515d1550a4dab)
 - [ ] [<code>LabelRoundy: rewrite (#449)</code>](https://github.com/stsdc/monitor/commit/e32b5835aefb40250e40fb6410fa20d803bf82b3)
+- [ ] [<code>l10n: Correct Chinese language codes (#457)</code>](https://github.com/stsdc/monitor/commit/2c9113ede689220e648c33932256bfc8a9cff4e4)
+- [ ] [<code>Update LINGUAS</code>](https://github.com/stsdc/monitor/commit/6cae75b0d9e6828832057211e007cdc7699dc4df)
+- [ ] [<code>Fix bad merge, remove subproject (#458)</code>](https://github.com/stsdc/monitor/commit/ba76949ce2b38923e2121a2e22f2f00bc060461b)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -467,6 +470,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update task type align (#1793)</code>](https://github.com/alainm23/planify/commit/a79cd0023077c7ae78af0fafe800ef2e49f92490)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix signal connection issues for deck projects (#1794)</code>](https://github.com/alainm23/planify/commit/0fda027ceff0f362da092364ae2fb0c69dca6baf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>update style (#1796)</code>](https://github.com/alainm23/planify/commit/42561ff54e270c421314f7bebc8405065eee220c)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
