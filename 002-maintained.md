@@ -473,6 +473,7 @@
 - [ ] [<code>Fix signal connection issues for deck projects (#1794)</code>](https://github.com/alainm23/planify/commit/0fda027ceff0f362da092364ae2fb0c69dca6baf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>update style (#1796)</code>](https://github.com/alainm23/planify/commit/42561ff54e270c421314f7bebc8405065eee220c)
+- [ ] [<code>fix parent move (#1797)</code>](https://github.com/alainm23/planify/commit/eca7af33fc2de1e3af6d26a57bcb0478011c8f3a)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
