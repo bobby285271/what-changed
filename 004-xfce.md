@@ -631,6 +631,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix 'MOUNTED' state on file reload when unmounted</code>](https://github.com/xfce-mirror/thunar/commit/265a5a1855499838f74470bbf26a592d275b93ab)
+- [ ] [<code>Remove superfluous gvfs workaround</code>](https://github.com/xfce-mirror/thunar/commit/0737e3171874aa5b96d3667c50b44276c252304c)
+- [ ] [<code>Fix typo 'querry' --> 'query'</code>](https://github.com/xfce-mirror/thunar/commit/8acd0c81b2c67e503e1fca807a645f1691316048)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
