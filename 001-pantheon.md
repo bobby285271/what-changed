@@ -376,6 +376,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aadc255e7c8910bd67b8e4e7b79e4b2bccf5a091)
 - [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/35c3e4e8dacc75f8f44df9f4488eafaa92637703)
 - [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/37a5c5d2451916d0af35c0fd07281c98fe9802f9)
+- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aa427dc031252ab22acbe3ac369673d72e766fd9)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.1 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.1...HEAD)
@@ -561,6 +562,7 @@
 - [ ] [<code>Actions: Use main branch (#632)</code>](https://github.com/elementary/wingpanel/commit/25b057e9b5554bd463d01bff882924cdbf0426ac)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#634)</code>](https://github.com/elementary/wingpanel/commit/1bc8ab6b1df1c9e7ad44fbffa8cc1fd4abd07706)
 - [ ] [<code>FocusManager: fix missing argument in push_modal (#637)</code>](https://github.com/elementary/wingpanel/commit/4476df2573797310e254695a66c099b32afe9736)
+- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel/commit/ed9bd59b691e46b9a8d69ae062794f5b8c5880e7)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -916,6 +918,7 @@
 
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#44)</code>](https://github.com/elementary/bluetooth-daemon/commit/d14f0078011a9bee0573ec88cd1c4ff3c8d31183)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/bluetooth-daemon/commit/eeb9db35bf26a2f8e279c90af9a0d8bb0e85a188)
+- [ ] [<code>LINGUAS: remove unused languages</code>](https://github.com/elementary/bluetooth-daemon/commit/81984445db609af78d7a35050b8662d73e79fc85)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
