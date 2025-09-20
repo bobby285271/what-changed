@@ -390,6 +390,7 @@
 - [ ] [<code>chore: Remove extra single quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c52203aee947fbf47406b098b72f2a1d290d5712)
 - [ ] [<code>switchboard: Update switchboard.git to 8.0.3 (#322)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/147cbbe8bcfebe43abb6155f8b6e4faa720f29c4)
 - [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#323)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c3ca4d2a0cb506819bbca3c705dbd8f512340c16)
+- [ ] [<code>chore: Update GNOME platform to 49 (#325)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/efa1894310f6a375bacafe69c2674998e84c6b61)
 
 #### [planify](https://github.com/alainm23/planify): [4.13.4 → HEAD](https://github.com/alainm23/planify/compare/4.13.4...HEAD)
 
@@ -474,6 +475,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>update style (#1796)</code>](https://github.com/alainm23/planify/commit/42561ff54e270c421314f7bebc8405065eee220c)
 - [ ] [<code>fix parent move (#1797)</code>](https://github.com/alainm23/planify/commit/eca7af33fc2de1e3af6d26a57bcb0478011c8f3a)
+- [ ] [<code>Adding sync pages to CalDAV (#1798)</code>](https://github.com/alainm23/planify/commit/b58ecb331db187572e3d2971abc7b3ece679db3e)
+- [ ] [<code>Feat/update po files (#1799)</code>](https://github.com/alainm23/planify/commit/8b02877bc6e8eba2c5c8ab5c868d7899f083e540)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>relase 4.14.0 (#1800)</code>](https://github.com/alainm23/planify/commit/a61b3cd4a9bd0eac9c1ae8be244c53fe0e16d64b)
+  - <sub>Tags: <code>4.14.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -499,6 +506,7 @@
 - [ ] [<code>README: Update build status badge (#400)</code>](https://github.com/Alecaddd/sequeler/commit/dd4247ac7364c887ed13f41181bb93c22f549d93)
 - [ ] [<code>Flatpak: Bump Platform to 8.2 (#402)</code>](https://github.com/Alecaddd/sequeler/commit/8fbdaf5400f58a21ff003420cb27529153e64ed7)
 - [ ] [<code>Sync with system color scheme instead of ModeSwitch (#403)</code>](https://github.com/Alecaddd/sequeler/commit/82cb64cd395fb37845d879c4395d908e5257385c)
+- [ ] [<code>l10n: Correct Chinese language codes (#404)</code>](https://github.com/Alecaddd/sequeler/commit/8121ae85b61eaf383d6ce37a8764411065bdb037)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
