@@ -133,8 +133,9 @@
 - [ ] [<code>cs_themes.py: Fix regression from 1c21371a608b, do not escape</code>](https://github.com/linuxmint/cinnamon/commit/ea22da1ebf9804f312b8a654f1570d0a4b2438db)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_default.py: Don't import gi.repository.*</code>](https://github.com/linuxmint/cinnamon/commit/330b9ff19f33ec1e94e36048ca46011404f796b4)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>placesManager.js: a new Gio.MountOperation takes no arguments.</code>](https://github.com/linuxmint/cinnamon/commit/9ed70641a1f63d2b2b44e08a84033cbf912e0c2b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
@@ -265,7 +266,18 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian/control: Update some versions to match build changes.</code>](https://github.com/linuxmint/muffin/commit/6607c1a10694c0d342821c45b9c193fcad03df29)
 - [ ] [<code>[Wayland] Bump gtk-shell-v1 protocol to version 6 (#736)</code>](https://github.com/linuxmint/muffin/commit/82885a17e8b3553dbf433ce93f6d0ec3cccd2656)
+- [ ] [<code>[Wayland] Add support for xdg-dialog-v1 protocol (#737)</code>](https://github.com/linuxmint/muffin/commit/07aabf57d9bb429db0033de37ff64d032d4df6fc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Xwayland] Add Xwayland byte-swapped clients support (#738)</code>](https://github.com/linuxmint/muffin/commit/e603d4afa381ff413ee4d137dc3a699bc52913cb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[Wayland] Add support for xdg_toplevel.configure_bounds() (#740)</code>](https://github.com/linuxmint/muffin/commit/50e8885db155855e155cf930b57ffd02ab4ced22)
+- [ ] [<code>[Wayland] Fix crash when empty window geometry set (#741)</code>](https://github.com/linuxmint/muffin/commit/af71a8e81f2df418adc665bd4e101f6741e92562)
+- [ ] [<code>[Wayland] Implement xdg-activation-v1 protocol (#725)</code>](https://github.com/linuxmint/muffin/commit/3a8367f045748fa24e16639bf11921f9e1fce385)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Xwayland] Check for listenfd option (#743)</code>](https://github.com/linuxmint/muffin/commit/1220bb4f0b23568a2dc01e6b4a45923eda19a0a9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
