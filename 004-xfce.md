@@ -1248,6 +1248,7 @@
 - [ ] [<code>Fix a use-after-free crash in the icon unplace/removal code</code>](https://github.com/xfce-mirror/xfdesktop/commit/991f5a0065556277e7dd3a1314f8d2b31dd67b04)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfdesktop/commit/6f13454f8e94976479c5fe7b3faaee06e096ba84)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/290d1311fc275a7ba5e70b272009c6655947348b)
+- [ ] [<code>Fix criticals in g_file_info_get_name with trashed files</code>](https://github.com/xfce-mirror/xfdesktop/commit/03f8af7daf70bf08dbcbc5c04ebe63fad616fb76)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
