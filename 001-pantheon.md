@@ -3,6 +3,12 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.3.0 → HEAD](https://github.com/elementary/appcenter/compare/8.3.0...HEAD)
 
+- [ ] [<code>Use absolute path for Exec for DBus activation (#2355)</code>](https://github.com/elementary/appcenter/commit/b90fccf9f7e35f8eef42c3cb75af13fae0c861e9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Release 8.3.1 (#2356)</code>](https://github.com/elementary/appcenter/commit/5554a17f6138d636e4fce70dbb157cae116c0466)
+  - <sub>Tags: <code>8.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -65,6 +71,9 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.1 → HEAD](https://github.com/elementary/code/compare/8.1.1...HEAD)
 
+- [ ] [<code>Profiling: Enable profiling in code using google-perftools (#1539)</code>](https://github.com/elementary/code/commit/49d043084e54ecaf18719f7a2f8765163d10adfb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -78,6 +87,8 @@
 - [ ] [<code>LINGUAS: Remove zh_HK</code>](https://github.com/elementary/dock/commit/c710e6ff7c9be7d6183440c3cd5dea868b4d6fc4)
 - [ ] [<code>Increase actionable area of an app icon all way to the screen edge (#460)</code>](https://github.com/elementary/dock/commit/055bfea61ab3736539e722c96ccdf95638e54dc7)
 - [ ] [<code> Metainfo: start 8.3.0 release notes</code>](https://github.com/elementary/dock/commit/1591f310dbfd94a217f09c750959587a42bf075f)
+- [ ] [<code>Launcher: better badge animation (#466)</code>](https://github.com/elementary/dock/commit/f04363a7293d0ee7eef8a241cf417ccdbbd1decb)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
