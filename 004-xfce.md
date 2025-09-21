@@ -355,6 +355,7 @@
 - [ ] [<code>autotools-build: Add *-docs.xml.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a1fd0c18256f6eab9b24129ffe7778a1ddcc486)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/eda46893fe17c90e9853505078422e1c8ff7e96e)
 - [ ] [<code>XfwWindowX11: Readjust entire monitor list when one is added/removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56f9de0736150c88f0b5f04a71aa73e502c1c6a7)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d67160222b0a0606c220d575e5d8612c5fbdf184)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
