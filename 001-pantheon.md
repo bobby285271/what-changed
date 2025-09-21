@@ -553,6 +553,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowClone: fix drag animation with multiple monitors (#2501)</code>](https://github.com/elementary/gala/commit/a38a88377242296c0b8493ab07ec90d200a25087)
 - [ ] [<code>HideTracker: add pressure reveal (#2538)</code>](https://github.com/elementary/gala/commit/a05fdfe7e34705ef52d08709e35abe22976a03d0)
+- [ ] [<code>NotificationStack: update positions when monitors change (#2480)</code>](https://github.com/elementary/gala/commit/e03351c5fae1a4e708dc29b1a8a39f7e681c5be6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -574,6 +575,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#634)</code>](https://github.com/elementary/wingpanel/commit/1bc8ab6b1df1c9e7ad44fbffa8cc1fd4abd07706)
 - [ ] [<code>FocusManager: fix missing argument in push_modal (#637)</code>](https://github.com/elementary/wingpanel/commit/4476df2573797310e254695a66c099b32afe9736)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel/commit/ed9bd59b691e46b9a8d69ae062794f5b8c5880e7)
+- [ ] [<code>BackgroundManager: fix interaction with show-desktop shortcut (#630)</code>](https://github.com/elementary/wingpanel/commit/73bfb73c9ee49464bbe6cd14e24dae7af03b8b1d)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
