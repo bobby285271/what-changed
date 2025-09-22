@@ -634,6 +634,8 @@
 - [ ] [<code>Fix 'MOUNTED' state on file reload when unmounted</code>](https://github.com/xfce-mirror/thunar/commit/265a5a1855499838f74470bbf26a592d275b93ab)
 - [ ] [<code>Remove superfluous gvfs workaround</code>](https://github.com/xfce-mirror/thunar/commit/0737e3171874aa5b96d3667c50b44276c252304c)
 - [ ] [<code>Fix typo 'querry' --> 'query'</code>](https://github.com/xfce-mirror/thunar/commit/8acd0c81b2c67e503e1fca807a645f1691316048)
+- [ ] [<code>Show disc space progressbar in sidepane (#19)</code>](https://github.com/xfce-mirror/thunar/commit/ad7278ae9bc93a2df1a27d2e7c71eb00ba286170)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -699,6 +701,7 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/tumbler/commit/b93e25f6ec4e421c92c07c0e3b7ef5f04a23008c)
 - [ ] [<code>xdg-cache: Fix TumblerThumbnailFlavor leaks</code>](https://github.com/xfce-mirror/tumbler/commit/9aba3a65b7d008d0ae1405be23c4722b7cbb93c2)
 - [ ] [<code>ffmpeg-thumbnailer: Update mime type list from upstream desktop file</code>](https://github.com/xfce-mirror/tumbler/commit/abf36e9feca9aff1bc1dac500018da8673680e28)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/dfa435052d7f4e646b57e18398ad6292e2d75630)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1127,6 +1130,8 @@
 - [ ] [<code>wayland: displays: Don't wl_display_roundtrip() on new output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f5eb0ac215e16c0bad73085edc2358700b9304d8)
 - [ ] [<code>display: Add/improve some debug logs</code>](https://github.com/xfce-mirror/xfce4-settings/commit/816d5303c6dfe723d45a8d56bad7ec130bf2a69f)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9237aeaf9271bea5b441f1bab1466ab4b2f4443c)
+- [ ] [<code>x11: display-settings: Do not use output name to generate fallback EDID</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f8033f466f09050decbfd1417760054dacec47fb)
+- [ ] [<code>display-settings: Match by EDID when loading output data from xfconf</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fbd0e50d4f584944ae2d66490ccc0f07fbbdf29d)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
