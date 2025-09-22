@@ -636,6 +636,7 @@
 - [ ] [<code>Fix typo 'querry' --> 'query'</code>](https://github.com/xfce-mirror/thunar/commit/8acd0c81b2c67e503e1fca807a645f1691316048)
 - [ ] [<code>Show disc space progressbar in sidepane (#19)</code>](https://github.com/xfce-mirror/thunar/commit/ad7278ae9bc93a2df1a27d2e7c71eb00ba286170)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Show spinner on tab when tab view is "loading"</code>](https://github.com/xfce-mirror/thunar/commit/56db69ee4f4d7a5843756775e3f6466b919c7ad2)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
