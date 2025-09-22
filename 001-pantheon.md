@@ -476,6 +476,7 @@
 - [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/onboarding/commit/dda8d64e5e2a8859cf8f57913460711fffa98e80)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#256)</code>](https://github.com/elementary/onboarding/commit/7d3e83a275b1cf29e8626a7d0a9e08a846b2224f)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/onboarding/commit/c77340e901da2fbe92c8632dd01d7fa5c3d05002)
+- [ ] [<code>StyleView: wrap sunset-to-sunrise label (#260)</code>](https://github.com/elementary/onboarding/commit/7d25a6f0d7de2b70ddf440f8ce76efc3601bb4bb)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -966,6 +967,8 @@
 
 - [ ] [<code>Actions: Use main branch (#147)</code>](https://github.com/elementary/portals/commit/5372ebe9f76efc4f1e44b5fce55d26369b40f931)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/portals/commit/060b8d80e1baf7062497371ab983a22debeda1a2)
+- [ ] [<code>Modernize screenshot icons (#151)</code>](https://github.com/elementary/portals/commit/88b3a0ed3f4b43e2fdbaf5fa215d8c95ba2df01e)
+- [ ] [<code>SetupDialog: add labels to image radios (#150)</code>](https://github.com/elementary/portals/commit/952fb9eb8b7160c07832216f6e6e2e87e051f1b5)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
