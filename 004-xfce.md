@@ -637,6 +637,7 @@
 - [ ] [<code>Show disc space progressbar in sidepane (#19)</code>](https://github.com/xfce-mirror/thunar/commit/ad7278ae9bc93a2df1a27d2e7c71eb00ba286170)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Show spinner on tab when tab view is "loading"</code>](https://github.com/xfce-mirror/thunar/commit/56db69ee4f4d7a5843756775e3f6466b919c7ad2)
+- [ ] [<code>Don't use camel-case for preferences strings</code>](https://github.com/xfce-mirror/thunar/commit/4134c65b56656f83fb6e3070975c9651ceb5a577)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1133,6 +1134,12 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9237aeaf9271bea5b441f1bab1466ab4b2f4443c)
 - [ ] [<code>x11: display-settings: Do not use output name to generate fallback EDID</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f8033f466f09050decbfd1417760054dacec47fb)
 - [ ] [<code>display-settings: Match by EDID when loading output data from xfconf</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fbd0e50d4f584944ae2d66490ccc0f07fbbdf29d)
+- [ ] [<code>x11: display-settings: Fix some return types</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a87cc768b6cac1754e34b2c0e70d0c132236273a)
+- [ ] [<code>display-settings: Do not allow to apply profile if already active</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a876d6e4e90dac7070d834cd78d49259058af967)
+- [ ] [<code>display-settings: Fix profile name lost when updating profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b493ac4d960344bf0afd76cbe2bb630ab60b0db2)
+- [ ] [<code>display-settings: Save profile name in save function</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b11ea82d7ca82f7a31e35320d93ac55627bf2aa9)
+- [ ] [<code>display-settings: Delete popup dialog asking to update profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d71415e552d34b881016b9cc03f66dcbe901c06d)
+- [ ] [<code>display-settings: Keep /ActiveProfile in a consistent state</code>](https://github.com/xfce-mirror/xfce4-settings/commit/65889cb7e629230a1bb6cad402c23bc06d927d93)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
