@@ -278,6 +278,7 @@
 - [ ] [<code>[Xwayland] Check for listenfd option (#743)</code>](https://github.com/linuxmint/muffin/commit/1220bb4f0b23568a2dc01e6b4a45923eda19a0a9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
