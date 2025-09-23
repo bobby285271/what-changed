@@ -392,6 +392,8 @@
 - [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#323)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c3ca4d2a0cb506819bbca3c705dbd8f512340c16)
 - [ ] [<code>chore: Update GNOME platform to 49 (#325)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/efa1894310f6a375bacafe69c2674998e84c6b61)
 - [ ] [<code>docs: README: Fix broken Flathub badge</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9b4b206155ba9fabb053c4dd951039f0a9e44a9c)
+- [ ] [<code>dconf: Update dconf-0.40.0.tar.xz to 0.49.0 (#327)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8abdc5a5107945a0fb1d16eaabfe9200c14c7892)
+- [ ] [<code>fix: Avoid duplicated window controls in the both side of titlebar on Wayland (#328)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b1e9560dfeebcca0b4a996b4af16b127f3496d1d)
 
 #### [planify](https://github.com/alainm23/planify): [4.14.0 → HEAD](https://github.com/alainm23/planify/compare/4.14.0...HEAD)
 
