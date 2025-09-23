@@ -1140,6 +1140,7 @@
 - [ ] [<code>display-settings: Save profile name in save function</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b11ea82d7ca82f7a31e35320d93ac55627bf2aa9)
 - [ ] [<code>display-settings: Delete popup dialog asking to update profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d71415e552d34b881016b9cc03f66dcbe901c06d)
 - [ ] [<code>display-settings: Keep /ActiveProfile in a consistent state</code>](https://github.com/xfce-mirror/xfce4-settings/commit/65889cb7e629230a1bb6cad402c23bc06d927d93)
+- [ ] [<code>display-settings: Fix string leak when deleting profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e7e053799bee77a55352bc0faa0c19e733bd6d34)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
