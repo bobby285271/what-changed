@@ -100,6 +100,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.5 → HEAD](https://github.com/elementary/files/compare/7.1.5...HEAD)
 
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/files/commit/49c58035e2fa499964a5d33c9e087ac962d38b28)
+- [ ] [<code>Date format: expose setting (#2610)</code>](https://github.com/elementary/files/commit/c0f8e85b50f8d09b2647125bfa48338e00376981)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -555,6 +556,7 @@
 - [ ] [<code>WindowClone: fix drag animation with multiple monitors (#2501)</code>](https://github.com/elementary/gala/commit/a38a88377242296c0b8493ab07ec90d200a25087)
 - [ ] [<code>HideTracker: add pressure reveal (#2538)</code>](https://github.com/elementary/gala/commit/a05fdfe7e34705ef52d08709e35abe22976a03d0)
 - [ ] [<code>NotificationStack: update positions when monitors change (#2480)</code>](https://github.com/elementary/gala/commit/e03351c5fae1a4e708dc29b1a8a39f7e681c5be6)
+- [ ] [<code>WindowClone: Use a clone as drag handle (#2537)</code>](https://github.com/elementary/gala/commit/e3e1edebd4eda0588da5cf134d6e79f58150800f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
