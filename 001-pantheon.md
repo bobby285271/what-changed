@@ -230,6 +230,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>MainWindow: set strict centering in header (#909)</code>](https://github.com/elementary/terminal/commit/e51beb4520697df4875f27b3cead6cb988556937)
 - [ ] [<code>Simplify make restorable (#910)</code>](https://github.com/elementary/terminal/commit/d39882c637fc1e6ede66e6d1590f37f42d01a44b)
+- [ ] [<code>Release  7.1.2 (#918)</code>](https://github.com/elementary/terminal/commit/39fdc33eefa2ebb377f2511fea7d202124bc6750)
+  - <sub>Tags: <code>7.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
