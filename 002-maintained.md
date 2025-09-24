@@ -354,6 +354,12 @@
 - [ ] [<code>l10n: Correct Chinese language codes (#457)</code>](https://github.com/stsdc/monitor/commit/2c9113ede689220e648c33932256bfc8a9cff4e4)
 - [ ] [<code>Update LINGUAS</code>](https://github.com/stsdc/monitor/commit/6cae75b0d9e6828832057211e007cdc7699dc4df)
 - [ ] [<code>Fix bad merge, remove subproject (#458)</code>](https://github.com/stsdc/monitor/commit/ba76949ce2b38923e2121a2e22f2f00bc060461b)
+- [ ] [<code>Process: drop WNCK (#459)</code>](https://github.com/stsdc/monitor/commit/c82f6e89e8cbeecbde38ca1ced3ea8b82dff901b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>SystemCPUView: code style cleanup (#460)</code>](https://github.com/stsdc/monitor/commit/33f86db48380054658541f1a357e3d5da0acb731)
+- [ ] [<code>Statusbar: cleanup and GTK4 prep (#462)</code>](https://github.com/stsdc/monitor/commit/c82cd0d6a5023ca17d3e03e1b074f41068eeac9a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
