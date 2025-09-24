@@ -406,6 +406,11 @@
 
 - [ ] [<code>update colors and section row align (#1803)</code>](https://github.com/alainm23/planify/commit/15cb69de37ab28a0efcde4c161e84f0df68e93b6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix null pointer crashes in Store service (#1804)</code>](https://github.com/alainm23/planify/commit/24b27cb14a773f4be0a1782bb3aef9f05269b99c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Make Planify compilable on FreeBSD and Windows. (#1784)</code>](https://github.com/alainm23/planify/commit/e7f0ed25f73746d060be1678adcd5c20f3468f36)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
