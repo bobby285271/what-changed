@@ -736,6 +736,8 @@
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e32f0a30d8b45d2d5c3b27861fc76fa7206b565a)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/50fcceac3a7ad3997c94aec54bc1571a198810ac)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6a95942592e8368002cdbdb1363d3b5f81b9b096)
+- [ ] [<code>Make item description slightly transparent (#99)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/5afb9be6bcce68772de99a4bbc0ab4112ff7fbc9)
+- [ ] [<code>Add css class for easier theming (#107)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/0132ffef220e4d923c5236c823852565ab86400a)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
