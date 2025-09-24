@@ -560,6 +560,13 @@
 - [ ] [<code>HideTracker: add pressure reveal (#2538)</code>](https://github.com/elementary/gala/commit/a05fdfe7e34705ef52d08709e35abe22976a03d0)
 - [ ] [<code>NotificationStack: update positions when monitors change (#2480)</code>](https://github.com/elementary/gala/commit/e03351c5fae1a4e708dc29b1a8a39f7e681c5be6)
 - [ ] [<code>WindowClone: Use a clone as drag handle (#2537)</code>](https://github.com/elementary/gala/commit/e3e1edebd4eda0588da5cf134d6e79f58150800f)
+- [ ] [<code>Replace libcanberra with Meta.SoundPlayer</code>](https://github.com/elementary/gala/commit/33635228ae9f1e0f1ad9d2b1c5f9df2d60616df0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Replace Gdk.Point with Graphene.Point (#2543)</code>](https://github.com/elementary/gala/commit/346db7122dbcd4f1aa58c94874a2b87d0c449c2d)
+- [ ] [<code>config.h and meson cleanup (#2542)</code>](https://github.com/elementary/gala/commit/76a0b89180045ed488c794eac7d167199074d203)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use GLib.Once for singletons (#2539)</code>](https://github.com/elementary/gala/commit/44d00dbb34c271ab2cef46e6c6b64e9d8b31999e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
