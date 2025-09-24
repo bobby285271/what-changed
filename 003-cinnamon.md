@@ -10,7 +10,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.12 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.12...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.13...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -135,6 +135,12 @@
 - [ ] [<code>cs_default.py: Don't import gi.repository.*</code>](https://github.com/linuxmint/cinnamon/commit/330b9ff19f33ec1e94e36048ca46011404f796b4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>placesManager.js: a new Gio.MountOperation takes no arguments.</code>](https://github.com/linuxmint/cinnamon/commit/9ed70641a1f63d2b2b44e08a84033cbf912e0c2b)
+- [ ] [<code>Modernize keyboard handling</code>](https://github.com/linuxmint/cinnamon/commit/5fd5748988a1a3a4f9fcf00236848da781dd1ddb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>_menus.scss: fix spontaneous increase size of the pop-up menu when left-clicking on some items</code>](https://github.com/linuxmint/cinnamon/commit/eb5df875de49fc075bd5865543e88f79ae9e6514)
+- [ ] [<code>_calendar.scss: enable backlight for calendar-today-home-button</code>](https://github.com/linuxmint/cinnamon/commit/02e8ca72832982a73d9850d201013199c00b00cc)
+- [ ] [<code>Add gir.1.2-graphene-1.0 to depends.</code>](https://github.com/linuxmint/cinnamon/commit/023bdb09a21d7024195a58ccd283bd6e3c725da1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
@@ -142,7 +148,11 @@
 - [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
 - [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
 - [ ] [<code>Fixed Segmentation fault that sometimes occurs when starting a hotspot. (#351)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4f4601bd8b84b4c21022e0daffbc303c90c05b9c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Remove region panel, misc related code. (#355)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9881cf7dc6c722a75344a1b42d951759d60e67b6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.2...HEAD)
 
@@ -157,13 +167,19 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>debian/control: Add provides to gir1.2-cinnamondesktop-3.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/63b48cce1103c2a8ac02b88743205bb43f08a222)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Update input-sources schema</code>](https://github.com/linuxmint/cinnamon-desktop/commit/24cfc34868a8b09a84be2adb707b5ced8ca48150)
+- [ ] [<code>Don't show keyboard layout flags by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3ab6b08bf2ab70c80bd4e6a272c7d08a324d517c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.1...HEAD)
 
+- [ ] [<code>Handle layout switching thru cinnamon, remove use of XApp. (#477)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/be49027be4760ded47ba219c2fdff5b42fbb44b4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.2...HEAD)
 
@@ -191,7 +207,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>generate-tz-header.py: Fix position coordinate parsing.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/eec27984940dfb11904b02228357f430b585c41f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Adapt to keyboard layout modernization, remove libgnomekbd dep.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a2a6017bd1c7206be651a9f1d99e6fbd4aca3b78)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Fix deps</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0022537b6fdb43d765b7bc0d21d6b16ad1878d74)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
@@ -276,9 +299,10 @@
 - [ ] [<code>[Wayland] Implement xdg-activation-v1 protocol (#725)</code>](https://github.com/linuxmint/muffin/commit/3a8367f045748fa24e16639bf11921f9e1fce385)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>[Xwayland] Check for listenfd option (#743)</code>](https://github.com/linuxmint/muffin/commit/1220bb4f0b23568a2dc01e6b4a45923eda19a0a9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
+- [ ] [<code>meta-xwayland.c: Fix rebase error.</code>](https://github.com/linuxmint/muffin/commit/f902ccbd8970b195192477e5c1f55f8d8b08e253)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
@@ -346,6 +370,11 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.13 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.13...HEAD)
 
+- [ ] [<code>Remove XAppKbdLayoutController class.</code>](https://github.com/linuxmint/xapp/commit/c22f968cb324528c95edce03cc1c7f3b2e176e83)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update docs.</code>](https://github.com/linuxmint/xapp/commit/7a243e35020d5eee4f6c43f79307128295a80d69)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
