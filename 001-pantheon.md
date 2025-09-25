@@ -1,14 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.3.0 → HEAD](https://github.com/elementary/appcenter/compare/8.3.0...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.3.1 → HEAD](https://github.com/elementary/appcenter/compare/8.3.1...HEAD)
 
-- [ ] [<code>Use absolute path for Exec for DBus activation (#2355)</code>](https://github.com/elementary/appcenter/commit/b90fccf9f7e35f8eef42c3cb75af13fae0c861e9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Release 8.3.1 (#2356)</code>](https://github.com/elementary/appcenter/commit/5554a17f6138d636e4fce70dbb157cae116c0466)
-  - <sub>Tags: <code>8.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
