@@ -221,18 +221,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/tasks/commit/17d8e0914a6078018d094b929c09085e7a2f7680)
 - [ ] [<code>libshumate: Update libshumate-1.4.0.tar.xz to 1.5.0.1 (#419)</code>](https://github.com/elementary/tasks/commit/ea2f1177b4e92fdd7cf679b614393eecdd739776)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.1 → HEAD](https://github.com/elementary/terminal/compare/7.1.1...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
 
-- [ ] [<code>Only embedded newlines should trigger safe paste warning (#906)</code>](https://github.com/elementary/terminal/commit/948394b734bfa0ba06d4d29a4e3d90d44eaba53c)
-- [ ] [<code>Metainfo: add 7.1.2 release notes (#907)</code>](https://github.com/elementary/terminal/commit/2248c75c35fa214b991612563c52463d8d5ebae5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Metainfo: rename file, add screenshot env, no translate old releases (#908)</code>](https://github.com/elementary/terminal/commit/93c58d1c7e70a168dd94d62f796134f71ff4d24d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>MainWindow: set strict centering in header (#909)</code>](https://github.com/elementary/terminal/commit/e51beb4520697df4875f27b3cead6cb988556937)
-- [ ] [<code>Simplify make restorable (#910)</code>](https://github.com/elementary/terminal/commit/d39882c637fc1e6ede66e6d1590f37f42d01a44b)
-- [ ] [<code>Release  7.1.2 (#918)</code>](https://github.com/elementary/terminal/commit/39fdc33eefa2ebb377f2511fea7d202124bc6750)
-  - <sub>Tags: <code>7.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
