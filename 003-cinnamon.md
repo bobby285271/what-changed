@@ -141,7 +141,10 @@
 - [ ] [<code>_menus.scss: fix spontaneous increase size of the pop-up menu when left-clicking on some items</code>](https://github.com/linuxmint/cinnamon/commit/eb5df875de49fc075bd5865543e88f79ae9e6514)
 - [ ] [<code>_calendar.scss: enable backlight for calendar-today-home-button</code>](https://github.com/linuxmint/cinnamon/commit/02e8ca72832982a73d9850d201013199c00b00cc)
 - [ ] [<code>Add gir.1.2-graphene-1.0 to depends.</code>](https://github.com/linuxmint/cinnamon/commit/023bdb09a21d7024195a58ccd283bd6e3c725da1)
+- [ ] [<code>monitorLabeler.js (wayland): Fix error and label behavior after</code>](https://github.com/linuxmint/cinnamon/commit/fb814eb0270e990841d5c1b47f0e437a9a7be8ae)
+- [ ] [<code>eventView.js (calendar): Format 12h time without leading padding</code>](https://github.com/linuxmint/cinnamon/commit/8b30fa6113b20df5b6990803e5a329499f26ef79)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
