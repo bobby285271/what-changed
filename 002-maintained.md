@@ -411,6 +411,8 @@
 - [ ] [<code>Make Planify compilable on FreeBSD and Windows. (#1784)</code>](https://github.com/alainm23/planify/commit/e7f0ed25f73746d060be1678adcd5c20f3468f36)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix section count (#1809)</code>](https://github.com/alainm23/planify/commit/e1886be688951fe5d2630d3837eb81e19d0b4a30)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
