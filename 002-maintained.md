@@ -413,6 +413,9 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>fix section count (#1809)</code>](https://github.com/alainm23/planify/commit/e1886be688951fe5d2630d3837eb81e19d0b4a30)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix labels (#1810)</code>](https://github.com/alainm23/planify/commit/e313c364ca8f46983bff906dd0f2397e99ac5d1b)
+- [ ] [<code>Adjust placeholder titles for Completed view (#1811)</code>](https://github.com/alainm23/planify/commit/6c06e471cc96552cfdc5570b8c7bb1dea4ec7759)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
