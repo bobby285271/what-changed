@@ -433,6 +433,9 @@
 - [ ] [<code>Add dialog-object-properties for Inkscape (#1382)</code>](https://github.com/elementary/icons/commit/6dbb233622cde676d6d4738937e1bc7426478392)
 - [ ] [<code>Add dialog-xml-editor, dialog-selectors and dialog-scripts for Inkscape (#1381)</code>](https://github.com/elementary/icons/commit/ca652d1125809d8cf64a2bdbca3fe34f6c330171)
 - [ ] [<code>Add hide/unhide icons for Inkscape (#1371)</code>](https://github.com/elementary/icons/commit/82b60ef80e88d7bd1ceb5da22b61acbea4935202)
+- [ ] [<code>Add dialog-objects for Inkscape (#1387)</code>](https://github.com/elementary/icons/commit/8f49e762bb4f52dd4351424dc6091de64a52309d)
+- [ ] [<code>Add dialog-fill-and-stroke for Inkscape (#1384)</code>](https://github.com/elementary/icons/commit/48ccc4d3ddb2a0562dadb14fea29814f6b8852d8)
+- [ ] [<code>Add missing mint-green path boolean operation Inkscape icons (#1391)</code>](https://github.com/elementary/icons/commit/ca50763dab85c4b50be72aeddb9966676032f63e)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -551,6 +554,12 @@
 - [ ] [<code>config.h and meson cleanup (#2542)</code>](https://github.com/elementary/gala/commit/76a0b89180045ed488c794eac7d167199074d203)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use GLib.Once for singletons (#2539)</code>](https://github.com/elementary/gala/commit/44d00dbb34c271ab2cef46e6c6b64e9d8b31999e)
+- [ ] [<code>config.h -> config.vala (#2544)</code>](https://github.com/elementary/gala/commit/78e83f32aa5cb5ef6d82c39fbb846b292a70888d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup meson (#2545)</code>](https://github.com/elementary/gala/commit/ea1440ac8f122788dfecdf4c3e17a066805ad2d6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Cleanup libmutter.deps are remove old .vapi files (#2547)</code>](https://github.com/elementary/gala/commit/d0e15b4ea1430715e6ea94ca230001ee105bf662)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -909,6 +918,7 @@
 - [ ] [<code>markup_accel_tooltip: Handle null-terminated accels (#903)</code>](https://github.com/elementary/granite/commit/72d4771dbdb974753e7c24c2f4e82febffcfcc7a)
 - [ ] [<code>Remove colors defined in root pseudo-class (#907)</code>](https://github.com/elementary/granite/commit/ff9cef6d7fcb20af048556c4db4dd454b4b9d4d3)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/granite/commit/6ff30774cb8774f73a7a48f99d84f534fbd551b5)
+- [ ] [<code>StyleManager: Fix build error with valadoc (#910)</code>](https://github.com/elementary/granite/commit/7ded405e07f9a81e65b0956b86ef3a0b46703fcf)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
