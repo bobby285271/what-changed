@@ -143,8 +143,9 @@
 - [ ] [<code>Add gir.1.2-graphene-1.0 to depends.</code>](https://github.com/linuxmint/cinnamon/commit/023bdb09a21d7024195a58ccd283bd6e3c725da1)
 - [ ] [<code>monitorLabeler.js (wayland): Fix error and label behavior after</code>](https://github.com/linuxmint/cinnamon/commit/fb814eb0270e990841d5c1b47f0e437a9a7be8ae)
 - [ ] [<code>eventView.js (calendar): Format 12h time without leading padding</code>](https://github.com/linuxmint/cinnamon/commit/8b30fa6113b20df5b6990803e5a329499f26ef79)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>monitor labeler: Use in both x11 and wayland, don't rely on the</code>](https://github.com/linuxmint/cinnamon/commit/c5d3ee306895313e7f1094b0fc2c26c0a5c22bb4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
@@ -153,9 +154,10 @@
 - [ ] [<code>Fixed Segmentation fault that sometimes occurs when starting a hotspot. (#351)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4f4601bd8b84b4c21022e0daffbc303c90c05b9c)
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>Remove region panel, misc related code. (#355)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9881cf7dc6c722a75344a1b42d951759d60e67b6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.2...HEAD)
 
@@ -338,7 +340,9 @@
 - [ ] [<code>file operations: Implement pause/resume.</code>](https://github.com/linuxmint/nemo/commit/64d6829771ee8b6c7992dce7320a5843bc3e2554)
 - [ ] [<code>nemo-file-management-properties.glade: Improve behavior tab layout.</code>](https://github.com/linuxmint/nemo/commit/cb44fcedb79af79eadc1be981290a0149de76be7)
 - [ ] [<code>file operations: Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/ef6492152c8ec9a35d4d7b7260484c3a88cb0388)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>nemo-action-layout-editor: UI improvement for enabling/disabling</code>](https://github.com/linuxmint/nemo/commit/bc252a055b923f7a33a98d8060c5b52c0ece8683)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
