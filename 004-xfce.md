@@ -638,6 +638,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Show spinner on tab when tab view is "loading"</code>](https://github.com/xfce-mirror/thunar/commit/56db69ee4f4d7a5843756775e3f6466b919c7ad2)
 - [ ] [<code>Don't use camel-case for preferences strings</code>](https://github.com/xfce-mirror/thunar/commit/4134c65b56656f83fb6e3070975c9651ceb5a577)
+- [ ] [<code>Fix GtkTreePath leak in thunar_path_entry_match_func</code>](https://github.com/xfce-mirror/thunar/commit/0973dcc8424bb3a91cfe1a865b9cc52e87ba3622)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -704,6 +705,7 @@
 - [ ] [<code>xdg-cache: Fix TumblerThumbnailFlavor leaks</code>](https://github.com/xfce-mirror/tumbler/commit/9aba3a65b7d008d0ae1405be23c4722b7cbb93c2)
 - [ ] [<code>ffmpeg-thumbnailer: Update mime type list from upstream desktop file</code>](https://github.com/xfce-mirror/tumbler/commit/abf36e9feca9aff1bc1dac500018da8673680e28)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/dfa435052d7f4e646b57e18398ad6292e2d75630)
+- [ ] [<code>gst-thumbnailer: Fix TumblerThumbnailFlavor leak</code>](https://github.com/xfce-mirror/tumbler/commit/75f921e1bf0964a402ec2c6d0706e04a85011026)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
