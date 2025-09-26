@@ -418,6 +418,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Disable animation when "Create More" is active and use quick notification (#1812)</code>](https://github.com/alainm23/planify/commit/48c0dbd64161c00d007376dfd55f00d6d8e9adfa)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix sync (#1819)</code>](https://github.com/alainm23/planify/commit/32a0929411c26f6891b6bfe9100f67986817924b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
