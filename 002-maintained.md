@@ -416,6 +416,8 @@
 - [ ] [<code>fix labels (#1810)</code>](https://github.com/alainm23/planify/commit/e313c364ca8f46983bff906dd0f2397e99ac5d1b)
 - [ ] [<code>Adjust placeholder titles for Completed view (#1811)</code>](https://github.com/alainm23/planify/commit/6c06e471cc96552cfdc5570b8c7bb1dea4ec7759)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Disable animation when "Create More" is active and use quick notification (#1812)</code>](https://github.com/alainm23/planify/commit/48c0dbd64161c00d007376dfd55f00d6d8e9adfa)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
