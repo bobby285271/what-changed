@@ -924,6 +924,7 @@
 - [ ] [<code>meson: Explicit setup (#911)</code>](https://github.com/elementary/granite/commit/25136dc1ab006f276f5ae8fd16a80c23811276b4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Actions: Check for documentation generation (#912)</code>](https://github.com/elementary/granite/commit/a1f76ece3fe625b82b8a934409ee4992ea2357d7)
+- [ ] [<code>demo: Replace deprecated Granite.STYLE_CLASS_FRAME (#913)</code>](https://github.com/elementary/granite/commit/eb228ef429962e239b0290a28ef8f7904c4949f1)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
