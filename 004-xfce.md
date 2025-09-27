@@ -641,6 +641,7 @@
 - [ ] [<code>Fix GtkTreePath leak in thunar_path_entry_match_func</code>](https://github.com/xfce-mirror/thunar/commit/0973dcc8424bb3a91cfe1a865b9cc52e87ba3622)
 - [ ] [<code>Slightly reduce size of emblems in emblem chooser</code>](https://github.com/xfce-mirror/thunar/commit/6d145564bae2d15fb8554d0e23fd010f62d70b42)
 - [ ] [<code>Fix string in column editor</code>](https://github.com/xfce-mirror/thunar/commit/bbe96a92a63e886677c64d4b005e1a135261a2ab)
+- [ ] [<code>Update window icon when loading finished (#1719)</code>](https://github.com/xfce-mirror/thunar/commit/7dea7d06ce303e8e66efd29c512e283f80d0dd9b)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
