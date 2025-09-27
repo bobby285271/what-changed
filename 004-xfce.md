@@ -639,6 +639,8 @@
 - [ ] [<code>Show spinner on tab when tab view is "loading"</code>](https://github.com/xfce-mirror/thunar/commit/56db69ee4f4d7a5843756775e3f6466b919c7ad2)
 - [ ] [<code>Don't use camel-case for preferences strings</code>](https://github.com/xfce-mirror/thunar/commit/4134c65b56656f83fb6e3070975c9651ceb5a577)
 - [ ] [<code>Fix GtkTreePath leak in thunar_path_entry_match_func</code>](https://github.com/xfce-mirror/thunar/commit/0973dcc8424bb3a91cfe1a865b9cc52e87ba3622)
+- [ ] [<code>Slightly reduce size of emblems in emblem chooser</code>](https://github.com/xfce-mirror/thunar/commit/6d145564bae2d15fb8554d0e23fd010f62d70b42)
+- [ ] [<code>Fix string in column editor</code>](https://github.com/xfce-mirror/thunar/commit/bbe96a92a63e886677c64d4b005e1a135261a2ab)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
