@@ -175,6 +175,9 @@
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>Update input-sources schema</code>](https://github.com/linuxmint/cinnamon-desktop/commit/24cfc34868a8b09a84be2adb707b5ced8ca48150)
 - [ ] [<code>Don't show keyboard layout flags by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3ab6b08bf2ab70c80bd4e6a272c7d08a324d517c)
+- [ ] [<code>gnome-desktop-thumbnail.c: Check for a filesystem-supplied preview</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a2f7f152df6d4506b2279d4b295f91c64694885e)
+- [ ] [<code>gnome-desktop-thumbnail.c: Remove preview icon check in the fallback</code>](https://github.com/linuxmint/cinnamon-desktop/commit/aa7b0299f69ab1df08418486e7f24661ab8d1aa1)
+- [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
@@ -217,9 +220,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Fix deps</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0022537b6fdb43d765b7bc0d21d6b16ad1878d74)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move some x11-only from the keyboard to xsettings module.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/88c63200349cbe1aef3fba9f8575e229e35a77b1)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>build: Remove -dev package, don't install csd-enums, don't generate</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cd7975da247876b5d18fcaa81df9a1d1abd9460f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
@@ -342,6 +350,7 @@
 - [ ] [<code>file operations: Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/ef6492152c8ec9a35d4d7b7260484c3a88cb0388)
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>nemo-action-layout-editor: UI improvement for enabling/disabling</code>](https://github.com/linuxmint/nemo/commit/bc252a055b923f7a33a98d8060c5b52c0ece8683)
+- [ ] [<code>nemo-file.c: Allow files with backend-provided previews to be</code>](https://github.com/linuxmint/nemo/commit/8454290f84904a66979fcae067e96bf6ce540d47)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
