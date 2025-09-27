@@ -560,6 +560,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Cleanup libmutter.deps are remove old .vapi files (#2547)</code>](https://github.com/elementary/gala/commit/d0e15b4ea1430715e6ea94ca230001ee105bf662)
+- [ ] [<code>gtk3/4-daemon: don't depend on libgala (#2549)</code>](https://github.com/elementary/gala/commit/d11be693187e039021d6d512c05f493b1cd3bf84)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -919,6 +921,9 @@
 - [ ] [<code>Remove colors defined in root pseudo-class (#907)</code>](https://github.com/elementary/granite/commit/ff9cef6d7fcb20af048556c4db4dd454b4b9d4d3)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/granite/commit/6ff30774cb8774f73a7a48f99d84f534fbd551b5)
 - [ ] [<code>StyleManager: Fix build error with valadoc (#910)</code>](https://github.com/elementary/granite/commit/7ded405e07f9a81e65b0956b86ef3a0b46703fcf)
+- [ ] [<code>meson: Explicit setup (#911)</code>](https://github.com/elementary/granite/commit/25136dc1ab006f276f5ae8fd16a80c23811276b4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Actions: Check for documentation generation (#912)</code>](https://github.com/elementary/granite/commit/a1f76ece3fe625b82b8a934409ee4992ea2357d7)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
