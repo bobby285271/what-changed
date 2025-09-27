@@ -360,6 +360,9 @@
 - [ ] [<code>SystemCPUView: code style cleanup (#460)</code>](https://github.com/stsdc/monitor/commit/33f86db48380054658541f1a357e3d5da0acb731)
 - [ ] [<code>Statusbar: cleanup and GTK4 prep (#462)</code>](https://github.com/stsdc/monitor/commit/c82cd0d6a5023ca17d3e03e1b074f41068eeac9a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>WidgetResource: rewrite and cleanup</code>](https://github.com/stsdc/monitor/commit/6172ab06da1c72609b6f5066947102c93aee9a4b)
+- [ ] [<code>WidgetResource: absorb LabelVertical</code>](https://github.com/stsdc/monitor/commit/822cc06b22a05350e8bbd06eb7912160d50bc1ce)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -419,6 +422,9 @@
 - [ ] [<code>Disable animation when "Create More" is active and use quick notification (#1812)</code>](https://github.com/alainm23/planify/commit/48c0dbd64161c00d007376dfd55f00d6d8e9adfa)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix sync (#1819)</code>](https://github.com/alainm23/planify/commit/32a0929411c26f6891b6bfe9100f67986817924b)
+- [ ] [<code>verify type (#1821)</code>](https://github.com/alainm23/planify/commit/2f2d86b2ea0cc17c5cb92c3b60969913d99c5a07)
+- [ ] [<code>fix sidebar loading (#1822)</code>](https://github.com/alainm23/planify/commit/9084c303d6d3c4505f64a49a94e30b4f5a583a59)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
