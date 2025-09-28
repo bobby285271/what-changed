@@ -427,6 +427,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix manual task ordering and improve task detail transition (#1824)</code>](https://github.com/alainm23/planify/commit/7fb1e9ca24dc902b018c7d6f4f71a2ee8bc770f1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve EditableTextView with mobile truncation and auto-unfocus timeout (#1827)</code>](https://github.com/alainm23/planify/commit/bf617d0d8e804bc3c1d66f147de939eecd996f2d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
