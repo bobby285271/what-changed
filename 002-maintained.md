@@ -425,6 +425,8 @@
 - [ ] [<code>verify type (#1821)</code>](https://github.com/alainm23/planify/commit/2f2d86b2ea0cc17c5cb92c3b60969913d99c5a07)
 - [ ] [<code>fix sidebar loading (#1822)</code>](https://github.com/alainm23/planify/commit/9084c303d6d3c4505f64a49a94e30b4f5a583a59)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix manual task ordering and improve task detail transition (#1824)</code>](https://github.com/alainm23/planify/commit/7fb1e9ca24dc902b018c7d6f4f71a2ee8bc770f1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
