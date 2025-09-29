@@ -429,6 +429,23 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Improve EditableTextView with mobile truncation and auto-unfocus timeout (#1827)</code>](https://github.com/alainm23/planify/commit/bf617d0d8e804bc3c1d66f147de939eecd996f2d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Make Quick Add save the last selected section (#1828)</code>](https://github.com/alainm23/planify/commit/4c440f2d09dc51b9a6a7768350406bc7f4c4ee50)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add Pin Button for Quick Add (#1829)</code>](https://github.com/alainm23/planify/commit/6893c8f10b5ab0c13b479919d659a759dbfd5885)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update po files (#1830)</code>](https://github.com/alainm23/planify/commit/fde5673dd7fdeac6be408b0cff55ff2918be6b92)
+- [ ] [<code>update merge action</code>](https://github.com/alainm23/planify/commit/3b1bc70c3e57b3229624058b989d626e34c9c669)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ae213a6342ff9f779f4d9bf94914e57394fa4c74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test gettex action</code>](https://github.com/alainm23/planify/commit/312e3b677bda72750505c3d75b749fb732258720)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fceb5bdf55a894c83d2caf13d0420ca3ed554648)
+- [ ] [<code>restore translate files</code>](https://github.com/alainm23/planify/commit/28b20c075c4c035f4f8ae609bee98c7c3aa1b205)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ed2f4d964d913d565133e220dfb2ae9dc7e32911)
+- [ ] [<code>release 4.14.1 (#1831)</code>](https://github.com/alainm23/planify/commit/7a98e81b899ddd0e36c666de82a4a6c3ad06e378)
+  - <sub>Tags: <code>4.14.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/85765b52a767efb1c8890df61fb217ae3b0b8f74)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
