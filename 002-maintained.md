@@ -405,46 +405,8 @@
 - [ ] [<code>fix: Avoid duplicated window controls in the both side of titlebar on Wayland (#328)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b1e9560dfeebcca0b4a996b4af16b127f3496d1d)
 - [ ] [<code>chore: FilesPane: Explicit Date & Time format (#329)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fe1e08445453e09fa1df4ca0ebeb47e056ed2629)
 
-#### [planify](https://github.com/alainm23/planify): [4.14.0 → HEAD](https://github.com/alainm23/planify/compare/4.14.0...HEAD)
+#### [planify](https://github.com/alainm23/planify): [4.14.1 → HEAD](https://github.com/alainm23/planify/compare/4.14.1...HEAD)
 
-- [ ] [<code>update colors and section row align (#1803)</code>](https://github.com/alainm23/planify/commit/15cb69de37ab28a0efcde4c161e84f0df68e93b6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix null pointer crashes in Store service (#1804)</code>](https://github.com/alainm23/planify/commit/24b27cb14a773f4be0a1782bb3aef9f05269b99c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Make Planify compilable on FreeBSD and Windows. (#1784)</code>](https://github.com/alainm23/planify/commit/e7f0ed25f73746d060be1678adcd5c20f3468f36)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>fix section count (#1809)</code>](https://github.com/alainm23/planify/commit/e1886be688951fe5d2630d3837eb81e19d0b4a30)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix labels (#1810)</code>](https://github.com/alainm23/planify/commit/e313c364ca8f46983bff906dd0f2397e99ac5d1b)
-- [ ] [<code>Adjust placeholder titles for Completed view (#1811)</code>](https://github.com/alainm23/planify/commit/6c06e471cc96552cfdc5570b8c7bb1dea4ec7759)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Disable animation when "Create More" is active and use quick notification (#1812)</code>](https://github.com/alainm23/planify/commit/48c0dbd64161c00d007376dfd55f00d6d8e9adfa)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix sync (#1819)</code>](https://github.com/alainm23/planify/commit/32a0929411c26f6891b6bfe9100f67986817924b)
-- [ ] [<code>verify type (#1821)</code>](https://github.com/alainm23/planify/commit/2f2d86b2ea0cc17c5cb92c3b60969913d99c5a07)
-- [ ] [<code>fix sidebar loading (#1822)</code>](https://github.com/alainm23/planify/commit/9084c303d6d3c4505f64a49a94e30b4f5a583a59)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix manual task ordering and improve task detail transition (#1824)</code>](https://github.com/alainm23/planify/commit/7fb1e9ca24dc902b018c7d6f4f71a2ee8bc770f1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Improve EditableTextView with mobile truncation and auto-unfocus timeout (#1827)</code>](https://github.com/alainm23/planify/commit/bf617d0d8e804bc3c1d66f147de939eecd996f2d)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Make Quick Add save the last selected section (#1828)</code>](https://github.com/alainm23/planify/commit/4c440f2d09dc51b9a6a7768350406bc7f4c4ee50)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add Pin Button for Quick Add (#1829)</code>](https://github.com/alainm23/planify/commit/6893c8f10b5ab0c13b479919d659a759dbfd5885)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update po files (#1830)</code>](https://github.com/alainm23/planify/commit/fde5673dd7fdeac6be408b0cff55ff2918be6b92)
-- [ ] [<code>update merge action</code>](https://github.com/alainm23/planify/commit/3b1bc70c3e57b3229624058b989d626e34c9c669)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ae213a6342ff9f779f4d9bf94914e57394fa4c74)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test gettex action</code>](https://github.com/alainm23/planify/commit/312e3b677bda72750505c3d75b749fb732258720)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fceb5bdf55a894c83d2caf13d0420ca3ed554648)
-- [ ] [<code>restore translate files</code>](https://github.com/alainm23/planify/commit/28b20c075c4c035f4f8ae609bee98c7c3aa1b205)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ed2f4d964d913d565133e220dfb2ae9dc7e32911)
-- [ ] [<code>release 4.14.1 (#1831)</code>](https://github.com/alainm23/planify/commit/7a98e81b899ddd0e36c666de82a4a6c3ad06e378)
-  - <sub>Tags: <code>4.14.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/85765b52a767efb1c8890df61fb217ae3b0b8f74)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
