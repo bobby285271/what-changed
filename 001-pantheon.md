@@ -925,6 +925,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Actions: Check for documentation generation (#912)</code>](https://github.com/elementary/granite/commit/a1f76ece3fe625b82b8a934409ee4992ea2357d7)
 - [ ] [<code>demo: Replace deprecated Granite.STYLE_CLASS_FRAME (#913)</code>](https://github.com/elementary/granite/commit/eb228ef429962e239b0290a28ef8f7904c4949f1)
+- [ ] [<code>Release 7.7.0 (#892)</code>](https://github.com/elementary/granite/commit/ae94e9123bbf1dea8db38bedd8a925dbd5a8f812)
+  - <sub>Tags: <code>7.7.0</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -954,6 +956,13 @@
 - [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#245)</code>](https://github.com/elementary/notifications/commit/5216c30f575ab54d3ebb4b364d209133b36877f6)
 - [ ] [<code>Actions: Use main branch (#246)</code>](https://github.com/elementary/notifications/commit/d4fa4b6e20781525369022febf96db729dab0fde)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#247)</code>](https://github.com/elementary/notifications/commit/ee3cae76db88e063e940ce4f78fdfc1f33e34431)
+- [ ] [<code>Port to Gtk4 (#227)</code>](https://github.com/elementary/notifications/commit/bf7c2c2bc22ac678408c5d2dc25726e83d1a333b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/notifications/commit/cae26273f9f4c7703662d2ff6e6545f25cf89009)
+- [ ] [<code>MaskedImage: fix deprecated Granite styles (#250)</code>](https://github.com/elementary/notifications/commit/90474b051f480797caafb8109702c04073666666)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
