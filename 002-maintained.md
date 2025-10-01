@@ -180,7 +180,7 @@
 - [ ] [<code>Implement filename for exports (#743)</code>](https://github.com/akiraux/Akira/commit/6ba3574f2e14b4290991a4dd94e905152ac08542)
 - [ ] [<code>* Project logo update to transparent version</code>](https://github.com/akiraux/Akira/commit/3b6c58ab4376f0c40cf647164354a65ba2b15a3f)
 
-#### [appeditor](https://github.com/donadigo/appeditor): [1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/1.1.5...HEAD)
+#### [appeditor](https://github.com/donadigo/appeditor): [refs/tags/1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/refs/tags/1.1.5...HEAD)
 
 
 #### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
@@ -363,6 +363,7 @@
 - [ ] [<code>WidgetResource: rewrite and cleanup</code>](https://github.com/stsdc/monitor/commit/6172ab06da1c72609b6f5066947102c93aee9a4b)
 - [ ] [<code>WidgetResource: absorb LabelVertical</code>](https://github.com/stsdc/monitor/commit/822cc06b22a05350e8bbd06eb7912160d50bc1ce)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ProcessView: reduce object access, build ui in construct (#464)</code>](https://github.com/stsdc/monitor/commit/7b59366d0fca2aa0f1f961aa90d700d4624af3eb)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -408,6 +409,15 @@
 #### [planify](https://github.com/alainm23/planify): [4.14.1 → HEAD](https://github.com/alainm23/planify/compare/4.14.1...HEAD)
 
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/85765b52a767efb1c8890df61fb217ae3b0b8f74)
+- [ ] [<code>feat: New Markdown Editor (#1833)</code>](https://github.com/alainm23/planify/commit/9e6a888dd641d579c1b8dce38474929f11bbff37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6578f4240d2b7084d2274416f95cda08b12383b7)
+- [ ] [<code>Feat/new markdown editor (#1834)</code>](https://github.com/alainm23/planify/commit/bfa3b6fb7ea5d577e12b826341c53fe154273a2a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/13b2b1e06cc9c48c879e404d1bdd773a45e4b1fc)
+- [ ] [<code>Update AUTHORS</code>](https://github.com/alainm23/planify/commit/b83932b8a6090330e2f946560f90a49b39c0b6ab)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/11ddeb8d1592c67466cdb4850e1de1646f78a4fe)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
