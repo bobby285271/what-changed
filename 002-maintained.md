@@ -364,6 +364,10 @@
 - [ ] [<code>WidgetResource: absorb LabelVertical</code>](https://github.com/stsdc/monitor/commit/822cc06b22a05350e8bbd06eb7912160d50bc1ce)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ProcessView: reduce object access, build ui in construct (#464)</code>](https://github.com/stsdc/monitor/commit/7b59366d0fca2aa0f1f961aa90d700d4624af3eb)
+- [ ] [<code>Search: code style cleanups</code>](https://github.com/stsdc/monitor/commit/763e7d571403305c8e6df7bf61e3c73ee36ff2a1)
+- [ ] [<code>Mainwindow: absorb search bar</code>](https://github.com/stsdc/monitor/commit/55e8174fe5e0a6c9f8126909d18b2633817360e3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ProcessView: move model filter and sort here (#465)</code>](https://github.com/stsdc/monitor/commit/1a9e03a910b95c95748af5fb59aa410bebc4a5ad)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
