@@ -145,7 +145,16 @@
 - [ ] [<code>eventView.js (calendar): Format 12h time without leading padding</code>](https://github.com/linuxmint/cinnamon/commit/8b30fa6113b20df5b6990803e5a329499f26ef79)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>monitor labeler: Use in both x11 and wayland, don't rely on the</code>](https://github.com/linuxmint/cinnamon/commit/c5d3ee306895313e7f1094b0fc2c26c0a5c22bb4)
+- [ ] [<code>userWidget: Don't stretch the avatar to fit long user names</code>](https://github.com/linuxmint/cinnamon/commit/9cf30b7393d9453d769f1730d77c88a9ae258bc6)
+- [ ] [<code>placesManager: Improve mounts</code>](https://github.com/linuxmint/cinnamon/commit/af72ce0426515740e0ff735b12510c38d9492857)
+- [ ] [<code>GWL: Don't show places</code>](https://github.com/linuxmint/cinnamon/commit/a494460550ce023f35b1623a759d54157723dd45)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st/scroll-view-fade: Don't assume fade area at (0,0)</code>](https://github.com/linuxmint/cinnamon/commit/37042a710b5b44f4f8d89b86a6e09dea24739970)
+- [ ] [<code>st/scroll-view-fade: Fix vertical top fading</code>](https://github.com/linuxmint/cinnamon/commit/20ddc0beb31dcf294717d8359d3a6342bfb2e25a)
+- [ ] [<code>st/scroll-view-fade: Simplify shader a bit</code>](https://github.com/linuxmint/cinnamon/commit/114ba4bf3da3bbee717b82a46f3a3a3f423ee23b)
+- [ ] [<code>test: Don't overwrite theme with non-compiled CSS</code>](https://github.com/linuxmint/cinnamon/commit/c0d541a74d925b6630c44be698d1d4eaa96445db)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
@@ -225,9 +234,10 @@
 - [ ] [<code>Move some x11-only from the keyboard to xsettings module.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/88c63200349cbe1aef3fba9f8575e229e35a77b1)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>build: Remove -dev package, don't install csd-enums, don't generate</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cd7975da247876b5d18fcaa81df9a1d1abd9460f)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>csd-autorun.c: Remove hidden 'hold shift key' feature.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/20c2ffad694a6658c3d5b12bfe07327ba612f091)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
