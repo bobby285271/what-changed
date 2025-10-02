@@ -197,8 +197,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>virtualKeyboard.js: Misc fixes.</code>](https://github.com/linuxmint/cinnamon/commit/11b9a6838af094ebc8f56955cfb59e69ca45444b)
 - [ ] [<code>on-screen-keyboard@cinnamon.org: Add a shortcut to the keyboard</code>](https://github.com/linuxmint/cinnamon/commit/2ad3fccc22b6098cad2df505210db07ad335e0d0)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>virtualKeyboard: Add an osk layout test script.</code>](https://github.com/linuxmint/cinnamon/commit/0527d4ed900b3e911a9bb06802002666638348f2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>virtualKeyboard.js: Only show the layout button if there are other</code>](https://github.com/linuxmint/cinnamon/commit/c70aabc7fe3a0391929b8cdb4b1c70f5250b6d4d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
