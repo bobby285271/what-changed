@@ -446,6 +446,8 @@
 - [ ] [<code>refactor (#1842)</code>](https://github.com/alainm23/planify/commit/47e6b9c3e5585e7b118cecbaecc1259fe7c72532)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4b19895b6dbae7cbc0c36f12c3647cea2a0f89f4)
+- [ ] [<code>Fix: Remove deleted sections from project's in-memory collection (#1843)</code>](https://github.com/alainm23/planify/commit/b87b874042e4b1c9b40608595467d18eef9a32a0)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/aacd1a613367caed3b60119e83e3edfed1f62360)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
