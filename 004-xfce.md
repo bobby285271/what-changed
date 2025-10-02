@@ -743,6 +743,9 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6a95942592e8368002cdbdb1363d3b5f81b9b096)
 - [ ] [<code>Make item description slightly transparent (#99)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/5afb9be6bcce68772de99a4bbc0ab4112ff7fbc9)
 - [ ] [<code>Add css class for easier theming (#107)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/0132ffef220e4d923c5236c823852565ab86400a)
+- [ ] [<code>Add option to clear frecency history (#102)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/69b0abc76107e8bb38c95fd2a640a9a8a2b67202)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Simplify</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/cd598f07a553bd1ac6b97f73d264348ae8b25a7d)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
