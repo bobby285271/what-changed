@@ -368,6 +368,10 @@
 - [ ] [<code>Mainwindow: absorb search bar</code>](https://github.com/stsdc/monitor/commit/55e8174fe5e0a6c9f8126909d18b2633817360e3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ProcessView: move model filter and sort here (#465)</code>](https://github.com/stsdc/monitor/commit/1a9e03a910b95c95748af5fb59aa410bebc4a5ad)
+- [ ] [<code>ProcessInfoIOStats: remove dead code, clean up (#466)</code>](https://github.com/stsdc/monitor/commit/f13c45ffaef0ff13abdf3a01f5b15e6d6b19aded)
+- [ ] [<code>Remove unused update_model method from OpenFilesTreeViewModel (#467)</code>](https://github.com/stsdc/monitor/commit/f5bdf4c6386e362ccaae739c7367aa39a2ca0036)
+- [ ] [<code>Create the model for OpenFilesTreeView internally (#468)</code>](https://github.com/stsdc/monitor/commit/798be66aa24e25bec1da0c8dce3ae07d19d90205)
+- [ ] [<code>Simplify icon handling in CPUProcessTreeView by removing regex check for icon paths (#469)</code>](https://github.com/stsdc/monitor/commit/054b59d36c0106f2343d8e17b5236bf241fac914)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -422,6 +426,26 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/13b2b1e06cc9c48c879e404d1bdd773a45e4b1fc)
 - [ ] [<code>Update AUTHORS</code>](https://github.com/alainm23/planify/commit/b83932b8a6090330e2f946560f90a49b39c0b6ab)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/11ddeb8d1592c67466cdb4850e1de1646f78a4fe)
+- [ ] [<code>use new markdown and fix quick (#1837)</code>](https://github.com/alainm23/planify/commit/afa00d3d1dc931ba514a7403167aaeacbeb68771)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9f5c27dbedb4842ba9616a3259d9170aa6a38212)
+- [ ] [<code>if (#1838)</code>](https://github.com/alainm23/planify/commit/9490303f23467e8414423a0f64c658f7d2a7afa4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b848dd8f8a17369152108418c43777bbb850094c)
+- [ ] [<code>remove source view (#1839)</code>](https://github.com/alainm23/planify/commit/5eeb57b520bd68db97407926348e5fe5b66a7371)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4fab82f698629ebb723524bb3d4b472632ef14eb)
+- [ ] [<code>add textmode (#1840)</code>](https://github.com/alainm23/planify/commit/17138599148d84870fcb092fe7fa0cacead8679c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/3e0d3fe7bc3046ac9081b51c977831600a73a350)
+- [ ] [<code>update TextView (#1841)</code>](https://github.com/alainm23/planify/commit/a3fe0923cd44800f4c15f3dc885f3b67b6128586)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c968977fc4bc786bf44eaaa54d85e699b5980429)
+- [ ] [<code>refactor (#1842)</code>](https://github.com/alainm23/planify/commit/47e6b9c3e5585e7b118cecbaecc1259fe7c72532)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4b19895b6dbae7cbc0c36f12c3647cea2a0f89f4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
