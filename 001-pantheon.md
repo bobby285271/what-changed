@@ -388,6 +388,7 @@
 - [ ] [<code>Actions: Use main branch (#1331)</code>](https://github.com/elementary/stylesheet/commit/4fe981abd7dfc75ee6f02ad986156d9ad577530c)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#1332)</code>](https://github.com/elementary/stylesheet/commit/96f01dd93785ece040a4794b0526ef3505742b0e)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/stylesheet/commit/0a7856072ad6ff907df040c7042c2447e518dd10)
+- [ ] [<code>Fix Latte palette is built partially (#1340)</code>](https://github.com/elementary/stylesheet/commit/62ae8c41366d6ce2012da9861fb533860955fae3)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -562,6 +563,8 @@
 - [ ] [<code>Cleanup libmutter.deps are remove old .vapi files (#2547)</code>](https://github.com/elementary/gala/commit/d0e15b4ea1430715e6ea94ca230001ee105bf662)
 - [ ] [<code>gtk3/4-daemon: don't depend on libgala (#2549)</code>](https://github.com/elementary/gala/commit/d11be693187e039021d6d512c05f493b1cd3bf84)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>BackgroundBlurEffect: Fix crash (#2554)</code>](https://github.com/elementary/gala/commit/564f95cde83168e17be60d46dfe7b159939c7f47)
+- [ ] [<code>Cleanup notification close animation (#2555)</code>](https://github.com/elementary/gala/commit/28487eefffe129a8d3630600c2f5819356f319f9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -963,6 +966,17 @@
 - [ ] [<code>MaskedImage: fix deprecated Granite styles (#250)</code>](https://github.com/elementary/notifications/commit/90474b051f480797caafb8109702c04073666666)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Remove no longer used libcanberra-gtk3.vapi (#254)</code>](https://github.com/elementary/notifications/commit/aa450436a20cace867a7b66cf4cbdb4cb54e49f3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>demo: Port to Gtk4 (#253)</code>](https://github.com/elementary/notifications/commit/2db9b55e10ebca5e8f440ccbf7eefe816112d8cc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove custom close animation (#252)</code>](https://github.com/elementary/notifications/commit/d6b676cd6a36a640c148c151af17685cdb0664f5)
+- [ ] [<code>Add background blur (#251)</code>](https://github.com/elementary/notifications/commit/a4ced84f13ef03a3797f8ee9f4591dce0fe66b46)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix meson warning and gettext ci (#255)</code>](https://github.com/elementary/notifications/commit/a34d3c0be350f2cc9022494cb5ec5cda640c7cd9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
