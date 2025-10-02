@@ -39,6 +39,9 @@
             "attr_path": "pantheon.elementary-mail"
         },
         {
+            "attr_path": "pantheon.elementary-maps"
+        },
+        {
             "attr_path": "pantheon.elementary-music"
         },
         {
