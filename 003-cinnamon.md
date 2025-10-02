@@ -153,6 +153,50 @@
 - [ ] [<code>st/scroll-view-fade: Fix vertical top fading</code>](https://github.com/linuxmint/cinnamon/commit/20ddc0beb31dcf294717d8359d3a6342bfb2e25a)
 - [ ] [<code>st/scroll-view-fade: Simplify shader a bit</code>](https://github.com/linuxmint/cinnamon/commit/114ba4bf3da3bbee717b82a46f3a3a3f423ee23b)
 - [ ] [<code>test: Don't overwrite theme with non-compiled CSS</code>](https://github.com/linuxmint/cinnamon/commit/c0d541a74d925b6630c44be698d1d4eaa96445db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Redesign applet</code>](https://github.com/linuxmint/cinnamon/commit/e093207eea6383f6371f3931291f0f687fbb79da)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>menu: Increase the POLL_INTERVAL</code>](https://github.com/linuxmint/cinnamon/commit/d0872de853e35498ea62ee0fdadc39b11c694bc8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Shorten path info for recents</code>](https://github.com/linuxmint/cinnamon/commit/92800b21665247989c276cc5fbcfb72631462025)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Simplify path buttons</code>](https://github.com/linuxmint/cinnamon/commit/d1ea12a279cf21f4132f6b14c7f67d576bea924f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Don't show devices</code>](https://github.com/linuxmint/cinnamon/commit/f9c91dd4a6d45178e71f5084934762e27d4730bb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Remove unnecessary code</code>](https://github.com/linuxmint/cinnamon/commit/a17f15b1599d0c27f484c6a0dcd970ec3045caf4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Fix apps using icon-names not on the theme</code>](https://github.com/linuxmint/cinnamon/commit/9fe15a3b810f4601fb08d1bfa6f931093a06898f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Modernize JS code</code>](https://github.com/linuxmint/cinnamon/commit/842603425d8716446b4d108ab264c23b739b5887)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Simplify applet</code>](https://github.com/linuxmint/cinnamon/commit/7a6b27507ac7dd5d651a8b224477d80a1f32aad2)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>menu: Toggle between symbolics or fullcolor for categories</code>](https://github.com/linuxmint/cinnamon/commit/5669c683b4356add0f2841a44e1125b6bd3d7066)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>menu: Color system buttons on hover</code>](https://github.com/linuxmint/cinnamon/commit/f272876796cf089f660c5d8d96e6cbb6bb317cec)
+- [ ] [<code>menu: Move system buttons to the top</code>](https://github.com/linuxmint/cinnamon/commit/f80e50a70a078472d6cc5c966046fb7f83138d3b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Make places/bookmarks configurable</code>](https://github.com/linuxmint/cinnamon/commit/d2f24f3d97b8ca9eec561d90143c3f4d27500049)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Hide scrollbars in sidebar/categories</code>](https://github.com/linuxmint/cinnamon/commit/8a4860a00e1f89247006fc682c29c4d06283bcad)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Disable vfade on sidebar/categories</code>](https://github.com/linuxmint/cinnamon/commit/b450058ee5134b1513a649d5fbb9ec7b8570f86e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Use new CSS names</code>](https://github.com/linuxmint/cinnamon/commit/e089665762de59c3a57b2e9fb2a07266093c3ed6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Launch account settings on avatar click</code>](https://github.com/linuxmint/cinnamon/commit/0230eba55341da2683d693e0ef326f5390e03745)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Make the avatar optional</code>](https://github.com/linuxmint/cinnamon/commit/2ee1fa74e9f69c9c73b2b1fb94a67518e978977e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>avatar: Apply a clutter effect on hover</code>](https://github.com/linuxmint/cinnamon/commit/f27094773a12e385ce092b1799a1fd713d467e72)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>lookingGlass.js: Improve display of actor position and name when</code>](https://github.com/linuxmint/cinnamon/commit/b53204f0e17f7715b545db6e1a5d012f1d0542ef)
+- [ ] [<code>virtual keyboard: Improve theme support, clean up fixed-element</code>](https://github.com/linuxmint/cinnamon/commit/8240994262a3302b6c89e24637f3aaab4527a2ba)
+- [ ] [<code>virtual keyboard: Add layout switch button.</code>](https://github.com/linuxmint/cinnamon/commit/ad5c5fd8dc6dd37ff2d7bb7a704994c61d94ea7b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>virtualKeyboard.js: Misc fixes.</code>](https://github.com/linuxmint/cinnamon/commit/11b9a6838af094ebc8f56955cfb59e69ca45444b)
+- [ ] [<code>on-screen-keyboard@cinnamon.org: Add a shortcut to the keyboard</code>](https://github.com/linuxmint/cinnamon/commit/2ad3fccc22b6098cad2df505210db07ad335e0d0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -259,6 +303,8 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
 
+- [ ] [<code>test: Add cinnamon theme</code>](https://github.com/linuxmint/mint-l-theme/commit/eaf494917d1d775241873f05131597fa94d88660)
+- [ ] [<code>Add support for the new Cinnamon 6.6 menu</code>](https://github.com/linuxmint/mint-l-theme/commit/77952d09ff6fda9077f6af402c98b42ee22171fc)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -275,6 +321,10 @@
 - [ ] [<code>Revert "Fix libAdw accent colors for Mint-X, Mint-X-Brown and Mint-Y-Sand."</code>](https://github.com/linuxmint/mint-themes/commit/9215951ca898bc9de8b1e31406039db8f03b68b5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>2.3.3</code>](https://github.com/linuxmint/mint-themes/commit/76e1d3d70ef936912f184e261902f9f98aae4f0e)
+- [ ] [<code>Add a test-mint-x script for Cinnamon</code>](https://github.com/linuxmint/mint-themes/commit/9f07edb8b10a737c14680f9af60911a7d8a8fe0e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add support for the new Cinnamon 6.6 menu</code>](https://github.com/linuxmint/mint-themes/commit/839e27255418b18304c5d39845a22e999c366101)
+- [ ] [<code>Mint-Y: Add support for Cinnamon 6.6 on-screen keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/721474a301ce8fa5da23be00599f00dd30f1cf13)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
