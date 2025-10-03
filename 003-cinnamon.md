@@ -201,7 +201,10 @@
 - [ ] [<code>virtualKeyboard: Add an osk layout test script.</code>](https://github.com/linuxmint/cinnamon/commit/0527d4ed900b3e911a9bb06802002666638348f2)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>virtualKeyboard.js: Only show the layout button if there are other</code>](https://github.com/linuxmint/cinnamon/commit/c70aabc7fe3a0391929b8cdb4b1c70f5250b6d4d)
+- [ ] [<code>keyboard: Fix background color, layout button style.</code>](https://github.com/linuxmint/cinnamon/commit/e8b96394e83edddfcd9ee51abd43aa969abddfb7)
+- [ ] [<code>misc: Improve osk layout tester, remove some never-used css.</code>](https://github.com/linuxmint/cinnamon/commit/a190ec395bfc64aa176bcca80d2f987d2102e977)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
@@ -308,6 +311,8 @@
 
 - [ ] [<code>test: Add cinnamon theme</code>](https://github.com/linuxmint/mint-l-theme/commit/eaf494917d1d775241873f05131597fa94d88660)
 - [ ] [<code>Add support for the new Cinnamon 6.6 menu</code>](https://github.com/linuxmint/mint-l-theme/commit/77952d09ff6fda9077f6af402c98b42ee22171fc)
+- [ ] [<code>build: Use pysassc.</code>](https://github.com/linuxmint/mint-l-theme/commit/3e0f656de1b0ae4c220fdc6518bd77f94cbee572)
+- [ ] [<code>cinnamon: Add support for new keyboard and ibus popups.</code>](https://github.com/linuxmint/mint-l-theme/commit/e06c7d38d3eda86b24b97934ead8a862f2e8d7b6)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -330,6 +335,7 @@
 - [ ] [<code>Mint-Y: Add support for Cinnamon 6.6 on-screen keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/721474a301ce8fa5da23be00599f00dd30f1cf13)
 - [ ] [<code>Mint-Y: Add support for ibus popups.</code>](https://github.com/linuxmint/mint-themes/commit/b4d55b435f3d7bc8a7adc86fe16e483fc0585970)
 - [ ] [<code>Mint-X: Add support for new keyboard and ibus popup.</code>](https://github.com/linuxmint/mint-themes/commit/24a1a76347dca9007e826f353854fac6f5cebc73)
+- [ ] [<code>Mint-Y: small fix for cinnamon keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/35a509d46d0b105da1236e4ae4d3b6ace4d3f2a8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
