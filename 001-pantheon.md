@@ -127,6 +127,10 @@
 - [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
 
+#### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
+
+- [ ] [<code>Add a tooltip for the current location (#172)</code>](https://github.com/elementary/maps/commit/86b66f8b45bfea2af9c6caa40148ed74dade375c)
+
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
 
@@ -389,6 +393,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#1332)</code>](https://github.com/elementary/stylesheet/commit/96f01dd93785ece040a4794b0526ef3505742b0e)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/stylesheet/commit/0a7856072ad6ff907df040c7042c2447e518dd10)
 - [ ] [<code>Fix Latte palette is built partially (#1340)</code>](https://github.com/elementary/stylesheet/commit/62ae8c41366d6ce2012da9861fb533860955fae3)
+- [ ] [<code>CheckButtons: Support Latte (#1341)</code>](https://github.com/elementary/stylesheet/commit/03b74e7f2a7e84eae0eb2fbdb13896b2480b0291)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
 
@@ -458,10 +463,13 @@
 - [ ] [<code>Change toggle-maximized to Ctrl+Super+Up (#346)</code>](https://github.com/elementary/default-settings/commit/27525ae27e150d480cfa5b0bdcadfc3012e550d1)
 - [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/default-settings/commit/0251a127f06ec91e2284061c97ba0967f031d307)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
+- [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [2461ad1be4a4d0e541879abe869cf8911f505215 → HEAD](https://github.com/elementary/greeter/compare/2461ad1be4a4d0e541879abe869cf8911f505215...HEAD)
 
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/greeter/commit/5c7dbf29254e695ecff798940941861a061faa4b)
+- [ ] [<code>Change manual card workflow (#794)</code>](https://github.com/elementary/greeter/commit/d630f7cb85adab608df029e13ad4ad63d0003a1f)
+- [ ] [<code>Application.css: fix invalid icon shadow (#826)</code>](https://github.com/elementary/greeter/commit/3d22249a75bc4e71816753becbb0f6ed85bee89b)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -854,6 +862,7 @@
 - [ ] [<code>Actions: Use main branch (#202)</code>](https://github.com/elementary/settings-daemon/commit/f24a92172f74acbfa50d4d863e65770b99bc0a1d)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#204)</code>](https://github.com/elementary/settings-daemon/commit/b42e068d4058bf1cba074e75ec37015d568e4f4c)
 - [ ] [<code>Sync wingpanel's "Show Percentage" option (#194)</code>](https://github.com/elementary/settings-daemon/commit/ba73326555bdefb225c3f5b5cb6c3d500523cf57)
+- [ ] [<code>Support Latte (#209)</code>](https://github.com/elementary/settings-daemon/commit/d65126832c9ec4dbccc9f0ce36cc466961a16914)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
