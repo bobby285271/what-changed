@@ -328,6 +328,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Add support for the new Cinnamon 6.6 menu</code>](https://github.com/linuxmint/mint-themes/commit/839e27255418b18304c5d39845a22e999c366101)
 - [ ] [<code>Mint-Y: Add support for Cinnamon 6.6 on-screen keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/721474a301ce8fa5da23be00599f00dd30f1cf13)
+- [ ] [<code>Mint-Y: Add support for ibus popups.</code>](https://github.com/linuxmint/mint-themes/commit/b4d55b435f3d7bc8a7adc86fe16e483fc0585970)
+- [ ] [<code>Mint-X: Add support for new keyboard and ibus popup.</code>](https://github.com/linuxmint/mint-themes/commit/24a1a76347dca9007e826f353854fac6f5cebc73)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
@@ -414,6 +416,9 @@
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>nemo-action-layout-editor: UI improvement for enabling/disabling</code>](https://github.com/linuxmint/nemo/commit/bc252a055b923f7a33a98d8060c5b52c0ece8683)
 - [ ] [<code>nemo-file.c: Allow files with backend-provided previews to be</code>](https://github.com/linuxmint/nemo/commit/8454290f84904a66979fcae067e96bf6ce540d47)
+- [ ] [<code>nemo-toolbar.c: Just use a single change handler for toolbar</code>](https://github.com/linuxmint/nemo/commit/7edb9e1468b2f9f87de0d3c2bf1f23768c6b90fe)
+- [ ] [<code>toolbar: Add 'toggle-extra-pane' button.</code>](https://github.com/linuxmint/nemo/commit/a3f0a31c17bef652fb05be2bc7d9d8bb51791e4d)
+- [ ] [<code>navigation: Allow click event handling into an inactive pane if</code>](https://github.com/linuxmint/nemo/commit/cbeb6afe60d0bd71fdb1f9c43ba51271e843333e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
