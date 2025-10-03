@@ -465,6 +465,13 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/091c3ce0b5ea014ba6903bc60e51fdd15c9c8997)
 - [ ] [<code>update bot name</code>](https://github.com/alainm23/planify/commit/c841604a929a6ce77cd108fd745dbf2f1fb072ff)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6c16fcf2b19c789ec76bd33489c8bc703aef5ac8)
+- [ ] [<code>add translate row (#1852)</code>](https://github.com/alainm23/planify/commit/21a8976591588af83dcc768829501c383bee7dfa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0dbb0cfd829fcaec492202cf3882b3569bb85bd6)
+- [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/2488a48018c29444435ab34eb4e4186d17ab0193)
+- [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/b67f116a2935ba998fdd4079406f29c541db6796)
+- [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/d420c2b19a98e504746dceb1a74baf772809d45e)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/65b86b8e81cfb29311a307ef462372b4c2b9cbb1)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
