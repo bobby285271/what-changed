@@ -448,6 +448,23 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4b19895b6dbae7cbc0c36f12c3647cea2a0f89f4)
 - [ ] [<code>Fix: Remove deleted sections from project's in-memory collection (#1843)</code>](https://github.com/alainm23/planify/commit/b87b874042e4b1c9b40608595467d18eef9a32a0)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/aacd1a613367caed3b60119e83e3edfed1f62360)
+- [ ] [<code>add new doc (#1844)</code>](https://github.com/alainm23/planify/commit/cebe1819c0dae9cc2657f9d6795140b65247b97d)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/523c1cfad60727a85cf5130d80c616afa5e965d7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c0707f1c6ef2e8502443e7b1e1bd37ef270c25b6)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2ee6a25efafc7d311e1df78f52ed0a201af61bd7)
+- [ ] [<code>update readme (#1849)</code>](https://github.com/alainm23/planify/commit/dd13458a4d6eb261d7050ae9965c38de9d0c87f9)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/812b51e0824b85a2d95a434f566cb5d805b8c4d4)
+- [ ] [<code>update readme</code>](https://github.com/alainm23/planify/commit/d64e7cdebe2ccc9bd3c2d66b0c0f1a306d9fa35e)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/094846716c8d3316c368bd220e9b2700f2397ae0)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b9ca481b97765c6da82e776cb7a57b29c7dcff55)
+- [ ] [<code>add action (#1851)</code>](https://github.com/alainm23/planify/commit/9706962f1735ebb58963df6ab92663a3aac219bd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/ab6022671d1d6f29b9081c213a118efdf0e02a96)
+- [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/fb1e17542ce9c2193230f29f9552fbd56bbd198e)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/091c3ce0b5ea014ba6903bc60e51fdd15c9c8997)
+- [ ] [<code>update bot name</code>](https://github.com/alainm23/planify/commit/c841604a929a6ce77cd108fd745dbf2f1fb072ff)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6c16fcf2b19c789ec76bd33489c8bc703aef5ac8)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
