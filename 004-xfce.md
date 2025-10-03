@@ -709,6 +709,7 @@
 - [ ] [<code>ffmpeg-thumbnailer: Update mime type list from upstream desktop file</code>](https://github.com/xfce-mirror/tumbler/commit/abf36e9feca9aff1bc1dac500018da8673680e28)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/dfa435052d7f4e646b57e18398ad6292e2d75630)
 - [ ] [<code>gst-thumbnailer: Fix TumblerThumbnailFlavor leak</code>](https://github.com/xfce-mirror/tumbler/commit/75f921e1bf0964a402ec2c6d0706e04a85011026)
+- [ ] [<code>gepub-thumbnailer: Get pixbuf in "area-prepared" signal handler</code>](https://github.com/xfce-mirror/tumbler/commit/d3562a038c2676f6dcb430b56f92b18b1e289f2f)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
