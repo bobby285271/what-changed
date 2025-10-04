@@ -448,6 +448,7 @@
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
+- [ ] [<code>Add phone incoming and hangup (#19)</code>](https://github.com/elementary/sound-theme/commit/262896f8fa8f469ed234618d3e4addcc58b3511f)
 
 #### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [8.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/8.0.0...HEAD)
 
@@ -470,6 +471,13 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/greeter/commit/5c7dbf29254e695ecff798940941861a061faa4b)
 - [ ] [<code>Change manual card workflow (#794)</code>](https://github.com/elementary/greeter/commit/d630f7cb85adab608df029e13ad4ad63d0003a1f)
 - [ ] [<code>Application.css: fix invalid icon shadow (#826)</code>](https://github.com/elementary/greeter/commit/3d22249a75bc4e71816753becbb0f6ed85bee89b)
+- [ ] [<code>Add blur protocol (#827)</code>](https://github.com/elementary/greeter/commit/e89369f5d7851956caf300a6ea7b721e70d6c38b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Simplify disabling tiling shortcuts (#828)</code>](https://github.com/elementary/greeter/commit/e3b4a2c4a92520aa316cb9c2f477f6a4f48dd32d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Release 8.1.0 (#817)</code>](https://github.com/elementary/greeter/commit/c5fc7aaff3c97299f978a8aa65bef7eb33922093)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -854,6 +862,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Fix meson warning and gettext ci (#255)</code>](https://github.com/elementary/notifications/commit/a34d3c0be350f2cc9022494cb5ec5cda640c7cd9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Set notification window type on X11 (#257)</code>](https://github.com/elementary/notifications/commit/090cc4b16487da4147d77ad443899d35d8ac4101)
+- [ ] [<code>Add support for notification spec 1.3 (#259)</code>](https://github.com/elementary/notifications/commit/2d11b4feea6bb8bef0d6ff583df3bdd48f996ce3)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
@@ -906,6 +916,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#780)</code>](https://github.com/elementary/os/commit/b6ce151280dc9d1a6a72793188c5ec7d537683a8)
   - <sub>Tags: <code>8.0.2</code> <code>8.0.2-rc2</code></sub>
+- [ ] [<code>master → main (#781)</code>](https://github.com/elementary/os/commit/8b80b0c1ee74b01217a32864ddaa9ad80a2b0e3b)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
