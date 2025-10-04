@@ -642,6 +642,7 @@
 - [ ] [<code>Slightly reduce size of emblems in emblem chooser</code>](https://github.com/xfce-mirror/thunar/commit/6d145564bae2d15fb8554d0e23fd010f62d70b42)
 - [ ] [<code>Fix string in column editor</code>](https://github.com/xfce-mirror/thunar/commit/bbe96a92a63e886677c64d4b005e1a135261a2ab)
 - [ ] [<code>Update window icon when loading finished (#1719)</code>](https://github.com/xfce-mirror/thunar/commit/7dea7d06ce303e8e66efd29c512e283f80d0dd9b)
+- [ ] [<code>Prevent GFileMonitor leak for folders (#1724)</code>](https://github.com/xfce-mirror/thunar/commit/8899c1375e574558a1f18eac3a0d40f62686954d)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1152,6 +1153,7 @@
 - [ ] [<code>display-settings: Delete popup dialog asking to update profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d71415e552d34b881016b9cc03f66dcbe901c06d)
 - [ ] [<code>display-settings: Keep /ActiveProfile in a consistent state</code>](https://github.com/xfce-mirror/xfce4-settings/commit/65889cb7e629230a1bb6cad402c23bc06d927d93)
 - [ ] [<code>display-settings: Fix string leak when deleting profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e7e053799bee77a55352bc0faa0c19e733bd6d34)
+- [ ] [<code>appearance-settings: Synchronize org.x.apps.portal color-scheme too</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6c36dd7e4104a5982825cd0413b2d9daa794eb26)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
