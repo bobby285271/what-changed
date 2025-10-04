@@ -475,7 +475,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 ## random
 
-#### [blueberry](https://github.com/linuxmint/blueberry): [1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/1.4.8...HEAD)
+#### [blueberry](https://github.com/linuxmint/blueberry): [refs/tags/1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/refs/tags/1.4.8...HEAD)
 
 - [ ] [<code>I10n: correct en_GB translations (#132)</code>](https://github.com/linuxmint/blueberry/commit/26e5e1368ddf8a37d71825055638b96d3e3bd823)
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/18337ce002b94a6337b495e507166228c9c23eea)
@@ -500,6 +500,13 @@
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.27 → HEAD](https://github.com/linuxmint/sticky/compare/1.27...HEAD)
 
+- [ ] [<code>sticky.py: ensure new notes don't get placed off-screen or over a panel.</code>](https://github.com/linuxmint/sticky/commit/2376aabe2d4f3a9c3467c78683b7c31b13078419)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Don't segfault when opening and closing the status icon context menu.</code>](https://github.com/linuxmint/sticky/commit/8013f4c9651b222128c1b3a7311769d4db9dc6a0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>get_internal_markup(): don't skip a tag due to removing it from a list.</code>](https://github.com/linuxmint/sticky/commit/fc89ec1401003272ea931998897f32b40faf3b78)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/25.07.7 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/25.07.7...HEAD)
 
