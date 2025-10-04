@@ -372,6 +372,15 @@
 - [ ] [<code>Remove unused update_model method from OpenFilesTreeViewModel (#467)</code>](https://github.com/stsdc/monitor/commit/f5bdf4c6386e362ccaae739c7367aa39a2ca0036)
 - [ ] [<code>Create the model for OpenFilesTreeView internally (#468)</code>](https://github.com/stsdc/monitor/commit/798be66aa24e25bec1da0c8dce3ae07d19d90205)
 - [ ] [<code>Simplify icon handling in CPUProcessTreeView by removing regex check for icon paths (#469)</code>](https://github.com/stsdc/monitor/commit/054b59d36c0106f2343d8e17b5236bf241fac914)
+- [ ] [<code>Delete subprojects directory (#472)</code>](https://github.com/stsdc/monitor/commit/50629d3202481cf85550e532ac2ea7162aba3d8a)
+- [ ] [<code>MainWindow: bind view to settings (#471)</code>](https://github.com/stsdc/monitor/commit/d3e09acb4d1bc6cabca6324c4dcd1214f8268dd6)
+- [ ] [<code>Application: connect to dbus signals (#473)</code>](https://github.com/stsdc/monitor/commit/f3d18425a11dbabe1ff8a419e3098980e726eb8e)
+- [ ] [<code>Application: hold or release with indicator state (#474)</code>](https://github.com/stsdc/monitor/commit/3d7d13265f1a7487ce5eefa73a6e1e42610ddca0)
+- [ ] [<code>Monitor GTK4 port (#443)</code>](https://github.com/stsdc/monitor/commit/d1f82d928e3a6b76a456214aa4d7f44a45380df0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Chart: hide overflow</code>](https://github.com/stsdc/monitor/commit/f8720fe2026a8a614b72acf41ff6a568c8dcd797)
+- [ ] [<code>Metainfo: add missing releases (#477)</code>](https://github.com/stsdc/monitor/commit/5d687a6a01a57cb684d4dde00b5a0d2c48c0bd9e)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -472,6 +481,7 @@
 - [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/b67f116a2935ba998fdd4079406f29c541db6796)
 - [ ] [<code>update action</code>](https://github.com/alainm23/planify/commit/d420c2b19a98e504746dceb1a74baf772809d45e)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/65b86b8e81cfb29311a307ef462372b4c2b9cbb1)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/3a9e898eacb5b646e6bed5ccd17674d9a56dd25e)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
