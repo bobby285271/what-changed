@@ -203,8 +203,9 @@
 - [ ] [<code>virtualKeyboard.js: Only show the layout button if there are other</code>](https://github.com/linuxmint/cinnamon/commit/c70aabc7fe3a0391929b8cdb4b1c70f5250b6d4d)
 - [ ] [<code>keyboard: Fix background color, layout button style.</code>](https://github.com/linuxmint/cinnamon/commit/e8b96394e83edddfcd9ee51abd43aa969abddfb7)
 - [ ] [<code>misc: Improve osk layout tester, remove some never-used css.</code>](https://github.com/linuxmint/cinnamon/commit/a190ec395bfc64aa176bcca80d2f987d2102e977)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>layout.js: Fix flash when hiding the keyboard, and allow the</code>](https://github.com/linuxmint/cinnamon/commit/f5ec1113bff55cf2fc7b97e974546e2aba4d2118)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
 
