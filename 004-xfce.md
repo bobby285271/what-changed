@@ -643,6 +643,16 @@
 - [ ] [<code>Fix string in column editor</code>](https://github.com/xfce-mirror/thunar/commit/bbe96a92a63e886677c64d4b005e1a135261a2ab)
 - [ ] [<code>Update window icon when loading finished (#1719)</code>](https://github.com/xfce-mirror/thunar/commit/7dea7d06ce303e8e66efd29c512e283f80d0dd9b)
 - [ ] [<code>Prevent GFileMonitor leak for folders (#1724)</code>](https://github.com/xfce-mirror/thunar/commit/8899c1375e574558a1f18eac3a0d40f62686954d)
+- [ ] [<code>Simplify terminal binding creation</code>](https://github.com/xfce-mirror/thunar/commit/6c9e67bedd6875ddfc86056a9f0b05662d5ca84a)
+- [ ] [<code>Simplify "thunar_terminal_widget_set_current_directory"</code>](https://github.com/xfce-mirror/thunar/commit/4a877ca85b69d988a997ce01dbda76e7d917a78f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Terminal: Properly update "current_directory" state</code>](https://github.com/xfce-mirror/thunar/commit/038e48748265a1210e25eaa0ca9a5dbe76bd85a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Don't use bidirectional binding (#1695)</code>](https://github.com/xfce-mirror/thunar/commit/ba9a9f2d2a34da7105f888a02e62b642ee1be907)
+- [ ] [<code>Do not switch the active tab when switching the view</code>](https://github.com/xfce-mirror/thunar/commit/0f861182a5f386d7d25a0a46e8b6a0f4cf67dd45)
+- [ ] [<code>Terminal: Make sure to keep focus after cd</code>](https://github.com/xfce-mirror/thunar/commit/46dba2a254fcbf980d035c43585797b629fd4a11)
+- [ ] [<code>terminal: Ignore directory change during spawn</code>](https://github.com/xfce-mirror/thunar/commit/bd6054730caedec3375927e75e098f06838c1659)
+- [ ] [<code>Update selection on view switch (#1717) ()</code>](https://github.com/xfce-mirror/thunar/commit/83ada72806666b26bcad892b1945d05bcc04a34a)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
