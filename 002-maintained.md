@@ -486,6 +486,13 @@
 - [ ] [<code>fix slug</code>](https://github.com/alainm23/planify/commit/65a9af15a8214184641ca6cfbad1ac7328c7657d)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7a9d7ea0168787a3445a74999f97c40b90afe57e)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/83f339e848de8b5201282e2321839461dc4e435e)
+- [ ] [<code>feat: focus mode (#1858)</code>](https://github.com/alainm23/planify/commit/d8341b2d7a5076dda0cce1f91dfb2ea8cd4a25a0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c905769b54a6fce99ef6df72a0ba03559b054522)
+- [ ] [<code>remove (#1859)</code>](https://github.com/alainm23/planify/commit/c9b1fc5c076e321b2de32aefd1b5d644ac134c98)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6530e5a35e82a16c4f3653ede76b11842d8778ea)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
