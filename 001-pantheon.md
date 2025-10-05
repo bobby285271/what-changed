@@ -95,6 +95,7 @@
 
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/files/commit/49c58035e2fa499964a5d33c9e087ac962d38b28)
 - [ ] [<code>Date format: expose setting (#2610)</code>](https://github.com/elementary/files/commit/c0f8e85b50f8d09b2647125bfa48338e00376981)
+- [ ] [<code>Fix freeze when user template dir points at very large directory tree. (#2644)</code>](https://github.com/elementary/files/commit/785a577d3b1bad86622d43d82113bd83c554ea8e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
