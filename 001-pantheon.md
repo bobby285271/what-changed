@@ -467,18 +467,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
 - [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [2461ad1be4a4d0e541879abe869cf8911f505215 → HEAD](https://github.com/elementary/greeter/compare/2461ad1be4a4d0e541879abe869cf8911f505215...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/greeter/commit/5c7dbf29254e695ecff798940941861a061faa4b)
-- [ ] [<code>Change manual card workflow (#794)</code>](https://github.com/elementary/greeter/commit/d630f7cb85adab608df029e13ad4ad63d0003a1f)
-- [ ] [<code>Application.css: fix invalid icon shadow (#826)</code>](https://github.com/elementary/greeter/commit/3d22249a75bc4e71816753becbb0f6ed85bee89b)
-- [ ] [<code>Add blur protocol (#827)</code>](https://github.com/elementary/greeter/commit/e89369f5d7851956caf300a6ea7b721e70d6c38b)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Simplify disabling tiling shortcuts (#828)</code>](https://github.com/elementary/greeter/commit/e3b4a2c4a92520aa316cb9c2f477f6a4f48dd32d)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Release 8.1.0 (#817)</code>](https://github.com/elementary/greeter/commit/c5fc7aaff3c97299f978a8aa65bef7eb33922093)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
