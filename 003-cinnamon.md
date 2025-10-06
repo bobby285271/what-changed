@@ -426,6 +426,8 @@
 - [ ] [<code>nemo-toolbar.c: Just use a single change handler for toolbar</code>](https://github.com/linuxmint/nemo/commit/7edb9e1468b2f9f87de0d3c2bf1f23768c6b90fe)
 - [ ] [<code>toolbar: Add 'toggle-extra-pane' button.</code>](https://github.com/linuxmint/nemo/commit/a3f0a31c17bef652fb05be2bc7d9d8bb51791e4d)
 - [ ] [<code>navigation: Allow click event handling into an inactive pane if</code>](https://github.com/linuxmint/nemo/commit/cbeb6afe60d0bd71fdb1f9c43ba51271e843333e)
+- [ ] [<code>nemo-tree-sidebar.c: disconnect handlers from the correct instance.</code>](https://github.com/linuxmint/nemo/commit/d0d9591fde9905568f0f571d95482b0365ea422f)
+- [ ] [<code>nemo-tree-sidebar-model.c: Use g_clear_object instead of custom</code>](https://github.com/linuxmint/nemo/commit/f2ee70790057a1639527858a2c9a232c3b8a3688)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
