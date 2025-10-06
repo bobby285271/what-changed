@@ -496,6 +496,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6530e5a35e82a16c4f3653ede76b11842d8778ea)
+- [ ] [<code>Translations update from Hosted Weblate (#1860)</code>](https://github.com/alainm23/planify/commit/a60247626088695dabc3201b732e9b93e7616cfa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9d53844fd51949b8d3cf07a14eeb6d2df26761bc)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/75717f2fb06831ef615c016da1bfd8c5ba2e25ca)
+- [ ] [<code>release popup (#1863)</code>](https://github.com/alainm23/planify/commit/e7982629b34e284f6eeeeaf6440687334df9382b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/85865ccfc7ef5595a420773a9a0bb96210c5b5ee)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
