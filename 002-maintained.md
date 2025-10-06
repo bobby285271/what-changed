@@ -381,6 +381,9 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Chart: hide overflow</code>](https://github.com/stsdc/monitor/commit/f8720fe2026a8a614b72acf41ff6a568c8dcd797)
 - [ ] [<code>Metainfo: add missing releases (#477)</code>](https://github.com/stsdc/monitor/commit/5d687a6a01a57cb684d4dde00b5a0d2c48c0bd9e)
+- [ ] [<code>Update project version to 8.0.0 and remove post-install script</code>](https://github.com/stsdc/monitor/commit/be3c2cca3ee000a509996a91513ec366b26e61aa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
