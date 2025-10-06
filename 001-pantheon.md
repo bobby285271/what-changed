@@ -96,6 +96,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/files/commit/49c58035e2fa499964a5d33c9e087ac962d38b28)
 - [ ] [<code>Date format: expose setting (#2610)</code>](https://github.com/elementary/files/commit/c0f8e85b50f8d09b2647125bfa48338e00376981)
 - [ ] [<code>Fix freeze when user template dir points at very large directory tree. (#2644)</code>](https://github.com/elementary/files/commit/785a577d3b1bad86622d43d82113bd83c554ea8e)
+- [ ] [<code>Fix expand row of ListView when in Trash (#2648)</code>](https://github.com/elementary/files/commit/9d5d1d658b4ca4d73a0fded29ee255de05948346)
+- [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
 
@@ -855,6 +857,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Set notification window type on X11 (#257)</code>](https://github.com/elementary/notifications/commit/090cc4b16487da4147d77ad443899d35d8ac4101)
 - [ ] [<code>Add support for notification spec 1.3 (#259)</code>](https://github.com/elementary/notifications/commit/2d11b4feea6bb8bef0d6ff583df3bdd48f996ce3)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/notifications/commit/517ef00dbeb24a6598ddd89cf53dbbf1af006d86)
+- [ ] [<code>Use correct sound theme (#264)</code>](https://github.com/elementary/notifications/commit/a3e59f574c375b64b266a1a631a2aabed06488d9)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
