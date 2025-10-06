@@ -653,6 +653,8 @@
 - [ ] [<code>Terminal: Make sure to keep focus after cd</code>](https://github.com/xfce-mirror/thunar/commit/46dba2a254fcbf980d035c43585797b629fd4a11)
 - [ ] [<code>terminal: Ignore directory change during spawn</code>](https://github.com/xfce-mirror/thunar/commit/bd6054730caedec3375927e75e098f06838c1659)
 - [ ] [<code>Update selection on view switch (#1717) ()</code>](https://github.com/xfce-mirror/thunar/commit/83ada72806666b26bcad892b1945d05bcc04a34a)
+- [ ] [<code>Fix rename via tree-view side-pane (#1726)</code>](https://github.com/xfce-mirror/thunar/commit/67cd23b2977f8a9d75b0d261fabb3708734be4cb)
+- [ ] [<code>Respect minimum terminal height on resize (#1727)</code>](https://github.com/xfce-mirror/thunar/commit/fdfc5c222e10884e0ddeb310f9a288b5776c3ba9)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
