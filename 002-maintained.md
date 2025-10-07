@@ -504,6 +504,26 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/85865ccfc7ef5595a420773a9a0bb96210c5b5ee)
+- [ ] [<code>add missing lang (#1866)</code>](https://github.com/alainm23/planify/commit/fa667c70224ade6a0085730eaccf08c89c024281)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/05fba3bfadb5b0bf15772ddd47177a56b4d4e083)
+- [ ] [<code>Translations update from Hosted Weblate (#1864)</code>](https://github.com/alainm23/planify/commit/957ab0126444e452829a0100adca9609b0c70f36)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/351374c94aba3642e4ac9968ef608c07a866553e)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7916ea1300c8477e1ee4fc3f46df5852a602f45e)
+- [ ] [<code>add missing lang (#1867)</code>](https://github.com/alainm23/planify/commit/9c6e7ff1e7a45807d09ceea145ac7e95c72af812)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8ffcb8e15da71380a1a0698e08b2bf6f3695159d)
+- [ ] [<code>Fix CalDAV sync parsing error with multiple VTODO components (#1836)</code>](https://github.com/alainm23/planify/commit/d389a4a012d973a586b35c93eb380a46855bf5ba)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f404712838e18b68f08612353380f4c4f8e066e5)
+- [ ] [<code>Fix tutorial project grammar and terminology (#1869)</code>](https://github.com/alainm23/planify/commit/8048d1c0e2de18048bd8e4a9f075ffae20bf8bc8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9cbc5931cd8f632f58a6cda758ca5924a2d51cb4)
+- [ ] [<code>Translations update from Hosted Weblate (#1870)</code>](https://github.com/alainm23/planify/commit/abbc0e78110dd02678d5a9c518642b4a428b27e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fed3232a36da2c0a2195049ce33f67dc37c2f298)
+- [ ] [<code>Bump actions/checkout from 3 to 5 (#1872)</code>](https://github.com/alainm23/planify/commit/9711b21836847e5843838634d57e6ce2affda55a)
+- [ ] [<code>Bump actions/setup-python from 4 to 6 (#1871)</code>](https://github.com/alainm23/planify/commit/d1c2e78a0ffeadb9473fcaa4a61c66ecc0881432)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/08a426528de55877249ef08fff6464be51d5ca22)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b1e0a34c8aae924f4e047568dbdddc2780ed8de4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
