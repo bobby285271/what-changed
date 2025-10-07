@@ -524,6 +524,14 @@
 - [ ] [<code>Bump actions/setup-python from 4 to 6 (#1871)</code>](https://github.com/alainm23/planify/commit/d1c2e78a0ffeadb9473fcaa4a61c66ecc0881432)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/08a426528de55877249ef08fff6464be51d5ca22)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b1e0a34c8aae924f4e047568dbdddc2780ed8de4)
+- [ ] [<code>fix: FilterPaneChild spacing (#1873)</code>](https://github.com/alainm23/planify/commit/e327ea5abb7aec3c6002f8a556c71c188b69c5b6)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/3a3f31af061eba6cc4cc1d7291d1e0dfd32a517b)
+- [ ] [<code>fix (#1874)</code>](https://github.com/alainm23/planify/commit/386463bc260aeb399ccfbdfe276a9b9d64a6471f)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ec95b51a235a710cf96f5146290fcc3b684cd6e9)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/3fc029096e072fda3b492ba4d6c9b34f06f3131e)
+- [ ] [<code>fix plurals (#1875)</code>](https://github.com/alainm23/planify/commit/44ef1c2e47d1e709ce581c6934428df97cce44d6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e265f3b3885ebbdaf59c06c981784a757a0d6aab)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
