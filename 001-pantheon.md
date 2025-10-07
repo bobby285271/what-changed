@@ -3,6 +3,9 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.3.1 → HEAD](https://github.com/elementary/appcenter/compare/8.3.1...HEAD)
 
+- [ ] [<code>Update Granite style classes (#2358)</code>](https://github.com/elementary/appcenter/commit/9e38357d1594716d56b2e72aaa2dca6add96b1da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -83,6 +86,9 @@
 - [ ] [<code> Metainfo: start 8.3.0 release notes</code>](https://github.com/elementary/dock/commit/1591f310dbfd94a217f09c750959587a42bf075f)
 - [ ] [<code>Launcher: better badge animation (#466)</code>](https://github.com/elementary/dock/commit/f04363a7293d0ee7eef8a241cf417ccdbbd1decb)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update Granite label styles (#472)</code>](https://github.com/elementary/dock/commit/fc59da6cb560219178a0beb6fdeed5d59958b9fb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -242,6 +248,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard/commit/b22602cfdfb62882f7376d7040391b69f88b4084)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard/commit/216c13fa33eb1d211c79691f74f19b656df92a1b)
+- [ ] [<code>Update Granite label styles (#364)</code>](https://github.com/elementary/switchboard/commit/72bde971ccf4bc2054244c19b28245ae1db981ac)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -800,6 +809,9 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#303)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7b70fcde1fef72d618476f9d33955f67b1addd16)
 - [ ] [<code>PlayerRow: GTK4 Prep, code style (#304)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a9381c5014d2eb34bf164711a11827b57f487436)
 - [ ] [<code>Scale: GTK4 prep (#305)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4ae27545379dea1dbbfdc7ae42a1f5c974053efe)
+- [ ] [<code>Allow keybindings on login screen (#307)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/727bf6805e9aec303d3b6bf067a39de1657acb34)
+- [ ] [<code>metainfo: add 8.0.2 release notes (#308)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4498bc38fc483cc381b42664ad223ff782333b3e)
+- [ ] [<code>Don't use Bus.watch_name (#306)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c19ea4b96291957158b109efc88d28c1e4397cf4)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
 
@@ -859,6 +871,11 @@
 - [ ] [<code>Add support for notification spec 1.3 (#259)</code>](https://github.com/elementary/notifications/commit/2d11b4feea6bb8bef0d6ff583df3bdd48f996ce3)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/notifications/commit/517ef00dbeb24a6598ddd89cf53dbbf1af006d86)
 - [ ] [<code>Use correct sound theme (#264)</code>](https://github.com/elementary/notifications/commit/a3e59f574c375b64b266a1a631a2aabed06488d9)
+- [ ] [<code>Don't set dark/light style manually (#268)</code>](https://github.com/elementary/notifications/commit/0a2893b6475eed48f74b52e4081415495b6262d0)
+- [ ] [<code>AbstractBubble: Fix memory leak (#272)</code>](https://github.com/elementary/notifications/commit/432aa450734ca158c18fb3056e5c8364624fe43e)
+- [ ] [<code>Move Settings object into Application class (#267)</code>](https://github.com/elementary/notifications/commit/30b42ebd41f4c9f5de4a94e2312eb86a86801527)
+- [ ] [<code>Move send_sound from Server to Application (#269)</code>](https://github.com/elementary/notifications/commit/b39f66f209601764fb86555547bd93cc00b61083)
+- [ ] [<code>Move CloseReason to AbstractBubble (#270)</code>](https://github.com/elementary/notifications/commit/badc062d97202303ba9df87c44a595cab605cf44)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
