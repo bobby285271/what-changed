@@ -205,6 +205,7 @@
 - [ ] [<code>misc: Improve osk layout tester, remove some never-used css.</code>](https://github.com/linuxmint/cinnamon/commit/a190ec395bfc64aa176bcca80d2f987d2102e977)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>layout.js: Fix flash when hiding the keyboard, and allow the</code>](https://github.com/linuxmint/cinnamon/commit/f5ec1113bff55cf2fc7b97e974546e2aba4d2118)
+- [ ] [<code>virtualKeyboard.js: Fix extended keys when interacting with</code>](https://github.com/linuxmint/cinnamon/commit/9c954cd1e61729ebfe8f49425db06b9f2a098aac)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
