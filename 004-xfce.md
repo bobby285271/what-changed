@@ -356,6 +356,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/eda46893fe17c90e9853505078422e1c8ff7e96e)
 - [ ] [<code>XfwWindowX11: Readjust entire monitor list when one is added/removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56f9de0736150c88f0b5f04a71aa73e502c1c6a7)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d67160222b0a0606c220d575e5d8612c5fbdf184)
+- [ ] [<code>XfwWorkspaceWayland: Add missing sanity check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bc96b103bc98798d6bd7012c4b68c310359d580e)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -938,6 +939,8 @@
 - [ ] [<code>separator: Allow manual size as opposed to just fixed or automatic size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf72a654f675377d25ada3cc8002ba98053fde14)
 - [ ] [<code>libxfce4panel: Clarify doc</code>](https://github.com/xfce-mirror/xfce4-panel/commit/0ae674cb17ed8d1df4522da69360da2f95c1dc79)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8bcbb17705bc9206e6433983e986f64fc39e198c)
+- [ ] [<code>pager: Add missing signal handler disconnections</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fbfc09bb8074085b40be9bdc35bcb977cd2b8c73)
+- [ ] [<code>wayland: Minimalist management of workspace group change when unused</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9c829ae45981274c26436268dd373ba97847ef44)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
