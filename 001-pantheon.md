@@ -876,6 +876,7 @@
 - [ ] [<code>Move Settings object into Application class (#267)</code>](https://github.com/elementary/notifications/commit/30b42ebd41f4c9f5de4a94e2312eb86a86801527)
 - [ ] [<code>Move send_sound from Server to Application (#269)</code>](https://github.com/elementary/notifications/commit/b39f66f209601764fb86555547bd93cc00b61083)
 - [ ] [<code>Move CloseReason to AbstractBubble (#270)</code>](https://github.com/elementary/notifications/commit/badc062d97202303ba9df87c44a595cab605cf44)
+- [ ] [<code>CSS: rounder notification, flatter close button (#273)</code>](https://github.com/elementary/notifications/commit/8a5ac355cf78506dc5c4be7ad40dacb004fa0c26)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
