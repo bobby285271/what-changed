@@ -548,6 +548,7 @@
 - [ ] [<code>add context menuu (#1883)</code>](https://github.com/alainm23/planify/commit/e88c18eb9a8fec54ef4b4a7fbbedf69d1c32daa0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4fefca55d6f8547b7b5a80f48eac83da23841d64)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/2670f71e773c526fe9b6cf7b27e8febc4cfbdcc5)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
