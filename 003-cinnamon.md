@@ -2,7 +2,7 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [3.9 → HEAD](https://github.com/linuxmint/bulky/compare/3.9...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/3.9 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/3.9...HEAD)
 
 - [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
   - <sub>Keywords: <code>usr</code></sub>
@@ -10,7 +10,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.13...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [refs/tags/6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.4.13...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
@@ -208,7 +208,7 @@
 - [ ] [<code>virtualKeyboard.js: Fix extended keys when interacting with</code>](https://github.com/linuxmint/cinnamon/commit/9c954cd1e61729ebfe8f49425db06b9f2a098aac)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
+#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
 - [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
 - [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
@@ -220,7 +220,7 @@
 - [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.2...HEAD)
+#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
 
 - [ ] [<code>org.cinnamon.desktop.interface.gschema: Mark the old scaling</code>](https://github.com/linuxmint/cinnamon-desktop/commit/508a0be369905fea36d2c8d455738aee736a90f6)
 - [ ] [<code>build: debian/control fix for alt package name, use debugoptimized</code>](https://github.com/linuxmint/cinnamon-desktop/commit/98450bf1b87d96553af6562ed15e0bf766cd1403)
@@ -241,16 +241,16 @@
 - [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
+#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
 
 
-#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.4.1...HEAD)
+#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.4.1...HEAD)
 
 - [ ] [<code>Handle layout switching thru cinnamon, remove use of XApp. (#477)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/be49027be4760ded47ba219c2fdff5b42fbb44b4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.2...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.2...HEAD)
 
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
@@ -262,7 +262,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
 
 - [ ] [<code>Cosmetic change: rename g-s-d to c-s-d (#409)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/68a787b96df19349bfda707c41fa83b319113dd6)
 - [ ] [<code>media-keys: Add labels for show_osd() (#403)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f3f8f77ae998bd0ac401cd1ab048ba9b6db31c0)
@@ -291,7 +291,7 @@
 - [ ] [<code>csd-autorun.c: Remove hidden 'hold shift key' feature.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/20c2ffad694a6658c3d5b12bfe07327ba612f091)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
 
 - [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/76f20dc62e8ede5d18701d27b55b7a44e89beccf)
   - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
@@ -308,6 +308,12 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [b046353fa23951746e9bfa3d54f745819802649e → HEAD](https://github.com/linuxmint/mint-l-icons/compare/b046353fa23951746e9bfa3d54f745819802649e...HEAD)
 
+- [ ] [<code>Remove postinst</code>](https://github.com/linuxmint/mint-l-icons/commit/e147f81477a5f7dfdded4158b805cff8ad818f81)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-l-icons/commit/189ecdc19262d049febede71aab3d564c470180e)
+- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-l-icons/commit/7892ab4b335b148b2b109552c4c6d7b656bdf992)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.8</code>](https://github.com/linuxmint/mint-l-icons/commit/5d96655e37a85aa5e3d20bc7b38c9675a6145d13)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
 
@@ -338,15 +344,27 @@
 - [ ] [<code>Mint-Y: Add support for ibus popups.</code>](https://github.com/linuxmint/mint-themes/commit/b4d55b435f3d7bc8a7adc86fe16e483fc0585970)
 - [ ] [<code>Mint-X: Add support for new keyboard and ibus popup.</code>](https://github.com/linuxmint/mint-themes/commit/24a1a76347dca9007e826f353854fac6f5cebc73)
 - [ ] [<code>Mint-Y: small fix for cinnamon keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/35a509d46d0b105da1236e4ae4d3b6ace4d3f2a8)
+- [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
 
 - [ ] [<code>Add missing document-edit-symbolic for libadwaita.</code>](https://github.com/linuxmint/mint-x-icons/commit/ea30f3611fc677aee5d1bfea2e0fb4a0750dc257)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-x-icons/commit/162ce4d8f1dae56a08152d96708bbceb1c726295)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-x-icons/commit/c22934eb8d890d7f17692a64e3b7cb462bfc5a48)
+  - <sub>Tags: <code>1.7.4</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.6...HEAD)
 
+- [ ] [<code>Remove postinst</code>](https://github.com/linuxmint/mint-y-icons/commit/306a32fe6070d89263a5c7d5e299ad650323cdc1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.7</code>](https://github.com/linuxmint/mint-y-icons/commit/c4701eab637e81fcafc4aac9c7ef86add61c7d91)
+- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-y-icons/commit/60bf585564524dcebc0e25ceccb1d2ba10a39528)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.8</code>](https://github.com/linuxmint/mint-y-icons/commit/53036987f296136df9f2496966ec4344dbb2d130)
+  - <sub>Tags: <code>1.8.8</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
