@@ -183,7 +183,7 @@
 #### [appeditor](https://github.com/donadigo/appeditor): [refs/tags/1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/refs/tags/1.1.5...HEAD)
 
 
-#### [cipher](https://github.com/arshubham/cipher): [2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/2.5.0...HEAD)
+#### [cipher](https://github.com/arshubham/cipher): [refs/tags/2.5.0 → HEAD](https://github.com/arshubham/cipher/compare/refs/tags/2.5.0...HEAD)
 
 - [ ] [<code>Update com.github.arshubham.cipher.appdata.xml.in</code>](https://github.com/arshubham/cipher/commit/71db3aa53727c2a18ac9678f91bba336b1e96e78)
 - [ ] [<code>Merge pull request #54 from sahilarora3117/patch-3</code>](https://github.com/arshubham/cipher/commit/2762f26af1a8d2aeb334a7bb500d42a51294d465)
@@ -384,6 +384,7 @@
 - [ ] [<code>Update project version to 8.0.0 and remove post-install script</code>](https://github.com/stsdc/monitor/commit/be3c2cca3ee000a509996a91513ec366b26e61aa)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Remove outdated screenshot files and update existing ones (#483)</code>](https://github.com/stsdc/monitor/commit/c5dd7fd257c6e23ba5592b4ac7fafc1f1f4d413e)
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -532,6 +533,21 @@
 - [ ] [<code>fix plurals (#1875)</code>](https://github.com/alainm23/planify/commit/44ef1c2e47d1e709ce581c6934428df97cce44d6)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e265f3b3885ebbdaf59c06c981784a757a0d6aab)
+- [ ] [<code>add signal (#1876)</code>](https://github.com/alainm23/planify/commit/bd26c4fb2339be2e93460e50280ca36ff53f96ab)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/aca502f80e511c5881377801d489fe3971871002)
+- [ ] [<code>ctrol key (#1877)</code>](https://github.com/alainm23/planify/commit/29fe53ce5229bf4f3427a9fb10704c1fe4514999)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/bc6f98fdab0d25441bfc1626ba379682bb25ca02)
+- [ ] [<code>Fix calendar events not updating in real-time (#1878)</code>](https://github.com/alainm23/planify/commit/ea67ee5937fb1df8afd6568491a2002de7b12574)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d3f601c1034ac7e1fcdf3b2129925f76670e82b2)
+- [ ] [<code>add libspelling support (#1882)</code>](https://github.com/alainm23/planify/commit/f7d75d40ce01fe5e0da2da54a73734f65ea90628)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d2250001beb5a58bb9cee666035554f64aba3a07)
+- [ ] [<code>add context menuu (#1883)</code>](https://github.com/alainm23/planify/commit/e88c18eb9a8fec54ef4b4a7fbbedf69d1c32daa0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4fefca55d6f8547b7b5a80f48eac83da23841d64)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
