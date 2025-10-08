@@ -347,24 +347,11 @@
 - [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.3 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.3...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.4...HEAD)
 
-- [ ] [<code>Add missing document-edit-symbolic for libadwaita.</code>](https://github.com/linuxmint/mint-x-icons/commit/ea30f3611fc677aee5d1bfea2e0fb4a0750dc257)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-x-icons/commit/162ce4d8f1dae56a08152d96708bbceb1c726295)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.4</code>](https://github.com/linuxmint/mint-x-icons/commit/c22934eb8d890d7f17692a64e3b7cb462bfc5a48)
-  - <sub>Tags: <code>1.7.4</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.6...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.8...HEAD)
 
-- [ ] [<code>Remove postinst</code>](https://github.com/linuxmint/mint-y-icons/commit/306a32fe6070d89263a5c7d5e299ad650323cdc1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.7</code>](https://github.com/linuxmint/mint-y-icons/commit/c4701eab637e81fcafc4aac9c7ef86add61c7d91)
-- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-y-icons/commit/60bf585564524dcebc0e25ceccb1d2ba10a39528)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.8</code>](https://github.com/linuxmint/mint-y-icons/commit/53036987f296136df9f2496966ec4344dbb2d130)
-  - <sub>Tags: <code>1.8.8</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
