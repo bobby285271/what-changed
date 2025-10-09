@@ -344,6 +344,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-power/commit/8cf66d26602578dc800f2ad68bb01e7ccf71f5eb)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-power/commit/b7bd204c006989fe6f789be80f3f9ff9f783b77c)
 - [ ] [<code>Update power.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/d2e21c50a1673e16d063a510afe7ebf15b5216d5)
+- [ ] [<code>TimeoutComboBox: port to Gtk.DropDown (#281)</code>](https://github.com/elementary/switchboard-plug-power/commit/498d23f3f3519b85787874b7934e950cbb6cd948)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
