@@ -585,6 +585,10 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6bed40c5b31a725aee4e14eda863b653043cac56)
 - [ ] [<code>update action email</code>](https://github.com/alainm23/planify/commit/caa9dbe3698bdfeda20dc42ebc85c595df2032a7)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c02f4c2027a285f2ebe66466c0c2c3ae8e3507bf)
+- [ ] [<code>hide local elements (#1899)</code>](https://github.com/alainm23/planify/commit/9bd619ecef52e8a27a9a32f398b49be8624133d9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/835f6113cedff53c01e4f5cc06c07be11d4c9ecf)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/458abd7afab3590f9433a4eaf31042c9edc31e1c)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
