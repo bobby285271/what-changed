@@ -385,6 +385,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Remove outdated screenshot files and update existing ones (#483)</code>](https://github.com/stsdc/monitor/commit/c5dd7fd257c6e23ba5592b4ac7fafc1f1f4d413e)
+- [ ] [<code>ProcessInfoView: cleanup and code style</code>](https://github.com/stsdc/monitor/commit/de1812cb1f6c15b5045e54f11f81bc9f1484953c)
+- [ ] [<code>ProcessInfoView: handle process actions (#484)</code>](https://github.com/stsdc/monitor/commit/9617e66e9089e6ff511545701e8bf120f6726be4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [nasc](https://github.com/parnold-x/nasc): [refs/tags/0.8.0 → HEAD](https://github.com/parnold-x/nasc/compare/refs/tags/0.8.0...HEAD)
 
@@ -549,6 +552,39 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4fefca55d6f8547b7b5a80f48eac83da23841d64)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/2670f71e773c526fe9b6cf7b27e8febc4cfbdcc5)
+- [ ] [<code>add snooze (#1885)</code>](https://github.com/alainm23/planify/commit/d07a6bc800db2029cb34c0445c45d4cba9b5c4ff)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9d74df69feb5ef0b05481c50d5eec0f2863bc835)
+- [ ] [<code>Fix sidebar reordering crash (#1886)</code>](https://github.com/alainm23/planify/commit/6e136c5ab80cb8ea2c0a2b51a37e7b5ddf60eb56)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/986c6bc65e587b22a8912ba46ee2e42a703a49cb)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/66fc47969bf688d3f614307bf13968a037ffbb80)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c64d4b740c673c0a873d646dd99b8a45392fdae0)
+- [ ] [<code>update appdata (#1890)</code>](https://github.com/alainm23/planify/commit/96c7c0e8c43e7ae241705da025680419a2e5c8a2)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8a205c8b97970eae0d060840b91d4148d0a3af65)
+- [ ] [<code>feat: add extra po files (#1891)</code>](https://github.com/alainm23/planify/commit/7179b5e11973c2c169925f2b6c642659de89ddc0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/352088c0d037956a229090de5061fb55adf25bc2)
+- [ ] [<code>update extra po files</code>](https://github.com/alainm23/planify/commit/da71a1f40dbec6a0f96dd27f543b8191cb9abe10)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/efca533bfb5febbe7231a79cad7a11d9388bae70)
+- [ ] [<code>update extra po files</code>](https://github.com/alainm23/planify/commit/d948ce69935248f3fe20791ebb14545ba5607c3b)
+- [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/830a0cee5349c98126cebcac74caae8a04d15c99)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f65ab9b0ff5d8fadac02b1f89196eb41b59021aa)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c9038d49ed7cdcd5eaf4e5b0b47cffc065ca0cea)
+- [ ] [<code>update po files</code>](https://github.com/alainm23/planify/commit/41c790226f7fa2d4103185b29264c1db53d91c9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/be12f3cb75c82dca9ff69209744a595e609b9414)
+- [ ] [<code>fix utl error</code>](https://github.com/alainm23/planify/commit/4d5c31ffcb2f36b5ead2bc405fae324666728476)
+- [ ] [<code>fix utl error</code>](https://github.com/alainm23/planify/commit/03f318c5a0a9f08dd4e53a92394e4dcdfaa40265)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/47629269ab9d35b47c2a74a33d823b753f9c827d)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2ebfc29fb8ed8b612a50bb9f2fbfa8a2976ef476)
+- [ ] [<code>update extra po files</code>](https://github.com/alainm23/planify/commit/d2fe5c5afe41c080ee7ddf2c8fe957640eb13273)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0cb10412e0691e233055247621c6f525c84ee2d7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6b971a56f1978e8a2257d7cd104515cc16552706)
+- [ ] [<code>Translations update from Hosted Weblate (#1897)</code>](https://github.com/alainm23/planify/commit/32ddfd01c8d23d9c1d96206ccea0a7953b72d921)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6bed40c5b31a725aee4e14eda863b653043cac56)
+- [ ] [<code>update action email</code>](https://github.com/alainm23/planify/commit/caa9dbe3698bdfeda20dc42ebc85c595df2032a7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c02f4c2027a285f2ebe66466c0c2c3ae8e3507bf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
