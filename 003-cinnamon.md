@@ -306,14 +306,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [b046353fa23951746e9bfa3d54f745819802649e → HEAD](https://github.com/linuxmint/mint-l-icons/compare/b046353fa23951746e9bfa3d54f745819802649e...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5d96655e37a85aa5e3d20bc7b38c9675a6145d13 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5d96655e37a85aa5e3d20bc7b38c9675a6145d13...HEAD)
 
-- [ ] [<code>Remove postinst</code>](https://github.com/linuxmint/mint-l-icons/commit/e147f81477a5f7dfdded4158b805cff8ad818f81)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-l-icons/commit/189ecdc19262d049febede71aab3d564c470180e)
-- [ ] [<code>Add process-working-symbolic.svg</code>](https://github.com/linuxmint/mint-l-icons/commit/7892ab4b335b148b2b109552c4c6d7b656bdf992)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.8</code>](https://github.com/linuxmint/mint-l-icons/commit/5d96655e37a85aa5e3d20bc7b38c9675a6145d13)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
 
