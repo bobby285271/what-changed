@@ -346,6 +346,9 @@
 - [ ] [<code>Update power.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/d2e21c50a1673e16d063a510afe7ebf15b5216d5)
 - [ ] [<code>TimeoutComboBox: port to Gtk.DropDown (#281)</code>](https://github.com/elementary/switchboard-plug-power/commit/498d23f3f3519b85787874b7934e950cbb6cd948)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>TimeoutComboBox: warn about high energy usage (#282)</code>](https://github.com/elementary/switchboard-plug-power/commit/49f8644d0feab8eabe5bcd769f41f30ed220c0a2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -585,6 +588,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>BackgroundBlurEffect: Fix crash (#2554)</code>](https://github.com/elementary/gala/commit/564f95cde83168e17be60d46dfe7b159939c7f47)
 - [ ] [<code>Cleanup notification close animation (#2555)</code>](https://github.com/elementary/gala/commit/28487eefffe129a8d3630600c2f5819356f319f9)
+- [ ] [<code>Port to Gtk4 (#2540)</code>](https://github.com/elementary/gala/commit/49ca6f322ed362c673d8e01759339bc8ddd173df)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
