@@ -6,6 +6,16 @@
 - [ ] [<code>Update Granite style classes (#2358)</code>](https://github.com/elementary/appcenter/commit/9e38357d1594716d56b2e72aaa2dca6add96b1da)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Handle automatic updates changed in UpdateManager (#2359)</code>](https://github.com/elementary/appcenter/commit/de924746bf954aa522924e1fb0a6a88a177141e0)
+- [ ] [<code>UpdateManager: Always update badge when update count changes (#2360)</code>](https://github.com/elementary/appcenter/commit/71acccbd9bdba0d63afdf47cd3b2ff7ec33bd4fe)
+- [ ] [<code>MainWindow: Add a show package action</code>](https://github.com/elementary/appcenter/commit/4c9a7df0997e330d6f4a3ed110666e2b2c00d6e6)
+- [ ] [<code>InstalledPackageRowGrid: Use show package action</code>](https://github.com/elementary/appcenter/commit/22a848fc139817650fb502ab4ae8416eaabcdb4d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ListPackageRowGrid: Use show package action</code>](https://github.com/elementary/appcenter/commit/5170e65bf8363cc75268c131643e8b0034a198af)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppInfoView/origin selection: Use show package action</code>](https://github.com/elementary/appcenter/commit/b670f6145663656f7877e07234038eb6716f67c2)
+- [ ] [<code>Homepage/banner: Use show package action</code>](https://github.com/elementary/appcenter/commit/1f7140024f2a67728f21b2b1db9d3fa04a485cab)
+- [ ] [<code>SearchView: Use show package action</code>](https://github.com/elementary/appcenter/commit/e3d99b0e07ae629f4cafcd0f9a95e6a54a35722a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -114,6 +124,9 @@
 - [ ] [<code>Flatpak: bump platform to 8.2 (#66)</code>](https://github.com/elementary/iconbrowser/commit/a4c24a5e8e73007c29ae3bff25e07bb470ce6f2b)
 - [ ] [<code>Actions: Use main branch (#67)</code>](https://github.com/elementary/iconbrowser/commit/f79c75c441f70c6fc4f4caeb2c3f23b5f6beae13)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/iconbrowser/commit/d8fba9ea0bd92aa14e0e584e1ae2006ee86b8a25)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#70)</code>](https://github.com/elementary/iconbrowser/commit/a6a63349039460c3eb4f2f1efb29596ce8e1a777)
+- [ ] [<code>Release 8.1.0 (#71)</code>](https://github.com/elementary/iconbrowser/commit/66df8748e4dc7b6b1a48c0f553b3f6e5fff5139d)
+  - <sub>Tags: <code>8.1.0</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
@@ -349,6 +362,7 @@
 - [ ] [<code>TimeoutComboBox: warn about high energy usage (#282)</code>](https://github.com/elementary/switchboard-plug-power/commit/49f8644d0feab8eabe5bcd769f41f30ed220c0a2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#283)</code>](https://github.com/elementary/switchboard-plug-power/commit/dc896647da08db5a691271173678033fabcaf8de)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -591,6 +605,9 @@
 - [ ] [<code>Port to Gtk4 (#2540)</code>](https://github.com/elementary/gala/commit/49ca6f322ed362c673d8e01759339bc8ddd173df)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Handle visible_in_multitasking_view in PanelWindow (#2563)</code>](https://github.com/elementary/gala/commit/5a55b3ae822f6db3665093f5f3bc474e8bfad249)
+- [ ] [<code>GestureTarget: Require actor only for RootTarget</code>](https://github.com/elementary/gala/commit/ffb08a0f57a6570df36486e81385b01172c75c3d)
+- [ ] [<code>PropertyTarget: Don't require a ClutterActor</code>](https://github.com/elementary/gala/commit/64ad306842c8b63a33964fa39d1330efd6a80f93)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -820,6 +837,9 @@
 - [ ] [<code>Allow keybindings on login screen (#307)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/727bf6805e9aec303d3b6bf067a39de1657acb34)
 - [ ] [<code>metainfo: add 8.0.2 release notes (#308)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4498bc38fc483cc381b42664ad223ff782333b3e)
 - [ ] [<code>Don't use Bus.watch_name (#306)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c19ea4b96291957158b109efc88d28c1e4397cf4)
+- [ ] [<code>Release 8.0.2 (#309)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7736e15a16c08bbbbc26a132860490371d791cb6)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
 
