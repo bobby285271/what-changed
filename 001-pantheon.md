@@ -608,6 +608,7 @@
 - [ ] [<code>Handle visible_in_multitasking_view in PanelWindow (#2563)</code>](https://github.com/elementary/gala/commit/5a55b3ae822f6db3665093f5f3bc474e8bfad249)
 - [ ] [<code>GestureTarget: Require actor only for RootTarget</code>](https://github.com/elementary/gala/commit/ffb08a0f57a6570df36486e81385b01172c75c3d)
 - [ ] [<code>PropertyTarget: Don't require a ClutterActor</code>](https://github.com/elementary/gala/commit/64ad306842c8b63a33964fa39d1330efd6a80f93)
+- [ ] [<code>GestureTarget: make propagate abstract (#2569)</code>](https://github.com/elementary/gala/commit/162d7181050cc49631175664049b6286ba5e7283)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
