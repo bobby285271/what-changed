@@ -609,6 +609,7 @@
 - [ ] [<code>GestureTarget: Require actor only for RootTarget</code>](https://github.com/elementary/gala/commit/ffb08a0f57a6570df36486e81385b01172c75c3d)
 - [ ] [<code>PropertyTarget: Don't require a ClutterActor</code>](https://github.com/elementary/gala/commit/64ad306842c8b63a33964fa39d1330efd6a80f93)
 - [ ] [<code>GestureTarget: make propagate abstract (#2569)</code>](https://github.com/elementary/gala/commit/162d7181050cc49631175664049b6286ba5e7283)
+- [ ] [<code>Fix some warnings (#2570)</code>](https://github.com/elementary/gala/commit/a2df1467b79c3fc236fba8782b24f7031e4fb64e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -820,27 +821,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#294)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/231e2170c5905ee15835681de5762ab7b1ca93a6)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d51b94459f4bef5f6cd94514766419cc3cbc9a00)
 
-#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.1...HEAD)
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>Scale: use GestureMultiPress instead of button release event (#289)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7e545f49730e7c90ee398a372f6e31e7896ada9f)
-- [ ] [<code>Scale: use ToggleButton instead of switch (#290)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d839857447855f949d9e273020bc88a89a04eb73)
-- [ ] [<code>DeviceManagerWidget: hide/show with revealer (#291)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/9f19e51e6d24229242e1ab70997532ee3c14bc70)
-- [ ] [<code>Device: use PulseAudio.Direction (#293)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e9e36cd7d33ae4f9e9ccbc687b44bcf3aaec4af2)
-- [ ] [<code>PlayerRow: remove eventbutton from raise_player (#294)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/6237c690b4364f0bec247ad87c1d92e5cb7d6ce9)
-- [ ] [<code>Scale: use Gtk.Adjustment (#292)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c25efb18aa4f879e5f99ad52a5f1f72e8cf4052d)
-- [ ] [<code>DisplayWidget: GTK4 Prep (#296)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/b3b755475b45027c99d8c2104761981c7e878675)
-- [ ] [<code>Scale: send a signal when slider dropped (#297)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a8b17c63c306b8532b5186c912fbf3dbaa1e0989)
-- [ ] [<code>Scale: don't set an icon on construct (#298)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/72917da6ab842b5655e986e620897682df419d84)
-- [ ] [<code>Actions: Use main branch (#302)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c2905d5e7493d9373a336e1b540dc70e247e57e2)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#303)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7b70fcde1fef72d618476f9d33955f67b1addd16)
-- [ ] [<code>PlayerRow: GTK4 Prep, code style (#304)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a9381c5014d2eb34bf164711a11827b57f487436)
-- [ ] [<code>Scale: GTK4 prep (#305)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4ae27545379dea1dbbfdc7ae42a1f5c974053efe)
-- [ ] [<code>Allow keybindings on login screen (#307)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/727bf6805e9aec303d3b6bf067a39de1657acb34)
-- [ ] [<code>metainfo: add 8.0.2 release notes (#308)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/4498bc38fc483cc381b42664ad223ff782333b3e)
-- [ ] [<code>Don't use Bus.watch_name (#306)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c19ea4b96291957158b109efc88d28c1e4397cf4)
-- [ ] [<code>Release 8.0.2 (#309)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7736e15a16c08bbbbc26a132860490371d791cb6)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
 
