@@ -42,6 +42,9 @@
             "attr_path": "pantheon.elementary-maps"
         },
         {
+            "attr_path": "pantheon.elementary-monitor"
+        },
+        {
             "attr_path": "pantheon.elementary-music"
         },
         {
