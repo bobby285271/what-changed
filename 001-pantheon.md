@@ -16,6 +16,7 @@
 - [ ] [<code>AppInfoView/origin selection: Use show package action</code>](https://github.com/elementary/appcenter/commit/b670f6145663656f7877e07234038eb6716f67c2)
 - [ ] [<code>Homepage/banner: Use show package action</code>](https://github.com/elementary/appcenter/commit/1f7140024f2a67728f21b2b1db9d3fa04a485cab)
 - [ ] [<code>SearchView: Use show package action</code>](https://github.com/elementary/appcenter/commit/e3d99b0e07ae629f4cafcd0f9a95e6a54a35722a)
+- [ ] [<code>Package: Remove some unused methods and signals (#2366)</code>](https://github.com/elementary/appcenter/commit/5a579f54e557c90787b100454df6bf91541acb67)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -610,6 +611,8 @@
 - [ ] [<code>PropertyTarget: Don't require a ClutterActor</code>](https://github.com/elementary/gala/commit/64ad306842c8b63a33964fa39d1330efd6a80f93)
 - [ ] [<code>GestureTarget: make propagate abstract (#2569)</code>](https://github.com/elementary/gala/commit/162d7181050cc49631175664049b6286ba5e7283)
 - [ ] [<code>Fix some warnings (#2570)</code>](https://github.com/elementary/gala/commit/a2df1467b79c3fc236fba8782b24f7031e4fb64e)
+- [ ] [<code>Don't restore actor properties after finishing minimize animation (#2571)</code>](https://github.com/elementary/gala/commit/26422149c012562e113f0c78442b2fc1f2bb97b7)
+- [ ] [<code>Hide window actor when destroying it with reduce motion (#2572)</code>](https://github.com/elementary/gala/commit/506b93219ffec3613205809cf66936c54d6430ac)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
