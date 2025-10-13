@@ -17,6 +17,8 @@
 - [ ] [<code>Homepage/banner: Use show package action</code>](https://github.com/elementary/appcenter/commit/1f7140024f2a67728f21b2b1db9d3fa04a485cab)
 - [ ] [<code>SearchView: Use show package action</code>](https://github.com/elementary/appcenter/commit/e3d99b0e07ae629f4cafcd0f9a95e6a54a35722a)
 - [ ] [<code>Package: Remove some unused methods and signals (#2366)</code>](https://github.com/elementary/appcenter/commit/5a579f54e557c90787b100454df6bf91541acb67)
+- [ ] [<code>Remove unused signal (#2370)</code>](https://github.com/elementary/appcenter/commit/528fcad533ca273c3ac658fc62da0ac4f66cdc48)
+- [ ] [<code>Remove unused job types and args (#2369)</code>](https://github.com/elementary/appcenter/commit/65352ca8f0a8b299052ac8309a684ddee8fbd873)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -73,6 +75,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calendar/commit/685638c07f3ba64cba8de20a0282973858f48096)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.2.tar.xz to 3.57.3 (#861)</code>](https://github.com/elementary/calendar/commit/aa5fd80f020523cc20693fb9f05b08ecfe1cfd89)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.3.tar.xz to 3.58.0 (#863)</code>](https://github.com/elementary/calendar/commit/a674eac515b16c542dbfe60e0eebaca384ed037d)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.0.tar.xz to 3.58.1 (#864)</code>](https://github.com/elementary/calendar/commit/5c1cd714652d25b500da7e90e7fe97be04463e45)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -153,6 +156,7 @@
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>Add a tooltip for the current location (#172)</code>](https://github.com/elementary/maps/commit/86b66f8b45bfea2af9c6caa40148ed74dade375c)
+- [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -241,6 +245,7 @@
 - [ ] [<code>Actions: Use main branch (#417)</code>](https://github.com/elementary/tasks/commit/49ce982c49b09fbd6636d88d7d290e8759d4152c)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/tasks/commit/17d8e0914a6078018d094b929c09085e7a2f7680)
 - [ ] [<code>libshumate: Update libshumate-1.4.0.tar.xz to 1.5.0.1 (#419)</code>](https://github.com/elementary/tasks/commit/ea2f1177b4e92fdd7cf679b614393eecdd739776)
+- [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#420)</code>](https://github.com/elementary/tasks/commit/559b801395e87348e95035f1e49685c1ee6e1cbb)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
 
@@ -613,6 +618,7 @@
 - [ ] [<code>Fix some warnings (#2570)</code>](https://github.com/elementary/gala/commit/a2df1467b79c3fc236fba8782b24f7031e4fb64e)
 - [ ] [<code>Don't restore actor properties after finishing minimize animation (#2571)</code>](https://github.com/elementary/gala/commit/26422149c012562e113f0c78442b2fc1f2bb97b7)
 - [ ] [<code>Hide window actor when destroying it with reduce motion (#2572)</code>](https://github.com/elementary/gala/commit/506b93219ffec3613205809cf66936c54d6430ac)
+- [ ] [<code>Correctly scale blur coordinates</code>](https://github.com/elementary/gala/commit/79c9ff1c245d12287483bf81b3e09223578a6199)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
