@@ -657,6 +657,7 @@
 - [ ] [<code>Fix rename via tree-view side-pane (#1726)</code>](https://github.com/xfce-mirror/thunar/commit/67cd23b2977f8a9d75b0d261fabb3708734be4cb)
 - [ ] [<code>Respect minimum terminal height on resize (#1727)</code>](https://github.com/xfce-mirror/thunar/commit/fdfc5c222e10884e0ddeb310f9a288b5776c3ba9)
 - [ ] [<code>DiskSpaceUsageBar: Change colors when disk is full, adjustable size</code>](https://github.com/xfce-mirror/thunar/commit/974ca4b1ee7982ca697e3e70c68aac53b86f37b8)
+- [ ] [<code>Search: Go to search results using the down key (#915)</code>](https://github.com/xfce-mirror/thunar/commit/541315ea2088746511f344b93d22adad24874b7e)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
