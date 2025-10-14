@@ -656,6 +656,7 @@
 - [ ] [<code>Update selection on view switch (#1717) ()</code>](https://github.com/xfce-mirror/thunar/commit/83ada72806666b26bcad892b1945d05bcc04a34a)
 - [ ] [<code>Fix rename via tree-view side-pane (#1726)</code>](https://github.com/xfce-mirror/thunar/commit/67cd23b2977f8a9d75b0d261fabb3708734be4cb)
 - [ ] [<code>Respect minimum terminal height on resize (#1727)</code>](https://github.com/xfce-mirror/thunar/commit/fdfc5c222e10884e0ddeb310f9a288b5776c3ba9)
+- [ ] [<code>DiskSpaceUsageBar: Change colors when disk is full, adjustable size</code>](https://github.com/xfce-mirror/thunar/commit/974ca4b1ee7982ca697e3e70c68aac53b86f37b8)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -941,6 +942,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8bcbb17705bc9206e6433983e986f64fc39e198c)
 - [ ] [<code>pager: Add missing signal handler disconnections</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fbfc09bb8074085b40be9bdc35bcb977cd2b8c73)
 - [ ] [<code>wayland: Minimalist management of workspace group change when unused</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9c829ae45981274c26436268dd373ba97847ef44)
+- [ ] [<code>prefs-dialog: Reset add/remove buttons sensitivity when needed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6e17423e4ed110f2b99cf8defa7978597b25825f)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
