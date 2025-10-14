@@ -119,18 +119,8 @@
 - [ ] [<code>Fix expand row of ListView when in Trash (#2648)</code>](https://github.com/elementary/files/commit/9d5d1d658b4ca4d73a0fded29ee255de05948346)
 - [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
 
-#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.0.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.0.0...HEAD)
+#### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
-- [ ] [<code>Actions: bump flatpak to 6.4 (#61)</code>](https://github.com/elementary/iconbrowser/commit/13232a1fc8b19158b2d209c1a934704b242517b1)
-- [ ] [<code>CI: run arm workflows on arm runner (#62)</code>](https://github.com/elementary/iconbrowser/commit/f09d1ec79247b019e4e349bceff63c1240e763d9)
-- [ ] [<code>Bump to platform 8.1 (#63)</code>](https://github.com/elementary/iconbrowser/commit/90678378fb68eeeac49a702d4d7a8ca3aaf0015f)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#65)</code>](https://github.com/elementary/iconbrowser/commit/114bf74a4367b9a8b49dd932160f5f94847da93f)
-- [ ] [<code>Flatpak: bump platform to 8.2 (#66)</code>](https://github.com/elementary/iconbrowser/commit/a4c24a5e8e73007c29ae3bff25e07bb470ce6f2b)
-- [ ] [<code>Actions: Use main branch (#67)</code>](https://github.com/elementary/iconbrowser/commit/f79c75c441f70c6fc4f4caeb2c3f23b5f6beae13)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/iconbrowser/commit/d8fba9ea0bd92aa14e0e584e1ae2006ee86b8a25)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#70)</code>](https://github.com/elementary/iconbrowser/commit/a6a63349039460c3eb4f2f1efb29596ce8e1a777)
-- [ ] [<code>Release 8.1.0 (#71)</code>](https://github.com/elementary/iconbrowser/commit/66df8748e4dc7b6b1a48c0f553b3f6e5fff5139d)
-  - <sub>Tags: <code>8.1.0</code></sub>
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
@@ -157,6 +147,9 @@
 
 - [ ] [<code>Add a tooltip for the current location (#172)</code>](https://github.com/elementary/maps/commit/86b66f8b45bfea2af9c6caa40148ed74dade375c)
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
+
+#### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.0...HEAD)
+
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -619,6 +612,9 @@
 - [ ] [<code>Don't restore actor properties after finishing minimize animation (#2571)</code>](https://github.com/elementary/gala/commit/26422149c012562e113f0c78442b2fc1f2bb97b7)
 - [ ] [<code>Hide window actor when destroying it with reduce motion (#2572)</code>](https://github.com/elementary/gala/commit/506b93219ffec3613205809cf66936c54d6430ac)
 - [ ] [<code>Correctly scale blur coordinates</code>](https://github.com/elementary/gala/commit/79c9ff1c245d12287483bf81b3e09223578a6199)
+- [ ] [<code>Introduce a WindowListModel (#2561)</code>](https://github.com/elementary/gala/commit/76b58001ccf595a883a538579ed51500ab9ea0c0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>StyleManager: Support Latte (#2557)</code>](https://github.com/elementary/gala/commit/b56a2bf9ceee1fd2d0f645566427e4687da70701)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
