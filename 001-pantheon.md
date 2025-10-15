@@ -615,6 +615,10 @@
 - [ ] [<code>Introduce a WindowListModel (#2561)</code>](https://github.com/elementary/gala/commit/76b58001ccf595a883a538579ed51500ab9ea0c0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>StyleManager: Support Latte (#2557)</code>](https://github.com/elementary/gala/commit/b56a2bf9ceee1fd2d0f645566427e4687da70701)
+- [ ] [<code>Introduce WorkspaceHideTracker</code>](https://github.com/elementary/gala/commit/4cdfb5e603df5a524370ceb07f21962d8669700d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove workspace tracking from HideTracker</code>](https://github.com/elementary/gala/commit/d3d66d5f878b8440b592f8682b1c8e73d9088047)
+- [ ] [<code>PanelWindow: use WorkspaceHideTracker</code>](https://github.com/elementary/gala/commit/4b1c578675a47694376aa962b1ae31d7084c04ab)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
