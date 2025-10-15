@@ -209,8 +209,11 @@
 - [ ] [<code>layout.js: Fix flash when hiding the keyboard, and allow the</code>](https://github.com/linuxmint/cinnamon/commit/f5ec1113bff55cf2fc7b97e974546e2aba4d2118)
 - [ ] [<code>virtualKeyboard.js: Fix extended keys when interacting with</code>](https://github.com/linuxmint/cinnamon/commit/9c954cd1e61729ebfe8f49425db06b9f2a098aac)
 - [ ] [<code>menu: Further improvements</code>](https://github.com/linuxmint/cinnamon/commit/0cf07bf9ad48e4c8589cbeadab11a58cd2525560)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon/commit/68729511ec2f740dc11b328721deb787471ea6e7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -494,25 +497,8 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.13 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.13...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [3.0.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.0.1...HEAD)
 
-- [ ] [<code>Remove XAppKbdLayoutController class.</code>](https://github.com/linuxmint/xapp/commit/c22f968cb324528c95edce03cc1c7f3b2e176e83)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update docs.</code>](https://github.com/linuxmint/xapp/commit/7a243e35020d5eee4f6c43f79307128295a80d69)
-- [ ] [<code>Provide an alternative to Adwaita symbolic icons (#192)</code>](https://github.com/linuxmint/xapp/commit/7a3a06fe3ea078e72bbc13f59dc4ff97deae498b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Revert "Remove XAppKbdLayoutController class."</code>](https://github.com/linuxmint/xapp/commit/7868b8f2865710675feb10f8d2c96e5146fbd126)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.0.0</code>](https://github.com/linuxmint/xapp/commit/89f34bd1154126162573f2b45a1cf737dc7d448a)
-  - <sub>Tags: <code>3.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>icons: Prefix non-prefixed icons</code>](https://github.com/linuxmint/xapp/commit/364b5538797483b22b3d1b56fd17678ccdee33e8)
-- [ ] [<code>3.0.1</code>](https://github.com/linuxmint/xapp/commit/2ab7c8b8dd66d7fea928cbc4d552cf901c84d852)
-  - <sub>Tags: <code>3.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
 - [ ] [<code>Add some of the generic icons used in nemo</code>](https://github.com/linuxmint/xapp/commit/2af3ccb80237951bfe9e3b0ff0445c1e8b7de9b2)
 - [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
