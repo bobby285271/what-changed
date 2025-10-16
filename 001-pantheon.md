@@ -85,6 +85,7 @@
 - [ ] [<code>Profiling: Enable profiling in code using google-perftools (#1539)</code>](https://github.com/elementary/code/commit/49d043084e54ecaf18719f7a2f8765163d10adfb)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Cloning: Show progress in sidebar (#1641)</code>](https://github.com/elementary/code/commit/c941d9cb3a33965c255321cc0fd293882c26bf74)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
