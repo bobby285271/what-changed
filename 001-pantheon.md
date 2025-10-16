@@ -118,6 +118,7 @@
 - [ ] [<code>Fix freeze when user template dir points at very large directory tree. (#2644)</code>](https://github.com/elementary/files/commit/785a577d3b1bad86622d43d82113bd83c554ea8e)
 - [ ] [<code>Fix expand row of ListView when in Trash (#2648)</code>](https://github.com/elementary/files/commit/9d5d1d658b4ca4d73a0fded29ee255de05948346)
 - [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
+- [ ] [<code>Update view after permanent delete of folder containing files (#2624)</code>](https://github.com/elementary/files/commit/c49480a0fdc5d5d7c6f6f11c39c40f55a1db156b)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -619,6 +620,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove workspace tracking from HideTracker</code>](https://github.com/elementary/gala/commit/d3d66d5f878b8440b592f8682b1c8e73d9088047)
 - [ ] [<code>PanelWindow: use WorkspaceHideTracker</code>](https://github.com/elementary/gala/commit/4b1c578675a47694376aa962b1ae31d7084c04ab)
+- [ ] [<code>PanelWindow/Gestures: Fix a few warnings (#2579)</code>](https://github.com/elementary/gala/commit/fa49edf16188c993d93773815bb9dac977c4fef1)
+- [ ] [<code>ShellClients: Better separation of concern (#2575)</code>](https://github.com/elementary/gala/commit/7e97727432bfab283c71a44bccb85ac60edbf3f4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PanelWindow: fix interaction with fullscreen windows (#2580)</code>](https://github.com/elementary/gala/commit/79680320f79766294f5113c20c1cb4734d3bf232)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
