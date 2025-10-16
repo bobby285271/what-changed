@@ -296,6 +296,9 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cffd8d57ec6932714fe363ee0ec663efb2b37ea1)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d4953bc51663eae8d95a8744e2fb19feeb4c4a4a)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#1925)</code>](https://github.com/alainm23/planify/commit/6e070b6d61893f1f482022803112a39bb4e199dd)
+- [ ] [<code>Translations update from Hosted Weblate (#1927)</code>](https://github.com/alainm23/planify/commit/34d6f2b6d31390f07b64095055386398246bf5cb)
+- [ ] [<code>Translations update from Hosted Weblate (#1928)</code>](https://github.com/alainm23/planify/commit/79ea04fd723785efc5d5be1a8d4d602805f60265)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/982cebefca7ac156b031fca9058afa0a30cd8b73)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
