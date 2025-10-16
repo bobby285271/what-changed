@@ -329,6 +329,7 @@
 - [ ] [<code>Add support for the new Cinnamon 6.6 menu</code>](https://github.com/linuxmint/mint-l-theme/commit/77952d09ff6fda9077f6af402c98b42ee22171fc)
 - [ ] [<code>build: Use pysassc.</code>](https://github.com/linuxmint/mint-l-theme/commit/3e0f656de1b0ae4c220fdc6518bd77f94cbee572)
 - [ ] [<code>cinnamon: Add support for new keyboard and ibus popups.</code>](https://github.com/linuxmint/mint-l-theme/commit/e06c7d38d3eda86b24b97934ead8a862f2e8d7b6)
+- [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-l-theme/commit/42401a6cb3651ce256b63080bb5e527fca5dac22)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -353,6 +354,7 @@
 - [ ] [<code>Mint-X: Add support for new keyboard and ibus popup.</code>](https://github.com/linuxmint/mint-themes/commit/24a1a76347dca9007e826f353854fac6f5cebc73)
 - [ ] [<code>Mint-Y: small fix for cinnamon keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/35a509d46d0b105da1236e4ae4d3b6ace4d3f2a8)
 - [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
+- [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-themes/commit/6261a9fe4d3d5ed223c1d4664211e371d0b8079a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.4...HEAD)
