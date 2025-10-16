@@ -659,6 +659,13 @@
 - [ ] [<code>DiskSpaceUsageBar: Change colors when disk is full, adjustable size</code>](https://github.com/xfce-mirror/thunar/commit/974ca4b1ee7982ca697e3e70c68aac53b86f37b8)
 - [ ] [<code>Search: Go to search results using the down key (#915)</code>](https://github.com/xfce-mirror/thunar/commit/541315ea2088746511f344b93d22adad24874b7e)
 - [ ] [<code>Location Selector: Force focus view on Activate (#1732)</code>](https://github.com/xfce-mirror/thunar/commit/2f326e5c60c0a4edd31972a04c2287d179e8996d)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/bfbf215c7c03cef433d19e9f43d9a922538adecc)
+  - <sub>Tags: <code>thunar-4.21.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/de81dfaefd6748f5c060e8f759c623a580739628)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
