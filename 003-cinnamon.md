@@ -211,9 +211,13 @@
 - [ ] [<code>menu: Further improvements</code>](https://github.com/linuxmint/cinnamon/commit/0cf07bf9ad48e4c8589cbeadab11a58cd2525560)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon/commit/68729511ec2f740dc11b328721deb787471ea6e7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>debian/control: Add IBus runtime dependency (#13144)</code>](https://github.com/linuxmint/cinnamon/commit/11d9e01b3108b617d5f847f9504d7eed662b6a97)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>keyboard@cinnamon.org: Move settings to the context menu, disable</code>](https://github.com/linuxmint/cinnamon/commit/072cc749b60390d12d7c44df5f0b66fc165f81bd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
