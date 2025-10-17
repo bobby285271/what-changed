@@ -86,6 +86,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Cloning: Show progress in sidebar (#1641)</code>](https://github.com/elementary/code/commit/c941d9cb3a33965c255321cc0fd293882c26bf74)
+- [ ] [<code>Consistent search settings between document search and global search (#1623)</code>](https://github.com/elementary/code/commit/f38921691e3e5e7c14bf106f890f8c9e86170638)
+- [ ] [<code>SymbolPane: improve tooltips for C tags (#1636)</code>](https://github.com/elementary/code/commit/27db85a53088ad0f302006baf7f5468541ce22d6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
