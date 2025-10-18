@@ -666,6 +666,9 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/de81dfaefd6748f5c060e8f759c623a580739628)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Make build with terminal optional (#1735) (Closes #1735)</code>](https://github.com/xfce-mirror/thunar/commit/1f122692a0b3a79baf0dafab2d75afd887b98968)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
