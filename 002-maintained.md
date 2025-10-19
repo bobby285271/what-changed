@@ -306,6 +306,13 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/55328b462567a6014793c30abb9c81e11d99554a)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9ce5de1f758b92df232165f8354ab53fab082df2)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7a07c4e6622b776d0375168fdc2ae7bf5b8e9743)
+- [ ] [<code>add picker core (#1933)</code>](https://github.com/alainm23/planify/commit/9cd78dff4943df4cd9f4fdca46a5ccb0514c5fd6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8012639f0b2175df6c709f71565ed06f486194e3)
+- [ ] [<code>update project progress (#1934)</code>](https://github.com/alainm23/planify/commit/977fa98f637e39b21abf78b2573b137c13043a7d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/290e5f0421181f31c99456c9942af3c23407c635)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
