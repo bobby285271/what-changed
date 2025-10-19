@@ -88,6 +88,8 @@
 - [ ] [<code>Cloning: Show progress in sidebar (#1641)</code>](https://github.com/elementary/code/commit/c941d9cb3a33965c255321cc0fd293882c26bf74)
 - [ ] [<code>Consistent search settings between document search and global search (#1623)</code>](https://github.com/elementary/code/commit/f38921691e3e5e7c14bf106f890f8c9e86170638)
 - [ ] [<code>SymbolPane: improve tooltips for C tags (#1636)</code>](https://github.com/elementary/code/commit/27db85a53088ad0f302006baf7f5468541ce22d6)
+- [ ] [<code>Sidebar: Put stack and toast in overlay (#1647)</code>](https://github.com/elementary/code/commit/5fc9112cb508863c7797c2b656e46d808c5eec5c)
+- [ ] [<code>Fix open-folder shortcut (#1640)</code>](https://github.com/elementary/code/commit/a296348b5330b5e6647c58b06e997270a575d534)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -122,6 +124,7 @@
 - [ ] [<code>Fix expand row of ListView when in Trash (#2648)</code>](https://github.com/elementary/files/commit/9d5d1d658b4ca4d73a0fded29ee255de05948346)
 - [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
 - [ ] [<code>Update view after permanent delete of folder containing files (#2624)</code>](https://github.com/elementary/files/commit/c49480a0fdc5d5d7c6f6f11c39c40f55a1db156b)
+- [ ] [<code>Update metainfo for recent merge (#2650)</code>](https://github.com/elementary/files/commit/c636f3f5fd249efc64254a96f7ae0fcb05b5355e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -627,6 +630,7 @@
 - [ ] [<code>ShellClients: Better separation of concern (#2575)</code>](https://github.com/elementary/gala/commit/7e97727432bfab283c71a44bccb85ac60edbf3f4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PanelWindow: fix interaction with fullscreen windows (#2580)</code>](https://github.com/elementary/gala/commit/79680320f79766294f5113c20c1cb4734d3bf232)
+- [ ] [<code>PanelWindow: update position when setting custom size (#2583)</code>](https://github.com/elementary/gala/commit/a15dc03ba81f68b8ee08076051fd94eb3e5b2851)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -848,6 +852,7 @@
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
 
+- [ ] [<code>Box: Add version annotation to Spacing enum (#918)</code>](https://github.com/elementary/granite/commit/e53019cf4a8c961f9f89daf15844df760bf94a81)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
