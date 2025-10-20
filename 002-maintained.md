@@ -316,6 +316,10 @@
 - [ ] [<code>add spell (#1940)</code>](https://github.com/alainm23/planify/commit/1c6891e5d4a968f1eca27f5021dd520546b766c1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e6654c19e6f06837825c093c976e1c5c752f1d01)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/0660718e75770ccec07714c82963ede813898bc7)
+- [ ] [<code>Translations update from Hosted Weblate (#1941)</code>](https://github.com/alainm23/planify/commit/45cd431bcdaf8060429e9688a68edeba2adf034f)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2215d3069ef72263ffb752b4cffcc26721201cb9)
+- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/81e4f923f8d3e41d4959981570884cbb43bee940)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
