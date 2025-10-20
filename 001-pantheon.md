@@ -22,6 +22,7 @@
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calculator/commit/e9abd0afce8665978635ee93850ade6c20c9d4fe)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
 
@@ -76,9 +77,11 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.2.tar.xz to 3.57.3 (#861)</code>](https://github.com/elementary/calendar/commit/aa5fd80f020523cc20693fb9f05b08ecfe1cfd89)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.3.tar.xz to 3.58.0 (#863)</code>](https://github.com/elementary/calendar/commit/a674eac515b16c542dbfe60e0eebaca384ed037d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.0.tar.xz to 3.58.1 (#864)</code>](https://github.com/elementary/calendar/commit/5c1cd714652d25b500da7e90e7fe97be04463e45)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calendar/commit/8aaa145b662629f251b79ad4034229c9835538ce)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.1 → HEAD](https://github.com/elementary/code/compare/8.1.1...HEAD)
 
@@ -129,6 +132,7 @@
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/iconbrowser/commit/a499faea17792f0c03ae3ee9a915b3b8b713a87c)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
 
@@ -150,6 +154,7 @@
 - [ ] [<code>Bump to platform 8.2 (#1015)</code>](https://github.com/elementary/mail/commit/017079ce89b18632b80b4087c706753f105a2d4f)
 - [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/mail/commit/6c2d5b822af65b8ef278dea286e8ce3b726f81fc)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -205,6 +210,7 @@
 - [ ] [<code>Remove sample plugin</code>](https://github.com/elementary/photos/commit/9bc21febaa225ed6a4eec754fa3ac3ab7dce0d0e)
 - [ ] [<code>Update inih and gexiv2 modules (#827)</code>](https://github.com/elementary/photos/commit/276b79a791c0255b650b87c1e0d21638742b982f)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/photos/commit/c7ca8dd28cc17a5caf251b34ff0f73fa37f16cc6)
+- [ ] [<code>libghoto2: Update libgphoto2-2.5.32.tar.xz to 2.5.33</code>](https://github.com/elementary/photos/commit/76a84c4d94a67ac278cad4e57d33b8a5c2338730)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
@@ -247,6 +253,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/tasks/commit/17d8e0914a6078018d094b929c09085e7a2f7680)
 - [ ] [<code>libshumate: Update libshumate-1.4.0.tar.xz to 1.5.0.1 (#419)</code>](https://github.com/elementary/tasks/commit/ea2f1177b4e92fdd7cf679b614393eecdd739776)
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#420)</code>](https://github.com/elementary/tasks/commit/559b801395e87348e95035f1e49685c1ee6e1cbb)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/tasks/commit/ea0854a6a0a5d09d4019e31f6a001169375aee51)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
 
