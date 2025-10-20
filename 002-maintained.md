@@ -313,6 +313,9 @@
 - [ ] [<code>update project progress (#1934)</code>](https://github.com/alainm23/planify/commit/977fa98f637e39b21abf78b2573b137c13043a7d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/290e5f0421181f31c99456c9942af3c23407c635)
+- [ ] [<code>add spell (#1940)</code>](https://github.com/alainm23/planify/commit/1c6891e5d4a968f1eca27f5021dd520546b766c1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e6654c19e6f06837825c093c976e1c5c752f1d01)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
