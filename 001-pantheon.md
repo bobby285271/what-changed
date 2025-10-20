@@ -90,6 +90,7 @@
 - [ ] [<code>SymbolPane: improve tooltips for C tags (#1636)</code>](https://github.com/elementary/code/commit/27db85a53088ad0f302006baf7f5468541ce22d6)
 - [ ] [<code>Sidebar: Put stack and toast in overlay (#1647)</code>](https://github.com/elementary/code/commit/5fc9112cb508863c7797c2b656e46d808c5eec5c)
 - [ ] [<code>Fix open-folder shortcut (#1640)</code>](https://github.com/elementary/code/commit/a296348b5330b5e6647c58b06e997270a575d534)
+- [ ] [<code>Metainfo for v8.1.2 (#1648)</code>](https://github.com/elementary/code/commit/fe6f69793c3eafeec1984305cb7436f28469551a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -631,6 +632,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PanelWindow: fix interaction with fullscreen windows (#2580)</code>](https://github.com/elementary/gala/commit/79680320f79766294f5113c20c1cb4734d3bf232)
 - [ ] [<code>PanelWindow: update position when setting custom size (#2583)</code>](https://github.com/elementary/gala/commit/a15dc03ba81f68b8ee08076051fd94eb3e5b2851)
+- [ ] [<code>PiP: set correct clone size with csd shadows (#2585)</code>](https://github.com/elementary/gala/commit/9b98e5633cc003275e0d4da09010cc6c793ed975)
+- [ ] [<code>PanelWindow: calculate fullscreen overlap based on focus window (#2584)</code>](https://github.com/elementary/gala/commit/bb5687081ad6d6886dc4432acc043cb6b8c96da2)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
