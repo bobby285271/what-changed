@@ -94,6 +94,7 @@
 - [ ] [<code>Sidebar: Put stack and toast in overlay (#1647)</code>](https://github.com/elementary/code/commit/5fc9112cb508863c7797c2b656e46d808c5eec5c)
 - [ ] [<code>Fix open-folder shortcut (#1640)</code>](https://github.com/elementary/code/commit/a296348b5330b5e6647c58b06e997270a575d534)
 - [ ] [<code>Metainfo for v8.1.2 (#1648)</code>](https://github.com/elementary/code/commit/fe6f69793c3eafeec1984305cb7436f28469551a)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/code/commit/3bdf91d9a1cac2192fa31c8523cb087e030fddec)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -166,6 +167,7 @@
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/music/commit/883e1937d96359255e2e25a5bbf895807a754be8)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -211,10 +213,12 @@
 - [ ] [<code>Update inih and gexiv2 modules (#827)</code>](https://github.com/elementary/photos/commit/276b79a791c0255b650b87c1e0d21638742b982f)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/photos/commit/c7ca8dd28cc17a5caf251b34ff0f73fa37f16cc6)
 - [ ] [<code>libghoto2: Update libgphoto2-2.5.32.tar.xz to 2.5.33</code>](https://github.com/elementary/photos/commit/76a84c4d94a67ac278cad4e57d33b8a5c2338730)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/photos/commit/47b9499ccd238f4bb353a18b0998d659aeed8b6b)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
 
 - [ ] [<code>Flatpak: add device=dri (#322)</code>](https://github.com/elementary/screenshot/commit/222d778e7e19c09d6a61e9858af96c8578f473c3)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/screenshot/commit/193d118bbf3b44bc83e6e2ff34668354230f777f)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -257,6 +261,7 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
 
+- [ ] [<code>Launch web links correctly (#923)</code>](https://github.com/elementary/terminal/commit/e8977071a9714127ca513c0eb3ec7d47148fdd5b)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -641,6 +646,8 @@
 - [ ] [<code>PanelWindow: update position when setting custom size (#2583)</code>](https://github.com/elementary/gala/commit/a15dc03ba81f68b8ee08076051fd94eb3e5b2851)
 - [ ] [<code>PiP: set correct clone size with csd shadows (#2585)</code>](https://github.com/elementary/gala/commit/9b98e5633cc003275e0d4da09010cc6c793ed975)
 - [ ] [<code>PanelWindow: calculate fullscreen overlap based on focus window (#2584)</code>](https://github.com/elementary/gala/commit/bb5687081ad6d6886dc4432acc043cb6b8c96da2)
+- [ ] [<code> ShellClients: Reveal smoothly when starting  (#2578)</code>](https://github.com/elementary/gala/commit/c16f9cbbe5efc714c051c243a61651562b9d39a7)
+- [ ] [<code>Rely less on ShellClientsManager (#2586)</code>](https://github.com/elementary/gala/commit/afe96602c4b2f7b5d2aeeaa4a4e96746547137b4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -863,6 +870,7 @@
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
 
 - [ ] [<code>Box: Add version annotation to Spacing enum (#918)</code>](https://github.com/elementary/granite/commit/e53019cf4a8c961f9f89daf15844df760bf94a81)
+- [ ] [<code>Add minimum size for slider (#905)</code>](https://github.com/elementary/granite/commit/8124e9c14b1c634b2253f088220f721ff03c23ee)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
@@ -886,6 +894,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#142)</code>](https://github.com/elementary/capnet-assist/commit/8467208c8ed9ff81853bcbed4e5396de651d8d91)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [8.1.0 → HEAD](https://github.com/elementary/notifications/compare/8.1.0...HEAD)
 
@@ -941,6 +950,7 @@
 - [ ] [<code>Actions: Use main branch (#87)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/36d99e7c5d52a336c529ba05543e976e4957cc53)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/pantheon-agent-polkit/commit/cd51af815971cfd7ec1af43b72ac7cb88dc05c63)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a068ef0148de8013ea1e40c33495f146980ee0ee)
+- [ ] [<code>PolkitDialog: use Gtk.PasswordEntry (#91)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/305a4e5d002518573abfe9d1e8554e826f001139)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
