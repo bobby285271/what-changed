@@ -216,8 +216,9 @@
 - [ ] [<code>debian/control: Add IBus runtime dependency (#13144)</code>](https://github.com/linuxmint/cinnamon/commit/11d9e01b3108b617d5f847f9504d7eed662b6a97)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>keyboard@cinnamon.org: Move settings to the context menu, disable</code>](https://github.com/linuxmint/cinnamon/commit/072cc749b60390d12d7c44df5f0b66fc165f81bd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>js: refactor portalHandlers.js for better code quality and performance (#12993)</code>](https://github.com/linuxmint/cinnamon/commit/dd290f1ae53cbd40f051c50d8e7179be4e4970c4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -305,6 +306,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>csd-autorun.c: Remove hidden 'hold shift key' feature.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/20c2ffad694a6658c3d5b12bfe07327ba612f091)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8d13d38033a9bbe5a0a1547dc3a4c768bb879009)
+- [ ] [<code>drop xfixes build dependency</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3839c82c1a6b7fd39390cdc1fcfcd12cc7111a83)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>clean up dependency checks for wacom bits</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/acb49ebf00b5fb19b40c850b8d37136d481ca785)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>debian/control: Adapt to removal of -dev package, update .gitignore.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/830463127ea2fb1dcdc0a0edf8febeb94e82d2b1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
