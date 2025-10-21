@@ -286,6 +286,7 @@
 - [ ] [<code>dconf: Update dconf-0.40.0.tar.xz to 0.49.0 (#327)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8abdc5a5107945a0fb1d16eaabfe9200c14c7892)
 - [ ] [<code>fix: Avoid duplicated window controls in the both side of titlebar on Wayland (#328)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b1e9560dfeebcca0b4a996b4af16b127f3496d1d)
 - [ ] [<code>chore: FilesPane: Explicit Date & Time format (#329)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fe1e08445453e09fa1df4ca0ebeb47e056ed2629)
+- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#332)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/21d56d6f34b2d00ddf30fab42f03288157b341b6)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.15.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.15.1...HEAD)
 
