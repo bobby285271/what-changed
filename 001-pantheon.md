@@ -518,6 +518,7 @@
 - [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/default-settings/commit/0251a127f06ec91e2284061c97ba0967f031d307)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
 - [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
+- [ ] [<code>Suppress "Wi-Fi Networks Available" notifications (#354)</code>](https://github.com/elementary/default-settings/commit/215d3c3f894414b4aacf12cc4f73fd060b11b687)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
