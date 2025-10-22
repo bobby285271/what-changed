@@ -262,6 +262,9 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
 
 - [ ] [<code>Launch web links correctly (#923)</code>](https://github.com/elementary/terminal/commit/e8977071a9714127ca513c0eb3ec7d47148fdd5b)
+- [ ] [<code>Fix Clear Screen: Move cursor to line start before feeding clear command (#921)</code>](https://github.com/elementary/terminal/commit/88761f4d0e724c2fadec70d1fb7fbf69c50edb8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Auto-hide single tab option (#927)</code>](https://github.com/elementary/terminal/commit/4110ae4c6a4f4d4d24b7c0102f6c8d0f39a57762)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
