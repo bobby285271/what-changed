@@ -325,6 +325,11 @@
 - [ ] [<code>add combowrapbox (#1944)</code>](https://github.com/alainm23/planify/commit/d04f4b72efb31da1a487928f1dc75eea663b8335)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f89b4998832da3cf99c3e335b8fa198081f1012e)
+- [ ] [<code>fix (#1946)</code>](https://github.com/alainm23/planify/commit/9444b995ff97751120e59d1ec68920143135ba65)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/99d03c571bc5a8c9a66db976826a8325640c3cfa)
+- [ ] [<code>Translations update from Hosted Weblate (#1945)</code>](https://github.com/alainm23/planify/commit/de01fd21beac404ba9d5e62db603ec5045b39a5c)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/462a68a1864ef14918cc39f93fb5de3a2e22fb2d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
