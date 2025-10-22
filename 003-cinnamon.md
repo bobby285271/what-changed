@@ -218,6 +218,7 @@
 - [ ] [<code>keyboard@cinnamon.org: Move settings to the context menu, disable</code>](https://github.com/linuxmint/cinnamon/commit/072cc749b60390d12d7c44df5f0b66fc165f81bd)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>js: refactor portalHandlers.js for better code quality and performance (#12993)</code>](https://github.com/linuxmint/cinnamon/commit/dd290f1ae53cbd40f051c50d8e7179be4e4970c4)
+- [ ] [<code>desklet: Fix open config window menu action not working (#13153)</code>](https://github.com/linuxmint/cinnamon/commit/42b69a8997df1ff1f3bd0d1d4e56c068feca51a1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
@@ -516,6 +517,7 @@
 - [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
 - [ ] [<code>Add some of the generic icons used in nemo</code>](https://github.com/linuxmint/xapp/commit/2af3ccb80237951bfe9e3b0ff0445c1e8b7de9b2)
 - [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
+- [ ] [<code>icons: Add common device icons</code>](https://github.com/linuxmint/xapp/commit/68d6830d79769c79dbf34785dd3641eeee8c57d1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
