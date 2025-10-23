@@ -955,6 +955,7 @@
 - [ ] [<code>pager: Add missing signal handler disconnections</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fbfc09bb8074085b40be9bdc35bcb977cd2b8c73)
 - [ ] [<code>wayland: Minimalist management of workspace group change when unused</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9c829ae45981274c26436268dd373ba97847ef44)
 - [ ] [<code>prefs-dialog: Reset add/remove buttons sensitivity when needed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6e17423e4ed110f2b99cf8defa7978597b25825f)
+- [ ] [<code>Implement a keep below option</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8b43d158b1195e4f92ab77689c2da49338181f56)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
