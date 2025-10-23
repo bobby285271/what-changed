@@ -332,6 +332,16 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/462a68a1864ef14918cc39f93fb5de3a2e22fb2d)
 - [ ] [<code>Translations update from Hosted Weblate (#1953)</code>](https://github.com/alainm23/planify/commit/67dab7adebcbf079fdb6502b5b6ce5c2d9f38b45)
 - [ ] [<code>location (#1954)</code>](https://github.com/alainm23/planify/commit/1165f62047545519ec7b2ee598eb3dcb5092d73b)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/43f76579dacc64b0bf33910204fee236efb8ae3a)
+- [ ] [<code>fix restore (#1955)</code>](https://github.com/alainm23/planify/commit/58d64cd957a58fb899d89c3c2b1c7085635dd367)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/a037c5e1c4ade7548969840c684e2ae3329795ea)
+- [ ] [<code>focus last (#1956)</code>](https://github.com/alainm23/planify/commit/a321f7e8054d3b1e2970fc01487cc2f445ebb24a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6949c8794ce3f2a1ba173bc5fccfa93736020774)
+- [ ] [<code>Translations update from Hosted Weblate (#1957)</code>](https://github.com/alainm23/planify/commit/76054a6c2ed7c9328d78f61124e37c4100844071)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/44c83b281b42ec2ceecd4144146f2345d5d73ebb)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
