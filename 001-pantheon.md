@@ -340,6 +340,8 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/59df4d78449166a60eff9afb9aa2c01e73c89e81)
 - [ ] [<code>Update mouse-touchpad.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a533c0c0744ded13a9cb94054981317815304133)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f5ff30217d5a6d8873b0db305ea33508224fd243)
+- [ ] [<code>Clicking: don't handle x11 primary paste (#258)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8a2e398f82074673729a4d348d73fb55e076857d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
