@@ -654,6 +654,10 @@
 - [ ] [<code>PanelWindow: calculate fullscreen overlap based on focus window (#2584)</code>](https://github.com/elementary/gala/commit/bb5687081ad6d6886dc4432acc043cb6b8c96da2)
 - [ ] [<code> ShellClients: Reveal smoothly when starting  (#2578)</code>](https://github.com/elementary/gala/commit/c16f9cbbe5efc714c051c243a61651562b9d39a7)
 - [ ] [<code>Rely less on ShellClientsManager (#2586)</code>](https://github.com/elementary/gala/commit/afe96602c4b2f7b5d2aeeaa4a4e96746547137b4)
+- [ ] [<code>WindowManager: remove duplicate behavior settings (#2589)</code>](https://github.com/elementary/gala/commit/f4fd0218951fe1b1dd0774ea9c6912d08f8040d8)
+- [ ] [<code>StyleManager: store accent color as Clutter/Cogl Color (#2590)</code>](https://github.com/elementary/gala/commit/e673560d54c86dbf1d4d849efd1e584084f1a0e5)
+- [ ] [<code>Check font rendering in mutter 48 (#2592)</code>](https://github.com/elementary/gala/commit/3f04c37e5c4fa943c82c86e86e3dc90a9a853284)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
