@@ -287,6 +287,7 @@
 - [ ] [<code>fix: Avoid duplicated window controls in the both side of titlebar on Wayland (#328)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b1e9560dfeebcca0b4a996b4af16b127f3496d1d)
 - [ ] [<code>chore: FilesPane: Explicit Date & Time format (#329)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fe1e08445453e09fa1df4ca0ebeb47e056ed2629)
 - [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#332)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/21d56d6f34b2d00ddf30fab42f03288157b341b6)
+- [ ] [<code>feat: TerminalPane: Remove 'Never Show Tabs' option (#334)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1908a30ecb9d1c8508cc0f4eb4fca7cb57b878aa)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.15.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.15.1...HEAD)
 
