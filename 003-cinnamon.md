@@ -9,6 +9,8 @@
 - [ ] [<code>Clarify the license as defined in debian/copyright and switch to spdx format (#81)</code>](https://github.com/linuxmint/bulky/commit/10ed28d79ee056fe0118d7531b270d4ce668211f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/bulky/commit/732f34b83582a6969214d37ece80d960488061cd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/bulky/commit/631685dde725e5a82e61f8893d484489ec697b08)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -219,7 +221,15 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>js: refactor portalHandlers.js for better code quality and performance (#12993)</code>](https://github.com/linuxmint/cinnamon/commit/dd290f1ae53cbd40f051c50d8e7179be4e4970c4)
 - [ ] [<code>desklet: Fix open config window menu action not working (#13153)</code>](https://github.com/linuxmint/cinnamon/commit/42b69a8997df1ff1f3bd0d1d4e56c068feca51a1)
+- [ ] [<code>meson: Allow info settings to be excluded</code>](https://github.com/linuxmint/cinnamon/commit/83467c40489cb551109f22fbc474de99bf0e974f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Add support for mintreport</code>](https://github.com/linuxmint/cinnamon/commit/5eb3cc20cda05c1bb8f169b4a466899cbbe99390)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon/commit/890f6f7f9741c36aee3b3edce202c97e727fa83b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -232,6 +242,7 @@
   - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e92ed2fa29cccf2882b1c65d4b5b5993283f22b5)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/be4360de3ae8964b8959602939ebfd1e3835621e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
@@ -254,6 +265,7 @@
 - [ ] [<code>gnome-desktop-thumbnail.c: Remove preview icon check in the fallback</code>](https://github.com/linuxmint/cinnamon-desktop/commit/aa7b0299f69ab1df08418486e7f24661ab8d1aa1)
 - [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fa6121f017e004aa6c8ea406ab221f066a06ca2d)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1c41babc8240e65bf5816585ed549997992dacdf)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
@@ -264,6 +276,7 @@
 - [ ] [<code>Handle layout switching thru cinnamon, remove use of XApp. (#477)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/be49027be4760ded47ba219c2fdff5b42fbb44b4)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b35fc4fac71d8da2361239ac753d10e3268b8991)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/550d8d6ed32fdb73de9ee965aaf026fc67a4526d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.2...HEAD)
@@ -277,6 +290,7 @@
 - [ ] [<code>XDG_DATA_DIRS: Do not include /usr/share/gnome</code>](https://github.com/linuxmint/cinnamon-session/commit/df2e8ee9973ac4d426fd577e0daf0f5bc5a1a141)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-session/commit/b2277bfc389552955672dcb0f8d4c2d5285c6bdd)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-session/commit/363d4d0bb5cb58cfd12082fb72fecd9138433736)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
@@ -314,6 +328,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Adapt to removal of -dev package, update .gitignore.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/830463127ea2fb1dcdc0a0edf8febeb94e82d2b1)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/11aaa5580fa0cf9abdc6fe62e9f93badec43f6ca)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
@@ -325,6 +340,7 @@
 #### [cjs](https://github.com/linuxmint/cjs): [1f39576bafe6bc05bce960e590dc743dd7990e39 → HEAD](https://github.com/linuxmint/cjs/compare/1f39576bafe6bc05bce960e590dc743dd7990e39...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cjs/commit/a3184be65fdcfaa4480fc85abb1ba25ec3c3af66)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cjs/commit/9f89ac464ad879a4eb49bba929476ce50dda012b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
@@ -417,6 +433,7 @@
 - [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
 - [ ] [<code>meta-xwayland.c: Fix rebase error.</code>](https://github.com/linuxmint/muffin/commit/f902ccbd8970b195192477e5c1f55f8d8b08e253)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/muffin/commit/8fa68b1a6273d39f67c9d954a8b69d19e288509d)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/muffin/commit/297259ef643b641b1a2d545b4069145a89614104)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
@@ -462,6 +479,9 @@
 - [ ] [<code>Prefix symbolic icons</code>](https://github.com/linuxmint/nemo/commit/d3d78642eeda313da89a0fe7221ccc1d335b0e2e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo/commit/4a71eb533c6eac9bd82a238d826881a0dbb4b0f1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo/commit/032ce13a5a5f1edca811b367a27e8dcf31892afa)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
@@ -475,6 +495,7 @@
 - [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -485,6 +506,7 @@
 - [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -495,10 +517,14 @@
 - [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.7 → HEAD](https://github.com/linuxmint/pix/compare/3.4.7...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/pix/commit/fcb9f33852805eae16132ee0e3f4992505f6f1bf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/pix/commit/38e9ff9af335ab13dd94129adb0b8863fe596b7e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -508,8 +534,10 @@
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>Ipv6 support (#231)</code>](https://github.com/linuxmint/warpinator/commit/70cc5ebe7baf7aaa9498993c4d77f7169f452177)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/warpinator/commit/78fe18d2642412c52d87bf6ab9d19888321d8c22)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.0.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.0.1...HEAD)
@@ -519,10 +547,16 @@
 - [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
 - [ ] [<code>icons: Add common device icons</code>](https://github.com/linuxmint/xapp/commit/68d6830d79769c79dbf34785dd3641eeee8c57d1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>icons: Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xapp/commit/84e74bee17006e169f1b0f3c3e5fb23b66e59a4f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xreader/commit/342ebb5e1a3896f82958302787d6a8d507e64cda)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xreader/commit/4682832acd2b98639dd2bdda31a632e09a392628)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -531,6 +565,9 @@
 
 - [ ] [<code>packaging: Don't depend on a transitional package name</code>](https://github.com/linuxmint/xviewer/commit/b8cc32f70b96a523ea35bc06166aa672dab84ffa)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xviewer/commit/5aeee772dec4b4b93b070b0eff3f6e6b848961b8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xviewer/commit/f1f95e17ff83724128a87af07bf3fb40a7f958bd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -556,12 +593,15 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.3...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/hypnotix/commit/3b3e7946f34672d54d4fa1522ca1770ec20bd5cb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/hypnotix/commit/68f9503808c774a88219dc38954bfeee1f4c3612)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/slick-greeter/commit/4fe939c9bbd6350c67d220409298243ad1f70e98)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/slick-greeter/commit/11e2f046a6f49d0762bb61bf7e4cffaa095791f4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.27 → HEAD](https://github.com/linuxmint/sticky/compare/1.27...HEAD)
@@ -573,6 +613,8 @@
 - [ ] [<code>get_internal_markup(): don't skip a tag due to removing it from a list.</code>](https://github.com/linuxmint/sticky/commit/fc89ec1401003272ea931998897f32b40faf3b78)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/sticky/commit/9caf40a13a25b7c235659a061c586d3f3cd93935)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/sticky/commit/c64b96aa204e2398ee742cd4a5ad16b765bb79fb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -582,6 +624,9 @@
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.4 → HEAD](https://github.com/linuxmint/xed/compare/3.8.4...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xed/commit/383bca022a9d105a3bb8f3f77452d5490879892c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xed/commit/c41ba632bd6f835fec5993ee9fa1cccf7d0d2f89)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -591,4 +636,5 @@
 - [ ] [<code>background.c: Add deprecation note.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c2b3bcc8fadb9cb3de27d974fad679ddf79a540)
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5514bba434a7511f052f6c2e755af0710f23e50a)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b93934b0ca15a2f556f1cd20e2dc7962cf576042)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
