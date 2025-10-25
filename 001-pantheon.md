@@ -130,6 +130,9 @@
 - [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
 - [ ] [<code>Update view after permanent delete of folder containing files (#2624)</code>](https://github.com/elementary/files/commit/c49480a0fdc5d5d7c6f6f11c39c40f55a1db156b)
 - [ ] [<code>Update metainfo for recent merge (#2650)</code>](https://github.com/elementary/files/commit/c636f3f5fd249efc64254a96f7ae0fcb05b5355e)
+- [ ] [<code>Release v7.1.6 (#2652)</code>](https://github.com/elementary/files/commit/94f3aadbeae24e1da53d6e8e83079f991bc60b24)
+  - <sub>Tags: <code>7.1.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -265,6 +268,7 @@
 - [ ] [<code>Fix Clear Screen: Move cursor to line start before feeding clear command (#921)</code>](https://github.com/elementary/terminal/commit/88761f4d0e724c2fadec70d1fb7fbf69c50edb8d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Auto-hide single tab option (#927)</code>](https://github.com/elementary/terminal/commit/4110ae4c6a4f4d4d24b7c0102f6c8d0f39a57762)
+- [ ] [<code>Draft metainfo for v7.1.3 milestone (#928)</code>](https://github.com/elementary/terminal/commit/77c60cad3e472b21e113549e6b9600e2b2c83fc8)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -521,6 +525,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
 - [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
 - [ ] [<code>Suppress "Wi-Fi Networks Available" notifications (#354)</code>](https://github.com/elementary/default-settings/commit/215d3c3f894414b4aacf12cc4f73fd060b11b687)
+- [ ] [<code>Remove outdated x11 overrides (#355)</code>](https://github.com/elementary/default-settings/commit/ad5cf3f49904073772e22c73839df48082061ff3)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
@@ -680,6 +685,7 @@
 - [ ] [<code>FocusManager: fix missing argument in push_modal (#637)</code>](https://github.com/elementary/wingpanel/commit/4476df2573797310e254695a66c099b32afe9736)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel/commit/ed9bd59b691e46b9a8d69ae062794f5b8c5880e7)
 - [ ] [<code>BackgroundManager: fix interaction with show-desktop shortcut (#630)</code>](https://github.com/elementary/wingpanel/commit/73bfb73c9ee49464bbe6cd14e24dae7af03b8b1d)
+- [ ] [<code>Use dark style in greeter session (#611)</code>](https://github.com/elementary/wingpanel/commit/d24a9f2d627e58f66c13df14f0e84c4fcbf09b1d)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
