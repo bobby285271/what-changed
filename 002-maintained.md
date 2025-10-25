@@ -348,6 +348,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e40f04b29507d703b413b514e5544ed201b8d029)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/217104401f3a9aeaad6fb85b9817e5318d674f1b)
+- [ ] [<code>Translations update from Hosted Weblate (#1959)</code>](https://github.com/alainm23/planify/commit/dafdfa3105188dc9b2dc019de43adc7a0cfec6d8)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
