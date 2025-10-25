@@ -176,6 +176,7 @@
 - [ ] [<code>Fix error-path leaks in xfce-desktop-item-edit main</code>](https://github.com/xfce-mirror/libxfce4ui/commit/637deaf54465e053bc68bd64755415168bf26978)
 - [ ] [<code>clipboard-manager: Use GtkClipboard iff image-only format is available</code>](https://github.com/xfce-mirror/libxfce4ui/commit/700678574d5edff83c24f8b105409765b4d764ab)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/libxfce4ui/commit/08742d4b04fdcd66f1cb4d38b7e6c46bd98af900)
+- [ ] [<code>Remove unused macro redefinitions</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fe1c2d5cd5baef5148ae8a16d5bfc5fd19081816)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
