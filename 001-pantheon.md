@@ -121,18 +121,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/feedback/commit/19e1f8be7624d8aa445099227f32c5994b926868)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/feedback/commit/e98a312c8a21cce749d6546606e67e6bb6626b26)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.5 → HEAD](https://github.com/elementary/files/compare/7.1.5...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/files/commit/49c58035e2fa499964a5d33c9e087ac962d38b28)
-- [ ] [<code>Date format: expose setting (#2610)</code>](https://github.com/elementary/files/commit/c0f8e85b50f8d09b2647125bfa48338e00376981)
-- [ ] [<code>Fix freeze when user template dir points at very large directory tree. (#2644)</code>](https://github.com/elementary/files/commit/785a577d3b1bad86622d43d82113bd83c554ea8e)
-- [ ] [<code>Fix expand row of ListView when in Trash (#2648)</code>](https://github.com/elementary/files/commit/9d5d1d658b4ca4d73a0fded29ee255de05948346)
-- [ ] [<code>Add release section for v7.1.6 to date (#2649)</code>](https://github.com/elementary/files/commit/95d761fb9b22c0a48295b11d85e0492578e85e33)
-- [ ] [<code>Update view after permanent delete of folder containing files (#2624)</code>](https://github.com/elementary/files/commit/c49480a0fdc5d5d7c6f6f11c39c40f55a1db156b)
-- [ ] [<code>Update metainfo for recent merge (#2650)</code>](https://github.com/elementary/files/commit/c636f3f5fd249efc64254a96f7ae0fcb05b5355e)
-- [ ] [<code>Release v7.1.6 (#2652)</code>](https://github.com/elementary/files/commit/94f3aadbeae24e1da53d6e8e83079f991bc60b24)
-  - <sub>Tags: <code>7.1.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
