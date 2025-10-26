@@ -243,6 +243,8 @@
 - [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e92ed2fa29cccf2882b1c65d4b5b5993283f22b5)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/be4360de3ae8964b8959602939ebfd1e3835621e)
+- [ ] [<code>Add iso-codes as debian build dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/25a616ec4ee495be3a93e6b757c01f9b0731f558)
+- [ ] [<code>Merge pull request #368 from mamolinux/add-dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/71274a92852ddddb83f6e3d59178cffd67779e33)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
