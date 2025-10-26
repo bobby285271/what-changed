@@ -274,24 +274,8 @@
 - [ ] [<code>Merge pull request #661 from maksim77/fix-mermaid-translation</code>](https://github.com/phase1geo/minder/commit/24f5464c4bfff24c36b7d5dc3ce76dcd530697ae)
 - [ ] [<code>Fixing issue with selection in backspace method.</code>](https://github.com/phase1geo/minder/commit/fa9c0e6d902d6916453c55c3f8c600e5a2611627)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.4.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.4.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
-- [ ] [<code>chore: meson: Remove posix dep (#321)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1b969777c2f2ab81c61c13619beddd7ea11afd55)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>chore: Remove extra single quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c52203aee947fbf47406b098b72f2a1d290d5712)
-- [ ] [<code>switchboard: Update switchboard.git to 8.0.3 (#322)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/147cbbe8bcfebe43abb6155f8b6e4faa720f29c4)
-- [ ] [<code>chore(deps): bump actions/checkout from 4 to 5 (#323)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c3ca4d2a0cb506819bbca3c705dbd8f512340c16)
-- [ ] [<code>chore: Update GNOME platform to 49 (#325)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/efa1894310f6a375bacafe69c2674998e84c6b61)
-- [ ] [<code>docs: README: Fix broken Flathub badge</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9b4b206155ba9fabb053c4dd951039f0a9e44a9c)
-- [ ] [<code>dconf: Update dconf-0.40.0.tar.xz to 0.49.0 (#327)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8abdc5a5107945a0fb1d16eaabfe9200c14c7892)
-- [ ] [<code>fix: Avoid duplicated window controls in the both side of titlebar on Wayland (#328)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b1e9560dfeebcca0b4a996b4af16b127f3496d1d)
-- [ ] [<code>chore: FilesPane: Explicit Date & Time format (#329)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fe1e08445453e09fa1df4ca0ebeb47e056ed2629)
-- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#332)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/21d56d6f34b2d00ddf30fab42f03288157b341b6)
-- [ ] [<code>feat: TerminalPane: Remove 'Never Show Tabs' option (#334)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1908a30ecb9d1c8508cc0f4eb4fca7cb57b878aa)
-- [ ] [<code>chore: flatpak: Update elementary BaseApp to circe-25.08 (#330)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/67a6f8c1007ad09555b8688ff6f7b671e2b98d14)
-- [ ] [<code>chore: Replace deprecated Granite.STYLE_CLASS_DESTRUCTIVE_ACTION (#335)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d3b76e98e01c70a9096efd5c5007a37dbb4d7526)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.15.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.15.1...HEAD)
 
@@ -353,6 +337,7 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e40f04b29507d703b413b514e5544ed201b8d029)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/217104401f3a9aeaad6fb85b9817e5318d674f1b)
 - [ ] [<code>Translations update from Hosted Weblate (#1959)</code>](https://github.com/alainm23/planify/commit/dafdfa3105188dc9b2dc019de43adc7a0cfec6d8)
+- [ ] [<code>Translations update from Hosted Weblate (#1966)</code>](https://github.com/alainm23/planify/commit/8651a90c9ecd28259abde232669d81c93c287951)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
