@@ -245,7 +245,10 @@
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/be4360de3ae8964b8959602939ebfd1e3835621e)
 - [ ] [<code>Add iso-codes as debian build dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/25a616ec4ee495be3a93e6b757c01f9b0731f558)
 - [ ] [<code>Merge pull request #368 from mamolinux/add-dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/71274a92852ddddb83f6e3d59178cffd67779e33)
+- [ ] [<code>iso-codes: Remove unused build dependency (#369)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/883800fbcf38ef671e837b7b26858ec86b8b9f13)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
 
