@@ -123,6 +123,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
+- [ ] [<code>Separate afc fix; use for abstractmountable</code>](https://github.com/elementary/files/commit/265c691793a6ba2dbd5118f0856b6d1f088d8116)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
