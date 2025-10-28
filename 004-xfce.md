@@ -1089,6 +1089,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/aeeeae3fc8d58ab584ba2e279a99ee4917283030)
 - [ ] [<code>manager: Avoid use-after-free in idle function</code>](https://github.com/xfce-mirror/xfce4-session/commit/5eeac16f305ba3ef0b2058b52dd33022a0957f29)
+- [ ] [<code>startxfce4: Prioritize XKBLAYOUT over KEYMAP for kbd layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/b3dfae048024985974c3f63744bc30efeed547e3)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
