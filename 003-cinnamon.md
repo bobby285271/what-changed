@@ -227,9 +227,15 @@
 - [ ] [<code>cinnamon-settings: Add support for mintreport</code>](https://github.com/linuxmint/cinnamon/commit/5eb3cc20cda05c1bb8f169b4a466899cbbe99390)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon/commit/890f6f7f9741c36aee3b3edce202c97e727fa83b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>keyboard layouts: Add shortcuts to switch directly to a layout.</code>](https://github.com/linuxmint/cinnamon/commit/b7a9e0711cc19f5b5fb9ec11fb819bb5be5e34e7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>keybindings: Refactor python keybinding management.</code>](https://github.com/linuxmint/cinnamon/commit/95e9d25b7c3cccc85084cf3a7afaba895eaa8599)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>cinnamon-dbus-command: Make more effort to identify argument types</code>](https://github.com/linuxmint/cinnamon/commit/138b2fcaa222cad6aa17d37e39ee00579ffa5ffd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
