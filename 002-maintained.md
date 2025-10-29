@@ -341,6 +341,7 @@
 - [ ] [<code>Translations update from Hosted Weblate (#1963)</code>](https://github.com/alainm23/planify/commit/5418cb2c81076f3f81cdfafa932715d8ec46879a)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7fe05c0c32cba88d4e52ee7af6f39e32c3643e85)
 - [ ] [<code>Bump actions/upload-artifact from 4 to 5 (#1970)</code>](https://github.com/alainm23/planify/commit/91d590bf4a481364c88434410c709d039dafb326)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6a83f3ef84032df0b674b8bbe4b092b266a4c42e)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
