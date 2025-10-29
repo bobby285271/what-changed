@@ -113,6 +113,8 @@
 - [ ] [<code>Update Granite label styles (#472)</code>](https://github.com/elementary/dock/commit/fc59da6cb560219178a0beb6fdeed5d59958b9fb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Blur: Don't hardcode dock border-radius (#458)</code>](https://github.com/elementary/dock/commit/a292379b1cded02a86da497a149a4e1a0e2914a8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -382,6 +384,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#283)</code>](https://github.com/elementary/switchboard-plug-power/commit/dc896647da08db5a691271173678033fabcaf8de)
+- [ ] [<code>Release 8.1.0 (#284)</code>](https://github.com/elementary/switchboard-plug-power/commit/4d12d0f7135102bba39250955111b0b190c7af6b)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -654,6 +659,9 @@
 - [ ] [<code>StyleManager: store accent color as Clutter/Cogl Color (#2590)</code>](https://github.com/elementary/gala/commit/e673560d54c86dbf1d4d849efd1e584084f1a0e5)
 - [ ] [<code>Check font rendering in mutter 48 (#2592)</code>](https://github.com/elementary/gala/commit/3f04c37e5c4fa943c82c86e86e3dc90a9a853284)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bring back old icon groups (#2595)</code>](https://github.com/elementary/gala/commit/81a3a002e270624bb719900745f11d64dc3d96de)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Prepare metainfo for 8.3.0 (#2599)</code>](https://github.com/elementary/gala/commit/0d69859f15c476b28b88caaeeaa91c9134a42180)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -677,6 +685,7 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel/commit/ed9bd59b691e46b9a8d69ae062794f5b8c5880e7)
 - [ ] [<code>BackgroundManager: fix interaction with show-desktop shortcut (#630)</code>](https://github.com/elementary/wingpanel/commit/73bfb73c9ee49464bbe6cd14e24dae7af03b8b1d)
 - [ ] [<code>Use dark style in greeter session (#611)</code>](https://github.com/elementary/wingpanel/commit/d24a9f2d627e58f66c13df14f0e84c4fcbf09b1d)
+- [ ] [<code>Remove whitelist/blacklist (#641)</code>](https://github.com/elementary/wingpanel/commit/f6c213cdca81a3d5bfe3ff95146bdc2a78d6c378)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
