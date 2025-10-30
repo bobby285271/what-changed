@@ -342,6 +342,13 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7fe05c0c32cba88d4e52ee7af6f39e32c3643e85)
 - [ ] [<code>Bump actions/upload-artifact from 4 to 5 (#1970)</code>](https://github.com/alainm23/planify/commit/91d590bf4a481364c88434410c709d039dafb326)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6a83f3ef84032df0b674b8bbe4b092b266a4c42e)
+- [ ] [<code>Add @ symbol label picker with keyboard navigation and auto-scroll (#1971)</code>](https://github.com/alainm23/planify/commit/8c4fe261aa0242251edbfb91afa073f52af306c3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d79895455c170a6a5af43e1908f3fa0b8c46f480)
+- [ ] [<code>Translations update from Hosted Weblate (#1972)</code>](https://github.com/alainm23/planify/commit/7a9c8f05db3047c14f12a85e5f93f1d94a437872)
+- [ ] [<code>fix i18n</code>](https://github.com/alainm23/planify/commit/d300df1462cad6a9d03216093a94368d64aa52e9)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/35ed50134df7b4057819c691d08d6adef1e5cf9d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
