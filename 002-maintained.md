@@ -349,6 +349,7 @@
 - [ ] [<code>Translations update from Hosted Weblate (#1972)</code>](https://github.com/alainm23/planify/commit/7a9c8f05db3047c14f12a85e5f93f1d94a437872)
 - [ ] [<code>fix i18n</code>](https://github.com/alainm23/planify/commit/d300df1462cad6a9d03216093a94368d64aa52e9)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/35ed50134df7b4057819c691d08d6adef1e5cf9d)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/407538bfda64591eb4f3ed10ef73e06fd0c334fd)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
