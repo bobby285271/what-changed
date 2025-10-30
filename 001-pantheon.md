@@ -95,6 +95,8 @@
 - [ ] [<code>Fix open-folder shortcut (#1640)</code>](https://github.com/elementary/code/commit/a296348b5330b5e6647c58b06e997270a575d534)
 - [ ] [<code>Metainfo for v8.1.2 (#1648)</code>](https://github.com/elementary/code/commit/fe6f69793c3eafeec1984305cb7436f28469551a)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/code/commit/3bdf91d9a1cac2192fa31c8523cb087e030fddec)
+- [ ] [<code>ChooseProjectButton: prevent duplicate projects in dropdown (#1624)</code>](https://github.com/elementary/code/commit/80b785af762f1e704d5279a170da33f8059e72da)
+- [ ] [<code>v8.1.2 metainfo update (#1651)</code>](https://github.com/elementary/code/commit/aa2097e60b732019036afe69f8a71b1fd1174444)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -115,6 +117,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Blur: Don't hardcode dock border-radius (#458)</code>](https://github.com/elementary/dock/commit/a292379b1cded02a86da497a149a4e1a0e2914a8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add issue link for dock bubble animation (#481)</code>](https://github.com/elementary/dock/commit/8d3847c601ec0cae344c9bc4bd4ed188e0437158)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -152,6 +155,7 @@
 - [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/mail/commit/6c2d5b822af65b8ef278dea286e8ce3b726f81fc)
+- [ ] [<code>Metainfo: Add release details for version 8.0.1 (#1030)</code>](https://github.com/elementary/mail/commit/3864e6631cfcff0a2531ae608d19b092f5c1f90f)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -271,6 +275,7 @@
 - [ ] [<code>Actions: Use main branch (#178)</code>](https://github.com/elementary/sideload/commit/4aba945e3fc5ddf045c67c1c90f7b5a71b74b64a)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/sideload/commit/c17168a33f6b18b1dc3403992a62d81c3af8a33b)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/sideload/commit/fac7dde13e260b0a9e2e367570b58dbb602f52ba)
+- [ ] [<code>Metainfo: Add release information for version 6.3.1 (#180)</code>](https://github.com/elementary/sideload/commit/fac82bf731a6894a5f2a461b9a8d69309a3afbc2)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -425,6 +430,7 @@
 - [ ] [<code>Update sound.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sound/commit/89eb995a833be0f7105c630ae4ad7c2d4c794ae3)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sound/commit/88c1e8872bf3451bbb477e074bdb08552d355164)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sound/commit/23a591b6a6a14e9b29ed0f1ce428b9ecc730366d)
+- [ ] [<code>Metainfo: Add release 8.0.2 (#291)</code>](https://github.com/elementary/switchboard-plug-sound/commit/0ce850e0e3c9c166704808e839093a9c48d392b1)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
@@ -532,6 +538,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#256)</code>](https://github.com/elementary/onboarding/commit/7d3e83a275b1cf29e8626a7d0a9e08a846b2224f)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/onboarding/commit/c77340e901da2fbe92c8632dd01d7fa5c3d05002)
 - [ ] [<code>StyleView: wrap sunset-to-sunrise label (#260)</code>](https://github.com/elementary/onboarding/commit/7d25a6f0d7de2b70ddf440f8ce76efc3601bb4bb)
+- [ ] [<code>Metainfo: Add release 8.0.4 (#262)</code>](https://github.com/elementary/onboarding/commit/d969ddaf36daf1afad1a31a8ebd7f5a1e6b0d2a5)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -540,6 +547,8 @@
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [e708fd49356f145acd926d30683012d9488f0f9d → HEAD](https://github.com/elementary/session-settings/compare/e708fd49356f145acd926d30683012d9488f0f9d...HEAD)
 
 - [ ] [<code>l10n: Correct Chinese language codes (#94)</code>](https://github.com/elementary/session-settings/commit/80523895fcf867249219e4cb6ece641ca374e799)
+- [ ] [<code>Release 8.1.0 (#95)</code>](https://github.com/elementary/session-settings/commit/7d66efddcd48d2ab02d53cf13f37bb52e6abaca9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -662,6 +671,12 @@
 - [ ] [<code>Bring back old icon groups (#2595)</code>](https://github.com/elementary/gala/commit/81a3a002e270624bb719900745f11d64dc3d96de)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Prepare metainfo for 8.3.0 (#2599)</code>](https://github.com/elementary/gala/commit/0d69859f15c476b28b88caaeeaa91c9134a42180)
+- [ ] [<code>WindowCloneContainer: use close button size for gaps size (#2602)</code>](https://github.com/elementary/gala/commit/9f461e7d1b76e91af8cac74338a97edbd9ae8d9c)
+- [ ] [<code>Avoid using Gdk.RGBA (#2598)</code>](https://github.com/elementary/gala/commit/26ec725e8f7a0218d1fbb3b28a7aa4651fd30bd4)
+- [ ] [<code>Put X11 DND windows in feedback group (#2594)</code>](https://github.com/elementary/gala/commit/3f61d3ec5afc6cc95d9e6f94f6d8b95431baac74)
+- [ ] [<code>Introduce a first simple test (#2565)</code>](https://github.com/elementary/gala/commit/cec55d95e40eb020b692b1e54db60be3fd40b8f4)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Put menu windows on top (#2591)</code>](https://github.com/elementary/gala/commit/33df064a5c1c35096a7c723a1ffca32417fc6c9a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -967,6 +982,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/pantheon-agent-polkit/commit/cd51af815971cfd7ec1af43b72ac7cb88dc05c63)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a068ef0148de8013ea1e40c33495f146980ee0ee)
 - [ ] [<code>PolkitDialog: use Gtk.PasswordEntry (#91)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/305a4e5d002518573abfe9d1e8554e826f001139)
+- [ ] [<code>Metainfo: Add release notes for version 8.0.2 (#93)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3498403b9fdecb24665bb5cde0aa80e320443702)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
