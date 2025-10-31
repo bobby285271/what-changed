@@ -78,6 +78,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.3.tar.xz to 3.58.0 (#863)</code>](https://github.com/elementary/calendar/commit/a674eac515b16c542dbfe60e0eebaca384ed037d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.0.tar.xz to 3.58.1 (#864)</code>](https://github.com/elementary/calendar/commit/5c1cd714652d25b500da7e90e7fe97be04463e45)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calendar/commit/8aaa145b662629f251b79ad4034229c9835538ce)
+- [ ] [<code>Metainfo: Add release version 8.0.1 (#866)</code>](https://github.com/elementary/calendar/commit/234a365d940db5ab119c5fbbbeb20f98528b8ce5)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -156,6 +157,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/mail/commit/6c2d5b822af65b8ef278dea286e8ce3b726f81fc)
 - [ ] [<code>Metainfo: Add release details for version 8.0.1 (#1030)</code>](https://github.com/elementary/mail/commit/3864e6631cfcff0a2531ae608d19b092f5c1f90f)
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/mail/commit/70b8cb48f2e293213ece7080d1cfa31507822256)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -276,6 +278,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/sideload/commit/c17168a33f6b18b1dc3403992a62d81c3af8a33b)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/sideload/commit/fac7dde13e260b0a9e2e367570b58dbb602f52ba)
 - [ ] [<code>Metainfo: Add release information for version 6.3.1 (#180)</code>](https://github.com/elementary/sideload/commit/fac82bf731a6894a5f2a461b9a8d69309a3afbc2)
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/sideload/commit/a3344b49a11f8b495d2a92b972b98774cbc0d9a4)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -362,6 +365,8 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-notifications/commit/30871784a2ed2ae354a64262ad9b03de48c9d7c9)
 - [ ] [<code>Update notifications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-notifications/commit/6b7ffa2bfbb7c4b96c9716f42d1aa5ada5ab0088)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-notifications/commit/463f6de9f3b4f258507f655403e3e7c80657d44c)
+- [ ] [<code>Add release notes for version 8.0.1 (#118)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/a810cf79f757444abbc84ee2fc2d375548f2d362)
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/switchboard-plug-notifications/commit/748b9ab6ec4b6d60a27be82d2db421ca9a7782d4)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -392,6 +397,7 @@
 - [ ] [<code>Release 8.1.0 (#284)</code>](https://github.com/elementary/switchboard-plug-power/commit/4d12d0f7135102bba39250955111b0b190c7af6b)
   - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/switchboard-plug-power/commit/16258a31e6607d7af728b5a3475333bb23d67005)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -401,6 +407,8 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-printers/commit/b4eeb3966be36a90f8f1e2c0fcfcc9bcfd46533b)
 - [ ] [<code>Update printers.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/c59d197d87b444194745442371610fc7738711fa)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-printers/commit/75293b3e28735d4399533a96faf7eda20369c05e)
+- [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/switchboard-plug-printers/commit/32b07fa43938c9f6d798d81bf0a0e401cbd3191a)
+- [ ] [<code>Add release notes for version 8.0.2 (#218)</code>](https://github.com/elementary/switchboard-plug-printers/commit/274c3c634b7d439ff7d95dc5528d05658d61194e)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
@@ -528,6 +536,9 @@
 - [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
 - [ ] [<code>Suppress "Wi-Fi Networks Available" notifications (#354)</code>](https://github.com/elementary/default-settings/commit/215d3c3f894414b4aacf12cc4f73fd060b11b687)
 - [ ] [<code>Remove outdated x11 overrides (#355)</code>](https://github.com/elementary/default-settings/commit/ad5cf3f49904073772e22c73839df48082061ff3)
+- [ ] [<code>meson: Use built-in symlink creation method (#356)</code>](https://github.com/elementary/default-settings/commit/e69225f3e0e1e029c4332056741c5be343d3da0e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
@@ -548,6 +559,7 @@
 
 - [ ] [<code>l10n: Correct Chinese language codes (#94)</code>](https://github.com/elementary/session-settings/commit/80523895fcf867249219e4cb6ece641ca374e799)
 - [ ] [<code>Release 8.1.0 (#95)</code>](https://github.com/elementary/session-settings/commit/7d66efddcd48d2ab02d53cf13f37bb52e6abaca9)
+  - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
@@ -677,6 +689,11 @@
 - [ ] [<code>Introduce a first simple test (#2565)</code>](https://github.com/elementary/gala/commit/cec55d95e40eb020b692b1e54db60be3fd40b8f4)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Put menu windows on top (#2591)</code>](https://github.com/elementary/gala/commit/33df064a5c1c35096a7c723a1ffca32417fc6c9a)
+- [ ] [<code>Scale active shape with monitor scale (#2607)</code>](https://github.com/elementary/gala/commit/54c09c1c93d7e9711b79cad9dfb00a01a574eff9)
+- [ ] [<code>CloseButton: make monitor scale settable (#2601)</code>](https://github.com/elementary/gala/commit/d23fdb804ec11c7600d30521e132cb13fc48c484)
+- [ ] [<code>Scale tooltip corner radius (#2597)</code>](https://github.com/elementary/gala/commit/3458e117e87755524578878fde052c55d099c984)
+- [ ] [<code>ActiveShape: use more opaque accent color (#2604)</code>](https://github.com/elementary/gala/commit/099cd69095d09a0b2c02fdc3d8a83f59c5d5ef07)
+- [ ] [<code>WindowSwitcher: correctly scale icons and rounded corners (#2606)</code>](https://github.com/elementary/gala/commit/1c70d89fa72a26a5a9672bac54472bbf40876e6a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -749,6 +766,7 @@
 - [ ] [<code>Update view icons</code>](https://github.com/elementary/applications-menu/commit/82aacda23ff54d707173e09acfaacc41f9a2057f)
 - [ ] [<code>Actions: Use main branch (#674)</code>](https://github.com/elementary/applications-menu/commit/3de16977ab736d875a4e133615647988f9a54f76)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/applications-menu/commit/e031f5c780bed988f3fa2f1c72bb2daf71361037)
+- [ ] [<code>Metainfo: Add release 8.0.2 (#678)</code>](https://github.com/elementary/applications-menu/commit/b1494dd3234772f3469091af442b098edc26ace8)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
