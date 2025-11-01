@@ -19,6 +19,8 @@
 - [ ] [<code>Package: Remove some unused methods and signals (#2366)</code>](https://github.com/elementary/appcenter/commit/5a579f54e557c90787b100454df6bf91541acb67)
 - [ ] [<code>Remove unused signal (#2370)</code>](https://github.com/elementary/appcenter/commit/528fcad533ca273c3ac658fc62da0ac4f66cdc48)
 - [ ] [<code>Remove unused job types and args (#2369)</code>](https://github.com/elementary/appcenter/commit/65352ca8f0a8b299052ac8309a684ddee8fbd873)
+- [ ] [<code>Metainfo: Add release notes for 8.3.2</code>](https://github.com/elementary/appcenter/commit/88621c22e616e2af5c0aeaccd1352ab97ba36083)
+- [ ] [<code>Fix typo in issue description</code>](https://github.com/elementary/appcenter/commit/1029b4fd074ae6663eda2cc1696bda902e8d80a0)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -98,6 +100,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/code/commit/3bdf91d9a1cac2192fa31c8523cb087e030fddec)
 - [ ] [<code>ChooseProjectButton: prevent duplicate projects in dropdown (#1624)</code>](https://github.com/elementary/code/commit/80b785af762f1e704d5279a170da33f8059e72da)
 - [ ] [<code>v8.1.2 metainfo update (#1651)</code>](https://github.com/elementary/code/commit/aa2097e60b732019036afe69f8a71b1fd1174444)
+- [ ] [<code>Fix typo in .desktop file (#1652)</code>](https://github.com/elementary/code/commit/f7771ee60b2c543eb89f44f7ba375e07d078ee0a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -130,6 +134,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
 - [ ] [<code>Separate afc fix; use for abstractmountable</code>](https://github.com/elementary/files/commit/265c691793a6ba2dbd5118f0856b6d1f088d8116)
+- [ ] [<code>Revert "Separate afc fix; use for abstractmountable" (#2655)</code>](https://github.com/elementary/files/commit/cda7466409dd7d6a517dae7b49850602698b83da)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -382,22 +387,9 @@
 - [ ] [<code>Actions: Use main branch (#453)</code>](https://github.com/elementary/settings-desktop/commit/0d098e77f090079766274a42dada7d8ac0271bc1)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#454)</code>](https://github.com/elementary/settings-desktop/commit/e7a3111ee1b4714ea2e8620f02b8f2717fa88b77)
 
-#### [pantheon.switchboard-plug-power](https://github.com/elementary/switchboard-plug-power): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-power/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#279)</code>](https://github.com/elementary/switchboard-plug-power/commit/4e0cf13430b7da4e614302ba07cc12fd24cafefa)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-power/commit/8cf66d26602578dc800f2ad68bb01e7ccf71f5eb)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-power/commit/b7bd204c006989fe6f789be80f3f9ff9f783b77c)
-- [ ] [<code>Update power.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-power/commit/d2e21c50a1673e16d063a510afe7ebf15b5216d5)
-- [ ] [<code>TimeoutComboBox: port to Gtk.DropDown (#281)</code>](https://github.com/elementary/switchboard-plug-power/commit/498d23f3f3519b85787874b7934e950cbb6cd948)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>TimeoutComboBox: warn about high energy usage (#282)</code>](https://github.com/elementary/switchboard-plug-power/commit/49f8644d0feab8eabe5bcd769f41f30ed220c0a2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#283)</code>](https://github.com/elementary/switchboard-plug-power/commit/dc896647da08db5a691271173678033fabcaf8de)
-- [ ] [<code>Release 8.1.0 (#284)</code>](https://github.com/elementary/switchboard-plug-power/commit/4d12d0f7135102bba39250955111b0b190c7af6b)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/switchboard-plug-power/commit/16258a31e6607d7af728b5a3475333bb23d67005)
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/settings-power/commit/16258a31e6607d7af728b5a3475333bb23d67005)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
 
@@ -511,6 +503,12 @@
 - [ ] [<code>Add dialog-objects for Inkscape (#1387)</code>](https://github.com/elementary/icons/commit/8f49e762bb4f52dd4351424dc6091de64a52309d)
 - [ ] [<code>Add dialog-fill-and-stroke for Inkscape (#1384)</code>](https://github.com/elementary/icons/commit/48ccc4d3ddb2a0562dadb14fea29814f6b8852d8)
 - [ ] [<code>Add missing mint-green path boolean operation Inkscape icons (#1391)</code>](https://github.com/elementary/icons/commit/ca50763dab85c4b50be72aeddb9966676032f63e)
+- [ ] [<code>Metainfo: Add release 8.2.0 (#1393)</code>](https://github.com/elementary/icons/commit/1cd03fad18327d5bc272f2a4ed9ea63e5df00a82)
+- [ ] [<code>Redesign changes-allow (#1372)</code>](https://github.com/elementary/icons/commit/a6e81fc7cd73fcb09b78811534b141af81ee1e90)
+- [ ] [<code>Metainfo: don't translate releases (#1395)</code>](https://github.com/elementary/icons/commit/94fbad1e81580ace8c385962bf6ed4e4caddb9e4)
+- [ ] [<code>Release 8.2.0 (#1394)</code>](https://github.com/elementary/icons/commit/6ddbb535af70a5ceeff5e1fec05d9b0562641b2a)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -978,6 +976,7 @@
 - [ ] [<code>Move send_sound from Server to Application (#269)</code>](https://github.com/elementary/notifications/commit/b39f66f209601764fb86555547bd93cc00b61083)
 - [ ] [<code>Move CloseReason to AbstractBubble (#270)</code>](https://github.com/elementary/notifications/commit/badc062d97202303ba9df87c44a595cab605cf44)
 - [ ] [<code>CSS: rounder notification, flatter close button (#273)</code>](https://github.com/elementary/notifications/commit/8a5ac355cf78506dc5c4be7ad40dacb004fa0c26)
+- [ ] [<code>Metainfo: Add 8.1.1 release information (#275)</code>](https://github.com/elementary/notifications/commit/dc5d4f05cdd595434fcec2fdfcf0f0e1ee700564)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
