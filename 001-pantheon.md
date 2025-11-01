@@ -339,6 +339,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#549)</code>](https://github.com/elementary/settings-keyboard/commit/5c9d4c78495643a18a2ebd129f8c85c9ffd4a6f2)
 - [ ] [<code>Layout: arrange vertically (#502)</code>](https://github.com/elementary/settings-keyboard/commit/47a1b7c7d188078c98ff4ea7dcaa39b77657ac35)
 - [ ] [<code>Update LINGUAS</code>](https://github.com/elementary/settings-keyboard/commit/344398b9a510120753311e1021d7c8afb0ca5017)
+- [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
 
@@ -553,12 +554,8 @@
 
 - [ ] [<code>Add COPYING</code>](https://github.com/elementary/print/commit/c92021f6b79536cea005d112a53e2bcaeb5ac88e)
 
-#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [e708fd49356f145acd926d30683012d9488f0f9d → HEAD](https://github.com/elementary/session-settings/compare/e708fd49356f145acd926d30683012d9488f0f9d...HEAD)
+#### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/session-settings/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>l10n: Correct Chinese language codes (#94)</code>](https://github.com/elementary/session-settings/commit/80523895fcf867249219e4cb6ece641ca374e799)
-- [ ] [<code>Release 8.1.0 (#95)</code>](https://github.com/elementary/session-settings/commit/7d66efddcd48d2ab02d53cf13f37bb52e6abaca9)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
