@@ -457,59 +457,8 @@
 - [ ] [<code>Fix Latte palette is built partially (#1340)</code>](https://github.com/elementary/stylesheet/commit/62ae8c41366d6ce2012da9861fb533860955fae3)
 - [ ] [<code>CheckButtons: Support Latte (#1341)</code>](https://github.com/elementary/stylesheet/commit/03b74e7f2a7e84eae0eb2fbdb13896b2480b0291)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [8.1.0 → HEAD](https://github.com/elementary/icons/compare/8.1.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/8.2.0...HEAD)
 
-- [ ] [<code>Install scalable cursor theme (#1324)</code>](https://github.com/elementary/icons/commit/2cd60b99db76cf1afcd9da561be69573fef986c1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add more dnd-* symlinks (#1327)</code>](https://github.com/elementary/icons/commit/50ed3626513647c277c323b4044e7ac49eb291b0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update placement of palette file, add support for local flatpack inst… (#1328)</code>](https://github.com/elementary/icons/commit/cf3540b017a108dde880149c877a48c0b56a605b)
-- [ ] [<code>Actions: Match `tool-pointer` and `tool-node-editor` to new cursor shapes (#1329)</code>](https://github.com/elementary/icons/commit/3aa99e1ea7a90db14163c13cdf57b0710b794104)
-- [ ] [<code>Devices: add scroll wheel to mouse (#1310)</code>](https://github.com/elementary/icons/commit/b33125eefb60c445d93ec108e45f29ae1176ee81)
-- [ ] [<code>Compose mime-types during the build process (#1334)</code>](https://github.com/elementary/icons/commit/13dbb8afd688ab4a1ba76827ccd1f3e279ada31e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Places: New design for folder icons (#1311)</code>](https://github.com/elementary/icons/commit/39e8a294217dd14102567286b39244c4a62dbbc4)
-- [ ] [<code>Places: add start-here (#1339)</code>](https://github.com/elementary/icons/commit/038e071488b0e1cddd7c48fe18633a44a9fb8907)
-- [ ] [<code>Actions: add 24px list-add-symbolic (#1341)</code>](https://github.com/elementary/icons/commit/557bdcc733e832b23dee581c2e7fd0cb0fe7f465)
-- [ ] [<code>Places: Create symlinks in Meson (#1342)</code>](https://github.com/elementary/icons/commit/87ab0654a8455cf146ad7ff8253ffdd6e9ccb2b1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Categories: outline style for applications-internet-symbolic (#1343)</code>](https://github.com/elementary/icons/commit/720b0765ad97b42a74f92e79f4bbd052a03313f9)
-- [ ] [<code>Mimes: Copy base files for templates at build time (#1346)</code>](https://github.com/elementary/icons/commit/0596236da3937fedcc3c8b2eba01bbdf65345ea1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove media-memory (#1348)</code>](https://github.com/elementary/icons/commit/8297fdd09bdc5a20715df4de5e9f653b04c66fc3)
-- [ ] [<code>Prep palette file for Inkscape (#1349)</code>](https://github.com/elementary/icons/commit/8558ac7d785129276ff1df53e03f3ac790160dfb)
-- [ ] [<code>Devices: differentiate keyboard from keyboard preferences (#1352)</code>](https://github.com/elementary/icons/commit/fbd1e2fcfa4ffbd5d655f4aa312d7ec75b04b19f)
-- [ ] [<code>Places: fix misnamed symbolic folder-remote (#1354)</code>](https://github.com/elementary/icons/commit/2aa22399cb3c4e0d94f497af24236728c6d22b0c)
-- [ ] [<code>Places: fix naming of network-workgroup-symbolic (#1355)</code>](https://github.com/elementary/icons/commit/821f0d14cf7e11bb88f50992b4dc2df435521839)
-- [ ] [<code>Use `system-help` as central "question mark" icon (#1351)</code>](https://github.com/elementary/icons/commit/15e7bee508fc31869fee659156c15b29148e59a8)
-- [ ] [<code>Actions: Remove view-filter (#1356)</code>](https://github.com/elementary/icons/commit/a8e06ebc4defc102ce136321feacea54d27916a2)
-- [ ] [<code>Applications: Add cab fill to `system-software-install` at 16x (#1358)</code>](https://github.com/elementary/icons/commit/e41276acdde831e15ec9740e0db87433de99e02f)
-- [ ] [<code>Applications: Fix rim lighting stops at 16x (#1359)</code>](https://github.com/elementary/icons/commit/311e1a52520701333f425271bd07c217e5c382da)
-- [ ] [<code>Actions: round find-location (#1360)</code>](https://github.com/elementary/icons/commit/edb0bd3a4355cb797da083b7af5a1558601c97ea)
-- [ ] [<code>Actions: Use main branch (#1364)</code>](https://github.com/elementary/icons/commit/53b79efd97b00c8c3953354c1dee14b4a8585a52)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/icons/commit/61219b81cd3dc5bbaf279d87cadb4580e57fe955)
-- [ ] [<code>Use Adwaita as a fallback icon theme (#1365)</code>](https://github.com/elementary/icons/commit/3aceb24f390bd8ded062e114681d6f35463de462)
-- [ ] [<code>Remove visual artifact from 16px edit-paste icon (#1367)</code>](https://github.com/elementary/icons/commit/192a8c85daae46f71f00eae04ef34f4baa667c28)
-- [ ] [<code>Add symlinks for Inkscape lock/unlock icons (#1370)</code>](https://github.com/elementary/icons/commit/82547596308e32687ba5a511c7b874b1221a2805)
-- [ ] [<code>Add 16px document-properties (#1374)</code>](https://github.com/elementary/icons/commit/c71216a8e8e5b5cec1c67d77d9646c1d164d44f8)
-- [ ] [<code>Add 16px preferences-desktop-keyboard/accessories-character-map (#1375)</code>](https://github.com/elementary/icons/commit/c9544341e5a426aea0cd75c3c0658bb96b9d2331)
-- [ ] [<code>Add 16px preferences-system (#1373)</code>](https://github.com/elementary/icons/commit/a5ca576d4c3319af7ba3f8db52318ad5a103fe67)
-- [ ] [<code>Add dialog-extensions symlink for Inkscape (#1376)</code>](https://github.com/elementary/icons/commit/4f7f94b3c572686e6a4c4271f022e8a9ec080117)
-- [ ] [<code>Add dialog-memory symlink for Inkscape (#1377)</code>](https://github.com/elementary/icons/commit/fec1d07b7a8668bbd6d888f4c8bd861223ffd322)
-- [ ] [<code>Add edit-undo-history symlink for Inkscape (#1378)</code>](https://github.com/elementary/icons/commit/041758e73907043dfcb99a7b3d6d5c0815c52cc1)
-- [ ] [<code>Add font_collections for Inkscape (#1386)</code>](https://github.com/elementary/icons/commit/62bf241991f4a2e28bc25a4b4a6a9a783663cd1d)
-- [ ] [<code>Add dialog-object-properties for Inkscape (#1382)</code>](https://github.com/elementary/icons/commit/6dbb233622cde676d6d4738937e1bc7426478392)
-- [ ] [<code>Add dialog-xml-editor, dialog-selectors and dialog-scripts for Inkscape (#1381)</code>](https://github.com/elementary/icons/commit/ca652d1125809d8cf64a2bdbca3fe34f6c330171)
-- [ ] [<code>Add hide/unhide icons for Inkscape (#1371)</code>](https://github.com/elementary/icons/commit/82b60ef80e88d7bd1ceb5da22b61acbea4935202)
-- [ ] [<code>Add dialog-objects for Inkscape (#1387)</code>](https://github.com/elementary/icons/commit/8f49e762bb4f52dd4351424dc6091de64a52309d)
-- [ ] [<code>Add dialog-fill-and-stroke for Inkscape (#1384)</code>](https://github.com/elementary/icons/commit/48ccc4d3ddb2a0562dadb14fea29814f6b8852d8)
-- [ ] [<code>Add missing mint-green path boolean operation Inkscape icons (#1391)</code>](https://github.com/elementary/icons/commit/ca50763dab85c4b50be72aeddb9966676032f63e)
-- [ ] [<code>Metainfo: Add release 8.2.0 (#1393)</code>](https://github.com/elementary/icons/commit/1cd03fad18327d5bc272f2a4ed9ea63e5df00a82)
-- [ ] [<code>Redesign changes-allow (#1372)</code>](https://github.com/elementary/icons/commit/a6e81fc7cd73fcb09b78811534b141af81ee1e90)
-- [ ] [<code>Metainfo: don't translate releases (#1395)</code>](https://github.com/elementary/icons/commit/94fbad1e81580ace8c385962bf6ed4e4caddb9e4)
-- [ ] [<code>Release 8.2.0 (#1394)</code>](https://github.com/elementary/icons/commit/6ddbb535af70a5ceeff5e1fec05d9b0562641b2a)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
