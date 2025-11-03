@@ -135,6 +135,9 @@
 
 - [ ] [<code>Separate afc fix; use for abstractmountable</code>](https://github.com/elementary/files/commit/265c691793a6ba2dbd5118f0856b6d1f088d8116)
 - [ ] [<code>Revert "Separate afc fix; use for abstractmountable" (#2655)</code>](https://github.com/elementary/files/commit/cda7466409dd7d6a517dae7b49850602698b83da)
+- [ ] [<code>Add compact dateformat mode (#2646)</code>](https://github.com/elementary/files/commit/b00edf9e59a034890bf68c65253e6277ea3327aa)
+- [ ] [<code>Add hidden_label;  Add update_empty_labels ()</code>](https://github.com/elementary/files/commit/6df80846c9afb3deecf3dc0cd062ea4db784e75a)
+- [ ] [<code>Revert "Add hidden_label;  Add update_empty_labels ()"</code>](https://github.com/elementary/files/commit/5ace4b5dad43fb7886d2cad8a355d6929cf50b9f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -978,6 +981,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#780)</code>](https://github.com/elementary/os/commit/b6ce151280dc9d1a6a72793188c5ec7d537683a8)
   - <sub>Tags: <code>8.0.2</code> <code>8.0.2-rc2</code></sub>
 - [ ] [<code>master → main (#781)</code>](https://github.com/elementary/os/commit/8b80b0c1ee74b01217a32864ddaa9ad80a2b0e3b)
+- [ ] [<code>remove rc suffix (#787)</code>](https://github.com/elementary/os/commit/00cdd3b449a36278a3b686476abf90410cada174)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
