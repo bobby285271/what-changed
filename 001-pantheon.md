@@ -138,6 +138,7 @@
 - [ ] [<code>Add compact dateformat mode (#2646)</code>](https://github.com/elementary/files/commit/b00edf9e59a034890bf68c65253e6277ea3327aa)
 - [ ] [<code>Add hidden_label;  Add update_empty_labels ()</code>](https://github.com/elementary/files/commit/6df80846c9afb3deecf3dc0cd062ea4db784e75a)
 - [ ] [<code>Revert "Add hidden_label;  Add update_empty_labels ()"</code>](https://github.com/elementary/files/commit/5ace4b5dad43fb7886d2cad8a355d6929cf50b9f)
+- [ ] [<code>Fix pathbar flicker (#2660)</code>](https://github.com/elementary/files/commit/88f7efc11f7684f7369ffec237c67efad92db4a7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -982,6 +983,7 @@
   - <sub>Tags: <code>8.0.2</code> <code>8.0.2-rc2</code></sub>
 - [ ] [<code>master → main (#781)</code>](https://github.com/elementary/os/commit/8b80b0c1ee74b01217a32864ddaa9ad80a2b0e3b)
 - [ ] [<code>remove rc suffix (#787)</code>](https://github.com/elementary/os/commit/00cdd3b449a36278a3b686476abf90410cada174)
+- [ ] [<code>ARM support for stable workflow (#786)</code>](https://github.com/elementary/os/commit/4abf2d8a3cd6cf4c63d0612f621f7cb269564838)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
