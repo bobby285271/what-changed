@@ -130,6 +130,7 @@
 - [ ] [<code>Actions: Use main branch (#118)</code>](https://github.com/elementary/feedback/commit/2c018983faa4ed9889ddc15bb098c1783cb6a69d)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/feedback/commit/19e1f8be7624d8aa445099227f32c5994b926868)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/feedback/commit/e98a312c8a21cce749d6546606e67e6bb6626b26)
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#121)</code>](https://github.com/elementary/feedback/commit/50d0f05988ae677a1d611712ea9433cc3f476a1d)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -309,6 +310,7 @@
 - [ ] [<code>Actions: Use main branch (#382)</code>](https://github.com/elementary/switchboard-plug-about/commit/2991c2d71ed58ad76699c26d73a329aa2c54404d)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#383)</code>](https://github.com/elementary/switchboard-plug-about/commit/08ae1106ac671061a5a55c327c77f72831d62589)
 - [ ] [<code>Metainfo: update URLS</code>](https://github.com/elementary/switchboard-plug-about/commit/4abf3da689a0af83583cce201a091fefad7ec3bf)
+- [ ] [<code>Metainfo: Add release notes for version 8.2.2 (#388)</code>](https://github.com/elementary/switchboard-plug-about/commit/faa5a39d30fb6d8aaab8b6525748025083ca852f)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
@@ -391,6 +393,7 @@
 - [ ] [<code>Appearance: update dock style (#452)</code>](https://github.com/elementary/settings-desktop/commit/3e92ce82aa64a7db57e638edcdd78914382b23ed)
 - [ ] [<code>Actions: Use main branch (#453)</code>](https://github.com/elementary/settings-desktop/commit/0d098e77f090079766274a42dada7d8ac0271bc1)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#454)</code>](https://github.com/elementary/settings-desktop/commit/e7a3111ee1b4714ea2e8620f02b8f2717fa88b77)
+- [ ] [<code>Metainfo: Add release 8.2.1 (#460)</code>](https://github.com/elementary/settings-desktop/commit/ea646b4e5cdc987215f1fe6bb8730619f383e8b0)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -418,6 +421,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#190)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/f3a03b01024f26e5564a49161f4cf2a8df4de10e)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/cf09da24fbb00612e46b5428646221f65c9276fa)
 - [ ] [<code>Update security-privacy.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a0c540633faa57eadc5f18de2aa6c2cad2329abd)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#192)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ffb12be41d9cad28a9a722daf6af0ae355baee21)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
