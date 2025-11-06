@@ -102,6 +102,9 @@
 - [ ] [<code>v8.1.2 metainfo update (#1651)</code>](https://github.com/elementary/code/commit/aa2097e60b732019036afe69f8a71b1fd1174444)
 - [ ] [<code>Fix typo in .desktop file (#1652)</code>](https://github.com/elementary/code/commit/f7771ee60b2c543eb89f44f7ba375e07d078ee0a)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Release v8.1.2 (#1650)</code>](https://github.com/elementary/code/commit/1293fb3f478fe39381ecdf916903819a57665bb7)
+  - <sub>Tags: <code>8.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -646,6 +649,10 @@
 - [ ] [<code>Scale tooltip corner radius (#2597)</code>](https://github.com/elementary/gala/commit/3458e117e87755524578878fde052c55d099c984)
 - [ ] [<code>ActiveShape: use more opaque accent color (#2604)</code>](https://github.com/elementary/gala/commit/099cd69095d09a0b2c02fdc3d8a83f59c5d5ef07)
 - [ ] [<code>WindowSwitcher: correctly scale icons and rounded corners (#2606)</code>](https://github.com/elementary/gala/commit/1c70d89fa72a26a5a9672bac54472bbf40876e6a)
+- [ ] [<code>Add latest issue fixes to Metainfo (#2618)</code>](https://github.com/elementary/gala/commit/c40b3eaf1f12e9eecac140bdd6b9984a897a801a)
+- [ ] [<code>Release 8.3.0 (#2608)</code>](https://github.com/elementary/gala/commit/608d13719c3c21d26336aa78857f2e11a9bc0aea)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
