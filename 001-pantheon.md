@@ -126,6 +126,8 @@
 - [ ] [<code>Blur: Don't hardcode dock border-radius (#458)</code>](https://github.com/elementary/dock/commit/a292379b1cded02a86da497a149a4e1a0e2914a8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add issue link for dock bubble animation (#481)</code>](https://github.com/elementary/dock/commit/8d3847c601ec0cae344c9bc4bd4ed188e0437158)
+- [ ] [<code>Default to building workspace switcher (#492)</code>](https://github.com/elementary/dock/commit/d6dea6e47017df9d44bfff522df617e374d5b1d7)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -677,6 +679,9 @@
 - [ ] [<code>BackgroundManager: fix interaction with show-desktop shortcut (#630)</code>](https://github.com/elementary/wingpanel/commit/73bfb73c9ee49464bbe6cd14e24dae7af03b8b1d)
 - [ ] [<code>Use dark style in greeter session (#611)</code>](https://github.com/elementary/wingpanel/commit/d24a9f2d627e58f66c13df14f0e84c4fcbf09b1d)
 - [ ] [<code>Remove whitelist/blacklist (#641)</code>](https://github.com/elementary/wingpanel/commit/f6c213cdca81a3d5bfe3ff95146bdc2a78d6c378)
+- [ ] [<code>wingpanel-interface: Require Gala 8.3.0 (#642)</code>](https://github.com/elementary/wingpanel/commit/1caa5a6406ad7b205234798698ab1653617a1345)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
