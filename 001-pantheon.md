@@ -181,6 +181,7 @@
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.0...HEAD)
 
+- [ ] [<code>Update deprecated Granite css classes usage (#492)</code>](https://github.com/elementary/monitor/commit/5f73aea16653da3a03fce52e12da0b96a241d5ed)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
