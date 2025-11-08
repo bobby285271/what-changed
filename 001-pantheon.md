@@ -86,25 +86,8 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [8.1.1 → HEAD](https://github.com/elementary/code/compare/8.1.1...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.1.2...HEAD)
 
-- [ ] [<code>Profiling: Enable profiling in code using google-perftools (#1539)</code>](https://github.com/elementary/code/commit/49d043084e54ecaf18719f7a2f8765163d10adfb)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>Cloning: Show progress in sidebar (#1641)</code>](https://github.com/elementary/code/commit/c941d9cb3a33965c255321cc0fd293882c26bf74)
-- [ ] [<code>Consistent search settings between document search and global search (#1623)</code>](https://github.com/elementary/code/commit/f38921691e3e5e7c14bf106f890f8c9e86170638)
-- [ ] [<code>SymbolPane: improve tooltips for C tags (#1636)</code>](https://github.com/elementary/code/commit/27db85a53088ad0f302006baf7f5468541ce22d6)
-- [ ] [<code>Sidebar: Put stack and toast in overlay (#1647)</code>](https://github.com/elementary/code/commit/5fc9112cb508863c7797c2b656e46d808c5eec5c)
-- [ ] [<code>Fix open-folder shortcut (#1640)</code>](https://github.com/elementary/code/commit/a296348b5330b5e6647c58b06e997270a575d534)
-- [ ] [<code>Metainfo for v8.1.2 (#1648)</code>](https://github.com/elementary/code/commit/fe6f69793c3eafeec1984305cb7436f28469551a)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/code/commit/3bdf91d9a1cac2192fa31c8523cb087e030fddec)
-- [ ] [<code>ChooseProjectButton: prevent duplicate projects in dropdown (#1624)</code>](https://github.com/elementary/code/commit/80b785af762f1e704d5279a170da33f8059e72da)
-- [ ] [<code>v8.1.2 metainfo update (#1651)</code>](https://github.com/elementary/code/commit/aa2097e60b732019036afe69f8a71b1fd1174444)
-- [ ] [<code>Fix typo in .desktop file (#1652)</code>](https://github.com/elementary/code/commit/f7771ee60b2c543eb89f44f7ba375e07d078ee0a)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Release v8.1.2 (#1650)</code>](https://github.com/elementary/code/commit/1293fb3f478fe39381ecdf916903819a57665bb7)
-  - <sub>Tags: <code>8.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -145,6 +128,11 @@
 - [ ] [<code>Add hidden_label;  Add update_empty_labels ()</code>](https://github.com/elementary/files/commit/6df80846c9afb3deecf3dc0cd062ea4db784e75a)
 - [ ] [<code>Revert "Add hidden_label;  Add update_empty_labels ()"</code>](https://github.com/elementary/files/commit/5ace4b5dad43fb7886d2cad8a355d6929cf50b9f)
 - [ ] [<code>Fix pathbar flicker (#2660)</code>](https://github.com/elementary/files/commit/88f7efc11f7684f7369ffec237c67efad92db4a7)
+- [ ] [<code>Discontinue help action and shortcut (#2664)</code>](https://github.com/elementary/files/commit/c8e65481e520e99a42f9e2b713343bd3461cf4e1)
+- [ ] [<code>Only allow setting default app for regular files, not folders (#2665)</code>](https://github.com/elementary/files/commit/f14642493101421625c325c1190b5df928ccd85f)
+- [ ] [<code>Fix destination icon in file conflict dialog (#2656)</code>](https://github.com/elementary/files/commit/e5e898efe70d0a6db138b074d8ce06f2a3502864)
+- [ ] [<code>Pad the formatted datetime (#2666)</code>](https://github.com/elementary/files/commit/d397a94c7217db4dc708c2c50dbaa9b994b54041)
+- [ ] [<code>Add metainfo for v7.2.0  (#2671)</code>](https://github.com/elementary/files/commit/57f95bd9c9e9ae331f15abd2fb2a0fc4ac896e67)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -182,6 +170,7 @@
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.0...HEAD)
 
 - [ ] [<code>Update deprecated Granite css classes usage (#492)</code>](https://github.com/elementary/monitor/commit/5f73aea16653da3a03fce52e12da0b96a241d5ed)
+- [ ] [<code>Set gtk-alternative-sort-arrows to false (#491)</code>](https://github.com/elementary/monitor/commit/e42a91564b76e9221064adf0cca58b85b662e460)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -284,6 +273,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Auto-hide single tab option (#927)</code>](https://github.com/elementary/terminal/commit/4110ae4c6a4f4d4d24b7c0102f6c8d0f39a57762)
 - [ ] [<code>Draft metainfo for v7.1.3 milestone (#928)</code>](https://github.com/elementary/terminal/commit/77c60cad3e472b21e113549e6b9600e2b2c83fc8)
+- [ ] [<code>Disable secondary-click actions while a foreground process is running (#933)</code>](https://github.com/elementary/terminal/commit/801640c8472bdc8523b65a4643b3c566785aab34)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -307,6 +297,7 @@
 - [ ] [<code>Update Granite label styles (#364)</code>](https://github.com/elementary/switchboard/commit/72bde971ccf4bc2054244c19b28245ae1db981ac)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Only run in Pantheon (#367)</code>](https://github.com/elementary/switchboard/commit/859cb3d33b4e2e073b526182723823f541944016)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -656,6 +647,7 @@
 - [ ] [<code>Release 8.3.0 (#2608)</code>](https://github.com/elementary/gala/commit/608d13719c3c21d26336aa78857f2e11a9bc0aea)
   - <sub>Tags: <code>8.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Gestures: Keep smooth progress even with disabled animations (#2621)</code>](https://github.com/elementary/gala/commit/6f621bcd0bbb7835949addc33109c208038b5a41)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -944,6 +936,9 @@
 - [ ] [<code>Move CloseReason to AbstractBubble (#270)</code>](https://github.com/elementary/notifications/commit/badc062d97202303ba9df87c44a595cab605cf44)
 - [ ] [<code>CSS: rounder notification, flatter close button (#273)</code>](https://github.com/elementary/notifications/commit/8a5ac355cf78506dc5c4be7ad40dacb004fa0c26)
 - [ ] [<code>Metainfo: Add 8.1.1 release information (#275)</code>](https://github.com/elementary/notifications/commit/dc5d4f05cdd595434fcec2fdfcf0f0e1ee700564)
+- [ ] [<code>Release 8.1.1 (#276)</code>](https://github.com/elementary/notifications/commit/c03fd642245dce3a08e0f110dda476315f2f913c)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
