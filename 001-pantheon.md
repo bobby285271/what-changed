@@ -495,6 +495,7 @@
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
+- [ ] [<code>Fix CSS typo (#834)</code>](https://github.com/elementary/greeter/commit/fdec4bb910bd8de2301c95819f6bf32067e85d61)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -648,6 +649,10 @@
   - <sub>Tags: <code>8.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gestures: Keep smooth progress even with disabled animations (#2621)</code>](https://github.com/elementary/gala/commit/6f621bcd0bbb7835949addc33109c208038b5a41)
+- [ ] [<code>WindowClone: Fix some warnings on allocate (#2610)</code>](https://github.com/elementary/gala/commit/55ff1c96535a440ac10ab884c462b999830eac42)
+- [ ] [<code>daemon-gtk3: include css (#2626)</code>](https://github.com/elementary/gala/commit/2093875b3f44e875a2f7d0fa8a4d4216d62c0827)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix several interactions with disabled animations (#2622)</code>](https://github.com/elementary/gala/commit/91e65ff436da782f4f8a414e01244ea757bbb100)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
