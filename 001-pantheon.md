@@ -88,6 +88,7 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.1.2...HEAD)
 
+- [ ] [<code>Guard FileView recursion against file nodes (#1661)</code>](https://github.com/elementary/code/commit/a398925f6fd75f3194740ef5a7c6b0dadf069983)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
