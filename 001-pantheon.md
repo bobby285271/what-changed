@@ -89,6 +89,7 @@
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.1.2...HEAD)
 
 - [ ] [<code>Guard FileView recursion against file nodes (#1661)</code>](https://github.com/elementary/code/commit/a398925f6fd75f3194740ef5a7c6b0dadf069983)
+- [ ] [<code>Disable-able Syntax Highlighting Preference (#1664)</code>](https://github.com/elementary/code/commit/bd59edd097d54652043eea5131a38253a0b2f714)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -112,6 +113,8 @@
 - [ ] [<code>Metainfo: Add issue link for dock bubble animation (#481)</code>](https://github.com/elementary/dock/commit/8d3847c601ec0cae344c9bc4bd4ed188e0437158)
 - [ ] [<code>Default to building workspace switcher (#492)</code>](https://github.com/elementary/dock/commit/d6dea6e47017df9d44bfff522df617e374d5b1d7)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>BaseIconGroup: Use FlowBox instead of manual layouting (#484)</code>](https://github.com/elementary/dock/commit/6967a99bd5991cda8fc9a9676c6b3b0cd6ec2a96)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -172,6 +175,7 @@
 
 - [ ] [<code>Update deprecated Granite css classes usage (#492)</code>](https://github.com/elementary/monitor/commit/5f73aea16653da3a03fce52e12da0b96a241d5ed)
 - [ ] [<code>Set gtk-alternative-sort-arrows to false (#491)</code>](https://github.com/elementary/monitor/commit/e42a91564b76e9221064adf0cca58b85b662e460)
+- [ ] [<code>Converts Compact classes to fundamental ones (#493)</code>](https://github.com/elementary/monitor/commit/cccbaf5b17bd13c6f3dcbd147aaa89d38e6523ed)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -497,6 +501,13 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>Fix CSS typo (#834)</code>](https://github.com/elementary/greeter/commit/fdec4bb910bd8de2301c95819f6bf32067e85d61)
+- [ ] [<code>Fix card switching (#832)</code>](https://github.com/elementary/greeter/commit/b883c4539246f59871a6a743afaca7c64caac786)
+- [ ] [<code>Compositor: implement NotificationStack (#833)</code>](https://github.com/elementary/greeter/commit/bdeace6946a333845ba3c21eb0f46e2578822ba1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove accountservice dependency (#835)</code>](https://github.com/elementary/greeter/commit/04f83fb4a328c155ed90216aebcff2fa95dc7396)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Sync wingpanel's "Show Percentage" option (#814)</code>](https://github.com/elementary/greeter/commit/74ba219d57031249a1c7152cad2b7fdc0204b995)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -809,6 +820,7 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/8.0.0...HEAD)
 
+- [ ] [<code>WifiInterface: Get permission async (#353)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/82b45bb3e749f5a891b13f459f13ed74796a25c6)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
