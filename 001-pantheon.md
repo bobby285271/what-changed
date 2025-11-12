@@ -165,6 +165,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/mail/commit/6c2d5b822af65b8ef278dea286e8ce3b726f81fc)
 - [ ] [<code>Metainfo: Add release details for version 8.0.1 (#1030)</code>](https://github.com/elementary/mail/commit/3864e6631cfcff0a2531ae608d19b092f5c1f90f)
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/mail/commit/70b8cb48f2e293213ece7080d1cfa31507822256)
+- [ ] [<code>Release 8.0.1 (#1031)</code>](https://github.com/elementary/mail/commit/8417c927eb26f0a46a8d1753230d55bccb4850bf)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -442,6 +445,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sound/commit/88c1e8872bf3451bbb477e074bdb08552d355164)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sound/commit/23a591b6a6a14e9b29ed0f1ce428b9ecc730366d)
 - [ ] [<code>Metainfo: Add release 8.0.2 (#291)</code>](https://github.com/elementary/switchboard-plug-sound/commit/0ce850e0e3c9c166704808e839093a9c48d392b1)
+- [ ] [<code>Release 8.0.2 (#292)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1870054cfea66932cefa05bad5a89e829ac56cbd)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
@@ -508,6 +514,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Sync wingpanel's "Show Percentage" option (#814)</code>](https://github.com/elementary/greeter/commit/74ba219d57031249a1c7152cad2b7fdc0204b995)
+- [ ] [<code>UserCard: when syncing settings set value type explicitly (#838)</code>](https://github.com/elementary/greeter/commit/ac6de86c5248510785ac44c528f987085e408676)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
