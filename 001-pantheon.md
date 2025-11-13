@@ -81,6 +81,10 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.0.tar.xz to 3.58.1 (#864)</code>](https://github.com/elementary/calendar/commit/5c1cd714652d25b500da7e90e7fe97be04463e45)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calendar/commit/8aaa145b662629f251b79ad4034229c9835538ce)
 - [ ] [<code>Metainfo: Add release version 8.0.1 (#866)</code>](https://github.com/elementary/calendar/commit/234a365d940db5ab119c5fbbbeb20f98528b8ce5)
+- [ ] [<code>DynamicSpinner: GTK4 prep (#868)</code>](https://github.com/elementary/calendar/commit/64df1ada6dc0a1da8636a0533479e0045de08a3c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>DynamicSpinner: don't unparent widget</code>](https://github.com/elementary/calendar/commit/70326f48d3db0c2571e584a1f0b369a1d2db3571)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -168,6 +172,7 @@
 - [ ] [<code>Release 8.0.1 (#1031)</code>](https://github.com/elementary/mail/commit/8417c927eb26f0a46a8d1753230d55bccb4850bf)
   - <sub>Tags: <code>8.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Persist conversation list filter switches (#1033)</code>](https://github.com/elementary/mail/commit/212bc8cfefcf170f51d4c7436a4fc8068d7b4291)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
