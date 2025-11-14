@@ -441,18 +441,8 @@
 - [ ] [<code>Update sharing.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/dbabdcf0ba6f6fd1a182a16ca53fb075619e0ac7)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sharing/commit/a2b94791b2a01649d1ed1485b1a6c6770140fa34)
 
-#### [pantheon.switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-sound/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-sound/commit/25bbfb0a666e1ce58e89f22a9084ca2436aed2cf)
-- [ ] [<code>Actions: Use main branch (#288)</code>](https://github.com/elementary/switchboard-plug-sound/commit/4adce41a8734d5472512ce3f83201e217837412d)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-sound/commit/5ae398f5788f3847522ccfa3bb25ae52dbb6692c)
-- [ ] [<code>Update sound.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sound/commit/89eb995a833be0f7105c630ae4ad7c2d4c794ae3)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sound/commit/88c1e8872bf3451bbb477e074bdb08552d355164)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sound/commit/23a591b6a6a14e9b29ed0f1ce428b9ecc730366d)
-- [ ] [<code>Metainfo: Add release 8.0.2 (#291)</code>](https://github.com/elementary/switchboard-plug-sound/commit/0ce850e0e3c9c166704808e839093a9c48d392b1)
-- [ ] [<code>Release 8.0.2 (#292)</code>](https://github.com/elementary/switchboard-plug-sound/commit/1870054cfea66932cefa05bad5a89e829ac56cbd)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
