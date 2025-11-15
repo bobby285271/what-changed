@@ -184,6 +184,7 @@
 - [ ] [<code>Update deprecated Granite css classes usage (#492)</code>](https://github.com/elementary/monitor/commit/5f73aea16653da3a03fce52e12da0b96a241d5ed)
 - [ ] [<code>Set gtk-alternative-sort-arrows to false (#491)</code>](https://github.com/elementary/monitor/commit/e42a91564b76e9221064adf0cca58b85b662e460)
 - [ ] [<code>Converts Compact classes to fundamental ones (#493)</code>](https://github.com/elementary/monitor/commit/cccbaf5b17bd13c6f3dcbd147aaa89d38e6523ed)
+- [ ] [<code>Fix parsing issue for feature/bug data from csvs (#497)</code>](https://github.com/elementary/monitor/commit/9f4abe6c30be3932d623b540fc925c3eaf11904d)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -667,6 +668,10 @@
 - [ ] [<code>daemon-gtk3: include css (#2626)</code>](https://github.com/elementary/gala/commit/2093875b3f44e875a2f7d0fa8a4d4216d62c0827)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix several interactions with disabled animations (#2622)</code>](https://github.com/elementary/gala/commit/91e65ff436da782f4f8a414e01244ea757bbb100)
+- [ ] [<code>TouchpadBackend: Fix missing reset once gesture ends (#2635)</code>](https://github.com/elementary/gala/commit/ceff8a62bfc5fdf4829a7f2c08336649cffb256c)
+- [ ] [<code>WindowClone: Use ActorTarget built in animating property</code>](https://github.com/elementary/gala/commit/b7f75445527c5f6d0fab99254f1cc5bd0d30ae83)
+- [ ] [<code>WindowClone: Fix close button appearing during animation</code>](https://github.com/elementary/gala/commit/2a5cec53fecc8416ef816c3881bd557a258d5f54)
+- [ ] [<code>Tooltip: scale text margin (#2616)</code>](https://github.com/elementary/gala/commit/c5e5ec29ef750f40e6054b2fbe4fa775b3ca8e90)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
