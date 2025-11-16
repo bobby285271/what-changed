@@ -85,6 +85,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>DynamicSpinner: don't unparent widget</code>](https://github.com/elementary/calendar/commit/70326f48d3db0c2571e584a1f0b369a1d2db3571)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AgendaEventRow: make location link clickable (#862)</code>](https://github.com/elementary/calendar/commit/4f6ae87ce0809c8b3ab72523c1e9da546c1db932)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -288,6 +289,9 @@
 - [ ] [<code>Auto-hide single tab option (#927)</code>](https://github.com/elementary/terminal/commit/4110ae4c6a4f4d4d24b7c0102f6c8d0f39a57762)
 - [ ] [<code>Draft metainfo for v7.1.3 milestone (#928)</code>](https://github.com/elementary/terminal/commit/77c60cad3e472b21e113549e6b9600e2b2c83fc8)
 - [ ] [<code>Disable secondary-click actions while a foreground process is running (#933)</code>](https://github.com/elementary/terminal/commit/801640c8472bdc8523b65a4643b3c566785aab34)
+- [ ] [<code>Release v7.2.0 (#935)</code>](https://github.com/elementary/terminal/commit/505f0f786a995389695f8ff4ff5bd946e607b6db)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
