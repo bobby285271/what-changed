@@ -186,6 +186,8 @@
 - [ ] [<code>Set gtk-alternative-sort-arrows to false (#491)</code>](https://github.com/elementary/monitor/commit/e42a91564b76e9221064adf0cca58b85b662e460)
 - [ ] [<code>Converts Compact classes to fundamental ones (#493)</code>](https://github.com/elementary/monitor/commit/cccbaf5b17bd13c6f3dcbd147aaa89d38e6523ed)
 - [ ] [<code>Fix parsing issue for feature/bug data from csvs (#497)</code>](https://github.com/elementary/monitor/commit/9f4abe6c30be3932d623b540fc925c3eaf11904d)
+- [ ] [<code>Add swap data to memory info (#499)</code>](https://github.com/elementary/monitor/commit/c02b303e3c9e083a59cdd3dfe32d31df04cb9a5c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
