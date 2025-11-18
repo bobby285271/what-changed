@@ -86,6 +86,9 @@
 - [ ] [<code>DynamicSpinner: don't unparent widget</code>](https://github.com/elementary/calendar/commit/70326f48d3db0c2571e584a1f0b369a1d2db3571)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>AgendaEventRow: make location link clickable (#862)</code>](https://github.com/elementary/calendar/commit/4f6ae87ce0809c8b3ab72523c1e9da546c1db932)
+- [ ] [<code>Release 8.0.1 (#867)</code>](https://github.com/elementary/calendar/commit/e7e03d69c4388c28685d4ea03a736b9fe701dfcd)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -95,6 +98,8 @@
 
 - [ ] [<code>Guard FileView recursion against file nodes (#1661)</code>](https://github.com/elementary/code/commit/a398925f6fd75f3194740ef5a7c6b0dadf069983)
 - [ ] [<code>Disable-able Syntax Highlighting Preference (#1664)</code>](https://github.com/elementary/code/commit/bd59edd097d54652043eea5131a38253a0b2f714)
+- [ ] [<code>SourceList/Item: use GLib.Menu (#1676)</code>](https://github.com/elementary/code/commit/79766abde98d1aed83fd7d00667b0993a067b5fa)
+- [ ] [<code>SourceView: prepare context menu for GLib.Menu (#1675)</code>](https://github.com/elementary/code/commit/e71134ae982cfbf4a7a87c984cce8aca9ae4f942)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -120,6 +125,8 @@
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>BaseIconGroup: Use FlowBox instead of manual layouting (#484)</code>](https://github.com/elementary/dock/commit/6967a99bd5991cda8fc9a9676c6b3b0cd6ec2a96)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>IconGroup: change focused style (#439)</code>](https://github.com/elementary/dock/commit/2c2b4340f20a7e25bb55f5b48b26fc6506e27e18)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
 
@@ -128,6 +135,10 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/feedback/commit/19e1f8be7624d8aa445099227f32c5994b926868)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/feedback/commit/e98a312c8a21cce749d6546606e67e6bb6626b26)
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#121)</code>](https://github.com/elementary/feedback/commit/50d0f05988ae677a1d611712ea9433cc3f476a1d)
+- [ ] [<code>Drop old AppStream (#124)</code>](https://github.com/elementary/feedback/commit/ca3b994404ce7f98f76f681e0160e2a68ab3341d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MainWindow: use get_components_by_extends (#125)</code>](https://github.com/elementary/feedback/commit/206b976d7be5b119ff98f0613dfbb2bff41ba629)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -283,17 +294,13 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#420)</code>](https://github.com/elementary/tasks/commit/559b801395e87348e95035f1e49685c1ee6e1cbb)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/tasks/commit/ea0854a6a0a5d09d4019e31f6a001169375aee51)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [7.1.2 → HEAD](https://github.com/elementary/terminal/compare/7.1.2...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
-- [ ] [<code>Launch web links correctly (#923)</code>](https://github.com/elementary/terminal/commit/e8977071a9714127ca513c0eb3ec7d47148fdd5b)
-- [ ] [<code>Fix Clear Screen: Move cursor to line start before feeding clear command (#921)</code>](https://github.com/elementary/terminal/commit/88761f4d0e724c2fadec70d1fb7fbf69c50edb8d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Auto-hide single tab option (#927)</code>](https://github.com/elementary/terminal/commit/4110ae4c6a4f4d4d24b7c0102f6c8d0f39a57762)
-- [ ] [<code>Draft metainfo for v7.1.3 milestone (#928)</code>](https://github.com/elementary/terminal/commit/77c60cad3e472b21e113549e6b9600e2b2c83fc8)
-- [ ] [<code>Disable secondary-click actions while a foreground process is running (#933)</code>](https://github.com/elementary/terminal/commit/801640c8472bdc8523b65a4643b3c566785aab34)
-- [ ] [<code>Release v7.2.0 (#935)</code>](https://github.com/elementary/terminal/commit/505f0f786a995389695f8ff4ff5bd946e607b6db)
-  - <sub>Tags: <code>7.2.0</code></sub>
+- [ ] [<code>Port to Gtk4 (#780)</code>](https://github.com/elementary/terminal/commit/76febb2f9efd850feec7150cd20da94da2175cba)
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/terminal/commit/26f9852e2a86da125705d69df8a47abae1a0e9bb)
+- [ ] [<code>Workflows/Gettext: update to main</code>](https://github.com/elementary/terminal/commit/10e431342732cc0b1ffc13ecaf8f9df48d151047)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -305,6 +312,9 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/sideload/commit/fac7dde13e260b0a9e2e367570b58dbb602f52ba)
 - [ ] [<code>Metainfo: Add release information for version 6.3.1 (#180)</code>](https://github.com/elementary/sideload/commit/fac82bf731a6894a5f2a461b9a8d69309a3afbc2)
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/sideload/commit/a3344b49a11f8b495d2a92b972b98774cbc0d9a4)
+- [ ] [<code>Release 6.3.1 (#181)</code>](https://github.com/elementary/sideload/commit/0b9c20ba480a12b51fa5865969698cab6a959593)
+  - <sub>Tags: <code>6.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -318,6 +328,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Only run in Pantheon (#367)</code>](https://github.com/elementary/switchboard/commit/859cb3d33b4e2e073b526182723823f541944016)
+- [ ] [<code>Rename Switchboard to System Settings in README</code>](https://github.com/elementary/switchboard/commit/0065f5cf352753b25c1a80151d5ec7a782e1e9ef)
+- [ ] [<code>Update URLs for settings</code>](https://github.com/elementary/switchboard/commit/3c324a9bab49a01c9067e1423203400ac40d04f6)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -328,6 +340,11 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#383)</code>](https://github.com/elementary/switchboard-plug-about/commit/08ae1106ac671061a5a55c327c77f72831d62589)
 - [ ] [<code>Metainfo: update URLS</code>](https://github.com/elementary/switchboard-plug-about/commit/4abf3da689a0af83583cce201a091fefad7ec3bf)
 - [ ] [<code>Metainfo: Add release notes for version 8.2.2 (#388)</code>](https://github.com/elementary/switchboard-plug-about/commit/faa5a39d30fb6d8aaab8b6525748025083ca852f)
+- [ ] [<code>Meson: output correct metainfo file extension (#393)</code>](https://github.com/elementary/switchboard-plug-about/commit/c0a954b79e0f7e1376b8f682323a77cac1ce57e7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 8.2.2 (#389)</code>](https://github.com/elementary/switchboard-plug-about/commit/d969c3858b6b827a246bfa26687fc4c8f1e2a59f)
+  - <sub>Tags: <code>8.2.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
@@ -376,6 +393,9 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f5ff30217d5a6d8873b0db305ea33508224fd243)
 - [ ] [<code>Clicking: don't handle x11 primary paste (#258)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8a2e398f82074673729a4d348d73fb55e076857d)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Release 8.0.3 (#261)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/7b37169e0cb99df48e920ff584f602d6186925c5)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -396,6 +416,9 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-notifications/commit/463f6de9f3b4f258507f655403e3e7c80657d44c)
 - [ ] [<code>Add release notes for version 8.0.1 (#118)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/a810cf79f757444abbc84ee2fc2d375548f2d362)
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/switchboard-plug-notifications/commit/748b9ab6ec4b6d60a27be82d2db421ca9a7782d4)
+- [ ] [<code>Release 8.0.1 (#119)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/574e5836cfeb8f36763733f8c64eabbb5de5d7d0)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -411,6 +434,9 @@
 - [ ] [<code>Actions: Use main branch (#453)</code>](https://github.com/elementary/settings-desktop/commit/0d098e77f090079766274a42dada7d8ac0271bc1)
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#454)</code>](https://github.com/elementary/settings-desktop/commit/e7a3111ee1b4714ea2e8620f02b8f2717fa88b77)
 - [ ] [<code>Metainfo: Add release 8.2.1 (#460)</code>](https://github.com/elementary/settings-desktop/commit/ea646b4e5cdc987215f1fe6bb8730619f383e8b0)
+- [ ] [<code>Release 8.2.1 (#461)</code>](https://github.com/elementary/settings-desktop/commit/ced9a2b22c1c641b4a168836318c4fa8a36bbc17)
+  - <sub>Tags: <code>8.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -426,6 +452,9 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-printers/commit/75293b3e28735d4399533a96faf7eda20369c05e)
 - [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/switchboard-plug-printers/commit/32b07fa43938c9f6d798d81bf0a0e401cbd3191a)
 - [ ] [<code>Add release notes for version 8.0.2 (#218)</code>](https://github.com/elementary/switchboard-plug-printers/commit/274c3c634b7d439ff7d95dc5528d05658d61194e)
+- [ ] [<code>Release 8.0.2 (#219)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96f7b71d79a878de099574ecbefe31ecc25a7171)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
 
@@ -439,6 +468,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/cf09da24fbb00612e46b5428646221f65c9276fa)
 - [ ] [<code>Update security-privacy.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a0c540633faa57eadc5f18de2aa6c2cad2329abd)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#192)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ffb12be41d9cad28a9a722daf6af0ae355baee21)
+- [ ] [<code>Release 8.0.2 (#193)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3c697f501177f129e2c30744b8287e30e8524166)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
@@ -557,6 +589,10 @@
 - [ ] [<code>Make sure to dim parent window when reduced motion enabled (#2642)</code>](https://github.com/elementary/gala/commit/5abd99d5a5908afa8b74883d3c6e4797b9381a66)
 - [ ] [<code>HideTracker: Assume hovered when revealing via barrier</code>](https://github.com/elementary/gala/commit/22a7a0576bab371c7b205bfee1b9b4ffc1a6c0e4)
 - [ ] [<code> DBus: cleanup (#2609)</code>](https://github.com/elementary/gala/commit/5bfc6c8fcb8ce9231f92f82338ca1701a6d691df)
+- [ ] [<code>WindowClone: Don't consume button press events</code>](https://github.com/elementary/gala/commit/645ea9e871fd79bb93796088f4c0e6f22546bf01)
+- [ ] [<code>DragDropAction: Don't consume events before drag started</code>](https://github.com/elementary/gala/commit/46adb2daad40787e1650d08489f83abe276781c5)
+- [ ] [<code>Require GLib 2.78 (#2650)</code>](https://github.com/elementary/gala/commit/825de063fe61e8ed81e7979c84d3ecba130a2d6d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
