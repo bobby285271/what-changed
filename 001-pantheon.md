@@ -100,6 +100,9 @@
 - [ ] [<code>Disable-able Syntax Highlighting Preference (#1664)</code>](https://github.com/elementary/code/commit/bd59edd097d54652043eea5131a38253a0b2f714)
 - [ ] [<code>SourceList/Item: use GLib.Menu (#1676)</code>](https://github.com/elementary/code/commit/79766abde98d1aed83fd7d00667b0993a067b5fa)
 - [ ] [<code>SourceView: prepare context menu for GLib.Menu (#1675)</code>](https://github.com/elementary/code/commit/e71134ae982cfbf4a7a87c984cce8aca9ae4f942)
+- [ ] [<code>elementary high contrast (light) stylescheme (#1602)</code>](https://github.com/elementary/code/commit/93bdc43a94b62b14f2ea27da5d7bd092769a7bba)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
 
@@ -139,6 +142,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>MainWindow: use get_components_by_extends (#125)</code>](https://github.com/elementary/feedback/commit/206b976d7be5b119ff98f0613dfbb2bff41ba629)
+- [ ] [<code>Release 8.1.0 (#122)</code>](https://github.com/elementary/feedback/commit/92ef9754238a07fcb8ea68e2f6d3a197822a2e99)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/feedback/commit/7a05f1e3b44f808cd38b702fbd305a7ae2e3ea6e)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -158,32 +165,8 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/iconbrowser/commit/a499faea17792f0c03ae3ee9a915b3b8b713a87c)
 
-#### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.0...HEAD)
+#### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
-- [ ] [<code>Alias: Do not translate placeholder email address (#991)</code>](https://github.com/elementary/mail/commit/abf27cddedb6e9fa4e86365e86f0761d327891e3)
-- [ ] [<code>Drop old Soup support (#1000)</code>](https://github.com/elementary/mail/commit/b8584dd4de805e03640d37d65bc2092243c34ebb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>AttachmentButton: Use Gtk.Gesture (#1001)</code>](https://github.com/elementary/mail/commit/29da72f11774c2b4aeaf326a93b22598523868f0)
-- [ ] [<code>MessageListItem: GTK4 prep (#1003)</code>](https://github.com/elementary/mail/commit/3bb609508e526e2c27fc6bb4a1c6377db4ed0fb6)
-- [ ] [<code>CI: bump webkit version (#1004)</code>](https://github.com/elementary/mail/commit/abbd45be8afa446ec384da6083c0a8960d60654c)
-- [ ] [<code>Merge: use deb gettext action</code>](https://github.com/elementary/mail/commit/9cd18b579642de1fee43b9938b9f41f8998d56c8)
-- [ ] [<code>fix(flatpak): bump EDS version (#1012)</code>](https://github.com/elementary/mail/commit/d7151c8be68ffeb66e5a8e1cb906dc43774e7ae3)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#1010)</code>](https://github.com/elementary/mail/commit/28988a0aec9bea0247486b556e21c39de6536c1f)
-- [ ] [<code>CI: run arm workflows on arm runner (#1011)</code>](https://github.com/elementary/mail/commit/814073619a080eb82b4a625f84b773c08137e5ae)
-- [ ] [<code>Flatpak: Use libportal from Platform (#1013)</code>](https://github.com/elementary/mail/commit/8d42b60b67bc620b8cf3dc1b10cb90b824c443fe)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#1019)</code>](https://github.com/elementary/mail/commit/d0e9356a600cf00c6060a8703da96505119db8ec)
-- [ ] [<code>Launcher: add icon for compose action (#1022)</code>](https://github.com/elementary/mail/commit/632df7546b83aecab7b66830f447985e194ca1a3)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Bump to platform 8.2 (#1015)</code>](https://github.com/elementary/mail/commit/017079ce89b18632b80b4087c706753f105a2d4f)
-- [ ] [<code>Actions: Use main branch (#1026)</code>](https://github.com/elementary/mail/commit/b4b900f0788120a070ef8bd5ce535bd7a2fd5bdb)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/mail/commit/4c7de10736ce2efcc8cfc4acdbb25caa96d9b133)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/mail/commit/6c2d5b822af65b8ef278dea286e8ce3b726f81fc)
-- [ ] [<code>Metainfo: Add release details for version 8.0.1 (#1030)</code>](https://github.com/elementary/mail/commit/3864e6631cfcff0a2531ae608d19b092f5c1f90f)
-- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/mail/commit/70b8cb48f2e293213ece7080d1cfa31507822256)
-- [ ] [<code>Release 8.0.1 (#1031)</code>](https://github.com/elementary/mail/commit/8417c927eb26f0a46a8d1753230d55bccb4850bf)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Persist conversation list filter switches (#1033)</code>](https://github.com/elementary/mail/commit/212bc8cfefcf170f51d4c7436a4fc8068d7b4291)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
@@ -301,6 +284,12 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/terminal/commit/26f9852e2a86da125705d69df8a47abae1a0e9bb)
 - [ ] [<code>Workflows/Gettext: update to main</code>](https://github.com/elementary/terminal/commit/10e431342732cc0b1ffc13ecaf8f9df48d151047)
+- [ ] [<code>MainWindow: use ToolbarView (#938)</code>](https://github.com/elementary/terminal/commit/b3e052d9a57ca38cc158553539bce86aca5551e1)
+- [ ] [<code>Fix some Vala warnings</code>](https://github.com/elementary/terminal/commit/880a93a1f8e6b3aba026d7c564a0f7078de36855)
+- [ ] [<code>Fix some C warnings</code>](https://github.com/elementary/terminal/commit/092f22c3cd4c6982f38f64a6d6e76ab803943d96)
+- [ ] [<code>Use Granite.Box for LINKED (#941)</code>](https://github.com/elementary/terminal/commit/75cbccf854b0bc4a6a65d63efe03dc5cf490bca9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -330,6 +319,8 @@
 - [ ] [<code>Only run in Pantheon (#367)</code>](https://github.com/elementary/switchboard/commit/859cb3d33b4e2e073b526182723823f541944016)
 - [ ] [<code>Rename Switchboard to System Settings in README</code>](https://github.com/elementary/switchboard/commit/0065f5cf352753b25c1a80151d5ec7a782e1e9ef)
 - [ ] [<code>Update URLs for settings</code>](https://github.com/elementary/switchboard/commit/3c324a9bab49a01c9067e1423203400ac40d04f6)
+- [ ] [<code>AppData → Metainfo (#372)</code>](https://github.com/elementary/switchboard/commit/36e88927cfdbd8b56da1ea3f90f4cd98600c8c51)
+  - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
@@ -437,6 +428,9 @@
 - [ ] [<code>Release 8.2.1 (#461)</code>](https://github.com/elementary/settings-desktop/commit/ced9a2b22c1c641b4a168836318c4fa8a36bbc17)
   - <sub>Tags: <code>8.2.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Multitasking: use small labels for hotcorners (#465)</code>](https://github.com/elementary/settings-desktop/commit/4ff276afa20e72568ac6e0c883c2fee36c148bb4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -549,6 +543,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Sync wingpanel's "Show Percentage" option (#814)</code>](https://github.com/elementary/greeter/commit/74ba219d57031249a1c7152cad2b7fdc0204b995)
 - [ ] [<code>UserCard: when syncing settings set value type explicitly (#838)</code>](https://github.com/elementary/greeter/commit/ac6de86c5248510785ac44c528f987085e408676)
+- [ ] [<code>Add 8.1.1 release notes (#844)</code>](https://github.com/elementary/greeter/commit/add281bd3f53726d6a02bd79c597cb4bb8bb0d1d)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
