@@ -109,6 +109,8 @@
 - [ ] [<code>Fix parsing issue for feature/bug data from csvs (#497)</code>](https://github.com/elementary/monitor/commit/9f4abe6c30be3932d623b540fc925c3eaf11904d)
 - [ ] [<code>Add swap data to memory info (#499)</code>](https://github.com/elementary/monitor/commit/c02b303e3c9e083a59cdd3dfe32d31df04cb9a5c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Rename occurrences of `appdata.xml` to `metainfo.xml` (#506)</code>](https://github.com/elementary/monitor/commit/6c51160a5a9cf63e156613e68a40dcd0e7913124)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -512,6 +514,7 @@
 - [ ] [<code>Actions: Use main branch (#674)</code>](https://github.com/elementary/applications-menu/commit/3de16977ab736d875a4e133615647988f9a54f76)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/applications-menu/commit/e031f5c780bed988f3fa2f1c72bb2daf71361037)
 - [ ] [<code>Metainfo: Add release 8.0.2 (#678)</code>](https://github.com/elementary/applications-menu/commit/b1494dd3234772f3469091af442b098edc26ace8)
+- [ ] [<code>README: Add gettext to deps (#684)</code>](https://github.com/elementary/applications-menu/commit/80ffe5e487417e00a484520aa9a2fa115f701aac)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
