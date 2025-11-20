@@ -26,69 +26,8 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calculator/commit/e9abd0afce8665978635ee93850ade6c20c9d4fe)
 
-#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [8.0.0 → HEAD](https://github.com/elementary/calendar/compare/8.0.0...HEAD)
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/calendar/commit/f2938b8c835f91cc75b93567f23c37357c9c3a18)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#819)</code>](https://github.com/elementary/calendar/commit/92c70560dc65b71f23b5b1513c09976b7895a2c9)
-- [ ] [<code>chore(flatpak): bump EDS version (#820)</code>](https://github.com/elementary/calendar/commit/fd78f42aafa4c1ae115f9e19a4848697ebead20a)
-- [ ] [<code>CI: run arm workflows on arm runner (#821)</code>](https://github.com/elementary/calendar/commit/1dae36e121ef3342db0167589b00a50a23098fb0)
-- [ ] [<code>Flatpak: Use libportal from Platform (#822)</code>](https://github.com/elementary/calendar/commit/823c92abd0f2ff964e04c8b304ef75e1b2319ff8)
-- [ ] [<code>GridDay: Gtk4 Prep (#823)</code>](https://github.com/elementary/calendar/commit/cac6f38e682e0fed32cdb64ce371df0d3b2cbc3d)
-- [ ] [<code>AgendaEventRow: Gtk4 prep (#828)</code>](https://github.com/elementary/calendar/commit/5f885e3949f2917d7a4b46e301440409102957bd)
-- [ ] [<code>AgendaView: GTK4 prep (#827)</code>](https://github.com/elementary/calendar/commit/6184f4037c38dbfd3132442c1b30fe26e5a09c19)
-- [ ] [<code>MainWindow: gtk4 prep (#826)</code>](https://github.com/elementary/calendar/commit/d3a5d0a9fdaf540a11bf0fcb7933d95fce8f8d0e)
-- [ ] [<code>Resource: use built-in icon loading, add path for symbolic (#825)</code>](https://github.com/elementary/calendar/commit/6d934f5cc3bdb590b0fe4214fb4cd561673add3d)
-- [ ] [<code>Application: use startup (#824)</code>](https://github.com/elementary/calendar/commit/1a87ad487a5981f1a6e0f8814f6ca7a6c121a1ad)
-- [ ] [<code>InfoPanel: absorb CalendarButton (#829)</code>](https://github.com/elementary/calendar/commit/60e374513c6eaaf984d880940795d4b4c265d5ff)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>add Flatpak dependency checker (#831)</code>](https://github.com/elementary/calendar/commit/a302b5b1e37f51d3ebdd095c353c4fbabc990529)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Workflows: add flatpak-x-checker.yml</code>](https://github.com/elementary/calendar/commit/57ff51e644bfba69972cd452a816eb669305d621)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.52.4.tar.xz to 3.54.3 (#832)</code>](https://github.com/elementary/calendar/commit/2e67053e778e5606cb7e4c6e8c3d47b36a2cba64)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.54.3.tar.xz to 3.56.0 (#833)</code>](https://github.com/elementary/calendar/commit/7cad84e36b615132baf1b52327d92a2c8935126d)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.0.tar.xz to 3.56.1 (#835)</code>](https://github.com/elementary/calendar/commit/8760a419d31b65fc7689fe3cb6c514a90369cd9b)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#836)</code>](https://github.com/elementary/calendar/commit/92b9d31b2f1af591e7124a5993ac0e33347f231d)
-- [ ] [<code>Include new event icon (#837)</code>](https://github.com/elementary/calendar/commit/29c18ae38a701beea59704d8a316978b7dcfa24a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.1.tar.xz to 3.56.2 (#838)</code>](https://github.com/elementary/calendar/commit/4367fca286979c8c95e374bd05657f3361f39955)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.56.2.tar.xz to 3.57.1 (#839)</code>](https://github.com/elementary/calendar/commit/b9390a97bb6020933295440caab13cef4bd73a8e)
-- [ ] [<code>EventDialog: GTK4 prep (#845)</code>](https://github.com/elementary/calendar/commit/d6eae058c441c9f11fa531c5e74198950bbc08bd)
-- [ ] [<code>CalendarRow: cleanup (#841)</code>](https://github.com/elementary/calendar/commit/e23deeabc22300b70691f691c55bb11290dd3d74)
-- [ ] [<code>CalendarView: absorb header (#846)</code>](https://github.com/elementary/calendar/commit/376e2b7b25c001b20f9b3486726068133c8388f3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CalendarChooser: cleanup (#842)</code>](https://github.com/elementary/calendar/commit/a7d8e87978113b4b4b636f9c2252059ccaf10f38)
-- [ ] [<code>SourceDialog: make a dialog (#840)</code>](https://github.com/elementary/calendar/commit/02973e174a6d11f46013113ad27673d40826b606)
-- [ ] [<code>InfoPanel: cleanup (#843)</code>](https://github.com/elementary/calendar/commit/4db4e113c60019951bb728deaf4fa36a6d0dbc6d)
-- [ ] [<code>CalendarView: add contractor menu (#847)</code>](https://github.com/elementary/calendar/commit/17b68ff7a714b27d51284a62600938242454ed72)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Drop support for old EDS (#848)</code>](https://github.com/elementary/calendar/commit/66634a473f28d695164a198ab303735dd7a69154)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>SourceRow: cleanup (#852)</code>](https://github.com/elementary/calendar/commit/1c91f7d890b5ebacdba0dbdaf499810b5f1c649f)
-- [ ] [<code>SourcePopover: Gtk4 prep, cleanup (#853)</code>](https://github.com/elementary/calendar/commit/c756ebb9804b4df85fb52e4b886944bc6a74c52e)
-- [ ] [<code>PlacementWidget: cleanup (#851)</code>](https://github.com/elementary/calendar/commit/eb1541d57e95d7b5daf8f6f074d064a140dafd80)
-- [ ] [<code>CalDavBackend: clean up placementwidget (#850)</code>](https://github.com/elementary/calendar/commit/0ffccf9b6b5a0571773df5b47ba2950c232b5e73)
-- [ ] [<code>ReminderPanel: cleanups (#844)</code>](https://github.com/elementary/calendar/commit/521861e9d0a67b4af0757bb94ea360adf6c1d55d)
-- [ ] [<code>SourceDialog: fix screen reader labels (#855)</code>](https://github.com/elementary/calendar/commit/2615527157ab971231c7360d56d943ee6f96721d)
-- [ ] [<code>Bump to platform 8.2 (#830)</code>](https://github.com/elementary/calendar/commit/61dc3ca6593982058d1013f3018e43e2d9e1b195)
-- [ ] [<code>Actions: Use main branch (#858)</code>](https://github.com/elementary/calendar/commit/9368195226396b625472a2be573cd602694b7770)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.1.tar.xz to 3.57.2 (#859)</code>](https://github.com/elementary/calendar/commit/1a81955bd9c5ad2f99d08d65235f918bc780c15a)
-- [ ] [<code>SourceRow: always show buttons (#857)</code>](https://github.com/elementary/calendar/commit/295bdd0cd20bab30fa33ff45e04cd05456918b1b)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/calendar/commit/685638c07f3ba64cba8de20a0282973858f48096)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.2.tar.xz to 3.57.3 (#861)</code>](https://github.com/elementary/calendar/commit/aa5fd80f020523cc20693fb9f05b08ecfe1cfd89)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.57.3.tar.xz to 3.58.0 (#863)</code>](https://github.com/elementary/calendar/commit/a674eac515b16c542dbfe60e0eebaca384ed037d)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.0.tar.xz to 3.58.1 (#864)</code>](https://github.com/elementary/calendar/commit/5c1cd714652d25b500da7e90e7fe97be04463e45)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calendar/commit/8aaa145b662629f251b79ad4034229c9835538ce)
-- [ ] [<code>Metainfo: Add release version 8.0.1 (#866)</code>](https://github.com/elementary/calendar/commit/234a365d940db5ab119c5fbbbeb20f98528b8ce5)
-- [ ] [<code>DynamicSpinner: GTK4 prep (#868)</code>](https://github.com/elementary/calendar/commit/64df1ada6dc0a1da8636a0533479e0045de08a3c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>DynamicSpinner: don't unparent widget</code>](https://github.com/elementary/calendar/commit/70326f48d3db0c2571e584a1f0b369a1d2db3571)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>AgendaEventRow: make location link clickable (#862)</code>](https://github.com/elementary/calendar/commit/4f6ae87ce0809c8b3ab72523c1e9da546c1db932)
-- [ ] [<code>Release 8.0.1 (#867)</code>](https://github.com/elementary/calendar/commit/e7e03d69c4388c28685d4ea03a736b9fe701dfcd)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -131,20 +70,8 @@
 - [ ] [<code>IconGroup: change focused style (#439)</code>](https://github.com/elementary/dock/commit/2c2b4340f20a7e25bb55f5b48b26fc6506e27e18)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [8.0.1 → HEAD](https://github.com/elementary/feedback/compare/8.0.1...HEAD)
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>MainWindow: Add Maps and Monitor (#117)</code>](https://github.com/elementary/feedback/commit/eef2fac643cc65e8907e0438acaa8f4f40c7a2ea)
-- [ ] [<code>Actions: Use main branch (#118)</code>](https://github.com/elementary/feedback/commit/2c018983faa4ed9889ddc15bb098c1783cb6a69d)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/feedback/commit/19e1f8be7624d8aa445099227f32c5994b926868)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/feedback/commit/e98a312c8a21cce749d6546606e67e6bb6626b26)
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#121)</code>](https://github.com/elementary/feedback/commit/50d0f05988ae677a1d611712ea9433cc3f476a1d)
-- [ ] [<code>Drop old AppStream (#124)</code>](https://github.com/elementary/feedback/commit/ca3b994404ce7f98f76f681e0160e2a68ab3341d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>MainWindow: use get_components_by_extends (#125)</code>](https://github.com/elementary/feedback/commit/206b976d7be5b119ff98f0613dfbb2bff41ba629)
-- [ ] [<code>Release 8.1.0 (#122)</code>](https://github.com/elementary/feedback/commit/92ef9754238a07fcb8ea68e2f6d3a197822a2e99)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/feedback/commit/7a05f1e3b44f808cd38b702fbd305a7ae2e3ea6e)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
@@ -294,16 +221,8 @@
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
 
-#### [pantheon.sideload](https://github.com/elementary/sideload): [6.3.0 → HEAD](https://github.com/elementary/sideload/compare/6.3.0...HEAD)
+#### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#178)</code>](https://github.com/elementary/sideload/commit/4aba945e3fc5ddf045c67c1c90f7b5a71b74b64a)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/sideload/commit/c17168a33f6b18b1dc3403992a62d81c3af8a33b)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/sideload/commit/fac7dde13e260b0a9e2e367570b58dbb602f52ba)
-- [ ] [<code>Metainfo: Add release information for version 6.3.1 (#180)</code>](https://github.com/elementary/sideload/commit/fac82bf731a6894a5f2a461b9a8d69309a3afbc2)
-- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/sideload/commit/a3344b49a11f8b495d2a92b972b98774cbc0d9a4)
-- [ ] [<code>Release 6.3.1 (#181)</code>](https://github.com/elementary/sideload/commit/0b9c20ba480a12b51fa5865969698cab6a959593)
-  - <sub>Tags: <code>6.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -323,19 +242,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 ## apps/switchboard-plugs
 
-#### [pantheon.switchboard-plug-about](https://github.com/elementary/switchboard-plug-about): [8.2.1 → HEAD](https://github.com/elementary/switchboard-plug-about/compare/8.2.1...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.2 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.2...HEAD)
 
-- [ ] [<code>Add device icons to gresource (#380)</code>](https://github.com/elementary/switchboard-plug-about/commit/72de5c7eb844b2f3c8c81e0accb19d5adbfeb44b)
-- [ ] [<code>FirmwareView: use Adw.NavigationView (#381)</code>](https://github.com/elementary/switchboard-plug-about/commit/749362bffddd17555c240ecd0dd5836bc5fff69d)
-- [ ] [<code>Actions: Use main branch (#382)</code>](https://github.com/elementary/switchboard-plug-about/commit/2991c2d71ed58ad76699c26d73a329aa2c54404d)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#383)</code>](https://github.com/elementary/switchboard-plug-about/commit/08ae1106ac671061a5a55c327c77f72831d62589)
-- [ ] [<code>Metainfo: update URLS</code>](https://github.com/elementary/switchboard-plug-about/commit/4abf3da689a0af83583cce201a091fefad7ec3bf)
-- [ ] [<code>Metainfo: Add release notes for version 8.2.2 (#388)</code>](https://github.com/elementary/switchboard-plug-about/commit/faa5a39d30fb6d8aaab8b6525748025083ca852f)
-- [ ] [<code>Meson: output correct metainfo file extension (#393)</code>](https://github.com/elementary/switchboard-plug-about/commit/c0a954b79e0f7e1376b8f682323a77cac1ce57e7)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 8.2.2 (#389)</code>](https://github.com/elementary/switchboard-plug-about/commit/d969c3858b6b827a246bfa26687fc4c8f1e2a59f)
-  - <sub>Tags: <code>8.2.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
@@ -372,44 +280,16 @@
 - [ ] [<code>Update LINGUAS</code>](https://github.com/elementary/settings-keyboard/commit/344398b9a510120753311e1021d7c8afb0ca5017)
 - [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
 
-#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/switchboard-plug-mouse-touchpad): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.2...HEAD)
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.0.3...HEAD)
 
-- [ ] [<code>Middle click paste: add Wayland support (#253)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/b3a540accd387bc51b8791c724e5d2b4124994ee)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Metainfo: add 8.0.3 release notes (#254)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a2c7f523c37dbb739114e37e09f75715deed89b1)
-- [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/71069317e3491ff88efd204dac62ae7ada9daaa9)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/3bc19f069237703260577001cc28d4baebe5eb82)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/59df4d78449166a60eff9afb9aa2c01e73c89e81)
-- [ ] [<code>Update mouse-touchpad.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/a533c0c0744ded13a9cb94054981317815304133)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/f5ff30217d5a6d8873b0db305ea33508224fd243)
-- [ ] [<code>Clicking: don't handle x11 primary paste (#258)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/8a2e398f82074673729a4d348d73fb55e076857d)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Release 8.0.3 (#261)</code>](https://github.com/elementary/switchboard-plug-mouse-touchpad/commit/7b37169e0cb99df48e920ff584f602d6186925c5)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-network/commit/649858cd62b86531471976ddf607f04ed2ce5f57)
 - [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/51bad2127dee35f56684307dc4d70526824ad545)
 
-#### [pantheon.switchboard-plug-notifications](https://github.com/elementary/switchboard-plug-notifications): [8.0.0 → HEAD](https://github.com/elementary/switchboard-plug-notifications/compare/8.0.0...HEAD)
+#### [pantheon.switchboard-plug-notifications](https://github.com/elementary/settings-notifications): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/settings-notifications/compare/refs/tags/8.0.1...HEAD)
 
-- [ ] [<code>App: remove ancient gala notification schema (#108)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c93367b4616805082a8e17b430ae8e6a6ca6ae38)
-- [ ] [<code>Store Sidebar Position  (#112)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/c5bec24a941eef14215b81511edd86496d3c9eba)
-- [ ] [<code>Meson: add log domain (#113)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/fe7f3346f5026bd21eced6fa268225255c229e46)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Use main branch (#114)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/dd71d9d93f9ca5772dbddc764de9c1f673347cd3)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#115)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/d7f135521c2d24ddb0f431c90ae1ceb280fdfa58)
-- [ ] [<code>Plug: rewrite placeholder (#117)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/8ebb9e163d0c0c722b70835ae900f8e0b67537a9)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-notifications/commit/30871784a2ed2ae354a64262ad9b03de48c9d7c9)
-- [ ] [<code>Update notifications.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-notifications/commit/6b7ffa2bfbb7c4b96c9716f42d1aa5ada5ab0088)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-notifications/commit/463f6de9f3b4f258507f655403e3e7c80657d44c)
-- [ ] [<code>Add release notes for version 8.0.1 (#118)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/a810cf79f757444abbc84ee2fc2d375548f2d362)
-- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/switchboard-plug-notifications/commit/748b9ab6ec4b6d60a27be82d2db421ca9a7782d4)
-- [ ] [<code>Release 8.0.1 (#119)</code>](https://github.com/elementary/switchboard-plug-notifications/commit/574e5836cfeb8f36763733f8c64eabbb5de5d7d0)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -417,17 +297,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/settings-onlineaccounts/commit/59b69c2e98992f084807af46631498f4696eafe9)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-onlineaccounts/commit/dd649f66d9a9b1c38ee7d03e8a63d7bc464d6bd9)
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [8.2.0 → HEAD](https://github.com/elementary/settings-desktop/compare/8.2.0...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.2.1 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.2.1...HEAD)
 
-- [ ] [<code>Don't set Gtk theme (#448)</code>](https://github.com/elementary/settings-desktop/commit/cf4213cbda1bc94f83825fbe18814f9e695cb6e3)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Appearance: update dock style (#452)</code>](https://github.com/elementary/settings-desktop/commit/3e92ce82aa64a7db57e638edcdd78914382b23ed)
-- [ ] [<code>Actions: Use main branch (#453)</code>](https://github.com/elementary/settings-desktop/commit/0d098e77f090079766274a42dada7d8ac0271bc1)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#454)</code>](https://github.com/elementary/settings-desktop/commit/e7a3111ee1b4714ea2e8620f02b8f2717fa88b77)
-- [ ] [<code>Metainfo: Add release 8.2.1 (#460)</code>](https://github.com/elementary/settings-desktop/commit/ea646b4e5cdc987215f1fe6bb8730619f383e8b0)
-- [ ] [<code>Release 8.2.1 (#461)</code>](https://github.com/elementary/settings-desktop/commit/ced9a2b22c1c641b4a168836318c4fa8a36bbc17)
-  - <sub>Tags: <code>8.2.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Multitasking: use small labels for hotcorners (#465)</code>](https://github.com/elementary/settings-desktop/commit/4ff276afa20e72568ac6e0c883c2fee36c148bb4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -436,35 +307,11 @@
 
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/settings-power/commit/16258a31e6607d7af728b5a3475333bb23d67005)
 
-#### [pantheon.switchboard-plug-printers](https://github.com/elementary/switchboard-plug-printers): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-printers/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>Plug: add headerbar to placeholder (#213)</code>](https://github.com/elementary/switchboard-plug-printers/commit/fbb9da26c39c1d09d7d61200d30478d04f5fa863)
-- [ ] [<code>Actions: Use main branch (#215)</code>](https://github.com/elementary/switchboard-plug-printers/commit/947da4c7cb75598ec08b3f1d32dec0f39a3d184b)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-printers/commit/dd795d99929ab2cdbe20e29a3c08f6974ebc98cb)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-printers/commit/b4eeb3966be36a90f8f1e2c0fcfcc9bcfd46533b)
-- [ ] [<code>Update printers.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-printers/commit/c59d197d87b444194745442371610fc7738711fa)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-printers/commit/75293b3e28735d4399533a96faf7eda20369c05e)
-- [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/switchboard-plug-printers/commit/32b07fa43938c9f6d798d81bf0a0e401cbd3191a)
-- [ ] [<code>Add release notes for version 8.0.2 (#218)</code>](https://github.com/elementary/switchboard-plug-printers/commit/274c3c634b7d439ff7d95dc5528d05658d61194e)
-- [ ] [<code>Release 8.0.2 (#219)</code>](https://github.com/elementary/switchboard-plug-printers/commit/96f7b71d79a878de099574ecbefe31ecc25a7171)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/switchboard-plug-security-privacy): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-security-privacy/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/settings-security-privacy): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-security-privacy/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/133b4f0c112b332a527b18a55e38a7f5cdbc5a62)
-- [ ] [<code>FirewallPanel: get permission async (#185)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/08c818a19eebca825e35967f7e596e817331352b)
-- [ ] [<code>Use Gtk.FileDialog to choose excluded folders (#186)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/7ce1832140845113302ff103b56c742b63f5e2ec)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Actions: Use main branch (#189)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/16cb1967fd021e18976ad3d9a7b2900183f335a0)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#190)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/f3a03b01024f26e5564a49161f4cf2a8df4de10e)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/cf09da24fbb00612e46b5428646221f65c9276fa)
-- [ ] [<code>Update security-privacy.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/a0c540633faa57eadc5f18de2aa6c2cad2329abd)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#192)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/ffb12be41d9cad28a9a722daf6af0ae355baee21)
-- [ ] [<code>Release 8.0.2 (#193)</code>](https://github.com/elementary/switchboard-plug-security-privacy/commit/3c697f501177f129e2c30744b8287e30e8524166)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
 
@@ -588,6 +435,7 @@
 - [ ] [<code>DragDropAction: Don't consume events before drag started</code>](https://github.com/elementary/gala/commit/46adb2daad40787e1650d08489f83abe276781c5)
 - [ ] [<code>Require GLib 2.78 (#2650)</code>](https://github.com/elementary/gala/commit/825de063fe61e8ed81e7979c84d3ecba130a2d6d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add 8.3.1 release notes (#2652)</code>](https://github.com/elementary/gala/commit/ac82f0cba72c5b3f59cdce7145267dda144e6f1a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -845,6 +693,7 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.1...HEAD)
 
+- [ ] [<code>Add 8.1.2 release notes (#281)</code>](https://github.com/elementary/notifications/commit/f7f6d44f905706a14d6cdf2b63cfc94d891f7c7c)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
@@ -854,6 +703,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#204)</code>](https://github.com/elementary/settings-daemon/commit/b42e068d4058bf1cba074e75ec37015d568e4f4c)
 - [ ] [<code>Sync wingpanel's "Show Percentage" option (#194)</code>](https://github.com/elementary/settings-daemon/commit/ba73326555bdefb225c3f5b5cb6c3d500523cf57)
 - [ ] [<code>Support Latte (#209)</code>](https://github.com/elementary/settings-daemon/commit/d65126832c9ec4dbccc9f0ce36cc466961a16914)
+- [ ] [<code>Add 8.4.0 release notes (#212)</code>](https://github.com/elementary/settings-daemon/commit/fc26b3170175a8700289ef7a030845cef1240d8b)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
