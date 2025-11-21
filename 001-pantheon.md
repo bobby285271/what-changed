@@ -69,6 +69,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>IconGroup: change focused style (#439)</code>](https://github.com/elementary/dock/commit/2c2b4340f20a7e25bb55f5b48b26fc6506e27e18)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Give the new ws icon the same focus style as the icon groups. (#506)</code>](https://github.com/elementary/dock/commit/909ecc78845177a83eb25162bd8a77b37eaefda6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 8.3.0 (#480)</code>](https://github.com/elementary/dock/commit/1cdaf1d7e57f8823ebdaee6ffd641c4cf9dddc4e)
+  - <sub>Tags: <code>8.3.0</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -111,6 +116,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Rename occurrences of `appdata.xml` to `metainfo.xml` (#506)</code>](https://github.com/elementary/monitor/commit/6c51160a5a9cf63e156613e68a40dcd0e7913124)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch to using most active gpu in statusbar and indicator (#504)</code>](https://github.com/elementary/monitor/commit/57842eda326dc9a51ed257cec6dd541a038a4e4f)
+- [ ] [<code>patch: add `xvfb` to dependencies</code>](https://github.com/elementary/monitor/commit/530c2183c154da6c3937355f4aa3cc5402274d89)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -219,6 +226,7 @@
 - [ ] [<code>Use Granite.Box for LINKED (#941)</code>](https://github.com/elementary/terminal/commit/75cbccf854b0bc4a6a65d63efe03dc5cf490bca9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix search shortcuts (#942)</code>](https://github.com/elementary/terminal/commit/cead64b47c801118fab9d47f45f67edd9388ce2a)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -393,6 +401,9 @@
 - [ ] [<code>Sync wingpanel's "Show Percentage" option (#814)</code>](https://github.com/elementary/greeter/commit/74ba219d57031249a1c7152cad2b7fdc0204b995)
 - [ ] [<code>UserCard: when syncing settings set value type explicitly (#838)</code>](https://github.com/elementary/greeter/commit/ac6de86c5248510785ac44c528f987085e408676)
 - [ ] [<code>Add 8.1.1 release notes (#844)</code>](https://github.com/elementary/greeter/commit/add281bd3f53726d6a02bd79c597cb4bb8bb0d1d)
+- [ ] [<code>Move focus handling from UserCard to BaseCard (#836)</code>](https://github.com/elementary/greeter/commit/cdb3fc9a820e9c067f0fc716a330af142da8c150)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: list missing build dependencies (#842)</code>](https://github.com/elementary/greeter/commit/030437ee5267609511fdd4bb12cb80026e5fd207)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -401,6 +412,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/onboarding/commit/c77340e901da2fbe92c8632dd01d7fa5c3d05002)
 - [ ] [<code>StyleView: wrap sunset-to-sunrise label (#260)</code>](https://github.com/elementary/onboarding/commit/7d25a6f0d7de2b70ddf440f8ce76efc3601bb4bb)
 - [ ] [<code>Metainfo: Add release 8.0.4 (#262)</code>](https://github.com/elementary/onboarding/commit/d969ddaf36daf1afad1a31a8ebd7f5a1e6b0d2a5)
+- [ ] [<code>Move CSS to Application.css (#263)</code>](https://github.com/elementary/onboarding/commit/36c4c815f5eea1bb6baa8528fbe03ce83ff4b466)
+- [ ] [<code>Fix deprecated Granite style classes (#265)</code>](https://github.com/elementary/onboarding/commit/e70aa2eadfe07df161c7de1e86989be5e4572518)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -438,6 +451,11 @@
 - [ ] [<code>Require GLib 2.78 (#2650)</code>](https://github.com/elementary/gala/commit/825de063fe61e8ed81e7979c84d3ecba130a2d6d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add 8.3.1 release notes (#2652)</code>](https://github.com/elementary/gala/commit/ac82f0cba72c5b3f59cdce7145267dda144e6f1a)
+- [ ] [<code>WindowStateSaver: validate saved window position before placing (#2611)</code>](https://github.com/elementary/gala/commit/c1526620203b8e4cefcda1619c5e33da2e0d87af)
+- [ ] [<code>WindowSwitcher: Reduce gesture sensitivity (#2637)</code>](https://github.com/elementary/gala/commit/f66c1a567cddb75a61ae26aca6006307781b1e7b)
+- [ ] [<code>WindowClone: always show close button (#2645)</code>](https://github.com/elementary/gala/commit/159635353a0d615b7e1a45cdfdc030c0e48b1107)
+- [ ] [<code>CloseButton: Use Clutter.ClickAction (#2656)</code>](https://github.com/elementary/gala/commit/9cb594762543ea2fbef9d65ef56203cbd307214a)
+- [ ] [<code>SessionLocker: fix warning (#2649)</code>](https://github.com/elementary/gala/commit/26fffacde5ab4745c56681f4338ca779df2da4fc)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -697,6 +715,7 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.1...HEAD)
 
 - [ ] [<code>Add 8.1.2 release notes (#281)</code>](https://github.com/elementary/notifications/commit/f7f6d44f905706a14d6cdf2b63cfc94d891f7c7c)
+- [ ] [<code>X11: Avoid using present (#280)</code>](https://github.com/elementary/notifications/commit/8a7c06f760346e0e63783f65fa71c29a5e7299c2)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
