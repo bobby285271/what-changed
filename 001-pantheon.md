@@ -74,6 +74,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Release 8.3.0 (#480)</code>](https://github.com/elementary/dock/commit/1cdaf1d7e57f8823ebdaee6ffd641c4cf9dddc4e)
   - <sub>Tags: <code>8.3.0</code></sub>
+- [ ] [<code>Launcher: remove duplicate action constants (#507)</code>](https://github.com/elementary/dock/commit/9908602af1fec5a79a620aaed36e5fb268235caf)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
