@@ -28,6 +28,7 @@
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
 
+- [ ] [<code>SourceDialog: redesign with vertical layout (#856)</code>](https://github.com/elementary/calendar/commit/0c573191503e7860770a11ce0983512ba74c15ce)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -119,6 +120,27 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch to using most active gpu in statusbar and indicator (#504)</code>](https://github.com/elementary/monitor/commit/57842eda326dc9a51ed257cec6dd541a038a4e4f)
 - [ ] [<code>patch: add `xvfb` to dependencies</code>](https://github.com/elementary/monitor/commit/530c2183c154da6c3937355f4aa3cc5402274d89)
+- [ ] [<code>patch: add missing commas to test</code>](https://github.com/elementary/monitor/commit/2c46bfb0fee752d3f6a0cdd44181b88ae83fdb36)
+- [ ] [<code>change: switch from gtk3 init to gtk4 init</code>](https://github.com/elementary/monitor/commit/96d1e04c0d91539c0f4d23824f7a87315473c1c7)
+- [ ] [<code>change: uncomment out meson subdir tests</code>](https://github.com/elementary/monitor/commit/afa1e0599045d3a1e3b5e65ed44a9f6e7e42591d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>change: add test to suite for easier runnability</code>](https://github.com/elementary/monitor/commit/27dbf715e0926613fa527a7531cc4ce70c59e95a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: add new GH action for running tests</code>](https://github.com/elementary/monitor/commit/c4284fde8b7ef7fc4913e009373189e2c0eb316d)
+- [ ] [<code>change: add empty wrapper to test</code>](https://github.com/elementary/monitor/commit/367e1ef34247173219b1f70b40ea363b617cb4c9)
+- [ ] [<code>change: add xvfb to run test, tweak suite name</code>](https://github.com/elementary/monitor/commit/69135527c820a298401c347a78103b97f9bd35dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>change: dbus dependency</code>](https://github.com/elementary/monitor/commit/56567da532af8843dd93c806b558a4f7ab8c7c2f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>change: specify gtk_a11y as test</code>](https://github.com/elementary/monitor/commit/f5aa156e5e81760160116c4ce16f2a84c39cb5ba)
+- [ ] [<code>change: switch to using weston</code>](https://github.com/elementary/monitor/commit/ce89d10af080acb9c71911b14b958254cc7f455e)
+- [ ] [<code>change: fix cdg runtime dir issue</code>](https://github.com/elementary/monitor/commit/09ec000cb912140cfae17606fbf22046ef574c4d)
+- [ ] [<code>change: adjust env variable</code>](https://github.com/elementary/monitor/commit/a8d1140da5e8cdb38e7b59e2ba01da3edf8fded3)
+- [ ] [<code>change: adjust weston config</code>](https://github.com/elementary/monitor/commit/7841ff31c43714bae4024a8567ae36179a1549e6)
+- [ ] [<code>Fix command syntax for running tests in CI</code>](https://github.com/elementary/monitor/commit/7377c1673dd7008b1c6b50b6a298a75a4105c0c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add missing test dir</code>](https://github.com/elementary/monitor/commit/ea88f24b3815a44f47d31f06617dc98400895ae1)
+- [ ] [<code>Set environment variables for test workflow</code>](https://github.com/elementary/monitor/commit/c54ae3f06e13582e628a887a4987d0bb4a12af5a)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -228,6 +250,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix search shortcuts (#942)</code>](https://github.com/elementary/terminal/commit/cead64b47c801118fab9d47f45f67edd9388ce2a)
+- [ ] [<code>Move adding new tab method to TerminalView (#950)</code>](https://github.com/elementary/terminal/commit/434e384f0fd60592cf2f479416a7a5f123219642)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Allow Ctrl+Backspace for deleting words (#949)</code>](https://github.com/elementary/terminal/commit/47a821c2cf23771465a3d97777b9c123dfaab0e1)
+- [ ] [<code>Ctrl + Click to open URLs (#952)</code>](https://github.com/elementary/terminal/commit/d26c9bd10226345207314f7992ee764c5a1fdd20)
+- [ ] [<code>Move zoom overlay to TerminalView (#951)</code>](https://github.com/elementary/terminal/commit/996a5fa32564aaddceda9f7367ddb35178647b73)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -415,6 +443,10 @@
 - [ ] [<code>Metainfo: Add release 8.0.4 (#262)</code>](https://github.com/elementary/onboarding/commit/d969ddaf36daf1afad1a31a8ebd7f5a1e6b0d2a5)
 - [ ] [<code>Move CSS to Application.css (#263)</code>](https://github.com/elementary/onboarding/commit/36c4c815f5eea1bb6baa8528fbe03ce83ff4b466)
 - [ ] [<code>Fix deprecated Granite style classes (#265)</code>](https://github.com/elementary/onboarding/commit/e70aa2eadfe07df161c7de1e86989be5e4572518)
+- [ ] [<code>Use Granite.Box (#268)</code>](https://github.com/elementary/onboarding/commit/f3a9a77c2d5640c659b43452bb6befb508561b4c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>WelcomeView: use Granite.ListItem and Granite.Box (#266)</code>](https://github.com/elementary/onboarding/commit/f84a949851a29690cca1b6d6910d244a048d6425)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -422,6 +454,7 @@
 
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/session-settings/compare/refs/tags/8.1.0...HEAD)
 
+- [ ] [<code>chore(deps): bump actions/checkout from 5 to 6 (#96)</code>](https://github.com/elementary/session-settings/commit/0088a23736cd57c3a4bf433cba4ac2ab9fbc9103)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -457,6 +490,12 @@
 - [ ] [<code>WindowClone: always show close button (#2645)</code>](https://github.com/elementary/gala/commit/159635353a0d615b7e1a45cdfdc030c0e48b1107)
 - [ ] [<code>CloseButton: Use Clutter.ClickAction (#2656)</code>](https://github.com/elementary/gala/commit/9cb594762543ea2fbef9d65ef56203cbd307214a)
 - [ ] [<code>SessionLocker: fix warning (#2649)</code>](https://github.com/elementary/gala/commit/26fffacde5ab4745c56681f4338ca779df2da4fc)
+- [ ] [<code>PropertyTarget: remove transitions on gesture start (#2625)</code>](https://github.com/elementary/gala/commit/f5d9fbb36dcac4577fb02dcb75f271f8a5705dae)
+- [ ] [<code>wayland: Add make_modal protocol method</code>](https://github.com/elementary/gala/commit/e75dbfafb78819c91d93157c8b140c8feb833786)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowClone: Don't disable swipe to close on reduced motion (#2659)</code>](https://github.com/elementary/gala/commit/6fa83e06c11ab36169787268aafc0acb85938330)
+- [ ] [<code>Enable 'scale-monitor-framebuffer' by default (#2660)</code>](https://github.com/elementary/gala/commit/7b0492910001956e278a4d159c0e71480a92eb13)
+- [ ] [<code>Update release version to 8.4.0 and add issue link (#2661)</code>](https://github.com/elementary/gala/commit/4df49644aa06d62c4c9429f17740b965fd70fe06)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -692,6 +731,7 @@
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.0.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.0.0...HEAD)
 
 - [ ] [<code>Actions: Use main branch (#6)</code>](https://github.com/elementary/pantheon-wayland/commit/6d112befc81d35650df34b40e4ef910e88f75181)
+- [ ] [<code>Add the make_modal method (#7)</code>](https://github.com/elementary/pantheon-wayland/commit/0eb542342ab4751ecc2bd70228f246986d5b3a83)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
