@@ -44,37 +44,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.2.0 → HEAD](https://github.com/elementary/dock/compare/8.2.0...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.0 → HEAD](https://github.com/elementary/dock/compare/8.3.0...HEAD)
 
-- [ ] [<code>Add blur (#390)</code>](https://github.com/elementary/dock/commit/bf85936e09f0d0a3b6662156692c3aeaa9caa2f5)
-- [ ] [<code>Styles: increase transparency (#456)</code>](https://github.com/elementary/dock/commit/4dea7d25ae8061e098e1593cf1edeff2a274f94f)
-- [ ] [<code>Make long touch gesture touch only (#462)</code>](https://github.com/elementary/dock/commit/b37771d6084313057d7aced097c4165190e883c0)
-- [ ] [<code>Small cleanup (#459)</code>](https://github.com/elementary/dock/commit/9fa93cbc7501d26efd8f2d79d4e5804f2aae2cdd)
-- [ ] [<code>Move BottomMargin into a separate file and clean it up (#461)</code>](https://github.com/elementary/dock/commit/588ddeb0e14a8ab726c72877629ecba8f8aa74ae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>l10n: Correct Chinese language codes (#463)</code>](https://github.com/elementary/dock/commit/82cb7a1478ccba942b19b1ee8d821265781915c5)
-- [ ] [<code>LINGUAS: Remove zh_HK</code>](https://github.com/elementary/dock/commit/c710e6ff7c9be7d6183440c3cd5dea868b4d6fc4)
-- [ ] [<code>Increase actionable area of an app icon all way to the screen edge (#460)</code>](https://github.com/elementary/dock/commit/055bfea61ab3736539e722c96ccdf95638e54dc7)
-- [ ] [<code> Metainfo: start 8.3.0 release notes</code>](https://github.com/elementary/dock/commit/1591f310dbfd94a217f09c750959587a42bf075f)
-- [ ] [<code>Launcher: better badge animation (#466)</code>](https://github.com/elementary/dock/commit/f04363a7293d0ee7eef8a241cf417ccdbbd1decb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update Granite label styles (#472)</code>](https://github.com/elementary/dock/commit/fc59da6cb560219178a0beb6fdeed5d59958b9fb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Blur: Don't hardcode dock border-radius (#458)</code>](https://github.com/elementary/dock/commit/a292379b1cded02a86da497a149a4e1a0e2914a8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: Add issue link for dock bubble animation (#481)</code>](https://github.com/elementary/dock/commit/8d3847c601ec0cae344c9bc4bd4ed188e0437158)
-- [ ] [<code>Default to building workspace switcher (#492)</code>](https://github.com/elementary/dock/commit/d6dea6e47017df9d44bfff522df617e374d5b1d7)
-  - <sub>Files: <code>meson_options.txt</code></sub>
-- [ ] [<code>BaseIconGroup: Use FlowBox instead of manual layouting (#484)</code>](https://github.com/elementary/dock/commit/6967a99bd5991cda8fc9a9676c6b3b0cd6ec2a96)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>IconGroup: change focused style (#439)</code>](https://github.com/elementary/dock/commit/2c2b4340f20a7e25bb55f5b48b26fc6506e27e18)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Give the new ws icon the same focus style as the icon groups. (#506)</code>](https://github.com/elementary/dock/commit/909ecc78845177a83eb25162bd8a77b37eaefda6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 8.3.0 (#480)</code>](https://github.com/elementary/dock/commit/1cdaf1d7e57f8823ebdaee6ffd641c4cf9dddc4e)
-  - <sub>Tags: <code>8.3.0</code></sub>
 - [ ] [<code>Launcher: remove duplicate action constants (#507)</code>](https://github.com/elementary/dock/commit/9908602af1fec5a79a620aaed36e5fb268235caf)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
