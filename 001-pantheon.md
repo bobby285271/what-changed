@@ -256,6 +256,7 @@
 - [ ] [<code>Ctrl + Click to open URLs (#952)</code>](https://github.com/elementary/terminal/commit/d26c9bd10226345207314f7992ee764c5a1fdd20)
 - [ ] [<code>Move zoom overlay to TerminalView (#951)</code>](https://github.com/elementary/terminal/commit/996a5fa32564aaddceda9f7367ddb35178647b73)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>MainWindow: remove clipboard (#954)</code>](https://github.com/elementary/terminal/commit/91c2a07ebd0febf0120038eff17141f493bf3c7e)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
