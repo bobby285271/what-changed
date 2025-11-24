@@ -33,6 +33,7 @@
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
+- [ ] [<code>Bump actions/checkout from 5 to 6 (#301)</code>](https://github.com/elementary/camera/commit/5b499f5b6087f93a1612c7397f67e53e2518b3c5)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.1.2...HEAD)
 
@@ -228,6 +229,8 @@
 - [ ] [<code>Move zoom overlay to TerminalView (#951)</code>](https://github.com/elementary/terminal/commit/996a5fa32564aaddceda9f7367ddb35178647b73)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>MainWindow: remove clipboard (#954)</code>](https://github.com/elementary/terminal/commit/91c2a07ebd0febf0120038eff17141f493bf3c7e)
+- [ ] [<code>Move alt+[1-8] shortcuts to TerminalView (#953)</code>](https://github.com/elementary/terminal/commit/c84dced6d5494ee67b872d6ea150435e19d6637a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -293,6 +296,7 @@
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.0.3...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 5 to 6 (#262)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/f9586701f9b780e952656f481577ccd8a736ded1)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -373,6 +377,7 @@
 
 - [ ] [<code>Actions: Use actions/release@main (#193)</code>](https://github.com/elementary/wallpapers/commit/f6a6b11b42b9b119548078405cb0e4b7052cfff9)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/wallpapers/commit/2cd908d92565b8465778b1f56f5ae88892bb18bb)
+- [ ] [<code>Bump actions/checkout from 5 to 6 (#195)</code>](https://github.com/elementary/wallpapers/commit/96799719f2f755123d9065a60832c9f7a18d17c4)
 ## desktop
 
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.1.0 → HEAD](https://github.com/elementary/default-settings/compare/8.1.0...HEAD)
@@ -625,6 +630,7 @@
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/8.0.0...HEAD)
 
 - [ ] [<code>WifiInterface: Get permission async (#353)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/82b45bb3e749f5a891b13f459f13ed74796a25c6)
+- [ ] [<code>Fix crash on captive portal Wi-Fi by ensuring NMConnection is fully initialized (#354)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4245f6a4c22b7651782677925ca504cf5e12041d)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -753,6 +759,7 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a068ef0148de8013ea1e40c33495f146980ee0ee)
 - [ ] [<code>PolkitDialog: use Gtk.PasswordEntry (#91)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/305a4e5d002518573abfe9d1e8554e826f001139)
 - [ ] [<code>Metainfo: Add release notes for version 8.0.2 (#93)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3498403b9fdecb24665bb5cde0aa80e320443702)
+- [ ] [<code>Bump actions/checkout from 5 to 6 (#95)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e228305e86b947f52624cab6201e3c034a389590)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
