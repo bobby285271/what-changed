@@ -22,6 +22,7 @@
 - [ ] [<code>Metainfo: Add release notes for 8.3.2</code>](https://github.com/elementary/appcenter/commit/88621c22e616e2af5c0aeaccd1352ab97ba36083)
 - [ ] [<code>Fix typo in issue description</code>](https://github.com/elementary/appcenter/commit/1029b4fd074ae6663eda2cc1696bda902e8d80a0)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#2380)</code>](https://github.com/elementary/appcenter/commit/2ac19982bfdc98d172f525328a62a2f33b18a324)
+- [ ] [<code>Add missing build dependencies to README (#2378)</code>](https://github.com/elementary/appcenter/commit/3a69bec1262e1e107dc64ae18f149992416ff900)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
