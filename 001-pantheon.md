@@ -59,11 +59,15 @@
 - [ ] [<code>Move Tooltip to BaseItem</code>](https://github.com/elementary/dock/commit/f1175411a42fb09abb09064ee1b3c31909ac90af)
 - [ ] [<code>DynamicWorkspaecItem: add tooltip</code>](https://github.com/elementary/dock/commit/ab3dc415143c123f0e3d0068c073f355d87e0eed)
 - [ ] [<code>Fit popovers interaction with hide mode never (#515)</code>](https://github.com/elementary/dock/commit/5e164844c76c4b2893b0633539b40153d4ccda5f)
+- [ ] [<code>BaseIconGroup: make flowbox child unfocusable (#518)</code>](https://github.com/elementary/dock/commit/100fd5dd919fa5a4520c4e55b1804562d3bca29f)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/feedback/commit/7a05f1e3b44f808cd38b702fbd305a7ae2e3ea6e)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/feedback/commit/4ae4ae59fb72f263291439af3e01e0f7e7e0be7c)
+- [ ] [<code>MainWindow: use Adw.NavigationView (#126)</code>](https://github.com/elementary/feedback/commit/f69d781ff60d42ecc497c3ab35e597b25cb0acd9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -255,6 +259,7 @@
 - [ ] [<code>Move alt+[1-8] shortcuts to TerminalView (#953)</code>](https://github.com/elementary/terminal/commit/c84dced6d5494ee67b872d6ea150435e19d6637a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/terminal/commit/8bb736ba3ffdbd839f09e5fa6d88840c9c1555f5)
+- [ ] [<code>Metainfo for v8.0.0 (#957)</code>](https://github.com/elementary/terminal/commit/b4c0f2d55f4a89d3b594e522198e60007787600c)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -458,6 +463,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>docs: list missing build dependencies (#842)</code>](https://github.com/elementary/greeter/commit/030437ee5267609511fdd4bb12cb80026e5fd207)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/greeter/commit/1bfc30b33855191f9bbb6ecc9479d7bae7829d68)
+- [ ] [<code>Release 8.1.1 (#845)</code>](https://github.com/elementary/greeter/commit/c3a8756631daceb2c3183bc3a4a24ca009ff5dc3)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
 
@@ -473,6 +481,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>WelcomeView: use Granite.ListItem and Granite.Box (#266)</code>](https://github.com/elementary/onboarding/commit/f84a949851a29690cca1b6d6910d244a048d6425)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#269)</code>](https://github.com/elementary/onboarding/commit/41e809952b2702e34e38a77613af4b40d9db4284)
+- [ ] [<code>Update appearance previews (#270)</code>](https://github.com/elementary/onboarding/commit/7e7114092c65c2947115bc1bdad8d5314ac29742)
+- [ ] [<code>Release 8.0.4 (#264)</code>](https://github.com/elementary/onboarding/commit/0c28a0a50ad71f835cb7362f9011c91585a3cafc)
+  - <sub>Tags: <code>8.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -809,6 +821,11 @@
 - [ ] [<code>X11: Avoid using present (#280)</code>](https://github.com/elementary/notifications/commit/8a7c06f760346e0e63783f65fa71c29a5e7299c2)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#286)</code>](https://github.com/elementary/notifications/commit/4f360a45fb32619296c5bd173eb0a9654d86f966)
 - [ ] [<code>Make screen reader announce notifications (#283)</code>](https://github.com/elementary/notifications/commit/b54d379afb3cd8f95da34963f1b3825bb4016ccf)
+- [ ] [<code>Handle "urgency" and "desktop-entry" hints in server (#265)</code>](https://github.com/elementary/notifications/commit/93fbe228d4da756f0b6af68d728767deaa669821)
+- [ ] [<code>Notification: create find_icon function (#285)</code>](https://github.com/elementary/notifications/commit/ab80833b9ba875feaf3723b73852f46f79bfa96a)
+- [ ] [<code>Release 8.1.2 (#282)</code>](https://github.com/elementary/notifications/commit/0fbd2fb200dfac6489df8af1ca5b174abfe831cd)
+  - <sub>Tags: <code>8.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
 
