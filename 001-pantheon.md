@@ -60,6 +60,8 @@
 - [ ] [<code>DynamicWorkspaecItem: add tooltip</code>](https://github.com/elementary/dock/commit/ab3dc415143c123f0e3d0068c073f355d87e0eed)
 - [ ] [<code>Fit popovers interaction with hide mode never (#515)</code>](https://github.com/elementary/dock/commit/5e164844c76c4b2893b0633539b40153d4ccda5f)
 - [ ] [<code>BaseIconGroup: make flowbox child unfocusable (#518)</code>](https://github.com/elementary/dock/commit/100fd5dd919fa5a4520c4e55b1804562d3bca29f)
+- [ ] [<code>Make pinned action a property action (#521)</code>](https://github.com/elementary/dock/commit/f4920fbb591c7e7e0985c8e5e11cb353e94d6082)
+- [ ] [<code>metainfo: add issue #520 (#522)</code>](https://github.com/elementary/dock/commit/1a592b45a1b08b4eb30c531a9617cb81a9c93063)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -136,6 +138,9 @@
 - [ ] [<code>Fix background-state not saved with the preferences switch (#509)</code>](https://github.com/elementary/monitor/commit/799c8e67817f1f3afa7766dc426d8067530f63be)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add driver_name property to GPU classes with a new get_string_property in PCI vapi</code>](https://github.com/elementary/monitor/commit/a1321e83d2d39e56636495f932a71cb91fad53bd)
+- [ ] [<code>Release 8.0.1 (#513)</code>](https://github.com/elementary/monitor/commit/21f167307f3cdda0cb5660e4b6a0b8c35a7cf65e)
+  - <sub>Tags: <code>8.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -260,6 +265,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/terminal/commit/8bb736ba3ffdbd839f09e5fa6d88840c9c1555f5)
 - [ ] [<code>Metainfo for v8.0.0 (#957)</code>](https://github.com/elementary/terminal/commit/b4c0f2d55f4a89d3b594e522198e60007787600c)
+- [ ] [<code>Don't deselect text with natural copy/paste (#960)</code>](https://github.com/elementary/terminal/commit/ac0e1454b023021a2b035380eae2942bbf1755a8)
+- [ ] [<code>Update v8.0.0 metadata (#962)</code>](https://github.com/elementary/terminal/commit/74587cae32c1fc2585be06424df0191ecce55df0)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -447,44 +454,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.0...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.1...HEAD)
 
-- [ ] [<code>Fix CSS typo (#834)</code>](https://github.com/elementary/greeter/commit/fdec4bb910bd8de2301c95819f6bf32067e85d61)
-- [ ] [<code>Fix card switching (#832)</code>](https://github.com/elementary/greeter/commit/b883c4539246f59871a6a743afaca7c64caac786)
-- [ ] [<code>Compositor: implement NotificationStack (#833)</code>](https://github.com/elementary/greeter/commit/bdeace6946a333845ba3c21eb0f46e2578822ba1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Remove accountservice dependency (#835)</code>](https://github.com/elementary/greeter/commit/04f83fb4a328c155ed90216aebcff2fa95dc7396)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Sync wingpanel's "Show Percentage" option (#814)</code>](https://github.com/elementary/greeter/commit/74ba219d57031249a1c7152cad2b7fdc0204b995)
-- [ ] [<code>UserCard: when syncing settings set value type explicitly (#838)</code>](https://github.com/elementary/greeter/commit/ac6de86c5248510785ac44c528f987085e408676)
-- [ ] [<code>Add 8.1.1 release notes (#844)</code>](https://github.com/elementary/greeter/commit/add281bd3f53726d6a02bd79c597cb4bb8bb0d1d)
-- [ ] [<code>Move focus handling from UserCard to BaseCard (#836)</code>](https://github.com/elementary/greeter/commit/cdb3fc9a820e9c067f0fc716a330af142da8c150)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>docs: list missing build dependencies (#842)</code>](https://github.com/elementary/greeter/commit/030437ee5267609511fdd4bb12cb80026e5fd207)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/greeter/commit/1bfc30b33855191f9bbb6ecc9479d7bae7829d68)
-- [ ] [<code>Release 8.1.1 (#845)</code>](https://github.com/elementary/greeter/commit/c3a8756631daceb2c3183bc3a4a24ca009ff5dc3)
-  - <sub>Tags: <code>8.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.3 → HEAD](https://github.com/elementary/onboarding/compare/8.0.3...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#255)</code>](https://github.com/elementary/onboarding/commit/dda8d64e5e2a8859cf8f57913460711fffa98e80)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#256)</code>](https://github.com/elementary/onboarding/commit/7d3e83a275b1cf29e8626a7d0a9e08a846b2224f)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/onboarding/commit/c77340e901da2fbe92c8632dd01d7fa5c3d05002)
-- [ ] [<code>StyleView: wrap sunset-to-sunrise label (#260)</code>](https://github.com/elementary/onboarding/commit/7d25a6f0d7de2b70ddf440f8ce76efc3601bb4bb)
-- [ ] [<code>Metainfo: Add release 8.0.4 (#262)</code>](https://github.com/elementary/onboarding/commit/d969ddaf36daf1afad1a31a8ebd7f5a1e6b0d2a5)
-- [ ] [<code>Move CSS to Application.css (#263)</code>](https://github.com/elementary/onboarding/commit/36c4c815f5eea1bb6baa8528fbe03ce83ff4b466)
-- [ ] [<code>Fix deprecated Granite style classes (#265)</code>](https://github.com/elementary/onboarding/commit/e70aa2eadfe07df161c7de1e86989be5e4572518)
-- [ ] [<code>Use Granite.Box (#268)</code>](https://github.com/elementary/onboarding/commit/f3a9a77c2d5640c659b43452bb6befb508561b4c)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>WelcomeView: use Granite.ListItem and Granite.Box (#266)</code>](https://github.com/elementary/onboarding/commit/f84a949851a29690cca1b6d6910d244a048d6425)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#269)</code>](https://github.com/elementary/onboarding/commit/41e809952b2702e34e38a77613af4b40d9db4284)
-- [ ] [<code>Update appearance previews (#270)</code>](https://github.com/elementary/onboarding/commit/7e7114092c65c2947115bc1bdad8d5314ac29742)
-- [ ] [<code>Release 8.0.4 (#264)</code>](https://github.com/elementary/onboarding/commit/0c28a0a50ad71f835cb7362f9011c91585a3cafc)
-  - <sub>Tags: <code>8.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -697,15 +671,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ec8eb6a5c48966f93fbe7d87d34fc9b1c91ab44b)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/357aa0809f6c4ef5329288bf35a997cfed7aced0)
 
-#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [8.0.0 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/8.0.0...HEAD)
+#### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
-- [ ] [<code>WifiInterface: Get permission async (#353)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/82b45bb3e749f5a891b13f459f13ed74796a25c6)
-- [ ] [<code>Fix crash on captive portal Wi-Fi by ensuring NMConnection is fully initialized (#354)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4245f6a4c22b7651782677925ca504cf5e12041d)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#355)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3c8f3fd8be71d51716ddb17a4fe94d742f869703)
-- [ ] [<code>Metainfo: add 8.0.1 release notes (#356)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/5798240b1141773f957acef0f4363c1f3c96436e)
-- [ ] [<code>Release 8.0.1 (#357)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/3071b9ac837b83773cc386501371dcec923154fc)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -815,31 +782,11 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#142)</code>](https://github.com/elementary/capnet-assist/commit/8467208c8ed9ff81853bcbed4e5396de651d8d91)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#143)</code>](https://github.com/elementary/capnet-assist/commit/13fa5572eafc8b57cd9669dcd61cf3843dc84425)
 
-#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.1...HEAD)
+#### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
-- [ ] [<code>Add 8.1.2 release notes (#281)</code>](https://github.com/elementary/notifications/commit/f7f6d44f905706a14d6cdf2b63cfc94d891f7c7c)
-- [ ] [<code>X11: Avoid using present (#280)</code>](https://github.com/elementary/notifications/commit/8a7c06f760346e0e63783f65fa71c29a5e7299c2)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#286)</code>](https://github.com/elementary/notifications/commit/4f360a45fb32619296c5bd173eb0a9654d86f966)
-- [ ] [<code>Make screen reader announce notifications (#283)</code>](https://github.com/elementary/notifications/commit/b54d379afb3cd8f95da34963f1b3825bb4016ccf)
-- [ ] [<code>Handle "urgency" and "desktop-entry" hints in server (#265)</code>](https://github.com/elementary/notifications/commit/93fbe228d4da756f0b6af68d728767deaa669821)
-- [ ] [<code>Notification: create find_icon function (#285)</code>](https://github.com/elementary/notifications/commit/ab80833b9ba875feaf3723b73852f46f79bfa96a)
-- [ ] [<code>Release 8.1.2 (#282)</code>](https://github.com/elementary/notifications/commit/0fbd2fb200dfac6489df8af1ca5b174abfe831cd)
-  - <sub>Tags: <code>8.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.3.1 → HEAD](https://github.com/elementary/settings-daemon/compare/8.3.1...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.4.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.4.0...HEAD)
 
-- [ ] [<code>SystemUpdate: Use systemd timer for initial and daily update check (#200)</code>](https://github.com/elementary/settings-daemon/commit/1e2412950e7e62d3933858a098317030635e0f36)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Use main branch (#202)</code>](https://github.com/elementary/settings-daemon/commit/f24a92172f74acbfa50d4d863e65770b99bc0a1d)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#204)</code>](https://github.com/elementary/settings-daemon/commit/b42e068d4058bf1cba074e75ec37015d568e4f4c)
-- [ ] [<code>Sync wingpanel's "Show Percentage" option (#194)</code>](https://github.com/elementary/settings-daemon/commit/ba73326555bdefb225c3f5b5cb6c3d500523cf57)
-- [ ] [<code>Support Latte (#209)</code>](https://github.com/elementary/settings-daemon/commit/d65126832c9ec4dbccc9f0ce36cc466961a16914)
-- [ ] [<code>Add 8.4.0 release notes (#212)</code>](https://github.com/elementary/settings-daemon/commit/fc26b3170175a8700289ef7a030845cef1240d8b)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#215)</code>](https://github.com/elementary/settings-daemon/commit/70c17124080fd979b9a9225ef408cf7e34e7962d)
-- [ ] [<code>Release 8.4.0 (#213)</code>](https://github.com/elementary/settings-daemon/commit/6c5bb6fa1c095ed184f03721e065131dcda7e41a)
-  - <sub>Tags: <code>8.4.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
