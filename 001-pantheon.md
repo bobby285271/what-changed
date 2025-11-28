@@ -456,6 +456,9 @@
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.1...HEAD)
 
+- [ ] [<code>Add support for Mutter 49</code>](https://github.com/elementary/greeter/commit/3b82e4000b5f28f3bb4079291f8d441f3991e11a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
