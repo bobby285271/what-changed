@@ -102,45 +102,8 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#178)</code>](https://github.com/elementary/maps/commit/870db0dc75c4d8ecac95d4d269ffa622249b118d)
 
-#### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.0...HEAD)
+#### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
-- [ ] [<code>Update deprecated Granite css classes usage (#492)</code>](https://github.com/elementary/monitor/commit/5f73aea16653da3a03fce52e12da0b96a241d5ed)
-- [ ] [<code>Set gtk-alternative-sort-arrows to false (#491)</code>](https://github.com/elementary/monitor/commit/e42a91564b76e9221064adf0cca58b85b662e460)
-- [ ] [<code>Converts Compact classes to fundamental ones (#493)</code>](https://github.com/elementary/monitor/commit/cccbaf5b17bd13c6f3dcbd147aaa89d38e6523ed)
-- [ ] [<code>Fix parsing issue for feature/bug data from csvs (#497)</code>](https://github.com/elementary/monitor/commit/9f4abe6c30be3932d623b540fc925c3eaf11904d)
-- [ ] [<code>Add swap data to memory info (#499)</code>](https://github.com/elementary/monitor/commit/c02b303e3c9e083a59cdd3dfe32d31df04cb9a5c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Rename occurrences of `appdata.xml` to `metainfo.xml` (#506)</code>](https://github.com/elementary/monitor/commit/6c51160a5a9cf63e156613e68a40dcd0e7913124)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to using most active gpu in statusbar and indicator (#504)</code>](https://github.com/elementary/monitor/commit/57842eda326dc9a51ed257cec6dd541a038a4e4f)
-- [ ] [<code>patch: add `xvfb` to dependencies</code>](https://github.com/elementary/monitor/commit/530c2183c154da6c3937355f4aa3cc5402274d89)
-- [ ] [<code>patch: add missing commas to test</code>](https://github.com/elementary/monitor/commit/2c46bfb0fee752d3f6a0cdd44181b88ae83fdb36)
-- [ ] [<code>change: switch from gtk3 init to gtk4 init</code>](https://github.com/elementary/monitor/commit/96d1e04c0d91539c0f4d23824f7a87315473c1c7)
-- [ ] [<code>change: uncomment out meson subdir tests</code>](https://github.com/elementary/monitor/commit/afa1e0599045d3a1e3b5e65ed44a9f6e7e42591d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>change: add test to suite for easier runnability</code>](https://github.com/elementary/monitor/commit/27dbf715e0926613fa527a7531cc4ce70c59e95a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>feat: add new GH action for running tests</code>](https://github.com/elementary/monitor/commit/c4284fde8b7ef7fc4913e009373189e2c0eb316d)
-- [ ] [<code>change: add empty wrapper to test</code>](https://github.com/elementary/monitor/commit/367e1ef34247173219b1f70b40ea363b617cb4c9)
-- [ ] [<code>change: add xvfb to run test, tweak suite name</code>](https://github.com/elementary/monitor/commit/69135527c820a298401c347a78103b97f9bd35dc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>change: dbus dependency</code>](https://github.com/elementary/monitor/commit/56567da532af8843dd93c806b558a4f7ab8c7c2f)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>change: specify gtk_a11y as test</code>](https://github.com/elementary/monitor/commit/f5aa156e5e81760160116c4ce16f2a84c39cb5ba)
-- [ ] [<code>change: switch to using weston</code>](https://github.com/elementary/monitor/commit/ce89d10af080acb9c71911b14b958254cc7f455e)
-- [ ] [<code>change: fix cdg runtime dir issue</code>](https://github.com/elementary/monitor/commit/09ec000cb912140cfae17606fbf22046ef574c4d)
-- [ ] [<code>change: adjust env variable</code>](https://github.com/elementary/monitor/commit/a8d1140da5e8cdb38e7b59e2ba01da3edf8fded3)
-- [ ] [<code>change: adjust weston config</code>](https://github.com/elementary/monitor/commit/7841ff31c43714bae4024a8567ae36179a1549e6)
-- [ ] [<code>Fix command syntax for running tests in CI</code>](https://github.com/elementary/monitor/commit/7377c1673dd7008b1c6b50b6a298a75a4105c0c4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add missing test dir</code>](https://github.com/elementary/monitor/commit/ea88f24b3815a44f47d31f06617dc98400895ae1)
-- [ ] [<code>Set environment variables for test workflow</code>](https://github.com/elementary/monitor/commit/c54ae3f06e13582e628a887a4987d0bb4a12af5a)
-- [ ] [<code>Fix background-state not saved with the preferences switch (#509)</code>](https://github.com/elementary/monitor/commit/799c8e67817f1f3afa7766dc426d8067530f63be)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add driver_name property to GPU classes with a new get_string_property in PCI vapi</code>](https://github.com/elementary/monitor/commit/a1321e83d2d39e56636495f932a71cb91fad53bd)
-- [ ] [<code>Release 8.0.1 (#513)</code>](https://github.com/elementary/monitor/commit/21f167307f3cdda0cb5660e4b6a0b8c35a7cf65e)
-  - <sub>Tags: <code>8.0.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
