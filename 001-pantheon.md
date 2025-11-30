@@ -230,6 +230,8 @@
 - [ ] [<code>Metainfo for v8.0.0 (#957)</code>](https://github.com/elementary/terminal/commit/b4c0f2d55f4a89d3b594e522198e60007787600c)
 - [ ] [<code>Don't deselect text with natural copy/paste (#960)</code>](https://github.com/elementary/terminal/commit/ac0e1454b023021a2b035380eae2942bbf1755a8)
 - [ ] [<code>Update v8.0.0 metadata (#962)</code>](https://github.com/elementary/terminal/commit/74587cae32c1fc2585be06424df0191ecce55df0)
+- [ ] [<code>TerminalWidget: remove internal tab usage (#963)</code>](https://github.com/elementary/terminal/commit/663748249c980474cc23b723edc59d5ad6fc70a8)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -265,6 +267,7 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-applications/commit/aca1d9b1f26fbd5159e4f5f03b02a6a7cd77dffb)
+- [ ] [<code>Startup: Remove unused get_path_from_uri (#270)</code>](https://github.com/elementary/settings-applications/commit/a56977bdada93606508d24dee51a2f03642961a2)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
