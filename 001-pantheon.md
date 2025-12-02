@@ -62,6 +62,8 @@
 - [ ] [<code>BaseIconGroup: make flowbox child unfocusable (#518)</code>](https://github.com/elementary/dock/commit/100fd5dd919fa5a4520c4e55b1804562d3bca29f)
 - [ ] [<code>Make pinned action a property action (#521)</code>](https://github.com/elementary/dock/commit/f4920fbb591c7e7e0985c8e5e11cb353e94d6082)
 - [ ] [<code>metainfo: add issue #520 (#522)</code>](https://github.com/elementary/dock/commit/1a592b45a1b08b4eb30c531a9617cb81a9c93063)
+- [ ] [<code>Allow to dnd a window icon to the new workspace item (#509)</code>](https://github.com/elementary/dock/commit/4cbd18e71d1bfe9ce6c173d0885c52214148239b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -70,6 +72,7 @@
 - [ ] [<code>MainWindow: use Adw.NavigationView (#126)</code>](https://github.com/elementary/feedback/commit/f69d781ff60d42ecc497c3ab35e597b25cb0acd9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MainWindow: Ignore components without a bugtracker URL (#130)</code>](https://github.com/elementary/feedback/commit/b21b9b055b0b31fe6bc7c9cd8d5178de98c5c4dd)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
