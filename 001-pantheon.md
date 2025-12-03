@@ -23,6 +23,8 @@
 - [ ] [<code>Fix typo in issue description</code>](https://github.com/elementary/appcenter/commit/1029b4fd074ae6663eda2cc1696bda902e8d80a0)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#2380)</code>](https://github.com/elementary/appcenter/commit/2ac19982bfdc98d172f525328a62a2f33b18a324)
 - [ ] [<code>Add missing build dependencies to README (#2378)</code>](https://github.com/elementary/appcenter/commit/3a69bec1262e1e107dc64ae18f149992416ff900)
+- [ ] [<code>Update appcenter.metainfo.xml.in (#2383)</code>](https://github.com/elementary/appcenter/commit/da173e152f847e16528e27b6179d51d580c34c12)
+- [ ] [<code>Revert "Update appcenter.metainfo.xml.in (#2383)" (#2385)</code>](https://github.com/elementary/appcenter/commit/1fbf2088a6ae02e245b7a6ac06cf430a871ad0ce)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -64,6 +66,11 @@
 - [ ] [<code>metainfo: add issue #520 (#522)</code>](https://github.com/elementary/dock/commit/1a592b45a1b08b4eb30c531a9617cb81a9c93063)
 - [ ] [<code>Allow to dnd a window icon to the new workspace item (#509)</code>](https://github.com/elementary/dock/commit/4cbd18e71d1bfe9ce6c173d0885c52214148239b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ItemManager: sync_pinned when launcher added (#525)</code>](https://github.com/elementary/dock/commit/6abc76d63717bbd7ca58fb680740818119e35328)
+- [ ] [<code>Update dock.metainfo.xml.in (#528)</code>](https://github.com/elementary/dock/commit/0188da1b9e0820d850af8d51e0837062945f9742)
+- [ ] [<code>Release 8.3.1 (#519)</code>](https://github.com/elementary/dock/commit/8fe278ec8bfb88fad74c796c125bac7d9873eae9)
+  - <sub>Tags: <code>8.3.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -73,6 +80,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>MainWindow: Ignore components without a bugtracker URL (#130)</code>](https://github.com/elementary/feedback/commit/b21b9b055b0b31fe6bc7c9cd8d5178de98c5c4dd)
+- [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -235,6 +243,7 @@
 - [ ] [<code>Update v8.0.0 metadata (#962)</code>](https://github.com/elementary/terminal/commit/74587cae32c1fc2585be06424df0191ecce55df0)
 - [ ] [<code>TerminalWidget: remove internal tab usage (#963)</code>](https://github.com/elementary/terminal/commit/663748249c980474cc23b723edc59d5ad6fc70a8)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Reconstruct menu model every time we show it (#964)</code>](https://github.com/elementary/terminal/commit/a23c9d81d022e9d4c2ac54fb4e7678050f34d0a3)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -388,6 +397,10 @@
 - [ ] [<code>Fix Latte palette is built partially (#1340)</code>](https://github.com/elementary/stylesheet/commit/62ae8c41366d6ce2012da9861fb533860955fae3)
 - [ ] [<code>CheckButtons: Support Latte (#1341)</code>](https://github.com/elementary/stylesheet/commit/03b74e7f2a7e84eae0eb2fbdb13896b2480b0291)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/stylesheet/commit/c983900261b47309f59ff2a02223037a0956d11a)
+- [ ] [<code>Update stylesheet.appdata.xml.in (#1347)</code>](https://github.com/elementary/stylesheet/commit/14ec565663904b3754bdf200d2e2ab1f82768787)
+- [ ] [<code>Release 8.2.2 (#1346)</code>](https://github.com/elementary/stylesheet/commit/9cfb767873d583f6ed29e96cf27728bb69fd9237)
+  - <sub>Tags: <code>8.2.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/8.2.0...HEAD)
 
@@ -512,6 +525,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#646)</code>](https://github.com/elementary/wingpanel/commit/8e615179c8226b6e91fd4e57d115989566a2ef44)
+- [ ] [<code>Metainfo: add 8.0.4 release notes (#647)</code>](https://github.com/elementary/wingpanel/commit/50c48451b7ed116345059a9e25ad15dac16b1b52)
+- [ ] [<code>Initiate window drag only after drag threshold is reached (#631)</code>](https://github.com/elementary/wingpanel/commit/669386617eb1fabf5636867450cc0f75021ed2da)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
@@ -563,6 +578,9 @@
 - [ ] [<code>Metainfo: Add release 8.0.2 (#678)</code>](https://github.com/elementary/applications-menu/commit/b1494dd3234772f3469091af442b098edc26ace8)
 - [ ] [<code>README: Add gettext to deps (#684)</code>](https://github.com/elementary/applications-menu/commit/80ffe5e487417e00a484520aa9a2fa115f701aac)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/applications-menu/commit/b1e97b24b1b04d143ef72db1672fd0915070f952)
+- [ ] [<code>Release 8.0.2 (#679)</code>](https://github.com/elementary/applications-menu/commit/b3d8c61ec2b3282ac2f21408834540e9173b72cc)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
