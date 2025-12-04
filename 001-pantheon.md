@@ -497,6 +497,12 @@
 - [ ] [<code>Move windows to shell group when window type changes (#2646)</code>](https://github.com/elementary/gala/commit/446b04acfca3825d3749711a8e3a7a0ffc1f8572)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#2666)</code>](https://github.com/elementary/gala/commit/52876289686bb5e9085e3c94f97732f8b94b462c)
 - [ ] [<code>Don't apply scale twice when using fractional scaling (#2664)</code>](https://github.com/elementary/gala/commit/8f27f4c1b70b1f33d887aa17ae773eacfb0b6835)
+- [ ] [<code>Image: Allow specifying preferred size</code>](https://github.com/elementary/gala/commit/0c25c629c22a47cffbbd6e92410eb7029966f543)
+- [ ] [<code>Introduce Gala.Icon</code>](https://github.com/elementary/gala/commit/a00d8a724cad97ee77ec171f13134bf4d8f1a3fe)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CloseButton: Use Gala.Icon</code>](https://github.com/elementary/gala/commit/e56a7525152e0b23219bb2b5723510f5e254b9a0)
+- [ ] [<code>Use gala icon for window icon (#2673)</code>](https://github.com/elementary/gala/commit/0e9dce374e6fddc9a4b303f6e1b14edeeadcc9e0)
+- [ ] [<code>Update gala.metainfo.xml.in (#2677)</code>](https://github.com/elementary/gala/commit/ca442b887609904adbe329e133089964837f10aa)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -527,6 +533,9 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#646)</code>](https://github.com/elementary/wingpanel/commit/8e615179c8226b6e91fd4e57d115989566a2ef44)
 - [ ] [<code>Metainfo: add 8.0.4 release notes (#647)</code>](https://github.com/elementary/wingpanel/commit/50c48451b7ed116345059a9e25ad15dac16b1b52)
 - [ ] [<code>Initiate window drag only after drag threshold is reached (#631)</code>](https://github.com/elementary/wingpanel/commit/669386617eb1fabf5636867450cc0f75021ed2da)
+- [ ] [<code>Release 8.0.4 (#648)</code>](https://github.com/elementary/wingpanel/commit/cb055fd0749034965f05c17d40fff80a9e5b9c25)
+  - <sub>Tags: <code>8.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.1 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.1...HEAD)
