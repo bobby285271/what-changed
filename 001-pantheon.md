@@ -25,6 +25,7 @@
 - [ ] [<code>Add missing build dependencies to README (#2378)</code>](https://github.com/elementary/appcenter/commit/3a69bec1262e1e107dc64ae18f149992416ff900)
 - [ ] [<code>Update appcenter.metainfo.xml.in (#2383)</code>](https://github.com/elementary/appcenter/commit/da173e152f847e16528e27b6179d51d580c34c12)
 - [ ] [<code>Revert "Update appcenter.metainfo.xml.in (#2383)" (#2385)</code>](https://github.com/elementary/appcenter/commit/1fbf2088a6ae02e245b7a6ac06cf430a871ad0ce)
+- [ ] [<code>Application: rely on Granite.StyleManager (#2386)</code>](https://github.com/elementary/appcenter/commit/8269a0b05f85fff708c573e726d7a90fab642dc5)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -71,6 +72,7 @@
 - [ ] [<code>Release 8.3.1 (#519)</code>](https://github.com/elementary/dock/commit/8fe278ec8bfb88fad74c796c125bac7d9873eae9)
   - <sub>Tags: <code>8.3.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Application: rely on Granite.StyleManager (#531)</code>](https://github.com/elementary/dock/commit/15039eeecca73ad0a99a7679191cdad38aa6f348)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -81,6 +83,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>MainWindow: Ignore components without a bugtracker URL (#130)</code>](https://github.com/elementary/feedback/commit/b21b9b055b0b31fe6bc7c9cd8d5178de98c5c4dd)
 - [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
+- [ ] [<code>MainWindow: rely on Granite.StyleManager (#132)</code>](https://github.com/elementary/feedback/commit/056d6540220a4ab0e3e41b75479536a55f1e3691)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
 
@@ -213,6 +216,9 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#420)</code>](https://github.com/elementary/tasks/commit/559b801395e87348e95035f1e49685c1ee6e1cbb)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/tasks/commit/ea0854a6a0a5d09d4019e31f6a001169375aee51)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/tasks/commit/64cad56c506001b291b2ae7d42e6e59df0c4642f)
+- [ ] [<code>Application: rely on Granite.StyleManager (#423)</code>](https://github.com/elementary/tasks/commit/b5abf31a84eb12820ea0da3246383cd336abd241)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
@@ -252,6 +258,9 @@
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/sideload/commit/da7cc176879302fe797d3775df59bdd78b6150ba)
+- [ ] [<code>Application: rely on Granite.StyleManager (#183)</code>](https://github.com/elementary/sideload/commit/d64463327843847a05b95152f342a08bec968708)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -270,6 +279,7 @@
 - [ ] [<code>AppData → Metainfo (#372)</code>](https://github.com/elementary/switchboard/commit/36e88927cfdbd8b56da1ea3f90f4cd98600c8c51)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard/commit/f8139342cdb1245b76a7452dc93e5edcacf046ce)
+- [ ] [<code>Application: rely on Granite.StyleManager (#377)</code>](https://github.com/elementary/switchboard/commit/11c067223b6ebaccc6ccbba1a0de6c028113c7e3)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.2 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.2...HEAD)
@@ -444,6 +454,7 @@
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
+- [ ] [<code>Application: rely on Granite.StyleManager (#271)</code>](https://github.com/elementary/onboarding/commit/3f7aee3ab0814560bd63bf140b1d35eeadda30bd)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -458,6 +469,9 @@
 - [ ] [<code>Actions: Use main branch (#162)</code>](https://github.com/elementary/shortcut-overlay/commit/6252fb04cb7c9f4e85e85421e8d2bd753b54b4d9)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/shortcut-overlay/commit/358060cc1afb9b5ebbd1c80c3eaf493a18e4b2ff)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/shortcut-overlay/commit/62c34106630121bd485e825cae266766b1b59ff5)
+- [ ] [<code>Application: Granite.init (#166)</code>](https://github.com/elementary/shortcut-overlay/commit/71b37c55e917f9295f7db68ca218137743cfe044)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -503,6 +517,9 @@
 - [ ] [<code>CloseButton: Use Gala.Icon</code>](https://github.com/elementary/gala/commit/e56a7525152e0b23219bb2b5723510f5e254b9a0)
 - [ ] [<code>Use gala icon for window icon (#2673)</code>](https://github.com/elementary/gala/commit/0e9dce374e6fddc9a4b303f6e1b14edeeadcc9e0)
 - [ ] [<code>Update gala.metainfo.xml.in (#2677)</code>](https://github.com/elementary/gala/commit/ca442b887609904adbe329e133089964837f10aa)
+- [ ] [<code>Release 8.4.0 (#2653)</code>](https://github.com/elementary/gala/commit/0f8ad184efb12b4334eb5f696fa7424f303a5eae)
+  - <sub>Tags: <code>8.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [8.0.3 → HEAD](https://github.com/elementary/wingpanel/compare/8.0.3...HEAD)
 
@@ -783,6 +800,7 @@
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
+- [ ] [<code>Demo/Application: rely on Granite.StyleManager (#287)</code>](https://github.com/elementary/notifications/commit/48f20edff6da82ff6c30efa71ba6ba1a218201ba)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.4.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.4.0...HEAD)
 
@@ -802,6 +820,9 @@
 - [ ] [<code>Metainfo: Add release notes for version 8.0.2 (#93)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3498403b9fdecb24665bb5cde0aa80e320443702)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#95)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e228305e86b947f52624cab6201e3c034a389590)
 - [ ] [<code>Make the polkit dialog modal on wayland (#92)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a24f62af952cf17677b2ba405dcc0ce05b9552c3)
+- [ ] [<code>Application: rely on Granite.StyleManager (#97)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/c92ae4fd1a7510a95562180cc91052e06e03d9b0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
