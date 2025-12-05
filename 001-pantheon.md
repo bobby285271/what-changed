@@ -415,6 +415,7 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/8.2.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#1401)</code>](https://github.com/elementary/icons/commit/97bc05934711a5e6b5c62bc071c4f5c44b50f4c8)
+- [ ] [<code>Copyright prep for Inkscape contribution (#1402)</code>](https://github.com/elementary/icons/commit/abde1057927482e35b50aa29d9483c7ec9b945a7)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
