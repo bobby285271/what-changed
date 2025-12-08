@@ -84,6 +84,9 @@
 - [ ] [<code>Pad the formatted datetime (#2666)</code>](https://github.com/elementary/files/commit/d397a94c7217db4dc708c2c50dbaa9b994b54041)
 - [ ] [<code>Add metainfo for v7.2.0  (#2671)</code>](https://github.com/elementary/files/commit/57f95bd9c9e9ae331f15abd2fb2a0fc4ac896e67)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/files/commit/b9fab97566d691ee8eb82ede76fabda3bfc6b3f4)
+- [ ] [<code>Release v7.2.0 (#2678)</code>](https://github.com/elementary/files/commit/3525b3f9ac18756ba76769dcaa012ca53274ec23)
+  - <sub>Tags: <code>7.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
