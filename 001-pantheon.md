@@ -58,6 +58,9 @@
 
 - [ ] [<code>Application: rely on Granite.StyleManager (#531)</code>](https://github.com/elementary/dock/commit/15039eeecca73ad0a99a7679191cdad38aa6f348)
 - [ ] [<code>pantheon-desktop-shell: Manually bind the free function (#498)</code>](https://github.com/elementary/dock/commit/92fa48c2d2bcb1df24d01bd62bed3d1db226adf5)
+- [ ] [<code>CSS: add active style for icongroup (#534)</code>](https://github.com/elementary/dock/commit/8f4af74019847f373c87ef38d9ddabb33fda3024)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Launcher: Release the second running indicator when needed (#538)</code>](https://github.com/elementary/dock/commit/937ef8d94843f5e56ec5351e94b044d5a3163860)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -107,6 +110,12 @@
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>Appearance: don't set dark pref, dry loading provider</code>](https://github.com/elementary/monitor/commit/12a606e75819849e920f01dccaf7ecf403054237)
+- [ ] [<code>Remove deprecated functions in meson files</code>](https://github.com/elementary/monitor/commit/5dc9c613512aa2eb130a17c5256c4ee66b66c752)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add meson version requirement to project definition</code>](https://github.com/elementary/monitor/commit/5e5a6f810fc7cd04b2c35c9ee37c9bb45623b47d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove debug arguments</code>](https://github.com/elementary/monitor/commit/a248f9748523df998b586993c93c389d8ffa8f6a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
