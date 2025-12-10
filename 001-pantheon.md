@@ -73,23 +73,8 @@
 - [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
 - [ ] [<code>MainWindow: rely on Granite.StyleManager (#132)</code>](https://github.com/elementary/feedback/commit/056d6540220a4ab0e3e41b75479536a55f1e3691)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.1.6 → HEAD](https://github.com/elementary/files/compare/7.1.6...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
 
-- [ ] [<code>Separate afc fix; use for abstractmountable</code>](https://github.com/elementary/files/commit/265c691793a6ba2dbd5118f0856b6d1f088d8116)
-- [ ] [<code>Revert "Separate afc fix; use for abstractmountable" (#2655)</code>](https://github.com/elementary/files/commit/cda7466409dd7d6a517dae7b49850602698b83da)
-- [ ] [<code>Add compact dateformat mode (#2646)</code>](https://github.com/elementary/files/commit/b00edf9e59a034890bf68c65253e6277ea3327aa)
-- [ ] [<code>Add hidden_label;  Add update_empty_labels ()</code>](https://github.com/elementary/files/commit/6df80846c9afb3deecf3dc0cd062ea4db784e75a)
-- [ ] [<code>Revert "Add hidden_label;  Add update_empty_labels ()"</code>](https://github.com/elementary/files/commit/5ace4b5dad43fb7886d2cad8a355d6929cf50b9f)
-- [ ] [<code>Fix pathbar flicker (#2660)</code>](https://github.com/elementary/files/commit/88f7efc11f7684f7369ffec237c67efad92db4a7)
-- [ ] [<code>Discontinue help action and shortcut (#2664)</code>](https://github.com/elementary/files/commit/c8e65481e520e99a42f9e2b713343bd3461cf4e1)
-- [ ] [<code>Only allow setting default app for regular files, not folders (#2665)</code>](https://github.com/elementary/files/commit/f14642493101421625c325c1190b5df928ccd85f)
-- [ ] [<code>Fix destination icon in file conflict dialog (#2656)</code>](https://github.com/elementary/files/commit/e5e898efe70d0a6db138b074d8ce06f2a3502864)
-- [ ] [<code>Pad the formatted datetime (#2666)</code>](https://github.com/elementary/files/commit/d397a94c7217db4dc708c2c50dbaa9b994b54041)
-- [ ] [<code>Add metainfo for v7.2.0  (#2671)</code>](https://github.com/elementary/files/commit/57f95bd9c9e9ae331f15abd2fb2a0fc4ac896e67)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/files/commit/b9fab97566d691ee8eb82ede76fabda3bfc6b3f4)
-- [ ] [<code>Release v7.2.0 (#2678)</code>](https://github.com/elementary/files/commit/3525b3f9ac18756ba76769dcaa012ca53274ec23)
-  - <sub>Tags: <code>7.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -406,6 +391,7 @@
 
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#1401)</code>](https://github.com/elementary/icons/commit/97bc05934711a5e6b5c62bc071c4f5c44b50f4c8)
 - [ ] [<code>Copyright prep for Inkscape contribution (#1402)</code>](https://github.com/elementary/icons/commit/abde1057927482e35b50aa29d9483c7ec9b945a7)
+- [ ] [<code>Add dialog-paint-server for Inkscape (#1389)</code>](https://github.com/elementary/icons/commit/ee7bd93e4bf0f887e65f32b94d81388a6f06731c)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -684,26 +670,8 @@
 - [ ] [<code>Switch to GHCR containers (#57)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/42e991061a54a7244c0ad96278466a3144499f81)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/41de16b445e4f6b56c3041836bde8ead449f5b43)
 
-#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.1 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...HEAD)
+#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.2 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.2...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#87)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/36d99e7c5d52a336c529ba05543e976e4957cc53)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/pantheon-agent-polkit/commit/cd51af815971cfd7ec1af43b72ac7cb88dc05c63)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a068ef0148de8013ea1e40c33495f146980ee0ee)
-- [ ] [<code>PolkitDialog: use Gtk.PasswordEntry (#91)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/305a4e5d002518573abfe9d1e8554e826f001139)
-- [ ] [<code>Metainfo: Add release notes for version 8.0.2 (#93)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/3498403b9fdecb24665bb5cde0aa80e320443702)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#95)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/e228305e86b947f52624cab6201e3c034a389590)
-- [ ] [<code>Make the polkit dialog modal on wayland (#92)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/a24f62af952cf17677b2ba405dcc0ce05b9552c3)
-- [ ] [<code>Application: rely on Granite.StyleManager (#97)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/c92ae4fd1a7510a95562180cc91052e06e03d9b0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update agent-polkit.metainfo.xml.in (#100)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/232a5d2f73db7aa941a707a6ac48d42fa5aa8bd7)
-- [ ] [<code>PolkitDialog: fix Granite CSS deprecations (#101)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/6372960472a1d1bd9e75b262983239661aba6a88)
-- [ ] [<code>Bump PantheonWayland dep (#98)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/8d492f464bd0224da565783acfcf6df7bada72a2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Release 8.0.2 (#94)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/9e93b53ebb3d7784eba4908243f168662da434da)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
