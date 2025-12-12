@@ -117,6 +117,16 @@
         },
         {
             "attr_path": "xdg-desktop-portal-xapp"
+        },
+        {
+            "kind": "markdown",
+            "content": "## xapp-project"
+        },
+        {
+            "attr_path": "gnome-online-accounts-gtk"
+        },
+        {
+            "attr_path": "xapp-symbolic-icons"
         }
     ]
 }
