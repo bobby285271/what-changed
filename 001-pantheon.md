@@ -75,6 +75,8 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
 
+- [ ] [<code>LibCore: compile gresource (#2682)</code>](https://github.com/elementary/files/commit/9448195685bd04dc1d719b866701efdf513d41e0)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -711,6 +713,8 @@
   - <sub>Tags: <code>8.1.0-rc1</code></sub>
 - [ ] [<code>Bump to 8.1 (#789)</code>](https://github.com/elementary/os/commit/9d5ce4009b441cdf2745336bf9559ded327c235a)
   - <sub>Tags: <code>8.1.0-rc2</code></sub>
+- [ ] [<code>README: update badges (#790)</code>](https://github.com/elementary/os/commit/dacdbde6934f7abf012643d9a042d642e9993fde)
+  - <sub>Tags: <code>8.1.0-rc3</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
