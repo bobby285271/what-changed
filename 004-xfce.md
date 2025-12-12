@@ -70,6 +70,8 @@
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/garcon/commit/86e60f40f4440dd17c7779d5711b1c4b5a5cafbc)
 - [ ] [<code>Fix XfceRc leak in garcon_menu_directory_new</code>](https://github.com/xfce-mirror/garcon/commit/25b8c79f627ae2cd1ab692c4bfb0e866c7782f03)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/garcon/commit/6805f28bb06da89a471789521efde021ef5c0289)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/garcon/commit/335a400df88a1f6173a4e7d22b8e0cbf9fb52bf7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -177,6 +179,21 @@
 - [ ] [<code>clipboard-manager: Use GtkClipboard iff image-only format is available</code>](https://github.com/xfce-mirror/libxfce4ui/commit/700678574d5edff83c24f8b105409765b4d764ab)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/libxfce4ui/commit/08742d4b04fdcd66f1cb4d38b7e6c46bd98af900)
 - [ ] [<code>Remove unused macro redefinitions</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fe1c2d5cd5baef5148ae8a16d5bfc5fd19081816)
+- [ ] [<code>xfce-die: Require min dialog size based on text entry contents</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c7ed2db21639018841e33910e006ee16472a0b4e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add XfceItemListView, XfceItemListStore and XfceItemListModel</code>](https://github.com/xfce-mirror/libxfce4ui/commit/08fd1f8c3e4336abd52b70d5d43678c0b4b24c87)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/libxfce4ui/commit/11b29d7394dfc162a8cb9c8b363beb4296a94f4b)
+- [ ] [<code>po: Add missing file to translate</code>](https://github.com/xfce-mirror/libxfce4ui/commit/639ce5f5114b55c449f3326042fbed15a908fcaf)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/8bdbccf333fd35cccbd196eaf93c30fc811635a3)
+  - <sub>Tags: <code>libxfce4ui-4.21.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a949e7d6725ade162b343f6077372eb4ec32dd39)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9916bbf794bd233df039b9301c65bdde8d8b8b39)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -242,6 +259,8 @@
 - [ ] [<code>Revert "Update README after switchover to meson"</code>](https://github.com/xfce-mirror/libxfce4util/commit/7134dfc94898650a303f3eb96a0be4b8a06a5b5c)
 - [ ] [<code>autotools-build: Add *-docs.xml.in to EXTRA_DIST</code>](https://github.com/xfce-mirror/libxfce4util/commit/34d86697b848069c1b19b67e92a7b1c391ce5dc4)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/aa1485b72df71089baf4e77aeac478e21a44f0c1)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4util/commit/ef97bc17ec112ad5d25abe3acf03965d5c9beffa)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -358,6 +377,8 @@
 - [ ] [<code>XfwWindowX11: Readjust entire monitor list when one is added/removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56f9de0736150c88f0b5f04a71aa73e502c1c6a7)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d67160222b0a0606c220d575e5d8612c5fbdf184)
 - [ ] [<code>XfwWorkspaceWayland: Add missing sanity check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bc96b103bc98798d6bd7012c4b68c310359d580e)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5e443e5de0c92ed405265f18a98446f651c4e331)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -670,6 +691,20 @@
 - [ ] [<code>Make build with terminal optional (#1735) (Closes #1735)</code>](https://github.com/xfce-mirror/thunar/commit/1f122692a0b3a79baf0dafab2d75afd887b98968)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Cache the "smart sort" preference (#1744) ()</code>](https://github.com/xfce-mirror/thunar/commit/8abd19de7720cc2d7e11a200204ec381d6dc5cb7)
+- [ ] [<code>Do not use g_log_set_always_fatal()</code>](https://github.com/xfce-mirror/thunar/commit/fd896f0db02141cf7c96522247a453b99647b99e)
+- [ ] [<code>Fix move/delete when selected files contain other files (#1749)</code>](https://github.com/xfce-mirror/thunar/commit/d6a369e7b69a4cf7bda51f56b859961c0c36f37b)
+- [ ] [<code>Fix move/delete when selected files contain other files (#1749)</code>](https://github.com/xfce-mirror/thunar/commit/cd90b0f7bfb4e23a4a21a4b1992cae005548571c)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/thunar/commit/7f6940ace2528f04518a600d9b2099e287c4ece7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix symlink resolve for desktop files (#1757)</code>](https://github.com/xfce-mirror/thunar/commit/26c98d2835f6394afb204e44071532609b5bf829)
+- [ ] [<code>Add unit tests for "thunar_g_file_resolve_symlink" (#1757)</code>](https://github.com/xfce-mirror/thunar/commit/b867e85850d073aa1a31a9c3166899c9c931a6f9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Fix g_object_unref warning</code>](https://github.com/xfce-mirror/thunar/commit/be8892f937c94c046c64776759231f037d1a7289)
+- [ ] [<code>Prevent crash on non-local symlinks (#1757)</code>](https://github.com/xfce-mirror/thunar/commit/6dcddb4f39170ab58c200852ef77b4e6fa9158d8)
+- [ ] [<code>Prevent "set but not used" build warning</code>](https://github.com/xfce-mirror/thunar/commit/e42b6899751b18145bded85831380fac69f9ba43)
+- [ ] [<code>Show 'queued' message only for queued jobs (#1755)</code>](https://github.com/xfce-mirror/thunar/commit/aba32f6d44bad4b8e0b1f0dd2ea878aa96c6d1ed)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -688,6 +723,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/thunar-volman/commit/c6c47d74621436e605dfe8bcfed5cdd78b7e8808)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/f0f17ca45cefd8af786f0615f5caa76eb57102ce)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/thunar-volman/commit/ecd6ea2c8367858bda8614e45bc0d2642920e177)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -738,6 +775,8 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/dfa435052d7f4e646b57e18398ad6292e2d75630)
 - [ ] [<code>gst-thumbnailer: Fix TumblerThumbnailFlavor leak</code>](https://github.com/xfce-mirror/tumbler/commit/75f921e1bf0964a402ec2c6d0706e04a85011026)
 - [ ] [<code>gepub-thumbnailer: Get pixbuf in "area-prepared" signal handler</code>](https://github.com/xfce-mirror/tumbler/commit/d3562a038c2676f6dcb430b56f92b18b1e289f2f)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/tumbler/commit/52db6b118dbad9cc6fafd265eaeb2efbb1124ec5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -775,6 +814,12 @@
 - [ ] [<code>Add option to clear frecency history (#102)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/69b0abc76107e8bb38c95fd2a640a9a8a2b67202)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Simplify</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/cd598f07a553bd1ac6b97f73d264348ae8b25a7d)
+- [ ] [<code>Correctly load symbolic icons</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/c942cfd39fd79e1bf888c54f36dfda32a394aee6)
+- [ ] [<code>fuzzy search: Optimize</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/3c6aa40c01ece6180e71194a8111a9f421912a3c)
+- [ ] [<code>search: Only fuzzy search by app name and command</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/9c0c48f1993150dedcea995350bbaa7e0a253f82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e68388958b060e242a65c6704f2d9155af08a11d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -830,6 +875,8 @@
 - [ ] [<code>ci: Add libsystemd-dev, xmlto to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4a2e93c110e790e900c5cc80aeae73129de80c28)
 - [ ] [<code>ci: Add libpam0g-dev to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/03f5c6e18a46526090a5f675ef1ad77c92ddd138)
 - [ ] [<code>ci: Add docbook-xml to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a66e10cd3f675150fddd3517a6b922f0ccf9f5f4)
+- [ ] [<code>meson: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c66caa948c534a240eed4ac00e377a8e6556b918)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -957,6 +1004,24 @@
 - [ ] [<code>wayland: Minimalist management of workspace group change when unused</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9c829ae45981274c26436268dd373ba97847ef44)
 - [ ] [<code>prefs-dialog: Reset add/remove buttons sensitivity when needed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6e17423e4ed110f2b99cf8defa7978597b25825f)
 - [ ] [<code>Implement a keep below option</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8b43d158b1195e4f92ab77689c2da49338181f56)
+- [ ] [<code>wayland: Set plugins internal unless forced external</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c2307d00d6fd4536a6feda403ea05c31fee80582)
+- [ ] [<code>prefs-dialog: Use XfceItemListView from libxfce4ui</code>](https://github.com/xfce-mirror/xfce4-panel/commit/54d423c28526b71669b2503438a4bc4325a9f90d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>launcher: Use XfceItemListView from libxfce4ui</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4edb076d3b0055c2fabccd9b6bfc478666411998)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tasklist: Extend include-all-monitors option to monitors-to-include</code>](https://github.com/xfce-mirror/xfce4-panel/commit/850735dbc46b9a3ccdca19f85b8797e0286bb2a9)
+- [ ] [<code>showdesktop: Add remote-event to change plugin state</code>](https://github.com/xfce-mirror/xfce4-panel/commit/95edf2fde8285aa5a1b13eca682685b455e2cfa5)
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7fc391c0ff95aad0f60db500a6f937505a885c17)
+- [ ] [<code>build: Rename POTFILES.in to POTFILES (for good…)</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8c5cfb737fe097ddc0048d6a5914dba9fa499714)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7eaf2626bbd3b6afd8bb6a5ccdcd11f7a3433e0a)
+  - <sub>Tags: <code>xfce4-panel-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/da52765cb5188440b2540389577a4060673009b6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5fc8ea280363d3f134fbc3381459442165ba8e56)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1017,6 +1082,9 @@
 - [ ] [<code>data: Fix appdata file id</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/558034669e9b60032ce0f401fa78e09a6bad499e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/eae997420cc152ff93b985260da389fadaf90376)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c7f25199ec2d8e9dee86284fd8965890ff99aefc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>inhibit: Add inhibit/uninhibit cookies to debug logs</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/56dd6d3d20eb9d5bf5abb931a13b6b8ba958e070)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1090,6 +1158,8 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/aeeeae3fc8d58ab584ba2e279a99ee4917283030)
 - [ ] [<code>manager: Avoid use-after-free in idle function</code>](https://github.com/xfce-mirror/xfce4-session/commit/5eeac16f305ba3ef0b2058b52dd33022a0957f29)
 - [ ] [<code>startxfce4: Prioritize XKBLAYOUT over KEYMAP for kbd layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/b3dfae048024985974c3f63744bc30efeed547e3)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-session/commit/bf27af824983f2feff955585e3b51d0a9dac6275)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -1186,6 +1256,11 @@
 - [ ] [<code>display-settings: Keep /ActiveProfile in a consistent state</code>](https://github.com/xfce-mirror/xfce4-settings/commit/65889cb7e629230a1bb6cad402c23bc06d927d93)
 - [ ] [<code>display-settings: Fix string leak when deleting profile</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e7e053799bee77a55352bc0faa0c19e733bd6d34)
 - [ ] [<code>appearance-settings: Synchronize org.x.apps.portal color-scheme too</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6c36dd7e4104a5982825cd0413b2d9daa794eb26)
+- [ ] [<code>accessibility-dialog: Improve tooltip text</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0a7af5239de55aa028929dff9c2e7e1d9fe29409)
+- [ ] [<code>accessibility-dialog: Remove scrolled windows</code>](https://github.com/xfce-mirror/xfce4-settings/commit/20aad9b12b6588e8ab9d2939462a4bac11dce1a9)
+- [ ] [<code>xfsettingsd: Fix check for libinput</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fbbebd5e4b3ce668c71a2b44f1c8b8dce871c5af)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7d0b74951f01f9926cf57ef29827c0a1790effeb)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -1240,6 +1315,8 @@
 - [ ] [<code>Update also .gitlab-ci.yml</code>](https://github.com/xfce-mirror/xfconf/commit/9a3a397bf1c27a9a123236af0d6a0dc2de39cacc)
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfconf/commit/1e486597d1f9c8e98c478eea3899b37809fcae19)
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfconf/commit/ba086f895d6d954168c7e00ca74920bcbc8809fd)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfconf/commit/36f0b2db9b9d3ed2c77eb723d39b4e73a3215567)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
@@ -1308,6 +1385,8 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfdesktop/commit/6f13454f8e94976479c5fe7b3faaee06e096ba84)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/290d1311fc275a7ba5e70b272009c6655947348b)
 - [ ] [<code>Fix criticals in g_file_info_get_name with trashed files</code>](https://github.com/xfce-mirror/xfdesktop/commit/03f8af7daf70bf08dbcbc5c04ebe63fad616fb76)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfdesktop/commit/1628a3927b1853ccfe6f8634b8f239241908e02a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
@@ -1332,3 +1411,5 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfwm4/commit/fb99aee4d1f7697016904abbfc40fa805ec1468c)
+- [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfwm4/commit/46936559bfa54ba160f6efde14ad38cfead2d76c)
+  - <sub>Files: <code>meson.build</code></sub>
