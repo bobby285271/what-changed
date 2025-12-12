@@ -2,365 +2,60 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/3.9 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/3.9...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.0 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.0...HEAD)
 
-- [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Clarify the license as defined in debian/copyright and switch to spdx format (#81)</code>](https://github.com/linuxmint/bulky/commit/10ed28d79ee056fe0118d7531b270d4ce668211f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/bulky/commit/732f34b83582a6969214d37ece80d960488061cd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/bulky/commit/631685dde725e5a82e61f8893d484489ec697b08)
+
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.0...HEAD)
+
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/f6a762f7f034baaf607b63d3b5d28fdd1912c3fd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [refs/tags/6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.4.13...HEAD)
-
-- [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>cinnamon-calendar-server.py: Refresh remote calendars when the</code>](https://github.com/linuxmint/cinnamon/commit/d52e9c02cbab23507d4cb63ce7c5ffe064bc2fd8)
-- [ ] [<code>windowManager.js: Fix cleanup of WorkspaceOsd instances.</code>](https://github.com/linuxmint/cinnamon/commit/c451c0d61b2461f38f401c42ebdea46af59555c3)
-- [ ] [<code>build: Improve variable names for NetworkManager options.</code>](https://github.com/linuxmint/cinnamon/commit/9e9bf8a8dab3ad26cdde20e569ff4feaf39dbceb)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>st-entry.c: Fix argument order for _st_paint_shadow_with_opacity().</code>](https://github.com/linuxmint/cinnamon/commit/20a276822bac8506af272080b9d8f87f4dfd53dc)
-- [ ] [<code>Fixed issue with grouped-window-list-thumbnail-menu hover (#12666)</code>](https://github.com/linuxmint/cinnamon/commit/49179c7058f0fd520d8ecbb92e4288a5a3bd7e2b)
-- [ ] [<code>gestures: Show the OSD when using gestures to change volume (#12731)</code>](https://github.com/linuxmint/cinnamon/commit/96278772b7f5ad2a5ebd26d935d6e3c71e317741)
-- [ ] [<code>Bugfix for Cinnamon issue 12707 (#12734)</code>](https://github.com/linuxmint/cinnamon/commit/9aeaa7905789b4508061ae79d90021c658055d92)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update control (#12742)</code>](https://github.com/linuxmint/cinnamon/commit/ed20e4a709ebcf69853ec6793c390fd64d2bd47b)
-- [ ] [<code>Revert "Update control (#12742)"</code>](https://github.com/linuxmint/cinnamon/commit/f25233d26a26993bae92bdc429112116f432f576)
-- [ ] [<code>st-label: Don't guard against NULL text (#12605)</code>](https://github.com/linuxmint/cinnamon/commit/5543f8e9e8208d606a566bd480f821a97e841bc5)
-- [ ] [<code>st-theme-node: Add support for css 'auto' (#12606)</code>](https://github.com/linuxmint/cinnamon/commit/06d8f529517bd6bd7e745c83e6dae21559f807cf)
-- [ ] [<code>Port dis/connectObj from gnome shell (#12607)</code>](https://github.com/linuxmint/cinnamon/commit/7f6073e9f802d7e9bc8c53425b70080cc566d249)
-- [ ] [<code>end-session: Fix end-session dialog cleanup after a failure.</code>](https://github.com/linuxmint/cinnamon/commit/5336302b327355bed447e01a19f78a06ab278283)
-- [ ] [<code>croco: Use g_string_free() return value (#12630)</code>](https://github.com/linuxmint/cinnamon/commit/e51be03e12cf917cb0d7ee56c48daf42963b3767)
-- [ ] [<code>croco: Remove unused and dodgy function (#12631)</code>](https://github.com/linuxmint/cinnamon/commit/1e3734f85aaca28e75340fc079f294a43686eb3f)
-- [ ] [<code>st-bin: Remove unused foreach implementation (#12633)</code>](https://github.com/linuxmint/cinnamon/commit/253318ae3944af9a3800ec81e9130dbde2707394)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>notificationDaemon: Fix handling of `image-path` hint (#12778)</code>](https://github.com/linuxmint/cinnamon/commit/c8538e8fbe50ccdc48a4747df732fb945e775d8b)
-- [ ] [<code>workspace-switcher@cinnamon.org: Workspaces will be always displayed as empty when they are</code>](https://github.com/linuxmint/cinnamon/commit/7233832f4dc951feeb5365ab288f94e8cb81b340)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>st: Print the js stack for a couple of critical warnings that</code>](https://github.com/linuxmint/cinnamon/commit/88d9a63a50402c38a087cbdf34b2beff7b84cf71)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>cs_mouse.py: Don't try to use the 'value_nick' property of gi enum</code>](https://github.com/linuxmint/cinnamon/commit/342d569aa40f1a76417044ab452618b4e4007e24)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs_display.py: Expose option to choose fractional scaling direction.</code>](https://github.com/linuxmint/cinnamon/commit/1eed8da15caec9c0c9b9c459e168ba836f1e52d1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Merge pull request #12810 from claudiux/workspace-switcher@cinnamon.org_Fixes#12809</code>](https://github.com/linuxmint/cinnamon/commit/1a48f0d54a513ca3fc28d32110f6c039c0bfe315)
-- [ ] [<code>cinnamon-settings: Clean up commandline argument handling.</code>](https://github.com/linuxmint/cinnamon/commit/769a754001ff4cb602308b45681bbcc9fc079f02)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code></sub>
-- [ ] [<code>cinnamon-setting, xlet-settings: Fix minor regressions.</code>](https://github.com/linuxmint/cinnamon/commit/9649beca6b6f3a1deae43739ff16199b9e8c30ef)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>polkitAuthenticationAgent.js: Allow root authentication if there (#12849) are no admin users</code>](https://github.com/linuxmint/cinnamon/commit/9c8a15b62f5738cb33754d2c3b8a05eeacbca64b)
-- [ ] [<code>cs_themes.py: Add AdwaitaLegacy to blocklist</code>](https://github.com/linuxmint/cinnamon/commit/6c865930cc92c0e2e225b2ccab9f750637628748)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>js/ui/applet.js: Fix callback arguments for configureApplet().</code>](https://github.com/linuxmint/cinnamon/commit/8bde87c8867045b2abfb5a08b588258857277670)
-- [ ] [<code>nightlight: Add schedule mode option 'always' (#12660)</code>](https://github.com/linuxmint/cinnamon/commit/2c6c9bb34cae8d32687171f08b09e86472b4aea5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs_nightlight.py: Improve option label.</code>](https://github.com/linuxmint/cinnamon/commit/b5aba04756aae6b9f4639a1e9d7ffd6dc373b59a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Allow building Cinnamon without any NetworkManager requirements.</code>](https://github.com/linuxmint/cinnamon/commit/871008a0c3e7df3efd1207c19a076626e4fa6d8a)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Merge cs_tiling module with cs_windows module (#12880)</code>](https://github.com/linuxmint/cinnamon/commit/931fced59dd3ba5a0fc97b8571261f3858ba9630)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>cinnamon-settings: Give tiling its own tab in the windows module.</code>](https://github.com/linuxmint/cinnamon/commit/485cef26df16aa92973ff7d60fda0506ef6b3fc3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>polkitAuthenticationAgent.js: Handle system accounts properly. (#12865)</code>](https://github.com/linuxmint/cinnamon/commit/426bfadc48fc34978f47e9ae7b0e1cef7b513ba6)
-- [ ] [<code>settings.js: remove file monitor (#12819)</code>](https://github.com/linuxmint/cinnamon/commit/f59e1683b4e08987fd5393ad38384745daef5534)
-- [ ] [<code>messageTray.js: Fix image not showing in... (#12623)</code>](https://github.com/linuxmint/cinnamon/commit/01b8db89a3d2d416d63c6da3a2f22c252fb78118)
-- [ ] [<code>cs_themes.py: Fix minor regression in module from 769a754001ff4c</code>](https://github.com/linuxmint/cinnamon/commit/8debf0a4a73ee51bb30fb2236a1fd44c50ba2c99)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>polkitAuthenticationAgent.js: Ensure Cinnamon is part of the (#12887)</code>](https://github.com/linuxmint/cinnamon/commit/a5c98a271250b13a0333fd347a14356c4d0d6d67)
-- [ ] [<code>cinnamon-slideshow.py: Stop using python dbus.</code>](https://github.com/linuxmint/cinnamon/commit/15b57237ea2ed40f547df7def57ac3f10d568b5a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>build: Restore dbus build dependency.</code>](https://github.com/linuxmint/cinnamon/commit/f1fff1d108e4e0fbf571d5d4834255d91d401d7e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>cornerbar applet: (#12722)</code>](https://github.com/linuxmint/cinnamon/commit/d92e1b27216a63f1a96f68f0664830670518f7ce)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Have alt+tab show windows from the current monitor only (#12665)</code>](https://github.com/linuxmint/cinnamon/commit/e5784ace5f8342ef80b8dff375f0d3f1180c4c2b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Calender: Fix issue with with custom tooltip not updating seconds. (#12786)</code>](https://github.com/linuxmint/cinnamon/commit/c45b89a326286eff6fdbfb7a32b751c35eadb3f5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs_keyboard.py: use expected logic for xlet location (#12850)</code>](https://github.com/linuxmint/cinnamon/commit/a5fc0b47f87b249689ceceb91d33dca87c5ed434)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>PopupResizeHandler: recheck for restricted size after applet resized (#12815)</code>](https://github.com/linuxmint/cinnamon/commit/c7792177753cfbd1e7fe60f9737a59b54cac6725)
-- [ ] [<code>PopupResizeHandler: return correct popup size bugfix (#12804)</code>](https://github.com/linuxmint/cinnamon/commit/0df121fed0136f686cecb351fe55a513c73827ab)
-- [ ] [<code>power: Add suspend option to battery-critial actions (#12680)</code>](https://github.com/linuxmint/cinnamon/commit/ffc1411e29fc051630559c5e86e4f31b71df156e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>xlet-settings-ref.xml: Updates datechooser, timechooser and layout (#12864)</code>](https://github.com/linuxmint/cinnamon/commit/688c936d89503d85b55a0ff74e80a185b63db8db)
-- [ ] [<code>Add nightlight@cinnamon.org applet (#12562)</code>](https://github.com/linuxmint/cinnamon/commit/393ff18946ed2d466dd3846856476bf785d34e00)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu applet: Remove dead code.</code>](https://github.com/linuxmint/cinnamon/commit/bdbbd33993c27422e8a46ab341f86e2b987fca90)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>panel.js: Fix launch args for 'Panel settings' menu entry.</code>](https://github.com/linuxmint/cinnamon/commit/c2be469f55fdce61a30a57473ecf3a007229fba3)
-- [ ] [<code>Add sidePage name to titlebar when entering (#12709)</code>](https://github.com/linuxmint/cinnamon/commit/6646761106e348d44120c0632e044a806ac70c36)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>desklet-photoframe: change image size to guarantee keeping the ratio (#12717)</code>](https://github.com/linuxmint/cinnamon/commit/259b827ce6cc141d4f4a007a2975b553248ac440)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Implement Thunderbolt settings module (#12762)</code>](https://github.com/linuxmint/cinnamon/commit/a165975c93e1f8b46624f547c8cdbd1b6f86f341)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Handle typed user input into the night light module (manual schedule) (#12826)</code>](https://github.com/linuxmint/cinnamon/commit/5438bd7a692f5ed90ed5daafc11601aa9305a71e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add 'wallpaper' keyword to backgrounds.deskop kewords. (#12944)</code>](https://github.com/linuxmint/cinnamon/commit/67dbc6c98f2d004c2efaa0aab4d3df5eecf28c40)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>build: Fix include names for mutter->muffin.</code>](https://github.com/linuxmint/cinnamon/commit/1d1fd593030f69ea0edeab4916834766a21e82a2)
-- [ ] [<code>cinnamon-settings.py: Fix loading c-c-c modules via commandline.</code>](https://github.com/linuxmint/cinnamon/commit/69f154b3906d6ded70f5249613c4c68cbbda0abf)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
-- [ ] [<code>feat(themes): Implement categorized theme menus and debug tools (#12905)</code>](https://github.com/linuxmint/cinnamon/commit/1c21371a608bab1b0bada583d01cd228ff9257b7)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>cs_themes: Don't show the 'Other themes' menu label, fix row logic.</code>](https://github.com/linuxmint/cinnamon/commit/0ba77b7333168f78887cf80c9764f3db81f28410)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>cs_backgrounds.py: properly encode filename URI (#12945)</code>](https://github.com/linuxmint/cinnamon/commit/c84faa3e7bca3b2dd397d7cdfeb3b053f009b3f3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>panel.js: always show panel when highlighted (#12929)</code>](https://github.com/linuxmint/cinnamon/commit/13c8676f11181fc677fed0c0afa057f9d6a69f38)
-- [ ] [<code>cinnamon-settings.py: Handle SIGINT so unmap/destroy handlers in</code>](https://github.com/linuxmint/cinnamon/commit/c1343c69a3302af8409ae954249e3ecb11489100)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>python3-harvester.py: Fix some debug messages.</code>](https://github.com/linuxmint/cinnamon/commit/a851e5735540e47563f2d9fb8e9330a46aa4190d)
-- [ ] [<code>cinnamon-settings.py: Add fingwit to standalone modules.</code>](https://github.com/linuxmint/cinnamon/commit/a5ca299a260c698efe163fc31956db127281f54a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>notificationDaemon.js: Cleanup notification app_icon and icon-path</code>](https://github.com/linuxmint/cinnamon/commit/361526c10bd537b54230fa044ab0fc0ec4c04c39)
-- [ ] [<code>notificationDaemon.js: Improve notification error handling.</code>](https://github.com/linuxmint/cinnamon/commit/1201332ac07308a3bfa1d0ec95a93fde6af06641)
-- [ ] [<code>debian/control: add mate-polkit agent as an alternative to gnome's.</code>](https://github.com/linuxmint/cinnamon/commit/153b143a844760c75b219acc4b688745023a14d2)
-- [ ] [<code>data/icons: Make cs_thunderbolt icon consistent with other</code>](https://github.com/linuxmint/cinnamon/commit/39fe76d76d3f34e4b7d92e85f0710c9a7fb8584d)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>cinnamon-launcher: Launch a polkit agent for the fallback session,</code>](https://github.com/linuxmint/cinnamon/commit/f5c5926f755d71b040cfe82fe78db89d14108524)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>js: Use DesktopAppInfo form GioUnix, not Gio</code>](https://github.com/linuxmint/cinnamon/commit/fa3aef20533af4499fb1161011e62e048bbdc396)
-  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>meson: Build dependency on 2.79.2</code>](https://github.com/linuxmint/cinnamon/commit/691a04976f84f1d47570b50b89e99641c55b946a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>cs_themes.py: Fix regression from 1c21371a608b, do not escape</code>](https://github.com/linuxmint/cinnamon/commit/ea22da1ebf9804f312b8a654f1570d0a4b2438db)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cs_default.py: Don't import gi.repository.*</code>](https://github.com/linuxmint/cinnamon/commit/330b9ff19f33ec1e94e36048ca46011404f796b4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>placesManager.js: a new Gio.MountOperation takes no arguments.</code>](https://github.com/linuxmint/cinnamon/commit/9ed70641a1f63d2b2b44e08a84033cbf912e0c2b)
-- [ ] [<code>Modernize keyboard handling</code>](https://github.com/linuxmint/cinnamon/commit/5fd5748988a1a3a4f9fcf00236848da781dd1ddb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>_menus.scss: fix spontaneous increase size of the pop-up menu when left-clicking on some items</code>](https://github.com/linuxmint/cinnamon/commit/eb5df875de49fc075bd5865543e88f79ae9e6514)
-- [ ] [<code>_calendar.scss: enable backlight for calendar-today-home-button</code>](https://github.com/linuxmint/cinnamon/commit/02e8ca72832982a73d9850d201013199c00b00cc)
-- [ ] [<code>Add gir.1.2-graphene-1.0 to depends.</code>](https://github.com/linuxmint/cinnamon/commit/023bdb09a21d7024195a58ccd283bd6e3c725da1)
-- [ ] [<code>monitorLabeler.js (wayland): Fix error and label behavior after</code>](https://github.com/linuxmint/cinnamon/commit/fb814eb0270e990841d5c1b47f0e437a9a7be8ae)
-- [ ] [<code>eventView.js (calendar): Format 12h time without leading padding</code>](https://github.com/linuxmint/cinnamon/commit/8b30fa6113b20df5b6990803e5a329499f26ef79)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>monitor labeler: Use in both x11 and wayland, don't rely on the</code>](https://github.com/linuxmint/cinnamon/commit/c5d3ee306895313e7f1094b0fc2c26c0a5c22bb4)
-- [ ] [<code>userWidget: Don't stretch the avatar to fit long user names</code>](https://github.com/linuxmint/cinnamon/commit/9cf30b7393d9453d769f1730d77c88a9ae258bc6)
-- [ ] [<code>placesManager: Improve mounts</code>](https://github.com/linuxmint/cinnamon/commit/af72ce0426515740e0ff735b12510c38d9492857)
-- [ ] [<code>GWL: Don't show places</code>](https://github.com/linuxmint/cinnamon/commit/a494460550ce023f35b1623a759d54157723dd45)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>st/scroll-view-fade: Don't assume fade area at (0,0)</code>](https://github.com/linuxmint/cinnamon/commit/37042a710b5b44f4f8d89b86a6e09dea24739970)
-- [ ] [<code>st/scroll-view-fade: Fix vertical top fading</code>](https://github.com/linuxmint/cinnamon/commit/20ddc0beb31dcf294717d8359d3a6342bfb2e25a)
-- [ ] [<code>st/scroll-view-fade: Simplify shader a bit</code>](https://github.com/linuxmint/cinnamon/commit/114ba4bf3da3bbee717b82a46f3a3a3f423ee23b)
-- [ ] [<code>test: Don't overwrite theme with non-compiled CSS</code>](https://github.com/linuxmint/cinnamon/commit/c0d541a74d925b6630c44be698d1d4eaa96445db)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Redesign applet</code>](https://github.com/linuxmint/cinnamon/commit/e093207eea6383f6371f3931291f0f687fbb79da)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>menu: Increase the POLL_INTERVAL</code>](https://github.com/linuxmint/cinnamon/commit/d0872de853e35498ea62ee0fdadc39b11c694bc8)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Shorten path info for recents</code>](https://github.com/linuxmint/cinnamon/commit/92800b21665247989c276cc5fbcfb72631462025)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Simplify path buttons</code>](https://github.com/linuxmint/cinnamon/commit/d1ea12a279cf21f4132f6b14c7f67d576bea924f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Don't show devices</code>](https://github.com/linuxmint/cinnamon/commit/f9c91dd4a6d45178e71f5084934762e27d4730bb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Remove unnecessary code</code>](https://github.com/linuxmint/cinnamon/commit/a17f15b1599d0c27f484c6a0dcd970ec3045caf4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Fix apps using icon-names not on the theme</code>](https://github.com/linuxmint/cinnamon/commit/9fe15a3b810f4601fb08d1bfa6f931093a06898f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Modernize JS code</code>](https://github.com/linuxmint/cinnamon/commit/842603425d8716446b4d108ab264c23b739b5887)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Simplify applet</code>](https://github.com/linuxmint/cinnamon/commit/7a6b27507ac7dd5d651a8b224477d80a1f32aad2)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>menu: Toggle between symbolics or fullcolor for categories</code>](https://github.com/linuxmint/cinnamon/commit/5669c683b4356add0f2841a44e1125b6bd3d7066)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>menu: Color system buttons on hover</code>](https://github.com/linuxmint/cinnamon/commit/f272876796cf089f660c5d8d96e6cbb6bb317cec)
-- [ ] [<code>menu: Move system buttons to the top</code>](https://github.com/linuxmint/cinnamon/commit/f80e50a70a078472d6cc5c966046fb7f83138d3b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Make places/bookmarks configurable</code>](https://github.com/linuxmint/cinnamon/commit/d2f24f3d97b8ca9eec561d90143c3f4d27500049)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Hide scrollbars in sidebar/categories</code>](https://github.com/linuxmint/cinnamon/commit/8a4860a00e1f89247006fc682c29c4d06283bcad)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Disable vfade on sidebar/categories</code>](https://github.com/linuxmint/cinnamon/commit/b450058ee5134b1513a649d5fbb9ec7b8570f86e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Use new CSS names</code>](https://github.com/linuxmint/cinnamon/commit/e089665762de59c3a57b2e9fb2a07266093c3ed6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Launch account settings on avatar click</code>](https://github.com/linuxmint/cinnamon/commit/0230eba55341da2683d693e0ef326f5390e03745)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>menu: Make the avatar optional</code>](https://github.com/linuxmint/cinnamon/commit/2ee1fa74e9f69c9c73b2b1fb94a67518e978977e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>avatar: Apply a clutter effect on hover</code>](https://github.com/linuxmint/cinnamon/commit/f27094773a12e385ce092b1799a1fd713d467e72)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>lookingGlass.js: Improve display of actor position and name when</code>](https://github.com/linuxmint/cinnamon/commit/b53204f0e17f7715b545db6e1a5d012f1d0542ef)
-- [ ] [<code>virtual keyboard: Improve theme support, clean up fixed-element</code>](https://github.com/linuxmint/cinnamon/commit/8240994262a3302b6c89e24637f3aaab4527a2ba)
-- [ ] [<code>virtual keyboard: Add layout switch button.</code>](https://github.com/linuxmint/cinnamon/commit/ad5c5fd8dc6dd37ff2d7bb7a704994c61d94ea7b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>virtualKeyboard.js: Misc fixes.</code>](https://github.com/linuxmint/cinnamon/commit/11b9a6838af094ebc8f56955cfb59e69ca45444b)
-- [ ] [<code>on-screen-keyboard@cinnamon.org: Add a shortcut to the keyboard</code>](https://github.com/linuxmint/cinnamon/commit/2ad3fccc22b6098cad2df505210db07ad335e0d0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>virtualKeyboard: Add an osk layout test script.</code>](https://github.com/linuxmint/cinnamon/commit/0527d4ed900b3e911a9bb06802002666638348f2)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>virtualKeyboard.js: Only show the layout button if there are other</code>](https://github.com/linuxmint/cinnamon/commit/c70aabc7fe3a0391929b8cdb4b1c70f5250b6d4d)
-- [ ] [<code>keyboard: Fix background color, layout button style.</code>](https://github.com/linuxmint/cinnamon/commit/e8b96394e83edddfcd9ee51abd43aa969abddfb7)
-- [ ] [<code>misc: Improve osk layout tester, remove some never-used css.</code>](https://github.com/linuxmint/cinnamon/commit/a190ec395bfc64aa176bcca80d2f987d2102e977)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>layout.js: Fix flash when hiding the keyboard, and allow the</code>](https://github.com/linuxmint/cinnamon/commit/f5ec1113bff55cf2fc7b97e974546e2aba4d2118)
-- [ ] [<code>virtualKeyboard.js: Fix extended keys when interacting with</code>](https://github.com/linuxmint/cinnamon/commit/9c954cd1e61729ebfe8f49425db06b9f2a098aac)
-- [ ] [<code>menu: Further improvements</code>](https://github.com/linuxmint/cinnamon/commit/0cf07bf9ad48e4c8589cbeadab11a58cd2525560)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon/commit/68729511ec2f740dc11b328721deb787471ea6e7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>debian/control: Add IBus runtime dependency (#13144)</code>](https://github.com/linuxmint/cinnamon/commit/11d9e01b3108b617d5f847f9504d7eed662b6a97)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>keyboard@cinnamon.org: Move settings to the context menu, disable</code>](https://github.com/linuxmint/cinnamon/commit/072cc749b60390d12d7c44df5f0b66fc165f81bd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>js: refactor portalHandlers.js for better code quality and performance (#12993)</code>](https://github.com/linuxmint/cinnamon/commit/dd290f1ae53cbd40f051c50d8e7179be4e4970c4)
-- [ ] [<code>desklet: Fix open config window menu action not working (#13153)</code>](https://github.com/linuxmint/cinnamon/commit/42b69a8997df1ff1f3bd0d1d4e56c068feca51a1)
-- [ ] [<code>meson: Allow info settings to be excluded</code>](https://github.com/linuxmint/cinnamon/commit/83467c40489cb551109f22fbc474de99bf0e974f)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cinnamon-settings: Add support for mintreport</code>](https://github.com/linuxmint/cinnamon/commit/5eb3cc20cda05c1bb8f169b4a466899cbbe99390)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon/commit/890f6f7f9741c36aee3b3edce202c97e727fa83b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>keyboard layouts: Add shortcuts to switch directly to a layout.</code>](https://github.com/linuxmint/cinnamon/commit/b7a9e0711cc19f5b5fb9ec11fb819bb5be5e34e7)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>keybindings: Refactor python keybinding management.</code>](https://github.com/linuxmint/cinnamon/commit/95e9d25b7c3cccc85084cf3a7afaba895eaa8599)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>cinnamon-dbus-command: Make more effort to identify argument types</code>](https://github.com/linuxmint/cinnamon/commit/138b2fcaa222cad6aa17d37e39ee00579ffa5ffd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-
-#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
-
-- [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
-- [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
-- [ ] [<code>Fixed Segmentation fault that sometimes occurs when starting a hotspot. (#351)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4f4601bd8b84b4c21022e0daffbc303c90c05b9c)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Remove region panel, misc related code. (#355)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9881cf7dc6c722a75344a1b42d951759d60e67b6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e92ed2fa29cccf2882b1c65d4b5b5993283f22b5)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/be4360de3ae8964b8959602939ebfd1e3835621e)
-- [ ] [<code>Add iso-codes as debian build dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/25a616ec4ee495be3a93e6b757c01f9b0731f558)
-- [ ] [<code>Merge pull request #368 from mamolinux/add-dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/71274a92852ddddb83f6e3d59178cffd67779e33)
-- [ ] [<code>iso-codes: Remove unused build dependency (#369)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/883800fbcf38ef671e837b7b26858ec86b8b9f13)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-
-#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
-
-- [ ] [<code>org.cinnamon.desktop.interface.gschema: Mark the old scaling</code>](https://github.com/linuxmint/cinnamon-desktop/commit/508a0be369905fea36d2c8d455738aee736a90f6)
-- [ ] [<code>build: debian/control fix for alt package name, use debugoptimized</code>](https://github.com/linuxmint/cinnamon-desktop/commit/98450bf1b87d96553af6562ed15e0bf766cd1403)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>debian/control: Remove old gdkpixbuf package.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e88a36bde8a3806c3b5951172569b9adbdf6eedc)
-- [ ] [<code>build: Fix gnome-languages introspection.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a87c98c1bb2e3998d9df373a8f6432ab75744d75)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Cvc null check profile (#254)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e68cdbe2d837594d8258a026500a0b84a57e792)
-- [ ] [<code>Remove the pnp_ids configuration option (unused as of 913198430f27852544f9443a250421168d3d4466) (#249)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6f1151f86aaabe9242fabba3f176215a4c248af4)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>debian/control: Add provides to gir1.2-cinnamondesktop-3.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/63b48cce1103c2a8ac02b88743205bb43f08a222)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Update input-sources schema</code>](https://github.com/linuxmint/cinnamon-desktop/commit/24cfc34868a8b09a84be2adb707b5ced8ca48150)
-- [ ] [<code>Don't show keyboard layout flags by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3ab6b08bf2ab70c80bd4e6a272c7d08a324d517c)
-- [ ] [<code>gnome-desktop-thumbnail.c: Check for a filesystem-supplied preview</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a2f7f152df6d4506b2279d4b295f91c64694885e)
-- [ ] [<code>gnome-desktop-thumbnail.c: Remove preview icon check in the fallback</code>](https://github.com/linuxmint/cinnamon-desktop/commit/aa7b0299f69ab1df08418486e7f24661ab8d1aa1)
-- [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fa6121f017e004aa6c8ea406ab221f066a06ca2d)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1c41babc8240e65bf5816585ed549997992dacdf)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-
-#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
+#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 
-#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.4.1...HEAD)
+#### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.0...HEAD)
 
-- [ ] [<code>Handle layout switching thru cinnamon, remove use of XApp. (#477)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/be49027be4760ded47ba219c2fdff5b42fbb44b4)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b35fc4fac71d8da2361239ac753d10e3268b8991)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/550d8d6ed32fdb73de9ee965aaf026fc67a4526d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.2...HEAD)
+#### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
-- [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
-- [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
-- [ ] [<code>Remove old upower support to match c-s-d commits (#185)</code>](https://github.com/linuxmint/cinnamon-session/commit/97bcafd5933e2f073d51105061e049ba7ff0811e)
-- [ ] [<code>csm-manager.c: Don't consider suspend inhibitors when gathering</code>](https://github.com/linuxmint/cinnamon-session/commit/28b5ebc18c744e1c79efbaa8d6b3e91bdad2e57e)
-- [ ] [<code>csm-manager.c: Clear system inhibitors before attempting to</code>](https://github.com/linuxmint/cinnamon-session/commit/8042c7f4756773b32e30f902d2cb05c865b9f6d7)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>XDG_DATA_DIRS: Do not include /usr/share/gnome</code>](https://github.com/linuxmint/cinnamon-session/commit/df2e8ee9973ac4d426fd577e0daf0f5bc5a1a141)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-session/commit/b2277bfc389552955672dcb0f8d4c2d5285c6bdd)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-session/commit/363d4d0bb5cb58cfd12082fb72fecd9138433736)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
+#### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.0...HEAD)
 
-- [ ] [<code>Cosmetic change: rename g-s-d to c-s-d (#409)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/68a787b96df19349bfda707c41fa83b319113dd6)
-- [ ] [<code>media-keys: Add labels for show_osd() (#403)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f3f8f77ae998bd0ac401cd1ab048ba9b6db31c0)
-- [ ] [<code>Add options to call generate-tz-header as part of the build process. (#405)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0b2253b80b341d7126e28de7a8e9de462358a5bf)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Update tz-coords.h.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9b7fd682eab42bab158e51166da7ef16d836f4fa)
-- [ ] [<code>nightlight: Implement schedule mode 'always' (#408)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d5f42851805b595bd5f697e72e924f6e75b4f766)
-- [ ] [<code>power: Cleanup upower version checks.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/db263a5129d06eabf8c2eb6a4f2e9bd71e4dfc07)
-- [ ] [<code>Adjust upower minimum version.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/789b2ee5908f1b186a29cbd6d0accd31c3c1bf97)
+
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.0...HEAD)
+
+- [ ] [<code>Set env for qt ibus (#191)</code>](https://github.com/linuxmint/cinnamon-session/commit/c43573bd2889c75866a037a1d4b60a9f58f18767)
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-session/commit/ae84f20e771fe6ac9190e35c85dd72e896089798)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>generate-tz-header.py: Fix position coordinate parsing.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/eec27984940dfb11904b02228357f430b585c41f)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Adapt to keyboard layout modernization, remove libgnomekbd dep.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/a2a6017bd1c7206be651a9f1d99e6fbd4aca3b78)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Fix deps</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0022537b6fdb43d765b7bc0d21d6b16ad1878d74)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Move some x11-only from the keyboard to xsettings module.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/88c63200349cbe1aef3fba9f8575e229e35a77b1)
+
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.0...HEAD)
+
+- [ ] [<code>csd-xsettings-manager.c: Always use the ibus im module unless</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b5da80d63357ef740e4f62711cd33a29af5e1fe5)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>build: Remove -dev package, don't install csd-enums, don't generate</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/cd7975da247876b5d18fcaa81df9a1d1abd9460f)
+- [ ] [<code>automount: fix automount with active screensaver and memleak (#426)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f98089254744975daef20ac5ab2b685a347a9973)
+- [ ] [<code>csd-xsettings-manager.c: Remove settings mapping for Gtk/IMModule.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69a30e2d5e02fe796bf106aeaba067ea8ab70c07)
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/37030ef3fbfbd8668ff62fa6730345080426dff7)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>csd-autorun.c: Remove hidden 'hold shift key' feature.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/20c2ffad694a6658c3d5b12bfe07327ba612f091)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8d13d38033a9bbe5a0a1547dc3a4c768bb879009)
-- [ ] [<code>drop xfixes build dependency</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3839c82c1a6b7fd39390cdc1fcfcd12cc7111a83)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>clean up dependency checks for wacom bits</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/acb49ebf00b5fb19b40c850b8d37136d481ca785)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>debian/control: Adapt to removal of -dev package, update .gitignore.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/830463127ea2fb1dcdc0a0edf8febeb94e82d2b1)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/11aaa5580fa0cf9abdc6fe62e9f93badec43f6ca)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.0...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/76f20dc62e8ede5d18701d27b55b7a44e89beccf)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [1f39576bafe6bc05bce960e590dc743dd7990e39 → HEAD](https://github.com/linuxmint/cjs/compare/1f39576bafe6bc05bce960e590dc743dd7990e39...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cjs/commit/a3184be65fdcfaa4480fc85abb1ba25ec3c3af66)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cjs/commit/9f89ac464ad879a4eb49bba929476ce50dda012b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
+- [ ] [<code>do not change folder modification time (#38)</code>](https://github.com/linuxmint/folder-color-switcher/commit/ecb4f388aa4881bc4817d0e99aa64c52d696842f)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/folder-color-switcher/commit/fefe156e336d2a0bbfe1ca61cf4e6873c74ae405)
 
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5d96655e37a85aa5e3d20bc7b38c9675a6145d13 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5d96655e37a85aa5e3d20bc7b38c9675a6145d13...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [fa88b00e10b0978e0309acccfa95d80005422b1a → HEAD](https://github.com/linuxmint/mint-l-icons/compare/fa88b00e10b0978e0309acccfa95d80005422b1a...HEAD)
 
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
@@ -370,6 +65,10 @@
 - [ ] [<code>build: Use pysassc.</code>](https://github.com/linuxmint/mint-l-theme/commit/3e0f656de1b0ae4c220fdc6518bd77f94cbee572)
 - [ ] [<code>cinnamon: Add support for new keyboard and ibus popups.</code>](https://github.com/linuxmint/mint-l-theme/commit/e06c7d38d3eda86b24b97934ead8a862f2e8d7b6)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-l-theme/commit/42401a6cb3651ce256b63080bb5e527fca5dac22)
+- [ ] [<code>cinnamon: GWL set fixed font size for window count badge (#20)</code>](https://github.com/linuxmint/mint-l-theme/commit/06bc89ba295c42d1617248c15e258c07a86fc7c2)
+- [ ] [<code>Tune cinnamon window badges</code>](https://github.com/linuxmint/mint-l-theme/commit/8d71d8b4721e20d394f3104ba4570ddbbd9f87e1)
+- [ ] [<code>2.0.3</code>](https://github.com/linuxmint/mint-l-theme/commit/83ab49750ab132702cdb3f0e5c24be2d84446aa9)
+  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -395,193 +94,68 @@
 - [ ] [<code>Mint-Y: small fix for cinnamon keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/35a509d46d0b105da1236e4ae4d3b6ace4d3f2a8)
 - [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-themes/commit/6261a9fe4d3d5ed223c1d4664211e371d0b8079a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
+- [ ] [<code>Mint-X cinnamon: colour destructive button background instead of text. (#509)</code>](https://github.com/linuxmint/mint-themes/commit/b59d603dced38c9fd3f85e85b75725e5a3f8ce3d)
+- [ ] [<code>Mint-Y cinnamon: GWL: use fixed size font for window count badge (#524)</code>](https://github.com/linuxmint/mint-themes/commit/ba52ff81a129a85a5118bc0e6581ae73c399263c)
+- [ ] [<code>Mint-X cinnamon: GWL use fixed font size for window count badge (#525)</code>](https://github.com/linuxmint/mint-themes/commit/32e13860b9bb22b2f296b89b681b36fc00449e7a)
+- [ ] [<code>Fixed app menu openning animation lag (#523)</code>](https://github.com/linuxmint/mint-themes/commit/e2dc72c07be49d6a0f63b3afc3e1b883e203444f)
+- [ ] [<code>Mint-Y: Run parse-sass for e2dc72c07b.</code>](https://github.com/linuxmint/mint-themes/commit/a51224cbe0564bf2aa2d509a0b14638db79b7670)
+- [ ] [<code>Tune Cinnamon window badges</code>](https://github.com/linuxmint/mint-themes/commit/541e5eb7fb367a38d56b0c2f6317434716d035e1)
+- [ ] [<code>2.3.4</code>](https://github.com/linuxmint/mint-themes/commit/18e06f3384af9077ce1571168a1e6f54258bfcd0)
+  - <sub>Tags: <code>2.3.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.4...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.8...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.9...HEAD)
 
-
-#### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
-
-- [ ] [<code>Add get_pipeline() API (#707)</code>](https://github.com/linuxmint/muffin/commit/37ae693b9defcbd6ff29807f9502f54dd9113013)
-- [ ] [<code>Update debian/libmuffin0.symbols.</code>](https://github.com/linuxmint/muffin/commit/6f16b7f574629d34dc1df1950c0519bb913be557)
-- [ ] [<code>clutter/actor: Allow specifying the layout manager for an actor type (#709)</code>](https://github.com/linuxmint/muffin/commit/bc449de4467f42dabbd37cb17dd7dc50559350c7)
-- [ ] [<code>meson: fix some implicit ordering dependencies on generated headers (#716)</code>](https://github.com/linuxmint/muffin/commit/604e0b50280a6a82ead1d8a13954778287b93e25)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
-- [ ] [<code>disable assert for gi scanner (#720)</code>](https://github.com/linuxmint/muffin/commit/9bac60b775230a8656dc0b1584d334f2063b32ce)
-- [ ] [<code>use non-deprecated g_spawn_check_wait_status (#721)</code>](https://github.com/linuxmint/muffin/commit/4e4f74ca29004350a5b79661894fad073a2e0b6c)
-- [ ] [<code>Replace any references to mutter with muffin (#726)</code>](https://github.com/linuxmint/muffin/commit/4ad9aae66debf377e897514eaaa5045dfcb132e0)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Bump wl_output interface to v4 (#727)</code>](https://github.com/linuxmint/muffin/commit/ffd0d370b256be7eeaf9a24dc0d86e327eafba7f)
-- [ ] [<code>Fix Qt apps crash (#739)</code>](https://github.com/linuxmint/muffin/commit/1a439aeea53f01b8516f719651f6b8967f64cea6)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>[Wayland] Add support for xdg-foreign-v2 (#728)</code>](https://github.com/linuxmint/muffin/commit/f6fb565b3012038647413b30f01a29eec27a5d7e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Wayland] Remove deprecated and obsolete protocols (#729)</code>](https://github.com/linuxmint/muffin/commit/2e02ea8e5f330e04c4834051f32c80ad47e5674a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>wayland/dma-buf: Add support for BGR_8888 formats (#732)</code>](https://github.com/linuxmint/muffin/commit/76ad6afe6c2a68ef8226d6f909e5937d37f7372d)
-- [ ] [<code>Bump wl_compositor to version 5 (#734)</code>](https://github.com/linuxmint/muffin/commit/3948b2716cb03c19acd16bbb79c28038c6f455aa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Wayland]: Add support for hold gesture (#735)</code>](https://github.com/linuxmint/muffin/commit/380b9b3746b7b3c8b064cfd2c5bee859f894d52e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>debian/control: Update some versions to match build changes.</code>](https://github.com/linuxmint/muffin/commit/6607c1a10694c0d342821c45b9c193fcad03df29)
-- [ ] [<code>[Wayland] Bump gtk-shell-v1 protocol to version 6 (#736)</code>](https://github.com/linuxmint/muffin/commit/82885a17e8b3553dbf433ce93f6d0ec3cccd2656)
-- [ ] [<code>[Wayland] Add support for xdg-dialog-v1 protocol (#737)</code>](https://github.com/linuxmint/muffin/commit/07aabf57d9bb429db0033de37ff64d032d4df6fc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Xwayland] Add Xwayland byte-swapped clients support (#738)</code>](https://github.com/linuxmint/muffin/commit/e603d4afa381ff413ee4d137dc3a699bc52913cb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>[Wayland] Add support for xdg_toplevel.configure_bounds() (#740)</code>](https://github.com/linuxmint/muffin/commit/50e8885db155855e155cf930b57ffd02ab4ced22)
-- [ ] [<code>[Wayland] Fix crash when empty window geometry set (#741)</code>](https://github.com/linuxmint/muffin/commit/af71a8e81f2df418adc665bd4e101f6741e92562)
-- [ ] [<code>[Wayland] Implement xdg-activation-v1 protocol (#725)</code>](https://github.com/linuxmint/muffin/commit/3a8367f045748fa24e16639bf11921f9e1fce385)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>[Xwayland] Check for listenfd option (#743)</code>](https://github.com/linuxmint/muffin/commit/1220bb4f0b23568a2dc01e6b4a45923eda19a0a9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
-- [ ] [<code>meta-xwayland.c: Fix rebase error.</code>](https://github.com/linuxmint/muffin/commit/f902ccbd8970b195192477e5c1f55f8d8b08e253)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/muffin/commit/8fa68b1a6273d39f67c9d954a8b69d19e288509d)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/muffin/commit/297259ef643b641b1a2d545b4069145a89614104)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-
-#### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
-
-- [ ] [<code>nemo-view.c: fix crash after some shortcuts (#3525)</code>](https://github.com/linuxmint/nemo/commit/a98a467b360ec1d6fa8fa9cbe738cbf4a3172ea7)
-- [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
-- [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
-- [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
-- [ ] [<code>list-view: Don't show folder expanders by default.</code>](https://github.com/linuxmint/nemo/commit/802dff9011fbb73ea48002f0cd4d5bb0304e43e1)
-- [ ] [<code>nemo-list-view.c: Ignore expander size for click position</code>](https://github.com/linuxmint/nemo/commit/709835d271480e19c63755f086e24c334fb8f750)
-- [ ] [<code>nemo-window.c: Remember the second pane's location until the</code>](https://github.com/linuxmint/nemo/commit/2b70af14eb956abb8027f9648c6c35ceca1be7b2)
-- [ ] [<code>nemo-query-editor.c: Don't use new glib function.</code>](https://github.com/linuxmint/nemo/commit/42c61527e970f759dac6e5b147710da38c1ff017)
-- [ ] [<code>Add Matcha to Supported Theme Hints (#3573)</code>](https://github.com/linuxmint/nemo/commit/94d59757a30d10a16fcdc2f255e4695226d739a4)
-- [ ] [<code>preferences: Remove scripts widget from Plugins.</code>](https://github.com/linuxmint/nemo/commit/36156666c2b25feb7f8c2e16b7316dbec2530767)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>preferences: Add templates to plugins tab.</code>](https://github.com/linuxmint/nemo/commit/31883c29686ca3f5c9f58bc26e7dbee3517fb7ac)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Action layout editor: put direction buttons in a more traditional</code>](https://github.com/linuxmint/nemo/commit/367edf990e239d57cffd7f0158b473554fd3c760)
-- [ ] [<code>nemo-template-config-widget.c: Don't use g_strv_builder_take().</code>](https://github.com/linuxmint/nemo/commit/9f227e923a263b50ac1c6eecb9bd09c29f85ad2e)
-- [ ] [<code>nemo-template-config-widget: Allow editing of a template.</code>](https://github.com/linuxmint/nemo/commit/44770f830909a5191af41a5033712f52a99f863c)
-- [ ] [<code>add --select compatibility flag (#3589)</code>](https://github.com/linuxmint/nemo/commit/e21b2846642cf8664739665817c165d25db65acb)
-- [ ] [<code>nemo-action.c: Fix loading of absolute icon paths.</code>](https://github.com/linuxmint/nemo/commit/ad441374ca5e74bf70c791d14c4501ef54650773)
-- [ ] [<code>nemo-action.c: Support icons provided by Spices.</code>](https://github.com/linuxmint/nemo/commit/f13caea2c8ba367f9e28faf57a44a9a6a1f1df90)
+- [ ] [<code>Add link (#525)</code>](https://github.com/linuxmint/mint-y-icons/commit/645d5e0d7ebddeceaad79ee69db0b7689e433c64)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>nemo-search-engine-advanced.c: Support wildcard mimetypes.</code>](https://github.com/linuxmint/nemo/commit/5e4e84bc29e83e19f45bc0b6057edde4cb37cb0e)
-- [ ] [<code>nemo-search-engine-advanced.c: Allow multiple helpers to run on</code>](https://github.com/linuxmint/nemo/commit/f35220502bd709ea9cc5b9c43afc649a2c6d6d09)
-- [ ] [<code>Search: Allow disabling of search helpers via gsettings.</code>](https://github.com/linuxmint/nemo/commit/d7e5b97152e7c7ad833f6f8f68d067843cbc81bc)
-- [ ] [<code>nemo-action-manager.c: Don't randomize action names when rebuilding.</code>](https://github.com/linuxmint/nemo/commit/6637d3d1e2ff1096fbd14e3d1df7f6ebb866aad6)
-- [ ] [<code>nemo-action-menager.c: Use a basic Gio file monitor to watch for</code>](https://github.com/linuxmint/nemo/commit/0512093e1c17e88948b4ab682b2ba27393485717)
-- [ ] [<code>actions: Sort actions consistently.</code>](https://github.com/linuxmint/nemo/commit/a5a4bd818222c0c139905e49ea96f5e796fe099a)
-- [ ] [<code>file operations: Implement pause/resume.</code>](https://github.com/linuxmint/nemo/commit/64d6829771ee8b6c7992dce7320a5843bc3e2554)
-- [ ] [<code>nemo-file-management-properties.glade: Improve behavior tab layout.</code>](https://github.com/linuxmint/nemo/commit/cb44fcedb79af79eadc1be981290a0149de76be7)
-- [ ] [<code>file operations: Fix some memory leaks.</code>](https://github.com/linuxmint/nemo/commit/ef6492152c8ec9a35d4d7b7260484c3a88cb0388)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>nemo-action-layout-editor: UI improvement for enabling/disabling</code>](https://github.com/linuxmint/nemo/commit/bc252a055b923f7a33a98d8060c5b52c0ece8683)
-- [ ] [<code>nemo-file.c: Allow files with backend-provided previews to be</code>](https://github.com/linuxmint/nemo/commit/8454290f84904a66979fcae067e96bf6ce540d47)
-- [ ] [<code>nemo-toolbar.c: Just use a single change handler for toolbar</code>](https://github.com/linuxmint/nemo/commit/7edb9e1468b2f9f87de0d3c2bf1f23768c6b90fe)
-- [ ] [<code>toolbar: Add 'toggle-extra-pane' button.</code>](https://github.com/linuxmint/nemo/commit/a3f0a31c17bef652fb05be2bc7d9d8bb51791e4d)
-- [ ] [<code>navigation: Allow click event handling into an inactive pane if</code>](https://github.com/linuxmint/nemo/commit/cbeb6afe60d0bd71fdb1f9c43ba51271e843333e)
-- [ ] [<code>nemo-tree-sidebar.c: disconnect handlers from the correct instance.</code>](https://github.com/linuxmint/nemo/commit/d0d9591fde9905568f0f571d95482b0365ea422f)
-- [ ] [<code>nemo-tree-sidebar-model.c: Use g_clear_object instead of custom</code>](https://github.com/linuxmint/nemo/commit/f2ee70790057a1639527858a2c9a232c3b8a3688)
-- [ ] [<code>nemo-places-sidebar.c: Don't show shadowed mounts, or mounts without</code>](https://github.com/linuxmint/nemo/commit/93815617c16d3980a930421283d65db2f22af9cc)
-- [ ] [<code>Prefix symbolic icons</code>](https://github.com/linuxmint/nemo/commit/d3d78642eeda313da89a0fe7221ccc1d335b0e2e)
+- [ ] [<code>1.9.0</code>](https://github.com/linuxmint/mint-y-icons/commit/1cd2cdb88e1b4f851f8eb55283db52f325102a97)
+  - <sub>Tags: <code>1.9.0</code></sub>
+
+#### [muffin](https://github.com/linuxmint/muffin): [6.6.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.0...HEAD)
+
+
+#### [nemo](https://github.com/linuxmint/nemo): [6.6.0 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.0...HEAD)
+
+- [ ] [<code>nemo-action.c: Fix issues in the recent:// folder.</code>](https://github.com/linuxmint/nemo/commit/677f377c159bff3b621ea058f6f5ee974d2a8883)
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/nemo/commit/acd61172fea15582e24f1d58ae6c2ebfb9e5c539)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo/commit/4a71eb533c6eac9bd82a238d826881a0dbb4b0f1)
+- [ ] [<code>Fix for progress handling (#3651)</code>](https://github.com/linuxmint/nemo/commit/5e7fe5b78fb7257293372780f95dc34abc4ce0e2)
+
+#### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
+
+
+#### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
+
+
+#### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
+
+
+#### [pix](https://github.com/linuxmint/pix): [3.4.8 → HEAD](https://github.com/linuxmint/pix/compare/3.4.8...HEAD)
+
+
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.0 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.0...HEAD)
+
+- [ ] [<code>Remove unnecessary pkg_resources import (#239)</code>](https://github.com/linuxmint/warpinator/commit/50a6d4b9aa522561c713aa216db8e391b399f20e)
+- [ ] [<code>2.0.1</code>](https://github.com/linuxmint/warpinator/commit/bac599ca988247984a88d12470f775dc1238f62b)
+  - <sub>Tags: <code>2.0.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo/commit/032ce13a5a5f1edca811b367a27e8dcf31892afa)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+
+#### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
+
+
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.0...HEAD)
+
+
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.13 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.13...HEAD)
+
+- [ ] [<code>Fix a focus bug when opening a new maximized window (#227)</code>](https://github.com/linuxmint/xviewer/commit/c30f31fb31330dfa2d64eea923d678b3ef8f1e0d)
+- [ ] [<code>3.4.14</code>](https://github.com/linuxmint/xviewer/commit/549ee3afe20f77263fa3a3c273aa39e61447199c)
+  - <sub>Tags: <code>3.4.14</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-
-#### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
-
-- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
-- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
-- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
-- [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
-- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
-
-#### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
-
-- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
-- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
-- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
-- [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
-- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
-
-#### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
-
-- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
-- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
-- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
-- [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
-- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
-
-#### [pix](https://github.com/linuxmint/pix): [3.4.7 → HEAD](https://github.com/linuxmint/pix/compare/3.4.7...HEAD)
-
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/pix/commit/fcb9f33852805eae16132ee0e3f4992505f6f1bf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/pix/commit/38e9ff9af335ab13dd94129adb0b8863fe596b7e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-
-#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
-
-- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Ipv6 support (#231)</code>](https://github.com/linuxmint/warpinator/commit/70cc5ebe7baf7aaa9498993c4d77f7169f452177)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/warpinator/commit/78fe18d2642412c52d87bf6ab9d19888321d8c22)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-
-#### [xapp](https://github.com/linuxmint/xapp): [3.0.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.0.1...HEAD)
-
-- [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
-- [ ] [<code>Add some of the generic icons used in nemo</code>](https://github.com/linuxmint/xapp/commit/2af3ccb80237951bfe9e3b0ff0445c1e8b7de9b2)
-- [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
-- [ ] [<code>icons: Add common device icons</code>](https://github.com/linuxmint/xapp/commit/68d6830d79769c79dbf34785dd3641eeee8c57d1)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-- [ ] [<code>icons: Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xapp/commit/84e74bee17006e169f1b0f3c3e5fb23b66e59a4f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-
-#### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
-
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xreader/commit/342ebb5e1a3896f82958302787d6a8d507e64cda)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xreader/commit/4682832acd2b98639dd2bdda31a632e09a392628)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
-
-- [ ] [<code>packaging: Don't depend on a transitional package name</code>](https://github.com/linuxmint/xviewer/commit/b8cc32f70b96a523ea35bc06166aa672dab84ffa)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xviewer/commit/5aeee772dec4b4b93b070b0eff3f6e6b848961b8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xviewer/commit/f1f95e17ff83724128a87af07bf3fb40a7f958bd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [refs/tags/1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/refs/tags/1.4.8...HEAD)
@@ -601,51 +175,55 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.3 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.3...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.4 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.4...HEAD)
 
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/hypnotix/commit/3b3e7946f34672d54d4fa1522ca1770ec20bd5cb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/hypnotix/commit/68f9503808c774a88219dc38954bfeee1f4c3612)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.2 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.2...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.3 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.3...HEAD)
 
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/slick-greeter/commit/4fe939c9bbd6350c67d220409298243ad1f70e98)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/slick-greeter/commit/11e2f046a6f49d0762bb61bf7e4cffaa095791f4)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Use filename `arrow_right.svg` (#274)</code>](https://github.com/linuxmint/slick-greeter/commit/79f02ead4275b9b7233f1137a705655e3e61c94b)
+- [ ] [<code>2.2.4</code>](https://github.com/linuxmint/slick-greeter/commit/d826f5c2976d1c77f96c99bc6e985c1d58e91048)
+  - <sub>Tags: <code>2.2.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.27 → HEAD](https://github.com/linuxmint/sticky/compare/1.27...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.28 → HEAD](https://github.com/linuxmint/sticky/compare/1.28...HEAD)
 
-- [ ] [<code>sticky.py: ensure new notes don't get placed off-screen or over a panel.</code>](https://github.com/linuxmint/sticky/commit/2376aabe2d4f3a9c3467c78683b7c31b13078419)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Don't segfault when opening and closing the status icon context menu.</code>](https://github.com/linuxmint/sticky/commit/8013f4c9651b222128c1b3a7311769d4db9dc6a0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>get_internal_markup(): don't skip a tag due to removing it from a list.</code>](https://github.com/linuxmint/sticky/commit/fc89ec1401003272ea931998897f32b40faf3b78)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/sticky/commit/9caf40a13a25b7c235659a061c586d3f3cd93935)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/sticky/commit/c64b96aa204e2398ee742cd4a5ad16b765bb79fb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/25.07.7 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/25.07.7...HEAD)
 
-
-#### [xed-editor](https://github.com/linuxmint/xed): [3.8.4 → HEAD](https://github.com/linuxmint/xed/compare/3.8.4...HEAD)
-
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xed/commit/383bca022a9d105a3bb8f3f77452d5490879892c)
+- [ ] [<code>improve issue template (#478)</code>](https://github.com/linuxmint/timeshift/commit/f6288d31d0433db29a25dc6c013f10d03830f23f)
+- [ ] [<code>trigger backup hooks after rsync snapshots (#470)</code>](https://github.com/linuxmint/timeshift/commit/e20285825d314720ea26d02852de0f052a00e538)
+- [ ] [<code>Subvolume: Enhance nested subvolume deletion verification process (#467)</code>](https://github.com/linuxmint/timeshift/commit/2e135ff566de0d40c6e297d5b8905cf6227a2b48)
+- [ ] [<code>Update Main.vala function restore_current_system check that dst_root is not null (#386)</code>](https://github.com/linuxmint/timeshift/commit/7e1303244e7baa1d85e9374a0755e585a27fb39d)
+- [ ] [<code>improve retrieving of session related environment variables (#460)</code>](https://github.com/linuxmint/timeshift/commit/e9947924fb65813207b0d75b3f6c4ec830a66985)
+- [ ] [<code>Do not fail all subvolumes if one failed to remove a qgroup; only sync if qgroups are going to be deleted (#458)</code>](https://github.com/linuxmint/timeshift/commit/f17fb7627c98c5e326eb5148a089dae41d65667e)
+- [ ] [<code>add button to pause rsync snapshots (#469)</code>](https://github.com/linuxmint/timeshift/commit/0b0c0cd724dd1a7061723f29fb994bded776de74)
+- [ ] [<code>remove dependency to which, chmod and chown</code>](https://github.com/linuxmint/timeshift/commit/e7aa90280c54621d00edcac3f4c391cba38f74b4)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>remove unused code; fix compiler warnings; only update control file if changed</code>](https://github.com/linuxmint/timeshift/commit/d9f5ca7f16f8e5b82edaa7c2232dfe85748e13b2)
+- [ ] [<code>Simplify `AsyncTask` code and use `RsyncTask` to estimate Snapshot size (#428)</code>](https://github.com/linuxmint/timeshift/commit/589c2e503f71d332826e715f516882a0ea6979eb)
+- [ ] [<code>Fix about links (#459)</code>](https://github.com/linuxmint/timeshift/commit/1908688ff44620c44b8acbc3db87a631a92c9d25)
+- [ ] [<code>Fix notify (#475)</code>](https://github.com/linuxmint/timeshift/commit/915f2a57f0fd1fa0626f3f80c2d25c75fbd54d49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: replace XWayland backend with Wayland in Wayland sessions (#414)</code>](https://github.com/linuxmint/timeshift/commit/331d56814e503eead914063b29d74289b1d0ff30)
+- [ ] [<code>timeshift-launcher: Remove wayland check, rename copy_env() to</code>](https://github.com/linuxmint/timeshift/commit/d1e1a505659b68601fb2bc3c547b67915dfb7fe6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add lvm-on-luks partition to crypttab (#398)</code>](https://github.com/linuxmint/timeshift/commit/61aaa192cc9d0d1e64ab1cc20ebe1c1b60ad0336)
+- [ ] [<code>Check if qgroup exists before attempting to destroy it (#484)</code>](https://github.com/linuxmint/timeshift/commit/00ce451cb2a5a0455b54c6cedf58f475d0aeb2b9)
+- [ ] [<code>fix: the continue loop error in the device selection logic (#456)</code>](https://github.com/linuxmint/timeshift/commit/ffc7c37a791f492510f26f0d266d66f89158ba2d)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/bf08c5faaf5062d83d6936cb3525d8fab319f7b9)
+- [ ] [<code>25.12.0</code>](https://github.com/linuxmint/timeshift/commit/77411ae656e75294ce916aeab5caea44da90645b)
+  - <sub>Tags: <code>25.12.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xed/commit/c41ba632bd6f835fec5993ee9fa1cccf7d0d2f89)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+
+#### [xed-editor](https://github.com/linuxmint/xed): [3.8.5 → HEAD](https://github.com/linuxmint/xed/compare/3.8.5...HEAD)
+
+- [ ] [<code>Fix build with pygobject-3.50+ (#711)</code>](https://github.com/linuxmint/xed/commit/13f55ff3f0db4e4f3b75883260bb56afbad08fd2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.8.6</code>](https://github.com/linuxmint/xed/commit/ab3c06326f35d3e98c22ecf72a06d2997ac3178d)
+  - <sub>Tags: <code>3.8.6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
-- [ ] [<code>background.c: Add deprecation note.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c2b3bcc8fadb9cb3de27d974fad679ddf79a540)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5514bba434a7511f052f6c2e755af0710f23e50a)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b93934b0ca15a2f556f1cd20e2dc7962cf576042)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
