@@ -256,100 +256,547 @@
 
 #### [minder](https://github.com/phase1geo/minder): [1.17.0 → HEAD](https://github.com/phase1geo/minder/compare/1.17.0...HEAD)
 
+- [ ] [<code>Initial work on porting to Gtk4</code>](https://github.com/phase1geo/minder/commit/d4cacc0e5a55df2d14c9c93ca0f7d02eba5762bd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Checkpointing GTK-4 conversion work.</code>](https://github.com/phase1geo/minder/commit/4743493430e9b2fd7b759e5472a11c27f0b60d81)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/gtk4' into gtk4</code>](https://github.com/phase1geo/minder/commit/c3db1cc680e58b456bcf217eb078dd0356349889)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fixing issues from previous commit</code>](https://github.com/phase1geo/minder/commit/597ea27eda9a935be4d97112636f3843c75becdf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/09d813996db22a72476aa733fc595a81460ec60e)
 - [ ] [<code>Merge pull request #637 from albanobattistella/patch-34</code>](https://github.com/phase1geo/minder/commit/2074e3d44ce600e0a09a245a814c1c86b58a4101)
+- [ ] [<code>Checkpointing Gtk4 conversion work</code>](https://github.com/phase1geo/minder/commit/fa1f4f644015d69e746dc16923ac7087f2e49970)
+- [ ] [<code>Another round of Gtk4 updates.</code>](https://github.com/phase1geo/minder/commit/6e39409f0390c540fac7bc1a3c61a35f83e1479c)
+- [ ] [<code>Checkpointing work on Gtk4 conversion.</code>](https://github.com/phase1geo/minder/commit/4a13a7bd15f4fd2f9f1eaf8dd5b2e69005137e6c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Another round of changes for Gtk4 conversion</code>](https://github.com/phase1geo/minder/commit/e61b2d21274cb5e6f41b396965cf9f6efdb68907)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing more compile issues.</code>](https://github.com/phase1geo/minder/commit/a9602bc885cc0016eda950a49eb4f2db374106a6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Cleaning up more compile errors.</code>](https://github.com/phase1geo/minder/commit/403c9fa971b4e2f825cd3addc5913b5a3bd7199d)
+- [ ] [<code>Another round of compile fixes.</code>](https://github.com/phase1geo/minder/commit/1c1869f7834c9dda045414a0750a9e71336165ee)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/608adbf0d42c92e33b3d7411ea0575c3ea43ff26)
+- [ ] [<code>Checkpointing</code>](https://github.com/phase1geo/minder/commit/a8bb6ab2782b991a48cd0684eb40a56b3d0f532a)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/4d52e0e3cc4b02e98cdef452c8510c341fd7ed87)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/f87b91f3c65eadbd62dec436625a60c5fefa9f45)
+- [ ] [<code>Another checkpoint.</code>](https://github.com/phase1geo/minder/commit/6c3130bbe40537f376acfe39a13d2b638d5467d1)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/85a602191bfba203175ee104a7ef0d6c446b6fdf)
+- [ ] [<code>Checkpointing porting work (compiles).</code>](https://github.com/phase1geo/minder/commit/b2e443807538cee6624b9a1bb6629f4de2abcae4)
+- [ ] [<code>Fixing issues with keypresses.</code>](https://github.com/phase1geo/minder/commit/36ef47806fabcb8b0770744ec1d286bd5f29bf00)
+- [ ] [<code>UI cleanup of node inspector.</code>](https://github.com/phase1geo/minder/commit/1203a2533bc6f1d1068d94ac871242511648c255)
+- [ ] [<code>Another round of UI/UX fixes.</code>](https://github.com/phase1geo/minder/commit/f21b5860a47b0e70e19114bb8a1afab48824de89)
+- [ ] [<code>More UI improvements.</code>](https://github.com/phase1geo/minder/commit/511e4a004c4b71d0f17a84e6b7c39c79cc58ee41)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/8fb81c424b711e8245fc0853d047acc5401d813b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating image menus.</code>](https://github.com/phase1geo/minder/commit/cfff2230a6bc7c4e3fffbaadcde9b2054d8464fb)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/c1a54c0bfe11dbde732dde5a71a28fe421ed48c6)
+- [ ] [<code>Fixing Quick Entry UI and menu functionality.</code>](https://github.com/phase1geo/minder/commit/359e80e017a010631e02e1f00b60b6129b8cd543)
+- [ ] [<code>Minor fixes.</code>](https://github.com/phase1geo/minder/commit/279173a1ed179f85fd902ca9d3630109982f447b)
+- [ ] [<code>Committing work to handle control, shift and alt state.</code>](https://github.com/phase1geo/minder/commit/191ff70dc515854e2ae4f23a86f64f4f3756228c)
+- [ ] [<code>Checkpointing more UI fixes.</code>](https://github.com/phase1geo/minder/commit/f1a54f61056889a6a9ed01ce526bea85fdbfcc83)
+- [ ] [<code>Fixing connection menu.</code>](https://github.com/phase1geo/minder/commit/f5d6a61bdbae28cf8a575fb4744da950afff9fa7)
+- [ ] [<code>Checkpointing changes for drag/drop support.</code>](https://github.com/phase1geo/minder/commit/f577b994ffb6e16f49115df81e48746774512c83)
+- [ ] [<code>Adding back sticker menu functionality.</code>](https://github.com/phase1geo/minder/commit/cb0e8f79d522dad068e532a24950b2f74325652c)
+- [ ] [<code>Fixing sticker menus.</code>](https://github.com/phase1geo/minder/commit/63de363e92388b0d285956c92ed2a5bbd4313309)
+- [ ] [<code>Fixing issues with drag/drop of stickers.</code>](https://github.com/phase1geo/minder/commit/12055d7aa17404ad761d215d71b18b9a4d58b8c8)
+- [ ] [<code>Updating TODO</code>](https://github.com/phase1geo/minder/commit/e05fc8bbf9042cb388907a15c1eebf0f23023fc9)
+- [ ] [<code>Fixing issues</code>](https://github.com/phase1geo/minder/commit/9b7d02d7d622365c5baf597be4cca1f8d4454adb)
+- [ ] [<code>Updating TODO status</code>](https://github.com/phase1geo/minder/commit/2c93a6bbbc8ab7183de78e403120769d868962e4)
+- [ ] [<code>Fixing issue with mode buttons</code>](https://github.com/phase1geo/minder/commit/1812510bff0de9499f8d9fdd3d9ccdbc4009e204)
+- [ ] [<code>Fixing UI issues</code>](https://github.com/phase1geo/minder/commit/fdb1c4959e1a90f6268d8ce22f30520eb59cb391)
+- [ ] [<code>Checkpointing work on NoteView unicode completion.</code>](https://github.com/phase1geo/minder/commit/ae35b8734df75179993a4b61bcce9028ac06e287)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/169cecd49e42266f6ae25d4aba6489ea4411cd83)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/54dc1acca0394c6ce158a60aa240137ac1ce5447)
+- [ ] [<code>Fixing more issues.</code>](https://github.com/phase1geo/minder/commit/5efe3fa91026e99b86026a3e46f133e07cf2683f)
+- [ ] [<code>Checkpointing improvements to images.</code>](https://github.com/phase1geo/minder/commit/545d3678370e9f064db073f9c7c9671ddbd8a216)
+- [ ] [<code>Merge branch 'gtk4' into development</code>](https://github.com/phase1geo/minder/commit/48fef2727b271b76675aac04a22b801712b86f42)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on supporting text alignment style controls.</code>](https://github.com/phase1geo/minder/commit/044c80501f88177ea25dd66bba424fde492387b7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for text alignment in connections and callouts.</code>](https://github.com/phase1geo/minder/commit/20f1e7e6b3e6dfa41083a04bb285dcfbc4dcb195)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for proper default text alignment based on the locale dir</code>](https://github.com/phase1geo/minder/commit/d5d8e204316e845089e3ff6a23ea9724d35b3f74)
+- [ ] [<code>Merge branch 'text-alignment' into development</code>](https://github.com/phase1geo/minder/commit/9272ebe1ae8f42bf698a1b4c8f17e7ff003c14df)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on brainstorming UI.</code>](https://github.com/phase1geo/minder/commit/2a6a5d379380845bfe27e72ccc5446eee05247bc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for drag icon to Brainstorm UI.</code>](https://github.com/phase1geo/minder/commit/552781a3c89523d904495f64242b432ce8b5a853)
+- [ ] [<code>Improving DnD UX/UI.</code>](https://github.com/phase1geo/minder/commit/490412367a45f17cf403896eb0562aba5ccc5a7f)
+- [ ] [<code>Enhancements to braindump UI.</code>](https://github.com/phase1geo/minder/commit/04aa33fd8345e456dd86f8e79957c3fc289e0fae)
+- [ ] [<code>* Improving braindump UI.</code>](https://github.com/phase1geo/minder/commit/933481d1835607ab00380438a291d45872d4874c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Completed work on braindump integration.</code>](https://github.com/phase1geo/minder/commit/00eb893c41bdd5623095a53706a495e77342ac1d)
+- [ ] [<code>Merge branch 'brainstorm' into development</code>](https://github.com/phase1geo/minder/commit/95c5096f76ea5d0c2af357c1a4b8c349d9be5e3a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating MapInspector icons.</code>](https://github.com/phase1geo/minder/commit/114599caaae2cdb78d59790f508bc2a9cbf77f5c)
+- [ ] [<code>Updating link style icons.</code>](https://github.com/phase1geo/minder/commit/12483c4b7737e7633bb0c118d3f995e02035598b)
+- [ ] [<code>Updating node border icons.</code>](https://github.com/phase1geo/minder/commit/9a086b7eae089d344fe90253c08ea2bd9b71ec4f)
+- [ ] [<code>Updating ImageMenu images.</code>](https://github.com/phase1geo/minder/commit/f1f85ee449a9bdf792cf36cf78fe8e8c3ce2d05e)
+- [ ] [<code>Improving drawn icons.</code>](https://github.com/phase1geo/minder/commit/c376ab3a48b39ce1f1ba447d9f46f6daea4f5c8d)
+- [ ] [<code>Completing icon updates.</code>](https://github.com/phase1geo/minder/commit/c087c494a140d77c93ed2582b353010ddda738ec)
+- [ ] [<code>Merge branch 'icon-cleanup' into development</code>](https://github.com/phase1geo/minder/commit/5b9acc839067ad66bb5264aed2322fc223735630)
+- [ ] [<code>Fixing issues with node inspector switch behaviors.</code>](https://github.com/phase1geo/minder/commit/89b1ad82275263062826bc7ed748d0574d2376d3)
+- [ ] [<code>Saving braindump UI display to mindmap.</code>](https://github.com/phase1geo/minder/commit/e1b45ab30c1a49387f23f7b273a681949c8f8193)
+- [ ] [<code>Saving and restoring window size.</code>](https://github.com/phase1geo/minder/commit/f1ae1e5b72d6f1e22757219293837dddb8a0543e)
+- [ ] [<code>More braindump UI improvements.</code>](https://github.com/phase1geo/minder/commit/6bde60d2047faecd38a9e27989922ad8ef8d02ec)
+- [ ] [<code>Moving braindump_shown state from .minder file to tab state.</code>](https://github.com/phase1geo/minder/commit/f1d940f64d393a804139c7328e39b03f2bf749e0)
+- [ ] [<code>Initial checkin of Document to support new save format.</code>](https://github.com/phase1geo/minder/commit/cbad1612d69c4746e0ad6e64275013c44c178f71)
 - [ ] [<code>Improving URL regex to allow URLs which lack a period.</code>](https://github.com/phase1geo/minder/commit/c3131c6c583d965e8cef8760a05165463d466d90)
+- [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/268a3d02c4360a6be65454084dcb5c1bcf91cee0)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/02c9fd07494bb3990733072598f6d5f1cb633b03)
 - [ ] [<code>Update README.md #Arch Linux Install minder via pacman</code>](https://github.com/phase1geo/minder/commit/8953da97253e58089977d0866606191946522aa5)
 - [ ] [<code>Merge pull request #649 from mahmoudElshimi/patch-1</code>](https://github.com/phase1geo/minder/commit/b8ff39f192fbb70a9dccf18f80de853816b2cb26)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/ee56574db2dddcc1496dacd67c0cf1c70bdd8241)
+- [ ] [<code>Checkpointing work on mindr format.</code>](https://github.com/phase1geo/minder/commit/d5f22501e85257e0d0d87548df1349cc4620dcd0)
+- [ ] [<code>Fixing issues with drag/drop of image files.</code>](https://github.com/phase1geo/minder/commit/b11222d56b434d99bcc8e476940f3d730a0caf3b)
+- [ ] [<code>Fixing issue with loading image from new Minder format.</code>](https://github.com/phase1geo/minder/commit/3e984411331b6e6fb29b1187a97aef8b64aa65ad)
+- [ ] [<code>Merge branch 'mindr' into development</code>](https://github.com/phase1geo/minder/commit/840ed2d026966c52fa5cf3181cb0c4217d8007a3)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/ffdcc27f792ff48945872001b4ba0210be56f7ec)
+- [ ] [<code>Merge remote-tracking branch 'origin/master' into development</code>](https://github.com/phase1geo/minder/commit/3595c24d8bcffdca0499309590d2536f884d674d)
+- [ ] [<code>Fixing on_press x, y and n_press issues.</code>](https://github.com/phase1geo/minder/commit/7b9c154c8af703947d0f2404be810e586e888945)
+- [ ] [<code>Adding keyboard shorts for new, open, save-as, undo and redo.</code>](https://github.com/phase1geo/minder/commit/e349439baf6004314a986da81b2e9fb80a579b03)
+- [ ] [<code>Fixing window closing issues.</code>](https://github.com/phase1geo/minder/commit/70fcf6b2c1352c0e8e1b5b0764da60a72355873d)
+- [ ] [<code>Adding missing shortcuts to main window.</code>](https://github.com/phase1geo/minder/commit/ad3cabe0524e1eaa3f1407857099694b00aaa0af)
+- [ ] [<code>Fixing PanScale animation.</code>](https://github.com/phase1geo/minder/commit/69928fdeccc1966b59fc781bd0cad966515cdf2c)
+- [ ] [<code>Enhancing cancel_last_add() method.</code>](https://github.com/phase1geo/minder/commit/99dfd406dbeadf0404b0d5fbe07d2b353c582a34)
+- [ ] [<code>Adding missing newlines in Mermaid Mindmap exporter.</code>](https://github.com/phase1geo/minder/commit/76fd8342227fe7310219973eed8f03470e9de42d)
+- [ ] [<code>Adding Control+w shortcut for closing current tab.</code>](https://github.com/phase1geo/minder/commit/a2a5dc962e93296793b062803bb48be406679e42)
+- [ ] [<code>Fixing issue with all nodes getting selected when a group is selected.</code>](https://github.com/phase1geo/minder/commit/1e5e2d96f15aeb90a0fd19265ece83b35a86244c)
+- [ ] [<code>Adding support for copy/paste of node groups.</code>](https://github.com/phase1geo/minder/commit/bf3b0c50f5aef3c0bdf596577549834d78285427)
+- [ ] [<code>Checkpointing initial work</code>](https://github.com/phase1geo/minder/commit/fe6d3a9d7224127213b47ac78c97b32e25d87408)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing map changes.</code>](https://github.com/phase1geo/minder/commit/9f9b34b5673fe83bcbfc3e63901c887d9266a1f6)
+- [ ] [<code>Checkpointing work.</code>](https://github.com/phase1geo/minder/commit/d729bfec2a69681cb036bb7c94728f17d0819e4b)
+- [ ] [<code>Checkpointing more work.</code>](https://github.com/phase1geo/minder/commit/969a1e171a8338d8dc7de6bf5f4c14af7490ae96)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/63493deb960d3e813e1dd4e7a5788f698e8868a7)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/c9860a69dee3de2f3ca6e108773e5556d19f57bd)
+- [ ] [<code>Checkpointing (compile errors are clean).</code>](https://github.com/phase1geo/minder/commit/13cfe2adda18496461dfcc8905db0d1fbbe2ef9e)
 - [ ] [<code>Update ci.yml</code>](https://github.com/phase1geo/minder/commit/fae7714b9f9d224219589c35703ed9063ce2aaae)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/a0be99529ead86ba202538adf82278556ad38932)
+- [ ] [<code>Checkpointing DrawArea cleanup.</code>](https://github.com/phase1geo/minder/commit/d83aa3136148c0476de76dec1977610d4d9f822f)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/61f11cce6719946acb34539de59d99e2f7b0fcc0)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/35bc17690546a7e5d0f122714de9c1bac214e10e)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/52188b8ea74426ba80fc3fad15ed74dc91295734)
+- [ ] [<code>Fixing undo buffer issues in DrawArea.</code>](https://github.com/phase1geo/minder/commit/93659ceaa6723e34877b0813fae9ad01bb98adc8)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/50f8ab8a3d260031e0d1e43108d4833a33de5211)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/d6f92d6b69be7ff3716608817e80ceb7066900a8)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/f4363364b80e6659434a2c51b3ab738253bcf5e1)
+- [ ] [<code>Completing work of separating DrawArea and MindMap.</code>](https://github.com/phase1geo/minder/commit/e893a74e3459f5a86977088aebabd24a3f45cbd3)
 - [ ] [<code>Fix tab right-click crash (issue #655): add defensive null checks to tab context menu handler</code>](https://github.com/phase1geo/minder/commit/95a3ff7b8f854d68c5c735a1771100bd0aeaa4dc)
 - [ ] [<code>Merge pull request #656 from killerdevildog/fix/tab-right-click-crash</code>](https://github.com/phase1geo/minder/commit/5dd83a37075e9adefd98db5b496fe762141498a0)
+- [ ] [<code>Adding new MindMap class</code>](https://github.com/phase1geo/minder/commit/8ea32d1fdc5983016b0e14c2a536631792ea781a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on separating MindMap from MapModel.</code>](https://github.com/phase1geo/minder/commit/5d8d2ae92191b86e2b5095d554f0bf4842763f70)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/948c122085c4caeeccc0daedf8c5d073a38a1f31)
+- [ ] [<code>Completed separation of MapModel and MindMap.</code>](https://github.com/phase1geo/minder/commit/6ed62e7ba5de27d6ccb6405a658db3004187ff96)
+- [ ] [<code>Adding small improvement in selections.</code>](https://github.com/phase1geo/minder/commit/301b802e1d25bf19531023b11c57c9758440add6)
+- [ ] [<code>Cleaning up code.</code>](https://github.com/phase1geo/minder/commit/de74f243d54763542e708837f85e666ce4cb6c63)
+- [ ] [<code>Code cleanup.</code>](https://github.com/phase1geo/minder/commit/59375d83f7884840c02e030fd7037833a56f7567)
+- [ ] [<code>Merge branch 'new-map-step2' into development</code>](https://github.com/phase1geo/minder/commit/fab97a16760beacbcbf635fa2e50852322dfdcf9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on shortcuts and key commands.</code>](https://github.com/phase1geo/minder/commit/c7d86ce797013f7ca12897dc8209cace35931606)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing (code is sort of working!)</code>](https://github.com/phase1geo/minder/commit/549515fdbaca67d0f0102f37691ef8bdf56b4f7b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>More enhancements.</code>](https://github.com/phase1geo/minder/commit/15162794e131184f4a6b417b2789c18435b78313)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Code cleanup.</code>](https://github.com/phase1geo/minder/commit/5ea0c875d5e0c438c1711f371904898f3c41f493)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/8073a6f6c7c19fb2397864b53d0ee29d55e5e8d8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/f8cfe01647fa57ab7a1ecca76983904eda895ab8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Finishing up the addition of currently available shortcuts.</code>](https://github.com/phase1geo/minder/commit/0097ef367ad9b969a98f03ae4c9201783c356a58)
+- [ ] [<code>Checkpointing work on shortcuts panel in preferences.</code>](https://github.com/phase1geo/minder/commit/ad2ac48d5e4d25d31ccc4c66e135d6236bc9459a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing work on shortcuts preference pane.</code>](https://github.com/phase1geo/minder/commit/35bef4e51510bcfaf46d65af60b53c573989ec9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing work on shortcuts preferences</code>](https://github.com/phase1geo/minder/commit/6451565747af3b4b736aba137cb666709688a18c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing work on shortcutable menus.</code>](https://github.com/phase1geo/minder/commit/82a572b9d97ba6fe3b55cdf0dc8f73cfa1591ee2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/520929962b55b5c300efb8da13a75c6be3d4354e)
+- [ ] [<code>Checkpointing work on menu accelerator integrations.</code>](https://github.com/phase1geo/minder/commit/9d60039b7efb6f58551cc9a5e5e0be101f28d9bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating EmptyMenu and cleaning up TextMenu</code>](https://github.com/phase1geo/minder/commit/5d54a511bcab1a0a4b04b5a63855a96ef8bfe2d4)
+- [ ] [<code>Updating CalloutMenu, NodeMenu and EmptyMenu.</code>](https://github.com/phase1geo/minder/commit/b2f2ddcfd3a73195d3ed04fabd7dbb75d9037914)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating ConnectionMenu.</code>](https://github.com/phase1geo/minder/commit/8fe1a38c6cfdd05cbe0cf1e00348d341979e7559)
+- [ ] [<code>Updating ConnectionsMenu.</code>](https://github.com/phase1geo/minder/commit/f9f5477b9d509d2891bdba060a0ea8be47979ce2)
+- [ ] [<code>Updating GroupsMenu.</code>](https://github.com/phase1geo/minder/commit/cd6070a95b7ad15a50d37c3ed267336c5e692b96)
+- [ ] [<code>Updating NodesMenu.</code>](https://github.com/phase1geo/minder/commit/e4aa70ca9c9c910eed89844e53a17637da82f2aa)
+- [ ] [<code>Cleaning up code in DrawArea.</code>](https://github.com/phase1geo/minder/commit/34ff4bb498cccd729970e4439f01fcc086da9041)
+- [ ] [<code>Merge branch 'shortcut-prefs' into development</code>](https://github.com/phase1geo/minder/commit/d278f12a1a43b59f9ce16229be371476b1cc782b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup</code>](https://github.com/phase1geo/minder/commit/dc23ef62b07e13b134f097dee28d7172b9b833a3)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix image resize crash in set_width method</code>](https://github.com/phase1geo/minder/commit/6b4996d979dad171545f374afe1ebf4377608cce)
+- [ ] [<code>Shortcuts preferences enhancements.</code>](https://github.com/phase1geo/minder/commit/1d7ae0e753afcdd3aabe97de93ccdd0c330147ab)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #659 from killerdevildog/fix-issue-585-image-resize-crash</code>](https://github.com/phase1geo/minder/commit/8d0bb5e04d29180c08e52d0335a7dd678857872f)
+- [ ] [<code>Allow trees with only two main branches to be balanced.</code>](https://github.com/phase1geo/minder/commit/722d0daa4f62524b8996bf7f22e15c00f3ee5e41)
+- [ ] [<code>Updating NodeImage with fix from main branch.</code>](https://github.com/phase1geo/minder/commit/a69554f7de94db35e33a92cedba0a5805abd180a)
+- [ ] [<code>Checkpointing UI work in shortcuts preference pane.</code>](https://github.com/phase1geo/minder/commit/8d39972fb456129326bd4d9249971ed638b962ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding support for shortcut viewer input.</code>](https://github.com/phase1geo/minder/commit/da56f4b8a067c02e38695800741fc0300eb80635)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Minor improvements to shortcut viewer output.</code>](https://github.com/phase1geo/minder/commit/9a7cd8b62cad4ff042cca637e16cb8313705ae68)
+- [ ] [<code>Adding shortcut support for main window accelerators.</code>](https://github.com/phase1geo/minder/commit/5098bdb6f9d23fd83cd142b0c140d2ea622d4c9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding shortcut support for map commands.</code>](https://github.com/phase1geo/minder/commit/55d58d45d869b0ec6a6a1fda45f0be2f6d76d0e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Completing work on shortcuts support.</code>](https://github.com/phase1geo/minder/commit/d72530b99a855d8dccb758465883d7549665c6f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improved conflict detection in preferences.</code>](https://github.com/phase1geo/minder/commit/47040b5b3d90a9dc2386dc25e561ba9cb4697728)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Condensing code.</code>](https://github.com/phase1geo/minder/commit/92e999df30c8a98d142bf12402309896ed365bd1)
+- [ ] [<code>Adding shortcut support for show/hide of connections and callouts.</code>](https://github.com/phase1geo/minder/commit/7a14f2f4cb6e9a3dcb6f7d6b236898135e0f97ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Cleaning up gschema.</code>](https://github.com/phase1geo/minder/commit/145bceda7c1790b217d0daa9e8c61e5b812b9c2a)
+- [ ] [<code>Fixing issues.</code>](https://github.com/phase1geo/minder/commit/135d933fec01f9f9ff29f7dcb02ecdae3f15b359)
+- [ ] [<code>Code cleanup.</code>](https://github.com/phase1geo/minder/commit/750f3d5cb372a6cd92b63a121c74397f47ca995e)
+- [ ] [<code>Code cleanup.</code>](https://github.com/phase1geo/minder/commit/b3a8929f8c9456bcfbbce6690243eee852a4e1bc)
+- [ ] [<code>Fixing issues with connections.</code>](https://github.com/phase1geo/minder/commit/4af65d9de84d50a3c1ac8865b3394f68a0f928a6)
+- [ ] [<code>Removing alpha flicker when clicking on a node.</code>](https://github.com/phase1geo/minder/commit/71738e695af1ed1004a0a47831c8f2586c7887e2)
+- [ ] [<code>Adding selection box drawing.</code>](https://github.com/phase1geo/minder/commit/0ee24ffe7b2b7456ba60afe7ed67e434dc226a72)
+- [ ] [<code>Fixing a few issues with shortcuts usage</code>](https://github.com/phase1geo/minder/commit/674eebbe3cfd584d832f5f28a62087beb6c18193)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing application crash when adding a child to a folded node.</code>](https://github.com/phase1geo/minder/commit/473e08e16ba1fcad5cf146860a15bb3818f67bb3)
+- [ ] [<code>Fixing behavior of cursor location when text is selected.</code>](https://github.com/phase1geo/minder/commit/3da2f28a5e7b5508d3f5f62e85840c50c6bed7f3)
+- [ ] [<code>Adding animation to node folding.</code>](https://github.com/phase1geo/minder/commit/d7f25019fe5a07cd222ca3e7ca18f7f2b9461e27)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing support for linked node tooltips.</code>](https://github.com/phase1geo/minder/commit/ba12b7f6f3656baf6664c437821b644fe56831ab)
+- [ ] [<code>Fixing issues with unnecessary saves.</code>](https://github.com/phase1geo/minder/commit/d3fa54d38f24550ed32cc75092a0636acb31e041)
+- [ ] [<code>Fixing issue with unnamed document naming</code>](https://github.com/phase1geo/minder/commit/a822be8832f0a373fc1b7a9b37446a494c31afd2)
+- [ ] [<code>Fix issue with node selection</code>](https://github.com/phase1geo/minder/commit/a95da07b45a5b4d725c0539ac413b05a15e06d17)
+- [ ] [<code>Fixing issues with cutting multiple nodes.</code>](https://github.com/phase1geo/minder/commit/40bd69245519ed2529efac3055a7458c4892d658)
+- [ ] [<code>Fixing issues with copy/cut of multiple nodes.</code>](https://github.com/phase1geo/minder/commit/1c0bb889cdef6aeda2573c7a7e97dda6781b5a1f)
 - [ ] [<code>Fix Russian translation: Mermaid format name and typo</code>](https://github.com/phase1geo/minder/commit/994c57b27b9ac5c27f2ddb6d140a9e2f8929198a)
 - [ ] [<code>Fix Russian translation: comprehensive improvements</code>](https://github.com/phase1geo/minder/commit/a5443c60db2388adb67e739646fdb3269338bd2d)
 - [ ] [<code>Merge pull request #661 from maksim77/fix-mermaid-translation</code>](https://github.com/phase1geo/minder/commit/24f5464c4bfff24c36b7d5dc3ce76dcd530697ae)
+- [ ] [<code>Code cleanup</code>](https://github.com/phase1geo/minder/commit/1cf6992dfc3616d17a255a635361495b5fb2ba78)
+- [ ] [<code>Adding support for "Copy to Clipboard" when exporting supported formats</code>](https://github.com/phase1geo/minder/commit/9204e964221c433af8a1780a75f1e598cb21a690)
+- [ ] [<code>Changing CSV export to be able to export to clipboard.</code>](https://github.com/phase1geo/minder/commit/4511cf037873c7c06ca73f524905510fc18ee261)
+- [ ] [<code>Adding cut animation.</code>](https://github.com/phase1geo/minder/commit/536e69d09e56433ba0b331088ab1e406854acd80)
+- [ ] [<code>Adding more animations.</code>](https://github.com/phase1geo/minder/commit/5220fea0f9109573d3e288237ca2805defd514f2)
+- [ ] [<code>Improving display of shortcuts in UI.</code>](https://github.com/phase1geo/minder/commit/9d632c85783c9166a88d15e48f0294bc9604abad)
+- [ ] [<code>Cleaning up code blocks.</code>](https://github.com/phase1geo/minder/commit/584f0576bfaf9edd4d21971d83fab415eea3deee)
+- [ ] [<code>Replacing make_title with titled CSS class.</code>](https://github.com/phase1geo/minder/commit/fd26c3e8844a5c56fe3a55c5a8f9705246ac5385)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding code to eliminate unnecessary move undo operations.</code>](https://github.com/phase1geo/minder/commit/b1755e0cf12befa7b13e22cd1e3e34d4dfc4a305)
+- [ ] [<code>Returns focus to mindmap canvas after menu action is run.</code>](https://github.com/phase1geo/minder/commit/09a3bad2e769be76eb127a036a726f667ecd7590)
+- [ ] [<code>Fixing issue where connection selected when connected node is clicked</code>](https://github.com/phase1geo/minder/commit/34508a850a9ae3c77ce2c18d49e65f01d5563b07)
+- [ ] [<code>Fixing issue where node was not reporting a resize correctly.</code>](https://github.com/phase1geo/minder/commit/25ccc0e6583e2b1b8f45b8f6066cabf99bba100e)
+- [ ] [<code>Fixing issue with linking to a node.</code>](https://github.com/phase1geo/minder/commit/735315323cfc0775f45a103b90296e48324e1384)
+- [ ] [<code>Fixing issues with sequence number updating.</code>](https://github.com/phase1geo/minder/commit/cbb4d6ccc47b6500b7b1269c6955d2db918c3146)
+- [ ] [<code>Fixing issue with undo'ing a root node deletion.</code>](https://github.com/phase1geo/minder/commit/f11db73a8fa22b2ddef3f551af7f928d48ec046d)
+- [ ] [<code>Fixing issues with delete_nodes/cut_nodes undo.</code>](https://github.com/phase1geo/minder/commit/e397c5c0f114c386a684704dcfa3797b18d7e309)
+- [ ] [<code>Updating comment blocks.</code>](https://github.com/phase1geo/minder/commit/4510e7a4b3fba9a82dad8eacf1dcf6dabe724cee)
+- [ ] [<code>Fixing layout issue with delete_nodes</code>](https://github.com/phase1geo/minder/commit/8edaace55b81b76ae6f61dd22feb6a8b3d0624be)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixing issue with selection in backspace method.</code>](https://github.com/phase1geo/minder/commit/fa9c0e6d902d6916453c55c3f8c600e5a2611627)
+- [ ] [<code>Fixing CanvasText.backspace issue with selection.</code>](https://github.com/phase1geo/minder/commit/7c8ac11a6fb2f9c86458629de8cf8755b5b5d19f)
+- [ ] [<code>Disabling debug mode</code>](https://github.com/phase1geo/minder/commit/b0842aa69921656373d445233822e2591dde38f8)
+- [ ] [<code>Updating testing environment.</code>](https://github.com/phase1geo/minder/commit/de3a091381cd6e04cb83ebaadf16c368eac21a82)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving functionality of Switches in NodeInspector</code>](https://github.com/phase1geo/minder/commit/4d0599c6f9e510e88dd993a6cb2070a98112f912)
+- [ ] [<code>Fixing issues with contextual menu display during zoom</code>](https://github.com/phase1geo/minder/commit/c54619e325ccca5876783c92d2f506a5fbf931f2)
+- [ ] [<code>Consolidating node folding code.</code>](https://github.com/phase1geo/minder/commit/16985c0ffdd9a96d83db51c76e5d56df82250991)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Additional code cleanup.</code>](https://github.com/phase1geo/minder/commit/58f3bf1cb5686ba28e4f275dc59a9308c6618830)
+- [ ] [<code>Adding node animation when pasting nodes.</code>](https://github.com/phase1geo/minder/commit/37a2f58eb76cf121d5aac9ddcd516ffe21f8684c)
+- [ ] [<code>Adding animation support for tasks.</code>](https://github.com/phase1geo/minder/commit/6fa59331589b402e56b3fa561be5960fd7d38b8a)
+- [ ] [<code>Fixing clipboard catch issue.</code>](https://github.com/phase1geo/minder/commit/7e91449b1e8b893974921760ccf4d4a250081a55)
+- [ ] [<code>Clearing attachment objects when cursor leaves DrawArea</code>](https://github.com/phase1geo/minder/commit/5427bf36a58e269e9871949943c3137601a391ee)
+- [ ] [<code>Improvements to braindump UX.</code>](https://github.com/phase1geo/minder/commit/6d199bcb4fec84412d680ed7f0205b1bd5be5c72)
+- [ ] [<code>Adding WebP export support.</code>](https://github.com/phase1geo/minder/commit/9ba64298510dcff5a55e7c50117a2dabf49f0ce3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Updating README.md to include webp installation notes.</code>](https://github.com/phase1geo/minder/commit/5e1fed40f1358ff9ac1ee239055aee7e111dffc8)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/54ca555c234df700ec3b17f76c413cd4caa96595)
+- [ ] [<code>Merge branch 'webp' into development</code>](https://github.com/phase1geo/minder/commit/571a353426d1b771d47d642bb4e09f15e090f2d2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing animation issues on node deletion.</code>](https://github.com/phase1geo/minder/commit/61f06bc8e0cd5214ef700fe0a26088a7e95f02b9)
+- [ ] [<code>Fixing issue with displaying full node when inserting text into a node.</code>](https://github.com/phase1geo/minder/commit/63d7accbc5e18b7e5105305c742671abf53a7dfc)
+- [ ] [<code>Fixing preference window UI issues.</code>](https://github.com/phase1geo/minder/commit/0fb3aaef0da822969214841c4a37e981a38afe00)
+- [ ] [<code>Improving quality of node image within sidebar.</code>](https://github.com/phase1geo/minder/commit/0a0d38f3d0b36d7ddb7660b1be24c0984381e45b)
+- [ ] [<code>Fixing issue with removing sticker from favorites.</code>](https://github.com/phase1geo/minder/commit/8ca2b376b6aa9547ae0fc97e4f40f15d5ca5262c)
+- [ ] [<code>Fixing UI issues with theme editor.</code>](https://github.com/phase1geo/minder/commit/8e8cc9189dcc4e8d11da908a486253ec1a7893a7)
+- [ ] [<code>Checkpointing work on read-only mode support.</code>](https://github.com/phase1geo/minder/commit/9fc2a8f4f02a7ba054d6970b58522ab66b951c7c)
+- [ ] [<code>Checkpointing work.</code>](https://github.com/phase1geo/minder/commit/35ea16d1b584c3c707669ccaf41c9c9b5851fb6f)
+- [ ] [<code>Checkpointing load changes.</code>](https://github.com/phase1geo/minder/commit/6993df242a60992548c28da118026c4ebc58e915)
+- [ ] [<code>Fixing issues with drop handling in read-only mode.</code>](https://github.com/phase1geo/minder/commit/9025ab76a6647fa4f29df6b46d5fae2d961df4c1)
+- [ ] [<code>Various fixes for read-only mode support.</code>](https://github.com/phase1geo/minder/commit/d102b4137902dc2125ff51668e3b0d9710d91e82)
+- [ ] [<code>Fixing issues with braindump UI in readonly mode</code>](https://github.com/phase1geo/minder/commit/0ba33a6b95666acac03bcc8b04563aec994bcb05)
+- [ ] [<code>Improving map sidebar UI when in read-only mode.</code>](https://github.com/phase1geo/minder/commit/4fa5cddbac5d19d267c737a794a590c900695292)
+- [ ] [<code>Adding support for building elementary and Flathub flatpaks.</code>](https://github.com/phase1geo/minder/commit/27c78e76a578f05ff0689147aa518c6d7448cf67)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Improving upgrading handling.</code>](https://github.com/phase1geo/minder/commit/53c2c4acd5e747c8b58bc5e213ab95cbe9e09b39)
+- [ ] [<code>Adding upgrade request for tab loading.</code>](https://github.com/phase1geo/minder/commit/5f80f3fd69112a82fae60420cee3e50ad2646a52)
+- [ ] [<code>Improving preferences UI.</code>](https://github.com/phase1geo/minder/commit/fc2e6de494bbd8262c31498556d5399c10083df4)
+- [ ] [<code>More improvements to upgrade UI/UX.</code>](https://github.com/phase1geo/minder/commit/981e921bc2a4ca908638c2b0f07d7f9a57940720)
+- [ ] [<code>Fixing Flathub build issues with version org.gnome.Sdk 48</code>](https://github.com/phase1geo/minder/commit/d912bf9eb1514d72c0853fae2acfb860e45fa549)
+- [ ] [<code>Merge branch 'editable-mode' into development</code>](https://github.com/phase1geo/minder/commit/b0d3cfd12546bed77bd02a530b8d92a9309c32a3)
+- [ ] [<code>Changing save-as to save-orig when upgrading.</code>](https://github.com/phase1geo/minder/commit/0cfb85c5f92d3749b2469342fb0286a0545afc84)
+- [ ] [<code>Fixing issues with read-only UI state.</code>](https://github.com/phase1geo/minder/commit/c2eeaa074c547d8aeb28ffb99fb3d2a43ba6da5a)
+- [ ] [<code>Another fix for read-only UI state when file is saved.</code>](https://github.com/phase1geo/minder/commit/13bd803c37c51466692793c5233db453cd474370)
+- [ ] [<code>Code cleanup.</code>](https://github.com/phase1geo/minder/commit/1c0fee1dc6e983b5424050d1bff8ec893a3b0dd4)
+- [ ] [<code>Improving UX when saving previously named file.</code>](https://github.com/phase1geo/minder/commit/33244d37faf40f57381a4cf3d02f700c257a5429)
+- [ ] [<code>Improving initial upgrade window.</code>](https://github.com/phase1geo/minder/commit/e797ba8df0015cbd6c4f087f9af197d5a4524b41)
+- [ ] [<code>Fixing UI issues with tab upgrader.</code>](https://github.com/phase1geo/minder/commit/fee8dfef4eca7ed98a7946a530969c7567f65cfe)
+- [ ] [<code>Adding expander to tab upgrade description box.</code>](https://github.com/phase1geo/minder/commit/81675e017fa2d7bdf87f36ababb6e7b77dfe6126)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/fdced3df0f227b9713aeb53076384df41c5bdb71)
+- [ ] [<code>Checkpointing work on tagging support.</code>](https://github.com/phase1geo/minder/commit/5f107916666796d8252a122e704987715f1a76b8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing UI/UX work on tags support.</code>](https://github.com/phase1geo/minder/commit/d947d065a1160b5b1726c328d82d536e23af992f)
+- [ ] [<code>Checkpointing work on tags.</code>](https://github.com/phase1geo/minder/commit/bf73423c842813264a5dd4ba8e6c2544a815b7fe)
+- [ ] [<code>Adding drag/drop support for tags on nodes.</code>](https://github.com/phase1geo/minder/commit/6c2c34fcfde481b2edc7aaa2223820c1c1a52d10)
+- [ ] [<code>Fixing issues with SHOW_CURRENT_SIDEBAR shortcut</code>](https://github.com/phase1geo/minder/commit/72ba537ed1446a634af5e9a8746607e8e054f4f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding alpha to draw_tag in node.vala to fix focus display issue</code>](https://github.com/phase1geo/minder/commit/cbae1e6529495f5f983eb3868109f493a4fe5420)
+- [ ] [<code>* Fixing issues with displaying node tags.</code>](https://github.com/phase1geo/minder/commit/3cda934f9cd88944dd301ffd1b529a7a4ccf1af3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>* TagEditor enhancements</code>](https://github.com/phase1geo/minder/commit/f29578078e9686d73adc5f7fcb67c3015741a113)
+- [ ] [<code>Improving location of close button in tabs</code>](https://github.com/phase1geo/minder/commit/76a6e4c5de78daf120e5254b0af186a7a1b93ffe)
+- [ ] [<code>Checkpointing work on preference tags.</code>](https://github.com/phase1geo/minder/commit/f43f97817a906b850d9709d832a28bdcccdeae1b)
+- [ ] [<code>Checkpointing work on handling selection of multiple nodes (WIP).</code>](https://github.com/phase1geo/minder/commit/37fa622e2ed483461dde5bd91f677788f19a9a67)
+- [ ] [<code>Fixing issues with multiple selected nodes.</code>](https://github.com/phase1geo/minder/commit/45b81b3fe14bb95dba04f717d76e453964ea48e0)
+- [ ] [<code>Adding tag undo support.</code>](https://github.com/phase1geo/minder/commit/bc98f792a7a8245d2391de974089a700e9aedcad)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for tag inspector editable.</code>](https://github.com/phase1geo/minder/commit/9bbfa175f540ff96af965c041f1e886f3903bb2f)
+- [ ] [<code>Adding tab indicator that save is needed.</code>](https://github.com/phase1geo/minder/commit/d493101154b46dfd8bb3dda3901b0512e16e4ddb)
+- [ ] [<code>* Initial version of preference tags.</code>](https://github.com/phase1geo/minder/commit/89f85333a879c6f92520434105c25a732de97453)
+- [ ] [<code>Adding tag search to TagEditor.</code>](https://github.com/phase1geo/minder/commit/1f668ddcaede8243644a587035e455a4b57f1f7b)
+- [ ] [<code>Enhancing sidebar UI and adding usage note in TagInspector.</code>](https://github.com/phase1geo/minder/commit/6b9f31f44105f555178ee7ff1c92c5a4e6bf2ded)
+- [ ] [<code>Improving preferences focus.</code>](https://github.com/phase1geo/minder/commit/c22c35e18adea2d957116d8bf162a25d90c04d6d)
+- [ ] [<code>Adjusting tab layout.</code>](https://github.com/phase1geo/minder/commit/eb1bd3dc374339b0b1bb120522e2850ca63e9a79)
+- [ ] [<code>Forcing StackSwitcher tabs to be uniform width.</code>](https://github.com/phase1geo/minder/commit/7f42c049ab07038307a7be05f06eab8b7e2e8a1e)
+- [ ] [<code>Fixing font styling.</code>](https://github.com/phase1geo/minder/commit/3a7a0edeaf672c44c697ed843bf65915142f4057)
+- [ ] [<code>Checkpointing work on tag highlighting.</code>](https://github.com/phase1geo/minder/commit/0649cf74be4a0ef149b9c149d57c58805da0d3b3)
+- [ ] [<code>Checkpointing updates to tag highlighting.</code>](https://github.com/phase1geo/minder/commit/184cc1e5b4a2c236b020ec1d360d6f4112e803ce)
+- [ ] [<code>Checkpointing work on new tag highlighting UI/UX.</code>](https://github.com/phase1geo/minder/commit/77a8921adea7a2f331c42be8eefbf0a04c0a8db9)
+- [ ] [<code>Enhancing tag highlighting support to work with focus mode.</code>](https://github.com/phase1geo/minder/commit/e344646f6e09e089f5fc623c75ed649ffdf53d76)
+- [ ] [<code>Adding support for All and Any tag matching (need UI changes).</code>](https://github.com/phase1geo/minder/commit/71878fc56864ff1f756e52f8babb28721850e69b)
+- [ ] [<code>Checkpointing UI updates to TagInspector.</code>](https://github.com/phase1geo/minder/commit/bf8a327146b230a9376ad2cade4cad6920f25d1c)
+- [ ] [<code>Checkpointing tag UI work.</code>](https://github.com/phase1geo/minder/commit/9d225b89252b43006a9aacc51848d59c89f85d78)
+- [ ] [<code>Checkpointing tag UI fixes.</code>](https://github.com/phase1geo/minder/commit/5aa25ee09da795b3833a40f9921a90bf175fbb29)
+- [ ] [<code>More tag UI enhancements and bug fixes.</code>](https://github.com/phase1geo/minder/commit/53261cef2722b6a03d58441a6271b288d92b9187)
+- [ ] [<code>Merge branch 'tagging' into development</code>](https://github.com/phase1geo/minder/commit/53be82fc37509137afad1c319df464a11e32a04a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing initial work on style template support</code>](https://github.com/phase1geo/minder/commit/c2757bde769c3e26768488bfdc6f3251ccb56e92)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on template support.</code>](https://github.com/phase1geo/minder/commit/e06aeaa363e66ee78bc49455b2cdadfee0de360d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing issues with applying styles.</code>](https://github.com/phase1geo/minder/commit/c84077f469dcd5e86758945799fa964fca3fb916)
+- [ ] [<code>Enhancing the template deletion interface.</code>](https://github.com/phase1geo/minder/commit/8f182309b6883b1208214498de1df544732f97c5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving hover color in TemplateDeleter.</code>](https://github.com/phase1geo/minder/commit/bef6658c11f818593a3fa78022e157e28a6d4a14)
+- [ ] [<code>Merge branch 'style-templates' into development</code>](https://github.com/phase1geo/minder/commit/bf15f3fed58e677e06fb962ac05bfcfab77033e8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving temporary directory cleanup.</code>](https://github.com/phase1geo/minder/commit/1102337c3523f1a37b484f841d83088ccbd0e6dc)
+- [ ] [<code>Adding temporary directory button in map sidebar.</code>](https://github.com/phase1geo/minder/commit/5da74fef6913a134ba58fc8fdff811e0eb7a4553)
+- [ ] [<code>Fixing issue with display of themes in MapInspector.</code>](https://github.com/phase1geo/minder/commit/e206072add126b439c750d16cfa4f48f9a8577ac)
+- [ ] [<code>Fixing issue with deleting custom theme.</code>](https://github.com/phase1geo/minder/commit/a21f2d5db49dce6ae1a7f7ca4cb884fa11d62e74)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/42264c998372289715697cc3967fa26c363b657d)
+- [ ] [<code>Improving attach undo/redo.</code>](https://github.com/phase1geo/minder/commit/80c6df545fff2bec9cb02d8df4e4542342b60fbf)
+- [ ] [<code>Adding class comment.</code>](https://github.com/phase1geo/minder/commit/444066d81d4613c312316d151626f3ae0ebf836b)
+- [ ] [<code>Adding support for style from parent mode.</code>](https://github.com/phase1geo/minder/commit/a3ffcb05588ef9004b9eb2c5dd31164e6f2c60a1)
+- [ ] [<code>Merge branch 'style-matches-parent' into development</code>](https://github.com/phase1geo/minder/commit/be53f532425d303cd989c2c55a3c2f72253618f3)
+- [ ] [<code>Adjusting new node creation to use new style setting in preferences.</code>](https://github.com/phase1geo/minder/commit/bf3cb76389124d41088e6e8d41f7b4deaa0e6ec9)
+- [ ] [<code>Checkpointing being able to move and return multiselect nodes.</code>](https://github.com/phase1geo/minder/commit/e1558a3ad73a2652cd72ed89225354de7f25ad1a)
+- [ ] [<code>Checkpointing work necessary to support multi-node attachment.</code>](https://github.com/phase1geo/minder/commit/e7a4c081878843759ffe946ba67287a4fde4d1ed)
+- [ ] [<code>Adding support for multi-node attachment.</code>](https://github.com/phase1geo/minder/commit/0ef986ebcb9a51fe67d024ef92a4cd5615ccfdfa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for multi-node move in manual mode.</code>](https://github.com/phase1geo/minder/commit/746c71236ea504b80f5e1909afa3dce3a1945e31)
+- [ ] [<code>Fixing issue.</code>](https://github.com/phase1geo/minder/commit/8d271a20ec8e81d3a56372b635d1dc743d56147e)
+- [ ] [<code>Merge branch 'multi-move' into development</code>](https://github.com/phase1geo/minder/commit/ee5c7074fbd1cebafe9ceb1f5aebe9c4e13c9f42)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates to About window.</code>](https://github.com/phase1geo/minder/commit/8e73b2f6e0688b78e95741ddf6f1fe07b1036bb1)
+- [ ] [<code>Adding link and connection arrow sizing to styles.</code>](https://github.com/phase1geo/minder/commit/146e463f544f09b76502b8b42334e97100c329a6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improving detection of desktop environment</code>](https://github.com/phase1geo/minder/commit/60c627e3e31683415a56886112dee32c50304318)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/d36a1d2b7b2d5cbfab89fffd64acd4fe96b4fcb8)
+- [ ] [<code>Updating README.md file.</code>](https://github.com/phase1geo/minder/commit/9417b23f995c3c1270bbb2ba33190ed536dae331)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding missing file to gitignore file.</code>](https://github.com/phase1geo/minder/commit/d57e7e26a1e11a3811be928b88f14beb3e9fb9d3)
+- [ ] [<code>Fixing UI issue in Shortcuts preferences panel.</code>](https://github.com/phase1geo/minder/commit/90eae8fcdc326431b6924e9e9df3f07e3f5c079f)
+- [ ] [<code>Code cleanup</code>](https://github.com/phase1geo/minder/commit/4905727304f9fa719cf018bb3f02cecc7d66fa4d)
+- [ ] [<code>Merge remote-tracking branch 'origin/development' into development</code>](https://github.com/phase1geo/minder/commit/8251579d349983acfda328a8d25a87ed785d6f0f)
+- [ ] [<code>Fixing issues with drag/drop in canvas.</code>](https://github.com/phase1geo/minder/commit/d2707614502ced6167afbb7c9845d1d746e643d0)
+- [ ] [<code>Fixing issue with drag/drop of image files.</code>](https://github.com/phase1geo/minder/commit/83fbca8ace70cafef5316c92cc13ea8fa01fc5f4)
+- [ ] [<code>A few more README.md additions.</code>](https://github.com/phase1geo/minder/commit/8172fdd7395647eada355f26b2ae1eff434b19bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing arrows in theme thumbnails.</code>](https://github.com/phase1geo/minder/commit/9be704cdb5df79d379c807b8ef14036f0f412aec)
+- [ ] [<code>Fixing issues with icon display when theme is changed.</code>](https://github.com/phase1geo/minder/commit/275bdf25a80bd8694a10b5a638398546e0db3a92)
+- [ ] [<code>Fixing icon display in MapInspector.</code>](https://github.com/phase1geo/minder/commit/56a5c5b6a8ffd84f2d5c552179ee8d5df388fd7c)
+- [ ] [<code>Updating translation data.</code>](https://github.com/phase1geo/minder/commit/debc3134caf614f06fb905d68c87feff17959e99)
+- [ ] [<code>Checkpointing template menu rework.</code>](https://github.com/phase1geo/minder/commit/f9d255474a6d2a96fb4ce269b887ecb50c138e5b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on new template interface.</code>](https://github.com/phase1geo/minder/commit/e54fc1106f4017131a45cf2dd3e7faf4f6f393c7)
+- [ ] [<code>Checkpointing template rework.</code>](https://github.com/phase1geo/minder/commit/1a566635d1715d2d55be36486c39fdef6f54e0c1)
+- [ ] [<code>Commiting final changes for template support.</code>](https://github.com/phase1geo/minder/commit/8e0472541823f2aa61094ffd2f2178bf122f55e8)
+- [ ] [<code>Merge branch 'template-rework' into development</code>](https://github.com/phase1geo/minder/commit/ef7eecd59c184977897521242619b6eb63f1167e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing work on auto-pan on drag.</code>](https://github.com/phase1geo/minder/commit/a8ea999d71c634de286a5d614ea7f595a1036a4f)
+- [ ] [<code>Tweaks to auto-panning.</code>](https://github.com/phase1geo/minder/commit/ae2fc2a519ed07dc626586df33772c06818afbaf)
+- [ ] [<code>Merge branch 'edge-drag' into development</code>](https://github.com/phase1geo/minder/commit/4463e0ce3ba0a69e2a6747f1a83dd7613ac044b6)
+- [ ] [<code>Adding support for compact sidebar width setting.</code>](https://github.com/phase1geo/minder/commit/00989d022c02e12f333cf1a2d797b88edede18b8)
+- [ ] [<code>Fixing Markdown issue with rendering markup in code blocks.</code>](https://github.com/phase1geo/minder/commit/19cb2682ec108dce89436450c1408307d74790aa)
+- [ ] [<code>Adding method to help debug shortcut issues.</code>](https://github.com/phase1geo/minder/commit/f75d6166bf4eef9f81abaf7f6172d2022177161d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing issue with save state when node moves but doesn't change location</code>](https://github.com/phase1geo/minder/commit/e54a6ec1164502327e1b6e241fccea1aa43337f8)
+- [ ] [<code>Minimizing sidebar width when compact mode is changed</code>](https://github.com/phase1geo/minder/commit/864559e2cb81160c532c6001df4491bf2d24419a)
+- [ ] [<code>* Removing XML map save during auto_save.</code>](https://github.com/phase1geo/minder/commit/612aa64b2bc8e4d488209d68e0dad7bc119208c1)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/63bbe3e927625536b104515f8529db26c6acafc2)
+- [ ] [<code>Fixing style copy/paste issues.</code>](https://github.com/phase1geo/minder/commit/9e08f916470cf0f8b1362a85e1cb4e87836757d9)
+- [ ] [<code>Fixing issues with style copy/paste.</code>](https://github.com/phase1geo/minder/commit/390e95927ce72e32e44e51494ce6c89641e09553)
+- [ ] [<code>Changing Minder default link type to curved.</code>](https://github.com/phase1geo/minder/commit/1d4382f7addab60da4368419fc19c37acb0b4b81)
+- [ ] [<code>Fixing build issues with libwebp in Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/b6d14667f08275a61453a9acdb2a6f073e55cd00)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating io.elementary.Sdk from 8 to 8.2.</code>](https://github.com/phase1geo/minder/commit/b09d7b6e5b291cf90d3a04589c371aebd00dfd28)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fixing issue with drawing selection box over nodes</code>](https://github.com/phase1geo/minder/commit/d554868df5c83e9cc5612cd375f61d2b9d89377a)
+- [ ] [<code>Fixing issues with task overload</code>](https://github.com/phase1geo/minder/commit/c8edbd2ff87c201849e952bd96aa5717c0285bd0)
+- [ ] [<code>Fixing layout issues caused by tasks being enabled.</code>](https://github.com/phase1geo/minder/commit/85b32886ed6746662c17ec63dedb8da7021e2443)
+- [ ] [<code>Updates to appdata file with release notes.</code>](https://github.com/phase1geo/minder/commit/006ab4d06e321239ead8f3b94a50f46891b3ddc0)
+- [ ] [<code>Updating screenshots</code>](https://github.com/phase1geo/minder/commit/d09c6a57d8a914d443f9b86e0433e8c8017d06cd)
+- [ ] [<code>Merge branch 'development' into beta</code>](https://github.com/phase1geo/minder/commit/b46a1b42cd54eedcece074a3823b6b4ace1d2f0c)
+- [ ] [<code>Updating for beta1 release of 2.0</code>](https://github.com/phase1geo/minder/commit/a9a5a9f8976cbbdcedb6aba2561240f9c3ad830e)
+  - <sub>Tags: <code>2.0.0-beta1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing Control + Scroll to zoom</code>](https://github.com/phase1geo/minder/commit/22620e15ae9b205036709427352c7bf061c7bf71)
+- [ ] [<code>Fixing display issues with style sidebar expansion.</code>](https://github.com/phase1geo/minder/commit/e34b07187190823978d9591d5ddb22644b2b4de3)
+- [ ] [<code>Replacing sidebar stack switcher with a more compact widget.</code>](https://github.com/phase1geo/minder/commit/c86f30d3513fb903c7e124ccbf0cc1bbf3c8ad88)
+- [ ] [<code>Temporary fix for theme issue.</code>](https://github.com/phase1geo/minder/commit/2b20accf71137b4450bd619ef527cb52c6e5f662)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/beta' into beta</code>](https://github.com/phase1geo/minder/commit/9c972cc5aa531cd7d30c769150fbde878163028c)
+- [ ] [<code>Fixing display issue on Gnome.</code>](https://github.com/phase1geo/minder/commit/4ea7832284fb1bb24262fde743f67971a83ee88d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Updating files for upcoming 2.0.0-beta2 pre-release</code>](https://github.com/phase1geo/minder/commit/5d1f874b53fde1e8a0f2582e567155d811189e70)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fully fixing dark mode issue where UI would become unreadable</code>](https://github.com/phase1geo/minder/commit/9c68a1f36ae2672e78a5a34aabb725bfe5f2eae2)
+  - <sub>Tags: <code>2.0.0-beta2</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update Russian translation, Part 1</code>](https://github.com/phase1geo/minder/commit/d7c05a5a76e0d88d6ff9a10c9a71a33e729ab34e)
+- [ ] [<code>Merge pull request #673 from prokoudine/beta</code>](https://github.com/phase1geo/minder/commit/54b5d67eb77425bf0d75ca2faaa19c931eb04f1d)
+- [ ] [<code>Updating Flatpak manifest filename.</code>](https://github.com/phase1geo/minder/commit/a66f0e1a512f5fa1174d1f2582e235cb82912aa7)
+- [ ] [<code>Attempting to get CI action to run for master and beta changes.</code>](https://github.com/phase1geo/minder/commit/b1b86285ec165fef93ae2b774da20add3c99c8a1)
+- [ ] [<code>Fixing issue with saving current document from anywhere</code>](https://github.com/phase1geo/minder/commit/93039abaa8612ce189c74c21b93ad9e4b4836a14)
+- [ ] [<code>Updating files for beta3 release.</code>](https://github.com/phase1geo/minder/commit/2ac3b1152242b46e012286b394e26fdb29de19b8)
+  - <sub>Tags: <code>2.0.0-beta3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding sv</code>](https://github.com/phase1geo/minder/commit/f64b3f2915b187b70b704e359e9eef1baf927760)
+- [ ] [<code>Adding Swedish translation</code>](https://github.com/phase1geo/minder/commit/1524168acffc8d086ded2362143e45542b574034)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #674 from yeager/master</code>](https://github.com/phase1geo/minder/commit/d9ced705f27b91add31b0932bf6ab09f78b695cd)
+- [ ] [<code>Moving Swedish translation file from master branch.</code>](https://github.com/phase1geo/minder/commit/443d2393efc732512f7ca392021ac59cc0ad3cb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating translation files.  Removing shortcuts.ui.</code>](https://github.com/phase1geo/minder/commit/287f618568016e44d3bfacfce004812ecffd52e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Removing shortcuts.ui file.</code>](https://github.com/phase1geo/minder/commit/e939e44663a277168c1e6511c3c14c9173ee2a3c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Random code cleanup</code>](https://github.com/phase1geo/minder/commit/163ab63e4d58861623c2399485d5d1b63ce54719)
+- [ ] [<code>Fixing rotation color issues.</code>](https://github.com/phase1geo/minder/commit/93707cdf77e19c10f6134af79b9027d8629392f6)
+- [ ] [<code>Removing unnecessary "rotate" variable in Theme class.</code>](https://github.com/phase1geo/minder/commit/d6ef15ab4c40f1ac490d9bde4882482f5801c1ab)
+- [ ] [<code>Fixing background theme issue.</code>](https://github.com/phase1geo/minder/commit/f14bf76f12b9332dfddefa4b6cb1637c90b30e44)
+- [ ] [<code>Removing debug output.</code>](https://github.com/phase1geo/minder/commit/723f5dafd62dac8ded97f75634693eea6f3feee8)
+- [ ] [<code>Updating files for beta4 release.</code>](https://github.com/phase1geo/minder/commit/3e502d0a8179e863393d1038da848201a6c9be70)
+  - <sub>Tags: <code>2.0.0-beta4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issue with character selection.</code>](https://github.com/phase1geo/minder/commit/5801de7ff6323ba1bb8c7c646ee36c8bcc8f6271)
+- [ ] [<code>Fixing UI issue in tab display on some systems.</code>](https://github.com/phase1geo/minder/commit/25b6c657303f63e3373475ab8ae27b4917fe9c65)
+- [ ] [<code>Updating files for beta5 release.</code>](https://github.com/phase1geo/minder/commit/f21b8a08ffa4850e12d4b95b7a16e600ad146f6d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/5a6dbf2dc30375e15d915dfea24d1fc2eea0b588)
+- [ ] [<code>Merge remote-tracking branch 'origin/beta' into beta</code>](https://github.com/phase1geo/minder/commit/0592db89e76b56dd35ea34176896301c76a0c206)
+  - <sub>Tags: <code>2.0.0-beta5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding symbolic icons for node alignment.</code>](https://github.com/phase1geo/minder/commit/69a5f7b7cd2c2dd67a8c5b51fa8409370fd35011)
+- [ ] [<code>Fixing the handling of Delete and BackSpace in quick entry</code>](https://github.com/phase1geo/minder/commit/afce7d8ba3422c74d0ff30f69cd4daa197a2cd49)
+- [ ] [<code>Stopping autopan process on key release.</code>](https://github.com/phase1geo/minder/commit/46629da9cd872458122b21c1a2121964593da608)
+- [ ] [<code>Adding animation for reparenting a node.</code>](https://github.com/phase1geo/minder/commit/4f80b6a44deab9eca2f65fe3be0b61f4d2a402bc)
+- [ ] [<code>Adding control for enabling/disabling window animations.</code>](https://github.com/phase1geo/minder/commit/87aabde81da46bd6ce045ec53f2c36d0bb99ec7a)
+- [ ] [<code>Preparing files for beta6 release.</code>](https://github.com/phase1geo/minder/commit/8d17bb71f5b63d355fc3f6b4b61b7f3c02f8a324)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding updated Swedish translation.</code>](https://github.com/phase1geo/minder/commit/7a565f5a4e61888c50eb2130742e243721b23cdb)
+  - <sub>Tags: <code>2.0.0-beta6</code></sub>
+- [ ] [<code>Updating application data for 2.0.0 release.</code>](https://github.com/phase1geo/minder/commit/bc332ff5c7b8df7da4201ae894c1ec43dabefdfc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'beta'</code>](https://github.com/phase1geo/minder/commit/704a00a9089b003fff075310fb7feb1f076784f8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/119de3881abb37aa8fac1115a565b1a3cf9c64d4)
+- [ ] [<code>Attempting to fix ci.yml</code>](https://github.com/phase1geo/minder/commit/24766aca70f25f1007b7cf2e2f2ceb76f3e411bf)
+- [ ] [<code>Another attempt to fix ci.yml syntax errors.</code>](https://github.com/phase1geo/minder/commit/cae0577c5122c6bda8e9d7b5c474022f6c24c0d3)
+- [ ] [<code>Another attempt.</code>](https://github.com/phase1geo/minder/commit/e4efff4dd8554887e9ff3c4f4b67056f7e86c283)
+- [ ] [<code>Trying again.</code>](https://github.com/phase1geo/minder/commit/baf2c213ff77bead8f9c6ee1f06499978dd31e5a)
+- [ ] [<code>Updating ci.yml.</code>](https://github.com/phase1geo/minder/commit/a8c076601bcb269feb07a3327a9e1b70cbf830e7)
+- [ ] [<code>Another update.</code>](https://github.com/phase1geo/minder/commit/2afc77eb098d91c1c9b7820c0fc858e828ed5a69)
+  - <sub>Tags: <code>2.0.0</code></sub>
+- [ ] [<code>Updates to fix location of Flatpak manifests.</code>](https://github.com/phase1geo/minder/commit/852715e508e94392b3d5a660eecd5f48cd4e97a7)
+  - <sub>Tags: <code>2.0.0-1</code></sub>
+- [ ] [<code>Fixing another issue with Flatpak manifests.</code>](https://github.com/phase1geo/minder/commit/c8c475c0603228cef925882cbb72136926261b12)
+- [ ] [<code>Update manifest path for Flatpak build</code>](https://github.com/phase1geo/minder/commit/6c74224e970014600782d1259aefa8be93c64b8a)
+  - <sub>Tags: <code>2.0.0-2</code></sub>
+- [ ] [<code>Adding --device=dri to Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/7f0e15cdddb06db829bc5f0bb28ad35730c13f57)
+- [ ] [<code>Removing OARS data from appdata.xml.in</code>](https://github.com/phase1geo/minder/commit/870626998762c4982cdfa0ff85d46d846211200b)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
+- [ ] [<code>chore: Rename Switchboard to System Settings (#337)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c51bc92ce6256dd69af1674fd87ba0b348d030e0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: ThemeSettings: Add support for Latte (#276)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f65ed150f712eac2037111586073059299f5e620)
+- [ ] [<code>chore(deps): bump actions/checkout from 5 to 6 (#338)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ad9a2fd2ab9257ea2ab3c6eef03bd3e31c788908)
+- [ ] [<code>chore: Apply shellcheck (#339)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0fab7789cb3300bca4d27b89fe22da9fed550b4a)
+- [ ] [<code>chore: start-pantheon-tweaks.sh: Coding style (#340)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5da42da98ca9e1ee69ea28207982197d941bbf0b)
+- [ ] [<code>fix: start-pantheon-tweaks.sh: Correct position to trap SIGINT (#341)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4b327d5d3d81b1e0739285b314868cf1a59ab9d9)
+- [ ] [<code>fix: MainWindow: Add missing window title (#342)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38f28742cfdaa0c82961c040e0b4e82185a04c4)
+- [ ] [<code>chore: Tweaks: Rely on Granite.StyleManager (#344)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d5863fb3983a0db7a9614233b8f9465bf344c8c6)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.15.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.15.1...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.16.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.16.1...HEAD)
 
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/c976a1c5edb3a781e2bcb30c3f55015b61629dfd)
-- [ ] [<code>Translations update from Hosted Weblate (#1918)</code>](https://github.com/alainm23/planify/commit/2b26284391172708de7f58f44170d43685338881)
-- [ ] [<code>Translations update from Hosted Weblate (#1919)</code>](https://github.com/alainm23/planify/commit/aaaefe26877b9444e160e36c57b2886533bf7507)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cffd8d57ec6932714fe363ee0ec663efb2b37ea1)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d4953bc51663eae8d95a8744e2fb19feeb4c4a4a)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#1925)</code>](https://github.com/alainm23/planify/commit/6e070b6d61893f1f482022803112a39bb4e199dd)
-- [ ] [<code>Translations update from Hosted Weblate (#1927)</code>](https://github.com/alainm23/planify/commit/34d6f2b6d31390f07b64095055386398246bf5cb)
-- [ ] [<code>Translations update from Hosted Weblate (#1928)</code>](https://github.com/alainm23/planify/commit/79ea04fd723785efc5d5be1a8d4d602805f60265)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/982cebefca7ac156b031fca9058afa0a30cd8b73)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/18f67237bc7ef646c9c9eb91953eb65d21f52512)
-- [ ] [<code>Translations update from Hosted Weblate (#1930)</code>](https://github.com/alainm23/planify/commit/4237a97668447ed84eb1f4077a202c10f2d12d09)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/24c072d476fb20f7ba1d8896b2496b542639de49)
-- [ ] [<code>Translations update from Hosted Weblate (#1931)</code>](https://github.com/alainm23/planify/commit/dfabc23a276c0e9ae8c23e4713083e1334be08e0)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/55328b462567a6014793c30abb9c81e11d99554a)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9ce5de1f758b92df232165f8354ab53fab082df2)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7a07c4e6622b776d0375168fdc2ae7bf5b8e9743)
-- [ ] [<code>add picker core (#1933)</code>](https://github.com/alainm23/planify/commit/9cd78dff4943df4cd9f4fdca46a5ccb0514c5fd6)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c14139ac2513ad1e47dc236dfcfa1c55a3f9ce4b)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/c05f944a814673da696d9ba7e7208e7b0a066112)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e62c6d6adf2fda8f06dda88ccf7bf9b793d07426)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/00d74b085ddc153be4dd9cdde47e1fd8735d06a2)
+- [ ] [<code>remove a tooltip (#2095)</code>](https://github.com/alainm23/planify/commit/2ee8a52eca10f607daf02d6d354fe5714bc8ca32)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix border (#2096)</code>](https://github.com/alainm23/planify/commit/efe00d728f56427ae2e3a091f09f7ac5afea7fd8)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9a11dd547591b88132ebb716de116f70fa2a9c18)
+- [ ] [<code>Translations update from Hosted Weblate (#2087)</code>](https://github.com/alainm23/planify/commit/4fb4284098121e47da8d1379626e06d657b5aefd)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/67e12d5e8f4ad76c3c57dbed2a412f41b8c594bf)
+- [ ] [<code>feat: add overdue in Scheduled (#2100)</code>](https://github.com/alainm23/planify/commit/1a768848a2193b78e531826d3e2103f47164c792)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8012639f0b2175df6c709f71565ed06f486194e3)
-- [ ] [<code>update project progress (#1934)</code>](https://github.com/alainm23/planify/commit/977fa98f637e39b21abf78b2573b137c13043a7d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/290e5f0421181f31c99456c9942af3c23407c635)
-- [ ] [<code>add spell (#1940)</code>](https://github.com/alainm23/planify/commit/1c6891e5d4a968f1eca27f5021dd520546b766c1)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f57015acb2f1a1ad5f58465c95260e82ac2a80e3)
+- [ ] [<code>feat: range event (#2101)</code>](https://github.com/alainm23/planify/commit/ee15e21487bfc7db6e2d3a791862350e063193e0)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e6654c19e6f06837825c093c976e1c5c752f1d01)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/0660718e75770ccec07714c82963ede813898bc7)
-- [ ] [<code>Translations update from Hosted Weblate (#1941)</code>](https://github.com/alainm23/planify/commit/45cd431bcdaf8060429e9688a68edeba2adf034f)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2215d3069ef72263ffb752b4cffcc26721201cb9)
-- [ ] [<code>Update README.md</code>](https://github.com/alainm23/planify/commit/81e4f923f8d3e41d4959981570884cbb43bee940)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d1f4a534af1886a2d00df13b7df7227edbdebbff)
-- [ ] [<code>add combowrapbox (#1944)</code>](https://github.com/alainm23/planify/commit/d04f4b72efb31da1a487928f1dc75eea663b8335)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f89b4998832da3cf99c3e335b8fa198081f1012e)
-- [ ] [<code>fix (#1946)</code>](https://github.com/alainm23/planify/commit/9444b995ff97751120e59d1ec68920143135ba65)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/99d03c571bc5a8c9a66db976826a8325640c3cfa)
-- [ ] [<code>Translations update from Hosted Weblate (#1945)</code>](https://github.com/alainm23/planify/commit/de01fd21beac404ba9d5e62db603ec5045b39a5c)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/462a68a1864ef14918cc39f93fb5de3a2e22fb2d)
-- [ ] [<code>Translations update from Hosted Weblate (#1953)</code>](https://github.com/alainm23/planify/commit/67dab7adebcbf079fdb6502b5b6ce5c2d9f38b45)
-- [ ] [<code>location (#1954)</code>](https://github.com/alainm23/planify/commit/1165f62047545519ec7b2ee598eb3dcb5092d73b)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/43f76579dacc64b0bf33910204fee236efb8ae3a)
-- [ ] [<code>fix restore (#1955)</code>](https://github.com/alainm23/planify/commit/58d64cd957a58fb899d89c3c2b1c7085635dd367)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20c2106fca1757e87d63c4782f973a462ab5be73)
+- [ ] [<code>feat: Add calendar sync and event creation support (#2104)</code>](https://github.com/alainm23/planify/commit/92e329a36e7d345dbfac7d9792fe0bd703b317a1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/a037c5e1c4ade7548969840c684e2ae3329795ea)
-- [ ] [<code>focus last (#1956)</code>](https://github.com/alainm23/planify/commit/a321f7e8054d3b1e2970fc01487cc2f445ebb24a)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/84bdb49c0aa78e193752d6774454b5379e91a705)
+- [ ] [<code>fix (#2113)</code>](https://github.com/alainm23/planify/commit/4af2b3b499cc0eee361a270fe81b71ba4615ac29)
+- [ ] [<code>fix today edit (#2115)</code>](https://github.com/alainm23/planify/commit/e48cfec2197aba29f5b04fc5ecafb95fb6b7e635)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6949c8794ce3f2a1ba173bc5fccfa93736020774)
-- [ ] [<code>Translations update from Hosted Weblate (#1957)</code>](https://github.com/alainm23/planify/commit/76054a6c2ed7c9328d78f61124e37c4100844071)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/44c83b281b42ec2ceecd4144146f2345d5d73ebb)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9f0ee8f601d91d414948e6578b6c417d4b5329f9)
-- [ ] [<code>check pin button</code>](https://github.com/alainm23/planify/commit/fe943d53ae2b5ccb7ed4bab03eabcc81d08d58f4)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ec1e8f82c1854bb6c22b42664c4cff295189e208)
+- [ ] [<code>fix project edit (#2121)</code>](https://github.com/alainm23/planify/commit/2a407f1c21302998ef6f017c2d040305c3a909d0)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e40f04b29507d703b413b514e5544ed201b8d029)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/217104401f3a9aeaad6fb85b9817e5318d674f1b)
-- [ ] [<code>Translations update from Hosted Weblate (#1959)</code>](https://github.com/alainm23/planify/commit/dafdfa3105188dc9b2dc019de43adc7a0cfec6d8)
-- [ ] [<code>Translations update from Hosted Weblate (#1966)</code>](https://github.com/alainm23/planify/commit/8651a90c9ecd28259abde232669d81c93c287951)
-- [ ] [<code>Translations update from Hosted Weblate (#1963)</code>](https://github.com/alainm23/planify/commit/5418cb2c81076f3f81cdfafa932715d8ec46879a)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7fe05c0c32cba88d4e52ee7af6f39e32c3643e85)
-- [ ] [<code>Bump actions/upload-artifact from 4 to 5 (#1970)</code>](https://github.com/alainm23/planify/commit/91d590bf4a481364c88434410c709d039dafb326)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6a83f3ef84032df0b674b8bbe4b092b266a4c42e)
-- [ ] [<code>Add @ symbol label picker with keyboard navigation and auto-scroll (#1971)</code>](https://github.com/alainm23/planify/commit/8c4fe261aa0242251edbfb91afa073f52af306c3)
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/adbb7ca0c4fff3a0ca65ca97ea80a456d11f3c6a)
+- [ ] [<code>fix page titles (#2122)</code>](https://github.com/alainm23/planify/commit/9da9d1bc136a011f62ab55f50ee40658b6935a00)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c903021ec120fb40ab57bcd2ca02781186cfe50f)
+- [ ] [<code>fix title menu (#2123)</code>](https://github.com/alainm23/planify/commit/c8f154bead2997987f047ebc9557651dedb8cfd8)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d79895455c170a6a5af43e1908f3fa0b8c46f480)
-- [ ] [<code>Translations update from Hosted Weblate (#1972)</code>](https://github.com/alainm23/planify/commit/7a9c8f05db3047c14f12a85e5f93f1d94a437872)
-- [ ] [<code>fix i18n</code>](https://github.com/alainm23/planify/commit/d300df1462cad6a9d03216093a94368d64aa52e9)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/35ed50134df7b4057819c691d08d6adef1e5cf9d)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/407538bfda64591eb4f3ed10ef73e06fd0c334fd)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6b49d65178aa6be46d8e8181e28dccdcd08714bb)
+- [ ] [<code>fix color order (#2124)</code>](https://github.com/alainm23/planify/commit/4324f1f2196f7a567224d2fceed0c19cf80ffd5f)
+- [ ] [<code>fix accenty color (#2125)</code>](https://github.com/alainm23/planify/commit/579539f9202b9582511b8f08c368857cbb36dca0)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0e8389b8790ce950bf52d28329e65678e23798ca)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -411,16 +858,6 @@
 - [ ] [<code>set window title (#98)</code>](https://github.com/ellie-commons/taxi/commit/66a786fd4c1a991e9d6b9c0e431250326f49b218)
 - [ ] [<code>Set accel to quit the app (#97)</code>](https://github.com/ellie-commons/taxi/commit/08a48094bda5952582c848f8fe90704047d0f206)
 - [ ] [<code>Flatpak: remove accountsservice permission (#102)</code>](https://github.com/ellie-commons/taxi/commit/3c8156d89694fe1d75ea40e2b1605f46081ce973)
-
-#### [torrential](https://github.com/davidmhewitt/torrential): [3.0.0 → HEAD](https://github.com/davidmhewitt/torrential/compare/3.0.0...HEAD)
-
-- [ ] [<code>build: Use gnome.post_install() (#201)</code>](https://github.com/davidmhewitt/torrential/commit/6d8e23a5b174e0d075413b683fcd8df8ab6459cd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>File selector: Switch to TreeView (#206)</code>](https://github.com/davidmhewitt/torrential/commit/2ddabd7d133e44993a0b7dedb7d06a9dd9b71b3a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update runtime to 8 (#211)</code>](https://github.com/davidmhewitt/torrential/commit/cd2d7e0fc8d51426ac1bc1c1cdafbc9f3e5619b6)
-- [ ] [<code>Application: Granite.init (#212)</code>](https://github.com/davidmhewitt/torrential/commit/650f3cb4e0ae4f6b816f4128bb805b96b990f869)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
