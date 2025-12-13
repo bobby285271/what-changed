@@ -631,6 +631,8 @@
 - [ ] [<code>Add minimum size for slider (#905)</code>](https://github.com/elementary/granite/commit/8124e9c14b1c634b2253f088220f721ff03c23ee)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/granite/commit/15868e525a990a8d50062a5af327aa8537065f44)
 - [ ] [<code>DateTime: Make sure to always compare dates if datetimes have the same timezone</code>](https://github.com/elementary/granite/commit/b9921f531e525000916ec9b4886c83c4b850f4d7)
+- [ ] [<code>HeaderLabel: Add ellipsize property (#936)</code>](https://github.com/elementary/granite/commit/22f07cb9b1435247dd72c095cdd340164f1bdf1e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
