@@ -261,6 +261,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/aa1485b72df71089baf4e77aeac478e21a44f0c1)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4util/commit/ef97bc17ec112ad5d25abe3acf03965d5c9beffa)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/07653bc0e3d109e8514bcb812d009994b2444d08)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -379,6 +380,7 @@
 - [ ] [<code>XfwWorkspaceWayland: Add missing sanity check</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bc96b103bc98798d6bd7012c4b68c310359d580e)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5e443e5de0c92ed405265f18a98446f651c4e331)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7f86028ab95fc2abf798f61f285c5d2e75e71d87)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -777,6 +779,7 @@
 - [ ] [<code>gepub-thumbnailer: Get pixbuf in "area-prepared" signal handler</code>](https://github.com/xfce-mirror/tumbler/commit/d3562a038c2676f6dcb430b56f92b18b1e289f2f)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/tumbler/commit/52db6b118dbad9cc6fafd265eaeb2efbb1124ec5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/65586e4aeefc8adcda1ab13dbb35d581b4565df4)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
