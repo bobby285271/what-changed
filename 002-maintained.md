@@ -823,6 +823,9 @@
 - [ ] [<code>Flatpak: Bump Platform to 8.2 (#402)</code>](https://github.com/Alecaddd/sequeler/commit/8fbdaf5400f58a21ff003420cb27529153e64ed7)
 - [ ] [<code>Sync with system color scheme instead of ModeSwitch (#403)</code>](https://github.com/Alecaddd/sequeler/commit/82cb64cd395fb37845d879c4395d908e5257385c)
 - [ ] [<code>l10n: Correct Chinese language codes (#404)</code>](https://github.com/Alecaddd/sequeler/commit/8121ae85b61eaf383d6ce37a8764411065bdb037)
+- [ ] [<code>Re-RDNN to io.github.ellie_commons.sequeler (#405)</code>](https://github.com/Alecaddd/sequeler/commit/4329292f333c61153018a551005b1ba484a5c4c6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
