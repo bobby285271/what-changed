@@ -273,6 +273,12 @@
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.2 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#395)</code>](https://github.com/elementary/settings-system/commit/e1e35fff1764c90b25a78869aabba93437407140)
+- [ ] [<code>HardwareView: Fallback to "Unknown Processor" instead of blank CPU name (#398)</code>](https://github.com/elementary/settings-system/commit/0dd6f5514c80a8514eb2915ef862ef45a521d613)
+- [ ] [<code>ARMPartDecoder: Update ARM CPU mapping table with util-linux 2.39.3 (#399)</code>](https://github.com/elementary/settings-system/commit/5e135561352cf7c2cba97ea22f28a13aecc4a03e)
+- [ ] [<code>Meson: bump version to 0.58 and fix deprecation warnings (#400)</code>](https://github.com/elementary/settings-system/commit/0c84381e1f404b62724cf4e20d2a29406fede705)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix Granite Style deprecations (#401)</code>](https://github.com/elementary/settings-system/commit/cc85c7a920745b7bb4ba8936decea428e60ed514)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
@@ -459,6 +465,8 @@
 
 - [ ] [<code>Revert "Bring back old icon groups (#2595)" (#2679)</code>](https://github.com/elementary/gala/commit/31cd4dd96386797d212d4724575565dc7000d31d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Utils: Remove unused Gtk.IconTheme</code>](https://github.com/elementary/gala/commit/395a3c147362bdca3b53a4bf40e1b584df08fae0)
+- [ ] [<code>CloseButton: Remove unused close pixbufs hash map</code>](https://github.com/elementary/gala/commit/0e009e87b571c4513385f4c43f51655bb32d130f)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -684,6 +692,7 @@
 - [ ] [<code>Modernize screenshot icons (#151)</code>](https://github.com/elementary/portals/commit/88b3a0ed3f4b43e2fdbaf5fa215d8c95ba2df01e)
 - [ ] [<code>SetupDialog: add labels to image radios (#150)</code>](https://github.com/elementary/portals/commit/952fb9eb8b7160c07832216f6e6e2e87e051f1b5)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/portals/commit/4ab1e9a43e45126b88fe44f4aa31f78e4408b19c)
+- [ ] [<code>Screenshot: set title and icon name (#161)</code>](https://github.com/elementary/portals/commit/33cd1bdc9eb87a58f37e7c64059870670a245016)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
