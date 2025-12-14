@@ -1025,6 +1025,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5fc8ea280363d3f134fbc3381459442165ba8e56)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>arrow-fix: Restoring the button size after the arrow disappears</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aa2ec9b1f8bc052c7ea2fd42edd9e2c5ffbd24a5)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
