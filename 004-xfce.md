@@ -707,6 +707,7 @@
 - [ ] [<code>Prevent crash on non-local symlinks (#1757)</code>](https://github.com/xfce-mirror/thunar/commit/6dcddb4f39170ab58c200852ef77b4e6fa9158d8)
 - [ ] [<code>Prevent "set but not used" build warning</code>](https://github.com/xfce-mirror/thunar/commit/e42b6899751b18145bded85831380fac69f9ba43)
 - [ ] [<code>Show 'queued' message only for queued jobs (#1755)</code>](https://github.com/xfce-mirror/thunar/commit/aba32f6d44bad4b8e0b1f0dd2ea878aa96c6d1ed)
+- [ ] [<code>Fix tab-switch on new tab (#1764)</code>](https://github.com/xfce-mirror/thunar/commit/c81fb860afabca6a55d2cd8ac265f4280fafd246)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
