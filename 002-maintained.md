@@ -746,6 +746,10 @@
   - <sub>Tags: <code>2.0.0-2</code></sub>
 - [ ] [<code>Adding --device=dri to Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/7f0e15cdddb06db829bc5f0bb28ad35730c13f57)
 - [ ] [<code>Removing OARS data from appdata.xml.in</code>](https://github.com/phase1geo/minder/commit/870626998762c4982cdfa0ff85d46d846211200b)
+- [ ] [<code>Allowing sidebar height to be smaller.</code>](https://github.com/phase1geo/minder/commit/09fbe9426f68c91950730ef407c5330f0875ce58)
+- [ ] [<code>Fixing issues with style settings not immediately changing map</code>](https://github.com/phase1geo/minder/commit/051c7c75b52e5b0c2f0859aa4bccb64e911201de)
+- [ ] [<code>Fixing various issues</code>](https://github.com/phase1geo/minder/commit/492d22ab8dd28bdb7cbd6804662c1d500340c939)
+- [ ] [<code>Fixing issue with middle click pan to stopping on button release</code>](https://github.com/phase1geo/minder/commit/3729b0cea139090902dd5687873bb86d7cfcca2f)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -797,6 +801,8 @@
 - [ ] [<code>fix color order (#2124)</code>](https://github.com/alainm23/planify/commit/4324f1f2196f7a567224d2fceed0c19cf80ffd5f)
 - [ ] [<code>fix accenty color (#2125)</code>](https://github.com/alainm23/planify/commit/579539f9202b9582511b8f08c368857cbb36dca0)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0e8389b8790ce950bf52d28329e65678e23798ca)
+- [ ] [<code>Translations update from Hosted Weblate (#2129)</code>](https://github.com/alainm23/planify/commit/753ceb1bd5c908f653207b5af89662ed58a64fc8)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1a1a5a1a4aab08ca0916605b5d146467387e28d4)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -826,6 +832,15 @@
 - [ ] [<code>Re-RDNN to io.github.ellie_commons.sequeler (#405)</code>](https://github.com/Alecaddd/sequeler/commit/4329292f333c61153018a551005b1ba484a5c4c6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Flatpak: Update GNOME platform to 49</code>](https://github.com/Alecaddd/sequeler/commit/5f8eca419c0f666bf30782bb7b7440741b80c1aa)
+- [ ] [<code>Flatpak: Update elementary BaseApp to circe-25.08</code>](https://github.com/Alecaddd/sequeler/commit/ae79b8bc346ca6c5c58896910f075992d7daf6cf)
+- [ ] [<code>Flatpak: Update postgresql to 13.23</code>](https://github.com/Alecaddd/sequeler/commit/bc78d8e0ce5bcc786a801da214bdda2abefd5386)
+- [ ] [<code>Flatpak: Update mariadb to 10.11.15</code>](https://github.com/Alecaddd/sequeler/commit/4deeccad6d8723241003c92d785c31139baa9944)
+- [ ] [<code>Flatpak: libgda: Explicit parameters in function declaration</code>](https://github.com/Alecaddd/sequeler/commit/e98a548fe672e3f24dad8424a3961a9593f6ab61)
+- [ ] [<code>Flatpak: libgda: Disable libgdaui that we don't use in Sequeler</code>](https://github.com/Alecaddd/sequeler/commit/d61e2014e7b6d24fd2d009ee3695ddd91dc8ab5d)
+- [ ] [<code>Update CI</code>](https://github.com/Alecaddd/sequeler/commit/3e723b8b90579fed2cf7fa492e4551a48f122366)
+- [ ] [<code>appdata: Use fixed version screenshots (#408)</code>](https://github.com/Alecaddd/sequeler/commit/547e08276ad2936d7f2a9850ffd1d8bedba5a09c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
