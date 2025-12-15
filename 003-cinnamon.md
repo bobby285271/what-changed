@@ -17,7 +17,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.js: Don't try to invoke keybindings for synthetic events.</code>](https://github.com/linuxmint/cinnamon/commit/05e68dd2cdc42e6080ae913f14482c99c8f4d078)
 - [ ] [<code>magnifier.js: Revert part of 894ab13f - go back to using Cinnamon's</code>](https://github.com/linuxmint/cinnamon/commit/8e00ca7a811be233a5291f140b50ce33897ed1dc)
+- [ ] [<code>menu@cinnamon.org: check category icon exists (#13258)</code>](https://github.com/linuxmint/cinnamon/commit/035d22365b3834e2b03e4225cbc29b0cba45a0b9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ExtensionCore.py: GtkLabel argument should be a string.</code>](https://github.com/linuxmint/cinnamon/commit/02977f15dbb0ffc55ae28b3f52d955cd7c63a84e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
