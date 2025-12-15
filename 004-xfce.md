@@ -72,6 +72,7 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/garcon/commit/6805f28bb06da89a471789521efde021ef5c0289)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/garcon/commit/335a400df88a1f6173a4e7d22b8e0cbf9fb52bf7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/garcon/commit/55473a0814dbdbb2f0206ec259bec2b393d49f5d)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -1266,6 +1267,7 @@
 - [ ] [<code>xfsettingsd: Fix check for libinput</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fbbebd5e4b3ce668c71a2b44f1c8b8dce871c5af)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7d0b74951f01f9926cf57ef29827c0a1790effeb)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f051b785571b461c153091d2e759a3c26d991fb9)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -1322,6 +1324,7 @@
 - [ ] [<code>README.md: Add uninstall info</code>](https://github.com/xfce-mirror/xfconf/commit/ba086f895d6d954168c7e00ca74920bcbc8809fd)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfconf/commit/36f0b2db9b9d3ed2c77eb723d39b4e73a3215567)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/549f78355bab3963248729b400ed1ae2420d3bc4)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
