@@ -750,6 +750,14 @@
 - [ ] [<code>Fixing issues with style settings not immediately changing map</code>](https://github.com/phase1geo/minder/commit/051c7c75b52e5b0c2f0859aa4bccb64e911201de)
 - [ ] [<code>Fixing various issues</code>](https://github.com/phase1geo/minder/commit/492d22ab8dd28bdb7cbd6804662c1d500340c939)
 - [ ] [<code>Fixing issue with middle click pan to stopping on button release</code>](https://github.com/phase1geo/minder/commit/3729b0cea139090902dd5687873bb86d7cfcca2f)
+- [ ] [<code>Removing prefers dark in theme setting</code>](https://github.com/phase1geo/minder/commit/bef8c8426477a732fea597b720681fcfcf056dba)
+- [ ] [<code>Updating files for 2.0.1 release.</code>](https://github.com/phase1geo/minder/commit/4253d176ec0240545ddef93c8e8961588d3203bd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issues with detecting dark mode theme change in Flatpaks.</code>](https://github.com/phase1geo/minder/commit/0b0d5ab761fd4c79f4d6dfdfbbb559f72b8b5df3)
+- [ ] [<code>Fixing UI issues related to dark mode.</code>](https://github.com/phase1geo/minder/commit/f02b0b5048b4d2ce68d7e61059a29cc3e0feecd6)
+- [ ] [<code>Increasing default padding for root nodes to 20.</code>](https://github.com/phase1geo/minder/commit/97d3a6a31393d205828bf121703fb7db0f6a6eb1)
+- [ ] [<code>Updating translation files for 2.0.1</code>](https://github.com/phase1geo/minder/commit/af047bcddecaf956009cbc49c56e7f75e8606b6d)
+  - <sub>Tags: <code>2.0.1</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
