@@ -25,13 +25,22 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>keyboardManager.js: Use KeybindingManager to setup layout switch (#13251)</code>](https://github.com/linuxmint/cinnamon/commit/6a5105420c98ba6d7f95920e730054e12387435d)
 - [ ] [<code>debian/control: Add Recommends: ibus</code>](https://github.com/linuxmint/cinnamon/commit/33774a8a3515552b01d43fb557ef7e6909e080b3)
+- [ ] [<code>menu: Tune defaults</code>](https://github.com/linuxmint/cinnamon/commit/85fe2d175e9791df90dd490c1ed312e1432b31a8)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>menu: Show favorite category even when there are no favorites</code>](https://github.com/linuxmint/cinnamon/commit/979d0ea0e01391176b7ac1fba6add75a9ff2623b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>gnome-xkb-info.c: Fix incorrect schema name for 'show-all-sources'</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2f70079a34ede6851dfaccebc47c611c129dd1c7)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1d5c36043131bfabb5e3b9b41cf92f9efec6f245)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -69,9 +78,16 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.3 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.3...HEAD)
 
+- [ ] [<code>cinnamon: Add a bit of padding in menu sidebar buttons</code>](https://github.com/linuxmint/mint-l-theme/commit/426e9168e2344389747b36dc4e62015876367480)
+- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/mint-l-theme/commit/78d18d83c98ddbed7579124c0f098674b03ed08d)
+  - <sub>Tags: <code>2.0.4</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.4...HEAD)
 
+- [ ] [<code>Revert "Fixed app menu openning animation lag (#523)"</code>](https://github.com/linuxmint/mint-themes/commit/6e10c84cc0b4cb97efaa640e4220c01bf00cf73a)
+- [ ] [<code>cinnamon: Add a bit of padding in menu sidebar buttons</code>](https://github.com/linuxmint/mint-themes/commit/2b063db01cfabf21441a1cead5542aa188510ffb)
+- [ ] [<code>2.3.5</code>](https://github.com/linuxmint/mint-themes/commit/43932a9567d89699522b5a03049c84806ddcdba1)
+  - <sub>Tags: <code>2.3.5</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
