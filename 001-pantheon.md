@@ -26,6 +26,7 @@
 - [ ] [<code>Update appcenter.metainfo.xml.in (#2383)</code>](https://github.com/elementary/appcenter/commit/da173e152f847e16528e27b6179d51d580c34c12)
 - [ ] [<code>Revert "Update appcenter.metainfo.xml.in (#2383)" (#2385)</code>](https://github.com/elementary/appcenter/commit/1fbf2088a6ae02e245b7a6ac06cf430a871ad0ce)
 - [ ] [<code>Application: rely on Granite.StyleManager (#2386)</code>](https://github.com/elementary/appcenter/commit/8269a0b05f85fff708c573e726d7a90fab642dc5)
+- [ ] [<code>FlatpakBackend: don't feaure daily apps (#2389)</code>](https://github.com/elementary/appcenter/commit/23768c233fa2f8772374430cb0c95ef0629f1025)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -164,6 +165,9 @@
 - [ ] [<code>Flatpak: add device=dri (#322)</code>](https://github.com/elementary/screenshot/commit/222d778e7e19c09d6a61e9858af96c8578f473c3)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/screenshot/commit/193d118bbf3b44bc83e6e2ff34668354230f777f)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/screenshot/commit/049d7a09d9c0acf445651a858e8b6318e422ffad)
+- [ ] [<code>Release 8.0.4 (#329)</code>](https://github.com/elementary/screenshot/commit/5a64160bbde9620649e7fbda80fe347da5c3c0e6)
+  - <sub>Tags: <code>8.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
