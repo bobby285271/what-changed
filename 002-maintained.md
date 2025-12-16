@@ -811,6 +811,10 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0e8389b8790ce950bf52d28329e65678e23798ca)
 - [ ] [<code>Translations update from Hosted Weblate (#2129)</code>](https://github.com/alainm23/planify/commit/753ceb1bd5c908f653207b5af89662ed58a64fc8)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1a1a5a1a4aab08ca0916605b5d146467387e28d4)
+- [ ] [<code>Fix: Resolve double execution in multi-select mode causing incorrect item count (#2131)</code>](https://github.com/alainm23/planify/commit/3857dffdf9b8cd85e34422aeaf34760ebfed5ffb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f7fe7aff1d865113ad42702cbdbe552cf7d690a6)
+- [ ] [<code>Bump actions/upload-artifact from 5 to 6 (#2132)</code>](https://github.com/alainm23/planify/commit/ca53a0c5176d0b08aa02ba3e2c6027d4a70c10ec)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -849,6 +853,7 @@
 - [ ] [<code>Update CI</code>](https://github.com/Alecaddd/sequeler/commit/3e723b8b90579fed2cf7fa492e4551a48f122366)
 - [ ] [<code>appdata: Use fixed version screenshots (#408)</code>](https://github.com/Alecaddd/sequeler/commit/547e08276ad2936d7f2a9850ffd1d8bedba5a09c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cleanup CI (#409)</code>](https://github.com/Alecaddd/sequeler/commit/099b3d0834e92ec5e608723bca7ebb91e573c400)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
