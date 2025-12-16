@@ -815,6 +815,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f7fe7aff1d865113ad42702cbdbe552cf7d690a6)
 - [ ] [<code>Bump actions/upload-artifact from 5 to 6 (#2132)</code>](https://github.com/alainm23/planify/commit/ca53a0c5176d0b08aa02ba3e2c6027d4a70c10ec)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7183743cc75d43ebae3b67e0969941080712d889)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
