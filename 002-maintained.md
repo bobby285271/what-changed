@@ -819,6 +819,7 @@
 - [ ] [<code>move multiple tasjs (#2133)</code>](https://github.com/alainm23/planify/commit/2ad018d2270834808b1da25d9a4cf38413a45db5)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03337f8e88701a3994ffa1fa3b376b538fee46a8)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/bff486ffe9b59122b8ef01cd9862b6d01a393605)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
