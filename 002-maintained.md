@@ -816,6 +816,9 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f7fe7aff1d865113ad42702cbdbe552cf7d690a6)
 - [ ] [<code>Bump actions/upload-artifact from 5 to 6 (#2132)</code>](https://github.com/alainm23/planify/commit/ca53a0c5176d0b08aa02ba3e2c6027d4a70c10ec)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7183743cc75d43ebae3b67e0969941080712d889)
+- [ ] [<code>move multiple tasjs (#2133)</code>](https://github.com/alainm23/planify/commit/2ad018d2270834808b1da25d9a4cf38413a45db5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03337f8e88701a3994ffa1fa3b376b538fee46a8)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -855,6 +858,16 @@
 - [ ] [<code>appdata: Use fixed version screenshots (#408)</code>](https://github.com/Alecaddd/sequeler/commit/547e08276ad2936d7f2a9850ffd1d8bedba5a09c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Cleanup CI (#409)</code>](https://github.com/Alecaddd/sequeler/commit/099b3d0834e92ec5e608723bca7ebb91e573c400)
+- [ ] [<code>Modernize .desktop file (#410)</code>](https://github.com/Alecaddd/sequeler/commit/903c592f4d9eb244779d8e1d63beff8a92ecf1a3)
+- [ ] [<code>Modernize .metainfo file (#411)</code>](https://github.com/Alecaddd/sequeler/commit/8346c4d73aa7de24a6f6a59b9047d20482373315)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Replace deprecated source_root with project_source_root (#412)</code>](https://github.com/Alecaddd/sequeler/commit/74e797830e58d8b4e3c24b1096e74e9892add87e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Add Gettext</code>](https://github.com/Alecaddd/sequeler/commit/d99ed2078c85fc0d72cac3767f3d564fdf4fa782)
+- [ ] [<code>Actions: Gettext: Install bzip2</code>](https://github.com/Alecaddd/sequeler/commit/0183a00eec44c2698e20881c38328fe801c7fc0f)
+- [ ] [<code>Actions: Gettext: Do not run evey push</code>](https://github.com/Alecaddd/sequeler/commit/4326e90a224028706fdbb47e1e36b2e24b6cd5b9)
+- [ ] [<code>Actions: Rename to weekly</code>](https://github.com/Alecaddd/sequeler/commit/18af222a6ec69034bea7973b06b51de6a09b3b41)
+- [ ] [<code>Actions: Leave comment why weekly</code>](https://github.com/Alecaddd/sequeler/commit/865daa5dfa4f75114bde95e6a2980366df54bb76)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
