@@ -160,8 +160,41 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/photos/commit/47b9499ccd238f4bb353a18b0998d659aeed8b6b)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/photos/commit/374823f7ec98825797e8a3fd2f9517d8fadbf1d2)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.3 → HEAD](https://github.com/elementary/screenshot/compare/8.0.3...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
+- [ ] [<code>Use the portal (#284)</code>](https://github.com/elementary/screenshot/commit/87d7563f11cbae4788df58916e11d9c480382672)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to GTK4 (#240)</code>](https://github.com/elementary/screenshot/commit/8636e924c5b7ee9da1c9eb211f48e29f0d191659)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/screenshot/commit/cdbd008944c2e29839fb99a60c82c6563ced7582)
+- [ ] [<code>Fix copy to clipboard (#285)</code>](https://github.com/elementary/screenshot/commit/2aeadad9ff142fb6235d76dcc004e8940f0efee1)
+- [ ] [<code>Release 8.0.1 (#291)</code>](https://github.com/elementary/screenshot/commit/cd594f353658ed4fd30629e7fe29e20a46de8b45)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 8.0.1 (#292)</code>](https://github.com/elementary/screenshot/commit/fa364dc1971239c05733721b7267bd9ac49b6dff)
+  - <sub>Tags: <code>8.0.1</code></sub>
+- [ ] [<code>Actions: bump flatpak to 6.4 (#298)</code>](https://github.com/elementary/screenshot/commit/16965a697145863e13b26b67c46d011b6b3b112a)
+- [ ] [<code>CI: run ARM workflows on arm64 runner (#300)</code>](https://github.com/elementary/screenshot/commit/80c13945a00e535afa8ef9a523a33ccf9bfa2b4c)
+- [ ] [<code>Bump platform to 8.1 (#301)</code>](https://github.com/elementary/screenshot/commit/8133dabf6f6eb31d00afbb1a5749ef6c6adf4526)
+- [ ] [<code>ScreenshotBackend: check for redacted font (#302)</code>](https://github.com/elementary/screenshot/commit/7af11444e84851b128e60398074445925c0745ea)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#304)</code>](https://github.com/elementary/screenshot/commit/b0011ce2481d84dba756e6859139ad11f244cc62)
+- [ ] [<code>Use Gtk.FileDialog to choose screenshots folder (#305)</code>](https://github.com/elementary/screenshot/commit/74763e797666335bd7ee5a11376188b3c780151c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix screenshot is not saved to the selected folder if changed</code>](https://github.com/elementary/screenshot/commit/8e548bf93d44918ae35698242e1b434503bbe70a)
+- [ ] [<code>Add release notes</code>](https://github.com/elementary/screenshot/commit/aa4191cba768bd54a3f1bbd3b614f88e9723f9c7)
+- [ ] [<code>Bump Platform to 8.2 (#311)</code>](https://github.com/elementary/screenshot/commit/c79a69c14ae76f86da69c20d0645d95ed2d80d86)
+- [ ] [<code>Actions: Use main branch (#314)</code>](https://github.com/elementary/screenshot/commit/bcd7b1a9e25acc924a388449aa5978dca1c69b8b)
+- [ ] [<code>Bump actions/checkout from 4 to 5 (#315)</code>](https://github.com/elementary/screenshot/commit/423734e5babdca0db0e6ee172d86dc851b6ceb66)
+- [ ] [<code>Release 8.0.2 (#312)</code>](https://github.com/elementary/screenshot/commit/9a4c2e877037bc35b1b0cc26d68f3503c4ac2974)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>patch: fix screenshot crashing when image height exceeds width enough (#317)</code>](https://github.com/elementary/screenshot/commit/36414c9728f758a974595c1a96a14c0918b763b6)
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#318)</code>](https://github.com/elementary/screenshot/commit/06b7b685d88b4ecb8c94e228ee4696841b92e8e4)
+- [ ] [<code>Release 8.0.3 (#319)</code>](https://github.com/elementary/screenshot/commit/62db07e3cd72e2a4709d67cb83f44ea939f88982)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Flatpak: add device=dri (#322)</code>](https://github.com/elementary/screenshot/commit/222d778e7e19c09d6a61e9858af96c8578f473c3)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/screenshot/commit/193d118bbf3b44bc83e6e2ff34668354230f777f)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/screenshot/commit/049d7a09d9c0acf445651a858e8b6318e422ffad)
@@ -404,6 +437,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#1401)</code>](https://github.com/elementary/icons/commit/97bc05934711a5e6b5c62bc071c4f5c44b50f4c8)
 - [ ] [<code>Copyright prep for Inkscape contribution (#1402)</code>](https://github.com/elementary/icons/commit/abde1057927482e35b50aa29d9483c7ec9b945a7)
 - [ ] [<code>Add dialog-paint-server for Inkscape (#1389)</code>](https://github.com/elementary/icons/commit/ee7bd93e4bf0f887e65f32b94d81388a6f06731c)
+- [ ] [<code>Add colour version of tools-check-spelling (#1407)</code>](https://github.com/elementary/icons/commit/7bd320c9dde2f8981d5b8b27469de8e479d4384d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
