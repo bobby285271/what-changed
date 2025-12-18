@@ -758,6 +758,11 @@
 - [ ] [<code>Increasing default padding for root nodes to 20.</code>](https://github.com/phase1geo/minder/commit/97d3a6a31393d205828bf121703fb7db0f6a6eb1)
 - [ ] [<code>Updating translation files for 2.0.1</code>](https://github.com/phase1geo/minder/commit/af047bcddecaf956009cbc49c56e7f75e8606b6d)
   - <sub>Tags: <code>2.0.1</code></sub>
+- [ ] [<code>Adding support for toggling folds deeply.</code>](https://github.com/phase1geo/minder/commit/7f9e801b117bc2fce9b494e893ad0010fbf05a87)
+- [ ] [<code>Code cleanup</code>](https://github.com/phase1geo/minder/commit/bff2ffc85d2821a7408b6e20b143ffb5d496334e)
+- [ ] [<code>Attempting to fix issue where gtk_settings not available in dark mode</code>](https://github.com/phase1geo/minder/commit/f57d075fc57025cd01e42084d5f36dc8cf2e9e34)
+- [ ] [<code>Updating files for 2.0.2 stable release.</code>](https://github.com/phase1geo/minder/commit/c277587a7d3c7b6fbd98854efd523f1bbcd59dec)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -869,6 +874,9 @@
 - [ ] [<code>Actions: Gettext: Do not run evey push</code>](https://github.com/Alecaddd/sequeler/commit/4326e90a224028706fdbb47e1e36b2e24b6cd5b9)
 - [ ] [<code>Actions: Rename to weekly</code>](https://github.com/Alecaddd/sequeler/commit/18af222a6ec69034bea7973b06b51de6a09b3b41)
 - [ ] [<code>Actions: Leave comment why weekly</code>](https://github.com/Alecaddd/sequeler/commit/865daa5dfa4f75114bde95e6a2980366df54bb76)
+- [ ] [<code>Actions: Update translation files monthly instead of weekly</code>](https://github.com/Alecaddd/sequeler/commit/1c33951ce613f53aa68aadfc4ffede0bc57b9697)
+- [ ] [<code>Actions: Add dependabot</code>](https://github.com/Alecaddd/sequeler/commit/9f65b45d68345cab6c5cb028dd9f6a4023b97d67)
+- [ ] [<code>Actions: Fix forgetting to update actual schedule</code>](https://github.com/Alecaddd/sequeler/commit/78f6c917b0dc567ec9176ea8b3078b3d09cd037f)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
