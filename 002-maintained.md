@@ -762,6 +762,7 @@
 - [ ] [<code>Code cleanup</code>](https://github.com/phase1geo/minder/commit/bff2ffc85d2821a7408b6e20b143ffb5d496334e)
 - [ ] [<code>Attempting to fix issue where gtk_settings not available in dark mode</code>](https://github.com/phase1geo/minder/commit/f57d075fc57025cd01e42084d5f36dc8cf2e9e34)
 - [ ] [<code>Updating files for 2.0.2 stable release.</code>](https://github.com/phase1geo/minder/commit/c277587a7d3c7b6fbd98854efd523f1bbcd59dec)
+  - <sub>Tags: <code>2.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
@@ -825,6 +826,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03337f8e88701a3994ffa1fa3b376b538fee46a8)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/bff486ffe9b59122b8ef01cd9862b6d01a393605)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6f2cec3ec201cec88e58966f6685d9199ae580e2)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
