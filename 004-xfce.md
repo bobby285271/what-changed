@@ -709,6 +709,8 @@
 - [ ] [<code>Prevent "set but not used" build warning</code>](https://github.com/xfce-mirror/thunar/commit/e42b6899751b18145bded85831380fac69f9ba43)
 - [ ] [<code>Show 'queued' message only for queued jobs (#1755)</code>](https://github.com/xfce-mirror/thunar/commit/aba32f6d44bad4b8e0b1f0dd2ea878aa96c6d1ed)
 - [ ] [<code>Fix tab-switch on new tab (#1764)</code>](https://github.com/xfce-mirror/thunar/commit/c81fb860afabca6a55d2cd8ac265f4280fafd246)
+- [ ] [<code>Expandable folders: fix multiselect with keyboard (#1500)</code>](https://github.com/xfce-mirror/thunar/commit/a1e92d2a07af3b1678ad38092107ba9eac8bb38b)
+- [ ] [<code>ListView: Ellipsize in middle (#1765)</code>](https://github.com/xfce-mirror/thunar/commit/ac86aa34fbbc37c6c10f74c049f1e1805a0b5fae)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
