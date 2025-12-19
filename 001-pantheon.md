@@ -440,6 +440,7 @@
 - [ ] [<code>Add colour version of tools-check-spelling (#1407)</code>](https://github.com/elementary/icons/commit/7bd320c9dde2f8981d5b8b27469de8e479d4384d)
 - [ ] [<code>Add dialog-svg-font for Inkscape (#1385)</code>](https://github.com/elementary/icons/commit/809491b08bd2c5671b33666e0e750b7b4f9e8192)
 - [ ] [<code>Make process-stop and process-completed match (#1409)</code>](https://github.com/elementary/icons/commit/407b605e88662043d4708d2ab199a39e709470f7)
+- [ ] [<code>Add 16px camera-photo (#1411)</code>](https://github.com/elementary/icons/commit/caa2d51883277649ec8b1f3cb5da8c98681e9c76)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
