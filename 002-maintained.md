@@ -764,6 +764,10 @@
 - [ ] [<code>Updating files for 2.0.2 stable release.</code>](https://github.com/phase1geo/minder/commit/c277587a7d3c7b6fbd98854efd523f1bbcd59dec)
   - <sub>Tags: <code>2.0.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issue with placing root node on application open.</code>](https://github.com/phase1geo/minder/commit/d62f784eef146c0518aa8b3d213365b424681447)
+- [ ] [<code>Fixing issue with Style widgets accidentally scrolling.</code>](https://github.com/phase1geo/minder/commit/83bfcf2196662409039bb62ca61c2b440f4f6618)
+- [ ] [<code>* Fixing issues with commandline import/export.</code>](https://github.com/phase1geo/minder/commit/674f973e869f38db0b09742f0cf5d75cfd65e7f0)
+  - <sub>Keywords: <code>commandline</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
