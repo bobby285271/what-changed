@@ -711,6 +711,7 @@
 - [ ] [<code>Fix tab-switch on new tab (#1764)</code>](https://github.com/xfce-mirror/thunar/commit/c81fb860afabca6a55d2cd8ac265f4280fafd246)
 - [ ] [<code>Expandable folders: fix multiselect with keyboard (#1500)</code>](https://github.com/xfce-mirror/thunar/commit/a1e92d2a07af3b1678ad38092107ba9eac8bb38b)
 - [ ] [<code>ListView: Ellipsize in middle (#1765)</code>](https://github.com/xfce-mirror/thunar/commit/ac86aa34fbbc37c6c10f74c049f1e1805a0b5fae)
+- [ ] [<code>Fix string leaks and typos in drop-descendant-files code</code>](https://github.com/xfce-mirror/thunar/commit/cf13d2d82c17cf15450dabe4dd66eb9d27c25d33)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
