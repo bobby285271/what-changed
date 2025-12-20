@@ -73,6 +73,9 @@
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.2...HEAD)
 
+- [ ] [<code>nemo-blank-desktop-window.c: Fix potential crash when actions</code>](https://github.com/linuxmint/nemo/commit/1c2089741179ef61f19094dc2ccc4fa3a5379403)
+- [ ] [<code>nemo-blank-desktop-window.c: Make sure there's a menu available</code>](https://github.com/linuxmint/nemo/commit/8dbeb05a152fe8861236a566ea0e0d6c1d656573)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
