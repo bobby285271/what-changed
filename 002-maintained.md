@@ -831,6 +831,12 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03337f8e88701a3994ffa1fa3b376b538fee46a8)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/bff486ffe9b59122b8ef01cd9862b6d01a393605)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6f2cec3ec201cec88e58966f6685d9199ae580e2)
+- [ ] [<code>feat: deadline (#2136)</code>](https://github.com/alainm23/planify/commit/cc482ff2f0dd98bd7618e30f92b614faf1b22f87)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/40849c38708c447605084c89a54d7528ac9f042e)
+- [ ] [<code>Translations update from Hosted Weblate (#2130)</code>](https://github.com/alainm23/planify/commit/2f93892201c14f58b2246ad67f5758b526146bd5)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1c41965d68923980849bc397c5809dac4223a6c1)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -883,6 +889,13 @@
 - [ ] [<code>Actions: Update translation files monthly instead of weekly</code>](https://github.com/Alecaddd/sequeler/commit/1c33951ce613f53aa68aadfc4ffede0bc57b9697)
 - [ ] [<code>Actions: Add dependabot</code>](https://github.com/Alecaddd/sequeler/commit/9f65b45d68345cab6c5cb028dd9f6a4023b97d67)
 - [ ] [<code>Actions: Fix forgetting to update actual schedule</code>](https://github.com/Alecaddd/sequeler/commit/78f6c917b0dc567ec9176ea8b3078b3d09cd037f)
+- [ ] [<code>Flatpak: Update jemalloc to 5.3.0</code>](https://github.com/Alecaddd/sequeler/commit/c67ab6b05f9aa1e6a0c4ccb0439690a462a1437a)
+- [ ] [<code>Flatpak: Update fmt to 12.1.0</code>](https://github.com/Alecaddd/sequeler/commit/984e1240857a481a552133edafa22f1266d71cab)
+- [ ] [<code>Flatpak: Update libssh2 to 1.11.1</code>](https://github.com/Alecaddd/sequeler/commit/f1213b5b3eea1d0c178df29526c568baa4f89f7d)
+- [ ] [<code>Flatpak: Update libfixposix to 0.5.1</code>](https://github.com/Alecaddd/sequeler/commit/e5aef15e78ffee0e80d835dae7a3478d648cdb23)
+- [ ] [<code>Flatpak: Update postgresql to 18.1</code>](https://github.com/Alecaddd/sequeler/commit/87bef6eae544d9b6d5fa960540da39a5d6a7f7dd)
+- [ ] [<code>Flatpak: Update mariadb to 12.2.1</code>](https://github.com/Alecaddd/sequeler/commit/82cc90061866b9ac62785381b1545b4426537875)
+- [ ] [<code>Flatpak: mariadb: Disable SBOM</code>](https://github.com/Alecaddd/sequeler/commit/72c249d712e395e3d4194289dd6e56c1d382fbe1)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
