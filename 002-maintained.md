@@ -260,7 +260,18 @@
 - [ ] [<code>Fixing issue with Style widgets accidentally scrolling.</code>](https://github.com/phase1geo/minder/commit/83bfcf2196662409039bb62ca61c2b440f4f6618)
 - [ ] [<code>* Fixing issues with commandline import/export.</code>](https://github.com/phase1geo/minder/commit/674f973e869f38db0b09742f0cf5d75cfd65e7f0)
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/89fb4a6c2428b410f972768000e332196ddce951)
 - [ ] [<code>Adding Mermaid import</code>](https://github.com/phase1geo/minder/commit/f88381b9bf40e7c17c0d1c7a3eee21d99f53d257)
+- [ ] [<code>Updating comments in export source files.</code>](https://github.com/phase1geo/minder/commit/63eeadb8da69c48b181462632e46fdbb18aeb05d)
+- [ ] [<code>Merge pull request #699 from albanobattistella/master</code>](https://github.com/phase1geo/minder/commit/58847d9b84d536b0595aa9dc66e9d7e4f3991e5f)
+- [ ] [<code>Fixing it.po syntax errors.</code>](https://github.com/phase1geo/minder/commit/9e49fcd9be87c0cd6a8477feb6672f09d8e21720)
+- [ ] [<code>Updating comments.</code>](https://github.com/phase1geo/minder/commit/2576f2f9cd031a40a89bbb95a5442756e5461369)
+- [ ] [<code>Updating files for 2.0.3 stable release.</code>](https://github.com/phase1geo/minder/commit/262185fd3306c0df341dfbaf854b8388046404b7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding missing feature from 2.0.3 release notes.</code>](https://github.com/phase1geo/minder/commit/30440acd1a66365858e67e9f02f5bd6c748c6bb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/b675624e710c16a07a43c55d6c8975e45e768993)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -331,6 +342,7 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2130)</code>](https://github.com/alainm23/planify/commit/2f93892201c14f58b2246ad67f5758b526146bd5)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1c41965d68923980849bc397c5809dac4223a6c1)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/67c68a872784ce46cbf6b709ab90346f0fbfdf47)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/29ad5121db236613a6f92c14e7d81901bf4e8daf)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -398,6 +410,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use correct icon for current profile (#418)</code>](https://github.com/Alecaddd/sequeler/commit/85f9b02f019bf26247f0c912abd153763c6366d4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Flatpak: Do not cleanup /lib/debug</code>](https://github.com/Alecaddd/sequeler/commit/23d241cae874bc1f6e8d750b3df122065c8d9f55)
+- [ ] [<code>Add option to disable installing the sized app icon (#422)</code>](https://github.com/Alecaddd/sequeler/commit/f73eb5bb179e35637d8d868fdc1d19ea7e759b41)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
