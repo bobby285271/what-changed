@@ -260,6 +260,7 @@
 - [ ] [<code>Fixing issue with Style widgets accidentally scrolling.</code>](https://github.com/phase1geo/minder/commit/83bfcf2196662409039bb62ca61c2b440f4f6618)
 - [ ] [<code>* Fixing issues with commandline import/export.</code>](https://github.com/phase1geo/minder/commit/674f973e869f38db0b09742f0cf5d75cfd65e7f0)
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Adding Mermaid import</code>](https://github.com/phase1geo/minder/commit/f88381b9bf40e7c17c0d1c7a3eee21d99f53d257)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -390,6 +391,13 @@
 - [ ] [<code>Flatpak: Update mariadb to 12.2.1</code>](https://github.com/Alecaddd/sequeler/commit/82cc90061866b9ac62785381b1545b4426537875)
 - [ ] [<code>Flatpak: mariadb: Disable SBOM</code>](https://github.com/Alecaddd/sequeler/commit/72c249d712e395e3d4194289dd6e56c1d382fbe1)
 - [ ] [<code>Actions: Rename to what it actually is</code>](https://github.com/Alecaddd/sequeler/commit/b707f3f5607adba5c1dc85440a5c1f9df109d154)
+- [ ] [<code>Flatpak: Use External Data Checker (#414)</code>](https://github.com/Alecaddd/sequeler/commit/9d1cc09bd835886c14d4d561c65e836ea42cddeb)
+- [ ] [<code>Flatpak: JSON to YAML (#415)</code>](https://github.com/Alecaddd/sequeler/commit/88708d31aea1a1b85cad7ad4b726cac3e82a9970)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Re-RDNN development build for consistency (#416)</code>](https://github.com/Alecaddd/sequeler/commit/3f5ecbef1932f327c8d1a929eeabbf0d41fcf86c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use correct icon for current profile (#418)</code>](https://github.com/Alecaddd/sequeler/commit/85f9b02f019bf26247f0c912abd153763c6366d4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
