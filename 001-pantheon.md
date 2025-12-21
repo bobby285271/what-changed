@@ -94,6 +94,7 @@
 - [ ] [<code>Add a tooltip for the current location (#172)</code>](https://github.com/elementary/maps/commit/86b66f8b45bfea2af9c6caa40148ed74dade375c)
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#178)</code>](https://github.com/elementary/maps/commit/870db0dc75c4d8ecac95d4d269ffa622249b118d)
+- [ ] [<code>l10n: Correct language code of Norwegian Bokmål</code>](https://github.com/elementary/maps/commit/030ab45a24ca979b51208c4ada2420cefc644828)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
