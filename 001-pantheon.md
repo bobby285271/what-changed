@@ -599,6 +599,7 @@
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
+- [ ] [<code>WifiInterface: make connect_to_network independent of dialog (#358)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/260c3fb3dfd9829a8859fcdf9685e00242b9a67a)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
