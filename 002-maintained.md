@@ -272,6 +272,8 @@
 - [ ] [<code>Adding missing feature from 2.0.3 release notes.</code>](https://github.com/phase1geo/minder/commit/30440acd1a66365858e67e9f02f5bd6c748c6bb7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/b675624e710c16a07a43c55d6c8975e45e768993)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/8664030e5811415324bfcf201f4f6f6f421e4ede)
+- [ ] [<code>Merge pull request #700 from albanobattistella/patch-35</code>](https://github.com/phase1geo/minder/commit/6d6284111a13159af2f53fb68478388f5a299ada)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -413,6 +415,13 @@
 - [ ] [<code>Flatpak: Do not cleanup /lib/debug</code>](https://github.com/Alecaddd/sequeler/commit/23d241cae874bc1f6e8d750b3df122065c8d9f55)
 - [ ] [<code>Add option to disable installing the sized app icon (#422)</code>](https://github.com/Alecaddd/sequeler/commit/f73eb5bb179e35637d8d868fdc1d19ea7e759b41)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Allow selecting public key (#421)</code>](https://github.com/Alecaddd/sequeler/commit/23da8541257556ad26c35aefb8b9bf6cd59461e1)
+- [ ] [<code>Move schemas to data dir (#429)</code>](https://github.com/Alecaddd/sequeler/commit/2d06a65ef430a67b8f15d887e78c7c21814c9421)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Use gnome module instead of own python script (#428)</code>](https://github.com/Alecaddd/sequeler/commit/a875aa9efca1551e298250b4c5d416d94bed46b0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Remove libsecret-1.vapi (#427)</code>](https://github.com/Alecaddd/sequeler/commit/88eee3761b70373284b067e85f77079e1f0d5c66)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
