@@ -274,6 +274,8 @@
 - [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/b675624e710c16a07a43c55d6c8975e45e768993)
 - [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/8664030e5811415324bfcf201f4f6f6f421e4ede)
 - [ ] [<code>Merge pull request #700 from albanobattistella/patch-35</code>](https://github.com/phase1geo/minder/commit/6d6284111a13159af2f53fb68478388f5a299ada)
+- [ ] [<code>Updating copyright dates of all source files.</code>](https://github.com/phase1geo/minder/commit/46f3b4d10be4d940f9b0d30171538187415e9518)
+  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
