@@ -347,6 +347,9 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1c41965d68923980849bc397c5809dac4223a6c1)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/67c68a872784ce46cbf6b709ab90346f0fbfdf47)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/29ad5121db236613a6f92c14e7d81901bf4e8daf)
+- [ ] [<code>fix description hide (#2143)</code>](https://github.com/alainm23/planify/commit/f56b14ae54d73717f6932b4418cbe7dd3613d47c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d134b0b651bde14381809b6d799564e979fc08d3)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -424,6 +427,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Remove libsecret-1.vapi (#427)</code>](https://github.com/Alecaddd/sequeler/commit/88eee3761b70373284b067e85f77079e1f0d5c66)
+- [ ] [<code>metainfo: Add 0.9.0 release notes (#425)</code>](https://github.com/Alecaddd/sequeler/commit/b97dd08f6972211e517bc613a1322886ad5ea4b4)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
