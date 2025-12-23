@@ -27,6 +27,11 @@
 - [ ] [<code>Revert "Update appcenter.metainfo.xml.in (#2383)" (#2385)</code>](https://github.com/elementary/appcenter/commit/1fbf2088a6ae02e245b7a6ac06cf430a871ad0ce)
 - [ ] [<code>Application: rely on Granite.StyleManager (#2386)</code>](https://github.com/elementary/appcenter/commit/8269a0b05f85fff708c573e726d7a90fab642dc5)
 - [ ] [<code>FlatpakBackend: don't feaure daily apps (#2389)</code>](https://github.com/elementary/appcenter/commit/23768c233fa2f8772374430cb0c95ef0629f1025)
+- [ ] [<code>AppListUpdateView: use activate functions for package rows</code>](https://github.com/elementary/appcenter/commit/7f9a71e84ae5c01f24d9fc781d12c04ce2fca3f5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use activate functions for ListPackageRowGrid parents</code>](https://github.com/elementary/appcenter/commit/a47e7dd3a4dc4c597bbbf1029dd757a9a9afa319)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/1309b93093c155720e9a7f8d2209dddfc6b09d9a)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -736,6 +741,8 @@
 - [ ] [<code>SetupDialog: add labels to image radios (#150)</code>](https://github.com/elementary/portals/commit/952fb9eb8b7160c07832216f6e6e2e87e051f1b5)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/portals/commit/4ab1e9a43e45126b88fe44f4aa31f78e4408b19c)
 - [ ] [<code>Screenshot: set title and icon name (#161)</code>](https://github.com/elementary/portals/commit/33cd1bdc9eb87a58f37e7c64059870670a245016)
+- [ ] [<code>Screenshot/SetupDialog: Remember screenshot type (#160)</code>](https://github.com/elementary/portals/commit/67df6a856b6cc0507cd12abb2d46bb65d307883d)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
