@@ -350,6 +350,8 @@
 - [ ] [<code>fix description hide (#2143)</code>](https://github.com/alainm23/planify/commit/f56b14ae54d73717f6932b4418cbe7dd3613d47c)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d134b0b651bde14381809b6d799564e979fc08d3)
+- [ ] [<code>fix align items (#2144)</code>](https://github.com/alainm23/planify/commit/1b636317a4109b58c61c9cd502937989d8eb4031)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
