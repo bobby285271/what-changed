@@ -83,6 +83,10 @@
 
 - [ ] [<code>LibCore: compile gresource (#2682)</code>](https://github.com/elementary/files/commit/9448195685bd04dc1d719b866701efdf513d41e0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Avoid selecting non-existent file on initial display (#2673)</code>](https://github.com/elementary/files/commit/60ac5d10a67ed7091e953bd51b4fdee68e43b849)
+- [ ] [<code>Add preview column to Column View (#2620)</code>](https://github.com/elementary/files/commit/a943aa4d8ac66ea4ee934bfb6867a986e75ffe56)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
