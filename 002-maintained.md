@@ -179,6 +179,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Implement filename for exports (#743)</code>](https://github.com/akiraux/Akira/commit/6ba3574f2e14b4290991a4dd94e905152ac08542)
 - [ ] [<code>* Project logo update to transparent version</code>](https://github.com/akiraux/Akira/commit/3b6c58ab4376f0c40cf647164354a65ba2b15a3f)
+- [ ] [<code>Meson clean up (#776)</code>](https://github.com/akiraux/Akira/commit/59e1c4662258b05575b42cc1a0c0d66b648e698d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [appeditor](https://github.com/donadigo/appeditor): [refs/tags/1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/refs/tags/1.1.5...HEAD)
 
@@ -359,6 +362,10 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/db10ac5ea431ce8b6d4982fb19cb9a21821b2a9c)
 - [ ] [<code>fix filter (#2147)</code>](https://github.com/alainm23/planify/commit/cc6936f8faba20688bdd65088bce20d54c755c60)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7da7c78fdf6a1b9b0d6e5f35ed4917cdc575764f)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/cd2163230e9ce15a3abda0c4b10a65d7499955aa)
+- [ ] [<code>support url (#2149)</code>](https://github.com/alainm23/planify/commit/c62de354c5f263fb13bf71db5ceaa7297e2807bb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9726511bfc320fe6d8e99a41e3cae92c5d0a2aa5)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
