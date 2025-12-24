@@ -44,12 +44,17 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/81650e3b05afcbdf4e3b0180dbe5e812c4824855)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboard: Always fetch the full XkbInfo store except when adding</code>](https://github.com/linuxmint/cinnamon/commit/34a5741e83fc7da62e532c90fad072cdd31d6038)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.1...HEAD)
 
+- [ ] [<code>gnome-xkb-info.c: Add to existing option group when scanning extras,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/10934dbba0c48a14454da6e6bf70ffcca3930508)
+- [ ] [<code>gnome-xkb-info: Don't rely on gsettings to return the full set</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2bb17da29ebfc2f94d5a975583c85670e04b6ca6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -104,6 +109,8 @@
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.0...HEAD)
 
+- [ ] [<code>keybindings.c: Add support for additional xkb next-group options.</code>](https://github.com/linuxmint/muffin/commit/4fec56c190b571118889e0ca87c38f8c2b6e58cf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.2...HEAD)
 
