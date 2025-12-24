@@ -352,6 +352,13 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d134b0b651bde14381809b6d799564e979fc08d3)
 - [ ] [<code>fix align items (#2144)</code>](https://github.com/alainm23/planify/commit/1b636317a4109b58c61c9cd502937989d8eb4031)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2139)</code>](https://github.com/alainm23/planify/commit/c0be48d67da96793be04e5e6585390cb6a8985b6)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/212dd61b90a20520acbf834ffe5b65b28be3af59)
+- [ ] [<code>fix plural string (#2146)</code>](https://github.com/alainm23/planify/commit/820ba07cb715a9edd33825c7d8b659579486b9bd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/db10ac5ea431ce8b6d4982fb19cb9a21821b2a9c)
+- [ ] [<code>fix filter (#2147)</code>](https://github.com/alainm23/planify/commit/cc6936f8faba20688bdd65088bce20d54c755c60)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7da7c78fdf6a1b9b0d6e5f35ed4917cdc575764f)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -430,6 +437,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Remove libsecret-1.vapi (#427)</code>](https://github.com/Alecaddd/sequeler/commit/88eee3761b70373284b067e85f77079e1f0d5c66)
 - [ ] [<code>metainfo: Add 0.9.0 release notes (#425)</code>](https://github.com/Alecaddd/sequeler/commit/b97dd08f6972211e517bc613a1322886ad5ea4b4)
+- [ ] [<code>metainfo: Improve 0.9.0 release notes (#430)</code>](https://github.com/Alecaddd/sequeler/commit/b20e4dbce50b9deedf7ac1c18a548205eef77720)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
