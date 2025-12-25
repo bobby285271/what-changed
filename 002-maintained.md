@@ -445,6 +445,7 @@
 - [ ] [<code>Remove libsecret-1.vapi (#427)</code>](https://github.com/Alecaddd/sequeler/commit/88eee3761b70373284b067e85f77079e1f0d5c66)
 - [ ] [<code>metainfo: Add 0.9.0 release notes (#425)</code>](https://github.com/Alecaddd/sequeler/commit/b97dd08f6972211e517bc613a1322886ad5ea4b4)
 - [ ] [<code>metainfo: Improve 0.9.0 release notes (#430)</code>](https://github.com/Alecaddd/sequeler/commit/b20e4dbce50b9deedf7ac1c18a548205eef77720)
+- [ ] [<code>metainfo: Remove duplicated description</code>](https://github.com/Alecaddd/sequeler/commit/b5c3fd49c2d9c450c3a16ad5fe314d566064d013)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
