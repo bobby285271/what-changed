@@ -46,6 +46,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keyboard: Always fetch the full XkbInfo store except when adding</code>](https://github.com/linuxmint/cinnamon/commit/34a5741e83fc7da62e532c90fad072cdd31d6038)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>defaults: Switch gucharmap for GNOME Calendar</code>](https://github.com/linuxmint/cinnamon/commit/a002b6477e9e834a4e4d214bb4c3b7fa57fff8b1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>GWL: Add generic icon for apps with no icon (#13294)</code>](https://github.com/linuxmint/cinnamon/commit/4c85cdd6525796a6f27c681e06b4c8767180f2dc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: Show generic icon on sidebar if fav app has no themed icon (#13296)</code>](https://github.com/linuxmint/cinnamon/commit/473e7f0a95a2f7524867869275ea1af9f0af860d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>js: Fix missing import</code>](https://github.com/linuxmint/cinnamon/commit/20ecec7f40d1255d5004b50cfdc17f800abb3a69)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
