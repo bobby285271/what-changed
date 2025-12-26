@@ -446,6 +446,11 @@
 - [ ] [<code>metainfo: Add 0.9.0 release notes (#425)</code>](https://github.com/Alecaddd/sequeler/commit/b97dd08f6972211e517bc613a1322886ad5ea4b4)
 - [ ] [<code>metainfo: Improve 0.9.0 release notes (#430)</code>](https://github.com/Alecaddd/sequeler/commit/b20e4dbce50b9deedf7ac1c18a548205eef77720)
 - [ ] [<code>metainfo: Remove duplicated description</code>](https://github.com/Alecaddd/sequeler/commit/b5c3fd49c2d9c450c3a16ad5fe314d566064d013)
+- [ ] [<code>Release 0.9.0 (#426)</code>](https://github.com/Alecaddd/sequeler/commit/9963fb45a4d8415d9e4a9ba041e133d7b8de25b9)
+  - <sub>Tags: <code>v0.9.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Flatpak: jemalloc: Use .tar.gz instead of .tar.bz2 that requires bzip2 (#432)</code>](https://github.com/Alecaddd/sequeler/commit/7677c1b95577fdad3132273e033858969b24e17f)
+  - <sub>Tags: <code>v0.9.0-1</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
