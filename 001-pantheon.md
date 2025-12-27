@@ -87,6 +87,7 @@
 - [ ] [<code>Add preview column to Column View (#2620)</code>](https://github.com/elementary/files/commit/a943aa4d8ac66ea4ee934bfb6867a986e75ffe56)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Prepare metainfo for release v7.3.0 (#2686)</code>](https://github.com/elementary/files/commit/9aecabff3bd3bb9de568b99e40569028b5597639)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
