@@ -366,6 +366,13 @@
 - [ ] [<code>support url (#2149)</code>](https://github.com/alainm23/planify/commit/c62de354c5f263fb13bf71db5ceaa7297e2807bb)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9726511bfc320fe6d8e99a41e3cae92c5d0a2aa5)
+- [ ] [<code>Translations update from Hosted Weblate (#2145)</code>](https://github.com/alainm23/planify/commit/1ae584f013fbfd88d7d3f855f9ada0732b82241a)
+- [ ] [<code>add calendar sync badge (#2150)</code>](https://github.com/alainm23/planify/commit/e1f95b9a2833aab760b2889bdd4eff568b0724ed)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/73167dda59fda6565253eae12c4fc68d3cc3613c)
+- [ ] [<code>release 4.17.0 (#2152)</code>](https://github.com/alainm23/planify/commit/e21ab828e16d5eb812be3ed4a2d2fa37e84f51cf)
+  - <sub>Tags: <code>v4.17.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
