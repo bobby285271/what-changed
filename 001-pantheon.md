@@ -43,6 +43,7 @@
 - [ ] [<code>SourceDialog: redesign with vertical layout (#856)</code>](https://github.com/elementary/calendar/commit/0c573191503e7860770a11ce0983512ba74c15ce)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.1.tar.xz to 3.58.2 (#871)</code>](https://github.com/elementary/calendar/commit/c204c0a7bdd7f6f6efa710df4d6ce8143ab7da6d)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calendar/commit/60aaac114e2ee4d387178eae7151673810735b0c)
+- [ ] [<code>Show Weeks: Use GLib.Menu (#870)</code>](https://github.com/elementary/calendar/commit/ef1a13e5cbb045ce4e336dd83481df7dc12fe592)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -519,6 +520,12 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Utils: Remove unused Gtk.IconTheme</code>](https://github.com/elementary/gala/commit/395a3c147362bdca3b53a4bf40e1b584df08fae0)
 - [ ] [<code>CloseButton: Remove unused close pixbufs hash map</code>](https://github.com/elementary/gala/commit/0e009e87b571c4513385f4c43f51655bb32d130f)
+- [ ] [<code>Use Gala.Icon for the resize button (#2687)</code>](https://github.com/elementary/gala/commit/3e348d47774d2bbd4cbb663630de13c2c35b60ca)
+- [ ] [<code>WindowClone: Only hide icon in single app overview (#2697)</code>](https://github.com/elementary/gala/commit/7f64a4542db8496ab7baf2ee7bec52de91253150)
+- [ ] [<code>WindowClone: reset opacity if window shouldn't fade anymore (#2698)</code>](https://github.com/elementary/gala/commit/553e63a10dba5666943bab7061186693e9ffdd7d)
+- [ ] [<code>MultitaskingView: Sync progress when reordering workspaces (#2693)</code>](https://github.com/elementary/gala/commit/ed87ccf9076a123adcba491ed927dacc3eb45616)
+- [ ] [<code>Maximize/Full screen: Move windows when the property changes (#2694)</code>](https://github.com/elementary/gala/commit/e4e4296599993bab19b07d514c55ed9ebc727b09)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
