@@ -27,6 +27,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>js: Fix missing import</code>](https://github.com/linuxmint/cinnamon/commit/20ecec7f40d1255d5004b50cfdc17f800abb3a69)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st-entry.c: Disable cursor blink.</code>](https://github.com/linuxmint/cinnamon/commit/b7639f14afd7eefe7fc186cf0b6029e5f81eb00a)
+- [ ] [<code>keyboardManager.js: When loading configured sources, always ensure</code>](https://github.com/linuxmint/cinnamon/commit/91ed551b350d781f6060c21275bdbe1ed02637af)
+- [ ] [<code>keyboardManager.js: Make sure to reload the current engine</code>](https://github.com/linuxmint/cinnamon/commit/bd50214c4a21b85b4b564752c699645be4374d3e)
+- [ ] [<code>keyboardManager.js: Update the definition of 'multiple sources'.</code>](https://github.com/linuxmint/cinnamon/commit/5149ed533d189aa0e54b6a9c15f85dfb953d9928)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
