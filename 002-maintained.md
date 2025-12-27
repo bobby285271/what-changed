@@ -182,6 +182,7 @@
 - [ ] [<code>Meson clean up (#776)</code>](https://github.com/akiraux/Akira/commit/59e1c4662258b05575b42cc1a0c0d66b648e698d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Fixes deserializing rectangle on file load (#748)</code>](https://github.com/akiraux/Akira/commit/a70cc8f34ea39f2d03d2e4f4596ea77c811b1109)
 
 #### [appeditor](https://github.com/donadigo/appeditor): [refs/tags/1.1.5 → HEAD](https://github.com/donadigo/appeditor/compare/refs/tags/1.1.5...HEAD)
 
@@ -373,6 +374,7 @@
 - [ ] [<code>release 4.17.0 (#2152)</code>](https://github.com/alainm23/planify/commit/e21ab828e16d5eb812be3ed4a2d2fa37e84f51cf)
   - <sub>Tags: <code>v4.17.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e79331be04668d20190345de1584216734fef6b5)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
