@@ -528,6 +528,7 @@
 - [ ] [<code>Maximize/Full screen: Move windows when the property changes (#2694)</code>](https://github.com/elementary/gala/commit/e4e4296599993bab19b07d514c55ed9ebc727b09)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gala.Text: Don't extend Clutter.Text (#2680)</code>](https://github.com/elementary/gala/commit/271eabfa7805464a6027f27301cbf62cc5f003a6)
+- [ ] [<code>Update OpenSUSE CI (#2703)</code>](https://github.com/elementary/gala/commit/129bb257edd0c1a9ca3186379949c9871e2c20b2)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
