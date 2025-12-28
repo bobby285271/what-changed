@@ -293,87 +293,8 @@
 - [ ] [<code>fix: MainWindow: Add missing window title (#342)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38f28742cfdaa0c82961c040e0b4e82185a04c4)
 - [ ] [<code>chore: Tweaks: Rely on Granite.StyleManager (#344)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d5863fb3983a0db7a9614233b8f9465bf344c8c6)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.16.1 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.16.1...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.17.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.17.0...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c14139ac2513ad1e47dc236dfcfa1c55a3f9ce4b)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/c05f944a814673da696d9ba7e7208e7b0a066112)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e62c6d6adf2fda8f06dda88ccf7bf9b793d07426)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/00d74b085ddc153be4dd9cdde47e1fd8735d06a2)
-- [ ] [<code>remove a tooltip (#2095)</code>](https://github.com/alainm23/planify/commit/2ee8a52eca10f607daf02d6d354fe5714bc8ca32)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix border (#2096)</code>](https://github.com/alainm23/planify/commit/efe00d728f56427ae2e3a091f09f7ac5afea7fd8)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9a11dd547591b88132ebb716de116f70fa2a9c18)
-- [ ] [<code>Translations update from Hosted Weblate (#2087)</code>](https://github.com/alainm23/planify/commit/4fb4284098121e47da8d1379626e06d657b5aefd)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/67e12d5e8f4ad76c3c57dbed2a412f41b8c594bf)
-- [ ] [<code>feat: add overdue in Scheduled (#2100)</code>](https://github.com/alainm23/planify/commit/1a768848a2193b78e531826d3e2103f47164c792)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f57015acb2f1a1ad5f58465c95260e82ac2a80e3)
-- [ ] [<code>feat: range event (#2101)</code>](https://github.com/alainm23/planify/commit/ee15e21487bfc7db6e2d3a791862350e063193e0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20c2106fca1757e87d63c4782f973a462ab5be73)
-- [ ] [<code>feat: Add calendar sync and event creation support (#2104)</code>](https://github.com/alainm23/planify/commit/92e329a36e7d345dbfac7d9792fe0bd703b317a1)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/84bdb49c0aa78e193752d6774454b5379e91a705)
-- [ ] [<code>fix (#2113)</code>](https://github.com/alainm23/planify/commit/4af2b3b499cc0eee361a270fe81b71ba4615ac29)
-- [ ] [<code>fix today edit (#2115)</code>](https://github.com/alainm23/planify/commit/e48cfec2197aba29f5b04fc5ecafb95fb6b7e635)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ec1e8f82c1854bb6c22b42664c4cff295189e208)
-- [ ] [<code>fix project edit (#2121)</code>](https://github.com/alainm23/planify/commit/2a407f1c21302998ef6f017c2d040305c3a909d0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/adbb7ca0c4fff3a0ca65ca97ea80a456d11f3c6a)
-- [ ] [<code>fix page titles (#2122)</code>](https://github.com/alainm23/planify/commit/9da9d1bc136a011f62ab55f50ee40658b6935a00)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c903021ec120fb40ab57bcd2ca02781186cfe50f)
-- [ ] [<code>fix title menu (#2123)</code>](https://github.com/alainm23/planify/commit/c8f154bead2997987f047ebc9557651dedb8cfd8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6b49d65178aa6be46d8e8181e28dccdcd08714bb)
-- [ ] [<code>fix color order (#2124)</code>](https://github.com/alainm23/planify/commit/4324f1f2196f7a567224d2fceed0c19cf80ffd5f)
-- [ ] [<code>fix accenty color (#2125)</code>](https://github.com/alainm23/planify/commit/579539f9202b9582511b8f08c368857cbb36dca0)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0e8389b8790ce950bf52d28329e65678e23798ca)
-- [ ] [<code>Translations update from Hosted Weblate (#2129)</code>](https://github.com/alainm23/planify/commit/753ceb1bd5c908f653207b5af89662ed58a64fc8)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1a1a5a1a4aab08ca0916605b5d146467387e28d4)
-- [ ] [<code>Fix: Resolve double execution in multi-select mode causing incorrect item count (#2131)</code>](https://github.com/alainm23/planify/commit/3857dffdf9b8cd85e34422aeaf34760ebfed5ffb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f7fe7aff1d865113ad42702cbdbe552cf7d690a6)
-- [ ] [<code>Bump actions/upload-artifact from 5 to 6 (#2132)</code>](https://github.com/alainm23/planify/commit/ca53a0c5176d0b08aa02ba3e2c6027d4a70c10ec)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/7183743cc75d43ebae3b67e0969941080712d889)
-- [ ] [<code>move multiple tasjs (#2133)</code>](https://github.com/alainm23/planify/commit/2ad018d2270834808b1da25d9a4cf38413a45db5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03337f8e88701a3994ffa1fa3b376b538fee46a8)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/bff486ffe9b59122b8ef01cd9862b6d01a393605)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/6f2cec3ec201cec88e58966f6685d9199ae580e2)
-- [ ] [<code>feat: deadline (#2136)</code>](https://github.com/alainm23/planify/commit/cc482ff2f0dd98bd7618e30f92b614faf1b22f87)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/40849c38708c447605084c89a54d7528ac9f042e)
-- [ ] [<code>Translations update from Hosted Weblate (#2130)</code>](https://github.com/alainm23/planify/commit/2f93892201c14f58b2246ad67f5758b526146bd5)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1c41965d68923980849bc397c5809dac4223a6c1)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/67c68a872784ce46cbf6b709ab90346f0fbfdf47)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/29ad5121db236613a6f92c14e7d81901bf4e8daf)
-- [ ] [<code>fix description hide (#2143)</code>](https://github.com/alainm23/planify/commit/f56b14ae54d73717f6932b4418cbe7dd3613d47c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d134b0b651bde14381809b6d799564e979fc08d3)
-- [ ] [<code>fix align items (#2144)</code>](https://github.com/alainm23/planify/commit/1b636317a4109b58c61c9cd502937989d8eb4031)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2139)</code>](https://github.com/alainm23/planify/commit/c0be48d67da96793be04e5e6585390cb6a8985b6)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/212dd61b90a20520acbf834ffe5b65b28be3af59)
-- [ ] [<code>fix plural string (#2146)</code>](https://github.com/alainm23/planify/commit/820ba07cb715a9edd33825c7d8b659579486b9bd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/db10ac5ea431ce8b6d4982fb19cb9a21821b2a9c)
-- [ ] [<code>fix filter (#2147)</code>](https://github.com/alainm23/planify/commit/cc6936f8faba20688bdd65088bce20d54c755c60)
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7da7c78fdf6a1b9b0d6e5f35ed4917cdc575764f)
-- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/cd2163230e9ce15a3abda0c4b10a65d7499955aa)
-- [ ] [<code>support url (#2149)</code>](https://github.com/alainm23/planify/commit/c62de354c5f263fb13bf71db5ceaa7297e2807bb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9726511bfc320fe6d8e99a41e3cae92c5d0a2aa5)
-- [ ] [<code>Translations update from Hosted Weblate (#2145)</code>](https://github.com/alainm23/planify/commit/1ae584f013fbfd88d7d3f855f9ada0732b82241a)
-- [ ] [<code>add calendar sync badge (#2150)</code>](https://github.com/alainm23/planify/commit/e1f95b9a2833aab760b2889bdd4eff568b0724ed)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/73167dda59fda6565253eae12c4fc68d3cc3613c)
-- [ ] [<code>release 4.17.0 (#2152)</code>](https://github.com/alainm23/planify/commit/e21ab828e16d5eb812be3ed4a2d2fa37e84f51cf)
-  - <sub>Tags: <code>v4.17.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e79331be04668d20190345de1584216734fef6b5)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
@@ -460,6 +381,17 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Flatpak: jemalloc: Use .tar.gz instead of .tar.bz2 that requires bzip2 (#432)</code>](https://github.com/Alecaddd/sequeler/commit/7677c1b95577fdad3132273e033858969b24e17f)
   - <sub>Tags: <code>v0.9.0-1</code></sub>
+- [ ] [<code>Remove unnecessary --socket=ssh-auth permission (#433)</code>](https://github.com/Alecaddd/sequeler/commit/eb07311e15318eddacd5f5c1a7930576d7dbe8e0)
+- [ ] [<code>README: Update Flathub badge</code>](https://github.com/Alecaddd/sequeler/commit/3b4131775ea95cfecee7d4a3a4272831a9c1a203)
+- [ ] [<code>libaio: Remove dead cflags for i386</code>](https://github.com/Alecaddd/sequeler/commit/365211cd4a9bfce34cc1091bcbe0d11ccdefa3cc)
+- [ ] [<code>libaio: Don't use debian archives</code>](https://github.com/Alecaddd/sequeler/commit/4a8e7ea45b04be71b5e8116430a7913357c39607)
+- [ ] [<code>intltool: Use shared-modules</code>](https://github.com/Alecaddd/sequeler/commit/1628c7658008f491fc080ee3df4b602bde56e3a3)
+- [ ] [<code>Application: Force elementary stylesheet to prevent broken UI on other DEs</code>](https://github.com/Alecaddd/sequeler/commit/88f0728e227d7e271bbb417b6d3e5f0ef22553b3)
+- [ ] [<code>Remove trailing slash of directories</code>](https://github.com/Alecaddd/sequeler/commit/c2f670fd0a0f5d6b54ba85f72da2b25066d699b9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove unnecesarry libdir build option for Flathub builds</code>](https://github.com/Alecaddd/sequeler/commit/11c684a8cc012b7ba4c0a9fba5f65f7c92187f4d)
+- [ ] [<code>Actions: Checkout submodules too</code>](https://github.com/Alecaddd/sequeler/commit/176d78944b456626a82a202502e69ba7aa78f2b7)
+- [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/Alecaddd/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
