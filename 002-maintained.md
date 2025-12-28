@@ -258,28 +258,8 @@
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 - [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
-#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.2 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.2...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.3 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.3...HEAD)
 
-- [ ] [<code>Fixing issue with placing root node on application open.</code>](https://github.com/phase1geo/minder/commit/d62f784eef146c0518aa8b3d213365b424681447)
-- [ ] [<code>Fixing issue with Style widgets accidentally scrolling.</code>](https://github.com/phase1geo/minder/commit/83bfcf2196662409039bb62ca61c2b440f4f6618)
-- [ ] [<code>* Fixing issues with commandline import/export.</code>](https://github.com/phase1geo/minder/commit/674f973e869f38db0b09742f0cf5d75cfd65e7f0)
-  - <sub>Keywords: <code>commandline</code></sub>
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/89fb4a6c2428b410f972768000e332196ddce951)
-- [ ] [<code>Adding Mermaid import</code>](https://github.com/phase1geo/minder/commit/f88381b9bf40e7c17c0d1c7a3eee21d99f53d257)
-- [ ] [<code>Updating comments in export source files.</code>](https://github.com/phase1geo/minder/commit/63eeadb8da69c48b181462632e46fdbb18aeb05d)
-- [ ] [<code>Merge pull request #699 from albanobattistella/master</code>](https://github.com/phase1geo/minder/commit/58847d9b84d536b0595aa9dc66e9d7e4f3991e5f)
-- [ ] [<code>Fixing it.po syntax errors.</code>](https://github.com/phase1geo/minder/commit/9e49fcd9be87c0cd6a8477feb6672f09d8e21720)
-- [ ] [<code>Updating comments.</code>](https://github.com/phase1geo/minder/commit/2576f2f9cd031a40a89bbb95a5442756e5461369)
-- [ ] [<code>Updating files for 2.0.3 stable release.</code>](https://github.com/phase1geo/minder/commit/262185fd3306c0df341dfbaf854b8388046404b7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Adding missing feature from 2.0.3 release notes.</code>](https://github.com/phase1geo/minder/commit/30440acd1a66365858e67e9f02f5bd6c748c6bb7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/b675624e710c16a07a43c55d6c8975e45e768993)
-- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/8664030e5811415324bfcf201f4f6f6f421e4ede)
-- [ ] [<code>Merge pull request #700 from albanobattistella/patch-35</code>](https://github.com/phase1geo/minder/commit/6d6284111a13159af2f53fb68478388f5a299ada)
-- [ ] [<code>Updating copyright dates of all source files.</code>](https://github.com/phase1geo/minder/commit/46f3b4d10be4d940f9b0d30171538187415e9518)
-  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
@@ -296,6 +276,7 @@
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.17.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.17.0...HEAD)
 
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e79331be04668d20190345de1584216734fef6b5)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/f2f57dce68d70de7dc14208e45e0057a7dea872b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
