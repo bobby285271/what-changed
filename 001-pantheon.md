@@ -287,6 +287,7 @@
 - [ ] [<code>TerminalWidget: remove internal tab usage (#963)</code>](https://github.com/elementary/terminal/commit/663748249c980474cc23b723edc59d5ad6fc70a8)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Reconstruct menu model every time we show it (#964)</code>](https://github.com/elementary/terminal/commit/a23c9d81d022e9d4c2ac54fb4e7678050f34d0a3)
+- [ ] [<code>Remove "Show Search Bar" menu item from context menu (#967)</code>](https://github.com/elementary/terminal/commit/e1b54a3421808f8c2197742ea6f966ba59b2a569)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -526,6 +527,7 @@
 - [ ] [<code>MultitaskingView: Sync progress when reordering workspaces (#2693)</code>](https://github.com/elementary/gala/commit/ed87ccf9076a123adcba491ed927dacc3eb45616)
 - [ ] [<code>Maximize/Full screen: Move windows when the property changes (#2694)</code>](https://github.com/elementary/gala/commit/e4e4296599993bab19b07d514c55ed9ebc727b09)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Gala.Text: Don't extend Clutter.Text (#2680)</code>](https://github.com/elementary/gala/commit/271eabfa7805464a6027f27301cbf62cc5f003a6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
