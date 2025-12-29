@@ -31,7 +31,11 @@
 - [ ] [<code>keyboardManager.js: When loading configured sources, always ensure</code>](https://github.com/linuxmint/cinnamon/commit/91ed551b350d781f6060c21275bdbe1ed02637af)
 - [ ] [<code>keyboardManager.js: Make sure to reload the current engine</code>](https://github.com/linuxmint/cinnamon/commit/bd50214c4a21b85b4b564752c699645be4374d3e)
 - [ ] [<code>keyboardManager.js: Update the definition of 'multiple sources'.</code>](https://github.com/linuxmint/cinnamon/commit/5149ed533d189aa0e54b6a9c15f85dfb953d9928)
+- [ ] [<code>cs_notifications: i18n test notification title</code>](https://github.com/linuxmint/cinnamon/commit/8bd161ab05edf8fcb3ee197175163eada416a033)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/57f4c75b5defeb90afdfe95f7825c29331009233)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
