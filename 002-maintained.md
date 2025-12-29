@@ -373,6 +373,8 @@
 - [ ] [<code>Remove unnecesarry libdir build option for Flathub builds</code>](https://github.com/Alecaddd/sequeler/commit/11c684a8cc012b7ba4c0a9fba5f65f7c92187f4d)
 - [ ] [<code>Actions: Checkout submodules too</code>](https://github.com/Alecaddd/sequeler/commit/176d78944b456626a82a202502e69ba7aa78f2b7)
 - [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/Alecaddd/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
+- [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/Alecaddd/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
