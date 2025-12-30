@@ -34,8 +34,20 @@
 - [ ] [<code>cs_notifications: i18n test notification title</code>](https://github.com/linuxmint/cinnamon/commit/8bd161ab05edf8fcb3ee197175163eada416a033)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/57f4c75b5defeb90afdfe95f7825c29331009233)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>trigger xlet settings update when settings options "Reset to defaults"... (#13297)</code>](https://github.com/linuxmint/cinnamon/commit/edc978b89daa8d10a43c6a2fe5db72b6de423176)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>recent applet: Fix label alignment (#13302)</code>](https://github.com/linuxmint/cinnamon/commit/bd9ad22972752439e2f45379dcb4e910b8587019)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Fix context menu to not close the menu applet (#13318)</code>](https://github.com/linuxmint/cinnamon/commit/7ce0a954352f80411c21eff3eaa3d98d7dcc70f3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Hide icon themes that marked as 'Hidden' (#13307)</code>](https://github.com/linuxmint/cinnamon/commit/7a297049113bccc99c9457d818ed59814c479803)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Put back "notifications" role removed in commit... (#13303)</code>](https://github.com/linuxmint/cinnamon/commit/78f4bc01fab41f731c8078078bbdbb5099e881bb)
+- [ ] [<code>messageTray.js: Check for pending notifications after showing a notification (#13277)</code>](https://github.com/linuxmint/cinnamon/commit/07dca0bb5ee361eef70a01eb209e9c830f7e03d4)
+- [ ] [<code>Fixed menu editor freezing on right-clicking categories on the left menu (#13306)</code>](https://github.com/linuxmint/cinnamon/commit/e37f1b3c17602fb69febd10cf7536d1d5e31dacd)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -57,6 +69,9 @@
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.1...HEAD)
 
+- [ ] [<code>plugins: Don't leak DESKTOP_AUTOSTART_ID into child processes (#432)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/71cfccb7cb61952fedc66853d22164d6ffd98948)
+- [ ] [<code>housekeeping: fix list iteration and memleak in ldsm-dialog (#431)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4d81f83998c582d6eeb221a4cae1eb1747b0ef4a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.1...HEAD)
 
@@ -75,9 +90,12 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [112daa4f76ccef08a9c4e3b107957ff862429516 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/112daa4f76ccef08a9c4e3b107957ff862429516...HEAD)
 
+- [ ] [<code>Cinnamon: window-list applet set notification badge fixed font size (#21)</code>](https://github.com/linuxmint/mint-l-theme/commit/b3cd80516d8a595c4bdee708b06e9a8fcbcdef7e)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.6...HEAD)
 
+- [ ] [<code>Mint-Y cinnamon: window-list applet set fixed notification badge font size (#527)</code>](https://github.com/linuxmint/mint-themes/commit/2ef7eeb11a8dfc6d5c99f9a1e9cef5ac5f8b94cc)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -157,6 +175,8 @@
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.7 → HEAD](https://github.com/linuxmint/xed/compare/3.8.7...HEAD)
 
+- [ ] [<code>Lighten xed theme right-margin line to improve visibility (#714)</code>](https://github.com/linuxmint/xed/commit/ca2da0ef354be70428dfe5debe67aa246a7802ed)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
