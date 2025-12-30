@@ -382,6 +382,13 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5e443e5de0c92ed405265f18a98446f651c4e331)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7f86028ab95fc2abf798f61f285c5d2e75e71d87)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/67410753b271555d081117f5227ca8d53c289135)
+  - <sub>Tags: <code>libxfce4windowing-4.20.5</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e4e86b0025c84efc063f54de7a518c4109ec48d3)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -787,6 +794,14 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/tumbler/commit/52db6b118dbad9cc6fafd265eaeb2efbb1124ec5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/65586e4aeefc8adcda1ab13dbb35d581b4565df4)
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/tumbler/commit/cb8dd8cd8926b99beef7cf55f13a994f00c824e3)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/tumbler/commit/821c7fe0a4c99c424f688116143e3d5757b35e5f)
+  - <sub>Tags: <code>tumbler-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/d7425c4c5a7901b52cddf7261be84ac7a142dc23)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1096,6 +1111,12 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c7f25199ec2d8e9dee86284fd8965890ff99aefc)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>inhibit: Add inhibit/uninhibit cookies to debug logs</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/56dd6d3d20eb9d5bf5abb931a13b6b8ba958e070)
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/10ee9ef690d522a73f18d5ab981cc10cf1430cbc)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f6e83d2c95a7adf58cf62b5b69c50ac11a51a2d9)
+  - <sub>Tags: <code>xfce4-power-manager-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/23adc9084e5c2ad830b040f82f97a41068df0f20)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1170,6 +1191,12 @@
 - [ ] [<code>manager: Avoid use-after-free in idle function</code>](https://github.com/xfce-mirror/xfce4-session/commit/5eeac16f305ba3ef0b2058b52dd33022a0957f29)
 - [ ] [<code>startxfce4: Prioritize XKBLAYOUT over KEYMAP for kbd layout on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/b3dfae048024985974c3f63744bc30efeed547e3)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-session/commit/bf27af824983f2feff955585e3b51d0a9dac6275)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/xfce4-session/commit/a424efc02a4259288a292213febee8291b5e2950)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-session/commit/5681e8b24d192ff572a52f80e9381d6543dfd2e0)
+  - <sub>Tags: <code>xfce4-session-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/f6080bea79f9dcaba6fde5ab8b72bd675355bd6e)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
@@ -1273,6 +1300,12 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7d0b74951f01f9926cf57ef29827c0a1790effeb)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f051b785571b461c153091d2e759a3c26d991fb9)
+- [ ] [<code>build: Rename POTFILES.in to POTFILES</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e1028dcec1845a5fe3f291c91e5ee8310d9c843c)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d643c2380806c3f1e3543b79288f905f10738d6a)
+  - <sub>Tags: <code>xfce4-settings-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/58c83e0cb1dd02b7f9f010a4aef867b4a593f4a9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
