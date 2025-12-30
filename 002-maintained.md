@@ -272,6 +272,10 @@
 - [ ] [<code>fix: start-pantheon-tweaks.sh: Correct position to trap SIGINT (#341)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4b327d5d3d81b1e0739285b314868cf1a59ab9d9)
 - [ ] [<code>fix: MainWindow: Add missing window title (#342)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38f28742cfdaa0c82961c040e0b4e82185a04c4)
 - [ ] [<code>chore: Tweaks: Rely on Granite.StyleManager (#344)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d5863fb3983a0db7a9614233b8f9465bf344c8c6)
+- [ ] [<code>meson: Coding style (#346)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cce774c4cba07188a92916500954adb7866d43eb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Flatpak: Use tarball instead of git (#347)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/24ec225909ec65d1af907f606e0fa40d9269aeb1)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.17.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.17.0...HEAD)
 
