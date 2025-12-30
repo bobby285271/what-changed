@@ -89,6 +89,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Prepare metainfo for release v7.3.0 (#2686)</code>](https://github.com/elementary/files/commit/9aecabff3bd3bb9de568b99e40569028b5597639)
+- [ ] [<code>Show search results for current folder first (#2667)</code>](https://github.com/elementary/files/commit/68aa1666ae5567f21d82ca5bf8bcc0bc955bac66)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -288,6 +289,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Reconstruct menu model every time we show it (#964)</code>](https://github.com/elementary/terminal/commit/a23c9d81d022e9d4c2ac54fb4e7678050f34d0a3)
 - [ ] [<code>Remove "Show Search Bar" menu item from context menu (#967)</code>](https://github.com/elementary/terminal/commit/e1b54a3421808f8c2197742ea6f966ba59b2a569)
+- [ ] [<code>Move open in browser action to TerminalWidget (#966)</code>](https://github.com/elementary/terminal/commit/6161ac4fecc44745aaa95dbb32defc185bfff112)
+- [ ] [<code>Move context menu initialization to TerminalWidget (#968)</code>](https://github.com/elementary/terminal/commit/32d5facee85492616afff23d659691faf7223148)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
