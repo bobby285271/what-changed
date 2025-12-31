@@ -282,6 +282,7 @@
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/e79331be04668d20190345de1584216734fef6b5)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/f2f57dce68d70de7dc14208e45e0057a7dea872b)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d7e00188534df3b024b00fae0625e2f00b550098)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/3b20a611d26c08f14eab7852d8c4e06128bebe36)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
