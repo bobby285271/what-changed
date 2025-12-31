@@ -721,6 +721,8 @@
 - [ ] [<code>Fix string leaks and typos in drop-descendant-files code</code>](https://github.com/xfce-mirror/thunar/commit/cf13d2d82c17cf15450dabe4dd66eb9d27c25d33)
 - [ ] [<code>Fix GtkTreePath leaks in thunar_details_view_key_press_event</code>](https://github.com/xfce-mirror/thunar/commit/e8ab549943f663cdc7096caa8059a8806d5af6c2)
 - [ ] [<code>Simplify trash/delete logic (#1761)</code>](https://github.com/xfce-mirror/thunar/commit/87e75d1969bd132ce2d3d14c6bf7e71c51067c88)
+- [ ] [<code>Revert "Preload image-preview thumbnails"</code>](https://github.com/xfce-mirror/thunar/commit/96a00899418dce4a2b16028ed58e5e010725d6a3)
+- [ ] [<code>Preload preview images of neightb. files (#1267)</code>](https://github.com/xfce-mirror/thunar/commit/2b097cc01617fa508c00769fa86b62eedcb4993c)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
