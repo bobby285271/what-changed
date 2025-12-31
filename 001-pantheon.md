@@ -90,6 +90,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Prepare metainfo for release v7.3.0 (#2686)</code>](https://github.com/elementary/files/commit/9aecabff3bd3bb9de568b99e40569028b5597639)
 - [ ] [<code>Show search results for current folder first (#2667)</code>](https://github.com/elementary/files/commit/68aa1666ae5567f21d82ca5bf8bcc0bc955bac66)
+- [ ] [<code>Update POTFILES (#2689)</code>](https://github.com/elementary/files/commit/e04a69854dcd20ab5cd547eac527703837f3a7e5)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -457,6 +458,7 @@
 - [ ] [<code>Add dialog-svg-font for Inkscape (#1385)</code>](https://github.com/elementary/icons/commit/809491b08bd2c5671b33666e0e750b7b4f9e8192)
 - [ ] [<code>Make process-stop and process-completed match (#1409)</code>](https://github.com/elementary/icons/commit/407b605e88662043d4708d2ab199a39e709470f7)
 - [ ] [<code>Add 16px camera-photo (#1411)</code>](https://github.com/elementary/icons/commit/caa2d51883277649ec8b1f3cb5da8c98681e9c76)
+- [ ] [<code>metainfo: Fix typo "16x" → "16px" (#1414)</code>](https://github.com/elementary/icons/commit/5b287e7a501c4c09fe06b3fa8c8bf652f6f9cc67)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
