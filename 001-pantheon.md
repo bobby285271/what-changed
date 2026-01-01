@@ -433,6 +433,10 @@
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-sound/commit/8e5be025865b52a63ba0bdc18f3259c6eec58551)
+- [ ] [<code>meson: Fix warnings (#296)</code>](https://github.com/elementary/settings-sound/commit/71342cfb74dbb85ca578c8e0b146e636cdb3b7fd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
@@ -752,6 +756,8 @@
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.2 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.2...HEAD)
 
+- [ ] [<code>meson: Replace deprecated source_root with project_source_root (#103)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0ade82e0f74d9998e83b28d028ecf0d15237c99a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
 
