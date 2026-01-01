@@ -283,6 +283,8 @@
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/f2f57dce68d70de7dc14208e45e0057a7dea872b)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d7e00188534df3b024b00fae0625e2f00b550098)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/3b20a611d26c08f14eab7852d8c4e06128bebe36)
+- [ ] [<code>Translations update from Hosted Weblate (#2151)</code>](https://github.com/alainm23/planify/commit/84bd4ca0fcbb74622c42a2fd581d26e3a7dc628f)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/19180438e59e5e3df0c5e49f81f6d49e5e2e656b)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
