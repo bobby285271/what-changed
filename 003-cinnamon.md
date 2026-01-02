@@ -46,8 +46,14 @@
 - [ ] [<code>Put back "notifications" role removed in commit... (#13303)</code>](https://github.com/linuxmint/cinnamon/commit/78f4bc01fab41f731c8078078bbdbb5099e881bb)
 - [ ] [<code>messageTray.js: Check for pending notifications after showing a notification (#13277)</code>](https://github.com/linuxmint/cinnamon/commit/07dca0bb5ee361eef70a01eb209e9c830f7e03d4)
 - [ ] [<code>Fixed menu editor freezing on right-clicking categories on the left menu (#13306)</code>](https://github.com/linuxmint/cinnamon/commit/e37f1b3c17602fb69febd10cf7536d1d5e31dacd)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-menu-editor: Remember the scroll position when refreshing</code>](https://github.com/linuxmint/cinnamon/commit/4b6793792dde2203c660a9351246be2fa244ca8d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu/desktop editor: Load and save for the current language when</code>](https://github.com/linuxmint/cinnamon/commit/a692d520ce79a536e088e7aaa1aefce63d83c94b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-slideshow.py: Continue with the next background in a folder</code>](https://github.com/linuxmint/cinnamon/commit/96cab948f0c3c62603b49e3da6132e46d4dc1ffd)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -71,6 +77,7 @@
 
 - [ ] [<code>plugins: Don't leak DESKTOP_AUTOSTART_ID into child processes (#432)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/71cfccb7cb61952fedc66853d22164d6ffd98948)
 - [ ] [<code>housekeeping: fix list iteration and memleak in ldsm-dialog (#431)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4d81f83998c582d6eeb221a4cae1eb1747b0ef4a)
+- [ ] [<code>csd-background: Remove decoration from desktop window (#434)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1e1ed335230f318d210837fcc6451ff298247bb7)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.1...HEAD)
@@ -170,8 +177,11 @@
 
 - [ ] [<code>TeeJee.FileSystem.vala: Remove any existing destination file before</code>](https://github.com/linuxmint/timeshift/commit/d969f0142e68a81a4beaa69ee0f1b1a7144ba24f)
 - [ ] [<code>25.12.2</code>](https://github.com/linuxmint/timeshift/commit/581a98e5ea5299abbf089a0642d9b7e294db4e8f)
-  - <sub>Tags: <code>25.12.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>25.12.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update AppConsole.vala (#490)</code>](https://github.com/linuxmint/timeshift/commit/0d4b5d2b866bfd490b73e50764cc8386e89054b0)
+- [ ] [<code>Main.vala: Fix a warning and don't update config file when exiting</code>](https://github.com/linuxmint/timeshift/commit/a4559ab13b09a7f8d9521505e50a9a967b95e0dd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.7 → HEAD](https://github.com/linuxmint/xed/compare/3.8.7...HEAD)
 
