@@ -60,6 +60,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#1679)</code>](https://github.com/elementary/code/commit/8c7db83208da9eb89a1588928cc638e2e1b99ce3)
+- [ ] [<code>One Pastebin upload dialog (#1683)</code>](https://github.com/elementary/code/commit/2a573b63fbc7df58493de6b35f3c5ea9a181d82e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.1 → HEAD](https://github.com/elementary/dock/compare/8.3.1...HEAD)
 
