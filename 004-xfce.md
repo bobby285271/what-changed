@@ -904,6 +904,8 @@
 - [ ] [<code>ci: Add docbook-xml to CI build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a66e10cd3f675150fddd3517a6b922f0ccf9f5f4)
 - [ ] [<code>meson: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c66caa948c534a240eed4ac00e377a8e6556b918)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gst-plugin-gtk: New dependency for video wallpapers in xfdesktop</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7d8c8753d935aa0cb7311785e8975482ebfe455b)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
