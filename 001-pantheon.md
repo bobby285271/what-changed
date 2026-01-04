@@ -44,6 +44,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.1.tar.xz to 3.58.2 (#871)</code>](https://github.com/elementary/calendar/commit/c204c0a7bdd7f6f6efa710df4d6ce8143ab7da6d)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calendar/commit/60aaac114e2ee4d387178eae7151673810735b0c)
 - [ ] [<code>Show Weeks: Use GLib.Menu (#870)</code>](https://github.com/elementary/calendar/commit/ef1a13e5cbb045ce4e336dd83481df7dc12fe592)
+- [ ] [<code>Switch month with PgUp/PgDown</code>](https://github.com/elementary/calendar/commit/90b313eee92ad7729f0c8cdac1be2e5e8092e17f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
