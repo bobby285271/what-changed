@@ -1439,6 +1439,9 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfdesktop/commit/1628a3927b1853ccfe6f8634b8f239241908e02a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Avoid a crash when unrefing return data from g_file_icon_get_file</code>](https://github.com/xfce-mirror/xfdesktop/commit/060b6b7cfa0940b03289c182b4010f8451ee2e2b)
+- [ ] [<code>feature(video-backdrop): Support for setting video as backdrop</code>](https://github.com/xfce-mirror/xfdesktop/commit/90a6ae3e0acbb2f29c9934358069be65dfe18f1d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
