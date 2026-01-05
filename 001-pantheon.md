@@ -547,6 +547,7 @@
 - [ ] [<code>libmutter15: use hex colors with Cogl.Color.from_string</code>](https://github.com/elementary/gala/commit/505e1f306e5312af29297b04b2bc717aa4fb64eb)
 - [ ] [<code>ShellClients: Don't declare centered windows as shell windows (#2709)</code>](https://github.com/elementary/gala/commit/e2da1bb2801d4d2f4248cce61d841f005553305d)
 - [ ] [<code>BackgroundBlurEffect: keep getting `Cogl.Context` from default `Clutter.Backend` on libmutter15+</code>](https://github.com/elementary/gala/commit/c29d6512262b3145f0cce0a58beb76778eb889f4)
+- [ ] [<code> Fix RoundedCornersEffect (#2655)</code>](https://github.com/elementary/gala/commit/79f96ad9d84ccde6f87c45681e589ddd96fc5bb6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
