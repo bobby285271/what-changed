@@ -52,8 +52,12 @@
 - [ ] [<code>menu/desktop editor: Load and save for the current language when</code>](https://github.com/linuxmint/cinnamon/commit/a692d520ce79a536e088e7aaa1aefce63d83c94b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-slideshow.py: Continue with the next background in a folder</code>](https://github.com/linuxmint/cinnamon/commit/96cab948f0c3c62603b49e3da6132e46d4dc1ffd)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon theme: use a variable for consistent window/popup border radius (#13328)</code>](https://github.com/linuxmint/cinnamon/commit/2a8f62d80ea54d5b9d86aefe475b886f8db0d364)
+- [ ] [<code>sound applet: Fix panel album art not being discarded and falling</code>](https://github.com/linuxmint/cinnamon/commit/a375617f1c56b5ebb27a4fdb8edb7de55666cb54)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix OSD fading out when updated during hide animation (#13335)</code>](https://github.com/linuxmint/cinnamon/commit/7608160de8d2de26e637dd49cce25aabe649156d)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
