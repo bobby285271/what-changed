@@ -292,6 +292,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/009d4012b5aff4ef2752db5138e4e01b3592881d)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/ce600df31ce0e111814479a28aab3443548d0750)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
@@ -390,6 +391,7 @@
 - [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/Alecaddd/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
 - [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/Alecaddd/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Actions: Do not install unnecessary bzip2</code>](https://github.com/Alecaddd/sequeler/commit/de6d817ca9bd61acd6e3e4353fa98b7c7895746e)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
