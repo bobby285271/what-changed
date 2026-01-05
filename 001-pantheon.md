@@ -93,6 +93,8 @@
 - [ ] [<code>Prepare metainfo for release v7.3.0 (#2686)</code>](https://github.com/elementary/files/commit/9aecabff3bd3bb9de568b99e40569028b5597639)
 - [ ] [<code>Show search results for current folder first (#2667)</code>](https://github.com/elementary/files/commit/68aa1666ae5567f21d82ca5bf8bcc0bc955bac66)
 - [ ] [<code>Update POTFILES (#2689)</code>](https://github.com/elementary/files/commit/e04a69854dcd20ab5cd547eac527703837f3a7e5)
+- [ ] [<code>Prepare for Files.FileChooserDialog (#2693)</code>](https://github.com/elementary/files/commit/d41258548b6931ce44731c000a5897b37f5c088f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -110,6 +112,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#178)</code>](https://github.com/elementary/maps/commit/870db0dc75c4d8ecac95d4d269ffa622249b118d)
 - [ ] [<code>l10n: Correct language code of Norwegian Bokmål</code>](https://github.com/elementary/maps/commit/030ab45a24ca979b51208c4ada2420cefc644828)
+- [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#179)</code>](https://github.com/elementary/maps/commit/47a3d81dca6d06a628eec58692e3636002274c83)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -260,6 +263,7 @@
 - [ ] [<code>Application: rely on Granite.StyleManager (#423)</code>](https://github.com/elementary/tasks/commit/b5abf31a84eb12820ea0da3246383cd336abd241)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#424)</code>](https://github.com/elementary/tasks/commit/9c1575e20a1a826b4e3124ae76dee6e7f23fe804)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
@@ -541,6 +545,8 @@
 - [ ] [<code>Gala.Text: Don't extend Clutter.Text (#2680)</code>](https://github.com/elementary/gala/commit/271eabfa7805464a6027f27301cbf62cc5f003a6)
 - [ ] [<code>Update OpenSUSE CI (#2703)</code>](https://github.com/elementary/gala/commit/129bb257edd0c1a9ca3186379949c9871e2c20b2)
 - [ ] [<code>libmutter15: use hex colors with Cogl.Color.from_string</code>](https://github.com/elementary/gala/commit/505e1f306e5312af29297b04b2bc717aa4fb64eb)
+- [ ] [<code>ShellClients: Don't declare centered windows as shell windows (#2709)</code>](https://github.com/elementary/gala/commit/e2da1bb2801d4d2f4248cce61d841f005553305d)
+- [ ] [<code>BackgroundBlurEffect: keep getting `Cogl.Context` from default `Clutter.Backend` on libmutter15+</code>](https://github.com/elementary/gala/commit/c29d6512262b3145f0cce0a58beb76778eb889f4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
