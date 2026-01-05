@@ -288,6 +288,10 @@
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/a663af44037d799181c3bbe8a1c6d718843833ba)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/3d14d32eee2a7a58f029ec73175bb12cd64d3a06)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/d4d4ebb9772522111069b7acd372cb93707451ce)
+- [ ] [<code>fix: misc bug fixes (#2169)</code>](https://github.com/alainm23/planify/commit/4b9f29d258638632502295b567fc63391b7936f8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/009d4012b5aff4ef2752db5138e4e01b3592881d)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
