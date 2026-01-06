@@ -95,6 +95,9 @@
 - [ ] [<code>Update POTFILES (#2689)</code>](https://github.com/elementary/files/commit/e04a69854dcd20ab5cd547eac527703837f3a7e5)
 - [ ] [<code>Prepare for Files.FileChooserDialog (#2693)</code>](https://github.com/elementary/files/commit/d41258548b6931ce44731c000a5897b37f5c088f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DetailsColumn: rename button to Properties and align (#2698)</code>](https://github.com/elementary/files/commit/e77b37028938701fc58da1cd7d153710732e09f9)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/e9b2452f8353745f7b7bb2a995b436ab25219e45)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/ef7e710ad23b40a3ba9a013db5a710c39af7bb63)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -548,6 +551,9 @@
 - [ ] [<code>ShellClients: Don't declare centered windows as shell windows (#2709)</code>](https://github.com/elementary/gala/commit/e2da1bb2801d4d2f4248cce61d841f005553305d)
 - [ ] [<code>BackgroundBlurEffect: keep getting `Cogl.Context` from default `Clutter.Backend` on libmutter15+</code>](https://github.com/elementary/gala/commit/c29d6512262b3145f0cce0a58beb76778eb889f4)
 - [ ] [<code> Fix RoundedCornersEffect (#2655)</code>](https://github.com/elementary/gala/commit/79f96ad9d84ccde6f87c45681e589ddd96fc5bb6)
+- [ ] [<code>Meson: target newer glib</code>](https://github.com/elementary/gala/commit/2c3bd9cf8fb137ff78af99730996d659cc9d52a9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Workaround dock/537 (#2712)</code>](https://github.com/elementary/gala/commit/8fb60a9c9b04245913733208df1c061d6c353a35)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
