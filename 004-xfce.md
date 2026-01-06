@@ -1203,6 +1203,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/f6080bea79f9dcaba6fde5ab8b72bd675355bd6e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>portals: Add gnome-keyring as Secret provider</code>](https://github.com/xfce-mirror/xfce4-session/commit/e8f88257fc2e6d6a77ed07f33f8aebda32d8f2b0)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
