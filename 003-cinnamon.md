@@ -73,8 +73,12 @@
 - [ ] [<code>cs_default: Fix localization in removable_media_defs</code>](https://github.com/linuxmint/cinnamon/commit/111cbf8e4d5136b5654d567ffb0bf096a5de6e50)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/8ee92487238b031b1083b9e78dc071cdad1ba2fa)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Fix input method key event handling (#13317)</code>](https://github.com/linuxmint/cinnamon/commit/640dad661f94728adb941055c9f256b37660b669)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>placesManager.js: Add mounts with no associated volume. (#13325)</code>](https://github.com/linuxmint/cinnamon/commit/7741ae13652a5fbc73b560e99db9391cb0bdfd99)
+- [ ] [<code>osk: Restore control and Alt keys (#13337)</code>](https://github.com/linuxmint/cinnamon/commit/321506a5b03aff5cf7a6a202de59eae3472557db)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -141,6 +145,7 @@
 - [ ] [<code>nemo-blank-desktop-window.c: Fix potential crash when actions</code>](https://github.com/linuxmint/nemo/commit/1c2089741179ef61f19094dc2ccc4fa3a5379403)
 - [ ] [<code>nemo-blank-desktop-window.c: Make sure there's a menu available</code>](https://github.com/linuxmint/nemo/commit/8dbeb05a152fe8861236a566ea0e0d6c1d656573)
 - [ ] [<code>search: Restore implied 'AND' behavior in non-regex file match mode (#3659)</code>](https://github.com/linuxmint/nemo/commit/7c501f16bf8938814959f62b99b29d9c74211551)
+- [ ] [<code>nemo-places-sidebar.c: Restore visibility of mounts with no (#3670)</code>](https://github.com/linuxmint/nemo/commit/4c4acb24a696a6ec8b1de1f39a5f5d5b53f49f42)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -216,12 +221,5 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.9 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.9...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.7 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.7...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
 
-- [ ] [<code>Use nicer style for power profile icons (#15)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b1308a00602061ffe192f3058e1d7d42d1ea2e92)
-- [ ] [<code>Add xsi-network-wireless-signal-*-secure icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/46d744afacee37f661a24ac7fe48f29138f79af5)
-- [ ] [<code>Fix filename in list-missing-icons.py</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/9481ca2c34110a22bf29251c8ace7c3d3b9c3926)
-- [ ] [<code>battery: Add 100-charging in addition to 100-charged</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/48d3c0bf32b4d6f90dbf410da8cbe33ae3b1c974)
-- [ ] [<code>1.0.8</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/efdb174161b11a0ab639e67ae453eb9ed9dfdce0)
-  - <sub>Tags: <code>1.0.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
