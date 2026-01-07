@@ -98,6 +98,11 @@
 - [ ] [<code>DetailsColumn: rename button to Properties and align (#2698)</code>](https://github.com/elementary/files/commit/e77b37028938701fc58da1cd7d153710732e09f9)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/e9b2452f8353745f7b7bb2a995b436ab25219e45)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/ef7e710ad23b40a3ba9a013db5a710c39af7bb63)
+- [ ] [<code>DetailsColumn: cleanups, use FileIcon (#2701)</code>](https://github.com/elementary/files/commit/81956ee8a284a2302dc6babaa6b83a6f70640561)
+- [ ] [<code>GSchema: default file preview to true (#2700)</code>](https://github.com/elementary/files/commit/681e5e6dca69d1cea128b01aff36787ede1dd141)
+- [ ] [<code>Prepare for Files.FileChooserWidget (#2694)</code>](https://github.com/elementary/files/commit/42c23b79284c7ec2551386978eb85d3fa2e9a9dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Do not show overlaybar on top of file detail column (#2704)</code>](https://github.com/elementary/files/commit/d7f1541784de0a66810ff95535be944b703371b7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -508,6 +513,11 @@
 - [ ] [<code>Add support for Mutter 49</code>](https://github.com/elementary/greeter/commit/3b82e4000b5f28f3bb4079291f8d441f3991e11a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>ShellClientsManager: centered windows are not always shell windows (#851)</code>](https://github.com/elementary/greeter/commit/9808eb942e50966f7b4d6cd256d581f9b28e4f70)
+- [ ] [<code>Add release notes for version 8.1.2 (#852)</code>](https://github.com/elementary/greeter/commit/ce3c64759cd47512b7bac40d8f76066660c502a5)
+- [ ] [<code>Release 8.1.2 (#853)</code>](https://github.com/elementary/greeter/commit/a9e5386c0ec07a1c4b885a5db4f68c216aa5e39c)
+  - <sub>Tags: <code>8.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
