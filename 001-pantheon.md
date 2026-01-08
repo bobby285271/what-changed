@@ -518,6 +518,7 @@
 - [ ] [<code>Release 8.1.2 (#853)</code>](https://github.com/elementary/greeter/commit/a9e5386c0ec07a1c4b885a5db4f68c216aa5e39c)
   - <sub>Tags: <code>8.1.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>libmutter15+: use hex colors when calling `Cogl.Color.from_string ()`</code>](https://github.com/elementary/greeter/commit/8a82cb832e7741d32aa5108ca1961f05a236667d)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
