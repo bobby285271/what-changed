@@ -1312,6 +1312,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/58c83e0cb1dd02b7f9f010a4aef867b4a593f4a9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>x11: display-settings: Fall back to output name when EDID is duplicated</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e84b0e78f1cccb781c9025001188c0b7144d000c)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -1443,6 +1444,7 @@
 - [ ] [<code>feature(video-backdrop): Support for setting video as backdrop</code>](https://github.com/xfce-mirror/xfdesktop/commit/90a6ae3e0acbb2f29c9934358069be65dfe18f1d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/7d5c78f7586caa45aa24f2687c7db87e1315b4dd)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
