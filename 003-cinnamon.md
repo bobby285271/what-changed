@@ -78,7 +78,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>placesManager.js: Add mounts with no associated volume. (#13325)</code>](https://github.com/linuxmint/cinnamon/commit/7741ae13652a5fbc73b560e99db9391cb0bdfd99)
 - [ ] [<code>osk: Restore control and Alt keys (#13337)</code>](https://github.com/linuxmint/cinnamon/commit/321506a5b03aff5cf7a6a202de59eae3472557db)
+- [ ] [<code>wrong app id in calc search provider example (#13249)</code>](https://github.com/linuxmint/cinnamon/commit/ee43cc40496144f950f286a9a3dcd32a7163d617)
+- [ ] [<code>KeybindingWidgets.py: Fix keybinding teaching in wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/8b251d3a34f6440e612f10804189e6afe1ec6bf3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_keyboard: Add an XKB options page. (#13343)</code>](https://github.com/linuxmint/cinnamon/commit/87a94c63a5f44b5c2b9c7762a619713b4b54ae0d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/87276593a1acc76d1b68639245f63725043d0213)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -87,6 +94,7 @@
 
 - [ ] [<code>gnome-xkb-info.c: Add to existing option group when scanning extras,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/10934dbba0c48a14454da6e6bf70ffcca3930508)
 - [ ] [<code>gnome-xkb-info: Don't rely on gsettings to return the full set</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2bb17da29ebfc2f94d5a975583c85670e04b6ca6)
+- [ ] [<code>gnome-xkb-info: Expose 'allows_multiple_selection'.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/442b45e101f4a59b5344c0b09480d0a9dc80a1dd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -127,7 +135,8 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.6...HEAD)
 
 - [ ] [<code>Mint-Y cinnamon: window-list applet set fixed notification badge font size (#527)</code>](https://github.com/linuxmint/mint-themes/commit/2ef7eeb11a8dfc6d5c99f9a1e9cef5ac5f8b94cc)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.3.7</code>](https://github.com/linuxmint/mint-themes/commit/2678fee0f8200df212561567d26139e17366f1dc)
+  - <sub>Tags: <code>2.3.7</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -168,6 +177,10 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.1...HEAD)
 
+- [ ] [<code>Fix window icon name (#696)</code>](https://github.com/linuxmint/xreader/commit/f9d291657fe30b62f4b4618f204d8ac64cc17a34)
+- [ ] [<code>4.6.2</code>](https://github.com/linuxmint/xreader/commit/060a28ee28c5b278774aa18e241252a420c21270)
+  - <sub>Tags: <code>4.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.15 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.15...HEAD)
 
@@ -207,12 +220,16 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update AppConsole.vala (#490)</code>](https://github.com/linuxmint/timeshift/commit/0d4b5d2b866bfd490b73e50764cc8386e89054b0)
 - [ ] [<code>Main.vala: Fix a warning and don't update config file when exiting</code>](https://github.com/linuxmint/timeshift/commit/a4559ab13b09a7f8d9521505e50a9a967b95e0dd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>25.12.3</code>](https://github.com/linuxmint/timeshift/commit/dd919cee46d4a31aae98ba881fec231c55fe923e)
+  - <sub>Tags: <code>25.12.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.7 → HEAD](https://github.com/linuxmint/xed/compare/3.8.7...HEAD)
 
 - [ ] [<code>Lighten xed theme right-margin line to improve visibility (#714)</code>](https://github.com/linuxmint/xed/commit/ca2da0ef354be70428dfe5debe67aa246a7802ed)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.8.8</code>](https://github.com/linuxmint/xed/commit/49907fb26a1dec67739ac8fb0f88f33c16b0c866)
+  - <sub>Tags: <code>3.8.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
