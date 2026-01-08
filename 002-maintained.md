@@ -298,6 +298,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/dc7222e64f47c549b2f4f7cf7e41dcc4fffe989b)
 - [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/9152933da6ea275e25d535f5992b683833a203dd)
+- [ ] [<code>Update translation metrics</code>](https://github.com/alainm23/planify/commit/2d065796fff6c707f9f9f037f59ec1727554cdfc)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
