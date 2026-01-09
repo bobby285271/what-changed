@@ -2,16 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.0 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.0...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/0c74be97f562dd6400c75553e252dd5f9f3561f6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/e3bb0dd1f7fe61c83ba1a87b808289ed97fc31bc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.1</code>](https://github.com/linuxmint/bulky/commit/590b0c1512d2e219a0c2635791003e2e7d933774)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/8e1e1d3d6104bf2150e55bf0a5970b2c3e0264cd)
-- [ ] [<code>4.2</code>](https://github.com/linuxmint/bulky/commit/13bbd3fdfd11659747b2c05666ca9b9814e5f20e)
-  - <sub>Tags: <code>4.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.3...HEAD)
 
@@ -243,12 +235,8 @@
 - [ ] [<code>5.6</code>](https://github.com/linuxmint/hypnotix/commit/83bc4c243a3bddb6472da8fed26101fcaff37392)
   - <sub>Tags: <code>5.6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.5 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.5...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.6 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/1cf0a9952947f5ebd0699440b7c96067d24a45ee)
-- [ ] [<code>2.2.6</code>](https://github.com/linuxmint/slick-greeter/commit/d1f81b4406d5a756d2274c3dbbbd39bd1bd0f6d4)
-  - <sub>Tags: <code>2.2.6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.29 → HEAD](https://github.com/linuxmint/sticky/compare/1.29...HEAD)
 
@@ -277,12 +265,8 @@
 
 ## xapp-project
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.9 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.9...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/97708e292836be6cda1e51f2f485dda75ad97e47)
-- [ ] [<code>3.50.10</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/b42482522bc9089c139ceda9b8a7d81a7a149cf9)
-  - <sub>Tags: <code>3.50.10</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
 
