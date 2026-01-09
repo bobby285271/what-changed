@@ -1053,6 +1053,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>arrow-fix: Restoring the button size after the arrow disappears</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aa2ec9b1f8bc052c7ea2fd42edd9e2c5ffbd24a5)
 - [ ] [<code>windowmenu: Add new style type "Text"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ac2a02f5a7deddab399050f02e4b54837d92ff13)
+- [ ] [<code>wayland: Handle null workspace group list when a group is destroyed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41abfb0b1f9929c905297d05f0ff1a2e3449b59e)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1313,6 +1314,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-settings/commit/58c83e0cb1dd02b7f9f010a4aef867b4a593f4a9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>x11: display-settings: Fall back to output name when EDID is duplicated</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e84b0e78f1cccb781c9025001188c0b7144d000c)
+- [ ] [<code>x11: displays: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/67949a16ceec0e6478341f23f2bcb87eb3c33298)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
