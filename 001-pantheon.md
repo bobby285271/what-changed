@@ -110,6 +110,7 @@
 - [ ] [<code>Move some dialogs into View/Dialogs</code>](https://github.com/elementary/files/commit/c05673c9768c2fc6cacb258c3490fc13b7be0bb4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>po: Fix POTFILES</code>](https://github.com/elementary/files/commit/00c9b7552297a2d3193d3b7f7beb38cd5a8beda7)
+- [ ] [<code>AbstractDirectoryView: Simplify the handling of open-in action (#2707)</code>](https://github.com/elementary/files/commit/43d308edd16b66a5b72caa56158b6ae4b48d131c)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
