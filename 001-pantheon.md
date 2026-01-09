@@ -70,6 +70,7 @@
 - [ ] [<code>CSS: add active style for icongroup (#534)</code>](https://github.com/elementary/dock/commit/8f4af74019847f373c87ef38d9ddabb33fda3024)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Launcher: Release the second running indicator when needed (#538)</code>](https://github.com/elementary/dock/commit/937ef8d94843f5e56ec5351e94b044d5a3163860)
+- [ ] [<code>GSchema: remove multitasking from defaults (#561)</code>](https://github.com/elementary/dock/commit/01d3ae8a283286be525239ba9788b12ca19d5293)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -104,6 +105,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Do not show overlaybar on top of file detail column (#2704)</code>](https://github.com/elementary/files/commit/d7f1541784de0a66810ff95535be944b703371b7)
 - [ ] [<code>Launcher: add icon names to app actions (#2706)</code>](https://github.com/elementary/files/commit/e9fa471d92ef44203bec87502425092ca7c2da66)
+- [ ] [<code>Move some sidebar widgets into View/Sidebar</code>](https://github.com/elementary/files/commit/9da3142862d2fd295cc02f27ea2f20e5c9805505)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move some dialogs into View/Dialogs</code>](https://github.com/elementary/files/commit/c05673c9768c2fc6cacb258c3490fc13b7be0bb4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>po: Fix POTFILES</code>](https://github.com/elementary/files/commit/00c9b7552297a2d3193d3b7f7beb38cd5a8beda7)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -307,6 +313,7 @@
 - [ ] [<code>Remove "Show Search Bar" menu item from context menu (#967)</code>](https://github.com/elementary/terminal/commit/e1b54a3421808f8c2197742ea6f966ba59b2a569)
 - [ ] [<code>Move open in browser action to TerminalWidget (#966)</code>](https://github.com/elementary/terminal/commit/6161ac4fecc44745aaa95dbb32defc185bfff112)
 - [ ] [<code>Move context menu initialization to TerminalWidget (#968)</code>](https://github.com/elementary/terminal/commit/32d5facee85492616afff23d659691faf7223148)
+- [ ] [<code>Launcher: add icon names to app actions</code>](https://github.com/elementary/terminal/commit/6dd26f424b2f670524fbe5ac3df22d6eaeb74aa3)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
