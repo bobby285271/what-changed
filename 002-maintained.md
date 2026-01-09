@@ -260,6 +260,8 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.3 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.3...HEAD)
 
+- [ ] [<code>Fixing issue with updating font UI in style sidebar.</code>](https://github.com/phase1geo/minder/commit/1267e353ddae94ac0102af5252b77a169be152ce)
+- [ ] [<code>Fixing several issues with closing sidebar with Escape key.</code>](https://github.com/phase1geo/minder/commit/b8eb3d94c700555849d3df491a706b6e6502ee8a)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
