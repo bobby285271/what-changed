@@ -1205,6 +1205,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/f6080bea79f9dcaba6fde5ab8b72bd675355bd6e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>portals: Add gnome-keyring as Secret provider</code>](https://github.com/xfce-mirror/xfce4-session/commit/e8f88257fc2e6d6a77ed07f33f8aebda32d8f2b0)
+- [ ] [<code>startxfce4: Add support for OpenBSD to kbd layout detection on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/45c4a691bccb4cfce524a382b89339eac8d1fe60)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
