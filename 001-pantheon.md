@@ -103,6 +103,7 @@
 - [ ] [<code>Prepare for Files.FileChooserWidget (#2694)</code>](https://github.com/elementary/files/commit/42c23b79284c7ec2551386978eb85d3fa2e9a9dc)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Do not show overlaybar on top of file detail column (#2704)</code>](https://github.com/elementary/files/commit/d7f1541784de0a66810ff95535be944b703371b7)
+- [ ] [<code>Launcher: add icon names to app actions (#2706)</code>](https://github.com/elementary/files/commit/e9fa471d92ef44203bec87502425092ca7c2da66)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -356,6 +357,9 @@
 - [ ] [<code>meson: Fix warnings (#272)</code>](https://github.com/elementary/settings-applications/commit/b4e7c29649c3e6ab1d25751f1274acdd47c3b885)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Introduce own AppChooserButton instead of deprecated Gtk.AppChooserButton (#269)</code>](https://github.com/elementary/settings-applications/commit/c384de181899949722b17d76ef602fc30c807968)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -420,6 +424,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#466)</code>](https://github.com/elementary/settings-desktop/commit/49964940202d808b630d7ac91ac9fd7d924ba285)
+- [ ] [<code>Appearance: Support Latte (#456)</code>](https://github.com/elementary/settings-desktop/commit/7d38f0887ade29e62f2d96e8c765bcdd65fd1dc1)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -508,21 +513,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.1...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.2...HEAD)
 
-- [ ] [<code>Add support for Mutter 49</code>](https://github.com/elementary/greeter/commit/3b82e4000b5f28f3bb4079291f8d441f3991e11a)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
-- [ ] [<code>ShellClientsManager: centered windows are not always shell windows (#851)</code>](https://github.com/elementary/greeter/commit/9808eb942e50966f7b4d6cd256d581f9b28e4f70)
-- [ ] [<code>Add release notes for version 8.1.2 (#852)</code>](https://github.com/elementary/greeter/commit/ce3c64759cd47512b7bac40d8f76066660c502a5)
-- [ ] [<code>Release 8.1.2 (#853)</code>](https://github.com/elementary/greeter/commit/a9e5386c0ec07a1c4b885a5db4f68c216aa5e39c)
-  - <sub>Tags: <code>8.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>libmutter15+: use hex colors when calling `Cogl.Color.from_string ()`</code>](https://github.com/elementary/greeter/commit/8a82cb832e7741d32aa5108ca1961f05a236667d)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
 - [ ] [<code>Application: rely on Granite.StyleManager (#271)</code>](https://github.com/elementary/onboarding/commit/3f7aee3ab0814560bd63bf140b1d35eeadda30bd)
+- [ ] [<code>StyleView: Support Latte (#261)</code>](https://github.com/elementary/onboarding/commit/dad9715400b1ffd9d827cef5514ec49d398b1e0c)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -565,6 +563,17 @@
 - [ ] [<code>Meson: target newer glib</code>](https://github.com/elementary/gala/commit/2c3bd9cf8fb137ff78af99730996d659cc9d52a9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Workaround dock/537 (#2712)</code>](https://github.com/elementary/gala/commit/8fb60a9c9b04245913733208df1c061d6c353a35)
+- [ ] [<code>ModalGroup: Blur background (#2715)</code>](https://github.com/elementary/gala/commit/6f27cbaeecaa2a5a734ed606f7ec9e35473357fe)
+- [ ] [<code>Use ClickGesture instead of ClickAction for MUTTER49</code>](https://github.com/elementary/gala/commit/2b3fd2f44e0363f65c0f7c06d5778690125838dd)
+- [ ] [<code>TouchpadBackend: Use source device instead of device for device type</code>](https://github.com/elementary/gala/commit/e77a01f3bc45ed6e66d4ea6e45b6d688bae12595)
+- [ ] [<code>DragDropAction: Use source device instead of device</code>](https://github.com/elementary/gala/commit/3fd0a16172a766502b9afc586d0192bd4e10962b)
+- [ ] [<code>WindowManager: Don't provide device to grab op</code>](https://github.com/elementary/gala/commit/7828e5638808ecdb16d873cf5d11f9d318164c35)
+- [ ] [<code>Update vapi for Mutter49</code>](https://github.com/elementary/gala/commit/90938aa0dda688b0be388463a45e3a348c3f8e5a)
+- [ ] [<code>Use `Clutter.PanGesture` for Mutter49</code>](https://github.com/elementary/gala/commit/98f0891b018a736f1d1b42bf9c40b7b1572e6459)
+- [ ] [<code>WindowClone: add missing cast</code>](https://github.com/elementary/gala/commit/9a7b0f9a5464ef684610c67f46d09453dba64f8e)
+- [ ] [<code>WorkspaceClone: Use `Clutter.ClickGesture` for Mutter49</code>](https://github.com/elementary/gala/commit/e90f92a6c6c8d315badf674e1ea3aebe81100df1)
+- [ ] [<code>BackgroundBlurEffect: fix getting layout</code>](https://github.com/elementary/gala/commit/05b2e5dc8ddf533172d829dc23e337854570a666)
+- [ ] [<code>BackgroundBlurEffect: fix an oopsie</code>](https://github.com/elementary/gala/commit/59c2f983b24f1cc70c2785b2b440481b459d4774)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -730,6 +739,7 @@
 
 - [ ] [<code>l10n: Correct Chinese language codes (#137)</code>](https://github.com/elementary/quick-settings/commit/8629df7147666391396f09b3a50f424e12898d20)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/quick-settings/commit/5ff39cd1a5af298428ada1ea59648672fa803aab)
+- [ ] [<code>EndSessionDialog: use modal shell protocol (#141)</code>](https://github.com/elementary/quick-settings/commit/c34d6f1bc53a50cf829ac5a6dd3d375251050ab3)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
