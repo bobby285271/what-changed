@@ -315,104 +315,24 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d03b0b90449c64395e0a89583d7813b9b104d465)
 - [ ] [<code>Fix segfault if year < 1000 (#2184)</code>](https://github.com/alainm23/planify/commit/0389129a4256f0e3dbe6c30bd8548b7d93df0156)
 
-#### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
+#### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
-- [ ] [<code>Update libgda-5.0.vapi (#343)</code>](https://github.com/Alecaddd/sequeler/commit/0b02ddbe8a788b34207de6296d78a5c71ab6bab1)
-- [ ] [<code>Sort table list alphabetically (#373)</code>](https://github.com/Alecaddd/sequeler/commit/dbda4e75ed5a2f2d962003d7df5513ee9e5584ef)
-- [ ] [<code>Granite version should be >=5.3.0 #346 (#367)</code>](https://github.com/Alecaddd/sequeler/commit/b83f9c1f30d52507bc3e11a0d72cf716fafb2539)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Flatpak: Update libaio to 0.3.113 and use HTTPS (#391)</code>](https://github.com/Alecaddd/sequeler/commit/664c100d69a0b79b9ac50b427b883f7b520b3b47)
-- [ ] [<code>Remove Travis in favor of GitHub Actions (#392)</code>](https://github.com/Alecaddd/sequeler/commit/0dad2342db8b00ca67faa0f72ced909fc6d88394)
-- [ ] [<code>l10n: Setup locales correctly (#393)</code>](https://github.com/Alecaddd/sequeler/commit/cee907446d2329bd3b982ba0e8b43ced821a28cd)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Update actions/checkout to v4 (#394)</code>](https://github.com/Alecaddd/sequeler/commit/a29d4d8583700670a4d32d0435af14b0f639f997)
-- [ ] [<code>Port to GtkSourceView 4 (#395)</code>](https://github.com/Alecaddd/sequeler/commit/a133eb879811c1ea5882aa7560d31519b15e204e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix Flatpak build (#396)</code>](https://github.com/Alecaddd/sequeler/commit/f30b30494f23c2317e73ca2249d012d670966a3c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix deprecated top-level developer_name in AppData XML (#387)</code>](https://github.com/Alecaddd/sequeler/commit/3ab007c15bac9caaadb8a92f072fa53425f48818)
-- [ ] [<code>Actions: Avoid duplicated CI and linter builds (#398)</code>](https://github.com/Alecaddd/sequeler/commit/178641b187b6da325f503ccbe94e7d1b12feadf4)
-- [ ] [<code>Improve Metainfo (#397)</code>](https://github.com/Alecaddd/sequeler/commit/694b67ca9d90446c82d518af208de1b289e852bf)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>README: Update build status badge (#400)</code>](https://github.com/Alecaddd/sequeler/commit/dd4247ac7364c887ed13f41181bb93c22f549d93)
-- [ ] [<code>Flatpak: Bump Platform to 8.2 (#402)</code>](https://github.com/Alecaddd/sequeler/commit/8fbdaf5400f58a21ff003420cb27529153e64ed7)
-- [ ] [<code>Sync with system color scheme instead of ModeSwitch (#403)</code>](https://github.com/Alecaddd/sequeler/commit/82cb64cd395fb37845d879c4395d908e5257385c)
-- [ ] [<code>l10n: Correct Chinese language codes (#404)</code>](https://github.com/Alecaddd/sequeler/commit/8121ae85b61eaf383d6ce37a8764411065bdb037)
-- [ ] [<code>Re-RDNN to io.github.ellie_commons.sequeler (#405)</code>](https://github.com/Alecaddd/sequeler/commit/4329292f333c61153018a551005b1ba484a5c4c6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Flatpak: Update GNOME platform to 49</code>](https://github.com/Alecaddd/sequeler/commit/5f8eca419c0f666bf30782bb7b7440741b80c1aa)
-- [ ] [<code>Flatpak: Update elementary BaseApp to circe-25.08</code>](https://github.com/Alecaddd/sequeler/commit/ae79b8bc346ca6c5c58896910f075992d7daf6cf)
-- [ ] [<code>Flatpak: Update postgresql to 13.23</code>](https://github.com/Alecaddd/sequeler/commit/bc78d8e0ce5bcc786a801da214bdda2abefd5386)
-- [ ] [<code>Flatpak: Update mariadb to 10.11.15</code>](https://github.com/Alecaddd/sequeler/commit/4deeccad6d8723241003c92d785c31139baa9944)
-- [ ] [<code>Flatpak: libgda: Explicit parameters in function declaration</code>](https://github.com/Alecaddd/sequeler/commit/e98a548fe672e3f24dad8424a3961a9593f6ab61)
-- [ ] [<code>Flatpak: libgda: Disable libgdaui that we don't use in Sequeler</code>](https://github.com/Alecaddd/sequeler/commit/d61e2014e7b6d24fd2d009ee3695ddd91dc8ab5d)
-- [ ] [<code>Update CI</code>](https://github.com/Alecaddd/sequeler/commit/3e723b8b90579fed2cf7fa492e4551a48f122366)
-- [ ] [<code>appdata: Use fixed version screenshots (#408)</code>](https://github.com/Alecaddd/sequeler/commit/547e08276ad2936d7f2a9850ffd1d8bedba5a09c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Cleanup CI (#409)</code>](https://github.com/Alecaddd/sequeler/commit/099b3d0834e92ec5e608723bca7ebb91e573c400)
-- [ ] [<code>Modernize .desktop file (#410)</code>](https://github.com/Alecaddd/sequeler/commit/903c592f4d9eb244779d8e1d63beff8a92ecf1a3)
-- [ ] [<code>Modernize .metainfo file (#411)</code>](https://github.com/Alecaddd/sequeler/commit/8346c4d73aa7de24a6f6a59b9047d20482373315)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Replace deprecated source_root with project_source_root (#412)</code>](https://github.com/Alecaddd/sequeler/commit/74e797830e58d8b4e3c24b1096e74e9892add87e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Actions: Add Gettext</code>](https://github.com/Alecaddd/sequeler/commit/d99ed2078c85fc0d72cac3767f3d564fdf4fa782)
-- [ ] [<code>Actions: Gettext: Install bzip2</code>](https://github.com/Alecaddd/sequeler/commit/0183a00eec44c2698e20881c38328fe801c7fc0f)
-- [ ] [<code>Actions: Gettext: Do not run evey push</code>](https://github.com/Alecaddd/sequeler/commit/4326e90a224028706fdbb47e1e36b2e24b6cd5b9)
-- [ ] [<code>Actions: Rename to weekly</code>](https://github.com/Alecaddd/sequeler/commit/18af222a6ec69034bea7973b06b51de6a09b3b41)
-- [ ] [<code>Actions: Leave comment why weekly</code>](https://github.com/Alecaddd/sequeler/commit/865daa5dfa4f75114bde95e6a2980366df54bb76)
-- [ ] [<code>Actions: Update translation files monthly instead of weekly</code>](https://github.com/Alecaddd/sequeler/commit/1c33951ce613f53aa68aadfc4ffede0bc57b9697)
-- [ ] [<code>Actions: Add dependabot</code>](https://github.com/Alecaddd/sequeler/commit/9f65b45d68345cab6c5cb028dd9f6a4023b97d67)
-- [ ] [<code>Actions: Fix forgetting to update actual schedule</code>](https://github.com/Alecaddd/sequeler/commit/78f6c917b0dc567ec9176ea8b3078b3d09cd037f)
-- [ ] [<code>Flatpak: Update jemalloc to 5.3.0</code>](https://github.com/Alecaddd/sequeler/commit/c67ab6b05f9aa1e6a0c4ccb0439690a462a1437a)
-- [ ] [<code>Flatpak: Update fmt to 12.1.0</code>](https://github.com/Alecaddd/sequeler/commit/984e1240857a481a552133edafa22f1266d71cab)
-- [ ] [<code>Flatpak: Update libssh2 to 1.11.1</code>](https://github.com/Alecaddd/sequeler/commit/f1213b5b3eea1d0c178df29526c568baa4f89f7d)
-- [ ] [<code>Flatpak: Update libfixposix to 0.5.1</code>](https://github.com/Alecaddd/sequeler/commit/e5aef15e78ffee0e80d835dae7a3478d648cdb23)
-- [ ] [<code>Flatpak: Update postgresql to 18.1</code>](https://github.com/Alecaddd/sequeler/commit/87bef6eae544d9b6d5fa960540da39a5d6a7f7dd)
-- [ ] [<code>Flatpak: Update mariadb to 12.2.1</code>](https://github.com/Alecaddd/sequeler/commit/82cc90061866b9ac62785381b1545b4426537875)
-- [ ] [<code>Flatpak: mariadb: Disable SBOM</code>](https://github.com/Alecaddd/sequeler/commit/72c249d712e395e3d4194289dd6e56c1d382fbe1)
-- [ ] [<code>Actions: Rename to what it actually is</code>](https://github.com/Alecaddd/sequeler/commit/b707f3f5607adba5c1dc85440a5c1f9df109d154)
-- [ ] [<code>Flatpak: Use External Data Checker (#414)</code>](https://github.com/Alecaddd/sequeler/commit/9d1cc09bd835886c14d4d561c65e836ea42cddeb)
-- [ ] [<code>Flatpak: JSON to YAML (#415)</code>](https://github.com/Alecaddd/sequeler/commit/88708d31aea1a1b85cad7ad4b726cac3e82a9970)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Re-RDNN development build for consistency (#416)</code>](https://github.com/Alecaddd/sequeler/commit/3f5ecbef1932f327c8d1a929eeabbf0d41fcf86c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Use correct icon for current profile (#418)</code>](https://github.com/Alecaddd/sequeler/commit/85f9b02f019bf26247f0c912abd153763c6366d4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Flatpak: Do not cleanup /lib/debug</code>](https://github.com/Alecaddd/sequeler/commit/23d241cae874bc1f6e8d750b3df122065c8d9f55)
-- [ ] [<code>Add option to disable installing the sized app icon (#422)</code>](https://github.com/Alecaddd/sequeler/commit/f73eb5bb179e35637d8d868fdc1d19ea7e759b41)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Allow selecting public key (#421)</code>](https://github.com/Alecaddd/sequeler/commit/23da8541257556ad26c35aefb8b9bf6cd59461e1)
-- [ ] [<code>Move schemas to data dir (#429)</code>](https://github.com/Alecaddd/sequeler/commit/2d06a65ef430a67b8f15d887e78c7c21814c9421)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Use gnome module instead of own python script (#428)</code>](https://github.com/Alecaddd/sequeler/commit/a875aa9efca1551e298250b4c5d416d94bed46b0)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Remove libsecret-1.vapi (#427)</code>](https://github.com/Alecaddd/sequeler/commit/88eee3761b70373284b067e85f77079e1f0d5c66)
-- [ ] [<code>metainfo: Add 0.9.0 release notes (#425)</code>](https://github.com/Alecaddd/sequeler/commit/b97dd08f6972211e517bc613a1322886ad5ea4b4)
-- [ ] [<code>metainfo: Improve 0.9.0 release notes (#430)</code>](https://github.com/Alecaddd/sequeler/commit/b20e4dbce50b9deedf7ac1c18a548205eef77720)
-- [ ] [<code>metainfo: Remove duplicated description</code>](https://github.com/Alecaddd/sequeler/commit/b5c3fd49c2d9c450c3a16ad5fe314d566064d013)
-- [ ] [<code>Release 0.9.0 (#426)</code>](https://github.com/Alecaddd/sequeler/commit/9963fb45a4d8415d9e4a9ba041e133d7b8de25b9)
-  - <sub>Tags: <code>v0.9.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Flatpak: jemalloc: Use .tar.gz instead of .tar.bz2 that requires bzip2 (#432)</code>](https://github.com/Alecaddd/sequeler/commit/7677c1b95577fdad3132273e033858969b24e17f)
+- [ ] [<code>Flatpak: jemalloc: Use .tar.gz instead of .tar.bz2 that requires bzip2 (#432)</code>](https://github.com/ellie-commons/sequeler/commit/7677c1b95577fdad3132273e033858969b24e17f)
   - <sub>Tags: <code>v0.9.0-1</code></sub>
-- [ ] [<code>Remove unnecessary --socket=ssh-auth permission (#433)</code>](https://github.com/Alecaddd/sequeler/commit/eb07311e15318eddacd5f5c1a7930576d7dbe8e0)
-- [ ] [<code>README: Update Flathub badge</code>](https://github.com/Alecaddd/sequeler/commit/3b4131775ea95cfecee7d4a3a4272831a9c1a203)
-- [ ] [<code>libaio: Remove dead cflags for i386</code>](https://github.com/Alecaddd/sequeler/commit/365211cd4a9bfce34cc1091bcbe0d11ccdefa3cc)
-- [ ] [<code>libaio: Don't use debian archives</code>](https://github.com/Alecaddd/sequeler/commit/4a8e7ea45b04be71b5e8116430a7913357c39607)
-- [ ] [<code>intltool: Use shared-modules</code>](https://github.com/Alecaddd/sequeler/commit/1628c7658008f491fc080ee3df4b602bde56e3a3)
-- [ ] [<code>Application: Force elementary stylesheet to prevent broken UI on other DEs</code>](https://github.com/Alecaddd/sequeler/commit/88f0728e227d7e271bbb417b6d3e5f0ef22553b3)
-- [ ] [<code>Remove trailing slash of directories</code>](https://github.com/Alecaddd/sequeler/commit/c2f670fd0a0f5d6b54ba85f72da2b25066d699b9)
+- [ ] [<code>Remove unnecessary --socket=ssh-auth permission (#433)</code>](https://github.com/ellie-commons/sequeler/commit/eb07311e15318eddacd5f5c1a7930576d7dbe8e0)
+- [ ] [<code>README: Update Flathub badge</code>](https://github.com/ellie-commons/sequeler/commit/3b4131775ea95cfecee7d4a3a4272831a9c1a203)
+- [ ] [<code>libaio: Remove dead cflags for i386</code>](https://github.com/ellie-commons/sequeler/commit/365211cd4a9bfce34cc1091bcbe0d11ccdefa3cc)
+- [ ] [<code>libaio: Don't use debian archives</code>](https://github.com/ellie-commons/sequeler/commit/4a8e7ea45b04be71b5e8116430a7913357c39607)
+- [ ] [<code>intltool: Use shared-modules</code>](https://github.com/ellie-commons/sequeler/commit/1628c7658008f491fc080ee3df4b602bde56e3a3)
+- [ ] [<code>Application: Force elementary stylesheet to prevent broken UI on other DEs</code>](https://github.com/ellie-commons/sequeler/commit/88f0728e227d7e271bbb417b6d3e5f0ef22553b3)
+- [ ] [<code>Remove trailing slash of directories</code>](https://github.com/ellie-commons/sequeler/commit/c2f670fd0a0f5d6b54ba85f72da2b25066d699b9)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove unnecesarry libdir build option for Flathub builds</code>](https://github.com/Alecaddd/sequeler/commit/11c684a8cc012b7ba4c0a9fba5f65f7c92187f4d)
-- [ ] [<code>Actions: Checkout submodules too</code>](https://github.com/Alecaddd/sequeler/commit/176d78944b456626a82a202502e69ba7aa78f2b7)
-- [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/Alecaddd/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
-- [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/Alecaddd/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
+- [ ] [<code>Remove unnecesarry libdir build option for Flathub builds</code>](https://github.com/ellie-commons/sequeler/commit/11c684a8cc012b7ba4c0a9fba5f65f7c92187f4d)
+- [ ] [<code>Actions: Checkout submodules too</code>](https://github.com/ellie-commons/sequeler/commit/176d78944b456626a82a202502e69ba7aa78f2b7)
+- [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/ellie-commons/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
+- [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/ellie-commons/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
   - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Actions: Do not install unnecessary bzip2</code>](https://github.com/Alecaddd/sequeler/commit/de6d817ca9bd61acd6e3e4353fa98b7c7895746e)
+- [ ] [<code>Actions: Do not install unnecessary bzip2</code>](https://github.com/ellie-commons/sequeler/commit/de6d817ca9bd61acd6e3e4353fa98b7c7895746e)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
