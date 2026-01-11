@@ -305,6 +305,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1344b5c572d19be479596f4e23317c6107faf13d)
+- [ ] [<code>Refactor QuickFind to ListView (#2181)</code>](https://github.com/alainm23/planify/commit/061422512f11102d13c4eeb66ff38a8f3c30e19d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/7adfa1e05b830167d1ae311ae1dc4ffe68cc5732)
+- [ ] [<code>Improve Itemrow loading (#2182)</code>](https://github.com/alainm23/planify/commit/3e074aecb613ffbc22a0313dad4c45d39f83baaf)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/1afce8ab4a3ee836ca7d29906ddc4fdf368e9bf0)
+- [ ] [<code>Don't update count during project sync (#2180)</code>](https://github.com/alainm23/planify/commit/f628ed8b140eaab8bc86d768d168b001de09eef7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d03b0b90449c64395e0a89583d7813b9b104d465)
+- [ ] [<code>Fix segfault if year < 1000 (#2184)</code>](https://github.com/alainm23/planify/commit/0389129a4256f0e3dbe6c30bd8548b7d93df0156)
 
 #### [sequeler](https://github.com/Alecaddd/sequeler): [v0.8.2 → HEAD](https://github.com/Alecaddd/sequeler/compare/v0.8.2...HEAD)
 
