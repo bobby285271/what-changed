@@ -8,8 +8,10 @@
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.4...HEAD)
 
 - [ ] [<code>systray: Hide IBUS applet</code>](https://github.com/linuxmint/cinnamon/commit/78b92bda0b65ab8256a8670976a613780ad76217)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>accessibility/cinnamon-hover-click: Keep the active click action</code>](https://github.com/linuxmint/cinnamon/commit/c7afefaff83dad8a90ad5bf3b4779a2b7d27e9dd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
