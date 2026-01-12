@@ -1317,6 +1317,7 @@
 - [ ] [<code>x11: display-settings: Fall back to output name when EDID is duplicated</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e84b0e78f1cccb781c9025001188c0b7144d000c)
 - [ ] [<code>x11: displays: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/67949a16ceec0e6478341f23f2bcb87eb3c33298)
 - [ ] [<code>wayland: displays: Add missing condition to act on new output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0871e7b6bb20a053da0e73babb4243d8029b0a4a)
+- [ ] [<code>x11: displays: Check by EDID that output list has not changed</code>](https://github.com/xfce-mirror/xfce4-settings/commit/de79a8eb5d8f58fddf11ad5de754167c6592260f)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
