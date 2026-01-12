@@ -260,8 +260,15 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.3 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.3...HEAD)
 
+- [ ] [<code>Adding debug information.</code>](https://github.com/phase1geo/minder/commit/7dcfac91062c115e905b0e4c22e574199551f4ed)
 - [ ] [<code>Fixing issue with updating font UI in style sidebar.</code>](https://github.com/phase1geo/minder/commit/1267e353ddae94ac0102af5252b77a169be152ce)
 - [ ] [<code>Fixing several issues with closing sidebar with Escape key.</code>](https://github.com/phase1geo/minder/commit/b8eb3d94c700555849d3df491a706b6e6502ee8a)
+- [ ] [<code>Fixing issues with importing pminder and other V1 files.</code>](https://github.com/phase1geo/minder/commit/f26658f76d98f788b50e7c0b26a56170439ce3b1)
+- [ ] [<code>Cleaning up debug output.</code>](https://github.com/phase1geo/minder/commit/0dc6f09fc8c2e5f1934b5bcba3119485c122cad3)
+- [ ] [<code>Final changes for importing portable minder file with images.</code>](https://github.com/phase1geo/minder/commit/e762815de9835169d0c36ec26f0f32193ea94da6)
+- [ ] [<code>Merge branch 'portable-import'</code>](https://github.com/phase1geo/minder/commit/3a1d80bee3cf3828c84c1c52f1b4c77c63b480d4)
+- [ ] [<code>Adding default file icon for .minder files.</code>](https://github.com/phase1geo/minder/commit/ce3b53235bec8d12e241f20fa90c0142128a1df6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
 
