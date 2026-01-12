@@ -524,6 +524,7 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.2...HEAD)
 
 - [ ] [<code>libmutter15+: use hex colors when calling `Cogl.Color.from_string ()`</code>](https://github.com/elementary/greeter/commit/8a82cb832e7741d32aa5108ca1961f05a236667d)
+- [ ] [<code>UserCard: Support Latte (#857)</code>](https://github.com/elementary/greeter/commit/4e240584d28c84fe3f47faab2427199a5ee4f3fe)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
