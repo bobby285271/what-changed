@@ -321,6 +321,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d03b0b90449c64395e0a89583d7813b9b104d465)
 - [ ] [<code>Fix segfault if year < 1000 (#2184)</code>](https://github.com/alainm23/planify/commit/0389129a4256f0e3dbe6c30bd8548b7d93df0156)
+- [ ] [<code>Translations update from Hosted Weblate (#2172)</code>](https://github.com/alainm23/planify/commit/7dbc31a1f827233b6f7cefb43ed5fcde1fca16e7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/121d94be0ffdca1ba374e5fe4fbbab7dbd61b6db)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
