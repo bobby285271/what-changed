@@ -849,6 +849,8 @@
   - <sub>Tags: <code>8.1.0-rc2</code></sub>
 - [ ] [<code>README: update badges (#790)</code>](https://github.com/elementary/os/commit/dacdbde6934f7abf012643d9a042d642e9993fde)
   - <sub>Tags: <code>8.1.0-rc3</code></sub>
+- [ ] [<code>Build: Remove AppCenter PPA option (#792)</code>](https://github.com/elementary/os/commit/2fd5a07b74cf6169ad5828229bb19bea120f2980)
+- [ ] [<code>Delete EOL configs (#794)</code>](https://github.com/elementary/os/commit/1aa4b2c7f2a0540ef4ca58c7ad9b0ef88e0b0577)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
