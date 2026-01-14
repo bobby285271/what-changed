@@ -435,6 +435,7 @@
 - [ ] [<code>Appearance: Support Latte (#456)</code>](https://github.com/elementary/settings-desktop/commit/7d38f0887ade29e62f2d96e8c765bcdd65fd1dc1)
 - [ ] [<code>Wallpaper: create wallpaper list model</code>](https://github.com/elementary/settings-desktop/commit/68196ab6dc00d82af1dd770a8f4f585b0536e7d3)
 - [ ] [<code>Wallpaper: sort in model, not flowbox</code>](https://github.com/elementary/settings-desktop/commit/b9f6b9ad1be33b71ff28d330a9c19949e619e181)
+- [ ] [<code>Fix Granite style class deprecations (#471)</code>](https://github.com/elementary/settings-desktop/commit/22170075fb6f3566fe33e56a147fed9c9da8bf2b)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
