@@ -63,6 +63,8 @@
 
 - [ ] [<code>github: Update workflow file.</code>](https://github.com/linuxmint/muffin/commit/f5ac87c3ba2c5d16a4630aa9f007b47d0af390a3)
 - [ ] [<code>github: Fix build.yml</code>](https://github.com/linuxmint/muffin/commit/d235e8e4627d169da4bf1641cd5ebc48b938d294)
+- [ ] [<code>Revert 23aba56e6d (ignore XkbNewKeyboardNotify) - Filter by (#782)</code>](https://github.com/linuxmint/muffin/commit/98298ea602570c4584a56fe723b9fabac58d285f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
