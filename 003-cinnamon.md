@@ -10,8 +10,9 @@
 - [ ] [<code>systray: Hide IBUS applet</code>](https://github.com/linuxmint/cinnamon/commit/78b92bda0b65ab8256a8670976a613780ad76217)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>accessibility/cinnamon-hover-click: Keep the active click action</code>](https://github.com/linuxmint/cinnamon/commit/c7afefaff83dad8a90ad5bf3b4779a2b7d27e9dd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>virtualKeyboard.js: Fix support for OSK ctrl and alt modifier in (#13355)</code>](https://github.com/linuxmint/cinnamon/commit/0275da135572f727d3753491416d37fea7ac1bff)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -49,9 +50,12 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [112daa4f76ccef08a9c4e3b107957ff862429516 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/112daa4f76ccef08a9c4e3b107957ff862429516...HEAD)
 
 - [ ] [<code>Cinnamon: window-list applet set notification badge fixed font size (#21)</code>](https://github.com/linuxmint/mint-l-theme/commit/b3cd80516d8a595c4bdee708b06e9a8fcbcdef7e)
+- [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#24)</code>](https://github.com/linuxmint/mint-l-theme/commit/425a6f08d0ccd7ed87232be80db339a192179c09)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.7...HEAD)
 
+- [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#529)</code>](https://github.com/linuxmint/mint-themes/commit/58d6834d6b15b5f6f70b6e0752124994c7a552a7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
