@@ -433,6 +433,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#466)</code>](https://github.com/elementary/settings-desktop/commit/49964940202d808b630d7ac91ac9fd7d924ba285)
 - [ ] [<code>Appearance: Support Latte (#456)</code>](https://github.com/elementary/settings-desktop/commit/7d38f0887ade29e62f2d96e8c765bcdd65fd1dc1)
+- [ ] [<code>Wallpaper: create wallpaper list model</code>](https://github.com/elementary/settings-desktop/commit/68196ab6dc00d82af1dd770a8f4f585b0536e7d3)
+- [ ] [<code>Wallpaper: sort in model, not flowbox</code>](https://github.com/elementary/settings-desktop/commit/b9f6b9ad1be33b71ff28d330a9c19949e619e181)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -593,6 +595,7 @@
 
 - [ ] [<code>SlingshotView: Fix apps opens twice when pressing Enter in search (#688)</code>](https://github.com/elementary/applications-menu/commit/41f322efabac0d5336670771e5ad48fdf7f40362)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add release notes for version 8.0.3 (#691)</code>](https://github.com/elementary/applications-menu/commit/d375807552d57e1185546b0e70a781bf80ba1616)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
