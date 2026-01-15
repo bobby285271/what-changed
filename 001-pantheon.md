@@ -45,6 +45,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calendar/commit/60aaac114e2ee4d387178eae7151673810735b0c)
 - [ ] [<code>Show Weeks: Use GLib.Menu (#870)</code>](https://github.com/elementary/calendar/commit/ef1a13e5cbb045ce4e336dd83481df7dc12fe592)
 - [ ] [<code>Switch month with PgUp/PgDown</code>](https://github.com/elementary/calendar/commit/90b313eee92ad7729f0c8cdac1be2e5e8092e17f)
+- [ ] [<code>EventMenu: use GLib.Action (#869)</code>](https://github.com/elementary/calendar/commit/6ca663aa4c58a5f191a2c482ea37b05199b19a09)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -435,7 +436,12 @@
 - [ ] [<code>Appearance: Support Latte (#456)</code>](https://github.com/elementary/settings-desktop/commit/7d38f0887ade29e62f2d96e8c765bcdd65fd1dc1)
 - [ ] [<code>Wallpaper: create wallpaper list model</code>](https://github.com/elementary/settings-desktop/commit/68196ab6dc00d82af1dd770a8f4f585b0536e7d3)
 - [ ] [<code>Wallpaper: sort in model, not flowbox</code>](https://github.com/elementary/settings-desktop/commit/b9f6b9ad1be33b71ff28d330a9c19949e619e181)
+- [ ] [<code>WallpaperContainer: don't subclass flowboxchild, fix state flags</code>](https://github.com/elementary/settings-desktop/commit/eff34ff7a8a8e9bf629528ceefbc0da060b6ca86)
+  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix Granite style class deprecations (#471)</code>](https://github.com/elementary/settings-desktop/commit/22170075fb6f3566fe33e56a147fed9c9da8bf2b)
+- [ ] [<code>Merge branch 'main' into danirabbit/wallpapercontainer-noflowboxsubclass</code>](https://github.com/elementary/settings-desktop/commit/d61681cf0811842a32a71b3c59f6e7292d70b7dc)
+- [ ] [<code>WallpaperContainer: fewer construction args (#475)</code>](https://github.com/elementary/settings-desktop/commit/89afb7ad2b64b67fc805d69f372449971aff09f1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -597,6 +603,9 @@
 - [ ] [<code>SlingshotView: Fix apps opens twice when pressing Enter in search (#688)</code>](https://github.com/elementary/applications-menu/commit/41f322efabac0d5336670771e5ad48fdf7f40362)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add release notes for version 8.0.3 (#691)</code>](https://github.com/elementary/applications-menu/commit/d375807552d57e1185546b0e70a781bf80ba1616)
+- [ ] [<code>Release 8.0.3 (#692)</code>](https://github.com/elementary/applications-menu/commit/1662ac4a5e877fa826030b4944b7485c581454eb)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -680,6 +689,8 @@
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>WifiInterface: make connect_to_network independent of dialog (#358)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/260c3fb3dfd9829a8859fcdf9685e00242b9a67a)
+- [ ] [<code>Indicator: claim and reset middle click gesture (#361)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/06a3ee79d95c33a62e4d3a38e140898ec319c308)
+- [ ] [<code>WifiInterface: clean up wifi_activate_cb (#359)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c243390de9f277a4da830ead8cf4498b3daffa64)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
