@@ -139,3 +139,6 @@
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
 
+- [ ] [<code>Add xsi-applications-electronics</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/fee3b9cf38b62cc861e62c64a0f4627b2d024c50)
+- [ ] [<code>Add licensing info (#21)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f5fa4f822b6bdc4cc5b2485b7ffc1a7b0f6ac3a7)
+  - <sub>Keywords: <code>usr</code></sub>
