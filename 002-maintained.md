@@ -323,6 +323,17 @@
 - [ ] [<code>Fix segfault if year < 1000 (#2184)</code>](https://github.com/alainm23/planify/commit/0389129a4256f0e3dbe6c30bd8548b7d93df0156)
 - [ ] [<code>Translations update from Hosted Weblate (#2172)</code>](https://github.com/alainm23/planify/commit/7dbc31a1f827233b6f7cefb43ed5fcde1fca16e7)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/121d94be0ffdca1ba374e5fe4fbbab7dbd61b6db)
+- [ ] [<code>Improve Database operations for import and deleting projects (#2183)</code>](https://github.com/alainm23/planify/commit/2c6ad7fe6cd07808c5fcea57744f7623dc1a64e8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/71c09bf39de744bcbdefd61d41d7e98e87acb0c7)
+- [ ] [<code>fix (#2189)</code>](https://github.com/alainm23/planify/commit/dd0ef96b3ed3adc8c07c484df108ef3b27fb7cef)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/bef5670e534780de6442f60b1f81397593b4b981)
+- [ ] [<code>Robustly detect Ctrl key on mouse click events (#2188)</code>](https://github.com/alainm23/planify/commit/d632b9cb0c69874b64f642324ccbc74152cd0ff2)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/bdbe86d007feffdf5bed1598c9fe6eb532b6ee1e)
+- [ ] [<code>Translations update from Hosted Weblate (#2187)</code>](https://github.com/alainm23/planify/commit/c09ce8f2da8bf717d00f8aeacc10a7084db9d929)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ee797e06d2d1bd6b658a4e6f4ad7c78b80089962)
+- [ ] [<code>Run translation updates in pull requests (#2185)</code>](https://github.com/alainm23/planify/commit/758d7875c7d1a735f25154cfb89ea827039a18b9)
+- [ ] [<code>Translations update from Hosted Weblate (#2190)</code>](https://github.com/alainm23/planify/commit/2c3f74e70f47258577929a21bc48b3ef0b5993d5)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
