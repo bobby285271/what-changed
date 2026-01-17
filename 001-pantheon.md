@@ -614,14 +614,8 @@
 
 ## desktop/wingpanel-indicators
 
-#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [8.0.2 → HEAD](https://github.com/elementary/applications-menu/compare/8.0.2...HEAD)
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.3...HEAD)
 
-- [ ] [<code>SlingshotView: Fix apps opens twice when pressing Enter in search (#688)</code>](https://github.com/elementary/applications-menu/commit/41f322efabac0d5336670771e5ad48fdf7f40362)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add release notes for version 8.0.3 (#691)</code>](https://github.com/elementary/applications-menu/commit/d375807552d57e1185546b0e70a781bf80ba1616)
-- [ ] [<code>Release 8.0.3 (#692)</code>](https://github.com/elementary/applications-menu/commit/1662ac4a5e877fa826030b4944b7485c581454eb)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
