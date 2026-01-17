@@ -46,6 +46,20 @@
 - [ ] [<code>Show Weeks: Use GLib.Menu (#870)</code>](https://github.com/elementary/calendar/commit/ef1a13e5cbb045ce4e336dd83481df7dc12fe592)
 - [ ] [<code>Switch month with PgUp/PgDown</code>](https://github.com/elementary/calendar/commit/90b313eee92ad7729f0c8cdac1be2e5e8092e17f)
 - [ ] [<code>EventMenu: use GLib.Action (#869)</code>](https://github.com/elementary/calendar/commit/6ca663aa4c58a5f191a2c482ea37b05199b19a09)
+- [ ] [<code>WeekLabels: use Gtk.Gesture</code>](https://github.com/elementary/calendar/commit/f4964577cd94b681d9b6061146adec684222d3ab)
+- [ ] [<code>WeekLabels: don't subclass revealer</code>](https://github.com/elementary/calendar/commit/2a0205a59d1579249d0d904ab529d11e8125927b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>WeekLabels: code style</code>](https://github.com/elementary/calendar/commit/5c36669f07fb9af4e000ddb23a99f6731488f7c0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>SourceRow: remove unused EventBox</code>](https://github.com/elementary/calendar/commit/8666db9fa7e0bf6e2151d8231b8b0f0bd16e38f8)
+- [ ] [<code>VAutoHider: EventBox → Bin</code>](https://github.com/elementary/calendar/commit/2e86c233e169641322a8b61bd74454191ce11916)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>EventButton: use Gtk.Gesture (#877)</code>](https://github.com/elementary/calendar/commit/029f968ef4299a9b95bf2b74070a772e0a207aee)
+- [ ] [<code>Replace show_all with present (#875)</code>](https://github.com/elementary/calendar/commit/89cc26f074ac267f0a80b8912fdaea697bc6f479)
+- [ ] [<code>Header: Use Gtk.Gesture (#882)</code>](https://github.com/elementary/calendar/commit/cfbfd6a6bc1e63405ec3669f0beedcedc8912836)
+- [ ] [<code>Add CSS for display (#881)</code>](https://github.com/elementary/calendar/commit/52eda13ab0b4730d79622407b1e1b6d8ffb7a4cf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>LocationPanel: code style, gtk4 prep (#880)</code>](https://github.com/elementary/calendar/commit/63132daa87fa84ec5f92369c181ac1ed54055572)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -442,6 +456,8 @@
 - [ ] [<code>Merge branch 'main' into danirabbit/wallpapercontainer-noflowboxsubclass</code>](https://github.com/elementary/settings-desktop/commit/d61681cf0811842a32a71b3c59f6e7292d70b7dc)
 - [ ] [<code>WallpaperContainer: fewer construction args (#475)</code>](https://github.com/elementary/settings-desktop/commit/89afb7ad2b64b67fc805d69f372449971aff09f1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Wallpaper: sort when undoing trash (#477)</code>](https://github.com/elementary/settings-desktop/commit/ee63807a8578ac2dca9fe65223f4d4faa563ec51)
+- [ ] [<code>Wallpaper: DRY add_wallpaper_from_file (#474)</code>](https://github.com/elementary/settings-desktop/commit/c9888015dcc05c89eb76eceada334993e0096389)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
