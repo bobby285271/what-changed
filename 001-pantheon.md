@@ -60,6 +60,7 @@
 - [ ] [<code>Add CSS for display (#881)</code>](https://github.com/elementary/calendar/commit/52eda13ab0b4730d79622407b1e1b6d8ffb7a4cf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>LocationPanel: code style, gtk4 prep (#880)</code>](https://github.com/elementary/calendar/commit/63132daa87fa84ec5f92369c181ac1ed54055572)
+- [ ] [<code>CalendarView: use EventControllerScroll (#883)</code>](https://github.com/elementary/calendar/commit/2729e91be775d86488b969e4433e4c26d6490c68)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
