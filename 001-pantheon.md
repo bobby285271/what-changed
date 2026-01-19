@@ -155,6 +155,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove debug arguments</code>](https://github.com/elementary/monitor/commit/a248f9748523df998b586993c93c389d8ffa8f6a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Indicator: Generalize IndicatorWidget</code>](https://github.com/elementary/monitor/commit/6d81eb90cd18d1c7523ed3827a5688d52a6070e4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move references to dbusclient into DisplayWidget as possible</code>](https://github.com/elementary/monitor/commit/756ab9157408893fa8b99340e53ea8721def43ba)
+- [ ] [<code>Avoid duplicated instances of GLib.Settings</code>](https://github.com/elementary/monitor/commit/f60cda645498d514c0e4bd13c3ee7352b54ecb40)
+- [ ] [<code>Lessen scope</code>](https://github.com/elementary/monitor/commit/aa8f54fda96c56bda3c9ab2224bf397525d4104c)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
