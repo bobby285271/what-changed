@@ -37,6 +37,8 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calculator/commit/e9abd0afce8665978635ee93850ade6c20c9d4fe)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calculator/commit/6771c9aa6e165c2f014bddef2e528460aa6f1c33)
+- [ ] [<code>Update sidebar icons (#299)</code>](https://github.com/elementary/calculator/commit/a117cad22492f4f47a93a023c80644b653777aae)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
 
