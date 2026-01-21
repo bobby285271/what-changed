@@ -63,6 +63,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>LocationPanel: code style, gtk4 prep (#880)</code>](https://github.com/elementary/calendar/commit/63132daa87fa84ec5f92369c181ac1ed54055572)
 - [ ] [<code>CalendarView: use EventControllerScroll (#883)</code>](https://github.com/elementary/calendar/commit/2729e91be775d86488b969e4433e4c26d6490c68)
+- [ ] [<code>Update evolution-data-server and folks modules (#884)</code>](https://github.com/elementary/calendar/commit/2338701c89cb4bbbd7b8106a770257305aeaeb15)
+- [ ] [<code>Gtk.Frame.add → Gtk.Frame.child</code>](https://github.com/elementary/calendar/commit/b521bfe0be2579db9d52165e13e99a789a199270)
+- [ ] [<code>Gtk.Revealer.add → Gtk.Revealer.child</code>](https://github.com/elementary/calendar/commit/7ba6051b69586e77d306113849d6b3624ff1f9e6)
+- [ ] [<code>Gtk.ScrolledWindow.add → Gtk.ScrolledWindow.child</code>](https://github.com/elementary/calendar/commit/86cdef4419af34d45689f9e31246f34825e90eea)
+- [ ] [<code>CalendarChooser: iterate without get_children (#888)</code>](https://github.com/elementary/calendar/commit/3c66fd24b6f391a85af994566215abea98ca4266)
+- [ ] [<code>RepeatPanel: Modernize code style (#886)</code>](https://github.com/elementary/calendar/commit/ec61212b961e3e9db9c6d69842e75408618261d1)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -338,6 +344,7 @@
 - [ ] [<code>Move open in browser action to TerminalWidget (#966)</code>](https://github.com/elementary/terminal/commit/6161ac4fecc44745aaa95dbb32defc185bfff112)
 - [ ] [<code>Move context menu initialization to TerminalWidget (#968)</code>](https://github.com/elementary/terminal/commit/32d5facee85492616afff23d659691faf7223148)
 - [ ] [<code>Launcher: add icon names to app actions</code>](https://github.com/elementary/terminal/commit/6dd26f424b2f670524fbe5ac3df22d6eaeb74aa3)
+- [ ] [<code>TerminalWidget: support long press secondary click (#974)</code>](https://github.com/elementary/terminal/commit/e2ef833480b3346c3f7fb4300da08876ffb91dee)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -508,6 +515,7 @@
 - [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/37a5c5d2451916d0af35c0fd07281c98fe9802f9)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aa427dc031252ab22acbe3ac369673d72e766fd9)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c54c446eab7808279a9ba761d5d81ca8618914cb)
+- [ ] [<code>Rename as Pen & Drawing (#79)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d82dc1e37f433c315e3fe5f2d05da9dc02f64c5f)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
@@ -827,6 +835,9 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.4.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.4.0...HEAD)
 
+- [ ] [<code>Autostart using systemd instead of gnome-session (#218)</code>](https://github.com/elementary/settings-daemon/commit/a2bdefee61c7aeba678e4870344218aae1f97f4b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
