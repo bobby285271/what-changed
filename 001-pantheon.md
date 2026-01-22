@@ -69,6 +69,7 @@
 - [ ] [<code>Gtk.ScrolledWindow.add → Gtk.ScrolledWindow.child</code>](https://github.com/elementary/calendar/commit/86cdef4419af34d45689f9e31246f34825e90eea)
 - [ ] [<code>CalendarChooser: iterate without get_children (#888)</code>](https://github.com/elementary/calendar/commit/3c66fd24b6f391a85af994566215abea98ca4266)
 - [ ] [<code>RepeatPanel: Modernize code style (#886)</code>](https://github.com/elementary/calendar/commit/ec61212b961e3e9db9c6d69842e75408618261d1)
+- [ ] [<code>RepeatPanel: use reorder for weekdays (#890)</code>](https://github.com/elementary/calendar/commit/ed6d4d1a0784d59f5c0a7d69ca2d69e6f72307a2)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -95,6 +96,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Launcher: Release the second running indicator when needed (#538)</code>](https://github.com/elementary/dock/commit/937ef8d94843f5e56ec5351e94b044d5a3163860)
 - [ ] [<code>GSchema: remove multitasking from defaults (#561)</code>](https://github.com/elementary/dock/commit/01d3ae8a283286be525239ba9788b12ca19d5293)
+- [ ] [<code>Metainfo: add 8.3.2 release notes (#566)</code>](https://github.com/elementary/dock/commit/b239f36cb0fac760ad779ddee784fb6536a05c0b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -625,6 +627,7 @@
 - [ ] [<code>WorkspaceClone: Use `Clutter.ClickGesture` for Mutter49</code>](https://github.com/elementary/gala/commit/e90f92a6c6c8d315badf674e1ea3aebe81100df1)
 - [ ] [<code>BackgroundBlurEffect: fix getting layout</code>](https://github.com/elementary/gala/commit/05b2e5dc8ddf533172d829dc23e337854570a666)
 - [ ] [<code>BackgroundBlurEffect: fix an oopsie</code>](https://github.com/elementary/gala/commit/59c2f983b24f1cc70c2785b2b440481b459d4774)
+- [ ] [<code>Metainfo: Add 8.4.1 release notes</code>](https://github.com/elementary/gala/commit/550d0537c34dd29d2aead3066f9a1c91ca86cdda)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -860,6 +863,7 @@
 - [ ] [<code>Screenshot: set title and icon name (#161)</code>](https://github.com/elementary/portals/commit/33cd1bdc9eb87a58f37e7c64059870670a245016)
 - [ ] [<code>Screenshot/SetupDialog: Remember screenshot type (#160)</code>](https://github.com/elementary/portals/commit/67df6a856b6cc0507cd12abb2d46bb65d307883d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: Add issue link for labeling selection modes (#163)</code>](https://github.com/elementary/portals/commit/3916733cd841289c31d280b8d96dfd91bda67241)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
