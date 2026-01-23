@@ -32,6 +32,9 @@
 - [ ] [<code>Use activate functions for ListPackageRowGrid parents</code>](https://github.com/elementary/appcenter/commit/a47e7dd3a4dc4c597bbbf1029dd757a9a9afa319)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/1309b93093c155720e9a7f8d2209dddfc6b09d9a)
+- [ ] [<code>Handle cancellable in change information (#2365)</code>](https://github.com/elementary/appcenter/commit/c0b25c101cdc6e9f4e46a56d931ee79c5f05e1e0)
+- [ ] [<code>Reload installed applications synchronously</code>](https://github.com/elementary/appcenter/commit/ca6239cdd8b075477b2c5307cd049ad5399c0d2e)
+- [ ] [<code>Remove is_package_installed</code>](https://github.com/elementary/appcenter/commit/74bf6af50b6085eadf304449d5120c3b5d4abcf7)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -170,6 +173,19 @@
 - [ ] [<code>Move references to dbusclient into DisplayWidget as possible</code>](https://github.com/elementary/monitor/commit/756ab9157408893fa8b99340e53ea8721def43ba)
 - [ ] [<code>Avoid duplicated instances of GLib.Settings</code>](https://github.com/elementary/monitor/commit/f60cda645498d514c0e4bd13c3ee7352b54ecb40)
 - [ ] [<code>Lessen scope</code>](https://github.com/elementary/monitor/commit/aa8f54fda96c56bda3c9ab2224bf397525d4104c)
+- [ ] [<code>Fix margin for the cpu values in the Statusbar</code>](https://github.com/elementary/monitor/commit/ee4e78df0543fa5f88325f7052f1c8f8eaf09469)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove nVidia support when building on aarch64 Alpine</code>](https://github.com/elementary/monitor/commit/4d73959247c4fea10ad2890691e3918ed99a23dd)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Rename option to "nvidia support"</code>](https://github.com/elementary/monitor/commit/dc1dbd7db99417f8f572dc2e4d10260198da7383)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Update readme</code>](https://github.com/elementary/monitor/commit/dee2aeb293ef72d0c4066ea169fae8a1852cac42)
+- [ ] [<code>Update src/Resources/GPU/GPUNvidia.vala</code>](https://github.com/elementary/monitor/commit/f8fc929b93494def55dd2a2bf25a2570f435aaf7)
+- [ ] [<code>Update src/Resources/GPU/GPUNvidia.vala</code>](https://github.com/elementary/monitor/commit/ebe9ac389af11e9496aa69266239dfd09ccc93ae)
+- [ ] [<code>Fix comment; remove newlines</code>](https://github.com/elementary/monitor/commit/5966a50f597418a268ffc9722be57f7467e5aaae)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Comment update</code>](https://github.com/elementary/monitor/commit/282b1fd5c8ef3cb70061e7ce1271c08c99c646d3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -440,6 +456,11 @@
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.0.3...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#262)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/f9586701f9b780e952656f481577ccd8a736ded1)
+- [ ] [<code>Pointing: use settings action</code>](https://github.com/elementary/settings-mouse-touchpad/commit/0c9d61bac1766243f98497571f27ecfc7a4fb43f)
+- [ ] [<code>Pointing: Set images with child property</code>](https://github.com/elementary/settings-mouse-touchpad/commit/4bcfcba8ce4df993dae781d465bcf0345a4da0a2)
+- [ ] [<code>Pointing: fix screen reader for pointer size options</code>](https://github.com/elementary/settings-mouse-touchpad/commit/515114064a70a162ccfec41b0783d20b679ad5c2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -628,6 +649,9 @@
 - [ ] [<code>BackgroundBlurEffect: fix getting layout</code>](https://github.com/elementary/gala/commit/05b2e5dc8ddf533172d829dc23e337854570a666)
 - [ ] [<code>BackgroundBlurEffect: fix an oopsie</code>](https://github.com/elementary/gala/commit/59c2f983b24f1cc70c2785b2b440481b459d4774)
 - [ ] [<code>Metainfo: Add 8.4.1 release notes</code>](https://github.com/elementary/gala/commit/550d0537c34dd29d2aead3066f9a1c91ca86cdda)
+- [ ] [<code>Meson: enable compiler optimizations</code>](https://github.com/elementary/gala/commit/986de39d002984f7092e9e93b014d6413a67de6d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ModalGroup: allow zoom (#2737)</code>](https://github.com/elementary/gala/commit/23f93603cabf0409c00f8a9fa4754138b0dd8875)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -788,6 +812,8 @@
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#310)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fbb128232d5ca769cde9e5abc83f7960e48399bc)
+- [ ] [<code>Indicator: Fix setting max-volume key does not take effect (#314)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/34aae8827402a9bff03d0fd8a505aecc95b9b51a)
+- [ ] [<code>Metainfo: add 8.0.3 (#315)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c4ada61a951a708e5becf7e547a85b72951d5a5c)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
 
@@ -864,6 +890,8 @@
 - [ ] [<code>Screenshot/SetupDialog: Remember screenshot type (#160)</code>](https://github.com/elementary/portals/commit/67df6a856b6cc0507cd12abb2d46bb65d307883d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: Add issue link for labeling selection modes (#163)</code>](https://github.com/elementary/portals/commit/3916733cd841289c31d280b8d96dfd91bda67241)
+- [ ] [<code>Release 8.1.0 (#162)</code>](https://github.com/elementary/portals/commit/98fd5665eafa3164248b2dc2b56db8c9d044ebf7)
+  - <sub>Tags: <code>8.1.0</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
