@@ -100,6 +100,8 @@
 - [ ] [<code>Launcher: Release the second running indicator when needed (#538)</code>](https://github.com/elementary/dock/commit/937ef8d94843f5e56ec5351e94b044d5a3163860)
 - [ ] [<code>GSchema: remove multitasking from defaults (#561)</code>](https://github.com/elementary/dock/commit/01d3ae8a283286be525239ba9788b12ca19d5293)
 - [ ] [<code>Metainfo: add 8.3.2 release notes (#566)</code>](https://github.com/elementary/dock/commit/b239f36cb0fac760ad779ddee784fb6536a05c0b)
+- [ ] [<code>GSchema: remove system settings from default items (#562)</code>](https://github.com/elementary/dock/commit/2319a611255bf12dc24d0f64ea9fbf308d5562aa)
+- [ ] [<code>BackgroundItem: add tooltip (#535)</code>](https://github.com/elementary/dock/commit/491a9d68a6daf2a7a6e7cd94202610984a3598e6)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -186,6 +188,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Comment update</code>](https://github.com/elementary/monitor/commit/282b1fd5c8ef3cb70061e7ce1271c08c99c646d3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Require gtk+-3.0 explicitly</code>](https://github.com/elementary/monitor/commit/a72cb083e2c3df8926c7e0c35a757c0f89494839)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update installation commands in the readme (#516)</code>](https://github.com/elementary/monitor/commit/a5de851a7f0bed351223e8ee4cc017d32e326201)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -461,6 +468,8 @@
 - [ ] [<code>Pointing: fix screen reader for pointer size options</code>](https://github.com/elementary/settings-mouse-touchpad/commit/515114064a70a162ccfec41b0783d20b679ad5c2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Touchpad: use settings action for click-method (#269)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/3cedde6f63e2d00f14f396e88ab3ab0c8761ce68)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -652,6 +661,8 @@
 - [ ] [<code>Meson: enable compiler optimizations</code>](https://github.com/elementary/gala/commit/986de39d002984f7092e9e93b014d6413a67de6d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ModalGroup: allow zoom (#2737)</code>](https://github.com/elementary/gala/commit/23f93603cabf0409c00f8a9fa4754138b0dd8875)
+- [ ] [<code>Silence C warnings (#2734)</code>](https://github.com/elementary/gala/commit/c0ced5d94345555f96bdf33c71f20cc056b15531)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -867,6 +878,9 @@
 - [ ] [<code>Autostart using systemd instead of gnome-session (#218)</code>](https://github.com/elementary/settings-daemon/commit/a2bdefee61c7aeba678e4870344218aae1f97f4b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>skip notifications for already-installed packages (#216)</code>](https://github.com/elementary/settings-daemon/commit/f9223cc710bc8eb4888006c2aeeb217740d1f25e)
+- [ ] [<code>Metainfo: add 8.5.0 release notes (#219)</code>](https://github.com/elementary/settings-daemon/commit/3a725171cebf959d0447fc10e88c7e7cf3cc56c7)
+- [ ] [<code>GSchema: default auto updates to true (#220)</code>](https://github.com/elementary/settings-daemon/commit/dcc0de22f6f17a2730ecb553267bf2aa2f242371)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
