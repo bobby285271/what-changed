@@ -893,19 +893,8 @@
 - [ ] [<code>meson: Replace deprecated source_root with project_source_root (#103)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0ade82e0f74d9998e83b28d028ecf0d15237c99a)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [8.0.4 → HEAD](https://github.com/elementary/portals/compare/8.0.4...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#147)</code>](https://github.com/elementary/portals/commit/5372ebe9f76efc4f1e44b5fce55d26369b40f931)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/portals/commit/060b8d80e1baf7062497371ab983a22debeda1a2)
-- [ ] [<code>Modernize screenshot icons (#151)</code>](https://github.com/elementary/portals/commit/88b3a0ed3f4b43e2fdbaf5fa215d8c95ba2df01e)
-- [ ] [<code>SetupDialog: add labels to image radios (#150)</code>](https://github.com/elementary/portals/commit/952fb9eb8b7160c07832216f6e6e2e87e051f1b5)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/portals/commit/4ab1e9a43e45126b88fe44f4aa31f78e4408b19c)
-- [ ] [<code>Screenshot: set title and icon name (#161)</code>](https://github.com/elementary/portals/commit/33cd1bdc9eb87a58f37e7c64059870670a245016)
-- [ ] [<code>Screenshot/SetupDialog: Remember screenshot type (#160)</code>](https://github.com/elementary/portals/commit/67df6a856b6cc0507cd12abb2d46bb65d307883d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: Add issue link for labeling selection modes (#163)</code>](https://github.com/elementary/portals/commit/3916733cd841289c31d280b8d96dfd91bda67241)
-- [ ] [<code>Release 8.1.0 (#162)</code>](https://github.com/elementary/portals/commit/98fd5665eafa3164248b2dc2b56db8c9d044ebf7)
-  - <sub>Tags: <code>8.1.0</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
