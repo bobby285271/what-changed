@@ -102,6 +102,7 @@
 - [ ] [<code>Metainfo: add 8.3.2 release notes (#566)</code>](https://github.com/elementary/dock/commit/b239f36cb0fac760ad779ddee784fb6536a05c0b)
 - [ ] [<code>GSchema: remove system settings from default items (#562)</code>](https://github.com/elementary/dock/commit/2319a611255bf12dc24d0f64ea9fbf308d5562aa)
 - [ ] [<code>BackgroundItem: add tooltip (#535)</code>](https://github.com/elementary/dock/commit/491a9d68a6daf2a7a6e7cd94202610984a3598e6)
+- [ ] [<code>Launcher: show accels in tooltip (#536)</code>](https://github.com/elementary/dock/commit/fef144a6a02439b3bc9bb656850dd0eb4505f96b)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -113,6 +114,7 @@
 - [ ] [<code>MainWindow: Ignore components without a bugtracker URL (#130)</code>](https://github.com/elementary/feedback/commit/b21b9b055b0b31fe6bc7c9cd8d5178de98c5c4dd)
 - [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
 - [ ] [<code>MainWindow: rely on Granite.StyleManager (#132)</code>](https://github.com/elementary/feedback/commit/056d6540220a4ab0e3e41b75479536a55f1e3691)
+- [ ] [<code>MainWindow: use headerbar and toolbarview (#133)</code>](https://github.com/elementary/feedback/commit/18b6bb1c2115ef479592f29ebd31cc83ef3e68f4)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
 
@@ -663,6 +665,7 @@
 - [ ] [<code>ModalGroup: allow zoom (#2737)</code>](https://github.com/elementary/gala/commit/23f93603cabf0409c00f8a9fa4754138b0dd8875)
 - [ ] [<code>Silence C warnings (#2734)</code>](https://github.com/elementary/gala/commit/c0ced5d94345555f96bdf33c71f20cc056b15531)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ScreenshotManager: simplify composite_stage_cursor (#2740)</code>](https://github.com/elementary/gala/commit/7f633aa5d56d3d502b687f4c213eca789589b201)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
