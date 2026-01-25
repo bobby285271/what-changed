@@ -596,11 +596,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
 
-#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/greeter/compare/refs/tags/8.1.2...HEAD)
+#### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
-- [ ] [<code>libmutter15+: use hex colors when calling `Cogl.Color.from_string ()`</code>](https://github.com/elementary/greeter/commit/8a82cb832e7741d32aa5108ca1961f05a236667d)
-- [ ] [<code>UserCard: Support Latte (#857)</code>](https://github.com/elementary/greeter/commit/4e240584d28c84fe3f47faab2427199a5ee4f3fe)
-- [ ] [<code>pantheon-desktop-shell: Manually bind the free function</code>](https://github.com/elementary/greeter/commit/5510466126f7aa3412a21c055d59f8eb5fcc8d29)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
@@ -627,27 +624,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.0...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [8fb60a9c9b04245913733208df1c061d6c353a35 → HEAD](https://github.com/elementary/gala/compare/8fb60a9c9b04245913733208df1c061d6c353a35...HEAD)
 
-- [ ] [<code>Revert "Bring back old icon groups (#2595)" (#2679)</code>](https://github.com/elementary/gala/commit/31cd4dd96386797d212d4724575565dc7000d31d)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>Utils: Remove unused Gtk.IconTheme</code>](https://github.com/elementary/gala/commit/395a3c147362bdca3b53a4bf40e1b584df08fae0)
-- [ ] [<code>CloseButton: Remove unused close pixbufs hash map</code>](https://github.com/elementary/gala/commit/0e009e87b571c4513385f4c43f51655bb32d130f)
-- [ ] [<code>Use Gala.Icon for the resize button (#2687)</code>](https://github.com/elementary/gala/commit/3e348d47774d2bbd4cbb663630de13c2c35b60ca)
-- [ ] [<code>WindowClone: Only hide icon in single app overview (#2697)</code>](https://github.com/elementary/gala/commit/7f64a4542db8496ab7baf2ee7bec52de91253150)
-- [ ] [<code>WindowClone: reset opacity if window shouldn't fade anymore (#2698)</code>](https://github.com/elementary/gala/commit/553e63a10dba5666943bab7061186693e9ffdd7d)
-- [ ] [<code>MultitaskingView: Sync progress when reordering workspaces (#2693)</code>](https://github.com/elementary/gala/commit/ed87ccf9076a123adcba491ed927dacc3eb45616)
-- [ ] [<code>Maximize/Full screen: Move windows when the property changes (#2694)</code>](https://github.com/elementary/gala/commit/e4e4296599993bab19b07d514c55ed9ebc727b09)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Gala.Text: Don't extend Clutter.Text (#2680)</code>](https://github.com/elementary/gala/commit/271eabfa7805464a6027f27301cbf62cc5f003a6)
-- [ ] [<code>Update OpenSUSE CI (#2703)</code>](https://github.com/elementary/gala/commit/129bb257edd0c1a9ca3186379949c9871e2c20b2)
-- [ ] [<code>libmutter15: use hex colors with Cogl.Color.from_string</code>](https://github.com/elementary/gala/commit/505e1f306e5312af29297b04b2bc717aa4fb64eb)
-- [ ] [<code>ShellClients: Don't declare centered windows as shell windows (#2709)</code>](https://github.com/elementary/gala/commit/e2da1bb2801d4d2f4248cce61d841f005553305d)
-- [ ] [<code>BackgroundBlurEffect: keep getting `Cogl.Context` from default `Clutter.Backend` on libmutter15+</code>](https://github.com/elementary/gala/commit/c29d6512262b3145f0cce0a58beb76778eb889f4)
-- [ ] [<code> Fix RoundedCornersEffect (#2655)</code>](https://github.com/elementary/gala/commit/79f96ad9d84ccde6f87c45681e589ddd96fc5bb6)
-- [ ] [<code>Meson: target newer glib</code>](https://github.com/elementary/gala/commit/2c3bd9cf8fb137ff78af99730996d659cc9d52a9)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Workaround dock/537 (#2712)</code>](https://github.com/elementary/gala/commit/8fb60a9c9b04245913733208df1c061d6c353a35)
 - [ ] [<code>ModalGroup: Blur background (#2715)</code>](https://github.com/elementary/gala/commit/6f27cbaeecaa2a5a734ed606f7ec9e35473357fe)
 - [ ] [<code>Use ClickGesture instead of ClickAction for MUTTER49</code>](https://github.com/elementary/gala/commit/2b3fd2f44e0363f65c0f7c06d5778690125838dd)
 - [ ] [<code>TouchpadBackend: Use source device instead of device for device type</code>](https://github.com/elementary/gala/commit/e77a01f3bc45ed6e66d4ea6e45b6d688bae12595)
