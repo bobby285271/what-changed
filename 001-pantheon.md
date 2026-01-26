@@ -90,6 +90,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#1679)</code>](https://github.com/elementary/code/commit/8c7db83208da9eb89a1588928cc638e2e1b99ce3)
 - [ ] [<code>One Pastebin upload dialog (#1683)</code>](https://github.com/elementary/code/commit/2a573b63fbc7df58493de6b35f3c5ea9a181d82e)
+- [ ] [<code>Ensure terminal pane shell location correct when opened (#1574)</code>](https://github.com/elementary/code/commit/d065ae95568c821e4be01f93bbe6c7e4959904d8)
+- [ ] [<code>Add metainfo for release 8.2.0 (#1682)</code>](https://github.com/elementary/code/commit/ae791f8e0c5d69aa55190efcfc0d665fee6d1756)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.1 → HEAD](https://github.com/elementary/dock/compare/8.3.1...HEAD)
 
@@ -103,6 +105,9 @@
 - [ ] [<code>GSchema: remove system settings from default items (#562)</code>](https://github.com/elementary/dock/commit/2319a611255bf12dc24d0f64ea9fbf308d5562aa)
 - [ ] [<code>BackgroundItem: add tooltip (#535)</code>](https://github.com/elementary/dock/commit/491a9d68a6daf2a7a6e7cd94202610984a3598e6)
 - [ ] [<code>Launcher: show accels in tooltip (#536)</code>](https://github.com/elementary/dock/commit/fef144a6a02439b3bc9bb656850dd0eb4505f96b)
+- [ ] [<code>App/Launcher: Add AppCenter actions (#568)</code>](https://github.com/elementary/dock/commit/facb6298dbbf54d33820f2c8795842b5d38dd80c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>App: don't pass appcenter object instance (#571)</code>](https://github.com/elementary/dock/commit/182f280966d06f963655ebe0578939ffdc879244)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -372,6 +377,9 @@
 - [ ] [<code>Move context menu initialization to TerminalWidget (#968)</code>](https://github.com/elementary/terminal/commit/32d5facee85492616afff23d659691faf7223148)
 - [ ] [<code>Launcher: add icon names to app actions</code>](https://github.com/elementary/terminal/commit/6dd26f424b2f670524fbe5ac3df22d6eaeb74aa3)
 - [ ] [<code>TerminalWidget: support long press secondary click (#974)</code>](https://github.com/elementary/terminal/commit/e2ef833480b3346c3f7fb4300da08876ffb91dee)
+- [ ] [<code>Fix some issues with running under tmux (#946)</code>](https://github.com/elementary/terminal/commit/f103e7d5ab0e7c0ba98b2a5b7f45da1dbf46f0d8)
+- [ ] [<code>Cleanup handling of tab icons (#969)</code>](https://github.com/elementary/terminal/commit/6c9ebe3df698d73b2f6b9e8ec6860685466da240)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -595,6 +603,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
+- [ ] [<code>Disable notifications from Evolution Data Server (#359)</code>](https://github.com/elementary/default-settings/commit/e91cdb0f4ba80cb09d823fbfa5556e3473c76997)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -644,6 +653,7 @@
 - [ ] [<code>Silence C warnings (#2734)</code>](https://github.com/elementary/gala/commit/c0ced5d94345555f96bdf33c71f20cc056b15531)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ScreenshotManager: simplify composite_stage_cursor (#2740)</code>](https://github.com/elementary/gala/commit/7f633aa5d56d3d502b687f4c213eca789589b201)
+- [ ] [<code>Don't handle window menus for windows that are not normal (#2736)</code>](https://github.com/elementary/gala/commit/91a53ec6a68faae73719e55c41abf1689410a5aa)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -862,6 +872,7 @@
 - [ ] [<code>skip notifications for already-installed packages (#216)</code>](https://github.com/elementary/settings-daemon/commit/f9223cc710bc8eb4888006c2aeeb217740d1f25e)
 - [ ] [<code>Metainfo: add 8.5.0 release notes (#219)</code>](https://github.com/elementary/settings-daemon/commit/3a725171cebf959d0447fc10e88c7e7cf3cc56c7)
 - [ ] [<code>GSchema: default auto updates to true (#220)</code>](https://github.com/elementary/settings-daemon/commit/dcc0de22f6f17a2730ecb553267bf2aa2f242371)
+- [ ] [<code>AccentColorManager: Prevent out of range access to themes array (#222)</code>](https://github.com/elementary/settings-daemon/commit/f04fcb39c198bcfdbcdb0928be0b5e4af30c6f66)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
