@@ -73,6 +73,8 @@
 - [ ] [<code>CalendarChooser: iterate without get_children (#888)</code>](https://github.com/elementary/calendar/commit/3c66fd24b6f391a85af994566215abea98ca4266)
 - [ ] [<code>RepeatPanel: Modernize code style (#886)</code>](https://github.com/elementary/calendar/commit/ec61212b961e3e9db9c6d69842e75408618261d1)
 - [ ] [<code>RepeatPanel: use reorder for weekdays (#890)</code>](https://github.com/elementary/calendar/commit/ed6d4d1a0784d59f5c0a7d69ca2d69e6f72307a2)
+- [ ] [<code>ReminderPanel: GTK4 prep (#892)</code>](https://github.com/elementary/calendar/commit/56064e3d1a2831bf668c2779fd50dd7b8b23fd87)
+- [ ] [<code>AgendaEventRow: support long press secondary menu (#887)</code>](https://github.com/elementary/calendar/commit/f0e435e85ff9f1edc406aeb7a3024d1337cc756a)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -149,6 +151,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>po: Fix POTFILES</code>](https://github.com/elementary/files/commit/00c9b7552297a2d3193d3b7f7beb38cd5a8beda7)
 - [ ] [<code>AbstractDirectoryView: Simplify the handling of open-in action (#2707)</code>](https://github.com/elementary/files/commit/43d308edd16b66a5b72caa56158b6ae4b48d131c)
+- [ ] [<code>DetailsColumn: scrolled fills the entire column (#2713)</code>](https://github.com/elementary/files/commit/2058d1340b907860b056f330f7c7f16ee309b51b)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -380,6 +384,9 @@
 - [ ] [<code>Fix some issues with running under tmux (#946)</code>](https://github.com/elementary/terminal/commit/f103e7d5ab0e7c0ba98b2a5b7f45da1dbf46f0d8)
 - [ ] [<code>Cleanup handling of tab icons (#969)</code>](https://github.com/elementary/terminal/commit/6c9ebe3df698d73b2f6b9e8ec6860685466da240)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add tab indicator for working terminal tab (#971)</code>](https://github.com/elementary/terminal/commit/131444a229c4aaf219aff0cea000ec0e26b191fb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove TerminalWidget.init_complete (#978)</code>](https://github.com/elementary/terminal/commit/ab7ab67b6a79379331dc2e51f365c26cd3131b36)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -661,6 +668,9 @@
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.3...HEAD)
 
+- [ ] [<code>App: Fix crash when activating search result (#693)</code>](https://github.com/elementary/applications-menu/commit/40eb627216e850ff6e4f1139c34e7810ee052ecb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add release notes for version 8.0.4 (#695)</code>](https://github.com/elementary/applications-menu/commit/029dc823331021ac9e8501cfee819ad0fe558950)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -822,6 +832,9 @@
 - [ ] [<code>l10n: Correct Chinese language codes (#137)</code>](https://github.com/elementary/quick-settings/commit/8629df7147666391396f09b3a50f424e12898d20)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/quick-settings/commit/5ff39cd1a5af298428ada1ea59648672fa803aab)
 - [ ] [<code>EndSessionDialog: use modal shell protocol (#141)</code>](https://github.com/elementary/quick-settings/commit/c34d6f1bc53a50cf829ac5a6dd3d375251050ab3)
+- [ ] [<code>Create Login1Manager (#144)</code>](https://github.com/elementary/quick-settings/commit/87c8ab48a2e6d5127364d18f510dce7df9724d12)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Register EndSessionDialog on start (#138)</code>](https://github.com/elementary/quick-settings/commit/4aa7d1402a45466216b88c821505906b8008d81c)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
@@ -884,6 +897,10 @@
 
 - [ ] [<code>meson: Replace deprecated source_root with project_source_root (#103)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0ade82e0f74d9998e83b28d028ecf0d15237c99a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Autostart using systemd instead of gnome-session (#106)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/286539c75b12715a9a8301f340762d36d65dcf09)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8.0.3 release notes (#108)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/15244700e45240a2aa7d151cccf6ab76712612d8)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.1.0...HEAD)
 
