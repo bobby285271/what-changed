@@ -670,6 +670,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ScreenshotManager: simplify composite_stage_cursor (#2740)</code>](https://github.com/elementary/gala/commit/7f633aa5d56d3d502b687f4c213eca789589b201)
 - [ ] [<code>Don't handle window menus for windows that are not normal (#2736)</code>](https://github.com/elementary/gala/commit/91a53ec6a68faae73719e55c41abf1689410a5aa)
+- [ ] [<code>Rework modal actions (#2739)</code>](https://github.com/elementary/gala/commit/b9b9dde03aa2515108e7809108d3f4544da7c4a5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
