@@ -35,6 +35,7 @@
 - [ ] [<code>Handle cancellable in change information (#2365)</code>](https://github.com/elementary/appcenter/commit/c0b25c101cdc6e9f4e46a56d931ee79c5f05e1e0)
 - [ ] [<code>Reload installed applications synchronously</code>](https://github.com/elementary/appcenter/commit/ca6239cdd8b075477b2c5307cd049ad5399c0d2e)
 - [ ] [<code>Remove is_package_installed</code>](https://github.com/elementary/appcenter/commit/74bf6af50b6085eadf304449d5120c3b5d4abcf7)
+- [ ] [<code>Package: combine single-use methods, always signal operation finished (#2397)</code>](https://github.com/elementary/appcenter/commit/a60685566233cd237440f99fec909039294df455)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -75,6 +76,9 @@
 - [ ] [<code>RepeatPanel: use reorder for weekdays (#890)</code>](https://github.com/elementary/calendar/commit/ed6d4d1a0784d59f5c0a7d69ca2d69e6f72307a2)
 - [ ] [<code>ReminderPanel: GTK4 prep (#892)</code>](https://github.com/elementary/calendar/commit/56064e3d1a2831bf668c2779fd50dd7b8b23fd87)
 - [ ] [<code>AgendaEventRow: support long press secondary menu (#887)</code>](https://github.com/elementary/calendar/commit/f0e435e85ff9f1edc406aeb7a3024d1337cc756a)
+- [ ] [<code>EventMenu: Use GLib.Menu</code>](https://github.com/elementary/calendar/commit/5e0dce90efd4433396dd505eac7a241890d3e982)
+- [ ] [<code>EventMenu: don't subclass menu</code>](https://github.com/elementary/calendar/commit/1941d5232952cd6a13fc8b359ba8297744efa389)
+- [ ] [<code>GridDay: add event, not button (#897)</code>](https://github.com/elementary/calendar/commit/ca3c0562292ee4641cdb9335325e7d367e762a30)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -204,6 +208,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update installation commands in the readme (#516)</code>](https://github.com/elementary/monitor/commit/a5de851a7f0bed351223e8ee4cc017d32e326201)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Parse ARM cpu names</code>](https://github.com/elementary/monitor/commit/9a4068df52c52314eb16feec3924fcf27acc86f4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix linting; comment out debug</code>](https://github.com/elementary/monitor/commit/ec9effb569a701c98b3d44af0e24c96a07525349)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -387,6 +394,8 @@
 - [ ] [<code>Add tab indicator for working terminal tab (#971)</code>](https://github.com/elementary/terminal/commit/131444a229c4aaf219aff0cea000ec0e26b191fb)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Remove TerminalWidget.init_complete (#978)</code>](https://github.com/elementary/terminal/commit/ab7ab67b6a79379331dc2e51f365c26cd3131b36)
+- [ ] [<code>TerminalWidget: don't store window info (#977)</code>](https://github.com/elementary/terminal/commit/13efc1cfba397b4b94184db770205549a040f9e2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -664,6 +673,9 @@
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
+- [ ] [<code>Add Mutter 49 support (#658)</code>](https://github.com/elementary/wingpanel/commit/cd4852e3a28fa5b14dc2ea88810a4754d7e1d226)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.3...HEAD)
@@ -835,6 +847,9 @@
 - [ ] [<code>Create Login1Manager (#144)</code>](https://github.com/elementary/quick-settings/commit/87c8ab48a2e6d5127364d18f510dce7df9724d12)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Register EndSessionDialog on start (#138)</code>](https://github.com/elementary/quick-settings/commit/4aa7d1402a45466216b88c821505906b8008d81c)
+- [ ] [<code>Release 1.4.0 (#143)</code>](https://github.com/elementary/quick-settings/commit/78d5e405e53907dd108f9ab71fb319624a8df558)
+  - <sub>Tags: <code>1.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
@@ -886,6 +901,9 @@
 - [ ] [<code>Metainfo: add 8.5.0 release notes (#219)</code>](https://github.com/elementary/settings-daemon/commit/3a725171cebf959d0447fc10e88c7e7cf3cc56c7)
 - [ ] [<code>GSchema: default auto updates to true (#220)</code>](https://github.com/elementary/settings-daemon/commit/dcc0de22f6f17a2730ecb553267bf2aa2f242371)
 - [ ] [<code>AccentColorManager: Prevent out of range access to themes array (#222)</code>](https://github.com/elementary/settings-daemon/commit/f04fcb39c198bcfdbcdb0928be0b5e4af30c6f66)
+- [ ] [<code>Release 8.5.0 (#221)</code>](https://github.com/elementary/settings-daemon/commit/19b2829f949b5b31ea98baf95a776c36a8761ebc)
+  - <sub>Tags: <code>8.5.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
