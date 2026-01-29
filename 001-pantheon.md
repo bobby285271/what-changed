@@ -79,6 +79,14 @@
 - [ ] [<code>EventMenu: Use GLib.Menu</code>](https://github.com/elementary/calendar/commit/5e0dce90efd4433396dd505eac7a241890d3e982)
 - [ ] [<code>EventMenu: don't subclass menu</code>](https://github.com/elementary/calendar/commit/1941d5232952cd6a13fc8b359ba8297744efa389)
 - [ ] [<code>GridDay: add event, not button (#897)</code>](https://github.com/elementary/calendar/commit/ca3c0562292ee4641cdb9335325e7d367e762a30)
+- [ ] [<code>GuestGrid: cleanup and code style (#893)</code>](https://github.com/elementary/calendar/commit/4d0346c9fc289af4997e0b248545f84a0f900875)
+- [ ] [<code>Guests → Invitees (#894)</code>](https://github.com/elementary/calendar/commit/d00f4eed7b6c349199c15fe7559b1874e7553d7c)
+- [ ] [<code>AgendaView: rewrite find without get_children (#895)</code>](https://github.com/elementary/calendar/commit/3ba4a76bab003e531c878919859a0a181870432b)
+- [ ] [<code>CalendarView: GTK4 prep (#889)</code>](https://github.com/elementary/calendar/commit/770cb63cefc42286c8072329a22b71694fb2e100)
+- [ ] [<code>SourceDialog: use Gtk.ComboboxText (#899)</code>](https://github.com/elementary/calendar/commit/7276d59cb956f8bca02377ac7b6cf65c60a69541)
+- [ ] [<code>VAutoHider: clean up (#898)</code>](https://github.com/elementary/calendar/commit/9a66b7a7e340f37e4edfbb46bee5998b0ab9eedf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>RepeatPanel: iterate without get_children (#896)</code>](https://github.com/elementary/calendar/commit/ce59e16c4e58b15fdb24a19c7c3f0c0ee08964cc)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -496,6 +504,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Touchpad: use settings action for click-method (#269)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/3cedde6f63e2d00f14f396e88ab3ab0c8761ce68)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Add PointingStick view (#263)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/63bf03c809febcd09fc82975af3ae91d98467aec)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -531,6 +542,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Wallpaper: sort when undoing trash (#477)</code>](https://github.com/elementary/settings-desktop/commit/ee63807a8578ac2dca9fe65223f4d4faa563ec51)
 - [ ] [<code>Wallpaper: DRY add_wallpaper_from_file (#474)</code>](https://github.com/elementary/settings-desktop/commit/c9888015dcc05c89eb76eceada334993e0096389)
+- [ ] [<code>WallpaperContainer: set uri, all the context menu controllers (#478)</code>](https://github.com/elementary/settings-desktop/commit/7e9b3985197e2ba2279e995a8acc3dd935de18e8)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
