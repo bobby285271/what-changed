@@ -36,6 +36,12 @@
 - [ ] [<code>Reload installed applications synchronously</code>](https://github.com/elementary/appcenter/commit/ca6239cdd8b075477b2c5307cd049ad5399c0d2e)
 - [ ] [<code>Remove is_package_installed</code>](https://github.com/elementary/appcenter/commit/74bf6af50b6085eadf304449d5120c3b5d4abcf7)
 - [ ] [<code>Package: combine single-use methods, always signal operation finished (#2397)</code>](https://github.com/elementary/appcenter/commit/a60685566233cd237440f99fec909039294df455)
+- [ ] [<code>FlatpakBackend/install_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/29ea0c5b996efd85518919b5339ea93da4c659c3)
+- [ ] [<code>FlatpakBackend/remove_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/a7b54abb9118d92f880a74e200180089c261ff5e)
+- [ ] [<code>FlatpakBackend/update_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/49f8243e7ac64754c11a41e89c60b8377b6d853d)
+- [ ] [<code>Package/operations: Ignore return value from the backend</code>](https://github.com/elementary/appcenter/commit/647738259e356af1ac43f66fb3a603d21de977eb)
+- [ ] [<code>FlatpakBackend: Remove return value from package transactions</code>](https://github.com/elementary/appcenter/commit/5040c5288e196c9168a9d90e97a47d3a071cda3e)
+- [ ] [<code>FlatpakBackend: Add more warnings</code>](https://github.com/elementary/appcenter/commit/e92936a049b24a5ab0ffc7067777c42ae939d7cd)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -507,6 +513,11 @@
 - [ ] [<code>Add PointingStick view (#263)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/63bf03c809febcd09fc82975af3ae91d98467aec)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Mouse: fix pointer accel screenreader label (#273)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/311432cdc151328ab468ceeb6b5eb2b9277932fc)
+- [ ] [<code>Touchpad: add drag-lock setting (#270)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/468b66812ddd8088f80a511fe4225e633b98e363)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Metainfo: add 8.1.0 release notes (#274)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/e2655a789285112e7ae6c5e3468d577dae2ad0de)
+- [ ] [<code>Clicking: modernize code style (#272)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/5592d89afc5b39d8261029841eaa9eb96550f871)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -875,6 +886,7 @@
 - [ ] [<code>DateTime: Make sure to always compare dates if datetimes have the same timezone</code>](https://github.com/elementary/granite/commit/b9921f531e525000916ec9b4886c83c4b850f4d7)
 - [ ] [<code>HeaderLabel: Add ellipsize property (#936)</code>](https://github.com/elementary/granite/commit/22f07cb9b1435247dd72c095cdd340164f1bdf1e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add last checked tomorrow issue (#942)</code>](https://github.com/elementary/granite/commit/a473845f78963e251edbbfff3756649da0ce0269)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -907,18 +919,8 @@
 
 - [ ] [<code>Demo/Application: rely on Granite.StyleManager (#287)</code>](https://github.com/elementary/notifications/commit/48f20edff6da82ff6c30efa71ba6ba1a218201ba)
 
-#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [8.4.0 → HEAD](https://github.com/elementary/settings-daemon/compare/8.4.0...HEAD)
+#### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
-- [ ] [<code>Autostart using systemd instead of gnome-session (#218)</code>](https://github.com/elementary/settings-daemon/commit/a2bdefee61c7aeba678e4870344218aae1f97f4b)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>skip notifications for already-installed packages (#216)</code>](https://github.com/elementary/settings-daemon/commit/f9223cc710bc8eb4888006c2aeeb217740d1f25e)
-- [ ] [<code>Metainfo: add 8.5.0 release notes (#219)</code>](https://github.com/elementary/settings-daemon/commit/3a725171cebf959d0447fc10e88c7e7cf3cc56c7)
-- [ ] [<code>GSchema: default auto updates to true (#220)</code>](https://github.com/elementary/settings-daemon/commit/dcc0de22f6f17a2730ecb553267bf2aa2f242371)
-- [ ] [<code>AccentColorManager: Prevent out of range access to themes array (#222)</code>](https://github.com/elementary/settings-daemon/commit/f04fcb39c198bcfdbcdb0928be0b5e4af30c6f66)
-- [ ] [<code>Release 8.5.0 (#221)</code>](https://github.com/elementary/settings-daemon/commit/19b2829f949b5b31ea98baf95a776c36a8761ebc)
-  - <sub>Tags: <code>8.5.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -937,6 +939,8 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.1.0...HEAD)
 
+- [ ] [<code>AppChooser/Dialog: invert primary and secondary text (#172)</code>](https://github.com/elementary/portals/commit/752e32553f1cab59b71f11205b05506bed1cad66)
+- [ ] [<code>ScreenCast/Dialog: add icon, explanation text (#167)</code>](https://github.com/elementary/portals/commit/06ffbc9e241aa4f499ae3a04babadbea4c714997)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
