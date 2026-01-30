@@ -941,6 +941,8 @@
 
 - [ ] [<code>AppChooser/Dialog: invert primary and secondary text (#172)</code>](https://github.com/elementary/portals/commit/752e32553f1cab59b71f11205b05506bed1cad66)
 - [ ] [<code>ScreenCast/Dialog: add icon, explanation text (#167)</code>](https://github.com/elementary/portals/commit/06ffbc9e241aa4f499ae3a04babadbea4c714997)
+- [ ] [<code>AppChooser/Dialog: handle links (#171)</code>](https://github.com/elementary/portals/commit/ec29931ed536cbb595295eb1bb794ada1d0e9d37)
+- [ ] [<code>ExternalWindow: fix dialog parenting (#168)</code>](https://github.com/elementary/portals/commit/3a83f72ae4b9a54df131697987686b1be7346ffc)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
