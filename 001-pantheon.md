@@ -42,6 +42,8 @@
 - [ ] [<code>Package/operations: Ignore return value from the backend</code>](https://github.com/elementary/appcenter/commit/647738259e356af1ac43f66fb3a603d21de977eb)
 - [ ] [<code>FlatpakBackend: Remove return value from package transactions</code>](https://github.com/elementary/appcenter/commit/5040c5288e196c9168a9d90e97a47d3a071cda3e)
 - [ ] [<code>FlatpakBackend: Add more warnings</code>](https://github.com/elementary/appcenter/commit/e92936a049b24a5ab0ffc7067777c42ae939d7cd)
+- [ ] [<code>Send feedback on uninstall (#2394)</code>](https://github.com/elementary/appcenter/commit/2b00a9659ed8972dfadb6c3c45d9bafcad823ed2)
+- [ ] [<code>Application: DRY and reduce nesting on operation finished (#2398)</code>](https://github.com/elementary/appcenter/commit/c5d1ec9cac467f3c64274590915c846db37637ef)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -93,6 +95,8 @@
 - [ ] [<code>VAutoHider: clean up (#898)</code>](https://github.com/elementary/calendar/commit/9a66b7a7e340f37e4edfbb46bee5998b0ab9eedf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>RepeatPanel: iterate without get_children (#896)</code>](https://github.com/elementary/calendar/commit/ce59e16c4e58b15fdb24a19c7c3f0c0ee08964cc)
+- [ ] [<code>EventButton: don't subclass Revealer (#854)</code>](https://github.com/elementary/calendar/commit/893c134554a0381fa871b5c676477eda20f62c3b)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -128,6 +132,8 @@
 - [ ] [<code>App/Launcher: Add AppCenter actions (#568)</code>](https://github.com/elementary/dock/commit/facb6298dbbf54d33820f2c8795842b5d38dd80c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>App: don't pass appcenter object instance (#571)</code>](https://github.com/elementary/dock/commit/182f280966d06f963655ebe0578939ffdc879244)
+- [ ] [<code>Styles: add drag-accept style to icon groups (#570)</code>](https://github.com/elementary/dock/commit/2257e85067ad9905cb03beed2f4d66e6c890eb9d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
 
@@ -943,6 +949,7 @@
 - [ ] [<code>ScreenCast/Dialog: add icon, explanation text (#167)</code>](https://github.com/elementary/portals/commit/06ffbc9e241aa4f499ae3a04babadbea4c714997)
 - [ ] [<code>AppChooser/Dialog: handle links (#171)</code>](https://github.com/elementary/portals/commit/ec29931ed536cbb595295eb1bb794ada1d0e9d37)
 - [ ] [<code>ExternalWindow: fix dialog parenting (#168)</code>](https://github.com/elementary/portals/commit/3a83f72ae4b9a54df131697987686b1be7346ffc)
+- [ ] [<code>Use Granite.ListItem, Granite.Box (#176)</code>](https://github.com/elementary/portals/commit/2b8b71528f03f2f6c63390da164f19d3c44d1f0e)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
