@@ -871,17 +871,8 @@
 - [ ] [<code>Indicator: Fix setting max-volume key does not take effect (#314)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/34aae8827402a9bff03d0fd8a505aecc95b9b51a)
 - [ ] [<code>Metainfo: add 8.0.3 (#315)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c4ada61a951a708e5becf7e547a85b72951d5a5c)
 
-#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.3.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.3.0...HEAD)
+#### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
-- [ ] [<code>l10n: Correct Chinese language codes (#137)</code>](https://github.com/elementary/quick-settings/commit/8629df7147666391396f09b3a50f424e12898d20)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/quick-settings/commit/5ff39cd1a5af298428ada1ea59648672fa803aab)
-- [ ] [<code>EndSessionDialog: use modal shell protocol (#141)</code>](https://github.com/elementary/quick-settings/commit/c34d6f1bc53a50cf829ac5a6dd3d375251050ab3)
-- [ ] [<code>Create Login1Manager (#144)</code>](https://github.com/elementary/quick-settings/commit/87c8ab48a2e6d5127364d18f510dce7df9724d12)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Register EndSessionDialog on start (#138)</code>](https://github.com/elementary/quick-settings/commit/4aa7d1402a45466216b88c821505906b8008d81c)
-- [ ] [<code>Release 1.4.0 (#143)</code>](https://github.com/elementary/quick-settings/commit/78d5e405e53907dd108f9ab71fb319624a8df558)
-  - <sub>Tags: <code>1.4.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
