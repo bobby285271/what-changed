@@ -584,6 +584,7 @@
 - [ ] [<code>Update sharing.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/dbabdcf0ba6f6fd1a182a16ca53fb075619e0ac7)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sharing/commit/a2b94791b2a01649d1ed1485b1a6c6770140fa34)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ea1d1639789adc643cac8f20efbfb2c094c1cf95)
+- [ ] [<code>BluetoothPage: use daemon for enabled state (#99)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fe5f43c5ef2f9621dbb046f41ee9a88af545113d)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
@@ -941,6 +942,7 @@
 - [ ] [<code>AppChooser/Dialog: handle links (#171)</code>](https://github.com/elementary/portals/commit/ec29931ed536cbb595295eb1bb794ada1d0e9d37)
 - [ ] [<code>ExternalWindow: fix dialog parenting (#168)</code>](https://github.com/elementary/portals/commit/3a83f72ae4b9a54df131697987686b1be7346ffc)
 - [ ] [<code>Use Granite.ListItem, Granite.Box (#176)</code>](https://github.com/elementary/portals/commit/2b8b71528f03f2f6c63390da164f19d3c44d1f0e)
+- [ ] [<code>ScreenCast/Dialog: check when row activated (#170)</code>](https://github.com/elementary/portals/commit/1d5dabcf03b204f6765b922d4bfb94819c4300ea)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
