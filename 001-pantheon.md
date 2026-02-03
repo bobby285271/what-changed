@@ -589,6 +589,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ea1d1639789adc643cac8f20efbfb2c094c1cf95)
 - [ ] [<code>BluetoothPage: use daemon for enabled state (#99)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fe5f43c5ef2f9621dbb046f41ee9a88af545113d)
 - [ ] [<code>Release 8.0.3 (#101)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/8ac4bd21132251924a3d4ad83e3be0fae087b624)
+  - <sub>Tags: <code>8.0.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
