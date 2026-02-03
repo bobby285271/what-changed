@@ -97,6 +97,7 @@
 - [ ] [<code>RepeatPanel: iterate without get_children (#896)</code>](https://github.com/elementary/calendar/commit/ce59e16c4e58b15fdb24a19c7c3f0c0ee08964cc)
 - [ ] [<code>EventButton: don't subclass Revealer (#854)</code>](https://github.com/elementary/calendar/commit/893c134554a0381fa871b5c676477eda20f62c3b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.1.tar.xz to 3.59.2 (#905)</code>](https://github.com/elementary/calendar/commit/49ca61a1b1786cc245994266bc6729075cc7224e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -195,6 +196,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#178)</code>](https://github.com/elementary/maps/commit/870db0dc75c4d8ecac95d4d269ffa622249b118d)
 - [ ] [<code>l10n: Correct language code of Norwegian Bokmål</code>](https://github.com/elementary/maps/commit/030ab45a24ca979b51208c4ada2420cefc644828)
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#179)</code>](https://github.com/elementary/maps/commit/47a3d81dca6d06a628eec58692e3636002274c83)
+- [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#180)</code>](https://github.com/elementary/maps/commit/2bda38cae244a26826aba16b48060df9b0ae804c)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -372,6 +374,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#424)</code>](https://github.com/elementary/tasks/commit/9c1575e20a1a826b4e3124ae76dee6e7f23fe804)
+- [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#425)</code>](https://github.com/elementary/tasks/commit/6291bb05547c1a81d573d1e71249da5e61674b2d)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
@@ -585,6 +588,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sharing/commit/a2b94791b2a01649d1ed1485b1a6c6770140fa34)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ea1d1639789adc643cac8f20efbfb2c094c1cf95)
 - [ ] [<code>BluetoothPage: use daemon for enabled state (#99)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fe5f43c5ef2f9621dbb046f41ee9a88af545113d)
+- [ ] [<code>Release 8.0.3 (#101)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/8ac4bd21132251924a3d4ad83e3be0fae087b624)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
@@ -943,6 +948,7 @@
 - [ ] [<code>ExternalWindow: fix dialog parenting (#168)</code>](https://github.com/elementary/portals/commit/3a83f72ae4b9a54df131697987686b1be7346ffc)
 - [ ] [<code>Use Granite.ListItem, Granite.Box (#176)</code>](https://github.com/elementary/portals/commit/2b8b71528f03f2f6c63390da164f19d3c44d1f0e)
 - [ ] [<code>ScreenCast/Dialog: check when row activated (#170)</code>](https://github.com/elementary/portals/commit/1d5dabcf03b204f6765b922d4bfb94819c4300ea)
+- [ ] [<code>Replace Granite StyleClass deprecations (#175)</code>](https://github.com/elementary/portals/commit/453b2cfe42158022f7bf235ef936434e4e705de2)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
