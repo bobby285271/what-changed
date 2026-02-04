@@ -98,6 +98,9 @@
 - [ ] [<code>EventButton: don't subclass Revealer (#854)</code>](https://github.com/elementary/calendar/commit/893c134554a0381fa871b5c676477eda20f62c3b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.1.tar.xz to 3.59.2 (#905)</code>](https://github.com/elementary/calendar/commit/49ca61a1b1786cc245994266bc6729075cc7224e)
+- [ ] [<code>EventDialog: run → response (#907)</code>](https://github.com/elementary/calendar/commit/55b79e9db8d676f2369cc5d1c4131312f84e58bf)
+- [ ] [<code>Drop Contractor (#908)</code>](https://github.com/elementary/calendar/commit/65eb6d908261db55fc07c26a76ca22635bf3dc56)
+- [ ] [<code>EventDialog: remove dialog properties (#912)</code>](https://github.com/elementary/calendar/commit/4eb59ea430a606d5311d2c80ad75d454d9e5902f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -178,6 +181,8 @@
 - [ ] [<code>AbstractDirectoryView: Simplify the handling of open-in action (#2707)</code>](https://github.com/elementary/files/commit/43d308edd16b66a5b72caa56158b6ae4b48d131c)
 - [ ] [<code>DetailsColumn: scrolled fills the entire column (#2713)</code>](https://github.com/elementary/files/commit/2058d1340b907860b056f330f7c7f16ee309b51b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove unused functions updating desktop file info</code>](https://github.com/elementary/files/commit/fae9eb3b9f74e41952caf98e35eafee4a6dcb0b2)
+- [ ] [<code>File: Remove unused function - update_type ()</code>](https://github.com/elementary/files/commit/fc01e2aeef65cdd349227d16d4f1374b85413d98)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -419,6 +424,8 @@
 - [ ] [<code>Remove TerminalWidget.init_complete (#978)</code>](https://github.com/elementary/terminal/commit/ab7ab67b6a79379331dc2e51f365c26cd3131b36)
 - [ ] [<code>TerminalWidget: don't store window info (#977)</code>](https://github.com/elementary/terminal/commit/13efc1cfba397b4b94184db770205549a040f9e2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>SettingsPopover: use actions where possible (#982)</code>](https://github.com/elementary/terminal/commit/c254985e1f84499156975b3058dfaf6dad6b148c)
+- [ ] [<code>Revert "Remove TerminalWidget.init_complete" (#983)</code>](https://github.com/elementary/terminal/commit/e5aaf806fd2f5228d72068ac310180f0bcd70637)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -460,6 +467,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix Granite Style deprecations (#401)</code>](https://github.com/elementary/settings-system/commit/cc85c7a920745b7bb4ba8936decea428e60ed514)
+- [ ] [<code>Update translation status badge link in README</code>](https://github.com/elementary/settings-system/commit/3d929d97c9df0aa764f78bb3ddb2941e1d4fdecb)
+- [ ] [<code>Update translation status badge in README</code>](https://github.com/elementary/settings-system/commit/f8ab702974adad4b51f084a3bb20cda27b1b0999)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
 
@@ -533,6 +542,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-network/commit/649858cd62b86531471976ddf607f04ed2ce5f57)
 - [ ] [<code>Update network.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-network/commit/51bad2127dee35f56684307dc4d70526824ad545)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-network/commit/ab24b3cfad2deb89f26dc7aac4a75577a4fea252)
+- [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/switchboard-plug-network/commit/424a8c0187e7a00ebbdd17c6b40b4608e81dd2c8)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/settings-notifications): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/settings-notifications/compare/refs/tags/8.0.1...HEAD)
 
@@ -544,6 +554,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/settings-onlineaccounts/commit/59b69c2e98992f084807af46631498f4696eafe9)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-onlineaccounts/commit/dd649f66d9a9b1c38ee7d03e8a63d7bc464d6bd9)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-onlineaccounts/commit/b03dec8381445f4feeb07dde355dfc9045ddddc2)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-onlineaccounts/commit/e3dcbc43dc39929b0b3b7c9a752c5647cb2da469)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.2.1 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.2.1...HEAD)
 
@@ -570,6 +581,7 @@
 - [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/settings-power/commit/16258a31e6607d7af728b5a3475333bb23d67005)
 - [ ] [<code>Fix height issue with switch height in battery panel (#286)</code>](https://github.com/elementary/settings-power/commit/d7bbe6670b23b06aa634a7756aca9d8c2979c038)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-power/commit/67905d347e749cab15d21ff3deb5748fac824fea)
+- [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/settings-power/commit/8d01fc56415a44dc123c9a1184caa0ab35ace1af)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
@@ -591,6 +603,7 @@
 - [ ] [<code>Release 8.0.3 (#101)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/8ac4bd21132251924a3d4ad83e3be0fae087b624)
   - <sub>Tags: <code>8.0.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/switchboard-plug-sharing/commit/f48a184877459104617dbc91eb2a67b55ebd6103)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
@@ -599,6 +612,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
 
