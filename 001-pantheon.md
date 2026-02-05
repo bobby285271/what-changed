@@ -664,6 +664,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
 - [ ] [<code>Disable notifications from Evolution Data Server (#359)</code>](https://github.com/elementary/default-settings/commit/e91cdb0f4ba80cb09d823fbfa5556e3473c76997)
+- [ ] [<code>Release 8.1.1 (#360)</code>](https://github.com/elementary/default-settings/commit/517bf7fd43188fcaa079cc043e1cfdd172ecb327)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
