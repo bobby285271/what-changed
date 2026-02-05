@@ -44,6 +44,9 @@
 - [ ] [<code>FlatpakBackend: Add more warnings</code>](https://github.com/elementary/appcenter/commit/e92936a049b24a5ab0ffc7067777c42ae939d7cd)
 - [ ] [<code>Send feedback on uninstall (#2394)</code>](https://github.com/elementary/appcenter/commit/2b00a9659ed8972dfadb6c3c45d9bafcad823ed2)
 - [ ] [<code>Application: DRY and reduce nesting on operation finished (#2398)</code>](https://github.com/elementary/appcenter/commit/c5d1ec9cac467f3c64274590915c846db37637ef)
+- [ ] [<code>Release 8.3.2 (#2384)</code>](https://github.com/elementary/appcenter/commit/be6074fd41b5d004dd0006decf5b5a4496fbefd2)
+  - <sub>Tags: <code>8.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -591,19 +594,9 @@
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-security-privacy/commit/109d4599a6cc6917d9f49a8a4e8b6e6ee5c845ac)
 
-#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/switchboard-plug-sharing): [8.0.2 → HEAD](https://github.com/elementary/switchboard-plug-sharing/compare/8.0.2...HEAD)
+#### [pantheon.switchboard-plug-sharing](https://github.com/elementary/settings-sharing): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sharing/compare/refs/tags/8.0.3...HEAD)
 
-- [ ] [<code>Actions: Use main branch (#95)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/432939d757b8a2edb1b7109e95d08d8eefd160c2)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#96)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/58b483dfdc9776d394cf54934b4ee67122ae3818)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-sharing/commit/809d4ec7a3b156f086a2c3ebd3cc62331eeadd65)
-- [ ] [<code>Update sharing.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-sharing/commit/dbabdcf0ba6f6fd1a182a16ca53fb075619e0ac7)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-sharing/commit/a2b94791b2a01649d1ed1485b1a6c6770140fa34)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-sharing/commit/ea1d1639789adc643cac8f20efbfb2c094c1cf95)
-- [ ] [<code>BluetoothPage: use daemon for enabled state (#99)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/fe5f43c5ef2f9621dbb046f41ee9a88af545113d)
-- [ ] [<code>Release 8.0.3 (#101)</code>](https://github.com/elementary/switchboard-plug-sharing/commit/8ac4bd21132251924a3d4ad83e3be0fae087b624)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/switchboard-plug-sharing/commit/f48a184877459104617dbc91eb2a67b55ebd6103)
+- [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/settings-sharing/commit/f48a184877459104617dbc91eb2a67b55ebd6103)
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
 
