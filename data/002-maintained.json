@@ -57,9 +57,6 @@
         },
         {
             "attr_path": "vala-lint"
-        },
-        {
-            "attr_path": "wingpanel-indicator-ayatana"
         }
     ]
 }
