@@ -104,6 +104,19 @@
 - [ ] [<code>EventDialog: run → response (#907)</code>](https://github.com/elementary/calendar/commit/55b79e9db8d676f2369cc5d1c4131312f84e58bf)
 - [ ] [<code>Drop Contractor (#908)</code>](https://github.com/elementary/calendar/commit/65eb6d908261db55fc07c26a76ca22635bf3dc56)
 - [ ] [<code>EventDialog: remove dialog properties (#912)</code>](https://github.com/elementary/calendar/commit/4eb59ea430a606d5311d2c80ad75d454d9e5902f)
+- [ ] [<code>SourceRow: wrap label (#921)</code>](https://github.com/elementary/calendar/commit/842a67e0609b23be1c655255df4d1a15121a90e9)
+- [ ] [<code>LocationPanel: remove timezone fallback (#922)</code>](https://github.com/elementary/calendar/commit/c5d5bf29e6db40ac28a0970c940a7313f60dcd16)
+- [ ] [<code>Application: use add_main_option_entries (#911)</code>](https://github.com/elementary/calendar/commit/55656faecc155e661b00df32a21f75b20c6c55ab)
+- [ ] [<code>RepeatPanel: put inside a scrolled (#920)</code>](https://github.com/elementary/calendar/commit/f90d2954de3d23567de3730e565bf9299496e10b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>MainWindow: trash calendars on close (#917)</code>](https://github.com/elementary/calendar/commit/ab2dcfc093466786a9d9ff52eb79b8b805fc7e6a)
+- [ ] [<code>AgendaEventRow: create get_timespan_label (#915)</code>](https://github.com/elementary/calendar/commit/f6bec33a8a2eaf33cf08349062fa112a8c4c9f15)
+- [ ] [<code>CalendarRow: use revealer for selection, emblem-default (#914)</code>](https://github.com/elementary/calendar/commit/98019c7b7f451dc0d0508326edfa3de90fadf62b)
+- [ ] [<code>RepeatPanel: gtk4 friendly text and image button (#919)</code>](https://github.com/elementary/calendar/commit/b05a60d311303dec1e4a37d6b086afe12bdf96ff)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>RepeatPanel: use revealers (#916)</code>](https://github.com/elementary/calendar/commit/ef5e1173d7ad4ce7e0586b878a96179236a9a938)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>LocationPanel: cleanup cancellables in destructor (#918)</code>](https://github.com/elementary/calendar/commit/ca84cb51962d28175f11912b9cd2f12de569c329)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -153,6 +166,10 @@
 - [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
 - [ ] [<code>MainWindow: rely on Granite.StyleManager (#132)</code>](https://github.com/elementary/feedback/commit/056d6540220a4ab0e3e41b75479536a55f1e3691)
 - [ ] [<code>MainWindow: use headerbar and toolbarview (#133)</code>](https://github.com/elementary/feedback/commit/18b6bb1c2115ef479592f29ebd31cc83ef3e68f4)
+- [ ] [<code>Metainfo: add 8.1.1 release notes (#134)</code>](https://github.com/elementary/feedback/commit/0cf4f3d0732559db60f801edfebf565e1028ed94)
+- [ ] [<code>Release 8.1.1 (#135)</code>](https://github.com/elementary/feedback/commit/6a5bc4f0377efc2ad8e2960adb8f470d7658d172)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
 
@@ -484,6 +501,11 @@
 - [ ] [<code>Introduce own AppChooserButton instead of deprecated Gtk.AppChooserButton (#269)</code>](https://github.com/elementary/settings-applications/commit/c384de181899949722b17d76ef602fc30c807968)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Metainfo: add 8.3.0 release notes (#275)</code>](https://github.com/elementary/settings-applications/commit/8a420008ee17a32bad46011658a864ff93d29d64)
+- [ ] [<code>Refresh background icon (#261)</code>](https://github.com/elementary/settings-applications/commit/2c346d28300827b48a0bb57dfbf867c5f9c857b0)
+- [ ] [<code>Release 8.3.0 (#276)</code>](https://github.com/elementary/settings-applications/commit/7a3db68680295c37e8baabd9812bb2df11f10fc8)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -539,6 +561,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Metainfo: add 8.1.0 release notes (#274)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/e2655a789285112e7ae6c5e3468d577dae2ad0de)
 - [ ] [<code>Clicking: modernize code style (#272)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/5592d89afc5b39d8261029841eaa9eb96550f871)
+- [ ] [<code>Release 8.1.0 (#275)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/0309d2bc29ce40922987e62cf53d780fceff8235)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -618,6 +643,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aa427dc031252ab22acbe3ac369673d72e766fd9)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c54c446eab7808279a9ba761d5d81ca8618914cb)
 - [ ] [<code>Rename as Pen & Drawing (#79)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d82dc1e37f433c315e3fe5f2d05da9dc02f64c5f)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#80)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/737370c2f1b9747dabefc872b140aec8ff355912)
+- [ ] [<code>StylusView: Add translators comment (#81)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/0bb143adca76a21e517cb14f43b8de6e2a94d187)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
@@ -633,6 +660,7 @@
 - [ ] [<code>Make process-stop and process-completed match (#1409)</code>](https://github.com/elementary/icons/commit/407b605e88662043d4708d2ab199a39e709470f7)
 - [ ] [<code>Add 16px camera-photo (#1411)</code>](https://github.com/elementary/icons/commit/caa2d51883277649ec8b1f3cb5da8c98681e9c76)
 - [ ] [<code>metainfo: Fix typo "16x" → "16px" (#1414)</code>](https://github.com/elementary/icons/commit/5b287e7a501c4c09fe06b3fa8c8bf652f6f9cc67)
+- [ ] [<code>Center app icons  >=48px (#1416)</code>](https://github.com/elementary/icons/commit/78babe7a69b8504272b2b23e59cb3772e1f42168)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -665,6 +693,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
 - [ ] [<code>Disable notifications from Evolution Data Server (#359)</code>](https://github.com/elementary/default-settings/commit/e91cdb0f4ba80cb09d823fbfa5556e3473c76997)
 - [ ] [<code>Release 8.1.1 (#360)</code>](https://github.com/elementary/default-settings/commit/517bf7fd43188fcaa079cc043e1cfdd172ecb327)
+  - <sub>Tags: <code>8.1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
@@ -674,6 +703,7 @@
 
 - [ ] [<code>Application: rely on Granite.StyleManager (#271)</code>](https://github.com/elementary/onboarding/commit/3f7aee3ab0814560bd63bf140b1d35eeadda30bd)
 - [ ] [<code>StyleView: Support Latte (#261)</code>](https://github.com/elementary/onboarding/commit/dad9715400b1ffd9d827cef5514ec49d398b1e0c)
+- [ ] [<code>FinishView: explain how to access system settings (#274)</code>](https://github.com/elementary/onboarding/commit/3eb38ccc6669d432c929bd70ce32ecf84ed6b5a4)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -731,6 +761,9 @@
 - [ ] [<code>App: Fix crash when activating search result (#693)</code>](https://github.com/elementary/applications-menu/commit/40eb627216e850ff6e4f1139c34e7810ee052ecb)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add release notes for version 8.0.4 (#695)</code>](https://github.com/elementary/applications-menu/commit/029dc823331021ac9e8501cfee819ad0fe558950)
+- [ ] [<code>Release 8.0.4 (#696)</code>](https://github.com/elementary/applications-menu/commit/eb1416985bea6eea43cdcc84a4aea4cc8498134a)
+  - <sub>Tags: <code>8.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -886,6 +919,9 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#310)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fbb128232d5ca769cde9e5abc83f7960e48399bc)
 - [ ] [<code>Indicator: Fix setting max-volume key does not take effect (#314)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/34aae8827402a9bff03d0fd8a505aecc95b9b51a)
 - [ ] [<code>Metainfo: add 8.0.3 (#315)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c4ada61a951a708e5becf7e547a85b72951d5a5c)
+- [ ] [<code>Release 8.0.3 (#316)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8114866d425043e7e77ffc942edfb76493550c15)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -900,6 +936,8 @@
 - [ ] [<code>HeaderLabel: Add ellipsize property (#936)</code>](https://github.com/elementary/granite/commit/22f07cb9b1435247dd72c095cdd340164f1bdf1e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add last checked tomorrow issue (#942)</code>](https://github.com/elementary/granite/commit/a473845f78963e251edbbfff3756649da0ce0269)
+- [ ] [<code>ListItem: add menu_model property (#826)</code>](https://github.com/elementary/granite/commit/bffb2ff70b71a1109b0f7fc59490415d3853869c)
+- [ ] [<code>Update granite.metainfo.xml.in (#945)</code>](https://github.com/elementary/granite/commit/3f6ce05a544bb594f654d33cc1772f3a478fb9bf)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -959,6 +997,8 @@
 - [ ] [<code>Use Granite.ListItem, Granite.Box (#176)</code>](https://github.com/elementary/portals/commit/2b8b71528f03f2f6c63390da164f19d3c44d1f0e)
 - [ ] [<code>ScreenCast/Dialog: check when row activated (#170)</code>](https://github.com/elementary/portals/commit/1d5dabcf03b204f6765b922d4bfb94819c4300ea)
 - [ ] [<code>Replace Granite StyleClass deprecations (#175)</code>](https://github.com/elementary/portals/commit/453b2cfe42158022f7bf235ef936434e4e705de2)
+- [ ] [<code>Create PortalDialog (#169)</code>](https://github.com/elementary/portals/commit/10aa0b271df4ad62f50153e0a352a69b03a72b07)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
