@@ -258,33 +258,12 @@
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 - [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
-#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.3 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.3...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.5 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.5...HEAD)
 
-- [ ] [<code>Adding debug information.</code>](https://github.com/phase1geo/minder/commit/7dcfac91062c115e905b0e4c22e574199551f4ed)
-- [ ] [<code>Fixing issue with updating font UI in style sidebar.</code>](https://github.com/phase1geo/minder/commit/1267e353ddae94ac0102af5252b77a169be152ce)
-- [ ] [<code>Fixing several issues with closing sidebar with Escape key.</code>](https://github.com/phase1geo/minder/commit/b8eb3d94c700555849d3df491a706b6e6502ee8a)
-- [ ] [<code>Fixing issues with importing pminder and other V1 files.</code>](https://github.com/phase1geo/minder/commit/f26658f76d98f788b50e7c0b26a56170439ce3b1)
-- [ ] [<code>Cleaning up debug output.</code>](https://github.com/phase1geo/minder/commit/0dc6f09fc8c2e5f1934b5bcba3119485c122cad3)
-- [ ] [<code>Final changes for importing portable minder file with images.</code>](https://github.com/phase1geo/minder/commit/e762815de9835169d0c36ec26f0f32193ea94da6)
-- [ ] [<code>Merge branch 'portable-import'</code>](https://github.com/phase1geo/minder/commit/3a1d80bee3cf3828c84c1c52f1b4c77c63b480d4)
-- [ ] [<code>Adding default file icon for .minder files.</code>](https://github.com/phase1geo/minder/commit/ce3b53235bec8d12e241f20fa90c0142128a1df6)
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.0...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
-- [ ] [<code>chore: Rename Switchboard to System Settings (#337)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c51bc92ce6256dd69af1674fd87ba0b348d030e0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>feat: ThemeSettings: Add support for Latte (#276)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/f65ed150f712eac2037111586073059299f5e620)
-- [ ] [<code>chore(deps): bump actions/checkout from 5 to 6 (#338)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ad9a2fd2ab9257ea2ab3c6eef03bd3e31c788908)
-- [ ] [<code>chore: Apply shellcheck (#339)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0fab7789cb3300bca4d27b89fe22da9fed550b4a)
-- [ ] [<code>chore: start-pantheon-tweaks.sh: Coding style (#340)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5da42da98ca9e1ee69ea28207982197d941bbf0b)
-- [ ] [<code>fix: start-pantheon-tweaks.sh: Correct position to trap SIGINT (#341)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4b327d5d3d81b1e0739285b314868cf1a59ab9d9)
-- [ ] [<code>fix: MainWindow: Add missing window title (#342)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a38f28742cfdaa0c82961c040e0b4e82185a04c4)
-- [ ] [<code>chore: Tweaks: Rely on Granite.StyleManager (#344)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d5863fb3983a0db7a9614233b8f9465bf344c8c6)
-- [ ] [<code>meson: Coding style (#346)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cce774c4cba07188a92916500954adb7866d43eb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>chore: Flatpak: Use tarball instead of git (#347)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/24ec225909ec65d1af907f606e0fa40d9269aeb1)
+- [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.17.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.17.0...HEAD)
 
@@ -334,6 +313,40 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ee797e06d2d1bd6b658a4e6f4ad7c78b80089962)
 - [ ] [<code>Run translation updates in pull requests (#2185)</code>](https://github.com/alainm23/planify/commit/758d7875c7d1a735f25154cfb89ea827039a18b9)
 - [ ] [<code>Translations update from Hosted Weblate (#2190)</code>](https://github.com/alainm23/planify/commit/2c3f74e70f47258577929a21bc48b3ef0b5993d5)
+- [ ] [<code>Fix translation workflows (#2197)</code>](https://github.com/alainm23/planify/commit/9c2f56d52fea9571f33cef0fc166c05ae53f6767)
+- [ ] [<code>Improve behavior for small windows (#2193)</code>](https://github.com/alainm23/planify/commit/025207bb40180cfbfa25b01eb356db8932af9389)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add Todoist Assignment options to Today filter (#2195)</code>](https://github.com/alainm23/planify/commit/453c6e327d36b116ef4763c7937c772e73a68040)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Handle Multi-Status responses for DELETE requests in CalDAV client (#2196)</code>](https://github.com/alainm23/planify/commit/0a1bc0166c7b38b3fa810214a4cd9daae4b68973)
+- [ ] [<code>Translations update from Hosted Weblate (#2192)</code>](https://github.com/alainm23/planify/commit/4e695a7a72fd58c5bd96dd542359fc591f50d127)
+- [ ] [<code>Remove lines can't be parsed by weblate (#2200)</code>](https://github.com/alainm23/planify/commit/0fab3fc6565fa0a8f0044fe88e7b1df9168a2381)
+- [ ] [<code>Handle UTF-8 correctly when composing week string (#2201)</code>](https://github.com/alainm23/planify/commit/75c4b36eb3f6ef9b2d7c4e2829dda673914e17b2)
+- [ ] [<code>feat: migrate todoist v1 (#2202)</code>](https://github.com/alainm23/planify/commit/344ecedc56cc53a6d15465001f06944ffae965d4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: update margins (#2204)</code>](https://github.com/alainm23/planify/commit/ea489a7a2cfa18aac52d96e82d64c612eaa51c1f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add tab-new-symbolic icon (#2205)</code>](https://github.com/alainm23/planify/commit/eeaf4f7bba51984a69fe154f41b12171069e9410)
+- [ ] [<code>fix: unfocus item (#2206)</code>](https://github.com/alainm23/planify/commit/2cc6bc3bb44354e227c7e9a534aa73cb8dba326f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: improve quick find design (#2209)</code>](https://github.com/alainm23/planify/commit/e7ed0c9040bd90b2e988b859200a001bec0d7e2f)
+- [ ] [<code>fix (#2210)</code>](https://github.com/alainm23/planify/commit/998774f3fc70703e9caaded1e7ea39d6004fc059)
+- [ ] [<code>Translations update from Hosted Weblate (#2199)</code>](https://github.com/alainm23/planify/commit/8ac93724ec7ea462ad29d5d66c4076ff2e9da981)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update european portuguese translation (#2217)</code>](https://github.com/alainm23/planify/commit/c8b1340a6a464d103fad1172363849b00a9ecd8a)
+- [ ] [<code>Update pt_PT.po (#2222)</code>](https://github.com/alainm23/planify/commit/3748001c9be312cdf10bd383f2ad2aec78174342)
+- [ ] [<code>Fix Radicale CalDAV compatibility for PUT requests (#2225)</code>](https://github.com/alainm23/planify/commit/80fc71d5ad1e778c3ddd42e6ea55982e74f12207)
+- [ ] [<code>Fix filter by labels in non project views (#2226)</code>](https://github.com/alainm23/planify/commit/23929c6f8dbc8d8025373b8450e554c78fe4a08b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix manual ordering sync with CalDav / Nextcloud (#2227)</code>](https://github.com/alainm23/planify/commit/b596d855358859a4c32bbf29a28096915b9e0abb)
+- [ ] [<code>Translations update from Hosted Weblate (#2221)</code>](https://github.com/alainm23/planify/commit/02effe86b7024b22331ac7f4d033b63e16ab6101)
+- [ ] [<code>fix: sync server toggle not persisting (#2233)</code>](https://github.com/alainm23/planify/commit/23deb8034e668ebbd825aec78e40290be944c059)
+- [ ] [<code>fix: handle null sync-token and set Content-Type on PUT updates (#2234)</code>](https://github.com/alainm23/planify/commit/9eb694d0b5105b5954c45226234614308a08dfb4)
+- [ ] [<code>fix: add required DTSTAMP property to VTODO components (#2235)</code>](https://github.com/alainm23/planify/commit/0a68cc1d7fc2d240a68fe86fac5a8cb26701d7bf)
+- [ ] [<code>fix:  todoist color (#2237)</code>](https://github.com/alainm23/planify/commit/f164d62b838848a4c427c437ab19fee3f888d041)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix theme radio buttons (#2239)</code>](https://github.com/alainm23/planify/commit/bfd314e57be1222623d5a53bde8feb72cbc85b89)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
@@ -353,6 +366,11 @@
 - [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/ellie-commons/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Actions: Do not install unnecessary bzip2</code>](https://github.com/ellie-commons/sequeler/commit/de6d817ca9bd61acd6e3e4353fa98b7c7895746e)
+- [ ] [<code>meson: Fix wrong po_dir of metainfo (#445)</code>](https://github.com/ellie-commons/sequeler/commit/94af32cf06a0e1d156d4a7e29ecd496f709adb46)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Flatpak: Inherit libfmt from GNOME Platform (#446)</code>](https://github.com/ellie-commons/sequeler/commit/a7f5d1dcdcfd6d0b3dd34254ce65681194d5d173)
+- [ ] [<code>intltool: Use tarball instead of shared-modules for gettext-flatpak</code>](https://github.com/ellie-commons/sequeler/commit/17bbfa20406cdb51949343c70df4820886f3d8b3)
+- [ ] [<code>Revert "gettext: Remove unnecessary git config"</code>](https://github.com/ellie-commons/sequeler/commit/c6f6d3dcacf6e556a8a7b6964c44ba02f8ebc80f)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
@@ -398,7 +416,4 @@
 - [ ] [<code>clang-format: Avoid breaking change</code>](https://github.com/JoseExposito/touchegg/commit/93f8a28e37b87568f439f6c4c616c907fbbf4a33)
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [a1d1a7bc0f740920e592fd788a836c402fd9825c → HEAD](https://github.com/vala-lang/vala-lint/compare/a1d1a7bc0f740920e592fd788a836c402fd9825c...HEAD)
-
-
-#### [wingpanel-indicator-ayatana](https://github.com/Lafydev/wingpanel-indicator-ayatana): [d554663b4e199d44c1f1d53b5cc39b9a775b3f1c → HEAD](https://github.com/Lafydev/wingpanel-indicator-ayatana/compare/d554663b4e199d44c1f1d53b5cc39b9a775b3f1c...HEAD)
 
