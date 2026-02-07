@@ -195,6 +195,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9916bbf794bd233df039b9301c65bdde8d8b8b39)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Drop glade</code>](https://github.com/xfce-mirror/libxfce4ui/commit/804794df8bbe90da71457bdd1064030d9ab5ed8d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -389,6 +392,20 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/e4e86b0025c84efc063f54de7a518c4109ec48d3)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>XfwWindowWayland: Connect to XfwScreen::monitor-removed</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dbda3cafbfd9f4348dc7d4ab898dd5e9bca3e063)
+- [ ] [<code>XfwWindowWayland: Connect to XfwScreen::monitor-added</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d63c81cb6e0d7feb36766a7b877a084755f07496)
+- [ ] [<code>Don't depend on wayland-scanner and wayland-protocols</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/9b1e7e18343f927f9946960977804230f3fbc16d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add fallback monitor on X11 if XRandR doesn't report anything</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b39840b79ee51927375efa1212902f97ab16c199)
+- [ ] [<code>Fix width -> height typo for XfwWorkspaceX11 geometry</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ae32d47d1211d56a33bff979309d4894aaf17338)
+- [ ] [<code>Fix incorrect col & row ordering for Wayland workspace coordinates</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c3adf00c3abf942fa2dc7d73e09af0bd62919545)
+- [ ] [<code>Fix X11 workspace geometry and layout getting out of date</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/f17d578a880bf1a279d50ec88f8aed36de05ea48)
+- [ ] [<code>Add test program to enumerate workspaces</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/44902698e10a3d87c4e29534cc437236e4e5b632)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix missing workspace signal connections in test program</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7efc1b5149d33da5ab4a3b5f6a15bbfd0cfe05d6)
+- [ ] [<code>Add XfwWorkspace:geometry property</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7b07b658697b91f9e47e0c1b8aa4c53a087659b2)
+- [ ] [<code>Implement workspace geometry for wayland</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/34ea30b779b6f1ab36c1e854ce85a7d2ece8754b)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -723,6 +740,33 @@
 - [ ] [<code>Simplify trash/delete logic (#1761)</code>](https://github.com/xfce-mirror/thunar/commit/87e75d1969bd132ce2d3d14c6bf7e71c51067c88)
 - [ ] [<code>Revert "Preload image-preview thumbnails"</code>](https://github.com/xfce-mirror/thunar/commit/96a00899418dce4a2b16028ed58e5e010725d6a3)
 - [ ] [<code>Preload preview images of neightb. files (#1267)</code>](https://github.com/xfce-mirror/thunar/commit/2b097cc01617fa508c00769fa86b62eedcb4993c)
+- [ ] [<code>TransferJob: Simplification</code>](https://github.com/xfce-mirror/thunar/commit/6afae211448b49344c4d24197a1ca3388dff1ea0)
+- [ ] [<code>TransferJob: Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/25dbfc43154ac62ee375d02b14df9558fa5bc8b3)
+- [ ] [<code>TransferJob Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/8cfb4a02d48bc1b6727d62d9af2c5f8913447b82)
+- [ ] [<code>TransferJob Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/2ca5cad653aa7cea832e17425e14b7db74b481fd)
+- [ ] [<code>TransferJob Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/f5a2ac6279755c6b3bf25dfeab940205f65e510f)
+- [ ] [<code>TransferJob Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/5af211d13b48774233c29ee2f825356194fa5c39)
+- [ ] [<code>TransferJob Refactoring</code>](https://github.com/xfce-mirror/thunar/commit/fbe74f88c5dbbdafdd5a8c080c4e1445776eb5ba)
+- [ ] [<code>TransferJob: Reduce filesystem io</code>](https://github.com/xfce-mirror/thunar/commit/27b891a895720c13105d46134c33ec37ac790005)
+- [ ] [<code>Untrash: Fix warning</code>](https://github.com/xfce-mirror/thunar/commit/5ef687eefaee74bbde151c2f9663d37271ec8f0a)
+- [ ] [<code>Allow to properly merge directories (#1273)(#1762)</code>](https://github.com/xfce-mirror/thunar/commit/5540398d2672585c9eaca894860bf6fb9fad3225)
+- [ ] [<code>Rename *_ask_replace to *_ask_for_action</code>](https://github.com/xfce-mirror/thunar/commit/f6cf878d6b962413b061d4e31fe6e00c0caa0834)
+- [ ] [<code>Fix 'delete' for folders (#1378)</code>](https://github.com/xfce-mirror/thunar/commit/2a33e0737a237593abe236607249aad1f708f9b5)
+- [ ] [<code>Notify thumbnail cache for delete</code>](https://github.com/xfce-mirror/thunar/commit/41143af69edc74803100a29675494bad66ff9db0)
+- [ ] [<code>Prevent crash on unmount (#1778)</code>](https://github.com/xfce-mirror/thunar/commit/4a3f88dbe52f800646826ce75aed9b1fad7063f3)
+- [ ] [<code>Properly initialize struct (#1778)</code>](https://github.com/xfce-mirror/thunar/commit/0bac54e204993f6d04924b804b6d3e6ff9a0ff4f)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/9d8d5abb083389d91d5dc1559aba2a6e6ee26096)
+  - <sub>Tags: <code>thunar-4.21.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/0eafef07f6954e5fdabdace6692d28233b173c10)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Show selection busy information on statusbar (#1780)</code>](https://github.com/xfce-mirror/thunar/commit/53cc310df849703116eed4d907c1b1f570983662)
+- [ ] [<code>Ignore G_IO_ERROR_NOT_SUPPORTED (#1782)</code>](https://github.com/xfce-mirror/thunar/commit/6ca1168e181377523d4b0b0bf4f690ef4562e37a)
+- [ ] [<code>Pass current dir to catfish (#1785)</code>](https://github.com/xfce-mirror/thunar/commit/a7bf2a4a14aea0223a9b7d14b0666f435512b49c)
+- [ ] [<code>Add %d to strings to fix some transl. (#939)</code>](https://github.com/xfce-mirror/thunar/commit/92ecdae8ead0d5ad32e52857e7b2fa03453a630b)
+- [ ] [<code>Detect CDROM media changes using ID_FD_UUID udev property</code>](https://github.com/xfce-mirror/thunar/commit/7900d55e23fa556d79354fd9272d34e3bcc241ff)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -804,6 +848,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/tumbler/commit/d7425c4c5a7901b52cddf7261be84ac7a142dc23)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>desktop-thumbnailer: Don't use GIOStream to get thumbnail pixbuf</code>](https://github.com/xfce-mirror/tumbler/commit/d5f570be7f9812e812838454fa648f5ed642a364)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1054,6 +1099,26 @@
 - [ ] [<code>arrow-fix: Restoring the button size after the arrow disappears</code>](https://github.com/xfce-mirror/xfce4-panel/commit/aa2ec9b1f8bc052c7ea2fd42edd9e2c5ffbd24a5)
 - [ ] [<code>windowmenu: Add new style type "Text"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ac2a02f5a7deddab399050f02e4b54837d92ff13)
 - [ ] [<code>wayland: Handle null workspace group list when a group is destroyed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/41abfb0b1f9929c905297d05f0ff1a2e3449b59e)
+- [ ] [<code>clock: Move "Time and Date Settings" button to plugin right-click menu</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8fd2cc6d583ab94e55703a8fb832028cc91aabd3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wayland: autohide: Fix autohide of floating panel</code>](https://github.com/xfce-mirror/xfce4-panel/commit/040ac3b3df687edf6a14643162f7ff04ed5260d2)
+- [ ] [<code>common: Only remap widget if visible</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b3f557af76e049ce45c07d8e8f125ef11bddc735)
+- [ ] [<code>wayland: Review screen layout change management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/16f715b3b82cc57dadd54e1eef4894ae298dee13)
+- [ ] [<code>wayland: Guard layer-shell related code also at runtime</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c59391cabd1634718e91363a2215df20735a77eb)
+- [ ] [<code>plugins: Reset workspace group when needed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/29d1ea798f6e51ea12989b3637d43482543a3aef)
+- [ ] [<code>panel: Don't set GdkWMFunction if not realized</code>](https://github.com/xfce-mirror/xfce4-panel/commit/dceb0c7051447a2c55ac4df95dea28dd0132c775)
+- [ ] [<code>Set application name so internal plugins can't override it</code>](https://github.com/xfce-mirror/xfce4-panel/commit/92a73afef4aef850bc416d8c575ce93b136c4e97)
+- [ ] [<code>panel: Be sure to set plugin properties when appropriate</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1485e63e4e229c4a18023b8720d159634f458a7b)
+- [ ] [<code>panel: Set keep-below property only if necessary</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a908870f3bf105311da9338a2aa86c18452abaad)
+- [ ] [<code>panel: Fix wrong memory management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/054b3f174be83ab04cf2be1d6fb2dd79caddab5b)
+- [ ] [<code>plugins: Do not use g_intern_static_string</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e772d4b4989bbab3d1892f0392f84bac712038ae)
+- [ ] [<code>wayland: panel: Track set_anchor_default source id</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2a3e8db2ae3ca5124bb12514630e5c65947dec17)
+- [ ] [<code>panel: Do not fall through when internal plugin failed to load</code>](https://github.com/xfce-mirror/xfce4-panel/commit/effe93848569df0b8cf0c4b6d3404e7375171970)
+- [ ] [<code>prefs-dialog: Rewrite function for removing an item</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6c3ab7dcfd49515584c2d06b1caf294c88fa5b69)
+- [ ] [<code>Revert "plugins: Do not use g_intern_static_string"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/110cb1c654108b98735b48c661387453928a64ed)
+- [ ] [<code>panel: Make non-GObject internal plugins resident</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f3158265814b196f87fa9981bdc4c74a29478e94)
+- [ ] [<code>prefs-dialog: Fix string leak when removing panel item</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5dfc918bbfe5011f51c94fe9ce94d74cfce5de39)
+- [ ] [<code>panel: Fix typo</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ecfbf52e45385b661674d426664769b4ac4f069d)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1123,6 +1188,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/23adc9084e5c2ad830b040f82f97a41068df0f20)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use percent symbol instead of "percent"</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2b45fbe74899efe1a74d65556a95d347736ab68f)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1318,6 +1384,9 @@
 - [ ] [<code>x11: displays: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/67949a16ceec0e6478341f23f2bcb87eb3c33298)
 - [ ] [<code>wayland: displays: Add missing condition to act on new output</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0871e7b6bb20a053da0e73babb4243d8029b0a4a)
 - [ ] [<code>x11: displays: Check by EDID that output list has not changed</code>](https://github.com/xfce-mirror/xfce4-settings/commit/de79a8eb5d8f58fddf11ad5de754167c6592260f)
+- [ ] [<code>appearance-settings: Add sound theme selection and cache flushing</code>](https://github.com/xfce-mirror/xfce4-settings/commit/44f271cbee04c50c5ace5174571bbf4abd6f8fff)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
