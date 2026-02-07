@@ -5,23 +5,79 @@
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.4...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.6...HEAD)
 
-- [ ] [<code>systray: Hide IBUS applet</code>](https://github.com/linuxmint/cinnamon/commit/78b92bda0b65ab8256a8670976a613780ad76217)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>accessibility/cinnamon-hover-click: Keep the active click action</code>](https://github.com/linuxmint/cinnamon/commit/c7afefaff83dad8a90ad5bf3b4779a2b7d27e9dd)
+- [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
+- [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>virtualKeyboard.js: Fix support for OSK ctrl and alt modifier in (#13355)</code>](https://github.com/linuxmint/cinnamon/commit/0275da135572f727d3753491416d37fea7ac1bff)
+- [ ] [<code>printer applet: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/09059104286a44173e12ee6dd764d76cd10627db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/ff929914f06c2cdd372bcb80954e779fb1483c6e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/73a18566e62ea29f934fa62aca04749e21e2adae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/cf5dd8c69c5d708a90ff119aaf681141978300bc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>misc/util.js: Use xsi-symbolics for desktop-file actions.</code>](https://github.com/linuxmint/cinnamon/commit/1e58564296731edd4a1988e1799a00412a9a77a7)
+- [ ] [<code>panel-launchers: Use icons for desktop actions if available.</code>](https://github.com/linuxmint/cinnamon/commit/d1b407f068651a408dc6454acbc1f7aff97ad40a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list applet: Update context menu action icons to match the</code>](https://github.com/linuxmint/cinnamon/commit/5a6a179967746f83160007664c0f483a6b0609a4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>placesManager.js: Go back to having isRemovable() call can_unmount(). (#13464)</code>](https://github.com/linuxmint/cinnamon/commit/4145c1754146b70bed28040831273337ebff2198)
+- [ ] [<code>menu applet: remove 'force show panel' toggle as ... (#13394)</code>](https://github.com/linuxmint/cinnamon/commit/b10c092ca1acfbb91328a390bf8067c9950eaca6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: fix sidebar separator showing inconsistently (#13438)</code>](https://github.com/linuxmint/cinnamon/commit/4620a4c0502d7128a0de0147752d9bbf55e0b0bf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-window-tracker.c (wayland): Connect to MetaWindow::shown (#13453)</code>](https://github.com/linuxmint/cinnamon/commit/d4166a12f33852e0af8b0bf1106201fd34e669cc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>python: Stop using pytz, use datetime.timezone and zoneinfo instead.</code>](https://github.com/linuxmint/cinnamon/commit/6bfcabf195c9bbd8592a3050dedd760d5dba8ef9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>a11y: cinnamon-hover-click - add action-mode lock. (#13363)</code>](https://github.com/linuxmint/cinnamon/commit/dd51a0cf949637006e5597d4fe7722b480a056a3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>menu@cinnamon.org: Avoid using absolute path as this doesn't work on NixOS (#13500)</code>](https://github.com/linuxmint/cinnamon/commit/f984f50315c23ff24d5ea664fd3daf492eeb37b1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>cinnamon-settings: Fix util module import to prevent name collisions (#13492)</code>](https://github.com/linuxmint/cinnamon/commit/0344b1138209adc399e5bf2fa0664f5f12d9f132)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[Wayland] Adapt to cursor API changes (#13156)</code>](https://github.com/linuxmint/cinnamon/commit/03e99902b013cf8cb44ac6fad8567bf1a5fe7037)
+- [ ] [<code>src: Adapt to MetaPointerTracker changes in linuxmint/muffin#765.</code>](https://github.com/linuxmint/cinnamon/commit/b558e628537d8ffaee51d494b89f0ed52af63146)
+- [ ] [<code>meson: Allow users settings to be excluded</code>](https://github.com/linuxmint/cinnamon/commit/c2d13be529b3f6136850205b77a2d83e2dd99d7f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>global.screen: Remove remaining usage in js code, add deprecation</code>](https://github.com/linuxmint/cinnamon/commit/927ea5834098e46d566a3932b573db5612cb30d7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[Input] Update to MetaCursorTracker API change (#13218)</code>](https://github.com/linuxmint/cinnamon/commit/fed9a1c6cb7a6aa346d673db0d78ee0443ff7da1)
+- [ ] [<code>userWidget.js: Fix updating the image when the user avatar changes.</code>](https://github.com/linuxmint/cinnamon/commit/347c39cdf0a97841c2d3317b8c05e3743831d17d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Revert "userWidget.js: Fix updating the image when the user avatar changes."</code>](https://github.com/linuxmint/cinnamon/commit/0521520551fb7bbd9880f22a96f10c1f63bb2d73)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>st-theme-context.c: Hook up texture cache's texture-file-changed</code>](https://github.com/linuxmint/cinnamon/commit/8f73a54d14dc400a27e7bba121c34efe7e171aed)
+- [ ] [<code>main.js: Fix enum in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/2ed098b6f76ee76111a8115c6029986c204f75f4)
+- [ ] [<code>power_applet: rearrange battery label, so the percentage is on left (#13262)</code>](https://github.com/linuxmint/cinnamon/commit/c036182d872d06686027851c017d1a4f433df2ac)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme: Add a couple of generic button styles (#13319)</code>](https://github.com/linuxmint/cinnamon/commit/5ac71af98db9be718e5f8d6c4b9f81058bba0829)
+- [ ] [<code>cinnamon-desktop-editor.py: Add import path.</code>](https://github.com/linuxmint/cinnamon/commit/6d15343879693cfcd458857d87a4f7ccfa87c99d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Make imports consistent, instead of a mix of</code>](https://github.com/linuxmint/cinnamon/commit/9397ff363388aff6b88a2fd02044215742302868)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>Add lock setting for hover-click a11y feature. (#261)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/879412ae7299ff43d187a7f461a11183c4376d5c)
+- [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e0677dd97494b5dae410aff7ddb3bb3541c4e50e)
+- [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-menus/commit/99f59bac202c2e66d3e2d9ad18db75547a70ed66)
+- [ ] [<code>stale: Add more options to inactivity days.</code>](https://github.com/linuxmint/cinnamon-menus/commit/80376626dca006c0773f94e471056524986b53a3)
+- [ ] [<code>stale.yml: Enable cron job.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5e1d20c53a60138c2f7c6a9982aeeada471d1686)
+- [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
@@ -29,14 +85,22 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.1...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.2...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
+- [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: Remove GpmIdleTime, use libcinnamon-desktop IdleMonitor. (#436)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bb4287dfa14b0b993c11c021566a2f186486911b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
+- [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -47,14 +111,12 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [256fe2e44655ce197701e35aefc40f49fe30356d → HEAD](https://github.com/linuxmint/mint-l-icons/compare/256fe2e44655ce197701e35aefc40f49fe30356d...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [112daa4f76ccef08a9c4e3b107957ff862429516 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/112daa4f76ccef08a9c4e3b107957ff862429516...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.6 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.6...HEAD)
 
-- [ ] [<code>Cinnamon: window-list applet set notification badge fixed font size (#21)</code>](https://github.com/linuxmint/mint-l-theme/commit/b3cd80516d8a595c4bdee708b06e9a8fcbcdef7e)
-- [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#24)</code>](https://github.com/linuxmint/mint-l-theme/commit/425a6f08d0ccd7ed87232be80db339a192179c09)
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.7...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.8...HEAD)
 
-- [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#529)</code>](https://github.com/linuxmint/mint-themes/commit/58d6834d6b15b5f6f70b6e0752124994c7a552a7)
+- [ ] [<code>Mint-Y: Add support for gtk3 print dialog</code>](https://github.com/linuxmint/mint-themes/commit/7a8a1ea62edb5425a6f622e248200cdb4f8cc13e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
@@ -63,15 +125,34 @@
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.1...HEAD)
 
 
-#### [muffin](https://github.com/linuxmint/muffin): [6.6.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.1...HEAD)
+#### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
-- [ ] [<code>github: Update workflow file.</code>](https://github.com/linuxmint/muffin/commit/f5ac87c3ba2c5d16a4630aa9f007b47d0af390a3)
-- [ ] [<code>github: Fix build.yml</code>](https://github.com/linuxmint/muffin/commit/d235e8e4627d169da4bf1641cd5ebc48b938d294)
-- [ ] [<code>Revert 23aba56e6d (ignore XkbNewKeyboardNotify) - Filter by (#782)</code>](https://github.com/linuxmint/muffin/commit/98298ea602570c4584a56fe723b9fabac58d285f)
+- [ ] [<code>Clutter-A11y: Respect new setting to prevent resetting of the active (#781)</code>](https://github.com/linuxmint/muffin/commit/4668c4fe79a6537a05d774ad680c7b1249fd8f82)
+- [ ] [<code>Fix region clipping issues when using fractional scaling (#777)</code>](https://github.com/linuxmint/muffin/commit/c6be0339e6227d63391b00939caf4f88577601a3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>keybindings/modifiers (wayland): Remove old workaround for xwayland (#785)</code>](https://github.com/linuxmint/muffin/commit/68efbd8c54410ad63ca50d8df9b639c46a7e4696)
+- [ ] [<code>clutter-event.c: Add fields for unaccelerated delta motion to touchpad events. (#786)</code>](https://github.com/linuxmint/muffin/commit/8d3dede40371fb95f6aa7b2a791a15b56d1d8332)
+- [ ] [<code>clutter-enums.h: Fix introspection definition and prefix. (#771)</code>](https://github.com/linuxmint/muffin/commit/7453e8de7689934fba20a9fe818a82c59a7406d5)
+- [ ] [<code>[Wayland] Add support for cursor-shape-v1 protocol (#756)</code>](https://github.com/linuxmint/muffin/commit/1ad00e0029250264f18c2b0d728f312a91e5a192)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Small cleanup and fixes (#790)</code>](https://github.com/linuxmint/muffin/commit/da3bb2f2d4b051ea57cc5f41a4b766683aabf739)
+- [ ] [<code>[Input] Small API cleanups (#765)</code>](https://github.com/linuxmint/muffin/commit/9f0655eebd86b46943910696c0ea62c90112d9c2)
+- [ ] [<code>wayland/xdg-shell: Implement support for xdg_toplevel.wm_capabilities (#780)</code>](https://github.com/linuxmint/muffin/commit/7e578fd86f9fafd5a022d93dab1bb4b8e84ec92f)
+- [ ] [<code>Fix use-after free and race conditions in Wayland idle inhibitation (#779)</code>](https://github.com/linuxmint/muffin/commit/5a4956efa66beaf615992f36bf4a32711791128a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
+- [ ] [<code>nemo-main-application.c: Clear a window's saved secondary pane</code>](https://github.com/linuxmint/nemo/commit/deef9d124fa89ad616b18f8d0206f87e45c1ecd5)
+- [ ] [<code>nemo-action-manager.c: Fix layout file monitor and action refresh. (#3675)</code>](https://github.com/linuxmint/nemo/commit/6001bad01ac9daf041f7d7948f4e4d8e9b8983fa)
+- [ ] [<code>nemo-file-utilities.c: Match mounts, volumes and drives with xsi</code>](https://github.com/linuxmint/nemo/commit/3f1d9bb7389b1cd05d9cfd02182751a4532e2cc5)
+- [ ] [<code>nemo-list-view.c: Don't allow the 'Location' column for normal</code>](https://github.com/linuxmint/nemo/commit/eb489a160fbfcb793aba5087e8a828ff00465e9f)
+- [ ] [<code>nemo-column-utilities.c: Add some translator comments for the</code>](https://github.com/linuxmint/nemo/commit/9b1539cf5c167b42c288b330786a8d25761b1118)
+- [ ] [<code>nemo-list-view.c: When column expanders are disabled, don't check</code>](https://github.com/linuxmint/nemo/commit/8ff42b6e1831ad1a2974dd71a35b44894c16f628)
+- [ ] [<code>build: Fix some warnings.</code>](https://github.com/linuxmint/nemo/commit/13afae5c50e717d7e68a74eb305068cce63cd552)
+- [ ] [<code>dnd: Don't allow drag-and-drop into or out of computer://.</code>](https://github.com/linuxmint/nemo/commit/4e01cdd4e377facae4ef5cf59d81aa7c06973679)
+- [ ] [<code>Add Keyboard Shortcut for Open in Terminal (#3686)</code>](https://github.com/linuxmint/nemo/commit/d00e5fcd19212097ebc3990e23c13252d51338f5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -90,6 +171,10 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
+- [ ] [<code>Cancel tasks before closing xapp-icon-chooser-dialog (#193)</code>](https://github.com/linuxmint/xapp/commit/2ab3aaf4a09d0be636430462c496affb49310aa4)
+- [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
 
@@ -137,8 +222,12 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.9 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.9...HEAD)
 
-- [ ] [<code>Add xsi-applications-electronics</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/fee3b9cf38b62cc861e62c64a0f4627b2d024c50)
-- [ ] [<code>Add licensing info (#21)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f5fa4f822b6bdc4cc5b2485b7ffc1a7b0f6ac3a7)
-  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add tag</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7821f19262b5bcc4eee005550575223d30d2285)
+- [ ] [<code>Add launch</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/4498f2b0adf8af3256b2ff7ae98f267b33ba9bbe)
+- [ ] [<code>Add empty-icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dba9e8b4b808a1b2c424244fc640b7999050fc7a)
+- [ ] [<code>Fix color of xsi-non-starred-symbolic.svg.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/03ae179980039f12e4b149c346a09817d60182ea)
+- [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
+- [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
+  - <sub>Files: <code>meson.build</code></sub>
