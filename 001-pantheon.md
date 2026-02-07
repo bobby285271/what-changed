@@ -1,52 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [8.3.1 → HEAD](https://github.com/elementary/appcenter/compare/8.3.1...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.3.2...HEAD)
 
-- [ ] [<code>Update Granite style classes (#2358)</code>](https://github.com/elementary/appcenter/commit/9e38357d1594716d56b2e72aaa2dca6add96b1da)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Handle automatic updates changed in UpdateManager (#2359)</code>](https://github.com/elementary/appcenter/commit/de924746bf954aa522924e1fb0a6a88a177141e0)
-- [ ] [<code>UpdateManager: Always update badge when update count changes (#2360)</code>](https://github.com/elementary/appcenter/commit/71acccbd9bdba0d63afdf47cd3b2ff7ec33bd4fe)
-- [ ] [<code>MainWindow: Add a show package action</code>](https://github.com/elementary/appcenter/commit/4c9a7df0997e330d6f4a3ed110666e2b2c00d6e6)
-- [ ] [<code>InstalledPackageRowGrid: Use show package action</code>](https://github.com/elementary/appcenter/commit/22a848fc139817650fb502ab4ae8416eaabcdb4d)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>ListPackageRowGrid: Use show package action</code>](https://github.com/elementary/appcenter/commit/5170e65bf8363cc75268c131643e8b0034a198af)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>AppInfoView/origin selection: Use show package action</code>](https://github.com/elementary/appcenter/commit/b670f6145663656f7877e07234038eb6716f67c2)
-- [ ] [<code>Homepage/banner: Use show package action</code>](https://github.com/elementary/appcenter/commit/1f7140024f2a67728f21b2b1db9d3fa04a485cab)
-- [ ] [<code>SearchView: Use show package action</code>](https://github.com/elementary/appcenter/commit/e3d99b0e07ae629f4cafcd0f9a95e6a54a35722a)
-- [ ] [<code>Package: Remove some unused methods and signals (#2366)</code>](https://github.com/elementary/appcenter/commit/5a579f54e557c90787b100454df6bf91541acb67)
-- [ ] [<code>Remove unused signal (#2370)</code>](https://github.com/elementary/appcenter/commit/528fcad533ca273c3ac658fc62da0ac4f66cdc48)
-- [ ] [<code>Remove unused job types and args (#2369)</code>](https://github.com/elementary/appcenter/commit/65352ca8f0a8b299052ac8309a684ddee8fbd873)
-- [ ] [<code>Metainfo: Add release notes for 8.3.2</code>](https://github.com/elementary/appcenter/commit/88621c22e616e2af5c0aeaccd1352ab97ba36083)
-- [ ] [<code>Fix typo in issue description</code>](https://github.com/elementary/appcenter/commit/1029b4fd074ae6663eda2cc1696bda902e8d80a0)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#2380)</code>](https://github.com/elementary/appcenter/commit/2ac19982bfdc98d172f525328a62a2f33b18a324)
-- [ ] [<code>Add missing build dependencies to README (#2378)</code>](https://github.com/elementary/appcenter/commit/3a69bec1262e1e107dc64ae18f149992416ff900)
-- [ ] [<code>Update appcenter.metainfo.xml.in (#2383)</code>](https://github.com/elementary/appcenter/commit/da173e152f847e16528e27b6179d51d580c34c12)
-- [ ] [<code>Revert "Update appcenter.metainfo.xml.in (#2383)" (#2385)</code>](https://github.com/elementary/appcenter/commit/1fbf2088a6ae02e245b7a6ac06cf430a871ad0ce)
-- [ ] [<code>Application: rely on Granite.StyleManager (#2386)</code>](https://github.com/elementary/appcenter/commit/8269a0b05f85fff708c573e726d7a90fab642dc5)
-- [ ] [<code>FlatpakBackend: don't feaure daily apps (#2389)</code>](https://github.com/elementary/appcenter/commit/23768c233fa2f8772374430cb0c95ef0629f1025)
-- [ ] [<code>AppListUpdateView: use activate functions for package rows</code>](https://github.com/elementary/appcenter/commit/7f9a71e84ae5c01f24d9fc781d12c04ce2fca3f5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Use activate functions for ListPackageRowGrid parents</code>](https://github.com/elementary/appcenter/commit/a47e7dd3a4dc4c597bbbf1029dd757a9a9afa319)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/1309b93093c155720e9a7f8d2209dddfc6b09d9a)
-- [ ] [<code>Handle cancellable in change information (#2365)</code>](https://github.com/elementary/appcenter/commit/c0b25c101cdc6e9f4e46a56d931ee79c5f05e1e0)
-- [ ] [<code>Reload installed applications synchronously</code>](https://github.com/elementary/appcenter/commit/ca6239cdd8b075477b2c5307cd049ad5399c0d2e)
-- [ ] [<code>Remove is_package_installed</code>](https://github.com/elementary/appcenter/commit/74bf6af50b6085eadf304449d5120c3b5d4abcf7)
-- [ ] [<code>Package: combine single-use methods, always signal operation finished (#2397)</code>](https://github.com/elementary/appcenter/commit/a60685566233cd237440f99fec909039294df455)
-- [ ] [<code>FlatpakBackend/install_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/29ea0c5b996efd85518919b5339ea93da4c659c3)
-- [ ] [<code>FlatpakBackend/remove_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/a7b54abb9118d92f880a74e200180089c261ff5e)
-- [ ] [<code>FlatpakBackend/update_package: Always set error instead of returning false</code>](https://github.com/elementary/appcenter/commit/49f8243e7ac64754c11a41e89c60b8377b6d853d)
-- [ ] [<code>Package/operations: Ignore return value from the backend</code>](https://github.com/elementary/appcenter/commit/647738259e356af1ac43f66fb3a603d21de977eb)
-- [ ] [<code>FlatpakBackend: Remove return value from package transactions</code>](https://github.com/elementary/appcenter/commit/5040c5288e196c9168a9d90e97a47d3a071cda3e)
-- [ ] [<code>FlatpakBackend: Add more warnings</code>](https://github.com/elementary/appcenter/commit/e92936a049b24a5ab0ffc7067777c42ae939d7cd)
-- [ ] [<code>Send feedback on uninstall (#2394)</code>](https://github.com/elementary/appcenter/commit/2b00a9659ed8972dfadb6c3c45d9bafcad823ed2)
-- [ ] [<code>Application: DRY and reduce nesting on operation finished (#2398)</code>](https://github.com/elementary/appcenter/commit/c5d1ec9cac467f3c64274590915c846db37637ef)
-- [ ] [<code>Release 8.3.2 (#2384)</code>](https://github.com/elementary/appcenter/commit/be6074fd41b5d004dd0006decf5b5a4496fbefd2)
-  - <sub>Tags: <code>8.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -117,6 +73,8 @@
 - [ ] [<code>RepeatPanel: use revealers (#916)</code>](https://github.com/elementary/calendar/commit/ef5e1173d7ad4ce7e0586b878a96179236a9a938)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>LocationPanel: cleanup cancellables in destructor (#918)</code>](https://github.com/elementary/calendar/commit/ca84cb51962d28175f11912b9cd2f12de569c329)
+- [ ] [<code>CalendarView: absorb network connectivity infobar (#909)</code>](https://github.com/elementary/calendar/commit/af47d1287503cd663ac894c1bdd4527d04af9e56)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -136,6 +94,7 @@
 - [ ] [<code>One Pastebin upload dialog (#1683)</code>](https://github.com/elementary/code/commit/2a573b63fbc7df58493de6b35f3c5ea9a181d82e)
 - [ ] [<code>Ensure terminal pane shell location correct when opened (#1574)</code>](https://github.com/elementary/code/commit/d065ae95568c821e4be01f93bbe6c7e4959904d8)
 - [ ] [<code>Add metainfo for release 8.2.0 (#1682)</code>](https://github.com/elementary/code/commit/ae791f8e0c5d69aa55190efcfc0d665fee6d1756)
+- [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.1 → HEAD](https://github.com/elementary/dock/compare/8.3.1...HEAD)
 
@@ -155,21 +114,8 @@
 - [ ] [<code>Styles: add drag-accept style to icon groups (#570)</code>](https://github.com/elementary/dock/commit/2257e85067ad9905cb03beed2f4d66e6c890eb9d)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.0...HEAD)
+#### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
-- [ ] [<code>Change release branch from 'horus' to 'noble'</code>](https://github.com/elementary/feedback/commit/7a05f1e3b44f808cd38b702fbd305a7ae2e3ea6e)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/feedback/commit/4ae4ae59fb72f263291439af3e01e0f7e7e0be7c)
-- [ ] [<code>MainWindow: use Adw.NavigationView (#126)</code>](https://github.com/elementary/feedback/commit/f69d781ff60d42ecc497c3ab35e597b25cb0acd9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>MainWindow: Ignore components without a bugtracker URL (#130)</code>](https://github.com/elementary/feedback/commit/b21b9b055b0b31fe6bc7c9cd8d5178de98c5c4dd)
-- [ ] [<code>MainWIndow: DRY appending components to listbox (#131)</code>](https://github.com/elementary/feedback/commit/040921188e2599111acc7b9cb802b636daaa727b)
-- [ ] [<code>MainWindow: rely on Granite.StyleManager (#132)</code>](https://github.com/elementary/feedback/commit/056d6540220a4ab0e3e41b75479536a55f1e3691)
-- [ ] [<code>MainWindow: use headerbar and toolbarview (#133)</code>](https://github.com/elementary/feedback/commit/18b6bb1c2115ef479592f29ebd31cc83ef3e68f4)
-- [ ] [<code>Metainfo: add 8.1.1 release notes (#134)</code>](https://github.com/elementary/feedback/commit/0cf4f3d0732559db60f801edfebf565e1028ed94)
-- [ ] [<code>Release 8.1.1 (#135)</code>](https://github.com/elementary/feedback/commit/6a5bc4f0377efc2ad8e2960adb8f470d7658d172)
-  - <sub>Tags: <code>8.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
 
@@ -446,6 +392,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>SettingsPopover: use actions where possible (#982)</code>](https://github.com/elementary/terminal/commit/c254985e1f84499156975b3058dfaf6dad6b148c)
 - [ ] [<code>Revert "Remove TerminalWidget.init_complete" (#983)</code>](https://github.com/elementary/terminal/commit/e5aaf806fd2f5228d72068ac310180f0bcd70637)
+- [ ] [<code>Update screenshots (#984)</code>](https://github.com/elementary/terminal/commit/58f8cab515fb159cef588bdaf692dc594416d945)
+- [ ] [<code>Themes: Make `color09` different from `bg` (#985)</code>](https://github.com/elementary/terminal/commit/c63b989d3766345d4d1d3c6f9f178b2d49111f12)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -490,22 +438,8 @@
 - [ ] [<code>Update translation status badge link in README</code>](https://github.com/elementary/settings-system/commit/3d929d97c9df0aa764f78bb3ddb2941e1d4fdecb)
 - [ ] [<code>Update translation status badge in README</code>](https://github.com/elementary/settings-system/commit/f8ab702974adad4b51f084a3bb20cda27b1b0999)
 
-#### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.2.0...HEAD)
+#### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-applications/commit/aca1d9b1f26fbd5159e4f5f03b02a6a7cd77dffb)
-- [ ] [<code>Startup: Remove unused get_path_from_uri (#270)</code>](https://github.com/elementary/settings-applications/commit/a56977bdada93606508d24dee51a2f03642961a2)
-- [ ] [<code>DefaultPlug: add settings for pdf viewer (#267)</code>](https://github.com/elementary/settings-applications/commit/3d571242c1ebb717f2b0c23273943ebe234183c2)
-- [ ] [<code>meson: Fix warnings (#272)</code>](https://github.com/elementary/settings-applications/commit/b4e7c29649c3e6ab1d25751f1274acdd47c3b885)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Introduce own AppChooserButton instead of deprecated Gtk.AppChooserButton (#269)</code>](https://github.com/elementary/settings-applications/commit/c384de181899949722b17d76ef602fc30c807968)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.3.0 release notes (#275)</code>](https://github.com/elementary/settings-applications/commit/8a420008ee17a32bad46011658a864ff93d29d64)
-- [ ] [<code>Refresh background icon (#261)</code>](https://github.com/elementary/settings-applications/commit/2c346d28300827b48a0bb57dfbf867c5f9c857b0)
-- [ ] [<code>Release 8.3.0 (#276)</code>](https://github.com/elementary/settings-applications/commit/7a3db68680295c37e8baabd9812bb2df11f10fc8)
-  - <sub>Tags: <code>8.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -676,25 +610,8 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#195)</code>](https://github.com/elementary/wallpapers/commit/96799719f2f755123d9065a60832c9f7a18d17c4)
 ## desktop
 
-#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [8.1.0 → HEAD](https://github.com/elementary/default-settings/compare/8.1.0...HEAD)
+#### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/default-settings/compare/refs/tags/8.1.1...HEAD)
 
-- [ ] [<code>Import network configurations from the os repository (#325)</code>](https://github.com/elementary/default-settings/commit/94d9ecd8e7f34ba00e8dd56c0644d01d4af2d3f2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Change toggle-maximized to Ctrl+Super+Up (#346)</code>](https://github.com/elementary/default-settings/commit/27525ae27e150d480cfa5b0bdcadfc3012e550d1)
-- [ ] [<code>Actions: Use main branch (#347)</code>](https://github.com/elementary/default-settings/commit/0251a127f06ec91e2284061c97ba0967f031d307)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/default-settings/commit/2c079a570f5b01215ffe0f8b1e2bec6de28aad95)
-- [ ] [<code>PrefersAccentColor: Add Latte (#353)</code>](https://github.com/elementary/default-settings/commit/9c468bda4377758fb1508bc8528ebed7bdb6b515)
-- [ ] [<code>Suppress "Wi-Fi Networks Available" notifications (#354)</code>](https://github.com/elementary/default-settings/commit/215d3c3f894414b4aacf12cc4f73fd060b11b687)
-- [ ] [<code>Remove outdated x11 overrides (#355)</code>](https://github.com/elementary/default-settings/commit/ad5cf3f49904073772e22c73839df48082061ff3)
-- [ ] [<code>meson: Use built-in symlink creation method (#356)</code>](https://github.com/elementary/default-settings/commit/e69225f3e0e1e029c4332056741c5be343d3da0e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/default-settings/commit/5c036b157f2f7bf47c6ccdd12815b2ea957c173f)
-- [ ] [<code>Disable notifications from Evolution Data Server (#359)</code>](https://github.com/elementary/default-settings/commit/e91cdb0f4ba80cb09d823fbfa5556e3473c76997)
-- [ ] [<code>Release 8.1.1 (#360)</code>](https://github.com/elementary/default-settings/commit/517bf7fd43188fcaa079cc043e1cfdd172ecb327)
-  - <sub>Tags: <code>8.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -748,6 +665,9 @@
 - [ ] [<code>Don't handle window menus for windows that are not normal (#2736)</code>](https://github.com/elementary/gala/commit/91a53ec6a68faae73719e55c41abf1689410a5aa)
 - [ ] [<code>Rework modal actions (#2739)</code>](https://github.com/elementary/gala/commit/b9b9dde03aa2515108e7809108d3f4544da7c4a5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix rounding error in WindowSwitcher (#2750)</code>](https://github.com/elementary/gala/commit/ba69d2fde5de5847b939e8cc2de7cd4c61ae808e)
+- [ ] [<code>Replace Gdk.pixbuf_from_surface (#2732)</code>](https://github.com/elementary/gala/commit/38f0d34afd4a46844374d9955076cb25ce06052d)
+- [ ] [<code>Filter actions in WindowManager.perform_action () (#2741)</code>](https://github.com/elementary/gala/commit/a120189ee432ce42161e22eaeb74ee277bb3c98d)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
