@@ -351,6 +351,7 @@
 - [ ] [<code>Fix building without evolution (#2244)</code>](https://github.com/alainm23/planify/commit/cc3b09deaea12fe90b27b063483ce30830da3081)
 - [ ] [<code>Have a fresh Soup session each time resolve_calendar_home is called. (#2242)</code>](https://github.com/alainm23/planify/commit/f9d8dc011b01b605a735409975b58bfcafbc1b3e)
 - [ ] [<code>restore drag and drop after select (#2240)</code>](https://github.com/alainm23/planify/commit/a26f430ea4a114e83936f8273de41434ad29e143)
+- [ ] [<code>Translations update from Hosted Weblate (#2238)</code>](https://github.com/alainm23/planify/commit/6625a23ff21ec499433121298b5b72ac8477214f)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
