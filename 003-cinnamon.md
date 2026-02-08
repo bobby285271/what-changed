@@ -58,8 +58,9 @@
 - [ ] [<code>cinnamon-desktop-editor.py: Add import path.</code>](https://github.com/linuxmint/cinnamon/commit/6d15343879693cfcd458857d87a4f7ccfa87c99d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-settings: Make imports consistent, instead of a mix of</code>](https://github.com/linuxmint/cinnamon/commit/9397ff363388aff6b88a2fd02044215742302868)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>messageTray.js: Fix cursor name.</code>](https://github.com/linuxmint/cinnamon/commit/09d280a4388a2ebcf28215107be40eff942b083d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
