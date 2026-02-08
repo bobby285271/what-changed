@@ -534,6 +534,7 @@
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/settings-security-privacy): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-security-privacy/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-security-privacy/commit/109d4599a6cc6917d9f49a8a4e8b6e6ee5c845ac)
+- [ ] [<code>GResource icons (#195)</code>](https://github.com/elementary/settings-security-privacy/commit/9fd8f273a46c51ca6bdc16df1989469b459ed841)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/settings-sharing): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sharing/compare/refs/tags/8.0.3...HEAD)
 
