@@ -198,6 +198,11 @@
 - [ ] [<code>Drop glade</code>](https://github.com/xfce-mirror/libxfce4ui/commit/804794df8bbe90da71457bdd1064030d9ab5ed8d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>item-list-ext: New signals</code>](https://github.com/xfce-mirror/libxfce4ui/commit/5baaa19f2d573f918f73dc10d2ab52a3c93ba2d9)
+- [ ] [<code>item-list-ext: ellipsize by default for name</code>](https://github.com/xfce-mirror/libxfce4ui/commit/817b8783bf04e113d21af2844779cc133eea502d)
+- [ ] [<code>item-list-ext: before/after-set-activity -> activity-changed</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ce9ec1a21ed43c33d5d445d3e2899029204b1de5)
+- [ ] [<code>item-list-ext: gtkdoc</code>](https://github.com/xfce-mirror/libxfce4ui/commit/4a174b93bc164457caaf433fd359822b0a51ce4c)
+- [ ] [<code>item-list-ext: hide-in-buttons attribute</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b61b8f044877075b57eaf630b121c044661c8f41)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -767,6 +772,7 @@
 - [ ] [<code>Pass current dir to catfish (#1785)</code>](https://github.com/xfce-mirror/thunar/commit/a7bf2a4a14aea0223a9b7d14b0666f435512b49c)
 - [ ] [<code>Add %d to strings to fix some transl. (#939)</code>](https://github.com/xfce-mirror/thunar/commit/92ecdae8ead0d5ad32e52857e7b2fa03453a630b)
 - [ ] [<code>Detect CDROM media changes using ID_FD_UUID udev property</code>](https://github.com/xfce-mirror/thunar/commit/7900d55e23fa556d79354fd9272d34e3bcc241ff)
+- [ ] [<code>Improve statusbar loading text (#1787)</code>](https://github.com/xfce-mirror/thunar/commit/9b003ff269a522216b9a2f6d0d2c21bcba0d2f86)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
