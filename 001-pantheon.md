@@ -95,6 +95,7 @@
 - [ ] [<code>Ensure terminal pane shell location correct when opened (#1574)</code>](https://github.com/elementary/code/commit/d065ae95568c821e4be01f93bbe6c7e4959904d8)
 - [ ] [<code>Add metainfo for release 8.2.0 (#1682)</code>](https://github.com/elementary/code/commit/ae791f8e0c5d69aa55190efcfc0d665fee6d1756)
 - [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
+- [ ] [<code>Escape search term when not using Regex expression in global search (#1669)</code>](https://github.com/elementary/code/commit/77aa937ecafbc1396c83a7d96ce0ab92322660ae)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.1 → HEAD](https://github.com/elementary/dock/compare/8.3.1...HEAD)
 
@@ -477,27 +478,8 @@
 - [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#557)</code>](https://github.com/elementary/settings-keyboard/commit/37e528c267666dac01376f9b4c1c994e1de3acfb)
 
-#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.0.3...HEAD)
+#### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#262)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/f9586701f9b780e952656f481577ccd8a736ded1)
-- [ ] [<code>Pointing: use settings action</code>](https://github.com/elementary/settings-mouse-touchpad/commit/0c9d61bac1766243f98497571f27ecfc7a4fb43f)
-- [ ] [<code>Pointing: Set images with child property</code>](https://github.com/elementary/settings-mouse-touchpad/commit/4bcfcba8ce4df993dae781d465bcf0345a4da0a2)
-- [ ] [<code>Pointing: fix screen reader for pointer size options</code>](https://github.com/elementary/settings-mouse-touchpad/commit/515114064a70a162ccfec41b0783d20b679ad5c2)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Touchpad: use settings action for click-method (#269)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/3cedde6f63e2d00f14f396e88ab3ab0c8761ce68)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Add PointingStick view (#263)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/63bf03c809febcd09fc82975af3ae91d98467aec)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Mouse: fix pointer accel screenreader label (#273)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/311432cdc151328ab468ceeb6b5eb2b9277932fc)
-- [ ] [<code>Touchpad: add drag-lock setting (#270)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/468b66812ddd8088f80a511fe4225e633b98e363)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Metainfo: add 8.1.0 release notes (#274)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/e2655a789285112e7ae6c5e3468d577dae2ad0de)
-- [ ] [<code>Clicking: modernize code style (#272)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/5592d89afc5b39d8261029841eaa9eb96550f871)
-- [ ] [<code>Release 8.1.0 (#275)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/0309d2bc29ce40922987e62cf53d780fceff8235)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -668,6 +650,9 @@
 - [ ] [<code>Fix rounding error in WindowSwitcher (#2750)</code>](https://github.com/elementary/gala/commit/ba69d2fde5de5847b939e8cc2de7cd4c61ae808e)
 - [ ] [<code>Replace Gdk.pixbuf_from_surface (#2732)</code>](https://github.com/elementary/gala/commit/38f0d34afd4a46844374d9955076cb25ce06052d)
 - [ ] [<code>Filter actions in WindowManager.perform_action () (#2741)</code>](https://github.com/elementary/gala/commit/a120189ee432ce42161e22eaeb74ee277bb3c98d)
+- [ ] [<code>BackgroundBlurEffect: fix drawing off stage (#2752)</code>](https://github.com/elementary/gala/commit/6a762383e55c5b73caa9fdba0a6d4d67f5491452)
+- [ ] [<code>Plugin: disallow overriding window overview (#2753)</code>](https://github.com/elementary/gala/commit/d5cc5df9b76d5efbf9d0a6d24eb24bdca072eb10)
+- [ ] [<code>Cleanup gesture code (#2755)</code>](https://github.com/elementary/gala/commit/9022687fff4263132c04df6a3e5f416ae694e785)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -676,14 +661,8 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
-#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.3...HEAD)
+#### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
 
-- [ ] [<code>App: Fix crash when activating search result (#693)</code>](https://github.com/elementary/applications-menu/commit/40eb627216e850ff6e4f1139c34e7810ee052ecb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add release notes for version 8.0.4 (#695)</code>](https://github.com/elementary/applications-menu/commit/029dc823331021ac9e8501cfee819ad0fe558950)
-- [ ] [<code>Release 8.0.4 (#696)</code>](https://github.com/elementary/applications-menu/commit/eb1416985bea6eea43cdcc84a4aea4cc8498134a)
-  - <sub>Tags: <code>8.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -834,14 +813,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d51b94459f4bef5f6cd94514766419cc3cbc9a00)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#295)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0bcad2fae8953a3ba1cbd419437b29f03d5a8bf8)
 
-#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.2...HEAD)
+#### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#310)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/fbb128232d5ca769cde9e5abc83f7960e48399bc)
-- [ ] [<code>Indicator: Fix setting max-volume key does not take effect (#314)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/34aae8827402a9bff03d0fd8a505aecc95b9b51a)
-- [ ] [<code>Metainfo: add 8.0.3 (#315)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/c4ada61a951a708e5becf7e547a85b72951d5a5c)
-- [ ] [<code>Release 8.0.3 (#316)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8114866d425043e7e77ffc942edfb76493550c15)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
