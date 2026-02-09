@@ -654,6 +654,8 @@
 - [ ] [<code>BackgroundBlurEffect: fix drawing off stage (#2752)</code>](https://github.com/elementary/gala/commit/6a762383e55c5b73caa9fdba0a6d4d67f5491452)
 - [ ] [<code>Plugin: disallow overriding window overview (#2753)</code>](https://github.com/elementary/gala/commit/d5cc5df9b76d5efbf9d0a6d24eb24bdca072eb10)
 - [ ] [<code>Cleanup gesture code (#2755)</code>](https://github.com/elementary/gala/commit/9022687fff4263132c04df6a3e5f416ae694e785)
+- [ ] [<code>Introduce and use GestureTrigger</code>](https://github.com/elementary/gala/commit/3b5917a8bd3157da801a8d49c825a4f004a63320)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
