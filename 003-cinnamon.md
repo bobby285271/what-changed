@@ -140,6 +140,7 @@
 - [ ] [<code>[Input] Small API cleanups (#765)</code>](https://github.com/linuxmint/muffin/commit/9f0655eebd86b46943910696c0ea62c90112d9c2)
 - [ ] [<code>wayland/xdg-shell: Implement support for xdg_toplevel.wm_capabilities (#780)</code>](https://github.com/linuxmint/muffin/commit/7e578fd86f9fafd5a022d93dab1bb4b8e84ec92f)
 - [ ] [<code>Fix use-after free and race conditions in Wayland idle inhibitation (#779)</code>](https://github.com/linuxmint/muffin/commit/5a4956efa66beaf615992f36bf4a32711791128a)
+- [ ] [<code>meta-wayland-pointer.c: Get correct device coordinates from the</code>](https://github.com/linuxmint/muffin/commit/f378f68d76704fed92bdee226483f7f0de33e87d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
