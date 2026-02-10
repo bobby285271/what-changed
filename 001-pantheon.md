@@ -150,6 +150,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Remove unused functions updating desktop file info</code>](https://github.com/elementary/files/commit/fae9eb3b9f74e41952caf98e35eafee4a6dcb0b2)
 - [ ] [<code>File: Remove unused function - update_type ()</code>](https://github.com/elementary/files/commit/fc01e2aeef65cdd349227d16d4f1374b85413d98)
+- [ ] [<code>Intercept  and ignore all vertical scroll events when renaming or frozen (#2668)</code>](https://github.com/elementary/files/commit/66c63f8f668ad2b6ad79e0ef83d6f923be095bae)
+- [ ] [<code>Miller view: fix actionbar reappearance (#2716)</code>](https://github.com/elementary/files/commit/13154a6c9c79d7e0af65114a2ca95c51bb783da8)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -395,6 +397,9 @@
 - [ ] [<code>Revert "Remove TerminalWidget.init_complete" (#983)</code>](https://github.com/elementary/terminal/commit/e5aaf806fd2f5228d72068ac310180f0bcd70637)
 - [ ] [<code>Update screenshots (#984)</code>](https://github.com/elementary/terminal/commit/58f8cab515fb159cef588bdaf692dc594416d945)
 - [ ] [<code>Themes: Make `color09` different from `bg` (#985)</code>](https://github.com/elementary/terminal/commit/c63b989d3766345d4d1d3c6f9f178b2d49111f12)
+- [ ] [<code>Change default scrollback-lines (#939)</code>](https://github.com/elementary/terminal/commit/9ce22d30d472cdab326b75cb06870f93c43efd9b)
+- [ ] [<code>Metainfo: update 8.0.0 release notes (#987)</code>](https://github.com/elementary/terminal/commit/60d1083e3b220af5e1c09cc450f4209452f4aac7)
+- [ ] [<code>Update custom style screenshot (#988)</code>](https://github.com/elementary/terminal/commit/95a689f62ead5d15883c478f900ac6c8f8f388bb)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -562,6 +567,9 @@
 - [ ] [<code>Rename as Pen & Drawing (#79)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d82dc1e37f433c315e3fe5f2d05da9dc02f64c5f)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#80)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/737370c2f1b9747dabefc872b140aec8ff355912)
 - [ ] [<code>StylusView: Add translators comment (#81)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/0bb143adca76a21e517cb14f43b8de6e2a94d187)
+- [ ] [<code>Release 8.0.2 (#82)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/237693e948292dab61458ba7a16eb4db6e823432)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
@@ -656,6 +664,7 @@
 - [ ] [<code>Cleanup gesture code (#2755)</code>](https://github.com/elementary/gala/commit/9022687fff4263132c04df6a3e5f416ae694e785)
 - [ ] [<code>Introduce and use GestureTrigger</code>](https://github.com/elementary/gala/commit/3b5917a8bd3157da801a8d49c825a4f004a63320)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>RoundedCornersEffect: avoid using get_static_shader_source () (#2758)</code>](https://github.com/elementary/gala/commit/e109122e8b6acaf20761188ea6b90cf0fbf73c59)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -834,6 +843,8 @@
 - [ ] [<code>Metainfo: add last checked tomorrow issue (#942)</code>](https://github.com/elementary/granite/commit/a473845f78963e251edbbfff3756649da0ce0269)
 - [ ] [<code>ListItem: add menu_model property (#826)</code>](https://github.com/elementary/granite/commit/bffb2ff70b71a1109b0f7fc59490415d3853869c)
 - [ ] [<code>Update granite.metainfo.xml.in (#945)</code>](https://github.com/elementary/granite/commit/3f6ce05a544bb594f654d33cc1772f3a478fb9bf)
+- [ ] [<code>Release 7.8.0 (#946)</code>](https://github.com/elementary/granite/commit/9d59c4a348de7f69c312ce9eabc154dcdc6c550f)
+  - <sub>Tags: <code>7.8.0</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
