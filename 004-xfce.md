@@ -773,6 +773,8 @@
 - [ ] [<code>Add %d to strings to fix some transl. (#939)</code>](https://github.com/xfce-mirror/thunar/commit/92ecdae8ead0d5ad32e52857e7b2fa03453a630b)
 - [ ] [<code>Detect CDROM media changes using ID_FD_UUID udev property</code>](https://github.com/xfce-mirror/thunar/commit/7900d55e23fa556d79354fd9272d34e3bcc241ff)
 - [ ] [<code>Improve statusbar loading text (#1787)</code>](https://github.com/xfce-mirror/thunar/commit/9b003ff269a522216b9a2f6d0d2c21bcba0d2f86)
+- [ ] [<code>Fix translations for XML file (#1790)</code>](https://github.com/xfce-mirror/thunar/commit/746a684fa7e5991e6b4bb6fa3cca744dfc008b04)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
