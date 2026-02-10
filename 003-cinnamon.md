@@ -60,7 +60,11 @@
 - [ ] [<code>cinnamon-settings: Make imports consistent, instead of a mix of</code>](https://github.com/linuxmint/cinnamon/commit/9397ff363388aff6b88a2fd02044215742302868)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>messageTray.js: Fix cursor name.</code>](https://github.com/linuxmint/cinnamon/commit/09d280a4388a2ebcf28215107be40eff942b083d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>endSessionDialog.js: Don't close the dialog immediately when</code>](https://github.com/linuxmint/cinnamon/commit/b0d117dee4ba82accad17583c5d4fca4e5e1464a)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>ui: Add a new placeholder object (#13304)</code>](https://github.com/linuxmint/cinnamon/commit/865269b96bd8502dc366684866fddfde63a0f24b)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -85,6 +89,10 @@
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.1...HEAD)
 
+- [ ] [<code>csm-manager.c: Fix the suspend action enum when blocked by an</code>](https://github.com/linuxmint/cinnamon-session/commit/9d268b15dc1ef583bd23d45aa31d727b4605b054)
+- [ ] [<code>6.6.2</code>](https://github.com/linuxmint/cinnamon-session/commit/95f36e0cac97f312eb336f62985a527d9ec2081b)
+  - <sub>Tags: <code>6.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
