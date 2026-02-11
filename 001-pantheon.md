@@ -579,6 +579,8 @@
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
 
+- [ ] [<code>metainfo: Rename from *.appdata.xml to *.metainfo.xml (#1349)</code>](https://github.com/elementary/stylesheet/commit/45a443f5f24be9c0c98482a3ef82672b93c44b81)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/8.2.0...HEAD)
 
@@ -950,6 +952,7 @@
   - <sub>Tags: <code>8.1.0-rc3</code></sub>
 - [ ] [<code>Build: Remove AppCenter PPA option (#792)</code>](https://github.com/elementary/os/commit/2fd5a07b74cf6169ad5828229bb19bea120f2980)
 - [ ] [<code>Delete EOL configs (#794)</code>](https://github.com/elementary/os/commit/1aa4b2c7f2a0540ef4ca58c7ad9b0ef88e0b0577)
+- [ ] [<code>Remove network configurations (#748)</code>](https://github.com/elementary/os/commit/d73bc81c685093d63a8871eab521a317d91361c8)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
