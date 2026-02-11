@@ -269,6 +269,8 @@
 
 - [ ] [<code>Set parse_recurrence to true for recurrence tests (#2247)</code>](https://github.com/alainm23/planify/commit/9052f80561a0752dbd182334bf271c1e4236d143)
 - [ ] [<code>Fix: clear project cache when adding items via quick add (#2251)</code>](https://github.com/alainm23/planify/commit/f5e67d5ec8fb9bfefa8910d669d6b988221a77f0)
+- [ ] [<code>Fix multi-day calendar event display in Scheduled view (#2253)</code>](https://github.com/alainm23/planify/commit/fd6b6fee44c2b6eae15c388cd0e5bbb868673aa9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
