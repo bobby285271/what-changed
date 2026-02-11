@@ -5,7 +5,7 @@
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.6...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.7...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
 - [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
@@ -87,12 +87,10 @@
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.1...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.2...HEAD)
 
-- [ ] [<code>csm-manager.c: Fix the suspend action enum when blocked by an</code>](https://github.com/linuxmint/cinnamon-session/commit/9d268b15dc1ef583bd23d45aa31d727b4605b054)
-- [ ] [<code>6.6.2</code>](https://github.com/linuxmint/cinnamon-session/commit/95f36e0cac97f312eb336f62985a527d9ec2081b)
-  - <sub>Tags: <code>6.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>.github/workflows: Update build.yml with generate-test-packages.</code>](https://github.com/linuxmint/cinnamon-session/commit/43587a77fd543583070ce52c15983453555da94e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
