@@ -114,6 +114,9 @@
 - [ ] [<code>App: don't pass appcenter object instance (#571)</code>](https://github.com/elementary/dock/commit/182f280966d06f963655ebe0578939ffdc879244)
 - [ ] [<code>Styles: add drag-accept style to icon groups (#570)</code>](https://github.com/elementary/dock/commit/2257e85067ad9905cb03beed2f4d66e6c890eb9d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 8.3.2 (#567)</code>](https://github.com/elementary/dock/commit/db0433f6d53aedc73df305f4c00d372871b8f5e1)
+  - <sub>Tags: <code>8.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -152,6 +155,8 @@
 - [ ] [<code>File: Remove unused function - update_type ()</code>](https://github.com/elementary/files/commit/fc01e2aeef65cdd349227d16d4f1374b85413d98)
 - [ ] [<code>Intercept  and ignore all vertical scroll events when renaming or frozen (#2668)</code>](https://github.com/elementary/files/commit/66c63f8f668ad2b6ad79e0ef83d6f923be095bae)
 - [ ] [<code>Miller view: fix actionbar reappearance (#2716)</code>](https://github.com/elementary/files/commit/13154a6c9c79d7e0af65114a2ca95c51bb783da8)
+- [ ] [<code>File: Deal with icon change with private function (#2720)</code>](https://github.com/elementary/files/commit/8bfaa97f4957292d619c7e94417e6a2dedf16180)
+- [ ] [<code>AppMenu: Create local settings objects on demand (#2727)</code>](https://github.com/elementary/files/commit/470dc1c48a31638bcc2192c3442e17452fa8b108)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -665,6 +670,10 @@
 - [ ] [<code>Introduce and use GestureTrigger</code>](https://github.com/elementary/gala/commit/3b5917a8bd3157da801a8d49c825a4f004a63320)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>RoundedCornersEffect: avoid using get_static_shader_source () (#2758)</code>](https://github.com/elementary/gala/commit/e109122e8b6acaf20761188ea6b90cf0fbf73c59)
+- [ ] [<code>WindowSwitcher: avoid grabbing modal proxy multiple times (#2761)</code>](https://github.com/elementary/gala/commit/8de5134ab9385b8b123a52e1a62a5d035c3d9c07)
+- [ ] [<code>Release 8.4.1 (#2730)</code>](https://github.com/elementary/gala/commit/56902955fcdeeebedd696166ec0685da8b052442)
+  - <sub>Tags: <code>8.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
