@@ -90,6 +90,7 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>.github/workflows: Update build.yml with generate-test-packages.</code>](https://github.com/linuxmint/cinnamon-session/commit/43587a77fd543583070ce52c15983453555da94e)
+- [ ] [<code>csm-manager.c: Close the end-session dialog before trying to lock (#199)</code>](https://github.com/linuxmint/cinnamon-session/commit/e2cd4a72647c5eb977b34d761a1569e1d8a3894c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
