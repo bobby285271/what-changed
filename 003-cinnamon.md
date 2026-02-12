@@ -63,10 +63,12 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>messageTray.js: Fix cursor name.</code>](https://github.com/linuxmint/cinnamon/commit/09d280a4388a2ebcf28215107be40eff942b083d)
 - [ ] [<code>endSessionDialog.js: Don't close the dialog immediately when</code>](https://github.com/linuxmint/cinnamon/commit/b0d117dee4ba82accad17583c5d4fca4e5e1464a)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>ui: Add a new placeholder object (#13304)</code>](https://github.com/linuxmint/cinnamon/commit/865269b96bd8502dc366684866fddfde63a0f24b)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Remove the panel corners implementation (#13487)</code>](https://github.com/linuxmint/cinnamon/commit/b24d042457ef6e95d8204aa3ccec8cb11300fdc7)
+- [ ] [<code>st-button: Add an :icon-name property (#13491)</code>](https://github.com/linuxmint/cinnamon/commit/1b29d6473ae21a2b82382c770b51d353d8a19cf8)
+- [ ] [<code>hotcorner.js: Port to GObject and ripples.js (#13544)</code>](https://github.com/linuxmint/cinnamon/commit/781e09a25496053939286250269caf14fc651078)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
