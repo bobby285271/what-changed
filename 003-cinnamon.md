@@ -4,6 +4,8 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.7...HEAD)
 
@@ -68,12 +70,15 @@
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e7cb4a7729843e4e7603a516480f581080c5d83c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>Add lock setting for hover-click a11y feature. (#261)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/879412ae7299ff43d187a7f461a11183c4376d5c)
 - [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e0677dd97494b5dae410aff7ddb3bb3541c4e50e)
 - [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e6971b7ef01791f73e2df69c5bd1f9522cc17064)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -82,16 +87,21 @@
 - [ ] [<code>stale: Add more options to inactivity days.</code>](https://github.com/linuxmint/cinnamon-menus/commit/80376626dca006c0773f94e471056524986b53a3)
 - [ ] [<code>stale.yml: Enable cron job.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5e1d20c53a60138c2f7c6a9982aeeada471d1686)
 - [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-menus/commit/34a8bc78cbbda3a01395fbd40c6ac1d9fa8bad12)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e028b07cddf71ec65db382016dc890ab39032fe1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>.github/workflows: Update build.yml with generate-test-packages.</code>](https://github.com/linuxmint/cinnamon-session/commit/43587a77fd543583070ce52c15983453555da94e)
 - [ ] [<code>csm-manager.c: Close the end-session dialog before trying to lock (#199)</code>](https://github.com/linuxmint/cinnamon-session/commit/e2cd4a72647c5eb977b34d761a1569e1d8a3894c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/cinnamon-session/commit/f49a9441f5db4fca5cb19e741c7dda0b0971c1f3)
+  - <sub>Tags: <code>6.6.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
@@ -125,6 +135,7 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.8...HEAD)
 
 - [ ] [<code>Mint-Y: Add support for gtk3 print dialog</code>](https://github.com/linuxmint/mint-themes/commit/7a8a1ea62edb5425a6f622e248200cdb4f8cc13e)
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/mint-themes/commit/be16ae17a9fa57e0780787975adbc620a5030fda)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
@@ -161,6 +172,7 @@
 - [ ] [<code>build: Fix some warnings.</code>](https://github.com/linuxmint/nemo/commit/13afae5c50e717d7e68a74eb305068cce63cd552)
 - [ ] [<code>dnd: Don't allow drag-and-drop into or out of computer://.</code>](https://github.com/linuxmint/nemo/commit/4e01cdd4e377facae4ef5cf59d81aa7c06973679)
 - [ ] [<code>Add Keyboard Shortcut for Open in Terminal (#3686)</code>](https://github.com/linuxmint/nemo/commit/d00e5fcd19212097ebc3990e23c13252d51338f5)
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/nemo/commit/46012b9f228614cbde5e48dcc2522fbae3b575bc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -174,22 +186,31 @@
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/pix/commit/1df5501390da4c27303d0902b17d2bfdf2537ac0)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/warpinator/commit/18272f7bd40f4fff340fa5bd90cf74465e2cf3d1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
 - [ ] [<code>Cancel tasks before closing xapp-icon-chooser-dialog (#193)</code>](https://github.com/linuxmint/xapp/commit/2ab3aaf4a09d0be636430462c496affb49310aa4)
 - [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xapp/commit/458de98bb801a0c690c0650b8c11841103eb628d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xreader/commit/ef5a50dd85e303331ed5a64cd73c3c9153ef42a6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xviewer/commit/becb779a65e7ef18dcd2edaed8cfcd62b4497ef4)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 ## random
 
 #### [blueberry](https://github.com/linuxmint/blueberry): [refs/tags/1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/refs/tags/1.4.8...HEAD)
@@ -211,21 +232,33 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.6...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/hypnotix/commit/383358bc144e8fabc074f9695637c3852f253fdc)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.6 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.6...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/slick-greeter/commit/1abc83c905360b6fe3fd01a02624017c2d967433)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.30 → HEAD](https://github.com/linuxmint/sticky/compare/1.30...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/sticky/commit/d0c6ba52626d7374c28e7d6c5a3e95c5577d1a9b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/25.12.4 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/25.12.4...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/timeshift/commit/b2151aa2374cdddf9c114c9573a38ef1e7d0cad6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.9 → HEAD](https://github.com/linuxmint/xed/compare/3.8.9...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xed/commit/78ff0d1db37872dcb3b236dc28e640f2e1f86720)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
+- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/39f7b5855a851ffd9b4b1ae4ce3f37ed42368d6e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
