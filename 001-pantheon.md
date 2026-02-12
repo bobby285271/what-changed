@@ -157,6 +157,10 @@
 - [ ] [<code>Miller view: fix actionbar reappearance (#2716)</code>](https://github.com/elementary/files/commit/13154a6c9c79d7e0af65114a2ca95c51bb783da8)
 - [ ] [<code>File: Deal with icon change with private function (#2720)</code>](https://github.com/elementary/files/commit/8bfaa97f4957292d619c7e94417e6a2dedf16180)
 - [ ] [<code>AppMenu: Create local settings objects on demand (#2727)</code>](https://github.com/elementary/files/commit/470dc1c48a31638bcc2192c3442e17452fa8b108)
+- [ ] [<code>Window: set view mode action enabled (#2732)</code>](https://github.com/elementary/files/commit/5df80177faba764b9a23f799f5af25b48ea21720)
+- [ ] [<code>Window: organize and scope properties (#2733)</code>](https://github.com/elementary/files/commit/debd7eba7de96f922d7141b4c60cc66dcf44cb0f)
+- [ ] [<code>SidebarWindow: Use class static settings object (#2735)</code>](https://github.com/elementary/files/commit/8f2e5de5a739746cb7eb6d3b226894768a6549dd)
+- [ ] [<code>AppMenu: handle view mode changed internally (#2731)</code>](https://github.com/elementary/files/commit/37d9b4158ea869112bb7cfa4c9cf99af448a7497)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -559,22 +563,8 @@
 - [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
 
-#### [pantheon.switchboard-plug-wacom](https://github.com/elementary/switchboard-plug-wacom): [8.0.1 → HEAD](https://github.com/elementary/switchboard-plug-wacom/compare/8.0.1...HEAD)
+#### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/switchboard-plug-wacom/commit/30954eeaedeedca6769c8085780a5b9e0e1b09b7)
-- [ ] [<code>Actions: Use main branch (#75)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/de2bff95d173164b9e532e4e306d7368eeb22e1a)
-- [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/switchboard-plug-wacom/commit/9a756c30cf1ee67505c2abe944da2725c642591e)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aadc255e7c8910bd67b8e4e7b79e4b2bccf5a091)
-- [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/35c3e4e8dacc75f8f44df9f4488eafaa92637703)
-- [ ] [<code>Update wacom.metainfo.xml.in</code>](https://github.com/elementary/switchboard-plug-wacom/commit/37a5c5d2451916d0af35c0fd07281c98fe9802f9)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-wacom/commit/aa427dc031252ab22acbe3ac369673d72e766fd9)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-wacom/commit/c54c446eab7808279a9ba761d5d81ca8618914cb)
-- [ ] [<code>Rename as Pen & Drawing (#79)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/d82dc1e37f433c315e3fe5f2d05da9dc02f64c5f)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#80)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/737370c2f1b9747dabefc872b140aec8ff355912)
-- [ ] [<code>StylusView: Add translators comment (#81)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/0bb143adca76a21e517cb14f43b8de6e2a94d187)
-- [ ] [<code>Release 8.0.2 (#82)</code>](https://github.com/elementary/switchboard-plug-wacom/commit/237693e948292dab61458ba7a16eb4db6e823432)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
@@ -843,19 +833,8 @@
 
 ## libraries
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [7.7.0 → HEAD](https://github.com/elementary/granite/compare/7.7.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.0 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.0...HEAD)
 
-- [ ] [<code>Box: Add version annotation to Spacing enum (#918)</code>](https://github.com/elementary/granite/commit/e53019cf4a8c961f9f89daf15844df760bf94a81)
-- [ ] [<code>Add minimum size for slider (#905)</code>](https://github.com/elementary/granite/commit/8124e9c14b1c634b2253f088220f721ff03c23ee)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/granite/commit/15868e525a990a8d50062a5af327aa8537065f44)
-- [ ] [<code>DateTime: Make sure to always compare dates if datetimes have the same timezone</code>](https://github.com/elementary/granite/commit/b9921f531e525000916ec9b4886c83c4b850f4d7)
-- [ ] [<code>HeaderLabel: Add ellipsize property (#936)</code>](https://github.com/elementary/granite/commit/22f07cb9b1435247dd72c095cdd340164f1bdf1e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add last checked tomorrow issue (#942)</code>](https://github.com/elementary/granite/commit/a473845f78963e251edbbfff3756649da0ce0269)
-- [ ] [<code>ListItem: add menu_model property (#826)</code>](https://github.com/elementary/granite/commit/bffb2ff70b71a1109b0f7fc59490415d3853869c)
-- [ ] [<code>Update granite.metainfo.xml.in (#945)</code>](https://github.com/elementary/granite/commit/3f6ce05a544bb594f654d33cc1772f3a478fb9bf)
-- [ ] [<code>Release 7.8.0 (#946)</code>](https://github.com/elementary/granite/commit/9d59c4a348de7f69c312ce9eabc154dcdc6c550f)
-  - <sub>Tags: <code>7.8.0</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -959,3 +938,5 @@
 - [ ] [<code>Pantheon: add monitor (#142)</code>](https://github.com/elementary/seeds/commit/ace5f7118ba938a5f552572f5e7f3511e63c9cbf)
 - [ ] [<code>desktop: add grub-efi-arm64 (#143)</code>](https://github.com/elementary/seeds/commit/73fb204bd7210165bd9ade4eaeecb8a00e7f0462)
 - [ ] [<code>pantheon: Add Maps (#144)</code>](https://github.com/elementary/seeds/commit/a0634da2e67f99b0c33e0d68c0b1a666431017d3)
+- [ ] [<code>Bump for Resolute</code>](https://github.com/elementary/seeds/commit/3b63ad3cf6a8d721997e9a1402a02fc9fb830ce1)
+- [ ] [<code>desktop: Update panel package names (#147)</code>](https://github.com/elementary/seeds/commit/463e85c0a7bdd279d45ad5ce9d2c54c1cf00b13a)
