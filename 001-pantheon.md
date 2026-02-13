@@ -151,6 +151,8 @@
 - [ ] [<code>Window: make singleclick-select a settings action (#2739)</code>](https://github.com/elementary/files/commit/62b1a52a84d4aab7da1eedda0f1e2677dd5d96b5)
 - [ ] [<code>Window: scope down functions only used here (#2750)</code>](https://github.com/elementary/files/commit/187c6e14dedb5f7cad2dc03175acd0aa61e4eb1f)
 - [ ] [<code>Window: remove set_title override (#2749)</code>](https://github.com/elementary/files/commit/a971235b1d985842d20f54d363ac88d3793914cb)
+- [ ] [<code>ViewSwitcher: use SPDX header, inline namespace</code>](https://github.com/elementary/files/commit/c9f6d73eac18c1c8fcbc0ffbf32ad207e7683c93)
+- [ ] [<code>Window: remove get default_mode</code>](https://github.com/elementary/files/commit/138b9052d085ad51f2764d558f098245ce7c0da9)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
