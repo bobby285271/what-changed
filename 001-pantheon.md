@@ -97,26 +97,8 @@
 - [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
 - [ ] [<code>Escape search term when not using Regex expression in global search (#1669)</code>](https://github.com/elementary/code/commit/77aa937ecafbc1396c83a7d96ce0ab92322660ae)
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.1 → HEAD](https://github.com/elementary/dock/compare/8.3.1...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
-- [ ] [<code>Application: rely on Granite.StyleManager (#531)</code>](https://github.com/elementary/dock/commit/15039eeecca73ad0a99a7679191cdad38aa6f348)
-- [ ] [<code>pantheon-desktop-shell: Manually bind the free function (#498)</code>](https://github.com/elementary/dock/commit/92fa48c2d2bcb1df24d01bd62bed3d1db226adf5)
-- [ ] [<code>CSS: add active style for icongroup (#534)</code>](https://github.com/elementary/dock/commit/8f4af74019847f373c87ef38d9ddabb33fda3024)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Launcher: Release the second running indicator when needed (#538)</code>](https://github.com/elementary/dock/commit/937ef8d94843f5e56ec5351e94b044d5a3163860)
-- [ ] [<code>GSchema: remove multitasking from defaults (#561)</code>](https://github.com/elementary/dock/commit/01d3ae8a283286be525239ba9788b12ca19d5293)
-- [ ] [<code>Metainfo: add 8.3.2 release notes (#566)</code>](https://github.com/elementary/dock/commit/b239f36cb0fac760ad779ddee784fb6536a05c0b)
-- [ ] [<code>GSchema: remove system settings from default items (#562)</code>](https://github.com/elementary/dock/commit/2319a611255bf12dc24d0f64ea9fbf308d5562aa)
-- [ ] [<code>BackgroundItem: add tooltip (#535)</code>](https://github.com/elementary/dock/commit/491a9d68a6daf2a7a6e7cd94202610984a3598e6)
-- [ ] [<code>Launcher: show accels in tooltip (#536)</code>](https://github.com/elementary/dock/commit/fef144a6a02439b3bc9bb656850dd0eb4505f96b)
-- [ ] [<code>App/Launcher: Add AppCenter actions (#568)</code>](https://github.com/elementary/dock/commit/facb6298dbbf54d33820f2c8795842b5d38dd80c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>App: don't pass appcenter object instance (#571)</code>](https://github.com/elementary/dock/commit/182f280966d06f963655ebe0578939ffdc879244)
-- [ ] [<code>Styles: add drag-accept style to icon groups (#570)</code>](https://github.com/elementary/dock/commit/2257e85067ad9905cb03beed2f4d66e6c890eb9d)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 8.3.2 (#567)</code>](https://github.com/elementary/dock/commit/db0433f6d53aedc73df305f4c00d372871b8f5e1)
-  - <sub>Tags: <code>8.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -161,6 +143,14 @@
 - [ ] [<code>Window: organize and scope properties (#2733)</code>](https://github.com/elementary/files/commit/debd7eba7de96f922d7141b4c60cc66dcf44cb0f)
 - [ ] [<code>SidebarWindow: Use class static settings object (#2735)</code>](https://github.com/elementary/files/commit/8f2e5de5a739746cb7eb6d3b226894768a6549dd)
 - [ ] [<code>AppMenu: handle view mode changed internally (#2731)</code>](https://github.com/elementary/files/commit/37d9b4158ea869112bb7cfa4c9cf99af448a7497)
+- [ ] [<code>Window: use settings action for show-hidden (#2734)</code>](https://github.com/elementary/files/commit/5a11ecd94eca38737d36a4f1a37f998e0dcfa0d1)
+- [ ] [<code>Window: use settings actions for thumbnails state (#2736)</code>](https://github.com/elementary/files/commit/685b6846b5761fc48f7c36a58acc20aa28f1310d)
+- [ ] [<code>Window: use settings action for show file preview (#2738)</code>](https://github.com/elementary/files/commit/565787c8bf92ca6ec88e3d742581cad0f845a16c)
+- [ ] [<code>Window: use settings action for restore-tabs (#2741)</code>](https://github.com/elementary/files/commit/6ab5e1dc5bacca4220562b7c7e73fde4664a3f98)
+- [ ] [<code>Preferences: remove dead force_icon_size (#2746)</code>](https://github.com/elementary/files/commit/d57f17d4a05123a0001574442d30df917a1248a8)
+- [ ] [<code>Window: make singleclick-select a settings action (#2739)</code>](https://github.com/elementary/files/commit/62b1a52a84d4aab7da1eedda0f1e2677dd5d96b5)
+- [ ] [<code>Window: scope down functions only used here (#2750)</code>](https://github.com/elementary/files/commit/187c6e14dedb5f7cad2dc03175acd0aa61e4eb1f)
+- [ ] [<code>Window: remove set_title override (#2749)</code>](https://github.com/elementary/files/commit/a971235b1d985842d20f54d363ac88d3793914cb)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -630,42 +620,9 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [8fb60a9c9b04245913733208df1c061d6c353a35 → HEAD](https://github.com/elementary/gala/compare/8fb60a9c9b04245913733208df1c061d6c353a35...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.1...HEAD)
 
-- [ ] [<code>ModalGroup: Blur background (#2715)</code>](https://github.com/elementary/gala/commit/6f27cbaeecaa2a5a734ed606f7ec9e35473357fe)
-- [ ] [<code>Use ClickGesture instead of ClickAction for MUTTER49</code>](https://github.com/elementary/gala/commit/2b3fd2f44e0363f65c0f7c06d5778690125838dd)
-- [ ] [<code>TouchpadBackend: Use source device instead of device for device type</code>](https://github.com/elementary/gala/commit/e77a01f3bc45ed6e66d4ea6e45b6d688bae12595)
-- [ ] [<code>DragDropAction: Use source device instead of device</code>](https://github.com/elementary/gala/commit/3fd0a16172a766502b9afc586d0192bd4e10962b)
-- [ ] [<code>WindowManager: Don't provide device to grab op</code>](https://github.com/elementary/gala/commit/7828e5638808ecdb16d873cf5d11f9d318164c35)
-- [ ] [<code>Update vapi for Mutter49</code>](https://github.com/elementary/gala/commit/90938aa0dda688b0be388463a45e3a348c3f8e5a)
-- [ ] [<code>Use `Clutter.PanGesture` for Mutter49</code>](https://github.com/elementary/gala/commit/98f0891b018a736f1d1b42bf9c40b7b1572e6459)
-- [ ] [<code>WindowClone: add missing cast</code>](https://github.com/elementary/gala/commit/9a7b0f9a5464ef684610c67f46d09453dba64f8e)
-- [ ] [<code>WorkspaceClone: Use `Clutter.ClickGesture` for Mutter49</code>](https://github.com/elementary/gala/commit/e90f92a6c6c8d315badf674e1ea3aebe81100df1)
-- [ ] [<code>BackgroundBlurEffect: fix getting layout</code>](https://github.com/elementary/gala/commit/05b2e5dc8ddf533172d829dc23e337854570a666)
-- [ ] [<code>BackgroundBlurEffect: fix an oopsie</code>](https://github.com/elementary/gala/commit/59c2f983b24f1cc70c2785b2b440481b459d4774)
-- [ ] [<code>Metainfo: Add 8.4.1 release notes</code>](https://github.com/elementary/gala/commit/550d0537c34dd29d2aead3066f9a1c91ca86cdda)
-- [ ] [<code>Meson: enable compiler optimizations</code>](https://github.com/elementary/gala/commit/986de39d002984f7092e9e93b014d6413a67de6d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ModalGroup: allow zoom (#2737)</code>](https://github.com/elementary/gala/commit/23f93603cabf0409c00f8a9fa4754138b0dd8875)
-- [ ] [<code>Silence C warnings (#2734)</code>](https://github.com/elementary/gala/commit/c0ced5d94345555f96bdf33c71f20cc056b15531)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ScreenshotManager: simplify composite_stage_cursor (#2740)</code>](https://github.com/elementary/gala/commit/7f633aa5d56d3d502b687f4c213eca789589b201)
-- [ ] [<code>Don't handle window menus for windows that are not normal (#2736)</code>](https://github.com/elementary/gala/commit/91a53ec6a68faae73719e55c41abf1689410a5aa)
-- [ ] [<code>Rework modal actions (#2739)</code>](https://github.com/elementary/gala/commit/b9b9dde03aa2515108e7809108d3f4544da7c4a5)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix rounding error in WindowSwitcher (#2750)</code>](https://github.com/elementary/gala/commit/ba69d2fde5de5847b939e8cc2de7cd4c61ae808e)
-- [ ] [<code>Replace Gdk.pixbuf_from_surface (#2732)</code>](https://github.com/elementary/gala/commit/38f0d34afd4a46844374d9955076cb25ce06052d)
-- [ ] [<code>Filter actions in WindowManager.perform_action () (#2741)</code>](https://github.com/elementary/gala/commit/a120189ee432ce42161e22eaeb74ee277bb3c98d)
-- [ ] [<code>BackgroundBlurEffect: fix drawing off stage (#2752)</code>](https://github.com/elementary/gala/commit/6a762383e55c5b73caa9fdba0a6d4d67f5491452)
-- [ ] [<code>Plugin: disallow overriding window overview (#2753)</code>](https://github.com/elementary/gala/commit/d5cc5df9b76d5efbf9d0a6d24eb24bdca072eb10)
-- [ ] [<code>Cleanup gesture code (#2755)</code>](https://github.com/elementary/gala/commit/9022687fff4263132c04df6a3e5f416ae694e785)
-- [ ] [<code>Introduce and use GestureTrigger</code>](https://github.com/elementary/gala/commit/3b5917a8bd3157da801a8d49c825a4f004a63320)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>RoundedCornersEffect: avoid using get_static_shader_source () (#2758)</code>](https://github.com/elementary/gala/commit/e109122e8b6acaf20761188ea6b90cf0fbf73c59)
-- [ ] [<code>WindowSwitcher: avoid grabbing modal proxy multiple times (#2761)</code>](https://github.com/elementary/gala/commit/8de5134ab9385b8b123a52e1a62a5d035c3d9c07)
-- [ ] [<code>Release 8.4.1 (#2730)</code>](https://github.com/elementary/gala/commit/56902955fcdeeebedd696166ec0685da8b052442)
-  - <sub>Tags: <code>8.4.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Zoom: update cursor position every frame (#2749)</code>](https://github.com/elementary/gala/commit/dcd2ff8500b88e9e7cacca0e2f84fb37b2675662)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -896,6 +853,7 @@
 - [ ] [<code>Replace Granite StyleClass deprecations (#175)</code>](https://github.com/elementary/portals/commit/453b2cfe42158022f7bf235ef936434e4e705de2)
 - [ ] [<code>Create PortalDialog (#169)</code>](https://github.com/elementary/portals/commit/10aa0b271df4ad62f50153e0a352a69b03a72b07)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PortalDialog: make button construction internal (#177)</code>](https://github.com/elementary/portals/commit/43fab1ddfb2337c2dea3dad586ed5f4dd21a5258)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
