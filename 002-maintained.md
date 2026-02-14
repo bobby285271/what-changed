@@ -271,6 +271,12 @@
 - [ ] [<code>Fix: clear project cache when adding items via quick add (#2251)</code>](https://github.com/alainm23/planify/commit/f5e67d5ec8fb9bfefa8910d669d6b988221a77f0)
 - [ ] [<code>Fix multi-day calendar event display in Scheduled view (#2253)</code>](https://github.com/alainm23/planify/commit/fd6b6fee44c2b6eae15c388cd0e5bbb868673aa9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: improve datetime picker (#2261)</code>](https://github.com/alainm23/planify/commit/679c9a0fb69633bee03e81214fcb8c4990d88f02)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>handle negative child_order (#2260)</code>](https://github.com/alainm23/planify/commit/45d3dc03f8abd8b9243ca24fc6aba571b33747dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update references for "main" branch (#2216) (#2263)</code>](https://github.com/alainm23/planify/commit/b89404d47518f28625cd14215042cc4083e31d61)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
