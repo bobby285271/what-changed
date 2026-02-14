@@ -277,6 +277,8 @@
 - [ ] [<code>handle negative child_order (#2260)</code>](https://github.com/alainm23/planify/commit/45d3dc03f8abd8b9243ca24fc6aba571b33747dd)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update references for "main" branch (#2216) (#2263)</code>](https://github.com/alainm23/planify/commit/b89404d47518f28625cd14215042cc4083e31d61)
+- [ ] [<code>app property (#2264)</code>](https://github.com/alainm23/planify/commit/5d394d3abbfbe27b327768bd478bba4ca4254988)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
