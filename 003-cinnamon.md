@@ -68,6 +68,7 @@
 - [ ] [<code>panel.js: Remove the panel corners implementation (#13487)</code>](https://github.com/linuxmint/cinnamon/commit/b24d042457ef6e95d8204aa3ccec8cb11300fdc7)
 - [ ] [<code>st-button: Add an :icon-name property (#13491)</code>](https://github.com/linuxmint/cinnamon/commit/1b29d6473ae21a2b82382c770b51d353d8a19cf8)
 - [ ] [<code>hotcorner.js: Port to GObject and ripples.js (#13544)</code>](https://github.com/linuxmint/cinnamon/commit/781e09a25496053939286250269caf14fc651078)
+- [ ] [<code>keybindings.js: Allow auto-repeat only on certain media keybindings.</code>](https://github.com/linuxmint/cinnamon/commit/50c946459bfb4a200491b9a9ffbb393ee2ca467e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -97,13 +98,8 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e028b07cddf71ec65db382016dc890ab39032fe1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.2...HEAD)
+#### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
 
-- [ ] [<code>.github/workflows: Update build.yml with generate-test-packages.</code>](https://github.com/linuxmint/cinnamon-session/commit/43587a77fd543583070ce52c15983453555da94e)
-- [ ] [<code>csm-manager.c: Close the end-session dialog before trying to lock (#199)</code>](https://github.com/linuxmint/cinnamon-session/commit/e2cd4a72647c5eb977b34d761a1569e1d8a3894c)
-- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/cinnamon-session/commit/f49a9441f5db4fca5cb19e741c7dda0b0971c1f3)
-  - <sub>Tags: <code>6.6.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
@@ -161,6 +157,7 @@
 - [ ] [<code>wayland/xdg-shell: Implement support for xdg_toplevel.wm_capabilities (#780)</code>](https://github.com/linuxmint/muffin/commit/7e578fd86f9fafd5a022d93dab1bb4b8e84ec92f)
 - [ ] [<code>Fix use-after free and race conditions in Wayland idle inhibitation (#779)</code>](https://github.com/linuxmint/muffin/commit/5a4956efa66beaf615992f36bf4a32711791128a)
 - [ ] [<code>meta-wayland-pointer.c: Get correct device coordinates from the</code>](https://github.com/linuxmint/muffin/commit/f378f68d76704fed92bdee226483f7f0de33e87d)
+- [ ] [<code>keybindings: Add meta_display_add_custom_keybinding_full().</code>](https://github.com/linuxmint/muffin/commit/baf3c23992b8c08a4f0a3982b88a449ce692e1f1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
