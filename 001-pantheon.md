@@ -153,6 +153,7 @@
 - [ ] [<code>Window: remove set_title override (#2749)</code>](https://github.com/elementary/files/commit/a971235b1d985842d20f54d363ac88d3793914cb)
 - [ ] [<code>ViewSwitcher: use SPDX header, inline namespace</code>](https://github.com/elementary/files/commit/c9f6d73eac18c1c8fcbc0ffbf32ad207e7683c93)
 - [ ] [<code>Window: remove get default_mode</code>](https://github.com/elementary/files/commit/138b9052d085ad51f2764d558f098245ce7c0da9)
+- [ ] [<code>Add sort-directories-first setting (#2740)</code>](https://github.com/elementary/files/commit/e6b712a2189efd56ad8ab197efc5ecc317db082f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
