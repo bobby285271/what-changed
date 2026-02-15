@@ -264,6 +264,7 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
 - [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
+- [ ] [<code>l10n: Add Vietnamese (vi) translation (#348)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b4b56201a3b7bf3120df2ae5c9cad38ab9c82efa)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.0...HEAD)
 
@@ -278,6 +279,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update references for "main" branch (#2216) (#2263)</code>](https://github.com/alainm23/planify/commit/b89404d47518f28625cd14215042cc4083e31d61)
 - [ ] [<code>app property (#2264)</code>](https://github.com/alainm23/planify/commit/5d394d3abbfbe27b327768bd478bba4ca4254988)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Prevent crash when deleting multiple tasks via multiselect (#2265)</code>](https://github.com/alainm23/planify/commit/5a3bf74ae3df1a7e165e66f93b10cf1d26133184)
   - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
