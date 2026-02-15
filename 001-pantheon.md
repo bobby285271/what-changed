@@ -154,6 +154,8 @@
 - [ ] [<code>ViewSwitcher: use SPDX header, inline namespace</code>](https://github.com/elementary/files/commit/c9f6d73eac18c1c8fcbc0ffbf32ad207e7683c93)
 - [ ] [<code>Window: remove get default_mode</code>](https://github.com/elementary/files/commit/138b9052d085ad51f2764d558f098245ce7c0da9)
 - [ ] [<code>Add sort-directories-first setting (#2740)</code>](https://github.com/elementary/files/commit/e6b712a2189efd56ad8ab197efc5ecc317db082f)
+- [ ] [<code>AbstractDirectoryView: actions use BookmarkList directly (#2748)</code>](https://github.com/elementary/files/commit/d3064c46cc6f8c7933b23ea631bf8a653fcd98df)
+- [ ] [<code>AbstractDirectoryView: get thumbnail settings from gsettings (#2747)</code>](https://github.com/elementary/files/commit/24bebeda1828a7aaf94b978f1f97f08a04e0e5c0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
