@@ -775,6 +775,7 @@
 - [ ] [<code>Improve statusbar loading text (#1787)</code>](https://github.com/xfce-mirror/thunar/commit/9b003ff269a522216b9a2f6d0d2c21bcba0d2f86)
 - [ ] [<code>Fix translations for XML file (#1790)</code>](https://github.com/xfce-mirror/thunar/commit/746a684fa7e5991e6b4bb6fa3cca744dfc008b04)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Never ask twice on replace/overwrite (#1794)</code>](https://github.com/xfce-mirror/thunar/commit/8194689218ce19cfa57b031388216c3c1dba8001)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -959,6 +960,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>gst-plugin-gtk: New dependency for video wallpapers in xfdesktop</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7d8c8753d935aa0cb7311785e8975482ebfe455b)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>doc: Update developer.xfce.org index</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3bbac64b67336292a486b88e13960099f4f68dd8)
+- [ ] [<code>Update docker/docker-dind images for CI</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/1248a784753c20216f809359e29e18f07d4575f9)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
