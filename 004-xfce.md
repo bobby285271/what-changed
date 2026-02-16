@@ -776,6 +776,8 @@
 - [ ] [<code>Fix translations for XML file (#1790)</code>](https://github.com/xfce-mirror/thunar/commit/746a684fa7e5991e6b4bb6fa3cca744dfc008b04)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Never ask twice on replace/overwrite (#1794)</code>](https://github.com/xfce-mirror/thunar/commit/8194689218ce19cfa57b031388216c3c1dba8001)
+- [ ] [<code>Fix GError leak in thunar_g_file_get_content_type</code>](https://github.com/xfce-mirror/thunar/commit/9ea1dae80fb725341849881cdef84e1ad0ee3f83)
+- [ ] [<code>Fix two g_file_get_uri leaks with g_warning messages</code>](https://github.com/xfce-mirror/thunar/commit/fa401a98d944e011fda827bb8462fc69cb928ff3)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
