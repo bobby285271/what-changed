@@ -156,6 +156,8 @@
 - [ ] [<code>Add sort-directories-first setting (#2740)</code>](https://github.com/elementary/files/commit/e6b712a2189efd56ad8ab197efc5ecc317db082f)
 - [ ] [<code>AbstractDirectoryView: actions use BookmarkList directly (#2748)</code>](https://github.com/elementary/files/commit/d3064c46cc6f8c7933b23ea631bf8a653fcd98df)
 - [ ] [<code>AbstractDirectoryView: get thumbnail settings from gsettings (#2747)</code>](https://github.com/elementary/files/commit/24bebeda1828a7aaf94b978f1f97f08a04e0e5c0)
+- [ ] [<code>AbstractDirectoryView: rewrite SortSubMenu using GLib.Menu (#2756)</code>](https://github.com/elementary/files/commit/6c5e6572853be5f41464fddb7a2fec0e2009ce46)
+- [ ] [<code>AbstractDirectoryView: rewrite NewSubMenuItem using GLib.Menu (#2757)</code>](https://github.com/elementary/files/commit/1d6672a08d606a32b5c55c602cdec0dbabc575a2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -557,6 +559,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
+- [ ] [<code>Fix empty "Applications" tab (#299)</code>](https://github.com/elementary/settings-sound/commit/58640c9633f13a977768fed4ae2269a21ae293a4)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
