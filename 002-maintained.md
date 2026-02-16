@@ -282,6 +282,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: Prevent crash when deleting multiple tasks via multiselect (#2265)</code>](https://github.com/alainm23/planify/commit/5a3bf74ae3df1a7e165e66f93b10cf1d26133184)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Prevent duplicate task submissions and restore keyboard shortcuts (#2269)</code>](https://github.com/alainm23/planify/commit/d3bb4cedc75eec29b33bc48b38529d2700b18bd9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
