@@ -3,6 +3,8 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.3.2...HEAD)
 
+- [ ] [<code>(Re)introduce a backend interface</code>](https://github.com/elementary/appcenter/commit/19e15255ff2e86c2e0d3b7c01dea2cfc74f1af72)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -75,6 +77,7 @@
 - [ ] [<code>LocationPanel: cleanup cancellables in destructor (#918)</code>](https://github.com/elementary/calendar/commit/ca84cb51962d28175f11912b9cd2f12de569c329)
 - [ ] [<code>CalendarView: absorb network connectivity infobar (#909)</code>](https://github.com/elementary/calendar/commit/af47d1287503cd663ac894c1bdd4527d04af9e56)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AgendaEventRow: escape location description text (#913)</code>](https://github.com/elementary/calendar/commit/3ae673343b6da678c41383a05efdc7cd1ab1f5b8)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -96,6 +99,7 @@
 - [ ] [<code>Add metainfo for release 8.2.0 (#1682)</code>](https://github.com/elementary/code/commit/ae791f8e0c5d69aa55190efcfc0d665fee6d1756)
 - [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
 - [ ] [<code>Escape search term when not using Regex expression in global search (#1669)</code>](https://github.com/elementary/code/commit/77aa937ecafbc1396c83a7d96ce0ab92322660ae)
+- [ ] [<code>Update metainfo for v8.2.0 (#1693)</code>](https://github.com/elementary/code/commit/5353a0f5533cad744ae010fb3ce7c1205ee72ce3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
@@ -158,6 +162,7 @@
 - [ ] [<code>AbstractDirectoryView: get thumbnail settings from gsettings (#2747)</code>](https://github.com/elementary/files/commit/24bebeda1828a7aaf94b978f1f97f08a04e0e5c0)
 - [ ] [<code>AbstractDirectoryView: rewrite SortSubMenu using GLib.Menu (#2756)</code>](https://github.com/elementary/files/commit/6c5e6572853be5f41464fddb7a2fec0e2009ce46)
 - [ ] [<code>AbstractDirectoryView: rewrite NewSubMenuItem using GLib.Menu (#2757)</code>](https://github.com/elementary/files/commit/1d6672a08d606a32b5c55c602cdec0dbabc575a2)
+- [ ] [<code>AbstractDirectoryView: Set should_thumbnail when done loading (#2758)</code>](https://github.com/elementary/files/commit/f21d6667c65499d374b435d231fbc18a98bd3178)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -631,6 +636,7 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.1...HEAD)
 
 - [ ] [<code>Zoom: update cursor position every frame (#2749)</code>](https://github.com/elementary/gala/commit/dcd2ff8500b88e9e7cacca0e2f84fb37b2675662)
+- [ ] [<code>SwipeTrigger: trigger only on scroll events on touchpad (#2771)</code>](https://github.com/elementary/gala/commit/c72233470cdccdcb44e2c1c0fc957be1a38d5a98)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
