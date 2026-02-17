@@ -284,6 +284,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: Prevent duplicate task submissions and restore keyboard shortcuts (#2269)</code>](https://github.com/alainm23/planify/commit/d3bb4cedc75eec29b33bc48b38529d2700b18bd9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>change the default metadata installing path (#2274)</code>](https://github.com/alainm23/planify/commit/d90bbd6fc34fb56961d61afab536b45e7467a370)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
