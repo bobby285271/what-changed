@@ -82,6 +82,7 @@
 - [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e0677dd97494b5dae410aff7ddb3bb3541c4e50e)
 - [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e6971b7ef01791f73e2df69c5bd1f9522cc17064)
+- [ ] [<code>input-sources settings: Add a new setting to store the default xkb (#263)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/26cf76088ada8b94be5118bce9586daf2d7f69eb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -172,7 +173,12 @@
 - [ ] [<code>dnd: Don't allow drag-and-drop into or out of computer://.</code>](https://github.com/linuxmint/nemo/commit/4e01cdd4e377facae4ef5cf59d81aa7c06973679)
 - [ ] [<code>Add Keyboard Shortcut for Open in Terminal (#3686)</code>](https://github.com/linuxmint/nemo/commit/d00e5fcd19212097ebc3990e23c13252d51338f5)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/nemo/commit/46012b9f228614cbde5e48dcc2522fbae3b575bc)
+- [ ] [<code>Sort by File Extension for Grid and List View (#3666)</code>](https://github.com/linuxmint/nemo/commit/a89c95c108cdb1b7d2e62b95f37891c51ae7e840)
+- [ ] [<code>nemo-file.c: Don't display 'unknown' in the extension column if</code>](https://github.com/linuxmint/nemo/commit/15f92eebc80fd0ede17dcda9b37538fef252e6aa)
+- [ ] [<code>nemo-places-sidebar.c: Sort network mounts alphabetically (#3695)</code>](https://github.com/linuxmint/nemo/commit/10926a3ce4e32a6252252911752ce7ee18ecaa28)
+- [ ] [<code>fix path in action-info.md (#3701)</code>](https://github.com/linuxmint/nemo/commit/fa544dc97cde260e3f82e82a0953382474f50a01)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
