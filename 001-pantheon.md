@@ -78,6 +78,8 @@
 - [ ] [<code>CalendarView: absorb network connectivity infobar (#909)</code>](https://github.com/elementary/calendar/commit/af47d1287503cd663ac894c1bdd4527d04af9e56)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>AgendaEventRow: escape location description text (#913)</code>](https://github.com/elementary/calendar/commit/3ae673343b6da678c41383a05efdc7cd1ab1f5b8)
+- [ ] [<code>CalendarView: use returned file for export (#923)</code>](https://github.com/elementary/calendar/commit/18654f32ec2587a889afdb56e7fb4d113b737618)
+- [ ] [<code>SourceDialog: only pack type_box when needed (#924)</code>](https://github.com/elementary/calendar/commit/b100ec6b1f1721d4af4b5870465727758cfb4e7e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
