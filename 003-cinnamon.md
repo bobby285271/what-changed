@@ -69,6 +69,13 @@
 - [ ] [<code>st-button: Add an :icon-name property (#13491)</code>](https://github.com/linuxmint/cinnamon/commit/1b29d6473ae21a2b82382c770b51d353d8a19cf8)
 - [ ] [<code>hotcorner.js: Port to GObject and ripples.js (#13544)</code>](https://github.com/linuxmint/cinnamon/commit/781e09a25496053939286250269caf14fc651078)
 - [ ] [<code>keybindings.js: Allow auto-repeat only on certain media keybindings.</code>](https://github.com/linuxmint/cinnamon/commit/50c946459bfb4a200491b9a9ffbb393ee2ca467e)
+- [ ] [<code>menu@cinnamon.org: hide sidebar config options when sidebar is hidden (#13323)</code>](https://github.com/linuxmint/cinnamon/commit/0e7a9c693020bcc9d9c151c15d7212e0feded543)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>menu: Add context menu actions for favorites/recents (#13220)</code>](https://github.com/linuxmint/cinnamon/commit/2554d7a522735c45d3310264f83404d335849f77)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>FIX: Disable "Disable all" button when no extensions installed (#13455)</code>](https://github.com/linuxmint/cinnamon/commit/cec10caab59bfac946c13679c9e1435f60a6142c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix wrong attribute and method name usage (#13515)</code>](https://github.com/linuxmint/cinnamon/commit/fd057af1cd066eb12849c54d054cd43b3515efc2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -159,6 +166,7 @@
 - [ ] [<code>Fix use-after free and race conditions in Wayland idle inhibitation (#779)</code>](https://github.com/linuxmint/muffin/commit/5a4956efa66beaf615992f36bf4a32711791128a)
 - [ ] [<code>meta-wayland-pointer.c: Get correct device coordinates from the</code>](https://github.com/linuxmint/muffin/commit/f378f68d76704fed92bdee226483f7f0de33e87d)
 - [ ] [<code>keybindings: Add meta_display_add_custom_keybinding_full().</code>](https://github.com/linuxmint/muffin/commit/baf3c23992b8c08a4f0a3982b88a449ce692e1f1)
+- [ ] [<code>Fix top position calculating when applying edge resistance. (#798)</code>](https://github.com/linuxmint/muffin/commit/b22558c755263ab916a08547e0de65e34ed3130a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
