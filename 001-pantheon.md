@@ -84,6 +84,7 @@
 - [ ] [<code>AgendaEventRow: escape location description text (#913)</code>](https://github.com/elementary/calendar/commit/3ae673343b6da678c41383a05efdc7cd1ab1f5b8)
 - [ ] [<code>CalendarView: use returned file for export (#923)</code>](https://github.com/elementary/calendar/commit/18654f32ec2587a889afdb56e7fb4d113b737618)
 - [ ] [<code>SourceDialog: only pack type_box when needed (#924)</code>](https://github.com/elementary/calendar/commit/b100ec6b1f1721d4af4b5870465727758cfb4e7e)
+- [ ] [<code>Application.css: no space after alpha (#929)</code>](https://github.com/elementary/calendar/commit/c1f73d40c09c878d288d905839f1abeb5733937a)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
