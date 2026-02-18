@@ -76,7 +76,16 @@
 - [ ] [<code>FIX: Disable "Disable all" button when no extensions installed (#13455)</code>](https://github.com/linuxmint/cinnamon/commit/cec10caab59bfac946c13679c9e1435f60a6142c)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix wrong attribute and method name usage (#13515)</code>](https://github.com/linuxmint/cinnamon/commit/fd057af1cd066eb12849c54d054cd43b3515efc2)
+- [ ] [<code>checkBox.js: Use the new checkBox object (#13564)</code>](https://github.com/linuxmint/cinnamon/commit/40a0ebe6bdbfda6f0105a23a1c08511a00a88ca7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>style: Add a slight blue tint to the theme (#13568)</code>](https://github.com/linuxmint/cinnamon/commit/b2827bbc81ceb944bef98a7da8d4b5c0ff14dac5)
+- [ ] [<code>Separator cleanup (#13573)</code>](https://github.com/linuxmint/cinnamon/commit/f5058373642031fca257569822432131c32aea66)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>backgroundManager.js: Fix variable names and remove uses of Lang.bind() (#13574)</code>](https://github.com/linuxmint/cinnamon/commit/c159ad04879db58a821e79df126f8d483c537c4a)
+- [ ] [<code>Remove the edgeFlip feature (#13581)</code>](https://github.com/linuxmint/cinnamon/commit/13eb3eff02f2bb6c6d10e50058298d9cc68cb334)
+- [ ] [<code>radioButton.js: Modernize and clean up unused object (#13567)</code>](https://github.com/linuxmint/cinnamon/commit/731d2f70fa5900b138a8b612c30ec481f3a60862)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
