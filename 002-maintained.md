@@ -286,6 +286,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>change the default metadata installing path (#2274)</code>](https://github.com/alainm23/planify/commit/d90bbd6fc34fb56961d61afab536b45e7467a370)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2267)</code>](https://github.com/alainm23/planify/commit/0682c1a83d22448637dc9637e70324a3f8bb598d)
+- [ ] [<code>Translations update from Hosted Weblate (#2248)</code>](https://github.com/alainm23/planify/commit/6565224343673c52b4563171c737d1716e472b9b)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
