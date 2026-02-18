@@ -5,6 +5,10 @@
 
 - [ ] [<code>(Re)introduce a backend interface</code>](https://github.com/elementary/appcenter/commit/19e15255ff2e86c2e0d3b7c01dea2cfc74f1af72)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Readme: Remove mention of restart required message</code>](https://github.com/elementary/appcenter/commit/22145ef7069c8c5f01263b85064d45a9babdc5ab)
+- [ ] [<code>Remove unused AsyncMutex and SuspendControl (#2409)</code>](https://github.com/elementary/appcenter/commit/ad62283cdc65584e9015b50a8665ee8dde9c5174)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>HumbleButton: Remove unused allow free (#2408)</code>](https://github.com/elementary/appcenter/commit/879e8296b33c1d2ddbd5c3282b3fef8145275c8d)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
