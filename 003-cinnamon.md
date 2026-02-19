@@ -84,8 +84,11 @@
 - [ ] [<code>backgroundManager.js: Fix variable names and remove uses of Lang.bind() (#13574)</code>](https://github.com/linuxmint/cinnamon/commit/c159ad04879db58a821e79df126f8d483c537c4a)
 - [ ] [<code>Remove the edgeFlip feature (#13581)</code>](https://github.com/linuxmint/cinnamon/commit/13eb3eff02f2bb6c6d10e50058298d9cc68cb334)
 - [ ] [<code>radioButton.js: Modernize and clean up unused object (#13567)</code>](https://github.com/linuxmint/cinnamon/commit/731d2f70fa5900b138a8b612c30ec481f3a60862)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>st-texture-cache.c: Fix st_texture_cache_load_image_from_file_async.</code>](https://github.com/linuxmint/cinnamon/commit/c25b61d7f3a22eacc9ebb3bde1227ef5b4e3b4c4)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -194,8 +197,10 @@
 - [ ] [<code>nemo-file.c: Don't display 'unknown' in the extension column if</code>](https://github.com/linuxmint/nemo/commit/15f92eebc80fd0ede17dcda9b37538fef252e6aa)
 - [ ] [<code>nemo-places-sidebar.c: Sort network mounts alphabetically (#3695)</code>](https://github.com/linuxmint/nemo/commit/10926a3ce4e32a6252252911752ce7ee18ecaa28)
 - [ ] [<code>fix path in action-info.md (#3701)</code>](https://github.com/linuxmint/nemo/commit/fa544dc97cde260e3f82e82a0953382474f50a01)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add stale.yml github workflow.</code>](https://github.com/linuxmint/nemo/commit/15d1d70a26cce5ef02c07a4c76b3b039a21b2c86)
+- [ ] [<code>Try fixing permissions.</code>](https://github.com/linuxmint/nemo/commit/872d62eb813968e6ffc88da04b1d3397262bb1eb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
