@@ -85,6 +85,8 @@
 - [ ] [<code>CalendarView: use returned file for export (#923)</code>](https://github.com/elementary/calendar/commit/18654f32ec2587a889afdb56e7fb4d113b737618)
 - [ ] [<code>SourceDialog: only pack type_box when needed (#924)</code>](https://github.com/elementary/calendar/commit/b100ec6b1f1721d4af4b5870465727758cfb4e7e)
 - [ ] [<code>Application.css: no space after alpha (#929)</code>](https://github.com/elementary/calendar/commit/c1f73d40c09c878d288d905839f1abeb5733937a)
+- [ ] [<code>EventDialog: remove unused can_edit (#927)</code>](https://github.com/elementary/calendar/commit/b3fa36f58a2b929e443f6b8b509631072bb93915)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -418,6 +420,7 @@
 - [ ] [<code>Change default scrollback-lines (#939)</code>](https://github.com/elementary/terminal/commit/9ce22d30d472cdab326b75cb06870f93c43efd9b)
 - [ ] [<code>Metainfo: update 8.0.0 release notes (#987)</code>](https://github.com/elementary/terminal/commit/60d1083e3b220af5e1c09cc450f4209452f4aac7)
 - [ ] [<code>Update custom style screenshot (#988)</code>](https://github.com/elementary/terminal/commit/95a689f62ead5d15883c478f900ac6c8f8f388bb)
+- [ ] [<code>Delay process end notification (#994)</code>](https://github.com/elementary/terminal/commit/43a7411f61fd2c448457d7c4ec873d2cd8ef7e7f)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
