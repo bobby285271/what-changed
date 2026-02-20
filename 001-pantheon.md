@@ -421,6 +421,11 @@
 - [ ] [<code>Metainfo: update 8.0.0 release notes (#987)</code>](https://github.com/elementary/terminal/commit/60d1083e3b220af5e1c09cc450f4209452f4aac7)
 - [ ] [<code>Update custom style screenshot (#988)</code>](https://github.com/elementary/terminal/commit/95a689f62ead5d15883c478f900ac6c8f8f388bb)
 - [ ] [<code>Delay process end notification (#994)</code>](https://github.com/elementary/terminal/commit/43a7411f61fd2c448457d7c4ec873d2cd8ef7e7f)
+- [ ] [<code>Application: return early in notify timeout (#997)</code>](https://github.com/elementary/terminal/commit/2722277c1f688cc8ec14ce214f776dd5a24629d6)
+- [ ] [<code>Remove restored tab path from tab history menu (#998)</code>](https://github.com/elementary/terminal/commit/3c185e42d92d0b4fa22b1e53aefc5918ad1286a6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Cleanup: explicit private modifier and remove dead code (#995)</code>](https://github.com/elementary/terminal/commit/5bfe3a7313a7c729ad4fc454f5cef95b1946dd34)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -653,6 +658,10 @@
 - [ ] [<code>Add Mutter 49 support (#658)</code>](https://github.com/elementary/wingpanel/commit/cd4852e3a28fa5b14dc2ea88810a4754d7e1d226)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Port to GTK4 (#579)</code>](https://github.com/elementary/wingpanel/commit/1958f5d586bc947212c8822e47f22492d41e56d3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel/commit/5b0ea5fcbf00537acbd613f7312059207049a3d1)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -914,6 +923,7 @@
 - [ ] [<code>Build: Remove AppCenter PPA option (#792)</code>](https://github.com/elementary/os/commit/2fd5a07b74cf6169ad5828229bb19bea120f2980)
 - [ ] [<code>Delete EOL configs (#794)</code>](https://github.com/elementary/os/commit/1aa4b2c7f2a0540ef4ca58c7ad9b0ef88e0b0577)
 - [ ] [<code>Remove network configurations (#748)</code>](https://github.com/elementary/os/commit/d73bc81c685093d63a8871eab521a317d91361c8)
+  - <sub>Tags: <code>8.1.1-rc1</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -922,3 +932,4 @@
 - [ ] [<code>pantheon: Add Maps (#144)</code>](https://github.com/elementary/seeds/commit/a0634da2e67f99b0c33e0d68c0b1a666431017d3)
 - [ ] [<code>Bump for Resolute</code>](https://github.com/elementary/seeds/commit/3b63ad3cf6a8d721997e9a1402a02fc9fb830ce1)
 - [ ] [<code>desktop: Update panel package names (#147)</code>](https://github.com/elementary/seeds/commit/463e85c0a7bdd279d45ad5ce9d2c54c1cf00b13a)
+- [ ] [<code>SDK: add wingpanel-9, remove unity (#150)</code>](https://github.com/elementary/seeds/commit/157dd83e0adfa1ccabc4b9d9e7356dd6199af86d)
