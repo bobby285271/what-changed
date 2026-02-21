@@ -861,6 +861,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>desktop-thumbnailer: Don't use GIOStream to get thumbnail pixbuf</code>](https://github.com/xfce-mirror/tumbler/commit/d5f570be7f9812e812838454fa648f5ed642a364)
+- [ ] [<code>Handle cases where there are no plugins gracefully</code>](https://github.com/xfce-mirror/tumbler/commit/b4f4db4bfc1a45f0a405c4516e38394a44c90fcf)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1133,6 +1134,7 @@
 - [ ] [<code>panel: Make non-GObject internal plugins resident</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f3158265814b196f87fa9981bdc4c74a29478e94)
 - [ ] [<code>prefs-dialog: Fix string leak when removing panel item</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5dfc918bbfe5011f51c94fe9ce94d74cfce5de39)
 - [ ] [<code>panel: Fix typo</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ecfbf52e45385b661674d426664769b4ac4f069d)
+- [ ] [<code>tasklist: Destroy group menu item if window is closed</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3fd181fd532ed7a4f277595019b11f3837f59fad)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
