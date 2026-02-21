@@ -1536,6 +1536,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/7d5c78f7586caa45aa24f2687c7db87e1315b4dd)
+- [ ] [<code>Fix g_dngettext string arguments (#450)</code>](https://github.com/xfce-mirror/xfdesktop/commit/c68f152986cf7f448ce60ecbaaaf95cb9c223170)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
