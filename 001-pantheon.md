@@ -172,6 +172,7 @@
 - [ ] [<code>AbstractDirectoryView: rewrite SortSubMenu using GLib.Menu (#2756)</code>](https://github.com/elementary/files/commit/6c5e6572853be5f41464fddb7a2fec0e2009ce46)
 - [ ] [<code>AbstractDirectoryView: rewrite NewSubMenuItem using GLib.Menu (#2757)</code>](https://github.com/elementary/files/commit/1d6672a08d606a32b5c55c602cdec0dbabc575a2)
 - [ ] [<code>AbstractDirectoryView: Set should_thumbnail when done loading (#2758)</code>](https://github.com/elementary/files/commit/f21d6667c65499d374b435d231fbc18a98bd3178)
+- [ ] [<code>Update metainfo for v7.3.0 (#2763)</code>](https://github.com/elementary/files/commit/2d170fb1b41e14a7554c6ba724fdc9e2f29eb2d1)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -426,6 +427,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Cleanup: explicit private modifier and remove dead code (#995)</code>](https://github.com/elementary/terminal/commit/5bfe3a7313a7c729ad4fc454f5cef95b1946dd34)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Reduce the scope of gnome interface settings object (#986)</code>](https://github.com/elementary/terminal/commit/d1cc9e5887bb1fd51849c736a7cc489e88e870f7)
+  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -621,6 +624,7 @@
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
+- [ ] [<code>Don't rely on gala gsettings key (#861)</code>](https://github.com/elementary/greeter/commit/2dd730c714a5c83b65b2ce70ac659929d32537c5)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
@@ -652,6 +656,7 @@
 
 - [ ] [<code>Zoom: update cursor position every frame (#2749)</code>](https://github.com/elementary/gala/commit/dcd2ff8500b88e9e7cacca0e2f84fb37b2675662)
 - [ ] [<code>SwipeTrigger: trigger only on scroll events on touchpad (#2771)</code>](https://github.com/elementary/gala/commit/c72233470cdccdcb44e2c1c0fc957be1a38d5a98)
+- [ ] [<code>BackgroundBlurEffect: remove unused actor pipeline (#2774)</code>](https://github.com/elementary/gala/commit/83556fb0f259da5076e4fb284d8d5b5c67d8b81b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -662,6 +667,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel/commit/5b0ea5fcbf00537acbd613f7312059207049a3d1)
+- [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel/commit/da5079fa99ce95ea0d3f797b092b5903a7e36b60)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -697,6 +703,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/04f1bca8a6570b47fff1f8ff4e6f933a9266b7b9)
+- [ ] [<code>Bump wingpanel from 8 to 9 (#235)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/cccfecd0ebc24b1d1ed4e9f8ee2aa85765de5910)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -716,6 +725,9 @@
 - [ ] [<code>Actions: Use main branch (#322)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/9dba908ad0f6b5b256ffe3bdf93067fdf62af43d)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/7981f3a2750cf9e4e1fec7433d9c51b9ab793451)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/edc6670c03d87236859c2ac824b93f6a9d94ed84)
+- [ ] [<code>Bump Wingpanel from 8 to 9 (#326)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/182a225c1bc632bd4c85e82471dd61879f58cfc1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -745,6 +757,9 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f7460b0598d060ce201e1a22e8f69f84d91b2d7a)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/ec8eb6a5c48966f93fbe7d87d34fc9b1c91ab44b)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/357aa0809f6c4ef5329288bf35a997cfed7aced0)
+- [ ] [<code>Bump wingpanel dep to 9 (#154)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f0403d0e9d278f873d704af3ce4d608044d4cca2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
@@ -769,6 +784,10 @@
 - [ ] [<code>Actions: Use main branch (#112)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/2b4812b48587489b516e8c9a65edb886b9cd1c19)
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/21216a177416a6b1ea34d2795b0b21b3aeb6aa1a)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/45a1bde05b5b1e6d576ac422321955a2dc05f5d8)
+- [ ] [<code>Change release branch from 'horus' to 'resolute'</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/f44a669ba1749cae683eb9a87b0ebb068a306475)
+- [ ] [<code>Bump wingpanel dep to 9 (#115)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/14cdc6941c62a40a4833212eb91a45268601b409)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -821,6 +840,9 @@
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
+- [ ] [<code>Port to GTK4 (#106)</code>](https://github.com/elementary/quick-settings/commit/ddb7019a38f6265791f3286ed95631f8794dd44a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.0 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.0...HEAD)
@@ -859,6 +881,7 @@
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
+- [ ] [<code>Implement reduced motion setting (#211)</code>](https://github.com/elementary/settings-daemon/commit/147c91c67fc89ff2ebf6223c9e5906d5b0ae92e1)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
