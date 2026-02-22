@@ -260,6 +260,22 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.5 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.5...HEAD)
 
+- [ ] [<code>Changing app ID from com.github.... to io.github...</code>](https://github.com/phase1geo/minder/commit/f321b3f5454a08c2f412983981c663c56f1745e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Adding Flatpak note to README.md.</code>](https://github.com/phase1geo/minder/commit/9fa7e80d812334e90c1ca6e6ef682f494b7b24b3)
+- [ ] [<code>Merge branch 'app-id-change'</code>](https://github.com/phase1geo/minder/commit/6a4be0c2791b7ec853958dde9642b16e223c3018)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing CI action.</code>](https://github.com/phase1geo/minder/commit/7631406eb509cd9964e9b7633ee323a10306961d)
+- [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/140b2e01ee154500659dd4c4e336160e34ee9a9f)
+- [ ] [<code>Updating translations and release notes for 2.0.6</code>](https://github.com/phase1geo/minder/commit/92672e2f7d859efcea6643073980af5569ffbd53)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fixing appdata syntax errors.</code>](https://github.com/phase1geo/minder/commit/675d6aef10374041105d4553e1d00056cb318b1c)
+- [ ] [<code>Revert "Fixing appdata syntax errors."</code>](https://github.com/phase1geo/minder/commit/e2940d4a072338651ff83f77316e71c2ba1dce8a)
+- [ ] [<code>Undoing original 2.0.6 changes.</code>](https://github.com/phase1geo/minder/commit/408d224d1cabce39fcd1bb92d86072d49ae28114)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fixing issue with resetting shortcuts to Minder defaults</code>](https://github.com/phase1geo/minder/commit/3ace41a818737ce1eeffb6e61b7620880e85b0b5)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
