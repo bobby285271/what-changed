@@ -834,6 +834,9 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#294)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/231e2170c5905ee15835681de5762ab7b1ca93a6)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d51b94459f4bef5f6cd94514766419cc3cbc9a00)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#295)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/0bcad2fae8953a3ba1cbd419437b29f03d5a8bf8)
+- [ ] [<code>Bump wingpanel dep to 9 (#297)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/65e97001da8b7e1bce42c66868c3ebb8594b564d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
