@@ -89,12 +89,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamonEntry: Modernize and clean up (#13571)</code>](https://github.com/linuxmint/cinnamon/commit/369ee7e61adb9acc17e771e1b9fc60989dcad0d8)
 - [ ] [<code>locatePointer: Fix and object name and cleanup (#13585)</code>](https://github.com/linuxmint/cinnamon/commit/c4e61cf465052d24b76559b11ca7d52d0cb3717b)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>Port Lightbox and Flashspot to GObject (#13586)</code>](https://github.com/linuxmint/cinnamon/commit/05168ca1d7c9f8ec0e9a1699d8b4625812df7d8c)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>lookingGlass.js: Port the inspector to GObject (#13589)</code>](https://github.com/linuxmint/cinnamon/commit/bcc64cf5b035a5968d24b64cd244053d7604f8d6)
 - [ ] [<code>layout.js: Port all objects to classes (#13590)</code>](https://github.com/linuxmint/cinnamon/commit/88c740fde6d90cad994867d0a741b12c1d4e66e7)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>github: Add pattern-check workflow.</code>](https://github.com/linuxmint/cinnamon/commit/92117183663fe4b7fabecf112605c84249cdb335)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
