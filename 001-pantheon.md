@@ -857,6 +857,8 @@
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.0 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.0...HEAD)
 
 - [ ] [<code>ListItem: set context menu cursor with menu model (#954)</code>](https://github.com/elementary/granite/commit/7cddfeb8a1460a02bfab34eb1641ccc3563018a2)
+- [ ] [<code>Styles: optionally build install gtk styles (#953)</code>](https://github.com/elementary/granite/commit/75fe3ad3c31aa7ab7233a64ed88749f5d9b77da8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
