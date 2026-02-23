@@ -9,6 +9,9 @@
 - [ ] [<code>Remove unused AsyncMutex and SuspendControl (#2409)</code>](https://github.com/elementary/appcenter/commit/ad62283cdc65584e9015b50a8665ee8dde9c5174)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>HumbleButton: Remove unused allow free (#2408)</code>](https://github.com/elementary/appcenter/commit/879e8296b33c1d2ddbd5c3282b3fef8145275c8d)
+- [ ] [<code>Package/get_icon: Downgrade warnings about unknown and remote to debug</code>](https://github.com/elementary/appcenter/commit/a0fad5dc82c37d002e42bb38643846ee2ca0c292)
+- [ ] [<code>AppIcon: Compare remote name not title</code>](https://github.com/elementary/appcenter/commit/2d4a4828c000d50295dfded519d16cfcd652ef53)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -87,6 +90,7 @@
 - [ ] [<code>Application.css: no space after alpha (#929)</code>](https://github.com/elementary/calendar/commit/c1f73d40c09c878d288d905839f1abeb5733937a)
 - [ ] [<code>EventDialog: remove unused can_edit (#927)</code>](https://github.com/elementary/calendar/commit/b3fa36f58a2b929e443f6b8b509631072bb93915)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>InfoPanel: TextView uses properties (#925)</code>](https://github.com/elementary/calendar/commit/7a49b9233133592caca9e13c44befa52fef7ae72)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -657,6 +661,8 @@
 - [ ] [<code>Zoom: update cursor position every frame (#2749)</code>](https://github.com/elementary/gala/commit/dcd2ff8500b88e9e7cacca0e2f84fb37b2675662)
 - [ ] [<code>SwipeTrigger: trigger only on scroll events on touchpad (#2771)</code>](https://github.com/elementary/gala/commit/c72233470cdccdcb44e2c1c0fc957be1a38d5a98)
 - [ ] [<code>BackgroundBlurEffect: remove unused actor pipeline (#2774)</code>](https://github.com/elementary/gala/commit/83556fb0f259da5076e4fb284d8d5b5c67d8b81b)
+- [ ] [<code>Introduce AbstractSwitcher (#2772)</code>](https://github.com/elementary/gala/commit/6067a4fbecc93487bb831d168e172359054abe8a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -850,6 +856,7 @@
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.0 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.0...HEAD)
 
+- [ ] [<code>ListItem: set context menu cursor with menu model (#954)</code>](https://github.com/elementary/granite/commit/7cddfeb8a1460a02bfab34eb1641ccc3563018a2)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
