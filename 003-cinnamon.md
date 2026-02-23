@@ -94,6 +94,7 @@
 - [ ] [<code>lookingGlass.js: Port the inspector to GObject (#13589)</code>](https://github.com/linuxmint/cinnamon/commit/bcc64cf5b035a5968d24b64cd244053d7604f8d6)
 - [ ] [<code>layout.js: Port all objects to classes (#13590)</code>](https://github.com/linuxmint/cinnamon/commit/88c740fde6d90cad994867d0a741b12c1d4e66e7)
 - [ ] [<code>github: Add pattern-check workflow.</code>](https://github.com/linuxmint/cinnamon/commit/92117183663fe4b7fabecf112605c84249cdb335)
+- [ ] [<code>polkit: Show the reveal icon to reveal the password</code>](https://github.com/linuxmint/cinnamon/commit/7f1863a4a34c6c1c850a7d14ebcfab607c3ad270)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -206,6 +207,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add stale.yml github workflow.</code>](https://github.com/linuxmint/nemo/commit/15d1d70a26cce5ef02c07a4c76b3b039a21b2c86)
 - [ ] [<code>Try fixing permissions.</code>](https://github.com/linuxmint/nemo/commit/872d62eb813968e6ffc88da04b1d3397262bb1eb)
+- [ ] [<code>packaging: Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/nemo/commit/02699027ff1d89457a6a9dd1ee5d95a1eb2ee044)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
