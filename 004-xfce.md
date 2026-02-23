@@ -203,6 +203,8 @@
 - [ ] [<code>item-list-ext: before/after-set-activity -> activity-changed</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ce9ec1a21ed43c33d5d445d3e2899029204b1de5)
 - [ ] [<code>item-list-ext: gtkdoc</code>](https://github.com/xfce-mirror/libxfce4ui/commit/4a174b93bc164457caaf433fd359822b0a51ce4c)
 - [ ] [<code>item-list-ext: hide-in-buttons attribute</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b61b8f044877075b57eaf630b121c044661c8f41)
+- [ ] [<code>build: Be sure to generate sub-headers before including libxfce4ui.h</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e12b2cc1b2d7c6d34b3dd01502adc36696ae699d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -905,6 +907,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e68388958b060e242a65c6704f2d9155af08a11d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add merge request template</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/30c006df4a3fa18271a19742de53cd575797369e)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -1138,6 +1141,8 @@
 - [ ] [<code>build: Be sure to generate sub-headers before including libxfce4panel.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c259dfbbb8e139b43af179acec9824ecf849d34d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Install missing libxfce4panel.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/151fec5f91fcb3dc5d55aee82a6d717dad77e877)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
