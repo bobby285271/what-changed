@@ -276,6 +276,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Fixing issue with resetting shortcuts to Minder defaults</code>](https://github.com/phase1geo/minder/commit/3ace41a818737ce1eeffb6e61b7620880e85b0b5)
+- [ ] [<code>Checkpointing work on RTL layout fixes in CanvasText.</code>](https://github.com/phase1geo/minder/commit/232b1c42922e383101c090dde6301904d8572748)
+- [ ] [<code>Merge branch 'rtl-fix'</code>](https://github.com/phase1geo/minder/commit/4b6b2914d6c3d396b1f8d31779d7d210bc8c1f12)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
@@ -304,6 +306,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Translations update from Hosted Weblate (#2267)</code>](https://github.com/alainm23/planify/commit/0682c1a83d22448637dc9637e70324a3f8bb598d)
 - [ ] [<code>Translations update from Hosted Weblate (#2248)</code>](https://github.com/alainm23/planify/commit/6565224343673c52b4563171c737d1716e472b9b)
+- [ ] [<code>Translations update from Hosted Weblate (#2282)</code>](https://github.com/alainm23/planify/commit/34c391806d2d34f8dec6bc1fc3f871bef250f594)
+- [ ] [<code>Translations update from Hosted Weblate (#2283)</code>](https://github.com/alainm23/planify/commit/6d5707a2cd84dd6b747c46963b5e8e26aa52b0ba)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
