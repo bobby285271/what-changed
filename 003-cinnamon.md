@@ -189,7 +189,7 @@
 - [ ] [<code>Fix top position calculating when applying edge resistance. (#798)</code>](https://github.com/linuxmint/muffin/commit/b22558c755263ab916a08547e0de65e34ed3130a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
 - [ ] [<code>nemo-main-application.c: Clear a window's saved secondary pane</code>](https://github.com/linuxmint/nemo/commit/deef9d124fa89ad616b18f8d0206f87e45c1ecd5)
 - [ ] [<code>nemo-action-manager.c: Fix layout file monitor and action refresh. (#3675)</code>](https://github.com/linuxmint/nemo/commit/6001bad01ac9daf041f7d7948f4e4d8e9b8983fa)
