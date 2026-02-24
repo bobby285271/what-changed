@@ -95,6 +95,7 @@
 - [ ] [<code>layout.js: Port all objects to classes (#13590)</code>](https://github.com/linuxmint/cinnamon/commit/88c740fde6d90cad994867d0a741b12c1d4e66e7)
 - [ ] [<code>github: Add pattern-check workflow.</code>](https://github.com/linuxmint/cinnamon/commit/92117183663fe4b7fabecf112605c84249cdb335)
 - [ ] [<code>polkit: Show the reveal icon to reveal the password</code>](https://github.com/linuxmint/cinnamon/commit/7f1863a4a34c6c1c850a7d14ebcfab607c3ad270)
+- [ ] [<code>keyboardManager.js: Ensure the drawing area fills its parent size</code>](https://github.com/linuxmint/cinnamon/commit/dd875efdb1114c7477554faa2bf7d0cb20574008)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
