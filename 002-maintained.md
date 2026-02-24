@@ -375,3 +375,6 @@
 
 #### [vala-lint](https://github.com/vala-lang/vala-lint): [a1d1a7bc0f740920e592fd788a836c402fd9825c → HEAD](https://github.com/vala-lang/vala-lint/compare/a1d1a7bc0f740920e592fd788a836c402fd9825c...HEAD)
 
+- [ ] [<code>Add new introspectable Vlint library (#158)</code>](https://github.com/vala-lang/vala-lint/commit/28dbf44dd2c5ec2fc7273982d35ff8cb0ef46283)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
