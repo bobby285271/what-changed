@@ -91,6 +91,7 @@
 - [ ] [<code>EventDialog: remove unused can_edit (#927)</code>](https://github.com/elementary/calendar/commit/b3fa36f58a2b929e443f6b8b509631072bb93915)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>InfoPanel: TextView uses properties (#925)</code>](https://github.com/elementary/calendar/commit/7a49b9233133592caca9e13c44befa52fef7ae72)
+- [ ] [<code>GuestsPanel: GObject style, cleanup (#926)</code>](https://github.com/elementary/calendar/commit/9df346cf601259bf07366d0b2e762c513e673b0d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -573,6 +574,7 @@
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-security-privacy/commit/109d4599a6cc6917d9f49a8a4e8b6e6ee5c845ac)
 - [ ] [<code>GResource icons (#195)</code>](https://github.com/elementary/settings-security-privacy/commit/9fd8f273a46c51ca6bdc16df1989469b459ed841)
+- [ ] [<code>Remove polkit-1 from deps (#197)</code>](https://github.com/elementary/settings-security-privacy/commit/388db07de13ab3a5e094a656f52bdde49ad3d282)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/settings-sharing): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sharing/compare/refs/tags/8.0.3...HEAD)
 
@@ -611,10 +613,15 @@
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
+- [ ] [<code>Drop extra fonts (#23)</code>](https://github.com/elementary/fonts/commit/91e289e25d0be4149a9fbc9a2b5f36daa88c2903)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Bump debian compat to 13 (#22)</code>](https://github.com/elementary/fonts/commit/122204e417a9f5b8d5df10c1eb8e9f986c49662f)
+- [ ] [<code>Add README with font details and licensing</code>](https://github.com/elementary/fonts/commit/6c315fb1b4b42ec2023dbbb9855d10231ba1f93f)
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
 - [ ] [<code>Add phone incoming and hangup (#19)</code>](https://github.com/elementary/sound-theme/commit/262896f8fa8f469ed234618d3e4addcc58b3511f)
+- [ ] [<code>Add CI workflow for pull requests (#20)</code>](https://github.com/elementary/sound-theme/commit/6f65dae87847f4a80f3d1e750eea0be385315759)
 
 #### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [8.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/8.0.0...HEAD)
 
@@ -643,6 +650,9 @@
 #### [pantheon.elementary-session-settings](https://github.com/elementary/session-settings): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/session-settings/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>chore(deps): bump actions/checkout from 5 to 6 (#96)</code>](https://github.com/elementary/session-settings/commit/0088a23736cd57c3a4bf433cba4ac2ab9fbc9103)
+- [ ] [<code>Remove onboard (#83)</code>](https://github.com/elementary/session-settings/commit/cfbcda4a045e56e0cb09ab05978598d2e9761372)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -663,6 +673,7 @@
 - [ ] [<code>BackgroundBlurEffect: remove unused actor pipeline (#2774)</code>](https://github.com/elementary/gala/commit/83556fb0f259da5076e4fb284d8d5b5c67d8b81b)
 - [ ] [<code>Introduce AbstractSwitcher (#2772)</code>](https://github.com/elementary/gala/commit/6067a4fbecc93487bb831d168e172359054abe8a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowMover: Fix fullscreening a firefox video (#2783)</code>](https://github.com/elementary/gala/commit/02c5a3616fe6db6dbae16e279827aa4aee48d74c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
