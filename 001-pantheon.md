@@ -12,6 +12,8 @@
 - [ ] [<code>Package/get_icon: Downgrade warnings about unknown and remote to debug</code>](https://github.com/elementary/appcenter/commit/a0fad5dc82c37d002e42bb38643846ee2ca0c292)
 - [ ] [<code>AppIcon: Compare remote name not title</code>](https://github.com/elementary/appcenter/commit/2d4a4828c000d50295dfded519d16cfcd652ef53)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/appcenter/commit/2976b4c56272767d4e10f70f7b2b2f2dc13c5bc5)
+- [ ] [<code>Fix empty toast on unknown operation (update) (#2415)</code>](https://github.com/elementary/appcenter/commit/726ab3de824bacecb8b09fbffc24202991571417)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -178,6 +180,7 @@
 - [ ] [<code>AbstractDirectoryView: rewrite NewSubMenuItem using GLib.Menu (#2757)</code>](https://github.com/elementary/files/commit/1d6672a08d606a32b5c55c602cdec0dbabc575a2)
 - [ ] [<code>AbstractDirectoryView: Set should_thumbnail when done loading (#2758)</code>](https://github.com/elementary/files/commit/f21d6667c65499d374b435d231fbc18a98bd3178)
 - [ ] [<code>Update metainfo for v7.3.0 (#2763)</code>](https://github.com/elementary/files/commit/2d170fb1b41e14a7554c6ba724fdc9e2f29eb2d1)
+- [ ] [<code>CI: policykit-1 → libpolkit-gobject-1-dev (#2753)</code>](https://github.com/elementary/files/commit/71754b67cb523849c9e3e300042461050a535490)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -674,6 +677,7 @@
 - [ ] [<code>Introduce AbstractSwitcher (#2772)</code>](https://github.com/elementary/gala/commit/6067a4fbecc93487bb831d168e172359054abe8a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowMover: Fix fullscreening a firefox video (#2783)</code>](https://github.com/elementary/gala/commit/02c5a3616fe6db6dbae16e279827aa4aee48d74c)
+- [ ] [<code>Update install instructions (#2785)</code>](https://github.com/elementary/gala/commit/a61239657efa67e791ce583cd6349ba27822590b)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -905,6 +909,7 @@
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
 - [ ] [<code>Implement reduced motion setting (#211)</code>](https://github.com/elementary/settings-daemon/commit/147c91c67fc89ff2ebf6223c9e5906d5b0ae92e1)
+- [ ] [<code>CI: use new libgdk-pixbuf (#226)</code>](https://github.com/elementary/settings-daemon/commit/145b09b6ff5a1c521453bd862626573586fbfdf9)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -979,3 +984,4 @@
 - [ ] [<code>Bump for Resolute</code>](https://github.com/elementary/seeds/commit/3b63ad3cf6a8d721997e9a1402a02fc9fb830ce1)
 - [ ] [<code>desktop: Update panel package names (#147)</code>](https://github.com/elementary/seeds/commit/463e85c0a7bdd279d45ad5ce9d2c54c1cf00b13a)
 - [ ] [<code>SDK: add wingpanel-9, remove unity (#150)</code>](https://github.com/elementary/seeds/commit/157dd83e0adfa1ccabc4b9d9e7356dd6199af86d)
+- [ ] [<code>Pantheon: remove io.elementary.print (#151)</code>](https://github.com/elementary/seeds/commit/b0c8818c88e6b5bcda260940863880e1764db90e)
