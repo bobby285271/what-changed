@@ -96,6 +96,15 @@
 - [ ] [<code>github: Add pattern-check workflow.</code>](https://github.com/linuxmint/cinnamon/commit/92117183663fe4b7fabecf112605c84249cdb335)
 - [ ] [<code>polkit: Show the reveal icon to reveal the password</code>](https://github.com/linuxmint/cinnamon/commit/7f1863a4a34c6c1c850a7d14ebcfab607c3ad270)
 - [ ] [<code>keyboardManager.js: Ensure the drawing area fills its parent size</code>](https://github.com/linuxmint/cinnamon/commit/dd875efdb1114c7477554faa2bf7d0cb20574008)
+- [ ] [<code>Add native screensaver (#13432)</code>](https://github.com/linuxmint/cinnamon/commit/3eca43873c9b1b17bfd9b7f3b0fb5c9d977c03b2)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>unlockDialog, authClient: remove unnecessary import.</code>](https://github.com/linuxmint/cinnamon/commit/833fa39a6fc31241ecd2fba15e43ab8635290e29)
+- [ ] [<code>cinnamon-screen.c: Update warnings.</code>](https://github.com/linuxmint/cinnamon/commit/3903d4967424d27e620b79c8a75b4975948f64ab)
+- [ ] [<code>main.js: Only allow the internal screensaver for wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/0bb7308efe24c8da1c9e64af59636914222df5b9)
+- [ ] [<code>extensions: Simplify code used for loading xlets, improve startup (#13479)</code>](https://github.com/linuxmint/cinnamon/commit/406c075a8d2d6cb236f8fc91e00694c5fcf44a77)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>popupMenu.js: Fix copy/paste error from 731d2f70fa.</code>](https://github.com/linuxmint/cinnamon/commit/73f873d725a6e3f61b53184cb538658f903aab74)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -110,6 +119,8 @@
 - [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e6971b7ef01791f73e2df69c5bd1f9522cc17064)
 - [ ] [<code>input-sources settings: Add a new setting to store the default xkb (#263)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/26cf76088ada8b94be5118bce9586daf2d7f69eb)
+- [ ] [<code>libcvc: refresh from upstream libgnome-volume-control.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2d4f3560ae4abf15ecefafc2d8c8178a92a54dea)
+- [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -124,7 +135,10 @@
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e028b07cddf71ec65db382016dc890ab39032fe1)
+- [ ] [<code>Remove cinnamon-screensaver-command and cinnamon-unlock-desktop. (#491)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/81cf709669f7358736e20509301d301ea208b991)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
 
@@ -134,8 +148,9 @@
 - [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>power: Remove GpmIdleTime, use libcinnamon-desktop IdleMonitor. (#436)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bb4287dfa14b0b993c11c021566a2f186486911b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-power-manager.c: Don't turn monitors off before suspend/hibernate. (#442)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3298eaeab29d81b408ab5d8b9af2c2fb4345bd92)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -187,6 +202,9 @@
 - [ ] [<code>meta-wayland-pointer.c: Get correct device coordinates from the</code>](https://github.com/linuxmint/muffin/commit/f378f68d76704fed92bdee226483f7f0de33e87d)
 - [ ] [<code>keybindings: Add meta_display_add_custom_keybinding_full().</code>](https://github.com/linuxmint/muffin/commit/baf3c23992b8c08a4f0a3982b88a449ce692e1f1)
 - [ ] [<code>Fix top position calculating when applying edge resistance. (#798)</code>](https://github.com/linuxmint/muffin/commit/b22558c755263ab916a08547e0de65e34ed3130a)
+- [ ] [<code>compositor: Add meta_get_stage_xwindow().</code>](https://github.com/linuxmint/muffin/commit/5af60b31b287b75982e83ff1ed67c0acfb281a76)
+- [ ] [<code>meta-stage: Remove backend assertions from overlay paint/update paths</code>](https://github.com/linuxmint/muffin/commit/82cba781298ef94f2e245394dd892058f075e734)
+- [ ] [<code>cursor-sprite-xcursor: Use standard cursor names</code>](https://github.com/linuxmint/muffin/commit/0ef3a81a549f04955cccb340377a1a3201c4750b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -228,6 +246,7 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/warpinator/commit/18272f7bd40f4fff340fa5bd90cf74465e2cf3d1)
+- [ ] [<code>Update generated protobuf files to match our bundled versions.</code>](https://github.com/linuxmint/warpinator/commit/ba7dacfd8873b20192b8f865ea0589826ebd632e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
