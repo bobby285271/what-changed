@@ -908,6 +908,9 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/e68388958b060e242a65c6704f2d9155af08a11d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add merge request template</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/30c006df4a3fa18271a19742de53cd575797369e)
+- [ ] [<code>Update merge request template</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/59e6c39bff2716da78c8ce8424727cd6abaa4ab3)
+- [ ] [<code>Add Name field and column to Custom Actions tab</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/4e2709aee730a17f2b546adcd5bb7a3d81a0a373)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
