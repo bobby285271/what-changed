@@ -328,3 +328,5 @@
 - [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
 - [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
+  - <sub>Keywords: <code>usr</code></sub>
