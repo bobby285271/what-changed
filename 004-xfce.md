@@ -781,6 +781,7 @@
 - [ ] [<code>Fix GError leak in thunar_g_file_get_content_type</code>](https://github.com/xfce-mirror/thunar/commit/9ea1dae80fb725341849881cdef84e1ad0ee3f83)
 - [ ] [<code>Fix two g_file_get_uri leaks with g_warning messages</code>](https://github.com/xfce-mirror/thunar/commit/fa401a98d944e011fda827bb8462fc69cb928ff3)
 - [ ] [<code>Init media_fs_uuids on startup</code>](https://github.com/xfce-mirror/thunar/commit/395831183b8390a4043412b27e74d07b5821f2a4)
+- [ ] [<code>Expose drag-drop-mode in preferences</code>](https://github.com/xfce-mirror/thunar/commit/cff7db0b0a1a1e215939620d60a48f53624c3428)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
