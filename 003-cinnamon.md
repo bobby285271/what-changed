@@ -105,7 +105,10 @@
 - [ ] [<code>extensions: Simplify code used for loading xlets, improve startup (#13479)</code>](https://github.com/linuxmint/cinnamon/commit/406c075a8d2d6cb236f8fc91e00694c5fcf44a77)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>popupMenu.js: Fix copy/paste error from 731d2f70fa.</code>](https://github.com/linuxmint/cinnamon/commit/73f873d725a6e3f61b53184cb538658f903aab74)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>cs_backgrounds.py: Fix imtools import.</code>](https://github.com/linuxmint/cinnamon/commit/6e0003642f6a4358899379967658f806edc88478)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
