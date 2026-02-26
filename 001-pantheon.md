@@ -14,6 +14,18 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/appcenter/commit/2976b4c56272767d4e10f70f7b2b2f2dc13c5bc5)
 - [ ] [<code>Fix empty toast on unknown operation (update) (#2415)</code>](https://github.com/elementary/appcenter/commit/726ab3de824bacecb8b09fbffc24202991571417)
+- [ ] [<code>Don't check whether installed view is null because it always is (#2418)</code>](https://github.com/elementary/appcenter/commit/6288970345d9f57b96126bb24140ccd908982d83)
+- [ ] [<code>Screenshot: Guard against null color (#2417)</code>](https://github.com/elementary/appcenter/commit/e1a7f2d6116b6ae3d241f1db72ffe534e2ebdc2b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>BackButton: Guard against null previous page</code>](https://github.com/elementary/appcenter/commit/357cf0154005d5d1638cdb93a9483679b9e1c676)
+- [ ] [<code>Add comment about gtk critical that is always thrown</code>](https://github.com/elementary/appcenter/commit/1e8d273741bc874d79838e79364ce36416840b38)
+- [ ] [<code>AppListUpdateView: Clamp to 800 (#2407)</code>](https://github.com/elementary/appcenter/commit/7aca39e5ac0158e2d016743ae4fb20d631ade01c)
+- [ ] [<code>AppListUpdateView: set last checked as installed secondary text (#2420)</code>](https://github.com/elementary/appcenter/commit/5b82e0acdc188ecef388cb894239fcc4d962a4d3)
+- [ ] [<code>Homepage: Drop Appcenter banner</code>](https://github.com/elementary/appcenter/commit/bcad0732438b0a79f8629ad8444c39d4d1ae8523)
+- [ ] [<code>ChangeInfo: Update properties on the main thread, use property bindings (#2405)</code>](https://github.com/elementary/appcenter/commit/87ae37b9f2cd3373f2d5d01e0e3f0f77e17e3461)
+- [ ] [<code>Prepare speed up (#2419)</code>](https://github.com/elementary/appcenter/commit/a33face95f6fb3674cd8c9ff8e53830d00b59edf)
+- [ ] [<code>Banner: use Granite.HeaderLabel (#2423)</code>](https://github.com/elementary/appcenter/commit/4b993e284666e9e056d3a219161d061357204ed0)
+- [ ] [<code>Banner: simplify construction (#2422)</code>](https://github.com/elementary/appcenter/commit/04c3978c0466128c68de060296447af7675d4fb8)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -119,6 +131,7 @@
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
+- [ ] [<code>BackgroundItem: Launch app on list activate (#577)</code>](https://github.com/elementary/dock/commit/bdc5230ff1af65ff1d892c2a3311e44b4fe9ebe1)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -561,6 +574,7 @@
 - [ ] [<code>Wallpaper: DRY add_wallpaper_from_file (#474)</code>](https://github.com/elementary/settings-desktop/commit/c9888015dcc05c89eb76eceada334993e0096389)
 - [ ] [<code>WallpaperContainer: set uri, all the context menu controllers (#478)</code>](https://github.com/elementary/settings-desktop/commit/7e9b3985197e2ba2279e995a8acc3dd935de18e8)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Text: all font selection (#483)</code>](https://github.com/elementary/settings-desktop/commit/c643e85b15ec81d1386044af1644c60ceea7a922)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -874,6 +888,7 @@
 - [ ] [<code>ListItem: set context menu cursor with menu model (#954)</code>](https://github.com/elementary/granite/commit/7cddfeb8a1460a02bfab34eb1641ccc3563018a2)
 - [ ] [<code>Styles: optionally build install gtk styles (#953)</code>](https://github.com/elementary/granite/commit/75fe3ad3c31aa7ab7233a64ed88749f5d9b77da8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 7.8.1 release notes (#959)</code>](https://github.com/elementary/granite/commit/72ce5cca664c7ad79fbac515d3ead391883da1d0)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
