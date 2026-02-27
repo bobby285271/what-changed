@@ -26,6 +26,8 @@
 - [ ] [<code>Prepare speed up (#2419)</code>](https://github.com/elementary/appcenter/commit/a33face95f6fb3674cd8c9ff8e53830d00b59edf)
 - [ ] [<code>Banner: use Granite.HeaderLabel (#2423)</code>](https://github.com/elementary/appcenter/commit/4b993e284666e9e056d3a219161d061357204ed0)
 - [ ] [<code>Banner: simplify construction (#2422)</code>](https://github.com/elementary/appcenter/commit/04c3978c0466128c68de060296447af7675d4fb8)
+- [ ] [<code>Use HeaderLabel size property (#2425)</code>](https://github.com/elementary/appcenter/commit/cd5baaf27469e7d2e6b9a94bdb923242c1f1e4fd)
+- [ ] [<code>AppListUpdateView: Add a queue of working packages (#2424)</code>](https://github.com/elementary/appcenter/commit/04df4ab572d29eaee1a763ce717dc1160e682e73)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -889,6 +891,7 @@
 - [ ] [<code>Styles: optionally build install gtk styles (#953)</code>](https://github.com/elementary/granite/commit/75fe3ad3c31aa7ab7233a64ed88749f5d9b77da8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 7.8.1 release notes (#959)</code>](https://github.com/elementary/granite/commit/72ce5cca664c7ad79fbac515d3ead391883da1d0)
+- [ ] [<code>Metainfo: add issues/961 (#964)</code>](https://github.com/elementary/granite/commit/eac688b742c61134c2b020320a5b80a40975ff4d)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
