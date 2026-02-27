@@ -333,3 +333,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update temperature icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/96b0387201c42f1419068fd0a568ddc71b791ec2)
+- [ ] [<code>Add xsi-power-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/464033acdfd7c71a593a4ecd18a31b90b3df0bb6)
+- [ ] [<code>Add xsi-gauge-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a4085edf074104366e736550c7427c53444abfa9)
+- [ ] [<code>Add xsi-fan-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e7db28b7f833bf193762a151a434649e2b02d2ae)
+- [ ] [<code>Add gauge2 and electric /pyshics icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e5b81d4e0d2656f8a4a5d25c9677a59f27f6c15c)
