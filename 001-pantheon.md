@@ -28,6 +28,7 @@
 - [ ] [<code>Banner: simplify construction (#2422)</code>](https://github.com/elementary/appcenter/commit/04c3978c0466128c68de060296447af7675d4fb8)
 - [ ] [<code>Use HeaderLabel size property (#2425)</code>](https://github.com/elementary/appcenter/commit/cd5baaf27469e7d2e6b9a94bdb923242c1f1e4fd)
 - [ ] [<code>AppListUpdateView: Add a queue of working packages (#2424)</code>](https://github.com/elementary/appcenter/commit/04df4ab572d29eaee1a763ce717dc1160e682e73)
+- [ ] [<code>AppListUpdateView: put size in updates header secondary text (#2426)</code>](https://github.com/elementary/appcenter/commit/a499dc100fb7fa1dd90d994a94eaac3f49b7acb2)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -694,6 +695,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowMover: Fix fullscreening a firefox video (#2783)</code>](https://github.com/elementary/gala/commit/02c5a3616fe6db6dbae16e279827aa4aee48d74c)
 - [ ] [<code>Update install instructions (#2785)</code>](https://github.com/elementary/gala/commit/a61239657efa67e791ce583cd6349ba27822590b)
+- [ ] [<code>WindowOverview: Fix flicker with reduce motion (#2781)</code>](https://github.com/elementary/gala/commit/8eada3ca80ebc6785cc513e3eb2def2d6ce8f017)
+- [ ] [<code>Introduce a TransitionBuilder</code>](https://github.com/elementary/gala/commit/b74197f20e71c5fce6c65ad05efd45c4fb1951da)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager/Map: Use ease actor utils</code>](https://github.com/elementary/gala/commit/32feda20d141b8c06f359a0296c128698906afd6)
+- [ ] [<code>WindowManager/Destroy: Use async ease utils</code>](https://github.com/elementary/gala/commit/6bab11b6c975c879b3b0552f2be20fd8a51ac6fb)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
