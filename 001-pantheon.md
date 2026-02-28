@@ -898,6 +898,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 7.8.1 release notes (#959)</code>](https://github.com/elementary/granite/commit/72ce5cca664c7ad79fbac515d3ead391883da1d0)
 - [ ] [<code>Metainfo: add issues/961 (#964)</code>](https://github.com/elementary/granite/commit/eac688b742c61134c2b020320a5b80a40975ff4d)
+- [ ] [<code>Icons: add points of interest (#963)</code>](https://github.com/elementary/granite/commit/9f6456b975df89cea7483e51a4366a73418d16c6)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
