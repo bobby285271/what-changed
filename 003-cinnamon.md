@@ -105,9 +105,14 @@
 - [ ] [<code>extensions: Simplify code used for loading xlets, improve startup (#13479)</code>](https://github.com/linuxmint/cinnamon/commit/406c075a8d2d6cb236f8fc91e00694c5fcf44a77)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>popupMenu.js: Fix copy/paste error from 731d2f70fa.</code>](https://github.com/linuxmint/cinnamon/commit/73f873d725a6e3f61b53184cb538658f903aab74)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>cs_backgrounds.py: Fix imtools import.</code>](https://github.com/linuxmint/cinnamon/commit/6e0003642f6a4358899379967658f806edc88478)
-  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>keybindings.js: Allow keybindings during POPUP action mode.</code>](https://github.com/linuxmint/cinnamon/commit/56dd2812976e4487d94ed209460557bc48ff7736)
+- [ ] [<code>keybindings: Clean up captured-event handler, use ActionModes for</code>](https://github.com/linuxmint/cinnamon/commit/1568ae0827b389f88475bef9a68374812d0f81ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>keybindings: Cleanup media-keys, allow better control over when</code>](https://github.com/linuxmint/cinnamon/commit/5f860864d899f2221557391f30672bcb2b304c43)
+- [ ] [<code>KeybindingTable.py: Don't show Spice instances unless they're</code>](https://github.com/linuxmint/cinnamon/commit/dcc091e53714513ff60f980dc47c6a410124d295)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
