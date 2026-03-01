@@ -1550,6 +1550,8 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/7d5c78f7586caa45aa24f2687c7db87e1315b4dd)
 - [ ] [<code>Fix g_dngettext string arguments (#450)</code>](https://github.com/xfce-mirror/xfdesktop/commit/c68f152986cf7f448ce60ecbaaaf95cb9c223170)
 - [ ] [<code>Fix GIcon leaks when using emblems on desktop icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/f579d6ac8465887fd0652309d76774f68fc785f5)
+- [ ] [<code>Fix a GtkTreeIter leak in background settings</code>](https://github.com/xfce-mirror/xfdesktop/commit/01ba5734f5fc767aa7d0a91bb12d064c7529545d)
+- [ ] [<code>Add %d to strings to fix some transl.(#450)</code>](https://github.com/xfce-mirror/xfdesktop/commit/d5fded4b472a7c8d53646051a36a2ae4c58ed413)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
