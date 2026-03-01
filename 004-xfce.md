@@ -782,6 +782,8 @@
 - [ ] [<code>Fix two g_file_get_uri leaks with g_warning messages</code>](https://github.com/xfce-mirror/thunar/commit/fa401a98d944e011fda827bb8462fc69cb928ff3)
 - [ ] [<code>Init media_fs_uuids on startup</code>](https://github.com/xfce-mirror/thunar/commit/395831183b8390a4043412b27e74d07b5821f2a4)
 - [ ] [<code>Expose drag-drop-mode in preferences</code>](https://github.com/xfce-mirror/thunar/commit/cff7db0b0a1a1e215939620d60a48f53624c3428)
+- [ ] [<code>Prevent Gtk-CRITICAL in tree-view side pane</code>](https://github.com/xfce-mirror/thunar/commit/7a5b041518f79b8caf784523283e8eb786f2c755)
+- [ ] [<code>Add 'grab_focus' parameter to 'set directory' calls (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/65241c016214aeb376b3fd5b96e35ed1636d2ec4)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1552,6 +1554,8 @@
 - [ ] [<code>Fix GIcon leaks when using emblems on desktop icons</code>](https://github.com/xfce-mirror/xfdesktop/commit/f579d6ac8465887fd0652309d76774f68fc785f5)
 - [ ] [<code>Fix a GtkTreeIter leak in background settings</code>](https://github.com/xfce-mirror/xfdesktop/commit/01ba5734f5fc767aa7d0a91bb12d064c7529545d)
 - [ ] [<code>Add %d to strings to fix some transl.(#450)</code>](https://github.com/xfce-mirror/xfdesktop/commit/d5fded4b472a7c8d53646051a36a2ae4c58ed413)
+- [ ] [<code>Call XfdesktopBackdropMedia's parent finalizer to prevent leaks</code>](https://github.com/xfce-mirror/xfdesktop/commit/b3733335d497f6d58b14f6e03303e5015f800f9a)
+- [ ] [<code>Fix two leaks when using the "Delete" context menu item</code>](https://github.com/xfce-mirror/xfdesktop/commit/bea25893b2f61b23113bf2f51b9e6764754ca8a1)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
