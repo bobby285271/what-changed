@@ -112,8 +112,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>keybindings: Cleanup media-keys, allow better control over when</code>](https://github.com/linuxmint/cinnamon/commit/5f860864d899f2221557391f30672bcb2b304c43)
 - [ ] [<code>KeybindingTable.py: Don't show Spice instances unless they're</code>](https://github.com/linuxmint/cinnamon/commit/dcc091e53714513ff60f980dc47c6a410124d295)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>extension.js: Fix loading of versioned xlets, xlet-settings with</code>](https://github.com/linuxmint/cinnamon/commit/9517f868b9a4acb6261a41b53400947006afcf6a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
