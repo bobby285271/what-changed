@@ -378,7 +378,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clang-format: Avoid breaking change</code>](https://github.com/JoseExposito/touchegg/commit/93f8a28e37b87568f439f6c4c616c907fbbf4a33)
 
-#### [vala-lint](https://github.com/vala-lang/vala-lint): [a1d1a7bc0f740920e592fd788a836c402fd9825c → HEAD](https://github.com/vala-lang/vala-lint/compare/a1d1a7bc0f740920e592fd788a836c402fd9825c...HEAD)
+#### [vala-lint](https://github.com/vala-lang/vala-lint): [0.1.0 → HEAD](https://github.com/vala-lang/vala-lint/compare/0.1.0...HEAD)
 
 - [ ] [<code>Add new introspectable Vlint library (#158)</code>](https://github.com/vala-lang/vala-lint/commit/28dbf44dd2c5ec2fc7273982d35ff8cb0ef46283)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
