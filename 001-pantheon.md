@@ -29,6 +29,8 @@
 - [ ] [<code>Use HeaderLabel size property (#2425)</code>](https://github.com/elementary/appcenter/commit/cd5baaf27469e7d2e6b9a94bdb923242c1f1e4fd)
 - [ ] [<code>AppListUpdateView: Add a queue of working packages (#2424)</code>](https://github.com/elementary/appcenter/commit/04df4ab572d29eaee1a763ce717dc1160e682e73)
 - [ ] [<code>AppListUpdateView: put size in updates header secondary text (#2426)</code>](https://github.com/elementary/appcenter/commit/a499dc100fb7fa1dd90d994a94eaac3f49b7acb2)
+- [ ] [<code>AppStream.Pool: Don't load OS catalog (#2428)</code>](https://github.com/elementary/appcenter/commit/d96ccded1fce06375551a77fbd7852f4a5d3e580)
+- [ ] [<code>ListModels: Use n items instead of custom properties (#2427)</code>](https://github.com/elementary/appcenter/commit/b619f3c0559446378847a6229d4b58251652b89b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -700,6 +702,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowManager/Map: Use ease actor utils</code>](https://github.com/elementary/gala/commit/32feda20d141b8c06f359a0296c128698906afd6)
 - [ ] [<code>WindowManager/Destroy: Use async ease utils</code>](https://github.com/elementary/gala/commit/6bab11b6c975c879b3b0552f2be20fd8a51ac6fb)
+- [ ] [<code>CI: Update dev target to libmutter-17-dev (#2777)</code>](https://github.com/elementary/gala/commit/0049874541965c1901f6982909d8e4c0b86faabc)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -935,6 +938,7 @@
 
 - [ ] [<code>Implement reduced motion setting (#211)</code>](https://github.com/elementary/settings-daemon/commit/147c91c67fc89ff2ebf6223c9e5906d5b0ae92e1)
 - [ ] [<code>CI: use new libgdk-pixbuf (#226)</code>](https://github.com/elementary/settings-daemon/commit/145b09b6ff5a1c521453bd862626573586fbfdf9)
+- [ ] [<code>CI: add systemd-dev (#228)</code>](https://github.com/elementary/settings-daemon/commit/40446077c17074150db5a82bdaf7236d254ae137)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
