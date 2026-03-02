@@ -114,8 +114,9 @@
 - [ ] [<code>KeybindingTable.py: Don't show Spice instances unless they're</code>](https://github.com/linuxmint/cinnamon/commit/dcc091e53714513ff60f980dc47c6a410124d295)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>extension.js: Fix loading of versioned xlets, xlet-settings with</code>](https://github.com/linuxmint/cinnamon/commit/9517f868b9a4acb6261a41b53400947006afcf6a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Add stale workflow.</code>](https://github.com/linuxmint/cinnamon/commit/cc6dc6a7b9f6f2ea1ca5e842a79074b17926eeeb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -215,7 +216,10 @@
 - [ ] [<code>compositor: Add meta_get_stage_xwindow().</code>](https://github.com/linuxmint/muffin/commit/5af60b31b287b75982e83ff1ed67c0acfb281a76)
 - [ ] [<code>meta-stage: Remove backend assertions from overlay paint/update paths</code>](https://github.com/linuxmint/muffin/commit/82cba781298ef94f2e245394dd892058f075e734)
 - [ ] [<code>cursor-sprite-xcursor: Use standard cursor names</code>](https://github.com/linuxmint/muffin/commit/0ef3a81a549f04955cccb340377a1a3201c4750b)
+- [ ] [<code>[Wayland] Direct scanout (#744)</code>](https://github.com/linuxmint/muffin/commit/120ade8445868c27cd24d4d2592044fc183f2571)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
