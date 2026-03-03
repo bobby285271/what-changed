@@ -111,6 +111,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>InfoPanel: TextView uses properties (#925)</code>](https://github.com/elementary/calendar/commit/7a49b9233133592caca9e13c44befa52fef7ae72)
 - [ ] [<code>GuestsPanel: GObject style, cleanup (#926)</code>](https://github.com/elementary/calendar/commit/9df346cf601259bf07366d0b2e762c513e673b0d)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.2.tar.xz to 3.59.3 (#934)</code>](https://github.com/elementary/calendar/commit/43e1759c44120447c2bd618de0c38a840782e49f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -199,6 +200,10 @@
 - [ ] [<code>AbstractDirectoryView: Set should_thumbnail when done loading (#2758)</code>](https://github.com/elementary/files/commit/f21d6667c65499d374b435d231fbc18a98bd3178)
 - [ ] [<code>Update metainfo for v7.3.0 (#2763)</code>](https://github.com/elementary/files/commit/2d170fb1b41e14a7554c6ba724fdc9e2f29eb2d1)
 - [ ] [<code>CI: policykit-1 → libpolkit-gobject-1-dev (#2753)</code>](https://github.com/elementary/files/commit/71754b67cb523849c9e3e300042461050a535490)
+- [ ] [<code>Systemd optional (#2768)</code>](https://github.com/elementary/files/commit/d0f6f8d3ac5c0bcd5bcadf8e123bbec2c6c7ccd5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CI: add systemd-dev (#2769)</code>](https://github.com/elementary/files/commit/64b13e7823a5b644a87e406b3a7c27ec81ec9765)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -309,6 +314,7 @@
 - [ ] [<code>libghoto2: Update libgphoto2-2.5.32.tar.xz to 2.5.33</code>](https://github.com/elementary/photos/commit/76a84c4d94a67ac278cad4e57d33b8a5c2338730)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/photos/commit/47b9499ccd238f4bb353a18b0998d659aeed8b6b)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/photos/commit/374823f7ec98825797e8a3fd2f9517d8fadbf1d2)
+- [ ] [<code>exiv2: Update v0.28.7.tar.gz to 0.28.8 (#837)</code>](https://github.com/elementary/photos/commit/5efa18d8d37092ae09f4e6cb8e165cedca4933ba)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -632,6 +638,7 @@
 - [ ] [<code>Add 16px camera-photo (#1411)</code>](https://github.com/elementary/icons/commit/caa2d51883277649ec8b1f3cb5da8c98681e9c76)
 - [ ] [<code>metainfo: Fix typo "16x" → "16px" (#1414)</code>](https://github.com/elementary/icons/commit/5b287e7a501c4c09fe06b3fa8c8bf652f6f9cc67)
 - [ ] [<code>Center app icons  >=48px (#1416)</code>](https://github.com/elementary/icons/commit/78babe7a69b8504272b2b23e59cb3772e1f42168)
+- [ ] [<code>Inkscape tool icons (#1368)</code>](https://github.com/elementary/icons/commit/9a4cfac05e85958b066afe42e4d1b6b8ff4378b2)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
