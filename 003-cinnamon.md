@@ -116,11 +116,16 @@
 - [ ] [<code>extension.js: Fix loading of versioned xlets, xlet-settings with</code>](https://github.com/linuxmint/cinnamon/commit/9517f868b9a4acb6261a41b53400947006afcf6a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>github: Add stale workflow.</code>](https://github.com/linuxmint/cinnamon/commit/cc6dc6a7b9f6f2ea1ca5e842a79074b17926eeeb)
+- [ ] [<code>screenShield.js: Disable backup-locker in wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/3e61da04353d6aedc6b068efb328b620695346d9)
+- [ ] [<code>screensaver: Reset internal state for new sessions, don't set the</code>](https://github.com/linuxmint/cinnamon/commit/e671fdf7fff0c18b1e16b5003cbc4737f93b9507)
+- [ ] [<code>backgrounds: Improve wayland session support. (#13614)</code>](https://github.com/linuxmint/cinnamon/commit/c8e02880228e5ecc4f4a860a6af8add186d24e44)
+- [ ] [<code>screenShield.js: Fix invalid character.</code>](https://github.com/linuxmint/cinnamon/commit/8e6ab58ac584d5c6746b44a590a6e1b52ea4a07e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e7cb4a7729843e4e7603a516480f581080c5d83c)
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ffcc3cfc1fbbacb70b7f15f6a9ae3055645bf6bb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
@@ -147,12 +152,16 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/e028b07cddf71ec65db382016dc890ab39032fe1)
 - [ ] [<code>Remove cinnamon-screensaver-command and cinnamon-unlock-desktop. (#491)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/81cf709669f7358736e20509301d301ea208b991)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/048253296c51a0ee92379d7fd1480fb73782171b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
 
+- [ ] [<code>csm-app.c: Fix cinnamon restart limit avoidance.</code>](https://github.com/linuxmint/cinnamon-session/commit/e8238bfa2f7ffd44dc77618d7eaa671e855d1e9c)
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-session/commit/7f3bb6df15cc89df82634cf7c9ae5b39968ee1b9)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
@@ -161,6 +170,11 @@
 - [ ] [<code>power: Remove GpmIdleTime, use libcinnamon-desktop IdleMonitor. (#436)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bb4287dfa14b0b993c11c021566a2f186486911b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-power-manager.c: Don't turn monitors off before suspend/hibernate. (#442)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3298eaeab29d81b408ab5d8b9af2c2fb4345bd92)
+- [ ] [<code>daemon-skeleton: Try to fix verbose mode again...</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5d79d06a134f205c4c45330b61c051916bbb3736)
+- [ ] [<code>csd-background: Run as a wayland client if gtk-layer-shell is (#437)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/aa4573d5125c69a190c455b97f9b786aa60f00bb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a2513a9591fc58edb9fa1704892b71ea5fec90b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
@@ -217,9 +231,14 @@
 - [ ] [<code>meta-stage: Remove backend assertions from overlay paint/update paths</code>](https://github.com/linuxmint/muffin/commit/82cba781298ef94f2e245394dd892058f075e734)
 - [ ] [<code>cursor-sprite-xcursor: Use standard cursor names</code>](https://github.com/linuxmint/muffin/commit/0ef3a81a549f04955cccb340377a1a3201c4750b)
 - [ ] [<code>[Wayland] Direct scanout (#744)</code>](https://github.com/linuxmint/muffin/commit/120ade8445868c27cd24d4d2592044fc183f2571)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>meta-cursor-sprite-xcursor.c: Adjust a few cursor names.</code>](https://github.com/linuxmint/muffin/commit/e521ee2dc65b35f8ac28630c3fbe17ec7676f0df)
+- [ ] [<code>Support wlr-layer-shell-protocol. (#803)</code>](https://github.com/linuxmint/muffin/commit/3f763658d0f02bbfb06dd5b61b9edbd5bd678761)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/muffin/commit/4accef83d6a16493fc9c8061abb9d6d68393112f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -241,7 +260,11 @@
 - [ ] [<code>Add stale.yml github workflow.</code>](https://github.com/linuxmint/nemo/commit/15d1d70a26cce5ef02c07a4c76b3b039a21b2c86)
 - [ ] [<code>Try fixing permissions.</code>](https://github.com/linuxmint/nemo/commit/872d62eb813968e6ffc88da04b1d3397262bb1eb)
 - [ ] [<code>packaging: Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/nemo/commit/02699027ff1d89457a6a9dd1ee5d95a1eb2ee044)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>Implement gtk-layer-shell. (#3684)</code>](https://github.com/linuxmint/nemo/commit/844a4f61c50294aea59fffcb115161949707623d)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
