@@ -914,6 +914,7 @@
 - [ ] [<code>Update merge request template</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/59e6c39bff2716da78c8ce8424727cd6abaa4ab3)
 - [ ] [<code>Add Name field and column to Custom Actions tab</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/4e2709aee730a17f2b546adcd5bb7a3d81a0a373)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Avoid crash when resetting items frecency</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/acc9e240da07d15c499a23aaf134225d6898fd6e)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
