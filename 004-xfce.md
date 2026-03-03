@@ -784,6 +784,7 @@
 - [ ] [<code>Expose drag-drop-mode in preferences</code>](https://github.com/xfce-mirror/thunar/commit/cff7db0b0a1a1e215939620d60a48f53624c3428)
 - [ ] [<code>Prevent Gtk-CRITICAL in tree-view side pane</code>](https://github.com/xfce-mirror/thunar/commit/7a5b041518f79b8caf784523283e8eb786f2c755)
 - [ ] [<code>Add 'grab_focus' parameter to 'set directory' calls (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/65241c016214aeb376b3fd5b96e35ed1636d2ec4)
+- [ ] [<code>Prevent shortcuts view focus lost (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/19a003618ad19e7cd4c927a5fcf8978234ca3514)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
