@@ -309,6 +309,7 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2282)</code>](https://github.com/alainm23/planify/commit/34c391806d2d34f8dec6bc1fc3f871bef250f594)
 - [ ] [<code>Translations update from Hosted Weblate (#2283)</code>](https://github.com/alainm23/planify/commit/6d5707a2cd84dd6b747c46963b5e8e26aa52b0ba)
 - [ ] [<code>Bump actions/upload-artifact from 6 to 7 (#2290)</code>](https://github.com/alainm23/planify/commit/89b1b2e9e62593d889d70c90ff6bf67d02bba9cc)
+- [ ] [<code>Translations update from Hosted Weblate (#2291)</code>](https://github.com/alainm23/planify/commit/626bdc22f41d42c95c1918ec49d4969460ca6ee6)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
