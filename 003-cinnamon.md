@@ -120,7 +120,25 @@
 - [ ] [<code>screensaver: Reset internal state for new sessions, don't set the</code>](https://github.com/linuxmint/cinnamon/commit/e671fdf7fff0c18b1e16b5003cbc4737f93b9507)
 - [ ] [<code>backgrounds: Improve wayland session support. (#13614)</code>](https://github.com/linuxmint/cinnamon/commit/c8e02880228e5ecc4f4a860a6af8add186d24e44)
 - [ ] [<code>screenShield.js: Fix invalid character.</code>](https://github.com/linuxmint/cinnamon/commit/8e6ab58ac584d5c6746b44a590a6e1b52ea4a07e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix OSD level animation lag when using gesture volume control (#13338)</code>](https://github.com/linuxmint/cinnamon/commit/1290c94a428ad766764e2ad1aada57393b988c1e)
+- [ ] [<code>input sources: Allow a default xkb layout to be configured for (#13520)</code>](https://github.com/linuxmint/cinnamon/commit/2db8e835014c91593793b90db4b1ad0f4daf3236)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cinnamonEntry.js: Allow addContextMenu() to re-use an existing</code>](https://github.com/linuxmint/cinnamon/commit/14c83ba7e77405c17a8c80d84bdd729681167f8d)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>Add support for GIRepository-2.0. (#13474)</code>](https://github.com/linuxmint/cinnamon/commit/3fc658559bae31037cb7a855e9c070fe88460a9d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fileUtils.js: Use GLib.get_user_special_dir() for getUserDesktopDir.</code>](https://github.com/linuxmint/cinnamon/commit/db0a5e967d693321003c326a7275667941ea7322)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>dnd.js: Fix window freeze on rapid taskbar clicks (#13462) (#13465)</code>](https://github.com/linuxmint/cinnamon/commit/3c7cd1a9f483807db41e85c494f535be7d54c72f)
+- [ ] [<code>Remove more of the old indicator leftovers (#13584)</code>](https://github.com/linuxmint/cinnamon/commit/812b0aa7fb02ffa10592a0cf5fdc97c1f2ade23c)
+- [ ] [<code>menu: Fix logError call (#13583)</code>](https://github.com/linuxmint/cinnamon/commit/0185164732a3db421bb1e3dc91f5b086604992ff)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>magnifier.js: Port to classes and clean up (#13591)</code>](https://github.com/linuxmint/cinnamon/commit/fe0ad6c52025bf84b70917b2b743ef94fd7b8b1e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>magnifierDBus.js: Port to classes and small syntax cleanup (#13592)</code>](https://github.com/linuxmint/cinnamon/commit/beffc6d0ce30a0d69da7418943ba1e712651a3a3)
+- [ ] [<code>Monitor label cleanup (#13593)</code>](https://github.com/linuxmint/cinnamon/commit/8d772e1365409c6703176442d9c6622e1a01aa54)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -260,11 +278,13 @@
 - [ ] [<code>Add stale.yml github workflow.</code>](https://github.com/linuxmint/nemo/commit/15d1d70a26cce5ef02c07a4c76b3b039a21b2c86)
 - [ ] [<code>Try fixing permissions.</code>](https://github.com/linuxmint/nemo/commit/872d62eb813968e6ffc88da04b1d3397262bb1eb)
 - [ ] [<code>packaging: Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/nemo/commit/02699027ff1d89457a6a9dd1ee5d95a1eb2ee044)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>Implement gtk-layer-shell. (#3684)</code>](https://github.com/linuxmint/nemo/commit/844a4f61c50294aea59fffcb115161949707623d)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-desktop-window.c: Fix missing include.</code>](https://github.com/linuxmint/nemo/commit/0a4d1b408dfac8f06e5be4fea3e299da8c09c045)
+- [ ] [<code>meson.build: Add -Werror=implicit-function-declaration</code>](https://github.com/linuxmint/nemo/commit/0ba73e5bae05d14b11100307b7dd49036fd020eb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
