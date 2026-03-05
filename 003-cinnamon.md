@@ -138,7 +138,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>magnifierDBus.js: Port to classes and small syntax cleanup (#13592)</code>](https://github.com/linuxmint/cinnamon/commit/beffc6d0ce30a0d69da7418943ba1e712651a3a3)
 - [ ] [<code>Monitor label cleanup (#13593)</code>](https://github.com/linuxmint/cinnamon/commit/8d772e1365409c6703176442d9c6622e1a01aa54)
+- [ ] [<code>cinnamonDBus.js: Port to newer class style and remove use of Lang.bind() (#13580)</code>](https://github.com/linuxmint/cinnamon/commit/f3d821d630ae3ffc4a9a56c64ea7001de19d33cf)
+- [ ] [<code>notifications@cinnamon.org: Do not recreate menu on orientation change... (#13247)</code>](https://github.com/linuxmint/cinnamon/commit/8847bbd68561c7974e0bafe423cf991189525ac6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix https://github.com/linuxmint/cinnamon/issues/13377 (#13603)</code>](https://github.com/linuxmint/cinnamon/commit/c59b689734f9d509ef99fc4b7df477870e3b51e5)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
