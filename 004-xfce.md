@@ -785,6 +785,7 @@
 - [ ] [<code>Prevent Gtk-CRITICAL in tree-view side pane</code>](https://github.com/xfce-mirror/thunar/commit/7a5b041518f79b8caf784523283e8eb786f2c755)
 - [ ] [<code>Add 'grab_focus' parameter to 'set directory' calls (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/65241c016214aeb376b3fd5b96e35ed1636d2ec4)
 - [ ] [<code>Prevent shortcuts view focus lost (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/19a003618ad19e7cd4c927a5fcf8978234ca3514)
+- [ ] [<code>Tree-view pane: Fix wrong selection on open new window</code>](https://github.com/xfce-mirror/thunar/commit/4b31eb859599bf77728be17b3f0d6f4ce1f31ff7)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
