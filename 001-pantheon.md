@@ -977,6 +977,7 @@
 - [ ] [<code>Create PortalDialog (#169)</code>](https://github.com/elementary/portals/commit/10aa0b271df4ad62f50153e0a352a69b03a72b07)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PortalDialog: make button construction internal (#177)</code>](https://github.com/elementary/portals/commit/43fab1ddfb2337c2dea3dad586ed5f4dd21a5258)
+- [ ] [<code>Screencast: redesign icon as circle (#181)</code>](https://github.com/elementary/portals/commit/ef4730c140335224a3502bc016a216ee5f7cd749)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
