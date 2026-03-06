@@ -310,6 +310,11 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2283)</code>](https://github.com/alainm23/planify/commit/6d5707a2cd84dd6b747c46963b5e8e26aa52b0ba)
 - [ ] [<code>Bump actions/upload-artifact from 6 to 7 (#2290)</code>](https://github.com/alainm23/planify/commit/89b1b2e9e62593d889d70c90ff6bf67d02bba9cc)
 - [ ] [<code>Translations update from Hosted Weblate (#2291)</code>](https://github.com/alainm23/planify/commit/626bdc22f41d42c95c1918ec49d4969460ca6ee6)
+- [ ] [<code>Translations update from Hosted Weblate (#2292)</code>](https://github.com/alainm23/planify/commit/5761e6982fedd9de89faf22077443b67f54b32fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2293)</code>](https://github.com/alainm23/planify/commit/f8abc1be624f83a73f280e641ad287ae255a73ec)
+- [ ] [<code>test: add Spanish locale Chrono parser tests (#2284)</code>](https://github.com/alainm23/planify/commit/3dbd5f19152454248462d96cd6ac4fd940c06bb2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
