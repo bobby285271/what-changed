@@ -692,6 +692,8 @@
 - [ ] [<code>Remove autostarts (#100)</code>](https://github.com/elementary/session-settings/commit/6e8eee77d0735744630570655d87649547a8f174)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Default X11 building to false (#98)</code>](https://github.com/elementary/session-settings/commit/0a69481c20b73d7cd774e88e6fb043c52644e350)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -720,6 +722,8 @@
 - [ ] [<code>WindowManager/Map: Use ease actor utils</code>](https://github.com/elementary/gala/commit/32feda20d141b8c06f359a0296c128698906afd6)
 - [ ] [<code>WindowManager/Destroy: Use async ease utils</code>](https://github.com/elementary/gala/commit/6bab11b6c975c879b3b0552f2be20fd8a51ac6fb)
 - [ ] [<code>CI: Update dev target to libmutter-17-dev (#2777)</code>](https://github.com/elementary/gala/commit/0049874541965c1901f6982909d8e4c0b86faabc)
+- [ ] [<code>GestureController: Safeguard START/END pair</code>](https://github.com/elementary/gala/commit/7eedab32a54f51e4d94ed3929de0cb1fa5270c35)
+- [ ] [<code>GestureController: Propagate commit after timeline was started</code>](https://github.com/elementary/gala/commit/c93e68908516cf62b7408ec845fad5a147737e7a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
