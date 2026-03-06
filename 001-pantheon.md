@@ -112,6 +112,7 @@
 - [ ] [<code>InfoPanel: TextView uses properties (#925)</code>](https://github.com/elementary/calendar/commit/7a49b9233133592caca9e13c44befa52fef7ae72)
 - [ ] [<code>GuestsPanel: GObject style, cleanup (#926)</code>](https://github.com/elementary/calendar/commit/9df346cf601259bf07366d0b2e762c513e673b0d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.2.tar.xz to 3.59.3 (#934)</code>](https://github.com/elementary/calendar/commit/43e1759c44120447c2bd618de0c38a840782e49f)
+- [ ] [<code>IcalTime: use TimeZone.identifier (#910)</code>](https://github.com/elementary/calendar/commit/59deceb289a4a6adad1f5516d820d7b915ae7d28)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -259,6 +260,7 @@
 - [ ] [<code>Parse ARM cpu names</code>](https://github.com/elementary/monitor/commit/9a4068df52c52314eb16feec3924fcf27acc86f4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix linting; comment out debug</code>](https://github.com/elementary/monitor/commit/ec9effb569a701c98b3d44af0e24c96a07525349)
+- [ ] [<code>Change warning logs to debug logs for GPU queries (#529)</code>](https://github.com/elementary/monitor/commit/7daaa9d0c2683115b3e9895423a0ae00e86bb928)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -461,6 +463,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Reduce the scope of gnome interface settings object (#986)</code>](https://github.com/elementary/terminal/commit/d1cc9e5887bb1fd51849c736a7cc489e88e870f7)
   - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Do not show loading spinner for all foreground processes (#1003)</code>](https://github.com/elementary/terminal/commit/890e0f2f17606687a493ba070cca153418ec61a4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -685,6 +689,9 @@
 - [ ] [<code>Remove onboard (#83)</code>](https://github.com/elementary/session-settings/commit/cfbcda4a045e56e0cb09ab05978598d2e9761372)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove autostarts (#100)</code>](https://github.com/elementary/session-settings/commit/6e8eee77d0735744630570655d87649547a8f174)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -949,6 +956,9 @@
 - [ ] [<code>Implement reduced motion setting (#211)</code>](https://github.com/elementary/settings-daemon/commit/147c91c67fc89ff2ebf6223c9e5906d5b0ae92e1)
 - [ ] [<code>CI: use new libgdk-pixbuf (#226)</code>](https://github.com/elementary/settings-daemon/commit/145b09b6ff5a1c521453bd862626573586fbfdf9)
 - [ ] [<code>CI: add systemd-dev (#228)</code>](https://github.com/elementary/settings-daemon/commit/40446077c17074150db5a82bdaf7236d254ae137)
+- [ ] [<code>Bump to Granite 7 (#225)</code>](https://github.com/elementary/settings-daemon/commit/ad9c288867c155fa972c04d65b8c2e1598762d02)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -978,6 +988,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PortalDialog: make button construction internal (#177)</code>](https://github.com/elementary/portals/commit/43fab1ddfb2337c2dea3dad586ed5f4dd21a5258)
 - [ ] [<code>Screencast: redesign icon as circle (#181)</code>](https://github.com/elementary/portals/commit/ef4730c140335224a3502bc016a216ee5f7cd749)
+- [ ] [<code>Access: use PortalDialog (#178)</code>](https://github.com/elementary/portals/commit/cae4799703f94a20b801e7293260d8f3c0ae60f2)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
