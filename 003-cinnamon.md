@@ -142,8 +142,10 @@
 - [ ] [<code>notifications@cinnamon.org: Do not recreate menu on orientation change... (#13247)</code>](https://github.com/linuxmint/cinnamon/commit/8847bbd68561c7974e0bafe423cf991189525ac6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix https://github.com/linuxmint/cinnamon/issues/13377 (#13603)</code>](https://github.com/linuxmint/cinnamon/commit/c59b689734f9d509ef99fc4b7df477870e3b51e5)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver: Do more to acquire a modal grab attempt when locking. (#13618)</code>](https://github.com/linuxmint/cinnamon/commit/3fa32cb133bd4ea66244d1751052726637200dd8)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
