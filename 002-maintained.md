@@ -315,6 +315,7 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2293)</code>](https://github.com/alainm23/planify/commit/f8abc1be624f83a73f280e641ad287ae255a73ec)
 - [ ] [<code>test: add Spanish locale Chrono parser tests (#2284)</code>](https://github.com/alainm23/planify/commit/3dbd5f19152454248462d96cd6ac4fd940c06bb2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix conversion to string (#2297)</code>](https://github.com/alainm23/planify/commit/d32f55793303473777cee4b19d07b36d0998b9eb)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
