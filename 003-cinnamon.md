@@ -263,6 +263,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/muffin/commit/4accef83d6a16493fc9c8061abb9d6d68393112f)
+- [ ] [<code>window.c: Fix regression in window positioning when a window is</code>](https://github.com/linuxmint/muffin/commit/a9cc86de525c285f9e8d5bfd313a63ab36ccf13b)
+- [ ] [<code>[Wayland] Add support for xdg-system-bell-v1 protocol (#787)</code>](https://github.com/linuxmint/muffin/commit/fd7ced118830fa4b6c9e3e1c026253a254da53ac)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>compositor.c: hidden panel windows aren't top (#802)</code>](https://github.com/linuxmint/muffin/commit/ba50900dca5de25e27d0ea600c997f7ebc9a2ec6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
