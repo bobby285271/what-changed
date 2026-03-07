@@ -205,6 +205,7 @@
 - [ ] [<code>item-list-ext: hide-in-buttons attribute</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b61b8f044877075b57eaf630b121c044661c8f41)
 - [ ] [<code>build: Be sure to generate sub-headers before including libxfce4ui.h</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e12b2cc1b2d7c6d34b3dd01502adc36696ae699d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>clipboard-manager: Exclude krita from gtk-clipboard management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b5167ff3f03fc5bfdd8f64708bdc330adc435f02)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -787,6 +788,7 @@
 - [ ] [<code>Prevent shortcuts view focus lost (#1675)</code>](https://github.com/xfce-mirror/thunar/commit/19a003618ad19e7cd4c927a5fcf8978234ca3514)
 - [ ] [<code>Tree-view pane: Fix wrong selection on open new window</code>](https://github.com/xfce-mirror/thunar/commit/4b31eb859599bf77728be17b3f0d6f4ce1f31ff7)
 - [ ] [<code>Make use of new "grab_focus" variable</code>](https://github.com/xfce-mirror/thunar/commit/4120ca6f33f9f97290dfd6051d730308abeb9b57)
+- [ ] [<code>Fix string leak in thunar_shortcuts_model_device_removed</code>](https://github.com/xfce-mirror/thunar/commit/0994286fa68dedbe80fe65d709d50b091bdb579a)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
