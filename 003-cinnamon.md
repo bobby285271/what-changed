@@ -144,8 +144,9 @@
 - [ ] [<code>Fix https://github.com/linuxmint/cinnamon/issues/13377 (#13603)</code>](https://github.com/linuxmint/cinnamon/commit/c59b689734f9d509ef99fc4b7df477870e3b51e5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screensaver: Do more to acquire a modal grab attempt when locking. (#13618)</code>](https://github.com/linuxmint/cinnamon/commit/3fa32cb133bd4ea66244d1751052726637200dd8)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamon-tray-manager.c: Fix leak during redisplay.</code>](https://github.com/linuxmint/cinnamon/commit/2b5851b53b6dea9391058ff770896242169e5f4c)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
