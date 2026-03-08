@@ -317,6 +317,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix conversion to string (#2297)</code>](https://github.com/alainm23/planify/commit/d32f55793303473777cee4b19d07b36d0998b9eb)
 - [ ] [<code>fix: index offset in drag'n'drop (#2298)</code>](https://github.com/alainm23/planify/commit/fdc43ab75943f5ffb1f372dbe5fffd1f46d84591)
+- [ ] [<code>CalendarEvents: Avoid Posix.NLTime if not available (#2268)</code>](https://github.com/alainm23/planify/commit/172bc5ba1e98a4995c3cdeb4d5037f90a0d171c1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix (#2299)</code>](https://github.com/alainm23/planify/commit/34b6257b4ea26aac44a061321bafdee2612cf1e5)
+- [ ] [<code>Initial CLI interface (#2241)</code>](https://github.com/alainm23/planify/commit/fe62af9ca407f85d2290562d74a6c4e9cf0fa872)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
