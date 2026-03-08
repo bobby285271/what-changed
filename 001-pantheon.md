@@ -740,6 +740,7 @@
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
 
 - [ ] [<code>GridView: GTK4 prep (#698)</code>](https://github.com/elementary/applications-menu/commit/f6d06df0d11f737009cb31d3b831696cfdc13d2f)
+- [ ] [<code>GridView: return grid in add_new_grid (#701)</code>](https://github.com/elementary/applications-menu/commit/bc7ffa5a4dc34fbb0429b78090aa933140e86d9c)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
