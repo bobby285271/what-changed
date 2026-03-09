@@ -206,6 +206,9 @@
 - [ ] [<code>build: Be sure to generate sub-headers before including libxfce4ui.h</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e12b2cc1b2d7c6d34b3dd01502adc36696ae699d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>clipboard-manager: Exclude krita from gtk-clipboard management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b5167ff3f03fc5bfdd8f64708bdc330adc435f02)
+- [ ] [<code>Add gir typelib building for libxfce4kbd-private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/110a08adf836791c2ee4f7fed0c602cc7b2e71a9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -1226,6 +1229,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/23adc9084e5c2ad830b040f82f97a41068df0f20)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use percent symbol instead of "percent"</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2b45fbe74899efe1a74d65556a95d347736ab68f)
+- [ ] [<code>backlight-helper: Fix brightness control device selection logic</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/14d8d6259999d0e82806bb2ae80e82918271917e)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
