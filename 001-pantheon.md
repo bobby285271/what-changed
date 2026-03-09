@@ -743,6 +743,7 @@
 - [ ] [<code>GridView: return grid in add_new_grid (#701)</code>](https://github.com/elementary/applications-menu/commit/bc7ffa5a4dc34fbb0429b78090aa933140e86d9c)
 - [ ] [<code>GridView: get current grid from carousel (#703)</code>](https://github.com/elementary/applications-menu/commit/f262bde17a64d37afc1e6fb44b8ad516963dcda4)
 - [ ] [<code>GridView: remove grids hashmap (#702)</code>](https://github.com/elementary/applications-menu/commit/490d18a42ef331acf42abfcf29598065c9f6689e)
+- [ ] [<code>GridView: make page size constants (#704)</code>](https://github.com/elementary/applications-menu/commit/e1d68582742147fdf2425ce091b690b58c900327)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
