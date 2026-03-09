@@ -146,6 +146,9 @@
 - [ ] [<code>screensaver: Do more to acquire a modal grab attempt when locking. (#13618)</code>](https://github.com/linuxmint/cinnamon/commit/3fa32cb133bd4ea66244d1751052726637200dd8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamon-tray-manager.c: Fix leak during redisplay.</code>](https://github.com/linuxmint/cinnamon/commit/2b5851b53b6dea9391058ff770896242169e5f4c)
+- [ ] [<code>screensheild.js: Listen to changes to allow floating setting (#13624)</code>](https://github.com/linuxmint/cinnamon/commit/5dbfa5c11fe8b9dfab8549c4e85bdaaa62619a37)
+- [ ] [<code>theme: Fix a warning when opening the sound applet (#13623)</code>](https://github.com/linuxmint/cinnamon/commit/3e6544e47e1b6d7c1834cf02bbf2d3e5f26f193c)
+- [ ] [<code>cinnamon-screenshot.c: Filter out the desktop windows by window</code>](https://github.com/linuxmint/cinnamon/commit/af735cb303d381a13a7d24253c8ae68f1fccf72f)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
