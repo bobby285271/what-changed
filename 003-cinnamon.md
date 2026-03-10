@@ -152,6 +152,8 @@
 - [ ] [<code>keybindings: Improve consistency during modal states, fix layout</code>](https://github.com/linuxmint/cinnamon/commit/58e1c478d71e78f9902fddf7b031aad4f97f3f8a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>unlockDialog: Update layout indicator visibility when the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/0bfdcfa642d7737f71e6ee1ff392a86c54dce00a)
+- [ ] [<code>screenShield.js: Ensure the screenShieldGroup is still the top stage</code>](https://github.com/linuxmint/cinnamon/commit/40b756c394eb955100eec566b294f209a4f829ae)
+- [ ] [<code>screensaver: Limit access to the screenShieldGroup.</code>](https://github.com/linuxmint/cinnamon/commit/d75d52853178c64a1b62e2ec3fd9873607a2fb04)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
