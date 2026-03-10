@@ -113,6 +113,7 @@
 - [ ] [<code>GuestsPanel: GObject style, cleanup (#926)</code>](https://github.com/elementary/calendar/commit/9df346cf601259bf07366d0b2e762c513e673b0d)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.2.tar.xz to 3.59.3 (#934)</code>](https://github.com/elementary/calendar/commit/43e1759c44120447c2bd618de0c38a840782e49f)
 - [ ] [<code>IcalTime: use TimeZone.identifier (#910)</code>](https://github.com/elementary/calendar/commit/59deceb289a4a6adad1f5516d820d7b915ae7d28)
+- [ ] [<code>SourceRow: create accent colors for screen (#931)</code>](https://github.com/elementary/calendar/commit/0dae65c1effa70d7ebf9cf285c0283ed86fcf883)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -744,6 +745,10 @@
 - [ ] [<code>GridView: get current grid from carousel (#703)</code>](https://github.com/elementary/applications-menu/commit/f262bde17a64d37afc1e6fb44b8ad516963dcda4)
 - [ ] [<code>GridView: remove grids hashmap (#702)</code>](https://github.com/elementary/applications-menu/commit/490d18a42ef331acf42abfcf29598065c9f6689e)
 - [ ] [<code>GridView: make page size constants (#704)</code>](https://github.com/elementary/applications-menu/commit/e1d68582742147fdf2425ce091b690b58c900327)
+- [ ] [<code>Remove unused DEFAULT_ROWS (#706)</code>](https://github.com/elementary/applications-menu/commit/1014479303eaeb400e893c3c8e40c3e518680070)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>GridView: current_grid_key → set_page (#699)</code>](https://github.com/elementary/applications-menu/commit/a710410cb9692f8e49362ad80091a0eee73c3b8f)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
