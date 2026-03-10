@@ -209,6 +209,18 @@
 - [ ] [<code>Add gir typelib building for libxfce4kbd-private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/110a08adf836791c2ee4f7fed0c602cc7b2e71a9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/39395545582538f769a7e18539b50b6078e1ff03)
+  - <sub>Tags: <code>libxfce4ui-4.21.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b72419f52ed15db13d65f853ef2ce8d76ebd3b70)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/45682285674b476ada3d66515420b63acfd79ff5)
+  - <sub>Tags: <code>libxfce4ui-4.21.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2cb24c8cf93a15e468079423dab150a87ba71410)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
