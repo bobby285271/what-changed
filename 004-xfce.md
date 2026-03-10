@@ -221,6 +221,24 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2cb24c8cf93a15e468079423dab150a87ba71410)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix gir dependencies for libxfce4kbd-private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a4b82a43d9a9c7edfb372627bc13b0ce4758effb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/381d7cb73430bd65de39d5e664ed69fb5c85e3ae)
+  - <sub>Tags: <code>libxfce4ui-4.21.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a9d986b8d4fa922a71d96e2e840731ddd85fc719)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Don't generate vala bindings for libxfce4kbd-private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9a33111874d6ec4028a8dca0506338d020ecf2fd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c07644b91e627341452c881392bf417d4dbc0031)
+  - <sub>Tags: <code>libxfce4ui-4.21.7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9a6a4c15ac7dec305662a15a0020802614eb1984)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
