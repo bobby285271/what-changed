@@ -154,6 +154,15 @@
 - [ ] [<code>unlockDialog: Update layout indicator visibility when the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/0bfdcfa642d7737f71e6ee1ff392a86c54dce00a)
 - [ ] [<code>screenShield.js: Ensure the screenShieldGroup is still the top stage</code>](https://github.com/linuxmint/cinnamon/commit/40b756c394eb955100eec566b294f209a4f829ae)
 - [ ] [<code>screensaver: Limit access to the screenShieldGroup.</code>](https://github.com/linuxmint/cinnamon/commit/d75d52853178c64a1b62e2ec3fd9873607a2fb04)
+- [ ] [<code>cs_keyboard.py, main.js, and KeybindingTable.py: Separate the key bindings and keyboard menu options for switching workspace up/down and toggling window/workspace selection</code>](https://github.com/linuxmint/cinnamon/commit/2de831f39392aef5e9d090da9af5b3eef7bbb436)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>keybindingTable.py: Fix key names for toggle workspace/windows,</code>](https://github.com/linuxmint/cinnamon/commit/589016b7c1c53e41a10a75693b491b790c49fcb1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_windows.py: Add Traditional button layout option (#13326)</code>](https://github.com/linuxmint/cinnamon/commit/31736d84073cefde19db02319a43b099b11cbd0b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>calendar applet: Fix handling for invalid clock formats.</code>](https://github.com/linuxmint/cinnamon/commit/bd770e132184625356bfd5310adde4a117468604)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>main.js: Don't drop key-release events in the captured-event handler</code>](https://github.com/linuxmint/cinnamon/commit/7190db192dd5047b33ec0b4d817f4ec149194613)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -171,6 +180,7 @@
 - [ ] [<code>input-sources settings: Add a new setting to store the default xkb (#263)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/26cf76088ada8b94be5118bce9586daf2d7f69eb)
 - [ ] [<code>libcvc: refresh from upstream libgnome-volume-control.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2d4f3560ae4abf15ecefafc2d8c8178a92a54dea)
 - [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
+- [ ] [<code>org.cinnamon.desktop.keybindings.wm schema: Separate key binding for switching workspace up/down from toggling window/workspace selection (#214)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/110609f9c1bfeacfa5cf7ab3e8568d4dee5ca86f)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -276,6 +286,7 @@
 - [ ] [<code>[Wayland] Add support for xdg-system-bell-v1 protocol (#787)</code>](https://github.com/linuxmint/muffin/commit/fd7ced118830fa4b6c9e3e1c026253a254da53ac)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>compositor.c: hidden panel windows aren't top (#802)</code>](https://github.com/linuxmint/muffin/commit/ba50900dca5de25e27d0ea600c997f7ebc9a2ec6)
+- [ ] [<code>keybindings.c and prefs.h: Add separate key bindings for toggle window/workspace (#628)</code>](https://github.com/linuxmint/muffin/commit/2b8bed4ce740eb56f75827037803a922c40d1b4a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
