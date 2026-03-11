@@ -1459,6 +1459,7 @@
 - [ ] [<code>appearance-settings: Add sound theme selection and cache flushing</code>](https://github.com/xfce-mirror/xfce4-settings/commit/44f271cbee04c50c5ace5174571bbf4abd6f8fff)
   - <sub>Files: <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>xfsettingsd: add --allow-multiple CLI flag</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0637fa611715eb77647e4d95a3acbc27dc1819cc)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
