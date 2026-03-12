@@ -32,6 +32,9 @@
 - [ ] [<code>AppStream.Pool: Don't load OS catalog (#2428)</code>](https://github.com/elementary/appcenter/commit/d96ccded1fce06375551a77fbd7852f4a5d3e580)
 - [ ] [<code>ListModels: Use n items instead of custom properties (#2427)</code>](https://github.com/elementary/appcenter/commit/b619f3c0559446378847a6229d4b58251652b89b)
 - [ ] [<code>ReleasesDialog: Make listbox no select (#2429)</code>](https://github.com/elementary/appcenter/commit/bb5fb618aeae4a26ac3687c071d924cdf08ae581)
+- [ ] [<code>FlatpakBackend: Introduce Component and flatten that to packages</code>](https://github.com/elementary/appcenter/commit/e4d5f5931ae881a73b9c210242b0f53262693295)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>FlatpakBackend: Speedup get_packages_for_component_id</code>](https://github.com/elementary/appcenter/commit/5db1ae0b95d4ba576b88dbab36cc2bb4a4d2172e)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -918,6 +921,7 @@
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
+- [ ] [<code>Reduce margin between microphone and speaker by using composited-indicator class (#318)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8df888f05079f3da53db428a8acc6bfff56dfcf0)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
