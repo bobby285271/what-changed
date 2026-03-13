@@ -118,6 +118,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.2.tar.xz to 3.59.3 (#934)</code>](https://github.com/elementary/calendar/commit/43e1759c44120447c2bd618de0c38a840782e49f)
 - [ ] [<code>IcalTime: use TimeZone.identifier (#910)</code>](https://github.com/elementary/calendar/commit/59deceb289a4a6adad1f5516d820d7b915ae7d28)
 - [ ] [<code>SourceRow: create accent colors for screen (#931)</code>](https://github.com/elementary/calendar/commit/0dae65c1effa70d7ebf9cf285c0283ed86fcf883)
+- [ ] [<code>EventMenu: set sensitive during construction (#928)</code>](https://github.com/elementary/calendar/commit/6a5ca74d75714bcbc9fc984661759bc61b7663c0)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -899,6 +900,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ab435a3792940be2dbc2c2fe0d23224ea843883a)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/4138179475dec2c7edd0327e22ac818bd0d367f9)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#300)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f3bcff2180b08ca546a2cb6ae9410a5a581c4eda)
+- [ ] [<code>NotificationEntry: replace Deck with Carousel (#301)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/81a8ed11236183f9543ed0533fa8656890896dfa)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
