@@ -652,6 +652,7 @@
 - [ ] [<code>Add dialog-messages for Inkscape (#1388)</code>](https://github.com/elementary/icons/commit/99fb76ec1a44c8d17fa966e6cfed6370a98f075f)
 - [ ] [<code>Add bitmap-trace for Inkscape (#1390)</code>](https://github.com/elementary/icons/commit/1d64673cc42c3c4b0151ab958c5412c701208100)
 - [ ] [<code>Add 'symbols' for Inkscape (#1404)</code>](https://github.com/elementary/icons/commit/59f062170f82aecfea8ee0b7d9bda8c983b3fa42)
+- [ ] [<code>Add Inkscape info, off and on icons (mostly symlinks) (#1408)</code>](https://github.com/elementary/icons/commit/726f1b1db65baee5de3834497f427274d8268134)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
