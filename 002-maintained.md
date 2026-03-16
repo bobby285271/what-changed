@@ -323,6 +323,9 @@
 - [ ] [<code>Initial CLI interface (#2241)</code>](https://github.com/alainm23/planify/commit/fe62af9ca407f85d2290562d74a6c4e9cf0fa872)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2301)</code>](https://github.com/alainm23/planify/commit/c3edd918cbd5b5cf2b29837cd2c344094eb5f3ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2302)</code>](https://github.com/alainm23/planify/commit/cffd9602e5c3565c0f37b1f595e97227404750ee)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
