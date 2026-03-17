@@ -853,6 +853,9 @@
 - [ ] [<code>WifiInterface: make connect_to_network independent of dialog (#358)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/260c3fb3dfd9829a8859fcdf9685e00242b9a67a)
 - [ ] [<code>Indicator: claim and reset middle click gesture (#361)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/06a3ee79d95c33a62e4d3a38e140898ec319c308)
 - [ ] [<code>WifiInterface: clean up wifi_activate_cb (#359)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/c243390de9f277a4da830ead8cf4498b3daffa64)
+- [ ] [<code>Meson: fix deprecation warnings (#362)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bb657b10da5eb64045061bc2afd1b8be48464812)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
