@@ -119,6 +119,7 @@
 - [ ] [<code>IcalTime: use TimeZone.identifier (#910)</code>](https://github.com/elementary/calendar/commit/59deceb289a4a6adad1f5516d820d7b915ae7d28)
 - [ ] [<code>SourceRow: create accent colors for screen (#931)</code>](https://github.com/elementary/calendar/commit/0dae65c1effa70d7ebf9cf285c0283ed86fcf883)
 - [ ] [<code>EventMenu: set sensitive during construction (#928)</code>](https://github.com/elementary/calendar/commit/6a5ca74d75714bcbc9fc984661759bc61b7663c0)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.3.tar.xz to 3.60.0 (#937)</code>](https://github.com/elementary/calendar/commit/a7aea32950e08767e4b8d9be0104f2d02f0a99c3)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -141,6 +142,9 @@
 - [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
 - [ ] [<code>Escape search term when not using Regex expression in global search (#1669)</code>](https://github.com/elementary/code/commit/77aa937ecafbc1396c83a7d96ce0ab92322660ae)
 - [ ] [<code>Update metainfo for v8.2.0 (#1693)</code>](https://github.com/elementary/code/commit/5353a0f5533cad744ae010fb3ce7c1205ee72ce3)
+- [ ] [<code>Jeremypw/release 8.2.0 (#1695)</code>](https://github.com/elementary/code/commit/643a55ee8a4770459c6bfe517871d759c3b00380)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
