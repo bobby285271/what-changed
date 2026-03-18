@@ -35,6 +35,8 @@
 - [ ] [<code>FlatpakBackend: Introduce Component and flatten that to packages</code>](https://github.com/elementary/appcenter/commit/e4d5f5931ae881a73b9c210242b0f53262693295)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>FlatpakBackend: Speedup get_packages_for_component_id</code>](https://github.com/elementary/appcenter/commit/5db1ae0b95d4ba576b88dbab36cc2bb4a4d2172e)
+- [ ] [<code>Metainfo: add 8.4.0 release notes (#2430)</code>](https://github.com/elementary/appcenter/commit/b561a12fb076937765e0b0d89c8affa239305108)
+- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/d7cf5eaf737c76afbae611565d2e19b4a569c0b4)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -234,6 +236,7 @@
 - [ ] [<code>l10n: Correct language code of Norwegian Bokmål</code>](https://github.com/elementary/maps/commit/030ab45a24ca979b51208c4ada2420cefc644828)
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#179)</code>](https://github.com/elementary/maps/commit/47a3d81dca6d06a628eec58692e3636002274c83)
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#180)</code>](https://github.com/elementary/maps/commit/2bda38cae244a26826aba16b48060df9b0ae804c)
+- [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#183)</code>](https://github.com/elementary/maps/commit/4caf796edbaada4162a9fbc0f8c0475e050e0719)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -414,6 +417,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#424)</code>](https://github.com/elementary/tasks/commit/9c1575e20a1a826b4e3124ae76dee6e7f23fe804)
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#425)</code>](https://github.com/elementary/tasks/commit/6291bb05547c1a81d573d1e71249da5e61674b2d)
+- [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#426)</code>](https://github.com/elementary/tasks/commit/3bcccfa929a9af005bcc975fce64d01a92921b9c)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
@@ -518,6 +522,7 @@
 - [ ] [<code>Fix Granite Style deprecations (#401)</code>](https://github.com/elementary/settings-system/commit/cc85c7a920745b7bb4ba8936decea428e60ed514)
 - [ ] [<code>Update translation status badge link in README</code>](https://github.com/elementary/settings-system/commit/3d929d97c9df0aa764f78bb3ddb2941e1d4fdecb)
 - [ ] [<code>Update translation status badge in README</code>](https://github.com/elementary/settings-system/commit/f8ab702974adad4b51f084a3bb20cda27b1b0999)
+- [ ] [<code>Metainfo: add 8.2.3 release notes (#411)</code>](https://github.com/elementary/settings-system/commit/a8b3b353edbc4aec7a28a4db9af3c1f53c803fe7)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
@@ -557,6 +562,7 @@
 - [ ] [<code>Update LINGUAS</code>](https://github.com/elementary/settings-keyboard/commit/344398b9a510120753311e1021d7c8afb0ca5017)
 - [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#557)</code>](https://github.com/elementary/settings-keyboard/commit/37e528c267666dac01376f9b4c1c994e1de3acfb)
+- [ ] [<code>Metainfo: add 8.1.1 release notes (#562)</code>](https://github.com/elementary/settings-keyboard/commit/e73b330684b654024b3a41af4ff43e0d00f1f2e5)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -600,6 +606,7 @@
 - [ ] [<code>WallpaperContainer: set uri, all the context menu controllers (#478)</code>](https://github.com/elementary/settings-desktop/commit/7e9b3985197e2ba2279e995a8acc3dd935de18e8)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Text: all font selection (#483)</code>](https://github.com/elementary/settings-desktop/commit/c643e85b15ec81d1386044af1644c60ceea7a922)
+- [ ] [<code>Metainfo: add 8.3.0 release notes (#485)</code>](https://github.com/elementary/settings-desktop/commit/5ebe657037e7a0613188e3712808802908e56708)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -631,6 +638,7 @@
 - [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
 - [ ] [<code>Fix empty "Applications" tab (#299)</code>](https://github.com/elementary/settings-sound/commit/58640c9633f13a977768fed4ae2269a21ae293a4)
+- [ ] [<code>metainfo: add 8.0.3 notes (#303)</code>](https://github.com/elementary/settings-sound/commit/918935906c3cdf5fbb7b2ccc384ef93667e3485e)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
@@ -689,6 +697,7 @@
 - [ ] [<code>Application: rely on Granite.StyleManager (#271)</code>](https://github.com/elementary/onboarding/commit/3f7aee3ab0814560bd63bf140b1d35eeadda30bd)
 - [ ] [<code>StyleView: Support Latte (#261)</code>](https://github.com/elementary/onboarding/commit/dad9715400b1ffd9d827cef5514ec49d398b1e0c)
 - [ ] [<code>FinishView: explain how to access system settings (#274)</code>](https://github.com/elementary/onboarding/commit/3eb38ccc6669d432c929bd70ce32ecf84ed6b5a4)
+- [ ] [<code>Metainfo: Add 8.1.0 release notes (#275)</code>](https://github.com/elementary/onboarding/commit/13defb4241ea868c7dbab79b0a4d78bb15179dc0)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -735,6 +744,7 @@
 - [ ] [<code>CI: Update dev target to libmutter-17-dev (#2777)</code>](https://github.com/elementary/gala/commit/0049874541965c1901f6982909d8e4c0b86faabc)
 - [ ] [<code>GestureController: Safeguard START/END pair</code>](https://github.com/elementary/gala/commit/7eedab32a54f51e4d94ed3929de0cb1fa5270c35)
 - [ ] [<code>GestureController: Propagate commit after timeline was started</code>](https://github.com/elementary/gala/commit/c93e68908516cf62b7408ec845fad5a147737e7a)
+- [ ] [<code>Metainfo: update with closed issues (#2795)</code>](https://github.com/elementary/gala/commit/0c21201dde14f521f0ac36b22a2f27e61bcd33a8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -746,6 +756,10 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel/commit/5b0ea5fcbf00537acbd613f7312059207049a3d1)
 - [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel/commit/da5079fa99ce95ea0d3f797b092b5903a7e36b60)
+- [ ] [<code>Application: Granite handles styles (#673)</code>](https://github.com/elementary/wingpanel/commit/04d49aa33de7646e2818414b07ee39b60314500f)
+- [ ] [<code>README: Update granite and GTK4 dep (#677)</code>](https://github.com/elementary/wingpanel/commit/d6c5ed312144ea44c666b67faf3064623d3feaa1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -815,6 +829,9 @@
 - [ ] [<code>Bump Wingpanel from 8 to 9 (#326)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/182a225c1bc632bd4c85e82471dd61879f58cfc1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix easy style class deprecations (#327)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/b2cd17525d04d4441fd91dba684a7aef231b33ab)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -933,6 +950,7 @@
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
 - [ ] [<code>Reduce margin between microphone and speaker by using composited-indicator class (#318)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8df888f05079f3da53db428a8acc6bfff56dfcf0)
+- [ ] [<code>Fix the microphone symbol appearing on playback (#317)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/386f5b4afd15c2a97dc0e8fb6b11fb9fbf105953)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -949,6 +967,9 @@
 - [ ] [<code>Metainfo: add 7.8.1 release notes (#959)</code>](https://github.com/elementary/granite/commit/72ce5cca664c7ad79fbac515d3ead391883da1d0)
 - [ ] [<code>Metainfo: add issues/961 (#964)</code>](https://github.com/elementary/granite/commit/eac688b742c61134c2b020320a5b80a40975ff4d)
 - [ ] [<code>Icons: add points of interest (#963)</code>](https://github.com/elementary/granite/commit/9f6456b975df89cea7483e51a4366a73418d16c6)
+- [ ] [<code>Release 7.8.1 (#960)</code>](https://github.com/elementary/granite/commit/4cd5188619e65f2f2410c9af834df903f6e4f85e)
+  - <sub>Tags: <code>7.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
