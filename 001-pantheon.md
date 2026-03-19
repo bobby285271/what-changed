@@ -773,6 +773,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>GridView: current_grid_key → set_page (#699)</code>](https://github.com/elementary/applications-menu/commit/a710410cb9692f8e49362ad80091a0eee73c3b8f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Replace chaining signals with get_ancestor.popdown (#705)</code>](https://github.com/elementary/applications-menu/commit/ec81ff2292d81702a306c1b59d64dbe9ed6a350e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -873,6 +875,10 @@
 - [ ] [<code>Meson: fix deprecation warnings (#362)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/bb657b10da5eb64045061bc2afd1b8be48464812)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to Gtk4 (#322)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/e3aed9822fdae4ee73957087bc7fd42c808a9eca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel-indicator-network/commit/199b19eeeb182c16bcea8c2a467e0cd88abb0e2d)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -927,6 +933,10 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#300)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f3bcff2180b08ca546a2cb6ae9410a5a581c4eda)
 - [ ] [<code>NotificationEntry: replace Deck with Carousel (#301)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/81a8ed11236183f9543ed0533fa8656890896dfa)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Port to GTK4 (#289)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/10cd1d54415bf9320a5b277a029fd0f77c9c171f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update URLs</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/3fe9ddfadf61e278b1572ff3fe297305765579a2)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -951,6 +961,10 @@
 
 - [ ] [<code>Reduce margin between microphone and speaker by using composited-indicator class (#318)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8df888f05079f3da53db428a8acc6bfff56dfcf0)
 - [ ] [<code>Fix the microphone symbol appearing on playback (#317)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/386f5b4afd15c2a97dc0e8fb6b11fb9fbf105953)
+- [ ] [<code>PlayerList: Use Gtk.ListBox (#321)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ec5caa6e9d56c5113135d9b36d72060c0d5624ec)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PlayerRow: use GtkGesture for title events (#319)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/55141c6f1942dbad09a0e9eccbc49356b9c1bab7)
+- [ ] [<code>Indicator: put input controls in a revealer (#320)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d1cbaa8e01cb76035e30bb6d67388c7087b15413)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -970,6 +984,9 @@
 - [ ] [<code>Release 7.8.1 (#960)</code>](https://github.com/elementary/granite/commit/4cd5188619e65f2f2410c9af834df903f6e4f85e)
   - <sub>Tags: <code>7.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump to 9 (#949)</code>](https://github.com/elementary/granite/commit/17b5b46cbc18cb473b1519d0e02e25fe7d004ebe)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1040,6 +1057,7 @@
 - [ ] [<code>PortalDialog: make button construction internal (#177)</code>](https://github.com/elementary/portals/commit/43fab1ddfb2337c2dea3dad586ed5f4dd21a5258)
 - [ ] [<code>Screencast: redesign icon as circle (#181)</code>](https://github.com/elementary/portals/commit/ef4730c140335224a3502bc016a216ee5f7cd749)
 - [ ] [<code>Access: use PortalDialog (#178)</code>](https://github.com/elementary/portals/commit/cae4799703f94a20b801e7293260d8f3c0ae60f2)
+- [ ] [<code>Session: don't destroy dialog before setup recording (#183)</code>](https://github.com/elementary/portals/commit/df7982a35d97853c604e6be78386e0a1950847a7)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
