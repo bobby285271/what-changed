@@ -326,6 +326,14 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2301)</code>](https://github.com/alainm23/planify/commit/c3edd918cbd5b5cf2b29837cd2c344094eb5f3ca)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Translations update from Hosted Weblate (#2302)</code>](https://github.com/alainm23/planify/commit/cffd9602e5c3565c0f37b1f595e97227404750ee)
+- [ ] [<code>Translations update from Hosted Weblate (#2308)</code>](https://github.com/alainm23/planify/commit/e32c244a4268f5ad99227c89f371e0af6eee4106)
+- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/aac0ee2384d4d75b83d82f1900afd45401f45daf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Release 4.18.2 (#2310)</code>](https://github.com/alainm23/planify/commit/69fe2f3a233e4e34028ca4f7e845aebc65378cce)
+  - <sub>Tags: <code>v4.18.2</code></sub>
+- [ ] [<code>Release 4.18.3 (#2311)</code>](https://github.com/alainm23/planify/commit/c6ec62b146a801f8303093c85dd77028e67ca2be)
+  - <sub>Tags: <code>v4.18.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
