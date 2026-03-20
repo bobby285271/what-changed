@@ -284,56 +284,8 @@
 - [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
 - [ ] [<code>l10n: Add Vietnamese (vi) translation (#348)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b4b56201a3b7bf3120df2ae5c9cad38ab9c82efa)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.0...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
-- [ ] [<code>Set parse_recurrence to true for recurrence tests (#2247)</code>](https://github.com/alainm23/planify/commit/9052f80561a0752dbd182334bf271c1e4236d143)
-- [ ] [<code>Fix: clear project cache when adding items via quick add (#2251)</code>](https://github.com/alainm23/planify/commit/f5e67d5ec8fb9bfefa8910d669d6b988221a77f0)
-- [ ] [<code>Fix multi-day calendar event display in Scheduled view (#2253)</code>](https://github.com/alainm23/planify/commit/fd6b6fee44c2b6eae15c388cd0e5bbb868673aa9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: improve datetime picker (#2261)</code>](https://github.com/alainm23/planify/commit/679c9a0fb69633bee03e81214fcb8c4990d88f02)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>handle negative child_order (#2260)</code>](https://github.com/alainm23/planify/commit/45d3dc03f8abd8b9243ca24fc6aba571b33747dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update references for "main" branch (#2216) (#2263)</code>](https://github.com/alainm23/planify/commit/b89404d47518f28625cd14215042cc4083e31d61)
-- [ ] [<code>app property (#2264)</code>](https://github.com/alainm23/planify/commit/5d394d3abbfbe27b327768bd478bba4ca4254988)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: Prevent crash when deleting multiple tasks via multiselect (#2265)</code>](https://github.com/alainm23/planify/commit/5a3bf74ae3df1a7e165e66f93b10cf1d26133184)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: Prevent duplicate task submissions and restore keyboard shortcuts (#2269)</code>](https://github.com/alainm23/planify/commit/d3bb4cedc75eec29b33bc48b38529d2700b18bd9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>change the default metadata installing path (#2274)</code>](https://github.com/alainm23/planify/commit/d90bbd6fc34fb56961d61afab536b45e7467a370)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2267)</code>](https://github.com/alainm23/planify/commit/0682c1a83d22448637dc9637e70324a3f8bb598d)
-- [ ] [<code>Translations update from Hosted Weblate (#2248)</code>](https://github.com/alainm23/planify/commit/6565224343673c52b4563171c737d1716e472b9b)
-- [ ] [<code>Translations update from Hosted Weblate (#2282)</code>](https://github.com/alainm23/planify/commit/34c391806d2d34f8dec6bc1fc3f871bef250f594)
-- [ ] [<code>Translations update from Hosted Weblate (#2283)</code>](https://github.com/alainm23/planify/commit/6d5707a2cd84dd6b747c46963b5e8e26aa52b0ba)
-- [ ] [<code>Bump actions/upload-artifact from 6 to 7 (#2290)</code>](https://github.com/alainm23/planify/commit/89b1b2e9e62593d889d70c90ff6bf67d02bba9cc)
-- [ ] [<code>Translations update from Hosted Weblate (#2291)</code>](https://github.com/alainm23/planify/commit/626bdc22f41d42c95c1918ec49d4969460ca6ee6)
-- [ ] [<code>Translations update from Hosted Weblate (#2292)</code>](https://github.com/alainm23/planify/commit/5761e6982fedd9de89faf22077443b67f54b32fd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2293)</code>](https://github.com/alainm23/planify/commit/f8abc1be624f83a73f280e641ad287ae255a73ec)
-- [ ] [<code>test: add Spanish locale Chrono parser tests (#2284)</code>](https://github.com/alainm23/planify/commit/3dbd5f19152454248462d96cd6ac4fd940c06bb2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix conversion to string (#2297)</code>](https://github.com/alainm23/planify/commit/d32f55793303473777cee4b19d07b36d0998b9eb)
-- [ ] [<code>fix: index offset in drag'n'drop (#2298)</code>](https://github.com/alainm23/planify/commit/fdc43ab75943f5ffb1f372dbe5fffd1f46d84591)
-- [ ] [<code>CalendarEvents: Avoid Posix.NLTime if not available (#2268)</code>](https://github.com/alainm23/planify/commit/172bc5ba1e98a4995c3cdeb4d5037f90a0d171c1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fix (#2299)</code>](https://github.com/alainm23/planify/commit/34b6257b4ea26aac44a061321bafdee2612cf1e5)
-- [ ] [<code>Initial CLI interface (#2241)</code>](https://github.com/alainm23/planify/commit/fe62af9ca407f85d2290562d74a6c4e9cf0fa872)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2301)</code>](https://github.com/alainm23/planify/commit/c3edd918cbd5b5cf2b29837cd2c344094eb5f3ca)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2302)</code>](https://github.com/alainm23/planify/commit/cffd9602e5c3565c0f37b1f595e97227404750ee)
-- [ ] [<code>Translations update from Hosted Weblate (#2308)</code>](https://github.com/alainm23/planify/commit/e32c244a4268f5ad99227c89f371e0af6eee4106)
-- [ ] [<code>Update meson.build</code>](https://github.com/alainm23/planify/commit/aac0ee2384d4d75b83d82f1900afd45401f45daf)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Release 4.18.2 (#2310)</code>](https://github.com/alainm23/planify/commit/69fe2f3a233e4e34028ca4f7e845aebc65378cce)
-  - <sub>Tags: <code>v4.18.2</code></sub>
-- [ ] [<code>Release 4.18.3 (#2311)</code>](https://github.com/alainm23/planify/commit/c6ec62b146a801f8303093c85dd77028e67ca2be)
-  - <sub>Tags: <code>v4.18.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
