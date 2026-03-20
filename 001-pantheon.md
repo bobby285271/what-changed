@@ -128,25 +128,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#301)</code>](https://github.com/elementary/camera/commit/5b499f5b6087f93a1612c7397f67e53e2518b3c5)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.1.2...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.2.0...HEAD)
 
-- [ ] [<code>Guard FileView recursion against file nodes (#1661)</code>](https://github.com/elementary/code/commit/a398925f6fd75f3194740ef5a7c6b0dadf069983)
-- [ ] [<code>Disable-able Syntax Highlighting Preference (#1664)</code>](https://github.com/elementary/code/commit/bd59edd097d54652043eea5131a38253a0b2f714)
-- [ ] [<code>SourceList/Item: use GLib.Menu (#1676)</code>](https://github.com/elementary/code/commit/79766abde98d1aed83fd7d00667b0993a067b5fa)
-- [ ] [<code>SourceView: prepare context menu for GLib.Menu (#1675)</code>](https://github.com/elementary/code/commit/e71134ae982cfbf4a7a87c984cce8aca9ae4f942)
-- [ ] [<code>elementary high contrast (light) stylescheme (#1602)</code>](https://github.com/elementary/code/commit/93bdc43a94b62b14f2ea27da5d7bd092769a7bba)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#1679)</code>](https://github.com/elementary/code/commit/8c7db83208da9eb89a1588928cc638e2e1b99ce3)
-- [ ] [<code>One Pastebin upload dialog (#1683)</code>](https://github.com/elementary/code/commit/2a573b63fbc7df58493de6b35f3c5ea9a181d82e)
-- [ ] [<code>Ensure terminal pane shell location correct when opened (#1574)</code>](https://github.com/elementary/code/commit/d065ae95568c821e4be01f93bbe6c7e4959904d8)
-- [ ] [<code>Add metainfo for release 8.2.0 (#1682)</code>](https://github.com/elementary/code/commit/ae791f8e0c5d69aa55190efcfc0d665fee6d1756)
-- [ ] [<code>Option to keep folders sorted (#1687)</code>](https://github.com/elementary/code/commit/13c8bd6faa26875db24847058892d53de944e551)
-- [ ] [<code>Escape search term when not using Regex expression in global search (#1669)</code>](https://github.com/elementary/code/commit/77aa937ecafbc1396c83a7d96ce0ab92322660ae)
-- [ ] [<code>Update metainfo for v8.2.0 (#1693)</code>](https://github.com/elementary/code/commit/5353a0f5533cad744ae010fb3ce7c1205ee72ce3)
-- [ ] [<code>Jeremypw/release 8.2.0 (#1695)</code>](https://github.com/elementary/code/commit/643a55ee8a4770459c6bfe517871d759c3b00380)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
@@ -879,6 +862,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel-indicator-network/commit/199b19eeeb182c16bcea8c2a467e0cd88abb0e2d)
+- [ ] [<code>Update RDNN (#364)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6b1ba43c17033bb73bc6dd03e4fe57a2ca54b2bd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -973,20 +958,13 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 ## libraries
 
-#### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.0 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.0...HEAD)
+#### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
 
-- [ ] [<code>ListItem: set context menu cursor with menu model (#954)</code>](https://github.com/elementary/granite/commit/7cddfeb8a1460a02bfab34eb1641ccc3563018a2)
-- [ ] [<code>Styles: optionally build install gtk styles (#953)</code>](https://github.com/elementary/granite/commit/75fe3ad3c31aa7ab7233a64ed88749f5d9b77da8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 7.8.1 release notes (#959)</code>](https://github.com/elementary/granite/commit/72ce5cca664c7ad79fbac515d3ead391883da1d0)
-- [ ] [<code>Metainfo: add issues/961 (#964)</code>](https://github.com/elementary/granite/commit/eac688b742c61134c2b020320a5b80a40975ff4d)
-- [ ] [<code>Icons: add points of interest (#963)</code>](https://github.com/elementary/granite/commit/9f6456b975df89cea7483e51a4366a73418d16c6)
-- [ ] [<code>Release 7.8.1 (#960)</code>](https://github.com/elementary/granite/commit/4cd5188619e65f2f2410c9af834df903f6e4f85e)
-  - <sub>Tags: <code>7.8.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump to 9 (#949)</code>](https://github.com/elementary/granite/commit/17b5b46cbc18cb473b1519d0e02e25fe7d004ebe)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Meson: build stylesheets by default (#966)</code>](https://github.com/elementary/granite/commit/38314d88298c4605ab1a44ce7ef4ad53806225db)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1105,3 +1083,4 @@
 - [ ] [<code>desktop: Update panel package names (#147)</code>](https://github.com/elementary/seeds/commit/463e85c0a7bdd279d45ad5ce9d2c54c1cf00b13a)
 - [ ] [<code>SDK: add wingpanel-9, remove unity (#150)</code>](https://github.com/elementary/seeds/commit/157dd83e0adfa1ccabc4b9d9e7356dd6199af86d)
 - [ ] [<code>Pantheon: remove io.elementary.print (#151)</code>](https://github.com/elementary/seeds/commit/b0c8818c88e6b5bcda260940863880e1764db90e)
+- [ ] [<code>Desktop: Update more panel plugin names</code>](https://github.com/elementary/seeds/commit/02518b777cab2e67014b5a4129a6efaef384fc88)
