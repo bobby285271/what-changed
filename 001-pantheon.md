@@ -965,6 +965,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Meson: build stylesheets by default (#966)</code>](https://github.com/elementary/granite/commit/38314d88298c4605ab1a44ce7ef4ad53806225db)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>rename pot file</code>](https://github.com/elementary/granite/commit/65d78bd82efdfca73f25f079c4da9b71e8c9a30d)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
