@@ -286,6 +286,8 @@
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
+- [ ] [<code>feat: background (#2270)</code>](https://github.com/alainm23/planify/commit/6af64f8d8bf376513e86874de73f2e081c1e86f5)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
