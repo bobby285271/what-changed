@@ -285,6 +285,11 @@
 - [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
 - [ ] [<code>l10n: Add Vietnamese (vi) translation (#348)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b4b56201a3b7bf3120df2ae5c9cad38ab9c82efa)
 - [ ] [<code>chore: flatpak: Update GNOME platform to 50 (#353)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/76ea59b034f6d2929a5f17f62917e436f9cc4db2)
+- [ ] [<code>chore: metainfo: Drop support for appstream-glib (#354)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/43ec4236ba8d04018c1a73c414bcd43da9775917)
+- [ ] [<code>chore: metainfo: Reorder and have newlines as separators</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fa4c3e281be0cfd0c5e8d20762eb282683d1c43f)
+- [ ] [<code>chore: metainfo: Leave comment about description translate="no"</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a1e35d089ad55fa453a624b39c7e481e9ecc8f05)
+- [ ] [<code>chore: Appearance: Rename to "Legacy Dark Style" (#355)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4858bd602951b4190cb7c06385dea526b87cf0cf)
+- [ ] [<code>chore: actions: Use gnome-50 image</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/41bf4d2e9390a73439a695d1d4530f47b9cef264)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
