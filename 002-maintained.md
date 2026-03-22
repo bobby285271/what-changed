@@ -278,16 +278,23 @@
 - [ ] [<code>Fixing issue with resetting shortcuts to Minder defaults</code>](https://github.com/phase1geo/minder/commit/3ace41a818737ce1eeffb6e61b7620880e85b0b5)
 - [ ] [<code>Checkpointing work on RTL layout fixes in CanvasText.</code>](https://github.com/phase1geo/minder/commit/232b1c42922e383101c090dde6301904d8572748)
 - [ ] [<code>Merge branch 'rtl-fix'</code>](https://github.com/phase1geo/minder/commit/4b6b2914d6c3d396b1f8d31779d7d210bc8c1f12)
+- [ ] [<code>Fixing issue root node selection when nothing is currently selected.</code>](https://github.com/phase1geo/minder/commit/82ede6e96312fc01e754273e835afc47914fb8e3)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
 - [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
 - [ ] [<code>l10n: Add Vietnamese (vi) translation (#348)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b4b56201a3b7bf3120df2ae5c9cad38ab9c82efa)
+- [ ] [<code>chore: flatpak: Update GNOME platform to 50 (#353)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/76ea59b034f6d2929a5f17f62917e436f9cc4db2)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
 - [ ] [<code>feat: background (#2270)</code>](https://github.com/alainm23/planify/commit/6af64f8d8bf376513e86874de73f2e081c1e86f5)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>update text (#2313)</code>](https://github.com/alainm23/planify/commit/55c2955e1a68544287847208a08be531bf90e7f7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: filter labels from archived projects in Labels view and Label Picker (#2315)</code>](https://github.com/alainm23/planify/commit/e1033b6ae2332b2dfb00b6d864b736c0e8a21edf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add AI Policy for contributors (#2316)</code>](https://github.com/alainm23/planify/commit/55bbf90c230a9088e27c1c6c1aa6ec677b4cd6c6)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
