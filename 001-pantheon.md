@@ -546,6 +546,7 @@
 - [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#557)</code>](https://github.com/elementary/settings-keyboard/commit/37e528c267666dac01376f9b4c1c994e1de3acfb)
 - [ ] [<code>Metainfo: add 8.1.1 release notes (#562)</code>](https://github.com/elementary/settings-keyboard/commit/e73b330684b654024b3a41af4ff43e0d00f1f2e5)
+- [ ] [<code>InputMethod: Run "ibus start" instead of running ibus-daemon directly (#561)</code>](https://github.com/elementary/settings-keyboard/commit/1cc9beb1b5c5e192d62c47021c9afa54e5c51c2f)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
