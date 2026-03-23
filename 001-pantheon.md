@@ -265,6 +265,8 @@
 - [ ] [<code>Introduce a QueueView (#833)</code>](https://github.com/elementary/music/commit/ef87af5e3a5d98000d08282a41fbe0110e2f89d9)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Metadata in AudioObject (#834)</code>](https://github.com/elementary/music/commit/3eebdd2aab7ddd044748829f47a0948bd3478966)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -744,6 +746,11 @@
 - [ ] [<code>README: Update granite and GTK4 dep (#677)</code>](https://github.com/elementary/wingpanel/commit/d6c5ed312144ea44c666b67faf3064623d3feaa1)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Drop X11 (#672)</code>](https://github.com/elementary/wingpanel/commit/224a5ce5a8b68a5edee58676272963251f291242)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add blur to translucent styles (#678)</code>](https://github.com/elementary/wingpanel/commit/feb38baaa293c98dccb4825fa3d265833402b40c)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
