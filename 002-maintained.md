@@ -300,6 +300,9 @@
 - [ ] [<code>feat: filter labels from archived projects in Labels view and Label Picker (#2315)</code>](https://github.com/alainm23/planify/commit/e1033b6ae2332b2dfb00b6d864b736c0e8a21edf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add AI Policy for contributors (#2316)</code>](https://github.com/alainm23/planify/commit/55bbf90c230a9088e27c1c6c1aa6ec677b4cd6c6)
+- [ ] [<code>fix portal error (#2318)</code>](https://github.com/alainm23/planify/commit/42114b8d41cdb29c3b75564ccb2f8eb00c1e0764)
+- [ ] [<code>Remove mo files (#2319)</code>](https://github.com/alainm23/planify/commit/78c9fcbe51b2482ac3f3bdb5bd65003401ed62d1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
