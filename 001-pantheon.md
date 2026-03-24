@@ -709,6 +709,7 @@
 - [ ] [<code>Application: Granite.init (#166)</code>](https://github.com/elementary/shortcut-overlay/commit/71b37c55e917f9295f7db68ca218137743cfe044)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix granite style class deprecation (#168)</code>](https://github.com/elementary/shortcut-overlay/commit/619d604cc82ec6beeaf28a21bb182d897e93956a)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -750,6 +751,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add blur to translucent styles (#678)</code>](https://github.com/elementary/wingpanel/commit/feb38baaa293c98dccb4825fa3d265833402b40c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PanelWindow: replace deprecated get_allocated_height (#680)</code>](https://github.com/elementary/wingpanel/commit/6ad51cfc7b6cc975a59dbac5e6006b2b2dca638c)
+- [ ] [<code>Application: register actions in startup (#674)</code>](https://github.com/elementary/wingpanel/commit/0303b8e7fce0e9c5a4636d0854a84ae8e86be5a5)
+- [ ] [<code>Remove IndicatorPopover class (#681)</code>](https://github.com/elementary/wingpanel/commit/42d09931e653bbeef225b794d24a7b0668c710e0)
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
@@ -974,6 +980,7 @@
 - [ ] [<code>Meson: build stylesheets by default (#966)</code>](https://github.com/elementary/granite/commit/38314d88298c4605ab1a44ce7ef4ad53806225db)
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>rename pot file</code>](https://github.com/elementary/granite/commit/65d78bd82efdfca73f25f079c4da9b71e8c9a30d)
+- [ ] [<code>Replace deprecated hide with visible (#968)</code>](https://github.com/elementary/granite/commit/fde869baeb961774afd40d7e6af12d035da0a528)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
