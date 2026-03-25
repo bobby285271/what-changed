@@ -303,6 +303,9 @@
 - [ ] [<code>fix portal error (#2318)</code>](https://github.com/alainm23/planify/commit/42114b8d41cdb29c3b75564ccb2f8eb00c1e0764)
 - [ ] [<code>Remove mo files (#2319)</code>](https://github.com/alainm23/planify/commit/78c9fcbe51b2482ac3f3bdb5bd65003401ed62d1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix (#2320)</code>](https://github.com/alainm23/planify/commit/b28d6a0a7549929768a0776ba6fd438ad6c275e8)
+- [ ] [<code>fix (#2321)</code>](https://github.com/alainm23/planify/commit/8159b7ec914d8c16baee62e3cc93028d51b29d89)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
