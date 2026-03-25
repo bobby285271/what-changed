@@ -732,6 +732,9 @@
 - [ ] [<code>GestureController: Safeguard START/END pair</code>](https://github.com/elementary/gala/commit/7eedab32a54f51e4d94ed3929de0cb1fa5270c35)
 - [ ] [<code>GestureController: Propagate commit after timeline was started</code>](https://github.com/elementary/gala/commit/c93e68908516cf62b7408ec845fad5a147737e7a)
 - [ ] [<code>Metainfo: update with closed issues (#2795)</code>](https://github.com/elementary/gala/commit/0c21201dde14f521f0ac36b22a2f27e61bcd33a8)
+- [ ] [<code>Add support for Mutter 50 (#2764)</code>](https://github.com/elementary/gala/commit/cc8f51523412fa48e687fe0a1db5c7b34f12c714)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
