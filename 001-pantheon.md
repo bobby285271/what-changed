@@ -735,6 +735,7 @@
 - [ ] [<code>Add support for Mutter 50 (#2764)</code>](https://github.com/elementary/gala/commit/cc8f51523412fa48e687fe0a1db5c7b34f12c714)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>HideTracker: Make sure to remove the pan action on destruction (#2801)</code>](https://github.com/elementary/gala/commit/4b15f84af7e1973d9e6596bb381810113ddee948)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -760,6 +761,7 @@
 - [ ] [<code>Remove IndicatorPopover class (#681)</code>](https://github.com/elementary/wingpanel/commit/42d09931e653bbeef225b794d24a7b0668c710e0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PanelWindow: Remove leftover size handling (#684)</code>](https://github.com/elementary/wingpanel/commit/74c763c25b37ca7af8b17f26d508392fc39ea3a3)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -973,6 +975,7 @@
 - [ ] [<code>Port to GTK4 (#106)</code>](https://github.com/elementary/quick-settings/commit/ddb7019a38f6265791f3286ed95631f8794dd44a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Resource text size icons (#146)</code>](https://github.com/elementary/quick-settings/commit/1751e659c4a7b40de9efc7ea61f0a03d7650228d)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
@@ -984,6 +987,7 @@
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>rename pot file</code>](https://github.com/elementary/granite/commit/65d78bd82efdfca73f25f079c4da9b71e8c9a30d)
 - [ ] [<code>Replace deprecated hide with visible (#968)</code>](https://github.com/elementary/granite/commit/fde869baeb961774afd40d7e6af12d035da0a528)
+- [ ] [<code>Styles/Gtk/Button: add Link styles (#970)</code>](https://github.com/elementary/granite/commit/060faadd88f7926c62fcf3c52ca5cb0bcb960ada)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1055,6 +1059,9 @@
 - [ ] [<code>Screencast: redesign icon as circle (#181)</code>](https://github.com/elementary/portals/commit/ef4730c140335224a3502bc016a216ee5f7cd749)
 - [ ] [<code>Access: use PortalDialog (#178)</code>](https://github.com/elementary/portals/commit/cae4799703f94a20b801e7293260d8f3c0ae60f2)
 - [ ] [<code>Session: don't destroy dialog before setup recording (#183)</code>](https://github.com/elementary/portals/commit/df7982a35d97853c604e6be78386e0a1950847a7)
+- [ ] [<code>Create Account portal (#180)</code>](https://github.com/elementary/portals/commit/9abbdf5386e8e4fe4c5fc3f6b616945f55129b38)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
