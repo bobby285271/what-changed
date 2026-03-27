@@ -306,6 +306,9 @@
 - [ ] [<code>fix (#2320)</code>](https://github.com/alainm23/planify/commit/b28d6a0a7549929768a0776ba6fd438ad6c275e8)
 - [ ] [<code>fix (#2321)</code>](https://github.com/alainm23/planify/commit/8159b7ec914d8c16baee62e3cc93028d51b29d89)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add Summary & Productivity dialog (Phase 1) (#2323)</code>](https://github.com/alainm23/planify/commit/1f3013d85f09bc992bffacb39f2faf8e56e2bb36)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
