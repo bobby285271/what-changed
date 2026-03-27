@@ -257,6 +257,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix linting; comment out debug</code>](https://github.com/elementary/monitor/commit/ec9effb569a701c98b3d44af0e24c96a07525349)
 - [ ] [<code>Change warning logs to debug logs for GPU queries (#529)</code>](https://github.com/elementary/monitor/commit/7daaa9d0c2683115b3e9895423a0ae00e86bb928)
+- [ ] [<code>MainWindow: do not destroy the MainWindow on close when the indicator is enabled</code>](https://github.com/elementary/monitor/commit/997b804641f39ad34831fff6eabc7da3aa915ce1)
+- [ ] [<code>MainWindow: Use GDK consts to handle close request</code>](https://github.com/elementary/monitor/commit/f25e8d320761dee348e429ce5fc078a8150729d1)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -762,6 +764,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>PanelWindow: Remove leftover size handling (#684)</code>](https://github.com/elementary/wingpanel/commit/74c763c25b37ca7af8b17f26d508392fc39ea3a3)
+- [ ] [<code>Fix Indicators not opening in translucent style (#685)</code>](https://github.com/elementary/wingpanel/commit/b70224255834c72034c6fb0aa1fe5b72fd672a92)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
