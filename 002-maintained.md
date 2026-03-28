@@ -309,6 +309,13 @@
 - [ ] [<code>feat: add Summary & Productivity dialog (Phase 1) (#2323)</code>](https://github.com/alainm23/planify/commit/1f3013d85f09bc992bffacb39f2faf8e56e2bb36)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add PDF export for projects (#2324)</code>](https://github.com/alainm23/planify/commit/03b5cd32c3c9f4e113a9f0c063940c74039090b7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix calendar day alignment and show 3 weeks ahead (#2325)</code>](https://github.com/alainm23/planify/commit/d2a00b1444e8b444fe1f41c5e4370cafab43e2a4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2322)</code>](https://github.com/alainm23/planify/commit/78ca3c9b6371ddb0bfd451b65a91d02b3f4002d6)
+- [ ] [<code>Translations update from Hosted Weblate (#2317)</code>](https://github.com/alainm23/planify/commit/904f0ae34b962510a8e35b8d9faf432941df1837)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
