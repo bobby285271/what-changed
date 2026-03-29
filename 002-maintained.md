@@ -279,6 +279,8 @@
 - [ ] [<code>Checkpointing work on RTL layout fixes in CanvasText.</code>](https://github.com/phase1geo/minder/commit/232b1c42922e383101c090dde6301904d8572748)
 - [ ] [<code>Merge branch 'rtl-fix'</code>](https://github.com/phase1geo/minder/commit/4b6b2914d6c3d396b1f8d31779d7d210bc8c1f12)
 - [ ] [<code>Fixing issue root node selection when nothing is currently selected.</code>](https://github.com/phase1geo/minder/commit/82ede6e96312fc01e754273e835afc47914fb8e3)
+- [ ] [<code>Fixing issues with drag/drop tags.</code>](https://github.com/phase1geo/minder/commit/9832e64638c063199a04e6f59677172b6c02a1e5)
+- [ ] [<code>Fixing issues with copying a node with tags.</code>](https://github.com/phase1geo/minder/commit/9a645929826aee764106739b3f89ee23afb60e74)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
