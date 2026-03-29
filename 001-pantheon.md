@@ -200,6 +200,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CI: add systemd-dev (#2769)</code>](https://github.com/elementary/files/commit/64b13e7823a5b644a87e406b3a7c27ec81ec9765)
+- [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/970d6a2babf98376396af0e5f4fb5d45ee31d778)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
