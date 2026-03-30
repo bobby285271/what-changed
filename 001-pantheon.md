@@ -680,6 +680,9 @@
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
 - [ ] [<code>Don't rely on gala gsettings key (#861)</code>](https://github.com/elementary/greeter/commit/2dd730c714a5c83b65b2ce70ac659929d32537c5)
+- [ ] [<code>Add support for Mutter 50 (#867)</code>](https://github.com/elementary/greeter/commit/5678e1c826c81ed6b7cd58daa79300f3e38dcc2c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
 
