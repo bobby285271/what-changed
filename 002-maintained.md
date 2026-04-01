@@ -292,6 +292,7 @@
 - [ ] [<code>chore: metainfo: Leave comment about description translate="no"</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a1e35d089ad55fa453a624b39c7e481e9ecc8f05)
 - [ ] [<code>chore: Appearance: Rename to "Legacy Dark Style" (#355)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4858bd602951b4190cb7c06385dea526b87cf0cf)
 - [ ] [<code>chore: actions: Use gnome-50 image</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/41bf4d2e9390a73439a695d1d4530f47b9cef264)
+- [ ] [<code>feat: Dialog: Drop support URL (#356)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dd0fef8f91162e89b10b6ea5596c6d7d47145cc8)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
