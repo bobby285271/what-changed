@@ -281,6 +281,9 @@
 - [ ] [<code>Fixing issue root node selection when nothing is currently selected.</code>](https://github.com/phase1geo/minder/commit/82ede6e96312fc01e754273e835afc47914fb8e3)
 - [ ] [<code>Fixing issues with drag/drop tags.</code>](https://github.com/phase1geo/minder/commit/9832e64638c063199a04e6f59677172b6c02a1e5)
 - [ ] [<code>Fixing issues with copying a node with tags.</code>](https://github.com/phase1geo/minder/commit/9a645929826aee764106739b3f89ee23afb60e74)
+- [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/baa8123a97d846191890f7949940b94f38f6786d)
+- [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/ebd70b74518107b52daf56bde291d4ddaf218441)
+- [ ] [<code>Merge pull request #726 from EkaterinePapava/master</code>](https://github.com/phase1geo/minder/commit/f041d1b67a3d1ed438f4a3aa5448a6b18918bcda)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
