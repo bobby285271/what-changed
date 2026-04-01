@@ -37,6 +37,9 @@
 - [ ] [<code>FlatpakBackend: Speedup get_packages_for_component_id</code>](https://github.com/elementary/appcenter/commit/5db1ae0b95d4ba576b88dbab36cc2bb4a4d2172e)
 - [ ] [<code>Metainfo: add 8.4.0 release notes (#2430)</code>](https://github.com/elementary/appcenter/commit/b561a12fb076937765e0b0d89c8affa239305108)
 - [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/d7cf5eaf737c76afbae611565d2e19b4a569c0b4)
+- [ ] [<code>Release 8.4.0 (#2431)</code>](https://github.com/elementary/appcenter/commit/5f348652e58a817686c6cf101f8cdbe3bdb3024b)
+  - <sub>Tags: <code>8.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -769,6 +772,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>PanelWindow: Remove leftover size handling (#684)</code>](https://github.com/elementary/wingpanel/commit/74c763c25b37ca7af8b17f26d508392fc39ea3a3)
 - [ ] [<code>Fix Indicators not opening in translucent style (#685)</code>](https://github.com/elementary/wingpanel/commit/b70224255834c72034c6fb0aa1fe5b72fd672a92)
+- [ ] [<code>Update vapi for Mutter50 (#679)</code>](https://github.com/elementary/wingpanel/commit/8bc5eeb8f97c436494f744211046992d83a5e0b4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
