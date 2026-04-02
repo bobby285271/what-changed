@@ -1,45 +1,8 @@
 # what-changed (Pantheon)
 ## apps
 
-#### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.3.2...HEAD)
+#### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.4.0...HEAD)
 
-- [ ] [<code>(Re)introduce a backend interface</code>](https://github.com/elementary/appcenter/commit/19e15255ff2e86c2e0d3b7c01dea2cfc74f1af72)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Readme: Remove mention of restart required message</code>](https://github.com/elementary/appcenter/commit/22145ef7069c8c5f01263b85064d45a9babdc5ab)
-- [ ] [<code>Remove unused AsyncMutex and SuspendControl (#2409)</code>](https://github.com/elementary/appcenter/commit/ad62283cdc65584e9015b50a8665ee8dde9c5174)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>HumbleButton: Remove unused allow free (#2408)</code>](https://github.com/elementary/appcenter/commit/879e8296b33c1d2ddbd5c3282b3fef8145275c8d)
-- [ ] [<code>Package/get_icon: Downgrade warnings about unknown and remote to debug</code>](https://github.com/elementary/appcenter/commit/a0fad5dc82c37d002e42bb38643846ee2ca0c292)
-- [ ] [<code>AppIcon: Compare remote name not title</code>](https://github.com/elementary/appcenter/commit/2d4a4828c000d50295dfded519d16cfcd652ef53)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/appcenter/commit/2976b4c56272767d4e10f70f7b2b2f2dc13c5bc5)
-- [ ] [<code>Fix empty toast on unknown operation (update) (#2415)</code>](https://github.com/elementary/appcenter/commit/726ab3de824bacecb8b09fbffc24202991571417)
-- [ ] [<code>Don't check whether installed view is null because it always is (#2418)</code>](https://github.com/elementary/appcenter/commit/6288970345d9f57b96126bb24140ccd908982d83)
-- [ ] [<code>Screenshot: Guard against null color (#2417)</code>](https://github.com/elementary/appcenter/commit/e1a7f2d6116b6ae3d241f1db72ffe534e2ebdc2b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>BackButton: Guard against null previous page</code>](https://github.com/elementary/appcenter/commit/357cf0154005d5d1638cdb93a9483679b9e1c676)
-- [ ] [<code>Add comment about gtk critical that is always thrown</code>](https://github.com/elementary/appcenter/commit/1e8d273741bc874d79838e79364ce36416840b38)
-- [ ] [<code>AppListUpdateView: Clamp to 800 (#2407)</code>](https://github.com/elementary/appcenter/commit/7aca39e5ac0158e2d016743ae4fb20d631ade01c)
-- [ ] [<code>AppListUpdateView: set last checked as installed secondary text (#2420)</code>](https://github.com/elementary/appcenter/commit/5b82e0acdc188ecef388cb894239fcc4d962a4d3)
-- [ ] [<code>Homepage: Drop Appcenter banner</code>](https://github.com/elementary/appcenter/commit/bcad0732438b0a79f8629ad8444c39d4d1ae8523)
-- [ ] [<code>ChangeInfo: Update properties on the main thread, use property bindings (#2405)</code>](https://github.com/elementary/appcenter/commit/87ae37b9f2cd3373f2d5d01e0e3f0f77e17e3461)
-- [ ] [<code>Prepare speed up (#2419)</code>](https://github.com/elementary/appcenter/commit/a33face95f6fb3674cd8c9ff8e53830d00b59edf)
-- [ ] [<code>Banner: use Granite.HeaderLabel (#2423)</code>](https://github.com/elementary/appcenter/commit/4b993e284666e9e056d3a219161d061357204ed0)
-- [ ] [<code>Banner: simplify construction (#2422)</code>](https://github.com/elementary/appcenter/commit/04c3978c0466128c68de060296447af7675d4fb8)
-- [ ] [<code>Use HeaderLabel size property (#2425)</code>](https://github.com/elementary/appcenter/commit/cd5baaf27469e7d2e6b9a94bdb923242c1f1e4fd)
-- [ ] [<code>AppListUpdateView: Add a queue of working packages (#2424)</code>](https://github.com/elementary/appcenter/commit/04df4ab572d29eaee1a763ce717dc1160e682e73)
-- [ ] [<code>AppListUpdateView: put size in updates header secondary text (#2426)</code>](https://github.com/elementary/appcenter/commit/a499dc100fb7fa1dd90d994a94eaac3f49b7acb2)
-- [ ] [<code>AppStream.Pool: Don't load OS catalog (#2428)</code>](https://github.com/elementary/appcenter/commit/d96ccded1fce06375551a77fbd7852f4a5d3e580)
-- [ ] [<code>ListModels: Use n items instead of custom properties (#2427)</code>](https://github.com/elementary/appcenter/commit/b619f3c0559446378847a6229d4b58251652b89b)
-- [ ] [<code>ReleasesDialog: Make listbox no select (#2429)</code>](https://github.com/elementary/appcenter/commit/bb5fb618aeae4a26ac3687c071d924cdf08ae581)
-- [ ] [<code>FlatpakBackend: Introduce Component and flatten that to packages</code>](https://github.com/elementary/appcenter/commit/e4d5f5931ae881a73b9c210242b0f53262693295)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>FlatpakBackend: Speedup get_packages_for_component_id</code>](https://github.com/elementary/appcenter/commit/5db1ae0b95d4ba576b88dbab36cc2bb4a4d2172e)
-- [ ] [<code>Metainfo: add 8.4.0 release notes (#2430)</code>](https://github.com/elementary/appcenter/commit/b561a12fb076937765e0b0d89c8affa239305108)
-- [ ] [<code>Update appcenter.metainfo.xml.in</code>](https://github.com/elementary/appcenter/commit/d7cf5eaf737c76afbae611565d2e19b4a569c0b4)
-- [ ] [<code>Release 8.4.0 (#2431)</code>](https://github.com/elementary/appcenter/commit/5f348652e58a817686c6cf101f8cdbe3bdb3024b)
-  - <sub>Tags: <code>8.4.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
