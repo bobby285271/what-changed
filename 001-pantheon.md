@@ -518,6 +518,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#557)</code>](https://github.com/elementary/settings-keyboard/commit/37e528c267666dac01376f9b4c1c994e1de3acfb)
 - [ ] [<code>Metainfo: add 8.1.1 release notes (#562)</code>](https://github.com/elementary/settings-keyboard/commit/e73b330684b654024b3a41af4ff43e0d00f1f2e5)
 - [ ] [<code>InputMethod: Run "ibus start" instead of running ibus-daemon directly (#561)</code>](https://github.com/elementary/settings-keyboard/commit/1cc9beb1b5c5e192d62c47021c9afa54e5c51c2f)
+- [ ] [<code>Metainfo: add issue 940 to release notes (#563)</code>](https://github.com/elementary/settings-keyboard/commit/8243955c73cb0e684c53374965d2596182ade04c)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -708,6 +709,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>HideTracker: Make sure to remove the pan action on destruction (#2801)</code>](https://github.com/elementary/gala/commit/4b15f84af7e1973d9e6596bb381810113ddee948)
+- [ ] [<code>Release 8.4.2 (#2796)</code>](https://github.com/elementary/gala/commit/dcd03ce923fb59fde5049c5d83400715c40b43df)
+  - <sub>Tags: <code>8.4.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -964,6 +968,7 @@
 - [ ] [<code>rename pot file</code>](https://github.com/elementary/granite/commit/65d78bd82efdfca73f25f079c4da9b71e8c9a30d)
 - [ ] [<code>Replace deprecated hide with visible (#968)</code>](https://github.com/elementary/granite/commit/fde869baeb961774afd40d7e6af12d035da0a528)
 - [ ] [<code>Styles/Gtk/Button: add Link styles (#970)</code>](https://github.com/elementary/granite/commit/060faadd88f7926c62fcf3c52ca5cb0bcb960ada)
+- [ ] [<code>Styling: Add `.destructive` class for `button.text-button` (#870)</code>](https://github.com/elementary/granite/commit/0082672a634ffc3e4716ac83ec16b83aaaedd786)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1019,6 +1024,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Metainfo: add 8.0.3 release notes (#108)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/15244700e45240a2aa7d151cccf6ab76712612d8)
+- [ ] [<code>Implement basic Gcr support (#110)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/405ca20a4aae62a04e96a7e3826a637a3c75af57)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.1.0...HEAD)
 
