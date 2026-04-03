@@ -322,6 +322,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Translations update from Hosted Weblate (#2322)</code>](https://github.com/alainm23/planify/commit/78ca3c9b6371ddb0bfd451b65a91d02b3f4002d6)
 - [ ] [<code>Translations update from Hosted Weblate (#2317)</code>](https://github.com/alainm23/planify/commit/904f0ae34b962510a8e35b8d9faf432941df1837)
+- [ ] [<code>Replace WebKitGTK with external browser for Todoist OAuth (#2336)</code>](https://github.com/alainm23/planify/commit/76aa4f76bfaa65ded1ff0977c9466f98f61146b2)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Remove donate banner from Preferences (#2337)</code>](https://github.com/alainm23/planify/commit/3aaf86ba8503916b16c758cdb0a6b83a80d7de64)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
