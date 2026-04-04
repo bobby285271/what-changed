@@ -100,6 +100,7 @@
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
 - [ ] [<code>BackgroundItem: Launch app on list activate (#577)</code>](https://github.com/elementary/dock/commit/bdc5230ff1af65ff1d892c2a3311e44b4fe9ebe1)
+- [ ] [<code>Fix typo (#583)</code>](https://github.com/elementary/dock/commit/6bea248ad3292aa06e4266fdd75efa5a0fd27cc4)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -519,6 +520,9 @@
 - [ ] [<code>Metainfo: add 8.1.1 release notes (#562)</code>](https://github.com/elementary/settings-keyboard/commit/e73b330684b654024b3a41af4ff43e0d00f1f2e5)
 - [ ] [<code>InputMethod: Run "ibus start" instead of running ibus-daemon directly (#561)</code>](https://github.com/elementary/settings-keyboard/commit/1cc9beb1b5c5e192d62c47021c9afa54e5c51c2f)
 - [ ] [<code>Metainfo: add issue 940 to release notes (#563)</code>](https://github.com/elementary/settings-keyboard/commit/8243955c73cb0e684c53374965d2596182ade04c)
+- [ ] [<code>Release 8.1.1 (#564)</code>](https://github.com/elementary/settings-keyboard/commit/8243a1b2b37c4307dab4933837f11c74b1d3b65d)
+  - <sub>Tags: <code>8.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -563,6 +567,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Text: all font selection (#483)</code>](https://github.com/elementary/settings-desktop/commit/c643e85b15ec81d1386044af1644c60ceea7a922)
 - [ ] [<code>Metainfo: add 8.3.0 release notes (#485)</code>](https://github.com/elementary/settings-desktop/commit/5ebe657037e7a0613188e3712808802908e56708)
+- [ ] [<code>Release 8.3.0 (#488)</code>](https://github.com/elementary/settings-desktop/commit/ee68ac1ca4d905ea7b59febd26396e5a2035bf7b)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -657,6 +664,9 @@
 - [ ] [<code>StyleView: Support Latte (#261)</code>](https://github.com/elementary/onboarding/commit/dad9715400b1ffd9d827cef5514ec49d398b1e0c)
 - [ ] [<code>FinishView: explain how to access system settings (#274)</code>](https://github.com/elementary/onboarding/commit/3eb38ccc6669d432c929bd70ce32ecf84ed6b5a4)
 - [ ] [<code>Metainfo: Add 8.1.0 release notes (#275)</code>](https://github.com/elementary/onboarding/commit/13defb4241ea868c7dbab79b0a4d78bb15179dc0)
+- [ ] [<code>Release 8.1.0 (#276)</code>](https://github.com/elementary/onboarding/commit/41a7a6e73fe13bde30e5243899d8b8d6940b5c83)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -687,31 +697,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.1...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.2 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.2...HEAD)
 
-- [ ] [<code>Zoom: update cursor position every frame (#2749)</code>](https://github.com/elementary/gala/commit/dcd2ff8500b88e9e7cacca0e2f84fb37b2675662)
-- [ ] [<code>SwipeTrigger: trigger only on scroll events on touchpad (#2771)</code>](https://github.com/elementary/gala/commit/c72233470cdccdcb44e2c1c0fc957be1a38d5a98)
-- [ ] [<code>BackgroundBlurEffect: remove unused actor pipeline (#2774)</code>](https://github.com/elementary/gala/commit/83556fb0f259da5076e4fb284d8d5b5c67d8b81b)
-- [ ] [<code>Introduce AbstractSwitcher (#2772)</code>](https://github.com/elementary/gala/commit/6067a4fbecc93487bb831d168e172359054abe8a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowMover: Fix fullscreening a firefox video (#2783)</code>](https://github.com/elementary/gala/commit/02c5a3616fe6db6dbae16e279827aa4aee48d74c)
-- [ ] [<code>Update install instructions (#2785)</code>](https://github.com/elementary/gala/commit/a61239657efa67e791ce583cd6349ba27822590b)
-- [ ] [<code>WindowOverview: Fix flicker with reduce motion (#2781)</code>](https://github.com/elementary/gala/commit/8eada3ca80ebc6785cc513e3eb2def2d6ce8f017)
-- [ ] [<code>Introduce a TransitionBuilder</code>](https://github.com/elementary/gala/commit/b74197f20e71c5fce6c65ad05efd45c4fb1951da)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowManager/Map: Use ease actor utils</code>](https://github.com/elementary/gala/commit/32feda20d141b8c06f359a0296c128698906afd6)
-- [ ] [<code>WindowManager/Destroy: Use async ease utils</code>](https://github.com/elementary/gala/commit/6bab11b6c975c879b3b0552f2be20fd8a51ac6fb)
-- [ ] [<code>CI: Update dev target to libmutter-17-dev (#2777)</code>](https://github.com/elementary/gala/commit/0049874541965c1901f6982909d8e4c0b86faabc)
-- [ ] [<code>GestureController: Safeguard START/END pair</code>](https://github.com/elementary/gala/commit/7eedab32a54f51e4d94ed3929de0cb1fa5270c35)
-- [ ] [<code>GestureController: Propagate commit after timeline was started</code>](https://github.com/elementary/gala/commit/c93e68908516cf62b7408ec845fad5a147737e7a)
-- [ ] [<code>Metainfo: update with closed issues (#2795)</code>](https://github.com/elementary/gala/commit/0c21201dde14f521f0ac36b22a2f27e61bcd33a8)
-- [ ] [<code>Add support for Mutter 50 (#2764)</code>](https://github.com/elementary/gala/commit/cc8f51523412fa48e687fe0a1db5c7b34f12c714)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>HideTracker: Make sure to remove the pan action on destruction (#2801)</code>](https://github.com/elementary/gala/commit/4b15f84af7e1973d9e6596bb381810113ddee948)
-- [ ] [<code>Release 8.4.2 (#2796)</code>](https://github.com/elementary/gala/commit/dcd03ce923fb59fde5049c5d83400715c40b43df)
-  - <sub>Tags: <code>8.4.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
