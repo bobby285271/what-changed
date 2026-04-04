@@ -284,6 +284,9 @@
 - [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/baa8123a97d846191890f7949940b94f38f6786d)
 - [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/ebd70b74518107b52daf56bde291d4ddaf218441)
 - [ ] [<code>Merge pull request #726 from EkaterinePapava/master</code>](https://github.com/phase1geo/minder/commit/f041d1b67a3d1ed438f4a3aa5448a6b18918bcda)
+- [ ] [<code>Checkpointing work on displaying nodes with no markup characters.</code>](https://github.com/phase1geo/minder/commit/81adb98ab0da98be9701626101a21d81fe2f0f49)
+- [ ] [<code>Fixing export issues.</code>](https://github.com/phase1geo/minder/commit/f74c2e13a8524e50de92021939219e08b4953f8e)
+- [ ] [<code>Merge branch 'no-markup'</code>](https://github.com/phase1geo/minder/commit/904bcd66c17424a1e2e71de62c94a91439559a44)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
@@ -327,6 +330,7 @@
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>Remove donate banner from Preferences (#2337)</code>](https://github.com/alainm23/planify/commit/3aaf86ba8503916b16c758cdb0a6b83a80d7de64)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2328)</code>](https://github.com/alainm23/planify/commit/fae027c4b8026ea00e6a05c1566f8e7266496845)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
