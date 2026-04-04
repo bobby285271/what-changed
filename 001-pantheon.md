@@ -507,22 +507,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-display/commit/3579e2bef3e900790e30b4b800f9ee6ea30f19db)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-display/commit/7eaeec15afff2335bbf1c639b4e881fee3ec770d)
 
-#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.0 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.0...HEAD)
+#### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/settings-keyboard/commit/24533c4c33f037be5cf1a6487a7d1fe8467e6eef)
-- [ ] [<code>Allow assigning Gdk.Key.Tools button (#547)</code>](https://github.com/elementary/settings-keyboard/commit/4a96ee7f7fd0189879af4cd53fdd219197fd96e0)
-- [ ] [<code>Actions: Use main branch (#548)</code>](https://github.com/elementary/settings-keyboard/commit/0d03f8aad4e44fdbbdb2f343d7ab9d243d180d3b)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#549)</code>](https://github.com/elementary/settings-keyboard/commit/5c9d4c78495643a18a2ebd129f8c85c9ffd4a6f2)
-- [ ] [<code>Layout: arrange vertically (#502)</code>](https://github.com/elementary/settings-keyboard/commit/47a1b7c7d188078c98ff4ea7dcaa39b77657ac35)
-- [ ] [<code>Update LINGUAS</code>](https://github.com/elementary/settings-keyboard/commit/344398b9a510120753311e1021d7c8afb0ca5017)
-- [ ] [<code>ShortcutsList: store shortcuts in a listmodel (#551)</code>](https://github.com/elementary/settings-keyboard/commit/55a74f9ce3109ee6c2c5ce2f3b7adb1a285f9b03)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#557)</code>](https://github.com/elementary/settings-keyboard/commit/37e528c267666dac01376f9b4c1c994e1de3acfb)
-- [ ] [<code>Metainfo: add 8.1.1 release notes (#562)</code>](https://github.com/elementary/settings-keyboard/commit/e73b330684b654024b3a41af4ff43e0d00f1f2e5)
-- [ ] [<code>InputMethod: Run "ibus start" instead of running ibus-daemon directly (#561)</code>](https://github.com/elementary/settings-keyboard/commit/1cc9beb1b5c5e192d62c47021c9afa54e5c51c2f)
-- [ ] [<code>Metainfo: add issue 940 to release notes (#563)</code>](https://github.com/elementary/settings-keyboard/commit/8243955c73cb0e684c53374965d2596182ade04c)
-- [ ] [<code>Release 8.1.1 (#564)</code>](https://github.com/elementary/settings-keyboard/commit/8243a1b2b37c4307dab4933837f11c74b1d3b65d)
-  - <sub>Tags: <code>8.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -546,30 +532,8 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-onlineaccounts/commit/b03dec8381445f4feeb07dde355dfc9045ddddc2)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-onlineaccounts/commit/e3dcbc43dc39929b0b3b7c9a752c5647cb2da469)
 
-#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.2.1 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.2.1...HEAD)
+#### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.3.0...HEAD)
 
-- [ ] [<code>Multitasking: use small labels for hotcorners (#465)</code>](https://github.com/elementary/settings-desktop/commit/4ff276afa20e72568ac6e0c883c2fee36c148bb4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#466)</code>](https://github.com/elementary/settings-desktop/commit/49964940202d808b630d7ac91ac9fd7d924ba285)
-- [ ] [<code>Appearance: Support Latte (#456)</code>](https://github.com/elementary/settings-desktop/commit/7d38f0887ade29e62f2d96e8c765bcdd65fd1dc1)
-- [ ] [<code>Wallpaper: create wallpaper list model</code>](https://github.com/elementary/settings-desktop/commit/68196ab6dc00d82af1dd770a8f4f585b0536e7d3)
-- [ ] [<code>Wallpaper: sort in model, not flowbox</code>](https://github.com/elementary/settings-desktop/commit/b9f6b9ad1be33b71ff28d330a9c19949e619e181)
-- [ ] [<code>WallpaperContainer: don't subclass flowboxchild, fix state flags</code>](https://github.com/elementary/settings-desktop/commit/eff34ff7a8a8e9bf629528ceefbc0da060b6ca86)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix Granite style class deprecations (#471)</code>](https://github.com/elementary/settings-desktop/commit/22170075fb6f3566fe33e56a147fed9c9da8bf2b)
-- [ ] [<code>Merge branch 'main' into danirabbit/wallpapercontainer-noflowboxsubclass</code>](https://github.com/elementary/settings-desktop/commit/d61681cf0811842a32a71b3c59f6e7292d70b7dc)
-- [ ] [<code>WallpaperContainer: fewer construction args (#475)</code>](https://github.com/elementary/settings-desktop/commit/89afb7ad2b64b67fc805d69f372449971aff09f1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Wallpaper: sort when undoing trash (#477)</code>](https://github.com/elementary/settings-desktop/commit/ee63807a8578ac2dca9fe65223f4d4faa563ec51)
-- [ ] [<code>Wallpaper: DRY add_wallpaper_from_file (#474)</code>](https://github.com/elementary/settings-desktop/commit/c9888015dcc05c89eb76eceada334993e0096389)
-- [ ] [<code>WallpaperContainer: set uri, all the context menu controllers (#478)</code>](https://github.com/elementary/settings-desktop/commit/7e9b3985197e2ba2279e995a8acc3dd935de18e8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Text: all font selection (#483)</code>](https://github.com/elementary/settings-desktop/commit/c643e85b15ec81d1386044af1644c60ceea7a922)
-- [ ] [<code>Metainfo: add 8.3.0 release notes (#485)</code>](https://github.com/elementary/settings-desktop/commit/5ebe657037e7a0613188e3712808802908e56708)
-- [ ] [<code>Release 8.3.0 (#488)</code>](https://github.com/elementary/settings-desktop/commit/ee68ac1ca4d905ea7b59febd26396e5a2035bf7b)
-  - <sub>Tags: <code>8.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -658,15 +622,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
-#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.0.4 → HEAD](https://github.com/elementary/onboarding/compare/8.0.4...HEAD)
+#### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
-- [ ] [<code>Application: rely on Granite.StyleManager (#271)</code>](https://github.com/elementary/onboarding/commit/3f7aee3ab0814560bd63bf140b1d35eeadda30bd)
-- [ ] [<code>StyleView: Support Latte (#261)</code>](https://github.com/elementary/onboarding/commit/dad9715400b1ffd9d827cef5514ec49d398b1e0c)
-- [ ] [<code>FinishView: explain how to access system settings (#274)</code>](https://github.com/elementary/onboarding/commit/3eb38ccc6669d432c929bd70ce32ecf84ed6b5a4)
-- [ ] [<code>Metainfo: Add 8.1.0 release notes (#275)</code>](https://github.com/elementary/onboarding/commit/13defb4241ea868c7dbab79b0a4d78bb15179dc0)
-- [ ] [<code>Release 8.1.0 (#276)</code>](https://github.com/elementary/onboarding/commit/41a7a6e73fe13bde30e5243899d8b8d6940b5c83)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
