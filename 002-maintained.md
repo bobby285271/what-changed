@@ -287,6 +287,15 @@
 - [ ] [<code>Checkpointing work on displaying nodes with no markup characters.</code>](https://github.com/phase1geo/minder/commit/81adb98ab0da98be9701626101a21d81fe2f0f49)
 - [ ] [<code>Fixing export issues.</code>](https://github.com/phase1geo/minder/commit/f74c2e13a8524e50de92021939219e08b4953f8e)
 - [ ] [<code>Merge branch 'no-markup'</code>](https://github.com/phase1geo/minder/commit/904bcd66c17424a1e2e71de62c94a91439559a44)
+- [ ] [<code>Fixing issue with display of selected node for URLs.</code>](https://github.com/phase1geo/minder/commit/3a9f69e8f461802ce1a5dd28a8517276d77df817)
+- [ ] [<code>Preparing for 2.0.7 release.</code>](https://github.com/phase1geo/minder/commit/12f7571f3ad541a0c6567af4839e927c8652325e)
+  - <sub>Tags: <code>2.0.7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing text rendering issues when map theme is changed.</code>](https://github.com/phase1geo/minder/commit/4082695fa0f1863773330baeb765749d89418c72)
+- [ ] [<code>Preparing for 2.0.8 release.</code>](https://github.com/phase1geo/minder/commit/cbc79bf8ff52ba2af7dfec6d6d3c82439d88ca5c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing Flathub linter warnings.</code>](https://github.com/phase1geo/minder/commit/bfe8f9196784a66625661cc29a9270ff978e4f21)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/f342bbba3f1fa2799e44865746d8d5f3a3bac739)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
