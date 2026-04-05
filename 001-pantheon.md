@@ -656,6 +656,8 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.2 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.2...HEAD)
 
+- [ ] [<code>lib: sort files into folders (#2809)</code>](https://github.com/elementary/gala/commit/b1874e81920deb072c4da2394b094a5b9695995d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
