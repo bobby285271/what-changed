@@ -258,44 +258,8 @@
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 - [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
-#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.5 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.5...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.8 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.8...HEAD)
 
-- [ ] [<code>Changing app ID from com.github.... to io.github...</code>](https://github.com/phase1geo/minder/commit/f321b3f5454a08c2f412983981c663c56f1745e5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Adding Flatpak note to README.md.</code>](https://github.com/phase1geo/minder/commit/9fa7e80d812334e90c1ca6e6ef682f494b7b24b3)
-- [ ] [<code>Merge branch 'app-id-change'</code>](https://github.com/phase1geo/minder/commit/6a4be0c2791b7ec853958dde9642b16e223c3018)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing CI action.</code>](https://github.com/phase1geo/minder/commit/7631406eb509cd9964e9b7633ee323a10306961d)
-- [ ] [<code>Updating README.md</code>](https://github.com/phase1geo/minder/commit/140b2e01ee154500659dd4c4e336160e34ee9a9f)
-- [ ] [<code>Updating translations and release notes for 2.0.6</code>](https://github.com/phase1geo/minder/commit/92672e2f7d859efcea6643073980af5569ffbd53)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixing appdata syntax errors.</code>](https://github.com/phase1geo/minder/commit/675d6aef10374041105d4553e1d00056cb318b1c)
-- [ ] [<code>Revert "Fixing appdata syntax errors."</code>](https://github.com/phase1geo/minder/commit/e2940d4a072338651ff83f77316e71c2ba1dce8a)
-- [ ] [<code>Undoing original 2.0.6 changes.</code>](https://github.com/phase1geo/minder/commit/408d224d1cabce39fcd1bb92d86072d49ae28114)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Fixing issue with resetting shortcuts to Minder defaults</code>](https://github.com/phase1geo/minder/commit/3ace41a818737ce1eeffb6e61b7620880e85b0b5)
-- [ ] [<code>Checkpointing work on RTL layout fixes in CanvasText.</code>](https://github.com/phase1geo/minder/commit/232b1c42922e383101c090dde6301904d8572748)
-- [ ] [<code>Merge branch 'rtl-fix'</code>](https://github.com/phase1geo/minder/commit/4b6b2914d6c3d396b1f8d31779d7d210bc8c1f12)
-- [ ] [<code>Fixing issue root node selection when nothing is currently selected.</code>](https://github.com/phase1geo/minder/commit/82ede6e96312fc01e754273e835afc47914fb8e3)
-- [ ] [<code>Fixing issues with drag/drop tags.</code>](https://github.com/phase1geo/minder/commit/9832e64638c063199a04e6f59677172b6c02a1e5)
-- [ ] [<code>Fixing issues with copying a node with tags.</code>](https://github.com/phase1geo/minder/commit/9a645929826aee764106739b3f89ee23afb60e74)
-- [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/baa8123a97d846191890f7949940b94f38f6786d)
-- [ ] [<code>po: Add Georgian translation</code>](https://github.com/phase1geo/minder/commit/ebd70b74518107b52daf56bde291d4ddaf218441)
-- [ ] [<code>Merge pull request #726 from EkaterinePapava/master</code>](https://github.com/phase1geo/minder/commit/f041d1b67a3d1ed438f4a3aa5448a6b18918bcda)
-- [ ] [<code>Checkpointing work on displaying nodes with no markup characters.</code>](https://github.com/phase1geo/minder/commit/81adb98ab0da98be9701626101a21d81fe2f0f49)
-- [ ] [<code>Fixing export issues.</code>](https://github.com/phase1geo/minder/commit/f74c2e13a8524e50de92021939219e08b4953f8e)
-- [ ] [<code>Merge branch 'no-markup'</code>](https://github.com/phase1geo/minder/commit/904bcd66c17424a1e2e71de62c94a91439559a44)
-- [ ] [<code>Fixing issue with display of selected node for URLs.</code>](https://github.com/phase1geo/minder/commit/3a9f69e8f461802ce1a5dd28a8517276d77df817)
-- [ ] [<code>Preparing for 2.0.7 release.</code>](https://github.com/phase1geo/minder/commit/12f7571f3ad541a0c6567af4839e927c8652325e)
-  - <sub>Tags: <code>2.0.7</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing text rendering issues when map theme is changed.</code>](https://github.com/phase1geo/minder/commit/4082695fa0f1863773330baeb765749d89418c72)
-- [ ] [<code>Preparing for 2.0.8 release.</code>](https://github.com/phase1geo/minder/commit/cbc79bf8ff52ba2af7dfec6d6d3c82439d88ca5c)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing Flathub linter warnings.</code>](https://github.com/phase1geo/minder/commit/bfe8f9196784a66625661cc29a9270ff978e4f21)
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/f342bbba3f1fa2799e44865746d8d5f3a3bac739)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
