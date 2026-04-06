@@ -96,6 +96,10 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.2.0...HEAD)
 
+- [ ] [<code>Ensure window not stuck fullscreen (#1684)</code>](https://github.com/elementary/code/commit/09ed7643d0486bcb299020030357bcf126976327)
+- [ ] [<code>BranchActions dialog (#1607)</code>](https://github.com/elementary/code/commit/f189a7927f516e48700f3f79f391a9e3ada097bb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
@@ -168,6 +172,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CI: add systemd-dev (#2769)</code>](https://github.com/elementary/files/commit/64b13e7823a5b644a87e406b3a7c27ec81ec9765)
 - [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/970d6a2babf98376396af0e5f4fb5d45ee31d778)
+- [ ] [<code>Make GOF.File content_type a property (#2717)</code>](https://github.com/elementary/files/commit/bf9bc0bd06c1429306ec5e2510bd6ae9659f3367)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Window: Create settings objects on demand (#2728)</code>](https://github.com/elementary/files/commit/49f3cb67c68d5ca7abe3e4d68385f111847d318d)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
