@@ -951,6 +951,7 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#142)</code>](https://github.com/elementary/capnet-assist/commit/8467208c8ed9ff81853bcbed4e5396de651d8d91)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#143)</code>](https://github.com/elementary/capnet-assist/commit/13fa5572eafc8b57cd9669dcd61cf3843dc84425)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#145)</code>](https://github.com/elementary/capnet-assist/commit/f4b59413eb96100375d94167797be3fd7ed5f038)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
