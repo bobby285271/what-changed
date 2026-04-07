@@ -260,6 +260,8 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.8 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.8...HEAD)
 
+- [ ] [<code>Update Italian translation for Minder</code>](https://github.com/phase1geo/minder/commit/73c542d4eb1517446a0dae91df661320589eb3a3)
+- [ ] [<code>Merge pull request #727 from albanobattistella/patch-36</code>](https://github.com/phase1geo/minder/commit/a14fac6f7cad394353a2a42617d89322ff46be96)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
