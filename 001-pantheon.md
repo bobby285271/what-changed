@@ -100,6 +100,7 @@
 - [ ] [<code>BranchActions dialog (#1607)</code>](https://github.com/elementary/code/commit/f189a7927f516e48700f3f79f391a9e3ada097bb)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1709)</code>](https://github.com/elementary/code/commit/8678d2f572cce961dfbc4274dcc1e99978c616b3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
@@ -665,6 +666,7 @@
 
 - [ ] [<code>lib: sort files into folders (#2809)</code>](https://github.com/elementary/gala/commit/b1874e81920deb072c4da2394b094a5b9695995d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GestureController.goto (): fix progress check (#2810)</code>](https://github.com/elementary/gala/commit/3056cf50034cd2eb084e01bf3742d4d924e5bf12)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
