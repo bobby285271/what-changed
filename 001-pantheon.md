@@ -106,6 +106,11 @@
 
 - [ ] [<code>BackgroundItem: Launch app on list activate (#577)</code>](https://github.com/elementary/dock/commit/bdc5230ff1af65ff1d892c2a3311e44b4fe9ebe1)
 - [ ] [<code>Fix typo (#583)</code>](https://github.com/elementary/dock/commit/6bea248ad3292aa06e4266fdd75efa5a0fd27cc4)
+- [ ] [<code>Introduce an ItemGroup</code>](https://github.com/elementary/dock/commit/b26e08f0c7debb2b8be3b9071d8872e69c008772)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>BaseItem: Introduce a get_index method</code>](https://github.com/elementary/dock/commit/6b2f6358c473ac9775f28180c29b53080ecacc48)
+- [ ] [<code>Use ListModels for apps and workspaces</code>](https://github.com/elementary/dock/commit/cc84bbc656f1c536badafdb800609b50d62b9ad5)
+- [ ] [<code>Fix build on development target</code>](https://github.com/elementary/dock/commit/c28bb23783e648a12797ba80414286360006ea13)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -176,6 +181,8 @@
 - [ ] [<code>Make GOF.File content_type a property (#2717)</code>](https://github.com/elementary/files/commit/bf9bc0bd06c1429306ec5e2510bd6ae9659f3367)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Window: Create settings objects on demand (#2728)</code>](https://github.com/elementary/files/commit/49f3cb67c68d5ca7abe3e4d68385f111847d318d)
+- [ ] [<code>Email plugin: use GLib.Action (#2774)</code>](https://github.com/elementary/files/commit/bf896e914055a93416646fcba251294e7e1f20a7)
+- [ ] [<code>Contractor plugin: use GLib.Action (#2775)</code>](https://github.com/elementary/files/commit/01e4deb239e95e78641350febf38aff5afc97f1f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -667,6 +674,7 @@
 - [ ] [<code>lib: sort files into folders (#2809)</code>](https://github.com/elementary/gala/commit/b1874e81920deb072c4da2394b094a5b9695995d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>GestureController.goto (): fix progress check (#2810)</code>](https://github.com/elementary/gala/commit/3056cf50034cd2eb084e01bf3742d4d924e5bf12)
+- [ ] [<code>Fix POTFILES (#2812)</code>](https://github.com/elementary/gala/commit/b3d76f10a88ed73b88690b8359d461983d945aa6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -924,6 +932,8 @@
 - [ ] [<code>Replace deprecated hide with visible (#968)</code>](https://github.com/elementary/granite/commit/fde869baeb961774afd40d7e6af12d035da0a528)
 - [ ] [<code>Styles/Gtk/Button: add Link styles (#970)</code>](https://github.com/elementary/granite/commit/060faadd88f7926c62fcf3c52ca5cb0bcb960ada)
 - [ ] [<code>Styling: Add `.destructive` class for `button.text-button` (#870)</code>](https://github.com/elementary/granite/commit/0082672a634ffc3e4716ac83ec16b83aaaedd786)
+- [ ] [<code>Move design goals to be in-tree (#973)</code>](https://github.com/elementary/granite/commit/a202ddc8e9be57560a5755fc642101b201d1d187)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
