@@ -333,6 +333,7 @@
 - [ ] [<code>intltool: Use tarball instead of shared-modules for gettext-flatpak</code>](https://github.com/ellie-commons/sequeler/commit/17bbfa20406cdb51949343c70df4820886f3d8b3)
 - [ ] [<code>Revert "gettext: Remove unnecessary git config"</code>](https://github.com/ellie-commons/sequeler/commit/c6f6d3dcacf6e556a8a7b6964c44ba02f8ebc80f)
 - [ ] [<code>metainfo: Add vcs-browser url (#447)</code>](https://github.com/ellie-commons/sequeler/commit/9b89aaad25b7d59bd5848dd1756c66ab76d3786d)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#448)</code>](https://github.com/ellie-commons/sequeler/commit/1cd1d078e2ff5e60bd9b5a8dbfb9129b631994ef)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
