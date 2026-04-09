@@ -311,6 +311,9 @@
 - [ ] [<code>Translations update from Hosted Weblate (#2341)</code>](https://github.com/alainm23/planify/commit/8e7bc8a7e7c56e16d82d1bf785de503286dc85e7)
 - [ ] [<code>Support asterisk prefix for incompletable tasks (#2342)</code>](https://github.com/alainm23/planify/commit/bc251b430f5cc26f5c39f59c734ba8f9addfcbe2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add GNOME Shell search provider (#2344)</code>](https://github.com/alainm23/planify/commit/6d7861e7257b3dd8052f2008393947e503eb846a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>update template (#2345)</code>](https://github.com/alainm23/planify/commit/48b4574ae48bf64e690f9ef20799165ff821de22)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
