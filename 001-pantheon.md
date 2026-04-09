@@ -242,6 +242,14 @@
 - [ ] [<code>Change warning logs to debug logs for GPU queries (#529)</code>](https://github.com/elementary/monitor/commit/7daaa9d0c2683115b3e9895423a0ae00e86bb928)
 - [ ] [<code>MainWindow: do not destroy the MainWindow on close when the indicator is enabled</code>](https://github.com/elementary/monitor/commit/997b804641f39ad34831fff6eabc7da3aa915ce1)
 - [ ] [<code>MainWindow: Use GDK consts to handle close request</code>](https://github.com/elementary/monitor/commit/f25e8d320761dee348e429ce5fc078a8150729d1)
+- [ ] [<code>ProcesInfoView: Migrate opened files to ListStore</code>](https://github.com/elementary/monitor/commit/2c26f9b971db9fc1f2b5512931310aec1a190ac1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ProcessInfoView: Prevent OPen Files list jump to top on update</code>](https://github.com/elementary/monitor/commit/3923518d2840730572f7c1a5a1f3ab77bb6c2ead)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix lint</code>](https://github.com/elementary/monitor/commit/2dd572c10fe5c6345fb968f7495b1f7ac9679a9a)
+- [ ] [<code>Remove some whitespaces</code>](https://github.com/elementary/monitor/commit/69ee1396f6297d2a0486b2ac4b023e376a16b554)
+- [ ] [<code>Rename OpenFilesTreeViewModel.vala to OpenFile.vala for clarity</code>](https://github.com/elementary/monitor/commit/8d0658f81b4228d6313b98fff83c70442fedf272)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -342,6 +350,7 @@
 - [ ] [<code>Release 8.0.4 (#329)</code>](https://github.com/elementary/screenshot/commit/5a64160bbde9620649e7fbda80fe347da5c3c0e6)
   - <sub>Tags: <code>8.0.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#334)</code>](https://github.com/elementary/screenshot/commit/622fe8decd09c809defcbd058062635f53a2d014)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
