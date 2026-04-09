@@ -275,6 +275,7 @@
 - [ ] [<code>chore: actions: Use gnome-50 image</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/41bf4d2e9390a73439a695d1d4530f47b9cef264)
 - [ ] [<code>feat: Dialog: Drop support URL (#356)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dd0fef8f91162e89b10b6ea5596c6d7d47145cc8)
 - [ ] [<code>chore: Flatpak: Add sassc and libsass as modules (#357)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0c7272ba521ad02117ce56d69239470187e94611)
+- [ ] [<code>chore: Cleanup development-related files (#358)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e72c442d19c1525b5bc45218625fced6341007e1)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
@@ -308,6 +309,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Translations update from Hosted Weblate (#2328)</code>](https://github.com/alainm23/planify/commit/fae027c4b8026ea00e6a05c1566f8e7266496845)
 - [ ] [<code>Translations update from Hosted Weblate (#2341)</code>](https://github.com/alainm23/planify/commit/8e7bc8a7e7c56e16d82d1bf785de503286dc85e7)
+- [ ] [<code>Support asterisk prefix for incompletable tasks (#2342)</code>](https://github.com/alainm23/planify/commit/bc251b430f5cc26f5c39f59c734ba8f9addfcbe2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
