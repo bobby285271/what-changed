@@ -314,6 +314,7 @@
 - [ ] [<code>Add GNOME Shell search provider (#2344)</code>](https://github.com/alainm23/planify/commit/6d7861e7257b3dd8052f2008393947e503eb846a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>update template (#2345)</code>](https://github.com/alainm23/planify/commit/48b4574ae48bf64e690f9ef20799165ff821de22)
+- [ ] [<code>Translations update from Hosted Weblate (#2343)</code>](https://github.com/alainm23/planify/commit/0a6e672e59f674e3c774aae7f3753f5e8b0dafc6)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
