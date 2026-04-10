@@ -686,6 +686,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>GestureController.goto (): fix progress check (#2810)</code>](https://github.com/elementary/gala/commit/3056cf50034cd2eb084e01bf3742d4d924e5bf12)
 - [ ] [<code>Fix POTFILES (#2812)</code>](https://github.com/elementary/gala/commit/b3d76f10a88ed73b88690b8359d461983d945aa6)
+- [ ] [<code>WindowListModel: fix crash (#2813)</code>](https://github.com/elementary/gala/commit/c1b5854eaa257b2a75e9e210e313bfae5405d932)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
