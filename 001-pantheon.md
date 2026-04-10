@@ -88,6 +88,7 @@
 - [ ] [<code>SourceRow: create accent colors for screen (#931)</code>](https://github.com/elementary/calendar/commit/0dae65c1effa70d7ebf9cf285c0283ed86fcf883)
 - [ ] [<code>EventMenu: set sensitive during construction (#928)</code>](https://github.com/elementary/calendar/commit/6a5ca74d75714bcbc9fc984661759bc61b7663c0)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.3.tar.xz to 3.60.0 (#937)</code>](https://github.com/elementary/calendar/commit/a7aea32950e08767e4b8d9be0104f2d02f0a99c3)
+- [ ] [<code>LocationPanel: conditionals use brackets, grab focus (#938)</code>](https://github.com/elementary/calendar/commit/9601862e10f7126d740184b6d606b48576f85a1e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -183,6 +184,7 @@
 - [ ] [<code>Window: Create settings objects on demand (#2728)</code>](https://github.com/elementary/files/commit/49f3cb67c68d5ca7abe3e4d68385f111847d318d)
 - [ ] [<code>Email plugin: use GLib.Action (#2774)</code>](https://github.com/elementary/files/commit/bf896e914055a93416646fcba251294e7e1f20a7)
 - [ ] [<code>Contractor plugin: use GLib.Action (#2775)</code>](https://github.com/elementary/files/commit/01e4deb239e95e78641350febf38aff5afc97f1f)
+- [ ] [<code>PluginManager: clean up deprecated functions (#2776)</code>](https://github.com/elementary/files/commit/90d5666a67c77939fe9b39880945ab53d49e3a13)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
