@@ -89,6 +89,8 @@
 - [ ] [<code>EventMenu: set sensitive during construction (#928)</code>](https://github.com/elementary/calendar/commit/6a5ca74d75714bcbc9fc984661759bc61b7663c0)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.3.tar.xz to 3.60.0 (#937)</code>](https://github.com/elementary/calendar/commit/a7aea32950e08767e4b8d9be0104f2d02f0a99c3)
 - [ ] [<code>LocationPanel: conditionals use brackets, grab focus (#938)</code>](https://github.com/elementary/calendar/commit/9601862e10f7126d740184b6d606b48576f85a1e)
+- [ ] [<code>EventButton: Clean up drag n drop events (#933)</code>](https://github.com/elementary/calendar/commit/7cff9fd3d5b860fc4bef040028b0a6f8b73838a6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
