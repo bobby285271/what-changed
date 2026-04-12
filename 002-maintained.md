@@ -315,6 +315,15 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>update template (#2345)</code>](https://github.com/alainm23/planify/commit/48b4574ae48bf64e690f9ef20799165ff821de22)
 - [ ] [<code>Translations update from Hosted Weblate (#2343)</code>](https://github.com/alainm23/planify/commit/0a6e672e59f674e3c774aae7f3753f5e8b0dafc6)
+- [ ] [<code>add log service (#2349)</code>](https://github.com/alainm23/planify/commit/ffae46a4a6d154bdbab0908be7a3c43c3b5d41aa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix invalid Todoist API token being accepted (#2350)</code>](https://github.com/alainm23/planify/commit/91290a21251899b2603ad8a46e85a48736134cd2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve ErrorView design and usability (#2352)</code>](https://github.com/alainm23/planify/commit/f92c120d72eeb222ed0a33c2280e9815ddaa564f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Redesign account setup pages and add logging (#2353)</code>](https://github.com/alainm23/planify/commit/66f88e19c75a19f3d48305cb8567e831dfc5839a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump actions/github-script from 8 to 9 (#2348)</code>](https://github.com/alainm23/planify/commit/2510751c621cf97934b0b01a5141c95dd1989a02)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
