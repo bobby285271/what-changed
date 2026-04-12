@@ -324,6 +324,8 @@
 - [ ] [<code>Redesign account setup pages and add logging (#2353)</code>](https://github.com/alainm23/planify/commit/66f88e19c75a19f3d48305cb8567e831dfc5839a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/github-script from 8 to 9 (#2348)</code>](https://github.com/alainm23/planify/commit/2510751c621cf97934b0b01a5141c95dd1989a02)
+- [ ] [<code>fix sync archive (#2355)</code>](https://github.com/alainm23/planify/commit/f51abb4487d2337429f2a0b2f4eb8135db39f88e)
+- [ ] [<code>fix scroll (#2356)</code>](https://github.com/alainm23/planify/commit/a96629ebeb2548ed760a31dc9f5414904bd86fb3)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
@@ -350,6 +352,8 @@
 - [ ] [<code>Revert "gettext: Remove unnecessary git config"</code>](https://github.com/ellie-commons/sequeler/commit/c6f6d3dcacf6e556a8a7b6964c44ba02f8ebc80f)
 - [ ] [<code>metainfo: Add vcs-browser url (#447)</code>](https://github.com/ellie-commons/sequeler/commit/9b89aaad25b7d59bd5848dd1756c66ab76d3786d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#448)</code>](https://github.com/ellie-commons/sequeler/commit/1cd1d078e2ff5e60bd9b5a8dbfb9129b631994ef)
+- [ ] [<code>Application: Use Vala-style properties (#449)</code>](https://github.com/ellie-commons/sequeler/commit/3702710209a506c9f197f6289ab12a20a89f1a02)
+- [ ] [<code>Flatpak: Update GNOME Platform to 50 (#450)</code>](https://github.com/ellie-commons/sequeler/commit/276a0120a71f5ef9a28d9bda159e647d04832f0a)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
