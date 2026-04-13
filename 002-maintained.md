@@ -276,6 +276,7 @@
 - [ ] [<code>feat: Dialog: Drop support URL (#356)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dd0fef8f91162e89b10b6ea5596c6d7d47145cc8)
 - [ ] [<code>chore: Flatpak: Add sassc and libsass as modules (#357)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0c7272ba521ad02117ce56d69239470187e94611)
 - [ ] [<code>chore: Cleanup development-related files (#358)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e72c442d19c1525b5bc45218625fced6341007e1)
+- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#359)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2062366e6810d6c2ed5a49d0255d11a11c2540bd)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
 
