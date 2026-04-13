@@ -326,6 +326,9 @@
 - [ ] [<code>Bump actions/github-script from 8 to 9 (#2348)</code>](https://github.com/alainm23/planify/commit/2510751c621cf97934b0b01a5141c95dd1989a02)
 - [ ] [<code>fix sync archive (#2355)</code>](https://github.com/alainm23/planify/commit/f51abb4487d2337429f2a0b2f4eb8135db39f88e)
 - [ ] [<code>fix scroll (#2356)</code>](https://github.com/alainm23/planify/commit/a96629ebeb2548ed760a31dc9f5414904bd86fb3)
+- [ ] [<code> Handle CalDAV sync errors with typed status (#2357)</code>](https://github.com/alainm23/planify/commit/f0ff954fe65b4ccd3fcae0e3612375e3340a969d)
+- [ ] [<code>copy to mul;tiple (#2358)</code>](https://github.com/alainm23/planify/commit/bc77094cb9ba6f5d37492d958c274beda891e2ef)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
