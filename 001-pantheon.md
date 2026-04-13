@@ -10,6 +10,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calculator/commit/6771c9aa6e165c2f014bddef2e528460aa6f1c33)
 - [ ] [<code>Update sidebar icons (#299)</code>](https://github.com/elementary/calculator/commit/a117cad22492f4f47a93a023c80644b653777aae)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
 
@@ -91,6 +92,8 @@
 - [ ] [<code>LocationPanel: conditionals use brackets, grab focus (#938)</code>](https://github.com/elementary/calendar/commit/9601862e10f7126d740184b6d606b48576f85a1e)
 - [ ] [<code>EventButton: Clean up drag n drop events (#933)</code>](https://github.com/elementary/calendar/commit/7cff9fd3d5b860fc4bef040028b0a6f8b73838a6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.0.tar.xz to 3.60.1 (#942)</code>](https://github.com/elementary/calendar/commit/efcf668e73f14e43a9a0730260ea1b9b4a2b8fdc)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#943)</code>](https://github.com/elementary/calendar/commit/9b5ea501d358e61476130e68e83367a9cae15487)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -192,11 +195,13 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/iconbrowser/commit/a499faea17792f0c03ae3ee9a915b3b8b713a87c)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/iconbrowser/commit/efd2628b28aaa2213d21586778f1a243f3bc78ae)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#75)</code>](https://github.com/elementary/iconbrowser/commit/31e2343a508254ba88d7b40048a7d81b895d5728)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>Persist conversation list filter switches (#1033)</code>](https://github.com/elementary/mail/commit/212bc8cfefcf170f51d4c7436a4fc8068d7b4291)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/mail/commit/5a1ea011d1c20cd9c283ddc0412ce6b67389f0a8)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1044)</code>](https://github.com/elementary/mail/commit/46220e4e46c0bb38928404a262d9a07b498d97ca)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -401,6 +406,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#424)</code>](https://github.com/elementary/tasks/commit/9c1575e20a1a826b4e3124ae76dee6e7f23fe804)
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#425)</code>](https://github.com/elementary/tasks/commit/6291bb05547c1a81d573d1e71249da5e61674b2d)
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#426)</code>](https://github.com/elementary/tasks/commit/3bcccfa929a9af005bcc975fce64d01a92921b9c)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#427)</code>](https://github.com/elementary/tasks/commit/12258fc8f04919e4164ed97242bc0b864bf46259)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
@@ -689,6 +695,10 @@
 - [ ] [<code>GestureController.goto (): fix progress check (#2810)</code>](https://github.com/elementary/gala/commit/3056cf50034cd2eb084e01bf3742d4d924e5bf12)
 - [ ] [<code>Fix POTFILES (#2812)</code>](https://github.com/elementary/gala/commit/b3d76f10a88ed73b88690b8359d461983d945aa6)
 - [ ] [<code>WindowListModel: fix crash (#2813)</code>](https://github.com/elementary/gala/commit/c1b5854eaa257b2a75e9e210e313bfae5405d932)
+- [ ] [<code>PropertyTargets: Actually specify the type as uint8 if it's uint8</code>](https://github.com/elementary/gala/commit/413c987c1af972332133a8cad505f2c1f4afbe08)
+- [ ] [<code>Specify custom progress func for uint8</code>](https://github.com/elementary/gala/commit/8350b21db10661b837e75add4684b3e78898e257)
+- [ ] [<code>GestureController: Clamp progress to the given clamps</code>](https://github.com/elementary/gala/commit/a3564eacda978749179f046e902b550b48f5753d)
+- [ ] [<code>MultitaskingView: Allow overshoot</code>](https://github.com/elementary/gala/commit/123c29d4faf27645b147ffa5dd6a30b06b66dc8a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
