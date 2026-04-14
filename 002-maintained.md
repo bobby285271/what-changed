@@ -262,6 +262,11 @@
 
 - [ ] [<code>Update Italian translation for Minder</code>](https://github.com/phase1geo/minder/commit/73c542d4eb1517446a0dae91df661320589eb3a3)
 - [ ] [<code>Merge pull request #727 from albanobattistella/patch-36</code>](https://github.com/phase1geo/minder/commit/a14fac6f7cad394353a2a42617d89322ff46be96)
+- [ ] [<code>Adding Markdown highlighting for strikethrough and highlighting</code>](https://github.com/phase1geo/minder/commit/fff78a08d2266c88b5ea29756aaed312841d5e2c)
+- [ ] [<code>* Fixing issues with markdown enhancement display and custom theme save</code>](https://github.com/phase1geo/minder/commit/faa8437a343694f7d0a3ea6787fbc6eea150e49e)
+- [ ] [<code>Checkpointing highlight color from theme.</code>](https://github.com/phase1geo/minder/commit/c870bde8186c071751eee039488311bae8633cbf)
+- [ ] [<code>Adding initial support for highlight color theming.</code>](https://github.com/phase1geo/minder/commit/3d72bd8c06ab37237031ca733d1cd4893f652202)
+- [ ] [<code>Merge branch 'md-enhancements'</code>](https://github.com/phase1geo/minder/commit/fde4f6dd36cd8071f2691f1a5f7783f805bc4130)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
