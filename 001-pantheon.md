@@ -94,6 +94,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.0.tar.xz to 3.60.1 (#942)</code>](https://github.com/elementary/calendar/commit/efcf668e73f14e43a9a0730260ea1b9b4a2b8fdc)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#943)</code>](https://github.com/elementary/calendar/commit/9b5ea501d358e61476130e68e83367a9cae15487)
+- [ ] [<code>VAutoHider: cleanup size_allocate (#940)</code>](https://github.com/elementary/calendar/commit/f5d41e255c7fae1fed30cb7e7726756bbc6fa392)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -269,6 +271,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Metadata in AudioObject (#834)</code>](https://github.com/elementary/music/commit/3eebdd2aab7ddd044748829f47a0948bd3478966)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#842)</code>](https://github.com/elementary/music/commit/06a4c0df8695f87ecf733218e7a1067cbc0339ca)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
@@ -317,6 +320,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/photos/commit/47b9499ccd238f4bb353a18b0998d659aeed8b6b)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/photos/commit/374823f7ec98825797e8a3fd2f9517d8fadbf1d2)
 - [ ] [<code>exiv2: Update v0.28.7.tar.gz to 0.28.8 (#837)</code>](https://github.com/elementary/photos/commit/5efa18d8d37092ae09f4e6cb8e165cedca4933ba)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#838)</code>](https://github.com/elementary/photos/commit/4a5d8c248004d722ce95173a5adbbd8f15122a79)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -699,6 +703,7 @@
 - [ ] [<code>Specify custom progress func for uint8</code>](https://github.com/elementary/gala/commit/8350b21db10661b837e75add4684b3e78898e257)
 - [ ] [<code>GestureController: Clamp progress to the given clamps</code>](https://github.com/elementary/gala/commit/a3564eacda978749179f046e902b550b48f5753d)
 - [ ] [<code>MultitaskingView: Allow overshoot</code>](https://github.com/elementary/gala/commit/123c29d4faf27645b147ffa5dd6a30b06b66dc8a)
+- [ ] [<code>WindowManager: fix overlay key filter (#2816)</code>](https://github.com/elementary/gala/commit/ade84a4a24037570ddde3c68cdcdfd195a5c2796)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
