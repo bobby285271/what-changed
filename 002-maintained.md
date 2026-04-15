@@ -335,6 +335,10 @@
 - [ ] [<code> Handle CalDAV sync errors with typed status (#2357)</code>](https://github.com/alainm23/planify/commit/f0ff954fe65b4ccd3fcae0e3612375e3340a969d)
 - [ ] [<code>copy to mul;tiple (#2358)</code>](https://github.com/alainm23/planify/commit/bc77094cb9ba6f5d37492d958c274beda891e2ef)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add per-project markdown rendering setting (#2361)</code>](https://github.com/alainm23/planify/commit/7be87aed0332e8d2568334f7366e5abbb0e7d452)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix day change not detected after system suspend/resume (#2362)</code>](https://github.com/alainm23/planify/commit/4408fd0dd26dc8d6c404204a78f5ad1348196f86)
+- [ ] [<code>Translations update from Hosted Weblate (#2351)</code>](https://github.com/alainm23/planify/commit/10115149c78aceb36b1d9d09afcd05e9a1c53211)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
