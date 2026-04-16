@@ -472,6 +472,9 @@
   - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Do not show loading spinner for all foreground processes (#1003)</code>](https://github.com/elementary/terminal/commit/890e0f2f17606687a493ba070cca153418ec61a4)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Provide fallback for title; set title in idle (#999)</code>](https://github.com/elementary/terminal/commit/ca14b25b29995034896b35427e8a3e340c7df183)
+- [ ] [<code>Fix excessive scroll speed in Wayland (#1000)</code>](https://github.com/elementary/terminal/commit/2e8a6de2045879139da98771d7faf7fed56281df)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -985,6 +988,8 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/bluetooth-daemon/commit/eeb9db35bf26a2f8e279c90af9a0d8bb0e85a188)
 - [ ] [<code>LINGUAS: remove unused languages</code>](https://github.com/elementary/bluetooth-daemon/commit/81984445db609af78d7a35050b8662d73e79fc85)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#46)</code>](https://github.com/elementary/bluetooth-daemon/commit/783e0f226176490f04fec898fe57973daeaf17d4)
+- [ ] [<code>ScanDialog: GTK4 prep (#33)</code>](https://github.com/elementary/bluetooth-daemon/commit/575f6212aff016b448a749d1629cb8fd7e26f096)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
