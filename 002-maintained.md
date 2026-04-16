@@ -339,6 +339,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix day change not detected after system suspend/resume (#2362)</code>](https://github.com/alainm23/planify/commit/4408fd0dd26dc8d6c404204a78f5ad1348196f86)
 - [ ] [<code>Translations update from Hosted Weblate (#2351)</code>](https://github.com/alainm23/planify/commit/10115149c78aceb36b1d9d09afcd05e9a1c53211)
+- [ ] [<code>fix datyer (#2364)</code>](https://github.com/alainm23/planify/commit/b826e12e1079e42e16447a9cf4ce618862accde6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix radio (#2365)</code>](https://github.com/alainm23/planify/commit/5561904ddfadf522b510b80332442d38da5d158c)
+- [ ] [<code>fix (#2366)</code>](https://github.com/alainm23/planify/commit/aeeb0b86965445d4708e532b0a95d8c222f115fd)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
