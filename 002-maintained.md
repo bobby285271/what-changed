@@ -344,6 +344,7 @@
 - [ ] [<code>fix radio (#2365)</code>](https://github.com/alainm23/planify/commit/5561904ddfadf522b510b80332442d38da5d158c)
 - [ ] [<code>fix (#2366)</code>](https://github.com/alainm23/planify/commit/aeeb0b86965445d4708e532b0a95d8c222f115fd)
 - [ ] [<code>fix (#2368)</code>](https://github.com/alainm23/planify/commit/e4ee077e97c535923f16b770d3c6e8dd2c55b4fb)
+- [ ] [<code>Translations update from Hosted Weblate (#2367)</code>](https://github.com/alainm23/planify/commit/7b03c496dc3612d8adebeb6495c2b545b42c5c4b)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
