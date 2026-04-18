@@ -267,6 +267,12 @@
 - [ ] [<code>Checkpointing highlight color from theme.</code>](https://github.com/phase1geo/minder/commit/c870bde8186c071751eee039488311bae8633cbf)
 - [ ] [<code>Adding initial support for highlight color theming.</code>](https://github.com/phase1geo/minder/commit/3d72bd8c06ab37237031ca733d1cd4893f652202)
 - [ ] [<code>Merge branch 'md-enhancements'</code>](https://github.com/phase1geo/minder/commit/fde4f6dd36cd8071f2691f1a5f7783f805bc4130)
+- [ ] [<code>Checkpointing work on supporting Markdown shortcuts.</code>](https://github.com/phase1geo/minder/commit/8f84624b7ae42318b4f470a5e05a092c262839b3)
+- [ ] [<code>Adding Markdown support for node text and miscellaneous menu.</code>](https://github.com/phase1geo/minder/commit/58d402f338ba665671dbdb1a51f2c600a336808f)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/d8ea896fb1c924ba5ad3a99de5c35772c9d45c36)
+- [ ] [<code>Adding Markdown menu support to NoteView widgets.</code>](https://github.com/phase1geo/minder/commit/f0be56796419b0c2157e4e35a88fd0fc2a851a29)
+- [ ] [<code>Cleaning up issues.</code>](https://github.com/phase1geo/minder/commit/5cf4ce7375e2f944c20945fb02f6618477bca23e)
+- [ ] [<code>Merge branch 'markdown-shortcuts'</code>](https://github.com/phase1geo/minder/commit/b90ceed5bfb9d5fc417e6d7d0f7f3ad0da95c73b)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
@@ -345,6 +351,11 @@
 - [ ] [<code>fix (#2366)</code>](https://github.com/alainm23/planify/commit/aeeb0b86965445d4708e532b0a95d8c222f115fd)
 - [ ] [<code>fix (#2368)</code>](https://github.com/alainm23/planify/commit/e4ee077e97c535923f16b770d3c6e8dd2c55b4fb)
 - [ ] [<code>Translations update from Hosted Weblate (#2367)</code>](https://github.com/alainm23/planify/commit/7b03c496dc3612d8adebeb6495c2b545b42c5c4b)
+- [ ] [<code>Add ETag and If-Match support for CalDAV conflict detection (#2369)</code>](https://github.com/alainm23/planify/commit/3a23db495b95ab64892f11637cab2c9d6a5234d9)
+- [ ] [<code>fix verify duedate (#2370)</code>](https://github.com/alainm23/planify/commit/1660d5320c4776a9c1f902146383d912fa9e88e0)
+- [ ] [<code>source serve by dafault (#2371)</code>](https://github.com/alainm23/planify/commit/e22c06e965bdeac59290dfae2c52f95ea9affc99)
+- [ ] [<code>Accept HTTP 200 for MKCOL when creating CalDAV projects (#2373)</code>](https://github.com/alainm23/planify/commit/cb11a8fb50675e3689c4843c27364ac72d547ce7)
+- [ ] [<code>Bump softprops/action-gh-release from 2 to 3 (#2376)</code>](https://github.com/alainm23/planify/commit/7d02f373c3f8d1fbfe075ca13b6caf9d4c6c1ee3)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
