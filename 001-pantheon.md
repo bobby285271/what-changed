@@ -101,6 +101,8 @@
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#301)</code>](https://github.com/elementary/camera/commit/5b499f5b6087f93a1612c7397f67e53e2518b3c5)
+- [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.2.0...HEAD)
 
@@ -475,6 +477,9 @@
 - [ ] [<code>Provide fallback for title; set title in idle (#999)</code>](https://github.com/elementary/terminal/commit/ca14b25b29995034896b35427e8a3e340c7df183)
 - [ ] [<code>Fix excessive scroll speed in Wayland (#1000)</code>](https://github.com/elementary/terminal/commit/2e8a6de2045879139da98771d7faf7fed56281df)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release version 8.0.0 (#970)</code>](https://github.com/elementary/terminal/commit/68f3f9a6f5eff9aa0ef493ef43926732c0da1237)
+  - <sub>Tags: <code>8.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -550,6 +555,7 @@
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
+- [ ] [<code>ShortcutsList: use a single list model (#565)</code>](https://github.com/elementary/settings-keyboard/commit/d2ef67181f64cf89650242f1a47e5700d8d0308a)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -966,6 +972,7 @@
 - [ ] [<code>Styling: Add `.destructive` class for `button.text-button` (#870)</code>](https://github.com/elementary/granite/commit/0082672a634ffc3e4716ac83ec16b83aaaedd786)
 - [ ] [<code>Move design goals to be in-tree (#973)</code>](https://github.com/elementary/granite/commit/a202ddc8e9be57560a5755fc642101b201d1d187)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update $window_radius to match values in STANDARDS.md (#974)</code>](https://github.com/elementary/granite/commit/f664892c6d4bf436d81d14e1c8c43e12a421930a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -990,6 +997,9 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#46)</code>](https://github.com/elementary/bluetooth-daemon/commit/783e0f226176490f04fec898fe57973daeaf17d4)
 - [ ] [<code>ScanDialog: GTK4 prep (#33)</code>](https://github.com/elementary/bluetooth-daemon/commit/575f6212aff016b448a749d1629cb8fd7e26f096)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ReceiverDialog: GTK4 prep (#30)</code>](https://github.com/elementary/bluetooth-daemon/commit/76ab3e53eb38fcf85bb1b6b8f6892d8c952667d3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Replace show_all with present where appropriate (#48)</code>](https://github.com/elementary/bluetooth-daemon/commit/9730d0282ba462a65bc39b83a60e6af2cf9e85b6)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
