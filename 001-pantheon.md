@@ -121,6 +121,7 @@
 - [ ] [<code>BaseItem: Introduce a get_index method</code>](https://github.com/elementary/dock/commit/6b2f6358c473ac9775f28180c29b53080ecacc48)
 - [ ] [<code>Use ListModels for apps and workspaces</code>](https://github.com/elementary/dock/commit/cc84bbc656f1c536badafdb800609b50d62b9ad5)
 - [ ] [<code>Fix build on development target</code>](https://github.com/elementary/dock/commit/c28bb23783e648a12797ba80414286360006ea13)
+- [ ] [<code>Workaround for crashing when many tooltips are shown consecutively (#563)</code>](https://github.com/elementary/dock/commit/95c7b4b4e0202edcbe3d76bf10f8c07bb1467015)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
