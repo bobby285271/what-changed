@@ -356,6 +356,7 @@
 - [ ] [<code>source serve by dafault (#2371)</code>](https://github.com/alainm23/planify/commit/e22c06e965bdeac59290dfae2c52f95ea9affc99)
 - [ ] [<code>Accept HTTP 200 for MKCOL when creating CalDAV projects (#2373)</code>](https://github.com/alainm23/planify/commit/cb11a8fb50675e3689c4843c27364ac72d547ce7)
 - [ ] [<code>Bump softprops/action-gh-release from 2 to 3 (#2376)</code>](https://github.com/alainm23/planify/commit/7d02f373c3f8d1fbfe075ca13b6caf9d4c6c1ee3)
+- [ ] [<code>fix duplicate (#2377)</code>](https://github.com/alainm23/planify/commit/404124ae8eb06a01859025040358c70bc9c9dede)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
