@@ -481,6 +481,7 @@
 - [ ] [<code>Release version 8.0.0 (#970)</code>](https://github.com/elementary/terminal/commit/68f3f9a6f5eff9aa0ef493ef43926732c0da1237)
   - <sub>Tags: <code>8.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix secondary click foreground process (#1005)</code>](https://github.com/elementary/terminal/commit/fb31d5592e4572a38fef73ff60382e6bbcf5a4de)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
