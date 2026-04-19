@@ -280,6 +280,8 @@
 - [ ] [<code>Fixing menu enable for Markdown menu commands when Markdown is disabled.</code>](https://github.com/phase1geo/minder/commit/ec396453c6c61d62d822d230e96be003bff70efe)
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/bef106f0214726fa8b9535f6cdced8e1e7994fed)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issue with updating nodes when enable-markdown is changed.</code>](https://github.com/phase1geo/minder/commit/a6e9f97ac5606f74974418d175ced399532c30e1)
+- [ ] [<code>Updating comment blocks.</code>](https://github.com/phase1geo/minder/commit/c031c57333fcb186b05108acf3e9f5c0e003d7df)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
