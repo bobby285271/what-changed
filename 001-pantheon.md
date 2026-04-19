@@ -1012,6 +1012,7 @@
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
 - [ ] [<code>Demo/Application: rely on Granite.StyleManager (#287)</code>](https://github.com/elementary/notifications/commit/48f20edff6da82ff6c30efa71ba6ba1a218201ba)
+- [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#288)</code>](https://github.com/elementary/notifications/commit/07e1b6cc6c12df1871e912f9b1945511abef815b)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
