@@ -273,6 +273,13 @@
 - [ ] [<code>Adding Markdown menu support to NoteView widgets.</code>](https://github.com/phase1geo/minder/commit/f0be56796419b0c2157e4e35a88fd0fc2a851a29)
 - [ ] [<code>Cleaning up issues.</code>](https://github.com/phase1geo/minder/commit/5cf4ce7375e2f944c20945fb02f6618477bca23e)
 - [ ] [<code>Merge branch 'markdown-shortcuts'</code>](https://github.com/phase1geo/minder/commit/b90ceed5bfb9d5fc417e6d7d0f7f3ad0da95c73b)
+- [ ] [<code>Fixing issues with keyboard vs. widget actions.</code>](https://github.com/phase1geo/minder/commit/0a352184abae4a8179acd77d9b3c8c13c0f5cc21)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updating files for upcoming 2.0.9 release.</code>](https://github.com/phase1geo/minder/commit/7f2db77e46ec8b90829ca2ffb5254938c74a262a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing menu enable for Markdown menu commands when Markdown is disabled.</code>](https://github.com/phase1geo/minder/commit/ec396453c6c61d62d822d230e96be003bff70efe)
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/bef106f0214726fa8b9535f6cdced8e1e7994fed)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
@@ -357,6 +364,9 @@
 - [ ] [<code>Accept HTTP 200 for MKCOL when creating CalDAV projects (#2373)</code>](https://github.com/alainm23/planify/commit/cb11a8fb50675e3689c4843c27364ac72d547ce7)
 - [ ] [<code>Bump softprops/action-gh-release from 2 to 3 (#2376)</code>](https://github.com/alainm23/planify/commit/7d02f373c3f8d1fbfe075ca13b6caf9d4c6c1ee3)
 - [ ] [<code>fix duplicate (#2377)</code>](https://github.com/alainm23/planify/commit/404124ae8eb06a01859025040358c70bc9c9dede)
+- [ ] [<code>fix (#2379)</code>](https://github.com/alainm23/planify/commit/e1a55f19a323a1ceee80ab5c055a446d7db6ce28)
+- [ ] [<code>fix completew (#2380)</code>](https://github.com/alainm23/planify/commit/838df376eacc3f28d22156ff3a156f9a569954db)
+- [ ] [<code>fix move (#2378)</code>](https://github.com/alainm23/planify/commit/d447933b4536683fef5cac389050127671b68a64)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
