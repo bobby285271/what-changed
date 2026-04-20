@@ -282,6 +282,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing issue with updating nodes when enable-markdown is changed.</code>](https://github.com/phase1geo/minder/commit/a6e9f97ac5606f74974418d175ced399532c30e1)
 - [ ] [<code>Updating comment blocks.</code>](https://github.com/phase1geo/minder/commit/c031c57333fcb186b05108acf3e9f5c0e003d7df)
+- [ ] [<code>Adding missing bug fix in 2.0.9 release notes</code>](https://github.com/phase1geo/minder/commit/3d9728e57e65e804fce1b202925a611c97a083f6)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/90b70e1130bd7d852363544fef9cbe6240e062ba)
+  - <sub>Tags: <code>2.0.9</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
