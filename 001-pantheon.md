@@ -111,6 +111,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1709)</code>](https://github.com/elementary/code/commit/8678d2f572cce961dfbc4274dcc1e99978c616b3)
+- [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
@@ -217,6 +218,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#179)</code>](https://github.com/elementary/maps/commit/47a3d81dca6d06a628eec58692e3636002274c83)
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#180)</code>](https://github.com/elementary/maps/commit/2bda38cae244a26826aba16b48060df9b0ae804c)
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#183)</code>](https://github.com/elementary/maps/commit/4caf796edbaada4162a9fbc0f8c0475e050e0719)
+- [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#185)</code>](https://github.com/elementary/maps/commit/71b883c64aef9253a366072ddb30e7c5889f8bbd)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -414,6 +416,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#425)</code>](https://github.com/elementary/tasks/commit/6291bb05547c1a81d573d1e71249da5e61674b2d)
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#426)</code>](https://github.com/elementary/tasks/commit/3bcccfa929a9af005bcc975fce64d01a92921b9c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#427)</code>](https://github.com/elementary/tasks/commit/12258fc8f04919e4164ed97242bc0b864bf46259)
+- [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#428)</code>](https://github.com/elementary/tasks/commit/a0566df80a985e553b4a16e94b559fa1ee597638)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
 
