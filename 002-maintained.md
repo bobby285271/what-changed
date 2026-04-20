@@ -372,6 +372,9 @@
 - [ ] [<code>fix (#2379)</code>](https://github.com/alainm23/planify/commit/e1a55f19a323a1ceee80ab5c055a446d7db6ce28)
 - [ ] [<code>fix completew (#2380)</code>](https://github.com/alainm23/planify/commit/838df376eacc3f28d22156ff3a156f9a569954db)
 - [ ] [<code>fix move (#2378)</code>](https://github.com/alainm23/planify/commit/d447933b4536683fef5cac389050127671b68a64)
+- [ ] [<code>Use GLib.debug() instead of print() in production builds (#2389)</code>](https://github.com/alainm23/planify/commit/cae8108e843bb1a25f3f7e4dadd098ab37ab5361)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2383)</code>](https://github.com/alainm23/planify/commit/7e81ec2b5c60c58d412c98290b7f226433789ed0)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
