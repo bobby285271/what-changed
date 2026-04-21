@@ -278,6 +278,13 @@
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.0...HEAD)
 
+- [ ] [<code>Use ICU for language names in Translation Row (#2385)</code>](https://github.com/alainm23/planify/commit/629b77ea627faccfd20409b8629b9ead8a97e8f5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move CLI to its own top-level directory (#2391)</code>](https://github.com/alainm23/planify/commit/f8dad6d04adf47206ab07d85729cb8327747cce8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>remove snap (#2392)</code>](https://github.com/alainm23/planify/commit/2d648b4211d0d5dba60e8f8c3cd0e24361ebc6ca)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
