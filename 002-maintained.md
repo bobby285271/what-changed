@@ -258,33 +258,8 @@
 - [ ] [<code>Update developer ID (#141)</code>](https://github.com/lainsce/khronos/commit/a827d023af538d1b02204301a8d89bc28c371ef5)
 - [ ] [<code>readme: Update Flathub badge (#145)</code>](https://github.com/lainsce/khronos/commit/a3fd8730fdf2d0bad60d13cb627a7ec66c5d5fec)
 
-#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.8 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.8...HEAD)
+#### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.9 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.9...HEAD)
 
-- [ ] [<code>Update Italian translation for Minder</code>](https://github.com/phase1geo/minder/commit/73c542d4eb1517446a0dae91df661320589eb3a3)
-- [ ] [<code>Merge pull request #727 from albanobattistella/patch-36</code>](https://github.com/phase1geo/minder/commit/a14fac6f7cad394353a2a42617d89322ff46be96)
-- [ ] [<code>Adding Markdown highlighting for strikethrough and highlighting</code>](https://github.com/phase1geo/minder/commit/fff78a08d2266c88b5ea29756aaed312841d5e2c)
-- [ ] [<code>* Fixing issues with markdown enhancement display and custom theme save</code>](https://github.com/phase1geo/minder/commit/faa8437a343694f7d0a3ea6787fbc6eea150e49e)
-- [ ] [<code>Checkpointing highlight color from theme.</code>](https://github.com/phase1geo/minder/commit/c870bde8186c071751eee039488311bae8633cbf)
-- [ ] [<code>Adding initial support for highlight color theming.</code>](https://github.com/phase1geo/minder/commit/3d72bd8c06ab37237031ca733d1cd4893f652202)
-- [ ] [<code>Merge branch 'md-enhancements'</code>](https://github.com/phase1geo/minder/commit/fde4f6dd36cd8071f2691f1a5f7783f805bc4130)
-- [ ] [<code>Checkpointing work on supporting Markdown shortcuts.</code>](https://github.com/phase1geo/minder/commit/8f84624b7ae42318b4f470a5e05a092c262839b3)
-- [ ] [<code>Adding Markdown support for node text and miscellaneous menu.</code>](https://github.com/phase1geo/minder/commit/58d402f338ba665671dbdb1a51f2c600a336808f)
-- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/d8ea896fb1c924ba5ad3a99de5c35772c9d45c36)
-- [ ] [<code>Adding Markdown menu support to NoteView widgets.</code>](https://github.com/phase1geo/minder/commit/f0be56796419b0c2157e4e35a88fd0fc2a851a29)
-- [ ] [<code>Cleaning up issues.</code>](https://github.com/phase1geo/minder/commit/5cf4ce7375e2f944c20945fb02f6618477bca23e)
-- [ ] [<code>Merge branch 'markdown-shortcuts'</code>](https://github.com/phase1geo/minder/commit/b90ceed5bfb9d5fc417e6d7d0f7f3ad0da95c73b)
-- [ ] [<code>Fixing issues with keyboard vs. widget actions.</code>](https://github.com/phase1geo/minder/commit/0a352184abae4a8179acd77d9b3c8c13c0f5cc21)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updating files for upcoming 2.0.9 release.</code>](https://github.com/phase1geo/minder/commit/7f2db77e46ec8b90829ca2ffb5254938c74a262a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing menu enable for Markdown menu commands when Markdown is disabled.</code>](https://github.com/phase1geo/minder/commit/ec396453c6c61d62d822d230e96be003bff70efe)
-- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/bef106f0214726fa8b9535f6cdced8e1e7994fed)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fixing issue with updating nodes when enable-markdown is changed.</code>](https://github.com/phase1geo/minder/commit/a6e9f97ac5606f74974418d175ced399532c30e1)
-- [ ] [<code>Updating comment blocks.</code>](https://github.com/phase1geo/minder/commit/c031c57333fcb186b05108acf3e9f5c0e003d7df)
-- [ ] [<code>Adding missing bug fix in 2.0.9 release notes</code>](https://github.com/phase1geo/minder/commit/3d9728e57e65e804fce1b202925a611c97a083f6)
-- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/90b70e1130bd7d852363544fef9cbe6240e062ba)
-  - <sub>Tags: <code>2.0.9</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
 
@@ -301,80 +276,8 @@
 - [ ] [<code>chore: Cleanup development-related files (#358)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e72c442d19c1525b5bc45218625fced6341007e1)
 - [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#359)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2062366e6810d6c2ed5a49d0255d11a11c2540bd)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.18.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.18.3...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.0...HEAD)
 
-- [ ] [<code>feat: background (#2270)</code>](https://github.com/alainm23/planify/commit/6af64f8d8bf376513e86874de73f2e081c1e86f5)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>update text (#2313)</code>](https://github.com/alainm23/planify/commit/55c2955e1a68544287847208a08be531bf90e7f7)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: filter labels from archived projects in Labels view and Label Picker (#2315)</code>](https://github.com/alainm23/planify/commit/e1033b6ae2332b2dfb00b6d864b736c0e8a21edf)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add AI Policy for contributors (#2316)</code>](https://github.com/alainm23/planify/commit/55bbf90c230a9088e27c1c6c1aa6ec677b4cd6c6)
-- [ ] [<code>fix portal error (#2318)</code>](https://github.com/alainm23/planify/commit/42114b8d41cdb29c3b75564ccb2f8eb00c1e0764)
-- [ ] [<code>Remove mo files (#2319)</code>](https://github.com/alainm23/planify/commit/78c9fcbe51b2482ac3f3bdb5bd65003401ed62d1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix (#2320)</code>](https://github.com/alainm23/planify/commit/b28d6a0a7549929768a0776ba6fd438ad6c275e8)
-- [ ] [<code>fix (#2321)</code>](https://github.com/alainm23/planify/commit/8159b7ec914d8c16baee62e3cc93028d51b29d89)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: add Summary & Productivity dialog (Phase 1) (#2323)</code>](https://github.com/alainm23/planify/commit/1f3013d85f09bc992bffacb39f2faf8e56e2bb36)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add PDF export for projects (#2324)</code>](https://github.com/alainm23/planify/commit/03b5cd32c3c9f4e113a9f0c063940c74039090b7)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix calendar day alignment and show 3 weeks ahead (#2325)</code>](https://github.com/alainm23/planify/commit/d2a00b1444e8b444fe1f41c5e4370cafab43e2a4)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2322)</code>](https://github.com/alainm23/planify/commit/78ca3c9b6371ddb0bfd451b65a91d02b3f4002d6)
-- [ ] [<code>Translations update from Hosted Weblate (#2317)</code>](https://github.com/alainm23/planify/commit/904f0ae34b962510a8e35b8d9faf432941df1837)
-- [ ] [<code>Replace WebKitGTK with external browser for Todoist OAuth (#2336)</code>](https://github.com/alainm23/planify/commit/76aa4f76bfaa65ded1ff0977c9466f98f61146b2)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Remove donate banner from Preferences (#2337)</code>](https://github.com/alainm23/planify/commit/3aaf86ba8503916b16c758cdb0a6b83a80d7de64)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2328)</code>](https://github.com/alainm23/planify/commit/fae027c4b8026ea00e6a05c1566f8e7266496845)
-- [ ] [<code>Translations update from Hosted Weblate (#2341)</code>](https://github.com/alainm23/planify/commit/8e7bc8a7e7c56e16d82d1bf785de503286dc85e7)
-- [ ] [<code>Support asterisk prefix for incompletable tasks (#2342)</code>](https://github.com/alainm23/planify/commit/bc251b430f5cc26f5c39f59c734ba8f9addfcbe2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add GNOME Shell search provider (#2344)</code>](https://github.com/alainm23/planify/commit/6d7861e7257b3dd8052f2008393947e503eb846a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>update template (#2345)</code>](https://github.com/alainm23/planify/commit/48b4574ae48bf64e690f9ef20799165ff821de22)
-- [ ] [<code>Translations update from Hosted Weblate (#2343)</code>](https://github.com/alainm23/planify/commit/0a6e672e59f674e3c774aae7f3753f5e8b0dafc6)
-- [ ] [<code>add log service (#2349)</code>](https://github.com/alainm23/planify/commit/ffae46a4a6d154bdbab0908be7a3c43c3b5d41aa)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix invalid Todoist API token being accepted (#2350)</code>](https://github.com/alainm23/planify/commit/91290a21251899b2603ad8a46e85a48736134cd2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Improve ErrorView design and usability (#2352)</code>](https://github.com/alainm23/planify/commit/f92c120d72eeb222ed0a33c2280e9815ddaa564f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Redesign account setup pages and add logging (#2353)</code>](https://github.com/alainm23/planify/commit/66f88e19c75a19f3d48305cb8567e831dfc5839a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump actions/github-script from 8 to 9 (#2348)</code>](https://github.com/alainm23/planify/commit/2510751c621cf97934b0b01a5141c95dd1989a02)
-- [ ] [<code>fix sync archive (#2355)</code>](https://github.com/alainm23/planify/commit/f51abb4487d2337429f2a0b2f4eb8135db39f88e)
-- [ ] [<code>fix scroll (#2356)</code>](https://github.com/alainm23/planify/commit/a96629ebeb2548ed760a31dc9f5414904bd86fb3)
-- [ ] [<code> Handle CalDAV sync errors with typed status (#2357)</code>](https://github.com/alainm23/planify/commit/f0ff954fe65b4ccd3fcae0e3612375e3340a969d)
-- [ ] [<code>copy to mul;tiple (#2358)</code>](https://github.com/alainm23/planify/commit/bc77094cb9ba6f5d37492d958c274beda891e2ef)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add per-project markdown rendering setting (#2361)</code>](https://github.com/alainm23/planify/commit/7be87aed0332e8d2568334f7366e5abbb0e7d452)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix day change not detected after system suspend/resume (#2362)</code>](https://github.com/alainm23/planify/commit/4408fd0dd26dc8d6c404204a78f5ad1348196f86)
-- [ ] [<code>Translations update from Hosted Weblate (#2351)</code>](https://github.com/alainm23/planify/commit/10115149c78aceb36b1d9d09afcd05e9a1c53211)
-- [ ] [<code>fix datyer (#2364)</code>](https://github.com/alainm23/planify/commit/b826e12e1079e42e16447a9cf4ce618862accde6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix radio (#2365)</code>](https://github.com/alainm23/planify/commit/5561904ddfadf522b510b80332442d38da5d158c)
-- [ ] [<code>fix (#2366)</code>](https://github.com/alainm23/planify/commit/aeeb0b86965445d4708e532b0a95d8c222f115fd)
-- [ ] [<code>fix (#2368)</code>](https://github.com/alainm23/planify/commit/e4ee077e97c535923f16b770d3c6e8dd2c55b4fb)
-- [ ] [<code>Translations update from Hosted Weblate (#2367)</code>](https://github.com/alainm23/planify/commit/7b03c496dc3612d8adebeb6495c2b545b42c5c4b)
-- [ ] [<code>Add ETag and If-Match support for CalDAV conflict detection (#2369)</code>](https://github.com/alainm23/planify/commit/3a23db495b95ab64892f11637cab2c9d6a5234d9)
-- [ ] [<code>fix verify duedate (#2370)</code>](https://github.com/alainm23/planify/commit/1660d5320c4776a9c1f902146383d912fa9e88e0)
-- [ ] [<code>source serve by dafault (#2371)</code>](https://github.com/alainm23/planify/commit/e22c06e965bdeac59290dfae2c52f95ea9affc99)
-- [ ] [<code>Accept HTTP 200 for MKCOL when creating CalDAV projects (#2373)</code>](https://github.com/alainm23/planify/commit/cb11a8fb50675e3689c4843c27364ac72d547ce7)
-- [ ] [<code>Bump softprops/action-gh-release from 2 to 3 (#2376)</code>](https://github.com/alainm23/planify/commit/7d02f373c3f8d1fbfe075ca13b6caf9d4c6c1ee3)
-- [ ] [<code>fix duplicate (#2377)</code>](https://github.com/alainm23/planify/commit/404124ae8eb06a01859025040358c70bc9c9dede)
-- [ ] [<code>fix (#2379)</code>](https://github.com/alainm23/planify/commit/e1a55f19a323a1ceee80ab5c055a446d7db6ce28)
-- [ ] [<code>fix completew (#2380)</code>](https://github.com/alainm23/planify/commit/838df376eacc3f28d22156ff3a156f9a569954db)
-- [ ] [<code>fix move (#2378)</code>](https://github.com/alainm23/planify/commit/d447933b4536683fef5cac389050127671b68a64)
-- [ ] [<code>Use GLib.debug() instead of print() in production builds (#2389)</code>](https://github.com/alainm23/planify/commit/cae8108e843bb1a25f3f7e4dadd098ab37ab5361)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2383)</code>](https://github.com/alainm23/planify/commit/7e81ec2b5c60c58d412c98290b7f226433789ed0)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
