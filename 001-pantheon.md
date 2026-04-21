@@ -112,6 +112,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1709)</code>](https://github.com/elementary/code/commit/8678d2f572cce961dfbc4274dcc1e99978c616b3)
 - [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
+- [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
 
