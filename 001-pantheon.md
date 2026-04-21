@@ -418,72 +418,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#427)</code>](https://github.com/elementary/tasks/commit/12258fc8f04919e4164ed97242bc0b864bf46259)
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#428)</code>](https://github.com/elementary/tasks/commit/a0566df80a985e553b4a16e94b559fa1ee597638)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/7.2.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/7.2.0...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
 
-- [ ] [<code>Port to Gtk4 (#780)</code>](https://github.com/elementary/terminal/commit/76febb2f9efd850feec7150cd20da94da2175cba)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>master → main</code>](https://github.com/elementary/terminal/commit/26f9852e2a86da125705d69df8a47abae1a0e9bb)
-- [ ] [<code>Workflows/Gettext: update to main</code>](https://github.com/elementary/terminal/commit/10e431342732cc0b1ffc13ecaf8f9df48d151047)
-- [ ] [<code>MainWindow: use ToolbarView (#938)</code>](https://github.com/elementary/terminal/commit/b3e052d9a57ca38cc158553539bce86aca5551e1)
-- [ ] [<code>Fix some Vala warnings</code>](https://github.com/elementary/terminal/commit/880a93a1f8e6b3aba026d7c564a0f7078de36855)
-- [ ] [<code>Fix some C warnings</code>](https://github.com/elementary/terminal/commit/092f22c3cd4c6982f38f64a6d6e76ab803943d96)
-- [ ] [<code>Use Granite.Box for LINKED (#941)</code>](https://github.com/elementary/terminal/commit/75cbccf854b0bc4a6a65d63efe03dc5cf490bca9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix search shortcuts (#942)</code>](https://github.com/elementary/terminal/commit/cead64b47c801118fab9d47f45f67edd9388ce2a)
-- [ ] [<code>Move adding new tab method to TerminalView (#950)</code>](https://github.com/elementary/terminal/commit/434e384f0fd60592cf2f479416a7a5f123219642)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Allow Ctrl+Backspace for deleting words (#949)</code>](https://github.com/elementary/terminal/commit/47a821c2cf23771465a3d97777b9c123dfaab0e1)
-- [ ] [<code>Ctrl + Click to open URLs (#952)</code>](https://github.com/elementary/terminal/commit/d26c9bd10226345207314f7992ee764c5a1fdd20)
-- [ ] [<code>Move zoom overlay to TerminalView (#951)</code>](https://github.com/elementary/terminal/commit/996a5fa32564aaddceda9f7367ddb35178647b73)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>MainWindow: remove clipboard (#954)</code>](https://github.com/elementary/terminal/commit/91c2a07ebd0febf0120038eff17141f493bf3c7e)
-- [ ] [<code>Move alt+[1-8] shortcuts to TerminalView (#953)</code>](https://github.com/elementary/terminal/commit/c84dced6d5494ee67b872d6ea150435e19d6637a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/terminal/commit/8bb736ba3ffdbd839f09e5fa6d88840c9c1555f5)
-- [ ] [<code>Metainfo for v8.0.0 (#957)</code>](https://github.com/elementary/terminal/commit/b4c0f2d55f4a89d3b594e522198e60007787600c)
-- [ ] [<code>Don't deselect text with natural copy/paste (#960)</code>](https://github.com/elementary/terminal/commit/ac0e1454b023021a2b035380eae2942bbf1755a8)
-- [ ] [<code>Update v8.0.0 metadata (#962)</code>](https://github.com/elementary/terminal/commit/74587cae32c1fc2585be06424df0191ecce55df0)
-- [ ] [<code>TerminalWidget: remove internal tab usage (#963)</code>](https://github.com/elementary/terminal/commit/663748249c980474cc23b723edc59d5ad6fc70a8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Reconstruct menu model every time we show it (#964)</code>](https://github.com/elementary/terminal/commit/a23c9d81d022e9d4c2ac54fb4e7678050f34d0a3)
-- [ ] [<code>Remove "Show Search Bar" menu item from context menu (#967)</code>](https://github.com/elementary/terminal/commit/e1b54a3421808f8c2197742ea6f966ba59b2a569)
-- [ ] [<code>Move open in browser action to TerminalWidget (#966)</code>](https://github.com/elementary/terminal/commit/6161ac4fecc44745aaa95dbb32defc185bfff112)
-- [ ] [<code>Move context menu initialization to TerminalWidget (#968)</code>](https://github.com/elementary/terminal/commit/32d5facee85492616afff23d659691faf7223148)
-- [ ] [<code>Launcher: add icon names to app actions</code>](https://github.com/elementary/terminal/commit/6dd26f424b2f670524fbe5ac3df22d6eaeb74aa3)
-- [ ] [<code>TerminalWidget: support long press secondary click (#974)</code>](https://github.com/elementary/terminal/commit/e2ef833480b3346c3f7fb4300da08876ffb91dee)
-- [ ] [<code>Fix some issues with running under tmux (#946)</code>](https://github.com/elementary/terminal/commit/f103e7d5ab0e7c0ba98b2a5b7f45da1dbf46f0d8)
-- [ ] [<code>Cleanup handling of tab icons (#969)</code>](https://github.com/elementary/terminal/commit/6c9ebe3df698d73b2f6b9e8ec6860685466da240)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add tab indicator for working terminal tab (#971)</code>](https://github.com/elementary/terminal/commit/131444a229c4aaf219aff0cea000ec0e26b191fb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove TerminalWidget.init_complete (#978)</code>](https://github.com/elementary/terminal/commit/ab7ab67b6a79379331dc2e51f365c26cd3131b36)
-- [ ] [<code>TerminalWidget: don't store window info (#977)</code>](https://github.com/elementary/terminal/commit/13efc1cfba397b4b94184db770205549a040f9e2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>SettingsPopover: use actions where possible (#982)</code>](https://github.com/elementary/terminal/commit/c254985e1f84499156975b3058dfaf6dad6b148c)
-- [ ] [<code>Revert "Remove TerminalWidget.init_complete" (#983)</code>](https://github.com/elementary/terminal/commit/e5aaf806fd2f5228d72068ac310180f0bcd70637)
-- [ ] [<code>Update screenshots (#984)</code>](https://github.com/elementary/terminal/commit/58f8cab515fb159cef588bdaf692dc594416d945)
-- [ ] [<code>Themes: Make `color09` different from `bg` (#985)</code>](https://github.com/elementary/terminal/commit/c63b989d3766345d4d1d3c6f9f178b2d49111f12)
-- [ ] [<code>Change default scrollback-lines (#939)</code>](https://github.com/elementary/terminal/commit/9ce22d30d472cdab326b75cb06870f93c43efd9b)
-- [ ] [<code>Metainfo: update 8.0.0 release notes (#987)</code>](https://github.com/elementary/terminal/commit/60d1083e3b220af5e1c09cc450f4209452f4aac7)
-- [ ] [<code>Update custom style screenshot (#988)</code>](https://github.com/elementary/terminal/commit/95a689f62ead5d15883c478f900ac6c8f8f388bb)
-- [ ] [<code>Delay process end notification (#994)</code>](https://github.com/elementary/terminal/commit/43a7411f61fd2c448457d7c4ec873d2cd8ef7e7f)
-- [ ] [<code>Application: return early in notify timeout (#997)</code>](https://github.com/elementary/terminal/commit/2722277c1f688cc8ec14ce214f776dd5a24629d6)
-- [ ] [<code>Remove restored tab path from tab history menu (#998)</code>](https://github.com/elementary/terminal/commit/3c185e42d92d0b4fa22b1e53aefc5918ad1286a6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Cleanup: explicit private modifier and remove dead code (#995)</code>](https://github.com/elementary/terminal/commit/5bfe3a7313a7c729ad4fc454f5cef95b1946dd34)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Reduce the scope of gnome interface settings object (#986)</code>](https://github.com/elementary/terminal/commit/d1cc9e5887bb1fd51849c736a7cc489e88e870f7)
-  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Do not show loading spinner for all foreground processes (#1003)</code>](https://github.com/elementary/terminal/commit/890e0f2f17606687a493ba070cca153418ec61a4)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Provide fallback for title; set title in idle (#999)</code>](https://github.com/elementary/terminal/commit/ca14b25b29995034896b35427e8a3e340c7df183)
-- [ ] [<code>Fix excessive scroll speed in Wayland (#1000)</code>](https://github.com/elementary/terminal/commit/2e8a6de2045879139da98771d7faf7fed56281df)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release version 8.0.0 (#970)</code>](https://github.com/elementary/terminal/commit/68f3f9a6f5eff9aa0ef493ef43926732c0da1237)
-  - <sub>Tags: <code>8.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix secondary click foreground process (#1005)</code>](https://github.com/elementary/terminal/commit/fb31d5592e4572a38fef73ff60382e6bbcf5a4de)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
@@ -618,6 +554,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
 - [ ] [<code>Fix empty "Applications" tab (#299)</code>](https://github.com/elementary/settings-sound/commit/58640c9633f13a977768fed4ae2269a21ae293a4)
 - [ ] [<code>metainfo: add 8.0.3 notes (#303)</code>](https://github.com/elementary/settings-sound/commit/918935906c3cdf5fbb7b2ccc384ef93667e3485e)
+- [ ] [<code>AppRow: Fix default toggle position (#300)</code>](https://github.com/elementary/settings-sound/commit/5836c1a86aa2d089f60f9fd176dc85d262cb4fa8)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
@@ -720,6 +657,12 @@
 - [ ] [<code>GestureController: Clamp progress to the given clamps</code>](https://github.com/elementary/gala/commit/a3564eacda978749179f046e902b550b48f5753d)
 - [ ] [<code>MultitaskingView: Allow overshoot</code>](https://github.com/elementary/gala/commit/123c29d4faf27645b147ffa5dd6a30b06b66dc8a)
 - [ ] [<code>WindowManager: fix overlay key filter (#2816)</code>](https://github.com/elementary/gala/commit/ade84a4a24037570ddde3c68cdcdfd195a5c2796)
+- [ ] [<code>WorkspaceClone: Handle monitor scale and geometry internally</code>](https://github.com/elementary/gala/commit/25cea9122b6a9d3bd8d213a80a4ae1cd6c604275)
+- [ ] [<code>WorkspaceRow: Take over workspace clone management from mtv</code>](https://github.com/elementary/gala/commit/cb605d6807d42e6bd6e43353d173a214d997fea8)
+- [ ] [<code>Tests: Introduce a MutterTestCase</code>](https://github.com/elementary/gala/commit/f36251ff51519b13b12c43e51137e382fa022d10)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: Setup Test Environment for mutter tests</code>](https://github.com/elementary/gala/commit/013773355354890d51a84924f93e6c08cb760977)
+- [ ] [<code>README: Add section about how to run the tests (#2820)</code>](https://github.com/elementary/gala/commit/22812d7c6296cef2454d93827d98503354accd00)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
