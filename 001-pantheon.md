@@ -1009,6 +1009,7 @@
 - [ ] [<code>Create Account portal (#180)</code>](https://github.com/elementary/portals/commit/9abbdf5386e8e4fe4c5fc3f6b616945f55129b38)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CI: add systemd-dev (#187)</code>](https://github.com/elementary/portals/commit/533855e280f369b19b035020f18ae33e3549bda7)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
