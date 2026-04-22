@@ -285,6 +285,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>remove snap (#2392)</code>](https://github.com/alainm23/planify/commit/2d648b4211d0d5dba60e8f8c3cd0e24361ebc6ca)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix comploete</code>](https://github.com/alainm23/planify/commit/7a2b9b670f76de0647769b3b7abf8318fd17187f)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
