@@ -924,6 +924,7 @@
 - [ ] [<code>Move design goals to be in-tree (#973)</code>](https://github.com/elementary/granite/commit/a202ddc8e9be57560a5755fc642101b201d1d187)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update $window_radius to match values in STANDARDS.md (#974)</code>](https://github.com/elementary/granite/commit/f664892c6d4bf436d81d14e1c8c43e12a421930a)
+- [ ] [<code>Revert valadoc link to point to granite-7 documentation (#976)</code>](https://github.com/elementary/granite/commit/1d09476ae9ab1d89018973c8f3dd4554cec3bdea)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
