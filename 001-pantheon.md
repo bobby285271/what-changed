@@ -664,6 +664,14 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>CI: Setup Test Environment for mutter tests</code>](https://github.com/elementary/gala/commit/013773355354890d51a84924f93e6c08cb760977)
 - [ ] [<code>README: Add section about how to run the tests (#2820)</code>](https://github.com/elementary/gala/commit/22812d7c6296cef2454d93827d98503354accd00)
+- [ ] [<code>Support keyboard navigation over multiple monitors in multitasking view (#2536)</code>](https://github.com/elementary/gala/commit/c83e418f57b8014755cdfde024b42fb33c33ff19)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tests/lib/meson: Use gala_lib_sources instead of manually including the needed sources</code>](https://github.com/elementary/gala/commit/6dd8dfdabeabaeb98d7d69974d2a3785e4853793)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Introduce a basic GestureControllerTest</code>](https://github.com/elementary/gala/commit/d2e4dce36407e56c41b7232deacfe6ad7e243046)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Introduce a wayland/x11 mutter hints protocol for monitor labels (#2084)</code>](https://github.com/elementary/gala/commit/3c0c3fe8cf336a3404972ad44f3ce37f50940943)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
