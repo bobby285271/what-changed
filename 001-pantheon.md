@@ -96,6 +96,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#943)</code>](https://github.com/elementary/calendar/commit/9b5ea501d358e61476130e68e83367a9cae15487)
 - [ ] [<code>VAutoHider: cleanup size_allocate (#940)</code>](https://github.com/elementary/calendar/commit/f5d41e255c7fae1fed30cb7e7726756bbc6fa392)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>LocationPanel: remove point dragging to set location (#932)</code>](https://github.com/elementary/calendar/commit/7b62879151dd95a646c50811f961a5b601712330)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -197,6 +198,9 @@
 - [ ] [<code>Email plugin: use GLib.Action (#2774)</code>](https://github.com/elementary/files/commit/bf896e914055a93416646fcba251294e7e1f20a7)
 - [ ] [<code>Contractor plugin: use GLib.Action (#2775)</code>](https://github.com/elementary/files/commit/01e4deb239e95e78641350febf38aff5afc97f1f)
 - [ ] [<code>PluginManager: clean up deprecated functions (#2776)</code>](https://github.com/elementary/files/commit/90d5666a67c77939fe9b39880945ab53d49e3a13)
+- [ ] [<code>AbstractDirectoryView: use GLib.Menu for open in submenu (#2760)</code>](https://github.com/elementary/files/commit/678034f856d117a83f0dc9cec55ef6daa6b056d2)
+- [ ] [<code>Introduce side-widget in Abstract Slot and use for preview window (#2714)</code>](https://github.com/elementary/files/commit/88b38d75125ac03605084f2bc8e49735019cbf79)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -613,6 +617,8 @@
 - [ ] [<code>Add support for Mutter 50 (#867)</code>](https://github.com/elementary/greeter/commit/5678e1c826c81ed6b7cd58daa79300f3e38dcc2c)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>MainWindow: make demo mode a wayland session (#872)</code>](https://github.com/elementary/greeter/commit/98b5cca43a6c0a56e86a9478cc5ec3238c5cd197)
+- [ ] [<code>Use a wayland session to start the greeter (#752)</code>](https://github.com/elementary/greeter/commit/b7d4eab66ac60e9b44a5ec3f483e9a1a0313fb1f)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -933,6 +939,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update $window_radius to match values in STANDARDS.md (#974)</code>](https://github.com/elementary/granite/commit/f664892c6d4bf436d81d14e1c8c43e12a421930a)
 - [ ] [<code>Revert valadoc link to point to granite-7 documentation (#976)</code>](https://github.com/elementary/granite/commit/1d09476ae9ab1d89018973c8f3dd4554cec3bdea)
+- [ ] [<code>Demo/Controls: add more image button examples (#971)</code>](https://github.com/elementary/granite/commit/c1a63671f96ac001680312670d481f05169cc71e)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1056,6 +1063,7 @@
 - [ ] [<code>Delete EOL configs (#794)</code>](https://github.com/elementary/os/commit/1aa4b2c7f2a0540ef4ca58c7ad9b0ef88e0b0577)
 - [ ] [<code>Remove network configurations (#748)</code>](https://github.com/elementary/os/commit/d73bc81c685093d63a8871eab521a317d91361c8)
   - <sub>Tags: <code>8.1.1-rc1</code></sub>
+- [ ] [<code>Add OS 9 Daily (#796)</code>](https://github.com/elementary/os/commit/4f0df24bc6b84a3b2942e5c3638cd79fbd9efb73)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -1067,3 +1075,4 @@
 - [ ] [<code>SDK: add wingpanel-9, remove unity (#150)</code>](https://github.com/elementary/seeds/commit/157dd83e0adfa1ccabc4b9d9e7356dd6199af86d)
 - [ ] [<code>Pantheon: remove io.elementary.print (#151)</code>](https://github.com/elementary/seeds/commit/b0c8818c88e6b5bcda260940863880e1764db90e)
 - [ ] [<code>Desktop: Update more panel plugin names</code>](https://github.com/elementary/seeds/commit/02518b777cab2e67014b5a4129a6efaef384fc88)
+- [ ] [<code>desktop: Drop im-config (#152)</code>](https://github.com/elementary/seeds/commit/0c52583848a7ee4e3bb3c79e44b9170fda7e278e)
