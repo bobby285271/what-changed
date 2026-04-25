@@ -285,6 +285,7 @@
 - [ ] [<code>Metadata in AudioObject (#834)</code>](https://github.com/elementary/music/commit/3eebdd2aab7ddd044748829f47a0948bd3478966)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#842)</code>](https://github.com/elementary/music/commit/06a4c0df8695f87ecf733218e7a1067cbc0339ca)
+- [ ] [<code>Respect ReplayGain meta data (#841)</code>](https://github.com/elementary/music/commit/f0325df8515b635b6fe6c04d4fc7e5135b98b390)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
