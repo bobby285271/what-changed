@@ -287,6 +287,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>fix comploete</code>](https://github.com/alainm23/planify/commit/7a2b9b670f76de0647769b3b7abf8318fd17187f)
 - [ ] [<code>Translations update from Hosted Weblate (#2396)</code>](https://github.com/alainm23/planify/commit/47cee93c1264385185a01ad222f8c2c7de86d13f)
+- [ ] [<code>Fix CalDAV sync for multiple Server Implementations (#2397)</code>](https://github.com/alainm23/planify/commit/abe43cd1894758703d7b0f8902826bae2598b807)
+- [ ] [<code>fix tone (#2402)</code>](https://github.com/alainm23/planify/commit/88c7f4b4889d5c23e19f0aa1ed77b5a94e7043c9)
+- [ ] [<code>use fallback (#2403)</code>](https://github.com/alainm23/planify/commit/798ab6bbbda074113380838d0ad9ccd7169ff063)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
