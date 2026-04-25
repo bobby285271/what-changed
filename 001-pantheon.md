@@ -201,6 +201,9 @@
 - [ ] [<code>AbstractDirectoryView: use GLib.Menu for open in submenu (#2760)</code>](https://github.com/elementary/files/commit/678034f856d117a83f0dc9cec55ef6daa6b056d2)
 - [ ] [<code>Introduce side-widget in Abstract Slot and use for preview window (#2714)</code>](https://github.com/elementary/files/commit/88b38d75125ac03605084f2bc8e49735019cbf79)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release version 7.3.0 (#2688)</code>](https://github.com/elementary/files/commit/b4f983b7587118f13d8073f0c211d24eb5603813)
+  - <sub>Tags: <code>7.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -619,6 +622,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>MainWindow: make demo mode a wayland session (#872)</code>](https://github.com/elementary/greeter/commit/98b5cca43a6c0a56e86a9478cc5ec3238c5cd197)
 - [ ] [<code>Use a wayland session to start the greeter (#752)</code>](https://github.com/elementary/greeter/commit/b7d4eab66ac60e9b44a5ec3f483e9a1a0313fb1f)
+- [ ] [<code>Don't use X11 with a11y features (#874)</code>](https://github.com/elementary/greeter/commit/927247729e9ef46d8d4853d82dd1d1111d50fd28)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -678,6 +683,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Introduce a wayland/x11 mutter hints protocol for monitor labels (#2084)</code>](https://github.com/elementary/gala/commit/3c0c3fe8cf336a3404972ad44f3ce37f50940943)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager: Dont animate menu map (#2830)</code>](https://github.com/elementary/gala/commit/fb6e904ce6f792a6ffdbf9fc744dfb1a9c9a59d8)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -944,6 +950,7 @@
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
 - [ ] [<code>pantheon-desktop-shell: Manually bind the free function (#10)</code>](https://github.com/elementary/pantheon-wayland/commit/d45befac4482d4c7b26315ebc3c894ed136f5e5c)
+- [ ] [<code>Add the make_monitor_label method (#3)</code>](https://github.com/elementary/pantheon-wayland/commit/74020b3651bd4a11b5b3d672454d6ee4064237f2)
 ## services
 
 #### [pantheon.contractor](https://github.com/elementary/contractor): [0.3.5 → HEAD](https://github.com/elementary/contractor/compare/0.3.5...HEAD)
@@ -1064,6 +1071,7 @@
 - [ ] [<code>Remove network configurations (#748)</code>](https://github.com/elementary/os/commit/d73bc81c685093d63a8871eab521a317d91361c8)
   - <sub>Tags: <code>8.1.1-rc1</code></sub>
 - [ ] [<code>Add OS 9 Daily (#796)</code>](https://github.com/elementary/os/commit/4f0df24bc6b84a3b2942e5c3638cd79fbd9efb73)
+- [ ] [<code>Fix workflow file extension (#801)</code>](https://github.com/elementary/os/commit/8e470208cae786759c87e16c9f508ca13381030f)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
