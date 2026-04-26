@@ -291,6 +291,8 @@
 - [ ] [<code>fix tone (#2402)</code>](https://github.com/alainm23/planify/commit/88c7f4b4889d5c23e19f0aa1ed77b5a94e7043c9)
 - [ ] [<code>use fallback (#2403)</code>](https://github.com/alainm23/planify/commit/798ab6bbbda074113380838d0ad9ccd7169ff063)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add descriptyion modal (#2404)</code>](https://github.com/alainm23/planify/commit/c95834b77215395a1842bfd71c3e36918f656b94)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
