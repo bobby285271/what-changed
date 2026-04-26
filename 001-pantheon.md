@@ -129,81 +129,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.2.0 → HEAD](https://github.com/elementary/files/compare/7.2.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.0 → HEAD](https://github.com/elementary/files/compare/7.3.0...HEAD)
 
-- [ ] [<code>LibCore: compile gresource (#2682)</code>](https://github.com/elementary/files/commit/9448195685bd04dc1d719b866701efdf513d41e0)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Avoid selecting non-existent file on initial display (#2673)</code>](https://github.com/elementary/files/commit/60ac5d10a67ed7091e953bd51b4fdee68e43b849)
-- [ ] [<code>Add preview column to Column View (#2620)</code>](https://github.com/elementary/files/commit/a943aa4d8ac66ea4ee934bfb6867a986e75ffe56)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Prepare metainfo for release v7.3.0 (#2686)</code>](https://github.com/elementary/files/commit/9aecabff3bd3bb9de568b99e40569028b5597639)
-- [ ] [<code>Show search results for current folder first (#2667)</code>](https://github.com/elementary/files/commit/68aa1666ae5567f21d82ca5bf8bcc0bc955bac66)
-- [ ] [<code>Update POTFILES (#2689)</code>](https://github.com/elementary/files/commit/e04a69854dcd20ab5cd547eac527703837f3a7e5)
-- [ ] [<code>Prepare for Files.FileChooserDialog (#2693)</code>](https://github.com/elementary/files/commit/d41258548b6931ce44731c000a5897b37f5c088f)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>DetailsColumn: rename button to Properties and align (#2698)</code>](https://github.com/elementary/files/commit/e77b37028938701fc58da1cd7d153710732e09f9)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/e9b2452f8353745f7b7bb2a995b436ab25219e45)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/files/commit/ef7e710ad23b40a3ba9a013db5a710c39af7bb63)
-- [ ] [<code>DetailsColumn: cleanups, use FileIcon (#2701)</code>](https://github.com/elementary/files/commit/81956ee8a284a2302dc6babaa6b83a6f70640561)
-- [ ] [<code>GSchema: default file preview to true (#2700)</code>](https://github.com/elementary/files/commit/681e5e6dca69d1cea128b01aff36787ede1dd141)
-- [ ] [<code>Prepare for Files.FileChooserWidget (#2694)</code>](https://github.com/elementary/files/commit/42c23b79284c7ec2551386978eb85d3fa2e9a9dc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Do not show overlaybar on top of file detail column (#2704)</code>](https://github.com/elementary/files/commit/d7f1541784de0a66810ff95535be944b703371b7)
-- [ ] [<code>Launcher: add icon names to app actions (#2706)</code>](https://github.com/elementary/files/commit/e9fa471d92ef44203bec87502425092ca7c2da66)
-- [ ] [<code>Move some sidebar widgets into View/Sidebar</code>](https://github.com/elementary/files/commit/9da3142862d2fd295cc02f27ea2f20e5c9805505)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Move some dialogs into View/Dialogs</code>](https://github.com/elementary/files/commit/c05673c9768c2fc6cacb258c3490fc13b7be0bb4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>po: Fix POTFILES</code>](https://github.com/elementary/files/commit/00c9b7552297a2d3193d3b7f7beb38cd5a8beda7)
-- [ ] [<code>AbstractDirectoryView: Simplify the handling of open-in action (#2707)</code>](https://github.com/elementary/files/commit/43d308edd16b66a5b72caa56158b6ae4b48d131c)
-- [ ] [<code>DetailsColumn: scrolled fills the entire column (#2713)</code>](https://github.com/elementary/files/commit/2058d1340b907860b056f330f7c7f16ee309b51b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove unused functions updating desktop file info</code>](https://github.com/elementary/files/commit/fae9eb3b9f74e41952caf98e35eafee4a6dcb0b2)
-- [ ] [<code>File: Remove unused function - update_type ()</code>](https://github.com/elementary/files/commit/fc01e2aeef65cdd349227d16d4f1374b85413d98)
-- [ ] [<code>Intercept  and ignore all vertical scroll events when renaming or frozen (#2668)</code>](https://github.com/elementary/files/commit/66c63f8f668ad2b6ad79e0ef83d6f923be095bae)
-- [ ] [<code>Miller view: fix actionbar reappearance (#2716)</code>](https://github.com/elementary/files/commit/13154a6c9c79d7e0af65114a2ca95c51bb783da8)
-- [ ] [<code>File: Deal with icon change with private function (#2720)</code>](https://github.com/elementary/files/commit/8bfaa97f4957292d619c7e94417e6a2dedf16180)
-- [ ] [<code>AppMenu: Create local settings objects on demand (#2727)</code>](https://github.com/elementary/files/commit/470dc1c48a31638bcc2192c3442e17452fa8b108)
-- [ ] [<code>Window: set view mode action enabled (#2732)</code>](https://github.com/elementary/files/commit/5df80177faba764b9a23f799f5af25b48ea21720)
-- [ ] [<code>Window: organize and scope properties (#2733)</code>](https://github.com/elementary/files/commit/debd7eba7de96f922d7141b4c60cc66dcf44cb0f)
-- [ ] [<code>SidebarWindow: Use class static settings object (#2735)</code>](https://github.com/elementary/files/commit/8f2e5de5a739746cb7eb6d3b226894768a6549dd)
-- [ ] [<code>AppMenu: handle view mode changed internally (#2731)</code>](https://github.com/elementary/files/commit/37d9b4158ea869112bb7cfa4c9cf99af448a7497)
-- [ ] [<code>Window: use settings action for show-hidden (#2734)</code>](https://github.com/elementary/files/commit/5a11ecd94eca38737d36a4f1a37f998e0dcfa0d1)
-- [ ] [<code>Window: use settings actions for thumbnails state (#2736)</code>](https://github.com/elementary/files/commit/685b6846b5761fc48f7c36a58acc20aa28f1310d)
-- [ ] [<code>Window: use settings action for show file preview (#2738)</code>](https://github.com/elementary/files/commit/565787c8bf92ca6ec88e3d742581cad0f845a16c)
-- [ ] [<code>Window: use settings action for restore-tabs (#2741)</code>](https://github.com/elementary/files/commit/6ab5e1dc5bacca4220562b7c7e73fde4664a3f98)
-- [ ] [<code>Preferences: remove dead force_icon_size (#2746)</code>](https://github.com/elementary/files/commit/d57f17d4a05123a0001574442d30df917a1248a8)
-- [ ] [<code>Window: make singleclick-select a settings action (#2739)</code>](https://github.com/elementary/files/commit/62b1a52a84d4aab7da1eedda0f1e2677dd5d96b5)
-- [ ] [<code>Window: scope down functions only used here (#2750)</code>](https://github.com/elementary/files/commit/187c6e14dedb5f7cad2dc03175acd0aa61e4eb1f)
-- [ ] [<code>Window: remove set_title override (#2749)</code>](https://github.com/elementary/files/commit/a971235b1d985842d20f54d363ac88d3793914cb)
-- [ ] [<code>ViewSwitcher: use SPDX header, inline namespace</code>](https://github.com/elementary/files/commit/c9f6d73eac18c1c8fcbc0ffbf32ad207e7683c93)
-- [ ] [<code>Window: remove get default_mode</code>](https://github.com/elementary/files/commit/138b9052d085ad51f2764d558f098245ce7c0da9)
-- [ ] [<code>Add sort-directories-first setting (#2740)</code>](https://github.com/elementary/files/commit/e6b712a2189efd56ad8ab197efc5ecc317db082f)
-- [ ] [<code>AbstractDirectoryView: actions use BookmarkList directly (#2748)</code>](https://github.com/elementary/files/commit/d3064c46cc6f8c7933b23ea631bf8a653fcd98df)
-- [ ] [<code>AbstractDirectoryView: get thumbnail settings from gsettings (#2747)</code>](https://github.com/elementary/files/commit/24bebeda1828a7aaf94b978f1f97f08a04e0e5c0)
-- [ ] [<code>AbstractDirectoryView: rewrite SortSubMenu using GLib.Menu (#2756)</code>](https://github.com/elementary/files/commit/6c5e6572853be5f41464fddb7a2fec0e2009ce46)
-- [ ] [<code>AbstractDirectoryView: rewrite NewSubMenuItem using GLib.Menu (#2757)</code>](https://github.com/elementary/files/commit/1d6672a08d606a32b5c55c602cdec0dbabc575a2)
-- [ ] [<code>AbstractDirectoryView: Set should_thumbnail when done loading (#2758)</code>](https://github.com/elementary/files/commit/f21d6667c65499d374b435d231fbc18a98bd3178)
-- [ ] [<code>Update metainfo for v7.3.0 (#2763)</code>](https://github.com/elementary/files/commit/2d170fb1b41e14a7554c6ba724fdc9e2f29eb2d1)
-- [ ] [<code>CI: policykit-1 → libpolkit-gobject-1-dev (#2753)</code>](https://github.com/elementary/files/commit/71754b67cb523849c9e3e300042461050a535490)
-- [ ] [<code>Systemd optional (#2768)</code>](https://github.com/elementary/files/commit/d0f6f8d3ac5c0bcd5bcadf8e123bbec2c6c7ccd5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>CI: add systemd-dev (#2769)</code>](https://github.com/elementary/files/commit/64b13e7823a5b644a87e406b3a7c27ec81ec9765)
-- [ ] [<code>Update gettext-template.yml</code>](https://github.com/elementary/files/commit/970d6a2babf98376396af0e5f4fb5d45ee31d778)
-- [ ] [<code>Make GOF.File content_type a property (#2717)</code>](https://github.com/elementary/files/commit/bf9bc0bd06c1429306ec5e2510bd6ae9659f3367)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Window: Create settings objects on demand (#2728)</code>](https://github.com/elementary/files/commit/49f3cb67c68d5ca7abe3e4d68385f111847d318d)
-- [ ] [<code>Email plugin: use GLib.Action (#2774)</code>](https://github.com/elementary/files/commit/bf896e914055a93416646fcba251294e7e1f20a7)
-- [ ] [<code>Contractor plugin: use GLib.Action (#2775)</code>](https://github.com/elementary/files/commit/01e4deb239e95e78641350febf38aff5afc97f1f)
-- [ ] [<code>PluginManager: clean up deprecated functions (#2776)</code>](https://github.com/elementary/files/commit/90d5666a67c77939fe9b39880945ab53d49e3a13)
-- [ ] [<code>AbstractDirectoryView: use GLib.Menu for open in submenu (#2760)</code>](https://github.com/elementary/files/commit/678034f856d117a83f0dc9cec55ef6daa6b056d2)
-- [ ] [<code>Introduce side-widget in Abstract Slot and use for preview window (#2714)</code>](https://github.com/elementary/files/commit/88b38d75125ac03605084f2bc8e49735019cbf79)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release version 7.3.0 (#2688)</code>](https://github.com/elementary/files/commit/b4f983b7587118f13d8073f0c211d24eb5603813)
-  - <sub>Tags: <code>7.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -1085,3 +1012,5 @@
 - [ ] [<code>Pantheon: remove io.elementary.print (#151)</code>](https://github.com/elementary/seeds/commit/b0c8818c88e6b5bcda260940863880e1764db90e)
 - [ ] [<code>Desktop: Update more panel plugin names</code>](https://github.com/elementary/seeds/commit/02518b777cab2e67014b5a4129a6efaef384fc88)
 - [ ] [<code>desktop: Drop im-config (#152)</code>](https://github.com/elementary/seeds/commit/0c52583848a7ee4e3bb3c79e44b9170fda7e278e)
+- [ ] [<code>elementary-sdk: Add Granite 9 (#154)</code>](https://github.com/elementary/seeds/commit/547a81b5edcd6d49035c59abbe231e6e9502fb70)
+- [ ] [<code>Revert "elementary-sdk: Add Granite 9 (#154)" (#155)</code>](https://github.com/elementary/seeds/commit/426cd47a9cbe5ad408adb15f559f6ab431625e97)
