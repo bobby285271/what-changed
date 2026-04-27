@@ -612,6 +612,7 @@
 - [ ] [<code>Introduce a wayland/x11 mutter hints protocol for monitor labels (#2084)</code>](https://github.com/elementary/gala/commit/3c0c3fe8cf336a3404972ad44f3ce37f50940943)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowManager: Dont animate menu map (#2830)</code>](https://github.com/elementary/gala/commit/fb6e904ce6f792a6ffdbf9fc744dfb1a9c9a59d8)
+- [ ] [<code>WindowSwitcher: don't force visibility and allocate manually (#2817)</code>](https://github.com/elementary/gala/commit/6549b02496c9263bb2fbaf8969f7123546871df2)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
