@@ -293,6 +293,16 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>add descriptyion modal (#2404)</code>](https://github.com/alainm23/planify/commit/c95834b77215395a1842bfd71c3e36918f656b94)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: subtasks not reset not updated when recurring task completes (#2405)</code>](https://github.com/alainm23/planify/commit/0512b7ff0f074e07be42137ede00ae470bfabfd8)
+- [ ] [<code>add backup to cli (#2407)</code>](https://github.com/alainm23/planify/commit/08dcc73925b278311ac1353c867ef23856cfeeaf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Hide the position marker for new tasks when done (#2406)</code>](https://github.com/alainm23/planify/commit/397eef57dbcaaf7fdf753bba5250068d59745476)
+- [ ] [<code>Release 4.19.1 (#2408)</code>](https://github.com/alainm23/planify/commit/69962f8c7a687717cb7b546ac2a9506f24546a82)
+  - <sub>Tags: <code>v4.19.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove Flatpak no-webkit manifest (#2409)</code>](https://github.com/alainm23/planify/commit/daf9d733b751254aaf920260ea4d0ecfebc7f4c3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
