@@ -131,6 +131,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.0 → HEAD](https://github.com/elementary/files/compare/7.3.0...HEAD)
 
+- [ ] [<code>Fix regression: Crash if too many templates (#2783)</code>](https://github.com/elementary/files/commit/626864634bb55dd4824b7782339a7d7a7351a02a)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -875,6 +876,7 @@
 - [ ] [<code>Update $window_radius to match values in STANDARDS.md (#974)</code>](https://github.com/elementary/granite/commit/f664892c6d4bf436d81d14e1c8c43e12a421930a)
 - [ ] [<code>Revert valadoc link to point to granite-7 documentation (#976)</code>](https://github.com/elementary/granite/commit/1d09476ae9ab1d89018973c8f3dd4554cec3bdea)
 - [ ] [<code>Demo/Controls: add more image button examples (#971)</code>](https://github.com/elementary/granite/commit/c1a63671f96ac001680312670d481f05169cc71e)
+- [ ] [<code>Fix radius and add subtle sculpting to `.keycap` (#978)</code>](https://github.com/elementary/granite/commit/6b29b9e3f46882b64935abcf609d27832b716a78)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
