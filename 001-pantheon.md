@@ -614,6 +614,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowManager: Dont animate menu map (#2830)</code>](https://github.com/elementary/gala/commit/fb6e904ce6f792a6ffdbf9fc744dfb1a9c9a59d8)
 - [ ] [<code>WindowSwitcher: don't force visibility and allocate manually (#2817)</code>](https://github.com/elementary/gala/commit/6549b02496c9263bb2fbaf8969f7123546871df2)
+- [ ] [<code>GestureController: Disconnect timeline signals when removing (#2829)</code>](https://github.com/elementary/gala/commit/ce44fdf9db50b1eb3fb17d86c4751a0e68cf2add)
+- [ ] [<code> MultitaskingView: Fix occassions where the active workspace could be wrong (#2787)</code>](https://github.com/elementary/gala/commit/c4891b3f13e10ee764e478d90cfc3e8790d6b51c)
+- [ ] [<code>GestureControllerTest: Test that everything gets finalized (#2824)</code>](https://github.com/elementary/gala/commit/9ae4ff448148a17dca584eefe48e30e8b303dc0d)
+- [ ] [<code>SwipeTrigger: Don't hold a strong ref on actor</code>](https://github.com/elementary/gala/commit/8214fc88ed43a9a5c2cef4a825ce682c4474c57c)
+- [ ] [<code>Tests: Add swipe trigger lifetime test</code>](https://github.com/elementary/gala/commit/11ad1cca753ef27d6e223f0841bc9f65a03592c3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
