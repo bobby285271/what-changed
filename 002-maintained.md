@@ -303,6 +303,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove Flatpak no-webkit manifest (#2409)</code>](https://github.com/alainm23/planify/commit/daf9d733b751254aaf920260ea4d0ecfebc7f4c3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: accept HTTP 200 as valid response for PUT item on Horde and similar servers (#2415)</code>](https://github.com/alainm23/planify/commit/dcae3dea652a3aa1f8dcbc090b69b80accf9eef5)
+- [ ] [<code>feat: allow selecting past dates in date picker (#2418)</code>](https://github.com/alainm23/planify/commit/9a280fd617355ca795d1cc5df67e9bae26d8d7d1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: add Export as .ics option for CalDAV tasks (#2419)</code>](https://github.com/alainm23/planify/commit/5e61c05c6ea78a397b2287e94cf2df2ac6c845ba)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
