@@ -308,6 +308,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>feat: add Export as .ics option for CalDAV tasks (#2419)</code>](https://github.com/alainm23/planify/commit/5e61c05c6ea78a397b2287e94cf2df2ac6c845ba)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: CalDAV section support via VTODO List prefix (#2421)</code>](https://github.com/alainm23/planify/commit/6f7fa42a041b1002ac372e64cc28897029c81613)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update displayed project note when changed (#2424)</code>](https://github.com/alainm23/planify/commit/ca88ab858a2b2603669c4cfce4ee842267c5d290)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
