@@ -432,6 +432,9 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#429)</code>](https://github.com/elementary/settings-display/commit/05e66ac790bba2927f0018680d4e2f3de8e55c82)
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-display/commit/3579e2bef3e900790e30b4b800f9ee6ea30f19db)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-display/commit/7eaeec15afff2335bbf1c639b4e881fee3ec770d)
+- [ ] [<code>DisplaysView: fix deprecated Granite style class constant (#443)</code>](https://github.com/elementary/settings-display/commit/920721d9a90a0306b86257867d2cba4bf19a75a6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
