@@ -125,6 +125,7 @@
 - [ ] [<code>Use ListModels for apps and workspaces</code>](https://github.com/elementary/dock/commit/cc84bbc656f1c536badafdb800609b50d62b9ad5)
 - [ ] [<code>Fix build on development target</code>](https://github.com/elementary/dock/commit/c28bb23783e648a12797ba80414286360006ea13)
 - [ ] [<code>Workaround for crashing when many tooltips are shown consecutively (#563)</code>](https://github.com/elementary/dock/commit/95c7b4b4e0202edcbe3d76bf10f8c07bb1467015)
+- [ ] [<code>Metainfo: add 8.3.3 (#584)</code>](https://github.com/elementary/dock/commit/430277c969acda746d591affce3254baf284db37)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -132,6 +133,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.0 → HEAD](https://github.com/elementary/files/compare/7.3.0...HEAD)
 
 - [ ] [<code>Fix regression: Crash if too many templates (#2783)</code>](https://github.com/elementary/files/commit/626864634bb55dd4824b7782339a7d7a7351a02a)
+- [ ] [<code>Add metainfo for v7.3.1 (#2785)</code>](https://github.com/elementary/files/commit/da2fdce37e8b99f30aa60cb24235a1d49b124c43)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -620,6 +622,7 @@
 - [ ] [<code>SwipeTrigger: Don't hold a strong ref on actor</code>](https://github.com/elementary/gala/commit/8214fc88ed43a9a5c2cef4a825ce682c4474c57c)
 - [ ] [<code>Tests: Add swipe trigger lifetime test</code>](https://github.com/elementary/gala/commit/11ad1cca753ef27d6e223f0841bc9f65a03592c3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.5.0 release notes (#2836)</code>](https://github.com/elementary/gala/commit/813d32333e4c6afdb443dcb3357642495a146a97)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -883,6 +886,7 @@
 - [ ] [<code>Revert valadoc link to point to granite-7 documentation (#976)</code>](https://github.com/elementary/granite/commit/1d09476ae9ab1d89018973c8f3dd4554cec3bdea)
 - [ ] [<code>Demo/Controls: add more image button examples (#971)</code>](https://github.com/elementary/granite/commit/c1a63671f96ac001680312670d481f05169cc71e)
 - [ ] [<code>Fix radius and add subtle sculpting to `.keycap` (#978)</code>](https://github.com/elementary/granite/commit/6b29b9e3f46882b64935abcf609d27832b716a78)
+- [ ] [<code>Styles: `suggested` class for text buttons (#981)</code>](https://github.com/elementary/granite/commit/612dee6c4fb27dadd49ff0d314bbccdbac97c05c)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -970,6 +974,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CI: add systemd-dev (#187)</code>](https://github.com/elementary/portals/commit/533855e280f369b19b035020f18ae33e3549bda7)
+- [ ] [<code>Metainfo: add 8.2.0 (#188)</code>](https://github.com/elementary/portals/commit/924b96fc70cd59917d6a01e395a9bea4f1d88d9e)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -1023,3 +1028,4 @@
 - [ ] [<code>desktop: Drop im-config (#152)</code>](https://github.com/elementary/seeds/commit/0c52583848a7ee4e3bb3c79e44b9170fda7e278e)
 - [ ] [<code>elementary-sdk: Add Granite 9 (#154)</code>](https://github.com/elementary/seeds/commit/547a81b5edcd6d49035c59abbe231e6e9502fb70)
 - [ ] [<code>Revert "elementary-sdk: Add Granite 9 (#154)" (#155)</code>](https://github.com/elementary/seeds/commit/426cd47a9cbe5ad408adb15f559f6ab431625e97)
+- [ ] [<code>pantheon-shell: Rename session-settings package name (#153)</code>](https://github.com/elementary/seeds/commit/80291270f072c4c80f12f7c3073c772375b55461)
