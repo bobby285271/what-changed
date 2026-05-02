@@ -126,6 +126,9 @@
 - [ ] [<code>Fix build on development target</code>](https://github.com/elementary/dock/commit/c28bb23783e648a12797ba80414286360006ea13)
 - [ ] [<code>Workaround for crashing when many tooltips are shown consecutively (#563)</code>](https://github.com/elementary/dock/commit/95c7b4b4e0202edcbe3d76bf10f8c07bb1467015)
 - [ ] [<code>Metainfo: add 8.3.3 (#584)</code>](https://github.com/elementary/dock/commit/430277c969acda746d591affce3254baf284db37)
+- [ ] [<code>Release 8.3.3 (#585)</code>](https://github.com/elementary/dock/commit/8b45a68a122947ad3a6427bf6e159ec2acf04ad0)
+  - <sub>Tags: <code>8.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -404,6 +407,9 @@
 - [ ] [<code>Update translation status badge link in README</code>](https://github.com/elementary/settings-system/commit/3d929d97c9df0aa764f78bb3ddb2941e1d4fdecb)
 - [ ] [<code>Update translation status badge in README</code>](https://github.com/elementary/settings-system/commit/f8ab702974adad4b51f084a3bb20cda27b1b0999)
 - [ ] [<code>Metainfo: add 8.2.3 release notes (#411)</code>](https://github.com/elementary/settings-system/commit/a8b3b353edbc4aec7a28a4db9af3c1f53c803fe7)
+- [ ] [<code>Release 8.2.3 (#414)</code>](https://github.com/elementary/settings-system/commit/162ee57ea1c77ccb89ce08c5eb72e68a5b3b44e5)
+  - <sub>Tags: <code>8.2.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
