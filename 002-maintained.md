@@ -313,6 +313,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update displayed project note when changed (#2424)</code>](https://github.com/alainm23/planify/commit/ca88ab858a2b2603669c4cfce4ee842267c5d290)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>use raw text for project titles (#2427)</code>](https://github.com/alainm23/planify/commit/802546bb46c120b54547fecb502d853c1f20c78a)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
