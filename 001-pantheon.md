@@ -115,20 +115,8 @@
 - [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
 - [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
 
-#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.2 → HEAD](https://github.com/elementary/dock/compare/8.3.2...HEAD)
+#### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
-- [ ] [<code>BackgroundItem: Launch app on list activate (#577)</code>](https://github.com/elementary/dock/commit/bdc5230ff1af65ff1d892c2a3311e44b4fe9ebe1)
-- [ ] [<code>Fix typo (#583)</code>](https://github.com/elementary/dock/commit/6bea248ad3292aa06e4266fdd75efa5a0fd27cc4)
-- [ ] [<code>Introduce an ItemGroup</code>](https://github.com/elementary/dock/commit/b26e08f0c7debb2b8be3b9071d8872e69c008772)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>BaseItem: Introduce a get_index method</code>](https://github.com/elementary/dock/commit/6b2f6358c473ac9775f28180c29b53080ecacc48)
-- [ ] [<code>Use ListModels for apps and workspaces</code>](https://github.com/elementary/dock/commit/cc84bbc656f1c536badafdb800609b50d62b9ad5)
-- [ ] [<code>Fix build on development target</code>](https://github.com/elementary/dock/commit/c28bb23783e648a12797ba80414286360006ea13)
-- [ ] [<code>Workaround for crashing when many tooltips are shown consecutively (#563)</code>](https://github.com/elementary/dock/commit/95c7b4b4e0202edcbe3d76bf10f8c07bb1467015)
-- [ ] [<code>Metainfo: add 8.3.3 (#584)</code>](https://github.com/elementary/dock/commit/430277c969acda746d591affce3254baf284db37)
-- [ ] [<code>Release 8.3.3 (#585)</code>](https://github.com/elementary/dock/commit/8b45a68a122947ad3a6427bf6e159ec2acf04ad0)
-  - <sub>Tags: <code>8.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -439,6 +427,9 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-display/commit/3579e2bef3e900790e30b4b800f9ee6ea30f19db)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-display/commit/7eaeec15afff2335bbf1c639b4e881fee3ec770d)
 - [ ] [<code>DisplaysView: fix deprecated Granite style class constant (#443)</code>](https://github.com/elementary/settings-display/commit/920721d9a90a0306b86257867d2cba4bf19a75a6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update for Meson 0.58.0 (#442)</code>](https://github.com/elementary/settings-display/commit/17ef49bc6ece9b311aab62ca17fbb0e23f160c46)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
