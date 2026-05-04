@@ -261,29 +261,8 @@
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.9 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.9...HEAD)
 
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.1 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.1...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
-- [ ] [<code>chore: Update copyright to 2026 (#352)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fbe8bc82505ab24a634c07ec15709a9adb54589c)
-- [ ] [<code>l10n: Add Vietnamese (vi) translation (#348)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b4b56201a3b7bf3120df2ae5c9cad38ab9c82efa)
-- [ ] [<code>chore: flatpak: Update GNOME platform to 50 (#353)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/76ea59b034f6d2929a5f17f62917e436f9cc4db2)
-- [ ] [<code>chore: metainfo: Drop support for appstream-glib (#354)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/43ec4236ba8d04018c1a73c414bcd43da9775917)
-- [ ] [<code>chore: metainfo: Reorder and have newlines as separators</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/fa4c3e281be0cfd0c5e8d20762eb282683d1c43f)
-- [ ] [<code>chore: metainfo: Leave comment about description translate="no"</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a1e35d089ad55fa453a624b39c7e481e9ecc8f05)
-- [ ] [<code>chore: Appearance: Rename to "Legacy Dark Style" (#355)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4858bd602951b4190cb7c06385dea526b87cf0cf)
-- [ ] [<code>chore: actions: Use gnome-50 image</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/41bf4d2e9390a73439a695d1d4530f47b9cef264)
-- [ ] [<code>feat: Dialog: Drop support URL (#356)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dd0fef8f91162e89b10b6ea5596c6d7d47145cc8)
-- [ ] [<code>chore: Flatpak: Add sassc and libsass as modules (#357)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/0c7272ba521ad02117ce56d69239470187e94611)
-- [ ] [<code>chore: Cleanup development-related files (#358)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e72c442d19c1525b5bc45218625fced6341007e1)
-- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#359)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/2062366e6810d6c2ed5a49d0255d11a11c2540bd)
-- [ ] [<code>chore: actions: Add Gettext</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ca53c3cdedf06fcac79a35d0840127d823a975a2)
-- [ ] [<code>chore: gettext: Add Flathub remote for io.elementary.BaseApp</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/524a0a76b14e03143ee255bda25e1e011f36cbc6)
-- [ ] [<code>chore: gettext: Add source root as safe directory</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/5029a211f4e15e978ff244ba876c215988282abf)
-- [ ] [<code>Revert "chore: Place Flatpak files in the build-aux (#309)"</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/912ef09a400aa3838d32f1e6d89746372b077cf2)
-- [ ] [<code>chore: gettext: Update manifest-path</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9ab014d0cc281e2252c67afdea6bebd7749d3367)
-- [ ] [<code>po: Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/ab48b53bbcfda2f5adb04a6c9785403ffab87a0c)
-- [ ] [<code>Release 2.5.2 (#360)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a44447be60048831c05d63dc206b835f14990f7c)
-  - <sub>Tags: <code>2.5.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.0...HEAD)
 
@@ -324,6 +303,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>use raw text for project titles (#2427)</code>](https://github.com/alainm23/planify/commit/802546bb46c120b54547fecb502d853c1f20c78a)
 - [ ] [<code>add DS_Store ignore</code>](https://github.com/alainm23/planify/commit/f2075cbd18c1025c99720b88cbddf6f909b17312)
+- [ ] [<code>fix sync-collection request compatibility (#2423)</code>](https://github.com/alainm23/planify/commit/03529324934295e6efcbd35f153cb39e12cbd992)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
