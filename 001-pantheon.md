@@ -114,6 +114,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1709)</code>](https://github.com/elementary/code/commit/8678d2f572cce961dfbc4274dcc1e99978c616b3)
 - [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
 - [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
+- [ ] [<code>Add metainfo for release 8.3.0 (#1712)</code>](https://github.com/elementary/code/commit/b08e4ecd94fcc402a681280013f675129b16ebc3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -383,21 +384,8 @@
 - [ ] [<code>Application: rely on Granite.StyleManager (#377)</code>](https://github.com/elementary/switchboard/commit/11c067223b6ebaccc6ccbba1a0de6c028113c7e3)
 ## apps/switchboard-plugs
 
-#### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.2 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.2...HEAD)
+#### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#395)</code>](https://github.com/elementary/settings-system/commit/e1e35fff1764c90b25a78869aabba93437407140)
-- [ ] [<code>HardwareView: Fallback to "Unknown Processor" instead of blank CPU name (#398)</code>](https://github.com/elementary/settings-system/commit/0dd6f5514c80a8514eb2915ef862ef45a521d613)
-- [ ] [<code>ARMPartDecoder: Update ARM CPU mapping table with util-linux 2.39.3 (#399)</code>](https://github.com/elementary/settings-system/commit/5e135561352cf7c2cba97ea22f28a13aecc4a03e)
-- [ ] [<code>Meson: bump version to 0.58 and fix deprecation warnings (#400)</code>](https://github.com/elementary/settings-system/commit/0c84381e1f404b62724cf4e20d2a29406fede705)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Fix Granite Style deprecations (#401)</code>](https://github.com/elementary/settings-system/commit/cc85c7a920745b7bb4ba8936decea428e60ed514)
-- [ ] [<code>Update translation status badge link in README</code>](https://github.com/elementary/settings-system/commit/3d929d97c9df0aa764f78bb3ddb2941e1d4fdecb)
-- [ ] [<code>Update translation status badge in README</code>](https://github.com/elementary/settings-system/commit/f8ab702974adad4b51f084a3bb20cda27b1b0999)
-- [ ] [<code>Metainfo: add 8.2.3 release notes (#411)</code>](https://github.com/elementary/settings-system/commit/a8b3b353edbc4aec7a28a4db9af3c1f53c803fe7)
-- [ ] [<code>Release 8.2.3 (#414)</code>](https://github.com/elementary/settings-system/commit/162ee57ea1c77ccb89ce08c5eb72e68a5b3b44e5)
-  - <sub>Tags: <code>8.2.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
@@ -527,6 +515,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Bump debian compat to 13 (#22)</code>](https://github.com/elementary/fonts/commit/122204e417a9f5b8d5df10c1eb8e9f986c49662f)
 - [ ] [<code>Add README with font details and licensing</code>](https://github.com/elementary/fonts/commit/6c315fb1b4b42ec2023dbbb9855d10231ba1f93f)
+- [ ] [<code>Correct license of roboto-mono (#25)</code>](https://github.com/elementary/fonts/commit/88a806730df6f3c2fbd250c8753c8e757084c699)
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
@@ -623,6 +612,7 @@
 - [ ] [<code>Tests: Add swipe trigger lifetime test</code>](https://github.com/elementary/gala/commit/11ad1cca753ef27d6e223f0841bc9f65a03592c3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.5.0 release notes (#2836)</code>](https://github.com/elementary/gala/commit/813d32333e4c6afdb443dcb3357642495a146a97)
+- [ ] [<code>MultitaskingView: Fix escape after workspace switch (#2828)</code>](https://github.com/elementary/gala/commit/07a14674aa6fa584eacc2c5f74d6721d4a291eaf)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
