@@ -516,6 +516,11 @@
 - [ ] [<code>Bump debian compat to 13 (#22)</code>](https://github.com/elementary/fonts/commit/122204e417a9f5b8d5df10c1eb8e9f986c49662f)
 - [ ] [<code>Add README with font details and licensing</code>](https://github.com/elementary/fonts/commit/6c315fb1b4b42ec2023dbbb9855d10231ba1f93f)
 - [ ] [<code>Correct license of roboto-mono (#25)</code>](https://github.com/elementary/fonts/commit/88a806730df6f3c2fbd250c8753c8e757084c699)
+- [ ] [<code>Add LICENSE (#28)</code>](https://github.com/elementary/fonts/commit/6a937d0ecd76865384967e8175c7913fe060d3b6)
+- [ ] [<code>debian: Add copyright of fonts</code>](https://github.com/elementary/fonts/commit/38ac33f0bffe0761bc1540bf5c87390084d7b374)
+- [ ] [<code>debian: Update copyright holder</code>](https://github.com/elementary/fonts/commit/88854427a67afdbfc2c866390f394301789cb7e3)
+- [ ] [<code>debian: Update source URL</code>](https://github.com/elementary/fonts/commit/82fee4b870d23b5084f92a324a0fc6e8ac437303)
+- [ ] [<code>debian: Fix file-without-copyright-information warnings by lintian</code>](https://github.com/elementary/fonts/commit/36df07a9b1f390c5d23f747a5e8a0cdd6305030d)
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
