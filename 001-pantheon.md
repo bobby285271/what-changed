@@ -482,6 +482,9 @@
 - [ ] [<code>Fix empty "Applications" tab (#299)</code>](https://github.com/elementary/settings-sound/commit/58640c9633f13a977768fed4ae2269a21ae293a4)
 - [ ] [<code>metainfo: add 8.0.3 notes (#303)</code>](https://github.com/elementary/settings-sound/commit/918935906c3cdf5fbb7b2ccc384ef93667e3485e)
 - [ ] [<code>AppRow: Fix default toggle position (#300)</code>](https://github.com/elementary/settings-sound/commit/5836c1a86aa2d089f60f9fd176dc85d262cb4fa8)
+- [ ] [<code>release 8.0.3 (#305)</code>](https://github.com/elementary/settings-sound/commit/7d522d2045d1b0f1bfbd7e86ea4df55661e4c865)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
@@ -508,6 +511,7 @@
 - [ ] [<code>Add bitmap-trace for Inkscape (#1390)</code>](https://github.com/elementary/icons/commit/1d64673cc42c3c4b0151ab958c5412c701208100)
 - [ ] [<code>Add 'symbols' for Inkscape (#1404)</code>](https://github.com/elementary/icons/commit/59f062170f82aecfea8ee0b7d9bda8c983b3fa42)
 - [ ] [<code>Add Inkscape info, off and on icons (mostly symlinks) (#1408)</code>](https://github.com/elementary/icons/commit/726f1b1db65baee5de3834497f427274d8268134)
+- [ ] [<code>Places: update symbolic icons for gtk 4.22 (#1421)</code>](https://github.com/elementary/icons/commit/2dfc453f0c86a12a926d8ba5d7132c52cf3d7234)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -521,6 +525,9 @@
 - [ ] [<code>debian: Update copyright holder</code>](https://github.com/elementary/fonts/commit/88854427a67afdbfc2c866390f394301789cb7e3)
 - [ ] [<code>debian: Update source URL</code>](https://github.com/elementary/fonts/commit/82fee4b870d23b5084f92a324a0fc6e8ac437303)
 - [ ] [<code>debian: Fix file-without-copyright-information warnings by lintian</code>](https://github.com/elementary/fonts/commit/36df07a9b1f390c5d23f747a5e8a0cdd6305030d)
+- [ ] [<code>Create a Meson build system (#24)</code>](https://github.com/elementary/fonts/commit/a878e1328bc8995369a0d25f5a50a4b00ceb2764)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
@@ -618,6 +625,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.5.0 release notes (#2836)</code>](https://github.com/elementary/gala/commit/813d32333e4c6afdb443dcb3357642495a146a97)
 - [ ] [<code>MultitaskingView: Fix escape after workspace switch (#2828)</code>](https://github.com/elementary/gala/commit/07a14674aa6fa584eacc2c5f74d6721d4a291eaf)
+- [ ] [<code>Release 8.5.0 (#2837)</code>](https://github.com/elementary/gala/commit/a089a7636a54b1aa287dc9ed3da3beaaf3869740)
+  - <sub>Tags: <code>8.5.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
