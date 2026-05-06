@@ -589,45 +589,12 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.4.2 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.4.2...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.5.0...HEAD)
 
-- [ ] [<code>lib: sort files into folders (#2809)</code>](https://github.com/elementary/gala/commit/b1874e81920deb072c4da2394b094a5b9695995d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>GestureController.goto (): fix progress check (#2810)</code>](https://github.com/elementary/gala/commit/3056cf50034cd2eb084e01bf3742d4d924e5bf12)
-- [ ] [<code>Fix POTFILES (#2812)</code>](https://github.com/elementary/gala/commit/b3d76f10a88ed73b88690b8359d461983d945aa6)
-- [ ] [<code>WindowListModel: fix crash (#2813)</code>](https://github.com/elementary/gala/commit/c1b5854eaa257b2a75e9e210e313bfae5405d932)
-- [ ] [<code>PropertyTargets: Actually specify the type as uint8 if it's uint8</code>](https://github.com/elementary/gala/commit/413c987c1af972332133a8cad505f2c1f4afbe08)
-- [ ] [<code>Specify custom progress func for uint8</code>](https://github.com/elementary/gala/commit/8350b21db10661b837e75add4684b3e78898e257)
-- [ ] [<code>GestureController: Clamp progress to the given clamps</code>](https://github.com/elementary/gala/commit/a3564eacda978749179f046e902b550b48f5753d)
-- [ ] [<code>MultitaskingView: Allow overshoot</code>](https://github.com/elementary/gala/commit/123c29d4faf27645b147ffa5dd6a30b06b66dc8a)
-- [ ] [<code>WindowManager: fix overlay key filter (#2816)</code>](https://github.com/elementary/gala/commit/ade84a4a24037570ddde3c68cdcdfd195a5c2796)
-- [ ] [<code>WorkspaceClone: Handle monitor scale and geometry internally</code>](https://github.com/elementary/gala/commit/25cea9122b6a9d3bd8d213a80a4ae1cd6c604275)
-- [ ] [<code>WorkspaceRow: Take over workspace clone management from mtv</code>](https://github.com/elementary/gala/commit/cb605d6807d42e6bd6e43353d173a214d997fea8)
-- [ ] [<code>Tests: Introduce a MutterTestCase</code>](https://github.com/elementary/gala/commit/f36251ff51519b13b12c43e51137e382fa022d10)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>CI: Setup Test Environment for mutter tests</code>](https://github.com/elementary/gala/commit/013773355354890d51a84924f93e6c08cb760977)
-- [ ] [<code>README: Add section about how to run the tests (#2820)</code>](https://github.com/elementary/gala/commit/22812d7c6296cef2454d93827d98503354accd00)
-- [ ] [<code>Support keyboard navigation over multiple monitors in multitasking view (#2536)</code>](https://github.com/elementary/gala/commit/c83e418f57b8014755cdfde024b42fb33c33ff19)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>tests/lib/meson: Use gala_lib_sources instead of manually including the needed sources</code>](https://github.com/elementary/gala/commit/6dd8dfdabeabaeb98d7d69974d2a3785e4853793)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Introduce a basic GestureControllerTest</code>](https://github.com/elementary/gala/commit/d2e4dce36407e56c41b7232deacfe6ad7e243046)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Introduce a wayland/x11 mutter hints protocol for monitor labels (#2084)</code>](https://github.com/elementary/gala/commit/3c0c3fe8cf336a3404972ad44f3ce37f50940943)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>WindowManager: Dont animate menu map (#2830)</code>](https://github.com/elementary/gala/commit/fb6e904ce6f792a6ffdbf9fc744dfb1a9c9a59d8)
-- [ ] [<code>WindowSwitcher: don't force visibility and allocate manually (#2817)</code>](https://github.com/elementary/gala/commit/6549b02496c9263bb2fbaf8969f7123546871df2)
-- [ ] [<code>GestureController: Disconnect timeline signals when removing (#2829)</code>](https://github.com/elementary/gala/commit/ce44fdf9db50b1eb3fb17d86c4751a0e68cf2add)
-- [ ] [<code> MultitaskingView: Fix occassions where the active workspace could be wrong (#2787)</code>](https://github.com/elementary/gala/commit/c4891b3f13e10ee764e478d90cfc3e8790d6b51c)
-- [ ] [<code>GestureControllerTest: Test that everything gets finalized (#2824)</code>](https://github.com/elementary/gala/commit/9ae4ff448148a17dca584eefe48e30e8b303dc0d)
-- [ ] [<code>SwipeTrigger: Don't hold a strong ref on actor</code>](https://github.com/elementary/gala/commit/8214fc88ed43a9a5c2cef4a825ce682c4474c57c)
-- [ ] [<code>Tests: Add swipe trigger lifetime test</code>](https://github.com/elementary/gala/commit/11ad1cca753ef27d6e223f0841bc9f65a03592c3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Metainfo: add 8.5.0 release notes (#2836)</code>](https://github.com/elementary/gala/commit/813d32333e4c6afdb443dcb3357642495a146a97)
-- [ ] [<code>MultitaskingView: Fix escape after workspace switch (#2828)</code>](https://github.com/elementary/gala/commit/07a14674aa6fa584eacc2c5f74d6721d4a291eaf)
-- [ ] [<code>Release 8.5.0 (#2837)</code>](https://github.com/elementary/gala/commit/a089a7636a54b1aa287dc9ed3da3beaaf3869740)
-  - <sub>Tags: <code>8.5.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager: Explicitly override window group of shell windows</code>](https://github.com/elementary/gala/commit/2a22cf0dc80830eb186b168b8a2ec0809b61c64d)
+- [ ] [<code>WindowManager: Rename check_shell_window since it no longer checks shell windows</code>](https://github.com/elementary/gala/commit/f81ea74fc571b06a25ad1304ecaae329dfa0b497)
+- [ ] [<code>Remove now unecessary check_window_group when type changes</code>](https://github.com/elementary/gala/commit/ea26f73a9abb7324d181ac3151b25f0a3dd53657)
+- [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2805)</code>](https://github.com/elementary/gala/commit/db81005ee583bc5106bc9dac70700744c0b32c03)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
