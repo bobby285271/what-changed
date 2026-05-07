@@ -471,20 +471,8 @@
 
 - [ ] [<code>Change release branch from 'odin' to 'noble'</code>](https://github.com/elementary/settings-sharing/commit/f48a184877459104617dbc91eb2a67b55ebd6103)
 
-#### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.2...HEAD)
+#### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.3...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-sound/commit/8e5be025865b52a63ba0bdc18f3259c6eec58551)
-- [ ] [<code>meson: Fix warnings (#296)</code>](https://github.com/elementary/settings-sound/commit/71342cfb74dbb85ca578c8e0b146e636cdb3b7fd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>CanberraGtk4: Don't write if as else-if (#295)</code>](https://github.com/elementary/settings-sound/commit/ffb9004da9b0a5ed70fc11fd0bd8478943d1e5f4)
-- [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-sound/commit/be484563bc787d0da6931c1027ba5a8ebd2cb331)
-- [ ] [<code>Fix empty "Applications" tab (#299)</code>](https://github.com/elementary/settings-sound/commit/58640c9633f13a977768fed4ae2269a21ae293a4)
-- [ ] [<code>metainfo: add 8.0.3 notes (#303)</code>](https://github.com/elementary/settings-sound/commit/918935906c3cdf5fbb7b2ccc384ef93667e3485e)
-- [ ] [<code>AppRow: Fix default toggle position (#300)</code>](https://github.com/elementary/settings-sound/commit/5836c1a86aa2d089f60f9fd176dc85d262cb4fa8)
-- [ ] [<code>release 8.0.3 (#305)</code>](https://github.com/elementary/settings-sound/commit/7d522d2045d1b0f1bfbd7e86ea4df55661e4c865)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
@@ -512,6 +500,7 @@
 - [ ] [<code>Add 'symbols' for Inkscape (#1404)</code>](https://github.com/elementary/icons/commit/59f062170f82aecfea8ee0b7d9bda8c983b3fa42)
 - [ ] [<code>Add Inkscape info, off and on icons (mostly symlinks) (#1408)</code>](https://github.com/elementary/icons/commit/726f1b1db65baee5de3834497f427274d8268134)
 - [ ] [<code>Places: update symbolic icons for gtk 4.22 (#1421)</code>](https://github.com/elementary/icons/commit/2dfc453f0c86a12a926d8ba5d7132c52cf3d7234)
+- [ ] [<code>Status: update symbolic icons for gtk 4.22 (#1422)</code>](https://github.com/elementary/icons/commit/bb3c9c6c82d5cd56de5822efaa5e534bd650fe87)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -528,6 +517,7 @@
 - [ ] [<code>Create a Meson build system (#24)</code>](https://github.com/elementary/fonts/commit/a878e1328bc8995369a0d25f5a50a4b00ceb2764)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>control: Add meson to Build-Depends (#29)</code>](https://github.com/elementary/fonts/commit/d45f566eeddb840c6ad9d74b7bd3b8daf83c066a)
 
 #### [pantheon.elementary-sound-theme](https://github.com/elementary/sound-theme): [1.1.0 → HEAD](https://github.com/elementary/sound-theme/compare/1.1.0...HEAD)
 
@@ -859,6 +849,7 @@
 - [ ] [<code>Demo/Controls: add more image button examples (#971)</code>](https://github.com/elementary/granite/commit/c1a63671f96ac001680312670d481f05169cc71e)
 - [ ] [<code>Fix radius and add subtle sculpting to `.keycap` (#978)</code>](https://github.com/elementary/granite/commit/6b29b9e3f46882b64935abcf609d27832b716a78)
 - [ ] [<code>Styles: `suggested` class for text buttons (#981)</code>](https://github.com/elementary/granite/commit/612dee6c4fb27dadd49ff0d314bbccdbac97c05c)
+- [ ] [<code>Use different styles for overlay/non-overlay scrollbars (#979)</code>](https://github.com/elementary/granite/commit/0b71746b01c79bf51e81347dfa30df1d732259b6)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -947,6 +938,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CI: add systemd-dev (#187)</code>](https://github.com/elementary/portals/commit/533855e280f369b19b035020f18ae33e3549bda7)
 - [ ] [<code>Metainfo: add 8.2.0 (#188)</code>](https://github.com/elementary/portals/commit/924b96fc70cd59917d6a01e395a9bea4f1d88d9e)
+- [ ] [<code>Release 8.2.0 (#189)</code>](https://github.com/elementary/portals/commit/ac3464d7d1834aded91342bdabb3a24f99c7d980)
+  - <sub>Tags: <code>8.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
