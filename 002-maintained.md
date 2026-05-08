@@ -304,6 +304,9 @@
 - [ ] [<code>use raw text for project titles (#2427)</code>](https://github.com/alainm23/planify/commit/802546bb46c120b54547fecb502d853c1f20c78a)
 - [ ] [<code>add DS_Store ignore</code>](https://github.com/alainm23/planify/commit/f2075cbd18c1025c99720b88cbddf6f909b17312)
 - [ ] [<code>fix sync-collection request compatibility (#2423)</code>](https://github.com/alainm23/planify/commit/03529324934295e6efcbd35f153cb39e12cbd992)
+- [ ] [<code>Fix cli backup crash (#2440)</code>](https://github.com/alainm23/planify/commit/b6c5cad65da0f6d5ea0c14909ffdbc68d14cc714)
+- [ ] [<code>Translations update from Hosted Weblate (#2420)</code>](https://github.com/alainm23/planify/commit/f02610a536f44595229050f3ce1e3ecee3d710ba)
+- [ ] [<code>Add support for system accent color instead of hardcoded accent color (#2416)</code>](https://github.com/alainm23/planify/commit/ab40dcfabce102f581e10cf56e1e6d57ddc1e373)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
