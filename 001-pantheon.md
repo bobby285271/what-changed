@@ -115,6 +115,7 @@
 - [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
 - [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
 - [ ] [<code>Add metainfo for release 8.3.0 (#1712)</code>](https://github.com/elementary/code/commit/b08e4ecd94fcc402a681280013f675129b16ebc3)
+- [ ] [<code>Implement create new from template (#1616)</code>](https://github.com/elementary/code/commit/b187769335228bc0bb68c79b2fbccdfffb6c4e3b)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -352,6 +353,8 @@
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
 
 - [ ] [<code>Fix secondary click foreground process (#1005)</code>](https://github.com/elementary/terminal/commit/fb31d5592e4572a38fef73ff60382e6bbcf5a4de)
+- [ ] [<code>Don't store clipboard object in TerminalWidget</code>](https://github.com/elementary/terminal/commit/40ac3ed5cbad613e356a5204a40b3d5f16b9b90c)
+- [ ] [<code>introduce MainWindow.get_page ()</code>](https://github.com/elementary/terminal/commit/81edaa58a4123af43dbc577d5b990fbe5228f8ce)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -585,6 +588,10 @@
 - [ ] [<code>WindowManager: Rename check_shell_window since it no longer checks shell windows</code>](https://github.com/elementary/gala/commit/f81ea74fc571b06a25ad1304ecaae329dfa0b497)
 - [ ] [<code>Remove now unecessary check_window_group when type changes</code>](https://github.com/elementary/gala/commit/ea26f73a9abb7324d181ac3151b25f0a3dd53657)
 - [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2805)</code>](https://github.com/elementary/gala/commit/db81005ee583bc5106bc9dac70700744c0b32c03)
+- [ ] [<code>Revert "WindowSwitcher: don't force visibility and allocate manually" (#2840)</code>](https://github.com/elementary/gala/commit/110c5f480f5b0efda3bb889c0c2e1e193af068e8)
+- [ ] [<code>Tooltip: use background color from stylesheet and add text shadow (#2811)</code>](https://github.com/elementary/gala/commit/d11b7574c1771de47eb4f69d5f13207f860f85cc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
