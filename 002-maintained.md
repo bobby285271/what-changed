@@ -307,6 +307,9 @@
 - [ ] [<code>Fix cli backup crash (#2440)</code>](https://github.com/alainm23/planify/commit/b6c5cad65da0f6d5ea0c14909ffdbc68d14cc714)
 - [ ] [<code>Translations update from Hosted Weblate (#2420)</code>](https://github.com/alainm23/planify/commit/f02610a536f44595229050f3ce1e3ecee3d710ba)
 - [ ] [<code>Add support for system accent color instead of hardcoded accent color (#2416)</code>](https://github.com/alainm23/planify/commit/ab40dcfabce102f581e10cf56e1e6d57ddc1e373)
+- [ ] [<code>Add Manpages (#2410)</code>](https://github.com/alainm23/planify/commit/77613db80f915afcb18c4493f137b0813d41e462)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
