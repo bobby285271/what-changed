@@ -310,6 +310,9 @@
 - [ ] [<code>Add Manpages (#2410)</code>](https://github.com/alainm23/planify/commit/77613db80f915afcb18c4493f137b0813d41e462)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix archive (#2442)</code>](https://github.com/alainm23/planify/commit/006be7e4419d794f10426426520c82fdcc87afee)
+- [ ] [<code>remove section hide (#2443)</code>](https://github.com/alainm23/planify/commit/d1e97dfeefa9219fca9ea160ac930f0fd29b05dd)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
