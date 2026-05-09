@@ -116,6 +116,7 @@
 - [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
 - [ ] [<code>Add metainfo for release 8.3.0 (#1712)</code>](https://github.com/elementary/code/commit/b08e4ecd94fcc402a681280013f675129b16ebc3)
 - [ ] [<code>Implement create new from template (#1616)</code>](https://github.com/elementary/code/commit/b187769335228bc0bb68c79b2fbccdfffb6c4e3b)
+- [ ] [<code>Update metainfo after recent commit (#1714)</code>](https://github.com/elementary/code/commit/513997999d76c05430f0d840ab50d8b7c56bc661)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -928,29 +929,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.1.0...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.2.0...HEAD)
 
-- [ ] [<code>AppChooser/Dialog: invert primary and secondary text (#172)</code>](https://github.com/elementary/portals/commit/752e32553f1cab59b71f11205b05506bed1cad66)
-- [ ] [<code>ScreenCast/Dialog: add icon, explanation text (#167)</code>](https://github.com/elementary/portals/commit/06ffbc9e241aa4f499ae3a04babadbea4c714997)
-- [ ] [<code>AppChooser/Dialog: handle links (#171)</code>](https://github.com/elementary/portals/commit/ec29931ed536cbb595295eb1bb794ada1d0e9d37)
-- [ ] [<code>ExternalWindow: fix dialog parenting (#168)</code>](https://github.com/elementary/portals/commit/3a83f72ae4b9a54df131697987686b1be7346ffc)
-- [ ] [<code>Use Granite.ListItem, Granite.Box (#176)</code>](https://github.com/elementary/portals/commit/2b8b71528f03f2f6c63390da164f19d3c44d1f0e)
-- [ ] [<code>ScreenCast/Dialog: check when row activated (#170)</code>](https://github.com/elementary/portals/commit/1d5dabcf03b204f6765b922d4bfb94819c4300ea)
-- [ ] [<code>Replace Granite StyleClass deprecations (#175)</code>](https://github.com/elementary/portals/commit/453b2cfe42158022f7bf235ef936434e4e705de2)
-- [ ] [<code>Create PortalDialog (#169)</code>](https://github.com/elementary/portals/commit/10aa0b271df4ad62f50153e0a352a69b03a72b07)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>PortalDialog: make button construction internal (#177)</code>](https://github.com/elementary/portals/commit/43fab1ddfb2337c2dea3dad586ed5f4dd21a5258)
-- [ ] [<code>Screencast: redesign icon as circle (#181)</code>](https://github.com/elementary/portals/commit/ef4730c140335224a3502bc016a216ee5f7cd749)
-- [ ] [<code>Access: use PortalDialog (#178)</code>](https://github.com/elementary/portals/commit/cae4799703f94a20b801e7293260d8f3c0ae60f2)
-- [ ] [<code>Session: don't destroy dialog before setup recording (#183)</code>](https://github.com/elementary/portals/commit/df7982a35d97853c604e6be78386e0a1950847a7)
-- [ ] [<code>Create Account portal (#180)</code>](https://github.com/elementary/portals/commit/9abbdf5386e8e4fe4c5fc3f6b616945f55129b38)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>CI: add systemd-dev (#187)</code>](https://github.com/elementary/portals/commit/533855e280f369b19b035020f18ae33e3549bda7)
-- [ ] [<code>Metainfo: add 8.2.0 (#188)</code>](https://github.com/elementary/portals/commit/924b96fc70cd59917d6a01e395a9bea4f1d88d9e)
-- [ ] [<code>Release 8.2.0 (#189)</code>](https://github.com/elementary/portals/commit/ac3464d7d1834aded91342bdabb3a24f99c7d980)
-  - <sub>Tags: <code>8.2.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -1005,3 +985,5 @@
 - [ ] [<code>elementary-sdk: Add Granite 9 (#154)</code>](https://github.com/elementary/seeds/commit/547a81b5edcd6d49035c59abbe231e6e9502fb70)
 - [ ] [<code>Revert "elementary-sdk: Add Granite 9 (#154)" (#155)</code>](https://github.com/elementary/seeds/commit/426cd47a9cbe5ad408adb15f559f6ab431625e97)
 - [ ] [<code>pantheon-shell: Rename session-settings package name (#153)</code>](https://github.com/elementary/seeds/commit/80291270f072c4c80f12f7c3073c772375b55461)
+- [ ] [<code>pantheon: Rename to io.elementary.appcenter (#157)</code>](https://github.com/elementary/seeds/commit/5cb3663cb7e01e9bfc8a45dcd95cc6cb5d29a43d)
+- [ ] [<code>pantheon: Rename to io.elementary.appcenter (#156)</code>](https://github.com/elementary/seeds/commit/804220ebcd635b6c53c6c7578d91af25868cd33f)
