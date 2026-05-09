@@ -987,3 +987,5 @@
 - [ ] [<code>pantheon-shell: Rename session-settings package name (#153)</code>](https://github.com/elementary/seeds/commit/80291270f072c4c80f12f7c3073c772375b55461)
 - [ ] [<code>pantheon: Rename to io.elementary.appcenter (#157)</code>](https://github.com/elementary/seeds/commit/5cb3663cb7e01e9bfc8a45dcd95cc6cb5d29a43d)
 - [ ] [<code>pantheon: Rename to io.elementary.appcenter (#156)</code>](https://github.com/elementary/seeds/commit/804220ebcd635b6c53c6c7578d91af25868cd33f)
+- [ ] [<code>Create dependabot.yml (#159)</code>](https://github.com/elementary/seeds/commit/48a220fb002d7906a923befd26488fabde5d1046)
+- [ ] [<code>Bump actions/checkout from 3 to 6 (#160)</code>](https://github.com/elementary/seeds/commit/bc49149b0cd7230507fc59f487f4a83c62d3bbc9)
