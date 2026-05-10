@@ -313,6 +313,16 @@
 - [ ] [<code>fix archive (#2442)</code>](https://github.com/alainm23/planify/commit/006be7e4419d794f10426426520c82fdcc87afee)
 - [ ] [<code>remove section hide (#2443)</code>](https://github.com/alainm23/planify/commit/d1e97dfeefa9219fca9ea160ac930f0fd29b05dd)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix dnd count (#2448)</code>](https://github.com/alainm23/planify/commit/b315db1eb5ec6a6d25d018a38bc9e730df0896e1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Calendar events not updated when kept open over midnight (#2449)</code>](https://github.com/alainm23/planify/commit/4fab13c0b1a8a0336cc4c674a453e15b9738cfc7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>remove css (#2450)</code>](https://github.com/alainm23/planify/commit/f49dab77d82d41a65f1cc6861147cf366aa81c3d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>reset (#2451)</code>](https://github.com/alainm23/planify/commit/6f9535298e22301b60ba2c2e0a1532e0283aa6fd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Toggle under a group looks better now  (#2447)</code>](https://github.com/alainm23/planify/commit/78356ecb8154fc468203bee9e88001dc79357b39)
+- [ ] [<code>Translations update from Hosted Weblate (#2445)</code>](https://github.com/alainm23/planify/commit/d8e9ad3f580cc8c00874a0b6d5c4e87d3b376aac)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
