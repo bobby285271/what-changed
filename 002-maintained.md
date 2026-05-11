@@ -323,6 +323,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Toggle under a group looks better now  (#2447)</code>](https://github.com/alainm23/planify/commit/78356ecb8154fc468203bee9e88001dc79357b39)
 - [ ] [<code>Translations update from Hosted Weblate (#2445)</code>](https://github.com/alainm23/planify/commit/d8e9ad3f580cc8c00874a0b6d5c4e87d3b376aac)
+- [ ] [<code>Translations update from Hosted Weblate (#2452)</code>](https://github.com/alainm23/planify/commit/e5d61f4b317ad43e9c9e865464a3a8c0a4aab3b0)
+- [ ] [<code>refactor: Improve Todoist service code quality and fix bugs (#2453)</code>](https://github.com/alainm23/planify/commit/bbae298af959cbe839f1c337ff72e3e831b66748)
+- [ ] [<code>move tasks (#2455)</code>](https://github.com/alainm23/planify/commit/47d68d012138317268d113330d6385bc6c70baf9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
