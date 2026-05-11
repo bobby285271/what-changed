@@ -124,13 +124,8 @@
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.0 → HEAD](https://github.com/elementary/files/compare/7.3.0...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.1 → HEAD](https://github.com/elementary/files/compare/7.3.1...HEAD)
 
-- [ ] [<code>Fix regression: Crash if too many templates (#2783)</code>](https://github.com/elementary/files/commit/626864634bb55dd4824b7782339a7d7a7351a02a)
-- [ ] [<code>Add metainfo for v7.3.1 (#2785)</code>](https://github.com/elementary/files/commit/da2fdce37e8b99f30aa60cb24235a1d49b124c43)
-- [ ] [<code>Release version 7.3.1 (#2786)</code>](https://github.com/elementary/files/commit/5e923fc020b0ff29d98983aca603cd8d1b12ec72)
-  - <sub>Tags: <code>7.3.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
