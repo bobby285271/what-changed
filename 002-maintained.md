@@ -329,6 +329,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>ux improvements (#2456)</code>](https://github.com/alainm23/planify/commit/a72f2ac9177a60f412e843893afc1eee1edd3c18)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>improve history (#2458)</code>](https://github.com/alainm23/planify/commit/212f32caf4d73888e0479f876d8924e4e6085215)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
