@@ -327,6 +327,8 @@
 - [ ] [<code>refactor: Improve Todoist service code quality and fix bugs (#2453)</code>](https://github.com/alainm23/planify/commit/bbae298af959cbe839f1c337ff72e3e831b66748)
 - [ ] [<code>move tasks (#2455)</code>](https://github.com/alainm23/planify/commit/47d68d012138317268d113330d6385bc6c70baf9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ux improvements (#2456)</code>](https://github.com/alainm23/planify/commit/a72f2ac9177a60f412e843893afc1eee1edd3c18)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
