@@ -126,6 +126,7 @@
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.1 → HEAD](https://github.com/elementary/files/compare/7.3.1...HEAD)
 
+- [ ] [<code>Allow horizontal scroll in ListView (#2793)</code>](https://github.com/elementary/files/commit/29f47c211fa6e8eae6d35e54e7b20bc902657533)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -591,6 +592,7 @@
 - [ ] [<code>Tooltip: use background color from stylesheet and add text shadow (#2811)</code>](https://github.com/elementary/gala/commit/d11b7574c1771de47eb4f69d5f13207f860f85cc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Revert "WindowClone: display modal dialogs on top of parent window" (#2846)</code>](https://github.com/elementary/gala/commit/f317b40112836f09abbb8c800addd6d0cb693466)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
