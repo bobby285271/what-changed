@@ -127,6 +127,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.1 → HEAD](https://github.com/elementary/files/compare/7.3.1...HEAD)
 
 - [ ] [<code>Allow horizontal scroll in ListView (#2793)</code>](https://github.com/elementary/files/commit/29f47c211fa6e8eae6d35e54e7b20bc902657533)
+- [ ] [<code>Indicate presence of undisplayed hidden files with empty message (#2663)</code>](https://github.com/elementary/files/commit/936d66b24609341bb371ac972cef9293f32b5436)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
