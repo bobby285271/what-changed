@@ -335,6 +335,12 @@
 - [ ] [<code>feat: automatic daily backup with extra folder support (#2459)</code>](https://github.com/alainm23/planify/commit/6317227deb03b87d9ac2ec01c32e7562095486f8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Translations update from Hosted Weblate (#2454)</code>](https://github.com/alainm23/planify/commit/d4927cdb4a9593f9b6caa7409c03aef601702c6e)
+- [ ] [<code>Support builds with libical 4 (#2461)</code>](https://github.com/alainm23/planify/commit/b9cd30005fa5b581f8626dc1297448e9c80d9784)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>calendar events (#2466)</code>](https://github.com/alainm23/planify/commit/b2c48bb6100f8eef42aedc9c6f0fbe8f752bcf71)
+- [ ] [<code>fix: labels not being removed when deselected in multi-select toolbar (#2465)</code>](https://github.com/alainm23/planify/commit/7747150467311ffbd08d5949b22cc0014bb57518)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
