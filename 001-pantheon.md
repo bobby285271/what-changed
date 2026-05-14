@@ -594,6 +594,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Revert "WindowClone: display modal dialogs on top of parent window" (#2846)</code>](https://github.com/elementary/gala/commit/f317b40112836f09abbb8c800addd6d0cb693466)
+- [ ] [<code>Release 8.5.1 (#2845)</code>](https://github.com/elementary/gala/commit/414f523cc791290b7e1d0c609027c9620b872a39)
+  - <sub>Tags: <code>8.5.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
