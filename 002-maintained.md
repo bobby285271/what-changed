@@ -331,6 +331,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>improve history (#2458)</code>](https://github.com/alainm23/planify/commit/212f32caf4d73888e0479f876d8924e4e6085215)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>add flag (#2460)</code>](https://github.com/alainm23/planify/commit/fb59adb9441ad00d86b0a67ec6a567ebaa20953c)
+- [ ] [<code>feat: automatic daily backup with extra folder support (#2459)</code>](https://github.com/alainm23/planify/commit/6317227deb03b87d9ac2ec01c32e7562095486f8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Translations update from Hosted Weblate (#2454)</code>](https://github.com/alainm23/planify/commit/d4927cdb4a9593f9b6caa7409c03aef601702c6e)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
