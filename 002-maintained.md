@@ -341,6 +341,11 @@
 - [ ] [<code>calendar events (#2466)</code>](https://github.com/alainm23/planify/commit/b2c48bb6100f8eef42aedc9c6f0fbe8f752bcf71)
 - [ ] [<code>fix: labels not being removed when deselected in multi-select toolbar (#2465)</code>](https://github.com/alainm23/planify/commit/7747150467311ffbd08d5949b22cc0014bb57518)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release 4.19.2 (#2469)</code>](https://github.com/alainm23/planify/commit/444f8043b941396d6d190ce52cba3f538003e629)
+  - <sub>Tags: <code>v4.19.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fi (#2470)</code>](https://github.com/alainm23/planify/commit/55e75fb0fc6d602e91c12b521520ac6890a552ec)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
