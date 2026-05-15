@@ -128,6 +128,7 @@
 
 - [ ] [<code>Allow horizontal scroll in ListView (#2793)</code>](https://github.com/elementary/files/commit/29f47c211fa6e8eae6d35e54e7b20bc902657533)
 - [ ] [<code>Indicate presence of undisplayed hidden files with empty message (#2663)</code>](https://github.com/elementary/files/commit/936d66b24609341bb371ac972cef9293f32b5436)
+- [ ] [<code>DndHandler & AbstractDirectoryView cleanup (#2792)</code>](https://github.com/elementary/files/commit/a3d5863bade83296944f8c6a3c9914b00a531499)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -356,6 +357,8 @@
 - [ ] [<code>Fix secondary click foreground process (#1005)</code>](https://github.com/elementary/terminal/commit/fb31d5592e4572a38fef73ff60382e6bbcf5a4de)
 - [ ] [<code>Don't store clipboard object in TerminalWidget</code>](https://github.com/elementary/terminal/commit/40ac3ed5cbad613e356a5204a40b3d5f16b9b90c)
 - [ ] [<code>introduce MainWindow.get_page ()</code>](https://github.com/elementary/terminal/commit/81edaa58a4123af43dbc577d5b990fbe5228f8ce)
+- [ ] [<code>Show tab numbers with shortcut (#1009)</code>](https://github.com/elementary/terminal/commit/532407c956246a265615b68bc2dcf879a190dbb9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -583,20 +586,8 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.5.0...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.5.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.5.1...HEAD)
 
-- [ ] [<code>WindowManager: Explicitly override window group of shell windows</code>](https://github.com/elementary/gala/commit/2a22cf0dc80830eb186b168b8a2ec0809b61c64d)
-- [ ] [<code>WindowManager: Rename check_shell_window since it no longer checks shell windows</code>](https://github.com/elementary/gala/commit/f81ea74fc571b06a25ad1304ecaae329dfa0b497)
-- [ ] [<code>Remove now unecessary check_window_group when type changes</code>](https://github.com/elementary/gala/commit/ea26f73a9abb7324d181ac3151b25f0a3dd53657)
-- [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2805)</code>](https://github.com/elementary/gala/commit/db81005ee583bc5106bc9dac70700744c0b32c03)
-- [ ] [<code>Revert "WindowSwitcher: don't force visibility and allocate manually" (#2840)</code>](https://github.com/elementary/gala/commit/110c5f480f5b0efda3bb889c0c2e1e193af068e8)
-- [ ] [<code>Tooltip: use background color from stylesheet and add text shadow (#2811)</code>](https://github.com/elementary/gala/commit/d11b7574c1771de47eb4f69d5f13207f860f85cc)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Revert "WindowClone: display modal dialogs on top of parent window" (#2846)</code>](https://github.com/elementary/gala/commit/f317b40112836f09abbb8c800addd6d0cb693466)
-- [ ] [<code>Release 8.5.1 (#2845)</code>](https://github.com/elementary/gala/commit/414f523cc791290b7e1d0c609027c9620b872a39)
-  - <sub>Tags: <code>8.5.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
