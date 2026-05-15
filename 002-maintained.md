@@ -346,6 +346,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fi (#2470)</code>](https://github.com/alainm23/planify/commit/55e75fb0fc6d602e91c12b521520ac6890a552ec)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>valiud update_id (#2473)</code>](https://github.com/alainm23/planify/commit/2966f1819707eb6624d73f157a2a1b566ddf3502)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix subheader (#2474)</code>](https://github.com/alainm23/planify/commit/60e224ea75134360eb9a2b62c6a3efd0cf5bd331)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
