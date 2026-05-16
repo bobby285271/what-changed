@@ -211,6 +211,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#842)</code>](https://github.com/elementary/music/commit/06a4c0df8695f87ecf733218e7a1067cbc0339ca)
 - [ ] [<code>Respect ReplayGain meta data (#841)</code>](https://github.com/elementary/music/commit/f0325df8515b635b6fe6c04d4fc7e5135b98b390)
+- [ ] [<code>Do not queue duplicate items (#845)</code>](https://github.com/elementary/music/commit/7294b92828cf947b021d5e6d64064d6ca37ebdd0)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
