@@ -117,6 +117,9 @@
 - [ ] [<code>Add metainfo for release 8.3.0 (#1712)</code>](https://github.com/elementary/code/commit/b08e4ecd94fcc402a681280013f675129b16ebc3)
 - [ ] [<code>Implement create new from template (#1616)</code>](https://github.com/elementary/code/commit/b187769335228bc0bb68c79b2fbccdfffb6c4e3b)
 - [ ] [<code>Update metainfo after recent commit (#1714)</code>](https://github.com/elementary/code/commit/513997999d76c05430f0d840ab50d8b7c56bc661)
+- [ ] [<code>Release version 8.3.0 (#1717)</code>](https://github.com/elementary/code/commit/4b6e1f7baa594c59ed2b6787b5e8a3e437cd06fd)
+  - <sub>Tags: <code>8.3.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
