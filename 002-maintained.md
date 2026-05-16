@@ -350,6 +350,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix subheader (#2474)</code>](https://github.com/alainm23/planify/commit/60e224ea75134360eb9a2b62c6a3efd0cf5bd331)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: split Todoist service into smaller focused files (#2475)</code>](https://github.com/alainm23/planify/commit/1be6a112e0cfe2a3dc4aeab28dd6530c104f6e35)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
