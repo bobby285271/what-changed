@@ -598,6 +598,8 @@
 
 #### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.5.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.5.1...HEAD)
 
+- [ ] [<code>Tests: Use a single executable (#2849)</code>](https://github.com/elementary/gala/commit/16c0e5662520dfc04952a2e07d1dceaca13f3070)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
