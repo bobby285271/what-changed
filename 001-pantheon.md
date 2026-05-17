@@ -120,6 +120,11 @@
 - [ ] [<code>Release version 8.3.0 (#1717)</code>](https://github.com/elementary/code/commit/4b6e1f7baa594c59ed2b6787b5e8a3e437cd06fd)
   - <sub>Tags: <code>8.3.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix Symbol Pane not updating on external file reversion (#1715) (#1716)</code>](https://github.com/elementary/code/commit/a4a2df72cbffa554f4e0418d547f3beb51061a5e)
+- [ ] [<code>Handle closing second or subsequent window (#1620)</code>](https://github.com/elementary/code/commit/907b56ad19a1b17f63b78917c63f9f3323b0aa4e)
+- [ ] [<code>Improve fuzzy find result order (#1655)</code>](https://github.com/elementary/code/commit/f4d035911e5a67c2c1a2c6f39be58b2bc2f90058)
+- [ ] [<code>Expose system document font in Preferences dialog (#1670)</code>](https://github.com/elementary/code/commit/3dbf6d56b5b8a802018af5d5ae0708def0fae60d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
