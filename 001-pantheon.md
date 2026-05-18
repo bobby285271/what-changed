@@ -105,21 +105,8 @@
 - [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.2.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.0...HEAD)
 
-- [ ] [<code>Ensure window not stuck fullscreen (#1684)</code>](https://github.com/elementary/code/commit/09ed7643d0486bcb299020030357bcf126976327)
-- [ ] [<code>BranchActions dialog (#1607)</code>](https://github.com/elementary/code/commit/f189a7927f516e48700f3f79f391a9e3ada097bb)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1709)</code>](https://github.com/elementary/code/commit/8678d2f572cce961dfbc4274dcc1e99978c616b3)
-- [ ] [<code>Focus terminal on enter, strip trailing spaces on doc focus out (#1663)</code>](https://github.com/elementary/code/commit/37626d93912f17f5e919a41fe72e48a7d83f5459)
-- [ ] [<code>SourceList: use key controller (#1710)</code>](https://github.com/elementary/code/commit/58c07a830606b236d698c536fc637138c0b4096d)
-- [ ] [<code>Add metainfo for release 8.3.0 (#1712)</code>](https://github.com/elementary/code/commit/b08e4ecd94fcc402a681280013f675129b16ebc3)
-- [ ] [<code>Implement create new from template (#1616)</code>](https://github.com/elementary/code/commit/b187769335228bc0bb68c79b2fbccdfffb6c4e3b)
-- [ ] [<code>Update metainfo after recent commit (#1714)</code>](https://github.com/elementary/code/commit/513997999d76c05430f0d840ab50d8b7c56bc661)
-- [ ] [<code>Release version 8.3.0 (#1717)</code>](https://github.com/elementary/code/commit/4b6e1f7baa594c59ed2b6787b5e8a3e437cd06fd)
-  - <sub>Tags: <code>8.3.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix Symbol Pane not updating on external file reversion (#1715) (#1716)</code>](https://github.com/elementary/code/commit/a4a2df72cbffa554f4e0418d547f3beb51061a5e)
 - [ ] [<code>Handle closing second or subsequent window (#1620)</code>](https://github.com/elementary/code/commit/907b56ad19a1b17f63b78917c63f9f3323b0aa4e)
 - [ ] [<code>Improve fuzzy find result order (#1655)</code>](https://github.com/elementary/code/commit/f4d035911e5a67c2c1a2c6f39be58b2bc2f90058)
