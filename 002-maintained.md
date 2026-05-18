@@ -353,6 +353,7 @@
 - [ ] [<code>refactor: split Todoist service into smaller focused files (#2475)</code>](https://github.com/alainm23/planify/commit/1be6a112e0cfe2a3dc4aeab28dd6530c104f6e35)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Fix Mailbox CalDAV sync (#2471)</code>](https://github.com/alainm23/planify/commit/f3b88a11aeb8e8742cc4018a6b7398f82db9673b)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
