@@ -354,6 +354,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Fix Mailbox CalDAV sync (#2471)</code>](https://github.com/alainm23/planify/commit/f3b88a11aeb8e8742cc4018a6b7398f82db9673b)
+- [ ] [<code>Translations update from Hosted Weblate (#2483)</code>](https://github.com/alainm23/planify/commit/62259ba28eb4191330e030bacdf8c5c06f7f0816)
+- [ ] [<code>release 4.19.3 (#2485)</code>](https://github.com/alainm23/planify/commit/9f5f48611f3bf224b3d291dc3c4a71eb6658df2a)
+  - <sub>Tags: <code>v4.19.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
