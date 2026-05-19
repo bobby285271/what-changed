@@ -424,6 +424,7 @@
 - [ ] [<code>Update for Meson 0.58.0 (#442)</code>](https://github.com/elementary/settings-display/commit/17ef49bc6ece9b311aab62ca17fbb0e23f160c46)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Apply scaling to virtual monitor reported size (#439)</code>](https://github.com/elementary/settings-display/commit/edeec6371a42dd84f9d4af632a0ffdc8d1d6f526)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
