@@ -208,6 +208,9 @@
 - [ ] [<code>Respect ReplayGain meta data (#841)</code>](https://github.com/elementary/music/commit/f0325df8515b635b6fe6c04d4fc7e5135b98b390)
 - [ ] [<code>Do not queue duplicate items (#845)</code>](https://github.com/elementary/music/commit/7294b92828cf947b021d5e6d64064d6ca37ebdd0)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add support for playlists (#840)</code>](https://github.com/elementary/music/commit/97388950d52a9865ff344d6d586411ea18626b63)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
 
