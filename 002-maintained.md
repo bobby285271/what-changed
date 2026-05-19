@@ -358,6 +358,8 @@
 - [ ] [<code>release 4.19.3 (#2485)</code>](https://github.com/alainm23/planify/commit/9f5f48611f3bf224b3d291dc3c4a71eb6658df2a)
   - <sub>Tags: <code>v4.19.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix: correctly update if priority_property is null (#2488)</code>](https://github.com/alainm23/planify/commit/a63af20a4cf1104582b495432ed330a8c2fcb660)
+- [ ] [<code>fix: improve Todoist offline queue reliability (#2476)</code>](https://github.com/alainm23/planify/commit/439b957ea6e7f4fd82e949a8e58ff75b9e2f3d42)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
