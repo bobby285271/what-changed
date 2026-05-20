@@ -272,6 +272,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: use UTC timezone for COMPLETED property in VTODO (#2490)</code>](https://github.com/alainm23/planify/commit/7115e6a578f997ff6d0fd55b59550bd937364ae4)
 - [ ] [<code>Translations update from Hosted Weblate (#2487)</code>](https://github.com/alainm23/planify/commit/f03ded37c11101eba9d7cab38dad07e45c8a2d09)
+- [ ] [<code>release 4.19.4 (#2494)</code>](https://github.com/alainm23/planify/commit/6c5a6b26dd45761439ea1543026d1633bbb3feb2)
+  - <sub>Tags: <code>v4.19.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
