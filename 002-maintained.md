@@ -264,102 +264,14 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.0...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.3...HEAD)
 
-- [ ] [<code>Use ICU for language names in Translation Row (#2385)</code>](https://github.com/alainm23/planify/commit/629b77ea627faccfd20409b8629b9ead8a97e8f5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Move CLI to its own top-level directory (#2391)</code>](https://github.com/alainm23/planify/commit/f8dad6d04adf47206ab07d85729cb8327747cce8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>remove snap (#2392)</code>](https://github.com/alainm23/planify/commit/2d648b4211d0d5dba60e8f8c3cd0e24361ebc6ca)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>fix comploete</code>](https://github.com/alainm23/planify/commit/7a2b9b670f76de0647769b3b7abf8318fd17187f)
-- [ ] [<code>Translations update from Hosted Weblate (#2396)</code>](https://github.com/alainm23/planify/commit/47cee93c1264385185a01ad222f8c2c7de86d13f)
-- [ ] [<code>Fix CalDAV sync for multiple Server Implementations (#2397)</code>](https://github.com/alainm23/planify/commit/abe43cd1894758703d7b0f8902826bae2598b807)
-- [ ] [<code>fix tone (#2402)</code>](https://github.com/alainm23/planify/commit/88c7f4b4889d5c23e19f0aa1ed77b5a94e7043c9)
-- [ ] [<code>use fallback (#2403)</code>](https://github.com/alainm23/planify/commit/798ab6bbbda074113380838d0ad9ccd7169ff063)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>add descriptyion modal (#2404)</code>](https://github.com/alainm23/planify/commit/c95834b77215395a1842bfd71c3e36918f656b94)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: subtasks not reset not updated when recurring task completes (#2405)</code>](https://github.com/alainm23/planify/commit/0512b7ff0f074e07be42137ede00ae470bfabfd8)
-- [ ] [<code>add backup to cli (#2407)</code>](https://github.com/alainm23/planify/commit/08dcc73925b278311ac1353c867ef23856cfeeaf)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Hide the position marker for new tasks when done (#2406)</code>](https://github.com/alainm23/planify/commit/397eef57dbcaaf7fdf753bba5250068d59745476)
-- [ ] [<code>Release 4.19.1 (#2408)</code>](https://github.com/alainm23/planify/commit/69962f8c7a687717cb7b546ac2a9506f24546a82)
-  - <sub>Tags: <code>v4.19.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove Flatpak no-webkit manifest (#2409)</code>](https://github.com/alainm23/planify/commit/daf9d733b751254aaf920260ea4d0ecfebc7f4c3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: accept HTTP 200 as valid response for PUT item on Horde and similar servers (#2415)</code>](https://github.com/alainm23/planify/commit/dcae3dea652a3aa1f8dcbc090b69b80accf9eef5)
-- [ ] [<code>feat: allow selecting past dates in date picker (#2418)</code>](https://github.com/alainm23/planify/commit/9a280fd617355ca795d1cc5df67e9bae26d8d7d1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: add Export as .ics option for CalDAV tasks (#2419)</code>](https://github.com/alainm23/planify/commit/5e61c05c6ea78a397b2287e94cf2df2ac6c845ba)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat: CalDAV section support via VTODO List prefix (#2421)</code>](https://github.com/alainm23/planify/commit/6f7fa42a041b1002ac372e64cc28897029c81613)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update displayed project note when changed (#2424)</code>](https://github.com/alainm23/planify/commit/ca88ab858a2b2603669c4cfce4ee842267c5d290)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>use raw text for project titles (#2427)</code>](https://github.com/alainm23/planify/commit/802546bb46c120b54547fecb502d853c1f20c78a)
-- [ ] [<code>add DS_Store ignore</code>](https://github.com/alainm23/planify/commit/f2075cbd18c1025c99720b88cbddf6f909b17312)
-- [ ] [<code>fix sync-collection request compatibility (#2423)</code>](https://github.com/alainm23/planify/commit/03529324934295e6efcbd35f153cb39e12cbd992)
-- [ ] [<code>Fix cli backup crash (#2440)</code>](https://github.com/alainm23/planify/commit/b6c5cad65da0f6d5ea0c14909ffdbc68d14cc714)
-- [ ] [<code>Translations update from Hosted Weblate (#2420)</code>](https://github.com/alainm23/planify/commit/f02610a536f44595229050f3ce1e3ecee3d710ba)
-- [ ] [<code>Add support for system accent color instead of hardcoded accent color (#2416)</code>](https://github.com/alainm23/planify/commit/ab40dcfabce102f581e10cf56e1e6d57ddc1e373)
-- [ ] [<code>Add Manpages (#2410)</code>](https://github.com/alainm23/planify/commit/77613db80f915afcb18c4493f137b0813d41e462)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix archive (#2442)</code>](https://github.com/alainm23/planify/commit/006be7e4419d794f10426426520c82fdcc87afee)
-- [ ] [<code>remove section hide (#2443)</code>](https://github.com/alainm23/planify/commit/d1e97dfeefa9219fca9ea160ac930f0fd29b05dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix dnd count (#2448)</code>](https://github.com/alainm23/planify/commit/b315db1eb5ec6a6d25d018a38bc9e730df0896e1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: Calendar events not updated when kept open over midnight (#2449)</code>](https://github.com/alainm23/planify/commit/4fab13c0b1a8a0336cc4c674a453e15b9738cfc7)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>remove css (#2450)</code>](https://github.com/alainm23/planify/commit/f49dab77d82d41a65f1cc6861147cf366aa81c3d)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>reset (#2451)</code>](https://github.com/alainm23/planify/commit/6f9535298e22301b60ba2c2e0a1532e0283aa6fd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Toggle under a group looks better now  (#2447)</code>](https://github.com/alainm23/planify/commit/78356ecb8154fc468203bee9e88001dc79357b39)
-- [ ] [<code>Translations update from Hosted Weblate (#2445)</code>](https://github.com/alainm23/planify/commit/d8e9ad3f580cc8c00874a0b6d5c4e87d3b376aac)
-- [ ] [<code>Translations update from Hosted Weblate (#2452)</code>](https://github.com/alainm23/planify/commit/e5d61f4b317ad43e9c9e865464a3a8c0a4aab3b0)
-- [ ] [<code>refactor: Improve Todoist service code quality and fix bugs (#2453)</code>](https://github.com/alainm23/planify/commit/bbae298af959cbe839f1c337ff72e3e831b66748)
-- [ ] [<code>move tasks (#2455)</code>](https://github.com/alainm23/planify/commit/47d68d012138317268d113330d6385bc6c70baf9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>ux improvements (#2456)</code>](https://github.com/alainm23/planify/commit/a72f2ac9177a60f412e843893afc1eee1edd3c18)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>improve history (#2458)</code>](https://github.com/alainm23/planify/commit/212f32caf4d73888e0479f876d8924e4e6085215)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>add flag (#2460)</code>](https://github.com/alainm23/planify/commit/fb59adb9441ad00d86b0a67ec6a567ebaa20953c)
-- [ ] [<code>feat: automatic daily backup with extra folder support (#2459)</code>](https://github.com/alainm23/planify/commit/6317227deb03b87d9ac2ec01c32e7562095486f8)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Translations update from Hosted Weblate (#2454)</code>](https://github.com/alainm23/planify/commit/d4927cdb4a9593f9b6caa7409c03aef601702c6e)
-- [ ] [<code>Support builds with libical 4 (#2461)</code>](https://github.com/alainm23/planify/commit/b9cd30005fa5b581f8626dc1297448e9c80d9784)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>calendar events (#2466)</code>](https://github.com/alainm23/planify/commit/b2c48bb6100f8eef42aedc9c6f0fbe8f752bcf71)
-- [ ] [<code>fix: labels not being removed when deselected in multi-select toolbar (#2465)</code>](https://github.com/alainm23/planify/commit/7747150467311ffbd08d5949b22cc0014bb57518)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Release 4.19.2 (#2469)</code>](https://github.com/alainm23/planify/commit/444f8043b941396d6d190ce52cba3f538003e629)
-  - <sub>Tags: <code>v4.19.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fi (#2470)</code>](https://github.com/alainm23/planify/commit/55e75fb0fc6d602e91c12b521520ac6890a552ec)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>valiud update_id (#2473)</code>](https://github.com/alainm23/planify/commit/2966f1819707eb6624d73f157a2a1b566ddf3502)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix subheader (#2474)</code>](https://github.com/alainm23/planify/commit/60e224ea75134360eb9a2b62c6a3efd0cf5bd331)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>refactor: split Todoist service into smaller focused files (#2475)</code>](https://github.com/alainm23/planify/commit/1be6a112e0cfe2a3dc4aeab28dd6530c104f6e35)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Fix Mailbox CalDAV sync (#2471)</code>](https://github.com/alainm23/planify/commit/f3b88a11aeb8e8742cc4018a6b7398f82db9673b)
-- [ ] [<code>Translations update from Hosted Weblate (#2483)</code>](https://github.com/alainm23/planify/commit/62259ba28eb4191330e030bacdf8c5c06f7f0816)
-- [ ] [<code>release 4.19.3 (#2485)</code>](https://github.com/alainm23/planify/commit/9f5f48611f3bf224b3d291dc3c4a71eb6658df2a)
-  - <sub>Tags: <code>v4.19.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix: correctly update if priority_property is null (#2488)</code>](https://github.com/alainm23/planify/commit/a63af20a4cf1104582b495432ed330a8c2fcb660)
 - [ ] [<code>fix: improve Todoist offline queue reliability (#2476)</code>](https://github.com/alainm23/planify/commit/439b957ea6e7f4fd82e949a8e58ff75b9e2f3d42)
+- [ ] [<code>fix accent color (#2491)</code>](https://github.com/alainm23/planify/commit/daf1b9901f7b737cbb881aa9666c5841821537f6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: use UTC timezone for COMPLETED property in VTODO (#2490)</code>](https://github.com/alainm23/planify/commit/7115e6a578f997ff6d0fd55b59550bd937364ae4)
+- [ ] [<code>Translations update from Hosted Weblate (#2487)</code>](https://github.com/alainm23/planify/commit/f03ded37c11101eba9d7cab38dad07e45c8a2d09)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
