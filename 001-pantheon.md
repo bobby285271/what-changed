@@ -112,6 +112,7 @@
 - [ ] [<code>Improve fuzzy find result order (#1655)</code>](https://github.com/elementary/code/commit/f4d035911e5a67c2c1a2c6f39be58b2bc2f90058)
 - [ ] [<code>Expose system document font in Preferences dialog (#1670)</code>](https://github.com/elementary/code/commit/3dbf6d56b5b8a802018af5d5ae0708def0fae60d)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Feature/sidebar focus (#1719)</code>](https://github.com/elementary/code/commit/d3ce720103f161c3177c1f64bf1c89ab95a86756)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -591,6 +592,16 @@
 
 - [ ] [<code>Tests: Use a single executable (#2849)</code>](https://github.com/elementary/gala/commit/16c0e5662520dfc04952a2e07d1dceaca13f3070)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DaemonManager: Handle windows on title notify</code>](https://github.com/elementary/gala/commit/d882f3e089a4daa35c294a16e848075a1cf31591)
+- [ ] [<code>Implement the InputMethod</code>](https://github.com/elementary/gala/commit/dd79ba209a5a084707b126cfe07371aae1d1f0b5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>WindowManager: Introduce an overlay window group</code>](https://github.com/elementary/gala/commit/48fe842dd0c7d2da1d621b41825e27eb21e87174)
+- [ ] [<code>ShellClients: Introduce an IBusCandidateWindow</code>](https://github.com/elementary/gala/commit/f012af417c97f38870941e608f084dd64e752c72)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Daemon: Implement the Candidate Popup for IBus</code>](https://github.com/elementary/gala/commit/ea03ae417914189d5976f8aa698a0789d24e15ca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
