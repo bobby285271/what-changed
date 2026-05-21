@@ -4,6 +4,8 @@
 
 - [ ] [<code>Update README.md</code>](https://github.com/dahenson/agenda/commit/83c78fa20ffd5650bd82f616b9dfb9e636cca218)
 - [ ] [<code>Merge pull request #168 from bl00dy1837/patch-1</code>](https://github.com/dahenson/agenda/commit/08ddcb06ad077bc697e83c6c40afd74434fb0f16)
+- [ ] [<code>Add StartupNotify=true to desktop file</code>](https://github.com/dahenson/agenda/commit/5928282e733ccf9e3e4202f80304f54a3bdd9656)
+- [ ] [<code>Merge pull request #170 from Newbytee/startup-notify</code>](https://github.com/dahenson/agenda/commit/e7a71a506b8452e307b908c55d4d63237a7113cb)
 
 #### [akira-unstable](https://github.com/akiraux/Akira): [refs/tags/v0.0.16 → HEAD](https://github.com/akiraux/Akira/compare/refs/tags/v0.0.16...HEAD)
 
@@ -275,6 +277,9 @@
 - [ ] [<code>release 4.19.4 (#2494)</code>](https://github.com/alainm23/planify/commit/6c5a6b26dd45761439ea1543026d1633bbb3feb2)
   - <sub>Tags: <code>v4.19.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix building with libical4 (#2500)</code>](https://github.com/alainm23/planify/commit/d7923aecabee7add49eb198b640f71d273b98047)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix backup (#2495)</code>](https://github.com/alainm23/planify/commit/0d0d9fae44dab82bd0e714fe950644bab2d71fba)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
