@@ -280,6 +280,11 @@
 - [ ] [<code>Fix building with libical4 (#2500)</code>](https://github.com/alainm23/planify/commit/d7923aecabee7add49eb198b640f71d273b98047)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix backup (#2495)</code>](https://github.com/alainm23/planify/commit/0d0d9fae44dab82bd0e714fe950644bab2d71fba)
+- [ ] [<code>remove promise (#2503)</code>](https://github.com/alainm23/planify/commit/06464d317203c96921d23451ed445a93b836a53d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix keyboard tasks (#2504)</code>](https://github.com/alainm23/planify/commit/5d3c5165dd416648601a57dc75c4fdf341abd991)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
