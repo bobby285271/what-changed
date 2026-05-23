@@ -113,6 +113,7 @@
 - [ ] [<code>Expose system document font in Preferences dialog (#1670)</code>](https://github.com/elementary/code/commit/3dbf6d56b5b8a802018af5d5ae0708def0fae60d)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Feature/sidebar focus (#1719)</code>](https://github.com/elementary/code/commit/d3ce720103f161c3177c1f64bf1c89ab95a86756)
+- [ ] [<code>Fix 1698 (#1720)</code>](https://github.com/elementary/code/commit/18bb8babb623efaf65649f26e474dbbd53a90141)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -602,6 +603,7 @@
 - [ ] [<code>Daemon: Implement the Candidate Popup for IBus</code>](https://github.com/elementary/gala/commit/ea03ae417914189d5976f8aa698a0789d24e15ca)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2850)</code>](https://github.com/elementary/gala/commit/4d1b6a7bdfd1ec5dfd2cb776f86f069988f703d9)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -839,6 +841,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>PlayerRow: use GtkGesture for title events (#319)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/55141c6f1942dbad09a0e9eccbc49356b9c1bab7)
 - [ ] [<code>Indicator: put input controls in a revealer (#320)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d1cbaa8e01cb76035e30bb6d67388c7087b15413)
+- [ ] [<code>Fix selection failures (#325)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ec08a48e79835894a6da29d30aa98b9a57a996e4)
+- [ ] [<code>DeviceManagerWidget: connect to list row activated (#327)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/63a0e6d65d3c6c1c7e9dd393eb4f94c2da0a401a)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
