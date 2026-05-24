@@ -395,11 +395,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [256fe2e44655ce197701e35aefc40f49fe30356d → HEAD](https://github.com/linuxmint/mint-l-icons/compare/256fe2e44655ce197701e35aefc40f49fe30356d...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f9f679c9bed2f2462040fed9872988e705bf5630 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f9f679c9bed2f2462040fed9872988e705bf5630...HEAD)
 
-- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-l-icons/commit/5a4e9c1969a8c61b794b60eb3c6ec4d0ad2256d5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-l-icons/commit/f9f679c9bed2f2462040fed9872988e705bf5630)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
@@ -410,19 +407,11 @@
 - [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
 
-- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-x-icons/commit/35a4ff0a0ed77dccb8b59611124533d1bd77d16f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-x-icons/commit/e506282623ee5fc7eb0fd571329918e3f017b29a)
-  - <sub>Tags: <code>1.7.6</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.1...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.2...HEAD)
 
-- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-y-icons/commit/083ee35c07e2f40b50b72321bdc35880342f34a6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.2</code>](https://github.com/linuxmint/mint-y-icons/commit/98871ed1f6054ef21536b009c8d216dbac837538)
-  - <sub>Tags: <code>1.9.2</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -578,23 +567,8 @@
 - [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.4 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.4...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/warpinator/commit/18272f7bd40f4fff340fa5bd90cf74465e2cf3d1)
-- [ ] [<code>Update generated protobuf files to match our bundled versions.</code>](https://github.com/linuxmint/warpinator/commit/ba7dacfd8873b20192b8f865ea0589826ebd632e)
-- [ ] [<code>Do not actually link to fake website (#247)</code>](https://github.com/linuxmint/warpinator/commit/d015ec88cbbd4423577deba4db14b47c761f175a)
-- [ ] [<code>Update README</code>](https://github.com/linuxmint/warpinator/commit/75993179a51633114c598945429de432821ae43b)
-- [ ] [<code>Set prgname to application ID (#249)</code>](https://github.com/linuxmint/warpinator/commit/599a871d64a931b75ca23e5fbd3223006b74167a)
-- [ ] [<code>warpinator-launch.py: Get rid of pre-populated google namespace</code>](https://github.com/linuxmint/warpinator/commit/8474c2828f0ca0eb32fee148483b83a9ffd66ddf)
-- [ ] [<code>build: Fix nesting output dirs when re-installing an already-built</code>](https://github.com/linuxmint/warpinator/commit/2faebac5ef1d2617171411f958631f336ea6d1d3)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>appdata: Populate with initial and recent releases.</code>](https://github.com/linuxmint/warpinator/commit/952b4e51557a710ef8d2f96c894dc5e14d2628d5)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>appdata: Mark release notes non-translatable.</code>](https://github.com/linuxmint/warpinator/commit/e07443c4afab3e69d9dcd2efbf523ef8b78faf40)
-- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/warpinator/commit/9cd5dbbf7d08a7965deb96d8708186d2afd68453)
-  - <sub>Tags: <code>2.0.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
@@ -618,12 +592,8 @@
   - <sub>Tags: <code>3.3.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.4 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.4...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.5...HEAD)
 
-- [ ] [<code>Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/xreader/commit/3578ccbd13d2d47001177e42d011ef14a5dea4a7)
-- [ ] [<code>4.6.5</code>](https://github.com/linuxmint/xreader/commit/93f91d755e4c374b5fbdc7bccecdbc7fc21ce435)
-  - <sub>Tags: <code>4.6.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
