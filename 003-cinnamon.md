@@ -7,7 +7,7 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.7...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.8...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
 - [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
@@ -163,13 +163,132 @@
 - [ ] [<code>calendar applet: Fix handling for invalid clock formats.</code>](https://github.com/linuxmint/cinnamon/commit/bd770e132184625356bfd5310adde4a117468604)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.js: Don't drop key-release events in the captured-event handler</code>](https://github.com/linuxmint/cinnamon/commit/7190db192dd5047b33ec0b4d817f4ec149194613)
-  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>util.js: Add spawnAsyncIO.</code>](https://github.com/linuxmint/cinnamon/commit/e7c5a368b2c4edcac7a6a973c0688ef84f25a5a6)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Add per app notification settings (#13598)</code>](https://github.com/linuxmint/cinnamon/commit/5304a85f9c3800d5f46a3aefd1fca666a0b3f875)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager: don't append locale layout if already present (#13616)</code>](https://github.com/linuxmint/cinnamon/commit/b0c6e1f61cb30ca599b8fa8974b49377a08df01c)
+- [ ] [<code>screensaver: De-clutter main.js of screensaver setup and functions,</code>](https://github.com/linuxmint/cinnamon/commit/0993e5bbdc73d6c3ad0976e81d47feb61feee7c3)
+- [ ] [<code>screenShield/loginManager: call SetLockedHint when locking/unlocking.</code>](https://github.com/linuxmint/cinnamon/commit/e613880004474d73e0d3d67ff0cff3ed639c2fc1)
+- [ ] [<code>st-entry.c: Remove unused blink code.</code>](https://github.com/linuxmint/cinnamon/commit/c264274dbe03ea3affc4f7dfad1102dbbaaa38a8)
+- [ ] [<code>st-entry: Add progress/busy bar.</code>](https://github.com/linuxmint/cinnamon/commit/69a17a8d3c32ca51c1a5dc31823d001ea8ac5ee9)
+- [ ] [<code>authentication: Enable StEntry busy indicators in the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/bdffa3de70c70150f8e85f44671e058cdf7b9fc1)
+- [ ] [<code>screensaver: Track the screensaver proxy in external mode.</code>](https://github.com/linuxmint/cinnamon/commit/2288d1cb1bb7cb9e976a24cb24a3e904643f88a7)
+- [ ] [<code>st-theme.c: Some cleanup, fix an issue with fallback assets not (#13646)</code>](https://github.com/linuxmint/cinnamon/commit/9bc41ec910aa7207670736f476f97392fd82fe8a)
+- [ ] [<code>loginManager.js: Use a normal signal connection for PrepareForSleep.</code>](https://github.com/linuxmint/cinnamon/commit/3e7ec4f700a8223d1d677168119fd8cab91f164d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager.js: Don't re-activate a layout if it's already</code>](https://github.com/linuxmint/cinnamon/commit/d7ee48268287f34305904e492fd2ff3b5c7e5016)
+- [ ] [<code>power applet/settings: Add support for ambient light sensor. (#13649)</code>](https://github.com/linuxmint/cinnamon/commit/a00cb8b973bf502b056e0dda05605900d35a10fe)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>printers@cinnamon.org: Rework layout, use cupsd dbus notifications (#13674)</code>](https://github.com/linuxmint/cinnamon/commit/769757bd88da65d54144cc5f1e24ee00ae5de78b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>extend DESKTOP_ACTION_ICON_NAMES (#13641)</code>](https://github.com/linuxmint/cinnamon/commit/6316ca843be948510d080071556b654ce3800ad9)
+- [ ] [<code>Remove previous track actors from coverBox (#13648)</code>](https://github.com/linuxmint/cinnamon/commit/9fa18e6c501c1abd358281c98ae0ebe9cb370f60)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ListSettingsWidget: allow item edit only if edit button is visible (#13671)</code>](https://github.com/linuxmint/cinnamon/commit/d2e07c59c1e8e7a2f850e283fca60e782ac9f9ac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>main.js: Don't import NetworkAgent unless nm_agent support is enabled. (#13651)</code>](https://github.com/linuxmint/cinnamon/commit/a7af45cb6a6e7a52e35b7c841ce1385b987af407)
+- [ ] [<code>inhibit@cinnamon.org: Make mult-instance capable. (#13678)</code>](https://github.com/linuxmint/cinnamon/commit/cf1f5ada68d4ab6faa9f939ef19c34330dd68598)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Panel cleanup 2 (#13613)</code>](https://github.com/linuxmint/cinnamon/commit/1572920f43f19508c7333c1d0dedef4faf27bc6d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>panel: minor compatibility, RTL fixes. (#13682)</code>](https://github.com/linuxmint/cinnamon/commit/85e6d5e17fa3937971d9e469a3125cfc3e26a64f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel: Fix a few more spots using panel.height directly.</code>](https://github.com/linuxmint/cinnamon/commit/a2bea82eb1a23aaaa7ff57f942100aeca051873c)
+- [ ] [<code>dnd.js: Fix incorrect method check.</code>](https://github.com/linuxmint/cinnamon/commit/930b71fcbd0623fc588e2361ccd42729a984e3c9)
+- [ ] [<code>backup-locker.c: Kill xprop during unlock.</code>](https://github.com/linuxmint/cinnamon/commit/b34c4d16a4b99c8566d6f5c0a306a4126194ee53)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>js: Use GioUnix instead of Gio.Unix in a few places.</code>](https://github.com/linuxmint/cinnamon/commit/ab9adeb511017073d486bcba47fa9cf7b17595c4)
+- [ ] [<code>loginManager: add sessionIsActive property updated when ActiveChanged</code>](https://github.com/linuxmint/cinnamon/commit/c5151471b0998c1ba3fffa8ebb91142ede4a7d4c)
+- [ ] [<code>Implement mount/unmount/autorun user interaction in Cinnamon.</code>](https://github.com/linuxmint/cinnamon/commit/9bdd28c5930b894a8d8e2ea0eac62e80d2754df5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>main.js: Handle xkb next-group in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/1898e911f1ba45bf6a2f8d901507c9a64a16ca64)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon/commit/25c4c341477798976a58ef2769b9519a74303e0e)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Change lock screen method to use screensaverController (#13708)</code>](https://github.com/linuxmint/cinnamon/commit/f15d635eacd06986d1cd8210331542b25885043e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>user@cinnamon.org: Fix screensaver and switch-user activation.</code>](https://github.com/linuxmint/cinnamon/commit/86eef33273e0f4beb79ce7b009d6343e21c365e6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenShield.js: Don't react twice to loginManager session signals.</code>](https://github.com/linuxmint/cinnamon/commit/2e65052d5fdfb9c9b0c7f7803fe83e03aa43d91f)
+- [ ] [<code>cinnamon-global.c: Don't let a normal popModal cancel an ongoing</code>](https://github.com/linuxmint/cinnamon/commit/c27a6a604afc0235c529ba03bd02451cc5d03ce8)
+- [ ] [<code>screensaver/controller.js: Give lockScreen an optional callback.</code>](https://github.com/linuxmint/cinnamon/commit/889a2ae64098e1968a4844c74b5b612167ea80cd)
+- [ ] [<code>util.js: Lock the screen before switching to the greeter.</code>](https://github.com/linuxmint/cinnamon/commit/5b65946fa250c1c52302aee3253f3746a13bcaf0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>signalTracker.js: Don't track "destroy" for non-ClutterActors.</code>](https://github.com/linuxmint/cinnamon/commit/d14282364dcec89dd5658d9433cf39c8ccb8ce90)
+- [ ] [<code>expo/overview: Refactor to Use newer/gobject class styles, easing.</code>](https://github.com/linuxmint/cinnamon/commit/bfc454e799f0284a3c2fd3a0ec11a716b2d425bb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>expo: Allow drag-and-drop reordering of workspaces.</code>](https://github.com/linuxmint/cinnamon/commit/5e4efae956c7d7fda750142b68d32a769906662b)
+- [ ] [<code>dnd.js: Convert GenericDragPlaceHolderItem to a real class, get rid</code>](https://github.com/linuxmint/cinnamon/commit/11ec157d95553ae7d505afe6f285134dcf4e877f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>dnd.js: Use es6 class for _Draggable.</code>](https://github.com/linuxmint/cinnamon/commit/7fd1830928e3826b0e0f89192ad12bd1b617bb7b)
+- [ ] [<code>Add PopupDialog widget - draggable, re-focusable dialog.</code>](https://github.com/linuxmint/cinnamon/commit/81eba1c670c1e4ff1b2747d704247f7aa246ec81)
+- [ ] [<code>mounts/autorun/endSession: Convert to PopupDialog.</code>](https://github.com/linuxmint/cinnamon/commit/7efb8a0beb36a8736dc3e720f8268a62ad0970c4)
+- [ ] [<code>js: Move mount/autorun dialog test widgets to their own folder.</code>](https://github.com/linuxmint/cinnamon/commit/914a28fa32951066bf3c267b27aaa09ac395d56b)
+- [ ] [<code>js/ui: Actually delete moved tests (followup to 914a28fa329).</code>](https://github.com/linuxmint/cinnamon/commit/b3965eedc914f98b0b90eaeff9044aa4f38642ef)
+- [ ] [<code>screensaver: Clear cinnamon modal before activating.</code>](https://github.com/linuxmint/cinnamon/commit/ed81d01b48a352ce7bb4b2941f1616285ebcf2d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>screensaver: Move custom-screensaver check to the controller, so</code>](https://github.com/linuxmint/cinnamon/commit/64bb7476ce626786aaee75150cd691ef28808966)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Fix initial focus widget.</code>](https://github.com/linuxmint/cinnamon/commit/b389ce8c0907baee68177c5d58d9fdf0d460974e)
+- [ ] [<code>sound@cinnamon.org: Move MprisManager setup after _showFixedElements.</code>](https://github.com/linuxmint/cinnamon/commit/1c50d511b25f956e96003d697f1934c743a42d44)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Add overflow support through slide/scroll list (#13352)</code>](https://github.com/linuxmint/cinnamon/commit/902502141411e13bd6af7eb0cee284fb3ba2a21e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>gwl: Add overflow support through slide/scroll list (#13352)</code>](https://github.com/linuxmint/cinnamon/commit/7e9c81f4b76e6c8c1827f0b13aabec4be827519f)
+- [ ] [<code>Change session type from Application to XSession (#13677)</code>](https://github.com/linuxmint/cinnamon/commit/2692b3749f609ca0563ddb30a1f18ea8d76a341b)
+- [ ] [<code>pointerTracker: fix ny coordinate using nx in get_real_pointer_position (#13723)</code>](https://github.com/linuxmint/cinnamon/commit/e6fd59b237e8cd2e561df57b318a4f48e5a39a27)
+- [ ] [<code>Fix some runtime and python bytecompile warnings.</code>](https://github.com/linuxmint/cinnamon/commit/127fe2d5ceb411f981257ab47d9ee5e13007c052)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>spices: Fix theme update and improve spice update and delete process (#13600)</code>](https://github.com/linuxmint/cinnamon/commit/62815df8c650972ebd18cc596d12aea6904dd565)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Change spinbutton and scale validation to inclusive (#13750)</code>](https://github.com/linuxmint/cinnamon/commit/17de264673339d6ec33880383c371fc926b286f2)
+- [ ] [<code>panel.js: Fix missing y_coord declaration.</code>](https://github.com/linuxmint/cinnamon/commit/dd9c8c284d4bf2cd0c1725dca30ed853c8d935d7)
+- [ ] [<code>screenShield.js: Destroy the background actors when the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/a9476d4889de82bfedabf33798a060daa2e30ef6)
+- [ ] [<code>backgrounds: Add 'wallpaper' to keywords (#13755)</code>](https://github.com/linuxmint/cinnamon/commit/f569d718f44a46422f50a8d2dba093377e8b9b31)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Spices.py: delegate most work to the python 'harvester' module.</code>](https://github.com/linuxmint/cinnamon/commit/7d3158757b9b98f8d68dd88902bfe3426185490d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>ExtensionCore.py: load spice rows in batches to prevent lag when</code>](https://github.com/linuxmint/cinnamon/commit/eada69413eab0382ca2401cd249e254d30dc9bd3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings/spices: Use xapp for proxy setup instead of</code>](https://github.com/linuxmint/cinnamon/commit/23f1d9ed998190b0853ad68e15f4f56296791698)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>org.gnome.system</code></sub>
+- [ ] [<code>layout.js: Ignore actors without a metawindow in</code>](https://github.com/linuxmint/cinnamon/commit/a9cf0e00375a37f1af08d27e5cb12901ed50fbfc)
+- [ ] [<code>screenshot: Fix crash for SSD windows and include_frame=False</code>](https://github.com/linuxmint/cinnamon/commit/3ea931e5a2057ea7680aa4e87d3d4678e775adff)
+- [ ] [<code>screenshot: Fix shot for SSD without frame</code>](https://github.com/linuxmint/cinnamon/commit/0f893719fca004602a29b8b04dc674e3ce1bf57e)
+- [ ] [<code>screenshot: Include full shadow for CSD when frame is requested</code>](https://github.com/linuxmint/cinnamon/commit/b0dee509a490fbe0c896bca95db1f54bcfeab0ee)
+- [ ] [<code>screenshot: CSD+frame, remove semi-transparent pixels in corners</code>](https://github.com/linuxmint/cinnamon/commit/e0bda16cf6f9c4815c3d710af142de5bf412f001)
+- [ ] [<code>screenshot: SSD+frame, add muffin shadow</code>](https://github.com/linuxmint/cinnamon/commit/98c6bceacbe26735d1e45e0fc8ae907dcd49b6b5)
+- [ ] [<code>screenshot: SSD, clean up corners when no shadows are requested</code>](https://github.com/linuxmint/cinnamon/commit/d88fe5c10f3ad92ae3a2399daacd30079f698154)
+- [ ] [<code>screenshot: Switch to org.cinnamon.Screenshot DBUS interface</code>](https://github.com/linuxmint/cinnamon/commit/d8d166ace11fe9be142cf46c511afa1bacebd11f)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon/commit/124e0356fd59936e45062b013fcb86303095276c)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon/commit/b780321697ddc1c13755743d7aa6ac8e1561c549)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-screenshot.c: Don't apply ssd shadow for tiled, maximized</code>](https://github.com/linuxmint/cinnamon/commit/607217b8f2127fc306e30a578d85b0b70f168b57)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e7cb4a7729843e4e7603a516480f581080c5d83c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ffcc3cfc1fbbacb70b7f15f6a9ae3055645bf6bb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ab4a72208b32bc9781f9c3fe09bf5e3a484d38a8)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix for loading VPN plugins that are using either NmaCertChooser or NMACertChooser (#376)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/263e049ea63bac25f10a7f804101321eee626e89)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Fix networkmanager-less builds.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c2cfe3a6dc7d258132f5d56d335354e2a0606451)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>misc: Cleanup some unity references.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f6f877ed2b4db7b2e64d1b8a9f8d73ddb424fd7d)
+- [ ] [<code>Add 'Fractional' and 'Scaling' keywords to display panel (#375)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/abe1b473f7b73a800421897350e4e4d97a8d2f19)
+- [ ] [<code>networking: Add WPA3, OWE support.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3cc59b388865a7a0939fef8333d056fc6107aec9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5fb7b030f904f37d13a1f0fe1e1de2fbeea43987)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -181,7 +300,22 @@
 - [ ] [<code>libcvc: refresh from upstream libgnome-volume-control.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2d4f3560ae4abf15ecefafc2d8c8178a92a54dea)
 - [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm schema: Separate key binding for switching workspace up/down from toggling window/workspace selection (#214)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/110609f9c1bfeacfa5cf7ab3e8568d4dee5ca86f)
+- [ ] [<code>Add per app notifications schemas... (#266)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7bd3aea30bb8bcdaeed09830d848ec1589d86ddf)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/954ed432bc255750bbfe7ce982a89ce35a9a8250)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>thumbnailer: Use bubblewrap to appease glycin and work around</code>](https://github.com/linuxmint/cinnamon-desktop/commit/eaefca914c2b03956c0a805a4698ec52dcf89eb1)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>gnome-desktop-thumbnail.c: Support a (mimetype argument to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/37f34a3b2390a96221f7b73262eb7cd652161d98)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b835c44f130fa9b771e4633cd5f559aa07632898)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix build for non seccomp arches (#272)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8cc65c781d798cc510b424d450899f7912ec33d3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -190,7 +324,9 @@
 - [ ] [<code>stale.yml: Enable cron job.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5e1d20c53a60138c2f7c6a9982aeeada471d1686)
 - [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-menus/commit/34a8bc78cbbda3a01395fbd40c6ac1d9fa8bad12)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-menus/commit/1142b5fb313b486f93d7edd1035301a48cc8b4a2)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
@@ -199,15 +335,23 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/048253296c51a0ee92379d7fd1480fb73782171b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ef4edcb317f363a9bd26844c05748a22528132fd)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
 
 - [ ] [<code>csm-app.c: Fix cinnamon restart limit avoidance.</code>](https://github.com/linuxmint/cinnamon-session/commit/e8238bfa2f7ffd44dc77618d7eaa671e855d1e9c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-session/commit/7f3bb6df15cc89df82634cf7c9ae5b39968ee1b9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/b827aebba9e21d036fee4c4186ea632ac7eb0196)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Terminate the session if cinnamon-wayland fails to load</code>](https://github.com/linuxmint/cinnamon-session/commit/1c424d3e9ff4cb07b3e32f48cfb5d65fb0a002a2)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/3fc3b0148ce7f12e79a149a96eef6cae36171bac)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
 - [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
   - <sub>Files: <code>meson.build</code></sub>
@@ -219,16 +363,31 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a2513a9591fc58edb9fa1704892b71ea5fec90b)
+- [ ] [<code>common: Remove unused csd-keygrab.*</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c03e66e70081c3668c66933d8bd2acf951e7529a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: drop Phone Manager (#430)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69711a0fdf7bd4e107305c7f389b3d5ef431d87d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add support for an ambient light sensor. (#444)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/734fd6044ac6fc826e663a7d630069ec90d4a710)
+- [ ] [<code>csd-automount: Disable autostart. (#445)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6742483f998539e4e85d02ecda42d18ea9a8de36)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f363155157fb7eeffc0d5e38222d9e70c1fd6d76)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian: Add automount desktop file for removal.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d92af861d00c166d8134cda45c04933b4cf34bf3)
+- [ ] [<code>Update csd-disk-space-helper.c (#449)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e1dfa131ec4914f5f2694511cb5d6ac844a8d3d)
+- [ ] [<code>Don't install the static csd library. (#450)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dd21a780743f4d9df1fe058b975a55a9cd151b7c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-media-keys-manager.c: Replace gnome- with cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8fd80da514907dd76d083533b50c6bc373baa180)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.0...HEAD)
 
-- [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -238,21 +397,32 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [256fe2e44655ce197701e35aefc40f49fe30356d → HEAD](https://github.com/linuxmint/mint-l-icons/compare/256fe2e44655ce197701e35aefc40f49fe30356d...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-l-icons/commit/5a4e9c1969a8c61b794b60eb3c6ec4d0ad2256d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-l-icons/commit/f9f679c9bed2f2462040fed9872988e705bf5630)
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.6 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.6...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
+- [ ] [<code>cinnamon: Adapt to PopupDialog changes.</code>](https://github.com/linuxmint/mint-l-theme/commit/7bc7688104f6d5dd83379dd3e023c3f3c43d0ff1)
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.8...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
-- [ ] [<code>Mint-Y: Add support for gtk3 print dialog</code>](https://github.com/linuxmint/mint-themes/commit/7a8a1ea62edb5425a6f622e248200cdb4f8cc13e)
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/mint-themes/commit/be16ae17a9fa57e0780787975adbc620a5030fda)
+- [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-x-icons/commit/35a4ff0a0ed77dccb8b59611124533d1bd77d16f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-x-icons/commit/e506282623ee5fc7eb0fd571329918e3f017b29a)
+  - <sub>Tags: <code>1.7.6</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.1...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-y-icons/commit/083ee35c07e2f40b50b72321bdc35880342f34a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.2</code>](https://github.com/linuxmint/mint-y-icons/commit/98871ed1f6054ef21536b009c8d216dbac837538)
+  - <sub>Tags: <code>1.9.2</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -287,7 +457,24 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>compositor.c: hidden panel windows aren't top (#802)</code>](https://github.com/linuxmint/muffin/commit/ba50900dca5de25e27d0ea600c997f7ebc9a2ec6)
 - [ ] [<code>keybindings.c and prefs.h: Add separate key bindings for toggle window/workspace (#628)</code>](https://github.com/linuxmint/muffin/commit/2b8bed4ce740eb56f75827037803a922c40d1b4a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>[Wayland] Add support for pointer-warp-v1 protocol (#795)</code>](https://github.com/linuxmint/muffin/commit/ea90b59bc181d9438c8c6e9357a11642d5cc9910)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland] Add support for single-pixel-buffer-v1 protocol (#804)</code>](https://github.com/linuxmint/muffin/commit/4075afe702e4efb363da66f520685971ee287175)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-window-actor-wayland.c: Fix a leak.</code>](https://github.com/linuxmint/muffin/commit/85d3b3b1ca40849156b53a9bab541b735036fe73)
+- [ ] [<code>meta-wayland-single-pixel-buffer.c: Use correct cogl ref function,</code>](https://github.com/linuxmint/muffin/commit/ca0c0ecbf36e3f5691cdc47c9e1541e649ab667b)
+- [ ] [<code>meta-cursor-sprite-xcursor.c: Fix grab/grabbing cursor names.</code>](https://github.com/linuxmint/muffin/commit/557e4b7fe42776ff75263348d53a410eedebcb03)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/muffin/commit/bfe1671ddaa246251463ecca10bb63e8c49fb983)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-x11-background-actor.c: Fix signal handler accumulation leak.</code>](https://github.com/linuxmint/muffin/commit/b51f973b170580670c158d77e98ad6dc3a60d1fd)
+- [ ] [<code>meta-x11-background-actor.c: Skip a background transition if the</code>](https://github.com/linuxmint/muffin/commit/3353a4259181660e5819b58fd461b21029ce700c)
+- [ ] [<code>events.c: Guard against a mouse zoom modifier value of 0.</code>](https://github.com/linuxmint/muffin/commit/647e8fd238c6d47aa7e59597a82b051c85fc03a8)
+- [ ] [<code>layer-shell: Allow indirect popups from layer-shell clients that</code>](https://github.com/linuxmint/muffin/commit/206c0ae9715fab88f258a04de97136533d3cf89d)
+- [ ] [<code>clutter-offscreen-effect.c: Fix offset for asymmetric paint volumes.</code>](https://github.com/linuxmint/muffin/commit/c4d4924e1f5db2d8f06b94485862aef9ca8ca1cb)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/muffin/commit/1b07851c8440bfe05e2c94dab3c05b4bf3bfa644)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -314,28 +501,100 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>nemo-desktop-window.c: Fix missing include.</code>](https://github.com/linuxmint/nemo/commit/0a4d1b408dfac8f06e5be4fea3e299da8c09c045)
 - [ ] [<code>meson.build: Add -Werror=implicit-function-declaration</code>](https://github.com/linuxmint/nemo/commit/0ba73e5bae05d14b11100307b7dd49036fd020eb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-view.c: Remove 'open-file-and-close-window' action.</code>](https://github.com/linuxmint/nemo/commit/227e2957776545ee0c3a178137753121251811c3)
+- [ ] [<code>Restore Last Window Tabs on Startup (#3661)</code>](https://github.com/linuxmint/nemo/commit/66d42992a2900844f3c1fca57022083daf3b93fd)
+- [ ] [<code>Fix several memory leaks. (#3721)</code>](https://github.com/linuxmint/nemo/commit/0446b9e3f4cf0f5d9bbb0d3aa62e1142e3376d2b)
+- [ ] [<code>nemo-file-operations.c: Fix file copies breaking ownership rules. (#3731)</code>](https://github.com/linuxmint/nemo/commit/58846d5db828125c50a2b9ef2e65b6db83d5a630)
+- [ ] [<code>nemo-view.c: Cleanup unused code from a removed feature.</code>](https://github.com/linuxmint/nemo/commit/1337cf0cc6e55acf3909a5b32d42e16d77a5763b)
+- [ ] [<code>nemo-progress-info-widget.c: Disable start/pause button when an</code>](https://github.com/linuxmint/nemo/commit/4825be242adce942756be57ebde86d8720cb3164)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo/commit/f0cec39b8984932f1176a8bda6a9c72b3eedb08b)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>libnemo-private: fix use-after-free crash in nemo_file_mark_gone (#3724)</code>](https://github.com/linuxmint/nemo/commit/07f5a887c44d49946e94940e0995042719094425)
+- [ ] [<code>actions: Don't show in the places-sidebar menu, unless Conditions</code>](https://github.com/linuxmint/nemo/commit/86e09b01a815f5de36493791820c5d7bf22d698d)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Renaming: Fix renaming in the list view being canceled when the</code>](https://github.com/linuxmint/nemo/commit/957ed147bcc0942812ca733d7647d2393fd52d72)
+- [ ] [<code>view: Increase navigation speed</code>](https://github.com/linuxmint/nemo/commit/736b7ba02c94590172c94f4ab745b15ff154d90c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo/commit/9b16b30431f8c3b4466d0be7814ab0169b058a66)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-application: Fix FileManager1.ShowItems().</code>](https://github.com/linuxmint/nemo/commit/409fced9cafcc49cd1c8c98528aadbd4f8e7d6ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>all: Remove pango-1.44 conditional checks, bump minimum version req.</code>](https://github.com/linuxmint/nemo/commit/b836def3cce25232eb17284ad9ea9c4b1474d2bc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Implement a filtered view for interactive-search.</code>](https://github.com/linuxmint/nemo/commit/11df68ccb3ca1e3787959b1d36b75c10bd4d339c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo/commit/80544ae2c7c8c4c2165aaac00e5031614537be86)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-main-application.c: When selecting files from the commandline,</code>](https://github.com/linuxmint/nemo/commit/bc2579a3a2b4355d080b316906aa528f96391993)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>commandline</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/pix/commit/1df5501390da4c27303d0902b17d2bfdf2537ac0)
+- [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/warpinator/commit/18272f7bd40f4fff340fa5bd90cf74465e2cf3d1)
 - [ ] [<code>Update generated protobuf files to match our bundled versions.</code>](https://github.com/linuxmint/warpinator/commit/ba7dacfd8873b20192b8f865ea0589826ebd632e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Do not actually link to fake website (#247)</code>](https://github.com/linuxmint/warpinator/commit/d015ec88cbbd4423577deba4db14b47c761f175a)
+- [ ] [<code>Update README</code>](https://github.com/linuxmint/warpinator/commit/75993179a51633114c598945429de432821ae43b)
+- [ ] [<code>Set prgname to application ID (#249)</code>](https://github.com/linuxmint/warpinator/commit/599a871d64a931b75ca23e5fbd3223006b74167a)
+- [ ] [<code>warpinator-launch.py: Get rid of pre-populated google namespace</code>](https://github.com/linuxmint/warpinator/commit/8474c2828f0ca0eb32fee148483b83a9ffd66ddf)
+- [ ] [<code>build: Fix nesting output dirs when re-installing an already-built</code>](https://github.com/linuxmint/warpinator/commit/2faebac5ef1d2617171411f958631f336ea6d1d3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>appdata: Populate with initial and recent releases.</code>](https://github.com/linuxmint/warpinator/commit/952b4e51557a710ef8d2f96c894dc5e14d2628d5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>appdata: Mark release notes non-translatable.</code>](https://github.com/linuxmint/warpinator/commit/e07443c4afab3e69d9dcd2efbf523ef8b78faf40)
+- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/warpinator/commit/9cd5dbbf7d08a7965deb96d8708186d2afd68453)
+  - <sub>Tags: <code>2.0.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
@@ -343,35 +602,37 @@
 - [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xapp/commit/458de98bb801a0c690c0650b8c11841103eb628d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>xapp-gpu-offload-helper.c: Fix a memory leak.</code>](https://github.com/linuxmint/xapp/commit/6e4d54cad084aa95e1225067a4db2e1b7513daf5)
+- [ ] [<code>xapp-status-icon: Use gkt-layer-shell if available for positioning</code>](https://github.com/linuxmint/xapp/commit/9caa27d216287fe750e69e2da1c5cb7c580e5318)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/xapp/commit/fb4659be378d1e2db5c3b69f7e77224fa7b11a35)
+  - <sub>Tags: <code>3.3.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-status-icon: unrealize GtkStatusIcon before clearing to prevent stale GdkWindow XID mappings crashing during Cinnamon restart (#200)</code>](https://github.com/linuxmint/xapp/commit/ebd20fd7f334e8a34815bdbfbbc5aa4d2a2e0535)
+- [ ] [<code>sn-item:  Fix error handling to address SIGSEGV (#201)</code>](https://github.com/linuxmint/xapp/commit/2212d1c9f9ccc8b437d305fe8c45a3c1fc55b3b6)
+- [ ] [<code>build: Add gtk-layer-shell to depends, make it a requirement for</code>](https://github.com/linuxmint/xapp/commit/8830e46cd9c7cabc880a3d11a15b0ef8329c0b15)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.3.1-unstable</code>](https://github.com/linuxmint/xapp/commit/0a429364f7d2f8e4fad0a3e409a3a22729be4cd4)
+  - <sub>Tags: <code>3.3.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.4 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.4...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xreader/commit/ef5a50dd85e303331ed5a64cd73c3c9153ef42a6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/xreader/commit/3578ccbd13d2d47001177e42d011ef14a5dea4a7)
+- [ ] [<code>4.6.5</code>](https://github.com/linuxmint/xreader/commit/93f91d755e4c374b5fbdc7bccecdbc7fc21ce435)
+  - <sub>Tags: <code>4.6.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xviewer/commit/becb779a65e7ef18dcd2edaed8cfcd62b4497ef4)
+- [ ] [<code>build: Add support for GIRepository-2.0.</code>](https://github.com/linuxmint/xviewer/commit/74d7d4ba2584c658ae6fb87208543671664943cc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 ## random
-
-#### [blueberry](https://github.com/linuxmint/blueberry): [refs/tags/1.4.8 → HEAD](https://github.com/linuxmint/blueberry/compare/refs/tags/1.4.8...HEAD)
-
-- [ ] [<code>I10n: correct en_GB translations (#132)</code>](https://github.com/linuxmint/blueberry/commit/26e5e1368ddf8a37d71825055638b96d3e3bd823)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/18337ce002b94a6337b495e507166228c9c23eea)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/dc93fb9fb015a9dbb02560b2f7e811ca5b01ebfc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/566ca58e6e24200bf676819646a3db6e79f619ec)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/ffc02fc8d78302db1d19f35a862c95b56fc25241)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/blueberry/commit/c8030d202ad4b6aacdcf55a7f17a14910e8f0fa2)
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/blueberry/commit/78d0d7081a962c878ba1b68446176787c152b54c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add mint-dev-tools dependency to README.md (#136)</code>](https://github.com/linuxmint/blueberry/commit/4b84076238fa4b423571087726bc0b10a4beb07b)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>remove italian text from en_GB file (#134)</code>](https://github.com/linuxmint/blueberry/commit/4edcd9f62385018298635104ad889131298ee72b)
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.6...HEAD)
 
@@ -381,16 +642,22 @@
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.6 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.6...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/slick-greeter/commit/1abc83c905360b6fe3fd01a02624017c2d967433)
+- [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/slick-greeter/commit/ee4287253a1e58bdb4b6010a5deafab4ca08b01d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.30 → HEAD](https://github.com/linuxmint/sticky/compare/1.30...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.31 → HEAD](https://github.com/linuxmint/sticky/compare/1.31...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/sticky/commit/d0c6ba52626d7374c28e7d6c5a3e95c5577d1a9b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/25.12.4 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/25.12.4...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/timeshift/commit/b2151aa2374cdddf9c114c9573a38ef1e7d0cad6)
+- [ ] [<code>add io_nice for background rsync tasks (#492)</code>](https://github.com/linuxmint/timeshift/commit/5c4daebbc523cf08406764007a8ca32edcb86474)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>add comment about the deletion policy (#505)</code>](https://github.com/linuxmint/timeshift/commit/54e4667c1e22149b33a4323479b24ff236441af1)
+- [ ] [<code>MainWindow.vala: Change 'snasphots' typo to 'snapshots' (#507)</code>](https://github.com/linuxmint/timeshift/commit/3d022423af1f5201578d007b0431d38acc15a3d1)
+- [ ] [<code>always drop priviledges when opening a directory (#518)</code>](https://github.com/linuxmint/timeshift/commit/502cfbee547f7bcc3c9df349e90ed475a346b4e1)
+- [ ] [<code>.github: Add stale workflow.</code>](https://github.com/linuxmint/timeshift/commit/1c95813a98f4ba9b2b064ea111c6b08da4d875ea)
+- [ ] [<code>Pause snapshots (#498)</code>](https://github.com/linuxmint/timeshift/commit/8958d97432e709045c9aeea834afb9f8c3b8554b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.8.9 → HEAD](https://github.com/linuxmint/xed/compare/3.8.9...HEAD)
@@ -403,25 +670,13 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/39f7b5855a851ffd9b4b1ae4ce3f37ed42368d6e)
 - [ ] [<code>screenshot.c: Fix failure handling for xfce sessions, use correct</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/03f4df9773e8ee0c7e47bc4fee239f11f28d06d8)
 - [ ] [<code>wallpaper.c: Fix wrong return code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9701c70e88f9d220a1b4dd42ae182e6da3e587ff)
+- [ ] [<code>screenshot: Adapt to cinnamon-screensaver, update interface version.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/782e2536f0551cdd4b9ee024c1eca049e6005368)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.9 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.9...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.0 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.0...HEAD)
 
-- [ ] [<code>Add tag</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7821f19262b5bcc4eee005550575223d30d2285)
-- [ ] [<code>Add launch</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/4498f2b0adf8af3256b2ff7ae98f267b33ba9bbe)
-- [ ] [<code>Add empty-icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dba9e8b4b808a1b2c424244fc640b7999050fc7a)
-- [ ] [<code>Fix color of xsi-non-starred-symbolic.svg.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/03ae179980039f12e4b149c346a09817d60182ea)
-- [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
-- [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update temperature icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/96b0387201c42f1419068fd0a568ddc71b791ec2)
-- [ ] [<code>Add xsi-power-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/464033acdfd7c71a593a4ecd18a31b90b3df0bb6)
-- [ ] [<code>Add xsi-gauge-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a4085edf074104366e736550c7427c53444abfa9)
-- [ ] [<code>Add xsi-fan-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e7db28b7f833bf193762a151a434649e2b02d2ae)
-- [ ] [<code>Add gauge2 and electric /pyshics icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e5b81d4e0d2656f8a4a5d25c9677a59f27f6c15c)
