@@ -285,6 +285,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix keyboard tasks (#2504)</code>](https://github.com/alainm23/planify/commit/5d3c5165dd416648601a57dc75c4fdf341abd991)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use chrono lib (#2509)</code>](https://github.com/alainm23/planify/commit/ea61c58097b4a626ccac40c9dadbcdc176e088f4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix column (#2510)</code>](https://github.com/alainm23/planify/commit/dd760d78fcef2a61e4d27750f69a92a5982233dd)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
@@ -313,6 +318,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#448)</code>](https://github.com/ellie-commons/sequeler/commit/1cd1d078e2ff5e60bd9b5a8dbfb9129b631994ef)
 - [ ] [<code>Application: Use Vala-style properties (#449)</code>](https://github.com/ellie-commons/sequeler/commit/3702710209a506c9f197f6289ab12a20a89f1a02)
 - [ ] [<code>Flatpak: Update GNOME Platform to 50 (#450)</code>](https://github.com/ellie-commons/sequeler/commit/276a0120a71f5ef9a28d9bda159e647d04832f0a)
+- [ ] [<code>Actions: Remove gettext</code>](https://github.com/ellie-commons/sequeler/commit/8d3374a4932e35f07f384f42b85d8e83bf128e7f)
 
 #### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
 
