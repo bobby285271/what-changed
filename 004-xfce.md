@@ -25,6 +25,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Make sure "priv->item" never is NULL</code>](https://github.com/xfce-mirror/exo/commit/6f4412b7ac72a3a1099eb081b28e9609c394fa09)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/1e2962b19bb4e6618204330b92f0c7c701ab22a1)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/exo/commit/29580208fb7daa0e3cdf7cce3f4746d1af24b412)
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -73,6 +74,10 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/garcon/commit/335a400df88a1f6173a4e7d22b8e0cbf9fb52bf7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/garcon/commit/55473a0814dbdbb2f0206ec259bec2b393d49f5d)
+- [ ] [<code>data: Add HealthFitness category to app menu</code>](https://github.com/xfce-mirror/garcon/commit/742e0835dfc942b8d3f7ee229f5cadd33cc271d0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/garcon/commit/e5faadf66c43eb06ea66edc641599ddf41274a55)
+- [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/garcon/commit/bafe2e87cf593d5251bb2a0a798dc8b1e1b06ce8)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -239,6 +244,17 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9a6a4c15ac7dec305662a15a0020802614eb1984)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Downgrade the "no startup notification on Wayland" warning to message</code>](https://github.com/xfce-mirror/libxfce4ui/commit/36ca76d6b7a16a97ca8203e82f5e30b6a6243449)
+- [ ] [<code>Wording "file name" --> "filename" (#142)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/78b98cb653934cef5067779baa4d7d6c156f6b5b)
+- [ ] [<code>build: Do not display full path in generated headers</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b8bf147d621739a1b8a4d1cc8398d1c90288e9d6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>docs: Add missing symbol</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b1924854596b183db312e73de4f293d9d0829cc9)
+- [ ] [<code>Expose method 'xfce_icon_view_get_cell_area'</code>](https://github.com/xfce-mirror/libxfce4ui/commit/257da498b7be84fbb021ea62ffe380e1d90198c4)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4ui/commit/67b2b7e3b67e54c048b15da2b1fcf51cd3d4225e)
+- [ ] [<code>shortcuts: Replace Ctrl+Alt+{D,L} with Super+{D,L}</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0320f03b8f3f5ab45c00b07ecfecf045f77fd0c9)
+- [ ] [<code>die-editor: show icon name in the tooltip (#145)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/57117dcd14c79671b2549ed51ec376bc4b368c25)
+- [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/libxfce4ui/commit/d976938fb23303ed682ae667dee72b8ce14b0b68)
+- [ ] [<code>die-editor: Improve Info for unknown icons (#145)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f8325c921fa5091e6e7d5a3ba6a31ca1a79518bd)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -307,6 +323,8 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/libxfce4util/commit/ef97bc17ec112ad5d25abe3acf03965d5c9beffa)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/07653bc0e3d109e8514bcb812d009994b2444d08)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/cd33da2e55357a0571553572cccc3c0cb5d21004)
+- [ ] [<code>systemd: Add *_with_flags methods</code>](https://github.com/xfce-mirror/libxfce4util/commit/77dfc10a9b2f1c30f9aab87d5e03d566f238b25e)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -447,6 +465,12 @@
 - [ ] [<code>Fix missing workspace signal connections in test program</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7efc1b5149d33da5ab4a3b5f6a15bbfd0cfe05d6)
 - [ ] [<code>Add XfwWorkspace:geometry property</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/7b07b658697b91f9e47e0c1b8aa4c53a087659b2)
 - [ ] [<code>Implement workspace geometry for wayland</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/34ea30b779b6f1ab36c1e854ce85a7d2ece8754b)
+- [ ] [<code>Fix incorrect max to clamp workspace number to</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/4109590976f209224b3ee2008fb8ba55c7b9c54c)
+- [ ] [<code>Ignore workarea/workspace count mismatches</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/a11e6a50115353fda82a5ea785693b7eeac5a83c)
+- [ ] [<code>XfwMonitor: Fix typo and initialize class member</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ad96c7863e819c9d73ca79a440ffe0d609495705)
+- [ ] [<code>XfwMonitor: Fix (xdg_)output_done event handling</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/20e9db45ffe1893bc2027ebd4e07b67b4bd60e63)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/63183b2d22d2b0407d41e586eb2b2d73485d085e)
+- [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0068e9141a56735134b3c24d28917104d573483d)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -822,6 +846,68 @@
 - [ ] [<code>Tree-view pane: Fix wrong selection on open new window</code>](https://github.com/xfce-mirror/thunar/commit/4b31eb859599bf77728be17b3f0d6f4ce1f31ff7)
 - [ ] [<code>Make use of new "grab_focus" variable</code>](https://github.com/xfce-mirror/thunar/commit/4120ca6f33f9f97290dfd6051d730308abeb9b57)
 - [ ] [<code>Fix string leak in thunar_shortcuts_model_device_removed</code>](https://github.com/xfce-mirror/thunar/commit/0994286fa68dedbe80fe65d709d50b091bdb579a)
+- [ ] [<code>Use  GtkTreeModelFilter for tree view side pane (#1460) ()</code>](https://github.com/xfce-mirror/thunar/commit/6a07bb022e6f7bb46cfa7cdf361fcc22a6f1a20c)
+- [ ] [<code>Store pending column size changes on close (#1318)</code>](https://github.com/xfce-mirror/thunar/commit/09af6f7c5e83ea6c2a50b27a9f0d5ac35783d2bc)
+- [ ] [<code>Initialize xfconf for each thread</code>](https://github.com/xfce-mirror/thunar/commit/d4c9b77a44dad206b504d1b659789009405924b6)
+- [ ] [<code>Call xfconf_shutdown before exit</code>](https://github.com/xfce-mirror/thunar/commit/1497df76bb6f0b4b827a6b476af92baa2fd904aa)
+- [ ] [<code>Add help text for URL arguments</code>](https://github.com/xfce-mirror/thunar/commit/48a91fe99a50109d0b30d06753e95b7a36e7766f)
+- [ ] [<code>Improve URL help text</code>](https://github.com/xfce-mirror/thunar/commit/7fb544d90afea548fad94a0415d26dc496b6c74f)
+- [ ] [<code>Differ between total and usable fs space (#1806)</code>](https://github.com/xfce-mirror/thunar/commit/4b07866f83f15b93e27431cbbdede7ec4ee52491)
+- [ ] [<code>Show as well 'usable' size in 'Capacity' row (#1806)</code>](https://github.com/xfce-mirror/thunar/commit/1b77178c58ba0e23aefd20ca4815303653547cd5)
+- [ ] [<code>At tooltips to 'Capacity' and 'Usage' (#1806)</code>](https://github.com/xfce-mirror/thunar/commit/83615a61cba2aea7110633b88d224c116900dd0b)
+- [ ] [<code>Show filesystem type in preferences</code>](https://github.com/xfce-mirror/thunar/commit/f44f05befc8acdeef38e6a9c90dcd70b99d2a1d0)
+- [ ] [<code>Properties dialog - add separator for fs data</code>](https://github.com/xfce-mirror/thunar/commit/8731e63384272af7331a4b470b2fc92e7dcf8fce)
+- [ ] [<code>Remove percentage character in tool tip string</code>](https://github.com/xfce-mirror/thunar/commit/b06e6aba4dd29e07144c3fccdeb40573abbb183e)
+- [ ] [<code>Revert "Initialize xfconf for each thread"</code>](https://github.com/xfce-mirror/thunar/commit/056312c6473ef4633f8294b7c0f65c20749c2bc9)
+- [ ] [<code>Add fallback for backdrop highlight color</code>](https://github.com/xfce-mirror/thunar/commit/1d2eff33db935b281d77c92f16b9dc8526d949f7)
+- [ ] [<code>Limit filname length for create/rename (#1812)</code>](https://github.com/xfce-mirror/thunar/commit/fcf5fe859dbce11588eadee88ea0360742689251)
+- [ ] [<code>Wrap long filenames in error dialogs (#1412)</code>](https://github.com/xfce-mirror/thunar/commit/4f752e0fd3be2932253008fe0043c4f9244e5d7c)
+- [ ] [<code>Prevent Critical when showing Error Dialog</code>](https://github.com/xfce-mirror/thunar/commit/cb936b15e63b6e551f0c6d76eebf1436e3e68718)
+- [ ] [<code>Fix ThunarPreferences leaks in terminal widget</code>](https://github.com/xfce-mirror/thunar/commit/925703fa03d0526b29e8b9b5554740a88c5b8dc0)
+- [ ] [<code>Disable overlay scrolling by default (#367)</code>](https://github.com/xfce-mirror/thunar/commit/356b28ce16a3f8ced4ec071585aa8c253955422a)
+- [ ] [<code>Popup menu at focused widget on keyboard activated</code>](https://github.com/xfce-mirror/thunar/commit/d5fae67d1e6b4e170cf5136b4023d010cb363e27)
+- [ ] [<code>Popup menu on tree view item for keyboard activated</code>](https://github.com/xfce-mirror/thunar/commit/21b0adb816e346a7b20bbd5059d45436d73a9b62)
+- [ ] [<code>Add keyboard support for context menu on toolbar</code>](https://github.com/xfce-mirror/thunar/commit/c0c790e9d8f1dbdc2d6f93c2a88c8b610362c49f)
+- [ ] [<code>Add keyboard support for history menu on back and forward buttons</code>](https://github.com/xfce-mirror/thunar/commit/3b1cca8829d86698a37c4aa9f7211d2115741064)
+- [ ] [<code>Add keyboard support for context menu on terminal</code>](https://github.com/xfce-mirror/thunar/commit/e645fb05c425e96babbe3b062f9232b1b74041d3)
+- [ ] [<code>Popup menu at tab label on keybord activated</code>](https://github.com/xfce-mirror/thunar/commit/20dfc00668b2ea18c4648d1507b260ea6dd5f197)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/thunar/commit/5f4e754f130c41e83e4c09b8f5493eb2c1b09615)
+  - <sub>Tags: <code>thunar-4.21.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/thunar/commit/2b0872d9e7a824bdd3edeae935f73470e8afd17a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Disconnect from 'action_mgr' on finalize (#1816)</code>](https://github.com/xfce-mirror/thunar/commit/f1de00ce523d531424270efcff1f26b20d2de6ea)
+- [ ] [<code>Add toolbar button to toggle hidden files (#1680)</code>](https://github.com/xfce-mirror/thunar/commit/0b1e70cdb681fa6d3b942849118af48effb634fc)
+- [ ] [<code>Tree view pane: Always show devices (#1819)</code>](https://github.com/xfce-mirror/thunar/commit/7209e564f9da708c27b69c294d0c0e7e6b933ff3)
+- [ ] [<code>Fix leak in thunar_tree_view_visible_func</code>](https://github.com/xfce-mirror/thunar/commit/a1c250588ea57c218c65c26874cf09c258c6314c)
+- [ ] [<code>Tree view side pane - expand arrow visibility fixes</code>](https://github.com/xfce-mirror/thunar/commit/7b0d86b8607149b410654f0ee0e329ba9f9d7033)
+- [ ] [<code>Unify path entry search logic (#1817)</code>](https://github.com/xfce-mirror/thunar/commit/00706115da68d82790e5fd0a54736c1f447e748d)
+- [ ] [<code>Update tab title after search (#1818)</code>](https://github.com/xfce-mirror/thunar/commit/3c8c6a3f0e456f0358e3bb0b8f2d15259212976d)
+- [ ] [<code>Unify path entry search logic (#1817)</code>](https://github.com/xfce-mirror/thunar/commit/0d6952ba0142c3339a6422ce9d6de11e31845994)
+- [ ] [<code>Fix regression: Use new filter model in tree view</code>](https://github.com/xfce-mirror/thunar/commit/c9a6d37b3ec8086bd1e59cd8385b9d3422d3ff3c)
+- [ ] [<code>Reset file copy progress on "retry" (#1775)</code>](https://github.com/xfce-mirror/thunar/commit/475c697ff010f1a5f3a1cdb138aab0d09acb8e2e)
+- [ ] [<code>Add preference to resolve symlinks (#152)</code>](https://github.com/xfce-mirror/thunar/commit/079503c035d755a27fed3f71c1575935759a3151)
+- [ ] [<code>Properly guard gdkx.h include</code>](https://github.com/xfce-mirror/thunar/commit/201f8ca0c3bc7b5e651201526fc3006a130718eb)
+- [ ] [<code>Add missing sanity check</code>](https://github.com/xfce-mirror/thunar/commit/65ca5c3c574361215c9eef95f2638356a0840394)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar/commit/f9bc7f85018564fdc9aa39fc843e7b62bb6b929e)
+- [ ] [<code>misc-sort-hidden-last improvements (#263)</code>](https://github.com/xfce-mirror/thunar/commit/cef329139ab1fb99102d9411264b6e564013f69a)
+- [ ] [<code>Improve error handling in on query file info</code>](https://github.com/xfce-mirror/thunar/commit/26740e8fda93fecb1e1a9b892f27df40004bc7d7)
+- [ ] [<code>Keep a global ref. to job operation history (#1823)</code>](https://github.com/xfce-mirror/thunar/commit/3dd6a38abab200a73df5f4cf9fd4a2b6de3f252e)
+- [ ] [<code>Use original path when moving files from trash (#142)</code>](https://github.com/xfce-mirror/thunar/commit/2a90df42b0ab24bcfd233f8772ffde6bbfb63238)
+- [ ] [<code>Remove some debug printfs</code>](https://github.com/xfce-mirror/thunar/commit/4b9fb8612e819469112abcdcda990a7fdb122119)
+- [ ] [<code>Prevent crash when the location bas is hidden (#1827)</code>](https://github.com/xfce-mirror/thunar/commit/f74fdbca02e816266a0602ba9107843173ff6cb7)
+- [ ] [<code>Prevent use-after-free on re-login (#1831)</code>](https://github.com/xfce-mirror/thunar/commit/b94c54588499d68de44ec649038618d01304ec24)
+- [ ] [<code>Fix leaks with g_warning messages</code>](https://github.com/xfce-mirror/thunar/commit/08e611d62b26bfa60c93bd35c2c97ca7f51236f1)
+- [ ] [<code>Fix crash when open unknown gvfs location (#1834)</code>](https://github.com/xfce-mirror/thunar/commit/c72768187b9d14e370b1a579735314d9b599fc7d)
+- [ ] [<code>Allow plural forms for 'hidden count' string (#1835)</code>](https://github.com/xfce-mirror/thunar/commit/1855196949fb2f31a87f0cb74f17b00381523e7f)
+- [ ] [<code>Update expandable folders only when enabled (#1830)</code>](https://github.com/xfce-mirror/thunar/commit/a4fd4161ed47dd12f0e5a3670cb646ce7ac5abf5)
+- [ ] [<code>Prevent crash on reload when unmounted (#1799)</code>](https://github.com/xfce-mirror/thunar/commit/1b8337f960ce35fa2c6e93a6c5618e55d0e72f32)
+- [ ] [<code>minor refactoring</code>](https://github.com/xfce-mirror/thunar/commit/a815e1b86dc93c7de0bf1a98d91a2b51ae44901b)
+- [ ] [<code>Prevent Criticals in some use-cases (#1799)</code>](https://github.com/xfce-mirror/thunar/commit/ebad860c53def0d7562a00b4349e7e695aa07a0b)
+- [ ] [<code>Check/Update view-type on reload (#1799)</code>](https://github.com/xfce-mirror/thunar/commit/8ef0066e065bd1cfa90d9ba2b93551a3cdff60f4)
+- [ ] [<code>Remove redund. toggle-sort-order menu item (#1839)</code>](https://github.com/xfce-mirror/thunar/commit/bef3a19169f8fb02fedcb5158464d3d01fa678e6)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -842,6 +928,9 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/f0f17ca45cefd8af786f0615f5caa76eb57102ce)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/thunar-volman/commit/ecd6ea2c8367858bda8614e45bc0d2642920e177)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/thunar-volman/commit/e8a6a96ce5a028e1238a45414b52dc3a7d0c0ea9)
+- [ ] [<code>Removable drives: Add configurable automount delay</code>](https://github.com/xfce-mirror/thunar-volman/commit/bb97ee39e46695857b90d00336b70bcdd06991ed)
+- [ ] [<code>Reduce default mount delay to 2 seconds</code>](https://github.com/xfce-mirror/thunar-volman/commit/47d72e947a51fffe315f2553f2d07e935095bf02)
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -905,6 +994,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>desktop-thumbnailer: Don't use GIOStream to get thumbnail pixbuf</code>](https://github.com/xfce-mirror/tumbler/commit/d5f570be7f9812e812838454fa648f5ed642a364)
 - [ ] [<code>Handle cases where there are no plugins gracefully</code>](https://github.com/xfce-mirror/tumbler/commit/b4f4db4bfc1a45f0a405c4516e38394a44c90fcf)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/e51c851e1df579a4b1b63ad0d595fc7d0923af92)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/ea698565ac06437173b75f8d6b9730a81311fe6a)
+- [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/tumbler/commit/0f0db56a061c36b60b6522fe6b48345150cd405a)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -954,6 +1046,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Avoid crash when resetting items frecency</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/acc9e240da07d15c499a23aaf134225d6898fd6e)
 - [ ] [<code>Rename bookmarks to favorites</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/90999bbadbf44c990c507b622641eff846bfe6e9)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/21d29440e3a86e824adc82e7eeafc9a7ea50ace9)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/1ce6be94d8bc0abdd8fd565a55133a1be90496b8)
+  - <sub>Tags: <code>xfce4-appfinder-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/11e38266243b5902fadbe7745af5bf3e7bbe1d8f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/6e8ab3c6015b8effd1ecb4d6d6376c2f5f69c9e6)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -1015,6 +1115,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>doc: Update developer.xfce.org index</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3bbac64b67336292a486b88e13960099f4f68dd8)
 - [ ] [<code>Update docker/docker-dind images for CI</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/1248a784753c20216f809359e29e18f07d4575f9)
+- [ ] [<code>xfce-build: add libxkbregistry-dev to container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/5b5dc8345eb6135480a2c9840e73884141649182)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1189,6 +1290,15 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Install missing libxfce4panel.h</code>](https://github.com/xfce-mirror/xfce4-panel/commit/151fec5f91fcb3dc5d55aee82a6d717dad77e877)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Do not display full path in generated headers</code>](https://github.com/xfce-mirror/xfce4-panel/commit/61f40b65637695abe9d9e2f80ca99d3c076c96e8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>pager: Fix workspace switch for Compiz when scrolling over pager</code>](https://github.com/xfce-mirror/xfce4-panel/commit/14c20ecb44b9c39a51ad6a977be569b22ae8634d)
+- [ ] [<code>actions: Fix variable used out of scope</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c0852ccb1a5bcf81b231fddc88a05ed34b5cdf0a)
+- [ ] [<code>clock: Change space padded default time formats to not padded</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8e5da18d0a73b9d3755ea38ddb5f56a454f4dfbb)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5ad04d74e648cb6824f1de4c38f252021bb3c080)
+- [ ] [<code>panel: Set itembar clip when allocating window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d770a81d96d6af3bd7e9d67a7c38f29e297241bd)
+- [ ] [<code>icons: Fix non-zero page opacity</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e74a9573bd7a6278f7ee8bf524b72ce60886226a)
+- [ ] [<code>panel: Use same code to cleanup plugin config everywhere</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a9609a56da6992af4f69a6c9bea2dfa01faa2249)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1260,6 +1370,41 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Use percent symbol instead of "percent"</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2b45fbe74899efe1a74d65556a95d347736ab68f)
 - [ ] [<code>backlight-helper: Fix brightness control device selection logic</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/14d8d6259999d0e82806bb2ae80e82918271917e)
+- [ ] [<code>build: Do not display full path in generated headers</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/3f69abae74f4c0ad41c8fa2886148db834ddb9f1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>panel-plugin: Update icon size when needed</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/683ffe55136e8b0dc15fbe8a70776307f401717c)
+- [ ] [<code>panel-plugin: Remove dead code</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/bfc2610b2949081473cc63abc20681683155f9c5)
+- [ ] [<code>panel-plugin: Track icon theme change</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6684c73434afdd978c8e290b30e98df0e9d6b083)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1dc05512197260fcb72b39a3a0d751d536fc308c)
+- [ ] [<code>settings: Add shutdown as sleep mode when inactive</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/36c524c5760bb261db53cca7011c972a1cc61670)
+- [ ] [<code>settings: Remove sleep mode combobox tooltips</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e7687ae018783a38a570a89c72a88537ec6a22d3)
+- [ ] [<code>settings: Update sleep mode allowed values</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/3ce6413a731eed033b49c7fb994e7f1543516f60)
+- [ ] [<code>Remove undesired '\n' in logs</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/df4ef0fd62f22108e26fb8f66ec60e9939b254f2)
+- [ ] [<code>Cleanup and formatting suggested by gobject-linter</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4c8aff2b1017c8a0c0e1642613647c8dca82bd9f)
+- [ ] [<code>Fix previous commit</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/25b620fc3c75db76093d1a12c3e3495412c41ab5)
+- [ ] [<code>build: Bump wayland-protocols min version</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/48cf4e804e075bea2f741eb15e3a5ac25293c5e6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: Remove unused dbus connection object</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/55fe2510fb03889259a33cd60ccafbd25a481be9)
+- [ ] [<code>settings: Reveal presentation mode</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/d761ac49298c8a402d00b23bc2a9a5434ebf236c)
+- [ ] [<code>Add do-not-disturb setting in presentation mode</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4ecb6c1b1c22b083e2e362d3c649c0307a3caac8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add setting to disable inhibition via dbus</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/dea7ca498f07748ea27301377c37cccee3bfab8a)
+- [ ] [<code>power: Refactor inhibition a bit</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/6e54108b23cd10e1b8a7e2bf2968263f0b91a8db)
+- [ ] [<code>Add setting to inhibit xfpm when a window is fullscreened</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4476a8c421a14f6539c353733168d12050ed773b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>power: Ignore systemd inhibitors when sleep is forced</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/18c88e26cb6b39d55d7ba098e70ddc07f8bcfe0c)
+- [ ] [<code>Add entry to the panel plugin menu to clear inhibitors</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/9e83c48af1cf85f81c625ea5944133f24e2c7a83)
+- [ ] [<code>inhibit: Remove duplicates from inhibitor list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/85b715c80d7313a9145c3207f73c42eaa36404f0)
+- [ ] [<code>power: Improve message when sleep is inhibited</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/0052d2e2ac960fdab649d93f463a4d732ec0130b)
+- [ ] [<code>panel-plugin: Add an idle inhibitor in presentation mode on wayland</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/3990e77fe9237c8402e961df32f98b66f990d5a8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>panel-plugin: Enable debug logs if enabled server side</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/bde0c7c08281998dc583cf3340d069a0c888f346)
+- [ ] [<code>panel-plugin: Fix leaks when getting inhibitors</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/9b0897cf19c9acd22cefd55d7a841bf0aa54e024)
+- [ ] [<code>backlight: Apply brightness-slider-min-level to brightness keys too</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/fc2385a1ec1d9cad2a02c129c25032962b5d596a)
+- [ ] [<code>brightness: Lower default min brightness to 1%</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e3de5f2ebe8184e39124d9c355fb4edb9cc6b5f2)
+- [ ] [<code>settings: Move brightness control to display tab</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/05ba113fd8340068735a532c66d4a73c3e17d765)
+- [ ] [<code>brightness: Don't make min level depend on step</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4f82ef90c2565d1cb2589527cebbdebe5a6b0019)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1344,6 +1489,8 @@
 - [ ] [<code>portals: Add gnome-keyring as Secret provider</code>](https://github.com/xfce-mirror/xfce4-session/commit/e8f88257fc2e6d6a77ed07f33f8aebda32d8f2b0)
 - [ ] [<code>startxfce4: Add support for OpenBSD to kbd layout detection on wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/45c4a691bccb4cfce524a382b89339eac8d1fe60)
 - [ ] [<code>logout-dialog: Do not create multiple dialogs</code>](https://github.com/xfce-mirror/xfce4-session/commit/64bd4283c98fdc740987e9b9d08344a4d77c8228)
+- [ ] [<code>Accept a DBus bus name to own in the XFCE4_SESSION_DBUS_BUS_NAME env var</code>](https://github.com/xfce-mirror/xfce4-session/commit/6cd7f808177fe33207b0f6ea9b0fe90f62f18bb0)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-session/commit/9e6871475b1063e62585633019fb5dbd33958366)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -1460,6 +1607,39 @@
   - <sub>Files: <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>xfsettingsd: add --allow-multiple CLI flag</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0637fa611715eb77647e4d95a3acbc27dc1819cc)
+- [ ] [<code>Fix incorrect TitleCase to kebab-case in gtk-settings-module.c</code>](https://github.com/xfce-mirror/xfce4-settings/commit/56f71d202a26bdd527b601712ef8da2617351323)
+- [ ] [<code>Include an allowlist of xfconf props to sync to GtkSettings</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e3cd86ac91a0af6d24486317ca73bdb08c21b857)
+- [ ] [<code>Special-case gtk-xft-hintstyle</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ac20e06885bc189156f866cbdd05f0ff8e2807f0)
+- [ ] [<code>gtk-settings-module: handle g_value_transform() failures</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8c236c13e02c8fb7923b53a2963543de06528f4d)
+- [ ] [<code>build: Do not display full path in generated headers</code>](https://github.com/xfce-mirror/xfce4-settings/commit/93fa2ed9a987c0f03c9f5aa0f31cb770d1cc5f17)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use xfce-output-manager-private-v1 on Wayland to get real EDID</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ce7e76750caad44cb2b7aad7982d55fc7683338d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: display-settings: Fall back to output name when EDID is duplicated</code>](https://github.com/xfce-mirror/xfce4-settings/commit/bf4bc3eb54f39ea10d2986a0f94a5c4428beff60)
+- [ ] [<code>mouse-settings: Remove dead code</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ba8fad31fc9d7eeb68958d792578ac53746fa2f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>x11: displays: Add hotplug event handling</code>](https://github.com/xfce-mirror/xfce4-settings/commit/02baab07033f9db4c1d44e0df8379587ecec2e74)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-settings/commit/777f234f31ca36409ffd5c51ab1549997d450293)
+- [ ] [<code>display-settings: Handle source memory management</code>](https://github.com/xfce-mirror/xfce4-settings/commit/667db9ad80c041ed9153d7073b75e713b63d585a)
+- [ ] [<code>display-settings: Release main object early to avoid use-after-free</code>](https://github.com/xfce-mirror/xfce4-settings/commit/fddc517d764c3bab223f42a7159d86b981d61d31)
+- [ ] [<code>dialogs: Fix wrong log domain</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e88c1847df8561962e72727b27ddb4080453c3da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>keyboard-settings: Enable on Wayland and show what makes sense</code>](https://github.com/xfce-mirror/xfce4-settings/commit/76816f9ac808a971e0a7aa70b7b44662b5701c01)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>keyboard-settings: Set proper parent for shortcut dialog</code>](https://github.com/xfce-mirror/xfce4-settings/commit/5d575cb808f58c8e25cdc82126ddd2f6b7513808)
+- [ ] [<code>keyboard-settings: Don't warn if shortcut == NULL</code>](https://github.com/xfce-mirror/xfce4-settings/commit/212984834803ad0b9036de281bad2207bb75b913)
+- [ ] [<code>keyboard-settings: Add --shortcuts option</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a3453a5f5c0849d82a2b48a52f71bbc12f67bcc5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>keyboards: remove libxklavier and use libxkbcommon</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e2329654461d47e0675671b71533ac800f65a1fa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>keyboard: hide "Use system defaults" switch on Wayland</code>](https://github.com/xfce-mirror/xfce4-settings/commit/79bfaf59f36a0a71f8be9b88a63821638a492853)
+- [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6b88185dfbcae81421813dfb9f5678a4c5b2a7cb)
+- [ ] [<code>keyboard-settings: Fix typo</code>](https://github.com/xfce-mirror/xfce4-settings/commit/1596759c8f90b8614df42e384b6b8ca233bab295)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>settings-editor: Search also in values when typing text in search entry</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d10cf85250d023fc1f76952498377c004e997395)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -1517,6 +1697,30 @@
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfconf/commit/36f0b2db9b9d3ed2c77eb723d39b4e73a3215567)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/549f78355bab3963248729b400ed1ae2420d3bc4)
+- [ ] [<code>Make libxfconf multithread-safe</code>](https://github.com/xfce-mirror/xfconf/commit/28847fda11a1b89cbafb2d6a8e8b9e1fea1ca7aa)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfconf/commit/dfa420a4f91b20157e670edf8be2a0033730b430)
+  - <sub>Tags: <code>xfconf-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/31f0c6c2bd1e31d94f86a5ad21098e1aba413b6f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Revert "Make libxfconf multithread-safe"</code>](https://github.com/xfce-mirror/xfconf/commit/1a51b2af1c6e7f50e4a8f864f5582fb636755b78)
+- [ ] [<code>Emit signals on the thread that "owns" the channel or binding</code>](https://github.com/xfce-mirror/xfconf/commit/37c18b2a0f0447b05957ca48c20b7951fa10f988)
+- [ ] [<code>Make xfconf_init()/xfconf_shutdown() multithread-safe</code>](https://github.com/xfce-mirror/xfconf/commit/45b7605f4d428d39754d380034606deb7255a4a0)
+- [ ] [<code>Destroy GDBusProxy and GDBusConnection on library shutdown</code>](https://github.com/xfce-mirror/xfconf/commit/aad0349c5fa1888a0837e1ea53c513e8d52b71e7)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfconf/commit/a6f0a7aa9073f9d8a0935cee73c0da52b6e49660)
+  - <sub>Tags: <code>xfconf-4.21.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfconf/commit/a98cd3cf6594aa03d539011dcff9a0178a6b8e64)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Make sure gdbus headers are generated before including them</code>](https://github.com/xfce-mirror/xfconf/commit/6fc6e4408ea021ee8a210e691f1a13b807121a3c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xfconfd: Fix handling of out parameter</code>](https://github.com/xfce-mirror/xfconf/commit/50008d0abc641efe7c68e734f3bab7597fa00418)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/06cc14950f16e946d303207e6b33baee040796dc)
+- [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/xfconf/commit/6655bb3f37eaf1d67269f46f29bd42e55d59c0bf)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
@@ -1598,6 +1802,28 @@
 - [ ] [<code>Add %d to strings to fix some transl.(#450)</code>](https://github.com/xfce-mirror/xfdesktop/commit/d5fded4b472a7c8d53646051a36a2ae4c58ed413)
 - [ ] [<code>Call XfdesktopBackdropMedia's parent finalizer to prevent leaks</code>](https://github.com/xfce-mirror/xfdesktop/commit/b3733335d497f6d58b14f6e03303e5015f800f9a)
 - [ ] [<code>Fix two leaks when using the "Delete" context menu item</code>](https://github.com/xfce-mirror/xfdesktop/commit/bea25893b2f61b23113bf2f51b9e6764754ca8a1)
+- [ ] [<code>Fix context menu positioning on wayland with icons enabled</code>](https://github.com/xfce-mirror/xfdesktop/commit/8958fdbd4e1b1f89dcc77e0e21eb67cb76a41716)
+- [ ] [<code>Remove the programmatic fatal-warnings/criticals for debug builds</code>](https://github.com/xfce-mirror/xfdesktop/commit/4a0ac8284fc9318594f080e7c625ab990c930f64)
+- [ ] [<code>Avoid unrefing objects that only have floating references</code>](https://github.com/xfce-mirror/xfdesktop/commit/8ef0fb69ed12a7d34c12008e41c2e6fb781c3bc3)
+- [ ] [<code>Fix desktop not resizing on monitor resolution change</code>](https://github.com/xfce-mirror/xfdesktop/commit/801ec7e1ddd5c2b8215443b242a680dbb5476d73)
+- [ ] [<code>Don't include unplaced items when selecting all</code>](https://github.com/xfce-mirror/xfdesktop/commit/399e83cbd60fac3e3dbba4957e6376f3d8e76e24)
+- [ ] [<code>Don't include unplaced items when doing keyboard navigation</code>](https://github.com/xfce-mirror/xfdesktop/commit/0886f31ad3f009718bbd2a4ad3a2662118b87913)
+- [ ] [<code>Don't include unplaced items in rubberband selection</code>](https://github.com/xfce-mirror/xfdesktop/commit/832d653d6e18e556f8e24b6a0b7083c96accf495)
+- [ ] [<code>Make XfdesktopSpecialFileIcon filesystem operations async</code>](https://github.com/xfce-mirror/xfdesktop/commit/9fcdefb3ea5717dbacc5f9101338d09645d5b265)
+- [ ] [<code>Close file enumerator asynchronously</code>](https://github.com/xfce-mirror/xfdesktop/commit/c6a135ad5d1bc8b0a776f2c1c358e949559f31ed)
+- [ ] [<code>Make the file operations in XfdesktopFileIconModel async</code>](https://github.com/xfce-mirror/xfdesktop/commit/c6e1926c5894a7ef5491afdccbb002a652850bb9)
+- [ ] [<code>Make file ops in notifications code async</code>](https://github.com/xfce-mirror/xfdesktop/commit/58dce46611a98ca1ac7ce7fc3bf1f001b5ab4344)
+- [ ] [<code>Don't fetch backdrop when XfceDesktop's monitor removed from group</code>](https://github.com/xfce-mirror/xfdesktop/commit/d7a010f133502045253f51e1247635db96fef4f8)
+- [ ] [<code>When a regular file is deleted, remove its position from the config file</code>](https://github.com/xfce-mirror/xfdesktop/commit/9882e1fee0b6aa98413ea070ded36d52d233aa54)
+- [ ] [<code>Don't pass a BackdropMedia if the render was cancelled</code>](https://github.com/xfce-mirror/xfdesktop/commit/d41d672ad438484314dbe3a23bd4b27fc6b82fd5)
+- [ ] [<code>Move backdrop rendering cancellation & signal disconnections to dispose</code>](https://github.com/xfce-mirror/xfdesktop/commit/9ac055c17b4d2b632bc38daf32887436764b41f2)
+- [ ] [<code>Refactor choose monitor config dialog</code>](https://github.com/xfce-mirror/xfdesktop/commit/2d13a9df8bad7b048d2e3245d1da8c92f26b5f3c)
+- [ ] [<code>Tear down monitor position config dialog if its monitor is unplugged</code>](https://github.com/xfce-mirror/xfdesktop/commit/2b377cbe75daae2157eb73ce56a45e07e5aeccdd)
+- [ ] [<code>Fix incorrect enum value for POSITION_LEVEL_OTHER</code>](https://github.com/xfce-mirror/xfdesktop/commit/272e13ce72d8bfc9704265a8c7bf9d96802c3aac)
+- [ ] [<code>Move start-grid-resize and end-grid-resize signal connections later</code>](https://github.com/xfce-mirror/xfdesktop/commit/d5e2cc81ee04ac12c3c00550cc42fdf0483cd75f)
+- [ ] [<code>Fix folder string being NULL in error popup in desktop settings</code>](https://github.com/xfce-mirror/xfdesktop/commit/c8fb77408db986c0e2065a936b3294d17fff803c)
+- [ ] [<code>Fix dimensions in xfce-shapes backgound image</code>](https://github.com/xfce-mirror/xfdesktop/commit/0f70f8baa528bfe371963e4a9f095f0e23333a80)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/97cf10aec2a64388b0a9ee6814bb41b7989bd1a5)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
@@ -1624,3 +1850,4 @@
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfwm4/commit/fb99aee4d1f7697016904abbfc40fa805ec1468c)
 - [ ] [<code>build: Fix typo in optimization level</code>](https://github.com/xfce-mirror/xfwm4/commit/46936559bfa54ba160f6efde14ad38cfead2d76c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/7e87328ee1fa2b9fa3a6f45562ffb826bff7b846)
