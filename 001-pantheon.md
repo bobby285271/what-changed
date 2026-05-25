@@ -114,6 +114,8 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Feature/sidebar focus (#1719)</code>](https://github.com/elementary/code/commit/d3ce720103f161c3177c1f64bf1c89ab95a86756)
 - [ ] [<code>Fix 1698 (#1720)</code>](https://github.com/elementary/code/commit/18bb8babb623efaf65649f26e474dbbd53a90141)
+- [ ] [<code>Fix 1699 (#1721)</code>](https://github.com/elementary/code/commit/bebe0fc6bcd15ae079ee0377ada815325c789aab)
+- [ ] [<code>Use user accent for selection background (#1722)</code>](https://github.com/elementary/code/commit/c0b1736f842146ae799c14ac46af9b6d3987d40c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
