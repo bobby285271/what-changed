@@ -266,17 +266,8 @@
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.3 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.3...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.4 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.4...HEAD)
 
-- [ ] [<code>Fix: correctly update if priority_property is null (#2488)</code>](https://github.com/alainm23/planify/commit/a63af20a4cf1104582b495432ed330a8c2fcb660)
-- [ ] [<code>fix: improve Todoist offline queue reliability (#2476)</code>](https://github.com/alainm23/planify/commit/439b957ea6e7f4fd82e949a8e58ff75b9e2f3d42)
-- [ ] [<code>fix accent color (#2491)</code>](https://github.com/alainm23/planify/commit/daf1b9901f7b737cbb881aa9666c5841821537f6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: use UTC timezone for COMPLETED property in VTODO (#2490)</code>](https://github.com/alainm23/planify/commit/7115e6a578f997ff6d0fd55b59550bd937364ae4)
-- [ ] [<code>Translations update from Hosted Weblate (#2487)</code>](https://github.com/alainm23/planify/commit/f03ded37c11101eba9d7cab38dad07e45c8a2d09)
-- [ ] [<code>release 4.19.4 (#2494)</code>](https://github.com/alainm23/planify/commit/6c5a6b26dd45761439ea1543026d1633bbb3feb2)
-  - <sub>Tags: <code>v4.19.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix building with libical4 (#2500)</code>](https://github.com/alainm23/planify/commit/d7923aecabee7add49eb198b640f71d273b98047)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix backup (#2495)</code>](https://github.com/alainm23/planify/commit/0d0d9fae44dab82bd0e714fe950644bab2d71fba)
