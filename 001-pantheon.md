@@ -97,6 +97,7 @@
 - [ ] [<code>VAutoHider: cleanup size_allocate (#940)</code>](https://github.com/elementary/calendar/commit/f5d41e255c7fae1fed30cb7e7726756bbc6fa392)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>LocationPanel: remove point dragging to set location (#932)</code>](https://github.com/elementary/calendar/commit/7b62879151dd95a646c50811f961a5b601712330)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.1.tar.xz to 3.60.2 (#945)</code>](https://github.com/elementary/calendar/commit/5f6c167b23af0fe06ff7e5e737a242a9d29d9656)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -128,6 +129,7 @@
 - [ ] [<code>Allow horizontal scroll in ListView (#2793)</code>](https://github.com/elementary/files/commit/29f47c211fa6e8eae6d35e54e7b20bc902657533)
 - [ ] [<code>Indicate presence of undisplayed hidden files with empty message (#2663)</code>](https://github.com/elementary/files/commit/936d66b24609341bb371ac972cef9293f32b5436)
 - [ ] [<code>DndHandler & AbstractDirectoryView cleanup (#2792)</code>](https://github.com/elementary/files/commit/a3d5863bade83296944f8c6a3c9914b00a531499)
+- [ ] [<code>Change the shortcut for Focus Sidebar to not interfere with text editing (#2796)</code>](https://github.com/elementary/files/commit/41febf9055f349f924d75246e0f58d9e444e54d9)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
