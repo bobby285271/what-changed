@@ -471,6 +471,15 @@
 - [ ] [<code>XfwMonitor: Fix (xdg_)output_done event handling</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/20e9db45ffe1893bc2027ebd4e07b67b4bd60e63)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/63183b2d22d2b0407d41e586eb2b2d73485d085e)
 - [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0068e9141a56735134b3c24d28917104d573483d)
+- [ ] [<code>Add missing "New in 4.20.6" docs section</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/d9bcb4a3a9fd5cb29b2da2fbb711e6dc9f568848)
+- [ ] [<code>Add xfw_screen_get_monitor_for_gdk_monitor()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c68b87c5ef87d7cee5c5a7f0dc90f1b6088c7aff)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/04b6c7aae9797c75e7eef96457d7e93b68c36b49)
+  - <sub>Tags: <code>libxfce4windowing-4.20.6</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1ec5a0bb973837653c7363b25f33d480c7230470)
+  - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1721,6 +1730,12 @@
 - [ ] [<code>xfconfd: Fix handling of out parameter</code>](https://github.com/xfce-mirror/xfconf/commit/50008d0abc641efe7c68e734f3bab7597fa00418)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfconf/commit/06cc14950f16e946d303207e6b33baee040796dc)
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/xfconf/commit/6655bb3f37eaf1d67269f46f29bd42e55d59c0bf)
+- [ ] [<code>xfconf-query: Deprecate and ignore --create</code>](https://github.com/xfce-mirror/xfconf/commit/db1ee15e32808f7ad9f3fe79b5f6b3b268a0bc92)
+- [ ] [<code>xfconf-query: Add a minimal check on property name</code>](https://github.com/xfce-mirror/xfconf/commit/ac6820bdc2d6553e19ecb4578c7ee5a9861b4ca0)
+- [ ] [<code>xfconf-query: Add minimal hint to set arrays</code>](https://github.com/xfce-mirror/xfconf/commit/6def499aa58f2c1dabf85b80a2f239f441d2c927)
+- [ ] [<code>xfconf-query: Add --list-types option</code>](https://github.com/xfce-mirror/xfconf/commit/bff9e9c76eaf1897083c5610a9fe92b01118058e)
+- [ ] [<code>xfconf-query: Fix use of xfconf_channel_get_properties</code>](https://github.com/xfce-mirror/xfconf/commit/e6d2f047cfe8591851138565f26b9a0eec59cb0b)
+- [ ] [<code>docs: Fix xfconf_list_channels return value</code>](https://github.com/xfce-mirror/xfconf/commit/eeba8ddeda1464289e24e8e3a8327e12df6d0c53)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
@@ -1824,6 +1839,8 @@
 - [ ] [<code>Fix folder string being NULL in error popup in desktop settings</code>](https://github.com/xfce-mirror/xfdesktop/commit/c8fb77408db986c0e2065a936b3294d17fff803c)
 - [ ] [<code>Fix dimensions in xfce-shapes backgound image</code>](https://github.com/xfce-mirror/xfdesktop/commit/0f70f8baa528bfe371963e4a9f095f0e23333a80)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/97cf10aec2a64388b0a9ee6814bb41b7989bd1a5)
+- [ ] [<code>Use XfwMonitor in backdrop settings instead of GdkMonitor</code>](https://github.com/xfce-mirror/xfdesktop/commit/5756e94d16fd830e8ab086151580d2e92b9e84c3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
