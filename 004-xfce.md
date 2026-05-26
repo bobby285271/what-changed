@@ -1736,6 +1736,7 @@
 - [ ] [<code>xfconf-query: Add --list-types option</code>](https://github.com/xfce-mirror/xfconf/commit/bff9e9c76eaf1897083c5610a9fe92b01118058e)
 - [ ] [<code>xfconf-query: Fix use of xfconf_channel_get_properties</code>](https://github.com/xfce-mirror/xfconf/commit/e6d2f047cfe8591851138565f26b9a0eec59cb0b)
 - [ ] [<code>docs: Fix xfconf_list_channels return value</code>](https://github.com/xfce-mirror/xfconf/commit/eeba8ddeda1464289e24e8e3a8327e12df6d0c53)
+- [ ] [<code>xfconf-query: Print also the value type if --verbose is specified twice</code>](https://github.com/xfce-mirror/xfconf/commit/884225de06ab3cc2c147e80f19d55cde99e31b41)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
