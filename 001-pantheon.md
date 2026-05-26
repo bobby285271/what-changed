@@ -365,6 +365,8 @@
 - [ ] [<code>introduce MainWindow.get_page ()</code>](https://github.com/elementary/terminal/commit/81edaa58a4123af43dbc577d5b990fbe5228f8ce)
 - [ ] [<code>Show tab numbers with shortcut (#1009)</code>](https://github.com/elementary/terminal/commit/532407c956246a265615b68bc2dcf879a190dbb9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add RequestAttention DBus method for tabs needing input (#1010)</code>](https://github.com/elementary/terminal/commit/fb1c8cd401f215c1cefc145783c9894c59e5a495)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
