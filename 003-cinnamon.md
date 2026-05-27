@@ -269,6 +269,11 @@
 - [ ] [<code>Add cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon/commit/b780321697ddc1c13755743d7aa6ac8e1561c549)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>cinnamon-screenshot.c: Don't apply ssd shadow for tiled, maximized</code>](https://github.com/linuxmint/cinnamon/commit/607217b8f2127fc306e30a578d85b0b70f168b57)
+- [ ] [<code>screenshot.js: Some cleanup, remove unused, stop using Lang.bind,</code>](https://github.com/linuxmint/cinnamon/commit/37b63ca711726f1bb84f1d03cd595646b1817b6c)
+- [ ] [<code>screenshots: Allow window selection instead of always using the</code>](https://github.com/linuxmint/cinnamon/commit/dc93701f8fa2bde877c35052d6f624f12fb3819e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenshot.js: Don't allow keybindings during screenshot interaction.</code>](https://github.com/linuxmint/cinnamon/commit/1511bd1936bde19edc58f8d37515b9a7a3744856)
+- [ ] [<code>cinnamon-calendar-server.py: Allow ICal 4.0.</code>](https://github.com/linuxmint/cinnamon/commit/085d07cd232625bd86006ff443fba8a11936d6ea)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -641,8 +646,10 @@
 - [ ] [<code>screenshot.c: Fix failure handling for xfce sessions, use correct</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/03f4df9773e8ee0c7e47bc4fee239f11f28d06d8)
 - [ ] [<code>wallpaper.c: Fix wrong return code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9701c70e88f9d220a1b4dd42ae182e6da3e587ff)
 - [ ] [<code>screenshot: Adapt to cinnamon-screensaver, update interface version.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/782e2536f0551cdd4b9ee024c1eca049e6005368)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>screenshot.c: Add support for Cinnamon's window-selection.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c615880e2fa364a7f5051aa44428bdf91bc7ab9)
+- [ ] [<code>screenshot.c: Support the 'target' option with xfce4-screenshooter.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/119f11dd653fc60ecaffe110730bdd1adf8ce1cf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
