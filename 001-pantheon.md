@@ -986,6 +986,9 @@
   - <sub>Tags: <code>8.1.1-rc1</code></sub>
 - [ ] [<code>Add OS 9 Daily (#796)</code>](https://github.com/elementary/os/commit/4f0df24bc6b84a3b2942e5c3638cd79fbd9efb73)
 - [ ] [<code>Fix workflow file extension (#801)</code>](https://github.com/elementary/os/commit/8e470208cae786759c87e16c9f508ca13381030f)
+- [ ] [<code>build: Update debootstrap symlink to resolute (#804)</code>](https://github.com/elementary/os/commit/565e3e40d82cd6191dfb5ba33298ffe881ece7fe)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>package-lists: Update package name of Broadcom STA Wireless driver (#806)</code>](https://github.com/elementary/os/commit/4b87836dd1a444f1248205c469bf5ed31f93a9fb)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
