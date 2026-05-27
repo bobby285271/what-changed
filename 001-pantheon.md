@@ -130,6 +130,7 @@
 - [ ] [<code>Indicate presence of undisplayed hidden files with empty message (#2663)</code>](https://github.com/elementary/files/commit/936d66b24609341bb371ac972cef9293f32b5436)
 - [ ] [<code>DndHandler & AbstractDirectoryView cleanup (#2792)</code>](https://github.com/elementary/files/commit/a3d5863bade83296944f8c6a3c9914b00a531499)
 - [ ] [<code>Change the shortcut for Focus Sidebar to not interfere with text editing (#2796)</code>](https://github.com/elementary/files/commit/41febf9055f349f924d75246e0f58d9e444e54d9)
+- [ ] [<code>Do not use deprecated DragAction.PRIVATE (#2799)</code>](https://github.com/elementary/files/commit/fe1651926fa37149f66b82885eedb4eed562641f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
