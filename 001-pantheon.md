@@ -201,6 +201,9 @@
 - [ ] [<code>Remove some whitespaces</code>](https://github.com/elementary/monitor/commit/69ee1396f6297d2a0486b2ac4b023e376a16b554)
 - [ ] [<code>Rename OpenFilesTreeViewModel.vala to OpenFile.vala for clarity</code>](https://github.com/elementary/monitor/commit/8d0658f81b4228d6313b98fff83c70442fedf272)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Port ProcessTreeView to GTK4 (#525)</code>](https://github.com/elementary/monitor/commit/ec1511d969ede195b52dec7f0e8f27e911e96472)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -437,6 +440,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Apply scaling to virtual monitor reported size (#439)</code>](https://github.com/elementary/settings-display/commit/edeec6371a42dd84f9d4af632a0ffdc8d1d6f526)
+- [ ] [<code>Get `gala_dbus` proxy in instance construct; rescan in callback (#444)</code>](https://github.com/elementary/settings-display/commit/7ffd0a4592f8609cba8947804d8aff81f54d7d46)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
