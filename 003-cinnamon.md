@@ -355,6 +355,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/3fc3b0148ce7f12e79a149a96eef6cae36171bac)
   - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add  xfce4-notifyd to -blacklist in SessionManager schema (#203)</code>](https://github.com/linuxmint/cinnamon-session/commit/b19e5abac14da999f42e9df9d62b7d1aa0aade8e)
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -594,8 +595,10 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>3.3.1-unstable</code>](https://github.com/linuxmint/xapp/commit/0a429364f7d2f8e4fad0a3e409a3a22729be4cd4)
-  - <sub>Tags: <code>3.3.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add libgtk-layer-shell-dev to control file (#203)</code>](https://github.com/linuxmint/xapp/commit/f2cd3c25eb7d8ba08cd1da83d7f80f14b9eb2bf9)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.5...HEAD)
 
