@@ -917,6 +917,9 @@
 - [ ] [<code>Prevent Criticals in some use-cases (#1799)</code>](https://github.com/xfce-mirror/thunar/commit/ebad860c53def0d7562a00b4349e7e695aa07a0b)
 - [ ] [<code>Check/Update view-type on reload (#1799)</code>](https://github.com/xfce-mirror/thunar/commit/8ef0066e065bd1cfa90d9ba2b93551a3cdff60f4)
 - [ ] [<code>Remove redund. toggle-sort-order menu item (#1839)</code>](https://github.com/xfce-mirror/thunar/commit/bef3a19169f8fb02fedcb5158464d3d01fa678e6)
+- [ ] [<code>Make use of generic libxfce4ui order-editor</code>](https://github.com/xfce-mirror/thunar/commit/7d7860e955c0f60c642e7ea2e670ddd3da91e7da)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove unused entry from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/a65e78298417e3675c0b2d6f3ad849dc63993394)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1649,6 +1652,18 @@
 - [ ] [<code>keyboard-settings: Fix typo</code>](https://github.com/xfce-mirror/xfce4-settings/commit/1596759c8f90b8614df42e384b6b8ca233bab295)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>settings-editor: Search also in values when typing text in search entry</code>](https://github.com/xfce-mirror/xfce4-settings/commit/d10cf85250d023fc1f76952498377c004e997395)
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a478eee60acf90f18604c0e4a7d46cfffd8f613d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0f498cd6d5a4ab191edddf1a673a7cdbca18f0dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix signal_canonical_name</code>](https://github.com/xfce-mirror/xfce4-settings/commit/165b9968f50475d6988e6077caf0f9a715de8d48)
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7ffa6a5c96a0ee12f436034ce3e1a3873eae509e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfce4-settings/commit/e36195a9796b4d9bb704284b4953d806c6abfaa4)
+- [ ] [<code>gobject-linter: Fix use_g_value_set_static_string</code>](https://github.com/xfce-mirror/xfce4-settings/commit/c6e9877a29346bfd98f3423a99db77afd7c691ce)
+- [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/60c38944e7a08092b4ad640bafee5c62643f3a1f)
+- [ ] [<code>gobject-linter: Fix use_g_new</code>](https://github.com/xfce-mirror/xfce4-settings/commit/50e4faa812c3d72926e394a4cf57c65c7642b998)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7996c27ef228954066f365673e3a001c32c9dd98)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -1737,6 +1752,13 @@
 - [ ] [<code>xfconf-query: Fix use of xfconf_channel_get_properties</code>](https://github.com/xfce-mirror/xfconf/commit/e6d2f047cfe8591851138565f26b9a0eec59cb0b)
 - [ ] [<code>docs: Fix xfconf_list_channels return value</code>](https://github.com/xfce-mirror/xfconf/commit/eeba8ddeda1464289e24e8e3a8327e12df6d0c53)
 - [ ] [<code>xfconf-query: Print also the value type if --verbose is specified twice</code>](https://github.com/xfce-mirror/xfconf/commit/884225de06ab3cc2c147e80f19d55cde99e31b41)
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfconf/commit/2758596bc0747f48436a6be7ba7a524faf5a40aa)
+- [ ] [<code>Do not compare gboolean to TRUE or FALSE</code>](https://github.com/xfce-mirror/xfconf/commit/2fc4d767566ab749851caa940e1f6bf8d4a0ba68)
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/xfconf/commit/05e6ed78f57535666858fa2f066acf2a80aa77ea)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/xfconf/commit/f1ad1341e44ad8c30c09d844ba520ca79c687db4)
+- [ ] [<code>gobject-linter: Fix inconsistent_function_signature</code>](https://github.com/xfce-mirror/xfconf/commit/db57e0b83340882c67dfee65df69dffb2e943d17)
+- [ ] [<code>gobject-linter: Comply with naming conventions</code>](https://github.com/xfce-mirror/xfconf/commit/0d11becd058cfc1c0cca946e9eadccc96d204069)
+- [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/xfconf/commit/7abb36d1e0991efe8f715d149662005f370f3f1c)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
