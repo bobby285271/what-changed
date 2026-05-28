@@ -281,6 +281,8 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>fix column (#2510)</code>](https://github.com/alainm23/planify/commit/dd760d78fcef2a61e4d27750f69a92a5982233dd)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: improve drag & drop reliability and visual feedback in ReorderChild (#2519)</code>](https://github.com/alainm23/planify/commit/feaa63696df9c5e726491ebae4666bc62c531368)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
