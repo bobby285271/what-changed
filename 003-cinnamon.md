@@ -525,8 +525,13 @@
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-main-application.c: When selecting files from the commandline,</code>](https://github.com/linuxmint/nemo/commit/bc2579a3a2b4355d080b316906aa528f96391993)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>nemo-main.c: Tune allocator behavior, call malloc_trim() when</code>](https://github.com/linuxmint/nemo/commit/b4e602c451662af9989cde2ad9f945f05061e9bf)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Modernize post-install.</code>](https://github.com/linuxmint/nemo/commit/e4f9b5a73a003e67457f9f255294f2cdb28de297)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
