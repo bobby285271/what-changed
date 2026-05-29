@@ -921,6 +921,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove unused entry from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/a65e78298417e3675c0b2d6f3ad849dc63993394)
 - [ ] [<code>Update POTFILES.in according to recent commit</code>](https://github.com/xfce-mirror/thunar/commit/9c3f85d94822f382887db821fc3d0496b2c304e1)
+- [ ] [<code>Prevent possible leak in tree-view</code>](https://github.com/xfce-mirror/thunar/commit/1511b840de2a18e68b5ed7739cba2e8b551630bb)
+- [ ] [<code>Remove unused entries from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/80e09c23506e7dedf0e1182d8e3f507a4b2b8497)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
