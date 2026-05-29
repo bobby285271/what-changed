@@ -920,6 +920,7 @@
 - [ ] [<code>Make use of generic libxfce4ui order-editor</code>](https://github.com/xfce-mirror/thunar/commit/7d7860e955c0f60c642e7ea2e670ddd3da91e7da)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove unused entry from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/a65e78298417e3675c0b2d6f3ad849dc63993394)
+- [ ] [<code>Update POTFILES.in according to recent commit</code>](https://github.com/xfce-mirror/thunar/commit/9c3f85d94822f382887db821fc3d0496b2c304e1)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
