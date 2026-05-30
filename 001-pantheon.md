@@ -132,6 +132,7 @@
 - [ ] [<code>DndHandler & AbstractDirectoryView cleanup (#2792)</code>](https://github.com/elementary/files/commit/a3d5863bade83296944f8c6a3c9914b00a531499)
 - [ ] [<code>Change the shortcut for Focus Sidebar to not interfere with text editing (#2796)</code>](https://github.com/elementary/files/commit/41febf9055f349f924d75246e0f58d9e444e54d9)
 - [ ] [<code>Do not use deprecated DragAction.PRIVATE (#2799)</code>](https://github.com/elementary/files/commit/fe1651926fa37149f66b82885eedb4eed562641f)
+- [ ] [<code>Correct RTL accelerator arrow keys (#2797)</code>](https://github.com/elementary/files/commit/7fa19b2fa3e7c54999d28289617561a420041587)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -523,6 +524,7 @@
 - [ ] [<code>Add Inkscape info, off and on icons (mostly symlinks) (#1408)</code>](https://github.com/elementary/icons/commit/726f1b1db65baee5de3834497f427274d8268134)
 - [ ] [<code>Places: update symbolic icons for gtk 4.22 (#1421)</code>](https://github.com/elementary/icons/commit/2dfc453f0c86a12a926d8ba5d7132c52cf3d7234)
 - [ ] [<code>Status: update symbolic icons for gtk 4.22 (#1422)</code>](https://github.com/elementary/icons/commit/bb3c9c6c82d5cd56de5822efaa5e534bd650fe87)
+- [ ] [<code>Emotes: update symbolic icons for gtk 4.22 (#1423)</code>](https://github.com/elementary/icons/commit/b1cb3d647db186fe3d552f451b5d7ee496db7300)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
