@@ -1314,6 +1314,14 @@
 - [ ] [<code>panel: Set itembar clip when allocating window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d770a81d96d6af3bd7e9d67a7c38f29e297241bd)
 - [ ] [<code>icons: Fix non-zero page opacity</code>](https://github.com/xfce-mirror/xfce4-panel/commit/e74a9573bd7a6278f7ee8bf524b72ce60886226a)
 - [ ] [<code>panel: Use same code to cleanup plugin config everywhere</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a9609a56da6992af4f69a6c9bea2dfa01faa2249)
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfce4-panel/commit/93f51aa426b6b9a37253fb492997b3db79f6a1a1)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3795a0d1a94fc84c65fd0228fe022fdcdc8977d6)
+- [ ] [<code>gobject-linter: Fix signal_canonical_name</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d19eab451ac7d70bcbb200ac89b7806186659ca1)
+- [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ce1da4cf419bc04e991f04a2986c1b9d4a9dd6d5)
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c12da0c1016f67c24aa1f24e6ca87eb62c75fdf9)
+- [ ] [<code>gobject-linter: Fix missing_implementation</code>](https://github.com/xfce-mirror/xfce4-panel/commit/235fffccf5aec490550a77de34517b176994140a)
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a60d4c4eb90c6dcf989ae81c9a0f80b10984eab2)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-panel/commit/40eff2bbefa9ef1f1d4ca7c97b18304c0a145ab0)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1667,6 +1675,7 @@
 - [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/60c38944e7a08092b4ad640bafee5c62643f3a1f)
 - [ ] [<code>gobject-linter: Fix use_g_new</code>](https://github.com/xfce-mirror/xfce4-settings/commit/50e4faa812c3d72926e394a4cf57c65c7642b998)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7996c27ef228954066f365673e3a001c32c9dd98)
+- [ ] [<code>dialogs/display-settings: Fix possible arithmetic exception</code>](https://github.com/xfce-mirror/xfce4-settings/commit/da5301c7632b11f5c3423850bdebb44b2f3af618)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
