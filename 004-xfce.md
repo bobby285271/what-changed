@@ -923,6 +923,7 @@
 - [ ] [<code>Update POTFILES.in according to recent commit</code>](https://github.com/xfce-mirror/thunar/commit/9c3f85d94822f382887db821fc3d0496b2c304e1)
 - [ ] [<code>Prevent possible leak in tree-view</code>](https://github.com/xfce-mirror/thunar/commit/1511b840de2a18e68b5ed7739cba2e8b551630bb)
 - [ ] [<code>Remove unused entries from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/80e09c23506e7dedf0e1182d8e3f507a4b2b8497)
+- [ ] [<code>Allow to use mnemonics on bookmarks (#1841)</code>](https://github.com/xfce-mirror/thunar/commit/730dc7d3edf6167a274a144843cc0acec68f16de)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1323,6 +1324,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a60d4c4eb90c6dcf989ae81c9a0f80b10984eab2)
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-panel/commit/40eff2bbefa9ef1f1d4ca7c97b18304c0a145ab0)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-panel/commit/15e4c77922efc89d1736131e4da771da11536494)
+- [ ] [<code>gobject_linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/dce96a4140dd91fe0218c8e2ea29aac2f7e808db)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1678,6 +1680,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7996c27ef228954066f365673e3a001c32c9dd98)
 - [ ] [<code>dialogs/display-settings: Fix possible arithmetic exception</code>](https://github.com/xfce-mirror/xfce4-settings/commit/da5301c7632b11f5c3423850bdebb44b2f3af618)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-settings/commit/52d834627d2fa2c87df7316ca289be45d5016b25)
+- [ ] [<code>gobject_linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2b14d15077cf4004b8767e875dabb8948f3944dd)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
