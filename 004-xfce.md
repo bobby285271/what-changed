@@ -1322,6 +1322,7 @@
 - [ ] [<code>gobject-linter: Fix missing_implementation</code>](https://github.com/xfce-mirror/xfce4-panel/commit/235fffccf5aec490550a77de34517b176994140a)
 - [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a60d4c4eb90c6dcf989ae81c9a0f80b10984eab2)
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-panel/commit/40eff2bbefa9ef1f1d4ca7c97b18304c0a145ab0)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-panel/commit/15e4c77922efc89d1736131e4da771da11536494)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1676,6 +1677,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_new</code>](https://github.com/xfce-mirror/xfce4-settings/commit/50e4faa812c3d72926e394a4cf57c65c7642b998)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7996c27ef228954066f365673e3a001c32c9dd98)
 - [ ] [<code>dialogs/display-settings: Fix possible arithmetic exception</code>](https://github.com/xfce-mirror/xfce4-settings/commit/da5301c7632b11f5c3423850bdebb44b2f3af618)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-settings/commit/52d834627d2fa2c87df7316ca289be45d5016b25)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
