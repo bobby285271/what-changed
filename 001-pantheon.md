@@ -133,6 +133,7 @@
 - [ ] [<code>Change the shortcut for Focus Sidebar to not interfere with text editing (#2796)</code>](https://github.com/elementary/files/commit/41febf9055f349f924d75246e0f58d9e444e54d9)
 - [ ] [<code>Do not use deprecated DragAction.PRIVATE (#2799)</code>](https://github.com/elementary/files/commit/fe1651926fa37149f66b82885eedb4eed562641f)
 - [ ] [<code>Correct RTL accelerator arrow keys (#2797)</code>](https://github.com/elementary/files/commit/7fa19b2fa3e7c54999d28289617561a420041587)
+- [ ] [<code>Update screenshots for Grid and Column views to show new features (#2804)</code>](https://github.com/elementary/files/commit/c1206d68753c353d5726404944ac233fd1658cc3)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
