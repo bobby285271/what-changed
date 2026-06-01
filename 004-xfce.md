@@ -480,6 +480,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1ec5a0bb973837653c7363b25f33d480c7230470)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix fallback icons for pixmaps path</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b3bf5f90136d72d039b86db80f68eb84d56d5566)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1681,6 +1682,8 @@
 - [ ] [<code>dialogs/display-settings: Fix possible arithmetic exception</code>](https://github.com/xfce-mirror/xfce4-settings/commit/da5301c7632b11f5c3423850bdebb44b2f3af618)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-settings/commit/52d834627d2fa2c87df7316ca289be45d5016b25)
 - [ ] [<code>gobject_linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2b14d15077cf4004b8767e875dabb8948f3944dd)
+- [ ] [<code>Revert "dialogs/display-settings: Fix possible arithmetic exception"</code>](https://github.com/xfce-mirror/xfce4-settings/commit/64571d28bc218da6f9457631d8dc36206e37fb54)
+- [ ] [<code>wayland: Set mode dimensions to 1x1 if width or height <= 0</code>](https://github.com/xfce-mirror/xfce4-settings/commit/02162a63e446a5d3a4c9cb9aaf5aea3cd76b6d16)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
