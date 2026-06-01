@@ -331,7 +331,7 @@
 - [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/bytepixie/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
 - [ ] [<code>Add project status to README.md</code>](https://github.com/bytepixie/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
 
-#### [spice-up](https://github.com/Philip-Scott/Spice-up): [1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/1.9.1...HEAD)
+#### [spice-up](https://github.com/Philip-Scott/Spice-up): [refs/tags/1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/refs/tags/1.9.1...HEAD)
 
 - [ ] [<code>AppData: Add legacy RDNN to provides tag (#326)</code>](https://github.com/Philip-Scott/Spice-up/commit/56647140c7725d0ec6c450eda1756eeea6fc766b)
 
