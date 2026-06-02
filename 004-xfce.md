@@ -1784,6 +1784,12 @@
 - [ ] [<code>gobject-linter: Fix inconsistent_function_signature</code>](https://github.com/xfce-mirror/xfconf/commit/db57e0b83340882c67dfee65df69dffb2e943d17)
 - [ ] [<code>gobject-linter: Comply with naming conventions</code>](https://github.com/xfce-mirror/xfconf/commit/0d11becd058cfc1c0cca946e9eadccc96d204069)
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/xfconf/commit/7abb36d1e0991efe8f715d149662005f370f3f1c)
+- [ ] [<code>xfconf-query: Add --export and --import options</code>](https://github.com/xfce-mirror/xfconf/commit/2918ab1072bca10fb89c1d653741529680b4e8a0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfconf/commit/bb1895a893c40ca799af4d7ac17c297a7849335e)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfconf/commit/47c78ed6da94f1e8468a1608dd31a1e4fdce26da)
+- [ ] [<code>Use already defined _xfconf_gvalue_free</code>](https://github.com/xfce-mirror/xfconf/commit/5df078a7295e5c5b966b5b87bdc69e9434751ebd)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfconf/commit/bd47d658a55e369bdb247152e32e3da6e1cd04a8)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
