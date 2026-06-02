@@ -264,7 +264,7 @@
 - [ ] [<code>screenshot: SSD, clean up corners when no shadows are requested</code>](https://github.com/linuxmint/cinnamon/commit/d88fe5c10f3ad92ae3a2399daacd30079f698154)
 - [ ] [<code>screenshot: Switch to org.cinnamon.Screenshot DBUS interface</code>](https://github.com/linuxmint/cinnamon/commit/d8d166ace11fe9be142cf46c511afa1bacebd11f)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon/commit/124e0356fd59936e45062b013fcb86303095276c)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon/commit/b780321697ddc1c13755743d7aa6ac8e1561c549)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
@@ -274,6 +274,20 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenshot.js: Don't allow keybindings during screenshot interaction.</code>](https://github.com/linuxmint/cinnamon/commit/1511bd1936bde19edc58f8d37515b9a7a3744856)
 - [ ] [<code>cinnamon-calendar-server.py: Allow ICal 4.0.</code>](https://github.com/linuxmint/cinnamon/commit/085d07cd232625bd86006ff443fba8a11936d6ea)
+- [ ] [<code>cinnamon-screenshot: Remove About dialog.</code>](https://github.com/linuxmint/cinnamon/commit/318a5f989e627aec6d5c94d7507a38ef7d34d9df)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Modernize post-install.</code>](https://github.com/linuxmint/cinnamon/commit/ee98c76a0fd5f49845efb2e63346ce6ac9f07333)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>calendar@cinnamon.org: Apply 'grow-only' behavior to the panel</code>](https://github.com/linuxmint/cinnamon/commit/1b09250bff44596557cc37e37f8a05eab38cbef0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add some options to cinnamon-screenshot (#13782)</code>](https://github.com/linuxmint/cinnamon/commit/da085ba1ac27836f4cd798ca7d086f719332104c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenshot: Allow autosave-to-clipboard to work regardless of</code>](https://github.com/linuxmint/cinnamon/commit/81238b7d7e9b99f4e7996247e07b0697060d724d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenshot: Don't use Gtk.Application, don't build the window before</code>](https://github.com/linuxmint/cinnamon/commit/45dd23f16a02adbb8875cb9d43d15979ae40ac3b)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -353,9 +367,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>wayland: Terminate the session if cinnamon-wayland fails to load</code>](https://github.com/linuxmint/cinnamon-session/commit/1c424d3e9ff4cb07b3e32f48cfb5d65fb0a002a2)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/3fc3b0148ce7f12e79a149a96eef6cae36171bac)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add  xfce4-notifyd to -blacklist in SessionManager schema (#203)</code>](https://github.com/linuxmint/cinnamon-session/commit/b19e5abac14da999f42e9df9d62b7d1aa0aade8e)
+- [ ] [<code>session: Add graphical-session.target support (#204)</code>](https://github.com/linuxmint/cinnamon-session/commit/e01c8c37f6bb5458cc8f38ad73e23d232e7f932a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -468,8 +486,10 @@
 - [ ] [<code>layer-shell: Allow indirect popups from layer-shell clients that</code>](https://github.com/linuxmint/muffin/commit/206c0ae9715fab88f258a04de97136533d3cf89d)
 - [ ] [<code>clutter-offscreen-effect.c: Fix offset for asymmetric paint volumes.</code>](https://github.com/linuxmint/muffin/commit/c4d4924e1f5db2d8f06b94485862aef9ca8ca1cb)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/muffin/commit/1b07851c8440bfe05e2c94dab3c05b4bf3bfa644)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>compositor.c (x11): Sink the background actors to the bottom of</code>](https://github.com/linuxmint/muffin/commit/babfe8a9e1312bb98562fcedae5142937f70d414)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -529,9 +549,11 @@
 - [ ] [<code>nemo-main.c: Tune allocator behavior, call malloc_trim() when</code>](https://github.com/linuxmint/nemo/commit/b4e602c451662af9989cde2ad9f945f05061e9bf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>build: Modernize post-install.</code>](https://github.com/linuxmint/nemo/commit/e4f9b5a73a003e67457f9f255294f2cdb28de297)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix duplicate conflict dialog when moving files across volumes (#3772)</code>](https://github.com/linuxmint/nemo/commit/a4b2add54b1f687cd6ba11386c5d83cfdbaf9551)
+- [ ] [<code>filter-view: Explicitly select the first item when filtering is</code>](https://github.com/linuxmint/nemo/commit/bc0c8cc8e252701dccd7a5e4e61b7fbf7b838a7b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
