@@ -78,6 +78,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/garcon/commit/e5faadf66c43eb06ea66edc641599ddf41274a55)
 - [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/garcon/commit/bafe2e87cf593d5251bb2a0a798dc8b1e1b06ce8)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/garcon/commit/5bcd4ba118d96156807b4184a969f20c4155dd04)
+- [ ] [<code>Remove _garcon_g_s?list_free_full</code>](https://github.com/xfce-mirror/garcon/commit/7642c6151786dc344d037efa5095a7f86b8847a1)
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/garcon/commit/30887235afe9cef9ef06bb3c0f4e224e5f6c9d35)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/garcon/commit/3d9b1a9fde7ef02905e08c252185f89e1ada0da3)
+- [ ] [<code>gobject-linter: Fix property_enum_coverage</code>](https://github.com/xfce-mirror/garcon/commit/f670b86893bebb315d4abd0897bc5f8f3ebd7a92)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
