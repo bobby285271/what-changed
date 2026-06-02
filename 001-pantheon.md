@@ -935,6 +935,7 @@
 - [ ] [<code>Bump to Granite 7 (#225)</code>](https://github.com/elementary/settings-daemon/commit/ad9c288867c155fa972c04d65b8c2e1598762d02)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Let PackageKit trigger check_for_updates (#234)</code>](https://github.com/elementary/settings-daemon/commit/817dbc8a078d43507b0747904d931b7dfa4c3ee7)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
