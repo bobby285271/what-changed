@@ -283,6 +283,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: improve drag & drop reliability and visual feedback in ReorderChild (#2519)</code>](https://github.com/alainm23/planify/commit/feaa63696df9c5e726491ebae4666bc62c531368)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>complate zh.po translate (#2521)</code>](https://github.com/alainm23/planify/commit/84a6c4494ba24b2c2a70b396774da79429958d54)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
