@@ -553,6 +553,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix duplicate conflict dialog when moving files across volumes (#3772)</code>](https://github.com/linuxmint/nemo/commit/a4b2add54b1f687cd6ba11386c5d83cfdbaf9551)
 - [ ] [<code>filter-view: Explicitly select the first item when filtering is</code>](https://github.com/linuxmint/nemo/commit/bc0c8cc8e252701dccd7a5e4e61b7fbf7b838a7b)
+- [ ] [<code>Bugfix: rename replaces parent directory (issue #3750) (#3751)</code>](https://github.com/linuxmint/nemo/commit/9f8d0ec68974768afbaeaddaf357bf2dcfdb8965)
+- [ ] [<code>nemo-file-conflict-dialog.c: Disable all responses except cancel</code>](https://github.com/linuxmint/nemo/commit/73dd03ad7f497cdd36f7867ab94563b0f849c7a0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
