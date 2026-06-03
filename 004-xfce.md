@@ -1437,6 +1437,8 @@
 - [ ] [<code>brightness: Lower default min brightness to 1%</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e3de5f2ebe8184e39124d9c355fb4edb9cc6b5f2)
 - [ ] [<code>settings: Move brightness control to display tab</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/05ba113fd8340068735a532c66d4a73c3e17d765)
 - [ ] [<code>brightness: Don't make min level depend on step</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4f82ef90c2565d1cb2589527cebbdebe5a6b0019)
+- [ ] [<code>Refactor brightness notifications and notify when scrolling the plugin</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/9e92af29e1aac6ebaf1566eb5f8756686ffdb287)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
