@@ -1138,6 +1138,7 @@
 - [ ] [<code>doc: Update developer.xfce.org index</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/3bbac64b67336292a486b88e13960099f4f68dd8)
 - [ ] [<code>Update docker/docker-dind images for CI</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/1248a784753c20216f809359e29e18f07d4575f9)
 - [ ] [<code>xfce-build: add libxkbregistry-dev to container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/5b5dc8345eb6135480a2c9840e73884141649182)
+- [ ] [<code>Upgrade xfce-build container to Ubuntu 26.04 LTS</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c831aaa7f4cea0653445614d7467c1386709bc8b)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1439,6 +1440,13 @@
 - [ ] [<code>brightness: Don't make min level depend on step</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4f82ef90c2565d1cb2589527cebbdebe5a6b0019)
 - [ ] [<code>Refactor brightness notifications and notify when scrolling the plugin</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/9e92af29e1aac6ebaf1566eb5f8756686ffdb287)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Fix missing link to libdbus in common</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/4666484d052fea8393efbf2f3091b9ad83466154)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c02117723b96db66e0f4e6b1a72bd6214b26dbd6)
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/9585528c8715a8b3e183c78c352453b7b38f1030)
+- [ ] [<code>notify: Init notifications only in one place</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e3b6ccf6358e87dd6f46c1cf444e93b16428104b)
+- [ ] [<code>notify: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f1689adcdcd0fa4609cba1927f4a4c50b4596cda)
+- [ ] [<code>settings: Reveal show-brightness-popup</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/67384093448c0029368cd3f7b130f9aa22abbe99)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
