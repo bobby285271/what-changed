@@ -1147,6 +1147,16 @@
 - [ ] [<code>ci: scan-build related updates after switching to ubuntu 26.04</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/b9f601fe8da64b2fd3c6ac3b00510bd5ef0e4cfd)
 - [ ] [<code>ci: Make cppcheck cfg prefix configurable</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ea2fb5eded4887e54c8c5601855e7c7513def40d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Add rust & xfwl4 deps</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/fa5ce36afaff8f4c18acd323551ca891456e946b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/09f4381bb02807553433aedb1d715919998aee11)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c46e2482f1b973be8144e1597ca406b34d174ade)
+  - <sub>Tags: <code>xfce4-dev-tools-4.21.1</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/b692b37377b0cb2eba7bc4fa63b383958500e53a)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1343,6 +1353,18 @@
 - [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a6919b300eeabe03bcdf9f2c6c1ffc4964b61a32)
 - [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf9f1f05940fab5c9f7b418421dffd8c9ad302e1)
 - [ ] [<code>directorymenu: Add sorting option</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f87072de491613388d786b77a1f93d87a9af6570)
+- [ ] [<code>cppcheck: Add project config file</code>](https://github.com/xfce-mirror/xfce4-panel/commit/c1d387ba13b3594c0c787014ec4f34eeded48ed7)
+- [ ] [<code>cppcheck: Fix invalidScanfArgType_int</code>](https://github.com/xfce-mirror/xfce4-panel/commit/0abea6f60c6b5dd11d9cd86006a80ca0a1204354)
+- [ ] [<code>cppcheck: Fix redundantCondition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4c6d33bbbdd0a83584f6ac6720d5efede6d530cc)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3c660364e980c476bb1b07d25e2a2a3ba35f16e1)
+- [ ] [<code>cppcheck: Fix nullPointer</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a7f311e9781147b8b47a8835e74db52f71b35609)
+- [ ] [<code>cppcheck: Fix arrayIndexOutOfBounds</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bcfb6729690dab0b06350afea77ee407a80d6365)
+- [ ] [<code>cppcheck: Fix sizeofDivisionMemfunc</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9a3285033e34d1ecd1306aa028600ea06e02968f)
+- [ ] [<code>cppcheck: Fix duplicateConditionalAssign</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a074ba90f8981669ac9d18e409cb95640e6e360a)
+- [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f48e4936fde1b4b4abcc6c1cc550d0115c4789f4)
+- [ ] [<code>cppcheck: Fix mismatchAllocDealloc</code>](https://github.com/xfce-mirror/xfce4-panel/commit/37c126852f2c7598d9fe3c82c31d8c7c811a0eb8)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db16f730ee16afc69b33e6de9114be57849fc0d5)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1d8e307165884d7fbf73a6d068f38d6389360954)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1916,6 +1938,8 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/97cf10aec2a64388b0a9ee6814bb41b7989bd1a5)
 - [ ] [<code>Use XfwMonitor in backdrop settings instead of GdkMonitor</code>](https://github.com/xfce-mirror/xfdesktop/commit/5756e94d16fd830e8ab086151580d2e92b9e84c3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add ignore pattern for new version of gcc-analyzer</code>](https://github.com/xfce-mirror/xfdesktop/commit/dcedfce55686c5279b88add62659d857dcd59ab4)
+- [ ] [<code>And remove ignore pattern for new version of gcc-analyzer</code>](https://github.com/xfce-mirror/xfdesktop/commit/31919befc86bfbe8f903d1da10c465e150c6db10)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
