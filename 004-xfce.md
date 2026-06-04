@@ -1139,6 +1139,14 @@
 - [ ] [<code>Update docker/docker-dind images for CI</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/1248a784753c20216f809359e29e18f07d4575f9)
 - [ ] [<code>xfce-build: add libxkbregistry-dev to container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/5b5dc8345eb6135480a2c9840e73884141649182)
 - [ ] [<code>Upgrade xfce-build container to Ubuntu 26.04 LTS</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/c831aaa7f4cea0653445614d7467c1386709bc8b)
+- [ ] [<code>ci: Add cppcheck job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d7288459dd6352c2c4c1ff0163cb21ccb604c24d)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ci: gcc-analyzer related updates after switching to ubuntu 26.04</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/069421a0f973e99dc4e01ed0f05d6889d1f54bdf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ci: scan-build related updates after switching to ubuntu 26.04</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/b9f601fe8da64b2fd3c6ac3b00510bd5ef0e4cfd)
+- [ ] [<code>ci: Make cppcheck cfg prefix configurable</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ea2fb5eded4887e54c8c5601855e7c7513def40d)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1332,6 +1340,9 @@
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-panel/commit/40eff2bbefa9ef1f1d4ca7c97b18304c0a145ab0)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-panel/commit/15e4c77922efc89d1736131e4da771da11536494)
 - [ ] [<code>gobject_linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-panel/commit/dce96a4140dd91fe0218c8e2ea29aac2f7e808db)
+- [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a6919b300eeabe03bcdf9f2c6c1ffc4964b61a32)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf9f1f05940fab5c9f7b418421dffd8c9ad302e1)
+- [ ] [<code>directorymenu: Add sorting option</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f87072de491613388d786b77a1f93d87a9af6570)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
