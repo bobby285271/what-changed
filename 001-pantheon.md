@@ -135,6 +135,7 @@
 - [ ] [<code>Correct RTL accelerator arrow keys (#2797)</code>](https://github.com/elementary/files/commit/7fa19b2fa3e7c54999d28289617561a420041587)
 - [ ] [<code>Update screenshots for Grid and Column views to show new features (#2804)</code>](https://github.com/elementary/files/commit/c1206d68753c353d5726404944ac233fd1658cc3)
 - [ ] [<code>Get drop target file info on demand (#2798)</code>](https://github.com/elementary/files/commit/972eb725ee961198345384e4864a7c60dee84b0a)
+- [ ] [<code>ColumnView preview: fix reloading subfolder (#2790)</code>](https://github.com/elementary/files/commit/44262ffc8431d348c778f7ce67ba27e080624b08)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -274,6 +275,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/photos/commit/374823f7ec98825797e8a3fd2f9517d8fadbf1d2)
 - [ ] [<code>exiv2: Update v0.28.7.tar.gz to 0.28.8 (#837)</code>](https://github.com/elementary/photos/commit/5efa18d8d37092ae09f4e6cb8e165cedca4933ba)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#838)</code>](https://github.com/elementary/photos/commit/4a5d8c248004d722ce95173a5adbbd8f15122a79)
+- [ ] [<code>libghoto2: Update libgphoto2-2.5.33.tar.xz to 2.5.34 (#841)</code>](https://github.com/elementary/photos/commit/f0a58c3dd8547a1ec36c5a74d38719bca6929416)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.0 → HEAD](https://github.com/elementary/screenshot/compare/8.0.0...HEAD)
 
@@ -958,6 +960,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.2.0...HEAD)
 
+- [ ] [<code>Initialize gtk later (#190)</code>](https://github.com/elementary/portals/commit/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
