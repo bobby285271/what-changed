@@ -286,8 +286,14 @@
 - [ ] [<code>screenshot: Allow autosave-to-clipboard to work regardless of</code>](https://github.com/linuxmint/cinnamon/commit/81238b7d7e9b99f4e7996247e07b0697060d724d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenshot: Don't use Gtk.Application, don't build the window before</code>](https://github.com/linuxmint/cinnamon/commit/45dd23f16a02adbb8875cb9d43d15979ae40ac3b)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>dialogs: Convert some more system dialogs to PopupDialog. (#13722)</code>](https://github.com/linuxmint/cinnamon/commit/50eb7c3260c5f3bfbbb55cd5eafa59e3a8a53525)
+- [ ] [<code>Remove audioDeviceSelection dialog.</code>](https://github.com/linuxmint/cinnamon/commit/a30f3f59af1afeb3a1a7b4206e44ca1b076324ef)
+- [ ] [<code>_dialogs.scss: Remove shadow edge from popup dialogs.</code>](https://github.com/linuxmint/cinnamon/commit/31a716293113eb63d0099240381abd8b037f1b3a)
+- [ ] [<code>modalDialog.js: Remove on-screen-keyboard/lightbox workaround.</code>](https://github.com/linuxmint/cinnamon/commit/de330fe03bee067bb6adb2347fd418a42f5de8bb)
+- [ ] [<code>main.js: In _stageEventHandler, ignore modifier-only key-release</code>](https://github.com/linuxmint/cinnamon/commit/a64cefd7d5fe8b79d7abfa30076d8e85cd3e1e1a)
+- [ ] [<code>_dialogs.scss: Remove device-selection-dialog (ref: a30f3f5).</code>](https://github.com/linuxmint/cinnamon/commit/d405e44704c52e503ce67ee957de3337cb5863cb)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -425,10 +431,13 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
 - [ ] [<code>cinnamon: Adapt to PopupDialog changes.</code>](https://github.com/linuxmint/mint-l-theme/commit/7bc7688104f6d5dd83379dd3e023c3f3c43d0ff1)
+- [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-l-theme/commit/befefe02999d54434d69377cc04e71c05d02b3ed)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
 - [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
+- [ ] [<code>cinnamon: Get rid of popup-dialog's shadow.</code>](https://github.com/linuxmint/mint-themes/commit/1f786385bf01530426ebf7245a34ede3bd1f0e86)
+- [ ] [<code>cinnamon: Remove audio-device-selection-dialog.</code>](https://github.com/linuxmint/mint-themes/commit/0b320b989121e36d3961ed3cdf1fca8d9abeb277)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.6...HEAD)
