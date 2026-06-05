@@ -293,6 +293,7 @@
 - [ ] [<code>modalDialog.js: Remove on-screen-keyboard/lightbox workaround.</code>](https://github.com/linuxmint/cinnamon/commit/de330fe03bee067bb6adb2347fd418a42f5de8bb)
 - [ ] [<code>main.js: In _stageEventHandler, ignore modifier-only key-release</code>](https://github.com/linuxmint/cinnamon/commit/a64cefd7d5fe8b79d7abfa30076d8e85cd3e1e1a)
 - [ ] [<code>_dialogs.scss: Remove device-selection-dialog (ref: a30f3f5).</code>](https://github.com/linuxmint/cinnamon/commit/d405e44704c52e503ce67ee957de3337cb5863cb)
+- [ ] [<code>keyboardManager.js: Seed empty xkb-options when reading from the</code>](https://github.com/linuxmint/cinnamon/commit/c433277a0bdae78267e9814b2aebe9a246c40bd7)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -445,6 +446,26 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.2 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.2...HEAD)
 
+- [ ] [<code>Modified ms-edge.svg to match newer version. (#526)</code>](https://github.com/linuxmint/mint-y-icons/commit/02c4a9414526a58212cab2c671a4f9f5374a55be)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add CopyQ icon (#528)</code>](https://github.com/linuxmint/mint-y-icons/commit/d73b7aeb446f0768dc12a97a35fca7876935180f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update YouTube Icons (#530)</code>](https://github.com/linuxmint/mint-y-icons/commit/cb7630828e4840d20b750504011ceeae9c384448)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add FreeFileSync icons (#531)</code>](https://github.com/linuxmint/mint-y-icons/commit/f38ffb2b68844f1196cd117dbd1e46bf3f1f4cab)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add REAPER icon (#532)</code>](https://github.com/linuxmint/mint-y-icons/commit/bf1fccc9695984e1f43bbbcd84f2e500d0df49ad)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>added lunar_client icons (#538)</code>](https://github.com/linuxmint/mint-y-icons/commit/419b262b36897fcf3261c5eadbaf369e6827c24b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add DaVinci Resolve symbolic link (#540)</code>](https://github.com/linuxmint/mint-y-icons/commit/de6bbbc1c1d0666513f93a049cd26d45d0c566c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Google Gemini icon (#541)</code>](https://github.com/linuxmint/mint-y-icons/commit/1af1f1337224b48b1b72e54473218aba157f39f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Added symlinks for spotify-launcher and vesktop (#542)</code>](https://github.com/linuxmint/mint-y-icons/commit/50a7685c6f0fb3894dd9b06be677405ceb0739e5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add icon for Counter-Strike 2 (#548)</code>](https://github.com/linuxmint/mint-y-icons/commit/7ca40a75584dc5053d4f9f8e7d3bd7df4a9fcf6c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
