@@ -260,6 +260,16 @@
 - [ ] [<code>die-editor: show icon name in the tooltip (#145)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/57117dcd14c79671b2549ed51ec376bc4b368c25)
 - [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/libxfce4ui/commit/d976938fb23303ed682ae667dee72b8ce14b0b68)
 - [ ] [<code>die-editor: Improve Info for unknown icons (#145)</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f8325c921fa5091e6e7d5a3ba6a31ca1a79518bd)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f85d1a378178cb35bdb29d226f9465cb84ea2d38)
+- [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4ui/commit/da0b326e42607ec1c445c7b0e51a7f8306101b3c)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4ui/commit/979a09da4f87ddbafa71f9449658eb23c3bc0e39)
+- [ ] [<code>cppcheck: Fix nullPointerRedundantCheck</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a6f57e1ccff30af7dd1a98cf06e40d1055bd5056)
+- [ ] [<code>cppcheck: Fix nullPointer</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6e42116da8914b7334e4d4e344d4a7fe7ee07d41)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/libxfce4ui/commit/338b5c2daf74650badb9dd76412af583088df646)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/libxfce4ui/commit/bcbd043a3f47750ce23741175be2fbc1733ef8b8)
+- [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/libxfce4ui/commit/516fa8cbaab64da671ec36b7157cd24f9b76dfdb)
+- [ ] [<code>cppcheck: Fix varFuncNullUB</code>](https://github.com/xfce-mirror/libxfce4ui/commit/258fa2323bac517202e1ac5cff25d4e08c123743)
+- [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3cb4ef572326bfc343768f98ed49d101e6b3b855)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -486,6 +496,10 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix fallback icons for pixmaps path</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b3bf5f90136d72d039b86db80f68eb84d56d5566)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/412929b616fb5ad0572178003353e31d23cad432)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/feda1ff69653cd3f1891d12ee3a5ac80b668e509)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ee2bf685241e78a152b05d060571def2a50a1993)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/312ed4fde4cd319ce9a8b1a856fe5177e51a6a14)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1157,6 +1171,16 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/b692b37377b0cb2eba7bc4fa63b383958500e53a)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>ci: Add missing macro to cppcheck config file</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/0fe8ed1f60caa8ba7a6ae2405316a6e242763798)
+- [ ] [<code>ci: Loosen exclusion regex for gcc-analyzer a bit</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2fa0aedd8f40aac4fdd70fd56d6ad28a936968d3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ci: add analysis for rust</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/18c263e8af39e841d0eafe23560a90f8d14f3bb1)
+- [ ] [<code>ci: only run one meson build for rust projects</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a42ddda6cbbe23574c912e865dc962c678fbb36b)
+- [ ] [<code>ci: add build step for cargo-only projects</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/83518cc500e58e619e443b6896ac31615bb9f37a)
+- [ ] [<code>Update rust to 1.90.0</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2ef3b04f00b19055f4f5490e8a53abc44ff2e136)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: add dry-run publish step for cargo projects</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ecb16f156ce4edabc35004d8b03139c33584ecfc)
+- [ ] [<code>ci: run `cargo deny check advisories` for rust projects that use it</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bb08d00ba199275361fac5086978c32de78586c7)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1833,6 +1857,13 @@
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfconf/commit/47c78ed6da94f1e8468a1608dd31a1e4fdce26da)
 - [ ] [<code>Use already defined _xfconf_gvalue_free</code>](https://github.com/xfce-mirror/xfconf/commit/5df078a7295e5c5b966b5b87bdc69e9434751ebd)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfconf/commit/bd47d658a55e369bdb247152e32e3da6e1cd04a8)
+- [ ] [<code>build: Delete a forgotten Makefile</code>](https://github.com/xfce-mirror/xfconf/commit/cac5c1aff44c2051e39d1dbff9cff444069d879e)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/xfconf/commit/de1996b245da268259256c54b0a586f8c5420457)
+- [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/xfconf/commit/f0986b6ec1505cdc3ffef8789dfe1a8e4eb9c1b8)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/xfconf/commit/a537be8907ee5b93652c5024e2a74b496ecc1b8b)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/xfconf/commit/a1f938e723e323facdf72b3c47a294874f93aa88)
+- [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/xfconf/commit/75bc82f2bef61011107ffd7c8f7da1a1d33635e6)
+- [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/xfconf/commit/658b1129737014e49826ee8720c4bae6822c823b)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
