@@ -136,6 +136,7 @@
 - [ ] [<code>Update screenshots for Grid and Column views to show new features (#2804)</code>](https://github.com/elementary/files/commit/c1206d68753c353d5726404944ac233fd1658cc3)
 - [ ] [<code>Get drop target file info on demand (#2798)</code>](https://github.com/elementary/files/commit/972eb725ee961198345384e4864a7c60dee84b0a)
 - [ ] [<code>ColumnView preview: fix reloading subfolder (#2790)</code>](https://github.com/elementary/files/commit/44262ffc8431d348c778f7ce67ba27e080624b08)
+- [ ] [<code>OverlayBar: Ensure loader and stream destroyed (#2782)</code>](https://github.com/elementary/files/commit/4ddd8d9c115e72b496d9375b4f5a7de3beac91a0)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -958,9 +959,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
 
-#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/portals/compare/refs/tags/8.2.0...HEAD)
+#### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
-- [ ] [<code>Initialize gtk later (#190)</code>](https://github.com/elementary/portals/commit/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
