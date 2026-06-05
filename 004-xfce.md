@@ -500,6 +500,7 @@
 - [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/feda1ff69653cd3f1891d12ee3a5ac80b668e509)
 - [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ee2bf685241e78a152b05d060571def2a50a1993)
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/312ed4fde4cd319ce9a8b1a856fe5177e51a6a14)
+- [ ] [<code>Fix includes that should use double quotes</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/50e1360fb3b3f03780c9f99ed3ef3df4b1253d3b)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1181,6 +1182,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>ci: add dry-run publish step for cargo projects</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ecb16f156ce4edabc35004d8b03139c33584ecfc)
 - [ ] [<code>ci: run `cargo deny check advisories` for rust projects that use it</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bb08d00ba199275361fac5086978c32de78586c7)
+- [ ] [<code>ci: install rust toolchain/binaries to system location</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/65681bf7b26a5b17d1a3242b9feb8d221e5e039c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
