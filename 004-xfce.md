@@ -83,6 +83,13 @@
 - [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/garcon/commit/30887235afe9cef9ef06bb3c0f4e224e5f6c9d35)
 - [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/garcon/commit/3d9b1a9fde7ef02905e08c252185f89e1ada0da3)
 - [ ] [<code>gobject-linter: Fix property_enum_coverage</code>](https://github.com/xfce-mirror/garcon/commit/f670b86893bebb315d4abd0897bc5f8f3ebd7a92)
+- [ ] [<code>cppcheck: Fix unreachableCode</code>](https://github.com/xfce-mirror/garcon/commit/276c9e631ed1a2754214edd829b82f1fed3f894c)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/garcon/commit/790f37f57dc39a5a8a120a8d1c4806d4751869f4)
+- [ ] [<code>cppcheck: Fix nullPointerRedundantCheck</code>](https://github.com/xfce-mirror/garcon/commit/dff9087cd2bb01f20766e4a70109ca71a8134574)
+- [ ] [<code>cppcheck: Fix nullPointer</code>](https://github.com/xfce-mirror/garcon/commit/526fb034ccaac5e600b27a695603f80101d6a81d)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/garcon/commit/7154981d2878fcadf7c22871354974c10d71ead5)
+- [ ] [<code>Do not compare gboolean to TRUE or FALSE</code>](https://github.com/xfce-mirror/garcon/commit/af71328f32f5cfa6ee9cc61222a44a0d2c6657e5)
+- [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/garcon/commit/f79d3138e80eb28c70c0abbd1314cc2644964432)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -270,6 +277,10 @@
 - [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/libxfce4ui/commit/516fa8cbaab64da671ec36b7157cd24f9b76dfdb)
 - [ ] [<code>cppcheck: Fix varFuncNullUB</code>](https://github.com/xfce-mirror/libxfce4ui/commit/258fa2323bac517202e1ac5cff25d4e08c123743)
 - [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3cb4ef572326bfc343768f98ed49d101e6b3b855)
+- [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4ui/commit/68c88c1f14c660f833c915396f331fe6ae2a4e65)
+- [ ] [<code>cppcheck: Fix redundantInitialization</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6ce36d88d061cfb33b7e6a3387bf4494a0d3cf52)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0c7f7a301adb709eb07f48503b5157d4eafe2b36)
+- [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f25681943c026e8e24d1b3dd7bd7fdc95c53d3c6)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -501,6 +512,7 @@
 - [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/ee2bf685241e78a152b05d060571def2a50a1993)
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/312ed4fde4cd319ce9a8b1a856fe5177e51a6a14)
 - [ ] [<code>Fix includes that should use double quotes</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/50e1360fb3b3f03780c9f99ed3ef3df4b1253d3b)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint warning in test code</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/05ee1eacf90b2a4f2530253b6b78f836cd99cfd2)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -945,6 +957,8 @@
 - [ ] [<code>Prevent possible leak in tree-view</code>](https://github.com/xfce-mirror/thunar/commit/1511b840de2a18e68b5ed7739cba2e8b551630bb)
 - [ ] [<code>Remove unused entries from scan-build-false-positives</code>](https://github.com/xfce-mirror/thunar/commit/80e09c23506e7dedf0e1182d8e3f507a4b2b8497)
 - [ ] [<code>Allow to use mnemonics on bookmarks (#1841)</code>](https://github.com/xfce-mirror/thunar/commit/730dc7d3edf6167a274a144843cc0acec68f16de)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/thunar/commit/d0c212f6e8b696932d5a3099a5a2ae8a2e82069f)
+- [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/thunar/commit/30f92e76a96bf143e7d08e1cc309d6fd8814ffef)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
@@ -1184,6 +1198,9 @@
 - [ ] [<code>ci: run `cargo deny check advisories` for rust projects that use it</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bb08d00ba199275361fac5086978c32de78586c7)
 - [ ] [<code>ci: install rust toolchain/binaries to system location</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/65681bf7b26a5b17d1a3242b9feb8d221e5e039c)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ci: Add `-I .` to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ac8faaa4c5051690e871a7d8efd2f7c412b3fb4e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: Add glib/gtk version check to cppcheck config file</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a78337d7384be0c58aba4689627dc6982a5f294d)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1392,6 +1409,11 @@
 - [ ] [<code>cppcheck: Fix mismatchAllocDealloc</code>](https://github.com/xfce-mirror/xfce4-panel/commit/37c126852f2c7598d9fe3c82c31d8c7c811a0eb8)
 - [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db16f730ee16afc69b33e6de9114be57849fc0d5)
 - [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1d8e307165884d7fbf73a6d068f38d6389360954)
+- [ ] [<code>cppcheck: Fix unmatchedSuppression</code>](https://github.com/xfce-mirror/xfce4-panel/commit/5fd27b301e4f6f7cc5456034d4d2c005e136eb50)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_uint</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ea8741c9c0c78f4275e6edad7873e0646076efc8)
+- [ ] [<code>cppcheck: Fix redundantCondition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/abdd853df6ca3d0db898c300d289452cb1c8d31a)
+- [ ] [<code>cppcheck: Fix multiCondition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6363254abe8eb3d47d153a782f82812822711949)
+- [ ] [<code>cppcheck: Fix knownArgument</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f4ab6203b3216e494d130f4177aa68d1434842ee)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1867,6 +1889,9 @@
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/xfconf/commit/a1f938e723e323facdf72b3c47a294874f93aa88)
 - [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/xfconf/commit/75bc82f2bef61011107ffd7c8f7da1a1d33635e6)
 - [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/xfconf/commit/658b1129737014e49826ee8720c4bae6822c823b)
+- [ ] [<code>cppcheck: Fix constVariable</code>](https://github.com/xfce-mirror/xfconf/commit/78b404f0ff085f6d6bd15bc3d64a7da7135ae03d)
+- [ ] [<code>completions: Update following the addition of new options</code>](https://github.com/xfce-mirror/xfconf/commit/7c441b59f7f2ee33991485f422524dc846e00650)
+- [ ] [<code>completions: Complete also -t and remove deprecated -n</code>](https://github.com/xfce-mirror/xfconf/commit/2800dcca15369333f1db92d96327d92be8ec6c33)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
