@@ -118,6 +118,7 @@
 - [ ] [<code>Fix 1699 (#1721)</code>](https://github.com/elementary/code/commit/bebe0fc6bcd15ae079ee0377ada815325c789aab)
 - [ ] [<code>Use user accent for selection background (#1722)</code>](https://github.com/elementary/code/commit/c0b1736f842146ae799c14ac46af9b6d3987d40c)
 - [ ] [<code>NavMarkGutterRenderer: fix crash when deleting edit marks (#1681) (#1725)</code>](https://github.com/elementary/code/commit/b29c0c2c9a6c666f9cab68e9e1df77fc920a9cb5)
+- [ ] [<code>Add release metainfo for v8.3.1 (#1727)</code>](https://github.com/elementary/code/commit/50173353a4764084ed95df072485f11ae2034e35)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -378,6 +379,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add RequestAttention DBus method for tabs needing input (#1010)</code>](https://github.com/elementary/terminal/commit/fb1c8cd401f215c1cefc145783c9894c59e5a495)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add metainfo for release v 8.1.0 (#1012)</code>](https://github.com/elementary/terminal/commit/495a034692cc51c47b89960d6c9939ae0880b2ff)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
