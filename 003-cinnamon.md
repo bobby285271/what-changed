@@ -296,8 +296,8 @@
 - [ ] [<code>keyboardManager.js: Seed empty xkb-options when reading from the</code>](https://github.com/linuxmint/cinnamon/commit/c433277a0bdae78267e9814b2aebe9a246c40bd7)
 - [ ] [<code>keyboardManager.js: Don't wait on ibus' set_global_engine_async()</code>](https://github.com/linuxmint/cinnamon/commit/64540d2ba67404e5f4337497ccd304a2091b2992)
 - [ ] [<code>keyboardManager.js: Re-apply the keymap on resume, make sure</code>](https://github.com/linuxmint/cinnamon/commit/14dac8d287ec266c9efdf98c68971f759d22c2da)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>main.js: _stageEventHandler - only track and eat a modifier release</code>](https://github.com/linuxmint/cinnamon/commit/d0c4e07d134917523c64ea1ee91171b114b5a746)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
