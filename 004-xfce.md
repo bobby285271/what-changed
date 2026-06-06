@@ -90,6 +90,7 @@
 - [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/garcon/commit/7154981d2878fcadf7c22871354974c10d71ead5)
 - [ ] [<code>Do not compare gboolean to TRUE or FALSE</code>](https://github.com/xfce-mirror/garcon/commit/af71328f32f5cfa6ee9cc61222a44a0d2c6657e5)
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/garcon/commit/f79d3138e80eb28c70c0abbd1314cc2644964432)
+- [ ] [<code>cppcheck: Fix unreachableCode in test-menu-parser</code>](https://github.com/xfce-mirror/garcon/commit/68d4db8e2949a571641d3aa9b336499a776bcea7)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -1201,6 +1202,9 @@
 - [ ] [<code>ci: Add `-I .` to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ac8faaa4c5051690e871a7d8efd2f7c412b3fb4e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: Add glib/gtk version check to cppcheck config file</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a78337d7384be0c58aba4689627dc6982a5f294d)
+- [ ] [<code>ci: add systemd-dev to build container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afe45146f4b1ec688c0e6ce52a778fdb635007b8)
+- [ ] [<code>ci: Remove parts of xfce.cfg depending on cppcheck guessed version</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d6c69f4670bad2e8bcdd52c4721b894b2cbc4842)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
