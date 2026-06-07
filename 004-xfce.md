@@ -352,6 +352,12 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/07653bc0e3d109e8514bcb812d009994b2444d08)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/cd33da2e55357a0571553572cccc3c0cb5d21004)
 - [ ] [<code>systemd: Add *_with_flags methods</code>](https://github.com/xfce-mirror/libxfce4util/commit/77dfc10a9b2f1c30f9aab87d5e03d566f238b25e)
+- [ ] [<code>scan-build: Update false positive file after clang version bump</code>](https://github.com/xfce-mirror/libxfce4util/commit/b88711adedf0a806322bfdfb9b4141491bf02b82)
+- [ ] [<code>cppcheck: Fix unsignedLessThanZero</code>](https://github.com/xfce-mirror/libxfce4util/commit/57d7470f290189630d7c07af7b896a87ecc8459c)
+- [ ] [<code>Remove include guards from private headers</code>](https://github.com/xfce-mirror/libxfce4util/commit/93b0a40f54c560c0db245bcc8aff3b5b992be871)
+- [ ] [<code>cppcheck: Fix allocaCalled</code>](https://github.com/xfce-mirror/libxfce4util/commit/ae5fb273f320d05157dfde4022ebefebf4141591)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4util/commit/7ef839cc27db96b7b17bd6cd1603e507d7ca43d2)
+- [ ] [<code>Fix -Wdiscarded-qualifiers compiler warning</code>](https://github.com/xfce-mirror/libxfce4util/commit/70fa714e3c73ece7610f6d2b0262079680296b74)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -1049,6 +1055,19 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/e51c851e1df579a4b1b63ad0d595fc7d0923af92)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/tumbler/commit/ea698565ac06437173b75f8d6b9730a81311fe6a)
 - [ ] [<code>Add missing chain up to parent class</code>](https://github.com/xfce-mirror/tumbler/commit/0f0db56a061c36b60b6522fe6b48345150cd405a)
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/tumbler/commit/904e9e60ed8d6b5d1b630e9131faf2085cf6dc5b)
+- [ ] [<code>gobject-linter: Fix missing_implementation</code>](https://github.com/xfce-mirror/tumbler/commit/0d7282884edbf169a37eb0363b23765bc547e4a1)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/tumbler/commit/e753041a3a26fc8e70e96fdbd0ddc51ef6e845cd)
+- [ ] [<code>gobject-linter: Fix inconsistent_function_signature</code>](https://github.com/xfce-mirror/tumbler/commit/e8817c38bee35e22dd4e19eb76653b1af3c98b02)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/tumbler/commit/e6581135403150f85380145c1c15c1a9415c519d)
+- [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/tumbler/commit/ff815b79ae65460d8d9f9739f5607935dc3b4a34)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/tumbler/commit/24c09907da8efbf57ba535109b72a0c331313110)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/tumbler/commit/6c46d9ddc5ab711fa5c211cf952391345b0c39f1)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/tumbler/commit/7ea1c68fb417316a502d7225d1c36cac645c2cfb)
+- [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/tumbler/commit/f5b13e57700f2d3643ce05148481fc02e17edb83)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/tumbler/commit/f052207054d97f9567a850bbe9c3ffcc65338d39)
+- [ ] [<code>cppcheck: Fix unusedVariable</code>](https://github.com/xfce-mirror/tumbler/commit/6d67469c871903278df34960abe3ffbd90d517ee)
+- [ ] [<code>cppcheck: Fix assertWithSideEffect</code>](https://github.com/xfce-mirror/tumbler/commit/f929e766b27fd504a1f4bbad7845ced7e1ce91c9)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1205,6 +1224,10 @@
 - [ ] [<code>ci: add systemd-dev to build container</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/afe45146f4b1ec688c0e6ce52a778fdb635007b8)
 - [ ] [<code>ci: Remove parts of xfce.cfg depending on cppcheck guessed version</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d6c69f4670bad2e8bcdd52c4721b894b2cbc4842)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>ci: Add --suppress=unmatchedSuppression to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/859b9380e59cdba5eadaab28dd04e832bbdd048d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: Add --force to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2e0b8abb7ceee2b54da0fdf81dce01f48acc0cf2)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
