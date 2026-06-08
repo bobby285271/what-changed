@@ -925,6 +925,7 @@
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
+- [ ] [<code>ScreenCast: follow spec naming (#191)</code>](https://github.com/elementary/portals/commit/e66361bfe62c4a44b8909c19a36cfc3e4aa6c4d2)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
