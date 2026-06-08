@@ -296,6 +296,13 @@
 - [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/acd12b3954e4769df4ebd9abfc67f4f8333aa16c)
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/libxfce4ui/commit/690bbbd002dacf4bdd23a93eb421b80780f79829)
 - [ ] [<code>gobject-linter: Fix inconsistent_function_signature</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9eacc496ca78b7693709a71f41fadb741db805b2)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e3d2aa4d57a369c5672a8b5a657aa1066472cfed)
+  - <sub>Tags: <code>libxfce4ui-4.21.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6cd7836b3f4d0ceb37e2f62617e20803d54186f8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -1467,6 +1474,15 @@
 - [ ] [<code>cppcheck: Fix redundantCondition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/abdd853df6ca3d0db898c300d289452cb1c8d31a)
 - [ ] [<code>cppcheck: Fix multiCondition</code>](https://github.com/xfce-mirror/xfce4-panel/commit/6363254abe8eb3d47d153a782f82812822711949)
 - [ ] [<code>cppcheck: Fix knownArgument</code>](https://github.com/xfce-mirror/xfce4-panel/commit/f4ab6203b3216e494d130f4177aa68d1434842ee)
+- [ ] [<code>build: Require libxfce4ui 4.21.8 and remove wrong define guard</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3ac941fc083fee5e56b0f3e509d6f6b461b48e39)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bf113e488df7dfd992cc734c5662330b9857495c)
+  - <sub>Tags: <code>xfce4-panel-4.21.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/25904e820072c401b52f6124fb104fa656d6a199)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1859,6 +1875,9 @@
 - [ ] [<code>cppcheck: Fix duplicateAssignExpression</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b731dea8ebb878f993b54f0364f43e8617c24b76)
 - [ ] [<code>gcc-analyzer: Fix -Wanalyzer-null-dereference</code>](https://github.com/xfce-mirror/xfce4-settings/commit/cc08d44f391582168d936db2a78ac1ffa5842ca4)
 - [ ] [<code>gcc-analyzer: Fix -Wanalyzer-out-of-bounds</code>](https://github.com/xfce-mirror/xfce4-settings/commit/32ce1e640b36670563b0b0b5b8f91184ecd2b9d0)
+- [ ] [<code>build: Require libxfce4ui 4.21.8 and remove wrong define guard</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8760018a4d8371d673582a908aeba7bb959bba83)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
