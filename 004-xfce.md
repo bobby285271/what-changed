@@ -282,6 +282,20 @@
 - [ ] [<code>cppcheck: Fix redundantInitialization</code>](https://github.com/xfce-mirror/libxfce4ui/commit/6ce36d88d061cfb33b7e6a3387bf4494a0d3cf52)
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0c7f7a301adb709eb07f48503b5157d4eafe2b36)
 - [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f25681943c026e8e24d1b3dd7bd7fdc95c53d3c6)
+- [ ] [<code>Do not compare gboolean to TRUE or FALSE</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2a1c426acb1a5e6898dc602434593ca5d8ff963a)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4ui/commit/18a5ada03464ae9d3d43b453b911c8d7cb563973)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/libxfce4ui/commit/da8d681b0999ead902e641d54bd63715cb32a52f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/libxfce4ui/commit/fd7311056c856f7df1fe1643ae4ae0acb4ddc49b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b10cbb16c32581e9dfd9d5ee7eef000b0bc2ab69)
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2909124bf0f0e344470662149f2f1e6a239db118)
+- [ ] [<code>gobject-linter: Fix property_switch_exhaustiveness</code>](https://github.com/xfce-mirror/libxfce4ui/commit/bb879be839eea6cd88cfc293ca5558606291b53b)
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/libxfce4ui/commit/94352a2ea32f9b476048f8852625a7df93c5b75e)
+- [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/libxfce4ui/commit/acd12b3954e4769df4ebd9abfc67f4f8333aa16c)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/libxfce4ui/commit/690bbbd002dacf4bdd23a93eb421b80780f79829)
+- [ ] [<code>gobject-linter: Fix inconsistent_function_signature</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9eacc496ca78b7693709a71f41fadb741db805b2)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -358,6 +372,11 @@
 - [ ] [<code>cppcheck: Fix allocaCalled</code>](https://github.com/xfce-mirror/libxfce4util/commit/ae5fb273f320d05157dfde4022ebefebf4141591)
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4util/commit/7ef839cc27db96b7b17bd6cd1603e507d7ca43d2)
 - [ ] [<code>Fix -Wdiscarded-qualifiers compiler warning</code>](https://github.com/xfce-mirror/libxfce4util/commit/70fa714e3c73ece7610f6d2b0262079680296b74)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/libxfce4util/commit/5a331262f6f1effae2d5f433e8b6c65e7351adb6)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4util/commit/4d050ffe31e07cf8a0a037692dc657384145d105)
+- [ ] [<code>gobject-linter: Fix missing_g_begin_decls</code>](https://github.com/xfce-mirror/libxfce4util/commit/9c4ff0b8a90567c18df9ec7d29775e91849a5a07)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/libxfce4util/commit/4fc1775b0bf6e4f54e7ae30c455f0b78e979a8db)
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/libxfce4util/commit/4475593977e59f528ba06e632467434118aa2d2c)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -520,6 +539,13 @@
 - [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/312ed4fde4cd319ce9a8b1a856fe5177e51a6a14)
 - [ ] [<code>Fix includes that should use double quotes</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/50e1360fb3b3f03780c9f99ed3ef3df4b1253d3b)
 - [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint warning in test code</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/05ee1eacf90b2a4f2530253b6b78f836cd99cfd2)
+- [ ] [<code>gobject-linter: Fix property_switch_exhaustiveness</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/69aa99a788739a1fcb30baae29619c23c923c961)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0baf8b93230da47b7e17a93cefd2858e03dfbad5)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6c507ead1c4801bce9f92291f7afcc359072506e)
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5f2c0ffc988433171f854a61fe76763e092b8216)
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c303c001543071bdf722a14ecfb521f748ce875a)
+- [ ] [<code>gobject-linter: Fix missing_implementation</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/268c116719651fab6b7db9d81304d7f25fa633bd)
+- [ ] [<code>gobject-linter: Fix property_enum_coverage</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/df4dae9dd2b846ea6f477d3a2a66f8b6b3dd4f49)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1556,6 +1582,15 @@
 - [ ] [<code>notify: Init notifications only in one place</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e3b6ccf6358e87dd6f46c1cf444e93b16428104b)
 - [ ] [<code>notify: Fix memory leak</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f1689adcdcd0fa4609cba1927f4a4c50b4596cda)
 - [ ] [<code>settings: Reveal show-brightness-popup</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/67384093448c0029368cd3f7b130f9aa22abbe99)
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2994f4a40311bd10f909e9fda12c964b6825c378)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2f2f182353619f584cb1d9afbb18469dbb242909)
+- [ ] [<code>cppcheck: Fix mismatchAllocDealloc</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/32007dfa7e45897af6ca22fc35f092cb2ce883cd)
+- [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/464cf4cfff36d4aae38a914f5fc5a1e97e296419)
+- [ ] [<code>cppcheck: Fix redundantInitialization</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/1f8834152f7e1edec1a00079c4175aae7ee13f67)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/da5afe52f801c02480eded5d8cf0252efbb749b7)
+- [ ] [<code>cppcheck: Fix identicalInnerCondition</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c28bcfad0aad28d3a299bc0c95ef82708e089cc5)
+- [ ] [<code>cppcheck: Fix duplicateConditionalAssign</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/ad460c9ba05b71b9b7f8396a741da7e3c7d9f291)
+- [ ] [<code>cppcheck: Fix constVariable</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/e003dbc984e2c4d09601421491d8e30b13c3bd22)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -1808,6 +1843,22 @@
 - [ ] [<code>gobject_linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2b14d15077cf4004b8767e875dabb8948f3944dd)
 - [ ] [<code>Revert "dialogs/display-settings: Fix possible arithmetic exception"</code>](https://github.com/xfce-mirror/xfce4-settings/commit/64571d28bc218da6f9457631d8dc36206e37fb54)
 - [ ] [<code>wayland: Set mode dimensions to 1x1 if width or height <= 0</code>](https://github.com/xfce-mirror/xfce4-settings/commit/02162a63e446a5d3a4c9cb9aaf5aea3cd76b6d16)
+- [ ] [<code>cppcheck: Fix invalidPrintfArgType_sint</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8f0ea6976cb20ad5ec36509afc1503e204571573)
+- [ ] [<code>cppcheck: Fix knownConditionTrueFalse</code>](https://github.com/xfce-mirror/xfce4-settings/commit/6c34ed848c40f262bc75fdbfb463b4ddb711da81)
+- [ ] [<code>cppcheck: Fix unusedStructMember</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ffd0c222b4e546a0d94611c90f2ca5d50b5e920a)
+- [ ] [<code>cppcheck: Fix invalidPointerCast</code>](https://github.com/xfce-mirror/xfce4-settings/commit/c2e177b10f99b3b46812387e68a700f14acf3d5e)
+- [ ] [<code>cppcheck: Fix memleak</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9ed963a1e52932f5eb4fd4b0610d41170dcf3b69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cppcheck: Fix unreadVariable</code>](https://github.com/xfce-mirror/xfce4-settings/commit/1462f02643b08e5f059f6688e0af45dba019b2b1)
+- [ ] [<code>cppcheck: Fix nullPointerRedundantCheck</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f96dbfd473a45bbbcb5a1d823da118fc3aa1e9a6)
+- [ ] [<code>Replace g_error with g_critical</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ecf65397360ef2db5e67cd292d2965cae0c0c30e)
+- [ ] [<code>Do not translate warning messages</code>](https://github.com/xfce-mirror/xfce4-settings/commit/ab2ba92a2f99dbec68f5e34434089475cdb2c876)
+- [ ] [<code>cppcheck: Fix duplicateExpression</code>](https://github.com/xfce-mirror/xfce4-settings/commit/93b25bd8ac24bf68c94882f9085a0b9290f1c981)
+- [ ] [<code>cppcheck: Fix invalidFunctionArg</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0a1cce1b028be199b1f68fde3612035ae1a6adb4)
+- [ ] [<code>cppcheck: Fix nullPointer</code>](https://github.com/xfce-mirror/xfce4-settings/commit/51dc361420eb4b7f8914c328ac762f95ecabd68d)
+- [ ] [<code>cppcheck: Fix duplicateAssignExpression</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b731dea8ebb878f993b54f0364f43e8617c24b76)
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-null-dereference</code>](https://github.com/xfce-mirror/xfce4-settings/commit/cc08d44f391582168d936db2a78ac1ffa5842ca4)
+- [ ] [<code>gcc-analyzer: Fix -Wanalyzer-out-of-bounds</code>](https://github.com/xfce-mirror/xfce4-settings/commit/32ce1e640b36670563b0b0b5b8f91184ecd2b9d0)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
