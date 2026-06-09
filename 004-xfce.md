@@ -1263,6 +1263,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: Add --force to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2e0b8abb7ceee2b54da0fdf81dce01f48acc0cf2)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: Show only useful logs in case of cppcheck job failure</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39fa0a0322a64651cf73857d912f9946b780a544)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -2017,6 +2018,7 @@
 - [ ] [<code>cppcheck: Fix constVariable</code>](https://github.com/xfce-mirror/xfconf/commit/78b404f0ff085f6d6bd15bc3d64a7da7135ae03d)
 - [ ] [<code>completions: Update following the addition of new options</code>](https://github.com/xfce-mirror/xfconf/commit/7c441b59f7f2ee33991485f422524dc846e00650)
 - [ ] [<code>completions: Complete also -t and remove deprecated -n</code>](https://github.com/xfce-mirror/xfconf/commit/2800dcca15369333f1db92d96327d92be8ec6c33)
+- [ ] [<code>Remove broken support for float type</code>](https://github.com/xfce-mirror/xfconf/commit/82e1fb68f44b15493fb90bb97aed1efae9a73e12)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
