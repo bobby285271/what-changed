@@ -298,9 +298,13 @@
 - [ ] [<code>keyboardManager.js: Re-apply the keymap on resume, make sure</code>](https://github.com/linuxmint/cinnamon/commit/14dac8d287ec266c9efdf98c68971f759d22c2da)
 - [ ] [<code>main.js: _stageEventHandler - only track and eat a modifier release</code>](https://github.com/linuxmint/cinnamon/commit/d0c4e07d134917523c64ea1ee91171b114b5a746)
 - [ ] [<code>Fix for autofocus when modal dialogs are opened (#13802)</code>](https://github.com/linuxmint/cinnamon/commit/7f7f0c4dcd60a5c8259c322644800dffca664848)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>Translatable default file name for screenshots (#13800)</code>](https://github.com/linuxmint/cinnamon/commit/a46dff54dad8301c6ae188a7401473d341eba845)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>XkbSettings.py: Improve usability.</code>](https://github.com/linuxmint/cinnamon/commit/98d9b74fc418410fe57dcb9c2671f1d60846451d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>keyboard settings: Small ui fixes.</code>](https://github.com/linuxmint/cinnamon/commit/aae46bf184079a550194c1d85ab702adf1d7bc07)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
