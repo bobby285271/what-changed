@@ -144,6 +144,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/iconbrowser/commit/a499faea17792f0c03ae3ee9a915b3b8b713a87c)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/iconbrowser/commit/efd2628b28aaa2213d21586778f1a243f3bc78ae)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#75)</code>](https://github.com/elementary/iconbrowser/commit/31e2343a508254ba88d7b40048a7d81b895d5728)
+- [ ] [<code>IconCollection: Add missing emblem icons (#76)</code>](https://github.com/elementary/iconbrowser/commit/8458e88d04d332d602c4329d6312d75c387d6b78)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
