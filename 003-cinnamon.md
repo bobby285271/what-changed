@@ -596,7 +596,11 @@
 - [ ] [<code>Bugfix: rename replaces parent directory (issue #3750) (#3751)</code>](https://github.com/linuxmint/nemo/commit/9f8d0ec68974768afbaeaddaf357bf2dcfdb8965)
 - [ ] [<code>nemo-file-conflict-dialog.c: Disable all responses except cancel</code>](https://github.com/linuxmint/nemo/commit/73dd03ad7f497cdd36f7867ab94563b0f849c7a0)
 - [ ] [<code>trash: Make 'Restore' a primary action in the context menus instead</code>](https://github.com/linuxmint/nemo/commit/45424d96c4627e556fbe62902be3945d8e8348ea)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>nemo-view.c: Don't allow thumbnails and .desktop link info to</code>](https://github.com/linuxmint/nemo/commit/ec06509a1010303b53ae2e15b1174f27611ee9c2)
+- [ ] [<code>nemo-mime-actions.c: Allow opening untrusted desktop files as</code>](https://github.com/linuxmint/nemo/commit/b6558e43ddfa3516de343987d7a02733cd741831)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>nemo-view.c: Update ready_to_load() to match change in ec06509a10.</code>](https://github.com/linuxmint/nemo/commit/71b73d1f6852d00262923baf81bd358c559a6512)
+- [ ] [<code>nemo-view.c: Don't disable update interval progression while loading.</code>](https://github.com/linuxmint/nemo/commit/65c9b8901df780b79c8ea63f5a7e46459e8fde45)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
