@@ -311,6 +311,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>KeybindingTable.py: Don't pick up obsolete/unused configs.</code>](https://github.com/linuxmint/cinnamon/commit/a19ba1636f46d41d99bb2cf9d8a73f9dab3009a8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>util.js: Adapt to GIR 2.0 (missed this bit in 3fc658559b).</code>](https://github.com/linuxmint/cinnamon/commit/3a2d558aa575f0ea364c5b4e30d2eb3ee604ee58)
+- [ ] [<code>popupDialog.js: Fix incorrect focus when clicking directly into</code>](https://github.com/linuxmint/cinnamon/commit/69c86dae508909a7155fe36a7c63827dc0b44676)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
