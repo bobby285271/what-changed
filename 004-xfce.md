@@ -1264,6 +1264,8 @@
 - [ ] [<code>ci: Add --force to cppcheck command line</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2e0b8abb7ceee2b54da0fdf81dce01f48acc0cf2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: Show only useful logs in case of cppcheck job failure</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39fa0a0322a64651cf73857d912f9946b780a544)
+- [ ] [<code>Add cargo support to xfce-do-release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/26a4904361658e0d1f7dbdcb4222b5774bfb8ec7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1486,6 +1488,8 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/25904e820072c401b52f6124fb104fa656d6a199)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>libxfce4panel: Add generic plugin class and generic name class</code>](https://github.com/xfce-mirror/xfce4-panel/commit/ae5724a48b9c54c170dcfda3ea456ce3d2845c9a)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7f3af47e17c91a9f6576eb7371791eb5e68608cc)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1907,6 +1911,7 @@
 - [ ] [<code>build: Require libxfce4ui 4.21.8 and remove wrong define guard</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8760018a4d8371d673582a908aeba7bb959bba83)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use a separate channel for Wayland display profiles</code>](https://github.com/xfce-mirror/xfce4-settings/commit/cf7078711b36ddb40f471d95cfe05e99c15f784e)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
