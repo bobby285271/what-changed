@@ -1266,6 +1266,12 @@
 - [ ] [<code>ci: Show only useful logs in case of cppcheck job failure</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/39fa0a0322a64651cf73857d912f9946b780a544)
 - [ ] [<code>Add cargo support to xfce-do-release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/26a4904361658e0d1f7dbdcb4222b5774bfb8ec7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/a94438e6514ba63d7c7a5587100e676711335ec6)
+  - <sub>Tags: <code>xfce4-dev-tools-4.21.2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/4afafa8764d6007b8e64d28abbcdca2e9b79345e)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
