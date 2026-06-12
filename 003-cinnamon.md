@@ -305,6 +305,12 @@
 - [ ] [<code>keyboard settings: Small ui fixes.</code>](https://github.com/linuxmint/cinnamon/commit/aae46bf184079a550194c1d85ab702adf1d7bc07)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>input methods: Add support for fcitx5.</code>](https://github.com/linuxmint/cinnamon/commit/df4b596a5198746a58f096526b602dc0160e5115)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>InputSources.py: Add link to mintsources-im.</code>](https://github.com/linuxmint/cinnamon/commit/311b4925516844d80584007f4a5b5c18628ff34f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>KeybindingTable.py: Don't pick up obsolete/unused configs.</code>](https://github.com/linuxmint/cinnamon/commit/a19ba1636f46d41d99bb2cf9d8a73f9dab3009a8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -388,9 +394,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add  xfce4-notifyd to -blacklist in SessionManager schema (#203)</code>](https://github.com/linuxmint/cinnamon-session/commit/b19e5abac14da999f42e9df9d62b7d1aa0aade8e)
 - [ ] [<code>session: Add graphical-session.target support (#204)</code>](https://github.com/linuxmint/cinnamon-session/commit/e01c8c37f6bb5458cc8f38ad73e23d232e7f932a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>main.c: Don't override QT_IM_MODULE and QT_IM_MODULES if fcitx5 is</code>](https://github.com/linuxmint/cinnamon-session/commit/f8836e8208b719e1c3263939fa3d8b0a2d879e45)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -420,6 +427,7 @@
 - [ ] [<code>Don't install the static csd library. (#450)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dd21a780743f4d9df1fe058b975a55a9cd151b7c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-media-keys-manager.c: Replace gnome- with cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8fd80da514907dd76d083533b50c6bc373baa180)
+- [ ] [<code>csd-xsettings-manager.c: Don't override GTK_IM_MODULE if it's</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/de97f127ffbc1af42e1bd53ff5e46e26b834b697)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
