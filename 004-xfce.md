@@ -1001,6 +1001,12 @@
 - [ ] [<code>gcc-analyzer: Update false positive file after gcc version bump</code>](https://github.com/xfce-mirror/thunar/commit/30f92e76a96bf143e7d08e1cc309d6fd8814ffef)
 - [ ] [<code>fix-toolbar-memory-leak: Added forgotten g_object_unref</code>](https://github.com/xfce-mirror/thunar/commit/1f4933c5f3c0d05f0d2f3203c84b098b2f93b22b)
 - [ ] [<code>fix-location-bar-visiblity: Correcting a missing comma</code>](https://github.com/xfce-mirror/thunar/commit/de245967d3e567763d395a28f576ce54aae55a07)
+- [ ] [<code>Bump libxfce4ui dependency to 4.21.8</code>](https://github.com/xfce-mirror/thunar/commit/85ef7c54bc3dc80003728962a7c34795585debaa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Popup menu on selected icon on keyboard activated</code>](https://github.com/xfce-mirror/thunar/commit/ce9f45b82dc15395bc9066da9185d5c7deeaf672)
+- [ ] [<code>Tree_view use new function thunar_gtk_menu_popup_at_rect</code>](https://github.com/xfce-mirror/thunar/commit/ad8eb4a34fc88c3e6397c0efb9a14f945c71c1cc)
+- [ ] [<code>Position popup menu on selection instead cursor</code>](https://github.com/xfce-mirror/thunar/commit/e1760b3a772b8df5b922233a88894fba80c84ba5)
 
 #### [thunar-volman](https://github.com/xfce-mirror/thunar-volman): [thunar-volman-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar-volman/compare/thunar-volman-4.20.0...HEAD)
 
