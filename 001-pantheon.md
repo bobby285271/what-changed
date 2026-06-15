@@ -138,6 +138,7 @@
 - [ ] [<code>Get drop target file info on demand (#2798)</code>](https://github.com/elementary/files/commit/972eb725ee961198345384e4864a7c60dee84b0a)
 - [ ] [<code>ColumnView preview: fix reloading subfolder (#2790)</code>](https://github.com/elementary/files/commit/44262ffc8431d348c778f7ce67ba27e080624b08)
 - [ ] [<code>OverlayBar: Ensure loader and stream destroyed (#2782)</code>](https://github.com/elementary/files/commit/4ddd8d9c115e72b496d9375b4f5a7de3beac91a0)
+- [ ] [<code>Add metainfo for release v7.3.2 (#2802)</code>](https://github.com/elementary/files/commit/f1e1c587e7a386fc1d4701caa9303012f6541be2)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
