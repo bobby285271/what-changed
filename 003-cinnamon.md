@@ -313,6 +313,15 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>util.js: Adapt to GIR 2.0 (missed this bit in 3fc658559b).</code>](https://github.com/linuxmint/cinnamon/commit/3a2d558aa575f0ea364c5b4e30d2eb3ee604ee58)
 - [ ] [<code>popupDialog.js: Fix incorrect focus when clicking directly into</code>](https://github.com/linuxmint/cinnamon/commit/69c86dae508909a7155fe36a7c63827dc0b44676)
+- [ ] [<code>keyboard: Disable ime handling in password fields.</code>](https://github.com/linuxmint/cinnamon/commit/ec9aaeba3cbfc7f951d8b20daf31c083207aba7a)
+- [ ] [<code>popupMenu.js: Disable radio actor reactivity when used in a menu</code>](https://github.com/linuxmint/cinnamon/commit/6a579b7f0582f5212fec8d5f1c01484d8e8f0e80)
+- [ ] [<code>keyboard/ibus: Try to show a flag/indicator/glyph provided by the</code>](https://github.com/linuxmint/cinnamon/commit/3d987b079acd555a4b1ab06265418fb46a7bf484)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboard applet: When selecting an ibus-generated menu item, unset</code>](https://github.com/linuxmint/cinnamon/commit/c2223e925f3412657c6696b8b0df1de972d56975)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager.js: Don't append locale fallback layout if the</code>](https://github.com/linuxmint/cinnamon/commit/7cdc024bdbbd48fe7edef73b5f4db204d1cc6c9b)
+- [ ] [<code>KeybindingWidgets.py: Disallow using caps-lock in keybindings.</code>](https://github.com/linuxmint/cinnamon/commit/02e6784c01b162ef0458c10831d9bbb8ade397ba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
