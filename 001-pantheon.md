@@ -119,6 +119,8 @@
 - [ ] [<code>Use user accent for selection background (#1722)</code>](https://github.com/elementary/code/commit/c0b1736f842146ae799c14ac46af9b6d3987d40c)
 - [ ] [<code>NavMarkGutterRenderer: fix crash when deleting edit marks (#1681) (#1725)</code>](https://github.com/elementary/code/commit/b29c0c2c9a6c666f9cab68e9e1df77fc920a9cb5)
 - [ ] [<code>Add release metainfo for v8.3.1 (#1727)</code>](https://github.com/elementary/code/commit/50173353a4764084ed95df072485f11ae2034e35)
+- [ ] [<code>Avoid focus-in-event</code>](https://github.com/elementary/code/commit/aa06eb1d9b235678bd03e21dc0fa0841a64d2ec3)
+- [ ] [<code>Revert "Avoid focus-in-event"</code>](https://github.com/elementary/code/commit/43a50ac04570df7f45bddc78889e405aabfb21ca)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
