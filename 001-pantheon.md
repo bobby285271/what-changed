@@ -106,21 +106,8 @@
 - [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.0...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.1 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.1...HEAD)
 
-- [ ] [<code>Fix Symbol Pane not updating on external file reversion (#1715) (#1716)</code>](https://github.com/elementary/code/commit/a4a2df72cbffa554f4e0418d547f3beb51061a5e)
-- [ ] [<code>Handle closing second or subsequent window (#1620)</code>](https://github.com/elementary/code/commit/907b56ad19a1b17f63b78917c63f9f3323b0aa4e)
-- [ ] [<code>Improve fuzzy find result order (#1655)</code>](https://github.com/elementary/code/commit/f4d035911e5a67c2c1a2c6f39be58b2bc2f90058)
-- [ ] [<code>Expose system document font in Preferences dialog (#1670)</code>](https://github.com/elementary/code/commit/3dbf6d56b5b8a802018af5d5ae0708def0fae60d)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Feature/sidebar focus (#1719)</code>](https://github.com/elementary/code/commit/d3ce720103f161c3177c1f64bf1c89ab95a86756)
-- [ ] [<code>Fix 1698 (#1720)</code>](https://github.com/elementary/code/commit/18bb8babb623efaf65649f26e474dbbd53a90141)
-- [ ] [<code>Fix 1699 (#1721)</code>](https://github.com/elementary/code/commit/bebe0fc6bcd15ae079ee0377ada815325c789aab)
-- [ ] [<code>Use user accent for selection background (#1722)</code>](https://github.com/elementary/code/commit/c0b1736f842146ae799c14ac46af9b6d3987d40c)
-- [ ] [<code>NavMarkGutterRenderer: fix crash when deleting edit marks (#1681) (#1725)</code>](https://github.com/elementary/code/commit/b29c0c2c9a6c666f9cab68e9e1df77fc920a9cb5)
-- [ ] [<code>Add release metainfo for v8.3.1 (#1727)</code>](https://github.com/elementary/code/commit/50173353a4764084ed95df072485f11ae2034e35)
-- [ ] [<code>Avoid focus-in-event</code>](https://github.com/elementary/code/commit/aa06eb1d9b235678bd03e21dc0fa0841a64d2ec3)
-- [ ] [<code>Revert "Avoid focus-in-event"</code>](https://github.com/elementary/code/commit/43a50ac04570df7f45bddc78889e405aabfb21ca)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -563,6 +550,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Default X11 building to false (#98)</code>](https://github.com/elementary/session-settings/commit/0a69481c20b73d7cd774e88e6fb043c52644e350)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>chore(deps): bump actions/checkout from 6 to 7 (#106)</code>](https://github.com/elementary/session-settings/commit/457258110e859756f39fff938c4e7cd3bfb57a09)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -993,3 +981,4 @@
 - [ ] [<code>pantheon: Rename to io.elementary.appcenter (#156)</code>](https://github.com/elementary/seeds/commit/804220ebcd635b6c53c6c7578d91af25868cd33f)
 - [ ] [<code>Create dependabot.yml (#159)</code>](https://github.com/elementary/seeds/commit/48a220fb002d7906a923befd26488fabde5d1046)
 - [ ] [<code>Bump actions/checkout from 3 to 6 (#160)</code>](https://github.com/elementary/seeds/commit/bc49149b0cd7230507fc59f487f4a83c62d3bbc9)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/seeds/commit/abde470149401f1341285a4b106940025536ffae)
