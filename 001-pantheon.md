@@ -543,6 +543,7 @@
 - [ ] [<code>Use a wayland session to start the greeter (#752)</code>](https://github.com/elementary/greeter/commit/b7d4eab66ac60e9b44a5ec3f483e9a1a0313fb1f)
 - [ ] [<code>Don't use X11 with a11y features (#874)</code>](https://github.com/elementary/greeter/commit/927247729e9ef46d8d4853d82dd1d1111d50fd28)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>UserCard: correctly track whether the user is disable (#879)</code>](https://github.com/elementary/greeter/commit/08235bfbb5cd15c6835e56bcca2e6aa7de1ae23e)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -800,6 +801,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update URLs</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/3fe9ddfadf61e278b1572ff3fe297305765579a2)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#302)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/59df44cb988d11dd5a433837eb51302670108fdb)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
