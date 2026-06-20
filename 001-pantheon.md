@@ -111,6 +111,9 @@
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
+- [ ] [<code>BaseItem: Make index a property and notify when it changes</code>](https://github.com/elementary/dock/commit/3d6a2e4fb4777f660a95afd504d5c98152acc344)
+- [ ] [<code>Launcher: Use index for tooltip</code>](https://github.com/elementary/dock/commit/6f218aa08ed54be536432e22cf766406e20d596b)
+- [ ] [<code>Make ItemManager not a singleton (#589)</code>](https://github.com/elementary/dock/commit/f70a8c5be69fd7b49d9231327e217487f7a6dcab)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
