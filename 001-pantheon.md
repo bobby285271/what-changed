@@ -108,6 +108,8 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.1 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.1...HEAD)
 
+- [ ] [<code>Replace Bin with Box as base class for BranchListBox (#1729)</code>](https://github.com/elementary/code/commit/116f75e1ac588c6b1d93743cd1e6210483a19021)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
