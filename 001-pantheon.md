@@ -3,6 +3,7 @@
 
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.4.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/appcenter/commit/b6ea260c4dffe843459253c33e352470bb431dbb)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -11,6 +12,7 @@
 - [ ] [<code>Update sidebar icons (#299)</code>](https://github.com/elementary/calculator/commit/a117cad22492f4f47a93a023c80644b653777aae)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#304)</code>](https://github.com/elementary/calculator/commit/1d201f0469ce77d65f143aad3c8952a6a9298cfe)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
 
@@ -111,12 +113,14 @@
 
 - [ ] [<code>Replace Bin with Box as base class for BranchListBox (#1729)</code>](https://github.com/elementary/code/commit/116f75e1ac588c6b1d93743cd1e6210483a19021)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/code/commit/85db82e1c330747af210267f64c30ee857ec461c)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
 - [ ] [<code>BaseItem: Make index a property and notify when it changes</code>](https://github.com/elementary/dock/commit/3d6a2e4fb4777f660a95afd504d5c98152acc344)
 - [ ] [<code>Launcher: Use index for tooltip</code>](https://github.com/elementary/dock/commit/6f218aa08ed54be536432e22cf766406e20d596b)
 - [ ] [<code>Make ItemManager not a singleton (#589)</code>](https://github.com/elementary/dock/commit/f70a8c5be69fd7b49d9231327e217487f7a6dcab)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#591)</code>](https://github.com/elementary/dock/commit/f4c4228dc567496717ff75300e8f78047fd73ec3)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -142,12 +146,14 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/iconbrowser/commit/efd2628b28aaa2213d21586778f1a243f3bc78ae)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#75)</code>](https://github.com/elementary/iconbrowser/commit/31e2343a508254ba88d7b40048a7d81b895d5728)
 - [ ] [<code>IconCollection: Add missing emblem icons (#76)</code>](https://github.com/elementary/iconbrowser/commit/8458e88d04d332d602c4329d6312d75c387d6b78)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/iconbrowser/commit/622db28975c107cab237fac29f02be1671e86c1f)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>Persist conversation list filter switches (#1033)</code>](https://github.com/elementary/mail/commit/212bc8cfefcf170f51d4c7436a4fc8068d7b4291)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/mail/commit/5a1ea011d1c20cd9c283ddc0412ce6b67389f0a8)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1044)</code>](https://github.com/elementary/mail/commit/46220e4e46c0bb38928404a262d9a07b498d97ca)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/mail/commit/5c24ae2959e9bda68c78414dff588c09d2b2aab4)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -159,6 +165,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#180)</code>](https://github.com/elementary/maps/commit/2bda38cae244a26826aba16b48060df9b0ae804c)
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#183)</code>](https://github.com/elementary/maps/commit/4caf796edbaada4162a9fbc0f8c0475e050e0719)
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#185)</code>](https://github.com/elementary/maps/commit/71b883c64aef9253a366072ddb30e7c5889f8bbd)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#187)</code>](https://github.com/elementary/maps/commit/3173c5adb80b6a6802176a5b43f22de875f0ef0c)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -282,6 +289,7 @@
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#334)</code>](https://github.com/elementary/screenshot/commit/622fe8decd09c809defcbd058062635f53a2d014)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#337)</code>](https://github.com/elementary/screenshot/commit/2d06b55e06aac33c4b52b7588d385c16e8c60ac4)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -330,6 +338,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#426)</code>](https://github.com/elementary/tasks/commit/3bcccfa929a9af005bcc975fce64d01a92921b9c)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#427)</code>](https://github.com/elementary/tasks/commit/12258fc8f04919e4164ed97242bc0b864bf46259)
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#428)</code>](https://github.com/elementary/tasks/commit/a0566df80a985e553b4a16e94b559fa1ee597638)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/tasks/commit/5b807c4a56060210a67c71867aca027147f13371)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
 
@@ -373,13 +382,16 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard/commit/f8139342cdb1245b76a7452dc93e5edcacf046ce)
 - [ ] [<code>Application: rely on Granite.StyleManager (#377)</code>](https://github.com/elementary/switchboard/commit/11c067223b6ebaccc6ccbba1a0de6c028113c7e3)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#393)</code>](https://github.com/elementary/switchboard/commit/64d3e5ca8f4e0caaf6e1c40e0581d6b3d29e8c54)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#416)</code>](https://github.com/elementary/settings-system/commit/fd08f7c661b9540ee572d986df838e556acd81b2)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-applications/commit/720f4ed1e0b6111bd536f1db267825ed2aca8543)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -419,6 +431,7 @@
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
 - [ ] [<code>ShortcutsList: use a single list model (#565)</code>](https://github.com/elementary/settings-keyboard/commit/d2ef67181f64cf89650242f1a47e5700d8d0308a)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#569)</code>](https://github.com/elementary/settings-keyboard/commit/af8bc2dc6b6651411a65bcd9ca3edd0194154f55)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -434,6 +447,7 @@
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/settings-notifications): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/settings-notifications/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-notifications/commit/db2c2a5f56e5e98c7b1b872bbd12de3b25024cb0)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#122)</code>](https://github.com/elementary/settings-notifications/commit/bac34fdb55cf783e55e17d5cc20d72d9185ddafe)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -453,16 +467,19 @@
 - [ ] [<code>Fix height issue with switch height in battery panel (#286)</code>](https://github.com/elementary/settings-power/commit/d7bbe6670b23b06aa634a7756aca9d8c2979c038)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-power/commit/67905d347e749cab15d21ff3deb5748fac824fea)
 - [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/settings-power/commit/8d01fc56415a44dc123c9a1184caa0ab35ace1af)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#294)</code>](https://github.com/elementary/settings-power/commit/843125a133c7568053e93f68187636b60c195188)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-printers/commit/ca2e4b39113dc19f692c3cb3e8154544b85f801b)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#222)</code>](https://github.com/elementary/settings-printers/commit/92158a4682e6f5d322196435e94c4ed399213982)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/settings-security-privacy): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-security-privacy/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-security-privacy/commit/109d4599a6cc6917d9f49a8a4e8b6e6ee5c845ac)
 - [ ] [<code>GResource icons (#195)</code>](https://github.com/elementary/settings-security-privacy/commit/9fd8f273a46c51ca6bdc16df1989469b459ed841)
 - [ ] [<code>Remove polkit-1 from deps (#197)</code>](https://github.com/elementary/settings-security-privacy/commit/388db07de13ab3a5e094a656f52bdde49ad3d282)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#200)</code>](https://github.com/elementary/settings-security-privacy/commit/1b6faa71fdb9dbf259ce0740bb9650ed25591b51)
 
 #### [pantheon.switchboard-plug-sharing](https://github.com/elementary/settings-sharing): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sharing/compare/refs/tags/8.0.3...HEAD)
 
@@ -470,6 +487,7 @@
 
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.3...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#307)</code>](https://github.com/elementary/settings-sound/commit/4d7a80a6fc04c4c72bd3c8b9dcedefe6b16c74c8)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
@@ -550,9 +568,11 @@
 - [ ] [<code>Don't use X11 with a11y features (#874)</code>](https://github.com/elementary/greeter/commit/927247729e9ef46d8d4853d82dd1d1111d50fd28)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>UserCard: correctly track whether the user is disable (#879)</code>](https://github.com/elementary/greeter/commit/08235bfbb5cd15c6835e56bcca2e6aa7de1ae23e)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/greeter/commit/ac3949dd720cb7b1ebc3152ca14fc2555cdca256)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/onboarding/commit/07472ff7846c04722b943fb876948b89962a2bf8)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -580,6 +600,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix granite style class deprecation (#168)</code>](https://github.com/elementary/shortcut-overlay/commit/619d604cc82ec6beeaf28a21bb182d897e93956a)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#169)</code>](https://github.com/elementary/shortcut-overlay/commit/1dbe5c3714a42ba5ef78f515065d2b8f7e235e40)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -599,6 +620,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2850)</code>](https://github.com/elementary/gala/commit/4d1b6a7bdfd1ec5dfd2cb776f86f069988f703d9)
+- [ ] [<code>HideTracker: Trigger hide if panel window looses focus (#2853)</code>](https://github.com/elementary/gala/commit/e65c91fd2507c7b0ae5359e369636277c3cc35b4)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#2857)</code>](https://github.com/elementary/gala/commit/13080f3ef500479e07bc89b78121aa89accea78c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -644,6 +667,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Replace chaining signals with get_ancestor.popdown (#705)</code>](https://github.com/elementary/applications-menu/commit/ec81ff2292d81702a306c1b59d64dbe9ed6a350e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#708)</code>](https://github.com/elementary/applications-menu/commit/d8374e3f5d49008ced8bebccf1ddfa41eca02c5d)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -736,6 +760,7 @@
 - [ ] [<code>Bump wingpanel dep to 9 (#154)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/f0403d0e9d278f873d704af3ce4d608044d4cca2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#157)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/31b6972293f442b52f137efb920e2f98e9d94e56)
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
@@ -751,6 +776,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/wingpanel-indicator-network/commit/199b19eeeb182c16bcea8c2a467e0cd88abb0e2d)
 - [ ] [<code>Update RDNN (#364)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6b1ba43c17033bb73bc6dd03e4fe57a2ca54b2bd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4159d06d2a4889cead891028df6fae0f5d2d410b)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -773,6 +799,7 @@
 - [ ] [<code>Bump wingpanel dep to 9 (#115)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/14cdc6941c62a40a4833212eb91a45268601b409)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#117)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/5c5abaf8d78f9ac93eb2c14ccb22d46a1c466a68)
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -829,6 +856,7 @@
 - [ ] [<code>Bump wingpanel dep to 9 (#297)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/65e97001da8b7e1bce42c66868c3ebb8594b564d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#300)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d1e5ea16055ea4d94b885aa177f164a81f6f179)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
@@ -840,6 +868,7 @@
 - [ ] [<code>Indicator: put input controls in a revealer (#320)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d1cbaa8e01cb76035e30bb6d67388c7087b15413)
 - [ ] [<code>Fix selection failures (#325)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ec08a48e79835894a6da29d30aa98b9a57a996e4)
 - [ ] [<code>DeviceManagerWidget: connect to list row activated (#327)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/63a0e6d65d3c6c1c7e9dd393eb4f94c2da0a401a)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#328)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f78f33fcb347697373002ad785366fdb86818c9f)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -847,6 +876,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Resource text size icons (#146)</code>](https://github.com/elementary/quick-settings/commit/1751e659c4a7b40de9efc7ea61f0a03d7650228d)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/quick-settings/commit/d409580ff59aaf8501caea634e2889fdd187551d)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
@@ -885,6 +915,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#39)</code>](https://github.com/elementary/contractor/commit/f51ee306127d67a87ae598631cc2ada711e6474b)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#40)</code>](https://github.com/elementary/contractor/commit/a884d889bc86e884475507024b9f9f15a933d9bb)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#43)</code>](https://github.com/elementary/contractor/commit/c81468ec884f438bdd4d1671f7749d1b04627cdb)
 
 #### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.1.0 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.1.0...HEAD)
 
@@ -897,6 +928,7 @@
 - [ ] [<code>ReceiverDialog: GTK4 prep (#30)</code>](https://github.com/elementary/bluetooth-daemon/commit/76ab3e53eb38fcf85bb1b6b8f6892d8c952667d3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Replace show_all with present where appropriate (#48)</code>](https://github.com/elementary/bluetooth-daemon/commit/9730d0282ba462a65bc39b83a60e6af2cf9e85b6)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/bluetooth-daemon/commit/39ae00c58d9b3174f635fd80f50d51f1ff869f3e)
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
@@ -919,6 +951,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Let PackageKit trigger check_for_updates (#234)</code>](https://github.com/elementary/settings-daemon/commit/817dbc8a078d43507b0747904d931b7dfa4c3ee7)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-daemon/commit/252077c2d6e60e323090b237d1f5e37adf289e05)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -943,6 +976,7 @@
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
 - [ ] [<code>ScreenCast: follow spec naming (#191)</code>](https://github.com/elementary/portals/commit/e66361bfe62c4a44b8909c19a36cfc3e4aa6c4d2)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#192)</code>](https://github.com/elementary/portals/commit/92d1bb9c004ef763cfbbe82ef0e93e3942e8018b)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -985,6 +1019,7 @@
 - [ ] [<code>build: Update debootstrap symlink to resolute (#804)</code>](https://github.com/elementary/os/commit/565e3e40d82cd6191dfb5ba33298ffe881ece7fe)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>package-lists: Update package name of Broadcom STA Wireless driver (#806)</code>](https://github.com/elementary/os/commit/4b87836dd1a444f1248205c469bf5ed31f93a9fb)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/os/commit/134a37c4c74efc88e682fd850eb7ccaa2c6008b9)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
