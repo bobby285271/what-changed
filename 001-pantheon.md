@@ -115,6 +115,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/code/commit/85db82e1c330747af210267f64c30ee857ec461c)
 - [ ] [<code>Gtk4 prep: Avoid using focus event (#1730)</code>](https://github.com/elementary/code/commit/5a85e43ea8976435f29845db2f67f51d8e2a2193)
+- [ ] [<code>Remove TemplateManager related code (#1740)</code>](https://github.com/elementary/code/commit/ba96b8451ec491b78aa1c5a1afcb7581338fe6fc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Gtk4Prep: Replace margin property with margin_top etc (#1743)</code>](https://github.com/elementary/code/commit/bb76b3af703e7ce14820301473fd2aef6ce65f85)
+- [ ] [<code>SearchBar: Lose unused WidgetPath and related code (#1742)</code>](https://github.com/elementary/code/commit/30d8854707e5effc4e933939d4e374cf77ed6ff4)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
