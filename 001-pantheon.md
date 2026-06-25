@@ -119,6 +119,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Gtk4Prep: Replace margin property with margin_top etc (#1743)</code>](https://github.com/elementary/code/commit/bb76b3af703e7ce14820301473fd2aef6ce65f85)
 - [ ] [<code>SearchBar: Lose unused WidgetPath and related code (#1742)</code>](https://github.com/elementary/code/commit/30d8854707e5effc4e933939d4e374cf77ed6ff4)
+- [ ] [<code>Create/destroy preferences dialog on demand/response (#1749)</code>](https://github.com/elementary/code/commit/73b9af1b5489a7b863d04c8c24d534528658e8e3)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/435a580ee782a72d3a465cca11820d698416eac0)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -532,6 +534,7 @@
 - [ ] [<code>Emotes: update symbolic icons for gtk 4.22 (#1423)</code>](https://github.com/elementary/icons/commit/b1cb3d647db186fe3d552f451b5d7ee496db7300)
 - [ ] [<code>metainfo: Correct position of translate tag (#1427)</code>](https://github.com/elementary/icons/commit/163b707f0445da58aa1dd7dc358761b6013b597f)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/icons/commit/6f084aeafffba14433e8123e685476b996584dc0)
+- [ ] [<code>Emblems: update symbolic icons for gtk 4.22 (#1425)</code>](https://github.com/elementary/icons/commit/0078423fcaa94be4435c956a7f50b6721a38b9c1)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
