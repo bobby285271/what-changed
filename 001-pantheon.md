@@ -121,6 +121,8 @@
 - [ ] [<code>SearchBar: Lose unused WidgetPath and related code (#1742)</code>](https://github.com/elementary/code/commit/30d8854707e5effc4e933939d4e374cf77ed6ff4)
 - [ ] [<code>Create/destroy preferences dialog on demand/response (#1749)</code>](https://github.com/elementary/code/commit/73b9af1b5489a7b863d04c8c24d534528658e8e3)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/435a580ee782a72d3a465cca11820d698416eac0)
+- [ ] [<code>Use system monospace font not document font</code>](https://github.com/elementary/code/commit/180f5902954c3c799159ef9901009c1a50621b54)
+- [ ] [<code>Revert "Use system monospace font not document font"</code>](https://github.com/elementary/code/commit/7e2b09a636e04fc9a56d5cac141bef5d20e79587)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -667,6 +669,7 @@
 - [ ] [<code>Update vapi for Mutter50 (#679)</code>](https://github.com/elementary/wingpanel/commit/8bc5eeb8f97c436494f744211046992d83a5e0b4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#691)</code>](https://github.com/elementary/wingpanel/commit/faf5f9a0dd1f05abf6c3820655691d16ec4d3e16)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
