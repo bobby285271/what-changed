@@ -123,6 +123,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/435a580ee782a72d3a465cca11820d698416eac0)
 - [ ] [<code>Use system monospace font not document font</code>](https://github.com/elementary/code/commit/180f5902954c3c799159ef9901009c1a50621b54)
 - [ ] [<code>Revert "Use system monospace font not document font"</code>](https://github.com/elementary/code/commit/7e2b09a636e04fc9a56d5cac141bef5d20e79587)
+- [ ] [<code>Use monospace not document font (#1752)</code>](https://github.com/elementary/code/commit/483271cdc933c27603be77e5e4b413c7f94316dd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -639,6 +640,8 @@
 - [ ] [<code>WindowClone: display modal dialogs on top of parent window (#2850)</code>](https://github.com/elementary/gala/commit/4d1b6a7bdfd1ec5dfd2cb776f86f069988f703d9)
 - [ ] [<code>HideTracker: Trigger hide if panel window looses focus (#2853)</code>](https://github.com/elementary/gala/commit/e65c91fd2507c7b0ae5359e369636277c3cc35b4)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#2857)</code>](https://github.com/elementary/gala/commit/13080f3ef500479e07bc89b78121aa89accea78c)
+- [ ] [<code>Implement the greeter (#2854)</code>](https://github.com/elementary/gala/commit/f183e1648451ccaf1a232c78ea4ac15265dd796f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
