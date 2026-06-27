@@ -124,6 +124,11 @@
 - [ ] [<code>Use system monospace font not document font</code>](https://github.com/elementary/code/commit/180f5902954c3c799159ef9901009c1a50621b54)
 - [ ] [<code>Revert "Use system monospace font not document font"</code>](https://github.com/elementary/code/commit/7e2b09a636e04fc9a56d5cac141bef5d20e79587)
 - [ ] [<code>Use monospace not document font (#1752)</code>](https://github.com/elementary/code/commit/483271cdc933c27603be77e5e4b413c7f94316dd)
+- [ ] [<code>Process tab remove all in remove_tab function (#1755)</code>](https://github.com/elementary/code/commit/29706c4184d2af9ae4bdcedf84e57131ab8ca573)
+- [ ] [<code>Replace expand property with hexpand and vexpand (#1754)</code>](https://github.com/elementary/code/commit/95db672469f26f047389a428361c31cf805b24db)
+- [ ] [<code>Use scroll controller for zoom (#1746)</code>](https://github.com/elementary/code/commit/c4238b2e70ab0eacda974b1a388dc63bce114f80)
+- [ ] [<code>Jeremypw/admin/bump copyright date (#1736)</code>](https://github.com/elementary/code/commit/01308d8d878084f31437460835a1116167a81165)
+- [ ] [<code>Gtk4 Prep: User EventController and PopoverMenu for Terminal context menu (#1733)</code>](https://github.com/elementary/code/commit/91e6d78cc2b7b2aa37aefee01e103a38541fd381)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
