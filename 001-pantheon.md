@@ -133,6 +133,7 @@
 - [ ] [<code>Gtk4Prep: Replace dialog.run () and dialog.present () where simple (#1756)</code>](https://github.com/elementary/code/commit/f8441007b4271b3633cb0e641f868afd78523482)
 - [ ] [<code>Gtk4Prep: lose unused New Branch dialog (#1757)</code>](https://github.com/elementary/code/commit/bf19f5d9bcdfc40d583e920ba3c5402b3990cea3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GtkPrep: Replace deprecated document focus handlers (#1747)</code>](https://github.com/elementary/code/commit/c598e76ee8570e8c8b4ad330d780ab26d54a537b)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -371,6 +372,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Add metainfo for release v 8.1.0 (#1012)</code>](https://github.com/elementary/terminal/commit/495a034692cc51c47b89960d6c9939ae0880b2ff)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1014)</code>](https://github.com/elementary/terminal/commit/cfad20566cecce6a067eadb9f3c935adb44c5472)
+- [ ] [<code>Fix some problems running commands from the commandline (Gtk4) (#1008)</code>](https://github.com/elementary/terminal/commit/a325158256df985eb8a77fbc29b644716f120b02)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -651,6 +654,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#2857)</code>](https://github.com/elementary/gala/commit/13080f3ef500479e07bc89b78121aa89accea78c)
 - [ ] [<code>Implement the greeter (#2854)</code>](https://github.com/elementary/gala/commit/f183e1648451ccaf1a232c78ea4ac15265dd796f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Open multitaskingview on swiping up from the bottom of a touchscreen (#2861)</code>](https://github.com/elementary/gala/commit/bf322995feeeca97f86ed5e6f3b60c4ce50ab306)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
