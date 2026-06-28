@@ -108,6 +108,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#301)</code>](https://github.com/elementary/camera/commit/5b499f5b6087f93a1612c7397f67e53e2518b3c5)
 - [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.1 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.1...HEAD)
 
@@ -129,6 +130,9 @@
 - [ ] [<code>Use scroll controller for zoom (#1746)</code>](https://github.com/elementary/code/commit/c4238b2e70ab0eacda974b1a388dc63bce114f80)
 - [ ] [<code>Jeremypw/admin/bump copyright date (#1736)</code>](https://github.com/elementary/code/commit/01308d8d878084f31437460835a1116167a81165)
 - [ ] [<code>Gtk4 Prep: User EventController and PopoverMenu for Terminal context menu (#1733)</code>](https://github.com/elementary/code/commit/91e6d78cc2b7b2aa37aefee01e103a38541fd381)
+- [ ] [<code>Gtk4Prep: Replace dialog.run () and dialog.present () where simple (#1756)</code>](https://github.com/elementary/code/commit/f8441007b4271b3633cb0e641f868afd78523482)
+- [ ] [<code>Gtk4Prep: lose unused New Branch dialog (#1757)</code>](https://github.com/elementary/code/commit/bf19f5d9bcdfc40d583e920ba3c5402b3990cea3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
