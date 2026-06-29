@@ -101,6 +101,7 @@
 - [ ] [<code>LocationPanel: remove point dragging to set location (#932)</code>](https://github.com/elementary/calendar/commit/7b62879151dd95a646c50811f961a5b601712330)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.1.tar.xz to 3.60.2 (#945)</code>](https://github.com/elementary/calendar/commit/5f6c167b23af0fe06ff7e5e737a242a9d29d9656)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#947)</code>](https://github.com/elementary/calendar/commit/b9f10f8d71fde61c188e5c896397970531ec9dce)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.2.tar.xz to 3.61.1</code>](https://github.com/elementary/calendar/commit/3d4cde1372d84f32ee31851725cd0e1134834181)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -307,6 +308,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#838)</code>](https://github.com/elementary/photos/commit/4a5d8c248004d722ce95173a5adbbd8f15122a79)
 - [ ] [<code>libghoto2: Update libgphoto2-2.5.33.tar.xz to 2.5.34 (#841)</code>](https://github.com/elementary/photos/commit/f0a58c3dd8547a1ec36c5a74d38719bca6929416)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/photos/commit/af9cdaec70fa30a10c21322730be6f4b17476c9b)
+- [ ] [<code>gexiv2: Update gexiv2-0.16.0.tar.xz to 0.16.1</code>](https://github.com/elementary/photos/commit/fde2f93036e4f985c10bf34d22e0739b67106cd7)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
@@ -361,6 +363,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#427)</code>](https://github.com/elementary/tasks/commit/12258fc8f04919e4164ed97242bc0b864bf46259)
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#428)</code>](https://github.com/elementary/tasks/commit/a0566df80a985e553b4a16e94b559fa1ee597638)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/tasks/commit/5b807c4a56060210a67c71867aca027147f13371)
+- [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2</code>](https://github.com/elementary/tasks/commit/2cae4e6a4eedd1829c39dd2b0c5a3dc2d11167b8)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
 
