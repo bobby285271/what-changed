@@ -134,6 +134,7 @@
 - [ ] [<code>Gtk4Prep: lose unused New Branch dialog (#1757)</code>](https://github.com/elementary/code/commit/bf19f5d9bcdfc40d583e920ba3c5402b3990cea3)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>GtkPrep: Replace deprecated document focus handlers (#1747)</code>](https://github.com/elementary/code/commit/c598e76ee8570e8c8b4ad330d780ab26d54a537b)
+- [ ] [<code>Lose Window.get_size (#1760)</code>](https://github.com/elementary/code/commit/7e4ee6b7511c79035d69a5b6635bf019f4acfcfa)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
