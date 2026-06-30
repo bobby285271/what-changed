@@ -189,6 +189,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#183)</code>](https://github.com/elementary/maps/commit/4caf796edbaada4162a9fbc0f8c0475e050e0719)
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#185)</code>](https://github.com/elementary/maps/commit/71b883c64aef9253a366072ddb30e7c5889f8bbd)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#187)</code>](https://github.com/elementary/maps/commit/3173c5adb80b6a6802176a5b43f22de875f0ef0c)
+- [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2 (#188)</code>](https://github.com/elementary/maps/commit/e21a342c7af200a642b00764b014df78dd20f57c)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
