@@ -458,6 +458,7 @@
 - [ ] [<code>Apply scaling to virtual monitor reported size (#439)</code>](https://github.com/elementary/settings-display/commit/edeec6371a42dd84f9d4af632a0ffdc8d1d6f526)
 - [ ] [<code>Get `gala_dbus` proxy in instance construct; rescan in callback (#444)</code>](https://github.com/elementary/settings-display/commit/7ffd0a4592f8609cba8947804d8aff81f54d7d46)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-display/commit/8c425b465b91f7dbb0eb4863d52c92bf61987c26)
+- [ ] [<code>Avoid resetting rotation and scale on refresh rate modification (#449)</code>](https://github.com/elementary/settings-display/commit/181edd4127cd70f1dbe79ff550d688748bfb5d91)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
