@@ -137,6 +137,7 @@
 - [ ] [<code>GtkPrep: Replace deprecated document focus handlers (#1747)</code>](https://github.com/elementary/code/commit/c598e76ee8570e8c8b4ad330d780ab26d54a537b)
 - [ ] [<code>Lose Window.get_size (#1760)</code>](https://github.com/elementary/code/commit/7e4ee6b7511c79035d69a5b6635bf019f4acfcfa)
 - [ ] [<code>Allow secondary windows to have different pane state (#1738)</code>](https://github.com/elementary/code/commit/7b23ecc35f14d685b55ca6b339552ad589f2bbb1)
+- [ ] [<code>Gtk4 prep: Avoid connecting directly to key press event (#1731)</code>](https://github.com/elementary/code/commit/1fc959df37c707fec7ca7cc500622ad77f25f49e)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
