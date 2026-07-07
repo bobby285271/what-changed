@@ -138,6 +138,10 @@
 - [ ] [<code>Lose Window.get_size (#1760)</code>](https://github.com/elementary/code/commit/7e4ee6b7511c79035d69a5b6635bf019f4acfcfa)
 - [ ] [<code>Allow secondary windows to have different pane state (#1738)</code>](https://github.com/elementary/code/commit/7b23ecc35f14d685b55ca6b339552ad589f2bbb1)
 - [ ] [<code>Gtk4 prep: Avoid connecting directly to key press event (#1731)</code>](https://github.com/elementary/code/commit/1fc959df37c707fec7ca7cc500622ad77f25f49e)
+- [ ] [<code>Update Gtk.Popover construction (#1764)</code>](https://github.com/elementary/code/commit/fdb864e5c46392bb09004b5afa22be552aa90b76)
+- [ ] [<code>Gtk4Prep: Update ScrolledWindow syntax (#1763)</code>](https://github.com/elementary/code/commit/46ead39dc591ac1fff8ef85bdf4454998b591bcb)
+- [ ] [<code>Gtk4Prep: MainWindow use dialog.show where simple (#1758)</code>](https://github.com/elementary/code/commit/5ccfadb9f19d9df7c6c4dcb518bb90b96cb76785)
+- [ ] [<code>Gtk4Prep: ProjectChooserButton (#1753)</code>](https://github.com/elementary/code/commit/028e3734a53280a752b05c849ce6c54ad99ad0a4)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -558,6 +562,7 @@
 - [ ] [<code>metainfo: Correct position of translate tag (#1427)</code>](https://github.com/elementary/icons/commit/163b707f0445da58aa1dd7dc358761b6013b597f)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/icons/commit/6f084aeafffba14433e8123e685476b996584dc0)
 - [ ] [<code>Emblems: update symbolic icons for gtk 4.22 (#1425)</code>](https://github.com/elementary/icons/commit/0078423fcaa94be4435c956a7f50b6721a38b9c1)
+- [ ] [<code>Actions: update symbolic icons for gtk4.22 (#1431)</code>](https://github.com/elementary/icons/commit/82b7dac6d3661d35fe3e4b32594dc7c7918028e9)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
