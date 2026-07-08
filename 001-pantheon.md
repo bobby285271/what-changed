@@ -612,6 +612,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>UserCard: correctly track whether the user is disable (#879)</code>](https://github.com/elementary/greeter/commit/08235bfbb5cd15c6835e56bcca2e6aa7de1ae23e)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/greeter/commit/ac3949dd720cb7b1ebc3152ca14fc2555cdca256)
+- [ ] [<code>Sync protocol with Gala (#886)</code>](https://github.com/elementary/greeter/commit/3330731cdc5850a62845c99df322ed62e4991f26)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
