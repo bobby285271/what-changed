@@ -142,6 +142,9 @@
 - [ ] [<code>Gtk4Prep: Update ScrolledWindow syntax (#1763)</code>](https://github.com/elementary/code/commit/46ead39dc591ac1fff8ef85bdf4454998b591bcb)
 - [ ] [<code>Gtk4Prep: MainWindow use dialog.show where simple (#1758)</code>](https://github.com/elementary/code/commit/5ccfadb9f19d9df7c6c4dcb518bb90b96cb76785)
 - [ ] [<code>Gtk4Prep: ProjectChooserButton (#1753)</code>](https://github.com/elementary/code/commit/028e3734a53280a752b05c849ce6c54ad99ad0a4)
+- [ ] [<code>Gtk4Prep: Use button controller and PopoverMenu in SourceList (#1734)</code>](https://github.com/elementary/code/commit/06208b9da7234c8536384b08555e25cbb19e4402)
+- [ ] [<code>Gtk4 Prep: Use extra_menu model for sourceview context menu (#1732)</code>](https://github.com/elementary/code/commit/07d2e2176aaec623f9b8051057284e9081302897)
+- [ ] [<code>GtkPrep: Use async dialogs where needed with dialog.show () (#1759)</code>](https://github.com/elementary/code/commit/d63a6eb8c77b31308ba7515561af9dce584387b0)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -540,29 +543,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1352)</code>](https://github.com/elementary/stylesheet/commit/1242ce7955601e1008a9ee5a039577993f6bd60b)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/8.2.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/8.2.0...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [82b7dac6d3661d35fe3e4b32594dc7c7918028e9 → HEAD](https://github.com/elementary/icons/compare/82b7dac6d3661d35fe3e4b32594dc7c7918028e9...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#1401)</code>](https://github.com/elementary/icons/commit/97bc05934711a5e6b5c62bc071c4f5c44b50f4c8)
-- [ ] [<code>Copyright prep for Inkscape contribution (#1402)</code>](https://github.com/elementary/icons/commit/abde1057927482e35b50aa29d9483c7ec9b945a7)
-- [ ] [<code>Add dialog-paint-server for Inkscape (#1389)</code>](https://github.com/elementary/icons/commit/ee7bd93e4bf0f887e65f32b94d81388a6f06731c)
-- [ ] [<code>Add colour version of tools-check-spelling (#1407)</code>](https://github.com/elementary/icons/commit/7bd320c9dde2f8981d5b8b27469de8e479d4384d)
-- [ ] [<code>Add dialog-svg-font for Inkscape (#1385)</code>](https://github.com/elementary/icons/commit/809491b08bd2c5671b33666e0e750b7b4f9e8192)
-- [ ] [<code>Make process-stop and process-completed match (#1409)</code>](https://github.com/elementary/icons/commit/407b605e88662043d4708d2ab199a39e709470f7)
-- [ ] [<code>Add 16px camera-photo (#1411)</code>](https://github.com/elementary/icons/commit/caa2d51883277649ec8b1f3cb5da8c98681e9c76)
-- [ ] [<code>metainfo: Fix typo "16x" → "16px" (#1414)</code>](https://github.com/elementary/icons/commit/5b287e7a501c4c09fe06b3fa8c8bf652f6f9cc67)
-- [ ] [<code>Center app icons  >=48px (#1416)</code>](https://github.com/elementary/icons/commit/78babe7a69b8504272b2b23e59cb3772e1f42168)
-- [ ] [<code>Inkscape tool icons (#1368)</code>](https://github.com/elementary/icons/commit/9a4cfac05e85958b066afe42e4d1b6b8ff4378b2)
-- [ ] [<code>Add dialog-messages for Inkscape (#1388)</code>](https://github.com/elementary/icons/commit/99fb76ec1a44c8d17fa966e6cfed6370a98f075f)
-- [ ] [<code>Add bitmap-trace for Inkscape (#1390)</code>](https://github.com/elementary/icons/commit/1d64673cc42c3c4b0151ab958c5412c701208100)
-- [ ] [<code>Add 'symbols' for Inkscape (#1404)</code>](https://github.com/elementary/icons/commit/59f062170f82aecfea8ee0b7d9bda8c983b3fa42)
-- [ ] [<code>Add Inkscape info, off and on icons (mostly symlinks) (#1408)</code>](https://github.com/elementary/icons/commit/726f1b1db65baee5de3834497f427274d8268134)
-- [ ] [<code>Places: update symbolic icons for gtk 4.22 (#1421)</code>](https://github.com/elementary/icons/commit/2dfc453f0c86a12a926d8ba5d7132c52cf3d7234)
-- [ ] [<code>Status: update symbolic icons for gtk 4.22 (#1422)</code>](https://github.com/elementary/icons/commit/bb3c9c6c82d5cd56de5822efaa5e534bd650fe87)
-- [ ] [<code>Emotes: update symbolic icons for gtk 4.22 (#1423)</code>](https://github.com/elementary/icons/commit/b1cb3d647db186fe3d552f451b5d7ee496db7300)
-- [ ] [<code>metainfo: Correct position of translate tag (#1427)</code>](https://github.com/elementary/icons/commit/163b707f0445da58aa1dd7dc358761b6013b597f)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/icons/commit/6f084aeafffba14433e8123e685476b996584dc0)
-- [ ] [<code>Emblems: update symbolic icons for gtk 4.22 (#1425)</code>](https://github.com/elementary/icons/commit/0078423fcaa94be4435c956a7f50b6721a38b9c1)
-- [ ] [<code>Actions: update symbolic icons for gtk4.22 (#1431)</code>](https://github.com/elementary/icons/commit/82b7dac6d3661d35fe3e4b32594dc7c7918028e9)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -613,6 +595,7 @@
 - [ ] [<code>UserCard: correctly track whether the user is disable (#879)</code>](https://github.com/elementary/greeter/commit/08235bfbb5cd15c6835e56bcca2e6aa7de1ae23e)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/greeter/commit/ac3949dd720cb7b1ebc3152ca14fc2555cdca256)
 - [ ] [<code>Sync protocol with Gala (#886)</code>](https://github.com/elementary/greeter/commit/3330731cdc5850a62845c99df322ed62e4991f26)
+- [ ] [<code>Update OpenSUSE CI (#889)</code>](https://github.com/elementary/greeter/commit/eabc63c93a6a335843b732d07f21b1c63e8bf6de)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -669,6 +652,7 @@
 - [ ] [<code>Implement the greeter (#2854)</code>](https://github.com/elementary/gala/commit/f183e1648451ccaf1a232c78ea4ac15265dd796f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Open multitaskingview on swiping up from the bottom of a touchscreen (#2861)</code>](https://github.com/elementary/gala/commit/bf322995feeeca97f86ed5e6f3b60c4ce50ab306)
+- [ ] [<code>HideTracker: Guard against accessing invalid pointer (#2860)</code>](https://github.com/elementary/gala/commit/c928d9755f3e5e148d76e6da2e0542de2d05e99a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
