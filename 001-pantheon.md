@@ -145,6 +145,10 @@
 - [ ] [<code>Gtk4Prep: Use button controller and PopoverMenu in SourceList (#1734)</code>](https://github.com/elementary/code/commit/06208b9da7234c8536384b08555e25cbb19e4402)
 - [ ] [<code>Gtk4 Prep: Use extra_menu model for sourceview context menu (#1732)</code>](https://github.com/elementary/code/commit/07d2e2176aaec623f9b8051057284e9081302897)
 - [ ] [<code>GtkPrep: Use async dialogs where needed with dialog.show () (#1759)</code>](https://github.com/elementary/code/commit/d63a6eb8c77b31308ba7515561af9dce584387b0)
+- [ ] [<code>Gtk4Prep: Use Gtk.SourceCompletionWords (#1765)</code>](https://github.com/elementary/code/commit/82d2e94c2ba69e093ec14a79dbfa7ecfecbd89a2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/41484e6b84ec7fe7b363d47ed69d6338fc7a6f76)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/fc12f89d067c3ee6a9b7303ad1812dad969cb2da)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -596,6 +600,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/greeter/commit/ac3949dd720cb7b1ebc3152ca14fc2555cdca256)
 - [ ] [<code>Sync protocol with Gala (#886)</code>](https://github.com/elementary/greeter/commit/3330731cdc5850a62845c99df322ed62e4991f26)
 - [ ] [<code>Update OpenSUSE CI (#889)</code>](https://github.com/elementary/greeter/commit/eabc63c93a6a335843b732d07f21b1c63e8bf6de)
+- [ ] [<code>Use AccountsService for user info (#887)</code>](https://github.com/elementary/greeter/commit/1b85892513514d19763fb9c7e076916eb8cb4f42)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
