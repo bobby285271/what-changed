@@ -149,6 +149,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/41484e6b84ec7fe7b363d47ed69d6338fc7a6f76)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/fc12f89d067c3ee6a9b7303ad1812dad969cb2da)
+- [ ] [<code>FormatBar: reduce public API (#1768)</code>](https://github.com/elementary/code/commit/8f1b316b21793a31e05a2d0e644c2f9f3823eee9)
+- [ ] [<code>ChooseProjectButton: code style and GTK4 prep (#1767)</code>](https://github.com/elementary/code/commit/f7d20011ffaa3bf53283a5ff6bde0f2884dd8b41)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>FuzzySearchPopover: code style and GTK4 prep (#1766)</code>](https://github.com/elementary/code/commit/aa0a95e423ae11088deee63ff2ec51183b8da474)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
