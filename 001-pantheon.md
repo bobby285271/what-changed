@@ -153,6 +153,7 @@
 - [ ] [<code>ChooseProjectButton: code style and GTK4 prep (#1767)</code>](https://github.com/elementary/code/commit/f7d20011ffaa3bf53283a5ff6bde0f2884dd8b41)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>FuzzySearchPopover: code style and GTK4 prep (#1766)</code>](https://github.com/elementary/code/commit/aa0a95e423ae11088deee63ff2ec51183b8da474)
+- [ ] [<code>Cleanup: Lose unused methods in PluginManager (#1769)</code>](https://github.com/elementary/code/commit/404961d92659b8eaa46ebcf89b825ef1e23baba6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -476,6 +477,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-display/commit/8c425b465b91f7dbb0eb4863d52c92bf61987c26)
 - [ ] [<code>Avoid resetting rotation and scale on refresh rate modification (#449)</code>](https://github.com/elementary/settings-display/commit/181edd4127cd70f1dbe79ff550d688748bfb5d91)
 - [ ] [<code>ScaleDropDown: Provide a Gtk.Expression instead of a custom factory (#451)</code>](https://github.com/elementary/settings-display/commit/51e6d796473fda41d451cf918c32a2aa1bd6615c)
+- [ ] [<code>Use a dropdown for rotation (#450)</code>](https://github.com/elementary/settings-display/commit/0229da96181bf5cd18b956df6989203ae635d956)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
