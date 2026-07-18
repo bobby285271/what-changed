@@ -667,6 +667,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Open multitaskingview on swiping up from the bottom of a touchscreen (#2861)</code>](https://github.com/elementary/gala/commit/bf322995feeeca97f86ed5e6f3b60c4ce50ab306)
 - [ ] [<code>HideTracker: Guard against accessing invalid pointer (#2860)</code>](https://github.com/elementary/gala/commit/c928d9755f3e5e148d76e6da2e0542de2d05e99a)
+- [ ] [<code>Use WindowManager instead of WindowManagerGala where possible (#2867)</code>](https://github.com/elementary/gala/commit/e08f19c362b1f8e01e5bbd27705dff29ef1ac318)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
