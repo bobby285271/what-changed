@@ -154,6 +154,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>FuzzySearchPopover: code style and GTK4 prep (#1766)</code>](https://github.com/elementary/code/commit/aa0a95e423ae11088deee63ff2ec51183b8da474)
 - [ ] [<code>Cleanup: Lose unused methods in PluginManager (#1769)</code>](https://github.com/elementary/code/commit/404961d92659b8eaa46ebcf89b825ef1e23baba6)
+- [ ] [<code>Cleanup: FolderManager File object (#1770)</code>](https://github.com/elementary/code/commit/b09bd8e1d022fe1b64d68f33882422b9009a0ae5)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
