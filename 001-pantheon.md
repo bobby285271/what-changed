@@ -156,6 +156,8 @@
 - [ ] [<code>Cleanup: Lose unused methods in PluginManager (#1769)</code>](https://github.com/elementary/code/commit/404961d92659b8eaa46ebcf89b825ef1e23baba6)
 - [ ] [<code>Cleanup: FolderManager File object (#1770)</code>](https://github.com/elementary/code/commit/b09bd8e1d022fe1b64d68f33882422b9009a0ae5)
 - [ ] [<code>FormatBar: clean up widget construction (#1772)</code>](https://github.com/elementary/code/commit/d91e4eb009bbb6e499d228355ff5014e490ae726)
+- [ ] [<code>Application: move startup tasks to startup (#1777)</code>](https://github.com/elementary/code/commit/19f66671e548b5f78ac0d19db9ff1407b805fe00)
+- [ ] [<code>FormatBar: don't subclass MenuButton (#1774)</code>](https://github.com/elementary/code/commit/6a99b15f4c0bbecde87900d35b118649e01a7622)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
