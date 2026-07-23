@@ -205,6 +205,9 @@
 - [ ] [<code>MessageList: use menumodel for mark menu (#1052)</code>](https://github.com/elementary/mail/commit/d126da24c3b2e5efb6fc80837170fb52028484ad)
 - [ ] [<code>SourceList: move interfaces to their own files (#1055)</code>](https://github.com/elementary/mail/commit/368bea75774d6e91f773b405585f9daa51291759)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Combine VirtualizingListBoxModel and ConversationListStore (#1057)</code>](https://github.com/elementary/mail/commit/5f5cec34ed8964a0067063318a91c0fce98f3ac1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SourceList: remove unused ActivatableIcon (#1056)</code>](https://github.com/elementary/mail/commit/9f5e31ec011d71d7f66fe7879f13562939d14361)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
