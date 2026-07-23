@@ -158,6 +158,8 @@
 - [ ] [<code>FormatBar: clean up widget construction (#1772)</code>](https://github.com/elementary/code/commit/d91e4eb009bbb6e499d228355ff5014e490ae726)
 - [ ] [<code>Application: move startup tasks to startup (#1777)</code>](https://github.com/elementary/code/commit/19f66671e548b5f78ac0d19db9ff1407b805fe00)
 - [ ] [<code>FormatBar: don't subclass MenuButton (#1774)</code>](https://github.com/elementary/code/commit/6a99b15f4c0bbecde87900d35b118649e01a7622)
+- [ ] [<code>MainWindow: inline namespace</code>](https://github.com/elementary/code/commit/0405b6f9ea8530260f83480e4d845fe61e4cd2f9)
+- [ ] [<code>MainWindow: reduce variable scope and organize</code>](https://github.com/elementary/code/commit/997774bb40225cb64dfd517cdcd6f0c4ad428bcf)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -199,6 +201,10 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/mail/commit/5a1ea011d1c20cd9c283ddc0412ce6b67389f0a8)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#1044)</code>](https://github.com/elementary/mail/commit/46220e4e46c0bb38928404a262d9a07b498d97ca)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/mail/commit/5c24ae2959e9bda68c78414dff588c09d2b2aab4)
+- [ ] [<code>ConversationListItem: use GLib.Menu (#1054)</code>](https://github.com/elementary/mail/commit/0086b5a1b5a9f8e4333bf1600b58295dc62e6eae)
+- [ ] [<code>MessageList: use menumodel for mark menu (#1052)</code>](https://github.com/elementary/mail/commit/d126da24c3b2e5efb6fc80837170fb52028484ad)
+- [ ] [<code>SourceList: move interfaces to their own files (#1055)</code>](https://github.com/elementary/mail/commit/368bea75774d6e91f773b405585f9daa51291759)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
