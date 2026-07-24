@@ -160,6 +160,7 @@
 - [ ] [<code>FormatBar: don't subclass MenuButton (#1774)</code>](https://github.com/elementary/code/commit/6a99b15f4c0bbecde87900d35b118649e01a7622)
 - [ ] [<code>MainWindow: inline namespace</code>](https://github.com/elementary/code/commit/0405b6f9ea8530260f83480e4d845fe61e4cd2f9)
 - [ ] [<code>MainWindow: reduce variable scope and organize</code>](https://github.com/elementary/code/commit/997774bb40225cb64dfd517cdcd6f0c4ad428bcf)
+- [ ] [<code>Replace Gtk.events_pending and main_iteration (#1741)</code>](https://github.com/elementary/code/commit/f7eccf096916dcdbff702b3b6963590ae16b0d79)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -681,6 +682,10 @@
 - [ ] [<code>Open multitaskingview on swiping up from the bottom of a touchscreen (#2861)</code>](https://github.com/elementary/gala/commit/bf322995feeeca97f86ed5e6f3b60c4ce50ab306)
 - [ ] [<code>HideTracker: Guard against accessing invalid pointer (#2860)</code>](https://github.com/elementary/gala/commit/c928d9755f3e5e148d76e6da2e0542de2d05e99a)
 - [ ] [<code>Use WindowManager instead of WindowManagerGala where possible (#2867)</code>](https://github.com/elementary/gala/commit/e08f19c362b1f8e01e5bbd27705dff29ef1ac318)
+- [ ] [<code>MutterTestCase: Explicitly filter expected fatal warning (#2870)</code>](https://github.com/elementary/gala/commit/9bc9c2962d33166fc4ee5372a41fd329e5199345)
+- [ ] [<code>Group various managers in a `Misc` folder (#2869)</code>](https://github.com/elementary/gala/commit/45cd6b4b63f5dbdcaa5cd0e70931eef13da54186)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#2871)</code>](https://github.com/elementary/gala/commit/935ff371ba477c9286aa66ab44d900bea7af34e6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
