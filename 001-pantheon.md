@@ -624,6 +624,7 @@
 - [ ] [<code>Use AccountsService for user info (#887)</code>](https://github.com/elementary/greeter/commit/1b85892513514d19763fb9c7e076916eb8cb4f42)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Sync protocol with new gala (#893)</code>](https://github.com/elementary/greeter/commit/79aeb66f0e77491665dcbbe9a54da8d2e7c6dd74)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
