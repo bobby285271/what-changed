@@ -535,6 +535,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-power/commit/67905d347e749cab15d21ff3deb5748fac824fea)
 - [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/settings-power/commit/8d01fc56415a44dc123c9a1184caa0ab35ace1af)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#294)</code>](https://github.com/elementary/settings-power/commit/843125a133c7568053e93f68187636b60c195188)
+- [ ] [<code>BatteryBox: Update RDNN of Power Panel (#295)</code>](https://github.com/elementary/settings-power/commit/9ba729c5f0bba621972e7988ed8a532a2c3c7c5f)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
@@ -625,6 +626,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Sync protocol with new gala (#893)</code>](https://github.com/elementary/greeter/commit/79aeb66f0e77491665dcbbe9a54da8d2e7c6dd74)
+- [ ] [<code>UserCard: Update RDNN of Power Panel (#895)</code>](https://github.com/elementary/greeter/commit/fdfb7139fe066c757f750393619eb69d18bb347a)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -688,6 +690,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#2871)</code>](https://github.com/elementary/gala/commit/935ff371ba477c9286aa66ab44d900bea7af34e6)
 - [ ] [<code>Put Greeter below all windows (#2863)</code>](https://github.com/elementary/gala/commit/3427f375ace0680755b1f32fb4591db13aa53411)
+- [ ] [<code>lib: remove ActivatableComponent (#2873)</code>](https://github.com/elementary/gala/commit/d8e5a8ee4a2aebf14429b6f4b76d9b2879767e54)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move window type methods to ManagedClient (#2872)</code>](https://github.com/elementary/gala/commit/34c6a364067d36d5b79877ec79d3444a0d88c219)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
