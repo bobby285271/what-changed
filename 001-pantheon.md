@@ -687,6 +687,7 @@
 - [ ] [<code>Group various managers in a `Misc` folder (#2869)</code>](https://github.com/elementary/gala/commit/45cd6b4b63f5dbdcaa5cd0e70931eef13da54186)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#2871)</code>](https://github.com/elementary/gala/commit/935ff371ba477c9286aa66ab44d900bea7af34e6)
+- [ ] [<code>Put Greeter below all windows (#2863)</code>](https://github.com/elementary/gala/commit/3427f375ace0680755b1f32fb4591db13aa53411)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -924,6 +925,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#300)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d1e5ea16055ea4d94b885aa177f164a81f6f179)
+- [ ] [<code>Update RDNN to io.elementary.panel.power (#302)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d59ea9c3da2be7f2235b8e67140a39bc60950c16)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
