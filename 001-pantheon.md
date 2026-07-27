@@ -1115,3 +1115,4 @@
 - [ ] [<code>Create dependabot.yml (#159)</code>](https://github.com/elementary/seeds/commit/48a220fb002d7906a923befd26488fabde5d1046)
 - [ ] [<code>Bump actions/checkout from 3 to 6 (#160)</code>](https://github.com/elementary/seeds/commit/bc49149b0cd7230507fc59f487f4a83c62d3bbc9)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/seeds/commit/abde470149401f1341285a4b106940025536ffae)
+- [ ] [<code>blacklist: Remove ubuntu-pro-tools (#162)</code>](https://github.com/elementary/seeds/commit/3d669704e16a57b90a92abe302bbe89b99ab2c53)
