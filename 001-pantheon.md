@@ -627,6 +627,8 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Sync protocol with new gala (#893)</code>](https://github.com/elementary/greeter/commit/79aeb66f0e77491665dcbbe9a54da8d2e7c6dd74)
 - [ ] [<code>UserCard: Update RDNN of Power Panel (#895)</code>](https://github.com/elementary/greeter/commit/fdfb7139fe066c757f750393619eb69d18bb347a)
+- [ ] [<code>Use gala instead of the greeter compositor (#878)</code>](https://github.com/elementary/greeter/commit/f066e65d82d454d06ba8574f5a25138b5645e510)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -693,6 +695,10 @@
 - [ ] [<code>lib: remove ActivatableComponent (#2873)</code>](https://github.com/elementary/gala/commit/d8e5a8ee4a2aebf14429b6f4b76d9b2879767e54)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move window type methods to ManagedClient (#2872)</code>](https://github.com/elementary/gala/commit/34c6a364067d36d5b79877ec79d3444a0d88c219)
+- [ ] [<code>Require Mutter 46</code>](https://github.com/elementary/gala/commit/ec34df03aa2ed66997995e5877512af9bfc9177e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove Mutter 45 .vapi files</code>](https://github.com/elementary/gala/commit/62044c09f175a4cc70e33ee467ad2b0356e2fd47)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
