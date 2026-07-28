@@ -209,6 +209,8 @@
 - [ ] [<code>Combine VirtualizingListBoxModel and ConversationListStore (#1057)</code>](https://github.com/elementary/mail/commit/5f5cec34ed8964a0067063318a91c0fce98f3ac1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SourceList: remove unused ActivatableIcon (#1056)</code>](https://github.com/elementary/mail/commit/9f5e31ec011d71d7f66fe7879f13562939d14361)
+- [ ] [<code>FolderList: rename files (#1058)</code>](https://github.com/elementary/mail/commit/d482a8045f0b874f961d4d76078db3b8c3a535be)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -629,6 +631,13 @@
 - [ ] [<code>UserCard: Update RDNN of Power Panel (#895)</code>](https://github.com/elementary/greeter/commit/fdfb7139fe066c757f750393619eb69d18bb347a)
 - [ ] [<code>Use gala instead of the greeter compositor (#878)</code>](https://github.com/elementary/greeter/commit/f066e65d82d454d06ba8574f5a25138b5645e510)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Gtk4 prep (#894)</code>](https://github.com/elementary/greeter/commit/cbf339c2fe2a166084115f3e7dc893b205fa56ec)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to Gtk4 (#892)</code>](https://github.com/elementary/greeter/commit/7e3281064f8ff8b55a62901ea8528507b0bf3f21)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES (#896)</code>](https://github.com/elementary/greeter/commit/2b47a17ccbb0f6820999ce6139201b28bb11b3bf)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -1033,6 +1042,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Let PackageKit trigger check_for_updates (#234)</code>](https://github.com/elementary/settings-daemon/commit/817dbc8a078d43507b0747904d931b7dfa4c3ee7)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-daemon/commit/252077c2d6e60e323090b237d1f5e37adf289e05)
+- [ ] [<code>InterfaceSettings: Update RDNN of Power Panel (#237)</code>](https://github.com/elementary/settings-daemon/commit/0957dab5e8c9263cf6cbdeda2c507741e25c7ed3)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1122,3 +1132,6 @@
 - [ ] [<code>Bump actions/checkout from 3 to 6 (#160)</code>](https://github.com/elementary/seeds/commit/bc49149b0cd7230507fc59f487f4a83c62d3bbc9)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/seeds/commit/abde470149401f1341285a4b106940025536ffae)
 - [ ] [<code>blacklist: Remove ubuntu-pro-tools (#162)</code>](https://github.com/elementary/seeds/commit/3d669704e16a57b90a92abe302bbe89b99ab2c53)
+- [ ] [<code>elementary-sdk: Add Granite 9 (#164)</code>](https://github.com/elementary/seeds/commit/123dc7dca889f9842d702e8ecf8e356f6ed6441c)
+- [ ] [<code>Remove unused files (#165)</code>](https://github.com/elementary/seeds/commit/884db44b330f11e2847f6b4283125e67db61acf5)
+- [ ] [<code>desktop: Remove gnome-menus (#166)</code>](https://github.com/elementary/seeds/commit/524b883b37f75a70c52c6122b52322d25500cf55)
