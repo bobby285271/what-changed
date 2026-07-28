@@ -211,6 +211,8 @@
 - [ ] [<code>SourceList: remove unused ActivatableIcon (#1056)</code>](https://github.com/elementary/mail/commit/9f5e31ec011d71d7f66fe7879f13562939d14361)
 - [ ] [<code>FolderList: rename files (#1058)</code>](https://github.com/elementary/mail/commit/d482a8045f0b874f961d4d76078db3b8c3a535be)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>FolderList: cleanup and GTK4 prep (#1059)</code>](https://github.com/elementary/mail/commit/fd188c29651df7b23966c8c5308c313ab2dbdd85)
+- [ ] [<code>FolderItemModel: cleanup (#1061)</code>](https://github.com/elementary/mail/commit/20684648d84f13b0ff0c716d64c31172759ac2bb)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
