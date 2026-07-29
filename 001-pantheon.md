@@ -168,6 +168,7 @@
 - [ ] [<code>Launcher: Use index for tooltip</code>](https://github.com/elementary/dock/commit/6f218aa08ed54be536432e22cf766406e20d596b)
 - [ ] [<code>Make ItemManager not a singleton (#589)</code>](https://github.com/elementary/dock/commit/f70a8c5be69fd7b49d9231327e217487f7a6dcab)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#591)</code>](https://github.com/elementary/dock/commit/f4c4228dc567496717ff75300e8f78047fd73ec3)
+- [ ] [<code>Avoid duplicate background app entries (#594)</code>](https://github.com/elementary/dock/commit/edf78282482253e4b8178d7fa7d0fb90dc2d42c4)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
