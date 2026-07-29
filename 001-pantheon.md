@@ -213,6 +213,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>FolderList: cleanup and GTK4 prep (#1059)</code>](https://github.com/elementary/mail/commit/fd188c29651df7b23966c8c5308c313ab2dbdd85)
 - [ ] [<code>FolderItemModel: cleanup (#1061)</code>](https://github.com/elementary/mail/commit/20684648d84f13b0ff0c716d64c31172759ac2bb)
+- [ ] [<code>ConversationList: remove unused conversation_focused (#1063)</code>](https://github.com/elementary/mail/commit/21ae028e352b4da7133c6973a5ca7ff3ebaac86c)
+- [ ] [<code>FolderItemModel: remove full_name property (#1064)</code>](https://github.com/elementary/mail/commit/12c5754be0ca77220f4ee7a1b3b8bc201677bc98)
+- [ ] [<code>Meson: fix deprecated source_root, new path syntax (#1065)</code>](https://github.com/elementary/mail/commit/d5771702b6519de821b91ce9297961ea7816de07)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SourceList: remove drag and drop (#1066)</code>](https://github.com/elementary/mail/commit/6d04d157ded565802da25f7b9310e5a5f3753a9e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -710,6 +716,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove Mutter 45 .vapi files</code>](https://github.com/elementary/gala/commit/62044c09f175a4cc70e33ee467ad2b0356e2fd47)
+- [ ] [<code>Plugin: remove unused methods (#2877)</code>](https://github.com/elementary/gala/commit/e475da3d87dea69a0e5ee078e1907c4dae4ef68a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
