@@ -427,6 +427,7 @@
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/videos/commit/476e0f9b37337bbad52025e72fa829c03c35bf4f)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/videos/commit/fd850b27368e7cfecc7f60b7b1e3c9ae67693f4e)
+- [ ] [<code>flatpak: Update to org.freedesktop.Platform.codecs-extra 25.08 (#419)</code>](https://github.com/elementary/videos/commit/8610d3c81876e6413a66beec50d485ea0bf70fe4)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
@@ -976,6 +977,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Resource text size icons (#146)</code>](https://github.com/elementary/quick-settings/commit/1751e659c4a7b40de9efc7ea61f0a03d7650228d)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/quick-settings/commit/d409580ff59aaf8501caea634e2889fdd187551d)
+- [ ] [<code>Revert "PopoverWidget: notify when onboard activated in Wayland (#120)" (#151)</code>](https://github.com/elementary/quick-settings/commit/c9b372932894acf9e101e8342044e06c5ceeba3a)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
@@ -1078,6 +1080,8 @@
 
 - [ ] [<code>ScreenCast: follow spec naming (#191)</code>](https://github.com/elementary/portals/commit/e66361bfe62c4a44b8909c19a36cfc3e4aa6c4d2)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#192)</code>](https://github.com/elementary/portals/commit/92d1bb9c004ef763cfbbe82ef0e93e3942e8018b)
+- [ ] [<code>Access: create custom location dialog (#179)</code>](https://github.com/elementary/portals/commit/0cfcaa883db5adbfa0d551a0aa139be540adc727)
+  - <sub>Files: <code>meson.build</code></sub>
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
