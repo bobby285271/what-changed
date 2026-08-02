@@ -648,6 +648,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES (#896)</code>](https://github.com/elementary/greeter/commit/2b47a17ccbb0f6820999ce6139201b28bb11b3bf)
+- [ ] [<code>UserCard: fix grayed out username after account creation (#901)</code>](https://github.com/elementary/greeter/commit/abdfba14bad7d604e146893f160e01448c3fd459)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
