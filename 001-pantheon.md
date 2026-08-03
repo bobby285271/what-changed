@@ -102,6 +102,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.1.tar.xz to 3.60.2 (#945)</code>](https://github.com/elementary/calendar/commit/5f6c167b23af0fe06ff7e5e737a242a9d29d9656)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#947)</code>](https://github.com/elementary/calendar/commit/b9f10f8d71fde61c188e5c896397970531ec9dce)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.2.tar.xz to 3.61.1</code>](https://github.com/elementary/calendar/commit/3d4cde1372d84f32ee31851725cd0e1134834181)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.1.tar.xz to 3.61.2 (#950)</code>](https://github.com/elementary/calendar/commit/de2967cc5fecfb45428a4b9d224837ec16f21362)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -233,6 +234,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#185)</code>](https://github.com/elementary/maps/commit/71b883c64aef9253a366072ddb30e7c5889f8bbd)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#187)</code>](https://github.com/elementary/maps/commit/3173c5adb80b6a6802176a5b43f22de875f0ef0c)
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2 (#188)</code>](https://github.com/elementary/maps/commit/e21a342c7af200a642b00764b014df78dd20f57c)
+- [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#189)</code>](https://github.com/elementary/maps/commit/bdd2777be4e1a168b7284320d6a635daef2880b1)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
