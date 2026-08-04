@@ -103,6 +103,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#947)</code>](https://github.com/elementary/calendar/commit/b9f10f8d71fde61c188e5c896397970531ec9dce)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.2.tar.xz to 3.61.1</code>](https://github.com/elementary/calendar/commit/3d4cde1372d84f32ee31851725cd0e1134834181)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.1.tar.xz to 3.61.2 (#950)</code>](https://github.com/elementary/calendar/commit/de2967cc5fecfb45428a4b9d224837ec16f21362)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#951)</code>](https://github.com/elementary/calendar/commit/543733275a26ad02b435ceb1a7dd38d9eddf4aa7)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -162,6 +163,7 @@
 - [ ] [<code>MainWindow: inline namespace</code>](https://github.com/elementary/code/commit/0405b6f9ea8530260f83480e4d845fe61e4cd2f9)
 - [ ] [<code>MainWindow: reduce variable scope and organize</code>](https://github.com/elementary/code/commit/997774bb40225cb64dfd517cdcd6f0c4ad428bcf)
 - [ ] [<code>Replace Gtk.events_pending and main_iteration (#1741)</code>](https://github.com/elementary/code/commit/f7eccf096916dcdbff702b3b6963590ae16b0d79)
+- [ ] [<code>Metainfo: add 8.3.2 release notes (#1780)</code>](https://github.com/elementary/code/commit/c8d7a7f97c069714f2bcd2454f79fa5fd9ed6300)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -189,6 +191,10 @@
 - [ ] [<code>OverlayBar: Ensure loader and stream destroyed (#2782)</code>](https://github.com/elementary/files/commit/4ddd8d9c115e72b496d9375b4f5a7de3beac91a0)
 - [ ] [<code>Add metainfo for release v7.3.2 (#2802)</code>](https://github.com/elementary/files/commit/f1e1c587e7a386fc1d4701caa9303012f6541be2)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/files/commit/c4e51ea480a3c8b2a26a18f9d7f5fceb502145ef)
+- [ ] [<code>Release v7.3.2 (#2803)</code>](https://github.com/elementary/files/commit/c90fa459dd07fa3c167491763c7b54b9627767e9)
+  - <sub>Tags: <code>7.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -221,6 +227,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SourceList: remove drag and drop (#1066)</code>](https://github.com/elementary/mail/commit/6d04d157ded565802da25f7b9310e5a5f3753a9e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>folks: Use build-options instead of config-opts to force libdir (#1070)</code>](https://github.com/elementary/mail/commit/cef81c1e5dbea54ed4f21b1e123b8f16a5fa0919)
+- [ ] [<code>AccountItemModel: Use GLib.Menu (#1069)</code>](https://github.com/elementary/mail/commit/88d128976baf8b8a70ef1d136fe52508d758ebfc)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -410,6 +418,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#428)</code>](https://github.com/elementary/tasks/commit/a0566df80a985e553b4a16e94b559fa1ee597638)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/tasks/commit/5b807c4a56060210a67c71867aca027147f13371)
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2</code>](https://github.com/elementary/tasks/commit/2cae4e6a4eedd1829c39dd2b0c5a3dc2d11167b8)
+- [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#431)</code>](https://github.com/elementary/tasks/commit/cb85f96df82017912aac0c539267f99b575a28c5)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
 
@@ -424,6 +433,11 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1014)</code>](https://github.com/elementary/terminal/commit/cfad20566cecce6a067eadb9f3c935adb44c5472)
 - [ ] [<code>Fix some problems running commands from the commandline (Gtk4) (#1008)</code>](https://github.com/elementary/terminal/commit/a325158256df985eb8a77fbc29b644716f120b02)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Metainfo: add new issues to 8.1.0 (#1017)</code>](https://github.com/elementary/terminal/commit/ff2cecb7b2a207f47bfaba338379cb3fa5cab650)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Release version 8.1.0 (#1013)</code>](https://github.com/elementary/terminal/commit/c7870e057815f9fee5086e7a822afc0bb14b229a)
+  - <sub>Tags: <code>8.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -1085,6 +1099,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#192)</code>](https://github.com/elementary/portals/commit/92d1bb9c004ef763cfbbe82ef0e93e3942e8018b)
 - [ ] [<code>Access: create custom location dialog (#179)</code>](https://github.com/elementary/portals/commit/0cfcaa883db5adbfa0d551a0aa139be540adc727)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Metainfo: add 8.3.0 release notes (#195)</code>](https://github.com/elementary/portals/commit/04898d7a25c9ac3f1a9fd1c6c74527ad824c834a)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
