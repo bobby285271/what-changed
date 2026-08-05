@@ -106,6 +106,9 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.2.tar.xz to 3.61.1</code>](https://github.com/elementary/calendar/commit/3d4cde1372d84f32ee31851725cd0e1134834181)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.1.tar.xz to 3.61.2 (#950)</code>](https://github.com/elementary/calendar/commit/de2967cc5fecfb45428a4b9d224837ec16f21362)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#951)</code>](https://github.com/elementary/calendar/commit/543733275a26ad02b435ceb1a7dd38d9eddf4aa7)
+- [ ] [<code>Release 8.0.2 (#952)</code>](https://github.com/elementary/calendar/commit/29f640696de60bd46178d49163a255deaffb9fd6)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -166,6 +169,9 @@
 - [ ] [<code>MainWindow: reduce variable scope and organize</code>](https://github.com/elementary/code/commit/997774bb40225cb64dfd517cdcd6f0c4ad428bcf)
 - [ ] [<code>Replace Gtk.events_pending and main_iteration (#1741)</code>](https://github.com/elementary/code/commit/f7eccf096916dcdbff702b3b6963590ae16b0d79)
 - [ ] [<code>Metainfo: add 8.3.2 release notes (#1780)</code>](https://github.com/elementary/code/commit/c8d7a7f97c069714f2bcd2454f79fa5fd9ed6300)
+- [ ] [<code>Release 8.3.2 (#1781)</code>](https://github.com/elementary/code/commit/3f75045db222353f96d38579d188336e13a97864)
+  - <sub>Tags: <code>8.3.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
