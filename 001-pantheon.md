@@ -4,6 +4,8 @@
 #### [pantheon.appcenter](https://github.com/elementary/appcenter): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/appcenter/compare/refs/tags/8.4.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/appcenter/commit/b6ea260c4dffe843459253c33e352470bb431dbb)
+- [ ] [<code>Metainfo: add 8.4.1 release notes</code>](https://github.com/elementary/appcenter/commit/674cbbd6b9e394959c07c45a620a64272e8d5f38)
+- [ ] [<code>AppInfoView/origin dropdown: Use expression instead of custom factory (#2436)</code>](https://github.com/elementary/appcenter/commit/414155d838e80177a70f62af6577fab423c40db7)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -177,23 +179,8 @@
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/feedback/commit/6bb23bf19aa5c49202f7f9cd3c84b5a4f92cefab)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.1 → HEAD](https://github.com/elementary/files/compare/7.3.1...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
 
-- [ ] [<code>Allow horizontal scroll in ListView (#2793)</code>](https://github.com/elementary/files/commit/29f47c211fa6e8eae6d35e54e7b20bc902657533)
-- [ ] [<code>Indicate presence of undisplayed hidden files with empty message (#2663)</code>](https://github.com/elementary/files/commit/936d66b24609341bb371ac972cef9293f32b5436)
-- [ ] [<code>DndHandler & AbstractDirectoryView cleanup (#2792)</code>](https://github.com/elementary/files/commit/a3d5863bade83296944f8c6a3c9914b00a531499)
-- [ ] [<code>Change the shortcut for Focus Sidebar to not interfere with text editing (#2796)</code>](https://github.com/elementary/files/commit/41febf9055f349f924d75246e0f58d9e444e54d9)
-- [ ] [<code>Do not use deprecated DragAction.PRIVATE (#2799)</code>](https://github.com/elementary/files/commit/fe1651926fa37149f66b82885eedb4eed562641f)
-- [ ] [<code>Correct RTL accelerator arrow keys (#2797)</code>](https://github.com/elementary/files/commit/7fa19b2fa3e7c54999d28289617561a420041587)
-- [ ] [<code>Update screenshots for Grid and Column views to show new features (#2804)</code>](https://github.com/elementary/files/commit/c1206d68753c353d5726404944ac233fd1658cc3)
-- [ ] [<code>Get drop target file info on demand (#2798)</code>](https://github.com/elementary/files/commit/972eb725ee961198345384e4864a7c60dee84b0a)
-- [ ] [<code>ColumnView preview: fix reloading subfolder (#2790)</code>](https://github.com/elementary/files/commit/44262ffc8431d348c778f7ce67ba27e080624b08)
-- [ ] [<code>OverlayBar: Ensure loader and stream destroyed (#2782)</code>](https://github.com/elementary/files/commit/4ddd8d9c115e72b496d9375b4f5a7de3beac91a0)
-- [ ] [<code>Add metainfo for release v7.3.2 (#2802)</code>](https://github.com/elementary/files/commit/f1e1c587e7a386fc1d4701caa9303012f6541be2)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/files/commit/c4e51ea480a3c8b2a26a18f9d7f5fceb502145ef)
-- [ ] [<code>Release v7.3.2 (#2803)</code>](https://github.com/elementary/files/commit/c90fa459dd07fa3c167491763c7b54b9627767e9)
-  - <sub>Tags: <code>7.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
@@ -229,6 +216,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>folks: Use build-options instead of config-opts to force libdir (#1070)</code>](https://github.com/elementary/mail/commit/cef81c1e5dbea54ed4f21b1e123b8f16a5fa0919)
 - [ ] [<code>AccountItemModel: Use GLib.Menu (#1069)</code>](https://github.com/elementary/mail/commit/88d128976baf8b8a70ef1d136fe52508d758ebfc)
+- [ ] [<code>FolderList: use GLib.Menu for main menu (#1060)</code>](https://github.com/elementary/mail/commit/94d6417cf771116e2342e0e74b10c58b5d57574b)
+- [ ] [<code>SourceList: use button and key controllers (#1067)</code>](https://github.com/elementary/mail/commit/7d7e826a1bb2a76dc885a290b9e7226f0466e217)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -363,6 +352,8 @@
 - [ ] [<code>libghoto2: Update libgphoto2-2.5.33.tar.xz to 2.5.34 (#841)</code>](https://github.com/elementary/photos/commit/f0a58c3dd8547a1ec36c5a74d38719bca6929416)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/photos/commit/af9cdaec70fa30a10c21322730be6f4b17476c9b)
 - [ ] [<code>gexiv2: Update gexiv2-0.16.0.tar.xz to 0.16.1</code>](https://github.com/elementary/photos/commit/fde2f93036e4f985c10bf34d22e0739b67106cd7)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/photos/commit/d194ed50e7d85c9531a7e010d658d9e034af105b)
+- [ ] [<code>Metainfo: add 8.0.2 release notes (#845)</code>](https://github.com/elementary/photos/commit/d41459fb1da8073cbef22bbea83d9cb2a78c828b)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
@@ -420,24 +411,8 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2</code>](https://github.com/elementary/tasks/commit/2cae4e6a4eedd1829c39dd2b0c5a3dc2d11167b8)
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#431)</code>](https://github.com/elementary/tasks/commit/cb85f96df82017912aac0c539267f99b575a28c5)
 
-#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.0.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.0.0...HEAD)
+#### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
-- [ ] [<code>Fix secondary click foreground process (#1005)</code>](https://github.com/elementary/terminal/commit/fb31d5592e4572a38fef73ff60382e6bbcf5a4de)
-- [ ] [<code>Don't store clipboard object in TerminalWidget</code>](https://github.com/elementary/terminal/commit/40ac3ed5cbad613e356a5204a40b3d5f16b9b90c)
-- [ ] [<code>introduce MainWindow.get_page ()</code>](https://github.com/elementary/terminal/commit/81edaa58a4123af43dbc577d5b990fbe5228f8ce)
-- [ ] [<code>Show tab numbers with shortcut (#1009)</code>](https://github.com/elementary/terminal/commit/532407c956246a265615b68bc2dcf879a190dbb9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add RequestAttention DBus method for tabs needing input (#1010)</code>](https://github.com/elementary/terminal/commit/fb1c8cd401f215c1cefc145783c9894c59e5a495)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add metainfo for release v 8.1.0 (#1012)</code>](https://github.com/elementary/terminal/commit/495a034692cc51c47b89960d6c9939ae0880b2ff)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#1014)</code>](https://github.com/elementary/terminal/commit/cfad20566cecce6a067eadb9f3c935adb44c5472)
-- [ ] [<code>Fix some problems running commands from the commandline (Gtk4) (#1008)</code>](https://github.com/elementary/terminal/commit/a325158256df985eb8a77fbc29b644716f120b02)
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Metainfo: add new issues to 8.1.0 (#1017)</code>](https://github.com/elementary/terminal/commit/ff2cecb7b2a207f47bfaba338379cb3fa5cab650)
-  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
-- [ ] [<code>Release version 8.1.0 (#1013)</code>](https://github.com/elementary/terminal/commit/c7870e057815f9fee5086e7a822afc0bb14b229a)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -520,6 +495,10 @@
 - [ ] [<code>Avoid resetting rotation and scale on refresh rate modification (#449)</code>](https://github.com/elementary/settings-display/commit/181edd4127cd70f1dbe79ff550d688748bfb5d91)
 - [ ] [<code>ScaleDropDown: Provide a Gtk.Expression instead of a custom factory (#451)</code>](https://github.com/elementary/settings-display/commit/51e6d796473fda41d451cf918c32a2aa1bd6615c)
 - [ ] [<code>Use a dropdown for rotation (#450)</code>](https://github.com/elementary/settings-display/commit/0229da96181bf5cd18b956df6989203ae635d956)
+- [ ] [<code>Metainfo: add 8.0.3 (#453)</code>](https://github.com/elementary/settings-display/commit/0e959df00031813c44edd966be84af95d591e543)
+- [ ] [<code>Release 8.0.3 (#454)</code>](https://github.com/elementary/settings-display/commit/dfc173e07e023ae19f19f96aa8e40fe5ef44f593)
+  - <sub>Tags: <code>8.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
@@ -1092,6 +1071,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#112)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/fe522d0718ed24cf74905ca14f901c23e740a624)
+- [ ] [<code>PolkitDialog: use new dialog design from Portals (#116)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/1f1f884b07977cf915ac342305f164c085fcb411)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
