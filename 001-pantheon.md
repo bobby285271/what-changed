@@ -16,99 +16,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#304)</code>](https://github.com/elementary/calculator/commit/1d201f0469ce77d65f143aad3c8952a6a9298cfe)
 
-#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.1...HEAD)
+#### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
-- [ ] [<code>SourceDialog: redesign with vertical layout (#856)</code>](https://github.com/elementary/calendar/commit/0c573191503e7860770a11ce0983512ba74c15ce)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.58.1.tar.xz to 3.58.2 (#871)</code>](https://github.com/elementary/calendar/commit/c204c0a7bdd7f6f6efa710df4d6ce8143ab7da6d)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calendar/commit/60aaac114e2ee4d387178eae7151673810735b0c)
-- [ ] [<code>Show Weeks: Use GLib.Menu (#870)</code>](https://github.com/elementary/calendar/commit/ef1a13e5cbb045ce4e336dd83481df7dc12fe592)
-- [ ] [<code>Switch month with PgUp/PgDown</code>](https://github.com/elementary/calendar/commit/90b313eee92ad7729f0c8cdac1be2e5e8092e17f)
-- [ ] [<code>EventMenu: use GLib.Action (#869)</code>](https://github.com/elementary/calendar/commit/6ca663aa4c58a5f191a2c482ea37b05199b19a09)
-- [ ] [<code>WeekLabels: use Gtk.Gesture</code>](https://github.com/elementary/calendar/commit/f4964577cd94b681d9b6061146adec684222d3ab)
-- [ ] [<code>WeekLabels: don't subclass revealer</code>](https://github.com/elementary/calendar/commit/2a0205a59d1579249d0d904ab529d11e8125927b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>WeekLabels: code style</code>](https://github.com/elementary/calendar/commit/5c36669f07fb9af4e000ddb23a99f6731488f7c0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>SourceRow: remove unused EventBox</code>](https://github.com/elementary/calendar/commit/8666db9fa7e0bf6e2151d8231b8b0f0bd16e38f8)
-- [ ] [<code>VAutoHider: EventBox → Bin</code>](https://github.com/elementary/calendar/commit/2e86c233e169641322a8b61bd74454191ce11916)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>EventButton: use Gtk.Gesture (#877)</code>](https://github.com/elementary/calendar/commit/029f968ef4299a9b95bf2b74070a772e0a207aee)
-- [ ] [<code>Replace show_all with present (#875)</code>](https://github.com/elementary/calendar/commit/89cc26f074ac267f0a80b8912fdaea697bc6f479)
-- [ ] [<code>Header: Use Gtk.Gesture (#882)</code>](https://github.com/elementary/calendar/commit/cfbfd6a6bc1e63405ec3669f0beedcedc8912836)
-- [ ] [<code>Add CSS for display (#881)</code>](https://github.com/elementary/calendar/commit/52eda13ab0b4730d79622407b1e1b6d8ffb7a4cf)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>LocationPanel: code style, gtk4 prep (#880)</code>](https://github.com/elementary/calendar/commit/63132daa87fa84ec5f92369c181ac1ed54055572)
-- [ ] [<code>CalendarView: use EventControllerScroll (#883)</code>](https://github.com/elementary/calendar/commit/2729e91be775d86488b969e4433e4c26d6490c68)
-- [ ] [<code>Update evolution-data-server and folks modules (#884)</code>](https://github.com/elementary/calendar/commit/2338701c89cb4bbbd7b8106a770257305aeaeb15)
-- [ ] [<code>Gtk.Frame.add → Gtk.Frame.child</code>](https://github.com/elementary/calendar/commit/b521bfe0be2579db9d52165e13e99a789a199270)
-- [ ] [<code>Gtk.Revealer.add → Gtk.Revealer.child</code>](https://github.com/elementary/calendar/commit/7ba6051b69586e77d306113849d6b3624ff1f9e6)
-- [ ] [<code>Gtk.ScrolledWindow.add → Gtk.ScrolledWindow.child</code>](https://github.com/elementary/calendar/commit/86cdef4419af34d45689f9e31246f34825e90eea)
-- [ ] [<code>CalendarChooser: iterate without get_children (#888)</code>](https://github.com/elementary/calendar/commit/3c66fd24b6f391a85af994566215abea98ca4266)
-- [ ] [<code>RepeatPanel: Modernize code style (#886)</code>](https://github.com/elementary/calendar/commit/ec61212b961e3e9db9c6d69842e75408618261d1)
-- [ ] [<code>RepeatPanel: use reorder for weekdays (#890)</code>](https://github.com/elementary/calendar/commit/ed6d4d1a0784d59f5c0a7d69ca2d69e6f72307a2)
-- [ ] [<code>ReminderPanel: GTK4 prep (#892)</code>](https://github.com/elementary/calendar/commit/56064e3d1a2831bf668c2779fd50dd7b8b23fd87)
-- [ ] [<code>AgendaEventRow: support long press secondary menu (#887)</code>](https://github.com/elementary/calendar/commit/f0e435e85ff9f1edc406aeb7a3024d1337cc756a)
-- [ ] [<code>EventMenu: Use GLib.Menu</code>](https://github.com/elementary/calendar/commit/5e0dce90efd4433396dd505eac7a241890d3e982)
-- [ ] [<code>EventMenu: don't subclass menu</code>](https://github.com/elementary/calendar/commit/1941d5232952cd6a13fc8b359ba8297744efa389)
-- [ ] [<code>GridDay: add event, not button (#897)</code>](https://github.com/elementary/calendar/commit/ca3c0562292ee4641cdb9335325e7d367e762a30)
-- [ ] [<code>GuestGrid: cleanup and code style (#893)</code>](https://github.com/elementary/calendar/commit/4d0346c9fc289af4997e0b248545f84a0f900875)
-- [ ] [<code>Guests → Invitees (#894)</code>](https://github.com/elementary/calendar/commit/d00f4eed7b6c349199c15fe7559b1874e7553d7c)
-- [ ] [<code>AgendaView: rewrite find without get_children (#895)</code>](https://github.com/elementary/calendar/commit/3ba4a76bab003e531c878919859a0a181870432b)
-- [ ] [<code>CalendarView: GTK4 prep (#889)</code>](https://github.com/elementary/calendar/commit/770cb63cefc42286c8072329a22b71694fb2e100)
-- [ ] [<code>SourceDialog: use Gtk.ComboboxText (#899)</code>](https://github.com/elementary/calendar/commit/7276d59cb956f8bca02377ac7b6cf65c60a69541)
-- [ ] [<code>VAutoHider: clean up (#898)</code>](https://github.com/elementary/calendar/commit/9a66b7a7e340f37e4edfbb46bee5998b0ab9eedf)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>RepeatPanel: iterate without get_children (#896)</code>](https://github.com/elementary/calendar/commit/ce59e16c4e58b15fdb24a19c7c3f0c0ee08964cc)
-- [ ] [<code>EventButton: don't subclass Revealer (#854)</code>](https://github.com/elementary/calendar/commit/893c134554a0381fa871b5c676477eda20f62c3b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.1.tar.xz to 3.59.2 (#905)</code>](https://github.com/elementary/calendar/commit/49ca61a1b1786cc245994266bc6729075cc7224e)
-- [ ] [<code>EventDialog: run → response (#907)</code>](https://github.com/elementary/calendar/commit/55b79e9db8d676f2369cc5d1c4131312f84e58bf)
-- [ ] [<code>Drop Contractor (#908)</code>](https://github.com/elementary/calendar/commit/65eb6d908261db55fc07c26a76ca22635bf3dc56)
-- [ ] [<code>EventDialog: remove dialog properties (#912)</code>](https://github.com/elementary/calendar/commit/4eb59ea430a606d5311d2c80ad75d454d9e5902f)
-- [ ] [<code>SourceRow: wrap label (#921)</code>](https://github.com/elementary/calendar/commit/842a67e0609b23be1c655255df4d1a15121a90e9)
-- [ ] [<code>LocationPanel: remove timezone fallback (#922)</code>](https://github.com/elementary/calendar/commit/c5d5bf29e6db40ac28a0970c940a7313f60dcd16)
-- [ ] [<code>Application: use add_main_option_entries (#911)</code>](https://github.com/elementary/calendar/commit/55656faecc155e661b00df32a21f75b20c6c55ab)
-- [ ] [<code>RepeatPanel: put inside a scrolled (#920)</code>](https://github.com/elementary/calendar/commit/f90d2954de3d23567de3730e565bf9299496e10b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>MainWindow: trash calendars on close (#917)</code>](https://github.com/elementary/calendar/commit/ab2dcfc093466786a9d9ff52eb79b8b805fc7e6a)
-- [ ] [<code>AgendaEventRow: create get_timespan_label (#915)</code>](https://github.com/elementary/calendar/commit/f6bec33a8a2eaf33cf08349062fa112a8c4c9f15)
-- [ ] [<code>CalendarRow: use revealer for selection, emblem-default (#914)</code>](https://github.com/elementary/calendar/commit/98019c7b7f451dc0d0508326edfa3de90fadf62b)
-- [ ] [<code>RepeatPanel: gtk4 friendly text and image button (#919)</code>](https://github.com/elementary/calendar/commit/b05a60d311303dec1e4a37d6b086afe12bdf96ff)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>RepeatPanel: use revealers (#916)</code>](https://github.com/elementary/calendar/commit/ef5e1173d7ad4ce7e0586b878a96179236a9a938)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>LocationPanel: cleanup cancellables in destructor (#918)</code>](https://github.com/elementary/calendar/commit/ca84cb51962d28175f11912b9cd2f12de569c329)
-- [ ] [<code>CalendarView: absorb network connectivity infobar (#909)</code>](https://github.com/elementary/calendar/commit/af47d1287503cd663ac894c1bdd4527d04af9e56)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>AgendaEventRow: escape location description text (#913)</code>](https://github.com/elementary/calendar/commit/3ae673343b6da678c41383a05efdc7cd1ab1f5b8)
-- [ ] [<code>CalendarView: use returned file for export (#923)</code>](https://github.com/elementary/calendar/commit/18654f32ec2587a889afdb56e7fb4d113b737618)
-- [ ] [<code>SourceDialog: only pack type_box when needed (#924)</code>](https://github.com/elementary/calendar/commit/b100ec6b1f1721d4af4b5870465727758cfb4e7e)
-- [ ] [<code>Application.css: no space after alpha (#929)</code>](https://github.com/elementary/calendar/commit/c1f73d40c09c878d288d905839f1abeb5733937a)
-- [ ] [<code>EventDialog: remove unused can_edit (#927)</code>](https://github.com/elementary/calendar/commit/b3fa36f58a2b929e443f6b8b509631072bb93915)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>InfoPanel: TextView uses properties (#925)</code>](https://github.com/elementary/calendar/commit/7a49b9233133592caca9e13c44befa52fef7ae72)
-- [ ] [<code>GuestsPanel: GObject style, cleanup (#926)</code>](https://github.com/elementary/calendar/commit/9df346cf601259bf07366d0b2e762c513e673b0d)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.2.tar.xz to 3.59.3 (#934)</code>](https://github.com/elementary/calendar/commit/43e1759c44120447c2bd618de0c38a840782e49f)
-- [ ] [<code>IcalTime: use TimeZone.identifier (#910)</code>](https://github.com/elementary/calendar/commit/59deceb289a4a6adad1f5516d820d7b915ae7d28)
-- [ ] [<code>SourceRow: create accent colors for screen (#931)</code>](https://github.com/elementary/calendar/commit/0dae65c1effa70d7ebf9cf285c0283ed86fcf883)
-- [ ] [<code>EventMenu: set sensitive during construction (#928)</code>](https://github.com/elementary/calendar/commit/6a5ca74d75714bcbc9fc984661759bc61b7663c0)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.59.3.tar.xz to 3.60.0 (#937)</code>](https://github.com/elementary/calendar/commit/a7aea32950e08767e4b8d9be0104f2d02f0a99c3)
-- [ ] [<code>LocationPanel: conditionals use brackets, grab focus (#938)</code>](https://github.com/elementary/calendar/commit/9601862e10f7126d740184b6d606b48576f85a1e)
-- [ ] [<code>EventButton: Clean up drag n drop events (#933)</code>](https://github.com/elementary/calendar/commit/7cff9fd3d5b860fc4bef040028b0a6f8b73838a6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.0.tar.xz to 3.60.1 (#942)</code>](https://github.com/elementary/calendar/commit/efcf668e73f14e43a9a0730260ea1b9b4a2b8fdc)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#943)</code>](https://github.com/elementary/calendar/commit/9b5ea501d358e61476130e68e83367a9cae15487)
-- [ ] [<code>VAutoHider: cleanup size_allocate (#940)</code>](https://github.com/elementary/calendar/commit/f5d41e255c7fae1fed30cb7e7726756bbc6fa392)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>LocationPanel: remove point dragging to set location (#932)</code>](https://github.com/elementary/calendar/commit/7b62879151dd95a646c50811f961a5b601712330)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.1.tar.xz to 3.60.2 (#945)</code>](https://github.com/elementary/calendar/commit/5f6c167b23af0fe06ff7e5e737a242a9d29d9656)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#947)</code>](https://github.com/elementary/calendar/commit/b9f10f8d71fde61c188e5c896397970531ec9dce)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.60.2.tar.xz to 3.61.1</code>](https://github.com/elementary/calendar/commit/3d4cde1372d84f32ee31851725cd0e1134834181)
-- [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.1.tar.xz to 3.61.2 (#950)</code>](https://github.com/elementary/calendar/commit/de2967cc5fecfb45428a4b9d224837ec16f21362)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#951)</code>](https://github.com/elementary/calendar/commit/543733275a26ad02b435ceb1a7dd38d9eddf4aa7)
-- [ ] [<code>Release 8.0.2 (#952)</code>](https://github.com/elementary/calendar/commit/29f640696de60bd46178d49163a255deaffb9fd6)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -118,60 +27,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.1 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.1...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.2...HEAD)
 
-- [ ] [<code>Replace Bin with Box as base class for BranchListBox (#1729)</code>](https://github.com/elementary/code/commit/116f75e1ac588c6b1d93743cd1e6210483a19021)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/code/commit/85db82e1c330747af210267f64c30ee857ec461c)
-- [ ] [<code>Gtk4 prep: Avoid using focus event (#1730)</code>](https://github.com/elementary/code/commit/5a85e43ea8976435f29845db2f67f51d8e2a2193)
-- [ ] [<code>Remove TemplateManager related code (#1740)</code>](https://github.com/elementary/code/commit/ba96b8451ec491b78aa1c5a1afcb7581338fe6fc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Gtk4Prep: Replace margin property with margin_top etc (#1743)</code>](https://github.com/elementary/code/commit/bb76b3af703e7ce14820301473fd2aef6ce65f85)
-- [ ] [<code>SearchBar: Lose unused WidgetPath and related code (#1742)</code>](https://github.com/elementary/code/commit/30d8854707e5effc4e933939d4e374cf77ed6ff4)
-- [ ] [<code>Create/destroy preferences dialog on demand/response (#1749)</code>](https://github.com/elementary/code/commit/73b9af1b5489a7b863d04c8c24d534528658e8e3)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/435a580ee782a72d3a465cca11820d698416eac0)
-- [ ] [<code>Use system monospace font not document font</code>](https://github.com/elementary/code/commit/180f5902954c3c799159ef9901009c1a50621b54)
-- [ ] [<code>Revert "Use system monospace font not document font"</code>](https://github.com/elementary/code/commit/7e2b09a636e04fc9a56d5cac141bef5d20e79587)
-- [ ] [<code>Use monospace not document font (#1752)</code>](https://github.com/elementary/code/commit/483271cdc933c27603be77e5e4b413c7f94316dd)
-- [ ] [<code>Process tab remove all in remove_tab function (#1755)</code>](https://github.com/elementary/code/commit/29706c4184d2af9ae4bdcedf84e57131ab8ca573)
-- [ ] [<code>Replace expand property with hexpand and vexpand (#1754)</code>](https://github.com/elementary/code/commit/95db672469f26f047389a428361c31cf805b24db)
-- [ ] [<code>Use scroll controller for zoom (#1746)</code>](https://github.com/elementary/code/commit/c4238b2e70ab0eacda974b1a388dc63bce114f80)
-- [ ] [<code>Jeremypw/admin/bump copyright date (#1736)</code>](https://github.com/elementary/code/commit/01308d8d878084f31437460835a1116167a81165)
-- [ ] [<code>Gtk4 Prep: User EventController and PopoverMenu for Terminal context menu (#1733)</code>](https://github.com/elementary/code/commit/91e6d78cc2b7b2aa37aefee01e103a38541fd381)
-- [ ] [<code>Gtk4Prep: Replace dialog.run () and dialog.present () where simple (#1756)</code>](https://github.com/elementary/code/commit/f8441007b4271b3633cb0e641f868afd78523482)
-- [ ] [<code>Gtk4Prep: lose unused New Branch dialog (#1757)</code>](https://github.com/elementary/code/commit/bf19f5d9bcdfc40d583e920ba3c5402b3990cea3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>GtkPrep: Replace deprecated document focus handlers (#1747)</code>](https://github.com/elementary/code/commit/c598e76ee8570e8c8b4ad330d780ab26d54a537b)
-- [ ] [<code>Lose Window.get_size (#1760)</code>](https://github.com/elementary/code/commit/7e4ee6b7511c79035d69a5b6635bf019f4acfcfa)
-- [ ] [<code>Allow secondary windows to have different pane state (#1738)</code>](https://github.com/elementary/code/commit/7b23ecc35f14d685b55ca6b339552ad589f2bbb1)
-- [ ] [<code>Gtk4 prep: Avoid connecting directly to key press event (#1731)</code>](https://github.com/elementary/code/commit/1fc959df37c707fec7ca7cc500622ad77f25f49e)
-- [ ] [<code>Update Gtk.Popover construction (#1764)</code>](https://github.com/elementary/code/commit/fdb864e5c46392bb09004b5afa22be552aa90b76)
-- [ ] [<code>Gtk4Prep: Update ScrolledWindow syntax (#1763)</code>](https://github.com/elementary/code/commit/46ead39dc591ac1fff8ef85bdf4454998b591bcb)
-- [ ] [<code>Gtk4Prep: MainWindow use dialog.show where simple (#1758)</code>](https://github.com/elementary/code/commit/5ccfadb9f19d9df7c6c4dcb518bb90b96cb76785)
-- [ ] [<code>Gtk4Prep: ProjectChooserButton (#1753)</code>](https://github.com/elementary/code/commit/028e3734a53280a752b05c849ce6c54ad99ad0a4)
-- [ ] [<code>Gtk4Prep: Use button controller and PopoverMenu in SourceList (#1734)</code>](https://github.com/elementary/code/commit/06208b9da7234c8536384b08555e25cbb19e4402)
-- [ ] [<code>Gtk4 Prep: Use extra_menu model for sourceview context menu (#1732)</code>](https://github.com/elementary/code/commit/07d2e2176aaec623f9b8051057284e9081302897)
-- [ ] [<code>GtkPrep: Use async dialogs where needed with dialog.show () (#1759)</code>](https://github.com/elementary/code/commit/d63a6eb8c77b31308ba7515561af9dce584387b0)
-- [ ] [<code>Gtk4Prep: Use Gtk.SourceCompletionWords (#1765)</code>](https://github.com/elementary/code/commit/82d2e94c2ba69e093ec14a79dbfa7ecfecbd89a2)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/41484e6b84ec7fe7b363d47ed69d6338fc7a6f76)
-- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/code/commit/fc12f89d067c3ee6a9b7303ad1812dad969cb2da)
-- [ ] [<code>FormatBar: reduce public API (#1768)</code>](https://github.com/elementary/code/commit/8f1b316b21793a31e05a2d0e644c2f9f3823eee9)
-- [ ] [<code>ChooseProjectButton: code style and GTK4 prep (#1767)</code>](https://github.com/elementary/code/commit/f7d20011ffaa3bf53283a5ff6bde0f2884dd8b41)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>FuzzySearchPopover: code style and GTK4 prep (#1766)</code>](https://github.com/elementary/code/commit/aa0a95e423ae11088deee63ff2ec51183b8da474)
-- [ ] [<code>Cleanup: Lose unused methods in PluginManager (#1769)</code>](https://github.com/elementary/code/commit/404961d92659b8eaa46ebcf89b825ef1e23baba6)
-- [ ] [<code>Cleanup: FolderManager File object (#1770)</code>](https://github.com/elementary/code/commit/b09bd8e1d022fe1b64d68f33882422b9009a0ae5)
-- [ ] [<code>FormatBar: clean up widget construction (#1772)</code>](https://github.com/elementary/code/commit/d91e4eb009bbb6e499d228355ff5014e490ae726)
-- [ ] [<code>Application: move startup tasks to startup (#1777)</code>](https://github.com/elementary/code/commit/19f66671e548b5f78ac0d19db9ff1407b805fe00)
-- [ ] [<code>FormatBar: don't subclass MenuButton (#1774)</code>](https://github.com/elementary/code/commit/6a99b15f4c0bbecde87900d35b118649e01a7622)
-- [ ] [<code>MainWindow: inline namespace</code>](https://github.com/elementary/code/commit/0405b6f9ea8530260f83480e4d845fe61e4cd2f9)
-- [ ] [<code>MainWindow: reduce variable scope and organize</code>](https://github.com/elementary/code/commit/997774bb40225cb64dfd517cdcd6f0c4ad428bcf)
-- [ ] [<code>Replace Gtk.events_pending and main_iteration (#1741)</code>](https://github.com/elementary/code/commit/f7eccf096916dcdbff702b3b6963590ae16b0d79)
-- [ ] [<code>Metainfo: add 8.3.2 release notes (#1780)</code>](https://github.com/elementary/code/commit/c8d7a7f97c069714f2bcd2454f79fa5fd9ed6300)
-- [ ] [<code>Release 8.3.2 (#1781)</code>](https://github.com/elementary/code/commit/3f75045db222353f96d38579d188336e13a97864)
-  - <sub>Tags: <code>8.3.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -224,6 +81,12 @@
 - [ ] [<code>AccountItemModel: Use GLib.Menu (#1069)</code>](https://github.com/elementary/mail/commit/88d128976baf8b8a70ef1d136fe52508d758ebfc)
 - [ ] [<code>FolderList: use GLib.Menu for main menu (#1060)</code>](https://github.com/elementary/mail/commit/94d6417cf771116e2342e0e74b10c58b5d57574b)
 - [ ] [<code>SourceList: use button and key controllers (#1067)</code>](https://github.com/elementary/mail/commit/7d7e826a1bb2a76dc885a290b9e7226f0466e217)
+- [ ] [<code>ExpandableItem: Do not overwrite editable which already set</code>](https://github.com/elementary/mail/commit/564663c74d7ca5a04a44b5682c81d24b9103420d)
+- [ ] [<code>SourceList: Fix double-click does not trigger rename</code>](https://github.com/elementary/mail/commit/e49faa89d78ab94616a4955193d38e07c529f901)
+- [ ] [<code>FolderItemModel: Fix coredump when deciding new name</code>](https://github.com/elementary/mail/commit/1140d5e27052a0ac13b5393d35cde594ea8b8438)
+- [ ] [<code>FolderRow: use icon_name property, code style (#1074)</code>](https://github.com/elementary/mail/commit/692578d6abb33a5472b4ba10c991a29c5a489dc6)
+- [ ] [<code>Composer: construct image label button for GTK4</code>](https://github.com/elementary/mail/commit/676254abf76281b3b2c972107c72c28b88e3b8bc)
+- [ ] [<code>SignatureDialog: construct image label button for GTK4</code>](https://github.com/elementary/mail/commit/8949f99a84cc930b3b45aac1e510878a7e832dee)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -360,6 +223,9 @@
 - [ ] [<code>gexiv2: Update gexiv2-0.16.0.tar.xz to 0.16.1</code>](https://github.com/elementary/photos/commit/fde2f93036e4f985c10bf34d22e0739b67106cd7)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/photos/commit/d194ed50e7d85c9531a7e010d658d9e034af105b)
 - [ ] [<code>Metainfo: add 8.0.2 release notes (#845)</code>](https://github.com/elementary/photos/commit/d41459fb1da8073cbef22bbea83d9cb2a78c828b)
+- [ ] [<code>Release 8.0.2 (#846)</code>](https://github.com/elementary/photos/commit/82607e02d19b14dd7c4cbbd7696651ee4310d365)
+  - <sub>Tags: <code>8.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
@@ -482,29 +348,8 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-datetime/commit/39303d6a1c231acea07a8d11d6124b60c489f09b)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#140)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ad42bebd47a4f090acd160e7a54b789ff7425f6b)
 
-#### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.2 → HEAD](https://github.com/elementary/settings-display/compare/8.0.2...HEAD)
+#### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.3 → HEAD](https://github.com/elementary/settings-display/compare/8.0.3...HEAD)
 
-- [ ] [<code>switchboard-plug-display → settings-display</code>](https://github.com/elementary/settings-display/commit/0b76ab2b3911e5273055f677ccb88ca2587e9165)
-- [ ] [<code>Actions: Use main branch (#428)</code>](https://github.com/elementary/settings-display/commit/40addea3c831bc7679e109632a361d2d59d82152)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#429)</code>](https://github.com/elementary/settings-display/commit/05e66ac790bba2927f0018680d4e2f3de8e55c82)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/settings-display/commit/3579e2bef3e900790e30b4b800f9ee6ea30f19db)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-display/commit/7eaeec15afff2335bbf1c639b4e881fee3ec770d)
-- [ ] [<code>DisplaysView: fix deprecated Granite style class constant (#443)</code>](https://github.com/elementary/settings-display/commit/920721d9a90a0306b86257867d2cba4bf19a75a6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update for Meson 0.58.0 (#442)</code>](https://github.com/elementary/settings-display/commit/17ef49bc6ece9b311aab62ca17fbb0e23f160c46)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Apply scaling to virtual monitor reported size (#439)</code>](https://github.com/elementary/settings-display/commit/edeec6371a42dd84f9d4af632a0ffdc8d1d6f526)
-- [ ] [<code>Get `gala_dbus` proxy in instance construct; rescan in callback (#444)</code>](https://github.com/elementary/settings-display/commit/7ffd0a4592f8609cba8947804d8aff81f54d7d46)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-display/commit/8c425b465b91f7dbb0eb4863d52c92bf61987c26)
-- [ ] [<code>Avoid resetting rotation and scale on refresh rate modification (#449)</code>](https://github.com/elementary/settings-display/commit/181edd4127cd70f1dbe79ff550d688748bfb5d91)
-- [ ] [<code>ScaleDropDown: Provide a Gtk.Expression instead of a custom factory (#451)</code>](https://github.com/elementary/settings-display/commit/51e6d796473fda41d451cf918c32a2aa1bd6615c)
-- [ ] [<code>Use a dropdown for rotation (#450)</code>](https://github.com/elementary/settings-display/commit/0229da96181bf5cd18b956df6989203ae635d956)
-- [ ] [<code>Metainfo: add 8.0.3 (#453)</code>](https://github.com/elementary/settings-display/commit/0e959df00031813c44edd966be84af95d591e543)
-- [ ] [<code>Release 8.0.3 (#454)</code>](https://github.com/elementary/settings-display/commit/dfc173e07e023ae19f19f96aa8e40fe5ef44f593)
-  - <sub>Tags: <code>8.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
@@ -1078,6 +923,10 @@
 - [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#112)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/fe522d0718ed24cf74905ca14f901c23e740a624)
 - [ ] [<code>PolkitDialog: use new dialog design from Portals (#116)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/1f1f884b07977cf915ac342305f164c085fcb411)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update screenshot (#117)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/aca64525da1d3c3ce5eb437b3e9fed8d9b669c7e)
+- [ ] [<code>Release 8.1.0 (#115)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/ed4d4c72d7757c8c8371b565ae86c3968a038e02)
+  - <sub>Tags: <code>8.1.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
