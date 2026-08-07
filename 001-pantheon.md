@@ -87,6 +87,10 @@
 - [ ] [<code>FolderRow: use icon_name property, code style (#1074)</code>](https://github.com/elementary/mail/commit/692578d6abb33a5472b4ba10c991a29c5a489dc6)
 - [ ] [<code>Composer: construct image label button for GTK4</code>](https://github.com/elementary/mail/commit/676254abf76281b3b2c972107c72c28b88e3b8bc)
 - [ ] [<code>SignatureDialog: construct image label button for GTK4</code>](https://github.com/elementary/mail/commit/8949f99a84cc930b3b45aac1e510878a7e832dee)
+- [ ] [<code>Composer: cleanup and GTK4 prep (#1076)</code>](https://github.com/elementary/mail/commit/363f6156dc488e12ff316fdbddb9f4df8354ca7e)
+- [ ] [<code>FolderRow: Removed unused depth property</code>](https://github.com/elementary/mail/commit/ddf2247a9febe415f730487a723b96be0fa4b6e3)
+- [ ] [<code>MessageListItem: use InfoBar.revealed (#1077)</code>](https://github.com/elementary/mail/commit/e93b476a443bba854c6739f6a609fca1d6c3b23e)
+- [ ] [<code>Composer: use ListStore for attachments (#1078)</code>](https://github.com/elementary/mail/commit/60a5d8d4607bca5cddc64cb8542255a8746317f1)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -170,62 +174,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/music/commit/ab0615eaf98f8f4182e94848819e5b409312fcdf)
 
-#### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.1 → HEAD](https://github.com/elementary/photos/compare/8.0.1...HEAD)
+#### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
-- [ ] [<code>Modernize desktop files, simplify build (#778)</code>](https://github.com/elementary/photos/commit/25ccd5742001457c0cf65de86f07399925ba590e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>MetadataDateTime: Fix crash in fallback scanf code (#785)</code>](https://github.com/elementary/photos/commit/725ff6e4eb73af753de29d25fe9d622b7dc6d485)
-- [ ] [<code>DirectoryMonitor: Silence hidden file terminal warning (#786)</code>](https://github.com/elementary/photos/commit/1e7d82aae04ea73468d3c4c222f492b0c109ecdf)
-- [ ] [<code>Make Photometadata class more robust (#781)</code>](https://github.com/elementary/photos/commit/63ae89b0198e00aaa147575b8eb2eec2dae2fdab)
-- [ ] [<code>Fix panning zoomed images on Wayland (#790)</code>](https://github.com/elementary/photos/commit/99f584b9345999a75b070f8e0e7f7e555af58b1c)
-- [ ] [<code>Actions: bump flatpak to 6.4 (#792)</code>](https://github.com/elementary/photos/commit/45f7c78c5eb57b872a38d2aba9bec50b4c1db9f3)
-- [ ] [<code>ci(flatpak-x-checker): fix manifest path</code>](https://github.com/elementary/photos/commit/9fc5c856b9334e0d06f9d173f773f27c199896b8)
-- [ ] [<code>Update exiv2 and gexiv2 modules (#794)</code>](https://github.com/elementary/photos/commit/7ece313dac9a1145110011396a6f7298ced10ea3)
-- [ ] [<code>CI: run arm workflows on arm runner (#793)</code>](https://github.com/elementary/photos/commit/1011cc8d68bc5842b8b41306453304bd7111bfef)
-- [ ] [<code>Fix some terminal warnings (#791)</code>](https://github.com/elementary/photos/commit/80361ef58825452e23116a1365b4c3131c934e57)
-- [ ] [<code>inih: Update inih to 59 (#796)</code>](https://github.com/elementary/photos/commit/e8b3ccbc3127607de0622014437373484ee9aa72)
-- [ ] [<code>inih: Update inih to 60 (#798)</code>](https://github.com/elementary/photos/commit/944ad21bd861d48218e12a91b0b4247fab546908)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.4 to 6.5 (#799)</code>](https://github.com/elementary/photos/commit/8b0b21dad018c52051f3ed7fadb7cb123c4f89ba)
-- [ ] [<code>gexiv2: Update gexiv2-0.14.3.tar.xz to 0.14.5 (#800)</code>](https://github.com/elementary/photos/commit/b1f0694ffe585eb306527f69b50f00a328201162)
-- [ ] [<code>COPYING → LICENSE (#802)</code>](https://github.com/elementary/photos/commit/c64e177ce9d145c49e2b046a702346950a15cf0f)
-- [ ] [<code>Resource: add path to symbolics (#804)</code>](https://github.com/elementary/photos/commit/07b5ac415f52103fb37b876bb1a0c3469ff49fcd)
-- [ ] [<code>Bump platform to 8.2 (#795)</code>](https://github.com/elementary/photos/commit/449769d9f1428a845fe1333ec46b393aa8763cdb)
-- [ ] [<code>Add support for gexiv2-0.16 (#810)</code>](https://github.com/elementary/photos/commit/2737db9170402b21f1ae6370aed8277cd75ab988)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Update inih, gexiv2 and libghoto2 modules (#809)</code>](https://github.com/elementary/photos/commit/53092183b825b52255a72d459862c9d810763a94)
-- [ ] [<code>VideoSupport: Replace deprecated Gst.PbUtils.DiscovererInfo.get_tags (#811)</code>](https://github.com/elementary/photos/commit/9f23d3e8138742640080735dec40b2d0daa6e371)
-- [ ] [<code>PhotoMetadata: Replace deprecated GExiv2.Metadata.get_tag_label (#812)</code>](https://github.com/elementary/photos/commit/62619ed735fc431e825f34bec28ceea6c1240c79)
-- [ ] [<code>PhotoMetadata: Fix missing handle of enum values and remove unused (#813)</code>](https://github.com/elementary/photos/commit/e8ab83b2d68ab916a50d70b7c5bc30c975e616ad)
-- [ ] [<code>string: Replace deprecated COMBINING_MARK and missing handle of enum values (#814)</code>](https://github.com/elementary/photos/commit/08eb6e8009d00f849842253564ffc3df7838fd37)
-- [ ] [<code>ImportQueuePage: Correctly override; explicit .begin (#815)</code>](https://github.com/elementary/photos/commit/50e847dcc26579b8f7a92afe2e969698c55c3847)
-- [ ] [<code>Page: Replace deprecated Gdk.Keymap.get_default (#816)</code>](https://github.com/elementary/photos/commit/f6c0814ab0c033951079fb08468ebed026f41390)
-- [ ] [<code>Plugins: Replace deprecated ModuleFlags.BIND_LAZY and Module.SUFFIX (#817)</code>](https://github.com/elementary/photos/commit/39ce7a6bc445f669805f69b0d37c0fd776faed89)
-- [ ] [<code>meson: Use multiple dependency name instead of manual fallback (#819)</code>](https://github.com/elementary/photos/commit/1e29e2da76786c242734a079bf99191f0575531d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Actions: Use main branch (#821)</code>](https://github.com/elementary/photos/commit/3c13a14838f409a7f256bc7d6db7948c70e99f78)
-- [ ] [<code>gexiv2: Update gexiv2-0.15.0.tar.xz to 0.15.1 (#822)</code>](https://github.com/elementary/photos/commit/a45a744059af50a308add6bb6c3a2098dbab9041)
-- [ ] [<code>main: Remove unused code (#823)</code>](https://github.com/elementary/photos/commit/5543cfd4d0c269fd8d3b3dadaa0d80caf55be2bd)
-- [ ] [<code>Bump actions/checkout from 4 to 5 (#824)</code>](https://github.com/elementary/photos/commit/394a6eee1f51e2635f8b1453bb9d1de3e20bc8d8)
-- [ ] [<code>Update exiv2 and gexiv2 modules (#825)</code>](https://github.com/elementary/photos/commit/a185bbade0312388343429cfe46b3a5562d44df1)
-- [ ] [<code>Remove sample plugin</code>](https://github.com/elementary/photos/commit/9bc21febaa225ed6a4eec754fa3ac3ab7dce0d0e)
-- [ ] [<code>Update inih and gexiv2 modules (#827)</code>](https://github.com/elementary/photos/commit/276b79a791c0255b650b87c1e0d21638742b982f)
-- [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/photos/commit/c7ca8dd28cc17a5caf251b34ff0f73fa37f16cc6)
-- [ ] [<code>libghoto2: Update libgphoto2-2.5.32.tar.xz to 2.5.33</code>](https://github.com/elementary/photos/commit/76a84c4d94a67ac278cad4e57d33b8a5c2338730)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/photos/commit/47b9499ccd238f4bb353a18b0998d659aeed8b6b)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/photos/commit/374823f7ec98825797e8a3fd2f9517d8fadbf1d2)
-- [ ] [<code>exiv2: Update v0.28.7.tar.gz to 0.28.8 (#837)</code>](https://github.com/elementary/photos/commit/5efa18d8d37092ae09f4e6cb8e165cedca4933ba)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#838)</code>](https://github.com/elementary/photos/commit/4a5d8c248004d722ce95173a5adbbd8f15122a79)
-- [ ] [<code>libghoto2: Update libgphoto2-2.5.33.tar.xz to 2.5.34 (#841)</code>](https://github.com/elementary/photos/commit/f0a58c3dd8547a1ec36c5a74d38719bca6929416)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/photos/commit/af9cdaec70fa30a10c21322730be6f4b17476c9b)
-- [ ] [<code>gexiv2: Update gexiv2-0.16.0.tar.xz to 0.16.1</code>](https://github.com/elementary/photos/commit/fde2f93036e4f985c10bf34d22e0739b67106cd7)
-- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/photos/commit/d194ed50e7d85c9531a7e010d658d9e034af105b)
-- [ ] [<code>Metainfo: add 8.0.2 release notes (#845)</code>](https://github.com/elementary/photos/commit/d41459fb1da8073cbef22bbea83d9cb2a78c828b)
-- [ ] [<code>Release 8.0.2 (#846)</code>](https://github.com/elementary/photos/commit/82607e02d19b14dd7c4cbbd7696651ee4310d365)
-  - <sub>Tags: <code>8.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
