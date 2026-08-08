@@ -859,25 +859,8 @@
 - [ ] [<code>Switch to GHCR containers (#57)</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/42e991061a54a7244c0ad96278466a3144499f81)
 - [ ] [<code>Create .github/dependabot.yml</code>](https://github.com/elementary/pantheon-agent-geoclue2/commit/41de16b445e4f6b56c3041836bde8ead449f5b43)
 
-#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.0.2 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.0.2...HEAD)
+#### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.1.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.1.0...HEAD)
 
-- [ ] [<code>meson: Replace deprecated source_root with project_source_root (#103)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0ade82e0f74d9998e83b28d028ecf0d15237c99a)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Autostart using systemd instead of gnome-session (#106)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/286539c75b12715a9a8301f340762d36d65dcf09)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Metainfo: add 8.0.3 release notes (#108)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/15244700e45240a2aa7d151cccf6ab76712612d8)
-- [ ] [<code>Implement basic Gcr support (#110)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/405ca20a4aae62a04e96a7e3826a637a3c75af57)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Metainfo: bump to 8.1 and link issue 109 (#111)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/da35b5063d2301d062aa688186ec37002a258b53)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#112)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/fe522d0718ed24cf74905ca14f901c23e740a624)
-- [ ] [<code>PolkitDialog: use new dialog design from Portals (#116)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/1f1f884b07977cf915ac342305f164c085fcb411)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update screenshot (#117)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/aca64525da1d3c3ce5eb437b3e9fed8d9b669c7e)
-- [ ] [<code>Release 8.1.0 (#115)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/ed4d4c72d7757c8c8371b565ae86c3968a038e02)
-  - <sub>Tags: <code>8.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
