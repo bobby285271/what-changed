@@ -91,6 +91,9 @@
 - [ ] [<code>FolderRow: Removed unused depth property</code>](https://github.com/elementary/mail/commit/ddf2247a9febe415f730487a723b96be0fa4b6e3)
 - [ ] [<code>MessageListItem: use InfoBar.revealed (#1077)</code>](https://github.com/elementary/mail/commit/e93b476a443bba854c6739f6a609fca1d6c3b23e)
 - [ ] [<code>Composer: use ListStore for attachments (#1078)</code>](https://github.com/elementary/mail/commit/60a5d8d4607bca5cddc64cb8542255a8746317f1)
+- [ ] [<code>SignatureDialog: use Box.add not pack (#1083)</code>](https://github.com/elementary/mail/commit/79b2fbca11bb9ad256a64992e737fbe559924958)
+- [ ] [<code>FolderPopover: use ListStore (#1080)</code>](https://github.com/elementary/mail/commit/7817804837750b78a6a61ad20dac7d0016bc649d)
+- [ ] [<code>MessageList: Use ListStore for messages (#1079)</code>](https://github.com/elementary/mail/commit/fa09fa3a224369d21c6e01611fd15ab54da5d1a8)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -516,6 +519,24 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove Mutter 45 .vapi files</code>](https://github.com/elementary/gala/commit/62044c09f175a4cc70e33ee467ad2b0356e2fd47)
 - [ ] [<code>Plugin: remove unused methods (#2877)</code>](https://github.com/elementary/gala/commit/e475da3d87dea69a0e5ee078e1907c4dae4ef68a)
+- [ ] [<code>Implement an OSK manager</code>](https://github.com/elementary/gala/commit/e6f0071a7c4ebed7a8f974c60b24b4199f46f1bf)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>OSKManager: Support input purpose</code>](https://github.com/elementary/gala/commit/70572eeaa7e509549c01532e157dc0deeba7e7ce)
+- [ ] [<code>ShellClients: Introduce an OSKWindow</code>](https://github.com/elementary/gala/commit/b83e93f57dd52fc4ddebf2579b166a484e115e6e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move windows up if the cursor is occluded by the osk</code>](https://github.com/elementary/gala/commit/671d57a3fe6f4299b40fdd5393b032aa7930b27a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Daemon: Implement initial OSK</code>](https://github.com/elementary/gala/commit/cb2f599121ba019a10a7de1f699c919987cf34f8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Include OSK layouts as gresources</code>](https://github.com/elementary/gala/commit/a49eb5946e593581ae80a66867c6767b289d8cf4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Daemon: Load keyboard layouts from resources</code>](https://github.com/elementary/gala/commit/af0a95bfabccd328480a6bf8c8a7a2507e6e38b0)
+- [ ] [<code>Add OSK icons (#2881)</code>](https://github.com/elementary/gala/commit/a7f042fd9100d21644b7ea08b4948307eace458a)
+- [ ] [<code>Add OSK styles (#2882)</code>](https://github.com/elementary/gala/commit/a54a80a7afa841d82098ff9eff6c9c3b795285b5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Match the visual weight  `Return` with `Shift` and `CapsLock` (#2883)</code>](https://github.com/elementary/gala/commit/d44d01cfbb3be4a82aac13d2f75d66147f965625)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
