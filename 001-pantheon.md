@@ -180,6 +180,7 @@
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
+- [ ] [<code>gexiv2: Update gexiv2-0.16.1.tar.xz to 0.16.2 (#847)</code>](https://github.com/elementary/photos/commit/cdb016ed33460efad0649ef0b24ea9cd269634df)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
