@@ -94,6 +94,7 @@
 - [ ] [<code>SignatureDialog: use Box.add not pack (#1083)</code>](https://github.com/elementary/mail/commit/79b2fbca11bb9ad256a64992e737fbe559924958)
 - [ ] [<code>FolderPopover: use ListStore (#1080)</code>](https://github.com/elementary/mail/commit/7817804837750b78a6a61ad20dac7d0016bc649d)
 - [ ] [<code>MessageList: Use ListStore for messages (#1079)</code>](https://github.com/elementary/mail/commit/fa09fa3a224369d21c6e01611fd15ab54da5d1a8)
+- [ ] [<code>SourceList: GTK4 prep (#1084)</code>](https://github.com/elementary/mail/commit/26511fea29d187a1f05ee681e6dc5cdf25047c29)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -308,6 +309,7 @@
 
 - [ ] [<code>ShortcutsList: use a single list model (#565)</code>](https://github.com/elementary/settings-keyboard/commit/d2ef67181f64cf89650242f1a47e5700d8d0308a)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#569)</code>](https://github.com/elementary/settings-keyboard/commit/af8bc2dc6b6651411a65bcd9ca3edd0194154f55)
+- [ ] [<code>Behavior: remove link to Onboard settings (#570)</code>](https://github.com/elementary/settings-keyboard/commit/1678beb2cfe7da6ce75796a223c6603b8e3974fb)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -957,3 +959,4 @@
 - [ ] [<code>elementary-sdk: Add Granite 9 (#164)</code>](https://github.com/elementary/seeds/commit/123dc7dca889f9842d702e8ecf8e356f6ed6441c)
 - [ ] [<code>Remove unused files (#165)</code>](https://github.com/elementary/seeds/commit/884db44b330f11e2847f6b4283125e67db61acf5)
 - [ ] [<code>desktop: Remove gnome-menus (#166)</code>](https://github.com/elementary/seeds/commit/524b883b37f75a70c52c6122b52322d25500cf55)
+- [ ] [<code>desktop: Add gnome-session-common (#167)</code>](https://github.com/elementary/seeds/commit/51206b2537ea7fef6e3776f6238c3192f687eef1)
