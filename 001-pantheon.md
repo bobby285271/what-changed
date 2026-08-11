@@ -34,6 +34,10 @@
 
 - [ ] [<code>Gtk4Prep: Fuzzy search popover - use ListStore instead of Items array (#1785)</code>](https://github.com/elementary/code/commit/55fcbf4a05051239fae468fb30ca6b6784d05902)
 - [ ] [<code>Replace pack_start in pastebin dialog (#1784)</code>](https://github.com/elementary/code/commit/085b1584a8d668e0fa6e71d1ced916b57f706646)
+- [ ] [<code>FuzzySearch: ellipsize middle instead of horizontal scroll (#1790)</code>](https://github.com/elementary/code/commit/80015278177cceca6d1883a7391041a071fa8c02)
+- [ ] [<code>FuzzySearch/FileItem: use arrow, account for RTL (#1791)</code>](https://github.com/elementary/code/commit/c5d7197cf1ba306df208e887524a57337d1f8250)
+- [ ] [<code>FuzzySearchPopover: use native keynav features (#1789)</code>](https://github.com/elementary/code/commit/110b86ab17ee64b96880c71b3b61cc5ea4121ac9)
+- [ ] [<code>FuzzySearch: adjust label styles (#1792)</code>](https://github.com/elementary/code/commit/38d0e5caa18eb496ee2709ca1abb30570d8b4639)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -551,6 +555,7 @@
 - [ ] [<code>Fix some warnings (#2887)</code>](https://github.com/elementary/gala/commit/cfb370d9b4952a92d47ca58fe29fb606034d9306)
 - [ ] [<code>Move TransitionBuilder to lib (#2885)</code>](https://github.com/elementary/gala/commit/cb99c833b6bb3438331213abf6af21d046e624f6)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>shell: Autostart Wingpanel in the installer session (#2889)</code>](https://github.com/elementary/gala/commit/1aab2747d5ed160bb719e694324d7d0aaee2c91a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
