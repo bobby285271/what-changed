@@ -18,6 +18,9 @@
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/calendar/commit/b7b3cbe50094adac791298a428c54677403707b4)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/calendar/commit/ba530b6effc9b713a2b93c06058478f0023eb4da)
+- [ ] [<code>Icons: use red binding (#953)</code>](https://github.com/elementary/calendar/commit/ee7acbeb5854cf1b50cbe8ab7213decc600e5d1d)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -29,6 +32,8 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.2...HEAD)
 
+- [ ] [<code>Gtk4Prep: Fuzzy search popover - use ListStore instead of Items array (#1785)</code>](https://github.com/elementary/code/commit/55fcbf4a05051239fae468fb30ca6b6784d05902)
+- [ ] [<code>Replace pack_start in pastebin dialog (#1784)</code>](https://github.com/elementary/code/commit/085b1584a8d668e0fa6e71d1ced916b57f706646)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -95,6 +100,9 @@
 - [ ] [<code>FolderPopover: use ListStore (#1080)</code>](https://github.com/elementary/mail/commit/7817804837750b78a6a61ad20dac7d0016bc649d)
 - [ ] [<code>MessageList: Use ListStore for messages (#1079)</code>](https://github.com/elementary/mail/commit/fa09fa3a224369d21c6e01611fd15ab54da5d1a8)
 - [ ] [<code>SourceList: GTK4 prep (#1084)</code>](https://github.com/elementary/mail/commit/26511fea29d187a1f05ee681e6dc5cdf25047c29)
+- [ ] [<code>CellRendererExpander: hard code arrow size (#1085)</code>](https://github.com/elementary/mail/commit/21db469e06d8160ff7d6f949201d66f7916c14b7)
+- [ ] [<code>SignatureDialog: Use ListStore (#1081)</code>](https://github.com/elementary/mail/commit/9fbcab1bd8b80394be03193b302ab30986779940)
+- [ ] [<code>AliasDialog: use ListStore (#1082)</code>](https://github.com/elementary/mail/commit/9f3f1c342b7800722722310b49647a4cf48818df)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -540,6 +548,9 @@
 - [ ] [<code>Add OSK styles (#2882)</code>](https://github.com/elementary/gala/commit/a54a80a7afa841d82098ff9eff6c9c3b795285b5)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Match the visual weight  `Return` with `Shift` and `CapsLock` (#2883)</code>](https://github.com/elementary/gala/commit/d44d01cfbb3be4a82aac13d2f75d66147f965625)
+- [ ] [<code>Fix some warnings (#2887)</code>](https://github.com/elementary/gala/commit/cfb370d9b4952a92d47ca58fe29fb606034d9306)
+- [ ] [<code>Move TransitionBuilder to lib (#2885)</code>](https://github.com/elementary/gala/commit/cb99c833b6bb3438331213abf6af21d046e624f6)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -961,3 +972,4 @@
 - [ ] [<code>Remove unused files (#165)</code>](https://github.com/elementary/seeds/commit/884db44b330f11e2847f6b4283125e67db61acf5)
 - [ ] [<code>desktop: Remove gnome-menus (#166)</code>](https://github.com/elementary/seeds/commit/524b883b37f75a70c52c6122b52322d25500cf55)
 - [ ] [<code>desktop: Add gnome-session-common (#167)</code>](https://github.com/elementary/seeds/commit/51206b2537ea7fef6e3776f6238c3192f687eef1)
+- [ ] [<code>Remove flatpak apps installed via flatpak preinstall (#163)</code>](https://github.com/elementary/seeds/commit/cf9630b1289bd916c873a946b976191078bdb67b)
