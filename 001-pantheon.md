@@ -38,6 +38,8 @@
 - [ ] [<code>FuzzySearch/FileItem: use arrow, account for RTL (#1791)</code>](https://github.com/elementary/code/commit/c5d7197cf1ba306df208e887524a57337d1f8250)
 - [ ] [<code>FuzzySearchPopover: use native keynav features (#1789)</code>](https://github.com/elementary/code/commit/110b86ab17ee64b96880c71b3b61cc5ea4121ac9)
 - [ ] [<code>FuzzySearch: adjust label styles (#1792)</code>](https://github.com/elementary/code/commit/38d0e5caa18eb496ee2709ca1abb30570d8b4639)
+- [ ] [<code>FuzzySearch: fix file names (#1793)</code>](https://github.com/elementary/code/commit/9f3c3152be80a83ce8f391c4a7d32185f589b046)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -107,6 +109,10 @@
 - [ ] [<code>CellRendererExpander: hard code arrow size (#1085)</code>](https://github.com/elementary/mail/commit/21db469e06d8160ff7d6f949201d66f7916c14b7)
 - [ ] [<code>SignatureDialog: Use ListStore (#1081)</code>](https://github.com/elementary/mail/commit/9fbcab1bd8b80394be03193b302ab30986779940)
 - [ ] [<code>AliasDialog: use ListStore (#1082)</code>](https://github.com/elementary/mail/commit/9f3f1c342b7800722722310b49647a4cf48818df)
+- [ ] [<code>SourceList: don't subclass SourceList (#1087)</code>](https://github.com/elementary/mail/commit/315f377cd4a9755c22522612d114d8568f11c6a3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>SourceList: don't subclass sealed Gtk.CellRendererPixbuf (#1088)</code>](https://github.com/elementary/mail/commit/65e3379bfac3f6e59bc9e0c95aab77093c00e927)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -397,6 +403,7 @@
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [82b7dac6d3661d35fe3e4b32594dc7c7918028e9 → HEAD](https://github.com/elementary/icons/compare/82b7dac6d3661d35fe3e4b32594dc7c7918028e9...HEAD)
 
+- [ ] [<code>Devices: update symbolic icons for gtk 4.22 (#1432)</code>](https://github.com/elementary/icons/commit/182b6eea9cae93ea2fa133a8b26ef18489b46e16)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -433,6 +440,7 @@
 #### [pantheon.elementary-default-settings](https://github.com/elementary/default-settings): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/default-settings/compare/refs/tags/8.1.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/default-settings/commit/2361253d869ae4655c1e9cf44a62f0e2a4f2bf74)
+- [ ] [<code>Disable the donation reminder by GSD (#365)</code>](https://github.com/elementary/default-settings/commit/88479a968320caa8c5b3ddebc428094482d0ef6b)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -556,6 +564,15 @@
 - [ ] [<code>Move TransitionBuilder to lib (#2885)</code>](https://github.com/elementary/gala/commit/cb99c833b6bb3438331213abf6af21d046e624f6)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>shell: Autostart Wingpanel in the installer session (#2889)</code>](https://github.com/elementary/gala/commit/1aab2747d5ed160bb719e694324d7d0aaee2c91a)
+- [ ] [<code>Introduce LayoutManager</code>](https://github.com/elementary/gala/commit/f119949c70cc05ee06f6d292d554bcb8c7b22dd8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Make mtv, window overview, pointer locator public</code>](https://github.com/elementary/gala/commit/f3caaaffa9dc836cd338a2e34ba482d2b6a18628)
+- [ ] [<code>Pass WindowOverview to DesktopIntegration</code>](https://github.com/elementary/gala/commit/a3902df50664654e8c179eda947072c114549f63)
+- [ ] [<code>Add CustomCoglVapiTest and fix crash with mutter >= 47 (#2878)</code>](https://github.com/elementary/gala/commit/03d7f4b2e09704a3dba08c54330d6106235b80a1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>WindowManager: Use TransitionBuilder for minimize/unminimize (#2886)</code>](https://github.com/elementary/gala/commit/44ed6b7043e99d0560f790014389ec0f4c33ee15)
+- [ ] [<code>Daemon: Fix dbus name (#2892)</code>](https://github.com/elementary/gala/commit/4514740cdb2a85fc53311bf75807cd2e133290ec)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -603,6 +620,9 @@
 - [ ] [<code>Replace chaining signals with get_ancestor.popdown (#705)</code>](https://github.com/elementary/applications-menu/commit/ec81ff2292d81702a306c1b59d64dbe9ed6a350e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#708)</code>](https://github.com/elementary/applications-menu/commit/d8374e3f5d49008ced8bebccf1ddfa41eca02c5d)
+- [ ] [<code>GridView: Create dummy grids only when no apps to populate (#711)</code>](https://github.com/elementary/applications-menu/commit/8b3823ddc9ed980bc461c46bc8f75ff9e8bed037)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
