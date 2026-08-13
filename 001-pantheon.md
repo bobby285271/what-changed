@@ -48,6 +48,9 @@
 - [ ] [<code>Make ItemManager not a singleton (#589)</code>](https://github.com/elementary/dock/commit/f70a8c5be69fd7b49d9231327e217487f7a6dcab)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#591)</code>](https://github.com/elementary/dock/commit/f4c4228dc567496717ff75300e8f78047fd73ec3)
 - [ ] [<code>Avoid duplicate background app entries (#594)</code>](https://github.com/elementary/dock/commit/edf78282482253e4b8178d7fa7d0fb90dc2d42c4)
+- [ ] [<code>Change the way we deal with icon clipping (#599)</code>](https://github.com/elementary/dock/commit/304b77a03358b6a9b388b6b2c4ed0f3ee4b86c7e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -113,6 +116,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>SourceList: don't subclass sealed Gtk.CellRendererPixbuf (#1088)</code>](https://github.com/elementary/mail/commit/65e3379bfac3f6e59bc9e0c95aab77093c00e927)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CSS: GTK4 prep (#1089)</code>](https://github.com/elementary/mail/commit/8ebaddc673e68202c0e763d888c1e8dae4774991)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -404,6 +408,7 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [82b7dac6d3661d35fe3e4b32594dc7c7918028e9 → HEAD](https://github.com/elementary/icons/compare/82b7dac6d3661d35fe3e4b32594dc7c7918028e9...HEAD)
 
 - [ ] [<code>Devices: update symbolic icons for gtk 4.22 (#1432)</code>](https://github.com/elementary/icons/commit/182b6eea9cae93ea2fa133a8b26ef18489b46e16)
+- [ ] [<code>Apps: update symbolic icons for gtk 4.22 (#1433)</code>](https://github.com/elementary/icons/commit/74656f2b7beff7f96a84dcc3d9a999444a6d7668)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -573,6 +578,15 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>WindowManager: Use TransitionBuilder for minimize/unminimize (#2886)</code>](https://github.com/elementary/gala/commit/44ed6b7043e99d0560f790014389ec0f4c33ee15)
 - [ ] [<code>Daemon: Fix dbus name (#2892)</code>](https://github.com/elementary/gala/commit/4514740cdb2a85fc53311bf75807cd2e133290ec)
+- [ ] [<code>MultitaskingView: Only grab focus on ws switch if we are open (#2894)</code>](https://github.com/elementary/gala/commit/2fafc8c7e42717776f537bdf8fb82a5465e8b694)
+- [ ] [<code>Add a workflow that checks for missing and invalid files in POTFILES (#2888)</code>](https://github.com/elementary/gala/commit/6f2dc20771187e6b02de56933949511a4ea3189a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix Clutter.Settings.get_default is deprecated warning (#2895)</code>](https://github.com/elementary/gala/commit/3cefb05da8a34e0a4b863e892156b2a85a31a3a9)
+- [ ] [<code>Use DBusMenuModel and DBusActionGroup for the window menu (#2893)</code>](https://github.com/elementary/gala/commit/4213fca4536eb83e111179d6defce320a0b3b367)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>WindowMenu:  Fix move/resize actions (#2896)</code>](https://github.com/elementary/gala/commit/51089afad1287e766fffa95bdc29bae79b22e483)
+- [ ] [<code>WindowMenu: Fix moving to the workspace on the right sensitivity (#2897)</code>](https://github.com/elementary/gala/commit/448ca394204429fbbe3c3405ba6afab4424a647a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -998,3 +1012,4 @@
 - [ ] [<code>desktop: Remove gnome-menus (#166)</code>](https://github.com/elementary/seeds/commit/524b883b37f75a70c52c6122b52322d25500cf55)
 - [ ] [<code>desktop: Add gnome-session-common (#167)</code>](https://github.com/elementary/seeds/commit/51206b2537ea7fef6e3776f6238c3192f687eef1)
 - [ ] [<code>Remove flatpak apps installed via flatpak preinstall (#163)</code>](https://github.com/elementary/seeds/commit/cf9630b1289bd916c873a946b976191078bdb67b)
+- [ ] [<code>desktop: Add initramfs-tools (#169)</code>](https://github.com/elementary/seeds/commit/760f3545677ae4ce37b35f20c82742833c8b6960)
