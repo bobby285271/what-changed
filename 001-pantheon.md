@@ -117,6 +117,7 @@
 - [ ] [<code>SourceList: don't subclass sealed Gtk.CellRendererPixbuf (#1088)</code>](https://github.com/elementary/mail/commit/65e3379bfac3f6e59bc9e0c95aab77093c00e927)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>CSS: GTK4 prep (#1089)</code>](https://github.com/elementary/mail/commit/8ebaddc673e68202c0e763d888c1e8dae4774991)
+- [ ] [<code>AttachmentButton: check event.triggers_context_menu (#1090)</code>](https://github.com/elementary/mail/commit/cdea9398ab8954d74b3b92584a559227282cfc08)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
