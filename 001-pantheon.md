@@ -51,6 +51,7 @@
 - [ ] [<code>Change the way we deal with icon clipping (#599)</code>](https://github.com/elementary/dock/commit/304b77a03358b6a9b388b6b2c4ed0f3ee4b86c7e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>App: use correct GPU name (#600)</code>](https://github.com/elementary/dock/commit/8b9f861664953a67fc669f8396a21c28b9018a9a)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -118,6 +119,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>CSS: GTK4 prep (#1089)</code>](https://github.com/elementary/mail/commit/8ebaddc673e68202c0e763d888c1e8dae4774991)
 - [ ] [<code>AttachmentButton: check event.triggers_context_menu (#1090)</code>](https://github.com/elementary/mail/commit/cdea9398ab8954d74b3b92584a559227282cfc08)
+- [ ] [<code>ConvesationListStore: prep for ListStore (#1093)</code>](https://github.com/elementary/mail/commit/0e5a2f308bfbd7b875a95e9c67c000016b6b7738)
+- [ ] [<code>ConversationListItem: GTK4 prep (#1094)</code>](https://github.com/elementary/mail/commit/19ce0397c0f953128f13f4738caad2862b438061)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
