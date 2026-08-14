@@ -447,6 +447,9 @@
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/default-settings/commit/2361253d869ae4655c1e9cf44a62f0e2a4f2bf74)
 - [ ] [<code>Disable the donation reminder by GSD (#365)</code>](https://github.com/elementary/default-settings/commit/88479a968320caa8c5b3ddebc428094482d0ef6b)
+- [ ] [<code>Use flatpak preinstall for system Flatpak apps (#364)</code>](https://github.com/elementary/default-settings/commit/f06a99a6ba9a109f171af8752bd569340ba534ea)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -588,6 +591,15 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>WindowMenu:  Fix move/resize actions (#2896)</code>](https://github.com/elementary/gala/commit/51089afad1287e766fffa95bdc29bae79b22e483)
 - [ ] [<code>WindowMenu: Fix moving to the workspace on the right sensitivity (#2897)</code>](https://github.com/elementary/gala/commit/448ca394204429fbbe3c3405ba6afab4424a647a)
+- [ ] [<code>Use TransitionBuilder for maximizing</code>](https://github.com/elementary/gala/commit/ece0f310ce5cc721ab047a00d625ae9dad473175)
+- [ ] [<code>Merge maximizing and unmaximizing</code>](https://github.com/elementary/gala/commit/135a7a701e9e2d60df3a120ea35b572aa41197ac)
+- [ ] [<code>Move animate_size_change to where it's used</code>](https://github.com/elementary/gala/commit/6d5d5e27f41905066d784163db3c3896fb848d21)
+- [ ] [<code>NotificationStack: Use transition builder for destroy animation (#2899)</code>](https://github.com/elementary/gala/commit/a250ee7d6fbb81077902af7dbaf4909a8c9cd9e0)
+- [ ] [<code>WindowMenu: Use unique bus name (#2898)</code>](https://github.com/elementary/gala/commit/07067b0db3bd47fe6e686270a61015f2882b6a75)
+- [ ] [<code>BackgroundBlurEffect: Dont update actor size in construct (#2900)</code>](https://github.com/elementary/gala/commit/d01f045f8d380a4724d16c93cd459f58338b3f11)
+- [ ] [<code>Include popovers and menus in window screenshots (#2716)</code>](https://github.com/elementary/gala/commit/3018760369419f19c8d98e90b0ffe85a3687f852)
+- [ ] [<code>Fix 2 warnings (#2901)</code>](https://github.com/elementary/gala/commit/01e24f5a62cd4dd6540095e0b37ccfabbab864c6)
+- [ ] [<code>WindowManager: cleanup end_animation () (#2902)</code>](https://github.com/elementary/gala/commit/b29c840620c3a5af8259f0cf76045b2479a22531)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -638,6 +650,10 @@
 - [ ] [<code>GridView: Create dummy grids only when no apps to populate (#711)</code>](https://github.com/elementary/applications-menu/commit/8b3823ddc9ed980bc461c46bc8f75ff9e8bed037)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Port to GTK4 (#645)</code>](https://github.com/elementary/applications-menu/commit/0bf3bf5f1bd1b017d3a7d78f0ccc79ba4170b045)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>master → main</code>](https://github.com/elementary/applications-menu/commit/6729fcd2f8efa8688742221fb2fe9350d52ee946)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1014,3 +1030,4 @@
 - [ ] [<code>desktop: Add gnome-session-common (#167)</code>](https://github.com/elementary/seeds/commit/51206b2537ea7fef6e3776f6238c3192f687eef1)
 - [ ] [<code>Remove flatpak apps installed via flatpak preinstall (#163)</code>](https://github.com/elementary/seeds/commit/cf9630b1289bd916c873a946b976191078bdb67b)
 - [ ] [<code>desktop: Add initramfs-tools (#169)</code>](https://github.com/elementary/seeds/commit/760f3545677ae4ce37b35f20c82742833c8b6960)
+- [ ] [<code>Rename applications menu package (#171)</code>](https://github.com/elementary/seeds/commit/f740397f2ade5e31861d0fe4cd26d9f8300c6584)
