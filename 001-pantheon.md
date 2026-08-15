@@ -189,6 +189,8 @@
 - [ ] [<code>Indicator: Port to GTK 4 (#536)</code>](https://github.com/elementary/monitor/commit/a8a9be26854e46df81abe4353b42ecfe6a9490de)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>README: Remove Install section (#538)</code>](https://github.com/elementary/monitor/commit/f4ecbf35f57d71c571c336bc9b576b2c928a250b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
