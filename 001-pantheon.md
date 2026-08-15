@@ -21,6 +21,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/calendar/commit/b7b3cbe50094adac791298a428c54677403707b4)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/calendar/commit/ba530b6effc9b713a2b93c06058478f0023eb4da)
 - [ ] [<code>Icons: use red binding (#953)</code>](https://github.com/elementary/calendar/commit/ee7acbeb5854cf1b50cbe8ab7213decc600e5d1d)
+- [ ] [<code>Fix import dialog frame not being visible (#957)</code>](https://github.com/elementary/calendar/commit/42393174960f8c4d88260e51e4a086d1c5f9c19f)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -185,6 +186,9 @@
 - [ ] [<code>Port ProcessTreeView to GTK4 (#525)</code>](https://github.com/elementary/monitor/commit/ec1511d969ede195b52dec7f0e8f27e911e96472)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Indicator: Port to GTK 4 (#536)</code>](https://github.com/elementary/monitor/commit/a8a9be26854e46df81abe4353b42ecfe6a9490de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -453,6 +457,8 @@
 - [ ] [<code>Use flatpak preinstall for system Flatpak apps (#364)</code>](https://github.com/elementary/default-settings/commit/f06a99a6ba9a109f171af8752bd569340ba534ea)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>flatpak: Use drop-in flatpakrepo for system-wide remotes (#368)</code>](https://github.com/elementary/default-settings/commit/c767a754a93a5e765b46d058c00e47ad4a041431)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
