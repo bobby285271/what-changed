@@ -54,6 +54,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>App: use correct GPU name (#600)</code>](https://github.com/elementary/dock/commit/8b9f861664953a67fc669f8396a21c28b9018a9a)
+- [ ] [<code>Rename IconGroup to WorkspaceIconGroup (#602)</code>](https://github.com/elementary/dock/commit/5b5f11c53c853a116a50aeecc760d9b96dd21f4f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
