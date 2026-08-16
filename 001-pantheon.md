@@ -41,6 +41,7 @@
 - [ ] [<code>FuzzySearch: adjust label styles (#1792)</code>](https://github.com/elementary/code/commit/38d0e5caa18eb496ee2709ca1abb30570d8b4639)
 - [ ] [<code>FuzzySearch: fix file names (#1793)</code>](https://github.com/elementary/code/commit/9f3c3152be80a83ce8f391c4a7d32185f589b046)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>FormatBar: always update formatbar when language identified (#1799)</code>](https://github.com/elementary/code/commit/8d4e6321a4fe135c596f580e0b220094c1a25cea)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -460,6 +461,8 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>flatpak: Use drop-in flatpakrepo for system-wide remotes (#368)</code>](https://github.com/elementary/default-settings/commit/c767a754a93a5e765b46d058c00e47ad4a041431)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>flatpak: Explicitly preinstall GL runtime (#370)</code>](https://github.com/elementary/default-settings/commit/a8e3833d4a122e3989ff3d425eeae81553a19160)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
@@ -929,6 +932,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Replace show_all with present where appropriate (#48)</code>](https://github.com/elementary/bluetooth-daemon/commit/9730d0282ba462a65bc39b83a60e6af2cf9e85b6)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/bluetooth-daemon/commit/39ae00c58d9b3174f635fd80f50d51f1ff869f3e)
+- [ ] [<code>Autostart using systemd instead of gnome-session (#52)</code>](https://github.com/elementary/bluetooth-daemon/commit/3658cba12d819bbd5562369ef1173b7db5eb3fb5)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
