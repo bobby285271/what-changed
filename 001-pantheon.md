@@ -42,6 +42,7 @@
 - [ ] [<code>FuzzySearch: fix file names (#1793)</code>](https://github.com/elementary/code/commit/9f3c3152be80a83ce8f391c4a7d32185f589b046)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>FormatBar: always update formatbar when language identified (#1799)</code>](https://github.com/elementary/code/commit/8d4e6321a4fe135c596f580e0b220094c1a25cea)
+- [ ] [<code>Allow certain shortcuts to reach terminal when focused (#1761)</code>](https://github.com/elementary/code/commit/12771dea4ebab0eeebd446c3d1187e7e2948bf09)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -56,6 +57,7 @@
 - [ ] [<code>App: use correct GPU name (#600)</code>](https://github.com/elementary/dock/commit/8b9f861664953a67fc669f8396a21c28b9018a9a)
 - [ ] [<code>Rename IconGroup to WorkspaceIconGroup (#602)</code>](https://github.com/elementary/dock/commit/5b5f11c53c853a116a50aeecc760d9b96dd21f4f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add bottom margin for workspaces boxes (#603)</code>](https://github.com/elementary/dock/commit/c729052714f2568bb8da26edc0bb68c7ee2aef8d)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -422,6 +424,7 @@
 
 - [ ] [<code>Devices: update symbolic icons for gtk 4.22 (#1432)</code>](https://github.com/elementary/icons/commit/182b6eea9cae93ea2fa133a8b26ef18489b46e16)
 - [ ] [<code>Apps: update symbolic icons for gtk 4.22 (#1433)</code>](https://github.com/elementary/icons/commit/74656f2b7beff7f96a84dcc3d9a999444a6d7668)
+- [ ] [<code>Apps: remove non-fd.o office-calendar (#1435)</code>](https://github.com/elementary/icons/commit/aaa2701dc589b040f13e474b8fde030ebc68a221)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
