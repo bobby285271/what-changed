@@ -15,6 +15,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#304)</code>](https://github.com/elementary/calculator/commit/1d201f0469ce77d65f143aad3c8952a6a9298cfe)
+- [ ] [<code>MainWindow: fix focus outline cutoff (#305)</code>](https://github.com/elementary/calculator/commit/6dc5b6dbb3dd5b0011a8d0a53d8ce0cf1595c255)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
@@ -619,6 +620,9 @@
 - [ ] [<code>Include popovers and menus in window screenshots (#2716)</code>](https://github.com/elementary/gala/commit/3018760369419f19c8d98e90b0ffe85a3687f852)
 - [ ] [<code>Fix 2 warnings (#2901)</code>](https://github.com/elementary/gala/commit/01e24f5a62cd4dd6540095e0b37ccfabbab864c6)
 - [ ] [<code>WindowManager: cleanup end_animation () (#2902)</code>](https://github.com/elementary/gala/commit/b29c840620c3a5af8259f0cf76045b2479a22531)
+- [ ] [<code>Implement touchpad pinch gestures in gala (#2907)</code>](https://github.com/elementary/gala/commit/6f02198e8379a28c7e31342c51b807ad7b7eed8d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Bump actions/checkout from 6 to 7 (#2908)</code>](https://github.com/elementary/gala/commit/8a3997a9c7476ec7b366c507c89673e804014141)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
