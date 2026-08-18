@@ -343,6 +343,7 @@
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.3 → HEAD](https://github.com/elementary/settings-display/compare/8.0.3...HEAD)
 
+- [ ] [<code>fix: Rotation not applied on preview on initial load (#456)</code>](https://github.com/elementary/settings-display/commit/9e50d866482b7fecd29db3c8654ef74b32dd532b)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
