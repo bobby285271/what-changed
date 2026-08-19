@@ -427,6 +427,7 @@
 - [ ] [<code>Devices: update symbolic icons for gtk 4.22 (#1432)</code>](https://github.com/elementary/icons/commit/182b6eea9cae93ea2fa133a8b26ef18489b46e16)
 - [ ] [<code>Apps: update symbolic icons for gtk 4.22 (#1433)</code>](https://github.com/elementary/icons/commit/74656f2b7beff7f96a84dcc3d9a999444a6d7668)
 - [ ] [<code>Apps: remove non-fd.o office-calendar (#1435)</code>](https://github.com/elementary/icons/commit/aaa2701dc589b040f13e474b8fde030ebc68a221)
+- [ ] [<code>Categories: update symbolic icons for gtk 4.22 (#1436)</code>](https://github.com/elementary/icons/commit/bae429302ef4618e08433b3ed86c11b52109d6a6)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
