@@ -44,6 +44,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>FormatBar: always update formatbar when language identified (#1799)</code>](https://github.com/elementary/code/commit/8d4e6321a4fe135c596f580e0b220094c1a25cea)
 - [ ] [<code>Allow certain shortcuts to reach terminal when focused (#1761)</code>](https://github.com/elementary/code/commit/12771dea4ebab0eeebd446c3d1187e7e2948bf09)
+- [ ] [<code>Cleanup: fix some terminal warnings (#1801)</code>](https://github.com/elementary/code/commit/a59c75f364d838d9b9eddeb522d479fa07e7c41f)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -428,6 +430,9 @@
 - [ ] [<code>Apps: update symbolic icons for gtk 4.22 (#1433)</code>](https://github.com/elementary/icons/commit/74656f2b7beff7f96a84dcc3d9a999444a6d7668)
 - [ ] [<code>Apps: remove non-fd.o office-calendar (#1435)</code>](https://github.com/elementary/icons/commit/aaa2701dc589b040f13e474b8fde030ebc68a221)
 - [ ] [<code>Categories: update symbolic icons for gtk 4.22 (#1436)</code>](https://github.com/elementary/icons/commit/bae429302ef4618e08433b3ed86c11b52109d6a6)
+- [ ] [<code>Mimes: update symbolic icons for gtk 4.22 (#1437)</code>](https://github.com/elementary/icons/commit/5d6b4adbebf3172d765d3036385c4b8a4039fe5f)
+- [ ] [<code>Status: fixup error color (#1438)</code>](https://github.com/elementary/icons/commit/8a3a3c77cb195a8240563ad8623da893c46ced67)
+- [ ] [<code>Fixup multicolored multisized icons (#1439)</code>](https://github.com/elementary/icons/commit/a9bd8b548b48ab3ab5ec52e2da7efcbe28b9883d)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
