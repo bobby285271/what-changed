@@ -433,6 +433,7 @@
 - [ ] [<code>Mimes: update symbolic icons for gtk 4.22 (#1437)</code>](https://github.com/elementary/icons/commit/5d6b4adbebf3172d765d3036385c4b8a4039fe5f)
 - [ ] [<code>Status: fixup error color (#1438)</code>](https://github.com/elementary/icons/commit/8a3a3c77cb195a8240563ad8623da893c46ced67)
 - [ ] [<code>Fixup multicolored multisized icons (#1439)</code>](https://github.com/elementary/icons/commit/a9bd8b548b48ab3ab5ec52e2da7efcbe28b9883d)
+- [ ] [<code>metainfo: Add release note for 9.0.0 (#1440)</code>](https://github.com/elementary/icons/commit/80fb04e50538fcf1fc65ff583394328b096803f8)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -887,6 +888,12 @@
 - [ ] [<code>Fix selection failures (#325)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/ec08a48e79835894a6da29d30aa98b9a57a996e4)
 - [ ] [<code>DeviceManagerWidget: connect to list row activated (#327)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/63a0e6d65d3c6c1c7e9dd393eb4f94c2da0a401a)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#328)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/f78f33fcb347697373002ad785366fdb86818c9f)
+- [ ] [<code>Port to GTK4 (#295)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/73168adb7556eee7cf82ba4c45f35fcb9ac9b909)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>master → main (#336)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/376be526876cf9bc1ba4c183c1f39f229d7c50c4)
+- [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/200db283cf6568335a35d1f69edb930964a2cc23)
+- [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7026102ea25abebeef8336db5d275ca4b6b92bd5)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -918,6 +925,7 @@
 - [ ] [<code>Styles: `suggested` class for text buttons (#981)</code>](https://github.com/elementary/granite/commit/612dee6c4fb27dadd49ff0d314bbccdbac97c05c)
 - [ ] [<code>Use different styles for overlay/non-overlay scrollbars (#979)</code>](https://github.com/elementary/granite/commit/0b71746b01c79bf51e81347dfa30df1d732259b6)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/granite/commit/1792919cefc83d192f069ec00ab81e2276c43c69)
+- [ ] [<code>ListItem: Fix memory leak (#990)</code>](https://github.com/elementary/granite/commit/5ba66c2df5f83b1b92e911076739865b5f6373b6)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
