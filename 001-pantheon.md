@@ -1076,3 +1076,4 @@
 - [ ] [<code>Remove flatpak apps installed via flatpak preinstall (#163)</code>](https://github.com/elementary/seeds/commit/cf9630b1289bd916c873a946b976191078bdb67b)
 - [ ] [<code>desktop: Add initramfs-tools (#169)</code>](https://github.com/elementary/seeds/commit/760f3545677ae4ce37b35f20c82742833c8b6960)
 - [ ] [<code>Rename applications menu package (#171)</code>](https://github.com/elementary/seeds/commit/f740397f2ade5e31861d0fe4cd26d9f8300c6584)
+- [ ] [<code>Desktop: update name for panel-sound (#172)</code>](https://github.com/elementary/seeds/commit/1282dc561efac3cccf33584234ae423e59a5096b)
