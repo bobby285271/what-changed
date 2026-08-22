@@ -46,6 +46,7 @@
 - [ ] [<code>Allow certain shortcuts to reach terminal when focused (#1761)</code>](https://github.com/elementary/code/commit/12771dea4ebab0eeebd446c3d1187e7e2948bf09)
 - [ ] [<code>Cleanup: fix some terminal warnings (#1801)</code>](https://github.com/elementary/code/commit/a59c75f364d838d9b9eddeb522d479fa07e7c41f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Keyboard accessibility: Set an accelerator for Close Other Tabs action (#1627)</code>](https://github.com/elementary/code/commit/16a21acee9a364931ed2ef7cfa882ca5ffb0507a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -69,6 +70,7 @@
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
+- [ ] [<code>Window: cleanup update_location_bar () (#2810)</code>](https://github.com/elementary/files/commit/166442e3d38fdc2305659f6bcf483cbc1644b425)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -280,6 +282,8 @@
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
+- [ ] [<code>Cleanup: All UI construction should be in construct clause (#1018)</code>](https://github.com/elementary/terminal/commit/c2be61f5bc1d017f44520be044569579eab2dd22)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
