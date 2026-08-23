@@ -6,6 +6,8 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/appcenter/commit/b6ea260c4dffe843459253c33e352470bb431dbb)
 - [ ] [<code>Metainfo: add 8.4.1 release notes</code>](https://github.com/elementary/appcenter/commit/674cbbd6b9e394959c07c45a620a64272e8d5f38)
 - [ ] [<code>AppInfoView/origin dropdown: Use expression instead of custom factory (#2436)</code>](https://github.com/elementary/appcenter/commit/414155d838e80177a70f62af6577fab423c40db7)
+- [ ] [<code>FlatpakBackend: reduce path/file conversions (#2441)</code>](https://github.com/elementary/appcenter/commit/529f45c3a255b1bd983f700e81cf722565aa0aee)
+- [ ] [<code>Homepage: guard against carousel errors (#2442)</code>](https://github.com/elementary/appcenter/commit/80fb22175d79b8806fca9f4983a4eacf2e853fd7)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -724,6 +726,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/94dfc58b950a9179b8657f62ed89583dd4799882)
+- [ ] [<code>meson: Correct GETTEXT_PACKAGE (#240)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/daedfc2df36eb2476b3570a79cec12096425c156)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -750,6 +754,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/984aeea34cef71d71a74b5715bc8d03d8cf96dc6)
+- [ ] [<code>meson: Correct GETTEXT_PACKAGE (#330)</code>](https://github.com/elementary/wingpanel-indicator-datetime/commit/32fb1d9b28e10475ba7ad41415c01fcdee385be4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-keyboard](https://github.com/elementary/wingpanel-indicator-keyboard): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-keyboard/compare/2.4.2...HEAD)
 
@@ -799,6 +805,8 @@
 - [ ] [<code>Update RDNN (#364)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/6b1ba43c17033bb73bc6dd03e4fe57a2ca54b2bd)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4159d06d2a4889cead891028df6fae0f5d2d410b)
+- [ ] [<code>meson: Correct GETTEXT_PACKAGE (#366)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4754bfb99a87931d4a7a6fb733dd66510073b5a9)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -822,6 +830,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#117)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/5c5abaf8d78f9ac93eb2c14ccb22d46a1c466a68)
+- [ ] [<code>meson: Correct GETTEXT_PACKAGE (#118)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/f226c2e6f7b1a1d39018101e515c61af69260ebd)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -898,6 +908,8 @@
 - [ ] [<code>master → main (#336)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/376be526876cf9bc1ba4c183c1f39f229d7c50c4)
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/200db283cf6568335a35d1f69edb930964a2cc23)
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7026102ea25abebeef8336db5d275ca4b6b92bd5)
+- [ ] [<code>Unify gettext domain with other indicators (#337)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/5bebc96dc52f2854744b51f29f5c65d57a8b0ded)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -930,6 +942,7 @@
 - [ ] [<code>Use different styles for overlay/non-overlay scrollbars (#979)</code>](https://github.com/elementary/granite/commit/0b71746b01c79bf51e81347dfa30df1d732259b6)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/granite/commit/1792919cefc83d192f069ec00ab81e2276c43c69)
 - [ ] [<code>ListItem: Fix memory leak (#990)</code>](https://github.com/elementary/granite/commit/5ba66c2df5f83b1b92e911076739865b5f6373b6)
+- [ ] [<code>Drop broken GIR namespace directive (#967)</code>](https://github.com/elementary/granite/commit/c4f258db9b6028c8b793f01d2f8248800726ce0a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
