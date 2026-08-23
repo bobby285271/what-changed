@@ -440,6 +440,9 @@
 - [ ] [<code>Status: fixup error color (#1438)</code>](https://github.com/elementary/icons/commit/8a3a3c77cb195a8240563ad8623da893c46ced67)
 - [ ] [<code>Fixup multicolored multisized icons (#1439)</code>](https://github.com/elementary/icons/commit/a9bd8b548b48ab3ab5ec52e2da7efcbe28b9883d)
 - [ ] [<code>metainfo: Add release note for 9.0.0 (#1440)</code>](https://github.com/elementary/icons/commit/80fb04e50538fcf1fc65ff583394328b096803f8)
+- [ ] [<code>Release 9.0.0 (#1441)</code>](https://github.com/elementary/icons/commit/31c7285a1d10170abd363a2553a7f377a031bb33)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -807,6 +810,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4159d06d2a4889cead891028df6fae0f5d2d410b)
 - [ ] [<code>meson: Correct GETTEXT_PACKAGE (#366)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4754bfb99a87931d4a7a6fb733dd66510073b5a9)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PopoverWidget: Compare with result of get_first_child, not its address (#367)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1fc0f157f791391c4bbf0bdb1c34dffed585c7ee)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
