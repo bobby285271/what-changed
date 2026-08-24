@@ -430,19 +430,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1352)</code>](https://github.com/elementary/stylesheet/commit/1242ce7955601e1008a9ee5a039577993f6bd60b)
 
-#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [82b7dac6d3661d35fe3e4b32594dc7c7918028e9 → HEAD](https://github.com/elementary/icons/compare/82b7dac6d3661d35fe3e4b32594dc7c7918028e9...HEAD)
+#### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
-- [ ] [<code>Devices: update symbolic icons for gtk 4.22 (#1432)</code>](https://github.com/elementary/icons/commit/182b6eea9cae93ea2fa133a8b26ef18489b46e16)
-- [ ] [<code>Apps: update symbolic icons for gtk 4.22 (#1433)</code>](https://github.com/elementary/icons/commit/74656f2b7beff7f96a84dcc3d9a999444a6d7668)
-- [ ] [<code>Apps: remove non-fd.o office-calendar (#1435)</code>](https://github.com/elementary/icons/commit/aaa2701dc589b040f13e474b8fde030ebc68a221)
-- [ ] [<code>Categories: update symbolic icons for gtk 4.22 (#1436)</code>](https://github.com/elementary/icons/commit/bae429302ef4618e08433b3ed86c11b52109d6a6)
-- [ ] [<code>Mimes: update symbolic icons for gtk 4.22 (#1437)</code>](https://github.com/elementary/icons/commit/5d6b4adbebf3172d765d3036385c4b8a4039fe5f)
-- [ ] [<code>Status: fixup error color (#1438)</code>](https://github.com/elementary/icons/commit/8a3a3c77cb195a8240563ad8623da893c46ced67)
-- [ ] [<code>Fixup multicolored multisized icons (#1439)</code>](https://github.com/elementary/icons/commit/a9bd8b548b48ab3ab5ec52e2da7efcbe28b9883d)
-- [ ] [<code>metainfo: Add release note for 9.0.0 (#1440)</code>](https://github.com/elementary/icons/commit/80fb04e50538fcf1fc65ff583394328b096803f8)
-- [ ] [<code>Release 9.0.0 (#1441)</code>](https://github.com/elementary/icons/commit/31c7285a1d10170abd363a2553a7f377a031bb33)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove broken symlinks (#1442)</code>](https://github.com/elementary/icons/commit/9b9d3df4f93ee6ad33c37462f023aab3b758b4a5)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
