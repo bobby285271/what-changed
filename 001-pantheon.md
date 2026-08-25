@@ -49,6 +49,12 @@
 - [ ] [<code>Cleanup: fix some terminal warnings (#1801)</code>](https://github.com/elementary/code/commit/a59c75f364d838d9b9eddeb522d479fa07e7c41f)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Keyboard accessibility: Set an accelerator for Close Other Tabs action (#1627)</code>](https://github.com/elementary/code/commit/16a21acee9a364931ed2ef7cfa882ca5ffb0507a)
+- [ ] [<code>SymbolOutline - cleanup (#1797)</code>](https://github.com/elementary/code/commit/247b1c3fcc232b0d2f927976c8490cadc1122ecf)
+- [ ] [<code>Cleanup: Simplify open document (#1773)</code>](https://github.com/elementary/code/commit/c5c2a48456cbbd6902ff60ddba7aa158cfae3ce5)
+- [ ] [<code>Fix POTFILES (#1804)</code>](https://github.com/elementary/code/commit/740667e5b59eafb9d1118dc251ac01d01932b204)
+- [ ] [<code>Correct path names for fuzzy search (#1805)</code>](https://github.com/elementary/code/commit/930730eba8a22bce4b894404c0308676ef32688d)
+- [ ] [<code>SearchBar cleanup (#1794)</code>](https://github.com/elementary/code/commit/ef25ef0aaa46be85fb8fde6b3be37ec312a0af25)
+- [ ] [<code>Fix file path in po/plugins/POTFILES (#1806)</code>](https://github.com/elementary/code/commit/fc2a2bb736ba2a1f80ef2b2ca138475a015224d5)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -64,6 +70,7 @@
 - [ ] [<code>Rename IconGroup to WorkspaceIconGroup (#602)</code>](https://github.com/elementary/dock/commit/5b5f11c53c853a116a50aeecc760d9b96dd21f4f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add bottom margin for workspaces boxes (#603)</code>](https://github.com/elementary/dock/commit/c729052714f2568bb8da26edc0bb68c7ee2aef8d)
+- [ ] [<code>Fix App memory leak (#608)</code>](https://github.com/elementary/dock/commit/fa00b424c8b5af8aac9e9108dde61e759322a021)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -320,6 +327,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard/commit/f8139342cdb1245b76a7452dc93e5edcacf046ce)
 - [ ] [<code>Application: rely on Granite.StyleManager (#377)</code>](https://github.com/elementary/switchboard/commit/11c067223b6ebaccc6ccbba1a0de6c028113c7e3)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#393)</code>](https://github.com/elementary/switchboard/commit/64d3e5ca8f4e0caaf6e1c40e0581d6b3d29e8c54)
+- [ ] [<code>CategoryView: make search bar full width (#396)</code>](https://github.com/elementary/switchboard/commit/5fc894160388f8edb57e4562d2fae5addcf58077)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -507,6 +515,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Update POTFILES (#896)</code>](https://github.com/elementary/greeter/commit/2b47a17ccbb0f6820999ce6139201b28bb11b3bf)
 - [ ] [<code>UserCard: fix grayed out username after account creation (#901)</code>](https://github.com/elementary/greeter/commit/abdfba14bad7d604e146893f160e01448c3fd459)
+- [ ] [<code>Hide session dropdown if only single session available (#906)</code>](https://github.com/elementary/greeter/commit/1354da6f39d1883fa471b8b0c5c5c216b8d90bbf)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -904,6 +914,8 @@
 - [ ] [<code>Update main.yml</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/7026102ea25abebeef8336db5d275ca4b6b92bd5)
 - [ ] [<code>Unify gettext domain with other indicators (#337)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/5bebc96dc52f2854744b51f29f5c65d57a8b0ded)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>PlayerList: guard default_widget against null before MPRIS events (#330)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d84c3f1cde9ae0aaae477a9c157b2a713e227139)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -970,6 +982,9 @@
 - [ ] [<code>Autostart using systemd instead of gnome-session (#52)</code>](https://github.com/elementary/bluetooth-daemon/commit/3658cba12d819bbd5562369ef1173b7db5eb3fb5)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Port to GTK4 (#29)</code>](https://github.com/elementary/bluetooth-daemon/commit/50e94329792a4be23d118d3c2289c3ffeb3ff9fa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
 
