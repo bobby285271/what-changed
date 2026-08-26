@@ -55,6 +55,7 @@
 - [ ] [<code>Correct path names for fuzzy search (#1805)</code>](https://github.com/elementary/code/commit/930730eba8a22bce4b894404c0308676ef32688d)
 - [ ] [<code>SearchBar cleanup (#1794)</code>](https://github.com/elementary/code/commit/ef25ef0aaa46be85fb8fde6b3be37ec312a0af25)
 - [ ] [<code>Fix file path in po/plugins/POTFILES (#1806)</code>](https://github.com/elementary/code/commit/fc2a2bb736ba2a1f80ef2b2ca138475a015224d5)
+- [ ] [<code>SearchBar: set method → properties, rm unused (#1808)</code>](https://github.com/elementary/code/commit/b2f7156cc02554c9d7f0d0cc3cae1cca3b147f6b)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -88,6 +89,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#75)</code>](https://github.com/elementary/iconbrowser/commit/31e2343a508254ba88d7b40048a7d81b895d5728)
 - [ ] [<code>IconCollection: Add missing emblem icons (#76)</code>](https://github.com/elementary/iconbrowser/commit/8458e88d04d332d602c4329d6312d75c387d6b78)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/iconbrowser/commit/622db28975c107cab237fac29f02be1671e86c1f)
+- [ ] [<code>IconCollection: remove event-new (#78)</code>](https://github.com/elementary/iconbrowser/commit/3125139d399c67c3c0c48bcbf007c2dc3c71f744)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
@@ -441,6 +443,8 @@
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
 - [ ] [<code>Remove broken symlinks (#1442)</code>](https://github.com/elementary/icons/commit/9b9d3df4f93ee6ad33c37462f023aab3b758b4a5)
+- [ ] [<code>Actions: remove non-fd.o event-new (#1434)</code>](https://github.com/elementary/icons/commit/7d6d28a0a5e327d216461c563bd913841e3384c9)
+- [ ] [<code>Status: remove airplane-mode-symbolic (#1443)</code>](https://github.com/elementary/icons/commit/91a1b73f6ef3a4f6bf2ec4e933242e14c82524c0)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -640,6 +644,7 @@
 - [ ] [<code>Implement touchpad pinch gestures in gala (#2907)</code>](https://github.com/elementary/gala/commit/6f02198e8379a28c7e31342c51b807ad7b7eed8d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#2908)</code>](https://github.com/elementary/gala/commit/8a3997a9c7476ec7b366c507c89673e804014141)
+- [ ] [<code>Show windows that are on all workspaces in the multitasking view (#2904)</code>](https://github.com/elementary/gala/commit/0c4eb717cb60b42d1c10eea003d77935e855d6fd)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -731,6 +736,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/94dfc58b950a9179b8657f62ed89583dd4799882)
 - [ ] [<code>meson: Correct GETTEXT_PACKAGE (#240)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/daedfc2df36eb2476b3570a79cec12096425c156)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>DisplayWidget: animate with Granite.Symbol (#238)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/f388c51ee82742d72a265b9f20224822cb8ef71b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -949,6 +957,8 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/granite/commit/1792919cefc83d192f069ec00ab81e2276c43c69)
 - [ ] [<code>ListItem: Fix memory leak (#990)</code>](https://github.com/elementary/granite/commit/5ba66c2df5f83b1b92e911076739865b5f6373b6)
 - [ ] [<code>Drop broken GIR namespace directive (#967)</code>](https://github.com/elementary/granite/commit/c4f258db9b6028c8b793f01d2f8248800726ce0a)
+- [ ] [<code>Rename RDNN to io.elementary.contractor (#943)</code>](https://github.com/elementary/granite/commit/341f90cd6aae19b08384d448ac67734c5916c548)
+- [ ] [<code>ListItem: Ellipsize instead of wrap (#989)</code>](https://github.com/elementary/granite/commit/1d737dbbdf4d4cc7b33a18fa93236fbb26fd1069)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -966,6 +976,8 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5 (#39)</code>](https://github.com/elementary/contractor/commit/f51ee306127d67a87ae598631cc2ada711e6474b)
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#40)</code>](https://github.com/elementary/contractor/commit/a884d889bc86e884475507024b9f9f15a933d9bb)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#43)</code>](https://github.com/elementary/contractor/commit/c81468ec884f438bdd4d1671f7749d1b04627cdb)
+- [ ] [<code>Rename RDNN to io.elementary.contractor (#41)</code>](https://github.com/elementary/contractor/commit/78d82ee992fc6a618fbdbad3080369e8e0c68d79)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-bluetooth-daemon](https://github.com/elementary/bluetooth-daemon): [1.1.0 → HEAD](https://github.com/elementary/bluetooth-daemon/compare/1.1.0...HEAD)
 
