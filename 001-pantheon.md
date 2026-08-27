@@ -56,6 +56,7 @@
 - [ ] [<code>SearchBar cleanup (#1794)</code>](https://github.com/elementary/code/commit/ef25ef0aaa46be85fb8fde6b3be37ec312a0af25)
 - [ ] [<code>Fix file path in po/plugins/POTFILES (#1806)</code>](https://github.com/elementary/code/commit/fc2a2bb736ba2a1f80ef2b2ca138475a015224d5)
 - [ ] [<code>SearchBar: set method → properties, rm unused (#1808)</code>](https://github.com/elementary/code/commit/b2f7156cc02554c9d7f0d0cc3cae1cca3b147f6b)
+- [ ] [<code>SearchBar: use actions (#1807)</code>](https://github.com/elementary/code/commit/8eb5007f7ef9c07745fb007880518d8b1fb0762a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -72,6 +73,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add bottom margin for workspaces boxes (#603)</code>](https://github.com/elementary/dock/commit/c729052714f2568bb8da26edc0bb68c7ee2aef8d)
 - [ ] [<code>Fix App memory leak (#608)</code>](https://github.com/elementary/dock/commit/fa00b424c8b5af8aac9e9108dde61e759322a021)
+- [ ] [<code>Introduce AnimatableWidget and use Adw.PropertyAnimationTarget</code>](https://github.com/elementary/dock/commit/7db0fd51b34efe455729c08b5a00766a09aca2b1)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Launcher: fix GLib.Binding memory leak</code>](https://github.com/elementary/dock/commit/1f55ec4c5fda41b41f6c92e31e80122608500ce7)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -645,6 +650,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#2908)</code>](https://github.com/elementary/gala/commit/8a3997a9c7476ec7b366c507c89673e804014141)
 - [ ] [<code>Show windows that are on all workspaces in the multitasking view (#2904)</code>](https://github.com/elementary/gala/commit/0c4eb717cb60b42d1c10eea003d77935e855d6fd)
+- [ ] [<code>WindowMenu: Adjust on all workspaces item label (#2911)</code>](https://github.com/elementary/gala/commit/98dbcdf5fecb65a3d52097a64a651d67611ad4c1)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -676,6 +682,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#691)</code>](https://github.com/elementary/wingpanel/commit/faf5f9a0dd1f05abf6c3820655691d16ec4d3e16)
+- [ ] [<code>Application: don't manually register session (#695)</code>](https://github.com/elementary/wingpanel/commit/31f050107253470466e549372274ea8590db4d49)
+  - <sub>Files: <code>meson.build</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -881,6 +889,10 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Update URLs</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/3fe9ddfadf61e278b1572ff3fe297305765579a2)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#302)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/59df44cb988d11dd5a433837eb51302670108fdb)
+- [ ] [<code>NotificationList: use sort and header funcs (#304)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/43fbd50e2a1e0f6d3d42e492708e98aeed193706)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: use GLib.ListStore (#306)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f8a676e65cf51453a43f50aed0e4568632fc02f2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -924,6 +936,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PlayerList: guard default_widget against null before MPRIS events (#330)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/d84c3f1cde9ae0aaae477a9c157b2a713e227139)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Drop X11 support (#338)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a24268b5cee16c0e11abdb0999d57858bf9e7961)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
