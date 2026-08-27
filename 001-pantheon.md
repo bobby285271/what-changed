@@ -57,6 +57,7 @@
 - [ ] [<code>Fix file path in po/plugins/POTFILES (#1806)</code>](https://github.com/elementary/code/commit/fc2a2bb736ba2a1f80ef2b2ca138475a015224d5)
 - [ ] [<code>SearchBar: set method → properties, rm unused (#1808)</code>](https://github.com/elementary/code/commit/b2f7156cc02554c9d7f0d0cc3cae1cca3b147f6b)
 - [ ] [<code>SearchBar: use actions (#1807)</code>](https://github.com/elementary/code/commit/8eb5007f7ef9c07745fb007880518d8b1fb0762a)
+- [ ] [<code>Markdown: Handle indents better when appending or inserting sublists (#1478)</code>](https://github.com/elementary/code/commit/e6f93140c4b36c511bca1b4f01d094b65eea3443)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -77,6 +78,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Launcher: fix GLib.Binding memory leak</code>](https://github.com/elementary/dock/commit/1f55ec4c5fda41b41f6c92e31e80122608500ce7)
+- [ ] [<code>Show windows that are on all workspaces on all workspaces (#610)</code>](https://github.com/elementary/dock/commit/bbf027e6989be098c98e14e7b4cf92c50e7a4e45)
+- [ ] [<code>Fix WorkspaceIconGroup memory leak (#606)</code>](https://github.com/elementary/dock/commit/16940666b5d89bc39f718f8eb6ffc44f4772aea2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -300,6 +304,8 @@
 
 - [ ] [<code>Cleanup: All UI construction should be in construct clause (#1018)</code>](https://github.com/elementary/terminal/commit/c2be61f5bc1d017f44520be044569579eab2dd22)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Move terminal exit handling to TerminalView (#980)</code>](https://github.com/elementary/terminal/commit/c336daf88d814cf82e94bc8b8be86c829c1e5d5b)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -651,6 +657,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#2908)</code>](https://github.com/elementary/gala/commit/8a3997a9c7476ec7b366c507c89673e804014141)
 - [ ] [<code>Show windows that are on all workspaces in the multitasking view (#2904)</code>](https://github.com/elementary/gala/commit/0c4eb717cb60b42d1c10eea003d77935e855d6fd)
 - [ ] [<code>WindowMenu: Adjust on all workspaces item label (#2911)</code>](https://github.com/elementary/gala/commit/98dbcdf5fecb65a3d52097a64a651d67611ad4c1)
+- [ ] [<code>DesktopIntegration: Send on all workspaces in properties (#2910)</code>](https://github.com/elementary/gala/commit/d24beb25ffb309525c55cb25783dd5bdb62c5158)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -684,6 +691,11 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#691)</code>](https://github.com/elementary/wingpanel/commit/faf5f9a0dd1f05abf6c3820655691d16ec4d3e16)
 - [ ] [<code>Application: don't manually register session (#695)</code>](https://github.com/elementary/wingpanel/commit/31f050107253470466e549372274ea8590db4d49)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Open Notifications with keyboard shortcut (#699)</code>](https://github.com/elementary/wingpanel/commit/44bf419c509288fccc21c1b32e87602e5615c690)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move sort func to IndicatorEntry (#696)</code>](https://github.com/elementary/wingpanel/commit/c0b5f40e49356ed239f7b4bc18e539ed9ef2ff30)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -893,6 +905,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>NotificationsList: use GLib.ListStore (#306)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f8a676e65cf51453a43f50aed0e4568632fc02f2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: bind hide to settings (#308)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f5bcba6d92d387d52bf38f7a47224e2af28afb62)
+- [ ] [<code>NotificationsList: handle clearing app entry (#311)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ec792973247144362d41db5bf7f0e95deb7e0e58)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -939,6 +954,7 @@
 - [ ] [<code>Drop X11 support (#338)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/a24268b5cee16c0e11abdb0999d57858bf9e7961)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ShellKeyGrabber: namespace (#341)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/3e24276c87a34862f7b9b2feeb6b1cec0c1dab1d)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -974,6 +990,9 @@
 - [ ] [<code>Drop broken GIR namespace directive (#967)</code>](https://github.com/elementary/granite/commit/c4f258db9b6028c8b793f01d2f8248800726ce0a)
 - [ ] [<code>Rename RDNN to io.elementary.contractor (#943)</code>](https://github.com/elementary/granite/commit/341f90cd6aae19b08384d448ac67734c5916c548)
 - [ ] [<code>ListItem: Ellipsize instead of wrap (#989)</code>](https://github.com/elementary/granite/commit/1d737dbbdf4d4cc7b33a18fa93236fbb26fd1069)
+- [ ] [<code> ListItem: Add a setup_menu signal  (#994)</code>](https://github.com/elementary/granite/commit/0660fd763214b260834cb86f469227828e2a1c4b)
+- [ ] [<code>ListItem: add version tag to setup_menu (#996)</code>](https://github.com/elementary/granite/commit/cf96732aa903e702fd892f92db27a51e8601d8fa)
+- [ ] [<code>GraniteDemo: Fix app id in order to show up in dock (#995)</code>](https://github.com/elementary/granite/commit/8d19f751199c20d9ac4ec26e3a49cf64bad9e037)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
