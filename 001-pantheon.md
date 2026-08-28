@@ -418,6 +418,7 @@
 - [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/settings-power/commit/8d01fc56415a44dc123c9a1184caa0ab35ace1af)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#294)</code>](https://github.com/elementary/settings-power/commit/843125a133c7568053e93f68187636b60c195188)
 - [ ] [<code>BatteryBox: Update RDNN of Power Panel (#295)</code>](https://github.com/elementary/settings-power/commit/9ba729c5f0bba621972e7988ed8a532a2c3c7c5f)
+- [ ] [<code>Icons: update for GTK 4.22 (#298)</code>](https://github.com/elementary/settings-power/commit/0c37ddfe683241bdbe43ad84ff73a5cd19f3587e)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
@@ -531,6 +532,8 @@
 - [ ] [<code>Update POTFILES (#896)</code>](https://github.com/elementary/greeter/commit/2b47a17ccbb0f6820999ce6139201b28bb11b3bf)
 - [ ] [<code>UserCard: fix grayed out username after account creation (#901)</code>](https://github.com/elementary/greeter/commit/abdfba14bad7d604e146893f160e01448c3fd459)
 - [ ] [<code>Hide session dropdown if only single session available (#906)</code>](https://github.com/elementary/greeter/commit/1354da6f39d1883fa471b8b0c5c5c216b8d90bbf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Refactor authentication (#890)</code>](https://github.com/elementary/greeter/commit/3364dba5393652684883f1194eafb6112f94f08a)
   - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
@@ -696,6 +699,9 @@
 - [ ] [<code>Move sort func to IndicatorEntry (#696)</code>](https://github.com/elementary/wingpanel/commit/c0b5f40e49356ed239f7b4bc18e539ed9ef2ff30)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: add checked state (#704)</code>](https://github.com/elementary/wingpanel/commit/6c0136cf3aef2716b7e03474f77b3d08455a5fff)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Popover: remove arrow, rounder, margins (#703)</code>](https://github.com/elementary/wingpanel/commit/38f899b6764c0246e968ababf70fcb0068923a78)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -839,6 +845,7 @@
 - [ ] [<code>meson: Correct GETTEXT_PACKAGE (#366)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/4754bfb99a87931d4a7a6fb733dd66510073b5a9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>PopoverWidget: Compare with result of get_first_child, not its address (#367)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/1fc0f157f791391c4bbf0bdb1c34dffed585c7ee)
+- [ ] [<code>Icons: update for Gtk 4.22 (#368)</code>](https://github.com/elementary/wingpanel-indicator-network/commit/82cdad09cd8f19adbe0097f8c4de8b4bd8f6b4cd)
 
 #### [pantheon.wingpanel-indicator-nightlight](https://github.com/elementary/wingpanel-indicator-nightlight): [2.1.3 → HEAD](https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.3...HEAD)
 
@@ -908,6 +915,12 @@
 - [ ] [<code>NotificationEntry: bind hide to settings (#308)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/f5bcba6d92d387d52bf38f7a47224e2af28afb62)
 - [ ] [<code>NotificationsList: handle clearing app entry (#311)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ec792973247144362d41db5bf7f0e95deb7e0e58)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use Gtk.Svg for animated icon (#303)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/2d6b3dfef0cd5ae3cf9128c97837f688fc56d326)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>NotificationsList: add public property to get notification items</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9b76401739c2e5175a1c0a6cfea4193234f280d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: clear items from nlist, not app_entry</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0cbe8b0e5dfef52c55faf3e77709a1a7b0d7f432)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -955,6 +968,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ShellKeyGrabber: namespace (#341)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/3e24276c87a34862f7b9b2feeb6b1cec0c1dab1d)
+- [ ] [<code>Icons: update for Gtk 4.22 (#339)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8377fd57b3e1e0d15626a020ff3492d0e63dc9c7)
+- [ ] [<code>DisplayWidget: use Granite.Symbol for volume icon (#332)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/03bee78614aa021b875f534c0f032359419210ad)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -1044,6 +1061,7 @@
 - [ ] [<code>Demo/Application: rely on Granite.StyleManager (#287)</code>](https://github.com/elementary/notifications/commit/48f20edff6da82ff6c30efa71ba6ba1a218201ba)
 - [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#288)</code>](https://github.com/elementary/notifications/commit/07e1b6cc6c12df1871e912f9b1945511abef815b)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/notifications/commit/506fefb276165b211c29b1a67229c546525767c7)
+- [ ] [<code>Resource: add 48px symbolic icons (#293)</code>](https://github.com/elementary/notifications/commit/7c44a3672fb1e7d1fef9ee41d83099e2de86fec7)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
