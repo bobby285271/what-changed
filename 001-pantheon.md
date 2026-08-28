@@ -58,6 +58,8 @@
 - [ ] [<code>SearchBar: set method → properties, rm unused (#1808)</code>](https://github.com/elementary/code/commit/b2f7156cc02554c9d7f0d0cc3cae1cca3b147f6b)
 - [ ] [<code>SearchBar: use actions (#1807)</code>](https://github.com/elementary/code/commit/8eb5007f7ef9c07745fb007880518d8b1fb0762a)
 - [ ] [<code>Markdown: Handle indents better when appending or inserting sublists (#1478)</code>](https://github.com/elementary/code/commit/e6f93140c4b36c511bca1b4f01d094b65eea3443)
+- [ ] [<code>Make primary icon activatable so signal handler works (#1810)</code>](https://github.com/elementary/code/commit/169a51b81e3fe2d7f068d31dd1ea75e828c1c8ab)
+- [ ] [<code>Feature: Separate terminal zoom (#1696)</code>](https://github.com/elementary/code/commit/099b54697a9ebe91ebcceab4cf561aa385b1e9a3)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -306,6 +308,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Move terminal exit handling to TerminalView (#980)</code>](https://github.com/elementary/terminal/commit/c336daf88d814cf82e94bc8b8be86c829c1e5d5b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Jeremypw/fix new root tab (#1019)</code>](https://github.com/elementary/terminal/commit/4e1aadbb6d3d29008bd704fd56702873d25efde5)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
 
@@ -501,6 +505,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>flatpak: Explicitly preinstall GL runtime (#370)</code>](https://github.com/elementary/default-settings/commit/a8e3833d4a122e3989ff3d425eeae81553a19160)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>flatpak: Bump org.freedesktop.Platform.GL.default to 25.08 (#371)</code>](https://github.com/elementary/default-settings/commit/4bd722fabbbc418b6f95ab181cc48f335547dd2c)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -1055,6 +1060,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6 (#143)</code>](https://github.com/elementary/capnet-assist/commit/13fa5572eafc8b57cd9669dcd61cf3843dc84425)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#145)</code>](https://github.com/elementary/capnet-assist/commit/f4b59413eb96100375d94167797be3fd7ed5f038)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/capnet-assist/commit/4c9233cb96f06b1da6a56afdf68d538ec663a173)
+- [ ] [<code>Bump Flatpak platform to 9 (#148)</code>](https://github.com/elementary/capnet-assist/commit/8c37d825b7861803678b0cd63e6595083e7c5e61)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
