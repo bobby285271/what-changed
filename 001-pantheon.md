@@ -667,6 +667,7 @@
 - [ ] [<code>Show windows that are on all workspaces in the multitasking view (#2904)</code>](https://github.com/elementary/gala/commit/0c4eb717cb60b42d1c10eea003d77935e855d6fd)
 - [ ] [<code>WindowMenu: Adjust on all workspaces item label (#2911)</code>](https://github.com/elementary/gala/commit/98dbcdf5fecb65a3d52097a64a651d67611ad4c1)
 - [ ] [<code>DesktopIntegration: Send on all workspaces in properties (#2910)</code>](https://github.com/elementary/gala/commit/d24beb25ffb309525c55cb25783dd5bdb62c5158)
+- [ ] [<code>WindowSwitcher: Disable hover for a short time after key events (#2903)</code>](https://github.com/elementary/gala/commit/cfe39bb78fe59c2181fbe63d922cbdc32a15fb22)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1018,6 +1019,10 @@
 - [ ] [<code>ListItem: add version tag to setup_menu (#996)</code>](https://github.com/elementary/granite/commit/cf96732aa903e702fd892f92db27a51e8601d8fa)
 - [ ] [<code>GraniteDemo: Fix app id in order to show up in dock (#995)</code>](https://github.com/elementary/granite/commit/8d19f751199c20d9ac4ec26e3a49cf64bad9e037)
 - [ ] [<code>Add CssClass.DEVEL (#988)</code>](https://github.com/elementary/granite/commit/466d03269d33683f1fc498d26bffece9cf366d79)
+- [ ] [<code>Resource: fix resource path</code>](https://github.com/elementary/granite/commit/51c45bc0cb864b0caa979fbcd2f71c4d1a53d02c)
+- [ ] [<code>Styles: export css style palette variables (#1000)</code>](https://github.com/elementary/granite/commit/b34a555e238f6757b3db44a91f8a1a6b11c400df)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
