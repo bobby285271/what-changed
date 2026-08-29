@@ -572,6 +572,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix granite style class deprecation (#168)</code>](https://github.com/elementary/shortcut-overlay/commit/619d604cc82ec6beeaf28a21bb182d897e93956a)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#169)</code>](https://github.com/elementary/shortcut-overlay/commit/1dbe5c3714a42ba5ef78f515065d2b8f7e235e40)
+- [ ] [<code>ShorcutsView: add Notifications Menu (#170)</code>](https://github.com/elementary/shortcut-overlay/commit/0589f1f7927b8c71a0e608b8629080d65848dac9)
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
@@ -926,6 +927,7 @@
 - [ ] [<code>NotificationsList: add public property to get notification items</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b9b76401739c2e5175a1c0a6cfea4193234f280d)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Indicator: clear items from nlist, not app_entry</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0cbe8b0e5dfef52c55faf3e77709a1a7b0d7f432)
+- [ ] [<code>NotificationsList, AppEntry, bump copyright (#314)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bf3ae637563d699c39fdeb010e91e8fc5f2eaf99)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1015,6 +1017,7 @@
 - [ ] [<code> ListItem: Add a setup_menu signal  (#994)</code>](https://github.com/elementary/granite/commit/0660fd763214b260834cb86f469227828e2a1c4b)
 - [ ] [<code>ListItem: add version tag to setup_menu (#996)</code>](https://github.com/elementary/granite/commit/cf96732aa903e702fd892f92db27a51e8601d8fa)
 - [ ] [<code>GraniteDemo: Fix app id in order to show up in dock (#995)</code>](https://github.com/elementary/granite/commit/8d19f751199c20d9ac4ec26e3a49cf64bad9e037)
+- [ ] [<code>Add CssClass.DEVEL (#988)</code>](https://github.com/elementary/granite/commit/466d03269d33683f1fc498d26bffece9cf366d79)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
