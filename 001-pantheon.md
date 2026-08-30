@@ -456,6 +456,7 @@
 - [ ] [<code>metainfo: Rename from *.appdata.xml to *.metainfo.xml (#1349)</code>](https://github.com/elementary/stylesheet/commit/45a443f5f24be9c0c98482a3ef82672b93c44b81)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1352)</code>](https://github.com/elementary/stylesheet/commit/1242ce7955601e1008a9ee5a039577993f6bd60b)
+- [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1354)</code>](https://github.com/elementary/stylesheet/commit/ce649052e3b0a0aa3c61521f521aef434506d332)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
@@ -545,6 +546,8 @@
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/onboarding/commit/07472ff7846c04722b943fb876948b89962a2bf8)
+- [ ] [<code>Use Granite.Box (#281)</code>](https://github.com/elementary/onboarding/commit/e3877af9b1711d7b39b0e0202d69318778c28b81)
+- [ ] [<code>StyleProvider cleanups (#282)</code>](https://github.com/elementary/onboarding/commit/a36eb978abe2b7243723b7805df40cb48e2f9bc4)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -779,6 +782,7 @@
 - [ ] [<code>DisplayWidget: animate with Granite.Symbol (#238)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/f388c51ee82742d72a265b9f20224822cb8ef71b)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Fix compile errors with new Vala (#242)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/80489e6b555b5854996a27b8b02dddfdddb4c83c)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -936,6 +940,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Indicator: clear items from nlist, not app_entry</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0cbe8b0e5dfef52c55faf3e77709a1a7b0d7f432)
 - [ ] [<code>NotificationsList, AppEntry, bump copyright (#314)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bf3ae637563d699c39fdeb010e91e8fc5f2eaf99)
+- [ ] [<code>Indicator: show accels if available (#312)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/36b245d5697b85bd6ab50f5796a3c23b2c485f55)
+- [ ] [<code>NotificationEntry: construct once then set gicon (#309)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a86de6dadaef4cc89702fa76db65bce766ec6448)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -958,6 +964,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#300)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d1e5ea16055ea4d94b885aa177f164a81f6f179)
 - [ ] [<code>Update RDNN to io.elementary.panel.power (#302)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d59ea9c3da2be7f2235b8e67140a39bc60950c16)
 - [ ] [<code>Icons: resource 24px power placeholder (#303)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ce0de8bbc60802d5cbc5e046891e55b1b20435fa)
+- [ ] [<code>Fix compilation errors on new Vala (#304)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f8baf7a1d35d1a18a271dd752acbcbf23657ae8a)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
@@ -998,6 +1005,7 @@
 - [ ] [<code>Resource text size icons (#146)</code>](https://github.com/elementary/quick-settings/commit/1751e659c4a7b40de9efc7ea61f0a03d7650228d)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/quick-settings/commit/d409580ff59aaf8501caea634e2889fdd187551d)
 - [ ] [<code>Revert "PopoverWidget: notify when onboard activated in Wayland (#120)" (#151)</code>](https://github.com/elementary/quick-settings/commit/c9b372932894acf9e101e8342044e06c5ceeba3a)
+- [ ] [<code>Avoid using destroy signal (#156)</code>](https://github.com/elementary/quick-settings/commit/510f42f2b915e0a1a99887ebb4730f5800fabf08)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
