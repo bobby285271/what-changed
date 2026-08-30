@@ -60,6 +60,7 @@
 - [ ] [<code>Markdown: Handle indents better when appending or inserting sublists (#1478)</code>](https://github.com/elementary/code/commit/e6f93140c4b36c511bca1b4f01d094b65eea3443)
 - [ ] [<code>Make primary icon activatable so signal handler works (#1810)</code>](https://github.com/elementary/code/commit/169a51b81e3fe2d7f068d31dd1ea75e828c1c8ab)
 - [ ] [<code>Feature: Separate terminal zoom (#1696)</code>](https://github.com/elementary/code/commit/099b54697a9ebe91ebcceab4cf561aa385b1e9a3)
+- [ ] [<code>Feature: Add action to find matching bracket (#1680)</code>](https://github.com/elementary/code/commit/60da18a0361352fd32cba354ad9fc450f543fa35)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -709,6 +710,12 @@
 - [ ] [<code>Indicator: add checked state (#704)</code>](https://github.com/elementary/wingpanel/commit/6c0136cf3aef2716b7e03474f77b3d08455a5fff)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Popover: remove arrow, rounder, margins (#703)</code>](https://github.com/elementary/wingpanel/commit/38f899b6764c0246e968ababf70fcb0068923a78)
+- [ ] [<code>Rework size request and layouting (#706)</code>](https://github.com/elementary/wingpanel/commit/73a64140cbfe587ed2e4237a024d59e15ad47b1f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>BackgroundManager: fix early initialization (#707)</code>](https://github.com/elementary/wingpanel/commit/8a5a7ee56470b3493f11868e5e92f075280f1334)
+- [ ] [<code>Fix Fedora/OpenSUSE CI (#708)</code>](https://github.com/elementary/wingpanel/commit/3261ef002fc48efe92be16cf965e4601a965d0ef)
+- [ ] [<code>BackgroundManager: Defer to user preference when translucent (#701)</code>](https://github.com/elementary/wingpanel/commit/0c42fd79eb23c4f3291c906cc3388386747900bb)
+- [ ] [<code>Application: allow icon themes (#709)</code>](https://github.com/elementary/wingpanel/commit/046d7945d066e37c1ec24687a32cae3c11114b75)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -950,6 +957,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#300)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d1e5ea16055ea4d94b885aa177f164a81f6f179)
 - [ ] [<code>Update RDNN to io.elementary.panel.power (#302)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d59ea9c3da2be7f2235b8e67140a39bc60950c16)
+- [ ] [<code>Icons: resource 24px power placeholder (#303)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ce0de8bbc60802d5cbc5e046891e55b1b20435fa)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
@@ -980,6 +988,7 @@
 - [ ] [<code>DisplayWidget: use Granite.Symbol for volume icon (#332)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/03bee78614aa021b875f534c0f032359419210ad)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Fix compile error (#343)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/80406f132128cbe6efdba219174f60fb5e7e466c)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -1023,6 +1032,12 @@
 - [ ] [<code>Styles: export css style palette variables (#1000)</code>](https://github.com/elementary/granite/commit/b34a555e238f6757b3db44a91f8a1a6b11c400df)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>HeaderLabel: add justify property (#1009)</code>](https://github.com/elementary/granite/commit/b7ff32ea7188a8b0859b1650b3dcf9ad0b5b9f68)
+- [ ] [<code>Add `adw-entry-edit-symbolic` icon (#1008)</code>](https://github.com/elementary/granite/commit/a281a0b1fa62266a877efa5926794b488bea2607)
+- [ ] [<code>Add AnimationDuration namespace (#1011)</code>](https://github.com/elementary/granite/commit/952337ea74b925c06088e72d10fb11739fd22dbd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Require libgtk-4-dev >= 4.22.0 (#1016)</code>](https://github.com/elementary/granite/commit/10a9c3aeb70ed41eb194936fc7f7320bbb342926)
+- [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1013)</code>](https://github.com/elementary/granite/commit/ad99c2bb50239b3388b42dc1f631e7f38e416ac4)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
