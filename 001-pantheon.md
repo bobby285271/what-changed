@@ -722,6 +722,8 @@
 - [ ] [<code>Application: allow icon themes (#709)</code>](https://github.com/elementary/wingpanel/commit/046d7945d066e37c1ec24687a32cae3c11114b75)
 - [ ] [<code>Handle indicator cycling via Gtk.ShortcutController (#711)</code>](https://github.com/elementary/wingpanel/commit/e0bddea1e61e20325d37236402d9c398f8108047)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Panel: use Gtk.DirectionType instead of true/false (#712)</code>](https://github.com/elementary/wingpanel/commit/b9a5739e4ed70df0180b48be9bcf1c695e91c4a6)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
