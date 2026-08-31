@@ -463,6 +463,7 @@
 - [ ] [<code>Remove broken symlinks (#1442)</code>](https://github.com/elementary/icons/commit/9b9d3df4f93ee6ad33c37462f023aab3b758b4a5)
 - [ ] [<code>Actions: remove non-fd.o event-new (#1434)</code>](https://github.com/elementary/icons/commit/7d6d28a0a5e327d216461c563bd913841e3384c9)
 - [ ] [<code>Status: remove airplane-mode-symbolic (#1443)</code>](https://github.com/elementary/icons/commit/91a1b73f6ef3a4f6bf2ec4e933242e14c82524c0)
+- [ ] [<code>Emotions: Correctly name emblem-synchronized-symbolic (#1445)</code>](https://github.com/elementary/icons/commit/6d00e8703f4847b0f75b566b68fd37fac98e0e77)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -719,6 +720,8 @@
 - [ ] [<code>Fix Fedora/OpenSUSE CI (#708)</code>](https://github.com/elementary/wingpanel/commit/3261ef002fc48efe92be16cf965e4601a965d0ef)
 - [ ] [<code>BackgroundManager: Defer to user preference when translucent (#701)</code>](https://github.com/elementary/wingpanel/commit/0c42fd79eb23c4f3291c906cc3388386747900bb)
 - [ ] [<code>Application: allow icon themes (#709)</code>](https://github.com/elementary/wingpanel/commit/046d7945d066e37c1ec24687a32cae3c11114b75)
+- [ ] [<code>Handle indicator cycling via Gtk.ShortcutController (#711)</code>](https://github.com/elementary/wingpanel/commit/e0bddea1e61e20325d37236402d9c398f8108047)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -1111,6 +1114,9 @@
 - [ ] [<code>Let PackageKit trigger check_for_updates (#234)</code>](https://github.com/elementary/settings-daemon/commit/817dbc8a078d43507b0747904d931b7dfa4c3ee7)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-daemon/commit/252077c2d6e60e323090b237d1f5e37adf289e05)
 - [ ] [<code>InterfaceSettings: Update RDNN of Power Panel (#237)</code>](https://github.com/elementary/settings-daemon/commit/0957dab5e8c9263cf6cbdeda2c507741e25c7ed3)
+- [ ] [<code>Add support for ContrastPreference (#239)</code>](https://github.com/elementary/settings-daemon/commit/ccb3ec6e978985a945aa8a255809a7735e0e59fe)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
