@@ -25,6 +25,7 @@
 - [ ] [<code>Update gettext.yml</code>](https://github.com/elementary/calendar/commit/ba530b6effc9b713a2b93c06058478f0023eb4da)
 - [ ] [<code>Icons: use red binding (#953)</code>](https://github.com/elementary/calendar/commit/ee7acbeb5854cf1b50cbe8ab7213decc600e5d1d)
 - [ ] [<code>Fix import dialog frame not being visible (#957)</code>](https://github.com/elementary/calendar/commit/42393174960f8c4d88260e51e4a086d1c5f9c19f)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.2.tar.xz to 3.61.3 (#958)</code>](https://github.com/elementary/calendar/commit/51a82c0c9c2d8799759be0592d1351101ce9a07a)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -1051,6 +1052,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>README: Require libgtk-4-dev >= 4.22.0 (#1016)</code>](https://github.com/elementary/granite/commit/10a9c3aeb70ed41eb194936fc7f7320bbb342926)
 - [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1013)</code>](https://github.com/elementary/granite/commit/ad99c2bb50239b3388b42dc1f631e7f38e416ac4)
+- [ ] [<code>StyleManager: switch to new GTK color scheme preference (#1006)</code>](https://github.com/elementary/granite/commit/285f26d6d3668662ea98c011663474e73a00a890)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
