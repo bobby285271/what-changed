@@ -674,6 +674,9 @@
 - [ ] [<code>WindowMenu: Adjust on all workspaces item label (#2911)</code>](https://github.com/elementary/gala/commit/98dbcdf5fecb65a3d52097a64a651d67611ad4c1)
 - [ ] [<code>DesktopIntegration: Send on all workspaces in properties (#2910)</code>](https://github.com/elementary/gala/commit/d24beb25ffb309525c55cb25783dd5bdb62c5158)
 - [ ] [<code>WindowSwitcher: Disable hover for a short time after key events (#2903)</code>](https://github.com/elementary/gala/commit/cfe39bb78fe59c2181fbe63d922cbdc32a15fb22)
+- [ ] [<code>Release 8.6.0 (#2915)</code>](https://github.com/elementary/gala/commit/50d6fd4a0b0d971a24f3bcc37d06cda2c7dfe6cb)
+  - <sub>Tags: <code>8.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
