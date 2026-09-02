@@ -62,6 +62,7 @@
 - [ ] [<code>Make primary icon activatable so signal handler works (#1810)</code>](https://github.com/elementary/code/commit/169a51b81e3fe2d7f068d31dd1ea75e828c1c8ab)
 - [ ] [<code>Feature: Separate terminal zoom (#1696)</code>](https://github.com/elementary/code/commit/099b54697a9ebe91ebcceab4cf561aa385b1e9a3)
 - [ ] [<code>Feature: Add action to find matching bracket (#1680)</code>](https://github.com/elementary/code/commit/60da18a0361352fd32cba354ad9fc450f543fa35)
+- [ ] [<code>Use GLib.Once to manage singleton; reduce static members/methods (#1811)</code>](https://github.com/elementary/code/commit/8c281f806f9b3750154f754791b790a06f0021cd)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -736,6 +737,8 @@
 - [ ] [<code>Remove unused actions and command line options (#716)</code>](https://github.com/elementary/wingpanel/commit/b3c5d2d8b43cd31bddc79b419e71b0f1feb87e94)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Use ListModels / FlowBoxes for showing indicators (#714)</code>](https://github.com/elementary/wingpanel/commit/846645e2365c0bbd448eb5ed3a31b1d35c4d6200)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Don't hold refs to controllers (#718)</code>](https://github.com/elementary/wingpanel/commit/0c59baff48db95600f1cbdabdab141172b0dffc6)
   - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
