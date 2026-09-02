@@ -247,6 +247,7 @@
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
 - [ ] [<code>gexiv2: Update gexiv2-0.16.1.tar.xz to 0.16.2 (#847)</code>](https://github.com/elementary/photos/commit/cdb016ed33460efad0649ef0b24ea9cd269634df)
+- [ ] [<code>exiv2: Update v0.28.8.tar.gz to 0.28.9 (#849)</code>](https://github.com/elementary/photos/commit/c343b22f31bef95366ee709a50ba74417437e831)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
@@ -728,6 +729,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Panel: use Gtk.DirectionType instead of true/false (#712)</code>](https://github.com/elementary/wingpanel/commit/b9a5739e4ed70df0180b48be9bcf1c695e91c4a6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>lib: Introduce a KeybindingHelper</code>](https://github.com/elementary/wingpanel/commit/4edb131238b2afb8ca894eea261a82a6c809e5c9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Application: Use KeybindingHelper</code>](https://github.com/elementary/wingpanel/commit/24967c0b964d73f6132112544393cf9963b3d377)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove unused actions and command line options (#716)</code>](https://github.com/elementary/wingpanel/commit/b3c5d2d8b43cd31bddc79b419e71b0f1feb87e94)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use ListModels / FlowBoxes for showing indicators (#714)</code>](https://github.com/elementary/wingpanel/commit/846645e2365c0bbd448eb5ed3a31b1d35c4d6200)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -898,6 +907,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#117)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/5c5abaf8d78f9ac93eb2c14ccb22d46a1c466a68)
 - [ ] [<code>meson: Correct GETTEXT_PACKAGE (#118)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/f226c2e6f7b1a1d39018101e515c61af69260ebd)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Use Symbol for display widget (#119)</code>](https://github.com/elementary/wingpanel-indicator-nightlight/commit/bcf0b10f1692daa11e2b327e55aeb2d7aa1cbaca)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications): [7.1.1 → HEAD](https://github.com/elementary/wingpanel-indicator-notifications/compare/7.1.1...HEAD)
 
@@ -951,6 +963,10 @@
 - [ ] [<code>NotificationsList, AppEntry, bump copyright (#314)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/bf3ae637563d699c39fdeb010e91e8fc5f2eaf99)
 - [ ] [<code>Indicator: show accels if available (#312)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/36b245d5697b85bd6ab50f5796a3c23b2c485f55)
 - [ ] [<code>NotificationEntry: construct once then set gicon (#309)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a86de6dadaef4cc89702fa76db65bce766ec6448)
+- [ ] [<code>AppEntry: don't hold references to Notifications (#307)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/92296901738665db52f436d27998e95952cd553e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Revert "AppEntry: don't hold references to Notifications" (#319)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/15a134ad1a62bbc93a085f0e5c63799a1396f777)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1005,6 +1021,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Fix compile error (#343)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/80406f132128cbe6efdba219174f60fb5e7e466c)
+- [ ] [<code>Use Symbol for microphone (#342)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6e33d9c68d3268ee8507ecfe5c2935872f736a4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -1015,6 +1033,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/quick-settings/commit/d409580ff59aaf8501caea634e2889fdd187551d)
 - [ ] [<code>Revert "PopoverWidget: notify when onboard activated in Wayland (#120)" (#151)</code>](https://github.com/elementary/quick-settings/commit/c9b372932894acf9e101e8342044e06c5ceeba3a)
 - [ ] [<code>Avoid using destroy signal (#156)</code>](https://github.com/elementary/quick-settings/commit/510f42f2b915e0a1a99887ebb4730f5800fabf08)
+- [ ] [<code>Fix criticals (#155)</code>](https://github.com/elementary/quick-settings/commit/34d4538176b751dc4fe2266e7cd646d26b927a46)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
@@ -1056,6 +1075,9 @@
 - [ ] [<code>README: Require libgtk-4-dev >= 4.22.0 (#1016)</code>](https://github.com/elementary/granite/commit/10a9c3aeb70ed41eb194936fc7f7320bbb342926)
 - [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1013)</code>](https://github.com/elementary/granite/commit/ad99c2bb50239b3388b42dc1f631e7f38e416ac4)
 - [ ] [<code>StyleManager: switch to new GTK color scheme preference (#1006)</code>](https://github.com/elementary/granite/commit/285f26d6d3668662ea98c011663474e73a00a890)
+- [ ] [<code>Fix style class deprecations (#1018)</code>](https://github.com/elementary/granite/commit/c88d47604fd57e876f2ce9ce1f290712a0d9eac1)
+- [ ] [<code>Remove deprecations (#1010)</code>](https://github.com/elementary/granite/commit/1e54180ef1f2f9e7b799226a10eb6578202a5eb7)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
