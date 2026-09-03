@@ -63,6 +63,7 @@
 - [ ] [<code>Feature: Separate terminal zoom (#1696)</code>](https://github.com/elementary/code/commit/099b54697a9ebe91ebcceab4cf561aa385b1e9a3)
 - [ ] [<code>Feature: Add action to find matching bracket (#1680)</code>](https://github.com/elementary/code/commit/60da18a0361352fd32cba354ad9fc450f543fa35)
 - [ ] [<code>Use GLib.Once to manage singleton; reduce static members/methods (#1811)</code>](https://github.com/elementary/code/commit/8c281f806f9b3750154f754791b790a06f0021cd)
+- [ ] [<code>SearchBar: improve settings handling (#1809)</code>](https://github.com/elementary/code/commit/209b09e174c283926ee0f7008b5f0b85569a65dc)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -95,6 +96,7 @@
 
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
 - [ ] [<code>Window: cleanup update_location_bar () (#2810)</code>](https://github.com/elementary/files/commit/166442e3d38fdc2305659f6bcf483cbc1644b425)
+- [ ] [<code>Fix crash on unmount when busy with other processes (#2823)</code>](https://github.com/elementary/files/commit/f73c4edeb2a0c1f8d96de37bbbf8ac8b82bd5ba8)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -358,6 +360,7 @@
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-applications/commit/720f4ed1e0b6111bd536f1db267825ed2aca8543)
+- [ ] [<code>AppSettingsView: use in-spec, resourced icons (#279)</code>](https://github.com/elementary/settings-applications/commit/99f333456efaf7e270b34fbda4d989153f736be1)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -366,6 +369,7 @@
 - [ ] [<code>Bump actions/checkout from 4 to 5</code>](https://github.com/elementary/settings-bluetooth/commit/c7d21a296ec019c46c53b2973c854c7987352765)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-bluetooth/commit/0d14f0ea1abdffb5c2c0b4f7adc548d4374c65f5)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#255)</code>](https://github.com/elementary/settings-bluetooth/commit/a4e8559d7f73d3321f3d0ed770260a5a5fa5e661)
+- [ ] [<code>Handle case where no bluetooth adapters available (#256)</code>](https://github.com/elementary/settings-bluetooth/commit/c12c81a8a291150ef7913e142e05979986ec669d)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -417,6 +421,8 @@
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.3.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-desktop/commit/de15c1a033ddd8a911f652b39b3ae4a2c18016e4)
+- [ ] [<code>Make appearance the default tab</code>](https://github.com/elementary/settings-desktop/commit/9c1f7cbedfe4e87ae3ed5d987d44e24dd8f733b4)
+- [ ] [<code>Appearance: use SwitchModelButton (#495)</code>](https://github.com/elementary/settings-desktop/commit/b3ad6446cc5d1fe9a50d9edbf240f3ee4aec21b4)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -740,6 +746,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Don't hold refs to controllers (#718)</code>](https://github.com/elementary/wingpanel/commit/0c59baff48db95600f1cbdabdab141172b0dffc6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PanelWindow: small cleanup (#717)</code>](https://github.com/elementary/wingpanel/commit/75e933bfcfe3315771433e7d08406d3353d86058)
+- [ ] [<code>Panel: small cleanup (#719)</code>](https://github.com/elementary/wingpanel/commit/0418fdb0594a056996b90c882a4391b1b04c3c8d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Cleanup toggle-popover action (#715)</code>](https://github.com/elementary/wingpanel/commit/c3eba6f089c46e22b96bb26176613e82f0ce2f50)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Simplify PopoverManager (#720)</code>](https://github.com/elementary/wingpanel/commit/9eda202f268adb70e89376063974a3f7895e095c)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -970,6 +983,17 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Revert "AppEntry: don't hold references to Notifications" (#319)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/15a134ad1a62bbc93a085f0e5c63799a1396f777)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: remove from list (#321)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/af9f45f9657016c37c31b281b70eba160cc58f57)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: dismiss after clear</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8df5df4198d2e1cd71d779e813f6700e4ade729e)
+- [ ] [<code>NotificationsList: unset headers on remove notification</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/de746a17ac5ad89bdc359b71076376cf224786ff)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: clear_app_entry by id</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8852fd279a21c1febfcc03b1048bfab027de375a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppEntry: remove app_notifications</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/fa61f17ac31c1a960b2f7e1fd061f1d30bd620f5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: Remove unused clear ()</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c54cfa97276e4408bf1aa1551439680cd8c29700)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1134,6 +1158,10 @@
 - [ ] [<code>ISSUE_TEMPLATE: Sync with .github repository (#288)</code>](https://github.com/elementary/notifications/commit/07e1b6cc6c12df1871e912f9b1945511abef815b)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/notifications/commit/506fefb276165b211c29b1a67229c546525767c7)
 - [ ] [<code>Resource: add 48px symbolic icons (#293)</code>](https://github.com/elementary/notifications/commit/7c44a3672fb1e7d1fef9ee41d83099e2de86fec7)
+- [ ] [<code>Icons: redesign</code>](https://github.com/elementary/notifications/commit/baaa5ec474d7eef3784964d207771965a9fcc835)
+- [ ] [<code>add 48</code>](https://github.com/elementary/notifications/commit/eb053af2fb70aadfd2c21e5b668baa7fa3ec6884)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
