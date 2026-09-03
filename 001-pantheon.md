@@ -370,6 +370,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-bluetooth/commit/0d14f0ea1abdffb5c2c0b4f7adc548d4374c65f5)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#255)</code>](https://github.com/elementary/settings-bluetooth/commit/a4e8559d7f73d3321f3d0ed770260a5a5fa5e661)
 - [ ] [<code>Handle case where no bluetooth adapters available (#256)</code>](https://github.com/elementary/settings-bluetooth/commit/c12c81a8a291150ef7913e142e05979986ec669d)
+- [ ] [<code>Fix description when adapter unplugged (#257)</code>](https://github.com/elementary/settings-bluetooth/commit/31474bf735f47a68f93d47d1363ef79ac0b69df5)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -994,6 +995,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>NotificationEntry: Remove unused clear ()</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c54cfa97276e4408bf1aa1551439680cd8c29700)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: start/stop timestamp timer on map/unmap (#326)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/5a405603af1db20b2bd2d78bd8ee42ae5ec4b930)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
