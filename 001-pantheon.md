@@ -64,6 +64,7 @@
 - [ ] [<code>Feature: Add action to find matching bracket (#1680)</code>](https://github.com/elementary/code/commit/60da18a0361352fd32cba354ad9fc450f543fa35)
 - [ ] [<code>Use GLib.Once to manage singleton; reduce static members/methods (#1811)</code>](https://github.com/elementary/code/commit/8c281f806f9b3750154f754791b790a06f0021cd)
 - [ ] [<code>SearchBar: improve settings handling (#1809)</code>](https://github.com/elementary/code/commit/209b09e174c283926ee0f7008b5f0b85569a65dc)
+- [ ] [<code>Fix regression in search (#1812)</code>](https://github.com/elementary/code/commit/c7fea7ca9c4322f6d788e2b084977fcc697a3f9d)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -409,6 +410,7 @@
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-notifications/commit/db2c2a5f56e5e98c7b1b872bbd12de3b25024cb0)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#122)</code>](https://github.com/elementary/settings-notifications/commit/bac34fdb55cf783e55e17d5cc20d72d9185ddafe)
+- [ ] [<code>Use RDNN icon name (#123)</code>](https://github.com/elementary/settings-notifications/commit/46fba495be5e6138e5948e53b24d73fcec6e9591)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -424,6 +426,8 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-desktop/commit/de15c1a033ddd8a911f652b39b3ae4a2c18016e4)
 - [ ] [<code>Make appearance the default tab</code>](https://github.com/elementary/settings-desktop/commit/9c1f7cbedfe4e87ae3ed5d987d44e24dd8f733b4)
 - [ ] [<code>Appearance: use SwitchModelButton (#495)</code>](https://github.com/elementary/settings-desktop/commit/b3ad6446cc5d1fe9a50d9edbf240f3ee4aec21b4)
+- [ ] [<code>Appearance: use new a11y key for reduce motion (#493)</code>](https://github.com/elementary/settings-desktop/commit/9a4d142c0381c0d54e71eac855d7fc8d640a0174)
+- [ ] [<code>Icons: fix for GTK 4.22 (#492)</code>](https://github.com/elementary/settings-desktop/commit/b7c3c2a0a44fe79804e4b0c8dd84e5ed49339254)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -996,6 +1000,36 @@
 - [ ] [<code>NotificationEntry: Remove unused clear ()</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/c54cfa97276e4408bf1aa1551439680cd8c29700)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>NotificationEntry: start/stop timestamp timer on map/unmap (#326)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/5a405603af1db20b2bd2d78bd8ee42ae5ec4b930)
+- [ ] [<code>NotificationEntry: connect to server_id (#324)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/d92091d18a32c9eb9858a5c33d32404a233a17a2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: add get_n_app_items (#322)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/46200351c5c7c96f68a58b718af4593329bc2bce)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: create bind function (#330)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/7b2d1b7ac8fadcb84de20c230577122c2a2509dc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppEntry: don't hold appinfo (#335)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ee42e8d28475f5050d3ba03240f6ef79ffd2b9ba)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationList: clear session when 0 items (#333)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/91390d9555114f73f1123edb3129622e369a03e3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: keep a list of notifications, not entries (#329)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/dbe0b07870b9a29ba5d7e1505b9df7f820aa3c0f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AppEntry: make properties settable (#336)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a278fd7cfd4ed4dbe1e4729bb8653e0e991a2d68)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: use Gtk.SortModel (#331)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/952289ba69e387643143031af653f5558ec47cd2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: remove app entries hashmap (#332)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b255d6cea1ae6daab4adf988180b7c1b2f3014d6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: replace placeholder with stack (#337)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/5d1c02d41eb2cc65a304c03f6935ad82570d2b1c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: invalidate section sort when a new apptime is set (#339)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ebf9f46d4d8783844ffab6241c6c0232df77a9f0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationList: find notification when removing, not entry (#338)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/e72f959f114a27c1fe1127bffdfad84835ee5859)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationList: list is child of scrolled (#341)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/83171d8d0c9d23cb18c113218b8851f8f1aa9e41)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: don't assume null time (#340)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efda39ea41595e4051fed07a3ecdc1aa6019f58a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationList: use ListView (#334)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6a22f6203e6057e1ca544b53391feba87ad7b40d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
