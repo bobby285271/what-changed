@@ -690,6 +690,8 @@
 - [ ] [<code>Release 8.6.0 (#2915)</code>](https://github.com/elementary/gala/commit/50d6fd4a0b0d971a24f3bcc37d06cda2c7dfe6cb)
   - <sub>Tags: <code>8.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>TransitionBuilder: Add return value to run</code>](https://github.com/elementary/gala/commit/f4dde331971dd0031362c6711b0063bd1d3411f1)
+- [ ] [<code>Fix crash when destroying notifications</code>](https://github.com/elementary/gala/commit/9179cd7c20a593ec7eec09ec0c314421832e00d0)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1029,6 +1031,8 @@
 - [ ] [<code>NotificationsList: don't assume null time (#340)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/efda39ea41595e4051fed07a3ecdc1aa6019f58a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>NotificationList: use ListView (#334)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/6a22f6203e6057e1ca544b53391feba87ad7b40d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: fix separator margin (#344)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a5cae0161a0bfc8b8716161cb6ec1765577affde)
   - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
