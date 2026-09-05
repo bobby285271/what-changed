@@ -692,6 +692,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TransitionBuilder: Add return value to run</code>](https://github.com/elementary/gala/commit/f4dde331971dd0031362c6711b0063bd1d3411f1)
 - [ ] [<code>Fix crash when destroying notifications</code>](https://github.com/elementary/gala/commit/9179cd7c20a593ec7eec09ec0c314421832e00d0)
+- [ ] [<code>Release 8.6.1 (#2922)</code>](https://github.com/elementary/gala/commit/c81fe0820d836c8579fd8538854d415324ef4065)
+  - <sub>Tags: <code>8.6.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1034,6 +1037,24 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>NotificationsList: fix separator margin (#344)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/a5cae0161a0bfc8b8716161cb6ec1765577affde)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationsList: consume all view widgets (#343)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/687017b2edd7e5981116a3348b0cdfb97634259f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: handle building action buttons (#347)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/d3e6b90256e992787fe25f189c8afadc97489876)
+- [ ] [<code>Use fallback icon from server (#346)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/8df19abe76bea386d02b1183c8dbada2fde924ca)
+- [ ] [<code>AppEntry: use latest Granite features (#315)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0e172dfb645f4d540356ae2fef0ac50eb1430d86)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>NotificationEntry: use Granite.Bin</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/b5b08833c16a6824b13cec2a80fa1da7cecfb885)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Rename NotificationEntry → ListItem</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/0a92279293ec57c3db279789616967813451e278)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Rename AppEntry → ListHeader (#348)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/9b8580a244bb257a544ad02f0e1cf34bd49844a3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Notification: scope and sort properties (#354)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/babf035b4693d22354faee55741fd1cda86e13fa)
+- [ ] [<code>Indicator: create liststore on construct (#342)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/dc7957ab74d8d820113db1121f9232f94ada45d3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Notification: remove internal_id (#355)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/13dce9b8a96dd95c0b185f5324cc2ac1fd947eec)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
