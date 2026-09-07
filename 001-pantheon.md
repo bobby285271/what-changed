@@ -26,6 +26,7 @@
 - [ ] [<code>Icons: use red binding (#953)</code>](https://github.com/elementary/calendar/commit/ee7acbeb5854cf1b50cbe8ab7213decc600e5d1d)
 - [ ] [<code>Fix import dialog frame not being visible (#957)</code>](https://github.com/elementary/calendar/commit/42393174960f8c4d88260e51e4a086d1c5f9c19f)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.2.tar.xz to 3.61.3 (#958)</code>](https://github.com/elementary/calendar/commit/51a82c0c9c2d8799759be0592d1351101ce9a07a)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/calendar/commit/67db2874457b9e5cf9e109ea98439ead53f2bdf7)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -34,6 +35,7 @@
 - [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.2...HEAD)
 
@@ -110,6 +112,7 @@
 - [ ] [<code>IconCollection: Add missing emblem icons (#76)</code>](https://github.com/elementary/iconbrowser/commit/8458e88d04d332d602c4329d6312d75c387d6b78)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/iconbrowser/commit/622db28975c107cab237fac29f02be1671e86c1f)
 - [ ] [<code>IconCollection: remove event-new (#78)</code>](https://github.com/elementary/iconbrowser/commit/3125139d399c67c3c0c48bcbf007c2dc3c71f744)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/iconbrowser/commit/f598246822f5dd01e301ceee1d3efe701953c733)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
@@ -163,6 +166,7 @@
 - [ ] [<code>AttachmentButton: check event.triggers_context_menu (#1090)</code>](https://github.com/elementary/mail/commit/cdea9398ab8954d74b3b92584a559227282cfc08)
 - [ ] [<code>ConvesationListStore: prep for ListStore (#1093)</code>](https://github.com/elementary/mail/commit/0e5a2f308bfbd7b875a95e9c67c000016b6b7738)
 - [ ] [<code>ConversationListItem: GTK4 prep (#1094)</code>](https://github.com/elementary/mail/commit/19ce0397c0f953128f13f4738caad2862b438061)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/mail/commit/8b1f3a5211cc89d74b174c6a1bb72e0e8f16f1e8)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -311,6 +315,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/tasks/commit/5b807c4a56060210a67c71867aca027147f13371)
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2</code>](https://github.com/elementary/tasks/commit/2cae4e6a4eedd1829c39dd2b0c5a3dc2d11167b8)
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#431)</code>](https://github.com/elementary/tasks/commit/cb85f96df82017912aac0c539267f99b575a28c5)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/tasks/commit/c1ff02f7fcf3e944ecb6a4896291dfa4d7d2ce93)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
