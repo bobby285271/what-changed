@@ -65,6 +65,9 @@
 - [ ] [<code>Use GLib.Once to manage singleton; reduce static members/methods (#1811)</code>](https://github.com/elementary/code/commit/8c281f806f9b3750154f754791b790a06f0021cd)
 - [ ] [<code>SearchBar: improve settings handling (#1809)</code>](https://github.com/elementary/code/commit/209b09e174c283926ee0f7008b5f0b85569a65dc)
 - [ ] [<code>Fix regression in search (#1812)</code>](https://github.com/elementary/code/commit/c7fea7ca9c4322f6d788e2b084977fcc697a3f9d)
+- [ ] [<code>PastebinDialog cleanup: Inline namespaces (#1816)</code>](https://github.com/elementary/code/commit/f67c788125eb95f03e021486700b33adbc1acfeb)
+- [ ] [<code>Update metainfo for release 8.4.0 (#1815)</code>](https://github.com/elementary/code/commit/c0ba6a385a7c7de1c60aa9501f1b21c7d2c87bb9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -1055,6 +1058,10 @@
 - [ ] [<code>Indicator: create liststore on construct (#342)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/dc7957ab74d8d820113db1121f9232f94ada45d3)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Notification: remove internal_id (#355)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/13dce9b8a96dd95c0b185f5324cc2ac1fd947eec)
+- [ ] [<code>ListHeader: Make sure to use app name, not class name (#357)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/353ef37f429820f3bc9229813b311dd6a9db7ffa)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Notification: make app_info private (#353)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/82636e818d12b2eaff93355348059d2a65e2b061)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1166,6 +1173,7 @@
 - [ ] [<code>Fix style class deprecations (#1018)</code>](https://github.com/elementary/granite/commit/c88d47604fd57e876f2ce9ce1f290712a0d9eac1)
 - [ ] [<code>Remove deprecations (#1010)</code>](https://github.com/elementary/granite/commit/1e54180ef1f2f9e7b799226a10eb6578202a5eb7)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>styles/exported: use CSS vars (#1005)</code>](https://github.com/elementary/granite/commit/8bf034c3fe2cdc1e4f73f80403b2b494a3fadb14)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
