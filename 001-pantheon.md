@@ -703,6 +703,7 @@
 - [ ] [<code>Release 8.6.1 (#2922)</code>](https://github.com/elementary/gala/commit/c81fe0820d836c8579fd8538854d415324ef4065)
   - <sub>Tags: <code>8.6.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Utils: Don't check for logical framebuffer on mutter-50+ (#2923)</code>](https://github.com/elementary/gala/commit/f0ebed2e5bdf5682c8954818ab8c676b6280b103)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1225,6 +1226,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#145)</code>](https://github.com/elementary/capnet-assist/commit/f4b59413eb96100375d94167797be3fd7ed5f038)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/capnet-assist/commit/4c9233cb96f06b1da6a56afdf68d538ec663a173)
 - [ ] [<code>Bump Flatpak platform to 9 (#148)</code>](https://github.com/elementary/capnet-assist/commit/8c37d825b7861803678b0cd63e6595083e7c5e61)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/capnet-assist/commit/634fff70fbe759454adc887341da1c12130ee7b5)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
