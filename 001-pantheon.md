@@ -1124,6 +1124,8 @@
 - [ ] [<code>Fix compile error (#343)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/80406f132128cbe6efdba219174f60fb5e7e466c)
 - [ ] [<code>Use Symbol for microphone (#342)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/e6e33d9c68d3268ee8507ecfe5c2935872f736a4)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>PlayerList: enforce null checks for default_widget (#345)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/692b2ef922e46e45512f7c1350e31e3b894cdf35)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
@@ -1180,6 +1182,9 @@
 - [ ] [<code>Remove deprecations (#1010)</code>](https://github.com/elementary/granite/commit/1e54180ef1f2f9e7b799226a10eb6578202a5eb7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>styles/exported: use CSS vars (#1005)</code>](https://github.com/elementary/granite/commit/8bf034c3fe2cdc1e4f73f80403b2b494a3fadb14)
+- [ ] [<code>Styles: use media queries for dark mode (#1019)</code>](https://github.com/elementary/granite/commit/e4c157e3a89ed86fd96da6dce21983dca665044a)
+- [ ] [<code>Pin extended Granite-specific colors to RGB values (#923)</code>](https://github.com/elementary/granite/commit/d61e3a6df3c710a370b4b9be5c58addc26801d3a)
+- [ ] [<code>Styles: Adjust and even-out padding for buttons and entry (#980)</code>](https://github.com/elementary/granite/commit/a807520d1e6697c0e42db6615ea02b993e114b68)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
