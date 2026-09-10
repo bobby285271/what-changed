@@ -1185,6 +1185,15 @@
 - [ ] [<code>Styles: use media queries for dark mode (#1019)</code>](https://github.com/elementary/granite/commit/e4c157e3a89ed86fd96da6dce21983dca665044a)
 - [ ] [<code>Pin extended Granite-specific colors to RGB values (#923)</code>](https://github.com/elementary/granite/commit/d61e3a6df3c710a370b4b9be5c58addc26801d3a)
 - [ ] [<code>Styles: Adjust and even-out padding for buttons and entry (#980)</code>](https://github.com/elementary/granite/commit/a807520d1e6697c0e42db6615ea02b993e114b68)
+- [ ] [<code>Styles: make background levels into variables (#1028)</code>](https://github.com/elementary/granite/commit/6b7a58825f493922ad8c8838cd0f84465b3a4006)
+- [ ] [<code>Styles: set window radius to 1em (#1037)</code>](https://github.com/elementary/granite/commit/5e50603a4c636bdcf0b37fe705e492759b022a08)
+- [ ] [<code>Styles: rgba → color-mix (#1036)</code>](https://github.com/elementary/granite/commit/6a3668a127bc9c6394ca04cfacb8f569c8905f28)
+- [ ] [<code>Styles: remove sass palette (#1029)</code>](https://github.com/elementary/granite/commit/c4554fc1493de68557e9e64dafc8e8e26a00ea86)
+- [ ] [<code>Styles:Button: make large icons mean 24px (#1024)</code>](https://github.com/elementary/granite/commit/fc350ace528dc856132c55fafadff15eaf2c8033)
+- [ ] [<code>Styles/Entry: support success, warning, error class (#1031)</code>](https://github.com/elementary/granite/commit/bdfc686fd648b8a967792575ac57736030dad3cb)
+- [ ] [<code>Demo: create labels and text view (#1032)</code>](https://github.com/elementary/granite/commit/5a9bc47ea727be085865b0ad12f5b92331acb865)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1243,6 +1252,11 @@
 - [ ] [<code>add 48</code>](https://github.com/elementary/notifications/commit/eb053af2fb70aadfd2c21e5b668baa7fa3ec6884)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Styles: use OSD for close button (#301)</code>](https://github.com/elementary/notifications/commit/2e0a5dcd9c643946eda2262c6bc18045510cc63c)
+- [ ] [<code>CSS: modernize for Gtk 4.20+ (#299)</code>](https://github.com/elementary/notifications/commit/5130c1949c248aa1f628f7cf9aacbd4744fd8f77)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bubble: don't rely on system text styles (#302)</code>](https://github.com/elementary/notifications/commit/24227432bebe4fc7b28772904dd28e132cb62ce5)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
