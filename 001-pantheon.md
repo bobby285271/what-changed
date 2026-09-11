@@ -1071,6 +1071,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Notification: make app_info private (#353)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/82636e818d12b2eaff93355348059d2a65e2b061)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: add clear-all action (#358)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/11d70f3fbfc2f371ff99ae3f30c261110539240e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1197,6 +1199,7 @@
 - [ ] [<code>Demo: create labels and text view (#1032)</code>](https://github.com/elementary/granite/commit/5a9bc47ea727be085865b0ad12f5b92331acb865)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Demo: add Gtk.ScaleButton (#1039)</code>](https://github.com/elementary/granite/commit/4d67fbe6e3438b384b5d0ecacfdd7cea4d7fe043)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
