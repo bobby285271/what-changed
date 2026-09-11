@@ -70,6 +70,8 @@
 - [ ] [<code>PastebinDialog cleanup: Inline namespaces (#1816)</code>](https://github.com/elementary/code/commit/f67c788125eb95f03e021486700b33adbc1acfeb)
 - [ ] [<code>Update metainfo for release 8.4.0 (#1815)</code>](https://github.com/elementary/code/commit/c0ba6a385a7c7de1c60aa9501f1b21c7d2c87bb9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Compare path with path (#1820)</code>](https://github.com/elementary/code/commit/5ed2be76a048233d77f52e7ae07bd39531fd0fa7)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#1817)</code>](https://github.com/elementary/code/commit/533e50f399b78fb4db04b7d2a1a8ea381b460ec5)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -772,6 +774,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Simplify PopoverManager (#720)</code>](https://github.com/elementary/wingpanel/commit/9eda202f268adb70e89376063974a3f7895e095c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>BackgroundManager: avoid using deprecated GTK keys (#724)</code>](https://github.com/elementary/wingpanel/commit/2f6167867ec90be9d3ca7340afa55a5fb90eb8d2)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
