@@ -1073,6 +1073,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Indicator: add clear-all action (#358)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/11d70f3fbfc2f371ff99ae3f30c261110539240e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: add clear-app action (#359)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/918869b8c9a9d271a4374a76c56246fa44dad7a3)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1263,6 +1265,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bubble: don't rely on system text styles (#302)</code>](https://github.com/elementary/notifications/commit/24227432bebe4fc7b28772904dd28e132cb62ce5)
+- [ ] [<code>Drop X11 support (#297)</code>](https://github.com/elementary/notifications/commit/2d441aaedd2e7b1b29fbc4ebd7c68bfea80d040e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
