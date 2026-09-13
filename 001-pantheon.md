@@ -704,6 +704,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/applications-menu/commit/6729fcd2f8efa8688742221fb2fe9350d52ee946)
+- [ ] [<code>Use new ServerType enum (#717)</code>](https://github.com/elementary/applications-menu/commit/3cc5c1de02dcf19ea30073a5dd50ea63e3fb8586)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
