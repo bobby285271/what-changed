@@ -18,6 +18,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#304)</code>](https://github.com/elementary/calculator/commit/1d201f0469ce77d65f143aad3c8952a6a9298cfe)
 - [ ] [<code>MainWindow: fix focus outline cutoff (#305)</code>](https://github.com/elementary/calculator/commit/6dc5b6dbb3dd5b0011a8d0a53d8ce0cf1595c255)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#306)</code>](https://github.com/elementary/calculator/commit/b95ba917dac988dd1ab511d0939c5beba2361192)
+- [ ] [<code>Evaluation: Use explicit namespace instead of using (#307)</code>](https://github.com/elementary/calculator/commit/a908dd1a5b70a737ec6794ab53c79600082eec2f)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
@@ -27,6 +29,7 @@
 - [ ] [<code>Fix import dialog frame not being visible (#957)</code>](https://github.com/elementary/calendar/commit/42393174960f8c4d88260e51e4a086d1c5f9c19f)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.2.tar.xz to 3.61.3 (#958)</code>](https://github.com/elementary/calendar/commit/51a82c0c9c2d8799759be0592d1351101ce9a07a)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/calendar/commit/67db2874457b9e5cf9e109ea98439ead53f2bdf7)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.3.tar.xz to 3.62.0 (#960)</code>](https://github.com/elementary/calendar/commit/f94550990c911e699a56865c6bcb03dd2d1ab4dc)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -183,6 +186,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#187)</code>](https://github.com/elementary/maps/commit/3173c5adb80b6a6802176a5b43f22de875f0ef0c)
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2 (#188)</code>](https://github.com/elementary/maps/commit/e21a342c7af200a642b00764b014df78dd20f57c)
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#189)</code>](https://github.com/elementary/maps/commit/bdd2777be4e1a168b7284320d6a635daef2880b1)
+- [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#190)</code>](https://github.com/elementary/maps/commit/82706e5b8240cbc47fc0ab4ff71555cb98771ad4)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -239,6 +243,8 @@
 - [ ] [<code>README: Remove Install section (#538)</code>](https://github.com/elementary/monitor/commit/f4ecbf35f57d71c571c336bc9b576b2c928a250b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Use new ServerType enum (#545)</code>](https://github.com/elementary/monitor/commit/e93d5f87f55bd89c361e7841f7b7e55c831407be)
+- [ ] [<code>Swap positions of network indicators and preferences checkboxes (#540)</code>](https://github.com/elementary/monitor/commit/f8756bd6659a7bbeb096b35351e5b373af443073)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -705,6 +711,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>master → main</code>](https://github.com/elementary/applications-menu/commit/6729fcd2f8efa8688742221fb2fe9350d52ee946)
 - [ ] [<code>Use new ServerType enum (#717)</code>](https://github.com/elementary/applications-menu/commit/3cc5c1de02dcf19ea30073a5dd50ea63e3fb8586)
+- [ ] [<code>config-service: Use explicit namespace instead of using (#718)</code>](https://github.com/elementary/applications-menu/commit/6420d557c13ac9e761326a59fade08a74581dcaa)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
