@@ -108,6 +108,7 @@
 - [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
 - [ ] [<code>Window: cleanup update_location_bar () (#2810)</code>](https://github.com/elementary/files/commit/166442e3d38fdc2305659f6bcf483cbc1644b425)
 - [ ] [<code>Fix crash on unmount when busy with other processes (#2823)</code>](https://github.com/elementary/files/commit/f73c4edeb2a0c1f8d96de37bbbf8ac8b82bd5ba8)
+- [ ] [<code>Some unmount operation busy-dialog fixes (#2826)</code>](https://github.com/elementary/files/commit/c5acccd8862f94179c7db45c2a5d4d6626f25502)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -1126,6 +1127,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Demo: add Gtk.ScaleButton (#1039)</code>](https://github.com/elementary/granite/commit/4d67fbe6e3438b384b5d0ecacfdd7cea4d7fe043)
 - [ ] [<code>Scrollbar.scss: fix typo (#1046)</code>](https://github.com/elementary/granite/commit/a20c4fd3215e900a2e1496cc3b3cc7bb7915ad39)
+- [ ] [<code>Install Granite icons (#1042)</code>](https://github.com/elementary/granite/commit/b4702776b90e21f630b77a992801ee1efff1dac5)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
