@@ -246,6 +246,10 @@
 - [ ] [<code>Use new ServerType enum (#545)</code>](https://github.com/elementary/monitor/commit/e93d5f87f55bd89c361e7841f7b7e55c831407be)
 - [ ] [<code>Swap positions of network indicators and preferences checkboxes (#540)</code>](https://github.com/elementary/monitor/commit/f8756bd6659a7bbeb096b35351e5b373af443073)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use modern Gtk.CSS (#551)</code>](https://github.com/elementary/monitor/commit/9b55c13799ce5d2a5892cdf6cd6dcd578480286e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Show network bandwidth in bits not bytes per second (#541)</code>](https://github.com/elementary/monitor/commit/75b472adffa7665765205c635d8e153f048c1fff)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -822,6 +826,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#157)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/31b6972293f442b52f137efb920e2f98e9d94e56)
 - [ ] [<code>Use new ServerType enum (#160)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/10dd7c4f1b3b1439bf7c6bdbacb29533943ccdf6)
+- [ ] [<code>KeyboardIcon.css: update for GTK 4.20 (#161)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/2d086e0177d7aa9a9e6aa4eb11fa7fb77c628c76)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-network](https://github.com/elementary/wingpanel-indicator-network): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/wingpanel-indicator-network/compare/refs/tags/8.0.1...HEAD)
 
