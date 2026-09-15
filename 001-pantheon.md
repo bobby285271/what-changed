@@ -326,6 +326,9 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2</code>](https://github.com/elementary/tasks/commit/2cae4e6a4eedd1829c39dd2b0c5a3dc2d11167b8)
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#431)</code>](https://github.com/elementary/tasks/commit/cb85f96df82017912aac0c539267f99b575a28c5)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/tasks/commit/c1ff02f7fcf3e944ecb6a4896291dfa4d7d2ce93)
+- [ ] [<code>Flatpak: Bump to platform 9</code>](https://github.com/elementary/tasks/commit/3448149469619bc78eca5fc93223d17945b64c8d)
+- [ ] [<code>libical: Update libical-3.0.16.tar.gz to 3.0.20</code>](https://github.com/elementary/tasks/commit/43ea0665363dec3aec51501e7b8b2a154098d82b)
+- [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#433)</code>](https://github.com/elementary/tasks/commit/01ce72e6ae2a76c435c0cddc8721269ea15dcfde)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
@@ -496,6 +499,7 @@
 - [ ] [<code>Actions: remove non-fd.o event-new (#1434)</code>](https://github.com/elementary/icons/commit/7d6d28a0a5e327d216461c563bd913841e3384c9)
 - [ ] [<code>Status: remove airplane-mode-symbolic (#1443)</code>](https://github.com/elementary/icons/commit/91a1b73f6ef3a4f6bf2ec4e933242e14c82524c0)
 - [ ] [<code>Emotions: Correctly name emblem-synchronized-symbolic (#1445)</code>](https://github.com/elementary/icons/commit/6d00e8703f4847b0f75b566b68fd37fac98e0e77)
+- [ ] [<code>Theme: inherit Granite icons (#1447)</code>](https://github.com/elementary/icons/commit/664f26c65bc009495a351307829fc5b73dde9dba)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1129,6 +1133,9 @@
 - [ ] [<code>Scrollbar.scss: fix typo (#1046)</code>](https://github.com/elementary/granite/commit/a20c4fd3215e900a2e1496cc3b3cc7bb7915ad39)
 - [ ] [<code>Install Granite icons (#1042)</code>](https://github.com/elementary/granite/commit/b4702776b90e21f630b77a992801ee1efff1dac5)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: add basic spinbutton support (#1038)</code>](https://github.com/elementary/granite/commit/1f3b78ba13871129929e6a6ffed727a469d3829e)
+- [ ] [<code>Icons: sort into folders (#1044)</code>](https://github.com/elementary/granite/commit/9cfbf552e61e9b73f02fa1da9707db13d15108e0)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1270,6 +1277,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>package-lists: Update package name of Broadcom STA Wireless driver (#806)</code>](https://github.com/elementary/os/commit/4b87836dd1a444f1248205c469bf5ed31f93a9fb)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/os/commit/134a37c4c74efc88e682fd850eb7ccaa2c6008b9)
+- [ ] [<code>Migrate to mkosi + sysupdate (#809)</code>](https://github.com/elementary/os/commit/527222dde79a669ae61c8843877a2c6af4945457)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix action name (#818)</code>](https://github.com/elementary/os/commit/d5f13a1470be7b007a3b401d36281b12db8912c2)
+- [ ] [<code>Update import-pubring.gpg (#823)</code>](https://github.com/elementary/os/commit/28f75e01abeb9f4d48f75f05b818673e677849c3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>rename gpg_pk to gpg_private_key as pk could mean public key (#824)</code>](https://github.com/elementary/os/commit/0f6839a9f0dcb0849cc097037cdb94f70879124c)
+- [ ] [<code>Use the sysupdate key (#826)</code>](https://github.com/elementary/os/commit/25bf2a9d6cfdace776cfa44b79092d5d0417dde3)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
