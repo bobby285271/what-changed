@@ -258,6 +258,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Styles: Adjust pill colors (#557)</code>](https://github.com/elementary/monitor/commit/c79219f24e45369aed57894f2d37a6701e94c14e)
 - [ ] [<code>Show sub-GHz CPU frequency in MHz instead of always GHz (#542)</code>](https://github.com/elementary/monitor/commit/47992c3619bf8f03c4dc8b449436dfff2ae30e80)
+- [ ] [<code>MainWindow: use Adw.ToolbarView (#556)</code>](https://github.com/elementary/monitor/commit/2ae0cf858c0c1ac76a1df101dc614f91ccb38781)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -1151,6 +1152,7 @@
 - [ ] [<code>Styles: add basic spinbutton support (#1038)</code>](https://github.com/elementary/granite/commit/1f3b78ba13871129929e6a6ffed727a469d3829e)
 - [ ] [<code>Icons: sort into folders (#1044)</code>](https://github.com/elementary/granite/commit/9cfbf552e61e9b73f02fa1da9707db13d15108e0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#1047)</code>](https://github.com/elementary/granite/commit/8835237a178c3ff72a3f7dc1cfcf2d23af76fb7f)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1231,6 +1233,8 @@
 - [ ] [<code>InterfaceSettings: Update RDNN of Power Panel (#237)</code>](https://github.com/elementary/settings-daemon/commit/0957dab5e8c9263cf6cbdeda2c507741e25c7ed3)
 - [ ] [<code>Add support for ContrastPreference (#239)</code>](https://github.com/elementary/settings-daemon/commit/ccb3ec6e978985a945aa8a255809a7735e0e59fe)
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update README to include systemd-dev dependency (#242)</code>](https://github.com/elementary/settings-daemon/commit/b12dafbb72c6aa68cec77050e168dade12a72701)
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
@@ -1320,6 +1324,10 @@
 - [ ] [<code>Fix elementaryOS repos on classic (#836)</code>](https://github.com/elementary/os/commit/213e40357be42c576bcb2f3aaf4bb1ebda9d5f2d)
   - <sub>Tags: <code>daily-20260916030538-arm64</code> <code>daily-20260916030702-x86-64</code></sub>
 - [ ] [<code>upload .efi instead of esp.raw (#840)</code>](https://github.com/elementary/os/commit/c68bc291eb11d14a55c5ad644b0a72c32568d32f)
+  - <sub>Tags: <code>daily-20260916042658-arm64</code> <code>daily-20260916042741-x86-64</code></sub>
+- [ ] [<code>rename sysupdate gpg to pgp according to docs (#841)</code>](https://github.com/elementary/os/commit/4669b5bd02e78b511a0e3a9cd25661a037238ac6)
+  - <sub>Tags: <code>daily-20260916073749-arm64</code> <code>daily-20260916073918-x86-64</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
