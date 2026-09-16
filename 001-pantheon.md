@@ -250,6 +250,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Show network bandwidth in bits not bytes per second (#541)</code>](https://github.com/elementary/monitor/commit/75b472adffa7665765205c635d8e153f048c1fff)
+- [ ] [<code>Average CPU core frequency instead of harmonic mean (#546)</code>](https://github.com/elementary/monitor/commit/01180b33ee2e195f2a526a61c34036ed8f584361)
+- [ ] [<code>Styles: don't override small-label (#552)</code>](https://github.com/elementary/monitor/commit/22f2f00d8860b63fd92ea137cf915d1cff4aa330)
+- [ ] [<code>WidgetResouce: use card style for overlay, but make it glass (#550)</code>](https://github.com/elementary/monitor/commit/f809e186fb3b6182e09595695b7a8144539fa10c)
+- [ ] [<code>Styles: create pill style (#553)</code>](https://github.com/elementary/monitor/commit/c2325c1c6516ce9d4b78d8fe12f347e5e2119cde)
+- [ ] [<code>Styles: remove dead code (#555)</code>](https://github.com/elementary/monitor/commit/5a489a40523a7ab47745a41ad387c69fe25bab8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Styles: Adjust pill colors (#557)</code>](https://github.com/elementary/monitor/commit/c79219f24e45369aed57894f2d37a6701e94c14e)
+- [ ] [<code>Show sub-GHz CPU frequency in MHz instead of always GHz (#542)</code>](https://github.com/elementary/monitor/commit/47992c3619bf8f03c4dc8b449436dfff2ae30e80)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -1291,6 +1299,27 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>rename gpg_pk to gpg_private_key as pk could mean public key (#824)</code>](https://github.com/elementary/os/commit/0f6839a9f0dcb0849cc097037cdb94f70879124c)
 - [ ] [<code>Use the sysupdate key (#826)</code>](https://github.com/elementary/os/commit/25bf2a9d6cfdace776cfa44b79092d5d0417dde3)
+- [ ] [<code>Add missing closing quote (#828)</code>](https://github.com/elementary/os/commit/5995e573e36f1c7edff45e577639a2cd01f0bb5d)
+  - <sub>Tags: <code>daily-20260915153948-${ARCH}</code> <code>daily-20260915154126-${ARCH}</code></sub>
+- [ ] [<code>fix release naming (#830)</code>](https://github.com/elementary/os/commit/7de29ef045ef0b0a22bdb8887b998817da7adb66)
+  - <sub>Tags: <code>daily-20260915164010-arm64</code> <code>daily-20260915164234-amd64</code></sub>
+- [ ] [<code>daily-9.0.yml: rename workflow (#829)</code>](https://github.com/elementary/os/commit/32a4a24ed18366c44baa50586f4f623876cd5f18)
+  - <sub>Tags: <code>daily-20260915171628-arm64</code> <code>daily-20260915171853-amd64</code></sub>
+- [ ] [<code>restructure buckets around daily-updates/amd64 instead of updates/amd64/updates, make dynamic (#831)</code>](https://github.com/elementary/os/commit/326fc4c76e2d21923637dc36e3e9cd26bcaa32cf)
+  - <sub>Tags: <code>daily-20260915183956-arm64</code> <code>daily-20260915184013-amd64</code></sub>
+- [ ] [<code>Change arch command (#834)</code>](https://github.com/elementary/os/commit/fc166643e2ba8280a558b0af5ac89b9c33e1058a)
+  - <sub>Tags: <code>daily-20260915192347-arm64</code> <code>daily-20260915192510-amd64</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix profiles and docker images (#835)</code>](https://github.com/elementary/os/commit/ccdf537c9860b6dd8990a00b778d95d3f00a5ea7)
+  - <sub>Tags: <code>daily-20260915202842-arm64</code> <code>daily-20260915202938-amd64</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use the global arch in releases/tags (#837)</code>](https://github.com/elementary/os/commit/86828bd127fdd57e9168b3667f182162c43640b7)
+  - <sub>Tags: <code>daily-20260915210541-$ARCH</code></sub>
+- [ ] [<code>Fix env wrapping (#838)</code>](https://github.com/elementary/os/commit/f88b9172649b218a8822f88018582083c78e46dd)
+  - <sub>Tags: <code>daily-20260915231452-arm64</code> <code>daily-20260915231604-x86-64</code> <code>daily-20260916002522-arm64</code> <code>daily-20260916002600-x86-64</code></sub>
+- [ ] [<code>Fix elementaryOS repos on classic (#836)</code>](https://github.com/elementary/os/commit/213e40357be42c576bcb2f3aaf4bb1ebda9d5f2d)
+  - <sub>Tags: <code>daily-20260916030538-arm64</code> <code>daily-20260916030702-x86-64</code></sub>
+- [ ] [<code>upload .efi instead of esp.raw (#840)</code>](https://github.com/elementary/os/commit/c68bc291eb11d14a55c5ad644b0a72c32568d32f)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
