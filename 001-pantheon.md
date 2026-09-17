@@ -1163,6 +1163,8 @@
 - [ ] [<code>Demo: move datetime to forms view (#1045)</code>](https://github.com/elementary/granite/commit/68c707495350b666103feb46e2800677f06b5e06)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>meson: Always assume style sheet targets are stale (#1049)</code>](https://github.com/elementary/granite/commit/0d6ab671c0c832a225a1320b065329ff3387cc67)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
