@@ -259,6 +259,13 @@
 - [ ] [<code>Styles: Adjust pill colors (#557)</code>](https://github.com/elementary/monitor/commit/c79219f24e45369aed57894f2d37a6701e94c14e)
 - [ ] [<code>Show sub-GHz CPU frequency in MHz instead of always GHz (#542)</code>](https://github.com/elementary/monitor/commit/47992c3619bf8f03c4dc8b449436dfff2ae30e80)
 - [ ] [<code>MainWindow: use Adw.ToolbarView (#556)</code>](https://github.com/elementary/monitor/commit/2ae0cf858c0c1ac76a1df101dc614f91ccb38781)
+- [ ] [<code>Add Logs View (#558)</code>](https://github.com/elementary/monitor/commit/9fa833d458a2bf6c320a12779904a9f063c3b226)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>README.md: list dependencies per line (#566)</code>](https://github.com/elementary/monitor/commit/8350d6c6aa6f059a5d3e1028c988777af03f69d7)
+- [ ] [<code>LogView: Show priority (#559)</code>](https://github.com/elementary/monitor/commit/4ee2e5ed555249be900f69d16c44938d48fd8b5d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -1153,6 +1160,9 @@
 - [ ] [<code>Icons: sort into folders (#1044)</code>](https://github.com/elementary/granite/commit/9cfbf552e61e9b73f02fa1da9707db13d15108e0)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#1047)</code>](https://github.com/elementary/granite/commit/8835237a178c3ff72a3f7dc1cfcf2d23af76fb7f)
+- [ ] [<code>Demo: move datetime to forms view (#1045)</code>](https://github.com/elementary/granite/commit/68c707495350b666103feb46e2800677f06b5e06)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1219,6 +1229,7 @@
 - [ ] [<code>Drop X11 support (#297)</code>](https://github.com/elementary/notifications/commit/2d441aaedd2e7b1b29fbc4ebd7c68bfea80d040e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bubble: Use Granite.Box for action area (#300)</code>](https://github.com/elementary/notifications/commit/9577e3a225c7dbb7053c6c608beda92bf66fa255)
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
@@ -1328,6 +1339,14 @@
 - [ ] [<code>rename sysupdate gpg to pgp according to docs (#841)</code>](https://github.com/elementary/os/commit/4669b5bd02e78b511a0e3a9cd25661a037238ac6)
   - <sub>Tags: <code>daily-20260916073749-arm64</code> <code>daily-20260916073918-x86-64</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>finalize bucket names (#842)</code>](https://github.com/elementary/os/commit/dc07efa13060aef54a2b56efa364b795c2875b67)
+  - <sub>Tags: <code>daily-20260916161828-arm64</code> <code>daily-20260916161858-x86-64</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Remove ascii-armor from keyring (#846)</code>](https://github.com/elementary/os/commit/23664c6860a15ea6b97a614ce7bab07280723466)
+  - <sub>Tags: <code>daily-20260916175945-arm64</code> <code>daily-20260916180050-x86-64</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>update readme with updatectl and sudo (#847)</code>](https://github.com/elementary/os/commit/9f4ef4465d0b24cf82606fab22cf64f8974698b2)
+  - <sub>Tags: <code>daily-20260916211529-arm64</code> <code>daily-20260916211631-x86-64</code> <code>daily-20260917002529-arm64</code> <code>daily-20260917002550-x86-64</code> <code>daily-20260917003746-arm64</code> <code>daily-20260917003802-x86-64</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
