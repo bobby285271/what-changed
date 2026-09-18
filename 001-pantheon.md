@@ -1341,6 +1341,11 @@
 - [ ] [<code>update readme with updatectl and sudo (#847)</code>](https://github.com/elementary/os/commit/9f4ef4465d0b24cf82606fab22cf64f8974698b2)
 - [ ] [<code>Nvidia drivers (#850)</code>](https://github.com/elementary/os/commit/38a32bd35ebd0287f72422e6ff767a44d0c20a7b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update issue template (#856)</code>](https://github.com/elementary/os/commit/c9860c7af7a45453514229814441885693cc0d7a)
+- [ ] [<code>Replace scratch installer for squash installer (#857)</code>](https://github.com/elementary/os/commit/2a50f31cccade9de9a2eb2064c885cf482a6cf4b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use versioned sha to allow rollback (#854)</code>](https://github.com/elementary/os/commit/db85145b8fb1893bc5dd4ae643442fa73f21aeef)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
