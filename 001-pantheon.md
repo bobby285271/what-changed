@@ -109,6 +109,7 @@
 - [ ] [<code>Window: cleanup update_location_bar () (#2810)</code>](https://github.com/elementary/files/commit/166442e3d38fdc2305659f6bcf483cbc1644b425)
 - [ ] [<code>Fix crash on unmount when busy with other processes (#2823)</code>](https://github.com/elementary/files/commit/f73c4edeb2a0c1f8d96de37bbbf8ac8b82bd5ba8)
 - [ ] [<code>Some unmount operation busy-dialog fixes (#2826)</code>](https://github.com/elementary/files/commit/c5acccd8862f94179c7db45c2a5d4d6626f25502)
+- [ ] [<code>Fix unmount criticals (#2834)</code>](https://github.com/elementary/files/commit/a844f2b83224ee3ab9f35f2f101314d82501153d)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -266,6 +267,9 @@
 - [ ] [<code>LogView: Show priority (#559)</code>](https://github.com/elementary/monitor/commit/4ee2e5ed555249be900f69d16c44938d48fd8b5d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Workflows: Update Gettext</code>](https://github.com/elementary/monitor/commit/f8797ce38b3b77d9ad44e2d164ab35aa1074d755)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/monitor/commit/489176738211e60c6a72cec52f44f53991e9bf4c)
+- [ ] [<code>MainWindow: search action grabs focus, not search changed (#570)</code>](https://github.com/elementary/monitor/commit/8f705a96d1a2b18e388619ce9a9fe55e6539cbc9)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -1317,38 +1321,26 @@
 - [ ] [<code>rename gpg_pk to gpg_private_key as pk could mean public key (#824)</code>](https://github.com/elementary/os/commit/0f6839a9f0dcb0849cc097037cdb94f70879124c)
 - [ ] [<code>Use the sysupdate key (#826)</code>](https://github.com/elementary/os/commit/25bf2a9d6cfdace776cfa44b79092d5d0417dde3)
 - [ ] [<code>Add missing closing quote (#828)</code>](https://github.com/elementary/os/commit/5995e573e36f1c7edff45e577639a2cd01f0bb5d)
-  - <sub>Tags: <code>daily-20260915153948-${ARCH}</code> <code>daily-20260915154126-${ARCH}</code></sub>
 - [ ] [<code>fix release naming (#830)</code>](https://github.com/elementary/os/commit/7de29ef045ef0b0a22bdb8887b998817da7adb66)
-  - <sub>Tags: <code>daily-20260915164010-arm64</code> <code>daily-20260915164234-amd64</code></sub>
 - [ ] [<code>daily-9.0.yml: rename workflow (#829)</code>](https://github.com/elementary/os/commit/32a4a24ed18366c44baa50586f4f623876cd5f18)
-  - <sub>Tags: <code>daily-20260915171628-arm64</code> <code>daily-20260915171853-amd64</code></sub>
 - [ ] [<code>restructure buckets around daily-updates/amd64 instead of updates/amd64/updates, make dynamic (#831)</code>](https://github.com/elementary/os/commit/326fc4c76e2d21923637dc36e3e9cd26bcaa32cf)
-  - <sub>Tags: <code>daily-20260915183956-arm64</code> <code>daily-20260915184013-amd64</code></sub>
 - [ ] [<code>Change arch command (#834)</code>](https://github.com/elementary/os/commit/fc166643e2ba8280a558b0af5ac89b9c33e1058a)
-  - <sub>Tags: <code>daily-20260915192347-arm64</code> <code>daily-20260915192510-amd64</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix profiles and docker images (#835)</code>](https://github.com/elementary/os/commit/ccdf537c9860b6dd8990a00b778d95d3f00a5ea7)
-  - <sub>Tags: <code>daily-20260915202842-arm64</code> <code>daily-20260915202938-amd64</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Use the global arch in releases/tags (#837)</code>](https://github.com/elementary/os/commit/86828bd127fdd57e9168b3667f182162c43640b7)
-  - <sub>Tags: <code>daily-20260915210541-$ARCH</code></sub>
 - [ ] [<code>Fix env wrapping (#838)</code>](https://github.com/elementary/os/commit/f88b9172649b218a8822f88018582083c78e46dd)
-  - <sub>Tags: <code>daily-20260915231452-arm64</code> <code>daily-20260915231604-x86-64</code> <code>daily-20260916002522-arm64</code> <code>daily-20260916002600-x86-64</code></sub>
 - [ ] [<code>Fix elementaryOS repos on classic (#836)</code>](https://github.com/elementary/os/commit/213e40357be42c576bcb2f3aaf4bb1ebda9d5f2d)
-  - <sub>Tags: <code>daily-20260916030538-arm64</code> <code>daily-20260916030702-x86-64</code></sub>
 - [ ] [<code>upload .efi instead of esp.raw (#840)</code>](https://github.com/elementary/os/commit/c68bc291eb11d14a55c5ad644b0a72c32568d32f)
-  - <sub>Tags: <code>daily-20260916042658-arm64</code> <code>daily-20260916042741-x86-64</code></sub>
 - [ ] [<code>rename sysupdate gpg to pgp according to docs (#841)</code>](https://github.com/elementary/os/commit/4669b5bd02e78b511a0e3a9cd25661a037238ac6)
-  - <sub>Tags: <code>daily-20260916073749-arm64</code> <code>daily-20260916073918-x86-64</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>finalize bucket names (#842)</code>](https://github.com/elementary/os/commit/dc07efa13060aef54a2b56efa364b795c2875b67)
-  - <sub>Tags: <code>daily-20260916161828-arm64</code> <code>daily-20260916161858-x86-64</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Remove ascii-armor from keyring (#846)</code>](https://github.com/elementary/os/commit/23664c6860a15ea6b97a614ce7bab07280723466)
-  - <sub>Tags: <code>daily-20260916175945-arm64</code> <code>daily-20260916180050-x86-64</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>update readme with updatectl and sudo (#847)</code>](https://github.com/elementary/os/commit/9f4ef4465d0b24cf82606fab22cf64f8974698b2)
-  - <sub>Tags: <code>daily-20260916211529-arm64</code> <code>daily-20260916211631-x86-64</code> <code>daily-20260917002529-arm64</code> <code>daily-20260917002550-x86-64</code> <code>daily-20260917003746-arm64</code> <code>daily-20260917003802-x86-64</code></sub>
+- [ ] [<code>Nvidia drivers (#850)</code>](https://github.com/elementary/os/commit/38a32bd35ebd0287f72422e6ff767a44d0c20a7b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
