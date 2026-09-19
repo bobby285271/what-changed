@@ -716,6 +716,12 @@
 - [ ] [<code>BackgroundManager: avoid using deprecated GTK keys (#724)</code>](https://github.com/elementary/wingpanel/commit/2f6167867ec90be9d3ca7340afa55a5fb90eb8d2)
 - [ ] [<code>Move ServerType enum to its own file (#727)</code>](https://github.com/elementary/wingpanel/commit/548769ab40b4e7229656eb50780dcb9bd576a6d4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move IndicatorManager from lib/ to src/ (#722)</code>](https://github.com/elementary/wingpanel/commit/ecc2bf999c64e87c0fef2584de121ca1e2744d72)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove outdated indicator names (#731)</code>](https://github.com/elementary/wingpanel/commit/a9c12890514a3a7de8b2ba5c9ec1845ba67f9752)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Replace indicator order HashMap with a switch (#732)</code>](https://github.com/elementary/wingpanel/commit/2259b7ed907efcd86cbb5000c004fd393eef3502)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -1169,6 +1175,8 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>meson: Always assume style sheet targets are stale (#1049)</code>](https://github.com/elementary/granite/commit/0d6ab671c0c832a225a1320b065329ff3387cc67)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: style dropdown (#1026)</code>](https://github.com/elementary/granite/commit/da5cfdcb01cbf33abd82ad9e70874d89db465c71)
+- [ ] [<code>Icons: add window controls, spinbutton icons, fix theme sizes (#1048)</code>](https://github.com/elementary/granite/commit/7eb5249d57f492b870bd74de49620ab3dd963e46)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1346,6 +1354,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Use versioned sha to allow rollback (#854)</code>](https://github.com/elementary/os/commit/db85145b8fb1893bc5dd4ae643442fa73f21aeef)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Revert "Use versioned sha to allow rollback (#854)" (#859)</code>](https://github.com/elementary/os/commit/79683da8e99d01b34f9aa6c5aadb7773458184db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use versioned sha to allow rollback #2 (#860)</code>](https://github.com/elementary/os/commit/3dfa1f8e9ffad59156ce3da28b257ab5c0581042)
+- [ ] [<code>Compress files to fix uploads. (#861)</code>](https://github.com/elementary/os/commit/d106d986cb876d21c6279e19a31d034886e5d029)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
