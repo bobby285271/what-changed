@@ -722,6 +722,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Replace indicator order HashMap with a switch (#732)</code>](https://github.com/elementary/wingpanel/commit/2259b7ed907efcd86cbb5000c004fd393eef3502)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Simplify PopoverManager.current_indicator (#733)</code>](https://github.com/elementary/wingpanel/commit/6aa0a0891e6766e4e1b38132e323cfe954032b94)
+  - <sub>Keywords: <code>bin</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -1177,6 +1179,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles: style dropdown (#1026)</code>](https://github.com/elementary/granite/commit/da5cfdcb01cbf33abd82ad9e70874d89db465c71)
 - [ ] [<code>Icons: add window controls, spinbutton icons, fix theme sizes (#1048)</code>](https://github.com/elementary/granite/commit/7eb5249d57f492b870bd74de49620ab3dd963e46)
+- [ ] [<code>Styles/Button: add suggested and destructive styles for image buttons (#1030)</code>](https://github.com/elementary/granite/commit/c1484f1f661fac7c19c85ab1f84e6017340bfcc2)
+- [ ] [<code>Styles/MenuButton: fix default icon, add an example menu (#1027)</code>](https://github.com/elementary/granite/commit/fa3de95c966df62f02d1455f7b9d9bd867ab6d5c)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1359,6 +1363,8 @@
 - [ ] [<code>Use versioned sha to allow rollback #2 (#860)</code>](https://github.com/elementary/os/commit/3dfa1f8e9ffad59156ce3da28b257ab5c0581042)
 - [ ] [<code>Compress files to fix uploads. (#861)</code>](https://github.com/elementary/os/commit/d106d986cb876d21c6279e19a31d034886e5d029)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix: Arch cleanup (#863)</code>](https://github.com/elementary/os/commit/642a79b69964952034ecd3b944bee2e593029fd5)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
