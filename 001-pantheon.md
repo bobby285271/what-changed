@@ -110,6 +110,7 @@
 - [ ] [<code>Fix crash on unmount when busy with other processes (#2823)</code>](https://github.com/elementary/files/commit/f73c4edeb2a0c1f8d96de37bbbf8ac8b82bd5ba8)
 - [ ] [<code>Some unmount operation busy-dialog fixes (#2826)</code>](https://github.com/elementary/files/commit/c5acccd8862f94179c7db45c2a5d4d6626f25502)
 - [ ] [<code>Fix unmount criticals (#2834)</code>](https://github.com/elementary/files/commit/a844f2b83224ee3ab9f35f2f101314d82501153d)
+- [ ] [<code>Disambiguate "%u folder" (#2832)</code>](https://github.com/elementary/files/commit/8f937c11c2eb6aa237634fe20c94e5f8a06bebd1)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -270,6 +271,7 @@
 - [ ] [<code>Workflows: Update Gettext</code>](https://github.com/elementary/monitor/commit/f8797ce38b3b77d9ad44e2d164ab35aa1074d755)
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/monitor/commit/489176738211e60c6a72cec52f44f53991e9bf4c)
 - [ ] [<code>MainWindow: search action grabs focus, not search changed (#570)</code>](https://github.com/elementary/monitor/commit/8f705a96d1a2b18e388619ce9a9fe55e6539cbc9)
+- [ ] [<code>Add processor and graphics header label titles (#548)</code>](https://github.com/elementary/monitor/commit/7bb1c54ff8d6054fe2fd200d60f72ccffe03befd)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
