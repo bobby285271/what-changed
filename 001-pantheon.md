@@ -111,6 +111,9 @@
 - [ ] [<code>Some unmount operation busy-dialog fixes (#2826)</code>](https://github.com/elementary/files/commit/c5acccd8862f94179c7db45c2a5d4d6626f25502)
 - [ ] [<code>Fix unmount criticals (#2834)</code>](https://github.com/elementary/files/commit/a844f2b83224ee3ab9f35f2f101314d82501153d)
 - [ ] [<code>Disambiguate "%u folder" (#2832)</code>](https://github.com/elementary/files/commit/8f937c11c2eb6aa237634fe20c94e5f8a06bebd1)
+- [ ] [<code>Lose legacy color database (#2835)</code>](https://github.com/elementary/files/commit/940b5742230201d7e445e2133406b72484c839a6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -272,6 +275,7 @@
 - [ ] [<code>Update POTFILES</code>](https://github.com/elementary/monitor/commit/489176738211e60c6a72cec52f44f53991e9bf4c)
 - [ ] [<code>MainWindow: search action grabs focus, not search changed (#570)</code>](https://github.com/elementary/monitor/commit/8f705a96d1a2b18e388619ce9a9fe55e6539cbc9)
 - [ ] [<code>Add processor and graphics header label titles (#548)</code>](https://github.com/elementary/monitor/commit/7bb1c54ff8d6054fe2fd200d60f72ccffe03befd)
+- [ ] [<code>README: Fix missing CI badge link (#576)</code>](https://github.com/elementary/monitor/commit/08d74bb718473d78d968b2418026d5f6640a7202)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -1183,6 +1187,7 @@
 - [ ] [<code>Icons: add window controls, spinbutton icons, fix theme sizes (#1048)</code>](https://github.com/elementary/granite/commit/7eb5249d57f492b870bd74de49620ab3dd963e46)
 - [ ] [<code>Styles/Button: add suggested and destructive styles for image buttons (#1030)</code>](https://github.com/elementary/granite/commit/c1484f1f661fac7c19c85ab1f84e6017340bfcc2)
 - [ ] [<code>Styles/MenuButton: fix default icon, add an example menu (#1027)</code>](https://github.com/elementary/granite/commit/fa3de95c966df62f02d1455f7b9d9bd867ab6d5c)
+- [ ] [<code>MenuButton: Make sure open-menu icon used for Gtk.ArrowType.NONE (#1055)</code>](https://github.com/elementary/granite/commit/1345719f5de9d4106b288588657d7fc39c5a2b91)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1267,6 +1272,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update README to include systemd-dev dependency (#242)</code>](https://github.com/elementary/settings-daemon/commit/b12dafbb72c6aa68cec77050e168dade12a72701)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>AccentColorManager: add a gsettings key (#240)</code>](https://github.com/elementary/settings-daemon/commit/af331e96bd297dd56f1123b9618c652e8a1a33c3)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Bump to 8.6.0</code>](https://github.com/elementary/settings-daemon/commit/719c435b6c21928a603f1cfbeb92f39f7649ed19)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
