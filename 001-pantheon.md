@@ -413,6 +413,7 @@
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-applications/commit/720f4ed1e0b6111bd536f1db267825ed2aca8543)
 - [ ] [<code>AppSettingsView: use in-spec, resourced icons (#279)</code>](https://github.com/elementary/settings-applications/commit/99f333456efaf7e270b34fbda4d989153f736be1)
+- [ ] [<code>Actions: Update gettext-template (#280)</code>](https://github.com/elementary/settings-applications/commit/fc0642c39a55ec4578c9d7532bebdb19702e2049)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -448,6 +449,7 @@
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/7bc0aee8a4907130489660e15cbf257af3428e1d)
+- [ ] [<code>ToucheggSettings: Use explicit namespace instead of using (#281)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/c04561c4c4f957f66e8c2cbccab69df3d4d56367)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -479,6 +481,7 @@
 - [ ] [<code>Appearance: use SwitchModelButton (#495)</code>](https://github.com/elementary/settings-desktop/commit/b3ad6446cc5d1fe9a50d9edbf240f3ee4aec21b4)
 - [ ] [<code>Appearance: use new a11y key for reduce motion (#493)</code>](https://github.com/elementary/settings-desktop/commit/9a4d142c0381c0d54e71eac855d7fc8d640a0174)
 - [ ] [<code>Icons: fix for GTK 4.22 (#492)</code>](https://github.com/elementary/settings-desktop/commit/b7c3c2a0a44fe79804e4b0c8dd84e5ed49339254)
+- [ ] [<code>Fix reduced-motion settings key typo (#497)</code>](https://github.com/elementary/settings-desktop/commit/4299698ae55d390776a90f928c862e974ca05479)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -1376,6 +1379,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix: Arch cleanup (#863)</code>](https://github.com/elementary/os/commit/642a79b69964952034ecd3b944bee2e593029fd5)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Simplify timestamp command (#868)</code>](https://github.com/elementary/os/commit/5a32daa6a00f5360bfb298d5c786189d9e2ba447)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
