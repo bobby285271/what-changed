@@ -118,6 +118,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2840)</code>](https://github.com/elementary/files/commit/839c38e28daf5666d476fab6c9b9683223025e19)
+- [ ] [<code>Sync transfers (redux) for realistic progress bar updates (#2828)</code>](https://github.com/elementary/files/commit/aeec8851b552654769dca68574578b3b436d660e)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -281,6 +282,12 @@
 - [ ] [<code>MainWindow: search action grabs focus, not search changed (#570)</code>](https://github.com/elementary/monitor/commit/8f705a96d1a2b18e388619ce9a9fe55e6539cbc9)
 - [ ] [<code>Add processor and graphics header label titles (#548)</code>](https://github.com/elementary/monitor/commit/7bb1c54ff8d6054fe2fd200d60f72ccffe03befd)
 - [ ] [<code>README: Fix missing CI badge link (#576)</code>](https://github.com/elementary/monitor/commit/08d74bb718473d78d968b2418026d5f6640a7202)
+- [ ] [<code>ProcessTreeView: clean up (#569)</code>](https://github.com/elementary/monitor/commit/28c3b66b034aca8596f14e0a6f4dcd02fa3a95cc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ProcessInfoHeader: use Granite.Box, HeaderLabel (#572)</code>](https://github.com/elementary/monitor/commit/692e2bede98b4f30f01670108e478f8ea6087a34)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix warnings from adding priority (#568)</code>](https://github.com/elementary/monitor/commit/2888d520bad5068534a9919e0b6c0d92790ab6f0)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
