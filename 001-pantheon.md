@@ -8,6 +8,7 @@
 - [ ] [<code>AppInfoView/origin dropdown: Use expression instead of custom factory (#2436)</code>](https://github.com/elementary/appcenter/commit/414155d838e80177a70f62af6577fab423c40db7)
 - [ ] [<code>FlatpakBackend: reduce path/file conversions (#2441)</code>](https://github.com/elementary/appcenter/commit/529f45c3a255b1bd983f700e81cf722565aa0aee)
 - [ ] [<code>Homepage: guard against carousel errors (#2442)</code>](https://github.com/elementary/appcenter/commit/80fb22175d79b8806fca9f4983a4eacf2e853fd7)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#2446)</code>](https://github.com/elementary/appcenter/commit/930ab00945f023294e2085c103d82ff0497051a0)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -98,10 +99,12 @@
 - [ ] [<code>Show windows that are on all workspaces on all workspaces (#610)</code>](https://github.com/elementary/dock/commit/bbf027e6989be098c98e14e7b4cf92c50e7a4e45)
 - [ ] [<code>Fix WorkspaceIconGroup memory leak (#606)</code>](https://github.com/elementary/dock/commit/16940666b5d89bc39f718f8eb6ffc44f4772aea2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#616)</code>](https://github.com/elementary/dock/commit/e4cbfb1e31ac0f461876ddfd7338e640edf0f8b5)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/feedback/commit/6bb23bf19aa5c49202f7f9cd3c84b5a4f92cefab)
+- [ ] [<code>Actions: Update gettext-template (#138)</code>](https://github.com/elementary/feedback/commit/a4da564ad0c4bea9a468bddd6859a8a9fa2fadc6)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
 
@@ -114,6 +117,7 @@
 - [ ] [<code>Lose legacy color database (#2835)</code>](https://github.com/elementary/files/commit/940b5742230201d7e445e2133406b72484c839a6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#2840)</code>](https://github.com/elementary/files/commit/839c38e28daf5666d476fab6c9b9683223025e19)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -178,6 +182,7 @@
 - [ ] [<code>ConvesationListStore: prep for ListStore (#1093)</code>](https://github.com/elementary/mail/commit/0e5a2f308bfbd7b875a95e9c67c000016b6b7738)
 - [ ] [<code>ConversationListItem: GTK4 prep (#1094)</code>](https://github.com/elementary/mail/commit/19ce0397c0f953128f13f4738caad2862b438061)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/mail/commit/8b1f3a5211cc89d74b174c6a1bb72e0e8f16f1e8)
+- [ ] [<code>Actions: Update gettext-template (#1097)</code>](https://github.com/elementary/mail/commit/752652dac4311d9534c850d475ddf8ff74274b6a)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -382,6 +387,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#185)</code>](https://github.com/elementary/sideload/commit/31bce54d1862f555ae580535f2339f9e094dbaf0)
+- [ ] [<code>Actions: Update gettext-template (#186)</code>](https://github.com/elementary/sideload/commit/24d818a7bdc356cec5a25aeeacbda3efb35a5c3c)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#187)</code>](https://github.com/elementary/sideload/commit/f8b89be464a3a6c3748d4a6a97e4a243d97dcc60)
 
 #### [pantheon.switchboard](https://github.com/elementary/switchboard): [8.0.3 → HEAD](https://github.com/elementary/switchboard/compare/8.0.3...HEAD)
 
@@ -403,11 +410,13 @@
 - [ ] [<code>Application: rely on Granite.StyleManager (#377)</code>](https://github.com/elementary/switchboard/commit/11c067223b6ebaccc6ccbba1a0de6c028113c7e3)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#393)</code>](https://github.com/elementary/switchboard/commit/64d3e5ca8f4e0caaf6e1c40e0581d6b3d29e8c54)
 - [ ] [<code>CategoryView: make search bar full width (#396)</code>](https://github.com/elementary/switchboard/commit/5fc894160388f8edb57e4562d2fae5addcf58077)
+- [ ] [<code>Actions: Update gettext-template (#397)</code>](https://github.com/elementary/switchboard/commit/1be070e543336cf6c9fee4af51d0a06b110e813f)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#416)</code>](https://github.com/elementary/settings-system/commit/fd08f7c661b9540ee572d986df838e556acd81b2)
+- [ ] [<code>Actions: Update gettext-template (#420)</code>](https://github.com/elementary/settings-system/commit/d121459d126c575d9b055a23d7c0b02c2a33da26)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
@@ -424,6 +433,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#255)</code>](https://github.com/elementary/settings-bluetooth/commit/a4e8559d7f73d3321f3d0ed770260a5a5fa5e661)
 - [ ] [<code>Handle case where no bluetooth adapters available (#256)</code>](https://github.com/elementary/settings-bluetooth/commit/c12c81a8a291150ef7913e142e05979986ec669d)
 - [ ] [<code>Fix description when adapter unplugged (#257)</code>](https://github.com/elementary/settings-bluetooth/commit/31474bf735f47a68f93d47d1363ef79ac0b69df5)
+- [ ] [<code>Actions: Update gettext-template (#258)</code>](https://github.com/elementary/settings-bluetooth/commit/c8cad4c42ae85d6e8f443261888b6a2e55f6f739)
 
 #### [pantheon.switchboard-plug-datetime](https://github.com/elementary/switchboard-plug-datetime): [8.1.0 → HEAD](https://github.com/elementary/switchboard-plug-datetime/compare/8.1.0...HEAD)
 
@@ -435,21 +445,26 @@
 - [ ] [<code>LINGUAS: remove zh_HK</code>](https://github.com/elementary/switchboard-plug-datetime/commit/c0aa9fed82c2ad33f3d253e3d057d302269e9766)
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-datetime/commit/39303d6a1c231acea07a8d11d6124b60c489f09b)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#140)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ad42bebd47a4f090acd160e7a54b789ff7425f6b)
+- [ ] [<code>Actions: Update gettext-template (#141)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/70ec8660b3c94c12963191071cae6e15405ac936)
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.3 → HEAD](https://github.com/elementary/settings-display/compare/8.0.3...HEAD)
 
 - [ ] [<code>fix: Rotation not applied on preview on initial load (#456)</code>](https://github.com/elementary/settings-display/commit/9e50d866482b7fecd29db3c8654ef74b32dd532b)
+- [ ] [<code>Actions: Update gettext-template (#458)</code>](https://github.com/elementary/settings-display/commit/5bd8f7d069024111d4489c3ca70cc7b26621136d)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
 - [ ] [<code>ShortcutsList: use a single list model (#565)</code>](https://github.com/elementary/settings-keyboard/commit/d2ef67181f64cf89650242f1a47e5700d8d0308a)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#569)</code>](https://github.com/elementary/settings-keyboard/commit/af8bc2dc6b6651411a65bcd9ca3edd0194154f55)
 - [ ] [<code>Behavior: remove link to Onboard settings (#570)</code>](https://github.com/elementary/settings-keyboard/commit/1678beb2cfe7da6ce75796a223c6603b8e3974fb)
+- [ ] [<code>Actions: Update gettext-template (#577)</code>](https://github.com/elementary/settings-keyboard/commit/d22826ee0645756c4e76894967c6c2f073be3517)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#578)</code>](https://github.com/elementary/settings-keyboard/commit/991383a303f6517eaa63ea010c68673980b88561)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/7bc0aee8a4907130489660e15cbf257af3428e1d)
 - [ ] [<code>ToucheggSettings: Use explicit namespace instead of using (#281)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/c04561c4c4f957f66e8c2cbccab69df3d4d56367)
+- [ ] [<code>Actions: Update gettext-template (#280)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/e45b1c31a056ed1b0aa8417ce455399c23b7890a)
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -458,12 +473,14 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-network/commit/ab24b3cfad2deb89f26dc7aac4a75577a4fea252)
 - [ ] [<code>Remove packaging status badge</code>](https://github.com/elementary/switchboard-plug-network/commit/424a8c0187e7a00ebbdd17c6b40b4608e81dd2c8)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/switchboard-plug-network/commit/99cd948c991dbf334bf0c56c659c5286dca49e74)
+- [ ] [<code>Actions: Update gettext-template (#454)</code>](https://github.com/elementary/switchboard-plug-network/commit/9bc171b06a17d5af83e6339b2a79a2ad42485d3a)
 
 #### [pantheon.switchboard-plug-notifications](https://github.com/elementary/settings-notifications): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/settings-notifications/compare/refs/tags/8.0.1...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-notifications/commit/db2c2a5f56e5e98c7b1b872bbd12de3b25024cb0)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#122)</code>](https://github.com/elementary/settings-notifications/commit/bac34fdb55cf783e55e17d5cc20d72d9185ddafe)
 - [ ] [<code>Use RDNN icon name (#123)</code>](https://github.com/elementary/settings-notifications/commit/46fba495be5e6138e5948e53b24d73fcec6e9591)
+- [ ] [<code>Actions: Update gettext-template (#124)</code>](https://github.com/elementary/settings-notifications/commit/3a289a7adfbc56608cc96c39e1cb1fd4a176ec2b)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -482,6 +499,7 @@
 - [ ] [<code>Appearance: use new a11y key for reduce motion (#493)</code>](https://github.com/elementary/settings-desktop/commit/9a4d142c0381c0d54e71eac855d7fc8d640a0174)
 - [ ] [<code>Icons: fix for GTK 4.22 (#492)</code>](https://github.com/elementary/settings-desktop/commit/b7c3c2a0a44fe79804e4b0c8dd84e5ed49339254)
 - [ ] [<code>Fix reduced-motion settings key typo (#497)</code>](https://github.com/elementary/settings-desktop/commit/4299698ae55d390776a90f928c862e974ca05479)
+- [ ] [<code>Actions: Update gettext-template (#496)</code>](https://github.com/elementary/settings-desktop/commit/0403b77e2ee9cd285dcf8e01f3f45f835840dab7)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -492,11 +510,13 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#294)</code>](https://github.com/elementary/settings-power/commit/843125a133c7568053e93f68187636b60c195188)
 - [ ] [<code>BatteryBox: Update RDNN of Power Panel (#295)</code>](https://github.com/elementary/settings-power/commit/9ba729c5f0bba621972e7988ed8a532a2c3c7c5f)
 - [ ] [<code>Icons: update for GTK 4.22 (#298)</code>](https://github.com/elementary/settings-power/commit/0c37ddfe683241bdbe43ad84ff73a5cd19f3587e)
+- [ ] [<code>Actions: Update gettext-template (#299)</code>](https://github.com/elementary/settings-power/commit/0e19f2b738e1c709f6008ac66273423a59a0ff70)
 
 #### [pantheon.switchboard-plug-printers](https://github.com/elementary/settings-printers): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-printers/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-printers/commit/ca2e4b39113dc19f692c3cb3e8154544b85f801b)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#222)</code>](https://github.com/elementary/settings-printers/commit/92158a4682e6f5d322196435e94c4ed399213982)
+- [ ] [<code>Actions: Update gettext-template (#223)</code>](https://github.com/elementary/settings-printers/commit/b069e48faf292860341b46f0cd4603a33c22c3ff)
 
 #### [pantheon.switchboard-plug-security-privacy](https://github.com/elementary/settings-security-privacy): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-security-privacy/compare/refs/tags/8.0.2...HEAD)
 
@@ -513,10 +533,12 @@
 #### [pantheon.switchboard-plug-sound](https://github.com/elementary/settings-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/settings-sound/compare/refs/tags/8.0.3...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#307)</code>](https://github.com/elementary/settings-sound/commit/4d7a80a6fc04c4c72bd3c8b9dcedefe6b16c74c8)
+- [ ] [<code>Actions: Update gettext-template (#309)</code>](https://github.com/elementary/settings-sound/commit/d219780bc8d404f335d1c60c1afe76803adb7930)
 
 #### [pantheon.switchboard-plug-wacom](https://github.com/elementary/settings-wacom): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/settings-wacom/compare/refs/tags/8.0.2...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-wacom/commit/cf7607601e9dcced383ba167327cca2a4adcabbb)
+- [ ] [<code>Actions: Update gettext-template (#86)</code>](https://github.com/elementary/settings-wacom/commit/e95f2310c70dd2eea1eeab45be1874c1c45b11e7)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
@@ -525,6 +547,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1352)</code>](https://github.com/elementary/stylesheet/commit/1242ce7955601e1008a9ee5a039577993f6bd60b)
 - [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1354)</code>](https://github.com/elementary/stylesheet/commit/ce649052e3b0a0aa3c61521f521aef434506d332)
+- [ ] [<code>Actions: Update gettext-template (#1357)</code>](https://github.com/elementary/stylesheet/commit/0eeadadde091c44c3f9e2fd6e0f63c0ddea08b91)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
@@ -533,6 +556,8 @@
 - [ ] [<code>Status: remove airplane-mode-symbolic (#1443)</code>](https://github.com/elementary/icons/commit/91a1b73f6ef3a4f6bf2ec4e933242e14c82524c0)
 - [ ] [<code>Emotions: Correctly name emblem-synchronized-symbolic (#1445)</code>](https://github.com/elementary/icons/commit/6d00e8703f4847b0f75b566b68fd37fac98e0e77)
 - [ ] [<code>Theme: inherit Granite icons (#1447)</code>](https://github.com/elementary/icons/commit/664f26c65bc009495a351307829fc5b73dde9dba)
+- [ ] [<code>Actions: Remove duplicated gettext actions (#1450)</code>](https://github.com/elementary/icons/commit/eb06d88870508deb453c65bc04012a654b0e642e)
+- [ ] [<code>Actions: Update gettext-template (#1451)</code>](https://github.com/elementary/icons/commit/752833d71408ae2a5d16362b0b13d368878881e0)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -612,12 +637,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Refactor authentication (#890)</code>](https://github.com/elementary/greeter/commit/3364dba5393652684883f1194eafb6112f94f08a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Actions: Migrate to ubuntu-latest</code>](https://github.com/elementary/greeter/commit/e7a8175ec8a108beb1947f4808baab2823e7c459)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/onboarding/commit/07472ff7846c04722b943fb876948b89962a2bf8)
 - [ ] [<code>Use Granite.Box (#281)</code>](https://github.com/elementary/onboarding/commit/e3877af9b1711d7b39b0e0202d69318778c28b81)
 - [ ] [<code>StyleProvider cleanups (#282)</code>](https://github.com/elementary/onboarding/commit/a36eb978abe2b7243723b7805df40cb48e2f9bc4)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#286)</code>](https://github.com/elementary/onboarding/commit/1e0c3bed75b1a1cf0a3e30e780008a85d74632a4)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -654,6 +681,8 @@
 #### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.6.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.6.1...HEAD)
 
 - [ ] [<code>Utils: Don't check for logical framebuffer on mutter-50+ (#2923)</code>](https://github.com/elementary/gala/commit/f0ebed2e5bdf5682c8954818ab8c676b6280b103)
+- [ ] [<code>Actions: Update gettext-template (#2932)</code>](https://github.com/elementary/gala/commit/d1ea07e84eff648d0f08667ee1d8a3eebd55450f)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#2933)</code>](https://github.com/elementary/gala/commit/7c051bb1ee02e15fddd87f78552f0b9df74bd503)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -733,6 +762,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Simplify PopoverManager.current_indicator (#733)</code>](https://github.com/elementary/wingpanel/commit/6aa0a0891e6766e4e1b38132e323cfe954032b94)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Actions: Update gettext-template (#736)</code>](https://github.com/elementary/wingpanel/commit/070d01ad1cbe2b2cec019367cc7910c8ff1f8cfa)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -758,6 +788,7 @@
 - [ ] [<code>master → main</code>](https://github.com/elementary/applications-menu/commit/6729fcd2f8efa8688742221fb2fe9350d52ee946)
 - [ ] [<code>Use new ServerType enum (#717)</code>](https://github.com/elementary/applications-menu/commit/3cc5c1de02dcf19ea30073a5dd50ea63e3fb8586)
 - [ ] [<code>config-service: Use explicit namespace instead of using (#718)</code>](https://github.com/elementary/applications-menu/commit/6420d557c13ac9e761326a59fade08a74581dcaa)
+- [ ] [<code>Use start-here-symbolic icon instead (#719)</code>](https://github.com/elementary/applications-menu/commit/7a0e455d57c6b285bec74e6f3f64286bcf109391)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1044,6 +1075,8 @@
 - [ ] [<code>Indicator: add clear-app action (#359)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/918869b8c9a9d271a4374a76c56246fa44dad7a3)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Use new ServerType enum (#361)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/486eaead03826d066cea6409f1f57e98508d66c7)
+- [ ] [<code>ListItem: Fix swipe to dismiss (#363)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ac78de7b709616bbb6fa0b508f4d58d669df6a9e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
@@ -1116,6 +1149,7 @@
 - [ ] [<code>Avoid using destroy signal (#156)</code>](https://github.com/elementary/quick-settings/commit/510f42f2b915e0a1a99887ebb4730f5800fabf08)
 - [ ] [<code>Fix criticals (#155)</code>](https://github.com/elementary/quick-settings/commit/34d4538176b751dc4fe2266e7cd646d26b927a46)
 - [ ] [<code>Use new ServerType enum (#157)</code>](https://github.com/elementary/quick-settings/commit/425729a4fdc5ec80b355e14c1095a5a004240180)
+- [ ] [<code>Actions: Update gettext-template (#159)</code>](https://github.com/elementary/quick-settings/commit/fb721d4b5640a2a25ae011370c8fe8aaff8d93f4)
 ## libraries
 
 #### [pantheon.granite7](https://github.com/elementary/granite): [refs/tags/7.8.1 → HEAD](https://github.com/elementary/granite/compare/refs/tags/7.8.1...HEAD)
@@ -1279,6 +1313,7 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Bump to 8.6.0</code>](https://github.com/elementary/settings-daemon/commit/719c435b6c21928a603f1cfbeb92f39f7649ed19)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Actions: Update gettext-template (#243)</code>](https://github.com/elementary/settings-daemon/commit/049284e77510fa16d7b6a645103e906910607348)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1296,6 +1331,7 @@
 - [ ] [<code>Access: create custom location dialog (#179)</code>](https://github.com/elementary/portals/commit/0cfcaa883db5adbfa0d551a0aa139be540adc727)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.3.0 release notes (#195)</code>](https://github.com/elementary/portals/commit/04898d7a25c9ac3f1a9fd1c6c74527ad824c834a)
+- [ ] [<code>Actions: Migrate to ubuntu-latest (#197)</code>](https://github.com/elementary/portals/commit/cfc8c16fa7b419be2617b418db9d40c548292102)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -1381,6 +1417,10 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Simplify timestamp command (#868)</code>](https://github.com/elementary/os/commit/5a32daa6a00f5360bfb298d5c786189d9e2ba447)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use flatpak-preinstall in iso (#867)</code>](https://github.com/elementary/os/commit/81d17f29aa9d3dc02075f31d57a6518ff3c22e2c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Don't repart on each boot (#871)</code>](https://github.com/elementary/os/commit/97da00e1ae8731631e68d7227132c69308c472f2)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
