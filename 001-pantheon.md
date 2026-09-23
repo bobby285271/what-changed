@@ -306,16 +306,19 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/music/commit/ab0615eaf98f8f4182e94848819e5b409312fcdf)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/music/commit/c4651e8d6f68de68b04fb0e0ee9d066a5a90cc78)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
 - [ ] [<code>gexiv2: Update gexiv2-0.16.1.tar.xz to 0.16.2 (#847)</code>](https://github.com/elementary/photos/commit/cdb016ed33460efad0649ef0b24ea9cd269634df)
 - [ ] [<code>exiv2: Update v0.28.8.tar.gz to 0.28.9 (#849)</code>](https://github.com/elementary/photos/commit/c343b22f31bef95366ee709a50ba74417437e831)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/photos/commit/58f178f7f9df3aa39a67ab4a6991afc3cb46d228)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
 
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#334)</code>](https://github.com/elementary/screenshot/commit/622fe8decd09c809defcbd058062635f53a2d014)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#337)</code>](https://github.com/elementary/screenshot/commit/2d06b55e06aac33c4b52b7588d385c16e8c60ac4)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#338)</code>](https://github.com/elementary/screenshot/commit/25b80caec376b4eae6104083c76012eee8d74416)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -565,6 +568,7 @@
 - [ ] [<code>Theme: inherit Granite icons (#1447)</code>](https://github.com/elementary/icons/commit/664f26c65bc009495a351307829fc5b73dde9dba)
 - [ ] [<code>Actions: Remove duplicated gettext actions (#1450)</code>](https://github.com/elementary/icons/commit/eb06d88870508deb453c65bc04012a654b0e642e)
 - [ ] [<code>Actions: Update gettext-template (#1451)</code>](https://github.com/elementary/icons/commit/752833d71408ae2a5d16362b0b13d368878881e0)
+- [ ] [<code>Remove icons already in Granite (#1449)</code>](https://github.com/elementary/icons/commit/2eb97f0e8a16e7b10e28bee903a4fd149bfe351f)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1232,6 +1236,7 @@
 - [ ] [<code>Styles/Button: add suggested and destructive styles for image buttons (#1030)</code>](https://github.com/elementary/granite/commit/c1484f1f661fac7c19c85ab1f84e6017340bfcc2)
 - [ ] [<code>Styles/MenuButton: fix default icon, add an example menu (#1027)</code>](https://github.com/elementary/granite/commit/fa3de95c966df62f02d1455f7b9d9bd867ab6d5c)
 - [ ] [<code>MenuButton: Make sure open-menu icon used for Gtk.ArrowType.NONE (#1055)</code>](https://github.com/elementary/granite/commit/1345719f5de9d4106b288588657d7fc39c5a2b91)
+- [ ] [<code>Icons: update password entry icons (#916)</code>](https://github.com/elementary/granite/commit/a5f8163ea21a2c0d1571817500afba7fbcbfe6cb)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
