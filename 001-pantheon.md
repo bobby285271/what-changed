@@ -1433,6 +1433,11 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Don't repart on each boot (#871)</code>](https://github.com/elementary/os/commit/97da00e1ae8731631e68d7227132c69308c472f2)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add new "proposed" stream and proper ci (#876)</code>](https://github.com/elementary/os/commit/f00f3c14c6aeff608c85ff190823b3d439f93308)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Comment on PRs with links to the installer (#877)</code>](https://github.com/elementary/os/commit/11e5de56ca1f87232527c0cdaa7a65ea09c7fcad)
+- [ ] [<code>Revamp sysexts modules generation to add WIP broadcom support (#862)</code>](https://github.com/elementary/os/commit/8f05d10e19cd7520cf535258c6f349ebef1513a9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
