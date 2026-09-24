@@ -288,6 +288,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix warnings from adding priority (#568)</code>](https://github.com/elementary/monitor/commit/2888d520bad5068534a9919e0b6c0d92790ab6f0)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ProcessTreeViewNmaeCell: rewrite as Granite.Box with bind func (#567)</code>](https://github.com/elementary/monitor/commit/aaf81276402f581ec172cbb3f43e3931501c33d5)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
