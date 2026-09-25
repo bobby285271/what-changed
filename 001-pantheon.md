@@ -76,6 +76,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Compare path with path (#1820)</code>](https://github.com/elementary/code/commit/5ed2be76a048233d77f52e7ae07bd39531fd0fa7)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#1817)</code>](https://github.com/elementary/code/commit/533e50f399b78fb4db04b7d2a1a8ea381b460ec5)
+- [ ] [<code>Release 8.4.0 (#1821)</code>](https://github.com/elementary/code/commit/346a538376f5c5c7a8e95977838a1512bb637491)
+  - <sub>Tags: <code>8.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -1239,6 +1242,7 @@
 - [ ] [<code>Styles/MenuButton: fix default icon, add an example menu (#1027)</code>](https://github.com/elementary/granite/commit/fa3de95c966df62f02d1455f7b9d9bd867ab6d5c)
 - [ ] [<code>MenuButton: Make sure open-menu icon used for Gtk.ArrowType.NONE (#1055)</code>](https://github.com/elementary/granite/commit/1345719f5de9d4106b288588657d7fc39c5a2b91)
 - [ ] [<code>Icons: update password entry icons (#916)</code>](https://github.com/elementary/granite/commit/a5f8163ea21a2c0d1571817500afba7fbcbfe6cb)
+- [ ] [<code>Styles: make window.devel a purpleprint (#1053)</code>](https://github.com/elementary/granite/commit/0aa45c8ebbf4605c05712226962d052d046d0097)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1328,6 +1332,8 @@
 - [ ] [<code>Bump to 8.6.0</code>](https://github.com/elementary/settings-daemon/commit/719c435b6c21928a603f1cfbeb92f39f7649ed19)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Actions: Update gettext-template (#243)</code>](https://github.com/elementary/settings-daemon/commit/049284e77510fa16d7b6a645103e906910607348)
+- [ ] [<code>Detect Sysupdate and don't connect packagekit (#245)</code>](https://github.com/elementary/settings-daemon/commit/abe7f8bbfa5966416b362b78a36430ad0b2e602a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
@@ -1440,6 +1446,7 @@
 - [ ] [<code>Comment on PRs with links to the installer (#877)</code>](https://github.com/elementary/os/commit/11e5de56ca1f87232527c0cdaa7a65ea09c7fcad)
 - [ ] [<code>Revamp sysexts modules generation to add WIP broadcom support (#862)</code>](https://github.com/elementary/os/commit/8f05d10e19cd7520cf535258c6f349ebef1513a9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Copy flatpaks from liveiso (#883)</code>](https://github.com/elementary/os/commit/423c07b095156fb8589e5356c58e2d0dd465887b)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -1469,3 +1476,4 @@
 - [ ] [<code>desktop: Add initramfs-tools (#169)</code>](https://github.com/elementary/seeds/commit/760f3545677ae4ce37b35f20c82742833c8b6960)
 - [ ] [<code>Rename applications menu package (#171)</code>](https://github.com/elementary/seeds/commit/f740397f2ade5e31861d0fe4cd26d9f8300c6584)
 - [ ] [<code>Desktop: update name for panel-sound (#172)</code>](https://github.com/elementary/seeds/commit/1282dc561efac3cccf33584234ae423e59a5096b)
+- [ ] [<code>SDK: system-settings deps (#173)</code>](https://github.com/elementary/seeds/commit/857fac7c484868cc3288ff6837a62e28e9d424e5)
