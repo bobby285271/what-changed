@@ -546,6 +546,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_keyboard.py: Use an infobar instead of tooltip for instructions</code>](https://github.com/linuxmint/cinnamon/commit/bac95fc52f8f80bd568d75b6711942de38375592)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>systray: fix icon loss on redisplay, timeout races, and teardown errors in the applet and tray manager (#13966)</code>](https://github.com/linuxmint/cinnamon/commit/22552ed64cf9c089d08cc948bfbfe09819501736)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -815,9 +817,12 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
+- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#27)</code>](https://github.com/linuxmint/mint-l-theme/commit/ea456bb93e7ee00c8dcf9fd1d8823f7790b2d786)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.1...HEAD)
 
+- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/a022d8d99c3c33d9f1b0c823eeb3a89530f20ab7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.7...HEAD)
 
