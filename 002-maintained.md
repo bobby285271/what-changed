@@ -201,19 +201,6 @@
 - [ ] [<code>Add files via upload</code>](https://github.com/arshubham/cipher/commit/64932159d6b794844ed92fe9a205ee54fc462618)
 - [ ] [<code>Merge pull request #56 from eson57/patch-1</code>](https://github.com/arshubham/cipher/commit/bb45279428e8a5417309b5311f0fa09e0aa519d2)
 
-#### [fondo](https://github.com/calo001/fondo): [1.6.1 → HEAD](https://github.com/calo001/fondo/compare/1.6.1...HEAD)
-
-- [ ] [<code>Update cs.po</code>](https://github.com/calo001/fondo/commit/fd6380a642b9e4bc79f2920e6c281d668fb5e248)
-- [ ] [<code>fix visual style text as transleable string</code>](https://github.com/calo001/fondo/commit/c4e77ba529238a0cc6475dcf40c6ce279cd604fe)
-- [ ] [<code>Update cs.po</code>](https://github.com/calo001/fondo/commit/f84927beb3f767502b8cda8f966a72eaa007ecb1)
-- [ ] [<code>Merge pull request #169 from ma-ta/patch-1</code>](https://github.com/calo001/fondo/commit/5ecb2126aa45f247d2c9db93c802a982c3b5f1cd)
-- [ ] [<code>Merge pull request #166 from ma-ta/patch-2</code>](https://github.com/calo001/fondo/commit/a6408a645a557d612807fce35b25f62b87b5949c)
-- [ ] [<code>improve German translation</code>](https://github.com/calo001/fondo/commit/fc654bb8af9c277ef4d181de08b13df8ab995fd8)
-- [ ] [<code>delete de.mo</code>](https://github.com/calo001/fondo/commit/dc11e33b9e0fcfbcc31d2b38191c483ee78d4f23)
-- [ ] [<code>fixes</code>](https://github.com/calo001/fondo/commit/ce2e91aa552803d0be92d49957fda771ebbe50f1)
-- [ ] [<code>partial undo fix</code>](https://github.com/calo001/fondo/commit/b575d5a08462b47c020b6cc8d24aa721bec866d1)
-- [ ] [<code>Merge pull request #170 from tronta/master</code>](https://github.com/calo001/fondo/commit/216c6115f2e9f19486ddc08fc697138b0b74e14d)
-
 #### [formatter](https://github.com/Djaler/Formatter): [0.4.0 → HEAD](https://github.com/Djaler/Formatter/compare/0.4.0...HEAD)
 
 
@@ -262,29 +249,59 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.9 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.9...HEAD)
 
+- [ ] [<code>Add distinction between movement and letter keys</code>](https://github.com/phase1geo/minder/commit/42f0713ed3a50765cde3f428913ca14eb0977f93)
+- [ ] [<code>Merge pull request #733 from argothth/fix-732</code>](https://github.com/phase1geo/minder/commit/fac9947173c88bb620c70ae314b363caecdda712)
+- [ ] [<code>Set application name</code>](https://github.com/phase1geo/minder/commit/71f4133a89cfc08d09d8659b66c94d3b4c7863be)
+- [ ] [<code>Merge pull request #734 from City-busz/patch-1</code>](https://github.com/phase1geo/minder/commit/0197770ed56af6642386310a0637eb3d5d5b825c)
+- [ ] [<code>changing application name to be translatable</code>](https://github.com/phase1geo/minder/commit/3c4bce8df1e65d277c3abe71ebb5cfaf832b7810)
+- [ ] [<code>Reduce height of the Shortcuts page</code>](https://github.com/phase1geo/minder/commit/948cbc47779d2c6b08052c47a2bb8c7a24eb727e)
+- [ ] [<code>Merge pull request #735 from City-busz/patch-2</code>](https://github.com/phase1geo/minder/commit/e8a0e237e88a98b0d6764764053dc2f7afd323cd)
+- [ ] [<code>Add LaTeX SVG formula rendering</code>](https://github.com/phase1geo/minder/commit/13775f5d38fbe9b8b842900c79679d654887d733)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Support LaTeX formulas in mixed text</code>](https://github.com/phase1geo/minder/commit/77ec36d3a32c587c6cf29b1e5b17761ddedc639f)
+- [ ] [<code>l10n: translate Swedish Minder Markdown commands</code>](https://github.com/phase1geo/minder/commit/410ecad26482da2905564fd44bc2a16e7beab4f8)
+- [ ] [<code>l10n: complete Swedish Minder catalog</code>](https://github.com/phase1geo/minder/commit/635c04a7a8e176624eb5e52c500046804a4a8aaa)
+- [ ] [<code>Merge pull request #744 from yeager/l10n/swedish-catalog-refresh</code>](https://github.com/phase1geo/minder/commit/d32c1df582d0cca1c0be36b93c308d3b0933860b)
+- [ ] [<code>Convert pasted formula images with offline OCR</code>](https://github.com/phase1geo/minder/commit/8f10f0e3d0c73621910dbefc9c775acbfaaee8a4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Render LaTeX as inline Pango shapes</code>](https://github.com/phase1geo/minder/commit/79ed2b028a3028f95d8b269c3cc0d70b4f05a5de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Make formula recognition an explicit paste action</code>](https://github.com/phase1geo/minder/commit/b5b38d23e2569e0574b9cd6c7661350241cf1dee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #743 from dragonleopardpig/master</code>](https://github.com/phase1geo/minder/commit/38cc4b4f6a3f77f5c6d859fce3f0ff97da8bffea)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing display and functional issues with Markdown links</code>](https://github.com/phase1geo/minder/commit/6f4f4d7fba520c43cda9ab6dd42e299ceed60191)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
+- [ ] [<code>chore(deps): bump actions/checkout from 6 to 7 (#362)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bf1a5322f733d7e864ff2bdae5099da0bf8dc927)
+- [ ] [<code>Actions: Remove gettext</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d54bf00a12e5d2ce4b2f04f5446810efbee194e0)
+- [ ] [<code>README: Add OS 9 to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7b6746d8b3594d32ca25f28e1af4f80b83565643)
+- [ ] [<code>ThemeSettings: Update ignore list for OS 9 (#363)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c98d416491eb404d18e3120517cd4ddcb3404c2e)
+- [ ] [<code>Flatpak: dconf: Disable unnecessary vapi</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1490895ba4dfa1751af20ce53b80fac30f6955d3)
+- [ ] [<code>chore: Use Gtk.StringList.find() (#324)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a3b2003c0727ae705c0fb828da7db18063911d35)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#364)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/de8e6f418ffe4dc843dabf6705141518eb04b5ce)
+- [ ] [<code>Use Granite.Box to compound widgets (#366)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8a7f82444579f262f65ca1d3bd9abddaed751a8e)
+- [ ] [<code>Flatpak: Bump GNOME platform to 51 (#365)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/065fbb9b962fc3f0723e8612d81d3604c49bfcb4)
+- [ ] [<code>README: Tweak format of supported versions table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/94b1afc2e0fb44da4aa3afd50d1debb8e6258dc9)
+- [ ] [<code>dconf: Update dconf-0.49.0.tar.xz to 51.0 (#367)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3dac01c15103a5558d76814507494159dafd346e)
+- [ ] [<code>Actions: Update to gnome-51 Docker image (#368)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/339a50f4abb0a3c8288e6fd3e9716a1ed8069474)
 
-#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.19.4 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.19.4...HEAD)
+#### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
-- [ ] [<code>Fix building with libical4 (#2500)</code>](https://github.com/alainm23/planify/commit/d7923aecabee7add49eb198b640f71d273b98047)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fix backup (#2495)</code>](https://github.com/alainm23/planify/commit/0d0d9fae44dab82bd0e714fe950644bab2d71fba)
-- [ ] [<code>remove promise (#2503)</code>](https://github.com/alainm23/planify/commit/06464d317203c96921d23451ed445a93b836a53d)
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Stop periodic sync timers from piling up on every network change (#2697)</code>](https://github.com/alainm23/planify/commit/7f0cc26bd98530e5c657e84a8b1cc69c8d668681)
+- [ ] [<code>fix todoist description (#2703)</code>](https://github.com/alainm23/planify/commit/81bbe0360585e160b534a53ce2dff72ff948a0b9)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix keyboard tasks (#2504)</code>](https://github.com/alainm23/planify/commit/5d3c5165dd416648601a57dc75c4fdf341abd991)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cdc2c0c190db65c80b778e111a5defe3b16a7343)
+- [ ] [<code>sent message (#2704)</code>](https://github.com/alainm23/planify/commit/db4ed9fc7f512ed1880ec7a771c9a497f4c12a6f)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Use chrono lib (#2509)</code>](https://github.com/alainm23/planify/commit/ea61c58097b4a626ccac40c9dadbcdc176e088f4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>fix column (#2510)</code>](https://github.com/alainm23/planify/commit/dd760d78fcef2a61e4d27750f69a92a5982233dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix: improve drag & drop reliability and visual feedback in ReorderChild (#2519)</code>](https://github.com/alainm23/planify/commit/feaa63696df9c5e726491ebae4666bc62c531368)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>complate zh.po translate (#2521)</code>](https://github.com/alainm23/planify/commit/84a6c4494ba24b2c2a70b396774da79429958d54)
-  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cc26aaed3772d224e63ff70658a18f38780e8d63)
+- [ ] [<code>add 200 (#2705)</code>](https://github.com/alainm23/planify/commit/71beb8cb78dfeb4a433d8b93914b743500708b86)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
@@ -314,24 +331,26 @@
 - [ ] [<code>Application: Use Vala-style properties (#449)</code>](https://github.com/ellie-commons/sequeler/commit/3702710209a506c9f197f6289ab12a20a89f1a02)
 - [ ] [<code>Flatpak: Update GNOME Platform to 50 (#450)</code>](https://github.com/ellie-commons/sequeler/commit/276a0120a71f5ef9a28d9bda159e647d04832f0a)
 - [ ] [<code>Actions: Remove gettext</code>](https://github.com/ellie-commons/sequeler/commit/8d3374a4932e35f07f384f42b85d8e83bf128e7f)
+- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/ellie-commons/sequeler/commit/8d3894b2eeba9713f7b84caaa86c2cf619b2b366)
+- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#452)</code>](https://github.com/ellie-commons/sequeler/commit/3089ee67c5d0fbc808320acd7857191e4883e429)
 
-#### [snippetpixie](https://github.com/bytepixie/snippetpixie): [1.5.3 → HEAD](https://github.com/bytepixie/snippetpixie/compare/1.5.3...HEAD)
+#### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
-- [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
+- [ ] [<code>Merge pull request #77 from bytepixie/develop</code>](https://github.com/ianmjones/snippetpixie/commit/c584946e0cf66a45557fbddaf7dd771d1c1f218f)
   - <sub>Tags: <code>1.4.1</code></sub>
-- [ ] [<code>Merge pull request #86 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/25a3097e3ac6ceb31ba9f82b4148d7259cf01238)
+- [ ] [<code>Merge pull request #86 from bytepixie/develop</code>](https://github.com/ianmjones/snippetpixie/commit/25a3097e3ac6ceb31ba9f82b4148d7259cf01238)
   - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Merge pull request #91 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/16f498768fd30da4b69174723dfbe590fb75f199)
+- [ ] [<code>Merge pull request #91 from bytepixie/develop</code>](https://github.com/ianmjones/snippetpixie/commit/16f498768fd30da4b69174723dfbe590fb75f199)
   - <sub>Tags: <code>1.5.1</code></sub>
-- [ ] [<code>Merge pull request #92 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/041391cefcaa7c504ea024324eb4776efe7e5432)
-- [ ] [<code>Merge branch 'develop'</code>](https://github.com/bytepixie/snippetpixie/commit/03c0b7488e0ec784dc45be32f300d517008a04d5)
-- [ ] [<code>Merge branch 'develop'</code>](https://github.com/bytepixie/snippetpixie/commit/52d24bf4288f13f74614c4ae7ffb120d1673e298)
-- [ ] [<code>Merge pull request #98 from bytepixie/develop</code>](https://github.com/bytepixie/snippetpixie/commit/74123fa074e25c07aa56d28d79731d618dec13b9)
-- [ ] [<code>Updated Dutch translation</code>](https://github.com/bytepixie/snippetpixie/commit/5c7bac6a2535dcd50675f4b74da7de2b9006c170)
-- [ ] [<code>Merge pull request #99 from Vistaus/develop</code>](https://github.com/bytepixie/snippetpixie/commit/da62e16d6e1e5b4c5200413dbb51684ce92199c0)
-- [ ] [<code>Merge branch 'develop'</code>](https://github.com/bytepixie/snippetpixie/commit/ceb62990337a4bd16a5842caeba96dad21e19f3e)
-- [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/bytepixie/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
-- [ ] [<code>Add project status to README.md</code>](https://github.com/bytepixie/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
+- [ ] [<code>Merge pull request #92 from bytepixie/develop</code>](https://github.com/ianmjones/snippetpixie/commit/041391cefcaa7c504ea024324eb4776efe7e5432)
+- [ ] [<code>Merge branch 'develop'</code>](https://github.com/ianmjones/snippetpixie/commit/03c0b7488e0ec784dc45be32f300d517008a04d5)
+- [ ] [<code>Merge branch 'develop'</code>](https://github.com/ianmjones/snippetpixie/commit/52d24bf4288f13f74614c4ae7ffb120d1673e298)
+- [ ] [<code>Merge pull request #98 from bytepixie/develop</code>](https://github.com/ianmjones/snippetpixie/commit/74123fa074e25c07aa56d28d79731d618dec13b9)
+- [ ] [<code>Updated Dutch translation</code>](https://github.com/ianmjones/snippetpixie/commit/5c7bac6a2535dcd50675f4b74da7de2b9006c170)
+- [ ] [<code>Merge pull request #99 from Vistaus/develop</code>](https://github.com/ianmjones/snippetpixie/commit/da62e16d6e1e5b4c5200413dbb51684ce92199c0)
+- [ ] [<code>Merge branch 'develop'</code>](https://github.com/ianmjones/snippetpixie/commit/ceb62990337a4bd16a5842caeba96dad21e19f3e)
+- [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/ianmjones/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
+- [ ] [<code>Add project status to README.md</code>](https://github.com/ianmjones/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
 
 #### [spice-up](https://github.com/Philip-Scott/Spice-up): [refs/tags/1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/refs/tags/1.9.1...HEAD)
 
@@ -349,6 +368,8 @@
 - [ ] [<code>set window title (#98)</code>](https://github.com/ellie-commons/taxi/commit/66a786fd4c1a991e9d6b9c0e431250326f49b218)
 - [ ] [<code>Set accel to quit the app (#97)</code>](https://github.com/ellie-commons/taxi/commit/08a48094bda5952582c848f8fe90704047d0f206)
 - [ ] [<code>Flatpak: remove accountsservice permission (#102)</code>](https://github.com/ellie-commons/taxi/commit/3c8156d89694fe1d75ea40e2b1605f46081ce973)
+- [ ] [<code>CI: Udate docker/setup-qemu-action to v4</code>](https://github.com/ellie-commons/taxi/commit/c40fa099e3d4ab952f2a27c846682c98e568b35f)
+- [ ] [<code>CI: Remove QEMU and test aarch64 directly on ubuntu-24.04-arm</code>](https://github.com/ellie-commons/taxi/commit/737d8b708bfa7ec6039cca4ebee26a4ba8b54a81)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
@@ -363,3 +384,11 @@
 - [ ] [<code>Add new introspectable Vlint library (#158)</code>](https://github.com/vala-lang/vala-lint/commit/28dbf44dd2c5ec2fc7273982d35ff8cb0ef46283)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Make ignore list file matching portable (#198)</code>](https://github.com/vala-lang/vala-lint/commit/6c2bb6831a165bc754c499d3efccb8ea2d0e79ba)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add Check for Using Directive (#129)</code>](https://github.com/vala-lang/vala-lint/commit/9212aa409ddf9e71579a94705545b3e6ced61c4d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SpaceBeforeParenCheck: fix column offset (#196)</code>](https://github.com/vala-lang/vala-lint/commit/06a8e9de6e72e6dc0e5e46e41f44874e20bd47f2)
+- [ ] [<code>Add code fix data in JSON output and add stdin support (#200)</code>](https://github.com/vala-lang/vala-lint/commit/4f7647e8817129be69f452111921baea26a9c67a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix auto fix logic for SpaceBeforeParenCheck and add missing auto fix tests for the check (#202)</code>](https://github.com/vala-lang/vala-lint/commit/34124fb326f63d9f24339175818425c310ca747c)
