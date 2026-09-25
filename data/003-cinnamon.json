@@ -124,6 +124,9 @@
         },
         {
             "attr_path": "xapp-symbolic-icons"
+        },
+        {
+            "attr_path": "xepub"
         }
     ]
 }
