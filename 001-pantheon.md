@@ -1447,6 +1447,9 @@
 - [ ] [<code>Revamp sysexts modules generation to add WIP broadcom support (#862)</code>](https://github.com/elementary/os/commit/8f05d10e19cd7520cf535258c6f349ebef1513a9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Copy flatpaks from liveiso (#883)</code>](https://github.com/elementary/os/commit/423c07b095156fb8589e5356c58e2d0dd465887b)
+- [ ] [<code>Fix global system preset (#884)</code>](https://github.com/elementary/os/commit/e0dd5a32cf9bdd6d718c7a87624177ad6248b344)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Don't trigger proposed builds for draft PRs (#889)</code>](https://github.com/elementary/os/commit/e65c0f6d41f6574492d5f30eb39025fae56ed70a)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
