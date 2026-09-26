@@ -548,6 +548,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>systray: fix icon loss on redisplay, timeout races, and teardown errors in the applet and tray manager (#13966)</code>](https://github.com/linuxmint/cinnamon/commit/22552ed64cf9c089d08cc948bfbfe09819501736)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>xapp-status: Account for resource scale in the file-icon load path</code>](https://github.com/linuxmint/cinnamon/commit/6e01efb79198c4d9e2ccdfb51bfbd69849f8578d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver/sound applet: Create album art the same way, fix scaling</code>](https://github.com/linuxmint/cinnamon/commit/28da8e5add9836dbd3fcd1599a22a7d267f5da64)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notificationDaemon: Handle libnotify 0.8.8 icons and load file images</code>](https://github.com/linuxmint/cinnamon/commit/28b20b47a44796f26b674b27bb66bf1a1c415654)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1040,6 +1045,7 @@
   - <sub>Tags: <code>6.7.8-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>inhibit-shortcuts-dialog: Fix use-after-free</code>](https://github.com/linuxmint/muffin/commit/385cd5c5727073d32abbe5734a115ebabcad368d)
+- [ ] [<code>clutter-actor: Clear the size-request flags when a CONTENT_SIZE actor</code>](https://github.com/linuxmint/muffin/commit/362a17044591ab27840b0ec7b0b86e5d39d9cdd2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1406,21 +1412,5 @@
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.0 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.0...HEAD)
 
 
-#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.1...HEAD)
+#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.2...HEAD)
 
-- [ ] [<code>control: update build depends (#1)</code>](https://github.com/xapp-project/xepub/commit/e7124ca7764def957e764c9d8af9aac5aee38881)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Switch to XSI</code>](https://github.com/xapp-project/xepub/commit/cad232b0409a89d43016f793aeb9a7fe5930ffb1)
-- [ ] [<code>Update README</code>](https://github.com/xapp-project/xepub/commit/60541d55fbdd2391831b49a588aeef8cc617fd81)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>preferences: Fix widget alignment (#5)</code>](https://github.com/xapp-project/xepub/commit/f058b4bc82b20b2f57df1bf93a5b20a46a991dbe)
-- [ ] [<code>readme: Clarify build instructions</code>](https://github.com/xapp-project/xepub/commit/27351b23f184cee8b6fcb7fe197301c8d632209e)
-- [ ] [<code>preferences: Clarify units and reorder prefs</code>](https://github.com/xapp-project/xepub/commit/6c3e82f7024aa9917e81decf24d85b8a53f50db3)
-- [ ] [<code>preferences: Justify text by default</code>](https://github.com/xapp-project/xepub/commit/f4cc7921c095d4437089498b5a2435cedd6d3e38)
-- [ ] [<code>preferences: Display font families consistently</code>](https://github.com/xapp-project/xepub/commit/73420ef666a909b03e5504056df3b6622ae46b15)
-- [ ] [<code>preferences: Separate reader and application themes</code>](https://github.com/xapp-project/xepub/commit/e0d004d480fa217685932300bd3c9abb5182eb73)
-- [ ] [<code>headerbar: Use a traditional menu</code>](https://github.com/xapp-project/xepub/commit/bacd65b66fe51c37691c8f173c581860c5b07233)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/xapp-project/xepub/commit/d63ff3a8f50c36de1ae2d94916b766728fd3c635)
-- [ ] [<code>1.0.2</code>](https://github.com/xapp-project/xepub/commit/d553c74ac377a15e58d01b0298aadd0c7c2f7f22)
-  - <sub>Tags: <code>1.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
