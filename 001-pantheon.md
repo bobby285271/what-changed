@@ -41,44 +41,8 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
 
-#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.3.2 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.3.2...HEAD)
+#### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
-- [ ] [<code>Gtk4Prep: Fuzzy search popover - use ListStore instead of Items array (#1785)</code>](https://github.com/elementary/code/commit/55fcbf4a05051239fae468fb30ca6b6784d05902)
-- [ ] [<code>Replace pack_start in pastebin dialog (#1784)</code>](https://github.com/elementary/code/commit/085b1584a8d668e0fa6e71d1ced916b57f706646)
-- [ ] [<code>FuzzySearch: ellipsize middle instead of horizontal scroll (#1790)</code>](https://github.com/elementary/code/commit/80015278177cceca6d1883a7391041a071fa8c02)
-- [ ] [<code>FuzzySearch/FileItem: use arrow, account for RTL (#1791)</code>](https://github.com/elementary/code/commit/c5d7197cf1ba306df208e887524a57337d1f8250)
-- [ ] [<code>FuzzySearchPopover: use native keynav features (#1789)</code>](https://github.com/elementary/code/commit/110b86ab17ee64b96880c71b3b61cc5ea4121ac9)
-- [ ] [<code>FuzzySearch: adjust label styles (#1792)</code>](https://github.com/elementary/code/commit/38d0e5caa18eb496ee2709ca1abb30570d8b4639)
-- [ ] [<code>FuzzySearch: fix file names (#1793)</code>](https://github.com/elementary/code/commit/9f3c3152be80a83ce8f391c4a7d32185f589b046)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>FormatBar: always update formatbar when language identified (#1799)</code>](https://github.com/elementary/code/commit/8d4e6321a4fe135c596f580e0b220094c1a25cea)
-- [ ] [<code>Allow certain shortcuts to reach terminal when focused (#1761)</code>](https://github.com/elementary/code/commit/12771dea4ebab0eeebd446c3d1187e7e2948bf09)
-- [ ] [<code>Cleanup: fix some terminal warnings (#1801)</code>](https://github.com/elementary/code/commit/a59c75f364d838d9b9eddeb522d479fa07e7c41f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Keyboard accessibility: Set an accelerator for Close Other Tabs action (#1627)</code>](https://github.com/elementary/code/commit/16a21acee9a364931ed2ef7cfa882ca5ffb0507a)
-- [ ] [<code>SymbolOutline - cleanup (#1797)</code>](https://github.com/elementary/code/commit/247b1c3fcc232b0d2f927976c8490cadc1122ecf)
-- [ ] [<code>Cleanup: Simplify open document (#1773)</code>](https://github.com/elementary/code/commit/c5c2a48456cbbd6902ff60ddba7aa158cfae3ce5)
-- [ ] [<code>Fix POTFILES (#1804)</code>](https://github.com/elementary/code/commit/740667e5b59eafb9d1118dc251ac01d01932b204)
-- [ ] [<code>Correct path names for fuzzy search (#1805)</code>](https://github.com/elementary/code/commit/930730eba8a22bce4b894404c0308676ef32688d)
-- [ ] [<code>SearchBar cleanup (#1794)</code>](https://github.com/elementary/code/commit/ef25ef0aaa46be85fb8fde6b3be37ec312a0af25)
-- [ ] [<code>Fix file path in po/plugins/POTFILES (#1806)</code>](https://github.com/elementary/code/commit/fc2a2bb736ba2a1f80ef2b2ca138475a015224d5)
-- [ ] [<code>SearchBar: set method → properties, rm unused (#1808)</code>](https://github.com/elementary/code/commit/b2f7156cc02554c9d7f0d0cc3cae1cca3b147f6b)
-- [ ] [<code>SearchBar: use actions (#1807)</code>](https://github.com/elementary/code/commit/8eb5007f7ef9c07745fb007880518d8b1fb0762a)
-- [ ] [<code>Markdown: Handle indents better when appending or inserting sublists (#1478)</code>](https://github.com/elementary/code/commit/e6f93140c4b36c511bca1b4f01d094b65eea3443)
-- [ ] [<code>Make primary icon activatable so signal handler works (#1810)</code>](https://github.com/elementary/code/commit/169a51b81e3fe2d7f068d31dd1ea75e828c1c8ab)
-- [ ] [<code>Feature: Separate terminal zoom (#1696)</code>](https://github.com/elementary/code/commit/099b54697a9ebe91ebcceab4cf561aa385b1e9a3)
-- [ ] [<code>Feature: Add action to find matching bracket (#1680)</code>](https://github.com/elementary/code/commit/60da18a0361352fd32cba354ad9fc450f543fa35)
-- [ ] [<code>Use GLib.Once to manage singleton; reduce static members/methods (#1811)</code>](https://github.com/elementary/code/commit/8c281f806f9b3750154f754791b790a06f0021cd)
-- [ ] [<code>SearchBar: improve settings handling (#1809)</code>](https://github.com/elementary/code/commit/209b09e174c283926ee0f7008b5f0b85569a65dc)
-- [ ] [<code>Fix regression in search (#1812)</code>](https://github.com/elementary/code/commit/c7fea7ca9c4322f6d788e2b084977fcc697a3f9d)
-- [ ] [<code>PastebinDialog cleanup: Inline namespaces (#1816)</code>](https://github.com/elementary/code/commit/f67c788125eb95f03e021486700b33adbc1acfeb)
-- [ ] [<code>Update metainfo for release 8.4.0 (#1815)</code>](https://github.com/elementary/code/commit/c0ba6a385a7c7de1c60aa9501f1b21c7d2c87bb9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Compare path with path (#1820)</code>](https://github.com/elementary/code/commit/5ed2be76a048233d77f52e7ae07bd39531fd0fa7)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#1817)</code>](https://github.com/elementary/code/commit/533e50f399b78fb4db04b7d2a1a8ea381b460ec5)
-- [ ] [<code>Release 8.4.0 (#1821)</code>](https://github.com/elementary/code/commit/346a538376f5c5c7a8e95977838a1512bb637491)
-  - <sub>Tags: <code>8.4.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -654,6 +618,7 @@
 - [ ] [<code>Refactor authentication (#890)</code>](https://github.com/elementary/greeter/commit/3364dba5393652684883f1194eafb6112f94f08a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest</code>](https://github.com/elementary/greeter/commit/e7a8175ec8a108beb1947f4808baab2823e7c459)
+- [ ] [<code>WindowManager: Use explicit Meta namespace (#913)</code>](https://github.com/elementary/greeter/commit/bc441b64d539c84a53017293006cf0bcdaa44950)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
