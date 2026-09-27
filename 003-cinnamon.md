@@ -553,6 +553,13 @@
 - [ ] [<code>screensaver/sound applet: Create album art the same way, fix scaling</code>](https://github.com/linuxmint/cinnamon/commit/28da8e5add9836dbd3fcd1599a22a7d267f5da64)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>notificationDaemon: Handle libnotify 0.8.8 icons and load file images</code>](https://github.com/linuxmint/cinnamon/commit/28b20b47a44796f26b674b27bb66bf1a1c415654)
+- [ ] [<code>Spices.py: Fix new desklet placement in x11 hidpi</code>](https://github.com/linuxmint/cinnamon/commit/6ee14f2e24223ea71b55e9178f0d0952a513c5d2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>misc: Fix some minor image scaling issues</code>](https://github.com/linuxmint/cinnamon/commit/2ed055a715b7204fe5c80c999244d680ef773bdb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>photoframe@cinnamon.org: Account for resource scale when loading images</code>](https://github.com/linuxmint/cinnamon/commit/b2dbe9dd6c4ae0bfbce1e43daeaf6c8683431370)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st-texture-cache.c (wayland): Don't hardcode resource-scale for</code>](https://github.com/linuxmint/cinnamon/commit/6342661eb086fab7ac2c2492ffb3fcf38d631376)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1197,6 +1204,8 @@
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1227,6 +1236,8 @@
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1257,6 +1268,8 @@
 - [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
   - <sub>Tags: <code>6.7.2-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
@@ -1315,9 +1328,12 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>3.3.6-unstable</code>](https://github.com/linuxmint/xapp/commit/a9d71e7551a2e99095dd1f037ca7720ca2a7dc8c)
-  - <sub>Tags: <code>3.3.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test-scripts: Update qt-system-tray and add -pixmap variant.</code>](https://github.com/linuxmint/xapp/commit/34de3a4ed28e1d399b5a6e4b50e2a0783b5baad5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
 
