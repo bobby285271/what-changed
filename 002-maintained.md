@@ -296,6 +296,9 @@
 - [ ] [<code>MiscPane:  Add switch and spin button for check-alive-timeout  (#369)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/46ac1f2942b2436d870960724758eaa07223b6e9)
 - [ ] [<code>Move schema id to each file (#372)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/38b2d8ae8106e058c441a3649398cc6586ef6b7d)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Declare schema key constants (#373)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cc0fd15804aa8aff4b5bbc4203f7a8323a68c944)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>BasePane: Generalize showing toast message (#374)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8ec0cd69b02cfd8399981508e5e9f94d96c7382c)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
