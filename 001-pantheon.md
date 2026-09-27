@@ -86,6 +86,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2840)</code>](https://github.com/elementary/files/commit/839c38e28daf5666d476fab6c9b9683223025e19)
 - [ ] [<code>Sync transfers (redux) for realistic progress bar updates (#2828)</code>](https://github.com/elementary/files/commit/aeec8851b552654769dca68574578b3b436d660e)
+- [ ] [<code>Metainfo for release 7.3.3 (#2846)</code>](https://github.com/elementary/files/commit/4ee4155f88ea465334b49d5ed17035abb0f8a805)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -390,6 +391,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#393)</code>](https://github.com/elementary/switchboard/commit/64d3e5ca8f4e0caaf6e1c40e0581d6b3d29e8c54)
 - [ ] [<code>CategoryView: make search bar full width (#396)</code>](https://github.com/elementary/switchboard/commit/5fc894160388f8edb57e4562d2fae5addcf58077)
 - [ ] [<code>Actions: Update gettext-template (#397)</code>](https://github.com/elementary/switchboard/commit/1be070e543336cf6c9fee4af51d0a06b110e813f)
+- [ ] [<code>PlugsManager: load local plugins (#398)</code>](https://github.com/elementary/switchboard/commit/5641b811c33e772f4a8b24980c2ce93687c12067)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -1415,6 +1419,12 @@
 - [ ] [<code>Fix global system preset (#884)</code>](https://github.com/elementary/os/commit/e0dd5a32cf9bdd6d718c7a87624177ad6248b344)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Don't trigger proposed builds for draft PRs (#889)</code>](https://github.com/elementary/os/commit/e65c0f6d41f6574492d5f30eb39025fae56ed70a)
+- [ ] [<code>Use apt-shim from elementary (#872)</code>](https://github.com/elementary/os/commit/f0b016fee2a5c629863f67843f2ab14ba2838c93)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add erofs support (#891)</code>](https://github.com/elementary/os/commit/170ee477eea11eed34f3b2d94861de07322a8190)
+- [ ] [<code>Cleanup: Remove usroverlay (#892)</code>](https://github.com/elementary/os/commit/5557f874711ebf3de0a335f96632e3dd89e3c6ca)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Set ISO label name instead of default ISOIMAGE (#888)</code>](https://github.com/elementary/os/commit/1bd435b6282a68a8fc6e89496f4fc33ebdd89b7c)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
