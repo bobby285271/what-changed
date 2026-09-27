@@ -1742,6 +1742,7 @@
 - [ ] [<code>settings: Simplify icon handling in device tab</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/f8d1f4a0575854ea44481c4199c11887606af793)
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/773a259aeaf55bc541a165696ea0edcd04d624f1)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/08aba661f05693dd92ddd4d011814c88cb5690ad)
+- [ ] [<code>about-dialog: Fix app name</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b157b7285bcfc298931438e0a5560376f6c154dc)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
