@@ -292,6 +292,10 @@
 - [ ] [<code>dconf: Update dconf-0.49.0.tar.xz to 51.0 (#367)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3dac01c15103a5558d76814507494159dafd346e)
 - [ ] [<code>Actions: Update to gnome-51 Docker image (#368)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/339a50f4abb0a3c8288e6fd3e9716a1ed8069474)
 - [ ] [<code>README: Rmove known issue from OS 6</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/96ee2c0710511a1ab962219b957bff1953b503f3)
+- [ ] [<code>ThemeSettings: Add support for modern themes with only GTK 4 stylesheets (#371)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/15ec7546896111dcae232f54b5e19c760c5e2706)
+- [ ] [<code>MiscPane:  Add switch and spin button for check-alive-timeout  (#369)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/46ac1f2942b2436d870960724758eaa07223b6e9)
+- [ ] [<code>Move schema id to each file (#372)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/38b2d8ae8106e058c441a3649398cc6586ef6b7d)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
