@@ -1212,6 +1212,7 @@
 - [ ] [<code>MenuButton: Make sure open-menu icon used for Gtk.ArrowType.NONE (#1055)</code>](https://github.com/elementary/granite/commit/1345719f5de9d4106b288588657d7fc39c5a2b91)
 - [ ] [<code>Icons: update password entry icons (#916)</code>](https://github.com/elementary/granite/commit/a5f8163ea21a2c0d1571817500afba7fbcbfe6cb)
 - [ ] [<code>Styles: make window.devel a purpleprint (#1053)</code>](https://github.com/elementary/granite/commit/0aa45c8ebbf4605c05712226962d052d046d0097)
+- [ ] [<code>Styles/lighting: toplevel shadows (#1034)</code>](https://github.com/elementary/granite/commit/c0d4252dd5227c2e6563f9f84393560118b4b654)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1425,6 +1426,9 @@
 - [ ] [<code>Cleanup: Remove usroverlay (#892)</code>](https://github.com/elementary/os/commit/5557f874711ebf3de0a335f96632e3dd89e3c6ca)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Set ISO label name instead of default ISOIMAGE (#888)</code>](https://github.com/elementary/os/commit/1bd435b6282a68a8fc6e89496f4fc33ebdd89b7c)
+- [ ] [<code>Don't skip draft PR comment job for manual workflow trigger (#894)</code>](https://github.com/elementary/os/commit/12340a2ab19f7f44ec3d85ee9d35e83d8ffeacfd)
+- [ ] [<code>Add passphrase encryption support (#896)</code>](https://github.com/elementary/os/commit/c366a81e26f651090cd6b88e596500a0493f5fd8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
