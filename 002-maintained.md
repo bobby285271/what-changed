@@ -274,6 +274,8 @@
 - [ ] [<code>Merge pull request #743 from dragonleopardpig/master</code>](https://github.com/phase1geo/minder/commit/38cc4b4f6a3f77f5c6d859fce3f0ff97da8bffea)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fixing display and functional issues with Markdown links</code>](https://github.com/phase1geo/minder/commit/6f4f4d7fba520c43cda9ab6dd42e299ceed60191)
+- [ ] [<code>Fixing typo</code>](https://github.com/phase1geo/minder/commit/20665c744cb18bd15c4a5d8f0fab900b4b94f178)
+- [ ] [<code>Merge pull request #750 from be-we/patch-1</code>](https://github.com/phase1geo/minder/commit/47fc0004c6c6ddf650b0c0ded3fbc4fc2f9fdaa3)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
