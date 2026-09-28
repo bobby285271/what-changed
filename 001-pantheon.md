@@ -43,6 +43,8 @@
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
+- [ ] [<code>Lose unused signal, whitespace (#1823)</code>](https://github.com/elementary/code/commit/42fbee2471ad716b94281affaf14e0b046534604)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -87,6 +89,7 @@
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2840)</code>](https://github.com/elementary/files/commit/839c38e28daf5666d476fab6c9b9683223025e19)
 - [ ] [<code>Sync transfers (redux) for realistic progress bar updates (#2828)</code>](https://github.com/elementary/files/commit/aeec8851b552654769dca68574578b3b436d660e)
 - [ ] [<code>Metainfo for release 7.3.3 (#2846)</code>](https://github.com/elementary/files/commit/4ee4155f88ea465334b49d5ed17035abb0f8a805)
+- [ ] [<code>File transfers: fix performance regression due to syncing (#2843)</code>](https://github.com/elementary/files/commit/989648b29f5591658ebebd38ed53d3327e42df4f)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
