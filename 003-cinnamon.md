@@ -560,6 +560,15 @@
 - [ ] [<code>photoframe@cinnamon.org: Account for resource scale when loading images</code>](https://github.com/linuxmint/cinnamon/commit/b2dbe9dd6c4ae0bfbce1e43daeaf6c8683431370)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>st-texture-cache.c (wayland): Don't hardcode resource-scale for</code>](https://github.com/linuxmint/cinnamon/commit/6342661eb086fab7ac2c2492ffb3fcf38d631376)
+- [ ] [<code>Make dummy panel visible on fullscreened monitors (#13215)</code>](https://github.com/linuxmint/cinnamon/commit/73bbc7c708ee773f6eaa854881b7b454a8565a58)
+- [ ] [<code>Make InfoOSD visible on fullscreened monitors (#13216)</code>](https://github.com/linuxmint/cinnamon/commit/623e468fd21b2e1d1332f52a4229c96870949814)
+- [ ] [<code>Round schedule time to nearest minute (#13988)</code>](https://github.com/linuxmint/cinnamon/commit/a3d2b349d83decd488b08b5384e59dc72a1591ba)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_nightlight: update schedule spinners when settings change externally (#13987)</code>](https://github.com/linuxmint/cinnamon/commit/7d9b30e877e967c3202901c370e890285be89418)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver/pam-helper: Call setlocale() so PAM messages are translated. (#14020)</code>](https://github.com/linuxmint/cinnamon/commit/05fd9dd5884d5e81f9c5dc2a25602ae6967fa465)
+- [ ] [<code>network applet: six correctness fixes, incl. multiple active WireGuard connections (#13911)</code>](https://github.com/linuxmint/cinnamon/commit/5bfbcea0ffa02c84fb775cc84ab7c59ff659b284)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1053,6 +1062,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>inhibit-shortcuts-dialog: Fix use-after-free</code>](https://github.com/linuxmint/muffin/commit/385cd5c5727073d32abbe5734a115ebabcad368d)
 - [ ] [<code>clutter-actor: Clear the size-request flags when a CONTENT_SIZE actor</code>](https://github.com/linuxmint/muffin/commit/362a17044591ab27840b0ec7b0b86e5d39d9cdd2)
+- [ ] [<code>keybindings (x11): Hold a pointer grab while the magnifier zoom</code>](https://github.com/linuxmint/muffin/commit/2ea4b44d3eea8806108a5b934985a55e2d94a768)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1332,8 +1342,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test-scripts: Update qt-system-tray and add -pixmap variant.</code>](https://github.com/linuxmint/xapp/commit/34de3a4ed28e1d399b5a6e4b50e2a0783b5baad5)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>favorite-vfs-file-enumerator.c: Fix infinite loop in next_file().</code>](https://github.com/linuxmint/xapp/commit/ccd8cd30e608ca6b9a534b3138e59788c21eb206)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
 
