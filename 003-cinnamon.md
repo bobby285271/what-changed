@@ -124,7 +124,6 @@
 - [ ] [<code>input sources: Allow a default xkb layout to be configured for (#13520)</code>](https://github.com/linuxmint/cinnamon/commit/2db8e835014c91593793b90db4b1ad0f4daf3236)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>cinnamonEntry.js: Allow addContextMenu() to re-use an existing</code>](https://github.com/linuxmint/cinnamon/commit/14c83ba7e77405c17a8c80d84bdd729681167f8d)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>Add support for GIRepository-2.0. (#13474)</code>](https://github.com/linuxmint/cinnamon/commit/3fc658559bae31037cb7a855e9c070fe88460a9d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
@@ -569,6 +568,10 @@
 - [ ] [<code>screensaver/pam-helper: Call setlocale() so PAM messages are translated. (#14020)</code>](https://github.com/linuxmint/cinnamon/commit/05fd9dd5884d5e81f9c5dc2a25602ae6967fa465)
 - [ ] [<code>network applet: six correctness fixes, incl. multiple active WireGuard connections (#13911)</code>](https://github.com/linuxmint/cinnamon/commit/5bfbcea0ffa02c84fb775cc84ab7c59ff659b284)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>layout.js (x11): Exclude obscured desklet areas from input region</code>](https://github.com/linuxmint/cinnamon/commit/a41f98d5546c13a6cc476c5981e948cc3b393500)
+- [ ] [<code>cinnamon-screenshot.c: Capture at physical resolution on scaled Wayland</code>](https://github.com/linuxmint/cinnamon/commit/cc48d2be3c835c88e496343c4efafa0c2db11e5f)
+- [ ] [<code>layout.js: Skip input-rect computation and debug-overlay in Wayland</code>](https://github.com/linuxmint/cinnamon/commit/36eb79462a1c512eede21e447440ada2abbe9a3b)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -827,6 +830,8 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.1...HEAD)
 
+- [ ] [<code>build.yml: Use git master for builds again.</code>](https://github.com/linuxmint/cjs/commit/84e7840ce148b75f9d38b57d82cdc9a47dd3a7eb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -1064,6 +1069,7 @@
 - [ ] [<code>inhibit-shortcuts-dialog: Fix use-after-free</code>](https://github.com/linuxmint/muffin/commit/385cd5c5727073d32abbe5734a115ebabcad368d)
 - [ ] [<code>clutter-actor: Clear the size-request flags when a CONTENT_SIZE actor</code>](https://github.com/linuxmint/muffin/commit/362a17044591ab27840b0ec7b0b86e5d39d9cdd2)
 - [ ] [<code>keybindings (x11): Hold a pointer grab while the magnifier zoom</code>](https://github.com/linuxmint/muffin/commit/2ea4b44d3eea8806108a5b934985a55e2d94a768)
+- [ ] [<code>compositor: Paint viewport-scaled and Xwayland windows at resource</code>](https://github.com/linuxmint/muffin/commit/daf65679b64ac6972086f1b545cfc92343ae26ef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
