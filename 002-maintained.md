@@ -276,6 +276,10 @@
 - [ ] [<code>Fixing display and functional issues with Markdown links</code>](https://github.com/phase1geo/minder/commit/6f4f4d7fba520c43cda9ab6dd42e299ceed60191)
 - [ ] [<code>Fixing typo</code>](https://github.com/phase1geo/minder/commit/20665c744cb18bd15c4a5d8f0fab900b4b94f178)
 - [ ] [<code>Merge pull request #750 from be-we/patch-1</code>](https://github.com/phase1geo/minder/commit/47fc0004c6c6ddf650b0c0ded3fbc4fc2f9fdaa3)
+- [ ] [<code>Fixing typo</code>](https://github.com/phase1geo/minder/commit/67f1b68f6aae71d2a6a154c32a95d9e89d9837f2)
+- [ ] [<code>Fixing wording</code>](https://github.com/phase1geo/minder/commit/82942a04cf344f329ef61c87882989cfe0eb194c)
+- [ ] [<code>Merge pull request #752 from be-we/patch-3</code>](https://github.com/phase1geo/minder/commit/3c6c57ed32df53e8219bef1fcb97d6944220a195)
+- [ ] [<code>Merge pull request #751 from be-we/patch-2</code>](https://github.com/phase1geo/minder/commit/fd9c8b2c4cb53e0ec60aff8474d07284850063e3)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
