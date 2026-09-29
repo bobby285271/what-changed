@@ -384,6 +384,7 @@
 - [ ] [<code>Flatpak: remove accountsservice permission (#102)</code>](https://github.com/ellie-commons/taxi/commit/3c8156d89694fe1d75ea40e2b1605f46081ce973)
 - [ ] [<code>CI: Udate docker/setup-qemu-action to v4</code>](https://github.com/ellie-commons/taxi/commit/c40fa099e3d4ab952f2a27c846682c98e568b35f)
 - [ ] [<code>CI: Remove QEMU and test aarch64 directly on ubuntu-24.04-arm</code>](https://github.com/ellie-commons/taxi/commit/737d8b708bfa7ec6039cca4ebee26a4ba8b54a81)
+- [ ] [<code>Flatpak: Update to runtime version 8.2 (#106)</code>](https://github.com/ellie-commons/taxi/commit/2dedddb80f5ba8c0b00d361d3f0712867938ea73)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
