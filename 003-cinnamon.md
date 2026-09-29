@@ -617,6 +617,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>display: snap monitors to aligned centers in the arrangement view (#384)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/589756b23ce8dcac8d58a8b0abdc1040204de506)
 - [ ] [<code>cc-display-config-dbus.c: Don't warn on invalid monitor positions</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f411489577690d74960c9a5ff6207c417020c6c)
+- [ ] [<code>cc-display-config.c: Use logical_monitors to determine monitor order</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c5dae5ba9f52b4bf6ebb557f2b46e6388643ecc0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
