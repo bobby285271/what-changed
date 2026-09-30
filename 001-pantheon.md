@@ -45,6 +45,7 @@
 
 - [ ] [<code>Lose unused signal, whitespace (#1823)</code>](https://github.com/elementary/code/commit/42fbee2471ad716b94281affaf14e0b046534604)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Simplify search function (#1803)</code>](https://github.com/elementary/code/commit/7b56ffabcd606fa52cd0f4750448ca3566f99b64)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -671,6 +672,7 @@
 - [ ] [<code>Utils: Don't check for logical framebuffer on mutter-50+ (#2923)</code>](https://github.com/elementary/gala/commit/f0ebed2e5bdf5682c8954818ab8c676b6280b103)
 - [ ] [<code>Actions: Update gettext-template (#2932)</code>](https://github.com/elementary/gala/commit/d1ea07e84eff648d0f08667ee1d8a3eebd55450f)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2933)</code>](https://github.com/elementary/gala/commit/7c051bb1ee02e15fddd87f78552f0b9df74bd503)
+- [ ] [<code>ShellClientsManager: Focus the greeter window when it is shown (#2937)</code>](https://github.com/elementary/gala/commit/f804092eca973f1a3dc3d2f069b7b9947a78eaa4)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1433,6 +1435,8 @@
 - [ ] [<code>Add passphrase encryption support (#896)</code>](https://github.com/elementary/os/commit/c366a81e26f651090cd6b88e596500a0493f5fd8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Add disk space check before free disk space action (#900)</code>](https://github.com/elementary/os/commit/1146a1adb58db1739b36d088115b7886727cec5b)
+- [ ] [<code>Less compression on proposed releases. (#901)</code>](https://github.com/elementary/os/commit/624d6bdc25de04561fcd221a4e181c45238a86d3)
+- [ ] [<code>Add libtss2-rc0 (#899)</code>](https://github.com/elementary/os/commit/1cc3f23c08a3acaae4a880cfbfab5d925d8aa706)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
