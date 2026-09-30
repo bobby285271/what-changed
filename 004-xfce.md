@@ -2365,6 +2365,7 @@
 - [ ] [<code>file-icons: Explain deferred-view DND disable</code>](https://github.com/xfce-mirror/xfdesktop/commit/d81c4551ba56db6096a442dfcda7bf9cbaec69b5)
 - [ ] [<code>Add settings to hide symlink, read-only, and unreadable emblems</code>](https://github.com/xfce-mirror/xfdesktop/commit/e413f939ccfe47dc930b9fc75e8696413a371c91)
 - [ ] [<code>Add checkbox to toggle user-assigned emblems, per review feedback</code>](https://github.com/xfce-mirror/xfdesktop/commit/088bda21619c261aa31da773529ddf25503ac286)
+- [ ] [<code>Remove accidentally checked-in patch file</code>](https://github.com/xfce-mirror/xfdesktop/commit/d8d21867fa50b2683d425012a464b4e16aefdeb8)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
