@@ -1432,6 +1432,7 @@
 - [ ] [<code>Don't skip draft PR comment job for manual workflow trigger (#894)</code>](https://github.com/elementary/os/commit/12340a2ab19f7f44ec3d85ee9d35e83d8ffeacfd)
 - [ ] [<code>Add passphrase encryption support (#896)</code>](https://github.com/elementary/os/commit/c366a81e26f651090cd6b88e596500a0493f5fd8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add disk space check before free disk space action (#900)</code>](https://github.com/elementary/os/commit/1146a1adb58db1739b36d088115b7886727cec5b)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
