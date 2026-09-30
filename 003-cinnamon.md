@@ -574,7 +574,10 @@
 - [ ] [<code>st-scroll-bar.c: Respect disabled animations</code>](https://github.com/linuxmint/cinnamon/commit/aa840db2b249525537cfe9c8ba16e7b70a7b7254)
 - [ ] [<code>chromeRaise.js (x11): Release a fullscreen window's pointer grab when</code>](https://github.com/linuxmint/cinnamon/commit/dc0c4503e888962ae9ad1e61c6e46ba2096fd591)
 - [ ] [<code>keybindings: Give the modal handler's binding object a get_mask()</code>](https://github.com/linuxmint/cinnamon/commit/a5ed84df597e73cc0ddff7282ba85fd50c6bd047)
+- [ ] [<code>main.js: add tryPushModal and turn pushModal into a wrapper.</code>](https://github.com/linuxmint/cinnamon/commit/4cea354a0872fc01b93546eba82812f2e081faed)
+- [ ] [<code>systray applet: Fix pushModal/endModal calls.</code>](https://github.com/linuxmint/cinnamon/commit/5e717ebbb8c57f094af366ceb272f38f19cee74f)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1073,6 +1076,8 @@
 - [ ] [<code>compositor: Paint viewport-scaled and Xwayland windows at resource</code>](https://github.com/linuxmint/muffin/commit/daf65679b64ac6972086f1b545cfc92343ae26ef)
 - [ ] [<code>events.c: Don't route pointer events to a window while a Clutter grab</code>](https://github.com/linuxmint/muffin/commit/2ff578156a66d002c3121e9cf17d7cfb0eb33c44)
 - [ ] [<code>x11: Do not unminimize windows with initial IconicState (#826)</code>](https://github.com/linuxmint/muffin/commit/cebbf29294328355695cca19df83f2ce7f0266ad)
+- [ ] [<code>keybindings: Don't trigger modifier-only bindings after zoom scrolling (#866)</code>](https://github.com/linuxmint/muffin/commit/1dd338942cdd7d444ffe8f318ace1a303fa7a881)
+- [ ] [<code>x11: Seed client_rect with frame-relative coords for framed windows (#841)</code>](https://github.com/linuxmint/muffin/commit/43f271b6be01fe668eb8259af00ba164b82a128b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
