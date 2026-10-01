@@ -634,6 +634,9 @@
 - [ ] [<code>Use Granite.Box (#281)</code>](https://github.com/elementary/onboarding/commit/e3877af9b1711d7b39b0e0202d69318778c28b81)
 - [ ] [<code>StyleProvider cleanups (#282)</code>](https://github.com/elementary/onboarding/commit/a36eb978abe2b7243723b7805df40cb48e2f9bc4)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#286)</code>](https://github.com/elementary/onboarding/commit/1e0c3bed75b1a1cf0a3e30e780008a85d74632a4)
+- [ ] [<code>StyleView: drop Act, use settings daemon (#284)</code>](https://github.com/elementary/onboarding/commit/bcdd87f1db4a9c8223e986529ad234f7d64453b2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1218,6 +1221,13 @@
 - [ ] [<code>Icons: update password entry icons (#916)</code>](https://github.com/elementary/granite/commit/a5f8163ea21a2c0d1571817500afba7fbcbfe6cb)
 - [ ] [<code>Styles: make window.devel a purpleprint (#1053)</code>](https://github.com/elementary/granite/commit/0aa45c8ebbf4605c05712226962d052d046d0097)
 - [ ] [<code>Styles/lighting: toplevel shadows (#1034)</code>](https://github.com/elementary/granite/commit/c0d4252dd5227c2e6563f9f84393560118b4b654)
+- [ ] [<code>Styles: support levelbar (#1040)</code>](https://github.com/elementary/granite/commit/0a1d1c10bf8fd73c59491485bc8020c0899f0212)
+- [ ] [<code>Bin/Box: add has_frame property (#1054)</code>](https://github.com/elementary/granite/commit/17108ca18874a0ca615cf2b9d43060815fd2ca17)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Icons: update for GTK 4.20 (#1058)</code>](https://github.com/elementary/granite/commit/7dfab57171c307b09661857972fd84f660c155e5)
+- [ ] [<code>Add AccentColor enum and style radios (#1057)</code>](https://github.com/elementary/granite/commit/63b9e99b9c879d14dbbaa540bb88970ba1a24806)
+- [ ] [<code>Styles: use hyphens in color constants (#1059)</code>](https://github.com/elementary/granite/commit/a39cbe1a07fdf399174fe573ab9976963509916e)
+- [ ] [<code>Styles: color symbolic icons (#1060)</code>](https://github.com/elementary/granite/commit/9e4a16d10cdf78baf1cc74fc3abffbfae095434c)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1467,3 +1477,4 @@
 - [ ] [<code>Rename applications menu package (#171)</code>](https://github.com/elementary/seeds/commit/f740397f2ade5e31861d0fe4cd26d9f8300c6584)
 - [ ] [<code>Desktop: update name for panel-sound (#172)</code>](https://github.com/elementary/seeds/commit/1282dc561efac3cccf33584234ae423e59a5096b)
 - [ ] [<code>SDK: system-settings deps (#173)</code>](https://github.com/elementary/seeds/commit/857fac7c484868cc3288ff6837a62e28e9d424e5)
+- [ ] [<code>Desktop: Add udev rules for Steam devices (#148)</code>](https://github.com/elementary/seeds/commit/f37e02923147deea84ba26156122459548755447)
