@@ -9,6 +9,7 @@
 - [ ] [<code>FlatpakBackend: reduce path/file conversions (#2441)</code>](https://github.com/elementary/appcenter/commit/529f45c3a255b1bd983f700e81cf722565aa0aee)
 - [ ] [<code>Homepage: guard against carousel errors (#2442)</code>](https://github.com/elementary/appcenter/commit/80fb22175d79b8806fca9f4983a4eacf2e853fd7)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2446)</code>](https://github.com/elementary/appcenter/commit/930ab00945f023294e2085c103d82ff0497051a0)
+- [ ] [<code>FlatpakBackend: Fix xml handling with newer libxml (#2447)</code>](https://github.com/elementary/appcenter/commit/c6154de4205a2930b41abaf3b5f07a82b95e1452)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -1337,6 +1338,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Metainfo: add 8.3.0 release notes (#195)</code>](https://github.com/elementary/portals/commit/04898d7a25c9ac3f1a9fd1c6c74527ad824c834a)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#197)</code>](https://github.com/elementary/portals/commit/cfc8c16fa7b419be2617b418db9d40c548292102)
+- [ ] [<code>Let Granite handle dark style loading (#200)</code>](https://github.com/elementary/portals/commit/3a8080ca8d42d09b34b2ef8d31dd53efcce5c65d)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -1447,6 +1449,8 @@
 - [ ] [<code>Add disk space check before free disk space action (#900)</code>](https://github.com/elementary/os/commit/1146a1adb58db1739b36d088115b7886727cec5b)
 - [ ] [<code>Less compression on proposed releases. (#901)</code>](https://github.com/elementary/os/commit/624d6bdc25de04561fcd221a4e181c45238a86d3)
 - [ ] [<code>Add libtss2-rc0 (#899)</code>](https://github.com/elementary/os/commit/1cc3f23c08a3acaae4a880cfbfab5d925d8aa706)
+- [ ] [<code>CUPS: Fix pk-helper permissions (#902)</code>](https://github.com/elementary/os/commit/33abc75a35e9b9ca945ace083e0d1326572ca865)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
