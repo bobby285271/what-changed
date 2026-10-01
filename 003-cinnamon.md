@@ -845,6 +845,9 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ddb43425b35aaf15a8d5ba74059b5b72c2a383e2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2...HEAD)
 
+- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-l-icons/commit/6704f76e4e2ff9bd81be0ddda413e0f44815003c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/mint-l-icons/commit/0b22e7cc69f11e8472065cfc9309add51f403cfc)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
@@ -857,9 +860,17 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.7...HEAD)
 
+- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-x-icons/commit/e481632c1230fbf08a77656827a0d354eae4c87b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.8</code>](https://github.com/linuxmint/mint-x-icons/commit/4663ef34e6b37684a6572a1c70ed7ac1c67381f6)
+  - <sub>Tags: <code>1.7.8</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.4 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.4...HEAD)
 
+- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-y-icons/commit/0fbee69be68b20064e67a9e0615793195fb11169)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.5</code>](https://github.com/linuxmint/mint-y-icons/commit/be1ce0a11cea935b5a776ac8a9ba5be7b04792ce)
+  - <sub>Tags: <code>1.9.5</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1078,6 +1089,12 @@
 - [ ] [<code>x11: Do not unminimize windows with initial IconicState (#826)</code>](https://github.com/linuxmint/muffin/commit/cebbf29294328355695cca19df83f2ce7f0266ad)
 - [ ] [<code>keybindings: Don't trigger modifier-only bindings after zoom scrolling (#866)</code>](https://github.com/linuxmint/muffin/commit/1dd338942cdd7d444ffe8f318ace1a303fa7a881)
 - [ ] [<code>x11: Seed client_rect with frame-relative coords for framed windows (#841)</code>](https://github.com/linuxmint/muffin/commit/43f271b6be01fe668eb8259af00ba164b82a128b)
+- [ ] [<code>wayland/subsurface: Move actor unparenting back to rebuild_surface_tr… (#796)</code>](https://github.com/linuxmint/muffin/commit/c32b8735984cd323583146e9a40a9a6247f5f3b1)
+- [ ] [<code>layer-shell: Remove actors of destroyed subsurfaces.</code>](https://github.com/linuxmint/muffin/commit/b1339a2c0c047d9857a9b5d45f6ad61394492023)
+- [ ] [<code>meta-window-actor-wayland.c:  Skip surface actors hosted by a layer</code>](https://github.com/linuxmint/muffin/commit/b70d77f5b621d163b94fe3429bfff837da4886e1)
+- [ ] [<code>core: Do not abort on overflowing window positions in edge resistance (#861)</code>](https://github.com/linuxmint/muffin/commit/a64358b5aafa988d65bdee8f9d5571882e8498df)
+- [ ] [<code>wayland/xdg-shell: Ensure applied window geometry is always non-empty</code>](https://github.com/linuxmint/muffin/commit/e192d2e8957ce9ea0e8554a53e8a48295e684e52)
+- [ ] [<code>Restore edge-resistance-window setting (#828)</code>](https://github.com/linuxmint/muffin/commit/60223740c24dc88af552a00220ce3287220362a4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
