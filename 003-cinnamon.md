@@ -576,8 +576,11 @@
 - [ ] [<code>keybindings: Give the modal handler's binding object a get_mask()</code>](https://github.com/linuxmint/cinnamon/commit/a5ed84df597e73cc0ddff7282ba85fd50c6bd047)
 - [ ] [<code>main.js: add tryPushModal and turn pushModal into a wrapper.</code>](https://github.com/linuxmint/cinnamon/commit/4cea354a0872fc01b93546eba82812f2e081faed)
 - [ ] [<code>systray applet: Fix pushModal/endModal calls.</code>](https://github.com/linuxmint/cinnamon/commit/5e717ebbb8c57f094af366ceb272f38f19cee74f)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybindings.js: Add is_reversed() to modal synthetic binding.</code>](https://github.com/linuxmint/cinnamon/commit/966675450bd540b53f96a924906cc87867224712)
+- [ ] [<code>appswitcher: Fix Alt+Shift+Tab (13717) (#13743)</code>](https://github.com/linuxmint/cinnamon/commit/30b8bc9599551bd6d22a455049c8baf2784b1ecd)
+- [ ] [<code>dnd.js: Don't leave the drag grab held when the drag actor is destroyed</code>](https://github.com/linuxmint/cinnamon/commit/2803c67d493bac8bd032df6898bca269153e887b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
