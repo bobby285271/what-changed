@@ -1229,6 +1229,10 @@
 - [ ] [<code>Add AccentColor enum and style radios (#1057)</code>](https://github.com/elementary/granite/commit/63b9e99b9c879d14dbbaa540bb88970ba1a24806)
 - [ ] [<code>Styles: use hyphens in color constants (#1059)</code>](https://github.com/elementary/granite/commit/a39cbe1a07fdf399174fe573ab9976963509916e)
 - [ ] [<code>Styles: color symbolic icons (#1060)</code>](https://github.com/elementary/granite/commit/9e4a16d10cdf78baf1cc74fc3abffbfae095434c)
+- [ ] [<code>Always Build GTK stylesheets (#1067)</code>](https://github.com/elementary/granite/commit/51f250b26c8795e22e60e489860b267336f0d50a)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Controls: absorb inset shadow func (#1062)</code>](https://github.com/elementary/granite/commit/dfd72ffbfae2ed429dfc2ad70491035089268bfe)
+- [ ] [<code>Styles: use css var for control radius instead of mixin (#1064)</code>](https://github.com/elementary/granite/commit/d1be3868ab5d89ffbd48f079256061f81ce81462)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1339,6 +1343,7 @@
 - [ ] [<code>Metainfo: add 8.3.0 release notes (#195)</code>](https://github.com/elementary/portals/commit/04898d7a25c9ac3f1a9fd1c6c74527ad824c834a)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#197)</code>](https://github.com/elementary/portals/commit/cfc8c16fa7b419be2617b418db9d40c548292102)
 - [ ] [<code>Let Granite handle dark style loading (#200)</code>](https://github.com/elementary/portals/commit/3a8080ca8d42d09b34b2ef8d31dd53efcce5c65d)
+- [ ] [<code>Use Granite.Box (#199)</code>](https://github.com/elementary/portals/commit/d4b0ce85cf5a53df00d40905dc00f605ff009c26)
 ## repos
 
 #### [os](https://github.com/elementary/os): [8.0.0-rc3 → HEAD](https://github.com/elementary/os/compare/8.0.0-rc3...HEAD)
@@ -1451,6 +1456,8 @@
 - [ ] [<code>Add libtss2-rc0 (#899)</code>](https://github.com/elementary/os/commit/1cc3f23c08a3acaae4a880cfbfab5d925d8aa706)
 - [ ] [<code>CUPS: Fix pk-helper permissions (#902)</code>](https://github.com/elementary/os/commit/33abc75a35e9b9ca945ace083e0d1326572ca865)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Units: Batch unit fixing (#904)</code>](https://github.com/elementary/os/commit/dd7f5074426952b3d28b1536ffcb3582bec5f2ac)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -1482,3 +1489,4 @@
 - [ ] [<code>Desktop: update name for panel-sound (#172)</code>](https://github.com/elementary/seeds/commit/1282dc561efac3cccf33584234ae423e59a5096b)
 - [ ] [<code>SDK: system-settings deps (#173)</code>](https://github.com/elementary/seeds/commit/857fac7c484868cc3288ff6837a62e28e9d424e5)
 - [ ] [<code>Desktop: Add udev rules for Steam devices (#148)</code>](https://github.com/elementary/seeds/commit/f37e02923147deea84ba26156122459548755447)
+- [ ] [<code>SDK: make gdb depends (#176)</code>](https://github.com/elementary/seeds/commit/14c2cf95b32962b857589a0bac3198f80a331bce)
