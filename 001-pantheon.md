@@ -1233,6 +1233,7 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Controls: absorb inset shadow func (#1062)</code>](https://github.com/elementary/granite/commit/dfd72ffbfae2ed429dfc2ad70491035089268bfe)
 - [ ] [<code>Styles: use css var for control radius instead of mixin (#1064)</code>](https://github.com/elementary/granite/commit/d1be3868ab5d89ffbd48f079256061f81ce81462)
+- [ ] [<code>Controls: absorb border-interactive and outset-shadow (#1063)</code>](https://github.com/elementary/granite/commit/bbdb427850d277ef1f33cd76768f5ebb8887ca55)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1458,6 +1459,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Units: Batch unit fixing (#904)</code>](https://github.com/elementary/os/commit/dd7f5074426952b3d28b1536ffcb3582bec5f2ac)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Set iso application-id tag (#905)</code>](https://github.com/elementary/os/commit/f5e773c6584cab6ba7d95f9efbaf858a0f8138ac)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
