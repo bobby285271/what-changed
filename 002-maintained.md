@@ -280,6 +280,7 @@
 - [ ] [<code>Fixing wording</code>](https://github.com/phase1geo/minder/commit/82942a04cf344f329ef61c87882989cfe0eb194c)
 - [ ] [<code>Merge pull request #752 from be-we/patch-3</code>](https://github.com/phase1geo/minder/commit/3c6c57ed32df53e8219bef1fcb97d6944220a195)
 - [ ] [<code>Merge pull request #751 from be-we/patch-2</code>](https://github.com/phase1geo/minder/commit/fd9c8b2c4cb53e0ec60aff8474d07284850063e3)
+- [ ] [<code>Updating icons in Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/f91582c980c43d89e71563a589a90b7cb509f077)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
