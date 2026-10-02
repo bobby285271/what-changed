@@ -580,7 +580,9 @@
 - [ ] [<code>keybindings.js: Add is_reversed() to modal synthetic binding.</code>](https://github.com/linuxmint/cinnamon/commit/966675450bd540b53f96a924906cc87867224712)
 - [ ] [<code>appswitcher: Fix Alt+Shift+Tab (13717) (#13743)</code>](https://github.com/linuxmint/cinnamon/commit/30b8bc9599551bd6d22a455049c8baf2784b1ecd)
 - [ ] [<code>dnd.js: Don't leave the drag grab held when the drag actor is destroyed</code>](https://github.com/linuxmint/cinnamon/commit/2803c67d493bac8bd032df6898bca269153e887b)
+- [ ] [<code>power applet: disconnect signals and cancel pending calls on removal (#13949)</code>](https://github.com/linuxmint/cinnamon/commit/528fbedcaaaf34d2035a82a9ef852a75b822e874)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -861,12 +863,8 @@
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/a022d8d99c3c33d9f1b0c823eeb3a89530f20ab7)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.7...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.8...HEAD)
 
-- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-x-icons/commit/e481632c1230fbf08a77656827a0d354eae4c87b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.8</code>](https://github.com/linuxmint/mint-x-icons/commit/4663ef34e6b37684a6572a1c70ed7ac1c67381f6)
-  - <sub>Tags: <code>1.7.8</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.4 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.4...HEAD)
 
@@ -1217,8 +1215,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-places-sidebar.c: Don't use gtk_get_current_event() for eject</code>](https://github.com/linuxmint/nemo/commit/dbddddb908a9e706417f0cdfecc229eceaa67d4f)
 - [ ] [<code>nemo-search-engine-advanced.c: Fix Unicode content search (#3829)</code>](https://github.com/linuxmint/nemo/commit/2e695993e3c2efe1097d2c8893acc3e848819913)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-icon-container.c: Report the scroll region height as the preferred</code>](https://github.com/linuxmint/nemo/commit/b554532b194ad4220ef2bef2cccd71dfe474866b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
