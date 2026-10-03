@@ -325,6 +325,8 @@
 - [ ] [<code>fix: keep subtasks out of the top level of All Tasks (#2713)</code>](https://github.com/alainm23/planify/commit/49d2bffe240735cd4a99a8dc56cd493efe2e08a8)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: invalidate a parent's cached subtasks when a subtask is added, moved or completed (#2710)</code>](https://github.com/alainm23/planify/commit/d3f24a77d2384bda819dc87813e33aede5298bff)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
