@@ -571,6 +571,8 @@
 - [ ] [<code>Add CI workflow for pull requests (#20)</code>](https://github.com/elementary/sound-theme/commit/6f65dae87847f4a80f3d1e750eea0be385315759)
 - [ ] [<code>Meson: add min version, follow_symlinks: false</code>](https://github.com/elementary/sound-theme/commit/06e773b65939ca347bb70ad53f7d8e30e2db6c9e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Borrow KDE's ocean sound theme dialog-warning-auth.oga (#23)</code>](https://github.com/elementary/sound-theme/commit/27dc1f0ca5f70224de36b7ecd25b004481270590)
+- [ ] [<code>README: Refer to copyright in deb-packaging (#25)</code>](https://github.com/elementary/sound-theme/commit/8515a06180a3a58101eb96bbfe067789843a72b4)
 
 #### [pantheon.elementary-wallpapers](https://github.com/elementary/wallpapers): [8.0.0 → HEAD](https://github.com/elementary/wallpapers/compare/8.0.0...HEAD)
 
