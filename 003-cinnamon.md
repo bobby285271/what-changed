@@ -866,12 +866,8 @@
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.8...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.4 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.4...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.5...HEAD)
 
-- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-y-icons/commit/0fbee69be68b20064e67a9e0615793195fb11169)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.5</code>](https://github.com/linuxmint/mint-y-icons/commit/be1ce0a11cea935b5a776ac8a9ba5be7b04792ce)
-  - <sub>Tags: <code>1.9.5</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
