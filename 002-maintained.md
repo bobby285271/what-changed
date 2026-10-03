@@ -306,6 +306,8 @@
 - [ ] [<code>Declare schema key constants (#373)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cc0fd15804aa8aff4b5bbc4203f7a8323a68c944)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>BasePane: Generalize showing toast message (#374)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8ec0cd69b02cfd8399981508e5e9f94d96c7382c)
+- [ ] [<code>Use U+201C and U+201D for quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/aa356955e1f0e53313370b05aed7f5334d761d13)
+- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b16306849bd15a51e0398018fe67e35a56ab4064)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
@@ -317,6 +319,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cc26aaed3772d224e63ff70658a18f38780e8d63)
 - [ ] [<code>add 200 (#2705)</code>](https://github.com/alainm23/planify/commit/71beb8cb78dfeb4a433d8b93914b743500708b86)
+- [ ] [<code>fix: don't leave a moved task greyed out, or move it onto its own list (#2712)</code>](https://github.com/alainm23/planify/commit/073df994b15e66b9d11b77a807374fe3de36b618)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6a62a993a78a438474ef5ccc42bc8f600fdfb282)
+- [ ] [<code>fix(caldav): capture source URL before mutating extra_data in move fallback (#2727)</code>](https://github.com/alainm23/planify/commit/cdad81e8702a62c285e3e0540eca40793643acb9)
+- [ ] [<code>fix: keep subtasks out of the top level of All Tasks (#2713)</code>](https://github.com/alainm23/planify/commit/49d2bffe240735cd4a99a8dc56cd493efe2e08a8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
