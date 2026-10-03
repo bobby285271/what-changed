@@ -679,6 +679,7 @@
 - [ ] [<code>Actions: Update gettext-template (#2932)</code>](https://github.com/elementary/gala/commit/d1ea07e84eff648d0f08667ee1d8a3eebd55450f)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2933)</code>](https://github.com/elementary/gala/commit/7c051bb1ee02e15fddd87f78552f0b9df74bd503)
 - [ ] [<code>ShellClientsManager: Focus the greeter window when it is shown (#2937)</code>](https://github.com/elementary/gala/commit/f804092eca973f1a3dc3d2f069b7b9947a78eaa4)
+- [ ] [<code>CloseDialog: Don't send response when closed by mutter (#2944)</code>](https://github.com/elementary/gala/commit/2f044d8a94eebf2c9efb58bf09d585202b4ceb7e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
