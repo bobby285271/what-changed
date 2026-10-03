@@ -583,6 +583,8 @@
 - [ ] [<code>power applet: disconnect signals and cancel pending calls on removal (#13949)</code>](https://github.com/linuxmint/cinnamon/commit/528fbedcaaaf34d2035a82a9ef852a75b822e874)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon/commit/c4f752f28d3c79cefe31d83592ca7611d41a1c61)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -678,8 +680,10 @@
 - [ ] [<code>gnome-wall-clock.c: Fix use-after-free in 'changed' signal handlers. (#276)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/5a4a7539fa4c7cabfc36e0ea224b942b1b703bde)
 - [ ] [<code>gnome-bg: don't serve a smaller cached pixbuf to a larger request (#277)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/daaf90120cab1170ac835f6bca6c6202558b124e)
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8fef0441145ddb27a2576d7321384da28d3ff304)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4252e0ba45f9a4fd0a4087dac7c20c0059197ea1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -829,8 +833,10 @@
 - [ ] [<code>wacom: Use the GDK Wayland device node path on Wayland (#473)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/754b09c7c521ffae163d4480133f6740c7ab03de)
 - [ ] [<code>screensaver-proxy: stop losing track of inhibitors (#465)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/e6faafba0cc591f3dd77813e2b88467b9beef158)
 - [ ] [<code>6.7.5-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7e5fb6516a150205b0976f683e49e7339e927d0b)
-  - <sub>Tags: <code>6.7.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f17910750fef1f32b4d1cec767b2f3fa41dc89c1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -853,6 +859,9 @@
 - [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-l-icons/commit/6704f76e4e2ff9bd81be0ddda413e0f44815003c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.8.4</code>](https://github.com/linuxmint/mint-l-icons/commit/0b22e7cc69f11e8472065cfc9309add51f403cfc)
+- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-l-icons/commit/39d64364af8d37510d7d345e009527518823f5f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.5</code>](https://github.com/linuxmint/mint-l-icons/commit/dbf96f024f7d06905d35edb40a7f127b8e54af65)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
@@ -860,14 +869,26 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.1...HEAD)
 
-- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/a022d8d99c3c33d9f1b0c823eeb3a89530f20ab7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Add support for libadapta 1.5</code>](https://github.com/linuxmint/mint-themes/commit/72897f3ee5f36dac2a3108a0958ba002d0ac947e)
+- [ ] [<code>adwaita: Fix squashed close button in about dialogs</code>](https://github.com/linuxmint/mint-themes/commit/a94e2292cb25a8d9505f112aedc360891beb3eb7)
+- [ ] [<code>2.4.2</code>](https://github.com/linuxmint/mint-themes/commit/bde8f9a4d0dd815509badc197e13ac2e4392f263)
+  - <sub>Tags: <code>2.4.2</code></sub>
+- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.8...HEAD)
 
+- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-x-icons/commit/a3e0bb0431fd53361f00fc5383caab79a126b7a9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-x-icons/commit/2df5bff10ca606e8c60b6b925dbf52a2d2f43d48)
+  - <sub>Tags: <code>1.7.9</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.5...HEAD)
 
+- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-y-icons/commit/a27eae1954d429b4fdd01b94cb4a0b1e445b4f1b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-y-icons/commit/545eda37945206062c1814fc9a99efbe69e6bcd1)
+  - <sub>Tags: <code>1.9.6</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1092,7 +1113,10 @@
 - [ ] [<code>core: Do not abort on overflowing window positions in edge resistance (#861)</code>](https://github.com/linuxmint/muffin/commit/a64358b5aafa988d65bdee8f9d5571882e8498df)
 - [ ] [<code>wayland/xdg-shell: Ensure applied window geometry is always non-empty</code>](https://github.com/linuxmint/muffin/commit/e192d2e8957ce9ea0e8554a53e8a48295e684e52)
 - [ ] [<code>Restore edge-resistance-window setting (#828)</code>](https://github.com/linuxmint/muffin/commit/60223740c24dc88af552a00220ce3287220362a4)
+- [ ] [<code>build: Drop the unused dbus-1 dependency (#868)</code>](https://github.com/linuxmint/muffin/commit/7811cd96a80960a942cec33808b5f2970c6a7264)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1213,6 +1237,7 @@
 - [ ] [<code>nemo-search-engine-advanced.c: Fix Unicode content search (#3829)</code>](https://github.com/linuxmint/nemo/commit/2e695993e3c2efe1097d2c8893acc3e848819913)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-icon-container.c: Report the scroll region height as the preferred</code>](https://github.com/linuxmint/nemo/commit/b554532b194ad4220ef2bef2cccd71dfe474866b)
+- [ ] [<code>Add support for velocitty</code>](https://github.com/linuxmint/nemo/commit/0dba39ef5a6e02c4feaa0022257bea1f7b839a7d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
