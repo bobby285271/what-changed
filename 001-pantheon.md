@@ -10,6 +10,8 @@
 - [ ] [<code>Homepage: guard against carousel errors (#2442)</code>](https://github.com/elementary/appcenter/commit/80fb22175d79b8806fca9f4983a4eacf2e853fd7)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2446)</code>](https://github.com/elementary/appcenter/commit/930ab00945f023294e2085c103d82ff0497051a0)
 - [ ] [<code>FlatpakBackend: Fix xml handling with newer libxml (#2447)</code>](https://github.com/elementary/appcenter/commit/c6154de4205a2930b41abaf3b5f07a82b95e1452)
+- [ ] [<code>LinkListBox: use Granite.ListItem (#2449)</code>](https://github.com/elementary/appcenter/commit/4ec5138fd6e6367cb518b177a857c859ea7c7082)
+- [ ] [<code>FlatpakBackend: only inhibit during write jobs (#2451)</code>](https://github.com/elementary/appcenter/commit/9182fd7f86cae94ef973802e1841c6cf13957e04)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -680,6 +682,8 @@
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#2933)</code>](https://github.com/elementary/gala/commit/7c051bb1ee02e15fddd87f78552f0b9df74bd503)
 - [ ] [<code>ShellClientsManager: Focus the greeter window when it is shown (#2937)</code>](https://github.com/elementary/gala/commit/f804092eca973f1a3dc3d2f069b7b9947a78eaa4)
 - [ ] [<code>CloseDialog: Don't send response when closed by mutter (#2944)</code>](https://github.com/elementary/gala/commit/2f044d8a94eebf2c9efb58bf09d585202b4ceb7e)
+- [ ] [<code>Don't use `Clutter.get_default_backend ()` on mutter 47+ (#2942)</code>](https://github.com/elementary/gala/commit/a8eaf3347134ba484211d9f9b832fac440293def)
+- [ ] [<code>Restrict screenshot D-Bus access to portal (#2940)</code>](https://github.com/elementary/gala/commit/b2ae07929a78f7f5157f757312a19c87b088b2e6)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1463,6 +1467,8 @@
 - [ ] [<code>Units: Batch unit fixing (#904)</code>](https://github.com/elementary/os/commit/dd7f5074426952b3d28b1536ffcb3582bec5f2ac)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Set iso application-id tag (#905)</code>](https://github.com/elementary/os/commit/f5e773c6584cab6ba7d95f9efbaf858a0f8138ac)
+- [ ] [<code>Extensions: Merge modules and runtime (#907)</code>](https://github.com/elementary/os/commit/6c6ba56ac49b35a8a80f082ecaae140c208fcb20)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
