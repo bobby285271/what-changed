@@ -281,6 +281,8 @@
 - [ ] [<code>Merge pull request #752 from be-we/patch-3</code>](https://github.com/phase1geo/minder/commit/3c6c57ed32df53e8219bef1fcb97d6944220a195)
 - [ ] [<code>Merge pull request #751 from be-we/patch-2</code>](https://github.com/phase1geo/minder/commit/fd9c8b2c4cb53e0ec60aff8474d07284850063e3)
 - [ ] [<code>Updating icons in Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/f91582c980c43d89e71563a589a90b7cb509f077)
+- [ ] [<code>Updating German translation</code>](https://github.com/phase1geo/minder/commit/c675e74187f388951c4fa1d86e0f356f8457b0e2)
+- [ ] [<code>Merge pull request #754 from be-we/master</code>](https://github.com/phase1geo/minder/commit/dd7abd76eda84d1cac6cd20eeeec5aeff4692a4a)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -396,6 +398,14 @@
 - [ ] [<code>CI: Udate docker/setup-qemu-action to v4</code>](https://github.com/ellie-commons/taxi/commit/c40fa099e3d4ab952f2a27c846682c98e568b35f)
 - [ ] [<code>CI: Remove QEMU and test aarch64 directly on ubuntu-24.04-arm</code>](https://github.com/ellie-commons/taxi/commit/737d8b708bfa7ec6039cca4ebee26a4ba8b54a81)
 - [ ] [<code>Flatpak: Update to runtime version 8.2 (#106)</code>](https://github.com/ellie-commons/taxi/commit/2dedddb80f5ba8c0b00d361d3f0712867938ea73)
+- [ ] [<code>Prevent app from trying connection when url is empty (#47)</code>](https://github.com/ellie-commons/taxi/commit/2404f259f95cfd6b0b099cc22565f8c9db495c73)
+- [ ] [<code>Add EditorConfig (#113)</code>](https://github.com/ellie-commons/taxi/commit/c6d88db07ac6d37ece1134dd6fe75c70fa0a00e0)
+- [ ] [<code>Update screenshot (#109)</code>](https://github.com/ellie-commons/taxi/commit/cccc45236275a6a9a0de2776b4d4d98534552c35)
+- [ ] [<code>Update elementary runtime to 9.1 (#108)</code>](https://github.com/ellie-commons/taxi/commit/8660d0807fec47523bf70ebe6573a4da7cd8423a)
+- [ ] [<code>Fix some deprecation warnings (#112)</code>](https://github.com/ellie-commons/taxi/commit/5564fb02ae002d3a8006fa24a37b871aa02d6bba)
+- [ ] [<code>Rely on Granite.StyleManager for dark style (#111)</code>](https://github.com/ellie-commons/taxi/commit/b61e370f5beb83fec2a5e4821e35f5330f0575cd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
