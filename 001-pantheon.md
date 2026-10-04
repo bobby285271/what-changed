@@ -684,6 +684,7 @@
 - [ ] [<code>CloseDialog: Don't send response when closed by mutter (#2944)</code>](https://github.com/elementary/gala/commit/2f044d8a94eebf2c9efb58bf09d585202b4ceb7e)
 - [ ] [<code>Don't use `Clutter.get_default_backend ()` on mutter 47+ (#2942)</code>](https://github.com/elementary/gala/commit/a8eaf3347134ba484211d9f9b832fac440293def)
 - [ ] [<code>Restrict screenshot D-Bus access to portal (#2940)</code>](https://github.com/elementary/gala/commit/b2ae07929a78f7f5157f757312a19c87b088b2e6)
+- [ ] [<code>Shaders: use matrices where possible (#2946)</code>](https://github.com/elementary/gala/commit/789076bd83fae351f17f390668d1c94a1f2f8253)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1341,6 +1342,7 @@
 
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.1.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.1.0...HEAD)
 
+- [ ] [<code>Gcr: Correct order of texts in dialogs (#120)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/398972c8b41efa85c540ce6358d4f215d488e11c)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
