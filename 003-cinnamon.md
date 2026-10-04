@@ -854,11 +854,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ddb43425b35aaf15a8d5ba74059b5b72c2a383e2 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ddb43425b35aaf15a8d5ba74059b5b72c2a383e2...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [0b22e7cc69f11e8472065cfc9309add51f403cfc → HEAD](https://github.com/linuxmint/mint-l-icons/compare/0b22e7cc69f11e8472065cfc9309add51f403cfc...HEAD)
 
-- [ ] [<code>Add ptyxis</code>](https://github.com/linuxmint/mint-l-icons/commit/6704f76e4e2ff9bd81be0ddda413e0f44815003c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/mint-l-icons/commit/0b22e7cc69f11e8472065cfc9309add51f403cfc)
 - [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-l-icons/commit/39d64364af8d37510d7d345e009527518823f5f2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>1.8.5</code>](https://github.com/linuxmint/mint-l-icons/commit/dbf96f024f7d06905d35edb40a7f127b8e54af65)
