@@ -1244,6 +1244,13 @@
 - [ ] [<code>Controls: absorb border-interactive and outset-shadow (#1063)</code>](https://github.com/elementary/granite/commit/bbdb427850d277ef1f33cd76768f5ebb8887ca55)
 - [ ] [<code>Icons: add dialog icons, symlinks (#1073)</code>](https://github.com/elementary/granite/commit/31267df9a8ccea266f3ced9f600d0a1728fad17c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Animate: replace sass functions with CSS vars (#1070)</code>](https://github.com/elementary/granite/commit/9fa0ab5016f74c9882427c9cc28f838733269e75)
+- [ ] [<code>Styles: add background to scrolled.frame, fix header margins in ListBox (#1065)</code>](https://github.com/elementary/granite/commit/d8f428e28a4ae24fd4c88a07dcadbd38f960dc95)
+- [ ] [<code>Styles/Scale: support marks (#1071)</code>](https://github.com/elementary/granite/commit/0afd14d1bf0a1ad5026ebcfac910ea9a07d37794)
+- [ ] [<code>Lighting: remove SASS color-scheme var (#1069)</code>](https://github.com/elementary/granite/commit/52fce40f44c0127e0e92da90934ac2bda8e57fda)
+- [ ] [<code>Styles: combine Gtk and Granite build targets (#1068)</code>](https://github.com/elementary/granite/commit/54aa98fa03838f3dca86bbe06193034a4c0ec77f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1345,6 +1352,7 @@
 #### [pantheon.pantheon-agent-polkit](https://github.com/elementary/pantheon-agent-polkit): [8.1.0 → HEAD](https://github.com/elementary/pantheon-agent-polkit/compare/8.1.0...HEAD)
 
 - [ ] [<code>Gcr: Correct order of texts in dialogs (#120)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/398972c8b41efa85c540ce6358d4f215d488e11c)
+- [ ] [<code>PolkitDialog: Focus on entry after authentication failure animation (#118)</code>](https://github.com/elementary/pantheon-agent-polkit/commit/0417c127ab98a0ae4a12e0b9dd7649edecc14da7)
 
 #### [pantheon.xdg-desktop-portal-pantheon](https://github.com/elementary/portals): [c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8 → HEAD](https://github.com/elementary/portals/compare/c5f6fa1179bfa51429ddf4b2d268c7f2295dfff8...HEAD)
 
