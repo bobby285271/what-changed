@@ -406,6 +406,7 @@
 - [ ] [<code>Rely on Granite.StyleManager for dark style (#111)</code>](https://github.com/ellie-commons/taxi/commit/b61e370f5beb83fec2a5e4821e35f5330f0575cd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Modernize metadata (#110)</code>](https://github.com/ellie-commons/taxi/commit/6a23a4ed21d5c9d7e26d2402f1c55cb4eda28acf)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
