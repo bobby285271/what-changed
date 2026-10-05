@@ -581,9 +581,14 @@
 - [ ] [<code>appswitcher: Fix Alt+Shift+Tab (13717) (#13743)</code>](https://github.com/linuxmint/cinnamon/commit/30b8bc9599551bd6d22a455049c8baf2784b1ecd)
 - [ ] [<code>dnd.js: Don't leave the drag grab held when the drag actor is destroyed</code>](https://github.com/linuxmint/cinnamon/commit/2803c67d493bac8bd032df6898bca269153e887b)
 - [ ] [<code>power applet: disconnect signals and cancel pending calls on removal (#13949)</code>](https://github.com/linuxmint/cinnamon/commit/528fbedcaaaf34d2035a82a9ef852a75b822e874)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon/commit/c4f752f28d3c79cefe31d83592ca7611d41a1c61)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list/window-list: Drop client-pid fallback lookups.</code>](https://github.com/linuxmint/cinnamon/commit/55142127766847d6d50a7905cfae5f2c2b41ad14)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-window-tracker.c: Use meta_window_get_sandboxed_app_id()</code>](https://github.com/linuxmint/cinnamon/commit/eb42913fef9aa7174e73b17bf884cd999d460bd1)
+- [ ] [<code>xapp-status applet: Render absolute-path symbolic icons via a GFileIcon.</code>](https://github.com/linuxmint/cinnamon/commit/482cc6254419acf1388877747d53fd9ff5948625)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1111,9 +1116,10 @@
 - [ ] [<code>wayland/xdg-shell: Ensure applied window geometry is always non-empty</code>](https://github.com/linuxmint/muffin/commit/e192d2e8957ce9ea0e8554a53e8a48295e684e52)
 - [ ] [<code>Restore edge-resistance-window setting (#828)</code>](https://github.com/linuxmint/muffin/commit/60223740c24dc88af552a00220ce3287220362a4)
 - [ ] [<code>build: Drop the unused dbus-1 dependency (#868)</code>](https://github.com/linuxmint/muffin/commit/7811cd96a80960a942cec33808b5f2970c6a7264)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>window.c: Resolve meta_window_get_pid() from the client pid</code>](https://github.com/linuxmint/muffin/commit/537aa58bba30c862715c48b3218201d5da02ef09)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1396,6 +1402,7 @@
 - [ ] [<code>test-scripts: Update qt-system-tray and add -pixmap variant.</code>](https://github.com/linuxmint/xapp/commit/34de3a4ed28e1d399b5a6e4b50e2a0783b5baad5)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>favorite-vfs-file-enumerator.c: Fix infinite loop in next_file().</code>](https://github.com/linuxmint/xapp/commit/ccd8cd30e608ca6b9a534b3138e59788c21eb206)
+- [ ] [<code>test-scripts: Add test for file-based symbolic icons.</code>](https://github.com/linuxmint/xapp/commit/7e47f1ea9237048ff2d724c31ca0c96cc36f1883)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
