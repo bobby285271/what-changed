@@ -329,6 +329,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: invalidate a parent's cached subtasks when a subtask is added, moved or completed (#2710)</code>](https://github.com/alainm23/planify/commit/d3f24a77d2384bda819dc87813e33aede5298bff)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat: drag tasks in All Tasks onto sidebar lists and onto other tasks (#2714)</code>](https://github.com/alainm23/planify/commit/004cb19e383ae0f50f526b39f8ffcc60f6c19061)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c87fdad01e1d064274d482df47743e1a831e3bdb)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
