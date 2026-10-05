@@ -1242,6 +1242,8 @@
 - [ ] [<code>Controls: absorb inset shadow func (#1062)</code>](https://github.com/elementary/granite/commit/dfd72ffbfae2ed429dfc2ad70491035089268bfe)
 - [ ] [<code>Styles: use css var for control radius instead of mixin (#1064)</code>](https://github.com/elementary/granite/commit/d1be3868ab5d89ffbd48f079256061f81ce81462)
 - [ ] [<code>Controls: absorb border-interactive and outset-shadow (#1063)</code>](https://github.com/elementary/granite/commit/bbdb427850d277ef1f33cd76768f5ebb8887ca55)
+- [ ] [<code>Icons: add dialog icons, symlinks (#1073)</code>](https://github.com/elementary/granite/commit/31267df9a8ccea266f3ced9f600d0a1728fad17c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
