@@ -869,12 +869,8 @@
 
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#27)</code>](https://github.com/linuxmint/mint-l-theme/commit/ea456bb93e7ee00c8dcf9fd1d8823f7790b2d786)
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.1 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.1...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.2...HEAD)
 
-- [ ] [<code>Add support for libadapta 1.5</code>](https://github.com/linuxmint/mint-themes/commit/72897f3ee5f36dac2a3108a0958ba002d0ac947e)
-- [ ] [<code>adwaita: Fix squashed close button in about dialogs</code>](https://github.com/linuxmint/mint-themes/commit/a94e2292cb25a8d9505f112aedc360891beb3eb7)
-- [ ] [<code>2.4.2</code>](https://github.com/linuxmint/mint-themes/commit/bde8f9a4d0dd815509badc197e13ac2e4392f263)
-  - <sub>Tags: <code>2.4.2</code></sub>
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
