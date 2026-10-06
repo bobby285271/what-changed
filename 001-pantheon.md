@@ -1251,6 +1251,7 @@
 - [ ] [<code>Styles: combine Gtk and Granite build targets (#1068)</code>](https://github.com/elementary/granite/commit/54aa98fa03838f3dca86bbe06193034a4c0ec77f)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Styles/lighting: fix missing comma in shadow(3) (#1074)</code>](https://github.com/elementary/granite/commit/c2071aa4b69e2ee6d9758a3fd07e1ce3ef1d7e27)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
