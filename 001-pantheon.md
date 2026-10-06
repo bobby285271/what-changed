@@ -49,6 +49,7 @@
 - [ ] [<code>Lose unused signal, whitespace (#1823)</code>](https://github.com/elementary/code/commit/42fbee2471ad716b94281affaf14e0b046534604)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Simplify search function (#1803)</code>](https://github.com/elementary/code/commit/7b56ffabcd606fa52cd0f4750448ca3566f99b64)
+- [ ] [<code>Fix stale global search result badges (#1822)</code>](https://github.com/elementary/code/commit/07ba77be46b91318190a0cbd2331aef932c5e16a)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -78,6 +79,8 @@
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/feedback/commit/6bb23bf19aa5c49202f7f9cd3c84b5a4f92cefab)
 - [ ] [<code>Actions: Update gettext-template (#138)</code>](https://github.com/elementary/feedback/commit/a4da564ad0c4bea9a468bddd6859a8a9fa2fadc6)
+- [ ] [<code>MainWindow: Remove extra .desktop suffix (#139)</code>](https://github.com/elementary/feedback/commit/d95b58511c129092a73155c73322f66cd13af64d)
+- [ ] [<code>MainWindow: fix Granite deprecations (#142)</code>](https://github.com/elementary/feedback/commit/bd96a284d61c60f564aeb38a8a5e0f57b536cbf4)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
 
@@ -1079,6 +1082,7 @@
 - [ ] [<code>Use new ServerType enum (#361)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/486eaead03826d066cea6409f1f57e98508d66c7)
 - [ ] [<code>ListItem: Fix swipe to dismiss (#363)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/ac78de7b709616bbb6fa0b508f4d58d669df6a9e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: create header settings if it doesn't exist (#360)</code>](https://github.com/elementary/wingpanel-indicator-notifications/commit/033715d6375f62a15cad3edc0829a312a1d78f9b)
 
 #### [pantheon.wingpanel-indicator-power](https://github.com/elementary/wingpanel-indicator-power): [8.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-power/compare/8.0.2...HEAD)
 
