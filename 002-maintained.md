@@ -249,6 +249,48 @@
 
 #### [minder](https://github.com/phase1geo/minder): [refs/tags/2.0.9 → HEAD](https://github.com/phase1geo/minder/compare/refs/tags/2.0.9...HEAD)
 
+- [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/145cb3498ad8c89c6e38c5d1c86a81f65d11b3ef)
+- [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/5866ecca739ed75078eff9fa8ef01f79da5599df)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/44d74e3ee58fb59f33786f38070cc1316e512370)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/development' into development</code>](https://github.com/phase1geo/minder/commit/1afdebc1b6edac4a7c26e7d98aeacab9b2d76d01)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/27f10e90f624fc2c97939ce3c801601db9bfafd0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/812708cd0f1979f2d18a3f3a57a04216e3ffa61a)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/44570d2b3af6a93ddc23d083aaca45f361c9e28a)
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/7eb92f633440f824dc196e60d6e19184a1c944ea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Checkpointing search changes.</code>](https://github.com/phase1geo/minder/commit/8e42f7d94c962343a48b7d4997496b69a088561d)
+- [ ] [<code>Updating Granite version for Flathub.</code>](https://github.com/phase1geo/minder/commit/297c3b745f029617b9a8aa1d655b5a6317a78e11)
+- [ ] [<code>Fixing search issues.</code>](https://github.com/phase1geo/minder/commit/1aad70e417ef29a3d3608cd950a03026b2178f70)
+- [ ] [<code>Merge branch 'warning-fixes' into development</code>](https://github.com/phase1geo/minder/commit/01a420e0523a50f0ded0c83e5bff26b95dd5e7e2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Checkpointing.</code>](https://github.com/phase1geo/minder/commit/831e29ce2ede3308c4f223d3cefaf7b5016c0fc7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Adding SettingsUpdater.</code>](https://github.com/phase1geo/minder/commit/c6aad15a5636a545ee7b9aa5f4bd8310f5f76b0c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'application-id-change' into development</code>](https://github.com/phase1geo/minder/commit/561575baa1008162dd48d471d59e0da6008e2849)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing application ID for translation files.</code>](https://github.com/phase1geo/minder/commit/3d4e172e735a2c84984174dbb11f2c190f5ca75b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Improving UX of search window.</code>](https://github.com/phase1geo/minder/commit/e9b040e6c5f91d94544422874ebb61cd760ff961)
+- [ ] [<code>Adding support for Markdown in callouts and connections.</code>](https://github.com/phase1geo/minder/commit/8145221c465a9730bb1e86e1a7104e5b7a2c2928)
+- [ ] [<code>Fixing display of matched text.</code>](https://github.com/phase1geo/minder/commit/fda7413a5465940c2d8801e5aec83b1b9484a669)
+- [ ] [<code>Updating flatpak manifests.</code>](https://github.com/phase1geo/minder/commit/51f770ea4093d2072fa91024f738fcde4b62a885)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/02bb15b3f012f6767e994ade477db83a241fa9a2)
+- [ ] [<code>Updating version to 2.1.0.</code>](https://github.com/phase1geo/minder/commit/0c8bcb18f12e9880e306e51574147ccbede43b8f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating data directory.</code>](https://github.com/phase1geo/minder/commit/1d914b317329bfd51bff52fb6d58cc0b117e0840)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding support for node attachment keyboard shortcuts.</code>](https://github.com/phase1geo/minder/commit/7d257dfed0a2b2eace37178b4659e21a700ba496)
+- [ ] [<code>Fixing issues with changing attachable node with shortcuts.</code>](https://github.com/phase1geo/minder/commit/500c9f2e63744e858e6d17685aca1b3dccf72ccf)
+- [ ] [<code>Merge branch 'attach-keyboard' into development</code>](https://github.com/phase1geo/minder/commit/a27d0f1ffcc0cf3bc7995b5ad61d8f298f9dcdfe)
+- [ ] [<code>Cleaning up comments.</code>](https://github.com/phase1geo/minder/commit/ed31f16b8ea27343889d45ca87d0528b619460c6)
+- [ ] [<code>Checkpointing work on improving symbolic icon support.</code>](https://github.com/phase1geo/minder/commit/2f744a2a2ea906a3f654faa1a15e310521aa2339)
+- [ ] [<code>Fixing additional icon issues.</code>](https://github.com/phase1geo/minder/commit/c3c68403ae644b32f08c4e14f82e690ab70eb4aa)
+- [ ] [<code>Merge branch 'symbolic-icons' into development</code>](https://github.com/phase1geo/minder/commit/c509bc3add066ed615cf97def15d14a6984b3c99)
 - [ ] [<code>Add distinction between movement and letter keys</code>](https://github.com/phase1geo/minder/commit/42f0713ed3a50765cde3f428913ca14eb0977f93)
 - [ ] [<code>Merge pull request #733 from argothth/fix-732</code>](https://github.com/phase1geo/minder/commit/fac9947173c88bb620c70ae314b363caecdda712)
 - [ ] [<code>Set application name</code>](https://github.com/phase1geo/minder/commit/71f4133a89cfc08d09d8659b66c94d3b4c7863be)
@@ -273,16 +315,69 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge pull request #743 from dragonleopardpig/master</code>](https://github.com/phase1geo/minder/commit/38cc4b4f6a3f77f5c6d859fce3f0ff97da8bffea)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add editable tables to nodes</code>](https://github.com/phase1geo/minder/commit/02090bc4846aa324b7dc9b01ebb66f94b2340251)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Render SVG node images as vectors</code>](https://github.com/phase1geo/minder/commit/1fab74afb5b044c31b7dba3738629dc57ba8caef)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Address table editor review feedback</code>](https://github.com/phase1geo/minder/commit/7767f60849652f5167ccfb5505b029f6a2fb7b1e)
 - [ ] [<code>Fixing display and functional issues with Markdown links</code>](https://github.com/phase1geo/minder/commit/6f4f4d7fba520c43cda9ab6dd42e299ceed60191)
+- [ ] [<code>UI improvements to table editor</code>](https://github.com/phase1geo/minder/commit/e2dc5c1c21293f80ba835548bdde874fc22a6711)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge branch 'feature/node-tables' into development</code>](https://github.com/phase1geo/minder/commit/036f9be34bdc9a3647b9b748acb97f519d24e30d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issues with development branch.</code>](https://github.com/phase1geo/minder/commit/1d4d04c6c19d9c188b761a8f00ec8bef2d7d680b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Merge branch 'feature/vector-svg-images' into development</code>](https://github.com/phase1geo/minder/commit/b441ef6051781bd704e2b7319c26b41dde6644dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing meson.build test list.</code>](https://github.com/phase1geo/minder/commit/7f022b7e5df6ee90730f91e4c0b18f3b9463c800)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/c6e8ce8a3be2844bee2328e436f58a2998b598b4)
+- [ ] [<code>Removing build.minder.</code>](https://github.com/phase1geo/minder/commit/95674a70446c803358ad5a401c03fc8f28ce94c0)
+- [ ] [<code>Fixing ci.yml.</code>](https://github.com/phase1geo/minder/commit/f08fd9ca318dffdf22d3f1778f5f5f21033e1d8a)
+- [ ] [<code>Fixing elementary manifest since 8.3 is not available.</code>](https://github.com/phase1geo/minder/commit/6e0fd89afe02ad32a60f2fb17948a7b2ea0b56d9)
+- [ ] [<code>Fixing warning in TableEditor.vala</code>](https://github.com/phase1geo/minder/commit/70580c6b3af3962f9cf4039ede8e0d801c00a01b)
+- [ ] [<code>More table UI/UX improvements.</code>](https://github.com/phase1geo/minder/commit/87685468dff70a71f35699963a06ed8ef3551dbe)
+- [ ] [<code>Supporting paste of Markdown table</code>](https://github.com/phase1geo/minder/commit/2eba6965608a14b52ae3f957afbe865f316f93ef)
+- [ ] [<code>Changing row/column menubuttons to use new icons.</code>](https://github.com/phase1geo/minder/commit/b4d4dc9e681da23d52f9bfe82197a3d7e62973be)
+- [ ] [<code>Improving shortcut searching to include searching sections and groups.</code>](https://github.com/phase1geo/minder/commit/8d38bc3f7fc9815ff008fef881ce9da513184e39)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing issue with dropping image.</code>](https://github.com/phase1geo/minder/commit/0605e21c8760f862c0dee7973c6e3b56e3ae4340)
+- [ ] [<code>Preserve node images across clipboard paste</code>](https://github.com/phase1geo/minder/commit/4fe72081fc53e58c1b919a3321439058776221fe)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Support single-dollar inline LaTeX</code>](https://github.com/phase1geo/minder/commit/30ed27cc62899502109adc74047fd02e7f7bc4dc)
+- [ ] [<code>Merge branch 'fix/node-image-clipboard' into development</code>](https://github.com/phase1geo/minder/commit/55b48295fc7a1b9ebeea2d708237d41f41d3d5d8)
+- [ ] [<code>Merge branch 'feature/single-dollar-latex' into development</code>](https://github.com/phase1geo/minder/commit/0de2946830a643552bbb16857a76eff4eeea8523)
+- [ ] [<code>Checkpointing priority work.</code>](https://github.com/phase1geo/minder/commit/3d21cf84932d5b69cd8d134ce88d8623fd0f5e1d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding priority number in display.</code>](https://github.com/phase1geo/minder/commit/66024b21d6752450bc58d636e86e3ffb9f5c9e64)
+- [ ] [<code>Adding menu items for priority and adjusting priority draw.</code>](https://github.com/phase1geo/minder/commit/175f0e2902ddb90a2c66b6b947f3bac4142bb906)
+- [ ] [<code>Merge branch 'priority' into development</code>](https://github.com/phase1geo/minder/commit/222a4fd8ee1d56f58f2063dc5e6a23fe11fa2f52)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Adding tables and priority as search criteria.</code>](https://github.com/phase1geo/minder/commit/6f7c50f5019af5b0b922c1671eea6a973437339d)
+- [ ] [<code>Updating 2.1.0 changelist and translation files.</code>](https://github.com/phase1geo/minder/commit/4d01fbe6fa19dbd925a2f97315a8318abb29cce8)
 - [ ] [<code>Fixing typo</code>](https://github.com/phase1geo/minder/commit/20665c744cb18bd15c4a5d8f0fab900b4b94f178)
 - [ ] [<code>Merge pull request #750 from be-we/patch-1</code>](https://github.com/phase1geo/minder/commit/47fc0004c6c6ddf650b0c0ded3fbc4fc2f9fdaa3)
 - [ ] [<code>Fixing typo</code>](https://github.com/phase1geo/minder/commit/67f1b68f6aae71d2a6a154c32a95d9e89d9837f2)
 - [ ] [<code>Fixing wording</code>](https://github.com/phase1geo/minder/commit/82942a04cf344f329ef61c87882989cfe0eb194c)
 - [ ] [<code>Merge pull request #752 from be-we/patch-3</code>](https://github.com/phase1geo/minder/commit/3c6c57ed32df53e8219bef1fcb97d6944220a195)
 - [ ] [<code>Merge pull request #751 from be-we/patch-2</code>](https://github.com/phase1geo/minder/commit/fd9c8b2c4cb53e0ec60aff8474d07284850063e3)
+- [ ] [<code>Merge remote-tracking branch 'origin/master' into development</code>](https://github.com/phase1geo/minder/commit/e0787783e39b0e625c0843f9a576697ac6d2bfb0)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/508caaf8d43eb2d2b3b9d3a9621a11cc01756ced)
+- [ ] [<code>Updating ImageEditor positioning.</code>](https://github.com/phase1geo/minder/commit/3e6e5ec6cd05250e11f8b220555c949a4cef6282)
+- [ ] [<code>Fixing issues with adjusting crop points and default crop size.</code>](https://github.com/phase1geo/minder/commit/45ee1f6715bd028c7de1020994f239f564b765b7)
+- [ ] [<code>Improving window behavior for image and table editor popups.</code>](https://github.com/phase1geo/minder/commit/be96c50fcbb61d70ff2806d93a958ceadd14dc86)
 - [ ] [<code>Updating icons in Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/f91582c980c43d89e71563a589a90b7cb509f077)
+- [ ] [<code>Fixing layout issue when adding new node.</code>](https://github.com/phase1geo/minder/commit/3c721fdc8521c29df79d263f6b6bc2f90594a00b)
+- [ ] [<code>Updating app script.</code>](https://github.com/phase1geo/minder/commit/35e951d3b90a809daa7e1b3021b52fd511f4fee6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing issue #753 and cleaning up potential Gtk warning.</code>](https://github.com/phase1geo/minder/commit/5dcfe2721a816d0515da53c62957bcf32043d2b9)
+- [ ] [<code>Adding LaTeX support to flatpak manifests.</code>](https://github.com/phase1geo/minder/commit/5411011cb6a2cd2eb670da682a5c3225c421cd22)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Attempting to fix CI workflow.</code>](https://github.com/phase1geo/minder/commit/e8914ad274b9005b1bdc544bec88b8966cd3f670)
 - [ ] [<code>Updating German translation</code>](https://github.com/phase1geo/minder/commit/c675e74187f388951c4fa1d86e0f356f8457b0e2)
 - [ ] [<code>Merge pull request #754 from be-we/master</code>](https://github.com/phase1geo/minder/commit/dd7abd76eda84d1cac6cd20eeeec5aeff4692a4a)
+- [ ] [<code>Cutting down size of flatpak builds.</code>](https://github.com/phase1geo/minder/commit/6a11a0c51dc32d05e48cf845268e42f33dc788b8)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Adding docs directory.</code>](https://github.com/phase1geo/minder/commit/5aefb12a67c24a94af34a7dfeeb51caacfa0e287)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Renaming Home.md to index.md.</code>](https://github.com/phase1geo/minder/commit/2cafa5d12a877db1c1d82990ef97162ef007ab88)
@@ -302,6 +397,9 @@
 - [ ] [<code>Updating Node sidebar page.</code>](https://github.com/phase1geo/minder/commit/f8b478b2688213601d04db8f0d984d85d03bca2a)
 - [ ] [<code>Updating node sidebar page.</code>](https://github.com/phase1geo/minder/commit/f69d662331822153534bcd3332b3c36b2cbb685f)
 - [ ] [<code>More updates.</code>](https://github.com/phase1geo/minder/commit/32570583d5aed3733a25727886aced3b4170ee0a)
+- [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/137f92583fcf2d8e08c75a0883ba849343846b9f)
+- [ ] [<code>Merge branch 'development'</code>](https://github.com/phase1geo/minder/commit/0cd9d813bc5eca0124100def25ea7ff187edc350)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -431,6 +529,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Modernize metadata (#110)</code>](https://github.com/ellie-commons/taxi/commit/6a23a4ed21d5c9d7e26d2402f1c55cb4eda28acf)
+- [ ] [<code>Enable Dependabot updates (#116)</code>](https://github.com/ellie-commons/taxi/commit/19a7910a42ea32a52836b313b675a330211b89e9)
+- [ ] [<code>Bump actions/checkout from 4 to 7 (#117)</code>](https://github.com/ellie-commons/taxi/commit/70d66c8ada8a1361969fe56b68180be80ec5af22)
+- [ ] [<code>CI: Update flatpak-platform Docker to 9.1 (#115)</code>](https://github.com/ellie-commons/taxi/commit/3cb4f05e8b95260a774ad1bf6dee2c6c7867e288)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
