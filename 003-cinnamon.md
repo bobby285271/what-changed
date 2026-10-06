@@ -1237,6 +1237,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-icon-container.c: Report the scroll region height as the preferred</code>](https://github.com/linuxmint/nemo/commit/b554532b194ad4220ef2bef2cccd71dfe474866b)
 - [ ] [<code>Add support for velocitty</code>](https://github.com/linuxmint/nemo/commit/0dba39ef5a6e02c4feaa0022257bea1f7b839a7d)
+- [ ] [<code>nemo-view.c: Check all selected files before showing "Open With <app>". (#3853)</code>](https://github.com/linuxmint/nemo/commit/4e16e8481cf05085d54223fa15055b4ce00f4b3a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
