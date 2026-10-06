@@ -283,6 +283,25 @@
 - [ ] [<code>Updating icons in Flathub manifest.</code>](https://github.com/phase1geo/minder/commit/f91582c980c43d89e71563a589a90b7cb509f077)
 - [ ] [<code>Updating German translation</code>](https://github.com/phase1geo/minder/commit/c675e74187f388951c4fa1d86e0f356f8457b0e2)
 - [ ] [<code>Merge pull request #754 from be-we/master</code>](https://github.com/phase1geo/minder/commit/dd7abd76eda84d1cac6cd20eeeec5aeff4692a4a)
+- [ ] [<code>Adding docs directory.</code>](https://github.com/phase1geo/minder/commit/5aefb12a67c24a94af34a7dfeeb51caacfa0e287)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Renaming Home.md to index.md.</code>](https://github.com/phase1geo/minder/commit/2cafa5d12a877db1c1d82990ef97162ef007ab88)
+- [ ] [<code>Attempting to fix index.md links.</code>](https://github.com/phase1geo/minder/commit/513b27f41218792280bfff94c164b5b51a6f0950)
+- [ ] [<code>Fixing table of contents in pages documentation.</code>](https://github.com/phase1geo/minder/commit/199418fcc77d9e03413d3b5e085486a06e895d68)
+- [ ] [<code>More link fixes.</code>](https://github.com/phase1geo/minder/commit/747958c7d1c044a63d328289c8e3dbdc18dca3c5)
+- [ ] [<code>Another round of link fixes.</code>](https://github.com/phase1geo/minder/commit/62badf661382f29ebbfd3dce9c73fa3ff355d346)
+- [ ] [<code>Checkpointing documentation work.</code>](https://github.com/phase1geo/minder/commit/8b9c7109e881f6e3dadb5c5e39d6f237e61ff433)
+- [ ] [<code>Another round of updates to fix navigation.</code>](https://github.com/phase1geo/minder/commit/bce8e177cffa3884b5826c8afebd8fcc49a1fe1b)
+- [ ] [<code>Another update to documentation navigation.</code>](https://github.com/phase1geo/minder/commit/5793ac5e0798b32191170fcc5d6fe6eb7b8960b1)
+- [ ] [<code>Another round.</code>](https://github.com/phase1geo/minder/commit/93fa05bfa844f3a0995cf740b0aa009c368b238d)
+- [ ] [<code>Adding index.md</code>](https://github.com/phase1geo/minder/commit/23ea27ea180ce25b2c5c5e3642fafcd4d800c931)
+- [ ] [<code>Another documentation update.</code>](https://github.com/phase1geo/minder/commit/fccd2a6d5d2345efb6ff1177c91775784f7cced9)
+- [ ] [<code>Another round of documentation updates.</code>](https://github.com/phase1geo/minder/commit/2c3a624048036c1355b9afd50a8cab4b3d4e75b0)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/815285dab27ff05290544eb7641b84175ad3706c)
+- [ ] [<code>Updating documentation.</code>](https://github.com/phase1geo/minder/commit/7fc757388dc188564606f03ca3839a19499ff1e8)
+- [ ] [<code>Updating Node sidebar page.</code>](https://github.com/phase1geo/minder/commit/f8b478b2688213601d04db8f0d984d85d03bca2a)
+- [ ] [<code>Updating node sidebar page.</code>](https://github.com/phase1geo/minder/commit/f69d662331822153534bcd3332b3c36b2cbb685f)
+- [ ] [<code>More updates.</code>](https://github.com/phase1geo/minder/commit/32570583d5aed3733a25727886aced3b4170ee0a)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -333,6 +352,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c87fdad01e1d064274d482df47743e1a831e3bdb)
+- [ ] [<code>fix: check the style radio that was clicked in Appearance (#2731)</code>](https://github.com/alainm23/planify/commit/9ba3ab9fc83ea09634591d11fb0b0b08f2b6b76f)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
