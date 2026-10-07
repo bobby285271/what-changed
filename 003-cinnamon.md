@@ -588,8 +588,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-window-tracker.c: Use meta_window_get_sandboxed_app_id()</code>](https://github.com/linuxmint/cinnamon/commit/eb42913fef9aa7174e73b17bf884cd999d460bd1)
 - [ ] [<code>xapp-status applet: Render absolute-path symbolic icons via a GFileIcon.</code>](https://github.com/linuxmint/cinnamon/commit/482cc6254419acf1388877747d53fd9ff5948625)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>xdndHandler: Pick the actor under the drag position reliably</code>](https://github.com/linuxmint/cinnamon/commit/929bbfa5b9d1e0b75fd9775f9cb9574aef2fdb31)
+- [ ] [<code>hotCorner (Wayland): Ignore hot corners during file drags</code>](https://github.com/linuxmint/cinnamon/commit/42c0ef5ddda7f2abb2d1c78055d1d474ed263498)
+- [ ] [<code>cornerbar applet: Toggle the desktop once per drag entry</code>](https://github.com/linuxmint/cinnamon/commit/45253ca3833187d52e4743c232e001cb663ecee0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix desklet settings for desklets with max instance of -1 (#13594)</code>](https://github.com/linuxmint/cinnamon/commit/a741b355ee349f641c3d52ed542adf2c91ec3fa3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1115,6 +1121,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>window.c: Resolve meta_window_get_pid() from the client pid</code>](https://github.com/linuxmint/muffin/commit/537aa58bba30c862715c48b3218201d5da02ef09)
+- [ ] [<code>window: Don't leave show-desktop mode for override-redirect windows</code>](https://github.com/linuxmint/muffin/commit/d7635aab65cef7ec9f233bec641eb2252e482920)
+- [ ] [<code>dnd: Report Wayland drags over Cinnamon's UI like Xdnd</code>](https://github.com/linuxmint/muffin/commit/9ab25ef5deaa78798998a9524483809f186bd9a4)
+- [ ] [<code>monitor-manager: Keep switch configs across hotplugs</code>](https://github.com/linuxmint/muffin/commit/6d1e64de56e2607e2d9fd3bb6be710f10fbd4fd7)
+- [ ] [<code>monitor-manager: Make Super+P cycle back to the configured layout</code>](https://github.com/linuxmint/muffin/commit/71814a8fe75a22bb9a22432997fcdc604a4bfa3a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
