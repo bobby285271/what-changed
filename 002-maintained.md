@@ -411,6 +411,10 @@
 - [ ] [<code>Fixing image</code>](https://github.com/phase1geo/minder/commit/a943c4db64729caa146cbc523e205e6f70f3978d)
 - [ ] [<code>Fixing canvas node menu.</code>](https://github.com/phase1geo/minder/commit/b43cb7af77e9c232559820cdad5d6a13f207f3e9)
 - [ ] [<code>Adding documentation link to Miscellaneous menu</code>](https://github.com/phase1geo/minder/commit/12360535b809c6e534e518aa1ebad5bdc8049b1f)
+- [ ] [<code>Fixing window placement issue with TableEditor.</code>](https://github.com/phase1geo/minder/commit/e8c39d1a48cfb8bde4b0e6a87ac9d3c4641bba3f)
+- [ ] [<code>Adding images that still need to be documented.</code>](https://github.com/phase1geo/minder/commit/d50f1503f5975626fe8b4175108ca547695f7b2e)
+- [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/51ea9eeff700169247db50fdd18d7bf793935b04)
+- [ ] [<code>Adding documentation for image editor</code>](https://github.com/phase1geo/minder/commit/43c65ca5d02a5e76473be553a58effac1c1341de)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -462,6 +466,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c87fdad01e1d064274d482df47743e1a831e3bdb)
 - [ ] [<code>fix: check the style radio that was clicked in Appearance (#2731)</code>](https://github.com/alainm23/planify/commit/9ba3ab9fc83ea09634591d11fb0b0b08f2b6b76f)
+- [ ] [<code>feat: optional "Use Adwaita Colors" switch in Appearance (#2732)</code>](https://github.com/alainm23/planify/commit/96795a2e8966f58e1afe8f70d0d36560c2ccf398)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/31e1b7d38fe00749ea50ae89d03a643bd55fb387)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
