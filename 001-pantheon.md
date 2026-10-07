@@ -81,6 +81,7 @@
 - [ ] [<code>Actions: Update gettext-template (#138)</code>](https://github.com/elementary/feedback/commit/a4da564ad0c4bea9a468bddd6859a8a9fa2fadc6)
 - [ ] [<code>MainWindow: Remove extra .desktop suffix (#139)</code>](https://github.com/elementary/feedback/commit/d95b58511c129092a73155c73322f66cd13af64d)
 - [ ] [<code>MainWindow: fix Granite deprecations (#142)</code>](https://github.com/elementary/feedback/commit/bd96a284d61c60f564aeb38a8a5e0f57b536cbf4)
+- [ ] [<code>MainWindow: Replace Evince with Papers (#140)</code>](https://github.com/elementary/feedback/commit/0ce2effe3266d61a72b065f541e108d59cdfa8e5)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
 
@@ -599,6 +600,7 @@
 - [ ] [<code>flatpak: Explicitly preinstall GL runtime (#370)</code>](https://github.com/elementary/default-settings/commit/a8e3833d4a122e3989ff3d425eeae81553a19160)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>flatpak: Bump org.freedesktop.Platform.GL.default to 25.08 (#371)</code>](https://github.com/elementary/default-settings/commit/4bd722fabbbc418b6f95ab181cc48f335547dd2c)
+- [ ] [<code>flatpak: Pre-install Papers instead of Evince (#373)</code>](https://github.com/elementary/default-settings/commit/9c098fadb8510dc9143213cfa39a3daef132c0a1)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -688,6 +690,7 @@
 - [ ] [<code>Don't use `Clutter.get_default_backend ()` on mutter 47+ (#2942)</code>](https://github.com/elementary/gala/commit/a8eaf3347134ba484211d9f9b832fac440293def)
 - [ ] [<code>Restrict screenshot D-Bus access to portal (#2940)</code>](https://github.com/elementary/gala/commit/b2ae07929a78f7f5157f757312a19c87b088b2e6)
 - [ ] [<code>Shaders: use matrices where possible (#2946)</code>](https://github.com/elementary/gala/commit/789076bd83fae351f17f390668d1c94a1f2f8253)
+- [ ] [<code>Fix crash in items changed handler (#2948)</code>](https://github.com/elementary/gala/commit/42e199597ddab5196724f7babcdfe63d4701e754)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1486,6 +1489,8 @@
 - [ ] [<code>Set iso application-id tag (#905)</code>](https://github.com/elementary/os/commit/f5e773c6584cab6ba7d95f9efbaf858a0f8138ac)
 - [ ] [<code>Extensions: Merge modules and runtime (#907)</code>](https://github.com/elementary/os/commit/6c6ba56ac49b35a8a80f082ecaae140c208fcb20)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Hide looback devices from graphical interfaces (#893)</code>](https://github.com/elementary/os/commit/cadd7289f068ff627fcd0e02f072ee4391fd3474)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
