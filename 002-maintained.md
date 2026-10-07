@@ -400,6 +400,17 @@
 - [ ] [<code>Merge branch 'master' into development</code>](https://github.com/phase1geo/minder/commit/137f92583fcf2d8e08c75a0883ba849343846b9f)
 - [ ] [<code>Merge branch 'development'</code>](https://github.com/phase1geo/minder/commit/0cd9d813bc5eca0124100def25ea7ff187edc350)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing translation file issues and regenerating.</code>](https://github.com/phase1geo/minder/commit/d6f95f46d11f3a2e6706b94a50469da00876b832)
+- [ ] [<code>Checkpointing</code>](https://github.com/phase1geo/minder/commit/18dfa4b0e1e21464f5264a20511a6da1fd7a9151)
+- [ ] [<code>Checkpointing documentation improvements</code>](https://github.com/phase1geo/minder/commit/1b38a638d60e66ba44205a917f5096cad2a59ff8)
+- [ ] [<code>Updating README.md documentation link.</code>](https://github.com/phase1geo/minder/commit/6d0f801a287c93f0804d0d0eb7cd12eee56e136b)
+- [ ] [<code>Updating and improving introductory text</code>](https://github.com/phase1geo/minder/commit/cd52744cfe26cc253514ddf78d3ba3dea69baa2c)
+- [ ] [<code>Updating README and header bar page.</code>](https://github.com/phase1geo/minder/commit/b9eb198b370bbfabf661efbc7fe1982a35216de6)
+- [ ] [<code>Another round of updates</code>](https://github.com/phase1geo/minder/commit/7b6c42099b4d96d72061b6d99fa6a0f89c0eb172)
+- [ ] [<code>Updating exporting page</code>](https://github.com/phase1geo/minder/commit/59ab893b954fb409a563c11652232e7e4c866f73)
+- [ ] [<code>Fixing image</code>](https://github.com/phase1geo/minder/commit/a943c4db64729caa146cbc523e205e6f70f3978d)
+- [ ] [<code>Fixing canvas node menu.</code>](https://github.com/phase1geo/minder/commit/b43cb7af77e9c232559820cdad5d6a13f207f3e9)
+- [ ] [<code>Adding documentation link to Miscellaneous menu</code>](https://github.com/phase1geo/minder/commit/12360535b809c6e534e518aa1ebad5bdc8049b1f)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
