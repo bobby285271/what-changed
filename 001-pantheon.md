@@ -445,6 +445,9 @@
 
 - [ ] [<code>fix: Rotation not applied on preview on initial load (#456)</code>](https://github.com/elementary/settings-display/commit/9e50d866482b7fecd29db3c8654ef74b32dd532b)
 - [ ] [<code>Actions: Update gettext-template (#458)</code>](https://github.com/elementary/settings-display/commit/5bd8f7d069024111d4489c3ca70cc7b26621136d)
+- [ ] [<code>Introduce Monitor Layout Manager (#423)</code>](https://github.com/elementary/settings-display/commit/c90d41e77e2e6940af522385c64764e39732e10b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Handle inactive monitors better (#447)</code>](https://github.com/elementary/settings-display/commit/931e3c0dba4efac05e9b96dee7fc20a786307421)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
