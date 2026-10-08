@@ -43,6 +43,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
+- [ ] [<code>README: Add missing '--install-deps-from=flathub' (#310)</code>](https://github.com/elementary/camera/commit/5368cecd820324a99f22c43bfaffcde56e6fad66)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
@@ -1494,6 +1495,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Hide looback devices from graphical interfaces (#893)</code>](https://github.com/elementary/os/commit/cadd7289f068ff627fcd0e02f072ee4391fd3474)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rollback to nvidia-595 (#910)</code>](https://github.com/elementary/os/commit/8be1d1239f3c9f730c227f9628fa252a04527274)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
