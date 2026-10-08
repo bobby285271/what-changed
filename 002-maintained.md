@@ -415,6 +415,9 @@
 - [ ] [<code>Adding images that still need to be documented.</code>](https://github.com/phase1geo/minder/commit/d50f1503f5975626fe8b4175108ca547695f7b2e)
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/51ea9eeff700169247db50fdd18d7bf793935b04)
 - [ ] [<code>Adding documentation for image editor</code>](https://github.com/phase1geo/minder/commit/43c65ca5d02a5e76473be553a58effac1c1341de)
+- [ ] [<code>Fixing information in several pages.</code>](https://github.com/phase1geo/minder/commit/753d1496e752e45403317bc48833f2415afd2f78)
+- [ ] [<code>Inserting Notes.md into a better position.</code>](https://github.com/phase1geo/minder/commit/2124b7cde4401ca237ddfd4e887032eaaeef37ff)
+- [ ] [<code>Fixing last commit.</code>](https://github.com/phase1geo/minder/commit/ac99feb62a163847f86f55ca4d51fb0048810fc6)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -549,6 +552,7 @@
 - [ ] [<code>Enable Dependabot updates (#116)</code>](https://github.com/ellie-commons/taxi/commit/19a7910a42ea32a52836b313b675a330211b89e9)
 - [ ] [<code>Bump actions/checkout from 4 to 7 (#117)</code>](https://github.com/ellie-commons/taxi/commit/70d66c8ada8a1361969fe56b68180be80ec5af22)
 - [ ] [<code>CI: Update flatpak-platform Docker to 9.1 (#115)</code>](https://github.com/ellie-commons/taxi/commit/3cb4f05e8b95260a774ad1bf6dee2c6c7867e288)
+- [ ] [<code>Update README "Credits" section (#105)</code>](https://github.com/ellie-commons/taxi/commit/0a13f1f919fb48b19f14524e90ea6dec443cfac3)
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
