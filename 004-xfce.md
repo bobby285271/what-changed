@@ -408,6 +408,8 @@
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/libxfce4util/commit/4fc1775b0bf6e4f54e7ae30c455f0b78e979a8db)
 - [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/libxfce4util/commit/4475593977e59f528ba06e632467434118aa2d2c)
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/libxfce4util/commit/b270b162f14542ca80b812e5ca374a775cef9dbd)
+- [ ] [<code>Support XDG_STATE_HOME in xfce_resource_*()</code>](https://github.com/xfce-mirror/libxfce4util/commit/f532ab3c147fa2339bf0507c40a92339377df38f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
