@@ -594,8 +594,9 @@
 - [ ] [<code>cornerbar applet: Toggle the desktop once per drag entry</code>](https://github.com/linuxmint/cinnamon/commit/45253ca3833187d52e4743c232e001cb663ecee0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix desklet settings for desklets with max instance of -1 (#13594)</code>](https://github.com/linuxmint/cinnamon/commit/a741b355ee349f641c3d52ed542adf2c91ec3fa3)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix several bugs: regex flags, implicit globals, crashes, ngettext, undefined icon (#13643)</code>](https://github.com/linuxmint/cinnamon/commit/d2dfdab086707aa65db17eb0191dcb77979a4bcc)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
