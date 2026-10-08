@@ -418,6 +418,8 @@
 - [ ] [<code>Fixing information in several pages.</code>](https://github.com/phase1geo/minder/commit/753d1496e752e45403317bc48833f2415afd2f78)
 - [ ] [<code>Inserting Notes.md into a better position.</code>](https://github.com/phase1geo/minder/commit/2124b7cde4401ca237ddfd4e887032eaaeef37ff)
 - [ ] [<code>Fixing last commit.</code>](https://github.com/phase1geo/minder/commit/ac99feb62a163847f86f55ca4d51fb0048810fc6)
+- [ ] [<code>Checkpointing more documentation fixes/updates.</code>](https://github.com/phase1geo/minder/commit/2b9d0be387a67e45bdad4abcc53e1a69487c7e81)
+- [ ] [<code>Updating documentation</code>](https://github.com/phase1geo/minder/commit/fbe2ea3f661290793a4ec5cbb707d187a8d08f88)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
@@ -471,6 +473,8 @@
 - [ ] [<code>fix: check the style radio that was clicked in Appearance (#2731)</code>](https://github.com/alainm23/planify/commit/9ba3ab9fc83ea09634591d11fb0b0b08f2b6b76f)
 - [ ] [<code>feat: optional "Use Adwaita Colors" switch in Appearance (#2732)</code>](https://github.com/alainm23/planify/commit/96795a2e8966f58e1afe8f70d0d36560c2ccf398)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/31e1b7d38fe00749ea50ae89d03a643bd55fb387)
+- [ ] [<code>ci: migrate to a build matrix (#2692)</code>](https://github.com/alainm23/planify/commit/c1dc3b6d73f1473ee08ae3e1e751c0b6532ef946)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
