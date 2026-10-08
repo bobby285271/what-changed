@@ -866,11 +866,10 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [0b22e7cc69f11e8472065cfc9309add51f403cfc → HEAD](https://github.com/linuxmint/mint-l-icons/compare/0b22e7cc69f11e8472065cfc9309add51f403cfc...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [dbf96f024f7d06905d35edb40a7f127b8e54af65 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/dbf96f024f7d06905d35edb40a7f127b8e54af65...HEAD)
 
-- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-l-icons/commit/39d64364af8d37510d7d345e009527518823f5f2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.5</code>](https://github.com/linuxmint/mint-l-icons/commit/dbf96f024f7d06905d35edb40a7f127b8e54af65)
+- [ ] [<code>Only provide place icons</code>](https://github.com/linuxmint/mint-l-icons/commit/13899a91d742bee6a12759402a725b71eee4e93b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
@@ -881,19 +880,13 @@
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.8...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.9...HEAD)
 
-- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-x-icons/commit/a3e0bb0431fd53361f00fc5383caab79a126b7a9)
+
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.6...HEAD)
+
+- [ ] [<code>Add superlight</code>](https://github.com/linuxmint/mint-y-icons/commit/8816c5a6a844035ddfc20dd97f75952caaa23c84)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-x-icons/commit/2df5bff10ca606e8c60b6b925dbf52a2d2f43d48)
-  - <sub>Tags: <code>1.7.9</code></sub>
-
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.5 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.5...HEAD)
-
-- [ ] [<code>Add velocity</code>](https://github.com/linuxmint/mint-y-icons/commit/a27eae1954d429b4fdd01b94cb4a0b1e445b4f1b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-y-icons/commit/545eda37945206062c1814fc9a99efbe69e6bcd1)
-  - <sub>Tags: <code>1.9.6</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1250,6 +1243,8 @@
 - [ ] [<code>Add support for velocitty</code>](https://github.com/linuxmint/nemo/commit/0dba39ef5a6e02c4feaa0022257bea1f7b839a7d)
 - [ ] [<code>nemo-view.c: Check all selected files before showing "Open With <app>". (#3853)</code>](https://github.com/linuxmint/nemo/commit/4e16e8481cf05085d54223fa15055b4ce00f4b3a)
 - [ ] [<code>nemo-icon-dnd.c: Fix reporting a successful drag result.</code>](https://github.com/linuxmint/nemo/commit/66eabf459bc86d03c24797274d0e3f60b9b7a7d8)
+- [ ] [<code>nemo-directory-async.c: Trust symlinks to launchers in system directories. (#3846)</code>](https://github.com/linuxmint/nemo/commit/86e0e3cad48eaef1dcc5890e40d0d6f0fed5b297)
+- [ ] [<code>nemo-mime-actions.c: Restore "Launch Anyway" when nemo cannot alter</code>](https://github.com/linuxmint/nemo/commit/6921be68a6dddbd23b4ac5ae58b3180bbae74d6b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
