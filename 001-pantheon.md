@@ -12,6 +12,7 @@
 - [ ] [<code>FlatpakBackend: Fix xml handling with newer libxml (#2447)</code>](https://github.com/elementary/appcenter/commit/c6154de4205a2930b41abaf3b5f07a82b95e1452)
 - [ ] [<code>LinkListBox: use Granite.ListItem (#2449)</code>](https://github.com/elementary/appcenter/commit/4ec5138fd6e6367cb518b177a857c859ea7c7082)
 - [ ] [<code>FlatpakBackend: only inhibit during write jobs (#2451)</code>](https://github.com/elementary/appcenter/commit/9182fd7f86cae94ef973802e1841c6cf13957e04)
+- [ ] [<code>SearchListItem: use Granite.ListItem and HeaderLabel (#2448)</code>](https://github.com/elementary/appcenter/commit/03bf439b4ed2bad58f2e0ca8fbd1a3503b9e64c4)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
 
@@ -45,6 +46,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
 - [ ] [<code>README: Add missing '--install-deps-from=flathub' (#310)</code>](https://github.com/elementary/camera/commit/5368cecd820324a99f22c43bfaffcde56e6fad66)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/camera/commit/3bf4deb72af630702d891bf05685061cc58ef743)
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
@@ -295,6 +297,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/music/commit/ab0615eaf98f8f4182e94848819e5b409312fcdf)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/music/commit/c4651e8d6f68de68b04fb0e0ee9d066a5a90cc78)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/music/commit/6edd8c8a2886bedcb48f42e0442e11cc8e5d974d)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
@@ -1271,6 +1274,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Styles/lighting: fix missing comma in shadow(3) (#1074)</code>](https://github.com/elementary/granite/commit/c2071aa4b69e2ee6d9758a3fd07e1ce3ef1d7e27)
+- [ ] [<code>StyleManager: add provider for each display, independently update color schemes (#1077)</code>](https://github.com/elementary/granite/commit/e0b016e70c1e83577d6d4491af31f5c762cf3592)
+- [ ] [<code>StyleManager: Only set color scheme for app provider if it exists (#1084)</code>](https://github.com/elementary/granite/commit/28c71ff7185f8e414d698d3ccbce2ca2bc59b316)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1362,6 +1367,9 @@
 - [ ] [<code>Actions: Update gettext-template (#243)</code>](https://github.com/elementary/settings-daemon/commit/049284e77510fa16d7b6a645103e906910607348)
 - [ ] [<code>Detect Sysupdate and don't connect packagekit (#245)</code>](https://github.com/elementary/settings-daemon/commit/abe7f8bbfa5966416b362b78a36430ad0b2e602a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Introduce SystemUpdateProvider interface (#251)</code>](https://github.com/elementary/settings-daemon/commit/2b7a6813ae82b3e292db0c7c1ccd6dccae90676c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix POTFILES (#252)</code>](https://github.com/elementary/settings-daemon/commit/e38b999be29ad563b38f66c9f9745c5fb8935d05)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
