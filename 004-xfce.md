@@ -326,6 +326,8 @@
 - [ ] [<code>Make use-header work properly for XfceTitledDialog on Wayland</code>](https://github.com/xfce-mirror/libxfce4ui/commit/a43137debc28df78001323c8f4312b273dd4da43)
 - [ ] [<code>Rework use-header fix for Wayland</code>](https://github.com/xfce-mirror/libxfce4ui/commit/e6998d7d6ec81b2e0ee661c148f6d8b9234c71ce)
 - [ ] [<code>Fix shortcuts dialog grab & keyboard shortcuts inhibit on Wayland</code>](https://github.com/xfce-mirror/libxfce4ui/commit/96ab4bf0b46fe37a335e3ef78afba72147ee1844)
+- [ ] [<code>Mark XfceSMClient as deprecated</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7ac532af9a5966d232a48e95cbebed4c095efee7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -410,6 +412,17 @@
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/libxfce4util/commit/b270b162f14542ca80b812e5ca374a775cef9dbd)
 - [ ] [<code>Support XDG_STATE_HOME in xfce_resource_*()</code>](https://github.com/xfce-mirror/libxfce4util/commit/f532ab3c147fa2339bf0507c40a92339377df38f)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/libxfce4util/commit/2958da5b20734e6e9046d7342698ba6ec118bcb9)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4util/commit/12aafbecf091884f7275b6030961fcb180c22be6)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4util/commit/af5f49d889cb55483c36ca8b20f11913da26b325)
+  - <sub>Tags: <code>libxfce4util-4.21.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/9d9aa0f130f7c223e083b119698c37239d987ada)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -1111,6 +1124,8 @@
 - [ ] [<code>Reduce default mount delay to 2 seconds</code>](https://github.com/xfce-mirror/thunar-volman/commit/47d72e947a51fffe315f2553f2d07e935095bf02)
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/thunar-volman/commit/7a7e2d6b0153f3f27961a40e6cfedb83e4b62932)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Pass the disc to the default video disc player</code>](https://github.com/xfce-mirror/thunar-volman/commit/9af5e8952e29796cedd1b7eb8bc520dcbd69cef7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -1374,6 +1389,7 @@
 - [ ] [<code>Fix typo in `cargo clippy` command</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/6c4e99db05d7156c60c6e5d3516438d4107401de)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove `--all-features` from `cargo clippy` and add var interp</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/efd684aa2667ba34eedfa2e2fabd1f979cbf8533)
+- [ ] [<code>Add xfce4-session to ci/build_libs.sh</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7ef110f67904d0c0cdad4d74ee8901a2d572c7b9)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1865,6 +1881,47 @@
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-session/commit/25ee583fb44d3c378ddbe0ba6ef2f679e1d59766)
 - [ ] [<code>xinitrc: Add DISPLAY and XAUTHORITY to env update</code>](https://github.com/xfce-mirror/xfce4-session/commit/a5bb88a038087c21a411ac00fb3175a42c4ffd25)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Unexport clients from dbus when they are closed</code>](https://github.com/xfce-mirror/xfce4-session/commit/af37118dba4ea6d3a461f85fea88a19bb784a6fb)
+- [ ] [<code>Add defns for the new ManagerDelegate and ClientDelegate interfaces</code>](https://github.com/xfce-mirror/xfce4-session/commit/0aaea24bd65594ed52b749805475a339c1b90f29)
+- [ ] [<code>Wire up ManagerDelegate dbus methods</code>](https://github.com/xfce-mirror/xfce4-session/commit/9bdf4bd81ac14c30cec9b7fec7ab8d9aa8a22b16)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Wire up ClientDelegate dbus methods</code>](https://github.com/xfce-mirror/xfce4-session/commit/ee87604b77c3bd1c089e9c8c93dd4d7587fd4591)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Load and store toplevels & properties from/to session state file</code>](https://github.com/xfce-mirror/xfce4-session/commit/6cb572c0ea5b1ad25162d705a474a65f21f0b795)
+- [ ] [<code>Add the Manager.AttachClient dbus method</code>](https://github.com/xfce-mirror/xfce4-session/commit/04c5413c7dd6a55c6560c02c2da0263e1648c0ca)
+- [ ] [<code>Only allow parent process to use ManagerDelegate/ClientDelegate</code>](https://github.com/xfce-mirror/xfce4-session/commit/ecf50d54cbd9a6b485e1639b7d2d355b031ad376)
+- [ ] [<code>Fix bug in client-id-is-empty check in dbus RegisterClient</code>](https://github.com/xfce-mirror/xfce4-session/commit/85cb0e7cc2c998f3db0e2b28a8ce553c5eab0229)
+- [ ] [<code>Carry properties around for non-xfsm-aware clients</code>](https://github.com/xfce-mirror/xfce4-session/commit/6899d8a7d616377c1fa30078779293bfc2c8921a)
+- [ ] [<code>Don't ever synthesize RestartCommand</code>](https://github.com/xfce-mirror/xfce4-session/commit/6c442e80b5fea6d758703b19dd1c04f4dd7bad49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Evict clients that haven't been seen in ~9 months</code>](https://github.com/xfce-mirror/xfce4-session/commit/13fe7ee71aafbe29e089a0a61f96f0fb694158f7)
+- [ ] [<code>Start ICE listener on Wayland if DISPLAY is set</code>](https://github.com/xfce-mirror/xfce4-session/commit/9625155920a5b9477524c9d6302cf759a9ef5934)
+- [ ] [<code>Make checkpointing work for dbus clients</code>](https://github.com/xfce-mirror/xfce4-session/commit/cf1157e4b9a38e9bcc0a57ad11ad16eb55634de1)
+- [ ] [<code>Handle checkpoint/shutdown properly on Wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/f7014377457b1ba153f3466f4cb5b9f62a47c8d6)
+- [ ] [<code>Don't forcibly kill dbus clients if they don't save in time</code>](https://github.com/xfce-mirror/xfce4-session/commit/c9199414efb900e3680605a7c3c1d15beb1ca55a)
+- [ ] [<code>Remove some unnecessary Wayland-specific code</code>](https://github.com/xfce-mirror/xfce4-session/commit/f2b27d96d4ff0269326559365899ecb6cb8018a2)
+- [ ] [<code>Enable all settings UI for Wayland</code>](https://github.com/xfce-mirror/xfce4-session/commit/2574b64329c7341daed230f3270e06f904f61463)
+- [ ] [<code>Don't drop delegate clients unless we get ClientDisconnected</code>](https://github.com/xfce-mirror/xfce4-session/commit/27ce630223fa3fa68368b0298737149c2e1a574f)
+- [ ] [<code>Fix two possible use-after-frees on XfsmClient</code>](https://github.com/xfce-mirror/xfce4-session/commit/526fb98357edfd8c3947bc70c1a7212e06ab4fc1)
+- [ ] [<code>Require client_startup_id to be valid for ManagerDelegate.RegisterClient</code>](https://github.com/xfce-mirror/xfce4-session/commit/a163d80f8efc589a51c8abebaca5904ba2f1d06a)
+- [ ] [<code>Validate ownership of client registration on unregister/remove</code>](https://github.com/xfce-mirror/xfce4-session/commit/1396dec16a9273573c7a0ab9f10557ba6cbead26)
+- [ ] [<code>Remove G_GNUC_PURE annotations</code>](https://github.com/xfce-mirror/xfce4-session/commit/201c1ec0b60e1eb1865580932ba3581fde23f141)
+- [ ] [<code>Don't drop all following toplevels if one of them is bad</code>](https://github.com/xfce-mirror/xfce4-session/commit/5d053879f074287d26245117567898460d9a0c21)
+- [ ] [<code>Run discard command on delegate RemoveClient path</code>](https://github.com/xfce-mirror/xfce4-session/commit/47206a51e0ce26d1d885e33e36fb52d647ca212d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Make save on shutdown work for dbus clients</code>](https://github.com/xfce-mirror/xfce4-session/commit/abea9e1cd5d28a9226292cb9b049b237b0ea092f)
+- [ ] [<code>Only set client's app ID once</code>](https://github.com/xfce-mirror/xfce4-session/commit/907a105c00b62157f791791ca4258fb9307c216c)
+- [ ] [<code>Add new libxfce4session-client library</code>](https://github.com/xfce-mirror/xfce4-session/commit/cc454cadf285a422924cffe79ad69a0393d9e3c3)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-session/commit/408e2dc9784c687a5728efa006d4d9dd22bc8243)
+  - <sub>Tags: <code>xfce4-session-4.21.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-session/commit/b386d98d9e785e46264bdaf44ed432381d03650b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>logout-dialog: Allow the user to configure the default logout method</code>](https://github.com/xfce-mirror/xfce4-session/commit/7d116f198bc6510b20b54bb20b81815366d9da5c)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -2368,6 +2425,12 @@
 - [ ] [<code>Add settings to hide symlink, read-only, and unreadable emblems</code>](https://github.com/xfce-mirror/xfdesktop/commit/e413f939ccfe47dc930b9fc75e8696413a371c91)
 - [ ] [<code>Add checkbox to toggle user-assigned emblems, per review feedback</code>](https://github.com/xfce-mirror/xfdesktop/commit/088bda21619c261aa31da773529ddf25503ac286)
 - [ ] [<code>Remove accidentally checked-in patch file</code>](https://github.com/xfce-mirror/xfdesktop/commit/d8d21867fa50b2683d425012a464b4e16aefdeb8)
+- [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfdesktop/commit/d159258dc3a8b8f642b4ff6982fdd9c2f63cea17)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Install a .desktop file so the session client can reference it</code>](https://github.com/xfce-mirror/xfdesktop/commit/5888c827f41998fd2b2c55bbbf7ca41e773a39de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
