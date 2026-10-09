@@ -423,6 +423,7 @@
 - [ ] [<code>Updating documentation and bug fixes.</code>](https://github.com/phase1geo/minder/commit/c53d263fd5ae6d6875d8adce775ff4547a3c966b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixing documentation structure</code>](https://github.com/phase1geo/minder/commit/d8f21392859d10cebcd33c2da851726356045655)
+- [ ] [<code>Fixing text justification for new rows.</code>](https://github.com/phase1geo/minder/commit/0ddb13fc5cd3284e3fc89525364f55a674b977e4)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
