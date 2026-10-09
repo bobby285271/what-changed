@@ -420,6 +420,9 @@
 - [ ] [<code>Fixing last commit.</code>](https://github.com/phase1geo/minder/commit/ac99feb62a163847f86f55ca4d51fb0048810fc6)
 - [ ] [<code>Checkpointing more documentation fixes/updates.</code>](https://github.com/phase1geo/minder/commit/2b9d0be387a67e45bdad4abcc53e1a69487c7e81)
 - [ ] [<code>Updating documentation</code>](https://github.com/phase1geo/minder/commit/fbe2ea3f661290793a4ec5cbb707d187a8d08f88)
+- [ ] [<code>Updating documentation and bug fixes.</code>](https://github.com/phase1geo/minder/commit/c53d263fd5ae6d6875d8adce775ff4547a3c966b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixing documentation structure</code>](https://github.com/phase1geo/minder/commit/d8f21392859d10cebcd33c2da851726356045655)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
