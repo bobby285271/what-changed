@@ -596,7 +596,10 @@
 - [ ] [<code>Fix desklet settings for desklets with max instance of -1 (#13594)</code>](https://github.com/linuxmint/cinnamon/commit/a741b355ee349f641c3d52ed542adf2c91ec3fa3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix several bugs: regex flags, implicit globals, crashes, ngettext, undefined icon (#13643)</code>](https://github.com/linuxmint/cinnamon/commit/d2dfdab086707aa65db17eb0191dcb77979a4bcc)
+- [ ] [<code>popupDialog.js: Apply the drag offset to the position when a drag ends.</code>](https://github.com/linuxmint/cinnamon/commit/269b7a660bf4114a1883eb4e76ad8236b39a31d6)
+- [ ] [<code>accessibility: Replace the hover-click helper with a native palette.</code>](https://github.com/linuxmint/cinnamon/commit/e877acc9aba270f821af8c11c504f43a6ce85d77)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -695,6 +698,7 @@
   - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4252e0ba45f9a4fd0a4087dac7c20c0059197ea1)
+- [ ] [<code>org.cinnamon.desktop.keybindings: Add hover-click shortcut.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/981f906e45729e7aca42ea906e3e37de2d805896)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
