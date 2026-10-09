@@ -24,6 +24,7 @@
 - [ ] [<code>MainWindow: fix focus outline cutoff (#305)</code>](https://github.com/elementary/calculator/commit/6dc5b6dbb3dd5b0011a8d0a53d8ce0cf1595c255)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#306)</code>](https://github.com/elementary/calculator/commit/b95ba917dac988dd1ab511d0939c5beba2361192)
 - [ ] [<code>Evaluation: Use explicit namespace instead of using (#307)</code>](https://github.com/elementary/calculator/commit/a908dd1a5b70a737ec6794ab53c79600082eec2f)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/calculator/commit/df18001dac1b7e76647c2b51f972f55abc0f3d28)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
@@ -99,6 +100,9 @@
 - [ ] [<code>Sync transfers (redux) for realistic progress bar updates (#2828)</code>](https://github.com/elementary/files/commit/aeec8851b552654769dca68574578b3b436d660e)
 - [ ] [<code>Metainfo for release 7.3.3 (#2846)</code>](https://github.com/elementary/files/commit/4ee4155f88ea465334b49d5ed17035abb0f8a805)
 - [ ] [<code>File transfers: fix performance regression due to syncing (#2843)</code>](https://github.com/elementary/files/commit/989648b29f5591658ebebd38ed53d3327e42df4f)
+- [ ] [<code>Release v7.3.3 (#2849)</code>](https://github.com/elementary/files/commit/ddb727f59d53cfc41815f430caab0a2cb580903c)
+  - <sub>Tags: <code>7.3.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -109,6 +113,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/iconbrowser/commit/622db28975c107cab237fac29f02be1671e86c1f)
 - [ ] [<code>IconCollection: remove event-new (#78)</code>](https://github.com/elementary/iconbrowser/commit/3125139d399c67c3c0c48bcbf007c2dc3c71f744)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/iconbrowser/commit/f598246822f5dd01e301ceee1d3efe701953c733)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#80)</code>](https://github.com/elementary/iconbrowser/commit/9c2363eacf150c8f2bb5fd9e2342b1dda5909463)
 
 #### [pantheon.elementary-mail](https://github.com/elementary/mail): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/mail/compare/refs/tags/8.0.1...HEAD)
 
@@ -179,6 +184,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2 (#188)</code>](https://github.com/elementary/maps/commit/e21a342c7af200a642b00764b014df78dd20f57c)
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#189)</code>](https://github.com/elementary/maps/commit/bdd2777be4e1a168b7284320d6a635daef2880b1)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#190)</code>](https://github.com/elementary/maps/commit/82706e5b8240cbc47fc0ab4ff71555cb98771ad4)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#191)</code>](https://github.com/elementary/maps/commit/97bfd674d9eab56c3ada9a5f81ba0f525648f862)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -301,6 +307,7 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#334)</code>](https://github.com/elementary/screenshot/commit/622fe8decd09c809defcbd058062635f53a2d014)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#337)</code>](https://github.com/elementary/screenshot/commit/2d06b55e06aac33c4b52b7588d385c16e8c60ac4)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#338)</code>](https://github.com/elementary/screenshot/commit/25b80caec376b4eae6104083c76012eee8d74416)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#340)</code>](https://github.com/elementary/screenshot/commit/daf7ddbd31bef019e81e4c481dfdd2a296153ffc)
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -356,6 +363,7 @@
 - [ ] [<code>Flatpak: Bump to platform 9</code>](https://github.com/elementary/tasks/commit/3448149469619bc78eca5fc93223d17945b64c8d)
 - [ ] [<code>libical: Update libical-3.0.16.tar.gz to 3.0.20</code>](https://github.com/elementary/tasks/commit/43ea0665363dec3aec51501e7b8b2a154098d82b)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#433)</code>](https://github.com/elementary/tasks/commit/01ce72e6ae2a76c435c0cddc8721269ea15dcfde)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#437)</code>](https://github.com/elementary/tasks/commit/d3dc4bbee1f5588a294925b08c754fdfebcba174)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
