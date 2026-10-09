@@ -2431,6 +2431,7 @@
 - [ ] [<code>Install a .desktop file so the session client can reference it</code>](https://github.com/xfce-mirror/xfdesktop/commit/5888c827f41998fd2b2c55bbbf7ca41e773a39de)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix incorrect GValue type</code>](https://github.com/xfce-mirror/xfdesktop/commit/8161851024c0a819fc135d243f4d5bc3877a5148)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
