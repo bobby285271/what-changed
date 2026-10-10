@@ -709,6 +709,9 @@
 - [ ] [<code>Restrict screenshot D-Bus access to portal (#2940)</code>](https://github.com/elementary/gala/commit/b2ae07929a78f7f5157f757312a19c87b088b2e6)
 - [ ] [<code>Shaders: use matrices where possible (#2946)</code>](https://github.com/elementary/gala/commit/789076bd83fae351f17f390668d1c94a1f2f8253)
 - [ ] [<code>Fix crash in items changed handler (#2948)</code>](https://github.com/elementary/gala/commit/42e199597ddab5196724f7babcdfe63d4701e754)
+- [ ] [<code>Release 8.6.2 (#2951)</code>](https://github.com/elementary/gala/commit/038ca7adcbfdbc2a95ff9deefd63a3050cb10181)
+  - <sub>Tags: <code>8.6.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
