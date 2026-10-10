@@ -598,8 +598,18 @@
 - [ ] [<code>Fix several bugs: regex flags, implicit globals, crashes, ngettext, undefined icon (#13643)</code>](https://github.com/linuxmint/cinnamon/commit/d2dfdab086707aa65db17eb0191dcb77979a4bcc)
 - [ ] [<code>popupDialog.js: Apply the drag offset to the position when a drag ends.</code>](https://github.com/linuxmint/cinnamon/commit/269b7a660bf4114a1883eb4e76ad8236b39a31d6)
 - [ ] [<code>accessibility: Replace the hover-click helper with a native palette.</code>](https://github.com/linuxmint/cinnamon/commit/e877acc9aba270f821af8c11c504f43a6ce85d77)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>screensaver: Disable custom screensaver in Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/351b63b8edc280d5c62f466862454e4ede31d7d4)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>launch: Fix some session argument and environment handling, don't leak</code>](https://github.com/linuxmint/cinnamon/commit/89239adec5e7732cb724506cd6e26bb136eb6c9e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>wayland: Hide some unsupported commands/menu options.</code>](https://github.com/linuxmint/cinnamon/commit/f4b44505f79bc63d9827b9dfffd363dede30f37c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_mouse.py: Fix edge-scrolling disable callback</code>](https://github.com/linuxmint/cinnamon/commit/6a9dce0e4acc51b5a3c9fd41328de45b20bbad46)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>applets: Small fixes for Wayland sessions</code>](https://github.com/linuxmint/cinnamon/commit/c9fd67221a0bc356a8e37bf28c7db6b383af880c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -852,7 +862,11 @@
   - <sub>Tags: <code>6.7.5-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch terminal to velocitty</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f17910750fef1f32b4d1cec767b2f3fa41dc89c1)
+- [ ] [<code>gpm-common.c: Treat pending charge the same as pending discharge or</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ba81b7fcfb1e3d2e4e61ff7d482fe096ba40ff16)
+- [ ] [<code>power/automount: Ignore custom-screensaver-command in Wayland sessions</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/252e0d5b3133612e95cedace6c42f2197ab9e9e1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
