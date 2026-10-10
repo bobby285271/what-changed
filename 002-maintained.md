@@ -424,6 +424,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixing documentation structure</code>](https://github.com/phase1geo/minder/commit/d8f21392859d10cebcd33c2da851726356045655)
 - [ ] [<code>Fixing text justification for new rows.</code>](https://github.com/phase1geo/minder/commit/0ddb13fc5cd3284e3fc89525364f55a674b977e4)
+- [ ] [<code>Adding ability to move rows and columns in table editor.</code>](https://github.com/phase1geo/minder/commit/7b667f32dd77319cd98421d044570f5b3e9f8f69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding row/column move documentation.</code>](https://github.com/phase1geo/minder/commit/30e89ff68077824ce7be316d1338b569debcdc64)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
