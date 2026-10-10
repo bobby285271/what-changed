@@ -105,6 +105,7 @@
 - [ ] [<code>Release v7.3.3 (#2849)</code>](https://github.com/elementary/files/commit/ddb727f59d53cfc41815f430caab0a2cb580903c)
   - <sub>Tags: <code>7.3.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Move prefers-color-scheme handler to Main (#2851)</code>](https://github.com/elementary/files/commit/f966e0108bdb9b192ce23d27330707ef9c89c252)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -298,6 +299,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/music/commit/ab0615eaf98f8f4182e94848819e5b409312fcdf)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/music/commit/c4651e8d6f68de68b04fb0e0ee9d066a5a90cc78)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/music/commit/6edd8c8a2886bedcb48f42e0442e11cc8e5d974d)
+- [ ] [<code>Actions: Update release branch to noble (#853)</code>](https://github.com/elementary/music/commit/f8ee52e4691efb374d9e3678ec41baefd73e966d)
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
@@ -652,6 +654,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest</code>](https://github.com/elementary/greeter/commit/e7a8175ec8a108beb1947f4808baab2823e7c459)
 - [ ] [<code>WindowManager: Use explicit Meta namespace (#913)</code>](https://github.com/elementary/greeter/commit/bc441b64d539c84a53017293006cf0bcdaa44950)
+- [ ] [<code>BaseCard: Move focus to the first focusable child on grab_focus (#912)</code>](https://github.com/elementary/greeter/commit/6adb6d22443122a8ab2f8218e598319cc75c4029)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -1512,6 +1515,8 @@
 - [ ] [<code>Hide looback devices from graphical interfaces (#893)</code>](https://github.com/elementary/os/commit/cadd7289f068ff627fcd0e02f072ee4391fd3474)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Rollback to nvidia-595 (#910)</code>](https://github.com/elementary/os/commit/8be1d1239f3c9f730c227f9628fa252a04527274)
+- [ ] [<code>tmpfiles.d/login.conf: Fix /var/lib/lightdm ownership  (#911)</code>](https://github.com/elementary/os/commit/5215b29a2eb2d52bb946b2e8e0b92f75c32e808a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
