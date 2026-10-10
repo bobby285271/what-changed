@@ -1631,6 +1631,19 @@
 - [ ] [<code>wayland: Set layer-shell namespace</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b5b4f927d55b5b9d1eacf583de1759d54bca0bbd)
 - [ ] [<code>systray: Avoid crash when bus_name contains garbage</code>](https://github.com/xfce-mirror/xfce4-panel/commit/1c9220f8eeb7aa093a9b107116705ed2ac3c28d4)
 - [ ] [<code>Make "Keep Below" option Wayland exclusive</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a06ddf766ac714a6eb5808384ef5abdf2c257a86)
+- [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfce4-panel/commit/695f1d38bb450e280fd24f1e67f2228c6f4213d5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add an xfce4-panel desktop file</code>](https://github.com/xfce-mirror/xfce4-panel/commit/cdc519b5bb401b9137103d06c725dc9ff10c0003)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-panel/commit/76eac3b790ba72481f6e39f88e51589f38605efb)
+  - <sub>Tags: <code>xfce4-panel-4.21.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/11daac0e2163487a760a74d9f9f02edcef140a8e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1761,6 +1774,9 @@
 - [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/773a259aeaf55bc541a165696ea0edcd04d624f1)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/08aba661f05693dd92ddd4d011814c88cb5690ad)
 - [ ] [<code>about-dialog: Fix app name</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b157b7285bcfc298931438e0a5560376f6c154dc)
+- [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/a18bb7be1bf3a2f57f07fe7e7ac2233d931032b6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -2180,6 +2196,9 @@
 - [ ] [<code>display-settings: Fix string leak in on_output_event</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8fa4a8cc410fb6e732fce9109e164c57bbaeea9d)
 - [ ] [<code>settings-manager: Increase label size to accommodate translations</code>](https://github.com/xfce-mirror/xfce4-settings/commit/607dddd0dee38baaeae7b6b20b7883440856fe22)
 - [ ] [<code>xfsettingsd: Add options to disable XSettings and GTK settings helpers</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a704c86c5ce19af76c603c48a22943b306bfb710)
+- [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfce4-settings/commit/007ea711aa14c4a90f7fcfd1312bfb63c6ec4b1d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -2432,6 +2451,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix incorrect GValue type</code>](https://github.com/xfce-mirror/xfdesktop/commit/8161851024c0a819fc135d243f4d5bc3877a5148)
+- [ ] [<code>Fix incorrect filename in po/POTFILES</code>](https://github.com/xfce-mirror/xfdesktop/commit/2eea773bb8ae4758c5226c12d4658105e42495f1)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
