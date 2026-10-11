@@ -427,6 +427,13 @@
 - [ ] [<code>Adding ability to move rows and columns in table editor.</code>](https://github.com/phase1geo/minder/commit/7b667f32dd77319cd98421d044570f5b3e9f8f69)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Adding row/column move documentation.</code>](https://github.com/phase1geo/minder/commit/30e89ff68077824ce7be316d1338b569debcdc64)
+- [ ] [<code>Adding support for sidebar button hover.</code>](https://github.com/phase1geo/minder/commit/67b945a9b3ad8e73cdd47a76d4d04d4a9cacbb3d)
+- [ ] [<code>Adding documentation about new sidebar button behavior.</code>](https://github.com/phase1geo/minder/commit/1cbb287b5fa821992f7bc58a69e52896be2684ea)
+- [ ] [<code>Adding ability to view release notes.</code>](https://github.com/phase1geo/minder/commit/2911588146e5253ee4a80f007b67cb6e1bb38d7f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Enhancing release notes to show all release notes.</code>](https://github.com/phase1geo/minder/commit/e096b8a03a9cdf3580231f7aa9f3d7033f44af43)
+- [ ] [<code>Changin release notes to only display the last 10 releases.</code>](https://github.com/phase1geo/minder/commit/f088c40deccd892ee690f6ebe7858918c88b1da9)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
