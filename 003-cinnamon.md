@@ -611,6 +611,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>global: Don't create a scope for D-Bus activated applications (#13926)</code>](https://github.com/linuxmint/cinnamon/commit/dde3003e4e9783b4a0bb348514c20c2ca655e28e)
 - [ ] [<code>util.js: Put spawned processes in their own systemd scope</code>](https://github.com/linuxmint/cinnamon/commit/6dce8a6347b223e26fa0b4a5eb1da3e578f55563)
+- [ ] [<code>window-tracker/cinnamon-app: Remove the unused launched-pid table</code>](https://github.com/linuxmint/cinnamon/commit/46549468ba48f66bad753372152c23bd84177b74)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>util.js: Let GLib double-fork trySpawn children again</code>](https://github.com/linuxmint/cinnamon/commit/85b66c558194ad632cd9926a991a802026b2bd7a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
