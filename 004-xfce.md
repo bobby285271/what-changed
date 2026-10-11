@@ -2452,6 +2452,12 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix incorrect GValue type</code>](https://github.com/xfce-mirror/xfdesktop/commit/8161851024c0a819fc135d243f4d5bc3877a5148)
 - [ ] [<code>Fix incorrect filename in po/POTFILES</code>](https://github.com/xfce-mirror/xfdesktop/commit/2eea773bb8ae4758c5226c12d4658105e42495f1)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfdesktop/commit/37729c473382ac6bd406b5e0742d7558060e7d43)
+  - <sub>Tags: <code>xfdesktop-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/195b0a75682c7f2f8896a3e7ed6fcf21158be91d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
