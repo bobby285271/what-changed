@@ -423,6 +423,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/9d9aa0f130f7c223e083b119698c37239d987ada)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Do not break gi scan due to missing prefix</code>](https://github.com/xfce-mirror/libxfce4util/commit/53ddad3ac0de5864386ccc4afb66d6bc9bd664d7)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
