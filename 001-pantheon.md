@@ -106,6 +106,9 @@
   - <sub>Tags: <code>7.3.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move prefers-color-scheme handler to Main (#2851)</code>](https://github.com/elementary/files/commit/f966e0108bdb9b192ce23d27330707ef9c89c252)
+- [ ] [<code>Reverse file sort-by-size order (#2850)</code>](https://github.com/elementary/files/commit/153da94b7a5307f10f65df65f432506df1e6e769)
+- [ ] [<code>MarlinFileOperations simplify: Lose unused "debuting_files" (#2830)</code>](https://github.com/elementary/files/commit/1af94892a81536e032a87247718f46fae841f884)
+- [ ] [<code>Fix trash BookmarkRow memory leak (#2855)</code>](https://github.com/elementary/files/commit/0de98f002914904fc5379d526506818455bc9c10)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -384,6 +387,8 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/videos/commit/476e0f9b37337bbad52025e72fa829c03c35bf4f)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/videos/commit/fd850b27368e7cfecc7f60b7b1e3c9ae67693f4e)
 - [ ] [<code>flatpak: Update to org.freedesktop.Platform.codecs-extra 25.08 (#419)</code>](https://github.com/elementary/videos/commit/8610d3c81876e6413a66beec50d485ea0bf70fe4)
+- [ ] [<code>README: Remove extra whitespace</code>](https://github.com/elementary/videos/commit/3d76495ffae3d1199223c63846737931ddeadc2d)
+- [ ] [<code>README: Add missing '--install-deps-from=flathub'</code>](https://github.com/elementary/videos/commit/f7956200171c053a6d811f326a2561bc99a74a19)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
