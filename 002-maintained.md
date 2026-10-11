@@ -461,6 +461,18 @@
 - [ ] [<code>BasePane: Generalize showing toast message (#374)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8ec0cd69b02cfd8399981508e5e9f94d96c7382c)
 - [ ] [<code>Use U+201C and U+201D for quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/aa356955e1f0e53313370b05aed7f5334d761d13)
 - [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b16306849bd15a51e0398018fe67e35a56ab4064)
+- [ ] [<code>metainfo: Remove deprecated developer_name (#375)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4961d60babdd643a90584ec88a80bfd4efe16070)
+- [ ] [<code>README: Add community packages as installation method (#376)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bfff32f404fd27d0e30ab76358a53db83a5ac6c8)
+- [ ] [<code>Modernize metadata (#377)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9734d50789a5fc2073e3ada9caf385efa7e75705)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Purge unused translations (#378)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/84f976a9e5baf132bcd7df61669ecf6a7fcd5a74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>desktop: Fix the app not appear in Applications Menu</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dda58897ca4e677d88d55ad3efd98313db0fd4c3)
+- [ ] [<code>ThemeSettings: Fix grammar in comment</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/67e5508b6f7a26de7b56d9790943566c97b52329)
+- [ ] [<code>Release 2.6.0 (#370)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/58f479264fb8723fa37f4ed31cdf23b96ef27ceb)
+  - <sub>Tags: <code>2.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
