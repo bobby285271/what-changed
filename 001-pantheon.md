@@ -87,24 +87,8 @@
 - [ ] [<code>MainWindow: fix Granite deprecations (#142)</code>](https://github.com/elementary/feedback/commit/bd96a284d61c60f564aeb38a8a5e0f57b536cbf4)
 - [ ] [<code>MainWindow: Replace Evince with Papers (#140)</code>](https://github.com/elementary/feedback/commit/0ce2effe3266d61a72b065f541e108d59cdfa8e5)
 
-#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.2 → HEAD](https://github.com/elementary/files/compare/7.3.2...HEAD)
+#### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.3 → HEAD](https://github.com/elementary/files/compare/7.3.3...HEAD)
 
-- [ ] [<code>Update release.yml</code>](https://github.com/elementary/files/commit/a329c38cc655dbd40adfec5070a70e1fa03160ca)
-- [ ] [<code>Window: cleanup update_location_bar () (#2810)</code>](https://github.com/elementary/files/commit/166442e3d38fdc2305659f6bcf483cbc1644b425)
-- [ ] [<code>Fix crash on unmount when busy with other processes (#2823)</code>](https://github.com/elementary/files/commit/f73c4edeb2a0c1f8d96de37bbbf8ac8b82bd5ba8)
-- [ ] [<code>Some unmount operation busy-dialog fixes (#2826)</code>](https://github.com/elementary/files/commit/c5acccd8862f94179c7db45c2a5d4d6626f25502)
-- [ ] [<code>Fix unmount criticals (#2834)</code>](https://github.com/elementary/files/commit/a844f2b83224ee3ab9f35f2f101314d82501153d)
-- [ ] [<code>Disambiguate "%u folder" (#2832)</code>](https://github.com/elementary/files/commit/8f937c11c2eb6aa237634fe20c94e5f8a06bebd1)
-- [ ] [<code>Lose legacy color database (#2835)</code>](https://github.com/elementary/files/commit/940b5742230201d7e445e2133406b72484c839a6)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Actions: Migrate to ubuntu-latest (#2840)</code>](https://github.com/elementary/files/commit/839c38e28daf5666d476fab6c9b9683223025e19)
-- [ ] [<code>Sync transfers (redux) for realistic progress bar updates (#2828)</code>](https://github.com/elementary/files/commit/aeec8851b552654769dca68574578b3b436d660e)
-- [ ] [<code>Metainfo for release 7.3.3 (#2846)</code>](https://github.com/elementary/files/commit/4ee4155f88ea465334b49d5ed17035abb0f8a805)
-- [ ] [<code>File transfers: fix performance regression due to syncing (#2843)</code>](https://github.com/elementary/files/commit/989648b29f5591658ebebd38ed53d3327e42df4f)
-- [ ] [<code>Release v7.3.3 (#2849)</code>](https://github.com/elementary/files/commit/ddb727f59d53cfc41815f430caab0a2cb580903c)
-  - <sub>Tags: <code>7.3.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Move prefers-color-scheme handler to Main (#2851)</code>](https://github.com/elementary/files/commit/f966e0108bdb9b192ce23d27330707ef9c89c252)
 - [ ] [<code>Reverse file sort-by-size order (#2850)</code>](https://github.com/elementary/files/commit/153da94b7a5307f10f65df65f432506df1e6e769)
 - [ ] [<code>MarlinFileOperations simplify: Lose unused "debuting_files" (#2830)</code>](https://github.com/elementary/files/commit/1af94892a81536e032a87247718f46fae841f884)
@@ -703,20 +687,10 @@
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
 
-#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.6.1 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.6.1...HEAD)
+#### [pantheon.gala](https://github.com/elementary/gala): [refs/tags/8.6.2 → HEAD](https://github.com/elementary/gala/compare/refs/tags/8.6.2...HEAD)
 
-- [ ] [<code>Utils: Don't check for logical framebuffer on mutter-50+ (#2923)</code>](https://github.com/elementary/gala/commit/f0ebed2e5bdf5682c8954818ab8c676b6280b103)
-- [ ] [<code>Actions: Update gettext-template (#2932)</code>](https://github.com/elementary/gala/commit/d1ea07e84eff648d0f08667ee1d8a3eebd55450f)
-- [ ] [<code>Actions: Migrate to ubuntu-latest (#2933)</code>](https://github.com/elementary/gala/commit/7c051bb1ee02e15fddd87f78552f0b9df74bd503)
-- [ ] [<code>ShellClientsManager: Focus the greeter window when it is shown (#2937)</code>](https://github.com/elementary/gala/commit/f804092eca973f1a3dc3d2f069b7b9947a78eaa4)
-- [ ] [<code>CloseDialog: Don't send response when closed by mutter (#2944)</code>](https://github.com/elementary/gala/commit/2f044d8a94eebf2c9efb58bf09d585202b4ceb7e)
-- [ ] [<code>Don't use `Clutter.get_default_backend ()` on mutter 47+ (#2942)</code>](https://github.com/elementary/gala/commit/a8eaf3347134ba484211d9f9b832fac440293def)
-- [ ] [<code>Restrict screenshot D-Bus access to portal (#2940)</code>](https://github.com/elementary/gala/commit/b2ae07929a78f7f5157f757312a19c87b088b2e6)
-- [ ] [<code>Shaders: use matrices where possible (#2946)</code>](https://github.com/elementary/gala/commit/789076bd83fae351f17f390668d1c94a1f2f8253)
-- [ ] [<code>Fix crash in items changed handler (#2948)</code>](https://github.com/elementary/gala/commit/42e199597ddab5196724f7babcdfe63d4701e754)
-- [ ] [<code>Release 8.6.2 (#2951)</code>](https://github.com/elementary/gala/commit/038ca7adcbfdbc2a95ff9deefd63a3050cb10181)
-  - <sub>Tags: <code>8.6.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ModalGroup: Fix modal window focus (#2954)</code>](https://github.com/elementary/gala/commit/736331b205c8c02b333d4ba6d0310a5b33ff84fe)
+- [ ] [<code>ShellWindow: Make sure we match every disable_unredirect with enable</code>](https://github.com/elementary/gala/commit/1ed9c1017b91e1a3041f2e3bcb145cb8db788762)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
