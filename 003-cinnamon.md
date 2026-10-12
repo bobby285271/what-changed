@@ -615,9 +615,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>util.js: Let GLib double-fork trySpawn children again</code>](https://github.com/linuxmint/cinnamon/commit/85b66c558194ad632cd9926a991a802026b2bd7a)
 - [ ] [<code>cinnamon-background-daemon: Run as a systemd user service when active</code>](https://github.com/linuxmint/cinnamon/commit/70ce60f011b6fff9240c0f400c990e4be1f593ee)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>cs_backgrounds.py: Fix extensionless file type detection</code>](https://github.com/linuxmint/cinnamon/commit/59270c87258e8c65b7f09805fb9789ddd0836b92)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-background-daemon.c: Apply embedded orientation</code>](https://github.com/linuxmint/cinnamon/commit/9be1a722ea0b7fa5604ce5fdb1d55c6fcfcd9e66)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -924,11 +927,21 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.9...HEAD)
 
+- [ ] [<code>Add superlight</code>](https://github.com/linuxmint/mint-x-icons/commit/8a063c76b3d70580be326e6bc3c3702bb6685f6c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add unfold</code>](https://github.com/linuxmint/mint-x-icons/commit/f31c9365f1ec2af406403ca719a6f27ba68815be)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/mint-x-icons/commit/ff9791a3e33b4146480cb06984740019879bc623)
+  - <sub>Tags: <code>1.8.0</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.6...HEAD)
 
 - [ ] [<code>Add superlight</code>](https://github.com/linuxmint/mint-y-icons/commit/8816c5a6a844035ddfc20dd97f75952caaa23c84)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add unfold</code>](https://github.com/linuxmint/mint-y-icons/commit/b9ef1ae4744604a22422e28883e2b7caa5646f8c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.7</code>](https://github.com/linuxmint/mint-y-icons/commit/1030774c1dc18b7ae019accfb923b5fdb25f09c1)
+  - <sub>Tags: <code>1.9.7</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1161,6 +1174,8 @@
 - [ ] [<code>dnd: Report Wayland drags over Cinnamon's UI like Xdnd</code>](https://github.com/linuxmint/muffin/commit/9ab25ef5deaa78798998a9524483809f186bd9a4)
 - [ ] [<code>monitor-manager: Keep switch configs across hotplugs</code>](https://github.com/linuxmint/muffin/commit/6d1e64de56e2607e2d9fd3bb6be710f10fbd4fd7)
 - [ ] [<code>monitor-manager: Make Super+P cycle back to the configured layout</code>](https://github.com/linuxmint/muffin/commit/71814a8fe75a22bb9a22432997fcdc604a4bfa3a)
+- [ ] [<code>wayland/xdg-foreign: Don't abort when importing an unknown handle</code>](https://github.com/linuxmint/muffin/commit/37b7d4bd726a6a789da5f31b75883b23a3ad5a6e)
+- [ ] [<code>screen-cast: Fix absolute pointer motion on scaled monitors</code>](https://github.com/linuxmint/muffin/commit/835a898d3e0b28537dee5ef291d6f29e571ebb05)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1288,6 +1303,7 @@
 - [ ] [<code>nemo-directory-async.c: Trust symlinks to launchers in system directories. (#3846)</code>](https://github.com/linuxmint/nemo/commit/86e0e3cad48eaef1dcc5890e40d0d6f0fed5b297)
 - [ ] [<code>nemo-mime-actions.c: Restore "Launch Anyway" when nemo cannot alter</code>](https://github.com/linuxmint/nemo/commit/6921be68a6dddbd23b4ac5ae58b3180bbae74d6b)
 - [ ] [<code>nemo-view.c: Always open a new window for open-as-root, make method</code>](https://github.com/linuxmint/nemo/commit/e5b6cfc1f5ede27ba9034ec55343e4eeaed66a8b)
+- [ ] [<code>packaging: Recommend unfold instead of file-roller</code>](https://github.com/linuxmint/nemo/commit/ed2d34b390917fa11c1031176db489fd5cfbc915)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -1500,7 +1516,15 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>screenshot.c: Return the correct code for color-pick cancellation</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d05f702023426e8bac589fdfb419cae2bd79bec8)
 - [ ] [<code>screenshot.c: complete each portal request exactly once</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/62b76c5f07aa840f3bc487fc07f7f44f5ed455ce)
+- [ ] [<code>Add external window helpers for parenting portal dialogs</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/226d58163bb79179b59dd77a3a510cc59cef0797)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wallpaper: Add preview dialog.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c0fafedfd0282aad962c2c58cc0ce53a122f3bf5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>i18n: Add makepot, clean up old translation files.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/26e0b7306f188eecfc8164b170676e49735305af)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
