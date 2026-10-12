@@ -614,7 +614,10 @@
 - [ ] [<code>window-tracker/cinnamon-app: Remove the unused launched-pid table</code>](https://github.com/linuxmint/cinnamon/commit/46549468ba48f66bad753372152c23bd84177b74)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>util.js: Let GLib double-fork trySpawn children again</code>](https://github.com/linuxmint/cinnamon/commit/85b66c558194ad632cd9926a991a802026b2bd7a)
+- [ ] [<code>cinnamon-background-daemon: Run as a systemd user service when active</code>](https://github.com/linuxmint/cinnamon/commit/70ce60f011b6fff9240c0f400c990e4be1f593ee)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -814,6 +817,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>csm-autostart-app.c: Put application-phase autostart applications</code>](https://github.com/linuxmint/cinnamon-session/commit/1b00b8a4809cb92fa1eb48e1f6fc07fa29c712bb)
 - [ ] [<code>Add exempt-apps-from-oomd setting</code>](https://github.com/linuxmint/cinnamon-session/commit/addab3866df942ea0503f501a56c961a261b3154)
+- [ ] [<code>systemd: Exclude dbus.service from oomd coverage.</code>](https://github.com/linuxmint/cinnamon-session/commit/2605e63ecb42dcb27d5ace26d831dc74bd5fe61d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>systemd: Keep dbus.service running when the kernel OOM-kills one of its</code>](https://github.com/linuxmint/cinnamon-session/commit/c038bb411cd388abac031a41b857f3fb3276549e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
