@@ -26,6 +26,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#306)</code>](https://github.com/elementary/calculator/commit/b95ba917dac988dd1ab511d0939c5beba2361192)
 - [ ] [<code>Evaluation: Use explicit namespace instead of using (#307)</code>](https://github.com/elementary/calculator/commit/a908dd1a5b70a737ec6794ab53c79600082eec2f)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/calculator/commit/df18001dac1b7e76647c2b51f972f55abc0f3d28)
+- [ ] [<code>Release 9.0.0</code>](https://github.com/elementary/calculator/commit/08c2caa38508fda046530e69eb5e6b11e2292393)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
@@ -36,6 +39,7 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.2.tar.xz to 3.61.3 (#958)</code>](https://github.com/elementary/calendar/commit/51a82c0c9c2d8799759be0592d1351101ce9a07a)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/calendar/commit/67db2874457b9e5cf9e109ea98439ead53f2bdf7)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.3.tar.xz to 3.62.0 (#960)</code>](https://github.com/elementary/calendar/commit/f94550990c911e699a56865c6bcb03dd2d1ab4dc)
+- [ ] [<code>evolution-data-server: Update evolution-data-server-3.62.0.tar.xz to 3.62.1 (#964)</code>](https://github.com/elementary/calendar/commit/1f317ff22bcb587483d4181283719d2c9b42bf3b)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
 
@@ -47,6 +51,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
 - [ ] [<code>README: Add missing '--install-deps-from=flathub' (#310)</code>](https://github.com/elementary/camera/commit/5368cecd820324a99f22c43bfaffcde56e6fad66)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/camera/commit/3bf4deb72af630702d891bf05685061cc58ef743)
+- [ ] [<code>Release 9.0.0 (#311)</code>](https://github.com/elementary/camera/commit/0f92c02238d75584094f7e6b319719c93f676da2)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
@@ -269,6 +276,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>ProcessTreeViewNmaeCell: rewrite as Granite.Box with bind func (#567)</code>](https://github.com/elementary/monitor/commit/aaf81276402f581ec172cbb3f43e3931501c33d5)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix: AMD Ryzen CPU temps (#579)</code>](https://github.com/elementary/monitor/commit/b6b18fab25bb635c61e03933feb486f6f00b9538)
+- [ ] [<code>Styling: Fix row selection state (#580)</code>](https://github.com/elementary/monitor/commit/e821267b5ee4ac757a757f0ffe9991dd949184d1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
 
@@ -290,6 +300,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/music/commit/c4651e8d6f68de68b04fb0e0ee9d066a5a90cc78)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/music/commit/6edd8c8a2886bedcb48f42e0442e11cc8e5d974d)
 - [ ] [<code>Actions: Update release branch to noble (#853)</code>](https://github.com/elementary/music/commit/f8ee52e4691efb374d9e3678ec41baefd73e966d)
+- [ ] [<code>Release 9.0.0 (#855)</code>](https://github.com/elementary/music/commit/4872ce74afc183305e8bd232691e720f26dcad61)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
