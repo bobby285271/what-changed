@@ -93,6 +93,9 @@
 - [ ] [<code>Reverse file sort-by-size order (#2850)</code>](https://github.com/elementary/files/commit/153da94b7a5307f10f65df65f432506df1e6e769)
 - [ ] [<code>MarlinFileOperations simplify: Lose unused "debuting_files" (#2830)</code>](https://github.com/elementary/files/commit/1af94892a81536e032a87247718f46fae841f884)
 - [ ] [<code>Fix trash BookmarkRow memory leak (#2855)</code>](https://github.com/elementary/files/commit/0de98f002914904fc5379d526506818455bc9c10)
+- [ ] [<code>SidebarListInterface: remove select_item (#2856)</code>](https://github.com/elementary/files/commit/5096b6921901488298a11d1a98a63a996f37e751)
+- [ ] [<code>Fix BreadcrumbElement & BasicBreadcrumbsEntry memory leak (#2852)</code>](https://github.com/elementary/files/commit/4f4863a98433af85e14590e2b8541e240b24e18b)
+- [ ] [<code>BookmarkList: cleanup (#2854)</code>](https://github.com/elementary/files/commit/700ae4921bf9749f62a11b81182ca5b76594c0dc)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -300,6 +303,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#337)</code>](https://github.com/elementary/screenshot/commit/2d06b55e06aac33c4b52b7588d385c16e8c60ac4)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#338)</code>](https://github.com/elementary/screenshot/commit/25b80caec376b4eae6104083c76012eee8d74416)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#340)</code>](https://github.com/elementary/screenshot/commit/daf7ddbd31bef019e81e4c481dfdd2a296153ffc)
+- [ ] [<code>Release 9.0.0 (#341)</code>](https://github.com/elementary/screenshot/commit/dd38d033988ad473c67b5a1840268017b666de20)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -644,6 +650,7 @@
 - [ ] [<code>Actions: Migrate to ubuntu-latest</code>](https://github.com/elementary/greeter/commit/e7a8175ec8a108beb1947f4808baab2823e7c459)
 - [ ] [<code>WindowManager: Use explicit Meta namespace (#913)</code>](https://github.com/elementary/greeter/commit/bc441b64d539c84a53017293006cf0bcdaa44950)
 - [ ] [<code>BaseCard: Move focus to the first focusable child on grab_focus (#912)</code>](https://github.com/elementary/greeter/commit/6adb6d22443122a8ab2f8218e598319cc75c4029)
+- [ ] [<code>Avoid opening more than 1 window (#916)</code>](https://github.com/elementary/greeter/commit/2f982d9e1f2e3fc0d86c7e3d787e055ecea57101)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -691,6 +698,12 @@
 
 - [ ] [<code>ModalGroup: Fix modal window focus (#2954)</code>](https://github.com/elementary/gala/commit/736331b205c8c02b333d4ba6d0310a5b33ff84fe)
 - [ ] [<code>ShellWindow: Make sure we match every disable_unredirect with enable</code>](https://github.com/elementary/gala/commit/1ed9c1017b91e1a3041f2e3bcb145cb8db788762)
+- [ ] [<code>BackgroundContainer: don't disconnect monitors_changed signal (#2956)</code>](https://github.com/elementary/gala/commit/8d33bc9cecc19f260957d31618746faf11278921)
+- [ ] [<code>Rework grouped gesture controllers (#2953)</code>](https://github.com/elementary/gala/commit/c368772f30b5bcfeb5acff0dc9ebd25d098d3454)
+- [ ] [<code>StyleManager: Support reduced motion</code>](https://github.com/elementary/gala/commit/18081a8ef7b2830960307a3e42485fe151fd9f34)
+- [ ] [<code>Utils: Add easier getter for reduced motion</code>](https://github.com/elementary/gala/commit/390730c95d45934258e1e819fb8d620b62f3eccc)
+- [ ] [<code>Use reduced motion in addition to disabled animations</code>](https://github.com/elementary/gala/commit/0b51ba90bf0236ace073583be135647ead18c0c1)
+- [ ] [<code>TransitionBuilder: Support reduced motion</code>](https://github.com/elementary/gala/commit/f0791434ac40a50f2aec64700a47b3bb04145752)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -771,6 +784,7 @@
 - [ ] [<code>Simplify PopoverManager.current_indicator (#733)</code>](https://github.com/elementary/wingpanel/commit/6aa0a0891e6766e4e1b38132e323cfe954032b94)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Update gettext-template (#736)</code>](https://github.com/elementary/wingpanel/commit/070d01ad1cbe2b2cec019367cc7910c8ff1f8cfa)
+- [ ] [<code>BackgroundManager: track window type (#741)</code>](https://github.com/elementary/wingpanel/commit/6b8ae0453b1fd6dc07bd246642998011f04b2125)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
