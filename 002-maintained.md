@@ -434,6 +434,20 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Enhancing release notes to show all release notes.</code>](https://github.com/phase1geo/minder/commit/e096b8a03a9cdf3580231f7aa9f3d7033f44af43)
 - [ ] [<code>Changin release notes to only display the last 10 releases.</code>](https://github.com/phase1geo/minder/commit/f088c40deccd892ee690f6ebe7858918c88b1da9)
+- [ ] [<code>Init of Persian translation</code>](https://github.com/phase1geo/minder/commit/e9117a0689d5ec21eb334d40197add04f85a3f2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adding support for showing release notes after upgrade on app startup.</code>](https://github.com/phase1geo/minder/commit/bc15343608b7292c553c9af239efa55595355fbe)
+- [ ] [<code>Merge pull request #755 from farooqkz/master</code>](https://github.com/phase1geo/minder/commit/aa9f4209b131be27e1523d06a8c8749de9193b2a)
+- [ ] [<code>Updating release notes.</code>](https://github.com/phase1geo/minder/commit/d4f8cf01d3feefee6556e41ba79a660d4977bee3)
+- [ ] [<code>Adding preference to enable/disable release notes on startup.</code>](https://github.com/phase1geo/minder/commit/99ae8e9ac19dcf6821e79e52f21b8c21cacd083d)
+- [ ] [<code>Another round of releases.</code>](https://github.com/phase1geo/minder/commit/af88ef70e527082f08d4cf0388d912bb993bd6b8)
+- [ ] [<code>Updating release notes.</code>](https://github.com/phase1geo/minder/commit/9d1ba77f70b0db3f24bc3a35ace3a9a71dfcb375)
+- [ ] [<code>Updating application SVG icon.</code>](https://github.com/phase1geo/minder/commit/ed85aeba9b740d54e809ae2cadf1b554b04b371a)
+- [ ] [<code>Updating version number.</code>](https://github.com/phase1geo/minder/commit/97dc62a9eb77c6d41d5d06f1a2f11665c0c364d8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fixing issue with forcing startup notes to be shown.</code>](https://github.com/phase1geo/minder/commit/e777203d69630e0bba66801a22f4a2fdca23ad49)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/4f1f591caebf6c90a311fe7e8cbee687b0fe821e)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
 
