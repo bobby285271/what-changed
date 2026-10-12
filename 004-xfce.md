@@ -1778,6 +1778,9 @@
 - [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/a18bb7be1bf3a2f57f07fe7e7ac2233d931032b6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Bump dependency min version and remove dead code</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/d359cfb1b4f58f504c67ab7ff99d3d6968f03b18)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
