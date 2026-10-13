@@ -448,45 +448,12 @@
 - [ ] [<code>Fixing issue with forcing startup notes to be shown.</code>](https://github.com/phase1geo/minder/commit/e777203d69630e0bba66801a22f4a2fdca23ad49)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/4f1f591caebf6c90a311fe7e8cbee687b0fe821e)
+- [ ] [<code>Updating German translation</code>](https://github.com/phase1geo/minder/commit/9a6e6bbde2406875869cba2535fbc6468ff9a987)
+- [ ] [<code>Merge pull request #757 from be-we/master</code>](https://github.com/phase1geo/minder/commit/cfb068993d83f56a9d1cf2bcf9b28f6eff0d9acf)
+- [ ] [<code>Updating appdata.xml release information.</code>](https://github.com/phase1geo/minder/commit/c5f2ee89e89510d0361833a6def77e11ce07c876)
 
-#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.5.2 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.5.2...HEAD)
+#### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
-- [ ] [<code>chore(deps): bump actions/checkout from 6 to 7 (#362)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bf1a5322f733d7e864ff2bdae5099da0bf8dc927)
-- [ ] [<code>Actions: Remove gettext</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/d54bf00a12e5d2ce4b2f04f5446810efbee194e0)
-- [ ] [<code>README: Add OS 9 to the supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/7b6746d8b3594d32ca25f28e1af4f80b83565643)
-- [ ] [<code>ThemeSettings: Update ignore list for OS 9 (#363)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/c98d416491eb404d18e3120517cd4ddcb3404c2e)
-- [ ] [<code>Flatpak: dconf: Disable unnecessary vapi</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/1490895ba4dfa1751af20ce53b80fac30f6955d3)
-- [ ] [<code>chore: Use Gtk.StringList.find() (#324)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/a3b2003c0727ae705c0fb828da7db18063911d35)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#364)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/de8e6f418ffe4dc843dabf6705141518eb04b5ce)
-- [ ] [<code>Use Granite.Box to compound widgets (#366)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8a7f82444579f262f65ca1d3bd9abddaed751a8e)
-- [ ] [<code>Flatpak: Bump GNOME platform to 51 (#365)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/065fbb9b962fc3f0723e8612d81d3604c49bfcb4)
-- [ ] [<code>README: Tweak format of supported versions table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/94b1afc2e0fb44da4aa3afd50d1debb8e6258dc9)
-- [ ] [<code>dconf: Update dconf-0.49.0.tar.xz to 51.0 (#367)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/3dac01c15103a5558d76814507494159dafd346e)
-- [ ] [<code>Actions: Update to gnome-51 Docker image (#368)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/339a50f4abb0a3c8288e6fd3e9716a1ed8069474)
-- [ ] [<code>README: Rmove known issue from OS 6</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/96ee2c0710511a1ab962219b957bff1953b503f3)
-- [ ] [<code>ThemeSettings: Add support for modern themes with only GTK 4 stylesheets (#371)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/15ec7546896111dcae232f54b5e19c760c5e2706)
-- [ ] [<code>MiscPane:  Add switch and spin button for check-alive-timeout  (#369)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/46ac1f2942b2436d870960724758eaa07223b6e9)
-- [ ] [<code>Move schema id to each file (#372)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/38b2d8ae8106e058c441a3649398cc6586ef6b7d)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Declare schema key constants (#373)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/cc0fd15804aa8aff4b5bbc4203f7a8323a68c944)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>BasePane: Generalize showing toast message (#374)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/8ec0cd69b02cfd8399981508e5e9f94d96c7382c)
-- [ ] [<code>Use U+201C and U+201D for quotes</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/aa356955e1f0e53313370b05aed7f5334d761d13)
-- [ ] [<code>Update Japanese translation</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/b16306849bd15a51e0398018fe67e35a56ab4064)
-- [ ] [<code>metainfo: Remove deprecated developer_name (#375)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/4961d60babdd643a90584ec88a80bfd4efe16070)
-- [ ] [<code>README: Add community packages as installation method (#376)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/bfff32f404fd27d0e30ab76358a53db83a5ac6c8)
-- [ ] [<code>Modernize metadata (#377)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/9734d50789a5fc2073e3ada9caf385efa7e75705)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Purge unused translations (#378)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/84f976a9e5baf132bcd7df61669ecf6a7fcd5a74)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>desktop: Fix the app not appear in Applications Menu</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/dda58897ca4e677d88d55ad3efd98313db0fd4c3)
-- [ ] [<code>ThemeSettings: Fix grammar in comment</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/67e5508b6f7a26de7b56d9790943566c97b52329)
-- [ ] [<code>Release 2.6.0 (#370)</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/58f479264fb8723fa37f4ed31cdf23b96ef27ceb)
-  - <sub>Tags: <code>2.6.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
