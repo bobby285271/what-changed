@@ -620,7 +620,9 @@
 - [ ] [<code>cs_backgrounds.py: Fix extensionless file type detection</code>](https://github.com/linuxmint/cinnamon/commit/59270c87258e8c65b7f09805fb9789ddd0836b92)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-background-daemon.c: Apply embedded orientation</code>](https://github.com/linuxmint/cinnamon/commit/9be1a722ea0b7fa5604ce5fdb1d55c6fcfcd9e66)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.9-unstable</code>](https://github.com/linuxmint/cinnamon/commit/1f3ecc45ec2e24486c8d388e76d2af9f13eb8990)
+  - <sub>Tags: <code>6.7.9-unstable</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -671,7 +673,9 @@
 - [ ] [<code>cc-display-config-dbus.c: Don't warn on invalid monitor positions</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7f411489577690d74960c9a5ff6207c417020c6c)
 - [ ] [<code>cc-display-config.c: Use logical_monitors to determine monitor order</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c5dae5ba9f52b4bf6ebb557f2b46e6388643ecc0)
 - [ ] [<code>display panel: Don't restrict mirror mode to two monitors, ignore</code>](https://github.com/linuxmint/cinnamon-control-center/commit/11eb4e3a7353392d0c164e76cc179587e971d7fe)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3d276c066d08fbb1ce30fb4734a995b27f0ba4c2)
+  - <sub>Tags: <code>6.7.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -723,7 +727,9 @@
 - [ ] [<code>org.cinnamon.desktop.keybindings: Add hover-click shortcut.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/981f906e45729e7aca42ea906e3e37de2d805896)
 - [ ] [<code>gnome-systemd: Actually create scopes for launched applications (#275)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94bb5c5ec05d65b0903a9b357232da3bf71aed33)
 - [ ] [<code>gnome-systemd.c: Don't warn if a process exited before its scope</code>](https://github.com/linuxmint/cinnamon-desktop/commit/43e7b6d7e89fbedd577ef4af4d1b9262c833a5d2)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6c6c48d7c87359b34b5812486d364fde3ed730ed)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -762,7 +768,10 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamonClient: don't block the main loop when activating a keyboard layout (#514)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/eab574fb253a6f4af7a8335d9a0230635a1a6f32)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1b5ec053a934a0743c8e0159ad9f0b98ccfbb94c)
+  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
 
@@ -825,7 +834,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>systemd: Keep dbus.service running when the kernel OOM-kills one of its</code>](https://github.com/linuxmint/cinnamon-session/commit/c038bb411cd388abac031a41b857f3fb3276549e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/af94f9bbde8f884da9e4a290f63e918bb8834493)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -894,7 +905,10 @@
 - [ ] [<code>housekeeping: Add systemd OOM notification module (#454)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/89db53d353dc5515c043a5e5eecd0daa1a72b810)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-systemd-notify.c: Simplify i18n, do better reporting which app</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c6051245c6ea61766413733760d9ddb9d44d4b57)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0b66e1e55446842b89faa9bd723cd57b1798595a)
+  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -916,15 +930,19 @@
 
 - [ ] [<code>Only provide place icons</code>](https://github.com/linuxmint/mint-l-icons/commit/13899a91d742bee6a12759402a725b71eee4e93b)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>1.8.6</code>](https://github.com/linuxmint/mint-l-icons/commit/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
 
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#27)</code>](https://github.com/linuxmint/mint-l-theme/commit/ea456bb93e7ee00c8dcf9fd1d8823f7790b2d786)
+- [ ] [<code>2.0.9</code>](https://github.com/linuxmint/mint-l-theme/commit/c15bcfa03ae71ab6e432e016cfb27e61992696f9)
+  - <sub>Tags: <code>2.0.9</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.2...HEAD)
 
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>2.4.3</code>](https://github.com/linuxmint/mint-themes/commit/743ed62b1f72fb570c9633c84e8fd9629d790650)
+  - <sub>Tags: <code>2.4.3</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.9...HEAD)
 
@@ -1177,6 +1195,13 @@
 - [ ] [<code>monitor-manager: Make Super+P cycle back to the configured layout</code>](https://github.com/linuxmint/muffin/commit/71814a8fe75a22bb9a22432997fcdc604a4bfa3a)
 - [ ] [<code>wayland/xdg-foreign: Don't abort when importing an unknown handle</code>](https://github.com/linuxmint/muffin/commit/37b7d4bd726a6a789da5f31b75883b23a3ad5a6e)
 - [ ] [<code>screen-cast: Fix absolute pointer motion on scaled monitors</code>](https://github.com/linuxmint/muffin/commit/835a898d3e0b28537dee5ef291d6f29e571ebb05)
+- [ ] [<code>6.7.9-unstable</code>](https://github.com/linuxmint/muffin/commit/0f2a35e2dc334ff3df8c555d0c9130de310de9aa)
+  - <sub>Tags: <code>6.7.9-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wayland: Give a surface a new actor on every role assignment</code>](https://github.com/linuxmint/muffin/commit/4d9962ec6dea69b0e9baef4122de30497df6209f)
+- [ ] [<code>session.c (x11): Stop using X sync objects on Die instead of waiting</code>](https://github.com/linuxmint/muffin/commit/7daa00b51aec59b75e7717b6af52684d9ec9cc92)
+- [ ] [<code>wayland: Only expose the EGLStream controller when not rendering via gbm</code>](https://github.com/linuxmint/muffin/commit/192cd42666fea62772053bb6353950aa155f685c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1305,7 +1330,9 @@
 - [ ] [<code>nemo-mime-actions.c: Restore "Launch Anyway" when nemo cannot alter</code>](https://github.com/linuxmint/nemo/commit/6921be68a6dddbd23b4ac5ae58b3180bbae74d6b)
 - [ ] [<code>nemo-view.c: Always open a new window for open-as-root, make method</code>](https://github.com/linuxmint/nemo/commit/e5b6cfc1f5ede27ba9034ec55343e4eeaed66a8b)
 - [ ] [<code>packaging: Recommend unfold instead of file-roller</code>](https://github.com/linuxmint/nemo/commit/ed2d34b390917fa11c1031176db489fd5cfbc915)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.7.9-unstable</code>](https://github.com/linuxmint/nemo/commit/65865eabea166200a8851da59050566255bead10)
+  - <sub>Tags: <code>6.7.9-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1338,6 +1365,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-seahorse: Remove old C code</code>](https://github.com/linuxmint/nemo-extensions/commit/ceaa7a550a807603d648478ef6c35e3d6a64fb37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1370,6 +1404,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-seahorse: Remove old C code</code>](https://github.com/linuxmint/nemo-extensions/commit/ceaa7a550a807603d648478ef6c35e3d6a64fb37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1402,6 +1443,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-seahorse: Remove old C code</code>](https://github.com/linuxmint/nemo-extensions/commit/ceaa7a550a807603d648478ef6c35e3d6a64fb37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
@@ -1467,7 +1515,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>favorite-vfs-file-enumerator.c: Fix infinite loop in next_file().</code>](https://github.com/linuxmint/xapp/commit/ccd8cd30e608ca6b9a534b3138e59788c21eb206)
 - [ ] [<code>test-scripts: Add test for file-based symbolic icons.</code>](https://github.com/linuxmint/xapp/commit/7e47f1ea9237048ff2d724c31ca0c96cc36f1883)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>3.3.7-unstable</code>](https://github.com/linuxmint/xapp/commit/3e891b0e63f37d5b67c5198fd29543eb1f3b831d)
+  - <sub>Tags: <code>3.3.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
 
@@ -1480,11 +1530,11 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/hypnotix/commit/383358bc144e8fabc074f9695637c3852f253fdc)
 - [ ] [<code>Set prgname to match with the executable (#419)</code>](https://github.com/linuxmint/hypnotix/commit/608026942b093ec048a09b591c6fac8fc7b5a3e1)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>about: Set license type (#406)</code>](https://github.com/linuxmint/hypnotix/commit/0e0fa1c7596f7925c715c36efb0e4be53a3bde43)
-  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.7</code>](https://github.com/linuxmint/hypnotix/commit/e097cdc02868fb534e21bbb45ef508dbbb97ad8b)
+  - <sub>Tags: <code>5.7</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
 
@@ -1492,10 +1542,12 @@
 #### [sticky](https://github.com/linuxmint/sticky): [1.32 → HEAD](https://github.com/linuxmint/sticky/compare/1.32...HEAD)
 
 - [ ] [<code>Set window icon (#168)</code>](https://github.com/linuxmint/sticky/commit/6c70419fb1c0511bf8eb6791dfd2bdba23f9b302)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Set license type on about dialog (#169)</code>](https://github.com/linuxmint/sticky/commit/1658c699e111dd2641697a396db17b40d0cd4baa)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.33</code>](https://github.com/linuxmint/sticky/commit/0e780c2c9ad847e88d08a0d3fa4cd4679202d513)
+  - <sub>Tags: <code>1.33</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.09.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.09.0...HEAD)
 
@@ -1523,9 +1575,11 @@
 - [ ] [<code>wallpaper: Add preview dialog.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c0fafedfd0282aad962c2c58cc0ce53a122f3bf5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>i18n: Add makepot, clean up old translation files.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/26e0b7306f188eecfc8164b170676e49735305af)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>1.1.5-unstable</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/7f094c4508b6c2cf1b7a300b80ce035b325e239f)
+  - <sub>Tags: <code>1.1.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
