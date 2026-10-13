@@ -482,6 +482,12 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/31e1b7d38fe00749ea50ae89d03a643bd55fb387)
 - [ ] [<code>ci: migrate to a build matrix (#2692)</code>](https://github.com/alainm23/planify/commit/c1dc3b6d73f1473ee08ae3e1e751c0b6532ef946)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>refactor (caldav): parse xml with GLib.MarkupParser and drop GXml (#2720)</code>](https://github.com/alainm23/planify/commit/406917186a22a933880cfc042b8950049ff68fb0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/833eded2af9700b997cbd5c81ee7ccd62a8fbbbf)
+- [ ] [<code>fix(caldav): prevent 412 Precondition Failed when dragging tasks to sections (#2728)</code>](https://github.com/alainm23/planify/commit/5d72f40e2b989135f3f98bec2320ad38795ea496)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8702ebc291867f3faf4b2029aa1088365fa9d913)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
