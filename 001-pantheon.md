@@ -81,6 +81,7 @@
 - [ ] [<code>Fix BreadcrumbElement & BasicBreadcrumbsEntry memory leak (#2852)</code>](https://github.com/elementary/files/commit/4f4863a98433af85e14590e2b8541e240b24e18b)
 - [ ] [<code>BookmarkList: cleanup (#2854)</code>](https://github.com/elementary/files/commit/700ae4921bf9749f62a11b81182ca5b76594c0dc)
 - [ ] [<code>SidebarListInterface: remove refresh_info (#2858)</code>](https://github.com/elementary/files/commit/a2695fb1eec3188afeb6443d71e328e6f09f9efc)
+- [ ] [<code>Move prefers-color-scheme handler to dialog static construct (#2863)</code>](https://github.com/elementary/files/commit/d4dc2c2c188a83e2723b90cd464f06943b6e20dd)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -1336,6 +1337,8 @@
 - [ ] [<code>Introduce SystemUpdateProvider interface (#251)</code>](https://github.com/elementary/settings-daemon/commit/2b7a6813ae82b3e292db0c7c1ccd6dccae90676c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix POTFILES (#252)</code>](https://github.com/elementary/settings-daemon/commit/e38b999be29ad563b38f66c9f9745c5fb8935d05)
+- [ ] [<code>Add sysupdate backend (#247)</code>](https://github.com/elementary/settings-daemon/commit/8382afb6e14826c63d12edf63ef7f3e37eb07223)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
