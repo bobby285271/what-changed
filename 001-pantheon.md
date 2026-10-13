@@ -14,21 +14,9 @@
 - [ ] [<code>FlatpakBackend: only inhibit during write jobs (#2451)</code>](https://github.com/elementary/appcenter/commit/9182fd7f86cae94ef973802e1841c6cf13957e04)
 - [ ] [<code>SearchListItem: use Granite.ListItem and HeaderLabel (#2448)</code>](https://github.com/elementary/appcenter/commit/03bf439b4ed2bad58f2e0ca8fbd1a3503b9e64c4)
 
-#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [8.0.1 → HEAD](https://github.com/elementary/calculator/compare/8.0.1...HEAD)
+#### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [9.0.0 → HEAD](https://github.com/elementary/calculator/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/calculator/commit/e9abd0afce8665978635ee93850ade6c20c9d4fe)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/calculator/commit/6771c9aa6e165c2f014bddef2e528460aa6f1c33)
-- [ ] [<code>Update sidebar icons (#299)</code>](https://github.com/elementary/calculator/commit/a117cad22492f4f47a93a023c80644b653777aae)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#300)</code>](https://github.com/elementary/calculator/commit/c5534af08ddc5fa3fd20aafe09ea0637adb4051e)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#304)</code>](https://github.com/elementary/calculator/commit/1d201f0469ce77d65f143aad3c8952a6a9298cfe)
-- [ ] [<code>MainWindow: fix focus outline cutoff (#305)</code>](https://github.com/elementary/calculator/commit/6dc5b6dbb3dd5b0011a8d0a53d8ce0cf1595c255)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#306)</code>](https://github.com/elementary/calculator/commit/b95ba917dac988dd1ab511d0939c5beba2361192)
-- [ ] [<code>Evaluation: Use explicit namespace instead of using (#307)</code>](https://github.com/elementary/calculator/commit/a908dd1a5b70a737ec6794ab53c79600082eec2f)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/calculator/commit/df18001dac1b7e76647c2b51f972f55abc0f3d28)
-- [ ] [<code>Release 9.0.0</code>](https://github.com/elementary/calculator/commit/08c2caa38508fda046530e69eb5e6b11e2292393)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Button: Remove image-button class to look better with text buttons (#313)</code>](https://github.com/elementary/calculator/commit/db503aa54a1b2bb1bf2802a441f7e2c6bb81c8f4)
 
 #### [pantheon.elementary-calendar](https://github.com/elementary/calendar): [refs/tags/8.0.2 → HEAD](https://github.com/elementary/calendar/compare/refs/tags/8.0.2...HEAD)
 
@@ -41,19 +29,8 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.3.tar.xz to 3.62.0 (#960)</code>](https://github.com/elementary/calendar/commit/f94550990c911e699a56865c6bcb03dd2d1ab4dc)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.62.0.tar.xz to 3.62.1 (#964)</code>](https://github.com/elementary/calendar/commit/1f317ff22bcb587483d4181283719d2c9b42bf3b)
 
-#### [pantheon.elementary-camera](https://github.com/elementary/camera): [8.0.2 → HEAD](https://github.com/elementary/camera/compare/8.0.2...HEAD)
+#### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#299)</code>](https://github.com/elementary/camera/commit/7f18eb86953dcd1f5645d55be694dd52039f4378)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#301)</code>](https://github.com/elementary/camera/commit/5b499f5b6087f93a1612c7397f67e53e2518b3c5)
-- [ ] [<code>Flatpak: Use tarball instead of git for libcamberra (#304)</code>](https://github.com/elementary/camera/commit/342e315ca1270ef7451b8f772c63b3f9e950663d)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#303)</code>](https://github.com/elementary/camera/commit/39fc2bebe1b203d9e6ed4f2724bdc85502bccfce)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#306)</code>](https://github.com/elementary/camera/commit/759eea730311e9ac90b7eea84e1c44d640ccf028)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/camera/commit/bd7eb0218991dcacac5d45f6b79c43681a6bfc73)
-- [ ] [<code>README: Add missing '--install-deps-from=flathub' (#310)</code>](https://github.com/elementary/camera/commit/5368cecd820324a99f22c43bfaffcde56e6fad66)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#309)</code>](https://github.com/elementary/camera/commit/3bf4deb72af630702d891bf05685061cc58ef743)
-- [ ] [<code>Release 9.0.0 (#311)</code>](https://github.com/elementary/camera/commit/0f92c02238d75584094f7e6b319719c93f676da2)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-code](https://github.com/elementary/code): [refs/tags/8.4.0 → HEAD](https://github.com/elementary/code/compare/refs/tags/8.4.0...HEAD)
 
@@ -103,6 +80,7 @@
 - [ ] [<code>SidebarListInterface: remove select_item (#2856)</code>](https://github.com/elementary/files/commit/5096b6921901488298a11d1a98a63a996f37e751)
 - [ ] [<code>Fix BreadcrumbElement & BasicBreadcrumbsEntry memory leak (#2852)</code>](https://github.com/elementary/files/commit/4f4863a98433af85e14590e2b8541e240b24e18b)
 - [ ] [<code>BookmarkList: cleanup (#2854)</code>](https://github.com/elementary/files/commit/700ae4921bf9749f62a11b81182ca5b76594c0dc)
+- [ ] [<code>SidebarListInterface: remove refresh_info (#2858)</code>](https://github.com/elementary/files/commit/a2695fb1eec3188afeb6443d71e328e6f09f9efc)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -280,29 +258,8 @@
 - [ ] [<code>Styling: Fix row selection state (#580)</code>](https://github.com/elementary/monitor/commit/e821267b5ee4ac757a757f0ffe9991dd949184d1)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [pantheon.elementary-music](https://github.com/elementary/music): [8.1.0 → HEAD](https://github.com/elementary/music/compare/8.1.0...HEAD)
+#### [pantheon.elementary-music](https://github.com/elementary/music): [9.0.0 → HEAD](https://github.com/elementary/music/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6</code>](https://github.com/elementary/music/commit/883e1937d96359255e2e25a5bbf895807a754be8)
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/music/commit/9e6aee2e32645ff10a8acffee5ea445d74796723)
-- [ ] [<code>Introduce a QueueView (#833)</code>](https://github.com/elementary/music/commit/ef87af5e3a5d98000d08282a41fbe0110e2f89d9)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Metadata in AudioObject (#834)</code>](https://github.com/elementary/music/commit/3eebdd2aab7ddd044748829f47a0948bd3478966)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#842)</code>](https://github.com/elementary/music/commit/06a4c0df8695f87ecf733218e7a1067cbc0339ca)
-- [ ] [<code>Respect ReplayGain meta data (#841)</code>](https://github.com/elementary/music/commit/f0325df8515b635b6fe6c04d4fc7e5135b98b390)
-- [ ] [<code>Do not queue duplicate items (#845)</code>](https://github.com/elementary/music/commit/7294b92828cf947b021d5e6d64064d6ca37ebdd0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add support for playlists (#840)</code>](https://github.com/elementary/music/commit/97388950d52a9865ff344d6d586411ea18626b63)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/music/commit/ab0615eaf98f8f4182e94848819e5b409312fcdf)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/music/commit/c4651e8d6f68de68b04fb0e0ee9d066a5a90cc78)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/music/commit/6edd8c8a2886bedcb48f42e0442e11cc8e5d974d)
-- [ ] [<code>Actions: Update release branch to noble (#853)</code>](https://github.com/elementary/music/commit/f8ee52e4691efb374d9e3678ec41baefd73e966d)
-- [ ] [<code>Release 9.0.0 (#855)</code>](https://github.com/elementary/music/commit/4872ce74afc183305e8bd232691e720f26dcad61)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
@@ -310,15 +267,8 @@
 - [ ] [<code>exiv2: Update v0.28.8.tar.gz to 0.28.9 (#849)</code>](https://github.com/elementary/photos/commit/c343b22f31bef95366ee709a50ba74417437e831)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/photos/commit/58f178f7f9df3aa39a67ab4a6991afc3cb46d228)
 
-#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [8.0.4 → HEAD](https://github.com/elementary/screenshot/compare/8.0.4...HEAD)
+#### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#334)</code>](https://github.com/elementary/screenshot/commit/622fe8decd09c809defcbd058062635f53a2d014)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#337)</code>](https://github.com/elementary/screenshot/commit/2d06b55e06aac33c4b52b7588d385c16e8c60ac4)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#338)</code>](https://github.com/elementary/screenshot/commit/25b80caec376b4eae6104083c76012eee8d74416)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#340)</code>](https://github.com/elementary/screenshot/commit/daf7ddbd31bef019e81e4c481dfdd2a296153ffc)
-- [ ] [<code>Release 9.0.0 (#341)</code>](https://github.com/elementary/screenshot/commit/dd38d033988ad473c67b5a1840268017b666de20)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-tasks](https://github.com/elementary/tasks): [6.3.3 → HEAD](https://github.com/elementary/tasks/compare/6.3.3...HEAD)
 
@@ -626,6 +576,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>flatpak: Bump org.freedesktop.Platform.GL.default to 25.08 (#371)</code>](https://github.com/elementary/default-settings/commit/4bd722fabbbc418b6f95ab181cc48f335547dd2c)
 - [ ] [<code>flatpak: Pre-install Papers instead of Evince (#373)</code>](https://github.com/elementary/default-settings/commit/9c098fadb8510dc9143213cfa39a3daef132c0a1)
+- [ ] [<code>flatpak: Bump org.freedesktop.Platform.GL.default to 26.08 (#372)</code>](https://github.com/elementary/default-settings/commit/915d1a0b63865ce3f0d44a68318d55ef9ca90fe6)
 
 #### [pantheon.elementary-greeter](https://github.com/elementary/greeter): [5510466126f7aa3412a21c055d59f8eb5fcc8d29 → HEAD](https://github.com/elementary/greeter/compare/5510466126f7aa3412a21c055d59f8eb5fcc8d29...HEAD)
 
@@ -664,6 +615,9 @@
 - [ ] [<code>WindowManager: Use explicit Meta namespace (#913)</code>](https://github.com/elementary/greeter/commit/bc441b64d539c84a53017293006cf0bcdaa44950)
 - [ ] [<code>BaseCard: Move focus to the first focusable child on grab_focus (#912)</code>](https://github.com/elementary/greeter/commit/6adb6d22443122a8ab2f8218e598319cc75c4029)
 - [ ] [<code>Avoid opening more than 1 window (#916)</code>](https://github.com/elementary/greeter/commit/2f982d9e1f2e3fc0d86c7e3d787e055ecea57101)
+- [ ] [<code>Remove compositor (#915)</code>](https://github.com/elementary/greeter/commit/2eb38368c78b7d35877c3493f627c9666db68cea)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -1526,6 +1480,7 @@
 - [ ] [<code>Rollback to nvidia-595 (#910)</code>](https://github.com/elementary/os/commit/8be1d1239f3c9f730c227f9628fa252a04527274)
 - [ ] [<code>tmpfiles.d/login.conf: Fix /var/lib/lightdm ownership  (#911)</code>](https://github.com/elementary/os/commit/5215b29a2eb2d52bb946b2e8e0b92f75c32e808a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add systemd-coredmp (#915)</code>](https://github.com/elementary/os/commit/7024fd04646a6a8565bf6805989b59fd72de928c)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
