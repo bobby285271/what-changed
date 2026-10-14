@@ -621,8 +621,15 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-background-daemon.c: Apply embedded orientation</code>](https://github.com/linuxmint/cinnamon/commit/9be1a722ea0b7fa5604ce5fdb1d55c6fcfcd9e66)
 - [ ] [<code>6.7.9-unstable</code>](https://github.com/linuxmint/cinnamon/commit/1f3ecc45ec2e24486c8d388e76d2af9f13eb8990)
-  - <sub>Tags: <code>6.7.9-unstable</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.9-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>windowMenu.js: Fix ornament type checks.</code>](https://github.com/linuxmint/cinnamon/commit/d549e6cf71a895e77605c1c57b263259de673637)
+- [ ] [<code>popupMenu.js: Make PopupIndicatorMenuItem a PopupMenuItem subclass.</code>](https://github.com/linuxmint/cinnamon/commit/3561261336599699e1233f75f2f978069612c86a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>st-icon.c: Size to the pending texture while it loads</code>](https://github.com/linuxmint/cinnamon/commit/c3e2d340ce27049b3b476eab7f27e5f492b32248)
+- [ ] [<code>calendar@cinnamon.org/eventView.js: Don't give events that end at</code>](https://github.com/linuxmint/cinnamon/commit/8b76cf8f7c258d27a43e7f4b3564089d184cff49)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -937,12 +944,15 @@
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#27)</code>](https://github.com/linuxmint/mint-l-theme/commit/ea456bb93e7ee00c8dcf9fd1d8823f7790b2d786)
 - [ ] [<code>2.0.9</code>](https://github.com/linuxmint/mint-l-theme/commit/c15bcfa03ae71ab6e432e016cfb27e61992696f9)
   - <sub>Tags: <code>2.0.9</code></sub>
+- [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-l-theme/commit/11d81df01ffdc86401d02d9f764bbb53eb806fbe)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.2...HEAD)
 
 - [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
 - [ ] [<code>2.4.3</code>](https://github.com/linuxmint/mint-themes/commit/743ed62b1f72fb570c9633c84e8fd9629d790650)
-  - <sub>Tags: <code>2.4.3</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>2.4.3</code></sub>
+- [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.9...HEAD)
 
