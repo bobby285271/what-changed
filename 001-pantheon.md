@@ -13,6 +13,7 @@
 - [ ] [<code>LinkListBox: use Granite.ListItem (#2449)</code>](https://github.com/elementary/appcenter/commit/4ec5138fd6e6367cb518b177a857c859ea7c7082)
 - [ ] [<code>FlatpakBackend: only inhibit during write jobs (#2451)</code>](https://github.com/elementary/appcenter/commit/9182fd7f86cae94ef973802e1841c6cf13957e04)
 - [ ] [<code>SearchListItem: use Granite.ListItem and HeaderLabel (#2448)</code>](https://github.com/elementary/appcenter/commit/03bf439b4ed2bad58f2e0ca8fbd1a3503b9e64c4)
+- [ ] [<code>Fix: activated row url open action (#2452)</code>](https://github.com/elementary/appcenter/commit/ec1541798ae358d5bf0b906ba6f46e18bd941108)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [9.0.0 → HEAD](https://github.com/elementary/calculator/compare/9.0.0...HEAD)
 
@@ -38,6 +39,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Simplify search function (#1803)</code>](https://github.com/elementary/code/commit/7b56ffabcd606fa52cd0f4750448ca3566f99b64)
 - [ ] [<code>Fix stale global search result badges (#1822)</code>](https://github.com/elementary/code/commit/07ba77be46b91318190a0cbd2331aef932c5e16a)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#1826)</code>](https://github.com/elementary/code/commit/51f673fe6e26a14131d6f395a808bc62d5f5c2cf)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -148,6 +150,10 @@
 - [ ] [<code>ConversationListItem: GTK4 prep (#1094)</code>](https://github.com/elementary/mail/commit/19ce0397c0f953128f13f4738caad2862b438061)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/mail/commit/8b1f3a5211cc89d74b174c6a1bb72e0e8f16f1e8)
 - [ ] [<code>Actions: Update gettext-template (#1097)</code>](https://github.com/elementary/mail/commit/752652dac4311d9534c850d475ddf8ff74274b6a)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#1099)</code>](https://github.com/elementary/mail/commit/a2c948324c5cfe7bb7250c9057b83596e5629f41)
+- [ ] [<code>Adapt to libcamel API changes in 3.58 (#1100)</code>](https://github.com/elementary/mail/commit/ff75d47eb3f410c834a6be27c9c1507d12a66835)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
 
@@ -164,6 +170,9 @@
 - [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#189)</code>](https://github.com/elementary/maps/commit/bdd2777be4e1a168b7284320d6a635daef2880b1)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#190)</code>](https://github.com/elementary/maps/commit/82706e5b8240cbc47fc0ab4ff71555cb98771ad4)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#191)</code>](https://github.com/elementary/maps/commit/97bfd674d9eab56c3ada9a5f81ba0f525648f862)
+- [ ] [<code>Release 9.0.0 (#192)</code>](https://github.com/elementary/maps/commit/30e12aa067d32a018a4c3f7c027084a2ff89073c)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -267,6 +276,7 @@
 - [ ] [<code>gexiv2: Update gexiv2-0.16.1.tar.xz to 0.16.2 (#847)</code>](https://github.com/elementary/photos/commit/cdb016ed33460efad0649ef0b24ea9cd269634df)
 - [ ] [<code>exiv2: Update v0.28.8.tar.gz to 0.28.9 (#849)</code>](https://github.com/elementary/photos/commit/c343b22f31bef95366ee709a50ba74417437e831)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/photos/commit/58f178f7f9df3aa39a67ab4a6991afc3cb46d228)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/photos/commit/9b05141b76d55b75cfd76c5441cdb8673f8a9f3d)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -343,6 +353,10 @@
 - [ ] [<code>flatpak: Update to org.freedesktop.Platform.codecs-extra 25.08 (#419)</code>](https://github.com/elementary/videos/commit/8610d3c81876e6413a66beec50d485ea0bf70fe4)
 - [ ] [<code>README: Remove extra whitespace</code>](https://github.com/elementary/videos/commit/3d76495ffae3d1199223c63846737931ddeadc2d)
 - [ ] [<code>README: Add missing '--install-deps-from=flathub'</code>](https://github.com/elementary/videos/commit/f7956200171c053a6d811f326a2561bc99a74a19)
+- [ ] [<code>Flatpak: Bump platform to 9.1 (#422)</code>](https://github.com/elementary/videos/commit/1151f2f7b59af90af52bf3396d0b7b40b0dd5023)
+- [ ] [<code>Release 9.0.0 (#423)</code>](https://github.com/elementary/videos/commit/c1c19321c6a318e33649926e76f751b4544fc835)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
@@ -518,6 +532,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#1352)</code>](https://github.com/elementary/stylesheet/commit/1242ce7955601e1008a9ee5a039577993f6bd60b)
 - [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1354)</code>](https://github.com/elementary/stylesheet/commit/ce649052e3b0a0aa3c61521f521aef434506d332)
 - [ ] [<code>Actions: Update gettext-template (#1357)</code>](https://github.com/elementary/stylesheet/commit/0eeadadde091c44c3f9e2fd6e0f63c0ddea08b91)
+- [ ] [<code>menubutton: Fix default icon (#1356)</code>](https://github.com/elementary/stylesheet/commit/a6e19988a11f3e70e728d4951ab29e080660b31c)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
@@ -672,6 +687,32 @@
 - [ ] [<code>Utils: Add easier getter for reduced motion</code>](https://github.com/elementary/gala/commit/390730c95d45934258e1e819fb8d620b62f3eccc)
 - [ ] [<code>Use reduced motion in addition to disabled animations</code>](https://github.com/elementary/gala/commit/0b51ba90bf0236ace073583be135647ead18c0c1)
 - [ ] [<code>TransitionBuilder: Support reduced motion</code>](https://github.com/elementary/gala/commit/f0791434ac40a50f2aec64700a47b3bb04145752)
+- [ ] [<code>Update README</code>](https://github.com/elementary/gala/commit/81feda64116b88930bed4d118b66c9012aa1f21c)
+- [ ] [<code>Main: Guard against launching as X WM</code>](https://github.com/elementary/gala/commit/f41ff464b1d8a255d59c4cc48ea39979f3319b70)
+- [ ] [<code>Main: Always init pantheon shell</code>](https://github.com/elementary/gala/commit/a39b33c1df514ca4cc0be09817dda557b175f4e6)
+- [ ] [<code>ManagedClient: Drop X11 support</code>](https://github.com/elementary/gala/commit/5e46b217ca369639200c612d5463e2c07cb48458)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>DaemonManager: Drop gtk3 daemon args</code>](https://github.com/elementary/gala/commit/f75d33908449f20597fa4f925d02bc367b35ca2e)
+- [ ] [<code>ShellClientsManager: Drop parse mutter hints</code>](https://github.com/elementary/gala/commit/66fcb0eee76fa76b33fdcadd61aa1701a769feb8)
+- [ ] [<code>WindowManager: Drop input area management</code>](https://github.com/elementary/gala/commit/e42093d5969f0174fc04198949a213532d93de44)
+- [ ] [<code>HotCornerManager: Drop unused on_configured signal and cleanup</code>](https://github.com/elementary/gala/commit/1f41fe0468ff4648e8889047e7f6bb4a9e01257d)
+- [ ] [<code>PluginManager: Drop input region handling</code>](https://github.com/elementary/gala/commit/7dee98f10ecb092171e2bffada3f984e53927e89)
+- [ ] [<code>ShellWindow: Drop special handling for X11 clients regarding input regions</code>](https://github.com/elementary/gala/commit/26415d997d5b3fa8f68ba8869780b1573a2a2fb5)
+- [ ] [<code>WindowManager: Drop X11 workaround for DND windows</code>](https://github.com/elementary/gala/commit/369096f366027c1a5aa52436cc4f0964e90c735e)
+- [ ] [<code>WindowManager: Always start x11 services</code>](https://github.com/elementary/gala/commit/5693a45b47a4696780378d503a49c158f9506e13)
+- [ ] [<code>ToucheggBackend: Drop wayland compositor check</code>](https://github.com/elementary/gala/commit/759f12f2d41ced5fdc7ae91ab59a6231e9004029)
+- [ ] [<code>DragDropAction: drop X11 support</code>](https://github.com/elementary/gala/commit/c635cd39fa68f5aca18b132f8b1a1bb526087d17)
+- [ ] [<code>Drop special handling for X11 in fullscreen</code>](https://github.com/elementary/gala/commit/094a1e0758e5c61cf6cb60cc37163330284506ec)
+- [ ] [<code>ShellClientsManager: Drop reading launch-on-x</code>](https://github.com/elementary/gala/commit/3b9713ee921318b9e79be589165d6eed39941759)
+- [ ] [<code>shell clients config: Drop launch on x key</code>](https://github.com/elementary/gala/commit/a7b88671ec4ad95c420c183125e1374b8fa1d7c8)
+- [ ] [<code>BlurManager: Drop parsing mutter hints</code>](https://github.com/elementary/gala/commit/a542f0801c2342053e8b404f62f71f22405c4d7b)
+- [ ] [<code>Drop X11 systemd target</code>](https://github.com/elementary/gala/commit/7eb927e057a5885d83fac2c0c26f875f9aad0ceb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Drop GTK3 daemon</code>](https://github.com/elementary/gala/commit/89e217eb1b1e17071520fc5d73573e73e6043495)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>NotificationStack: Dont use window type for is_notification</code>](https://github.com/elementary/gala/commit/7ce484e7780dabb2211bb15858f7b1050a45a12c)
+- [ ] [<code>Revert "Fix crash when destroying notifications"</code>](https://github.com/elementary/gala/commit/f54c9161cae24b479fa78e108122f7ec4fddaf77)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -753,6 +794,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Update gettext-template (#736)</code>](https://github.com/elementary/wingpanel/commit/070d01ad1cbe2b2cec019367cc7910c8ff1f8cfa)
 - [ ] [<code>BackgroundManager: track window type (#741)</code>](https://github.com/elementary/wingpanel/commit/6b8ae0453b1fd6dc07bd246642998011f04b2125)
+- [ ] [<code>Rework focus handling (#740)</code>](https://github.com/elementary/wingpanel/commit/35d163ee8c520f6d2f7c40701e44a461c709c045)
+- [ ] [<code>Require Mutter 46 (#739)</code>](https://github.com/elementary/wingpanel/commit/8926c60ac819b12b45cca52ee59b63f7158ee403)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -1290,6 +1335,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/capnet-assist/commit/4c9233cb96f06b1da6a56afdf68d538ec663a173)
 - [ ] [<code>Bump Flatpak platform to 9 (#148)</code>](https://github.com/elementary/capnet-assist/commit/8c37d825b7861803678b0cd63e6595083e7c5e61)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/capnet-assist/commit/634fff70fbe759454adc887341da1c12130ee7b5)
+- [ ] [<code>Unify license to GPL-3.0-or-later (#136)</code>](https://github.com/elementary/capnet-assist/commit/5878de9404ddbf89e50f9e2ddf08563aa0a2dac6)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
