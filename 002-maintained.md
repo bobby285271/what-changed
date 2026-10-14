@@ -451,6 +451,10 @@
 - [ ] [<code>Updating German translation</code>](https://github.com/phase1geo/minder/commit/9a6e6bbde2406875869cba2535fbc6468ff9a987)
 - [ ] [<code>Merge pull request #757 from be-we/master</code>](https://github.com/phase1geo/minder/commit/cfb068993d83f56a9d1cf2bcf9b28f6eff0d9acf)
 - [ ] [<code>Updating appdata.xml release information.</code>](https://github.com/phase1geo/minder/commit/c5f2ee89e89510d0361833a6def77e11ce07c876)
+- [ ] [<code>Repairing Flathub flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/f53e2567ef63c6b81981d26563d8b1ae11116048)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Updating elementary flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/4816377f93f90354dcf73447166486f3f42d3b43)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
