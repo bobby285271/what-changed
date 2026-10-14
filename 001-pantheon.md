@@ -798,6 +798,7 @@
 - [ ] [<code>Require Mutter 46 (#739)</code>](https://github.com/elementary/wingpanel/commit/8926c60ac819b12b45cca52ee59b63f7158ee403)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>CSS: fix semantic colors (#743)</code>](https://github.com/elementary/wingpanel/commit/e737de88bc02ddc82a9f4d23f574cc3c04098c03)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
