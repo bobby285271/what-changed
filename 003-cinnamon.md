@@ -628,6 +628,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>st-icon.c: Size to the pending texture while it loads</code>](https://github.com/linuxmint/cinnamon/commit/c3e2d340ce27049b3b476eab7f27e5f492b32248)
 - [ ] [<code>calendar@cinnamon.org/eventView.js: Don't give events that end at</code>](https://github.com/linuxmint/cinnamon/commit/8b76cf8f7c258d27a43e7f4b3564089d184cff49)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st-viewport.c: Update the scroll adjustment atomically during allocation</code>](https://github.com/linuxmint/cinnamon/commit/7670b89fdbd1d9f3e16b984a81708f633d752db8)
+- [ ] [<code>grouped-window-list: Don't toggle scroll buttons from inside layout</code>](https://github.com/linuxmint/cinnamon/commit/b6184ebc2655c5d15396d3cf21ff87d7c0de175a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
