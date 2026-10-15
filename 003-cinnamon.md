@@ -848,8 +848,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>systemd: Keep dbus.service running when the kernel OOM-kills one of its</code>](https://github.com/linuxmint/cinnamon-session/commit/c038bb411cd388abac031a41b857f3fb3276549e)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/af94f9bbde8f884da9e4a290f63e918bb8834493)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csm-manager.c: Don't restart session components once the session is</code>](https://github.com/linuxmint/cinnamon-session/commit/2ab4059271f7e70e03947950a8fe0668bccb207a)
+- [ ] [<code>csm-manager.c: Track logout dialog usage so shutdown avoids any</code>](https://github.com/linuxmint/cinnamon-session/commit/b2736df20b087815495e978636edcc0b8b13c315)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
