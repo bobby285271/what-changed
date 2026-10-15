@@ -455,6 +455,9 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Updating elementary flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/4816377f93f90354dcf73447166486f3f42d3b43)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Attempting to fix issues with #758</code>](https://github.com/phase1geo/minder/commit/a1626326a0aad75a8f9a09699b2fdbfd8a385527)
+- [ ] [<code>Adding yamllint to flatpak builds.</code>](https://github.com/phase1geo/minder/commit/a7bba73ed99a04a0e645707691db0cbbb594ad29)
+- [ ] [<code>Attempting to fix CI error.</code>](https://github.com/phase1geo/minder/commit/01ce5e16d5b95f6b409351a96db0dec65e4a930e)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -523,6 +526,13 @@
 - [ ] [<code>Actions: Remove gettext</code>](https://github.com/ellie-commons/sequeler/commit/8d3374a4932e35f07f384f42b85d8e83bf128e7f)
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/ellie-commons/sequeler/commit/8d3894b2eeba9713f7b84caaa86c2cf619b2b366)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#452)</code>](https://github.com/ellie-commons/sequeler/commit/3089ee67c5d0fbc808320acd7857191e4883e429)
+- [ ] [<code>Update elementary runtime to 9.1</code>](https://github.com/ellie-commons/sequeler/commit/9ac19a5b90922693c4ac77572e5847189e15d6e4)
+- [ ] [<code>Update GNOME runtime to 51</code>](https://github.com/ellie-commons/sequeler/commit/c58973a621aa50d0a51011db24f3946ad97fa046)
+- [ ] [<code>libaio: Switch upstream site from decommissioned pagure.io to codeberg.org</code>](https://github.com/ellie-commons/sequeler/commit/8abfbbf40281ac0e94ab656409221f39520140d2)
+- [ ] [<code>jemalloc: Update 5.3.0.tar.gz to 5.4.0</code>](https://github.com/ellie-commons/sequeler/commit/fc5f088ac4cc40324dc29d5dc33f69e8da85c78e)
+- [ ] [<code>postgresql-libs: Update postgresql-18.1.tar.gz to 18.6</code>](https://github.com/ellie-commons/sequeler/commit/92b7f7e0e670971cf5a035998fd966fcd1221b24)
+- [ ] [<code>mariadb: Update 12.2.1 to 13.1.1</code>](https://github.com/ellie-commons/sequeler/commit/df4ea6dc99c0707b9adba0667e3200e372e24272)
+- [ ] [<code>Actions: Update ghcr.io/elementary/flatpak-platform/runtime to 9.1</code>](https://github.com/ellie-commons/sequeler/commit/5bddf881c707ce41d80005f8b988581393aeefe5)
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
