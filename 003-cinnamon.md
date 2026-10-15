@@ -631,8 +631,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>st-viewport.c: Update the scroll adjustment atomically during allocation</code>](https://github.com/linuxmint/cinnamon/commit/7670b89fdbd1d9f3e16b984a81708f633d752db8)
 - [ ] [<code>grouped-window-list: Don't toggle scroll buttons from inside layout</code>](https://github.com/linuxmint/cinnamon/commit/b6184ebc2655c5d15396d3cf21ff87d7c0de175a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-looking-glass.py: Simplify session-type check.</code>](https://github.com/linuxmint/cinnamon/commit/6d6daba829f477316cb625997ce9634bf890cac8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>backgroundManager.js: Don't attempt to restart after SessionOver</code>](https://github.com/linuxmint/cinnamon/commit/9c75a64ed50f6716f893b88abff168ae1fbc4e9d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -916,9 +919,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-systemd-notify.c: Simplify i18n, do better reporting which app</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c6051245c6ea61766413733760d9ddb9d44d4b57)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0b66e1e55446842b89faa9bd723cd57b1798595a)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -957,23 +962,11 @@
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.9...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.0...HEAD)
 
-- [ ] [<code>Add superlight</code>](https://github.com/linuxmint/mint-x-icons/commit/8a063c76b3d70580be326e6bc3c3702bb6685f6c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add unfold</code>](https://github.com/linuxmint/mint-x-icons/commit/f31c9365f1ec2af406403ca719a6f27ba68815be)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.0</code>](https://github.com/linuxmint/mint-x-icons/commit/ff9791a3e33b4146480cb06984740019879bc623)
-  - <sub>Tags: <code>1.8.0</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.6...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.7...HEAD)
 
-- [ ] [<code>Add superlight</code>](https://github.com/linuxmint/mint-y-icons/commit/8816c5a6a844035ddfc20dd97f75952caaa23c84)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add unfold</code>](https://github.com/linuxmint/mint-y-icons/commit/b9ef1ae4744604a22422e28883e2b7caa5646f8c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.7</code>](https://github.com/linuxmint/mint-y-icons/commit/1030774c1dc18b7ae019accfb923b5fdb25f09c1)
-  - <sub>Tags: <code>1.9.7</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1215,6 +1208,7 @@
 - [ ] [<code>wayland: Give a surface a new actor on every role assignment</code>](https://github.com/linuxmint/muffin/commit/4d9962ec6dea69b0e9baef4122de30497df6209f)
 - [ ] [<code>session.c (x11): Stop using X sync objects on Die instead of waiting</code>](https://github.com/linuxmint/muffin/commit/7daa00b51aec59b75e7717b6af52684d9ec9cc92)
 - [ ] [<code>wayland: Only expose the EGLStream controller when not rendering via gbm</code>](https://github.com/linuxmint/muffin/commit/192cd42666fea62772053bb6353950aa155f685c)
+- [ ] [<code>wayland dnd: Fix regression from 4d9962ec6 - chain up in assigned,</code>](https://github.com/linuxmint/muffin/commit/17c958413753feafdbd5d58dc1e420f72a5f1859)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1344,8 +1338,10 @@
 - [ ] [<code>nemo-view.c: Always open a new window for open-as-root, make method</code>](https://github.com/linuxmint/nemo/commit/e5b6cfc1f5ede27ba9034ec55343e4eeaed66a8b)
 - [ ] [<code>packaging: Recommend unfold instead of file-roller</code>](https://github.com/linuxmint/nemo/commit/ed2d34b390917fa11c1031176db489fd5cfbc915)
 - [ ] [<code>6.7.9-unstable</code>](https://github.com/linuxmint/nemo/commit/65865eabea166200a8851da59050566255bead10)
-  - <sub>Tags: <code>6.7.9-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.9-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-icon-dnd.c: Send success for root-window drops so the source</code>](https://github.com/linuxmint/nemo/commit/2ae082c0d598500f9bf5b5ba0863e0e31a97a2c5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
