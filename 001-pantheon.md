@@ -29,6 +29,8 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/calendar/commit/67db2874457b9e5cf9e109ea98439ead53f2bdf7)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.61.3.tar.xz to 3.62.0 (#960)</code>](https://github.com/elementary/calendar/commit/f94550990c911e699a56865c6bcb03dd2d1ab4dc)
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.62.0.tar.xz to 3.62.1 (#964)</code>](https://github.com/elementary/calendar/commit/1f317ff22bcb587483d4181283719d2c9b42bf3b)
+- [ ] [<code>Flatpak: Bump platform to 9.1</code>](https://github.com/elementary/calendar/commit/1e44f00caaa31d2a13b68658e98dd335f348f5d5)
+- [ ] [<code>libical: Update v3.0.9 to v3.0.20</code>](https://github.com/elementary/calendar/commit/9c4dae670768e1c4617e5bde3a223fa45aabb583)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -84,6 +86,9 @@
 - [ ] [<code>BookmarkList: cleanup (#2854)</code>](https://github.com/elementary/files/commit/700ae4921bf9749f62a11b81182ca5b76594c0dc)
 - [ ] [<code>SidebarListInterface: remove refresh_info (#2858)</code>](https://github.com/elementary/files/commit/a2695fb1eec3188afeb6443d71e328e6f09f9efc)
 - [ ] [<code>Move prefers-color-scheme handler to dialog static construct (#2863)</code>](https://github.com/elementary/files/commit/d4dc2c2c188a83e2723b90cd464f06943b6e20dd)
+- [ ] [<code>SidebarItemInterface: remove 2 methods (#2862)</code>](https://github.com/elementary/files/commit/7142845e764058fcb93ae30a4b8f0f47677ef7ff)
+- [ ] [<code>SidebarListInterface: simplify (#2860)</code>](https://github.com/elementary/files/commit/88102d941b98a2393d80fa6d4da035ea19ac1773)
+- [ ] [<code>Miller: Truncate after when column becomes active (#2845)</code>](https://github.com/elementary/files/commit/defe6e64c6d50a9f7069680ece7ca720c6735409)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -336,6 +341,9 @@
 - [ ] [<code>libical: Update libical-3.0.16.tar.gz to 3.0.20</code>](https://github.com/elementary/tasks/commit/43ea0665363dec3aec51501e7b8b2a154098d82b)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#433)</code>](https://github.com/elementary/tasks/commit/01ce72e6ae2a76c435c0cddc8721269ea15dcfde)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#437)</code>](https://github.com/elementary/tasks/commit/d3dc4bbee1f5588a294925b08c754fdfebcba174)
+- [ ] [<code>Add support for ICal >= 4.0.0 (#435)</code>](https://github.com/elementary/tasks/commit/1509007edfb932d60086ce4f4f14afe09440d6a0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
@@ -392,6 +400,7 @@
 - [ ] [<code>PlugsManager: load local plugins (#398)</code>](https://github.com/elementary/switchboard/commit/5641b811c33e772f4a8b24980c2ce93687c12067)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>SettingsPage: use Granite.HeaderLabel (#400)</code>](https://github.com/elementary/switchboard/commit/d1200fea1c3ed514bd161afc948079389769ec3b)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -867,6 +876,7 @@
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>Fix compile errors with new Vala (#242)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/80489e6b555b5854996a27b8b02dddfdddb4c83c)
 - [ ] [<code>Use new ServerType enum (#243)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/e0fe999433f4ccc1a9133016a84155683703dd1f)
+- [ ] [<code>Also initially filter devices on whether they are paired (#244)</code>](https://github.com/elementary/wingpanel-indicator-bluetooth/commit/f67e65d09a8ab046f54895a326273dce5c491430)
 
 #### [pantheon.wingpanel-indicator-datetime](https://github.com/elementary/wingpanel-indicator-datetime): [2.4.2 → HEAD](https://github.com/elementary/wingpanel-indicator-datetime/compare/2.4.2...HEAD)
 
@@ -1289,6 +1299,7 @@
 - [ ] [<code>Styles/lighting: fix missing comma in shadow(3) (#1074)</code>](https://github.com/elementary/granite/commit/c2071aa4b69e2ee6d9758a3fd07e1ce3ef1d7e27)
 - [ ] [<code>StyleManager: add provider for each display, independently update color schemes (#1077)</code>](https://github.com/elementary/granite/commit/e0b016e70c1e83577d6d4491af31f5c762cf3592)
 - [ ] [<code>StyleManager: Only set color scheme for app provider if it exists (#1084)</code>](https://github.com/elementary/granite/commit/28c71ff7185f8e414d698d3ccbce2ca2bc59b316)
+- [ ] [<code>Styles: combine button styles (#1066)</code>](https://github.com/elementary/granite/commit/e696d21debd7ac190333c7c250f54e9a66c98314)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1337,6 +1348,10 @@
 - [ ] [<code>Bump Flatpak platform to 9 (#148)</code>](https://github.com/elementary/capnet-assist/commit/8c37d825b7861803678b0cd63e6595083e7c5e61)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/capnet-assist/commit/634fff70fbe759454adc887341da1c12130ee7b5)
 - [ ] [<code>Unify license to GPL-3.0-or-later (#136)</code>](https://github.com/elementary/capnet-assist/commit/5878de9404ddbf89e50f9e2ddf08563aa0a2dac6)
+- [ ] [<code>Update Flatpak platform to 9.1 (#151)</code>](https://github.com/elementary/capnet-assist/commit/d248e724f66579be075d653fddcf139f0b99fa78)
+- [ ] [<code>Release 9.0.0 (#153)</code>](https://github.com/elementary/capnet-assist/commit/75117f3a6ba52a137e42e137a45038885ee11151)
+  - <sub>Tags: <code>9.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
@@ -1531,6 +1546,7 @@
 - [ ] [<code>tmpfiles.d/login.conf: Fix /var/lib/lightdm ownership  (#911)</code>](https://github.com/elementary/os/commit/5215b29a2eb2d52bb946b2e8e0b92f75c32e808a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add systemd-coredmp (#915)</code>](https://github.com/elementary/os/commit/7024fd04646a6a8565bf6805989b59fd72de928c)
+- [ ] [<code>Switch to kmscon by default (#917)</code>](https://github.com/elementary/os/commit/a6b2376ae87749fbe6b8a71575d6b28aef532407)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
