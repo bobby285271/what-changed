@@ -458,6 +458,7 @@
 - [ ] [<code>Attempting to fix issues with #758</code>](https://github.com/phase1geo/minder/commit/a1626326a0aad75a8f9a09699b2fdbfd8a385527)
 - [ ] [<code>Adding yamllint to flatpak builds.</code>](https://github.com/phase1geo/minder/commit/a7bba73ed99a04a0e645707691db0cbbb594ad29)
 - [ ] [<code>Attempting to fix CI error.</code>](https://github.com/phase1geo/minder/commit/01ce5e16d5b95f6b409351a96db0dec65e4a930e)
+- [ ] [<code>Updates to appdata.xml</code>](https://github.com/phase1geo/minder/commit/5dfc54ac6adbb6f1af65ad35c4f6a73f1b30b988)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
