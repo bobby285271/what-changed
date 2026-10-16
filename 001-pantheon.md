@@ -354,17 +354,8 @@
 - [ ] [<code>Jeremypw/fix new root tab (#1019)</code>](https://github.com/elementary/terminal/commit/4e1aadbb6d3d29008bd704fd56702873d25efde5)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
 
-#### [pantheon.elementary-videos](https://github.com/elementary/videos): [8.0.2 → HEAD](https://github.com/elementary/videos/compare/8.0.2...HEAD)
+#### [pantheon.elementary-videos](https://github.com/elementary/videos): [9.0.0 → HEAD](https://github.com/elementary/videos/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/videos/commit/476e0f9b37337bbad52025e72fa829c03c35bf4f)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/videos/commit/fd850b27368e7cfecc7f60b7b1e3c9ae67693f4e)
-- [ ] [<code>flatpak: Update to org.freedesktop.Platform.codecs-extra 25.08 (#419)</code>](https://github.com/elementary/videos/commit/8610d3c81876e6413a66beec50d485ea0bf70fe4)
-- [ ] [<code>README: Remove extra whitespace</code>](https://github.com/elementary/videos/commit/3d76495ffae3d1199223c63846737931ddeadc2d)
-- [ ] [<code>README: Add missing '--install-deps-from=flathub'</code>](https://github.com/elementary/videos/commit/f7956200171c053a6d811f326a2561bc99a74a19)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#422)</code>](https://github.com/elementary/videos/commit/1151f2f7b59af90af52bf3396d0b7b40b0dd5023)
-- [ ] [<code>Release 9.0.0 (#423)</code>](https://github.com/elementary/videos/commit/c1c19321c6a318e33649926e76f751b4544fc835)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
@@ -682,6 +673,9 @@
 - [ ] [<code>Fix granite style class deprecation (#168)</code>](https://github.com/elementary/shortcut-overlay/commit/619d604cc82ec6beeaf28a21bb182d897e93956a)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#169)</code>](https://github.com/elementary/shortcut-overlay/commit/1dbe5c3714a42ba5ef78f515065d2b8f7e235e40)
 - [ ] [<code>ShorcutsView: add Notifications Menu (#170)</code>](https://github.com/elementary/shortcut-overlay/commit/0589f1f7927b8c71a0e608b8629080d65848dac9)
+- [ ] [<code>Build with Granite 9 (#167)</code>](https://github.com/elementary/shortcut-overlay/commit/e00a2b94615a50f0912c5c5ca38125c3fad09b8b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.file-roller-contract](https://github.com/elementary/file-roller-contract): [cf001d84a7e2ddcfbee2cfdb19885798a869833e → HEAD](https://github.com/elementary/file-roller-contract/compare/cf001d84a7e2ddcfbee2cfdb19885798a869833e...HEAD)
 
