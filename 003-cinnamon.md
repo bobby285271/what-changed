@@ -635,6 +635,7 @@
 - [ ] [<code>cinnamon-looking-glass.py: Simplify session-type check.</code>](https://github.com/linuxmint/cinnamon/commit/6d6daba829f477316cb625997ce9634bf890cac8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>backgroundManager.js: Don't attempt to restart after SessionOver</code>](https://github.com/linuxmint/cinnamon/commit/9c75a64ed50f6716f893b88abff168ae1fbc4e9d)
+- [ ] [<code>screensaver/controller.js: Watch logind for lock if the native</code>](https://github.com/linuxmint/cinnamon/commit/c6313408f90e4eec62ec7cd3b7e8f0e90d2713e0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -852,6 +853,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csm-manager.c: Don't restart session components once the session is</code>](https://github.com/linuxmint/cinnamon-session/commit/2ab4059271f7e70e03947950a8fe0668bccb207a)
 - [ ] [<code>csm-manager.c: Track logout dialog usage so shutdown avoids any</code>](https://github.com/linuxmint/cinnamon-session/commit/b2736df20b087815495e978636edcc0b8b13c315)
+- [ ] [<code>csm-systemd.c: Take the session's logind inhibitor in block-weak mode when available. (#219)</code>](https://github.com/linuxmint/cinnamon-session/commit/2f256e0acf0130e16b156cd3e8f53dd576b2e31a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
@@ -950,18 +952,12 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>1.8.6</code>](https://github.com/linuxmint/mint-l-icons/commit/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3)
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.8...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.9...HEAD)
 
-- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#27)</code>](https://github.com/linuxmint/mint-l-theme/commit/ea456bb93e7ee00c8dcf9fd1d8823f7790b2d786)
-- [ ] [<code>2.0.9</code>](https://github.com/linuxmint/mint-l-theme/commit/c15bcfa03ae71ab6e432e016cfb27e61992696f9)
-  - <sub>Tags: <code>2.0.9</code></sub>
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-l-theme/commit/11d81df01ffdc86401d02d9f764bbb53eb806fbe)
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.2...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.3...HEAD)
 
-- [ ] [<code>fixed scrollbar overwriting window borders on wayland (#538)</code>](https://github.com/linuxmint/mint-themes/commit/c2ebd14a262d1599a5a5cd0b46d18513586ffdf6)
-- [ ] [<code>2.4.3</code>](https://github.com/linuxmint/mint-themes/commit/743ed62b1f72fb570c9633c84e8fd9629d790650)
-  - <sub>Tags: <code>2.4.3</code></sub>
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
@@ -1538,15 +1534,8 @@
 
 ## random
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.6 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.6...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.7...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/hypnotix/commit/383358bc144e8fabc074f9695637c3852f253fdc)
-- [ ] [<code>Set prgname to match with the executable (#419)</code>](https://github.com/linuxmint/hypnotix/commit/608026942b093ec048a09b591c6fac8fc7b5a3e1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>about: Set license type (#406)</code>](https://github.com/linuxmint/hypnotix/commit/0e0fa1c7596f7925c715c36efb0e4be53a3bde43)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.7</code>](https://github.com/linuxmint/hypnotix/commit/e097cdc02868fb534e21bbb45ef508dbbb97ad8b)
-  - <sub>Tags: <code>5.7</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
 
