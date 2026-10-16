@@ -516,6 +516,9 @@
 - [ ] [<code>fix: improve backup filename compatibility for cloud storage (#2722) (#2741)</code>](https://github.com/alainm23/planify/commit/984b20fe5db22faccc690a3fd5df1c493ef08f19)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5e432f978421cda622203880d522603c1c8f9f29)
 - [ ] [<code>Fix reminders set in Quick Add being lost on save (#2743)</code>](https://github.com/alainm23/planify/commit/4c3a200a303c6b45c5c2a06476431760650eedac)
+- [ ] [<code>fix: shorten reminder notification snooze buttons to prevent text truncation (#2740) (#2747)</code>](https://github.com/alainm23/planify/commit/f05b626e38d4ba0f86796608c2a0c9283faffba5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f26bdd09cefaa0bff8b26af4efc9a955e58810ec)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
