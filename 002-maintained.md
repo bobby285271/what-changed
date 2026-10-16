@@ -459,6 +459,15 @@
 - [ ] [<code>Adding yamllint to flatpak builds.</code>](https://github.com/phase1geo/minder/commit/a7bba73ed99a04a0e645707691db0cbbb594ad29)
 - [ ] [<code>Attempting to fix CI error.</code>](https://github.com/phase1geo/minder/commit/01ce5e16d5b95f6b409351a96db0dec65e4a930e)
 - [ ] [<code>Updates to appdata.xml</code>](https://github.com/phase1geo/minder/commit/5dfc54ac6adbb6f1af65ad35c4f6a73f1b30b988)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/d0659bbe47f4cc8f28fce770568fd2ece8cb00e2)
+- [ ] [<code>Swapping out texlive with lasem for math support.</code>](https://github.com/phase1geo/minder/commit/1971f64009d4295988c829e28697b619b2fcf384)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Removing elementary patch file.</code>](https://github.com/phase1geo/minder/commit/fee5a3f94306f9ca5e07f6d225b5673e06bcbaf9)
+- [ ] [<code>Fixing CI.</code>](https://github.com/phase1geo/minder/commit/89ce573ff76cae8b758bcaa69a22534a4eb17f1b)
+- [ ] [<code>Removing remaining latex calls.</code>](https://github.com/phase1geo/minder/commit/21a7770d25544f0a98a5d0d09f532a18c327a591)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Another attempt to fix the build process for elementary.</code>](https://github.com/phase1geo/minder/commit/abb1ed496a2c5e199a80879dec4a7af568573cb8)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -496,6 +505,17 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/833eded2af9700b997cbd5c81ee7ccd62a8fbbbf)
 - [ ] [<code>fix(caldav): prevent 412 Precondition Failed when dragging tasks to sections (#2728)</code>](https://github.com/alainm23/planify/commit/5d72f40e2b989135f3f98bec2320ad38795ea496)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8702ebc291867f3faf4b2029aa1088365fa9d913)
+- [ ] [<code>fix: don't silently drop labels whose name exists in another source (#2729)</code>](https://github.com/alainm23/planify/commit/d56bd026c40f8e9afcfd5fb9baa01f9fb8a21d7e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e622602ed58740c8b607342545e5e099673034af)
+- [ ] [<code>feat: sort and filter options in the Label view (#2733)</code>](https://github.com/alainm23/planify/commit/438e35f4f8f5f9b74392fd57833f5c6e7ba935f3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/9edcdd87c5ef0b39d7e4612a7449f1d8d9b4ed8a)
+- [ ] [<code>fix: improve backup filename compatibility for cloud storage (#2722) (#2741)</code>](https://github.com/alainm23/planify/commit/984b20fe5db22faccc690a3fd5df1c493ef08f19)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5e432f978421cda622203880d522603c1c8f9f29)
+- [ ] [<code>Fix reminders set in Quick Add being lost on save (#2743)</code>](https://github.com/alainm23/planify/commit/4c3a200a303c6b45c5c2a06476431760650eedac)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
