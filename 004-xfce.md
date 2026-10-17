@@ -1942,6 +1942,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>logout-dialog: Allow the user to configure the default logout method</code>](https://github.com/xfce-mirror/xfce4-session/commit/7d116f198bc6510b20b54bb20b81815366d9da5c)
+- [ ] [<code>If xdg-session-managmeent-v1 not present, try dbus-only</code>](https://github.com/xfce-mirror/xfce4-session/commit/b267adab9da601a3e80fe88216910ba075b0006f)
+- [ ] [<code>dbus: don't prepend app ID to client ID when both are present</code>](https://github.com/xfce-mirror/xfce4-session/commit/12e16456bc01e4f77d227cb6e7f57862e6f59a59)
+- [ ] [<code>Don't allow duplicate client IDs from dbus clients</code>](https://github.com/xfce-mirror/xfce4-session/commit/a245e7f729a0e8df1f56d5de928945492a61f439)
+- [ ] [<code>Fix cases where XfceSesionClient auto-reconnect wouldn't actually work</code>](https://github.com/xfce-mirror/xfce4-session/commit/9bb9388bf7c35f1b53abb0f4c269fcd8377c463f)
+- [ ] [<code>Fix build failures with HAVE_GDK_WINDOW_XDG_TOPLEVEL_REALIZE</code>](https://github.com/xfce-mirror/xfce4-session/commit/a7899d3efb868c134257e6af41f2fc7335200da3)
+- [ ] [<code>Handle relative paths in restart/clone commands</code>](https://github.com/xfce-mirror/xfce4-session/commit/e9cffe7634a553d8260c520feb798594893b7690)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add org.xfce.Session.Manager.GetEnvironment()</code>](https://github.com/xfce-mirror/xfce4-session/commit/4f8d20a1bc7c9e376d239a0fec67e7a24e469554)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
