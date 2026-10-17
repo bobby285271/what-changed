@@ -519,6 +519,8 @@
 - [ ] [<code>fix: shorten reminder notification snooze buttons to prevent text truncation (#2740) (#2747)</code>](https://github.com/alainm23/planify/commit/f05b626e38d4ba0f86796608c2a0c9283faffba5)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f26bdd09cefaa0bff8b26af4efc9a955e58810ec)
+- [ ] [<code>fix: preserve sidebar views order in settings dialog (#2744) (#2746)</code>](https://github.com/alainm23/planify/commit/61e14588ff15ad08c9d72ec40ca7b379efa21edd)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2bf4bc0fd55bed50b618ee8701429bcbf0962930)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
@@ -608,6 +610,10 @@
 - [ ] [<code>Bump actions/checkout from 4 to 7 (#117)</code>](https://github.com/ellie-commons/taxi/commit/70d66c8ada8a1361969fe56b68180be80ec5af22)
 - [ ] [<code>CI: Update flatpak-platform Docker to 9.1 (#115)</code>](https://github.com/ellie-commons/taxi/commit/3cb4f05e8b95260a774ad1bf6dee2c6c7867e288)
 - [ ] [<code>Update README "Credits" section (#105)</code>](https://github.com/ellie-commons/taxi/commit/0a13f1f919fb48b19f14524e90ea6dec443cfac3)
+- [ ] [<code>README: Fix dead links to docs (#119)</code>](https://github.com/ellie-commons/taxi/commit/6232af41626c3ebb3841b5448186f715311ef33a)
+- [ ] [<code>Release 3.0.0 (#118)</code>](https://github.com/ellie-commons/taxi/commit/98820d29c556083ffbac69ff70b8d4177be6fb66)
+  - <sub>Tags: <code>3.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [touchegg](https://github.com/JoseExposito/touchegg): [refs/tags/2.0.18 → HEAD](https://github.com/JoseExposito/touchegg/compare/refs/tags/2.0.18...HEAD)
 
