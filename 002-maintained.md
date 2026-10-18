@@ -468,6 +468,8 @@
 - [ ] [<code>Removing remaining latex calls.</code>](https://github.com/phase1geo/minder/commit/21a7770d25544f0a98a5d0d09f532a18c327a591)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Another attempt to fix the build process for elementary.</code>](https://github.com/phase1geo/minder/commit/abb1ed496a2c5e199a80879dec4a7af568573cb8)
+- [ ] [<code>Update it.po</code>](https://github.com/phase1geo/minder/commit/49dfe8110c792e139d3bce44ade17ebd4a0c967a)
+- [ ] [<code>Merge pull request #759 from albanobattistella/patch-37</code>](https://github.com/phase1geo/minder/commit/202cf4b4db38d62c46a083c900383cf4323327fa)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
