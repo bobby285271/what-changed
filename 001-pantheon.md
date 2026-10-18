@@ -14,6 +14,7 @@
 - [ ] [<code>FlatpakBackend: only inhibit during write jobs (#2451)</code>](https://github.com/elementary/appcenter/commit/9182fd7f86cae94ef973802e1841c6cf13957e04)
 - [ ] [<code>SearchListItem: use Granite.ListItem and HeaderLabel (#2448)</code>](https://github.com/elementary/appcenter/commit/03bf439b4ed2bad58f2e0ca8fbd1a3503b9e64c4)
 - [ ] [<code>Fix: activated row url open action (#2452)</code>](https://github.com/elementary/appcenter/commit/ec1541798ae358d5bf0b906ba6f46e18bd941108)
+- [ ] [<code>FlatpakBackend: Fix --load-local results segfault (#2454)</code>](https://github.com/elementary/appcenter/commit/a2ddd36046e60fca49172d1f7fba87ad180c1122)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [9.0.0 → HEAD](https://github.com/elementary/calculator/compare/9.0.0...HEAD)
 
@@ -160,24 +161,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-maps](https://github.com/elementary/maps): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/maps/compare/refs/tags/8.1.0...HEAD)
+#### [pantheon.elementary-maps](https://github.com/elementary/maps): [9.0.0 → HEAD](https://github.com/elementary/maps/compare/9.0.0...HEAD)
 
-- [ ] [<code>Add a tooltip for the current location (#172)</code>](https://github.com/elementary/maps/commit/86b66f8b45bfea2af9c6caa40148ed74dade375c)
-- [ ] [<code>libshumate: Update libshumate-1.5.0.1.tar.xz to 1.5.1 (#176)</code>](https://github.com/elementary/maps/commit/2a0c8814459070a57144ff9f49dc3808f3ab5067)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#178)</code>](https://github.com/elementary/maps/commit/870db0dc75c4d8ecac95d4d269ffa622249b118d)
-- [ ] [<code>l10n: Correct language code of Norwegian Bokmål</code>](https://github.com/elementary/maps/commit/030ab45a24ca979b51208c4ada2420cefc644828)
-- [ ] [<code>libshumate: Update libshumate-1.5.1.tar.xz to 1.5.2 (#179)</code>](https://github.com/elementary/maps/commit/47a3d81dca6d06a628eec58692e3636002274c83)
-- [ ] [<code>libshumate: Update libshumate-1.5.2.tar.xz to 1.5.3 (#180)</code>](https://github.com/elementary/maps/commit/2bda38cae244a26826aba16b48060df9b0ae804c)
-- [ ] [<code>libshumate: Update libshumate-1.5.3.tar.xz to 1.6.0 (#183)</code>](https://github.com/elementary/maps/commit/4caf796edbaada4162a9fbc0f8c0475e050e0719)
-- [ ] [<code>libshumate: Update libshumate-1.6.0.tar.xz to 1.6.1 (#185)</code>](https://github.com/elementary/maps/commit/71b883c64aef9253a366072ddb30e7c5889f8bbd)
-- [ ] [<code>Bump actions/checkout from 6 to 7 (#187)</code>](https://github.com/elementary/maps/commit/3173c5adb80b6a6802176a5b43f22de875f0ef0c)
-- [ ] [<code>libshumate: Update libshumate-1.6.1.tar.xz to 1.6.2 (#188)</code>](https://github.com/elementary/maps/commit/e21a342c7af200a642b00764b014df78dd20f57c)
-- [ ] [<code>libshumate: Update libshumate-1.6.2.tar.xz to 1.6.3 (#189)</code>](https://github.com/elementary/maps/commit/bdd2777be4e1a168b7284320d6a635daef2880b1)
-- [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#190)</code>](https://github.com/elementary/maps/commit/82706e5b8240cbc47fc0ab4ff71555cb98771ad4)
-- [ ] [<code>Flatpak: Bump platform to 9.1 (#191)</code>](https://github.com/elementary/maps/commit/97bfd674d9eab56c3ada9a5f81ba0f525648f862)
-- [ ] [<code>Release 9.0.0 (#192)</code>](https://github.com/elementary/maps/commit/30e12aa067d32a018a4c3f7c027084a2ff89073c)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -1294,6 +1279,7 @@
 - [ ] [<code>StyleManager: add provider for each display, independently update color schemes (#1077)</code>](https://github.com/elementary/granite/commit/e0b016e70c1e83577d6d4491af31f5c762cf3592)
 - [ ] [<code>StyleManager: Only set color scheme for app provider if it exists (#1084)</code>](https://github.com/elementary/granite/commit/28c71ff7185f8e414d698d3ccbce2ca2bc59b316)
 - [ ] [<code>Styles: combine button styles (#1066)</code>](https://github.com/elementary/granite/commit/e696d21debd7ac190333c7c250f54e9a66c98314)
+- [ ] [<code>Demo/Controls: put buttons in a grid (#1056)</code>](https://github.com/elementary/granite/commit/08c8b6615ee5304c8e29d8619f3d70d39ba4992e)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1333,19 +1319,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [8.0.2 → HEAD](https://github.com/elementary/capnet-assist/compare/8.0.2...HEAD)
+#### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [9.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/9.0.0...HEAD)
 
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.5 to 6.6 (#142)</code>](https://github.com/elementary/capnet-assist/commit/8467208c8ed9ff81853bcbed4e5396de651d8d91)
-- [ ] [<code>Bump actions/checkout from 5 to 6 (#143)</code>](https://github.com/elementary/capnet-assist/commit/13fa5572eafc8b57cd9669dcd61cf3843dc84425)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#145)</code>](https://github.com/elementary/capnet-assist/commit/f4b59413eb96100375d94167797be3fd7ed5f038)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/capnet-assist/commit/4c9233cb96f06b1da6a56afdf68d538ec663a173)
-- [ ] [<code>Bump Flatpak platform to 9 (#148)</code>](https://github.com/elementary/capnet-assist/commit/8c37d825b7861803678b0cd63e6595083e7c5e61)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8</code>](https://github.com/elementary/capnet-assist/commit/634fff70fbe759454adc887341da1c12130ee7b5)
-- [ ] [<code>Unify license to GPL-3.0-or-later (#136)</code>](https://github.com/elementary/capnet-assist/commit/5878de9404ddbf89e50f9e2ddf08563aa0a2dac6)
-- [ ] [<code>Update Flatpak platform to 9.1 (#151)</code>](https://github.com/elementary/capnet-assist/commit/d248e724f66579be075d653fddcf139f0b99fa78)
-- [ ] [<code>Release 9.0.0 (#153)</code>](https://github.com/elementary/capnet-assist/commit/75117f3a6ba52a137e42e137a45038885ee11151)
-  - <sub>Tags: <code>9.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
