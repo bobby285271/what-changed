@@ -629,6 +629,7 @@
 - [ ] [<code>StyleView: drop Act, use settings daemon (#284)</code>](https://github.com/elementary/onboarding/commit/bcdd87f1db4a9c8223e986529ad234f7d64453b2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Replace max_width_chars with clamp (#287)</code>](https://github.com/elementary/onboarding/commit/0924fad73937e350a87274ada9fffdef42db8fee)
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
