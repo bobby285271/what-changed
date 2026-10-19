@@ -636,6 +636,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>backgroundManager.js: Don't attempt to restart after SessionOver</code>](https://github.com/linuxmint/cinnamon/commit/9c75a64ed50f6716f893b88abff168ae1fbc4e9d)
 - [ ] [<code>screensaver/controller.js: Watch logind for lock if the native</code>](https://github.com/linuxmint/cinnamon/commit/c6313408f90e4eec62ec7cd3b7e8f0e90d2713e0)
+- [ ] [<code>ibus: Display the new layout at the text cursor when switching</code>](https://github.com/linuxmint/cinnamon/commit/af8208410bb13d4d12d0fdb18aabcf9358323bf3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ibusManager: Replace an existing ibus-daemon at login</code>](https://github.com/linuxmint/cinnamon/commit/3a1cae9fb0ce73771aa5d318db3ff3edc80db8b6)
+- [ ] [<code>keyboardManager: Apply the ibus engine's layout variant</code>](https://github.com/linuxmint/cinnamon/commit/1e9c44cb1808e4941b45f517f1c329fc74d9deab)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -742,8 +746,10 @@
 - [ ] [<code>gnome-systemd: Actually create scopes for launched applications (#275)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94bb5c5ec05d65b0903a9b357232da3bf71aed33)
 - [ ] [<code>gnome-systemd.c: Don't warn if a process exited before its scope</code>](https://github.com/linuxmint/cinnamon-desktop/commit/43e7b6d7e89fbedd577ef4af4d1b9262c833a5d2)
 - [ ] [<code>6.7.6-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6c6c48d7c87359b34b5812486d364fde3ed730ed)
-  - <sub>Tags: <code>6.7.6-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>input-sources schema: Add key for layout switch cursor popup.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9da585575f3ad6134970beef06d69f609589bb74)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -1208,6 +1214,7 @@
 - [ ] [<code>session.c (x11): Stop using X sync objects on Die instead of waiting</code>](https://github.com/linuxmint/muffin/commit/7daa00b51aec59b75e7717b6af52684d9ec9cc92)
 - [ ] [<code>wayland: Only expose the EGLStream controller when not rendering via gbm</code>](https://github.com/linuxmint/muffin/commit/192cd42666fea62772053bb6353950aa155f685c)
 - [ ] [<code>wayland dnd: Fix regression from 4d9962ec6 - chain up in assigned,</code>](https://github.com/linuxmint/muffin/commit/17c958413753feafdbd5d58dc1e420f72a5f1859)
+- [ ] [<code>Replace zenity (libadwaita) with xenity (GTK3)</code>](https://github.com/linuxmint/muffin/commit/2a1cf56d70eeb688ff1d01270381385861d6860e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1340,7 +1347,9 @@
   - <sub>Tags: <code>6.7.9-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-icon-dnd.c: Send success for root-window drops so the source</code>](https://github.com/linuxmint/nemo/commit/2ae082c0d598500f9bf5b5ba0863e0e31a97a2c5)
+- [ ] [<code>Remove zenity from action-info.md</code>](https://github.com/linuxmint/nemo/commit/c7b339d4b7a8e0ba49ef5667887a52a3d8ce19c9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
