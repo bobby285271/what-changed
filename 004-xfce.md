@@ -1391,6 +1391,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove `--all-features` from `cargo clippy` and add var interp</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/efd684aa2667ba34eedfa2e2fabd1f979cbf8533)
 - [ ] [<code>Add xfce4-session to ci/build_libs.sh</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7ef110f67904d0c0cdad4d74ee8901a2d572c7b9)
+- [ ] [<code>Generate potfile after running build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/e97b04c9b52fc60d95c4c85af0fd9338dd0e14d1)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -2212,6 +2213,10 @@
 - [ ] [<code>Use XfceSessionClient instead of XfceSMClient</code>](https://github.com/xfce-mirror/xfce4-settings/commit/007ea711aa14c4a90f7fcfd1312bfb63c6ec4b1d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Implement xfce4-find-cursor for Wayland (well, xfwl4)</code>](https://github.com/xfce-mirror/xfce4-settings/commit/14d9dda3eba032223ce78020b2a344cfd12b18a5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make the accessibility dialog somewhat functional on Wayland</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7fc469a5eb909647ec3f4ad5ffe5f625450603a8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
