@@ -1545,19 +1545,19 @@
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.7...HEAD)
 
+- [ ] [<code>hypnotix.py: Disable sdl video output.</code>](https://github.com/linuxmint/hypnotix/commit/5d1932c4db337eb9c0cf98af3bbfea756abdaece)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use GDK_BACKEND environment variable to select x11 backend (#418)</code>](https://github.com/linuxmint/hypnotix/commit/b0398151a48d6bbac1ce8ee134ca47196f448af2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix missing conversion of label values to string (#432)</code>](https://github.com/linuxmint/hypnotix/commit/060fffd0661e095c31839e3795c3393dd1d22196)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
 
 
-#### [sticky](https://github.com/linuxmint/sticky): [1.32 → HEAD](https://github.com/linuxmint/sticky/compare/1.32...HEAD)
+#### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
 
-- [ ] [<code>Set window icon (#168)</code>](https://github.com/linuxmint/sticky/commit/6c70419fb1c0511bf8eb6791dfd2bdba23f9b302)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Set license type on about dialog (#169)</code>](https://github.com/linuxmint/sticky/commit/1658c699e111dd2641697a396db17b40d0cd4baa)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.33</code>](https://github.com/linuxmint/sticky/commit/0e780c2c9ad847e88d08a0d3fa4cd4679202d513)
-  - <sub>Tags: <code>1.33</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.09.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.09.0...HEAD)
 
