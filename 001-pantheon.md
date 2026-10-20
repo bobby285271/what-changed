@@ -1281,6 +1281,8 @@
 - [ ] [<code>StyleManager: Only set color scheme for app provider if it exists (#1084)</code>](https://github.com/elementary/granite/commit/28c71ff7185f8e414d698d3ccbce2ca2bc59b316)
 - [ ] [<code>Styles: combine button styles (#1066)</code>](https://github.com/elementary/granite/commit/e696d21debd7ac190333c7c250f54e9a66c98314)
 - [ ] [<code>Demo/Controls: put buttons in a grid (#1056)</code>](https://github.com/elementary/granite/commit/08c8b6615ee5304c8e29d8619f3d70d39ba4992e)
+- [ ] [<code>Styles: clean up "common" sass vars (#1078)</code>](https://github.com/elementary/granite/commit/a1f2ba5a5cd4ddae8bf50208ea94507d77d36782)
+- [ ] [<code>POTFILES: Add Constatns.vala for AccentColor.to_name () (#1089)</code>](https://github.com/elementary/granite/commit/05e8d3f24f6b4bd3ac626ed2d0e6141c69410cc2)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
