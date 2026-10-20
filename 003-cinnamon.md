@@ -749,6 +749,7 @@
   - <sub>Tags: <code>6.7.6-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>input-sources schema: Add key for layout switch cursor popup.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9da585575f3ad6134970beef06d69f609589bb74)
+- [ ] [<code>input-sources schema: Disable layout-switch popup by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8da0a91c94fbcd3fa9d2e58b65539153894b57fb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
