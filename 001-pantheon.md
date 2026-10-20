@@ -1283,6 +1283,8 @@
 - [ ] [<code>Demo/Controls: put buttons in a grid (#1056)</code>](https://github.com/elementary/granite/commit/08c8b6615ee5304c8e29d8619f3d70d39ba4992e)
 - [ ] [<code>Styles: clean up "common" sass vars (#1078)</code>](https://github.com/elementary/granite/commit/a1f2ba5a5cd4ddae8bf50208ea94507d77d36782)
 - [ ] [<code>POTFILES: Add Constatns.vala for AccentColor.to_name () (#1089)</code>](https://github.com/elementary/granite/commit/05e8d3f24f6b4bd3ac626ed2d0e6141c69410cc2)
+- [ ] [<code>Styles/ProgressBar: use css vars (#1081)</code>](https://github.com/elementary/granite/commit/6919f5c8146712b53e319c127f7476a4ddc1b028)
+- [ ] [<code>Styles: style frame widget (#1082)</code>](https://github.com/elementary/granite/commit/1bd36aa8c45aa7c130274dfcec8915226a3d885a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
