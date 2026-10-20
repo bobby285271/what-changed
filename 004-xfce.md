@@ -1646,6 +1646,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-panel/commit/11daac0e2163487a760a74d9f9f02edcef140a8e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>plugins: Escape markup contents in window titles</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4c39ee9efa9db503dec9dc49f7815438255a9cb3)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
