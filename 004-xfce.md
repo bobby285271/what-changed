@@ -424,6 +424,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Do not break gi scan due to missing prefix</code>](https://github.com/xfce-mirror/libxfce4util/commit/53ddad3ac0de5864386ccc4afb66d6bc9bd664d7)
+- [ ] [<code>build: Explicitly set gi warnings non-fatal</code>](https://github.com/xfce-mirror/libxfce4util/commit/f12d6d65d4f48236b6d2973b5a2e21cee75e7f0e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -609,6 +611,7 @@
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bf84c7b0960e80e9f73516213032cf0b528150c2)
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>XfwWindowActionMenu: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/634cb327481800d751ae35caa4230c7b83c1f291)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1647,6 +1650,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>plugins: Escape markup contents in window titles</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4c39ee9efa9db503dec9dc49f7815438255a9cb3)
+- [ ] [<code>libxfce4panel: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/xfce4-panel/commit/54c140fb99c87fbe1e550c129dab96079134b6d5)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
