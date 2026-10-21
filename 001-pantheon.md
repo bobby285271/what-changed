@@ -630,6 +630,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Replace max_width_chars with clamp (#287)</code>](https://github.com/elementary/onboarding/commit/0924fad73937e350a87274ada9fffdef42db8fee)
+- [ ] [<code>Use Granite 9 (#280)</code>](https://github.com/elementary/onboarding/commit/4bf50374282635eb80b3ad42040c8686c95588e2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-print-shim](https://github.com/elementary/print): [0.1.3 → HEAD](https://github.com/elementary/print/compare/0.1.3...HEAD)
 
@@ -1285,6 +1288,11 @@
 - [ ] [<code>POTFILES: Add Constatns.vala for AccentColor.to_name () (#1089)</code>](https://github.com/elementary/granite/commit/05e8d3f24f6b4bd3ac626ed2d0e6141c69410cc2)
 - [ ] [<code>Styles/ProgressBar: use css vars (#1081)</code>](https://github.com/elementary/granite/commit/6919f5c8146712b53e319c127f7476a4ddc1b028)
 - [ ] [<code>Styles: style frame widget (#1082)</code>](https://github.com/elementary/granite/commit/1bd36aa8c45aa7c130274dfcec8915226a3d885a)
+- [ ] [<code>Styles/Button: clean up suggested and destructive styles (#1086)</code>](https://github.com/elementary/granite/commit/5f563582e525ee2706e5d93c4d8bfa12bc5bac3b)
+- [ ] [<code>Styles/_controls: remove raised (#1088)</code>](https://github.com/elementary/granite/commit/e907c20e5303677c97f908a9c92df45f816eb53f)
+- [ ] [<code>Styles/Scale: use CSS vars (#1080)</code>](https://github.com/elementary/granite/commit/d3bd3195490b916c1e795785815537bdc84d4e7d)
+- [ ] [<code>HyperTextView: Move lambdas into proper handlers (#1087)</code>](https://github.com/elementary/granite/commit/d27e46a537fc7f35d1848398631bdba7079e0db3)
+- [ ] [<code>Icons: allow adjusting view-reader by weight (#1075)</code>](https://github.com/elementary/granite/commit/3dbc781a5d46828f88c99506f0a81eeeb8157c0f)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
