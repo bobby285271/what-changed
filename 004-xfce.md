@@ -2222,6 +2222,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Make the accessibility dialog somewhat functional on Wayland</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7fc469a5eb909647ec3f4ad5ffe5f625450603a8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix type of pointer in on_name_lost callback</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a15657449f30af7946a25264b70f3406a9d9f05a)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
