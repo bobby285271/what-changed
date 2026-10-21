@@ -529,6 +529,7 @@
 - [ ] [<code>Actions: Remove duplicated gettext actions (#1450)</code>](https://github.com/elementary/icons/commit/eb06d88870508deb453c65bc04012a654b0e642e)
 - [ ] [<code>Actions: Update gettext-template (#1451)</code>](https://github.com/elementary/icons/commit/752833d71408ae2a5d16362b0b13d368878881e0)
 - [ ] [<code>Remove icons already in Granite (#1449)</code>](https://github.com/elementary/icons/commit/2eb97f0e8a16e7b10e28bee903a4fd149bfe351f)
+- [ ] [<code>Remove 24px symbolics in Granite (#1454)</code>](https://github.com/elementary/icons/commit/06f800211c916120dd8e68ab5b60f4cc4c96f190)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1293,6 +1294,7 @@
 - [ ] [<code>Styles/Scale: use CSS vars (#1080)</code>](https://github.com/elementary/granite/commit/d3bd3195490b916c1e795785815537bdc84d4e7d)
 - [ ] [<code>HyperTextView: Move lambdas into proper handlers (#1087)</code>](https://github.com/elementary/granite/commit/d27e46a537fc7f35d1848398631bdba7079e0db3)
 - [ ] [<code>Icons: allow adjusting view-reader by weight (#1075)</code>](https://github.com/elementary/granite/commit/3dbc781a5d46828f88c99506f0a81eeeb8157c0f)
+- [ ] [<code>Styles/Button: fix destructive styles (#1093)</code>](https://github.com/elementary/granite/commit/e6cb169923ee036d37426e0029866568dacc6ef8)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
