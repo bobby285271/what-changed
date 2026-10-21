@@ -750,6 +750,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>input-sources schema: Add key for layout switch cursor popup.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9da585575f3ad6134970beef06d69f609589bb74)
 - [ ] [<code>input-sources schema: Disable layout-switch popup by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8da0a91c94fbcd3fa9d2e58b65539153894b57fb)
+- [ ] [<code>gnome-desktop-thumbnail.c: Tighten up 'thumbnails' directory check</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3f888589b4667ffddc007cfa11f0bf724f6e1961)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -1551,6 +1552,8 @@
 - [ ] [<code>Use GDK_BACKEND environment variable to select x11 backend (#418)</code>](https://github.com/linuxmint/hypnotix/commit/b0398151a48d6bbac1ce8ee134ca47196f448af2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix missing conversion of label values to string (#432)</code>](https://github.com/linuxmint/hypnotix/commit/060fffd0661e095c31839e3795c3393dd1d22196)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Use lavf rtp demuxer for rtp:// streams (#440)</code>](https://github.com/linuxmint/hypnotix/commit/ac4928f5fbd325f1602719309e7595c67438fc99)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
