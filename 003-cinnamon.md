@@ -1218,6 +1218,7 @@
 - [ ] [<code>wayland dnd: Fix regression from 4d9962ec6 - chain up in assigned,</code>](https://github.com/linuxmint/muffin/commit/17c958413753feafdbd5d58dc1e420f72a5f1859)
 - [ ] [<code>Replace zenity (libadwaita) with xenity (GTK3)</code>](https://github.com/linuxmint/muffin/commit/2a1cf56d70eeb688ff1d01270381385861d6860e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>cogl/glx: Don't miss swap events stranded by zink's WSI threads</code>](https://github.com/linuxmint/muffin/commit/75647279ed1b06709e61ac1773134a1856ea955d)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
