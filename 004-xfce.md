@@ -1651,6 +1651,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>plugins: Escape markup contents in window titles</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4c39ee9efa9db503dec9dc49f7815438255a9cb3)
 - [ ] [<code>libxfce4panel: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/xfce4-panel/commit/54c140fb99c87fbe1e550c129dab96079134b6d5)
+- [ ] [<code>applicationsmenu: Change edit-menu icon to accessories-text-editor</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b5396eb652d24fece5d8265d2c41099c454572d5)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1787,6 +1788,9 @@
 - [ ] [<code>build: Bump dependency min version and remove dead code</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/d359cfb1b4f58f504c67ab7ff99d3d6968f03b18)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Move privileged helpers to LIBEXECDIR</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/69008ddc3c401a576401d63f8af414ba8f5a17f4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
