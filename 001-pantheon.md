@@ -1295,6 +1295,10 @@
 - [ ] [<code>HyperTextView: Move lambdas into proper handlers (#1087)</code>](https://github.com/elementary/granite/commit/d27e46a537fc7f35d1848398631bdba7079e0db3)
 - [ ] [<code>Icons: allow adjusting view-reader by weight (#1075)</code>](https://github.com/elementary/granite/commit/3dbc781a5d46828f88c99506f0a81eeeb8157c0f)
 - [ ] [<code>Styles/Button: fix destructive styles (#1093)</code>](https://github.com/elementary/granite/commit/e6cb169923ee036d37426e0029866568dacc6ef8)
+- [ ] [<code>Styles: move checked style to checkbutton (#1092)</code>](https://github.com/elementary/granite/commit/3bf26abfe9ad9ab95a335341b127a0799368cc69)
+- [ ] [<code>Icons: make list-* adjustable by weight (#1091)</code>](https://github.com/elementary/granite/commit/4e99e595d78617200c689bb178dbc209b8d0ec64)
+- [ ] [<code>Styles/Controls: style trough (#1090)</code>](https://github.com/elementary/granite/commit/8340a4ceb714150519b2c6097831e8c31f004df9)
+- [ ] [<code>ListBox: add focus styles for default rows (#1085)</code>](https://github.com/elementary/granite/commit/13261b787065d3e5386d72817158184e9f8d0a1f)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
