@@ -640,7 +640,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>ibusManager: Replace an existing ibus-daemon at login</code>](https://github.com/linuxmint/cinnamon/commit/3a1cae9fb0ce73771aa5d318db3ff3edc80db8b6)
 - [ ] [<code>keyboardManager: Apply the ibus engine's layout variant</code>](https://github.com/linuxmint/cinnamon/commit/1e9c44cb1808e4941b45f517f1c329fc74d9deab)
+- [ ] [<code>grouped-window-list: Remove 'toggle autostart' option</code>](https://github.com/linuxmint/cinnamon/commit/e0200a89ea77577c4a1fab0dd3fb8887ca490343)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1217,8 +1219,9 @@
 - [ ] [<code>wayland: Only expose the EGLStream controller when not rendering via gbm</code>](https://github.com/linuxmint/muffin/commit/192cd42666fea62772053bb6353950aa155f685c)
 - [ ] [<code>wayland dnd: Fix regression from 4d9962ec6 - chain up in assigned,</code>](https://github.com/linuxmint/muffin/commit/17c958413753feafdbd5d58dc1e420f72a5f1859)
 - [ ] [<code>Replace zenity (libadwaita) with xenity (GTK3)</code>](https://github.com/linuxmint/muffin/commit/2a1cf56d70eeb688ff1d01270381385861d6860e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 - [ ] [<code>cogl/glx: Don't miss swap events stranded by zink's WSI threads</code>](https://github.com/linuxmint/muffin/commit/75647279ed1b06709e61ac1773134a1856ea955d)
+- [ ] [<code>debian/control: Remove xenity as build-depends</code>](https://github.com/linuxmint/muffin/commit/5ccf7363fbabf8e0c9673d6f0b5dec4e82c9a835)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
