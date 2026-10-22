@@ -328,6 +328,14 @@
 - [ ] [<code>Fix shortcuts dialog grab & keyboard shortcuts inhibit on Wayland</code>](https://github.com/xfce-mirror/libxfce4ui/commit/96ab4bf0b46fe37a335e3ef78afba72147ee1844)
 - [ ] [<code>Mark XfceSMClient as deprecated</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7ac532af9a5966d232a48e95cbebed4c095efee7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Set WAYLAND_DISPLAY when spawning as appropriate</code>](https://github.com/xfce-mirror/libxfce4ui/commit/4b46a36398b1629ad6090b55816aa1b4f376a5cf)
+- [ ] [<code>Use GdkAppLaunchContext on Wayland to get startup ID when spawning</code>](https://github.com/xfce-mirror/libxfce4ui/commit/9aa705bfc5b50e6b75097d8513bc8d65acfcbefe)
+- [ ] [<code>xfce_spawn: use GStrvBuilder rather than manually building</code>](https://github.com/xfce-mirror/libxfce4ui/commit/3cca6ac43b4b066255e7e2421524c91aa7f543e6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove unused pattern from .gcc-analyzer-false-positives</code>](https://github.com/xfce-mirror/libxfce4ui/commit/98ce698d313b85349e8e4194fa5a51286be6411e)
+- [ ] [<code>Drop libstartup-notification dep and use GdkAppLaunchContext</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7e763d3de923abed01e28f472c0a5d93207064e9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -1961,6 +1969,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add org.xfce.Session.Manager.GetEnvironment()</code>](https://github.com/xfce-mirror/xfce4-session/commit/4f8d20a1bc7c9e376d239a0fec67e7a24e469554)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Redesign Wayland session management support</code>](https://github.com/xfce-mirror/xfce4-session/commit/d1ff3f11c810eee9bf79a4be45e9d7f04b93c919)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
