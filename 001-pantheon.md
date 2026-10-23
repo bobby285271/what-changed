@@ -257,6 +257,9 @@
 - [ ] [<code>Fix: AMD Ryzen CPU temps (#579)</code>](https://github.com/elementary/monitor/commit/b6b18fab25bb635c61e03933feb486f6f00b9538)
 - [ ] [<code>Styling: Fix row selection state (#580)</code>](https://github.com/elementary/monitor/commit/e821267b5ee4ac757a757f0ffe9991dd949184d1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Create a group widget for metrics of the same device (#577)</code>](https://github.com/elementary/monitor/commit/3a8b99b2b6672017b73621cf06fec5076bc95e87)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [9.0.0 → HEAD](https://github.com/elementary/music/compare/9.0.0...HEAD)
 
@@ -1535,6 +1538,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add systemd-coredmp (#915)</code>](https://github.com/elementary/os/commit/7024fd04646a6a8565bf6805989b59fd72de928c)
 - [ ] [<code>Switch to kmscon by default (#917)</code>](https://github.com/elementary/os/commit/a6b2376ae87749fbe6b8a71575d6b28aef532407)
+- [ ] [<code>Add SplitName option to usr-verity-sig partition (#926)</code>](https://github.com/elementary/os/commit/a137fa4adbfad530a11bc69d1f422accc1463cdd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove cannonical release-upgrader-core (#919)</code>](https://github.com/elementary/os/commit/2781176873fe98fc358045dcf073751ea4c58f33)
+- [ ] [<code>Enhance genkey target with comments and OpenSSL usage (#928)</code>](https://github.com/elementary/os/commit/35c8b0b0169f67f742d615127409bd5030ddee8a)
+- [ ] [<code>Build with tools from the PPA. (#929)</code>](https://github.com/elementary/os/commit/44d9ea9be07a62a9201a89d8d99793f0b4dba224)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
