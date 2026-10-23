@@ -1302,6 +1302,8 @@
 - [ ] [<code>Icons: make list-* adjustable by weight (#1091)</code>](https://github.com/elementary/granite/commit/4e99e595d78617200c689bb178dbc209b8d0ec64)
 - [ ] [<code>Styles/Controls: style trough (#1090)</code>](https://github.com/elementary/granite/commit/8340a4ceb714150519b2c6097831e8c31f004df9)
 - [ ] [<code>ListBox: add focus styles for default rows (#1085)</code>](https://github.com/elementary/granite/commit/13261b787065d3e5386d72817158184e9f8d0a1f)
+- [ ] [<code>Styles: add accent color fallback (#1094)</code>](https://github.com/elementary/granite/commit/000f3d8bbfb8f94178887da52f4e65362a76bc83)
+- [ ] [<code>Styles: add Calendar (#1100)</code>](https://github.com/elementary/granite/commit/bb0bfc3850d210f2dd2591990f825981bc967143)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1543,6 +1545,8 @@
 - [ ] [<code>Remove cannonical release-upgrader-core (#919)</code>](https://github.com/elementary/os/commit/2781176873fe98fc358045dcf073751ea4c58f33)
 - [ ] [<code>Enhance genkey target with comments and OpenSSL usage (#928)</code>](https://github.com/elementary/os/commit/35c8b0b0169f67f742d615127409bd5030ddee8a)
 - [ ] [<code>Build with tools from the PPA. (#929)</code>](https://github.com/elementary/os/commit/44d9ea9be07a62a9201a89d8d99793f0b4dba224)
+- [ ] [<code>Fix var/run symlink (#925)</code>](https://github.com/elementary/os/commit/236a0d95e5eb22f1e3b6660a3177838342e18ffd)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
