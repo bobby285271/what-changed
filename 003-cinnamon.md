@@ -641,8 +641,18 @@
 - [ ] [<code>ibusManager: Replace an existing ibus-daemon at login</code>](https://github.com/linuxmint/cinnamon/commit/3a1cae9fb0ce73771aa5d318db3ff3edc80db8b6)
 - [ ] [<code>keyboardManager: Apply the ibus engine's layout variant</code>](https://github.com/linuxmint/cinnamon/commit/1e9c44cb1808e4941b45f517f1c329fc74d9deab)
 - [ ] [<code>grouped-window-list: Remove 'toggle autostart' option</code>](https://github.com/linuxmint/cinnamon/commit/e0200a89ea77577c4a1fab0dd3fb8887ca490343)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove OpenSearch provider</code>](https://github.com/linuxmint/cinnamon/commit/34dbda8778fecdb4fd5e582b6b03a10b6d0b0f60)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>power@cinnamon.org: Lookup power profile provider asynchronously</code>](https://github.com/linuxmint/cinnamon/commit/4db1898c550fdea00c6670f44c382b1e9cf52f94)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybindings.js: Create csd-media-keys proxy asynchronously</code>](https://github.com/linuxmint/cinnamon/commit/7c6c34553c7b363e931a1a2093f14f514e23fda8)
+- [ ] [<code>settings.js: Write the settings file asynchronously.</code>](https://github.com/linuxmint/cinnamon/commit/02910eefde1f1b43449d2ade7b207ef8df19b4e0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>placesManager.js: Load bookmarks asynchronously.</code>](https://github.com/linuxmint/cinnamon/commit/e578be4d9d765e8c29a6875749aa60233aaebc23)
+- [ ] [<code>notificationDaemon.js: Fall back to the app icon before using a</code>](https://github.com/linuxmint/cinnamon/commit/e22575564b6739e51e0cb039bf2cc06e2d08385d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
