@@ -1547,6 +1547,8 @@
 - [ ] [<code>Build with tools from the PPA. (#929)</code>](https://github.com/elementary/os/commit/44d9ea9be07a62a9201a89d8d99793f0b4dba224)
 - [ ] [<code>Fix var/run symlink (#925)</code>](https://github.com/elementary/os/commit/236a0d95e5eb22f1e3b6660a3177838342e18ffd)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Copy, don't link (#930)</code>](https://github.com/elementary/os/commit/7511d1e298124ccf0079660fd9faea7572941996)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
