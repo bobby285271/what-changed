@@ -966,11 +966,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [dbf96f024f7d06905d35edb40a7f127b8e54af65 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/dbf96f024f7d06905d35edb40a7f127b8e54af65...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3...HEAD)
 
-- [ ] [<code>Only provide place icons</code>](https://github.com/linuxmint/mint-l-icons/commit/13899a91d742bee6a12759402a725b71eee4e93b)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>1.8.6</code>](https://github.com/linuxmint/mint-l-icons/commit/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.9...HEAD)
 
