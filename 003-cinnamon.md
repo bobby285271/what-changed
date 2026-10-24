@@ -1231,6 +1231,9 @@
 - [ ] [<code>Replace zenity (libadwaita) with xenity (GTK3)</code>](https://github.com/linuxmint/muffin/commit/2a1cf56d70eeb688ff1d01270381385861d6860e)
 - [ ] [<code>cogl/glx: Don't miss swap events stranded by zink's WSI threads</code>](https://github.com/linuxmint/muffin/commit/75647279ed1b06709e61ac1773134a1856ea955d)
 - [ ] [<code>debian/control: Remove xenity as build-depends</code>](https://github.com/linuxmint/muffin/commit/5ccf7363fbabf8e0c9673d6f0b5dec4e82c9a835)
+- [ ] [<code>meta-window-actor.c: Have get_image() return an exact-sized buffer</code>](https://github.com/linuxmint/muffin/commit/1354b91804021e157d1a795d21824b98381ce726)
+- [ ] [<code>kms: Only treat a hotplug event as such when connector state changed</code>](https://github.com/linuxmint/muffin/commit/1aabdfce8f40ad8c6f22b756334507afa812e2ef)
+- [ ] [<code>meta-cursor-renderer-native.c: Disable hw cursor for newer nvidia</code>](https://github.com/linuxmint/muffin/commit/c4bfcfd703bb9ede7b7af74864abda1a9a6c7fe6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1364,8 +1367,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-icon-dnd.c: Send success for root-window drops so the source</code>](https://github.com/linuxmint/nemo/commit/2ae082c0d598500f9bf5b5ba0863e0e31a97a2c5)
 - [ ] [<code>Remove zenity from action-info.md</code>](https://github.com/linuxmint/nemo/commit/c7b339d4b7a8e0ba49ef5667887a52a3d8ce19c9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>nemo-window.c: Don't regenerate thumbnails on window scale changes</code>](https://github.com/linuxmint/nemo/commit/60120b8f9449f40832c6dbd7cec2e926f1819ea9)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
