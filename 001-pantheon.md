@@ -1304,6 +1304,7 @@
 - [ ] [<code>ListBox: add focus styles for default rows (#1085)</code>](https://github.com/elementary/granite/commit/13261b787065d3e5386d72817158184e9f8d0a1f)
 - [ ] [<code>Styles: add accent color fallback (#1094)</code>](https://github.com/elementary/granite/commit/000f3d8bbfb8f94178887da52f4e65362a76bc83)
 - [ ] [<code>Styles: add Calendar (#1100)</code>](https://github.com/elementary/granite/commit/bb0bfc3850d210f2dd2591990f825981bc967143)
+- [ ] [<code>Styles: Add Adw.Avatar (#908)</code>](https://github.com/elementary/granite/commit/a242033dfdc7cd5249d1d26ea775dfd086beae6a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1549,6 +1550,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Copy, don't link (#930)</code>](https://github.com/elementary/os/commit/7511d1e298124ccf0079660fd9faea7572941996)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update the virt feature (#920)</code>](https://github.com/elementary/os/commit/a595cc5c59410b592935e7084c56d39f4c2f8e4e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Stop overriding systemd's var.conf (#933)</code>](https://github.com/elementary/os/commit/88ea0f0af99c0698653351a1149ad249fc60c520)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Keep dpkg database on clients (#931)</code>](https://github.com/elementary/os/commit/f71b02fccb464d161c708d5e52c62fa6bc20bbd6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add required initrd modules (#921)</code>](https://github.com/elementary/os/commit/b70ca9a352d1bfa497ea1f3fd9f033335aff63b6)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
