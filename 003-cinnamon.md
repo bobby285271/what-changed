@@ -652,7 +652,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>placesManager.js: Load bookmarks asynchronously.</code>](https://github.com/linuxmint/cinnamon/commit/e578be4d9d765e8c29a6875749aa60233aaebc23)
 - [ ] [<code>notificationDaemon.js: Fall back to the app icon before using a</code>](https://github.com/linuxmint/cinnamon/commit/e22575564b6739e51e0cb039bf2cc06e2d08385d)
+- [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon/commit/46ef9f508abcb64f9e32b79e63de5d1d9f83e4d7)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -874,6 +876,7 @@
 - [ ] [<code>csm-manager.c: Don't restart session components once the session is</code>](https://github.com/linuxmint/cinnamon-session/commit/2ab4059271f7e70e03947950a8fe0668bccb207a)
 - [ ] [<code>csm-manager.c: Track logout dialog usage so shutdown avoids any</code>](https://github.com/linuxmint/cinnamon-session/commit/b2736df20b087815495e978636edcc0b8b13c315)
 - [ ] [<code>csm-systemd.c: Take the session's logind inhibitor in block-weak mode when available. (#219)</code>](https://github.com/linuxmint/cinnamon-session/commit/2f256e0acf0130e16b156cd3e8f53dd576b2e31a)
+- [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-session/commit/85577d2a73ac9a80a4f607b8fb968970606ef543)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
@@ -948,6 +951,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
+- [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6e4c6fdb9f44ea3c29b0ff9d28fd03206dc9d43c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
