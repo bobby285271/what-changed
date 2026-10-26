@@ -653,8 +653,12 @@
 - [ ] [<code>placesManager.js: Load bookmarks asynchronously.</code>](https://github.com/linuxmint/cinnamon/commit/e578be4d9d765e8c29a6875749aa60233aaebc23)
 - [ ] [<code>notificationDaemon.js: Fall back to the app icon before using a</code>](https://github.com/linuxmint/cinnamon/commit/e22575564b6739e51e0cb039bf2cc06e2d08385d)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon/commit/46ef9f508abcb64f9e32b79e63de5d1d9f83e4d7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-looking-glass: Route the KMS debug flag to Wayland</code>](https://github.com/linuxmint/cinnamon/commit/6dd81b94e770b0b63943372c94abb44748d955bf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ibusCandidatePopup.js: Show layout popup only when an entry has focus</code>](https://github.com/linuxmint/cinnamon/commit/73fe7a3166df62c1b6a651fc3ea2390704036c34)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -976,6 +980,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.9...HEAD)
 
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-l-theme/commit/11d81df01ffdc86401d02d9f764bbb53eb806fbe)
+- [ ] [<code>2.0.10</code>](https://github.com/linuxmint/mint-l-theme/commit/3f79742db462d1b06da5b907d67788ad0a7a257c)
+  - <sub>Tags: <code>2.0.10</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.3...HEAD)
 
@@ -984,9 +990,21 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.0...HEAD)
 
+- [ ] [<code>Icons and Flatpak Symlinks Updates (#216)</code>](https://github.com/linuxmint/mint-x-icons/commit/9c19508193f38bd460e7b59b642357df7fce8ae2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-x-icons/commit/ba23912ba2628c365809836460ce50046365cd4e)
+  - <sub>Tags: <code>1.8.1</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.7...HEAD)
 
+- [ ] [<code>Add Vinegar icon (#517)</code>](https://github.com/linuxmint/mint-y-icons/commit/c2ea89da7e6029349d152d2dea55c0276171e3d9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Maps icon (#567)</code>](https://github.com/linuxmint/mint-y-icons/commit/69e2f3867136b1296455c1f35aaf0340cca63390)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Removed Orphaned ms-edge.svg Icon Renders and Added Symlinks (#568)</code>](https://github.com/linuxmint/mint-y-icons/commit/f6d9f7c008a498976fcbd068e5fbf65f2ca9c167)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.8</code>](https://github.com/linuxmint/mint-y-icons/commit/98597aa85fc15c9abfca7d9623ee4ec34e8b41d2)
+  - <sub>Tags: <code>1.9.8</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1370,6 +1388,7 @@
 - [ ] [<code>Remove zenity from action-info.md</code>](https://github.com/linuxmint/nemo/commit/c7b339d4b7a8e0ba49ef5667887a52a3d8ce19c9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>nemo-window.c: Don't regenerate thumbnails on window scale changes</code>](https://github.com/linuxmint/nemo/commit/60120b8f9449f40832c6dbd7cec2e926f1819ea9)
+- [ ] [<code>filter bar: Route type-to-filter through a GtkIMContext</code>](https://github.com/linuxmint/nemo/commit/d122d136727c7075409224ff18d546860fe8908a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
