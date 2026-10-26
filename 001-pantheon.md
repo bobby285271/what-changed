@@ -90,6 +90,7 @@
 - [ ] [<code>SidebarItemInterface: remove 2 methods (#2862)</code>](https://github.com/elementary/files/commit/7142845e764058fcb93ae30a4b8f0f47677ef7ff)
 - [ ] [<code>SidebarListInterface: simplify (#2860)</code>](https://github.com/elementary/files/commit/88102d941b98a2393d80fa6d4da035ea19ac1773)
 - [ ] [<code>Miller: Truncate after when column becomes active (#2845)</code>](https://github.com/elementary/files/commit/defe6e64c6d50a9f7069680ece7ca720c6735409)
+- [ ] [<code>Gresource: add radio-mixed (#2866)</code>](https://github.com/elementary/files/commit/e9854b1c169c42e494aa30cabd71cc5458699357)
 
 #### [pantheon.elementary-iconbrowser](https://github.com/elementary/iconbrowser): [8.1.0 → HEAD](https://github.com/elementary/iconbrowser/compare/8.1.0...HEAD)
 
@@ -432,6 +433,7 @@
 - [ ] [<code>Behavior: remove link to Onboard settings (#570)</code>](https://github.com/elementary/settings-keyboard/commit/1678beb2cfe7da6ce75796a223c6603b8e3974fb)
 - [ ] [<code>Actions: Update gettext-template (#577)</code>](https://github.com/elementary/settings-keyboard/commit/d22826ee0645756c4e76894967c6c2f073be3517)
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#578)</code>](https://github.com/elementary/settings-keyboard/commit/991383a303f6517eaa63ea010c68673980b88561)
+- [ ] [<code>Properly construct custom PopoverMenu items (#579)</code>](https://github.com/elementary/settings-keyboard/commit/22923c2a0cdb5da1344351527012cc1b3272a387)
 
 #### [pantheon.switchboard-plug-mouse-touchpad](https://github.com/elementary/settings-mouse-touchpad): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-mouse-touchpad/compare/refs/tags/8.1.0...HEAD)
 
@@ -1306,6 +1308,7 @@
 - [ ] [<code>Styles: add accent color fallback (#1094)</code>](https://github.com/elementary/granite/commit/000f3d8bbfb8f94178887da52f4e65362a76bc83)
 - [ ] [<code>Styles: add Calendar (#1100)</code>](https://github.com/elementary/granite/commit/bb0bfc3850d210f2dd2591990f825981bc967143)
 - [ ] [<code>Styles: Add Adw.Avatar (#908)</code>](https://github.com/elementary/granite/commit/a242033dfdc7cd5249d1d26ea775dfd086beae6a)
+- [ ] [<code>Styles: add ColorDialogButton and ColorDialog (#1102)</code>](https://github.com/elementary/granite/commit/8b5f0eaeb0a38256174aa7e557c2dc6f2bf9dc8b)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
