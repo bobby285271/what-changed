@@ -1660,6 +1660,7 @@
 - [ ] [<code>plugins: Escape markup contents in window titles</code>](https://github.com/xfce-mirror/xfce4-panel/commit/4c39ee9efa9db503dec9dc49f7815438255a9cb3)
 - [ ] [<code>libxfce4panel: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/xfce4-panel/commit/54c140fb99c87fbe1e550c129dab96079134b6d5)
 - [ ] [<code>applicationsmenu: Change edit-menu icon to accessories-text-editor</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b5396eb652d24fece5d8265d2c41099c454572d5)
+- [ ] [<code>remote-event: Fix GVariant memory management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d187922618796664e83fcea1795a4fdc9c73e2a0)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
