@@ -620,6 +620,7 @@
   - <sub>Files: <code>meson.build</code> <code>configure.ac</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>XfwWindowActionMenu: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/634cb327481800d751ae35caa4230c7b83c1f291)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bb42c8af5635a590872bab2ca2597be02adc9aa0)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
