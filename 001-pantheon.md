@@ -160,6 +160,7 @@
 - [ ] [<code>Adapt to libcamel API changes in 3.58 (#1100)</code>](https://github.com/elementary/mail/commit/ff75d47eb3f410c834a6be27c9c1507d12a66835)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Flatpak: Port to libical v4 (#1096)</code>](https://github.com/elementary/mail/commit/bccf78bf76c59ebbce03f6b64f0c77caedf7e5cd)
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [9.0.0 → HEAD](https://github.com/elementary/maps/compare/9.0.0...HEAD)
 
@@ -1557,6 +1558,8 @@
 - [ ] [<code>Keep dpkg database on clients (#931)</code>](https://github.com/elementary/os/commit/f71b02fccb464d161c708d5e52c62fa6bc20bbd6)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Add required initrd modules (#921)</code>](https://github.com/elementary/os/commit/b70ca9a352d1bfa497ea1f3fd9f033335aff63b6)
+- [ ] [<code>feat: Update info in readme (#927)</code>](https://github.com/elementary/os/commit/4f796104d3d7e7ab51352a620f28e5d776a32d06)
+- [ ] [<code>Use drivers directories instead of manual entries (#935)</code>](https://github.com/elementary/os/commit/23d5b98b101e8e1d72cced853f46205c784aefd9)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
