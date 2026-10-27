@@ -657,7 +657,10 @@
 - [ ] [<code>cinnamon-looking-glass: Route the KMS debug flag to Wayland</code>](https://github.com/linuxmint/cinnamon/commit/6dd81b94e770b0b63943372c94abb44748d955bf)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ibusCandidatePopup.js: Show layout popup only when an entry has focus</code>](https://github.com/linuxmint/cinnamon/commit/73fe7a3166df62c1b6a651fc3ea2390704036c34)
+- [ ] [<code>screenShield.js: Don't allow internal teardown errors to block</code>](https://github.com/linuxmint/cinnamon/commit/64eb23bbd7acea10c81bf3d5fc19eb242b7b24e7)
+- [ ] [<code>screensaver: Skip the album-art widget if both album-art and</code>](https://github.com/linuxmint/cinnamon/commit/68356b0e09c923e124377f82f7d44fbfd79edb76)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -709,7 +712,11 @@
 - [ ] [<code>cc-display-config.c: Use logical_monitors to determine monitor order</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c5dae5ba9f52b4bf6ebb557f2b46e6388643ecc0)
 - [ ] [<code>display panel: Don't restrict mirror mode to two monitors, ignore</code>](https://github.com/linuxmint/cinnamon-control-center/commit/11eb4e3a7353392d0c164e76cc179587e971d7fe)
 - [ ] [<code>6.7.7-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3d276c066d08fbb1ce30fb4734a995b27f0ba4c2)
-  - <sub>Tags: <code>6.7.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.7-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8739afc9a8747587a6bf07cf067d1475e618496c)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ec7bef10bf03fbbbde69f3e2fad8a4df02164cd6)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
@@ -784,7 +791,10 @@
 - [ ] [<code>debian: fix and improve the packaging (#87)</code>](https://github.com/linuxmint/cinnamon-menus/commit/dbd9ebf7661ff29c04f4d90c5e48026d1fa94010)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-menus/commit/1461debf15c829672f4732b141d11fa00ec50d30)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/1ca0305157f22cb2939bde256e9725c68ddf24e6)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
@@ -807,9 +817,15 @@
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cinnamonClient: don't block the main loop when activating a keyboard layout (#514)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/eab574fb253a6f4af7a8335d9a0230635a1a6f32)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>6.7.4-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/1b5ec053a934a0743c8e0159ad9f0b98ccfbb94c)
-  - <sub>Tags: <code>6.7.4-unstable</code> <code>master.lmde7</code></sub>
+  - <sub>Tags: <code>6.7.4-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add pam_oo7.so to optional authentication (#522)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/94815d3d92bf55b7a62057bbd04d3171b92e58ee)
+- [ ] [<code>pam-helper: Initialize locale for translated PAM messages (#523)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/41ef7d8411e8e880540ca9846e55291ae34c19c4)
+- [ ] [<code>Avoid blocking input grab retries on lock screen (#520)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/88877d31908d890c2ab6f665669aa340d4472bf4)
+- [ ] [<code>Reduce the amount of time between input grabs retries</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/40fe2c28aa4cb95e98c880c25683d8585cccee18)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/943eee512165608ca1e134dd5654fbc8b94bac19)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
@@ -880,7 +896,13 @@
 - [ ] [<code>csm-manager.c: Track logout dialog usage so shutdown avoids any</code>](https://github.com/linuxmint/cinnamon-session/commit/b2736df20b087815495e978636edcc0b8b13c315)
 - [ ] [<code>csm-systemd.c: Take the session's logind inhibitor in block-weak mode when available. (#219)</code>](https://github.com/linuxmint/cinnamon-session/commit/2f256e0acf0130e16b156cd3e8f53dd576b2e31a)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-session/commit/85577d2a73ac9a80a4f607b8fb968970606ef543)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>Fix building with -Dsystemd=disabled (#223)</code>](https://github.com/linuxmint/cinnamon-session/commit/7681665502f466d35c9d859f422ea5a9e6e36008)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>csm-xsmp-server.c: Close an ICE connection only once when a client fails during setup (#220)</code>](https://github.com/linuxmint/cinnamon-session/commit/c37006cc48dc1b753b492efe56b2aeb7a9b3108b)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-session/commit/7bedb012816bc7720093734b3d00ef10021fd753)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
@@ -960,12 +982,16 @@
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/4c6410d84dbe5b75badc9e7f36993707be96ba2c)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.1...HEAD)
 
 - [ ] [<code>build.yml: Use git master for builds again.</code>](https://github.com/linuxmint/cjs/commit/84e7840ce148b75f9d38b57d82cdc9a47dd3a7eb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>140.2</code>](https://github.com/linuxmint/cjs/commit/b827c9af434ac7ee27b9cb84dd0213858a6460e0)
+  - <sub>Tags: <code>140.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -1572,7 +1598,10 @@
 - [ ] [<code>favorite-vfs-file-enumerator.c: Fix infinite loop in next_file().</code>](https://github.com/linuxmint/xapp/commit/ccd8cd30e608ca6b9a534b3138e59788c21eb206)
 - [ ] [<code>test-scripts: Add test for file-based symbolic icons.</code>](https://github.com/linuxmint/xapp/commit/7e47f1ea9237048ff2d724c31ca0c96cc36f1883)
 - [ ] [<code>3.3.7-unstable</code>](https://github.com/linuxmint/xapp/commit/3e891b0e63f37d5b67c5198fd29543eb1f3b831d)
-  - <sub>Tags: <code>3.3.7-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>3.3.7-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/xapp/commit/150a1d5f556cd1f420e9c641481c50f37d93ab6d)
+  - <sub>Tags: <code>3.4.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
@@ -1602,6 +1631,8 @@
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.09.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.09.0...HEAD)
 
+- [ ] [<code>Update README.md (#526)</code>](https://github.com/linuxmint/timeshift/commit/0c311a4775a811f26df1162516f6b5ab93577acf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.0 → HEAD](https://github.com/linuxmint/xed/compare/3.9.0...HEAD)
 
@@ -1629,7 +1660,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>1.1.5-unstable</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/7f094c4508b6c2cf1b7a300b80ce035b325e239f)
-  - <sub>Tags: <code>1.1.5-unstable</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>1.1.5-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Implement AppChooser portal (#27)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4efe9a78e417c981d413d7fc00a5efcfa88b15a8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Simplify AppChooser</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/71e75fc1d8b448ef870677b8946a5043a1b588d8)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2e43d38f661bfdb8cfc10a861414e5d61e414553)
+- [ ] [<code>1.2.0</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/e153267fd1668a1b4dcacf5aa7171e5826ff6b18)
+  - <sub>Tags: <code>1.2.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 ## xapp-project
 
@@ -1641,3 +1679,7 @@
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.2...HEAD)
 
+- [ ] [<code>Set file attributes in a try/catch</code>](https://github.com/xapp-project/xepub/commit/622eba6a84ba11eb98a502684300a6da29a4b93a)
+- [ ] [<code>1.0.3</code>](https://github.com/xapp-project/xepub/commit/dc6c798c7ed36fe1ce15623733968b6958332b22)
+  - <sub>Tags: <code>1.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
