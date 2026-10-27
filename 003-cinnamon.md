@@ -653,12 +653,11 @@
 - [ ] [<code>placesManager.js: Load bookmarks asynchronously.</code>](https://github.com/linuxmint/cinnamon/commit/e578be4d9d765e8c29a6875749aa60233aaebc23)
 - [ ] [<code>notificationDaemon.js: Fall back to the app icon before using a</code>](https://github.com/linuxmint/cinnamon/commit/e22575564b6739e51e0cb039bf2cc06e2d08385d)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon/commit/46ef9f508abcb64f9e32b79e63de5d1d9f83e4d7)
-  - <sub>Tags: <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-looking-glass: Route the KMS debug flag to Wayland</code>](https://github.com/linuxmint/cinnamon/commit/6dd81b94e770b0b63943372c94abb44748d955bf)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ibusCandidatePopup.js: Show layout popup only when an entry has focus</code>](https://github.com/linuxmint/cinnamon/commit/73fe7a3166df62c1b6a651fc3ea2390704036c34)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
