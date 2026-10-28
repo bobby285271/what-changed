@@ -75,6 +75,9 @@
 - [ ] [<code>MainWindow: Remove extra .desktop suffix (#139)</code>](https://github.com/elementary/feedback/commit/d95b58511c129092a73155c73322f66cd13af64d)
 - [ ] [<code>MainWindow: fix Granite deprecations (#142)</code>](https://github.com/elementary/feedback/commit/bd96a284d61c60f564aeb38a8a5e0f57b536cbf4)
 - [ ] [<code>MainWindow: Replace Evince with Papers (#140)</code>](https://github.com/elementary/feedback/commit/0ce2effe3266d61a72b065f541e108d59cdfa8e5)
+- [ ] [<code>Build with Granite 9 (#141)</code>](https://github.com/elementary/feedback/commit/b1b918eb00bf47b80119893746a83000fd54ea52)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.3 → HEAD](https://github.com/elementary/files/compare/7.3.3...HEAD)
 
@@ -626,6 +629,8 @@
 - [ ] [<code>Remove compositor (#915)</code>](https://github.com/elementary/greeter/commit/2eb38368c78b7d35877c3493f627c9666db68cea)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Restore gschema (#918)</code>](https://github.com/elementary/greeter/commit/4041e991465816f7bab68a1a77efe7c08d4e1c8d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
@@ -712,6 +717,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>NotificationStack: Dont use window type for is_notification</code>](https://github.com/elementary/gala/commit/7ce484e7780dabb2211bb15858f7b1050a45a12c)
 - [ ] [<code>Revert "Fix crash when destroying notifications"</code>](https://github.com/elementary/gala/commit/f54c9161cae24b479fa78e108122f7ec4fddaf77)
+- [ ] [<code>Introduce and use TestRunner</code>](https://github.com/elementary/gala/commit/894a38e4df0d42658ef8a32868160c9f6541344f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Prefix variables in lib tests with</code>](https://github.com/elementary/gala/commit/00ad9d06b45126cefe23ee50a100c7706154d8b8)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1309,6 +1318,9 @@
 - [ ] [<code>Styles: add Calendar (#1100)</code>](https://github.com/elementary/granite/commit/bb0bfc3850d210f2dd2591990f825981bc967143)
 - [ ] [<code>Styles: Add Adw.Avatar (#908)</code>](https://github.com/elementary/granite/commit/a242033dfdc7cd5249d1d26ea775dfd086beae6a)
 - [ ] [<code>Styles: add ColorDialogButton and ColorDialog (#1102)</code>](https://github.com/elementary/granite/commit/8b5f0eaeb0a38256174aa7e557c2dc6f2bf9dc8b)
+- [ ] [<code>Icons: fix reader strokes</code>](https://github.com/elementary/granite/commit/14e7bdef01a4bb8275c1fada896b0287b2c69e5a)
+- [ ] [<code>Icons: add face-heart and symlink (#1108)</code>](https://github.com/elementary/granite/commit/310ba42e475a7140f55caab3b22c8ae6262ee976)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
