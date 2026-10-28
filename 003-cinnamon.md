@@ -987,12 +987,8 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/4c6410d84dbe5b75badc9e7f36993707be96ba2c)
   - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.1...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.2 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.2...HEAD)
 
-- [ ] [<code>build.yml: Use git master for builds again.</code>](https://github.com/linuxmint/cjs/commit/84e7840ce148b75f9d38b57d82cdc9a47dd3a7eb)
-- [ ] [<code>140.2</code>](https://github.com/linuxmint/cjs/commit/b827c9af434ac7ee27b9cb84dd0213858a6460e0)
-  - <sub>Tags: <code>140.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -1415,6 +1411,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>nemo-window.c: Don't regenerate thumbnails on window scale changes</code>](https://github.com/linuxmint/nemo/commit/60120b8f9449f40832c6dbd7cec2e926f1819ea9)
 - [ ] [<code>filter bar: Route type-to-filter through a GtkIMContext</code>](https://github.com/linuxmint/nemo/commit/d122d136727c7075409224ff18d546860fe8908a)
+- [ ] [<code>nemo-list-view.c: Open items in a new tab with a single middle-click. (#3857)</code>](https://github.com/linuxmint/nemo/commit/47d98cbdeedfb69dc0a38f5c6db500823c907617)
+- [ ] [<code>Prevent duplicate bookmarks for the same location (#3827)</code>](https://github.com/linuxmint/nemo/commit/7f76c012505d20c8797336f9221e5d9be85d6ca4)
+- [ ] [<code>fix(css): fix desktop rename box styling on dark themes (#3843) (#3859)</code>](https://github.com/linuxmint/nemo/commit/6974204ed019c819e1a332ff45af8c5728f6735b)
+- [ ] [<code>nemo-view.c: Remove changed files that should no longer be shown. (#3858)</code>](https://github.com/linuxmint/nemo/commit/278f09c9ffa6c39480cada676a6cdf11bb0017da)
+- [ ] [<code>nemo-view: add keyboard mnemonic to 'Follow link to original file' (#3844) (#3847)</code>](https://github.com/linuxmint/nemo/commit/2237d2e3367a72abee001f8ab859514a2ca264da)
+- [ ] [<code>nemo-list-model: show expander when a previously empty folder gets items (#3743)</code>](https://github.com/linuxmint/nemo/commit/cae283d59653274642365faad37e7f1deae062b0)
+- [ ] [<code>nemo-list-model.c: Don't crash when enabling folder expansion in list view</code>](https://github.com/linuxmint/nemo/commit/1a2aa33ace453a0626463cbc31c240c5edf0e4c6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -1455,6 +1458,9 @@
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1494,6 +1500,9 @@
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1532,6 +1541,9 @@
 - [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
 - [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
   - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
