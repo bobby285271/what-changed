@@ -659,8 +659,9 @@
 - [ ] [<code>ibusCandidatePopup.js: Show layout popup only when an entry has focus</code>](https://github.com/linuxmint/cinnamon/commit/73fe7a3166df62c1b6a651fc3ea2390704036c34)
 - [ ] [<code>screenShield.js: Don't allow internal teardown errors to block</code>](https://github.com/linuxmint/cinnamon/commit/64eb23bbd7acea10c81bf3d5fc19eb242b7b24e7)
 - [ ] [<code>screensaver: Skip the album-art widget if both album-art and</code>](https://github.com/linuxmint/cinnamon/commit/68356b0e09c923e124377f82f7d44fbfd79edb76)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
