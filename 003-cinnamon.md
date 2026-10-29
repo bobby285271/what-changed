@@ -1275,6 +1275,8 @@
 - [ ] [<code>meta-window-actor.c: Have get_image() return an exact-sized buffer</code>](https://github.com/linuxmint/muffin/commit/1354b91804021e157d1a795d21824b98381ce726)
 - [ ] [<code>kms: Only treat a hotplug event as such when connector state changed</code>](https://github.com/linuxmint/muffin/commit/1aabdfce8f40ad8c6f22b756334507afa812e2ef)
 - [ ] [<code>meta-cursor-renderer-native.c: Disable hw cursor for newer nvidia</code>](https://github.com/linuxmint/muffin/commit/c4bfcfd703bb9ede7b7af74864abda1a9a6c7fe6)
+- [ ] [<code>input-mapper: Skip udev size lookup for devices without a node</code>](https://github.com/linuxmint/muffin/commit/e4b4891a7e43abeab22586cc04adc8001bbb84a9)
+- [ ] [<code>stack-tracker: Don't sync the stack for window create/destroy events</code>](https://github.com/linuxmint/muffin/commit/18b75fb9ec888e4371bec85f0d6fc79d5c8df4e6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1418,6 +1420,9 @@
 - [ ] [<code>nemo-view: add keyboard mnemonic to 'Follow link to original file' (#3844) (#3847)</code>](https://github.com/linuxmint/nemo/commit/2237d2e3367a72abee001f8ab859514a2ca264da)
 - [ ] [<code>nemo-list-model: show expander when a previously empty folder gets items (#3743)</code>](https://github.com/linuxmint/nemo/commit/cae283d59653274642365faad37e7f1deae062b0)
 - [ ] [<code>nemo-list-model.c: Don't crash when enabling folder expansion in list view</code>](https://github.com/linuxmint/nemo/commit/1a2aa33ace453a0626463cbc31c240c5edf0e4c6)
+- [ ] [<code>bookmarks: Process entries asynchronously</code>](https://github.com/linuxmint/nemo/commit/44074ca2423dc8184b21a159cfc00290e90b038e)
+- [ ] [<code>nemo-places-sidebar.c: Don't make synchronous disk-space queries</code>](https://github.com/linuxmint/nemo/commit/a7c6f70893cbf81b5b7ce667a2da185f3618245f)
+- [ ] [<code>nemo-window-manage-views.c: Fix view-selection failure handling</code>](https://github.com/linuxmint/nemo/commit/8b5844d1c61c5ff1341d946ae7f8f9235509d367)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -1461,6 +1466,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1503,6 +1509,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1545,6 +1552,7 @@
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
