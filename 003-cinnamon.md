@@ -999,34 +999,19 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.9...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
 
-- [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-l-theme/commit/11d81df01ffdc86401d02d9f764bbb53eb806fbe)
-- [ ] [<code>2.0.10</code>](https://github.com/linuxmint/mint-l-theme/commit/3f79742db462d1b06da5b907d67788ad0a7a257c)
-  - <sub>Tags: <code>2.0.10</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.3...HEAD)
 
 - [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.0 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.0...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
-- [ ] [<code>Icons and Flatpak Symlinks Updates (#216)</code>](https://github.com/linuxmint/mint-x-icons/commit/9c19508193f38bd460e7b59b642357df7fce8ae2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-x-icons/commit/ba23912ba2628c365809836460ce50046365cd4e)
-  - <sub>Tags: <code>1.8.1</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.7...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.8...HEAD)
 
-- [ ] [<code>Add Vinegar icon (#517)</code>](https://github.com/linuxmint/mint-y-icons/commit/c2ea89da7e6029349d152d2dea55c0276171e3d9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Google Maps icon (#567)</code>](https://github.com/linuxmint/mint-y-icons/commit/69e2f3867136b1296455c1f35aaf0340cca63390)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Removed Orphaned ms-edge.svg Icon Renders and Added Symlinks (#568)</code>](https://github.com/linuxmint/mint-y-icons/commit/f6d9f7c008a498976fcbd068e5fbf65f2ca9c167)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.9.8</code>](https://github.com/linuxmint/mint-y-icons/commit/98597aa85fc15c9abfca7d9623ee4ec34e8b41d2)
-  - <sub>Tags: <code>1.9.8</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -1423,7 +1408,16 @@
 - [ ] [<code>bookmarks: Process entries asynchronously</code>](https://github.com/linuxmint/nemo/commit/44074ca2423dc8184b21a159cfc00290e90b038e)
 - [ ] [<code>nemo-places-sidebar.c: Don't make synchronous disk-space queries</code>](https://github.com/linuxmint/nemo/commit/a7c6f70893cbf81b5b7ce667a2da185f3618245f)
 - [ ] [<code>nemo-window-manage-views.c: Fix view-selection failure handling</code>](https://github.com/linuxmint/nemo/commit/8b5844d1c61c5ff1341d946ae7f8f9235509d367)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>nemo-tree-sidebar.c: Fix context menu handling for invalid rows. (#3840)</code>](https://github.com/linuxmint/nemo/commit/8644a0d0dd307d64afe5caa12b4f426ddaf398ce)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>properties-window: Fix permission checkboxes needing two clicks with multiple files. (#3845)</code>](https://github.com/linuxmint/nemo/commit/548d0f1d99c5bfdb3b4ef300722e31edd9556924)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>nemo-file-conflict-dialog.c: Load folder sizes before display. (#3828)</code>](https://github.com/linuxmint/nemo/commit/d8096a9af7b0afa3307300848cf61e8bae8b9795)
+  - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>places-sidebar: keep ejecting devices visible until the eject completes</code>](https://github.com/linuxmint/nemo/commit/c79c3d5ba563a605a8abf43734cbb62b33bf7865)
+- [ ] [<code>places-sidebar: Use an hourglass icon</code>](https://github.com/linuxmint/nemo/commit/b0471900af4f756db2c035012a28b6a0a2ed2c77)
+- [ ] [<code>places-sidebar: Maintain the tooltip while ejecting</code>](https://github.com/linuxmint/nemo/commit/7c17c246ed5d5eede56958b3b9ae6c8a7e75944b)
+- [ ] [<code>places-sidebar: Fix eject vs unmount tooltips</code>](https://github.com/linuxmint/nemo/commit/22a96d8bf8f8112970ccb3c6568b0250ff19d7a1)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1697,6 +1691,10 @@
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.0 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.0...HEAD)
 
+- [ ] [<code>Add xsi-hourglass-symbolic-svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/697a2e2aa23eece38029e0bf0021cf3656bce7ae)
+- [ ] [<code>1.1.1</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/6ff2e6be46a151195899bdc736ce689819a52194)
+  - <sub>Tags: <code>1.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.2...HEAD)
 
