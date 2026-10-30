@@ -1276,7 +1276,11 @@
 - [ ] [<code>x11: Don't reject small screen sizes in meta_gpu_xrandr_read_current()</code>](https://github.com/linuxmint/muffin/commit/c707a0b47b13b53dc856b93a6df801deb494e124)
 - [ ] [<code>window: Fix keyboard resize increments and avoid crash under Wayland (#873)</code>](https://github.com/linuxmint/muffin/commit/83ded29bcccc7ce35d9739572569d3baa4965095)
 - [ ] [<code>keybindings: Reject accelerators without keysym and fail invalid custom keybindings (#872)</code>](https://github.com/linuxmint/muffin/commit/5effbf251f6e54a71dd13c0ee21c024a32b37736)
+- [ ] [<code>Debian packaging improvements (#851)</code>](https://github.com/linuxmint/muffin/commit/8ac6cdf7f9f778d00241aa1ec42f74af88170040)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian: Restore the alternative priority and drop an empty Provides</code>](https://github.com/linuxmint/muffin/commit/f0c4175815197a7e8a4abe22406aad2f6ccbf2f6)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1437,6 +1441,14 @@
 - [ ] [<code>Add a preview pane (#3650)</code>](https://github.com/linuxmint/nemo/commit/d08160614312bea0812594ec8992dc35b8488c0d)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Remove gettext usage in non-CLI code</code>](https://github.com/linuxmint/nemo/commit/2dd8d211a0466fca9f355119d4d372c7eb5f6c82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/9c655a18614ef1039db6f888ffed27a6e3db0c59)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo/commit/633c12f8af2911ceb406b5a10145ce71b0c8dcf2)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-desktop-application.c: Fix build break</code>](https://github.com/linuxmint/nemo/commit/325e8df11e1f39683021c9052729ab9561619f90)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1708,12 +1720,8 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.0 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.0...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
 
-- [ ] [<code>Add xsi-hourglass-symbolic-svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/697a2e2aa23eece38029e0bf0021cf3656bce7ae)
-- [ ] [<code>1.1.1</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/6ff2e6be46a151195899bdc736ce689819a52194)
-  - <sub>Tags: <code>1.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.2...HEAD)
 
