@@ -527,6 +527,8 @@
 - [ ] [<code>fix: preserve sidebar views order in settings dialog (#2744) (#2746)</code>](https://github.com/alainm23/planify/commit/61e14588ff15ad08c9d72ec40ca7b379efa21edd)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2bf4bc0fd55bed50b618ee8701429bcbf0962930)
 - [ ] [<code>fix(caldav): respect text_len in XML text callback (#2754)</code>](https://github.com/alainm23/planify/commit/2178b41a892ba25250d59f39159baebcef26f3f2)
+- [ ] [<code>fix: prevent reminder popover closing and criticals on add (#2699) (#2755)</code>](https://github.com/alainm23/planify/commit/11858e815a4d25c97204d0b5bed2ce0126ab3340)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/63570d67b4bb8e14c89bf50f7c9b307ddc8d0cc7)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
