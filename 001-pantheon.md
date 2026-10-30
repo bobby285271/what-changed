@@ -385,6 +385,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>SettingsPage: use Granite.HeaderLabel (#400)</code>](https://github.com/elementary/switchboard/commit/d1200fea1c3ed514bd161afc948079389769ec3b)
+- [ ] [<code>SearchView: use bind_model (#405)</code>](https://github.com/elementary/switchboard/commit/1a09660cad09c906e3cd4ba3face93a47ee13ea9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>CategoryView: Use Granite.Box</code>](https://github.com/elementary/switchboard/commit/35c5410484d2366c5e681b497e440a1ac0cdfe5c)
+- [ ] [<code>CategoryIcon: Use Granite.Box, CSS margins and icon size</code>](https://github.com/elementary/switchboard/commit/27e7582459fa7b6c06db7106dec0d13dd695f3f6)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -539,6 +543,9 @@
 - [ ] [<code>Actions: Update gettext-template (#1451)</code>](https://github.com/elementary/icons/commit/752833d71408ae2a5d16362b0b13d368878881e0)
 - [ ] [<code>Remove icons already in Granite (#1449)</code>](https://github.com/elementary/icons/commit/2eb97f0e8a16e7b10e28bee903a4fd149bfe351f)
 - [ ] [<code>Remove 24px symbolics in Granite (#1454)</code>](https://github.com/elementary/icons/commit/06f800211c916120dd8e68ab5b60f4cc4c96f190)
+- [ ] [<code>Remove deprecated emotes (#1459)</code>](https://github.com/elementary/icons/commit/32b1c76e25b5556df16dce221c60d51b9520e866)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Status: remove symbolic dialog- icons (#1460)</code>](https://github.com/elementary/icons/commit/8dd2a2352e4c769830ac5d91580249936b472b84)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -721,6 +728,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: Prefix variables in lib tests with</code>](https://github.com/elementary/gala/commit/00ad9d06b45126cefe23ee50a100c7706154d8b8)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ShellClientsManager: Remove unused method</code>](https://github.com/elementary/gala/commit/4a3cfd9d0d247926978f740b5374af6ac0a2a3cf)
+- [ ] [<code>PantheonShell: Deprecate and remove set_size</code>](https://github.com/elementary/gala/commit/c1bc1891004484dc56c98903d57300f8448e6117)
+- [ ] [<code>ShellClientsManager: Remove leftover warning (#2963)</code>](https://github.com/elementary/gala/commit/ba048115a0aaba33bfe19c3b9e80edcd9f0c2e1a)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -807,6 +817,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CSS: fix semantic colors (#743)</code>](https://github.com/elementary/wingpanel/commit/e737de88bc02ddc82a9f4d23f574cc3c04098c03)
+- [ ] [<code>PanelWindow: Fix gap between maximized window and wingpanel (#745)</code>](https://github.com/elementary/wingpanel/commit/7a3cb891acdb1559bb82b38a1724712d639f2d11)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -833,6 +844,8 @@
 - [ ] [<code>Use new ServerType enum (#717)</code>](https://github.com/elementary/applications-menu/commit/3cc5c1de02dcf19ea30073a5dd50ea63e3fb8586)
 - [ ] [<code>config-service: Use explicit namespace instead of using (#718)</code>](https://github.com/elementary/applications-menu/commit/6420d557c13ac9e761326a59fade08a74581dcaa)
 - [ ] [<code>Use start-here-symbolic icon instead (#719)</code>](https://github.com/elementary/applications-menu/commit/7a0e455d57c6b285bec74e6f3f64286bcf109391)
+- [ ] [<code>SlingshotView: Fix activating search results with enter (#721)</code>](https://github.com/elementary/applications-menu/commit/0b152385a65de55b533fc13e406ee6d32910942a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1321,6 +1334,7 @@
 - [ ] [<code>Icons: fix reader strokes</code>](https://github.com/elementary/granite/commit/14e7bdef01a4bb8275c1fada896b0287b2c69e5a)
 - [ ] [<code>Icons: add face-heart and symlink (#1108)</code>](https://github.com/elementary/granite/commit/310ba42e475a7140f55caab3b22c8ae6262ee976)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Styles: create ActionBar (#1109)</code>](https://github.com/elementary/granite/commit/bdff1e6a55ee1a8ab4760ee2046673242c478a05)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1411,6 +1425,7 @@
 - [ ] [<code>Fix POTFILES (#252)</code>](https://github.com/elementary/settings-daemon/commit/e38b999be29ad563b38f66c9f9745c5fb8935d05)
 - [ ] [<code>Add sysupdate backend (#247)</code>](https://github.com/elementary/settings-daemon/commit/8382afb6e14826c63d12edf63ef7f3e37eb07223)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update check: Remove AC power condition (#253)</code>](https://github.com/elementary/settings-daemon/commit/c7873e24f4e0da8d5c9f814e7ce579a92cd5fdd9)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
