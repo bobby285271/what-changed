@@ -978,7 +978,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6e4c6fdb9f44ea3c29b0ff9d28fd03206dc9d43c)
+- [ ] [<code>power: Rework backlight and sensor support</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1bf30bf49aa1eaa915e4697fe7d65995c84af84c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1262,6 +1265,17 @@
 - [ ] [<code>meta-cursor-renderer-native.c: Disable hw cursor for newer nvidia</code>](https://github.com/linuxmint/muffin/commit/c4bfcfd703bb9ede7b7af74864abda1a9a6c7fe6)
 - [ ] [<code>input-mapper: Skip udev size lookup for devices without a node</code>](https://github.com/linuxmint/muffin/commit/e4b4891a7e43abeab22586cc04adc8001bbb84a9)
 - [ ] [<code>stack-tracker: Don't sync the stack for window create/destroy events</code>](https://github.com/linuxmint/muffin/commit/18b75fb9ec888e4371bec85f0d6fc79d5c8df4e6)
+- [ ] [<code>cogl/shader: Don't keep the compilation pipeline alive (#877)</code>](https://github.com/linuxmint/muffin/commit/c07380a1c89935f92b170088b10515e186890c1c)
+- [ ] [<code>cogl: Don't install cogl-gtype-private.h (#869)</code>](https://github.com/linuxmint/muffin/commit/966b6ae182362b469d4f9accb2711d8a493b05dc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>backends/x11: Interpret keycode correctly (#874)</code>](https://github.com/linuxmint/muffin/commit/f5397ebe639aec883720434a194756c4fa0d955c)
+- [ ] [<code>backends/x11: Emit discrete scroll events for accumulated smooth events (#875)</code>](https://github.com/linuxmint/muffin/commit/7a2802814013fd2a9049b5e2ead2b6819c44a5fb)
+- [ ] [<code>backends/x11: Release held virtual input when the device is destroyed (#876)</code>](https://github.com/linuxmint/muffin/commit/e5ae88e5cc2eb546de7e0db8bd9e6f9ad9919fe7)
+- [ ] [<code>Don't flush calc_showing on X11 raise so newly mapped windows still get focus (#772). (#859)</code>](https://github.com/linuxmint/muffin/commit/850126ca74f30d1efb74a8f9643eea724988ed64)
+- [ ] [<code>backends: Guard against NULL monitor mode during XRandR transitions (#805)</code>](https://github.com/linuxmint/muffin/commit/e2b1fd5d79d05e97bd89292ef2f63387200a59be)
+- [ ] [<code>x11: Don't reject small screen sizes in meta_gpu_xrandr_read_current()</code>](https://github.com/linuxmint/muffin/commit/c707a0b47b13b53dc856b93a6df801deb494e124)
+- [ ] [<code>window: Fix keyboard resize increments and avoid crash under Wayland (#873)</code>](https://github.com/linuxmint/muffin/commit/83ded29bcccc7ce35d9739572569d3baa4965095)
+- [ ] [<code>keybindings: Reject accelerators without keysym and fail invalid custom keybindings (#872)</code>](https://github.com/linuxmint/muffin/commit/5effbf251f6e54a71dd13c0ee21c024a32b37736)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1418,6 +1432,11 @@
 - [ ] [<code>places-sidebar: Use an hourglass icon</code>](https://github.com/linuxmint/nemo/commit/b0471900af4f756db2c035012a28b6a0a2ed2c77)
 - [ ] [<code>places-sidebar: Maintain the tooltip while ejecting</code>](https://github.com/linuxmint/nemo/commit/7c17c246ed5d5eede56958b3b9ae6c8a7e75944b)
 - [ ] [<code>places-sidebar: Fix eject vs unmount tooltips</code>](https://github.com/linuxmint/nemo/commit/22a96d8bf8f8112970ccb3c6568b0250ff19d7a1)
+- [ ] [<code>nemo-action.c: Skip NULL parent locations when a uri_scheme is</code>](https://github.com/linuxmint/nemo/commit/738a1a27581a514be2c9a6e6a1e1e974b496a342)
+- [ ] [<code>nemo-window.c: Restore thumbnail regeneration on F5</code>](https://github.com/linuxmint/nemo/commit/dedc6a8610582fe8eaa063cf1059c7b5da0d745d)
+- [ ] [<code>Add a preview pane (#3650)</code>](https://github.com/linuxmint/nemo/commit/d08160614312bea0812594ec8992dc35b8488c0d)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
