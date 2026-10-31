@@ -661,6 +661,7 @@
 - [ ] [<code>screensaver: Skip the album-art widget if both album-art and</code>](https://github.com/linuxmint/cinnamon/commit/68356b0e09c923e124377f82f7d44fbfd79edb76)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
+- [ ] [<code>layout.js: Fix on-screen-keyboard positioning</code>](https://github.com/linuxmint/cinnamon/commit/4f0f8ed5442874d7a0cca45c17e5249b05d50caa)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
