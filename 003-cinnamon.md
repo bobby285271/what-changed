@@ -1450,6 +1450,9 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-desktop-application.c: Fix build break</code>](https://github.com/linuxmint/nemo/commit/325e8df11e1f39683021c9052729ab9561619f90)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo/commit/341b5dfd64c65fb6a50a0e54716636cbd2be1572)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
