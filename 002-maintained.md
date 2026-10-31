@@ -529,6 +529,10 @@
 - [ ] [<code>fix(caldav): respect text_len in XML text callback (#2754)</code>](https://github.com/alainm23/planify/commit/2178b41a892ba25250d59f39159baebcef26f3f2)
 - [ ] [<code>fix: prevent reminder popover closing and criticals on add (#2699) (#2755)</code>](https://github.com/alainm23/planify/commit/11858e815a4d25c97204d0b5bed2ce0126ab3340)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/63570d67b4bb8e14c89bf50f7c9b307ddc8d0cc7)
+- [ ] [<code>feat(attachments): keep file copies, attach while creating tasks (#2764)</code>](https://github.com/alainm23/planify/commit/2d1617099bea9eef8d74492093189faaa2254465)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cd01db5328ac1c6ec929e6801b30ee828d29e8a0)
+- [ ] [<code>clean up devel flatpak manifest (#2765)</code>](https://github.com/alainm23/planify/commit/a88ca8183a955b45dd3df29104d67c3698991a6b)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
