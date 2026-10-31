@@ -1801,6 +1801,7 @@
 - [ ] [<code>build: Move privileged helpers to LIBEXECDIR</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/69008ddc3c401a576401d63f8af414ba8f5a17f4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>power: Fix inhibition dialog respose handling</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/fc860da838b970658003827a11d7f0048aa0c737)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
