@@ -731,6 +731,7 @@
 - [ ] [<code>ShellClientsManager: Remove unused method</code>](https://github.com/elementary/gala/commit/4a3cfd9d0d247926978f740b5374af6ac0a2a3cf)
 - [ ] [<code>PantheonShell: Deprecate and remove set_size</code>](https://github.com/elementary/gala/commit/c1bc1891004484dc56c98903d57300f8448e6117)
 - [ ] [<code>ShellClientsManager: Remove leftover warning (#2963)</code>](https://github.com/elementary/gala/commit/ba048115a0aaba33bfe19c3b9e80edcd9f0c2e1a)
+- [ ] [<code>OSKManager: Only send input purpose when enabled (#2964)</code>](https://github.com/elementary/gala/commit/991b2f15047c38d937273ce11375c333609ab5c5)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
