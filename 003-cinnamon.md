@@ -662,7 +662,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
 - [ ] [<code>layout.js: Fix on-screen-keyboard positioning</code>](https://github.com/linuxmint/cinnamon/commit/4f0f8ed5442874d7a0cca45c17e5249b05d50caa)
+- [ ] [<code>grouped-window-list: Fix button labels after a workspace switch</code>](https://github.com/linuxmint/cinnamon/commit/7df9a1f5431be73720cbf01dcf6c34595546ee59)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
