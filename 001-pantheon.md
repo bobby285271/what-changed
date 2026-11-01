@@ -1336,6 +1336,9 @@
 - [ ] [<code>Icons: add face-heart and symlink (#1108)</code>](https://github.com/elementary/granite/commit/310ba42e475a7140f55caab3b22c8ae6262ee976)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Styles: create ActionBar (#1109)</code>](https://github.com/elementary/granite/commit/bdff1e6a55ee1a8ab4760ee2046673242c478a05)
+- [ ] [<code>Icons: add adw-avatar-default (#1105)</code>](https://github.com/elementary/granite/commit/31fb0e26b0eac00dcc8d1a0223f2d0a26683d2b2)
+- [ ] [<code>Styles: add stackable box shadow (#1101)</code>](https://github.com/elementary/granite/commit/dc97457111dff5a1cf7828faebd5e19078c0590c)
+- [ ] [<code>Styles/HeaderBar: style custom title labels as titles (#1103)</code>](https://github.com/elementary/granite/commit/34f270d249a695f483d36a3545c970f77e6f3627)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1591,6 +1594,7 @@
 - [ ] [<code>Add required initrd modules (#921)</code>](https://github.com/elementary/os/commit/b70ca9a352d1bfa497ea1f3fd9f033335aff63b6)
 - [ ] [<code>feat: Update info in readme (#927)</code>](https://github.com/elementary/os/commit/4f796104d3d7e7ab51352a620f28e5d776a32d06)
 - [ ] [<code>Use drivers directories instead of manual entries (#935)</code>](https://github.com/elementary/os/commit/23d5b98b101e8e1d72cced853f46205c784aefd9)
+- [ ] [<code>Try 64mb (#936)</code>](https://github.com/elementary/os/commit/2993aef6d1d2f3112bb80e2cf4e631e1dd142901)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
