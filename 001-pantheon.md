@@ -389,12 +389,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>CategoryView: Use Granite.Box</code>](https://github.com/elementary/switchboard/commit/35c5410484d2366c5e681b497e440a1ac0cdfe5c)
 - [ ] [<code>CategoryIcon: Use Granite.Box, CSS margins and icon size</code>](https://github.com/elementary/switchboard/commit/27e7582459fa7b6c06db7106dec0d13dd695f3f6)
+- [ ] [<code>Styles/SettingsSidebar: strip margin from headerlabel in row (#401)</code>](https://github.com/elementary/switchboard/commit/e0a532f4ee1a7d9a0afeff9c1730a85d26d53f42)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
 
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#416)</code>](https://github.com/elementary/settings-system/commit/fd08f7c661b9540ee572d986df838e556acd81b2)
 - [ ] [<code>Actions: Update gettext-template (#420)</code>](https://github.com/elementary/settings-system/commit/d121459d126c575d9b055a23d7c0b02c2a33da26)
+- [ ] [<code>OperatingSystemView: make header match other views (#425)</code>](https://github.com/elementary/settings-system/commit/4fe1799802957213d48f1b3894555d4fce638791)
 
 #### [pantheon.switchboard-plug-applications](https://github.com/elementary/settings-applications): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-applications/compare/refs/tags/8.3.0...HEAD)
 
@@ -447,6 +449,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/7bc0aee8a4907130489660e15cbf257af3428e1d)
 - [ ] [<code>ToucheggSettings: Use explicit namespace instead of using (#281)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/c04561c4c4f957f66e8c2cbccab69df3d4d56367)
 - [ ] [<code>Actions: Update gettext-template (#280)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/e45b1c31a056ed1b0aa8417ce455399c23b7890a)
+- [ ] [<code>Fix icons for OS 9 (#279)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/5452d79590fdd36413a48ede005332a348900b07)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -482,6 +487,9 @@
 - [ ] [<code>Icons: fix for GTK 4.22 (#492)</code>](https://github.com/elementary/settings-desktop/commit/b7c3c2a0a44fe79804e4b0c8dd84e5ed49339254)
 - [ ] [<code>Fix reduced-motion settings key typo (#497)</code>](https://github.com/elementary/settings-desktop/commit/4299698ae55d390776a90f928c862e974ca05479)
 - [ ] [<code>Actions: Update gettext-template (#496)</code>](https://github.com/elementary/settings-desktop/commit/0403b77e2ee9cd285dcf8e01f3f45f835840dab7)
+- [ ] [<code>CSS: use modern css functions (#502)</code>](https://github.com/elementary/settings-desktop/commit/6f74d97baab2d4fd187d69582717504b7f9526aa)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -732,6 +740,7 @@
 - [ ] [<code>PantheonShell: Deprecate and remove set_size</code>](https://github.com/elementary/gala/commit/c1bc1891004484dc56c98903d57300f8448e6117)
 - [ ] [<code>ShellClientsManager: Remove leftover warning (#2963)</code>](https://github.com/elementary/gala/commit/ba048115a0aaba33bfe19c3b9e80edcd9f0c2e1a)
 - [ ] [<code>OSKManager: Only send input purpose when enabled (#2964)</code>](https://github.com/elementary/gala/commit/991b2f15047c38d937273ce11375c333609ab5c5)
+- [ ] [<code>MutterTestCase: Setup context in set_up (#2966)</code>](https://github.com/elementary/gala/commit/7aefbba6b7c35cc5b16efc8d5ea24bc2c6e682ea)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
