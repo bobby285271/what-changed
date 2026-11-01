@@ -1496,6 +1496,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1539,6 +1540,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1582,6 +1584,7 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
