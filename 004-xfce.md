@@ -1974,6 +1974,7 @@
 - [ ] [<code>Add org.xfce.Session.Manager.GetEnvironment()</code>](https://github.com/xfce-mirror/xfce4-session/commit/4f8d20a1bc7c9e376d239a0fec67e7a24e469554)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Redesign Wayland session management support</code>](https://github.com/xfce-mirror/xfce4-session/commit/d1ff3f11c810eee9bf79a4be45e9d7f04b93c919)
+- [ ] [<code>Fix memory leaks</code>](https://github.com/xfce-mirror/xfce4-session/commit/9f9e1a2d82f7c9871ca6e94ff08071f956398d79)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
