@@ -571,6 +571,10 @@
 - [ ] [<code>postgresql-libs: Update postgresql-18.1.tar.gz to 18.6</code>](https://github.com/ellie-commons/sequeler/commit/92b7f7e0e670971cf5a035998fd966fcd1221b24)
 - [ ] [<code>mariadb: Update 12.2.1 to 13.1.1</code>](https://github.com/ellie-commons/sequeler/commit/df4ea6dc99c0707b9adba0667e3200e372e24272)
 - [ ] [<code>Actions: Update ghcr.io/elementary/flatpak-platform/runtime to 9.1</code>](https://github.com/ellie-commons/sequeler/commit/5bddf881c707ce41d80005f8b988581393aeefe5)
+- [ ] [<code>metainfo: Add 0.9.1 release notes (#454)</code>](https://github.com/ellie-commons/sequeler/commit/ff9ec0a64f9554ca963f46c23f8fbeb47873b452)
+- [ ] [<code>metainfo: Use appstreamcli instead of appstream-util (#455)</code>](https://github.com/ellie-commons/sequeler/commit/79a4c0d538d769f2d3afcffbf6cada98878cc86d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update project ID the old one doesn't exist (#456)</code>](https://github.com/ellie-commons/sequeler/commit/73e14a3863821677eecf82f01f947f265f36b22d)
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
