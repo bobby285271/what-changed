@@ -681,8 +681,46 @@
 - [ ] [<code>cs_themes: Rebuild the icon theme cache if it can't be parsed</code>](https://github.com/linuxmint/cinnamon/commit/d5fcc5e45aa918c8c2c256b82c57fc70be3fd247)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ChooserButtonWidgets.py: Fix thumbnail sizing in hidpi</code>](https://github.com/linuxmint/cinnamon/commit/7b9067a509799252bd6418e37fa7720c491ad9ee)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>sound@cinnamon.org: Support multiple instances (#14083)</code>](https://github.com/linuxmint/cinnamon/commit/e47bed97244bede50cd08eca3266bcc56e25b73c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>windowManager.js: Skip windows without a workspace in handleSeen (#14054)</code>](https://github.com/linuxmint/cinnamon/commit/b798d75c67cf64c7ce74c831a74504c90ef7fe5e)
+- [ ] [<code>st-button.c: Don't rely on hover state to accept clicks (#14048)</code>](https://github.com/linuxmint/cinnamon/commit/8a627c9b81afd531311b2dc74f824494c47371f6)
+- [ ] [<code>cs_user: Use the scaled face image when choosing a picture from file (#14043)</code>](https://github.com/linuxmint/cinnamon/commit/003b6c66c08df5283b4aadd5219dd557dbf7ae4c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings-users: don´t crash on unreadable user avatar (#14077)</code>](https://github.com/linuxmint/cinnamon/commit/969b0f06baf2fe21c16c57a4b65f7fa6776ae959)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>messageTray: Don't arm the timeout for a notification removed while showing (#14079)</code>](https://github.com/linuxmint/cinnamon/commit/ff9f6a3968c9e90213f316a89ce2ddf24f6d0206)
+- [ ] [<code>notificationDaemon: resolve native desktop-entry hints without a PID match (#14090)</code>](https://github.com/linuxmint/cinnamon/commit/1cc9c4b6816c2d05eaea802b416e45a8f9be5fce)
+- [ ] [<code>menu: Ignore search provider results for outdated searches (#14071)</code>](https://github.com/linuxmint/cinnamon/commit/1bc761c6f37b91aefb882f7f0c6f18bee5fe8797)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound@cinnamon.org: fixed duplicate open/quit player buttons (#14060)</code>](https://github.com/linuxmint/cinnamon/commit/9206699b07ebea172594582231d95c317203e4cd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications@cinnamon.org - Avoid redundant update_list calls during clear all. (#13704)</code>](https://github.com/linuxmint/cinnamon/commit/f4e53f58deffcada1c2f2092100d4e1bc77ab8e8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: Avoid duplicate window signal connections and clean up on removal (#14055)</code>](https://github.com/linuxmint/cinnamon/commit/e7fd0035941d7c4d092ec44392eebad01ba4edda)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>KeybindingTable: Check conflicts between actions with the same label (#14053)</code>](https://github.com/linuxmint/cinnamon/commit/c3503fae1484dd81b4d0009d58b0f5c5558b3020)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>panel.js: fixed context menu leak on monitor changes (#14059)</code>](https://github.com/linuxmint/cinnamon/commit/fbdb20b3e4407d1873c431bc9afc6568fee95305)
+- [ ] [<code>sound applet: show input device selector when multiple inputs are connected (#13977)</code>](https://github.com/linuxmint/cinnamon/commit/ddad86fe016082337374960e67ca194f29431529)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: keep the input device selector visible after a recording ends</code>](https://github.com/linuxmint/cinnamon/commit/3127549ea6e0ac4b183982a26f0aa40b5b5a3482)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: fix removing one of several saved Wi-Fi profiles (#14073)</code>](https://github.com/linuxmint/cinnamon/commit/6564c609b6d67a2f75b82112b539a12702a46fca)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network@cinnamon.org: Label network items with the stored SSID (#14045)</code>](https://github.com/linuxmint/cinnamon/commit/39b105feb2cececa2429abadd058538432e71154)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: classify WPA3 (SAE) and OWE access points (#14074)</code>](https://github.com/linuxmint/cinnamon/commit/099fe4ce3e9509502e4bb7f1c83b37052fd1bd82)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: fix access point updates for multi-profile Wi-Fi (#14075)</code>](https://github.com/linuxmint/cinnamon/commit/c2f692f09e0a205c64379f2f357f443fe5bb24b3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: fix duplicate rows when a network gains a profile (#14076)</code>](https://github.com/linuxmint/cinnamon/commit/e1c39c4fe348f2569685fad04de9b31a1ef2ccf1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>background daemon: Don't rebuild layer-shell windows in items-changed</code>](https://github.com/linuxmint/cinnamon/commit/8a9639d651df38ba0bb7681c9e350a0f046d1a22)
+- [ ] [<code>main.js: Keep the startup pointer on the primary monitor</code>](https://github.com/linuxmint/cinnamon/commit/4bab853459bb5dcc09b68212b4f61f235851c36f)
+- [ ] [<code>main.c: Remove center_pointer_on_screen()</code>](https://github.com/linuxmint/cinnamon/commit/9373681c876b2df2cf72b43e891315dfe5bb322d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -797,7 +835,11 @@
 - [ ] [<code>input-sources schema: Add key for layout switch cursor popup.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9da585575f3ad6134970beef06d69f609589bb74)
 - [ ] [<code>input-sources schema: Disable layout-switch popup by default</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8da0a91c94fbcd3fa9d2e58b65539153894b57fb)
 - [ ] [<code>gnome-desktop-thumbnail.c: Tighten up 'thumbnails' directory check</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3f888589b4667ffddc007cfa11f0bf724f6e1961)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>libcvc: Don't crash when a card has no active profile (#280)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0e1ee840cf564229cbe01266ed5ba4f23a160192)
+- [ ] [<code>libcvc: handle missing active port in mixer control (#278)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9450ca962244ca799d3c145f7e41bd9b0f452e66)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4f797bcfc999cae14d8e20864761eec2598681a8)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -1000,9 +1042,12 @@
 - [ ] [<code>power: Export the percentage of a single primary device.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/56e13452712baba646e8b855cd6b8669d1be6b1a)
 - [ ] [<code>Implement suspend action</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6e4c6fdb9f44ea3c29b0ff9d28fd03206dc9d43c)
 - [ ] [<code>power: Rework backlight and sensor support</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1bf30bf49aa1eaa915e4697fe7d65995c84af84c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4174a6f07079b4795053bcd05d09ea401c0a6566)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1e10ffd1e1bd49e48da691491cdf92085926308e)
+  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1300,8 +1345,20 @@
 - [ ] [<code>Debian packaging improvements (#851)</code>](https://github.com/linuxmint/muffin/commit/8ac6cdf7f9f778d00241aa1ec42f74af88170040)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>debian: Restore the alternative priority and drop an empty Provides</code>](https://github.com/linuxmint/muffin/commit/f0c4175815197a7e8a4abe22406aad2f6ccbf2f6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>meta-cursor-tracker: Add pointer button update event (#860)</code>](https://github.com/linuxmint/muffin/commit/df57032322ac007c7c48cd281593e3c602621ad1)
+- [ ] [<code>Wayland: Implement ext-idle-notify-v1 protocol (#842)</code>](https://github.com/linuxmint/muffin/commit/ff1525d0e5622e045e9f7f07cb02ead5cc145f91)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix memory leaks, undefined behaviour, and resource lifecycle bugs (#814)</code>](https://github.com/linuxmint/muffin/commit/703755e255d34ea79464f0a4399010d7705166f0)
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/muffin/commit/9b2bfdf9a783314a79a3048334247124c2ba87b7)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland/surface: Send enter event when a client binds to wl_output late</code>](https://github.com/linuxmint/muffin/commit/df2d9dfc8bebf447c7167e4a9419beb8c4931d9e)
+- [ ] [<code>wayland: Re-announce wl_output globals when monitor order changes</code>](https://github.com/linuxmint/muffin/commit/02e1a7c3e8e2bde9aee744a28d8323ab7e8f07ee)
+- [ ] [<code>meta-window-wayland: Always update the monitor of an unmapped window</code>](https://github.com/linuxmint/muffin/commit/b60f7970b10c667351e1e777a9f3f82c1831026c)
+- [ ] [<code>meta-monitor-manager.c: Use strverscmp to compare connector ids</code>](https://github.com/linuxmint/muffin/commit/195a4c8f7f79a6845523fa44c7bddd7bda25b71c)
+- [ ] [<code>place.c: Center windows in the work area, not on the whole monitor (#884)</code>](https://github.com/linuxmint/muffin/commit/2e4e941694d6fae20661b290daac1ba9639db8a5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1452,7 +1509,6 @@
 - [ ] [<code>properties-window: Fix permission checkboxes needing two clicks with multiple files. (#3845)</code>](https://github.com/linuxmint/nemo/commit/548d0f1d99c5bfdb3b4ef300722e31edd9556924)
   - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>nemo-file-conflict-dialog.c: Load folder sizes before display. (#3828)</code>](https://github.com/linuxmint/nemo/commit/d8096a9af7b0afa3307300848cf61e8bae8b9795)
-  - <sub>Tags: <code>master.mint27</code></sub>
 - [ ] [<code>places-sidebar: keep ejecting devices visible until the eject completes</code>](https://github.com/linuxmint/nemo/commit/c79c3d5ba563a605a8abf43734cbb62b33bf7865)
 - [ ] [<code>places-sidebar: Use an hourglass icon</code>](https://github.com/linuxmint/nemo/commit/b0471900af4f756db2c035012a28b6a0a2ed2c77)
 - [ ] [<code>places-sidebar: Maintain the tooltip while ejecting</code>](https://github.com/linuxmint/nemo/commit/7c17c246ed5d5eede56958b3b9ae6c8a7e75944b)
@@ -1477,6 +1533,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 - [ ] [<code>nemo-preview-video.c: Pad the video the same as its preview/thumb</code>](https://github.com/linuxmint/nemo/commit/955a7def81f75934ebd0535fba3594524a7a4ee4)
+- [ ] [<code>wayland: Fix primary monitor detection in nemo-desktop</code>](https://github.com/linuxmint/nemo/commit/8f6074168f388b27afaf239b0d6ef50997c0deac)
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/nemo/commit/ccffe00e6e7fdf9450d0af98fae0bf713865bd55)
+  - <sub>Tags: <code>6.8.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-desktop-manager: Revert 8f6074168 (primary monitor detect)</code>](https://github.com/linuxmint/nemo/commit/87961b71391bce1a9dce74e3a888932f5f00c35b)
+- [ ] [<code>Only use malloc_trim if available (#3867)</code>](https://github.com/linuxmint/nemo/commit/b9641bcd40945899a458cec3df11a204a3a11a87)
+  - <sub>Tags: <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
