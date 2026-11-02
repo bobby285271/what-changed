@@ -29,6 +29,10 @@
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/exo/commit/451db019e136debf836c1e5b645dedcf42e0cb14)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix -Wdiscarded-qualifiers compiler warning</code>](https://github.com/xfce-mirror/exo/commit/20430f8ecddf3aea562800005063e21c239deb35)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/exo/commit/f67d4a13888f31c0661df6455af3a22b2b73876c)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Update copyright year</code>](https://github.com/xfce-mirror/exo/commit/820ac9c01174cfe2da265f22ef2b38e54caaa15f)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [garcon](https://github.com/xfce-mirror/garcon): [garcon-4.20.0 → HEAD](https://github.com/xfce-mirror/garcon/compare/garcon-4.20.0...HEAD)
 
@@ -95,6 +99,12 @@
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/garcon/commit/f79d3138e80eb28c70c0abbd1314cc2644964432)
 - [ ] [<code>cppcheck: Fix unreachableCode in test-menu-parser</code>](https://github.com/xfce-mirror/garcon/commit/68d4db8e2949a571641d3aa9b336499a776bcea7)
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/garcon/commit/190bdcac0682c76bc3cee40307c7ca36d48903b8)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/garcon/commit/2b004c6a9ebb312cb79fb0d969dc9392cb951fe4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/garcon/commit/8bf67a8fedb8c6caa6b397afcd7a2e4c031478df)
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/garcon/commit/9cf2643cc7840c2f0f027ad463fb2c315595cdb1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/garcon/commit/3501e04fc1b9beb0bd59dec073bd567c1c322a61)
 
 #### [libxfce4ui](https://github.com/xfce-mirror/libxfce4ui): [libxfce4ui-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4ui/compare/libxfce4ui-4.20.0...HEAD)
 
@@ -336,6 +346,17 @@
 - [ ] [<code>Drop libstartup-notification dep and use GdkAppLaunchContext</code>](https://github.com/xfce-mirror/libxfce4ui/commit/7e763d3de923abed01e28f472c0a5d93207064e9)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/libxfce4ui/commit/b12b1e73421099d41a9d17533f5c75926d5ea8ae)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/libxfce4ui/commit/5e1dd2dbec8b680f111e728cb10ec3f4faaece3f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/libxfce4ui/commit/84eded09958b5d81996349c2609d1ceb13434ad6)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4ui/commit/f46494f05be3b896ca18eaf03045f211eb38628b)
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/libxfce4ui/commit/239425b6e7b5157485316b0e767781e568bcdac9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/libxfce4ui/commit/84593de6384f838ef3b0802863eb008ccd88ce68)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ef5ab2842e8f2523f4405768d5f5a579a2b9751b)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -434,6 +455,11 @@
 - [ ] [<code>Do not break gi scan due to missing prefix</code>](https://github.com/xfce-mirror/libxfce4util/commit/53ddad3ac0de5864386ccc4afb66d6bc9bd664d7)
 - [ ] [<code>build: Explicitly set gi warnings non-fatal</code>](https://github.com/xfce-mirror/libxfce4util/commit/f12d6d65d4f48236b6d2973b5a2e21cee75e7f0e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/libxfce4util/commit/dfe3cb7d8251ff69517a3d09e5caf846006c51b4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/libxfce4util/commit/952b5ec419dd8262765e12067c37316053cd3f98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4util/commit/82347f6ab0563481a4ecf3b3ab1b7201192b7abe)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -621,6 +647,16 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>XfwWindowActionMenu: Load symbolic icons matching system colors</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/634cb327481800d751ae35caa4230c7b83c1f291)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/bb42c8af5635a590872bab2ca2597be02adc9aa0)
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1fb8d100d52a9c1da31c592a3f7f6cfb432e6058)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dc0ff340436251494efa1bda1de12a3d283094b1)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/97da8b635d8c7dae9e301b6dd03850635a1c71b0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/80421151f6a0c1adcc57e5ad0aab4b7a358e80d2)
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56147c80e4cdc43d628f5a359b39e2eca74352b8)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0a417ff6f0f71cc8d9d211b2b42cc13094b38ef1)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b80bd473a86f41093f1d0cd62466be3fb5bc3045)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
