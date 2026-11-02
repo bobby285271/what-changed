@@ -663,8 +663,26 @@
 - [ ] [<code>layout.js: paint uiGroup natively when no mapped actor is skipped (#14044)</code>](https://github.com/linuxmint/cinnamon/commit/d67b361f90bccc3346fe342b2a571b68ec1eb671)
 - [ ] [<code>layout.js: Fix on-screen-keyboard positioning</code>](https://github.com/linuxmint/cinnamon/commit/4f0f8ed5442874d7a0cca45c17e5249b05d50caa)
 - [ ] [<code>grouped-window-list: Fix button labels after a workspace switch</code>](https://github.com/linuxmint/cinnamon/commit/7df9a1f5431be73720cbf01dcf6c34595546ee59)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: merge the WireGuard and VPN sections, label each row's kind (#13913)</code>](https://github.com/linuxmint/cinnamon/commit/981e964939a9456282e9a1569b1d555f26425b66)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Restore the VPN "More" overflow and drop the heading switch</code>](https://github.com/linuxmint/cinnamon/commit/549ac8361e00656fb5a561e350c849f8cf45f873)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs: add keywords (#13775)</code>](https://github.com/linuxmint/cinnamon/commit/fe618e6641c7040a08887146c8bb4fcd96120630)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Don't pass panel arguments to cinnamon-settings</code>](https://github.com/linuxmint/cinnamon/commit/7446bbf83c4176b1ac02d08b86163a0e9e4f25d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: clean up subscriptions and thumbnail callbacks</code>](https://github.com/linuxmint/cinnamon/commit/751f9de00f5308bca1f1f8c3a47aec66202c96d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: Fix stale labels, scroll flag and workspace</code>](https://github.com/linuxmint/cinnamon/commit/99887953df6e80aad96e8f3d27a9c4d844e51de5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>popupMenu: release destroyed item signals (#13958)</code>](https://github.com/linuxmint/cinnamon/commit/320a5f0931ae483768b1c77f38de1a23eb1149f5)
+- [ ] [<code>panel: publish panel state before loading new applets (#14036)</code>](https://github.com/linuxmint/cinnamon/commit/1708f1a7382d83f9a6eb695b2e228f117dd39631)
+- [ ] [<code>cs_themes: Rebuild the icon theme cache if it can't be parsed</code>](https://github.com/linuxmint/cinnamon/commit/d5fcc5e45aa918c8c2c256b82c57fc70be3fd247)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ChooserButtonWidgets.py: Fix thumbnail sizing in hidpi</code>](https://github.com/linuxmint/cinnamon/commit/7b9067a509799252bd6418e37fa7720c491ad9ee)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1455,6 +1473,10 @@
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo/commit/341b5dfd64c65fb6a50a0e54716636cbd2be1572)
   - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>preview pane: Use playbin3 and uridecodebin3 instead of legacy elements</code>](https://github.com/linuxmint/nemo/commit/9d99df19f93e58189b5169739620010d1f43e8b7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>nemo-preview-video.c: Pad the video the same as its preview/thumb</code>](https://github.com/linuxmint/nemo/commit/955a7def81f75934ebd0535fba3594524a7a4ee4)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
