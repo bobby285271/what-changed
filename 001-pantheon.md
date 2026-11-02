@@ -32,6 +32,10 @@
 - [ ] [<code>evolution-data-server: Update evolution-data-server-3.62.0.tar.xz to 3.62.1 (#964)</code>](https://github.com/elementary/calendar/commit/1f317ff22bcb587483d4181283719d2c9b42bf3b)
 - [ ] [<code>Flatpak: Bump platform to 9.1</code>](https://github.com/elementary/calendar/commit/1e44f00caaa31d2a13b68658e98dd335f348f5d5)
 - [ ] [<code>libical: Update v3.0.9 to v3.0.20</code>](https://github.com/elementary/calendar/commit/9c4dae670768e1c4617e5bde3a223fa45aabb583)
+- [ ] [<code>Port to GTK4 (#849)</code>](https://github.com/elementary/calendar/commit/99af45d9fcca57b2dfe3f7e615d4056ff0ff52e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Workflows: master → main</code>](https://github.com/elementary/calendar/commit/6296af6b633593c438aafe371e4bd07c91f2665e)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -275,6 +279,7 @@
 - [ ] [<code>exiv2: Update v0.28.8.tar.gz to 0.28.9 (#849)</code>](https://github.com/elementary/photos/commit/c343b22f31bef95366ee709a50ba74417437e831)
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/photos/commit/58f178f7f9df3aa39a67ab4a6991afc3cb46d228)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/photos/commit/9b05141b76d55b75cfd76c5441cdb8673f8a9f3d)
+- [ ] [<code>inih: Update inih to 63 (#853)</code>](https://github.com/elementary/photos/commit/a686642b474f45a60c8b1630fbc54e34d94c2051)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -554,6 +559,7 @@
 - [ ] [<code>Remove deprecated emotes (#1459)</code>](https://github.com/elementary/icons/commit/32b1c76e25b5556df16dce221c60d51b9520e866)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Status: remove symbolic dialog- icons (#1460)</code>](https://github.com/elementary/icons/commit/8dd2a2352e4c769830ac5d91580249936b472b84)
+- [ ] [<code>Categories: redesign preferences-system-privacy (#1462)</code>](https://github.com/elementary/icons/commit/f4ef0970d2e13c141bddbbf3ecd645d5cc7be613)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
