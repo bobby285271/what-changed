@@ -1663,6 +1663,7 @@
 - [ ] [<code>applicationsmenu: Change edit-menu icon to accessories-text-editor</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b5396eb652d24fece5d8265d2c41099c454572d5)
 - [ ] [<code>remote-event: Fix GVariant memory management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d187922618796664e83fcea1795a4fdc9c73e2a0)
 - [ ] [<code>wayland: Defer monitor layout updates received while mapping</code>](https://github.com/xfce-mirror/xfce4-panel/commit/27f20165228187368e3fe57e4ce629e475cdb5e7)
+- [ ] [<code>Only discard session on intentional quit</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3bf997422ff19d82b4044e3308ad0125e5b35e2b)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -2241,6 +2242,8 @@
 - [ ] [<code>Make the accessibility dialog somewhat functional on Wayland</code>](https://github.com/xfce-mirror/xfce4-settings/commit/7fc469a5eb909647ec3f4ad5ffe5f625450603a8)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix type of pointer in on_name_lost callback</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a15657449f30af7946a25264b70f3406a9d9f05a)
+- [ ] [<code>display-settings: Fix use-after-free when dnding during layout change</code>](https://github.com/xfce-mirror/xfce4-settings/commit/1f1a784294be07135d57f182233e686c4294b804)
+- [ ] [<code>wayland: displays: Fix string leaks in load_from_xfconf</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f0b49891f8790659e01d69757ea35d8d0ce12de7)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
