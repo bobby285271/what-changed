@@ -657,6 +657,8 @@
 - [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/56147c80e4cdc43d628f5a359b39e2eca74352b8)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/0a417ff6f0f71cc8d9d211b2b42cc13094b38ef1)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b80bd473a86f41093f1d0cd62466be3fb5bc3045)
+- [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/edcdc39f5abaa45779f90ab638a03e509ee661b3)
+- [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6864b4d342538525bfa137f2943548f044c6a23a)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
