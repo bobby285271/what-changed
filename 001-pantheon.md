@@ -36,6 +36,14 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Workflows: master → main</code>](https://github.com/elementary/calendar/commit/6296af6b633593c438aafe371e4bd07c91f2665e)
+- [ ] [<code>Add support for ICal >= 4.0.0 (#961)</code>](https://github.com/elementary/calendar/commit/23e57b70c1dbc053c0e6de27e5b17ffd06fa2836)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove no longer used libchamplain subpoject (#971)</code>](https://github.com/elementary/calendar/commit/6ade64c21eb6955587c65d520322a2c4f112e74b)
+- [ ] [<code>AgendaView: use ToolbarView (#970)</code>](https://github.com/elementary/calendar/commit/1144cb37ef65400440e9ac18f9f09bcf6cdea8f4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>AgendaView: use Granite.HeaderLabel (#969)</code>](https://github.com/elementary/calendar/commit/871f52f688365bb8a844c231b75067754c6692c5)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -280,6 +288,9 @@
 - [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#850)</code>](https://github.com/elementary/photos/commit/58f178f7f9df3aa39a67ab4a6991afc3cb46d228)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#852)</code>](https://github.com/elementary/photos/commit/9b05141b76d55b75cfd76c5441cdb8673f8a9f3d)
 - [ ] [<code>inih: Update inih to 63 (#853)</code>](https://github.com/elementary/photos/commit/a686642b474f45a60c8b1630fbc54e34d94c2051)
+- [ ] [<code>Add libm dependency (#856)</code>](https://github.com/elementary/photos/commit/3ebda597f80dac3133f2fb0c5d1cdce2d2be37dd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -431,6 +442,9 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/switchboard-plug-datetime/commit/39303d6a1c231acea07a8d11d6124b60c489f09b)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#140)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/ad42bebd47a4f090acd160e7a54b789ff7425f6b)
 - [ ] [<code>Actions: Update gettext-template (#141)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/70ec8660b3c94c12963191071cae6e15405ac936)
+- [ ] [<code>Animate location icon (#142)</code>](https://github.com/elementary/switchboard-plug-datetime/commit/5b7c4e1aa29a033d4761c029ac5861e2fd64a6e8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-display](https://github.com/elementary/settings-display): [8.0.3 → HEAD](https://github.com/elementary/settings-display/compare/8.0.3...HEAD)
 
@@ -495,6 +509,7 @@
 - [ ] [<code>CSS: use modern css functions (#502)</code>](https://github.com/elementary/settings-desktop/commit/6f74d97baab2d4fd187d69582717504b7f9526aa)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Wallpaper: replace deprecated Gtk.ColorButton (#503)</code>](https://github.com/elementary/settings-desktop/commit/cbeee5a32d7836faa2a07f9c5dd74a945d76d2d7)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
