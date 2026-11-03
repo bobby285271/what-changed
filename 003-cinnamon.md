@@ -721,6 +721,48 @@
 - [ ] [<code>main.js: Keep the startup pointer on the primary monitor</code>](https://github.com/linuxmint/cinnamon/commit/4bab853459bb5dcc09b68212b4f61f235851c36f)
 - [ ] [<code>main.c: Remove center_pointer_on_screen()</code>](https://github.com/linuxmint/cinnamon/commit/9373681c876b2df2cf72b43e891315dfe5bb322d)
 - [ ] [<code>xapp-status@cinnamon.org: Drop stage key focus before forwarding a press</code>](https://github.com/linuxmint/cinnamon/commit/b95c2b157ae80e7d1155718fb67d8f87b4956d3a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix: multi_agent.cwe-78 security vulnerability (#14084)</code>](https://github.com/linuxmint/cinnamon/commit/26c364e50067735a2ca02b2b098615727d96401a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>network@cinnamon.org: don't show the offline icon when online through an unmanaged device (#13924)</code>](https://github.com/linuxmint/cinnamon/commit/1d1adfa6d29c7ab9f5d4ad6b44d2aaf8e252c36e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add pam_oo7 to optional authentication modules (#14062)</code>](https://github.com/linuxmint/cinnamon/commit/f371a407e91c5a11d0d1fb0fef45a269c49c9b75)
+- [ ] [<code>pam: Also add pam_007 to Mint/Debian</code>](https://github.com/linuxmint/cinnamon/commit/ccc994f8e783c1a95326babceb76bb923f4e175f)
+- [ ] [<code>Add oo7-portal to Secret portal</code>](https://github.com/linuxmint/cinnamon/commit/b0c495b46d41f2a001f8f40de367bd42a5ccea3e)
+- [ ] [<code>sound applet: Expand the output devices by default</code>](https://github.com/linuxmint/cinnamon/commit/9c9e77ac776174ece6a85e390e0e058863dfd134)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list: Add menu option to keep window above (#13351)</code>](https://github.com/linuxmint/cinnamon/commit/549a6eef5f865cc09aa2e2bcb7aeb9f39faa7887)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: preserve ungrouped window order on rebuild (#14089)</code>](https://github.com/linuxmint/cinnamon/commit/01251d483de9be91fc5f29dee5d2a733729982b4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: scroll overflowing thumbnail popups (#14080)</code>](https://github.com/linuxmint/cinnamon/commit/ad1012a5fcdbee5f3db7a5e66dbe5da50850ecd8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st-scroll-view: Fix automatic horizontal scrollbar visibility</code>](https://github.com/linuxmint/cinnamon/commit/507894956a496890c82ec963f175e8cc20e606d2)
+- [ ] [<code>grouped-window-list: Only reserve space for scrollbar when needed</code>](https://github.com/linuxmint/cinnamon/commit/9fcf5acdff43e91649fb835961e8dd3274d67df1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Stop relying on icon names only the Mint themes provide (#13995)</code>](https://github.com/linuxmint/cinnamon/commit/2689309d692e121a6c0c66bcb66d696554bc1ded)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: keep a gap between the label and the button edge</code>](https://github.com/linuxmint/cinnamon/commit/27b85c0b3ef898be9044ddb8f0fa15f0aaad6751)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: show the title when a pinned app opens a window</code>](https://github.com/linuxmint/cinnamon/commit/71abcace3ba344f2fe5802737c31aee331507ae4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list: equal width for buttons without a label</code>](https://github.com/linuxmint/cinnamon/commit/4928ef7499d4a44060b820e8cd62db636d07d38e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st: Stop box-shadows from freezing Cinnamon (blur a corner-sized silhouette) (#14046)</code>](https://github.com/linuxmint/cinnamon/commit/3f8b74a4889aaa3819023e19c06462fa71d89de8)
+- [ ] [<code>st-viewport, cinnamon-slicer: Fix pick clipping and stale paint volumes</code>](https://github.com/linuxmint/cinnamon/commit/4295a1b0d9e0cfbb481b1ca189fe803d992b492e)
+- [ ] [<code>notifications applet: Destroy the menu when the applet is removed.</code>](https://github.com/linuxmint/cinnamon/commit/7c4b8a053c334b519a19d87b8e05c29c4d853244)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications applet: Cancel the critical blink timeout.</code>](https://github.com/linuxmint/cinnamon/commit/7b5fc2c11f3b9837ba60bba8c7e5399f54e7c091)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications applet: Disconnect notification signals when the applet is removed.</code>](https://github.com/linuxmint/cinnamon/commit/8cd988faa558f384b07b0c621b71ae6c80f09c27)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications applet: Do not touch the actor of a destroyed notification.</code>](https://github.com/linuxmint/cinnamon/commit/1ec2819a6928a7a779a94b53305f5b6c1de91472)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications applet: Read the clock format once per update.</code>](https://github.com/linuxmint/cinnamon/commit/0cbb849368a326c5fc7649ff6c48187913a3eb84)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications applet: Move notification actors instead of reparenting them.</code>](https://github.com/linuxmint/cinnamon/commit/4a556c4a7b434f15871ba3298f058e32d6fae5be)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Warn when a device is unplugged while still mounted (#13899)</code>](https://github.com/linuxmint/cinnamon/commit/f8a2bd6f3202351641db8ca01118fcc908bf9a5e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -1048,8 +1090,10 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4174a6f07079b4795053bcd05d09ea401c0a6566)
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1e10ffd1e1bd49e48da691491cdf92085926308e)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: Initialize hotplugged devices like coldplugged devices (#479)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ff171c8df07546aa152d4153be51efaf5d714075)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1361,6 +1405,7 @@
 - [ ] [<code>meta-monitor-manager.c: Use strverscmp to compare connector ids</code>](https://github.com/linuxmint/muffin/commit/195a4c8f7f79a6845523fa44c7bddd7bda25b71c)
 - [ ] [<code>place.c: Center windows in the work area, not on the whole monitor (#884)</code>](https://github.com/linuxmint/muffin/commit/2e4e941694d6fae20661b290daac1ba9639db8a5)
 - [ ] [<code>wayland: Refuse a popup grab cleanly when a grab op is already in effect</code>](https://github.com/linuxmint/muffin/commit/41bcf2da3f5dc0c48749b41f3bdf78e990f0c85c)
+- [ ] [<code>clutter: Add missing pick clip and cache invalidation api.</code>](https://github.com/linuxmint/muffin/commit/ed4b6691a181371fe5a3f4602665f854d5129902)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
