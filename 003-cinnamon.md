@@ -720,7 +720,9 @@
 - [ ] [<code>background daemon: Don't rebuild layer-shell windows in items-changed</code>](https://github.com/linuxmint/cinnamon/commit/8a9639d651df38ba0bb7681c9e350a0f046d1a22)
 - [ ] [<code>main.js: Keep the startup pointer on the primary monitor</code>](https://github.com/linuxmint/cinnamon/commit/4bab853459bb5dcc09b68212b4f61f235851c36f)
 - [ ] [<code>main.c: Remove center_pointer_on_screen()</code>](https://github.com/linuxmint/cinnamon/commit/9373681c876b2df2cf72b43e891315dfe5bb322d)
+- [ ] [<code>xapp-status@cinnamon.org: Drop stage key focus before forwarding a press</code>](https://github.com/linuxmint/cinnamon/commit/b95c2b157ae80e7d1155718fb67d8f87b4956d3a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1358,6 +1360,7 @@
 - [ ] [<code>meta-window-wayland: Always update the monitor of an unmapped window</code>](https://github.com/linuxmint/muffin/commit/b60f7970b10c667351e1e777a9f3f82c1831026c)
 - [ ] [<code>meta-monitor-manager.c: Use strverscmp to compare connector ids</code>](https://github.com/linuxmint/muffin/commit/195a4c8f7f79a6845523fa44c7bddd7bda25b71c)
 - [ ] [<code>place.c: Center windows in the work area, not on the whole monitor (#884)</code>](https://github.com/linuxmint/muffin/commit/2e4e941694d6fae20661b290daac1ba9639db8a5)
+- [ ] [<code>wayland: Refuse a popup grab cleanly when a grab op is already in effect</code>](https://github.com/linuxmint/muffin/commit/41bcf2da3f5dc0c48749b41f3bdf78e990f0c85c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
