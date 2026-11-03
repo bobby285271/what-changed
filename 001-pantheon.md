@@ -291,6 +291,7 @@
 - [ ] [<code>Add libm dependency (#856)</code>](https://github.com/elementary/photos/commit/3ebda597f80dac3133f2fb0c5d1cdce2d2be37dd)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix missing close button in plugin about dialogs (#855)</code>](https://github.com/elementary/photos/commit/fefb7605df57b0c917d802d1dfc32542206d681c)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -510,6 +511,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Wallpaper: replace deprecated Gtk.ColorButton (#503)</code>](https://github.com/elementary/settings-desktop/commit/cbeee5a32d7836faa2a07f9c5dd74a945d76d2d7)
+- [ ] [<code>Appearance: drop Act, use settings daemon (#501)</code>](https://github.com/elementary/settings-desktop/commit/09f49bbc19e3ed9d2f11bf399199011853196c8c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -1369,6 +1372,9 @@
 - [ ] [<code>Icons: add adw-avatar-default (#1105)</code>](https://github.com/elementary/granite/commit/31fb0e26b0eac00dcc8d1a0223f2d0a26683d2b2)
 - [ ] [<code>Styles: add stackable box shadow (#1101)</code>](https://github.com/elementary/granite/commit/dc97457111dff5a1cf7828faebd5e19078c0590c)
 - [ ] [<code>Styles/HeaderBar: style custom title labels as titles (#1103)</code>](https://github.com/elementary/granite/commit/34f270d249a695f483d36a3545c970f77e6f3627)
+- [ ] [<code>Styles/Controls: DRY and unify (#1099)</code>](https://github.com/elementary/granite/commit/938fc90be473f4d40fb9e9b973203bf4307179f3)
+- [ ] [<code>Styles/Popover: bug fixes (#1097)</code>](https://github.com/elementary/granite/commit/2a04d8a4abb89a6767dd7282dd2c136891cec24c)
+- [ ] [<code>Styles:  DRY slider styles (#1096)</code>](https://github.com/elementary/granite/commit/81e20e4eed22db4298835035d06168852b403799)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1410,6 +1416,7 @@
 
 #### [pantheon.elementary-capnet-assist](https://github.com/elementary/capnet-assist): [9.0.0 → HEAD](https://github.com/elementary/capnet-assist/compare/9.0.0...HEAD)
 
+- [ ] [<code>Set window title</code>](https://github.com/elementary/capnet-assist/commit/52b312f7dd8ba475d3462daa8b4f140a5555957b)
 
 #### [pantheon.elementary-notifications](https://github.com/elementary/notifications): [refs/tags/8.1.2 → HEAD](https://github.com/elementary/notifications/compare/refs/tags/8.1.2...HEAD)
 
