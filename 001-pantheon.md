@@ -408,6 +408,7 @@
 - [ ] [<code>CategoryView: Use Granite.Box</code>](https://github.com/elementary/switchboard/commit/35c5410484d2366c5e681b497e440a1ac0cdfe5c)
 - [ ] [<code>CategoryIcon: Use Granite.Box, CSS margins and icon size</code>](https://github.com/elementary/switchboard/commit/27e7582459fa7b6c06db7106dec0d13dd695f3f6)
 - [ ] [<code>Styles/SettingsSidebar: strip margin from headerlabel in row (#401)</code>](https://github.com/elementary/switchboard/commit/e0a532f4ee1a7d9a0afeff9c1730a85d26d53f42)
+- [ ] [<code>SettingsPage.scss: modernize (#403)</code>](https://github.com/elementary/switchboard/commit/935bde19ed0a73b41a159508ac9b66c029b2a8df)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -421,6 +422,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#278)</code>](https://github.com/elementary/settings-applications/commit/720f4ed1e0b6111bd536f1db267825ed2aca8543)
 - [ ] [<code>AppSettingsView: use in-spec, resourced icons (#279)</code>](https://github.com/elementary/settings-applications/commit/99f333456efaf7e270b34fbda4d989153f736be1)
 - [ ] [<code>Actions: Update gettext-template (#280)</code>](https://github.com/elementary/settings-applications/commit/fc0642c39a55ec4578c9d7532bebdb19702e2049)
+- [ ] [<code>Sidebar: use Granite.HeaderLabel (#282)</code>](https://github.com/elementary/settings-applications/commit/f64ba8065036d9d8bae5ae8762caee349ebfc81d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -1376,6 +1380,7 @@
 - [ ] [<code>Styles/Controls: DRY and unify (#1099)</code>](https://github.com/elementary/granite/commit/938fc90be473f4d40fb9e9b973203bf4307179f3)
 - [ ] [<code>Styles/Popover: bug fixes (#1097)</code>](https://github.com/elementary/granite/commit/2a04d8a4abb89a6767dd7282dd2c136891cec24c)
 - [ ] [<code>Styles:  DRY slider styles (#1096)</code>](https://github.com/elementary/granite/commit/81e20e4eed22db4298835035d06168852b403799)
+- [ ] [<code>Styles/Actionbar: add border-spacing (#1111)</code>](https://github.com/elementary/granite/commit/6de6f87c5735509d6e55ee7249f192a46bbfc614)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
