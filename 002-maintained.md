@@ -473,6 +473,13 @@
 - [ ] [<code>Updating README.md installation instructions.</code>](https://github.com/phase1geo/minder/commit/69496bc19411881efc4230ae41503924a2927d44)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'origin/master'</code>](https://github.com/phase1geo/minder/commit/e6117cf1eada82925dd87b696bb05129fbe992e5)
+- [ ] [<code>Fixing issue #762.</code>](https://github.com/phase1geo/minder/commit/4cfbca801b98af459c5bc447c72800d86b824e20)
+- [ ] [<code>Updating translation files and release notes.</code>](https://github.com/phase1geo/minder/commit/c07efaf73d6798802bae3dfe46b20b026b108d2e)
+- [ ] [<code>Updating README.md installation instructions for liblasem</code>](https://github.com/phase1geo/minder/commit/0b3804cb21deb8f8754b247c1d7be4a45de3da1f)
+- [ ] [<code>Updating application icon to improve visibility on white backgrounds.</code>](https://github.com/phase1geo/minder/commit/f48a6a8ea7bc4ca34d4fcf2760d77c629ce9bfa4)
+- [ ] [<code>Fixing README.md</code>](https://github.com/phase1geo/minder/commit/8292a0a76d42b647e95ed0a507dabc511e17923f)
+- [ ] [<code>Fixing theme editor issues with new priority colors.</code>](https://github.com/phase1geo/minder/commit/cd743e8ebe6565767696c8c0d55a0ba9dcd2b0dd)
+- [ ] [<code>Updating screenshots.</code>](https://github.com/phase1geo/minder/commit/6a7045db5374622b869b85e5a8a1f841fd8b6fa6)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
