@@ -1261,6 +1261,12 @@
 - [ ] [<code>Remove acinclude.m4</code>](https://github.com/xfce-mirror/tumbler/commit/04687585ea7be5b03f45c0fbdd1cbe68fcd48ee5)
 - [ ] [<code>odf-thumbnailer: Call gsf_(init|shutdown)</code>](https://github.com/xfce-mirror/tumbler/commit/c8dc7a5635e2730f4e10f276fe184cd5d11bd64f)
 - [ ] [<code>raw-thumbnailer: add missing MIME type for Canon CR3</code>](https://github.com/xfce-mirror/tumbler/commit/d1df08f4d83867b17dceca54e729926296e48322)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/tumbler/commit/475d244a272f24dbed6436b7dc28514b15739e65)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/tumbler/commit/9e10f2e2a6b04b2362f6e90fba3821e4bd955c95)
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/tumbler/commit/bdad81aca02fa486879f307f13c9c116d1d0e1de)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/tumbler/commit/be88c213aa761965a7f5d39117d9026fa8f64d3c)
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
