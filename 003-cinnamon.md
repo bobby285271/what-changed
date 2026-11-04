@@ -763,8 +763,26 @@
 - [ ] [<code>notifications applet: Move notification actors instead of reparenting them.</code>](https://github.com/linuxmint/cinnamon/commit/4a556c4a7b434f15871ba3298f058e32d6fae5be)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Warn when a device is unplugged while still mounted (#13899)</code>](https://github.com/linuxmint/cinnamon/commit/f8a2bd6f3202351641db8ca01118fcc908bf9a5e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>polkit: Translate PAM messages using module catalogs (#14064)</code>](https://github.com/linuxmint/cinnamon/commit/e6f3b2e966267c1c0d7522db8a1a90d4574e9542)
+- [ ] [<code>polkit: Keep the plain "Password" placeholder when translating PAM prompts</code>](https://github.com/linuxmint/cinnamon/commit/9293d7b83c66874da2dbff1fc711a1a685731dc9)
+- [ ] [<code>Add Modern One-to-One Trackpad Gestures on Wayland and Xorg (#13992)</code>](https://github.com/linuxmint/cinnamon/commit/21280f90440b56aa50928d7e3af6ad0e8a42bc0b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>settings: Remove the "Looking for something else?" section</code>](https://github.com/linuxmint/cinnamon/commit/f26087197c51bfe63066df18b99b78a8700a4f80)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>gestures: Cancel a gesture that is dropped before it ends</code>](https://github.com/linuxmint/cinnamon/commit/e9c0d989ae1ce93f47d9fa42be960aec7cfc1eb5)
+- [ ] [<code>gestures: Fix a second swipe, mouse drag in the overview and a keybinding switch</code>](https://github.com/linuxmint/cinnamon/commit/2f8578593985d6571d3414b9ec85a53c46b1fcf2)
+- [ ] [<code>gestures: Fix Expo, overview and window switcher edge cases</code>](https://github.com/linuxmint/cinnamon/commit/71b4cb38068545caed9b05a27cf1606727576eef)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>window lists: Clean up context menu options</code>](https://github.com/linuxmint/cinnamon/commit/d841490786cdb067e48a2b42a67043153f7a3dc6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fd6b96f9b82047009511e8ae138a377c863948f6)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon/commit/9ab3e561caae487f5b5053b525d4a6779ddd80be)
+  - <sub>Tags: <code>6.8.0</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1093,7 +1111,9 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>power: Initialize hotplugged devices like coldplugged devices (#479)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ff171c8df07546aa152d4153be51efaf5d714075)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fad3736aa6fa80ada59d4a1003d2286e97e4afba)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1407,7 +1427,9 @@
 - [ ] [<code>wayland: Refuse a popup grab cleanly when a grab op is already in effect</code>](https://github.com/linuxmint/muffin/commit/41bcf2da3f5dc0c48749b41f3bdf78e990f0c85c)
 - [ ] [<code>clutter: Add missing pick clip and cache invalidation api.</code>](https://github.com/linuxmint/muffin/commit/ed4b6691a181371fe5a3f4602665f854d5129902)
 - [ ] [<code>constraints.c: Run constrain_to_single_monitor() on client decorated</code>](https://github.com/linuxmint/muffin/commit/d52ab46c74c679c375e398a3f0259b2cade94cef)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/muffin/commit/97bc46dbe350abe9c2a4a3d83ad37206de9e124b)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1590,7 +1612,9 @@
 - [ ] [<code>Only use malloc_trim if available (#3867)</code>](https://github.com/linuxmint/nemo/commit/b9641bcd40945899a458cec3df11a204a3a11a87)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>eel-canvas: Implement get_parent/get_index_in_parent for accessible (#3871)</code>](https://github.com/linuxmint/nemo/commit/53d59e299204cf6fc0522ff0731d0fde93d1842f)
-  - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>6.8.3</code>](https://github.com/linuxmint/nemo/commit/f2dc10777dcb0d025b24db455f0a6ee1ae81619c)
+  - <sub>Tags: <code>6.8.3</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1875,9 +1899,5 @@
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
 
 
-#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.2...HEAD)
+#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.3 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.3...HEAD)
 
-- [ ] [<code>Set file attributes in a try/catch</code>](https://github.com/xapp-project/xepub/commit/622eba6a84ba11eb98a502684300a6da29a4b93a)
-- [ ] [<code>1.0.3</code>](https://github.com/xapp-project/xepub/commit/dc6c798c7ed36fe1ce15623733968b6958332b22)
-  - <sub>Tags: <code>1.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
