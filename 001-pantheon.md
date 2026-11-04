@@ -44,6 +44,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>AgendaView: use Granite.HeaderLabel (#969)</code>](https://github.com/elementary/calendar/commit/871f52f688365bb8a844c231b75067754c6692c5)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>SourcePopover: port to Gtk.FileDialog (#968)</code>](https://github.com/elementary/calendar/commit/045195d933bf1f6167d215fd7b42115ba8e212e7)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
