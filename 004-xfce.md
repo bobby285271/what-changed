@@ -357,6 +357,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/libxfce4ui/commit/84593de6384f838ef3b0802863eb008ccd88ce68)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/libxfce4ui/commit/ef5ab2842e8f2523f4405768d5f5a579a2b9751b)
+- [ ] [<code>build: Simplify libintl management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c2cd9d66b1bc1e96e83e4faf4d1509a90bfc57c0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -1177,6 +1180,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Pass the disc to the default video disc player</code>](https://github.com/xfce-mirror/thunar-volman/commit/9af5e8952e29796cedd1b7eb8bc520dcbd69cef7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/thunar-volman/commit/a74cf2e85da81a089cc5ff15ec0327304b370a59)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/thunar-volman/commit/c141edd1a6e454158f049b5836b0cdeda5a3a606)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/thunar-volman/commit/0a8d52c11ca2d648c7498c5561bf918656fe9da0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/thunar-volman/commit/308775a800da98d7cb4b3b1bff34f1083e6953d9)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/thunar-volman/commit/cf325e9cf57b0d09a8f971b37e3f20bc55a8ce79)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/thunar-volman/commit/7ee4d4ecf0cc88bb5b711876b49f72da149f26ea)
 
 #### [tumbler](https://github.com/xfce-mirror/tumbler): [tumbler-4.20.0 → HEAD](https://github.com/xfce-mirror/tumbler/compare/tumbler-4.20.0...HEAD)
 
@@ -1267,6 +1280,9 @@
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/tumbler/commit/9e10f2e2a6b04b2362f6e90fba3821e4bd955c95)
 - [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/tumbler/commit/bdad81aca02fa486879f307f13c9c116d1d0e1de)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/tumbler/commit/be88c213aa761965a7f5d39117d9026fa8f64d3c)
+- [ ] [<code>build: Simplify libintl management</code>](https://github.com/xfce-mirror/tumbler/commit/93c9fff91e976200dc6e622ffc32edccb2b2163b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfce4-appfinder](https://github.com/xfce-mirror/xfce4-appfinder): [xfce4-appfinder-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-appfinder/compare/xfce4-appfinder-4.20.0...HEAD)
 
@@ -1327,6 +1343,8 @@
 - [ ] [<code>Use tab key to circulate the apps list (#87)</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/712f49b990937656da6b2af0e519d74d53596e1e)
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f1358127f0942e2ba5cc61d9583a262a18085b75)
 - [ ] [<code>Restore geometry hints</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/91f5a35a6867a246cc522ab53ce88adfa1820244)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/532d6c0c7a710f5885241853830c2d4f4730cce3)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
@@ -1448,6 +1466,9 @@
 - [ ] [<code>Remove `--all-features` from `cargo clippy` and add var interp</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/efd684aa2667ba34eedfa2e2fabd1f979cbf8533)
 - [ ] [<code>Add xfce4-session to ci/build_libs.sh</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7ef110f67904d0c0cdad4d74ee8901a2d572c7b9)
 - [ ] [<code>Generate potfile after running build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/e97b04c9b52fc60d95c4c85af0fd9338dd0e14d1)
+- [ ] [<code>ci: Fix deprecation warning regex</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/6584d52ab79a200e6c6c2c40af14172ff925dd9b)
+- [ ] [<code>ci: Fix .no-translation job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9c6d4b4f21e8474123fc5bccc58fba9c02814d11)
+- [ ] [<code>ci: Drop .translation job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7229b2ecd17f3cd57e0d8e309cb8f68818df502b)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1848,6 +1869,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>power: Fix inhibition dialog respose handling</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/fc860da838b970658003827a11d7f0048aa0c737)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/0def4c34b0b77599b472e6fe75d0724261bc5d02)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c9adad1e446373ac1215c744cb4b0218bf820ed7)
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/73a7edb813f5d3608ce3ad37846f7ee2f3793a49)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/684fb4fe85ec489d780303d0370f8081c307f25c)
+- [ ] [<code>Avoid unnecessary g_strdup_printf</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/dec186cbe35907160fac24404c039f7fe0950a3e)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -2288,6 +2315,8 @@
 - [ ] [<code>Fix type of pointer in on_name_lost callback</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a15657449f30af7946a25264b70f3406a9d9f05a)
 - [ ] [<code>display-settings: Fix use-after-free when dnding during layout change</code>](https://github.com/xfce-mirror/xfce4-settings/commit/1f1a784294be07135d57f182233e686c4294b804)
 - [ ] [<code>wayland: displays: Fix string leaks in load_from_xfconf</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f0b49891f8790659e01d69757ea35d8d0ce12de7)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2fe61529c00825f160f3f78a194de53a6a4aedb4)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -2404,6 +2433,11 @@
 - [ ] [<code>completions: Fix --property</code>](https://github.com/xfce-mirror/xfconf/commit/400a0cd97d2a7521f80b5226d240e9c2f1eaad8c)
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/xfconf/commit/00e6ad6d87532d8213b5e5e18f91a6f4cc2874c3)
 - [ ] [<code>xfconfd: Sync cache before retrieving channel list from disk</code>](https://github.com/xfce-mirror/xfconf/commit/f1a3b719ab909fe8ec0e9fe15204133ae0a612af)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfconf/commit/0332e1c168948e3a1f9341a8d239459ba7fd61bc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfconf/commit/4b91531699777239dd06695801acebab38f03464)
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfconf/commit/6c1978de0ff9674eaf597fea6333263b6c2a6bce)
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
