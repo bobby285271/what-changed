@@ -1406,6 +1406,7 @@
 - [ ] [<code>place.c: Center windows in the work area, not on the whole monitor (#884)</code>](https://github.com/linuxmint/muffin/commit/2e4e941694d6fae20661b290daac1ba9639db8a5)
 - [ ] [<code>wayland: Refuse a popup grab cleanly when a grab op is already in effect</code>](https://github.com/linuxmint/muffin/commit/41bcf2da3f5dc0c48749b41f3bdf78e990f0c85c)
 - [ ] [<code>clutter: Add missing pick clip and cache invalidation api.</code>](https://github.com/linuxmint/muffin/commit/ed4b6691a181371fe5a3f4602665f854d5129902)
+- [ ] [<code>constraints.c: Run constrain_to_single_monitor() on client decorated</code>](https://github.com/linuxmint/muffin/commit/d52ab46c74c679c375e398a3f0259b2cade94cef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1587,8 +1588,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-desktop-manager: Revert 8f6074168 (primary monitor detect)</code>](https://github.com/linuxmint/nemo/commit/87961b71391bce1a9dce74e3a888932f5f00c35b)
 - [ ] [<code>Only use malloc_trim if available (#3867)</code>](https://github.com/linuxmint/nemo/commit/b9641bcd40945899a458cec3df11a204a3a11a87)
-  - <sub>Tags: <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>eel-canvas: Implement get_parent/get_index_in_parent for accessible (#3871)</code>](https://github.com/linuxmint/nemo/commit/53d59e299204cf6fc0522ff0731d0fde93d1842f)
+  - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1862,6 +1864,13 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
 
+
+#### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.1...HEAD)
+
+- [ ] [<code>l10n: Update POT</code>](https://github.com/xapp-project/superlight/commit/c791baa08d8dace0e373104b3758c129754fd5b3)
+- [ ] [<code>1.0.2</code>](https://github.com/xapp-project/superlight/commit/c6473b97a14bc598f86491bea2a471070fd571ab)
+  - <sub>Tags: <code>1.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
 
