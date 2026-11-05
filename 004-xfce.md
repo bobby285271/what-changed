@@ -1729,6 +1729,15 @@
 - [ ] [<code>remote-event: Fix GVariant memory management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d187922618796664e83fcea1795a4fdc9c73e2a0)
 - [ ] [<code>wayland: Defer monitor layout updates received while mapping</code>](https://github.com/xfce-mirror/xfce4-panel/commit/27f20165228187368e3fe57e4ce629e475cdb5e7)
 - [ ] [<code>Only discard session on intentional quit</code>](https://github.com/xfce-mirror/xfce4-panel/commit/3bf997422ff19d82b4044e3308ad0125e5b35e2b)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-panel/commit/9439917492b4396717dd95bed8ddf1024a9bb5e8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Simplify libintl management</code>](https://github.com/xfce-mirror/xfce4-panel/commit/088e93587171ba09b82c659412266df5d772bc98)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-panel/commit/30eda0f6a58ef79ee8143e5992f34026b738774b)
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7555ef69517d217ffe3adb2ec0ba0578288f18f0)
+- [ ] [<code>Ignore g_module_build_path deprecation</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a3303701f90fdf2711529ee0e299fc90de23e648)
+- [ ] [<code>tasklist: Draw buttons when a theme changes the plugin size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2c83b16b10304d26620b21030b4a36f7e70537af)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -2323,6 +2332,7 @@
 - [ ] [<code>wayland: displays: Fix string leaks in load_from_xfconf</code>](https://github.com/xfce-mirror/xfce4-settings/commit/f0b49891f8790659e01d69757ea35d8d0ce12de7)
 - [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2fe61529c00825f160f3f78a194de53a6a4aedb4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>appearance: Add an info button to the Style tab</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0c4f5b8ce4557ddbb5e056dbb0b57e3c0912291d)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
