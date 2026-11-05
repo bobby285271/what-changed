@@ -778,11 +778,12 @@
 - [ ] [<code>window lists: Clean up context menu options</code>](https://github.com/linuxmint/cinnamon/commit/d841490786cdb067e48a2b42a67043153f7a3dc6)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fd6b96f9b82047009511e8ae138a377c863948f6)
-  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon/commit/9ab3e561caae487f5b5053b525d4a6779ddd80be)
-  - <sub>Tags: <code>6.8.0</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>screenSaver.js: Fix screensaver proxy flags</code>](https://github.com/linuxmint/cinnamon/commit/946e5a9c7c8c599e59a83c9089387db4f6708454)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
