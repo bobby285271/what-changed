@@ -57,6 +57,7 @@
 - [ ] [<code>Simplify search function (#1803)</code>](https://github.com/elementary/code/commit/7b56ffabcd606fa52cd0f4750448ca3566f99b64)
 - [ ] [<code>Fix stale global search result badges (#1822)</code>](https://github.com/elementary/code/commit/07ba77be46b91318190a0cbd2331aef932c5e16a)
 - [ ] [<code>Flatpak: Bump platform to 9.1 (#1826)</code>](https://github.com/elementary/code/commit/51f673fe6e26a14131d6f395a808bc62d5f5c2cf)
+- [ ] [<code>Use document-edit-symbolic (#1829)</code>](https://github.com/elementary/code/commit/e2b4d11dc3763763815d1191f92c45261ddfb8c6)
 
 #### [pantheon.elementary-dock](https://github.com/elementary/dock): [8.3.3 → HEAD](https://github.com/elementary/dock/compare/8.3.3...HEAD)
 
@@ -81,6 +82,7 @@
 - [ ] [<code>Fix WorkspaceIconGroup memory leak (#606)</code>](https://github.com/elementary/dock/commit/16940666b5d89bc39f718f8eb6ffc44f4772aea2)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#616)</code>](https://github.com/elementary/dock/commit/e4cbfb1e31ac0f461876ddfd7338e640edf0f8b5)
+- [ ] [<code>Refactor reordering to be simpler  (#622)</code>](https://github.com/elementary/dock/commit/c60951b9015aa23028b7c95b8c292d7a15061ddf)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -296,6 +298,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix missing close button in plugin about dialogs (#855)</code>](https://github.com/elementary/photos/commit/fefb7605df57b0c917d802d1dfc32542206d681c)
+- [ ] [<code>Fix WebP image loading (#857)</code>](https://github.com/elementary/photos/commit/b762ae5af3e8cc47ee0227163345121685967cfc)
+- [ ] [<code>Use document-edit-symbolic for the edit button (#859)</code>](https://github.com/elementary/photos/commit/f8b50e333fb5e78bd6e52ceeade83e573de42f29)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -373,6 +377,7 @@
 
 - [ ] [<code>Hardcode elementary styles (#425)</code>](https://github.com/elementary/videos/commit/6c1d86b18551553502e93890e6a08e650c382656)
 - [ ] [<code>Use media-playlist-repeat-disabled-symbolic icon (#426)</code>](https://github.com/elementary/videos/commit/70e4a299922ec60d0b1c2e075234aecd4a028653)
+- [ ] [<code>Bring existing window to front on activation (#424)</code>](https://github.com/elementary/videos/commit/64f2a5732af730ca3cae2401068317edfff8d71c)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
@@ -466,6 +471,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Handle inactive monitors better (#447)</code>](https://github.com/elementary/settings-display/commit/931e3c0dba4efac05e9b96dee7fc20a786307421)
 - [ ] [<code>Resolve variant == null warning (#425)</code>](https://github.com/elementary/settings-display/commit/6fb3a2b9f65987c9edc6a01109179bcc16294791)
+- [ ] [<code>DisplayWidget: fix granite style class deprecations (#459)</code>](https://github.com/elementary/settings-display/commit/8ca4f6b87a3f242ed40b7757c1af53d6f9ca7ef2)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
@@ -500,6 +506,7 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#122)</code>](https://github.com/elementary/settings-notifications/commit/bac34fdb55cf783e55e17d5cc20d72d9185ddafe)
 - [ ] [<code>Use RDNN icon name (#123)</code>](https://github.com/elementary/settings-notifications/commit/46fba495be5e6138e5948e53b24d73fcec6e9591)
 - [ ] [<code>Actions: Update gettext-template (#124)</code>](https://github.com/elementary/settings-notifications/commit/3a289a7adfbc56608cc96c39e1cb1fd4a176ec2b)
+- [ ] [<code>AppEntry: use Granite.HeaderLabel (#125)</code>](https://github.com/elementary/settings-notifications/commit/991105a45e02a2d8c421b5a38aab3df3aaa781e0)
 
 #### [pantheon.switchboard-plug-onlineaccounts](https://github.com/elementary/settings-onlineaccounts): [8.0.2 → HEAD](https://github.com/elementary/settings-onlineaccounts/compare/8.0.2...HEAD)
 
@@ -509,6 +516,7 @@
 - [ ] [<code>Bump actions/checkout from 5 to 6</code>](https://github.com/elementary/settings-onlineaccounts/commit/b03dec8381445f4feeb07dde355dfc9045ddddc2)
 - [ ] [<code>Update README.md</code>](https://github.com/elementary/settings-onlineaccounts/commit/e3dcbc43dc39929b0b3b7c9a752c5647cb2da469)
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#322)</code>](https://github.com/elementary/settings-onlineaccounts/commit/440963d62ea6c1a30a6721f95f7462da01ce9f94)
+- [ ] [<code>Use document-edit-symbolic for the edit button (#323)</code>](https://github.com/elementary/settings-onlineaccounts/commit/37a7f92cd5e4b7a16fadaaf0607b5f4b3e1cbc71)
 
 #### [pantheon.switchboard-plug-pantheon-shell](https://github.com/elementary/settings-desktop): [refs/tags/8.3.0 → HEAD](https://github.com/elementary/settings-desktop/compare/refs/tags/8.3.0...HEAD)
 
@@ -1389,6 +1397,8 @@
 - [ ] [<code>Styles:  DRY slider styles (#1096)</code>](https://github.com/elementary/granite/commit/81e20e4eed22db4298835035d06168852b403799)
 - [ ] [<code>Styles/Actionbar: add border-spacing (#1111)</code>](https://github.com/elementary/granite/commit/6de6f87c5735509d6e55ee7249f192a46bbfc614)
 - [ ] [<code>Icons: add media-playlist-repeat-disabled (#1114)</code>](https://github.com/elementary/granite/commit/aaaf0fc314376eb8acba39a582798fd72fae3796)
+- [ ] [<code>Styles: add infobar</code>](https://github.com/elementary/granite/commit/7fe87a03204e6de13e3db4abe56b7452aabedb0d)
+- [ ] [<code>Styles: adjust header margins (#1106)</code>](https://github.com/elementary/granite/commit/2b7239eadbb7838409d3daf44747f14ee79dfa3a)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
@@ -1646,6 +1656,8 @@
 - [ ] [<code>feat: Update info in readme (#927)</code>](https://github.com/elementary/os/commit/4f796104d3d7e7ab51352a620f28e5d776a32d06)
 - [ ] [<code>Use drivers directories instead of manual entries (#935)</code>](https://github.com/elementary/os/commit/23d5b98b101e8e1d72cced853f46205c784aefd9)
 - [ ] [<code>Try 64mb (#936)</code>](https://github.com/elementary/os/commit/2993aef6d1d2f3112bb80e2cf4e631e1dd142901)
+- [ ] [<code>Add tmpfile dir for netplan (#938)</code>](https://github.com/elementary/os/commit/e8bf9d3da0aa297e70e296a4b5f161a79480d7e7)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -1678,3 +1690,4 @@
 - [ ] [<code>SDK: system-settings deps (#173)</code>](https://github.com/elementary/seeds/commit/857fac7c484868cc3288ff6837a62e28e9d424e5)
 - [ ] [<code>Desktop: Add udev rules for Steam devices (#148)</code>](https://github.com/elementary/seeds/commit/f37e02923147deea84ba26156122459548755447)
 - [ ] [<code>SDK: make gdb depends (#176)</code>](https://github.com/elementary/seeds/commit/14c2cf95b32962b857589a0bac3198f80a331bce)
+- [ ] [<code>Add wireguard (#180)</code>](https://github.com/elementary/seeds/commit/1458e331b3ad5e0dd2de1a6b5c882f0ad81ea56a)
