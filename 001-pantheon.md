@@ -45,6 +45,7 @@
 - [ ] [<code>AgendaView: use Granite.HeaderLabel (#969)</code>](https://github.com/elementary/calendar/commit/871f52f688365bb8a844c231b75067754c6692c5)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>SourcePopover: port to Gtk.FileDialog (#968)</code>](https://github.com/elementary/calendar/commit/045195d933bf1f6167d215fd7b42115ba8e212e7)
+- [ ] [<code>Use document-edit-symbolic for the edit button (#972)</code>](https://github.com/elementary/calendar/commit/97de059e9ce4ff82e90c322cafba40796b81c64c)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -281,6 +282,8 @@
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [9.0.0 → HEAD](https://github.com/elementary/music/compare/9.0.0...HEAD)
 
+- [ ] [<code>Use media-playlist-repeat-disabled-symbolic icon (#857)</code>](https://github.com/elementary/music/commit/16a202aa3ded530a45c324c3f26047f9d42295fa)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
@@ -364,9 +367,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Jeremypw/fix new root tab (#1019)</code>](https://github.com/elementary/terminal/commit/4e1aadbb6d3d29008bd704fd56702873d25efde5)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Fix transparent tab bar background (#1024)</code>](https://github.com/elementary/terminal/commit/e209a5d104e8f3407ff7a57383f4ddaf03f94729)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [9.0.0 → HEAD](https://github.com/elementary/videos/compare/9.0.0...HEAD)
 
+- [ ] [<code>Hardcode elementary styles (#425)</code>](https://github.com/elementary/videos/commit/6c1d86b18551553502e93890e6a08e650c382656)
+- [ ] [<code>Use media-playlist-repeat-disabled-symbolic icon (#426)</code>](https://github.com/elementary/videos/commit/70e4a299922ec60d0b1c2e075234aecd4a028653)
 
 #### [pantheon.sideload](https://github.com/elementary/sideload): [refs/tags/6.3.1 → HEAD](https://github.com/elementary/sideload/compare/refs/tags/6.3.1...HEAD)
 
@@ -459,6 +465,7 @@
 - [ ] [<code>Introduce Monitor Layout Manager (#423)</code>](https://github.com/elementary/settings-display/commit/c90d41e77e2e6940af522385c64764e39732e10b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Handle inactive monitors better (#447)</code>](https://github.com/elementary/settings-display/commit/931e3c0dba4efac05e9b96dee7fc20a786307421)
+- [ ] [<code>Resolve variant == null warning (#425)</code>](https://github.com/elementary/settings-display/commit/6fb3a2b9f65987c9edc6a01109179bcc16294791)
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
@@ -1381,6 +1388,7 @@
 - [ ] [<code>Styles/Popover: bug fixes (#1097)</code>](https://github.com/elementary/granite/commit/2a04d8a4abb89a6767dd7282dd2c136891cec24c)
 - [ ] [<code>Styles:  DRY slider styles (#1096)</code>](https://github.com/elementary/granite/commit/81e20e4eed22db4298835035d06168852b403799)
 - [ ] [<code>Styles/Actionbar: add border-spacing (#1111)</code>](https://github.com/elementary/granite/commit/6de6f87c5735509d6e55ee7249f192a46bbfc614)
+- [ ] [<code>Icons: add media-playlist-repeat-disabled (#1114)</code>](https://github.com/elementary/granite/commit/aaaf0fc314376eb8acba39a582798fd72fae3796)
 
 #### [pantheon.pantheon-wayland](https://github.com/elementary/pantheon-wayland): [1.1.0 → HEAD](https://github.com/elementary/pantheon-wayland/compare/1.1.0...HEAD)
 
