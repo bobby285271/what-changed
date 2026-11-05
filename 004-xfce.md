@@ -2047,6 +2047,12 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Redesign Wayland session management support</code>](https://github.com/xfce-mirror/xfce4-session/commit/d1ff3f11c810eee9bf79a4be45e9d7f04b93c919)
 - [ ] [<code>Fix memory leaks</code>](https://github.com/xfce-mirror/xfce4-session/commit/9f9e1a2d82f7c9871ca6e94ff08071f956398d79)
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-session/commit/e6527d55ea09e4b139b798426c487694c70e7974)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-session/commit/7259cf433e70b80d47dd997850ceaa725a7e5402)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-session/commit/725d82dad4a2a17fcf21e8b98c031c487d6274f6)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-session/commit/ab5104f8cfabda6ea0b4cb88a65c30af0bc4c616)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
