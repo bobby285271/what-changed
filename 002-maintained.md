@@ -480,6 +480,8 @@
 - [ ] [<code>Fixing README.md</code>](https://github.com/phase1geo/minder/commit/8292a0a76d42b647e95ed0a507dabc511e17923f)
 - [ ] [<code>Fixing theme editor issues with new priority colors.</code>](https://github.com/phase1geo/minder/commit/cd743e8ebe6565767696c8c0d55a0ba9dcd2b0dd)
 - [ ] [<code>Updating screenshots.</code>](https://github.com/phase1geo/minder/commit/6a7045db5374622b869b85e5a8a1f841fd8b6fa6)
+- [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/fa7c1a71d8ff7fce484265b90727c8f03290bb2a)
+  - <sub>Tags: <code>3.0.0</code></sub>
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
