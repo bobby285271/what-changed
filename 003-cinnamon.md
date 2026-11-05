@@ -1841,6 +1841,12 @@
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
 
+- [ ] [<code>settings: Read xft-dpi from slick-greeter.conf as a double (#293)</code>](https://github.com/linuxmint/slick-greeter/commit/83945b1af05eb2aa050aaa3641a2cba5c3a53696)
+- [ ] [<code>Use the font-name setting for the greeter's own labels (#294)</code>](https://github.com/linuxmint/slick-greeter/commit/9e333c1dd7bba5a1389c87fcfa4120e26ddae690)
+- [ ] [<code>Fix all the vala deprecated and meson warnings (#283)</code>](https://github.com/linuxmint/slick-greeter/commit/8a162ce95408e81c9ebf6df4259ede1398542111)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Keep the font-name setting working after the CSS font changes</code>](https://github.com/linuxmint/slick-greeter/commit/5ecca333436fdc1b407a56e140557ed2ff386250)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
 
