@@ -1469,6 +1469,8 @@
 - [ ] [<code>ci: Fix deprecation warning regex</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/6584d52ab79a200e6c6c2c40af14172ff925dd9b)
 - [ ] [<code>ci: Fix .no-translation job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/9c6d4b4f21e8474123fc5bccc58fba9c02814d11)
 - [ ] [<code>ci: Drop .translation job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7229b2ecd17f3cd57e0d8e309cb8f68818df502b)
+- [ ] [<code>xfce.cfg: Add missing G_DEFINE_* macros</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ba090c3984a71d13d81f74920aaf9f8027dff3e0)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
