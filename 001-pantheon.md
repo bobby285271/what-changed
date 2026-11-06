@@ -584,6 +584,7 @@
 - [ ] [<code>menubutton: arrow: Use open-menu-symbolic when no direction (#1354)</code>](https://github.com/elementary/stylesheet/commit/ce649052e3b0a0aa3c61521f521aef434506d332)
 - [ ] [<code>Actions: Update gettext-template (#1357)</code>](https://github.com/elementary/stylesheet/commit/0eeadadde091c44c3f9e2fd6e0f63c0ddea08b91)
 - [ ] [<code>menubutton: Fix default icon (#1356)</code>](https://github.com/elementary/stylesheet/commit/a6e19988a11f3e70e728d4951ab29e080660b31c)
+- [ ] [<code>Export correct theme_selected_bg_color to third party apps (#1358)</code>](https://github.com/elementary/stylesheet/commit/17a60e20bb4785db40d368c1e057c6a9cc13bf49)
 
 #### [pantheon.elementary-icon-theme](https://github.com/elementary/icons): [refs/tags/9.0.0 → HEAD](https://github.com/elementary/icons/compare/refs/tags/9.0.0...HEAD)
 
