@@ -957,7 +957,11 @@
 - [ ] [<code>Avoid blocking input grab retries on lock screen (#520)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/88877d31908d890c2ab6f665669aa340d4472bf4)
 - [ ] [<code>Reduce the amount of time between input grabs retries</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/40fe2c28aa4cb95e98c880c25683d8585cccee18)
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/943eee512165608ca1e134dd5654fbc8b94bac19)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Keep the input grab while refreshing the lock screen</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6342cc56fe918602a42dd54672d329790bbe1a57)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/00b764707ac2775d45a57067d4be75e2d009f55f)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.4...HEAD)
@@ -1621,8 +1625,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>eel-canvas: Implement get_parent/get_index_in_parent for accessible (#3871)</code>](https://github.com/linuxmint/nemo/commit/53d59e299204cf6fc0522ff0731d0fde93d1842f)
 - [ ] [<code>6.8.3</code>](https://github.com/linuxmint/nemo/commit/f2dc10777dcb0d025b24db455f0a6ee1ae81619c)
-  - <sub>Tags: <code>6.8.3</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-file-operations.c: Fix warning in read-only error path.</code>](https://github.com/linuxmint/nemo/commit/6fde0100762c2ab088a9c935e877bef759682588)
+- [ ] [<code>nemo-places-sidebar.c: Don't show duplicated mounts</code>](https://github.com/linuxmint/nemo/commit/275b706d1ec4a97931cd1c5dd24dd32a1c61e703)
+  - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1667,6 +1674,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
+- [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1711,6 +1719,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
+- [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1755,12 +1764,15 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
+- [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
 
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
 
+- [ ] [<code>remote_registration.py: Fix TypeError when logging a failed cert request (#262)</code>](https://github.com/linuxmint/warpinator/commit/41ace3399be31d81d892680c10d8002e5f9817bd)
+  - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
