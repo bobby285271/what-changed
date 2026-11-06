@@ -533,6 +533,8 @@
 - [ ] [<code>Wallpaper: replace deprecated Gtk.ColorButton (#503)</code>](https://github.com/elementary/settings-desktop/commit/cbeee5a32d7836faa2a07f9c5dd74a945d76d2d7)
 - [ ] [<code>Appearance: drop Act, use settings daemon (#501)</code>](https://github.com/elementary/settings-desktop/commit/09f49bbc19e3ed9d2f11bf399199011853196c8c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Wallpaper: Use Gtk.GridView (#470)</code>](https://github.com/elementary/settings-desktop/commit/5c4b6bedf794a75d7dcd5bf7dae318661376a607)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -598,6 +600,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Status: remove symbolic dialog- icons (#1460)</code>](https://github.com/elementary/icons/commit/8dd2a2352e4c769830ac5d91580249936b472b84)
 - [ ] [<code>Categories: redesign preferences-system-privacy (#1462)</code>](https://github.com/elementary/icons/commit/f4ef0970d2e13c141bddbbf3ecd645d5cc7be613)
+- [ ] [<code>Status: remove unused symbolic icons (#1461)</code>](https://github.com/elementary/icons/commit/83318aeb0b9e893ae8705dcfcc1bd4bce90c80ac)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1691,3 +1694,4 @@
 - [ ] [<code>Desktop: Add udev rules for Steam devices (#148)</code>](https://github.com/elementary/seeds/commit/f37e02923147deea84ba26156122459548755447)
 - [ ] [<code>SDK: make gdb depends (#176)</code>](https://github.com/elementary/seeds/commit/14c2cf95b32962b857589a0bac3198f80a331bce)
 - [ ] [<code>Add wireguard (#180)</code>](https://github.com/elementary/seeds/commit/1458e331b3ad5e0dd2de1a6b5c882f0ad81ea56a)
+- [ ] [<code>Add xdg-native-messaging-proxy (#179)</code>](https://github.com/elementary/seeds/commit/a7561d92051af6ed888860076763e4b455bfe816)
