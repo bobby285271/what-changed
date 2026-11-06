@@ -783,6 +783,11 @@
   - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>screenSaver.js: Fix screensaver proxy flags</code>](https://github.com/linuxmint/cinnamon/commit/946e5a9c7c8c599e59a83c9089387db4f6708454)
+- [ ] [<code>cs_keyboard.py: Don't rebuild the entry list after our own JSON writes</code>](https://github.com/linuxmint/cinnamon/commit/96780ed6ba316ce999073b9e1db9969875effb5a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>KeybindingWidgets: Show an osd popup when teaching keybindings</code>](https://github.com/linuxmint/cinnamon/commit/37a8fdc72398a362b4e37942f5f6f36c2fb16830)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1113,8 +1118,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>power: Initialize hotplugged devices like coldplugged devices (#479)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ff171c8df07546aa152d4153be51efaf5d714075)
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fad3736aa6fa80ada59d4a1003d2286e97e4afba)
-  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-media-keys-manager.c: Skip osd dbus call when they're disabled</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/453413f4be66b78b3367893ad7aa9d4cec770554)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -1896,12 +1903,8 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
 
 
-#### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.1...HEAD)
+#### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.2...HEAD)
 
-- [ ] [<code>l10n: Update POT</code>](https://github.com/xapp-project/superlight/commit/c791baa08d8dace0e373104b3758c129754fd5b3)
-- [ ] [<code>1.0.2</code>](https://github.com/xapp-project/superlight/commit/c6473b97a14bc598f86491bea2a471070fd571ab)
-  - <sub>Tags: <code>1.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
 
