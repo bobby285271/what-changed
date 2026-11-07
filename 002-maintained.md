@@ -542,6 +542,16 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cd01db5328ac1c6ec929e6801b30ee828d29e8a0)
 - [ ] [<code>clean up devel flatpak manifest (#2765)</code>](https://github.com/alainm23/planify/commit/a88ca8183a955b45dd3df29104d67c3698991a6b)
+- [ ] [<code>Fix crash when moving a single selected task (#2793)</code>](https://github.com/alainm23/planify/commit/aafed640c3abc416ed5d14bff0d0d067a4bb659f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e0edd0124985e85ad1804f75056c226ab4f885a3)
+- [ ] [<code>Fix Quick Add mangling text when picking a label after non-ASCII text (#2794)</code>](https://github.com/alainm23/planify/commit/129f427f1fbe012fb9d205fb9dc956f33a02d0b9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Detect a missed day change when the window becomes active (#2795)</code>](https://github.com/alainm23/planify/commit/57727703fe078b0d02c398999e9b51d2239dc9cc)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6b30242868e21fe60c57ad6b8fddc554acad3cf1)
+- [ ] [<code>Keep the project's section list up to date when sections are inserted (#2797)</code>](https://github.com/alainm23/planify/commit/f121a9964322e3fb0d1192b4b3798d5c4fcdcd8b)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f2e02c23fc1d2d6ca194fd1f1aae4c4b46472dcd)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
