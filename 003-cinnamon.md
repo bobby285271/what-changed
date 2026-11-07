@@ -1772,7 +1772,10 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
 
 - [ ] [<code>remote_registration.py: Fix TypeError when logging a failed cert request (#262)</code>](https://github.com/linuxmint/warpinator/commit/41ace3399be31d81d892680c10d8002e5f9817bd)
-  - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>Fix invalid IPv6 fallback address (#258)</code>](https://github.com/linuxmint/warpinator/commit/2c77be4618fa56e31d91bd55b9abb77c994b878d)
+- [ ] [<code>Handle missing IPv4 netmask during discovery (#260)</code>](https://github.com/linuxmint/warpinator/commit/9e3ffe3c4a4407317e7d68327bab165742eed89f)
+- [ ] [<code>warpinator.py: Clear starting flag on a failed start, reset menu item</code>](https://github.com/linuxmint/warpinator/commit/ac8b439b834a27960c6bf390af9bc1b15fb9cd87)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
