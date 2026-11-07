@@ -1471,6 +1471,8 @@
 - [ ] [<code>ci: Drop .translation job</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/7229b2ecd17f3cd57e0d8e309cb8f68818df502b)
 - [ ] [<code>xfce.cfg: Add missing G_DEFINE_* macros</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/ba090c3984a71d13d81f74920aaf9f8027dff3e0)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Fix sed requirement</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bf44f64b868d5f8853c63252d4eba8885cdc3ea0)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1740,6 +1742,8 @@
 - [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/xfce4-panel/commit/7555ef69517d217ffe3adb2ec0ba0578288f18f0)
 - [ ] [<code>Ignore g_module_build_path deprecation</code>](https://github.com/xfce-mirror/xfce4-panel/commit/a3303701f90fdf2711529ee0e299fc90de23e648)
 - [ ] [<code>tasklist: Draw buttons when a theme changes the plugin size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2c83b16b10304d26620b21030b4a36f7e70537af)
+- [ ] [<code>Revert "Only discard session on intentional quit"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8766f70aa8728b4efb0b212d02e2964952bdba59)
+- [ ] [<code>Use panel_dbus_service_exit_panel() to prevent automatic restart</code>](https://github.com/xfce-mirror/xfce4-panel/commit/12113c1d9bc259da19e42f34c0949d4f414f4ccf)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
