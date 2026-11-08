@@ -694,6 +694,7 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Restore gschema (#918)</code>](https://github.com/elementary/greeter/commit/4041e991465816f7bab68a1a77efe7c08d4e1c8d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update POTFILES (#921)</code>](https://github.com/elementary/greeter/commit/8dcaaa165c182ddfcb9bba31e373e42530d22f43)
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
