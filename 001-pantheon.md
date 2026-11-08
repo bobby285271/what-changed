@@ -436,6 +436,7 @@
 - [ ] [<code>Sidebar: use Granite.HeaderLabel (#282)</code>](https://github.com/elementary/settings-applications/commit/f64ba8065036d9d8bae5ae8762caee349ebfc81d)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Replace deprecated STYLE_CLASS labels (#268)</code>](https://github.com/elementary/settings-applications/commit/e271be8f306b5da06ac2a471c6b534fdde9b0a68)
 
 #### [pantheon.switchboard-plug-bluetooth](https://github.com/elementary/settings-bluetooth): [8.0.2 → HEAD](https://github.com/elementary/settings-bluetooth/compare/8.0.2...HEAD)
 
@@ -535,6 +536,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Wallpaper: Use Gtk.GridView (#470)</code>](https://github.com/elementary/settings-desktop/commit/5c4b6bedf794a75d7dcd5bf7dae318661376a607)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Appearance: Fix reduced motion binding (#504)</code>](https://github.com/elementary/settings-desktop/commit/5eed51dd12028a1a8b7d68c699ccbcc475ea00db)
 
 #### [pantheon.switchboard-plug-power](https://github.com/elementary/settings-power): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/settings-power/compare/refs/tags/8.1.0...HEAD)
 
@@ -790,6 +792,8 @@
 - [ ] [<code>ShellClientsManager: Remove leftover warning (#2963)</code>](https://github.com/elementary/gala/commit/ba048115a0aaba33bfe19c3b9e80edcd9f0c2e1a)
 - [ ] [<code>OSKManager: Only send input purpose when enabled (#2964)</code>](https://github.com/elementary/gala/commit/991b2f15047c38d937273ce11375c333609ab5c5)
 - [ ] [<code>MutterTestCase: Setup context in set_up (#2966)</code>](https://github.com/elementary/gala/commit/7aefbba6b7c35cc5b16efc8d5ea24bc2c6e682ea)
+- [ ] [<code>BackgroundManager: Guard against actors that do not exist yet (#2960)</code>](https://github.com/elementary/gala/commit/caadbdb8f017359eee21ab8f4d523652cff25f1a)
+- [ ] [<code>DesktopIntegration: Expose caps and num lock state (#2967)</code>](https://github.com/elementary/gala/commit/a0bcc39fada6fa530ad21d308d0c1b64ef077270)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1255,6 +1259,7 @@
 - [ ] [<code>PlayerList: enforce null checks for default_widget (#345)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/692b2ef922e46e45512f7c1350e31e3b894cdf35)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Use new ServerType enum (#346)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/8b7991c9156ac8127d27559506baea8e6fb72e5b)
+- [ ] [<code>Indicator: send notification icon as summary (#347)</code>](https://github.com/elementary/wingpanel-indicator-sound/commit/649ec3ca43556b6805865452cc10abbee4ec1659)
 
 #### [pantheon.wingpanel-quick-settings](https://github.com/elementary/quick-settings): [1.4.0 → HEAD](https://github.com/elementary/quick-settings/compare/1.4.0...HEAD)
 
