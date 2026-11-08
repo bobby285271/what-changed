@@ -1744,6 +1744,7 @@
 - [ ] [<code>tasklist: Draw buttons when a theme changes the plugin size</code>](https://github.com/xfce-mirror/xfce4-panel/commit/2c83b16b10304d26620b21030b4a36f7e70537af)
 - [ ] [<code>Revert "Only discard session on intentional quit"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8766f70aa8728b4efb0b212d02e2964952bdba59)
 - [ ] [<code>Use panel_dbus_service_exit_panel() to prevent automatic restart</code>](https://github.com/xfce-mirror/xfce4-panel/commit/12113c1d9bc259da19e42f34c0949d4f414f4ccf)
+- [ ] [<code>Fix xfconf_g_property_bind_gdkrgba deprecation warning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db36efd1aed1cc13b212af41999fa45d6ed5eadf)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
