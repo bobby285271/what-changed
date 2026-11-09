@@ -360,6 +360,7 @@
 - [ ] [<code>build: Simplify libintl management</code>](https://github.com/xfce-mirror/libxfce4ui/commit/c2cd9d66b1bc1e96e83e4faf4d1509a90bfc57c0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>clipboard-manager: Remove code relying on GtkClipboard</code>](https://github.com/xfce-mirror/libxfce4ui/commit/73db502864b3562d182f0d5559b7974568e920f4)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
