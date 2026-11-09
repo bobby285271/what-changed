@@ -1951,6 +1951,14 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.17 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.17...HEAD)
 
+- [ ] [<code>Update control: Added depends to Recommends for showing heif files (#248)</code>](https://github.com/linuxmint/xviewer/commit/5f5887d0f40d0c7fa3db582b859095785ec80ef7)
+- [ ] [<code>Update state after opening images (#238)</code>](https://github.com/linuxmint/xviewer/commit/99f5bd1ca300cc5bed0b34807cee65fdb5009fbb)
+- [ ] [<code>Update control: Added libjpeg-dev to xviwer-dev depends (#239)</code>](https://github.com/linuxmint/xviewer/commit/9f0b51146101e2642595b13217b9951ffc75face)
+- [ ] [<code>debian/control: Fix libgdk-pixbuf-2.0 depend</code>](https://github.com/linuxmint/xviewer/commit/d6519b579b7e590442b0264eb4e656b5d8a2fd1b)
+- [ ] [<code>Fix various memory leaks when navigating files.</code>](https://github.com/linuxmint/xviewer/commit/7d10c47496eaa9bdf814c5a5f93888eb59a10c3a)
+- [ ] [<code>Select the next image when the current one is removed externally</code>](https://github.com/linuxmint/xviewer/commit/0955731e241b78a59c8f2c3e9f481ac17a9c325d)
+- [ ] [<code> Image Properties: add a Copy button to copy image info to the clipboard (#247)</code>](https://github.com/linuxmint/xviewer/commit/3b79d1b59d001e9836552e00ea7435eb7bd66356)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 ## random
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.7...HEAD)
