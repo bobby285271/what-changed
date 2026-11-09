@@ -287,6 +287,8 @@
 
 - [ ] [<code>Use media-playlist-repeat-disabled-symbolic icon (#857)</code>](https://github.com/elementary/music/commit/16a202aa3ded530a45c324c3f26047f9d42295fa)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix cover image size (#856)</code>](https://github.com/elementary/music/commit/903b7336fb5be7ac2cf8e3021a0b215207765da2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-photos](https://github.com/elementary/photos): [8.0.2 → HEAD](https://github.com/elementary/photos/compare/8.0.2...HEAD)
 
@@ -301,6 +303,7 @@
 - [ ] [<code>Fix missing close button in plugin about dialogs (#855)</code>](https://github.com/elementary/photos/commit/fefb7605df57b0c917d802d1dfc32542206d681c)
 - [ ] [<code>Fix WebP image loading (#857)</code>](https://github.com/elementary/photos/commit/b762ae5af3e8cc47ee0227163345121685967cfc)
 - [ ] [<code>Use document-edit-symbolic for the edit button (#859)</code>](https://github.com/elementary/photos/commit/f8b50e333fb5e78bd6e52ceeade83e573de42f29)
+- [ ] [<code>Hardcode elementary styles (#860)</code>](https://github.com/elementary/photos/commit/77dc038b7f5feacc9d7006d69bd1da3273ef42b5)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
