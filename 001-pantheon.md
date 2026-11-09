@@ -304,6 +304,7 @@
 - [ ] [<code>Fix WebP image loading (#857)</code>](https://github.com/elementary/photos/commit/b762ae5af3e8cc47ee0227163345121685967cfc)
 - [ ] [<code>Use document-edit-symbolic for the edit button (#859)</code>](https://github.com/elementary/photos/commit/f8b50e333fb5e78bd6e52ceeade83e573de42f29)
 - [ ] [<code>Hardcode elementary styles (#860)</code>](https://github.com/elementary/photos/commit/77dc038b7f5feacc9d7006d69bd1da3273ef42b5)
+- [ ] [<code>Fix WebP metadata loading (#858)</code>](https://github.com/elementary/photos/commit/cdbeca1c645d81b8ba18d397a3a6a7f096c4f341)
 
 #### [pantheon.elementary-screenshot](https://github.com/elementary/screenshot): [9.0.0 → HEAD](https://github.com/elementary/screenshot/compare/9.0.0...HEAD)
 
@@ -798,6 +799,26 @@
 - [ ] [<code>MutterTestCase: Setup context in set_up (#2966)</code>](https://github.com/elementary/gala/commit/7aefbba6b7c35cc5b16efc8d5ea24bc2c6e682ea)
 - [ ] [<code>BackgroundManager: Guard against actors that do not exist yet (#2960)</code>](https://github.com/elementary/gala/commit/caadbdb8f017359eee21ab8f4d523652cff25f1a)
 - [ ] [<code>DesktopIntegration: Expose caps and num lock state (#2967)</code>](https://github.com/elementary/gala/commit/a0bcc39fada6fa530ad21d308d0c1b64ef077270)
+- [ ] [<code>tests: Use mutter dbus runner</code>](https://github.com/elementary/gala/commit/da7ca88b6e9fcc8e1f9a3eb33ca7b12812481e49)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>CI: Adjust to new test env</code>](https://github.com/elementary/gala/commit/4af1e55a1bea6f384fd54a26cc197c24b42b9249)
+- [ ] [<code>README: Simplify testing instructions</code>](https://github.com/elementary/gala/commit/d36cd131091ec6d400d0a37efc0b3dbbe116ece9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>MutterTestCase: Remove unnecessary fatal log handler</code>](https://github.com/elementary/gala/commit/c2bc296c58fd7387898a8b0332946ca4ed3d3160)
+- [ ] [<code>Run tests in parallel</code>](https://github.com/elementary/gala/commit/102f15ff72b997f14734a53bbc1863238c5eb25a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Error if mutter_dbusrunner.py doesn't exist</code>](https://github.com/elementary/gala/commit/e0b6c9c912d0ca40c8973038c74b67b281814f89)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>GestureBackend: Support different units</code>](https://github.com/elementary/gala/commit/152faef2eb577b62a92aef639649abead51aa60a)
+- [ ] [<code>Introduce RootTarget.get_distance</code>](https://github.com/elementary/gala/commit/92328469f0b369393f7277aaf00a471d998a0f1b)
+- [ ] [<code>GestureController: Use new GestureTarget.get_distance</code>](https://github.com/elementary/gala/commit/fb6a1d1155683d700c24872c21d470847ab6345b)
+- [ ] [<code>GestureController: Map every backend to a single trigger</code>](https://github.com/elementary/gala/commit/133562e9c49a684d2080b6752bca9bf9c3b1b26e)
+- [ ] [<code>Introduce TouchScreenSwipeBackend</code>](https://github.com/elementary/gala/commit/6832ef17dd52b0ca6438366a8aaa3fcc6b0131c4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SwipeTrigger: Enable touch screen backend</code>](https://github.com/elementary/gala/commit/573f4cff345f38078e42e7a0c0d699aff742e44d)
+- [ ] [<code>GlobalTrigger: Use touch screen swipe backend</code>](https://github.com/elementary/gala/commit/c6a7eab7b9ab69c3cbdb173e8bd4c1dbcb0ab01a)
+- [ ] [<code>ToucheggBackend: Disable on mutter 49 for touchscreen swipe</code>](https://github.com/elementary/gala/commit/9d68a5e42017ecd48ed556948a544fe510c33000)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
