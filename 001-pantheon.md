@@ -46,6 +46,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>SourcePopover: port to Gtk.FileDialog (#968)</code>](https://github.com/elementary/calendar/commit/045195d933bf1f6167d215fd7b42115ba8e212e7)
 - [ ] [<code>Use document-edit-symbolic for the edit button (#972)</code>](https://github.com/elementary/calendar/commit/97de059e9ce4ff82e90c322cafba40796b81c64c)
+- [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#977)</code>](https://github.com/elementary/calendar/commit/30f99889e07cd6e637662ab1132951332a6f91c6)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
