@@ -662,6 +662,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/b80bd473a86f41093f1d0cd62466be3fb5bc3045)
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/edcdc39f5abaa45779f90ab638a03e509ee661b3)
 - [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6864b4d342538525bfa137f2943548f044c6a23a)
+- [ ] [<code>x11: Switch to WnckHandle</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dc639480ddc2b197f4f60f28afadba7a592c0cf9)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1891,6 +1892,9 @@
 - [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/73a7edb813f5d3608ce3ad37846f7ee2f3793a49)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/684fb4fe85ec489d780303d0370f8081c307f25c)
 - [ ] [<code>Avoid unnecessary g_strdup_printf</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/dec186cbe35907160fac24404c039f7fe0950a3e)
+- [ ] [<code>Define `backlight_helper_get_switch` before use</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c1557e625a78dab948b976f7e9e8e19fb7c37cae)
+- [ ] [<code>On FreeBSD `sys/user.h` requires `sys/types.h` being included before it</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/7eb6eae51695a140ffdc72b8d7406a06c5f3f223)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -2069,6 +2073,10 @@
 - [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-session/commit/7259cf433e70b80d47dd997850ceaa725a7e5402)
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-session/commit/725d82dad4a2a17fcf21e8b98c031c487d6274f6)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-session/commit/ab5104f8cfabda6ea0b4cb88a65c30af0bc4c616)
+- [ ] [<code>build: Lower wayland requirement to 1.22</code>](https://github.com/xfce-mirror/xfce4-session/commit/d991057e8298452b8eaf1048b293a2e2c89ba816)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Redesign disconnect vs. discard in XfceSessionClient</code>](https://github.com/xfce-mirror/xfce4-session/commit/e0dac222b3730d161f11504efa75580604c8a6b5)
+- [ ] [<code>Allow XSMP client to connect if previous ID was unknown</code>](https://github.com/xfce-mirror/xfce4-session/commit/27e64efc5ac20c32c352d719003bab50a889f65e)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -2604,6 +2612,21 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfdesktop/commit/195b0a75682c7f2f8896a3e7ed6fcf21158be91d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfdesktop/commit/442b90bffb91f1d6c6ab413647d6f4fa33dfcd3e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gobject-linter: Fix missing_autoptr_cleanup</code>](https://github.com/xfce-mirror/xfdesktop/commit/51562b2b586eb52fe4d3a3468b0d8389633fa516)
+- [ ] [<code>gobject-linter: Fix property_switch_exhaustiveness</code>](https://github.com/xfce-mirror/xfdesktop/commit/ae449756ed03c47ee2a658cdbce8d471bb81ec86)
+- [ ] [<code>gobject-linter: Fix matching_declare_define</code>](https://github.com/xfce-mirror/xfdesktop/commit/fd2b0d7b984f3aeca73d912e49955c317d33d83e)
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfdesktop/commit/6b5c77be584ae7527b19ba46e84bf2dd934f91d8)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfdesktop/commit/06d26caa8a6c297b25ddd4de95357354fc22da1b)
+- [ ] [<code>gobject-linter: Fix missing_implementation</code>](https://github.com/xfce-mirror/xfdesktop/commit/4608e4fb4cda783a00aaa23f35701474bb73f88b)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfdesktop/commit/b54a0c59247b4552ea690903613c2186c1598012)
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfdesktop/commit/77e437d2135f009a76f2f1d3ba79163381792287)
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/xfdesktop/commit/f3ceb626c3f66931d2c0aa177a6161c8cf5eef23)
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfdesktop/commit/360c8ab15df78eb606328c8d82224e990686da02)
+- [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfdesktop/commit/194dc4e85be510d6b96acce48d91c86dc98541d7)
+- [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfdesktop/commit/39ac64d93889a71676834b89823c006244d98f62)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
