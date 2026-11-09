@@ -76,7 +76,13 @@
             "attr_path": "nemo-fileroller"
         },
         {
+            "attr_path": "nemo-preview"
+        },
+        {
             "attr_path": "nemo-python"
+        },
+        {
+            "attr_path": "nemo-seahorse"
         },
         {
             "attr_path": "pix"
