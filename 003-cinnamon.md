@@ -1448,8 +1448,9 @@
 - [ ] [<code>cursor-renderer/native: Don't move the HW cursor onto a GPU it isn't realized on.</code>](https://github.com/linuxmint/muffin/commit/398528a98df749b470df787267e1b0da1ef114e4)
 - [ ] [<code>renderer/native: Use an external texture when the driver requires one.</code>](https://github.com/linuxmint/muffin/commit/18dd5338a200574f23dc6edd6c69edba5fc85ca4)
 - [ ] [<code>renderer/native: Wait for the primary GPU's fence before copying.</code>](https://github.com/linuxmint/muffin/commit/bc2720cd45234b0eb65618967b1df8a2f92a0562)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cursor-sprite-xcursor: Look cursors up by their CSS names first.</code>](https://github.com/linuxmint/muffin/commit/201dea7dd5de55eb38f259dc3574d4717c9c1357)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
