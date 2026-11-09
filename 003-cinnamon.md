@@ -1450,6 +1450,7 @@
 - [ ] [<code>renderer/native: Wait for the primary GPU's fence before copying.</code>](https://github.com/linuxmint/muffin/commit/bc2720cd45234b0eb65618967b1df8a2f92a0562)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cursor-sprite-xcursor: Look cursors up by their CSS names first.</code>](https://github.com/linuxmint/muffin/commit/201dea7dd5de55eb38f259dc3574d4717c9c1357)
+- [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1732,7 +1733,97 @@
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
 
+#### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
+
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance</code>](https://github.com/linuxmint/nemo-extensions/commit/a207308c51b16cafd52ed995df71a5722dd38ae6)
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-seahorse: Remove old C code</code>](https://github.com/linuxmint/nemo-extensions/commit/ceaa7a550a807603d648478ef6c35e3d6a64fb37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
+- [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
+
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-terminal: add appearance settings, Gogh themes, and a preferences UI</code>](https://github.com/linuxmint/nemo-extensions/commit/c9531e0cf4d608f9ddca6522a139d0afd456af25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance</code>](https://github.com/linuxmint/nemo-extensions/commit/a207308c51b16cafd52ed995df71a5722dd38ae6)
+- [ ] [<code>Revert "Merge pull request #584 from Boccolarg/feat/nemo-terminal-appearance"</code>](https://github.com/linuxmint/nemo-extensions/commit/2f61007b0bfa97f8854e3fdf0131c2399bedaef4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-preview: Force x11 backend for wayland sessions.</code>](https://github.com/linuxmint/nemo-extensions/commit/779ca6c624cc2acf64f96fd1db174ec15ad71cb1)
+- [ ] [<code>nemo-preview: Don't rely on a xed setting for the GtkSource style.</code>](https://github.com/linuxmint/nemo-extensions/commit/bae748cdb1f6c5f872a097c7cccef4a24ed0874d)
+- [ ] [<code>nemo-preview: Get rid of most of our custom styles, most of which</code>](https://github.com/linuxmint/nemo-extensions/commit/04fcbff4966a6d9aebe8747e309e7e03f6f477ec)
+- [ ] [<code>nemo-media-columns: Don't try to force a format for tracknumer.</code>](https://github.com/linuxmint/nemo-extensions/commit/62aaa6036a4d59fd1492a31ce3d3602eb90e052c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/98153f2e53ea642ad4e4501014a74aba6ec306e7)
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Refactor label and button initialization to use keywords (#561)</code>](https://github.com/linuxmint/nemo-extensions/commit/df7bd140bf7fb96d57e097ad56d07be4d7ab12bd)
+- [ ] [<code>Fix timeout logging in nemo-media-columns (#591)</code>](https://github.com/linuxmint/nemo-extensions/commit/d9bbfe3468b6f53aa76844bfc2aba3912d778087)
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/745c85137bc966121de7f87d6717f7bd688c4090)
+  - <sub>Tags: <code>6.7.2-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix setup and sharing on Debian samba >= 2:4.23.1</code>](https://github.com/linuxmint/nemo-extensions/commit/9f0e7c24e4776008986ff5dc38214a6c7892e807)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>nemo-seahorse: Remove old C code</code>](https://github.com/linuxmint/nemo-extensions/commit/ceaa7a550a807603d648478ef6c35e3d6a64fb37)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nemo-seahorse: Tune action selection/scheme</code>](https://github.com/linuxmint/nemo-extensions/commit/d10517bdffa6b9eceb59af39ce34d408a4050eb9)
+- [ ] [<code>6.7.3-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/e676ccc81de07cb565740f169bf7192ace03f75a)
+  - <sub>Tags: <code>6.7.3-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.0</code>](https://github.com/linuxmint/nemo-extensions/commit/578920083f96ec1889bd753c126640f2da3a088e)
+  - <sub>Tags: <code>6.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
+- [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
+- [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+
+#### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 - [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
@@ -1940,6 +2031,10 @@
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
 
+- [ ] [<code>Redesign user-desktop</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/679c7affc33687dffc199c6524d311eee6714d9b)
+- [ ] [<code>1.1.2</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/7cdd9c0cc281a79da0b6c336241247096d420330)
+  - <sub>Tags: <code>1.1.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.3 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.3...HEAD)
 
