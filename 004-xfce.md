@@ -1747,6 +1747,8 @@
 - [ ] [<code>Revert "Only discard session on intentional quit"</code>](https://github.com/xfce-mirror/xfce4-panel/commit/8766f70aa8728b4efb0b212d02e2964952bdba59)
 - [ ] [<code>Use panel_dbus_service_exit_panel() to prevent automatic restart</code>](https://github.com/xfce-mirror/xfce4-panel/commit/12113c1d9bc259da19e42f34c0949d4f414f4ccf)
 - [ ] [<code>Fix xfconf_g_property_bind_gdkrgba deprecation warning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db36efd1aed1cc13b212af41999fa45d6ed5eadf)
+- [ ] [<code>libxfce4panel: Add xfce_panel_gtk_show_about_dialog</code>](https://github.com/xfce-mirror/xfce4-panel/commit/04d79477bd69fa0f923c484af91317ae20075c45)
+- [ ] [<code>Fix xfce_panel_plugin_(block|unblock)_menu not appearing in docs</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d992e227eca2d2f33ea869eed9d6814d5bc32f5c)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -2078,6 +2080,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Redesign disconnect vs. discard in XfceSessionClient</code>](https://github.com/xfce-mirror/xfce4-session/commit/e0dac222b3730d161f11504efa75580604c8a6b5)
 - [ ] [<code>Allow XSMP client to connect if previous ID was unknown</code>](https://github.com/xfce-mirror/xfce4-session/commit/27e64efc5ac20c32c352d719003bab50a889f65e)
+- [ ] [<code>cleanup: Define xfsm_shutdown_try_*() as static</code>](https://github.com/xfce-mirror/xfce4-session/commit/e0987f6c969475bd7b9728eb7e5f47f11cb5a554)
+- [ ] [<code>Skip inhibitors when calling systemd methods</code>](https://github.com/xfce-mirror/xfce4-session/commit/41b9af5c74c0a5c96098fc35ed9c93bf8230d8fa)
+- [ ] [<code>Fix gvfsd not inhering SSH_AUTH_SOCK</code>](https://github.com/xfce-mirror/xfce4-session/commit/bdbb37af1a39e9c058d1d22c3a4cb4ac1e3e58d5)
+- [ ] [<code>Silence deprecation warnings</code>](https://github.com/xfce-mirror/xfce4-session/commit/767753cf62586c17e841f36fa62f75fc870310a3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
@@ -2349,6 +2356,9 @@
 - [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-settings/commit/2fe61529c00825f160f3f78a194de53a6a4aedb4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>appearance: Add an info button to the Style tab</code>](https://github.com/xfce-mirror/xfce4-settings/commit/0c4f5b8ce4557ddbb5e056dbb0b57e3c0912291d)
+- [ ] [<code>Drop upower support</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8fecc29f43c8be84e2c6a35c844a10d75918ac75)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
