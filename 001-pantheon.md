@@ -282,6 +282,7 @@
 - [ ] [<code>Create a group widget for metrics of the same device (#577)</code>](https://github.com/elementary/monitor/commit/3a8b99b2b6672017b73621cf06fec5076bc95e87)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix crash from adding priority (#585)</code>](https://github.com/elementary/monitor/commit/17bd28d8ee263912e782959a42e204551287a3f4)
 
 #### [pantheon.elementary-music](https://github.com/elementary/music): [9.0.0 → HEAD](https://github.com/elementary/music/compare/9.0.0...HEAD)
 
