@@ -552,6 +552,25 @@
 - [ ] [<code>Keep the project's section list up to date when sections are inserted (#2797)</code>](https://github.com/alainm23/planify/commit/f121a9964322e3fb0d1192b4b3798d5c4fcdcd8b)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f2e02c23fc1d2d6ca194fd1f1aae4c4b46472dcd)
+- [ ] [<code>mTLS support (#2708)</code>](https://github.com/alainm23/planify/commit/54e9d5c203abb59a067aaf6b9c5b86914909c974)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e4cd3e0d115f12473d1d381e4c59b612b1feaf97)
+- [ ] [<code>feat: add option to delete all finished tasks in a project (#2684) (#2756)</code>](https://github.com/alainm23/planify/commit/1b8750b517141910b120800959fa04a84ae27c5b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/88354f021ebfce9d87741ca73c6e6dc98f80f56b)
+- [ ] [<code>update actions (#2800)</code>](https://github.com/alainm23/planify/commit/f6a566f22ad1215ee31895343f18cc07ff866ca0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/129b2f0f2c5cf8310eb3ceae7edf5085b43c34e7)
+- [ ] [<code>Bound calendar month retention and release discarded widgets (#2771)</code>](https://github.com/alainm23/planify/commit/48253b9bac7de5ce643760aea674b3b9d61cacb4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/4eb9a4108ac73e1770eef53d5d5fc39e82d63f06)
+- [ ] [<code>fix: release model relationships and invalidated task caches (#2772)</code>](https://github.com/alainm23/planify/commit/5e8a10e28464eeb4e351656494b3ffef5dc24c49)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d9290e9a35adb75d12dfdf4e6bc90de13d6379ad)
+- [ ] [<code>fix(caldav): prevent orphaned projects on source removal (#2766)</code>](https://github.com/alainm23/planify/commit/e771e731f3fb50b003b9603927c95cbc41330bb2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/40c2b44e4a9749b7192e6b127337df0c0e0c57aa)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
