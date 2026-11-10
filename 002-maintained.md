@@ -571,6 +571,13 @@
 - [ ] [<code>fix(caldav): prevent orphaned projects on source removal (#2766)</code>](https://github.com/alainm23/planify/commit/e771e731f3fb50b003b9603927c95cbc41330bb2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/40c2b44e4a9749b7192e6b127337df0c0e0c57aa)
+- [ ] [<code>Clean up widget subscriptions and shared controls (#2774)</code>](https://github.com/alainm23/planify/commit/d3c67afa5bf43cb57a70bc973e0287bd29d01a25)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/129275f2fc5632d7905da18bb1e49f57e34cf0f2)
+- [ ] [<code>fix: repair failing core and ui-memory test suites (#2802)</code>](https://github.com/alainm23/planify/commit/4713f345a5b8112f93703099013e096026eebbdf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fbfc7d59147b080221a603b51ac5e5711b304c29)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
