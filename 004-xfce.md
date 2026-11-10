@@ -664,6 +664,7 @@
 - [ ] [<code>Remove dead code</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/edcdc39f5abaa45779f90ab638a03e509ee661b3)
 - [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6864b4d342538525bfa137f2943548f044c6a23a)
 - [ ] [<code>x11: Switch to WnckHandle</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dc639480ddc2b197f4f60f28afadba7a592c0cf9)
+- [ ] [<code>x11: Fix broken xfw_workspace_group_set_layout()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/322e7055934844a3900b1912e228c0c7dc3d2e19)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1347,6 +1348,16 @@
 - [ ] [<code>Restore geometry hints</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/91f5a35a6867a246cc522ab53ce88adfa1820244)
 - [ ] [<code>build: Bump requirements for Xfce 4.22</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/532d6c0c7a710f5885241853830c2d4f4730cce3)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/f0b08bdaba47c1085d7606e01ed396c1fa196c42)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/be9c4f1b13c2b38c3352968c2817650ba92b4e62)
+- [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/a63fe9c950a6855dea3079127638cf9019f02228)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gobject-linter: Fix g_param_spec_static_strings</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/011ae0b0c869bac8fa3fe9299ecaa23352d3642b)
+- [ ] [<code>gobject-linter: Fix unnecessary_null_check</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/4f48bd2084a34852a4a30cb4a4847b26fbfa4826)
+- [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/d7538ad6cc0ba20b06074c2f72332be3067e6325)
+- [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/bdd66db42793bc84cdffbbd742cae774e3e0a5d4)
+- [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/5fd0035b5790b85403f08686c7a4a97169db1601)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
