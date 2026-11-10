@@ -95,6 +95,7 @@
 - [ ] [<code>Build with Granite 9 (#141)</code>](https://github.com/elementary/feedback/commit/b1b918eb00bf47b80119893746a83000fd54ea52)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Only show in Pantheon (#143)</code>](https://github.com/elementary/feedback/commit/a3e6fe313d1761b0c25e1bea362a28104f02b39f)
 
 #### [pantheon.elementary-files](https://github.com/elementary/files): [7.3.3 → HEAD](https://github.com/elementary/files/compare/7.3.3...HEAD)
 
@@ -703,6 +704,9 @@
 - [ ] [<code>Restore gschema (#918)</code>](https://github.com/elementary/greeter/commit/4041e991465816f7bab68a1a77efe7c08d4e1c8d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update POTFILES (#921)</code>](https://github.com/elementary/greeter/commit/8dcaaa165c182ddfcb9bba31e373e42530d22f43)
+- [ ] [<code>Drop x11 checks (#922)</code>](https://github.com/elementary/greeter/commit/9821a44e7d471393ac65a15ccf8414793323c0fb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-onboarding](https://github.com/elementary/onboarding): [8.1.0 → HEAD](https://github.com/elementary/onboarding/compare/8.1.0...HEAD)
 
