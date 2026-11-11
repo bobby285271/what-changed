@@ -794,6 +794,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
 - [ ] [<code>inhibitor.js: Ignore warnings for short-lived inhibitors</code>](https://github.com/linuxmint/cinnamon/commit/5c5371457fea804ad6b170b692ee0dffbe425fec)
+- [ ] [<code>notificationDaemon.js: Fix regression from 1cc9c4b6816c</code>](https://github.com/linuxmint/cinnamon/commit/b9ca8e129e849e38bd3bc99d2fe8f131d3257caa)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -2031,6 +2032,7 @@
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.09.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.09.0...HEAD)
 
 - [ ] [<code>Update README.md (#526)</code>](https://github.com/linuxmint/timeshift/commit/0c311a4775a811f26df1162516f6b5ab93577acf)
+- [ ] [<code>Silence the async script status write after TEMP_DIR is removed</code>](https://github.com/linuxmint/timeshift/commit/05dbf78678629e1644115864a6b8420f42fe7ffe)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.0 → HEAD](https://github.com/linuxmint/xed/compare/3.9.0...HEAD)
@@ -2085,12 +2087,8 @@
 #### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.2...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.1...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.2...HEAD)
 
-- [ ] [<code>Redesign user-desktop</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/679c7affc33687dffc199c6524d311eee6714d9b)
-- [ ] [<code>1.1.2</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/7cdd9c0cc281a79da0b6c336241247096d420330)
-  - <sub>Tags: <code>1.1.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.3 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.3...HEAD)
 
