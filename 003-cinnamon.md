@@ -6,11 +6,28 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
 - [ ] [<code>Set license type on about dialog (#87)</code>](https://github.com/linuxmint/bulky/commit/b567d90496a38891e343b67cf2356d9d15f4310f)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Set prgname to application ID (#88)</code>](https://github.com/linuxmint/bulky/commit/da363493d54dd46a669303fcb90e258c44630391)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix crash when loading large file lists (#90)</code>](https://github.com/linuxmint/bulky/commit/191886b920e21d0d00869b272b9922ed25689a8e)
+  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/bulky/commit/8f9c95410ebbad6ba5be66edc0bb1b33b4b62314)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>threading: Load files asynchronously</code>](https://github.com/linuxmint/bulky/commit/82512fe428e366614b039436dc983729b7fdd734)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>thread: Load change preview asynchronously</code>](https://github.com/linuxmint/bulky/commit/67441245b460a2ecec0a844ffeba7cc891d864e1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>thread: Don't show UI changes if thread is shorter than 150ms</code>](https://github.com/linuxmint/bulky/commit/c66bac2c22adb99c65c89382d8decb442afd8917)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>threading: Rename files asynchronously</code>](https://github.com/linuxmint/bulky/commit/3c04b6f76f99b463f97780ac984d1a30a699cc7a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Make the options persistent</code>](https://github.com/linuxmint/bulky/commit/e127ea46b8cfb5c849faf3355bd18b39a5b75e26)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/bulky/commit/853bfb626ee744e6aa703213f72ac8ce2fa86e23)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.3</code>](https://github.com/linuxmint/bulky/commit/b80db4f37824e74212365395309b737fc8735419)
+  - <sub>Tags: <code>4.3</code> <code>master.lmde7</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -795,7 +812,10 @@
 - [ ] [<code>osdWindow: Don't disable based on show-media-keys-osd</code>](https://github.com/linuxmint/cinnamon/commit/afd09d5ce01826216ab741fe862abfb138d72e80)
 - [ ] [<code>inhibitor.js: Ignore warnings for short-lived inhibitors</code>](https://github.com/linuxmint/cinnamon/commit/5c5371457fea804ad6b170b692ee0dffbe425fec)
 - [ ] [<code>notificationDaemon.js: Fix regression from 1cc9c4b6816c</code>](https://github.com/linuxmint/cinnamon/commit/b9ca8e129e849e38bd3bc99d2fe8f131d3257caa)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>extension.js: Load require()'d modules once, natively</code>](https://github.com/linuxmint/cinnamon/commit/7751aae97d80f44eb8878d7ce8a04f98e784e595)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1143,6 +1163,8 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.2 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.2...HEAD)
 
+- [ ] [<code>importer: Fix lexical module properties and xlet reloading</code>](https://github.com/linuxmint/cjs/commit/051561c1d4283f420170c0f8df4ac5d9dc82851f)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -1466,7 +1488,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cursor-sprite-xcursor: Look cursors up by their CSS names first.</code>](https://github.com/linuxmint/muffin/commit/201dea7dd5de55eb38f259dc3574d4717c9c1357)
 - [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>meta-cursor-sprite-xcursor.c: Make a few tweaks to dnd icons</code>](https://github.com/linuxmint/muffin/commit/32d693a03c3a413f3c1b9831a0a04e7328dd8f4b)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1657,6 +1681,7 @@
 - [ ] [<code>i18n: Don't translate placeholder strings</code>](https://github.com/linuxmint/nemo/commit/7f088d72342fd39752b69f7d0f3d00a08c89936a)
 - [ ] [<code>Clean up makepot, build-depends</code>](https://github.com/linuxmint/nemo/commit/87c663e1a4d28a090042f90e35716617cc2b9d99)
   - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>nemo-view.c: Optimize the escaping argument algorithm</code>](https://github.com/linuxmint/nemo/commit/390db04056b9add0638378af7af9498ce805996f)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -2035,17 +2060,8 @@
 - [ ] [<code>Silence the async script status write after TEMP_DIR is removed</code>](https://github.com/linuxmint/timeshift/commit/05dbf78678629e1644115864a6b8420f42fe7ffe)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [xed-editor](https://github.com/linuxmint/xed): [3.9.0 → HEAD](https://github.com/linuxmint/xed/compare/3.9.0...HEAD)
+#### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
 
-- [ ] [<code>Closing the search bar should remove highlights in all tabs (#733) (#745)</code>](https://github.com/linuxmint/xed/commit/53790521108fa4e3dd4e8731a2c486d504f5525f)
-- [ ] [<code>Override triple-click to select entire line. Fixes #149 (#746)</code>](https://github.com/linuxmint/xed/commit/ff0502723407fcc497778d54fe4ea858a1365a70)
-- [ ] [<code>Added accelerator key to File > Recents menu item (#750)</code>](https://github.com/linuxmint/xed/commit/2b46b99272680b4e7b5e74660239e3bfb3a769e1)
-- [ ] [<code>Speed up cursor column calculation in the status bar for long lines (#761)</code>](https://github.com/linuxmint/xed/commit/8b7806856b45b0bc31220fa987546cef9688eeb9)
-- [ ] [<code>Clean up documentation (#742)</code>](https://github.com/linuxmint/xed/commit/755477314eadc3ae318a7aa99de77fcd42267bf3)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xed/commit/7d6cdc3327e779b9821f37afbfe8aacccb09b532)
-- [ ] [<code>3.9.1</code>](https://github.com/linuxmint/xed/commit/efe001998fa4517ec9ea5239ae214d0868bf1655)
-  - <sub>Tags: <code>3.9.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
