@@ -482,6 +482,7 @@
 - [ ] [<code>Updating screenshots.</code>](https://github.com/phase1geo/minder/commit/6a7045db5374622b869b85e5a8a1f841fd8b6fa6)
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/fa7c1a71d8ff7fce484265b90727c8f03290bb2a)
   - <sub>Tags: <code>3.0.0</code></sub>
+- [ ] [<code>Updating Flathub flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/6ff078918153f501f554266d0396c8f38d27297c)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -578,6 +579,34 @@
 - [ ] [<code>fix: repair failing core and ui-memory test suites (#2802)</code>](https://github.com/alainm23/planify/commit/4713f345a5b8112f93703099013e096026eebbdf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fbfc7d59147b080221a603b51ac5e5711b304c29)
+- [ ] [<code>Translations update from Hosted Weblate (#2686)</code>](https://github.com/alainm23/planify/commit/c8ba038e72540ff071a4cf0e711ea23ce9d7837e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/cfeac8868bef92b1f8447f5b0e1a1cc23f6140c9)
+- [ ] [<code>Translations update from Hosted Weblate (#2700)</code>](https://github.com/alainm23/planify/commit/2792de0ea0a0eddab7c92bc86d6de3c00402fa77)
+- [ ] [<code>perf: stream backup tasks directly to the output (#2775)</code>](https://github.com/alainm23/planify/commit/d325a9c1c98ff6a22b839120d1e0061bf96bfa9f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add opt-in synthetic memory profiling tools (#2776)</code>](https://github.com/alainm23/planify/commit/a3a40b76a03900041fd2a69697e1ad93639ea106)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix: create task action menus on demand (#2779)</code>](https://github.com/alainm23/planify/commit/3a3384c2dc95568bb2b8ddb73c072fa8b49819fb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6f37c92508d74333958ed742f0c7aa8b3efb04dd)
+- [ ] [<code>Complete the Portuguese (Portugal) translation (#2792)</code>](https://github.com/alainm23/planify/commit/1582428e09d8200c69f22047992519dcb284af1d)
+- [ ] [<code>Clear a project's syncing state when its sync fails (#2796)</code>](https://github.com/alainm23/planify/commit/63451655ffb91964618f1be843c4aea79b89e8ae)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e7a2fcde6ea3e143d20ba22c6819dca76962d908)
+- [ ] [<code>Preserve CalDAV relative reminders and due timezones (#2798)</code>](https://github.com/alainm23/planify/commit/095c0e4b7074baa661465e756e188f23e5ed8976)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ccdbfb1b864174cb0bbbd1e0fce37c64d51dbd3e)
+- [ ] [<code>Stop automatic reminders from firing when reminders are turned off (#2799)</code>](https://github.com/alainm23/planify/commit/27a6736089e3d910e6b0bbaa06443136a634d70b)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/48c4b917b6e1e4cb26f8a699ee909e6425a5cf6a)
+- [ ] [<code>add new valid (#2804)</code>](https://github.com/alainm23/planify/commit/826f3e68102231b9a42830d49a104de738ff8c9b)
+- [ ] [<code>fix backup row (#2805)</code>](https://github.com/alainm23/planify/commit/a2257eda6d0f4247d1ef7119c9ad6c8a99027100)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/79facd08d0a714757cc459a836285c0b5945217d)
+- [ ] [<code>save settings (#2806)</code>](https://github.com/alainm23/planify/commit/cd366c6adc37cf6c797bf5807db73772d1ee2a7c)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2d27f44b80afd9ecfcec9a328600b429adaeb7e5)
+- [ ] [<code>fix move (#2807)</code>](https://github.com/alainm23/planify/commit/bd2d360db0dbd2d739b9b6b97593b980bb42c246)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/984fd82a436ccfc21d6f847d3e7f2a68bf47d170)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
