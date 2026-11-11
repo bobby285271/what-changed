@@ -607,6 +607,7 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2d27f44b80afd9ecfcec9a328600b429adaeb7e5)
 - [ ] [<code>fix move (#2807)</code>](https://github.com/alainm23/planify/commit/bd2d360db0dbd2d739b9b6b97593b980bb42c246)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/984fd82a436ccfc21d6f847d3e7f2a68bf47d170)
+- [ ] [<code>fix calendar event (#2808)</code>](https://github.com/alainm23/planify/commit/9fde431527609d68addfa6c80b93577bcd667779)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
