@@ -618,6 +618,11 @@
 - [ ] [<code>feat: improve ux (#2812)</code>](https://github.com/alainm23/planify/commit/9fc1aa440348a2d4003ec633f557238c611ae8fa)
 - [ ] [<code>Don't start a CalDAV sync while one is already running (#2813)</code>](https://github.com/alainm23/planify/commit/63df77f0773c3bbaccc6130bd8dfb3c59dedf14a)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20a741e05aa0f3bb57dd6f09f488cdb94eb75608)
+- [ ] [<code>add label color (#2818)</code>](https://github.com/alainm23/planify/commit/38cf1ba3a2384e7ab1ba61bd4ecc84965631a451)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2fbebfe9c23e1616c828fb5e55008245d7c769dc)
+- [ ] [<code>fix: keep backup files readable by their owner only (#2814)</code>](https://github.com/alainm23/planify/commit/5eb43c9c5614c64dbe1fa6d6588955b75bb113d8)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/73430f0c3f4a054ad59cf672fc8152a600ceba2b)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
