@@ -824,6 +824,11 @@
 - [ ] [<code>SwipeTrigger: Enable touch screen backend</code>](https://github.com/elementary/gala/commit/573f4cff345f38078e42e7a0c0d699aff742e44d)
 - [ ] [<code>GlobalTrigger: Use touch screen swipe backend</code>](https://github.com/elementary/gala/commit/c6a7eab7b9ab69c3cbdb173e8bd4c1dbcb0ab01a)
 - [ ] [<code>ToucheggBackend: Disable on mutter 49 for touchscreen swipe</code>](https://github.com/elementary/gala/commit/9d68a5e42017ecd48ed556948a544fe510c33000)
+- [ ] [<code>Implement infrastructure for tests for src</code>](https://github.com/elementary/gala/commit/d80c3dd80c001a613ab8fc30d06ef6881c08172d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tests: Add a simple barrier test</code>](https://github.com/elementary/gala/commit/30a8100029db93cb04fd65e89e01d904102458a7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>SessionManager: call EndSessionDialog asynchronously</code>](https://github.com/elementary/gala/commit/0fa3daaa43ac8c832952d45acb558266d96bd3db)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
