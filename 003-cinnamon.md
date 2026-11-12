@@ -1489,9 +1489,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cursor-sprite-xcursor: Look cursors up by their CSS names first.</code>](https://github.com/linuxmint/muffin/commit/201dea7dd5de55eb38f259dc3574d4717c9c1357)
 - [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
-  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
 - [ ] [<code>meta-cursor-sprite-xcursor.c: Make a few tweaks to dnd icons</code>](https://github.com/linuxmint/muffin/commit/32d693a03c3a413f3c1b9831a0a04e7328dd8f4b)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>window: Don't hide override-redirect windows in show-desktop mode</code>](https://github.com/linuxmint/muffin/commit/efaa5ade12d7721ab2d1e50a6341f0ff6267190a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1681,8 +1681,10 @@
 - [ ] [<code>nemo-places-sidebar.c: Don't show duplicated mounts</code>](https://github.com/linuxmint/nemo/commit/275b706d1ec4a97931cd1c5dd24dd32a1c61e703)
 - [ ] [<code>i18n: Don't translate placeholder strings</code>](https://github.com/linuxmint/nemo/commit/7f088d72342fd39752b69f7d0f3d00a08c89936a)
 - [ ] [<code>Clean up makepot, build-depends</code>](https://github.com/linuxmint/nemo/commit/87c663e1a4d28a090042f90e35716617cc2b9d99)
-  - <sub>Tags: <code>master.mint27</code></sub>
 - [ ] [<code>nemo-view.c: Optimize the escaping argument algorithm</code>](https://github.com/linuxmint/nemo/commit/390db04056b9add0638378af7af9498ce805996f)
+- [ ] [<code>nemo-preview-video.c: Fix seek/slider behavior</code>](https://github.com/linuxmint/nemo/commit/148b0d87bd29cff2c682f00acc04642fa35e94fd)
+- [ ] [<code>nemo-icon-container.c: Refresh icons when the scale factor changes</code>](https://github.com/linuxmint/nemo/commit/24f95a9c18cbee9bee01c4985304d34ecd054304)
+  - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1991,31 +1993,14 @@
   - <sub>Tags: <code>3.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-gtk-window: Re-bind the Wayland xapp_surface after hide/show</code>](https://github.com/linuxmint/xapp/commit/84df382d94eb55f2e29f5759eed4c569b39c1627)
+- [ ] [<code>xapp-status-icon.c: Take a ref on the dummy window for the popup event</code>](https://github.com/linuxmint/xapp/commit/c445c22d4970f748b50c4337a2acc60e9e6c9002)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.9 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.9...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.10 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.10...HEAD)
 
-- [ ] [<code>Avoid blocking filesystem checks in the recent documents menu (#733)</code>](https://github.com/linuxmint/xreader/commit/c1e3d83e93f56328f5b144b24eef5b44f5aad840)
-  - <sub>Tags: <code>master.mint22</code></sub>
-- [ ] [<code>4.6.10</code>](https://github.com/linuxmint/xreader/commit/d9bc03250a410e47a958dcb23f662539de562a91)
-  - <sub>Tags: <code>4.6.10</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.17 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.17...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.18 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.18...HEAD)
 
-- [ ] [<code>Update control: Added depends to Recommends for showing heif files (#248)</code>](https://github.com/linuxmint/xviewer/commit/5f5887d0f40d0c7fa3db582b859095785ec80ef7)
-- [ ] [<code>Update state after opening images (#238)</code>](https://github.com/linuxmint/xviewer/commit/99f5bd1ca300cc5bed0b34807cee65fdb5009fbb)
-- [ ] [<code>Update control: Added libjpeg-dev to xviwer-dev depends (#239)</code>](https://github.com/linuxmint/xviewer/commit/9f0b51146101e2642595b13217b9951ffc75face)
-- [ ] [<code>debian/control: Fix libgdk-pixbuf-2.0 depend</code>](https://github.com/linuxmint/xviewer/commit/d6519b579b7e590442b0264eb4e656b5d8a2fd1b)
-- [ ] [<code>Fix various memory leaks when navigating files.</code>](https://github.com/linuxmint/xviewer/commit/7d10c47496eaa9bdf814c5a5f93888eb59a10c3a)
-- [ ] [<code>Select the next image when the current one is removed externally</code>](https://github.com/linuxmint/xviewer/commit/0955731e241b78a59c8f2c3e9f481ac17a9c325d)
-- [ ] [<code> Image Properties: add a Copy button to copy image info to the clipboard (#247)</code>](https://github.com/linuxmint/xviewer/commit/3b79d1b59d001e9836552e00ea7435eb7bd66356)
-- [ ] [<code>xviewer-list-store.c: Defer sort until finished loading images.</code>](https://github.com/linuxmint/xviewer/commit/09c2fb860766e35aa4e19615d59a44fadc88ebf2)
-- [ ] [<code>xviewer-window.c: Queue image load and transform jobs ahead of thumbnails.</code>](https://github.com/linuxmint/xviewer/commit/bf3c60392ecbd3f74c5fa830d2e0c1fb32e73a6b)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xviewer/commit/893f19548f5b6b99d2c8e99a89a3801a811481fb)
-- [ ] [<code>3.4.18</code>](https://github.com/linuxmint/xviewer/commit/1d5bf96f397bcb604feeeb555a5944825d7a932b)
-  - <sub>Tags: <code>3.4.18</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.7...HEAD)
@@ -2060,6 +2045,13 @@
 - [ ] [<code>Update README.md (#526)</code>](https://github.com/linuxmint/timeshift/commit/0c311a4775a811f26df1162516f6b5ab93577acf)
 - [ ] [<code>Silence the async script status write after TEMP_DIR is removed</code>](https://github.com/linuxmint/timeshift/commit/05dbf78678629e1644115864a6b8420f42fe7ffe)
 - [ ] [<code>dont abort on page change (#513)</code>](https://github.com/linuxmint/timeshift/commit/66845332fb8ec6ba0b3bc5bae5d5bcfa63a75537)
+- [ ] [<code>Tags as enum (#493)</code>](https://github.com/linuxmint/timeshift/commit/a6946c98e7189fdc79292b6c5f6441b4a4449d4d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Ensure default filters take priority over user accounts (#547)</code>](https://github.com/linuxmint/timeshift/commit/dd1d84582437434657c7571bdaa3670b94d6b059)
+- [ ] [<code>Exclude log files from rsync snapshots by default</code>](https://github.com/linuxmint/timeshift/commit/b6060bf9b05604231417381477b39c423395bbb2)
+- [ ] [<code>Device selection: Re-check the location status instead of leaving stale</code>](https://github.com/linuxmint/timeshift/commit/cbf5dd596109f40dbf998dfe0e1e4bf307bd60ab)
+- [ ] [<code>apply patch proposed in #570 by @michaelkory (#571)</code>](https://github.com/linuxmint/timeshift/commit/3f66aaf7a4d87f3b189691702432c72790ef0369)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
