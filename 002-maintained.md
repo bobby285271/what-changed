@@ -483,6 +483,7 @@
 - [ ] [<code>Updating translation files.</code>](https://github.com/phase1geo/minder/commit/fa7c1a71d8ff7fce484265b90727c8f03290bb2a)
   - <sub>Tags: <code>3.0.0</code></sub>
 - [ ] [<code>Updating Flathub flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/6ff078918153f501f554266d0396c8f38d27297c)
+- [ ] [<code>Updating Flathub flatpak manifest to use archived version of Lasem.</code>](https://github.com/phase1geo/minder/commit/3d3b4d56eae2f8cf1a685c040d0cc682616b8a05)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -608,6 +609,15 @@
 - [ ] [<code>fix move (#2807)</code>](https://github.com/alainm23/planify/commit/bd2d360db0dbd2d739b9b6b97593b980bb42c246)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/984fd82a436ccfc21d6f847d3e7f2a68bf47d170)
 - [ ] [<code>fix calendar event (#2808)</code>](https://github.com/alainm23/planify/commit/9fde431527609d68addfa6c80b93577bcd667779)
+- [ ] [<code>fix recurrence (#2809)</code>](https://github.com/alainm23/planify/commit/b59f4828438c78be5a35d5b67ff28e6595f0fea6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix crash (#2810)</code>](https://github.com/alainm23/planify/commit/8e0b72e72faad216b945f6cd9f7ee4cdc0bcdcd6)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/41b02600269bec8e196c5914bfd502fad6243be1)
+- [ ] [<code>update recurrence button (#2811)</code>](https://github.com/alainm23/planify/commit/8c8ef0e028b03da7821652c280c460041ba3251b)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/65553a4b60b97d54b609adb031c0b622e2dcf684)
+- [ ] [<code>feat: improve ux (#2812)</code>](https://github.com/alainm23/planify/commit/9fc1aa440348a2d4003ec633f557238c611ae8fa)
+- [ ] [<code>Don't start a CalDAV sync while one is already running (#2813)</code>](https://github.com/alainm23/planify/commit/63df77f0773c3bbaccc6130bd8dfb3c59dedf14a)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20a741e05aa0f3bb57dd6f09f488cdb94eb75608)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
