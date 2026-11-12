@@ -2370,6 +2370,9 @@
 - [ ] [<code>Drop upower support</code>](https://github.com/xfce-mirror/xfce4-settings/commit/8fecc29f43c8be84e2c6a35c844a10d75918ac75)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>appearance: Add a schedule to switch the style at set times</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b2c3e76c233206083eb3b69a0709f410300426fc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>org.gnome.desktop</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
