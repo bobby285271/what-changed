@@ -623,6 +623,13 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/2fbebfe9c23e1616c828fb5e55008245d7c769dc)
 - [ ] [<code>fix: keep backup files readable by their owner only (#2814)</code>](https://github.com/alainm23/planify/commit/5eb43c9c5614c64dbe1fa6d6588955b75bb113d8)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/73430f0c3f4a054ad59cf672fc8152a600ceba2b)
+- [ ] [<code>Keep CalDAV tasks in their section when the server sends them first (#2817)</code>](https://github.com/alainm23/planify/commit/4a6c43365482b28f90553aefb068f39e0591c0b1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5bfabe9775f2b5b3ef6f53a2ac7548128280cf10)
+- [ ] [<code>fix: release navigation pages and project layouts (#2778)</code>](https://github.com/alainm23/planify/commit/082fc09cb9b5e0761fb6758762bc7591a65ab179)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/914b07452fbf8d6cba7247b3eb4cf813451267af)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
