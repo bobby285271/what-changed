@@ -361,6 +361,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clipboard-manager: Remove code relying on GtkClipboard</code>](https://github.com/xfce-mirror/libxfce4ui/commit/73db502864b3562d182f0d5559b7974568e920f4)
+- [ ] [<code>item-list-view: Use shorter button label</code>](https://github.com/xfce-mirror/libxfce4ui/commit/aad5e6129737b90cf23528ce8f9d7754ef344734)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -2373,6 +2374,8 @@
 - [ ] [<code>appearance: Add a schedule to switch the style at set times</code>](https://github.com/xfce-mirror/xfce4-settings/commit/b2c3e76c233206083eb3b69a0709f410300426fc)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>appearance: Show what each schedule rule does</code>](https://github.com/xfce-mirror/xfce4-settings/commit/043ed4d56f3ee39d449481abcf085613009e8bfb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
