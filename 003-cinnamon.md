@@ -2035,7 +2035,11 @@
 - [ ] [<code>Fix all the vala deprecated and meson warnings (#283)</code>](https://github.com/linuxmint/slick-greeter/commit/8a162ce95408e81c9ebf6df4259ede1398542111)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Keep the font-name setting working after the CSS font changes</code>](https://github.com/linuxmint/slick-greeter/commit/5ecca333436fdc1b407a56e140557ed2ff386250)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>hidpi: Lower the automatic detection limit to 144 DPI</code>](https://github.com/linuxmint/slick-greeter/commit/b99e022e3d08812872dbd2373369d81a71e726cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>2.2.8</code>](https://github.com/linuxmint/slick-greeter/commit/f4b2ccec0762dda4ad92386fd4fe1f8dbe459f06)
+  - <sub>Tags: <code>2.2.8</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
 
@@ -2055,7 +2059,16 @@
 - [ ] [<code>[WIP] Keep local hardlinks (#546)</code>](https://github.com/linuxmint/timeshift/commit/5851a7a3fb4fba1a53dfb4364a4327202afe9347)
 - [ ] [<code>AsyncTask: fix double-unref crash on teardown after completion (#552)</code>](https://github.com/linuxmint/timeshift/commit/c112e86ddfd027f33f1f13c4622a7085cddd5393)
 - [ ] [<code>Restore: Resolve a LABEL= root fstab entry and stop failing silently</code>](https://github.com/linuxmint/timeshift/commit/daf45f2387f1791a05a7ebae080d9de17922e1dc)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/1a6f9347d48d43be65c6373a70f6bb0e54e93c2f)
+- [ ] [<code>Switch symbolic icons to XSI</code>](https://github.com/linuxmint/timeshift/commit/eebf113c054a40b219f95219a2e66e8af8429b09)
+- [ ] [<code>Switch fullcolor icons to XSI</code>](https://github.com/linuxmint/timeshift/commit/042de0b97c3ea715338a1fcddbad954801586895)
+- [ ] [<code>Remove unused class</code>](https://github.com/linuxmint/timeshift/commit/ab73a384c9ee888176410863f4bd0c91b765a1e3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ui: Move settings/wizard into burger menu</code>](https://github.com/linuxmint/timeshift/commit/7414497f7f033994861cb8dc988c8aab4d1b8db6)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/e3480a7b991808a54d08c83bb395d02d6866d924)
+- [ ] [<code>26.11.0</code>](https://github.com/linuxmint/timeshift/commit/7e42ee69b7d5b3253c22fa53c7459cf4bf5321c6)
+  - <sub>Tags: <code>26.11.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
 
