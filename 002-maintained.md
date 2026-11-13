@@ -484,6 +484,8 @@
   - <sub>Tags: <code>3.0.0</code></sub>
 - [ ] [<code>Updating Flathub flatpak manifest.</code>](https://github.com/phase1geo/minder/commit/6ff078918153f501f554266d0396c8f38d27297c)
 - [ ] [<code>Updating Flathub flatpak manifest to use archived version of Lasem.</code>](https://github.com/phase1geo/minder/commit/3d3b4d56eae2f8cf1a685c040d0cc682616b8a05)
+- [ ] [<code>Adding support for drawing Markdown horizontal rules.</code>](https://github.com/phase1geo/minder/commit/769dfdf442c9ee6655bb8fc359fb97de3acb3d92)
+- [ ] [<code>Merge branch 'horizontal-rule'</code>](https://github.com/phase1geo/minder/commit/a39a3e2110b73b29583a54b1e595fbed269b8de8)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -630,6 +632,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/914b07452fbf8d6cba7247b3eb4cf813451267af)
+- [ ] [<code>Don't crash when Escape closes Quick Add with the tips popover open (#2820)</code>](https://github.com/alainm23/planify/commit/b1b8a29c87ab7b27b95373c2cb0699282baf32c0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fbbfc517317af65470cc30ad10f3631415cf8afb)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
