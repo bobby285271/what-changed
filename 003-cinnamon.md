@@ -2052,6 +2052,9 @@
 - [ ] [<code>Exclude log files from rsync snapshots by default</code>](https://github.com/linuxmint/timeshift/commit/b6060bf9b05604231417381477b39c423395bbb2)
 - [ ] [<code>Device selection: Re-check the location status instead of leaving stale</code>](https://github.com/linuxmint/timeshift/commit/cbf5dd596109f40dbf998dfe0e1e4bf307bd60ab)
 - [ ] [<code>apply patch proposed in #570 by @michaelkory (#571)</code>](https://github.com/linuxmint/timeshift/commit/3f66aaf7a4d87f3b189691702432c72790ef0369)
+- [ ] [<code>[WIP] Keep local hardlinks (#546)</code>](https://github.com/linuxmint/timeshift/commit/5851a7a3fb4fba1a53dfb4364a4327202afe9347)
+- [ ] [<code>AsyncTask: fix double-unref crash on teardown after completion (#552)</code>](https://github.com/linuxmint/timeshift/commit/c112e86ddfd027f33f1f13c4622a7085cddd5393)
+- [ ] [<code>Restore: Resolve a LABEL= root fstab entry and stop failing silently</code>](https://github.com/linuxmint/timeshift/commit/daf45f2387f1791a05a7ebae080d9de17922e1dc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
