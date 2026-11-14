@@ -1179,19 +1179,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.3...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.4...HEAD)
 
-- [ ] [<code>cinnamon: Add support for the hover-click popup</code>](https://github.com/linuxmint/mint-themes/commit/f339eea647a8c1b140763b950a78adf333aaaf41)
-- [ ] [<code>Mint-Y: Copy libadapta-1.5 into the built themes. (#558)</code>](https://github.com/linuxmint/mint-themes/commit/0319908572c8a12ef107dc0252680c17aa9b65c3)
-- [ ] [<code>Mint-Y/cinnamon: Style CheckBox2 (.check-box-2) (#559)</code>](https://github.com/linuxmint/mint-themes/commit/eea2ca4243d614e7b82db8f414198f1c82267b6f)
-- [ ] [<code>Mint-Y/build-themes.py: Use the same python shebang as the other scripts</code>](https://github.com/linuxmint/mint-themes/commit/5a09b60da35e43047e409126933bf890d01440f3)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>debian/control: Add mising build deps</code>](https://github.com/linuxmint/mint-themes/commit/d5fad6d19b6bb8783c41f1fa531f9533468e492b)
-- [ ] [<code>update-variations: Use python-rich to show progress</code>](https://github.com/linuxmint/mint-themes/commit/0ec8487cd2f361d176d18c6bcc119bca3166de06)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>Update variations</code>](https://github.com/linuxmint/mint-themes/commit/130999218c36c6498166ec7a1e779a8c7440aff7)
-- [ ] [<code>2.4.4</code>](https://github.com/linuxmint/mint-themes/commit/6c6095d69372bb91ef86c43723a0dc965d1bde6f)
-  - <sub>Tags: <code>2.4.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
@@ -1929,8 +1918,10 @@
 - [ ] [<code>Handle missing IPv4 netmask during discovery (#260)</code>](https://github.com/linuxmint/warpinator/commit/9e3ffe3c4a4407317e7d68327bab165742eed89f)
 - [ ] [<code>warpinator.py: Clear starting flag on a failed start, reset menu item</code>](https://github.com/linuxmint/warpinator/commit/ac8b439b834a27960c6bf390af9bc1b15fb9cd87)
 - [ ] [<code>2.0.6</code>](https://github.com/linuxmint/warpinator/commit/21427ec1d336bcb2506e9e4ffb0f0cc28ace47ac)
-  - <sub>Tags: <code>2.0.6</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>2.0.6</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>manual-connect.ui: Allow copy/paste of ip addresses</code>](https://github.com/linuxmint/warpinator/commit/6b995b694d0d12e5684e4efe79f39a73bfe795ef)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
