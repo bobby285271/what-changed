@@ -1491,7 +1491,10 @@
 - [ ] [<code>Revert "x11: Scale relative pointer motion by the UI scaling factor."</code>](https://github.com/linuxmint/muffin/commit/b4c8ed50a2dac4e3541f8d272674d0578dfe68ef)
 - [ ] [<code>meta-cursor-sprite-xcursor.c: Make a few tweaks to dnd icons</code>](https://github.com/linuxmint/muffin/commit/32d693a03c3a413f3c1b9831a0a04e7328dd8f4b)
 - [ ] [<code>window: Don't hide override-redirect windows in show-desktop mode</code>](https://github.com/linuxmint/muffin/commit/efaa5ade12d7721ab2d1e50a6341f0ff6267190a)
+- [ ] [<code>cogl: Detect software rendering from GL_RENDERER</code>](https://github.com/linuxmint/muffin/commit/f504625d596eb535a28c72ae2033e94ba81b17c7)
+- [ ] [<code>cogl: Remove now-unused CoglGpuInfo</code>](https://github.com/linuxmint/muffin/commit/8221e86a28855ffabc31b248fd00eb0e71738414)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1684,6 +1687,7 @@
 - [ ] [<code>nemo-view.c: Optimize the escaping argument algorithm</code>](https://github.com/linuxmint/nemo/commit/390db04056b9add0638378af7af9498ce805996f)
 - [ ] [<code>nemo-preview-video.c: Fix seek/slider behavior</code>](https://github.com/linuxmint/nemo/commit/148b0d87bd29cff2c682f00acc04642fa35e94fd)
 - [ ] [<code>nemo-icon-container.c: Refresh icons when the scale factor changes</code>](https://github.com/linuxmint/nemo/commit/24f95a9c18cbee9bee01c4985304d34ecd054304)
+- [ ] [<code>nemo-view.c: Don't act on stale filterbar text</code>](https://github.com/linuxmint/nemo/commit/41d2f77caa9ad4d75d3bfb4670df61f71cd0e3e3)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -2003,30 +2007,8 @@
 
 ## random
 
-#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.7 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.7...HEAD)
+#### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.8...HEAD)
 
-- [ ] [<code>hypnotix.py: Disable sdl video output.</code>](https://github.com/linuxmint/hypnotix/commit/5d1932c4db337eb9c0cf98af3bbfea756abdaece)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Use GDK_BACKEND environment variable to select x11 backend (#418)</code>](https://github.com/linuxmint/hypnotix/commit/b0398151a48d6bbac1ce8ee134ca47196f448af2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix missing conversion of label values to string (#432)</code>](https://github.com/linuxmint/hypnotix/commit/060fffd0661e095c31839e3795c3393dd1d22196)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Use lavf rtp demuxer for rtp:// streams (#440)</code>](https://github.com/linuxmint/hypnotix/commit/ac4928f5fbd325f1602719309e7595c67438fc99)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>fix: sync fullscreen state with WM and move GTK calls to main thread (#415)</code>](https://github.com/linuxmint/hypnotix/commit/39c68b2ab344ad2dbb370845da06d75fd0d7f1cb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update xtream.py with support for hypnotix favorites system (#429)</code>](https://github.com/linuxmint/hypnotix/commit/95b817f5ae5e76fd46bb891ebfef61c6e6357dd1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix keyboard shortcuts on Wayland sessions (#433)</code>](https://github.com/linuxmint/hypnotix/commit/b9ef60f19fcb6d1258d2437cfae4ed31ee91b5d6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix yt-dlp local switch alignment and blocking update (#436)</code>](https://github.com/linuxmint/hypnotix/commit/938d8d46e496a29b2fced5eac50ee9666552920f)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Ignore Backspace navigation if search bar has focus (#438)</code>](https://github.com/linuxmint/hypnotix/commit/3d876a745a99eaa477ea987daa6f4e4ada47b60c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix favourites button icon, tooltip and lookup (#437)</code>](https://github.com/linuxmint/hypnotix/commit/0d8990cdb949aa1b657c94e2925f6a84ce3dfb2b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>5.8</code>](https://github.com/linuxmint/hypnotix/commit/2eb032f610c8fcd230b06b49d54411e89eef770a)
-  - <sub>Tags: <code>5.8</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
 
