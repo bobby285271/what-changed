@@ -635,6 +635,10 @@
 - [ ] [<code>Don't crash when Escape closes Quick Add with the tips popover open (#2820)</code>](https://github.com/alainm23/planify/commit/b1b8a29c87ab7b27b95373c2cb0699282baf32c0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/fbbfc517317af65470cc30ad10f3631415cf8afb)
+- [ ] [<code>Remember the "Use Emoji" choice for new projects (#2821)</code>](https://github.com/alainm23/planify/commit/f1b782551964eb148f7e8b8f43dee2d3c6124413)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/bcb51841c492d424885145784ed8240d0b94267e)
+- [ ] [<code>add completed section (#2822)</code>](https://github.com/alainm23/planify/commit/a4603ace858e853698b795b561efcb805d024730)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f98206457026e7e500b44a7f0527c16155bfaa31)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
