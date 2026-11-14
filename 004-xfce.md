@@ -1761,6 +1761,7 @@
 - [ ] [<code>Fix xfconf_g_property_bind_gdkrgba deprecation warning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/db36efd1aed1cc13b212af41999fa45d6ed5eadf)
 - [ ] [<code>libxfce4panel: Add xfce_panel_gtk_show_about_dialog</code>](https://github.com/xfce-mirror/xfce4-panel/commit/04d79477bd69fa0f923c484af91317ae20075c45)
 - [ ] [<code>Fix xfce_panel_plugin_(block|unblock)_menu not appearing in docs</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d992e227eca2d2f33ea869eed9d6814d5bc32f5c)
+- [ ] [<code>libxfce4panel: Don't skip xfce_panel_gtk_show_about_dialog from vapi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd02480b7c569af980f32eca8670aba9b023d88a)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -1910,6 +1911,7 @@
 - [ ] [<code>Define `backlight_helper_get_switch` before use</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/c1557e625a78dab948b976f7e9e8e19fb7c37cae)
 - [ ] [<code>On FreeBSD `sys/user.h` requires `sys/types.h` being included before it</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/7eb6eae51695a140ffdc72b8d7406a06c5f3f223)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>backlight: Fix percentage calculation</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/76d03a6ea681a9a5c77e3b1cb53a993aca874155)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
