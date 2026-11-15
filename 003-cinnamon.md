@@ -914,8 +914,11 @@
 - [ ] [<code>libcvc: Don't crash when a card has no active profile (#280)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/0e1ee840cf564229cbe01266ed5ba4f23a160192)
 - [ ] [<code>libcvc: handle missing active port in mixer control (#278)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9450ca962244ca799d3c145f7e41bd9b0f452e66)
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4f797bcfc999cae14d8e20864761eec2598681a8)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>mixer-control: Only reset stream-id for bluetooth devices</code>](https://github.com/linuxmint/cinnamon-desktop/commit/c0ed4518ff7b5b7abc5f7710dcf8227a05bd9720)
+- [ ] [<code>mixer-control: Populate source state field</code>](https://github.com/linuxmint/cinnamon-desktop/commit/793d432f0e795cceb88d4a7bc55e8616136956c6)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
