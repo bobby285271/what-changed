@@ -2378,6 +2378,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>appearance: Show what each schedule rule does</code>](https://github.com/xfce-mirror/xfce4-settings/commit/043ed4d56f3ee39d449481abcf085613009e8bfb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>appearance-settings: Add comment to help translators</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9df57e5ec364e6d7dacce9b2e75f2c341c24078e)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
