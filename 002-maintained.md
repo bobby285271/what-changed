@@ -681,6 +681,8 @@
 - [ ] [<code>metainfo: Use appstreamcli instead of appstream-util (#455)</code>](https://github.com/ellie-commons/sequeler/commit/79a4c0d538d769f2d3afcffbf6cada98878cc86d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update project ID the old one doesn't exist (#456)</code>](https://github.com/ellie-commons/sequeler/commit/73e14a3863821677eecf82f01f947f265f36b22d)
+- [ ] [<code>Update submodule shared-modules to 785a5394b6e4</code>](https://github.com/ellie-commons/sequeler/commit/ad5fd5351e3669f848f4b19a230e3b4ec19980da)
+- [ ] [<code>postgresql-libs: Update postgresql-18.6.tar.gz to 18.7</code>](https://github.com/ellie-commons/sequeler/commit/03ce5cdbca10a3d3e7f744116d1e935a856093e6)
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
