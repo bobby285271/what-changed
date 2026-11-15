@@ -2,32 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.3 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.3...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
-- [ ] [<code>Set license type on about dialog (#87)</code>](https://github.com/linuxmint/bulky/commit/b567d90496a38891e343b67cf2356d9d15f4310f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Set prgname to application ID (#88)</code>](https://github.com/linuxmint/bulky/commit/da363493d54dd46a669303fcb90e258c44630391)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix crash when loading large file lists (#90)</code>](https://github.com/linuxmint/bulky/commit/191886b920e21d0d00869b272b9922ed25689a8e)
-  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/bulky/commit/8f9c95410ebbad6ba5be66edc0bb1b33b4b62314)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>threading: Load files asynchronously</code>](https://github.com/linuxmint/bulky/commit/82512fe428e366614b039436dc983729b7fdd734)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>thread: Load change preview asynchronously</code>](https://github.com/linuxmint/bulky/commit/67441245b460a2ecec0a844ffeba7cc891d864e1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>thread: Don't show UI changes if thread is shorter than 150ms</code>](https://github.com/linuxmint/bulky/commit/c66bac2c22adb99c65c89382d8decb442afd8917)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>threading: Rename files asynchronously</code>](https://github.com/linuxmint/bulky/commit/3c04b6f76f99b463f97780ac984d1a30a699cc7a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Make the options persistent</code>](https://github.com/linuxmint/bulky/commit/e127ea46b8cfb5c849faf3355bd18b39a5b75e26)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/bulky/commit/853bfb626ee744e6aa703213f72ac8ce2fa86e23)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.3</code>](https://github.com/linuxmint/bulky/commit/b80db4f37824e74212365395309b737fc8735419)
-  - <sub>Tags: <code>4.3</code> <code>master.lmde7</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -815,6 +791,10 @@
 - [ ] [<code>extension.js: Load require()'d modules once, natively</code>](https://github.com/linuxmint/cinnamon/commit/7751aae97d80f44eb8878d7ce8a04f98e784e595)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>network applet: fix a TypeError when a sixth Wi-Fi network appears (#14120)</code>](https://github.com/linuxmint/cinnamon/commit/4652585653770632f98f9eb73e21a7dbdb534b1c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Restore notifications for connection events</code>](https://github.com/linuxmint/cinnamon/commit/0c2d0d6a716841559c1e35d80e143475ce1bf0e0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Don't leave signal handlers connected.</code>](https://github.com/linuxmint/cinnamon/commit/9935e2adcdd2192d352bee0978d7870ebacc6f24)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -1677,6 +1657,9 @@
 - [ ] [<code>nemo-preview-video.c: Fix seek/slider behavior</code>](https://github.com/linuxmint/nemo/commit/148b0d87bd29cff2c682f00acc04642fa35e94fd)
 - [ ] [<code>nemo-icon-container.c: Refresh icons when the scale factor changes</code>](https://github.com/linuxmint/nemo/commit/24f95a9c18cbee9bee01c4985304d34ecd054304)
 - [ ] [<code>nemo-view.c: Don't act on stale filterbar text</code>](https://github.com/linuxmint/nemo/commit/41d2f77caa9ad4d75d3bfb4670df61f71cd0e3e3)
+- [ ] [<code>file-operations: Pace copies to removable and network destinations (#3881)</code>](https://github.com/linuxmint/nemo/commit/a82b9fc3b17e308b3f91eb761913de903e428f05)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>progress info: free the condition variable and the mutex on finalize (#3877)</code>](https://github.com/linuxmint/nemo/commit/7df652f2de924f821dd5325564ad6ef38ac0ae6c)
   - <sub>Tags: <code>master.mint27</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -1904,22 +1887,11 @@
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.11 → HEAD](https://github.com/linuxmint/pix/compare/3.4.11...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.12 → HEAD](https://github.com/linuxmint/pix/compare/3.4.12...HEAD)
 
-- [ ] [<code>image-viewer: Add equal, KP_Add and KP_Subtract keys for image-zoom (#245)</code>](https://github.com/linuxmint/pix/commit/f2a1a1d8a970bf6764c4cb7447427ddac869658a)
-- [ ] [<code>3.4.12</code>](https://github.com/linuxmint/pix/commit/25f0a7b5ef00922b79a67f0a804ff534d7370229)
-  - <sub>Tags: <code>3.4.12</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.5 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.5...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.6 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.6...HEAD)
 
-- [ ] [<code>remote_registration.py: Fix TypeError when logging a failed cert request (#262)</code>](https://github.com/linuxmint/warpinator/commit/41ace3399be31d81d892680c10d8002e5f9817bd)
-- [ ] [<code>Fix invalid IPv6 fallback address (#258)</code>](https://github.com/linuxmint/warpinator/commit/2c77be4618fa56e31d91bd55b9abb77c994b878d)
-- [ ] [<code>Handle missing IPv4 netmask during discovery (#260)</code>](https://github.com/linuxmint/warpinator/commit/9e3ffe3c4a4407317e7d68327bab165742eed89f)
-- [ ] [<code>warpinator.py: Clear starting flag on a failed start, reset menu item</code>](https://github.com/linuxmint/warpinator/commit/ac8b439b834a27960c6bf390af9bc1b15fb9cd87)
-- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/warpinator/commit/21427ec1d336bcb2506e9e4ffb0f0cc28ace47ac)
-  - <sub>Tags: <code>2.0.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>manual-connect.ui: Allow copy/paste of ip addresses</code>](https://github.com/linuxmint/warpinator/commit/6b995b694d0d12e5684e4efe79f39a73bfe795ef)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
@@ -2001,47 +1973,14 @@
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.8...HEAD)
 
 
-#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.7 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.7...HEAD)
+#### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.8 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.8...HEAD)
 
-- [ ] [<code>settings: Read xft-dpi from slick-greeter.conf as a double (#293)</code>](https://github.com/linuxmint/slick-greeter/commit/83945b1af05eb2aa050aaa3641a2cba5c3a53696)
-- [ ] [<code>Use the font-name setting for the greeter's own labels (#294)</code>](https://github.com/linuxmint/slick-greeter/commit/9e333c1dd7bba5a1389c87fcfa4120e26ddae690)
-- [ ] [<code>Fix all the vala deprecated and meson warnings (#283)</code>](https://github.com/linuxmint/slick-greeter/commit/8a162ce95408e81c9ebf6df4259ede1398542111)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Keep the font-name setting working after the CSS font changes</code>](https://github.com/linuxmint/slick-greeter/commit/5ecca333436fdc1b407a56e140557ed2ff386250)
-- [ ] [<code>hidpi: Lower the automatic detection limit to 144 DPI</code>](https://github.com/linuxmint/slick-greeter/commit/b99e022e3d08812872dbd2373369d81a71e726cf)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>2.2.8</code>](https://github.com/linuxmint/slick-greeter/commit/f4b2ccec0762dda4ad92386fd4fe1f8dbe459f06)
-  - <sub>Tags: <code>2.2.8</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
 
 
-#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.09.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.09.0...HEAD)
+#### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.11.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.11.0...HEAD)
 
-- [ ] [<code>Update README.md (#526)</code>](https://github.com/linuxmint/timeshift/commit/0c311a4775a811f26df1162516f6b5ab93577acf)
-- [ ] [<code>Silence the async script status write after TEMP_DIR is removed</code>](https://github.com/linuxmint/timeshift/commit/05dbf78678629e1644115864a6b8420f42fe7ffe)
-- [ ] [<code>dont abort on page change (#513)</code>](https://github.com/linuxmint/timeshift/commit/66845332fb8ec6ba0b3bc5bae5d5bcfa63a75537)
-- [ ] [<code>Tags as enum (#493)</code>](https://github.com/linuxmint/timeshift/commit/a6946c98e7189fdc79292b6c5f6441b4a4449d4d)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>commandline</code></sub>
-- [ ] [<code>Ensure default filters take priority over user accounts (#547)</code>](https://github.com/linuxmint/timeshift/commit/dd1d84582437434657c7571bdaa3670b94d6b059)
-- [ ] [<code>Exclude log files from rsync snapshots by default</code>](https://github.com/linuxmint/timeshift/commit/b6060bf9b05604231417381477b39c423395bbb2)
-- [ ] [<code>Device selection: Re-check the location status instead of leaving stale</code>](https://github.com/linuxmint/timeshift/commit/cbf5dd596109f40dbf998dfe0e1e4bf307bd60ab)
-- [ ] [<code>apply patch proposed in #570 by @michaelkory (#571)</code>](https://github.com/linuxmint/timeshift/commit/3f66aaf7a4d87f3b189691702432c72790ef0369)
-- [ ] [<code>[WIP] Keep local hardlinks (#546)</code>](https://github.com/linuxmint/timeshift/commit/5851a7a3fb4fba1a53dfb4364a4327202afe9347)
-- [ ] [<code>AsyncTask: fix double-unref crash on teardown after completion (#552)</code>](https://github.com/linuxmint/timeshift/commit/c112e86ddfd027f33f1f13c4622a7085cddd5393)
-- [ ] [<code>Restore: Resolve a LABEL= root fstab entry and stop failing silently</code>](https://github.com/linuxmint/timeshift/commit/daf45f2387f1791a05a7ebae080d9de17922e1dc)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/1a6f9347d48d43be65c6373a70f6bb0e54e93c2f)
-- [ ] [<code>Switch symbolic icons to XSI</code>](https://github.com/linuxmint/timeshift/commit/eebf113c054a40b219f95219a2e66e8af8429b09)
-- [ ] [<code>Switch fullcolor icons to XSI</code>](https://github.com/linuxmint/timeshift/commit/042de0b97c3ea715338a1fcddbad954801586895)
-- [ ] [<code>Remove unused class</code>](https://github.com/linuxmint/timeshift/commit/ab73a384c9ee888176410863f4bd0c91b765a1e3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ui: Move settings/wizard into burger menu</code>](https://github.com/linuxmint/timeshift/commit/7414497f7f033994861cb8dc988c8aab4d1b8db6)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/timeshift/commit/e3480a7b991808a54d08c83bb395d02d6866d924)
-- [ ] [<code>26.11.0</code>](https://github.com/linuxmint/timeshift/commit/7e42ee69b7d5b3253c22fa53c7459cf4bf5321c6)
-  - <sub>Tags: <code>26.11.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
 
