@@ -1703,6 +1703,8 @@
 - [ ] [<code>Try 64mb (#936)</code>](https://github.com/elementary/os/commit/2993aef6d1d2f3112bb80e2cf4e631e1dd142901)
 - [ ] [<code>Add tmpfile dir for netplan (#938)</code>](https://github.com/elementary/os/commit/e8bf9d3da0aa297e70e296a4b5f161a79480d7e7)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix typo in repart conf name (#941)</code>](https://github.com/elementary/os/commit/e8c74d41fa7a60ce430373b6b7dd07b026e35779)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
