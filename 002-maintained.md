@@ -639,6 +639,8 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/bcb51841c492d424885145784ed8240d0b94267e)
 - [ ] [<code>add completed section (#2822)</code>](https://github.com/alainm23/planify/commit/a4603ace858e853698b795b561efcb805d024730)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f98206457026e7e500b44a7f0527c16155bfaa31)
+- [ ] [<code>Defer loading task detail payloads until accessed (#2773)</code>](https://github.com/alainm23/planify/commit/d6966e53e8b6d4bcb35808d9489a8bedc87e7740)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c3b840510c00f46e1b37ff2518c91f05b1ec6a17)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
