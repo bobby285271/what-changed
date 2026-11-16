@@ -4,6 +4,12 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.3 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.3...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/bd413dea1dcf8fc943513615fc85ee833ccbfb72)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/7026b4172f4361d493eabb5cd223cf660f58b191)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.4</code>](https://github.com/linuxmint/bulky/commit/7be9bdd52f74f5d5a16b44c72a82419952003a91)
+  - <sub>Tags: <code>4.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -795,8 +801,10 @@
 - [ ] [<code>network applet: Restore notifications for connection events</code>](https://github.com/linuxmint/cinnamon/commit/0c2d0d6a716841559c1e35d80e143475ce1bf0e0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>network applet: Don't leave signal handlers connected.</code>](https://github.com/linuxmint/cinnamon/commit/9935e2adcdd2192d352bee0978d7870ebacc6f24)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon/commit/88a5f70cd625bc318ede9b949dc970b1a8b18ebc)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -918,7 +926,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>mixer-control: Only reset stream-id for bluetooth devices</code>](https://github.com/linuxmint/cinnamon-desktop/commit/c0ed4518ff7b5b7abc5f7710dcf8227a05bd9720)
 - [ ] [<code>mixer-control: Populate source state field</code>](https://github.com/linuxmint/cinnamon-desktop/commit/793d432f0e795cceb88d4a7bc55e8616136956c6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e8066dc2bfb7d115636516f3ec2ed76be4ecc088)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -1136,22 +1146,34 @@
   - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-media-keys-manager.c: Skip osd dbus call when they're disabled</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/453413f4be66b78b3367893ad7aa9d4cec770554)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4586361a08bc42caf7de79f2fe6ac25b99e7bf07)
+  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/4c6410d84dbe5b75badc9e7f36993707be96ba2c)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/4a70f48c5a1fb88427fb58925d410950e168ae98)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/6165c19f7101121c826738999abaa7e222dc1c23)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.2 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.2...HEAD)
 
 - [ ] [<code>importer: Fix lexical module properties and xlet reloading</code>](https://github.com/linuxmint/cjs/commit/051561c1d4283f420170c0f8df4ac5d9dc82851f)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>140.3</code>](https://github.com/linuxmint/cjs/commit/1128309b91c41a04c10e1a3fa5eaacd8088344a8)
+  - <sub>Tags: <code>140.3</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/c2c02bc2a7a9941dbf6e6116f01405e36484ef8b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.2</code>](https://github.com/linuxmint/folder-color-switcher/commit/7cd1a730c8c5df4a901eb2e4549d4e35c5e04b7d)
 
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
@@ -1465,8 +1487,14 @@
 - [ ] [<code>window: Don't hide override-redirect windows in show-desktop mode</code>](https://github.com/linuxmint/muffin/commit/efaa5ade12d7721ab2d1e50a6341f0ff6267190a)
 - [ ] [<code>cogl: Detect software rendering from GL_RENDERER</code>](https://github.com/linuxmint/muffin/commit/f504625d596eb535a28c72ae2033e94ba81b17c7)
 - [ ] [<code>cogl: Remove now-unused CoglGpuInfo</code>](https://github.com/linuxmint/muffin/commit/8221e86a28855ffabc31b248fd00eb0e71738414)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/muffin/commit/d514eab4f9e3903a4c740aa99bfd11c0a88b9f45)
+  - <sub>Tags: <code>6.8.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Avoid a race in wl_seat capabilities</code>](https://github.com/linuxmint/muffin/commit/9ffc425a0f9231a60b2b4ead7ce0862c26c946a7)
+- [ ] [<code>events.c: Always let crossing events through to Clutter.</code>](https://github.com/linuxmint/muffin/commit/68ce905cac611ad13c430f88c78729e59d06f1a4)
+- [ ] [<code>udev: Accept the DRM boot_display attribute as well as boot_vga</code>](https://github.com/linuxmint/muffin/commit/253ab284dd67a974f8e8eb1c65c9411f25f4c6f5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1663,7 +1691,9 @@
 - [ ] [<code>file-operations: Pace copies to removable and network destinations (#3881)</code>](https://github.com/linuxmint/nemo/commit/a82b9fc3b17e308b3f91eb761913de903e428f05)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>progress info: free the condition variable and the mutex on finalize (#3877)</code>](https://github.com/linuxmint/nemo/commit/7df652f2de924f821dd5325564ad6ef38ac0ae6c)
-  - <sub>Tags: <code>master.mint27</code></sub>
+- [ ] [<code>6.8.4</code>](https://github.com/linuxmint/nemo/commit/a1346a11bc4e1e1edb9a369f0dfdb6ce5111d8ee)
+  - <sub>Tags: <code>6.8.4</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1709,6 +1739,11 @@
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/d97200419e91104c645e2b4739bb98ca363566ed)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1754,6 +1789,11 @@
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/d97200419e91104c645e2b4739bb98ca363566ed)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1799,6 +1839,11 @@
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/d97200419e91104c645e2b4739bb98ca363566ed)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1844,6 +1889,11 @@
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/d97200419e91104c645e2b4739bb98ca363566ed)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1889,14 +1939,27 @@
 - [ ] [<code>nemo-media-columns: Skip unsupported files.</code>](https://github.com/linuxmint/nemo-extensions/commit/0655059cabdf6efa087e5763eafc9475fd0537ea)
 - [ ] [<code>nemo-terminal: Adapt to widget layout changes in nemo 6.8</code>](https://github.com/linuxmint/nemo-extensions/commit/c3e1369dba41dd223d86963d6ccd7da64d7e1bd6)
 - [ ] [<code>nemo-python: Release the GIL after loading extensions</code>](https://github.com/linuxmint/nemo-extensions/commit/7063301ff93d7bf230d27514e785d30beb06d7f8)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/d97200419e91104c645e2b4739bb98ca363566ed)
+  - <sub>Tags: <code>6.8.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.12 → HEAD](https://github.com/linuxmint/pix/compare/3.4.12...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/0eedcbfa2fd1afec85cc304774b1edbabf296c4d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>3.4.13</code>](https://github.com/linuxmint/pix/commit/fe6f7430c482298db339c3b1041fb2ead871c8b8)
+  - <sub>Tags: <code>3.4.13</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.6 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.6...HEAD)
 
 - [ ] [<code>manual-connect.ui: Allow copy/paste of ip addresses</code>](https://github.com/linuxmint/warpinator/commit/6b995b694d0d12e5684e4efe79f39a73bfe795ef)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/2bc5070973aca5f8af0991c00703443513924d39)
+- [ ] [<code>2.0.7</code>](https://github.com/linuxmint/warpinator/commit/5968e3a466ead5efefb92bed473a6bdd9c131aa8)
+  - <sub>Tags: <code>2.0.7</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
@@ -1964,29 +2027,71 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xapp-gtk-window: Re-bind the Wayland xapp_surface after hide/show</code>](https://github.com/linuxmint/xapp/commit/84df382d94eb55f2e29f5759eed4c569b39c1627)
 - [ ] [<code>xapp-status-icon.c: Take a ref on the dummy window for the popup event</code>](https://github.com/linuxmint/xapp/commit/c445c22d4970f748b50c4337a2acc60e9e6c9002)
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/4d5aee3c6d952e96e218681bbd8943b78c0323f6)
+- [ ] [<code>3.4.1</code>](https://github.com/linuxmint/xapp/commit/97e2a3ab7f6092ec954a99f15bc7bf9a2f2ce070)
+  - <sub>Tags: <code>3.4.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>gpu-offload-helper: Pick a default GPU when switcheroo reports none</code>](https://github.com/linuxmint/xapp/commit/59886c20babb81eaf582523d365fcb52b61283e2)
+- [ ] [<code>gpu-offload-helper: Fix duplicate offload entries and init error paths</code>](https://github.com/linuxmint/xapp/commit/6db06840282be0e00b56917dfd27555b90f6df35)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.10 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.10...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/6ffad3e4b9ccee280a0b30f98b6da126ab5a242f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>4.6.11</code>](https://github.com/linuxmint/xreader/commit/95ed6b770d1b4f5ac3f7f2702bc22376a10b9cf2)
+  - <sub>Tags: <code>4.6.11</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.18 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.18...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/1c3bce47fadf7b9b7ae081d4b786685a9af9a173)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>3.4.19</code>](https://github.com/linuxmint/xviewer/commit/e403b70783db88ef1688fd9c0ab7889e62f438f6)
+  - <sub>Tags: <code>3.4.19</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 ## random
 
 #### [hypnotix](https://github.com/linuxmint/hypnotix): [refs/tags/5.8 → HEAD](https://github.com/linuxmint/hypnotix/compare/refs/tags/5.8...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/hypnotix/commit/fa13f4578e470e654356ce86d8503cb9f5e03812)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/hypnotix/commit/511b4f1bccbcc1c3c32967e698970cf946787d3b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>5.9</code>](https://github.com/linuxmint/hypnotix/commit/bdbcff0e83dd80fa691947cf583ce36776d4b5d6)
+  - <sub>Tags: <code>5.9</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [lightdm-slick-greeter](https://github.com/linuxmint/slick-greeter): [2.2.8 → HEAD](https://github.com/linuxmint/slick-greeter/compare/2.2.8...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/460846fb155169d5644731082e9f21f6fd599ce0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>2.2.9</code>](https://github.com/linuxmint/slick-greeter/commit/77e5d463ceb5edf7e2a15779088910f02f73773a)
+  - <sub>Tags: <code>2.2.9</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/sticky/commit/88e5ee020476ac31f313185c3d42e8b1fa1a90e2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.34</code>](https://github.com/linuxmint/sticky/commit/92bbb00b8c000da47dad9d50839edda073b4301b)
+  - <sub>Tags: <code>1.34</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [timeshift-unwrapped](https://github.com/linuxmint/timeshift): [refs/tags/26.11.0 → HEAD](https://github.com/linuxmint/timeshift/compare/refs/tags/26.11.0...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/timeshift/commit/4ca40a6d3c41feab77bf1c7b801363f350114ec3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>26.11.1</code>](https://github.com/linuxmint/timeshift/commit/946f019a641b5fd3a5a1eab428bbd6699d5ec963)
+  - <sub>Tags: <code>26.11.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xed-editor](https://github.com/linuxmint/xed): [3.9.1 → HEAD](https://github.com/linuxmint/xed/compare/3.9.1...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xed/commit/53e14a1a85719ba841ea61c504591b2bd81f5cbe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>3.9.2</code>](https://github.com/linuxmint/xed/commit/29a39449863146950633fdcf91f6d3ad5b42bfa9)
+  - <sub>Tags: <code>3.9.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
@@ -2018,18 +2123,40 @@
 - [ ] [<code>Simplify AppChooser</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/71e75fc1d8b448ef870677b8946a5043a1b588d8)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2e43d38f661bfdb8cfc10a861414e5d61e414553)
 - [ ] [<code>1.2.0</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/e153267fd1668a1b4dcacf5aa7171e5826ff6b18)
-  - <sub>Tags: <code>1.2.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>1.2.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/74057e09a9180d2447a040eea158ac38757cf3ab)
+- [ ] [<code>1.2.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/37e9a069c6c877e699c86ac53807b835ecb5cb9d)
+  - <sub>Tags: <code>1.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix debian build</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/e01f0b5ce4f8f3a270ad193e16e8563f51c1c633)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.2.2</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d9b96d0e43b0c88aaacfd5ade2d96cbd26932b38)
+  - <sub>Tags: <code>1.2.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 ## xapp-project
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/ce19a8c6288da2be689f7528ad9b814beedf7002)
+- [ ] [<code>3.50.12</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a356874606b6f9512d4fc20f5cd7002506e96f36)
+  - <sub>Tags: <code>3.50.12</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/superlight/commit/c03833780d7df417f56264e99dc3bcc032b74d93)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>1.0.3</code>](https://github.com/xapp-project/superlight/commit/c74724fede5dc92aa3a40df77f5c51f863dd2a01)
+  - <sub>Tags: <code>1.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.2...HEAD)
 
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.3 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.3...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/xepub/commit/6c23ceb787e2e6e8ce4adde330ae001417a6d910)
+- [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xepub/commit/323047ebe882b35b872faee1d46e0f336904f82b)
+  - <sub>Tags: <code>1.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
