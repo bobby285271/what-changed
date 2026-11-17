@@ -15,6 +15,9 @@
 - [ ] [<code>SearchListItem: use Granite.ListItem and HeaderLabel (#2448)</code>](https://github.com/elementary/appcenter/commit/03bf439b4ed2bad58f2e0ca8fbd1a3503b9e64c4)
 - [ ] [<code>Fix: activated row url open action (#2452)</code>](https://github.com/elementary/appcenter/commit/ec1541798ae358d5bf0b906ba6f46e18bd941108)
 - [ ] [<code>FlatpakBackend: Fix --load-local results segfault (#2454)</code>](https://github.com/elementary/appcenter/commit/a2ddd36046e60fca49172d1f7fba87ad180c1122)
+- [ ] [<code>FlatpakBackend: Don't use remote from two threads (#2456)</code>](https://github.com/elementary/appcenter/commit/f1c759c71154d655d6598cf2bef69c6ee22f9b1b)
+- [ ] [<code>Introduce ComponentStore (#2457)</code>](https://github.com/elementary/appcenter/commit/4241077d1748d15a3661a3abc2ed4f0cb40e7bc2)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [9.0.0 → HEAD](https://github.com/elementary/calculator/compare/9.0.0...HEAD)
 
