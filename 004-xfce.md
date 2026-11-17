@@ -362,6 +362,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>clipboard-manager: Remove code relying on GtkClipboard</code>](https://github.com/xfce-mirror/libxfce4ui/commit/73db502864b3562d182f0d5559b7974568e920f4)
 - [ ] [<code>item-list-view: Use shorter button label</code>](https://github.com/xfce-mirror/libxfce4ui/commit/aad5e6129737b90cf23528ce8f9d7754ef344734)
+- [ ] [<code>clipboard-manager: Introduce abstract class</code>](https://github.com/xfce-mirror/libxfce4ui/commit/802202f6f2faa7a6b3fb97fa8b6dcd1adcbe8136)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
