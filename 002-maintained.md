@@ -641,6 +641,14 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f98206457026e7e500b44a7f0527c16155bfaa31)
 - [ ] [<code>Defer loading task detail payloads until accessed (#2773)</code>](https://github.com/alainm23/planify/commit/d6966e53e8b6d4bcb35808d9489a8bedc87e7740)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c3b840510c00f46e1b37ff2518c91f05b1ec6a17)
+- [ ] [<code>Add a timeout to network requests so a stuck sync can recover (#2826)</code>](https://github.com/alainm23/planify/commit/970ff3cc79f68ba1a4593eeed0e4fb65e0332902)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8dfe1396b6b9b916cc820bd2f9decafdffef023a)
+- [ ] [<code>add deadline button (#2827)</code>](https://github.com/alainm23/planify/commit/e5538fe980ca07d6066584279ed5f1dff26aef58)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/03c2de153807ea57ffeaac90d38b83324c84965e)
+- [ ] [<code>add deadline filter (#2828)</code>](https://github.com/alainm23/planify/commit/3bf5c32d4190c1d09039c35a1c9adc6001afaa5e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e6066778e060bcdc0fc443306a7492a52c80d1b7)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
