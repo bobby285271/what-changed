@@ -806,7 +806,11 @@
   - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>popupDialog.js: Return focus to the default window on close.</code>](https://github.com/linuxmint/cinnamon/commit/b8d58a7d231a1bfa1e1844c31d66b273fca8bf36)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+- [ ] [<code>cs_calendar.py: Don't keep a timezone change that wasn't applied.</code>](https://github.com/linuxmint/cinnamon/commit/7144c7f8498e9583185dd1b600bf660b751479ae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon/commit/7119678a7db3e760af04dfe23a2bb6233cf4fbf1)
+  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1500,7 +1504,10 @@
   - <sub>Tags: <code>6.8.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>events.c: Let window frames see crossing events again.</code>](https://github.com/linuxmint/muffin/commit/8d8a9c2c4f72233ed8a2ebb9ef9780e870f73859)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>wayland: Cancel selection sources that are set while unfocused</code>](https://github.com/linuxmint/muffin/commit/7cafa96578f6ad6088341029bbe4b15430379715)
+- [ ] [<code>6.8.4</code>](https://github.com/linuxmint/muffin/commit/610c5eb7d54c1a12fb2657ed993acb035319bddd)
+  - <sub>Tags: <code>6.8.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -2074,7 +2081,12 @@
 - [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/slick-greeter/commit/460846fb155169d5644731082e9f21f6fd599ce0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>2.2.9</code>](https://github.com/linuxmint/slick-greeter/commit/77e5d463ceb5edf7e2a15779088910f02f73773a)
-  - <sub>Tags: <code>2.2.9</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>2.2.9</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix text color in menubar</code>](https://github.com/linuxmint/slick-greeter/commit/5cadb0be8424e95fd05a1ea08ea047bc5e7da40f)
+- [ ] [<code>Session selector: Always close the menu after selection</code>](https://github.com/linuxmint/slick-greeter/commit/1b4c53cb8740e996e183dc18d1f14d2a094dfb0b)
+- [ ] [<code>2.2.10</code>](https://github.com/linuxmint/slick-greeter/commit/054790ac1fb8fd93bc4178b3160d075cecdf6937)
+  - <sub>Tags: <code>2.2.10</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
@@ -2167,4 +2179,8 @@
 - [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/xepub/commit/6c23ceb787e2e6e8ce4adde330ae001417a6d910)
 - [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xepub/commit/323047ebe882b35b872faee1d46e0f336904f82b)
   - <sub>Tags: <code>1.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>menu: Move to accessories</code>](https://github.com/xapp-project/xepub/commit/34283d54dbf30d3c344704177c97c33bd449ec3b)
+- [ ] [<code>1.0.5</code>](https://github.com/xapp-project/xepub/commit/a608a902b28d6df44d734a0707b1d6ee5fe9c6d5)
+  - <sub>Tags: <code>1.0.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
