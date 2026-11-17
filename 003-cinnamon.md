@@ -803,8 +803,10 @@
 - [ ] [<code>network applet: Don't leave signal handlers connected.</code>](https://github.com/linuxmint/cinnamon/commit/9935e2adcdd2192d352bee0978d7870ebacc6f24)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon/commit/88a5f70cd625bc318ede9b949dc970b1a8b18ebc)
-  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>popupDialog.js: Return focus to the default window on close.</code>](https://github.com/linuxmint/cinnamon/commit/b8d58a7d231a1bfa1e1844c31d66b273fca8bf36)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1494,6 +1496,10 @@
 - [ ] [<code>wayland: Avoid a race in wl_seat capabilities</code>](https://github.com/linuxmint/muffin/commit/9ffc425a0f9231a60b2b4ead7ce0862c26c946a7)
 - [ ] [<code>events.c: Always let crossing events through to Clutter.</code>](https://github.com/linuxmint/muffin/commit/68ce905cac611ad13c430f88c78729e59d06f1a4)
 - [ ] [<code>udev: Accept the DRM boot_display attribute as well as boot_vga</code>](https://github.com/linuxmint/muffin/commit/253ab284dd67a974f8e8eb1c65c9411f25f4c6f5)
+- [ ] [<code>6.8.3</code>](https://github.com/linuxmint/muffin/commit/0c8b3ae25e774a00fd087e2b5ac5b31842a703e3)
+  - <sub>Tags: <code>6.8.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>events.c: Let window frames see crossing events again.</code>](https://github.com/linuxmint/muffin/commit/8d8a9c2c4f72233ed8a2ebb9ef9780e870f73859)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -2033,7 +2039,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>gpu-offload-helper: Pick a default GPU when switcheroo reports none</code>](https://github.com/linuxmint/xapp/commit/59886c20babb81eaf582523d365fcb52b61283e2)
 - [ ] [<code>gpu-offload-helper: Fix duplicate offload entries and init error paths</code>](https://github.com/linuxmint/xapp/commit/6db06840282be0e00b56917dfd27555b90f6df35)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>3.4.2</code>](https://github.com/linuxmint/xapp/commit/0497f0be39de9f1453ec73fde1faa8c3f3f76005)
+  - <sub>Tags: <code>3.4.2</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.10 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.10...HEAD)
 
