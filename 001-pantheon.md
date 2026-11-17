@@ -1708,6 +1708,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix typo in repart conf name (#941)</code>](https://github.com/elementary/os/commit/e8c74d41fa7a60ce430373b6b7dd07b026e35779)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix initial kernel name (#942)</code>](https://github.com/elementary/os/commit/7c6b5f63f4ab4c6872f8fbe8d15f4bfdbce7701d)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
