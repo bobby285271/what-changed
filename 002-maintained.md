@@ -649,6 +649,11 @@
 - [ ] [<code>add deadline filter (#2828)</code>](https://github.com/alainm23/planify/commit/3bf5c32d4190c1d09039c35a1c9adc6001afaa5e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/e6066778e060bcdc0fc443306a7492a52c80d1b7)
+- [ ] [<code>fix recurring task deadline (#2829)</code>](https://github.com/alainm23/planify/commit/f3466e5a7e5f2bcdad058e1a36a9d3255079672d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/50190d292c33ca81d48ac2d7a4eb8dfe5c483749)
+- [ ] [<code>Never send or store an invalid Todoist sync token (#2830)</code>](https://github.com/alainm23/planify/commit/557920fcb8233ca04bbe0141d0bd393dcc21d368)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/635b46b9e2aac3be2c6fe6bc6a01732f1d2ce6c9)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
