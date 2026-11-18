@@ -2504,6 +2504,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfconf/commit/4b91531699777239dd06695801acebab38f03464)
 - [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfconf/commit/6c1978de0ff9674eaf597fea6333263b6c2a6bce)
+- [ ] [<code>Don't clobber symlinks to channel XML files</code>](https://github.com/xfce-mirror/xfconf/commit/e53d6276c642afce3cf8fa48ca66dbc2dd04d9ad)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfdesktop](https://github.com/xfce-mirror/xfdesktop): [xfdesktop-4.20.0 → HEAD](https://github.com/xfce-mirror/xfdesktop/compare/xfdesktop-4.20.0...HEAD)
 
