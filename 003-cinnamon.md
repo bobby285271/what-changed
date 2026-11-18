@@ -2,14 +2,8 @@
 ## cinnamon
 > For mint-artwork check updates manually.
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.3 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.3...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.4 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.4...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/bd413dea1dcf8fc943513615fc85ee833ccbfb72)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/7026b4172f4361d493eabb5cd223cf660f58b191)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.4</code>](https://github.com/linuxmint/bulky/commit/7be9bdd52f74f5d5a16b44c72a82419952003a91)
-  - <sub>Tags: <code>4.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.9 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.9...HEAD)
 
@@ -809,8 +803,11 @@
 - [ ] [<code>cs_calendar.py: Don't keep a timezone change that wasn't applied.</code>](https://github.com/linuxmint/cinnamon/commit/7144c7f8498e9583185dd1b600bf660b751479ae)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon/commit/7119678a7db3e760af04dfe23a2bb6233cf4fbf1)
-  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>favorite-apps: Switch from gnome-calendar to Clockenstein</code>](https://github.com/linuxmint/cinnamon/commit/1846d86ed2665da0cc04f175d330ab56045619b2)
+- [ ] [<code>screensaver: Fix activation with no monitors connected</code>](https://github.com/linuxmint/cinnamon/commit/912a941c4143febe92e3c0712557d0d7e472c73e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1506,8 +1503,12 @@
 - [ ] [<code>events.c: Let window frames see crossing events again.</code>](https://github.com/linuxmint/muffin/commit/8d8a9c2c4f72233ed8a2ebb9ef9780e870f73859)
 - [ ] [<code>wayland: Cancel selection sources that are set while unfocused</code>](https://github.com/linuxmint/muffin/commit/7cafa96578f6ad6088341029bbe4b15430379715)
 - [ ] [<code>6.8.4</code>](https://github.com/linuxmint/muffin/commit/610c5eb7d54c1a12fb2657ed993acb035319bddd)
-  - <sub>Tags: <code>6.8.4</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-wayland-keyboard.c: Use the correct schema for repeat settings</code>](https://github.com/linuxmint/muffin/commit/8c6b428154c04be44231e52dc23f39f481ae1d20)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>window.c: Add some more entries for terminal window matching.</code>](https://github.com/linuxmint/muffin/commit/501023670a38d6a44226a48bb4ced322f90b8bc3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -2156,12 +2157,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 ## xapp-project
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.11 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.11...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.12 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.12...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/ce19a8c6288da2be689f7528ad9b814beedf7002)
-- [ ] [<code>3.50.12</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a356874606b6f9512d4fc20f5cd7002506e96f36)
-  - <sub>Tags: <code>3.50.12</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [superlight](https://github.com/xapp-project/superlight): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/superlight/compare/refs/tags/1.0.2...HEAD)
 
@@ -2174,12 +2171,8 @@
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.2...HEAD)
 
 
-#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.3 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.3...HEAD)
+#### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.4 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.4...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/xepub/commit/6c23ceb787e2e6e8ce4adde330ae001417a6d910)
-- [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xepub/commit/323047ebe882b35b872faee1d46e0f336904f82b)
-  - <sub>Tags: <code>1.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>menu: Move to accessories</code>](https://github.com/xapp-project/xepub/commit/34283d54dbf30d3c344704177c97c33bd449ec3b)
 - [ ] [<code>1.0.5</code>](https://github.com/xapp-project/xepub/commit/a608a902b28d6df44d734a0707b1d6ee5fe9c6d5)
   - <sub>Tags: <code>1.0.5</code></sub>
