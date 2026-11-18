@@ -832,6 +832,8 @@
 - [ ] [<code>tests: Add a simple barrier test</code>](https://github.com/elementary/gala/commit/30a8100029db93cb04fd65e89e01d904102458a7)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>SessionManager: call EndSessionDialog asynchronously</code>](https://github.com/elementary/gala/commit/0fa3daaa43ac8c832952d45acb558266d96bd3db)
+- [ ] [<code>Introduce a BrightnessManager (#2916)</code>](https://github.com/elementary/gala/commit/dc8889fd2975fa0eb4282d26a119bfa479735b6d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -947,6 +949,7 @@
 - [ ] [<code>Use start-here-symbolic icon instead (#719)</code>](https://github.com/elementary/applications-menu/commit/7a0e455d57c6b285bec74e6f3f64286bcf109391)
 - [ ] [<code>SlingshotView: Fix activating search results with enter (#721)</code>](https://github.com/elementary/applications-menu/commit/0b152385a65de55b533fc13e406ee6d32910942a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Indicator: use Granite.Box for display widget (#727)</code>](https://github.com/elementary/applications-menu/commit/cd14bd318e57620972e7bede719dc926337b1019)
 
 #### [pantheon.wingpanel-indicator-a11y](https://github.com/elementary/wingpanel-indicator-a11y): [1.0.2 → HEAD](https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.2...HEAD)
 
@@ -1261,6 +1264,9 @@
 - [ ] [<code>Icons: resource 24px power placeholder (#303)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/ce0de8bbc60802d5cbc5e046891e55b1b20435fa)
 - [ ] [<code>Fix compilation errors on new Vala (#304)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/f8baf7a1d35d1a18a271dd752acbcbf23657ae8a)
 - [ ] [<code>Use new ServerType enum (#305)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/e05723d8cba82b596a5efc259b4e0d15ad9a2bc4)
+- [ ] [<code>DeviceManager: use gala's brightness interface (#301)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d17362e97d15e01b3edb7083da1afc1b1b7180c4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
