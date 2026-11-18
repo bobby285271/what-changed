@@ -2101,6 +2101,8 @@
 - [ ] [<code>Fix gvfsd not inhering SSH_AUTH_SOCK</code>](https://github.com/xfce-mirror/xfce4-session/commit/bdbb37af1a39e9c058d1d22c3a4cb4ac1e3e58d5)
 - [ ] [<code>Silence deprecation warnings</code>](https://github.com/xfce-mirror/xfce4-session/commit/767753cf62586c17e841f36fa62f75fc870310a3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Close XSMP client on disconnect in all manager states</code>](https://github.com/xfce-mirror/xfce4-session/commit/61548120722600c1383b4488a023838c58bc6420)
+- [ ] [<code>Don't allow DBus UnregisterClient on an XSMP client</code>](https://github.com/xfce-mirror/xfce4-session/commit/e85b75a530cee3d2b6d3df1c1ee4a8322239c0ed)
 
 #### [xfce4-settings](https://github.com/xfce-mirror/xfce4-settings): [xfce4-settings-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-settings/compare/xfce4-settings-4.20.0...HEAD)
 
