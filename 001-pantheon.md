@@ -18,6 +18,7 @@
 - [ ] [<code>FlatpakBackend: Don't use remote from two threads (#2456)</code>](https://github.com/elementary/appcenter/commit/f1c759c71154d655d6598cf2bef69c6ee22f9b1b)
 - [ ] [<code>Introduce ComponentStore (#2457)</code>](https://github.com/elementary/appcenter/commit/4241077d1748d15a3661a3abc2ed4f0cb40e7bc2)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>AppListUpdateView: Use one list view instead of multiple listboxes (#2458)</code>](https://github.com/elementary/appcenter/commit/5dc1f4bcbb969dfec02b8786a886932c928cde4b)
 
 #### [pantheon.elementary-calculator](https://github.com/elementary/calculator): [9.0.0 → HEAD](https://github.com/elementary/calculator/compare/9.0.0...HEAD)
 
@@ -430,6 +431,7 @@
 - [ ] [<code>CategoryIcon: Use Granite.Box, CSS margins and icon size</code>](https://github.com/elementary/switchboard/commit/27e7582459fa7b6c06db7106dec0d13dd695f3f6)
 - [ ] [<code>Styles/SettingsSidebar: strip margin from headerlabel in row (#401)</code>](https://github.com/elementary/switchboard/commit/e0a532f4ee1a7d9a0afeff9c1730a85d26d53f42)
 - [ ] [<code>SettingsPage.scss: modernize (#403)</code>](https://github.com/elementary/switchboard/commit/935bde19ed0a73b41a159508ac9b66c029b2a8df)
+- [ ] [<code>SettingsSidebarRow: use Granite.HeaderLabel (#409)</code>](https://github.com/elementary/switchboard/commit/f38c6b600fe7c713e22c81746d7996642353b636)
 ## apps/switchboard-plugs
 
 #### [pantheon.switchboard-plug-about](https://github.com/elementary/settings-system): [refs/tags/8.2.3 → HEAD](https://github.com/elementary/settings-system/compare/refs/tags/8.2.3...HEAD)
@@ -483,6 +485,9 @@
 - [ ] [<code>Handle inactive monitors better (#447)</code>](https://github.com/elementary/settings-display/commit/931e3c0dba4efac05e9b96dee7fc20a786307421)
 - [ ] [<code>Resolve variant == null warning (#425)</code>](https://github.com/elementary/settings-display/commit/6fb3a2b9f65987c9edc6a01109179bcc16294791)
 - [ ] [<code>DisplayWidget: fix granite style class deprecations (#459)</code>](https://github.com/elementary/settings-display/commit/8ca4f6b87a3f242ed40b7757c1af53d6f9ca7ef2)
+- [ ] [<code>Use protocol for monitor labels (#401)</code>](https://github.com/elementary/settings-display/commit/bfbba0d20ddf83cf3989e4dafc22bec0db70959c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.switchboard-plug-keyboard](https://github.com/elementary/settings-keyboard): [8.1.1 → HEAD](https://github.com/elementary/settings-keyboard/compare/8.1.1...HEAD)
 
@@ -834,6 +839,7 @@
 - [ ] [<code>SessionManager: call EndSessionDialog asynchronously</code>](https://github.com/elementary/gala/commit/0fa3daaa43ac8c832952d45acb558266d96bd3db)
 - [ ] [<code>Introduce a BrightnessManager (#2916)</code>](https://github.com/elementary/gala/commit/dc8889fd2975fa0eb4282d26a119bfa479735b6d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make monitor labels docks (#2970)</code>](https://github.com/elementary/gala/commit/3e1c54ec4e25884c8564e66b7b3583431bb0045c)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
