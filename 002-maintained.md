@@ -662,6 +662,11 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ef4a871024c682c7f923c3c6e217bb9de2edc975)
 - [ ] [<code>fix(todoist): only move the sync token on sync (#2834)</code>](https://github.com/alainm23/planify/commit/0b7c638051acdd3e5f84824bb83e7d5543f62877)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/395da3154ce81f1e335992c48eaf20a9e199c934)
+- [ ] [<code>fix queue (#2835)</code>](https://github.com/alainm23/planify/commit/44354f245ad0156848eca5ec73408de94c73f72a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5c87defda637c26786f38e04ca92ecefa4bfe076)
+- [ ] [<code>fix(todoist): send the offline queue in batches of 100 commands (#2836)</code>](https://github.com/alainm23/planify/commit/6560ed4b2a854baf4fcaeadf6e786cf7acd92553)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5355ef58edafa52df749a83294bebfde77e13a6d)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
