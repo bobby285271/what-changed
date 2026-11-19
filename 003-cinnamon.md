@@ -807,6 +807,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>favorite-apps: Switch from gnome-calendar to Clockenstein</code>](https://github.com/linuxmint/cinnamon/commit/1846d86ed2665da0cc04f175d330ab56045619b2)
 - [ ] [<code>screensaver: Fix activation with no monitors connected</code>](https://github.com/linuxmint/cinnamon/commit/912a941c4143febe92e3c0712557d0d7e472c73e)
+- [ ] [<code>cs_backgrounds.py: Resolve symlinks when matching collection pictures</code>](https://github.com/linuxmint/cinnamon/commit/f64ed81a71e1cb24a3d8916addb7618cf60ac52e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenShield.js: Add button tooltips, make error label more visible</code>](https://github.com/linuxmint/cinnamon/commit/3445d23e3c15875d913f4ef98a8655f15986c0ca)
+- [ ] [<code>unlockDialog.js: Re-conceal the password entry each time</code>](https://github.com/linuxmint/cinnamon/commit/f5e56365a10272c6dfe7afc204080710fa668f27)
+- [ ] [<code>unlockDialog.js: Don't make the user avatar reactive.</code>](https://github.com/linuxmint/cinnamon/commit/46b74c64a31b7ac6c361e1698f756b08be171e45)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -1186,9 +1191,12 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
 
+- [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-l-theme/commit/88a9a2b80d46a2ebc6d98a0736334dd44538a38a)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.4...HEAD)
 
+- [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-themes/commit/5db8161c1416dc90c18d0c1095d44111de43111d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
@@ -1508,6 +1516,7 @@
 - [ ] [<code>meta-wayland-keyboard.c: Use the correct schema for repeat settings</code>](https://github.com/linuxmint/muffin/commit/8c6b428154c04be44231e52dc23f39f481ae1d20)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>window.c: Add some more entries for terminal window matching.</code>](https://github.com/linuxmint/muffin/commit/501023670a38d6a44226a48bb4ced322f90b8bc3)
+- [ ] [<code>backends/x11: Invalidate the current monitor cache on backend events</code>](https://github.com/linuxmint/muffin/commit/af5ad20070bed1b38e8fcad50100e4b68668dcf3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
