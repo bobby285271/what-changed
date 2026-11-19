@@ -486,6 +486,8 @@
 - [ ] [<code>Updating Flathub flatpak manifest to use archived version of Lasem.</code>](https://github.com/phase1geo/minder/commit/3d3b4d56eae2f8cf1a685c040d0cc682616b8a05)
 - [ ] [<code>Adding support for drawing Markdown horizontal rules.</code>](https://github.com/phase1geo/minder/commit/769dfdf442c9ee6655bb8fc359fb97de3acb3d92)
 - [ ] [<code>Merge branch 'horizontal-rule'</code>](https://github.com/phase1geo/minder/commit/a39a3e2110b73b29583a54b1e595fbed269b8de8)
+- [ ] [<code>Adding donation URL.</code>](https://github.com/phase1geo/minder/commit/365be051a0144ee3c5e3e418153b8f2a26c488e0)
+- [ ] [<code>Adding translation files.</code>](https://github.com/phase1geo/minder/commit/95c534f62a11c56268d345c697bc96b8679f01af)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -654,6 +656,12 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/50190d292c33ca81d48ac2d7a4eb8dfe5c483749)
 - [ ] [<code>Never send or store an invalid Todoist sync token (#2830)</code>](https://github.com/alainm23/planify/commit/557920fcb8233ca04bbe0141d0bd393dcc21d368)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/635b46b9e2aac3be2c6fe6bc6a01732f1d2ce6c9)
+- [ ] [<code>fix(todoist): back off on HTTP 429 instead of retrying in a loop (#2831)</code>](https://github.com/alainm23/planify/commit/10cbc5e28f37f0e9a9504337f49bdbbc99c735dc)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/3758a1dd054edcdee8f8d7ded264a613c07ae9f1)
+- [ ] [<code>fix sync (#2833)</code>](https://github.com/alainm23/planify/commit/0c400daa61120254eb5713082c1fb349af4e9cee)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/ef4a871024c682c7f923c3c6e217bb9de2edc975)
+- [ ] [<code>fix(todoist): only move the sync token on sync (#2834)</code>](https://github.com/alainm23/planify/commit/0b7c638051acdd3e5f84824bb83e7d5543f62877)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/395da3154ce81f1e335992c48eaf20a9e199c934)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
