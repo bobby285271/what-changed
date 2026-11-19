@@ -671,6 +671,7 @@
 - [ ] [<code>x11: Switch to WnckHandle</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dc639480ddc2b197f4f60f28afadba7a592c0cf9)
 - [ ] [<code>x11: Fix broken xfw_workspace_group_set_layout()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/322e7055934844a3900b1912e228c0c7dc3d2e19)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c6a11b87780791ae1cd8c91df896e9d5dc7b277)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a0632e21b7cc6a65846d4e9aa064a7f45404e59)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1917,6 +1918,7 @@
 - [ ] [<code>On FreeBSD `sys/user.h` requires `sys/types.h` being included before it</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/7eb6eae51695a140ffdc72b8d7406a06c5f3f223)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>backlight: Fix percentage calculation</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/76d03a6ea681a9a5c77e3b1cb53a993aca874155)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/23752a49e5ef8ed8864d9e711f63b4f30d42e426)
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
