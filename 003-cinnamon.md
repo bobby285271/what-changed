@@ -812,7 +812,9 @@
 - [ ] [<code>screenShield.js: Add button tooltips, make error label more visible</code>](https://github.com/linuxmint/cinnamon/commit/3445d23e3c15875d913f4ef98a8655f15986c0ca)
 - [ ] [<code>unlockDialog.js: Re-conceal the password entry each time</code>](https://github.com/linuxmint/cinnamon/commit/f5e56365a10272c6dfe7afc204080710fa668f27)
 - [ ] [<code>unlockDialog.js: Don't make the user avatar reactive.</code>](https://github.com/linuxmint/cinnamon/commit/46b74c64a31b7ac6c361e1698f756b08be171e45)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.3</code>](https://github.com/linuxmint/cinnamon/commit/b2a08dbdc5eaaf1b180564cb7341096cdf759c6e)
+  - <sub>Tags: <code>6.8.3</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1170,12 +1172,8 @@
 - [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/6165c19f7101121c826738999abaa7e222dc1c23)
   - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.2 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.2...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.3 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.3...HEAD)
 
-- [ ] [<code>importer: Fix lexical module properties and xlet reloading</code>](https://github.com/linuxmint/cjs/commit/051561c1d4283f420170c0f8df4ac5d9dc82851f)
-- [ ] [<code>140.3</code>](https://github.com/linuxmint/cjs/commit/1128309b91c41a04c10e1a3fa5eaacd8088344a8)
-  - <sub>Tags: <code>140.3</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -1185,6 +1183,10 @@
 
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
+- [ ] [<code>Add .gitignore</code>](https://github.com/linuxmint/mint-cursor-themes/commit/71e9754bf4f5ab21c85fba399865c8c1fb2f597c)
+- [ ] [<code>Update Bibata themes to 2.0.7</code>](https://github.com/linuxmint/mint-cursor-themes/commit/1cf9d548078fcd422083a4a6c72ab767ab900cea)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.0.3</code>](https://github.com/linuxmint/mint-cursor-themes/commit/55d7d8f80ccaaab4d7b623050a885e9954969491)
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3...HEAD)
 
@@ -1192,11 +1194,14 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
 
 - [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-l-theme/commit/88a9a2b80d46a2ebc6d98a0736334dd44538a38a)
+- [ ] [<code>2.0.11</code>](https://github.com/linuxmint/mint-l-theme/commit/7ab7979bdaed11ba83c8eb297b04736449a34688)
+  - <sub>Tags: <code>2.0.11</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.4...HEAD)
 
 - [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-themes/commit/5db8161c1416dc90c18d0c1095d44111de43111d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>2.4.5</code>](https://github.com/linuxmint/mint-themes/commit/ed8abc6901491c2971505b483428b5c7f30707ff)
+  - <sub>Tags: <code>2.4.5</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
@@ -1517,6 +1522,10 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>window.c: Add some more entries for terminal window matching.</code>](https://github.com/linuxmint/muffin/commit/501023670a38d6a44226a48bb4ced322f90b8bc3)
 - [ ] [<code>backends/x11: Invalidate the current monitor cache on backend events</code>](https://github.com/linuxmint/muffin/commit/af5ad20070bed1b38e8fcad50100e4b68668dcf3)
+- [ ] [<code>6.8.5</code>](https://github.com/linuxmint/muffin/commit/4c1aa643eb55f1f5394509fdfa29dd112355c147)
+  - <sub>Tags: <code>6.8.5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>clutter-text.c: Report the cursor location in stage coordinates</code>](https://github.com/linuxmint/muffin/commit/34b3a53ea63e8f56d7feabaae30a709d67d29ab1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -1976,13 +1985,8 @@
   - <sub>Tags: <code>3.4.13</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.6 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.6...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.7 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.7...HEAD)
 
-- [ ] [<code>manual-connect.ui: Allow copy/paste of ip addresses</code>](https://github.com/linuxmint/warpinator/commit/6b995b694d0d12e5684e4efe79f39a73bfe795ef)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/2bc5070973aca5f8af0991c00703443513924d39)
-- [ ] [<code>2.0.7</code>](https://github.com/linuxmint/warpinator/commit/5968e3a466ead5efefb92bed473a6bdd9c131aa8)
-  - <sub>Tags: <code>2.0.7</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.3 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.3...HEAD)
 
