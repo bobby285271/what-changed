@@ -364,6 +364,8 @@
 - [ ] [<code>item-list-view: Use shorter button label</code>](https://github.com/xfce-mirror/libxfce4ui/commit/aad5e6129737b90cf23528ce8f9d7754ef344734)
 - [ ] [<code>clipboard-manager: Introduce abstract class</code>](https://github.com/xfce-mirror/libxfce4ui/commit/802202f6f2faa7a6b3fb97fa8b6dcd1adcbe8136)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>clipboard-manager: Introduce DBus interface org.xfce.ClipboardManager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0096cf8cb2954b3fde544ea31640b95ddf19e34d)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -668,6 +670,7 @@
 - [ ] [<code>cppcheck: Fix unknownMacro</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/6864b4d342538525bfa137f2943548f044c6a23a)
 - [ ] [<code>x11: Switch to WnckHandle</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/dc639480ddc2b197f4f60f28afadba7a592c0cf9)
 - [ ] [<code>x11: Fix broken xfw_workspace_group_set_layout()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/322e7055934844a3900b1912e228c0c7dc3d2e19)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c6a11b87780791ae1cd8c91df896e9d5dc7b277)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
