@@ -667,6 +667,8 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5c87defda637c26786f38e04ca92ecefa4bfe076)
 - [ ] [<code>fix(todoist): send the offline queue in batches of 100 commands (#2836)</code>](https://github.com/alainm23/planify/commit/6560ed4b2a854baf4fcaeadf6e786cf7acd92553)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5355ef58edafa52df749a83294bebfde77e13a6d)
+- [ ] [<code>feat(caldav): offline support for tasks (#2838)</code>](https://github.com/alainm23/planify/commit/13cdb6bd1262646470c37fa18c94c14b80aab6b7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/a7828e4ea7c1ea5acacd45f1d99f088f2885cd19)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
