@@ -1565,6 +1565,7 @@
 - [ ] [<code>Add sysupdate backend (#247)</code>](https://github.com/elementary/settings-daemon/commit/8382afb6e14826c63d12edf63ef7f3e37eb07223)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update check: Remove AC power condition (#253)</code>](https://github.com/elementary/settings-daemon/commit/c7873e24f4e0da8d5c9f814e7ce579a92cd5fdd9)
+- [ ] [<code>AccentColorManager: respect non-elementary GTK themes (#254)</code>](https://github.com/elementary/settings-daemon/commit/dc993d93cde633ba43e0df5f09f08b802426b030)
 
 #### [pantheon.pantheon-agent-geoclue2](https://github.com/elementary/pantheon-agent-geoclue2): [1.0.6 → HEAD](https://github.com/elementary/pantheon-agent-geoclue2/compare/1.0.6...HEAD)
 
