@@ -88,6 +88,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Actions: Migrate to ubuntu-latest (#616)</code>](https://github.com/elementary/dock/commit/e4cbfb1e31ac0f461876ddfd7338e640edf0f8b5)
 - [ ] [<code>Refactor reordering to be simpler  (#622)</code>](https://github.com/elementary/dock/commit/c60951b9015aa23028b7c95b8c292d7a15061ddf)
+- [ ] [<code>Drop X11 support (#626)</code>](https://github.com/elementary/dock/commit/3f44f41785d4ef51ba090f8cd3be218e0018fb50)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -746,6 +749,11 @@
 - [ ] [<code>Default X11 building to false (#98)</code>](https://github.com/elementary/session-settings/commit/0a69481c20b73d7cd774e88e6fb043c52644e350)
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>chore(deps): bump actions/checkout from 6 to 7 (#106)</code>](https://github.com/elementary/session-settings/commit/457258110e859756f39fff938c4e7cd3bfb57a09)
+- [ ] [<code>Don't install session config for X11 if support is disabled (#108)</code>](https://github.com/elementary/session-settings/commit/56ade4cc4dc2ca13d8a75ae6fbec2a99f1f4b0ed)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update GSD components (#110)</code>](https://github.com/elementary/session-settings/commit/f532003eb6e55fd410006a861e687b8db0fa2bbb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Replace Evince with Papers (#109)</code>](https://github.com/elementary/session-settings/commit/467f5c56e3c74d3974a038635cde2b7a6bb16872)
 
 #### [pantheon.elementary-shortcut-overlay](https://github.com/elementary/shortcut-overlay): [8.1.0 → HEAD](https://github.com/elementary/shortcut-overlay/compare/8.1.0...HEAD)
 
@@ -840,6 +848,11 @@
 - [ ] [<code>Introduce a BrightnessManager (#2916)</code>](https://github.com/elementary/gala/commit/dc8889fd2975fa0eb4282d26a119bfa479735b6d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Make monitor labels docks (#2970)</code>](https://github.com/elementary/gala/commit/3e1c54ec4e25884c8564e66b7b3583431bb0045c)
+- [ ] [<code>Add support for Mutter 51 (#2866)</code>](https://github.com/elementary/gala/commit/2d737fb8657285aae1a82d2038f012485e8a6451)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Drop toucheggbackend (#2985)</code>](https://github.com/elementary/gala/commit/2e9dfa306825579d938e4b0b3c42189cdcc69e61)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
@@ -1273,6 +1286,7 @@
 - [ ] [<code>DeviceManager: use gala's brightness interface (#301)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/d17362e97d15e01b3edb7083da1afc1b1b7180c4)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Add keybindings for brightness up and down (#309)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/afee7a10733f69c4df9ea5febd8975890c44d7bb)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
