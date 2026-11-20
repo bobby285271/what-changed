@@ -821,8 +821,12 @@
 - [ ] [<code>i18n: Run generate_ scripts.</code>](https://github.com/linuxmint/cinnamon/commit/8c06f11eba17b62a6fe3902a38c3f86b3c20f8f9)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screensaver: Only show the user image when it's not the default</code>](https://github.com/linuxmint/cinnamon/commit/e038174cbe1e251ab36d564b60df79203e70ed94)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>windowManager.js: Finish the workspace switch when a window closes during the slide (#14153)</code>](https://github.com/linuxmint/cinnamon/commit/e34ada55e94d878d0507b79d93375dafdae83f93)
+  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>6.8.4</code>](https://github.com/linuxmint/cinnamon/commit/41893dd12d8ccf90be933381ea528d88a241b4bc)
+  - <sub>Tags: <code>6.8.4</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -883,7 +887,10 @@
 - [ ] [<code>i18n: Fix generate_additional_files.py</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f06264d31e7790b260172972c456a0d36fd20a80)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b8453ae914f40372bae0f334bf6395fec27e7386)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>cc-color-panel.c: Guard gdk_x11_window_get_xid() for Wayland sessions</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b02b8d8d4d7124a2fea77a9a3e749997d8eac17f)
+- [ ] [<code>6.8.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/cc0d870b3bab8a78120e91b583366a9eef1d5383)
+  - <sub>Tags: <code>6.8.1</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -1538,7 +1545,9 @@
   - <sub>Tags: <code>6.8.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>clutter-text.c: Report the cursor location in stage coordinates</code>](https://github.com/linuxmint/muffin/commit/34b3a53ea63e8f56d7feabaae30a709d67d29ab1)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+- [ ] [<code>6.8.6</code>](https://github.com/linuxmint/muffin/commit/aae4394eb25407f7de1c9b7dff77b3969c01ada9)
+  - <sub>Tags: <code>6.8.6</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -1739,8 +1748,10 @@
   - <sub>Tags: <code>6.8.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/nemo/commit/33892205b0a584a44086b54b67b99266fc97e443)
-  - <sub>Tags: <code>master.mint27</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>6.8.5</code>](https://github.com/linuxmint/nemo/commit/bf7e43f6bd12f43f990c774fca693fa9f7cae4eb)
+  - <sub>Tags: <code>6.8.5</code> <code>master.mint27</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1791,6 +1802,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Run generate_desktop_files</code>](https://github.com/linuxmint/nemo-extensions/commit/951733f6fe7fe12bdd7ffd8c7dc5621c7722c706)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1841,6 +1853,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Run generate_desktop_files</code>](https://github.com/linuxmint/nemo-extensions/commit/951733f6fe7fe12bdd7ffd8c7dc5621c7722c706)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1891,6 +1904,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Run generate_desktop_files</code>](https://github.com/linuxmint/nemo-extensions/commit/951733f6fe7fe12bdd7ffd8c7dc5621c7722c706)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -1941,6 +1955,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Run generate_desktop_files</code>](https://github.com/linuxmint/nemo-extensions/commit/951733f6fe7fe12bdd7ffd8c7dc5621c7722c706)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
@@ -1991,6 +2006,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix bump-versions</code>](https://github.com/linuxmint/nemo-extensions/commit/c2a6aa6c5dfc4ecd6533dd7b693b4792f0e39e65)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Run generate_desktop_files</code>](https://github.com/linuxmint/nemo-extensions/commit/951733f6fe7fe12bdd7ffd8c7dc5621c7722c706)
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.12 → HEAD](https://github.com/linuxmint/pix/compare/3.4.12...HEAD)
 
@@ -2115,7 +2131,11 @@
 - [ ] [<code>Fix text color in menubar</code>](https://github.com/linuxmint/slick-greeter/commit/5cadb0be8424e95fd05a1ea08ea047bc5e7da40f)
 - [ ] [<code>Session selector: Always close the menu after selection</code>](https://github.com/linuxmint/slick-greeter/commit/1b4c53cb8740e996e183dc18d1f14d2a094dfb0b)
 - [ ] [<code>2.2.10</code>](https://github.com/linuxmint/slick-greeter/commit/054790ac1fb8fd93bc4178b3160d075cecdf6937)
-  - <sub>Tags: <code>2.2.10</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>2.2.10</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>main-window: Set the widget name so the background-color CSS applies (#298)</code>](https://github.com/linuxmint/slick-greeter/commit/cf21a2e5a32637a9baef2c009439e97d5994ec02)
+- [ ] [<code>2.2.11</code>](https://github.com/linuxmint/slick-greeter/commit/00db36be8100e889b8f0f2feb14c8a27601150e2)
+  - <sub>Tags: <code>2.2.11</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [sticky](https://github.com/linuxmint/sticky): [1.33 → HEAD](https://github.com/linuxmint/sticky/compare/1.33...HEAD)
@@ -2198,6 +2218,7 @@
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.2...HEAD)
 
+- [ ] [<code>Add github workflow</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/50f47ee6ec0e754449c7fc8923a014e5eb0868d9)
 
 #### [xepub](https://github.com/xapp-project/xepub): [refs/tags/1.0.4 → HEAD](https://github.com/xapp-project/xepub/compare/refs/tags/1.0.4...HEAD)
 
