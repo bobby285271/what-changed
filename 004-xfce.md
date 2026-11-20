@@ -366,6 +366,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>clipboard-manager: Introduce DBus interface org.xfce.ClipboardManager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/0096cf8cb2954b3fde544ea31640b95ddf19e34d)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>clipboard-manager: Wayland support for org.xfce.ClipboardManager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/34b800da7ec933cefd76dd538ecd401001d8b3a5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
