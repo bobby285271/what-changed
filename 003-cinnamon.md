@@ -813,8 +813,16 @@
 - [ ] [<code>unlockDialog.js: Re-conceal the password entry each time</code>](https://github.com/linuxmint/cinnamon/commit/f5e56365a10272c6dfe7afc204080710fa668f27)
 - [ ] [<code>unlockDialog.js: Don't make the user avatar reactive.</code>](https://github.com/linuxmint/cinnamon/commit/46b74c64a31b7ac6c361e1698f756b08be171e45)
 - [ ] [<code>6.8.3</code>](https://github.com/linuxmint/cinnamon/commit/b2a08dbdc5eaaf1b180564cb7341096cdf759c6e)
-  - <sub>Tags: <code>6.8.3</code> <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.3</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>main.js: Track modifier taps in _stageEventHandler</code>](https://github.com/linuxmint/cinnamon/commit/ccfea90e5096942a03c6a4b6f8ab117198307e5f)
+- [ ] [<code>i18n: Fix generate_cs_module_desktop_files.py</code>](https://github.com/linuxmint/cinnamon/commit/7512f8d2cb7d2e51ee335078f7b74df8b9da6d59)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>i18n: Run generate_ scripts.</code>](https://github.com/linuxmint/cinnamon/commit/8c06f11eba17b62a6fe3902a38c3f86b3c20f8f9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screensaver: Only show the user image when it's not the default</code>](https://github.com/linuxmint/cinnamon/commit/e038174cbe1e251ab36d564b60df79203e70ed94)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -870,8 +878,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/8739afc9a8747587a6bf07cf067d1475e618496c)
 - [ ] [<code>6.8.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ec7bef10bf03fbbbde69f3e2fad8a4df02164cd6)
-  - <sub>Tags: <code>6.8.0</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>i18n: Fix generate_additional_files.py</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f06264d31e7790b260172972c456a0d36fd20a80)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b8453ae914f40372bae0f334bf6395fec27e7386)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -1724,8 +1736,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>progress info: free the condition variable and the mutex on finalize (#3877)</code>](https://github.com/linuxmint/nemo/commit/7df652f2de924f821dd5325564ad6ef38ac0ae6c)
 - [ ] [<code>6.8.4</code>](https://github.com/linuxmint/nemo/commit/a1346a11bc4e1e1edb9a369f0dfdb6ce5111d8ee)
-  - <sub>Tags: <code>6.8.4</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>i18n: Run generate_additional_files</code>](https://github.com/linuxmint/nemo/commit/33892205b0a584a44086b54b67b99266fc97e443)
+  - <sub>Tags: <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
