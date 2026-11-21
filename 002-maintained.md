@@ -488,6 +488,8 @@
 - [ ] [<code>Merge branch 'horizontal-rule'</code>](https://github.com/phase1geo/minder/commit/a39a3e2110b73b29583a54b1e595fbed269b8de8)
 - [ ] [<code>Adding donation URL.</code>](https://github.com/phase1geo/minder/commit/365be051a0144ee3c5e3e418153b8f2a26c488e0)
 - [ ] [<code>Adding translation files.</code>](https://github.com/phase1geo/minder/commit/95c534f62a11c56268d345c697bc96b8679f01af)
+- [ ] [<code>Update Swedish translation</code>](https://github.com/phase1geo/minder/commit/8b0e7b812f7b2d3b41075d348d31b66908f5dc23)
+- [ ] [<code>Merge pull request #765 from NickWick13/sv-translation-2026-11</code>](https://github.com/phase1geo/minder/commit/11f8ff628c337f4cc629aa509fafa2d262212408)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -713,6 +715,9 @@
 - [ ] [<code>Update project ID the old one doesn't exist (#456)</code>](https://github.com/ellie-commons/sequeler/commit/73e14a3863821677eecf82f01f947f265f36b22d)
 - [ ] [<code>Update submodule shared-modules to 785a5394b6e4</code>](https://github.com/ellie-commons/sequeler/commit/ad5fd5351e3669f848f4b19a230e3b4ec19980da)
 - [ ] [<code>postgresql-libs: Update postgresql-18.6.tar.gz to 18.7</code>](https://github.com/ellie-commons/sequeler/commit/03ce5cdbca10a3d3e7f744116d1e935a856093e6)
+- [ ] [<code>Release 0.9.1 (#457)</code>](https://github.com/ellie-commons/sequeler/commit/260c62841dff8d453d54e9743dcda443b54bd4b1)
+  - <sub>Tags: <code>v0.9.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
