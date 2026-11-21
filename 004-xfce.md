@@ -675,6 +675,7 @@
 - [ ] [<code>x11: Fix broken xfw_workspace_group_set_layout()</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/322e7055934844a3900b1912e228c0c7dc3d2e19)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c6a11b87780791ae1cd8c91df896e9d5dc7b277)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a0632e21b7cc6a65846d4e9aa064a7f45404e59)
+- [ ] [<code>Use v2 of xfce-foreign-toplevel-management-v1</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5103f2f9e0fcb11f0af875646f21477ad614389e)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1496,6 +1497,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Fix sed requirement</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bf44f64b868d5f8853c63252d4eba8885cdc3ea0)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Install cargo-deny in the container using latest stable rustc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d11c32bb1abcdaa935921815fb45fd2232463355)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1771,6 +1773,7 @@
 - [ ] [<code>libxfce4panel: Add xfce_panel_gtk_show_about_dialog</code>](https://github.com/xfce-mirror/xfce4-panel/commit/04d79477bd69fa0f923c484af91317ae20075c45)
 - [ ] [<code>Fix xfce_panel_plugin_(block|unblock)_menu not appearing in docs</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d992e227eca2d2f33ea869eed9d6814d5bc32f5c)
 - [ ] [<code>libxfce4panel: Don't skip xfce_panel_gtk_show_about_dialog from vapi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd02480b7c569af980f32eca8670aba9b023d88a)
+- [ ] [<code>panel: Fix autohide window positioning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/360d950c4af4cc9acb6ca3b739ac36d22e4f7cc1)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -2391,6 +2394,7 @@
 - [ ] [<code>appearance: Show what each schedule rule does</code>](https://github.com/xfce-mirror/xfce4-settings/commit/043ed4d56f3ee39d449481abcf085613009e8bfb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>appearance-settings: Add comment to help translators</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9df57e5ec364e6d7dacce9b2e75f2c341c24078e)
+- [ ] [<code>appearance: Match the icon theme variant to the theme in a rule</code>](https://github.com/xfce-mirror/xfce4-settings/commit/eac3b555dea9a20663dcd53f5ddd035b28b62387)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -2672,6 +2676,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_steal_pointer</code>](https://github.com/xfce-mirror/xfdesktop/commit/360c8ab15df78eb606328c8d82224e990686da02)
 - [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfdesktop/commit/194dc4e85be510d6b96acce48d91c86dc98541d7)
 - [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfdesktop/commit/39ac64d93889a71676834b89823c006244d98f62)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/a5b5d749ea3e3cda49fb67fd1d5cf57b591d3b9d)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
