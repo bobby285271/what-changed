@@ -1498,6 +1498,14 @@
 - [ ] [<code>build: Fix sed requirement</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/bf44f64b868d5f8853c63252d4eba8885cdc3ea0)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Install cargo-deny in the container using latest stable rustc</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/d11c32bb1abcdaa935921815fb45fd2232463355)
+- [ ] [<code>Add meson build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/8eca7e1a7f9ed00d2f8965ef2f817ddc0766f13e)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove autotools build</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/088f810f6dfba45e605f9f56d7036db4d93150ee)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/024435da8eb498db976dfa0b564c5349d616c1c7)
+- [ ] [<code>ci: Add "schedule" to pipelines authorized to run for po files</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/89f1ce4a220f3c75182b6225d3340b9c3f125945)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
