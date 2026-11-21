@@ -731,6 +731,18 @@
 - [ ] [<code>Merge branch 'develop'</code>](https://github.com/ianmjones/snippetpixie/commit/ceb62990337a4bd16a5842caeba96dad21e19f3e)
 - [ ] [<code>Add minor fix-ups for project description.</code>](https://github.com/ianmjones/snippetpixie/commit/62044370ce3ef948138799e7130c0ad478cb0735)
 - [ ] [<code>Add project status to README.md</code>](https://github.com/ianmjones/snippetpixie/commit/c0ef62440fe99a22ba030f047dcbe8cdea777957)
+- [ ] [<code>Remove TravisCI config</code>](https://github.com/ianmjones/snippetpixie/commit/ae1677cf5d8710091df26cabe8e9e0440601d422)
+- [ ] [<code>Enable build via workshop</code>](https://github.com/ianmjones/snippetpixie/commit/74c1b31fb1396cfb7f34ac23e053822577254e3f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update snap to work with core26 and snapcraft 9.x</code>](https://github.com/ianmjones/snippetpixie/commit/6f37f8786274c280431048dee41e8b43a4cc63df)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove armhf platform from snap</code>](https://github.com/ianmjones/snippetpixie/commit/13e7ac38e74729dbdc9cd670a3f1b76f39ca72b0)
+- [ ] [<code>Remove GitHub templates</code>](https://github.com/ianmjones/snippetpixie/commit/de5fe25abbcd4076ae3426af09698c18c1e38922)
+- [ ] [<code>Remove Debian packaging definition</code>](https://github.com/ianmjones/snippetpixie/commit/ad461ac5cac4cdb8de1a00e69a51417d2e45ff03)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix license, copyright and author references</code>](https://github.com/ianmjones/snippetpixie/commit/f3ea65d876e67991f468c943ab6d74c709c32b27)
+- [ ] [<code>Fix website entry for snapcraft</code>](https://github.com/ianmjones/snippetpixie/commit/09750485adf79ec8144a82f99b0dc2b7a25614e3)
 
 #### [spice-up](https://github.com/Philip-Scott/Spice-up): [refs/tags/1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/refs/tags/1.9.1...HEAD)
 
