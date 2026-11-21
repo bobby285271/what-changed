@@ -1541,6 +1541,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Bubble: Use Granite.Box for action area (#300)</code>](https://github.com/elementary/notifications/commit/9577e3a225c7dbb7053c6c608beda92bf66fa255)
+- [ ] [<code>Confirmation: Use Granite.Symbol (#304)</code>](https://github.com/elementary/notifications/commit/55ca0cef82f3054fdc29eaa72aea331d9295561c)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-settings-daemon](https://github.com/elementary/settings-daemon): [refs/tags/8.5.0 → HEAD](https://github.com/elementary/settings-daemon/compare/refs/tags/8.5.0...HEAD)
 
