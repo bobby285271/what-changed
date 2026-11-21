@@ -91,6 +91,11 @@
 - [ ] [<code>Drop X11 support (#626)</code>](https://github.com/elementary/dock/commit/3f44f41785d4ef51ba090f8cd3be218e0018fb50)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/elementary/dock/commit/107d3d399e0b4038b42d654c66e1f4a5099bf0bb)
+- [ ] [<code>Launch applications in separate systemd scopes (#625)</code>](https://github.com/elementary/dock/commit/7155f1cbd52f9c4de242dc66c49fb3eab76d7620)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>BaseItem: Fix tooltips appearing on touchscreen (#624)</code>](https://github.com/elementary/dock/commit/5673a4426444204e7316966d6effac936131f399)
 
 #### [pantheon.elementary-feedback](https://github.com/elementary/feedback): [refs/tags/8.1.1 → HEAD](https://github.com/elementary/feedback/compare/refs/tags/8.1.1...HEAD)
 
@@ -622,6 +627,7 @@
 - [ ] [<code>Status: remove symbolic dialog- icons (#1460)</code>](https://github.com/elementary/icons/commit/8dd2a2352e4c769830ac5d91580249936b472b84)
 - [ ] [<code>Categories: redesign preferences-system-privacy (#1462)</code>](https://github.com/elementary/icons/commit/f4ef0970d2e13c141bddbbf3ecd645d5cc7be613)
 - [ ] [<code>Status: remove unused symbolic icons (#1461)</code>](https://github.com/elementary/icons/commit/83318aeb0b9e893ae8705dcfcc1bd4bce90c80ac)
+- [ ] [<code>Actions: fix broken reboot-symbolic (#1464)</code>](https://github.com/elementary/icons/commit/fe3d6170fe8d1bf8399e2c44f10c71ec716cd5a2)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -1736,6 +1742,7 @@
 - [ ] [<code>Fix typo in repart conf name (#941)</code>](https://github.com/elementary/os/commit/e8c74d41fa7a60ce430373b6b7dd07b026e35779)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix initial kernel name (#942)</code>](https://github.com/elementary/os/commit/7c6b5f63f4ab4c6872f8fbe8d15f4bfdbce7701d)
+- [ ] [<code>Fix: Install recommended sdk packages (#944)</code>](https://github.com/elementary/os/commit/472719c4afcc85e0317d471d938661ca977199cd)
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
