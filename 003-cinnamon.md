@@ -1210,11 +1210,8 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/9d3ea71d980fc9744c85c5e5b2dcb10bedbe0fc3...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.10 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.10...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.11 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.11...HEAD)
 
-- [ ] [<code>cinnamon: Fix password-entry crowding, progress color, cleanup</code>](https://github.com/linuxmint/mint-l-theme/commit/88a9a2b80d46a2ebc6d98a0736334dd44538a38a)
-- [ ] [<code>2.0.11</code>](https://github.com/linuxmint/mint-l-theme/commit/7ab7979bdaed11ba83c8eb297b04736449a34688)
-  - <sub>Tags: <code>2.0.11</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.4 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.4...HEAD)
 
