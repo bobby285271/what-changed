@@ -1546,8 +1546,11 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>clutter-text.c: Report the cursor location in stage coordinates</code>](https://github.com/linuxmint/muffin/commit/34b3a53ea63e8f56d7feabaae30a709d67d29ab1)
 - [ ] [<code>6.8.6</code>](https://github.com/linuxmint/muffin/commit/aae4394eb25407f7de1c9b7dff77b3969c01ada9)
-  - <sub>Tags: <code>6.8.6</code> <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.6</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>x11/group: Try harder to find the associated group</code>](https://github.com/linuxmint/muffin/commit/13b160eb920335d45078696a98b98827c27bbcb3)
+- [ ] [<code>clutter-stage-view.c: Restore the offscreen blit pipeline</code>](https://github.com/linuxmint/muffin/commit/e6fafc4b748c6e1d93c94f4514e1d7ef6a76331f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
