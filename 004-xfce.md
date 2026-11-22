@@ -473,6 +473,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4util/commit/82347f6ab0563481a4ecf3b3ab1b7201192b7abe)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/e1aab395e5b4ce9d16a389646a2b858ef2f30a7f)
+- [ ] [<code>systemd: Add wrappers for SuspendThenHibernate</code>](https://github.com/xfce-mirror/libxfce4util/commit/050caa1e2e6bf7e4479f54a4e62d2c859a979c13)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -1371,6 +1372,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_set_str</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/d7538ad6cc0ba20b06074c2f72332be3067e6325)
 - [ ] [<code>gobject-linter: Fix use_g_source_once</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/bdd66db42793bc84cdffbbd742cae774e3e0a5d4)
 - [ ] [<code>gobject-linter: Fix g_error_leak</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/5fd0035b5790b85403f08686c7a4a97169db1601)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-appfinder/commit/bc4d8cffaa4903996d3e4eca13b9851d8bdb9f82)
 
 #### [xfce4-dev-tools](https://github.com/xfce-mirror/xfce4-dev-tools): [xfce4-dev-tools-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-dev-tools/compare/xfce4-dev-tools-4.20.0...HEAD)
 
