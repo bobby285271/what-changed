@@ -52,6 +52,9 @@
 - [ ] [<code>Use document-edit-symbolic for the edit button (#972)</code>](https://github.com/elementary/calendar/commit/97de059e9ce4ff82e90c322cafba40796b81c64c)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#977)</code>](https://github.com/elementary/calendar/commit/30f99889e07cd6e637662ab1132951332a6f91c6)
 - [ ] [<code>Fix removing reminders from event editor (#973)</code>](https://github.com/elementary/calendar/commit/f1190eacf52e79004f2e4d2059fb1b9640651526)
+- [ ] [<code>CSS: use color-mix instead of alpha and shade (#982)</code>](https://github.com/elementary/calendar/commit/577232c7c1285d1839e89413af47d9e42a8af5c6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -1085,6 +1088,9 @@
 - [ ] [<code>Bump actions/checkout from 6 to 7 (#157)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/31b6972293f442b52f137efb920e2f98e9d94e56)
 - [ ] [<code>Use new ServerType enum (#160)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/10dd7c4f1b3b1439bf7c6bdbacb29533943ccdf6)
 - [ ] [<code>KeyboardIcon.css: update for GTK 4.20 (#161)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/2d086e0177d7aa9a9e6aa4eb11fa7fb77c628c76)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use gala's DesktopIntegration to get toggle keys state (#162)</code>](https://github.com/elementary/wingpanel-indicator-keyboard/commit/2ce43001c01f9704f75f0d84caf89e4bb4d6a192)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
