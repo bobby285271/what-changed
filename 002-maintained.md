@@ -490,6 +490,13 @@
 - [ ] [<code>Adding translation files.</code>](https://github.com/phase1geo/minder/commit/95c534f62a11c56268d345c697bc96b8679f01af)
 - [ ] [<code>Update Swedish translation</code>](https://github.com/phase1geo/minder/commit/8b0e7b812f7b2d3b41075d348d31b66908f5dc23)
 - [ ] [<code>Merge pull request #765 from NickWick13/sv-translation-2026-11</code>](https://github.com/phase1geo/minder/commit/11f8ff628c337f4cc629aa509fafa2d262212408)
+- [ ] [<code>Fix Italian translations for priority messages</code>](https://github.com/phase1geo/minder/commit/99bd4399ed100bef5b55375ccf74dc99be1b2b18)
+- [ ] [<code>Merge pull request #766 from albanobattistella/patch-38</code>](https://github.com/phase1geo/minder/commit/c299c8a6b6708e1f0acd2ae3df2228ff33f9505f)
+- [ ] [<code>Adding PDF clickable link support.</code>](https://github.com/phase1geo/minder/commit/3936111e82fa0c1ca6b1e9516c00e70de64ed1c4)
+- [ ] [<code>Enhancing PDF link generation.</code>](https://github.com/phase1geo/minder/commit/a9c61267f056143f2e8dbd75d91bbe6fbb6bdb4f)
+- [ ] [<code>Merge branch 'pdf-clickable-links'</code>](https://github.com/phase1geo/minder/commit/4400f40c85c16b3330c51cd53b122f6397fc5abf)
+- [ ] [<code>Fixing code issue when an open URL shortcut is launched over non-URL</code>](https://github.com/phase1geo/minder/commit/cbbed9acd453aca3d33f77d3d8ff6122c433f858)
+- [ ] [<code>Adding release notes for next version.</code>](https://github.com/phase1geo/minder/commit/ecc0700a53614ba5451f52f11205664470ce9662)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
@@ -748,6 +755,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Fix license, copyright and author references</code>](https://github.com/ianmjones/snippetpixie/commit/f3ea65d876e67991f468c943ab6d74c709c32b27)
 - [ ] [<code>Fix website entry for snapcraft</code>](https://github.com/ianmjones/snippetpixie/commit/09750485adf79ec8144a82f99b0dc2b7a25614e3)
+- [ ] [<code>Remove email addresses from metadata to fix snap store issues</code>](https://github.com/ianmjones/snippetpixie/commit/fc46a64dac5e7b4106e249aa1cd3db6848d0bf0b)
+  - <sub>Tags: <code>1.5.4</code></sub>
 
 #### [spice-up](https://github.com/Philip-Scott/Spice-up): [refs/tags/1.9.1 → HEAD](https://github.com/Philip-Scott/Spice-up/compare/refs/tags/1.9.1...HEAD)
 
