@@ -472,6 +472,7 @@
 - [ ] [<code>gobject-linter: Fix use_g_string_free_and_steal</code>](https://github.com/xfce-mirror/libxfce4util/commit/952b5ec419dd8262765e12067c37316053cd3f98)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4util/commit/82347f6ab0563481a4ecf3b3ab1b7201192b7abe)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/e1aab395e5b4ce9d16a389646a2b858ef2f30a7f)
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -676,6 +677,7 @@
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/1c6a11b87780791ae1cd8c91df896e9d5dc7b277)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/8a0632e21b7cc6a65846d4e9aa064a7f45404e59)
 - [ ] [<code>Use v2 of xfce-foreign-toplevel-management-v1</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/5103f2f9e0fcb11f0af875646f21477ad614389e)
+- [ ] [<code>cppcheck: Remove duplicated cfg entries</code>](https://github.com/xfce-mirror/libxfce4windowing/commit/c480e65632c36c07e5037ed936bb7467406b55df)
 
 #### [thunar](https://github.com/xfce-mirror/thunar): [thunar-4.20.0 → HEAD](https://github.com/xfce-mirror/thunar/compare/thunar-4.20.0...HEAD)
 
@@ -1506,6 +1508,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update README after switchover to meson</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/024435da8eb498db976dfa0b564c5349d616c1c7)
 - [ ] [<code>ci: Add "schedule" to pipelines authorized to run for po files</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/89f1ce4a220f3c75182b6225d3340b9c3f125945)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/2eaef97f5fe8f07e6caf0b0e6b7fc1aa1fe5c975)
+  - <sub>Tags: <code>xfce4-dev-tools-4.21.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/712756b2e0a25d65051e32b7e6377ced07fc1d64)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
