@@ -51,6 +51,7 @@
 - [ ] [<code>SourcePopover: port to Gtk.FileDialog (#968)</code>](https://github.com/elementary/calendar/commit/045195d933bf1f6167d215fd7b42115ba8e212e7)
 - [ ] [<code>Use document-edit-symbolic for the edit button (#972)</code>](https://github.com/elementary/calendar/commit/97de059e9ce4ff82e90c322cafba40796b81c64c)
 - [ ] [<code>libshumate: Update libshumate-1.6.3.tar.xz to 1.7.0 (#977)</code>](https://github.com/elementary/calendar/commit/30f99889e07cd6e637662ab1132951332a6f91c6)
+- [ ] [<code>Fix removing reminders from event editor (#973)</code>](https://github.com/elementary/calendar/commit/f1190eacf52e79004f2e4d2059fb1b9640651526)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -628,6 +629,7 @@
 - [ ] [<code>Categories: redesign preferences-system-privacy (#1462)</code>](https://github.com/elementary/icons/commit/f4ef0970d2e13c141bddbbf3ecd645d5cc7be613)
 - [ ] [<code>Status: remove unused symbolic icons (#1461)</code>](https://github.com/elementary/icons/commit/83318aeb0b9e893ae8705dcfcc1bd4bce90c80ac)
 - [ ] [<code>Actions: fix broken reboot-symbolic (#1464)</code>](https://github.com/elementary/icons/commit/fe3d6170fe8d1bf8399e2c44f10c71ec716cd5a2)
+- [ ] [<code>Add status check for broken symlinks (#1463)</code>](https://github.com/elementary/icons/commit/15f39396167bc8eb188d9e256bc79058ff4615f9)
 
 #### [pantheon.elementary-redacted-script](https://github.com/elementary/fonts): [5.1.0 → HEAD](https://github.com/elementary/fonts/compare/5.1.0...HEAD)
 
@@ -946,6 +948,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CSS: fix semantic colors (#743)</code>](https://github.com/elementary/wingpanel/commit/e737de88bc02ddc82a9f4d23f574cc3c04098c03)
 - [ ] [<code>PanelWindow: Fix gap between maximized window and wingpanel (#745)</code>](https://github.com/elementary/wingpanel/commit/7a3cb891acdb1559bb82b38a1724712d639f2d11)
+- [ ] [<code>PopoverManager: DRY and organize current_indicator setter (#734)</code>](https://github.com/elementary/wingpanel/commit/f5f0f9de76219782f914902241b1205bad45f756)
 ## desktop/wingpanel-indicators
 
 #### [pantheon.wingpanel-applications-menu](https://github.com/elementary/applications-menu): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/applications-menu/compare/refs/tags/8.0.4...HEAD)
@@ -1746,6 +1749,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix initial kernel name (#942)</code>](https://github.com/elementary/os/commit/7c6b5f63f4ab4c6872f8fbe8d15f4bfdbce7701d)
 - [ ] [<code>Fix: Install recommended sdk packages (#944)</code>](https://github.com/elementary/os/commit/472719c4afcc85e0317d471d938661ca977199cd)
+- [ ] [<code>Remove desktop entries for demo apps (#945)</code>](https://github.com/elementary/os/commit/1b672433df406648f11de35bf3c055a40406121d)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [seeds](https://github.com/elementary/seeds): [f235eee19c539d3ff73a8872ad5be98c81e8516b → HEAD](https://github.com/elementary/seeds/compare/f235eee19c539d3ff73a8872ad5be98c81e8516b...HEAD)
 
@@ -1780,3 +1785,4 @@
 - [ ] [<code>SDK: make gdb depends (#176)</code>](https://github.com/elementary/seeds/commit/14c2cf95b32962b857589a0bac3198f80a331bce)
 - [ ] [<code>Add wireguard (#180)</code>](https://github.com/elementary/seeds/commit/1458e331b3ad5e0dd2de1a6b5c882f0ad81ea56a)
 - [ ] [<code>Add xdg-native-messaging-proxy (#179)</code>](https://github.com/elementary/seeds/commit/a7561d92051af6ed888860076763e4b455bfe816)
+- [ ] [<code>LIVE: replace gparted with GNOME Disks (#181)</code>](https://github.com/elementary/seeds/commit/4028946e0d1ba0479247ca4c35fe42641210bc35)
