@@ -678,6 +678,8 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/5355ef58edafa52df749a83294bebfde77e13a6d)
 - [ ] [<code>feat(caldav): offline support for tasks (#2838)</code>](https://github.com/alainm23/planify/commit/13cdb6bd1262646470c37fa18c94c14b80aab6b7)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/a7828e4ea7c1ea5acacd45f1d99f088f2885cd19)
+- [ ] [<code>remove comments (#2843)</code>](https://github.com/alainm23/planify/commit/6f4da2e48ed978e6261c0edf18ca07e53abea0e3)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b5cf04257ffe4e40eaba4f60dd566f6643f4b764)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
 
