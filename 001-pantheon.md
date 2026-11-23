@@ -1307,6 +1307,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Add keybindings for brightness up and down (#309)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/afee7a10733f69c4df9ea5febd8975890c44d7bb)
+- [ ] [<code>Don't depend on `libnotify` (#310)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d0040b7b7cd352105b33b132bf52f2c40f207a2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
