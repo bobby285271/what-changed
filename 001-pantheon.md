@@ -395,6 +395,7 @@
 - [ ] [<code>Jeremypw/fix new root tab (#1019)</code>](https://github.com/elementary/terminal/commit/4e1aadbb6d3d29008bd704fd56702873d25efde5)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Fix transparent tab bar background (#1024)</code>](https://github.com/elementary/terminal/commit/e209a5d104e8f3407ff7a57383f4ddaf03f94729)
+- [ ] [<code>Fix: open in terminal if there is already a tab open (#1022)</code>](https://github.com/elementary/terminal/commit/cd6b5d80745a12b6a96489a7ea036a9000348855)
 
 #### [pantheon.elementary-videos](https://github.com/elementary/videos): [9.0.0 → HEAD](https://github.com/elementary/videos/compare/9.0.0...HEAD)
 
@@ -864,6 +865,10 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Drop toucheggbackend (#2985)</code>](https://github.com/elementary/gala/commit/2e9dfa306825579d938e4b0b3c42189cdcc69e61)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add debian sid workflow and run tests against mutter 51 (#2986)</code>](https://github.com/elementary/gala/commit/670d04ae409cc9e949c68dd413ea39d526592531)
+- [ ] [<code>Implement maximize gesture</code>](https://github.com/elementary/gala/commit/c786463d6d634003b7df5e88092efa837191ede4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>TouchpadBackend: Make sure we don't steal gestures from other instances</code>](https://github.com/elementary/gala/commit/7e95118fc1322631020a6761384f3ee777e59d1e)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
