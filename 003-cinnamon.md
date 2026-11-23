@@ -823,10 +823,13 @@
 - [ ] [<code>screensaver: Only show the user image when it's not the default</code>](https://github.com/linuxmint/cinnamon/commit/e038174cbe1e251ab36d564b60df79203e70ed94)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>windowManager.js: Finish the workspace switch when a window closes during the slide (#14153)</code>](https://github.com/linuxmint/cinnamon/commit/e34ada55e94d878d0507b79d93375dafdae83f93)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>6.8.4</code>](https://github.com/linuxmint/cinnamon/commit/41893dd12d8ccf90be933381ea528d88a241b4bc)
-  - <sub>Tags: <code>6.8.4</code> <code>master.mint27</code></sub>
+  - <sub>Tags: <code>6.8.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>st-bin: Prevent st_bin_set_child with already-parented children</code>](https://github.com/linuxmint/cinnamon/commit/1c748297dec1a34cf329699115f452b3221f3d26)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>keyringPrompt.js: Allow correcting the password after a failed check</code>](https://github.com/linuxmint/cinnamon/commit/3cce207e8ed1190e2240990c4b0432d72820f601)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1175,10 +1178,11 @@
   - <sub>Tags: <code>6.8.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-media-keys-manager.c: Skip osd dbus call when they're disabled</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/453413f4be66b78b3367893ad7aa9d4cec770554)
-  - <sub>Tags: <code>master.mint22</code> <code>master.mint27</code></sub>
 - [ ] [<code>6.8.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4586361a08bc42caf7de79f2fe6ac25b99e7bf07)
-  - <sub>Tags: <code>6.8.2</code> <code>master.lmde7</code></sub>
+  - <sub>Tags: <code>6.8.2</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-media-keys-manager.c: Fix touchpad toggle when no mouse is present (#484)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fdcc00809acc240b72b01556f9e3ac18ab87e8f7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code> <code>master.mint27</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
