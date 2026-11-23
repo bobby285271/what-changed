@@ -474,6 +474,13 @@
 - [ ] [<code>gobject-linter: Fix use_clear_functions</code>](https://github.com/xfce-mirror/libxfce4util/commit/82347f6ab0563481a4ecf3b3ab1b7201192b7abe)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/libxfce4util/commit/e1aab395e5b4ce9d16a389646a2b858ef2f30a7f)
 - [ ] [<code>systemd: Add wrappers for SuspendThenHibernate</code>](https://github.com/xfce-mirror/libxfce4util/commit/050caa1e2e6bf7e4479f54a4e62d2c859a979c13)
+- [ ] [<code>Updates for release</code>](https://github.com/xfce-mirror/libxfce4util/commit/d26189bba95f338c64ef558fce3ba4c59c414c66)
+  - <sub>Tags: <code>libxfce4util-4.21.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/libxfce4util/commit/9dba9153a8f905afd38b7d7f38fdfa2d8caebbce)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libxfce4windowing](https://github.com/xfce-mirror/libxfce4windowing): [libxfce4windowing-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4windowing/compare/libxfce4windowing-4.20.0...HEAD)
 
@@ -1516,6 +1523,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Back to development</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/712756b2e0a25d65051e32b7e6377ced07fc1d64)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xfce.cfg: Allow user to set full path instead of prefix</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/636dd2ae8ecb7317b50d03752655e55fe7f88689)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1943,6 +1952,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>backlight: Fix percentage calculation</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/76d03a6ea681a9a5c77e3b1cb53a993aca874155)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/23752a49e5ef8ed8864d9e711f63b4f30d42e426)
+- [ ] [<code>Add D-Bus methods to get and set the screen brightness</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/ea11657f56afaf70e55f712890f1f20ece644cfb)
+- [ ] [<code>backlight: Round the brightness percentage</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/b56e75bd31289051f680bb284a37c41ffe221517)
+- [ ] [<code>Add support for Suspend then Hibernate as a sleep option</code>](https://github.com/xfce-mirror/xfce4-power-manager/commit/2c99e63971eb5f5116b1ada1f8a8600478fa8649)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xfce4-session](https://github.com/xfce-mirror/xfce4-session): [xfce4-session-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-session/compare/xfce4-session-4.20.0...HEAD)
 
@@ -2413,6 +2426,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>appearance-settings: Add comment to help translators</code>](https://github.com/xfce-mirror/xfce4-settings/commit/9df57e5ec364e6d7dacce9b2e75f2c341c24078e)
 - [ ] [<code>appearance: Match the icon theme variant to the theme in a rule</code>](https://github.com/xfce-mirror/xfce4-settings/commit/eac3b555dea9a20663dcd53f5ddd035b28b62387)
+- [ ] [<code>theme-schedule: Set the screen brightness at set times</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a5e0d330bff4b239e717298b0e11422e84bd6a0e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
