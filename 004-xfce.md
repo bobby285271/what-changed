@@ -2710,6 +2710,7 @@
 - [ ] [<code>gobject-linter: Fix use_explicit_default_flags</code>](https://github.com/xfce-mirror/xfdesktop/commit/194dc4e85be510d6b96acce48d91c86dc98541d7)
 - [ ] [<code>gobject-linter: Fix strcmp_explicit_comparison</code>](https://github.com/xfce-mirror/xfdesktop/commit/39ac64d93889a71676834b89823c006244d98f62)
 - [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfdesktop/commit/a5b5d749ea3e3cda49fb67fd1d5cf57b591d3b9d)
+- [ ] [<code>Remove unused unconditional `gdkx.h` include in `windowlist.c`</code>](https://github.com/xfce-mirror/xfdesktop/commit/04302d8fd670a33663dc14299fcdc6ffe002f1ab)
 
 #### [xfwm4](https://github.com/xfce-mirror/xfwm4): [xfwm4-4.20.0 → HEAD](https://github.com/xfce-mirror/xfwm4/compare/xfwm4-4.20.0...HEAD)
 
