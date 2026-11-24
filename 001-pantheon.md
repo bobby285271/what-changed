@@ -55,6 +55,8 @@
 - [ ] [<code>CSS: use color-mix instead of alpha and shade (#982)</code>](https://github.com/elementary/calendar/commit/577232c7c1285d1839e89413af47d9e42a8af5c6)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Icons: replace grid with dots (#955)</code>](https://github.com/elementary/calendar/commit/446df79a4447af3164735bf9c89613c22982db88)
+- [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1</code>](https://github.com/elementary/calendar/commit/c99f5c45a6f2040101d05a5da3a4d71fef5c9556)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -385,6 +387,7 @@
 - [ ] [<code>Add support for ICal >= 4.0.0 (#435)</code>](https://github.com/elementary/tasks/commit/1509007edfb932d60086ce4f4f14afe09440d6a0)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1</code>](https://github.com/elementary/tasks/commit/eb9b18b405a184214ce15532b9f004e5b5403e66)
 
 #### [pantheon.elementary-terminal](https://github.com/elementary/terminal): [refs/tags/8.1.0 → HEAD](https://github.com/elementary/terminal/compare/refs/tags/8.1.0...HEAD)
 
@@ -1310,6 +1313,10 @@
 - [ ] [<code>Don't depend on `libnotify` (#310)</code>](https://github.com/elementary/wingpanel-indicator-power/commit/5d0040b7b7cd352105b33b132bf52f2c40f207a2)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-power/commit/9ab85d224398ba177b8fc8105558b502e8e46824)
+- [ ] [<code>README.md: remove notify dep</code>](https://github.com/elementary/wingpanel-indicator-power/commit/24f4f71fa7be14256416ba929240c160cf61ba5d)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-power/commit/9aa5be69d313d38a1e286f7846c8bcd37f06cf6a)
+- [ ] [<code>Update POTFILES</code>](https://github.com/elementary/wingpanel-indicator-power/commit/06cffb38234d298e369bb078d1ecb45d133c1b73)
 
 #### [pantheon.wingpanel-indicator-sound](https://github.com/elementary/wingpanel-indicator-sound): [refs/tags/8.0.3 → HEAD](https://github.com/elementary/wingpanel-indicator-sound/compare/refs/tags/8.0.3...HEAD)
 
