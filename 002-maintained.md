@@ -680,53 +680,14 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/a7828e4ea7c1ea5acacd45f1d99f088f2885cd19)
 - [ ] [<code>remove comments (#2843)</code>](https://github.com/alainm23/planify/commit/6f4da2e48ed978e6261c0edf18ca07e53abea0e3)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/b5cf04257ffe4e40eaba4f60dd566f6643f4b764)
-
-#### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.0 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.0...HEAD)
-
-- [ ] [<code>Flatpak: jemalloc: Use .tar.gz instead of .tar.bz2 that requires bzip2 (#432)</code>](https://github.com/ellie-commons/sequeler/commit/7677c1b95577fdad3132273e033858969b24e17f)
-  - <sub>Tags: <code>v0.9.0-1</code></sub>
-- [ ] [<code>Remove unnecessary --socket=ssh-auth permission (#433)</code>](https://github.com/ellie-commons/sequeler/commit/eb07311e15318eddacd5f5c1a7930576d7dbe8e0)
-- [ ] [<code>README: Update Flathub badge</code>](https://github.com/ellie-commons/sequeler/commit/3b4131775ea95cfecee7d4a3a4272831a9c1a203)
-- [ ] [<code>libaio: Remove dead cflags for i386</code>](https://github.com/ellie-commons/sequeler/commit/365211cd4a9bfce34cc1091bcbe0d11ccdefa3cc)
-- [ ] [<code>libaio: Don't use debian archives</code>](https://github.com/ellie-commons/sequeler/commit/4a8e7ea45b04be71b5e8116430a7913357c39607)
-- [ ] [<code>intltool: Use shared-modules</code>](https://github.com/ellie-commons/sequeler/commit/1628c7658008f491fc080ee3df4b602bde56e3a3)
-- [ ] [<code>Application: Force elementary stylesheet to prevent broken UI on other DEs</code>](https://github.com/ellie-commons/sequeler/commit/88f0728e227d7e271bbb417b6d3e5f0ef22553b3)
-- [ ] [<code>Remove trailing slash of directories</code>](https://github.com/ellie-commons/sequeler/commit/c2f670fd0a0f5d6b54ba85f72da2b25066d699b9)
+- [ ] [<code>remove comments (#2844)</code>](https://github.com/alainm23/planify/commit/f826924579c5da9c1d5e0ab946cf5238be6b30da)
   - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Remove unnecesarry libdir build option for Flathub builds</code>](https://github.com/ellie-commons/sequeler/commit/11c684a8cc012b7ba4c0a9fba5f65f7c92187f4d)
-- [ ] [<code>Actions: Checkout submodules too</code>](https://github.com/ellie-commons/sequeler/commit/176d78944b456626a82a202502e69ba7aa78f2b7)
-- [ ] [<code>gettext: Remove unnecessary git config</code>](https://github.com/ellie-commons/sequeler/commit/001f334201438c042a513752c040bbdafac238bc)
-- [ ] [<code>Add Italian translation for metadata (#441)</code>](https://github.com/ellie-commons/sequeler/commit/f2954288ec88292a7d468f35c4fa18e10ba26565)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Actions: Do not install unnecessary bzip2</code>](https://github.com/ellie-commons/sequeler/commit/de6d817ca9bd61acd6e3e4353fa98b7c7895746e)
-- [ ] [<code>meson: Fix wrong po_dir of metainfo (#445)</code>](https://github.com/ellie-commons/sequeler/commit/94af32cf06a0e1d156d4a7e29ecd496f709adb46)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Flatpak: Inherit libfmt from GNOME Platform (#446)</code>](https://github.com/ellie-commons/sequeler/commit/a7f5d1dcdcfd6d0b3dd34254ce65681194d5d173)
-- [ ] [<code>intltool: Use tarball instead of shared-modules for gettext-flatpak</code>](https://github.com/ellie-commons/sequeler/commit/17bbfa20406cdb51949343c70df4820886f3d8b3)
-- [ ] [<code>Revert "gettext: Remove unnecessary git config"</code>](https://github.com/ellie-commons/sequeler/commit/c6f6d3dcacf6e556a8a7b6964c44ba02f8ebc80f)
-- [ ] [<code>metainfo: Add vcs-browser url (#447)</code>](https://github.com/ellie-commons/sequeler/commit/9b89aaad25b7d59bd5848dd1756c66ab76d3786d)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.6 to 6.7 (#448)</code>](https://github.com/ellie-commons/sequeler/commit/1cd1d078e2ff5e60bd9b5a8dbfb9129b631994ef)
-- [ ] [<code>Application: Use Vala-style properties (#449)</code>](https://github.com/ellie-commons/sequeler/commit/3702710209a506c9f197f6289ab12a20a89f1a02)
-- [ ] [<code>Flatpak: Update GNOME Platform to 50 (#450)</code>](https://github.com/ellie-commons/sequeler/commit/276a0120a71f5ef9a28d9bda159e647d04832f0a)
-- [ ] [<code>Actions: Remove gettext</code>](https://github.com/ellie-commons/sequeler/commit/8d3374a4932e35f07f384f42b85d8e83bf128e7f)
-- [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/ellie-commons/sequeler/commit/8d3894b2eeba9713f7b84caaa86c2cf619b2b366)
-- [ ] [<code>Bump flatpak/flatpak-github-actions from 6.7 to 6.8 (#452)</code>](https://github.com/ellie-commons/sequeler/commit/3089ee67c5d0fbc808320acd7857191e4883e429)
-- [ ] [<code>Update elementary runtime to 9.1</code>](https://github.com/ellie-commons/sequeler/commit/9ac19a5b90922693c4ac77572e5847189e15d6e4)
-- [ ] [<code>Update GNOME runtime to 51</code>](https://github.com/ellie-commons/sequeler/commit/c58973a621aa50d0a51011db24f3946ad97fa046)
-- [ ] [<code>libaio: Switch upstream site from decommissioned pagure.io to codeberg.org</code>](https://github.com/ellie-commons/sequeler/commit/8abfbbf40281ac0e94ab656409221f39520140d2)
-- [ ] [<code>jemalloc: Update 5.3.0.tar.gz to 5.4.0</code>](https://github.com/ellie-commons/sequeler/commit/fc5f088ac4cc40324dc29d5dc33f69e8da85c78e)
-- [ ] [<code>postgresql-libs: Update postgresql-18.1.tar.gz to 18.6</code>](https://github.com/ellie-commons/sequeler/commit/92b7f7e0e670971cf5a035998fd966fcd1221b24)
-- [ ] [<code>mariadb: Update 12.2.1 to 13.1.1</code>](https://github.com/ellie-commons/sequeler/commit/df4ea6dc99c0707b9adba0667e3200e372e24272)
-- [ ] [<code>Actions: Update ghcr.io/elementary/flatpak-platform/runtime to 9.1</code>](https://github.com/ellie-commons/sequeler/commit/5bddf881c707ce41d80005f8b988581393aeefe5)
-- [ ] [<code>metainfo: Add 0.9.1 release notes (#454)</code>](https://github.com/ellie-commons/sequeler/commit/ff9ec0a64f9554ca963f46c23f8fbeb47873b452)
-- [ ] [<code>metainfo: Use appstreamcli instead of appstream-util (#455)</code>](https://github.com/ellie-commons/sequeler/commit/79a4c0d538d769f2d3afcffbf6cada98878cc86d)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Update project ID the old one doesn't exist (#456)</code>](https://github.com/ellie-commons/sequeler/commit/73e14a3863821677eecf82f01f947f265f36b22d)
-- [ ] [<code>Update submodule shared-modules to 785a5394b6e4</code>](https://github.com/ellie-commons/sequeler/commit/ad5fd5351e3669f848f4b19a230e3b4ec19980da)
-- [ ] [<code>postgresql-libs: Update postgresql-18.6.tar.gz to 18.7</code>](https://github.com/ellie-commons/sequeler/commit/03ce5cdbca10a3d3e7f744116d1e935a856093e6)
-- [ ] [<code>Release 0.9.1 (#457)</code>](https://github.com/ellie-commons/sequeler/commit/260c62841dff8d453d54e9743dcda443b54bd4b1)
-  - <sub>Tags: <code>v0.9.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c48e3c41c078f7c550d4dbc51c44a6d5a0f1aa42)
+- [ ] [<code>remove comments (#2845)</code>](https://github.com/alainm23/planify/commit/f167dbbf76a496247cbd47529590d1b82f122e32)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/930e5a67612abdfb49ce986c8ec380989ffb73cb)
+
+#### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.1 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.1...HEAD)
+
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
