@@ -126,6 +126,9 @@
             "content": "## xapp-project"
         },
         {
+            "attr_path": "clockenstein"
+        },
+        {
             "attr_path": "gnome-online-accounts-gtk"
         },
         {
