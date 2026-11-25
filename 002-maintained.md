@@ -685,6 +685,10 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/c48e3c41c078f7c550d4dbc51c44a6d5a0f1aa42)
 - [ ] [<code>remove comments (#2845)</code>](https://github.com/alainm23/planify/commit/f167dbbf76a496247cbd47529590d1b82f122e32)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/930e5a67612abdfb49ce986c8ec380989ffb73cb)
+- [ ] [<code>feat(caldav): offline support for calendars (#2846)</code>](https://github.com/alainm23/planify/commit/16df1f10279f3dd2222d35b6cddb2df98992d33f)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d389e7f139ff9f4d51fb979d6ea963a5d09f8ac7)
+- [ ] [<code>feat(deck): offline support for boards (#2847)</code>](https://github.com/alainm23/planify/commit/411a78424259db417dd5b12775c76843e56f08e7)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20a50dfcc44c7353daaa2314d80674dd57425362)
 
 #### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.1 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.1...HEAD)
 
