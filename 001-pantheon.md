@@ -872,6 +872,9 @@
 - [ ] [<code>Implement maximize gesture</code>](https://github.com/elementary/gala/commit/c786463d6d634003b7df5e88092efa837191ede4)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>TouchpadBackend: Make sure we don't steal gestures from other instances</code>](https://github.com/elementary/gala/commit/7e95118fc1322631020a6761384f3ee777e59d1e)
+- [ ] [<code>Require mutter 50</code>](https://github.com/elementary/gala/commit/245473edb3903523f453a99c633341066c345f56)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
