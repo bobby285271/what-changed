@@ -369,6 +369,11 @@
 - [ ] [<code>clipboard-manager: Wayland support for org.xfce.ClipboardManager</code>](https://github.com/xfce-mirror/libxfce4ui/commit/34b800da7ec933cefd76dd538ecd401001d8b3a5)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Make XfceClipboardManagerClass private</code>](https://github.com/xfce-mirror/libxfce4ui/commit/21ae1e37082b360d53c69a9b2f8c26a475239b0a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Improve error handling/reporting for persisting clipboard state</code>](https://github.com/xfce-mirror/libxfce4ui/commit/2e15eac11a55b2d0e60c817ccd6aa23e763640d0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Skip xfce_clipboard_manager_new in vala binding</code>](https://github.com/xfce-mirror/libxfce4ui/commit/469428387343c39aab1ce71c5e52544c210e57c1)
 
 #### [libxfce4util](https://github.com/xfce-mirror/libxfce4util): [libxfce4util-4.20.0 → HEAD](https://github.com/xfce-mirror/libxfce4util/compare/libxfce4util-4.20.0...HEAD)
 
@@ -1801,6 +1806,7 @@
 - [ ] [<code>Fix xfce_panel_plugin_(block|unblock)_menu not appearing in docs</code>](https://github.com/xfce-mirror/xfce4-panel/commit/d992e227eca2d2f33ea869eed9d6814d5bc32f5c)
 - [ ] [<code>libxfce4panel: Don't skip xfce_panel_gtk_show_about_dialog from vapi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd02480b7c569af980f32eca8670aba9b023d88a)
 - [ ] [<code>panel: Fix autohide window positioning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/360d950c4af4cc9acb6ca3b739ac36d22e4f7cc1)
+- [ ] [<code>clock: Set a title on the calendar popup window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/848ef6a1b28139bddf606e864524f9b59260dd70)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
