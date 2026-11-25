@@ -833,7 +833,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>keyringPrompt.js: Allow correcting the password after a failed check</code>](https://github.com/linuxmint/cinnamon/commit/3cce207e8ed1190e2240990c4b0432d72820f601)
 - [ ] [<code>screenShield.js: Fix tab-to-focus cycling</code>](https://github.com/linuxmint/cinnamon/commit/48a33f9b315c58b49d803a1413fe60297dda8425)
+- [ ] [<code>gestures: settings cleanup, additional runtime fixes</code>](https://github.com/linuxmint/cinnamon/commit/5b9713a555f76b5c387a40b51057e65ed3e2a62c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint27</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -1224,9 +1226,13 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.8.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.8.1...HEAD)
 
+- [ ] [<code>Add some missing office template links</code>](https://github.com/linuxmint/mint-x-icons/commit/13fb1b91e7ecaff88a91c71fe69482c324f7f869)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.8...HEAD)
 
+- [ ] [<code>Generate missing office template symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/9c07f0a7d0e84fee774c06024c942f244f1c5e09)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
