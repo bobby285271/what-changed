@@ -204,6 +204,7 @@
 
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [9.0.0 → HEAD](https://github.com/elementary/maps/compare/9.0.0...HEAD)
 
+- [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1 (#197)</code>](https://github.com/elementary/maps/commit/59e1ac8831c32af45e41ddcd13fdeba5cae8756d)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
