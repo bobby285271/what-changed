@@ -57,6 +57,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Icons: replace grid with dots (#955)</code>](https://github.com/elementary/calendar/commit/446df79a4447af3164735bf9c89613c22982db88)
 - [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1</code>](https://github.com/elementary/calendar/commit/c99f5c45a6f2040101d05a5da3a4d71fef5c9556)
+- [ ] [<code>Fix event overflow in month view (#978)</code>](https://github.com/elementary/calendar/commit/6f0a89064e148c8ca159aead0f1f68f1a1b115e1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -523,6 +525,9 @@
 - [ ] [<code>Fix icons for OS 9 (#279)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/5452d79590fdd36413a48ede005332a348900b07)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Drop Touchegg (#283)</code>](https://github.com/elementary/settings-mouse-touchpad/commit/d299ea7f3598883f429c617149350707e5dd7b97)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [pantheon.switchboard-plug-network](https://github.com/elementary/switchboard-plug-network): [8.2.0 → HEAD](https://github.com/elementary/switchboard-plug-network/compare/8.2.0...HEAD)
 
@@ -876,6 +881,11 @@
 - [ ] [<code>Require mutter 50</code>](https://github.com/elementary/gala/commit/245473edb3903523f453a99c633341066c345f56)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Daemon: Remove monitor labels (#2991)</code>](https://github.com/elementary/gala/commit/e1ec1ffe37c2e08c9ec7e55d82c389682940d28f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: Don't lint nonexistent daemon-gtk3 dir</code>](https://github.com/elementary/gala/commit/64f897b876d8d1182e822ec8314ca6027119d1e0)
+- [ ] [<code>CI: Don't install some unused dependencies</code>](https://github.com/elementary/gala/commit/b155c82a12185d31e2532d7faa4319e44e138017)
+- [ ] [<code>CI/debian-sid: Sort dependencies alphabetically</code>](https://github.com/elementary/gala/commit/6c6e05ef753914146d8c5fd35ff58a53dd63ee43)
 
 #### [pantheon.wingpanel](https://github.com/elementary/wingpanel): [refs/tags/8.0.4 → HEAD](https://github.com/elementary/wingpanel/compare/refs/tags/8.0.4...HEAD)
 
