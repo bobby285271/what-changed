@@ -1530,6 +1530,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>xfce.cfg: Allow user to set full path instead of prefix</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/636dd2ae8ecb7317b50d03752655e55fe7f88689)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>ci: Make the potfile check functional</code>](https://github.com/xfce-mirror/xfce4-dev-tools/commit/8028d943159bb52ddc5ce020c2d1ae76d090291a)
 
 #### [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel): [xfce4-panel-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-panel/compare/xfce4-panel-4.20.0...HEAD)
 
@@ -1807,6 +1808,10 @@
 - [ ] [<code>libxfce4panel: Don't skip xfce_panel_gtk_show_about_dialog from vapi</code>](https://github.com/xfce-mirror/xfce4-panel/commit/fd02480b7c569af980f32eca8670aba9b023d88a)
 - [ ] [<code>panel: Fix autohide window positioning</code>](https://github.com/xfce-mirror/xfce4-panel/commit/360d950c4af4cc9acb6ca3b739ac36d22e4f7cc1)
 - [ ] [<code>clock: Set a title on the calendar popup window</code>](https://github.com/xfce-mirror/xfce4-panel/commit/848ef6a1b28139bddf606e864524f9b59260dd70)
+- [ ] [<code>wayland: libxfce4panel: Popup menu only when autohidden panel is shown</code>](https://github.com/xfce-mirror/xfce4-panel/commit/b96d2f15a8f91606036ab7cd8eaec4e02acc0858)
+- [ ] [<code>Fix clicks being ignored on an auto-hidden panel on Wayland</code>](https://github.com/xfce-mirror/xfce4-panel/commit/bc42856c8ee639b798eac615582440a7cf7d5459)
+- [ ] [<code>libxfce4panel: Position menu on show signal or delayed, not both</code>](https://github.com/xfce-mirror/xfce4-panel/commit/efa663f69690ef49553390b469d0e49de23f5214)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfce4-panel/commit/039fb45aee1214d15ca4edf24d8d94a0879f9b7f)
 
 #### [xfce4-power-manager](https://github.com/xfce-mirror/xfce4-power-manager): [xfce4-power-manager-4.20.0 → HEAD](https://github.com/xfce-mirror/xfce4-power-manager/compare/xfce4-power-manager-4.20.0...HEAD)
 
@@ -2434,6 +2439,7 @@
 - [ ] [<code>appearance: Match the icon theme variant to the theme in a rule</code>](https://github.com/xfce-mirror/xfce4-settings/commit/eac3b555dea9a20663dcd53f5ddd035b28b62387)
 - [ ] [<code>theme-schedule: Set the screen brightness at set times</code>](https://github.com/xfce-mirror/xfce4-settings/commit/a5e0d330bff4b239e717298b0e11422e84bd6a0e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wayland: display-settings: Don't show dialog when screens come back</code>](https://github.com/xfce-mirror/xfce4-settings/commit/cd4bd8e737cfb4911e40097b4be451a8b08ef429)
 
 #### [xfconf](https://github.com/xfce-mirror/xfconf): [xfconf-4.20.0 → HEAD](https://github.com/xfce-mirror/xfconf/compare/xfconf-4.20.0...HEAD)
 
@@ -2747,3 +2753,4 @@
 - [ ] [<code>Rename settings .desktop files</code>](https://github.com/xfce-mirror/xfwm4/commit/0882e3854c9ff87c3453545a8135c8e2b8bb60e2)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove G_GNUC_CONST</code>](https://github.com/xfce-mirror/xfwm4/commit/3da7da5cbd852091f41c07ffa7f13861e923d66b)
+- [ ] [<code>I18n: Update po/LINGUAS list</code>](https://github.com/xfce-mirror/xfwm4/commit/9c97690c4dacfd68f51351f6d1306f497588b4f9)
