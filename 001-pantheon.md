@@ -59,6 +59,7 @@
 - [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1</code>](https://github.com/elementary/calendar/commit/c99f5c45a6f2040101d05a5da3a4d71fef5c9556)
 - [ ] [<code>Fix event overflow in month view (#978)</code>](https://github.com/elementary/calendar/commit/6f0a89064e148c8ca159aead0f1f68f1a1b115e1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Grid: inline namespace, explicit scope, SPDX header (#984)</code>](https://github.com/elementary/calendar/commit/d50c4611f25218465ac68b1528ae669e83576d35)
 
 #### [pantheon.elementary-camera](https://github.com/elementary/camera): [9.0.0 → HEAD](https://github.com/elementary/camera/compare/9.0.0...HEAD)
 
@@ -207,6 +208,8 @@
 #### [pantheon.elementary-maps](https://github.com/elementary/maps): [9.0.0 → HEAD](https://github.com/elementary/maps/compare/9.0.0...HEAD)
 
 - [ ] [<code>libshumate: Update libshumate-1.7.0.tar.xz to 1.7.1 (#197)</code>](https://github.com/elementary/maps/commit/59e1ac8831c32af45e41ddcd13fdeba5cae8756d)
+- [ ] [<code>Fix Backspace and Delete handling in search results popover (#196)</code>](https://github.com/elementary/maps/commit/d8252ce72e1320dffdc1addf0763d6bb7fcd2ef1)
+- [ ] [<code>Feat: Popover for "You are here" (#193)</code>](https://github.com/elementary/maps/commit/b6c629d4fc82fc78af0124e9476b73d8c67f1aeb)
 
 #### [pantheon.elementary-monitor](https://github.com/elementary/monitor): [refs/tags/8.0.1 → HEAD](https://github.com/elementary/monitor/compare/refs/tags/8.0.1...HEAD)
 
@@ -613,6 +616,7 @@
 
 - [ ] [<code>Bump actions/checkout from 6 to 7</code>](https://github.com/elementary/settings-wacom/commit/cf7607601e9dcced383ba167327cca2a4adcabbb)
 - [ ] [<code>Actions: Update gettext-template (#86)</code>](https://github.com/elementary/settings-wacom/commit/e95f2310c70dd2eea1eeab45be1874c1c45b11e7)
+- [ ] [<code>Fix freeing of freed resource (#88)</code>](https://github.com/elementary/settings-wacom/commit/ad250bcb23249dc23913faa4b3e34c7f08adc9ae)
 ## artwork
 
 #### [pantheon.elementary-gtk-theme](https://github.com/elementary/stylesheet): [8.2.2 → HEAD](https://github.com/elementary/stylesheet/compare/8.2.2...HEAD)
