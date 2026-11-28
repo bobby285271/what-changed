@@ -497,9 +497,12 @@
 - [ ] [<code>Merge branch 'pdf-clickable-links'</code>](https://github.com/phase1geo/minder/commit/4400f40c85c16b3330c51cd53b122f6397fc5abf)
 - [ ] [<code>Fixing code issue when an open URL shortcut is launched over non-URL</code>](https://github.com/phase1geo/minder/commit/cbbed9acd453aca3d33f77d3d8ff6122c433f858)
 - [ ] [<code>Adding release notes for next version.</code>](https://github.com/phase1geo/minder/commit/ecc0700a53614ba5451f52f11205664470ce9662)
+- [ ] [<code>Fixing SVG height truncation.</code>](https://github.com/phase1geo/minder/commit/c04a342f889ddf7f79174d90b6d879bc26f3e170)
+- [ ] [<code>Merge pull request #767 from yangfl/master</code>](https://github.com/phase1geo/minder/commit/0e7e387b3e3f1b34c58a6ca6864c6c17f2c0a673)
 
 #### [pantheon-tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks): [2.6.0 → HEAD](https://github.com/pantheon-tweaks/pantheon-tweaks/compare/2.6.0...HEAD)
 
+- [ ] [<code>README: DRY supported table</code>](https://github.com/pantheon-tweaks/pantheon-tweaks/commit/e0097ab84be58964ffe40f14956b4eeea24e67c9)
 
 #### [planify](https://github.com/alainm23/planify): [refs/tags/v4.20.0 → HEAD](https://github.com/alainm23/planify/compare/refs/tags/v4.20.0...HEAD)
 
@@ -689,9 +692,29 @@
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/d389e7f139ff9f4d51fb979d6ea963a5d09f8ac7)
 - [ ] [<code>feat(deck): offline support for boards (#2847)</code>](https://github.com/alainm23/planify/commit/411a78424259db417dd5b12775c76843e56f08e7)
 - [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/20a50dfcc44c7353daaa2314d80674dd57425362)
-
-#### [sequeler](https://github.com/ellie-commons/sequeler): [refs/tags/v0.9.1 → HEAD](https://github.com/ellie-commons/sequeler/compare/refs/tags/v0.9.1...HEAD)
-
+- [ ] [<code>ui(accounts): make the client certificate setting less prominent (#2848)</code>](https://github.com/alainm23/planify/commit/5037e1a3337ca0a7715a32a1942b3da8b376b31d)
+- [ ] [<code>ui(accounts): make the client certificate setting less prominent (#2848)</code>](https://github.com/alainm23/planify/commit/8cb34edb8a8facfc2d21d7967e35ebd62972a665)
+- [ ] [<code>ui(accounts): dialog toasts and Deck loading state (#2849)</code>](https://github.com/alainm23/planify/commit/99a3cb16fe3faeac985ec69d3a40d5039c1b841f)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/6593adbb1cd4f6bb6e230616b66043b9cd93299b)
+- [ ] [<code>Release: 4.21.0 (#2850)</code>](https://github.com/alainm23/planify/commit/c8a81f4abebecb45f3b5b9bbeb52f499c6f6d3cb)
+  - <sub>Tags: <code>v4.21.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: don't install the Devel icon outside the development profile (#2851)</code>](https://github.com/alainm23/planify/commit/b6d207a3ecdfdc0c20ee7699b4c101365dc4d467)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>feat(cli): add delete command for tasks, sections and projects (#2607)</code>](https://github.com/alainm23/planify/commit/09568bb18b1241ed1f48c80ca611496cc33ce9e3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/76ddfa6274e46099f76044b8e3deecdb82146b60)
+- [ ] [<code>Translations update from Hosted Weblate (#2803)</code>](https://github.com/alainm23/planify/commit/0f230e08fe2682e8c3fce2d5f082c8a1f38edd63)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/8f8fa23829884e6a9dff320bd10487e6b47f9fb7)
+- [ ] [<code>Add Google Tasks sign-in and account (#2854)</code>](https://github.com/alainm23/planify/commit/2d9b84a9b38051afb609905c0a15288373289555)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/17e7c6a14b9e10c4d4ba023ba16b7e9e825ba99c)
+- [ ] [<code>Sync Google Tasks lists as projects (#2856)</code>](https://github.com/alainm23/planify/commit/bae56a5b7e19ade5c470f4ef76e2d8332ff1af8e)
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/0c2d37e382a7fb006c16b7eea1054d4688424828)
+- [ ] [<code>remove comments (#2857)</code>](https://github.com/alainm23/planify/commit/42d158a71181d15d1a7546179ddd2fcf51405b45)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/alainm23/planify/commit/f6dadf0f5d1571f00ac15e04afbe68bc8574bbfa)
 
 #### [snippetpixie](https://github.com/ianmjones/snippetpixie): [1.5.3 → HEAD](https://github.com/ianmjones/snippetpixie/compare/1.5.3...HEAD)
 
